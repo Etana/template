@@ -1,0 +1,7 @@
+<form action="{S_JUMPBOX_ACTION}" method="get" name="jumpbox" onsubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">{L_JUMP_TO}:&nbsp;{S_JUMPBOX_SELECT}&nbsp;<input class="liteoption" type="submit" value="{L_GO}" /></span></td>
+	</tr>
+</table>
+</form>
