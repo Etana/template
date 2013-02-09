@@ -1,2 +1,2 @@
-template.list
-=============
+List of forumotion template
+===========================
