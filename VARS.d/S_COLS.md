@@ -1,11 +1,15 @@
 # Variable S_COLS
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_COLS)
+
 ## Utilisations dans les templates
+
 ### Version phpBB2
+
 #### [Template album_index_body](subsilver/album_index_body.md)
 * [Variable à la ligne 11](../subsilver/album_index_body.tpl#L11)
 * [Variable à la ligne 14](../subsilver/album_index_body.tpl#L14)
 * [Variable à la ligne 66](../subsilver/album_index_body.tpl#L66)
+
 #### [Template album_cat_body](subsilver/album_cat_body.md)
 * [Variable à la ligne 33](../subsilver/album_cat_body.tpl#L33)
 * [Variable à la ligne 39](../subsilver/album_cat_body.tpl#L39)

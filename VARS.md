@@ -1,5 +1,4 @@
 # <a name="variables"></a>Liste des variables de template
-
 * [_calendar_box](VARS.d/_calendar_box.md) 
 * [_calendar_box._cell.L_DAY](VARS.d/_calendar_box._cell.L_DAY.md) 
 * [_calendar_box._cell.WIDTH](VARS.d/_calendar_box._cell.WIDTH.md) 

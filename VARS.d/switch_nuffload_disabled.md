@@ -1,7 +1,10 @@
 # Variable switch_nuffload_disabled
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_nuffload_disabled)
+
 ## Utilisations dans les templates
+
 ### Version PunBB
+
 #### [Template album_upload_body](punbb/album_upload_body.md)
 * [Début de condition à la ligne 111](../punbb/album_upload_body.tpl#L111)
 * [Fin de condition à la ligne 248](../punbb/album_upload_body.tpl#L248)
@@ -13,7 +16,9 @@
 * [Fin de condition à la ligne 317](../punbb/album_upload_body.tpl#L317)
 * [Début de condition à la ligne 333](../punbb/album_upload_body.tpl#L333)
 * [Fin de condition à la ligne 336](../punbb/album_upload_body.tpl#L336)
+
 ### Version phpBB2
+
 #### [Template album_upload_body](subsilver/album_upload_body.md)
 * [Début de condition à la ligne 95](../subsilver/album_upload_body.tpl#L95)
 * [Fin de condition à la ligne 231](../subsilver/album_upload_body.tpl#L231)

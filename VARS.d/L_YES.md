@@ -1,15 +1,21 @@
 # Variable L_YES
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_YES)
+
 ## Utilisations dans les templates
+
 ### Version PunBB
+
 #### [Template confirm_body](punbb/confirm_body.md)
 * [Variable à la ligne 12](../punbb/confirm_body.tpl#L12)
+
 #### [Template posting_poll_body](punbb/posting_poll_body.md)
 * [Variable à la ligne 59](../punbb/posting_poll_body.tpl#L59)
 * [Variable à la ligne 66](../punbb/posting_poll_body.tpl#L66)
 * [Variable à la ligne 75](../punbb/posting_poll_body.tpl#L75)
+
 #### [Template donate](punbb/donate.md)
 * [Variable à la ligne 188](../punbb/donate.tpl#L188)
+
 #### [Template profile_add_body](punbb/profile_add_body.md)
 * [Variable à la ligne 179](../punbb/profile_add_body.tpl#L179)
 * [Variable à la ligne 189](../punbb/profile_add_body.tpl#L189)
@@ -29,17 +35,23 @@
 * [Variable à la ligne 319](../punbb/profile_add_body.tpl#L319)
 * [Variable à la ligne 325](../punbb/profile_add_body.tpl#L325)
 * [Variable à la ligne 331](../punbb/profile_add_body.tpl#L331)
+
 #### [Template modcp_move](punbb/modcp_move.md)
 * [Variable à la ligne 43](../punbb/modcp_move.tpl#L43)
+
 ### Version phpBB2
+
 #### [Template confirm_body](subsilver/confirm_body.md)
 * [Variable à la ligne 15](../subsilver/confirm_body.tpl#L15)
+
 #### [Template posting_poll_body](subsilver/posting_poll_body.md)
 * [Variable à la ligne 53](../subsilver/posting_poll_body.tpl#L53)
 * [Variable à la ligne 58](../subsilver/posting_poll_body.tpl#L58)
 * [Variable à la ligne 64](../subsilver/posting_poll_body.tpl#L64)
+
 #### [Template donate](subsilver/donate.md)
 * [Variable à la ligne 226](../subsilver/donate.tpl#L226)
+
 #### [Template profile_add_body](subsilver/profile_add_body.md)
 * [Variable à la ligne 127](../subsilver/profile_add_body.tpl#L127)
 * [Variable à la ligne 137](../subsilver/profile_add_body.tpl#L137)
@@ -59,5 +71,6 @@
 * [Variable à la ligne 277](../subsilver/profile_add_body.tpl#L277)
 * [Variable à la ligne 284](../subsilver/profile_add_body.tpl#L284)
 * [Variable à la ligne 291](../subsilver/profile_add_body.tpl#L291)
+
 #### [Template modcp_move](subsilver/modcp_move.md)
 * [Variable à la ligne 28](../subsilver/modcp_move.tpl#L28)

@@ -1,30 +1,45 @@
 # Variable S_ALBUM_ACTION
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_ALBUM_ACTION)
+
 ## Utilisations dans les templates
+
 ### Version PunBB
+
 #### [Template album_modcp_body](punbb/album_modcp_body.md)
 * [Variable à la ligne 29](../punbb/album_modcp_body.tpl#L29)
+
 #### [Template album_upload_body](punbb/album_upload_body.md)
 * [Variable à la ligne 251](../punbb/album_upload_body.tpl#L251)
+
 #### [Template album_moderate_body](punbb/album_moderate_body.md)
 * [Variable à la ligne 76](../punbb/album_moderate_body.tpl#L76)
+
 #### [Template album_edit_body](punbb/album_edit_body.md)
 * [Variable à la ligne 50](../punbb/album_edit_body.tpl#L50)
+
 #### [Template album_cat_body](punbb/album_cat_body.md)
 * [Variable à la ligne 90](../punbb/album_cat_body.tpl#L90)
+
 #### [Template album_showpage_body](punbb/album_showpage_body.md)
 * [Variable à la ligne 305](../punbb/album_showpage_body.tpl#L305)
+
 ### Version phpBB2
+
 #### [Template album_modcp_body](subsilver/album_modcp_body.md)
 * [Variable à la ligne 4](../subsilver/album_modcp_body.tpl#L4)
+
 #### [Template album_upload_body](subsilver/album_upload_body.md)
 * [Variable à la ligne 234](../subsilver/album_upload_body.tpl#L234)
+
 #### [Template album_moderate_body](subsilver/album_moderate_body.md)
 * [Variable à la ligne 54](../subsilver/album_moderate_body.tpl#L54)
+
 #### [Template album_edit_body](subsilver/album_edit_body.md)
 * [Variable à la ligne 30](../subsilver/album_edit_body.tpl#L30)
+
 #### [Template album_cat_body](subsilver/album_cat_body.md)
 * [Variable à la ligne 83](../subsilver/album_cat_body.tpl#L83)
 * [Variable à la ligne 164](../subsilver/album_cat_body.tpl#L164)
+
 #### [Template album_showpage_body](subsilver/album_showpage_body.md)
 * [Variable à la ligne 324](../subsilver/album_showpage_body.tpl#L324)

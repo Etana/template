@@ -1,27 +1,41 @@
 # Variable de la template profile_send_pass (phpBB2)
+
 [Code de la template](../../subsilver/profile_send_pass.md)
+
 ## Variables utilisées
-#### [EMAIL](../EMAIL.md)
+
+### [EMAIL](../EMAIL.md)
 * [Variable à la ligne 20](../../subsilver/profile_send_pass.tpl#L20)
-#### [L_EMAIL_ADDRESS](../L_EMAIL_ADDRESS.md)
+
+### [L_EMAIL_ADDRESS](../L_EMAIL_ADDRESS.md)
 * [Variable à la ligne 19](../../subsilver/profile_send_pass.tpl#L19)
-#### [L_INDEX](../L_INDEX.md)
+
+### [L_INDEX](../L_INDEX.md)
 * [Variable à la ligne 4](../../subsilver/profile_send_pass.tpl#L4)
-#### [L_ITEMS_REQUIRED](../L_ITEMS_REQUIRED.md)
+
+### [L_ITEMS_REQUIRED](../L_ITEMS_REQUIRED.md)
 * [Variable à la ligne 12](../../subsilver/profile_send_pass.tpl#L12)
-#### [L_RESET](../L_RESET.md)
+
+### [L_RESET](../L_RESET.md)
 * [Variable à la ligne 25](../../subsilver/profile_send_pass.tpl#L25)
-#### [L_SEND_PASSWORD](../L_SEND_PASSWORD.md)
+
+### [L_SEND_PASSWORD](../L_SEND_PASSWORD.md)
 * [Variable à la ligne 9](../../subsilver/profile_send_pass.tpl#L9)
-#### [L_SUBMIT](../L_SUBMIT.md)
+
+### [L_SUBMIT](../L_SUBMIT.md)
 * [Variable à la ligne 25](../../subsilver/profile_send_pass.tpl#L25)
-#### [L_USERNAME](../L_USERNAME.md)
+
+### [L_USERNAME](../L_USERNAME.md)
 * [Variable à la ligne 15](../../subsilver/profile_send_pass.tpl#L15)
-#### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md)
+
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md)
 * [Variable à la ligne 24](../../subsilver/profile_send_pass.tpl#L24)
-#### [S_PROFILE_ACTION](../S_PROFILE_ACTION.md)
+
+### [S_PROFILE_ACTION](../S_PROFILE_ACTION.md)
 * [Variable à la ligne 1](../../subsilver/profile_send_pass.tpl#L1)
-#### [U_INDEX](../U_INDEX.md)
+
+### [U_INDEX](../U_INDEX.md)
 * [Variable à la ligne 4](../../subsilver/profile_send_pass.tpl#L4)
-#### [USERNAME](../USERNAME.md)
+
+### [USERNAME](../USERNAME.md)
 * [Variable à la ligne 16](../../subsilver/profile_send_pass.tpl#L16)

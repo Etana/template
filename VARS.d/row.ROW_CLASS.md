@@ -1,7 +1,10 @@
 # Variable row.ROW_CLASS
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#row.ROW_CLASS)
+
 ## Utilisations dans les templates
+
 ### Version phpBB2
+
 #### [Template report_list_body](subsilver/report_list_body.md)
 * [Variable à la ligne 25](../subsilver/report_list_body.tpl#L25)
 * [Variable à la ligne 26](../subsilver/report_list_body.tpl#L26)

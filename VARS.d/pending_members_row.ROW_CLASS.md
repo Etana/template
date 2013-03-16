@@ -1,7 +1,10 @@
 # Variable pending_members_row.ROW_CLASS
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#pending_members_row.ROW_CLASS)
+
 ## Utilisations dans les templates
+
 ### Version phpBB2
+
 #### [Template groupcp_pending_info](subsilver/groupcp_pending_info.md)
 * [Variable à la ligne 16](../subsilver/groupcp_pending_info.tpl#L16)
 * [Variable à la ligne 17](../subsilver/groupcp_pending_info.tpl#L17)

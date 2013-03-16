@@ -1,67 +1,99 @@
 # Variable de la template album_edit_body (PunBB)
+
 [Code de la template](../../punbb/album_edit_body.md)
+
 ## Variables utilisées
-#### [JS_MENU](../JS_MENU.md)
+
+### [JS_MENU](../JS_MENU.md)
 * [Variable à la ligne 1](../../punbb/album_edit_body.tpl#L1)
-#### [L_DESC_TOO_LONG](../L_DESC_TOO_LONG.md)
+
+### [L_DESC_TOO_LONG](../L_DESC_TOO_LONG.md)
 * [Variable à la ligne 31](../../punbb/album_edit_body.tpl#L31)
-#### [L_EDIT_PIC_INFO](../L_EDIT_PIC_INFO.md)
+
+### [L_EDIT_PIC_INFO](../L_EDIT_PIC_INFO.md)
 * [Variable à la ligne 48](../../punbb/album_edit_body.tpl#L48)
-#### [L_INDEX](../L_INDEX.md)
+
+### [L_INDEX](../L_INDEX.md)
 * [Variable à la ligne 17](../../punbb/album_edit_body.tpl#L17)
-#### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md)
+
+### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md)
 * [Variable à la ligne 13](../../punbb/album_edit_body.tpl#L13)
-#### [L_MAX_LENGTH](../L_MAX_LENGTH.md)
+
+### [L_MAX_LENGTH](../L_MAX_LENGTH.md)
 * [Variable à la ligne 59](../../punbb/album_edit_body.tpl#L59)
-#### [L_MOVE_TO_CATEGORY](../L_MOVE_TO_CATEGORY.md)
+
+### [L_MOVE_TO_CATEGORY](../L_MOVE_TO_CATEGORY.md)
 * [Variable à la ligne 65](../../punbb/album_edit_body.tpl#L65)
-#### [L_NOT_CONNECTED](../L_NOT_CONNECTED.md)
+
+### [L_NOT_CONNECTED](../L_NOT_CONNECTED.md)
 * [Variable à la ligne 13](../../punbb/album_edit_body.tpl#L13)
-#### [L_PIC_DESC](../L_PIC_DESC.md)
+
+### [L_PIC_DESC](../L_PIC_DESC.md)
 * [Variable à la ligne 58](../../punbb/album_edit_body.tpl#L58)
-#### [L_PIC_TITLE](../L_PIC_TITLE.md)
+
+### [L_PIC_TITLE](../L_PIC_TITLE.md)
 * [Variable à la ligne 53](../../punbb/album_edit_body.tpl#L53)
-#### [L_PLAIN_TEXT_ONLY](../L_PLAIN_TEXT_ONLY.md)
+
+### [L_PLAIN_TEXT_ONLY](../L_PLAIN_TEXT_ONLY.md)
 * [Variable à la ligne 59](../../punbb/album_edit_body.tpl#L59)
-#### [L_RESET](../L_RESET.md)
+
+### [L_RESET](../L_RESET.md)
 * [Variable à la ligne 75](../../punbb/album_edit_body.tpl#L75)
-#### [L_SEARCH_NEW](../L_SEARCH_NEW.md)
+
+### [L_SEARCH_NEW](../L_SEARCH_NEW.md)
 * [Variable à la ligne 5](../../punbb/album_edit_body.tpl#L5)
-#### [L_SEARCH_SELF](../L_SEARCH_SELF.md)
+
+### [L_SEARCH_SELF](../L_SEARCH_SELF.md)
 * [Variable à la ligne 6](../../punbb/album_edit_body.tpl#L6)
-#### [L_SUBMIT](../L_SUBMIT.md)
+
+### [L_SUBMIT](../L_SUBMIT.md)
 * [Variable à la ligne 76](../../punbb/album_edit_body.tpl#L76)
-#### [L_UPLOAD_NO_TITLE](../L_UPLOAD_NO_TITLE.md)
+
+### [L_UPLOAD_NO_TITLE](../L_UPLOAD_NO_TITLE.md)
 * [Variable à la ligne 27](../../punbb/album_edit_body.tpl#L27)
-#### [LAST_VISIT_DATE](../LAST_VISIT_DATE.md)
+
+### [LAST_VISIT_DATE](../LAST_VISIT_DATE.md)
 * [Variable à la ligne 8](../../punbb/album_edit_body.tpl#L8)
-#### [LOGGED_AS](../LOGGED_AS.md)
+
+### [LOGGED_AS](../LOGGED_AS.md)
 * [Variable à la ligne 8](../../punbb/album_edit_body.tpl#L8)
-#### [move_to_category](../move_to_category.md)
+
+### [move_to_category](../move_to_category.md)
 * [Début de condition à la ligne 63](../../punbb/album_edit_body.tpl#L63)
 * [Fin de condition à la ligne 68](../../punbb/album_edit_body.tpl#L68)
-#### [NAV_CAT_DESC](../NAV_CAT_DESC.md)
+
+### [NAV_CAT_DESC](../NAV_CAT_DESC.md)
 * [Variable à la ligne 17](../../punbb/album_edit_body.tpl#L17)
-#### [PIC_DESC](../PIC_DESC.md)
+
+### [PIC_DESC](../PIC_DESC.md)
 * [Variable à la ligne 61](../../punbb/album_edit_body.tpl#L61)
-#### [PIC_TITLE](../PIC_TITLE.md)
+
+### [PIC_TITLE](../PIC_TITLE.md)
 * [Variable à la ligne 54](../../punbb/album_edit_body.tpl#L54)
-#### [S_ALBUM_ACTION](../S_ALBUM_ACTION.md)
+
+### [S_ALBUM_ACTION](../S_ALBUM_ACTION.md)
 * [Variable à la ligne 50](../../punbb/album_edit_body.tpl#L50)
-#### [S_CATEGORY_SELECT](../S_CATEGORY_SELECT.md)
+
+### [S_CATEGORY_SELECT](../S_CATEGORY_SELECT.md)
 * [Variable à la ligne 66](../../punbb/album_edit_body.tpl#L66)
-#### [S_PIC_DESC_MAX_LENGTH](../S_PIC_DESC_MAX_LENGTH.md)
+
+### [S_PIC_DESC_MAX_LENGTH](../S_PIC_DESC_MAX_LENGTH.md)
 * [Variable à la ligne 29](../../punbb/album_edit_body.tpl#L29)
 * [Variable à la ligne 59](../../punbb/album_edit_body.tpl#L59)
-#### [switch_user_logged_in](../switch_user_logged_in.md)
+
+### [switch_user_logged_in](../switch_user_logged_in.md)
 * [Début de condition à la ligne 2](../../punbb/album_edit_body.tpl#L2)
 * [Fin de condition à la ligne 10](../../punbb/album_edit_body.tpl#L10)
-#### [switch_user_logged_out](../switch_user_logged_out.md)
+
+### [switch_user_logged_out](../switch_user_logged_out.md)
 * [Début de condition à la ligne 11](../../punbb/album_edit_body.tpl#L11)
 * [Fin de condition à la ligne 15](../../punbb/album_edit_body.tpl#L15)
-#### [U_INDEX](../U_INDEX.md)
+
+### [U_INDEX](../U_INDEX.md)
 * [Variable à la ligne 17](../../punbb/album_edit_body.tpl#L17)
-#### [U_SEARCH_NEW](../U_SEARCH_NEW.md)
+
+### [U_SEARCH_NEW](../U_SEARCH_NEW.md)
 * [Variable à la ligne 5](../../punbb/album_edit_body.tpl#L5)
-#### [U_SEARCH_SELF](../U_SEARCH_SELF.md)
+
+### [U_SEARCH_SELF](../U_SEARCH_SELF.md)
 * [Variable à la ligne 6](../../punbb/album_edit_body.tpl#L6)

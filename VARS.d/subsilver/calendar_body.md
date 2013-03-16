@@ -1,15 +1,23 @@
 # Variable de la template calendar_body (phpBB2)
+
 [Code de la template](../../subsilver/calendar_body.md)
+
 ## Variables utilisées
-#### [CALENDAR_MONTH](../CALENDAR_MONTH.md)
+
+### [CALENDAR_MONTH](../CALENDAR_MONTH.md)
 * [Variable à la ligne 6](../../subsilver/calendar_body.tpl#L6)
-#### [L_CALENDAR](../L_CALENDAR.md)
+
+### [L_CALENDAR](../L_CALENDAR.md)
 * [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
-#### [L_INDEX](../L_INDEX.md)
+
+### [L_INDEX](../L_INDEX.md)
 * [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
-#### [NAV_SEPARATOR](../NAV_SEPARATOR.md)
+
+### [NAV_SEPARATOR](../NAV_SEPARATOR.md)
 * [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
-#### [U_CALENDAR](../U_CALENDAR.md)
+
+### [U_CALENDAR](../U_CALENDAR.md)
 * [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
-#### [U_INDEX](../U_INDEX.md)
+
+### [U_INDEX](../U_INDEX.md)
 * [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)

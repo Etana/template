@@ -1,87 +1,124 @@
 # Variable de la template posting_poll_body (PunBB)
+
 [Code de la template](../../punbb/posting_poll_body.md)
+
 ## Variables utilisées
-#### [ADD_POLL_OPTION](../ADD_POLL_OPTION.md)
+
+### [ADD_POLL_OPTION](../ADD_POLL_OPTION.md)
 * [Variable à la ligne 43](../../punbb/posting_poll_body.tpl#L43)
-#### [L_ADD_A_POLL](../L_ADD_A_POLL.md)
+
+### [L_ADD_A_POLL](../L_ADD_A_POLL.md)
 * [Variable à la ligne 3](../../punbb/posting_poll_body.tpl#L3)
-#### [L_ADD_OPTION](../L_ADD_OPTION.md)
+
+### [L_ADD_OPTION](../L_ADD_OPTION.md)
 * [Variable à la ligne 44](../../punbb/posting_poll_body.tpl#L44)
-#### [L_DAYS](../L_DAYS.md)
+
+### [L_DAYS](../L_DAYS.md)
 * [Variable à la ligne 52](../../punbb/posting_poll_body.tpl#L52)
-#### [L_DELETE_OPTION](../L_DELETE_OPTION.md)
+
+### [L_DELETE_OPTION](../L_DELETE_OPTION.md)
 * [Variable à la ligne 29](../../punbb/posting_poll_body.tpl#L29)
-#### [L_NO](../L_NO.md)
+
+### [L_NO](../L_NO.md)
 * [Variable à la ligne 60](../../punbb/posting_poll_body.tpl#L60)
 * [Variable à la ligne 67](../../punbb/posting_poll_body.tpl#L67)
 * [Variable à la ligne 76](../../punbb/posting_poll_body.tpl#L76)
-#### [L_POLL_CANCEL_VOTE](../L_POLL_CANCEL_VOTE.md)
+
+### [L_POLL_CANCEL_VOTE](../L_POLL_CANCEL_VOTE.md)
 * [Variable à la ligne 64](../../punbb/posting_poll_body.tpl#L64)
-#### [L_POLL_DELETE](../L_POLL_DELETE.md)
+
+### [L_POLL_DELETE](../L_POLL_DELETE.md)
 * [Variable à la ligne 83](../../punbb/posting_poll_body.tpl#L83)
-#### [L_POLL_HIDE_RESULT](../L_POLL_HIDE_RESULT.md)
+
+### [L_POLL_HIDE_RESULT](../L_POLL_HIDE_RESULT.md)
 * [Variable à la ligne 73](../../punbb/posting_poll_body.tpl#L73)
-#### [L_POLL_LENGTH](../L_POLL_LENGTH.md)
+
+### [L_POLL_LENGTH](../L_POLL_LENGTH.md)
 * [Variable à la ligne 49](../../punbb/posting_poll_body.tpl#L49)
-#### [L_POLL_LENGTH_EXPLAIN](../L_POLL_LENGTH_EXPLAIN.md)
+
+### [L_POLL_LENGTH_EXPLAIN](../L_POLL_LENGTH_EXPLAIN.md)
 * [Variable à la ligne 53](../../punbb/posting_poll_body.tpl#L53)
-#### [L_POLL_MULTIPLE](../L_POLL_MULTIPLE.md)
+
+### [L_POLL_MULTIPLE](../L_POLL_MULTIPLE.md)
 * [Variable à la ligne 57](../../punbb/posting_poll_body.tpl#L57)
-#### [L_POLL_OPTION](../L_POLL_OPTION.md)
+
+### [L_POLL_OPTION](../L_POLL_OPTION.md)
 * [Variable à la ligne 15](../../punbb/posting_poll_body.tpl#L15)
 * [Variable à la ligne 26](../../punbb/posting_poll_body.tpl#L26)
 * [Variable à la ligne 35](../../punbb/posting_poll_body.tpl#L35)
 * [Variable à la ligne 41](../../punbb/posting_poll_body.tpl#L41)
-#### [L_POLL_QUESTION](../L_POLL_QUESTION.md)
+
+### [L_POLL_QUESTION](../L_POLL_QUESTION.md)
 * [Variable à la ligne 9](../../punbb/posting_poll_body.tpl#L9)
-#### [L_POLL_QUESTION_EXPLAIN](../L_POLL_QUESTION_EXPLAIN.md)
+
+### [L_POLL_QUESTION_EXPLAIN](../L_POLL_QUESTION_EXPLAIN.md)
 * [Variable à la ligne 16](../../punbb/posting_poll_body.tpl#L16)
-#### [L_YES](../L_YES.md)
+
+### [L_YES](../L_YES.md)
 * [Variable à la ligne 59](../../punbb/posting_poll_body.tpl#L59)
 * [Variable à la ligne 66](../../punbb/posting_poll_body.tpl#L66)
 * [Variable à la ligne 75](../../punbb/posting_poll_body.tpl#L75)
-#### [POLL_CANCEL_VOTE_AUTHORIZED_STATUS](../POLL_CANCEL_VOTE_AUTHORIZED_STATUS.md)
+
+### [POLL_CANCEL_VOTE_AUTHORIZED_STATUS](../POLL_CANCEL_VOTE_AUTHORIZED_STATUS.md)
 * [Variable à la ligne 66](../../punbb/posting_poll_body.tpl#L66)
-#### [POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS](../POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS.md)
+
+### [POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS](../POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS.md)
 * [Variable à la ligne 67](../../punbb/posting_poll_body.tpl#L67)
-#### [POLL_HIDE_RESULT_CHECKED](../POLL_HIDE_RESULT_CHECKED.md)
+
+### [POLL_HIDE_RESULT_CHECKED](../POLL_HIDE_RESULT_CHECKED.md)
 * [Variable à la ligne 75](../../punbb/posting_poll_body.tpl#L75)
-#### [POLL_HIDE_RESULT_UNCHECKED](../POLL_HIDE_RESULT_UNCHECKED.md)
+
+### [POLL_HIDE_RESULT_UNCHECKED](../POLL_HIDE_RESULT_UNCHECKED.md)
 * [Variable à la ligne 76](../../punbb/posting_poll_body.tpl#L76)
-#### [POLL_LENGTH](../POLL_LENGTH.md)
+
+### [POLL_LENGTH](../POLL_LENGTH.md)
 * [Variable à la ligne 51](../../punbb/posting_poll_body.tpl#L51)
-#### [POLL_MULTIPLE_CHECKED](../POLL_MULTIPLE_CHECKED.md)
+
+### [POLL_MULTIPLE_CHECKED](../POLL_MULTIPLE_CHECKED.md)
 * [Variable à la ligne 59](../../punbb/posting_poll_body.tpl#L59)
-#### [POLL_MULTIPLE_UNCHECKED](../POLL_MULTIPLE_UNCHECKED.md)
+
+### [POLL_MULTIPLE_UNCHECKED](../POLL_MULTIPLE_UNCHECKED.md)
 * [Variable à la ligne 60](../../punbb/posting_poll_body.tpl#L60)
-#### [poll_option_more](../poll_option_more.md)
+
+### [poll_option_more](../poll_option_more.md)
 * [Début de condition à la ligne 39](../../punbb/posting_poll_body.tpl#L39)
 * [Fin de condition à la ligne 47](../../punbb/posting_poll_body.tpl#L47)
-#### [poll_option_new](../poll_option_new.md)
+
+### [poll_option_new](../poll_option_new.md)
 * [Début de condition à la ligne 33](../../punbb/posting_poll_body.tpl#L33)
 * [Fin de condition à la ligne 38](../../punbb/posting_poll_body.tpl#L38)
-#### [POLL_OPTION_NUMBER](../POLL_OPTION_NUMBER.md)
+
+### [POLL_OPTION_NUMBER](../POLL_OPTION_NUMBER.md)
 * [Variable à la ligne 18](../../punbb/posting_poll_body.tpl#L18)
-#### [poll_option_rows](../poll_option_rows.md)
+
+### [poll_option_rows](../poll_option_rows.md)
 * [Début de condition à la ligne 24](../../punbb/posting_poll_body.tpl#L24)
 * [Fin de condition à la ligne 32](../../punbb/posting_poll_body.tpl#L32)
-#### [poll_option_rows.POLL_OPTION](../poll_option_rows.POLL_OPTION.md)
+
+### [poll_option_rows.POLL_OPTION](../poll_option_rows.POLL_OPTION.md)
 * [Variable à la ligne 28](../../punbb/posting_poll_body.tpl#L28)
-#### [poll_option_rows.S_POLL_OPTION_NUM](../poll_option_rows.S_POLL_OPTION_NUM.md)
+
+### [poll_option_rows.S_POLL_OPTION_NUM](../poll_option_rows.S_POLL_OPTION_NUM.md)
 * [Variable à la ligne 28](../../punbb/posting_poll_body.tpl#L28)
 * [Variable à la ligne 29](../../punbb/posting_poll_body.tpl#L29)
-#### [poll_option_rows.S_POLL_OPTION_NUM_AFFICHE](../poll_option_rows.S_POLL_OPTION_NUM_AFFICHE.md)
+
+### [poll_option_rows.S_POLL_OPTION_NUM_AFFICHE](../poll_option_rows.S_POLL_OPTION_NUM_AFFICHE.md)
 * [Variable à la ligne 26](../../punbb/posting_poll_body.tpl#L26)
-#### [poll_option_textarea](../poll_option_textarea.md)
+
+### [poll_option_textarea](../poll_option_textarea.md)
 * [Début de condition à la ligne 12](../../punbb/posting_poll_body.tpl#L12)
 * [Fin de condition à la ligne 20](../../punbb/posting_poll_body.tpl#L20)
-#### [POLL_OPTIONS](../POLL_OPTIONS.md)
+
+### [POLL_OPTIONS](../POLL_OPTIONS.md)
 * [Variable à la ligne 18](../../punbb/posting_poll_body.tpl#L18)
-#### [POLL_TITLE](../POLL_TITLE.md)
+
+### [POLL_TITLE](../POLL_TITLE.md)
 * [Variable à la ligne 10](../../punbb/posting_poll_body.tpl#L10)
-#### [switch_poll_delete_toggle](../switch_poll_delete_toggle.md)
+
+### [switch_poll_delete_toggle](../switch_poll_delete_toggle.md)
 * [Début de condition à la ligne 81](../../punbb/posting_poll_body.tpl#L81)
 * [Fin de condition à la ligne 86](../../punbb/posting_poll_body.tpl#L86)
-#### [switch_poll_hide_result](../switch_poll_hide_result.md)
+
+### [switch_poll_hide_result](../switch_poll_hide_result.md)
 * [Début de condition à la ligne 71](../../punbb/posting_poll_body.tpl#L71)
 * [Fin de condition à la ligne 79](../../punbb/posting_poll_body.tpl#L79)

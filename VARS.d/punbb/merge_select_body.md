@@ -1,40 +1,59 @@
 # Variable de la template merge_select_body (PunBB)
+
 [Code de la template](../../punbb/merge_select_body.md)
+
 ## Variables utilisées
-#### [L_GO](../L_GO.md)
+
+### [L_GO](../L_GO.md)
 * [Variable à la ligne 20](../../punbb/merge_select_body.tpl#L20)
-#### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md)
+
+### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md)
 * [Variable à la ligne 12](../../punbb/merge_select_body.tpl#L12)
-#### [L_NOT_CONNECTED](../L_NOT_CONNECTED.md)
+
+### [L_NOT_CONNECTED](../L_NOT_CONNECTED.md)
 * [Variable à la ligne 12](../../punbb/merge_select_body.tpl#L12)
-#### [L_SEARCH_NEW](../L_SEARCH_NEW.md)
+
+### [L_SEARCH_NEW](../L_SEARCH_NEW.md)
 * [Variable à la ligne 4](../../punbb/merge_select_body.tpl#L4)
-#### [L_SEARCH_SELF](../L_SEARCH_SELF.md)
+
+### [L_SEARCH_SELF](../L_SEARCH_SELF.md)
 * [Variable à la ligne 5](../../punbb/merge_select_body.tpl#L5)
-#### [L_SELECT](../L_SELECT.md)
+
+### [L_SELECT](../L_SELECT.md)
 * [Variable à la ligne 30](../../punbb/merge_select_body.tpl#L30)
-#### [LAST_VISIT_DATE](../LAST_VISIT_DATE.md)
+
+### [LAST_VISIT_DATE](../LAST_VISIT_DATE.md)
 * [Variable à la ligne 7](../../punbb/merge_select_body.tpl#L7)
-#### [LOGGED_AS](../LOGGED_AS.md)
+
+### [LOGGED_AS](../LOGGED_AS.md)
 * [Variable à la ligne 7](../../punbb/merge_select_body.tpl#L7)
-#### [MERGE_BOX](../MERGE_BOX.md)
+
+### [MERGE_BOX](../MERGE_BOX.md)
 * [Variable à la ligne 23](../../punbb/merge_select_body.tpl#L23)
-#### [PAGINATION](../PAGINATION.md)
+
+### [PAGINATION](../PAGINATION.md)
 * [Variable à la ligne 19](../../punbb/merge_select_body.tpl#L19)
 * [Variable à la ligne 26](../../punbb/merge_select_body.tpl#L26)
-#### [S_ACTION](../S_ACTION.md)
+
+### [S_ACTION](../S_ACTION.md)
 * [Variable à la ligne 17](../../punbb/merge_select_body.tpl#L17)
-#### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md)
+
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md)
 * [Variable à la ligne 31](../../punbb/merge_select_body.tpl#L31)
-#### [S_LIST_FORUMS](../S_LIST_FORUMS.md)
+
+### [S_LIST_FORUMS](../S_LIST_FORUMS.md)
 * [Variable à la ligne 20](../../punbb/merge_select_body.tpl#L20)
-#### [switch_user_logged_in](../switch_user_logged_in.md)
+
+### [switch_user_logged_in](../switch_user_logged_in.md)
 * [Début de condition à la ligne 1](../../punbb/merge_select_body.tpl#L1)
 * [Fin de condition à la ligne 9](../../punbb/merge_select_body.tpl#L9)
-#### [switch_user_logged_out](../switch_user_logged_out.md)
+
+### [switch_user_logged_out](../switch_user_logged_out.md)
 * [Début de condition à la ligne 10](../../punbb/merge_select_body.tpl#L10)
 * [Fin de condition à la ligne 14](../../punbb/merge_select_body.tpl#L14)
-#### [U_SEARCH_NEW](../U_SEARCH_NEW.md)
+
+### [U_SEARCH_NEW](../U_SEARCH_NEW.md)
 * [Variable à la ligne 4](../../punbb/merge_select_body.tpl#L4)
-#### [U_SEARCH_SELF](../U_SEARCH_SELF.md)
+
+### [U_SEARCH_SELF](../U_SEARCH_SELF.md)
 * [Variable à la ligne 5](../../punbb/merge_select_body.tpl#L5)

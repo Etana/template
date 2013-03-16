@@ -1,7 +1,10 @@
 # Variable switch_mod_option
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_mod_option)
+
 ## Utilisations dans les templates
+
 ### Version PunBB
+
 #### [Template groupcp_info_body](punbb/groupcp_info_body.md)
 * [Début de condition à la ligne 53](../punbb/groupcp_info_body.tpl#L53)
 * [Fin de condition à la ligne 63](../punbb/groupcp_info_body.tpl#L63)
@@ -11,7 +14,9 @@
 * [Fin de condition à la ligne 138](../punbb/groupcp_info_body.tpl#L138)
 * [Début de condition à la ligne 154](../punbb/groupcp_info_body.tpl#L154)
 * [Fin de condition à la ligne 177](../punbb/groupcp_info_body.tpl#L177)
+
 ### Version phpBB2
+
 #### [Template groupcp_info_body](subsilver/groupcp_info_body.md)
 * [Début de condition à la ligne 27](../subsilver/groupcp_info_body.tpl#L27)
 * [Fin de condition à la ligne 34](../subsilver/groupcp_info_body.tpl#L34)

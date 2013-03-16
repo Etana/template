@@ -1,7 +1,10 @@
 # Variable switch_privmsg
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_privmsg)
+
 ## Utilisations dans les templates
+
 ### Version PunBB
+
 #### [Template posting_body](punbb/posting_body.md)
 * [Début de condition à la ligne 83](../punbb/posting_body.tpl#L83)
 * [Fin de condition à la ligne 107](../punbb/posting_body.tpl#L107)
@@ -9,6 +12,7 @@
 * [Fin de condition à la ligne 700](../punbb/posting_body.tpl#L700)
 * [Début de condition à la ligne 704](../punbb/posting_body.tpl#L704)
 * [Fin de condition à la ligne 706](../punbb/posting_body.tpl#L706)
+
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
 * [Début de condition à la ligne 239](../punbb/posting_body_wysiwyg.tpl#L239)
 * [Fin de condition à la ligne 263](../punbb/posting_body_wysiwyg.tpl#L263)
@@ -16,7 +20,9 @@
 * [Fin de condition à la ligne 700](../punbb/posting_body_wysiwyg.tpl#L700)
 * [Début de condition à la ligne 704](../punbb/posting_body_wysiwyg.tpl#L704)
 * [Fin de condition à la ligne 706](../punbb/posting_body_wysiwyg.tpl#L706)
+
 ### Version phpBB2
+
 #### [Template posting_body](subsilver/posting_body.md)
 * [Début de condition à la ligne 98](../subsilver/posting_body.tpl#L98)
 * [Fin de condition à la ligne 124](../subsilver/posting_body.tpl#L124)
@@ -24,6 +30,7 @@
 * [Fin de condition à la ligne 891](../subsilver/posting_body.tpl#L891)
 * [Début de condition à la ligne 895](../subsilver/posting_body.tpl#L895)
 * [Fin de condition à la ligne 897](../subsilver/posting_body.tpl#L897)
+
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
 * [Début de condition à la ligne 271](../subsilver/posting_body_wysiwyg.tpl#L271)
 * [Fin de condition à la ligne 297](../subsilver/posting_body_wysiwyg.tpl#L297)

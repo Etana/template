@@ -1,66 +1,87 @@
 # Variable de la template topics_list_box (phpBB2)
+
 [Code de la template](../../subsilver/topics_list_box.md)
+
 ## Variables utilisées
-#### [bottom](../bottom.md)
+
+### [bottom](../bottom.md)
 * [Début de condition à la ligne 83](../../subsilver/topics_list_box.tpl#L83)
 * [Fin de condition à la ligne 94](../../subsilver/topics_list_box.tpl#L94)
-#### [footer_table](../footer_table.md)
+
+### [footer_table](../footer_table.md)
 * [Début de condition à la ligne 94](../../subsilver/topics_list_box.tpl#L94)
 * [Fin de condition à la ligne 95](../../subsilver/topics_list_box.tpl#L95)
-#### [header_row](../header_row.md)
+
+### [header_row](../header_row.md)
 * [Début de condition à la ligne 38](../../subsilver/topics_list_box.tpl#L38)
 * [Fin de condition à la ligne 42](../../subsilver/topics_list_box.tpl#L42)
-#### [header_table](../header_table.md)
+
+### [header_table](../header_table.md)
 * [Début de condition à la ligne 1](../../subsilver/topics_list_box.tpl#L1)
 * [Fin de condition à la ligne 38](../../subsilver/topics_list_box.tpl#L38)
-#### [icon](../icon.md)
+
+### [icon](../icon.md)
 * [Début de condition à la ligne 51](../../subsilver/topics_list_box.tpl#L51)
 * [Fin de condition à la ligne 53](../../subsilver/topics_list_box.tpl#L53)
-#### [L_BACK_TO_TOP](../L_BACK_TO_TOP.md)
+
+### [L_BACK_TO_TOP](../L_BACK_TO_TOP.md)
 * [Variable à la ligne 89](../../subsilver/topics_list_box.tpl#L89)
-#### [multi_selection](../multi_selection.md)
+
+### [multi_selection](../multi_selection.md)
 * [Début de condition à la ligne 1](../../subsilver/topics_list_box.tpl#L1)
 * [Fin de condition à la ligne 20](../../subsilver/topics_list_box.tpl#L20)
 * [Début de condition à la ligne 29](../../subsilver/topics_list_box.tpl#L29)
 * [Fin de condition à la ligne 31](../../subsilver/topics_list_box.tpl#L31)
 * [Début de condition à la ligne 75](../../subsilver/topics_list_box.tpl#L75)
 * [Fin de condition à la ligne 77](../../subsilver/topics_list_box.tpl#L77)
-#### [nav_tree](../nav_tree.md)
+
+### [nav_tree](../nav_tree.md)
 * [Début de condition à la ligne 68](../../subsilver/topics_list_box.tpl#L68)
 * [Fin de condition à la ligne 68](../../subsilver/topics_list_box.tpl#L68)
-#### [no_topics](../no_topics.md)
+
+### [no_topics](../no_topics.md)
 * [Début de condition à la ligne 79](../../subsilver/topics_list_box.tpl#L79)
 * [Fin de condition à la ligne 83](../../subsilver/topics_list_box.tpl#L83)
-#### [PAGINATION](../PAGINATION.md)
+
+### [PAGINATION](../PAGINATION.md)
 * [Variable à la ligne 35](../../subsilver/topics_list_box.tpl#L35)
 * [Variable à la ligne 88](../../subsilver/topics_list_box.tpl#L88)
-#### [pagination](../pagination.md)
+
+### [pagination](../pagination.md)
 * [Début de condition à la ligne 33](../../subsilver/topics_list_box.tpl#L33)
 * [Fin de condition à la ligne 37](../../subsilver/topics_list_box.tpl#L37)
-#### [row](../row.md)
+
+### [row](../row.md)
 * [Début de condition à la ligne 1](../../subsilver/topics_list_box.tpl#L1)
 * [Fin de condition à la ligne 95](../../subsilver/topics_list_box.tpl#L95)
-#### [single_selection](../single_selection.md)
+
+### [single_selection](../single_selection.md)
 * [Début de condition à la ligne 47](../../subsilver/topics_list_box.tpl#L47)
 * [Fin de condition à la ligne 49](../../subsilver/topics_list_box.tpl#L49)
-#### [spacer](../spacer.md)
+
+### [spacer](../spacer.md)
 * [Début de condition à la ligne 95](../../subsilver/topics_list_box.tpl#L95)
 * [Fin de condition à la ligne 95](../../subsilver/topics_list_box.tpl#L95)
-#### [switch_description](../switch_description.md)
+
+### [switch_description](../switch_description.md)
 * [Début de condition à la ligne 61](../../subsilver/topics_list_box.tpl#L61)
 * [Fin de condition à la ligne 66](../../subsilver/topics_list_box.tpl#L66)
-#### [topic](../topic.md)
+
+### [topic](../topic.md)
 * [Début de condition à la ligne 44](../../subsilver/topics_list_box.tpl#L44)
 * [Fin de condition à la ligne 79](../../subsilver/topics_list_box.tpl#L79)
-#### [topics_list_box](../topics_list_box.md)
+
+### [topics_list_box](../topics_list_box.md)
 * [Début de condition à la ligne 1](../../subsilver/topics_list_box.tpl#L1)
 * [Fin de condition à la ligne 95](../../subsilver/topics_list_box.tpl#L95)
-#### [topics_list_box.FIELDNAME](../topics_list_box.FIELDNAME.md)
+
+### [topics_list_box.FIELDNAME](../topics_list_box.FIELDNAME.md)
 * [Variable à la ligne 6](../../subsilver/topics_list_box.tpl#L6)
 * [Variable à la ligne 14](../../subsilver/topics_list_box.tpl#L14)
 * [Variable à la ligne 48](../../subsilver/topics_list_box.tpl#L48)
 * [Variable à la ligne 76](../../subsilver/topics_list_box.tpl#L76)
-#### [topics_list_box.FORMNAME](../topics_list_box.FORMNAME.md)
+
+### [topics_list_box.FORMNAME](../topics_list_box.FORMNAME.md)
 * [Variable à la ligne 5](../../subsilver/topics_list_box.tpl#L5)
 * [Variable à la ligne 6](../../subsilver/topics_list_box.tpl#L6)
 * [Variable à la ligne 7](../../subsilver/topics_list_box.tpl#L7)
@@ -69,21 +90,27 @@
 * [Variable à la ligne 14](../../subsilver/topics_list_box.tpl#L14)
 * [Variable à la ligne 15](../../subsilver/topics_list_box.tpl#L15)
 * [Variable à la ligne 15](../../subsilver/topics_list_box.tpl#L15)
-#### [topics_list_box.row.BOX_ID](../topics_list_box.row.BOX_ID.md)
+
+### [topics_list_box.row.BOX_ID](../topics_list_box.row.BOX_ID.md)
 * [Variable à la ligne 76](../../subsilver/topics_list_box.tpl#L76)
 * [Variable à la ligne 76](../../subsilver/topics_list_box.tpl#L76)
-#### [topics_list_box.row.COLSPAN](../topics_list_box.row.COLSPAN.md)
+
+### [topics_list_box.row.COLSPAN](../topics_list_box.row.COLSPAN.md)
 * [Variable à la ligne 40](../../subsilver/topics_list_box.tpl#L40)
 * [Variable à la ligne 81](../../subsilver/topics_list_box.tpl#L81)
 * [Variable à la ligne 85](../../subsilver/topics_list_box.tpl#L85)
-#### [topics_list_box.row.END_TABLE_STICKY](../topics_list_box.row.END_TABLE_STICKY.md)
+
+### [topics_list_box.row.END_TABLE_STICKY](../topics_list_box.row.END_TABLE_STICKY.md)
 * [Variable à la ligne 45](../../subsilver/topics_list_box.tpl#L45)
-#### [topics_list_box.row.FID](../topics_list_box.row.FID.md)
+
+### [topics_list_box.row.FID](../topics_list_box.row.FID.md)
 * [Variable à la ligne 48](../../subsilver/topics_list_box.tpl#L48)
 * [Variable à la ligne 76](../../subsilver/topics_list_box.tpl#L76)
-#### [topics_list_box.row.GOTO_PAGE](../topics_list_box.row.GOTO_PAGE.md)
+
+### [topics_list_box.row.GOTO_PAGE](../topics_list_box.row.GOTO_PAGE.md)
 * [Variable à la ligne 68](../../subsilver/topics_list_box.tpl#L68)
-#### [topics_list_box.row.header_table.BOX_ID](../topics_list_box.row.header_table.BOX_ID.md)
+
+### [topics_list_box.row.header_table.BOX_ID](../topics_list_box.row.header_table.BOX_ID.md)
 * [Variable à la ligne 3](../../subsilver/topics_list_box.tpl#L3)
 * [Variable à la ligne 6](../../subsilver/topics_list_box.tpl#L6)
 * [Variable à la ligne 10](../../subsilver/topics_list_box.tpl#L10)
@@ -92,65 +119,93 @@
 * [Variable à la ligne 15](../../subsilver/topics_list_box.tpl#L15)
 * [Variable à la ligne 30](../../subsilver/topics_list_box.tpl#L30)
 * [Variable à la ligne 30](../../subsilver/topics_list_box.tpl#L30)
-#### [topics_list_box.row.header_table.COLSPAN](../topics_list_box.row.header_table.COLSPAN.md)
+
+### [topics_list_box.row.header_table.COLSPAN](../topics_list_box.row.header_table.COLSPAN.md)
 * [Variable à la ligne 24](../../subsilver/topics_list_box.tpl#L24)
-#### [topics_list_box.row.ICON](../topics_list_box.row.ICON.md)
+
+### [topics_list_box.row.ICON](../topics_list_box.row.ICON.md)
 * [Variable à la ligne 52](../../subsilver/topics_list_box.tpl#L52)
-#### [topics_list_box.row.L_AUTHOR](../topics_list_box.row.L_AUTHOR.md)
+
+### [topics_list_box.row.L_AUTHOR](../topics_list_box.row.L_AUTHOR.md)
 * [Variable à la ligne 26](../../subsilver/topics_list_box.tpl#L26)
-#### [topics_list_box.row.L_LASTPOST](../topics_list_box.row.L_LASTPOST.md)
+
+### [topics_list_box.row.L_LASTPOST](../topics_list_box.row.L_LASTPOST.md)
 * [Variable à la ligne 28](../../subsilver/topics_list_box.tpl#L28)
-#### [topics_list_box.row.L_NO_TOPICS](../topics_list_box.row.L_NO_TOPICS.md)
+
+### [topics_list_box.row.L_NO_TOPICS](../topics_list_box.row.L_NO_TOPICS.md)
 * [Variable à la ligne 81](../../subsilver/topics_list_box.tpl#L81)
-#### [topics_list_box.row.L_REPLIES](../topics_list_box.row.L_REPLIES.md)
+
+### [topics_list_box.row.L_REPLIES](../topics_list_box.row.L_REPLIES.md)
 * [Variable à la ligne 25](../../subsilver/topics_list_box.tpl#L25)
-#### [topics_list_box.row.L_SELECT](../topics_list_box.row.L_SELECT.md)
+
+### [topics_list_box.row.L_SELECT](../topics_list_box.row.L_SELECT.md)
 * [Variable à la ligne 48](../../subsilver/topics_list_box.tpl#L48)
 * [Variable à la ligne 76](../../subsilver/topics_list_box.tpl#L76)
-#### [topics_list_box.row.L_TITLE](../topics_list_box.row.L_TITLE.md)
+
+### [topics_list_box.row.L_TITLE](../topics_list_box.row.L_TITLE.md)
 * [Variable à la ligne 24](../../subsilver/topics_list_box.tpl#L24)
 * [Variable à la ligne 40](../../subsilver/topics_list_box.tpl#L40)
-#### [topics_list_box.row.L_TOPIC_FOLDER_ALT](../topics_list_box.row.L_TOPIC_FOLDER_ALT.md)
+
+### [topics_list_box.row.L_TOPIC_FOLDER_ALT](../topics_list_box.row.L_TOPIC_FOLDER_ALT.md)
 * [Variable à la ligne 50](../../subsilver/topics_list_box.tpl#L50)
 * [Variable à la ligne 50](../../subsilver/topics_list_box.tpl#L50)
-#### [topics_list_box.row.L_VIEWS](../topics_list_box.row.L_VIEWS.md)
+
+### [topics_list_box.row.L_VIEWS](../topics_list_box.row.L_VIEWS.md)
 * [Variable à la ligne 27](../../subsilver/topics_list_box.tpl#L27)
-#### [topics_list_box.row.LAST_POST_AUTHOR](../topics_list_box.row.LAST_POST_AUTHOR.md)
+
+### [topics_list_box.row.LAST_POST_AUTHOR](../topics_list_box.row.LAST_POST_AUTHOR.md)
 * [Variable à la ligne 74](../../subsilver/topics_list_box.tpl#L74)
-#### [topics_list_box.row.LAST_POST_IMG](../topics_list_box.row.LAST_POST_IMG.md)
+
+### [topics_list_box.row.LAST_POST_IMG](../topics_list_box.row.LAST_POST_IMG.md)
 * [Variable à la ligne 74](../../subsilver/topics_list_box.tpl#L74)
-#### [topics_list_box.row.LAST_POST_TIME](../topics_list_box.row.LAST_POST_TIME.md)
+
+### [topics_list_box.row.LAST_POST_TIME](../topics_list_box.row.LAST_POST_TIME.md)
 * [Variable à la ligne 74](../../subsilver/topics_list_box.tpl#L74)
-#### [topics_list_box.row.NEWEST_POST_IMG](../topics_list_box.row.NEWEST_POST_IMG.md)
+
+### [topics_list_box.row.NEWEST_POST_IMG](../topics_list_box.row.NEWEST_POST_IMG.md)
 * [Variable à la ligne 56](../../subsilver/topics_list_box.tpl#L56)
-#### [topics_list_box.row.PARTICIPATE_POST_IMG](../topics_list_box.row.PARTICIPATE_POST_IMG.md)
+
+### [topics_list_box.row.PARTICIPATE_POST_IMG](../topics_list_box.row.PARTICIPATE_POST_IMG.md)
 * [Variable à la ligne 56](../../subsilver/topics_list_box.tpl#L56)
-#### [topics_list_box.row.REPLIES](../topics_list_box.row.REPLIES.md)
+
+### [topics_list_box.row.REPLIES](../topics_list_box.row.REPLIES.md)
 * [Variable à la ligne 71](../../subsilver/topics_list_box.tpl#L71)
-#### [topics_list_box.row.ROW_CLASS](../topics_list_box.row.ROW_CLASS.md)
+
+### [topics_list_box.row.ROW_CLASS](../topics_list_box.row.ROW_CLASS.md)
 * [Variable à la ligne 48](../../subsilver/topics_list_box.tpl#L48)
 * [Variable à la ligne 52](../../subsilver/topics_list_box.tpl#L52)
 * [Variable à la ligne 54](../../subsilver/topics_list_box.tpl#L54)
 * [Variable à la ligne 54](../../subsilver/topics_list_box.tpl#L54)
-#### [topics_list_box.row.ROW_FOLDER_CLASS](../topics_list_box.row.ROW_FOLDER_CLASS.md)
+
+### [topics_list_box.row.ROW_FOLDER_CLASS](../topics_list_box.row.ROW_FOLDER_CLASS.md)
 * [Variable à la ligne 50](../../subsilver/topics_list_box.tpl#L50)
-#### [topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION](../topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION.md)
+
+### [topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION](../topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION.md)
 * [Variable à la ligne 64](../../subsilver/topics_list_box.tpl#L64)
-#### [topics_list_box.row.TOPIC_ANNOUNCES_DATES](../topics_list_box.row.TOPIC_ANNOUNCES_DATES.md)
+
+### [topics_list_box.row.TOPIC_ANNOUNCES_DATES](../topics_list_box.row.TOPIC_ANNOUNCES_DATES.md)
 * [Variable à la ligne 67](../../subsilver/topics_list_box.tpl#L67)
-#### [topics_list_box.row.TOPIC_AUTHOR](../topics_list_box.row.TOPIC_AUTHOR.md)
+
+### [topics_list_box.row.TOPIC_AUTHOR](../topics_list_box.row.TOPIC_AUTHOR.md)
 * [Variable à la ligne 72](../../subsilver/topics_list_box.tpl#L72)
-#### [topics_list_box.row.TOPIC_CALENDAR_DATES](../topics_list_box.row.TOPIC_CALENDAR_DATES.md)
+
+### [topics_list_box.row.TOPIC_CALENDAR_DATES](../topics_list_box.row.TOPIC_CALENDAR_DATES.md)
 * [Variable à la ligne 67](../../subsilver/topics_list_box.tpl#L67)
-#### [topics_list_box.row.TOPIC_FOLDER_IMG](../topics_list_box.row.TOPIC_FOLDER_IMG.md)
+
+### [topics_list_box.row.TOPIC_FOLDER_IMG](../topics_list_box.row.TOPIC_FOLDER_IMG.md)
 * [Variable à la ligne 50](../../subsilver/topics_list_box.tpl#L50)
-#### [topics_list_box.row.TOPIC_NAV_TREE](../topics_list_box.row.TOPIC_NAV_TREE.md)
+
+### [topics_list_box.row.TOPIC_NAV_TREE](../topics_list_box.row.TOPIC_NAV_TREE.md)
 * [Variable à la ligne 68](../../subsilver/topics_list_box.tpl#L68)
-#### [topics_list_box.row.TOPIC_TITLE](../topics_list_box.row.TOPIC_TITLE.md)
+
+### [topics_list_box.row.TOPIC_TITLE](../topics_list_box.row.TOPIC_TITLE.md)
 * [Variable à la ligne 58](../../subsilver/topics_list_box.tpl#L58)
-#### [topics_list_box.row.TOPIC_TYPE](../topics_list_box.row.TOPIC_TYPE.md)
+
+### [topics_list_box.row.TOPIC_TYPE](../topics_list_box.row.TOPIC_TYPE.md)
 * [Variable à la ligne 56](../../subsilver/topics_list_box.tpl#L56)
-#### [topics_list_box.row.U_VIEW_TOPIC](../topics_list_box.row.U_VIEW_TOPIC.md)
+
+### [topics_list_box.row.U_VIEW_TOPIC](../topics_list_box.row.U_VIEW_TOPIC.md)
 * [Variable à la ligne 58](../../subsilver/topics_list_box.tpl#L58)
-#### [topics_list_box.row.VIEWS](../topics_list_box.row.VIEWS.md)
+
+### [topics_list_box.row.VIEWS](../topics_list_box.row.VIEWS.md)
 * [Variable à la ligne 73](../../subsilver/topics_list_box.tpl#L73)

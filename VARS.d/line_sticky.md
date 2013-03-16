@@ -1,7 +1,10 @@
 # Variable line_sticky
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#line_sticky)
+
 ## Utilisations dans les templates
+
 ### Version PunBB
+
 #### [Template topics_list_box](punbb/topics_list_box.md)
 * [Début de condition à la ligne 73](../punbb/topics_list_box.tpl#L73)
 * [Fin de condition à la ligne 73](../punbb/topics_list_box.tpl#L73)
