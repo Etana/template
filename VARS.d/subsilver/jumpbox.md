@@ -1,6 +1,6 @@
 # Variable de la template jumpbox (phpBB2)
 
-[Code de la template](../../subsilver/jumpbox.md)
+[Code de la template](../../subsilver/jumpbox.tpl)
 
 ## Variables utilisées
 

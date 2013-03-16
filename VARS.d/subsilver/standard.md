@@ -1,6 +1,6 @@
 # Variable de la template standard (phpBB2)
 
-[Code de la template](../../subsilver/standard.md)
+[Code de la template](../../subsilver/standard.tpl)
 
 ## Variables utilisées
 

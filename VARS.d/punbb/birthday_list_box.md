@@ -1,6 +1,6 @@
 # Variable de la template birthday_list_box (PunBB)
 
-[Code de la template](../../punbb/birthday_list_box.md)
+[Code de la template](../../punbb/birthday_list_box.tpl)
 
 ## Variables utilisées
 

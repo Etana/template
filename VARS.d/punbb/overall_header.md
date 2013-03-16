@@ -1,6 +1,6 @@
 # Variable de la template overall_header (PunBB)
 
-[Code de la template](../../punbb/overall_header.md)
+[Code de la template](../../punbb/overall_header.tpl)
 
 ## Variables utilisées
 

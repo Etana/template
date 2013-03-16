@@ -1,6 +1,6 @@
 # Variable de la template profile_add_body (phpBB2)
 
-[Code de la template](../../subsilver/profile_add_body.md)
+[Code de la template](../../subsilver/profile_add_body.tpl)
 
 ## Variables utilisées
 

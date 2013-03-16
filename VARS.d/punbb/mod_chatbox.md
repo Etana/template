@@ -1,6 +1,6 @@
 # Variable de la template mod_chatbox (PunBB)
 
-[Code de la template](../../punbb/mod_chatbox.md)
+[Code de la template](../../punbb/mod_chatbox.tpl)
 
 ## Variables utilisées
 

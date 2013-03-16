@@ -1,6 +1,6 @@
 # Variable de la template topics_list_box (PunBB)
 
-[Code de la template](../../punbb/topics_list_box.md)
+[Code de la template](../../punbb/topics_list_box.tpl)
 
 ## Variables utilisées
 

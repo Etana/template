@@ -1,6 +1,6 @@
 # Variable de la template faq_dhtml (phpBB2)
 
-[Code de la template](../../subsilver/faq_dhtml.md)
+[Code de la template](../../subsilver/faq_dhtml.tpl)
 
 ## Variables utilisées
 

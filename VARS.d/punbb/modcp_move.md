@@ -1,6 +1,6 @@
 # Variable de la template modcp_move (PunBB)
 
-[Code de la template](../../punbb/modcp_move.md)
+[Code de la template](../../punbb/modcp_move.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template groupcp_pending_info (PunBB)
 
-[Code de la template](../../punbb/groupcp_pending_info.md)
+[Code de la template](../../punbb/groupcp_pending_info.tpl)
 
 ## Variables utilisées
 

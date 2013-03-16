@@ -1,6 +1,6 @@
 # Variable de la template viewonline_body (PunBB)
 
-[Code de la template](../../punbb/viewonline_body.md)
+[Code de la template](../../punbb/viewonline_body.tpl)
 
 ## Variables utilisées
 

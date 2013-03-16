@@ -1,6 +1,6 @@
 # Variable de la template mod_social_bookmarking (phpBB2)
 
-[Code de la template](../../subsilver/mod_social_bookmarking.md)
+[Code de la template](../../subsilver/mod_social_bookmarking.tpl)
 
 ## Variables utilisées
 

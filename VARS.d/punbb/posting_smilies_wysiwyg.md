@@ -1,6 +1,6 @@
 # Variable de la template posting_smilies_wysiwyg (PunBB)
 
-[Code de la template](../../punbb/posting_smilies_wysiwyg.md)
+[Code de la template](../../punbb/posting_smilies_wysiwyg.tpl)
 
 ## Variables utilisées
 

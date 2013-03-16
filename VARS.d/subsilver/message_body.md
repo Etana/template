@@ -1,6 +1,6 @@
 # Variable de la template message_body (phpBB2)
 
-[Code de la template](../../subsilver/message_body.md)
+[Code de la template](../../subsilver/message_body.tpl)
 
 ## Variables utilisées
 

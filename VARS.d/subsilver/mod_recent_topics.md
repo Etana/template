@@ -1,6 +1,6 @@
 # Variable de la template mod_recent_topics (phpBB2)
 
-[Code de la template](../../subsilver/mod_recent_topics.md)
+[Code de la template](../../subsilver/mod_recent_topics.tpl)
 
 ## Variables utilisées
 

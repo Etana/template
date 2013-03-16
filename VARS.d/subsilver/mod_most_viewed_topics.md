@@ -1,6 +1,6 @@
 # Variable de la template mod_most_viewed_topics (phpBB2)
 
-[Code de la template](../../subsilver/mod_most_viewed_topics.md)
+[Code de la template](../../subsilver/mod_most_viewed_topics.tpl)
 
 ## Variables utilisées
 

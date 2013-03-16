@@ -1,6 +1,6 @@
 # Variable de la template groupcp_info_body (phpBB2)
 
-[Code de la template](../../subsilver/groupcp_info_body.md)
+[Code de la template](../../subsilver/groupcp_info_body.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template modcp_viewip (phpBB2)
 
-[Code de la template](../../subsilver/modcp_viewip.md)
+[Code de la template](../../subsilver/modcp_viewip.tpl)
 
 ## Variables utilisées
 

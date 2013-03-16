@@ -1,6 +1,6 @@
 # Variable de la template mod_most_active_starters (phpBB2)
 
-[Code de la template](../../subsilver/mod_most_active_starters.md)
+[Code de la template](../../subsilver/mod_most_active_starters.tpl)
 
 ## Variables utilisées
 

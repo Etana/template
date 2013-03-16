@@ -1,6 +1,6 @@
 # Variable de la template album_edit_body (phpBB2)
 
-[Code de la template](../../subsilver/album_edit_body.md)
+[Code de la template](../../subsilver/album_edit_body.tpl)
 
 ## Variables utilisées
 

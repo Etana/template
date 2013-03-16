@@ -1,6 +1,6 @@
 # Variable de la template search_results_topics (phpBB2)
 
-[Code de la template](../../subsilver/search_results_topics.md)
+[Code de la template](../../subsilver/search_results_topics.tpl)
 
 ## Variables utilisées
 

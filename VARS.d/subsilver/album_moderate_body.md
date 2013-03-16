@@ -1,6 +1,6 @@
 # Variable de la template album_moderate_body (phpBB2)
 
-[Code de la template](../../subsilver/album_moderate_body.md)
+[Code de la template](../../subsilver/album_moderate_body.tpl)
 
 ## Variables utilisées
 

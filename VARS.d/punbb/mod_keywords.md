@@ -1,6 +1,6 @@
 # Variable de la template mod_keywords (PunBB)
 
-[Code de la template](../../punbb/mod_keywords.md)
+[Code de la template](../../punbb/mod_keywords.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template poll_ballot (PunBB)
 
-[Code de la template](../../punbb/poll_ballot.md)
+[Code de la template](../../punbb/poll_ballot.tpl)
 
 ## Variables utilisées
 

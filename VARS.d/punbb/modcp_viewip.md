@@ -1,6 +1,6 @@
 # Variable de la template modcp_viewip (PunBB)
 
-[Code de la template](../../punbb/modcp_viewip.md)
+[Code de la template](../../punbb/modcp_viewip.tpl)
 
 ## Variables utilisées
 

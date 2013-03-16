@@ -1,6 +1,6 @@
 # Variable de la template mod_search (phpBB2)
 
-[Code de la template](../../subsilver/mod_search.md)
+[Code de la template](../../subsilver/mod_search.tpl)
 
 ## Variables utilisées
 

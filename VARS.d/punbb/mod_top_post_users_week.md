@@ -1,6 +1,6 @@
 # Variable de la template mod_top_post_users_week (PunBB)
 
-[Code de la template](../../punbb/mod_top_post_users_week.md)
+[Code de la template](../../punbb/mod_top_post_users_week.tpl)
 
 ## Variables utilisées
 

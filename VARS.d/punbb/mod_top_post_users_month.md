@@ -1,6 +1,6 @@
 # Variable de la template mod_top_post_users_month (PunBB)
 
-[Code de la template](../../punbb/mod_top_post_users_month.md)
+[Code de la template](../../punbb/mod_top_post_users_month.tpl)
 
 ## Variables utilisées
 

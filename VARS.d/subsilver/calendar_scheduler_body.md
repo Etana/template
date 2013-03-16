@@ -1,6 +1,6 @@
 # Variable de la template calendar_scheduler_body (phpBB2)
 
-[Code de la template](../../subsilver/calendar_scheduler_body.md)
+[Code de la template](../../subsilver/calendar_scheduler_body.tpl)
 
 ## Variables utilisées
 

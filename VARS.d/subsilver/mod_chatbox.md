@@ -1,6 +1,6 @@
 # Variable de la template mod_chatbox (phpBB2)
 
-[Code de la template](../../subsilver/mod_chatbox.md)
+[Code de la template](../../subsilver/mod_chatbox.tpl)
 
 ## Variables utilisées
 

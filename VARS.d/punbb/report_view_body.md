@@ -1,6 +1,6 @@
 # Variable de la template report_view_body (PunBB)
 
-[Code de la template](../../punbb/report_view_body.md)
+[Code de la template](../../punbb/report_view_body.tpl)
 
 ## Variables utilisées
 

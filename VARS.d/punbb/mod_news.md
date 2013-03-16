@@ -1,6 +1,6 @@
 # Variable de la template mod_news (PunBB)
 
-[Code de la template](../../punbb/mod_news.md)
+[Code de la template](../../punbb/mod_news.tpl)
 
 ## Variables utilisées
 

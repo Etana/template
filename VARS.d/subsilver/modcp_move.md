@@ -1,6 +1,6 @@
 # Variable de la template modcp_move (phpBB2)
 
-[Code de la template](../../subsilver/modcp_move.md)
+[Code de la template](../../subsilver/modcp_move.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template calendar_overview_profil (PunBB)
 
-[Code de la template](../../punbb/calendar_overview_profil.md)
+[Code de la template](../../punbb/calendar_overview_profil.tpl)
 
 ## Variables utilisées
 

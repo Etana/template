@@ -1,6 +1,6 @@
 # Variable de la template birthday_list_box (phpBB2)
 
-[Code de la template](../../subsilver/birthday_list_box.md)
+[Code de la template](../../subsilver/birthday_list_box.tpl)
 
 ## Variables utilisées
 

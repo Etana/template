@@ -1,6 +1,6 @@
 # Variable de la template greeting_popup (PunBB)
 
-[Code de la template](../../punbb/greeting_popup.md)
+[Code de la template](../../punbb/greeting_popup.tpl)
 
 ## Variables utilisées
 

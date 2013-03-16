@@ -1,6 +1,6 @@
 # Variable de la template modcp_body (PunBB)
 
-[Code de la template](../../punbb/modcp_body.md)
+[Code de la template](../../punbb/modcp_body.tpl)
 
 ## Variables utilisées
 

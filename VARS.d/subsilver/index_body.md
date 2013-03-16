@@ -1,6 +1,6 @@
 # Variable de la template index_body (phpBB2)
 
-[Code de la template](../../subsilver/index_body.md)
+[Code de la template](../../subsilver/index_body.tpl)
 
 ## Variables utilisées
 

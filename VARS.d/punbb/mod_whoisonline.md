@@ -1,6 +1,6 @@
 # Variable de la template mod_whoisonline (PunBB)
 
-[Code de la template](../../punbb/mod_whoisonline.md)
+[Code de la template](../../punbb/mod_whoisonline.tpl)
 
 ## Variables utilisées
 

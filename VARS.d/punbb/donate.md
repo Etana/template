@@ -1,6 +1,6 @@
 # Variable de la template donate (PunBB)
 
-[Code de la template](../../punbb/donate.md)
+[Code de la template](../../punbb/donate.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template report_view_body (phpBB2)
 
-[Code de la template](../../subsilver/report_view_body.md)
+[Code de la template](../../subsilver/report_view_body.tpl)
 
 ## Variables utilisées
 

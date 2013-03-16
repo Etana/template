@@ -1,6 +1,6 @@
 # Variable de la template merge_body (PunBB)
 
-[Code de la template](../../punbb/merge_body.md)
+[Code de la template](../../punbb/merge_body.tpl)
 
 ## Variables utilisées
 

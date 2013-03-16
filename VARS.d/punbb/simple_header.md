@@ -1,6 +1,6 @@
 # Variable de la template simple_header (PunBB)
 
-[Code de la template](../../punbb/simple_header.md)
+[Code de la template](../../punbb/simple_header.tpl)
 
 ## Variables utilisées
 

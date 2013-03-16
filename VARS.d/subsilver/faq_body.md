@@ -1,6 +1,6 @@
 # Variable de la template faq_body (phpBB2)
 
-[Code de la template](../../subsilver/faq_body.md)
+[Code de la template](../../subsilver/faq_body.tpl)
 
 ## Variables utilisées
 

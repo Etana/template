@@ -1,6 +1,6 @@
 # Variable de la template mod_statistics (PunBB)
 
-[Code de la template](../../punbb/mod_statistics.md)
+[Code de la template](../../punbb/mod_statistics.tpl)
 
 ## Variables utilisées
 

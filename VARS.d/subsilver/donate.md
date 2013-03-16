@@ -1,6 +1,6 @@
 # Variable de la template donate (phpBB2)
 
-[Code de la template](../../subsilver/donate.md)
+[Code de la template](../../subsilver/donate.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template search_body (phpBB2)
 
-[Code de la template](../../subsilver/search_body.md)
+[Code de la template](../../subsilver/search_body.tpl)
 
 ## Variables utilisées
 

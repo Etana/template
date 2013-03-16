@@ -1,6 +1,6 @@
 # Variable de la template viewforum_body (phpBB2)
 
-[Code de la template](../../subsilver/viewforum_body.md)
+[Code de la template](../../subsilver/viewforum_body.tpl)
 
 ## Variables utilisées
 

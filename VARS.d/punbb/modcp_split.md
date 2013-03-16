@@ -1,6 +1,6 @@
 # Variable de la template modcp_split (PunBB)
 
-[Code de la template](../../punbb/modcp_split.md)
+[Code de la template](../../punbb/modcp_split.tpl)
 
 ## Variables utilisées
 

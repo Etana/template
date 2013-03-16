@@ -1,6 +1,6 @@
 # Variable de la template privmsgs_preview (PunBB)
 
-[Code de la template](../../punbb/privmsgs_preview.md)
+[Code de la template](../../punbb/privmsgs_preview.tpl)
 
 ## Variables utilisées
 

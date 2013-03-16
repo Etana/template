@@ -1,6 +1,6 @@
 # Variable de la template merge_body (phpBB2)
 
-[Code de la template](../../subsilver/merge_body.md)
+[Code de la template](../../subsilver/merge_body.tpl)
 
 ## Variables utilisées
 

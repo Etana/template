@@ -1,6 +1,6 @@
 # Variable de la template overall_footer_end (PunBB)
 
-[Code de la template](../../punbb/overall_footer_end.md)
+[Code de la template](../../punbb/overall_footer_end.tpl)
 
 ## Variables utilisées
 

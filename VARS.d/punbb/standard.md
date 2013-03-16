@@ -1,6 +1,6 @@
 # Variable de la template standard (PunBB)
 
-[Code de la template](../../punbb/standard.md)
+[Code de la template](../../punbb/standard.tpl)
 
 ## Variables utilisées
 

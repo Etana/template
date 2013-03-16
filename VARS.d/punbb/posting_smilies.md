@@ -1,6 +1,6 @@
 # Variable de la template posting_smilies (PunBB)
 
-[Code de la template](../../punbb/posting_smilies.md)
+[Code de la template](../../punbb/posting_smilies.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template overall_header (phpBB2)
 
-[Code de la template](../../subsilver/overall_header.md)
+[Code de la template](../../subsilver/overall_header.tpl)
 
 ## Variables utilisées
 

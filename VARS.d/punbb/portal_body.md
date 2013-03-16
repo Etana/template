@@ -1,6 +1,6 @@
 # Variable de la template portal_body (PunBB)
 
-[Code de la template](../../punbb/portal_body.md)
+[Code de la template](../../punbb/portal_body.tpl)
 
 ## Variables utilisées
 

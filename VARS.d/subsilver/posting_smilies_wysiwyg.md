@@ -1,6 +1,6 @@
 # Variable de la template posting_smilies_wysiwyg (phpBB2)
 
-[Code de la template](../../subsilver/posting_smilies_wysiwyg.md)
+[Code de la template](../../subsilver/posting_smilies_wysiwyg.tpl)
 
 ## Variables utilisées
 

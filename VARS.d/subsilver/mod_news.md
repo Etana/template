@@ -1,6 +1,6 @@
 # Variable de la template mod_news (phpBB2)
 
-[Code de la template](../../subsilver/mod_news.md)
+[Code de la template](../../subsilver/mod_news.tpl)
 
 ## Variables utilisées
 

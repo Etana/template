@@ -1,6 +1,6 @@
 # Variable de la template profile_send_pass (phpBB2)
 
-[Code de la template](../../subsilver/profile_send_pass.md)
+[Code de la template](../../subsilver/profile_send_pass.tpl)
 
 ## Variables utilisées
 

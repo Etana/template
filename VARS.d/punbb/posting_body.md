@@ -1,6 +1,6 @@
 # Variable de la template posting_body (PunBB)
 
-[Code de la template](../../punbb/posting_body.md)
+[Code de la template](../../punbb/posting_body.tpl)
 
 ## Variables utilisées
 

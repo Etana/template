@@ -1,6 +1,6 @@
 # Variable de la template rpg_sheet_edit (phpBB2)
 
-[Code de la template](../../subsilver/rpg_sheet_edit.md)
+[Code de la template](../../subsilver/rpg_sheet_edit.tpl)
 
 ## Variables utilisées
 

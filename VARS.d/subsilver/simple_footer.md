@@ -1,6 +1,6 @@
 # Variable de la template simple_footer (phpBB2)
 
-[Code de la template](../../subsilver/simple_footer.md)
+[Code de la template](../../subsilver/simple_footer.tpl)
 
 ## Variables utilisées
 

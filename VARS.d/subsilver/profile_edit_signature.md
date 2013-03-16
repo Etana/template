@@ -1,6 +1,6 @@
 # Variable de la template profile_edit_signature (phpBB2)
 
-[Code de la template](../../subsilver/profile_edit_signature.md)
+[Code de la template](../../subsilver/profile_edit_signature.tpl)
 
 ## Variables utilisées
 

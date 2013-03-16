@@ -1,6 +1,6 @@
 # Variable de la template report_popup_body (phpBB2)
 
-[Code de la template](../../subsilver/report_popup_body.md)
+[Code de la template](../../subsilver/report_popup_body.tpl)
 
 ## Variables utilisées
 

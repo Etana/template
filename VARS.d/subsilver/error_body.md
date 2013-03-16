@@ -1,6 +1,6 @@
 # Variable de la template error_body (phpBB2)
 
-[Code de la template](../../subsilver/error_body.md)
+[Code de la template](../../subsilver/error_body.tpl)
 
 ## Variables utilisées
 

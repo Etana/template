@@ -1,6 +1,6 @@
 # Variable de la template jumpbox (PunBB)
 
-[Code de la template](../../punbb/jumpbox.md)
+[Code de la template](../../punbb/jumpbox.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template agreement (phpBB2)
 
-[Code de la template](../../subsilver/agreement.md)
+[Code de la template](../../subsilver/agreement.tpl)
 
 ## Variables utilisées
 

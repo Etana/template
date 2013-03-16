@@ -1,6 +1,6 @@
 # Variable de la template privmsgs_preview (phpBB2)
 
-[Code de la template](../../subsilver/privmsgs_preview.md)
+[Code de la template](../../subsilver/privmsgs_preview.tpl)
 
 ## Variables utilisées
 

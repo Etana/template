@@ -1,6 +1,6 @@
 # Variable de la template error_body (PunBB)
 
-[Code de la template](../../punbb/error_body.md)
+[Code de la template](../../punbb/error_body.tpl)
 
 ## Variables utilisées
 

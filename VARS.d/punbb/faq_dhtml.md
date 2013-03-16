@@ -1,6 +1,6 @@
 # Variable de la template faq_dhtml (PunBB)
 
-[Code de la template](../../punbb/faq_dhtml.md)
+[Code de la template](../../punbb/faq_dhtml.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template album_edit_body (PunBB)
 
-[Code de la template](../../punbb/album_edit_body.md)
+[Code de la template](../../punbb/album_edit_body.tpl)
 
 ## Variables utilisées
 

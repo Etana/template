@@ -1,6 +1,6 @@
 # Variable de la template album_moderate_body (PunBB)
 
-[Code de la template](../../punbb/album_moderate_body.md)
+[Code de la template](../../punbb/album_moderate_body.tpl)
 
 ## Variables utilisées
 

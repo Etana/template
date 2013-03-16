@@ -1,6 +1,6 @@
 # Variable de la template mod_rss_feeds (phpBB2)
 
-[Code de la template](../../subsilver/mod_rss_feeds.md)
+[Code de la template](../../subsilver/mod_rss_feeds.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template posting_preview (PunBB)
 
-[Code de la template](../../punbb/posting_preview.md)
+[Code de la template](../../punbb/posting_preview.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template mod_most_viewed_topics (PunBB)
 
-[Code de la template](../../punbb/mod_most_viewed_topics.md)
+[Code de la template](../../punbb/mod_most_viewed_topics.tpl)
 
 ## Variables utilisées
 

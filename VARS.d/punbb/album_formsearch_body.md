@@ -1,6 +1,6 @@
 # Variable de la template album_formsearch_body (PunBB)
 
-[Code de la template](../../punbb/album_formsearch_body.md)
+[Code de la template](../../punbb/album_formsearch_body.tpl)
 
 ## Variables utilisées
 

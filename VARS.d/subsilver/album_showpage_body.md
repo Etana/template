@@ -1,6 +1,6 @@
 # Variable de la template album_showpage_body (phpBB2)
 
-[Code de la template](../../subsilver/album_showpage_body.md)
+[Code de la template](../../subsilver/album_showpage_body.tpl)
 
 ## Variables utilisées
 

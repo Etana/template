@@ -1,6 +1,6 @@
 # Variable de la template mod_statistics (phpBB2)
 
-[Code de la template](../../subsilver/mod_statistics.md)
+[Code de la template](../../subsilver/mod_statistics.tpl)
 
 ## Variables utilisées
 

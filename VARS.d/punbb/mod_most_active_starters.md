@@ -1,6 +1,6 @@
 # Variable de la template mod_most_active_starters (PunBB)
 
-[Code de la template](../../punbb/mod_most_active_starters.md)
+[Code de la template](../../punbb/mod_most_active_starters.tpl)
 
 ## Variables utilisées
 

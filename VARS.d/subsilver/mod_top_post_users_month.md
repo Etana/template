@@ -1,6 +1,6 @@
 # Variable de la template mod_top_post_users_month (phpBB2)
 
-[Code de la template](../../subsilver/mod_top_post_users_month.md)
+[Code de la template](../../subsilver/mod_top_post_users_month.tpl)
 
 ## Variables utilisées
 

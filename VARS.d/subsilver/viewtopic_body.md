@@ -1,6 +1,6 @@
 # Variable de la template viewtopic_body (phpBB2)
 
-[Code de la template](../../subsilver/viewtopic_body.md)
+[Code de la template](../../subsilver/viewtopic_body.tpl)
 
 ## Variables utilisées
 

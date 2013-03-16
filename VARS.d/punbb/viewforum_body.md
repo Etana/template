@@ -1,6 +1,6 @@
 # Variable de la template viewforum_body (PunBB)
 
-[Code de la template](../../punbb/viewforum_body.md)
+[Code de la template](../../punbb/viewforum_body.tpl)
 
 ## Variables utilisées
 

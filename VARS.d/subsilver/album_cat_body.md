@@ -1,6 +1,6 @@
 # Variable de la template album_cat_body (phpBB2)
 
-[Code de la template](../../subsilver/album_cat_body.md)
+[Code de la template](../../subsilver/album_cat_body.tpl)
 
 ## Variables utilisées
 

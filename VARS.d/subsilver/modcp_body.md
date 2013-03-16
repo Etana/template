@@ -1,6 +1,6 @@
 # Variable de la template modcp_body (phpBB2)
 
-[Code de la template](../../subsilver/modcp_body.md)
+[Code de la template](../../subsilver/modcp_body.tpl)
 
 ## Variables utilisées
 

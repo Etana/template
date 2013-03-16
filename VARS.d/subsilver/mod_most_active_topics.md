@@ -1,6 +1,6 @@
 # Variable de la template mod_most_active_topics (phpBB2)
 
-[Code de la template](../../subsilver/mod_most_active_topics.md)
+[Code de la template](../../subsilver/mod_most_active_topics.tpl)
 
 ## Variables utilisées
 

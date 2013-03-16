@@ -1,6 +1,6 @@
 # Variable de la template modcp_split (phpBB2)
 
-[Code de la template](../../subsilver/modcp_split.md)
+[Code de la template](../../subsilver/modcp_split.tpl)
 
 ## Variables utilisées
 

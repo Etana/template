@@ -1,6 +1,6 @@
 # Variable de la template posting_topic_review (phpBB2)
 
-[Code de la template](../../subsilver/posting_topic_review.md)
+[Code de la template](../../subsilver/posting_topic_review.tpl)
 
 ## Variables utilisées
 

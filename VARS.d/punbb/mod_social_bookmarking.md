@@ -1,6 +1,6 @@
 # Variable de la template mod_social_bookmarking (PunBB)
 
-[Code de la template](../../punbb/mod_social_bookmarking.md)
+[Code de la template](../../punbb/mod_social_bookmarking.tpl)
 
 ## Variables utilisées
 

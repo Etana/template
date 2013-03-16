@@ -1,6 +1,6 @@
 # Variable de la template album_nuffimage_box (phpBB2)
 
-[Code de la template](../../subsilver/album_nuffimage_box.md)
+[Code de la template](../../subsilver/album_nuffimage_box.tpl)
 
 ## Variables utilisées
 

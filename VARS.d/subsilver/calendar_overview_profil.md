@@ -1,6 +1,6 @@
 # Variable de la template calendar_overview_profil (phpBB2)
 
-[Code de la template](../../subsilver/calendar_overview_profil.md)
+[Code de la template](../../subsilver/calendar_overview_profil.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template agreement (PunBB)
 
-[Code de la template](../../punbb/agreement.md)
+[Code de la template](../../punbb/agreement.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template calendar_body (PunBB)
 
-[Code de la template](../../punbb/calendar_body.md)
+[Code de la template](../../punbb/calendar_body.tpl)
 
 ## Variables utilisées
 

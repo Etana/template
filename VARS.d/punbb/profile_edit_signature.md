@@ -1,6 +1,6 @@
 # Variable de la template profile_edit_signature (PunBB)
 
-[Code de la template](../../punbb/profile_edit_signature.md)
+[Code de la template](../../punbb/profile_edit_signature.tpl)
 
 ## Variables utilisées
 

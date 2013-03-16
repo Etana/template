@@ -1,6 +1,6 @@
 # Variable de la template posting_body (phpBB2)
 
-[Code de la template](../../subsilver/posting_body.md)
+[Code de la template](../../subsilver/posting_body.tpl)
 
 ## Variables utilisées
 

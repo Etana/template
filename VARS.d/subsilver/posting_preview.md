@@ -1,6 +1,6 @@
 # Variable de la template posting_preview (phpBB2)
 
-[Code de la template](../../subsilver/posting_preview.md)
+[Code de la template](../../subsilver/posting_preview.tpl)
 
 ## Variables utilisées
 

@@ -1,6 +1,6 @@
 # Variable de la template search_results_posts (PunBB)
 
-[Code de la template](../../punbb/search_results_posts.md)
+[Code de la template](../../punbb/search_results_posts.tpl)
 
 ## Variables utilisées
 

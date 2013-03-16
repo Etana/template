@@ -1,6 +1,6 @@
 # Variable de la template index_body (PunBB)
 
-[Code de la template](../../punbb/index_body.md)
+[Code de la template](../../punbb/index_body.tpl)
 
 ## Variables utilisées
 

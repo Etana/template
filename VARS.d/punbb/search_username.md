@@ -1,6 +1,6 @@
 # Variable de la template search_username (PunBB)
 
-[Code de la template](../../punbb/search_username.md)
+[Code de la template](../../punbb/search_username.tpl)
 
 ## Variables utilisées
 

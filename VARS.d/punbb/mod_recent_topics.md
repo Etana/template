@@ -1,6 +1,6 @@
 # Variable de la template mod_recent_topics (PunBB)
 
-[Code de la template](../../punbb/mod_recent_topics.md)
+[Code de la template](../../punbb/mod_recent_topics.tpl)
 
 ## Variables utilisées
 

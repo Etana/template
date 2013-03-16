@@ -1,6 +1,6 @@
 # Variable de la template poll_result (phpBB2)
 
-[Code de la template](../../subsilver/poll_result.md)
+[Code de la template](../../subsilver/poll_result.tpl)
 
 ## Variables utilisées
 
