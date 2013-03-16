@@ -58,7 +58,7 @@
 			<!-- BEGIN profile_field -->
 			<tr id="field_id{profile_field.ID}">
 				<td width="40%" align="right" valign="top" nowrap="nowrap"><span class="gen">{profile_field.LABEL}&nbsp;&nbsp;</span></td>
-				<td width="60%" width="100%"><b><span class="gen">{profile_field.CONTENT}</span></b><!-- BEGIN profil_type_user_posts --><br /><span class="genmed">[{POST_PERCENT_STATS} / {POST_DAY_STATS}]</span> <br />
+				<td width="60%"><div class="gen" style="font-weight:bold;">{profile_field.CONTENT}</div><br /><!-- BEGIN profil_type_user_posts --><span class="genmed">[{POST_PERCENT_STATS} / {POST_DAY_STATS}]</span> <br />
 				<span class="genmed"><a rel="nofollow" class="genmed" href="/st/{PUSERNAME}">{L_SEARCH_USER_POSTS} :</a><br />
 					&nbsp;&nbsp;- <a rel="nofollow" class="genmed" href="/sta/{PUSERNAME}">{L_TOPICS}</a><br />
 					&nbsp;&nbsp;- <a rel="nofollow" class="genmed" href="/spa/{PUSERNAME}">{L_POSTS}</a></span><!-- END profil_type_user_posts --></td>
@@ -76,7 +76,7 @@
 				<!-- BEGIN contact_field -->
 				<tr id="field_id{contact_field.ID}">
 					<td width="40%" align="right" valign="middle" nowrap="nowrap"><span class="gen">{contact_field.LABEL}&nbsp;&nbsp;</span></td>
-					<td width="60%" valign="middle"><b><span class="gen">{contact_field.CONTENT}</span></b></td>
+					<td width="60%" valign="middle"><div class="gen" style="font-weight:bold;">{contact_field.CONTENT}</div></td>
 				</tr>
 				<!-- END contact_field -->
 				<!-- BEGIN switch_admin_user_comment_active -->
@@ -146,11 +146,11 @@
 //<![CDATA[
 	$(document).ready(function(){
 		$('[id^=field_id]').each(function(){
-			if ( $(this).find('.field_editable').is('span') )
+			if ( $(this).find('.field_editable').is('span, div') )
 			{
 				$(this).hover(function()
 				{
-					if( $(this).find('.field_editable.invisible').is('span') )
+					if( $(this).find('.field_editable.invisible').is('span, div') )
 					{
 						$(this).find('.field_editable').prev().addClass('ajax-profil_hover').parent().addClass('ajax-profil_parent').append('<div class="ajax-profil_edit"><img src="{AJAX_EDIT_IMG}" /></div>');
 						$(this).find('.ajax-profil_edit').attr({
@@ -188,7 +188,7 @@
 					}
 				},function()
 				{
-					if( $(this).find('.field_editable.invisible').is('span') )
+					if( $(this).find('.field_editable.invisible').is('span, div') )
 					{
 						$(this).find('.field_editable').prev().removeClass('ajax-profil_hover');
 						$(this).find('.ajax-profil_edit').remove();

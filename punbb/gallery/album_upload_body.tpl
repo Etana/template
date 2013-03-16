@@ -2,8 +2,8 @@
 <!-- BEGIN switch_user_logged_in -->
 <div id="pun-visit" class="clearfix">
 	<ul>
-	 	<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
-	 	<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
+			<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
+			<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
 	</ul>
 	<p>{LOGGED_AS}. {LAST_VISIT_DATE}</p>
 </div>
@@ -96,7 +96,7 @@ function postIt()
 	{
 		<!-- BEGIN switch_show_progress_bar -->
 		win = window.open("{U_ALBUM_NUFFLOAD}", "Uploader", "width=150,height=460,left=" + ((screen.width - w) / 2) + ",top=" + ((screen.height - h) / 2) + ",scrollbars=0,resizable=0,menubar=0,status=0,toolbar=0");
-		if (parseInt(navigator.appVersion) >= 4)
+		if ( (parseInt(navigator.appVersion) >= 4) && ( win != null ) )
 		{
 			win.window.focus();
 		}

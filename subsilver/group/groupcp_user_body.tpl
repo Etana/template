@@ -1,5 +1,5 @@
+<!-- BEGIN switch_groups_joined -->
 <table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="4">
-	<!-- BEGIN switch_groups_joined -->
 		<tr>
 			<th class="thHead" colspan="2" align="center" height="25"><h1 class="pagetitle"> {L_GROUP_MEMBERSHIP_DETAILS}</h1></th>
 		</tr>
@@ -16,8 +16,8 @@
 				{GROUP_PENDING_SELECT}
 			</tr>
 		<!-- END switch_groups_pending -->
-	<!-- END switch_groups_joined -->
 </table>
+<!-- END switch_groups_joined -->
 <br />
 <!-- BEGIN switch_groups_remaining -->
 <table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="4">
@@ -27,14 +27,14 @@
 	<tr>
 		<td class="row1"><span class="gen">{L_SELECT_A_GROUP}</span></td>
 		<td class="row2">
+			<form action="{U_USERGROUP_ACTION}" method="get">
 			<table width="90%" border="0" cellspacing="0" cellpadding="0">
-				<tr>
-					<form action="{U_USERGROUP_ACTION}" method="get">
-						<td width="40%"><span class="gensmall">{GROUP_LIST_SELECT}</span></td>
-						<td align="center" width="30%"><input class="liteoption" type="submit" value="{L_VIEW_INFORMATION}" />{S_HIDDEN_FIELDS}</td>
-					</form>
-				</tr>
+			<tr>
+				<td width="40%"><span class="gensmall">{GROUP_LIST_SELECT}</span></td>
+				<td align="center" width="30%"><input class="liteoption" type="submit" value="{L_VIEW_INFORMATION}" />{S_HIDDEN_FIELDS}</td>
+			</tr>
 			</table>
+			</form>
 		</td>
 	</tr>
 </table>

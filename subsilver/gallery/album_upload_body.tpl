@@ -81,7 +81,7 @@ function postIt()
 	{
 		<!-- BEGIN switch_show_progress_bar -->
 		win = window.open("{U_ALBUM_NUFFLOAD}", "Uploader", "width=150,height=460,left=" + ((screen.width - w) / 2) + ",top=" + ((screen.height - h) / 2) + ",scrollbars=0,resizable=0,menubar=0,status=0,toolbar=0");
-		if (parseInt(navigator.appVersion) >= 4)
+		if ( (parseInt(navigator.appVersion) >= 4) && ( win != null ) )
 		{
 			win.window.focus();
 		}

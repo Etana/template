@@ -1,6 +1,6 @@
 <script src="{JS_DIR}extendedview.js" type="text/javascript"></script>
+<form action="{S_SEARCH_ACTION}" method="get" name="searchform">
 <table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="4">
-	<form action="{S_SEARCH_ACTION}" method="GET" name="searchform">
 	<tr>
 		<th class="thHead" colspan="2" height="25">{L_SEARCH_QUERY}</th>
 	</tr>
@@ -19,7 +19,7 @@
 			<input type="hidden" name="hl" value="{L_LANG_HL}" />
 			<input type="hidden" name="cof" value="GALT:#{T_GOO_LINK};GL:1;DIV:#{T_TD_COLOR1};VLC:#{T_VISITED_LINK};AH:center;BGC:#{T_TR_COLOR1};LBGC:#{T_TD_COLOR1};ALC:#{T_ACTIVE_LINK};LC:#{T_GOO_LINK};T:#{T_GOO_TEXT};GFNT:#{T_GOO_LINK};GIMP:#{T_GOO_LINK};FORID:11" />
 			&nbsp;<input class="liteoption" type="button" value="{L_SEARCH} Google" onclick="document.searchform.action='{U_GOOGLERESULTS}';document.searchform.q.value=document.searchform.search_keywords.value;document.searchform.submit()" /><br />
-			&nbsp;<input id="any" type="radio" name="search_terms" value="any" checked="checked">
+			&nbsp;<input id="any" type="radio" name="search_terms" value="any" checked="checked" />
 			<span class="genmed" /><label for="any">{L_SEARCH_ANY_TERMS}</label></span><br />
 			&nbsp;<input id="all" type="radio" name="search_terms" value="all" />
 			<span class="genmed"><label for="all">{L_SEARCH_ALL_TERMS}</label></span>
@@ -37,7 +37,7 @@
 				<th class="thHead" colspan="4" height="25">
 				<div style="text-align: center; float: left; width: 2%"></div>
 				<div style="text-align: center; float: left; width: 95%">{L_SEARCH_OPTIONS}</div>
-				<div style="float: right; width: 2%"><a href="javascript:ShowHideLayernew('searchitems');"><img src="{TABS_LESS_IMG}" alt="-" align="middle" border="0"></a></div>
+				<div style="float: right; width: 2%"><a href="javascript:ShowHideLayernew('searchitems');"><img src="{TABS_LESS_IMG}" alt="-" align="middle" border="0" /></a></div>
 				</th>
 			</tr>
 			<tr>
@@ -75,7 +75,7 @@
 					<th class="thHead" height="25">
 					<div style="text-align: center; float: left; width: 2%"></div>
 					<div style="text-align: center; float: left; width: 95%">{L_SEARCH_OPTIONS}</div>
-					<div style="float: right; width: 2%"><a href="javascript:ShowHideLayernew('searchitems');"><img src="{TABS_MORE_IMG}" alt="+" align="middle" border="0"></a></div>
+					<div style="float: right; width: 2%"><a href="javascript:ShowHideLayernew('searchitems');"><img src="{TABS_MORE_IMG}" alt="+" align="middle" border="0" /></a></div>
 					</th>
 				</tr>
 			</table>
@@ -89,8 +89,8 @@
 			<input class="liteoption" type="submit" value="{L_SEARCH}" onclick="document.searchform.google.value='';" />&nbsp;
 		</td>
 	</tr>
-	</form>
 </table>
+</form>
 <table width="100%" border="0" cellspacing="2" cellpadding="0" align="center">
 	<tr>
 		<td align="right" valign="middle"><span class="gensmall">{S_TIMEZONE}</span></td>

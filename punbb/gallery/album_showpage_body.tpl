@@ -206,7 +206,7 @@ function mozInsert(txtarea, openTag, closeTag)
 function openAllSmiles()
 {
 	smiles = window.open('{U_ALBUM_SHOWPAGE}', '_phpbbsmilies', 'HEIGHT=600,resizable=yes,scrollbars=yes,WIDTH=470');
-	smiles.focus();
+	if(smiles != null) { smiles.focus(); }
 	return true;
 }
 //-->
@@ -216,8 +216,8 @@ function openAllSmiles()
 <!-- BEGIN switch_user_logged_in -->
 <div id="pun-visit" class="clearfix">
 	<ul>
-	 	<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
-	 	<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
+			<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
+			<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
 	</ul>
 	<p>{LOGGED_AS}. {LAST_VISIT_DATE}</p>
 </div>

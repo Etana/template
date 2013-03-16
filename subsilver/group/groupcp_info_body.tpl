@@ -1,40 +1,40 @@
+<form action="{S_GROUPCP_ACTION}" method="post">
 <table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="4">
-	<form action="{S_GROUPCP_ACTION}" method="post">
-		<tr>
-			<th class="thHead" colspan="7" height="25"><h1 class="pagetitle">{L_GROUP_INFORMATION}<h1></th>
-		</tr>
-		<tr>
-			<td class="row1" width="20%"><span class="gen">{L_GROUP_NAME}:</span></td>
-			<td class="row2"><span class="gen"><strong>{GROUP_NAME}</strong></span></td>
-		</tr>
-		<tr>
-			<td class="row1" width="20%"><span class="gen">{L_GROUP_DESC}:</span></td>
-			<td class="row2"><span class="gen">{GROUP_DESC}</span></td>
-		</tr>
-		<tr>
-			<td class="row1" width="20%"><span class="gen">{L_GROUP_MEMBERSHIP}:</span></td>
-			<td class="row2">
-				<span class="gen">{GROUP_DETAILS}&nbsp;
-				<!-- BEGIN switch_subscribe_group_input -->
-					<input class="mainoption" type="submit" name="joingroup" value="{L_JOIN_GROUP}" />
-				<!-- END switch_subscribe_group_input -->
-				<!-- BEGIN switch_unsubscribe_group_input -->
-					<input class="mainoption" type="submit" name="unsub" value="{L_UNSUBSCRIBE_GROUP}" />
-				<!-- END switch_unsubscribe_group_input -->
-				</span>
-			</td>
-		</tr>
-		<!-- BEGIN switch_mod_option -->
-		<tr>
-			<td class="row1" width="20%"><span class="gen">{L_GROUP_TYPE}:</span></td>
-			<td class="row2">
-				<span class="gen"><input type="radio" name="group_type" value="{S_GROUP_OPEN_TYPE}" {S_GROUP_OPEN_CHECKED}{S_GROUP_OPEN_DISABLED} />{L_GROUP_OPEN}&nbsp;<input type="radio" name="group_type" value="{S_GROUP_CLOSED_TYPE}" {S_GROUP_CLOSED_CHECKED} />&nbsp;{L_GROUP_CLOSED}&nbsp;<input type="radio" name="group_type" value="{S_GROUP_HIDDEN_TYPE}" {S_GROUP_HIDDEN_CHECKED} />{L_GROUP_HIDDEN}&nbsp;<input class="mainoption" type="submit" name="groupstatus" value="{L_UPDATE}" /></span>
-			</td>
-		</tr>
-		<!-- END switch_mod_option -->
-		{S_HIDDEN_FIELDS}
-	</form>
+	<tr>
+		<th class="thHead" colspan="7" height="25"><h1 class="pagetitle">{L_GROUP_INFORMATION}</h1></th>
+	</tr>
+	<tr>
+		<td class="row1" width="20%"><span class="gen">{L_GROUP_NAME}:</span></td>
+		<td class="row2"><span class="gen"><strong>{GROUP_NAME}</strong></span></td>
+	</tr>
+	<tr>
+		<td class="row1" width="20%"><span class="gen">{L_GROUP_DESC}:</span></td>
+		<td class="row2"><span class="gen">{GROUP_DESC}</span></td>
+	</tr>
+	<tr>
+		<td class="row1" width="20%"><span class="gen">{L_GROUP_MEMBERSHIP}:</span></td>
+		<td class="row2">
+			<span class="gen">{GROUP_DETAILS}&nbsp;
+			<!-- BEGIN switch_subscribe_group_input -->
+				<input class="mainoption" type="submit" name="joingroup" value="{L_JOIN_GROUP}" />
+			<!-- END switch_subscribe_group_input -->
+			<!-- BEGIN switch_unsubscribe_group_input -->
+				<input class="mainoption" type="submit" name="unsub" value="{L_UNSUBSCRIBE_GROUP}" />
+			<!-- END switch_unsubscribe_group_input -->
+			</span>
+		</td>
+	</tr>
+	<!-- BEGIN switch_mod_option -->
+	<tr>
+		<td class="row1" width="20%"><span class="gen">{L_GROUP_TYPE}:</span></td>
+		<td class="row2">
+			<span class="gen"><input type="radio" name="group_type" value="{S_GROUP_OPEN_TYPE}" {S_GROUP_OPEN_CHECKED}{S_GROUP_OPEN_DISABLED} />{L_GROUP_OPEN}&nbsp;<input type="radio" name="group_type" value="{S_GROUP_CLOSED_TYPE}" {S_GROUP_CLOSED_CHECKED} />&nbsp;{L_GROUP_CLOSED}&nbsp;<input type="radio" name="group_type" value="{S_GROUP_HIDDEN_TYPE}" {S_GROUP_HIDDEN_CHECKED} />{L_GROUP_HIDDEN}&nbsp;<input class="mainoption" type="submit" name="groupstatus" value="{L_UPDATE}" /></span>
+		</td>
+	</tr>
+	<!-- END switch_mod_option -->
 </table>
+	{S_HIDDEN_FIELDS}
+</form>
 <form action="{S_GROUPCP_ACTION}" method="post" name="post">
 	<table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="4">
 		<tr>
@@ -69,7 +69,7 @@
 				<td class="{member_row.ROW_CLASS}" align="center"><span class="gen">{member_row.FROM} </span></td>
 				<td class="{member_row.ROW_CLASS}" align="center" valign="middle"><span class="gen">{member_row.EMAIL_IMG}</span></td>
 				<td class="{member_row.ROW_CLASS}" align="center">{member_row.WWW_IMG}</td>
-				<td class="{member_row.ROW_CLASS}" align="center"><!-- BEGIN switch_mod_option --><input type="checkbox" name="members[]" value="{member_row.USER_ID}"><!-- END switch_mod_option --></td>
+				<td class="{member_row.ROW_CLASS}" align="center"><!-- BEGIN switch_mod_option --><input type="checkbox" name="members[]" value="{member_row.USER_ID}" /><!-- END switch_mod_option --></td>
 			</tr>
 		<!-- END member_row -->
 		<!-- BEGIN switch_no_members -->

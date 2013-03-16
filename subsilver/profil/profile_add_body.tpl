@@ -1,4 +1,4 @@
-<script src="{JSPWD}"></script>
+<script type="text/javascript" src="{JSPWD}"></script>
 <!-- BEGIN switch_display_menu -->
 {UCP_TABS}
 <!-- END switch_display_menu -->
@@ -39,9 +39,9 @@
 	<!-- END switch_emailchange_allowed -->
 
 	<!-- BEGIN switch_change_password -->
-        <tr>
+	<tr>
 		<td class="row1"><span class="gen">{L_CHANGE_PASSWORD}&nbsp;:</span></td>
-                <td class="row2"><input class="mainoption" type="submit" name="change_password" id="change_password" value="{L_MODIFY}"  /></td>
+		<td class="row2"><a href="{LINK_FOR_PASSWD_CHANGE}" target="_blank" class="gen"><b>&lt;&nbsp;{L_MODIFY}&nbsp;&gt;</b></a></td>
 	</tr>
         <!-- END switch_change_password -->
 
@@ -79,7 +79,7 @@
 
 		<tr>
 			<td class="row1"><span class="gen">{L_DELETE}</span></td>
-			<td class="row2"><input type="checkbox" name="delete_user"><span class="gensmall" />{L_DELETE_EXPLAIN}</span></td>
+			<td class="row2"><input type="checkbox" name="delete_user" /><span class="gensmall">{L_DELETE_EXPLAIN}</span></td>
 		</tr>
 
 <!-- END switch_informations_menu -->
@@ -213,6 +213,15 @@
 		</td>
 	</tr>
 	<!-- END switch_can_disable_mass_pm -->
+	<!-- BEGIN switch_notify_subscriptions -->
+	<tr>
+		<td class="row1"><span class="gen">{L_NOTIFY_SUBSCRIPTIONS}&nbsp;:</span></td>
+		<td class="row2">
+			<label class="gen"><input type="radio" name="notify_subscriptions" value="1" {NOTIFY_SUBSCRIPTIONS_YES} />{L_YES}</label>&nbsp;&nbsp;
+			<label class="gen"><input type="radio" name="notify_subscriptions" value="0" {NOTIFY_SUBSCRIPTIONS_NO} />{L_NO}</label>
+		</td>
+	</tr>
+	<!-- END switch_notify_subscriptions -->
 	<tr>
 		<td class="row1"><span class="gen">{L_POPUP_ON_PRIVMSG}&nbsp;:</span><br /><span class="gensmall">{L_POPUP_ON_PRIVMSG_EXPLAIN}</span></td>
 		<td class="row2">
@@ -351,16 +360,7 @@
 </form>
 <script type="text/javascript">
 $(function(){
-
-    $('#change_password').click(function(){
-        try {
-            // $('#register').submit();
-        } catch (e) {
-            console.log(e);
-        }
-    });
-
-    $('input[name=reset]').click(function(){
+	$('input[name=reset]').click(function(){
         $("#pwd_good,#pwd_middle,#pwd_bad").hide();
     });
     $('input[name=new_password],input[name=username]').keyup(function() {

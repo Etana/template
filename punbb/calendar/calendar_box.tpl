@@ -1,11 +1,11 @@
 <!-- BEGIN _calendar_box -->
 	<div class="main-head clearfix">
-        <!-- BEGIN switch_not_anonymous -->
+	<!-- BEGIN switch_not_anonymous -->
 		<p class="left-box"><a href="{_calendar_box.U_PREC}" rel="nofollow"><strong>&laquo;</strong></a></p>
 		<p class="right-box"><a href="{_calendar_box.U_NEXT}" rel="nofollow"><strong>&raquo;</strong></a></p>
-        <!-- END switch_not_anonymous -->
+	<!-- END switch_not_anonymous -->
 		<fieldset class="frm-set center calendar">
-			{_calendar_box.S_MONTH} {_calendar_box.S_YEAR} {_calendar_box.S_FORUM_LIST} <input type="submit" value="{_calendar_box.L_GO}" class="button2" />
+			<form name="_calendar" method="post" action="{_calendar_box.S_ACTION}">{_calendar_box.S_MONTH} {_calendar_box.S_YEAR} {_calendar_box.S_FORUM_LIST} <input type="submit" value="{_calendar_box.L_GO}" class="button2" /></form>
 		</fieldset>
 	</div>
 
@@ -61,12 +61,10 @@
 		<!-- END _row -->
 	</table>
 	</div>
-</form>
-<form action="{S_CREATE_EVENT}" method="post">
 <div class="main-foot">
 	<fieldset class="center">
 		<!-- BEGIN switch_add_event -->
-		<input type="submit" value="{L_ADD_EVENT}" class="button2" />
+		<form action="{S_CREATE_EVENT}" method="post"><input type="submit" value="{L_ADD_EVENT}" class="button2" /></form>
 		<!-- END switch_add_event -->
 	</fieldset>
 </div>

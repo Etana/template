@@ -19,6 +19,7 @@
 		<input type="hidden" name="disable_bbcode" value="{V_DISABLE_BBCODE}" />
 		<input type="hidden" name="disable_smilies" value="{V_DISABLE_SMILIES}" />
 		<input type="hidden" name="disable_html" value="{V_DISABLE_HTML}" />
+		<input type="hidden" name="topictype" value="{V_TOPICTYPE}" />
 		
 		<input type="hidden" name="topic_calendar_day" value="{V_CALENDAR_DAY}" />
 		<input type="hidden" name="topic_calendar_month" value="{V_CALENDAR_MONTH}" />

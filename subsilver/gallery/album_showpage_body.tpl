@@ -206,7 +206,7 @@ function mozInsert(txtarea, openTag, closeTag)
 function openAllSmiles()
 {
 	smiles = window.open('{U_ALBUM_SHOWPAGE}', '_phpbbsmilies', 'HEIGHT=600,resizable=yes,scrollbars=yes,WIDTH=470');
-	smiles.focus();
+	if(smiles != null) { smiles.focus(); }
 	return true;
 }
 //]]>

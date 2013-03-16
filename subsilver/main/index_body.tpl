@@ -46,7 +46,7 @@
 	<!-- BEGIN switch_fb_connect -->
 	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="user_login_form forumline">
 		<tr>
-			<td valign="top" width="100%"  class="row1" align="center">
+			<td valign="top" width="100%" class="row1" align="center">
 				<table width="100%">
 					<tr>
 						<td width="55%" valign="middle" align="right">
@@ -70,7 +70,7 @@
 						<td width="10%" align="center" valign="middle">
 							<span class="genmed fb_or">{switch_user_login_form_header.switch_fb_connect.L_OR}</span>
 						</td>
-						<td width="35%" class="align_gauche"><fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" v="2" perms="{switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button></td>
+						<td width="35%" class="align_gauche"><fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" v="2" scope="{switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button></td>
 					</tr>
 				</table>
 			</td>
@@ -86,12 +86,11 @@
 	<tr>
 		<td width="50%" valign="top">
 			<!-- BEGIN switch_user_logged_in -->
-			<span class="gensmall"><a href="{U_MARK_READ}" class="gensmall">{L_MARK_FORUMS_READ}</a>
+			<span class="gensmall"><a href="{U_MARK_READ}" class="gensmall">{L_MARK_FORUMS_READ}</a></span>
 			<!-- END switch_user_logged_in -->
 			<!-- BEGIN switch_delete_cookies -->
-			<br /><a href="{switch_delete_cookies.U_DELETE_COOKIES}" class="gensmall">{switch_delete_cookies.L_DELETE_COOKIES}</a>
+			<br /><span class="gensmall"><a href="{switch_delete_cookies.U_DELETE_COOKIES}" class="gensmall">{switch_delete_cookies.L_DELETE_COOKIES}</a></span>
 			<!-- END switch_delete_cookies -->
-			</span>
 		</td>
 		<td width="50%" align="right">
 			<span class="gensmall">
@@ -138,7 +137,7 @@
 	<!-- BEGIN switch_fb_connect -->
 	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="user_login_form forumline">
 		<tr>
-			<td valign="top" width="100%"  class="row1" align="center">
+			<td valign="top" width="100%" class="row1" align="center">
 				<table width="100%">
 					<tr>
 						<td width="55%" valign="middle">
@@ -162,7 +161,7 @@
 						<td width="10%" align="center" valign="middle">
 							<span class="genmed fb_or">{switch_user_login_form_footer.switch_fb_connect.L_OR}</span>
 						</td>
-						<td width="35%" class="align_gauche"><fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" v="2" perms="{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button></td>
+						<td width="35%" class="align_gauche"><fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" v="2" scope="{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button></td>
 					</tr>
 				</table>
 			</td>
@@ -246,9 +245,10 @@
 //<![CDATA[
 FB.init({
 	appId: '{switch_fb_index_login.FACEBOOK_APP_ID}',
-  	status: true,
-  	cookie: true,
-  	xfbml: true
+ 	status: true,
+ 	cookie: true,
+ 	xfbml: true,
+	oauth: true
 });
 //]]>
 </script>

@@ -2,6 +2,7 @@
 <table align="center" cellpadding="0" cellspacing="1" border="0" width="100%" class="forumline">
 <tr>
 	<td align="center" class="catHead" colspan="{_calendar_box.SPAN_ALL}" width="100%">
+		<form name="_calendar" method="post" action="{_calendar_box.S_ACTION}">
 		<table cellpadding="0" cellspacing="0" border="0">
 		<tr>
 			<td>&nbsp;</td>
@@ -9,7 +10,7 @@
 				<!-- BEGIN switch_not_anonymous -->
 				<b><a href="{_calendar_box.U_PREC}" class="gen" rel="nofollow">&laquo;</a></b>&nbsp;
 				<!-- END switch_not_anonymous -->
-            </td>
+		</td>
 			<td width="100%" align="center">{_calendar_box.S_MONTH}{_calendar_box.S_YEAR}&nbsp;{_calendar_box.S_FORUM_LIST}&nbsp;<input type="submit" value="{_calendar_box.L_GO}" class="liteoption" /></td>
 			<td class="gensmall">&nbsp;
 				<!-- BEGIN switch_not_anonymous -->
@@ -19,6 +20,7 @@
 			<td>&nbsp;</td>
 		</tr>
 		</table>
+		</form>
 	</td>
 </tr>
 <tr>
@@ -39,7 +41,7 @@
 			<td class="row2" align="center" height="4" nowrap="nowrap">
 				<span class="genmed">{_calendar_box._row._cell.U_DATE}</span>
 				<!-- BEGIN switch_add_event_day -->
-				&nbsp;<a href="{_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT}"><img src="http://illiweb.com/fa/subsilver/icon_mini_calendar.gif" border="0" alt="{L_ADD_EVENT}" title="{L_ADD_EVENT}"></a>
+				&nbsp;<a href="{_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT}"><img src="http://illiweb.com/fa/subsilver/icon_mini_calendar.gif" border="0" alt="{L_ADD_EVENT}" title="{L_ADD_EVENT}" /></a>
 				<!-- END switch_add_event_day -->
 			</td>
 		</tr>
@@ -85,11 +87,11 @@
 	<!-- END _cell -->
 </tr>
 <!-- END _row -->
-<tr></form><form action="{S_CREATE_EVENT}" method="POST">
+<tr>
 	<td class="catbottom" align="center" colspan="{_calendar_box.SPAN_ALL}" width="100%">
 	&nbsp;
 	<!-- BEGIN switch_add_event -->
-	<input type="submit" value="{L_ADD_EVENT}">
+	<form action="{S_CREATE_EVENT}" method="post"><input type="submit" value="{L_ADD_EVENT}" /></form>
 	<!-- END switch_add_event -->
 	&nbsp;
 	</td>

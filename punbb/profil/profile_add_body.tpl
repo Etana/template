@@ -1,4 +1,4 @@
-<script src="{JSPWD}"></script>
+<script type="text/javascript" src="{JSPWD}"></script>
 <!-- BEGIN switch_user_logged_in -->
 <div id="pun-visit" class="clearfix">
 	<ul>
@@ -53,11 +53,11 @@
 				<!-- END switch_emailchange_allowed -->
 
 				<!-- BEGIN switch_change_password -->
-                                <dl>
-                                        <dt><label>{L_CHANGE_PASSWORD} : *</label></dt>
-                                        <dd><input class="mainoption" type="submit" name="change_password" value="{L_MODIFY}" /></dd>
-                                </dl>
-                                <!-- END switch_change_password -->
+				<dl>
+						<dt><label>{L_CHANGE_PASSWORD} : *</label></dt>
+						<dd><a href="{LINK_FOR_PASSWD_CHANGE}" target="_blank"><b>&lt;&nbsp;{L_MODIFY}&nbsp;&gt;</b></a></dd>
+				</dl>
+				<!-- END switch_change_password -->
 			</fieldset>
 
 
@@ -261,6 +261,15 @@
 				</dd>
 			</dl>
 			<!-- END switch_can_disable_mass_pm -->
+			<!-- BEGIN switch_notify_subscriptions -->
+			<dl>
+				<dt><label>{L_NOTIFY_SUBSCRIPTIONS}&nbsp;: </label></dt>
+				<dd>
+					<label><input type="radio" name="notify_subscriptions" value="1" {NOTIFY_SUBSCRIPTIONS_YES} /><span class="cont">{L_YES}</span></label>
+					<label><input type="radio" name="notify_subscriptions" value="0" {NOTIFY_SUBSCRIPTIONS_NO} /><span class="cont">{L_NO}</span></label>
+				</dd>
+			</dl>
+			<!-- END switch_notify_subscriptions -->
 			<dl>
 				<dt><label>{L_POPUP_ON_PRIVMSG}&nbsp;:</label></dt>
 				<dd><label><input type="radio" name="popup_pm" value="1" {POPUP_PM_YES} /><span class="cont">{L_YES}</span></label>

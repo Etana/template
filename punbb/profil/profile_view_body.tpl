@@ -1,8 +1,8 @@
 <!-- BEGIN switch_user_logged_in -->
 <div id="pun-visit" class="clearfix">
 	<ul>
-	 	<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
-	 	<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
+			<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
+			<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
 	</ul>
 	<p>{LOGGED_AS}. {LAST_VISIT_DATE}</p>
 </div>
@@ -132,11 +132,11 @@
 //<![CDATA[
 	$(document).ready(function(){
 		$('[id^=field_id]').each(function(){
-			if ( $(this).find('.field_editable').is('span') )
+			if ( $(this).find('.field_editable').is('span, div') )
 			{
 				$(this).hover(function()
 				{
-					if( $(this).find('.field_editable.invisible').is('span') )
+					if( $(this).find('.field_editable.invisible').is('span, div') )
 					{
 						$(this).find('.field_editable').prev().addClass('ajax-profil_hover').parent().addClass('ajax-profil_parent').append('<div class="ajax-profil_edit"><img src="{AJAX_EDIT_IMG}" /></div>');
 						$(this).find('.ajax-profil_edit').attr({
@@ -174,7 +174,7 @@
 					}
 				},function()
 				{
-					if( $(this).find('.field_editable.invisible').is('span') )
+					if( $(this).find('.field_editable.invisible').is('span, div') )
 					{
 						$(this).find('.field_editable').prev().removeClass('ajax-profil_hover');
 						$(this).find('.ajax-profil_edit').remove();

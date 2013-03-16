@@ -128,11 +128,11 @@
 	$(document).ready(function(){
 		<!-- BEGIN switch_enable_pm_popup -->
 			pm = window.open('{U_PRIVATEMSGS_POPUP}', '_faprivmsg', 'HEIGHT=225,resizable=yes,WIDTH=400');
-			pm.focus();
+			if(pm != null) { pm.focus(); }
 		<!-- END switch_enable_pm_popup -->
 		<!-- BEGIN switch_report_popup -->
 			report = window.open('{switch_report_popup.U_REPORT_POPUP}', '_phpbbreport', 'HEIGHT={switch_report_popup.S_HEIGHT},resizable=yes,scrollbars=no,WIDTH={switch_report_popup.S_WIDTH}');
-			report.focus();
+			if(report != null) { report.focus(); }
 		<!-- END switch_report_popup -->
 		<!-- BEGIN switch_ticker -->
 			ticker_start({switch_ticker.HEIGHT}, {switch_ticker.SPACING}, {switch_ticker.SPEED}, '{switch_ticker.DIRECTION}', {switch_ticker.STOP_TIME});
