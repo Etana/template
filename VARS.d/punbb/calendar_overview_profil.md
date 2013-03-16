@@ -1,0 +1,13 @@
+# Variable de la template calendar_overview_profil (PunBB)
+[Code de la template](../../punbb/calendar_overview_profil.md)
+## Variables utilisées
+### [Variable AGE](../AGE.md)
+* [Variable à la ligne 8](../../punbb/calendar_overview_profil.tpl#L8)
+### [Variable AVATAR](../AVATAR.md)
+* [Variable à la ligne 7](../../punbb/calendar_overview_profil.tpl#L7)
+### [Variable L_AGE](../L_AGE.md)
+* [Variable à la ligne 8](../../punbb/calendar_overview_profil.tpl#L8)
+### [Variable L_TITLE](../L_TITLE.md)
+* [Variable à la ligne 2](../../punbb/calendar_overview_profil.tpl#L2)
+### [Variable L_USERNAME](../L_USERNAME.md)
+* [Variable à la ligne 4](../../punbb/calendar_overview_profil.tpl#L4)

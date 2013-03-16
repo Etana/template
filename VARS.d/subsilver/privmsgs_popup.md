@@ -1,0 +1,12 @@
+# Variable de la template privmsgs_popup (phpBB2)
+[Code de la template](../../subsilver/privmsgs_popup.md)
+## Variables utilisées
+### [Variable html_validation](../html_validation.md)
+* [Début de condition à la ligne 1](../../subsilver/privmsgs_popup.tpl#L1)
+* [Fin de condition à la ligne 8](../../subsilver/privmsgs_popup.tpl#L8)
+### [Variable L_CLOSE_WINDOW](../L_CLOSE_WINDOW.md)
+* [Variable à la ligne 25](../../subsilver/privmsgs_popup.tpl#L25)
+### [Variable L_MESSAGE](../L_MESSAGE.md)
+* [Variable à la ligne 23](../../subsilver/privmsgs_popup.tpl#L23)
+### [Variable U_PRIVATEMSGS](../U_PRIVATEMSGS.md)
+* [Variable à la ligne 12](../../subsilver/privmsgs_popup.tpl#L12)
