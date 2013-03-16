@@ -1,9 +1,11 @@
 # Variable switch_user_logged_in
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_user_logged_in)
 ## Utilisations dans les templates
-### Version PunBB#### [Template message_body](punbb/message_body.md)
+### Version PunBB
+#### [Template message_body](punbb/message_body.md)
 * [Début de condition à la ligne 1](../punbb/message_body.tpl#L1)
-* [Fin de condition à la ligne 9](../punbb/message_body.tpl#L9)#### [Template faq_dhtml](punbb/faq_dhtml.md)
+* [Fin de condition à la ligne 9](../punbb/message_body.tpl#L9)
+#### [Template faq_dhtml](punbb/faq_dhtml.md)
 * [Début de condition à la ligne 1](../punbb/faq_dhtml.tpl#L1)
 * [Fin de condition à la ligne 9](../punbb/faq_dhtml.tpl#L9)#### [Template album_formsearch_body](punbb/album_formsearch_body.md)
 * [Début de condition à la ligne 1](../punbb/album_formsearch_body.tpl#L1)
