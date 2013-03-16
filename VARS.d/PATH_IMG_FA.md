@@ -1,8 +1,10 @@
 # Variable PATH_IMG_FA
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#PATH_IMG_FA)
 ## Utilisations dans les templates
-### Version PunBB#### [Template viewtopic_body](punbb/viewtopic_body.md)
-* [Variable à la ligne 2](../punbb/viewtopic_body.tpl#L2)#### [Template posting_body](punbb/posting_body.md)
+### Version PunBB
+#### [Template viewtopic_body](punbb/viewtopic_body.md)
+* [Variable à la ligne 2](../punbb/viewtopic_body.tpl#L2)
+#### [Template posting_body](punbb/posting_body.md)
 * [Variable à la ligne 164](../punbb/posting_body.tpl#L164)
 * [Variable à la ligne 164](../punbb/posting_body.tpl#L164)
 * [Variable à la ligne 167](../punbb/posting_body.tpl#L167)
@@ -103,8 +105,10 @@
 * [Variable à la ligne 422](../punbb/posting_body.tpl#L422)
 * [Variable à la ligne 504](../punbb/posting_body.tpl#L504)
 * [Variable à la ligne 527](../punbb/posting_body.tpl#L527)
-### Version phpBB2#### [Template viewtopic_body](subsilver/viewtopic_body.md)
-* [Variable à la ligne 3](../subsilver/viewtopic_body.tpl#L3)#### [Template posting_body](subsilver/posting_body.md)
+### Version phpBB2
+#### [Template viewtopic_body](subsilver/viewtopic_body.md)
+* [Variable à la ligne 3](../subsilver/viewtopic_body.tpl#L3)
+#### [Template posting_body](subsilver/posting_body.md)
 * [Variable à la ligne 219](../subsilver/posting_body.tpl#L219)
 * [Variable à la ligne 219](../subsilver/posting_body.tpl#L219)
 * [Variable à la ligne 221](../subsilver/posting_body.tpl#L221)
@@ -202,5 +206,6 @@
 * [Variable à la ligne 471](../subsilver/posting_body.tpl#L471)
 * [Variable à la ligne 472](../subsilver/posting_body.tpl#L472)
 * [Variable à la ligne 574](../subsilver/posting_body.tpl#L574)
-* [Variable à la ligne 601](../subsilver/posting_body.tpl#L601)#### [Template privmsgs_body](subsilver/privmsgs_body.md)
+* [Variable à la ligne 601](../subsilver/posting_body.tpl#L601)
+#### [Template privmsgs_body](subsilver/privmsgs_body.md)
 * [Variable à la ligne 26](../subsilver/privmsgs_body.tpl#L26)

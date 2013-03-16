@@ -1,7 +1,9 @@
 # Variable L_ADD_MEMBER
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_ADD_MEMBER)
 ## Utilisations dans les templates
-### Version PunBB#### [Template groupcp_info_body](punbb/groupcp_info_body.md)
+### Version PunBB
+#### [Template groupcp_info_body](punbb/groupcp_info_body.md)
 * [Variable à la ligne 134](../punbb/groupcp_info_body.tpl#L134)
-### Version phpBB2#### [Template groupcp_info_body](subsilver/groupcp_info_body.md)
+### Version phpBB2
+#### [Template groupcp_info_body](subsilver/groupcp_info_body.md)
 * [Variable à la ligne 98](../subsilver/groupcp_info_body.tpl#L98)

@@ -1,7 +1,8 @@
 # Variable L_OK
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_OK)
 ## Utilisations dans les templates
-### Version PunBB#### [Template posting_body](punbb/posting_body.md)
+### Version PunBB
+#### [Template posting_body](punbb/posting_body.md)
 * [Variable à la ligne 165](../punbb/posting_body.tpl#L165)
 * [Variable à la ligne 174](../punbb/posting_body.tpl#L174)
 * [Variable à la ligne 179](../punbb/posting_body.tpl#L179)
@@ -12,7 +13,8 @@
 * [Variable à la ligne 260](../punbb/posting_body.tpl#L260)
 * [Variable à la ligne 266](../punbb/posting_body.tpl#L266)
 * [Variable à la ligne 272](../punbb/posting_body.tpl#L272)
-### Version phpBB2#### [Template posting_body](subsilver/posting_body.md)
+### Version phpBB2
+#### [Template posting_body](subsilver/posting_body.md)
 * [Variable à la ligne 219](../subsilver/posting_body.tpl#L219)
 * [Variable à la ligne 228](../subsilver/posting_body.tpl#L228)
 * [Variable à la ligne 233](../subsilver/posting_body.tpl#L233)

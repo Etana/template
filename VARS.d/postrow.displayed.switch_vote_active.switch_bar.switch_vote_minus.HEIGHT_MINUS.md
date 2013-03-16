@@ -1,7 +1,9 @@
 # Variable postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS)
 ## Utilisations dans les templates
-### Version PunBB#### [Template viewtopic_body](punbb/viewtopic_body.md)
+### Version PunBB
+#### [Template viewtopic_body](punbb/viewtopic_body.md)
 * [Variable à la ligne 172](../punbb/viewtopic_body.tpl#L172)
-### Version phpBB2#### [Template viewtopic_body](subsilver/viewtopic_body.md)
+### Version phpBB2
+#### [Template viewtopic_body](subsilver/viewtopic_body.md)
 * [Variable à la ligne 163](../subsilver/viewtopic_body.tpl#L163)

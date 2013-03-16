@@ -1,7 +1,7 @@
 # Variable de la template mod_poll (PunBB)
 [Code de la template](../../punbb/mod_poll.md)
 ## Variables utilisées
-### [Variable L_POLL](../L_POLL.md)
+#### [L_POLL](../L_POLL.md)
 * [Variable à la ligne 4](../../punbb/mod_poll.tpl#L4)
-### [Variable POLL_DISPLAY](../POLL_DISPLAY.md)
+#### [POLL_DISPLAY](../POLL_DISPLAY.md)
 * [Variable à la ligne 7](../../punbb/mod_poll.tpl#L7)

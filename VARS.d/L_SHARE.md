@@ -1,7 +1,9 @@
 # Variable L_SHARE
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_SHARE)
 ## Utilisations dans les templates
-### Version PunBB#### [Template viewtopic_body](punbb/viewtopic_body.md)
+### Version PunBB
+#### [Template viewtopic_body](punbb/viewtopic_body.md)
 * [Variable à la ligne 60](../punbb/viewtopic_body.tpl#L60)
-### Version phpBB2#### [Template viewtopic_body](subsilver/viewtopic_body.md)
+### Version phpBB2
+#### [Template viewtopic_body](subsilver/viewtopic_body.md)
 * [Variable à la ligne 72](../subsilver/viewtopic_body.tpl#L72)

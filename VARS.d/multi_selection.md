@@ -1,7 +1,8 @@
 # Variable multi_selection
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#multi_selection)
 ## Utilisations dans les templates
-### Version PunBB#### [Template topics_list_box](punbb/topics_list_box.md)
+### Version PunBB
+#### [Template topics_list_box](punbb/topics_list_box.md)
 * [Début de condition à la ligne 4](../punbb/topics_list_box.tpl#L4)
 * [Fin de condition à la ligne 23](../punbb/topics_list_box.tpl#L23)
 * [Début de condition à la ligne 26](../punbb/topics_list_box.tpl#L26)
@@ -12,9 +13,11 @@
 * [Fin de condition à la ligne 97](../punbb/topics_list_box.tpl#L97)
 * [Début de condition à la ligne 111](../punbb/topics_list_box.tpl#L111)
 * [Fin de condition à la ligne 113](../punbb/topics_list_box.tpl#L113)
-### Version phpBB2#### [Template birthday_list_box](subsilver/birthday_list_box.md)
+### Version phpBB2
+#### [Template birthday_list_box](subsilver/birthday_list_box.md)
 * [Début de condition à la ligne 1](../subsilver/birthday_list_box.tpl#L1)
-* [Fin de condition à la ligne 20](../subsilver/birthday_list_box.tpl#L20)#### [Template topics_list_box](subsilver/topics_list_box.md)
+* [Fin de condition à la ligne 20](../subsilver/birthday_list_box.tpl#L20)
+#### [Template topics_list_box](subsilver/topics_list_box.md)
 * [Début de condition à la ligne 1](../subsilver/topics_list_box.tpl#L1)
 * [Fin de condition à la ligne 20](../subsilver/topics_list_box.tpl#L20)
 * [Début de condition à la ligne 29](../subsilver/topics_list_box.tpl#L29)

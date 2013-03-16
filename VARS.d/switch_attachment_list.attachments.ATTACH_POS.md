@@ -1,7 +1,8 @@
 # Variable switch_attachment_list.attachments.ATTACH_POS
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_attachment_list.attachments.ATTACH_POS)
 ## Utilisations dans les templates
-### Version PunBB#### [Template posting_body](punbb/posting_body.md)
+### Version PunBB
+#### [Template posting_body](punbb/posting_body.md)
 * [Variable à la ligne 550](../punbb/posting_body.tpl#L550)
 * [Variable à la ligne 552](../punbb/posting_body.tpl#L552)
 * [Variable à la ligne 554](../punbb/posting_body.tpl#L554)
@@ -10,7 +11,8 @@
 * [Variable à la ligne 556](../punbb/posting_body.tpl#L556)
 * [Variable à la ligne 557](../punbb/posting_body.tpl#L557)
 * [Variable à la ligne 558](../punbb/posting_body.tpl#L558)
-* [Variable à la ligne 559](../punbb/posting_body.tpl#L559)#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
+* [Variable à la ligne 559](../punbb/posting_body.tpl#L559)
+#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
 * [Variable à la ligne 549](../punbb/posting_body_wysiwyg.tpl#L549)
 * [Variable à la ligne 551](../punbb/posting_body_wysiwyg.tpl#L551)
 * [Variable à la ligne 553](../punbb/posting_body_wysiwyg.tpl#L553)
@@ -20,7 +22,8 @@
 * [Variable à la ligne 556](../punbb/posting_body_wysiwyg.tpl#L556)
 * [Variable à la ligne 557](../punbb/posting_body_wysiwyg.tpl#L557)
 * [Variable à la ligne 558](../punbb/posting_body_wysiwyg.tpl#L558)
-### Version phpBB2#### [Template posting_body](subsilver/posting_body.md)
+### Version phpBB2
+#### [Template posting_body](subsilver/posting_body.md)
 * [Variable à la ligne 634](../subsilver/posting_body.tpl#L634)
 * [Variable à la ligne 643](../subsilver/posting_body.tpl#L643)
 * [Variable à la ligne 644](../subsilver/posting_body.tpl#L644)
@@ -29,7 +32,8 @@
 * [Variable à la ligne 646](../subsilver/posting_body.tpl#L646)
 * [Variable à la ligne 647](../subsilver/posting_body.tpl#L647)
 * [Variable à la ligne 648](../subsilver/posting_body.tpl#L648)
-* [Variable à la ligne 649](../subsilver/posting_body.tpl#L649)#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
+* [Variable à la ligne 649](../subsilver/posting_body.tpl#L649)
+#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
 * [Variable à la ligne 623](../subsilver/posting_body_wysiwyg.tpl#L623)
 * [Variable à la ligne 632](../subsilver/posting_body_wysiwyg.tpl#L632)
 * [Variable à la ligne 633](../subsilver/posting_body_wysiwyg.tpl#L633)

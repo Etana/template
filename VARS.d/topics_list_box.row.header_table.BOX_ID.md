@@ -1,7 +1,8 @@
 # Variable topics_list_box.row.header_table.BOX_ID
 [Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#topics_list_box.row.header_table.BOX_ID)
 ## Utilisations dans les templates
-### Version PunBB#### [Template topics_list_box](punbb/topics_list_box.md)
+### Version PunBB
+#### [Template topics_list_box](punbb/topics_list_box.md)
 * [Variable à la ligne 6](../punbb/topics_list_box.tpl#L6)
 * [Variable à la ligne 9](../punbb/topics_list_box.tpl#L9)
 * [Variable à la ligne 13](../punbb/topics_list_box.tpl#L13)
@@ -14,7 +15,8 @@
 * [Variable à la ligne 56](../punbb/topics_list_box.tpl#L56)
 * [Variable à la ligne 112](../punbb/topics_list_box.tpl#L112)
 * [Variable à la ligne 112](../punbb/topics_list_box.tpl#L112)
-### Version phpBB2#### [Template topics_list_box](subsilver/topics_list_box.md)
+### Version phpBB2
+#### [Template topics_list_box](subsilver/topics_list_box.md)
 * [Variable à la ligne 3](../subsilver/topics_list_box.tpl#L3)
 * [Variable à la ligne 6](../subsilver/topics_list_box.tpl#L6)
 * [Variable à la ligne 10](../subsilver/topics_list_box.tpl#L10)
