@@ -13,7 +13,7 @@ Nous avons <strong>1</strong> membre enregistré
 
 ```html
 <span id=tu>{TOTAL_USERS}</span>
-<script> $('#tu').text(+$('#tu').text().match(/[0-9]+/)||0) </script>
+<script> $('#tu').text($('#tu').text().match(/[0-9]+/)) </script>
 ```
 
 ## Utilisations dans les templates

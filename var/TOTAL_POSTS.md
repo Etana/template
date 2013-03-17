@@ -13,7 +13,7 @@ Nos membres ont posté un total de <strong>2</strong> messages
 
 ```html
 <span id=tp>{TOTAL_POSTS}</span>
-<script> $('#tp').text(+$('#tp').text().match(/[0-9]+/)||0) </script>
+<script> $('#tp').text($('#tp').text().match(/[0-9]+/)) </script>
 ```
 
 ## Utilisations dans les templates
