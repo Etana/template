@@ -1,5 +1,10 @@
 # Variable L_ONLINE_IMG
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_ONLINE_IMG)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_ONLINE_IMG)
+Lien de l'image spécifiée dans `Panneau d'administration > Images et Couleurs > Gestion des images > Mode Avancé > Général / navigation > Qui est en ligne ?`.
+
+* __Exemple de remplacement :__ `http://illiweb.com/fa/subsilver/whosonline.gif
+* __Exemple d'utilisation :__ `<img src="{L_ONLINE_IMG}" title="{L_WHO_IS_ONLINE}" alt="{L_WHO_IS_ONLINE}" />`
 
 ## Utilisations dans les templates
 
