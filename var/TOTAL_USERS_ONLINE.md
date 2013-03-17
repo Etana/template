@@ -27,14 +27,14 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 
 ```html
 <span id=tuoi>{TOTAL_USERS_ONLINE}</span>
-<script> $('#tuoi').text($('#tuor').text().match(/[0-9]+/g)[2]) </script>
+<script> $('#tuoi').text($('#tuoi').text().match(/[0-9]+/g)[2]) </script>
 ```
 
 * __Exemple de code pour ne conserver que le nombre d'invité  :__
 
 ```html
 <span id=tuog>{TOTAL_USERS_ONLINE}</span>
-<script> $('#tuog').text($('#tuor').text().match(/[0-9]+/g)[3]) </script>
+<script> $('#tuog').text($('#tuog').text().match(/[0-9]+/g)[3]) </script>
 ```
 
 ## Utilisations dans les templates
