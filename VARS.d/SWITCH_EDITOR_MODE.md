@@ -1,24 +1,24 @@
 # Variable SWITCH_EDITOR_MODE
-[Ajouter une description](https://fa-tvars.appspot.com/SWITCH_EDITOR_MODE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/SWITCH_EDITOR_MODE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_body](punbb/posting_body.md)
-* [Variable à la ligne 422](../punbb/posting_body.tpl#L422)
-* [Variable à la ligne 422](../punbb/posting_body.tpl#L422)
+* [Variable &agrave; la ligne 422](../punbb/posting_body.tpl#L422)
+* [Variable &agrave; la ligne 422](../punbb/posting_body.tpl#L422)
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 317](../punbb/posting_body_wysiwyg.tpl#L317)
-* [Variable à la ligne 392](../punbb/posting_body_wysiwyg.tpl#L392)
+* [Variable &agrave; la ligne 317](../punbb/posting_body_wysiwyg.tpl#L317)
+* [Variable &agrave; la ligne 392](../punbb/posting_body_wysiwyg.tpl#L392)
 
 ### Version phpBB2
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Variable à la ligne 472](../subsilver/posting_body.tpl#L472)
-* [Variable à la ligne 472](../subsilver/posting_body.tpl#L472)
+* [Variable &agrave; la ligne 472](../subsilver/posting_body.tpl#L472)
+* [Variable &agrave; la ligne 472](../subsilver/posting_body.tpl#L472)
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 255](../subsilver/posting_body_wysiwyg.tpl#L255)
-* [Variable à la ligne 446](../subsilver/posting_body_wysiwyg.tpl#L446)
+* [Variable &agrave; la ligne 255](../subsilver/posting_body_wysiwyg.tpl#L255)
+* [Variable &agrave; la ligne 446](../subsilver/posting_body_wysiwyg.tpl#L446)

@@ -1,24 +1,24 @@
 # Variable ROLL_DICE_TITLE_LOW
-[Ajouter une description](https://fa-tvars.appspot.com/ROLL_DICE_TITLE_LOW)
+[Ajouter une description](https://fa-tvars.appspot.com/var/ROLL_DICE_TITLE_LOW)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_body](punbb/posting_body.md)
-* [Variable à la ligne 504](../punbb/posting_body.tpl#L504)
-* [Variable à la ligne 519](../punbb/posting_body.tpl#L519)
+* [Variable &agrave; la ligne 504](../punbb/posting_body.tpl#L504)
+* [Variable &agrave; la ligne 519](../punbb/posting_body.tpl#L519)
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 503](../punbb/posting_body_wysiwyg.tpl#L503)
-* [Variable à la ligne 518](../punbb/posting_body_wysiwyg.tpl#L518)
+* [Variable &agrave; la ligne 503](../punbb/posting_body_wysiwyg.tpl#L503)
+* [Variable &agrave; la ligne 518](../punbb/posting_body_wysiwyg.tpl#L518)
 
 ### Version phpBB2
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Variable à la ligne 574](../subsilver/posting_body.tpl#L574)
-* [Variable à la ligne 592](../subsilver/posting_body.tpl#L592)
+* [Variable &agrave; la ligne 574](../subsilver/posting_body.tpl#L574)
+* [Variable &agrave; la ligne 592](../subsilver/posting_body.tpl#L592)
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 566](../subsilver/posting_body_wysiwyg.tpl#L566)
-* [Variable à la ligne 583](../subsilver/posting_body_wysiwyg.tpl#L583)
+* [Variable &agrave; la ligne 566](../subsilver/posting_body_wysiwyg.tpl#L566)
+* [Variable &agrave; la ligne 583](../subsilver/posting_body_wysiwyg.tpl#L583)

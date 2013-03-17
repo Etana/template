@@ -1,18 +1,18 @@
 # Variable switch_ticker.HEIGHT
-[Ajouter une description](https://fa-tvars.appspot.com/switch_ticker.HEIGHT)
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.HEIGHT)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template overall_header](punbb/overall_header.md)
-* [Variable à la ligne 42](../punbb/overall_header.tpl#L42)
-* [Variable à la ligne 132](../punbb/overall_header.tpl#L132)
-* [Variable à la ligne 274](../punbb/overall_header.tpl#L274)
+* [Variable &agrave; la ligne 42](../punbb/overall_header.tpl#L42)
+* [Variable &agrave; la ligne 132](../punbb/overall_header.tpl#L132)
+* [Variable &agrave; la ligne 274](../punbb/overall_header.tpl#L274)
 
 ### Version phpBB2
 
 #### [Template overall_header](subsilver/overall_header.md)
-* [Variable à la ligne 42](../subsilver/overall_header.tpl#L42)
-* [Variable à la ligne 138](../subsilver/overall_header.tpl#L138)
-* [Variable à la ligne 297](../subsilver/overall_header.tpl#L297)
+* [Variable &agrave; la ligne 42](../subsilver/overall_header.tpl#L42)
+* [Variable &agrave; la ligne 138](../subsilver/overall_header.tpl#L138)
+* [Variable &agrave; la ligne 297](../subsilver/overall_header.tpl#L297)

@@ -1,9 +1,9 @@
 # Variable SEARCHITEMS_OPEN
-[Ajouter une description](https://fa-tvars.appspot.com/SEARCHITEMS_OPEN)
+[Ajouter une description](https://fa-tvars.appspot.com/var/SEARCHITEMS_OPEN)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version phpBB2
 
 #### [Template search_body](subsilver/search_body.md)
-* [Variable à la ligne 34](../subsilver/search_body.tpl#L34)
+* [Variable &agrave; la ligne 34](../subsilver/search_body.tpl#L34)

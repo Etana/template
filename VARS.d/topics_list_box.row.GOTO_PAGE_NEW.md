@@ -1,9 +1,9 @@
 # Variable topics_list_box.row.GOTO_PAGE_NEW
-[Ajouter une description](https://fa-tvars.appspot.com/topics_list_box.row.GOTO_PAGE_NEW)
+[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.GOTO_PAGE_NEW)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template topics_list_box](punbb/topics_list_box.md)
-* [Variable à la ligne 85](../punbb/topics_list_box.tpl#L85)
+* [Variable &agrave; la ligne 85](../punbb/topics_list_box.tpl#L85)

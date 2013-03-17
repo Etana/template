@@ -1,14 +1,14 @@
 # Variable L_SAVE
-[Ajouter une description](https://fa-tvars.appspot.com/L_SAVE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_SAVE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template album_nuffimage_box](punbb/album_nuffimage_box.md)
-* [Variable à la ligne 105](../punbb/album_nuffimage_box.tpl#L105)
+* [Variable &agrave; la ligne 105](../punbb/album_nuffimage_box.tpl#L105)
 
 ### Version phpBB2
 
 #### [Template album_nuffimage_box](subsilver/album_nuffimage_box.md)
-* [Variable à la ligne 106](../subsilver/album_nuffimage_box.tpl#L106)
+* [Variable &agrave; la ligne 106](../subsilver/album_nuffimage_box.tpl#L106)

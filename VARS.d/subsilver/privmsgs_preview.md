@@ -5,31 +5,31 @@
 ## Variables utilisées
 
 ### [L_FROM](../L_FROM.md)
-* [Variable à la ligne 6](../../subsilver/privmsgs_preview.tpl#L6)
+* [Variable &agrave; la ligne 6](../../subsilver/privmsgs_preview.tpl#L6)
 
 ### [L_POSTED](../L_POSTED.md)
-* [Variable à la ligne 14](../../subsilver/privmsgs_preview.tpl#L14)
+* [Variable &agrave; la ligne 14](../../subsilver/privmsgs_preview.tpl#L14)
 
 ### [L_PREVIEW](../L_PREVIEW.md)
-* [Variable à la ligne 3](../../subsilver/privmsgs_preview.tpl#L3)
+* [Variable &agrave; la ligne 3](../../subsilver/privmsgs_preview.tpl#L3)
 
 ### [L_SUBJECT](../L_SUBJECT.md)
-* [Variable à la ligne 18](../../subsilver/privmsgs_preview.tpl#L18)
+* [Variable &agrave; la ligne 18](../../subsilver/privmsgs_preview.tpl#L18)
 
 ### [L_TO](../L_TO.md)
-* [Variable à la ligne 10](../../subsilver/privmsgs_preview.tpl#L10)
+* [Variable &agrave; la ligne 10](../../subsilver/privmsgs_preview.tpl#L10)
 
 ### [MESSAGE](../MESSAGE.md)
-* [Variable à la ligne 22](../../subsilver/privmsgs_preview.tpl#L22)
+* [Variable &agrave; la ligne 22](../../subsilver/privmsgs_preview.tpl#L22)
 
 ### [MESSAGE_FROM](../MESSAGE_FROM.md)
-* [Variable à la ligne 7](../../subsilver/privmsgs_preview.tpl#L7)
+* [Variable &agrave; la ligne 7](../../subsilver/privmsgs_preview.tpl#L7)
 
 ### [MESSAGE_TO](../MESSAGE_TO.md)
-* [Variable à la ligne 11](../../subsilver/privmsgs_preview.tpl#L11)
+* [Variable &agrave; la ligne 11](../../subsilver/privmsgs_preview.tpl#L11)
 
 ### [POST_DATE](../POST_DATE.md)
-* [Variable à la ligne 15](../../subsilver/privmsgs_preview.tpl#L15)
+* [Variable &agrave; la ligne 15](../../subsilver/privmsgs_preview.tpl#L15)
 
 ### [POST_SUBJECT](../POST_SUBJECT.md)
-* [Variable à la ligne 19](../../subsilver/privmsgs_preview.tpl#L19)
+* [Variable &agrave; la ligne 19](../../subsilver/privmsgs_preview.tpl#L19)

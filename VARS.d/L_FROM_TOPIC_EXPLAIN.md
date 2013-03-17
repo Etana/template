@@ -1,14 +1,14 @@
 # Variable L_FROM_TOPIC_EXPLAIN
-[Ajouter une description](https://fa-tvars.appspot.com/L_FROM_TOPIC_EXPLAIN)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_FROM_TOPIC_EXPLAIN)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template merge_body](punbb/merge_body.md)
-* [Variable à la ligne 36](../punbb/merge_body.tpl#L36)
+* [Variable &agrave; la ligne 36](../punbb/merge_body.tpl#L36)
 
 ### Version phpBB2
 
 #### [Template merge_body](subsilver/merge_body.md)
-* [Variable à la ligne 18](../subsilver/merge_body.tpl#L18)
+* [Variable &agrave; la ligne 18](../subsilver/merge_body.tpl#L18)

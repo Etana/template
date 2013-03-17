@@ -1,14 +1,14 @@
 # Variable L_ADD_FILE
-[Ajouter une description](https://fa-tvars.appspot.com/L_ADD_FILE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_ADD_FILE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template album_upload_body](punbb/album_upload_body.md)
-* [Variable à la ligne 279](../punbb/album_upload_body.tpl#L279)
+* [Variable &agrave; la ligne 279](../punbb/album_upload_body.tpl#L279)
 
 ### Version phpBB2
 
 #### [Template album_upload_body](subsilver/album_upload_body.md)
-* [Variable à la ligne 290](../subsilver/album_upload_body.tpl#L290)
+* [Variable &agrave; la ligne 290](../subsilver/album_upload_body.tpl#L290)

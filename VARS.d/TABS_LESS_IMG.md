@@ -1,42 +1,42 @@
 # Variable TABS_LESS_IMG
-[Ajouter une description](https://fa-tvars.appspot.com/TABS_LESS_IMG)
+[Ajouter une description](https://fa-tvars.appspot.com/var/TABS_LESS_IMG)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template viewtopic_body](punbb/viewtopic_body.md)
-* [Variable à la ligne 307](../punbb/viewtopic_body.tpl#L307)
+* [Variable &agrave; la ligne 307](../punbb/viewtopic_body.tpl#L307)
 
 ### Version phpBB2
 
 #### [Template viewforum_body](subsilver/viewforum_body.md)
-* [Variable à la ligne 48](../subsilver/viewforum_body.tpl#L48)
+* [Variable &agrave; la ligne 48](../subsilver/viewforum_body.tpl#L48)
 
 #### [Template search_body](subsilver/search_body.md)
-* [Variable à la ligne 40](../subsilver/search_body.tpl#L40)
+* [Variable &agrave; la ligne 40](../subsilver/search_body.tpl#L40)
 
 #### [Template posting_poll_body](subsilver/posting_poll_body.md)
-* [Variable à la ligne 14](../subsilver/posting_poll_body.tpl#L14)
+* [Variable &agrave; la ligne 14](../subsilver/posting_poll_body.tpl#L14)
 
 #### [Template album_cat_body](subsilver/album_cat_body.md)
-* [Variable à la ligne 212](../subsilver/album_cat_body.tpl#L212)
+* [Variable &agrave; la ligne 212](../subsilver/album_cat_body.tpl#L212)
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 553](../subsilver/posting_body_wysiwyg.tpl#L553)
-* [Variable à la ligne 663](../subsilver/posting_body_wysiwyg.tpl#L663)
-* [Variable à la ligne 706](../subsilver/posting_body_wysiwyg.tpl#L706)
-* [Variable à la ligne 801](../subsilver/posting_body_wysiwyg.tpl#L801)
+* [Variable &agrave; la ligne 553](../subsilver/posting_body_wysiwyg.tpl#L553)
+* [Variable &agrave; la ligne 663](../subsilver/posting_body_wysiwyg.tpl#L663)
+* [Variable &agrave; la ligne 706](../subsilver/posting_body_wysiwyg.tpl#L706)
+* [Variable &agrave; la ligne 801](../subsilver/posting_body_wysiwyg.tpl#L801)
 
 #### [Template viewtopic_body](subsilver/viewtopic_body.md)
-* [Variable à la ligne 313](../subsilver/viewtopic_body.tpl#L313)
-* [Variable à la ligne 389](../subsilver/viewtopic_body.tpl#L389)
+* [Variable &agrave; la ligne 313](../subsilver/viewtopic_body.tpl#L313)
+* [Variable &agrave; la ligne 389](../subsilver/viewtopic_body.tpl#L389)
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Variable à la ligne 556](../subsilver/posting_body.tpl#L556)
-* [Variable à la ligne 674](../subsilver/posting_body.tpl#L674)
-* [Variable à la ligne 728](../subsilver/posting_body.tpl#L728)
-* [Variable à la ligne 829](../subsilver/posting_body.tpl#L829)
+* [Variable &agrave; la ligne 556](../subsilver/posting_body.tpl#L556)
+* [Variable &agrave; la ligne 674](../subsilver/posting_body.tpl#L674)
+* [Variable &agrave; la ligne 728](../subsilver/posting_body.tpl#L728)
+* [Variable &agrave; la ligne 829](../subsilver/posting_body.tpl#L829)
 
 #### [Template album_showpage_body](subsilver/album_showpage_body.md)
-* [Variable à la ligne 270](../subsilver/album_showpage_body.tpl#L270)
+* [Variable &agrave; la ligne 270](../subsilver/album_showpage_body.tpl#L270)

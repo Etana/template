@@ -5,14 +5,14 @@
 ## Variables utilisées
 
 ### [html_validation](../html_validation.md)
-* [Début de condition à la ligne 1](../../subsilver/privmsgs_popup.tpl#L1)
-* [Fin de condition à la ligne 8](../../subsilver/privmsgs_popup.tpl#L8)
+* [Début de condition &agrave; la ligne 1](../../subsilver/privmsgs_popup.tpl#L1)
+* [Fin de condition &agrave; la ligne 8](../../subsilver/privmsgs_popup.tpl#L8)
 
 ### [L_CLOSE_WINDOW](../L_CLOSE_WINDOW.md)
-* [Variable à la ligne 25](../../subsilver/privmsgs_popup.tpl#L25)
+* [Variable &agrave; la ligne 25](../../subsilver/privmsgs_popup.tpl#L25)
 
 ### [L_MESSAGE](../L_MESSAGE.md)
-* [Variable à la ligne 23](../../subsilver/privmsgs_popup.tpl#L23)
+* [Variable &agrave; la ligne 23](../../subsilver/privmsgs_popup.tpl#L23)
 
 ### [U_PRIVATEMSGS](../U_PRIVATEMSGS.md)
-* [Variable à la ligne 12](../../subsilver/privmsgs_popup.tpl#L12)
+* [Variable &agrave; la ligne 12](../../subsilver/privmsgs_popup.tpl#L12)

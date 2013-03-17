@@ -1,15 +1,15 @@
 # Variable NAV_SEPARATOR
-[Ajouter une description](https://fa-tvars.appspot.com/NAV_SEPARATOR)
+[Ajouter une description](https://fa-tvars.appspot.com/var/NAV_SEPARATOR)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version phpBB2
 
 #### [Template calendar_scheduler_body](subsilver/calendar_scheduler_body.md)
-* [Variable à la ligne 4](../subsilver/calendar_scheduler_body.tpl#L4)
+* [Variable &agrave; la ligne 4](../subsilver/calendar_scheduler_body.tpl#L4)
 
 #### [Template album_index_body](subsilver/album_index_body.md)
-* [Variable à la ligne 4](../subsilver/album_index_body.tpl#L4)
+* [Variable &agrave; la ligne 4](../subsilver/album_index_body.tpl#L4)
 
 #### [Template calendar_body](subsilver/calendar_body.md)
-* [Variable à la ligne 3](../subsilver/calendar_body.tpl#L3)
+* [Variable &agrave; la ligne 3](../subsilver/calendar_body.tpl#L3)

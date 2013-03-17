@@ -5,10 +5,10 @@
 ## Variables utilisées
 
 ### [L_CLOSE_WINDOW](../L_CLOSE_WINDOW.md)
-* [Variable à la ligne 18](../../subsilver/report_popup_body.tpl#L18)
+* [Variable &agrave; la ligne 18](../../subsilver/report_popup_body.tpl#L18)
 
 ### [L_MESSAGE](../L_MESSAGE.md)
-* [Variable à la ligne 16](../../subsilver/report_popup_body.tpl#L16)
+* [Variable &agrave; la ligne 16](../../subsilver/report_popup_body.tpl#L16)
 
 ### [U_REPORT_LIST](../U_REPORT_LIST.md)
-* [Variable à la ligne 5](../../subsilver/report_popup_body.tpl#L5)
+* [Variable &agrave; la ligne 5](../../subsilver/report_popup_body.tpl#L5)

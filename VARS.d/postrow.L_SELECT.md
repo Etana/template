@@ -1,9 +1,9 @@
 # Variable postrow.L_SELECT
-[Ajouter une description](https://fa-tvars.appspot.com/postrow.L_SELECT)
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.L_SELECT)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template modcp_split](punbb/modcp_split.md)
-* [Variable à la ligne 53](../punbb/modcp_split.tpl#L53)
+* [Variable &agrave; la ligne 53](../punbb/modcp_split.tpl#L53)

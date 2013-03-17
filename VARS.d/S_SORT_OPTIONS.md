@@ -1,14 +1,14 @@
 # Variable S_SORT_OPTIONS
-[Ajouter une description](https://fa-tvars.appspot.com/S_SORT_OPTIONS)
+[Ajouter une description](https://fa-tvars.appspot.com/var/S_SORT_OPTIONS)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template search_body](punbb/search_body.md)
-* [Variable à la ligne 73](../punbb/search_body.tpl#L73)
+* [Variable &agrave; la ligne 73](../punbb/search_body.tpl#L73)
 
 ### Version phpBB2
 
 #### [Template search_body](subsilver/search_body.md)
-* [Variable à la ligne 65](../subsilver/search_body.tpl#L65)
+* [Variable &agrave; la ligne 65](../subsilver/search_body.tpl#L65)

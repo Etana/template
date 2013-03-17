@@ -1,16 +1,16 @@
 # Variable radio
-[Ajouter une description](https://fa-tvars.appspot.com/radio)
+[Ajouter une description](https://fa-tvars.appspot.com/var/radio)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template donate](punbb/donate.md)
-* [Début de condition à la ligne 45](../punbb/donate.tpl#L45)
-* [Fin de condition à la ligne 47](../punbb/donate.tpl#L47)
+* [Début de condition &agrave; la ligne 45](../punbb/donate.tpl#L45)
+* [Fin de condition &agrave; la ligne 47](../punbb/donate.tpl#L47)
 
 ### Version phpBB2
 
 #### [Template donate](subsilver/donate.md)
-* [Début de condition à la ligne 49](../subsilver/donate.tpl#L49)
-* [Fin de condition à la ligne 51](../subsilver/donate.tpl#L51)
+* [Début de condition &agrave; la ligne 49](../subsilver/donate.tpl#L49)
+* [Fin de condition &agrave; la ligne 51](../subsilver/donate.tpl#L51)

@@ -1,14 +1,14 @@
 # Variable V_MESSAGE
-[Ajouter une description](https://fa-tvars.appspot.com/V_MESSAGE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/V_MESSAGE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_confirm_code](punbb/posting_confirm_code.md)
-* [Variable à la ligne 15](../punbb/posting_confirm_code.tpl#L15)
+* [Variable &agrave; la ligne 15](../punbb/posting_confirm_code.tpl#L15)
 
 ### Version phpBB2
 
 #### [Template posting_confirm_code](subsilver/posting_confirm_code.md)
-* [Variable à la ligne 13](../subsilver/posting_confirm_code.tpl#L13)
+* [Variable &agrave; la ligne 13](../subsilver/posting_confirm_code.tpl#L13)

@@ -1,14 +1,14 @@
 # Variable ENTER_EMAIL_LINK
-[Ajouter une description](https://fa-tvars.appspot.com/ENTER_EMAIL_LINK)
+[Ajouter une description](https://fa-tvars.appspot.com/var/ENTER_EMAIL_LINK)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 183](../punbb/posting_body_wysiwyg.tpl#L183)
+* [Variable &agrave; la ligne 183](../punbb/posting_body_wysiwyg.tpl#L183)
 
 ### Version phpBB2
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 243](../subsilver/posting_body_wysiwyg.tpl#L243)
+* [Variable &agrave; la ligne 243](../subsilver/posting_body_wysiwyg.tpl#L243)

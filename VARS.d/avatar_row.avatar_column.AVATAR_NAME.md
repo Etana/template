@@ -1,16 +1,16 @@
 # Variable avatar_row.avatar_column.AVATAR_NAME
-[Ajouter une description](https://fa-tvars.appspot.com/avatar_row.avatar_column.AVATAR_NAME)
+[Ajouter une description](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.AVATAR_NAME)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template profile_avatar_gallery](punbb/profile_avatar_gallery.md)
-* [Variable à la ligne 30](../punbb/profile_avatar_gallery.tpl#L30)
-* [Variable à la ligne 30](../punbb/profile_avatar_gallery.tpl#L30)
+* [Variable &agrave; la ligne 30](../punbb/profile_avatar_gallery.tpl#L30)
+* [Variable &agrave; la ligne 30](../punbb/profile_avatar_gallery.tpl#L30)
 
 ### Version phpBB2
 
 #### [Template profile_avatar_gallery](subsilver/profile_avatar_gallery.md)
-* [Variable à la ligne 17](../subsilver/profile_avatar_gallery.tpl#L17)
-* [Variable à la ligne 17](../subsilver/profile_avatar_gallery.tpl#L17)
+* [Variable &agrave; la ligne 17](../subsilver/profile_avatar_gallery.tpl#L17)
+* [Variable &agrave; la ligne 17](../subsilver/profile_avatar_gallery.tpl#L17)

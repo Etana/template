@@ -1,14 +1,14 @@
 # Variable SMILIES
-[Ajouter une description](https://fa-tvars.appspot.com/SMILIES)
+[Ajouter une description](https://fa-tvars.appspot.com/var/SMILIES)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 371](../punbb/posting_body_wysiwyg.tpl#L371)
+* [Variable &agrave; la ligne 371](../punbb/posting_body_wysiwyg.tpl#L371)
 
 ### Version phpBB2
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 425](../subsilver/posting_body_wysiwyg.tpl#L425)
+* [Variable &agrave; la ligne 425](../subsilver/posting_body_wysiwyg.tpl#L425)

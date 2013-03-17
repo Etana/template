@@ -1,9 +1,9 @@
 # Variable UNAPPROVAL_BUTTON
-[Ajouter une description](https://fa-tvars.appspot.com/UNAPPROVAL_BUTTON)
+[Ajouter une description](https://fa-tvars.appspot.com/var/UNAPPROVAL_BUTTON)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version phpBB2
 
 #### [Template album_modcp_body](subsilver/album_modcp_body.md)
-* [Variable à la ligne 57](../subsilver/album_modcp_body.tpl#L57)
+* [Variable &agrave; la ligne 57](../subsilver/album_modcp_body.tpl#L57)

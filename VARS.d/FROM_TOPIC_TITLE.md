@@ -1,14 +1,14 @@
 # Variable FROM_TOPIC_TITLE
-[Ajouter une description](https://fa-tvars.appspot.com/FROM_TOPIC_TITLE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/FROM_TOPIC_TITLE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template merge_body](punbb/merge_body.md)
-* [Variable à la ligne 35](../punbb/merge_body.tpl#L35)
+* [Variable &agrave; la ligne 35](../punbb/merge_body.tpl#L35)
 
 ### Version phpBB2
 
 #### [Template merge_body](subsilver/merge_body.md)
-* [Variable à la ligne 19](../subsilver/merge_body.tpl#L19)
+* [Variable &agrave; la ligne 19](../subsilver/merge_body.tpl#L19)

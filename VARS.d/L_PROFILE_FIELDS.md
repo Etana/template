@@ -1,9 +1,9 @@
 # Variable L_PROFILE_FIELDS
-[Ajouter une description](https://fa-tvars.appspot.com/L_PROFILE_FIELDS)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_PROFILE_FIELDS)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template profile_add_body](punbb/profile_add_body.md)
-* [Variable à la ligne 115](../punbb/profile_add_body.tpl#L115)
+* [Variable &agrave; la ligne 115](../punbb/profile_add_body.tpl#L115)

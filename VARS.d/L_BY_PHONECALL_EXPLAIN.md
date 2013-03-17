@@ -1,14 +1,14 @@
 # Variable L_BY_PHONECALL_EXPLAIN
-[Ajouter une description](https://fa-tvars.appspot.com/L_BY_PHONECALL_EXPLAIN)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_BY_PHONECALL_EXPLAIN)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template donate](punbb/donate.md)
-* [Variable à la ligne 68](../punbb/donate.tpl#L68)
+* [Variable &agrave; la ligne 68](../punbb/donate.tpl#L68)
 
 ### Version phpBB2
 
 #### [Template donate](subsilver/donate.md)
-* [Variable à la ligne 87](../subsilver/donate.tpl#L87)
+* [Variable &agrave; la ligne 87](../subsilver/donate.tpl#L87)

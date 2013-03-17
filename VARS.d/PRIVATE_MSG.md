@@ -1,14 +1,14 @@
 # Variable PRIVATE_MSG
-[Ajouter une description](https://fa-tvars.appspot.com/PRIVATE_MSG)
+[Ajouter une description](https://fa-tvars.appspot.com/var/PRIVATE_MSG)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template profile_view_body](punbb/profile_view_body.md)
-* [Variable à la ligne 85](../punbb/profile_view_body.tpl#L85)
+* [Variable &agrave; la ligne 85](../punbb/profile_view_body.tpl#L85)
 
 ### Version phpBB2
 
 #### [Template profile_view_body](subsilver/profile_view_body.md)
-* [Variable à la ligne 55](../subsilver/profile_view_body.tpl#L55)
+* [Variable &agrave; la ligne 55](../subsilver/profile_view_body.tpl#L55)

@@ -1,14 +1,14 @@
 # Variable ADD_POLL_OPTION
-[Ajouter une description](https://fa-tvars.appspot.com/ADD_POLL_OPTION)
+[Ajouter une description](https://fa-tvars.appspot.com/var/ADD_POLL_OPTION)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_poll_body](punbb/posting_poll_body.md)
-* [Variable à la ligne 43](../punbb/posting_poll_body.tpl#L43)
+* [Variable &agrave; la ligne 43](../punbb/posting_poll_body.tpl#L43)
 
 ### Version phpBB2
 
 #### [Template posting_poll_body](subsilver/posting_poll_body.md)
-* [Variable à la ligne 44](../subsilver/posting_poll_body.tpl#L44)
+* [Variable &agrave; la ligne 44](../subsilver/posting_poll_body.tpl#L44)

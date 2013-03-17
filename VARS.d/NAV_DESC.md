@@ -1,14 +1,14 @@
 # Variable NAV_DESC
-[Ajouter une description](https://fa-tvars.appspot.com/NAV_DESC)
+[Ajouter une description](https://fa-tvars.appspot.com/var/NAV_DESC)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template calendar_overview_topic](punbb/calendar_overview_topic.md)
-* [Variable à la ligne 8](../punbb/calendar_overview_topic.tpl#L8)
+* [Variable &agrave; la ligne 8](../punbb/calendar_overview_topic.tpl#L8)
 
 ### Version phpBB2
 
 #### [Template calendar_overview_topic](subsilver/calendar_overview_topic.md)
-* [Variable à la ligne 12](../subsilver/calendar_overview_topic.tpl#L12)
+* [Variable &agrave; la ligne 12](../subsilver/calendar_overview_topic.tpl#L12)

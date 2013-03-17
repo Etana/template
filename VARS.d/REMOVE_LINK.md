@@ -1,14 +1,14 @@
 # Variable REMOVE_LINK
-[Ajouter une description](https://fa-tvars.appspot.com/REMOVE_LINK)
+[Ajouter une description](https://fa-tvars.appspot.com/var/REMOVE_LINK)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 420](../punbb/posting_body_wysiwyg.tpl#L420)
+* [Variable &agrave; la ligne 420](../punbb/posting_body_wysiwyg.tpl#L420)
 
 ### Version phpBB2
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 474](../subsilver/posting_body_wysiwyg.tpl#L474)
+* [Variable &agrave; la ligne 474](../subsilver/posting_body_wysiwyg.tpl#L474)

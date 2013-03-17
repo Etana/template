@@ -5,35 +5,35 @@
 ## Variables utilisées
 
 ### [AUTHOR](../AUTHOR.md)
-* [Variable à la ligne 5](../../punbb/calendar_overview_topic.tpl#L5)
+* [Variable &agrave; la ligne 5](../../punbb/calendar_overview_topic.tpl#L5)
 
 ### [CALENDAR_EVENT](../CALENDAR_EVENT.md)
-* [Variable à la ligne 4](../../punbb/calendar_overview_topic.tpl#L4)
+* [Variable &agrave; la ligne 4](../../punbb/calendar_overview_topic.tpl#L4)
 
 ### [display_forum](../display_forum.md)
-* [Début de condition à la ligne 6](../../punbb/calendar_overview_topic.tpl#L6)
-* [Fin de condition à la ligne 9](../../punbb/calendar_overview_topic.tpl#L9)
+* [Début de condition &agrave; la ligne 6](../../punbb/calendar_overview_topic.tpl#L6)
+* [Fin de condition &agrave; la ligne 9](../../punbb/calendar_overview_topic.tpl#L9)
 
 ### [L_AUTHOR](../L_AUTHOR.md)
-* [Variable à la ligne 5](../../punbb/calendar_overview_topic.tpl#L5)
+* [Variable &agrave; la ligne 5](../../punbb/calendar_overview_topic.tpl#L5)
 
 ### [L_CALENDAR_EVENT](../L_CALENDAR_EVENT.md)
-* [Variable à la ligne 4](../../punbb/calendar_overview_topic.tpl#L4)
+* [Variable &agrave; la ligne 4](../../punbb/calendar_overview_topic.tpl#L4)
 
 ### [L_FORUM](../L_FORUM.md)
-* [Variable à la ligne 8](../../punbb/calendar_overview_topic.tpl#L8)
+* [Variable &agrave; la ligne 8](../../punbb/calendar_overview_topic.tpl#L8)
 
 ### [L_TOPIC_DATE](../L_TOPIC_DATE.md)
-* [Variable à la ligne 7](../../punbb/calendar_overview_topic.tpl#L7)
+* [Variable &agrave; la ligne 7](../../punbb/calendar_overview_topic.tpl#L7)
 
 ### [MESSAGE](../MESSAGE.md)
-* [Variable à la ligne 11](../../punbb/calendar_overview_topic.tpl#L11)
+* [Variable &agrave; la ligne 11](../../punbb/calendar_overview_topic.tpl#L11)
 
 ### [NAV_DESC](../NAV_DESC.md)
-* [Variable à la ligne 8](../../punbb/calendar_overview_topic.tpl#L8)
+* [Variable &agrave; la ligne 8](../../punbb/calendar_overview_topic.tpl#L8)
 
 ### [TOPIC_DATE](../TOPIC_DATE.md)
-* [Variable à la ligne 7](../../punbb/calendar_overview_topic.tpl#L7)
+* [Variable &agrave; la ligne 7](../../punbb/calendar_overview_topic.tpl#L7)
 
 ### [TOPIC_TITLE](../TOPIC_TITLE.md)
-* [Variable à la ligne 2](../../punbb/calendar_overview_topic.tpl#L2)
+* [Variable &agrave; la ligne 2](../../punbb/calendar_overview_topic.tpl#L2)

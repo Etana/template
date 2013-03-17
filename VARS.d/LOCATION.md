@@ -1,9 +1,9 @@
 # Variable LOCATION
-[Ajouter une description](https://fa-tvars.appspot.com/LOCATION)
+[Ajouter une description](https://fa-tvars.appspot.com/var/LOCATION)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template profile_add_body](punbb/profile_add_body.md)
-* [Variable à la ligne 79](../punbb/profile_add_body.tpl#L79)
+* [Variable &agrave; la ligne 79](../punbb/profile_add_body.tpl#L79)

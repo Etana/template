@@ -1,16 +1,16 @@
 # Variable search_results
-[Ajouter une description](https://fa-tvars.appspot.com/search_results)
+[Ajouter une description](https://fa-tvars.appspot.com/var/search_results)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template album_search_body](punbb/album_search_body.md)
-* [Début de condition à la ligne 38](../punbb/album_search_body.tpl#L38)
-* [Fin de condition à la ligne 49](../punbb/album_search_body.tpl#L49)
+* [Début de condition &agrave; la ligne 38](../punbb/album_search_body.tpl#L38)
+* [Fin de condition &agrave; la ligne 49](../punbb/album_search_body.tpl#L49)
 
 ### Version phpBB2
 
 #### [Template album_search_body](subsilver/album_search_body.md)
-* [Début de condition à la ligne 29](../subsilver/album_search_body.tpl#L29)
-* [Fin de condition à la ligne 42](../subsilver/album_search_body.tpl#L42)
+* [Début de condition &agrave; la ligne 29](../subsilver/album_search_body.tpl#L29)
+* [Fin de condition &agrave; la ligne 42](../subsilver/album_search_body.tpl#L42)

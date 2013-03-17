@@ -1,9 +1,9 @@
 # Variable switch_informations_menu.switch_profile_fields_register.field.NAME
-[Ajouter une description](https://fa-tvars.appspot.com/switch_informations_menu.switch_profile_fields_register.field.NAME)
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields_register.field.NAME)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template profile_add_body](punbb/profile_add_body.md)
-* [Variable à la ligne 134](../punbb/profile_add_body.tpl#L134)
+* [Variable &agrave; la ligne 134](../punbb/profile_add_body.tpl#L134)

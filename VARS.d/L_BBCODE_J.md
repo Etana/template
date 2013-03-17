@@ -1,20 +1,20 @@
 # Variable L_BBCODE_J
-[Ajouter une description](https://fa-tvars.appspot.com/L_BBCODE_J)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_J)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_body](punbb/posting_body.md)
-* [Variable à la ligne 341](../punbb/posting_body.tpl#L341)
-* [Variable à la ligne 341](../punbb/posting_body.tpl#L341)
-* [Variable à la ligne 385](../punbb/posting_body.tpl#L385)
-* [Variable à la ligne 385](../punbb/posting_body.tpl#L385)
+* [Variable &agrave; la ligne 341](../punbb/posting_body.tpl#L341)
+* [Variable &agrave; la ligne 341](../punbb/posting_body.tpl#L341)
+* [Variable &agrave; la ligne 385](../punbb/posting_body.tpl#L385)
+* [Variable &agrave; la ligne 385](../punbb/posting_body.tpl#L385)
 
 ### Version phpBB2
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Variable à la ligne 392](../subsilver/posting_body.tpl#L392)
-* [Variable à la ligne 392](../subsilver/posting_body.tpl#L392)
-* [Variable à la ligne 436](../subsilver/posting_body.tpl#L436)
-* [Variable à la ligne 436](../subsilver/posting_body.tpl#L436)
+* [Variable &agrave; la ligne 392](../subsilver/posting_body.tpl#L392)
+* [Variable &agrave; la ligne 392](../subsilver/posting_body.tpl#L392)
+* [Variable &agrave; la ligne 436](../subsilver/posting_body.tpl#L436)
+* [Variable &agrave; la ligne 436](../subsilver/posting_body.tpl#L436)

@@ -1,23 +1,23 @@
 # Variable SMILIES_STATUS
-[Ajouter une description](https://fa-tvars.appspot.com/SMILIES_STATUS)
+[Ajouter une description](https://fa-tvars.appspot.com/var/SMILIES_STATUS)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template profile_edit_signature](punbb/profile_edit_signature.md)
-* [Variable à la ligne 44](../punbb/profile_edit_signature.tpl#L44)
+* [Variable &agrave; la ligne 44](../punbb/profile_edit_signature.tpl#L44)
 
 #### [Template posting_body](punbb/posting_body.md)
-* [Variable à la ligne 457](../punbb/posting_body.tpl#L457)
+* [Variable &agrave; la ligne 457](../punbb/posting_body.tpl#L457)
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 468](../punbb/posting_body_wysiwyg.tpl#L468)
+* [Variable &agrave; la ligne 468](../punbb/posting_body_wysiwyg.tpl#L468)
 
 ### Version phpBB2
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Variable à la ligne 768](../subsilver/posting_body.tpl#L768)
+* [Variable &agrave; la ligne 768](../subsilver/posting_body.tpl#L768)
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 740](../subsilver/posting_body_wysiwyg.tpl#L740)
+* [Variable &agrave; la ligne 740](../subsilver/posting_body_wysiwyg.tpl#L740)

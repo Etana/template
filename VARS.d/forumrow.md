@@ -1,16 +1,16 @@
 # Variable forumrow
-[Ajouter une description](https://fa-tvars.appspot.com/forumrow)
+[Ajouter une description](https://fa-tvars.appspot.com/var/forumrow)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template index_box](punbb/index_box.md)
-* [Début de condition à la ligne 23](../punbb/index_box.tpl#L23)
-* [Fin de condition à la ligne 50](../punbb/index_box.tpl#L50)
+* [Début de condition &agrave; la ligne 23](../punbb/index_box.tpl#L23)
+* [Fin de condition &agrave; la ligne 50](../punbb/index_box.tpl#L50)
 
 ### Version phpBB2
 
 #### [Template index_box](subsilver/index_box.md)
-* [Début de condition à la ligne 43](../subsilver/index_box.tpl#L43)
-* [Fin de condition à la ligne 75](../subsilver/index_box.tpl#L75)
+* [Début de condition &agrave; la ligne 43](../subsilver/index_box.tpl#L43)
+* [Fin de condition &agrave; la ligne 75](../subsilver/index_box.tpl#L75)

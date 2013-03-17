@@ -1,14 +1,14 @@
 # Variable reg_user_row.FORUM_LOCATION
-[Ajouter une description](https://fa-tvars.appspot.com/reg_user_row.FORUM_LOCATION)
+[Ajouter une description](https://fa-tvars.appspot.com/var/reg_user_row.FORUM_LOCATION)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template viewonline_body](punbb/viewonline_body.md)
-* [Variable à la ligne 51](../punbb/viewonline_body.tpl#L51)
+* [Variable &agrave; la ligne 51](../punbb/viewonline_body.tpl#L51)
 
 ### Version phpBB2
 
 #### [Template viewonline_body](subsilver/viewonline_body.md)
-* [Variable à la ligne 27](../subsilver/viewonline_body.tpl#L27)
+* [Variable &agrave; la ligne 27](../subsilver/viewonline_body.tpl#L27)

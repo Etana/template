@@ -5,19 +5,19 @@
 ## Variables utilisées
 
 ### [CALENDAR_MONTH](../CALENDAR_MONTH.md)
-* [Variable à la ligne 6](../../subsilver/calendar_body.tpl#L6)
+* [Variable &agrave; la ligne 6](../../subsilver/calendar_body.tpl#L6)
 
 ### [L_CALENDAR](../L_CALENDAR.md)
-* [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
+* [Variable &agrave; la ligne 3](../../subsilver/calendar_body.tpl#L3)
 
 ### [L_INDEX](../L_INDEX.md)
-* [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
+* [Variable &agrave; la ligne 3](../../subsilver/calendar_body.tpl#L3)
 
 ### [NAV_SEPARATOR](../NAV_SEPARATOR.md)
-* [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
+* [Variable &agrave; la ligne 3](../../subsilver/calendar_body.tpl#L3)
 
 ### [U_CALENDAR](../U_CALENDAR.md)
-* [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
+* [Variable &agrave; la ligne 3](../../subsilver/calendar_body.tpl#L3)
 
 ### [U_INDEX](../U_INDEX.md)
-* [Variable à la ligne 3](../../subsilver/calendar_body.tpl#L3)
+* [Variable &agrave; la ligne 3](../../subsilver/calendar_body.tpl#L3)

@@ -1,27 +1,27 @@
 # Variable L_WHO_IS_ONLINE
-[Ajouter une description](https://fa-tvars.appspot.com/L_WHO_IS_ONLINE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_WHO_IS_ONLINE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template index_body](punbb/index_body.md)
-* [Variable à la ligne 64](../punbb/index_body.tpl#L64)
-* [Variable à la ligne 67](../punbb/index_body.tpl#L67)
-* [Variable à la ligne 70](../punbb/index_body.tpl#L70)
+* [Variable &agrave; la ligne 64](../punbb/index_body.tpl#L64)
+* [Variable &agrave; la ligne 67](../punbb/index_body.tpl#L67)
+* [Variable &agrave; la ligne 70](../punbb/index_body.tpl#L70)
 
 #### [Template viewonline_body](punbb/viewonline_body.md)
-* [Variable à la ligne 28](../punbb/viewonline_body.tpl#L28)
+* [Variable &agrave; la ligne 28](../punbb/viewonline_body.tpl#L28)
 
 #### [Template mod_whoisonline](punbb/mod_whoisonline.md)
-* [Variable à la ligne 2](../punbb/mod_whoisonline.tpl#L2)
+* [Variable &agrave; la ligne 2](../punbb/mod_whoisonline.tpl#L2)
 
 ### Version phpBB2
 
 #### [Template index_body](subsilver/index_body.md)
-* [Variable à la ligne 179](../subsilver/index_body.tpl#L179)
-* [Variable à la ligne 183](../subsilver/index_body.tpl#L183)
-* [Variable à la ligne 188](../subsilver/index_body.tpl#L188)
+* [Variable &agrave; la ligne 179](../subsilver/index_body.tpl#L179)
+* [Variable &agrave; la ligne 183](../subsilver/index_body.tpl#L183)
+* [Variable &agrave; la ligne 188](../subsilver/index_body.tpl#L188)
 
 #### [Template mod_whoisonline](subsilver/mod_whoisonline.md)
-* [Variable à la ligne 4](../subsilver/mod_whoisonline.tpl#L4)
+* [Variable &agrave; la ligne 4](../subsilver/mod_whoisonline.tpl#L4)

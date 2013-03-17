@@ -1,12 +1,12 @@
 # Variable _more
-[Ajouter une description](https://fa-tvars.appspot.com/_more)
+[Ajouter une description](https://fa-tvars.appspot.com/var/_more)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version phpBB2
 
 #### [Template calendar_box](subsilver/calendar_box.md)
-* [Début de condition à la ligne 55](../subsilver/calendar_box.tpl#L55)
-* [Fin de condition à la ligne 57](../subsilver/calendar_box.tpl#L57)
-* [Début de condition à la ligne 66](../subsilver/calendar_box.tpl#L66)
-* [Fin de condition à la ligne 68](../subsilver/calendar_box.tpl#L68)
+* [Début de condition &agrave; la ligne 55](../subsilver/calendar_box.tpl#L55)
+* [Fin de condition &agrave; la ligne 57](../subsilver/calendar_box.tpl#L57)
+* [Début de condition &agrave; la ligne 66](../subsilver/calendar_box.tpl#L66)
+* [Fin de condition &agrave; la ligne 68](../subsilver/calendar_box.tpl#L68)

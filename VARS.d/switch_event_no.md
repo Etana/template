@@ -1,16 +1,16 @@
 # Variable switch_event_no
-[Ajouter une description](https://fa-tvars.appspot.com/switch_event_no)
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_event_no)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template calendar_box](punbb/calendar_box.md)
-* [Début de condition à la ligne 45](../punbb/calendar_box.tpl#L45)
-* [Fin de condition à la ligne 47](../punbb/calendar_box.tpl#L47)
+* [Début de condition &agrave; la ligne 45](../punbb/calendar_box.tpl#L45)
+* [Fin de condition &agrave; la ligne 47](../punbb/calendar_box.tpl#L47)
 
 ### Version phpBB2
 
 #### [Template calendar_box](subsilver/calendar_box.md)
-* [Début de condition à la ligne 63](../subsilver/calendar_box.tpl#L63)
-* [Fin de condition à la ligne 73](../subsilver/calendar_box.tpl#L73)
+* [Début de condition &agrave; la ligne 63](../subsilver/calendar_box.tpl#L63)
+* [Fin de condition &agrave; la ligne 73](../subsilver/calendar_box.tpl#L73)

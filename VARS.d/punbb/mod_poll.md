@@ -5,7 +5,7 @@
 ## Variables utilisées
 
 ### [L_POLL](../L_POLL.md)
-* [Variable à la ligne 4](../../punbb/mod_poll.tpl#L4)
+* [Variable &agrave; la ligne 4](../../punbb/mod_poll.tpl#L4)
 
 ### [POLL_DISPLAY](../POLL_DISPLAY.md)
-* [Variable à la ligne 7](../../punbb/mod_poll.tpl#L7)
+* [Variable &agrave; la ligne 7](../../punbb/mod_poll.tpl#L7)

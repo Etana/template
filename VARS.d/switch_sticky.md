@@ -1,16 +1,16 @@
 # Variable switch_sticky
-[Ajouter une description](https://fa-tvars.appspot.com/switch_sticky)
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_sticky)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template modcp_body](punbb/modcp_body.md)
-* [Début de condition à la ligne 68](../punbb/modcp_body.tpl#L68)
-* [Fin de condition à la ligne 68](../punbb/modcp_body.tpl#L68)
+* [Début de condition &agrave; la ligne 68](../punbb/modcp_body.tpl#L68)
+* [Fin de condition &agrave; la ligne 68](../punbb/modcp_body.tpl#L68)
 
 ### Version phpBB2
 
 #### [Template modcp_body](subsilver/modcp_body.md)
-* [Début de condition à la ligne 37](../subsilver/modcp_body.tpl#L37)
-* [Fin de condition à la ligne 37](../subsilver/modcp_body.tpl#L37)
+* [Début de condition &agrave; la ligne 37](../subsilver/modcp_body.tpl#L37)
+* [Fin de condition &agrave; la ligne 37](../subsilver/modcp_body.tpl#L37)

@@ -1,14 +1,14 @@
 # Variable V_CALENDAR_YEAR
-[Ajouter une description](https://fa-tvars.appspot.com/V_CALENDAR_YEAR)
+[Ajouter une description](https://fa-tvars.appspot.com/var/V_CALENDAR_YEAR)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_confirm_code](punbb/posting_confirm_code.md)
-* [Variable à la ligne 26](../punbb/posting_confirm_code.tpl#L26)
+* [Variable &agrave; la ligne 26](../punbb/posting_confirm_code.tpl#L26)
 
 ### Version phpBB2
 
 #### [Template posting_confirm_code](subsilver/posting_confirm_code.md)
-* [Variable à la ligne 24](../subsilver/posting_confirm_code.tpl#L24)
+* [Variable &agrave; la ligne 24](../subsilver/posting_confirm_code.tpl#L24)

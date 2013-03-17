@@ -1,14 +1,14 @@
 # Variable POLL_LENGTH
-[Ajouter une description](https://fa-tvars.appspot.com/POLL_LENGTH)
+[Ajouter une description](https://fa-tvars.appspot.com/var/POLL_LENGTH)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_poll_body](punbb/posting_poll_body.md)
-* [Variable à la ligne 51](../punbb/posting_poll_body.tpl#L51)
+* [Variable &agrave; la ligne 51](../punbb/posting_poll_body.tpl#L51)
 
 ### Version phpBB2
 
 #### [Template posting_poll_body](subsilver/posting_poll_body.md)
-* [Variable à la ligne 49](../subsilver/posting_poll_body.tpl#L49)
+* [Variable &agrave; la ligne 49](../subsilver/posting_poll_body.tpl#L49)

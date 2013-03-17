@@ -1,16 +1,16 @@
 # Variable switch_facebook_logout_TMP
-[Ajouter une description](https://fa-tvars.appspot.com/switch_facebook_logout_TMP)
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template overall_footer_end](punbb/overall_footer_end.md)
-* [Début de condition à la ligne 53](../punbb/overall_footer_end.tpl#L53)
-* [Fin de condition à la ligne 75](../punbb/overall_footer_end.tpl#L75)
+* [Début de condition &agrave; la ligne 53](../punbb/overall_footer_end.tpl#L53)
+* [Fin de condition &agrave; la ligne 75](../punbb/overall_footer_end.tpl#L75)
 
 ### Version phpBB2
 
 #### [Template overall_footer_end](subsilver/overall_footer_end.md)
-* [Début de condition à la ligne 39](../subsilver/overall_footer_end.tpl#L39)
-* [Fin de condition à la ligne 61](../subsilver/overall_footer_end.tpl#L61)
+* [Début de condition &agrave; la ligne 39](../subsilver/overall_footer_end.tpl#L39)
+* [Fin de condition &agrave; la ligne 61](../subsilver/overall_footer_end.tpl#L61)

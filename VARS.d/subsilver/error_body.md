@@ -5,4 +5,4 @@
 ## Variables utilisées
 
 ### [ERROR_MESSAGE](../ERROR_MESSAGE.md)
-* [Variable à la ligne 9](../../subsilver/error_body.tpl#L9)
+* [Variable &agrave; la ligne 9](../../subsilver/error_body.tpl#L9)

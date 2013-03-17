@@ -1,14 +1,14 @@
 # Variable BOLD
-[Ajouter une description](https://fa-tvars.appspot.com/BOLD)
+[Ajouter une description](https://fa-tvars.appspot.com/var/BOLD)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 399](../punbb/posting_body_wysiwyg.tpl#L399)
+* [Variable &agrave; la ligne 399](../punbb/posting_body_wysiwyg.tpl#L399)
 
 ### Version phpBB2
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 453](../subsilver/posting_body_wysiwyg.tpl#L453)
+* [Variable &agrave; la ligne 453](../subsilver/posting_body_wysiwyg.tpl#L453)

@@ -1,14 +1,14 @@
 # Variable phonecall_method.hidden_field.VALUE
-[Ajouter une description](https://fa-tvars.appspot.com/phonecall_method.hidden_field.VALUE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.VALUE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template donate](punbb/donate.md)
-* [Variable à la ligne 82](../punbb/donate.tpl#L82)
+* [Variable &agrave; la ligne 82](../punbb/donate.tpl#L82)
 
 ### Version phpBB2
 
 #### [Template donate](subsilver/donate.md)
-* [Variable à la ligne 109](../subsilver/donate.tpl#L109)
+* [Variable &agrave; la ligne 109](../subsilver/donate.tpl#L109)

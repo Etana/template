@@ -1,20 +1,20 @@
 # Variable SAVEBOX
-[Ajouter une description](https://fa-tvars.appspot.com/SAVEBOX)
+[Ajouter une description](https://fa-tvars.appspot.com/var/SAVEBOX)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template privmsgs_body](punbb/privmsgs_body.md)
-* [Variable à la ligne 26](../punbb/privmsgs_body.tpl#L26)
+* [Variable &agrave; la ligne 26](../punbb/privmsgs_body.tpl#L26)
 
 #### [Template privmsgs_read_body](punbb/privmsgs_read_body.md)
-* [Variable à la ligne 26](../punbb/privmsgs_read_body.tpl#L26)
+* [Variable &agrave; la ligne 26](../punbb/privmsgs_read_body.tpl#L26)
 
 ### Version phpBB2
 
 #### [Template privmsgs_body](subsilver/privmsgs_body.md)
-* [Variable à la ligne 13](../subsilver/privmsgs_body.tpl#L13)
+* [Variable &agrave; la ligne 13](../subsilver/privmsgs_body.tpl#L13)
 
 #### [Template privmsgs_read_body](subsilver/privmsgs_read_body.md)
-* [Variable à la ligne 10](../subsilver/privmsgs_read_body.tpl#L10)
+* [Variable &agrave; la ligne 10](../subsilver/privmsgs_read_body.tpl#L10)

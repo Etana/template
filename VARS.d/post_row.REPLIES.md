@@ -1,14 +1,14 @@
 # Variable post_row.REPLIES
-[Ajouter une description](https://fa-tvars.appspot.com/post_row.REPLIES)
+[Ajouter une description](https://fa-tvars.appspot.com/var/post_row.REPLIES)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template mod_news](punbb/mod_news.md)
-* [Variable à la ligne 53](../punbb/mod_news.tpl#L53)
+* [Variable &agrave; la ligne 53](../punbb/mod_news.tpl#L53)
 
 ### Version phpBB2
 
 #### [Template mod_news](subsilver/mod_news.md)
-* [Variable à la ligne 65](../subsilver/mod_news.tpl#L65)
+* [Variable &agrave; la ligne 65](../subsilver/mod_news.tpl#L65)

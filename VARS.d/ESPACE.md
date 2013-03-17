@@ -1,9 +1,9 @@
 # Variable ESPACE
-[Ajouter une description](https://fa-tvars.appspot.com/ESPACE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/ESPACE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version phpBB2
 
 #### [Template calendar_scheduler_body](subsilver/calendar_scheduler_body.md)
-* [Variable à la ligne 54](../subsilver/calendar_scheduler_body.tpl#L54)
+* [Variable &agrave; la ligne 54](../subsilver/calendar_scheduler_body.tpl#L54)

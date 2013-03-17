@@ -1,14 +1,14 @@
 # Variable L_THIS_POST_IP
-[Ajouter une description](https://fa-tvars.appspot.com/L_THIS_POST_IP)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_THIS_POST_IP)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template modcp_viewip](punbb/modcp_viewip.md)
-* [Variable à la ligne 57](../punbb/modcp_viewip.tpl#L57)
+* [Variable &agrave; la ligne 57](../punbb/modcp_viewip.tpl#L57)
 
 ### Version phpBB2
 
 #### [Template modcp_viewip](subsilver/modcp_viewip.md)
-* [Variable à la ligne 33](../subsilver/modcp_viewip.tpl#L33)
+* [Variable &agrave; la ligne 33](../subsilver/modcp_viewip.tpl#L33)

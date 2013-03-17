@@ -1,9 +1,9 @@
 # Variable switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU
-[Ajouter une description](https://fa-tvars.appspot.com/switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU)
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template viewtopic_body](punbb/viewtopic_body.md)
-* [Variable à la ligne 49](../punbb/viewtopic_body.tpl#L49)
+* [Variable &agrave; la ligne 49](../punbb/viewtopic_body.tpl#L49)

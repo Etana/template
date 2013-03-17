@@ -1,24 +1,24 @@
 # Variable bottom
-[Ajouter une description](https://fa-tvars.appspot.com/bottom)
+[Ajouter une description](https://fa-tvars.appspot.com/var/bottom)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template birthday_list_box](punbb/birthday_list_box.md)
-* [Début de condition à la ligne 42](../punbb/birthday_list_box.tpl#L42)
-* [Fin de condition à la ligne 47](../punbb/birthday_list_box.tpl#L47)
+* [Début de condition &agrave; la ligne 42](../punbb/birthday_list_box.tpl#L42)
+* [Fin de condition &agrave; la ligne 47](../punbb/birthday_list_box.tpl#L47)
 
 #### [Template topics_list_box](punbb/topics_list_box.md)
-* [Début de condition à la ligne 106](../punbb/topics_list_box.tpl#L106)
-* [Fin de condition à la ligne 119](../punbb/topics_list_box.tpl#L119)
+* [Début de condition &agrave; la ligne 106](../punbb/topics_list_box.tpl#L106)
+* [Fin de condition &agrave; la ligne 119](../punbb/topics_list_box.tpl#L119)
 
 ### Version phpBB2
 
 #### [Template birthday_list_box](subsilver/birthday_list_box.md)
-* [Début de condition à la ligne 49](../subsilver/birthday_list_box.tpl#L49)
-* [Fin de condition à la ligne 58](../subsilver/birthday_list_box.tpl#L58)
+* [Début de condition &agrave; la ligne 49](../subsilver/birthday_list_box.tpl#L49)
+* [Fin de condition &agrave; la ligne 58](../subsilver/birthday_list_box.tpl#L58)
 
 #### [Template topics_list_box](subsilver/topics_list_box.md)
-* [Début de condition à la ligne 83](../subsilver/topics_list_box.tpl#L83)
-* [Fin de condition à la ligne 94](../subsilver/topics_list_box.tpl#L94)
+* [Début de condition &agrave; la ligne 83](../subsilver/topics_list_box.tpl#L83)
+* [Fin de condition &agrave; la ligne 94](../subsilver/topics_list_box.tpl#L94)

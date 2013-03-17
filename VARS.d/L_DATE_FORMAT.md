@@ -1,14 +1,14 @@
 # Variable L_DATE_FORMAT
-[Ajouter une description](https://fa-tvars.appspot.com/L_DATE_FORMAT)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_DATE_FORMAT)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template profile_add_body](punbb/profile_add_body.md)
-* [Variable à la ligne 344](../punbb/profile_add_body.tpl#L344)
+* [Variable &agrave; la ligne 344](../punbb/profile_add_body.tpl#L344)
 
 ### Version phpBB2
 
 #### [Template profile_add_body](subsilver/profile_add_body.md)
-* [Variable à la ligne 304](../subsilver/profile_add_body.tpl#L304)
+* [Variable &agrave; la ligne 304](../subsilver/profile_add_body.tpl#L304)

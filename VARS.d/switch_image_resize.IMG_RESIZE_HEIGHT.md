@@ -1,44 +1,44 @@
 # Variable switch_image_resize.IMG_RESIZE_HEIGHT
-[Ajouter une description](https://fa-tvars.appspot.com/switch_image_resize.IMG_RESIZE_HEIGHT)
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template privmsgs_read_body](punbb/privmsgs_read_body.md)
-* [Variable à la ligne 111](../punbb/privmsgs_read_body.tpl#L111)
+* [Variable &agrave; la ligne 111](../punbb/privmsgs_read_body.tpl#L111)
 
 #### [Template mod_news](punbb/mod_news.md)
-* [Variable à la ligne 63](../punbb/mod_news.tpl#L63)
+* [Variable &agrave; la ligne 63](../punbb/mod_news.tpl#L63)
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 708](../punbb/posting_body_wysiwyg.tpl#L708)
+* [Variable &agrave; la ligne 708](../punbb/posting_body_wysiwyg.tpl#L708)
 
 #### [Template viewtopic_body](punbb/viewtopic_body.md)
-* [Variable à la ligne 353](../punbb/viewtopic_body.tpl#L353)
+* [Variable &agrave; la ligne 353](../punbb/viewtopic_body.tpl#L353)
 
 #### [Template search_results_posts](punbb/search_results_posts.md)
-* [Variable à la ligne 85](../punbb/search_results_posts.tpl#L85)
+* [Variable &agrave; la ligne 85](../punbb/search_results_posts.tpl#L85)
 
 #### [Template posting_body](punbb/posting_body.md)
-* [Variable à la ligne 708](../punbb/posting_body.tpl#L708)
+* [Variable &agrave; la ligne 708](../punbb/posting_body.tpl#L708)
 
 ### Version phpBB2
 
 #### [Template privmsgs_read_body](subsilver/privmsgs_read_body.md)
-* [Variable à la ligne 118](../subsilver/privmsgs_read_body.tpl#L118)
+* [Variable &agrave; la ligne 118](../subsilver/privmsgs_read_body.tpl#L118)
 
 #### [Template mod_news](subsilver/mod_news.md)
-* [Variable à la ligne 72](../subsilver/mod_news.tpl#L72)
+* [Variable &agrave; la ligne 72](../subsilver/mod_news.tpl#L72)
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 859](../subsilver/posting_body_wysiwyg.tpl#L859)
+* [Variable &agrave; la ligne 859](../subsilver/posting_body_wysiwyg.tpl#L859)
 
 #### [Template viewtopic_body](subsilver/viewtopic_body.md)
-* [Variable à la ligne 469](../subsilver/viewtopic_body.tpl#L469)
+* [Variable &agrave; la ligne 469](../subsilver/viewtopic_body.tpl#L469)
 
 #### [Template search_results_posts](subsilver/search_results_posts.md)
-* [Variable à la ligne 50](../subsilver/search_results_posts.tpl#L50)
+* [Variable &agrave; la ligne 50](../subsilver/search_results_posts.tpl#L50)
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Variable à la ligne 899](../subsilver/posting_body.tpl#L899)
+* [Variable &agrave; la ligne 899](../subsilver/posting_body.tpl#L899)

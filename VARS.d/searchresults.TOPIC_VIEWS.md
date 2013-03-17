@@ -1,14 +1,14 @@
 # Variable searchresults.TOPIC_VIEWS
-[Ajouter une description](https://fa-tvars.appspot.com/searchresults.TOPIC_VIEWS)
+[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_VIEWS)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template search_results_posts](punbb/search_results_posts.md)
-* [Variable à la ligne 62](../punbb/search_results_posts.tpl#L62)
+* [Variable &agrave; la ligne 62](../punbb/search_results_posts.tpl#L62)
 
 ### Version phpBB2
 
 #### [Template search_results_posts](subsilver/search_results_posts.md)
-* [Variable à la ligne 21](../subsilver/search_results_posts.tpl#L21)
+* [Variable &agrave; la ligne 21](../subsilver/search_results_posts.tpl#L21)

@@ -1,14 +1,14 @@
 # Variable L_INSERT_SUM
-[Ajouter une description](https://fa-tvars.appspot.com/L_INSERT_SUM)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_INSERT_SUM)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template donate](punbb/donate.md)
-* [Variable à la ligne 145](../punbb/donate.tpl#L145)
+* [Variable &agrave; la ligne 145](../punbb/donate.tpl#L145)
 
 ### Version phpBB2
 
 #### [Template donate](subsilver/donate.md)
-* [Variable à la ligne 172](../subsilver/donate.tpl#L172)
+* [Variable &agrave; la ligne 172](../subsilver/donate.tpl#L172)

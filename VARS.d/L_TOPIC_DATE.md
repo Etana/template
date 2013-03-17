@@ -1,14 +1,14 @@
 # Variable L_TOPIC_DATE
-[Ajouter une description](https://fa-tvars.appspot.com/L_TOPIC_DATE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_TOPIC_DATE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template calendar_overview_topic](punbb/calendar_overview_topic.md)
-* [Variable à la ligne 7](../punbb/calendar_overview_topic.tpl#L7)
+* [Variable &agrave; la ligne 7](../punbb/calendar_overview_topic.tpl#L7)
 
 ### Version phpBB2
 
 #### [Template calendar_overview_topic](subsilver/calendar_overview_topic.md)
-* [Variable à la ligne 11](../subsilver/calendar_overview_topic.tpl#L11)
+* [Variable &agrave; la ligne 11](../subsilver/calendar_overview_topic.tpl#L11)

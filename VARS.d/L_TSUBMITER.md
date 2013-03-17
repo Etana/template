@@ -1,14 +1,14 @@
 # Variable L_TSUBMITER
-[Ajouter une description](https://fa-tvars.appspot.com/L_TSUBMITER)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_TSUBMITER)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template album_search_body](punbb/album_search_body.md)
-* [Variable à la ligne 34](../punbb/album_search_body.tpl#L34)
+* [Variable &agrave; la ligne 34](../punbb/album_search_body.tpl#L34)
 
 ### Version phpBB2
 
 #### [Template album_search_body](subsilver/album_search_body.md)
-* [Variable à la ligne 25](../subsilver/album_search_body.tpl#L25)
+* [Variable &agrave; la ligne 25](../subsilver/album_search_body.tpl#L25)

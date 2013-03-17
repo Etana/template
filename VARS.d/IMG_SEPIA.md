@@ -1,14 +1,14 @@
 # Variable IMG_SEPIA
-[Ajouter une description](https://fa-tvars.appspot.com/IMG_SEPIA)
+[Ajouter une description](https://fa-tvars.appspot.com/var/IMG_SEPIA)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template album_nuffimage_box](punbb/album_nuffimage_box.md)
-* [Variable à la ligne 60](../punbb/album_nuffimage_box.tpl#L60)
+* [Variable &agrave; la ligne 60](../punbb/album_nuffimage_box.tpl#L60)
 
 ### Version phpBB2
 
 #### [Template album_nuffimage_box](subsilver/album_nuffimage_box.md)
-* [Variable à la ligne 85](../subsilver/album_nuffimage_box.tpl#L85)
+* [Variable &agrave; la ligne 85](../subsilver/album_nuffimage_box.tpl#L85)

@@ -1,14 +1,14 @@
 # Variable DECREASE_SIZE
-[Ajouter une description](https://fa-tvars.appspot.com/DECREASE_SIZE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/DECREASE_SIZE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 388](../punbb/posting_body_wysiwyg.tpl#L388)
+* [Variable &agrave; la ligne 388](../punbb/posting_body_wysiwyg.tpl#L388)
 
 ### Version phpBB2
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 442](../subsilver/posting_body_wysiwyg.tpl#L442)
+* [Variable &agrave; la ligne 442](../subsilver/posting_body_wysiwyg.tpl#L442)

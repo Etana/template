@@ -1,16 +1,16 @@
 # Variable link
-[Ajouter une description](https://fa-tvars.appspot.com/link)
+[Ajouter une description](https://fa-tvars.appspot.com/var/link)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template viewtopic_body](punbb/viewtopic_body.md)
-* [Début de condition à la ligne 310](../punbb/viewtopic_body.tpl#L310)
-* [Fin de condition à la ligne 312](../punbb/viewtopic_body.tpl#L312)
+* [Début de condition &agrave; la ligne 310](../punbb/viewtopic_body.tpl#L310)
+* [Fin de condition &agrave; la ligne 312](../punbb/viewtopic_body.tpl#L312)
 
 ### Version phpBB2
 
 #### [Template viewtopic_body](subsilver/viewtopic_body.md)
-* [Début de condition à la ligne 320](../subsilver/viewtopic_body.tpl#L320)
-* [Fin de condition à la ligne 322](../subsilver/viewtopic_body.tpl#L322)
+* [Début de condition &agrave; la ligne 320](../subsilver/viewtopic_body.tpl#L320)
+* [Fin de condition &agrave; la ligne 322](../subsilver/viewtopic_body.tpl#L322)

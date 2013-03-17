@@ -1,9 +1,9 @@
 # Variable index_pics_block.no_pics.L_NO_ALBUMS
-[Ajouter une description](https://fa-tvars.appspot.com/index_pics_block.no_pics.L_NO_ALBUMS)
+[Ajouter une description](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.L_NO_ALBUMS)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version phpBB2
 
 #### [Template album_cat_body](subsilver/album_cat_body.md)
-* [Variable à la ligne 42](../subsilver/album_cat_body.tpl#L42)
+* [Variable &agrave; la ligne 42](../subsilver/album_cat_body.tpl#L42)

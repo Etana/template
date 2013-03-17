@@ -1,14 +1,14 @@
 # Variable U_MOD_VIEWPROFILE
-[Ajouter une description](https://fa-tvars.appspot.com/U_MOD_VIEWPROFILE)
+[Ajouter une description](https://fa-tvars.appspot.com/var/U_MOD_VIEWPROFILE)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template groupcp_info_body](punbb/groupcp_info_body.md)
-* [Variable à la ligne 94](../punbb/groupcp_info_body.tpl#L94)
+* [Variable &agrave; la ligne 94](../punbb/groupcp_info_body.tpl#L94)
 
 ### Version phpBB2
 
 #### [Template groupcp_info_body](subsilver/groupcp_info_body.md)
-* [Variable à la ligne 54](../subsilver/groupcp_info_body.tpl#L54)
+* [Variable &agrave; la ligne 54](../subsilver/groupcp_info_body.tpl#L54)

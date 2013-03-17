@@ -1,92 +1,92 @@
 # Variable L_SUBMIT
-[Ajouter une description](https://fa-tvars.appspot.com/L_SUBMIT)
+[Ajouter une description](https://fa-tvars.appspot.com/var/L_SUBMIT)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template album_nuffimage_box](punbb/album_nuffimage_box.md)
-* [Variable à la ligne 103](../punbb/album_nuffimage_box.tpl#L103)
+* [Variable &agrave; la ligne 103](../punbb/album_nuffimage_box.tpl#L103)
 
 #### [Template memberlist_body](punbb/memberlist_body.md)
-* [Variable à la ligne 53](../punbb/memberlist_body.tpl#L53)
+* [Variable &agrave; la ligne 53](../punbb/memberlist_body.tpl#L53)
 
 #### [Template album_upload_body](punbb/album_upload_body.md)
-* [Variable à la ligne 331](../punbb/album_upload_body.tpl#L331)
-* [Variable à la ligne 335](../punbb/album_upload_body.tpl#L335)
+* [Variable &agrave; la ligne 331](../punbb/album_upload_body.tpl#L331)
+* [Variable &agrave; la ligne 335](../punbb/album_upload_body.tpl#L335)
 
 #### [Template profile_send_pass](punbb/profile_send_pass.md)
-* [Variable à la ligne 43](../punbb/profile_send_pass.tpl#L43)
+* [Variable &agrave; la ligne 43](../punbb/profile_send_pass.tpl#L43)
 
 #### [Template posting_confirm_code](punbb/posting_confirm_code.md)
-* [Variable à la ligne 8](../punbb/posting_confirm_code.tpl#L8)
+* [Variable &agrave; la ligne 8](../punbb/posting_confirm_code.tpl#L8)
 
 #### [Template profile_edit_signature](punbb/profile_edit_signature.md)
-* [Variable à la ligne 67](../punbb/profile_edit_signature.tpl#L67)
+* [Variable &agrave; la ligne 67](../punbb/profile_edit_signature.tpl#L67)
 
 #### [Template album_edit_body](punbb/album_edit_body.md)
-* [Variable à la ligne 76](../punbb/album_edit_body.tpl#L76)
+* [Variable &agrave; la ligne 76](../punbb/album_edit_body.tpl#L76)
 
 #### [Template profile_add_body](punbb/profile_add_body.md)
-* [Variable à la ligne 413](../punbb/profile_add_body.tpl#L413)
+* [Variable &agrave; la ligne 413](../punbb/profile_add_body.tpl#L413)
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Variable à la ligne 484](../punbb/posting_body_wysiwyg.tpl#L484)
+* [Variable &agrave; la ligne 484](../punbb/posting_body_wysiwyg.tpl#L484)
 
 #### [Template merge_body](punbb/merge_body.md)
-* [Variable à la ligne 54](../punbb/merge_body.tpl#L54)
+* [Variable &agrave; la ligne 54](../punbb/merge_body.tpl#L54)
 
 #### [Template donate](punbb/donate.md)
-* [Variable à la ligne 85](../punbb/donate.tpl#L85)
-* [Variable à la ligne 121](../punbb/donate.tpl#L121)
-* [Variable à la ligne 140](../punbb/donate.tpl#L140)
-* [Variable à la ligne 151](../punbb/donate.tpl#L151)
+* [Variable &agrave; la ligne 85](../punbb/donate.tpl#L85)
+* [Variable &agrave; la ligne 121](../punbb/donate.tpl#L121)
+* [Variable &agrave; la ligne 140](../punbb/donate.tpl#L140)
+* [Variable &agrave; la ligne 151](../punbb/donate.tpl#L151)
 
 #### [Template posting_body](punbb/posting_body.md)
-* [Variable à la ligne 486](../punbb/posting_body.tpl#L486)
+* [Variable &agrave; la ligne 486](../punbb/posting_body.tpl#L486)
 
 #### [Template album_showpage_body](punbb/album_showpage_body.md)
-* [Variable à la ligne 320](../punbb/album_showpage_body.tpl#L320)
+* [Variable &agrave; la ligne 320](../punbb/album_showpage_body.tpl#L320)
 
 ### Version phpBB2
 
 #### [Template album_nuffimage_box](subsilver/album_nuffimage_box.md)
-* [Variable à la ligne 103](../subsilver/album_nuffimage_box.tpl#L103)
+* [Variable &agrave; la ligne 103](../subsilver/album_nuffimage_box.tpl#L103)
 
 #### [Template memberlist_body](subsilver/memberlist_body.md)
-* [Variable à la ligne 14](../subsilver/memberlist_body.tpl#L14)
+* [Variable &agrave; la ligne 14](../subsilver/memberlist_body.tpl#L14)
 
 #### [Template album_upload_body](subsilver/album_upload_body.md)
-* [Variable à la ligne 346](../subsilver/album_upload_body.tpl#L346)
-* [Variable à la ligne 350](../subsilver/album_upload_body.tpl#L350)
+* [Variable &agrave; la ligne 346](../subsilver/album_upload_body.tpl#L346)
+* [Variable &agrave; la ligne 350](../subsilver/album_upload_body.tpl#L350)
 
 #### [Template profile_send_pass](subsilver/profile_send_pass.md)
-* [Variable à la ligne 25](../subsilver/profile_send_pass.tpl#L25)
+* [Variable &agrave; la ligne 25](../subsilver/profile_send_pass.tpl#L25)
 
 #### [Template posting_confirm_code](subsilver/posting_confirm_code.md)
-* [Variable à la ligne 8](../subsilver/posting_confirm_code.tpl#L8)
+* [Variable &agrave; la ligne 8](../subsilver/posting_confirm_code.tpl#L8)
 
 #### [Template album_edit_body](subsilver/album_edit_body.md)
-* [Variable à la ligne 59](../subsilver/album_edit_body.tpl#L59)
+* [Variable &agrave; la ligne 59](../subsilver/album_edit_body.tpl#L59)
 
 #### [Template profile_add_body](subsilver/profile_add_body.md)
-* [Variable à la ligne 356](../subsilver/profile_add_body.tpl#L356)
+* [Variable &agrave; la ligne 356](../subsilver/profile_add_body.tpl#L356)
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Variable à la ligne 530](../subsilver/posting_body_wysiwyg.tpl#L530)
+* [Variable &agrave; la ligne 530](../subsilver/posting_body_wysiwyg.tpl#L530)
 
 #### [Template merge_body](subsilver/merge_body.md)
-* [Variable à la ligne 30](../subsilver/merge_body.tpl#L30)
+* [Variable &agrave; la ligne 30](../subsilver/merge_body.tpl#L30)
 
 #### [Template donate](subsilver/donate.md)
-* [Variable à la ligne 112](../subsilver/donate.tpl#L112)
-* [Variable à la ligne 150](../subsilver/donate.tpl#L150)
-* [Variable à la ligne 167](../subsilver/donate.tpl#L167)
-* [Variable à la ligne 177](../subsilver/donate.tpl#L177)
+* [Variable &agrave; la ligne 112](../subsilver/donate.tpl#L112)
+* [Variable &agrave; la ligne 150](../subsilver/donate.tpl#L150)
+* [Variable &agrave; la ligne 167](../subsilver/donate.tpl#L167)
+* [Variable &agrave; la ligne 177](../subsilver/donate.tpl#L177)
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Variable à la ligne 530](../subsilver/posting_body.tpl#L530)
-* [Variable à la ligne 687](../subsilver/posting_body.tpl#L687)
+* [Variable &agrave; la ligne 530](../subsilver/posting_body.tpl#L530)
+* [Variable &agrave; la ligne 687](../subsilver/posting_body.tpl#L687)
 
 #### [Template album_showpage_body](subsilver/album_showpage_body.md)
-* [Variable à la ligne 335](../subsilver/album_showpage_body.tpl#L335)
+* [Variable &agrave; la ligne 335](../subsilver/album_showpage_body.tpl#L335)

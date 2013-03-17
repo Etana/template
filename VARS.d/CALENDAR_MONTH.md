@@ -1,14 +1,14 @@
 # Variable CALENDAR_MONTH
-[Ajouter une description](https://fa-tvars.appspot.com/CALENDAR_MONTH)
+[Ajouter une description](https://fa-tvars.appspot.com/var/CALENDAR_MONTH)
 
-n## Utilisations dans les templates
+## Utilisations dans les templates
 
 ### Version PunBB
 
 #### [Template calendar_body](punbb/calendar_body.md)
-* [Variable à la ligne 20](../punbb/calendar_body.tpl#L20)
+* [Variable &agrave; la ligne 20](../punbb/calendar_body.tpl#L20)
 
 ### Version phpBB2
 
 #### [Template calendar_body](subsilver/calendar_body.md)
-* [Variable à la ligne 6](../subsilver/calendar_body.tpl#L6)
+* [Variable &agrave; la ligne 6](../subsilver/calendar_body.tpl#L6)
