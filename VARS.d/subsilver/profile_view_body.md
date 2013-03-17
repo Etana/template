@@ -1,4 +1,4 @@
-# Variable de la template profile_view_body (phpBB2)
+# Template profile_view_body (phpBB2)
 
 [Code de la template](../../subsilver/profile_view_body.tpl)
 

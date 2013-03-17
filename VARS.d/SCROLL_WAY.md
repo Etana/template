@@ -1,7 +1,7 @@
 # Variable SCROLL_WAY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SCROLL_WAY)
+[Ajouter une description](https://fa-tvars.appspot.com/SCROLL_WAY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

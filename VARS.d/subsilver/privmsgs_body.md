@@ -1,4 +1,4 @@
-# Variable de la template privmsgs_body (phpBB2)
+# Template privmsgs_body (phpBB2)
 
 [Code de la template](../../subsilver/privmsgs_body.tpl)
 

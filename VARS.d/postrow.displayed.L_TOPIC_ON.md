@@ -1,7 +1,7 @@
 # Variable postrow.displayed.L_TOPIC_ON
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.L_TOPIC_ON)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.displayed.L_TOPIC_ON)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

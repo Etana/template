@@ -1,7 +1,7 @@
 # Variable display_forum
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#display_forum)
+[Ajouter une description](https://fa-tvars.appspot.com/display_forum)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

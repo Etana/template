@@ -1,4 +1,4 @@
-# Variable de la template album_modcp_body (phpBB2)
+# Template album_modcp_body (phpBB2)
 
 [Code de la template](../../subsilver/album_modcp_body.tpl)
 

@@ -1,4 +1,4 @@
-# Variable de la template search_username (PunBB)
+# Template search_username (PunBB)
 
 [Code de la template](../../punbb/search_username.tpl)
 

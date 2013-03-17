@@ -1,7 +1,7 @@
 # Variable catrow.cathead.CLASS_ROWPIC
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#catrow.cathead.CLASS_ROWPIC)
+[Ajouter une description](https://fa-tvars.appspot.com/catrow.cathead.CLASS_ROWPIC)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

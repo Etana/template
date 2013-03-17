@@ -1,7 +1,7 @@
 # Variable L_TOP10_STATS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_TOP10_STATS)
+[Ajouter une description](https://fa-tvars.appspot.com/L_TOP10_STATS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

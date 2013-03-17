@@ -1,4 +1,4 @@
-# Variable de la template birthday_list_box (PunBB)
+# Template birthday_list_box (PunBB)
 
 [Code de la template](../../punbb/birthday_list_box.tpl)
 

@@ -1,7 +1,7 @@
 # Variable NUFF_SEPIA_CHECKED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#NUFF_SEPIA_CHECKED)
+[Ajouter une description](https://fa-tvars.appspot.com/NUFF_SEPIA_CHECKED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

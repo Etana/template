@@ -1,7 +1,7 @@
 # Variable L_MAX_UPLOADSIZE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_MAX_UPLOADSIZE)
+[Ajouter une description](https://fa-tvars.appspot.com/L_MAX_UPLOADSIZE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

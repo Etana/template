@@ -1,7 +1,7 @@
 # Variable JS_SESSION_ID_INPUT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#JS_SESSION_ID_INPUT)
+[Ajouter une description](https://fa-tvars.appspot.com/JS_SESSION_ID_INPUT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

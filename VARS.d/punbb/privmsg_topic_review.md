@@ -1,4 +1,4 @@
-# Variable de la template privmsg_topic_review (PunBB)
+# Template privmsg_topic_review (PunBB)
 
 [Code de la template](../../punbb/privmsg_topic_review.tpl)
 

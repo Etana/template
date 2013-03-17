@@ -1,7 +1,7 @@
 # Variable ALWAYS_ALLOW_SMILIES_NO
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#ALWAYS_ALLOW_SMILIES_NO)
+[Ajouter une description](https://fa-tvars.appspot.com/ALWAYS_ALLOW_SMILIES_NO)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

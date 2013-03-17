@@ -1,7 +1,7 @@
 # Variable display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED)
+[Ajouter une description](https://fa-tvars.appspot.com/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

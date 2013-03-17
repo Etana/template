@@ -1,7 +1,7 @@
 # Variable scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER)
+[Ajouter une description](https://fa-tvars.appspot.com/scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

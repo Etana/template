@@ -1,7 +1,7 @@
 # Variable UPLOAD_FULL_LINK
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#UPLOAD_FULL_LINK)
+[Ajouter une description](https://fa-tvars.appspot.com/UPLOAD_FULL_LINK)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable L_DATE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_DATE)
+[Ajouter une description](https://fa-tvars.appspot.com/L_DATE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

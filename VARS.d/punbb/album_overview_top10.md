@@ -1,4 +1,4 @@
-# Variable de la template album_overview_top10 (PunBB)
+# Template album_overview_top10 (PunBB)
 
 [Code de la template](../../punbb/album_overview_top10.tpl)
 

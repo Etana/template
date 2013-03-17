@@ -1,7 +1,7 @@
 # Variable switch_report_popup.S_WIDTH
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_report_popup.S_WIDTH)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_report_popup.S_WIDTH)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

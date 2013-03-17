@@ -1,7 +1,7 @@
 # Variable L_MORE_SMILIES
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_MORE_SMILIES)
+[Ajouter une description](https://fa-tvars.appspot.com/L_MORE_SMILIES)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

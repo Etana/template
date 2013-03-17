@@ -1,7 +1,7 @@
 # Variable _calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT)
+[Ajouter une description](https://fa-tvars.appspot.com/_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

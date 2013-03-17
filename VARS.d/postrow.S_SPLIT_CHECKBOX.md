@@ -1,7 +1,7 @@
 # Variable postrow.S_SPLIT_CHECKBOX
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.S_SPLIT_CHECKBOX)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.S_SPLIT_CHECKBOX)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

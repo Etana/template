@@ -1,7 +1,7 @@
 # Variable switch_leave_shadow
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_leave_shadow)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_leave_shadow)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

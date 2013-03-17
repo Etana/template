@@ -1,4 +1,4 @@
-# Variable de la template confirm_body (PunBB)
+# Template confirm_body (PunBB)
 
 [Code de la template](../../punbb/confirm_body.tpl)
 

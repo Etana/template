@@ -1,4 +1,4 @@
-# Variable de la template greeting_popup (PunBB)
+# Template greeting_popup (PunBB)
 
 [Code de la template](../../punbb/greeting_popup.tpl)
 

@@ -1,7 +1,7 @@
 # Variable switch_roll_dice.L_DICE_ROLLS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_roll_dice.L_DICE_ROLLS)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_roll_dice.L_DICE_ROLLS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

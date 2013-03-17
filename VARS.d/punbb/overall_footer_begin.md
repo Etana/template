@@ -1,4 +1,4 @@
-# Variable de la template overall_footer_begin (PunBB)
+# Template overall_footer_begin (PunBB)
 
 [Code de la template](../../punbb/overall_footer_begin.tpl)
 

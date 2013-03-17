@@ -1,7 +1,7 @@
 # Variable switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

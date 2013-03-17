@@ -1,4 +1,4 @@
-# Variable de la template posting_body_wysiwyg (PunBB)
+# Template posting_body_wysiwyg (PunBB)
 
 [Code de la template](../../punbb/posting_body_wysiwyg.tpl)
 

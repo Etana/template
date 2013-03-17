@@ -1,4 +1,4 @@
-# Variable de la template mod_chatbox (PunBB)
+# Template mod_chatbox (PunBB)
 
 [Code de la template](../../punbb/mod_chatbox.tpl)
 

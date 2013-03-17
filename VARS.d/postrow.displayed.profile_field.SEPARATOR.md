@@ -1,7 +1,7 @@
 # Variable postrow.displayed.profile_field.SEPARATOR
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.profile_field.SEPARATOR)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.displayed.profile_field.SEPARATOR)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

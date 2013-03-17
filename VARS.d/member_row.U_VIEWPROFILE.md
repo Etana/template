@@ -1,7 +1,7 @@
 # Variable member_row.U_VIEWPROFILE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#member_row.U_VIEWPROFILE)
+[Ajouter une description](https://fa-tvars.appspot.com/member_row.U_VIEWPROFILE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

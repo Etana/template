@@ -1,4 +1,4 @@
-# Variable de la template mod_keywords (phpBB2)
+# Template mod_keywords (phpBB2)
 
 [Code de la template](../../subsilver/mod_keywords.tpl)
 

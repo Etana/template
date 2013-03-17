@@ -1,7 +1,7 @@
 # Variable cat_personal_footer.L_YOUR_PERSONAL_GALLERY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#cat_personal_footer.L_YOUR_PERSONAL_GALLERY)
+[Ajouter une description](https://fa-tvars.appspot.com/cat_personal_footer.L_YOUR_PERSONAL_GALLERY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

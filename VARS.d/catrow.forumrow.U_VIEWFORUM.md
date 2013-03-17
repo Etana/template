@@ -1,7 +1,7 @@
 # Variable catrow.forumrow.U_VIEWFORUM
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#catrow.forumrow.U_VIEWFORUM)
+[Ajouter une description](https://fa-tvars.appspot.com/catrow.forumrow.U_VIEWFORUM)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable list_pics_block.list_pics.STAT_CLASS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#list_pics_block.list_pics.STAT_CLASS)
+[Ajouter une description](https://fa-tvars.appspot.com/list_pics_block.list_pics.STAT_CLASS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

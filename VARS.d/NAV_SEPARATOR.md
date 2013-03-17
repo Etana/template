@@ -1,7 +1,7 @@
 # Variable NAV_SEPARATOR
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#NAV_SEPARATOR)
+[Ajouter une description](https://fa-tvars.appspot.com/NAV_SEPARATOR)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

@@ -1,7 +1,7 @@
 # Variable L_NOTIFY_POST_PREVENT_EXPLAIN
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_NOTIFY_POST_PREVENT_EXPLAIN)
+[Ajouter une description](https://fa-tvars.appspot.com/L_NOTIFY_POST_PREVENT_EXPLAIN)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

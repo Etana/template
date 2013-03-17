@@ -1,7 +1,7 @@
 # Variable GOOGLE_CODE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#GOOGLE_CODE)
+[Ajouter une description](https://fa-tvars.appspot.com/GOOGLE_CODE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

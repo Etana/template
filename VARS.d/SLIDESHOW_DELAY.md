@@ -1,7 +1,7 @@
 # Variable SLIDESHOW_DELAY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SLIDESHOW_DELAY)
+[Ajouter une description](https://fa-tvars.appspot.com/SLIDESHOW_DELAY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

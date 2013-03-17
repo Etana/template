@@ -1,7 +1,7 @@
 # Variable switch_preferences_menu.switch_report.NO_REPORT_MAIL_NO
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_preferences_menu.switch_report.NO_REPORT_MAIL_NO)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_preferences_menu.switch_report.NO_REPORT_MAIL_NO)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

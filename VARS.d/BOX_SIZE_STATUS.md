@@ -1,7 +1,7 @@
 # Variable BOX_SIZE_STATUS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#BOX_SIZE_STATUS)
+[Ajouter une description](https://fa-tvars.appspot.com/BOX_SIZE_STATUS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

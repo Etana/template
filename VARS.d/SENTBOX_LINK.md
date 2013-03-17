@@ -1,7 +1,7 @@
 # Variable SENTBOX_LINK
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SENTBOX_LINK)
+[Ajouter une description](https://fa-tvars.appspot.com/SENTBOX_LINK)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

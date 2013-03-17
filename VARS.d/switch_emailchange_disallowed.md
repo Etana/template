@@ -1,7 +1,7 @@
 # Variable switch_emailchange_disallowed
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_emailchange_disallowed)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_emailchange_disallowed)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

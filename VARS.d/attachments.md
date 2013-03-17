@@ -1,7 +1,7 @@
 # Variable attachments
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#attachments)
+[Ajouter une description](https://fa-tvars.appspot.com/attachments)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

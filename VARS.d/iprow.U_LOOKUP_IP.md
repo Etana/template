@@ -1,7 +1,7 @@
 # Variable iprow.U_LOOKUP_IP
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#iprow.U_LOOKUP_IP)
+[Ajouter une description](https://fa-tvars.appspot.com/iprow.U_LOOKUP_IP)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

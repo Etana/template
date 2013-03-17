@@ -1,7 +1,7 @@
 # Variable VOTE_LCAP_IMG
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#VOTE_LCAP_IMG)
+[Ajouter une description](https://fa-tvars.appspot.com/VOTE_LCAP_IMG)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

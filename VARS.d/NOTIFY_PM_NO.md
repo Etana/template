@@ -1,7 +1,7 @@
 # Variable NOTIFY_PM_NO
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#NOTIFY_PM_NO)
+[Ajouter une description](https://fa-tvars.appspot.com/NOTIFY_PM_NO)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

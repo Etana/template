@@ -1,4 +1,4 @@
-# Variable de la template profile_avatar_gallery (PunBB)
+# Template profile_avatar_gallery (PunBB)
 
 [Code de la template](../../punbb/profile_avatar_gallery.tpl)
 

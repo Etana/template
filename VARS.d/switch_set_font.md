@@ -1,7 +1,7 @@
 # Variable switch_set_font
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_set_font)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_set_font)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

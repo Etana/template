@@ -1,7 +1,7 @@
 # Variable SITE_DESCRIPTION
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SITE_DESCRIPTION)
+[Ajouter une description](https://fa-tvars.appspot.com/SITE_DESCRIPTION)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

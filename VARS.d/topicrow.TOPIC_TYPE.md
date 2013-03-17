@@ -1,7 +1,7 @@
 # Variable topicrow.TOPIC_TYPE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#topicrow.TOPIC_TYPE)
+[Ajouter une description](https://fa-tvars.appspot.com/topicrow.TOPIC_TYPE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

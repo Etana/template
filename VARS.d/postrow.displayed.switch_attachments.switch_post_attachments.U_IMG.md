@@ -1,7 +1,7 @@
 # Variable postrow.displayed.switch_attachments.switch_post_attachments.U_IMG
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.switch_attachments.switch_post_attachments.U_IMG)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.displayed.switch_attachments.switch_post_attachments.U_IMG)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

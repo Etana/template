@@ -1,7 +1,7 @@
 # Variable profile_field.ID
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#profile_field.ID)
+[Ajouter une description](https://fa-tvars.appspot.com/profile_field.ID)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

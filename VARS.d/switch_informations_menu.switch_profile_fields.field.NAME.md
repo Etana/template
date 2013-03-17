@@ -1,7 +1,7 @@
 # Variable switch_informations_menu.switch_profile_fields.field.NAME
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_informations_menu.switch_profile_fields.field.NAME)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_informations_menu.switch_profile_fields.field.NAME)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable rpg_fields.F_VALUE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#rpg_fields.F_VALUE)
+[Ajouter une description](https://fa-tvars.appspot.com/rpg_fields.F_VALUE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

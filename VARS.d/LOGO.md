@@ -1,7 +1,7 @@
 # Variable LOGO
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#LOGO)
+[Ajouter une description](https://fa-tvars.appspot.com/LOGO)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

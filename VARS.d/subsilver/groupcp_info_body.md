@@ -1,4 +1,4 @@
-# Variable de la template groupcp_info_body (phpBB2)
+# Template groupcp_info_body (phpBB2)
 
 [Code de la template](../../subsilver/groupcp_info_body.tpl)
 

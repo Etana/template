@@ -1,4 +1,4 @@
-# Variable de la template viewonline_body (PunBB)
+# Template viewonline_body (PunBB)
 
 [Code de la template](../../punbb/viewonline_body.tpl)
 

@@ -1,4 +1,4 @@
-# Variable de la template groupcp_pending_info (phpBB2)
+# Template groupcp_pending_info (phpBB2)
 
 [Code de la template](../../subsilver/groupcp_pending_info.tpl)
 

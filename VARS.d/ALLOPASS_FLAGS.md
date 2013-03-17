@@ -1,7 +1,7 @@
 # Variable ALLOPASS_FLAGS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#ALLOPASS_FLAGS)
+[Ajouter une description](https://fa-tvars.appspot.com/ALLOPASS_FLAGS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

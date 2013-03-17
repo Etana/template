@@ -1,7 +1,7 @@
 # Variable build_categories_block.recent_pics.recent_detail.THUMBNAIL
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#build_categories_block.recent_pics.recent_detail.THUMBNAIL)
+[Ajouter une description](https://fa-tvars.appspot.com/build_categories_block.recent_pics.recent_detail.THUMBNAIL)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

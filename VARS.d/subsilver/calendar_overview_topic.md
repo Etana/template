@@ -1,4 +1,4 @@
-# Variable de la template calendar_overview_topic (phpBB2)
+# Template calendar_overview_topic (phpBB2)
 
 [Code de la template](../../subsilver/calendar_overview_topic.tpl)
 

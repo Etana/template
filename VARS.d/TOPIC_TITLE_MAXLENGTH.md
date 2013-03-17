@@ -1,7 +1,7 @@
 # Variable TOPIC_TITLE_MAXLENGTH
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#TOPIC_TITLE_MAXLENGTH)
+[Ajouter une description](https://fa-tvars.appspot.com/TOPIC_TITLE_MAXLENGTH)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

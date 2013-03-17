@@ -1,7 +1,7 @@
 # Variable SORT_USERNAME_OPTION
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SORT_USERNAME_OPTION)
+[Ajouter une description](https://fa-tvars.appspot.com/SORT_USERNAME_OPTION)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

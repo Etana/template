@@ -1,7 +1,7 @@
 # Variable NAV_CAT_DESC_SECOND
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#NAV_CAT_DESC_SECOND)
+[Ajouter une description](https://fa-tvars.appspot.com/NAV_CAT_DESC_SECOND)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

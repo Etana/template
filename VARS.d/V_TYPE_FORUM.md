@@ -1,7 +1,7 @@
 # Variable V_TYPE_FORUM
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#V_TYPE_FORUM)
+[Ajouter une description](https://fa-tvars.appspot.com/V_TYPE_FORUM)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

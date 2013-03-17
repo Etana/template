@@ -1,4 +1,4 @@
-# Variable de la template posting_confirm_code (PunBB)
+# Template posting_confirm_code (PunBB)
 
 [Code de la template](../../punbb/posting_confirm_code.tpl)
 

@@ -1,4 +1,4 @@
-# Variable de la template index_box (PunBB)
+# Template index_box (PunBB)
 
 [Code de la template](../../punbb/index_box.tpl)
 

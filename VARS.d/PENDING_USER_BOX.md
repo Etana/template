@@ -1,7 +1,7 @@
 # Variable PENDING_USER_BOX
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#PENDING_USER_BOX)
+[Ajouter une description](https://fa-tvars.appspot.com/PENDING_USER_BOX)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

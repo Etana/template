@@ -1,7 +1,7 @@
 # Variable SELECT_CAT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SELECT_CAT)
+[Ajouter une description](https://fa-tvars.appspot.com/SELECT_CAT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

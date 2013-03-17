@@ -1,4 +1,4 @@
-# Variable de la template album_nuffimage_box (PunBB)
+# Template album_nuffimage_box (PunBB)
 
 [Code de la template](../../punbb/album_nuffimage_box.tpl)
 

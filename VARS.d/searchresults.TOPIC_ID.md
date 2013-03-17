@@ -1,7 +1,7 @@
 # Variable searchresults.TOPIC_ID
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#searchresults.TOPIC_ID)
+[Ajouter une description](https://fa-tvars.appspot.com/searchresults.TOPIC_ID)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

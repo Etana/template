@@ -1,7 +1,7 @@
 # Variable no_pics_personal.U_CREATE_PERSONAL_GALLERY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#no_pics_personal.U_CREATE_PERSONAL_GALLERY)
+[Ajouter une description](https://fa-tvars.appspot.com/no_pics_personal.U_CREATE_PERSONAL_GALLERY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

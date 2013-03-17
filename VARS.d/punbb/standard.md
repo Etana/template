@@ -1,4 +1,4 @@
-# Variable de la template standard (PunBB)
+# Template standard (PunBB)
 
 [Code de la template](../../punbb/standard.tpl)
 

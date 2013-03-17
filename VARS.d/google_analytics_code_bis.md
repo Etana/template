@@ -1,7 +1,7 @@
 # Variable google_analytics_code_bis
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#google_analytics_code_bis)
+[Ajouter une description](https://fa-tvars.appspot.com/google_analytics_code_bis)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

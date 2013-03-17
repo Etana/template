@@ -1,4 +1,4 @@
-# Variable de la template topics_list_box (PunBB)
+# Template topics_list_box (PunBB)
 
 [Code de la template](../../punbb/topics_list_box.tpl)
 

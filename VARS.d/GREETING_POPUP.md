@@ -1,7 +1,7 @@
 # Variable GREETING_POPUP
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#GREETING_POPUP)
+[Ajouter une description](https://fa-tvars.appspot.com/GREETING_POPUP)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

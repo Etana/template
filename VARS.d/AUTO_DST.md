@@ -1,7 +1,7 @@
 # Variable AUTO_DST
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#AUTO_DST)
+[Ajouter une description](https://fa-tvars.appspot.com/AUTO_DST)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

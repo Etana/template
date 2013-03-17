@@ -1,4 +1,4 @@
-# Variable de la template overall_header (PunBB)
+# Template overall_header (PunBB)
 
 [Code de la template](../../punbb/overall_header.tpl)
 

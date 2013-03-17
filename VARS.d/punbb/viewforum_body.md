@@ -1,4 +1,4 @@
-# Variable de la template viewforum_body (PunBB)
+# Template viewforum_body (PunBB)
 
 [Code de la template](../../punbb/viewforum_body.tpl)
 

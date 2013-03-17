@@ -1,7 +1,7 @@
 # Variable L_PUBLIC_VIEW_MP
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_PUBLIC_VIEW_MP)
+[Ajouter une description](https://fa-tvars.appspot.com/L_PUBLIC_VIEW_MP)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,4 +1,4 @@
-# Variable de la template profile_edit_signature (phpBB2)
+# Template profile_edit_signature (phpBB2)
 
 [Code de la template](../../subsilver/profile_edit_signature.tpl)
 

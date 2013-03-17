@@ -1,4 +1,4 @@
-# Variable de la template mod_most_active_topics (PunBB)
+# Template mod_most_active_topics (PunBB)
 
 [Code de la template](../../punbb/mod_most_active_topics.tpl)
 

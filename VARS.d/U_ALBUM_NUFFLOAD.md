@@ -1,7 +1,7 @@
 # Variable U_ALBUM_NUFFLOAD
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#U_ALBUM_NUFFLOAD)
+[Ajouter une description](https://fa-tvars.appspot.com/U_ALBUM_NUFFLOAD)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

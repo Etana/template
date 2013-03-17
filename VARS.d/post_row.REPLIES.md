@@ -1,7 +1,7 @@
 # Variable post_row.REPLIES
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#post_row.REPLIES)
+[Ajouter une description](https://fa-tvars.appspot.com/post_row.REPLIES)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

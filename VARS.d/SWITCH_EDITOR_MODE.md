@@ -1,7 +1,7 @@
 # Variable SWITCH_EDITOR_MODE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SWITCH_EDITOR_MODE)
+[Ajouter une description](https://fa-tvars.appspot.com/SWITCH_EDITOR_MODE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

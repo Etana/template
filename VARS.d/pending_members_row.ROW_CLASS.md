@@ -1,7 +1,7 @@
 # Variable pending_members_row.ROW_CLASS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#pending_members_row.ROW_CLASS)
+[Ajouter une description](https://fa-tvars.appspot.com/pending_members_row.ROW_CLASS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

@@ -1,7 +1,7 @@
 # Variable topics_list_box.row.L_VIEWS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#topics_list_box.row.L_VIEWS)
+[Ajouter une description](https://fa-tvars.appspot.com/topics_list_box.row.L_VIEWS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

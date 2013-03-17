@@ -1,7 +1,7 @@
 # Variable DES_LIST
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#DES_LIST)
+[Ajouter une description](https://fa-tvars.appspot.com/DES_LIST)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,4 +1,4 @@
-# Variable de la template posting_preview (PunBB)
+# Template posting_preview (PunBB)
 
 [Code de la template](../../punbb/posting_preview.tpl)
 

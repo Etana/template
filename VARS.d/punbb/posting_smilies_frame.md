@@ -1,4 +1,4 @@
-# Variable de la template posting_smilies_frame (PunBB)
+# Template posting_smilies_frame (PunBB)
 
 [Code de la template](../../punbb/posting_smilies_frame.tpl)
 

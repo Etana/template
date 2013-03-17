@@ -1,7 +1,7 @@
 # Variable HOSTING_JS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#HOSTING_JS)
+[Ajouter une description](https://fa-tvars.appspot.com/HOSTING_JS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

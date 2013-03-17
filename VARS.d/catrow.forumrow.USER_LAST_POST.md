@@ -1,7 +1,7 @@
 # Variable catrow.forumrow.USER_LAST_POST
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#catrow.forumrow.USER_LAST_POST)
+[Ajouter une description](https://fa-tvars.appspot.com/catrow.forumrow.USER_LAST_POST)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

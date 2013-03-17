@@ -1,7 +1,7 @@
 # Variable smilies_row.smilies_col.SMILEY_DESC
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#smilies_row.smilies_col.SMILEY_DESC)
+[Ajouter une description](https://fa-tvars.appspot.com/smilies_row.smilies_col.SMILEY_DESC)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

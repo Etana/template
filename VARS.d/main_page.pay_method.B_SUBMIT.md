@@ -1,7 +1,7 @@
 # Variable main_page.pay_method.B_SUBMIT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#main_page.pay_method.B_SUBMIT)
+[Ajouter une description](https://fa-tvars.appspot.com/main_page.pay_method.B_SUBMIT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

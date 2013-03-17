@@ -1,4 +1,4 @@
-# Variable de la template profile_avatar_gallery (phpBB2)
+# Template profile_avatar_gallery (phpBB2)
 
 [Code de la template](../../subsilver/profile_avatar_gallery.tpl)
 

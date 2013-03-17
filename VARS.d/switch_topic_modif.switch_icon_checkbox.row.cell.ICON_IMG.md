@@ -1,7 +1,7 @@
 # Variable switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

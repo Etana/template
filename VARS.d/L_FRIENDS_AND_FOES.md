@@ -1,7 +1,7 @@
 # Variable L_FRIENDS_AND_FOES
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_FRIENDS_AND_FOES)
+[Ajouter une description](https://fa-tvars.appspot.com/L_FRIENDS_AND_FOES)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

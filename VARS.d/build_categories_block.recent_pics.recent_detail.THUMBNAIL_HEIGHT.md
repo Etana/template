@@ -1,7 +1,7 @@
 # Variable build_categories_block.recent_pics.recent_detail.THUMBNAIL_HEIGHT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#build_categories_block.recent_pics.recent_detail.THUMBNAIL_HEIGHT)
+[Ajouter une description](https://fa-tvars.appspot.com/build_categories_block.recent_pics.recent_detail.THUMBNAIL_HEIGHT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

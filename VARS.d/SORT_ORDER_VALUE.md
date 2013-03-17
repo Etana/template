@@ -1,7 +1,7 @@
 # Variable SORT_ORDER_VALUE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SORT_ORDER_VALUE)
+[Ajouter une description](https://fa-tvars.appspot.com/SORT_ORDER_VALUE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

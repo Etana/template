@@ -1,7 +1,7 @@
 # Variable forumrow.L_SUBFORUM_STR
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#forumrow.L_SUBFORUM_STR)
+[Ajouter une description](https://fa-tvars.appspot.com/forumrow.L_SUBFORUM_STR)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

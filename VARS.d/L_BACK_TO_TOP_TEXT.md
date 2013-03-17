@@ -1,7 +1,7 @@
 # Variable L_BACK_TO_TOP_TEXT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_BACK_TO_TOP_TEXT)
+[Ajouter une description](https://fa-tvars.appspot.com/L_BACK_TO_TOP_TEXT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

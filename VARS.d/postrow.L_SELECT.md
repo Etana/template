@@ -1,7 +1,7 @@
 # Variable postrow.L_SELECT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.L_SELECT)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.L_SELECT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable out_giefmod0.MODVAR
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#out_giefmod0.MODVAR)
+[Ajouter une description](https://fa-tvars.appspot.com/out_giefmod0.MODVAR)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

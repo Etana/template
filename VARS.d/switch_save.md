@@ -1,7 +1,7 @@
 # Variable switch_save
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_save)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_save)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

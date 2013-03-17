@@ -1,4 +1,4 @@
-# Variable de la template posting_topic_review (PunBB)
+# Template posting_topic_review (PunBB)
 
 [Code de la template](../../punbb/posting_topic_review.tpl)
 

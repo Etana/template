@@ -1,7 +1,7 @@
 # Variable POSTED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#POSTED)
+[Ajouter une description](https://fa-tvars.appspot.com/POSTED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable POSTER.BARRE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#POSTER.BARRE)
+[Ajouter une description](https://fa-tvars.appspot.com/POSTER.BARRE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

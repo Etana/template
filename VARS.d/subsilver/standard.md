@@ -1,4 +1,4 @@
-# Variable de la template standard (phpBB2)
+# Template standard (phpBB2)
 
 [Code de la template](../../subsilver/standard.tpl)
 

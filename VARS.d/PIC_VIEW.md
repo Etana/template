@@ -1,7 +1,7 @@
 # Variable PIC_VIEW
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#PIC_VIEW)
+[Ajouter une description](https://fa-tvars.appspot.com/PIC_VIEW)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

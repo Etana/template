@@ -1,7 +1,7 @@
 # Variable U_SEARCH_UNANSWERED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#U_SEARCH_UNANSWERED)
+[Ajouter une description](https://fa-tvars.appspot.com/U_SEARCH_UNANSWERED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

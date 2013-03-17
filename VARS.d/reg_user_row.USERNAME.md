@@ -1,7 +1,7 @@
 # Variable reg_user_row.USERNAME
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#reg_user_row.USERNAME)
+[Ajouter une description](https://fa-tvars.appspot.com/reg_user_row.USERNAME)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

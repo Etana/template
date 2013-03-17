@@ -1,7 +1,7 @@
 # Variable L_SUBMIT_VOTE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_SUBMIT_VOTE)
+[Ajouter une description](https://fa-tvars.appspot.com/L_SUBMIT_VOTE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

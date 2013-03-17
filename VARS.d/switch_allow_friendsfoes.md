@@ -1,7 +1,7 @@
 # Variable switch_allow_friendsfoes
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_allow_friendsfoes)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_allow_friendsfoes)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

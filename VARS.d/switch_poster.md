@@ -1,7 +1,7 @@
 # Variable switch_poster
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_poster)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_poster)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable listrow.SUBJECT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#listrow.SUBJECT)
+[Ajouter une description](https://fa-tvars.appspot.com/listrow.SUBJECT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

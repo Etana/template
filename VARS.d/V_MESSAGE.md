@@ -1,7 +1,7 @@
 # Variable V_MESSAGE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#V_MESSAGE)
+[Ajouter une description](https://fa-tvars.appspot.com/V_MESSAGE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

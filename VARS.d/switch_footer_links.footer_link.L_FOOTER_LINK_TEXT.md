@@ -1,7 +1,7 @@
 # Variable switch_footer_links.footer_link.L_FOOTER_LINK_TEXT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_footer_links.footer_link.L_FOOTER_LINK_TEXT)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

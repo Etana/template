@@ -1,4 +1,4 @@
-# Variable de la template report_list_body (PunBB)
+# Template report_list_body (PunBB)
 
 [Code de la template](../../punbb/report_list_body.tpl)
 

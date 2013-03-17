@@ -1,7 +1,7 @@
 # Variable _calendar_box.SPAN_ALL
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#_calendar_box.SPAN_ALL)
+[Ajouter une description](https://fa-tvars.appspot.com/_calendar_box.SPAN_ALL)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

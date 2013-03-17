@@ -1,7 +1,7 @@
 # Variable manage_personal_gal_folders
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#manage_personal_gal_folders)
+[Ajouter une description](https://fa-tvars.appspot.com/manage_personal_gal_folders)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

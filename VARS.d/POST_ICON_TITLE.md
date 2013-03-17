@@ -1,7 +1,7 @@
 # Variable POST_ICON_TITLE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#POST_ICON_TITLE)
+[Ajouter une description](https://fa-tvars.appspot.com/POST_ICON_TITLE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

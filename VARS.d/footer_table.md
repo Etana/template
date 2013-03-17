@@ -1,7 +1,7 @@
 # Variable footer_table
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#footer_table)
+[Ajouter une description](https://fa-tvars.appspot.com/footer_table)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

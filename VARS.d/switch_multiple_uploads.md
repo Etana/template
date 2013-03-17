@@ -1,7 +1,7 @@
 # Variable switch_multiple_uploads
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_multiple_uploads)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_multiple_uploads)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable faq_block_link.faq_row_link.U_FAQ_LINK
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#faq_block_link.faq_row_link.U_FAQ_LINK)
+[Ajouter une description](https://fa-tvars.appspot.com/faq_block_link.faq_row_link.U_FAQ_LINK)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

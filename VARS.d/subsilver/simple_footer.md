@@ -1,4 +1,4 @@
-# Variable de la template simple_footer (phpBB2)
+# Template simple_footer (phpBB2)
 
 [Code de la template](../../subsilver/simple_footer.tpl)
 

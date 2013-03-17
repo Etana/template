@@ -1,7 +1,7 @@
 # Variable MESSAGE_FROM
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#MESSAGE_FROM)
+[Ajouter une description](https://fa-tvars.appspot.com/MESSAGE_FROM)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

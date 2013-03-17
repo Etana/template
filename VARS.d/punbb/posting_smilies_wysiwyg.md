@@ -1,4 +1,4 @@
-# Variable de la template posting_smilies_wysiwyg (PunBB)
+# Template posting_smilies_wysiwyg (PunBB)
 
 [Code de la template](../../punbb/posting_smilies_wysiwyg.tpl)
 

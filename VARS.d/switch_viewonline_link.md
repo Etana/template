@@ -1,7 +1,7 @@
 # Variable switch_viewonline_link
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_viewonline_link)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_viewonline_link)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

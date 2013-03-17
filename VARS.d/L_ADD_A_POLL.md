@@ -1,7 +1,7 @@
 # Variable L_ADD_A_POLL
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_ADD_A_POLL)
+[Ajouter une description](https://fa-tvars.appspot.com/L_ADD_A_POLL)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

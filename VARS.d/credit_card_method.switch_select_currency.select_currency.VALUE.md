@@ -1,7 +1,7 @@
 # Variable credit_card_method.switch_select_currency.select_currency.VALUE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#credit_card_method.switch_select_currency.select_currency.VALUE)
+[Ajouter une description](https://fa-tvars.appspot.com/credit_card_method.switch_select_currency.select_currency.VALUE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

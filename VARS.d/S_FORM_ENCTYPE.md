@@ -1,7 +1,7 @@
 # Variable S_FORM_ENCTYPE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_FORM_ENCTYPE)
+[Ajouter une description](https://fa-tvars.appspot.com/S_FORM_ENCTYPE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

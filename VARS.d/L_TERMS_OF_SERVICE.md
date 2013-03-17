@@ -1,7 +1,7 @@
 # Variable L_TERMS_OF_SERVICE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_TERMS_OF_SERVICE)
+[Ajouter une description](https://fa-tvars.appspot.com/L_TERMS_OF_SERVICE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

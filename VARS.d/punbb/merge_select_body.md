@@ -1,4 +1,4 @@
-# Variable de la template merge_select_body (PunBB)
+# Template merge_select_body (PunBB)
 
 [Code de la template](../../punbb/merge_select_body.tpl)
 

@@ -1,7 +1,7 @@
 # Variable I_PIC_LOCKED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#I_PIC_LOCKED)
+[Ajouter une description](https://fa-tvars.appspot.com/I_PIC_LOCKED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

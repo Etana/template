@@ -1,7 +1,7 @@
 # Variable STRONG_LEVEL_PWD
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#STRONG_LEVEL_PWD)
+[Ajouter une description](https://fa-tvars.appspot.com/STRONG_LEVEL_PWD)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

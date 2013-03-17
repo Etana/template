@@ -1,7 +1,7 @@
 # Variable MESSAGE_NEW
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#MESSAGE_NEW)
+[Ajouter une description](https://fa-tvars.appspot.com/MESSAGE_NEW)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable list_pics_block.legend_stat.L_LEGEND_STAT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#list_pics_block.legend_stat.L_LEGEND_STAT)
+[Ajouter une description](https://fa-tvars.appspot.com/list_pics_block.legend_stat.L_LEGEND_STAT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

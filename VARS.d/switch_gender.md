@@ -1,7 +1,7 @@
 # Variable switch_gender
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_gender)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_gender)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,4 +1,4 @@
-# Variable de la template groupcp_user_body (PunBB)
+# Template groupcp_user_body (PunBB)
 
 [Code de la template](../../punbb/groupcp_user_body.tpl)
 

@@ -1,7 +1,7 @@
 # Variable V_CALE_DUR_MIN
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#V_CALE_DUR_MIN)
+[Ajouter une description](https://fa-tvars.appspot.com/V_CALE_DUR_MIN)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

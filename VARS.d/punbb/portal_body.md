@@ -1,4 +1,4 @@
-# Variable de la template portal_body (PunBB)
+# Template portal_body (PunBB)
 
 [Code de la template](../../punbb/portal_body.tpl)
 

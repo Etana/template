@@ -1,7 +1,7 @@
 # Variable pending_members_row.POSTS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#pending_members_row.POSTS)
+[Ajouter une description](https://fa-tvars.appspot.com/pending_members_row.POSTS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

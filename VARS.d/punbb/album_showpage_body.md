@@ -1,4 +1,4 @@
-# Variable de la template album_showpage_body (PunBB)
+# Template album_showpage_body (PunBB)
 
 [Code de la template](../../punbb/album_showpage_body.tpl)
 

@@ -1,7 +1,7 @@
 # Variable S_SMILIES_COLSPAN
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_SMILIES_COLSPAN)
+[Ajouter une description](https://fa-tvars.appspot.com/S_SMILIES_COLSPAN)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

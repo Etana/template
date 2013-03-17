@@ -1,4 +1,4 @@
-# Variable de la template mod_keywords (PunBB)
+# Template mod_keywords (PunBB)
 
 [Code de la template](../../punbb/mod_keywords.tpl)
 

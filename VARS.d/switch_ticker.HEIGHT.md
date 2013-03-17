@@ -1,7 +1,7 @@
 # Variable switch_ticker.HEIGHT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_ticker.HEIGHT)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_ticker.HEIGHT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

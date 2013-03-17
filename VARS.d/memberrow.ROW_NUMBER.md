@@ -1,7 +1,7 @@
 # Variable memberrow.ROW_NUMBER
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#memberrow.ROW_NUMBER)
+[Ajouter une description](https://fa-tvars.appspot.com/memberrow.ROW_NUMBER)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

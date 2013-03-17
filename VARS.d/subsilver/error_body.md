@@ -1,4 +1,4 @@
-# Variable de la template error_body (phpBB2)
+# Template error_body (phpBB2)
 
 [Code de la template](../../subsilver/error_body.tpl)
 

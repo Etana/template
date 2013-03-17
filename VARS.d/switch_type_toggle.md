@@ -1,7 +1,7 @@
 # Variable switch_type_toggle
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_type_toggle)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_type_toggle)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

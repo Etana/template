@@ -1,7 +1,7 @@
 # Variable L_UNCHECK_ALL
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_UNCHECK_ALL)
+[Ajouter une description](https://fa-tvars.appspot.com/L_UNCHECK_ALL)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

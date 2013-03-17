@@ -1,4 +1,4 @@
-# Variable de la template profile_edit_signature (PunBB)
+# Template profile_edit_signature (PunBB)
 
 [Code de la template](../../punbb/profile_edit_signature.tpl)
 

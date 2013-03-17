@@ -1,7 +1,7 @@
 # Variable poll_option_rows
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#poll_option_rows)
+[Ajouter une description](https://fa-tvars.appspot.com/poll_option_rows)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

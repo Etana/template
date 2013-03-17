@@ -1,7 +1,7 @@
 # Variable moderation_panel.U_YOUR_PERSONAL_MODERATE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#moderation_panel.U_YOUR_PERSONAL_MODERATE)
+[Ajouter une description](https://fa-tvars.appspot.com/moderation_panel.U_YOUR_PERSONAL_MODERATE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

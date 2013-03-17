@@ -1,7 +1,7 @@
 # Variable switch_mod_option
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_mod_option)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_mod_option)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

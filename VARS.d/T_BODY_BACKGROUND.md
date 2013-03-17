@@ -1,7 +1,7 @@
 # Variable T_BODY_BACKGROUND
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#T_BODY_BACKGROUND)
+[Ajouter une description](https://fa-tvars.appspot.com/T_BODY_BACKGROUND)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

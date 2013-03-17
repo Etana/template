@@ -1,7 +1,7 @@
 # Variable NB_PM_READ
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#NB_PM_READ)
+[Ajouter une description](https://fa-tvars.appspot.com/NB_PM_READ)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

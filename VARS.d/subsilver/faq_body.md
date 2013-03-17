@@ -1,4 +1,4 @@
-# Variable de la template faq_body (phpBB2)
+# Template faq_body (phpBB2)
 
 [Code de la template](../../subsilver/faq_body.tpl)
 

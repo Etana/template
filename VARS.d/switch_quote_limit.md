@@ -1,7 +1,7 @@
 # Variable switch_quote_limit
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_quote_limit)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_quote_limit)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

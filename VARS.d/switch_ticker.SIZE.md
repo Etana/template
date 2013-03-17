@@ -1,7 +1,7 @@
 # Variable switch_ticker.SIZE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_ticker.SIZE)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_ticker.SIZE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

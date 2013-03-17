@@ -1,4 +1,4 @@
-# Variable de la template mod_news (phpBB2)
+# Template mod_news (phpBB2)
 
 [Code de la template](../../subsilver/mod_news.tpl)
 

@@ -1,4 +1,4 @@
-# Variable de la template album_search_body (PunBB)
+# Template album_search_body (PunBB)
 
 [Code de la template](../../punbb/album_search_body.tpl)
 

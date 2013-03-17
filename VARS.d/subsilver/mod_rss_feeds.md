@@ -1,4 +1,4 @@
-# Variable de la template mod_rss_feeds (phpBB2)
+# Template mod_rss_feeds (phpBB2)
 
 [Code de la template](../../subsilver/mod_rss_feeds.tpl)
 

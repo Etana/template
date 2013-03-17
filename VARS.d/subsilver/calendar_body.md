@@ -1,4 +1,4 @@
-# Variable de la template calendar_body (phpBB2)
+# Template calendar_body (phpBB2)
 
 [Code de la template](../../subsilver/calendar_body.tpl)
 

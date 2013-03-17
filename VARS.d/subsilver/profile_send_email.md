@@ -1,4 +1,4 @@
-# Variable de la template profile_send_email (phpBB2)
+# Template profile_send_email (phpBB2)
 
 [Code de la template](../../subsilver/profile_send_email.tpl)
 

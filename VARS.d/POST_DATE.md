@@ -1,7 +1,7 @@
 # Variable POST_DATE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#POST_DATE)
+[Ajouter une description](https://fa-tvars.appspot.com/POST_DATE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable first_post_br
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#first_post_br)
+[Ajouter une description](https://fa-tvars.appspot.com/first_post_br)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

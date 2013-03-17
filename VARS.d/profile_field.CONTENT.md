@@ -1,7 +1,7 @@
 # Variable profile_field.CONTENT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#profile_field.CONTENT)
+[Ajouter une description](https://fa-tvars.appspot.com/profile_field.CONTENT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

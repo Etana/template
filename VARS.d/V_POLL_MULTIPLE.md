@@ -1,7 +1,7 @@
 # Variable V_POLL_MULTIPLE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#V_POLL_MULTIPLE)
+[Ajouter une description](https://fa-tvars.appspot.com/V_POLL_MULTIPLE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

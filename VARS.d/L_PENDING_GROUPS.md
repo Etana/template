@@ -1,7 +1,7 @@
 # Variable L_PENDING_GROUPS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_PENDING_GROUPS)
+[Ajouter une description](https://fa-tvars.appspot.com/L_PENDING_GROUPS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

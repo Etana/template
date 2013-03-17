@@ -1,7 +1,7 @@
 # Variable searchresults.U_TOPIC
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#searchresults.U_TOPIC)
+[Ajouter une description](https://fa-tvars.appspot.com/searchresults.U_TOPIC)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

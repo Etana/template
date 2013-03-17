@@ -1,7 +1,7 @@
 # Variable avatar_option_column
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#avatar_option_column)
+[Ajouter une description](https://fa-tvars.appspot.com/avatar_option_column)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

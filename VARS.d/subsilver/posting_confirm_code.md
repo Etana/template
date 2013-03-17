@@ -1,4 +1,4 @@
-# Variable de la template posting_confirm_code (phpBB2)
+# Template posting_confirm_code (phpBB2)
 
 [Code de la template](../../subsilver/posting_confirm_code.tpl)
 

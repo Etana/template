@@ -1,4 +1,4 @@
-# Variable de la template jumpbox (phpBB2)
+# Template jumpbox (phpBB2)
 
 [Code de la template](../../subsilver/jumpbox.tpl)
 

@@ -1,7 +1,7 @@
 # Variable L_SLIDESHOW_ONOFF
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_SLIDESHOW_ONOFF)
+[Ajouter une description](https://fa-tvars.appspot.com/L_SLIDESHOW_ONOFF)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

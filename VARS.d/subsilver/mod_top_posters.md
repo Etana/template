@@ -1,4 +1,4 @@
-# Variable de la template mod_top_posters (phpBB2)
+# Template mod_top_posters (phpBB2)
 
 [Code de la template](../../subsilver/mod_top_posters.tpl)
 

@@ -1,4 +1,4 @@
-# Variable de la template message_body (PunBB)
+# Template message_body (PunBB)
 
 [Code de la template](../../punbb/message_body.tpl)
 

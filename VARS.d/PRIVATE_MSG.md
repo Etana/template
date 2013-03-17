@@ -1,7 +1,7 @@
 # Variable PRIVATE_MSG
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#PRIVATE_MSG)
+[Ajouter une description](https://fa-tvars.appspot.com/PRIVATE_MSG)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable switch_subject_color
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_subject_color)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_subject_color)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

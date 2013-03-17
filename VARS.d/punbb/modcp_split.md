@@ -1,4 +1,4 @@
-# Variable de la template modcp_split (PunBB)
+# Template modcp_split (PunBB)
 
 [Code de la template](../../punbb/modcp_split.tpl)
 

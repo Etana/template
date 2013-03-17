@@ -1,7 +1,7 @@
 # Variable faq_block.faq_row.ROW_CLASS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#faq_block.faq_row.ROW_CLASS)
+[Ajouter une description](https://fa-tvars.appspot.com/faq_block.faq_row.ROW_CLASS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

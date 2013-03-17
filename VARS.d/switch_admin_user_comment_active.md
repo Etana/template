@@ -1,7 +1,7 @@
 # Variable switch_admin_user_comment_active
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_admin_user_comment_active)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_admin_user_comment_active)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

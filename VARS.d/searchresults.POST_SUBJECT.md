@@ -1,7 +1,7 @@
 # Variable searchresults.POST_SUBJECT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#searchresults.POST_SUBJECT)
+[Ajouter une description](https://fa-tvars.appspot.com/searchresults.POST_SUBJECT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

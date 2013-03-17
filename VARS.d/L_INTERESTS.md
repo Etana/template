@@ -1,7 +1,7 @@
 # Variable L_INTERESTS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_INTERESTS)
+[Ajouter une description](https://fa-tvars.appspot.com/L_INTERESTS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

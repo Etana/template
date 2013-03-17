@@ -1,4 +1,4 @@
-# Variable de la template poll_result (PunBB)
+# Template poll_result (PunBB)
 
 [Code de la template](../../punbb/poll_result.tpl)
 

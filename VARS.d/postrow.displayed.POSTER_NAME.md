@@ -1,7 +1,7 @@
 # Variable postrow.displayed.POSTER_NAME
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.POSTER_NAME)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.displayed.POSTER_NAME)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

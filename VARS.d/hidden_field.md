@@ -1,7 +1,7 @@
 # Variable hidden_field
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#hidden_field)
+[Ajouter une description](https://fa-tvars.appspot.com/hidden_field)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

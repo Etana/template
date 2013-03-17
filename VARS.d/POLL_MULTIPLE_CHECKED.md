@@ -1,7 +1,7 @@
 # Variable POLL_MULTIPLE_CHECKED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#POLL_MULTIPLE_CHECKED)
+[Ajouter une description](https://fa-tvars.appspot.com/POLL_MULTIPLE_CHECKED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

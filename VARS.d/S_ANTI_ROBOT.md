@@ -1,7 +1,7 @@
 # Variable S_ANTI_ROBOT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_ANTI_ROBOT)
+[Ajouter une description](https://fa-tvars.appspot.com/S_ANTI_ROBOT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

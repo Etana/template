@@ -1,7 +1,7 @@
 # Variable switch_manual_thumbnail
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_manual_thumbnail)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_manual_thumbnail)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

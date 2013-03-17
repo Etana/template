@@ -1,7 +1,7 @@
 # Variable _calendar_box.S_ACTION
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#_calendar_box.S_ACTION)
+[Ajouter une description](https://fa-tvars.appspot.com/_calendar_box.S_ACTION)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

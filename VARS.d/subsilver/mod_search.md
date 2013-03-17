@@ -1,4 +1,4 @@
-# Variable de la template mod_search (phpBB2)
+# Template mod_search (phpBB2)
 
 [Code de la template](../../subsilver/mod_search.tpl)
 

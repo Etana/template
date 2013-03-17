@@ -1,4 +1,4 @@
-# Variable de la template mod_chatbox (phpBB2)
+# Template mod_chatbox (phpBB2)
 
 [Code de la template](../../subsilver/mod_chatbox.tpl)
 

@@ -1,7 +1,7 @@
 # Variable cancel_vote
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#cancel_vote)
+[Ajouter une description](https://fa-tvars.appspot.com/cancel_vote)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

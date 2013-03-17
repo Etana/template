@@ -1,7 +1,7 @@
 # Variable SECURE_ID_NAME
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SECURE_ID_NAME)
+[Ajouter une description](https://fa-tvars.appspot.com/SECURE_ID_NAME)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

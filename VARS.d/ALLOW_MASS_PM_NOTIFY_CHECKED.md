@@ -1,7 +1,7 @@
 # Variable ALLOW_MASS_PM_NOTIFY_CHECKED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#ALLOW_MASS_PM_NOTIFY_CHECKED)
+[Ajouter une description](https://fa-tvars.appspot.com/ALLOW_MASS_PM_NOTIFY_CHECKED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

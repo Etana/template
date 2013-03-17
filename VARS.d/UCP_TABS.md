@@ -1,7 +1,7 @@
 # Variable UCP_TABS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#UCP_TABS)
+[Ajouter une description](https://fa-tvars.appspot.com/UCP_TABS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

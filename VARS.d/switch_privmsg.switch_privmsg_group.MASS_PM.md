@@ -1,7 +1,7 @@
 # Variable switch_privmsg.switch_privmsg_group.MASS_PM
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_privmsg.switch_privmsg_group.MASS_PM)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_privmsg.switch_privmsg_group.MASS_PM)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

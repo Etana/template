@@ -1,4 +1,4 @@
-# Variable de la template album_nuffimage_box (phpBB2)
+# Template album_nuffimage_box (phpBB2)
 
 [Code de la template](../../subsilver/album_nuffimage_box.tpl)
 

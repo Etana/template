@@ -1,7 +1,7 @@
 # Variable L_CONFIRM_PASSWORD
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_CONFIRM_PASSWORD)
+[Ajouter une description](https://fa-tvars.appspot.com/L_CONFIRM_PASSWORD)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

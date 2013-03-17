@@ -1,4 +1,4 @@
-# Variable de la template search_results_topics (PunBB)
+# Template search_results_topics (PunBB)
 
 [Code de la template](../../punbb/search_results_topics.tpl)
 

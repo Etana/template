@@ -1,7 +1,7 @@
 # Variable switch_avatar_remote_link
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_avatar_remote_link)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_avatar_remote_link)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

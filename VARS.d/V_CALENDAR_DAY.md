@@ -1,7 +1,7 @@
 # Variable V_CALENDAR_DAY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#V_CALENDAR_DAY)
+[Ajouter une description](https://fa-tvars.appspot.com/V_CALENDAR_DAY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

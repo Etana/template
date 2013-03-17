@@ -1,7 +1,7 @@
 # Variable picrow.PIC_MESSAGE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#picrow.PIC_MESSAGE)
+[Ajouter une description](https://fa-tvars.appspot.com/picrow.PIC_MESSAGE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

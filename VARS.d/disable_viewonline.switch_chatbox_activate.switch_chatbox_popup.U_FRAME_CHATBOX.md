@@ -1,7 +1,7 @@
 # Variable disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
+[Ajouter une description](https://fa-tvars.appspot.com/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

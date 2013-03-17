@@ -1,4 +1,4 @@
-# Variable de la template profile_send_email (PunBB)
+# Template profile_send_email (PunBB)
 
 [Code de la template](../../punbb/profile_send_email.tpl)
 

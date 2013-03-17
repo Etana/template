@@ -1,7 +1,7 @@
 # Variable SORT_COMMENTS_OPTION
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#SORT_COMMENTS_OPTION)
+[Ajouter une description](https://fa-tvars.appspot.com/SORT_COMMENTS_OPTION)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

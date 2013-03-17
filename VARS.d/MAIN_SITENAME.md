@@ -1,7 +1,7 @@
 # Variable MAIN_SITENAME
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#MAIN_SITENAME)
+[Ajouter une description](https://fa-tvars.appspot.com/MAIN_SITENAME)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

@@ -1,4 +1,4 @@
-# Variable de la template album_cat_top10 (PunBB)
+# Template album_cat_top10 (PunBB)
 
 [Code de la template](../../punbb/album_cat_top10.tpl)
 

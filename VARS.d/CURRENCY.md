@@ -1,7 +1,7 @@
 # Variable CURRENCY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#CURRENCY)
+[Ajouter une description](https://fa-tvars.appspot.com/CURRENCY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

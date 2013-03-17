@@ -1,7 +1,7 @@
 # Variable ADD_POLL_OPTION
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#ADD_POLL_OPTION)
+[Ajouter une description](https://fa-tvars.appspot.com/ADD_POLL_OPTION)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

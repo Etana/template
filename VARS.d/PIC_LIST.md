@@ -1,7 +1,7 @@
 # Variable PIC_LIST
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#PIC_LIST)
+[Ajouter une description](https://fa-tvars.appspot.com/PIC_LIST)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

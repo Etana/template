@@ -1,4 +1,4 @@
-# Variable de la template search_username (phpBB2)
+# Template search_username (phpBB2)
 
 [Code de la template](../../subsilver/search_username.tpl)
 

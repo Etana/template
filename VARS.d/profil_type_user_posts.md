@@ -1,7 +1,7 @@
 # Variable profil_type_user_posts
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#profil_type_user_posts)
+[Ajouter une description](https://fa-tvars.appspot.com/profil_type_user_posts)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

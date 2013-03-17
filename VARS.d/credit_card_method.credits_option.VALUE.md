@@ -1,7 +1,7 @@
 # Variable credit_card_method.credits_option.VALUE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#credit_card_method.credits_option.VALUE)
+[Ajouter une description](https://fa-tvars.appspot.com/credit_card_method.credits_option.VALUE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

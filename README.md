@@ -4,7 +4,7 @@
 * [Version PunBB](#version_punbb)
 * [Variables](https://github.com/Etana/template.list/blob/master/VARS.md#variables)
 
-## <a name="version_subsilver"></a>[Version phpBB2](https://github.com/Etana/template.list/edit/master/subsilver)
+## <a name="version_subsilver"></a>[Version phpBB2](https://github.com/Etana/template.list/tree/master/subsilver)
 
 
 ### Général
@@ -132,7 +132,7 @@
 * [rpg_sheet](https://github.com/Etana/template.list/blob/master/subsilver/rpg_sheet.tpl) : Feuille de personnage[*](https://github.com/Etana/template.list/blob/master/VARS.d/subsilver/rpg_sheet.md)
 * [rpg_sheet_edit](https://github.com/Etana/template.list/blob/master/subsilver/rpg_sheet_edit.tpl) : Feuille de personnage[*](https://github.com/Etana/template.list/blob/master/VARS.d/subsilver/rpg_sheet_edit.md)
 
-## <a name="version_punbb"></a>[Version PunBB](https://github.com/Etana/template.list/edit/master/punbb)
+## <a name="version_punbb"></a>[Version PunBB](https://github.com/Etana/template.list/tree/master/punbb)
 
 
 ### Général

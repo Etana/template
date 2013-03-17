@@ -1,4 +1,4 @@
-# Variable de la template rpg_sheet (PunBB)
+# Template rpg_sheet (PunBB)
 
 [Code de la template](../../punbb/rpg_sheet.tpl)
 

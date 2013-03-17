@@ -1,7 +1,7 @@
 # Variable PIC_STYLE_OPEN
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#PIC_STYLE_OPEN)
+[Ajouter une description](https://fa-tvars.appspot.com/PIC_STYLE_OPEN)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

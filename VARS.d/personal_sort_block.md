@@ -1,7 +1,7 @@
 # Variable personal_sort_block
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#personal_sort_block)
+[Ajouter une description](https://fa-tvars.appspot.com/personal_sort_block)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

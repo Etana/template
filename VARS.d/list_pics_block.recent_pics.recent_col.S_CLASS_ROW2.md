@@ -1,7 +1,7 @@
 # Variable list_pics_block.recent_pics.recent_col.S_CLASS_ROW2
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#list_pics_block.recent_pics.recent_col.S_CLASS_ROW2)
+[Ajouter une description](https://fa-tvars.appspot.com/list_pics_block.recent_pics.recent_col.S_CLASS_ROW2)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

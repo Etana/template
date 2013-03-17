@@ -1,4 +1,4 @@
-# Variable de la template mod_whoisonline (phpBB2)
+# Template mod_whoisonline (phpBB2)
 
 [Code de la template](../../subsilver/mod_whoisonline.tpl)
 

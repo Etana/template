@@ -1,4 +1,4 @@
-# Variable de la template album_slideshow_body (phpBB2)
+# Template album_slideshow_body (phpBB2)
 
 [Code de la template](../../subsilver/album_slideshow_body.tpl)
 

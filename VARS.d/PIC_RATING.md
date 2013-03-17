@@ -1,7 +1,7 @@
 # Variable PIC_RATING
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#PIC_RATING)
+[Ajouter une description](https://fa-tvars.appspot.com/PIC_RATING)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

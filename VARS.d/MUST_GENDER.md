@@ -1,7 +1,7 @@
 # Variable MUST_GENDER
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#MUST_GENDER)
+[Ajouter une description](https://fa-tvars.appspot.com/MUST_GENDER)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,4 +1,4 @@
-# Variable de la template mod_login (PunBB)
+# Template mod_login (PunBB)
 
 [Code de la template](../../punbb/mod_login.tpl)
 

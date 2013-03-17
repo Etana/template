@@ -1,4 +1,4 @@
-# Variable de la template modcp_viewip (PunBB)
+# Template modcp_viewip (PunBB)
 
 [Code de la template](../../punbb/modcp_viewip.tpl)
 

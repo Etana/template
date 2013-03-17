@@ -1,7 +1,7 @@
 # Variable poll_option_rows.S_POLL_OPTION_NUM_AFFICHE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#poll_option_rows.S_POLL_OPTION_NUM_AFFICHE)
+[Ajouter une description](https://fa-tvars.appspot.com/poll_option_rows.S_POLL_OPTION_NUM_AFFICHE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

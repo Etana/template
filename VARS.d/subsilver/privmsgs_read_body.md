@@ -1,4 +1,4 @@
-# Variable de la template privmsgs_read_body (phpBB2)
+# Template privmsgs_read_body (phpBB2)
 
 [Code de la template](../../subsilver/privmsgs_read_body.tpl)
 

@@ -1,4 +1,4 @@
-# Variable de la template jumpbox (PunBB)
+# Template jumpbox (PunBB)
 
 [Code de la template](../../punbb/jumpbox.tpl)
 

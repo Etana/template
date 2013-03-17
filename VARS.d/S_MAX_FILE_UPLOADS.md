@@ -1,7 +1,7 @@
 # Variable S_MAX_FILE_UPLOADS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_MAX_FILE_UPLOADS)
+[Ajouter une description](https://fa-tvars.appspot.com/S_MAX_FILE_UPLOADS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

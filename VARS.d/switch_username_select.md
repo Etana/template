@@ -1,7 +1,7 @@
 # Variable switch_username_select
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_username_select)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_username_select)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

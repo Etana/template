@@ -1,4 +1,4 @@
-# Variable de la template merge_body (PunBB)
+# Template merge_body (PunBB)
 
 [Code de la template](../../punbb/merge_body.tpl)
 

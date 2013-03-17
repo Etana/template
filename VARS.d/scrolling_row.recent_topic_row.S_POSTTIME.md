@@ -1,7 +1,7 @@
 # Variable scrolling_row.recent_topic_row.S_POSTTIME
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#scrolling_row.recent_topic_row.S_POSTTIME)
+[Ajouter une description](https://fa-tvars.appspot.com/scrolling_row.recent_topic_row.S_POSTTIME)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

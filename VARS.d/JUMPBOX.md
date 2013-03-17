@@ -1,7 +1,7 @@
 # Variable JUMPBOX
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#JUMPBOX)
+[Ajouter une description](https://fa-tvars.appspot.com/JUMPBOX)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

@@ -1,7 +1,7 @@
 # Variable index_pics_block.no_pics.L_NO_ALBUMS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#index_pics_block.no_pics.L_NO_ALBUMS)
+[Ajouter une description](https://fa-tvars.appspot.com/index_pics_block.no_pics.L_NO_ALBUMS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

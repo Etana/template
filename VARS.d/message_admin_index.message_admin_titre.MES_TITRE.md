@@ -1,7 +1,7 @@
 # Variable message_admin_index.message_admin_titre.MES_TITRE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#message_admin_index.message_admin_titre.MES_TITRE)
+[Ajouter une description](https://fa-tvars.appspot.com/message_admin_index.message_admin_titre.MES_TITRE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

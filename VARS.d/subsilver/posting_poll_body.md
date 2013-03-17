@@ -1,4 +1,4 @@
-# Variable de la template posting_poll_body (phpBB2)
+# Template posting_poll_body (phpBB2)
 
 [Code de la template](../../subsilver/posting_poll_body.tpl)
 

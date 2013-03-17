@@ -1,4 +1,4 @@
-# Variable de la template privmsgs_body (PunBB)
+# Template privmsgs_body (PunBB)
 
 [Code de la template](../../punbb/privmsgs_body.tpl)
 

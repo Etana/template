@@ -1,7 +1,7 @@
 # Variable no_pics_personal
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#no_pics_personal)
+[Ajouter une description](https://fa-tvars.appspot.com/no_pics_personal)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

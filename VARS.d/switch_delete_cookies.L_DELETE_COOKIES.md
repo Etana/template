@@ -1,7 +1,7 @@
 # Variable switch_delete_cookies.L_DELETE_COOKIES
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_delete_cookies.L_DELETE_COOKIES)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_delete_cookies.L_DELETE_COOKIES)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

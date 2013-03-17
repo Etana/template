@@ -1,7 +1,7 @@
 # Variable poll_option.POLL_TYPE_BUTTON
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#poll_option.POLL_TYPE_BUTTON)
+[Ajouter une description](https://fa-tvars.appspot.com/poll_option.POLL_TYPE_BUTTON)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable navlinks.stat_link.U_TOP10_LINK
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#navlinks.stat_link.U_TOP10_LINK)
+[Ajouter une description](https://fa-tvars.appspot.com/navlinks.stat_link.U_TOP10_LINK)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

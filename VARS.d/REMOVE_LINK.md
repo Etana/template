@@ -1,7 +1,7 @@
 # Variable REMOVE_LINK
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#REMOVE_LINK)
+[Ajouter une description](https://fa-tvars.appspot.com/REMOVE_LINK)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

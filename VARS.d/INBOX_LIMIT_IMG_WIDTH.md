@@ -1,7 +1,7 @@
 # Variable INBOX_LIMIT_IMG_WIDTH
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#INBOX_LIMIT_IMG_WIDTH)
+[Ajouter une description](https://fa-tvars.appspot.com/INBOX_LIMIT_IMG_WIDTH)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

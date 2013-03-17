@@ -1,4 +1,4 @@
-# Variable de la template overall_footer_begin (phpBB2)
+# Template overall_footer_begin (phpBB2)
 
 [Code de la template](../../subsilver/overall_footer_begin.tpl)
 

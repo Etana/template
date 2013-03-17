@@ -1,7 +1,7 @@
 # Variable L_DONT_DISPLAY_AGAIN
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_DONT_DISPLAY_AGAIN)
+[Ajouter une description](https://fa-tvars.appspot.com/L_DONT_DISPLAY_AGAIN)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

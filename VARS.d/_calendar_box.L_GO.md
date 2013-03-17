@@ -1,7 +1,7 @@
 # Variable _calendar_box.L_GO
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#_calendar_box.L_GO)
+[Ajouter une description](https://fa-tvars.appspot.com/_calendar_box.L_GO)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

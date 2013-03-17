@@ -1,7 +1,7 @@
 # Variable navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES)
+[Ajouter une description](https://fa-tvars.appspot.com/navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable S_ALBUM_JUMPBOX_USERS_GALLERY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_ALBUM_JUMPBOX_USERS_GALLERY)
+[Ajouter une description](https://fa-tvars.appspot.com/S_ALBUM_JUMPBOX_USERS_GALLERY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

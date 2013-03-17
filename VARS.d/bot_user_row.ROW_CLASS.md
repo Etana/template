@@ -1,7 +1,7 @@
 # Variable bot_user_row.ROW_CLASS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#bot_user_row.ROW_CLASS)
+[Ajouter une description](https://fa-tvars.appspot.com/bot_user_row.ROW_CLASS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

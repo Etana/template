@@ -1,4 +1,4 @@
-# Variable de la template mod_top_posters (PunBB)
+# Template mod_top_posters (PunBB)
 
 [Code de la template](../../punbb/mod_top_posters.tpl)
 

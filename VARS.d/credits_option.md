@@ -1,7 +1,7 @@
 # Variable credits_option
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#credits_option)
+[Ajouter une description](https://fa-tvars.appspot.com/credits_option)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

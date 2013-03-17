@@ -1,7 +1,7 @@
 # Variable TOPIC_LIST_SCHEDULER
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#TOPIC_LIST_SCHEDULER)
+[Ajouter une description](https://fa-tvars.appspot.com/TOPIC_LIST_SCHEDULER)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

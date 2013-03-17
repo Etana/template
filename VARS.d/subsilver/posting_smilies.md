@@ -1,4 +1,4 @@
-# Variable de la template posting_smilies (phpBB2)
+# Template posting_smilies (phpBB2)
 
 [Code de la template](../../subsilver/posting_smilies.tpl)
 

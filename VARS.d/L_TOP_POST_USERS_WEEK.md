@@ -1,7 +1,7 @@
 # Variable L_TOP_POST_USERS_WEEK
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_TOP_POST_USERS_WEEK)
+[Ajouter une description](https://fa-tvars.appspot.com/L_TOP_POST_USERS_WEEK)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

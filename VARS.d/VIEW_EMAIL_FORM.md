@@ -1,7 +1,7 @@
 # Variable VIEW_EMAIL_FORM
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#VIEW_EMAIL_FORM)
+[Ajouter une description](https://fa-tvars.appspot.com/VIEW_EMAIL_FORM)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

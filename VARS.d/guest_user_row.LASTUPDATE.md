@@ -1,7 +1,7 @@
 # Variable guest_user_row.LASTUPDATE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#guest_user_row.LASTUPDATE)
+[Ajouter une description](https://fa-tvars.appspot.com/guest_user_row.LASTUPDATE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

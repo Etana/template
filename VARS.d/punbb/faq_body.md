@@ -1,4 +1,4 @@
-# Variable de la template faq_body (PunBB)
+# Template faq_body (PunBB)
 
 [Code de la template](../../punbb/faq_body.tpl)
 

@@ -1,7 +1,7 @@
 # Variable catrow.forumrow.LATEST_TOPIC_TITLE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#catrow.forumrow.LATEST_TOPIC_TITLE)
+[Ajouter une description](https://fa-tvars.appspot.com/catrow.forumrow.LATEST_TOPIC_TITLE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

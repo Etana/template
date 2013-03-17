@@ -1,7 +1,7 @@
 # Variable U_VIEW_CAT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#U_VIEW_CAT)
+[Ajouter une description](https://fa-tvars.appspot.com/U_VIEW_CAT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

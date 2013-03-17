@@ -1,7 +1,7 @@
 # Variable moderation_panel
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#moderation_panel)
+[Ajouter une description](https://fa-tvars.appspot.com/moderation_panel)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

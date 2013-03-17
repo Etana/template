@@ -1,4 +1,4 @@
-# Variable de la template agreement (PunBB)
+# Template agreement (PunBB)
 
 [Code de la template](../../punbb/agreement.tpl)
 

@@ -1,4 +1,4 @@
-# Variable de la template index_body (phpBB2)
+# Template index_body (phpBB2)
 
 [Code de la template](../../subsilver/index_body.tpl)
 

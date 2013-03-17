@@ -1,7 +1,7 @@
 # Variable L_SAVE_MARKED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_SAVE_MARKED)
+[Ajouter une description](https://fa-tvars.appspot.com/L_SAVE_MARKED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,4 +1,4 @@
-# Variable de la template privmsgs_popup (PunBB)
+# Template privmsgs_popup (PunBB)
 
 [Code de la template](../../punbb/privmsgs_popup.tpl)
 

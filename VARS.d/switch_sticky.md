@@ -1,7 +1,7 @@
 # Variable switch_sticky
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_sticky)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_sticky)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

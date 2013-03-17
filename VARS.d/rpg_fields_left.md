@@ -1,7 +1,7 @@
 # Variable rpg_fields_left
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#rpg_fields_left)
+[Ajouter une description](https://fa-tvars.appspot.com/rpg_fields_left)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

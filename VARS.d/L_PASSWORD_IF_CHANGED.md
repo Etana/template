@@ -1,7 +1,7 @@
 # Variable L_PASSWORD_IF_CHANGED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_PASSWORD_IF_CHANGED)
+[Ajouter une description](https://fa-tvars.appspot.com/L_PASSWORD_IF_CHANGED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

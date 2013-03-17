@@ -1,7 +1,7 @@
 # Variable TOTAL_GUEST_USERS_ONLINE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#TOTAL_GUEST_USERS_ONLINE)
+[Ajouter une description](https://fa-tvars.appspot.com/TOTAL_GUEST_USERS_ONLINE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

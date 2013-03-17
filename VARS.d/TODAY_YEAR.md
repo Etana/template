@@ -1,7 +1,7 @@
 # Variable TODAY_YEAR
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#TODAY_YEAR)
+[Ajouter une description](https://fa-tvars.appspot.com/TODAY_YEAR)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

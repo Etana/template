@@ -1,7 +1,7 @@
 # Variable postrow.displayed.PROFILE_POSITION
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.PROFILE_POSITION)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.displayed.PROFILE_POSITION)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

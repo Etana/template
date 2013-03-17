@@ -1,7 +1,7 @@
 # Variable hitskin_preview.U_INSTALL_THEME
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#hitskin_preview.U_INSTALL_THEME)
+[Ajouter une description](https://fa-tvars.appspot.com/hitskin_preview.U_INSTALL_THEME)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

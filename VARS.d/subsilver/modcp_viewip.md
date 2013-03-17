@@ -1,4 +1,4 @@
-# Variable de la template modcp_viewip (phpBB2)
+# Template modcp_viewip (phpBB2)
 
 [Code de la template](../../subsilver/modcp_viewip.tpl)
 

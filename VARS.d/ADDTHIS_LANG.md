@@ -1,7 +1,7 @@
 # Variable ADDTHIS_LANG
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#ADDTHIS_LANG)
+[Ajouter une description](https://fa-tvars.appspot.com/ADDTHIS_LANG)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

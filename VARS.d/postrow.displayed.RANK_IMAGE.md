@@ -1,7 +1,7 @@
 # Variable postrow.displayed.RANK_IMAGE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.RANK_IMAGE)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.displayed.RANK_IMAGE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

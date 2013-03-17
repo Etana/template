@@ -1,4 +1,4 @@
-# Variable de la template posting_body_wysiwyg (phpBB2)
+# Template posting_body_wysiwyg (phpBB2)
 
 [Code de la template](../../subsilver/posting_body_wysiwyg.tpl)
 

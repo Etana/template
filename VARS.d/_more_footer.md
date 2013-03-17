@@ -1,7 +1,7 @@
 # Variable _more_footer
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#_more_footer)
+[Ajouter une description](https://fa-tvars.appspot.com/_more_footer)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

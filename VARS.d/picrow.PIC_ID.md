@@ -1,7 +1,7 @@
 # Variable picrow.PIC_ID
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#picrow.PIC_ID)
+[Ajouter une description](https://fa-tvars.appspot.com/picrow.PIC_ID)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

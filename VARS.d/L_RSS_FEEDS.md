@@ -1,7 +1,7 @@
 # Variable L_RSS_FEEDS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_RSS_FEEDS)
+[Ajouter une description](https://fa-tvars.appspot.com/L_RSS_FEEDS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

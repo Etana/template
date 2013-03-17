@@ -1,7 +1,7 @@
 # Variable U_CREATE_PERSONAL_GALLERY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#U_CREATE_PERSONAL_GALLERY)
+[Ajouter une description](https://fa-tvars.appspot.com/U_CREATE_PERSONAL_GALLERY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

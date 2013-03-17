@@ -1,4 +1,4 @@
-# Variable de la template modcp_body (PunBB)
+# Template modcp_body (PunBB)
 
 [Code de la template](../../punbb/modcp_body.tpl)
 

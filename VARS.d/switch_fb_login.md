@@ -1,7 +1,7 @@
 # Variable switch_fb_login
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_fb_login)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_fb_login)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

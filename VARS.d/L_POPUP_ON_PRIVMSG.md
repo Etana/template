@@ -1,7 +1,7 @@
 # Variable L_POPUP_ON_PRIVMSG
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_POPUP_ON_PRIVMSG)
+[Ajouter une description](https://fa-tvars.appspot.com/L_POPUP_ON_PRIVMSG)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

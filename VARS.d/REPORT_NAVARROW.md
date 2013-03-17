@@ -1,7 +1,7 @@
 # Variable REPORT_NAVARROW
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#REPORT_NAVARROW)
+[Ajouter une description](https://fa-tvars.appspot.com/REPORT_NAVARROW)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

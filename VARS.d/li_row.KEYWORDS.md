@@ -1,7 +1,7 @@
 # Variable li_row.KEYWORDS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#li_row.KEYWORDS)
+[Ajouter une description](https://fa-tvars.appspot.com/li_row.KEYWORDS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

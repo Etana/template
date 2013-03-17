@@ -1,7 +1,7 @@
 # Variable L_BBCODE_VIDEO
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_BBCODE_VIDEO)
+[Ajouter une description](https://fa-tvars.appspot.com/L_BBCODE_VIDEO)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

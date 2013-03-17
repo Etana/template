@@ -1,7 +1,7 @@
 # Variable postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

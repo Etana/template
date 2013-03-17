@@ -1,4 +1,4 @@
-# Variable de la template viewtopic_poll_ballot (phpBB2)
+# Template viewtopic_poll_ballot (phpBB2)
 
 [Code de la template](../../subsilver/viewtopic_poll_ballot.tpl)
 

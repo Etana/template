@@ -1,7 +1,7 @@
 # Variable L_TABS_PERMISSIONS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_TABS_PERMISSIONS)
+[Ajouter une description](https://fa-tvars.appspot.com/L_TABS_PERMISSIONS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable switch_th_group
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_th_group)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_th_group)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

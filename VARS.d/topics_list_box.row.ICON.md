@@ -1,7 +1,7 @@
 # Variable topics_list_box.row.ICON
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#topics_list_box.row.ICON)
+[Ajouter une description](https://fa-tvars.appspot.com/topics_list_box.row.ICON)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

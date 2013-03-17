@@ -1,4 +1,4 @@
-# Variable de la template greeting_popup (phpBB2)
+# Template greeting_popup (phpBB2)
 
 [Code de la template](../../subsilver/greeting_popup.tpl)
 

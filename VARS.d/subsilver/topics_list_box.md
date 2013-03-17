@@ -1,4 +1,4 @@
-# Variable de la template topics_list_box (phpBB2)
+# Template topics_list_box (phpBB2)
 
 [Code de la template](../../subsilver/topics_list_box.tpl)
 

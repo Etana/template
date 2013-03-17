@@ -1,7 +1,7 @@
 # Variable switch_enable_pm_popup
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_enable_pm_popup)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_enable_pm_popup)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

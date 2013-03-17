@@ -1,7 +1,7 @@
 # Variable nav_tree
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#nav_tree)
+[Ajouter une description](https://fa-tvars.appspot.com/nav_tree)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

@@ -1,7 +1,7 @@
 # Variable birthday_list_box.row.header_table.BOX_ID
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#birthday_list_box.row.header_table.BOX_ID)
+[Ajouter une description](https://fa-tvars.appspot.com/birthday_list_box.row.header_table.BOX_ID)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

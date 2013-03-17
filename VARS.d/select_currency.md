@@ -1,7 +1,7 @@
 # Variable select_currency
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#select_currency)
+[Ajouter une description](https://fa-tvars.appspot.com/select_currency)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

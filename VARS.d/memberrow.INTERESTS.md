@@ -1,7 +1,7 @@
 # Variable memberrow.INTERESTS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#memberrow.INTERESTS)
+[Ajouter une description](https://fa-tvars.appspot.com/memberrow.INTERESTS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

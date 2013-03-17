@@ -1,7 +1,7 @@
 # Variable not_table_row
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#not_table_row)
+[Ajouter une description](https://fa-tvars.appspot.com/not_table_row)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

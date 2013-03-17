@@ -1,4 +1,4 @@
-# Variable de la template mod_news (PunBB)
+# Template mod_news (PunBB)
 
 [Code de la template](../../punbb/mod_news.tpl)
 

@@ -1,7 +1,7 @@
 # Variable ROLL_DICE_TITLE_LOW
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#ROLL_DICE_TITLE_LOW)
+[Ajouter une description](https://fa-tvars.appspot.com/ROLL_DICE_TITLE_LOW)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

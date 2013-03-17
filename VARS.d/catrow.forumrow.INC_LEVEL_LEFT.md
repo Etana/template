@@ -1,7 +1,7 @@
 # Variable catrow.forumrow.INC_LEVEL_LEFT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#catrow.forumrow.INC_LEVEL_LEFT)
+[Ajouter une description](https://fa-tvars.appspot.com/catrow.forumrow.INC_LEVEL_LEFT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable giefmod0
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#giefmod0)
+[Ajouter une description](https://fa-tvars.appspot.com/giefmod0)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

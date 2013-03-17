@@ -1,4 +1,4 @@
-# Variable de la template album_formsearch_body (phpBB2)
+# Template album_formsearch_body (phpBB2)
 
 [Code de la template](../../subsilver/album_formsearch_body.tpl)
 

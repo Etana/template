@@ -1,7 +1,7 @@
 # Variable L_MOD_CP
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_MOD_CP)
+[Ajouter une description](https://fa-tvars.appspot.com/L_MOD_CP)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

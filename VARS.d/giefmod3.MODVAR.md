@@ -1,7 +1,7 @@
 # Variable giefmod3.MODVAR
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#giefmod3.MODVAR)
+[Ajouter une description](https://fa-tvars.appspot.com/giefmod3.MODVAR)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

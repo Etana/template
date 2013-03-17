@@ -1,7 +1,7 @@
 # Variable switch_quote_limit.L_QUOTE_LIMIT_WARNING
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_quote_limit.L_QUOTE_LIMIT_WARNING)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_quote_limit.L_QUOTE_LIMIT_WARNING)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

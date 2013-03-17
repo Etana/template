@@ -1,4 +1,4 @@
-# Variable de la template profile_add_body (PunBB)
+# Template profile_add_body (PunBB)
 
 [Code de la template](../../punbb/profile_add_body.tpl)
 

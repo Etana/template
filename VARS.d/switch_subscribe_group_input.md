@@ -1,7 +1,7 @@
 # Variable switch_subscribe_group_input
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_subscribe_group_input)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_subscribe_group_input)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,7 +1,7 @@
 # Variable CUR_USER_ACTIVE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#CUR_USER_ACTIVE)
+[Ajouter une description](https://fa-tvars.appspot.com/CUR_USER_ACTIVE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

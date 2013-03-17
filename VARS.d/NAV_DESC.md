@@ -1,7 +1,7 @@
 # Variable NAV_DESC
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#NAV_DESC)
+[Ajouter une description](https://fa-tvars.appspot.com/NAV_DESC)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

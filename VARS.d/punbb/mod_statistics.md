@@ -1,4 +1,4 @@
-# Variable de la template mod_statistics (PunBB)
+# Template mod_statistics (PunBB)
 
 [Code de la template](../../punbb/mod_statistics.tpl)
 

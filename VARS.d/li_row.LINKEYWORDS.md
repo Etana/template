@@ -1,7 +1,7 @@
 # Variable li_row.LINKEYWORDS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#li_row.LINKEYWORDS)
+[Ajouter une description](https://fa-tvars.appspot.com/li_row.LINKEYWORDS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

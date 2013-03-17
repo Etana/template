@@ -1,4 +1,4 @@
-# Variable de la template donate (PunBB)
+# Template donate (PunBB)
 
 [Code de la template](../../punbb/donate.tpl)
 

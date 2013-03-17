@@ -1,7 +1,7 @@
 # Variable switch_rpg.rpg_fields.F_VALUE_NEW
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_rpg.rpg_fields.F_VALUE_NEW)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_rpg.rpg_fields.F_VALUE_NEW)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

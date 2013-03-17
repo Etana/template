@@ -1,4 +1,4 @@
-# Variable de la template mod_login (phpBB2)
+# Template mod_login (phpBB2)
 
 [Code de la template](../../subsilver/mod_login.tpl)
 

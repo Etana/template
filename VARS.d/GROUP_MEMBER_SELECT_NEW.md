@@ -1,7 +1,7 @@
 # Variable GROUP_MEMBER_SELECT_NEW
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#GROUP_MEMBER_SELECT_NEW)
+[Ajouter une description](https://fa-tvars.appspot.com/GROUP_MEMBER_SELECT_NEW)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

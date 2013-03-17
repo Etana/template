@@ -1,7 +1,7 @@
 # Variable move_to_category
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#move_to_category)
+[Ajouter une description](https://fa-tvars.appspot.com/move_to_category)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,4 +1,4 @@
-# Variable de la template memberlist_body (phpBB2)
+# Template memberlist_body (phpBB2)
 
 [Code de la template](../../subsilver/memberlist_body.tpl)
 

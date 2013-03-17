@@ -1,4 +1,4 @@
-# Variable de la template simple_header (PunBB)
+# Template simple_header (PunBB)
 
 [Code de la template](../../punbb/simple_header.tpl)
 

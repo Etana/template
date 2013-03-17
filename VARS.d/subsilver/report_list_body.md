@@ -1,4 +1,4 @@
-# Variable de la template report_list_body (phpBB2)
+# Template report_list_body (phpBB2)
 
 [Code de la template](../../subsilver/report_list_body.tpl)
 

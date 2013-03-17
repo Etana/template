@@ -1,7 +1,7 @@
 # Variable member_row.FROM
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#member_row.FROM)
+[Ajouter une description](https://fa-tvars.appspot.com/member_row.FROM)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

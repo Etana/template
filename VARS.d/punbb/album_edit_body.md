@@ -1,4 +1,4 @@
-# Variable de la template album_edit_body (PunBB)
+# Template album_edit_body (PunBB)
 
 [Code de la template](../../punbb/album_edit_body.tpl)
 

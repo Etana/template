@@ -1,7 +1,7 @@
 # Variable postrow.displayed.THANK_BGCOLOR
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#postrow.displayed.THANK_BGCOLOR)
+[Ajouter une description](https://fa-tvars.appspot.com/postrow.displayed.THANK_BGCOLOR)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

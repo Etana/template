@@ -1,7 +1,7 @@
 # Variable legend_stat
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#legend_stat)
+[Ajouter une description](https://fa-tvars.appspot.com/legend_stat)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

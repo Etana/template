@@ -1,7 +1,7 @@
 # Variable switch_upload_imageshack
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_upload_imageshack)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_upload_imageshack)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

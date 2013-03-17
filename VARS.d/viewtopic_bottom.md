@@ -1,7 +1,7 @@
 # Variable viewtopic_bottom
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#viewtopic_bottom)
+[Ajouter une description](https://fa-tvars.appspot.com/viewtopic_bottom)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

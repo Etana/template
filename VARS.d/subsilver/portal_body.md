@@ -1,4 +1,4 @@
-# Variable de la template portal_body (phpBB2)
+# Template portal_body (phpBB2)
 
 [Code de la template](../../subsilver/portal_body.tpl)
 

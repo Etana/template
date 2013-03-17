@@ -1,7 +1,7 @@
 # Variable L_NUFF_RESIZE_W
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_NUFF_RESIZE_W)
+[Ajouter une description](https://fa-tvars.appspot.com/L_NUFF_RESIZE_W)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

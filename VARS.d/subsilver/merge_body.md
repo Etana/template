@@ -1,4 +1,4 @@
-# Variable de la template merge_body (phpBB2)
+# Template merge_body (phpBB2)
 
 [Code de la template](../../subsilver/merge_body.tpl)
 

@@ -1,4 +1,4 @@
-# Variable de la template donate (phpBB2)
+# Template donate (phpBB2)
 
 [Code de la template](../../subsilver/donate.tpl)
 

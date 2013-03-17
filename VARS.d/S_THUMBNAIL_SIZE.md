@@ -1,7 +1,7 @@
 # Variable S_THUMBNAIL_SIZE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_THUMBNAIL_SIZE)
+[Ajouter une description](https://fa-tvars.appspot.com/S_THUMBNAIL_SIZE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

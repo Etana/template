@@ -1,7 +1,7 @@
 # Variable switch_login_small
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_login_small)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_login_small)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

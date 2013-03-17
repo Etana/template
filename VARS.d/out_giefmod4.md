@@ -1,7 +1,7 @@
 # Variable out_giefmod4
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#out_giefmod4)
+[Ajouter une description](https://fa-tvars.appspot.com/out_giefmod4)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

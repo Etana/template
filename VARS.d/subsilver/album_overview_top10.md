@@ -1,4 +1,4 @@
-# Variable de la template album_overview_top10 (phpBB2)
+# Template album_overview_top10 (phpBB2)
 
 [Code de la template](../../subsilver/album_overview_top10.tpl)
 

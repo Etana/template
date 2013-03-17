@@ -1,7 +1,7 @@
 # Variable hitskin_preview.L_THEME_SITE_PREVIEW
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#hitskin_preview.L_THEME_SITE_PREVIEW)
+[Ajouter une description](https://fa-tvars.appspot.com/hitskin_preview.L_THEME_SITE_PREVIEW)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

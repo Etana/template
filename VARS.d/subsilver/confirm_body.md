@@ -1,4 +1,4 @@
-# Variable de la template confirm_body (phpBB2)
+# Template confirm_body (phpBB2)
 
 [Code de la template](../../subsilver/confirm_body.tpl)
 

@@ -1,7 +1,7 @@
 # Variable table_row.L_TITRE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#table_row.L_TITRE)
+[Ajouter une description](https://fa-tvars.appspot.com/table_row.L_TITRE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

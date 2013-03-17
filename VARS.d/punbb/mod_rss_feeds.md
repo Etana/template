@@ -1,4 +1,4 @@
-# Variable de la template mod_rss_feeds (PunBB)
+# Template mod_rss_feeds (PunBB)
 
 [Code de la template](../../punbb/mod_rss_feeds.tpl)
 

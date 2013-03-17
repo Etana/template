@@ -1,7 +1,7 @@
 # Variable JS_MENU
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#JS_MENU)
+[Ajouter une description](https://fa-tvars.appspot.com/JS_MENU)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

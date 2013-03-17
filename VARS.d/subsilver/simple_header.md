@@ -1,4 +1,4 @@
-# Variable de la template simple_header (phpBB2)
+# Template simple_header (phpBB2)
 
 [Code de la template](../../subsilver/simple_header.tpl)
 

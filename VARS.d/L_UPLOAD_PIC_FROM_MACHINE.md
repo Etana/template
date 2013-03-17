@@ -1,7 +1,7 @@
 # Variable L_UPLOAD_PIC_FROM_MACHINE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_UPLOAD_PIC_FROM_MACHINE)
+[Ajouter une description](https://fa-tvars.appspot.com/L_UPLOAD_PIC_FROM_MACHINE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

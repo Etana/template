@@ -1,7 +1,7 @@
 # Variable LINK_FOR_PASSWD_CHANGE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#LINK_FOR_PASSWD_CHANGE)
+[Ajouter une description](https://fa-tvars.appspot.com/LINK_FOR_PASSWD_CHANGE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

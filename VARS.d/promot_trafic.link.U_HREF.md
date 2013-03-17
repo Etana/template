@@ -1,7 +1,7 @@
 # Variable promot_trafic.link.U_HREF
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#promot_trafic.link.U_HREF)
+[Ajouter une description](https://fa-tvars.appspot.com/promot_trafic.link.U_HREF)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

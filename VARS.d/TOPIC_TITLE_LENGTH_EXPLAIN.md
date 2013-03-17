@@ -1,7 +1,7 @@
 # Variable TOPIC_TITLE_LENGTH_EXPLAIN
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#TOPIC_TITLE_LENGTH_EXPLAIN)
+[Ajouter une description](https://fa-tvars.appspot.com/TOPIC_TITLE_LENGTH_EXPLAIN)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

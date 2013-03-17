@@ -1,7 +1,7 @@
 # Variable DYNAMIC_GENERATION_STATUS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#DYNAMIC_GENERATION_STATUS)
+[Ajouter une description](https://fa-tvars.appspot.com/DYNAMIC_GENERATION_STATUS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

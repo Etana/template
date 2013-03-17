@@ -1,7 +1,7 @@
 # Variable NB_PM_UNREAD
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#NB_PM_UNREAD)
+[Ajouter une description](https://fa-tvars.appspot.com/NB_PM_UNREAD)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

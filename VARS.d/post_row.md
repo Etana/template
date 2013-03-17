@@ -1,7 +1,7 @@
 # Variable post_row
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#post_row)
+[Ajouter une description](https://fa-tvars.appspot.com/post_row)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

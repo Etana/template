@@ -1,4 +1,4 @@
-# Variable de la template privmsg_topic_review (phpBB2)
+# Template privmsg_topic_review (phpBB2)
 
 [Code de la template](../../subsilver/privmsg_topic_review.tpl)
 

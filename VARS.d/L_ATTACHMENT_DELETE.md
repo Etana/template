@@ -1,7 +1,7 @@
 # Variable L_ATTACHMENT_DELETE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_ATTACHMENT_DELETE)
+[Ajouter une description](https://fa-tvars.appspot.com/L_ATTACHMENT_DELETE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

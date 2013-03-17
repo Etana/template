@@ -1,7 +1,7 @@
 # Variable L_CLICK_TO_JOIN_CHAT
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_CLICK_TO_JOIN_CHAT)
+[Ajouter une description](https://fa-tvars.appspot.com/L_CLICK_TO_JOIN_CHAT)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

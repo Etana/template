@@ -1,7 +1,7 @@
 # Variable switch_filled_no
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_filled_no)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_filled_no)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

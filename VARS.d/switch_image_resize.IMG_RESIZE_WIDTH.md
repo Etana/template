@@ -1,7 +1,7 @@
 # Variable switch_image_resize.IMG_RESIZE_WIDTH
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_image_resize.IMG_RESIZE_WIDTH)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_image_resize.IMG_RESIZE_WIDTH)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

@@ -1,4 +1,4 @@
-# Variable de la template search_results_posts (phpBB2)
+# Template search_results_posts (phpBB2)
 
 [Code de la template](../../subsilver/search_results_posts.tpl)
 

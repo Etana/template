@@ -1,7 +1,7 @@
 # Variable PATH_IMG_FA
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#PATH_IMG_FA)
+[Ajouter une description](https://fa-tvars.appspot.com/PATH_IMG_FA)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

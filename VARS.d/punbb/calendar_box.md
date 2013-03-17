@@ -1,4 +1,4 @@
-# Variable de la template calendar_box (PunBB)
+# Template calendar_box (PunBB)
 
 [Code de la template](../../punbb/calendar_box.tpl)
 

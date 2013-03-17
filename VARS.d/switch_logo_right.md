@@ -1,7 +1,7 @@
 # Variable switch_logo_right
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_logo_right)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_logo_right)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

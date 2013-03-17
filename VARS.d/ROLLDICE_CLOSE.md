@@ -1,7 +1,7 @@
 # Variable ROLLDICE_CLOSE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#ROLLDICE_CLOSE)
+[Ajouter une description](https://fa-tvars.appspot.com/ROLLDICE_CLOSE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

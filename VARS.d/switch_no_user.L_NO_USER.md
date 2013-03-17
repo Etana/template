@@ -1,7 +1,7 @@
 # Variable switch_no_user.L_NO_USER
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_no_user.L_NO_USER)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_no_user.L_NO_USER)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

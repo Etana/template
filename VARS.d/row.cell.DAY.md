@@ -1,7 +1,7 @@
 # Variable row.cell.DAY
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#row.cell.DAY)
+[Ajouter une description](https://fa-tvars.appspot.com/row.cell.DAY)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

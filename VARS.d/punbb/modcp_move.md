@@ -1,4 +1,4 @@
-# Variable de la template modcp_move (PunBB)
+# Template modcp_move (PunBB)
 
 [Code de la template](../../punbb/modcp_move.tpl)
 

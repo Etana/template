@@ -1,7 +1,7 @@
 # Variable switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

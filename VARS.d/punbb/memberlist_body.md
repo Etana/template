@@ -1,4 +1,4 @@
-# Variable de la template memberlist_body (PunBB)
+# Template memberlist_body (PunBB)
 
 [Code de la template](../../punbb/memberlist_body.tpl)
 

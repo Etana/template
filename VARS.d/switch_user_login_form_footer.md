@@ -1,7 +1,7 @@
 # Variable switch_user_login_form_footer
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_user_login_form_footer)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_user_login_form_footer)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

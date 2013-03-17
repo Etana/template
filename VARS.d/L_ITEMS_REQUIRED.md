@@ -1,7 +1,7 @@
 # Variable L_ITEMS_REQUIRED
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_ITEMS_REQUIRED)
+[Ajouter une description](https://fa-tvars.appspot.com/L_ITEMS_REQUIRED)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

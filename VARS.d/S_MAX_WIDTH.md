@@ -1,7 +1,7 @@
 # Variable S_MAX_WIDTH
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_MAX_WIDTH)
+[Ajouter une description](https://fa-tvars.appspot.com/S_MAX_WIDTH)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

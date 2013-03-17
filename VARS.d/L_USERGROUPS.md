@@ -1,7 +1,7 @@
 # Variable L_USERGROUPS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_USERGROUPS)
+[Ajouter une description](https://fa-tvars.appspot.com/L_USERGROUPS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

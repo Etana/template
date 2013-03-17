@@ -1,7 +1,7 @@
 # Variable _more
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#_more)
+[Ajouter une description](https://fa-tvars.appspot.com/_more)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

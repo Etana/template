@@ -1,4 +1,4 @@
-# Variable de la template overall_header (phpBB2)
+# Template overall_header (phpBB2)
 
 [Code de la template](../../subsilver/overall_header.tpl)
 

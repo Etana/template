@@ -1,7 +1,7 @@
 # Variable S_USERGROUP_ACTION
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#S_USERGROUP_ACTION)
+[Ajouter une description](https://fa-tvars.appspot.com/S_USERGROUP_ACTION)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

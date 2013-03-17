@@ -1,7 +1,7 @@
 # Variable switch_auth_user
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_auth_user)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_auth_user)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

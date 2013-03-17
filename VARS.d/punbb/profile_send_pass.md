@@ -1,4 +1,4 @@
-# Variable de la template profile_send_pass (PunBB)
+# Template profile_send_pass (PunBB)
 
 [Code de la template](../../punbb/profile_send_pass.tpl)
 

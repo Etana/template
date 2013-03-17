@@ -1,7 +1,7 @@
 # Variable AGREE_OVER_13
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#AGREE_OVER_13)
+[Ajouter une description](https://fa-tvars.appspot.com/AGREE_OVER_13)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

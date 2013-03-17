@@ -1,7 +1,7 @@
 # Variable switch_display_menus
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#switch_display_menus)
+[Ajouter une description](https://fa-tvars.appspot.com/switch_display_menus)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

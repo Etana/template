@@ -1,7 +1,7 @@
 # Variable L_FONT_HUGE
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#L_FONT_HUGE)
+[Ajouter une description](https://fa-tvars.appspot.com/L_FONT_HUGE)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version PunBB
 

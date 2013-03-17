@@ -1,7 +1,7 @@
 # Variable listrow.ROW_CLASS
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#listrow.ROW_CLASS)
+[Ajouter une description](https://fa-tvars.appspot.com/listrow.ROW_CLASS)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 

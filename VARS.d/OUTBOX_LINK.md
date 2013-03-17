@@ -1,7 +1,7 @@
 # Variable OUTBOX_LINK
-[Explication sur le forum des forums](http://forum.forumactif.com/t294113-listing-des-variables#OUTBOX_LINK)
+[Ajouter une description](https://fa-tvars.appspot.com/OUTBOX_LINK)
 
-## Utilisations dans les templates
+n## Utilisations dans les templates
 
 ### Version phpBB2
 
