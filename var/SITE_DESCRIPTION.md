@@ -1,7 +1,7 @@
 # Variable SITE_DESCRIPTION
 
 ##Description[*](https://fa-tvars.appspot.com/var/SITE_DESCRIPTION)
-Affiche la description du site.
+Description du site spécifiée dans `PA > Général  > Forum | Configuration > Description du site`.
 
 ## Utilisations dans les templates
 

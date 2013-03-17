@@ -4,7 +4,10 @@
 Adresse relative vers la page "qui est en ligne".
 
 * __Remplacement :__ `/viewonline`
-* __Exemple d'utilisation :__ `<a href="{U_VIEWONLINE}">Lien page qui est en ligne</a>`
+* __Exemple d'utilisation :__ 
+```html
+<a href="{U_VIEWONLINE}">Lien page qui est en ligne</a>
+```
 
 ## Utilisations dans les templates
 
