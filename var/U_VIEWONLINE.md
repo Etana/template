@@ -1,5 +1,9 @@
 # Variable U_VIEWONLINE
-[Ajouter une description](https://fa-tvars.appspot.com/var/U_VIEWONLINE)
+
+##Description ([&eacute;diter](https://fa-tvars.appspot.com/var/U_VIEWONLINE))
+adresse relative vers la page "qui est en ligne", on pourrait l'utiliser dans un lien avec href ( &lt;a href="{U_VIEWONLINE}"&gt;Lien page qui est en ligne&lt;/a&gt; )
+
+* remplacé par l'adresse _/viewonline_
 
 ## Utilisations dans les templates
 

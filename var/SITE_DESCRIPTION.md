@@ -1,6 +1,6 @@
 # Variable SITE_DESCRIPTION
 
-##[Description](https://fa-tvars.appspot.com/var/SITE_DESCRIPTION)
+##Description ([&eacute;diter](https://fa-tvars.appspot.com/var/SITE_DESCRIPTION))
 Affiche la description du site.
 
 ## Utilisations dans les templates
