@@ -1,4 +1,5 @@
-# <a name="version_punbb"></a>Templates version PunBB( [fichiers](https://github.com/Etana/template.list/tree/master/punbb) )
+# <a name="version_punbb"></a>Templates version PunBB
+* [Liste des fichiers](https://github.com/Etana/template.list/tree/master/punbb)
 
 
 ### Général

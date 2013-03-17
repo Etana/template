@@ -1,4 +1,8 @@
-# <a name="variables"></a>Liste des variables de template ( [avec](variables_avec_description.md)/[sans](variables_sans_description.md) description )
+# <a name="variables"></a>Variables de template
+* [Variables avec description](variables_avec_description.md)
+* [Variables sans description](variables_sans_description.md)
+
+###Liste de toutes les variables
 * [_calendar_box](var/_calendar_box.md) 
 * [_calendar_box._cell.L_DAY](var/_calendar_box._cell.L_DAY.md) 
 * [_calendar_box._cell.WIDTH](var/_calendar_box._cell.WIDTH.md) 

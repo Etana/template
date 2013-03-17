@@ -1,4 +1,5 @@
-# <a name="version_subsilver"></a>Templates version phpBB2( [fichiers](https://github.com/Etana/template.list/tree/master/subsilver) )
+# <a name="version_subsilver"></a>Templates version phpBB2
+* [Liste des fichiers](https://github.com/Etana/template.list/tree/master/subsilver)
 
 
 ### Général
