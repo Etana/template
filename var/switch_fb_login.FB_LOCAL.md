@@ -1,7 +1,7 @@
 # switch_fb_login.FB_LOCAL
 
 
-Attribut d'affichage de [switch_fb_login](switch_fb_login.md#readme).
+Attribut de [switch_fb_login](switch_fb_login.md#readme).
 
 ```html
 <!-- BEGIN switch_fb_login -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [switch_fb_login](switch_fb_login.md#readme).
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 26](../tpl/src/punbb/overall_header.tpl#L26)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 26](../tpl/src/punbb/overall_header.tpl#L26)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 26](../tpl/src/subsilver/overall_header.tpl#L26)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 26](../tpl/src/subsilver/overall_header.tpl#L26)

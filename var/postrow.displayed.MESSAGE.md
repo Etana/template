@@ -1,7 +1,7 @@
 # postrow.displayed.MESSAGE
 
 
-Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 187](../tpl/src/punbb/viewtopic_body.tpl#L187)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 187](../tpl/src/punbb/viewtopic_body.tpl#L187)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 180](../tpl/src/subsilver/viewtopic_body.tpl#L180)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 180](../tpl/src/subsilver/viewtopic_body.tpl#L180)

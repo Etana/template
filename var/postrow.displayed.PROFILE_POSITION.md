@@ -1,7 +1,7 @@
 # postrow.displayed.PROFILE_POSITION
 
 
-Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 240](../tpl/src/punbb/viewtopic_body.tpl#L240), [ligne 243](../tpl/src/punbb/viewtopic_body.tpl#L243)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 240](../tpl/src/punbb/viewtopic_body.tpl#L240), [ligne 243](../tpl/src/punbb/viewtopic_body.tpl#L243)

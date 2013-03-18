@@ -1,7 +1,7 @@
 # giefmod_index2
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN giefmod_index2 -->
@@ -14,8 +14,6 @@ contenu
 
 ## Attributs
 * [{giefmod_index2.MODVAR}](giefmod_index2.MODVAR.md#readme)
-* [{giefmod_index2.MODVAR}](giefmod_index2.MODVAR.md#readme)
-* [<!-- BEGIN saut -->](giefmod_index2.saut.md#readme)
 * [<!-- BEGIN saut -->](giefmod_index2.saut.md#readme)
 
 
@@ -23,8 +21,8 @@ contenu
 
 ### Version PunBB
 
-* __[Template overall_footer_begin](../tpl/var/punbb/overall_footer_begin.md#readme) :__[ligne 17](../tpl/src/punbb/overall_footer_begin.tpl#L17), [ligne 22](../tpl/src/punbb/overall_footer_begin.tpl#L22)
+* __[overall_footer_begin](../tpl/var/punbb/overall_footer_begin.md#readme) :__ [ligne 17](../tpl/src/punbb/overall_footer_begin.tpl#L17), [ligne 22](../tpl/src/punbb/overall_footer_begin.tpl#L22)
 
 ### Version phpBB2
 
-* __[Template overall_footer_begin](../tpl/var/subsilver/overall_footer_begin.md#readme) :__[ligne 12](../tpl/src/subsilver/overall_footer_begin.tpl#L12), [ligne 17](../tpl/src/subsilver/overall_footer_begin.tpl#L17)
+* __[overall_footer_begin](../tpl/var/subsilver/overall_footer_begin.md#readme) :__ [ligne 12](../tpl/src/subsilver/overall_footer_begin.tpl#L12), [ligne 17](../tpl/src/subsilver/overall_footer_begin.tpl#L17)

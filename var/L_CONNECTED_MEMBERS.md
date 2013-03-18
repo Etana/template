@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 80](../tpl/src/punbb/index_body.tpl#L80)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 80](../tpl/src/punbb/index_body.tpl#L80)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 199](../tpl/src/subsilver/index_body.tpl#L199)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 199](../tpl/src/subsilver/index_body.tpl#L199)

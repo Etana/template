@@ -16,8 +16,8 @@ Contenu du message d'erreur.
 
 ### Version PunBB
 
-* __[Template error_body](../tpl/var/punbb/error_body.md#readme) :__[ligne 4](../tpl/src/punbb/error_body.tpl#L4)
+* __[error_body](../tpl/var/punbb/error_body.md#readme) :__ [ligne 4](../tpl/src/punbb/error_body.tpl#L4)
 
 ### Version phpBB2
 
-* __[Template error_body](../tpl/var/subsilver/error_body.md#readme) :__[ligne 9](../tpl/src/subsilver/error_body.tpl#L9)
+* __[error_body](../tpl/var/subsilver/error_body.md#readme) :__ [ligne 9](../tpl/src/subsilver/error_body.tpl#L9)

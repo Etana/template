@@ -16,8 +16,8 @@ Chaîne de texte.
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 95](../tpl/src/punbb/index_body.tpl#L95)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 95](../tpl/src/punbb/index_body.tpl#L95)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 213](../tpl/src/subsilver/index_body.tpl#L213)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 213](../tpl/src/subsilver/index_body.tpl#L213)

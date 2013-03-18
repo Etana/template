@@ -1,7 +1,7 @@
 # switch_facebook_logout.SERVER_NAME
 
 
-Attribut d'affichage de [switch_facebook_logout](switch_facebook_logout.md#readme).
+Attribut de [switch_facebook_logout](switch_facebook_logout.md#readme).
 
 ```html
 <!-- BEGIN switch_facebook_logout -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [switch_facebook_logout](switch_facebook_logout.md#readm
 
 ### Version PunBB
 
-* __[Template overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__[ligne 63](../tpl/src/punbb/overall_footer_end.tpl#L63)
+* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ [ligne 63](../tpl/src/punbb/overall_footer_end.tpl#L63)
 
 ### Version phpBB2
 
-* __[Template overall_footer_end](../tpl/var/subsilver/overall_footer_end.md#readme) :__[ligne 49](../tpl/src/subsilver/overall_footer_end.tpl#L49)
+* __[overall_footer_end](../tpl/var/subsilver/overall_footer_end.md#readme) :__ [ligne 49](../tpl/src/subsilver/overall_footer_end.tpl#L49)

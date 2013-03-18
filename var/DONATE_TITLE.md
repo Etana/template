@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template donate](../tpl/var/punbb/donate.md#readme) :__[ligne 19](../tpl/src/punbb/donate.tpl#L19), [ligne 26](../tpl/src/punbb/donate.tpl#L26)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 19](../tpl/src/punbb/donate.tpl#L19), [ligne 26](../tpl/src/punbb/donate.tpl#L26)
 
 ### Version phpBB2
 
-* __[Template donate](../tpl/var/subsilver/donate.md#readme) :__[ligne 3](../tpl/src/subsilver/donate.tpl#L3)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 3](../tpl/src/subsilver/donate.tpl#L3)

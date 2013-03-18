@@ -14,4 +14,4 @@ Cette variable est utilisable directement.
 
 ### Version phpBB2
 
-* __[Template donate](../tpl/var/subsilver/donate.md#readme) :__[ligne 39](../tpl/src/subsilver/donate.tpl#L39)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 39](../tpl/src/subsilver/donate.tpl#L39)

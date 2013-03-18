@@ -1,7 +1,7 @@
 # topics_list_box.row.LAST_POST_IMG
 
 
-Attribut d'affichage de [topics_list_box.row](topics_list_box.row.md#readme).
+Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ### Version PunBB
 
-* __[Template topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__[ligne 94](../tpl/src/punbb/topics_list_box.tpl#L94)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 94](../tpl/src/punbb/topics_list_box.tpl#L94)
 
 ### Version phpBB2
 
-* __[Template topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__[ligne 74](../tpl/src/subsilver/topics_list_box.tpl#L74)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 74](../tpl/src/subsilver/topics_list_box.tpl#L74)

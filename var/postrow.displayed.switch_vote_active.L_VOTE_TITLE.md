@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.L_VOTE_TITLE
 
 
-Attribut d'affichage de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote_active.md#readme).
+Attribut de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote_active.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -20,8 +20,8 @@ Attribut d'affichage de [postrow.displayed.switch_vote_active](postrow.displayed
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 166](../tpl/src/punbb/viewtopic_body.tpl#L166), [ligne 178](../tpl/src/punbb/viewtopic_body.tpl#L178)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 166](../tpl/src/punbb/viewtopic_body.tpl#L166), [ligne 178](../tpl/src/punbb/viewtopic_body.tpl#L178)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 157](../tpl/src/subsilver/viewtopic_body.tpl#L157), [ligne 169](../tpl/src/subsilver/viewtopic_body.tpl#L169)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 157](../tpl/src/subsilver/viewtopic_body.tpl#L157), [ligne 169](../tpl/src/subsilver/viewtopic_body.tpl#L169)

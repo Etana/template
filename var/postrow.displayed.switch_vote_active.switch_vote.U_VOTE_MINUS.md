@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS
 
 
-Attribut d'affichage de [postrow.displayed.switch_vote_active.switch_vote](postrow.displayed.switch_vote_active.switch_vote.md#readme).
+Attribut de [postrow.displayed.switch_vote_active.switch_vote](postrow.displayed.switch_vote_active.switch_vote.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -22,8 +22,8 @@ Attribut d'affichage de [postrow.displayed.switch_vote_active.switch_vote](postr
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 182](../tpl/src/punbb/viewtopic_body.tpl#L182)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 182](../tpl/src/punbb/viewtopic_body.tpl#L182)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 173](../tpl/src/subsilver/viewtopic_body.tpl#L173)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 173](../tpl/src/subsilver/viewtopic_body.tpl#L173)

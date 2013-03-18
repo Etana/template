@@ -1,7 +1,7 @@
 # memberrow.POSTS
 
 
-Attribut d'affichage de [memberrow](memberrow.md#readme).
+Attribut de [memberrow](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [memberrow](memberrow.md#readme).
 
 ### Version PunBB
 
-* __[Template memberlist_body](../tpl/var/punbb/memberlist_body.md#readme) :__[ligne 86](../tpl/src/punbb/memberlist_body.tpl#L86)
+* __[memberlist_body](../tpl/var/punbb/memberlist_body.md#readme) :__ [ligne 86](../tpl/src/punbb/memberlist_body.tpl#L86)
 
 ### Version phpBB2
 
-* __[Template memberlist_body](../tpl/var/subsilver/memberlist_body.md#readme) :__[ligne 47](../tpl/src/subsilver/memberlist_body.tpl#L47)
+* __[memberlist_body](../tpl/var/subsilver/memberlist_body.md#readme) :__ [ligne 47](../tpl/src/subsilver/memberlist_body.tpl#L47)

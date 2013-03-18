@@ -1,7 +1,7 @@
 # catrow.cathead.CAT_TITLE
 
 
-Attribut d'affichage de [catrow.cathead](catrow.cathead.md#readme).
+Attribut de [catrow.cathead](catrow.cathead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [catrow.cathead](catrow.cathead.md#readme).
 
 ### Version phpBB2
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 36](../tpl/src/subsilver/index_box.tpl#L36)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 36](../tpl/src/subsilver/index_box.tpl#L36)

@@ -1,7 +1,7 @@
 # catrow.forumrow.U_LATEST_TOPIC
 
 
-Attribut d'affichage de [catrow.forumrow](catrow.forumrow.md#readme).
+Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [catrow.forumrow](catrow.forumrow.md#readme).
 
 ### Version PunBB
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 44](../tpl/src/punbb/index_box.tpl#L44)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 44](../tpl/src/punbb/index_box.tpl#L44)

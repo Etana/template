@@ -16,8 +16,8 @@ Chaîne de texte du popup de connexion.
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 221](../tpl/src/punbb/overall_header.tpl#L221)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 221](../tpl/src/punbb/overall_header.tpl#L221)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 229](../tpl/src/subsilver/overall_header.tpl#L229)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 229](../tpl/src/subsilver/overall_header.tpl#L229)

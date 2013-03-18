@@ -1,7 +1,7 @@
 # switch_h1.MAIN_SITENAME
 
 
-Attribut d'affichage de [switch_h1](switch_h1.md#readme).
+Attribut de [switch_h1](switch_h1.md#readme).
 
 ```html
 <!-- BEGIN switch_h1 -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [switch_h1](switch_h1.md#readme).
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 238](../tpl/src/punbb/overall_header.tpl#L238)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 238](../tpl/src/punbb/overall_header.tpl#L238)

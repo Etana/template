@@ -1,7 +1,7 @@
 # catrow.tablehead.INC_SPAN
 
 
-Attribut d'affichage de [catrow.tablehead](catrow.tablehead.md#readme).
+Attribut de [catrow.tablehead](catrow.tablehead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [catrow.tablehead](catrow.tablehead.md#readme).
 
 ### Version phpBB2
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 22](../tpl/src/subsilver/index_box.tpl#L22)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 22](../tpl/src/subsilver/index_box.tpl#L22)

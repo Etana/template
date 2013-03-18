@@ -14,4 +14,4 @@ Cette variable est utilisable directement.
 
 ### Version phpBB2
 
-* __[Template search_body](../tpl/var/subsilver/search_body.md#readme) :__[ligne 34](../tpl/src/subsilver/search_body.tpl#L34)
+* __[search_body](../tpl/var/subsilver/search_body.md#readme) :__ [ligne 34](../tpl/src/subsilver/search_body.tpl#L34)

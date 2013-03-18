@@ -1,7 +1,7 @@
 # catrow.cathead.inc
 
 
-Attribut de bouclage de [catrow.cathead](catrow.cathead.md#readme).
+Attribut de [catrow.cathead](catrow.cathead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -23,4 +23,4 @@ Attribut de bouclage de [catrow.cathead](catrow.cathead.md#readme).
 
 ### Version phpBB2
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 30](../tpl/src/subsilver/index_box.tpl#L30), [ligne 32](../tpl/src/subsilver/index_box.tpl#L32)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 30](../tpl/src/subsilver/index_box.tpl#L30), [ligne 32](../tpl/src/subsilver/index_box.tpl#L32)

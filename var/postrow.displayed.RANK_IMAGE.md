@@ -1,7 +1,7 @@
 # postrow.displayed.RANK_IMAGE
 
 
-Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 145](../tpl/src/punbb/viewtopic_body.tpl#L145)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 145](../tpl/src/punbb/viewtopic_body.tpl#L145)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 127](../tpl/src/subsilver/viewtopic_body.tpl#L127)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 127](../tpl/src/subsilver/viewtopic_body.tpl#L127)

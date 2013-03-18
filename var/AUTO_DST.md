@@ -14,8 +14,8 @@ Variable actuellement inutilisée.
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 132](../tpl/src/punbb/index_body.tpl#L132)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 132](../tpl/src/punbb/index_body.tpl#L132)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 240](../tpl/src/subsilver/index_body.tpl#L240)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 240](../tpl/src/subsilver/index_body.tpl#L240)

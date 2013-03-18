@@ -14,4 +14,4 @@ Cette variable est utilisable directement.
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 277](../tpl/src/subsilver/overall_header.tpl#L277), [ligne 295](../tpl/src/subsilver/overall_header.tpl#L295)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 277](../tpl/src/subsilver/overall_header.tpl#L277), [ligne 295](../tpl/src/subsilver/overall_header.tpl#L295)

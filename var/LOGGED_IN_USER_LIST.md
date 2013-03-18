@@ -27,12 +27,12 @@ Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Ad
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 77](../tpl/src/punbb/index_body.tpl#L77)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 77](../tpl/src/punbb/index_body.tpl#L77)
 
-* __[Template viewforum_body](../tpl/var/punbb/viewforum_body.md#readme) :__[ligne 56](../tpl/src/punbb/viewforum_body.tpl#L56)
+* __[viewforum_body](../tpl/var/punbb/viewforum_body.md#readme) :__ [ligne 56](../tpl/src/punbb/viewforum_body.tpl#L56)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 197](../tpl/src/subsilver/index_body.tpl#L197)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 197](../tpl/src/subsilver/index_body.tpl#L197)
 
-* __[Template viewforum_body](../tpl/var/subsilver/viewforum_body.md#readme) :__[ligne 33](../tpl/src/subsilver/viewforum_body.tpl#L33), [ligne 62](../tpl/src/subsilver/viewforum_body.tpl#L62)
+* __[viewforum_body](../tpl/var/subsilver/viewforum_body.md#readme) :__ [ligne 33](../tpl/src/subsilver/viewforum_body.tpl#L33), [ligne 62](../tpl/src/subsilver/viewforum_body.tpl#L62)

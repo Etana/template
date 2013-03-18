@@ -14,4 +14,4 @@ Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets 
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 316](../tpl/src/subsilver/overall_header.tpl#L316)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 316](../tpl/src/subsilver/overall_header.tpl#L316)

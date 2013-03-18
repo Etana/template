@@ -1,7 +1,7 @@
 # reg_user_row.LASTUPDATE
 
 
-Attribut d'affichage de [reg_user_row](reg_user_row.md#readme).
+Attribut de [reg_user_row](reg_user_row.md#readme).
 
 ```html
 <!-- BEGIN reg_user_row -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [reg_user_row](reg_user_row.md#readme).
 
 ### Version PunBB
 
-* __[Template viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__[ligne 50](../tpl/src/punbb/viewonline_body.tpl#L50)
+* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ [ligne 50](../tpl/src/punbb/viewonline_body.tpl#L50)
 
 ### Version phpBB2
 
-* __[Template viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__[ligne 26](../tpl/src/subsilver/viewonline_body.tpl#L26)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ [ligne 26](../tpl/src/subsilver/viewonline_body.tpl#L26)

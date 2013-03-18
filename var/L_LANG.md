@@ -16,12 +16,12 @@ Chaîne de texte qui permet de définir un code JavaScript selon la langue de vo
 
 ### Version PunBB
 
-* __[Template simple_header](../tpl/var/punbb/simple_header.md#readme) :__[ligne 11](../tpl/src/punbb/simple_header.tpl#L11)
+* __[simple_header](../tpl/var/punbb/simple_header.md#readme) :__ [ligne 11](../tpl/src/punbb/simple_header.tpl#L11)
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 23](../tpl/src/punbb/overall_header.tpl#L23)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 23](../tpl/src/punbb/overall_header.tpl#L23)
 
 ### Version phpBB2
 
-* __[Template simple_header](../tpl/var/subsilver/simple_header.md#readme) :__[ligne 11](../tpl/src/subsilver/simple_header.tpl#L11)
+* __[simple_header](../tpl/var/subsilver/simple_header.md#readme) :__ [ligne 11](../tpl/src/subsilver/simple_header.tpl#L11)
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 23](../tpl/src/subsilver/overall_header.tpl#L23)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 23](../tpl/src/subsilver/overall_header.tpl#L23)

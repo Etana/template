@@ -1,7 +1,7 @@
 # memberrow.LASTVISIT
 
 
-Attribut d'affichage de [memberrow](memberrow.md#readme).
+Attribut de [memberrow](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [memberrow](memberrow.md#readme).
 
 ### Version PunBB
 
-* __[Template memberlist_body](../tpl/var/punbb/memberlist_body.md#readme) :__[ligne 85](../tpl/src/punbb/memberlist_body.tpl#L85)
+* __[memberlist_body](../tpl/var/punbb/memberlist_body.md#readme) :__ [ligne 85](../tpl/src/punbb/memberlist_body.tpl#L85)
 
 ### Version phpBB2
 
-* __[Template memberlist_body](../tpl/var/subsilver/memberlist_body.md#readme) :__[ligne 46](../tpl/src/subsilver/memberlist_body.tpl#L46)
+* __[memberlist_body](../tpl/var/subsilver/memberlist_body.md#readme) :__ [ligne 46](../tpl/src/subsilver/memberlist_body.tpl#L46)

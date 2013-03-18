@@ -1,7 +1,7 @@
 # switch_desc.SITE_DESCRIPTION
 
 
-Attribut d'affichage de [switch_desc](switch_desc.md#readme).
+Attribut de [switch_desc](switch_desc.md#readme).
 
 ```html
 <!-- BEGIN switch_desc -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [switch_desc](switch_desc.md#readme).
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 242](../tpl/src/punbb/overall_header.tpl#L242)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 242](../tpl/src/punbb/overall_header.tpl#L242)

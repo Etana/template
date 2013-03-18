@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.nav_tree
 
 
-Attribut de bouclage de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
+Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -24,4 +24,4 @@ Attribut de bouclage de [topics_list_box.row.topic](topics_list_box.row.topic.md
 
 ### Version phpBB2
 
-* __[Template topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__[ligne 68](../tpl/src/subsilver/topics_list_box.tpl#L68), [ligne 68](../tpl/src/subsilver/topics_list_box.tpl#L68)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 68](../tpl/src/subsilver/topics_list_box.tpl#L68), [ligne 68](../tpl/src/subsilver/topics_list_box.tpl#L68)

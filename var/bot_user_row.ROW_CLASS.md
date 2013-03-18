@@ -1,7 +1,7 @@
 # bot_user_row.ROW_CLASS
 
 
-Attribut d'affichage de [bot_user_row](bot_user_row.md#readme).
+Attribut de [bot_user_row](bot_user_row.md#readme).
 
 ```html
 <!-- BEGIN bot_user_row -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [bot_user_row](bot_user_row.md#readme).
 
 ### Version phpBB2
 
-* __[Template viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__[ligne 38](../tpl/src/subsilver/viewonline_body.tpl#L38), [ligne 39](../tpl/src/subsilver/viewonline_body.tpl#L39), [ligne 40](../tpl/src/subsilver/viewonline_body.tpl#L40)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ [ligne 38](../tpl/src/subsilver/viewonline_body.tpl#L38), [ligne 39](../tpl/src/subsilver/viewonline_body.tpl#L39), [ligne 40](../tpl/src/subsilver/viewonline_body.tpl#L40)

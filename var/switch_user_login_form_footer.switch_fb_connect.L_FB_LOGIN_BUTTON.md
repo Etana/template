@@ -1,7 +1,7 @@
 # switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON
 
 
-Attribut d'affichage de [switch_user_login_form_footer.switch_fb_connect](switch_user_login_form_footer.switch_fb_connect.md#readme).
+Attribut de [switch_user_login_form_footer.switch_fb_connect](switch_user_login_form_footer.switch_fb_connect.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_footer -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [switch_user_login_form_footer.switch_fb_connect](switch
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 114](../tpl/src/punbb/index_body.tpl#L114)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 114](../tpl/src/punbb/index_body.tpl#L114)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 164](../tpl/src/subsilver/index_body.tpl#L164)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 164](../tpl/src/subsilver/index_body.tpl#L164)

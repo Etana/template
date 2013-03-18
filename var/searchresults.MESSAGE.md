@@ -1,7 +1,7 @@
 # searchresults.MESSAGE
 
 
-Attribut d'affichage de [searchresults](searchresults.md#readme).
+Attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [searchresults](searchresults.md#readme).
 
 ### Version PunBB
 
-* __[Template search_results_posts](../tpl/var/punbb/search_results_posts.md#readme) :__[ligne 50](../tpl/src/punbb/search_results_posts.tpl#L50)
+* __[search_results_posts](../tpl/var/punbb/search_results_posts.md#readme) :__ [ligne 50](../tpl/src/punbb/search_results_posts.tpl#L50)
 
 ### Version phpBB2
 
-* __[Template search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__[ligne 26](../tpl/src/subsilver/search_results_posts.tpl#L26)
+* __[search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__ [ligne 26](../tpl/src/subsilver/search_results_posts.tpl#L26)

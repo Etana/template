@@ -1,7 +1,7 @@
 # switch_canonical_url
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN switch_canonical_url -->
@@ -14,15 +14,14 @@ contenu
 
 ## Attributs
 * [{switch_canonical_url.CANONICAL_URL}](switch_canonical_url.CANONICAL_URL.md#readme)
-* [{switch_canonical_url.CANONICAL_URL}](switch_canonical_url.CANONICAL_URL.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 11](../tpl/src/punbb/overall_header.tpl#L11), [ligne 13](../tpl/src/punbb/overall_header.tpl#L13)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 11](../tpl/src/punbb/overall_header.tpl#L11), [ligne 13](../tpl/src/punbb/overall_header.tpl#L13)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 11](../tpl/src/subsilver/overall_header.tpl#L11), [ligne 13](../tpl/src/subsilver/overall_header.tpl#L13)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 11](../tpl/src/subsilver/overall_header.tpl#L11), [ligne 13](../tpl/src/subsilver/overall_header.tpl#L13)

@@ -1,7 +1,7 @@
 # switch_on_index.switch_delete_cookies.L_DELETE_COOKIES
 
 
-Attribut d'affichage de [switch_on_index.switch_delete_cookies](switch_on_index.switch_delete_cookies.md#readme).
+Attribut de [switch_on_index.switch_delete_cookies](switch_on_index.switch_delete_cookies.md#readme).
 
 ```html
 <!-- BEGIN switch_on_index -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [switch_on_index.switch_delete_cookies](switch_on_index.
 
 ### Version PunBB
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 69](../tpl/src/punbb/index_box.tpl#L69)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 69](../tpl/src/punbb/index_box.tpl#L69)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 102](../tpl/src/subsilver/index_body.tpl#L102)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 102](../tpl/src/subsilver/index_body.tpl#L102)

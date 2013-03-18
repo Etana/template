@@ -16,8 +16,8 @@ Affiche le texte du lien de la variable [`{U_OVERALL_POSTERS}`](U_OVERALL_POSTER
 
 ### Version PunBB
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 65](../tpl/src/punbb/index_box.tpl#L65)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 65](../tpl/src/punbb/index_box.tpl#L65)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 99](../tpl/src/subsilver/index_body.tpl#L99)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 99](../tpl/src/subsilver/index_body.tpl#L99)

@@ -1,7 +1,7 @@
 # switch_ticker.HEIGHT
 
 
-Attribut d'affichage de [switch_ticker](switch_ticker.md#readme).
+Attribut de [switch_ticker](switch_ticker.md#readme).
 
 ```html
 <!-- BEGIN switch_ticker -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [switch_ticker](switch_ticker.md#readme).
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 42](../tpl/src/punbb/overall_header.tpl#L42), [ligne 132](../tpl/src/punbb/overall_header.tpl#L132), [ligne 274](../tpl/src/punbb/overall_header.tpl#L274)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 42](../tpl/src/punbb/overall_header.tpl#L42), [ligne 132](../tpl/src/punbb/overall_header.tpl#L132), [ligne 274](../tpl/src/punbb/overall_header.tpl#L274)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 42](../tpl/src/subsilver/overall_header.tpl#L42), [ligne 138](../tpl/src/subsilver/overall_header.tpl#L138), [ligne 297](../tpl/src/subsilver/overall_header.tpl#L297)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 42](../tpl/src/subsilver/overall_header.tpl#L42), [ligne 138](../tpl/src/subsilver/overall_header.tpl#L138), [ligne 297](../tpl/src/subsilver/overall_header.tpl#L297)

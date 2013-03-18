@@ -1,7 +1,7 @@
 # catrow.forumrow.inc.INC_CLASS
 
 
-Attribut d'affichage de [catrow.forumrow.inc](catrow.forumrow.inc.md#readme).
+Attribut de [catrow.forumrow.inc](catrow.forumrow.inc.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -20,4 +20,4 @@ Attribut d'affichage de [catrow.forumrow.inc](catrow.forumrow.inc.md#readme).
 
 ### Version phpBB2
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 46](../tpl/src/subsilver/index_box.tpl#L46)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 46](../tpl/src/subsilver/index_box.tpl#L46)

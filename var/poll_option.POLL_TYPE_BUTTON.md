@@ -1,7 +1,7 @@
 # poll_option.POLL_TYPE_BUTTON
 
 
-Attribut d'affichage de [poll_option](poll_option.md#readme).
+Attribut de [poll_option](poll_option.md#readme).
 
 ```html
 <!-- BEGIN poll_option -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [poll_option](poll_option.md#readme).
 
 ### Version PunBB
 
-* __[Template viewtopic_poll_ballot](../tpl/var/punbb/viewtopic_poll_ballot.md#readme) :__[ligne 12](../tpl/src/punbb/viewtopic_poll_ballot.tpl#L12)
+* __[viewtopic_poll_ballot](../tpl/var/punbb/viewtopic_poll_ballot.md#readme) :__ [ligne 12](../tpl/src/punbb/viewtopic_poll_ballot.tpl#L12)
 
 ### Version phpBB2
 
-* __[Template viewtopic_poll_ballot](../tpl/var/subsilver/viewtopic_poll_ballot.md#readme) :__[ligne 16](../tpl/src/subsilver/viewtopic_poll_ballot.tpl#L16)
+* __[viewtopic_poll_ballot](../tpl/var/subsilver/viewtopic_poll_ballot.md#readme) :__ [ligne 16](../tpl/src/subsilver/viewtopic_poll_ballot.tpl#L16)

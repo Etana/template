@@ -1,7 +1,7 @@
 # searchresults.L_BY
 
 
-Attribut d'affichage de [searchresults](searchresults.md#readme).
+Attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [searchresults](searchresults.md#readme).
 
 ### Version PunBB
 
-* __[Template search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__[ligne 57](../tpl/src/punbb/search_results_topics.tpl#L57), [ligne 62](../tpl/src/punbb/search_results_topics.tpl#L62)
+* __[search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__ [ligne 57](../tpl/src/punbb/search_results_topics.tpl#L57), [ligne 62](../tpl/src/punbb/search_results_topics.tpl#L62)

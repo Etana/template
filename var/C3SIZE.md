@@ -14,4 +14,4 @@ Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets 
 
 ### Version phpBB2
 
-* __[Template overall_footer_begin](../tpl/var/subsilver/overall_footer_begin.md#readme) :__[ligne 10](../tpl/src/subsilver/overall_footer_begin.tpl#L10)
+* __[overall_footer_begin](../tpl/var/subsilver/overall_footer_begin.md#readme) :__ [ligne 10](../tpl/src/subsilver/overall_footer_begin.tpl#L10)

@@ -1,7 +1,7 @@
 # topics_list_box.row.bottom.multi_selection
 
 
-Attribut de bouclage de [topics_list_box.row.bottom](topics_list_box.row.bottom.md#readme).
+Attribut de [topics_list_box.row.bottom](topics_list_box.row.bottom.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -18,11 +18,10 @@ Attribut de bouclage de [topics_list_box.row.bottom](topics_list_box.row.bottom.
 
 ## Attributs
 * [{topics_list_box.row.bottom.multi_selection.BOX_ID}](topics_list_box.row.bottom.multi_selection.BOX_ID.md#readme)
-* [{topics_list_box.row.bottom.multi_selection.BOX_ID}](topics_list_box.row.bottom.multi_selection.BOX_ID.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__[ligne 111](../tpl/src/punbb/topics_list_box.tpl#L111), [ligne 113](../tpl/src/punbb/topics_list_box.tpl#L113)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 111](../tpl/src/punbb/topics_list_box.tpl#L111), [ligne 113](../tpl/src/punbb/topics_list_box.tpl#L113)

@@ -14,18 +14,18 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template search_body](../tpl/var/punbb/search_body.md#readme) :__[ligne 69](../tpl/src/punbb/search_body.tpl#L69)
+* __[search_body](../tpl/var/punbb/search_body.md#readme) :__ [ligne 69](../tpl/src/punbb/search_body.tpl#L69)
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 15](../tpl/src/punbb/index_box.tpl#L15)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 15](../tpl/src/punbb/index_box.tpl#L15)
 
-* __[Template search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__[ligne 36](../tpl/src/punbb/search_results_topics.tpl#L36)
+* __[search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__ [ligne 36](../tpl/src/punbb/search_results_topics.tpl#L36)
 
-* __[Template topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__[ligne 35](../tpl/src/punbb/topics_list_box.tpl#L35), [ligne 64](../tpl/src/punbb/topics_list_box.tpl#L64), [ligne 114](../tpl/src/punbb/topics_list_box.tpl#L114)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 35](../tpl/src/punbb/topics_list_box.tpl#L35), [ligne 64](../tpl/src/punbb/topics_list_box.tpl#L64), [ligne 114](../tpl/src/punbb/topics_list_box.tpl#L114)
 
 ### Version phpBB2
 
-* __[Template search_body](../tpl/var/subsilver/search_body.md#readme) :__[ligne 59](../tpl/src/subsilver/search_body.tpl#L59)
+* __[search_body](../tpl/var/subsilver/search_body.md#readme) :__ [ligne 59](../tpl/src/subsilver/search_body.tpl#L59)
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 23](../tpl/src/subsilver/index_box.tpl#L23)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 23](../tpl/src/subsilver/index_box.tpl#L23)
 
-* __[Template search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__[ligne 19](../tpl/src/subsilver/search_results_topics.tpl#L19)
+* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ [ligne 19](../tpl/src/subsilver/search_results_topics.tpl#L19)

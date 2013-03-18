@@ -1,7 +1,7 @@
 # switch_ticker.SPEED
 
 
-Attribut d'affichage de [switch_ticker](switch_ticker.md#readme).
+Attribut de [switch_ticker](switch_ticker.md#readme).
 
 ```html
 <!-- BEGIN switch_ticker -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [switch_ticker](switch_ticker.md#readme).
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 107](../tpl/src/punbb/overall_header.tpl#L107), [ligne 132](../tpl/src/punbb/overall_header.tpl#L132)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 107](../tpl/src/punbb/overall_header.tpl#L107), [ligne 132](../tpl/src/punbb/overall_header.tpl#L132)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 114](../tpl/src/subsilver/overall_header.tpl#L114), [ligne 138](../tpl/src/subsilver/overall_header.tpl#L138)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 114](../tpl/src/subsilver/overall_header.tpl#L114), [ligne 138](../tpl/src/subsilver/overall_header.tpl#L138)

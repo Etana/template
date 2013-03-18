@@ -14,12 +14,12 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template confirm_body](../tpl/var/punbb/confirm_body.md#readme) :__[ligne 4](../tpl/src/punbb/confirm_body.tpl#L4)
+* __[confirm_body](../tpl/var/punbb/confirm_body.md#readme) :__ [ligne 4](../tpl/src/punbb/confirm_body.tpl#L4)
 
-* __[Template donate](../tpl/var/punbb/donate.md#readme) :__[ligne 183](../tpl/src/punbb/donate.tpl#L183)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 183](../tpl/src/punbb/donate.tpl#L183)
 
 ### Version phpBB2
 
-* __[Template confirm_body](../tpl/var/subsilver/confirm_body.md#readme) :__[ligne 12](../tpl/src/subsilver/confirm_body.tpl#L12)
+* __[confirm_body](../tpl/var/subsilver/confirm_body.md#readme) :__ [ligne 12](../tpl/src/subsilver/confirm_body.tpl#L12)
 
-* __[Template donate](../tpl/var/subsilver/donate.md#readme) :__[ligne 222](../tpl/src/subsilver/donate.tpl#L222)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 222](../tpl/src/subsilver/donate.tpl#L222)

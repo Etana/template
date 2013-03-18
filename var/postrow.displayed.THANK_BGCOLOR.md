@@ -1,7 +1,7 @@
 # postrow.displayed.THANK_BGCOLOR
 
 
-Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 129](../tpl/src/punbb/viewtopic_body.tpl#L129), [ligne 131](../tpl/src/punbb/viewtopic_body.tpl#L131), [ligne 132](../tpl/src/punbb/viewtopic_body.tpl#L132), [ligne 139](../tpl/src/punbb/viewtopic_body.tpl#L139)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 129](../tpl/src/punbb/viewtopic_body.tpl#L129), [ligne 131](../tpl/src/punbb/viewtopic_body.tpl#L131), [ligne 132](../tpl/src/punbb/viewtopic_body.tpl#L132), [ligne 139](../tpl/src/punbb/viewtopic_body.tpl#L139)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 123](../tpl/src/subsilver/viewtopic_body.tpl#L123), [ligne 135](../tpl/src/subsilver/viewtopic_body.tpl#L135), [ligne 234](../tpl/src/subsilver/viewtopic_body.tpl#L234), [ligne 237](../tpl/src/subsilver/viewtopic_body.tpl#L237)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 123](../tpl/src/subsilver/viewtopic_body.tpl#L123), [ligne 135](../tpl/src/subsilver/viewtopic_body.tpl#L135), [ligne 234](../tpl/src/subsilver/viewtopic_body.tpl#L234), [ligne 237](../tpl/src/subsilver/viewtopic_body.tpl#L237)

@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template viewtopic_poll_result](../tpl/var/punbb/viewtopic_poll_result.md#readme) :__[ligne 14](../tpl/src/punbb/viewtopic_poll_result.tpl#L14)
+* __[viewtopic_poll_result](../tpl/var/punbb/viewtopic_poll_result.md#readme) :__ [ligne 14](../tpl/src/punbb/viewtopic_poll_result.tpl#L14)
 
 ### Version phpBB2
 
-* __[Template viewtopic_poll_result](../tpl/var/subsilver/viewtopic_poll_result.md#readme) :__[ligne 20](../tpl/src/subsilver/viewtopic_poll_result.tpl#L20)
+* __[viewtopic_poll_result](../tpl/var/subsilver/viewtopic_poll_result.md#readme) :__ [ligne 20](../tpl/src/subsilver/viewtopic_poll_result.tpl#L20)

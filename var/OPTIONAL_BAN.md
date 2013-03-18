@@ -14,4 +14,4 @@ Cette variable est utilisable directement.
 
 ### Version phpBB2
 
-* __[Template confirm_body](../tpl/var/subsilver/confirm_body.md#readme) :__[ligne 15](../tpl/src/subsilver/confirm_body.tpl#L15)
+* __[confirm_body](../tpl/var/subsilver/confirm_body.md#readme) :__ [ligne 15](../tpl/src/subsilver/confirm_body.tpl#L15)

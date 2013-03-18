@@ -1,7 +1,7 @@
 # postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE
 
 
-Attribut d'affichage de [postrow.displayed.switch_attachments.switch_post_attachments](postrow.displayed.switch_attachments.switch_post_attachments.md#readme).
+Attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postrow.displayed.switch_attachments.switch_post_attachments.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -22,8 +22,8 @@ Attribut d'affichage de [postrow.displayed.switch_attachments.switch_post_attach
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 218](../tpl/src/punbb/viewtopic_body.tpl#L218)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 218](../tpl/src/punbb/viewtopic_body.tpl#L218)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 212](../tpl/src/subsilver/viewtopic_body.tpl#L212)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 212](../tpl/src/subsilver/viewtopic_body.tpl#L212)

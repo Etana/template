@@ -1,7 +1,7 @@
 # switch_delete_cookies
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN switch_delete_cookies -->
@@ -21,4 +21,4 @@ contenu
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 91](../tpl/src/subsilver/index_body.tpl#L91), [ligne 93](../tpl/src/subsilver/index_body.tpl#L93)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 91](../tpl/src/subsilver/index_body.tpl#L91), [ligne 93](../tpl/src/subsilver/index_body.tpl#L93)

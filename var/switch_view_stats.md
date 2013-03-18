@@ -1,7 +1,7 @@
 # switch_view_stats
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN switch_view_stats -->
@@ -21,4 +21,4 @@ contenu
 
 ### Version phpBB2
 
-* __[Template simple_footer](../tpl/var/subsilver/simple_footer.md#readme) :__[ligne 14](../tpl/src/subsilver/simple_footer.tpl#L14), [ligne 16](../tpl/src/subsilver/simple_footer.tpl#L16)
+* __[simple_footer](../tpl/var/subsilver/simple_footer.md#readme) :__ [ligne 14](../tpl/src/subsilver/simple_footer.tpl#L14), [ligne 16](../tpl/src/subsilver/simple_footer.tpl#L16)

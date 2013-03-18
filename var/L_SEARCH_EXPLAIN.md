@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template search_username](../tpl/var/punbb/search_username.md#readme) :__[ligne 16](../tpl/src/punbb/search_username.tpl#L16)
+* __[search_username](../tpl/var/punbb/search_username.md#readme) :__ [ligne 16](../tpl/src/punbb/search_username.tpl#L16)
 
 ### Version phpBB2
 
-* __[Template search_username](../tpl/var/subsilver/search_username.md#readme) :__[ligne 13](../tpl/src/subsilver/search_username.tpl#L13)
+* __[search_username](../tpl/var/subsilver/search_username.md#readme) :__ [ligne 13](../tpl/src/subsilver/search_username.tpl#L13)

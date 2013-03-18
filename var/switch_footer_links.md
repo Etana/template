@@ -1,7 +1,7 @@
 # switch_footer_links
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN switch_footer_links -->
@@ -14,15 +14,14 @@ contenu
 
 ## Attributs
 * [<!-- BEGIN footer_link -->](switch_footer_links.footer_link.md#readme)
-* [<!-- BEGIN footer_link -->](switch_footer_links.footer_link.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__[ligne 16](../tpl/src/punbb/overall_footer_end.tpl#L16), [ligne 25](../tpl/src/punbb/overall_footer_end.tpl#L25)
+* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ [ligne 16](../tpl/src/punbb/overall_footer_end.tpl#L16), [ligne 25](../tpl/src/punbb/overall_footer_end.tpl#L25)
 
 ### Version phpBB2
 
-* __[Template overall_footer_end](../tpl/var/subsilver/overall_footer_end.md#readme) :__[ligne 14](../tpl/src/subsilver/overall_footer_end.tpl#L14), [ligne 23](../tpl/src/subsilver/overall_footer_end.tpl#L23)
+* __[overall_footer_end](../tpl/var/subsilver/overall_footer_end.md#readme) :__ [ligne 14](../tpl/src/subsilver/overall_footer_end.tpl#L14), [ligne 23](../tpl/src/subsilver/overall_footer_end.tpl#L23)

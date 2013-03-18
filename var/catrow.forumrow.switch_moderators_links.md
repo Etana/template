@@ -1,7 +1,7 @@
 # catrow.forumrow.switch_moderators_links
 
 
-Attribut de bouclage de [catrow.forumrow](catrow.forumrow.md#readme).
+Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -15,18 +15,16 @@ Attribut de bouclage de [catrow.forumrow](catrow.forumrow.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
 
 ## Attributs
-* [{catrow.forumrow.switch_moderators_links.L_MODERATOR}](catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)
 * [{catrow.forumrow.switch_moderators_links.MODERATORS}](catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)
 * [{catrow.forumrow.switch_moderators_links.L_MODERATOR}](catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)
-* [{catrow.forumrow.switch_moderators_links.MODERATORS}](catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 32](../tpl/src/punbb/index_box.tpl#L32), [ligne 35](../tpl/src/punbb/index_box.tpl#L35)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 32](../tpl/src/punbb/index_box.tpl#L32), [ligne 35](../tpl/src/punbb/index_box.tpl#L35)
 
 ### Version phpBB2
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 59](../tpl/src/subsilver/index_box.tpl#L59), [ligne 61](../tpl/src/subsilver/index_box.tpl#L61)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 59](../tpl/src/subsilver/index_box.tpl#L59), [ligne 61](../tpl/src/subsilver/index_box.tpl#L61)

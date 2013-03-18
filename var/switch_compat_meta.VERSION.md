@@ -1,7 +1,7 @@
 # switch_compat_meta.VERSION
 
 
-Attribut d'affichage de [switch_compat_meta](switch_compat_meta.md#readme).
+Attribut de [switch_compat_meta](switch_compat_meta.md#readme).
 
 ```html
 <!-- BEGIN switch_compat_meta -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [switch_compat_meta](switch_compat_meta.md#readme).
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 9](../tpl/src/punbb/overall_header.tpl#L9)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 9](../tpl/src/punbb/overall_header.tpl#L9)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 9](../tpl/src/subsilver/overall_header.tpl#L9)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 9](../tpl/src/subsilver/overall_header.tpl#L9)

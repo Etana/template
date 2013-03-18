@@ -1,7 +1,7 @@
 # postrow.displayed.SIGNATURE
 
 
-Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 222](../tpl/src/subsilver/viewtopic_body.tpl#L222)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 222](../tpl/src/subsilver/viewtopic_body.tpl#L222)

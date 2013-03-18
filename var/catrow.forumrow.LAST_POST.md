@@ -1,7 +1,7 @@
 # catrow.forumrow.LAST_POST
 
 
-Attribut d'affichage de [catrow.forumrow](catrow.forumrow.md#readme).
+Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [catrow.forumrow](catrow.forumrow.md#readme).
 
 ### Version phpBB2
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 72](../tpl/src/subsilver/index_box.tpl#L72)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 72](../tpl/src/subsilver/index_box.tpl#L72)

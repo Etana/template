@@ -1,7 +1,7 @@
 # searchresults.TOPIC_VIEWS
 
 
-Attribut d'affichage de [searchresults](searchresults.md#readme).
+Attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [searchresults](searchresults.md#readme).
 
 ### Version PunBB
 
-* __[Template search_results_posts](../tpl/var/punbb/search_results_posts.md#readme) :__[ligne 62](../tpl/src/punbb/search_results_posts.tpl#L62)
+* __[search_results_posts](../tpl/var/punbb/search_results_posts.md#readme) :__ [ligne 62](../tpl/src/punbb/search_results_posts.tpl#L62)
 
 ### Version phpBB2
 
-* __[Template search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__[ligne 21](../tpl/src/subsilver/search_results_posts.tpl#L21)
+* __[search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__ [ligne 21](../tpl/src/subsilver/search_results_posts.tpl#L21)

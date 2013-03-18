@@ -1,7 +1,7 @@
 # reg_user_row.ROW_CLASS
 
 
-Attribut d'affichage de [reg_user_row](reg_user_row.md#readme).
+Attribut de [reg_user_row](reg_user_row.md#readme).
 
 ```html
 <!-- BEGIN reg_user_row -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [reg_user_row](reg_user_row.md#readme).
 
 ### Version phpBB2
 
-* __[Template viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__[ligne 25](../tpl/src/subsilver/viewonline_body.tpl#L25), [ligne 26](../tpl/src/subsilver/viewonline_body.tpl#L26), [ligne 27](../tpl/src/subsilver/viewonline_body.tpl#L27)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ [ligne 25](../tpl/src/subsilver/viewonline_body.tpl#L25), [ligne 26](../tpl/src/subsilver/viewonline_body.tpl#L26), [ligne 27](../tpl/src/subsilver/viewonline_body.tpl#L27)

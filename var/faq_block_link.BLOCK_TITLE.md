@@ -1,7 +1,7 @@
 # faq_block_link.BLOCK_TITLE
 
 
-Attribut d'affichage de [faq_block_link](faq_block_link.md#readme).
+Attribut de [faq_block_link](faq_block_link.md#readme).
 
 ```html
 <!-- BEGIN faq_block_link -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [faq_block_link](faq_block_link.md#readme).
 
 ### Version PunBB
 
-* __[Template faq_body](../tpl/var/punbb/faq_body.md#readme) :__[ligne 23](../tpl/src/punbb/faq_body.tpl#L23)
+* __[faq_body](../tpl/var/punbb/faq_body.md#readme) :__ [ligne 23](../tpl/src/punbb/faq_body.tpl#L23)
 
 ### Version phpBB2
 
-* __[Template faq_body](../tpl/var/subsilver/faq_body.md#readme) :__[ligne 10](../tpl/src/subsilver/faq_body.tpl#L10)
+* __[faq_body](../tpl/var/subsilver/faq_body.md#readme) :__ [ligne 10](../tpl/src/subsilver/faq_body.tpl#L10)

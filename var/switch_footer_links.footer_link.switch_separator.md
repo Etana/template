@@ -1,7 +1,7 @@
 # switch_footer_links.footer_link.switch_separator
 
 
-Attribut de bouclage de [switch_footer_links.footer_link](switch_footer_links.footer_link.md#readme).
+Attribut de [switch_footer_links.footer_link](switch_footer_links.footer_link.md#readme).
 
 ```html
 <!-- BEGIN switch_footer_links -->
@@ -18,8 +18,8 @@ Attribut de bouclage de [switch_footer_links.footer_link](switch_footer_links.fo
 
 ### Version PunBB
 
-* __[Template overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__[ligne 20](../tpl/src/punbb/overall_footer_end.tpl#L20), [ligne 20](../tpl/src/punbb/overall_footer_end.tpl#L20)
+* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ [ligne 20](../tpl/src/punbb/overall_footer_end.tpl#L20), [ligne 20](../tpl/src/punbb/overall_footer_end.tpl#L20)
 
 ### Version phpBB2
 
-* __[Template overall_footer_end](../tpl/var/subsilver/overall_footer_end.md#readme) :__[ligne 18](../tpl/src/subsilver/overall_footer_end.tpl#L18), [ligne 18](../tpl/src/subsilver/overall_footer_end.tpl#L18)
+* __[overall_footer_end](../tpl/var/subsilver/overall_footer_end.md#readme) :__ [ligne 18](../tpl/src/subsilver/overall_footer_end.tpl#L18), [ligne 18](../tpl/src/subsilver/overall_footer_end.tpl#L18)

@@ -1,7 +1,7 @@
 # postrow.displayed.POSTER_RPG
 
 
-Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [postrow.displayed](postrow.displayed.md#readme).
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 153](../tpl/src/punbb/viewtopic_body.tpl#L153)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 153](../tpl/src/punbb/viewtopic_body.tpl#L153)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 131](../tpl/src/subsilver/viewtopic_body.tpl#L131)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 131](../tpl/src/subsilver/viewtopic_body.tpl#L131)

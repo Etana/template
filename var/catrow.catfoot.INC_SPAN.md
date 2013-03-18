@@ -1,7 +1,7 @@
 # catrow.catfoot.INC_SPAN
 
 
-Attribut d'affichage de [catrow.catfoot](catrow.catfoot.md#readme).
+Attribut de [catrow.catfoot](catrow.catfoot.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [catrow.catfoot](catrow.catfoot.md#readme).
 
 ### Version phpBB2
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 81](../tpl/src/subsilver/index_box.tpl#L81)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 81](../tpl/src/subsilver/index_box.tpl#L81)

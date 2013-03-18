@@ -1,7 +1,7 @@
 # switch_fb_login
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN switch_fb_login -->
@@ -15,16 +15,14 @@ contenu
 ## Attributs
 * [{switch_fb_login.FB_LOCAL}](switch_fb_login.FB_LOCAL.md#readme)
 * [{switch_fb_login.JS_FB_LOGIN}](switch_fb_login.JS_FB_LOGIN.md#readme)
-* [{switch_fb_login.FB_LOCAL}](switch_fb_login.FB_LOCAL.md#readme)
-* [{switch_fb_login.JS_FB_LOGIN}](switch_fb_login.JS_FB_LOGIN.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 25](../tpl/src/punbb/overall_header.tpl#L25), [ligne 28](../tpl/src/punbb/overall_header.tpl#L28)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 25](../tpl/src/punbb/overall_header.tpl#L25), [ligne 28](../tpl/src/punbb/overall_header.tpl#L28)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 25](../tpl/src/subsilver/overall_header.tpl#L25), [ligne 28](../tpl/src/subsilver/overall_header.tpl#L28)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 25](../tpl/src/subsilver/overall_header.tpl#L25), [ligne 28](../tpl/src/subsilver/overall_header.tpl#L28)

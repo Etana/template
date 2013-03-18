@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template search_body](../tpl/var/punbb/search_body.md#readme) :__[ligne 48](../tpl/src/punbb/search_body.tpl#L48)
+* __[search_body](../tpl/var/punbb/search_body.md#readme) :__ [ligne 48](../tpl/src/punbb/search_body.tpl#L48)
 
 ### Version phpBB2
 
-* __[Template search_body](../tpl/var/subsilver/search_body.md#readme) :__[ligne 25](../tpl/src/subsilver/search_body.tpl#L25)
+* __[search_body](../tpl/var/subsilver/search_body.md#readme) :__ [ligne 25](../tpl/src/subsilver/search_body.tpl#L25)

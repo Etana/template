@@ -1,7 +1,7 @@
 # credit_card_method.switch_select_currency.select_currency.VALUE
 
 
-Attribut d'affichage de [credit_card_method.switch_select_currency.select_currency](credit_card_method.switch_select_currency.select_currency.md#readme).
+Attribut de [credit_card_method.switch_select_currency.select_currency](credit_card_method.switch_select_currency.select_currency.md#readme).
 
 ```html
 <!-- BEGIN credit_card_method -->
@@ -20,8 +20,8 @@ Attribut d'affichage de [credit_card_method.switch_select_currency.select_curren
 
 ### Version PunBB
 
-* __[Template donate](../tpl/var/punbb/donate.md#readme) :__[ligne 117](../tpl/src/punbb/donate.tpl#L117)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 117](../tpl/src/punbb/donate.tpl#L117)
 
 ### Version phpBB2
 
-* __[Template donate](../tpl/var/subsilver/donate.md#readme) :__[ligne 146](../tpl/src/subsilver/donate.tpl#L146)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 146](../tpl/src/subsilver/donate.tpl#L146)

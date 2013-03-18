@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template memberlist_body](../tpl/var/punbb/memberlist_body.md#readme) :__[ligne 71](../tpl/src/punbb/memberlist_body.tpl#L71)
+* __[memberlist_body](../tpl/var/punbb/memberlist_body.md#readme) :__ [ligne 71](../tpl/src/punbb/memberlist_body.tpl#L71)
 
 ### Version phpBB2
 
-* __[Template memberlist_body](../tpl/var/subsilver/memberlist_body.md#readme) :__[ligne 33](../tpl/src/subsilver/memberlist_body.tpl#L33)
+* __[memberlist_body](../tpl/var/subsilver/memberlist_body.md#readme) :__ [ligne 33](../tpl/src/subsilver/memberlist_body.tpl#L33)

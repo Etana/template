@@ -14,4 +14,4 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 79](../tpl/src/punbb/index_body.tpl#L79)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 79](../tpl/src/punbb/index_body.tpl#L79)

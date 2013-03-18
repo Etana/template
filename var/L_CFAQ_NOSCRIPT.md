@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template faq_dhtml](../tpl/var/punbb/faq_dhtml.md#readme) :__[ligne 23](../tpl/src/punbb/faq_dhtml.tpl#L23)
+* __[faq_dhtml](../tpl/var/punbb/faq_dhtml.md#readme) :__ [ligne 23](../tpl/src/punbb/faq_dhtml.tpl#L23)
 
 ### Version phpBB2
 
-* __[Template faq_dhtml](../tpl/var/subsilver/faq_dhtml.md#readme) :__[ligne 6](../tpl/src/subsilver/faq_dhtml.tpl#L6)
+* __[faq_dhtml](../tpl/var/subsilver/faq_dhtml.md#readme) :__ [ligne 6](../tpl/src/subsilver/faq_dhtml.tpl#L6)

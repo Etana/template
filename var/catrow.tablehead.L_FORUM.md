@@ -1,7 +1,7 @@
 # catrow.tablehead.L_FORUM
 
 
-Attribut d'affichage de [catrow.tablehead](catrow.tablehead.md#readme).
+Attribut de [catrow.tablehead](catrow.tablehead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [catrow.tablehead](catrow.tablehead.md#readme).
 
 ### Version PunBB
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 8](../tpl/src/punbb/index_box.tpl#L8)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 8](../tpl/src/punbb/index_box.tpl#L8)
 
 ### Version phpBB2
 
-* __[Template index_box](../tpl/var/subsilver/index_box.md#readme) :__[ligne 22](../tpl/src/subsilver/index_box.tpl#L22)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 22](../tpl/src/subsilver/index_box.tpl#L22)

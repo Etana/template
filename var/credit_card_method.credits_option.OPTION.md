@@ -1,7 +1,7 @@
 # credit_card_method.credits_option.OPTION
 
 
-Attribut d'affichage de [credit_card_method.credits_option](credit_card_method.credits_option.md#readme).
+Attribut de [credit_card_method.credits_option](credit_card_method.credits_option.md#readme).
 
 ```html
 <!-- BEGIN credit_card_method -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [credit_card_method.credits_option](credit_card_method.c
 
 ### Version PunBB
 
-* __[Template donate](../tpl/var/punbb/donate.md#readme) :__[ligne 135](../tpl/src/punbb/donate.tpl#L135)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 135](../tpl/src/punbb/donate.tpl#L135)
 
 ### Version phpBB2
 
-* __[Template donate](../tpl/var/subsilver/donate.md#readme) :__[ligne 162](../tpl/src/subsilver/donate.tpl#L162)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 162](../tpl/src/subsilver/donate.tpl#L162)

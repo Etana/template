@@ -1,7 +1,7 @@
 # postrow.displayed.switch_signature
 
 
-Attribut de bouclage de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -15,16 +15,16 @@ Attribut de bouclage de [postrow.displayed](postrow.displayed.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
 
 ## Attributs
-* [{postrow.displayed.switch_signature.SIGNATURE}](postrow.displayed.switch_signature.SIGNATURE.md#readme)
 * [{postrow.displayed.switch_signature.SIGNATURE_NEW}](postrow.displayed.switch_signature.SIGNATURE_NEW.md#readme)
+* [{postrow.displayed.switch_signature.SIGNATURE}](postrow.displayed.switch_signature.SIGNATURE.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 233](../tpl/src/punbb/viewtopic_body.tpl#L233), [ligne 237](../tpl/src/punbb/viewtopic_body.tpl#L237)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 233](../tpl/src/punbb/viewtopic_body.tpl#L233), [ligne 237](../tpl/src/punbb/viewtopic_body.tpl#L237)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 220](../tpl/src/subsilver/viewtopic_body.tpl#L220), [ligne 224](../tpl/src/subsilver/viewtopic_body.tpl#L224)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 220](../tpl/src/subsilver/viewtopic_body.tpl#L220), [ligne 224](../tpl/src/subsilver/viewtopic_body.tpl#L224)

@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.switch_description
 
 
-Attribut de bouclage de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
+Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -18,15 +18,14 @@ Attribut de bouclage de [topics_list_box.row.topic](topics_list_box.row.topic.md
 
 ## Attributs
 * [{topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}](topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION.md#readme)
-* [{topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}](topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__[ligne 87](../tpl/src/punbb/topics_list_box.tpl#L87), [ligne 90](../tpl/src/punbb/topics_list_box.tpl#L90)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 87](../tpl/src/punbb/topics_list_box.tpl#L87), [ligne 90](../tpl/src/punbb/topics_list_box.tpl#L90)
 
 ### Version phpBB2
 
-* __[Template topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__[ligne 61](../tpl/src/subsilver/topics_list_box.tpl#L61), [ligne 66](../tpl/src/subsilver/topics_list_box.tpl#L66)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 61](../tpl/src/subsilver/topics_list_box.tpl#L61), [ligne 66](../tpl/src/subsilver/topics_list_box.tpl#L66)

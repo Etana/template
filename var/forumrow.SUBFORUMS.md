@@ -1,7 +1,7 @@
 # forumrow.SUBFORUMS
 
 
-Attribut d'affichage de [forumrow](forumrow.md#readme).
+Attribut de [forumrow](forumrow.md#readme).
 
 ```html
 <!-- BEGIN forumrow -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [forumrow](forumrow.md#readme).
 
 ### Version PunBB
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 37](../tpl/src/punbb/index_box.tpl#L37)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 37](../tpl/src/punbb/index_box.tpl#L37)

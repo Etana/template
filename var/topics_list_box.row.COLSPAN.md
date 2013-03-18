@@ -1,7 +1,7 @@
 # topics_list_box.row.COLSPAN
 
 
-Attribut d'affichage de [topics_list_box.row](topics_list_box.row.md#readme).
+Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ### Version phpBB2
 
-* __[Template topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__[ligne 40](../tpl/src/subsilver/topics_list_box.tpl#L40), [ligne 81](../tpl/src/subsilver/topics_list_box.tpl#L81), [ligne 85](../tpl/src/subsilver/topics_list_box.tpl#L85)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 40](../tpl/src/subsilver/topics_list_box.tpl#L40), [ligne 81](../tpl/src/subsilver/topics_list_box.tpl#L81), [ligne 85](../tpl/src/subsilver/topics_list_box.tpl#L85)

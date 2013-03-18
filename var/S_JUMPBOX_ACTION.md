@@ -16,14 +16,14 @@ Action du formulaire pour sauter vers un forum.
 
 ### Version PunBB
 
-* __[Template jumpbox](../tpl/var/punbb/jumpbox.md#readme) :__[ligne 1](../tpl/src/punbb/jumpbox.tpl#L1)
+* __[jumpbox](../tpl/var/punbb/jumpbox.md#readme) :__ [ligne 1](../tpl/src/punbb/jumpbox.tpl#L1)
 
-* __[Template overall_footer_begin](../tpl/var/punbb/overall_footer_begin.md#readme) :__[ligne 29](../tpl/src/punbb/overall_footer_begin.tpl#L29)
+* __[overall_footer_begin](../tpl/var/punbb/overall_footer_begin.md#readme) :__ [ligne 29](../tpl/src/punbb/overall_footer_begin.tpl#L29)
 
 ### Version phpBB2
 
-* __[Template jumpbox](../tpl/var/subsilver/jumpbox.md#readme) :__[ligne 1](../tpl/src/subsilver/jumpbox.tpl#L1)
+* __[jumpbox](../tpl/var/subsilver/jumpbox.md#readme) :__ [ligne 1](../tpl/src/subsilver/jumpbox.tpl#L1)
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 419](../tpl/src/subsilver/viewtopic_body.tpl#L419)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 419](../tpl/src/subsilver/viewtopic_body.tpl#L419)
 
-* __[Template viewforum_body](../tpl/var/subsilver/viewforum_body.md#readme) :__[ligne 76](../tpl/src/subsilver/viewforum_body.tpl#L76)
+* __[viewforum_body](../tpl/var/subsilver/viewforum_body.md#readme) :__ [ligne 76](../tpl/src/subsilver/viewforum_body.tpl#L76)

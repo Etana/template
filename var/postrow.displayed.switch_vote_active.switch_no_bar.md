@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.switch_no_bar
 
 
-Attribut de bouclage de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote_active.md#readme).
+Attribut de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote_active.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,15 +18,14 @@ Attribut de bouclage de [postrow.displayed.switch_vote_active](postrow.displayed
 
 ## Attributs
 * [{postrow.displayed.switch_vote_active.switch_no_bar.L_VOTE_TITLE}](postrow.displayed.switch_vote_active.switch_no_bar.L_VOTE_TITLE.md#readme)
-* [{postrow.displayed.switch_vote_active.switch_no_bar.L_VOTE_TITLE}](postrow.displayed.switch_vote_active.switch_no_bar.L_VOTE_TITLE.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 177](../tpl/src/punbb/viewtopic_body.tpl#L177), [ligne 179](../tpl/src/punbb/viewtopic_body.tpl#L179)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 177](../tpl/src/punbb/viewtopic_body.tpl#L177), [ligne 179](../tpl/src/punbb/viewtopic_body.tpl#L179)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 168](../tpl/src/subsilver/viewtopic_body.tpl#L168), [ligne 170](../tpl/src/subsilver/viewtopic_body.tpl#L170)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 168](../tpl/src/subsilver/viewtopic_body.tpl#L168), [ligne 170](../tpl/src/subsilver/viewtopic_body.tpl#L170)

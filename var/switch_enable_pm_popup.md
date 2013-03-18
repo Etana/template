@@ -1,7 +1,7 @@
 # switch_enable_pm_popup
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN switch_enable_pm_popup -->
@@ -14,15 +14,14 @@ contenu
 
 ## Attributs
 * [{switch_enable_pm_popup.U_PRIVATEMSGS_POPUP}](switch_enable_pm_popup.U_PRIVATEMSGS_POPUP.md#readme)
-* [{switch_enable_pm_popup.U_PRIVATEMSGS_POPUP}](switch_enable_pm_popup.U_PRIVATEMSGS_POPUP.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 123](../tpl/src/punbb/overall_header.tpl#L123), [ligne 126](../tpl/src/punbb/overall_header.tpl#L126)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 123](../tpl/src/punbb/overall_header.tpl#L123), [ligne 126](../tpl/src/punbb/overall_header.tpl#L126)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 129](../tpl/src/subsilver/overall_header.tpl#L129), [ligne 132](../tpl/src/subsilver/overall_header.tpl#L132)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 129](../tpl/src/subsilver/overall_header.tpl#L129), [ligne 132](../tpl/src/subsilver/overall_header.tpl#L132)

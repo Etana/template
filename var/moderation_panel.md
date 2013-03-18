@@ -1,7 +1,7 @@
 # moderation_panel
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN moderation_panel -->
@@ -20,4 +20,4 @@ contenu
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 437](../tpl/src/subsilver/viewtopic_body.tpl#L437), [ligne 444](../tpl/src/subsilver/viewtopic_body.tpl#L444)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 437](../tpl/src/subsilver/viewtopic_body.tpl#L437), [ligne 444](../tpl/src/subsilver/viewtopic_body.tpl#L444)

@@ -1,7 +1,7 @@
 # searchresults.TOPIC_FOLDER_IMG
 
 
-Attribut d'affichage de [searchresults](searchresults.md#readme).
+Attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -16,10 +16,10 @@ Attribut d'affichage de [searchresults](searchresults.md#readme).
 
 ### Version PunBB
 
-* __[Template search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__[ligne 49](../tpl/src/punbb/search_results_topics.tpl#L49)
+* __[search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__ [ligne 49](../tpl/src/punbb/search_results_topics.tpl#L49)
 
 ### Version phpBB2
 
-* __[Template search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__[ligne 32](../tpl/src/subsilver/search_results_topics.tpl#L32)
+* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ [ligne 32](../tpl/src/subsilver/search_results_topics.tpl#L32)
 
-* __[Template search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__[ligne 16](../tpl/src/subsilver/search_results_posts.tpl#L16)
+* __[search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__ [ligne 16](../tpl/src/subsilver/search_results_posts.tpl#L16)

@@ -1,7 +1,7 @@
 # postrow.hidden.ROW_CLASS
 
 
-Attribut d'affichage de [postrow.hidden](postrow.hidden.md#readme).
+Attribut de [postrow.hidden](postrow.hidden.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,4 +18,4 @@ Attribut d'affichage de [postrow.hidden](postrow.hidden.md#readme).
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 118](../tpl/src/subsilver/viewtopic_body.tpl#L118)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 118](../tpl/src/subsilver/viewtopic_body.tpl#L118)

@@ -1,7 +1,7 @@
 # searchresults.TOPIC_ID
 
 
-Attribut d'affichage de [searchresults](searchresults.md#readme).
+Attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [searchresults](searchresults.md#readme).
 
 ### Version phpBB2
 
-* __[Template search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__[ligne 42](../tpl/src/subsilver/search_results_topics.tpl#L42)
+* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ [ligne 42](../tpl/src/subsilver/search_results_topics.tpl#L42)

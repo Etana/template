@@ -1,7 +1,7 @@
 # main_page.pay_method.I_BY_METHOD
 
 
-Attribut d'affichage de [main_page.pay_method](main_page.pay_method.md#readme).
+Attribut de [main_page.pay_method](main_page.pay_method.md#readme).
 
 ```html
 <!-- BEGIN main_page -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [main_page.pay_method](main_page.pay_method.md#readme).
 
 ### Version PunBB
 
-* __[Template donate](../tpl/var/punbb/donate.md#readme) :__[ligne 50](../tpl/src/punbb/donate.tpl#L50)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 50](../tpl/src/punbb/donate.tpl#L50)
 
 ### Version phpBB2
 
-* __[Template donate](../tpl/var/subsilver/donate.md#readme) :__[ligne 54](../tpl/src/subsilver/donate.tpl#L54)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 54](../tpl/src/subsilver/donate.tpl#L54)

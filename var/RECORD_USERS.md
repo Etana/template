@@ -27,8 +27,8 @@ Le record du nombre d'utilisateurs en ligne est de <strong>2</strong> le Mer 21 
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 74](../tpl/src/punbb/index_body.tpl#L74)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 74](../tpl/src/punbb/index_body.tpl#L74)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 195](../tpl/src/subsilver/index_body.tpl#L195)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 195](../tpl/src/subsilver/index_body.tpl#L195)

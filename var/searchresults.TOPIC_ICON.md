@@ -1,7 +1,7 @@
 # searchresults.TOPIC_ICON
 
 
-Attribut d'affichage de [searchresults](searchresults.md#readme).
+Attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [searchresults](searchresults.md#readme).
 
 ### Version PunBB
 
-* __[Template search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__[ligne 51](../tpl/src/punbb/search_results_topics.tpl#L51)
+* __[search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__ [ligne 51](../tpl/src/punbb/search_results_topics.tpl#L51)
 
 ### Version phpBB2
 
-* __[Template search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__[ligne 33](../tpl/src/subsilver/search_results_topics.tpl#L33)
+* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ [ligne 33](../tpl/src/subsilver/search_results_topics.tpl#L33)

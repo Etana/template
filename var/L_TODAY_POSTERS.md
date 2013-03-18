@@ -16,8 +16,8 @@ Affiche le texte du lien de la variable [`{U_TODAY_POSTERS}`](U_TODAY_POSTERS.md
 
 ### Version PunBB
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 64](../tpl/src/punbb/index_box.tpl#L64)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 64](../tpl/src/punbb/index_box.tpl#L64)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 98](../tpl/src/subsilver/index_body.tpl#L98)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 98](../tpl/src/subsilver/index_body.tpl#L98)

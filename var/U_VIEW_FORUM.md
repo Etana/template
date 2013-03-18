@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template faq_dhtml](../tpl/var/punbb/faq_dhtml.md#readme) :__[ligne 17](../tpl/src/punbb/faq_dhtml.tpl#L17)
+* __[faq_dhtml](../tpl/var/punbb/faq_dhtml.md#readme) :__ [ligne 17](../tpl/src/punbb/faq_dhtml.tpl#L17)
 
-* __[Template viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__[ligne 28](../tpl/src/punbb/viewonline_body.tpl#L28)
+* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ [ligne 28](../tpl/src/punbb/viewonline_body.tpl#L28)
 
-* __[Template faq_body](../tpl/var/punbb/faq_body.md#readme) :__[ligne 17](../tpl/src/punbb/faq_body.tpl#L17)
+* __[faq_body](../tpl/var/punbb/faq_body.md#readme) :__ [ligne 17](../tpl/src/punbb/faq_body.tpl#L17)

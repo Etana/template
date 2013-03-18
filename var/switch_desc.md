@@ -1,7 +1,7 @@
 # switch_desc
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN switch_desc -->
@@ -20,4 +20,4 @@ contenu
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 241](../tpl/src/punbb/overall_header.tpl#L241), [ligne 243](../tpl/src/punbb/overall_header.tpl#L243)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 241](../tpl/src/punbb/overall_header.tpl#L241), [ligne 243](../tpl/src/punbb/overall_header.tpl#L243)

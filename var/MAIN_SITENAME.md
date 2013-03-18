@@ -14,4 +14,4 @@ Nom du site spécifié dans `PA > Général > Forum | Configuration > Nom du sit
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 255](../tpl/src/subsilver/overall_header.tpl#L255)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 255](../tpl/src/subsilver/overall_header.tpl#L255)

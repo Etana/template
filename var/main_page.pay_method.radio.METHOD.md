@@ -1,7 +1,7 @@
 # main_page.pay_method.radio.METHOD
 
 
-Attribut d'affichage de [main_page.pay_method.radio](main_page.pay_method.radio.md#readme).
+Attribut de [main_page.pay_method.radio](main_page.pay_method.radio.md#readme).
 
 ```html
 <!-- BEGIN main_page -->
@@ -20,8 +20,8 @@ Attribut d'affichage de [main_page.pay_method.radio](main_page.pay_method.radio.
 
 ### Version PunBB
 
-* __[Template donate](../tpl/var/punbb/donate.md#readme) :__[ligne 46](../tpl/src/punbb/donate.tpl#L46), [ligne 46](../tpl/src/punbb/donate.tpl#L46)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 46](../tpl/src/punbb/donate.tpl#L46), [ligne 46](../tpl/src/punbb/donate.tpl#L46)
 
 ### Version phpBB2
 
-* __[Template donate](../tpl/var/subsilver/donate.md#readme) :__[ligne 50](../tpl/src/subsilver/donate.tpl#L50), [ligne 50](../tpl/src/subsilver/donate.tpl#L50)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 50](../tpl/src/subsilver/donate.tpl#L50), [ligne 50](../tpl/src/subsilver/donate.tpl#L50)

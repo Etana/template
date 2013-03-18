@@ -1,7 +1,7 @@
 # guest_user_row.U_FORUM_LOCATION
 
 
-Attribut d'affichage de [guest_user_row](guest_user_row.md#readme).
+Attribut de [guest_user_row](guest_user_row.md#readme).
 
 ```html
 <!-- BEGIN guest_user_row -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [guest_user_row](guest_user_row.md#readme).
 
 ### Version PunBB
 
-* __[Template viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__[ligne 65](../tpl/src/punbb/viewonline_body.tpl#L65)
+* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ [ligne 65](../tpl/src/punbb/viewonline_body.tpl#L65)
 
 ### Version phpBB2
 
-* __[Template viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__[ligne 47](../tpl/src/subsilver/viewonline_body.tpl#L47)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ [ligne 47](../tpl/src/subsilver/viewonline_body.tpl#L47)

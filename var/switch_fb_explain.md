@@ -1,7 +1,7 @@
 # switch_fb_explain
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN switch_fb_explain -->
@@ -14,15 +14,14 @@ contenu
 
 ## Attributs
 * [{switch_fb_explain.FB_EXPLAIN}](switch_fb_explain.FB_EXPLAIN.md#readme)
-* [{switch_fb_explain.FB_EXPLAIN}](switch_fb_explain.FB_EXPLAIN.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 
-* __[Template agreement](../tpl/var/punbb/agreement.md#readme) :__[ligne 20](../tpl/src/punbb/agreement.tpl#L20), [ligne 26](../tpl/src/punbb/agreement.tpl#L26)
+* __[agreement](../tpl/var/punbb/agreement.md#readme) :__ [ligne 20](../tpl/src/punbb/agreement.tpl#L20), [ligne 26](../tpl/src/punbb/agreement.tpl#L26)
 
 ### Version phpBB2
 
-* __[Template agreement](../tpl/var/subsilver/agreement.md#readme) :__[ligne 10](../tpl/src/subsilver/agreement.tpl#L10), [ligne 21](../tpl/src/subsilver/agreement.tpl#L21)
+* __[agreement](../tpl/var/subsilver/agreement.md#readme) :__ [ligne 10](../tpl/src/subsilver/agreement.tpl#L10), [ligne 21](../tpl/src/subsilver/agreement.tpl#L21)

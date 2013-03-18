@@ -1,7 +1,7 @@
 # topics_list_box.row.TOPIC_AUTHOR
 
 
-Attribut d'affichage de [topics_list_box.row](topics_list_box.row.md#readme).
+Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ### Version PunBB
 
-* __[Template topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__[ligne 86](../tpl/src/punbb/topics_list_box.tpl#L86)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 86](../tpl/src/punbb/topics_list_box.tpl#L86)
 
 ### Version phpBB2
 
-* __[Template topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__[ligne 72](../tpl/src/subsilver/topics_list_box.tpl#L72)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 72](../tpl/src/subsilver/topics_list_box.tpl#L72)

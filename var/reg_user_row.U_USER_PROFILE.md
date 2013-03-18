@@ -1,7 +1,7 @@
 # reg_user_row.U_USER_PROFILE
 
 
-Attribut d'affichage de [reg_user_row](reg_user_row.md#readme).
+Attribut de [reg_user_row](reg_user_row.md#readme).
 
 ```html
 <!-- BEGIN reg_user_row -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [reg_user_row](reg_user_row.md#readme).
 
 ### Version PunBB
 
-* __[Template viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__[ligne 49](../tpl/src/punbb/viewonline_body.tpl#L49)
+* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ [ligne 49](../tpl/src/punbb/viewonline_body.tpl#L49)
 
 ### Version phpBB2
 
-* __[Template viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__[ligne 25](../tpl/src/subsilver/viewonline_body.tpl#L25)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ [ligne 25](../tpl/src/subsilver/viewonline_body.tpl#L25)

@@ -1,7 +1,7 @@
 # promot_trafic.link.TITLE
 
 
-Attribut d'affichage de [promot_trafic.link](promot_trafic.link.md#readme).
+Attribut de [promot_trafic.link](promot_trafic.link.md#readme).
 
 ```html
 <!-- BEGIN promot_trafic -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [promot_trafic.link](promot_trafic.link.md#readme).
 
 ### Version PunBB
 
-* __[Template viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__[ligne 311](../tpl/src/punbb/viewtopic_body.tpl#L311), [ligne 311](../tpl/src/punbb/viewtopic_body.tpl#L311)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 311](../tpl/src/punbb/viewtopic_body.tpl#L311), [ligne 311](../tpl/src/punbb/viewtopic_body.tpl#L311)
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 321](../tpl/src/subsilver/viewtopic_body.tpl#L321), [ligne 321](../tpl/src/subsilver/viewtopic_body.tpl#L321)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 321](../tpl/src/subsilver/viewtopic_body.tpl#L321), [ligne 321](../tpl/src/subsilver/viewtopic_body.tpl#L321)

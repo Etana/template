@@ -16,8 +16,8 @@ Lien vers le top 20 des posteurs du jour.
 
 ### Version PunBB
 
-* __[Template index_box](../tpl/var/punbb/index_box.md#readme) :__[ligne 64](../tpl/src/punbb/index_box.tpl#L64)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 64](../tpl/src/punbb/index_box.tpl#L64)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 98](../tpl/src/subsilver/index_body.tpl#L98)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 98](../tpl/src/subsilver/index_body.tpl#L98)

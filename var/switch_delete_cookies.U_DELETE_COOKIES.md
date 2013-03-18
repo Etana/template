@@ -1,7 +1,7 @@
 # switch_delete_cookies.U_DELETE_COOKIES
 
 
-Attribut d'affichage de [switch_delete_cookies](switch_delete_cookies.md#readme).
+Attribut de [switch_delete_cookies](switch_delete_cookies.md#readme).
 
 ```html
 <!-- BEGIN switch_delete_cookies -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [switch_delete_cookies](switch_delete_cookies.md#readme)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 92](../tpl/src/subsilver/index_body.tpl#L92)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 92](../tpl/src/subsilver/index_body.tpl#L92)

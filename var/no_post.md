@@ -1,7 +1,7 @@
 # no_post
 
 
-Variable de bouclage.
+Variable.
 
 ```html
 <!-- BEGIN no_post -->
@@ -20,4 +20,4 @@ contenu
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 258](../tpl/src/subsilver/viewtopic_body.tpl#L258), [ligne 264](../tpl/src/subsilver/viewtopic_body.tpl#L264)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 258](../tpl/src/subsilver/viewtopic_body.tpl#L258), [ligne 264](../tpl/src/subsilver/viewtopic_body.tpl#L264)

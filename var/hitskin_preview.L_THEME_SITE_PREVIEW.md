@@ -1,7 +1,7 @@
 # hitskin_preview.L_THEME_SITE_PREVIEW
 
 
-Attribut d'affichage de [hitskin_preview](hitskin_preview.md#readme).
+Attribut de [hitskin_preview](hitskin_preview.md#readme).
 
 ```html
 <!-- BEGIN hitskin_preview -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [hitskin_preview](hitskin_preview.md#readme).
 
 ### Version PunBB
 
-* __[Template overall_header](../tpl/var/punbb/overall_header.md#readme) :__[ligne 202](../tpl/src/punbb/overall_header.tpl#L202)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 202](../tpl/src/punbb/overall_header.tpl#L202)
 
 ### Version phpBB2
 
-* __[Template overall_header](../tpl/var/subsilver/overall_header.md#readme) :__[ligne 207](../tpl/src/subsilver/overall_header.tpl#L207)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 207](../tpl/src/subsilver/overall_header.tpl#L207)

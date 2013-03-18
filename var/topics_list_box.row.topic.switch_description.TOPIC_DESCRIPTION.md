@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION
 
 
-Attribut d'affichage de [topics_list_box.row.topic.switch_description](topics_list_box.row.topic.switch_description.md#readme).
+Attribut de [topics_list_box.row.topic.switch_description](topics_list_box.row.topic.switch_description.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -22,8 +22,8 @@ Attribut d'affichage de [topics_list_box.row.topic.switch_description](topics_li
 
 ### Version PunBB
 
-* __[Template topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__[ligne 89](../tpl/src/punbb/topics_list_box.tpl#L89)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 89](../tpl/src/punbb/topics_list_box.tpl#L89)
 
 ### Version phpBB2
 
-* __[Template topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__[ligne 64](../tpl/src/subsilver/topics_list_box.tpl#L64)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 64](../tpl/src/subsilver/topics_list_box.tpl#L64)

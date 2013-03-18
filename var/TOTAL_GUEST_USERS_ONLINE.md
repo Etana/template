@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__[ligne 34](../tpl/src/punbb/viewonline_body.tpl#L34)
+* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ [ligne 34](../tpl/src/punbb/viewonline_body.tpl#L34)
 
 ### Version phpBB2
 
-* __[Template viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__[ligne 34](../tpl/src/subsilver/viewonline_body.tpl#L34)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ [ligne 34](../tpl/src/subsilver/viewonline_body.tpl#L34)

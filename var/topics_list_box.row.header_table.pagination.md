@@ -1,7 +1,7 @@
 # topics_list_box.row.header_table.pagination
 
 
-Attribut de bouclage de [topics_list_box.row.header_table](topics_list_box.row.header_table.md#readme).
+Attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -24,4 +24,4 @@ Attribut de bouclage de [topics_list_box.row.header_table](topics_list_box.row.h
 
 ### Version phpBB2
 
-* __[Template topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__[ligne 33](../tpl/src/subsilver/topics_list_box.tpl#L33), [ligne 37](../tpl/src/subsilver/topics_list_box.tpl#L37)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 33](../tpl/src/subsilver/topics_list_box.tpl#L33), [ligne 37](../tpl/src/subsilver/topics_list_box.tpl#L37)

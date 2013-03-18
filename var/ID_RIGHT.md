@@ -14,8 +14,8 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template overall_footer_begin](../tpl/var/punbb/overall_footer_begin.md#readme) :__[ligne 16](../tpl/src/punbb/overall_footer_begin.tpl#L16)
+* __[overall_footer_begin](../tpl/var/punbb/overall_footer_begin.md#readme) :__ [ligne 16](../tpl/src/punbb/overall_footer_begin.tpl#L16)
 
 ### Version phpBB2
 
-* __[Template overall_footer_begin](../tpl/var/subsilver/overall_footer_begin.md#readme) :__[ligne 11](../tpl/src/subsilver/overall_footer_begin.tpl#L11)
+* __[overall_footer_begin](../tpl/var/subsilver/overall_footer_begin.md#readme) :__ [ligne 11](../tpl/src/subsilver/overall_footer_begin.tpl#L11)

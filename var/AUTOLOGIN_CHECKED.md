@@ -16,8 +16,8 @@ Choix de la connexion automatique.
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 41](../tpl/src/punbb/index_body.tpl#L41), [ligne 110](../tpl/src/punbb/index_body.tpl#L110)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 41](../tpl/src/punbb/index_body.tpl#L41), [ligne 110](../tpl/src/punbb/index_body.tpl#L110)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 30](../tpl/src/subsilver/index_body.tpl#L30), [ligne 58](../tpl/src/subsilver/index_body.tpl#L58), [ligne 121](../tpl/src/subsilver/index_body.tpl#L121), [ligne 149](../tpl/src/subsilver/index_body.tpl#L149)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 30](../tpl/src/subsilver/index_body.tpl#L30), [ligne 58](../tpl/src/subsilver/index_body.tpl#L58), [ligne 121](../tpl/src/subsilver/index_body.tpl#L121), [ligne 149](../tpl/src/subsilver/index_body.tpl#L149)

@@ -1,7 +1,7 @@
 # guest_user_row.USERNAME
 
 
-Attribut d'affichage de [guest_user_row](guest_user_row.md#readme).
+Attribut de [guest_user_row](guest_user_row.md#readme).
 
 ```html
 <!-- BEGIN guest_user_row -->
@@ -16,8 +16,8 @@ Attribut d'affichage de [guest_user_row](guest_user_row.md#readme).
 
 ### Version PunBB
 
-* __[Template viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__[ligne 63](../tpl/src/punbb/viewonline_body.tpl#L63)
+* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ [ligne 63](../tpl/src/punbb/viewonline_body.tpl#L63)
 
 ### Version phpBB2
 
-* __[Template viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__[ligne 45](../tpl/src/subsilver/viewonline_body.tpl#L45)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ [ligne 45](../tpl/src/subsilver/viewonline_body.tpl#L45)

@@ -1,7 +1,7 @@
 # switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS
 
 
-Attribut d'affichage de [switch_user_login_form_header.switch_fb_connect](switch_user_login_form_header.switch_fb_connect.md#readme).
+Attribut de [switch_user_login_form_header.switch_fb_connect](switch_user_login_form_header.switch_fb_connect.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_header -->
@@ -18,8 +18,8 @@ Attribut d'affichage de [switch_user_login_form_header.switch_fb_connect](switch
 
 ### Version PunBB
 
-* __[Template index_body](../tpl/var/punbb/index_body.md#readme) :__[ligne 45](../tpl/src/punbb/index_body.tpl#L45)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 45](../tpl/src/punbb/index_body.tpl#L45)
 
 ### Version phpBB2
 
-* __[Template index_body](../tpl/var/subsilver/index_body.md#readme) :__[ligne 73](../tpl/src/subsilver/index_body.tpl#L73)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 73](../tpl/src/subsilver/index_body.tpl#L73)

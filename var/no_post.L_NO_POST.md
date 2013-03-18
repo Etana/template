@@ -1,7 +1,7 @@
 # no_post.L_NO_POST
 
 
-Attribut d'affichage de [no_post](no_post.md#readme).
+Attribut de [no_post](no_post.md#readme).
 
 ```html
 <!-- BEGIN no_post -->
@@ -16,4 +16,4 @@ Attribut d'affichage de [no_post](no_post.md#readme).
 
 ### Version phpBB2
 
-* __[Template viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__[ligne 261](../tpl/src/subsilver/viewtopic_body.tpl#L261)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 261](../tpl/src/subsilver/viewtopic_body.tpl#L261)

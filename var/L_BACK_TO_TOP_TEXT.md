@@ -14,4 +14,4 @@ Cette variable est utilisable directement.
 
 ### Version PunBB
 
-* __[Template faq_body](../tpl/var/punbb/faq_body.md#readme) :__[ligne 43](../tpl/src/punbb/faq_body.tpl#L43)
+* __[faq_body](../tpl/var/punbb/faq_body.md#readme) :__ [ligne 43](../tpl/src/punbb/faq_body.tpl#L43)

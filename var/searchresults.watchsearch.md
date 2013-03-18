@@ -1,7 +1,7 @@
 # searchresults.watchsearch
 
 
-Attribut de bouclage de [searchresults](searchresults.md#readme).
+Attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -20,4 +20,4 @@ Attribut de bouclage de [searchresults](searchresults.md#readme).
 
 ### Version phpBB2
 
-* __[Template search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__[ligne 41](../tpl/src/subsilver/search_results_topics.tpl#L41), [ligne 43](../tpl/src/subsilver/search_results_topics.tpl#L43)
+* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ [ligne 41](../tpl/src/subsilver/search_results_topics.tpl#L41), [ligne 43](../tpl/src/subsilver/search_results_topics.tpl#L43)
