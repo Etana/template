@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_explain)
 
 ## Attributs
-### Variable d'affichage
+### D'affichage
 * [FB_EXPLAIN](switch_fb_explain.FB_EXPLAIN.md#readme)
 
 
