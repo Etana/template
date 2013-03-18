@@ -7,8 +7,8 @@ Cette variable est utilisable directement.
 {U_INDEX}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/U_INDEX)
-Lien vers l'index de votre forum.
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_INDEX)
 
 ## Utilisations dans les templates
 
