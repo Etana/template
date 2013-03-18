@@ -1,4 +1,11 @@
-# Variable L_UNMARK_ALL
+# Variable d'affichage
+```
+L_UNMARK_ALL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_UNMARK_ALL)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_UNMARK_ALL}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_UNMARK_ALL)
 
 ## Utilisations dans les templates
 

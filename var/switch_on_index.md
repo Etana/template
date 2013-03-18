@@ -1,4 +1,11 @@
-# Boucle switch_on_index
+# Variable de bouclage
+```
+switch_on_index
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_on_index -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index)
-
 ## Attributs
-### Attributs de boucle
+### Variable de boucle
 * [switch_delete_cookies](switch_on_index.switch_delete_cookies.md#readme)
 
 

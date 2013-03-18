@@ -1,4 +1,11 @@
-# Boucle credit_card_method
+# Variable de bouclage
+```
+credit_card_method
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END credit_card_method -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_BY](credit_card_method.L_BY.md#readme)
 * [L_SELECT_SUM](credit_card_method.L_SELECT_SUM.md#readme)
 * [S_CREDITS_ADD_ACTION](credit_card_method.S_CREDITS_ADD_ACTION.md#readme)
@@ -28,7 +32,7 @@ Cette variable est utilisable directement dans une boucle.
 * [L_SUBMIT](credit_card_method.L_SUBMIT.md#readme)
 * [S_CREDITS_ADD_ACTION](credit_card_method.S_CREDITS_ADD_ACTION.md#readme)
 * [L_CANCEL](credit_card_method.L_CANCEL.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [switch_select_currency](credit_card_method.switch_select_currency.md#readme)
 * [credits_option](credit_card_method.credits_option.md#readme)
 

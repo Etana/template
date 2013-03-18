@@ -1,4 +1,11 @@
-# Variable JS_HIDE_HIDDEN_MESSAGE
+# Variable d'affichage
+```
+JS_HIDE_HIDDEN_MESSAGE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_HIDE_HIDDEN_MESSAGE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {JS_HIDE_HIDDEN_MESSAGE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_HIDE_HIDDEN_MESSAGE)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Variable de boucle topics_list_box.FORMNAME
+# Attribut d'affichage
+```
+topics_list_box.FORMNAME
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.FORMNAME)
 
 ##Disponibilité
 Cette variable est un attribut de [topics_list_box](topics_list_box.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [topics_list_box](topics_list_box.md#readme).
     {topics_list_box.FORMNAME}
 <!-- END topics_list_box -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.FORMNAME)
 
 ## Utilisations dans les templates
 

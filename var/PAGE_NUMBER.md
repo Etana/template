@@ -1,4 +1,11 @@
-# Variable PAGE_NUMBER
+# Variable d'affichage
+```
+PAGE_NUMBER
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAGE_NUMBER)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {PAGE_NUMBER}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAGE_NUMBER)
 
 ## Utilisations dans les templates
 

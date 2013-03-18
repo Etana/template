@@ -1,4 +1,11 @@
-# Variable de boucle main_page.pay_method.L_BY_METHOD
+# Attribut d'affichage
+```
+main_page.pay_method.L_BY_METHOD
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.L_BY_METHOD)
 
 ##Disponibilité
 Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md
     <!-- END pay_method -->
 <!-- END main_page -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.L_BY_METHOD)
 
 ## Utilisations dans les templates
 

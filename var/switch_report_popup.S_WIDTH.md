@@ -1,4 +1,11 @@
-# Variable de boucle switch_report_popup.S_WIDTH
+# Attribut d'affichage
+```
+switch_report_popup.S_WIDTH
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup.S_WIDTH)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_report_popup](switch_report_popup.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [switch_report_popup](switch_report_popup.md#r
     {switch_report_popup.S_WIDTH}
 <!-- END switch_report_popup -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup.S_WIDTH)
 
 ## Utilisations dans les templates
 

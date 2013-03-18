@@ -1,4 +1,13 @@
-# Variable AUTOLOGIN_CHECKED
+# Variable d'affichage
+```
+AUTOLOGIN_CHECKED
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED)
+Choix de la connexion automatique.
+
+* __Contenu :__  `checked="checked"` si l'utilisateur a coché "Connexion automatique"
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {AUTOLOGIN_CHECKED}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED)
-Choix de la connexion automatique.
-
-* __Contenu :__  `checked="checked"` si l'utilisateur a coché "Connexion automatique"
 
 ## Utilisations dans les templates
 

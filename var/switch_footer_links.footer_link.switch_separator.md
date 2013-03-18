@@ -1,4 +1,11 @@
-# Variable de boucle switch_footer_links.footer_link.switch_separator
+# Attribut de bouclage
+```
+switch_footer_links.footer_link.switch_separator
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.switch_separator)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_footer_links.footer_link](switch_footer_links.footer_link.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [switch_footer_links.footer_link](switch_foote
     <!-- END footer_link -->
 <!-- END switch_footer_links -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.switch_separator)
 
 ## Utilisations dans les templates
 

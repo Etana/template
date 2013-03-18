@@ -1,4 +1,11 @@
-# Variable de boucle disable_viewonline.switch_viewonline_nolink
+# Attribut de bouclage
+```
+disable_viewonline.switch_viewonline_nolink
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_nolink)
 
 ##Disponibilité
 Cette variable est un attribut de [disable_viewonline](disable_viewonline.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [disable_viewonline](disable_viewonline.md#rea
 <!-- END disable_viewonline -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_nolink)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_WHO_IS_ONLINE](disable_viewonline.switch_viewonline_nolink.L_WHO_IS_ONLINE.md#readme)
 
 

@@ -1,4 +1,11 @@
-# Variable SPACER
+# Variable d'affichage
+```
+SPACER
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SPACER)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SPACER}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SPACER)
 
 ## Utilisations dans les templates
 

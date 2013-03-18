@@ -1,4 +1,11 @@
-# Variable L_FIRST_STEP
+# Variable d'affichage
+```
+L_FIRST_STEP
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FIRST_STEP)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_FIRST_STEP}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FIRST_STEP)
 
 ## Utilisations dans les templates
 

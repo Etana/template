@@ -1,4 +1,11 @@
-# Variable U_PRIVATEMSGS_POPUP
+# Variable d'affichage
+```
+U_PRIVATEMSGS_POPUP
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS_POPUP)
+Adresse URL du popup d'avertissement d'un nouveau message privé.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {U_PRIVATEMSGS_POPUP}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS_POPUP)
-Adresse URL du popup d'avertissement d'un nouveau message privé.
 
 ## Utilisations dans les templates
 

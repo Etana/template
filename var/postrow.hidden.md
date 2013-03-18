@@ -1,4 +1,11 @@
-# Variable de boucle postrow.hidden
+# Attribut de bouclage
+```
+postrow.hidden
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.hidden)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow](postrow.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [postrow](postrow.md#readme).
 <!-- END postrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.hidden)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [ROW_CLASS](postrow.hidden.ROW_CLASS.md#readme)
 * [MESSAGE](postrow.hidden.MESSAGE.md#readme)
 

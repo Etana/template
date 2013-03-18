@@ -1,4 +1,11 @@
-# Variable de boucle switch_on_index.switch_delete_cookies
+# Attribut de bouclage
+```
+switch_on_index.switch_delete_cookies
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_on_index](switch_on_index.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [switch_on_index](switch_on_index.md#readme).
 <!-- END switch_on_index -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_DELETE_COOKIES](switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme)
 * [L_DELETE_COOKIES](switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)
 

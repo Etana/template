@@ -1,4 +1,13 @@
-# Variable L_LOGIN
+# Variable d'affichage
+```
+L_LOGIN
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_LOGIN)
+Chaîne de texte.
+
+* __Contenu en français :__ `Connexion`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_LOGIN}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_LOGIN)
-Chaîne de texte.
-
-* __Contenu en français :__ `Connexion`
 
 ## Utilisations dans les templates
 

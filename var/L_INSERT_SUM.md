@@ -1,4 +1,11 @@
-# Variable L_INSERT_SUM
+# Variable d'affichage
+```
+L_INSERT_SUM
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_INSERT_SUM)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_INSERT_SUM}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_INSERT_SUM)
 
 ## Utilisations dans les templates
 

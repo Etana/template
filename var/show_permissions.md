@@ -1,4 +1,11 @@
-# Boucle show_permissions
+# Variable de bouclage
+```
+show_permissions
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/show_permissions)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END show_permissions -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/show_permissions)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_TABS_PERMISSIONS](show_permissions.L_TABS_PERMISSIONS.md#readme)
 * [S_AUTH_LIST](show_permissions.S_AUTH_LIST.md#readme)
 * [TABS_LESS_IMG](show_permissions.TABS_LESS_IMG.md#readme)

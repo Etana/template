@@ -1,4 +1,11 @@
-# Variable MESSAGE_TEXT
+# Variable d'affichage
+```
+MESSAGE_TEXT
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/MESSAGE_TEXT)
+Contenu du message d'erreur d'exécution.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {MESSAGE_TEXT}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/MESSAGE_TEXT)
-Contenu du message d'erreur d'exécution.
 
 ## Utilisations dans les templates
 

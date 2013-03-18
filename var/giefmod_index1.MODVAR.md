@@ -1,4 +1,11 @@
-# Variable de boucle giefmod_index1.MODVAR
+# Attribut d'affichage
+```
+giefmod_index1.MODVAR
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/giefmod_index1.MODVAR)
+Affiche les widgets du forum un par un.
 
 ##Disponibilité
 Cette variable est un attribut de [giefmod_index1](giefmod_index1.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [giefmod_index1](giefmod_index1.md#readme).
     {giefmod_index1.MODVAR}
 <!-- END giefmod_index1 -->
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/giefmod_index1.MODVAR)
-Affiche les widgets du forum un par un.
 
 ## Utilisations dans les templates
 

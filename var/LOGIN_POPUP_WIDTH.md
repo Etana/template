@@ -1,4 +1,11 @@
-# Variable LOGIN_POPUP_WIDTH
+# Variable d'affichage
+```
+LOGIN_POPUP_WIDTH
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_WIDTH)
+Largeur du popup de connexion définie dans `PA > Général > Forum | Configuration > Popup de connexion > Largeur`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {LOGIN_POPUP_WIDTH}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_WIDTH)
-Largeur du popup de connexion définie dans `PA > Général > Forum | Configuration > Popup de connexion > Largeur`.
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Variable S_ORDER_SELECT
+# Variable d'affichage
+```
+S_ORDER_SELECT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {S_ORDER_SELECT}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)
 
 ## Utilisations dans les templates
 

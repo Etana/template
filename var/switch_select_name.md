@@ -1,4 +1,11 @@
-# Boucle switch_select_name
+# Variable de bouclage
+```
+switch_select_name
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_select_name)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_select_name -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_select_name)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [S_USERNAME_OPTIONS](switch_select_name.S_USERNAME_OPTIONS.md#readme)
 * [L_SELECT](switch_select_name.L_SELECT.md#readme)
 

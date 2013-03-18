@@ -1,4 +1,11 @@
-# Variable META
+# Variable d'affichage
+```
+META
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/META)
+Contient les différentes balises META de votre forum.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {META}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/META)
-Contient les différentes balises META de votre forum.
 
 ## Utilisations dans les templates
 

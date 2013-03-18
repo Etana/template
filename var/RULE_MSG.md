@@ -1,4 +1,11 @@
-# Variable RULE_MSG
+# Variable d'affichage
+```
+RULE_MSG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/RULE_MSG)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {RULE_MSG}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/RULE_MSG)
 
 ## Utilisations dans les templates
 

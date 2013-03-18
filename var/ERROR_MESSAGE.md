@@ -1,4 +1,13 @@
-# Variable ERROR_MESSAGE
+# Variable d'affichage
+```
+ERROR_MESSAGE
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/ERROR_MESSAGE)
+Contenu du message d'erreur.
+
+*Attention : Si vous supprimez cette variable, vous n'aurez plus aucune information sur les messages d'erreur !*
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {ERROR_MESSAGE}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/ERROR_MESSAGE)
-Contenu du message d'erreur.
-
-*Attention : Si vous supprimez cette variable, vous n'aurez plus aucune information sur les messages d'erreur !*
 
 ## Utilisations dans les templates
 

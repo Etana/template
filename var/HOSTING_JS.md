@@ -1,4 +1,11 @@
-# Variable HOSTING_JS
+# Variable d'affichage
+```
+HOSTING_JS
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/HOSTING_JS)
+Contient tout le JavaScript de votre forum.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {HOSTING_JS}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/HOSTING_JS)
-Contient tout le JavaScript de votre forum.
 
 ## Utilisations dans les templates
 

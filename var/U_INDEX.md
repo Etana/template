@@ -1,4 +1,11 @@
-# Variable U_INDEX
+# Variable d'affichage
+```
+U_INDEX
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/U_INDEX)
+Lien vers l'index de votre forum.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {U_INDEX}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/U_INDEX)
-Lien vers l'index de votre forum.
 
 ## Utilisations dans les templates
 

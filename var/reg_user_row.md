@@ -1,4 +1,11 @@
-# Boucle reg_user_row
+# Variable de bouclage
+```
+reg_user_row
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/reg_user_row)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END reg_user_row -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/reg_user_row)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [ROW_CLASS](reg_user_row.ROW_CLASS.md#readme)
 * [U_USER_PROFILE](reg_user_row.U_USER_PROFILE.md#readme)
 * [USERNAME](reg_user_row.USERNAME.md#readme)

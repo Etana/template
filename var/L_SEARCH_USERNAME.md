@@ -1,4 +1,11 @@
-# Variable L_SEARCH_USERNAME
+# Variable d'affichage
+```
+L_SEARCH_USERNAME
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_USERNAME)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_SEARCH_USERNAME}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_USERNAME)
 
 ## Utilisations dans les templates
 

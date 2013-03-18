@@ -1,4 +1,11 @@
-# Variable de boucle poll_option.POLL_OPTION_IMG_WIDTH
+# Attribut d'affichage
+```
+poll_option.POLL_OPTION_IMG_WIDTH
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_IMG_WIDTH)
 
 ##Disponibilité
 Cette variable est un attribut de [poll_option](poll_option.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [poll_option](poll_option.md#readme).
     {poll_option.POLL_OPTION_IMG_WIDTH}
 <!-- END poll_option -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_IMG_WIDTH)
 
 ## Utilisations dans les templates
 

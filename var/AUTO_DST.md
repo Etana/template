@@ -1,4 +1,11 @@
-# Variable AUTO_DST
+# Variable d'affichage
+```
+AUTO_DST
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/AUTO_DST)
+Variable actuellement inutilisée.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {AUTO_DST}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/AUTO_DST)
-Variable actuellement inutilisée.
 
 ## Utilisations dans les templates
 

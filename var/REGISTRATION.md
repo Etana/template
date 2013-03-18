@@ -1,4 +1,11 @@
-# Variable REGISTRATION
+# Variable d'affichage
+```
+REGISTRATION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/REGISTRATION)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {REGISTRATION}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/REGISTRATION)
 
 ## Utilisations dans les templates
 

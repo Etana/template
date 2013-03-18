@@ -1,4 +1,11 @@
-# Variable de boucle searchresults.GOTO_PAGE
+# Attribut d'affichage
+```
+searchresults.GOTO_PAGE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
 
 ##Disponibilité
 Cette variable est un attribut de [searchresults](searchresults.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [searchresults](searchresults.md#readme).
     {searchresults.GOTO_PAGE}
 <!-- END searchresults -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
 
 ## Utilisations dans les templates
 

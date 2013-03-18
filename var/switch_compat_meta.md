@@ -1,4 +1,11 @@
-# Boucle switch_compat_meta
+# Variable de bouclage
+```
+switch_compat_meta
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_compat_meta -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [VERSION](switch_compat_meta.VERSION.md#readme)
 
 

@@ -1,4 +1,11 @@
-# Variable SITENAME_TITLE
+# Variable d'affichage
+```
+SITENAME_TITLE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SITENAME_TITLE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SITENAME_TITLE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SITENAME_TITLE)
 
 ## Utilisations dans les templates
 

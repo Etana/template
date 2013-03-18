@@ -1,4 +1,11 @@
-# Variable NAV_CAT_DESC_SECOND
+# Variable d'affichage
+```
+NAV_CAT_DESC_SECOND
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC_SECOND)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {NAV_CAT_DESC_SECOND}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC_SECOND)
 
 ## Utilisations dans les templates
 

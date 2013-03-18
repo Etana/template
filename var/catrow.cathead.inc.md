@@ -1,4 +1,11 @@
-# Variable de boucle catrow.cathead.inc
+# Attribut de bouclage
+```
+catrow.cathead.inc
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.inc)
 
 ##Disponibilité
 Cette variable est un attribut de [catrow.cathead](catrow.cathead.md#readme).
@@ -11,11 +18,8 @@ Cette variable est un attribut de [catrow.cathead](catrow.cathead.md#readme).
 <!-- END catrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.inc)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [INC_CLASS](catrow.cathead.inc.INC_CLASS.md#readme)
 * [SPACER](catrow.cathead.inc.SPACER.md#readme)
 

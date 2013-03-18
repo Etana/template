@@ -1,4 +1,11 @@
-# Variable de boucle giefmod_index1.saut
+# Attribut de bouclage
+```
+giefmod_index1.saut
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
 
 ##Disponibilité
 Cette variable est un attribut de [giefmod_index1](giefmod_index1.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [giefmod_index1](giefmod_index1.md#readme).
 <!-- END giefmod_index1 -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [SPACE_ROW](giefmod_index1.saut.SPACE_ROW.md#readme)
 
 

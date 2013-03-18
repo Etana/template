@@ -1,4 +1,11 @@
-# Boucle switch_enable_pm_popup
+# Variable de bouclage
+```
+switch_enable_pm_popup
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_enable_pm_popup -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_PRIVATEMSGS_POPUP](switch_enable_pm_popup.U_PRIVATEMSGS_POPUP.md#readme)
 
 

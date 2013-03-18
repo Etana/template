@@ -1,4 +1,11 @@
-# Variable L_SELECT
+# Variable d'affichage
+```
+L_SELECT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SELECT)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_SELECT}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SELECT)
 
 ## Utilisations dans les templates
 

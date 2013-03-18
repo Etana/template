@@ -1,4 +1,11 @@
-# Variable T_BODY_TABLE_WIDTH
+# Variable d'affichage
+```
+T_BODY_TABLE_WIDTH
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/T_BODY_TABLE_WIDTH)
+Largeur du forum définie dans `PA > Général > Forum | Configuration > Largeur du forum (nombre ou %)`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {T_BODY_TABLE_WIDTH}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/T_BODY_TABLE_WIDTH)
-Largeur du forum définie dans `PA > Général > Forum | Configuration > Largeur du forum (nombre ou %)`.
 
 ## Utilisations dans les templates
 

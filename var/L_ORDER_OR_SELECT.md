@@ -1,4 +1,11 @@
-# Variable L_ORDER_OR_SELECT
+# Variable d'affichage
+```
+L_ORDER_OR_SELECT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ORDER_OR_SELECT)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_ORDER_OR_SELECT}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ORDER_OR_SELECT)
 
 ## Utilisations dans les templates
 

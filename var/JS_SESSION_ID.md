@@ -1,4 +1,11 @@
-# Variable JS_SESSION_ID
+# Variable d'affichage
+```
+JS_SESSION_ID
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_SESSION_ID)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {JS_SESSION_ID}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_SESSION_ID)
 
 ## Utilisations dans les templates
 

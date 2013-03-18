@@ -1,4 +1,11 @@
-# Boucle bot_user_row
+# Variable de bouclage
+```
+bot_user_row
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END bot_user_row -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [ROW_CLASS](bot_user_row.ROW_CLASS.md#readme)
 * [USERNAME](bot_user_row.USERNAME.md#readme)
 * [ROW_CLASS](bot_user_row.ROW_CLASS.md#readme)

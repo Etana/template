@@ -1,4 +1,11 @@
-# Boucle cancel_vote
+# Variable de bouclage
+```
+cancel_vote
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/cancel_vote)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END cancel_vote -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/cancel_vote)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_CANCEL_VOTE](cancel_vote.U_CANCEL_VOTE.md#readme)
 * [L_CANCEL_VOTE](cancel_vote.L_CANCEL_VOTE.md#readme)
 

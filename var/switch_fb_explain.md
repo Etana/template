@@ -1,4 +1,11 @@
-# Boucle switch_fb_explain
+# Variable de bouclage
+```
+switch_fb_explain
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_explain)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_fb_explain -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_explain)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [FB_EXPLAIN](switch_fb_explain.FB_EXPLAIN.md#readme)
 
 

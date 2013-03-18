@@ -1,4 +1,11 @@
-# Boucle googlemap
+# Variable de bouclage
+```
+googlemap
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END googlemap -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_GOOGLEMAP](googlemap.U_GOOGLEMAP.md#readme)
 
 

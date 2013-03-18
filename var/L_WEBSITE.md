@@ -1,4 +1,11 @@
-# Variable L_WEBSITE
+# Variable d'affichage
+```
+L_WEBSITE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_WEBSITE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_WEBSITE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_WEBSITE)
 
 ## Utilisations dans les templates
 

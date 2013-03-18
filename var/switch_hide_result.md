@@ -1,4 +1,11 @@
-# Boucle switch_hide_result
+# Variable de bouclage
+```
+switch_hide_result
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_hide_result)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_hide_result -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_hide_result)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_POLL_HIDE_RESULT](switch_hide_result.L_POLL_HIDE_RESULT.md#readme)
 
 

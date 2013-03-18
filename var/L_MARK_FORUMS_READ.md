@@ -1,4 +1,13 @@
-# Variable L_MARK_FORUMS_READ
+# Variable d'affichage
+```
+L_MARK_FORUMS_READ
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_MARK_FORUMS_READ)
+Affiche le texte du lien de la variable [`{U_MARK_READ}`](U_MARK_READ.md#readme).
+
+* __Contenu en français :__  `Top 20 des posteurs du jour`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_MARK_FORUMS_READ}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_MARK_FORUMS_READ)
-Affiche le texte du lien de la variable [`{U_MARK_READ}`](U_MARK_READ.md#readme).
-
-* __Contenu en français :__  `Top 20 des posteurs du jour`
 
 ## Utilisations dans les templates
 

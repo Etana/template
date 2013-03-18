@@ -1,4 +1,11 @@
-# Variable LOGO
+# Variable d'affichage
+```
+LOGO
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/LOGO)
+Logo du forum spécifié dans `PA > Affichage > Images et Couleurs | Gestion des images > Logo du forum`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {LOGO}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/LOGO)
-Logo du forum spécifié dans `PA > Affichage > Images et Couleurs | Gestion des images > Logo du forum`.
 
 ## Utilisations dans les templates
 

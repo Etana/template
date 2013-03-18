@@ -1,4 +1,11 @@
-# Variable SID
+# Variable d'affichage
+```
+SID
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SID)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SID}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SID)
 
 ## Utilisations dans les templates
 

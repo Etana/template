@@ -1,4 +1,11 @@
-# Boucle switch_user_login_form_header
+# Variable de bouclage
+```
+switch_user_login_form_header
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_header)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,13 +16,10 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_user_login_form_header -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_header)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [S_LOGIN_ACTION](switch_user_login_form_header.S_LOGIN_ACTION.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [switch_fb_connect_no](switch_user_login_form_header.switch_fb_connect_no.md#readme)
 * [switch_fb_connect](switch_user_login_form_header.switch_fb_connect.md#readme)
 

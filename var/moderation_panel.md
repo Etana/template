@@ -1,4 +1,11 @@
-# Boucle moderation_panel
+# Variable de bouclage
+```
+moderation_panel
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END moderation_panel -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_YOUR_PERSONAL_MODERATE](moderation_panel.U_YOUR_PERSONAL_MODERATE.md#readme)
 
 

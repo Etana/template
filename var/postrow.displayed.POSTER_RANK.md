@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.POSTER_RANK
+# Attribut d'affichage
+```
+postrow.displayed.POSTER_RANK
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_RANK)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readm
     <!-- END displayed -->
 <!-- END postrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_RANK)
 
 ## Utilisations dans les templates
 

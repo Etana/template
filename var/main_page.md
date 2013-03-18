@@ -1,4 +1,11 @@
-# Boucle main_page
+# Variable de bouclage
+```
+main_page
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,16 +16,13 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END main_page -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_TERMS_OF_SERVICE](main_page.L_TERMS_OF_SERVICE.md#readme)
 * [TERMS_OF_SERVICE](main_page.TERMS_OF_SERVICE.md#readme)
 * [L_CREDIT_ADD_TITLE](main_page.L_CREDIT_ADD_TITLE.md#readme)
 * [L_MAKE_DONATION](main_page.L_MAKE_DONATION.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [pay_method](main_page.pay_method.md#readme)
 
 

@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.profile_field.LABEL
+# Attribut d'affichage
+```
+postrow.displayed.profile_field.LABEL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.LABEL)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed.profile_field](postrow.displayed.profile_field.md#readme).
@@ -12,9 +19,6 @@ Cette variable est un attribut de [postrow.displayed.profile_field](postrow.disp
     <!-- END displayed -->
 <!-- END postrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.LABEL)
 
 ## Utilisations dans les templates
 

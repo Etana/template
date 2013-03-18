@@ -1,4 +1,11 @@
-# Variable de boucle switch_fb_index_login.FACEBOOK_APP_ID
+# Attribut d'affichage
+```
+switch_fb_index_login.FACEBOOK_APP_ID
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_fb_index_login](switch_fb_index_login.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [switch_fb_index_login](switch_fb_index_login.
     {switch_fb_index_login.FACEBOOK_APP_ID}
 <!-- END switch_fb_index_login -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID)
 
 ## Utilisations dans les templates
 

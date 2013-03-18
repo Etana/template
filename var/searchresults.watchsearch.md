@@ -1,4 +1,11 @@
-# Variable de boucle searchresults.watchsearch
+# Attribut de bouclage
+```
+searchresults.watchsearch
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
 
 ##Disponibilité
 Cette variable est un attribut de [searchresults](searchresults.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [searchresults](searchresults.md#readme).
 <!-- END searchresults -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [TOPIC_ID](searchresults.watchsearch.TOPIC_ID.md#readme)
 
 

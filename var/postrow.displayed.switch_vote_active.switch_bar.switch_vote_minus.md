@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus
+# Attribut de bouclage
+```
+postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed.switch_vote_active.switch_bar](postrow.displayed.switch_vote_active.switch_bar.md#readme).
@@ -15,11 +22,8 @@ Cette variable est un attribut de [postrow.displayed.switch_vote_active.switch_b
 <!-- END postrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [HEIGHT_MINUS](postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS.md#readme)
 
 

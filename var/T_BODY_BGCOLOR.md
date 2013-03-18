@@ -1,4 +1,11 @@
-# Variable T_BODY_BGCOLOR
+# Variable d'affichage
+```
+T_BODY_BGCOLOR
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/T_BODY_BGCOLOR)
+Couleur du fond de page définie dans `PA > Affichage > Images et Couleurs | Couleurs > Couleur du fond de page`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {T_BODY_BGCOLOR}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/T_BODY_BGCOLOR)
-Couleur du fond de page définie dans `PA > Affichage > Images et Couleurs | Couleurs > Couleur du fond de page`.
 
 ## Utilisations dans les templates
 

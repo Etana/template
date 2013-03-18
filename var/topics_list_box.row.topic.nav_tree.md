@@ -1,4 +1,11 @@
-# Variable de boucle topics_list_box.row.topic.nav_tree
+# Attribut de bouclage
+```
+topics_list_box.row.topic.nav_tree
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.nav_tree)
 
 ##Disponibilité
 Cette variable est un attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
@@ -13,11 +20,8 @@ Cette variable est un attribut de [topics_list_box.row.topic](topics_list_box.ro
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.nav_tree)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [TOPIC_NAV_TREE](topics_list_box.row.topic.nav_tree.TOPIC_NAV_TREE.md#readme)
 
 

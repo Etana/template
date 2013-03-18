@@ -1,4 +1,11 @@
-# Boucle watchsearch1
+# Variable de bouclage
+```
+watchsearch1
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/watchsearch1)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END watchsearch1 -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/watchsearch1)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_STOP_WATCH](watchsearch1.L_STOP_WATCH.md#readme)
 * [L_MARK_ALL](watchsearch1.L_MARK_ALL.md#readme)
 * [L_UNMARK_ALL](watchsearch1.L_UNMARK_ALL.md#readme)

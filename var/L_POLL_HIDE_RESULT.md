@@ -1,4 +1,11 @@
-# Variable L_POLL_HIDE_RESULT
+# Variable d'affichage
+```
+L_POLL_HIDE_RESULT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POLL_HIDE_RESULT)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_POLL_HIDE_RESULT}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POLL_HIDE_RESULT)
 
 ## Utilisations dans les templates
 

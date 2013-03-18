@@ -1,4 +1,11 @@
-# Variable JUMPBOX
+# Variable d'affichage
+```
+JUMPBOX
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/JUMPBOX)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {JUMPBOX}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/JUMPBOX)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Variable TOTAL_GUEST_USERS_ONLINE
+# Variable d'affichage
+```
+TOTAL_GUEST_USERS_ONLINE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOTAL_GUEST_USERS_ONLINE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {TOTAL_GUEST_USERS_ONLINE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOTAL_GUEST_USERS_ONLINE)
 
 ## Utilisations dans les templates
 

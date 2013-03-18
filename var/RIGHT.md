@@ -1,4 +1,11 @@
-# Variable RIGHT
+# Variable d'affichage
+```
+RIGHT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/RIGHT)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {RIGHT}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/RIGHT)
 
 ## Utilisations dans les templates
 

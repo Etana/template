@@ -1,4 +1,11 @@
-# Variable de boucle credit_card_method.switch_select_currency.select_currency.VALUE
+# Attribut d'affichage
+```
+credit_card_method.switch_select_currency.select_currency.VALUE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.VALUE)
 
 ##Disponibilité
 Cette variable est un attribut de [credit_card_method.switch_select_currency.select_currency](credit_card_method.switch_select_currency.select_currency.md#readme).
@@ -12,9 +19,6 @@ Cette variable est un attribut de [credit_card_method.switch_select_currency.sel
     <!-- END switch_select_currency -->
 <!-- END credit_card_method -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.VALUE)
 
 ## Utilisations dans les templates
 

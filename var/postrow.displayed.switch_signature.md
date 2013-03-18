@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.switch_signature
+# Attribut de bouclage
+```
+postrow.displayed.switch_signature
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
@@ -11,11 +18,8 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readm
 <!-- END postrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [SIGNATURE](postrow.displayed.switch_signature.SIGNATURE.md#readme)
 
 

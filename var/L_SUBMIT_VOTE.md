@@ -1,4 +1,11 @@
-# Variable L_SUBMIT_VOTE
+# Variable d'affichage
+```
+L_SUBMIT_VOTE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SUBMIT_VOTE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_SUBMIT_VOTE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SUBMIT_VOTE)
 
 ## Utilisations dans les templates
 

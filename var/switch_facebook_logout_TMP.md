@@ -1,4 +1,11 @@
-# Variable switch_facebook_logout_TMP
+# Variable d'affichage
+```
+switch_facebook_logout_TMP
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -7,11 +14,8 @@ Cette variable est utilisable directement.
 {switch_facebook_logout_TMP}
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [SERVER_NAME](switch_facebook_logout_TMP.SERVER_NAME.md#readme)
 
 

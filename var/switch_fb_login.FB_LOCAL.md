@@ -1,4 +1,11 @@
-# Variable de boucle switch_fb_login.FB_LOCAL
+# Attribut d'affichage
+```
+switch_fb_login.FB_LOCAL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_login.FB_LOCAL)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_fb_login](switch_fb_login.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [switch_fb_login](switch_fb_login.md#readme).
     {switch_fb_login.FB_LOCAL}
 <!-- END switch_fb_login -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_login.FB_LOCAL)
 
 ## Utilisations dans les templates
 

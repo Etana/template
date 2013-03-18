@@ -1,4 +1,11 @@
-# Variable L_LAST_UPDATE
+# Variable d'affichage
+```
+L_LAST_UPDATE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LAST_UPDATE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_LAST_UPDATE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LAST_UPDATE)
 
 ## Utilisations dans les templates
 

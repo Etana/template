@@ -1,4 +1,11 @@
-# Variable de boucle switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON
+# Attribut d'affichage
+```
+switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_user_login_form_footer.switch_fb_connect](switch_user_login_form_footer.switch_fb_connect.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [switch_user_login_form_footer.switch_fb_conne
     <!-- END switch_fb_connect -->
 <!-- END switch_user_login_form_footer -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON)
 
 ## Utilisations dans les templates
 

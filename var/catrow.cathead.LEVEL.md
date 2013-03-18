@@ -1,4 +1,11 @@
-# Variable de boucle catrow.cathead.LEVEL
+# Attribut d'affichage
+```
+catrow.cathead.LEVEL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.LEVEL)
 
 ##Disponibilité
 Cette variable est un attribut de [catrow.cathead](catrow.cathead.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [catrow.cathead](catrow.cathead.md#readme).
     <!-- END cathead -->
 <!-- END catrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.LEVEL)
 
 ## Utilisations dans les templates
 

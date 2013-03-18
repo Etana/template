@@ -1,4 +1,11 @@
-# Boucle switch_pagination
+# Variable de bouclage
+```
+switch_pagination
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_pagination)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_pagination -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_pagination)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [PAGE_NUMBER](switch_pagination.PAGE_NUMBER.md#readme)
 * [PAGINATION](switch_pagination.PAGINATION.md#readme)
 

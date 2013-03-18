@@ -1,4 +1,11 @@
-# Boucle searchresults
+# Variable de bouclage
+```
+searchresults
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END searchresults -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [TOPIC_FOLDER_IMG](searchresults.TOPIC_FOLDER_IMG.md#readme)
 * [L_TOPIC](searchresults.L_TOPIC.md#readme)
 * [U_TOPIC](searchresults.U_TOPIC.md#readme)
@@ -52,7 +56,7 @@ Cette variable est utilisable directement dans une boucle.
 * [LAST_POST_TIME](searchresults.LAST_POST_TIME.md#readme)
 * [LAST_POST_AUTHOR](searchresults.LAST_POST_AUTHOR.md#readme)
 * [LAST_POST_IMG](searchresults.LAST_POST_IMG.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [watchsearch](searchresults.watchsearch.md#readme)
 
 

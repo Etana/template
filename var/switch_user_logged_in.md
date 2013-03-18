@@ -1,13 +1,8 @@
-# Boucle switch_user_logged_in
-
-##Disponibilité
-Cette variable est utilisable directement dans une boucle.
-
-```html
-<!-- BEGIN switch_user_logged_in -->
-    contenu
-<!-- END switch_user_logged_in -->
+# Variable de bouclage
 ```
+switch_user_logged_in
+```
+
 
 ##Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in)
 Variable de boucle ayant une valeur si l'utilisateur est connecté.
@@ -20,8 +15,17 @@ contenu que l'utilisateur verra si il est connecté
 <!-- END switch_user_logged_in -->
 ```
 
+##Disponibilité
+Cette variable est utilisable directement dans une boucle.
+
+```html
+<!-- BEGIN switch_user_logged_in -->
+    contenu
+<!-- END switch_user_logged_in -->
+```
+
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_MARK_READ](switch_user_logged_in.U_MARK_READ.md#readme)
 * [L_MARK_FORUMS_READ](switch_user_logged_in.L_MARK_FORUMS_READ.md#readme)
 * [LAST_VISIT_DATE](switch_user_logged_in.LAST_VISIT_DATE.md#readme)
@@ -35,7 +39,7 @@ contenu que l'utilisateur verra si il est connecté
 * [POST_IMG_ID](switch_user_logged_in.POST_IMG_ID.md#readme)
 * [L_POST_NEW_TOPIC](switch_user_logged_in.L_POST_NEW_TOPIC.md#readme)
 * [QUICK_REPLY_FORM](switch_user_logged_in.QUICK_REPLY_FORM.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [watchtopic](switch_user_logged_in.watchtopic.md#readme)
 
 

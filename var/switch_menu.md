@@ -1,4 +1,11 @@
-# Boucle switch_menu
+# Variable de bouclage
+```
+switch_menu
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_menu)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_menu -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_menu)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [UCP_TABS](switch_menu.UCP_TABS.md#readme)
 
 

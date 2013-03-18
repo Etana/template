@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.switch_vote_active.L_VOTE_TITLE
+# Attribut d'affichage
+```
+postrow.displayed.switch_vote_active.L_VOTE_TITLE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.L_VOTE_TITLE)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote_active.md#readme).
@@ -12,9 +19,6 @@ Cette variable est un attribut de [postrow.displayed.switch_vote_active](postrow
     <!-- END displayed -->
 <!-- END postrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.L_VOTE_TITLE)
 
 ## Utilisations dans les templates
 

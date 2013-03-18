@@ -1,4 +1,13 @@
-# Variable S_JUMPBOX_ACTION
+# Variable d'affichage
+```
+S_JUMPBOX_ACTION
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/S_JUMPBOX_ACTION)
+Action du formulaire pour sauter vers un forum.
+
+*Attention : Cette variable est importante au bon fonctionnement de ce formulaire !*
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {S_JUMPBOX_ACTION}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/S_JUMPBOX_ACTION)
-Action du formulaire pour sauter vers un forum.
-
-*Attention : Cette variable est importante au bon fonctionnement de ce formulaire !*
 
 ## Utilisations dans les templates
 

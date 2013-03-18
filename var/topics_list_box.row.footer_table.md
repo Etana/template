@@ -1,4 +1,11 @@
-# Variable de boucle topics_list_box.row.footer_table
+# Attribut de bouclage
+```
+topics_list_box.row.footer_table
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.footer_table)
 
 ##Disponibilité
 Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#r
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.footer_table)
 
 ## Utilisations dans les templates
 

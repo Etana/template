@@ -1,4 +1,11 @@
-# Variable CLOSE_POLL
+# Variable d'affichage
+```
+CLOSE_POLL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/CLOSE_POLL)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {CLOSE_POLL}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/CLOSE_POLL)
 
 ## Utilisations dans les templates
 

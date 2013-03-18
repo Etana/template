@@ -1,4 +1,11 @@
-# Variable L_BY_PAYMENT_EXPLAIN
+# Variable d'affichage
+```
+L_BY_PAYMENT_EXPLAIN
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_BY_PAYMENT_EXPLAIN)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_BY_PAYMENT_EXPLAIN}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_BY_PAYMENT_EXPLAIN)
 
 ## Utilisations dans les templates
 

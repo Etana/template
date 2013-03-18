@@ -1,4 +1,11 @@
-# Variable L_SUBJECT
+# Variable d'affichage
+```
+L_SUBJECT
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_SUBJECT)
+Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Utilisateurs | Options des utilisateurs > Sujet du message d'anniversaire`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_SUBJECT}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_SUBJECT)
-Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Utilisateurs | Options des utilisateurs > Sujet du message d'anniversaire`.
 
 ## Utilisations dans les templates
 

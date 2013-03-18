@@ -1,4 +1,11 @@
-# Variable de boucle faq_block_link.BLOCK_TITLE
+# Attribut d'affichage
+```
+faq_block_link.BLOCK_TITLE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.BLOCK_TITLE)
 
 ##Disponibilité
 Cette variable est un attribut de [faq_block_link](faq_block_link.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [faq_block_link](faq_block_link.md#readme).
     {faq_block_link.BLOCK_TITLE}
 <!-- END faq_block_link -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.BLOCK_TITLE)
 
 ## Utilisations dans les templates
 

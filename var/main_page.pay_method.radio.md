@@ -1,4 +1,11 @@
-# Variable de boucle main_page.pay_method.radio
+# Attribut de bouclage
+```
+main_page.pay_method.radio
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
 
 ##Disponibilité
 Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md#readme).
@@ -11,11 +18,8 @@ Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md
 <!-- END main_page -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [METHOD](main_page.pay_method.radio.METHOD.md#readme)
 * [METHOD](main_page.pay_method.radio.METHOD.md#readme)
 

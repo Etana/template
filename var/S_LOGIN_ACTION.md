@@ -1,4 +1,13 @@
-# Variable S_LOGIN_ACTION
+# Variable d'affichage
+```
+S_LOGIN_ACTION
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION)
+Action du formulaire de connexion.
+
+*Attention : Si cette variable est retirée, le formulaire de connexion ne fonctionnera plus !*
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {S_LOGIN_ACTION}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION)
-Action du formulaire de connexion.
-
-*Attention : Si cette variable est retirée, le formulaire de connexion ne fonctionnera plus !*
 
 ## Utilisations dans les templates
 

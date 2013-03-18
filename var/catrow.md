@@ -1,4 +1,11 @@
-# Boucle catrow
+# Variable de bouclage
+```
+catrow
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END catrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow)
-
 ## Attributs
-### Attributs de boucle
+### Variable de boucle
 * [tablehead](catrow.tablehead.md#readme)
 * [cathead](catrow.cathead.md#readme)
 * [forumrow](catrow.forumrow.md#readme)

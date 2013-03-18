@@ -1,4 +1,11 @@
-# Variable de boucle switch_forum_rules.switch_forum_rule_image
+# Attribut de bouclage
+```
+switch_forum_rules.switch_forum_rule_image
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_forum_rules](switch_forum_rules.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [switch_forum_rules](switch_forum_rules.md#rea
 <!-- END switch_forum_rules -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [RULE_IMG_URL](switch_forum_rules.switch_forum_rule_image.RULE_IMG_URL.md#readme)
 
 

@@ -1,4 +1,13 @@
-# Variable L_WHO_IS_ONLINE
+# Variable d'affichage
+```
+L_WHO_IS_ONLINE
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_WHO_IS_ONLINE)
+Chaîne de texte.
+
+* __Remplacement en français :__ `Qui est en ligne ?`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_WHO_IS_ONLINE}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_WHO_IS_ONLINE)
-Chaîne de texte.
-
-* __Remplacement en français :__ `Qui est en ligne ?`
 
 ## Utilisations dans les templates
 

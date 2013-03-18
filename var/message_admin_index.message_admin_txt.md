@@ -1,4 +1,11 @@
-# Variable de boucle message_admin_index.message_admin_txt
+# Attribut de bouclage
+```
+message_admin_index.message_admin_txt
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
 
 ##Disponibilité
 Cette variable est un attribut de [message_admin_index](message_admin_index.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [message_admin_index](message_admin_index.md#r
 <!-- END message_admin_index -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [MES_TXT](message_admin_index.message_admin_txt.MES_TXT.md#readme)
 
 

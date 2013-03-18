@@ -1,4 +1,11 @@
-# Variable de boucle searchresults.U_TOPIC
+# Attribut d'affichage
+```
+searchresults.U_TOPIC
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.U_TOPIC)
 
 ##Disponibilité
 Cette variable est un attribut de [searchresults](searchresults.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [searchresults](searchresults.md#readme).
     {searchresults.U_TOPIC}
 <!-- END searchresults -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.U_TOPIC)
 
 ## Utilisations dans les templates
 

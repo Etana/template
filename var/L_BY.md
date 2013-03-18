@@ -1,4 +1,11 @@
-# Variable L_BY
+# Variable d'affichage
+```
+L_BY
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_BY)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_BY}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_BY)
 
 ## Utilisations dans les templates
 

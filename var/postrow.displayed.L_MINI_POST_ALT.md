@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.L_MINI_POST_ALT
+# Attribut d'affichage
+```
+postrow.displayed.L_MINI_POST_ALT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.L_MINI_POST_ALT)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readm
     <!-- END displayed -->
 <!-- END postrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.L_MINI_POST_ALT)
 
 ## Utilisations dans les templates
 

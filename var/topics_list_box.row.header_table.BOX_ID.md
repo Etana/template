@@ -1,4 +1,11 @@
-# Variable de boucle topics_list_box.row.header_table.BOX_ID
+# Attribut d'affichage
+```
+topics_list_box.row.header_table.BOX_ID
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.BOX_ID)
 
 ##Disponibilité
 Cette variable est un attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.md#readme).
@@ -12,9 +19,6 @@ Cette variable est un attribut de [topics_list_box.row.header_table](topics_list
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.BOX_ID)
 
 ## Utilisations dans les templates
 

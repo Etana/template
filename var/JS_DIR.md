@@ -1,4 +1,11 @@
-# Variable JS_DIR
+# Variable d'affichage
+```
+JS_DIR
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/JS_DIR)
+JavaScript important au bon fonctionnement de votre forum.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {JS_DIR}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/JS_DIR)
-JavaScript important au bon fonctionnement de votre forum.
 
 ## Utilisations dans les templates
 

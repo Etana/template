@@ -1,4 +1,11 @@
-# Variable TOTAL_VOTES
+# Variable d'affichage
+```
+TOTAL_VOTES
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOTAL_VOTES)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {TOTAL_VOTES}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOTAL_VOTES)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Variable L_SHARE_BOOKMARKS
+# Variable d'affichage
+```
+L_SHARE_BOOKMARKS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SHARE_BOOKMARKS)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_SHARE_BOOKMARKS}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SHARE_BOOKMARKS)
 
 ## Utilisations dans les templates
 

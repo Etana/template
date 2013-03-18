@@ -1,4 +1,11 @@
-# Variable FOLDER_HOT_IMG
+# Variable d'affichage
+```
+FOLDER_HOT_IMG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/FOLDER_HOT_IMG)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {FOLDER_HOT_IMG}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/FOLDER_HOT_IMG)
 
 ## Utilisations dans les templates
 

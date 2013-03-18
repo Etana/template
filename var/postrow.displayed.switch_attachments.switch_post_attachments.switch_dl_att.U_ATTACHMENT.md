@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT
+# Attribut d'affichage
+```
+postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att](postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.md#readme).
@@ -16,9 +23,6 @@ Cette variable est un attribut de [postrow.displayed.switch_attachments.switch_p
     <!-- END displayed -->
 <!-- END postrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Boucle switch_plus_menu
+# Variable de bouclage
+```
+switch_plus_menu
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_plus_menu)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_plus_menu -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_plus_menu)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_FAVOURITE_JS_PLUS_MENU](switch_plus_menu.U_FAVOURITE_JS_PLUS_MENU.md#readme)
 * [U_NEWPOSTS_JS_PLUS_MENU](switch_plus_menu.U_NEWPOSTS_JS_PLUS_MENU.md#readme)
 * [U_EGOSEARCH_JS_PLUS_MENU](switch_plus_menu.U_EGOSEARCH_JS_PLUS_MENU.md#readme)

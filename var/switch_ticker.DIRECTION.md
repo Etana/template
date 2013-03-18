@@ -1,4 +1,11 @@
-# Variable de boucle switch_ticker.DIRECTION
+# Attribut d'affichage
+```
+switch_ticker.DIRECTION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.DIRECTION)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_ticker](switch_ticker.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [switch_ticker](switch_ticker.md#readme).
     {switch_ticker.DIRECTION}
 <!-- END switch_ticker -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.DIRECTION)
 
 ## Utilisations dans les templates
 

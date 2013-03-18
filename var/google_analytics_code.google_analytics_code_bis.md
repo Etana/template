@@ -1,4 +1,11 @@
-# Variable de boucle google_analytics_code.google_analytics_code_bis
+# Attribut de bouclage
+```
+google_analytics_code.google_analytics_code_bis
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code.google_analytics_code_bis)
 
 ##Disponibilité
 Cette variable est un attribut de [google_analytics_code](google_analytics_code.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [google_analytics_code](google_analytics_code.
 <!-- END google_analytics_code -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code.google_analytics_code_bis)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [G_ANALYTICS_ID_BIS](google_analytics_code.google_analytics_code_bis.G_ANALYTICS_ID_BIS.md#readme)
 
 

@@ -1,4 +1,11 @@
-# Variable L_ORDER
+# Variable d'affichage
+```
+L_ORDER
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ORDER)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_ORDER}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ORDER)
 
 ## Utilisations dans les templates
 

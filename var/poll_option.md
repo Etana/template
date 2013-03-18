@@ -1,4 +1,11 @@
-# Boucle poll_option
+# Variable de bouclage
+```
+poll_option
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END poll_option -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [POLL_OPTION_ID](poll_option.POLL_OPTION_ID.md#readme)
 * [POLL_TYPE_BUTTON](poll_option.POLL_TYPE_BUTTON.md#readme)
 * [POLL_OPTION_ID](poll_option.POLL_OPTION_ID.md#readme)

@@ -1,4 +1,11 @@
-# Variable META_FAVICO
+# Variable d'affichage
+```
+META_FAVICO
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/META_FAVICO)
+Contient la balise META gérant le favicon de votre forum.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {META_FAVICO}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/META_FAVICO)
-Contient la balise META gérant le favicon de votre forum.
 
 ## Utilisations dans les templates
 

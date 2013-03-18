@@ -1,4 +1,13 @@
-# Variable L_AUTO_LOGIN
+# Variable d'affichage
+```
+L_AUTO_LOGIN
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN)
+Chaîne de texte.
+
+* __Contenu en français :__  `Connexion automatique`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_AUTO_LOGIN}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN)
-Chaîne de texte.
-
-* __Contenu en français :__  `Connexion automatique`
 
 ## Utilisations dans les templates
 

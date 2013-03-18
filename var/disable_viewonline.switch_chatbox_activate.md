@@ -1,4 +1,11 @@
-# Variable de boucle disable_viewonline.switch_chatbox_activate
+# Attribut de bouclage
+```
+disable_viewonline.switch_chatbox_activate
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate)
 
 ##Disponibilité
 Cette variable est un attribut de [disable_viewonline](disable_viewonline.md#readme).
@@ -9,14 +16,11 @@ Cette variable est un attribut de [disable_viewonline](disable_viewonline.md#rea
 <!-- END disable_viewonline -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [TOTAL_CHATTERS_ONLINE](disable_viewonline.switch_chatbox_activate.TOTAL_CHATTERS_ONLINE.md#readme)
 * [CHATTERS_LIST](disable_viewonline.switch_chatbox_activate.CHATTERS_LIST.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [switch_chatbox_popup](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.md#readme)
 
 

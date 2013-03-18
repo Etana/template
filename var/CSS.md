@@ -1,4 +1,11 @@
-# Variable CSS
+# Variable d'affichage
+```
+CSS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/CSS)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {CSS}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/CSS)
 
 ## Utilisations dans les templates
 

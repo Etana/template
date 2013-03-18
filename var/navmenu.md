@@ -1,4 +1,11 @@
-# Boucle navmenu
+# Variable de bouclage
+```
+navmenu
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navmenu)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END navmenu -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/navmenu)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_INDEX](navmenu.U_INDEX.md#readme)
 * [L_INDEX](navmenu.L_INDEX.md#readme)
 * [L_SEARCH_TITLE](navmenu.L_SEARCH_TITLE.md#readme)

@@ -1,4 +1,11 @@
-# Variable de boucle giefmod_index2.MODVAR
+# Attribut d'affichage
+```
+giefmod_index2.MODVAR
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)
 
 ##Disponibilité
 Cette variable est un attribut de [giefmod_index2](giefmod_index2.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [giefmod_index2](giefmod_index2.md#readme).
     {giefmod_index2.MODVAR}
 <!-- END giefmod_index2 -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)
 
 ## Utilisations dans les templates
 

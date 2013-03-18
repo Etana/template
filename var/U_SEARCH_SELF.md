@@ -1,4 +1,11 @@
-# Variable U_SEARCH_SELF
+# Variable d'affichage
+```
+U_SEARCH_SELF
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH_SELF)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {U_SEARCH_SELF}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH_SELF)
 
 ## Utilisations dans les templates
 

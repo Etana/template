@@ -1,4 +1,11 @@
-# Variable JAVASCRIPT
+# Variable d'affichage
+```
+JAVASCRIPT
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/JAVASCRIPT)
+Variable actuellement inutilisée.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {JAVASCRIPT}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/JAVASCRIPT)
-Variable actuellement inutilisée.
 
 ## Utilisations dans les templates
 

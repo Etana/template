@@ -1,4 +1,11 @@
-# Variable SEARCHITEMS_CLOSE
+# Variable d'affichage
+```
+SEARCHITEMS_CLOSE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCHITEMS_CLOSE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SEARCHITEMS_CLOSE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCHITEMS_CLOSE)
 
 ## Utilisations dans les templates
 

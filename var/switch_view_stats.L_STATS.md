@@ -1,4 +1,11 @@
-# Variable de boucle switch_view_stats.L_STATS
+# Attribut d'affichage
+```
+switch_view_stats.L_STATS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats.L_STATS)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_view_stats](switch_view_stats.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [switch_view_stats](switch_view_stats.md#readm
     {switch_view_stats.L_STATS}
 <!-- END switch_view_stats -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats.L_STATS)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Boucle switch_footer_links
+# Variable de bouclage
+```
+switch_footer_links
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_footer_links -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links)
-
 ## Attributs
-### Attributs de boucle
+### Variable de boucle
 * [footer_link](switch_footer_links.footer_link.md#readme)
 
 

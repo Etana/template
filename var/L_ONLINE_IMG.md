@@ -1,11 +1,8 @@
-# Variable L_ONLINE_IMG
-
-##Disponibilité
-Cette variable est utilisable directement.
-
-```html
-{L_ONLINE_IMG}
+# Variable d'affichage
 ```
+L_ONLINE_IMG
+```
+
 
 ##Description[*](https://fa-tvars.appspot.com/var/L_ONLINE_IMG)
 Lien de l'image spécifiée dans `Général / navigation > Qui est en ligne ?`.
@@ -15,6 +12,13 @@ Lien de l'image spécifiée dans `Général / navigation > Qui est en ligne ?`.
 
 ```html
 <img src="{L_ONLINE_IMG}" title="{L_WHO_IS_ONLINE}" alt="{L_WHO_IS_ONLINE}" />
+```
+
+##Disponibilité
+Cette variable est utilisable directement.
+
+```html
+{L_ONLINE_IMG}
 ```
 
 ## Utilisations dans les templates

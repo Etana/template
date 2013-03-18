@@ -1,4 +1,11 @@
-# Boucle switch_delete_cookies
+# Variable de bouclage
+```
+switch_delete_cookies
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_delete_cookies)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_delete_cookies -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_delete_cookies)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_DELETE_COOKIES](switch_delete_cookies.U_DELETE_COOKIES.md#readme)
 * [L_DELETE_COOKIES](switch_delete_cookies.L_DELETE_COOKIES.md#readme)
 

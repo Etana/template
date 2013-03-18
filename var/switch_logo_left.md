@@ -1,4 +1,11 @@
-# Boucle switch_logo_left
+# Variable de bouclage
+```
+switch_logo_left
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_logo_left)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_logo_left -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_logo_left)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_INDEX](switch_logo_left.U_INDEX.md#readme)
 * [LOGO](switch_logo_left.LOGO.md#readme)
 * [L_INDEX](switch_logo_left.L_INDEX.md#readme)

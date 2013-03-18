@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed
+# Attribut de bouclage
+```
+postrow.displayed
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow](postrow.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [postrow](postrow.md#readme).
 <!-- END postrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_POST_ID](postrow.displayed.U_POST_ID.md#readme)
 * [U_POST_ID](postrow.displayed.U_POST_ID.md#readme)
 * [DISPLAYABLE_STATE](postrow.displayed.DISPLAYABLE_STATE.md#readme)
@@ -55,7 +59,7 @@ Cette variable est un attribut de [postrow](postrow.md#readme).
 * [PM_IMG](postrow.displayed.PM_IMG.md#readme)
 * [EMAIL_IMG](postrow.displayed.EMAIL_IMG.md#readme)
 * [ONLINE_IMG](postrow.displayed.ONLINE_IMG.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [profile_field](postrow.displayed.profile_field.md#readme)
 * [switch_vote_active](postrow.displayed.switch_vote_active.md#readme)
 * [switch_attachments](postrow.displayed.switch_attachments.md#readme)

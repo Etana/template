@@ -1,4 +1,11 @@
-# Variable T_ACTIVE_LINK
+# Variable d'affichage
+```
+T_ACTIVE_LINK
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/T_ACTIVE_LINK)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {T_ACTIVE_LINK}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/T_ACTIVE_LINK)
 
 ## Utilisations dans les templates
 

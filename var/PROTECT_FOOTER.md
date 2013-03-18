@@ -1,4 +1,11 @@
-# Variable PROTECT_FOOTER
+# Variable d'affichage
+```
+PROTECT_FOOTER
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PROTECT_FOOTER)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {PROTECT_FOOTER}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PROTECT_FOOTER)
 
 ## Utilisations dans les templates
 

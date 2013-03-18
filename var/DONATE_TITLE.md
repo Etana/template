@@ -1,4 +1,11 @@
-# Variable DONATE_TITLE
+# Variable d'affichage
+```
+DONATE_TITLE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/DONATE_TITLE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {DONATE_TITLE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/DONATE_TITLE)
 
 ## Utilisations dans les templates
 

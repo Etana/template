@@ -1,4 +1,11 @@
-# Variable de boucle bot_user_row.FORUM_LOCATION
+# Attribut d'affichage
+```
+bot_user_row.FORUM_LOCATION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row.FORUM_LOCATION)
 
 ##Disponibilité
 Cette variable est un attribut de [bot_user_row](bot_user_row.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [bot_user_row](bot_user_row.md#readme).
     {bot_user_row.FORUM_LOCATION}
 <!-- END bot_user_row -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row.FORUM_LOCATION)
 
 ## Utilisations dans les templates
 

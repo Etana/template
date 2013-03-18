@@ -1,4 +1,11 @@
-# Boucle switch_legend
+# Variable de bouclage
+```
+switch_legend
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_legend)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_legend -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_legend)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [FORUM_NEW_IMG](switch_legend.FORUM_NEW_IMG.md#readme)
 * [L_NEW_POSTS](switch_legend.L_NEW_POSTS.md#readme)
 * [L_NEW_POSTS](switch_legend.L_NEW_POSTS.md#readme)

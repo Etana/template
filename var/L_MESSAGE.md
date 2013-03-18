@@ -1,4 +1,11 @@
-# Variable L_MESSAGE
+# Variable d'affichage
+```
+L_MESSAGE
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_MESSAGE)
+Contenu du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Utilisateurs | Options des utilisateurs > Message d'anniversaire`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_MESSAGE}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_MESSAGE)
-Contenu du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Utilisateurs | Options des utilisateurs > Message d'anniversaire`.
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Variable L_AUTHOR
+# Variable d'affichage
+```
+L_AUTHOR
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_AUTHOR)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_AUTHOR}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_AUTHOR)
 
 ## Utilisations dans les templates
 

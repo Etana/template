@@ -1,4 +1,11 @@
-# Variable de boucle memberrow.LASTVISIT
+# Attribut d'affichage
+```
+memberrow.LASTVISIT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.LASTVISIT)
 
 ##Disponibilité
 Cette variable est un attribut de [memberrow](memberrow.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [memberrow](memberrow.md#readme).
     {memberrow.LASTVISIT}
 <!-- END memberrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.LASTVISIT)
 
 ## Utilisations dans les templates
 

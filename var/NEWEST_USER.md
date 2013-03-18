@@ -1,11 +1,8 @@
-# Variable NEWEST_USER
-
-##Disponibilité
-Cette variable est utilisable directement.
-
-```html
-{NEWEST_USER}
+# Variable d'affichage
 ```
+NEWEST_USER
+```
+
 
 ##Description[*](https://fa-tvars.appspot.com/var/NEWEST_USER)
 Chaîne html indiquant le dernier membre enregistré. Le pseudo du membre est intégré au texte.
@@ -21,6 +18,13 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 ```html
 <span id=nu>{NEWEST_USER}</span>
 <script> $('#nu').html($('#nu').html().match(/<.*>/)[0]) </script>
+```
+
+##Disponibilité
+Cette variable est utilisable directement.
+
+```html
+{NEWEST_USER}
 ```
 
 ## Utilisations dans les templates

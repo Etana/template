@@ -1,4 +1,11 @@
-# Boucle topicpagination
+# Variable de bouclage
+```
+topicpagination
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topicpagination)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END topicpagination -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topicpagination)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [PAGINATION](topicpagination.PAGINATION.md#readme)
 * [PAGINATION](topicpagination.PAGINATION.md#readme)
 

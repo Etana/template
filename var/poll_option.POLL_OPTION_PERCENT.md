@@ -1,4 +1,11 @@
-# Variable de boucle poll_option.POLL_OPTION_PERCENT
+# Attribut d'affichage
+```
+poll_option.POLL_OPTION_PERCENT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_PERCENT)
 
 ##Disponibilité
 Cette variable est un attribut de [poll_option](poll_option.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [poll_option](poll_option.md#readme).
     {poll_option.POLL_OPTION_PERCENT}
 <!-- END poll_option -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_PERCENT)
 
 ## Utilisations dans les templates
 

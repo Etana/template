@@ -1,4 +1,11 @@
-# Variable REPLY_IMG
+# Variable d'affichage
+```
+REPLY_IMG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/REPLY_IMG)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {REPLY_IMG}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/REPLY_IMG)
 
 ## Utilisations dans les templates
 

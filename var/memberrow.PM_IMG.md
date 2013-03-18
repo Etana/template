@@ -1,4 +1,11 @@
-# Variable de boucle memberrow.PM_IMG
+# Attribut d'affichage
+```
+memberrow.PM_IMG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.PM_IMG)
 
 ##Disponibilité
 Cette variable est un attribut de [memberrow](memberrow.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [memberrow](memberrow.md#readme).
     {memberrow.PM_IMG}
 <!-- END memberrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.PM_IMG)
 
 ## Utilisations dans les templates
 

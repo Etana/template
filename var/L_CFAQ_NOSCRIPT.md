@@ -1,4 +1,11 @@
-# Variable L_CFAQ_NOSCRIPT
+# Variable d'affichage
+```
+L_CFAQ_NOSCRIPT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CFAQ_NOSCRIPT)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_CFAQ_NOSCRIPT}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CFAQ_NOSCRIPT)
 
 ## Utilisations dans les templates
 

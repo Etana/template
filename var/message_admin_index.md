@@ -1,4 +1,13 @@
-# Boucle message_admin_index
+# Variable de bouclage
+```
+message_admin_index
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/message_admin_index)
+Boucle contenant le message d'accueil.
+
+* __Code :__ [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](message_admin_index.md#readme)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,13 +18,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END message_admin_index -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/message_admin_index)
-Boucle contenant le message d'accueil.
-
-* __Code :__ [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](message_admin_index.md#readme)
-
 ## Attributs
-### Attributs de boucle
+### Variable de boucle
 * [message_admin_titre](message_admin_index.message_admin_titre.md#readme)
 * [message_admin_txt](message_admin_index.message_admin_txt.md#readme)
 

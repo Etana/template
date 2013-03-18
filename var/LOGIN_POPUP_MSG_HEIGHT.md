@@ -1,4 +1,11 @@
-# Variable LOGIN_POPUP_MSG_HEIGHT
+# Variable d'affichage
+```
+LOGIN_POPUP_MSG_HEIGHT
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG_HEIGHT)
+Hauteur du message du Popup de connexion.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {LOGIN_POPUP_MSG_HEIGHT}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG_HEIGHT)
-Hauteur du message du Popup de connexion.
 
 ## Utilisations dans les templates
 

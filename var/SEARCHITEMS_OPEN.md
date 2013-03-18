@@ -1,4 +1,11 @@
-# Variable SEARCHITEMS_OPEN
+# Variable d'affichage
+```
+SEARCHITEMS_OPEN
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCHITEMS_OPEN)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SEARCHITEMS_OPEN}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCHITEMS_OPEN)
 
 ## Utilisations dans les templates
 

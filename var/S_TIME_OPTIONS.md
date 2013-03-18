@@ -1,4 +1,11 @@
-# Variable S_TIME_OPTIONS
+# Variable d'affichage
+```
+S_TIME_OPTIONS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_TIME_OPTIONS)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {S_TIME_OPTIONS}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_TIME_OPTIONS)
 
 ## Utilisations dans les templates
 

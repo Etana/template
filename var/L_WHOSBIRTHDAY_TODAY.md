@@ -1,4 +1,11 @@
-# Variable L_WHOSBIRTHDAY_TODAY
+# Variable d'affichage
+```
+L_WHOSBIRTHDAY_TODAY
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_WHOSBIRTHDAY_TODAY}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY)
 
 ## Utilisations dans les templates
 

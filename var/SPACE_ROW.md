@@ -1,4 +1,11 @@
-# Variable SPACE_ROW
+# Variable d'affichage
+```
+SPACE_ROW
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SPACE_ROW)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SPACE_ROW}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SPACE_ROW)
 
 ## Utilisations dans les templates
 

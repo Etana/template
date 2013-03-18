@@ -1,4 +1,11 @@
-# Boucle switch_fb_likebtn
+# Variable de bouclage
+```
+switch_fb_likebtn
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_fb_likebtn -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [FORUM_URL](switch_fb_likebtn.FORUM_URL.md#readme)
 * [TOPIC_URL](switch_fb_likebtn.TOPIC_URL.md#readme)
 

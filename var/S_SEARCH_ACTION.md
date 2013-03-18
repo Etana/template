@@ -1,4 +1,11 @@
-# Variable S_SEARCH_ACTION
+# Variable d'affichage
+```
+S_SEARCH_ACTION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SEARCH_ACTION)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {S_SEARCH_ACTION}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SEARCH_ACTION)
 
 ## Utilisations dans les templates
 

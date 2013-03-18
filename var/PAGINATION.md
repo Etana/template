@@ -1,4 +1,11 @@
-# Variable PAGINATION
+# Variable d'affichage
+```
+PAGINATION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAGINATION)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {PAGINATION}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAGINATION)
 
 ## Utilisations dans les templates
 

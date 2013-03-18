@@ -1,4 +1,11 @@
-# Variable FORUM_URL
+# Variable d'affichage
+```
+FORUM_URL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/FORUM_URL)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {FORUM_URL}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/FORUM_URL)
 
 ## Utilisations dans les templates
 

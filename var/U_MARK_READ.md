@@ -1,4 +1,13 @@
-# Variable U_MARK_READ
+# Variable d'affichage
+```
+U_MARK_READ
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/U_MARK_READ)
+Lien vers marquer tous les forums comme lus. 
+
+* __Remplacement par :__  `/?mark=forums`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {U_MARK_READ}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/U_MARK_READ)
-Lien vers marquer tous les forums comme lus. 
-
-* __Remplacement par :__  `/?mark=forums`
 
 ## Utilisations dans les templates
 

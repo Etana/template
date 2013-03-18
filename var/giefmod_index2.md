@@ -1,4 +1,11 @@
-# Boucle giefmod_index2
+# Variable de bouclage
+```
+giefmod_index2
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,13 +16,10 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END giefmod_index2 -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [MODVAR](giefmod_index2.MODVAR.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [saut](giefmod_index2.saut.md#readme)
 
 

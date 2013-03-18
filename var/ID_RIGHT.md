@@ -1,4 +1,11 @@
-# Variable ID_RIGHT
+# Variable d'affichage
+```
+ID_RIGHT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ID_RIGHT)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {ID_RIGHT}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ID_RIGHT)
 
 ## Utilisations dans les templates
 

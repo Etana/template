@@ -1,4 +1,11 @@
-# Variable de boucle credit_card_method.credits_option.OPTION
+# Attribut d'affichage
+```
+credit_card_method.credits_option.OPTION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.OPTION)
 
 ##Disponibilité
 Cette variable est un attribut de [credit_card_method.credits_option](credit_card_method.credits_option.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [credit_card_method.credits_option](credit_car
     <!-- END credits_option -->
 <!-- END credit_card_method -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.OPTION)
 
 ## Utilisations dans les templates
 

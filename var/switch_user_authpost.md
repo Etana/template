@@ -1,4 +1,11 @@
-# Boucle switch_user_authpost
+# Variable de bouclage
+```
+switch_user_authpost
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authpost)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_user_authpost -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authpost)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_POST_NEW_TOPIC](switch_user_authpost.U_POST_NEW_TOPIC.md#readme)
 * [POST_IMG](switch_user_authpost.POST_IMG.md#readme)
 * [POST_IMG_ID](switch_user_authpost.POST_IMG_ID.md#readme)

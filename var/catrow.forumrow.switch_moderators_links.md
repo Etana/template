@@ -1,4 +1,11 @@
-# Variable de boucle catrow.forumrow.switch_moderators_links
+# Attribut de bouclage
+```
+catrow.forumrow.switch_moderators_links
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
 
 ##Disponibilité
 Cette variable est un attribut de [catrow.forumrow](catrow.forumrow.md#readme).
@@ -11,11 +18,8 @@ Cette variable est un attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 <!-- END catrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_MODERATOR](catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)
 * [MODERATORS](catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)
 

@@ -1,4 +1,11 @@
-# Boucle postrow
+# Variable de bouclage
+```
+postrow
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END postrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow)
-
 ## Attributs
-### Attributs de boucle
+### Variable de boucle
 * [hidden](postrow.hidden.md#readme)
 * [displayed](postrow.displayed.md#readme)
 

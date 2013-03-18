@@ -1,4 +1,11 @@
-# Variable S_CONTENT_ENCODING
+# Variable d'affichage
+```
+S_CONTENT_ENCODING
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {S_CONTENT_ENCODING}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING)
 
 ## Utilisations dans les templates
 

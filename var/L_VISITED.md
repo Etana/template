@@ -1,4 +1,11 @@
-# Variable L_VISITED
+# Variable d'affichage
+```
+L_VISITED
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_VISITED)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_VISITED}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_VISITED)
 
 ## Utilisations dans les templates
 

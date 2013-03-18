@@ -1,4 +1,11 @@
-# Boucle memberrow
+# Variable de bouclage
+```
+memberrow
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END memberrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [ROW_CLASS](memberrow.ROW_CLASS.md#readme)
 * [ROW_NUMBER](memberrow.ROW_NUMBER.md#readme)
 * [ROW_CLASS](memberrow.ROW_CLASS.md#readme)
@@ -34,7 +38,7 @@ Cette variable est utilisable directement dans une boucle.
 * [PM_IMG](memberrow.PM_IMG.md#readme)
 * [ROW_CLASS](memberrow.ROW_CLASS.md#readme)
 * [WWW_IMG](memberrow.WWW_IMG.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [switch_td_group](memberrow.switch_td_group.md#readme)
 
 

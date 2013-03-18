@@ -1,4 +1,11 @@
-# Variable U_SEARCH_NEW
+# Variable d'affichage
+```
+U_SEARCH_NEW
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH_NEW)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {U_SEARCH_NEW}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH_NEW)
 
 ## Utilisations dans les templates
 

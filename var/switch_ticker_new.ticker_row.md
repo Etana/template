@@ -1,4 +1,11 @@
-# Variable de boucle switch_ticker_new.ticker_row
+# Attribut de bouclage
+```
+switch_ticker_new.ticker_row
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new.ticker_row)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_ticker_new](switch_ticker_new.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [switch_ticker_new](switch_ticker_new.md#readm
 <!-- END switch_ticker_new -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new.ticker_row)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [ELEMENT](switch_ticker_new.ticker_row.ELEMENT.md#readme)
 
 

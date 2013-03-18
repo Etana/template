@@ -1,4 +1,11 @@
-# Boucle hitskin_preview
+# Variable de bouclage
+```
+hitskin_preview
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END hitskin_preview -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_THEME_SITE_PREVIEW](hitskin_preview.L_THEME_SITE_PREVIEW.md#readme)
 * [U_INSTALL_THEME](hitskin_preview.U_INSTALL_THEME.md#readme)
 * [U_RETURN_THEME](hitskin_preview.U_RETURN_THEME.md#readme)

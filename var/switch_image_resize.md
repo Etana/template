@@ -1,4 +1,11 @@
-# Boucle switch_image_resize
+# Variable de bouclage
+```
+switch_image_resize
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_image_resize)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_image_resize -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_image_resize)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [IMG_RESIZE_WIDTH](switch_image_resize.IMG_RESIZE_WIDTH.md#readme)
 * [IMG_RESIZE_HEIGHT](switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)
 * [IMG_RESIZE_WIDTH](switch_image_resize.IMG_RESIZE_WIDTH.md#readme)

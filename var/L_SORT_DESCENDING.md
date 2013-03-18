@@ -1,4 +1,11 @@
-# Variable L_SORT_DESCENDING
+# Variable d'affichage
+```
+L_SORT_DESCENDING
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SORT_DESCENDING)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_SORT_DESCENDING}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SORT_DESCENDING)
 
 ## Utilisations dans les templates
 

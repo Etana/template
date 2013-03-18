@@ -1,4 +1,11 @@
-# Variable de boucle reg_user_row.U_USER_PROFILE
+# Attribut d'affichage
+```
+reg_user_row.U_USER_PROFILE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/reg_user_row.U_USER_PROFILE)
 
 ##Disponibilité
 Cette variable est un attribut de [reg_user_row](reg_user_row.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [reg_user_row](reg_user_row.md#readme).
     {reg_user_row.U_USER_PROFILE}
 <!-- END reg_user_row -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/reg_user_row.U_USER_PROFILE)
 
 ## Utilisations dans les templates
 

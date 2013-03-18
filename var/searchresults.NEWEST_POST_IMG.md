@@ -1,4 +1,11 @@
-# Variable de boucle searchresults.NEWEST_POST_IMG
+# Attribut d'affichage
+```
+searchresults.NEWEST_POST_IMG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.NEWEST_POST_IMG)
 
 ##Disponibilité
 Cette variable est un attribut de [searchresults](searchresults.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [searchresults](searchresults.md#readme).
     {searchresults.NEWEST_POST_IMG}
 <!-- END searchresults -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.NEWEST_POST_IMG)
 
 ## Utilisations dans les templates
 

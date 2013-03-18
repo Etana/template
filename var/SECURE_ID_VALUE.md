@@ -1,4 +1,11 @@
-# Variable SECURE_ID_VALUE
+# Variable d'affichage
+```
+SECURE_ID_VALUE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SECURE_ID_VALUE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SECURE_ID_VALUE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SECURE_ID_VALUE)
 
 ## Utilisations dans les templates
 

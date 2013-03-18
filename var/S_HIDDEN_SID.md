@@ -1,4 +1,11 @@
-# Variable S_HIDDEN_SID
+# Variable d'affichage
+```
+S_HIDDEN_SID
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_HIDDEN_SID)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {S_HIDDEN_SID}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_HIDDEN_SID)
 
 ## Utilisations dans les templates
 

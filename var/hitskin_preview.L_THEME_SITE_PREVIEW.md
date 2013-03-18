@@ -1,4 +1,11 @@
-# Variable de boucle hitskin_preview.L_THEME_SITE_PREVIEW
+# Attribut d'affichage
+```
+hitskin_preview.L_THEME_SITE_PREVIEW
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview.L_THEME_SITE_PREVIEW)
 
 ##Disponibilité
 Cette variable est un attribut de [hitskin_preview](hitskin_preview.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [hitskin_preview](hitskin_preview.md#readme).
     {hitskin_preview.L_THEME_SITE_PREVIEW}
 <!-- END hitskin_preview -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview.L_THEME_SITE_PREVIEW)
 
 ## Utilisations dans les templates
 

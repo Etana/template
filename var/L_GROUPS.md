@@ -1,4 +1,11 @@
-# Variable L_GROUPS
+# Variable d'affichage
+```
+L_GROUPS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_GROUPS)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_GROUPS}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_GROUPS)
 
 ## Utilisations dans les templates
 

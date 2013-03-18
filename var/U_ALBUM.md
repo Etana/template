@@ -1,4 +1,11 @@
-# Variable U_ALBUM
+# Variable d'affichage
+```
+U_ALBUM
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_ALBUM)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {U_ALBUM}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_ALBUM)
 
 ## Utilisations dans les templates
 

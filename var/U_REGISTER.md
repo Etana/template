@@ -1,4 +1,11 @@
-# Variable U_REGISTER
+# Variable d'affichage
+```
+U_REGISTER
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/U_REGISTER)
+Lien vers la page d'inscription.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {U_REGISTER}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/U_REGISTER)
-Lien vers la page d'inscription.
 
 ## Utilisations dans les templates
 

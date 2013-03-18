@@ -1,4 +1,11 @@
-# Variable S_WATCH_TOPIC
+# Variable d'affichage
+```
+S_WATCH_TOPIC
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_WATCH_TOPIC)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {S_WATCH_TOPIC}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_WATCH_TOPIC)
 
 ## Utilisations dans les templates
 

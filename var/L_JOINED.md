@@ -1,4 +1,11 @@
-# Variable L_JOINED
+# Variable d'affichage
+```
+L_JOINED
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_JOINED)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_JOINED}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_JOINED)
 
 ## Utilisations dans les templates
 

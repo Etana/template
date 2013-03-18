@@ -1,4 +1,11 @@
-# Variable de boucle searchresults.LAST_POST_TIME
+# Attribut d'affichage
+```
+searchresults.LAST_POST_TIME
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.LAST_POST_TIME)
 
 ##Disponibilité
 Cette variable est un attribut de [searchresults](searchresults.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [searchresults](searchresults.md#readme).
     {searchresults.LAST_POST_TIME}
 <!-- END searchresults -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.LAST_POST_TIME)
 
 ## Utilisations dans les templates
 

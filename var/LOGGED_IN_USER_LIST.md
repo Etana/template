@@ -1,11 +1,8 @@
-# Variable LOGGED_IN_USER_LIST
-
-##Disponibilité
-Cette variable est utilisable directement.
-
-```html
-{LOGGED_IN_USER_LIST}
+# Variable d'affichage
 ```
+LOGGED_IN_USER_LIST
+```
+
 
 ##Description[*](https://fa-tvars.appspot.com/var/LOGGED_IN_USER_LIST)
 Chaîne html indiquant les membres actuellement en ligne ( séparés par des virgules ).
@@ -21,6 +18,13 @@ Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Ad
 ```html
 <span id=liul>{LOGGED_IN_USER_LIST}</span>
 <script> $('#liul').html($('#liul').html().match(/(<.*)<br( \/)?>$/)[1]) </script>
+```
+
+##Disponibilité
+Cette variable est utilisable directement.
+
+```html
+{LOGGED_IN_USER_LIST}
 ```
 
 ## Utilisations dans les templates

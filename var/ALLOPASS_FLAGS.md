@@ -1,4 +1,11 @@
-# Variable ALLOPASS_FLAGS
+# Variable d'affichage
+```
+ALLOPASS_FLAGS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ALLOPASS_FLAGS)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {ALLOPASS_FLAGS}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ALLOPASS_FLAGS)
 
 ## Utilisations dans les templates
 

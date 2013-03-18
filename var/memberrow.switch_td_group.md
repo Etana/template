@@ -1,4 +1,11 @@
-# Variable de boucle memberrow.switch_td_group
+# Attribut de bouclage
+```
+memberrow.switch_td_group
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
 
 ##Disponibilité
 Cette variable est un attribut de [memberrow](memberrow.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [memberrow](memberrow.md#readme).
 <!-- END memberrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [ROW_CLASS](memberrow.switch_td_group.ROW_CLASS.md#readme)
 * [GROUPS](memberrow.switch_td_group.GROUPS.md#readme)
 

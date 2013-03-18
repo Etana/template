@@ -1,4 +1,11 @@
-# Variable de boucle faq_block.faq_row
+# Attribut de bouclage
+```
+faq_block.faq_row
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
 
 ##Disponibilité
 Cette variable est un attribut de [faq_block](faq_block.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [faq_block](faq_block.md#readme).
 <!-- END faq_block -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [ROW_CLASS](faq_block.faq_row.ROW_CLASS.md#readme)
 * [U_FAQ_ID](faq_block.faq_row.U_FAQ_ID.md#readme)
 * [FAQ_QUESTION](faq_block.faq_row.FAQ_QUESTION.md#readme)

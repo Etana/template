@@ -1,4 +1,11 @@
-# Variable L_AVATAR
+# Variable d'affichage
+```
+L_AVATAR
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_AVATAR)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_AVATAR}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_AVATAR)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Variable SITENAME
+# Variable d'affichage
+```
+SITENAME
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/SITENAME)
+Contient le titre de votre forum défini dans votre `PA > Général > Forum | Configuration > Nom du site`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SITENAME}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/SITENAME)
-Contient le titre de votre forum défini dans votre `PA > Général > Forum | Configuration > Nom du site`.
 
 ## Utilisations dans les templates
 

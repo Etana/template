@@ -1,4 +1,11 @@
-# Variable L_STOP_WATCH
+# Variable d'affichage
+```
+L_STOP_WATCH
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_STOP_WATCH)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_STOP_WATCH}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_STOP_WATCH)
 
 ## Utilisations dans les templates
 

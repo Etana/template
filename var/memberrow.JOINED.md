@@ -1,4 +1,11 @@
-# Variable de boucle memberrow.JOINED
+# Attribut d'affichage
+```
+memberrow.JOINED
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.JOINED)
 
 ##Disponibilité
 Cette variable est un attribut de [memberrow](memberrow.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [memberrow](memberrow.md#readme).
     {memberrow.JOINED}
 <!-- END memberrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.JOINED)
 
 ## Utilisations dans les templates
 

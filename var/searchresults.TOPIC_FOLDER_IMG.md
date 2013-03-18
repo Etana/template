@@ -1,4 +1,11 @@
-# Variable de boucle searchresults.TOPIC_FOLDER_IMG
+# Attribut d'affichage
+```
+searchresults.TOPIC_FOLDER_IMG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)
 
 ##Disponibilité
 Cette variable est un attribut de [searchresults](searchresults.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [searchresults](searchresults.md#readme).
     {searchresults.TOPIC_FOLDER_IMG}
 <!-- END searchresults -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.contact_field
+# Attribut de bouclage
+```
+postrow.displayed.contact_field
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
@@ -11,11 +18,8 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readm
 <!-- END postrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [CONTENT](postrow.displayed.contact_field.CONTENT.md#readme)
 
 

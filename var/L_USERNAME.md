@@ -1,4 +1,13 @@
-# Variable L_USERNAME
+# Variable d'affichage
+```
+L_USERNAME
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_USERNAME)
+Chaîne de texte.
+
+* __Contenu en français :__ `Nom d'utilisateur`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_USERNAME}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_USERNAME)
-Chaîne de texte.
-
-* __Contenu en français :__ `Nom d'utilisateur`
 
 ## Utilisations dans les templates
 

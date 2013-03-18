@@ -1,4 +1,11 @@
-# Variable de boucle memberrow.USERNAME
+# Attribut d'affichage
+```
+memberrow.USERNAME
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.USERNAME)
 
 ##Disponibilité
 Cette variable est un attribut de [memberrow](memberrow.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [memberrow](memberrow.md#readme).
     {memberrow.USERNAME}
 <!-- END memberrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.USERNAME)
 
 ## Utilisations dans les templates
 

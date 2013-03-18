@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.ONLINE_IMG
+# Attribut d'affichage
+```
+postrow.displayed.ONLINE_IMG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.ONLINE_IMG)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readm
     <!-- END displayed -->
 <!-- END postrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.ONLINE_IMG)
 
 ## Utilisations dans les templates
 

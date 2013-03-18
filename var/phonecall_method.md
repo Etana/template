@@ -1,4 +1,11 @@
-# Boucle phonecall_method
+# Variable de bouclage
+```
+phonecall_method
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END phonecall_method -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_BY_PHONECALL](phonecall_method.L_BY_PHONECALL.md#readme)
 * [L_FIRST_STEP](phonecall_method.L_FIRST_STEP.md#readme)
 * [L_SECOND_STEP](phonecall_method.L_SECOND_STEP.md#readme)
@@ -25,7 +29,7 @@ Cette variable est utilisable directement dans une boucle.
 * [L_SUBMIT](phonecall_method.L_SUBMIT.md#readme)
 * [S_CREDITS_ADD_ACTION](phonecall_method.S_CREDITS_ADD_ACTION.md#readme)
 * [L_CANCEL](phonecall_method.L_CANCEL.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [hidden_field](phonecall_method.hidden_field.md#readme)
 
 

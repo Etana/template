@@ -1,11 +1,8 @@
-# Variable RECORD_USERS
-
-##Disponibilité
-Cette variable est utilisable directement.
-
-```html
-{RECORD_USERS}
+# Variable d'affichage
 ```
+RECORD_USERS
+```
+
 
 ##Description[*](https://fa-tvars.appspot.com/var/RECORD_USERS)
 Chaîne html indiquant le record de nombre d'utilisateur en ligne et la date de ce record.
@@ -21,6 +18,13 @@ Le record du nombre d'utilisateurs en ligne est de <strong>2</strong> le Mer 21 
 ```html
 <span id=run>{RECORD_USERS}</span>
 <script> $('#run').text($('#run').html().match(/>([0-9]+)</)[1]) </script>
+```
+
+##Disponibilité
+Cette variable est utilisable directement.
+
+```html
+{RECORD_USERS}
 ```
 
 ## Utilisations dans les templates

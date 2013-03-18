@@ -1,4 +1,11 @@
-# Variable ADDTHIS_LANG
+# Variable d'affichage
+```
+ADDTHIS_LANG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ADDTHIS_LANG)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {ADDTHIS_LANG}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ADDTHIS_LANG)
 
 ## Utilisations dans les templates
 

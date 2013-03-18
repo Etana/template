@@ -1,11 +1,8 @@
-# Variable TOTAL_USERS
-
-##Disponibilité
-Cette variable est utilisable directement.
-
-```html
-{TOTAL_USERS}
+# Variable d'affichage
 ```
+TOTAL_USERS
+```
+
 
 ##Description[*](https://fa-tvars.appspot.com/var/TOTAL_USERS)
 Chaîne de texte indiquant le nombre total de membre du forum. Le nombre de membre est intégré au texte.
@@ -21,6 +18,13 @@ Nous avons <strong>1</strong> membre enregistré
 ```html
 <span id=tu>{TOTAL_USERS}</span>
 <script> $('#tu').text($('#tu').text().match(/[0-9]+/)) </script>
+```
+
+##Disponibilité
+Cette variable est utilisable directement.
+
+```html
+{TOTAL_USERS}
 ```
 
 ## Utilisations dans les templates

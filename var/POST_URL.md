@@ -1,4 +1,11 @@
-# Variable POST_URL
+# Variable d'affichage
+```
+POST_URL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/POST_URL)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {POST_URL}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/POST_URL)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
-# Variable S_JUMPBOX_SELECT
+# Variable d'affichage
+```
+S_JUMPBOX_SELECT
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/S_JUMPBOX_SELECT)
+Chaîne de texte.
+
+* __Contenu en français :__ `Sélectionner un forum`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {S_JUMPBOX_SELECT}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/S_JUMPBOX_SELECT)
-Chaîne de texte.
-
-* __Contenu en français :__ `Sélectionner un forum`
 
 ## Utilisations dans les templates
 

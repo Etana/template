@@ -1,4 +1,11 @@
-# Variable MENU_NOWRAP
+# Variable d'affichage
+```
+MENU_NOWRAP
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/MENU_NOWRAP)
+Force l'affichage de la barre de navigation sur une ligne si l'option du `PA > Affichage > Page d'accueil | En-tête & Navigation > Forcer la barre de navigation à rester sur une ligne` est activée. 
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {MENU_NOWRAP}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/MENU_NOWRAP)
-Force l'affichage de la barre de navigation sur une ligne si l'option du `PA > Affichage > Page d'accueil | En-tête & Navigation > Forcer la barre de navigation à rester sur une ligne` est activée. 
 
 ## Utilisations dans les templates
 

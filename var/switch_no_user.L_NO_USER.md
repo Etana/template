@@ -1,4 +1,11 @@
-# Variable de boucle switch_no_user.L_NO_USER
+# Attribut d'affichage
+```
+switch_no_user.L_NO_USER
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_no_user](switch_no_user.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [switch_no_user](switch_no_user.md#readme).
     {switch_no_user.L_NO_USER}
 <!-- END switch_no_user -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
 
 ## Utilisations dans les templates
 

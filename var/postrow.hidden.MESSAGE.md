@@ -1,4 +1,11 @@
-# Variable de boucle postrow.hidden.MESSAGE
+# Attribut d'affichage
+```
+postrow.hidden.MESSAGE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.hidden.MESSAGE)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.hidden](postrow.hidden.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [postrow.hidden](postrow.hidden.md#readme).
     <!-- END hidden -->
 <!-- END postrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.hidden.MESSAGE)
 
 ## Utilisations dans les templates
 

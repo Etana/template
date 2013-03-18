@@ -1,4 +1,11 @@
-# Boucle viewtopic_bottom
+# Variable de bouclage
+```
+viewtopic_bottom
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/viewtopic_bottom)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END viewtopic_bottom -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/viewtopic_bottom)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_JUMP_TO](viewtopic_bottom.L_JUMP_TO.md#readme)
 * [S_JUMPBOX_SELECT](viewtopic_bottom.S_JUMPBOX_SELECT.md#readme)
 * [L_GO](viewtopic_bottom.L_GO.md#readme)

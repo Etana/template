@@ -1,4 +1,11 @@
-# Variable META_FB_LIKE
+# Variable d'affichage
+```
+META_FB_LIKE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/META_FB_LIKE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {META_FB_LIKE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/META_FB_LIKE)
 
 ## Utilisations dans les templates
 

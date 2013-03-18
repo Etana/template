@@ -1,4 +1,11 @@
-# Variable de boucle promot_trafic.link.TITLE
+# Attribut d'affichage
+```
+promot_trafic.link.TITLE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
 
 ##Disponibilité
 Cette variable est un attribut de [promot_trafic.link](promot_trafic.link.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [promot_trafic.link](promot_trafic.link.md#rea
     <!-- END link -->
 <!-- END promot_trafic -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
 
 ## Utilisations dans les templates
 

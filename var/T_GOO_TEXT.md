@@ -1,4 +1,11 @@
-# Variable T_GOO_TEXT
+# Variable d'affichage
+```
+T_GOO_TEXT
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/T_GOO_TEXT)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {T_GOO_TEXT}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/T_GOO_TEXT)
 
 ## Utilisations dans les templates
 

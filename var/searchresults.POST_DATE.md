@@ -1,4 +1,11 @@
-# Variable de boucle searchresults.POST_DATE
+# Attribut d'affichage
+```
+searchresults.POST_DATE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
 
 ##Disponibilité
 Cette variable est un attribut de [searchresults](searchresults.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [searchresults](searchresults.md#readme).
     {searchresults.POST_DATE}
 <!-- END searchresults -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
 
 ## Utilisations dans les templates
 

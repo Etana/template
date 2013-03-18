@@ -1,4 +1,13 @@
-# Variable L_FORUM_LOCKED
+# Variable d'affichage
+```
+L_FORUM_LOCKED
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_FORUM_LOCKED)
+Chaîne de texte.
+
+* __Contenu en français :__ `Forum Verrouillé`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_FORUM_LOCKED}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_FORUM_LOCKED)
-Chaîne de texte.
-
-* __Contenu en français :__ `Forum Verrouillé`
 
 ## Utilisations dans les templates
 

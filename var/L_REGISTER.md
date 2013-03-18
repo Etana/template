@@ -1,4 +1,13 @@
-# Variable L_REGISTER
+# Variable d'affichage
+```
+L_REGISTER
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_REGISTER)
+Chaîne de texte.
+
+* __Contenu en français :__ `S'enregistrer`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_REGISTER}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_REGISTER)
-Chaîne de texte.
-
-* __Contenu en français :__ `S'enregistrer`
 
 ## Utilisations dans les templates
 

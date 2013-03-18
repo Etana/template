@@ -1,4 +1,11 @@
-# Variable L_MODERATOR
+# Variable d'affichage
+```
+L_MODERATOR
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MODERATOR)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_MODERATOR}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MODERATOR)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,11 @@
-# Variable L_CANCEL
+# Variable d'affichage
+```
+L_CANCEL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CANCEL)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_CANCEL}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CANCEL)
 
 ## Utilisations dans les templates
 

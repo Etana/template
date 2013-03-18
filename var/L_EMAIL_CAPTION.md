@@ -1,4 +1,11 @@
-# Variable L_EMAIL_CAPTION
+# Variable d'affichage
+```
+L_EMAIL_CAPTION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_EMAIL_CAPTION)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_EMAIL_CAPTION}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_EMAIL_CAPTION)
 
 ## Utilisations dans les templates
 

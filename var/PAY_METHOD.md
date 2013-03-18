@@ -1,4 +1,11 @@
-# Variable PAY_METHOD
+# Variable d'affichage
+```
+PAY_METHOD
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAY_METHOD)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {PAY_METHOD}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAY_METHOD)
 
 ## Utilisations dans les templates
 

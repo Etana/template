@@ -1,4 +1,11 @@
-# Variable U_VIEW_NEWER_TOPIC
+# Variable d'affichage
+```
+U_VIEW_NEWER_TOPIC
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_VIEW_NEWER_TOPIC)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {U_VIEW_NEWER_TOPIC}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_VIEW_NEWER_TOPIC)
 
 ## Utilisations dans les templates
 

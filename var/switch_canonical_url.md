@@ -1,4 +1,11 @@
-# Boucle switch_canonical_url
+# Variable de bouclage
+```
+switch_canonical_url
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_canonical_url)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_canonical_url -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_canonical_url)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [CANONICAL_URL](switch_canonical_url.CANONICAL_URL.md#readme)
 
 

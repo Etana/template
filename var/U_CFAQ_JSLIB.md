@@ -1,4 +1,11 @@
-# Variable U_CFAQ_JSLIB
+# Variable d'affichage
+```
+U_CFAQ_JSLIB
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_CFAQ_JSLIB)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {U_CFAQ_JSLIB}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_CFAQ_JSLIB)
 
 ## Utilisations dans les templates
 

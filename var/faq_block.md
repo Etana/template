@@ -1,4 +1,11 @@
-# Boucle faq_block
+# Variable de bouclage
+```
+faq_block
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,14 +16,11 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END faq_block -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [BLOCK_TITLE](faq_block.BLOCK_TITLE.md#readme)
 * [BLOCK_TITLE](faq_block.BLOCK_TITLE.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [faq_row](faq_block.faq_row.md#readme)
 * [faq_row](faq_block.faq_row.md#readme)
 

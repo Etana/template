@@ -1,4 +1,11 @@
-# Variable TABS_MORE_IMG
+# Variable d'affichage
+```
+TABS_MORE_IMG
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TABS_MORE_IMG)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {TABS_MORE_IMG}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TABS_MORE_IMG)
 
 ## Utilisations dans les templates
 

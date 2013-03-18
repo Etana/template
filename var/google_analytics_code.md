@@ -1,4 +1,11 @@
-# Boucle google_analytics_code
+# Variable de bouclage
+```
+google_analytics_code
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,13 +16,10 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END google_analytics_code -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [G_ANALYTICS_ID](google_analytics_code.G_ANALYTICS_ID.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [google_analytics_code_bis](google_analytics_code.google_analytics_code_bis.md#readme)
 
 

@@ -1,4 +1,11 @@
-# Variable de boucle guest_user_row.ROW_CLASS
+# Attribut d'affichage
+```
+guest_user_row.ROW_CLASS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row.ROW_CLASS)
 
 ##Disponibilité
 Cette variable est un attribut de [guest_user_row](guest_user_row.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [guest_user_row](guest_user_row.md#readme).
     {guest_user_row.ROW_CLASS}
 <!-- END guest_user_row -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row.ROW_CLASS)
 
 ## Utilisations dans les templates
 

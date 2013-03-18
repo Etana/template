@@ -1,4 +1,13 @@
-# Variable L_NO_NEW_POSTS
+# Variable d'affichage
+```
+L_NO_NEW_POSTS
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_NO_NEW_POSTS)
+Chaîne de texte.
+
+* __Contenu en français :__ `Pas de nouveaux messages`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_NO_NEW_POSTS}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_NO_NEW_POSTS)
-Chaîne de texte.
-
-* __Contenu en français :__ `Pas de nouveaux messages`
 
 ## Utilisations dans les templates
 

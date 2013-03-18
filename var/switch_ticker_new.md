@@ -1,4 +1,11 @@
-# Boucle switch_ticker_new
+# Variable de bouclage
+```
+switch_ticker_new
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_ticker_new -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [JS_DIR](switch_ticker_new.JS_DIR.md#readme)
 * [DIRECTION](switch_ticker_new.DIRECTION.md#readme)
 * [HEIGHT](switch_ticker_new.HEIGHT.md#readme)
@@ -24,7 +28,7 @@ Cette variable est utilisable directement dans une boucle.
 * [SPACING](switch_ticker_new.SPACING.md#readme)
 * [SPACING](switch_ticker_new.SPACING.md#readme)
 * [CLASS_TABLE_TYPE](switch_ticker_new.CLASS_TABLE_TYPE.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [ticker_row](switch_ticker_new.ticker_row.md#readme)
 
 

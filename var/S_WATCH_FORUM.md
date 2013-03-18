@@ -1,4 +1,11 @@
-# Variable S_WATCH_FORUM
+# Variable d'affichage
+```
+S_WATCH_FORUM
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_WATCH_FORUM)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {S_WATCH_FORUM}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_WATCH_FORUM)
 
 ## Utilisations dans les templates
 

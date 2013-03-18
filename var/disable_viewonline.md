@@ -1,4 +1,13 @@
-# Boucle disable_viewonline
+# Variable de bouclage
+```
+disable_viewonline
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/disable_viewonline)
+Boucle contenant le qui est en ligne.
+
+* __Code :__ [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline -->`](disable_viewonline.md#readme)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,13 +18,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END disable_viewonline -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/disable_viewonline)
-Boucle contenant le qui est en ligne.
-
-* __Code :__ [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline -->`](disable_viewonline.md#readme)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_ONLINE_IMG](disable_viewonline.L_ONLINE_IMG.md#readme)
 * [L_WHO_IS_ONLINE](disable_viewonline.L_WHO_IS_ONLINE.md#readme)
 * [TOTAL_POSTS](disable_viewonline.TOTAL_POSTS.md#readme)
@@ -29,7 +33,7 @@ Boucle contenant le qui est en ligne.
 * [L_WHOSBIRTHDAY_WEEK](disable_viewonline.L_WHOSBIRTHDAY_WEEK.md#readme)
 * [LEGEND](disable_viewonline.LEGEND.md#readme)
 * [GROUP_LEGEND](disable_viewonline.GROUP_LEGEND.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [switch_viewonline_link](disable_viewonline.switch_viewonline_link.md#readme)
 * [switch_viewonline_nolink](disable_viewonline.switch_viewonline_nolink.md#readme)
 * [switch_chatbox_activate](disable_viewonline.switch_chatbox_activate.md#readme)

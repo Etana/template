@@ -1,4 +1,11 @@
-# Variable L_POSTS
+# Variable d'affichage
+```
+L_POSTS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POSTS)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_POSTS}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POSTS)
 
 ## Utilisations dans les templates
 

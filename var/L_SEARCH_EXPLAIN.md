@@ -1,4 +1,11 @@
-# Variable L_SEARCH_EXPLAIN
+# Variable d'affichage
+```
+L_SEARCH_EXPLAIN
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_EXPLAIN)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_SEARCH_EXPLAIN}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_EXPLAIN)
 
 ## Utilisations dans les templates
 

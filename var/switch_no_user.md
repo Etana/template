@@ -1,4 +1,11 @@
-# Boucle switch_no_user
+# Variable de bouclage
+```
+switch_no_user
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_no_user -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [COLSPAN_NUMBER](switch_no_user.COLSPAN_NUMBER.md#readme)
 * [L_NO_USER](switch_no_user.L_NO_USER.md#readme)
 

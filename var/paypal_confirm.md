@@ -1,4 +1,11 @@
-# Boucle paypal_confirm
+# Variable de bouclage
+```
+paypal_confirm
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END paypal_confirm -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [MESSAGE_TITLE](paypal_confirm.MESSAGE_TITLE.md#readme)
 * [MESSAGE_TEXT](paypal_confirm.MESSAGE_TEXT.md#readme)
 * [RIGHT](paypal_confirm.RIGHT.md#readme)
@@ -22,7 +26,7 @@ Cette variable est utilisable directement dans une boucle.
 * [LEFT](paypal_confirm.LEFT.md#readme)
 * [S_CREDITS_ADD_ACTION](paypal_confirm.S_CREDITS_ADD_ACTION.md#readme)
 * [L_NO](paypal_confirm.L_NO.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [hidden_field](paypal_confirm.hidden_field.md#readme)
 
 

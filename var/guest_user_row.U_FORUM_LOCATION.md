@@ -1,4 +1,11 @@
-# Variable de boucle guest_user_row.U_FORUM_LOCATION
+# Attribut d'affichage
+```
+guest_user_row.U_FORUM_LOCATION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row.U_FORUM_LOCATION)
 
 ##Disponibilité
 Cette variable est un attribut de [guest_user_row](guest_user_row.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [guest_user_row](guest_user_row.md#readme).
     {guest_user_row.U_FORUM_LOCATION}
 <!-- END guest_user_row -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row.U_FORUM_LOCATION)
 
 ## Utilisations dans les templates
 

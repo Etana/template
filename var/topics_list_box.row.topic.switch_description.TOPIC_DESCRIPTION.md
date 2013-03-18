@@ -1,4 +1,11 @@
-# Variable de boucle topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION
+# Attribut d'affichage
+```
+topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION)
 
 ##Disponibilité
 Cette variable est un attribut de [topics_list_box.row.topic.switch_description](topics_list_box.row.topic.switch_description.md#readme).
@@ -14,9 +21,6 @@ Cette variable est un attribut de [topics_list_box.row.topic.switch_description]
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION)
 
 ## Utilisations dans les templates
 

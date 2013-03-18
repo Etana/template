@@ -1,4 +1,11 @@
-# Variable GROUP_LEGEND
+# Variable d'affichage
+```
+GROUP_LEGEND
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/GROUP_LEGEND)
+Affiche la liste des groupes dans le qui est en ligne selon votre `PA > Utilisateurs & Groupes > Groupes | Administration des Groupes`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {GROUP_LEGEND}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/GROUP_LEGEND)
-Affiche la liste des groupes dans le qui est en ligne selon votre `PA > Utilisateurs & Groupes > Groupes | Administration des Groupes`.
 
 ## Utilisations dans les templates
 

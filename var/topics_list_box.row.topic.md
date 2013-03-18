@@ -1,4 +1,11 @@
-# Variable de boucle topics_list_box.row.topic
+# Attribut de bouclage
+```
+topics_list_box.row.topic
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic)
 
 ##Disponibilité
 Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#readme).
@@ -11,11 +18,8 @@ Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#r
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [END_TABLE_STICKY](topics_list_box.row.topic.END_TABLE_STICKY.md#readme)
 * [ROW_FOLDER_CLASS](topics_list_box.row.topic.ROW_FOLDER_CLASS.md#readme)
 * [L_TOPIC_FOLDER_ALT](topics_list_box.row.topic.L_TOPIC_FOLDER_ALT.md#readme)
@@ -37,7 +41,7 @@ Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#r
 * [LAST_POST_TIME](topics_list_box.row.topic.LAST_POST_TIME.md#readme)
 * [LAST_POST_AUTHOR](topics_list_box.row.topic.LAST_POST_AUTHOR.md#readme)
 * [LAST_POST_IMG](topics_list_box.row.topic.LAST_POST_IMG.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [single_selection](topics_list_box.row.topic.single_selection.md#readme)
 * [icon](topics_list_box.row.topic.icon.md#readme)
 * [switch_description](topics_list_box.row.topic.switch_description.md#readme)

@@ -1,4 +1,11 @@
-# Boucle no_post
+# Variable de bouclage
+```
+no_post
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_post)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END no_post -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_post)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_NO_POST](no_post.L_NO_POST.md#readme)
 
 

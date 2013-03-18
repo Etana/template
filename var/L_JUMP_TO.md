@@ -1,4 +1,13 @@
-# Variable L_JUMP_TO
+# Variable d'affichage
+```
+L_JUMP_TO
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_JUMP_TO)
+Chaîne de texte.
+
+* __Contenu en français :__ `Sauter vers`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_JUMP_TO}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_JUMP_TO)
-Chaîne de texte.
-
-* __Contenu en français :__ `Sauter vers`
 
 ## Utilisations dans les templates
 

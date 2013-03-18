@@ -1,4 +1,11 @@
-# Variable NAMESPACE_BBCODE
+# Variable d'affichage
+```
+NAMESPACE_BBCODE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAMESPACE_BBCODE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {NAMESPACE_BBCODE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAMESPACE_BBCODE)
 
 ## Utilisations dans les templates
 

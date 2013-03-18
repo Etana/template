@@ -1,4 +1,11 @@
-# Variable de boucle switch_user_logged_in.watchtopic
+# Attribut de bouclage
+```
+switch_user_logged_in.watchtopic
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_user_logged_in](switch_user_logged_in.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [switch_user_logged_in](switch_user_logged_in.
 <!-- END switch_user_logged_in -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [S_WATCH_TOPIC](switch_user_logged_in.watchtopic.S_WATCH_TOPIC.md#readme)
 
 

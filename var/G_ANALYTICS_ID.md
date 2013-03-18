@@ -1,4 +1,11 @@
-# Variable G_ANALYTICS_ID
+# Variable d'affichage
+```
+G_ANALYTICS_ID
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID)
+Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analytics > Identifiant de compte`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {G_ANALYTICS_ID}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID)
-Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analytics > Identifiant de compte`.
 
 ## Utilisations dans les templates
 

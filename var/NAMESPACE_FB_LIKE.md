@@ -1,4 +1,11 @@
-# Variable NAMESPACE_FB_LIKE
+# Variable d'affichage
+```
+NAMESPACE_FB_LIKE
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAMESPACE_FB_LIKE)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {NAMESPACE_FB_LIKE}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAMESPACE_FB_LIKE)
 
 ## Utilisations dans les templates
 

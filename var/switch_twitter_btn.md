@@ -1,4 +1,11 @@
-# Boucle switch_twitter_btn
+# Variable de bouclage
+```
+switch_twitter_btn
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_twitter_btn)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -8,9 +15,6 @@ Cette variable est utilisable directement dans une boucle.
     contenu
 <!-- END switch_twitter_btn -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_twitter_btn)
 
 ## Utilisations dans les templates
 

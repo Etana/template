@@ -1,4 +1,11 @@
-# Variable T_BODY_LINK
+# Variable d'affichage
+```
+T_BODY_LINK
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/T_BODY_LINK)
+Couleur des liens définie dans `PA > Affichage > Images et Couleurs | Couleurs > Couleur du Lien`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {T_BODY_LINK}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/T_BODY_LINK)
-Couleur des liens définie dans `PA > Affichage > Images et Couleurs | Couleurs > Couleur du Lien`.
 
 ## Utilisations dans les templates
 

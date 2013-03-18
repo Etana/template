@@ -1,4 +1,11 @@
-# Boucle topics_list_box
+# Variable de bouclage
+```
+topics_list_box
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box)
-
 ## Attributs
-### Attributs de boucle
+### Variable de boucle
 * [row](topics_list_box.row.md#readme)
 
 

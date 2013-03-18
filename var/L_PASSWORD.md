@@ -1,4 +1,13 @@
-# Variable L_PASSWORD
+# Variable d'affichage
+```
+L_PASSWORD
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/L_PASSWORD)
+Chaîne de texte.
+
+* __Contenu en français :__ `Mot de passe`
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,11 +15,6 @@ Cette variable est utilisable directement.
 ```html
 {L_PASSWORD}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/L_PASSWORD)
-Chaîne de texte.
-
-* __Contenu en français :__ `Mot de passe`
 
 ## Utilisations dans les templates
 

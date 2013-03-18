@@ -1,4 +1,11 @@
-# Variable SITE_DESCRIPTION
+# Variable d'affichage
+```
+SITE_DESCRIPTION
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/SITE_DESCRIPTION)
+Description du site spécifiée dans `PA > Général  > Forum | Configuration > Description du site`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SITE_DESCRIPTION}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/SITE_DESCRIPTION)
-Description du site spécifiée dans `PA > Général  > Forum | Configuration > Description du site`.
 
 ## Utilisations dans les templates
 

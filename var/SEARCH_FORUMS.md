@@ -1,4 +1,11 @@
-# Variable SEARCH_FORUMS
+# Variable d'affichage
+```
+SEARCH_FORUMS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCH_FORUMS)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {SEARCH_FORUMS}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCH_FORUMS)
 
 ## Utilisations dans les templates
 

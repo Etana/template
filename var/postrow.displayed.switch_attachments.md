@@ -1,4 +1,11 @@
-# Variable de boucle postrow.displayed.switch_attachments
+# Attribut de bouclage
+```
+postrow.displayed.switch_attachments
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments)
 
 ##Disponibilité
 Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
@@ -11,13 +18,10 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readm
 <!-- END postrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [L_ATTACHMENTS](postrow.displayed.switch_attachments.L_ATTACHMENTS.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [switch_post_attachments](postrow.displayed.switch_attachments.switch_post_attachments.md#readme)
 
 

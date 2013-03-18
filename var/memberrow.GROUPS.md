@@ -1,4 +1,11 @@
-# Variable de boucle memberrow.GROUPS
+# Attribut d'affichage
+```
+memberrow.GROUPS
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.GROUPS)
 
 ##Disponibilité
 Cette variable est un attribut de [memberrow](memberrow.md#readme).
@@ -8,9 +15,6 @@ Cette variable est un attribut de [memberrow](memberrow.md#readme).
     {memberrow.GROUPS}
 <!-- END memberrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.GROUPS)
 
 ## Utilisations dans les templates
 

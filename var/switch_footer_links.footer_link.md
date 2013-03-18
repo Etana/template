@@ -1,4 +1,11 @@
-# Variable de boucle switch_footer_links.footer_link
+# Attribut de bouclage
+```
+switch_footer_links.footer_link
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)
 
 ##Disponibilité
 Cette variable est un attribut de [switch_footer_links](switch_footer_links.md#readme).
@@ -9,17 +16,14 @@ Cette variable est un attribut de [switch_footer_links](switch_footer_links.md#r
 <!-- END switch_footer_links -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [U_FOOTER_LINK_HREF](switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)
 * [FOOTER_LINK_REL](switch_footer_links.footer_link.FOOTER_LINK_REL.md#readme)
 * [FOOTER_LINK_TARGET](switch_footer_links.footer_link.FOOTER_LINK_TARGET.md#readme)
 * [L_FOOTER_LINK_TITLE](switch_footer_links.footer_link.L_FOOTER_LINK_TITLE.md#readme)
 * [L_FOOTER_LINK_TEXT](switch_footer_links.footer_link.L_FOOTER_LINK_TEXT.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [switch_separator](switch_footer_links.footer_link.switch_separator.md#readme)
 
 

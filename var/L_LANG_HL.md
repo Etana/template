@@ -1,4 +1,11 @@
-# Variable L_LANG_HL
+# Variable d'affichage
+```
+L_LANG_HL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LANG_HL)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {L_LANG_HL}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LANG_HL)
 
 ## Utilisations dans les templates
 

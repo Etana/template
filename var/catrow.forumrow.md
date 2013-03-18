@@ -1,4 +1,11 @@
-# Variable de boucle catrow.forumrow
+# Attribut de bouclage
+```
+catrow.forumrow
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow)
 
 ##Disponibilité
 Cette variable est un attribut de [catrow](catrow.md#readme).
@@ -9,11 +16,8 @@ Cette variable est un attribut de [catrow](catrow.md#readme).
 <!-- END catrow -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [INC_CLASS](catrow.forumrow.INC_CLASS.md#readme)
 * [L_FORUM_FOLDER_ALT](catrow.forumrow.L_FORUM_FOLDER_ALT.md#readme)
 * [FORUM_FOLDER_IMG](catrow.forumrow.FORUM_FOLDER_IMG.md#readme)
@@ -29,7 +33,7 @@ Cette variable est un attribut de [catrow](catrow.md#readme).
 * [TOPICS](catrow.forumrow.TOPICS.md#readme)
 * [POSTS](catrow.forumrow.POSTS.md#readme)
 * [LAST_POST](catrow.forumrow.LAST_POST.md#readme)
-### Attributs de boucle
+### Variable de boucle
 * [inc](catrow.forumrow.inc.md#readme)
 * [switch_moderators_links](catrow.forumrow.switch_moderators_links.md#readme)
 

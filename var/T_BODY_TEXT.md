@@ -1,4 +1,11 @@
-# Variable T_BODY_TEXT
+# Variable d'affichage
+```
+T_BODY_TEXT
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/T_BODY_TEXT)
+Couleur du texte définie dans `PA > Affichage > Images et Couleurs | Couleurs > Couleur du Texte`.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {T_BODY_TEXT}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/T_BODY_TEXT)
-Couleur du texte définie dans `PA > Affichage > Images et Couleurs | Couleurs > Couleur du Texte`.
 
 ## Utilisations dans les templates
 

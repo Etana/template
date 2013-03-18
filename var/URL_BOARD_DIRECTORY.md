@@ -1,4 +1,11 @@
-# Variable URL_BOARD_DIRECTORY
+# Variable d'affichage
+```
+URL_BOARD_DIRECTORY
+```
+
+
+##Description[*](https://fa-tvars.appspot.com/var/URL_BOARD_DIRECTORY)
+Lien vers l'annuaire des forums dans la langue du forum.
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {URL_BOARD_DIRECTORY}
 ```
-
-##Description[*](https://fa-tvars.appspot.com/var/URL_BOARD_DIRECTORY)
-Lien vers l'annuaire des forums dans la langue du forum.
 
 ## Utilisations dans les templates
 

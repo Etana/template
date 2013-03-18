@@ -1,4 +1,11 @@
-# Variable ERROR_MESSAGES
+# Variable d'affichage
+```
+ERROR_MESSAGES
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ERROR_MESSAGES)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {ERROR_MESSAGES}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ERROR_MESSAGES)
 
 ## Utilisations dans les templates
 

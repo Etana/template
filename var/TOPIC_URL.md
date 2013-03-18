@@ -1,4 +1,11 @@
-# Variable TOPIC_URL
+# Variable d'affichage
+```
+TOPIC_URL
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOPIC_URL)
 
 ##Disponibilité
 Cette variable est utilisable directement.
@@ -6,9 +13,6 @@ Cette variable est utilisable directement.
 ```html
 {TOPIC_URL}
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOPIC_URL)
 
 ## Utilisations dans les templates
 

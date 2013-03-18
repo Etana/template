@@ -1,4 +1,11 @@
-# Boucle switch_view_stats
+# Variable de bouclage
+```
+switch_view_stats
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats)
 
 ##Disponibilité
 Cette variable est utilisable directement dans une boucle.
@@ -9,11 +16,8 @@ Cette variable est utilisable directement dans une boucle.
 <!-- END switch_view_stats -->
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats)
-
 ## Attributs
-### Attributs d'affichage
+### Variable d'affichage
 * [S_STATS](switch_view_stats.S_STATS.md#readme)
 * [L_STATS](switch_view_stats.L_STATS.md#readme)
 

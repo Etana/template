@@ -1,11 +1,8 @@
-# Variable TOTAL_USERS_ONLINE
-
-##Disponibilité
-Cette variable est utilisable directement.
-
-```html
-{TOTAL_USERS_ONLINE}
+# Variable d'affichage
 ```
+TOTAL_USERS_ONLINE
+```
+
 
 ##Description[*](https://fa-tvars.appspot.com/var/TOTAL_USERS_ONLINE)
 Chaîne html indiquant le nombre total de connecté, de membre enregistré, de membre invisible et d'invité en ligne sur le forum.
@@ -42,6 +39,13 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 ```html
 <span id=tuog>{TOTAL_USERS_ONLINE}</span>
 <script> $('#tuog').text($('#tuog').text().match(/[0-9]+/g)[3]) </script>
+```
+
+##Disponibilité
+Cette variable est utilisable directement.
+
+```html
+{TOTAL_USERS_ONLINE}
 ```
 
 ## Utilisations dans les templates

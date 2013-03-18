@@ -1,4 +1,11 @@
-# Variable de boucle catrow.forumrow.U_VIEWFORUM
+# Attribut d'affichage
+```
+catrow.forumrow.U_VIEWFORUM
+```
+
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.U_VIEWFORUM)
 
 ##Disponibilité
 Cette variable est un attribut de [catrow.forumrow](catrow.forumrow.md#readme).
@@ -10,9 +17,6 @@ Cette variable est un attribut de [catrow.forumrow](catrow.forumrow.md#readme).
     <!-- END forumrow -->
 <!-- END catrow -->
 ```
-
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.U_VIEWFORUM)
 
 ## Utilisations dans les templates
 
