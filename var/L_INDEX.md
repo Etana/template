@@ -14,4 +14,4 @@ Chaîne de texte contenant le titre de votre forum défini dans `PA > Général 
 
 ### Version phpBB2
 
-* __[Template agreement](subsilver/agreement.md#readme) :__ [ligne 3](../tpl/src/subsilver/agreement.tpl#L3)
+* __[Template agreement](../tpl/var/subsilver/agreement.md#readme) :__ [ligne 3](../tpl/src/subsilver/agreement.tpl#L3)
