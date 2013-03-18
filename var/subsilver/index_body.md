@@ -22,10 +22,10 @@
 ### [CHATBOX_TOP](../CHATBOX_TOP.md#readme) ([V](https://fa-tvars.appspot.com/var/CHATBOX_TOP))
 * [Variable &agrave; la ligne 83](../../subsilver/index_body.tpl#L83)
 
-### [CHATTERS_LIST](../CHATTERS_LIST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CHATTERS_LIST))
+### [CHATTERS_LIST](../CHATTERS_LIST.md#readme) ([V](https://fa-tvars.appspot.com/var/CHATTERS_LIST))
 * [Variable &agrave; la ligne 208](../../subsilver/index_body.tpl#L208)
 
-### [disable_viewonline](../disable_viewonline.md#readme) ([XXX](https://fa-tvars.appspot.com/var/disable_viewonline))
+### [disable_viewonline](../disable_viewonline.md#readme) ([V](https://fa-tvars.appspot.com/var/disable_viewonline))
 * [Début de boucle &agrave; la ligne 174](../../subsilver/index_body.tpl#L174)
 * [Fin de boucle &agrave; la ligne 222](../../subsilver/index_body.tpl#L222)
 

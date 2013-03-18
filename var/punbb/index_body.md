@@ -20,10 +20,10 @@
 ### [CHATBOX_TOP](../CHATBOX_TOP.md#readme) ([V](https://fa-tvars.appspot.com/var/CHATBOX_TOP))
 * [Variable &agrave; la ligne 52](../../punbb/index_body.tpl#L52)
 
-### [CHATTERS_LIST](../CHATTERS_LIST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CHATTERS_LIST))
+### [CHATTERS_LIST](../CHATTERS_LIST.md#readme) ([V](https://fa-tvars.appspot.com/var/CHATTERS_LIST))
 * [Variable &agrave; la ligne 91](../../punbb/index_body.tpl#L91)
 
-### [disable_viewonline](../disable_viewonline.md#readme) ([XXX](https://fa-tvars.appspot.com/var/disable_viewonline))
+### [disable_viewonline](../disable_viewonline.md#readme) ([V](https://fa-tvars.appspot.com/var/disable_viewonline))
 * [Début de boucle &agrave; la ligne 55](../../punbb/index_body.tpl#L55)
 * [Fin de boucle &agrave; la ligne 103](../../punbb/index_body.tpl#L103)
 
