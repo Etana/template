@@ -1,4 +1,5 @@
 # <a name="variables"></a>Variables de template avec description
+* [AUTO_DST](var/AUTO_DST.md)
 * [GENERATED_NAV_BAR](var/GENERATED_NAV_BAR.md)
 * [JAVASCRIPT](var/JAVASCRIPT.md)
 * [LOGGED_IN_USER_LIST](var/LOGGED_IN_USER_LIST.md)
@@ -14,6 +15,8 @@
 * [TOTAL_POSTS](var/TOTAL_POSTS.md)
 * [TOTAL_USERS](var/TOTAL_USERS.md)
 * [TOTAL_USERS_ONLINE](var/TOTAL_USERS_ONLINE.md)
+* [U_MARK_READ](var/U_MARK_READ.md)
+* [U_TODAY_ACTIVE](var/U_TODAY_ACTIVE.md)
 * [U_VIEWONLINE](var/U_VIEWONLINE.md)
 * [switch_user_logged_in](var/switch_user_logged_in.md)
 * [switch_user_logged_out](var/switch_user_logged_out.md)

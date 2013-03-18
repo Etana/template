@@ -1,5 +1,9 @@
 # Variable U_TODAY_ACTIVE
-[Ajouter une description](https://fa-tvars.appspot.com/var/U_TODAY_ACTIVE)
+
+##Description[*](https://fa-tvars.appspot.com/var/U_TODAY_ACTIVE)
+Lien vers les sujets actifs du jour. 
+
+* __Remplacement par :__  `/search?search_id=activetopics`
 
 ## Utilisations dans les templates
 

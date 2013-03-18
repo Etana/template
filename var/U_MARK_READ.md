@@ -1,5 +1,11 @@
 # Variable U_MARK_READ
-[Ajouter une description](https://fa-tvars.appspot.com/var/U_MARK_READ)
+
+##Description[*](https://fa-tvars.appspot.com/var/U_MARK_READ)
+Lien vers `Marquer tous les forums comme lus`. 
+
+* __Adresse URL :__ 
+
+`http://votreforum.votredomaine.ex/?mark=forums`
 
 ## Utilisations dans les templates
 
