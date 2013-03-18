@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_recent](switch_recent.md#readme)
 
 ```
-{switch_recent.DATE}
+<!-- BEGIN switch_recent -->
+    {switch_recent.DATE}
+<!-- END switch_recent -->
+```
 
 ## Utilisations dans les templates
 

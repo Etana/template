@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [guest_user_row](guest_user_row.md#readme)
 
 ```
-{guest_user_row.USERNAME}
+<!-- BEGIN guest_user_row -->
+    {guest_user_row.USERNAME}
+<!-- END guest_user_row -->
+```
 
 ## Utilisations dans les templates
 

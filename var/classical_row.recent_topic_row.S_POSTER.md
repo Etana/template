@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [recent_topic_row](recent_topic_row.md#readme)
+* se trouvant dans une boucle sur la variable [classical_row](classical_row.md#readme)
 
 ```
-{classical_row.recent_topic_row.S_POSTER}
+<!-- BEGIN classical_row -->
+    <!-- BEGIN recent_topic_row -->
+        {classical_row.recent_topic_row.S_POSTER}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
+```
 
 ## Utilisations dans les templates
 

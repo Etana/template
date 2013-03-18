@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_is_not_orphan](switch_is_not_orphan.md#readme)
+* se trouvant dans une boucle sur la variable [attachments](attachments.md#readme)
+* se trouvant dans une boucle sur la variable [switch_attachment_list](switch_attachment_list.md#readme)
 
 ```
-{switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        <!-- BEGIN switch_is_not_orphan -->
+            {switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}
+        <!-- END switch_is_not_orphan -->
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
+```
 
 ## Utilisations dans les templates
 

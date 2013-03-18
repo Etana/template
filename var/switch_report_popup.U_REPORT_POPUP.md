@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_report_popup](switch_report_popup.md#readme)
 
 ```
-{switch_report_popup.U_REPORT_POPUP}
+<!-- BEGIN switch_report_popup -->
+    {switch_report_popup.U_REPORT_POPUP}
+<!-- END switch_report_popup -->
+```
 
 ## Utilisations dans les templates
 

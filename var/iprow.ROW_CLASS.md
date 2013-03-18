@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [iprow](iprow.md#readme)
 
 ```
-{iprow.ROW_CLASS}
+<!-- BEGIN iprow -->
+    {iprow.ROW_CLASS}
+<!-- END iprow -->
+```
 
 ## Utilisations dans les templates
 

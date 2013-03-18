@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [select_currency](select_currency.md#readme)
+* se trouvant dans une boucle sur la variable [switch_select_currency](switch_select_currency.md#readme)
+* se trouvant dans une boucle sur la variable [credit_card_method](credit_card_method.md#readme)
 
 ```
-{credit_card_method.switch_select_currency.select_currency.SELECTED}
+<!-- BEGIN credit_card_method -->
+    <!-- BEGIN switch_select_currency -->
+        <!-- BEGIN select_currency -->
+            {credit_card_method.switch_select_currency.select_currency.SELECTED}
+        <!-- END select_currency -->
+    <!-- END switch_select_currency -->
+<!-- END credit_card_method -->
+```
 
 ## Utilisations dans les templates
 

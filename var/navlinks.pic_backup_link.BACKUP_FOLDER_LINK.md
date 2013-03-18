@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [pic_backup_link](pic_backup_link.md#readme)
+* se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
 
 ```
-{navlinks.pic_backup_link.BACKUP_FOLDER_LINK}
+<!-- BEGIN navlinks -->
+    <!-- BEGIN pic_backup_link -->
+        {navlinks.pic_backup_link.BACKUP_FOLDER_LINK}
+    <!-- END pic_backup_link -->
+<!-- END navlinks -->
+```
 
 ## Utilisations dans les templates
 

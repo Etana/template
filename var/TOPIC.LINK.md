@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [TOPIC](TOPIC.md#readme)
 
 ```
-{TOPIC.LINK}
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+<!-- END TOPIC -->
+```
 
 ## Utilisations dans les templates
 

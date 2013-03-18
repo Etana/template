@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_roll_dice](switch_roll_dice.md#readme)
 
 ```
-{switch_roll_dice.S_DICE_ROLLS_VALUE}
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.S_DICE_ROLLS_VALUE}
+<!-- END switch_roll_dice -->
+```
 
 ## Utilisations dans les templates
 

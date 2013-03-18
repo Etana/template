@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [block_title](block_title.md#readme)
+* se trouvant dans une boucle sur la variable [build_categories_block](build_categories_block.md#readme)
 
 ```
-{build_categories_block.block_title.L_TITLE}
+<!-- BEGIN build_categories_block -->
+    <!-- BEGIN block_title -->
+        {build_categories_block.block_title.L_TITLE}
+    <!-- END block_title -->
+<!-- END build_categories_block -->
+```
 
 ## Utilisations dans les templates
 

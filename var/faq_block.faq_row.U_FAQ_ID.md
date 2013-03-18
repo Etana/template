@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [faq_row](faq_row.md#readme)
+* se trouvant dans une boucle sur la variable [faq_block](faq_block.md#readme)
 
 ```
-{faq_block.faq_row.U_FAQ_ID}
+<!-- BEGIN faq_block -->
+    <!-- BEGIN faq_row -->
+        {faq_block.faq_row.U_FAQ_ID}
+    <!-- END faq_row -->
+<!-- END faq_block -->
+```
 
 ## Utilisations dans les templates
 

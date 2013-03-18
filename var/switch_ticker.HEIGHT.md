@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_ticker](switch_ticker.md#readme)
 
 ```
-{switch_ticker.HEIGHT}
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
+```
 
 ## Utilisations dans les templates
 

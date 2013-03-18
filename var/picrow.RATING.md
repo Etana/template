@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [picrow](picrow.md#readme)
 
 ```
-{picrow.RATING}
+<!-- BEGIN picrow -->
+    {picrow.RATING}
+<!-- END picrow -->
+```
 
 ## Utilisations dans les templates
 

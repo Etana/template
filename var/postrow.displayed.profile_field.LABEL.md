@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [profile_field](profile_field.md#readme)
+* se trouvant dans une boucle sur la variable [displayed](displayed.md#readme)
+* se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
 
 ```
-{postrow.displayed.profile_field.LABEL}
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN profile_field -->
+            {postrow.displayed.profile_field.LABEL}
+        <!-- END profile_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
+```
 
 ## Utilisations dans les templates
 

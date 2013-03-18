@@ -3,10 +3,22 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [cell](cell.md#readme)
+* se trouvant dans une boucle sur la variable [row](row.md#readme)
+* se trouvant dans une boucle sur la variable [switch_icon_checkbox](switch_icon_checkbox.md#readme)
+* se trouvant dans une boucle sur la variable [switch_topic_modif](switch_topic_modif.md#readme)
 
 ```
-{switch_topic_modif.switch_icon_checkbox.row.cell.ICON_CHECKED}
+<!-- BEGIN switch_topic_modif -->
+    <!-- BEGIN switch_icon_checkbox -->
+        <!-- BEGIN row -->
+            <!-- BEGIN cell -->
+                {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_CHECKED}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
+```
 
 ## Utilisations dans les templates
 

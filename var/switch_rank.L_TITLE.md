@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_rank](switch_rank.md#readme)
 
 ```
-{switch_rank.L_TITLE}
+<!-- BEGIN switch_rank -->
+    {switch_rank.L_TITLE}
+<!-- END switch_rank -->
+```
 
 ## Utilisations dans les templates
 

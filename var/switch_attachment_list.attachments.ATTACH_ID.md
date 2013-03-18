@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [attachments](attachments.md#readme)
+* se trouvant dans une boucle sur la variable [switch_attachment_list](switch_attachment_list.md#readme)
 
 ```
-{switch_attachment_list.attachments.ATTACH_ID}
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        {switch_attachment_list.attachments.ATTACH_ID}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
+```
 
 ## Utilisations dans les templates
 

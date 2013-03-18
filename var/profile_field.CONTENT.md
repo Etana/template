@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [profile_field](profile_field.md#readme)
 
 ```
-{profile_field.CONTENT}
+<!-- BEGIN profile_field -->
+    {profile_field.CONTENT}
+<!-- END profile_field -->
+```
 
 ## Utilisations dans les templates
 

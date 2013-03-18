@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_user_logged_in](switch_user_logged_in.md#readme)
 
 ```
-{switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}
+<!-- BEGIN switch_user_logged_in -->
+    {switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}
+<!-- END switch_user_logged_in -->
+```
 
 ## Utilisations dans les templates
 

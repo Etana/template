@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [moderation_panel](moderation_panel.md#readme)
 
 ```
-{moderation_panel.U_YOUR_PERSONAL_MODERATE}
+<!-- BEGIN moderation_panel -->
+    {moderation_panel.U_YOUR_PERSONAL_MODERATE}
+<!-- END moderation_panel -->
+```
 
 ## Utilisations dans les templates
 

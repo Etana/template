@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [prev](prev.md#readme)
+* se trouvant dans une boucle sur la variable [pics_nav](pics_nav.md#readme)
 
 ```
-{pics_nav.prev.U_PICS_LINK}
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN prev -->
+        {pics_nav.prev.U_PICS_LINK}
+    <!-- END prev -->
+<!-- END pics_nav -->
+```
 
 ## Utilisations dans les templates
 

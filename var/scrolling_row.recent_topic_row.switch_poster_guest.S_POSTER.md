@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_poster_guest](switch_poster_guest.md#readme)
+* se trouvant dans une boucle sur la variable [recent_topic_row](recent_topic_row.md#readme)
+* se trouvant dans une boucle sur la variable [scrolling_row](scrolling_row.md#readme)
 
 ```
-{scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER}
+<!-- BEGIN scrolling_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            {scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER}
+        <!-- END switch_poster_guest -->
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
+```
 
 ## Utilisations dans les templates
 

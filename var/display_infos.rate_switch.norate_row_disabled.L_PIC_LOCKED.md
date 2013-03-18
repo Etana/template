@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [norate_row_disabled](norate_row_disabled.md#readme)
+* se trouvant dans une boucle sur la variable [rate_switch](rate_switch.md#readme)
+* se trouvant dans une boucle sur la variable [display_infos](display_infos.md#readme)
 
 ```
-{display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}
+<!-- BEGIN display_infos -->
+    <!-- BEGIN rate_switch -->
+        <!-- BEGIN norate_row_disabled -->
+            {display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}
+        <!-- END norate_row_disabled -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
+```
 
 ## Utilisations dans les templates
 

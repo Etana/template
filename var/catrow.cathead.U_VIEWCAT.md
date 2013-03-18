@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [cathead](cathead.md#readme)
+* se trouvant dans une boucle sur la variable [catrow](catrow.md#readme)
 
 ```
-{catrow.cathead.U_VIEWCAT}
+<!-- BEGIN catrow -->
+    <!-- BEGIN cathead -->
+        {catrow.cathead.U_VIEWCAT}
+    <!-- END cathead -->
+<!-- END catrow -->
+```
 
 ## Utilisations dans les templates
 

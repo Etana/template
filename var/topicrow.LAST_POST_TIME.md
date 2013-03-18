@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [topicrow](topicrow.md#readme)
 
 ```
-{topicrow.LAST_POST_TIME}
+<!-- BEGIN topicrow -->
+    {topicrow.LAST_POST_TIME}
+<!-- END topicrow -->
+```
 
 ## Utilisations dans les templates
 

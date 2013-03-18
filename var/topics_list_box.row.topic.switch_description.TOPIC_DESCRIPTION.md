@@ -3,10 +3,22 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_description](switch_description.md#readme)
+* se trouvant dans une boucle sur la variable [topic](topic.md#readme)
+* se trouvant dans une boucle sur la variable [row](row.md#readme)
+* se trouvant dans une boucle sur la variable [topics_list_box](topics_list_box.md#readme)
 
 ```
-{topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
+<!-- BEGIN topics_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN topic -->
+            <!-- BEGIN switch_description -->
+                {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
+            <!-- END switch_description -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
+```
 
 ## Utilisations dans les templates
 

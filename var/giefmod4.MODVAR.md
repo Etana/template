@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [giefmod4](giefmod4.md#readme)
 
 ```
-{giefmod4.MODVAR}
+<!-- BEGIN giefmod4 -->
+    {giefmod4.MODVAR}
+<!-- END giefmod4 -->
+```
 
 ## Utilisations dans les templates
 

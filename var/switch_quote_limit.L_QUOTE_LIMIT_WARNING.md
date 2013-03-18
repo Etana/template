@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_quote_limit](switch_quote_limit.md#readme)
 
 ```
-{switch_quote_limit.L_QUOTE_LIMIT_WARNING}
+<!-- BEGIN switch_quote_limit -->
+    {switch_quote_limit.L_QUOTE_LIMIT_WARNING}
+<!-- END switch_quote_limit -->
+```
 
 ## Utilisations dans les templates
 

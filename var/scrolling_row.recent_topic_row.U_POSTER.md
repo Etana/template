@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [recent_topic_row](recent_topic_row.md#readme)
+* se trouvant dans une boucle sur la variable [scrolling_row](scrolling_row.md#readme)
 
 ```
-{scrolling_row.recent_topic_row.U_POSTER}
+<!-- BEGIN scrolling_row -->
+    <!-- BEGIN recent_topic_row -->
+        {scrolling_row.recent_topic_row.U_POSTER}
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
+```
 
 ## Utilisations dans les templates
 

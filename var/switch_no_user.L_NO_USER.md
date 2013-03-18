@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_no_user](switch_no_user.md#readme)
 
 ```
-{switch_no_user.L_NO_USER}
+<!-- BEGIN switch_no_user -->
+    {switch_no_user.L_NO_USER}
+<!-- END switch_no_user -->
+```
 
 ## Utilisations dans les templates
 

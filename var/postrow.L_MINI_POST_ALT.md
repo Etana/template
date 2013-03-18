@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [postrow](postrow.md#readme)
 
 ```
-{postrow.L_MINI_POST_ALT}
+<!-- BEGIN postrow -->
+    {postrow.L_MINI_POST_ALT}
+<!-- END postrow -->
+```
 
 ## Utilisations dans les templates
 

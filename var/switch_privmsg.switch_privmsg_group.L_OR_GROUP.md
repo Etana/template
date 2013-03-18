@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_privmsg_group](switch_privmsg_group.md#readme)
+* se trouvant dans une boucle sur la variable [switch_privmsg](switch_privmsg.md#readme)
 
 ```
-{switch_privmsg.switch_privmsg_group.L_OR_GROUP}
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_privmsg_group -->
+        {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
+    <!-- END switch_privmsg_group -->
+<!-- END switch_privmsg -->
+```
 
 ## Utilisations dans les templates
 

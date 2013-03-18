@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [rpg_fields](rpg_fields.md#readme)
+* se trouvant dans une boucle sur la variable [switch_rpg](switch_rpg.md#readme)
 
 ```
-{switch_rpg.rpg_fields.F_NAME}
+<!-- BEGIN switch_rpg -->
+    <!-- BEGIN rpg_fields -->
+        {switch_rpg.rpg_fields.F_NAME}
+    <!-- END rpg_fields -->
+<!-- END switch_rpg -->
+```
 
 ## Utilisations dans les templates
 

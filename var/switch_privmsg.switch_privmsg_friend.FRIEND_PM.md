@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_privmsg_friend](switch_privmsg_friend.md#readme)
+* se trouvant dans une boucle sur la variable [switch_privmsg](switch_privmsg.md#readme)
 
 ```
-{switch_privmsg.switch_privmsg_friend.FRIEND_PM}
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_privmsg_friend -->
+        {switch_privmsg.switch_privmsg_friend.FRIEND_PM}
+    <!-- END switch_privmsg_friend -->
+<!-- END switch_privmsg -->
+```
 
 ## Utilisations dans les templates
 

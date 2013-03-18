@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [hidden_field](hidden_field.md#readme)
+* se trouvant dans une boucle sur la variable [phonecall_method](phonecall_method.md#readme)
 
 ```
-{phonecall_method.hidden_field.NAME}
+<!-- BEGIN phonecall_method -->
+    <!-- BEGIN hidden_field -->
+        {phonecall_method.hidden_field.NAME}
+    <!-- END hidden_field -->
+<!-- END phonecall_method -->
+```
 
 ## Utilisations dans les templates
 

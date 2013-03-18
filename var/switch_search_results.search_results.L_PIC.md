@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [search_results](search_results.md#readme)
+* se trouvant dans une boucle sur la variable [switch_search_results](switch_search_results.md#readme)
 
 ```
-{switch_search_results.search_results.L_PIC}
+<!-- BEGIN switch_search_results -->
+    <!-- BEGIN search_results -->
+        {switch_search_results.search_results.L_PIC}
+    <!-- END search_results -->
+<!-- END switch_search_results -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_rate](switch_rate.md#readme)
 
 ```
-{switch_rate.RATE}
+<!-- BEGIN switch_rate -->
+    {switch_rate.RATE}
+<!-- END switch_rate -->
+```
 
 ## Utilisations dans les templates
 

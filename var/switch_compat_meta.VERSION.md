@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_compat_meta](switch_compat_meta.md#readme)
 
 ```
-{switch_compat_meta.VERSION}
+<!-- BEGIN switch_compat_meta -->
+    {switch_compat_meta.VERSION}
+<!-- END switch_compat_meta -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [listrow](listrow.md#readme)
 
 ```
-{listrow.SUBJECT}
+<!-- BEGIN listrow -->
+    {listrow.SUBJECT}
+<!-- END listrow -->
+```
 
 ## Utilisations dans les templates
 

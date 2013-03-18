@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_fb_login](switch_fb_login.md#readme)
 
 ```
-{switch_fb_login.JS_FB_LOGIN}
+<!-- BEGIN switch_fb_login -->
+    {switch_fb_login.JS_FB_LOGIN}
+<!-- END switch_fb_login -->
+```
 
 ## Utilisations dans les templates
 

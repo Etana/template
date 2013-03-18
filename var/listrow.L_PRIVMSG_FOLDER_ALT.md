@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [listrow](listrow.md#readme)
 
 ```
-{listrow.L_PRIVMSG_FOLDER_ALT}
+<!-- BEGIN listrow -->
+    {listrow.L_PRIVMSG_FOLDER_ALT}
+<!-- END listrow -->
+```
 
 ## Utilisations dans les templates
 

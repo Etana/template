@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [searchresults](searchresults.md#readme)
 
 ```
-{searchresults.TOPIC_FOLDER_IMG}
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_FOLDER_IMG}
+<!-- END searchresults -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [bot_user_row](bot_user_row.md#readme)
 
 ```
-{bot_user_row.ROW_CLASS}
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.ROW_CLASS}
+<!-- END bot_user_row -->
+```
 
 ## Utilisations dans les templates
 

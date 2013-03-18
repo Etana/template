@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [displayed](displayed.md#readme)
+* se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
 
 ```
-{postrow.displayed.POSTER_RANK_NEW}
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.POSTER_RANK_NEW}
+    <!-- END displayed -->
+<!-- END postrow -->
+```
 
 ## Utilisations dans les templates
 

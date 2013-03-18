@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [IMGS](IMGS.md#readme)
 
 ```
-{IMGS.IMG}
+<!-- BEGIN IMGS -->
+    {IMGS.IMG}
+<!-- END IMGS -->
+```
 
 ## Utilisations dans les templates
 

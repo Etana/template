@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [pic_pagination](pic_pagination.md#readme)
 
 ```
-{pic_pagination.PAGINATION}
+<!-- BEGIN pic_pagination -->
+    {pic_pagination.PAGINATION}
+<!-- END pic_pagination -->
+```
 
 ## Utilisations dans les templates
 

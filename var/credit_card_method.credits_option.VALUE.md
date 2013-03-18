@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [credits_option](credits_option.md#readme)
+* se trouvant dans une boucle sur la variable [credit_card_method](credit_card_method.md#readme)
 
 ```
-{credit_card_method.credits_option.VALUE}
+<!-- BEGIN credit_card_method -->
+    <!-- BEGIN credits_option -->
+        {credit_card_method.credits_option.VALUE}
+    <!-- END credits_option -->
+<!-- END credit_card_method -->
+```
 
 ## Utilisations dans les templates
 

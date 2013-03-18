@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [_cell](_cell.md#readme)
+* se trouvant dans une boucle sur la variable [_calendar_box](_calendar_box.md#readme)
 
 ```
-{_calendar_box._cell.L_DAY}
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _cell -->
+        {_calendar_box._cell.L_DAY}
+    <!-- END _cell -->
+<!-- END _calendar_box -->
+```
 
 ## Utilisations dans les templates
 

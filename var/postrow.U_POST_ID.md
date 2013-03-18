@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [postrow](postrow.md#readme)
 
 ```
-{postrow.U_POST_ID}
+<!-- BEGIN postrow -->
+    {postrow.U_POST_ID}
+<!-- END postrow -->
+```
 
 ## Utilisations dans les templates
 

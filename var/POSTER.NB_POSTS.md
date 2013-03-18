@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [POSTER](POSTER.md#readme)
 
 ```
-{POSTER.NB_POSTS}
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+<!-- END POSTER -->
+```
 
 ## Utilisations dans les templates
 

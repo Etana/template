@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [li_row](li_row.md#readme)
 
 ```
-{li_row.KEYWORDS}
+<!-- BEGIN li_row -->
+    {li_row.KEYWORDS}
+<!-- END li_row -->
+```
 
 ## Utilisations dans les templates
 

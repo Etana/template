@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [footer_link](footer_link.md#readme)
+* se trouvant dans une boucle sur la variable [switch_footer_links](switch_footer_links.md#readme)
 
 ```
-{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
+<!-- BEGIN switch_footer_links -->
+    <!-- BEGIN footer_link -->
+        {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
+    <!-- END footer_link -->
+<!-- END switch_footer_links -->
+```
 
 ## Utilisations dans les templates
 

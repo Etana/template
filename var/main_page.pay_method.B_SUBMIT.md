@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [pay_method](pay_method.md#readme)
+* se trouvant dans une boucle sur la variable [main_page](main_page.md#readme)
 
 ```
-{main_page.pay_method.B_SUBMIT}
+<!-- BEGIN main_page -->
+    <!-- BEGIN pay_method -->
+        {main_page.pay_method.B_SUBMIT}
+    <!-- END pay_method -->
+<!-- END main_page -->
+```
 
 ## Utilisations dans les templates
 

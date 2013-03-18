@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_view_stats](switch_view_stats.md#readme)
 
 ```
-{switch_view_stats.L_STATS}
+<!-- BEGIN switch_view_stats -->
+    {switch_view_stats.L_STATS}
+<!-- END switch_view_stats -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [personal_sort_block](personal_sort_block.md#readme)
+* se trouvant dans une boucle sur la variable [build_categories_block](build_categories_block.md#readme)
 
 ```
-{build_categories_block.personal_sort_block.L_SORT}
+<!-- BEGIN build_categories_block -->
+    <!-- BEGIN personal_sort_block -->
+        {build_categories_block.personal_sort_block.L_SORT}
+    <!-- END personal_sort_block -->
+<!-- END build_categories_block -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [inc](inc.md#readme)
+* se trouvant dans une boucle sur la variable [forumrow](forumrow.md#readme)
+* se trouvant dans une boucle sur la variable [catrow](catrow.md#readme)
 
 ```
-{catrow.forumrow.inc.INC_CLASS}
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        <!-- BEGIN inc -->
+            {catrow.forumrow.inc.INC_CLASS}
+        <!-- END inc -->
+    <!-- END forumrow -->
+<!-- END catrow -->
+```
 
 ## Utilisations dans les templates
 

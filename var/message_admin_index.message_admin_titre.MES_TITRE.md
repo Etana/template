@@ -5,10 +5,16 @@ Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralité
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [message_admin_titre](message_admin_titre.md#readme)
+* se trouvant dans une boucle sur la variable [message_admin_index](message_admin_index.md#readme)
 
 ```
-{message_admin_index.message_admin_titre.MES_TITRE}
+<!-- BEGIN message_admin_index -->
+    <!-- BEGIN message_admin_titre -->
+        {message_admin_index.message_admin_titre.MES_TITRE}
+    <!-- END message_admin_titre -->
+<!-- END message_admin_index -->
+```
 
 ## Utilisations dans les templates
 

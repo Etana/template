@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [recent_stats](recent_stats.md#readme)
+* se trouvant dans une boucle sur la variable [list_pics](list_pics.md#readme)
+* se trouvant dans une boucle sur la variable [list_pics_block](list_pics_block.md#readme)
 
 ```
-{list_pics_block.list_pics.recent_stats.H_STATS}
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN list_pics -->
+        <!-- BEGIN recent_stats -->
+            {list_pics_block.list_pics.recent_stats.H_STATS}
+        <!-- END recent_stats -->
+    <!-- END list_pics -->
+<!-- END list_pics_block -->
+```
 
 ## Utilisations dans les templates
 

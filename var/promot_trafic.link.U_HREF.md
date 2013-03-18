@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [link](link.md#readme)
+* se trouvant dans une boucle sur la variable [promot_trafic](promot_trafic.md#readme)
 
 ```
-{promot_trafic.link.U_HREF}
+<!-- BEGIN promot_trafic -->
+    <!-- BEGIN link -->
+        {promot_trafic.link.U_HREF}
+    <!-- END link -->
+<!-- END promot_trafic -->
+```
 
 ## Utilisations dans les templates
 

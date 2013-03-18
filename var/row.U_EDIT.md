@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [row](row.md#readme)
 
 ```
-{row.U_EDIT}
+<!-- BEGIN row -->
+    {row.U_EDIT}
+<!-- END row -->
+```
 
 ## Utilisations dans les templates
 

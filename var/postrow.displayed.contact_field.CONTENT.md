@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [contact_field](contact_field.md#readme)
+* se trouvant dans une boucle sur la variable [displayed](displayed.md#readme)
+* se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
 
 ```
-{postrow.displayed.contact_field.CONTENT}
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN contact_field -->
+            {postrow.displayed.contact_field.CONTENT}
+        <!-- END contact_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
+```
 
 ## Utilisations dans les templates
 

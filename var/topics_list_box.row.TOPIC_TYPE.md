@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [row](row.md#readme)
+* se trouvant dans une boucle sur la variable [topics_list_box](topics_list_box.md#readme)
 
 ```
-{topics_list_box.row.TOPIC_TYPE}
+<!-- BEGIN topics_list_box -->
+    <!-- BEGIN row -->
+        {topics_list_box.row.TOPIC_TYPE}
+    <!-- END row -->
+<!-- END topics_list_box -->
+```
 
 ## Utilisations dans les templates
 

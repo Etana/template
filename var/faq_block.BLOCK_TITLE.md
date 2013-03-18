@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [faq_block](faq_block.md#readme)
 
 ```
-{faq_block.BLOCK_TITLE}
+<!-- BEGIN faq_block -->
+    {faq_block.BLOCK_TITLE}
+<!-- END faq_block -->
+```
 
 ## Utilisations dans les templates
 

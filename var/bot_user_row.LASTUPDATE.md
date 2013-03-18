@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [bot_user_row](bot_user_row.md#readme)
 
 ```
-{bot_user_row.LASTUPDATE}
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.LASTUPDATE}
+<!-- END bot_user_row -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [cell](cell.md#readme)
+* se trouvant dans une boucle sur la variable [row](row.md#readme)
 
 ```
-{row.cell.DAY}
+<!-- BEGIN row -->
+    <!-- BEGIN cell -->
+        {row.cell.DAY}
+    <!-- END cell -->
+<!-- END row -->
+```
 
 ## Utilisations dans les templates
 

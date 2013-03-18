@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [rpg_fields_left](rpg_fields_left.md#readme)
 
 ```
-{rpg_fields_left.F_VALUE_NEW}
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_VALUE_NEW}
+<!-- END rpg_fields_left -->
+```
 
 ## Utilisations dans les templates
 

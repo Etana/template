@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_specials_fonts](switch_specials_fonts.md#readme)
 
 ```
-{switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG}
+<!-- BEGIN switch_specials_fonts -->
+    {switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG}
+<!-- END switch_specials_fonts -->
+```
 
 ## Utilisations dans les templates
 

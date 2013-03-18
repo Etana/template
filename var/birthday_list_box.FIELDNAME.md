@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [birthday_list_box](birthday_list_box.md#readme)
 
 ```
-{birthday_list_box.FIELDNAME}
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FIELDNAME}
+<!-- END birthday_list_box -->
+```
 
 ## Utilisations dans les templates
 

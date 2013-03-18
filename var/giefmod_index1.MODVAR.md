@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [giefmod_index1](giefmod_index1.md#readme)
 
 ```
-{giefmod_index1.MODVAR}
+<!-- BEGIN giefmod_index1 -->
+    {giefmod_index1.MODVAR}
+<!-- END giefmod_index1 -->
+```
 
 ## Utilisations dans les templates
 

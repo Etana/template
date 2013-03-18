@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [reg_user_row](reg_user_row.md#readme)
 
 ```
-{reg_user_row.FORUM_LOCATION}
+<!-- BEGIN reg_user_row -->
+    {reg_user_row.FORUM_LOCATION}
+<!-- END reg_user_row -->
+```
 
 ## Utilisations dans les templates
 

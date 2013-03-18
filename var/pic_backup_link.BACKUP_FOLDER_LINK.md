@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [pic_backup_link](pic_backup_link.md#readme)
 
 ```
-{pic_backup_link.BACKUP_FOLDER_LINK}
+<!-- BEGIN pic_backup_link -->
+    {pic_backup_link.BACKUP_FOLDER_LINK}
+<!-- END pic_backup_link -->
+```
 
 ## Utilisations dans les templates
 

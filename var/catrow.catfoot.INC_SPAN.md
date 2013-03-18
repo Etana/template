@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [catfoot](catfoot.md#readme)
+* se trouvant dans une boucle sur la variable [catrow](catrow.md#readme)
 
 ```
-{catrow.catfoot.INC_SPAN}
+<!-- BEGIN catrow -->
+    <!-- BEGIN catfoot -->
+        {catrow.catfoot.INC_SPAN}
+    <!-- END catfoot -->
+<!-- END catrow -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_moderators_links](switch_moderators_links.md#readme)
+* se trouvant dans une boucle sur la variable [forumrow](forumrow.md#readme)
+* se trouvant dans une boucle sur la variable [catrow](catrow.md#readme)
 
 ```
-{catrow.forumrow.switch_moderators_links.L_MODERATOR}
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        <!-- BEGIN switch_moderators_links -->
+            {catrow.forumrow.switch_moderators_links.L_MODERATOR}
+        <!-- END switch_moderators_links -->
+    <!-- END forumrow -->
+<!-- END catrow -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [pending_members_row](pending_members_row.md#readme)
 
 ```
-{pending_members_row.ROW_CLASS}
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+<!-- END pending_members_row -->
+```
 
 ## Utilisations dans les templates
 

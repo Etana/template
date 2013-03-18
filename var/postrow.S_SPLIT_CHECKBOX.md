@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [postrow](postrow.md#readme)
 
 ```
-{postrow.S_SPLIT_CHECKBOX}
+<!-- BEGIN postrow -->
+    {postrow.S_SPLIT_CHECKBOX}
+<!-- END postrow -->
+```
 
 ## Utilisations dans les templates
 

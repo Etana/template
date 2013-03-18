@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [hidden](hidden.md#readme)
+* se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
 
 ```
-{postrow.hidden.ROW_CLASS}
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        {postrow.hidden.ROW_CLASS}
+    <!-- END hidden -->
+<!-- END postrow -->
+```
 
 ## Utilisations dans les templates
 

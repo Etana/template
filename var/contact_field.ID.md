@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [contact_field](contact_field.md#readme)
 
 ```
-{contact_field.ID}
+<!-- BEGIN contact_field -->
+    {contact_field.ID}
+<!-- END contact_field -->
+```
 
 ## Utilisations dans les templates
 

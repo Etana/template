@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [userrow](userrow.md#readme)
 
 ```
-{userrow.L_SEARCH}
+<!-- BEGIN userrow -->
+    {userrow.L_SEARCH}
+<!-- END userrow -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [header_cell](header_cell.md#readme)
 
 ```
-{header_cell.L_DAY}
+<!-- BEGIN header_cell -->
+    {header_cell.L_DAY}
+<!-- END header_cell -->
+```
 
 ## Utilisations dans les templates
 

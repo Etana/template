@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [rpg_fields](rpg_fields.md#readme)
 
 ```
-{rpg_fields.F_NAME}
+<!-- BEGIN rpg_fields -->
+    {rpg_fields.F_NAME}
+<!-- END rpg_fields -->
+```
 
 ## Utilisations dans les templates
 

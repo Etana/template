@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [cat_personal_footer](cat_personal_footer.md#readme)
+* se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
 
 ```
-{navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES}
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
+```
 
 ## Utilisations dans les templates
 

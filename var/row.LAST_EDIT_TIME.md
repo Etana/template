@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [row](row.md#readme)
 
 ```
-{row.LAST_EDIT_TIME}
+<!-- BEGIN row -->
+    {row.LAST_EDIT_TIME}
+<!-- END row -->
+```
 
 ## Utilisations dans les templates
 

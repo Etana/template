@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [edit_reason](edit_reason.md#readme)
 
 ```
-{edit_reason.EDIT_REASON}
+<!-- BEGIN edit_reason -->
+    {edit_reason.EDIT_REASON}
+<!-- END edit_reason -->
+```
 
 ## Utilisations dans les templates
 

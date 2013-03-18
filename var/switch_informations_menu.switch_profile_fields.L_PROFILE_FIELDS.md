@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_profile_fields](switch_profile_fields.md#readme)
+* se trouvant dans une boucle sur la variable [switch_informations_menu](switch_informations_menu.md#readme)
 
 ```
-{switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS}
+<!-- BEGIN switch_informations_menu -->
+    <!-- BEGIN switch_profile_fields -->
+        {switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS}
+    <!-- END switch_profile_fields -->
+<!-- END switch_informations_menu -->
+```
 
 ## Utilisations dans les templates
 

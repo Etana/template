@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [no_pics](no_pics.md#readme)
 
 ```
-{no_pics.L_NO_PICS}
+<!-- BEGIN no_pics -->
+    {no_pics.L_NO_PICS}
+<!-- END no_pics -->
+```
 
 ## Utilisations dans les templates
 

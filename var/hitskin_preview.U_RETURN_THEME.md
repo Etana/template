@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [hitskin_preview](hitskin_preview.md#readme)
 
 ```
-{hitskin_preview.U_RETURN_THEME}
+<!-- BEGIN hitskin_preview -->
+    {hitskin_preview.U_RETURN_THEME}
+<!-- END hitskin_preview -->
+```
 
 ## Utilisations dans les templates
 

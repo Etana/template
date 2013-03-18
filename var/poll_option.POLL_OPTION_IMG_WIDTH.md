@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [poll_option](poll_option.md#readme)
 
 ```
-{poll_option.POLL_OPTION_IMG_WIDTH}
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_OPTION_IMG_WIDTH}
+<!-- END poll_option -->
+```
 
 ## Utilisations dans les templates
 

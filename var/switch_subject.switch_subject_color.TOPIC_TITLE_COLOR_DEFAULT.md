@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_subject_color](switch_subject_color.md#readme)
+* se trouvant dans une boucle sur la variable [switch_subject](switch_subject.md#readme)
 
 ```
-{switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT}
+<!-- BEGIN switch_subject -->
+    <!-- BEGIN switch_subject_color -->
+        {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT}
+    <!-- END switch_subject_color -->
+<!-- END switch_subject -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [topicrow](topicrow.md#readme)
 
 ```
-{topicrow.TOPIC_FOLDER_IMG}
+<!-- BEGIN topicrow -->
+    {topicrow.TOPIC_FOLDER_IMG}
+<!-- END topicrow -->
+```
 
 ## Utilisations dans les templates
 

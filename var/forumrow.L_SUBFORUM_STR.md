@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [forumrow](forumrow.md#readme)
 
 ```
-{forumrow.L_SUBFORUM_STR}
+<!-- BEGIN forumrow -->
+    {forumrow.L_SUBFORUM_STR}
+<!-- END forumrow -->
+```
 
 ## Utilisations dans les templates
 

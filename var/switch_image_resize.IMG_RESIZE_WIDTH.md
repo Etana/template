@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_image_resize](switch_image_resize.md#readme)
 
 ```
-{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
+```
 
 ## Utilisations dans les templates
 

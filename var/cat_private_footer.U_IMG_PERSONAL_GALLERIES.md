@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [cat_private_footer](cat_private_footer.md#readme)
 
 ```
-{cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+<!-- BEGIN cat_private_footer -->
+    {cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+<!-- END cat_private_footer -->
+```
 
 ## Utilisations dans les templates
 

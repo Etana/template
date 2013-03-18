@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_ticker](switch_ticker.md#readme)
 
 ```
-{switch_ticker.STOP_TIME}
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.STOP_TIME}
+<!-- END switch_ticker -->
+```
 
 ## Utilisations dans les templates
 

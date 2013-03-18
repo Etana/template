@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [searchresults](searchresults.md#readme)
 
 ```
-{searchresults.U_VIEW_FORUM}
+<!-- BEGIN searchresults -->
+    {searchresults.U_VIEW_FORUM}
+<!-- END searchresults -->
+```
 
 ## Utilisations dans les templates
 

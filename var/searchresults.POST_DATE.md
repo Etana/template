@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [searchresults](searchresults.md#readme)
 
 ```
-{searchresults.POST_DATE}
+<!-- BEGIN searchresults -->
+    {searchresults.POST_DATE}
+<!-- END searchresults -->
+```
 
 ## Utilisations dans les templates
 

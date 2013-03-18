@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [stat_link](stat_link.md#readme)
+* se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
 
 ```
-{navlinks.stat_link.U_TOP10_LINK_NEW}
+<!-- BEGIN navlinks -->
+    <!-- BEGIN stat_link -->
+        {navlinks.stat_link.U_TOP10_LINK_NEW}
+    <!-- END stat_link -->
+<!-- END navlinks -->
+```
 
 ## Utilisations dans les templates
 

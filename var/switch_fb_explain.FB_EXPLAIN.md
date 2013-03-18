@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_fb_explain](switch_fb_explain.md#readme)
 
 ```
-{switch_fb_explain.FB_EXPLAIN}
+<!-- BEGIN switch_fb_explain -->
+    {switch_fb_explain.FB_EXPLAIN}
+<!-- END switch_fb_explain -->
+```
 
 ## Utilisations dans les templates
 

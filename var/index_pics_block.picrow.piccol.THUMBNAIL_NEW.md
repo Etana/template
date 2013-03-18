@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [piccol](piccol.md#readme)
+* se trouvant dans une boucle sur la variable [picrow](picrow.md#readme)
+* se trouvant dans une boucle sur la variable [index_pics_block](index_pics_block.md#readme)
 
 ```
-{index_pics_block.picrow.piccol.THUMBNAIL_NEW}
+<!-- BEGIN index_pics_block -->
+    <!-- BEGIN picrow -->
+        <!-- BEGIN piccol -->
+            {index_pics_block.picrow.piccol.THUMBNAIL_NEW}
+        <!-- END piccol -->
+    <!-- END picrow -->
+<!-- END index_pics_block -->
+```
 
 ## Utilisations dans les templates
 

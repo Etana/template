@@ -3,10 +3,22 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_vote](switch_vote.md#readme)
+* se trouvant dans une boucle sur la variable [switch_vote_active](switch_vote_active.md#readme)
+* se trouvant dans une boucle sur la variable [displayed](displayed.md#readme)
+* se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
 
 ```
-{postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS}
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_vote -->
+                {postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS}
+            <!-- END switch_vote -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
+```
 
 ## Utilisations dans les templates
 

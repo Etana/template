@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [row](row.md#readme)
+* se trouvant dans une boucle sur la variable [birthday_list_box](birthday_list_box.md#readme)
 
 ```
-{birthday_list_box.row.SITEWEB}
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        {birthday_list_box.row.SITEWEB}
+    <!-- END row -->
+<!-- END birthday_list_box -->
+```
 
 ## Utilisations dans les templates
 

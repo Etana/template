@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [_calendar_box](_calendar_box.md#readme)
 
 ```
-{_calendar_box.S_ACTION}
+<!-- BEGIN _calendar_box -->
+    {_calendar_box.S_ACTION}
+<!-- END _calendar_box -->
+```
 
 ## Utilisations dans les templates
 

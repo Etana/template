@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [memberrow](memberrow.md#readme)
 
 ```
-{memberrow.U_VIEWPROFILE}
+<!-- BEGIN memberrow -->
+    {memberrow.U_VIEWPROFILE}
+<!-- END memberrow -->
+```
 
 ## Utilisations dans les templates
 

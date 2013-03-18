@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [cat_public_footer](cat_public_footer.md#readme)
+* se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
 
 ```
-{navlinks.cat_public_footer.L_PUBLIC_CATEGORIES}
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_public_footer -->
+        {navlinks.cat_public_footer.L_PUBLIC_CATEGORIES}
+    <!-- END cat_public_footer -->
+<!-- END navlinks -->
+```
 
 ## Utilisations dans les templates
 

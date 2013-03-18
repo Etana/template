@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [listrow](listrow.md#readme)
 
 ```
-{listrow.PRIVMSG_ICON}
+<!-- BEGIN listrow -->
+    {listrow.PRIVMSG_ICON}
+<!-- END listrow -->
+```
 
 ## Utilisations dans les templates
 

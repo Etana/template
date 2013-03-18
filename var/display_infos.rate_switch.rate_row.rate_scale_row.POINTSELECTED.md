@@ -3,10 +3,22 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [rate_scale_row](rate_scale_row.md#readme)
+* se trouvant dans une boucle sur la variable [rate_row](rate_row.md#readme)
+* se trouvant dans une boucle sur la variable [rate_switch](rate_switch.md#readme)
+* se trouvant dans une boucle sur la variable [display_infos](display_infos.md#readme)
 
 ```
-{display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED}
+<!-- BEGIN display_infos -->
+    <!-- BEGIN rate_switch -->
+        <!-- BEGIN rate_row -->
+            <!-- BEGIN rate_scale_row -->
+                {display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED}
+            <!-- END rate_scale_row -->
+        <!-- END rate_row -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,13 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [stat_link](stat_link.md#readme)
 
 ```
-{stat_link.U_TOP10_LINK}
+<!-- BEGIN stat_link -->
+    {stat_link.U_TOP10_LINK}
+<!-- END stat_link -->
+```
 
 ## Utilisations dans les templates
 

@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_chatbox_popup](switch_chatbox_popup.md#readme)
+* se trouvant dans une boucle sur la variable [switch_chatbox_activate](switch_chatbox_activate.md#readme)
+* se trouvant dans une boucle sur la variable [disable_viewonline](disable_viewonline.md#readme)
 
 ```
-{disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX}
+<!-- BEGIN disable_viewonline -->
+    <!-- BEGIN switch_chatbox_activate -->
+        <!-- BEGIN switch_chatbox_popup -->
+            {disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX}
+        <!-- END switch_chatbox_popup -->
+    <!-- END switch_chatbox_activate -->
+<!-- END disable_viewonline -->
+```
 
 ## Utilisations dans les templates
 

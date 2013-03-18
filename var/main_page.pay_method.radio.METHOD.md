@@ -3,10 +3,19 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [radio](radio.md#readme)
+* se trouvant dans une boucle sur la variable [pay_method](pay_method.md#readme)
+* se trouvant dans une boucle sur la variable [main_page](main_page.md#readme)
 
 ```
-{main_page.pay_method.radio.METHOD}
+<!-- BEGIN main_page -->
+    <!-- BEGIN pay_method -->
+        <!-- BEGIN radio -->
+            {main_page.pay_method.radio.METHOD}
+        <!-- END radio -->
+    <!-- END pay_method -->
+<!-- END main_page -->
+```
 
 ## Utilisations dans les templates
 

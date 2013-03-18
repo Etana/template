@@ -3,10 +3,16 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_profile_advanced](switch_profile_advanced.md#readme)
+* se trouvant dans une boucle sur la variable [switch_preferences_menu](switch_preferences_menu.md#readme)
 
 ```
-{switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS}
+<!-- BEGIN switch_preferences_menu -->
+    <!-- BEGIN switch_profile_advanced -->
+        {switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS}
+    <!-- END switch_profile_advanced -->
+<!-- END switch_preferences_menu -->
+```
 
 ## Utilisations dans les templates
 

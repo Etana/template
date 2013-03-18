@@ -3,10 +3,22 @@
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur la variable :
-* 
+* [switch_dl_att](switch_dl_att.md#readme)
+* se trouvant dans une boucle sur la variable [switch_post_attachments](switch_post_attachments.md#readme)
+* se trouvant dans une boucle sur la variable [switch_attachments](switch_attachments.md#readme)
+* se trouvant dans une boucle sur la variable [post_row](post_row.md#readme)
 
 ```
-{post_row.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT}
+<!-- BEGIN post_row -->
+    <!-- BEGIN switch_attachments -->
+        <!-- BEGIN switch_post_attachments -->
+            <!-- BEGIN switch_dl_att -->
+                {post_row.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT}
+            <!-- END switch_dl_att -->
+        <!-- END switch_post_attachments -->
+    <!-- END switch_attachments -->
+<!-- END post_row -->
+```
 
 ## Utilisations dans les templates
 
