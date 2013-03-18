@@ -4,11 +4,11 @@
 
 ## Variables utilisées
 
-### [L_CLOSE_WINDOW](../L_CLOSE_WINDOW.md)
+### [L_CLOSE_WINDOW](../L_CLOSE_WINDOW.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/L_CLOSE_WINDOW))
 * [Variable &agrave; la ligne 18](../../subsilver/report_popup_body.tpl#L18)
 
-### [L_MESSAGE](../L_MESSAGE.md)
+### [L_MESSAGE](../L_MESSAGE.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/L_MESSAGE))
 * [Variable &agrave; la ligne 16](../../subsilver/report_popup_body.tpl#L16)
 
-### [U_REPORT_LIST](../U_REPORT_LIST.md)
+### [U_REPORT_LIST](../U_REPORT_LIST.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/U_REPORT_LIST))
 * [Variable &agrave; la ligne 5](../../subsilver/report_popup_body.tpl#L5)

@@ -1,4 +1,4 @@
-# <a name="variables"></a>Variables de template avec description
+# Variables de template avec description
 * [AUTO_DST](var/AUTO_DST.md#readme)
 * [GENERATED_NAV_BAR](var/GENERATED_NAV_BAR.md#readme)
 * [JAVASCRIPT](var/JAVASCRIPT.md#readme)

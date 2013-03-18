@@ -1,4 +1,4 @@
-# <a name="variables"></a>Variables de template sans description
+# Variables de template sans description
 * [ACTION](var/ACTION.md#readme)
 * [ADDTHIS_LANG](var/ADDTHIS_LANG.md#readme)
 * [ADD_FIELD](var/ADD_FIELD.md#readme)

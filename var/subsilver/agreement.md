@@ -4,37 +4,37 @@
 
 ## Variables utilisées
 
-### [AGREE_OVER_13](../AGREE_OVER_13.md)
+### [AGREE_OVER_13](../AGREE_OVER_13.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/AGREE_OVER_13))
 * [Variable &agrave; la ligne 32](../../subsilver/agreement.tpl#L32)
 
-### [AGREEMENT](../AGREEMENT.md)
+### [AGREEMENT](../AGREEMENT.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/AGREEMENT))
 * [Variable &agrave; la ligne 28](../../subsilver/agreement.tpl#L28)
 
-### [DO_NOT_AGREE](../DO_NOT_AGREE.md)
+### [DO_NOT_AGREE](../DO_NOT_AGREE.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/DO_NOT_AGREE))
 * [Variable &agrave; la ligne 34](../../subsilver/agreement.tpl#L34)
 
-### [L_INDEX](../L_INDEX.md)
+### [L_INDEX](../L_INDEX.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/agreement.tpl#L3)
 
-### [MY_RULES](../MY_RULES.md)
+### [MY_RULES](../MY_RULES.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/MY_RULES))
 * [Variable &agrave; la ligne 28](../../subsilver/agreement.tpl#L28)
 
-### [REGISTRATION](../REGISTRATION.md)
+### [REGISTRATION](../REGISTRATION.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/REGISTRATION))
 * [Variable &agrave; la ligne 8](../../subsilver/agreement.tpl#L8)
 
-### [SITENAME](../SITENAME.md)
+### [SITENAME](../SITENAME.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/SITENAME))
 * [Variable &agrave; la ligne 8](../../subsilver/agreement.tpl#L8)
 
-### [switch_fb_explain](../switch_fb_explain.md)
+### [switch_fb_explain](../switch_fb_explain.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/switch_fb_explain))
 * [Début de boucle &agrave; la ligne 10](../../subsilver/agreement.tpl#L10)
 * [Fin de boucle &agrave; la ligne 21](../../subsilver/agreement.tpl#L21)
 
-### [switch_fb_explain.FB_EXPLAIN](../switch_fb_explain.FB_EXPLAIN.md)
+### [switch_fb_explain.FB_EXPLAIN](../switch_fb_explain.FB_EXPLAIN.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN))
 * [Variable &agrave; la ligne 16](../../subsilver/agreement.tpl#L16)
 
-### [U_AGREE_OVER13](../U_AGREE_OVER13.md)
+### [U_AGREE_OVER13](../U_AGREE_OVER13.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/U_AGREE_OVER13))
 * [Variable &agrave; la ligne 32](../../subsilver/agreement.tpl#L32)
 
-### [U_INDEX](../U_INDEX.md)
+### [U_INDEX](../U_INDEX.md#readme) ([pas de description description](https://fa-tvars.appspot.com/var/U_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/agreement.tpl#L3)
 * [Variable &agrave; la ligne 34](../../subsilver/agreement.tpl#L34)
