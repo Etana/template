@@ -3,7 +3,7 @@
 [Code de la template](../../subsilver/agreement.tpl)
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/agreement)
-Nom du site spécifié dans `PA > Général > Forum | Configuration > Nom du site`.
+kaboum kaboum
 
 ## Variables utilisées
 
