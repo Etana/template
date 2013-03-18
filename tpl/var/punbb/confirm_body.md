@@ -7,16 +7,4 @@
 
 ## Variables
 
-* [__{L_NO}__](https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_NO)) : [ligne 13](../tpl/src/punbb/confirm_body.tpl#L13)
-
-* [__{L_YES}__](https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_YES)) : [ligne 12](../tpl/src/punbb/confirm_body.tpl#L12)
-
-* [__{MESSAGE_TEXT}__](https://github.com/Etana/template.list/blob/master/var/MESSAGE_TEXT.md#readme) ([V](https://fa-tvars.appspot.com/var/MESSAGE_TEXT)) : [ligne 5](../tpl/src/punbb/confirm_body.tpl#L5)
-
-* [__{MESSAGE_TITLE}__](https://github.com/Etana/template.list/blob/master/var/MESSAGE_TITLE.md#readme) ([V](https://fa-tvars.appspot.com/var/MESSAGE_TITLE)) : [ligne 2](../tpl/src/punbb/confirm_body.tpl#L2)
-
-* [__{OPTIONAL_BAN_NEW}__](https://github.com/Etana/template.list/blob/master/var/OPTIONAL_BAN_NEW.md#readme) ([XXX](https://fa-tvars.appspot.com/var/OPTIONAL_BAN_NEW)) : [ligne 6](../tpl/src/punbb/confirm_body.tpl#L6)
-
-* [__{S_CONFIRM_ACTION}__](https://github.com/Etana/template.list/blob/master/var/S_CONFIRM_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION)) : [ligne 4](../tpl/src/punbb/confirm_body.tpl#L4)
-
-* [__{S_HIDDEN_FIELDS}__](https://github.com/Etana/template.list/blob/master/var/S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS)) : [ligne 11](../tpl/src/punbb/confirm_body.tpl#L11)
+<table><tr><th colspan=1>Nom</th><th>Lignes</th></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme">{L_NO}</a> ([XXX](https://fa-tvars.appspot.com/var/L_NO))</td><td>[13](../tpl/src/punbb/confirm_body.tpl#L13)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme">{L_YES}</a> ([XXX](https://fa-tvars.appspot.com/var/L_YES))</td><td>[12](../tpl/src/punbb/confirm_body.tpl#L12)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/MESSAGE_TEXT.md#readme">{MESSAGE_TEXT}</a> ([V](https://fa-tvars.appspot.com/var/MESSAGE_TEXT))</td><td>[5](../tpl/src/punbb/confirm_body.tpl#L5)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/MESSAGE_TITLE.md#readme">{MESSAGE_TITLE}</a> ([V](https://fa-tvars.appspot.com/var/MESSAGE_TITLE))</td><td>[2](../tpl/src/punbb/confirm_body.tpl#L2)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/OPTIONAL_BAN_NEW.md#readme">{OPTIONAL_BAN_NEW}</a> ([XXX](https://fa-tvars.appspot.com/var/OPTIONAL_BAN_NEW))</td><td>[6](../tpl/src/punbb/confirm_body.tpl#L6)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/S_CONFIRM_ACTION.md#readme">{S_CONFIRM_ACTION}</a> ([XXX](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION))</td><td>[4](../tpl/src/punbb/confirm_body.tpl#L4)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/S_HIDDEN_FIELDS.md#readme">{S_HIDDEN_FIELDS}</a> ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))</td><td>[11](../tpl/src/punbb/confirm_body.tpl#L11)</td></tr></table>

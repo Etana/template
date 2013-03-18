@@ -7,20 +7,4 @@
 
 ## Variables
 
-* [__{JS_DIR}__](https://github.com/Etana/template.list/blob/master/var/JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR)) : [ligne 11](../tpl/src/punbb/simple_header.tpl#L11)
-
-* [__{L_LANG}__](https://github.com/Etana/template.list/blob/master/var/L_LANG.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LANG)) : [ligne 11](../tpl/src/punbb/simple_header.tpl#L11)
-
-* [__{L_LANG_HTML}__](https://github.com/Etana/template.list/blob/master/var/L_LANG_HTML.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LANG_HTML)) : [ligne 2](../tpl/src/punbb/simple_header.tpl#L2), [ligne 2](../tpl/src/punbb/simple_header.tpl#L2)
-
-* [__{META}__](https://github.com/Etana/template.list/blob/master/var/META.md#readme) ([V](https://fa-tvars.appspot.com/var/META)) : [ligne 8](../tpl/src/punbb/simple_header.tpl#L8)
-
-* [__{PAGE_TITLE}__](https://github.com/Etana/template.list/blob/master/var/PAGE_TITLE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/PAGE_TITLE)) : [ligne 5](../tpl/src/punbb/simple_header.tpl#L5)
-
-* [__{S_CONTENT_DIRECTION}__](https://github.com/Etana/template.list/blob/master/var/S_CONTENT_DIRECTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION)) : [ligne 2](../tpl/src/punbb/simple_header.tpl#L2)
-
-* [__{S_CONTENT_ENCODING}__](https://github.com/Etana/template.list/blob/master/var/S_CONTENT_ENCODING.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING)) : [ligne 4](../tpl/src/punbb/simple_header.tpl#L4)
-
-* [__{SITENAME}__](https://github.com/Etana/template.list/blob/master/var/SITENAME.md#readme) ([V](https://fa-tvars.appspot.com/var/SITENAME)) : [ligne 5](../tpl/src/punbb/simple_header.tpl#L5)
-
-* [__{T_HEAD_STYLESHEET}__](https://github.com/Etana/template.list/blob/master/var/T_HEAD_STYLESHEET.md#readme) ([XXX](https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET)) : [ligne 9](../tpl/src/punbb/simple_header.tpl#L9)
+<table><tr><th colspan=1>Nom</th><th>Lignes</th></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/JS_DIR.md#readme">{JS_DIR}</a> ([V](https://fa-tvars.appspot.com/var/JS_DIR))</td><td>[11](../tpl/src/punbb/simple_header.tpl#L11)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/L_LANG.md#readme">{L_LANG}</a> ([V](https://fa-tvars.appspot.com/var/L_LANG))</td><td>[11](../tpl/src/punbb/simple_header.tpl#L11)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/L_LANG_HTML.md#readme">{L_LANG_HTML}</a> ([V](https://fa-tvars.appspot.com/var/L_LANG_HTML))</td><td>[2](../tpl/src/punbb/simple_header.tpl#L2), [2](../tpl/src/punbb/simple_header.tpl#L2)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/META.md#readme">{META}</a> ([V](https://fa-tvars.appspot.com/var/META))</td><td>[8](../tpl/src/punbb/simple_header.tpl#L8)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/PAGE_TITLE.md#readme">{PAGE_TITLE}</a> ([XXX](https://fa-tvars.appspot.com/var/PAGE_TITLE))</td><td>[5](../tpl/src/punbb/simple_header.tpl#L5)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/S_CONTENT_DIRECTION.md#readme">{S_CONTENT_DIRECTION}</a> ([XXX](https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION))</td><td>[2](../tpl/src/punbb/simple_header.tpl#L2)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/S_CONTENT_ENCODING.md#readme">{S_CONTENT_ENCODING}</a> ([XXX](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING))</td><td>[4](../tpl/src/punbb/simple_header.tpl#L4)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/SITENAME.md#readme">{SITENAME}</a> ([V](https://fa-tvars.appspot.com/var/SITENAME))</td><td>[5](../tpl/src/punbb/simple_header.tpl#L5)</td></tr><tr><td colspan=1><a href="https://github.com/Etana/template.list/blob/master/var/T_HEAD_STYLESHEET.md#readme">{T_HEAD_STYLESHEET}</a> ([XXX](https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET))</td><td>[9](../tpl/src/punbb/simple_header.tpl#L9)</td></tr></table>
