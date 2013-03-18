@@ -1,6 +1,13 @@
 # Variable _calendar_box._row._cell.switch_filled.EVENT_DATE
 [Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.EVENT_DATE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{_calendar_box._row._cell.switch_filled.EVENT_DATE}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

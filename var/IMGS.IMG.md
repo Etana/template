@@ -1,6 +1,13 @@
 # Variable IMGS.IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{IMGS.IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

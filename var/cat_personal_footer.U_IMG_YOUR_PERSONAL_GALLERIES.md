@@ -1,6 +1,13 @@
 # Variable cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES
 [Ajouter une description](https://fa-tvars.appspot.com/var/cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

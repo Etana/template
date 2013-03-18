@@ -1,6 +1,13 @@
 # Variable picrow.POSTER
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.POSTER)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.POSTER}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

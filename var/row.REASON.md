@@ -1,6 +1,13 @@
 # Variable row.REASON
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.REASON)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{row.REASON}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

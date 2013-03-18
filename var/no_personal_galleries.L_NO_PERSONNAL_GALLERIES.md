@@ -1,6 +1,13 @@
 # Variable no_personal_galleries.L_NO_PERSONNAL_GALLERIES
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_personal_galleries.L_NO_PERSONNAL_GALLERIES)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

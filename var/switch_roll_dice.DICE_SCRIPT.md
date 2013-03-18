@@ -1,6 +1,13 @@
 # Variable switch_roll_dice.DICE_SCRIPT
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice.DICE_SCRIPT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_roll_dice.DICE_SCRIPT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

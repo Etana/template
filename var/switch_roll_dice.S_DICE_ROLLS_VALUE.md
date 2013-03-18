@@ -1,6 +1,13 @@
 # Variable switch_roll_dice.S_DICE_ROLLS_VALUE
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice.S_DICE_ROLLS_VALUE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_roll_dice.S_DICE_ROLLS_VALUE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

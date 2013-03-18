@@ -1,6 +1,13 @@
 # Variable giefmod_index2.MODVAR
 [Ajouter une description](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{giefmod_index2.MODVAR}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

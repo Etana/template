@@ -1,6 +1,13 @@
 # Variable postrow.displayed.POSTER_RPG
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_RPG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.POSTER_RPG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

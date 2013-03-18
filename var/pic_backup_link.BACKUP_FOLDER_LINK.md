@@ -1,6 +1,13 @@
 # Variable pic_backup_link.BACKUP_FOLDER_LINK
 [Ajouter une description](https://fa-tvars.appspot.com/var/pic_backup_link.BACKUP_FOLDER_LINK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{pic_backup_link.BACKUP_FOLDER_LINK}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

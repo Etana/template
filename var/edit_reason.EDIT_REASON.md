@@ -1,6 +1,13 @@
 # Variable edit_reason.EDIT_REASON
 [Ajouter une description](https://fa-tvars.appspot.com/var/edit_reason.EDIT_REASON)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{edit_reason.EDIT_REASON}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

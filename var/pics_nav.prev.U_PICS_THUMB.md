@@ -1,6 +1,13 @@
 # Variable pics_nav.prev.U_PICS_THUMB
 [Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav.prev.U_PICS_THUMB)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{pics_nav.prev.U_PICS_THUMB}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

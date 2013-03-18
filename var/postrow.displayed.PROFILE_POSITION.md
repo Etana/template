@@ -1,6 +1,13 @@
 # Variable postrow.displayed.PROFILE_POSITION
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.PROFILE_POSITION)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.PROFILE_POSITION}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

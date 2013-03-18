@@ -1,6 +1,13 @@
 # Variable row.POST
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.POST)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{row.POST}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable index_pics_block.picrow.piccol.L_PICS
 [Ajouter une description](https://fa-tvars.appspot.com/var/index_pics_block.picrow.piccol.L_PICS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{index_pics_block.picrow.piccol.L_PICS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

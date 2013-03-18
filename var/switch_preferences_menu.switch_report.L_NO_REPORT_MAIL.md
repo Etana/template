@@ -1,6 +1,13 @@
 # Variable switch_preferences_menu.switch_report.L_NO_REPORT_MAIL
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.L_NO_REPORT_MAIL)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_preferences_menu.switch_report.L_NO_REPORT_MAIL}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

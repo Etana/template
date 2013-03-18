@@ -1,6 +1,13 @@
 # Variable topicrow.TOPIC_TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.TOPIC_TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topicrow.TOPIC_TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

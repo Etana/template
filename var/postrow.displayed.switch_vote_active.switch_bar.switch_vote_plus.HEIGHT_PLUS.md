@@ -1,6 +1,13 @@
 # Variable postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -97,7 +97,7 @@
 * [Variable &agrave; la ligne 18](../../subsilver/privmsgs_read_body.tpl#L18)
 * [Variable &agrave; la ligne 97](../../subsilver/privmsgs_read_body.tpl#L97)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 82](../../subsilver/privmsgs_read_body.tpl#L82)
 
 ### [S_PRIVMSGS_ACTION](../S_PRIVMSGS_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_PRIVMSGS_ACTION))

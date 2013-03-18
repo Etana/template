@@ -1,6 +1,13 @@
 # Variable post_row.U_VIEW_COMMENTS
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.U_VIEW_COMMENTS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{post_row.U_VIEW_COMMENTS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

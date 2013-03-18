@@ -1,6 +1,13 @@
 # Variable pending_members_row.FROM
 [Ajouter une description](https://fa-tvars.appspot.com/var/pending_members_row.FROM)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{pending_members_row.FROM}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

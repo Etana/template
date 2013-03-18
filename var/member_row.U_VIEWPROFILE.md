@@ -1,6 +1,13 @@
 # Variable member_row.U_VIEWPROFILE
 [Ajouter une description](https://fa-tvars.appspot.com/var/member_row.U_VIEWPROFILE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{member_row.U_VIEWPROFILE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

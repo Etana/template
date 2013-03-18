@@ -1,6 +1,13 @@
 # Variable catrow.cathead.INC_SPAN
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.INC_SPAN)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.cathead.INC_SPAN}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

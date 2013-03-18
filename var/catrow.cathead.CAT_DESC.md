@@ -1,6 +1,13 @@
 # Variable catrow.cathead.CAT_DESC
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.CAT_DESC)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.cathead.CAT_DESC}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

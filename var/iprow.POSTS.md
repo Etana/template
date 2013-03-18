@@ -1,6 +1,13 @@
 # Variable iprow.POSTS
 [Ajouter une description](https://fa-tvars.appspot.com/var/iprow.POSTS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{iprow.POSTS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

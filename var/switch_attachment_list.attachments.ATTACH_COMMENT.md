@@ -1,6 +1,13 @@
 # Variable switch_attachment_list.attachments.ATTACH_COMMENT
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_COMMENT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_attachment_list.attachments.ATTACH_COMMENT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

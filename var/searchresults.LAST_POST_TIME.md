@@ -1,6 +1,13 @@
 # Variable searchresults.LAST_POST_TIME
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.LAST_POST_TIME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.LAST_POST_TIME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable member_row.FROM
 [Ajouter une description](https://fa-tvars.appspot.com/var/member_row.FROM)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{member_row.FROM}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

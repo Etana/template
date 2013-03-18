@@ -1,6 +1,13 @@
 # Variable bot_user_row.U_FORUM_LOCATION
 [Ajouter une description](https://fa-tvars.appspot.com/var/bot_user_row.U_FORUM_LOCATION)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{bot_user_row.U_FORUM_LOCATION}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

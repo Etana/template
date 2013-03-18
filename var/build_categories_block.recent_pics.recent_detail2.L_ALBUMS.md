@@ -1,6 +1,13 @@
 # Variable build_categories_block.recent_pics.recent_detail2.L_ALBUMS
 [Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail2.L_ALBUMS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{build_categories_block.recent_pics.recent_detail2.L_ALBUMS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

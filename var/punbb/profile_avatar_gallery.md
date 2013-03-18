@@ -68,7 +68,7 @@
 ### [S_CATEGORY_SELECT](../S_CATEGORY_SELECT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_CATEGORY_SELECT))
 * [Variable &agrave; la ligne 25](../../punbb/profile_avatar_gallery.tpl#L25)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 43](../../punbb/profile_avatar_gallery.tpl#L43)
 
 ### [S_PROFILE_ACTION](../S_PROFILE_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_PROFILE_ACTION))

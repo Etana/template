@@ -1,6 +1,13 @@
 # Variable listrow.PRIVMSG_ICON
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow.PRIVMSG_ICON)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{listrow.PRIVMSG_ICON}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

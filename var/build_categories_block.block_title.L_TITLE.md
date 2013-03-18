@@ -1,6 +1,13 @@
 # Variable build_categories_block.block_title.L_TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block.block_title.L_TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{build_categories_block.block_title.L_TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

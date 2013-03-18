@@ -1,6 +1,13 @@
 # Variable out_giefmod0.MODVAR
 [Ajouter une description](https://fa-tvars.appspot.com/var/out_giefmod0.MODVAR)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{out_giefmod0.MODVAR}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

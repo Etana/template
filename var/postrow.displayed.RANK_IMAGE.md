@@ -1,6 +1,13 @@
 # Variable postrow.displayed.RANK_IMAGE
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.RANK_IMAGE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.RANK_IMAGE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

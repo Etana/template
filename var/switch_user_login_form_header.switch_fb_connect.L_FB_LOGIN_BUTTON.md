@@ -1,6 +1,13 @@
 # Variable switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

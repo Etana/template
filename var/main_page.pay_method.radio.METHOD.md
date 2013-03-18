@@ -1,6 +1,13 @@
 # Variable main_page.pay_method.radio.METHOD
 [Ajouter une description](https://fa-tvars.appspot.com/var/main_page.pay_method.radio.METHOD)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{main_page.pay_method.radio.METHOD}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

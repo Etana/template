@@ -1,6 +1,13 @@
 # Variable postrow.displayed.contact_field.CONTENT
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field.CONTENT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.contact_field.CONTENT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

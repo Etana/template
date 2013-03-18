@@ -1,6 +1,13 @@
 # Variable bot_user_row.ROW_CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/bot_user_row.ROW_CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{bot_user_row.ROW_CLASS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

@@ -145,13 +145,13 @@
 ### [RECORD_USERS](../RECORD_USERS.md#readme) ([V](https://fa-tvars.appspot.com/var/RECORD_USERS))
 * [Variable &agrave; la ligne 195](../../subsilver/index_body.tpl#L195)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 38](../../subsilver/index_body.tpl#L38)
 * [Variable &agrave; la ligne 66](../../subsilver/index_body.tpl#L66)
 * [Variable &agrave; la ligne 129](../../subsilver/index_body.tpl#L129)
 * [Variable &agrave; la ligne 157](../../subsilver/index_body.tpl#L157)
 
-### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
+### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([V](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
 * [Variable &agrave; la ligne 20](../../subsilver/index_body.tpl#L20)
 * [Variable &agrave; la ligne 111](../../subsilver/index_body.tpl#L111)
 
@@ -246,7 +246,7 @@
 * [Début de boucle &agrave; la ligne 182](../../subsilver/index_body.tpl#L182)
 * [Fin de boucle &agrave; la ligne 184](../../subsilver/index_body.tpl#L184)
 
-### [TOTAL_CHATTERS_ONLINE](../TOTAL_CHATTERS_ONLINE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/TOTAL_CHATTERS_ONLINE))
+### [TOTAL_CHATTERS_ONLINE](../TOTAL_CHATTERS_ONLINE.md#readme) ([V](https://fa-tvars.appspot.com/var/TOTAL_CHATTERS_ONLINE))
 * [Variable &agrave; la ligne 208](../../subsilver/index_body.tpl#L208)
 
 ### [TOTAL_POSTS](../TOTAL_POSTS.md#readme) ([V](https://fa-tvars.appspot.com/var/TOTAL_POSTS))

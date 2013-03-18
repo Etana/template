@@ -1,6 +1,13 @@
 # Variable row.LAST_EDIT_TIME
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.LAST_EDIT_TIME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{row.LAST_EDIT_TIME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

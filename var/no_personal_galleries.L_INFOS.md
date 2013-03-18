@@ -1,6 +1,13 @@
 # Variable no_personal_galleries.L_INFOS
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_personal_galleries.L_INFOS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{no_personal_galleries.L_INFOS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

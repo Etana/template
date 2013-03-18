@@ -1,6 +1,13 @@
 # Variable switch_ticker.DIRECTION
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.DIRECTION)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_ticker.DIRECTION}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

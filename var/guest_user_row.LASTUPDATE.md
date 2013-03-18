@@ -1,6 +1,13 @@
 # Variable guest_user_row.LASTUPDATE
 [Ajouter une description](https://fa-tvars.appspot.com/var/guest_user_row.LASTUPDATE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{guest_user_row.LASTUPDATE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

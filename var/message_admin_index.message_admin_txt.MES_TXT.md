@@ -3,6 +3,13 @@
 ##Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
 Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralités > Contenu du message`.
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{message_admin_index.message_admin_txt.MES_TXT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

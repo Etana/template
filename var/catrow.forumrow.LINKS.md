@@ -1,6 +1,13 @@
 # Variable catrow.forumrow.LINKS
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.LINKS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.forumrow.LINKS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

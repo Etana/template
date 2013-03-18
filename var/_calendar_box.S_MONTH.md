@@ -1,6 +1,13 @@
 # Variable _calendar_box.S_MONTH
 [Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box.S_MONTH)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{_calendar_box.S_MONTH}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

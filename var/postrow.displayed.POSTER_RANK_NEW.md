@@ -1,6 +1,13 @@
 # Variable postrow.displayed.POSTER_RANK_NEW
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_RANK_NEW)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.POSTER_RANK_NEW}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

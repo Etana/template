@@ -1,6 +1,13 @@
 # Variable searchresults.TOPIC_FOLDER_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.TOPIC_FOLDER_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

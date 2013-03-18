@@ -31,7 +31,7 @@
 ### [S_FORUM_SELECT](../S_FORUM_SELECT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_FORUM_SELECT))
 * [Variable &agrave; la ligne 19](../../subsilver/modcp_move.tpl#L19)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 27](../../subsilver/modcp_move.tpl#L27)
 
 ### [S_MODCP_ACTION](../S_MODCP_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_MODCP_ACTION))

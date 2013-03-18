@@ -1,6 +1,13 @@
 # Variable birthday_list_box.row.END_TABLE_STICKY
 [Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.row.END_TABLE_STICKY)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{birthday_list_box.row.END_TABLE_STICKY}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

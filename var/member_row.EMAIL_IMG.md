@@ -1,6 +1,13 @@
 # Variable member_row.EMAIL_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/member_row.EMAIL_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{member_row.EMAIL_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

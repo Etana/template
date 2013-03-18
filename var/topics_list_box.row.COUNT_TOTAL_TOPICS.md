@@ -1,6 +1,13 @@
 # Variable topics_list_box.row.COUNT_TOTAL_TOPICS
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.COUNT_TOTAL_TOPICS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topics_list_box.row.COUNT_TOTAL_TOPICS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable member_row.PM_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/member_row.PM_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{member_row.PM_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

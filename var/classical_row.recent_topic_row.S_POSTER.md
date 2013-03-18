@@ -1,6 +1,13 @@
 # Variable classical_row.recent_topic_row.S_POSTER
 [Ajouter une description](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.S_POSTER)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{classical_row.recent_topic_row.S_POSTER}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -48,7 +48,7 @@
 ### [NB_PM_UNREAD](../NB_PM_UNREAD.md#readme) ([XXX](https://fa-tvars.appspot.com/var/NB_PM_UNREAD))
 * [Variable &agrave; la ligne 53](../../punbb/mod_login.tpl#L53)
 
-### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
+### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([V](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
 * [Variable &agrave; la ligne 5](../../punbb/mod_login.tpl#L5)
 * [Variable &agrave; la ligne 30](../../punbb/mod_login.tpl#L30)
 

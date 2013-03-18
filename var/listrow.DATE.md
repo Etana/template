@@ -1,6 +1,13 @@
 # Variable listrow.DATE
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow.DATE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{listrow.DATE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

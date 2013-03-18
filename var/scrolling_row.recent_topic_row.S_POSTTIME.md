@@ -1,6 +1,13 @@
 # Variable scrolling_row.recent_topic_row.S_POSTTIME
 [Ajouter une description](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.S_POSTTIME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{scrolling_row.recent_topic_row.S_POSTTIME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

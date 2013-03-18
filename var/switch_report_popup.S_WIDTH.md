@@ -1,6 +1,13 @@
 # Variable switch_report_popup.S_WIDTH
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_report_popup.S_WIDTH)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_report_popup.S_WIDTH}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

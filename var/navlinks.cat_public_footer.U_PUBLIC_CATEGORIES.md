@@ -1,6 +1,13 @@
 # Variable navlinks.cat_public_footer.U_PUBLIC_CATEGORIES
 [Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.U_PUBLIC_CATEGORIES)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{navlinks.cat_public_footer.U_PUBLIC_CATEGORIES}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable switch_attachment_list.attachments.ATTACH_POS
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_POS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_attachment_list.attachments.ATTACH_POS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

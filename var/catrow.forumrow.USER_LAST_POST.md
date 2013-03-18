@@ -1,6 +1,13 @@
 # Variable catrow.forumrow.USER_LAST_POST
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.USER_LAST_POST)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.forumrow.USER_LAST_POST}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

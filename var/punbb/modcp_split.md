@@ -77,7 +77,7 @@
 ### [S_FORUM_SELECT](../S_FORUM_SELECT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_FORUM_SELECT))
 * [Variable &agrave; la ligne 37](../../punbb/modcp_split.tpl#L37)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 79](../../punbb/modcp_split.tpl#L79)
 
 ### [S_SPLIT_ACTION](../S_SPLIT_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_SPLIT_ACTION))

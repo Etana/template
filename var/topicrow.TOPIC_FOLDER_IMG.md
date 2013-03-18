@@ -1,6 +1,13 @@
 # Variable topicrow.TOPIC_FOLDER_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topicrow.TOPIC_FOLDER_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

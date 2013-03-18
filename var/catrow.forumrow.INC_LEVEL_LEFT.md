@@ -1,6 +1,13 @@
 # Variable catrow.forumrow.INC_LEVEL_LEFT
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_LEVEL_LEFT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.forumrow.INC_LEVEL_LEFT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

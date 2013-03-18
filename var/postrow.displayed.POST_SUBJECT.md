@@ -1,6 +1,13 @@
 # Variable postrow.displayed.POST_SUBJECT
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.POST_SUBJECT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

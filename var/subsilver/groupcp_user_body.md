@@ -40,7 +40,7 @@
 ### [L_YOU_BELONG_GROUPS](../L_YOU_BELONG_GROUPS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_YOU_BELONG_GROUPS))
 * [Variable &agrave; la ligne 8](../../subsilver/groupcp_user_body.tpl#L8)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 34](../../subsilver/groupcp_user_body.tpl#L34)
 
 ### [S_TIMEZONE](../S_TIMEZONE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_TIMEZONE))

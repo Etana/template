@@ -362,7 +362,7 @@
 ### [S_FORM_ENCTYPE](../S_FORM_ENCTYPE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_FORM_ENCTYPE))
 * [Variable &agrave; la ligne 6](../../subsilver/profile_add_body.tpl#L6)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 356](../../subsilver/profile_add_body.tpl#L356)
 
 ### [S_PROFILE_ACTION](../S_PROFILE_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_PROFILE_ACTION))

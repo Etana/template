@@ -1,6 +1,13 @@
 # Variable postrow.POSTER_NAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.POSTER_NAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.POSTER_NAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

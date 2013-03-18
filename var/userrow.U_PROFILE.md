@@ -1,6 +1,13 @@
 # Variable userrow.U_PROFILE
 [Ajouter une description](https://fa-tvars.appspot.com/var/userrow.U_PROFILE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{userrow.U_PROFILE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable row.cell.CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.cell.CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{row.cell.CLASS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

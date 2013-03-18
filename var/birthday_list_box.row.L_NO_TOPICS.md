@@ -1,6 +1,13 @@
 # Variable birthday_list_box.row.L_NO_TOPICS
 [Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.row.L_NO_TOPICS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{birthday_list_box.row.L_NO_TOPICS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

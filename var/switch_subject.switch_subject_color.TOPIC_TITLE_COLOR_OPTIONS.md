@@ -1,6 +1,13 @@
 # Variable switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

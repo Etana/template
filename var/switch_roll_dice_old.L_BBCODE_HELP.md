@@ -1,6 +1,13 @@
 # Variable switch_roll_dice_old.L_BBCODE_HELP
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice_old.L_BBCODE_HELP)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_roll_dice_old.L_BBCODE_HELP}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

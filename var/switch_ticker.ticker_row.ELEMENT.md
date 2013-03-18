@@ -1,6 +1,13 @@
 # Variable switch_ticker.ticker_row.ELEMENT
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.ticker_row.ELEMENT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_ticker.ticker_row.ELEMENT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

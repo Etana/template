@@ -1,6 +1,13 @@
 # Variable switch_informations_menu.switch_profile_fields.field.DESCRIPTION
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.field.DESCRIPTION)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_informations_menu.switch_profile_fields.field.DESCRIPTION}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

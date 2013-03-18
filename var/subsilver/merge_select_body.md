@@ -25,7 +25,7 @@
 ### [S_ACTION](../S_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_ACTION))
 * [Variable &agrave; la ligne 1](../../subsilver/merge_select_body.tpl#L1)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 11](../../subsilver/merge_select_body.tpl#L11)
 
 ### [S_LIST_FORUMS](../S_LIST_FORUMS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_LIST_FORUMS))

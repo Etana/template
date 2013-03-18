@@ -1,6 +1,13 @@
 # Variable postrow.displayed.REPORT_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.REPORT_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.REPORT_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable smilies_row.smilies_col.SMILEY_CODE
 [Ajouter une description](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_CODE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{smilies_row.smilies_col.SMILEY_CODE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

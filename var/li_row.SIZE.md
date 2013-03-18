@@ -1,6 +1,13 @@
 # Variable li_row.SIZE
 [Ajouter une description](https://fa-tvars.appspot.com/var/li_row.SIZE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{li_row.SIZE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

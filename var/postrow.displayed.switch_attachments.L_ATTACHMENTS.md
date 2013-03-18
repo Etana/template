@@ -1,6 +1,13 @@
 # Variable postrow.displayed.switch_attachments.L_ATTACHMENTS
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.switch_attachments.L_ATTACHMENTS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

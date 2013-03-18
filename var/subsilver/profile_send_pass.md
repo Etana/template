@@ -28,7 +28,7 @@
 ### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 15](../../subsilver/profile_send_pass.tpl#L15)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 24](../../subsilver/profile_send_pass.tpl#L24)
 
 ### [S_PROFILE_ACTION](../S_PROFILE_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_PROFILE_ACTION))

@@ -1,6 +1,13 @@
 # Variable catrow.cathead.LEVEL
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.LEVEL)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.cathead.LEVEL}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

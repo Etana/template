@@ -1,6 +1,13 @@
 # Variable picrow.PIC_MESSAGE
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.PIC_MESSAGE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.PIC_MESSAGE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

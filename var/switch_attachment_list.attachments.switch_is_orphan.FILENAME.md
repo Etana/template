@@ -1,6 +1,13 @@
 # Variable switch_attachment_list.attachments.switch_is_orphan.FILENAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan.FILENAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_attachment_list.attachments.switch_is_orphan.FILENAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

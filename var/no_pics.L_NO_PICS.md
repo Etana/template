@@ -1,6 +1,13 @@
 # Variable no_pics.L_NO_PICS
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_pics.L_NO_PICS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{no_pics.L_NO_PICS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable POSTER.NAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/POSTER.NAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{POSTER.NAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

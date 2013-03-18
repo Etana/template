@@ -1,6 +1,13 @@
 # Variable topicrow.TOPIC_TYPE
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.TOPIC_TYPE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topicrow.TOPIC_TYPE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

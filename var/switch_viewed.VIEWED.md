@@ -1,6 +1,13 @@
 # Variable switch_viewed.VIEWED
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_viewed.VIEWED}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

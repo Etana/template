@@ -1,6 +1,13 @@
 # Variable catrow.forumrow.LATEST_TOPIC_TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.LATEST_TOPIC_TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.forumrow.LATEST_TOPIC_TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

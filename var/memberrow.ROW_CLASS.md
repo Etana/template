@@ -1,6 +1,13 @@
 # Variable memberrow.ROW_CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.ROW_CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{memberrow.ROW_CLASS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

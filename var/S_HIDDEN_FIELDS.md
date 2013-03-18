@@ -1,5 +1,9 @@
 # Variable S_HIDDEN_FIELDS
-[Ajouter une description](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS)
+
+##Description[*](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS)
+Champs non visible du formulaire.
+
+*Attention : Cette variable est importante au bon fonctionnement des formulaires !*
 
 ## Utilisations dans les templates
 

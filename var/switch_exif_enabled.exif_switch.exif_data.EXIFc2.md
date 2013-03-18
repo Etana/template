@@ -1,6 +1,13 @@
 # Variable switch_exif_enabled.exif_switch.exif_data.EXIFc2
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch.exif_data.EXIFc2)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_exif_enabled.exif_switch.exif_data.EXIFc2}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

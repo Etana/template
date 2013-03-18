@@ -1,6 +1,13 @@
 # Variable picrow.PIC_LINK
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.PIC_LINK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.PIC_LINK}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

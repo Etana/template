@@ -4,7 +4,7 @@
 
 ## Variables utilisées
 
-### [C1SIZE](../C1SIZE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/C1SIZE))
+### [C1SIZE](../C1SIZE.md#readme) ([V](https://fa-tvars.appspot.com/var/C1SIZE))
 * [Variable &agrave; la ligne 316](../../subsilver/overall_header.tpl#L316)
 
 ### [CLASS_CONTENT_CONTAINER](../CLASS_CONTENT_CONTAINER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CLASS_CONTENT_CONTAINER))
@@ -163,7 +163,7 @@
 ### [S_CONTENT_ENCODING](../S_CONTENT_ENCODING.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING))
 * [Variable &agrave; la ligne 5](../../subsilver/overall_header.tpl#L5)
 
-### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
+### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([V](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
 * [Variable &agrave; la ligne 226](../../subsilver/overall_header.tpl#L226)
 
 ### [saut](../saut.md#readme) ([XXX](https://fa-tvars.appspot.com/var/saut))

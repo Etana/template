@@ -1,6 +1,13 @@
 # Variable IMGS.ALT
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.ALT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{IMGS.ALT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

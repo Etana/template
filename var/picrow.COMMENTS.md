@@ -1,6 +1,13 @@
 # Variable picrow.COMMENTS
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.COMMENTS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.COMMENTS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

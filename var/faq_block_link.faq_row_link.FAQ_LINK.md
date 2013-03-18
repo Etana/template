@@ -1,6 +1,13 @@
 # Variable faq_block_link.faq_row_link.FAQ_LINK
 [Ajouter une description](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link.FAQ_LINK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{faq_block_link.faq_row_link.FAQ_LINK}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

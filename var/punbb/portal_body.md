@@ -7,7 +7,7 @@
 ### [ADMIN_LINK](../ADMIN_LINK.md#readme) ([XXX](https://fa-tvars.appspot.com/var/ADMIN_LINK))
 * [Variable &agrave; la ligne 58](../../punbb/portal_body.tpl#L58)
 
-### [C1SIZE](../C1SIZE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/C1SIZE))
+### [C1SIZE](../C1SIZE.md#readme) ([V](https://fa-tvars.appspot.com/var/C1SIZE))
 * [Variable &agrave; la ligne 11](../../punbb/portal_body.tpl#L11)
 * [Variable &agrave; la ligne 18](../../punbb/portal_body.tpl#L18)
 * [Variable &agrave; la ligne 39](../../punbb/portal_body.tpl#L39)
@@ -17,7 +17,7 @@
 * [Variable &agrave; la ligne 25](../../punbb/portal_body.tpl#L25)
 * [Variable &agrave; la ligne 39](../../punbb/portal_body.tpl#L39)
 
-### [C3SIZE](../C3SIZE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/C3SIZE))
+### [C3SIZE](../C3SIZE.md#readme) ([V](https://fa-tvars.appspot.com/var/C3SIZE))
 * [Variable &agrave; la ligne 11](../../punbb/portal_body.tpl#L11)
 * [Variable &agrave; la ligne 32](../../punbb/portal_body.tpl#L32)
 * [Variable &agrave; la ligne 39](../../punbb/portal_body.tpl#L39)

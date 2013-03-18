@@ -1,6 +1,13 @@
 # Variable switch_fb_login.FB_LOCAL
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_login.FB_LOCAL)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_fb_login.FB_LOCAL}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

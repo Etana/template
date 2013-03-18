@@ -1,6 +1,13 @@
 # Variable credit_card_method.switch_select_currency.select_currency.VALUE
 [Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.VALUE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{credit_card_method.switch_select_currency.select_currency.VALUE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

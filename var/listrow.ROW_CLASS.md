@@ -1,6 +1,13 @@
 # Variable listrow.ROW_CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow.ROW_CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{listrow.ROW_CLASS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

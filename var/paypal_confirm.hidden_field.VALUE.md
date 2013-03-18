@@ -1,6 +1,13 @@
 # Variable paypal_confirm.hidden_field.VALUE
 [Ajouter une description](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field.VALUE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{paypal_confirm.hidden_field.VALUE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

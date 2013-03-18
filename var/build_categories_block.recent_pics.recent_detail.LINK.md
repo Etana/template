@@ -1,6 +1,13 @@
 # Variable build_categories_block.recent_pics.recent_detail.LINK
 [Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail.LINK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{build_categories_block.recent_pics.recent_detail.LINK}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable memberrow.JOINED
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.JOINED)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{memberrow.JOINED}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable switch_ticker.STOP_TIME
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.STOP_TIME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_ticker.STOP_TIME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -90,7 +90,7 @@
 ### [S_FORUM_OPTIONS](../S_FORUM_OPTIONS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_FORUM_OPTIONS))
 * [Variable &agrave; la ligne 58](../../punbb/search_body.tpl#L58)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 78](../../punbb/search_body.tpl#L78)
 
 ### [S_SEARCH_ACTION](../S_SEARCH_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_SEARCH_ACTION))

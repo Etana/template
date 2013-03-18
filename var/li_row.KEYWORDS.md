@@ -1,6 +1,13 @@
 # Variable li_row.KEYWORDS
 [Ajouter une description](https://fa-tvars.appspot.com/var/li_row.KEYWORDS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{li_row.KEYWORDS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

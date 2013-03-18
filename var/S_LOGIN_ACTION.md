@@ -1,5 +1,9 @@
 # Variable S_LOGIN_ACTION
-[Ajouter une description](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION)
+
+##Description[*](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION)
+Action du formulaire de connexion.
+
+*Attention : Si cette variable est retirée, le formulaire de connexion ne fonctionnera plus !*
 
 ## Utilisations dans les templates
 

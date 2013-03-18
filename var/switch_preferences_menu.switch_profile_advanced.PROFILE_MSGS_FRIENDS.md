@@ -1,6 +1,13 @@
 # Variable switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

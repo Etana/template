@@ -1,6 +1,13 @@
 # Variable switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

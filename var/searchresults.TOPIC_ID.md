@@ -1,6 +1,13 @@
 # Variable searchresults.TOPIC_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.TOPIC_ID}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

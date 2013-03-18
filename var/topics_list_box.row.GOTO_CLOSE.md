@@ -1,6 +1,13 @@
 # Variable topics_list_box.row.GOTO_CLOSE
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.GOTO_CLOSE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topics_list_box.row.GOTO_CLOSE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -62,7 +62,7 @@
 ### [NAV_CAT_DESC](../NAV_CAT_DESC.md#readme) ([XXX](https://fa-tvars.appspot.com/var/NAV_CAT_DESC))
 * [Variable &agrave; la ligne 18](../../punbb/profile_send_email.tpl#L18)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 65](../../punbb/profile_send_email.tpl#L65)
 
 ### [S_POST_ACTION](../S_POST_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_POST_ACTION))

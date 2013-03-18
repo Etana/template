@@ -1,6 +1,13 @@
 # Variable post_row.TIME
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.TIME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{post_row.TIME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

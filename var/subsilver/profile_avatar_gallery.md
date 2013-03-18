@@ -51,7 +51,7 @@
 * [Variable &agrave; la ligne 9](../../subsilver/profile_avatar_gallery.tpl#L9)
 * [Variable &agrave; la ligne 27](../../subsilver/profile_avatar_gallery.tpl#L27)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 27](../../subsilver/profile_avatar_gallery.tpl#L27)
 
 ### [S_PROFILE_ACTION](../S_PROFILE_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_PROFILE_ACTION))

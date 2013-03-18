@@ -1,6 +1,13 @@
 # Variable topics_list_box.row.ICON
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.ICON)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topics_list_box.row.ICON}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

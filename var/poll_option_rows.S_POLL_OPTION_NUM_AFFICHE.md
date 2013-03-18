@@ -1,6 +1,13 @@
 # Variable poll_option_rows.S_POLL_OPTION_NUM_AFFICHE
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option_rows.S_POLL_OPTION_NUM_AFFICHE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{poll_option_rows.S_POLL_OPTION_NUM_AFFICHE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

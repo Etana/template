@@ -1,6 +1,13 @@
 # Variable switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

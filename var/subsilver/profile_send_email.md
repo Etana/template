@@ -43,7 +43,7 @@
 ### [MESSAGE](../MESSAGE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/MESSAGE))
 * [Variable &agrave; la ligne 28](../../subsilver/profile_send_email.tpl#L28)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 46](../../subsilver/profile_send_email.tpl#L46)
 
 ### [S_POST_ACTION](../S_POST_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_POST_ACTION))

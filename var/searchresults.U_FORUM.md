@@ -1,6 +1,13 @@
 # Variable searchresults.U_FORUM
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.U_FORUM)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.U_FORUM}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

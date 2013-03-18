@@ -1,6 +1,13 @@
 # Variable iprow.IP
 [Ajouter une description](https://fa-tvars.appspot.com/var/iprow.IP)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{iprow.IP}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

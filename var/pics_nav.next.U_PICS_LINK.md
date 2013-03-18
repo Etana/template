@@ -1,6 +1,13 @@
 # Variable pics_nav.next.U_PICS_LINK
 [Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav.next.U_PICS_LINK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{pics_nav.next.U_PICS_LINK}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

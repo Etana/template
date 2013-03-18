@@ -1,6 +1,13 @@
 # Variable rpg_fields.F_VALUE
 [Ajouter une description](https://fa-tvars.appspot.com/var/rpg_fields.F_VALUE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{rpg_fields.F_VALUE}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

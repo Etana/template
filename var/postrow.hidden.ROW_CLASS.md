@@ -1,6 +1,13 @@
 # Variable postrow.hidden.ROW_CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.hidden.ROW_CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.hidden.ROW_CLASS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

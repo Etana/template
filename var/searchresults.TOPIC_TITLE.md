@@ -1,6 +1,13 @@
 # Variable searchresults.TOPIC_TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.TOPIC_TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

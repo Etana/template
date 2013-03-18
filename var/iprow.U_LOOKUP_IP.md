@@ -1,6 +1,13 @@
 # Variable iprow.U_LOOKUP_IP
 [Ajouter une description](https://fa-tvars.appspot.com/var/iprow.U_LOOKUP_IP)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{iprow.U_LOOKUP_IP}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable post_row.U_READ_FULL
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.U_READ_FULL)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{post_row.U_READ_FULL}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -131,7 +131,7 @@
 ### [S_ACTION](../S_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_ACTION))
 * [Variable &agrave; la ligne 26](../../punbb/report_list_body.tpl#L26)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 65](../../punbb/report_list_body.tpl#L65)
 
 ### [switch_archive](../switch_archive.md#readme) ([XXX](https://fa-tvars.appspot.com/var/switch_archive))

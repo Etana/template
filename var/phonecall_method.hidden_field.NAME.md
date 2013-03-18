@@ -1,6 +1,13 @@
 # Variable phonecall_method.hidden_field.NAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.NAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{phonecall_method.hidden_field.NAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

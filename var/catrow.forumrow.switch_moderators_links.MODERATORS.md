@@ -1,6 +1,13 @@
 # Variable catrow.forumrow.switch_moderators_links.MODERATORS
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.MODERATORS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.forumrow.switch_moderators_links.MODERATORS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable IMGS.CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{IMGS.CLASS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

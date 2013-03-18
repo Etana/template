@@ -1,6 +1,13 @@
 # Variable forumrow.SUBFORUMS
 [Ajouter une description](https://fa-tvars.appspot.com/var/forumrow.SUBFORUMS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{forumrow.SUBFORUMS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

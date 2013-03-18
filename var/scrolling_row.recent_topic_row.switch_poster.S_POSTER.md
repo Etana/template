@@ -1,6 +1,13 @@
 # Variable scrolling_row.recent_topic_row.switch_poster.S_POSTER
 [Ajouter une description](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.switch_poster.S_POSTER)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{scrolling_row.recent_topic_row.switch_poster.S_POSTER}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

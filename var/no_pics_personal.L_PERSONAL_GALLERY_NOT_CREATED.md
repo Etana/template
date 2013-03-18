@@ -1,6 +1,13 @@
 # Variable no_pics_personal.L_PERSONAL_GALLERY_NOT_CREATED
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_pics_personal.L_PERSONAL_GALLERY_NOT_CREATED)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{no_pics_personal.L_PERSONAL_GALLERY_NOT_CREATED}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

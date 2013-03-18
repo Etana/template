@@ -1,6 +1,13 @@
 # Variable switch_recent.DATE
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_recent.DATE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_recent.DATE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable hitskin_preview.L_THEME_SITE_PREVIEW
 [Ajouter une description](https://fa-tvars.appspot.com/var/hitskin_preview.L_THEME_SITE_PREVIEW)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{hitskin_preview.L_THEME_SITE_PREVIEW}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

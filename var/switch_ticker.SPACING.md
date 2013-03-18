@@ -1,6 +1,13 @@
 # Variable switch_ticker.SPACING
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_ticker.SPACING}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

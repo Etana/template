@@ -1,6 +1,13 @@
 # Variable postrow.displayed.profile_field.LABEL
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.LABEL)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.profile_field.LABEL}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

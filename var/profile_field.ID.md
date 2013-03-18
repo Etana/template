@@ -1,6 +1,13 @@
 # Variable profile_field.ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/profile_field.ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{profile_field.ID}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable topicrow.REPLIES
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.REPLIES)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topicrow.REPLIES}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

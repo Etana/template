@@ -79,7 +79,7 @@
 * [Variable &agrave; la ligne 26](../../punbb/modcp_body.tpl#L26)
 * [Variable &agrave; la ligne 80](../../punbb/modcp_body.tpl#L80)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 63](../../punbb/modcp_body.tpl#L63)
 
 ### [S_MODCP_ACTION](../S_MODCP_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_MODCP_ACTION))

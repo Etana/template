@@ -1,6 +1,13 @@
 # Variable switch_desc.SITE_DESCRIPTION
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_desc.SITE_DESCRIPTION)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_desc.SITE_DESCRIPTION}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

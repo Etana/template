@@ -1,6 +1,13 @@
 # Variable IMGS.TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{IMGS.TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

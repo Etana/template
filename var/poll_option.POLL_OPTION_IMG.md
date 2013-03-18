@@ -1,6 +1,13 @@
 # Variable poll_option.POLL_OPTION_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{poll_option.POLL_OPTION_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

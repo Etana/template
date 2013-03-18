@@ -1,6 +1,13 @@
 # Variable postrow.displayed.THANK_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.THANK_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.THANK_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

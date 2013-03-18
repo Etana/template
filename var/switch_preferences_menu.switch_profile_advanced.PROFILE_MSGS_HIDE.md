@@ -1,6 +1,13 @@
 # Variable switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_HIDE
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_HIDE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_HIDE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

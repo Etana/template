@@ -1,6 +1,13 @@
 # Variable smilies_row.smilies_col.SHOW_JS
 [Ajouter une description](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SHOW_JS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{smilies_row.smilies_col.SHOW_JS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

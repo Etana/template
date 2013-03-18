@@ -1,6 +1,13 @@
 # Variable catrow.tablehead.L_FORUM
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.tablehead.L_FORUM}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

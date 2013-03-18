@@ -1,6 +1,13 @@
 # Variable navlinks.stat_link.U_TOP10_LINK
 [Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.stat_link.U_TOP10_LINK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{navlinks.stat_link.U_TOP10_LINK}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

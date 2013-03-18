@@ -1,6 +1,13 @@
 # Variable post_row.CLOSE
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.CLOSE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{post_row.CLOSE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

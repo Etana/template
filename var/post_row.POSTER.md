@@ -1,6 +1,13 @@
 # Variable post_row.POSTER
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.POSTER)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{post_row.POSTER}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

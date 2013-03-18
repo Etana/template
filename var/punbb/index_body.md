@@ -150,11 +150,11 @@
 ### [RECORD_USERS](../RECORD_USERS.md#readme) ([V](https://fa-tvars.appspot.com/var/RECORD_USERS))
 * [Variable &agrave; la ligne 74](../../punbb/index_body.tpl#L74)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 42](../../punbb/index_body.tpl#L42)
 * [Variable &agrave; la ligne 111](../../punbb/index_body.tpl#L111)
 
-### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
+### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([V](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
 * [Variable &agrave; la ligne 37](../../punbb/index_body.tpl#L37)
 * [Variable &agrave; la ligne 106](../../punbb/index_body.tpl#L106)
 
@@ -225,7 +225,7 @@
 * [Début de boucle &agrave; la ligne 69](../../punbb/index_body.tpl#L69)
 * [Fin de boucle &agrave; la ligne 71](../../punbb/index_body.tpl#L71)
 
-### [TOTAL_CHATTERS_ONLINE](../TOTAL_CHATTERS_ONLINE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/TOTAL_CHATTERS_ONLINE))
+### [TOTAL_CHATTERS_ONLINE](../TOTAL_CHATTERS_ONLINE.md#readme) ([V](https://fa-tvars.appspot.com/var/TOTAL_CHATTERS_ONLINE))
 * [Variable &agrave; la ligne 90](../../punbb/index_body.tpl#L90)
 
 ### [TOTAL_POSTS](../TOTAL_POSTS.md#readme) ([V](https://fa-tvars.appspot.com/var/TOTAL_POSTS))

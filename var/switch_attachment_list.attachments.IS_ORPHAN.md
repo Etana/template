@@ -1,6 +1,13 @@
 # Variable switch_attachment_list.attachments.IS_ORPHAN
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.IS_ORPHAN)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_attachment_list.attachments.IS_ORPHAN}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

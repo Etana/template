@@ -1,6 +1,13 @@
 # Variable switch_image_resize.IMG_RESIZE_WIDTH
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_image_resize.IMG_RESIZE_WIDTH}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

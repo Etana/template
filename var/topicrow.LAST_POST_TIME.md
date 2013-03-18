@@ -1,6 +1,13 @@
 # Variable topicrow.LAST_POST_TIME
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.LAST_POST_TIME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topicrow.LAST_POST_TIME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

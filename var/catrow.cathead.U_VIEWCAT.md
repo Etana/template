@@ -1,6 +1,13 @@
 # Variable catrow.cathead.U_VIEWCAT
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.U_VIEWCAT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.cathead.U_VIEWCAT}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

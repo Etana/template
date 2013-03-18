@@ -1,6 +1,13 @@
 # Variable pending_members_row.ROW_CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/pending_members_row.ROW_CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{pending_members_row.ROW_CLASS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

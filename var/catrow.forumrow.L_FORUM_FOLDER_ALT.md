@@ -1,6 +1,13 @@
 # Variable catrow.forumrow.L_FORUM_FOLDER_ALT
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.L_FORUM_FOLDER_ALT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.forumrow.L_FORUM_FOLDER_ALT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

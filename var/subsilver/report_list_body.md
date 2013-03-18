@@ -130,7 +130,7 @@
 ### [S_ACTION](../S_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_ACTION))
 * [Variable &agrave; la ligne 2](../../subsilver/report_list_body.tpl#L2)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 2](../../subsilver/report_list_body.tpl#L2)
 
 ### [switch_archive](../switch_archive.md#readme) ([XXX](https://fa-tvars.appspot.com/var/switch_archive))

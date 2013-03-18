@@ -186,7 +186,7 @@
 * [Variable &agrave; la ligne 1](../../subsilver/groupcp_info_body.tpl#L1)
 * [Variable &agrave; la ligne 38](../../subsilver/groupcp_info_body.tpl#L38)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 36](../../subsilver/groupcp_info_body.tpl#L36)
 * [Variable &agrave; la ligne 114](../../subsilver/groupcp_info_body.tpl#L114)
 

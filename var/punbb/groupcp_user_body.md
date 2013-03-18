@@ -59,7 +59,7 @@
 ### [NAV_CAT_DESC](../NAV_CAT_DESC.md#readme) ([XXX](https://fa-tvars.appspot.com/var/NAV_CAT_DESC))
 * [Variable &agrave; la ligne 18](../../punbb/groupcp_user_body.tpl#L18)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 65](../../punbb/groupcp_user_body.tpl#L65)
 
 ### [S_USERGROUP_ACTION](../S_USERGROUP_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_USERGROUP_ACTION))

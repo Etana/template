@@ -1,6 +1,13 @@
 # Variable searchresults.TOPIC_REPLIES
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_REPLIES)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.TOPIC_REPLIES}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

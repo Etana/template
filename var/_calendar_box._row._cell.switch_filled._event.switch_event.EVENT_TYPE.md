@@ -1,6 +1,13 @@
 # Variable _calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE
 [Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

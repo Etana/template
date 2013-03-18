@@ -1,6 +1,13 @@
 # Variable memberrow.LASTVISIT
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.LASTVISIT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{memberrow.LASTVISIT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

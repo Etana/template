@@ -1,6 +1,13 @@
 # Variable switch_search_results.search_results.DESC
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_search_results.search_results.DESC)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_search_results.search_results.DESC}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

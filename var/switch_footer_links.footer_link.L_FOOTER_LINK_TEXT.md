@@ -1,6 +1,13 @@
 # Variable switch_footer_links.footer_link.L_FOOTER_LINK_TEXT
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_footer_links.footer_link.L_FOOTER_LINK_TEXT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

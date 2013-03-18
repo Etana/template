@@ -1,6 +1,13 @@
 # Variable row.U_REPORT
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.U_REPORT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{row.U_REPORT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

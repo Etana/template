@@ -1,6 +1,13 @@
 # Variable catrow.forumrow.LEVEL
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.LEVEL)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.forumrow.LEVEL}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -65,7 +65,7 @@
 ### [S_ACTION](../S_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_ACTION))
 * [Variable &agrave; la ligne 23](../../punbb/merge_body.tpl#L23)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 56](../../punbb/merge_body.tpl#L56)
 
 ### [switch_user_logged_in](../switch_user_logged_in.md#readme) ([V](https://fa-tvars.appspot.com/var/switch_user_logged_in))

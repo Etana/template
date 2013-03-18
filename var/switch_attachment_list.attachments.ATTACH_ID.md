@@ -1,6 +1,13 @@
 # Variable switch_attachment_list.attachments.ATTACH_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_attachment_list.attachments.ATTACH_ID}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

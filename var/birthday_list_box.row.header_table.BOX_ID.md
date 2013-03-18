@@ -1,6 +1,13 @@
 # Variable birthday_list_box.row.header_table.BOX_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table.BOX_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{birthday_list_box.row.header_table.BOX_ID}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

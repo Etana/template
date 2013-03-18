@@ -1,6 +1,13 @@
 # Variable no_post.L_NO_POST
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_post.L_NO_POST)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{no_post.L_NO_POST}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

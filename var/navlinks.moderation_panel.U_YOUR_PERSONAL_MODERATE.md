@@ -1,6 +1,13 @@
 # Variable navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE
 [Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

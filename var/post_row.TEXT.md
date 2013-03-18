@@ -1,6 +1,13 @@
 # Variable post_row.TEXT
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.TEXT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{post_row.TEXT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

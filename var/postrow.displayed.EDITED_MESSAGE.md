@@ -1,6 +1,13 @@
 # Variable postrow.displayed.EDITED_MESSAGE
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.EDITED_MESSAGE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.EDITED_MESSAGE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

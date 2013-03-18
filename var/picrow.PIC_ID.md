@@ -1,6 +1,13 @@
 # Variable picrow.PIC_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.PIC_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.PIC_ID}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

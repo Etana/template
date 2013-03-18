@@ -1,6 +1,13 @@
 # Variable promot_trafic.link.U_HREF
 [Ajouter une description](https://fa-tvars.appspot.com/var/promot_trafic.link.U_HREF)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{promot_trafic.link.U_HREF}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

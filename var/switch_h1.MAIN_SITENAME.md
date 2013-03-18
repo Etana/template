@@ -1,6 +1,13 @@
 # Variable switch_h1.MAIN_SITENAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_h1.MAIN_SITENAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

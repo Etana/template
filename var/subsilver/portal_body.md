@@ -4,13 +4,13 @@
 
 ## Variables utilisées
 
-### [C1SIZE](../C1SIZE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/C1SIZE))
+### [C1SIZE](../C1SIZE.md#readme) ([V](https://fa-tvars.appspot.com/var/C1SIZE))
 * [Variable &agrave; la ligne 14](../../subsilver/portal_body.tpl#L14)
 
 ### [C2SIZE](../C2SIZE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/C2SIZE))
 * [Variable &agrave; la ligne 21](../../subsilver/portal_body.tpl#L21)
 
-### [C3SIZE](../C3SIZE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/C3SIZE))
+### [C3SIZE](../C3SIZE.md#readme) ([V](https://fa-tvars.appspot.com/var/C3SIZE))
 * [Variable &agrave; la ligne 28](../../subsilver/portal_body.tpl#L28)
 
 ### [giefmod0](../giefmod0.md#readme) ([XXX](https://fa-tvars.appspot.com/var/giefmod0))

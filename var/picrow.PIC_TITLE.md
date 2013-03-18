@@ -1,6 +1,13 @@
 # Variable picrow.PIC_TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.PIC_TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.PIC_TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

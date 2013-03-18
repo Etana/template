@@ -1,6 +1,13 @@
 # Variable listrow.S_MARK_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow.S_MARK_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{listrow.S_MARK_ID}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

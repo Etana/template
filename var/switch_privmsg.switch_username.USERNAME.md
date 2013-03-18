@@ -1,6 +1,13 @@
 # Variable switch_privmsg.switch_username.USERNAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_privmsg.switch_username.USERNAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable topics_list_box.row.GOTO_PAGE_NEW
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.GOTO_PAGE_NEW)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topics_list_box.row.GOTO_PAGE_NEW}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

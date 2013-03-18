@@ -1,6 +1,13 @@
 # Variable topics_list_box.row.ROW_FOLDER_CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_FOLDER_CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{topics_list_box.row.ROW_FOLDER_CLASS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

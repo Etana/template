@@ -1,6 +1,13 @@
 # Variable searchresults.POST_SUBJECT
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.POST_SUBJECT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.POST_SUBJECT}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

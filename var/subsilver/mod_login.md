@@ -53,7 +53,7 @@
 ### [NB_PM_UNREAD](../NB_PM_UNREAD.md#readme) ([XXX](https://fa-tvars.appspot.com/var/NB_PM_UNREAD))
 * [Variable &agrave; la ligne 86](../../subsilver/mod_login.tpl#L86)
 
-### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
+### [S_LOGIN_ACTION](../S_LOGIN_ACTION.md#readme) ([V](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION))
 * [Variable &agrave; la ligne 10](../../subsilver/mod_login.tpl#L10)
 * [Variable &agrave; la ligne 47](../../subsilver/mod_login.tpl#L47)
 

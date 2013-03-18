@@ -22,5 +22,5 @@
 ### [S_CONFIRM_ACTION](../S_CONFIRM_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION))
 * [Variable &agrave; la ligne 4](../../punbb/confirm_body.tpl#L4)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 11](../../punbb/confirm_body.tpl#L11)

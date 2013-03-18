@@ -1,6 +1,13 @@
 # Variable memberrow.INTERESTS
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.INTERESTS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{memberrow.INTERESTS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

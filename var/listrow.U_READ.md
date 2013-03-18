@@ -1,6 +1,13 @@
 # Variable listrow.U_READ
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow.U_READ)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{listrow.U_READ}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable postrow.displayed.switch_attachments.switch_post_attachments.U_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.U_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.switch_attachments.switch_post_attachments.U_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable catrow.cathead.inc.INC_CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.inc.INC_CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.cathead.inc.INC_CLASS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

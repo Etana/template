@@ -1,6 +1,13 @@
 # Variable reg_user_row.USERNAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/reg_user_row.USERNAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{reg_user_row.USERNAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

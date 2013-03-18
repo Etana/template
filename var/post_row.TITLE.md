@@ -1,6 +1,13 @@
 # Variable post_row.TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{post_row.TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

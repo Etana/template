@@ -1,6 +1,13 @@
 # Variable list_pics_block.list_pics.U_CAT
 [Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.U_CAT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{list_pics_block.list_pics.U_CAT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable pics_nav.L_PICS_NAV
 [Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav.L_PICS_NAV)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{pics_nav.L_PICS_NAV}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

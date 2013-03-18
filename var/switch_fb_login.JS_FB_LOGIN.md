@@ -1,6 +1,13 @@
 # Variable switch_fb_login.JS_FB_LOGIN
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_login.JS_FB_LOGIN)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_fb_login.JS_FB_LOGIN}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

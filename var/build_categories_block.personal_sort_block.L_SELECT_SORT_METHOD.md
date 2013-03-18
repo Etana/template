@@ -1,6 +1,13 @@
 # Variable build_categories_block.personal_sort_block.L_SELECT_SORT_METHOD
 [Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.L_SELECT_SORT_METHOD)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{build_categories_block.personal_sort_block.L_SELECT_SORT_METHOD}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

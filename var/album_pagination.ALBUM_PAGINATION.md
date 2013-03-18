@@ -1,6 +1,13 @@
 # Variable album_pagination.ALBUM_PAGINATION
 [Ajouter une description](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{album_pagination.ALBUM_PAGINATION}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable switch_fb_index_login.FACEBOOK_APP_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_fb_index_login.FACEBOOK_APP_ID}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

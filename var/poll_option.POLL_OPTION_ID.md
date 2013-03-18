@@ -1,6 +1,13 @@
 # Variable poll_option.POLL_OPTION_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{poll_option.POLL_OPTION_ID}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

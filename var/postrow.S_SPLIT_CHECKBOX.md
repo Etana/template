@@ -1,6 +1,13 @@
 # Variable postrow.S_SPLIT_CHECKBOX
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.S_SPLIT_CHECKBOX)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.S_SPLIT_CHECKBOX}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

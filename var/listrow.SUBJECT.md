@@ -1,6 +1,13 @@
 # Variable listrow.SUBJECT
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow.SUBJECT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{listrow.SUBJECT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

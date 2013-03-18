@@ -1,6 +1,13 @@
 # Variable switch_quote_limit.L_QUOTE_LIMIT_WARNING
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_quote_limit.L_QUOTE_LIMIT_WARNING)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_quote_limit.L_QUOTE_LIMIT_WARNING}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

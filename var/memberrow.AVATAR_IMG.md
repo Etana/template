@@ -1,6 +1,13 @@
 # Variable memberrow.AVATAR_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.AVATAR_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{memberrow.AVATAR_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

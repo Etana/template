@@ -1,6 +1,13 @@
 # Variable postrow.displayed.DISPLAYABLE_STATE
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.DISPLAYABLE_STATE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.DISPLAYABLE_STATE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

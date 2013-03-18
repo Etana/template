@@ -1,6 +1,13 @@
 # Variable catrow.forumrow.TOPICS
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.TOPICS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{catrow.forumrow.TOPICS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable list_pics_block.list_pics.MESSAGE
 [Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.MESSAGE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{list_pics_block.list_pics.MESSAGE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

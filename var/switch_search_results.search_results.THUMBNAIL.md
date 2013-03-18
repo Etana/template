@@ -1,6 +1,13 @@
 # Variable switch_search_results.search_results.THUMBNAIL
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_search_results.search_results.THUMBNAIL)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_search_results.search_results.THUMBNAIL}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

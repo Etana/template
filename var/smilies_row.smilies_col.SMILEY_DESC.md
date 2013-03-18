@@ -1,6 +1,13 @@
 # Variable smilies_row.smilies_col.SMILEY_DESC
 [Ajouter une description](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_DESC)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{smilies_row.smilies_col.SMILEY_DESC}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

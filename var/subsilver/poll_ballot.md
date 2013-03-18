@@ -26,7 +26,7 @@
 ### [POLL_QUESTION](../POLL_QUESTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/POLL_QUESTION))
 * [Variable &agrave; la ligne 4](../../subsilver/poll_ballot.tpl#L4)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 24](../../subsilver/poll_ballot.tpl#L24)
 
 ### [S_POLL_ACTION](../S_POLL_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_POLL_ACTION))

@@ -1,6 +1,13 @@
 # Variable switch_ticker.SPEED
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.SPEED)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_ticker.SPEED}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

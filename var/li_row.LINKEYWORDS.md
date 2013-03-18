@@ -1,6 +1,13 @@
 # Variable li_row.LINKEYWORDS
 [Ajouter une description](https://fa-tvars.appspot.com/var/li_row.LINKEYWORDS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{li_row.LINKEYWORDS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable bot_user_row.LASTUPDATE
 [Ajouter une description](https://fa-tvars.appspot.com/var/bot_user_row.LASTUPDATE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{bot_user_row.LASTUPDATE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

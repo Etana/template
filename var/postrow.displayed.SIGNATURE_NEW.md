@@ -1,6 +1,13 @@
 # Variable postrow.displayed.SIGNATURE_NEW
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.SIGNATURE_NEW)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.SIGNATURE_NEW}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

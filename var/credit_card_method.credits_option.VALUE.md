@@ -1,6 +1,13 @@
 # Variable credit_card_method.credits_option.VALUE
 [Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.VALUE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{credit_card_method.credits_option.VALUE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

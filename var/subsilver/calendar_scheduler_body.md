@@ -59,7 +59,7 @@
 ### [row.cell.DAY](../row.cell.DAY.md#readme) ([XXX](https://fa-tvars.appspot.com/var/row.cell.DAY))
 * [Variable &agrave; la ligne 41](../../subsilver/calendar_scheduler_body.tpl#L41)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 62](../../subsilver/calendar_scheduler_body.tpl#L62)
 
 ### [S_MONTH](../S_MONTH.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_MONTH))

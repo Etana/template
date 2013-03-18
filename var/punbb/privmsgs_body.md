@@ -119,7 +119,7 @@
 * [Variable &agrave; la ligne 33](../../punbb/privmsgs_body.tpl#L33)
 * [Variable &agrave; la ligne 97](../../punbb/privmsgs_body.tpl#L97)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 87](../../punbb/privmsgs_body.tpl#L87)
 
 ### [S_PRIVMSGS_ACTION](../S_PRIVMSGS_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_PRIVMSGS_ACTION))

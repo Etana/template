@@ -1,6 +1,13 @@
 # Variable stat_link.U_TOP10_LINK_NEW
 [Ajouter une description](https://fa-tvars.appspot.com/var/stat_link.U_TOP10_LINK_NEW)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{stat_link.U_TOP10_LINK_NEW}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

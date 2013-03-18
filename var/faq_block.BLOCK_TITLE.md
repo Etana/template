@@ -1,6 +1,13 @@
 # Variable faq_block.BLOCK_TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/faq_block.BLOCK_TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{faq_block.BLOCK_TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

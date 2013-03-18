@@ -1,6 +1,13 @@
 # Variable postrow.displayed.L_TOPIC_ON
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.L_TOPIC_ON)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.L_TOPIC_ON}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

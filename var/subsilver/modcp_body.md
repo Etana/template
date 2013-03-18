@@ -64,7 +64,7 @@
 ### [PAGINATION](../PAGINATION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/PAGINATION))
 * [Variable &agrave; la ligne 50](../../subsilver/modcp_body.tpl#L50)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 33](../../subsilver/modcp_body.tpl#L33)
 
 ### [S_MODCP_ACTION](../S_MODCP_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_MODCP_ACTION))

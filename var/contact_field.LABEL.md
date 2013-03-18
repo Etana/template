@@ -1,6 +1,13 @@
 # Variable contact_field.LABEL
 [Ajouter une description](https://fa-tvars.appspot.com/var/contact_field.LABEL)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{contact_field.LABEL}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable switch_image_resize.IMG_RESIZE_HEIGHT
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_image_resize.IMG_RESIZE_HEIGHT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable memberrow.ROW_NUMBER
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.ROW_NUMBER)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{memberrow.ROW_NUMBER}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

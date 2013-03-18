@@ -1,6 +1,13 @@
 # Variable searchresults.U_VIEW_TOPIC
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.U_VIEW_TOPIC)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.U_VIEW_TOPIC}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

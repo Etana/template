@@ -1,6 +1,13 @@
 # Variable row.AUTHOR
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.AUTHOR)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{row.AUTHOR}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

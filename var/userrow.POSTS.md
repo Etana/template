@@ -1,6 +1,13 @@
 # Variable userrow.POSTS
 [Ajouter une description](https://fa-tvars.appspot.com/var/userrow.POSTS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{userrow.POSTS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable navlinks.cat_personal_footer.U_YOUR_PERSONAL_GALLERY
 [Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer.U_YOUR_PERSONAL_GALLERY)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{navlinks.cat_personal_footer.U_YOUR_PERSONAL_GALLERY}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable postrow.displayed.U_POST_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.U_POST_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.U_POST_ID}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

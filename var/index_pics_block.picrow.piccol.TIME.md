@@ -1,6 +1,13 @@
 # Variable index_pics_block.picrow.piccol.TIME
 [Ajouter une description](https://fa-tvars.appspot.com/var/index_pics_block.picrow.piccol.TIME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{index_pics_block.picrow.piccol.TIME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

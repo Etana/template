@@ -1,6 +1,13 @@
 # Variable userrow.L_SEARCH_POSTS
 [Ajouter une description](https://fa-tvars.appspot.com/var/userrow.L_SEARCH_POSTS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{userrow.L_SEARCH_POSTS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

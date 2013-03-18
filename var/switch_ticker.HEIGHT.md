@@ -1,6 +1,13 @@
 # Variable switch_ticker.HEIGHT
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.HEIGHT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_ticker.HEIGHT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

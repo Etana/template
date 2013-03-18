@@ -1,6 +1,13 @@
 # Variable row.STATUS_SELECT
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.STATUS_SELECT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{row.STATUS_SELECT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

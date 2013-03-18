@@ -1,6 +1,13 @@
 # Variable picrow.CAT
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.CAT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.CAT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

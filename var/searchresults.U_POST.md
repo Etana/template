@@ -1,6 +1,13 @@
 # Variable searchresults.U_POST
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.U_POST)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{searchresults.U_POST}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

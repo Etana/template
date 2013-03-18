@@ -1,6 +1,13 @@
 # Variable main_page.pay_method.B_SUBMIT
 [Ajouter une description](https://fa-tvars.appspot.com/var/main_page.pay_method.B_SUBMIT)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{main_page.pay_method.B_SUBMIT}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

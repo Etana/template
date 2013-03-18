@@ -1,6 +1,13 @@
 # Variable post_row.OPEN
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.OPEN)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{post_row.OPEN}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

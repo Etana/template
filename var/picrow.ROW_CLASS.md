@@ -1,6 +1,13 @@
 # Variable picrow.ROW_CLASS
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.ROW_CLASS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.ROW_CLASS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

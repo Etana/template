@@ -1,6 +1,13 @@
 # Variable memberrow.WWW_IMG
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.WWW_IMG)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{memberrow.WWW_IMG}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

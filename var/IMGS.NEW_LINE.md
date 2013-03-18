@@ -1,6 +1,13 @@
 # Variable IMGS.NEW_LINE
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.NEW_LINE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{IMGS.NEW_LINE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

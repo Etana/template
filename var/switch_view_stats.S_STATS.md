@@ -1,6 +1,13 @@
 # Variable switch_view_stats.S_STATS
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_view_stats.S_STATS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_view_stats.S_STATS}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

@@ -1,6 +1,13 @@
 # Variable postrow.displayed.POSTER_RANK
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_RANK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.displayed.POSTER_RANK}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

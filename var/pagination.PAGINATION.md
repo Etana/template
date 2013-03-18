@@ -1,6 +1,13 @@
 # Variable pagination.PAGINATION
 [Ajouter une description](https://fa-tvars.appspot.com/var/pagination.PAGINATION)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{pagination.PAGINATION}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

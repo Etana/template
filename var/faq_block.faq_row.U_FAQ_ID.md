@@ -1,6 +1,13 @@
 # Variable faq_block.faq_row.U_FAQ_ID
 [Ajouter une description](https://fa-tvars.appspot.com/var/faq_block.faq_row.U_FAQ_ID)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{faq_block.faq_row.U_FAQ_ID}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable picrow.LOCK
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.LOCK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{picrow.LOCK}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

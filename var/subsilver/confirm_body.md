@@ -25,7 +25,7 @@
 ### [S_CONFIRM_ACTION](../S_CONFIRM_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION))
 * [Variable &agrave; la ligne 12](../../subsilver/confirm_body.tpl#L12)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 15](../../subsilver/confirm_body.tpl#L15)
 
 ### [U_INDEX](../U_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/U_INDEX))

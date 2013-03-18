@@ -22,7 +22,7 @@
 ### [S_ANTI_ROBOT](../S_ANTI_ROBOT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_ANTI_ROBOT))
 * [Variable &agrave; la ligne 6](../../punbb/posting_confirm_code.tpl#L6)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 40](../../punbb/posting_confirm_code.tpl#L40)
 
 ### [U_POSTING](../U_POSTING.md#readme) ([XXX](https://fa-tvars.appspot.com/var/U_POSTING))

@@ -1,6 +1,13 @@
 # Variable switch_footer_links.footer_link.U_FOOTER_LINK_HREF
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

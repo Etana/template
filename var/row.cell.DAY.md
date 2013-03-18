@@ -1,6 +1,13 @@
 # Variable row.cell.DAY
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.cell.DAY)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{row.cell.DAY}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

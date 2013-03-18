@@ -1,6 +1,13 @@
 # Variable switch_no_user.L_NO_USER
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_no_user.L_NO_USER}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

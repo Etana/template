@@ -1,6 +1,13 @@
 # Variable switch_no_user.COLSPAN_NUMBER
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_no_user.COLSPAN_NUMBER}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

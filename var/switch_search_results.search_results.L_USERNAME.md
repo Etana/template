@@ -1,6 +1,13 @@
 # Variable switch_search_results.search_results.L_USERNAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_search_results.search_results.L_USERNAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_search_results.search_results.L_USERNAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

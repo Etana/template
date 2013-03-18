@@ -1,6 +1,13 @@
 # Variable postrow.hidden.MESSAGE
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.hidden.MESSAGE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{postrow.hidden.MESSAGE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

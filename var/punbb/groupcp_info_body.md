@@ -198,7 +198,7 @@
 * [Variable &agrave; la ligne 23](../../punbb/groupcp_info_body.tpl#L23)
 * [Variable &agrave; la ligne 68](../../punbb/groupcp_info_body.tpl#L68)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 62](../../punbb/groupcp_info_body.tpl#L62)
 * [Variable &agrave; la ligne 137](../../punbb/groupcp_info_body.tpl#L137)
 

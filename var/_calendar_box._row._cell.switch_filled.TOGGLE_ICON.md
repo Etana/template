@@ -1,6 +1,13 @@
 # Variable _calendar_box._row._cell.switch_filled.TOGGLE_ICON
 [Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.TOGGLE_ICON)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{_calendar_box._row._cell.switch_filled.TOGGLE_ICON}
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

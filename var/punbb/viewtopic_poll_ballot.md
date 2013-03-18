@@ -29,7 +29,7 @@
 ### [POLL_QUESTION](../POLL_QUESTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/POLL_QUESTION))
 * [Variable &agrave; la ligne 3](../../punbb/viewtopic_poll_ballot.tpl#L3)
 
-### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
+### [S_HIDDEN_FIELDS](../S_HIDDEN_FIELDS.md#readme) ([V](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS))
 * [Variable &agrave; la ligne 17](../../punbb/viewtopic_poll_ballot.tpl#L17)
 
 ### [S_POLL_ACTION](../S_POLL_ACTION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_POLL_ACTION))

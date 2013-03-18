@@ -1,6 +1,13 @@
 # Variable member_row.USERNAME
 [Ajouter une description](https://fa-tvars.appspot.com/var/member_row.USERNAME)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{member_row.USERNAME}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

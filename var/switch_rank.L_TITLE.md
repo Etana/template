@@ -1,6 +1,13 @@
 # Variable switch_rank.L_TITLE
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_rank.L_TITLE)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{switch_rank.L_TITLE}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -1,6 +1,13 @@
 # Variable listrow.FROM
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow.FROM)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{listrow.FROM}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

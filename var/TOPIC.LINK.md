@@ -1,6 +1,13 @@
 # Variable TOPIC.LINK
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC.LINK)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{TOPIC.LINK}
+
 ## Utilisations dans les templates
 
 ### Version PunBB

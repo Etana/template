@@ -1,6 +1,13 @@
 # Variable memberrow.GROUPS
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.GROUPS)
 
+##Disponibilité
+Cette variable est utilisable dans une boucle sur la variable :
+* 
+
+```
+{memberrow.GROUPS}
+
 ## Utilisations dans les templates
 
 ### Version PunBB
