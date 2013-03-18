@@ -1,10 +1,8 @@
-# Code source des templates
+## Variables
 
-* [phpBB2](https://github.com/Etana/template.list/tree/master/tpl/src/subsilver#readme)
-* [PunBB](https://github.com/Etana/template.list/tree/master/tpl/src/punbb#readme)
+* [Toutes](https://github.com/Etana/template.list/blob/master/variables.md#readme)
+* [Avec description](https://github.com/Etana/template.list/blob/master/variables_avec_description.md#readme)
+## Templates
 
-# Variables
-
-* [Liste compl&egrave;te](https://github.com/Etana/template.list/blob/master/variables.md#readme)
-* [Par template phpBB2](https://github.com/Etana/template.list/tree/master/tpl/var/subsilver#readme)
-* [Par template PunBB](https://github.com/Etana/template.list/tree/master/tpl/var/punbb#readme)
+* [phpBB2](https://github.com/Etana/template.list/tree/master/tpl/var/subsilver#readme)
+* [PunBB](https://github.com/Etana/template.list/tree/master/tpl/var/punbb#readme)

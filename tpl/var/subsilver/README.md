@@ -1,5 +1,4 @@
 # Templates version phpBB2
-[Liste des sources](https://github.com/Etana/template.list/tree/master/tpl/src/subsilver#readme)
 
 
 ### Général
