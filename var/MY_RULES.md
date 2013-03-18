@@ -4,15 +4,14 @@ MY_RULES
 ```
 
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/MY_RULES)
-
-##Disponibilité
 Cette variable est utilisable directement.
 
 ```html
 {MY_RULES}
 ```
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/MY_RULES)
 
 ## Utilisations dans les templates
 

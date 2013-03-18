@@ -4,10 +4,6 @@ switch_fb_explain
 ```
 
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_explain)
-
-##Disponibilité
 Cette variable est utilisable directement dans une boucle.
 
 ```html
@@ -15,6 +11,9 @@ Cette variable est utilisable directement dans une boucle.
     contenu
 <!-- END switch_fb_explain -->
 ```
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_explain)
 
 ## Attributs
 ### Variable d'affichage
