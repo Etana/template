@@ -1,7 +1,7 @@
 # Boucle _calendar_box
 
 ##Disponibilité
-Cette boucle est utilisable directement.
+Cette variable est utilisable directement dans une boucle.
 
 ```html
 <!-- BEGIN _calendar_box -->
