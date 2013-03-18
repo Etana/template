@@ -5,6 +5,6 @@
 
 # Variables
 
-* [Liste compl&egrave;te](https://github.com/Etana/template.list/blob/master/var/README.md#readme)
+* [Liste compl&egrave;te](https://github.com/Etana/template.list/blob/master/variables.md#readme)
 * [Par template phpBB2](https://github.com/Etana/template.list/tree/master/tpl/var/subsilver#readme)
 * [Par template PunBB](https://github.com/Etana/template.list/tree/master/tpl/var/punbb#readme)
