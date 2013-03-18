@@ -4,7 +4,7 @@
 
 ## Variables utilisées
 
-### [AUTOLOGIN_CHECKED](../AUTOLOGIN_CHECKED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED))
+### [AUTOLOGIN_CHECKED](../AUTOLOGIN_CHECKED.md#readme) ([V](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED))
 * [Variable &agrave; la ligne 21](../../subsilver/mod_login.tpl#L21)
 * [Variable &agrave; la ligne 56](../../subsilver/mod_login.tpl#L56)
 
@@ -13,7 +13,7 @@
 * [Variable &agrave; la ligne 84](../../subsilver/mod_login.tpl#L84)
 * [Variable &agrave; la ligne 84](../../subsilver/mod_login.tpl#L84)
 
-### [L_AUTO_LOGIN](../L_AUTO_LOGIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN))
+### [L_AUTO_LOGIN](../L_AUTO_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN))
 * [Variable &agrave; la ligne 21](../../subsilver/mod_login.tpl#L21)
 * [Variable &agrave; la ligne 56](../../subsilver/mod_login.tpl#L56)
 

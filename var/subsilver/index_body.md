@@ -7,19 +7,19 @@
 ### [AUTO_DST](../AUTO_DST.md#readme) ([V](https://fa-tvars.appspot.com/var/AUTO_DST))
 * [Variable &agrave; la ligne 240](../../subsilver/index_body.tpl#L240)
 
-### [AUTOLOGIN_CHECKED](../AUTOLOGIN_CHECKED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED))
+### [AUTOLOGIN_CHECKED](../AUTOLOGIN_CHECKED.md#readme) ([V](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED))
 * [Variable &agrave; la ligne 30](../../subsilver/index_body.tpl#L30)
 * [Variable &agrave; la ligne 58](../../subsilver/index_body.tpl#L58)
 * [Variable &agrave; la ligne 121](../../subsilver/index_body.tpl#L121)
 * [Variable &agrave; la ligne 149](../../subsilver/index_body.tpl#L149)
 
-### [BOARD_INDEX](../BOARD_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/BOARD_INDEX))
+### [BOARD_INDEX](../BOARD_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/BOARD_INDEX))
 * [Variable &agrave; la ligne 84](../../subsilver/index_body.tpl#L84)
 
-### [CHATBOX_BOTTOM](../CHATBOX_BOTTOM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CHATBOX_BOTTOM))
+### [CHATBOX_BOTTOM](../CHATBOX_BOTTOM.md#readme) ([V](https://fa-tvars.appspot.com/var/CHATBOX_BOTTOM))
 * [Variable &agrave; la ligne 223](../../subsilver/index_body.tpl#L223)
 
-### [CHATBOX_TOP](../CHATBOX_TOP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CHATBOX_TOP))
+### [CHATBOX_TOP](../CHATBOX_TOP.md#readme) ([V](https://fa-tvars.appspot.com/var/CHATBOX_TOP))
 * [Variable &agrave; la ligne 83](../../subsilver/index_body.tpl#L83)
 
 ### [CHATTERS_LIST](../CHATTERS_LIST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CHATTERS_LIST))
@@ -47,7 +47,7 @@
 ### [JAVASCRIPT](../JAVASCRIPT.md#readme) ([V](https://fa-tvars.appspot.com/var/JAVASCRIPT))
 * [Variable &agrave; la ligne 1](../../subsilver/index_body.tpl#L1)
 
-### [L_AUTO_LOGIN](../L_AUTO_LOGIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN))
+### [L_AUTO_LOGIN](../L_AUTO_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN))
 * [Variable &agrave; la ligne 31](../../subsilver/index_body.tpl#L31)
 * [Variable &agrave; la ligne 59](../../subsilver/index_body.tpl#L59)
 * [Variable &agrave; la ligne 122](../../subsilver/index_body.tpl#L122)

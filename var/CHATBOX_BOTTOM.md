@@ -1,5 +1,7 @@
 # Variable CHATBOX_BOTTOM
-[Ajouter une description](https://fa-tvars.appspot.com/var/CHATBOX_BOTTOM)
+
+##Description[*](https://fa-tvars.appspot.com/var/CHATBOX_BOTTOM)
+Affiche la chatbox sur la page d'accueil en bas si l'option dans `PA > Modules > ChatBox | Configuration > Affichage de la chatbox` est choisie.
 
 ## Utilisations dans les templates
 

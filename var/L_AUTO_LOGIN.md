@@ -1,5 +1,9 @@
 # Variable L_AUTO_LOGIN
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN)
+Chaîne de texte.
+
+* __Contenu en français :__  `Connexion automatique`
 
 ## Utilisations dans les templates
 

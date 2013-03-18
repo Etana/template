@@ -4,7 +4,7 @@
 
 ## Variables utilisées
 
-### [BOARD_INDEX](../BOARD_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/BOARD_INDEX))
+### [BOARD_INDEX](../BOARD_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/BOARD_INDEX))
 * [Variable &agrave; la ligne 1](../../subsilver/viewforum_body.tpl#L1)
 
 ### [FOLDER_ANNOUNCE_IMG](../FOLDER_ANNOUNCE_IMG.md#readme) ([XXX](https://fa-tvars.appspot.com/var/FOLDER_ANNOUNCE_IMG))

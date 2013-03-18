@@ -4,11 +4,11 @@
 
 ## Variables utilisées
 
-### [AUTOLOGIN_CHECKED](../AUTOLOGIN_CHECKED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED))
+### [AUTOLOGIN_CHECKED](../AUTOLOGIN_CHECKED.md#readme) ([V](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED))
 * [Variable &agrave; la ligne 17](../../punbb/mod_login.tpl#L17)
 * [Variable &agrave; la ligne 37](../../punbb/mod_login.tpl#L37)
 
-### [L_AUTO_LOGIN](../L_AUTO_LOGIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN))
+### [L_AUTO_LOGIN](../L_AUTO_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN))
 * [Variable &agrave; la ligne 17](../../punbb/mod_login.tpl#L17)
 * [Variable &agrave; la ligne 37](../../punbb/mod_login.tpl#L37)
 

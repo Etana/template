@@ -7,17 +7,17 @@
 ### [AUTO_DST](../AUTO_DST.md#readme) ([V](https://fa-tvars.appspot.com/var/AUTO_DST))
 * [Variable &agrave; la ligne 132](../../punbb/index_body.tpl#L132)
 
-### [AUTOLOGIN_CHECKED](../AUTOLOGIN_CHECKED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED))
+### [AUTOLOGIN_CHECKED](../AUTOLOGIN_CHECKED.md#readme) ([V](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED))
 * [Variable &agrave; la ligne 41](../../punbb/index_body.tpl#L41)
 * [Variable &agrave; la ligne 110](../../punbb/index_body.tpl#L110)
 
-### [BOARD_INDEX](../BOARD_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/BOARD_INDEX))
+### [BOARD_INDEX](../BOARD_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/BOARD_INDEX))
 * [Variable &agrave; la ligne 53](../../punbb/index_body.tpl#L53)
 
-### [CHATBOX_BOTTOM](../CHATBOX_BOTTOM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CHATBOX_BOTTOM))
+### [CHATBOX_BOTTOM](../CHATBOX_BOTTOM.md#readme) ([V](https://fa-tvars.appspot.com/var/CHATBOX_BOTTOM))
 * [Variable &agrave; la ligne 120](../../punbb/index_body.tpl#L120)
 
-### [CHATBOX_TOP](../CHATBOX_TOP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CHATBOX_TOP))
+### [CHATBOX_TOP](../CHATBOX_TOP.md#readme) ([V](https://fa-tvars.appspot.com/var/CHATBOX_TOP))
 * [Variable &agrave; la ligne 52](../../punbb/index_body.tpl#L52)
 
 ### [CHATTERS_LIST](../CHATTERS_LIST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CHATTERS_LIST))
@@ -45,7 +45,7 @@
 ### [JAVASCRIPT](../JAVASCRIPT.md#readme) ([V](https://fa-tvars.appspot.com/var/JAVASCRIPT))
 * [Variable &agrave; la ligne 1](../../punbb/index_body.tpl#L1)
 
-### [L_AUTO_LOGIN](../L_AUTO_LOGIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN))
+### [L_AUTO_LOGIN](../L_AUTO_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN))
 * [Variable &agrave; la ligne 41](../../punbb/index_body.tpl#L41)
 * [Variable &agrave; la ligne 110](../../punbb/index_body.tpl#L110)
 
