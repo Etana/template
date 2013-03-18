@@ -23,7 +23,7 @@ Attribut de [main_page](main_page.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes[42](../tpl/src/punbb/donate.tpl#L42), [54](../tpl/src/punbb/donate.tpl#L54)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes [42](../tpl/src/punbb/donate.tpl#L42), [54](../tpl/src/punbb/donate.tpl#L54)
 
 ### Version phpBB2
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes[46](../tpl/src/subsilver/donate.tpl#L46), [59](../tpl/src/subsilver/donate.tpl#L59)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes [46](../tpl/src/subsilver/donate.tpl#L46), [59](../tpl/src/subsilver/donate.tpl#L59)

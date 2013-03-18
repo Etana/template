@@ -15,7 +15,7 @@ Attribut de [googlemap](googlemap.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ ligne[5](../tpl/src/punbb/viewonline_body.tpl#L5)
+* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ ligne [5](../tpl/src/punbb/viewonline_body.tpl#L5)
 
 ### Version phpBB2
-* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ ligne[5](../tpl/src/subsilver/viewonline_body.tpl#L5)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ ligne [5](../tpl/src/subsilver/viewonline_body.tpl#L5)

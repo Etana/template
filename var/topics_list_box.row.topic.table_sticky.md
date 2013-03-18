@@ -29,4 +29,4 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes[49](../tpl/src/punbb/topics_list_box.tpl#L49), [71](../tpl/src/punbb/topics_list_box.tpl#L71)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [49](../tpl/src/punbb/topics_list_box.tpl#L49), [71](../tpl/src/punbb/topics_list_box.tpl#L71)

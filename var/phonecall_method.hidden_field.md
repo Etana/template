@@ -20,7 +20,7 @@ Attribut de [phonecall_method](phonecall_method.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes[81](../tpl/src/punbb/donate.tpl#L81), [83](../tpl/src/punbb/donate.tpl#L83)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes [81](../tpl/src/punbb/donate.tpl#L81), [83](../tpl/src/punbb/donate.tpl#L83)
 
 ### Version phpBB2
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes[108](../tpl/src/subsilver/donate.tpl#L108), [110](../tpl/src/subsilver/donate.tpl#L110)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes [108](../tpl/src/subsilver/donate.tpl#L108), [110](../tpl/src/subsilver/donate.tpl#L110)

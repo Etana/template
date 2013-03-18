@@ -19,7 +19,7 @@ Attribut de [giefmod_index1](giefmod_index1.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ lignes[296](../tpl/src/punbb/overall_header.tpl#L296), [298](../tpl/src/punbb/overall_header.tpl#L298)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ lignes [296](../tpl/src/punbb/overall_header.tpl#L296), [298](../tpl/src/punbb/overall_header.tpl#L298)
 
 ### Version phpBB2
-* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ lignes[320](../tpl/src/subsilver/overall_header.tpl#L320), [322](../tpl/src/subsilver/overall_header.tpl#L322)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [320](../tpl/src/subsilver/overall_header.tpl#L320), [322](../tpl/src/subsilver/overall_header.tpl#L322)

@@ -13,4 +13,4 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[confirm_body](../tpl/var/punbb/confirm_body.md#readme) :__ ligne[6](../tpl/src/punbb/confirm_body.tpl#L6)
+* __[confirm_body](../tpl/var/punbb/confirm_body.md#readme) :__ ligne [6](../tpl/src/punbb/confirm_body.tpl#L6)

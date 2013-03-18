@@ -54,9 +54,9 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__ lignes[45](../tpl/src/punbb/search_results_topics.tpl#L45), [64](../tpl/src/punbb/search_results_topics.tpl#L64)
-* __[search_results_posts](../tpl/var/punbb/search_results_posts.md#readme) :__ lignes[32](../tpl/src/punbb/search_results_posts.tpl#L32), [68](../tpl/src/punbb/search_results_posts.tpl#L68)
+* __[search_results_topics](../tpl/var/punbb/search_results_topics.md#readme) :__ lignes [45](../tpl/src/punbb/search_results_topics.tpl#L45), [64](../tpl/src/punbb/search_results_topics.tpl#L64)
+* __[search_results_posts](../tpl/var/punbb/search_results_posts.md#readme) :__ lignes [32](../tpl/src/punbb/search_results_posts.tpl#L32), [68](../tpl/src/punbb/search_results_posts.tpl#L68)
 
 ### Version phpBB2
-* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes[30](../tpl/src/subsilver/search_results_topics.tpl#L30), [45](../tpl/src/subsilver/search_results_topics.tpl#L45)
-* __[search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__ lignes[14](../tpl/src/subsilver/search_results_posts.tpl#L14), [28](../tpl/src/subsilver/search_results_posts.tpl#L28)
+* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes [30](../tpl/src/subsilver/search_results_topics.tpl#L30), [45](../tpl/src/subsilver/search_results_topics.tpl#L45)
+* __[search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__ lignes [14](../tpl/src/subsilver/search_results_posts.tpl#L14), [28](../tpl/src/subsilver/search_results_posts.tpl#L28)

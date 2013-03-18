@@ -22,7 +22,7 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes[100](../tpl/src/punbb/topics_list_box.tpl#L100), [104](../tpl/src/punbb/topics_list_box.tpl#L104)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [100](../tpl/src/punbb/topics_list_box.tpl#L100), [104](../tpl/src/punbb/topics_list_box.tpl#L104)
 
 ### Version phpBB2
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes[79](../tpl/src/subsilver/topics_list_box.tpl#L79), [83](../tpl/src/subsilver/topics_list_box.tpl#L83)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [79](../tpl/src/subsilver/topics_list_box.tpl#L79), [83](../tpl/src/subsilver/topics_list_box.tpl#L83)

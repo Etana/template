@@ -17,7 +17,7 @@ Attribut de [switch_user_login_form_footer.switch_fb_connect](switch_user_login_
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne[114](../tpl/src/punbb/index_body.tpl#L114)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne [114](../tpl/src/punbb/index_body.tpl#L114)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne[164](../tpl/src/subsilver/index_body.tpl#L164)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne [164](../tpl/src/subsilver/index_body.tpl#L164)

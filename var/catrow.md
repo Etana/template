@@ -23,7 +23,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes[5](../tpl/src/punbb/index_box.tpl#L5), [57](../tpl/src/punbb/index_box.tpl#L57)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes [5](../tpl/src/punbb/index_box.tpl#L5), [57](../tpl/src/punbb/index_box.tpl#L57)
 
 ### Version phpBB2
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ lignes[20](../tpl/src/subsilver/index_box.tpl#L20), [85](../tpl/src/subsilver/index_box.tpl#L85)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ lignes [20](../tpl/src/subsilver/index_box.tpl#L20), [85](../tpl/src/subsilver/index_box.tpl#L85)

@@ -40,7 +40,7 @@ Attribut de [catrow](catrow.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes[23](../tpl/src/punbb/index_box.tpl#L23), [50](../tpl/src/punbb/index_box.tpl#L50)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes [23](../tpl/src/punbb/index_box.tpl#L23), [50](../tpl/src/punbb/index_box.tpl#L50)
 
 ### Version phpBB2
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ lignes[43](../tpl/src/subsilver/index_box.tpl#L43), [75](../tpl/src/subsilver/index_box.tpl#L75)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ lignes [43](../tpl/src/subsilver/index_box.tpl#L43), [75](../tpl/src/subsilver/index_box.tpl#L75)

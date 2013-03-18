@@ -21,4 +21,4 @@ Attribut de [catrow](catrow.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ lignes[76](../tpl/src/subsilver/index_box.tpl#L76), [83](../tpl/src/subsilver/index_box.tpl#L83)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ lignes [76](../tpl/src/subsilver/index_box.tpl#L76), [83](../tpl/src/subsilver/index_box.tpl#L83)

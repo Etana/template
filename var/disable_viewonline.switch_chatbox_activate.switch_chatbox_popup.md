@@ -22,7 +22,7 @@ Attribut de [disable_viewonline.switch_chatbox_activate](disable_viewonline.swit
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes[92](../tpl/src/punbb/index_body.tpl#L92), [97](../tpl/src/punbb/index_body.tpl#L97)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes [92](../tpl/src/punbb/index_body.tpl#L92), [97](../tpl/src/punbb/index_body.tpl#L97)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes[209](../tpl/src/subsilver/index_body.tpl#L209), [216](../tpl/src/subsilver/index_body.tpl#L216)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes [209](../tpl/src/subsilver/index_body.tpl#L209), [216](../tpl/src/subsilver/index_body.tpl#L216)

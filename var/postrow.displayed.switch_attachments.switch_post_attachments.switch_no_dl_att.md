@@ -27,7 +27,7 @@ Attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postr
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[201](../tpl/src/punbb/viewtopic_body.tpl#L201), [203](../tpl/src/punbb/viewtopic_body.tpl#L203), [212](../tpl/src/punbb/viewtopic_body.tpl#L212), [216](../tpl/src/punbb/viewtopic_body.tpl#L216)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [201](../tpl/src/punbb/viewtopic_body.tpl#L201), [203](../tpl/src/punbb/viewtopic_body.tpl#L203), [212](../tpl/src/punbb/viewtopic_body.tpl#L212), [216](../tpl/src/punbb/viewtopic_body.tpl#L216)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[195](../tpl/src/subsilver/viewtopic_body.tpl#L195), [197](../tpl/src/subsilver/viewtopic_body.tpl#L197), [206](../tpl/src/subsilver/viewtopic_body.tpl#L206), [210](../tpl/src/subsilver/viewtopic_body.tpl#L210)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [195](../tpl/src/subsilver/viewtopic_body.tpl#L195), [197](../tpl/src/subsilver/viewtopic_body.tpl#L197), [206](../tpl/src/subsilver/viewtopic_body.tpl#L206), [210](../tpl/src/subsilver/viewtopic_body.tpl#L210)

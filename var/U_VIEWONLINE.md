@@ -20,7 +20,7 @@ Adresse relative vers la page "qui est en ligne".
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne[67](../tpl/src/punbb/index_body.tpl#L67)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne [67](../tpl/src/punbb/index_body.tpl#L67)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne[179](../tpl/src/subsilver/index_body.tpl#L179)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne [179](../tpl/src/subsilver/index_body.tpl#L179)

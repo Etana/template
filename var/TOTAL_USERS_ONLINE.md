@@ -47,7 +47,7 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne[73](../tpl/src/punbb/index_body.tpl#L73)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne [73](../tpl/src/punbb/index_body.tpl#L73)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne[194](../tpl/src/subsilver/index_body.tpl#L194)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne [194](../tpl/src/subsilver/index_body.tpl#L194)

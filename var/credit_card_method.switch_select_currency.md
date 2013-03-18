@@ -24,7 +24,7 @@ Attribut de [credit_card_method](credit_card_method.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes[109](../tpl/src/punbb/donate.tpl#L109), [127](../tpl/src/punbb/donate.tpl#L127)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes [109](../tpl/src/punbb/donate.tpl#L109), [127](../tpl/src/punbb/donate.tpl#L127)
 
 ### Version phpBB2
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes[137](../tpl/src/subsilver/donate.tpl#L137), [154](../tpl/src/subsilver/donate.tpl#L154)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes [137](../tpl/src/subsilver/donate.tpl#L137), [154](../tpl/src/subsilver/donate.tpl#L154)

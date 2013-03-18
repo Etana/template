@@ -15,7 +15,7 @@ Attribut de [bot_user_row](bot_user_row.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ ligne[57](../tpl/src/punbb/viewonline_body.tpl#L57)
+* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ ligne [57](../tpl/src/punbb/viewonline_body.tpl#L57)
 
 ### Version phpBB2
-* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ ligne[39](../tpl/src/subsilver/viewonline_body.tpl#L39)
+* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ ligne [39](../tpl/src/subsilver/viewonline_body.tpl#L39)

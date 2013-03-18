@@ -17,4 +17,4 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne[145](../tpl/src/punbb/viewtopic_body.tpl#L145)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [145](../tpl/src/punbb/viewtopic_body.tpl#L145)

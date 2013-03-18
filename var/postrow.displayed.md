@@ -60,7 +60,7 @@ Attribut de [postrow](postrow.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[123](../tpl/src/punbb/viewtopic_body.tpl#L123), [250](../tpl/src/punbb/viewtopic_body.tpl#L250)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [123](../tpl/src/punbb/viewtopic_body.tpl#L123), [250](../tpl/src/punbb/viewtopic_body.tpl#L250)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[121](../tpl/src/subsilver/viewtopic_body.tpl#L121), [256](../tpl/src/subsilver/viewtopic_body.tpl#L256)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [121](../tpl/src/subsilver/viewtopic_body.tpl#L121), [256](../tpl/src/subsilver/viewtopic_body.tpl#L256)

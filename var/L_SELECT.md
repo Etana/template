@@ -13,7 +13,7 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[search_username](../tpl/var/punbb/search_username.md#readme) :__ ligne[23](../tpl/src/punbb/search_username.tpl#L23)
+* __[search_username](../tpl/var/punbb/search_username.md#readme) :__ ligne [23](../tpl/src/punbb/search_username.tpl#L23)
 
 ### Version phpBB2
-* __[search_username](../tpl/var/subsilver/search_username.md#readme) :__ ligne[18](../tpl/src/subsilver/search_username.tpl#L18)
+* __[search_username](../tpl/var/subsilver/search_username.md#readme) :__ ligne [18](../tpl/src/subsilver/search_username.tpl#L18)

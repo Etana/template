@@ -23,4 +23,4 @@ Attribut de [topics_list_box.row.bottom](topics_list_box.row.bottom.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes[111](../tpl/src/punbb/topics_list_box.tpl#L111), [113](../tpl/src/punbb/topics_list_box.tpl#L113)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [111](../tpl/src/punbb/topics_list_box.tpl#L111), [113](../tpl/src/punbb/topics_list_box.tpl#L113)

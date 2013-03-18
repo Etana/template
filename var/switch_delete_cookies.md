@@ -20,4 +20,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes[91](../tpl/src/subsilver/index_body.tpl#L91), [93](../tpl/src/subsilver/index_body.tpl#L93)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes [91](../tpl/src/subsilver/index_body.tpl#L91), [93](../tpl/src/subsilver/index_body.tpl#L93)

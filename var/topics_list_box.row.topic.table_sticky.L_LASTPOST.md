@@ -21,4 +21,4 @@ Attribut de [topics_list_box.row.topic.table_sticky](topics_list_box.row.topic.t
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne[67](../tpl/src/punbb/topics_list_box.tpl#L67)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne [67](../tpl/src/punbb/topics_list_box.tpl#L67)

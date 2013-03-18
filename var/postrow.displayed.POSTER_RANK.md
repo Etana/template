@@ -17,4 +17,4 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne[126](../tpl/src/subsilver/viewtopic_body.tpl#L126)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [126](../tpl/src/subsilver/viewtopic_body.tpl#L126)

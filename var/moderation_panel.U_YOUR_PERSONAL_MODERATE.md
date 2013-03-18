@@ -15,4 +15,4 @@ Attribut de [moderation_panel](moderation_panel.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne[439](../tpl/src/subsilver/viewtopic_body.tpl#L439)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [439](../tpl/src/subsilver/viewtopic_body.tpl#L439)

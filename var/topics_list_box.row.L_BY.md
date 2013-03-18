@@ -17,4 +17,4 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes[86](../tpl/src/punbb/topics_list_box.tpl#L86), [94](../tpl/src/punbb/topics_list_box.tpl#L94)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [86](../tpl/src/punbb/topics_list_box.tpl#L86), [94](../tpl/src/punbb/topics_list_box.tpl#L94)

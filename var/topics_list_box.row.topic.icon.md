@@ -24,4 +24,4 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes[51](../tpl/src/subsilver/topics_list_box.tpl#L51), [53](../tpl/src/subsilver/topics_list_box.tpl#L53)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [51](../tpl/src/subsilver/topics_list_box.tpl#L51), [53](../tpl/src/subsilver/topics_list_box.tpl#L53)

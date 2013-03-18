@@ -27,7 +27,7 @@ Attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postr
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[197](../tpl/src/punbb/viewtopic_body.tpl#L197), [199](../tpl/src/punbb/viewtopic_body.tpl#L199)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [197](../tpl/src/punbb/viewtopic_body.tpl#L197), [199](../tpl/src/punbb/viewtopic_body.tpl#L199)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[191](../tpl/src/subsilver/viewtopic_body.tpl#L191), [193](../tpl/src/subsilver/viewtopic_body.tpl#L193)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [191](../tpl/src/subsilver/viewtopic_body.tpl#L191), [193](../tpl/src/subsilver/viewtopic_body.tpl#L193)

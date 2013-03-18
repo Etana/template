@@ -27,7 +27,7 @@ Attribut de [switch_user_login_form_footer](switch_user_login_form_footer.md#rea
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes[112](../tpl/src/punbb/index_body.tpl#L112), [115](../tpl/src/punbb/index_body.tpl#L115)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes [112](../tpl/src/punbb/index_body.tpl#L112), [115](../tpl/src/punbb/index_body.tpl#L115)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes[137](../tpl/src/subsilver/index_body.tpl#L137), [170](../tpl/src/subsilver/index_body.tpl#L170)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes [137](../tpl/src/subsilver/index_body.tpl#L137), [170](../tpl/src/subsilver/index_body.tpl#L170)

@@ -13,4 +13,4 @@ Force l'affichage de la barre de navigation sur une ligne si l'option du `PA > A
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ ligne[267](../tpl/src/subsilver/overall_header.tpl#L267)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ ligne [267](../tpl/src/subsilver/overall_header.tpl#L267)

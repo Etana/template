@@ -23,7 +23,7 @@ Attribut de [postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus](p
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne[168](../tpl/src/punbb/viewtopic_body.tpl#L168)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [168](../tpl/src/punbb/viewtopic_body.tpl#L168)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne[159](../tpl/src/subsilver/viewtopic_body.tpl#L159)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [159](../tpl/src/subsilver/viewtopic_body.tpl#L159)

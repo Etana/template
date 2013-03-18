@@ -20,7 +20,7 @@ Attribut de [switch_on_index](switch_on_index.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes[67](../tpl/src/punbb/index_box.tpl#L67), [71](../tpl/src/punbb/index_box.tpl#L71)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes [67](../tpl/src/punbb/index_box.tpl#L67), [71](../tpl/src/punbb/index_box.tpl#L71)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes[101](../tpl/src/subsilver/index_body.tpl#L101), [103](../tpl/src/subsilver/index_body.tpl#L103)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes [101](../tpl/src/subsilver/index_body.tpl#L101), [103](../tpl/src/subsilver/index_body.tpl#L103)

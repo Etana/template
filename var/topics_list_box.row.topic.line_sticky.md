@@ -19,4 +19,4 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes[73](../tpl/src/punbb/topics_list_box.tpl#L73), [73](../tpl/src/punbb/topics_list_box.tpl#L73), [92](../tpl/src/punbb/topics_list_box.tpl#L92), [92](../tpl/src/punbb/topics_list_box.tpl#L92), [93](../tpl/src/punbb/topics_list_box.tpl#L93), [93](../tpl/src/punbb/topics_list_box.tpl#L93), [94](../tpl/src/punbb/topics_list_box.tpl#L94), [94](../tpl/src/punbb/topics_list_box.tpl#L94)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [73](../tpl/src/punbb/topics_list_box.tpl#L73), [73](../tpl/src/punbb/topics_list_box.tpl#L73), [92](../tpl/src/punbb/topics_list_box.tpl#L92), [92](../tpl/src/punbb/topics_list_box.tpl#L92), [93](../tpl/src/punbb/topics_list_box.tpl#L93), [93](../tpl/src/punbb/topics_list_box.tpl#L93), [94](../tpl/src/punbb/topics_list_box.tpl#L94), [94](../tpl/src/punbb/topics_list_box.tpl#L94)

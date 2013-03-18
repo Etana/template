@@ -24,4 +24,4 @@ Attribut de [switch_user_login_form_header](switch_user_login_form_header.md#rea
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes[21](../tpl/src/subsilver/index_body.tpl#L21), [44](../tpl/src/subsilver/index_body.tpl#L44)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes [21](../tpl/src/subsilver/index_body.tpl#L21), [44](../tpl/src/subsilver/index_body.tpl#L44)

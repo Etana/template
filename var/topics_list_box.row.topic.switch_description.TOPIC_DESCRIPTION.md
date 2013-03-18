@@ -21,7 +21,7 @@ Attribut de [topics_list_box.row.topic.switch_description](topics_list_box.row.t
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne[89](../tpl/src/punbb/topics_list_box.tpl#L89)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne [89](../tpl/src/punbb/topics_list_box.tpl#L89)
 
 ### Version phpBB2
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ ligne[64](../tpl/src/subsilver/topics_list_box.tpl#L64)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ ligne [64](../tpl/src/subsilver/topics_list_box.tpl#L64)

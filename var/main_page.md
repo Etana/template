@@ -25,7 +25,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes[23](../tpl/src/punbb/donate.tpl#L23), [60](../tpl/src/punbb/donate.tpl#L60)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes [23](../tpl/src/punbb/donate.tpl#L23), [60](../tpl/src/punbb/donate.tpl#L60)
 
 ### Version phpBB2
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes[15](../tpl/src/subsilver/donate.tpl#L15), [66](../tpl/src/subsilver/donate.tpl#L66)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes [15](../tpl/src/subsilver/donate.tpl#L15), [66](../tpl/src/subsilver/donate.tpl#L66)

@@ -19,7 +19,7 @@ Attribut de [postrow.displayed.switch_attachments](postrow.displayed.switch_atta
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne[190](../tpl/src/punbb/viewtopic_body.tpl#L190)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [190](../tpl/src/punbb/viewtopic_body.tpl#L190)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne[184](../tpl/src/subsilver/viewtopic_body.tpl#L184)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [184](../tpl/src/subsilver/viewtopic_body.tpl#L184)

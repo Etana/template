@@ -13,7 +13,7 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ ligne[67](../tpl/src/punbb/donate.tpl#L67)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ ligne [67](../tpl/src/punbb/donate.tpl#L67)
 
 ### Version phpBB2
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ ligne[77](../tpl/src/subsilver/donate.tpl#L77)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ ligne [77](../tpl/src/subsilver/donate.tpl#L77)

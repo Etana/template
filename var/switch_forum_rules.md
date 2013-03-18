@@ -21,7 +21,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[317](../tpl/src/punbb/viewtopic_body.tpl#L317), [335](../tpl/src/punbb/viewtopic_body.tpl#L335)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [317](../tpl/src/punbb/viewtopic_body.tpl#L317), [335](../tpl/src/punbb/viewtopic_body.tpl#L335)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[328](../tpl/src/subsilver/viewtopic_body.tpl#L328), [362](../tpl/src/subsilver/viewtopic_body.tpl#L362)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [328](../tpl/src/subsilver/viewtopic_body.tpl#L328), [362](../tpl/src/subsilver/viewtopic_body.tpl#L362)

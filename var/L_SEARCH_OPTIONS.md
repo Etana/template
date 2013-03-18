@@ -13,4 +13,4 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[search_body](../tpl/var/subsilver/search_body.md#readme) :__ lignes[39](../tpl/src/subsilver/search_body.tpl#L39), [77](../tpl/src/subsilver/search_body.tpl#L77)
+* __[search_body](../tpl/var/subsilver/search_body.md#readme) :__ lignes [39](../tpl/src/subsilver/search_body.tpl#L39), [77](../tpl/src/subsilver/search_body.tpl#L77)

@@ -21,7 +21,7 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[241](../tpl/src/punbb/viewtopic_body.tpl#L241), [241](../tpl/src/punbb/viewtopic_body.tpl#L241)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [241](../tpl/src/punbb/viewtopic_body.tpl#L241), [241](../tpl/src/punbb/viewtopic_body.tpl#L241)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[241](../tpl/src/subsilver/viewtopic_body.tpl#L241), [241](../tpl/src/subsilver/viewtopic_body.tpl#L241)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [241](../tpl/src/subsilver/viewtopic_body.tpl#L241), [241](../tpl/src/subsilver/viewtopic_body.tpl#L241)

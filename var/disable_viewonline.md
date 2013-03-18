@@ -37,7 +37,7 @@ Boucle contenant le qui est en ligne.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes[55](../tpl/src/punbb/index_body.tpl#L55), [103](../tpl/src/punbb/index_body.tpl#L103)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes [55](../tpl/src/punbb/index_body.tpl#L55), [103](../tpl/src/punbb/index_body.tpl#L103)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes[174](../tpl/src/subsilver/index_body.tpl#L174), [222](../tpl/src/subsilver/index_body.tpl#L222)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes [174](../tpl/src/subsilver/index_body.tpl#L174), [222](../tpl/src/subsilver/index_body.tpl#L222)

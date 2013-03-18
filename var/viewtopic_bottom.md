@@ -29,7 +29,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[265](../tpl/src/punbb/viewtopic_body.tpl#L265), [267](../tpl/src/punbb/viewtopic_body.tpl#L267)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [265](../tpl/src/punbb/viewtopic_body.tpl#L265), [267](../tpl/src/punbb/viewtopic_body.tpl#L267)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[433](../tpl/src/subsilver/viewtopic_body.tpl#L433), [435](../tpl/src/subsilver/viewtopic_body.tpl#L435), [449](../tpl/src/subsilver/viewtopic_body.tpl#L449), [464](../tpl/src/subsilver/viewtopic_body.tpl#L464)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [433](../tpl/src/subsilver/viewtopic_body.tpl#L433), [435](../tpl/src/subsilver/viewtopic_body.tpl#L435), [449](../tpl/src/subsilver/viewtopic_body.tpl#L449), [464](../tpl/src/subsilver/viewtopic_body.tpl#L464)

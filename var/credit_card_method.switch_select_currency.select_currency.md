@@ -23,7 +23,7 @@ Attribut de [credit_card_method.switch_select_currency](credit_card_method.switc
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes[116](../tpl/src/punbb/donate.tpl#L116), [118](../tpl/src/punbb/donate.tpl#L118)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes [116](../tpl/src/punbb/donate.tpl#L116), [118](../tpl/src/punbb/donate.tpl#L118)
 
 ### Version phpBB2
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes[145](../tpl/src/subsilver/donate.tpl#L145), [147](../tpl/src/subsilver/donate.tpl#L147)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes [145](../tpl/src/subsilver/donate.tpl#L145), [147](../tpl/src/subsilver/donate.tpl#L147)

@@ -13,7 +13,7 @@ Adresse URL de la librairie JavaScript jQuery.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ ligne[22](../tpl/src/punbb/overall_header.tpl#L22)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ ligne [22](../tpl/src/punbb/overall_header.tpl#L22)
 
 ### Version phpBB2
-* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ ligne[22](../tpl/src/subsilver/overall_header.tpl#L22)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ ligne [22](../tpl/src/subsilver/overall_header.tpl#L22)

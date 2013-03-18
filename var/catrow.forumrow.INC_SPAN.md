@@ -17,4 +17,4 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ ligne[51](../tpl/src/subsilver/index_box.tpl#L51)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ ligne [51](../tpl/src/subsilver/index_box.tpl#L51)

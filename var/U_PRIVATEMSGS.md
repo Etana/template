@@ -13,7 +13,7 @@ Adresse URL du popup de félicitations d'un anniversaire et d'avertissement d'un
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[greeting_popup](../tpl/var/punbb/greeting_popup.md#readme) :__ ligne[10](../tpl/src/punbb/greeting_popup.tpl#L10)
+* __[greeting_popup](../tpl/var/punbb/greeting_popup.md#readme) :__ ligne [10](../tpl/src/punbb/greeting_popup.tpl#L10)
 
 ### Version phpBB2
-* __[greeting_popup](../tpl/var/subsilver/greeting_popup.md#readme) :__ ligne[5](../tpl/src/subsilver/greeting_popup.tpl#L5)
+* __[greeting_popup](../tpl/var/subsilver/greeting_popup.md#readme) :__ ligne [5](../tpl/src/subsilver/greeting_popup.tpl#L5)
