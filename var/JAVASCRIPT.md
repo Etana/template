@@ -1,5 +1,7 @@
 # Variable JAVASCRIPT
-[Ajouter une description](https://fa-tvars.appspot.com/var/JAVASCRIPT)
+
+##Description[*](https://fa-tvars.appspot.com/var/JAVASCRIPT)
+Variable actuellement inutilisée.
 
 ## Utilisations dans les templates
 
