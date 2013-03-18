@@ -1,5 +1,9 @@
 # Variable L_OVERALL_POSTERS
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_OVERALL_POSTERS)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_OVERALL_POSTERS)
+Affiche le texte du lien de la variable [`{U_OVERALL_POSTERS}`](U_OVERALL_POSTERS.md).
+
+* __Contenu en français :__  `Top 20 des posteurs du forum`
 
 ## Utilisations dans les templates
 

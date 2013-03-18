@@ -1,5 +1,9 @@
 # Variable L_TODAY_ACTIVE
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE)
+Affiche le texte du lien de la variable [`{U_TODAY_ACTIVE}`](U_TODAY_ACTIVE.md).
+
+* __Contenu en français :__  `Sujets actifs du jour`
 
 ## Utilisations dans les templates
 
