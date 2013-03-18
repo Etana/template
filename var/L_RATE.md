@@ -1,4 +1,13 @@
 # Variable L_RATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_RATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_RATE)
 
 ## Utilisations dans les templates

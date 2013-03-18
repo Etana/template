@@ -1,4 +1,13 @@
 # Variable FOLDER_ANNOUNCE_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{FOLDER_ANNOUNCE_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/FOLDER_ANNOUNCE_IMG)
 
 ## Utilisations dans les templates

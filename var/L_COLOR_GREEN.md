@@ -1,4 +1,13 @@
 # Variable L_COLOR_GREEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COLOR_GREEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COLOR_GREEN)
 
 ## Utilisations dans les templates

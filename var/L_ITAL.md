@@ -1,4 +1,13 @@
 # Variable L_ITAL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ITAL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ITAL)
 
 ## Utilisations dans les templates

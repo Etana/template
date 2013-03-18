@@ -1,4 +1,13 @@
 # Variable V_DISABLE_HTML
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{V_DISABLE_HTML}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/V_DISABLE_HTML)
 
 ## Utilisations dans les templates

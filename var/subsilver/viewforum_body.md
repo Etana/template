@@ -83,7 +83,7 @@
 ### [L_GO](../L_GO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GO))
 * [Variable &agrave; la ligne 85](../../subsilver/viewforum_body.tpl#L85)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 9](../../subsilver/viewforum_body.tpl#L9)
 * [Variable &agrave; la ligne 47](../../subsilver/viewforum_body.tpl#L47)
 * [Variable &agrave; la ligne 68](../../subsilver/viewforum_body.tpl#L68)

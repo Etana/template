@@ -1,4 +1,13 @@
 # Variable PIC_TIME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_TIME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_TIME)
 
 ## Utilisations dans les templates

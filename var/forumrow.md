@@ -1,4 +1,14 @@
 # Variable forumrow
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN forumrow -->
+    contenu
+<!-- END forumrow -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/forumrow)
 
 ## Utilisations dans les templates

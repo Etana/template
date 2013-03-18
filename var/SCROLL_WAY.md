@@ -1,4 +1,13 @@
 # Variable SCROLL_WAY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SCROLL_WAY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SCROLL_WAY)
 
 ## Utilisations dans les templates

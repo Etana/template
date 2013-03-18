@@ -1,4 +1,14 @@
 # Variable credits_option
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN credits_option -->
+    contenu
+<!-- END credits_option -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/credits_option)
 
 ## Utilisations dans les templates

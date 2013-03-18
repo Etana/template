@@ -1,5 +1,4 @@
 # Variable switch_compat_meta.VERSION
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_compat_meta](switch_compat_meta.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_compat_meta](switch_co
     {switch_compat_meta.VERSION}
 <!-- END switch_compat_meta -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
 
 ## Utilisations dans les templates
 

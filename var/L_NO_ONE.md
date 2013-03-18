@@ -1,4 +1,13 @@
 # Variable L_NO_ONE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NO_ONE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NO_ONE)
 
 ## Utilisations dans les templates

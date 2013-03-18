@@ -1,4 +1,13 @@
 # Variable URL_BOARD_DIRECTORY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{URL_BOARD_DIRECTORY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/URL_BOARD_DIRECTORY)
 
 ## Utilisations dans les templates

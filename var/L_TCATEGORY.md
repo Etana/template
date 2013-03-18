@@ -1,4 +1,13 @@
 # Variable L_TCATEGORY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TCATEGORY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TCATEGORY)
 
 ## Utilisations dans les templates

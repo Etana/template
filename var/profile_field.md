@@ -1,4 +1,14 @@
 # Variable profile_field
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN profile_field -->
+    contenu
+<!-- END profile_field -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/profile_field)
 
 ## Utilisations dans les templates

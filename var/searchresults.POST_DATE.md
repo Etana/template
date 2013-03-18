@@ -1,5 +1,4 @@
 # Variable searchresults.POST_DATE
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [searchresults](searchresults.
     {searchresults.POST_DATE}
 <!-- END searchresults -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable L_APPROVAL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_APPROVAL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_APPROVAL)
 
 ## Utilisations dans les templates

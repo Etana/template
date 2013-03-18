@@ -1,4 +1,14 @@
 # Variable switch_pagination
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_pagination -->
+    contenu
+<!-- END switch_pagination -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_pagination)
 
 ## Utilisations dans les templates

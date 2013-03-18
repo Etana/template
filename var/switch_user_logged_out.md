@@ -1,5 +1,13 @@
 # Variable switch_user_logged_out
 
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_user_logged_out -->
+    contenu
+<!-- END switch_user_logged_out -->```
+
 ##Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_out)
 Variable de boucle ayant une valeur si l'utilisateur est déconnecté.
 

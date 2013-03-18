@@ -1,4 +1,13 @@
 # Variable BOLD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BOLD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/BOLD)
 
 ## Utilisations dans les templates

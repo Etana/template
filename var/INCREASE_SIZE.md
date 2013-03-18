@@ -1,4 +1,13 @@
 # Variable INCREASE_SIZE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INCREASE_SIZE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INCREASE_SIZE)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable searchresults.L_MINI_POST_ALT
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.L_MINI_POST_ALT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [searchresults](searchresults.
     {searchresults.L_MINI_POST_ALT}
 <!-- END searchresults -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.L_MINI_POST_ALT)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable OPTIONSITEMS_OPEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{OPTIONSITEMS_OPEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/OPTIONSITEMS_OPEN)
 
 ## Utilisations dans les templates

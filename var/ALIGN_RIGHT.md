@@ -1,4 +1,13 @@
 # Variable ALIGN_RIGHT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ALIGN_RIGHT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ALIGN_RIGHT)
 
 ## Utilisations dans les templates

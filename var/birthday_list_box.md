@@ -1,4 +1,14 @@
 # Variable birthday_list_box
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN birthday_list_box -->
+    contenu
+<!-- END birthday_list_box -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_AVATAR_ERROR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_AVATAR_ERROR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_AVATAR_ERROR)
 
 ## Utilisations dans les templates

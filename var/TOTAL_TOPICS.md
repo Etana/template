@@ -1,4 +1,13 @@
 # Variable TOTAL_TOPICS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOTAL_TOPICS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOTAL_TOPICS)
 
 ## Utilisations dans les templates

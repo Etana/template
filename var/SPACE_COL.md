@@ -1,4 +1,13 @@
 # Variable SPACE_COL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SPACE_COL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SPACE_COL)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_VIEW_COMPLETE_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_VIEW_COMPLETE_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_VIEW_COMPLETE_LIST)
 
 ## Utilisations dans les templates

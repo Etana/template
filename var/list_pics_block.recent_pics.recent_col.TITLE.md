@@ -1,5 +1,4 @@
 # Variable list_pics_block.recent_pics.recent_col.TITLE
-[Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.TITLE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [recent_col](recent_col.md#readme) se trouvant dans une boucle sur [recent_pics](recent_pics.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [recent_col](recent_col.md#rea
     <!-- END recent_pics -->
 <!-- END list_pics_block -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.TITLE)
 
 ## Utilisations dans les templates
 

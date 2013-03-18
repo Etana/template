@@ -1,4 +1,14 @@
 # Variable switch_no_messages
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_no_messages -->
+    contenu
+<!-- END switch_no_messages -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_messages)
 
 ## Utilisations dans les templates

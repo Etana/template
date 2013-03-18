@@ -1,4 +1,13 @@
 # Variable IP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IP)
 
 ## Utilisations dans les templates

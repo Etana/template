@@ -1,4 +1,13 @@
 # Variable POLLBOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLLBOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLLBOX)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable SOUS_MENU
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SOUS_MENU}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SOUS_MENU)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable U_SEARCH_USER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_SEARCH_USER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_SEARCH_USER)
 
 ## Utilisations dans les templates

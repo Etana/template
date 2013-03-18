@@ -4,7 +4,7 @@
 
 ## Variables utilisées
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 4](../../subsilver/modcp_move.tpl#L4)
 
 ### [L_LEAVESHADOW](../L_LEAVESHADOW.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LEAVESHADOW))

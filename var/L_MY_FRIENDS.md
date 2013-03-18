@@ -1,4 +1,13 @@
 # Variable L_MY_FRIENDS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MY_FRIENDS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MY_FRIENDS)
 
 ## Utilisations dans les templates

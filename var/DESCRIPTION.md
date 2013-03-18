@@ -1,4 +1,13 @@
 # Variable DESCRIPTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DESCRIPTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DESCRIPTION)
 
 ## Utilisations dans les templates

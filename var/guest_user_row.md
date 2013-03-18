@@ -1,4 +1,14 @@
 # Variable guest_user_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN guest_user_row -->
+    contenu
+<!-- END guest_user_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/guest_user_row)
 
 ## Utilisations dans les templates

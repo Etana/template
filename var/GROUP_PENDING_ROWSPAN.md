@@ -1,4 +1,13 @@
 # Variable GROUP_PENDING_ROWSPAN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GROUP_PENDING_ROWSPAN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GROUP_PENDING_ROWSPAN)
 
 ## Utilisations dans les templates

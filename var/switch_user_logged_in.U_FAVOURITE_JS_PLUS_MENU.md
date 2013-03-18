@@ -1,5 +1,4 @@
 # Variable switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_user_logged_in](switch_user_logged_in.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_user_logged_in](switch
     {switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}
 <!-- END switch_user_logged_in -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU)
 
 ## Utilisations dans les templates
 

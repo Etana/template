@@ -1,4 +1,13 @@
 # Variable SMILIES_STATUS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SMILIES_STATUS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SMILIES_STATUS)
 
 ## Utilisations dans les templates

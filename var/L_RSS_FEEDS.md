@@ -1,4 +1,13 @@
 # Variable L_RSS_FEEDS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_RSS_FEEDS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_RSS_FEEDS)
 
 ## Utilisations dans les templates

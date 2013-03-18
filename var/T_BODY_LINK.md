@@ -1,4 +1,13 @@
 # Variable T_BODY_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{T_BODY_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/T_BODY_LINK)
 
 ## Utilisations dans les templates

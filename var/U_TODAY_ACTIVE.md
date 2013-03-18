@@ -1,5 +1,12 @@
 # Variable U_TODAY_ACTIVE
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_TODAY_ACTIVE}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/U_TODAY_ACTIVE)
 Lien vers les sujets actifs du jour. 
 

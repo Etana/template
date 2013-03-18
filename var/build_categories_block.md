@@ -1,4 +1,14 @@
 # Variable build_categories_block
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN build_categories_block -->
+    contenu
+<!-- END build_categories_block -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block)
 
 ## Utilisations dans les templates

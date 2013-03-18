@@ -1,4 +1,14 @@
 # Variable display_border
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN display_border -->
+    contenu
+<!-- END display_border -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/display_border)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable POPUP_PM_YES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POPUP_PM_YES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POPUP_PM_YES)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable PIC_STYLE_CLOSE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_STYLE_CLOSE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_STYLE_CLOSE)
 
 ## Utilisations dans les templates

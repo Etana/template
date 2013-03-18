@@ -1,4 +1,13 @@
 # Variable REMOVE_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{REMOVE_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/REMOVE_LINK)
 
 ## Utilisations dans les templates

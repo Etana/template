@@ -1,5 +1,4 @@
 # Variable memberrow.GROUPS
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.GROUPS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readm
     {memberrow.GROUPS}
 <!-- END memberrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.GROUPS)
 
 ## Utilisations dans les templates
 

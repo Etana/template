@@ -1,4 +1,13 @@
 # Variable PIC_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_TITLE)
 
 ## Utilisations dans les templates

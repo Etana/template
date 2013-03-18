@@ -1,4 +1,13 @@
 # Variable L_COMMENT_TOO_LONG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COMMENT_TOO_LONG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COMMENT_TOO_LONG)
 
 ## Utilisations dans les templates

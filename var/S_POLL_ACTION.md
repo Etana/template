@@ -1,4 +1,13 @@
 # Variable S_POLL_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_POLL_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_POLL_ACTION)
 
 ## Utilisations dans les templates

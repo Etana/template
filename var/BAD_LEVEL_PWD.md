@@ -1,4 +1,13 @@
 # Variable BAD_LEVEL_PWD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BAD_LEVEL_PWD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/BAD_LEVEL_PWD)
 
 ## Utilisations dans les templates

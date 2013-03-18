@@ -1,4 +1,14 @@
 # Variable switch_subject
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_subject -->
+    contenu
+<!-- END switch_subject -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_subject)
 
 ## Utilisations dans les templates

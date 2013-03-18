@@ -1,4 +1,13 @@
 # Variable L_SOLVED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SOLVED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SOLVED)
 
 ## Utilisations dans les templates

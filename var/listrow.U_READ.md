@@ -1,5 +1,4 @@
 # Variable listrow.U_READ
-[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.U_READ)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
     {listrow.U_READ}
 <!-- END listrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.U_READ)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable LEFT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LEFT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LEFT)
 
 ## Utilisations dans les templates

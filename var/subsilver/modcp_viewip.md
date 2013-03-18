@@ -29,7 +29,7 @@
 ### [iprow.U_LOOKUP_IP](../iprow.U_LOOKUP_IP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/iprow.U_LOOKUP_IP))
 * [Variable &agrave; la ligne 69](../../subsilver/modcp_viewip.tpl#L69)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/modcp_viewip.tpl#L3)
 
 ### [L_IP](../L_IP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_IP))

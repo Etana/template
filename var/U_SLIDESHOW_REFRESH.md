@@ -1,4 +1,13 @@
 # Variable U_SLIDESHOW_REFRESH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_SLIDESHOW_REFRESH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_SLIDESHOW_REFRESH)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_user_authpost
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_user_authpost -->
+    contenu
+<!-- END switch_user_authpost -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_authpost)
 
 ## Utilisations dans les templates

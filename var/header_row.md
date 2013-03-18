@@ -1,4 +1,14 @@
 # Variable header_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN header_row -->
+    contenu
+<!-- END header_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/header_row)
 
 ## Utilisations dans les templates

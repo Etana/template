@@ -1,4 +1,13 @@
 # Variable NUFF_ROTATE270_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NUFF_ROTATE270_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NUFF_ROTATE270_CHECKED)
 
 ## Utilisations dans les templates

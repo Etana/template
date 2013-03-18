@@ -1,4 +1,13 @@
 # Variable L_NEWSLETTER_ACCEPT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NEWSLETTER_ACCEPT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NEWSLETTER_ACCEPT)
 
 ## Utilisations dans les templates

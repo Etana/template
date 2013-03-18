@@ -1,5 +1,4 @@
 # Variable switch_privmsg.switch_privmsg_group.MASS_PM
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_privmsg_group](switch_privmsg_group.md#readme) se trouvant dans une boucle sur [switch_privmsg](switch_privmsg.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_privmsg_group](switch_
     <!-- END switch_privmsg_group -->
 <!-- END switch_privmsg -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM)
 
 ## Utilisations dans les templates
 

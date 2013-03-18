@@ -4,7 +4,7 @@
 
 ## Variables utilisées
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 1](../../punbb/search_results_posts.tpl#L1)
 
 ### [L_BACK_TO_TOP](../L_BACK_TO_TOP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_BACK_TO_TOP))
@@ -13,7 +13,7 @@
 ### [L_FORUM](../L_FORUM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FORUM))
 * [Variable &agrave; la ligne 59](../../punbb/search_results_posts.tpl#L59)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 19](../../punbb/search_results_posts.tpl#L19)
 
 ### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER))

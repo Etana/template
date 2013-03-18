@@ -1,4 +1,14 @@
 # Variable picrow
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN picrow -->
+    contenu
+<!-- END picrow -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow)
 
 ## Utilisations dans les templates

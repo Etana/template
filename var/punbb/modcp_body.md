@@ -10,7 +10,7 @@
 ### [L_DELETE](../L_DELETE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_DELETE))
 * [Variable &agrave; la ligne 64](../../punbb/modcp_body.tpl#L64)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 18](../../punbb/modcp_body.tpl#L18)
 
 ### [L_LASTPOST](../L_LASTPOST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LASTPOST))

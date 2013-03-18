@@ -1,4 +1,13 @@
 # Variable PAGE_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PAGE_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PAGE_TITLE)
 
 ## Utilisations dans les templates

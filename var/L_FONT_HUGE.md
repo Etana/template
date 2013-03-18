@@ -1,4 +1,13 @@
 # Variable L_FONT_HUGE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FONT_HUGE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FONT_HUGE)
 
 ## Utilisations dans les templates

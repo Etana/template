@@ -1,4 +1,13 @@
 # Variable L_RESET
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_RESET}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_RESET)
 
 ## Utilisations dans les templates

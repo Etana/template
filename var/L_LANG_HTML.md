@@ -1,5 +1,14 @@
 # Variable L_LANG_HTML
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_LANG_HTML)
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LANG_HTML}
+```
+
+##Description[*](https://fa-tvars.appspot.com/var/L_LANG_HTML)
+Contient la langue de votre forum.
 
 ## Utilisations dans les templates
 

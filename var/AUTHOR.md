@@ -1,4 +1,13 @@
 # Variable AUTHOR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{AUTHOR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/AUTHOR)
 
 ## Utilisations dans les templates

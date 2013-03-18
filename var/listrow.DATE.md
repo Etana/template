@@ -1,5 +1,4 @@
 # Variable listrow.DATE
-[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.DATE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
     {listrow.DATE}
 <!-- END listrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.DATE)
 
 ## Utilisations dans les templates
 

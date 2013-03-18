@@ -1,5 +1,4 @@
 # Variable listrow.FROM
-[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.FROM)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
     {listrow.FROM}
 <!-- END listrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.FROM)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,14 @@
 # Variable switch_birthday
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_birthday -->
+    contenu
+<!-- END switch_birthday -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_birthday)
 
 ## Utilisations dans les templates

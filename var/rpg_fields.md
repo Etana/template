@@ -1,4 +1,14 @@
 # Variable rpg_fields
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN rpg_fields -->
+    contenu
+<!-- END rpg_fields -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/rpg_fields)
 
 ## Utilisations dans les templates

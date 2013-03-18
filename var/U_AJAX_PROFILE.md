@@ -1,4 +1,13 @@
 # Variable U_AJAX_PROFILE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_AJAX_PROFILE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_AJAX_PROFILE)
 
 ## Utilisations dans les templates

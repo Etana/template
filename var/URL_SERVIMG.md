@@ -1,4 +1,13 @@
 # Variable URL_SERVIMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{URL_SERVIMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/URL_SERVIMG)
 
 ## Utilisations dans les templates

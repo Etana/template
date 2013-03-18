@@ -1,4 +1,14 @@
 # Variable switch_description
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_description -->
+    contenu
+<!-- END switch_description -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_description)
 
 ## Utilisations dans les templates

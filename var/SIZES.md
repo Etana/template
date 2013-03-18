@@ -1,4 +1,13 @@
 # Variable SIZES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SIZES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SIZES)
 
 ## Utilisations dans les templates

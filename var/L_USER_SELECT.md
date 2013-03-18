@@ -1,4 +1,13 @@
 # Variable L_USER_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_USER_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_USER_SELECT)
 
 ## Utilisations dans les templates

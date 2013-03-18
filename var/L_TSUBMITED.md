@@ -1,4 +1,13 @@
 # Variable L_TSUBMITED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TSUBMITED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TSUBMITED)
 
 ## Utilisations dans les templates

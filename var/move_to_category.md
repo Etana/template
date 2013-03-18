@@ -1,4 +1,14 @@
 # Variable move_to_category
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN move_to_category -->
+    contenu
+<!-- END move_to_category -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/move_to_category)
 
 ## Utilisations dans les templates

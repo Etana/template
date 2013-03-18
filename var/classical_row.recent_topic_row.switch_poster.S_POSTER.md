@@ -1,5 +1,4 @@
 # Variable classical_row.recent_topic_row.switch_poster.S_POSTER
-[Ajouter une description](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster.S_POSTER)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_poster](switch_poster.md#readme) se trouvant dans une boucle sur [recent_topic_row](recent_topic_row.md#readme) se trouvant dans une boucle sur [classical_row](classical_row.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [switch_poster](switch_poster.
     <!-- END recent_topic_row -->
 <!-- END classical_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster.S_POSTER)
 
 ## Utilisations dans les templates
 

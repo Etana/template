@@ -1,4 +1,14 @@
 # Variable switch_recent
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_recent -->
+    contenu
+<!-- END switch_recent -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_recent)
 
 ## Utilisations dans les templates

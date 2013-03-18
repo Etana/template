@@ -1,5 +1,12 @@
 # Variable C1SIZE
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{C1SIZE}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/C1SIZE)
 Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 1 (gauche)`.
 

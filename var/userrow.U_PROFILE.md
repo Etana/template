@@ -1,5 +1,4 @@
 # Variable userrow.U_PROFILE
-[Ajouter une description](https://fa-tvars.appspot.com/var/userrow.U_PROFILE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).
     {userrow.U_PROFILE}
 <!-- END userrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/userrow.U_PROFILE)
 
 ## Utilisations dans les templates
 

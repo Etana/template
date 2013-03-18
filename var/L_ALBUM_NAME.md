@@ -1,4 +1,13 @@
 # Variable L_ALBUM_NAME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ALBUM_NAME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ALBUM_NAME)
 
 ## Utilisations dans les templates

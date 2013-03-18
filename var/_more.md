@@ -1,4 +1,14 @@
 # Variable _more
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN _more -->
+    contenu
+<!-- END _more -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/_more)
 
 ## Utilisations dans les templates

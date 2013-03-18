@@ -1,5 +1,4 @@
 # Variable cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES
-[Ajouter une description](https://fa-tvars.appspot.com/var/cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cat_personal_footer](cat_personal_footer.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [cat_personal_footer](cat_pers
     {cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES}
 <!-- END cat_personal_footer -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES)
 
 ## Utilisations dans les templates
 

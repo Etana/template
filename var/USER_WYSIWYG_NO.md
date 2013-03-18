@@ -1,4 +1,13 @@
 # Variable USER_WYSIWYG_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{USER_WYSIWYG_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/USER_WYSIWYG_NO)
 
 ## Utilisations dans les templates

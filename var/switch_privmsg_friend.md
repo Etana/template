@@ -1,4 +1,14 @@
 # Variable switch_privmsg_friend
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_privmsg_friend -->
+    contenu
+<!-- END switch_privmsg_friend -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_privmsg_friend)
 
 ## Utilisations dans les templates

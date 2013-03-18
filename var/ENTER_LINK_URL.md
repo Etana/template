@@ -1,4 +1,13 @@
 # Variable ENTER_LINK_URL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ENTER_LINK_URL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ENTER_LINK_URL)
 
 ## Utilisations dans les templates

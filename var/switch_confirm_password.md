@@ -1,4 +1,14 @@
 # Variable switch_confirm_password
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_confirm_password -->
+    contenu
+<!-- END switch_confirm_password -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_confirm_password)
 
 ## Utilisations dans les templates

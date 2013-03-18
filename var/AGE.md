@@ -1,4 +1,13 @@
 # Variable AGE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{AGE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/AGE)
 
 ## Utilisations dans les templates

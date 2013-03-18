@@ -13,7 +13,7 @@
 ### [L_CC_EMAIL](../L_CC_EMAIL.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_CC_EMAIL))
 * [Variable &agrave; la ligne 40](../../subsilver/profile_send_email.tpl#L40)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 4](../../subsilver/profile_send_email.tpl#L4)
 
 ### [L_MESSAGE_BODY](../L_MESSAGE_BODY.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_MESSAGE_BODY))

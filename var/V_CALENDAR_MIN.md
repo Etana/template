@@ -1,4 +1,13 @@
 # Variable V_CALENDAR_MIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{V_CALENDAR_MIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/V_CALENDAR_MIN)
 
 ## Utilisations dans les templates

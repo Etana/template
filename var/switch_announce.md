@@ -1,4 +1,14 @@
 # Variable switch_announce
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_announce -->
+    contenu
+<!-- END switch_announce -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_announce)
 
 ## Utilisations dans les templates

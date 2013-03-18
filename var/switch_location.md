@@ -1,4 +1,14 @@
 # Variable switch_location
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_location -->
+    contenu
+<!-- END switch_location -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_location)
 
 ## Utilisations dans les templates

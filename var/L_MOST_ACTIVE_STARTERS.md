@@ -1,4 +1,13 @@
 # Variable L_MOST_ACTIVE_STARTERS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MOST_ACTIVE_STARTERS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MOST_ACTIVE_STARTERS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable CALENDARITEMS_OPEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CALENDARITEMS_OPEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CALENDARITEMS_OPEN)
 
 ## Utilisations dans les templates

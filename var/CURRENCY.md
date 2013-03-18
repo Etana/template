@@ -1,4 +1,13 @@
 # Variable CURRENCY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CURRENCY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CURRENCY)
 
 ## Utilisations dans les templates

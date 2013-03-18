@@ -7,7 +7,7 @@
 ### [GOOGLE_CODE](../GOOGLE_CODE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/GOOGLE_CODE))
 * [Variable &agrave; la ligne 38](../../punbb/search_body.tpl#L38)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 1](../../punbb/search_body.tpl#L1)
 
 ### [L_DISPLAY_RESULTS](../L_DISPLAY_RESULTS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_DISPLAY_RESULTS))
@@ -16,7 +16,7 @@
 ### [L_FORUM](../L_FORUM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FORUM))
 * [Variable &agrave; la ligne 57](../../punbb/search_body.tpl#L57)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 19](../../punbb/search_body.tpl#L19)
 
 ### [L_LANG_HL](../L_LANG_HL.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LANG_HL))

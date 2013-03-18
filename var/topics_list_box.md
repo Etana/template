@@ -1,4 +1,14 @@
 # Variable topics_list_box
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN topics_list_box -->
+    contenu
+<!-- END topics_list_box -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box)
 
 ## Utilisations dans les templates

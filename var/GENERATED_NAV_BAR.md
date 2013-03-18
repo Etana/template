@@ -1,5 +1,12 @@
 # Variable GENERATED_NAV_BAR
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GENERATED_NAV_BAR}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/GENERATED_NAV_BAR)
 Affiche la barre de navigation choisie dans PA > Affichage > Page d'accueil | En-tête & Navigation > Barre de navigation`.
 

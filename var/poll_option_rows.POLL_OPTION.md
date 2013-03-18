@@ -1,5 +1,4 @@
 # Variable poll_option_rows.POLL_OPTION
-[Ajouter une description](https://fa-tvars.appspot.com/var/poll_option_rows.POLL_OPTION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [poll_option_rows](poll_option_rows.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [poll_option_rows](poll_option
     {poll_option_rows.POLL_OPTION}
 <!-- END poll_option_rows -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/poll_option_rows.POLL_OPTION)
 
 ## Utilisations dans les templates
 

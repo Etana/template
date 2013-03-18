@@ -1,4 +1,13 @@
 # Variable PREV_PIC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PREV_PIC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PREV_PIC)
 
 ## Utilisations dans les templates

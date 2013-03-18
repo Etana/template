@@ -1,4 +1,14 @@
 # Variable poll_option_rows
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN poll_option_rows -->
+    contenu
+<!-- END poll_option_rows -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option_rows)
 
 ## Utilisations dans les templates

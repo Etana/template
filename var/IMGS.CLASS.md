@@ -1,5 +1,4 @@
 # Variable IMGS.CLASS
-[Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.CLASS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).
     {IMGS.CLASS}
 <!-- END IMGS -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.CLASS)
 
 ## Utilisations dans les templates
 

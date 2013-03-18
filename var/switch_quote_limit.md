@@ -1,4 +1,14 @@
 # Variable switch_quote_limit
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_quote_limit -->
+    contenu
+<!-- END switch_quote_limit -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_quote_limit)
 
 ## Utilisations dans les templates

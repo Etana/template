@@ -1,4 +1,13 @@
 # Variable DYNAMIC_GENERATION_STATUS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DYNAMIC_GENERATION_STATUS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DYNAMIC_GENERATION_STATUS)
 
 ## Utilisations dans les templates

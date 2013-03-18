@@ -1,4 +1,13 @@
 # Variable L_EMAIL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_EMAIL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_EMAIL)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable S_MAX_WIDTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_MAX_WIDTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_MAX_WIDTH)
 
 ## Utilisations dans les templates

@@ -118,7 +118,7 @@
 * [Début de boucle &agrave; la ligne 78](../../subsilver/index_box.tpl#L78)
 * [Fin de boucle &agrave; la ligne 80](../../subsilver/index_box.tpl#L80)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 9](../../subsilver/index_box.tpl#L9)
 
 ### [L_LASTPOST](../L_LASTPOST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LASTPOST))

@@ -1,4 +1,14 @@
 # Variable switch_manual_thumbnail
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_manual_thumbnail -->
+    contenu
+<!-- END switch_manual_thumbnail -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_manual_thumbnail)
 
 ## Utilisations dans les templates

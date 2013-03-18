@@ -1,4 +1,13 @@
 # Variable UNAPPROVAL_BUTTON
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{UNAPPROVAL_BUTTON}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/UNAPPROVAL_BUTTON)
 
 ## Utilisations dans les templates

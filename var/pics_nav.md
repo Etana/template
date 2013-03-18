@@ -1,4 +1,14 @@
 # Variable pics_nav
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN pics_nav -->
+    contenu
+<!-- END pics_nav -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav)
 
 ## Utilisations dans les templates

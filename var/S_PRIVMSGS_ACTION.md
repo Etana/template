@@ -1,4 +1,13 @@
 # Variable S_PRIVMSGS_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_PRIVMSGS_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_PRIVMSGS_ACTION)
 
 ## Utilisations dans les templates

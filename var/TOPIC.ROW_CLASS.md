@@ -1,5 +1,4 @@
 # Variable TOPIC.ROW_CLASS
-[Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC.ROW_CLASS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [TOPIC](TOPIC.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [TOPIC](TOPIC.md#readme).
     {TOPIC.ROW_CLASS}
 <!-- END TOPIC -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC.ROW_CLASS)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable SORT_DESC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SORT_DESC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SORT_DESC)
 
 ## Utilisations dans les templates

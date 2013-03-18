@@ -1,5 +1,4 @@
 # Variable switch_roll_dice.L_DICE_ROLLS
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice.L_DICE_ROLLS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_roll_dice](switch_roll_dice.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_roll_dice](switch_roll
     {switch_roll_dice.L_DICE_ROLLS}
 <!-- END switch_roll_dice -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice.L_DICE_ROLLS)
 
 ## Utilisations dans les templates
 

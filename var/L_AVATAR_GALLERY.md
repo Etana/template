@@ -1,4 +1,13 @@
 # Variable L_AVATAR_GALLERY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_AVATAR_GALLERY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_AVATAR_GALLERY)
 
 ## Utilisations dans les templates

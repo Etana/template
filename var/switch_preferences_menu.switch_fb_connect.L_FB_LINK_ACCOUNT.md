@@ -1,5 +1,4 @@
 # Variable switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_connect](switch_fb_connect.md#readme) se trouvant dans une boucle sur [switch_preferences_menu](switch_preferences_menu.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_fb_connect](switch_fb_
     <!-- END switch_fb_connect -->
 <!-- END switch_preferences_menu -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT)
 
 ## Utilisations dans les templates
 

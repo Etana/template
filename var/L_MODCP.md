@@ -1,4 +1,13 @@
 # Variable L_MODCP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MODCP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MODCP)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_bbcode_checkbox
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_bbcode_checkbox -->
+    contenu
+<!-- END switch_bbcode_checkbox -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_bbcode_checkbox)
 
 ## Utilisations dans les templates

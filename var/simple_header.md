@@ -1,4 +1,14 @@
 # Variable simple_header
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN simple_header -->
+    contenu
+<!-- END simple_header -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/simple_header)
 
 ## Utilisations dans les templates

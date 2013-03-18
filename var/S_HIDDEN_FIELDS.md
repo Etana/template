@@ -1,5 +1,12 @@
 # Variable S_HIDDEN_FIELDS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_HIDDEN_FIELDS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/S_HIDDEN_FIELDS)
 Champs non visible du formulaire.
 

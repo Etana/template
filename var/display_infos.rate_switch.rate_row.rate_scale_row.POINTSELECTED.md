@@ -1,5 +1,4 @@
 # Variable display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED
-[Ajouter une description](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [rate_scale_row](rate_scale_row.md#readme) se trouvant dans une boucle sur [rate_row](rate_row.md#readme) se trouvant dans une boucle sur [rate_switch](rate_switch.md#readme) se trouvant dans une boucle sur [display_infos](display_infos.md#readme).
@@ -15,6 +14,9 @@ Cette variable est utilisable dans une boucle sur [rate_scale_row](rate_scale_ro
     <!-- END rate_switch -->
 <!-- END display_infos -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED)
 
 ## Utilisations dans les templates
 

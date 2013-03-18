@@ -1,4 +1,13 @@
 # Variable SORT_ASC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SORT_ASC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SORT_ASC)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_td_group
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_td_group -->
+    contenu
+<!-- END switch_td_group -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_td_group)
 
 ## Utilisations dans les templates

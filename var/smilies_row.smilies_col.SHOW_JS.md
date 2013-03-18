@@ -1,5 +1,4 @@
 # Variable smilies_row.smilies_col.SHOW_JS
-[Ajouter une description](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SHOW_JS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [smilies_col](smilies_col.md#readme) se trouvant dans une boucle sur [smilies_row](smilies_row.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [smilies_col](smilies_col.md#r
     <!-- END smilies_col -->
 <!-- END smilies_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SHOW_JS)
 
 ## Utilisations dans les templates
 

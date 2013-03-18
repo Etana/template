@@ -1,4 +1,13 @@
 # Variable V_SUBMIT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{V_SUBMIT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/V_SUBMIT)
 
 ## Utilisations dans les templates

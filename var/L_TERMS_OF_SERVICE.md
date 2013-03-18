@@ -1,4 +1,13 @@
 # Variable L_TERMS_OF_SERVICE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TERMS_OF_SERVICE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TERMS_OF_SERVICE)
 
 ## Utilisations dans les templates

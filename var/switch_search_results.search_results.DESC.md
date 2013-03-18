@@ -1,5 +1,4 @@
 # Variable switch_search_results.search_results.DESC
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_search_results.search_results.DESC)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [search_results](search_results.md#readme) se trouvant dans une boucle sur [switch_search_results](switch_search_results.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [search_results](search_result
     <!-- END search_results -->
 <!-- END switch_search_results -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_search_results.search_results.DESC)
 
 ## Utilisations dans les templates
 

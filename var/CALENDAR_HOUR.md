@@ -1,4 +1,13 @@
 # Variable CALENDAR_HOUR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CALENDAR_HOUR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CALENDAR_HOUR)
 
 ## Utilisations dans les templates

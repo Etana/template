@@ -1,4 +1,13 @@
 # Variable L_MAILTO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MAILTO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MAILTO)
 
 ## Utilisations dans les templates

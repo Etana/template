@@ -1,4 +1,13 @@
 # Variable CUT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CUT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CUT)
 
 ## Utilisations dans les templates

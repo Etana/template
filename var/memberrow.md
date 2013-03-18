@@ -1,4 +1,14 @@
 # Variable memberrow
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN memberrow -->
+    contenu
+<!-- END memberrow -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable URL_FORUM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{URL_FORUM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/URL_FORUM)
 
 ## Utilisations dans les templates

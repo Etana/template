@@ -1,4 +1,13 @@
 # Variable PIC_ID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_ID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_ID)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable U_FRAME_CHATBOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_FRAME_CHATBOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX)
 
 ## Utilisations dans les templates

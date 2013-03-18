@@ -1,4 +1,14 @@
 # Variable switch_attachments
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_attachments -->
+    contenu
+<!-- END switch_attachments -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachments)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable ROLL_DICE_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ROLL_DICE_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ROLL_DICE_TITLE)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable classical_row.recent_topic_row.S_POSTTIME
-[Ajouter une description](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.S_POSTTIME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [recent_topic_row](recent_topic_row.md#readme) se trouvant dans une boucle sur [classical_row](classical_row.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [recent_topic_row](recent_topi
     <!-- END recent_topic_row -->
 <!-- END classical_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.S_POSTTIME)
 
 ## Utilisations dans les templates
 

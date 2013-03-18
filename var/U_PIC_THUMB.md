@@ -1,4 +1,13 @@
 # Variable U_PIC_THUMB
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_PIC_THUMB}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_PIC_THUMB)
 
 ## Utilisations dans les templates

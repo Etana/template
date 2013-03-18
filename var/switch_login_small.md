@@ -1,4 +1,14 @@
 # Variable switch_login_small
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_login_small -->
+    contenu
+<!-- END switch_login_small -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_login_small)
 
 ## Utilisations dans les templates

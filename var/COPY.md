@@ -1,4 +1,13 @@
 # Variable COPY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{COPY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/COPY)
 
 ## Utilisations dans les templates

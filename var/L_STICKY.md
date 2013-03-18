@@ -1,4 +1,13 @@
 # Variable L_STICKY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_STICKY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_STICKY)
 
 ## Utilisations dans les templates

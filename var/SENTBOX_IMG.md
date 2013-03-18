@@ -1,4 +1,13 @@
 # Variable SENTBOX_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SENTBOX_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SENTBOX_IMG)
 
 ## Utilisations dans les templates

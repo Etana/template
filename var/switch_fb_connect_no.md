@@ -1,4 +1,14 @@
 # Variable switch_fb_connect_no
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_fb_connect_no -->
+    contenu
+<!-- END switch_fb_connect_no -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_connect_no)
 
 ## Utilisations dans les templates

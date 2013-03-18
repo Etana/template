@@ -1,4 +1,13 @@
 # Variable IMG_INTERLACE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_INTERLACE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_INTERLACE)
 
 ## Utilisations dans les templates

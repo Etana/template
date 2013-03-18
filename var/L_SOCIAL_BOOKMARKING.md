@@ -1,4 +1,13 @@
 # Variable L_SOCIAL_BOOKMARKING
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SOCIAL_BOOKMARKING}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable no_post
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN no_post -->
+    contenu
+<!-- END no_post -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_post)
 
 ## Utilisations dans les templates

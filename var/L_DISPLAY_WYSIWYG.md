@@ -1,4 +1,13 @@
 # Variable L_DISPLAY_WYSIWYG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DISPLAY_WYSIWYG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DISPLAY_WYSIWYG)
 
 ## Utilisations dans les templates

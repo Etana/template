@@ -1,4 +1,13 @@
 # Variable L_REPORTER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_REPORTER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_REPORTER)
 
 ## Utilisations dans les templates

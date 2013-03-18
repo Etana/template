@@ -84,7 +84,7 @@
 ### [L_FORUM](../L_FORUM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FORUM))
 * [Variable &agrave; la ligne 14](../../punbb/index_box.tpl#L14)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 2](../../punbb/index_box.tpl#L2)
 
 ### [L_LASTPOST](../L_LASTPOST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LASTPOST))

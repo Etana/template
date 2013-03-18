@@ -1,4 +1,13 @@
 # Variable L_VIEWING_PROFILE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_VIEWING_PROFILE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_VIEWING_PROFILE)
 
 ## Utilisations dans les templates

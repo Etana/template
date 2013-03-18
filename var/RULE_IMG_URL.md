@@ -1,4 +1,13 @@
 # Variable RULE_IMG_URL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{RULE_IMG_URL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/RULE_IMG_URL)
 
 ## Utilisations dans les templates

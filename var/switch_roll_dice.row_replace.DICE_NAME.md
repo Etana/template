@@ -1,5 +1,4 @@
 # Variable switch_roll_dice.row_replace.DICE_NAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace.DICE_NAME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row_replace](row_replace.md#readme) se trouvant dans une boucle sur [switch_roll_dice](switch_roll_dice.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [row_replace](row_replace.md#r
     <!-- END row_replace -->
 <!-- END switch_roll_dice -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace.DICE_NAME)
 
 ## Utilisations dans les templates
 

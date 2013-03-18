@@ -1,4 +1,13 @@
 # Variable POLL_HIDE_RESULT_UNCHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLL_HIDE_RESULT_UNCHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLL_HIDE_RESULT_UNCHECKED)
 
 ## Utilisations dans les templates

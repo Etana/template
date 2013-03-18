@@ -1,5 +1,12 @@
 # Variable L_TODAY_POSTERS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TODAY_POSTERS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_TODAY_POSTERS)
 Affiche le texte du lien de la variable [`{U_TODAY_POSTERS}`](U_TODAY_POSTERS.md#readme).
 

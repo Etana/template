@@ -1,4 +1,13 @@
 # Variable L_FROM_OR_TO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FROM_OR_TO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FROM_OR_TO)
 
 ## Utilisations dans les templates

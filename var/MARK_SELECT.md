@@ -1,4 +1,13 @@
 # Variable MARK_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MARK_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MARK_SELECT)
 
 ## Utilisations dans les templates

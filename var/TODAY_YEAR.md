@@ -1,4 +1,13 @@
 # Variable TODAY_YEAR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TODAY_YEAR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TODAY_YEAR)
 
 ## Utilisations dans les templates

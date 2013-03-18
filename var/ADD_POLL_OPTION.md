@@ -1,4 +1,13 @@
 # Variable ADD_POLL_OPTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ADD_POLL_OPTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ADD_POLL_OPTION)
 
 ## Utilisations dans les templates

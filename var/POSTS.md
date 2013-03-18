@@ -1,4 +1,13 @@
 # Variable POSTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POSTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POSTS)
 
 ## Utilisations dans les templates

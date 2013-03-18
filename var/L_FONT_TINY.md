@@ -1,4 +1,13 @@
 # Variable L_FONT_TINY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FONT_TINY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FONT_TINY)
 
 ## Utilisations dans les templates

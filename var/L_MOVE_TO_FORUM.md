@@ -1,4 +1,13 @@
 # Variable L_MOVE_TO_FORUM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MOVE_TO_FORUM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MOVE_TO_FORUM)
 
 ## Utilisations dans les templates

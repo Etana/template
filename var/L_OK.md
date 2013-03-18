@@ -1,4 +1,13 @@
 # Variable L_OK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_OK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_OK)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable ROLL_DICE_TITLE_LOW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ROLL_DICE_TITLE_LOW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ROLL_DICE_TITLE_LOW)
 
 ## Utilisations dans les templates

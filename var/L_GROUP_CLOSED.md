@@ -1,4 +1,13 @@
 # Variable L_GROUP_CLOSED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_GROUP_CLOSED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_GROUP_CLOSED)
 
 ## Utilisations dans les templates

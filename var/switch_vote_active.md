@@ -1,4 +1,14 @@
 # Variable switch_vote_active
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_vote_active -->
+    contenu
+<!-- END switch_vote_active -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_vote_active)
 
 ## Utilisations dans les templates

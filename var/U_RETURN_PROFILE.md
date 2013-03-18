@@ -1,4 +1,13 @@
 # Variable U_RETURN_PROFILE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_RETURN_PROFILE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_RETURN_PROFILE)
 
 ## Utilisations dans les templates

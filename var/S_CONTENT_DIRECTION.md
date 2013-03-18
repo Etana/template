@@ -1,4 +1,13 @@
 # Variable S_CONTENT_DIRECTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_CONTENT_DIRECTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION)
 
 ## Utilisations dans les templates

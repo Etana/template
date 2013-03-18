@@ -1,4 +1,13 @@
 # Variable BOX_SIZE_STATUS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BOX_SIZE_STATUS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/BOX_SIZE_STATUS)
 
 ## Utilisations dans les templates

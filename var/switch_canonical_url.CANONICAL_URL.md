@@ -1,5 +1,4 @@
 # Variable switch_canonical_url.CANONICAL_URL
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_canonical_url.CANONICAL_URL)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_canonical_url](switch_canonical_url.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_canonical_url](switch_
     {switch_canonical_url.CANONICAL_URL}
 <!-- END switch_canonical_url -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_canonical_url.CANONICAL_URL)
 
 ## Utilisations dans les templates
 

@@ -1,5 +1,4 @@
 # Variable profile_field.CONTENT
-[Ajouter une description](https://fa-tvars.appspot.com/var/profile_field.CONTENT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [profile_field](profile_field.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [profile_field](profile_field.
     {profile_field.CONTENT}
 <!-- END profile_field -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/profile_field.CONTENT)
 
 ## Utilisations dans les templates
 

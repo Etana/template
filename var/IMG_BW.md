@@ -1,4 +1,13 @@
 # Variable IMG_BW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_BW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_BW)
 
 ## Utilisations dans les templates

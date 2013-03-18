@@ -1,4 +1,13 @@
 # Variable L_TTITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TTITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TTITLE)
 
 ## Utilisations dans les templates

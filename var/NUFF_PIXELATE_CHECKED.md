@@ -1,4 +1,13 @@
 # Variable NUFF_PIXELATE_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NUFF_PIXELATE_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NUFF_PIXELATE_CHECKED)
 
 ## Utilisations dans les templates

@@ -16,7 +16,7 @@
 ### [L_FORUM](../L_FORUM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FORUM))
 * [Variable &agrave; la ligne 20](../../subsilver/search_results_topics.tpl#L20)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 8](../../subsilver/search_results_topics.tpl#L8)
 
 ### [L_LASTPOST](../L_LASTPOST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LASTPOST))

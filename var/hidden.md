@@ -1,4 +1,14 @@
 # Variable hidden
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN hidden -->
+    contenu
+<!-- END hidden -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/hidden)
 
 ## Utilisations dans les templates

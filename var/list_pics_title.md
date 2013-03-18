@@ -1,4 +1,14 @@
 # Variable list_pics_title
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN list_pics_title -->
+    contenu
+<!-- END list_pics_title -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_title)
 
 ## Utilisations dans les templates

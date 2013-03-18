@@ -1,4 +1,13 @@
 # Variable MAX_TOPIC_LENGTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MAX_TOPIC_LENGTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MAX_TOPIC_LENGTH)
 
 ## Utilisations dans les templates

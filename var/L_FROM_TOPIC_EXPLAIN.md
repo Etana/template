@@ -1,4 +1,13 @@
 # Variable L_FROM_TOPIC_EXPLAIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FROM_TOPIC_EXPLAIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FROM_TOPIC_EXPLAIN)
 
 ## Utilisations dans les templates

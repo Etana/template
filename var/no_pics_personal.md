@@ -1,4 +1,14 @@
 # Variable no_pics_personal
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN no_pics_personal -->
+    contenu
+<!-- END no_pics_personal -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_pics_personal)
 
 ## Utilisations dans les templates

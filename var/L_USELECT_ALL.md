@@ -1,4 +1,13 @@
 # Variable L_USELECT_ALL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_USELECT_ALL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_USELECT_ALL)
 
 ## Utilisations dans les templates

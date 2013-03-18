@@ -1,4 +1,14 @@
 # Variable switch_search_results
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_search_results -->
+    contenu
+<!-- END switch_search_results -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_search_results)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_SELECT_SUM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SELECT_SUM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SELECT_SUM)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable build_categories_block.personal_sort_block.L_SORT
-[Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.L_SORT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [personal_sort_block](personal_sort_block.md#readme) se trouvant dans une boucle sur [build_categories_block](build_categories_block.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [personal_sort_block](personal
     <!-- END personal_sort_block -->
 <!-- END build_categories_block -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.L_SORT)
 
 ## Utilisations dans les templates
 

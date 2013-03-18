@@ -1,4 +1,13 @@
 # Variable NOTIFY_PM_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NOTIFY_PM_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NOTIFY_PM_NO)
 
 ## Utilisations dans les templates

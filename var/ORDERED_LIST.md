@@ -1,4 +1,13 @@
 # Variable ORDERED_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ORDERED_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ORDERED_LIST)
 
 ## Utilisations dans les templates

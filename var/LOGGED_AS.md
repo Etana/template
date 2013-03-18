@@ -1,4 +1,13 @@
 # Variable LOGGED_AS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LOGGED_AS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LOGGED_AS)
 
 ## Utilisations dans les templates

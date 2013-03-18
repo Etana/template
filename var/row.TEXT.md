@@ -1,5 +1,4 @@
 # Variable row.TEXT
-[Ajouter une description](https://fa-tvars.appspot.com/var/row.TEXT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [row](row.md#readme).
     {row.TEXT}
 <!-- END row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/row.TEXT)
 
 ## Utilisations dans les templates
 

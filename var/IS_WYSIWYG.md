@@ -1,4 +1,13 @@
 # Variable IS_WYSIWYG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IS_WYSIWYG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IS_WYSIWYG)
 
 ## Utilisations dans les templates

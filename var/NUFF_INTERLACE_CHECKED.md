@@ -1,4 +1,13 @@
 # Variable NUFF_INTERLACE_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NUFF_INTERLACE_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NUFF_INTERLACE_CHECKED)
 
 ## Utilisations dans les templates

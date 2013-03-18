@@ -1,5 +1,4 @@
 # Variable pending_members_row.U_VIEWPROFILE
-[Ajouter une description](https://fa-tvars.appspot.com/var/pending_members_row.U_VIEWPROFILE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [pending_members_row](pending_members_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [pending_members_row](pending_
     {pending_members_row.U_VIEWPROFILE}
 <!-- END pending_members_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/pending_members_row.U_VIEWPROFILE)
 
 ## Utilisations dans les templates
 

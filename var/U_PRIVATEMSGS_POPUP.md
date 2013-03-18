@@ -1,4 +1,13 @@
 # Variable U_PRIVATEMSGS_POPUP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_PRIVATEMSGS_POPUP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS_POPUP)
 
 ## Utilisations dans les templates

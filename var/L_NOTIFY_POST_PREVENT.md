@@ -1,4 +1,13 @@
 # Variable L_NOTIFY_POST_PREVENT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NOTIFY_POST_PREVENT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NOTIFY_POST_PREVENT)
 
 ## Utilisations dans les templates

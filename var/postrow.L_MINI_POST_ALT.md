@@ -1,5 +1,4 @@
 # Variable postrow.L_MINI_POST_ALT
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.L_MINI_POST_ALT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
     {postrow.L_MINI_POST_ALT}
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.L_MINI_POST_ALT)
 
 ## Utilisations dans les templates
 

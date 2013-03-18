@@ -1,4 +1,13 @@
 # Variable L_CURRENT_IMAGE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CURRENT_IMAGE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CURRENT_IMAGE)
 
 ## Utilisations dans les templates

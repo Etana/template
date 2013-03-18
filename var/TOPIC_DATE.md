@@ -1,4 +1,13 @@
 # Variable TOPIC_DATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOPIC_DATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC_DATE)
 
 ## Utilisations dans les templates

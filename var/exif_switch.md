@@ -1,4 +1,14 @@
 # Variable exif_switch
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN exif_switch -->
+    contenu
+<!-- END exif_switch -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/exif_switch)
 
 ## Utilisations dans les templates

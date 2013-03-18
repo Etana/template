@@ -1,4 +1,13 @@
 # Variable JSPWD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{JSPWD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/JSPWD)
 
 ## Utilisations dans les templates

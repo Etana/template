@@ -1,4 +1,14 @@
 # Variable hidden_field
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN hidden_field -->
+    contenu
+<!-- END hidden_field -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/hidden_field)
 
 ## Utilisations dans les templates

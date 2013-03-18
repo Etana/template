@@ -4,13 +4,13 @@
 
 ## Variables utilisées
 
-### [JQUERY_PATH](../JQUERY_PATH.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JQUERY_PATH))
+### [JQUERY_PATH](../JQUERY_PATH.md#readme) ([V](https://fa-tvars.appspot.com/var/JQUERY_PATH))
 * [Variable &agrave; la ligne 8](../../subsilver/posting_smilies_wysiwyg.tpl#L8)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 9](../../subsilver/posting_smilies_wysiwyg.tpl#L9)
 
-### [L_LANG](../L_LANG.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LANG))
+### [L_LANG](../L_LANG.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LANG))
 * [Variable &agrave; la ligne 9](../../subsilver/posting_smilies_wysiwyg.tpl#L9)
 
 ### [L_SMILIES_TITLE](../L_SMILIES_TITLE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_SMILIES_TITLE))

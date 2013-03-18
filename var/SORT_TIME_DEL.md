@@ -1,4 +1,13 @@
 # Variable SORT_TIME_DEL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SORT_TIME_DEL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SORT_TIME_DEL)
 
 ## Utilisations dans les templates

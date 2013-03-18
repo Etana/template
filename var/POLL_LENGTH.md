@@ -1,4 +1,13 @@
 # Variable POLL_LENGTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLL_LENGTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLL_LENGTH)
 
 ## Utilisations dans les templates

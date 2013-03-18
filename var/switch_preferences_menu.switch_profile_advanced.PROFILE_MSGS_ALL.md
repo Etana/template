@@ -1,5 +1,4 @@
 # Variable switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_profile_advanced](switch_profile_advanced.md#readme) se trouvant dans une boucle sur [switch_preferences_menu](switch_preferences_menu.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_profile_advanced](swit
     <!-- END switch_profile_advanced -->
 <!-- END switch_preferences_menu -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL)
 
 ## Utilisations dans les templates
 

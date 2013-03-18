@@ -1,5 +1,4 @@
 # Variable giefmod_index1.MODVAR
-[Ajouter une description](https://fa-tvars.appspot.com/var/giefmod_index1.MODVAR)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [giefmod_index1](giefmod_index1.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [giefmod_index1](giefmod_index
     {giefmod_index1.MODVAR}
 <!-- END giefmod_index1 -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/giefmod_index1.MODVAR)
 
 ## Utilisations dans les templates
 

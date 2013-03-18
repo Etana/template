@@ -1,4 +1,14 @@
 # Variable album_pagination
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN album_pagination -->
+    contenu
+<!-- END album_pagination -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/album_pagination)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_ADD_OPTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ADD_OPTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ADD_OPTION)
 
 ## Utilisations dans les templates

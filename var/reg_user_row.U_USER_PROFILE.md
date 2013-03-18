@@ -1,5 +1,4 @@
 # Variable reg_user_row.U_USER_PROFILE
-[Ajouter une description](https://fa-tvars.appspot.com/var/reg_user_row.U_USER_PROFILE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [reg_user_row](reg_user_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [reg_user_row](reg_user_row.md
     {reg_user_row.U_USER_PROFILE}
 <!-- END reg_user_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/reg_user_row.U_USER_PROFILE)
 
 ## Utilisations dans les templates
 

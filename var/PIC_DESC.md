@@ -1,4 +1,13 @@
 # Variable PIC_DESC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_DESC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_DESC)
 
 ## Utilisations dans les templates

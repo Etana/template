@@ -1,5 +1,12 @@
 # Variable U_TODAY_POSTERS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_TODAY_POSTERS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/U_TODAY_POSTERS)
 Lien vers le top 20 des posteurs du jour.
 

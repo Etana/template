@@ -1,5 +1,4 @@
 # Variable promot_trafic.link.TITLE
-[Ajouter une description](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [link](link.md#readme) se trouvant dans une boucle sur [promot_trafic](promot_trafic.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [link](link.md#readme) se trou
     <!-- END link -->
 <!-- END promot_trafic -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
 
 ## Utilisations dans les templates
 

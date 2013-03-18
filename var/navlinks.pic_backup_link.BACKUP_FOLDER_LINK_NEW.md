@@ -1,5 +1,4 @@
 # Variable navlinks.pic_backup_link.BACKUP_FOLDER_LINK_NEW
-[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link.BACKUP_FOLDER_LINK_NEW)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [pic_backup_link](pic_backup_link.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [pic_backup_link](pic_backup_l
     <!-- END pic_backup_link -->
 <!-- END navlinks -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link.BACKUP_FOLDER_LINK_NEW)
 
 ## Utilisations dans les templates
 

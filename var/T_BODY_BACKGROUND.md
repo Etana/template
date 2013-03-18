@@ -1,4 +1,13 @@
 # Variable T_BODY_BACKGROUND
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{T_BODY_BACKGROUND}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/T_BODY_BACKGROUND)
 
 ## Utilisations dans les templates

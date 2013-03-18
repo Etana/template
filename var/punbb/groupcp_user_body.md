@@ -16,7 +16,7 @@
 ### [L_GROUP_MEMBERSHIP_DETAILS](../L_GROUP_MEMBERSHIP_DETAILS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GROUP_MEMBERSHIP_DETAILS))
 * [Variable &agrave; la ligne 26](../../punbb/groupcp_user_body.tpl#L26)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 18](../../punbb/groupcp_user_body.tpl#L18)
 
 ### [L_JOIN_A_GROUP](../L_JOIN_A_GROUP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_JOIN_A_GROUP))

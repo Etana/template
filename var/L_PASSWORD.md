@@ -1,5 +1,12 @@
 # Variable L_PASSWORD
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PASSWORD}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_PASSWORD)
 Chaîne de texte.
 

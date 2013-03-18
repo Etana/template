@@ -1,4 +1,13 @@
 # Variable S_ALBUM_JUMPBOX_SEPERATOR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_ALBUM_JUMPBOX_SEPERATOR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_SEPERATOR)
 
 ## Utilisations dans les templates

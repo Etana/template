@@ -1,4 +1,13 @@
 # Variable L_SELECT_A_GROUP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SELECT_A_GROUP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SELECT_A_GROUP)
 
 ## Utilisations dans les templates

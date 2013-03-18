@@ -31,7 +31,7 @@
 ### [L_DESC](../L_DESC.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_DESC))
 * [Variable &agrave; la ligne 117](../../subsilver/album_moderate_body.tpl#L117)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 58](../../subsilver/album_moderate_body.tpl#L58)
 
 ### [L_LOCK](../L_LOCK.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOCK))

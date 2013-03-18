@@ -1,4 +1,14 @@
 # Variable icon
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN icon -->
+    contenu
+<!-- END icon -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/icon)
 
 ## Utilisations dans les templates

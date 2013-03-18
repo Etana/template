@@ -1,4 +1,13 @@
 # Variable S_MAX_FILE_UPLOADS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_MAX_FILE_UPLOADS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_MAX_FILE_UPLOADS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable PIC_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_LIST)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_topic_button
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_topic_button -->
+    contenu
+<!-- END switch_topic_button -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_topic_button)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable V_CAL_DUR_HOUR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{V_CAL_DUR_HOUR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/V_CAL_DUR_HOUR)
 
 ## Utilisations dans les templates

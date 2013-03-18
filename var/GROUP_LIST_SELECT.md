@@ -1,4 +1,13 @@
 # Variable GROUP_LIST_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GROUP_LIST_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GROUP_LIST_SELECT)
 
 ## Utilisations dans les templates

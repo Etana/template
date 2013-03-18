@@ -1,4 +1,13 @@
 # Variable L_COMMENT_NO_TEXT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COMMENT_NO_TEXT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COMMENT_NO_TEXT)
 
 ## Utilisations dans les templates

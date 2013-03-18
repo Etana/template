@@ -1,4 +1,14 @@
 # Variable switch_tell_friend
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_tell_friend -->
+    contenu
+<!-- END switch_tell_friend -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_tell_friend)
 
 ## Utilisations dans les templates

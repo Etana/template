@@ -1,4 +1,13 @@
 # Variable ADD_FIELD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ADD_FIELD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ADD_FIELD)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable POSTER.ROW_CLASS
-[Ajouter une description](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [POSTER](POSTER.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [POSTER](POSTER.md#readme).
     {POSTER.ROW_CLASS}
 <!-- END POSTER -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS)
 
 ## Utilisations dans les templates
 

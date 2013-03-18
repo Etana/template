@@ -1,4 +1,13 @@
 # Variable JS_MULTIQUOTE_IMG_ON
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{JS_MULTIQUOTE_IMG_ON}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/JS_MULTIQUOTE_IMG_ON)
 
 ## Utilisations dans les templates

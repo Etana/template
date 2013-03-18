@@ -1,5 +1,4 @@
 # Variable searchresults.NEWEST_POST_IMG
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.NEWEST_POST_IMG)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [searchresults](searchresults.
     {searchresults.NEWEST_POST_IMG}
 <!-- END searchresults -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.NEWEST_POST_IMG)
 
 ## Utilisations dans les templates
 

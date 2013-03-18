@@ -1,5 +1,4 @@
 # Variable list_pics_block.list_pics_title.L_TOP10_TITLE
-[Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics_title.L_TOP10_TITLE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [list_pics_title](list_pics_title.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [list_pics_title](list_pics_ti
     <!-- END list_pics_title -->
 <!-- END list_pics_block -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics_title.L_TOP10_TITLE)
 
 ## Utilisations dans les templates
 

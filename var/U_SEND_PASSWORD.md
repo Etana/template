@@ -1,4 +1,13 @@
 # Variable U_SEND_PASSWORD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_SEND_PASSWORD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_SEND_PASSWORD)
 
 ## Utilisations dans les templates

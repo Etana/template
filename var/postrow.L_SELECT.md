@@ -1,5 +1,4 @@
 # Variable postrow.L_SELECT
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.L_SELECT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
     {postrow.L_SELECT}
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.L_SELECT)
 
 ## Utilisations dans les templates
 

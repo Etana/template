@@ -1,4 +1,13 @@
 # Variable AIM_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{AIM_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/AIM_IMG)
 
 ## Utilisations dans les templates

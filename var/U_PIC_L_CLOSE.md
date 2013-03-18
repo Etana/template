@@ -1,4 +1,13 @@
 # Variable U_PIC_L_CLOSE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_PIC_L_CLOSE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_PIC_L_CLOSE)
 
 ## Utilisations dans les templates

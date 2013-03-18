@@ -1,5 +1,4 @@
 # Variable forumrow.L_SUBFORUM_STR
-[Ajouter une description](https://fa-tvars.appspot.com/var/forumrow.L_SUBFORUM_STR)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme)
     {forumrow.L_SUBFORUM_STR}
 <!-- END forumrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/forumrow.L_SUBFORUM_STR)
 
 ## Utilisations dans les templates
 

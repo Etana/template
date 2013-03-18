@@ -1,4 +1,13 @@
 # Variable L_POLL_OPTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_POLL_OPTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_POLL_OPTION)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_roll_dice_old
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_roll_dice_old -->
+    contenu
+<!-- END switch_roll_dice_old -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice_old)
 
 ## Utilisations dans les templates

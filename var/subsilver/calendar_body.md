@@ -10,7 +10,7 @@
 ### [L_CALENDAR](../L_CALENDAR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_CALENDAR))
 * [Variable &agrave; la ligne 3](../../subsilver/calendar_body.tpl#L3)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/calendar_body.tpl#L3)
 
 ### [NAV_SEPARATOR](../NAV_SEPARATOR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/NAV_SEPARATOR))

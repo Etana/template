@@ -1,4 +1,13 @@
 # Variable SEARCH_POSTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SEARCH_POSTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SEARCH_POSTS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_LINK_REMOTE_AVATAR_EXPLAIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LINK_REMOTE_AVATAR_EXPLAIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_LINK_REMOTE_AVATAR_EXPLAIN)
 
 ## Utilisations dans les templates

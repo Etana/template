@@ -1,4 +1,13 @@
 # Variable S_POST_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_POST_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_POST_ACTION)
 
 ## Utilisations dans les templates

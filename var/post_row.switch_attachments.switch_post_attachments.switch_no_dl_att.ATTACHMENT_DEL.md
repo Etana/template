@@ -1,5 +1,4 @@
 # Variable post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL
-[Ajouter une description](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_no_dl_att](switch_no_dl_att.md#readme) se trouvant dans une boucle sur [switch_post_attachments](switch_post_attachments.md#readme) se trouvant dans une boucle sur [switch_attachments](switch_attachments.md#readme) se trouvant dans une boucle sur [post_row](post_row.md#readme).
@@ -15,6 +14,9 @@ Cette variable est utilisable dans une boucle sur [switch_no_dl_att](switch_no_d
     <!-- END switch_attachments -->
 <!-- END post_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL)
 
 ## Utilisations dans les templates
 

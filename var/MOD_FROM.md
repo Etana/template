@@ -1,4 +1,13 @@
 # Variable MOD_FROM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MOD_FROM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MOD_FROM)
 
 ## Utilisations dans les templates

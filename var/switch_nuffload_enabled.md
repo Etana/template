@@ -1,4 +1,14 @@
 # Variable switch_nuffload_enabled
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu
+<!-- END switch_nuffload_enabled -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_nuffload_enabled)
 
 ## Utilisations dans les templates

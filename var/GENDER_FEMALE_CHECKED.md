@@ -1,4 +1,13 @@
 # Variable GENDER_FEMALE_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GENDER_FEMALE_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GENDER_FEMALE_CHECKED)
 
 ## Utilisations dans les templates

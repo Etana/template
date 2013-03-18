@@ -1,4 +1,13 @@
 # Variable PIC_SIZE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_SIZE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_SIZE)
 
 ## Utilisations dans les templates

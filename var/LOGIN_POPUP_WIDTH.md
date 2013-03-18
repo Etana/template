@@ -1,4 +1,13 @@
 # Variable LOGIN_POPUP_WIDTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LOGIN_POPUP_WIDTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LOGIN_POPUP_WIDTH)
 
 ## Utilisations dans les templates

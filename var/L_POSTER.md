@@ -1,4 +1,13 @@
 # Variable L_POSTER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_POSTER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_POSTER)
 
 ## Utilisations dans les templates

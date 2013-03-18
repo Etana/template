@@ -1,4 +1,13 @@
 # Variable UNORDERED_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{UNORDERED_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/UNORDERED_LIST)
 
 ## Utilisations dans les templates

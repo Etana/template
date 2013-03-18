@@ -1,4 +1,13 @@
 # Variable V_CALE_DUR_MIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{V_CALE_DUR_MIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/V_CALE_DUR_MIN)
 
 ## Utilisations dans les templates

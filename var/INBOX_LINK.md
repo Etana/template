@@ -1,4 +1,13 @@
 # Variable INBOX_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INBOX_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INBOX_LINK)
 
 ## Utilisations dans les templates

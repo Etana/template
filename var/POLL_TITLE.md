@@ -1,4 +1,13 @@
 # Variable POLL_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLL_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLL_TITLE)
 
 ## Utilisations dans les templates

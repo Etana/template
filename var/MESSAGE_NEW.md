@@ -1,4 +1,13 @@
 # Variable MESSAGE_NEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MESSAGE_NEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MESSAGE_NEW)
 
 ## Utilisations dans les templates

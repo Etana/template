@@ -1,5 +1,4 @@
 # Variable catrow.catfoot.INC_SPAN
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.catfoot.INC_SPAN)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [catfoot](catfoot.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [catfoot](catfoot.md#readme) s
     <!-- END catfoot -->
 <!-- END catrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.catfoot.INC_SPAN)
 
 ## Utilisations dans les templates
 

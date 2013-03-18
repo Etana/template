@@ -1,5 +1,12 @@
 # Variable L_OVERALL_POSTERS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_OVERALL_POSTERS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_OVERALL_POSTERS)
 Affiche le texte du lien de la variable [`{U_OVERALL_POSTERS}`](U_OVERALL_POSTERS.md#readme).
 

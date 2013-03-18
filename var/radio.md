@@ -1,4 +1,14 @@
 # Variable radio
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN radio -->
+    contenu
+<!-- END radio -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/radio)
 
 ## Utilisations dans les templates

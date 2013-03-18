@@ -1,4 +1,13 @@
 # Variable L_ROWS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ROWS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ROWS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable catrow
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN catrow -->
+    contenu
+<!-- END catrow -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow)
 
 ## Utilisations dans les templates

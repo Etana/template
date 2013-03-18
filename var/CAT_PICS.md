@@ -1,4 +1,13 @@
 # Variable CAT_PICS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CAT_PICS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CAT_PICS)
 
 ## Utilisations dans les templates

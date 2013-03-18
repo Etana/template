@@ -44,7 +44,7 @@
 ### [FRIENDSFOES](../FRIENDSFOES.md#readme) ([XXX](https://fa-tvars.appspot.com/var/FRIENDSFOES))
 * [Variable &agrave; la ligne 35](../../subsilver/profile_view_body.tpl#L35)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 144](../../subsilver/profile_view_body.tpl#L144)
 
 ### [L_ABOUT_USER](../L_ABOUT_USER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ABOUT_USER))
@@ -69,7 +69,7 @@
 ### [L_FRIENDS_AND_FOES](../L_FRIENDS_AND_FOES.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FRIENDS_AND_FOES))
 * [Variable &agrave; la ligne 34](../../subsilver/profile_view_body.tpl#L34)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/profile_view_body.tpl#L3)
 
 ### [L_LAST_VISITED](../L_LAST_VISITED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LAST_VISITED))

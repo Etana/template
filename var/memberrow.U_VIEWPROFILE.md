@@ -1,5 +1,4 @@
 # Variable memberrow.U_VIEWPROFILE
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.U_VIEWPROFILE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readm
     {memberrow.U_VIEWPROFILE}
 <!-- END memberrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.U_VIEWPROFILE)
 
 ## Utilisations dans les templates
 

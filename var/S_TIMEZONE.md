@@ -1,4 +1,13 @@
 # Variable S_TIMEZONE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_TIMEZONE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_TIMEZONE)
 
 ## Utilisations dans les templates

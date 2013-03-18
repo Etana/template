@@ -1,5 +1,4 @@
 # Variable IMGS.IMG
-[Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.IMG)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).
     {IMGS.IMG}
 <!-- END IMGS -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.IMG)
 
 ## Utilisations dans les templates
 

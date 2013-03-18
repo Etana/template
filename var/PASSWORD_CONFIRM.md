@@ -1,4 +1,13 @@
 # Variable PASSWORD_CONFIRM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PASSWORD_CONFIRM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PASSWORD_CONFIRM)
 
 ## Utilisations dans les templates

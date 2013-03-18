@@ -10,7 +10,7 @@
 ### [L_ALBUM_NAME](../L_ALBUM_NAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ALBUM_NAME))
 * [Variable &agrave; la ligne 35](../../punbb/album_cat_top10.tpl#L35)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 17](../../punbb/album_cat_top10.tpl#L17)
 
 ### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER))

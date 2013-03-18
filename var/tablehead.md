@@ -1,4 +1,14 @@
 # Variable tablehead
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN tablehead -->
+    contenu
+<!-- END tablehead -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/tablehead)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable _calendar_box._row._cell.U_DATE
-[Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.U_DATE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [_cell](_cell.md#readme) se trouvant dans une boucle sur [_row](_row.md#readme) se trouvant dans une boucle sur [_calendar_box](_calendar_box.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [_cell](_cell.md#readme) se tr
     <!-- END _row -->
 <!-- END _calendar_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.U_DATE)
 
 ## Utilisations dans les templates
 

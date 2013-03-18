@@ -1,4 +1,13 @@
 # Variable ALWAYS_ALLOW_SMILIES_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ALWAYS_ALLOW_SMILIES_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ALWAYS_ALLOW_SMILIES_NO)
 
 ## Utilisations dans les templates

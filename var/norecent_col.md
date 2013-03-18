@@ -1,4 +1,14 @@
 # Variable norecent_col
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN norecent_col -->
+    contenu
+<!-- END norecent_col -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/norecent_col)
 
 ## Utilisations dans les templates

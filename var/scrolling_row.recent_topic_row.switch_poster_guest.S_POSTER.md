@@ -1,5 +1,4 @@
 # Variable scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER
-[Ajouter une description](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_poster_guest](switch_poster_guest.md#readme) se trouvant dans une boucle sur [recent_topic_row](recent_topic_row.md#readme) se trouvant dans une boucle sur [scrolling_row](scrolling_row.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [switch_poster_guest](switch_p
     <!-- END recent_topic_row -->
 <!-- END scrolling_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER)
 
 ## Utilisations dans les templates
 

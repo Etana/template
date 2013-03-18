@@ -1,4 +1,13 @@
 # Variable PM_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PM_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PM_IMG)
 
 ## Utilisations dans les templates

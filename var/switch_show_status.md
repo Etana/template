@@ -1,4 +1,14 @@
 # Variable switch_show_status
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_show_status -->
+    contenu
+<!-- END switch_show_status -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_show_status)
 
 ## Utilisations dans les templates

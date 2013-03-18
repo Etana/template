@@ -1,5 +1,14 @@
 # Variable JQUERY_PATH
-[Ajouter une description](https://fa-tvars.appspot.com/var/JQUERY_PATH)
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{JQUERY_PATH}
+```
+
+##Description[*](https://fa-tvars.appspot.com/var/JQUERY_PATH)
+Adresse URL de la librairie JavaScript jQuery.
 
 ## Utilisations dans les templates
 

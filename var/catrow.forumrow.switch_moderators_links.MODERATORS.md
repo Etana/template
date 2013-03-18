@@ -1,5 +1,4 @@
 # Variable catrow.forumrow.switch_moderators_links.MODERATORS
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.MODERATORS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_moderators_links](switch_moderators_links.md#readme) se trouvant dans une boucle sur [forumrow](forumrow.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [switch_moderators_links](swit
     <!-- END forumrow -->
 <!-- END catrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.MODERATORS)
 
 ## Utilisations dans les templates
 

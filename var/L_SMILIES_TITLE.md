@@ -1,4 +1,13 @@
 # Variable L_SMILIES_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SMILIES_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SMILIES_TITLE)
 
 ## Utilisations dans les templates

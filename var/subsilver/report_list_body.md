@@ -34,7 +34,7 @@
 ### [L_GO](../L_GO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GO))
 * [Variable &agrave; la ligne 58](../../subsilver/report_list_body.tpl#L58)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 4](../../subsilver/report_list_body.tpl#L4)
 
 ### [L_LAST_EDIT](../L_LAST_EDIT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LAST_EDIT))

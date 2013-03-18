@@ -1,4 +1,13 @@
 # Variable L_GROUP_HIDDEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_GROUP_HIDDEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_GROUP_HIDDEN)
 
 ## Utilisations dans les templates

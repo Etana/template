@@ -33,7 +33,7 @@
 * [Variable &agrave; la ligne 76](../../subsilver/album_upload_body.tpl#L76)
 * [Variable &agrave; la ligne 117](../../subsilver/album_upload_body.tpl#L117)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 239](../../subsilver/album_upload_body.tpl#L239)
 
 ### [L_MAX_UPLOADSIZE](../L_MAX_UPLOADSIZE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_MAX_UPLOADSIZE))

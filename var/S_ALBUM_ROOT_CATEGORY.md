@@ -1,4 +1,13 @@
 # Variable S_ALBUM_ROOT_CATEGORY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_ALBUM_ROOT_CATEGORY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_ALBUM_ROOT_CATEGORY)
 
 ## Utilisations dans les templates

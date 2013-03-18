@@ -1,4 +1,13 @@
 # Variable ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ACTION)
 
 ## Utilisations dans les templates

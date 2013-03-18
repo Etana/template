@@ -1,4 +1,13 @@
 # Variable L_NOTIFY_SUBSCRIPTIONS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NOTIFY_SUBSCRIPTIONS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NOTIFY_SUBSCRIPTIONS)
 
 ## Utilisations dans les templates

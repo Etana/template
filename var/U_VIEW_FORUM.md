@@ -1,4 +1,13 @@
 # Variable U_VIEW_FORUM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_VIEW_FORUM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_VIEW_FORUM)
 
 ## Utilisations dans les templates

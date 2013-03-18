@@ -10,7 +10,7 @@
 ### [L_FORUM](../L_FORUM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FORUM))
 * [Variable &agrave; la ligne 37](../../punbb/search_results_topics.tpl#L37)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 18](../../punbb/search_results_topics.tpl#L18)
 
 ### [L_LASTPOST](../L_LASTPOST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LASTPOST))

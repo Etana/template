@@ -1,4 +1,13 @@
 # Variable U_REPORT_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_REPORT_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_REPORT_LIST)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable V_TOPICTYPE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{V_TOPICTYPE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/V_TOPICTYPE)
 
 ## Utilisations dans les templates

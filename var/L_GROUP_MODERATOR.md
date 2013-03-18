@@ -1,4 +1,13 @@
 # Variable L_GROUP_MODERATOR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_GROUP_MODERATOR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_GROUP_MODERATOR)
 
 ## Utilisations dans les templates

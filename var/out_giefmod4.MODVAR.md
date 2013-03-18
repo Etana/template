@@ -1,5 +1,4 @@
 # Variable out_giefmod4.MODVAR
-[Ajouter une description](https://fa-tvars.appspot.com/var/out_giefmod4.MODVAR)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [out_giefmod4](out_giefmod4.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [out_giefmod4](out_giefmod4.md
     {out_giefmod4.MODVAR}
 <!-- END out_giefmod4 -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/out_giefmod4.MODVAR)
 
 ## Utilisations dans les templates
 

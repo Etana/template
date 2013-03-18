@@ -1,4 +1,14 @@
 # Variable smilies_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN smilies_row -->
+    contenu
+<!-- END smilies_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/smilies_row)
 
 ## Utilisations dans les templates

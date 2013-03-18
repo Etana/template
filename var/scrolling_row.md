@@ -1,4 +1,14 @@
 # Variable scrolling_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN scrolling_row -->
+    contenu
+<!-- END scrolling_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/scrolling_row)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_login
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_login -->
+    contenu
+<!-- END switch_login -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_login)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable cell
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN cell -->
+    contenu
+<!-- END cell -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/cell)
 
 ## Utilisations dans les templates

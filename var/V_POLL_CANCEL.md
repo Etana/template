@@ -1,4 +1,13 @@
 # Variable V_POLL_CANCEL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{V_POLL_CANCEL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/V_POLL_CANCEL)
 
 ## Utilisations dans les templates

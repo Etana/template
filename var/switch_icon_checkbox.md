@@ -1,4 +1,14 @@
 # Variable switch_icon_checkbox
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_icon_checkbox -->
+    contenu
+<!-- END switch_icon_checkbox -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_icon_checkbox)
 
 ## Utilisations dans les templates

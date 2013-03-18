@@ -126,7 +126,7 @@
 ### [ITALIC](../ITALIC.md#readme) ([XXX](https://fa-tvars.appspot.com/var/ITALIC))
 * [Variable &agrave; la ligne 400](../../punbb/posting_body_wysiwyg.tpl#L400)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 1](../../punbb/posting_body_wysiwyg.tpl#L1)
 * [Variable &agrave; la ligne 699](../../punbb/posting_body_wysiwyg.tpl#L699)
 
@@ -206,7 +206,7 @@
 ### [L_ICON_TITLE](../L_ICON_TITLE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ICON_TITLE))
 * [Variable &agrave; la ligne 267](../../punbb/posting_body_wysiwyg.tpl#L267)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 19](../../punbb/posting_body_wysiwyg.tpl#L19)
 
 ### [L_INFORMATION](../L_INFORMATION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INFORMATION))

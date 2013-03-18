@@ -1,4 +1,13 @@
 # Variable SEARCH_ADVANCED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SEARCH_ADVANCED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SEARCH_ADVANCED)
 
 ## Utilisations dans les templates

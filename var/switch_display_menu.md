@@ -1,4 +1,14 @@
 # Variable switch_display_menu
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_display_menu -->
+    contenu
+<!-- END switch_display_menu -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_display_menu)
 
 ## Utilisations dans les templates

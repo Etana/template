@@ -1,4 +1,13 @@
 # Variable GOOGLE_CODE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GOOGLE_CODE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GOOGLE_CODE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable NUFFIMAGE_BOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NUFFIMAGE_BOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NUFFIMAGE_BOX)
 
 ## Utilisations dans les templates

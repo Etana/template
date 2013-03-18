@@ -1,4 +1,14 @@
 # Variable switch_view_stats
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_view_stats -->
+    contenu
+<!-- END switch_view_stats -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_view_stats)
 
 ## Utilisations dans les templates

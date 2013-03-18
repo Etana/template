@@ -1,4 +1,14 @@
 # Variable googlemap
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN googlemap -->
+    contenu
+<!-- END googlemap -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/googlemap)
 
 ## Utilisations dans les templates

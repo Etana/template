@@ -1,4 +1,13 @@
 # Variable OPTIONAL_BAN_NEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{OPTIONAL_BAN_NEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/OPTIONAL_BAN_NEW)
 
 ## Utilisations dans les templates

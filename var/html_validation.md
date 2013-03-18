@@ -1,4 +1,14 @@
 # Variable html_validation
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN html_validation -->
+    contenu
+<!-- END html_validation -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/html_validation)
 
 ## Utilisations dans les templates

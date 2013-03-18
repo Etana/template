@@ -10,7 +10,7 @@
 ### [L_GROUPS](../L_GROUPS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GROUPS))
 * [Variable &agrave; la ligne 65](../../punbb/memberlist_body.tpl#L65)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 19](../../punbb/memberlist_body.tpl#L19)
 
 ### [L_INTERESTS](../L_INTERESTS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INTERESTS))

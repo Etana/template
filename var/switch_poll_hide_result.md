@@ -1,4 +1,14 @@
 # Variable switch_poll_hide_result
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_poll_hide_result -->
+    contenu
+<!-- END switch_poll_hide_result -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_poll_hide_result)
 
 ## Utilisations dans les templates

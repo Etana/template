@@ -1,4 +1,13 @@
 # Variable CUR_USER_ID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CUR_USER_ID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CUR_USER_ID)
 
 ## Utilisations dans les templates

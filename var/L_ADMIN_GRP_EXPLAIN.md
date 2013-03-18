@@ -1,4 +1,13 @@
 # Variable L_ADMIN_GRP_EXPLAIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ADMIN_GRP_EXPLAIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ADMIN_GRP_EXPLAIN)
 
 ## Utilisations dans les templates

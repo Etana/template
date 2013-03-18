@@ -1,5 +1,4 @@
 # Variable rpg_fields.SEPARATOR
-[Ajouter une description](https://fa-tvars.appspot.com/var/rpg_fields.SEPARATOR)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [rpg_fields](rpg_fields.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [rpg_fields](rpg_fields.md#rea
     {rpg_fields.SEPARATOR}
 <!-- END rpg_fields -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/rpg_fields.SEPARATOR)
 
 ## Utilisations dans les templates
 

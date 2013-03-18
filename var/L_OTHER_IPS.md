@@ -1,4 +1,13 @@
 # Variable L_OTHER_IPS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_OTHER_IPS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_OTHER_IPS)
 
 ## Utilisations dans les templates

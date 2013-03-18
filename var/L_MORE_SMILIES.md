@@ -1,4 +1,13 @@
 # Variable L_MORE_SMILIES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MORE_SMILIES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MORE_SMILIES)
 
 ## Utilisations dans les templates

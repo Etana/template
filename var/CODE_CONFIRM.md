@@ -1,4 +1,13 @@
 # Variable CODE_CONFIRM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CODE_CONFIRM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CODE_CONFIRM)
 
 ## Utilisations dans les templates

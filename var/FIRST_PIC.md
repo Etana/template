@@ -1,4 +1,13 @@
 # Variable FIRST_PIC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{FIRST_PIC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/FIRST_PIC)
 
 ## Utilisations dans les templates

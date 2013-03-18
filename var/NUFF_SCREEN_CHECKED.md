@@ -1,4 +1,13 @@
 # Variable NUFF_SCREEN_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NUFF_SCREEN_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NUFF_SCREEN_CHECKED)
 
 ## Utilisations dans les templates

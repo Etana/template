@@ -1,4 +1,13 @@
 # Variable L_SECOND_STEP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SECOND_STEP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SECOND_STEP)
 
 ## Utilisations dans les templates

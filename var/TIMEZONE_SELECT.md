@@ -1,4 +1,13 @@
 # Variable TIMEZONE_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TIMEZONE_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TIMEZONE_SELECT)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable MAIL_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MAIL_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MAIL_LINK)
 
 ## Utilisations dans les templates

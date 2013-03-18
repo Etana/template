@@ -1,4 +1,13 @@
 # Variable L_FOLDER_GLOBAL_ANNOUNCE_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FOLDER_GLOBAL_ANNOUNCE_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FOLDER_GLOBAL_ANNOUNCE_IMG)
 
 ## Utilisations dans les templates

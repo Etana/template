@@ -1,4 +1,13 @@
 # Variable L_URL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_URL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_URL)
 
 ## Utilisations dans les templates

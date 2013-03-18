@@ -1,5 +1,4 @@
 # Variable row.TIME
-[Ajouter une description](https://fa-tvars.appspot.com/var/row.TIME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [row](row.md#readme).
     {row.TIME}
 <!-- END row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/row.TIME)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable L_LOGIN_REGISTER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LOGIN_REGISTER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER)
 
 ## Utilisations dans les templates

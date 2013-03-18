@@ -1,5 +1,4 @@
 # Variable memberrow.INTERESTS
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.INTERESTS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readm
     {memberrow.INTERESTS}
 <!-- END memberrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.INTERESTS)
 
 ## Utilisations dans les templates
 

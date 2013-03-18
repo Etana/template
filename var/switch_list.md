@@ -1,4 +1,14 @@
 # Variable switch_list
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_list -->
+    contenu
+<!-- END switch_list -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_list)
 
 ## Utilisations dans les templates

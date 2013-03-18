@@ -1,5 +1,12 @@
 # Variable TOTAL_USERS_ONLINE
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOTAL_USERS_ONLINE}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/TOTAL_USERS_ONLINE)
 Chaîne html indiquant le nombre total de connecté, de membre enregistré, de membre invisible et d'invité en ligne sur le forum.
 

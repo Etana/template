@@ -1,4 +1,13 @@
 # Variable L_BBCODE_FONT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BBCODE_FONT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_FONT)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_LAST_EDIT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LAST_EDIT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_LAST_EDIT)
 
 ## Utilisations dans les templates

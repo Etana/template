@@ -1,4 +1,13 @@
 # Variable INFOS_DISPLAY_VALUE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INFOS_DISPLAY_VALUE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INFOS_DISPLAY_VALUE)
 
 ## Utilisations dans les templates

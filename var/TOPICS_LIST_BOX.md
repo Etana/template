@@ -1,4 +1,13 @@
 # Variable TOPICS_LIST_BOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOPICS_LIST_BOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOPICS_LIST_BOX)
 
 ## Utilisations dans les templates

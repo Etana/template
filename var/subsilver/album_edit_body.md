@@ -16,7 +16,7 @@
 ### [L_EDIT_PIC_INFO](../L_EDIT_PIC_INFO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_EDIT_PIC_INFO))
 * [Variable &agrave; la ligne 42](../../subsilver/album_edit_body.tpl#L42)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 34](../../subsilver/album_edit_body.tpl#L34)
 
 ### [L_MAX_LENGTH](../L_MAX_LENGTH.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_MAX_LENGTH))

@@ -1,4 +1,13 @@
 # Variable USERNAME_AVATAR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{USERNAME_AVATAR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/USERNAME_AVATAR)
 
 ## Utilisations dans les templates

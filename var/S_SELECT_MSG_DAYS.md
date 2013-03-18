@@ -1,4 +1,13 @@
 # Variable S_SELECT_MSG_DAYS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_SELECT_MSG_DAYS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_SELECT_MSG_DAYS)
 
 ## Utilisations dans les templates

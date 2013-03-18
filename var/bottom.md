@@ -1,4 +1,14 @@
 # Variable bottom
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN bottom -->
+    contenu
+<!-- END bottom -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/bottom)
 
 ## Utilisations dans les templates

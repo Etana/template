@@ -1,4 +1,13 @@
 # Variable DIRECTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DIRECTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DIRECTION)
 
 ## Utilisations dans les templates

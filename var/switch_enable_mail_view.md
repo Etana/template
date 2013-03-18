@@ -1,4 +1,14 @@
 # Variable switch_enable_mail_view
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_enable_mail_view -->
+    contenu
+<!-- END switch_enable_mail_view -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_enable_mail_view)
 
 ## Utilisations dans les templates

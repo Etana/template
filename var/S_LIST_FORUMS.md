@@ -1,4 +1,13 @@
 # Variable S_LIST_FORUMS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_LIST_FORUMS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_LIST_FORUMS)
 
 ## Utilisations dans les templates

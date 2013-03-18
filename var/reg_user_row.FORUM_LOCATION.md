@@ -1,5 +1,4 @@
 # Variable reg_user_row.FORUM_LOCATION
-[Ajouter une description](https://fa-tvars.appspot.com/var/reg_user_row.FORUM_LOCATION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [reg_user_row](reg_user_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [reg_user_row](reg_user_row.md
     {reg_user_row.FORUM_LOCATION}
 <!-- END reg_user_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/reg_user_row.FORUM_LOCATION)
 
 ## Utilisations dans les templates
 

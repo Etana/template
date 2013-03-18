@@ -1,5 +1,12 @@
 # Variable C3SIZE
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{C3SIZE}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/C3SIZE)
 Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 1 (droite)`.
 

@@ -1,4 +1,13 @@
 # Variable L_EMOTICONS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_EMOTICONS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_EMOTICONS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable MOD_EMAIL_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MOD_EMAIL_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MOD_EMAIL_IMG)
 
 ## Utilisations dans les templates

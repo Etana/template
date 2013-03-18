@@ -1,4 +1,13 @@
 # Variable L_REPLIES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_REPLIES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_REPLIES)
 
 ## Utilisations dans les templates

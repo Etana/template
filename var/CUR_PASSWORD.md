@@ -1,4 +1,13 @@
 # Variable CUR_PASSWORD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CUR_PASSWORD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CUR_PASSWORD)
 
 ## Utilisations dans les templates

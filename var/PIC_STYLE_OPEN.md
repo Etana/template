@@ -1,4 +1,13 @@
 # Variable PIC_STYLE_OPEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_STYLE_OPEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_STYLE_OPEN)
 
 ## Utilisations dans les templates

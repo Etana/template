@@ -1,4 +1,13 @@
 # Variable ADMIN_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ADMIN_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ADMIN_LINK)
 
 ## Utilisations dans les templates

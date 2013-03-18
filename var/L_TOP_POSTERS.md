@@ -1,4 +1,13 @@
 # Variable L_TOP_POSTERS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TOP_POSTERS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TOP_POSTERS)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable switch_fb_explain.FB_EXPLAIN
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_explain](switch_fb_explain.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_fb_explain](switch_fb_
     {switch_fb_explain.FB_EXPLAIN}
 <!-- END switch_fb_explain -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN)
 
 ## Utilisations dans les templates
 

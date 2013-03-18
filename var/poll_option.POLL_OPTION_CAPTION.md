@@ -1,5 +1,4 @@
 # Variable poll_option.POLL_OPTION_CAPTION
-[Ajouter une description](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_CAPTION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [poll_option](poll_option.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [poll_option](poll_option.md#r
     {poll_option.POLL_OPTION_CAPTION}
 <!-- END poll_option -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_CAPTION)
 
 ## Utilisations dans les templates
 

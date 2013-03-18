@@ -1,4 +1,13 @@
 # Variable L_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NO)
 
 ## Utilisations dans les templates

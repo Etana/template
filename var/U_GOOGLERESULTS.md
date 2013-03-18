@@ -1,4 +1,13 @@
 # Variable U_GOOGLERESULTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_GOOGLERESULTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_GOOGLERESULTS)
 
 ## Utilisations dans les templates

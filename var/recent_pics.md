@@ -1,4 +1,14 @@
 # Variable recent_pics
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN recent_pics -->
+    contenu
+<!-- END recent_pics -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/recent_pics)
 
 ## Utilisations dans les templates

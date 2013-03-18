@@ -1,4 +1,13 @@
 # Variable U_NEXT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_NEXT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_NEXT)
 
 ## Utilisations dans les templates

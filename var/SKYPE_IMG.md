@@ -1,4 +1,13 @@
 # Variable SKYPE_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SKYPE_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SKYPE_IMG)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable postrow.POSTER_AVATAR
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.POSTER_AVATAR)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
     {postrow.POSTER_AVATAR}
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.POSTER_AVATAR)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable L_GOTO_DOWN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_GOTO_DOWN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_GOTO_DOWN)
 
 ## Utilisations dans les templates

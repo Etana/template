@@ -1,4 +1,14 @@
 # Variable switch_no_dl_att
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_no_dl_att -->
+    contenu
+<!-- END switch_no_dl_att -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_dl_att)
 
 ## Utilisations dans les templates

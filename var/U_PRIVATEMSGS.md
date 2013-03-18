@@ -1,4 +1,13 @@
 # Variable U_PRIVATEMSGS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_PRIVATEMSGS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable LOCATION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LOCATION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LOCATION)
 
 ## Utilisations dans les templates

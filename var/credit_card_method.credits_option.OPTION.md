@@ -1,5 +1,4 @@
 # Variable credit_card_method.credits_option.OPTION
-[Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.OPTION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [credits_option](credits_option.md#readme) se trouvant dans une boucle sur [credit_card_method](credit_card_method.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [credits_option](credits_optio
     <!-- END credits_option -->
 <!-- END credit_card_method -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.OPTION)
 
 ## Utilisations dans les templates
 

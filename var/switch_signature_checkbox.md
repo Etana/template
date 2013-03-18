@@ -1,4 +1,14 @@
 # Variable switch_signature_checkbox
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_signature_checkbox -->
+    contenu
+<!-- END switch_signature_checkbox -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_signature_checkbox)
 
 ## Utilisations dans les templates

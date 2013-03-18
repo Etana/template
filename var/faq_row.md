@@ -1,4 +1,14 @@
 # Variable faq_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN faq_row -->
+    contenu
+<!-- END faq_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/faq_row)
 
 ## Utilisations dans les templates

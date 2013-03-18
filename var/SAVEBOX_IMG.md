@@ -1,4 +1,13 @@
 # Variable SAVEBOX_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SAVEBOX_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SAVEBOX_IMG)
 
 ## Utilisations dans les templates

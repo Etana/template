@@ -1,4 +1,13 @@
 # Variable PIC_COMMENTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_COMMENTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_COMMENTS)
 
 ## Utilisations dans les templates

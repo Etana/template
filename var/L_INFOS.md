@@ -1,4 +1,13 @@
 # Variable L_INFOS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_INFOS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_INFOS)
 
 ## Utilisations dans les templates

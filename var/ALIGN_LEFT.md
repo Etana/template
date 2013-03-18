@@ -1,4 +1,13 @@
 # Variable ALIGN_LEFT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ALIGN_LEFT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ALIGN_LEFT)
 
 ## Utilisations dans les templates

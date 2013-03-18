@@ -1,4 +1,13 @@
 # Variable L_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_LINK)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_KEYWORDS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_KEYWORDS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_KEYWORDS)
 
 ## Utilisations dans les templates

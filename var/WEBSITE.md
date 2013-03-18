@@ -1,4 +1,13 @@
 # Variable WEBSITE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{WEBSITE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/WEBSITE)
 
 ## Utilisations dans les templates

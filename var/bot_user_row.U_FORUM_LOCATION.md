@@ -1,5 +1,4 @@
 # Variable bot_user_row.U_FORUM_LOCATION
-[Ajouter une description](https://fa-tvars.appspot.com/var/bot_user_row.U_FORUM_LOCATION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [bot_user_row](bot_user_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [bot_user_row](bot_user_row.md
     {bot_user_row.U_FORUM_LOCATION}
 <!-- END bot_user_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/bot_user_row.U_FORUM_LOCATION)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable VOTE_RCAP_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{VOTE_RCAP_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/VOTE_RCAP_IMG)
 
 ## Utilisations dans les templates

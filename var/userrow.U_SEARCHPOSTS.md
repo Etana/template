@@ -1,5 +1,4 @@
 # Variable userrow.U_SEARCHPOSTS
-[Ajouter une description](https://fa-tvars.appspot.com/var/userrow.U_SEARCHPOSTS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).
     {userrow.U_SEARCHPOSTS}
 <!-- END userrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/userrow.U_SEARCHPOSTS)
 
 ## Utilisations dans les templates
 

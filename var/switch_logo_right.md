@@ -1,4 +1,14 @@
 # Variable switch_logo_right
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_logo_right -->
+    contenu
+<!-- END switch_logo_right -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_logo_right)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_ANNOUNCE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ANNOUNCE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ANNOUNCE)
 
 ## Utilisations dans les templates

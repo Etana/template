@@ -1,4 +1,13 @@
 # Variable DELETE_ALL_FIELD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DELETE_ALL_FIELD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DELETE_ALL_FIELD)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable JS_WYZ_VER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{JS_WYZ_VER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/JS_WYZ_VER)
 
 ## Utilisations dans les templates

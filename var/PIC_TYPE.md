@@ -1,4 +1,13 @@
 # Variable PIC_TYPE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_TYPE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_TYPE)
 
 ## Utilisations dans les templates

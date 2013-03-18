@@ -1,5 +1,4 @@
 # Variable topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_description](switch_description.md#readme) se trouvant dans une boucle sur [topic](topic.md#readme) se trouvant dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [topics_list_box](topics_list_box.md#readme).
@@ -15,6 +14,9 @@ Cette variable est utilisable dans une boucle sur [switch_description](switch_de
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION)
 
 ## Utilisations dans les templates
 

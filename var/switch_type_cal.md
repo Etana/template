@@ -1,4 +1,14 @@
 # Variable switch_type_cal
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_type_cal -->
+    contenu
+<!-- END switch_type_cal -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_type_cal)
 
 ## Utilisations dans les templates

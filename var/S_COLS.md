@@ -1,4 +1,13 @@
 # Variable S_COLS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_COLS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_COLS)
 
 ## Utilisations dans les templates

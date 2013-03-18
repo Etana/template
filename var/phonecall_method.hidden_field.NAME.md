@@ -1,5 +1,4 @@
 # Variable phonecall_method.hidden_field.NAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.NAME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [hidden_field](hidden_field.md#readme) se trouvant dans une boucle sur [phonecall_method](phonecall_method.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [hidden_field](hidden_field.md
     <!-- END hidden_field -->
 <!-- END phonecall_method -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.NAME)
 
 ## Utilisations dans les templates
 

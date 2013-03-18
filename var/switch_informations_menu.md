@@ -1,4 +1,14 @@
 # Variable switch_informations_menu
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_informations_menu -->
+    contenu
+<!-- END switch_informations_menu -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_informations_menu)
 
 ## Utilisations dans les templates

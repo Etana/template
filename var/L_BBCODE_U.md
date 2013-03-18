@@ -1,4 +1,13 @@
 # Variable L_BBCODE_U
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BBCODE_U}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_U)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable U_INDEX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_INDEX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_INDEX)
 
 ## Utilisations dans les templates

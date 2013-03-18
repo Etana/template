@@ -1,5 +1,4 @@
 # Variable post_row.switch_attachments.L_ATTACHMENTS
-[Ajouter une description](https://fa-tvars.appspot.com/var/post_row.switch_attachments.L_ATTACHMENTS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_attachments](switch_attachments.md#readme) se trouvant dans une boucle sur [post_row](post_row.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_attachments](switch_at
     <!-- END switch_attachments -->
 <!-- END post_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/post_row.switch_attachments.L_ATTACHMENTS)
 
 ## Utilisations dans les templates
 

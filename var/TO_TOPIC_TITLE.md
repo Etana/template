@@ -1,4 +1,13 @@
 # Variable TO_TOPIC_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TO_TOPIC_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TO_TOPIC_TITLE)
 
 ## Utilisations dans les templates

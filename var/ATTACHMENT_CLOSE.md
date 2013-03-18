@@ -1,4 +1,13 @@
 # Variable ATTACHMENT_CLOSE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ATTACHMENT_CLOSE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ATTACHMENT_CLOSE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable REMOVE_FIELD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{REMOVE_FIELD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/REMOVE_FIELD)
 
 ## Utilisations dans les templates

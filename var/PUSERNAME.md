@@ -1,4 +1,13 @@
 # Variable PUSERNAME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PUSERNAME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PUSERNAME)
 
 ## Utilisations dans les templates

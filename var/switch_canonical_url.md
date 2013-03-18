@@ -1,4 +1,14 @@
 # Variable switch_canonical_url
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_canonical_url -->
+    contenu
+<!-- END switch_canonical_url -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_canonical_url)
 
 ## Utilisations dans les templates

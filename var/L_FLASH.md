@@ -1,4 +1,13 @@
 # Variable L_FLASH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FLASH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FLASH)
 
 ## Utilisations dans les templates

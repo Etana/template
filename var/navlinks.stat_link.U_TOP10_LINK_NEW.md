@@ -1,5 +1,4 @@
 # Variable navlinks.stat_link.U_TOP10_LINK_NEW
-[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.stat_link.U_TOP10_LINK_NEW)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [stat_link](stat_link.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [stat_link](stat_link.md#readm
     <!-- END stat_link -->
 <!-- END navlinks -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.stat_link.U_TOP10_LINK_NEW)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable L_FORM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FORM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FORM)
 
 ## Utilisations dans les templates

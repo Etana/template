@@ -1,4 +1,13 @@
 # Variable T_BODY_VLINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{T_BODY_VLINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/T_BODY_VLINK)
 
 ## Utilisations dans les templates

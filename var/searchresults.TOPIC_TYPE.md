@@ -1,5 +1,4 @@
 # Variable searchresults.TOPIC_TYPE
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_TYPE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [searchresults](searchresults.
     {searchresults.TOPIC_TYPE}
 <!-- END searchresults -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_TYPE)
 
 ## Utilisations dans les templates
 

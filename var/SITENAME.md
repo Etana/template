@@ -1,4 +1,13 @@
 # Variable SITENAME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SITENAME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SITENAME)
 
 ## Utilisations dans les templates

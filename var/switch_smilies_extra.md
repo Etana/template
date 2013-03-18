@@ -1,4 +1,14 @@
 # Variable switch_smilies_extra
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_smilies_extra -->
+    contenu
+<!-- END switch_smilies_extra -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_smilies_extra)
 
 ## Utilisations dans les templates

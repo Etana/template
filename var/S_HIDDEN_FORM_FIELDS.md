@@ -1,4 +1,13 @@
 # Variable S_HIDDEN_FORM_FIELDS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_HIDDEN_FORM_FIELDS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_HIDDEN_FORM_FIELDS)
 
 ## Utilisations dans les templates

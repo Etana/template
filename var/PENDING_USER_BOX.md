@@ -1,4 +1,13 @@
 # Variable PENDING_USER_BOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PENDING_USER_BOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PENDING_USER_BOX)
 
 ## Utilisations dans les templates

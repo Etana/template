@@ -1,4 +1,14 @@
 # Variable giefmod0
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN giefmod0 -->
+    contenu
+<!-- END giefmod0 -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/giefmod0)
 
 ## Utilisations dans les templates

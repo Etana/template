@@ -1,4 +1,13 @@
 # Variable L_CALENDAR_DURATION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CALENDAR_DURATION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CALENDAR_DURATION)
 
 ## Utilisations dans les templates

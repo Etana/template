@@ -1,4 +1,13 @@
 # Variable L_DELETE_MSG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DELETE_MSG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DELETE_MSG)
 
 ## Utilisations dans les templates

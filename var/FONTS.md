@@ -1,4 +1,13 @@
 # Variable FONTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{FONTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/FONTS)
 
 ## Utilisations dans les templates

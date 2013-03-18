@@ -1,4 +1,13 @@
 # Variable L_DATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DATE)
 
 ## Utilisations dans les templates

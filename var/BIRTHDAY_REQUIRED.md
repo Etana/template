@@ -1,4 +1,13 @@
 # Variable BIRTHDAY_REQUIRED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BIRTHDAY_REQUIRED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/BIRTHDAY_REQUIRED)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_BBCODE_FLASH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BBCODE_FLASH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_FLASH)
 
 ## Utilisations dans les templates

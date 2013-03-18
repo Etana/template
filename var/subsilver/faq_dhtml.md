@@ -38,7 +38,7 @@
 ### [L_FAQ_TITLE](../L_FAQ_TITLE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FAQ_TITLE))
 * [Variable &agrave; la ligne 19](../../subsilver/faq_dhtml.tpl#L19)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 13](../../subsilver/faq_dhtml.tpl#L13)
 
 ### [S_TIMEZONE](../S_TIMEZONE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/S_TIMEZONE))

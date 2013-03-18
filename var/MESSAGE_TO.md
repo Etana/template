@@ -1,4 +1,13 @@
 # Variable MESSAGE_TO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MESSAGE_TO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MESSAGE_TO)
 
 ## Utilisations dans les templates

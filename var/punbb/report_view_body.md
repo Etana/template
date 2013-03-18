@@ -7,7 +7,7 @@
 ### [L_AUTHOR](../L_AUTHOR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_AUTHOR))
 * [Variable &agrave; la ligne 49](../../punbb/report_view_body.tpl#L49)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 18](../../punbb/report_view_body.tpl#L18)
 
 ### [L_LAST_EDIT](../L_LAST_EDIT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LAST_EDIT))

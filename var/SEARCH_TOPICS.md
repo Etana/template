@@ -1,4 +1,13 @@
 # Variable SEARCH_TOPICS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SEARCH_TOPICS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SEARCH_TOPICS)
 
 ## Utilisations dans les templates

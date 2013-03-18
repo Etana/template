@@ -1,4 +1,14 @@
 # Variable simple_footer
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN simple_footer -->
+    contenu
+<!-- END simple_footer -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/simple_footer)
 
 ## Utilisations dans les templates

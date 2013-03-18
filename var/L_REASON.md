@@ -1,4 +1,13 @@
 # Variable L_REASON
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_REASON}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_REASON)
 
 ## Utilisations dans les templates

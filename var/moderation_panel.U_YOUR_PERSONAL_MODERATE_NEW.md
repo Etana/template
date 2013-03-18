@@ -1,5 +1,4 @@
 # Variable moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW
-[Ajouter une description](https://fa-tvars.appspot.com/var/moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [moderation_panel](moderation_panel.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [moderation_panel](moderation_
     {moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}
 <!-- END moderation_panel -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW)
 
 ## Utilisations dans les templates
 

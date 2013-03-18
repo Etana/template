@@ -1,5 +1,12 @@
 # Variable BOARD_INDEX
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BOARD_INDEX}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/BOARD_INDEX)
 Affiche le contenu du template [index_box (phpBB2)](subsilver/index_box.md) ou [index_box (punBB)](punbb/index_box.md).
 

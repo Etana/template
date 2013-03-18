@@ -1,4 +1,13 @@
 # Variable L_CC_EMAIL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CC_EMAIL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CC_EMAIL)
 
 ## Utilisations dans les templates

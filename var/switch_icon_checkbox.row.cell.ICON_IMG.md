@@ -1,5 +1,4 @@
 # Variable switch_icon_checkbox.row.cell.ICON_IMG
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_IMG)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trouvant dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [switch_icon_checkbox](switch_icon_checkbox.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trou
     <!-- END row -->
 <!-- END switch_icon_checkbox -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_IMG)
 
 ## Utilisations dans les templates
 

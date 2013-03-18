@@ -1,4 +1,13 @@
 # Variable L_COMMENTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COMMENTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COMMENTS)
 
 ## Utilisations dans les templates

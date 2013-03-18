@@ -1,4 +1,13 @@
 # Variable L_ADD_FILE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ADD_FILE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ADD_FILE)
 
 ## Utilisations dans les templates

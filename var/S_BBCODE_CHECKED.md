@@ -1,4 +1,13 @@
 # Variable S_BBCODE_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_BBCODE_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_BBCODE_CHECKED)
 
 ## Utilisations dans les templates

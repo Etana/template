@@ -1,4 +1,13 @@
 # Variable L_STATS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_STATS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_STATS)
 
 ## Utilisations dans les templates

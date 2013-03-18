@@ -1,4 +1,13 @@
 # Variable L_SEARCH_OPTIONS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SEARCH_OPTIONS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SEARCH_OPTIONS)
 
 ## Utilisations dans les templates

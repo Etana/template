@@ -1,4 +1,14 @@
 # Variable switch_onlinelink
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_onlinelink -->
+    contenu
+<!-- END switch_onlinelink -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_onlinelink)
 
 ## Utilisations dans les templates

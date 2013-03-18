@@ -1,4 +1,13 @@
 # Variable L_GROUP_MEMBERSHIP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_GROUP_MEMBERSHIP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_GROUP_MEMBERSHIP)
 
 ## Utilisations dans les templates

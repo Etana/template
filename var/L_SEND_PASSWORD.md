@@ -1,4 +1,13 @@
 # Variable L_SEND_PASSWORD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SEND_PASSWORD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SEND_PASSWORD)
 
 ## Utilisations dans les templates

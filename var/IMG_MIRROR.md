@@ -1,4 +1,13 @@
 # Variable IMG_MIRROR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_MIRROR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_MIRROR)
 
 ## Utilisations dans les templates

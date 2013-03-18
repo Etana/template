@@ -1,5 +1,12 @@
 # Variable LOGGED_IN_USER_LIST
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LOGGED_IN_USER_LIST}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/LOGGED_IN_USER_LIST)
 Chaîne html indiquant les membres actuellement en ligne ( séparés par des virgules ).
 

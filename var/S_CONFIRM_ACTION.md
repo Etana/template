@@ -1,4 +1,13 @@
 # Variable S_CONFIRM_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_CONFIRM_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION)
 
 ## Utilisations dans les templates

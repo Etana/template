@@ -1,4 +1,13 @@
 # Variable UCP_TABS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{UCP_TABS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/UCP_TABS)
 
 ## Utilisations dans les templates

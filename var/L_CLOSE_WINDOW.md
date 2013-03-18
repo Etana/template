@@ -1,4 +1,13 @@
 # Variable L_CLOSE_WINDOW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CLOSE_WINDOW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CLOSE_WINDOW)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable picrow.ROW_CLASS
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.ROW_CLASS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.ROW_CLASS}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.ROW_CLASS)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable IMG_SCATTER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_SCATTER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_SCATTER)
 
 ## Utilisations dans les templates

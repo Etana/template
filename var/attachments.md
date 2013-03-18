@@ -1,4 +1,14 @@
 # Variable attachments
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN attachments -->
+    contenu
+<!-- END attachments -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/attachments)
 
 ## Utilisations dans les templates

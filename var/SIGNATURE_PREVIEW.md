@@ -1,4 +1,13 @@
 # Variable SIGNATURE_PREVIEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SIGNATURE_PREVIEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SIGNATURE_PREVIEW)
 
 ## Utilisations dans les templates

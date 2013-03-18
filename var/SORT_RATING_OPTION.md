@@ -1,4 +1,13 @@
 # Variable SORT_RATING_OPTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SORT_RATING_OPTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SORT_RATING_OPTION)
 
 ## Utilisations dans les templates

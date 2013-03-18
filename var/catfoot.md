@@ -1,4 +1,14 @@
 # Variable catfoot
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN catfoot -->
+    contenu
+<!-- END catfoot -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/catfoot)
 
 ## Utilisations dans les templates

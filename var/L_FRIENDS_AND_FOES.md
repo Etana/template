@@ -1,4 +1,13 @@
 # Variable L_FRIENDS_AND_FOES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FRIENDS_AND_FOES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FRIENDS_AND_FOES)
 
 ## Utilisations dans les templates

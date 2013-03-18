@@ -1,4 +1,13 @@
 # Variable JS_AUTH_FAVOURITES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{JS_AUTH_FAVOURITES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/JS_AUTH_FAVOURITES)
 
 ## Utilisations dans les templates

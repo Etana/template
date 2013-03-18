@@ -1,5 +1,4 @@
 # Variable row.U_EDIT
-[Ajouter une description](https://fa-tvars.appspot.com/var/row.U_EDIT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [row](row.md#readme).
     {row.U_EDIT}
 <!-- END row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/row.U_EDIT)
 
 ## Utilisations dans les templates
 

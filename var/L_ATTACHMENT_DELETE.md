@@ -1,4 +1,13 @@
 # Variable L_ATTACHMENT_DELETE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ATTACHMENT_DELETE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ATTACHMENT_DELETE)
 
 ## Utilisations dans les templates

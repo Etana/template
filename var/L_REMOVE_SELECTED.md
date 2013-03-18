@@ -1,4 +1,13 @@
 # Variable L_REMOVE_SELECTED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_REMOVE_SELECTED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_REMOVE_SELECTED)
 
 ## Utilisations dans les templates

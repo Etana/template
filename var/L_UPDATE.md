@@ -1,4 +1,13 @@
 # Variable L_UPDATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_UPDATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_UPDATE)
 
 ## Utilisations dans les templates

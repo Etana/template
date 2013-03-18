@@ -1,5 +1,4 @@
 # Variable catrow.forumrow.LAST_POST
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.LAST_POST)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme)
     <!-- END forumrow -->
 <!-- END catrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.LAST_POST)
 
 ## Utilisations dans les templates
 

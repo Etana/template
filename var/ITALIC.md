@@ -1,4 +1,13 @@
 # Variable ITALIC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ITALIC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ITALIC)
 
 ## Utilisations dans les templates

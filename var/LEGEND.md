@@ -1,5 +1,12 @@
 # Variable LEGEND
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LEGEND}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/LEGEND)
 Chaîne de texte.
 

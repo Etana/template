@@ -1,4 +1,13 @@
 # Variable SLIDESHOW_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SLIDESHOW_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SLIDESHOW_SELECT)
 
 ## Utilisations dans les templates

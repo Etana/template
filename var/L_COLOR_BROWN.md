@@ -1,4 +1,13 @@
 # Variable L_COLOR_BROWN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COLOR_BROWN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COLOR_BROWN)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_NRESULTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NRESULTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NRESULTS)
 
 ## Utilisations dans les templates

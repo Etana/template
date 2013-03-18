@@ -1,4 +1,13 @@
 # Variable L_POSTEDTIME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_POSTEDTIME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_POSTEDTIME)
 
 ## Utilisations dans les templates

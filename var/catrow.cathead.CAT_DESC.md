@@ -1,5 +1,4 @@
 # Variable catrow.cathead.CAT_DESC
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.CAT_DESC)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cathead](cathead.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [cathead](cathead.md#readme) s
     <!-- END cathead -->
 <!-- END catrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.CAT_DESC)
 
 ## Utilisations dans les templates
 

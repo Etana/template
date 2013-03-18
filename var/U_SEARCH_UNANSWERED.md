@@ -1,4 +1,13 @@
 # Variable U_SEARCH_UNANSWERED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_SEARCH_UNANSWERED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_leave_shadow
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_leave_shadow -->
+    contenu
+<!-- END switch_leave_shadow -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_leave_shadow)
 
 ## Utilisations dans les templates

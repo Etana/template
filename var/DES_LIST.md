@@ -1,4 +1,13 @@
 # Variable DES_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DES_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DES_LIST)
 
 ## Utilisations dans les templates

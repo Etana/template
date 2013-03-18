@@ -1,4 +1,13 @@
 # Variable L_DENY_SELECTED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DENY_SELECTED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DENY_SELECTED)
 
 ## Utilisations dans les templates

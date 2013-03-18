@@ -1,4 +1,13 @@
 # Variable TODAY_DAY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TODAY_DAY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TODAY_DAY)
 
 ## Utilisations dans les templates

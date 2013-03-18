@@ -1,4 +1,13 @@
 # Variable L_NUFF_RESIZE_W
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NUFF_RESIZE_W}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NUFF_RESIZE_W)
 
 ## Utilisations dans les templates

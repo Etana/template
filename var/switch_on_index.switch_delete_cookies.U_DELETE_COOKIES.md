@@ -1,5 +1,4 @@
 # Variable switch_on_index.switch_delete_cookies.U_DELETE_COOKIES
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_delete_cookies](switch_delete_cookies.md#readme) se trouvant dans une boucle sur [switch_on_index](switch_on_index.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_delete_cookies](switch
     <!-- END switch_delete_cookies -->
 <!-- END switch_on_index -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES)
 
 ## Utilisations dans les templates
 

@@ -1,5 +1,4 @@
 # Variable userrow.ROW_CLASS
-[Ajouter une description](https://fa-tvars.appspot.com/var/userrow.ROW_CLASS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).
     {userrow.ROW_CLASS}
 <!-- END userrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/userrow.ROW_CLASS)
 
 ## Utilisations dans les templates
 

@@ -1,5 +1,4 @@
 # Variable picrow.LOCK
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.LOCK)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.LOCK}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.LOCK)
 
 ## Utilisations dans les templates
 

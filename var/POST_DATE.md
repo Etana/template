@@ -1,4 +1,13 @@
 # Variable POST_DATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POST_DATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POST_DATE)
 
 ## Utilisations dans les templates

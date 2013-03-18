@@ -1,5 +1,4 @@
 # Variable _calendar_box.S_FORUM_LIST
-[Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box.S_FORUM_LIST)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [_calendar_box](_calendar_box.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [_calendar_box](_calendar_box.
     {_calendar_box.S_FORUM_LIST}
 <!-- END _calendar_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box.S_FORUM_LIST)
 
 ## Utilisations dans les templates
 

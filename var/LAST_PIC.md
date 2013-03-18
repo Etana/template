@@ -1,4 +1,13 @@
 # Variable LAST_PIC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LAST_PIC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LAST_PIC)
 
 ## Utilisations dans les templates

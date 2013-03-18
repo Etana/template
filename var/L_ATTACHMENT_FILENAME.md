@@ -1,4 +1,13 @@
 # Variable L_ATTACHMENT_FILENAME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ATTACHMENT_FILENAME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ATTACHMENT_FILENAME)
 
 ## Utilisations dans les templates

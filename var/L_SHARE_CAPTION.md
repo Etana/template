@@ -1,4 +1,13 @@
 # Variable L_SHARE_CAPTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SHARE_CAPTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SHARE_CAPTION)
 
 ## Utilisations dans les templates

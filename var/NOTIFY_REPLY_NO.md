@@ -1,4 +1,13 @@
 # Variable NOTIFY_REPLY_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NOTIFY_REPLY_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NOTIFY_REPLY_NO)
 
 ## Utilisations dans les templates

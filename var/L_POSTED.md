@@ -1,4 +1,13 @@
 # Variable L_POSTED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_POSTED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_POSTED)
 
 ## Utilisations dans les templates

@@ -7,7 +7,7 @@
 ### [GOOGLE_CODE](../GOOGLE_CODE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/GOOGLE_CODE))
 * [Variable &agrave; la ligne 15](../../subsilver/search_body.tpl#L15)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 1](../../subsilver/search_body.tpl#L1)
 
 ### [JUMPBOX](../JUMPBOX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JUMPBOX))

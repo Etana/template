@@ -1,5 +1,4 @@
 # Variable edit_reason.L_EDIT_REASON
-[Ajouter une description](https://fa-tvars.appspot.com/var/edit_reason.L_EDIT_REASON)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [edit_reason](edit_reason.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [edit_reason](edit_reason.md#r
     {edit_reason.L_EDIT_REASON}
 <!-- END edit_reason -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/edit_reason.L_EDIT_REASON)
 
 ## Utilisations dans les templates
 

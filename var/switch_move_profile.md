@@ -1,4 +1,14 @@
 # Variable switch_move_profile
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_move_profile -->
+    contenu
+<!-- END switch_move_profile -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_move_profile)
 
 ## Utilisations dans les templates

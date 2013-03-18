@@ -1,5 +1,4 @@
 # Variable li_row.LINKEYWORDS
-[Ajouter une description](https://fa-tvars.appspot.com/var/li_row.LINKEYWORDS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [li_row](li_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [li_row](li_row.md#readme).
     {li_row.LINKEYWORDS}
 <!-- END li_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/li_row.LINKEYWORDS)
 
 ## Utilisations dans les templates
 

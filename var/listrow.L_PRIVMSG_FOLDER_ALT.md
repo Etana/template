@@ -1,5 +1,4 @@
 # Variable listrow.L_PRIVMSG_FOLDER_ALT
-[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.L_PRIVMSG_FOLDER_ALT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
     {listrow.L_PRIVMSG_FOLDER_ALT}
 <!-- END listrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.L_PRIVMSG_FOLDER_ALT)
 
 ## Utilisations dans les templates
 

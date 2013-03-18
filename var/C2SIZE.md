@@ -1,4 +1,13 @@
 # Variable C2SIZE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{C2SIZE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/C2SIZE)
 
 ## Utilisations dans les templates

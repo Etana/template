@@ -1,4 +1,14 @@
 # Variable recent_stats
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN recent_stats -->
+    contenu
+<!-- END recent_stats -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/recent_stats)
 
 ## Utilisations dans les templates

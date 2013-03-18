@@ -1,5 +1,4 @@
 # Variable searchresults.GOTO_PAGE
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [searchresults](searchresults.
     {searchresults.GOTO_PAGE}
 <!-- END searchresults -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
 
 ## Utilisations dans les templates
 

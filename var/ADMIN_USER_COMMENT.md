@@ -1,4 +1,13 @@
 # Variable ADMIN_USER_COMMENT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ADMIN_USER_COMMENT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ADMIN_USER_COMMENT)
 
 ## Utilisations dans les templates

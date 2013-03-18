@@ -1,4 +1,13 @@
 # Variable L_CURRENT_PREVIEW_SIGNATURE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CURRENT_PREVIEW_SIGNATURE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CURRENT_PREVIEW_SIGNATURE)
 
 ## Utilisations dans les templates

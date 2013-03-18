@@ -1,5 +1,4 @@
 # Variable switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_specials_fonts](switch_specials_fonts.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_specials_fonts](switch
     {switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG}
 <!-- END switch_specials_fonts -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG)
 
 ## Utilisations dans les templates
 

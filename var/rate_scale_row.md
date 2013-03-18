@@ -1,4 +1,14 @@
 # Variable rate_scale_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN rate_scale_row -->
+    contenu
+<!-- END rate_scale_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/rate_scale_row)
 
 ## Utilisations dans les templates

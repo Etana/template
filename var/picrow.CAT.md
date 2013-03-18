@@ -1,5 +1,4 @@
 # Variable picrow.CAT
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.CAT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.CAT}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.CAT)
 
 ## Utilisations dans les templates
 

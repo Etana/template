@@ -1,4 +1,13 @@
 # Variable S_FORUM_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_FORUM_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_FORUM_SELECT)
 
 ## Utilisations dans les templates

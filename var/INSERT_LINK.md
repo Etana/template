@@ -1,4 +1,13 @@
 # Variable INSERT_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INSERT_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INSERT_LINK)
 
 ## Utilisations dans les templates

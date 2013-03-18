@@ -1,5 +1,4 @@
 # Variable faq_block_link.BLOCK_TITLE
-[Ajouter une description](https://fa-tvars.appspot.com/var/faq_block_link.BLOCK_TITLE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [faq_block_link](faq_block_link.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [faq_block_link](faq_block_lin
     {faq_block_link.BLOCK_TITLE}
 <!-- END faq_block_link -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/faq_block_link.BLOCK_TITLE)
 
 ## Utilisations dans les templates
 

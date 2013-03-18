@@ -1,4 +1,13 @@
 # Variable L_VIEW_MORE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_VIEW_MORE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_VIEW_MORE)
 
 ## Utilisations dans les templates

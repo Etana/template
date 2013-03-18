@@ -1,4 +1,14 @@
 # Variable switch_compat_meta
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_compat_meta -->
+    contenu
+<!-- END switch_compat_meta -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_compat_meta)
 
 ## Utilisations dans les templates

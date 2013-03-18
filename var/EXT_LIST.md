@@ -1,4 +1,13 @@
 # Variable EXT_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{EXT_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/EXT_LIST)
 
 ## Utilisations dans les templates

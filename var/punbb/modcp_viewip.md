@@ -26,7 +26,7 @@
 ### [iprow.U_LOOKUP_IP](../iprow.U_LOOKUP_IP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/iprow.U_LOOKUP_IP))
 * [Variable &agrave; la ligne 100](../../punbb/modcp_viewip.tpl#L100)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 18](../../punbb/modcp_viewip.tpl#L18)
 
 ### [L_IP](../L_IP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_IP))

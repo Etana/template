@@ -1,4 +1,13 @@
 # Variable L_POST_NEW_TOPIC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_POST_NEW_TOPIC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_POST_NEW_TOPIC)
 
 ## Utilisations dans les templates

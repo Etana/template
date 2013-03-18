@@ -1,4 +1,14 @@
 # Variable spacer
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN spacer -->
+    contenu
+<!-- END spacer -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/spacer)
 
 ## Utilisations dans les templates

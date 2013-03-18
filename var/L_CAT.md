@@ -1,4 +1,13 @@
 # Variable L_CAT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CAT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CAT)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable S_MAX_HEIGHT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_MAX_HEIGHT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_MAX_HEIGHT)
 
 ## Utilisations dans les templates

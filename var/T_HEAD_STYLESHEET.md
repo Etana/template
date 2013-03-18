@@ -1,4 +1,13 @@
 # Variable T_HEAD_STYLESHEET
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{T_HEAD_STYLESHEET}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET)
 
 ## Utilisations dans les templates

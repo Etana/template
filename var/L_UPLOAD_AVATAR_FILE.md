@@ -1,4 +1,13 @@
 # Variable L_UPLOAD_AVATAR_FILE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_UPLOAD_AVATAR_FILE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_UPLOAD_AVATAR_FILE)
 
 ## Utilisations dans les templates

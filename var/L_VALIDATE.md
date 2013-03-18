@@ -1,4 +1,13 @@
 # Variable L_VALIDATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_VALIDATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_VALIDATE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable S_GROUP_OPEN_DISABLED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_GROUP_OPEN_DISABLED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_GROUP_OPEN_DISABLED)
 
 ## Utilisations dans les templates

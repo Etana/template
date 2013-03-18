@@ -1,4 +1,13 @@
 # Variable INTERESTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INTERESTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INTERESTS)
 
 ## Utilisations dans les templates

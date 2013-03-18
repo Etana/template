@@ -1,4 +1,13 @@
 # Variable U_LOOKUP_IP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_LOOKUP_IP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_LOOKUP_IP)
 
 ## Utilisations dans les templates

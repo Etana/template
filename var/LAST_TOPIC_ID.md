@@ -1,4 +1,13 @@
 # Variable LAST_TOPIC_ID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LAST_TOPIC_ID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LAST_TOPIC_ID)
 
 ## Utilisations dans les templates

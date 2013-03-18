@@ -1,5 +1,4 @@
 # Variable iprow.IP
-[Ajouter une description](https://fa-tvars.appspot.com/var/iprow.IP)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [iprow](iprow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [iprow](iprow.md#readme).
     {iprow.IP}
 <!-- END iprow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/iprow.IP)
 
 ## Utilisations dans les templates
 

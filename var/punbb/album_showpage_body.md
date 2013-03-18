@@ -40,7 +40,7 @@
 * [Variable &agrave; la ligne 295](../../punbb/album_showpage_body.tpl#L295)
 * [Variable &agrave; la ligne 301](../../punbb/album_showpage_body.tpl#L301)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 231](../../punbb/album_showpage_body.tpl#L231)
 
 ### [L_INFOS](../L_INFOS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INFOS))

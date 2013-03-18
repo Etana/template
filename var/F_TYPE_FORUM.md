@@ -1,4 +1,13 @@
 # Variable F_TYPE_FORUM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{F_TYPE_FORUM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/F_TYPE_FORUM)
 
 ## Utilisations dans les templates

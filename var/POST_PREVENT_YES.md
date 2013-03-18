@@ -1,4 +1,13 @@
 # Variable POST_PREVENT_YES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POST_PREVENT_YES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POST_PREVENT_YES)
 
 ## Utilisations dans les templates

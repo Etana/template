@@ -1,4 +1,13 @@
 # Variable QUOTE_PM_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{QUOTE_PM_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/QUOTE_PM_IMG)
 
 ## Utilisations dans les templates

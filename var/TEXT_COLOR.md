@@ -1,4 +1,13 @@
 # Variable TEXT_COLOR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TEXT_COLOR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TEXT_COLOR)
 
 ## Utilisations dans les templates

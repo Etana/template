@@ -1,4 +1,13 @@
 # Variable ADMINISTRATE_USER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ADMINISTRATE_USER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ADMINISTRATE_USER)
 
 ## Utilisations dans les templates

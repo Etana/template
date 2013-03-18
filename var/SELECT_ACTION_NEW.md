@@ -1,4 +1,13 @@
 # Variable SELECT_ACTION_NEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SELECT_ACTION_NEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SELECT_ACTION_NEW)
 
 ## Utilisations dans les templates

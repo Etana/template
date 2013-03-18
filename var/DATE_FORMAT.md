@@ -1,4 +1,13 @@
 # Variable DATE_FORMAT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DATE_FORMAT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DATE_FORMAT)
 
 ## Utilisations dans les templates

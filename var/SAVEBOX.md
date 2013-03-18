@@ -1,4 +1,13 @@
 # Variable SAVEBOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SAVEBOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SAVEBOX)
 
 ## Utilisations dans les templates

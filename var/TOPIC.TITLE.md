@@ -1,5 +1,4 @@
 # Variable TOPIC.TITLE
-[Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC.TITLE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [TOPIC](TOPIC.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [TOPIC](TOPIC.md#readme).
     {TOPIC.TITLE}
 <!-- END TOPIC -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC.TITLE)
 
 ## Utilisations dans les templates
 

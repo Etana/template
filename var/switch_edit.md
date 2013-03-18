@@ -1,4 +1,14 @@
 # Variable switch_edit
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_edit -->
+    contenu
+<!-- END switch_edit -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_edit)
 
 ## Utilisations dans les templates

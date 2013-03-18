@@ -1,4 +1,13 @@
 # Variable LANGUAGE_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LANGUAGE_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LANGUAGE_SELECT)
 
 ## Utilisations dans les templates

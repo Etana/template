@@ -1,4 +1,13 @@
 # Variable IMG_CALENDAR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_CALENDAR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_CALENDAR)
 
 ## Utilisations dans les templates

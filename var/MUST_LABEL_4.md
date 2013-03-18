@@ -1,4 +1,13 @@
 # Variable MUST_LABEL_4
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MUST_LABEL_4}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MUST_LABEL_4)
 
 ## Utilisations dans les templates

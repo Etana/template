@@ -1,5 +1,4 @@
 # Variable hitskin_preview.L_RETURN_THEME
-[Ajouter une description](https://fa-tvars.appspot.com/var/hitskin_preview.L_RETURN_THEME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [hitskin_preview](hitskin_preview.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [hitskin_preview](hitskin_prev
     {hitskin_preview.L_RETURN_THEME}
 <!-- END hitskin_preview -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/hitskin_preview.L_RETURN_THEME)
 
 ## Utilisations dans les templates
 

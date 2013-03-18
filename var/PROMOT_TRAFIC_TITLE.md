@@ -1,4 +1,13 @@
 # Variable PROMOT_TRAFIC_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PROMOT_TRAFIC_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PROMOT_TRAFIC_TITLE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_NO_MEMBERS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NO_MEMBERS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NO_MEMBERS)
 
 ## Utilisations dans les templates

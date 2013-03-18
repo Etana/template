@@ -1,4 +1,13 @@
 # Variable L_DELETE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DELETE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DELETE)
 
 ## Utilisations dans les templates

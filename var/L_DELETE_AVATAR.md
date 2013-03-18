@@ -1,4 +1,13 @@
 # Variable L_DELETE_AVATAR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DELETE_AVATAR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DELETE_AVATAR)
 
 ## Utilisations dans les templates

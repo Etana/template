@@ -1,4 +1,13 @@
 # Variable CURRENT_FID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CURRENT_FID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CURRENT_FID)
 
 ## Utilisations dans les templates

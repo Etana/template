@@ -1,5 +1,4 @@
 # Variable birthday_list_box.FIELDNAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.FIELDNAME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [birthday_list_box](birthday_list_box.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [birthday_list_box](birthday_l
     {birthday_list_box.FIELDNAME}
 <!-- END birthday_list_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.FIELDNAME)
 
 ## Utilisations dans les templates
 

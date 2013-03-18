@@ -1,4 +1,13 @@
 # Variable L_MARK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MARK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MARK)
 
 ## Utilisations dans les templates

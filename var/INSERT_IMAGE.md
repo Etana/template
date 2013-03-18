@@ -1,4 +1,13 @@
 # Variable INSERT_IMAGE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INSERT_IMAGE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INSERT_IMAGE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable NEXT_PIC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NEXT_PIC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NEXT_PIC)
 
 ## Utilisations dans les templates

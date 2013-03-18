@@ -1,5 +1,12 @@
 # Variable U_VIEWONLINE
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_VIEWONLINE}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/U_VIEWONLINE)
 Adresse relative vers la page "qui est en ligne".
 

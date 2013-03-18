@@ -1,4 +1,13 @@
 # Variable L_SEARCH_NEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SEARCH_NEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SEARCH_NEW)
 
 ## Utilisations dans les templates

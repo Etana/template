@@ -1,4 +1,13 @@
 # Variable BY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/BY)
 
 ## Utilisations dans les templates

@@ -19,7 +19,7 @@
 ### [L_FROM_TOPIC_EXPLAIN](../L_FROM_TOPIC_EXPLAIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FROM_TOPIC_EXPLAIN))
 * [Variable &agrave; la ligne 36](../../punbb/merge_body.tpl#L36)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 18](../../punbb/merge_body.tpl#L18)
 
 ### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER))

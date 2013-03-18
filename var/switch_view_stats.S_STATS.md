@@ -1,5 +1,4 @@
 # Variable switch_view_stats.S_STATS
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_view_stats.S_STATS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_view_stats](switch_view_stats.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_view_stats](switch_vie
     {switch_view_stats.S_STATS}
 <!-- END switch_view_stats -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_view_stats.S_STATS)
 
 ## Utilisations dans les templates
 

@@ -1,5 +1,4 @@
 # Variable searchresults.TOPIC_ID
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ID)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [searchresults](searchresults.
     {searchresults.TOPIC_ID}
 <!-- END searchresults -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ID)
 
 ## Utilisations dans les templates
 

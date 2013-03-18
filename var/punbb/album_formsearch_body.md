@@ -7,7 +7,7 @@
 ### [L_GALLERIES](../L_GALLERIES.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GALLERIES))
 * [Variable &agrave; la ligne 36](../../punbb/album_formsearch_body.tpl#L36)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 16](../../punbb/album_formsearch_body.tpl#L16)
 
 ### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER))

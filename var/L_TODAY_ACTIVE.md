@@ -1,5 +1,12 @@
 # Variable L_TODAY_ACTIVE
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TODAY_ACTIVE}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE)
 Affiche le texte du lien de la variable [`{U_TODAY_ACTIVE}`](U_TODAY_ACTIVE.md#readme).
 

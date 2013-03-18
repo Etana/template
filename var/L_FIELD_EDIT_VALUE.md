@@ -1,4 +1,13 @@
 # Variable L_FIELD_EDIT_VALUE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FIELD_EDIT_VALUE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FIELD_EDIT_VALUE)
 
 ## Utilisations dans les templates

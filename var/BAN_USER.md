@@ -1,4 +1,13 @@
 # Variable BAN_USER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BAN_USER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/BAN_USER)
 
 ## Utilisations dans les templates

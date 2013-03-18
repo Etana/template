@@ -1,4 +1,13 @@
 # Variable L_GENDER_MALE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_GENDER_MALE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_GENDER_MALE)
 
 ## Utilisations dans les templates

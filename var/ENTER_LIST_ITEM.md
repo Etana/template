@@ -1,4 +1,13 @@
 # Variable ENTER_LIST_ITEM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ENTER_LIST_ITEM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ENTER_LIST_ITEM)
 
 ## Utilisations dans les templates

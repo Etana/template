@@ -1,4 +1,13 @@
 # Variable S_FORM_MOD_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_FORM_MOD_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_FORM_MOD_ACTION)
 
 ## Utilisations dans les templates

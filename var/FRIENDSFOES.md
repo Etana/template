@@ -1,4 +1,13 @@
 # Variable FRIENDSFOES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{FRIENDSFOES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/FRIENDSFOES)
 
 ## Utilisations dans les templates

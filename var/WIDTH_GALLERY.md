@@ -1,4 +1,13 @@
 # Variable WIDTH_GALLERY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{WIDTH_GALLERY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/WIDTH_GALLERY)
 
 ## Utilisations dans les templates

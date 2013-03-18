@@ -1,4 +1,13 @@
 # Variable L_LASTPOST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LASTPOST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_LASTPOST)
 
 ## Utilisations dans les templates

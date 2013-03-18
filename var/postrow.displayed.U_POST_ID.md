@@ -1,5 +1,4 @@
 # Variable postrow.displayed.U_POST_ID
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.U_POST_ID)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [displayed](displayed.md#readm
     <!-- END displayed -->
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.U_POST_ID)
 
 ## Utilisations dans les templates
 

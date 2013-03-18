@@ -1,4 +1,13 @@
 # Variable S_TOPIC_ADMIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_TOPIC_ADMIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_TOPIC_ADMIN)
 
 ## Utilisations dans les templates

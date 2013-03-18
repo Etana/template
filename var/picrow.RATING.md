@@ -1,5 +1,4 @@
 # Variable picrow.RATING
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.RATING)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.RATING}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.RATING)
 
 ## Utilisations dans les templates
 

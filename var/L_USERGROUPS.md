@@ -1,4 +1,13 @@
 # Variable L_USERGROUPS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_USERGROUPS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_USERGROUPS)
 
 ## Utilisations dans les templates

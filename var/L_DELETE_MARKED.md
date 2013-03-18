@@ -1,4 +1,13 @@
 # Variable L_DELETE_MARKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DELETE_MARKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DELETE_MARKED)
 
 ## Utilisations dans les templates

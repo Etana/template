@@ -1,4 +1,13 @@
 # Variable SCROLL_HEIGHT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SCROLL_HEIGHT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SCROLL_HEIGHT)
 
 ## Utilisations dans les templates

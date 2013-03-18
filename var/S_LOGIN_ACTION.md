@@ -1,5 +1,12 @@
 # Variable S_LOGIN_ACTION
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_LOGIN_ACTION}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION)
 Action du formulaire de connexion.
 

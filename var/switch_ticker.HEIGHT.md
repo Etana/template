@@ -1,5 +1,4 @@
 # Variable switch_ticker.HEIGHT
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.HEIGHT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_ticker](switch_ticker.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_ticker](switch_ticker.
     {switch_ticker.HEIGHT}
 <!-- END switch_ticker -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.HEIGHT)
 
 ## Utilisations dans les templates
 

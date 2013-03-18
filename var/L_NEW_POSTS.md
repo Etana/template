@@ -1,5 +1,12 @@
 # Variable L_NEW_POSTS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NEW_POSTS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_NEW_POSTS)
 Chaîne de texte.
 

@@ -1,4 +1,13 @@
 # Variable POLL_DISPLAY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLL_DISPLAY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLL_DISPLAY)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_TOP_POST_USERS_MONTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TOP_POST_USERS_MONTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TOP_POST_USERS_MONTH)
 
 ## Utilisations dans les templates

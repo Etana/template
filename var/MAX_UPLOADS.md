@@ -1,4 +1,13 @@
 # Variable MAX_UPLOADS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MAX_UPLOADS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MAX_UPLOADS)
 
 ## Utilisations dans les templates

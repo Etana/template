@@ -1,4 +1,13 @@
 # Variable POLL_QUESTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLL_QUESTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLL_QUESTION)
 
 ## Utilisations dans les templates

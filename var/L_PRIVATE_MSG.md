@@ -1,4 +1,13 @@
 # Variable L_PRIVATE_MSG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PRIVATE_MSG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PRIVATE_MSG)
 
 ## Utilisations dans les templates

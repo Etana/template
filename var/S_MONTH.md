@@ -1,4 +1,13 @@
 # Variable S_MONTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_MONTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_MONTH)
 
 ## Utilisations dans les templates

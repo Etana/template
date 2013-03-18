@@ -1,4 +1,13 @@
 # Variable NEWSLETTER_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NEWSLETTER_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NEWSLETTER_NO)
 
 ## Utilisations dans les templates

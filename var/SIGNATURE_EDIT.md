@@ -1,4 +1,13 @@
 # Variable SIGNATURE_EDIT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SIGNATURE_EDIT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SIGNATURE_EDIT)
 
 ## Utilisations dans les templates

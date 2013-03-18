@@ -1,4 +1,14 @@
 # Variable sort_albums
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN sort_albums -->
+    contenu
+<!-- END sort_albums -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/sort_albums)
 
 ## Utilisations dans les templates

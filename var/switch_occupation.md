@@ -1,4 +1,14 @@
 # Variable switch_occupation
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_occupation -->
+    contenu
+<!-- END switch_occupation -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_occupation)
 
 ## Utilisations dans les templates

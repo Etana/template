@@ -1,4 +1,13 @@
 # Variable PIC_BBCODE2
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_BBCODE2}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_BBCODE2)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable NAV_SEP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NAV_SEP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NAV_SEP)
 
 ## Utilisations dans les templates

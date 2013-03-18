@@ -1,4 +1,13 @@
 # Variable L_ALLOWED_ZIP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ALLOWED_ZIP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ALLOWED_ZIP)
 
 ## Utilisations dans les templates

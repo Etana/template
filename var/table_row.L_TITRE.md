@@ -1,5 +1,4 @@
 # Variable table_row.L_TITRE
-[Ajouter une description](https://fa-tvars.appspot.com/var/table_row.L_TITRE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [table_row](table_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [table_row](table_row.md#readm
     {table_row.L_TITRE}
 <!-- END table_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/table_row.L_TITRE)
 
 ## Utilisations dans les templates
 

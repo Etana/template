@@ -1,4 +1,14 @@
 # Variable switch_delete
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_delete -->
+    contenu
+<!-- END switch_delete -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_delete)
 
 ## Utilisations dans les templates

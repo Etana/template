@@ -1,4 +1,13 @@
 # Variable U_ALBUM_SHOWPAGE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_ALBUM_SHOWPAGE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_ALBUM_SHOWPAGE)
 
 ## Utilisations dans les templates

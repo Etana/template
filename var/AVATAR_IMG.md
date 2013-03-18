@@ -1,4 +1,13 @@
 # Variable AVATAR_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{AVATAR_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/AVATAR_IMG)
 
 ## Utilisations dans les templates

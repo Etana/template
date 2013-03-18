@@ -1,4 +1,13 @@
 # Variable L_REPORT_ARCHIVE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_REPORT_ARCHIVE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_REPORT_ARCHIVE)
 
 ## Utilisations dans les templates

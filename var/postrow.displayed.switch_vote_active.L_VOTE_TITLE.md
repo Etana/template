@@ -1,5 +1,4 @@
 # Variable postrow.displayed.switch_vote_active.L_VOTE_TITLE
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.L_VOTE_TITLE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_vote_active](switch_vote_active.md#readme) se trouvant dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [switch_vote_active](switch_vo
     <!-- END displayed -->
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.L_VOTE_TITLE)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,14 @@
 # Variable switch_website
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_website -->
+    contenu
+<!-- END switch_website -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_website)
 
 ## Utilisations dans les templates

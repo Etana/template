@@ -1,4 +1,13 @@
 # Variable L_SMILIES_PREVIEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SMILIES_PREVIEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SMILIES_PREVIEW)
 
 ## Utilisations dans les templates

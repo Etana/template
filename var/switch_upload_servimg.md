@@ -1,4 +1,14 @@
 # Variable switch_upload_servimg
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_upload_servimg -->
+    contenu
+<!-- END switch_upload_servimg -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_upload_servimg)
 
 ## Utilisations dans les templates

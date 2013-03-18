@@ -1,4 +1,13 @@
 # Variable U_VIEW_CAT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_VIEW_CAT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_VIEW_CAT)
 
 ## Utilisations dans les templates

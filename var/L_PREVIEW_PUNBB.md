@@ -1,4 +1,13 @@
 # Variable L_PREVIEW_PUNBB
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PREVIEW_PUNBB}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PREVIEW_PUNBB)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable picrow.POSTER
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.POSTER)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.POSTER}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.POSTER)
 
 ## Utilisations dans les templates
 

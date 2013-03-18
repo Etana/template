@@ -1,5 +1,4 @@
 # Variable pending_members_row.USER_ID
-[Ajouter une description](https://fa-tvars.appspot.com/var/pending_members_row.USER_ID)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [pending_members_row](pending_members_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [pending_members_row](pending_
     {pending_members_row.USER_ID}
 <!-- END pending_members_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/pending_members_row.USER_ID)
 
 ## Utilisations dans les templates
 

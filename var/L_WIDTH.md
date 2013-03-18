@@ -1,4 +1,13 @@
 # Variable L_WIDTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_WIDTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_WIDTH)
 
 ## Utilisations dans les templates

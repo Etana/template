@@ -1,4 +1,14 @@
 # Variable switch_viewed
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_viewed -->
+    contenu
+<!-- END switch_viewed -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_viewed)
 
 ## Utilisations dans les templates

@@ -31,7 +31,7 @@
 ### [L_DESC](../L_DESC.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_DESC))
 * [Variable &agrave; la ligne 98](../../punbb/album_modcp_body.tpl#L98)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 17](../../punbb/album_modcp_body.tpl#L17)
 
 ### [L_LOCK](../L_LOCK.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOCK))

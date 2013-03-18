@@ -1,4 +1,13 @@
 # Variable STYLE_CSS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{STYLE_CSS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/STYLE_CSS)
 
 ## Utilisations dans les templates

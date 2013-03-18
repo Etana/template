@@ -1,4 +1,13 @@
 # Variable L_IP_INFO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_IP_INFO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_IP_INFO)
 
 ## Utilisations dans les templates

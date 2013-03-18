@@ -1,4 +1,13 @@
 # Variable L_THIS_POST_IP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_THIS_POST_IP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_THIS_POST_IP)
 
 ## Utilisations dans les templates

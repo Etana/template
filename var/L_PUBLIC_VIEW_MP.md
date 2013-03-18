@@ -1,4 +1,13 @@
 # Variable L_PUBLIC_VIEW_MP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PUBLIC_VIEW_MP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PUBLIC_VIEW_MP)
 
 ## Utilisations dans les templates

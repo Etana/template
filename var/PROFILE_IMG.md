@@ -1,4 +1,13 @@
 # Variable PROFILE_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PROFILE_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PROFILE_IMG)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable ENTER_EMAIL_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ENTER_EMAIL_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ENTER_EMAIL_LINK)
 
 ## Utilisations dans les templates

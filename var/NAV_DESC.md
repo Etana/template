@@ -1,4 +1,13 @@
 # Variable NAV_DESC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NAV_DESC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NAV_DESC)
 
 ## Utilisations dans les templates

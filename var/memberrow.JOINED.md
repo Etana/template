@@ -1,5 +1,4 @@
 # Variable memberrow.JOINED
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.JOINED)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readm
     {memberrow.JOINED}
 <!-- END memberrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.JOINED)
 
 ## Utilisations dans les templates
 

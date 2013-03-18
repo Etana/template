@@ -1,4 +1,14 @@
 # Variable show_permissions
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN show_permissions -->
+    contenu
+<!-- END show_permissions -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/show_permissions)
 
 ## Utilisations dans les templates

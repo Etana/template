@@ -1,4 +1,13 @@
 # Variable IMG_SCREEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_SCREEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_SCREEN)
 
 ## Utilisations dans les templates

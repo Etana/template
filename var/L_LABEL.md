@@ -1,4 +1,13 @@
 # Variable L_LABEL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LABEL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_LABEL)
 
 ## Utilisations dans les templates

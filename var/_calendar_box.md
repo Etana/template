@@ -1,4 +1,14 @@
 # Variable _calendar_box
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN _calendar_box -->
+    contenu
+<!-- END _calendar_box -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box)
 
 ## Utilisations dans les templates

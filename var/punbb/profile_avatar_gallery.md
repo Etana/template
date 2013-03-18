@@ -38,7 +38,7 @@
 ### [L_GO](../L_GO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GO))
 * [Variable &agrave; la ligne 25](../../punbb/profile_avatar_gallery.tpl#L25)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 17](../../punbb/profile_avatar_gallery.tpl#L17)
 
 ### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER))

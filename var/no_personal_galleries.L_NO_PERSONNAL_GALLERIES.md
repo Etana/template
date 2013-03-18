@@ -1,5 +1,4 @@
 # Variable no_personal_galleries.L_NO_PERSONNAL_GALLERIES
-[Ajouter une description](https://fa-tvars.appspot.com/var/no_personal_galleries.L_NO_PERSONNAL_GALLERIES)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [no_personal_galleries](no_personal_galleries.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [no_personal_galleries](no_per
     {no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
 <!-- END no_personal_galleries -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/no_personal_galleries.L_NO_PERSONNAL_GALLERIES)
 
 ## Utilisations dans les templates
 

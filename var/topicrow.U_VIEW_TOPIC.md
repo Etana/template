@@ -1,5 +1,4 @@
 # Variable topicrow.U_VIEW_TOPIC
-[Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.U_VIEW_TOPIC)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme)
     {topicrow.U_VIEW_TOPIC}
 <!-- END topicrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.U_VIEW_TOPIC)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable S_RATE_MSG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_RATE_MSG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_RATE_MSG)
 
 ## Utilisations dans les templates

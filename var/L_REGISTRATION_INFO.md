@@ -1,4 +1,13 @@
 # Variable L_REGISTRATION_INFO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_REGISTRATION_INFO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_REGISTRATION_INFO)
 
 ## Utilisations dans les templates

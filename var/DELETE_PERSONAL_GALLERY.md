@@ -1,4 +1,13 @@
 # Variable DELETE_PERSONAL_GALLERY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DELETE_PERSONAL_GALLERY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DELETE_PERSONAL_GALLERY)
 
 ## Utilisations dans les templates

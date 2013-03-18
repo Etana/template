@@ -1,4 +1,13 @@
 # Variable L_BBCODE_SUP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BBCODE_SUP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_SUP)
 
 ## Utilisations dans les templates

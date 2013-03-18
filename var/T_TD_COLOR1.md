@@ -1,4 +1,13 @@
 # Variable T_TD_COLOR1
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{T_TD_COLOR1}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/T_TD_COLOR1)
 
 ## Utilisations dans les templates

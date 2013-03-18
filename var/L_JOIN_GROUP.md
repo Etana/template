@@ -1,4 +1,13 @@
 # Variable L_JOIN_GROUP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_JOIN_GROUP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_JOIN_GROUP)
 
 ## Utilisations dans les templates

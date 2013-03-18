@@ -1,4 +1,13 @@
 # Variable L_NEW_POST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NEW_POST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NEW_POST)
 
 ## Utilisations dans les templates

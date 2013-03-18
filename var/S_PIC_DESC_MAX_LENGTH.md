@@ -1,4 +1,13 @@
 # Variable S_PIC_DESC_MAX_LENGTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_PIC_DESC_MAX_LENGTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_PIC_DESC_MAX_LENGTH)
 
 ## Utilisations dans les templates

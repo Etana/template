@@ -1,4 +1,14 @@
 # Variable pic_pagination
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN pic_pagination -->
+    contenu
+<!-- END pic_pagination -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/pic_pagination)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable S_SIGNATURE_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_SIGNATURE_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_SIGNATURE_CHECKED)
 
 ## Utilisations dans les templates

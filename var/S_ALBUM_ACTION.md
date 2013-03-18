@@ -1,4 +1,13 @@
 # Variable S_ALBUM_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_ALBUM_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_ALBUM_ACTION)
 
 ## Utilisations dans les templates

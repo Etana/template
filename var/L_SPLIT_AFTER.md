@@ -1,4 +1,13 @@
 # Variable L_SPLIT_AFTER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SPLIT_AFTER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SPLIT_AFTER)
 
 ## Utilisations dans les templates

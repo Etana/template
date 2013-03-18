@@ -1,5 +1,4 @@
 # Variable member_row.PM_IMG
-[Ajouter une description](https://fa-tvars.appspot.com/var/member_row.PM_IMG)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [member_row](member_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [member_row](member_row.md#rea
     {member_row.PM_IMG}
 <!-- END member_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/member_row.PM_IMG)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable L_PIC_LOCKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PIC_LOCKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PIC_LOCKED)
 
 ## Utilisations dans les templates

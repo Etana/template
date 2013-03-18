@@ -1,4 +1,14 @@
 # Variable line_sticky
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN line_sticky -->
+    contenu
+<!-- END line_sticky -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/line_sticky)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable footer_link
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN footer_link -->
+    contenu
+<!-- END footer_link -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/footer_link)
 
 ## Utilisations dans les templates

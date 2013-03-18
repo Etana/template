@@ -1,5 +1,4 @@
 # Variable listrow.S_MARK_ID
-[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.S_MARK_ID)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
     {listrow.S_MARK_ID}
 <!-- END listrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.S_MARK_ID)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable CLASS_ROW2
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CLASS_ROW2}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CLASS_ROW2)
 
 ## Utilisations dans les templates

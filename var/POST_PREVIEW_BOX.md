@@ -1,4 +1,13 @@
 # Variable POST_PREVIEW_BOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POST_PREVIEW_BOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POST_PREVIEW_BOX)
 
 ## Utilisations dans les templates

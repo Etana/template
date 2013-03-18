@@ -59,7 +59,7 @@
 ### [L_FORUM_LOCATION](../L_FORUM_LOCATION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FORUM_LOCATION))
 * [Variable &agrave; la ligne 18](../../subsilver/viewonline_body.tpl#L18)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 11](../../subsilver/viewonline_body.tpl#L11)
 
 ### [L_LAST_UPDATE](../L_LAST_UPDATE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LAST_UPDATE))

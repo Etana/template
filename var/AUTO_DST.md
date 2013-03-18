@@ -1,5 +1,12 @@
 # Variable AUTO_DST
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{AUTO_DST}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/AUTO_DST)
 Variable actuellement inutilisée.
 

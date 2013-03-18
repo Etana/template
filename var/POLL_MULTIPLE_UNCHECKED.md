@@ -1,4 +1,13 @@
 # Variable POLL_MULTIPLE_UNCHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLL_MULTIPLE_UNCHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLL_MULTIPLE_UNCHECKED)
 
 ## Utilisations dans les templates

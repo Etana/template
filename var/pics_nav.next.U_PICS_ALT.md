@@ -1,5 +1,4 @@
 # Variable pics_nav.next.U_PICS_ALT
-[Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav.next.U_PICS_ALT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [next](next.md#readme) se trouvant dans une boucle sur [pics_nav](pics_nav.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [next](next.md#readme) se trou
     <!-- END next -->
 <!-- END pics_nav -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav.next.U_PICS_ALT)
 
 ## Utilisations dans les templates
 

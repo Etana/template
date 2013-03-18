@@ -34,7 +34,7 @@
 ### [L_GO](../L_GO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GO))
 * [Variable &agrave; la ligne 86](../../punbb/report_list_body.tpl#L86)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 18](../../punbb/report_list_body.tpl#L18)
 
 ### [L_LAST_EDIT](../L_LAST_EDIT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LAST_EDIT))

@@ -16,7 +16,7 @@
 ### [L_ALBUM_NAME](../L_ALBUM_NAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ALBUM_NAME))
 * [Variable &agrave; la ligne 22](../../subsilver/album_cat_top10.tpl#L22)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 5](../../subsilver/album_cat_top10.tpl#L5)
 
 ### [L_NO_PICS](../L_NO_PICS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_NO_PICS))

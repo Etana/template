@@ -1,4 +1,13 @@
 # Variable S_FORM_ENCTYPE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_FORM_ENCTYPE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_FORM_ENCTYPE)
 
 ## Utilisations dans les templates

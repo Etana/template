@@ -1,5 +1,4 @@
 # Variable row.STATUS
-[Ajouter une description](https://fa-tvars.appspot.com/var/row.STATUS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [row](row.md#readme).
     {row.STATUS}
 <!-- END row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/row.STATUS)
 
 ## Utilisations dans les templates
 

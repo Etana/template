@@ -1,4 +1,14 @@
 # Variable switch_subscribe_group_input
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_subscribe_group_input -->
+    contenu
+<!-- END switch_subscribe_group_input -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_subscribe_group_input)
 
 ## Utilisations dans les templates

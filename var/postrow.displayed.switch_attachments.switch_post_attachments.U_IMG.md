@@ -1,5 +1,4 @@
 # Variable postrow.displayed.switch_attachments.switch_post_attachments.U_IMG
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.U_IMG)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_post_attachments](switch_post_attachments.md#readme) se trouvant dans une boucle sur [switch_attachments](switch_attachments.md#readme) se trouvant dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).
@@ -15,6 +14,9 @@ Cette variable est utilisable dans une boucle sur [switch_post_attachments](swit
     <!-- END displayed -->
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.U_IMG)
 
 ## Utilisations dans les templates
 

@@ -101,7 +101,7 @@
 ### [L_ALBUM](../L_ALBUM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ALBUM))
 * [Variable &agrave; la ligne 4](../../subsilver/album_index_body.tpl#L4)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 4](../../subsilver/album_index_body.tpl#L4)
 
 ### [L_NO_PICS](../L_NO_PICS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_NO_PICS))

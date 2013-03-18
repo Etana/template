@@ -1,5 +1,4 @@
 # Variable li_row.KEYWORDS
-[Ajouter une description](https://fa-tvars.appspot.com/var/li_row.KEYWORDS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [li_row](li_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [li_row](li_row.md#readme).
     {li_row.KEYWORDS}
 <!-- END li_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/li_row.KEYWORDS)
 
 ## Utilisations dans les templates
 

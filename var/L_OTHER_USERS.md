@@ -1,4 +1,13 @@
 # Variable L_OTHER_USERS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_OTHER_USERS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_OTHER_USERS)
 
 ## Utilisations dans les templates

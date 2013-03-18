@@ -1,4 +1,14 @@
 # Variable switch_poster_guest
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_poster_guest -->
+    contenu
+<!-- END switch_poster_guest -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_poster_guest)
 
 ## Utilisations dans les templates

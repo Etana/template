@@ -1,5 +1,4 @@
 # Variable switch_topic_modif.switch_icon_checkbox.row.cell.ICON_ID
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_ID)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trouvant dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [switch_icon_checkbox](switch_icon_checkbox.md#readme) se trouvant dans une boucle sur [switch_topic_modif](switch_topic_modif.md#readme).
@@ -15,6 +14,9 @@ Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trou
     <!-- END switch_icon_checkbox -->
 <!-- END switch_topic_modif -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_ID)
 
 ## Utilisations dans les templates
 

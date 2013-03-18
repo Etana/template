@@ -1,5 +1,12 @@
 # Variable AUTOLOGIN_CHECKED
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{AUTOLOGIN_CHECKED}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/AUTOLOGIN_CHECKED)
 Choix de la connexion automatique.
 

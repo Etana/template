@@ -1,5 +1,4 @@
 # Variable list_pics_block.list_pics.U_PIC
-[Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.U_PIC)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [list_pics](list_pics.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [list_pics](list_pics.md#readm
     <!-- END list_pics -->
 <!-- END list_pics_block -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.U_PIC)
 
 ## Utilisations dans les templates
 

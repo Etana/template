@@ -1,4 +1,13 @@
 # Variable SORT_VIEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SORT_VIEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SORT_VIEW)
 
 ## Utilisations dans les templates

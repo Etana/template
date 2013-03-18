@@ -1,4 +1,13 @@
 # Variable INBOX_LIMIT_PERCENT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INBOX_LIMIT_PERCENT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INBOX_LIMIT_PERCENT)
 
 ## Utilisations dans les templates

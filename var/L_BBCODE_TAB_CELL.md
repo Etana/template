@@ -1,4 +1,13 @@
 # Variable L_BBCODE_TAB_CELL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BBCODE_TAB_CELL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_TAB_CELL)
 
 ## Utilisations dans les templates

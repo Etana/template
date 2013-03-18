@@ -1,4 +1,14 @@
 # Variable display_infos
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN display_infos -->
+    contenu
+<!-- END display_infos -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/display_infos)
 
 ## Utilisations dans les templates

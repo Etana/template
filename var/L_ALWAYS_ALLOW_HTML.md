@@ -1,4 +1,13 @@
 # Variable L_ALWAYS_ALLOW_HTML
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ALWAYS_ALLOW_HTML}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ALWAYS_ALLOW_HTML)
 
 ## Utilisations dans les templates

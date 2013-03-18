@@ -1,4 +1,13 @@
 # Variable IMGS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMGS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMGS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_DAYS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DAYS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DAYS)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable _calendar_box.SPAN_ALL
-[Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box.SPAN_ALL)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [_calendar_box](_calendar_box.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [_calendar_box](_calendar_box.
     {_calendar_box.SPAN_ALL}
 <!-- END _calendar_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box.SPAN_ALL)
 
 ## Utilisations dans les templates
 

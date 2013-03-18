@@ -1,4 +1,13 @@
 # Variable NAV_SEPARATOR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NAV_SEPARATOR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NAV_SEPARATOR)
 
 ## Utilisations dans les templates

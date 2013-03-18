@@ -1,4 +1,13 @@
 # Variable L_COPY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COPY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COPY)
 
 ## Utilisations dans les templates

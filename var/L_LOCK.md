@@ -1,4 +1,13 @@
 # Variable L_LOCK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LOCK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_LOCK)
 
 ## Utilisations dans les templates

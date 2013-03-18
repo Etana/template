@@ -1,4 +1,14 @@
 # Variable watchsearch
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN watchsearch -->
+    contenu
+<!-- END watchsearch -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/watchsearch)
 
 ## Utilisations dans les templates

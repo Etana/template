@@ -1,4 +1,13 @@
 # Variable BBCODE_STATUS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BBCODE_STATUS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/BBCODE_STATUS)
 
 ## Utilisations dans les templates

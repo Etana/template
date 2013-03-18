@@ -1,4 +1,13 @@
 # Variable NAMESPACE_FB
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NAMESPACE_FB}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NAMESPACE_FB)
 
 ## Utilisations dans les templates

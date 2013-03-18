@@ -1,4 +1,13 @@
 # Variable S_GROUP_OPEN_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_GROUP_OPEN_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_GROUP_OPEN_CHECKED)
 
 ## Utilisations dans les templates

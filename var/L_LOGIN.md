@@ -1,5 +1,12 @@
 # Variable L_LOGIN
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LOGIN}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_LOGIN)
 Chaîne de texte.
 

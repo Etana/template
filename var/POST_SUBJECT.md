@@ -1,4 +1,13 @@
 # Variable POST_SUBJECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POST_SUBJECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POST_SUBJECT)
 
 ## Utilisations dans les templates

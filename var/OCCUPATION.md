@@ -1,4 +1,13 @@
 # Variable OCCUPATION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{OCCUPATION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/OCCUPATION)
 
 ## Utilisations dans les templates

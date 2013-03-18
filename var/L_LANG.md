@@ -1,5 +1,16 @@
 # Variable L_LANG
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_LANG)
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LANG}
+```
+
+##Description[*](https://fa-tvars.appspot.com/var/L_LANG)
+Chaîne de texte qui permet de définir un code JavaScript selon la langue de votre forum .
+
+*Attention : Cette variable est importante au bon fonctionnement de votre forum !*
 
 ## Utilisations dans les templates
 

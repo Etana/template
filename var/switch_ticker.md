@@ -1,4 +1,14 @@
 # Variable switch_ticker
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_ticker -->
+    contenu
+<!-- END switch_ticker -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker)
 
 ## Utilisations dans les templates

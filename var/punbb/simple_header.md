@@ -4,13 +4,13 @@
 
 ## Variables utilisées
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 11](../../punbb/simple_header.tpl#L11)
 
-### [L_LANG](../L_LANG.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LANG))
+### [L_LANG](../L_LANG.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LANG))
 * [Variable &agrave; la ligne 11](../../punbb/simple_header.tpl#L11)
 
-### [L_LANG_HTML](../L_LANG_HTML.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LANG_HTML))
+### [L_LANG_HTML](../L_LANG_HTML.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LANG_HTML))
 * [Variable &agrave; la ligne 2](../../punbb/simple_header.tpl#L2)
 * [Variable &agrave; la ligne 2](../../punbb/simple_header.tpl#L2)
 

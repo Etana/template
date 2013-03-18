@@ -1,4 +1,13 @@
 # Variable S_BIRTHDAY_NEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_BIRTHDAY_NEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_BIRTHDAY_NEW)
 
 ## Utilisations dans les templates

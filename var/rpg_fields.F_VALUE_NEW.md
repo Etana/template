@@ -1,5 +1,4 @@
 # Variable rpg_fields.F_VALUE_NEW
-[Ajouter une description](https://fa-tvars.appspot.com/var/rpg_fields.F_VALUE_NEW)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [rpg_fields](rpg_fields.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [rpg_fields](rpg_fields.md#rea
     {rpg_fields.F_VALUE_NEW}
 <!-- END rpg_fields -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/rpg_fields.F_VALUE_NEW)
 
 ## Utilisations dans les templates
 

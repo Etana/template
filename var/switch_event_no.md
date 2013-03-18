@@ -1,4 +1,14 @@
 # Variable switch_event_no
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_event_no -->
+    contenu
+<!-- END switch_event_no -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_event_no)
 
 ## Utilisations dans les templates

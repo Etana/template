@@ -1,4 +1,13 @@
 # Variable L_HIDE_TAB
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_HIDE_TAB}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_HIDE_TAB)
 
 ## Utilisations dans les templates

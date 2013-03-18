@@ -32,7 +32,7 @@
 ### [JS_AUTH_FAVOURITES](../JS_AUTH_FAVOURITES.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_AUTH_FAVOURITES))
 * [Variable &agrave; la ligne 55](../../punbb/viewtopic_body.tpl#L55)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 2](../../punbb/viewtopic_body.tpl#L2)
 * [Variable &agrave; la ligne 358](../../punbb/viewtopic_body.tpl#L358)
 
@@ -66,7 +66,7 @@
 ### [L_GOTO_DOWN](../L_GOTO_DOWN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GOTO_DOWN))
 * [Variable &agrave; la ligne 112](../../punbb/viewtopic_body.tpl#L112)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 78](../../punbb/viewtopic_body.tpl#L78)
 * [Variable &agrave; la ligne 292](../../punbb/viewtopic_body.tpl#L292)
 

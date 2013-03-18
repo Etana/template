@@ -1,5 +1,4 @@
 # Variable switch_ticker.SPACING
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_ticker](switch_ticker.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_ticker](switch_ticker.
     {switch_ticker.SPACING}
 <!-- END switch_ticker -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
 
 ## Utilisations dans les templates
 

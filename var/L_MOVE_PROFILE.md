@@ -1,4 +1,13 @@
 # Variable L_MOVE_PROFILE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MOVE_PROFILE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MOVE_PROFILE)
 
 ## Utilisations dans les templates

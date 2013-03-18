@@ -1,4 +1,13 @@
 # Variable USER_ID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{USER_ID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/USER_ID)
 
 ## Utilisations dans les templates

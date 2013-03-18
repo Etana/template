@@ -1,4 +1,13 @@
 # Variable URL_RETURN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{URL_RETURN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/URL_RETURN)
 
 ## Utilisations dans les templates

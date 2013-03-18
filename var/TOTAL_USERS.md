@@ -1,5 +1,12 @@
 # Variable TOTAL_USERS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOTAL_USERS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/TOTAL_USERS)
 Chaîne de texte indiquant le nombre total de membre du forum. Le nombre de membre est intégré au texte.
 

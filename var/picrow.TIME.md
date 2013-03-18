@@ -1,5 +1,4 @@
 # Variable picrow.TIME
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.TIME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.TIME}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.TIME)
 
 ## Utilisations dans les templates
 

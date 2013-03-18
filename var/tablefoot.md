@@ -1,4 +1,14 @@
 # Variable tablefoot
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN tablefoot -->
+    contenu
+<!-- END tablefoot -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/tablefoot)
 
 ## Utilisations dans les templates

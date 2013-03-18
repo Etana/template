@@ -1,4 +1,14 @@
 # Variable exif_data
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN exif_data -->
+    contenu
+<!-- END exif_data -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/exif_data)
 
 ## Utilisations dans les templates

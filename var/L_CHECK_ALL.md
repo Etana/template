@@ -1,4 +1,13 @@
 # Variable L_CHECK_ALL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CHECK_ALL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CHECK_ALL)
 
 ## Utilisations dans les templates

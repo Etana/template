@@ -1,4 +1,14 @@
 # Variable enable_picture_upload
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN enable_picture_upload -->
+    contenu
+<!-- END enable_picture_upload -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/enable_picture_upload)
 
 ## Utilisations dans les templates

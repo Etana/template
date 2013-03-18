@@ -1,4 +1,13 @@
 # Variable U_PIC_L_OPEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_PIC_L_OPEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_PIC_L_OPEN)
 
 ## Utilisations dans les templates

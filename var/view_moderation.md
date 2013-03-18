@@ -1,4 +1,14 @@
 # Variable view_moderation
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN view_moderation -->
+    contenu
+<!-- END view_moderation -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/view_moderation)
 
 ## Utilisations dans les templates

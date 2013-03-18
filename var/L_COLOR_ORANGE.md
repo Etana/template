@@ -1,4 +1,13 @@
 # Variable L_COLOR_ORANGE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COLOR_ORANGE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COLOR_ORANGE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable bot_user_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN bot_user_row -->
+    contenu
+<!-- END bot_user_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/bot_user_row)
 
 ## Utilisations dans les templates

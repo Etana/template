@@ -1,4 +1,13 @@
 # Variable S_CATEGORY_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_CATEGORY_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_CATEGORY_SELECT)
 
 ## Utilisations dans les templates

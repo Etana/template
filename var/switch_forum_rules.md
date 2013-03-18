@@ -1,4 +1,14 @@
 # Variable switch_forum_rules
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_forum_rules -->
+    contenu
+<!-- END switch_forum_rules -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_forum_rules)
 
 ## Utilisations dans les templates

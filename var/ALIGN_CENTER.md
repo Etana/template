@@ -1,4 +1,13 @@
 # Variable ALIGN_CENTER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ALIGN_CENTER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ALIGN_CENTER)
 
 ## Utilisations dans les templates

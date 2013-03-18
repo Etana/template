@@ -1,4 +1,13 @@
 # Variable JS_MARK_MODE_4
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{JS_MARK_MODE_4}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/JS_MARK_MODE_4)
 
 ## Utilisations dans les templates

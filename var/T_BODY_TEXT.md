@@ -1,4 +1,13 @@
 # Variable T_BODY_TEXT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{T_BODY_TEXT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/T_BODY_TEXT)
 
 ## Utilisations dans les templates

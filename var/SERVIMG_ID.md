@@ -1,4 +1,13 @@
 # Variable SERVIMG_ID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SERVIMG_ID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SERVIMG_ID)
 
 ## Utilisations dans les templates

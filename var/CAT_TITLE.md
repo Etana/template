@@ -1,4 +1,13 @@
 # Variable CAT_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CAT_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CAT_TITLE)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable switch_h1.MAIN_SITENAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_h1](switch_h1.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_h1](switch_h1.md#readm
     {switch_h1.MAIN_SITENAME}
 <!-- END switch_h1 -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)
 
 ## Utilisations dans les templates
 

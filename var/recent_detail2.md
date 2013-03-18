@@ -1,4 +1,14 @@
 # Variable recent_detail2
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN recent_detail2 -->
+    contenu
+<!-- END recent_detail2 -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/recent_detail2)
 
 ## Utilisations dans les templates

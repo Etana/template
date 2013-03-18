@@ -1,4 +1,13 @@
 # Variable VIEW_EMAIL_FORM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{VIEW_EMAIL_FORM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/VIEW_EMAIL_FORM)
 
 ## Utilisations dans les templates

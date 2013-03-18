@@ -13,7 +13,7 @@
 ### [GROUP_NAME](../GROUP_NAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/GROUP_NAME))
 * [Variable &agrave; la ligne 8](../../subsilver/groupcp_info_body.tpl#L8)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 128](../../subsilver/groupcp_info_body.tpl#L128)
 
 ### [JUMPBOX](../JUMPBOX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JUMPBOX))

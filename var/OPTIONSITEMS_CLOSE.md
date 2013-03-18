@@ -1,4 +1,13 @@
 # Variable OPTIONSITEMS_CLOSE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{OPTIONSITEMS_CLOSE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/OPTIONSITEMS_CLOSE)
 
 ## Utilisations dans les templates

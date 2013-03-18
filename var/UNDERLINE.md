@@ -1,4 +1,13 @@
 # Variable UNDERLINE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{UNDERLINE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/UNDERLINE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable POST_IMG_ID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POST_IMG_ID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POST_IMG_ID)
 
 ## Utilisations dans les templates

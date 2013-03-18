@@ -1,4 +1,13 @@
 # Variable L_BIRTHDAY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BIRTHDAY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BIRTHDAY)
 
 ## Utilisations dans les templates

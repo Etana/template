@@ -114,7 +114,7 @@
 * [Variable &agrave; la ligne 94](../../subsilver/album_cat_body.tpl#L94)
 * [Variable &agrave; la ligne 182](../../subsilver/album_cat_body.tpl#L182)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 11](../../subsilver/album_cat_body.tpl#L11)
 * [Variable &agrave; la ligne 209](../../subsilver/album_cat_body.tpl#L209)
 * [Variable &agrave; la ligne 226](../../subsilver/album_cat_body.tpl#L226)

@@ -1,4 +1,13 @@
 # Variable L_SOLVED_WITHOUT_BRAKETS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SOLVED_WITHOUT_BRAKETS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SOLVED_WITHOUT_BRAKETS)
 
 ## Utilisations dans les templates

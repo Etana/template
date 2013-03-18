@@ -1,4 +1,13 @@
 # Variable USER_ONLINE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{USER_ONLINE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/USER_ONLINE)
 
 ## Utilisations dans les templates

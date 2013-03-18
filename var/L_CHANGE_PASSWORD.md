@@ -1,4 +1,13 @@
 # Variable L_CHANGE_PASSWORD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CHANGE_PASSWORD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CHANGE_PASSWORD)
 
 ## Utilisations dans les templates

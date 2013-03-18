@@ -1,4 +1,13 @@
 # Variable S_CONTACT_HEIGHT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_CONTACT_HEIGHT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_CONTACT_HEIGHT)
 
 ## Utilisations dans les templates

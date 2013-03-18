@@ -1,4 +1,13 @@
 # Variable IMG_INFRARED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_INFRARED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_INFRARED)
 
 ## Utilisations dans les templates

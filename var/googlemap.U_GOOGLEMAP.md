@@ -1,5 +1,4 @@
 # Variable googlemap.U_GOOGLEMAP
-[Ajouter une description](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [googlemap](googlemap.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [googlemap](googlemap.md#readm
     {googlemap.U_GOOGLEMAP}
 <!-- END googlemap -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)
 
 ## Utilisations dans les templates
 

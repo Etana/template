@@ -1,5 +1,4 @@
 # Variable switch_exif_enabled.exif_switch.exif_data.EXIFd2
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch.exif_data.EXIFd2)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [exif_data](exif_data.md#readme) se trouvant dans une boucle sur [exif_switch](exif_switch.md#readme) se trouvant dans une boucle sur [switch_exif_enabled](switch_exif_enabled.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [exif_data](exif_data.md#readm
     <!-- END exif_switch -->
 <!-- END switch_exif_enabled -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch.exif_data.EXIFd2)
 
 ## Utilisations dans les templates
 

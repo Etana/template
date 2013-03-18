@@ -1,4 +1,14 @@
 # Variable poll_option_new
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN poll_option_new -->
+    contenu
+<!-- END poll_option_new -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option_new)
 
 ## Utilisations dans les templates

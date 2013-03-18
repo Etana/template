@@ -1,4 +1,13 @@
 # Variable L_COLOR_INDIGO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COLOR_INDIGO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COLOR_INDIGO)
 
 ## Utilisations dans les templates

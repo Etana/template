@@ -1,4 +1,13 @@
 # Variable L_TOP_POST_USERS_WEEK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TOP_POST_USERS_WEEK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TOP_POST_USERS_WEEK)
 
 ## Utilisations dans les templates

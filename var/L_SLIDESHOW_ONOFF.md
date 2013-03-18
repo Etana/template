@@ -1,4 +1,13 @@
 # Variable L_SLIDESHOW_ONOFF
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SLIDESHOW_ONOFF}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SLIDESHOW_ONOFF)
 
 ## Utilisations dans les templates

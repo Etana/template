@@ -10,7 +10,7 @@
 ### [L_EMAIL_ADDRESS](../L_EMAIL_ADDRESS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_EMAIL_ADDRESS))
 * [Variable &agrave; la ligne 35](../../punbb/profile_send_pass.tpl#L35)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 17](../../punbb/profile_send_pass.tpl#L17)
 
 ### [L_ITEMS_REQUIRED](../L_ITEMS_REQUIRED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ITEMS_REQUIRED))

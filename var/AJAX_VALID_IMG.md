@@ -1,4 +1,13 @@
 # Variable AJAX_VALID_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{AJAX_VALID_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/AJAX_VALID_IMG)
 
 ## Utilisations dans les templates

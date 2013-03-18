@@ -1,4 +1,14 @@
 # Variable nonext
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN nonext -->
+    contenu
+<!-- END nonext -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/nonext)
 
 ## Utilisations dans les templates

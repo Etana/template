@@ -1,4 +1,13 @@
 # Variable L_TOTAL_PICTURES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TOTAL_PICTURES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TOTAL_PICTURES)
 
 ## Utilisations dans les templates

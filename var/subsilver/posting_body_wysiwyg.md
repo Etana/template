@@ -147,7 +147,7 @@
 ### [ITALIC](../ITALIC.md#readme) ([XXX](https://fa-tvars.appspot.com/var/ITALIC))
 * [Variable &agrave; la ligne 454](../../subsilver/posting_body_wysiwyg.tpl#L454)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 1](../../subsilver/posting_body_wysiwyg.tpl#L1)
 * [Variable &agrave; la ligne 851](../../subsilver/posting_body_wysiwyg.tpl#L851)
 
@@ -227,7 +227,7 @@
 ### [L_ICON_TITLE](../L_ICON_TITLE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ICON_TITLE))
 * [Variable &agrave; la ligne 347](../../subsilver/posting_body_wysiwyg.tpl#L347)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 39](../../subsilver/posting_body_wysiwyg.tpl#L39)
 
 ### [L_MAX_ATT_SIZE](../L_MAX_ATT_SIZE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_MAX_ATT_SIZE))

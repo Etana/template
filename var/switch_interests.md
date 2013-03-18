@@ -1,4 +1,14 @@
 # Variable switch_interests
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_interests -->
+    contenu
+<!-- END switch_interests -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_interests)
 
 ## Utilisations dans les templates

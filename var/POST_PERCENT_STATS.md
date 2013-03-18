@@ -1,4 +1,13 @@
 # Variable POST_PERCENT_STATS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POST_PERCENT_STATS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POST_PERCENT_STATS)
 
 ## Utilisations dans les templates

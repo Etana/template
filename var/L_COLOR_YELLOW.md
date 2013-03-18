@@ -1,4 +1,13 @@
 # Variable L_COLOR_YELLOW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COLOR_YELLOW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COLOR_YELLOW)
 
 ## Utilisations dans les templates

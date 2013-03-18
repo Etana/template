@@ -1,4 +1,13 @@
 # Variable L_MINUTES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MINUTES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MINUTES)
 
 ## Utilisations dans les templates

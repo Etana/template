@@ -1,5 +1,4 @@
 # Variable picrow.APPROVAL
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.APPROVAL)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.APPROVAL}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.APPROVAL)
 
 ## Utilisations dans les templates
 

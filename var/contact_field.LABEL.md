@@ -1,5 +1,4 @@
 # Variable contact_field.LABEL
-[Ajouter une description](https://fa-tvars.appspot.com/var/contact_field.LABEL)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [contact_field](contact_field.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [contact_field](contact_field.
     {contact_field.LABEL}
 <!-- END contact_field -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/contact_field.LABEL)
 
 ## Utilisations dans les templates
 

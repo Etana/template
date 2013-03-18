@@ -1,4 +1,13 @@
 # Variable L_ICON_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ICON_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ICON_TITLE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable MOD_USERNAME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MOD_USERNAME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MOD_USERNAME)
 
 ## Utilisations dans les templates

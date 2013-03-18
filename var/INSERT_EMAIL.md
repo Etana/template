@@ -1,4 +1,13 @@
 # Variable INSERT_EMAIL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INSERT_EMAIL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INSERT_EMAIL)
 
 ## Utilisations dans les templates

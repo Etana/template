@@ -1,4 +1,13 @@
 # Variable GROUP_DETAILS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GROUP_DETAILS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GROUP_DETAILS)
 
 ## Utilisations dans les templates

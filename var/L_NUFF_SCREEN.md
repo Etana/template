@@ -1,4 +1,13 @@
 # Variable L_NUFF_SCREEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NUFF_SCREEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NUFF_SCREEN)
 
 ## Utilisations dans les templates

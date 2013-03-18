@@ -1,4 +1,13 @@
 # Variable PASTE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PASTE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PASTE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_SUBJECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SUBJECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SUBJECT)
 
 ## Utilisations dans les templates

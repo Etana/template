@@ -1,4 +1,13 @@
 # Variable NB_PM_READ
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NB_PM_READ}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NB_PM_READ)
 
 ## Utilisations dans les templates

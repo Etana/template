@@ -1,5 +1,4 @@
 # Variable memberrow.USERNAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.USERNAME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readm
     {memberrow.USERNAME}
 <!-- END memberrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.USERNAME)
 
 ## Utilisations dans les templates
 

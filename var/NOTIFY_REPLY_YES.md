@@ -1,4 +1,13 @@
 # Variable NOTIFY_REPLY_YES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NOTIFY_REPLY_YES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NOTIFY_REPLY_YES)
 
 ## Utilisations dans les templates

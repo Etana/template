@@ -1,4 +1,13 @@
 # Variable GROUP_PENDING_SELECT_NEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GROUP_PENDING_SELECT_NEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GROUP_PENDING_SELECT_NEW)
 
 ## Utilisations dans les templates

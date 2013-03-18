@@ -44,7 +44,7 @@
 ### [FRIENDSFOES](../FRIENDSFOES.md#readme) ([XXX](https://fa-tvars.appspot.com/var/FRIENDSFOES))
 * [Variable &agrave; la ligne 34](../../punbb/profile_view_body.tpl#L34)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 130](../../punbb/profile_view_body.tpl#L130)
 
 ### [L_ADMINISTRATE_USER](../L_ADMINISTRATE_USER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ADMINISTRATE_USER))

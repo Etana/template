@@ -1,4 +1,13 @@
 # Variable L_NORMAL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NORMAL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NORMAL)
 
 ## Utilisations dans les templates

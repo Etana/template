@@ -1,5 +1,4 @@
 # Variable switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_connect](switch_fb_connect.md#readme) se trouvant dans une boucle sur [switch_user_login_form_header](switch_user_login_form_header.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_fb_connect](switch_fb_
     <!-- END switch_fb_connect -->
 <!-- END switch_user_login_form_header -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS)
 
 ## Utilisations dans les templates
 

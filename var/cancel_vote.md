@@ -1,4 +1,14 @@
 # Variable cancel_vote
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN cancel_vote -->
+    contenu
+<!-- END cancel_vote -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/cancel_vote)
 
 ## Utilisations dans les templates

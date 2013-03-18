@@ -1,5 +1,4 @@
 # Variable postrow.ROW_CLASS
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.ROW_CLASS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
     {postrow.ROW_CLASS}
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.ROW_CLASS)
 
 ## Utilisations dans les templates
 

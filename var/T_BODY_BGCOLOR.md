@@ -1,4 +1,13 @@
 # Variable T_BODY_BGCOLOR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{T_BODY_BGCOLOR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/T_BODY_BGCOLOR)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable restore_pic
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN restore_pic -->
+    contenu
+<!-- END restore_pic -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/restore_pic)
 
 ## Utilisations dans les templates

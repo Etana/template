@@ -1,4 +1,13 @@
 # Variable L_PLAIN_TEXT_ONLY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PLAIN_TEXT_ONLY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PLAIN_TEXT_ONLY)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_on_index
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_on_index -->
+    contenu
+<!-- END switch_on_index -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_on_index)
 
 ## Utilisations dans les templates

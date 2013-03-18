@@ -1,4 +1,14 @@
 # Variable _more_footer
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN _more_footer -->
+    contenu
+<!-- END _more_footer -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/_more_footer)
 
 ## Utilisations dans les templates

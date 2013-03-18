@@ -1,4 +1,13 @@
 # Variable SORT_COMMENTS_OPTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SORT_COMMENTS_OPTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SORT_COMMENTS_OPTION)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable S_JUMPBOX_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_JUMPBOX_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_JUMPBOX_ACTION)
 
 ## Utilisations dans les templates

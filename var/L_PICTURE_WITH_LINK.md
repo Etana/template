@@ -1,4 +1,13 @@
 # Variable L_PICTURE_WITH_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PICTURE_WITH_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PICTURE_WITH_LINK)
 
 ## Utilisations dans les templates

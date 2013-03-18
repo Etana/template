@@ -1,4 +1,13 @@
 # Variable S_NOTIFY_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_NOTIFY_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_NOTIFY_CHECKED)
 
 ## Utilisations dans les templates

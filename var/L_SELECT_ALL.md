@@ -1,4 +1,13 @@
 # Variable L_SELECT_ALL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SELECT_ALL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SELECT_ALL)
 
 ## Utilisations dans les templates

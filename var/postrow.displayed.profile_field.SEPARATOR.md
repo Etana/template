@@ -1,5 +1,4 @@
 # Variable postrow.displayed.profile_field.SEPARATOR
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [profile_field](profile_field.md#readme) se trouvant dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [profile_field](profile_field.
     <!-- END displayed -->
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
 
 ## Utilisations dans les templates
 

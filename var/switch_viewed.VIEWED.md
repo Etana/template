@@ -1,5 +1,4 @@
 # Variable switch_viewed.VIEWED
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_viewed](switch_viewed.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_viewed](switch_viewed.
     {switch_viewed.VIEWED}
 <!-- END switch_viewed -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)
 
 ## Utilisations dans les templates
 

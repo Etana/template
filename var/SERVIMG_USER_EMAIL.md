@@ -1,4 +1,13 @@
 # Variable SERVIMG_USER_EMAIL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SERVIMG_USER_EMAIL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SERVIMG_USER_EMAIL)
 
 ## Utilisations dans les templates

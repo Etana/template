@@ -1,4 +1,13 @@
 # Variable S_HTML_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_HTML_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_HTML_CHECKED)
 
 ## Utilisations dans les templates

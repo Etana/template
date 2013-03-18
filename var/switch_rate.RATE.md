@@ -1,5 +1,4 @@
 # Variable switch_rate.RATE
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_rate.RATE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_rate](switch_rate.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_rate](switch_rate.md#r
     {switch_rate.RATE}
 <!-- END switch_rate -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_rate.RATE)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable VIEW_MP_YES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{VIEW_MP_YES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/VIEW_MP_YES)
 
 ## Utilisations dans les templates

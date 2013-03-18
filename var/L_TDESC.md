@@ -1,4 +1,13 @@
 # Variable L_TDESC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TDESC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TDESC)
 
 ## Utilisations dans les templates

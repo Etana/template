@@ -1,4 +1,13 @@
 # Variable L_ATTACHMENT_ADD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ATTACHMENT_ADD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ATTACHMENT_ADD)
 
 ## Utilisations dans les templates

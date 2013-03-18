@@ -1,5 +1,4 @@
 # Variable faq_block.faq_row.FAQ_ANSWER
-[Ajouter une description](https://fa-tvars.appspot.com/var/faq_block.faq_row.FAQ_ANSWER)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [faq_row](faq_row.md#readme) se trouvant dans une boucle sur [faq_block](faq_block.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [faq_row](faq_row.md#readme) s
     <!-- END faq_row -->
 <!-- END faq_block -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/faq_block.faq_row.FAQ_ANSWER)
 
 ## Utilisations dans les templates
 

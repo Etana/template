@@ -1,4 +1,14 @@
 # Variable topicpagination
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN topicpagination -->
+    contenu
+<!-- END topicpagination -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicpagination)
 
 ## Utilisations dans les templates

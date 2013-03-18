@@ -1,4 +1,13 @@
 # Variable TOPIC_TITLE_LENGTH_EXPLAIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOPIC_TITLE_LENGTH_EXPLAIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC_TITLE_LENGTH_EXPLAIN)
 
 ## Utilisations dans les templates

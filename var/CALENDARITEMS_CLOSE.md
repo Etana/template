@@ -1,4 +1,13 @@
 # Variable CALENDARITEMS_CLOSE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CALENDARITEMS_CLOSE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CALENDARITEMS_CLOSE)
 
 ## Utilisations dans les templates

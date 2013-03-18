@@ -1,4 +1,13 @@
 # Variable TOTAL_REGISTERED_USERS_ONLINE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOTAL_REGISTERED_USERS_ONLINE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOTAL_REGISTERED_USERS_ONLINE)
 
 ## Utilisations dans les templates

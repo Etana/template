@@ -1,4 +1,14 @@
 # Variable navlinks
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN navlinks -->
+    contenu
+<!-- END navlinks -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/navlinks)
 
 ## Utilisations dans les templates

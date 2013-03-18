@@ -1,4 +1,13 @@
 # Variable SWITCH_EDITOR_MODE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SWITCH_EDITOR_MODE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SWITCH_EDITOR_MODE)
 
 ## Utilisations dans les templates

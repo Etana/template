@@ -1,4 +1,13 @@
 # Variable POLLITEMS_OPEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLLITEMS_OPEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLLITEMS_OPEN)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_poster
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_poster -->
+    contenu
+<!-- END switch_poster -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_poster)
 
 ## Utilisations dans les templates

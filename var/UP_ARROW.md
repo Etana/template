@@ -1,4 +1,13 @@
 # Variable UP_ARROW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{UP_ARROW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/UP_ARROW)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES
-[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cat_personal_footer](cat_personal_footer.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [cat_personal_footer](cat_pers
     <!-- END cat_personal_footer -->
 <!-- END navlinks -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES)
 
 ## Utilisations dans les templates
 

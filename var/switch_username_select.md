@@ -1,4 +1,14 @@
 # Variable switch_username_select
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_username_select -->
+    contenu
+<!-- END switch_username_select -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_username_select)
 
 ## Utilisations dans les templates

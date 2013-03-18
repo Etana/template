@@ -1,5 +1,12 @@
 # Variable L_WHO_IS_ONLINE
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_WHO_IS_ONLINE}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_WHO_IS_ONLINE)
 Chaîne de texte.
 

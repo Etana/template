@@ -1,4 +1,14 @@
 # Variable switch_gender
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_gender -->
+    contenu
+<!-- END switch_gender -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_gender)
 
 ## Utilisations dans les templates

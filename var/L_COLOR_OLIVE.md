@@ -1,4 +1,13 @@
 # Variable L_COLOR_OLIVE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_COLOR_OLIVE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_COLOR_OLIVE)
 
 ## Utilisations dans les templates

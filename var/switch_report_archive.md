@@ -1,4 +1,14 @@
 # Variable switch_report_archive
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_report_archive -->
+    contenu
+<!-- END switch_report_archive -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_report_archive)
 
 ## Utilisations dans les templates

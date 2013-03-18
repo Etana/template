@@ -13,7 +13,7 @@
 ### [DO_NOT_AGREE](../DO_NOT_AGREE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/DO_NOT_AGREE))
 * [Variable &agrave; la ligne 34](../../subsilver/agreement.tpl#L34)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/agreement.tpl#L3)
 
 ### [MY_RULES](../MY_RULES.md#readme) ([XXX](https://fa-tvars.appspot.com/var/MY_RULES))

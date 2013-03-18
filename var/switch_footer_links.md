@@ -1,4 +1,14 @@
 # Variable switch_footer_links
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_footer_links -->
+    contenu
+<!-- END switch_footer_links -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_footer_links)
 
 ## Utilisations dans les templates

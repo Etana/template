@@ -1,4 +1,13 @@
 # Variable L_BBCODE_LEFT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BBCODE_LEFT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_LEFT)
 
 ## Utilisations dans les templates

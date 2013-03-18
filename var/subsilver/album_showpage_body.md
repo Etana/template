@@ -57,7 +57,7 @@
 * [Variable &agrave; la ligne 307](../../subsilver/album_showpage_body.tpl#L307)
 * [Variable &agrave; la ligne 308](../../subsilver/album_showpage_body.tpl#L308)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 219](../../subsilver/album_showpage_body.tpl#L219)
 
 ### [L_INFOS](../L_INFOS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INFOS))

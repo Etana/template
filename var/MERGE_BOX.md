@@ -1,4 +1,13 @@
 # Variable MERGE_BOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MERGE_BOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MERGE_BOX)
 
 ## Utilisations dans les templates

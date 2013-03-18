@@ -1,4 +1,13 @@
 # Variable L_ENABLE_MASS_PM_EXPLAIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ENABLE_MASS_PM_EXPLAIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ENABLE_MASS_PM_EXPLAIN)
 
 ## Utilisations dans les templates

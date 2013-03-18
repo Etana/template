@@ -1,4 +1,13 @@
 # Variable PIC_VIEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PIC_VIEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PIC_VIEW)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable row.S_CHECKED
-[Ajouter une description](https://fa-tvars.appspot.com/var/row.S_CHECKED)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [row](row.md#readme).
     {row.S_CHECKED}
 <!-- END row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/row.S_CHECKED)
 
 ## Utilisations dans les templates
 

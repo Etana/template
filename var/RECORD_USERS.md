@@ -1,5 +1,12 @@
 # Variable RECORD_USERS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{RECORD_USERS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/RECORD_USERS)
 Chaîne html indiquant le record de nombre d'utilisateur en ligne et la date de ce record.
 

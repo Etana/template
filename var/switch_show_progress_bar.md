@@ -1,4 +1,14 @@
 # Variable switch_show_progress_bar
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_show_progress_bar -->
+    contenu
+<!-- END switch_show_progress_bar -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_show_progress_bar)
 
 ## Utilisations dans les templates

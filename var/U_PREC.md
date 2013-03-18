@@ -1,4 +1,13 @@
 # Variable U_PREC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_PREC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_PREC)
 
 ## Utilisations dans les templates

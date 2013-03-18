@@ -1,4 +1,14 @@
 # Variable displayed
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN displayed -->
+    contenu
+<!-- END displayed -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/displayed)
 
 ## Utilisations dans les templates

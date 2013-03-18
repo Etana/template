@@ -1,4 +1,13 @@
 # Variable INBOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INBOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INBOX)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable ORDER_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ORDER_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ORDER_SELECT)
 
 ## Utilisations dans les templates

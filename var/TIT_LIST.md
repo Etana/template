@@ -1,4 +1,13 @@
 # Variable TIT_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TIT_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TIT_LIST)
 
 ## Utilisations dans les templates

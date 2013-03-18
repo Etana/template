@@ -1,5 +1,4 @@
 # Variable postrow.POST_SUBJECT
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.POST_SUBJECT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).
     {postrow.POST_SUBJECT}
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.POST_SUBJECT)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable U_CALENDAR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_CALENDAR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_CALENDAR)
 
 ## Utilisations dans les templates

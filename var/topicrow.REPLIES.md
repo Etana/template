@@ -1,5 +1,4 @@
 # Variable topicrow.REPLIES
-[Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.REPLIES)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme)
     {topicrow.REPLIES}
 <!-- END topicrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.REPLIES)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable SELECT_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SELECT_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SELECT_ACTION)
 
 ## Utilisations dans les templates

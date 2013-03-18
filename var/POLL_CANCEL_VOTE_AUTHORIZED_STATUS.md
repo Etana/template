@@ -1,4 +1,13 @@
 # Variable POLL_CANCEL_VOTE_AUTHORIZED_STATUS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLL_CANCEL_VOTE_AUTHORIZED_STATUS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLL_CANCEL_VOTE_AUTHORIZED_STATUS)
 
 ## Utilisations dans les templates

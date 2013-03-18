@@ -1,5 +1,4 @@
 # Variable listrow.PRIVMSG_ICON
-[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.PRIVMSG_ICON)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
     {listrow.PRIVMSG_ICON}
 <!-- END listrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.PRIVMSG_ICON)
 
 ## Utilisations dans les templates
 

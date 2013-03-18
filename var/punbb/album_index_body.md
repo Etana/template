@@ -80,7 +80,7 @@
 ### [L_ALBUM](../L_ALBUM.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ALBUM))
 * [Variable &agrave; la ligne 56](../../punbb/album_index_body.tpl#L56)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 56](../../punbb/album_index_body.tpl#L56)
 
 ### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER))

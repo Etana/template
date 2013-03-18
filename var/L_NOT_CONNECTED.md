@@ -1,4 +1,13 @@
 # Variable L_NOT_CONNECTED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NOT_CONNECTED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NOT_CONNECTED)
 
 ## Utilisations dans les templates

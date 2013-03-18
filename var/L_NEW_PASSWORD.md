@@ -1,4 +1,13 @@
 # Variable L_NEW_PASSWORD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NEW_PASSWORD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NEW_PASSWORD)
 
 ## Utilisations dans les templates

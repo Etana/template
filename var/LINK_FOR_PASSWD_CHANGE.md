@@ -1,4 +1,13 @@
 # Variable LINK_FOR_PASSWD_CHANGE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LINK_FOR_PASSWD_CHANGE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LINK_FOR_PASSWD_CHANGE)
 
 ## Utilisations dans les templates

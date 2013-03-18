@@ -1,5 +1,4 @@
 # Variable album_pagination.ALBUM_PAGINATION
-[Ajouter une description](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [album_pagination](album_pagination.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [album_pagination](album_pagin
     {album_pagination.ALBUM_PAGINATION}
 <!-- END album_pagination -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)
 
 ## Utilisations dans les templates
 

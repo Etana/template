@@ -1,4 +1,14 @@
 # Variable switch_notify_subscriptions
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_notify_subscriptions -->
+    contenu
+<!-- END switch_notify_subscriptions -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_notify_subscriptions)
 
 ## Utilisations dans les templates

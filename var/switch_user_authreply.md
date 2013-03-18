@@ -1,4 +1,14 @@
 # Variable switch_user_authreply
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_user_authreply -->
+    contenu
+<!-- END switch_user_authreply -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_authreply)
 
 ## Utilisations dans les templates

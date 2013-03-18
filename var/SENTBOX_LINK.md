@@ -1,4 +1,13 @@
 # Variable SENTBOX_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SENTBOX_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SENTBOX_LINK)
 
 ## Utilisations dans les templates

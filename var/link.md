@@ -1,4 +1,14 @@
 # Variable link
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN link -->
+    contenu
+<!-- END link -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/link)
 
 ## Utilisations dans les templates

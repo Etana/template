@@ -1,4 +1,13 @@
 # Variable S_GROUP_HIDDEN_TYPE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_GROUP_HIDDEN_TYPE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_GROUP_HIDDEN_TYPE)
 
 ## Utilisations dans les templates

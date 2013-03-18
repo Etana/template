@@ -7,7 +7,7 @@
 ### [L_GO](../L_GO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GO))
 * [Variable &agrave; la ligne 5](../../subsilver/merge_select_body.tpl#L5)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 4](../../subsilver/merge_select_body.tpl#L4)
 
 ### [L_SELECT](../L_SELECT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_SELECT))

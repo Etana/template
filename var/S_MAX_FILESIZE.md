@@ -1,4 +1,13 @@
 # Variable S_MAX_FILESIZE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_MAX_FILESIZE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_MAX_FILESIZE)
 
 ## Utilisations dans les templates

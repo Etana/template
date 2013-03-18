@@ -1,4 +1,13 @@
 # Variable L_UPLOAD_NO_FILE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_UPLOAD_NO_FILE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_UPLOAD_NO_FILE)
 
 ## Utilisations dans les templates

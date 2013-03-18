@@ -1,4 +1,13 @@
 # Variable L_NUFF_MIRROR
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NUFF_MIRROR}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NUFF_MIRROR)
 
 ## Utilisations dans les templates

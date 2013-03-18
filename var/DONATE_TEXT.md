@@ -1,4 +1,13 @@
 # Variable DONATE_TEXT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DONATE_TEXT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DONATE_TEXT)
 
 ## Utilisations dans les templates

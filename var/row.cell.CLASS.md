@@ -1,5 +1,4 @@
 # Variable row.cell.CLASS
-[Ajouter une description](https://fa-tvars.appspot.com/var/row.cell.CLASS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trouvant dans une boucle sur [row](row.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trou
     <!-- END cell -->
 <!-- END row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/row.cell.CLASS)
 
 ## Utilisations dans les templates
 

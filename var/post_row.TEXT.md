@@ -1,5 +1,4 @@
 # Variable post_row.TEXT
-[Ajouter une description](https://fa-tvars.appspot.com/var/post_row.TEXT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [post_row](post_row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [post_row](post_row.md#readme)
     {post_row.TEXT}
 <!-- END post_row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/post_row.TEXT)
 
 ## Utilisations dans les templates
 

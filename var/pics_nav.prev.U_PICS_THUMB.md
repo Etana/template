@@ -1,5 +1,4 @@
 # Variable pics_nav.prev.U_PICS_THUMB
-[Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav.prev.U_PICS_THUMB)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [prev](prev.md#readme) se trouvant dans une boucle sur [pics_nav](pics_nav.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [prev](prev.md#readme) se trou
     <!-- END prev -->
 <!-- END pics_nav -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav.prev.U_PICS_THUMB)
 
 ## Utilisations dans les templates
 

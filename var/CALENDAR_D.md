@@ -1,4 +1,13 @@
 # Variable CALENDAR_D
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CALENDAR_D}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CALENDAR_D)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable PATH_IMG_FA
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PATH_IMG_FA}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PATH_IMG_FA)
 
 ## Utilisations dans les templates

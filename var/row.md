@@ -1,4 +1,14 @@
 # Variable row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN row -->
+    contenu
+<!-- END row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/row)
 
 ## Utilisations dans les templates

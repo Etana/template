@@ -1,4 +1,13 @@
 # Variable L_BBCODE_VIDEO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BBCODE_VIDEO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_VIDEO)
 
 ## Utilisations dans les templates

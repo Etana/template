@@ -1,4 +1,13 @@
 # Variable META
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{META}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/META)
 
 ## Utilisations dans les templates

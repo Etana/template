@@ -1,4 +1,13 @@
 # Variable POSTED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POSTED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POSTED)
 
 ## Utilisations dans les templates

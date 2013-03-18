@@ -1,4 +1,13 @@
 # Variable L_PENDING_GROUPS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PENDING_GROUPS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PENDING_GROUPS)
 
 ## Utilisations dans les templates

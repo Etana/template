@@ -1,4 +1,13 @@
 # Variable U_FORUM_INDEX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_FORUM_INDEX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_FORUM_INDEX)
 
 ## Utilisations dans les templates

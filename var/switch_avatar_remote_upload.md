@@ -1,4 +1,14 @@
 # Variable switch_avatar_remote_upload
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_avatar_remote_upload -->
+    contenu
+<!-- END switch_avatar_remote_upload -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_avatar_remote_upload)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_legend
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_legend -->
+    contenu
+<!-- END switch_legend -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_legend)
 
 ## Utilisations dans les templates

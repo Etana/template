@@ -1,4 +1,13 @@
 # Variable L_NUFF_PIXELATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NUFF_PIXELATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NUFF_PIXELATE)
 
 ## Utilisations dans les templates

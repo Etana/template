@@ -1,4 +1,13 @@
 # Variable L_EDIT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_EDIT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_EDIT)
 
 ## Utilisations dans les templates

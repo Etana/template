@@ -1,4 +1,13 @@
 # Variable L_FONT_NORMAL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FONT_NORMAL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FONT_NORMAL)
 
 ## Utilisations dans les templates

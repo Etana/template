@@ -1,4 +1,13 @@
 # Variable L_VIEWING_RPG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_VIEWING_RPG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_VIEWING_RPG)
 
 ## Utilisations dans les templates

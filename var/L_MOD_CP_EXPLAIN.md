@@ -1,4 +1,13 @@
 # Variable L_MOD_CP_EXPLAIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MOD_CP_EXPLAIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MOD_CP_EXPLAIN)
 
 ## Utilisations dans les templates

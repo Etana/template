@@ -1,4 +1,13 @@
 # Variable ON
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ON}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ON)
 
 ## Utilisations dans les templates

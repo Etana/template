@@ -1,5 +1,12 @@
 # Variable MAIN_SITENAME
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MAIN_SITENAME}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/MAIN_SITENAME)
 Nom du site spécifié dans `PA > Général > Forum | Configuration > Nom du site`.
 

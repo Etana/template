@@ -1,4 +1,13 @@
 # Variable L_HOURS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_HOURS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_HOURS)
 
 ## Utilisations dans les templates

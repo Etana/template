@@ -1,4 +1,13 @@
 # Variable CURRENT_TIME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CURRENT_TIME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CURRENT_TIME)
 
 ## Utilisations dans les templates

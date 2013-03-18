@@ -1,4 +1,13 @@
 # Variable L_TELL_FRIEND_RECIEVER_EMAIL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TELL_FRIEND_RECIEVER_EMAIL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TELL_FRIEND_RECIEVER_EMAIL)
 
 ## Utilisations dans les templates

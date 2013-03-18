@@ -1,4 +1,13 @@
 # Variable L_UNCHECK_ALL
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_UNCHECK_ALL}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_UNCHECK_ALL)
 
 ## Utilisations dans les templates

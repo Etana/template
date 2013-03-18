@@ -1,4 +1,13 @@
 # Variable L_SUBMIT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SUBMIT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SUBMIT)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable credit_card_method
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN credit_card_method -->
+    contenu
+<!-- END credit_card_method -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method)
 
 ## Utilisations dans les templates

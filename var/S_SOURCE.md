@@ -1,4 +1,13 @@
 # Variable S_SOURCE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_SOURCE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_SOURCE)
 
 ## Utilisations dans les templates

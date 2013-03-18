@@ -1,4 +1,14 @@
 # Variable switch_profile_advanced
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_profile_advanced -->
+    contenu
+<!-- END switch_profile_advanced -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_profile_advanced)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable ATTACHMENT_OPEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ATTACHMENT_OPEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ATTACHMENT_OPEN)
 
 ## Utilisations dans les templates

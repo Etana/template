@@ -1,4 +1,13 @@
 # Variable L_MODS_AND_ADMINS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MODS_AND_ADMINS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MODS_AND_ADMINS)
 
 ## Utilisations dans les templates

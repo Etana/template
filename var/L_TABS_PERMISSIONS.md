@@ -1,4 +1,13 @@
 # Variable L_TABS_PERMISSIONS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TABS_PERMISSIONS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TABS_PERMISSIONS)
 
 ## Utilisations dans les templates

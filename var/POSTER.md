@@ -1,4 +1,13 @@
 # Variable POSTER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POSTER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POSTER)
 
 ## Utilisations dans les templates

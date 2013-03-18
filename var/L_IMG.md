@@ -1,4 +1,13 @@
 # Variable L_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_IMG)
 
 ## Utilisations dans les templates

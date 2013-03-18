@@ -1,5 +1,4 @@
 # Variable picrow.PIC_ID
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.PIC_ID)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.PIC_ID}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.PIC_ID)
 
 ## Utilisations dans les templates
 

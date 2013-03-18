@@ -1,5 +1,4 @@
 # Variable searchresults.MESSAGE
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.MESSAGE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [searchresults](searchresults.
     {searchresults.MESSAGE}
 <!-- END searchresults -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.MESSAGE)
 
 ## Utilisations dans les templates
 

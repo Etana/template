@@ -1,5 +1,4 @@
 # Variable navlinks.cat_public_footer.U_PUBLIC_CATEGORIES
-[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.U_PUBLIC_CATEGORIES)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cat_public_footer](cat_public_footer.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [cat_public_footer](cat_public
     <!-- END cat_public_footer -->
 <!-- END navlinks -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.U_PUBLIC_CATEGORIES)
 
 ## Utilisations dans les templates
 

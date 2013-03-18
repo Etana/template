@@ -1,4 +1,13 @@
 # Variable L_UNSUBSCRIBE_GROUP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_UNSUBSCRIBE_GROUP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_UNSUBSCRIBE_GROUP)
 
 ## Utilisations dans les templates

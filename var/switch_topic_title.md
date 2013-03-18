@@ -1,4 +1,14 @@
 # Variable switch_topic_title
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_topic_title -->
+    contenu
+<!-- END switch_topic_title -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_topic_title)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_HEIGHT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_HEIGHT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_HEIGHT)
 
 ## Utilisations dans les templates

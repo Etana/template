@@ -1,4 +1,13 @@
 # Variable S_CREDITS_ADD_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_CREDITS_ADD_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_CREDITS_ADD_ACTION)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_save
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_save -->
+    contenu
+<!-- END switch_save -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_save)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable POSTER.NB_POSTS
-[Ajouter une description](https://fa-tvars.appspot.com/var/POSTER.NB_POSTS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [POSTER](POSTER.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [POSTER](POSTER.md#readme).
     {POSTER.NB_POSTS}
 <!-- END POSTER -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/POSTER.NB_POSTS)
 
 ## Utilisations dans les templates
 

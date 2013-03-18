@@ -1,4 +1,13 @@
 # Variable S_SPLIT_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_SPLIT_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_SPLIT_ACTION)
 
 ## Utilisations dans les templates

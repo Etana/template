@@ -1,4 +1,13 @@
 # Variable L_ATTACH_COMMENT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ATTACH_COMMENT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ATTACH_COMMENT)
 
 ## Utilisations dans les templates

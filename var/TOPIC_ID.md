@@ -1,4 +1,13 @@
 # Variable TOPIC_ID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOPIC_ID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC_ID)
 
 ## Utilisations dans les templates

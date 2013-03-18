@@ -1,4 +1,13 @@
 # Variable L_MAX_ATT_SIZE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MAX_ATT_SIZE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MAX_ATT_SIZE)
 
 ## Utilisations dans les templates

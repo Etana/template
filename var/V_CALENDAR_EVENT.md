@@ -1,4 +1,13 @@
 # Variable V_CALENDAR_EVENT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{V_CALENDAR_EVENT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/V_CALENDAR_EVENT)
 
 ## Utilisations dans les templates

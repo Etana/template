@@ -1,4 +1,13 @@
 # Variable L_AGE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_AGE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_AGE)
 
 ## Utilisations dans les templates

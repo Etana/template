@@ -1,4 +1,13 @@
 # Variable U_POST_REPLY_TOPIC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_POST_REPLY_TOPIC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_POST_REPLY_TOPIC)
 
 ## Utilisations dans les templates

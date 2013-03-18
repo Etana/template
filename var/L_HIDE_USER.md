@@ -1,4 +1,13 @@
 # Variable L_HIDE_USER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_HIDE_USER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_HIDE_USER)
 
 ## Utilisations dans les templates

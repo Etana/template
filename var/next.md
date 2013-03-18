@@ -1,4 +1,14 @@
 # Variable next
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN next -->
+    contenu
+<!-- END next -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/next)
 
 ## Utilisations dans les templates

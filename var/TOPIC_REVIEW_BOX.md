@@ -1,4 +1,13 @@
 # Variable TOPIC_REVIEW_BOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOPIC_REVIEW_BOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC_REVIEW_BOX)
 
 ## Utilisations dans les templates

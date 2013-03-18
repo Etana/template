@@ -1,4 +1,14 @@
 # Variable header_cell
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN header_cell -->
+    contenu
+<!-- END header_cell -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/header_cell)
 
 ## Utilisations dans les templates

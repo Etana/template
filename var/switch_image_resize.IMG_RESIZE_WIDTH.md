@@ -1,5 +1,4 @@
 # Variable switch_image_resize.IMG_RESIZE_WIDTH
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_image_resize](switch_image_resize.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_image_resize](switch_i
     {switch_image_resize.IMG_RESIZE_WIDTH}
 <!-- END switch_image_resize -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH)
 
 ## Utilisations dans les templates
 

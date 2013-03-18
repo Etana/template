@@ -1,4 +1,14 @@
 # Variable sort_pics
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN sort_pics -->
+    contenu
+<!-- END sort_pics -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/sort_pics)
 
 ## Utilisations dans les templates

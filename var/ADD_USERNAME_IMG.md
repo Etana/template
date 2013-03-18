@@ -1,4 +1,13 @@
 # Variable ADD_USERNAME_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ADD_USERNAME_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ADD_USERNAME_IMG)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable switch_recent.DATE
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_recent.DATE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_recent](switch_recent.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_recent](switch_recent.
     {switch_recent.DATE}
 <!-- END switch_recent -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_recent.DATE)
 
 ## Utilisations dans les templates
 

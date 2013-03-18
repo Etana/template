@@ -1,5 +1,4 @@
 # Variable birthday_list_box.row.TOPIC_TITLE
-[Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.row.TOPIC_TITLE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [birthday_list_box](birthday_list_box.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [row](row.md#readme) se trouva
     <!-- END row -->
 <!-- END birthday_list_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.row.TOPIC_TITLE)
 
 ## Utilisations dans les templates
 

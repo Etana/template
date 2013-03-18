@@ -1,4 +1,13 @@
 # Variable SENTBOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SENTBOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SENTBOX)
 
 ## Utilisations dans les templates

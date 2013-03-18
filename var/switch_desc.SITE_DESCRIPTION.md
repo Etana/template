@@ -1,5 +1,4 @@
 # Variable switch_desc.SITE_DESCRIPTION
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_desc.SITE_DESCRIPTION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_desc](switch_desc.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_desc](switch_desc.md#r
     {switch_desc.SITE_DESCRIPTION}
 <!-- END switch_desc -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_desc.SITE_DESCRIPTION)
 
 ## Utilisations dans les templates
 

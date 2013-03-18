@@ -1,4 +1,13 @@
 # Variable META_FAVICO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{META_FAVICO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/META_FAVICO)
 
 ## Utilisations dans les templates

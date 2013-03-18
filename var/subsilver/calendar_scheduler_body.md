@@ -39,7 +39,7 @@
 ### [L_CALENDAR_SCHEDULER](../L_CALENDAR_SCHEDULER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_CALENDAR_SCHEDULER))
 * [Variable &agrave; la ligne 4](../../subsilver/calendar_scheduler_body.tpl#L4)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 4](../../subsilver/calendar_scheduler_body.tpl#L4)
 
 ### [NAV_SEPARATOR](../NAV_SEPARATOR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/NAV_SEPARATOR))

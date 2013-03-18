@@ -1,4 +1,13 @@
 # Variable L_MY_PROFILE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MY_PROFILE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MY_PROFILE)
 
 ## Utilisations dans les templates

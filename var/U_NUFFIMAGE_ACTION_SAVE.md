@@ -1,4 +1,13 @@
 # Variable U_NUFFIMAGE_ACTION_SAVE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_NUFFIMAGE_ACTION_SAVE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_NUFFIMAGE_ACTION_SAVE)
 
 ## Utilisations dans les templates

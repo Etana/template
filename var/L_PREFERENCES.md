@@ -1,4 +1,13 @@
 # Variable L_PREFERENCES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PREFERENCES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PREFERENCES)
 
 ## Utilisations dans les templates

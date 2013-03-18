@@ -1,5 +1,4 @@
 # Variable pagination.PAGINATION
-[Ajouter une description](https://fa-tvars.appspot.com/var/pagination.PAGINATION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [pagination](pagination.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [pagination](pagination.md#rea
     {pagination.PAGINATION}
 <!-- END pagination -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/pagination.PAGINATION)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable MINI_TIME_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MINI_TIME_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MINI_TIME_IMG)
 
 ## Utilisations dans les templates

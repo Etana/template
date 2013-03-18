@@ -1,4 +1,13 @@
 # Variable L_GO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_GO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_GO)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_JUMP_TO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_JUMP_TO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_JUMP_TO)
 
 ## Utilisations dans les templates

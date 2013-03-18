@@ -1,4 +1,13 @@
 # Variable SCROLL_STEP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SCROLL_STEP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SCROLL_STEP)
 
 ## Utilisations dans les templates

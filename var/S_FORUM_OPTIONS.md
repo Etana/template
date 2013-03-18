@@ -1,4 +1,13 @@
 # Variable S_FORUM_OPTIONS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_FORUM_OPTIONS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_FORUM_OPTIONS)
 
 ## Utilisations dans les templates

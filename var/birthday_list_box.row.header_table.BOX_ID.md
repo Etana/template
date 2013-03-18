@@ -1,5 +1,4 @@
 # Variable birthday_list_box.row.header_table.BOX_ID
-[Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table.BOX_ID)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [header_table](header_table.md#readme) se trouvant dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [birthday_list_box](birthday_list_box.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [header_table](header_table.md
     <!-- END row -->
 <!-- END birthday_list_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table.BOX_ID)
 
 ## Utilisations dans les templates
 

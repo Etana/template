@@ -63,28 +63,28 @@
 ### [ID_CONTENT_CONTAINER](../ID_CONTENT_CONTAINER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/ID_CONTENT_CONTAINER))
 * [Variable &agrave; la ligne 288](../../punbb/overall_header.tpl#L288)
 
-### [ID_LEFT](../ID_LEFT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/ID_LEFT))
+### [ID_LEFT](../ID_LEFT.md#readme) ([V](https://fa-tvars.appspot.com/var/ID_LEFT))
 * [Variable &agrave; la ligne 293](../../punbb/overall_header.tpl#L293)
 
-### [JQUERY_PATH](../JQUERY_PATH.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JQUERY_PATH))
+### [JQUERY_PATH](../JQUERY_PATH.md#readme) ([V](https://fa-tvars.appspot.com/var/JQUERY_PATH))
 * [Variable &agrave; la ligne 22](../../punbb/overall_header.tpl#L22)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 23](../../punbb/overall_header.tpl#L23)
 * [Variable &agrave; la ligne 31](../../punbb/overall_header.tpl#L31)
 * [Variable &agrave; la ligne 32](../../punbb/overall_header.tpl#L32)
 * [Variable &agrave; la ligne 36](../../punbb/overall_header.tpl#L36)
 
-### [L_DONT_DISPLAY_AGAIN](../L_DONT_DISPLAY_AGAIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_DONT_DISPLAY_AGAIN))
+### [L_DONT_DISPLAY_AGAIN](../L_DONT_DISPLAY_AGAIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_DONT_DISPLAY_AGAIN))
 * [Variable &agrave; la ligne 221](../../punbb/overall_header.tpl#L221)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 235](../../punbb/overall_header.tpl#L235)
 
-### [L_LANG](../L_LANG.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LANG))
+### [L_LANG](../L_LANG.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LANG))
 * [Variable &agrave; la ligne 23](../../punbb/overall_header.tpl#L23)
 
-### [L_LANG_HTML](../L_LANG_HTML.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LANG_HTML))
+### [L_LANG_HTML](../L_LANG_HTML.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LANG_HTML))
 * [Variable &agrave; la ligne 2](../../punbb/overall_header.tpl#L2)
 * [Variable &agrave; la ligne 2](../../punbb/overall_header.tpl#L2)
 

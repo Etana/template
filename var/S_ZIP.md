@@ -1,4 +1,13 @@
 # Variable S_ZIP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_ZIP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_ZIP)
 
 ## Utilisations dans les templates

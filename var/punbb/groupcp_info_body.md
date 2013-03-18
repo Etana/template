@@ -15,7 +15,7 @@
 * [Variable &agrave; la ligne 36](../../punbb/groupcp_info_body.tpl#L36)
 * [Variable &agrave; la ligne 70](../../punbb/groupcp_info_body.tpl#L70)
 
-### [JS_DIR](../JS_DIR.md#readme) ([XXX](https://fa-tvars.appspot.com/var/JS_DIR))
+### [JS_DIR](../JS_DIR.md#readme) ([V](https://fa-tvars.appspot.com/var/JS_DIR))
 * [Variable &agrave; la ligne 157](../../punbb/groupcp_info_body.tpl#L157)
 
 ### [L_ADD_MEMBER](../L_ADD_MEMBER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ADD_MEMBER))
@@ -66,7 +66,7 @@
 ### [L_HIDDEN_MEMBERS](../L_HIDDEN_MEMBERS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_HIDDEN_MEMBERS))
 * [Variable &agrave; la ligne 122](../../punbb/groupcp_info_body.tpl#L122)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 18](../../punbb/groupcp_info_body.tpl#L18)
 
 ### [L_JOIN_GROUP](../L_JOIN_GROUP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_JOIN_GROUP))

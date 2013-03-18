@@ -1,5 +1,4 @@
 # Variable switch_informations_menu.switch_profile_fields.field.DESCRIPTION
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.field.DESCRIPTION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [field](field.md#readme) se trouvant dans une boucle sur [switch_profile_fields](switch_profile_fields.md#readme) se trouvant dans une boucle sur [switch_informations_menu](switch_informations_menu.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [field](field.md#readme) se tr
     <!-- END switch_profile_fields -->
 <!-- END switch_informations_menu -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.field.DESCRIPTION)
 
 ## Utilisations dans les templates
 

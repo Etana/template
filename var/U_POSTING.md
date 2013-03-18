@@ -1,4 +1,13 @@
 # Variable U_POSTING
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_POSTING}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_POSTING)
 
 ## Utilisations dans les templates

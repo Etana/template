@@ -1,4 +1,13 @@
 # Variable L_MESSAGE_BODY_DESC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MESSAGE_BODY_DESC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MESSAGE_BODY_DESC)
 
 ## Utilisations dans les templates

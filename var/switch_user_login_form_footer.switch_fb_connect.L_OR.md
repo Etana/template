@@ -1,5 +1,4 @@
 # Variable switch_user_login_form_footer.switch_fb_connect.L_OR
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_OR)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_connect](switch_fb_connect.md#readme) se trouvant dans une boucle sur [switch_user_login_form_footer](switch_user_login_form_footer.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_fb_connect](switch_fb_
     <!-- END switch_fb_connect -->
 <!-- END switch_user_login_form_footer -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_OR)
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable TID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TID)
 
 ## Utilisations dans les templates

@@ -1,5 +1,13 @@
 # Variable disable_viewonline
 
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN disable_viewonline -->
+    contenu
+<!-- END disable_viewonline -->```
+
 ##Description[*](https://fa-tvars.appspot.com/var/disable_viewonline)
 Boucle contenant le qui est en ligne.
 

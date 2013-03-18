@@ -1,4 +1,13 @@
 # Variable QUICK_REPLY_FORM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{QUICK_REPLY_FORM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/QUICK_REPLY_FORM)
 
 ## Utilisations dans les templates

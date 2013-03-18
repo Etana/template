@@ -1,4 +1,14 @@
 # Variable switch_no_comment
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_no_comment -->
+    contenu
+<!-- END switch_no_comment -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_comment)
 
 ## Utilisations dans les templates

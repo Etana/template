@@ -1,5 +1,4 @@
 # Variable credit_card_method.switch_select_currency.select_currency.OPTION
-[Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.OPTION)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [select_currency](select_currency.md#readme) se trouvant dans une boucle sur [switch_select_currency](switch_select_currency.md#readme) se trouvant dans une boucle sur [credit_card_method](credit_card_method.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [select_currency](select_curre
     <!-- END switch_select_currency -->
 <!-- END credit_card_method -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.OPTION)
 
 ## Utilisations dans les templates
 

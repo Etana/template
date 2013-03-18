@@ -1,4 +1,13 @@
 # Variable HIDE_USER_YES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{HIDE_USER_YES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/HIDE_USER_YES)
 
 ## Utilisations dans les templates

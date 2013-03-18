@@ -1,4 +1,14 @@
 # Variable switch_add_event
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_add_event -->
+    contenu
+<!-- END switch_add_event -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_add_event)
 
 ## Utilisations dans les templates

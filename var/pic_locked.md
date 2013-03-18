@@ -1,4 +1,14 @@
 # Variable pic_locked
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN pic_locked -->
+    contenu
+<!-- END pic_locked -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/pic_locked)
 
 ## Utilisations dans les templates

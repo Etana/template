@@ -1,4 +1,13 @@
 # Variable REASON
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{REASON}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/REASON)
 
 ## Utilisations dans les templates

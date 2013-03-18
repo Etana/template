@@ -1,4 +1,13 @@
 # Variable U_PIC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_PIC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_PIC)
 
 ## Utilisations dans les templates

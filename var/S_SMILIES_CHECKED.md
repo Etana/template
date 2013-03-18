@@ -1,4 +1,13 @@
 # Variable S_SMILIES_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_SMILIES_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_SMILIES_CHECKED)
 
 ## Utilisations dans les templates

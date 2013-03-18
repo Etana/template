@@ -1,4 +1,13 @@
 # Variable MINI_POST_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MINI_POST_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MINI_POST_IMG)
 
 ## Utilisations dans les templates

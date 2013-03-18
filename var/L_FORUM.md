@@ -1,4 +1,13 @@
 # Variable L_FORUM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FORUM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FORUM)
 
 ## Utilisations dans les templates

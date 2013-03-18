@@ -1,4 +1,14 @@
 # Variable switch_viewonline_link
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_viewonline_link -->
+    contenu
+<!-- END switch_viewonline_link -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_viewonline_link)
 
 ## Utilisations dans les templates

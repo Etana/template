@@ -1,5 +1,4 @@
 # Variable _calendar_box._cell.L_DAY
-[Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box._cell.L_DAY)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [_cell](_cell.md#readme) se trouvant dans une boucle sur [_calendar_box](_calendar_box.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [_cell](_cell.md#readme) se tr
     <!-- END _cell -->
 <!-- END _calendar_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box._cell.L_DAY)
 
 ## Utilisations dans les templates
 

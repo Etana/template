@@ -46,7 +46,7 @@
 ### [L_FORUM_LOCATION](../L_FORUM_LOCATION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FORUM_LOCATION))
 * [Variable &agrave; la ligne 43](../../punbb/viewonline_body.tpl#L43)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 28](../../punbb/viewonline_body.tpl#L28)
 
 ### [L_LAST_UPDATE](../L_LAST_UPDATE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LAST_UPDATE))

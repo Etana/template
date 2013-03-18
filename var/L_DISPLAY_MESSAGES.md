@@ -1,4 +1,13 @@
 # Variable L_DISPLAY_MESSAGES
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DISPLAY_MESSAGES}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DISPLAY_MESSAGES)
 
 ## Utilisations dans les templates

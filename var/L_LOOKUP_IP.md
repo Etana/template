@@ -1,4 +1,13 @@
 # Variable L_LOOKUP_IP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_LOOKUP_IP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_LOOKUP_IP)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable switch_no_user.COLSPAN_NUMBER
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_no_user](switch_no_user.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_no_user](switch_no_use
     {switch_no_user.COLSPAN_NUMBER}
 <!-- END switch_no_user -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
 
 ## Utilisations dans les templates
 

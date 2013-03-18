@@ -1,4 +1,13 @@
 # Variable L_YOU_BELONG_GROUPS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_YOU_BELONG_GROUPS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_YOU_BELONG_GROUPS)
 
 ## Utilisations dans les templates

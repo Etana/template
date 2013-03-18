@@ -1,4 +1,14 @@
 # Variable switch_unsubscribe_allowed
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_unsubscribe_allowed -->
+    contenu
+<!-- END switch_unsubscribe_allowed -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_unsubscribe_allowed)
 
 ## Utilisations dans les templates

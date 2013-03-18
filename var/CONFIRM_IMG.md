@@ -1,4 +1,13 @@
 # Variable CONFIRM_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CONFIRM_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CONFIRM_IMG)
 
 ## Utilisations dans les templates

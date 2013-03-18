@@ -1,4 +1,13 @@
 # Variable BOX_NAME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{BOX_NAME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/BOX_NAME)
 
 ## Utilisations dans les templates

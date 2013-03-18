@@ -1,4 +1,13 @@
 # Variable L_RECENT_TOPICS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_RECENT_TOPICS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_RECENT_TOPICS)
 
 ## Utilisations dans les templates

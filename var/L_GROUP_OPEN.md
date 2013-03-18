@@ -1,4 +1,13 @@
 # Variable L_GROUP_OPEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_GROUP_OPEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_GROUP_OPEN)
 
 ## Utilisations dans les templates

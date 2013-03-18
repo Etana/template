@@ -1,4 +1,13 @@
 # Variable NOTIFY_SUBSCRIPTIONS_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NOTIFY_SUBSCRIPTIONS_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NOTIFY_SUBSCRIPTIONS_NO)
 
 ## Utilisations dans les templates

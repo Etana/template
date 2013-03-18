@@ -1,4 +1,13 @@
 # Variable L_MAX_UPLOADSIZE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MAX_UPLOADSIZE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MAX_UPLOADSIZE)
 
 ## Utilisations dans les templates

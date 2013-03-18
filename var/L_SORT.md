@@ -1,4 +1,13 @@
 # Variable L_SORT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SORT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SORT)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable piccol
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN piccol -->
+    contenu
+<!-- END piccol -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/piccol)
 
 ## Utilisations dans les templates

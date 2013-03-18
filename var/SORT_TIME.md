@@ -1,4 +1,13 @@
 # Variable SORT_TIME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SORT_TIME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SORT_TIME)
 
 ## Utilisations dans les templates

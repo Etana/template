@@ -1,4 +1,13 @@
 # Variable SMILEY_SELECT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SMILEY_SELECT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SMILEY_SELECT)
 
 ## Utilisations dans les templates

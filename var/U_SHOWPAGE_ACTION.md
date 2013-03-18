@@ -1,4 +1,13 @@
 # Variable U_SHOWPAGE_ACTION
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_SHOWPAGE_ACTION}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_SHOWPAGE_ACTION)
 
 ## Utilisations dans les templates

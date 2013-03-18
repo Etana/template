@@ -1,5 +1,4 @@
 # Variable row.ROW_CLASS
-[Ajouter une description](https://fa-tvars.appspot.com/var/row.ROW_CLASS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [row](row.md#readme).
     {row.ROW_CLASS}
 <!-- END row -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/row.ROW_CLASS)
 
 ## Utilisations dans les templates
 

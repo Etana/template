@@ -1,5 +1,4 @@
 # Variable switch_report_popup.U_REPORT_POPUP
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_report_popup.U_REPORT_POPUP)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_report_popup](switch_report_popup.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_report_popup](switch_r
     {switch_report_popup.U_REPORT_POPUP}
 <!-- END switch_report_popup -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_report_popup.U_REPORT_POPUP)
 
 ## Utilisations dans les templates
 

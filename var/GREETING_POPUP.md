@@ -1,4 +1,13 @@
 # Variable GREETING_POPUP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GREETING_POPUP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GREETING_POPUP)
 
 ## Utilisations dans les templates

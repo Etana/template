@@ -1,4 +1,14 @@
 # Variable pending_members_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN pending_members_row -->
+    contenu
+<!-- END pending_members_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/pending_members_row)
 
 ## Utilisations dans les templates

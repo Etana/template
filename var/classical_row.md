@@ -1,4 +1,14 @@
 # Variable classical_row
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN classical_row -->
+    contenu
+<!-- END classical_row -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/classical_row)
 
 ## Utilisations dans les templates

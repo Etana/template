@@ -1,4 +1,13 @@
 # Variable ICQ_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ICQ_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ICQ_IMG)
 
 ## Utilisations dans les templates

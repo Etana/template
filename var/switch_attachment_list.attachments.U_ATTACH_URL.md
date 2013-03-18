@@ -1,5 +1,4 @@
 # Variable switch_attachment_list.attachments.U_ATTACH_URL
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.U_ATTACH_URL)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [attachments](attachments.md#readme) se trouvant dans une boucle sur [switch_attachment_list](switch_attachment_list.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [attachments](attachments.md#r
     <!-- END attachments -->
 <!-- END switch_attachment_list -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.U_ATTACH_URL)
 
 ## Utilisations dans les templates
 

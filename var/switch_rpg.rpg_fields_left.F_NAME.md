@@ -1,5 +1,4 @@
 # Variable switch_rpg.rpg_fields_left.F_NAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields_left.F_NAME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [rpg_fields_left](rpg_fields_left.md#readme) se trouvant dans une boucle sur [switch_rpg](switch_rpg.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [rpg_fields_left](rpg_fields_l
     <!-- END rpg_fields_left -->
 <!-- END switch_rpg -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields_left.F_NAME)
 
 ## Utilisations dans les templates
 

@@ -1,5 +1,4 @@
 # Variable listrow.SUBJECT
-[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.SUBJECT)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
     {listrow.SUBJECT}
 <!-- END listrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/listrow.SUBJECT)
 
 ## Utilisations dans les templates
 

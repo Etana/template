@@ -1,4 +1,13 @@
 # Variable GROUP_DESC
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GROUP_DESC}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GROUP_DESC)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_CONFIRM_CODE_EXPLAIN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CONFIRM_CODE_EXPLAIN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE_EXPLAIN)
 
 ## Utilisations dans les templates

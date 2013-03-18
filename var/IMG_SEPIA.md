@@ -1,4 +1,13 @@
 # Variable IMG_SEPIA
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_SEPIA}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_SEPIA)
 
 ## Utilisations dans les templates

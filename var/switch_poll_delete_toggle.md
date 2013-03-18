@@ -1,4 +1,14 @@
 # Variable switch_poll_delete_toggle
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_poll_delete_toggle -->
+    contenu
+<!-- END switch_poll_delete_toggle -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_poll_delete_toggle)
 
 ## Utilisations dans les templates

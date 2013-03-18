@@ -1,5 +1,14 @@
 # Variable L_INDEX
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_INDEX)
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_INDEX}
+```
+
+##Description[*](https://fa-tvars.appspot.com/var/L_INDEX)
+Chaîne de texte contenant le titre de votre forum défini dans `PA > Général > Forum | Configuration > Nom du site`.
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,13 @@
 # Variable PREVIEW_NEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{PREVIEW_NEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/PREVIEW_NEW)
 
 ## Utilisations dans les templates

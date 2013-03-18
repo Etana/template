@@ -1,4 +1,13 @@
 # Variable L_PUBLISH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_PUBLISH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_PUBLISH)
 
 ## Utilisations dans les templates

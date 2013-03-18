@@ -1,4 +1,13 @@
 # Variable GOOD_LEVEL_PWD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{GOOD_LEVEL_PWD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/GOOD_LEVEL_PWD)
 
 ## Utilisations dans les templates

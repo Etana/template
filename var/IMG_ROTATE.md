@@ -1,4 +1,13 @@
 # Variable IMG_ROTATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_ROTATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_ROTATE)
 
 ## Utilisations dans les templates

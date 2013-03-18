@@ -1,8 +1,5 @@
 # Variable message_admin_index.message_admin_txt.MES_TXT
 
-##Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
-Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralités > Contenu du message`.
-
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [message_admin_txt](message_admin_txt.md#readme) se trouvant dans une boucle sur [message_admin_index](message_admin_index.md#readme).
 
@@ -13,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [message_admin_txt](message_ad
     <!-- END message_admin_txt -->
 <!-- END message_admin_index -->
 ```
+
+##Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
+Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralités > Contenu du message`.
 
 ## Utilisations dans les templates
 

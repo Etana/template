@@ -1,4 +1,13 @@
 # Variable FORUM_ID
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{FORUM_ID}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/FORUM_ID)
 
 ## Utilisations dans les templates

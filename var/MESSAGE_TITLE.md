@@ -1,4 +1,13 @@
 # Variable MESSAGE_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MESSAGE_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MESSAGE_TITLE)
 
 ## Utilisations dans les templates

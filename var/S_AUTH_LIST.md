@@ -1,4 +1,13 @@
 # Variable S_AUTH_LIST
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_AUTH_LIST}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_AUTH_LIST)
 
 ## Utilisations dans les templates

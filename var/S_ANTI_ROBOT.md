@@ -1,4 +1,13 @@
 # Variable S_ANTI_ROBOT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_ANTI_ROBOT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_ANTI_ROBOT)
 
 ## Utilisations dans les templates

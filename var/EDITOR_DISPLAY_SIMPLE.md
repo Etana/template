@@ -1,4 +1,13 @@
 # Variable EDITOR_DISPLAY_SIMPLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{EDITOR_DISPLAY_SIMPLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/EDITOR_DISPLAY_SIMPLE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_TRESULTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TRESULTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TRESULTS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable switch_namechange_allowed
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_namechange_allowed -->
+    contenu
+<!-- END switch_namechange_allowed -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_namechange_allowed)
 
 ## Utilisations dans les templates

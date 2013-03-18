@@ -1,4 +1,13 @@
 # Variable MOD_POSTS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MOD_POSTS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MOD_POSTS)
 
 ## Utilisations dans les templates

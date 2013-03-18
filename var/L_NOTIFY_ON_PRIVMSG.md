@@ -1,4 +1,13 @@
 # Variable L_NOTIFY_ON_PRIVMSG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NOTIFY_ON_PRIVMSG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NOTIFY_ON_PRIVMSG)
 
 ## Utilisations dans les templates

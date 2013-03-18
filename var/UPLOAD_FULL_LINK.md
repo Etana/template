@@ -1,4 +1,13 @@
 # Variable UPLOAD_FULL_LINK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{UPLOAD_FULL_LINK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/UPLOAD_FULL_LINK)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable IMGS.NEW_LINE
-[Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.NEW_LINE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).
     {IMGS.NEW_LINE}
 <!-- END IMGS -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.NEW_LINE)
 
 ## Utilisations dans les templates
 

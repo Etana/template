@@ -1,4 +1,14 @@
 # Variable switch_chatbox_activate
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_chatbox_activate -->
+    contenu
+<!-- END switch_chatbox_activate -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_chatbox_activate)
 
 ## Utilisations dans les templates

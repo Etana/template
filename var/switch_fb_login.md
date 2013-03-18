@@ -1,4 +1,14 @@
 # Variable switch_fb_login
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_fb_login -->
+    contenu
+<!-- END switch_fb_login -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_login)
 
 ## Utilisations dans les templates

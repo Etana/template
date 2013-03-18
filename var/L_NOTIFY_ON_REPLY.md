@@ -1,4 +1,13 @@
 # Variable L_NOTIFY_ON_REPLY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NOTIFY_ON_REPLY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NOTIFY_ON_REPLY)
 
 ## Utilisations dans les templates

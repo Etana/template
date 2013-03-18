@@ -1,5 +1,12 @@
 # Variable L_MARK_FORUMS_READ
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MARK_FORUMS_READ}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_MARK_FORUMS_READ)
 Affiche le texte du lien de la variable [`{U_MARK_READ}`](U_MARK_READ.md#readme).
 

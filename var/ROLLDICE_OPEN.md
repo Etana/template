@@ -1,4 +1,13 @@
 # Variable ROLLDICE_OPEN
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ROLLDICE_OPEN}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ROLLDICE_OPEN)
 
 ## Utilisations dans les templates

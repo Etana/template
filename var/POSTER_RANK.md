@@ -1,4 +1,13 @@
 # Variable POSTER_RANK
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POSTER_RANK}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POSTER_RANK)
 
 ## Utilisations dans les templates

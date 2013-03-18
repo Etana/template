@@ -1,4 +1,14 @@
 # Variable switch_register_not_display
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_register_not_display -->
+    contenu
+<!-- END switch_register_not_display -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_register_not_display)
 
 ## Utilisations dans les templates

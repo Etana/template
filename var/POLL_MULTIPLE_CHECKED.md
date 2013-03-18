@@ -1,4 +1,13 @@
 # Variable POLL_MULTIPLE_CHECKED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POLL_MULTIPLE_CHECKED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POLL_MULTIPLE_CHECKED)
 
 ## Utilisations dans les templates

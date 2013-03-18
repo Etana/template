@@ -1,4 +1,13 @@
 # Variable SELECT_CAT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SELECT_CAT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SELECT_CAT)
 
 ## Utilisations dans les templates

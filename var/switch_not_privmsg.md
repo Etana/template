@@ -1,4 +1,14 @@
 # Variable switch_not_privmsg
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_not_privmsg -->
+    contenu
+<!-- END switch_not_privmsg -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_not_privmsg)
 
 ## Utilisations dans les templates

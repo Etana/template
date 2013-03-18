@@ -1,5 +1,4 @@
 # Variable navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE
-[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [moderation_panel](moderation_panel.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [moderation_panel](moderation_
     <!-- END moderation_panel -->
 <!-- END navlinks -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE)
 
 ## Utilisations dans les templates
 

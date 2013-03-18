@@ -4,7 +4,7 @@
 
 ## Variables utilisées
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/confirm_body.tpl#L3)
 
 ### [L_NO](../L_NO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_NO))

@@ -1,4 +1,13 @@
 # Variable U_SLIDESHOW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_SLIDESHOW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_SLIDESHOW)
 
 ## Utilisations dans les templates

@@ -1,5 +1,4 @@
 # Variable switch_privmsg.switch_username.USERNAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_username](switch_username.md#readme) se trouvant dans une boucle sur [switch_privmsg](switch_privmsg.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_username](switch_usern
     <!-- END switch_username -->
 <!-- END switch_privmsg -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)
 
 ## Utilisations dans les templates
 

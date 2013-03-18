@@ -1,5 +1,12 @@
 # Variable CHATBOX_TOP
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CHATBOX_TOP}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/CHATBOX_TOP)
 Affiche la chatbox sur la page d'accueil en haut si l'option dans `PA > Modules > ChatBox | Configuration > Affichage de la chatbox` est choisie.
 

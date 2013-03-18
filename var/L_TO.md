@@ -1,4 +1,13 @@
 # Variable L_TO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TO)
 
 ## Utilisations dans les templates

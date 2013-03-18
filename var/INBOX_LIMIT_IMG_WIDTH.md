@@ -1,4 +1,13 @@
 # Variable INBOX_LIMIT_IMG_WIDTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{INBOX_LIMIT_IMG_WIDTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/INBOX_LIMIT_IMG_WIDTH)
 
 ## Utilisations dans les templates

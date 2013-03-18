@@ -1,4 +1,13 @@
 # Variable L_NO_PICS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NO_PICS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NO_PICS)
 
 ## Utilisations dans les templates

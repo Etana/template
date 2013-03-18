@@ -1,4 +1,13 @@
 # Variable L_SAVE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SAVE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SAVE)
 
 ## Utilisations dans les templates

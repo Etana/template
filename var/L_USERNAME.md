@@ -1,5 +1,12 @@
 # Variable L_USERNAME
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_USERNAME}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_USERNAME)
 Chaîne de texte.
 

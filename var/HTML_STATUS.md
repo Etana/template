@@ -1,4 +1,13 @@
 # Variable HTML_STATUS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{HTML_STATUS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/HTML_STATUS)
 
 ## Utilisations dans les templates

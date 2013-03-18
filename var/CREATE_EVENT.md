@@ -1,4 +1,13 @@
 # Variable CREATE_EVENT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CREATE_EVENT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CREATE_EVENT)
 
 ## Utilisations dans les templates

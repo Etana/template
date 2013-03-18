@@ -1,5 +1,12 @@
 # Variable TOTAL_POSTS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TOTAL_POSTS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/TOTAL_POSTS)
 Chaîne de texte indiquant le nombre total de message que les membres ont postés. Le nombre de message est intégré au texte.
 

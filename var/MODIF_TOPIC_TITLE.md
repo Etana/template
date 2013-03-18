@@ -1,4 +1,13 @@
 # Variable MODIF_TOPIC_TITLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MODIF_TOPIC_TITLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MODIF_TOPIC_TITLE)
 
 ## Utilisations dans les templates

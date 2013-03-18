@@ -1,5 +1,12 @@
 # Variable NEWEST_USER
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NEWEST_USER}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/NEWEST_USER)
 Chaîne html indiquant le dernier membre enregistré. Le pseudo du membre est intégré au texte.
 

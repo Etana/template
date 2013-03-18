@@ -1,4 +1,13 @@
 # Variable L_VIEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_VIEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_VIEW)
 
 ## Utilisations dans les templates

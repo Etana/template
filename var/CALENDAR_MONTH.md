@@ -1,4 +1,13 @@
 # Variable CALENDAR_MONTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{CALENDAR_MONTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/CALENDAR_MONTH)
 
 ## Utilisations dans les templates

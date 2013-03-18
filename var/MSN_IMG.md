@@ -1,4 +1,13 @@
 # Variable MSN_IMG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MSN_IMG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MSN_IMG)
 
 ## Utilisations dans les templates

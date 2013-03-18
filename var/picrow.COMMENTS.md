@@ -1,5 +1,4 @@
 # Variable picrow.COMMENTS
-[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.COMMENTS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
     {picrow.COMMENTS}
 <!-- END picrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/picrow.COMMENTS)
 
 ## Utilisations dans les templates
 

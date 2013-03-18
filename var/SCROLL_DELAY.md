@@ -1,4 +1,13 @@
 # Variable SCROLL_DELAY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{SCROLL_DELAY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/SCROLL_DELAY)
 
 ## Utilisations dans les templates

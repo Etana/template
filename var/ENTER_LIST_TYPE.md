@@ -1,4 +1,13 @@
 # Variable ENTER_LIST_TYPE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ENTER_LIST_TYPE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ENTER_LIST_TYPE)
 
 ## Utilisations dans les templates

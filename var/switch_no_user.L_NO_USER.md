@@ -1,5 +1,4 @@
 # Variable switch_no_user.L_NO_USER
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_no_user](switch_no_user.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [switch_no_user](switch_no_use
     {switch_no_user.L_NO_USER}
 <!-- END switch_no_user -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
 
 ## Utilisations dans les templates
 

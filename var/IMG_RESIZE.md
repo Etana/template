@@ -1,4 +1,13 @@
 # Variable IMG_RESIZE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_RESIZE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_RESIZE)
 
 ## Utilisations dans les templates

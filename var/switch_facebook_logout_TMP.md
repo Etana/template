@@ -1,4 +1,13 @@
 # Variable switch_facebook_logout_TMP
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{switch_facebook_logout_TMP}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
 
 ## Utilisations dans les templates

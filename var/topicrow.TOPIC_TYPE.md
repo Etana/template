@@ -1,5 +1,4 @@
 # Variable topicrow.TOPIC_TYPE
-[Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.TOPIC_TYPE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme)
     {topicrow.TOPIC_TYPE}
 <!-- END topicrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.TOPIC_TYPE)
 
 ## Utilisations dans les templates
 

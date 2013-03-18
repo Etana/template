@@ -1,4 +1,13 @@
 # Variable JS_SESSION_ID_INPUT
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{JS_SESSION_ID_INPUT}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/JS_SESSION_ID_INPUT)
 
 ## Utilisations dans les templates

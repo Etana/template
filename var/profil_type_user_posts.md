@@ -1,4 +1,14 @@
 # Variable profil_type_user_posts
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN profil_type_user_posts -->
+    contenu
+<!-- END profil_type_user_posts -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/profil_type_user_posts)
 
 ## Utilisations dans les templates

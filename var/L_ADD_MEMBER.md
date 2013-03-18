@@ -1,4 +1,13 @@
 # Variable L_ADD_MEMBER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ADD_MEMBER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ADD_MEMBER)
 
 ## Utilisations dans les templates

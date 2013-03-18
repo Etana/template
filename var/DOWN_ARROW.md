@@ -1,4 +1,13 @@
 # Variable DOWN_ARROW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{DOWN_ARROW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/DOWN_ARROW)
 
 ## Utilisations dans les templates

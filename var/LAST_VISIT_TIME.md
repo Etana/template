@@ -1,4 +1,13 @@
 # Variable LAST_VISIT_TIME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{LAST_VISIT_TIME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/LAST_VISIT_TIME)
 
 ## Utilisations dans les templates

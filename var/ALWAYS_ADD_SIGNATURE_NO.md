@@ -1,4 +1,13 @@
 # Variable ALWAYS_ADD_SIGNATURE_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ALWAYS_ADD_SIGNATURE_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ALWAYS_ADD_SIGNATURE_NO)
 
 ## Utilisations dans les templates

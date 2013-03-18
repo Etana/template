@@ -1,4 +1,13 @@
 # Variable L_REFRESH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_REFRESH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_REFRESH)
 
 ## Utilisations dans les templates

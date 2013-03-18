@@ -75,7 +75,7 @@
 ### [L_FIRST_STEP](../L_FIRST_STEP.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FIRST_STEP))
 * [Variable &agrave; la ligne 67](../../punbb/donate.tpl#L67)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 19](../../punbb/donate.tpl#L19)
 
 ### [L_INSERT_CODE](../L_INSERT_CODE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INSERT_CODE))

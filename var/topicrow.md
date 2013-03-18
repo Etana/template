@@ -1,4 +1,14 @@
 # Variable topicrow
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN topicrow -->
+    contenu
+<!-- END topicrow -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicrow)
 
 ## Utilisations dans les templates

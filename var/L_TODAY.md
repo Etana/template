@@ -1,4 +1,13 @@
 # Variable L_TODAY
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_TODAY}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_TODAY)
 
 ## Utilisations dans les templates

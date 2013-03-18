@@ -1,4 +1,13 @@
 # Variable L_NUFF_BW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NUFF_BW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NUFF_BW)
 
 ## Utilisations dans les templates

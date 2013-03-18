@@ -1,4 +1,13 @@
 # Variable L_SEND_EMAIL_MSG
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_SEND_EMAIL_MSG}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_SEND_EMAIL_MSG)
 
 ## Utilisations dans les templates

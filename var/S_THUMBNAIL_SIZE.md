@@ -1,4 +1,13 @@
 # Variable S_THUMBNAIL_SIZE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_THUMBNAIL_SIZE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_THUMBNAIL_SIZE)
 
 ## Utilisations dans les templates

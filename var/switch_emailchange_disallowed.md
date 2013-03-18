@@ -1,4 +1,14 @@
 # Variable switch_emailchange_disallowed
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_emailchange_disallowed -->
+    contenu
+<!-- END switch_emailchange_disallowed -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_emailchange_disallowed)
 
 ## Utilisations dans les templates

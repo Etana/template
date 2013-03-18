@@ -1,4 +1,14 @@
 # Variable postrow
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN postrow -->
+    contenu
+<!-- END postrow -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow)
 
 ## Utilisations dans les templates

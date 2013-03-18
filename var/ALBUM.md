@@ -1,4 +1,13 @@
 # Variable ALBUM
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ALBUM}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ALBUM)
 
 ## Utilisations dans les templates

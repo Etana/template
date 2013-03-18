@@ -1,4 +1,13 @@
 # Variable S_SELECT_MOD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_SELECT_MOD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_SELECT_MOD)
 
 ## Utilisations dans les templates

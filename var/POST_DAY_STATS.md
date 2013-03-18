@@ -1,4 +1,13 @@
 # Variable POST_DAY_STATS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{POST_DAY_STATS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/POST_DAY_STATS)
 
 ## Utilisations dans les templates

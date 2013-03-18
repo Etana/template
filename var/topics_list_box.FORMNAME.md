@@ -1,5 +1,4 @@
 # Variable topics_list_box.FORMNAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.FORMNAME)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topics_list_box](topics_list_box.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [topics_list_box](topics_list_
     {topics_list_box.FORMNAME}
 <!-- END topics_list_box -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.FORMNAME)
 
 ## Utilisations dans les templates
 

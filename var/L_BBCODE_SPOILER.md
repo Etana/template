@@ -1,4 +1,13 @@
 # Variable L_BBCODE_SPOILER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_BBCODE_SPOILER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_BBCODE_SPOILER)
 
 ## Utilisations dans les templates

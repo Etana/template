@@ -1,4 +1,14 @@
 # Variable stat_link
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN stat_link -->
+    contenu
+<!-- END stat_link -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/stat_link)
 
 ## Utilisations dans les templates

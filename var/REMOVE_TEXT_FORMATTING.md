@@ -1,4 +1,13 @@
 # Variable REMOVE_TEXT_FORMATTING
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{REMOVE_TEXT_FORMATTING}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/REMOVE_TEXT_FORMATTING)
 
 ## Utilisations dans les templates

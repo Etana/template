@@ -1,5 +1,4 @@
 # Variable list_pics_block.list_pics.recent_stats.H_STATS
-[Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.recent_stats.H_STATS)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [recent_stats](recent_stats.md#readme) se trouvant dans une boucle sur [list_pics](list_pics.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).
@@ -13,6 +12,9 @@ Cette variable est utilisable dans une boucle sur [recent_stats](recent_stats.md
     <!-- END list_pics -->
 <!-- END list_pics_block -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.recent_stats.H_STATS)
 
 ## Utilisations dans les templates
 

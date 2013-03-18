@@ -1,4 +1,13 @@
 # Variable ALWAYS_ALLOW_HTML_NO
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{ALWAYS_ALLOW_HTML_NO}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ALWAYS_ALLOW_HTML_NO)
 
 ## Utilisations dans les templates

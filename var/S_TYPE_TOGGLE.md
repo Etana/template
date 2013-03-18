@@ -1,4 +1,13 @@
 # Variable S_TYPE_TOGGLE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_TYPE_TOGGLE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_TYPE_TOGGLE)
 
 ## Utilisations dans les templates

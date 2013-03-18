@@ -1,4 +1,13 @@
 # Variable L_MOST_VIEWED_TOPICS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_MOST_VIEWED_TOPICS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_MOST_VIEWED_TOPICS)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable U_FAQ
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{U_FAQ}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/U_FAQ)
 
 ## Utilisations dans les templates

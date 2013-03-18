@@ -1,4 +1,14 @@
 # Variable block_title
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN block_title -->
+    contenu
+<!-- END block_title -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/block_title)
 
 ## Utilisations dans les templates

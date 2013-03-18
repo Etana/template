@@ -1,4 +1,14 @@
 # Variable switch_fb_explain
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_fb_explain -->
+    contenu
+<!-- END switch_fb_explain -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_explain)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable legend_stat
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN legend_stat -->
+    contenu
+<!-- END legend_stat -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/legend_stat)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable L_NUFF_INFRARED
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NUFF_INFRARED}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_NUFF_INFRARED)
 
 ## Utilisations dans les templates

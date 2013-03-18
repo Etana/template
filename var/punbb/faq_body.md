@@ -50,7 +50,7 @@
 ### [L_FAQ_TITLE](../L_FAQ_TITLE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FAQ_TITLE))
 * [Variable &agrave; la ligne 17](../../punbb/faq_body.tpl#L17)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 17](../../punbb/faq_body.tpl#L17)
 
 ### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER))

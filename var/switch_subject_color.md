@@ -1,4 +1,14 @@
 # Variable switch_subject_color
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_subject_color -->
+    contenu
+<!-- END switch_subject_color -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_subject_color)
 
 ## Utilisations dans les templates

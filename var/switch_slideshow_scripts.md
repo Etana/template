@@ -1,4 +1,14 @@
 # Variable switch_slideshow_scripts
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_slideshow_scripts -->
+    contenu
+<!-- END switch_slideshow_scripts -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_slideshow_scripts)
 
 ## Utilisations dans les templates

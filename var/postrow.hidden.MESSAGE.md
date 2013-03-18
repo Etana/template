@@ -1,5 +1,4 @@
 # Variable postrow.hidden.MESSAGE
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.hidden.MESSAGE)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [hidden](hidden.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [hidden](hidden.md#readme) se 
     <!-- END hidden -->
 <!-- END postrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.hidden.MESSAGE)
 
 ## Utilisations dans les templates
 

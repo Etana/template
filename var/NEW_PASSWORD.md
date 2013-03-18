@@ -1,4 +1,13 @@
 # Variable NEW_PASSWORD
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{NEW_PASSWORD}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/NEW_PASSWORD)
 
 ## Utilisations dans les templates

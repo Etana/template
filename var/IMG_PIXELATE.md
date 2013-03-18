@@ -1,4 +1,13 @@
 # Variable IMG_PIXELATE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{IMG_PIXELATE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMG_PIXELATE)
 
 ## Utilisations dans les templates

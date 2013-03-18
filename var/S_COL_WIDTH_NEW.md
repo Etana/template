@@ -1,4 +1,13 @@
 # Variable S_COL_WIDTH_NEW
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{S_COL_WIDTH_NEW}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/S_COL_WIDTH_NEW)
 
 ## Utilisations dans les templates

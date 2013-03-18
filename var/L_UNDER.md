@@ -1,4 +1,13 @@
 # Variable L_UNDER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_UNDER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_UNDER)
 
 ## Utilisations dans les templates

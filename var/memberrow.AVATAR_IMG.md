@@ -1,5 +1,4 @@
 # Variable memberrow.AVATAR_IMG
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.AVATAR_IMG)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).
@@ -9,6 +8,9 @@ Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readm
     {memberrow.AVATAR_IMG}
 <!-- END memberrow -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.AVATAR_IMG)
 
 ## Utilisations dans les templates
 

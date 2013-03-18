@@ -1,4 +1,13 @@
 # Variable L_FIND_USERNAME
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_FIND_USERNAME}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_FIND_USERNAME)
 
 ## Utilisations dans les templates

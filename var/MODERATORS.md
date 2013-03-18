@@ -1,4 +1,13 @@
 # Variable MODERATORS
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MODERATORS}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MODERATORS)
 
 ## Utilisations dans les templates

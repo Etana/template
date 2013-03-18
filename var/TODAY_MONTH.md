@@ -1,4 +1,13 @@
 # Variable TODAY_MONTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{TODAY_MONTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/TODAY_MONTH)
 
 ## Utilisations dans les templates

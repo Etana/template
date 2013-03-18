@@ -1,5 +1,12 @@
 # Variable L_CLICK_TO_JOIN_CHAT
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_CLICK_TO_JOIN_CHAT}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_CLICK_TO_JOIN_CHAT)
 Chaîne de texte.
 

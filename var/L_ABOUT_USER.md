@@ -1,4 +1,13 @@
 # Variable L_ABOUT_USER
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_ABOUT_USER}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_ABOUT_USER)
 
 ## Utilisations dans les templates

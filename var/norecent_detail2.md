@@ -1,4 +1,14 @@
 # Variable norecent_detail2
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN norecent_detail2 -->
+    contenu
+<!-- END norecent_detail2 -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/norecent_detail2)
 
 ## Utilisations dans les templates

@@ -1,5 +1,12 @@
 # Variable L_NO_NEW_POSTS
 
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_NO_NEW_POSTS}
+```
+
 ##Description[*](https://fa-tvars.appspot.com/var/L_NO_NEW_POSTS)
 Chaîne de texte.
 

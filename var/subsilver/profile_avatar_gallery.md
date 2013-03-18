@@ -35,7 +35,7 @@
 ### [L_GO](../L_GO.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_GO))
 * [Variable &agrave; la ligne 12](../../subsilver/profile_avatar_gallery.tpl#L12)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 4](../../subsilver/profile_avatar_gallery.tpl#L4)
 
 ### [L_RETURN_PROFILE](../L_RETURN_PROFILE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_RETURN_PROFILE))

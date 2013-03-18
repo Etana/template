@@ -1,5 +1,4 @@
 # Variable switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES)
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_report](switch_report.md#readme) se trouvant dans une boucle sur [switch_preferences_menu](switch_preferences_menu.md#readme).
@@ -11,6 +10,9 @@ Cette variable est utilisable dans une boucle sur [switch_report](switch_report.
     <!-- END switch_report -->
 <!-- END switch_preferences_menu -->
 ```
+
+##Description
+[Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES)
 
 ## Utilisations dans les templates
 

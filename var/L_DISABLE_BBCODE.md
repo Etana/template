@@ -1,4 +1,13 @@
 # Variable L_DISABLE_BBCODE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{L_DISABLE_BBCODE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/L_DISABLE_BBCODE)
 
 ## Utilisations dans les templates

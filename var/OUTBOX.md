@@ -1,4 +1,13 @@
 # Variable OUTBOX
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{OUTBOX}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/OUTBOX)
 
 ## Utilisations dans les templates

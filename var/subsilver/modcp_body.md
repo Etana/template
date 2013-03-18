@@ -13,7 +13,7 @@
 ### [L_DELETE](../L_DELETE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_DELETE))
 * [Variable &agrave; la ligne 33](../../subsilver/modcp_body.tpl#L33)
 
-### [L_INDEX](../L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](../L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 4](../../subsilver/modcp_body.tpl#L4)
 
 ### [L_LASTPOST](../L_LASTPOST.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LASTPOST))

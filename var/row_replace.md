@@ -1,4 +1,14 @@
 # Variable row_replace
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN row_replace -->
+    contenu
+<!-- END row_replace -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/row_replace)
 
 ## Utilisations dans les templates

@@ -1,4 +1,13 @@
 # Variable MODE
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{MODE}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/MODE)
 
 ## Utilisations dans les templates

@@ -1,4 +1,14 @@
 # Variable multi_selection
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN multi_selection -->
+    contenu
+<!-- END multi_selection -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/multi_selection)
 
 ## Utilisations dans les templates

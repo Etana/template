@@ -1,4 +1,14 @@
 # Variable switch_profile_fields_register
+
+##Disponibilité
+Cette boucle est utilisable directement
+
+```html
+<!-- BEGIN switch_profile_fields_register -->
+    contenu
+<!-- END switch_profile_fields_register -->```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_profile_fields_register)
 
 ## Utilisations dans les templates

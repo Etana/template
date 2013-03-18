@@ -1,4 +1,13 @@
 # Variable T_BODY_TABLE_WIDTH
+
+##Disponibilité
+Cette variable est utilisable directement
+
+```html
+{T_BODY_TABLE_WIDTH}
+```
+
+##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/T_BODY_TABLE_WIDTH)
 
 ## Utilisations dans les templates
