@@ -1,0 +1,23 @@
+# searchresults.POST_DATE
+
+
+Attribut d'affichage de [searchresults](searchresults.md#readme).
+
+```html
+<!-- BEGIN searchresults -->
+{searchresults.POST_DATE}
+<!-- END searchresults -->
+```
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
+
+## Utilisations dans les templates
+
+### Version PunBB
+
+* __[Template search_results_posts](../tpl/var/punbb/search_results_posts.md#readme) :__[ligne 37](../tpl/src/punbb/search_results_posts.tpl#L37)
+
+### Version phpBB2
+
+* __[Template search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__[ligne 23](../tpl/src/subsilver/search_results_posts.tpl#L23)

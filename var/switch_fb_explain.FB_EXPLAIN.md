@@ -14,6 +14,10 @@ Attribut d'affichage de [switch_fb_explain](switch_fb_explain.md#readme).
 
 ## Utilisations dans les templates
 
+### Version PunBB
+
+* __[Template agreement](../tpl/var/punbb/agreement.md#readme) :__[ligne 23](../tpl/src/punbb/agreement.tpl#L23)
+
 ### Version phpBB2
 
 * __[Template agreement](../tpl/var/subsilver/agreement.md#readme) :__[ligne 16](../tpl/src/subsilver/agreement.tpl#L16)

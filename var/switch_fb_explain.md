@@ -14,9 +14,14 @@ contenu
 
 ## Attributs
 * [{switch_fb_explain.FB_EXPLAIN}](switch_fb_explain.FB_EXPLAIN.md#readme)
+* [{switch_fb_explain.FB_EXPLAIN}](switch_fb_explain.FB_EXPLAIN.md#readme)
 
 
 ## Utilisations dans les templates
+
+### Version PunBB
+
+* __[Template agreement](../tpl/var/punbb/agreement.md#readme) :__[ligne 20](../tpl/src/punbb/agreement.tpl#L20), [ligne 26](../tpl/src/punbb/agreement.tpl#L26)
 
 ### Version phpBB2
 

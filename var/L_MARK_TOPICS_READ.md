@@ -1,0 +1,23 @@
+# L_MARK_TOPICS_READ
+
+
+Cette variable est utilisable directement.
+
+```html
+{L_MARK_TOPICS_READ}
+```
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MARK_TOPICS_READ)
+
+## Utilisations dans les templates
+
+### Version PunBB
+
+* __[Template viewforum_body](../tpl/var/punbb/viewforum_body.md#readme) :__[ligne 17](../tpl/src/punbb/viewforum_body.tpl#L17)
+
+* __[Template topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__[ligne 116](../tpl/src/punbb/topics_list_box.tpl#L116)
+
+### Version phpBB2
+
+* __[Template viewforum_body](../tpl/var/subsilver/viewforum_body.md#readme) :__[ligne 29](../tpl/src/subsilver/viewforum_body.tpl#L29), [ligne 59](../tpl/src/subsilver/viewforum_body.tpl#L59)

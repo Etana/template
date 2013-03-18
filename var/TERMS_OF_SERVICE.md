@@ -1,0 +1,21 @@
+# TERMS_OF_SERVICE
+
+
+Cette variable est utilisable directement.
+
+```html
+{TERMS_OF_SERVICE}
+```
+
+##Description
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TERMS_OF_SERVICE)
+
+## Utilisations dans les templates
+
+### Version PunBB
+
+* __[Template donate](../tpl/var/punbb/donate.md#readme) :__[ligne 35](../tpl/src/punbb/donate.tpl#L35)
+
+### Version phpBB2
+
+* __[Template donate](../tpl/var/subsilver/donate.md#readme) :__[ligne 23](../tpl/src/subsilver/donate.tpl#L23)
