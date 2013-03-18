@@ -14,5 +14,5 @@ Cette variable est utilisable directement.
 
 ### Version phpBB2
 
-#### [Template agreement](subsilver/agreement.md#readme)
-* [Variable &agrave; la ligne 28](../subsilver/agreement.tpl#L28)
+#### [Template agreement](subsilver/agreement.md#readme) : 
+[ligne 28](../tpl/src/subsilver/agreement.tpl#L28)

@@ -20,6 +20,5 @@ contenu
 
 ### Version phpBB2
 
-#### [Template agreement](subsilver/agreement.md#readme)
-* [Début de boucle &agrave; la ligne 10](../subsilver/agreement.tpl#L10)
-* [Fin de boucle &agrave; la ligne 21](../subsilver/agreement.tpl#L21)
+#### [Template agreement](subsilver/agreement.md#readme) : 
+[ligne 10](../tpl/src/subsilver/agreement.tpl#L10), [ligne 21](../tpl/src/subsilver/agreement.tpl#L21)

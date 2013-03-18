@@ -14,6 +14,5 @@ Lien vers l'index de votre forum.
 
 ### Version phpBB2
 
-#### [Template agreement](subsilver/agreement.md#readme)
-* [Variable &agrave; la ligne 3](../subsilver/agreement.tpl#L3)
-* [Variable &agrave; la ligne 34](../subsilver/agreement.tpl#L34)
+#### [Template agreement](subsilver/agreement.md#readme) : 
+[ligne 3](../tpl/src/subsilver/agreement.tpl#L3), [ligne 34](../tpl/src/subsilver/agreement.tpl#L34)

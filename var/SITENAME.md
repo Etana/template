@@ -14,5 +14,5 @@ Contient le titre de votre forum défini dans votre `PA > Général > Forum | Co
 
 ### Version phpBB2
 
-#### [Template agreement](subsilver/agreement.md#readme)
-* [Variable &agrave; la ligne 8](../subsilver/agreement.tpl#L8)
+#### [Template agreement](subsilver/agreement.md#readme) : 
+[ligne 8](../tpl/src/subsilver/agreement.tpl#L8)

@@ -16,5 +16,5 @@ Attribut d'affichage de [switch_fb_explain](switch_fb_explain.md#readme).
 
 ### Version phpBB2
 
-#### [Template agreement](subsilver/agreement.md#readme)
-* [Variable &agrave; la ligne 16](../subsilver/agreement.tpl#L16)
+#### [Template agreement](subsilver/agreement.md#readme) : 
+[ligne 16](../tpl/src/subsilver/agreement.tpl#L16)
