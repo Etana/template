@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/contact_field.CONTENT)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [contact_field](contact_field.md#readme)
+Cette variable est utilisable dans une boucle sur [contact_field](contact_field.md#readme).
 
 ```html
 <!-- BEGIN contact_field -->

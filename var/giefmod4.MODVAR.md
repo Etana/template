@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/giefmod4.MODVAR)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [giefmod4](giefmod4.md#readme)
+Cette variable est utilisable dans une boucle sur [giefmod4](giefmod4.md#readme).
 
 ```html
 <!-- BEGIN giefmod4 -->

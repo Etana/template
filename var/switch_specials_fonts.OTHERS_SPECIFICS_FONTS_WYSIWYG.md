@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_specials_fonts](switch_specials_fonts.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_specials_fonts](switch_specials_fonts.md#readme).
 
 ```html
 <!-- BEGIN switch_specials_fonts -->

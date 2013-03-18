@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.TOPIC_TITLE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [topicrow](topicrow.md#readme)
+Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).
 
 ```html
 <!-- BEGIN topicrow -->

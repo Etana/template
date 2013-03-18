@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/TOPIC.TITLE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [TOPIC](TOPIC.md#readme)
+Cette variable est utilisable dans une boucle sur [TOPIC](TOPIC.md#readme).
 
 ```html
 <!-- BEGIN TOPIC -->

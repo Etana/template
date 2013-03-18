@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.FORMNAME)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [topics_list_box](topics_list_box.md#readme)
+Cette variable est utilisable dans une boucle sur [topics_list_box](topics_list_box.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

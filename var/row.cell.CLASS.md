@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.cell.CLASS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [cell](cell.md#readme)
-* se trouvant dans une boucle sur la variable [row](row.md#readme)
+Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trouvant dans une boucle sur [row](row.md#readme).
 
 ```html
 <!-- BEGIN row -->

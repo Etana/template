@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/POSTER.NB_POSTS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [POSTER](POSTER.md#readme)
+Cette variable est utilisable dans une boucle sur [POSTER](POSTER.md#readme).
 
 ```html
 <!-- BEGIN POSTER -->

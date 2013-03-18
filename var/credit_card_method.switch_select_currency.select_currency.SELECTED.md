@@ -2,10 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.SELECTED)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [select_currency](select_currency.md#readme)
-* se trouvant dans une boucle sur la variable [switch_select_currency](switch_select_currency.md#readme)
-* se trouvant dans une boucle sur la variable [credit_card_method](credit_card_method.md#readme)
+Cette variable est utilisable dans une boucle sur [select_currency](select_currency.md#readme) se trouvant dans une boucle sur [switch_select_currency](switch_select_currency.md#readme) se trouvant dans une boucle sur [credit_card_method](credit_card_method.md#readme).
 
 ```html
 <!-- BEGIN credit_card_method -->

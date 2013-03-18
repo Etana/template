@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/pics_nav.L_PICS_NAV)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [pics_nav](pics_nav.md#readme)
+Cette variable est utilisable dans une boucle sur [pics_nav](pics_nav.md#readme).
 
 ```html
 <!-- BEGIN pics_nav -->

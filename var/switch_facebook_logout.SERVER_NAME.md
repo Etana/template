@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_facebook_logout.SERVER_NAME)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_facebook_logout](switch_facebook_logout.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_facebook_logout](switch_facebook_logout.md#readme).
 
 ```html
 <!-- BEGIN switch_facebook_logout -->

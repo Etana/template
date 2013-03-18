@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.VALUE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [hidden_field](hidden_field.md#readme)
-* se trouvant dans une boucle sur la variable [phonecall_method](phonecall_method.md#readme)
+Cette variable est utilisable dans une boucle sur [hidden_field](hidden_field.md#readme) se trouvant dans une boucle sur [phonecall_method](phonecall_method.md#readme).
 
 ```html
 <!-- BEGIN phonecall_method -->

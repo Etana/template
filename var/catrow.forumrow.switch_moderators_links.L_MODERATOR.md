@@ -2,10 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.L_MODERATOR)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_moderators_links](switch_moderators_links.md#readme)
-* se trouvant dans une boucle sur la variable [forumrow](forumrow.md#readme)
-* se trouvant dans une boucle sur la variable [catrow](catrow.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_moderators_links](switch_moderators_links.md#readme) se trouvant dans une boucle sur [forumrow](forumrow.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

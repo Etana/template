@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_no_user](switch_no_user.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_no_user](switch_no_user.md#readme).
 
 ```html
 <!-- BEGIN switch_no_user -->

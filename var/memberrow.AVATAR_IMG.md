@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.AVATAR_IMG)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [memberrow](memberrow.md#readme)
+Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->

@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block.block_title.L_TITLE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [block_title](block_title.md#readme)
-* se trouvant dans une boucle sur la variable [build_categories_block](build_categories_block.md#readme)
+Cette variable est utilisable dans une boucle sur [block_title](block_title.md#readme) se trouvant dans une boucle sur [build_categories_block](build_categories_block.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->

@@ -4,9 +4,7 @@
 Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralités > Contenu du message`.
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [message_admin_txt](message_admin_txt.md#readme)
-* se trouvant dans une boucle sur la variable [message_admin_index](message_admin_index.md#readme)
+Cette variable est utilisable dans une boucle sur [message_admin_txt](message_admin_txt.md#readme) se trouvant dans une boucle sur [message_admin_index](message_admin_index.md#readme).
 
 ```html
 <!-- BEGIN message_admin_index -->

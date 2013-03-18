@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/cat_private_footer.U_IMG_PERSONAL_GALLERIES)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [cat_private_footer](cat_private_footer.md#readme)
+Cette variable est utilisable dans une boucle sur [cat_private_footer](cat_private_footer.md#readme).
 
 ```html
 <!-- BEGIN cat_private_footer -->

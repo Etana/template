@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/header_cell.L_DAY)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [header_cell](header_cell.md#readme)
+Cette variable est utilisable dans une boucle sur [header_cell](header_cell.md#readme).
 
 ```html
 <!-- BEGIN header_cell -->

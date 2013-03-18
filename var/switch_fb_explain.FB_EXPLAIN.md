@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_fb_explain](switch_fb_explain.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_fb_explain](switch_fb_explain.md#readme).
 
 ```html
 <!-- BEGIN switch_fb_explain -->

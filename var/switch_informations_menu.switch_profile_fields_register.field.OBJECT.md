@@ -2,10 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields_register.field.OBJECT)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [field](field.md#readme)
-* se trouvant dans une boucle sur la variable [switch_profile_fields_register](switch_profile_fields_register.md#readme)
-* se trouvant dans une boucle sur la variable [switch_informations_menu](switch_informations_menu.md#readme)
+Cette variable est utilisable dans une boucle sur [field](field.md#readme) se trouvant dans une boucle sur [switch_profile_fields_register](switch_profile_fields_register.md#readme) se trouvant dans une boucle sur [switch_informations_menu](switch_informations_menu.md#readme).
 
 ```html
 <!-- BEGIN switch_informations_menu -->

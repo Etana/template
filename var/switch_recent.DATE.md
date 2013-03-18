@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_recent.DATE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_recent](switch_recent.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_recent](switch_recent.md#readme).
 
 ```html
 <!-- BEGIN switch_recent -->

@@ -2,10 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.recent_stats.H_STATS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [recent_stats](recent_stats.md#readme)
-* se trouvant dans une boucle sur la variable [list_pics](list_pics.md#readme)
-* se trouvant dans une boucle sur la variable [list_pics_block](list_pics_block.md#readme)
+Cette variable est utilisable dans une boucle sur [recent_stats](recent_stats.md#readme) se trouvant dans une boucle sur [list_pics](list_pics.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

@@ -2,10 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_chatbox_popup](switch_chatbox_popup.md#readme)
-* se trouvant dans une boucle sur la variable [switch_chatbox_activate](switch_chatbox_activate.md#readme)
-* se trouvant dans une boucle sur la variable [disable_viewonline](disable_viewonline.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_chatbox_popup](switch_chatbox_popup.md#readme) se trouvant dans une boucle sur [switch_chatbox_activate](switch_chatbox_activate.md#readme) se trouvant dans une boucle sur [disable_viewonline](disable_viewonline.md#readme).
 
 ```html
 <!-- BEGIN disable_viewonline -->

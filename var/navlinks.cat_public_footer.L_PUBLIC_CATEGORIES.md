@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.L_PUBLIC_CATEGORIES)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [cat_public_footer](cat_public_footer.md#readme)
-* se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
+Cette variable est utilisable dans une boucle sur [cat_public_footer](cat_public_footer.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->

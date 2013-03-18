@@ -2,11 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [table_sticky](table_sticky.md#readme)
-* se trouvant dans une boucle sur la variable [topic](topic.md#readme)
-* se trouvant dans une boucle sur la variable [row](row.md#readme)
-* se trouvant dans une boucle sur la variable [topics_list_box](topics_list_box.md#readme)
+Cette variable est utilisable dans une boucle sur [table_sticky](table_sticky.md#readme) se trouvant dans une boucle sur [topic](topic.md#readme) se trouvant dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [topics_list_box](topics_list_box.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

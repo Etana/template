@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow.PRIVMSG_FOLDER_IMG)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [listrow](listrow.md#readme)
+Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).
 
 ```html
 <!-- BEGIN listrow -->

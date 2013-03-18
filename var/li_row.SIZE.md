@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/li_row.SIZE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [li_row](li_row.md#readme)
+Cette variable est utilisable dans une boucle sur [li_row](li_row.md#readme).
 
 ```html
 <!-- BEGIN li_row -->

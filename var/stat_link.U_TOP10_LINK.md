@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/stat_link.U_TOP10_LINK)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [stat_link](stat_link.md#readme)
+Cette variable est utilisable dans une boucle sur [stat_link](stat_link.md#readme).
 
 ```html
 <!-- BEGIN stat_link -->

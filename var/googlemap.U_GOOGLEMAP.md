@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [googlemap](googlemap.md#readme)
+Cette variable est utilisable dans une boucle sur [googlemap](googlemap.md#readme).
 
 ```html
 <!-- BEGIN googlemap -->

@@ -2,12 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_vote_minus](switch_vote_minus.md#readme)
-* se trouvant dans une boucle sur la variable [switch_bar](switch_bar.md#readme)
-* se trouvant dans une boucle sur la variable [switch_vote_active](switch_vote_active.md#readme)
-* se trouvant dans une boucle sur la variable [displayed](displayed.md#readme)
-* se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_vote_minus](switch_vote_minus.md#readme) se trouvant dans une boucle sur [switch_bar](switch_bar.md#readme) se trouvant dans une boucle sur [switch_vote_active](switch_vote_active.md#readme) se trouvant dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

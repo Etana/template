@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_search_results.search_results.L_TIME)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [search_results](search_results.md#readme)
-* se trouvant dans une boucle sur la variable [switch_search_results](switch_search_results.md#readme)
+Cette variable est utilisable dans une boucle sur [search_results](search_results.md#readme) se trouvant dans une boucle sur [switch_search_results](switch_search_results.md#readme).
 
 ```html
 <!-- BEGIN switch_search_results -->

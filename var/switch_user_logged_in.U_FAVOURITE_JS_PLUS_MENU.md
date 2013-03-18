@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_user_logged_in](switch_user_logged_in.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_user_logged_in](switch_user_logged_in.md#readme).
 
 ```html
 <!-- BEGIN switch_user_logged_in -->

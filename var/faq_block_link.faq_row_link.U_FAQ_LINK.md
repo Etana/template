@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link.U_FAQ_LINK)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [faq_row_link](faq_row_link.md#readme)
-* se trouvant dans une boucle sur la variable [faq_block_link](faq_block_link.md#readme)
+Cette variable est utilisable dans une boucle sur [faq_row_link](faq_row_link.md#readme) se trouvant dans une boucle sur [faq_block_link](faq_block_link.md#readme).
 
 ```html
 <!-- BEGIN faq_block_link -->

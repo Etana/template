@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_IMG_WIDTH)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [poll_option](poll_option.md#readme)
+Cette variable est utilisable dans une boucle sur [poll_option](poll_option.md#readme).
 
 ```html
 <!-- BEGIN poll_option -->

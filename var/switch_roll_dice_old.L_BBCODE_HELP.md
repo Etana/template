@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice_old.L_BBCODE_HELP)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_roll_dice_old](switch_roll_dice_old.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_roll_dice_old](switch_roll_dice_old.md#readme).
 
 ```html
 <!-- BEGIN switch_roll_dice_old -->

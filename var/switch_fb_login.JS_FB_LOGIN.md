@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_login.JS_FB_LOGIN)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_fb_login](switch_fb_login.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_fb_login](switch_fb_login.md#readme).
 
 ```html
 <!-- BEGIN switch_fb_login -->

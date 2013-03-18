@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/reg_user_row.U_USER_PROFILE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [reg_user_row](reg_user_row.md#readme)
+Cette variable est utilisable dans une boucle sur [reg_user_row](reg_user_row.md#readme).
 
 ```html
 <!-- BEGIN reg_user_row -->

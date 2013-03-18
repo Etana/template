@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [searchresults](searchresults.md#readme)
+Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->

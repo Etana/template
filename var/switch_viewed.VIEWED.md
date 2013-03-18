@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_viewed](switch_viewed.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_viewed](switch_viewed.md#readme).
 
 ```html
 <!-- BEGIN switch_viewed -->

@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields.F_VALUE_NEW)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [rpg_fields](rpg_fields.md#readme)
-* se trouvant dans une boucle sur la variable [switch_rpg](switch_rpg.md#readme)
+Cette variable est utilisable dans une boucle sur [rpg_fields](rpg_fields.md#readme) se trouvant dans une boucle sur [switch_rpg](switch_rpg.md#readme).
 
 ```html
 <!-- BEGIN switch_rpg -->

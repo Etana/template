@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [displayed](displayed.md#readme)
-* se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
+Cette variable est utilisable dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

@@ -2,10 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/catrow.catfoot.inc.INC_CLASS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [inc](inc.md#readme)
-* se trouvant dans une boucle sur la variable [catfoot](catfoot.md#readme)
-* se trouvant dans une boucle sur la variable [catrow](catrow.md#readme)
+Cette variable est utilisable dans une boucle sur [inc](inc.md#readme) se trouvant dans une boucle sur [catfoot](catfoot.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

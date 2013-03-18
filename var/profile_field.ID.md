@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/profile_field.ID)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [profile_field](profile_field.md#readme)
+Cette variable est utilisable dans une boucle sur [profile_field](profile_field.md#readme).
 
 ```html
 <!-- BEGIN profile_field -->

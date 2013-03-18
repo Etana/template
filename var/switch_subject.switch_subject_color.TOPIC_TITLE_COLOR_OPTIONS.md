@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_subject_color](switch_subject_color.md#readme)
-* se trouvant dans une boucle sur la variable [switch_subject](switch_subject.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_subject_color](switch_subject_color.md#readme) se trouvant dans une boucle sur [switch_subject](switch_subject.md#readme).
 
 ```html
 <!-- BEGIN switch_subject -->

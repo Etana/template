@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace.DICE_ID)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [row_replace](row_replace.md#readme)
-* se trouvant dans une boucle sur la variable [switch_roll_dice](switch_roll_dice.md#readme)
+Cette variable est utilisable dans une boucle sur [row_replace](row_replace.md#readme) se trouvant dans une boucle sur [switch_roll_dice](switch_roll_dice.md#readme).
 
 ```html
 <!-- BEGIN switch_roll_dice -->

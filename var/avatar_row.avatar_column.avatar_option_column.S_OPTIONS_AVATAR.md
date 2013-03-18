@@ -2,10 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [avatar_option_column](avatar_option_column.md#readme)
-* se trouvant dans une boucle sur la variable [avatar_column](avatar_column.md#readme)
-* se trouvant dans une boucle sur la variable [avatar_row](avatar_row.md#readme)
+Cette variable est utilisable dans une boucle sur [avatar_option_column](avatar_option_column.md#readme) se trouvant dans une boucle sur [avatar_column](avatar_column.md#readme) se trouvant dans une boucle sur [avatar_row](avatar_row.md#readme).
 
 ```html
 <!-- BEGIN avatar_row -->

@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_report_popup.S_WIDTH)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_report_popup](switch_report_popup.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_report_popup](switch_report_popup.md#readme).
 
 ```html
 <!-- BEGIN switch_report_popup -->

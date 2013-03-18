@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/hitskin_preview.L_THEME_SITE_PREVIEW)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [hitskin_preview](hitskin_preview.md#readme)
+Cette variable est utilisable dans une boucle sur [hitskin_preview](hitskin_preview.md#readme).
 
 ```html
 <!-- BEGIN hitskin_preview -->

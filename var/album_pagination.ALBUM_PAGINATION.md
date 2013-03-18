@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [album_pagination](album_pagination.md#readme)
+Cette variable est utilisable dans une boucle sur [album_pagination](album_pagination.md#readme).
 
 ```html
 <!-- BEGIN album_pagination -->

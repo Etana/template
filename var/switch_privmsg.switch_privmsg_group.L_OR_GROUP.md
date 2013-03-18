@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.L_OR_GROUP)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_privmsg_group](switch_privmsg_group.md#readme)
-* se trouvant dans une boucle sur la variable [switch_privmsg](switch_privmsg.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_privmsg_group](switch_privmsg_group.md#readme) se trouvant dans une boucle sur [switch_privmsg](switch_privmsg.md#readme).
 
 ```html
 <!-- BEGIN switch_privmsg -->

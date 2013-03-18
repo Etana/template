@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_pics.L_NO_PICS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [no_pics](no_pics.md#readme)
+Cette variable est utilisable dans une boucle sur [no_pics](no_pics.md#readme).
 
 ```html
 <!-- BEGIN no_pics -->

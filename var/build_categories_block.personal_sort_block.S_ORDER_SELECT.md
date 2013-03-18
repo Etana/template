@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.S_ORDER_SELECT)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [personal_sort_block](personal_sort_block.md#readme)
-* se trouvant dans une boucle sur la variable [build_categories_block](build_categories_block.md#readme)
+Cette variable est utilisable dans une boucle sur [personal_sort_block](personal_sort_block.md#readme) se trouvant dans une boucle sur [build_categories_block](build_categories_block.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->

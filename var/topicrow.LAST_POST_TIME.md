@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/topicrow.LAST_POST_TIME)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [topicrow](topicrow.md#readme)
+Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).
 
 ```html
 <!-- BEGIN topicrow -->

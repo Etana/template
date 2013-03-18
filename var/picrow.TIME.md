@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/picrow.TIME)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [picrow](picrow.md#readme)
+Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).
 
 ```html
 <!-- BEGIN picrow -->

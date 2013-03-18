@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [footer_link](footer_link.md#readme)
-* se trouvant dans une boucle sur la variable [switch_footer_links](switch_footer_links.md#readme)
+Cette variable est utilisable dans une boucle sur [footer_link](footer_link.md#readme) se trouvant dans une boucle sur [switch_footer_links](switch_footer_links.md#readme).
 
 ```html
 <!-- BEGIN switch_footer_links -->

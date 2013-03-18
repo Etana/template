@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/iprow.POSTS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [iprow](iprow.md#readme)
+Cette variable est utilisable dans une boucle sur [iprow](iprow.md#readme).
 
 ```html
 <!-- BEGIN iprow -->

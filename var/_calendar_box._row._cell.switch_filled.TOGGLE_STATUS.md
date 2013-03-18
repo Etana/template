@@ -2,11 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.TOGGLE_STATUS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_filled](switch_filled.md#readme)
-* se trouvant dans une boucle sur la variable [_cell](_cell.md#readme)
-* se trouvant dans une boucle sur la variable [_row](_row.md#readme)
-* se trouvant dans une boucle sur la variable [_calendar_box](_calendar_box.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_filled](switch_filled.md#readme) se trouvant dans une boucle sur [_cell](_cell.md#readme) se trouvant dans une boucle sur [_row](_row.md#readme) se trouvant dans une boucle sur [_calendar_box](_calendar_box.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

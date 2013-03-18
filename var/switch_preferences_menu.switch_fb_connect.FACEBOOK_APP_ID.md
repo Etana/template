@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_fb_connect](switch_fb_connect.md#readme)
-* se trouvant dans une boucle sur la variable [switch_preferences_menu](switch_preferences_menu.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_fb_connect](switch_fb_connect.md#readme) se trouvant dans une boucle sur [switch_preferences_menu](switch_preferences_menu.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->

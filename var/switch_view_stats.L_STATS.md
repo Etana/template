@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_view_stats.L_STATS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_view_stats](switch_view_stats.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_view_stats](switch_view_stats.md#readme).
 
 ```html
 <!-- BEGIN switch_view_stats -->

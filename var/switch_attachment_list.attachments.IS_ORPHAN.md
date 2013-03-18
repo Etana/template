@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.IS_ORPHAN)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [attachments](attachments.md#readme)
-* se trouvant dans une boucle sur la variable [switch_attachment_list](switch_attachment_list.md#readme)
+Cette variable est utilisable dans une boucle sur [attachments](attachments.md#readme) se trouvant dans une boucle sur [switch_attachment_list](switch_attachment_list.md#readme).
 
 ```html
 <!-- BEGIN switch_attachment_list -->

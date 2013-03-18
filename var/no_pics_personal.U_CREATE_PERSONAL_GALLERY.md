@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_pics_personal.U_CREATE_PERSONAL_GALLERY)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [no_pics_personal](no_pics_personal.md#readme)
+Cette variable est utilisable dans une boucle sur [no_pics_personal](no_pics_personal.md#readme).
 
 ```html
 <!-- BEGIN no_pics_personal -->

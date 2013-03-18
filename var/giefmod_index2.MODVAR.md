@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [giefmod_index2](giefmod_index2.md#readme)
+Cette variable est utilisable dans une boucle sur [giefmod_index2](giefmod_index2.md#readme).
 
 ```html
 <!-- BEGIN giefmod_index2 -->

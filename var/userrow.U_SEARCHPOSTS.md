@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/userrow.U_SEARCHPOSTS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [userrow](userrow.md#readme)
+Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).
 
 ```html
 <!-- BEGIN userrow -->

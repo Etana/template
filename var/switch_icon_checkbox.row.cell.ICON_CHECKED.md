@@ -2,10 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_CHECKED)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [cell](cell.md#readme)
-* se trouvant dans une boucle sur la variable [row](row.md#readme)
-* se trouvant dans une boucle sur la variable [switch_icon_checkbox](switch_icon_checkbox.md#readme)
+Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trouvant dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [switch_icon_checkbox](switch_icon_checkbox.md#readme).
 
 ```html
 <!-- BEGIN switch_icon_checkbox -->

@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/row.STATUS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [row](row.md#readme)
+Cette variable est utilisable dans une boucle sur [row](row.md#readme).
 
 ```html
 <!-- BEGIN row -->

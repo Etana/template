@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_delete_cookies.U_DELETE_COOKIES)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_delete_cookies](switch_delete_cookies.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_delete_cookies](switch_delete_cookies.md#readme).
 
 ```html
 <!-- BEGIN switch_delete_cookies -->

@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/pic_pagination.PAGINATION)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [pic_pagination](pic_pagination.md#readme)
+Cette variable est utilisable dans une boucle sur [pic_pagination](pic_pagination.md#readme).
 
 ```html
 <!-- BEGIN pic_pagination -->

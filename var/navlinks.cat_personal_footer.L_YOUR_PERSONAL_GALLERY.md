@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [cat_personal_footer](cat_personal_footer.md#readme)
-* se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
+Cette variable est utilisable dans une boucle sur [cat_personal_footer](cat_personal_footer.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->

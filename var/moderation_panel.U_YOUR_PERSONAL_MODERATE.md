@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/moderation_panel.U_YOUR_PERSONAL_MODERATE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [moderation_panel](moderation_panel.md#readme)
+Cette variable est utilisable dans une boucle sur [moderation_panel](moderation_panel.md#readme).
 
 ```html
 <!-- BEGIN moderation_panel -->

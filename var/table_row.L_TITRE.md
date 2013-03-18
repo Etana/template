@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/table_row.L_TITRE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [table_row](table_row.md#readme)
+Cette variable est utilisable dans une boucle sur [table_row](table_row.md#readme).
 
 ```html
 <!-- BEGIN table_row -->

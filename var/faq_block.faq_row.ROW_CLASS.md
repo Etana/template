@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/faq_block.faq_row.ROW_CLASS)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [faq_row](faq_row.md#readme)
-* se trouvant dans une boucle sur la variable [faq_block](faq_block.md#readme)
+Cette variable est utilisable dans une boucle sur [faq_row](faq_row.md#readme) se trouvant dans une boucle sur [faq_block](faq_block.md#readme).
 
 ```html
 <!-- BEGIN faq_block -->

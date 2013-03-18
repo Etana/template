@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row.TITLE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [post_row](post_row.md#readme)
+Cette variable est utilisable dans une boucle sur [post_row](post_row.md#readme).
 
 ```html
 <!-- BEGIN post_row -->

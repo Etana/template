@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [pay_method](pay_method.md#readme)
-* se trouvant dans une boucle sur la variable [main_page](main_page.md#readme)
+Cette variable est utilisable dans une boucle sur [pay_method](pay_method.md#readme) se trouvant dans une boucle sur [main_page](main_page.md#readme).
 
 ```html
 <!-- BEGIN main_page -->

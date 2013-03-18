@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/bot_user_row.LASTUPDATE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [bot_user_row](bot_user_row.md#readme)
+Cette variable est utilisable dans une boucle sur [bot_user_row](bot_user_row.md#readme).
 
 ```html
 <!-- BEGIN bot_user_row -->

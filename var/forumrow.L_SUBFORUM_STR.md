@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/forumrow.L_SUBFORUM_STR)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [forumrow](forumrow.md#readme)
+Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme).
 
 ```html
 <!-- BEGIN forumrow -->

@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_rank.L_TITLE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_rank](switch_rank.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_rank](switch_rank.md#readme).
 
 ```html
 <!-- BEGIN switch_rank -->

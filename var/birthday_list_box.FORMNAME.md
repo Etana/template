@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/birthday_list_box.FORMNAME)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [birthday_list_box](birthday_list_box.md#readme)
+Cette variable est utilisable dans une boucle sur [birthday_list_box](birthday_list_box.md#readme).
 
 ```html
 <!-- BEGIN birthday_list_box -->

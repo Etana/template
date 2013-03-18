@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/IMGS.IMG)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [IMGS](IMGS.md#readme)
+Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).
 
 ```html
 <!-- BEGIN IMGS -->

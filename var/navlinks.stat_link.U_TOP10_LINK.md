@@ -2,9 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/navlinks.stat_link.U_TOP10_LINK)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [stat_link](stat_link.md#readme)
-* se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
+Cette variable est utilisable dans une boucle sur [stat_link](stat_link.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->

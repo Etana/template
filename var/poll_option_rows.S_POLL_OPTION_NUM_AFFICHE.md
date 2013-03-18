@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option_rows.S_POLL_OPTION_NUM_AFFICHE)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [poll_option_rows](poll_option_rows.md#readme)
+Cette variable est utilisable dans une boucle sur [poll_option_rows](poll_option_rows.md#readme).
 
 ```html
 <!-- BEGIN poll_option_rows -->

@@ -2,8 +2,7 @@
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)
 
 ##Disponibilité
-Cette variable est utilisable dans une boucle sur la variable :
-* [switch_h1](switch_h1.md#readme)
+Cette variable est utilisable dans une boucle sur [switch_h1](switch_h1.md#readme).
 
 ```html
 <!-- BEGIN switch_h1 -->
