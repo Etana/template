@@ -1,7 +1,4 @@
 # Variable de bouclage
-```
-switch_fb_explain
-```
 
 
 Cette variable est utilisable directement dans une boucle.

@@ -1,7 +1,4 @@
 # Variable d'affichage
-```
-DO_NOT_AGREE
-```
 
 
 Cette variable est utilisable directement.

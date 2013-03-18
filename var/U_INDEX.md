@@ -1,7 +1,4 @@
 # Variable d'affichage
-```
-U_INDEX
-```
 
 
 Cette variable est utilisable directement.

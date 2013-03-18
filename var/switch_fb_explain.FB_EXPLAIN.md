@@ -1,7 +1,4 @@
 # Attribut d'affichage
-```
-switch_fb_explain.FB_EXPLAIN
-```
 
 
 Cette variable est un attribut de [switch_fb_explain](switch_fb_explain.md#readme).

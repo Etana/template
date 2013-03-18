@@ -1,7 +1,4 @@
 # Variable d'affichage
-```
-SITENAME
-```
 
 
 Cette variable est utilisable directement.

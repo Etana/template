@@ -1,7 +1,4 @@
 # Variable d'affichage
-```
-AGREE_OVER_13
-```
 
 
 Cette variable est utilisable directement.

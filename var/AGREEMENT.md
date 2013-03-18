@@ -1,7 +1,4 @@
 # Variable d'affichage
-```
-AGREEMENT
-```
 
 
 Cette variable est utilisable directement.

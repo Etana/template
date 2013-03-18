@@ -1,7 +1,4 @@
 # Variable d'affichage
-```
-REGISTRATION
-```
 
 
 Cette variable est utilisable directement.
