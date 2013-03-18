@@ -1,4 +1,4 @@
-# Variable d'affichage
+# MY_RULES
 
 
 Cette variable est utilisable directement.

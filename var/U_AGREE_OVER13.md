@@ -1,4 +1,4 @@
-# Variable d'affichage
+# U_AGREE_OVER13
 
 
 Cette variable est utilisable directement.
