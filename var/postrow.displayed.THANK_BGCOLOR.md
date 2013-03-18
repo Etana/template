@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template viewtopic_body](punbb/viewtopic_body.md)
+#### [Template viewtopic_body](punbb/viewtopic_body.md#readme)
 * [Variable &agrave; la ligne 129](../punbb/viewtopic_body.tpl#L129)
 * [Variable &agrave; la ligne 131](../punbb/viewtopic_body.tpl#L131)
 * [Variable &agrave; la ligne 132](../punbb/viewtopic_body.tpl#L132)
@@ -13,7 +13,7 @@
 
 ### Version phpBB2
 
-#### [Template viewtopic_body](subsilver/viewtopic_body.md)
+#### [Template viewtopic_body](subsilver/viewtopic_body.md#readme)
 * [Variable &agrave; la ligne 123](../subsilver/viewtopic_body.tpl#L123)
 * [Variable &agrave; la ligne 135](../subsilver/viewtopic_body.tpl#L135)
 * [Variable &agrave; la ligne 234](../subsilver/viewtopic_body.tpl#L234)

@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template faq_dhtml](punbb/faq_dhtml.md)
+#### [Template faq_dhtml](punbb/faq_dhtml.md#readme)
 * [Variable &agrave; la ligne 20](../punbb/faq_dhtml.tpl#L20)
 
 ### Version phpBB2
 
-#### [Template faq_dhtml](subsilver/faq_dhtml.md)
+#### [Template faq_dhtml](subsilver/faq_dhtml.md#readme)
 * [Variable &agrave; la ligne 1](../subsilver/faq_dhtml.tpl#L1)

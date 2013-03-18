@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template mod_poll](punbb/mod_poll.md)
+#### [Template mod_poll](punbb/mod_poll.md#readme)
 * [Variable &agrave; la ligne 4](../punbb/mod_poll.tpl#L4)
 
 ### Version phpBB2
 
-#### [Template mod_poll](subsilver/mod_poll.md)
+#### [Template mod_poll](subsilver/mod_poll.md#readme)
 * [Variable &agrave; la ligne 5](../subsilver/mod_poll.tpl#L5)

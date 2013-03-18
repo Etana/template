@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template merge_body](subsilver/merge_body.md)
+#### [Template merge_body](subsilver/merge_body.md#readme)
 * [Variable &agrave; la ligne 12](../subsilver/merge_body.tpl#L12)

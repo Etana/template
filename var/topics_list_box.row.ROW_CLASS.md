@@ -5,7 +5,7 @@
 
 ### Version phpBB2
 
-#### [Template topics_list_box](subsilver/topics_list_box.md)
+#### [Template topics_list_box](subsilver/topics_list_box.md#readme)
 * [Variable &agrave; la ligne 48](../subsilver/topics_list_box.tpl#L48)
 * [Variable &agrave; la ligne 52](../subsilver/topics_list_box.tpl#L52)
 * [Variable &agrave; la ligne 54](../subsilver/topics_list_box.tpl#L54)

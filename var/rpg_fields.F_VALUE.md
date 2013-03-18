@@ -5,8 +5,8 @@
 
 ### Version phpBB2
 
-#### [Template rpg_sheet](subsilver/rpg_sheet.md)
+#### [Template rpg_sheet](subsilver/rpg_sheet.md#readme)
 * [Variable &agrave; la ligne 32](../subsilver/rpg_sheet.tpl#L32)
 
-#### [Template rpg_sheet_edit](subsilver/rpg_sheet_edit.md)
+#### [Template rpg_sheet_edit](subsilver/rpg_sheet_edit.md#readme)
 * [Variable &agrave; la ligne 51](../subsilver/rpg_sheet_edit.tpl#L51)

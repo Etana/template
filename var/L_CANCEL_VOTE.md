@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template viewtopic_poll_result](punbb/viewtopic_poll_result.md)
+#### [Template viewtopic_poll_result](punbb/viewtopic_poll_result.md#readme)
 * [Variable &agrave; la ligne 29](../punbb/viewtopic_poll_result.tpl#L29)
 
 ### Version phpBB2
 
-#### [Template viewtopic_poll_result](subsilver/viewtopic_poll_result.md)
+#### [Template viewtopic_poll_result](subsilver/viewtopic_poll_result.md#readme)
 * [Variable &agrave; la ligne 40](../subsilver/viewtopic_poll_result.tpl#L40)

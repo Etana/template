@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template overall_footer_end](punbb/overall_footer_end.md)
+#### [Template overall_footer_end](punbb/overall_footer_end.md#readme)
 * [Début de boucle &agrave; la ligne 20](../punbb/overall_footer_end.tpl#L20)
 * [Fin de boucle &agrave; la ligne 20](../punbb/overall_footer_end.tpl#L20)
 
 ### Version phpBB2
 
-#### [Template overall_footer_end](subsilver/overall_footer_end.md)
+#### [Template overall_footer_end](subsilver/overall_footer_end.md#readme)
 * [Début de boucle &agrave; la ligne 18](../subsilver/overall_footer_end.tpl#L18)
 * [Fin de boucle &agrave; la ligne 18](../subsilver/overall_footer_end.tpl#L18)

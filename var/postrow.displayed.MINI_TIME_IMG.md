@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template viewtopic_body](subsilver/viewtopic_body.md)
+#### [Template viewtopic_body](subsilver/viewtopic_body.md#readme)
 * [Variable &agrave; la ligne 138](../subsilver/viewtopic_body.tpl#L138)

@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template donate](subsilver/donate.md)
+#### [Template donate](subsilver/donate.md#readme)
 * [Variable &agrave; la ligne 39](../subsilver/donate.tpl#L39)

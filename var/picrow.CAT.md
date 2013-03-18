@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template album_moderate_body](punbb/album_moderate_body.md)
+#### [Template album_moderate_body](punbb/album_moderate_body.md#readme)
 * [Variable &agrave; la ligne 101](../punbb/album_moderate_body.tpl#L101)
 
 ### Version phpBB2
 
-#### [Template album_moderate_body](subsilver/album_moderate_body.md)
+#### [Template album_moderate_body](subsilver/album_moderate_body.md#readme)
 * [Variable &agrave; la ligne 90](../subsilver/album_moderate_body.tpl#L90)

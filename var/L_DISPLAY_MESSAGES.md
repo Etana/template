@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template privmsgs_body](punbb/privmsgs_body.md)
+#### [Template privmsgs_body](punbb/privmsgs_body.md#readme)
 * [Variable &agrave; la ligne 39](../punbb/privmsgs_body.tpl#L39)
 
 ### Version phpBB2
 
-#### [Template privmsgs_body](subsilver/privmsgs_body.md)
+#### [Template privmsgs_body](subsilver/privmsgs_body.md#readme)
 * [Variable &agrave; la ligne 48](../subsilver/privmsgs_body.tpl#L48)

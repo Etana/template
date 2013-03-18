@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template search_results_topics](subsilver/search_results_topics.md)
+#### [Template search_results_topics](subsilver/search_results_topics.md#readme)
 * [Variable &agrave; la ligne 42](../subsilver/search_results_topics.tpl#L42)

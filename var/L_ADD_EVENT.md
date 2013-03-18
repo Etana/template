@@ -5,14 +5,14 @@
 
 ### Version PunBB
 
-#### [Template calendar_box](punbb/calendar_box.md)
+#### [Template calendar_box](punbb/calendar_box.md#readme)
 * [Variable &agrave; la ligne 52](../punbb/calendar_box.tpl#L52)
 * [Variable &agrave; la ligne 52](../punbb/calendar_box.tpl#L52)
 * [Variable &agrave; la ligne 67](../punbb/calendar_box.tpl#L67)
 
 ### Version phpBB2
 
-#### [Template calendar_box](subsilver/calendar_box.md)
+#### [Template calendar_box](subsilver/calendar_box.md#readme)
 * [Variable &agrave; la ligne 44](../subsilver/calendar_box.tpl#L44)
 * [Variable &agrave; la ligne 44](../subsilver/calendar_box.tpl#L44)
 * [Variable &agrave; la ligne 94](../subsilver/calendar_box.tpl#L94)

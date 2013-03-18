@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template modcp_body](subsilver/modcp_body.md)
+#### [Template modcp_body](subsilver/modcp_body.md#readme)
 * [Variable &agrave; la ligne 12](../subsilver/modcp_body.tpl#L12)

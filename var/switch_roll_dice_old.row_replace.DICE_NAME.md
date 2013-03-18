@@ -5,14 +5,14 @@
 
 ### Version PunBB
 
-#### [Template posting_body](punbb/posting_body.md)
+#### [Template posting_body](punbb/posting_body.md#readme)
 * [Variable &agrave; la ligne 244](../punbb/posting_body.tpl#L244)
 * [Variable &agrave; la ligne 244](../punbb/posting_body.tpl#L244)
 * [Variable &agrave; la ligne 324](../punbb/posting_body.tpl#L324)
 
 ### Version phpBB2
 
-#### [Template posting_body](subsilver/posting_body.md)
+#### [Template posting_body](subsilver/posting_body.md#readme)
 * [Variable &agrave; la ligne 298](../subsilver/posting_body.tpl#L298)
 * [Variable &agrave; la ligne 298](../subsilver/posting_body.tpl#L298)
 * [Variable &agrave; la ligne 375](../subsilver/posting_body.tpl#L375)

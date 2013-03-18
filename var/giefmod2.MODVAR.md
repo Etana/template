@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template portal_body](punbb/portal_body.md)
+#### [Template portal_body](punbb/portal_body.md#readme)
 * [Variable &agrave; la ligne 27](../punbb/portal_body.tpl#L27)
 
 ### Version phpBB2
 
-#### [Template portal_body](subsilver/portal_body.md)
+#### [Template portal_body](subsilver/portal_body.md#readme)
 * [Variable &agrave; la ligne 21](../subsilver/portal_body.tpl#L21)

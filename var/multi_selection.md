@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template topics_list_box](punbb/topics_list_box.md)
+#### [Template topics_list_box](punbb/topics_list_box.md#readme)
 * [Début de boucle &agrave; la ligne 4](../punbb/topics_list_box.tpl#L4)
 * [Fin de boucle &agrave; la ligne 23](../punbb/topics_list_box.tpl#L23)
 * [Début de boucle &agrave; la ligne 26](../punbb/topics_list_box.tpl#L26)
@@ -19,11 +19,11 @@
 
 ### Version phpBB2
 
-#### [Template birthday_list_box](subsilver/birthday_list_box.md)
+#### [Template birthday_list_box](subsilver/birthday_list_box.md#readme)
 * [Début de boucle &agrave; la ligne 1](../subsilver/birthday_list_box.tpl#L1)
 * [Fin de boucle &agrave; la ligne 20](../subsilver/birthday_list_box.tpl#L20)
 
-#### [Template topics_list_box](subsilver/topics_list_box.md)
+#### [Template topics_list_box](subsilver/topics_list_box.md#readme)
 * [Début de boucle &agrave; la ligne 1](../subsilver/topics_list_box.tpl#L1)
 * [Fin de boucle &agrave; la ligne 20](../subsilver/topics_list_box.tpl#L20)
 * [Début de boucle &agrave; la ligne 29](../subsilver/topics_list_box.tpl#L29)

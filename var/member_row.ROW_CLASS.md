@@ -5,7 +5,7 @@
 
 ### Version phpBB2
 
-#### [Template groupcp_info_body](subsilver/groupcp_info_body.md)
+#### [Template groupcp_info_body](subsilver/groupcp_info_body.md#readme)
 * [Variable &agrave; la ligne 66](../subsilver/groupcp_info_body.tpl#L66)
 * [Variable &agrave; la ligne 67](../subsilver/groupcp_info_body.tpl#L67)
 * [Variable &agrave; la ligne 68](../subsilver/groupcp_info_body.tpl#L68)

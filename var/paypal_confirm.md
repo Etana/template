@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template donate](punbb/donate.md)
+#### [Template donate](punbb/donate.md#readme)
 * [Début de boucle &agrave; la ligne 177](../punbb/donate.tpl#L177)
 * [Fin de boucle &agrave; la ligne 200](../punbb/donate.tpl#L200)
 
 ### Version phpBB2
 
-#### [Template donate](subsilver/donate.md)
+#### [Template donate](subsilver/donate.md#readme)
 * [Début de boucle &agrave; la ligne 203](../subsilver/donate.tpl#L203)
 * [Fin de boucle &agrave; la ligne 239](../subsilver/donate.tpl#L239)

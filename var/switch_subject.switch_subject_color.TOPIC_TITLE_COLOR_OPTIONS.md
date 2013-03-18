@@ -5,16 +5,16 @@
 
 ### Version PunBB
 
-#### [Template posting_body](punbb/posting_body.md)
+#### [Template posting_body](punbb/posting_body.md#readme)
 * [Variable &agrave; la ligne 140](../punbb/posting_body.tpl#L140)
 
-#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 292](../punbb/posting_body_wysiwyg.tpl#L292)
 
 ### Version phpBB2
 
-#### [Template posting_body](subsilver/posting_body.md)
+#### [Template posting_body](subsilver/posting_body.md#readme)
 * [Variable &agrave; la ligne 147](../subsilver/posting_body.tpl#L147)
 
-#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 320](../subsilver/posting_body_wysiwyg.tpl#L320)

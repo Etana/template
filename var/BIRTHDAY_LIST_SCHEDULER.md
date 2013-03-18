@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template calendar_scheduler_body](punbb/calendar_scheduler_body.md)
+#### [Template calendar_scheduler_body](punbb/calendar_scheduler_body.md#readme)
 * [Variable &agrave; la ligne 57](../punbb/calendar_scheduler_body.tpl#L57)
 
 ### Version phpBB2
 
-#### [Template calendar_scheduler_body](subsilver/calendar_scheduler_body.md)
+#### [Template calendar_scheduler_body](subsilver/calendar_scheduler_body.md#readme)
 * [Variable &agrave; la ligne 55](../subsilver/calendar_scheduler_body.tpl#L55)

@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template posting_smilies](punbb/posting_smilies.md)
+#### [Template posting_smilies](punbb/posting_smilies.md#readme)
 * [Variable &agrave; la ligne 19](../punbb/posting_smilies.tpl#L19)
 
 ### Version phpBB2
 
-#### [Template posting_smilies](subsilver/posting_smilies.md)
+#### [Template posting_smilies](subsilver/posting_smilies.md#readme)
 * [Variable &agrave; la ligne 21](../subsilver/posting_smilies.tpl#L21)

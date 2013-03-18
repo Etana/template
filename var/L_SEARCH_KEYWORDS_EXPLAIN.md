@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template album_formsearch_body](subsilver/album_formsearch_body.md)
+#### [Template album_formsearch_body](subsilver/album_formsearch_body.md#readme)
 * [Variable &agrave; la ligne 8](../subsilver/album_formsearch_body.tpl#L8)

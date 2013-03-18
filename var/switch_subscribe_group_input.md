@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template groupcp_info_body](punbb/groupcp_info_body.md)
+#### [Template groupcp_info_body](punbb/groupcp_info_body.md#readme)
 * [Début de boucle &agrave; la ligne 45](../punbb/groupcp_info_body.tpl#L45)
 * [Fin de boucle &agrave; la ligne 47](../punbb/groupcp_info_body.tpl#L47)
 
 ### Version phpBB2
 
-#### [Template groupcp_info_body](subsilver/groupcp_info_body.md)
+#### [Template groupcp_info_body](subsilver/groupcp_info_body.md#readme)
 * [Début de boucle &agrave; la ligne 18](../subsilver/groupcp_info_body.tpl#L18)
 * [Fin de boucle &agrave; la ligne 20](../subsilver/groupcp_info_body.tpl#L20)

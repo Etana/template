@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template donate](punbb/donate.md)
+#### [Template donate](punbb/donate.md#readme)
 * [Variable &agrave; la ligne 117](../punbb/donate.tpl#L117)
 
 ### Version phpBB2
 
-#### [Template donate](subsilver/donate.md)
+#### [Template donate](subsilver/donate.md#readme)
 * [Variable &agrave; la ligne 146](../subsilver/donate.tpl#L146)

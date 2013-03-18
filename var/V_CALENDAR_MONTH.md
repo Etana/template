@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template posting_confirm_code](punbb/posting_confirm_code.md)
+#### [Template posting_confirm_code](punbb/posting_confirm_code.md#readme)
 * [Variable &agrave; la ligne 25](../punbb/posting_confirm_code.tpl#L25)
 
 ### Version phpBB2
 
-#### [Template posting_confirm_code](subsilver/posting_confirm_code.md)
+#### [Template posting_confirm_code](subsilver/posting_confirm_code.md#readme)
 * [Variable &agrave; la ligne 23](../subsilver/posting_confirm_code.tpl#L23)

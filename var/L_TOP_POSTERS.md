@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template mod_top_posters](punbb/mod_top_posters.md)
+#### [Template mod_top_posters](punbb/mod_top_posters.md#readme)
 * [Variable &agrave; la ligne 2](../punbb/mod_top_posters.tpl#L2)
 * [Variable &agrave; la ligne 4](../punbb/mod_top_posters.tpl#L4)
 
 ### Version phpBB2
 
-#### [Template mod_top_posters](subsilver/mod_top_posters.md)
+#### [Template mod_top_posters](subsilver/mod_top_posters.md#readme)
 * [Variable &agrave; la ligne 3](../subsilver/mod_top_posters.tpl#L3)
 * [Variable &agrave; la ligne 7](../subsilver/mod_top_posters.tpl#L7)

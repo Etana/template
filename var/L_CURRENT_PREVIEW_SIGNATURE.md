@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template profile_edit_signature](punbb/profile_edit_signature.md)
+#### [Template profile_edit_signature](punbb/profile_edit_signature.md#readme)
 * [Variable &agrave; la ligne 27](../punbb/profile_edit_signature.tpl#L27)
 
 ### Version phpBB2
 
-#### [Template profile_edit_signature](subsilver/profile_edit_signature.md)
+#### [Template profile_edit_signature](subsilver/profile_edit_signature.md#readme)
 * [Variable &agrave; la ligne 23](../subsilver/profile_edit_signature.tpl#L23)

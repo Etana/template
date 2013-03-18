@@ -5,7 +5,7 @@
 
 ### Version phpBB2
 
-#### [Template calendar_box](subsilver/calendar_box.md)
+#### [Template calendar_box](subsilver/calendar_box.md#readme)
 * [Début de boucle &agrave; la ligne 58](../subsilver/calendar_box.tpl#L58)
 * [Fin de boucle &agrave; la ligne 60](../subsilver/calendar_box.tpl#L60)
 * [Début de boucle &agrave; la ligne 69](../subsilver/calendar_box.tpl#L69)

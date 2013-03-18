@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template overall_header](punbb/overall_header.md)
+#### [Template overall_header](punbb/overall_header.md#readme)
 * [Début de boucle &agrave; la ligne 136](../punbb/overall_header.tpl#L136)
 * [Fin de boucle &agrave; la ligne 138](../punbb/overall_header.tpl#L138)
 * [Début de boucle &agrave; la ligne 140](../punbb/overall_header.tpl#L140)
@@ -15,7 +15,7 @@
 
 ### Version phpBB2
 
-#### [Template overall_header](subsilver/overall_header.md)
+#### [Template overall_header](subsilver/overall_header.md#readme)
 * [Début de boucle &agrave; la ligne 142](../subsilver/overall_header.tpl#L142)
 * [Fin de boucle &agrave; la ligne 144](../subsilver/overall_header.tpl#L144)
 * [Début de boucle &agrave; la ligne 146](../subsilver/overall_header.tpl#L146)

@@ -5,8 +5,8 @@
 
 ### Version PunBB
 
-#### [Template posting_body](punbb/posting_body.md)
+#### [Template posting_body](punbb/posting_body.md#readme)
 * [Variable &agrave; la ligne 454](../punbb/posting_body.tpl#L454)
 
-#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 465](../punbb/posting_body_wysiwyg.tpl#L465)

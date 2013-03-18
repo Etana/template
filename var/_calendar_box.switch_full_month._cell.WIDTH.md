@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template calendar_box](subsilver/calendar_box.md)
+#### [Template calendar_box](subsilver/calendar_box.md#readme)
 * [Variable &agrave; la ligne 28](../subsilver/calendar_box.tpl#L28)

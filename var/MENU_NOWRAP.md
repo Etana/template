@@ -7,5 +7,5 @@ Force l'affichage de la barre de navigation sur une ligne si l'option du `PA > A
 
 ### Version phpBB2
 
-#### [Template overall_header](subsilver/overall_header.md)
+#### [Template overall_header](subsilver/overall_header.md#readme)
 * [Variable &agrave; la ligne 267](../subsilver/overall_header.tpl#L267)

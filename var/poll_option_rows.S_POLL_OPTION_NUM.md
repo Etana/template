@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template posting_poll_body](punbb/posting_poll_body.md)
+#### [Template posting_poll_body](punbb/posting_poll_body.md#readme)
 * [Variable &agrave; la ligne 28](../punbb/posting_poll_body.tpl#L28)
 * [Variable &agrave; la ligne 29](../punbb/posting_poll_body.tpl#L29)
 
 ### Version phpBB2
 
-#### [Template posting_poll_body](subsilver/posting_poll_body.md)
+#### [Template posting_poll_body](subsilver/posting_poll_body.md#readme)
 * [Variable &agrave; la ligne 32](../subsilver/posting_poll_body.tpl#L32)
 * [Variable &agrave; la ligne 32](../subsilver/posting_poll_body.tpl#L32)

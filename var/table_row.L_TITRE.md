@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template standard](punbb/standard.md)
+#### [Template standard](punbb/standard.md#readme)
 * [Variable &agrave; la ligne 3](../punbb/standard.tpl#L3)
 
 ### Version phpBB2
 
-#### [Template standard](subsilver/standard.md)
+#### [Template standard](subsilver/standard.md#readme)
 * [Variable &agrave; la ligne 5](../subsilver/standard.tpl#L5)

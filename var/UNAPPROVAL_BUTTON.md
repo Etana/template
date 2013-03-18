@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template album_modcp_body](subsilver/album_modcp_body.md)
+#### [Template album_modcp_body](subsilver/album_modcp_body.md#readme)
 * [Variable &agrave; la ligne 57](../subsilver/album_modcp_body.tpl#L57)

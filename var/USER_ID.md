@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template profile_view_body](punbb/profile_view_body.md)
+#### [Template profile_view_body](punbb/profile_view_body.md#readme)
 * [Variable &agrave; la ligne 69](../punbb/profile_view_body.tpl#L69)

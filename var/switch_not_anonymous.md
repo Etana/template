@@ -5,13 +5,13 @@
 
 ### Version PunBB
 
-#### [Template calendar_box](punbb/calendar_box.md)
+#### [Template calendar_box](punbb/calendar_box.md#readme)
 * [Début de boucle &agrave; la ligne 3](../punbb/calendar_box.tpl#L3)
 * [Fin de boucle &agrave; la ligne 6](../punbb/calendar_box.tpl#L6)
 
 ### Version phpBB2
 
-#### [Template calendar_box](subsilver/calendar_box.md)
+#### [Template calendar_box](subsilver/calendar_box.md#readme)
 * [Début de boucle &agrave; la ligne 10](../subsilver/calendar_box.tpl#L10)
 * [Fin de boucle &agrave; la ligne 12](../subsilver/calendar_box.tpl#L12)
 * [Début de boucle &agrave; la ligne 16](../subsilver/calendar_box.tpl#L16)

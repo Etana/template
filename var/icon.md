@@ -5,6 +5,6 @@
 
 ### Version phpBB2
 
-#### [Template topics_list_box](subsilver/topics_list_box.md)
+#### [Template topics_list_box](subsilver/topics_list_box.md#readme)
 * [Début de boucle &agrave; la ligne 51](../subsilver/topics_list_box.tpl#L51)
 * [Fin de boucle &agrave; la ligne 53](../subsilver/topics_list_box.tpl#L53)

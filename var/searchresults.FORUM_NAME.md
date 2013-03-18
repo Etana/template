@@ -5,16 +5,16 @@
 
 ### Version PunBB
 
-#### [Template search_results_topics](punbb/search_results_topics.md)
+#### [Template search_results_topics](punbb/search_results_topics.md#readme)
 * [Variable &agrave; la ligne 59](../punbb/search_results_topics.tpl#L59)
 
-#### [Template search_results_posts](punbb/search_results_posts.md)
+#### [Template search_results_posts](punbb/search_results_posts.md#readme)
 * [Variable &agrave; la ligne 59](../punbb/search_results_posts.tpl#L59)
 
 ### Version phpBB2
 
-#### [Template search_results_topics](subsilver/search_results_topics.md)
+#### [Template search_results_topics](subsilver/search_results_topics.md#readme)
 * [Variable &agrave; la ligne 36](../subsilver/search_results_topics.tpl#L36)
 
-#### [Template search_results_posts](subsilver/search_results_posts.md)
+#### [Template search_results_posts](subsilver/search_results_posts.md#readme)
 * [Variable &agrave; la ligne 23](../subsilver/search_results_posts.tpl#L23)

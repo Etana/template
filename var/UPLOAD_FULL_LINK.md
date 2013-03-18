@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template album_cat_body](punbb/album_cat_body.md)
+#### [Template album_cat_body](punbb/album_cat_body.md#readme)
 * [Variable &agrave; la ligne 24](../punbb/album_cat_body.tpl#L24)
 
 ### Version phpBB2
 
-#### [Template album_cat_body](subsilver/album_cat_body.md)
+#### [Template album_cat_body](subsilver/album_cat_body.md#readme)
 * [Variable &agrave; la ligne 8](../subsilver/album_cat_body.tpl#L8)

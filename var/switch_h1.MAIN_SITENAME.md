@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template overall_header](punbb/overall_header.md)
+#### [Template overall_header](punbb/overall_header.md#readme)
 * [Variable &agrave; la ligne 238](../punbb/overall_header.tpl#L238)

@@ -5,6 +5,6 @@
 
 ### Version PunBB
 
-#### [Template overall_header](punbb/overall_header.md)
+#### [Template overall_header](punbb/overall_header.md#readme)
 * [Début de boucle &agrave; la ligne 237](../punbb/overall_header.tpl#L237)
 * [Fin de boucle &agrave; la ligne 239](../punbb/overall_header.tpl#L239)

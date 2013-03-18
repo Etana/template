@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template posting_body](subsilver/posting_body.md)
+#### [Template posting_body](subsilver/posting_body.md#readme)
 * [Variable &agrave; la ligne 464](../subsilver/posting_body.tpl#L464)

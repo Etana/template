@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template search_results_posts](punbb/search_results_posts.md)
+#### [Template search_results_posts](punbb/search_results_posts.md#readme)
 * [Variable &agrave; la ligne 61](../punbb/search_results_posts.tpl#L61)
 
 ### Version phpBB2
 
-#### [Template search_results_posts](subsilver/search_results_posts.md)
+#### [Template search_results_posts](subsilver/search_results_posts.md#readme)
 * [Variable &agrave; la ligne 21](../subsilver/search_results_posts.tpl#L21)

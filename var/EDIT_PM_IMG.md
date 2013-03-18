@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template privmsgs_read_body](punbb/privmsgs_read_body.md)
+#### [Template privmsgs_read_body](punbb/privmsgs_read_body.md#readme)
 * [Variable &agrave; la ligne 76](../punbb/privmsgs_read_body.tpl#L76)
 
 ### Version phpBB2
 
-#### [Template privmsgs_read_body](subsilver/privmsgs_read_body.md)
+#### [Template privmsgs_read_body](subsilver/privmsgs_read_body.md#readme)
 * [Variable &agrave; la ligne 50](../subsilver/privmsgs_read_body.tpl#L50)

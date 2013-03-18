@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template posting_poll_body](subsilver/posting_poll_body.md)
+#### [Template posting_poll_body](subsilver/posting_poll_body.md#readme)
 * [Variable &agrave; la ligne 1](../subsilver/posting_poll_body.tpl#L1)

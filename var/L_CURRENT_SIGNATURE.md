@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template profile_edit_signature](punbb/profile_edit_signature.md)
+#### [Template profile_edit_signature](punbb/profile_edit_signature.md#readme)
 * [Variable &agrave; la ligne 65](../punbb/profile_edit_signature.tpl#L65)

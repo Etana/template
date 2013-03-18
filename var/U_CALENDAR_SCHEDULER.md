@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template calendar_scheduler_body](subsilver/calendar_scheduler_body.md)
+#### [Template calendar_scheduler_body](subsilver/calendar_scheduler_body.md#readme)
 * [Variable &agrave; la ligne 4](../subsilver/calendar_scheduler_body.tpl#L4)

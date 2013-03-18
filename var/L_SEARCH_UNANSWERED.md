@@ -5,13 +5,13 @@
 
 ### Version PunBB
 
-#### [Template index_body](punbb/index_body.md)
+#### [Template index_body](punbb/index_body.md#readme)
 * [Variable &agrave; la ligne 7](../punbb/index_body.tpl#L7)
 
-#### [Template viewonline_body](punbb/viewonline_body.md)
+#### [Template viewonline_body](punbb/viewonline_body.md#readme)
 * [Variable &agrave; la ligne 16](../punbb/viewonline_body.tpl#L16)
 
 ### Version phpBB2
 
-#### [Template index_box](subsilver/index_box.md)
+#### [Template index_box](subsilver/index_box.md#readme)
 * [Variable &agrave; la ligne 16](../subsilver/index_box.tpl#L16)

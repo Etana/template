@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template mod_most_active_starters](punbb/mod_most_active_starters.md)
+#### [Template mod_most_active_starters](punbb/mod_most_active_starters.md#readme)
 * [Variable &agrave; la ligne 2](../punbb/mod_most_active_starters.tpl#L2)
 * [Variable &agrave; la ligne 4](../punbb/mod_most_active_starters.tpl#L4)
 
 ### Version phpBB2
 
-#### [Template mod_most_active_starters](subsilver/mod_most_active_starters.md)
+#### [Template mod_most_active_starters](subsilver/mod_most_active_starters.md#readme)
 * [Variable &agrave; la ligne 3](../subsilver/mod_most_active_starters.tpl#L3)
 * [Variable &agrave; la ligne 7](../subsilver/mod_most_active_starters.tpl#L7)

@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template profile_view_body](punbb/profile_view_body.md)
+#### [Template profile_view_body](punbb/profile_view_body.md#readme)
 * [Variable &agrave; la ligne 57](../punbb/profile_view_body.tpl#L57)
 
 ### Version phpBB2
 
-#### [Template profile_view_body](subsilver/profile_view_body.md)
+#### [Template profile_view_body](subsilver/profile_view_body.md#readme)
 * [Variable &agrave; la ligne 79](../subsilver/profile_view_body.tpl#L79)

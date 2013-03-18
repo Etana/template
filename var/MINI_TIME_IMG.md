@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template posting_preview](subsilver/posting_preview.md)
+#### [Template posting_preview](subsilver/posting_preview.md#readme)
 * [Variable &agrave; la ligne 7](../subsilver/posting_preview.tpl#L7)

@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template birthday_list_box](punbb/birthday_list_box.md)
+#### [Template birthday_list_box](punbb/birthday_list_box.md#readme)
 * [Variable &agrave; la ligne 26](../punbb/birthday_list_box.tpl#L26)

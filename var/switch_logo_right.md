@@ -5,6 +5,6 @@
 
 ### Version phpBB2
 
-#### [Template overall_header](subsilver/overall_header.md)
+#### [Template overall_header](subsilver/overall_header.md#readme)
 * [Début de boucle &agrave; la ligne 259](../subsilver/overall_header.tpl#L259)
 * [Fin de boucle &agrave; la ligne 261](../subsilver/overall_header.tpl#L261)

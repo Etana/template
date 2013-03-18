@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template album_nuffimage_box](punbb/album_nuffimage_box.md)
+#### [Template album_nuffimage_box](punbb/album_nuffimage_box.md#readme)
 * [Variable &agrave; la ligne 75](../punbb/album_nuffimage_box.tpl#L75)
 * [Variable &agrave; la ligne 88](../punbb/album_nuffimage_box.tpl#L88)
 
 ### Version phpBB2
 
-#### [Template album_nuffimage_box](subsilver/album_nuffimage_box.md)
+#### [Template album_nuffimage_box](subsilver/album_nuffimage_box.md#readme)
 * [Variable &agrave; la ligne 42](../subsilver/album_nuffimage_box.tpl#L42)
 * [Variable &agrave; la ligne 60](../subsilver/album_nuffimage_box.tpl#L60)

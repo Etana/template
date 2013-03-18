@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template index_body](punbb/index_body.md)
+#### [Template index_body](punbb/index_body.md#readme)
 * [Variable &agrave; la ligne 79](../punbb/index_body.tpl#L79)

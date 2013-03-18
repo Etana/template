@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template mod_rss_feeds](punbb/mod_rss_feeds.md)
+#### [Template mod_rss_feeds](punbb/mod_rss_feeds.md#readme)
 * [Variable &agrave; la ligne 7](../punbb/mod_rss_feeds.tpl#L7)
 
 ### Version phpBB2
 
-#### [Template mod_rss_feeds](subsilver/mod_rss_feeds.md)
+#### [Template mod_rss_feeds](subsilver/mod_rss_feeds.md#readme)
 * [Variable &agrave; la ligne 11](../subsilver/mod_rss_feeds.tpl#L11)

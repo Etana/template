@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template album_index_body](subsilver/album_index_body.md)
+#### [Template album_index_body](subsilver/album_index_body.md#readme)
 * [Variable &agrave; la ligne 52](../subsilver/album_index_body.tpl#L52)

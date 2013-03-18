@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template groupcp_user_body](punbb/groupcp_user_body.md)
+#### [Template groupcp_user_body](punbb/groupcp_user_body.md#readme)
 * [Variable &agrave; la ligne 33](../punbb/groupcp_user_body.tpl#L33)

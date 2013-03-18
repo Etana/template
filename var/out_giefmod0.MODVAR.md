@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template portal_body](punbb/portal_body.md)
+#### [Template portal_body](punbb/portal_body.md#readme)
 * [Variable &agrave; la ligne 6](../punbb/portal_body.tpl#L6)

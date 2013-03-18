@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template album_showpage_body](subsilver/album_showpage_body.md)
+#### [Template album_showpage_body](subsilver/album_showpage_body.md#readme)
 * [Variable &agrave; la ligne 257](../subsilver/album_showpage_body.tpl#L257)

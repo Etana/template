@@ -7,5 +7,5 @@ Description du site spécifiée dans `PA > Général  > Forum | Configuration > 
 
 ### Version phpBB2
 
-#### [Template overall_header](subsilver/overall_header.md)
+#### [Template overall_header](subsilver/overall_header.md#readme)
 * [Variable &agrave; la ligne 257](../subsilver/overall_header.tpl#L257)

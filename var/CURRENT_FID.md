@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template merge_body](punbb/merge_body.md)
+#### [Template merge_body](punbb/merge_body.md#readme)
 * [Variable &agrave; la ligne 53](../punbb/merge_body.tpl#L53)
 
 ### Version phpBB2
 
-#### [Template merge_body](subsilver/merge_body.md)
+#### [Template merge_body](subsilver/merge_body.md#readme)
 * [Variable &agrave; la ligne 29](../subsilver/merge_body.tpl#L29)

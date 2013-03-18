@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template mod_recent_topics](punbb/mod_recent_topics.md)
+#### [Template mod_recent_topics](punbb/mod_recent_topics.md#readme)
 * [Début de boucle &agrave; la ligne 13](../punbb/mod_recent_topics.tpl#L13)
 * [Fin de boucle &agrave; la ligne 15](../punbb/mod_recent_topics.tpl#L15)
 * [Début de boucle &agrave; la ligne 44](../punbb/mod_recent_topics.tpl#L44)
@@ -13,7 +13,7 @@
 
 ### Version phpBB2
 
-#### [Template mod_recent_topics](subsilver/mod_recent_topics.md)
+#### [Template mod_recent_topics](subsilver/mod_recent_topics.md#readme)
 * [Début de boucle &agrave; la ligne 18](../subsilver/mod_recent_topics.tpl#L18)
 * [Fin de boucle &agrave; la ligne 20](../subsilver/mod_recent_topics.tpl#L20)
 * [Début de boucle &agrave; la ligne 53](../subsilver/mod_recent_topics.tpl#L53)

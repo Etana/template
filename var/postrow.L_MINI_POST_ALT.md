@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template privmsg_topic_review](subsilver/privmsg_topic_review.md)
+#### [Template privmsg_topic_review](subsilver/privmsg_topic_review.md#readme)
 * [Variable &agrave; la ligne 20](../subsilver/privmsg_topic_review.tpl#L20)

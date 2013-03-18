@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template posting_topic_review](punbb/posting_topic_review.md)
+#### [Template posting_topic_review](punbb/posting_topic_review.md#readme)
 * [Variable &agrave; la ligne 14](../punbb/posting_topic_review.tpl#L14)

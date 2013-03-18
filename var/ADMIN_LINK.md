@@ -5,8 +5,8 @@
 
 ### Version PunBB
 
-#### [Template portal_body](punbb/portal_body.md)
+#### [Template portal_body](punbb/portal_body.md#readme)
 * [Variable &agrave; la ligne 58](../punbb/portal_body.tpl#L58)
 
-#### [Template overall_footer_end](punbb/overall_footer_end.md)
+#### [Template overall_footer_end](punbb/overall_footer_end.md#readme)
 * [Variable &agrave; la ligne 29](../punbb/overall_footer_end.tpl#L29)

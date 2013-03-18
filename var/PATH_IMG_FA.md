@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template viewtopic_body](punbb/viewtopic_body.md)
+#### [Template viewtopic_body](punbb/viewtopic_body.md#readme)
 * [Variable &agrave; la ligne 2](../punbb/viewtopic_body.tpl#L2)
 
-#### [Template posting_body](punbb/posting_body.md)
+#### [Template posting_body](punbb/posting_body.md#readme)
 * [Variable &agrave; la ligne 164](../punbb/posting_body.tpl#L164)
 * [Variable &agrave; la ligne 164](../punbb/posting_body.tpl#L164)
 * [Variable &agrave; la ligne 167](../punbb/posting_body.tpl#L167)
@@ -112,10 +112,10 @@
 
 ### Version phpBB2
 
-#### [Template viewtopic_body](subsilver/viewtopic_body.md)
+#### [Template viewtopic_body](subsilver/viewtopic_body.md#readme)
 * [Variable &agrave; la ligne 3](../subsilver/viewtopic_body.tpl#L3)
 
-#### [Template posting_body](subsilver/posting_body.md)
+#### [Template posting_body](subsilver/posting_body.md#readme)
 * [Variable &agrave; la ligne 219](../subsilver/posting_body.tpl#L219)
 * [Variable &agrave; la ligne 219](../subsilver/posting_body.tpl#L219)
 * [Variable &agrave; la ligne 221](../subsilver/posting_body.tpl#L221)
@@ -215,5 +215,5 @@
 * [Variable &agrave; la ligne 574](../subsilver/posting_body.tpl#L574)
 * [Variable &agrave; la ligne 601](../subsilver/posting_body.tpl#L601)
 
-#### [Template privmsgs_body](subsilver/privmsgs_body.md)
+#### [Template privmsgs_body](subsilver/privmsgs_body.md#readme)
 * [Variable &agrave; la ligne 26](../subsilver/privmsgs_body.tpl#L26)

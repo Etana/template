@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template simple_footer](subsilver/simple_footer.md)
+#### [Template simple_footer](subsilver/simple_footer.md#readme)
 * [Variable &agrave; la ligne 15](../subsilver/simple_footer.tpl#L15)

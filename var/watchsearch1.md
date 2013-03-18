@@ -5,7 +5,7 @@
 
 ### Version phpBB2
 
-#### [Template search_results_topics](subsilver/search_results_topics.md)
+#### [Template search_results_topics](subsilver/search_results_topics.md#readme)
 * [Début de boucle &agrave; la ligne 25](../subsilver/search_results_topics.tpl#L25)
 * [Fin de boucle &agrave; la ligne 27](../subsilver/search_results_topics.tpl#L27)
 * [Début de boucle &agrave; la ligne 46](../subsilver/search_results_topics.tpl#L46)

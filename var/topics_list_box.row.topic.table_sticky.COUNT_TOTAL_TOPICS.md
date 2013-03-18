@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template topics_list_box](punbb/topics_list_box.md)
+#### [Template topics_list_box](punbb/topics_list_box.md#readme)
 * [Variable &agrave; la ligne 58](../punbb/topics_list_box.tpl#L58)

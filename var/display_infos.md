@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template album_showpage_body](punbb/album_showpage_body.md)
+#### [Template album_showpage_body](punbb/album_showpage_body.md#readme)
 * [Début de boucle &agrave; la ligne 266](../punbb/album_showpage_body.tpl#L266)
 * [Fin de boucle &agrave; la ligne 336](../punbb/album_showpage_body.tpl#L336)
 
 ### Version phpBB2
 
-#### [Template album_showpage_body](subsilver/album_showpage_body.md)
+#### [Template album_showpage_body](subsilver/album_showpage_body.md#readme)
 * [Début de boucle &agrave; la ligne 255](../subsilver/album_showpage_body.tpl#L255)
 * [Fin de boucle &agrave; la ligne 349](../subsilver/album_showpage_body.tpl#L349)

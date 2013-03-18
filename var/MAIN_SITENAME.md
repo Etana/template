@@ -7,5 +7,5 @@ Nom du site spécifié dans `PA > Général > Forum | Configuration > Nom du sit
 
 ### Version phpBB2
 
-#### [Template overall_header](subsilver/overall_header.md)
+#### [Template overall_header](subsilver/overall_header.md#readme)
 * [Variable &agrave; la ligne 255](../subsilver/overall_header.tpl#L255)

@@ -5,22 +5,22 @@
 
 ### Version PunBB
 
-#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 705](../punbb/posting_body_wysiwyg.tpl#L705)
 
-#### [Template posting_body](punbb/posting_body.md)
+#### [Template posting_body](punbb/posting_body.md#readme)
 * [Variable &agrave; la ligne 705](../punbb/posting_body.tpl#L705)
 
-#### [Template groupcp_info_body](punbb/groupcp_info_body.md)
+#### [Template groupcp_info_body](punbb/groupcp_info_body.md#readme)
 * [Variable &agrave; la ligne 162](../punbb/groupcp_info_body.tpl#L162)
 
 ### Version phpBB2
 
-#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 856](../subsilver/posting_body_wysiwyg.tpl#L856)
 
-#### [Template posting_body](subsilver/posting_body.md)
+#### [Template posting_body](subsilver/posting_body.md#readme)
 * [Variable &agrave; la ligne 896](../subsilver/posting_body.tpl#L896)
 
-#### [Template groupcp_info_body](subsilver/groupcp_info_body.md)
+#### [Template groupcp_info_body](subsilver/groupcp_info_body.md#readme)
 * [Variable &agrave; la ligne 133](../subsilver/groupcp_info_body.tpl#L133)

@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template agreement](punbb/agreement.md)
+#### [Template agreement](punbb/agreement.md#readme)
 * [Variable &agrave; la ligne 23](../punbb/agreement.tpl#L23)
 
 ### Version phpBB2
 
-#### [Template agreement](subsilver/agreement.md)
+#### [Template agreement](subsilver/agreement.md#readme)
 * [Variable &agrave; la ligne 16](../subsilver/agreement.tpl#L16)

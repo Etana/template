@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template mod_statistics](punbb/mod_statistics.md)
+#### [Template mod_statistics](punbb/mod_statistics.md#readme)
 * [Variable &agrave; la ligne 5](../punbb/mod_statistics.tpl#L5)
 
 ### Version phpBB2
 
-#### [Template mod_statistics](subsilver/mod_statistics.md)
+#### [Template mod_statistics](subsilver/mod_statistics.md#readme)
 * [Variable &agrave; la ligne 9](../subsilver/mod_statistics.tpl#L9)

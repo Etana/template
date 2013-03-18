@@ -5,6 +5,6 @@
 
 ### Version phpBB2
 
-#### [Template birthday_list_box](subsilver/birthday_list_box.md)
+#### [Template birthday_list_box](subsilver/birthday_list_box.md#readme)
 * [Variable &agrave; la ligne 6](../subsilver/birthday_list_box.tpl#L6)
 * [Variable &agrave; la ligne 14](../subsilver/birthday_list_box.tpl#L14)

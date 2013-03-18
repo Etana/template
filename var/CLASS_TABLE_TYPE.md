@@ -5,9 +5,9 @@
 
 ### Version phpBB2
 
-#### [Template standard](subsilver/standard.md)
+#### [Template standard](subsilver/standard.md#readme)
 * [Variable &agrave; la ligne 12](../subsilver/standard.tpl#L12)
 
-#### [Template overall_header](subsilver/overall_header.md)
+#### [Template overall_header](subsilver/overall_header.md#readme)
 * [Variable &agrave; la ligne 277](../subsilver/overall_header.tpl#L277)
 * [Variable &agrave; la ligne 295](../subsilver/overall_header.tpl#L295)

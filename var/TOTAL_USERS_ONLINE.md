@@ -41,16 +41,16 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 
 ### Version PunBB
 
-#### [Template index_body](punbb/index_body.md)
+#### [Template index_body](punbb/index_body.md#readme)
 * [Variable &agrave; la ligne 73](../punbb/index_body.tpl#L73)
 
-#### [Template mod_whoisonline](punbb/mod_whoisonline.md)
+#### [Template mod_whoisonline](punbb/mod_whoisonline.md#readme)
 * [Variable &agrave; la ligne 4](../punbb/mod_whoisonline.tpl#L4)
 
 ### Version phpBB2
 
-#### [Template index_body](subsilver/index_body.md)
+#### [Template index_body](subsilver/index_body.md#readme)
 * [Variable &agrave; la ligne 194](../subsilver/index_body.tpl#L194)
 
-#### [Template mod_whoisonline](subsilver/mod_whoisonline.md)
+#### [Template mod_whoisonline](subsilver/mod_whoisonline.md#readme)
 * [Variable &agrave; la ligne 9](../subsilver/mod_whoisonline.tpl#L9)

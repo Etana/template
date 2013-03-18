@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template album_showpage_body](punbb/album_showpage_body.md)
+#### [Template album_showpage_body](punbb/album_showpage_body.md#readme)
 * [Variable &agrave; la ligne 251](../punbb/album_showpage_body.tpl#L251)

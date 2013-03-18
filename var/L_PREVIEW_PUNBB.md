@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template posting_preview](punbb/posting_preview.md)
+#### [Template posting_preview](punbb/posting_preview.md#readme)
 * [Variable &agrave; la ligne 8](../punbb/posting_preview.tpl#L8)

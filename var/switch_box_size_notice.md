@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template privmsgs_body](punbb/privmsgs_body.md)
+#### [Template privmsgs_body](punbb/privmsgs_body.md#readme)
 * [Début de boucle &agrave; la ligne 32](../punbb/privmsgs_body.tpl#L32)
 * [Fin de boucle &agrave; la ligne 32](../punbb/privmsgs_body.tpl#L32)
 
 ### Version phpBB2
 
-#### [Template privmsgs_body](subsilver/privmsgs_body.md)
+#### [Template privmsgs_body](subsilver/privmsgs_body.md#readme)
 * [Début de boucle &agrave; la ligne 17](../subsilver/privmsgs_body.tpl#L17)
 * [Fin de boucle &agrave; la ligne 37](../subsilver/privmsgs_body.tpl#L37)

@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template overall_header](punbb/overall_header.md)
+#### [Template overall_header](punbb/overall_header.md#readme)
 * [Variable &agrave; la ligne 202](../punbb/overall_header.tpl#L202)
 
 ### Version phpBB2
 
-#### [Template overall_header](subsilver/overall_header.md)
+#### [Template overall_header](subsilver/overall_header.md#readme)
 * [Variable &agrave; la ligne 207](../subsilver/overall_header.tpl#L207)

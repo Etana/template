@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template privmsgs_body](punbb/privmsgs_body.md)
+#### [Template privmsgs_body](punbb/privmsgs_body.md#readme)
 * [Variable &agrave; la ligne 64](../punbb/privmsgs_body.tpl#L64)

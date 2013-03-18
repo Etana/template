@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template topics_list_box](punbb/topics_list_box.md)
+#### [Template topics_list_box](punbb/topics_list_box.md#readme)
 * [Début de boucle &agrave; la ligne 73](../punbb/topics_list_box.tpl#L73)
 * [Fin de boucle &agrave; la ligne 73](../punbb/topics_list_box.tpl#L73)
 * [Début de boucle &agrave; la ligne 92](../punbb/topics_list_box.tpl#L92)

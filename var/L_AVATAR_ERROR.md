@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template rpg_sheet_edit](punbb/rpg_sheet_edit.md)
+#### [Template rpg_sheet_edit](punbb/rpg_sheet_edit.md#readme)
 * [Variable &agrave; la ligne 34](../punbb/rpg_sheet_edit.tpl#L34)
 
 ### Version phpBB2
 
-#### [Template rpg_sheet_edit](subsilver/rpg_sheet_edit.md)
+#### [Template rpg_sheet_edit](subsilver/rpg_sheet_edit.md#readme)
 * [Variable &agrave; la ligne 21](../subsilver/rpg_sheet_edit.tpl#L21)

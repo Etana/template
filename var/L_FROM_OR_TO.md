@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template privmsgs_body](subsilver/privmsgs_body.md)
+#### [Template privmsgs_body](subsilver/privmsgs_body.md#readme)
 * [Variable &agrave; la ligne 56](../subsilver/privmsgs_body.tpl#L56)

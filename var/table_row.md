@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template standard](punbb/standard.md)
+#### [Template standard](punbb/standard.md#readme)
 * [Début de boucle &agrave; la ligne 1](../punbb/standard.tpl#L1)
 * [Fin de boucle &agrave; la ligne 5](../punbb/standard.tpl#L5)
 * [Début de boucle &agrave; la ligne 7](../punbb/standard.tpl#L7)
@@ -13,6 +13,6 @@
 
 ### Version phpBB2
 
-#### [Template standard](subsilver/standard.md)
+#### [Template standard](subsilver/standard.md#readme)
 * [Début de boucle &agrave; la ligne 1](../subsilver/standard.tpl#L1)
 * [Fin de boucle &agrave; la ligne 8](../subsilver/standard.tpl#L8)

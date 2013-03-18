@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template search_body](subsilver/search_body.md)
+#### [Template search_body](subsilver/search_body.md#readme)
 * [Variable &agrave; la ligne 34](../subsilver/search_body.tpl#L34)

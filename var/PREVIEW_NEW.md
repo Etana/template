@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template modcp_viewip](punbb/modcp_viewip.md)
+#### [Template modcp_viewip](punbb/modcp_viewip.md#readme)
 * [Variable &agrave; la ligne 115](../punbb/modcp_viewip.tpl#L115)

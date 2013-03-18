@@ -14,10 +14,10 @@ Lien de l'image spécifiée dans `Général / navigation > Qui est en ligne ?`.
 
 ### Version PunBB
 
-#### [Template index_body](punbb/index_body.md)
+#### [Template index_body](punbb/index_body.md#readme)
 * [Variable &agrave; la ligne 64](../punbb/index_body.tpl#L64)
 
 ### Version phpBB2
 
-#### [Template index_body](subsilver/index_body.md)
+#### [Template index_body](subsilver/index_body.md#readme)
 * [Variable &agrave; la ligne 188](../subsilver/index_body.tpl#L188)

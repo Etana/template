@@ -9,10 +9,10 @@ Lien vers les sujets actifs du jour.
 
 ### Version PunBB
 
-#### [Template index_box](punbb/index_box.md)
+#### [Template index_box](punbb/index_box.md#readme)
 * [Variable &agrave; la ligne 63](../punbb/index_box.tpl#L63)
 
 ### Version phpBB2
 
-#### [Template index_body](subsilver/index_body.md)
+#### [Template index_body](subsilver/index_body.md#readme)
 * [Variable &agrave; la ligne 97](../subsilver/index_body.tpl#L97)

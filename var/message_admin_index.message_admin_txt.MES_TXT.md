@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template index_body](punbb/index_body.md)
+#### [Template index_body](punbb/index_body.md#readme)
 * [Variable &agrave; la ligne 29](../punbb/index_body.tpl#L29)
 
 ### Version phpBB2
 
-#### [Template index_body](subsilver/index_body.md)
+#### [Template index_body](subsilver/index_body.md#readme)
 * [Variable &agrave; la ligne 12](../subsilver/index_body.tpl#L12)

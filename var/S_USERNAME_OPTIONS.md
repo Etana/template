@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template search_username](punbb/search_username.md)
+#### [Template search_username](punbb/search_username.md#readme)
 * [Variable &agrave; la ligne 21](../punbb/search_username.tpl#L21)
 
 ### Version phpBB2
 
-#### [Template search_username](subsilver/search_username.md)
+#### [Template search_username](subsilver/search_username.md#readme)
 * [Variable &agrave; la ligne 17](../subsilver/search_username.tpl#L17)

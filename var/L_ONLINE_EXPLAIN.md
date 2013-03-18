@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template viewonline_body](subsilver/viewonline_body.md)
+#### [Template viewonline_body](subsilver/viewonline_body.md#readme)
 * [Variable &agrave; la ligne 53](../subsilver/viewonline_body.tpl#L53)

@@ -5,16 +5,16 @@
 
 ### Version PunBB
 
-#### [Template confirm_body](punbb/confirm_body.md)
+#### [Template confirm_body](punbb/confirm_body.md#readme)
 * [Variable &agrave; la ligne 4](../punbb/confirm_body.tpl#L4)
 
-#### [Template donate](punbb/donate.md)
+#### [Template donate](punbb/donate.md#readme)
 * [Variable &agrave; la ligne 183](../punbb/donate.tpl#L183)
 
 ### Version phpBB2
 
-#### [Template confirm_body](subsilver/confirm_body.md)
+#### [Template confirm_body](subsilver/confirm_body.md#readme)
 * [Variable &agrave; la ligne 12](../subsilver/confirm_body.tpl#L12)
 
-#### [Template donate](subsilver/donate.md)
+#### [Template donate](subsilver/donate.md#readme)
 * [Variable &agrave; la ligne 222](../subsilver/donate.tpl#L222)

@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template topics_list_box](punbb/topics_list_box.md)
+#### [Template topics_list_box](punbb/topics_list_box.md#readme)
 * [Variable &agrave; la ligne 36](../punbb/topics_list_box.tpl#L36)
 
 ### Version phpBB2
 
-#### [Template topics_list_box](subsilver/topics_list_box.md)
+#### [Template topics_list_box](subsilver/topics_list_box.md#readme)
 * [Variable &agrave; la ligne 25](../subsilver/topics_list_box.tpl#L25)

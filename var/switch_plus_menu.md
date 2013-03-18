@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template viewtopic_body](punbb/viewtopic_body.md)
+#### [Template viewtopic_body](punbb/viewtopic_body.md#readme)
 * [Début de boucle &agrave; la ligne 46](../punbb/viewtopic_body.tpl#L46)
 * [Fin de boucle &agrave; la ligne 59](../punbb/viewtopic_body.tpl#L59)
 
 ### Version phpBB2
 
-#### [Template viewtopic_body](subsilver/viewtopic_body.md)
+#### [Template viewtopic_body](subsilver/viewtopic_body.md#readme)
 * [Début de boucle &agrave; la ligne 73](../subsilver/viewtopic_body.tpl#L73)
 * [Fin de boucle &agrave; la ligne 85](../subsilver/viewtopic_body.tpl#L85)

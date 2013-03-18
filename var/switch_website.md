@@ -5,6 +5,6 @@
 
 ### Version PunBB
 
-#### [Template profile_add_body](punbb/profile_add_body.md)
+#### [Template profile_add_body](punbb/profile_add_body.md#readme)
 * [Début de boucle &agrave; la ligne 68](../punbb/profile_add_body.tpl#L68)
 * [Fin de boucle &agrave; la ligne 75](../punbb/profile_add_body.tpl#L75)

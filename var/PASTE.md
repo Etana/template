@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 383](../punbb/posting_body_wysiwyg.tpl#L383)
 
 ### Version phpBB2
 
-#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 437](../subsilver/posting_body_wysiwyg.tpl#L437)

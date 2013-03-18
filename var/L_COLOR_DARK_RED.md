@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template posting_body](punbb/posting_body.md)
+#### [Template posting_body](punbb/posting_body.md#readme)
 * [Variable &agrave; la ligne 202](../punbb/posting_body.tpl#L202)
 * [Variable &agrave; la ligne 282](../punbb/posting_body.tpl#L282)
 
 ### Version phpBB2
 
-#### [Template posting_body](subsilver/posting_body.md)
+#### [Template posting_body](subsilver/posting_body.md#readme)
 * [Variable &agrave; la ligne 256](../subsilver/posting_body.tpl#L256)
 * [Variable &agrave; la ligne 336](../subsilver/posting_body.tpl#L336)

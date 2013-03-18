@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template report_list_body](punbb/report_list_body.md)
+#### [Template report_list_body](punbb/report_list_body.md#readme)
 * [Variable &agrave; la ligne 102](../punbb/report_list_body.tpl#L102)
 
 ### Version phpBB2
 
-#### [Template report_list_body](subsilver/report_list_body.md)
+#### [Template report_list_body](subsilver/report_list_body.md#readme)
 * [Variable &agrave; la ligne 67](../subsilver/report_list_body.tpl#L67)

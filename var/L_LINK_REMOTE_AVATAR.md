@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template profile_add_body](punbb/profile_add_body.md)
+#### [Template profile_add_body](punbb/profile_add_body.md#readme)
 * [Variable &agrave; la ligne 381](../punbb/profile_add_body.tpl#L381)
 
 ### Version phpBB2
 
-#### [Template profile_add_body](subsilver/profile_add_body.md)
+#### [Template profile_add_body](subsilver/profile_add_body.md#readme)
 * [Variable &agrave; la ligne 343](../subsilver/profile_add_body.tpl#L343)

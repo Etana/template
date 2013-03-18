@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template album_modcp_body](punbb/album_modcp_body.md)
+#### [Template album_modcp_body](punbb/album_modcp_body.md#readme)
 * [Variable &agrave; la ligne 26](../punbb/album_modcp_body.tpl#L26)
 
 ### Version phpBB2
 
-#### [Template album_modcp_body](subsilver/album_modcp_body.md)
+#### [Template album_modcp_body](subsilver/album_modcp_body.md#readme)
 * [Variable &agrave; la ligne 53](../subsilver/album_modcp_body.tpl#L53)

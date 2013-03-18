@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template posting_body](punbb/posting_body.md)
+#### [Template posting_body](punbb/posting_body.md#readme)
 * [Variable &agrave; la ligne 550](../punbb/posting_body.tpl#L550)
 * [Variable &agrave; la ligne 552](../punbb/posting_body.tpl#L552)
 * [Variable &agrave; la ligne 554](../punbb/posting_body.tpl#L554)
@@ -16,7 +16,7 @@
 * [Variable &agrave; la ligne 558](../punbb/posting_body.tpl#L558)
 * [Variable &agrave; la ligne 559](../punbb/posting_body.tpl#L559)
 
-#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 549](../punbb/posting_body_wysiwyg.tpl#L549)
 * [Variable &agrave; la ligne 551](../punbb/posting_body_wysiwyg.tpl#L551)
 * [Variable &agrave; la ligne 553](../punbb/posting_body_wysiwyg.tpl#L553)
@@ -29,7 +29,7 @@
 
 ### Version phpBB2
 
-#### [Template posting_body](subsilver/posting_body.md)
+#### [Template posting_body](subsilver/posting_body.md#readme)
 * [Variable &agrave; la ligne 634](../subsilver/posting_body.tpl#L634)
 * [Variable &agrave; la ligne 643](../subsilver/posting_body.tpl#L643)
 * [Variable &agrave; la ligne 644](../subsilver/posting_body.tpl#L644)
@@ -40,7 +40,7 @@
 * [Variable &agrave; la ligne 648](../subsilver/posting_body.tpl#L648)
 * [Variable &agrave; la ligne 649](../subsilver/posting_body.tpl#L649)
 
-#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
+#### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md#readme)
 * [Variable &agrave; la ligne 623](../subsilver/posting_body_wysiwyg.tpl#L623)
 * [Variable &agrave; la ligne 632](../subsilver/posting_body_wysiwyg.tpl#L632)
 * [Variable &agrave; la ligne 633](../subsilver/posting_body_wysiwyg.tpl#L633)

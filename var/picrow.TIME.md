@@ -5,16 +5,16 @@
 
 ### Version PunBB
 
-#### [Template album_moderate_body](punbb/album_moderate_body.md)
+#### [Template album_moderate_body](punbb/album_moderate_body.md#readme)
 * [Variable &agrave; la ligne 100](../punbb/album_moderate_body.tpl#L100)
 
-#### [Template album_modcp_body](punbb/album_modcp_body.md)
+#### [Template album_modcp_body](punbb/album_modcp_body.md#readme)
 * [Variable &agrave; la ligne 55](../punbb/album_modcp_body.tpl#L55)
 
 ### Version phpBB2
 
-#### [Template album_moderate_body](subsilver/album_moderate_body.md)
+#### [Template album_moderate_body](subsilver/album_moderate_body.md#readme)
 * [Variable &agrave; la ligne 88](../subsilver/album_moderate_body.tpl#L88)
 
-#### [Template album_modcp_body](subsilver/album_modcp_body.md)
+#### [Template album_modcp_body](subsilver/album_modcp_body.md#readme)
 * [Variable &agrave; la ligne 39](../subsilver/album_modcp_body.tpl#L39)

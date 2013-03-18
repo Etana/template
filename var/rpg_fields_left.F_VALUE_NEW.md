@@ -5,8 +5,8 @@
 
 ### Version PunBB
 
-#### [Template rpg_sheet](punbb/rpg_sheet.md)
+#### [Template rpg_sheet](punbb/rpg_sheet.md#readme)
 * [Variable &agrave; la ligne 33](../punbb/rpg_sheet.tpl#L33)
 
-#### [Template rpg_sheet_edit](punbb/rpg_sheet_edit.md)
+#### [Template rpg_sheet_edit](punbb/rpg_sheet_edit.md#readme)
 * [Variable &agrave; la ligne 44](../punbb/rpg_sheet_edit.tpl#L44)

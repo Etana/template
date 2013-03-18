@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template posting_poll_body](punbb/posting_poll_body.md)
+#### [Template posting_poll_body](punbb/posting_poll_body.md#readme)
 * [Variable &agrave; la ligne 57](../punbb/posting_poll_body.tpl#L57)
 
 ### Version phpBB2
 
-#### [Template posting_poll_body](subsilver/posting_poll_body.md)
+#### [Template posting_poll_body](subsilver/posting_poll_body.md#readme)
 * [Variable &agrave; la ligne 52](../subsilver/posting_poll_body.tpl#L52)

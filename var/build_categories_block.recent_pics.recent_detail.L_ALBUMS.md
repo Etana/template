@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template album_index_body](punbb/album_index_body.md)
+#### [Template album_index_body](punbb/album_index_body.md#readme)
 * [Variable &agrave; la ligne 37](../punbb/album_index_body.tpl#L37)

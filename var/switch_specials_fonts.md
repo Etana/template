@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template posting_body](punbb/posting_body.md)
+#### [Template posting_body](punbb/posting_body.md#readme)
 * [Début de boucle &agrave; la ligne 227](../punbb/posting_body.tpl#L227)
 * [Fin de boucle &agrave; la ligne 229](../punbb/posting_body.tpl#L229)
 * [Début de boucle &agrave; la ligne 307](../punbb/posting_body.tpl#L307)
@@ -13,6 +13,6 @@
 
 ### Version phpBB2
 
-#### [Template posting_body](subsilver/posting_body.md)
+#### [Template posting_body](subsilver/posting_body.md#readme)
 * [Début de boucle &agrave; la ligne 281](../subsilver/posting_body.tpl#L281)
 * [Fin de boucle &agrave; la ligne 283](../subsilver/posting_body.tpl#L283)

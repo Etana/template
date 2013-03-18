@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template modcp_split](subsilver/modcp_split.md)
+#### [Template modcp_split](subsilver/modcp_split.md#readme)
 * [Variable &agrave; la ligne 39](../subsilver/modcp_split.tpl#L39)

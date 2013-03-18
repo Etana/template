@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template confirm_body](punbb/confirm_body.md)
+#### [Template confirm_body](punbb/confirm_body.md#readme)
 * [Variable &agrave; la ligne 6](../punbb/confirm_body.tpl#L6)

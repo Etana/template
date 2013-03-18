@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template groupcp_pending_info](punbb/groupcp_pending_info.md)
+#### [Template groupcp_pending_info](punbb/groupcp_pending_info.md#readme)
 * [Variable &agrave; la ligne 25](../punbb/groupcp_pending_info.tpl#L25)
 
 ### Version phpBB2
 
-#### [Template groupcp_pending_info](subsilver/groupcp_pending_info.md)
+#### [Template groupcp_pending_info](subsilver/groupcp_pending_info.md#readme)
 * [Variable &agrave; la ligne 19](../subsilver/groupcp_pending_info.tpl#L19)

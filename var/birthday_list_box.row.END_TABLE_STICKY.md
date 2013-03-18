@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template birthday_list_box](punbb/birthday_list_box.md)
+#### [Template birthday_list_box](punbb/birthday_list_box.md#readme)
 * [Variable &agrave; la ligne 25](../punbb/birthday_list_box.tpl#L25)
 
 ### Version phpBB2
 
-#### [Template birthday_list_box](subsilver/birthday_list_box.md)
+#### [Template birthday_list_box](subsilver/birthday_list_box.md#readme)
 * [Variable &agrave; la ligne 37](../subsilver/birthday_list_box.tpl#L37)

@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template profile_avatar_gallery](punbb/profile_avatar_gallery.md)
+#### [Template profile_avatar_gallery](punbb/profile_avatar_gallery.md#readme)
 * [Variable &agrave; la ligne 30](../punbb/profile_avatar_gallery.tpl#L30)
 
 ### Version phpBB2
 
-#### [Template profile_avatar_gallery](subsilver/profile_avatar_gallery.md)
+#### [Template profile_avatar_gallery](subsilver/profile_avatar_gallery.md#readme)
 * [Variable &agrave; la ligne 17](../subsilver/profile_avatar_gallery.tpl#L17)

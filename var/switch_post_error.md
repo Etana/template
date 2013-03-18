@@ -5,6 +5,6 @@
 
 ### Version phpBB2
 
-#### [Template profile_edit_signature](subsilver/profile_edit_signature.md)
+#### [Template profile_edit_signature](subsilver/profile_edit_signature.md#readme)
 * [Début de boucle &agrave; la ligne 1](../subsilver/profile_edit_signature.tpl#L1)
 * [Fin de boucle &agrave; la ligne 20](../subsilver/profile_edit_signature.tpl#L20)

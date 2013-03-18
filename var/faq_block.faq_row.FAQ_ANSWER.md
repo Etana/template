@@ -5,16 +5,16 @@
 
 ### Version PunBB
 
-#### [Template faq_dhtml](punbb/faq_dhtml.md)
+#### [Template faq_dhtml](punbb/faq_dhtml.md#readme)
 * [Variable &agrave; la ligne 39](../punbb/faq_dhtml.tpl#L39)
 
-#### [Template faq_body](punbb/faq_body.md)
+#### [Template faq_body](punbb/faq_body.md#readme)
 * [Variable &agrave; la ligne 42](../punbb/faq_body.tpl#L42)
 
 ### Version phpBB2
 
-#### [Template faq_dhtml](subsilver/faq_dhtml.md)
+#### [Template faq_dhtml](subsilver/faq_dhtml.md#readme)
 * [Variable &agrave; la ligne 42](../subsilver/faq_dhtml.tpl#L42)
 
-#### [Template faq_body](subsilver/faq_body.md)
+#### [Template faq_body](subsilver/faq_body.md#readme)
 * [Variable &agrave; la ligne 38](../subsilver/faq_body.tpl#L38)

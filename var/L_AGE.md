@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template calendar_overview_profil](punbb/calendar_overview_profil.md)
+#### [Template calendar_overview_profil](punbb/calendar_overview_profil.md#readme)
 * [Variable &agrave; la ligne 8](../punbb/calendar_overview_profil.tpl#L8)
 
 ### Version phpBB2
 
-#### [Template calendar_overview_profil](subsilver/calendar_overview_profil.md)
+#### [Template calendar_overview_profil](subsilver/calendar_overview_profil.md#readme)
 * [Variable &agrave; la ligne 15](../subsilver/calendar_overview_profil.tpl#L15)

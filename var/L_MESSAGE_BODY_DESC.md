@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template profile_send_email](punbb/profile_send_email.md)
+#### [Template profile_send_email](punbb/profile_send_email.md#readme)
 * [Variable &agrave; la ligne 49](../punbb/profile_send_email.tpl#L49)
 
 ### Version phpBB2
 
-#### [Template profile_send_email](subsilver/profile_send_email.md)
+#### [Template profile_send_email](subsilver/profile_send_email.md#readme)
 * [Variable &agrave; la ligne 27](../subsilver/profile_send_email.tpl#L27)

@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template modcp_split](punbb/modcp_split.md)
+#### [Template modcp_split](punbb/modcp_split.md#readme)
 * [Variable &agrave; la ligne 36](../punbb/modcp_split.tpl#L36)
 
 ### Version phpBB2
 
-#### [Template modcp_split](subsilver/modcp_split.md)
+#### [Template modcp_split](subsilver/modcp_split.md#readme)
 * [Variable &agrave; la ligne 19](../subsilver/modcp_split.tpl#L19)

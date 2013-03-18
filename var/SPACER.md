@@ -5,7 +5,7 @@
 
 ### Version phpBB2
 
-#### [Template index_box](subsilver/index_box.md)
+#### [Template index_box](subsilver/index_box.md#readme)
 * [Variable &agrave; la ligne 31](../subsilver/index_box.tpl#L31)
 * [Variable &agrave; la ligne 46](../subsilver/index_box.tpl#L46)
 * [Variable &agrave; la ligne 79](../subsilver/index_box.tpl#L79)

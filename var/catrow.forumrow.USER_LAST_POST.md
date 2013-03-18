@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template index_box](punbb/index_box.md)
+#### [Template index_box](punbb/index_box.md#readme)
 * [Variable &agrave; la ligne 46](../punbb/index_box.tpl#L46)

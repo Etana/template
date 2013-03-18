@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template profile_add_body](punbb/profile_add_body.md)
+#### [Template profile_add_body](punbb/profile_add_body.md#readme)
 * [Début de boucle &agrave; la ligne 25](../punbb/profile_add_body.tpl#L25)
 * [Fin de boucle &agrave; la ligne 141](../punbb/profile_add_body.tpl#L141)
 * [Début de boucle &agrave; la ligne 397](../punbb/profile_add_body.tpl#L397)
@@ -13,6 +13,6 @@
 
 ### Version phpBB2
 
-#### [Template profile_add_body](subsilver/profile_add_body.md)
+#### [Template profile_add_body](subsilver/profile_add_body.md#readme)
 * [Début de boucle &agrave; la ligne 8](../subsilver/profile_add_body.tpl#L8)
 * [Fin de boucle &agrave; la ligne 85](../subsilver/profile_add_body.tpl#L85)

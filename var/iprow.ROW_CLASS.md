@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template modcp_viewip](subsilver/modcp_viewip.md)
+#### [Template modcp_viewip](subsilver/modcp_viewip.md#readme)
 * [Variable &agrave; la ligne 65](../subsilver/modcp_viewip.tpl#L65)

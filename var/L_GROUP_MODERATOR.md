@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template groupcp_info_body](punbb/groupcp_info_body.md)
+#### [Template groupcp_info_body](punbb/groupcp_info_body.md#readme)
 * [Variable &agrave; la ligne 90](../punbb/groupcp_info_body.tpl#L90)
 
 ### Version phpBB2
 
-#### [Template groupcp_info_body](subsilver/groupcp_info_body.md)
+#### [Template groupcp_info_body](subsilver/groupcp_info_body.md#readme)
 * [Variable &agrave; la ligne 50](../subsilver/groupcp_info_body.tpl#L50)

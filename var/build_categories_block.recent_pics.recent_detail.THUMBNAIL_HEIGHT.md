@@ -5,11 +5,11 @@
 
 ### Version PunBB
 
-#### [Template album_index_body](punbb/album_index_body.md)
+#### [Template album_index_body](punbb/album_index_body.md#readme)
 * [Variable &agrave; la ligne 29](../punbb/album_index_body.tpl#L29)
 
 ### Version phpBB2
 
-#### [Template album_index_body](subsilver/album_index_body.md)
+#### [Template album_index_body](subsilver/album_index_body.md#readme)
 * [Variable &agrave; la ligne 22](../subsilver/album_index_body.tpl#L22)
 * [Variable &agrave; la ligne 22](../subsilver/album_index_body.tpl#L22)

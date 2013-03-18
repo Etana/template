@@ -20,16 +20,16 @@ Le record du nombre d'utilisateurs en ligne est de <strong>2</strong> le Mer 21 
 
 ### Version PunBB
 
-#### [Template index_body](punbb/index_body.md)
+#### [Template index_body](punbb/index_body.md#readme)
 * [Variable &agrave; la ligne 74](../punbb/index_body.tpl#L74)
 
-#### [Template mod_whoisonline](punbb/mod_whoisonline.md)
+#### [Template mod_whoisonline](punbb/mod_whoisonline.md#readme)
 * [Variable &agrave; la ligne 10](../punbb/mod_whoisonline.tpl#L10)
 
 ### Version phpBB2
 
-#### [Template index_body](subsilver/index_body.md)
+#### [Template index_body](subsilver/index_body.md#readme)
 * [Variable &agrave; la ligne 195](../subsilver/index_body.tpl#L195)
 
-#### [Template mod_whoisonline](subsilver/mod_whoisonline.md)
+#### [Template mod_whoisonline](subsilver/mod_whoisonline.md#readme)
 * [Variable &agrave; la ligne 19](../subsilver/mod_whoisonline.tpl#L19)

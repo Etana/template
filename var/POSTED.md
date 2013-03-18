@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template modcp_viewip](punbb/modcp_viewip.md)
+#### [Template modcp_viewip](punbb/modcp_viewip.md#readme)
 * [Variable &agrave; la ligne 43](../punbb/modcp_viewip.tpl#L43)
 
 ### Version phpBB2
 
-#### [Template modcp_viewip](subsilver/modcp_viewip.md)
+#### [Template modcp_viewip](subsilver/modcp_viewip.md#readme)
 * [Variable &agrave; la ligne 24](../subsilver/modcp_viewip.tpl#L24)

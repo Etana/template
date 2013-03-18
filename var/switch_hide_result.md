@@ -5,12 +5,12 @@
 
 ### Version PunBB
 
-#### [Template viewtopic_poll_result](punbb/viewtopic_poll_result.md)
+#### [Template viewtopic_poll_result](punbb/viewtopic_poll_result.md#readme)
 * [Début de boucle &agrave; la ligne 19](../punbb/viewtopic_poll_result.tpl#L19)
 * [Fin de boucle &agrave; la ligne 24](../punbb/viewtopic_poll_result.tpl#L24)
 
 ### Version phpBB2
 
-#### [Template viewtopic_poll_result](subsilver/viewtopic_poll_result.md)
+#### [Template viewtopic_poll_result](subsilver/viewtopic_poll_result.md#readme)
 * [Début de boucle &agrave; la ligne 43](../subsilver/viewtopic_poll_result.tpl#L43)
 * [Fin de boucle &agrave; la ligne 47](../subsilver/viewtopic_poll_result.tpl#L47)

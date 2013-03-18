@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template mod_chatbox](punbb/mod_chatbox.md)
+#### [Template mod_chatbox](punbb/mod_chatbox.md#readme)
 * [Variable &agrave; la ligne 5](../punbb/mod_chatbox.tpl#L5)
 
 ### Version phpBB2
 
-#### [Template mod_chatbox](subsilver/mod_chatbox.md)
+#### [Template mod_chatbox](subsilver/mod_chatbox.md#readme)
 * [Variable &agrave; la ligne 6](../subsilver/mod_chatbox.tpl#L6)

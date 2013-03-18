@@ -5,6 +5,6 @@
 
 ### Version phpBB2
 
-#### [Template album_cat_body](subsilver/album_cat_body.md)
+#### [Template album_cat_body](subsilver/album_cat_body.md#readme)
 * [Début de boucle &agrave; la ligne 154](../subsilver/album_cat_body.tpl#L154)
 * [Fin de boucle &agrave; la ligne 156](../subsilver/album_cat_body.tpl#L156)

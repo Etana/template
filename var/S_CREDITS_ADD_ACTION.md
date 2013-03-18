@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template donate](punbb/donate.md)
+#### [Template donate](punbb/donate.md#readme)
 * [Variable &agrave; la ligne 44](../punbb/donate.tpl#L44)
 * [Variable &agrave; la ligne 93](../punbb/donate.tpl#L93)
 * [Variable &agrave; la ligne 110](../punbb/donate.tpl#L110)
@@ -16,7 +16,7 @@
 
 ### Version phpBB2
 
-#### [Template donate](subsilver/donate.md)
+#### [Template donate](subsilver/donate.md#readme)
 * [Variable &agrave; la ligne 48](../subsilver/donate.tpl#L48)
 * [Variable &agrave; la ligne 118](../subsilver/donate.tpl#L118)
 * [Variable &agrave; la ligne 138](../subsilver/donate.tpl#L138)

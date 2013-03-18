@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template faq_body](punbb/faq_body.md)
+#### [Template faq_body](punbb/faq_body.md#readme)
 * [Variable &agrave; la ligne 43](../punbb/faq_body.tpl#L43)

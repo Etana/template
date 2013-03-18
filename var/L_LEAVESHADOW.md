@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template modcp_move](punbb/modcp_move.md)
+#### [Template modcp_move](punbb/modcp_move.md#readme)
 * [Variable &agrave; la ligne 37](../punbb/modcp_move.tpl#L37)
 
 ### Version phpBB2
 
-#### [Template modcp_move](subsilver/modcp_move.md)
+#### [Template modcp_move](subsilver/modcp_move.md#readme)
 * [Variable &agrave; la ligne 22](../subsilver/modcp_move.tpl#L22)

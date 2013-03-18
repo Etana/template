@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template calendar_scheduler_body](punbb/calendar_scheduler_body.md)
+#### [Template calendar_scheduler_body](punbb/calendar_scheduler_body.md#readme)
 * [Variable &agrave; la ligne 47](../punbb/calendar_scheduler_body.tpl#L47)

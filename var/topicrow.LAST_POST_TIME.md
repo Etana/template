@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template modcp_body](punbb/modcp_body.md)
+#### [Template modcp_body](punbb/modcp_body.md#readme)
 * [Variable &agrave; la ligne 54](../punbb/modcp_body.tpl#L54)
 
 ### Version phpBB2
 
-#### [Template modcp_body](subsilver/modcp_body.md)
+#### [Template modcp_body](subsilver/modcp_body.md#readme)
 * [Variable &agrave; la ligne 28](../subsilver/modcp_body.tpl#L28)

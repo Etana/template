@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template viewtopic_body](punbb/viewtopic_body.md)
+#### [Template viewtopic_body](punbb/viewtopic_body.md#readme)
 * [Variable &agrave; la ligne 134](../punbb/viewtopic_body.tpl#L134)

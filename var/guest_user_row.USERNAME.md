@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template viewonline_body](punbb/viewonline_body.md)
+#### [Template viewonline_body](punbb/viewonline_body.md#readme)
 * [Variable &agrave; la ligne 63](../punbb/viewonline_body.tpl#L63)
 
 ### Version phpBB2
 
-#### [Template viewonline_body](subsilver/viewonline_body.md)
+#### [Template viewonline_body](subsilver/viewonline_body.md#readme)
 * [Variable &agrave; la ligne 45](../subsilver/viewonline_body.tpl#L45)

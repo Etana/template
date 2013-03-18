@@ -5,7 +5,7 @@
 
 ### Version phpBB2
 
-#### [Template viewtopic_body](subsilver/viewtopic_body.md)
+#### [Template viewtopic_body](subsilver/viewtopic_body.md#readme)
 * [Début de boucle &agrave; la ligne 377](../subsilver/viewtopic_body.tpl#L377)
 * [Fin de boucle &agrave; la ligne 382](../subsilver/viewtopic_body.tpl#L382)
 * [Début de boucle &agrave; la ligne 388](../subsilver/viewtopic_body.tpl#L388)

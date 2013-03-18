@@ -5,6 +5,6 @@
 
 ### Version PunBB
 
-#### [Template portal_body](punbb/portal_body.md)
+#### [Template portal_body](punbb/portal_body.md#readme)
 * [Début de boucle &agrave; la ligne 57](../punbb/portal_body.tpl#L57)
 * [Fin de boucle &agrave; la ligne 59](../punbb/portal_body.tpl#L59)

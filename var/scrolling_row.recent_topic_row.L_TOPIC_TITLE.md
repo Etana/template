@@ -5,5 +5,5 @@
 
 ### Version PunBB
 
-#### [Template mod_recent_topics](punbb/mod_recent_topics.md)
+#### [Template mod_recent_topics](punbb/mod_recent_topics.md#readme)
 * [Variable &agrave; la ligne 6](../punbb/mod_recent_topics.tpl#L6)

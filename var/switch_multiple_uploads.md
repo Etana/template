@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template album_upload_body](punbb/album_upload_body.md)
+#### [Template album_upload_body](punbb/album_upload_body.md#readme)
 * [Début de boucle &agrave; la ligne 268](../punbb/album_upload_body.tpl#L268)
 * [Fin de boucle &agrave; la ligne 270](../punbb/album_upload_body.tpl#L270)
 * [Début de boucle &agrave; la ligne 278](../punbb/album_upload_body.tpl#L278)
@@ -15,7 +15,7 @@
 
 ### Version phpBB2
 
-#### [Template album_upload_body](subsilver/album_upload_body.md)
+#### [Template album_upload_body](subsilver/album_upload_body.md#readme)
 * [Début de boucle &agrave; la ligne 269](../subsilver/album_upload_body.tpl#L269)
 * [Fin de boucle &agrave; la ligne 271](../subsilver/album_upload_body.tpl#L271)
 * [Début de boucle &agrave; la ligne 289](../subsilver/album_upload_body.tpl#L289)

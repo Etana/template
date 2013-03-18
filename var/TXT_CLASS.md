@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template calendar_overview_profil](subsilver/calendar_overview_profil.md)
+#### [Template calendar_overview_profil](subsilver/calendar_overview_profil.md#readme)
 * [Variable &agrave; la ligne 6](../subsilver/calendar_overview_profil.tpl#L6)

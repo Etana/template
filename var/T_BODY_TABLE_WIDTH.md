@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template overall_header](subsilver/overall_header.md)
+#### [Template overall_header](subsilver/overall_header.md#readme)
 * [Variable &agrave; la ligne 242](../subsilver/overall_header.tpl#L242)

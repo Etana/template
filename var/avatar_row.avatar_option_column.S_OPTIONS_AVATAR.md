@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template profile_avatar_gallery](subsilver/profile_avatar_gallery.md)
+#### [Template profile_avatar_gallery](subsilver/profile_avatar_gallery.md#readme)
 * [Variable &agrave; la ligne 22](../subsilver/profile_avatar_gallery.tpl#L22)

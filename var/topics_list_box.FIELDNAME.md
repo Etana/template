@@ -5,7 +5,7 @@
 
 ### Version PunBB
 
-#### [Template topics_list_box](punbb/topics_list_box.md)
+#### [Template topics_list_box](punbb/topics_list_box.md#readme)
 * [Variable &agrave; la ligne 9](../punbb/topics_list_box.tpl#L9)
 * [Variable &agrave; la ligne 17](../punbb/topics_list_box.tpl#L17)
 * [Variable &agrave; la ligne 78](../punbb/topics_list_box.tpl#L78)
@@ -13,7 +13,7 @@
 
 ### Version phpBB2
 
-#### [Template topics_list_box](subsilver/topics_list_box.md)
+#### [Template topics_list_box](subsilver/topics_list_box.md#readme)
 * [Variable &agrave; la ligne 6](../subsilver/topics_list_box.tpl#L6)
 * [Variable &agrave; la ligne 14](../subsilver/topics_list_box.tpl#L14)
 * [Variable &agrave; la ligne 48](../subsilver/topics_list_box.tpl#L48)

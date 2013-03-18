@@ -5,5 +5,5 @@
 
 ### Version phpBB2
 
-#### [Template groupcp_user_body](subsilver/groupcp_user_body.md)
+#### [Template groupcp_user_body](subsilver/groupcp_user_body.md#readme)
 * [Variable &agrave; la ligne 15](../subsilver/groupcp_user_body.tpl#L15)

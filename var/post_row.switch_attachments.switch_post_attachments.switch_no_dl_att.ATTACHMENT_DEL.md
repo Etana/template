@@ -5,10 +5,10 @@
 
 ### Version PunBB
 
-#### [Template mod_news](punbb/mod_news.md)
+#### [Template mod_news](punbb/mod_news.md#readme)
 * [Variable &agrave; la ligne 28](../punbb/mod_news.tpl#L28)
 
 ### Version phpBB2
 
-#### [Template mod_news](subsilver/mod_news.md)
+#### [Template mod_news](subsilver/mod_news.md#readme)
 * [Variable &agrave; la ligne 35](../subsilver/mod_news.tpl#L35)
