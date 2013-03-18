@@ -1,7 +1,7 @@
 # Variable de boucle memberrow.POSTS
 
 ##Disponibilité
-Cette variable est un attribut de [memberrow](memberrow.md).
+Cette variable est un attribut de [memberrow](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [memberrow](memberrow.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.POSTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.POSTS)
 
 ## Utilisations dans les templates
 

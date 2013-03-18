@@ -1,7 +1,7 @@
 # Variable de boucle topics_list_box.row
 
 ##Disponibilité
-Cette variable est un attribut de [topics_list_box](topics_list_box.md).
+Cette variable est un attribut de [topics_list_box](topics_list_box.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -10,7 +10,18 @@ Cette variable est un attribut de [topics_list_box](topics_list_box.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row)
+
+## Attributs
+### Attributs de boucle
+* [header_table](topics_list_box.row.header_table.md#readme)
+* [header_row](topics_list_box.row.header_row.md#readme)
+* [topic](topics_list_box.row.topic.md#readme)
+* [no_topics](topics_list_box.row.no_topics.md#readme)
+* [bottom](topics_list_box.row.bottom.md#readme)
+* [footer_table](topics_list_box.row.footer_table.md#readme)
+* [spacer](topics_list_box.row.spacer.md#readme)
+
 
 ## Utilisations dans les templates
 

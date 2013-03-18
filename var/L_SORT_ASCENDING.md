@@ -8,7 +8,7 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_SORT_ASCENDING)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SORT_ASCENDING)
 
 ## Utilisations dans les templates
 

@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_menu)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_menu)
+
+## Attributs
+### Attributs d'affichage
+* [UCP_TABS](switch_menu.UCP_TABS.md#readme)
+
 
 ## Utilisations dans les templates
 

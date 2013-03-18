@@ -1,7 +1,7 @@
 # Variable de boucle catrow.cathead.INC_SPAN
 
 ##Disponibilité
-Cette variable est un attribut de [catrow.cathead](catrow.cathead.md).
+Cette variable est un attribut de [catrow.cathead](catrow.cathead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [catrow.cathead](catrow.cathead.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.INC_SPAN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.INC_SPAN)
 
 ## Utilisations dans les templates
 

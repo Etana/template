@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_hide_result)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_hide_result)
+
+## Attributs
+### Attributs d'affichage
+* [L_POLL_HIDE_RESULT](switch_hide_result.L_POLL_HIDE_RESULT.md#readme)
+
 
 ## Utilisations dans les templates
 

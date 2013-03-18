@@ -10,7 +10,13 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
+
+## Attributs
+### Attributs d'affichage
+* [FORUM_URL](switch_fb_likebtn.FORUM_URL.md#readme)
+* [TOPIC_URL](switch_fb_likebtn.TOPIC_URL.md#readme)
+
 
 ## Utilisations dans les templates
 

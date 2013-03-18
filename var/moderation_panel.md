@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/moderation_panel)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)
+
+## Attributs
+### Attributs d'affichage
+* [U_YOUR_PERSONAL_MODERATE](moderation_panel.U_YOUR_PERSONAL_MODERATE.md#readme)
+
 
 ## Utilisations dans les templates
 

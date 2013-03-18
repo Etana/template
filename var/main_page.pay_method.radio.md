@@ -1,7 +1,7 @@
 # Variable de boucle main_page.pay_method.radio
 
 ##Disponibilité
-Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md).
+Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md#readme).
 
 ```html
 <!-- BEGIN main_page -->
@@ -12,7 +12,13 @@ Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
+
+## Attributs
+### Attributs d'affichage
+* [METHOD](main_page.pay_method.radio.METHOD.md#readme)
+* [METHOD](main_page.pay_method.radio.METHOD.md#readme)
+
 
 ## Utilisations dans les templates
 

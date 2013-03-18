@@ -10,7 +10,17 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_authreply)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authreply)
+
+## Attributs
+### Attributs d'affichage
+* [U_POST_REPLY_TOPIC](switch_user_authreply.U_POST_REPLY_TOPIC.md#readme)
+* [REPLY_IMG](switch_user_authreply.REPLY_IMG.md#readme)
+* [L_POST_REPLY_TOPIC](switch_user_authreply.L_POST_REPLY_TOPIC.md#readme)
+* [U_POST_REPLY_TOPIC](switch_user_authreply.U_POST_REPLY_TOPIC.md#readme)
+* [REPLY_IMG](switch_user_authreply.REPLY_IMG.md#readme)
+* [L_POST_REPLY_TOPIC](switch_user_authreply.L_POST_REPLY_TOPIC.md#readme)
+
 
 ## Utilisations dans les templates
 

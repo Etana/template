@@ -1,7 +1,7 @@
 # Variable de boucle switch_report_popup.S_HEIGHT
 
 ##Disponibilité
-Cette variable est un attribut de [switch_report_popup](switch_report_popup.md).
+Cette variable est un attribut de [switch_report_popup](switch_report_popup.md#readme).
 
 ```html
 <!-- BEGIN switch_report_popup -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_report_popup](switch_report_popup.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_report_popup.S_HEIGHT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup.S_HEIGHT)
 
 ## Utilisations dans les templates
 

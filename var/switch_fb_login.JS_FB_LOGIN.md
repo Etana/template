@@ -1,7 +1,7 @@
 # Variable de boucle switch_fb_login.JS_FB_LOGIN
 
 ##Disponibilité
-Cette variable est un attribut de [switch_fb_login](switch_fb_login.md).
+Cette variable est un attribut de [switch_fb_login](switch_fb_login.md#readme).
 
 ```html
 <!-- BEGIN switch_fb_login -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_fb_login](switch_fb_login.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_login.JS_FB_LOGIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_login.JS_FB_LOGIN)
 
 ## Utilisations dans les templates
 

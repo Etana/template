@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_index_login)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_index_login)
+
+## Attributs
+### Attributs d'affichage
+* [FACEBOOK_APP_ID](switch_fb_index_login.FACEBOOK_APP_ID.md#readme)
+
 
 ## Utilisations dans les templates
 

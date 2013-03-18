@@ -1,7 +1,7 @@
 # Variable de boucle catrow.forumrow.switch_moderators_links
 
 ##Disponibilité
-Cette variable est un attribut de [catrow.forumrow](catrow.forumrow.md).
+Cette variable est un attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -12,7 +12,13 @@ Cette variable est un attribut de [catrow.forumrow](catrow.forumrow.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
+
+## Attributs
+### Attributs d'affichage
+* [L_MODERATOR](catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)
+* [MODERATORS](catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)
+
 
 ## Utilisations dans les templates
 

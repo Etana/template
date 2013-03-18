@@ -1,7 +1,7 @@
 # Variable de boucle catrow.cathead.CLASS_ROWPIC
 
 ##Disponibilité
-Cette variable est un attribut de [catrow.cathead](catrow.cathead.md).
+Cette variable est un attribut de [catrow.cathead](catrow.cathead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [catrow.cathead](catrow.cathead.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.cathead.CLASS_ROWPIC)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.CLASS_ROWPIC)
 
 ## Utilisations dans les templates
 

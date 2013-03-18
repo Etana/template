@@ -1,7 +1,7 @@
 # Variable de boucle promot_trafic.link.TITLE
 
 ##Disponibilité
-Cette variable est un attribut de [promot_trafic.link](promot_trafic.link.md).
+Cette variable est un attribut de [promot_trafic.link](promot_trafic.link.md#readme).
 
 ```html
 <!-- BEGIN promot_trafic -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [promot_trafic.link](promot_trafic.link.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
 
 ## Utilisations dans les templates
 

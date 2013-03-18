@@ -10,7 +10,13 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_view_stats)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats)
+
+## Attributs
+### Attributs d'affichage
+* [S_STATS](switch_view_stats.S_STATS.md#readme)
+* [L_STATS](switch_view_stats.L_STATS.md#readme)
+
 
 ## Utilisations dans les templates
 

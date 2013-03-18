@@ -1,7 +1,7 @@
 # Variable de boucle switch_compat_meta.VERSION
 
 ##Disponibilité
-Cette variable est un attribut de [switch_compat_meta](switch_compat_meta.md).
+Cette variable est un attribut de [switch_compat_meta](switch_compat_meta.md#readme).
 
 ```html
 <!-- BEGIN switch_compat_meta -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_compat_meta](switch_compat_meta.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
 
 ## Utilisations dans les templates
 

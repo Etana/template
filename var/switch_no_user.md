@@ -10,7 +10,13 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user)
+
+## Attributs
+### Attributs d'affichage
+* [COLSPAN_NUMBER](switch_no_user.COLSPAN_NUMBER.md#readme)
+* [L_NO_USER](switch_no_user.L_NO_USER.md#readme)
+
 
 ## Utilisations dans les templates
 

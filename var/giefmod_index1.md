@@ -10,7 +10,14 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/giefmod_index1)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index1)
+
+## Attributs
+### Attributs d'affichage
+* [MODVAR](giefmod_index1.MODVAR.md#readme)
+### Attributs de boucle
+* [saut](giefmod_index1.saut.md#readme)
+
 
 ## Utilisations dans les templates
 

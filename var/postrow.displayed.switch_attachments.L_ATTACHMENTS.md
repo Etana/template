@@ -1,7 +1,7 @@
 # Variable de boucle postrow.displayed.switch_attachments.L_ATTACHMENTS
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.displayed.switch_attachments](postrow.displayed.switch_attachments.md).
+Cette variable est un attribut de [postrow.displayed.switch_attachments](postrow.displayed.switch_attachments.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -14,7 +14,7 @@ Cette variable est un attribut de [postrow.displayed.switch_attachments](postrow
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)
 
 ## Utilisations dans les templates
 

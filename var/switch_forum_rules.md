@@ -10,7 +10,15 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_forum_rules)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules)
+
+## Attributs
+### Attributs d'affichage
+* [L_FORUM_RULES](switch_forum_rules.L_FORUM_RULES.md#readme)
+* [RULE_MSG](switch_forum_rules.RULE_MSG.md#readme)
+### Attributs de boucle
+* [switch_forum_rule_image](switch_forum_rules.switch_forum_rule_image.md#readme)
+
 
 ## Utilisations dans les templates
 

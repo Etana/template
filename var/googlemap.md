@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/googlemap)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap)
+
+## Attributs
+### Attributs d'affichage
+* [U_GOOGLEMAP](googlemap.U_GOOGLEMAP.md#readme)
+
 
 ## Utilisations dans les templates
 

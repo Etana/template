@@ -1,7 +1,7 @@
 # Variable de boucle postrow.displayed.switch_signature
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.displayed](postrow.displayed.md).
+Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -12,7 +12,12 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
+
+## Attributs
+### Attributs d'affichage
+* [SIGNATURE](postrow.displayed.switch_signature.SIGNATURE.md#readme)
+
 
 ## Utilisations dans les templates
 

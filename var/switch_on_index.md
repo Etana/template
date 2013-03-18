@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_on_index)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index)
+
+## Attributs
+### Attributs de boucle
+* [switch_delete_cookies](switch_on_index.switch_delete_cookies.md#readme)
+
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle topics_list_box.row.no_topics
 
 ##Disponibilité
-Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md).
+Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -12,7 +12,13 @@ Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.no_topics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.no_topics)
+
+## Attributs
+### Attributs d'affichage
+* [COLSPAN](topics_list_box.row.no_topics.COLSPAN.md#readme)
+* [L_NO_TOPICS](topics_list_box.row.no_topics.L_NO_TOPICS.md#readme)
+
 
 ## Utilisations dans les templates
 

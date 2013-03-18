@@ -10,7 +10,13 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_delete_cookies)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_delete_cookies)
+
+## Attributs
+### Attributs d'affichage
+* [U_DELETE_COOKIES](switch_delete_cookies.U_DELETE_COOKIES.md#readme)
+* [L_DELETE_COOKIES](switch_delete_cookies.L_DELETE_COOKIES.md#readme)
+
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle googlemap.U_GOOGLEMAP
 
 ##Disponibilité
-Cette variable est un attribut de [googlemap](googlemap.md).
+Cette variable est un attribut de [googlemap](googlemap.md#readme).
 
 ```html
 <!-- BEGIN googlemap -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [googlemap](googlemap.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)
 
 ## Utilisations dans les templates
 

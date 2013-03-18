@@ -1,7 +1,7 @@
 # Variable de boucle giefmod_index1.MODVAR
 
 ##Disponibilité
-Cette variable est un attribut de [giefmod_index1](giefmod_index1.md).
+Cette variable est un attribut de [giefmod_index1](giefmod_index1.md#readme).
 
 ```html
 <!-- BEGIN giefmod_index1 -->

@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box)
+
+## Attributs
+### Attributs de boucle
+* [row](topics_list_box.row.md#readme)
+
 
 ## Utilisations dans les templates
 

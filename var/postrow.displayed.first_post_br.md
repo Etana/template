@@ -1,7 +1,7 @@
 # Variable de boucle postrow.displayed.first_post_br
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.displayed](postrow.displayed.md).
+Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -12,7 +12,13 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.first_post_br)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.first_post_br)
+
+## Attributs
+### Attributs d'affichage
+* [L_AUTHOR](postrow.displayed.first_post_br.L_AUTHOR.md#readme)
+* [L_MESSAGE](postrow.displayed.first_post_br.L_MESSAGE.md#readme)
+
 
 ## Utilisations dans les templates
 

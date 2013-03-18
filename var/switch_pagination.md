@@ -10,7 +10,13 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_pagination)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_pagination)
+
+## Attributs
+### Attributs d'affichage
+* [PAGE_NUMBER](switch_pagination.PAGE_NUMBER.md#readme)
+* [PAGINATION](switch_pagination.PAGINATION.md#readme)
+
 
 ## Utilisations dans les templates
 

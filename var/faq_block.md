@@ -10,7 +10,16 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/faq_block)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block)
+
+## Attributs
+### Attributs d'affichage
+* [BLOCK_TITLE](faq_block.BLOCK_TITLE.md#readme)
+* [BLOCK_TITLE](faq_block.BLOCK_TITLE.md#readme)
+### Attributs de boucle
+* [faq_row](faq_block.faq_row.md#readme)
+* [faq_row](faq_block.faq_row.md#readme)
+
 
 ## Utilisations dans les templates
 

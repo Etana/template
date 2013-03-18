@@ -1,7 +1,7 @@
 # Variable de boucle no_post.L_NO_POST
 
 ##Disponibilité
-Cette variable est un attribut de [no_post](no_post.md).
+Cette variable est un attribut de [no_post](no_post.md#readme).
 
 ```html
 <!-- BEGIN no_post -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [no_post](no_post.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/no_post.L_NO_POST)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_post.L_NO_POST)
 
 ## Utilisations dans les templates
 

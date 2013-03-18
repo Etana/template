@@ -10,7 +10,15 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_login_form_footer)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer)
+
+## Attributs
+### Attributs d'affichage
+* [S_LOGIN_ACTION](switch_user_login_form_footer.S_LOGIN_ACTION.md#readme)
+### Attributs de boucle
+* [switch_fb_connect_no](switch_user_login_form_footer.switch_fb_connect_no.md#readme)
+* [switch_fb_connect](switch_user_login_form_footer.switch_fb_connect.md#readme)
+
 
 ## Utilisations dans les templates
 

@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_compat_meta)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta)
+
+## Attributs
+### Attributs d'affichage
+* [VERSION](switch_compat_meta.VERSION.md#readme)
+
 
 ## Utilisations dans les templates
 

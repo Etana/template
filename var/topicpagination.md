@@ -10,7 +10,13 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topicpagination)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topicpagination)
+
+## Attributs
+### Attributs d'affichage
+* [PAGINATION](topicpagination.PAGINATION.md#readme)
+* [PAGINATION](topicpagination.PAGINATION.md#readme)
+
 
 ## Utilisations dans les templates
 

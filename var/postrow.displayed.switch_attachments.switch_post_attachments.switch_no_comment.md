@@ -1,7 +1,7 @@
 # Variable de boucle postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postrow.displayed.switch_attachments.switch_post_attachments.md).
+Cette variable est un attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postrow.displayed.switch_attachments.switch_post_attachments.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -16,7 +16,12 @@ Cette variable est un attribut de [postrow.displayed.switch_attachments.switch_p
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment)
+
+## Attributs
+### Attributs d'affichage
+* [ATTACHMENT_COMMENT](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT.md#readme)
+
 
 ## Utilisations dans les templates
 

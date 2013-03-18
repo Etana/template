@@ -1,7 +1,7 @@
 # Variable de boucle promot_trafic.link
 
 ##Disponibilité
-Cette variable est un attribut de [promot_trafic](promot_trafic.md).
+Cette variable est un attribut de [promot_trafic](promot_trafic.md#readme).
 
 ```html
 <!-- BEGIN promot_trafic -->
@@ -10,7 +10,14 @@ Cette variable est un attribut de [promot_trafic](promot_trafic.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/promot_trafic.link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link)
+
+## Attributs
+### Attributs d'affichage
+* [U_HREF](promot_trafic.link.U_HREF.md#readme)
+* [TITLE](promot_trafic.link.TITLE.md#readme)
+* [TITLE](promot_trafic.link.TITLE.md#readme)
+
 
 ## Utilisations dans les templates
 

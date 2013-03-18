@@ -1,7 +1,7 @@
 # Variable de boucle catrow.tablefoot
 
 ##Disponibilité
-Cette variable est un attribut de [catrow](catrow.md).
+Cette variable est un attribut de [catrow](catrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -10,7 +10,12 @@ Cette variable est un attribut de [catrow](catrow.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.tablefoot)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablefoot)
+
+## Attributs
+### Attributs d'affichage
+* [SPACER](catrow.tablefoot.SPACER.md#readme)
+
 
 ## Utilisations dans les templates
 

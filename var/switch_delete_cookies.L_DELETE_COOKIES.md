@@ -1,7 +1,7 @@
 # Variable de boucle switch_delete_cookies.L_DELETE_COOKIES
 
 ##Disponibilité
-Cette variable est un attribut de [switch_delete_cookies](switch_delete_cookies.md).
+Cette variable est un attribut de [switch_delete_cookies](switch_delete_cookies.md#readme).
 
 ```html
 <!-- BEGIN switch_delete_cookies -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_delete_cookies](switch_delete_cookies.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_delete_cookies.L_DELETE_COOKIES)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_delete_cookies.L_DELETE_COOKIES)
 
 ## Utilisations dans les templates
 

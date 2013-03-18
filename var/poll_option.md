@@ -10,7 +10,23 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/poll_option)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option)
+
+## Attributs
+### Attributs d'affichage
+* [POLL_OPTION_ID](poll_option.POLL_OPTION_ID.md#readme)
+* [POLL_TYPE_BUTTON](poll_option.POLL_TYPE_BUTTON.md#readme)
+* [POLL_OPTION_ID](poll_option.POLL_OPTION_ID.md#readme)
+* [POLL_OPTION_CAPTION](poll_option.POLL_OPTION_CAPTION.md#readme)
+* [POLL_OPTION_CAPTION](poll_option.POLL_OPTION_CAPTION.md#readme)
+* [VOTE_LCAP_IMG](poll_option.VOTE_LCAP_IMG.md#readme)
+* [POLL_OPTION_IMG](poll_option.POLL_OPTION_IMG.md#readme)
+* [POLL_OPTION_IMG_WIDTH](poll_option.POLL_OPTION_IMG_WIDTH.md#readme)
+* [POLL_OPTION_PERCENT](poll_option.POLL_OPTION_PERCENT.md#readme)
+* [VOTE_RCAP_IMG](poll_option.VOTE_RCAP_IMG.md#readme)
+* [POLL_OPTION_PERCENT](poll_option.POLL_OPTION_PERCENT.md#readme)
+* [POLL_OPTION_RESULT](poll_option.POLL_OPTION_RESULT.md#readme)
+
 
 ## Utilisations dans les templates
 

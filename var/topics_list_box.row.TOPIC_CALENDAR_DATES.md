@@ -1,7 +1,7 @@
 # Variable de boucle topics_list_box.row.TOPIC_CALENDAR_DATES
 
 ##Disponibilité
-Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md).
+Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.TOPIC_CALENDAR_DATES)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.TOPIC_CALENDAR_DATES)
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle switch_image_resize.IMG_RESIZE_HEIGHT
 
 ##Disponibilité
-Cette variable est un attribut de [switch_image_resize](switch_image_resize.md).
+Cette variable est un attribut de [switch_image_resize](switch_image_resize.md#readme).
 
 ```html
 <!-- BEGIN switch_image_resize -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_image_resize](switch_image_resize.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT)
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle giefmod_index2.MODVAR
 
 ##Disponibilité
-Cette variable est un attribut de [giefmod_index2](giefmod_index2.md).
+Cette variable est un attribut de [giefmod_index2](giefmod_index2.md#readme).
 
 ```html
 <!-- BEGIN giefmod_index2 -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [giefmod_index2](giefmod_index2.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)
 
 ## Utilisations dans les templates
 

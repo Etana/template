@@ -1,7 +1,7 @@
 # Variable de boucle searchresults.U_FORUM
 
 ##Disponibilité
-Cette variable est un attribut de [searchresults](searchresults.md).
+Cette variable est un attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [searchresults](searchresults.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.U_FORUM)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.U_FORUM)
 
 ## Utilisations dans les templates
 

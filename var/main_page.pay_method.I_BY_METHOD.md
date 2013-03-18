@@ -1,7 +1,7 @@
 # Variable de boucle main_page.pay_method.I_BY_METHOD
 
 ##Disponibilité
-Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md).
+Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md#readme).
 
 ```html
 <!-- BEGIN main_page -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [main_page.pay_method](main_page.pay_method.md
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
 
 ## Utilisations dans les templates
 

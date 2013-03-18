@@ -10,7 +10,7 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/html_validation)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/html_validation)
 
 ## Utilisations dans les templates
 

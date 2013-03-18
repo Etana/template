@@ -1,7 +1,7 @@
 # Variable de boucle giefmod_index1.saut
 
 ##Disponibilité
-Cette variable est un attribut de [giefmod_index1](giefmod_index1.md).
+Cette variable est un attribut de [giefmod_index1](giefmod_index1.md#readme).
 
 ```html
 <!-- BEGIN giefmod_index1 -->
@@ -10,7 +10,12 @@ Cette variable est un attribut de [giefmod_index1](giefmod_index1.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
+
+## Attributs
+### Attributs d'affichage
+* [SPACE_ROW](giefmod_index1.saut.SPACE_ROW.md#readme)
+
 
 ## Utilisations dans les templates
 

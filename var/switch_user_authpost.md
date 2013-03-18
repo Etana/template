@@ -10,7 +10,23 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_authpost)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authpost)
+
+## Attributs
+### Attributs d'affichage
+* [U_POST_NEW_TOPIC](switch_user_authpost.U_POST_NEW_TOPIC.md#readme)
+* [POST_IMG](switch_user_authpost.POST_IMG.md#readme)
+* [POST_IMG_ID](switch_user_authpost.POST_IMG_ID.md#readme)
+* [L_POST_NEW_TOPIC](switch_user_authpost.L_POST_NEW_TOPIC.md#readme)
+* [U_POST_NEW_TOPIC](switch_user_authpost.U_POST_NEW_TOPIC.md#readme)
+* [POST_IMG](switch_user_authpost.POST_IMG.md#readme)
+* [POST_IMG_ID](switch_user_authpost.POST_IMG_ID.md#readme)
+* [L_POST_NEW_TOPIC](switch_user_authpost.L_POST_NEW_TOPIC.md#readme)
+* [U_POST_NEW_TOPIC](switch_user_authpost.U_POST_NEW_TOPIC.md#readme)
+* [POST_IMG](switch_user_authpost.POST_IMG.md#readme)
+* [POST_IMG_ID](switch_user_authpost.POST_IMG_ID.md#readme)
+* [L_POST_NEW_TOPIC](switch_user_authpost.L_POST_NEW_TOPIC.md#readme)
+
 
 ## Utilisations dans les templates
 

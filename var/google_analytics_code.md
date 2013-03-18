@@ -10,7 +10,14 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/google_analytics_code)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code)
+
+## Attributs
+### Attributs d'affichage
+* [G_ANALYTICS_ID](google_analytics_code.G_ANALYTICS_ID.md#readme)
+### Attributs de boucle
+* [google_analytics_code_bis](google_analytics_code.google_analytics_code_bis.md#readme)
+
 
 ## Utilisations dans les templates
 

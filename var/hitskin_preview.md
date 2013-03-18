@@ -10,7 +10,15 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/hitskin_preview)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview)
+
+## Attributs
+### Attributs d'affichage
+* [L_THEME_SITE_PREVIEW](hitskin_preview.L_THEME_SITE_PREVIEW.md#readme)
+* [U_INSTALL_THEME](hitskin_preview.U_INSTALL_THEME.md#readme)
+* [U_RETURN_THEME](hitskin_preview.U_RETURN_THEME.md#readme)
+* [L_RETURN_THEME](hitskin_preview.L_RETURN_THEME.md#readme)
+
 
 ## Utilisations dans les templates
 

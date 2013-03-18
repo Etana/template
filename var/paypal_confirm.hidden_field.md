@@ -1,7 +1,7 @@
 # Variable de boucle paypal_confirm.hidden_field
 
 ##Disponibilité
-Cette variable est un attribut de [paypal_confirm](paypal_confirm.md).
+Cette variable est un attribut de [paypal_confirm](paypal_confirm.md#readme).
 
 ```html
 <!-- BEGIN paypal_confirm -->
@@ -10,7 +10,13 @@ Cette variable est un attribut de [paypal_confirm](paypal_confirm.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field)
+
+## Attributs
+### Attributs d'affichage
+* [NAME](paypal_confirm.hidden_field.NAME.md#readme)
+* [VALUE](paypal_confirm.hidden_field.VALUE.md#readme)
+
 
 ## Utilisations dans les templates
 

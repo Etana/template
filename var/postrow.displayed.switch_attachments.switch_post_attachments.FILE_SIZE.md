@@ -1,7 +1,7 @@
 # Variable de boucle postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postrow.displayed.switch_attachments.switch_post_attachments.md).
+Cette variable est un attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postrow.displayed.switch_attachments.switch_post_attachments.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -16,7 +16,7 @@ Cette variable est un attribut de [postrow.displayed.switch_attachments.switch_p
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE)
 
 ## Utilisations dans les templates
 

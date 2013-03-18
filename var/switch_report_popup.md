@@ -10,7 +10,14 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_report_popup)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup)
+
+## Attributs
+### Attributs d'affichage
+* [U_REPORT_POPUP](switch_report_popup.U_REPORT_POPUP.md#readme)
+* [S_HEIGHT](switch_report_popup.S_HEIGHT.md#readme)
+* [S_WIDTH](switch_report_popup.S_WIDTH.md#readme)
+
 
 ## Utilisations dans les templates
 

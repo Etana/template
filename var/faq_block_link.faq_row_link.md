@@ -1,7 +1,7 @@
 # Variable de boucle faq_block_link.faq_row_link
 
 ##Disponibilité
-Cette variable est un attribut de [faq_block_link](faq_block_link.md).
+Cette variable est un attribut de [faq_block_link](faq_block_link.md#readme).
 
 ```html
 <!-- BEGIN faq_block_link -->
@@ -10,7 +10,13 @@ Cette variable est un attribut de [faq_block_link](faq_block_link.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)
+
+## Attributs
+### Attributs d'affichage
+* [U_FAQ_LINK](faq_block_link.faq_row_link.U_FAQ_LINK.md#readme)
+* [FAQ_LINK](faq_block_link.faq_row_link.FAQ_LINK.md#readme)
+
 
 ## Utilisations dans les templates
 

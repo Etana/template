@@ -8,7 +8,7 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/U_TELLFRIEND_JS_PLUS_MENU)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_TELLFRIEND_JS_PLUS_MENU)
 
 ## Utilisations dans les templates
 

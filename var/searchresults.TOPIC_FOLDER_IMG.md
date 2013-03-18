@@ -1,7 +1,7 @@
 # Variable de boucle searchresults.TOPIC_FOLDER_IMG
 
 ##Disponibilité
-Cette variable est un attribut de [searchresults](searchresults.md).
+Cette variable est un attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [searchresults](searchresults.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle disable_viewonline.switch_chatbox_activate.switch_chatbox_popup
 
 ##Disponibilité
-Cette variable est un attribut de [disable_viewonline.switch_chatbox_activate](disable_viewonline.switch_chatbox_activate.md).
+Cette variable est un attribut de [disable_viewonline.switch_chatbox_activate](disable_viewonline.switch_chatbox_activate.md#readme).
 
 ```html
 <!-- BEGIN disable_viewonline -->
@@ -12,7 +12,13 @@ Cette variable est un attribut de [disable_viewonline.switch_chatbox_activate](d
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup)
+
+## Attributs
+### Attributs d'affichage
+* [U_FRAME_CHATBOX](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX.md#readme)
+* [L_CLICK_TO_JOIN_CHAT](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.L_CLICK_TO_JOIN_CHAT.md#readme)
+
 
 ## Utilisations dans les templates
 

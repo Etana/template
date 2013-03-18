@@ -1,7 +1,7 @@
 # Variable de boucle poll_option.POLL_TYPE_BUTTON
 
 ##Disponibilité
-Cette variable est un attribut de [poll_option](poll_option.md).
+Cette variable est un attribut de [poll_option](poll_option.md#readme).
 
 ```html
 <!-- BEGIN poll_option -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [poll_option](poll_option.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/poll_option.POLL_TYPE_BUTTON)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_TYPE_BUTTON)
 
 ## Utilisations dans les templates
 

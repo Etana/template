@@ -10,7 +10,13 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_select_name)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_select_name)
+
+## Attributs
+### Attributs d'affichage
+* [S_USERNAME_OPTIONS](switch_select_name.S_USERNAME_OPTIONS.md#readme)
+* [L_SELECT](switch_select_name.L_SELECT.md#readme)
+
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle topics_list_box.FIELDNAME
 
 ##Disponibilité
-Cette variable est un attribut de [topics_list_box](topics_list_box.md).
+Cette variable est un attribut de [topics_list_box](topics_list_box.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [topics_list_box](topics_list_box.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.FIELDNAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.FIELDNAME)
 
 ## Utilisations dans les templates
 

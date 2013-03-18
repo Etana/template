@@ -1,7 +1,7 @@
 # Variable de boucle moderation_panel.U_YOUR_PERSONAL_MODERATE
 
 ##Disponibilité
-Cette variable est un attribut de [moderation_panel](moderation_panel.md).
+Cette variable est un attribut de [moderation_panel](moderation_panel.md#readme).
 
 ```html
 <!-- BEGIN moderation_panel -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [moderation_panel](moderation_panel.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/moderation_panel.U_YOUR_PERSONAL_MODERATE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel.U_YOUR_PERSONAL_MODERATE)
 
 ## Utilisations dans les templates
 

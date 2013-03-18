@@ -10,7 +10,22 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker)
+
+## Attributs
+### Attributs d'affichage
+* [JS_DIR](switch_ticker.JS_DIR.md#readme)
+* [JS_DIR](switch_ticker.JS_DIR.md#readme)
+* [HEIGHT](switch_ticker.HEIGHT.md#readme)
+* [SPACING](switch_ticker.SPACING.md#readme)
+* [SPEED](switch_ticker.SPEED.md#readme)
+* [DIRECTION](switch_ticker.DIRECTION.md#readme)
+* [STOP_TIME](switch_ticker.STOP_TIME.md#readme)
+* [CLASS_TABLE_TYPE](switch_ticker.CLASS_TABLE_TYPE.md#readme)
+* [HEIGHT](switch_ticker.HEIGHT.md#readme)
+### Attributs de boucle
+* [ticker_row](switch_ticker.ticker_row.md#readme)
+
 
 ## Utilisations dans les templates
 

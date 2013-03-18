@@ -10,7 +10,14 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/watchsearch1)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/watchsearch1)
+
+## Attributs
+### Attributs d'affichage
+* [L_STOP_WATCH](watchsearch1.L_STOP_WATCH.md#readme)
+* [L_MARK_ALL](watchsearch1.L_MARK_ALL.md#readme)
+* [L_UNMARK_ALL](watchsearch1.L_UNMARK_ALL.md#readme)
+
 
 ## Utilisations dans les templates
 

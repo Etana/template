@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_canonical_url)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_canonical_url)
+
+## Attributs
+### Attributs d'affichage
+* [CANONICAL_URL](switch_canonical_url.CANONICAL_URL.md#readme)
+
 
 ## Utilisations dans les templates
 

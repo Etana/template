@@ -1,7 +1,7 @@
 # Variable de boucle topics_list_box.row.header_table.pagination
 
 ##Disponibilité
-Cette variable est un attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.md).
+Cette variable est un attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -14,7 +14,12 @@ Cette variable est un attribut de [topics_list_box.row.header_table](topics_list
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.pagination)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.pagination)
+
+## Attributs
+### Attributs d'affichage
+* [PAGINATION](topics_list_box.row.header_table.pagination.PAGINATION.md#readme)
+
 
 ## Utilisations dans les templates
 

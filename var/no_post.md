@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/no_post)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_post)
+
+## Attributs
+### Attributs d'affichage
+* [L_NO_POST](no_post.L_NO_POST.md#readme)
+
 
 ## Utilisations dans les templates
 

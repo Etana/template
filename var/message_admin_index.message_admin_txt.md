@@ -1,7 +1,7 @@
 # Variable de boucle message_admin_index.message_admin_txt
 
 ##Disponibilité
-Cette variable est un attribut de [message_admin_index](message_admin_index.md).
+Cette variable est un attribut de [message_admin_index](message_admin_index.md#readme).
 
 ```html
 <!-- BEGIN message_admin_index -->
@@ -10,7 +10,12 @@ Cette variable est un attribut de [message_admin_index](message_admin_index.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
+
+## Attributs
+### Attributs d'affichage
+* [MES_TXT](message_admin_index.message_admin_txt.MES_TXT.md#readme)
+
 
 ## Utilisations dans les templates
 

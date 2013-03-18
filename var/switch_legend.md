@@ -10,7 +10,47 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_legend)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_legend)
+
+## Attributs
+### Attributs d'affichage
+* [FORUM_NEW_IMG](switch_legend.FORUM_NEW_IMG.md#readme)
+* [L_NEW_POSTS](switch_legend.L_NEW_POSTS.md#readme)
+* [L_NEW_POSTS](switch_legend.L_NEW_POSTS.md#readme)
+* [FORUM_IMG](switch_legend.FORUM_IMG.md#readme)
+* [L_NO_NEW_POSTS](switch_legend.L_NO_NEW_POSTS.md#readme)
+* [L_NO_NEW_POSTS](switch_legend.L_NO_NEW_POSTS.md#readme)
+* [FORUM_LOCKED_IMG](switch_legend.FORUM_LOCKED_IMG.md#readme)
+* [L_FORUM_LOCKED](switch_legend.L_FORUM_LOCKED.md#readme)
+* [L_FORUM_LOCKED](switch_legend.L_FORUM_LOCKED.md#readme)
+* [FOLDER_NEW_IMG](switch_legend.FOLDER_NEW_IMG.md#readme)
+* [L_FOLDER_NEW_IMG](switch_legend.L_FOLDER_NEW_IMG.md#readme)
+* [L_FOLDER_NEW_IMG](switch_legend.L_FOLDER_NEW_IMG.md#readme)
+* [FOLDER_HOT_NEW_IMG](switch_legend.FOLDER_HOT_NEW_IMG.md#readme)
+* [L_FOLDER_HOT_NEW_IMG](switch_legend.L_FOLDER_HOT_NEW_IMG.md#readme)
+* [L_FOLDER_HOT_NEW_IMG](switch_legend.L_FOLDER_HOT_NEW_IMG.md#readme)
+* [FOLDER_LOCKED_NEW_IMG](switch_legend.FOLDER_LOCKED_NEW_IMG.md#readme)
+* [L_FOLDER_LOCKED_NEW_IMG](switch_legend.L_FOLDER_LOCKED_NEW_IMG.md#readme)
+* [L_FOLDER_LOCKED_NEW_IMG](switch_legend.L_FOLDER_LOCKED_NEW_IMG.md#readme)
+* [FOLDER_IMG](switch_legend.FOLDER_IMG.md#readme)
+* [L_FOLDER_IMG](switch_legend.L_FOLDER_IMG.md#readme)
+* [L_FOLDER_IMG](switch_legend.L_FOLDER_IMG.md#readme)
+* [FOLDER_HOT_IMG](switch_legend.FOLDER_HOT_IMG.md#readme)
+* [L_FOLDER_HOT_IMG](switch_legend.L_FOLDER_HOT_IMG.md#readme)
+* [L_FOLDER_HOT_IMG](switch_legend.L_FOLDER_HOT_IMG.md#readme)
+* [FOLDER_LOCKED_IMG](switch_legend.FOLDER_LOCKED_IMG.md#readme)
+* [L_FOLDER_LOCKED_IMG](switch_legend.L_FOLDER_LOCKED_IMG.md#readme)
+* [L_FOLDER_LOCKED_IMG](switch_legend.L_FOLDER_LOCKED_IMG.md#readme)
+* [FOLDER_ANNOUNCE_IMG](switch_legend.FOLDER_ANNOUNCE_IMG.md#readme)
+* [L_FOLDER_ANNOUNCE_IMG](switch_legend.L_FOLDER_ANNOUNCE_IMG.md#readme)
+* [L_FOLDER_ANNOUNCE_IMG](switch_legend.L_FOLDER_ANNOUNCE_IMG.md#readme)
+* [FOLDER_GLOBAL_ANNOUNCE_IMG](switch_legend.FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)
+* [L_FOLDER_GLOBAL_ANNOUNCE_IMG](switch_legend.L_FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)
+* [L_FOLDER_GLOBAL_ANNOUNCE_IMG](switch_legend.L_FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)
+* [FOLDER_STICKY_IMG](switch_legend.FOLDER_STICKY_IMG.md#readme)
+* [L_FOLDER_STICKY_IMG](switch_legend.L_FOLDER_STICKY_IMG.md#readme)
+* [L_FOLDER_STICKY_IMG](switch_legend.L_FOLDER_STICKY_IMG.md#readme)
+
 
 ## Utilisations dans les templates
 

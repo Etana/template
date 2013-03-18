@@ -10,7 +10,7 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_twitter_btn)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_twitter_btn)
 
 ## Utilisations dans les templates
 

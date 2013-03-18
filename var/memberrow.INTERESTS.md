@@ -1,7 +1,7 @@
 # Variable de boucle memberrow.INTERESTS
 
 ##Disponibilité
-Cette variable est un attribut de [memberrow](memberrow.md).
+Cette variable est un attribut de [memberrow](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [memberrow](memberrow.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.INTERESTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.INTERESTS)
 
 ## Utilisations dans les templates
 

@@ -8,7 +8,7 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/CLASS_TABLE_TYPE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/CLASS_TABLE_TYPE)
 
 ## Utilisations dans les templates
 

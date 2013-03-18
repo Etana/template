@@ -1,7 +1,7 @@
 # Variable de boucle switch_facebook_logout.SERVER_NAME
 
 ##Disponibilité
-Cette variable est un attribut de [switch_facebook_logout](switch_facebook_logout.md).
+Cette variable est un attribut de [switch_facebook_logout](switch_facebook_logout.md#readme).
 
 ```html
 <!-- BEGIN switch_facebook_logout -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_facebook_logout](switch_facebook_logou
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_facebook_logout.SERVER_NAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_logout.SERVER_NAME)
 
 ## Utilisations dans les templates
 

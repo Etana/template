@@ -1,7 +1,7 @@
 # Variable de boucle switch_no_user.COLSPAN_NUMBER
 
 ##Disponibilité
-Cette variable est un attribut de [switch_no_user](switch_no_user.md).
+Cette variable est un attribut de [switch_no_user](switch_no_user.md#readme).
 
 ```html
 <!-- BEGIN switch_no_user -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_no_user](switch_no_user.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
 
 ## Utilisations dans les templates
 

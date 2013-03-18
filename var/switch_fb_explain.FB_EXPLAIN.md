@@ -1,7 +1,7 @@
 # Variable de boucle switch_fb_explain.FB_EXPLAIN
 
 ##Disponibilité
-Cette variable est un attribut de [switch_fb_explain](switch_fb_explain.md).
+Cette variable est un attribut de [switch_fb_explain](switch_fb_explain.md#readme).
 
 ```html
 <!-- BEGIN switch_fb_explain -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_fb_explain](switch_fb_explain.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN)
 
 ## Utilisations dans les templates
 

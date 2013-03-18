@@ -1,7 +1,7 @@
 # Variable de boucle postrow.displayed.profile_field.CONTENT
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.displayed.profile_field](postrow.displayed.profile_field.md).
+Cette variable est un attribut de [postrow.displayed.profile_field](postrow.displayed.profile_field.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -14,7 +14,7 @@ Cette variable est un attribut de [postrow.displayed.profile_field](postrow.disp
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.CONTENT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.CONTENT)
 
 ## Utilisations dans les templates
 

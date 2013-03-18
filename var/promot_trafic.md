@@ -10,7 +10,17 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/promot_trafic)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic)
+
+## Attributs
+### Attributs d'affichage
+* [PROMOT_TRAFIC_TITLE](promot_trafic.PROMOT_TRAFIC_TITLE.md#readme)
+* [TABS_MORE_IMG](promot_trafic.TABS_MORE_IMG.md#readme)
+* [PROMOT_TRAFIC_TITLE](promot_trafic.PROMOT_TRAFIC_TITLE.md#readme)
+* [TABS_LESS_IMG](promot_trafic.TABS_LESS_IMG.md#readme)
+### Attributs de boucle
+* [link](promot_trafic.link.md#readme)
+
 
 ## Utilisations dans les templates
 

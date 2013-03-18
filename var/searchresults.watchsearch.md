@@ -1,7 +1,7 @@
 # Variable de boucle searchresults.watchsearch
 
 ##Disponibilité
-Cette variable est un attribut de [searchresults](searchresults.md).
+Cette variable est un attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -10,7 +10,12 @@ Cette variable est un attribut de [searchresults](searchresults.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
+
+## Attributs
+### Attributs d'affichage
+* [TOPIC_ID](searchresults.watchsearch.TOPIC_ID.md#readme)
+
 
 ## Utilisations dans les templates
 

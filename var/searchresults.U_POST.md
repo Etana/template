@@ -1,7 +1,7 @@
 # Variable de boucle searchresults.U_POST
 
 ##Disponibilité
-Cette variable est un attribut de [searchresults](searchresults.md).
+Cette variable est un attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [searchresults](searchresults.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.U_POST)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.U_POST)
 
 ## Utilisations dans les templates
 

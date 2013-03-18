@@ -1,7 +1,7 @@
 # Variable de boucle postrow.displayed.POST_SUBJECT
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.displayed](postrow.displayed.md).
+Cette variable est un attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [postrow.displayed](postrow.displayed.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT)
 
 ## Utilisations dans les templates
 

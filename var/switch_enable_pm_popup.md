@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
+
+## Attributs
+### Attributs d'affichage
+* [U_PRIVATEMSGS_POPUP](switch_enable_pm_popup.U_PRIVATEMSGS_POPUP.md#readme)
+
 
 ## Utilisations dans les templates
 

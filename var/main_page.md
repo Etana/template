@@ -10,7 +10,17 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/main_page)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page)
+
+## Attributs
+### Attributs d'affichage
+* [L_TERMS_OF_SERVICE](main_page.L_TERMS_OF_SERVICE.md#readme)
+* [TERMS_OF_SERVICE](main_page.TERMS_OF_SERVICE.md#readme)
+* [L_CREDIT_ADD_TITLE](main_page.L_CREDIT_ADD_TITLE.md#readme)
+* [L_MAKE_DONATION](main_page.L_MAKE_DONATION.md#readme)
+### Attributs de boucle
+* [pay_method](main_page.pay_method.md#readme)
+
 
 ## Utilisations dans les templates
 

@@ -10,7 +10,16 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow)
+
+## Attributs
+### Attributs de boucle
+* [tablehead](catrow.tablehead.md#readme)
+* [cathead](catrow.cathead.md#readme)
+* [forumrow](catrow.forumrow.md#readme)
+* [catfoot](catrow.catfoot.md#readme)
+* [tablefoot](catrow.tablefoot.md#readme)
+
 
 ## Utilisations dans les templates
 

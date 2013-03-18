@@ -1,7 +1,7 @@
 # Variable de boucle guest_user_row.USERNAME
 
 ##Disponibilité
-Cette variable est un attribut de [guest_user_row](guest_user_row.md).
+Cette variable est un attribut de [guest_user_row](guest_user_row.md#readme).
 
 ```html
 <!-- BEGIN guest_user_row -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [guest_user_row](guest_user_row.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/guest_user_row.USERNAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row.USERNAME)
 
 ## Utilisations dans les templates
 

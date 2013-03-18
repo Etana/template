@@ -1,7 +1,7 @@
 # Variable de boucle faq_block.faq_row
 
 ##Disponibilité
-Cette variable est un attribut de [faq_block](faq_block.md).
+Cette variable est un attribut de [faq_block](faq_block.md#readme).
 
 ```html
 <!-- BEGIN faq_block -->
@@ -10,7 +10,22 @@ Cette variable est un attribut de [faq_block](faq_block.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/faq_block.faq_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
+
+## Attributs
+### Attributs d'affichage
+* [ROW_CLASS](faq_block.faq_row.ROW_CLASS.md#readme)
+* [U_FAQ_ID](faq_block.faq_row.U_FAQ_ID.md#readme)
+* [FAQ_QUESTION](faq_block.faq_row.FAQ_QUESTION.md#readme)
+* [FAQ_ANSWER](faq_block.faq_row.FAQ_ANSWER.md#readme)
+* [L_BACK_TO_TOP](faq_block.faq_row.L_BACK_TO_TOP.md#readme)
+* [ROW_CLASS](faq_block.faq_row.ROW_CLASS.md#readme)
+* [U_FAQ_ID](faq_block.faq_row.U_FAQ_ID.md#readme)
+* [U_FAQ_ID](faq_block.faq_row.U_FAQ_ID.md#readme)
+* [FAQ_QUESTION](faq_block.faq_row.FAQ_QUESTION.md#readme)
+* [U_FAQ_ID](faq_block.faq_row.U_FAQ_ID.md#readme)
+* [FAQ_ANSWER](faq_block.faq_row.FAQ_ANSWER.md#readme)
+
 
 ## Utilisations dans les templates
 

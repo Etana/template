@@ -20,6 +20,25 @@ contenu que l'utilisateur verra si il est connecté
 <!-- END switch_user_logged_in -->
 ```
 
+## Attributs
+### Attributs d'affichage
+* [U_MARK_READ](switch_user_logged_in.U_MARK_READ.md#readme)
+* [L_MARK_FORUMS_READ](switch_user_logged_in.L_MARK_FORUMS_READ.md#readme)
+* [LAST_VISIT_DATE](switch_user_logged_in.LAST_VISIT_DATE.md#readme)
+* [CURRENT_TIME](switch_user_logged_in.CURRENT_TIME.md#readme)
+* [U_SEARCH_NEW](switch_user_logged_in.U_SEARCH_NEW.md#readme)
+* [L_SEARCH_NEW](switch_user_logged_in.L_SEARCH_NEW.md#readme)
+* [U_SEARCH_SELF](switch_user_logged_in.U_SEARCH_SELF.md#readme)
+* [L_SEARCH_SELF](switch_user_logged_in.L_SEARCH_SELF.md#readme)
+* [U_POST_NEW_TOPIC](switch_user_logged_in.U_POST_NEW_TOPIC.md#readme)
+* [POST_IMG](switch_user_logged_in.POST_IMG.md#readme)
+* [POST_IMG_ID](switch_user_logged_in.POST_IMG_ID.md#readme)
+* [L_POST_NEW_TOPIC](switch_user_logged_in.L_POST_NEW_TOPIC.md#readme)
+* [QUICK_REPLY_FORM](switch_user_logged_in.QUICK_REPLY_FORM.md#readme)
+### Attributs de boucle
+* [watchtopic](switch_user_logged_in.watchtopic.md#readme)
+
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

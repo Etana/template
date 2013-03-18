@@ -10,7 +10,14 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_logo_right)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_logo_right)
+
+## Attributs
+### Attributs d'affichage
+* [U_INDEX](switch_logo_right.U_INDEX.md#readme)
+* [LOGO](switch_logo_right.LOGO.md#readme)
+* [L_INDEX](switch_logo_right.L_INDEX.md#readme)
+
 
 ## Utilisations dans les templates
 

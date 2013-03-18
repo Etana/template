@@ -1,7 +1,7 @@
 # Variable de boucle switch_user_login_form_footer.switch_fb_connect_no
 
 ##Disponibilité
-Cette variable est un attribut de [switch_user_login_form_footer](switch_user_login_form_footer.md).
+Cette variable est un attribut de [switch_user_login_form_footer](switch_user_login_form_footer.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_footer -->
@@ -10,7 +10,17 @@ Cette variable est un attribut de [switch_user_login_form_footer](switch_user_lo
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect_no)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect_no)
+
+## Attributs
+### Attributs d'affichage
+* [L_USERNAME](switch_user_login_form_footer.switch_fb_connect_no.L_USERNAME.md#readme)
+* [AUTOLOGIN_CHECKED](switch_user_login_form_footer.switch_fb_connect_no.AUTOLOGIN_CHECKED.md#readme)
+* [L_AUTO_LOGIN](switch_user_login_form_footer.switch_fb_connect_no.L_AUTO_LOGIN.md#readme)
+* [L_PASSWORD](switch_user_login_form_footer.switch_fb_connect_no.L_PASSWORD.md#readme)
+* [S_HIDDEN_FIELDS](switch_user_login_form_footer.switch_fb_connect_no.S_HIDDEN_FIELDS.md#readme)
+* [L_LOGIN](switch_user_login_form_footer.switch_fb_connect_no.L_LOGIN.md#readme)
+
 
 ## Utilisations dans les templates
 

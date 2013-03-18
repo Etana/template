@@ -1,7 +1,7 @@
 # Variable de boucle postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.displayed.switch_vote_active.switch_bar](postrow.displayed.switch_vote_active.switch_bar.md).
+Cette variable est un attribut de [postrow.displayed.switch_vote_active.switch_bar](postrow.displayed.switch_vote_active.switch_bar.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -16,7 +16,12 @@ Cette variable est un attribut de [postrow.displayed.switch_vote_active.switch_b
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus)
+
+## Attributs
+### Attributs d'affichage
+* [HEIGHT_MINUS](postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS.md#readme)
+
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle message_admin_index.message_admin_txt.MES_TXT
 
 ##Disponibilité
-Cette variable est un attribut de [message_admin_index.message_admin_txt](message_admin_index.message_admin_txt.md).
+Cette variable est un attribut de [message_admin_index.message_admin_txt](message_admin_index.message_admin_txt.md#readme).
 
 ```html
 <!-- BEGIN message_admin_index -->

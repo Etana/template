@@ -1,7 +1,7 @@
 # Variable de boucle switch_footer_links.footer_link.L_FOOTER_LINK_TITLE
 
 ##Disponibilité
-Cette variable est un attribut de [switch_footer_links.footer_link](switch_footer_links.footer_link.md).
+Cette variable est un attribut de [switch_footer_links.footer_link](switch_footer_links.footer_link.md#readme).
 
 ```html
 <!-- BEGIN switch_footer_links -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [switch_footer_links.footer_link](switch_foote
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE)
 
 ## Utilisations dans les templates
 

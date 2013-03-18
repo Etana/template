@@ -1,7 +1,7 @@
 # Variable de boucle hitskin_preview.U_INSTALL_THEME
 
 ##Disponibilité
-Cette variable est un attribut de [hitskin_preview](hitskin_preview.md).
+Cette variable est un attribut de [hitskin_preview](hitskin_preview.md#readme).
 
 ```html
 <!-- BEGIN hitskin_preview -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [hitskin_preview](hitskin_preview.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/hitskin_preview.U_INSTALL_THEME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview.U_INSTALL_THEME)
 
 ## Utilisations dans les templates
 

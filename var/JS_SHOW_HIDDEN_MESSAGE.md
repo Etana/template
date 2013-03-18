@@ -8,7 +8,7 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)
 
 ## Utilisations dans les templates
 

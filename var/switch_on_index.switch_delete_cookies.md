@@ -1,7 +1,7 @@
 # Variable de boucle switch_on_index.switch_delete_cookies
 
 ##Disponibilité
-Cette variable est un attribut de [switch_on_index](switch_on_index.md).
+Cette variable est un attribut de [switch_on_index](switch_on_index.md#readme).
 
 ```html
 <!-- BEGIN switch_on_index -->
@@ -10,7 +10,13 @@ Cette variable est un attribut de [switch_on_index](switch_on_index.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
+
+## Attributs
+### Attributs d'affichage
+* [U_DELETE_COOKIES](switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme)
+* [L_DELETE_COOKIES](switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)
+
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle switch_ticker.SPACING
 
 ##Disponibilité
-Cette variable est un attribut de [switch_ticker](switch_ticker.md).
+Cette variable est un attribut de [switch_ticker](switch_ticker.md#readme).
 
 ```html
 <!-- BEGIN switch_ticker -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [switch_ticker](switch_ticker.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
 
 ## Utilisations dans les templates
 

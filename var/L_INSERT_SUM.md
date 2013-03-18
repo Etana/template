@@ -8,7 +8,7 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_INSERT_SUM)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_INSERT_SUM)
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle searchresults.GOTO_PAGE
 
 ##Disponibilité
-Cette variable est un attribut de [searchresults](searchresults.md).
+Cette variable est un attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
@@ -10,7 +10,7 @@ Cette variable est un attribut de [searchresults](searchresults.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
 
 ## Utilisations dans les templates
 

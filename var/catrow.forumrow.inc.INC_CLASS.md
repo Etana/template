@@ -1,7 +1,7 @@
 # Variable de boucle catrow.forumrow.inc.INC_CLASS
 
 ##Disponibilité
-Cette variable est un attribut de [catrow.forumrow.inc](catrow.forumrow.inc.md).
+Cette variable est un attribut de [catrow.forumrow.inc](catrow.forumrow.inc.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -14,7 +14,7 @@ Cette variable est un attribut de [catrow.forumrow.inc](catrow.forumrow.inc.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/catrow.forumrow.inc.INC_CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc.INC_CLASS)
 
 ## Utilisations dans les templates
 

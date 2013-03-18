@@ -1,7 +1,7 @@
 # Variable de boucle topics_list_box.row.NEWEST_POST_IMG
 
 ##Disponibilité
-Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md).
+Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.NEWEST_POST_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.NEWEST_POST_IMG)
 
 ## Utilisations dans les templates
 

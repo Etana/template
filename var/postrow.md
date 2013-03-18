@@ -10,7 +10,13 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow)
+
+## Attributs
+### Attributs de boucle
+* [hidden](postrow.hidden.md#readme)
+* [displayed](postrow.displayed.md#readme)
+
 
 ## Utilisations dans les templates
 

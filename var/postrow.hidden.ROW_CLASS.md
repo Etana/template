@@ -1,7 +1,7 @@
 # Variable de boucle postrow.hidden.ROW_CLASS
 
 ##Disponibilité
-Cette variable est un attribut de [postrow.hidden](postrow.hidden.md).
+Cette variable est un attribut de [postrow.hidden](postrow.hidden.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [postrow.hidden](postrow.hidden.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/postrow.hidden.ROW_CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.hidden.ROW_CLASS)
 
 ## Utilisations dans les templates
 

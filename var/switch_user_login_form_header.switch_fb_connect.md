@@ -1,7 +1,7 @@
 # Variable de boucle switch_user_login_form_header.switch_fb_connect
 
 ##Disponibilité
-Cette variable est un attribut de [switch_user_login_form_header](switch_user_login_form_header.md).
+Cette variable est un attribut de [switch_user_login_form_header](switch_user_login_form_header.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_header -->
@@ -10,7 +10,20 @@ Cette variable est un attribut de [switch_user_login_form_header](switch_user_lo
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect)
+
+## Attributs
+### Attributs d'affichage
+* [L_USERNAME](switch_user_login_form_header.switch_fb_connect.L_USERNAME.md#readme)
+* [AUTOLOGIN_CHECKED](switch_user_login_form_header.switch_fb_connect.AUTOLOGIN_CHECKED.md#readme)
+* [L_AUTO_LOGIN](switch_user_login_form_header.switch_fb_connect.L_AUTO_LOGIN.md#readme)
+* [L_PASSWORD](switch_user_login_form_header.switch_fb_connect.L_PASSWORD.md#readme)
+* [S_HIDDEN_FIELDS](switch_user_login_form_header.switch_fb_connect.S_HIDDEN_FIELDS.md#readme)
+* [L_LOGIN](switch_user_login_form_header.switch_fb_connect.L_LOGIN.md#readme)
+* [L_OR](switch_user_login_form_header.switch_fb_connect.L_OR.md#readme)
+* [L_FB_PERMISSIONS](switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS.md#readme)
+* [L_FB_LOGIN_BUTTON](switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)
+
 
 ## Utilisations dans les templates
 

@@ -1,7 +1,7 @@
 # Variable de boucle memberrow.switch_td_group
 
 ##Disponibilité
-Cette variable est un attribut de [memberrow](memberrow.md).
+Cette variable est un attribut de [memberrow](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->
@@ -10,7 +10,13 @@ Cette variable est un attribut de [memberrow](memberrow.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
+
+## Attributs
+### Attributs d'affichage
+* [ROW_CLASS](memberrow.switch_td_group.ROW_CLASS.md#readme)
+* [GROUPS](memberrow.switch_td_group.GROUPS.md#readme)
+
 
 ## Utilisations dans les templates
 

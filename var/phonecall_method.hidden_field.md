@@ -1,7 +1,7 @@
 # Variable de boucle phonecall_method.hidden_field
 
 ##Disponibilité
-Cette variable est un attribut de [phonecall_method](phonecall_method.md).
+Cette variable est un attribut de [phonecall_method](phonecall_method.md#readme).
 
 ```html
 <!-- BEGIN phonecall_method -->
@@ -10,7 +10,13 @@ Cette variable est un attribut de [phonecall_method](phonecall_method.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)
+
+## Attributs
+### Attributs d'affichage
+* [NAME](phonecall_method.hidden_field.NAME.md#readme)
+* [VALUE](phonecall_method.hidden_field.VALUE.md#readme)
+
 
 ## Utilisations dans les templates
 

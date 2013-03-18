@@ -10,7 +10,12 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_footer_links)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links)
+
+## Attributs
+### Attributs de boucle
+* [footer_link](switch_footer_links.footer_link.md#readme)
+
 
 ## Utilisations dans les templates
 

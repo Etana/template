@@ -1,7 +1,7 @@
 # Variable de boucle topics_list_box.row.header_table
 
 ##Disponibilité
-Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md).
+Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -12,7 +12,21 @@ Cette variable est un attribut de [topics_list_box.row](topics_list_box.row.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)
+
+## Attributs
+### Attributs d'affichage
+* [COLSPAN](topics_list_box.row.header_table.COLSPAN.md#readme)
+* [L_TITLE](topics_list_box.row.header_table.L_TITLE.md#readme)
+* [L_REPLIES](topics_list_box.row.header_table.L_REPLIES.md#readme)
+* [L_AUTHOR](topics_list_box.row.header_table.L_AUTHOR.md#readme)
+* [L_VIEWS](topics_list_box.row.header_table.L_VIEWS.md#readme)
+* [L_LASTPOST](topics_list_box.row.header_table.L_LASTPOST.md#readme)
+### Attributs de boucle
+* [multi_selection](topics_list_box.row.header_table.multi_selection.md#readme)
+* [multi_selection](topics_list_box.row.header_table.multi_selection.md#readme)
+* [pagination](topics_list_box.row.header_table.pagination.md#readme)
+
 
 ## Utilisations dans les templates
 

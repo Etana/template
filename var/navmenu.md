@@ -10,7 +10,14 @@ Cette variable est utilisable directement dans une boucle.
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/navmenu)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navmenu)
+
+## Attributs
+### Attributs d'affichage
+* [U_INDEX](navmenu.U_INDEX.md#readme)
+* [L_INDEX](navmenu.L_INDEX.md#readme)
+* [L_SEARCH_TITLE](navmenu.L_SEARCH_TITLE.md#readme)
+
 
 ## Utilisations dans les templates
 

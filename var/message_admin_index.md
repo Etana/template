@@ -14,6 +14,12 @@ Boucle contenant le message d'accueil.
 
 * __Code :__ [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](message_admin_index.md#readme)
 
+## Attributs
+### Attributs de boucle
+* [message_admin_titre](message_admin_index.message_admin_titre.md#readme)
+* [message_admin_txt](message_admin_index.message_admin_txt.md#readme)
+
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

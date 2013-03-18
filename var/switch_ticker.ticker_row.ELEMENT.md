@@ -1,7 +1,7 @@
 # Variable de boucle switch_ticker.ticker_row.ELEMENT
 
 ##Disponibilité
-Cette variable est un attribut de [switch_ticker.ticker_row](switch_ticker.ticker_row.md).
+Cette variable est un attribut de [switch_ticker.ticker_row](switch_ticker.ticker_row.md#readme).
 
 ```html
 <!-- BEGIN switch_ticker -->
@@ -12,7 +12,7 @@ Cette variable est un attribut de [switch_ticker.ticker_row](switch_ticker.ticke
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker.ticker_row.ELEMENT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.ticker_row.ELEMENT)
 
 ## Utilisations dans les templates
 

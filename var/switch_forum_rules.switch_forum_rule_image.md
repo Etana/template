@@ -1,7 +1,7 @@
 # Variable de boucle switch_forum_rules.switch_forum_rule_image
 
 ##Disponibilité
-Cette variable est un attribut de [switch_forum_rules](switch_forum_rules.md).
+Cette variable est un attribut de [switch_forum_rules](switch_forum_rules.md#readme).
 
 ```html
 <!-- BEGIN switch_forum_rules -->
@@ -10,7 +10,12 @@ Cette variable est un attribut de [switch_forum_rules](switch_forum_rules.md).
 ```
 
 ##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
+
+## Attributs
+### Attributs d'affichage
+* [RULE_IMG_URL](switch_forum_rules.switch_forum_rule_image.RULE_IMG_URL.md#readme)
+
 
 ## Utilisations dans les templates
 
