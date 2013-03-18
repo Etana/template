@@ -5,7 +5,7 @@ Attribut d'affichage de [switch_fb_explain](switch_fb_explain.md#readme).
 
 ```html
 <!-- BEGIN switch_fb_explain -->
-    {switch_fb_explain.FB_EXPLAIN}
+{switch_fb_explain.FB_EXPLAIN}
 <!-- END switch_fb_explain -->
 ```
 

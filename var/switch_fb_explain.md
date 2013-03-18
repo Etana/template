@@ -1,11 +1,11 @@
 # switch_fb_explain
 
 
-Cette variable est utilisable directement dans une boucle.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_fb_explain -->
-    contenu
+contenu
 <!-- END switch_fb_explain -->
 ```
 
