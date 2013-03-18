@@ -20,4 +20,4 @@ contenu
 
 ### Version phpBB2
 
-* __[Template agreement](../tpl/var/subsilver/agreement.md#readme) :__ [ligne 10](../tpl/src/subsilver/agreement.tpl#L10), [ligne 21](../tpl/src/subsilver/agreement.tpl#L21)
+* __[Template agreement](../tpl/var/subsilver/agreement.md#readme) :__[ligne 10](../tpl/src/subsilver/agreement.tpl#L10), [ligne 21](../tpl/src/subsilver/agreement.tpl#L21)
