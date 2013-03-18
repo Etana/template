@@ -7,8 +7,8 @@ Cette variable est utilisable directement.
 {SITENAME}
 ```
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SITENAME)
+##Description[*](https://fa-tvars.appspot.com/var/SITENAME)
+Contient le titre de votre forum défini dans votre `PA > Général > Forum | Configuration > Nom du site`.
 
 ## Utilisations dans les templates
 

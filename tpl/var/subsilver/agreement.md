@@ -2,8 +2,8 @@
 
 [Code de la template](../../subsilver/agreement.tpl)
 
-##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/agreement)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/agreement)
+Nom du site spécifié dans `PA > Général > Forum | Configuration > Nom du site`.
 
 ## Variables utilisées
 
@@ -16,7 +16,7 @@
 ### [DO_NOT_AGREE](https://github.com/Etana/template.list/blob/master/var/DO_NOT_AGREE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/DO_NOT_AGREE))
 * [Variable &agrave; la ligne 34](../../subsilver/agreement.tpl#L34)
 
-### [L_INDEX](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_INDEX))
+### [L_INDEX](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/L_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/agreement.tpl#L3)
 
 ### [MY_RULES](https://github.com/Etana/template.list/blob/master/var/MY_RULES.md#readme) ([XXX](https://fa-tvars.appspot.com/var/MY_RULES))
@@ -25,7 +25,7 @@
 ### [REGISTRATION](https://github.com/Etana/template.list/blob/master/var/REGISTRATION.md#readme) ([XXX](https://fa-tvars.appspot.com/var/REGISTRATION))
 * [Variable &agrave; la ligne 8](../../subsilver/agreement.tpl#L8)
 
-### [SITENAME](https://github.com/Etana/template.list/blob/master/var/SITENAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/SITENAME))
+### [SITENAME](https://github.com/Etana/template.list/blob/master/var/SITENAME.md#readme) ([V](https://fa-tvars.appspot.com/var/SITENAME))
 * [Variable &agrave; la ligne 8](../../subsilver/agreement.tpl#L8)
 
 ### [switch_fb_explain](https://github.com/Etana/template.list/blob/master/var/switch_fb_explain.md#readme) ([XXX](https://fa-tvars.appspot.com/var/switch_fb_explain))
@@ -38,6 +38,6 @@
 ### [U_AGREE_OVER13](https://github.com/Etana/template.list/blob/master/var/U_AGREE_OVER13.md#readme) ([XXX](https://fa-tvars.appspot.com/var/U_AGREE_OVER13))
 * [Variable &agrave; la ligne 32](../../subsilver/agreement.tpl#L32)
 
-### [U_INDEX](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/U_INDEX))
+### [U_INDEX](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme) ([V](https://fa-tvars.appspot.com/var/U_INDEX))
 * [Variable &agrave; la ligne 3](../../subsilver/agreement.tpl#L3)
 * [Variable &agrave; la ligne 34](../../subsilver/agreement.tpl#L34)
