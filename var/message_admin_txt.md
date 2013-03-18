@@ -1,5 +1,9 @@
 # Variable message_admin_txt
-[Ajouter une description](https://fa-tvars.appspot.com/var/message_admin_txt)
+
+##Description[*](https://fa-tvars.appspot.com/var/message_admin_txt)
+Boucle contenant le texte du message d'accueil.
+
+* __Code :__ [`<!-- BEGIN message_admin_txt -->...<!-- END message_admin_txt -->`](message_admin_txt.md#readme)
 
 ## Utilisations dans les templates
 

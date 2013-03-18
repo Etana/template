@@ -1,5 +1,9 @@
 # Variable L_LOGIN
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_LOGIN)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_LOGIN)
+Chaîne de texte.
+
+* __Contenu en français :__ `Connexion`
 
 ## Utilisations dans les templates
 

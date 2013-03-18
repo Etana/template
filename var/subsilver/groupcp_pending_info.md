@@ -28,7 +28,7 @@
 ### [L_SELECT](../L_SELECT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_SELECT))
 * [Variable &agrave; la ligne 9](../../subsilver/groupcp_pending_info.tpl#L9)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 4](../../subsilver/groupcp_pending_info.tpl#L4)
 
 ### [L_WEBSITE](../L_WEBSITE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_WEBSITE))

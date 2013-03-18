@@ -1,5 +1,9 @@
 # Variable message_admin_titre
-[Ajouter une description](https://fa-tvars.appspot.com/var/message_admin_titre)
+
+##Description[*](https://fa-tvars.appspot.com/var/message_admin_titre)
+Boucle contenant le titre du message d'accueil.
+
+* __Code :__ [`<!-- BEGIN message_admin_titre -->...<!-- END message_admin_titre -->`](message_admin_titre.md#readme)
 
 ## Utilisations dans les templates
 

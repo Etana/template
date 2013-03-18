@@ -17,7 +17,7 @@
 * [Variable &agrave; la ligne 21](../../subsilver/mod_login.tpl#L21)
 * [Variable &agrave; la ligne 56](../../subsilver/mod_login.tpl#L56)
 
-### [L_LOGIN](../L_LOGIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN))
+### [L_LOGIN](../L_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LOGIN))
 * [Variable &agrave; la ligne 5](../../subsilver/mod_login.tpl#L5)
 * [Variable &agrave; la ligne 24](../../subsilver/mod_login.tpl#L24)
 * [Variable &agrave; la ligne 42](../../subsilver/mod_login.tpl#L42)
@@ -29,7 +29,7 @@
 ### [L_MY_PROFILE](../L_MY_PROFILE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_MY_PROFILE))
 * [Variable &agrave; la ligne 87](../../subsilver/mod_login.tpl#L87)
 
-### [L_PASSWORD](../L_PASSWORD.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_PASSWORD))
+### [L_PASSWORD](../L_PASSWORD.md#readme) ([V](https://fa-tvars.appspot.com/var/L_PASSWORD))
 * [Variable &agrave; la ligne 17](../../subsilver/mod_login.tpl#L17)
 * [Variable &agrave; la ligne 53](../../subsilver/mod_login.tpl#L53)
 
@@ -40,7 +40,7 @@
 * [Variable &agrave; la ligne 28](../../subsilver/mod_login.tpl#L28)
 * [Variable &agrave; la ligne 62](../../subsilver/mod_login.tpl#L62)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 13](../../subsilver/mod_login.tpl#L13)
 * [Variable &agrave; la ligne 50](../../subsilver/mod_login.tpl#L50)
 

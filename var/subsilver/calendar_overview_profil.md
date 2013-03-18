@@ -16,7 +16,7 @@
 ### [L_TITLE](../L_TITLE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_TITLE))
 * [Variable &agrave; la ligne 3](../../subsilver/calendar_overview_profil.tpl#L3)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 7](../../subsilver/calendar_overview_profil.tpl#L7)
 
 ### [TXT_CLASS](../TXT_CLASS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/TXT_CLASS))

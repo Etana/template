@@ -32,16 +32,16 @@
 ### [disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX](../disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX.md#readme) ([XXX](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX))
 * [Variable &agrave; la ligne 213](../../subsilver/index_body.tpl#L213)
 
-### [FORUM_IMG](../FORUM_IMG.md#readme) ([XXX](https://fa-tvars.appspot.com/var/FORUM_IMG))
+### [FORUM_IMG](../FORUM_IMG.md#readme) ([V](https://fa-tvars.appspot.com/var/FORUM_IMG))
 * [Variable &agrave; la ligne 231](../../subsilver/index_body.tpl#L231)
 
-### [FORUM_LOCKED_IMG](../FORUM_LOCKED_IMG.md#readme) ([XXX](https://fa-tvars.appspot.com/var/FORUM_LOCKED_IMG))
+### [FORUM_LOCKED_IMG](../FORUM_LOCKED_IMG.md#readme) ([V](https://fa-tvars.appspot.com/var/FORUM_LOCKED_IMG))
 * [Variable &agrave; la ligne 234](../../subsilver/index_body.tpl#L234)
 
-### [FORUM_NEW_IMG](../FORUM_NEW_IMG.md#readme) ([XXX](https://fa-tvars.appspot.com/var/FORUM_NEW_IMG))
+### [FORUM_NEW_IMG](../FORUM_NEW_IMG.md#readme) ([V](https://fa-tvars.appspot.com/var/FORUM_NEW_IMG))
 * [Variable &agrave; la ligne 228](../../subsilver/index_body.tpl#L228)
 
-### [GROUP_LEGEND](../GROUP_LEGEND.md#readme) ([XXX](https://fa-tvars.appspot.com/var/GROUP_LEGEND))
+### [GROUP_LEGEND](../GROUP_LEGEND.md#readme) ([V](https://fa-tvars.appspot.com/var/GROUP_LEGEND))
 * [Variable &agrave; la ligne 203](../../subsilver/index_body.tpl#L203)
 
 ### [JAVASCRIPT](../JAVASCRIPT.md#readme) ([V](https://fa-tvars.appspot.com/var/JAVASCRIPT))
@@ -53,17 +53,17 @@
 * [Variable &agrave; la ligne 122](../../subsilver/index_body.tpl#L122)
 * [Variable &agrave; la ligne 150](../../subsilver/index_body.tpl#L150)
 
-### [L_CLICK_TO_JOIN_CHAT](../L_CLICK_TO_JOIN_CHAT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_CLICK_TO_JOIN_CHAT))
+### [L_CLICK_TO_JOIN_CHAT](../L_CLICK_TO_JOIN_CHAT.md#readme) ([V](https://fa-tvars.appspot.com/var/L_CLICK_TO_JOIN_CHAT))
 * [Variable &agrave; la ligne 213](../../subsilver/index_body.tpl#L213)
 
 ### [L_CONNECTED_MEMBERS](../L_CONNECTED_MEMBERS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_CONNECTED_MEMBERS))
 * [Variable &agrave; la ligne 199](../../subsilver/index_body.tpl#L199)
 
-### [L_FORUM_LOCKED](../L_FORUM_LOCKED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_FORUM_LOCKED))
+### [L_FORUM_LOCKED](../L_FORUM_LOCKED.md#readme) ([V](https://fa-tvars.appspot.com/var/L_FORUM_LOCKED))
 * [Variable &agrave; la ligne 234](../../subsilver/index_body.tpl#L234)
 * [Variable &agrave; la ligne 235](../../subsilver/index_body.tpl#L235)
 
-### [L_LOGIN](../L_LOGIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN))
+### [L_LOGIN](../L_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LOGIN))
 * [Variable &agrave; la ligne 38](../../subsilver/index_body.tpl#L38)
 * [Variable &agrave; la ligne 66](../../subsilver/index_body.tpl#L66)
 * [Variable &agrave; la ligne 129](../../subsilver/index_body.tpl#L129)
@@ -72,11 +72,11 @@
 ### [L_MARK_FORUMS_READ](../L_MARK_FORUMS_READ.md#readme) ([V](https://fa-tvars.appspot.com/var/L_MARK_FORUMS_READ))
 * [Variable &agrave; la ligne 89](../../subsilver/index_body.tpl#L89)
 
-### [L_NEW_POSTS](../L_NEW_POSTS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_NEW_POSTS))
+### [L_NEW_POSTS](../L_NEW_POSTS.md#readme) ([V](https://fa-tvars.appspot.com/var/L_NEW_POSTS))
 * [Variable &agrave; la ligne 228](../../subsilver/index_body.tpl#L228)
 * [Variable &agrave; la ligne 229](../../subsilver/index_body.tpl#L229)
 
-### [L_NO_NEW_POSTS](../L_NO_NEW_POSTS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_NO_NEW_POSTS))
+### [L_NO_NEW_POSTS](../L_NO_NEW_POSTS.md#readme) ([V](https://fa-tvars.appspot.com/var/L_NO_NEW_POSTS))
 * [Variable &agrave; la ligne 231](../../subsilver/index_body.tpl#L231)
 * [Variable &agrave; la ligne 232](../../subsilver/index_body.tpl#L232)
 
@@ -86,7 +86,7 @@
 ### [L_OVERALL_POSTERS](../L_OVERALL_POSTERS.md#readme) ([V](https://fa-tvars.appspot.com/var/L_OVERALL_POSTERS))
 * [Variable &agrave; la ligne 99](../../subsilver/index_body.tpl#L99)
 
-### [L_PASSWORD](../L_PASSWORD.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_PASSWORD))
+### [L_PASSWORD](../L_PASSWORD.md#readme) ([V](https://fa-tvars.appspot.com/var/L_PASSWORD))
 * [Variable &agrave; la ligne 36](../../subsilver/index_body.tpl#L36)
 * [Variable &agrave; la ligne 64](../../subsilver/index_body.tpl#L64)
 * [Variable &agrave; la ligne 127](../../subsilver/index_body.tpl#L127)
@@ -95,10 +95,10 @@
 ### [L_TODAY_ACTIVE](../L_TODAY_ACTIVE.md#readme) ([V](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE))
 * [Variable &agrave; la ligne 97](../../subsilver/index_body.tpl#L97)
 
-### [L_TODAY_POSTERS](../L_TODAY_POSTERS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_TODAY_POSTERS))
+### [L_TODAY_POSTERS](../L_TODAY_POSTERS.md#readme) ([V](https://fa-tvars.appspot.com/var/L_TODAY_POSTERS))
 * [Variable &agrave; la ligne 98](../../subsilver/index_body.tpl#L98)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 27](../../subsilver/index_body.tpl#L27)
 * [Variable &agrave; la ligne 55](../../subsilver/index_body.tpl#L55)
 * [Variable &agrave; la ligne 118](../../subsilver/index_body.tpl#L118)
@@ -115,27 +115,27 @@
 ### [L_WHOSBIRTHDAY_WEEK](../L_WHOSBIRTHDAY_WEEK.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_WEEK))
 * [Variable &agrave; la ligne 201](../../subsilver/index_body.tpl#L201)
 
-### [LEGEND](../LEGEND.md#readme) ([XXX](https://fa-tvars.appspot.com/var/LEGEND))
+### [LEGEND](../LEGEND.md#readme) ([V](https://fa-tvars.appspot.com/var/LEGEND))
 * [Variable &agrave; la ligne 203](../../subsilver/index_body.tpl#L203)
 
 ### [LOGGED_IN_USER_LIST](../LOGGED_IN_USER_LIST.md#readme) ([V](https://fa-tvars.appspot.com/var/LOGGED_IN_USER_LIST))
 * [Variable &agrave; la ligne 197](../../subsilver/index_body.tpl#L197)
 
-### [message_admin_index](../message_admin_index.md#readme) ([XXX](https://fa-tvars.appspot.com/var/message_admin_index))
+### [message_admin_index](../message_admin_index.md#readme) ([V](https://fa-tvars.appspot.com/var/message_admin_index))
 * [Début de boucle &agrave; la ligne 2](../../subsilver/index_body.tpl#L2)
 * [Fin de boucle &agrave; la ligne 17](../../subsilver/index_body.tpl#L17)
 
-### [message_admin_index.message_admin_titre.MES_TITRE](../message_admin_index.message_admin_titre.MES_TITRE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre.MES_TITRE))
+### [message_admin_index.message_admin_titre.MES_TITRE](../message_admin_index.message_admin_titre.MES_TITRE.md#readme) ([V](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre.MES_TITRE))
 * [Variable &agrave; la ligne 6](../../subsilver/index_body.tpl#L6)
 
-### [message_admin_index.message_admin_txt.MES_TXT](../message_admin_index.message_admin_txt.MES_TXT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT))
+### [message_admin_index.message_admin_txt.MES_TXT](../message_admin_index.message_admin_txt.MES_TXT.md#readme) ([V](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT))
 * [Variable &agrave; la ligne 12](../../subsilver/index_body.tpl#L12)
 
-### [message_admin_titre](../message_admin_titre.md#readme) ([XXX](https://fa-tvars.appspot.com/var/message_admin_titre))
+### [message_admin_titre](../message_admin_titre.md#readme) ([V](https://fa-tvars.appspot.com/var/message_admin_titre))
 * [Début de boucle &agrave; la ligne 4](../../subsilver/index_body.tpl#L4)
 * [Fin de boucle &agrave; la ligne 8](../../subsilver/index_body.tpl#L8)
 
-### [message_admin_txt](../message_admin_txt.md#readme) ([XXX](https://fa-tvars.appspot.com/var/message_admin_txt))
+### [message_admin_txt](../message_admin_txt.md#readme) ([V](https://fa-tvars.appspot.com/var/message_admin_txt))
 * [Début de boucle &agrave; la ligne 9](../../subsilver/index_body.tpl#L9)
 * [Fin de boucle &agrave; la ligne 15](../../subsilver/index_body.tpl#L15)
 

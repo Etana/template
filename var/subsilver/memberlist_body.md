@@ -40,7 +40,7 @@
 ### [L_USER_SELECT_VALUE](../L_USER_SELECT_VALUE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USER_SELECT_VALUE))
 * [Variable &agrave; la ligne 10](../../subsilver/memberlist_body.tpl#L10)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 25](../../subsilver/memberlist_body.tpl#L25)
 
 ### [L_VISITED](../L_VISITED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_VISITED))

@@ -563,7 +563,7 @@
 * [Variable &agrave; la ligne 325](../../subsilver/posting_body.tpl#L325)
 * [Variable &agrave; la ligne 325](../../subsilver/posting_body.tpl#L325)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 87](../../subsilver/posting_body.tpl#L87)
 * [Variable &agrave; la ligne 100](../../subsilver/posting_body.tpl#L100)
 * [Variable &agrave; la ligne 128](../../subsilver/posting_body.tpl#L128)

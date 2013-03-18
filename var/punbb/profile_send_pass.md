@@ -38,7 +38,7 @@
 ### [L_SUBMIT](../L_SUBMIT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_SUBMIT))
 * [Variable &agrave; la ligne 43](../../punbb/profile_send_pass.tpl#L43)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 31](../../punbb/profile_send_pass.tpl#L31)
 
 ### [LAST_VISIT_DATE](../LAST_VISIT_DATE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/LAST_VISIT_DATE))

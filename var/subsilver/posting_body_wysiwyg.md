@@ -283,7 +283,7 @@
 ### [L_TOPIC_TITLE_MODIFY](../L_TOPIC_TITLE_MODIFY.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_TOPIC_TITLE_MODIFY))
 * [Variable &agrave; la ligne 723](../../subsilver/posting_body_wysiwyg.tpl#L723)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 260](../../subsilver/posting_body_wysiwyg.tpl#L260)
 * [Variable &agrave; la ligne 273](../../subsilver/posting_body_wysiwyg.tpl#L273)
 * [Variable &agrave; la ligne 302](../../subsilver/posting_body_wysiwyg.tpl#L302)

@@ -82,7 +82,7 @@
 ### [L_UPLOAD_TO_CATEGORY](../L_UPLOAD_TO_CATEGORY.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_UPLOAD_TO_CATEGORY))
 * [Variable &agrave; la ligne 327](../../subsilver/album_upload_body.tpl#L327)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 252](../../subsilver/album_upload_body.tpl#L252)
 
 ### [MAX_UPLOADS](../MAX_UPLOADS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/MAX_UPLOADS))

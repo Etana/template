@@ -68,7 +68,7 @@
 ### [L_ONLINE_EXPLAIN](../L_ONLINE_EXPLAIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_ONLINE_EXPLAIN))
 * [Variable &agrave; la ligne 53](../../subsilver/viewonline_body.tpl#L53)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 16](../../subsilver/viewonline_body.tpl#L16)
 
 ### [reg_user_row](../reg_user_row.md#readme) ([XXX](https://fa-tvars.appspot.com/var/reg_user_row))

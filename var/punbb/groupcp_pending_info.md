@@ -28,7 +28,7 @@
 ### [L_SELECT](../L_SELECT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_SELECT))
 * [Variable &agrave; la ligne 12](../../punbb/groupcp_pending_info.tpl#L12)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 7](../../punbb/groupcp_pending_info.tpl#L7)
 
 ### [L_WEBSITE](../L_WEBSITE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_WEBSITE))

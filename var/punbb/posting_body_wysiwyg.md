@@ -276,7 +276,7 @@
 ### [L_TOPIC_TITLE_MODIFY](../L_TOPIC_TITLE_MODIFY.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_TOPIC_TITLE_MODIFY))
 * [Variable &agrave; la ligne 639](../../punbb/posting_body_wysiwyg.tpl#L639)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 227](../../punbb/posting_body_wysiwyg.tpl#L227)
 * [Variable &agrave; la ligne 241](../../punbb/posting_body_wysiwyg.tpl#L241)
 

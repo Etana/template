@@ -551,7 +551,7 @@
 * [Variable &agrave; la ligne 271](../../punbb/posting_body.tpl#L271)
 * [Variable &agrave; la ligne 271](../../punbb/posting_body.tpl#L271)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 71](../../punbb/posting_body.tpl#L71)
 * [Variable &agrave; la ligne 85](../../punbb/posting_body.tpl#L85)
 

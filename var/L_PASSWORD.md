@@ -1,5 +1,9 @@
 # Variable L_PASSWORD
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_PASSWORD)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_PASSWORD)
+Chaîne de texte.
+
+* __Contenu en français :__ `Mot de passe`
 
 ## Utilisations dans les templates
 

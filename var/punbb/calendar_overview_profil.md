@@ -16,5 +16,5 @@
 ### [L_TITLE](../L_TITLE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_TITLE))
 * [Variable &agrave; la ligne 2](../../punbb/calendar_overview_profil.tpl#L2)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 4](../../punbb/calendar_overview_profil.tpl#L4)

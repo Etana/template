@@ -310,7 +310,7 @@
 ### [L_UPLOAD_AVATAR_URL_EXPLAIN](../L_UPLOAD_AVATAR_URL_EXPLAIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_UPLOAD_AVATAR_URL_EXPLAIN))
 * [Variable &agrave; la ligne 375](../../punbb/profile_add_body.tpl#L375)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 32](../../punbb/profile_add_body.tpl#L32)
 * [Variable &agrave; la ligne 38](../../punbb/profile_add_body.tpl#L38)
 

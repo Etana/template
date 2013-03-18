@@ -88,7 +88,7 @@
 * [Variable &agrave; la ligne 2](../../punbb/overall_header.tpl#L2)
 * [Variable &agrave; la ligne 2](../../punbb/overall_header.tpl#L2)
 
-### [L_LOGIN](../L_LOGIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN))
+### [L_LOGIN](../L_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LOGIN))
 * [Variable &agrave; la ligne 219](../../punbb/overall_header.tpl#L219)
 
 ### [L_REGISTER](../L_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_REGISTER))

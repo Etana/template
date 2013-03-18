@@ -1,5 +1,9 @@
 # Variable L_USERNAME
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_USERNAME)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_USERNAME)
+Chaîne de texte.
+
+* __Contenu en français :__ `Nom d'utilisateur`
 
 ## Utilisations dans les templates
 

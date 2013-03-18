@@ -1,5 +1,9 @@
 # Variable L_NO_NEW_POSTS
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_NO_NEW_POSTS)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_NO_NEW_POSTS)
+Chaîne de texte.
+
+* __Contenu en français :__ `Pas de nouveaux messages`
 
 ## Utilisations dans les templates
 

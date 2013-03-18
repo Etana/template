@@ -1,5 +1,7 @@
 # Variable GROUP_LEGEND
-[Ajouter une description](https://fa-tvars.appspot.com/var/GROUP_LEGEND)
+
+##Description[*](https://fa-tvars.appspot.com/var/GROUP_LEGEND)
+Affiche la liste des groupes dans le qui est en ligne selon votre `PA > Utilisateurs & Groupes > Groupes | Administration des Groupes`.
 
 ## Utilisations dans les templates
 

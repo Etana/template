@@ -1,5 +1,7 @@
 # Variable message_admin_index.message_admin_txt.MES_TXT
-[Ajouter une description](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
+
+##Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
+Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralités > Contenu du message`.
 
 ## Utilisations dans les templates
 

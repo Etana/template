@@ -1,5 +1,9 @@
 # Variable L_FORUM_LOCKED
-[Ajouter une description](https://fa-tvars.appspot.com/var/L_FORUM_LOCKED)
+
+##Description[*](https://fa-tvars.appspot.com/var/L_FORUM_LOCKED)
+Chaîne de texte.
+
+* __Contenu en français :__ `Forum Verrouillé`
 
 ## Utilisations dans les templates
 

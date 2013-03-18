@@ -99,7 +99,7 @@
 ### [L_TODAY_ACTIVE](../L_TODAY_ACTIVE.md#readme) ([V](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE))
 * [Variable &agrave; la ligne 63](../../punbb/index_box.tpl#L63)
 
-### [L_TODAY_POSTERS](../L_TODAY_POSTERS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_TODAY_POSTERS))
+### [L_TODAY_POSTERS](../L_TODAY_POSTERS.md#readme) ([V](https://fa-tvars.appspot.com/var/L_TODAY_POSTERS))
 * [Variable &agrave; la ligne 64](../../punbb/index_box.tpl#L64)
 
 ### [L_TOPICS](../L_TOPICS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_TOPICS))

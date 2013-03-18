@@ -91,7 +91,7 @@
 ### [L_UPDATE](../L_UPDATE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_UPDATE))
 * [Variable &agrave; la ligne 31](../../subsilver/groupcp_info_body.tpl#L31)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 42](../../subsilver/groupcp_info_body.tpl#L42)
 
 ### [L_WEBSITE](../L_WEBSITE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_WEBSITE))

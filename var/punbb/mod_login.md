@@ -12,7 +12,7 @@
 * [Variable &agrave; la ligne 17](../../punbb/mod_login.tpl#L17)
 * [Variable &agrave; la ligne 37](../../punbb/mod_login.tpl#L37)
 
-### [L_LOGIN](../L_LOGIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_LOGIN))
+### [L_LOGIN](../L_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LOGIN))
 * [Variable &agrave; la ligne 3](../../punbb/mod_login.tpl#L3)
 * [Variable &agrave; la ligne 20](../../punbb/mod_login.tpl#L20)
 * [Variable &agrave; la ligne 28](../../punbb/mod_login.tpl#L28)
@@ -24,7 +24,7 @@
 ### [L_MY_PROFILE](../L_MY_PROFILE.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_MY_PROFILE))
 * [Variable &agrave; la ligne 54](../../punbb/mod_login.tpl#L54)
 
-### [L_PASSWORD](../L_PASSWORD.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_PASSWORD))
+### [L_PASSWORD](../L_PASSWORD.md#readme) ([V](https://fa-tvars.appspot.com/var/L_PASSWORD))
 * [Variable &agrave; la ligne 12](../../punbb/mod_login.tpl#L12)
 * [Variable &agrave; la ligne 34](../../punbb/mod_login.tpl#L34)
 
@@ -35,7 +35,7 @@
 * [Variable &agrave; la ligne 14](../../punbb/mod_login.tpl#L14)
 * [Variable &agrave; la ligne 36](../../punbb/mod_login.tpl#L36)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 8](../../punbb/mod_login.tpl#L8)
 * [Variable &agrave; la ligne 32](../../punbb/mod_login.tpl#L32)
 

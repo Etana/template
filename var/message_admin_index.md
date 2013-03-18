@@ -1,5 +1,9 @@
 # Variable message_admin_index
-[Ajouter une description](https://fa-tvars.appspot.com/var/message_admin_index)
+
+##Description[*](https://fa-tvars.appspot.com/var/message_admin_index)
+Boucle contenant le message d'accueil.
+
+* __Code :__ [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](message_admin_index.md#readme)
 
 ## Utilisations dans les templates
 

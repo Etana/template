@@ -67,7 +67,7 @@
 ### [L_SEARCH_UNANSWERED](../L_SEARCH_UNANSWERED.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_SEARCH_UNANSWERED))
 * [Variable &agrave; la ligne 16](../../punbb/viewonline_body.tpl#L16)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 41](../../punbb/viewonline_body.tpl#L41)
 
 ### [L_WHO_IS_ONLINE](../L_WHO_IS_ONLINE.md#readme) ([V](https://fa-tvars.appspot.com/var/L_WHO_IS_ONLINE))

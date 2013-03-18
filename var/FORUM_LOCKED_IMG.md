@@ -1,5 +1,7 @@
 # Variable FORUM_LOCKED_IMG
-[Ajouter une description](https://fa-tvars.appspot.com/var/FORUM_LOCKED_IMG)
+
+##Description[*](https://fa-tvars.appspot.com/var/FORUM_LOCKED_IMG)
+Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes du forum" > Forum - Verrouillé` ou `PA > Affichage > Images et Couleurs | Gestion des images > Mode Simple > Forum - Verrouillé`.
 
 ## Utilisations dans les templates
 

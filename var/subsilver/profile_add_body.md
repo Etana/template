@@ -287,7 +287,7 @@
 ### [L_UPLOAD_AVATAR_URL_EXPLAIN](../L_UPLOAD_AVATAR_URL_EXPLAIN.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_UPLOAD_AVATAR_URL_EXPLAIN))
 * [Variable &agrave; la ligne 337](../../subsilver/profile_add_body.tpl#L337)
 
-### [L_USERNAME](../L_USERNAME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_USERNAME))
+### [L_USERNAME](../L_USERNAME.md#readme) ([V](https://fa-tvars.appspot.com/var/L_USERNAME))
 * [Variable &agrave; la ligne 17](../../subsilver/profile_add_body.tpl#L17)
 * [Variable &agrave; la ligne 23](../../subsilver/profile_add_body.tpl#L23)
 
