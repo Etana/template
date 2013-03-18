@@ -6,11 +6,11 @@
 ### Version PunBB
 
 #### [Template album_cat_body](punbb/album_cat_body.md)
-* [Début de condition &agrave; la ligne 73](../punbb/album_cat_body.tpl#L73)
-* [Fin de condition &agrave; la ligne 85](../punbb/album_cat_body.tpl#L85)
+* [Début de boucle &agrave; la ligne 73](../punbb/album_cat_body.tpl#L73)
+* [Fin de boucle &agrave; la ligne 85](../punbb/album_cat_body.tpl#L85)
 
 ### Version phpBB2
 
 #### [Template album_cat_body](subsilver/album_cat_body.md)
-* [Début de condition &agrave; la ligne 121](../subsilver/album_cat_body.tpl#L121)
-* [Fin de condition &agrave; la ligne 140](../subsilver/album_cat_body.tpl#L140)
+* [Début de boucle &agrave; la ligne 121](../subsilver/album_cat_body.tpl#L121)
+* [Fin de boucle &agrave; la ligne 140](../subsilver/album_cat_body.tpl#L140)

@@ -6,5 +6,5 @@
 ### Version phpBB2
 
 #### [Template album_index_body](subsilver/album_index_body.md)
-* [Début de condition &agrave; la ligne 44](../subsilver/album_index_body.tpl#L44)
-* [Fin de condition &agrave; la ligne 46](../subsilver/album_index_body.tpl#L46)
+* [Début de boucle &agrave; la ligne 44](../subsilver/album_index_body.tpl#L44)
+* [Fin de boucle &agrave; la ligne 46](../subsilver/album_index_body.tpl#L46)

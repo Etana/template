@@ -6,5 +6,5 @@
 ### Version phpBB2
 
 #### [Template overall_header](subsilver/overall_header.md)
-* [Début de condition &agrave; la ligne 259](../subsilver/overall_header.tpl#L259)
-* [Fin de condition &agrave; la ligne 261](../subsilver/overall_header.tpl#L261)
+* [Début de boucle &agrave; la ligne 259](../subsilver/overall_header.tpl#L259)
+* [Fin de boucle &agrave; la ligne 261](../subsilver/overall_header.tpl#L261)

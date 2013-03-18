@@ -6,11 +6,11 @@
 ### Version PunBB
 
 #### [Template index_body](punbb/index_body.md)
-* [Début de condition &agrave; la ligne 19](../punbb/index_body.tpl#L19)
-* [Fin de condition &agrave; la ligne 33](../punbb/index_body.tpl#L33)
+* [Début de boucle &agrave; la ligne 19](../punbb/index_body.tpl#L19)
+* [Fin de boucle &agrave; la ligne 33](../punbb/index_body.tpl#L33)
 
 ### Version phpBB2
 
 #### [Template index_body](subsilver/index_body.md)
-* [Début de condition &agrave; la ligne 2](../subsilver/index_body.tpl#L2)
-* [Fin de condition &agrave; la ligne 17](../subsilver/index_body.tpl#L17)
+* [Début de boucle &agrave; la ligne 2](../subsilver/index_body.tpl#L2)
+* [Fin de boucle &agrave; la ligne 17](../subsilver/index_body.tpl#L17)

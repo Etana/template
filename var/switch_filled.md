@@ -6,11 +6,11 @@
 ### Version PunBB
 
 #### [Template calendar_box](punbb/calendar_box.md)
-* [Début de condition &agrave; la ligne 34](../punbb/calendar_box.tpl#L34)
-* [Fin de condition &agrave; la ligne 56](../punbb/calendar_box.tpl#L56)
+* [Début de boucle &agrave; la ligne 34](../punbb/calendar_box.tpl#L34)
+* [Fin de boucle &agrave; la ligne 56](../punbb/calendar_box.tpl#L56)
 
 ### Version phpBB2
 
 #### [Template calendar_box](subsilver/calendar_box.md)
-* [Début de condition &agrave; la ligne 37](../subsilver/calendar_box.tpl#L37)
-* [Fin de condition &agrave; la ligne 86](../subsilver/calendar_box.tpl#L86)
+* [Début de boucle &agrave; la ligne 37](../subsilver/calendar_box.tpl#L37)
+* [Fin de boucle &agrave; la ligne 86](../subsilver/calendar_box.tpl#L86)

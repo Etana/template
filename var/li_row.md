@@ -6,11 +6,11 @@
 ### Version PunBB
 
 #### [Template mod_keywords](punbb/mod_keywords.md)
-* [Début de condition &agrave; la ligne 5](../punbb/mod_keywords.tpl#L5)
-* [Fin de condition &agrave; la ligne 7](../punbb/mod_keywords.tpl#L7)
+* [Début de boucle &agrave; la ligne 5](../punbb/mod_keywords.tpl#L5)
+* [Fin de boucle &agrave; la ligne 7](../punbb/mod_keywords.tpl#L7)
 
 ### Version phpBB2
 
 #### [Template mod_keywords](subsilver/mod_keywords.md)
-* [Début de condition &agrave; la ligne 11](../subsilver/mod_keywords.tpl#L11)
-* [Fin de condition &agrave; la ligne 13](../subsilver/mod_keywords.tpl#L13)
+* [Début de boucle &agrave; la ligne 11](../subsilver/mod_keywords.tpl#L11)
+* [Fin de boucle &agrave; la ligne 13](../subsilver/mod_keywords.tpl#L13)

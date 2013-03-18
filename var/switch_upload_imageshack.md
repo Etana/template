@@ -6,15 +6,15 @@
 ### Version PunBB
 
 #### [Template posting_body](punbb/posting_body.md)
-* [Début de condition &agrave; la ligne 354](../punbb/posting_body.tpl#L354)
-* [Fin de condition &agrave; la ligne 356](../punbb/posting_body.tpl#L356)
-* [Début de condition &agrave; la ligne 398](../punbb/posting_body.tpl#L398)
-* [Fin de condition &agrave; la ligne 400](../punbb/posting_body.tpl#L400)
+* [Début de boucle &agrave; la ligne 354](../punbb/posting_body.tpl#L354)
+* [Fin de boucle &agrave; la ligne 356](../punbb/posting_body.tpl#L356)
+* [Début de boucle &agrave; la ligne 398](../punbb/posting_body.tpl#L398)
+* [Fin de boucle &agrave; la ligne 400](../punbb/posting_body.tpl#L400)
 
 ### Version phpBB2
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Début de condition &agrave; la ligne 405](../subsilver/posting_body.tpl#L405)
-* [Fin de condition &agrave; la ligne 407](../subsilver/posting_body.tpl#L407)
-* [Début de condition &agrave; la ligne 449](../subsilver/posting_body.tpl#L449)
-* [Fin de condition &agrave; la ligne 451](../subsilver/posting_body.tpl#L451)
+* [Début de boucle &agrave; la ligne 405](../subsilver/posting_body.tpl#L405)
+* [Fin de boucle &agrave; la ligne 407](../subsilver/posting_body.tpl#L407)
+* [Début de boucle &agrave; la ligne 449](../subsilver/posting_body.tpl#L449)
+* [Fin de boucle &agrave; la ligne 451](../subsilver/posting_body.tpl#L451)

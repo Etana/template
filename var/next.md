@@ -6,11 +6,11 @@
 ### Version PunBB
 
 #### [Template album_showpage_body](punbb/album_showpage_body.md)
-* [Début de condition &agrave; la ligne 360](../punbb/album_showpage_body.tpl#L360)
-* [Fin de condition &agrave; la ligne 364](../punbb/album_showpage_body.tpl#L364)
+* [Début de boucle &agrave; la ligne 360](../punbb/album_showpage_body.tpl#L360)
+* [Fin de boucle &agrave; la ligne 364](../punbb/album_showpage_body.tpl#L364)
 
 ### Version phpBB2
 
 #### [Template album_showpage_body](subsilver/album_showpage_body.md)
-* [Début de condition &agrave; la ligne 410](../subsilver/album_showpage_body.tpl#L410)
-* [Fin de condition &agrave; la ligne 420](../subsilver/album_showpage_body.tpl#L420)
+* [Début de boucle &agrave; la ligne 410](../subsilver/album_showpage_body.tpl#L410)
+* [Fin de boucle &agrave; la ligne 420](../subsilver/album_showpage_body.tpl#L420)

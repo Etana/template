@@ -4,73 +4,10 @@
 
 ## Variables utilisées
 
-### [L_GALLERIES](../L_GALLERIES.md)
-* [Variable &agrave; la ligne 36](../../punbb/album_formsearch_body.tpl#L36)
-
-### [L_INDEX](../L_INDEX.md)
-* [Variable &agrave; la ligne 16](../../punbb/album_formsearch_body.tpl#L16)
-
-### [L_LOGIN_REGISTER](../L_LOGIN_REGISTER.md)
-* [Variable &agrave; la ligne 12](../../punbb/album_formsearch_body.tpl#L12)
-
-### [L_NOT_CONNECTED](../L_NOT_CONNECTED.md)
-* [Variable &agrave; la ligne 12](../../punbb/album_formsearch_body.tpl#L12)
-
-### [L_SEARCH](../L_SEARCH.md)
-* [Variable &agrave; la ligne 47](../../punbb/album_formsearch_body.tpl#L47)
-
-### [L_SEARCH_KEYWORDS](../L_SEARCH_KEYWORDS.md)
-* [Variable &agrave; la ligne 27](../../punbb/album_formsearch_body.tpl#L27)
-
-### [L_SEARCH_NEW](../L_SEARCH_NEW.md)
-* [Variable &agrave; la ligne 4](../../punbb/album_formsearch_body.tpl#L4)
-
-### [L_SEARCH_OPTIONS](../L_SEARCH_OPTIONS.md)
-* [Variable &agrave; la ligne 32](../../punbb/album_formsearch_body.tpl#L32)
-
-### [L_SEARCH_PREVIOUS](../L_SEARCH_PREVIOUS.md)
-* [Variable &agrave; la ligne 40](../../punbb/album_formsearch_body.tpl#L40)
-
-### [L_SEARCH_QUERY](../L_SEARCH_QUERY.md)
-* [Variable &agrave; la ligne 24](../../punbb/album_formsearch_body.tpl#L24)
-
-### [L_SEARCH_SELF](../L_SEARCH_SELF.md)
-* [Variable &agrave; la ligne 5](../../punbb/album_formsearch_body.tpl#L5)
-
-### [L_SEARCH_TITLE](../L_SEARCH_TITLE.md)
-* [Variable &agrave; la ligne 20](../../punbb/album_formsearch_body.tpl#L20)
-
-### [LAST_VISIT_DATE](../LAST_VISIT_DATE.md)
-* [Variable &agrave; la ligne 7](../../punbb/album_formsearch_body.tpl#L7)
-
-### [LOGGED_AS](../LOGGED_AS.md)
-* [Variable &agrave; la ligne 7](../../punbb/album_formsearch_body.tpl#L7)
-
-### [NAV_CAT_DESC](../NAV_CAT_DESC.md)
-* [Variable &agrave; la ligne 16](../../punbb/album_formsearch_body.tpl#L16)
-
-### [S_FORUM_OPTIONS](../S_FORUM_OPTIONS.md)
-* [Variable &agrave; la ligne 37](../../punbb/album_formsearch_body.tpl#L37)
-
-### [S_SEARCH_ACTION](../S_SEARCH_ACTION.md)
-* [Variable &agrave; la ligne 22](../../punbb/album_formsearch_body.tpl#L22)
-
-### [S_TIME_OPTIONS](../S_TIME_OPTIONS.md)
-* [Variable &agrave; la ligne 41](../../punbb/album_formsearch_body.tpl#L41)
-
 ### [switch_user_logged_in](../switch_user_logged_in.md)
-* [Début de condition &agrave; la ligne 1](../../punbb/album_formsearch_body.tpl#L1)
-* [Fin de condition &agrave; la ligne 9](../../punbb/album_formsearch_body.tpl#L9)
+* [Début de boucle &agrave; la ligne 1](../../punbb/album_formsearch_body.tpl#L1)
+* [Fin de boucle &agrave; la ligne 9](../../punbb/album_formsearch_body.tpl#L9)
 
 ### [switch_user_logged_out](../switch_user_logged_out.md)
-* [Début de condition &agrave; la ligne 10](../../punbb/album_formsearch_body.tpl#L10)
-* [Fin de condition &agrave; la ligne 14](../../punbb/album_formsearch_body.tpl#L14)
-
-### [U_INDEX](../U_INDEX.md)
-* [Variable &agrave; la ligne 16](../../punbb/album_formsearch_body.tpl#L16)
-
-### [U_SEARCH_NEW](../U_SEARCH_NEW.md)
-* [Variable &agrave; la ligne 4](../../punbb/album_formsearch_body.tpl#L4)
-
-### [U_SEARCH_SELF](../U_SEARCH_SELF.md)
-* [Variable &agrave; la ligne 5](../../punbb/album_formsearch_body.tpl#L5)
+* [Début de boucle &agrave; la ligne 10](../../punbb/album_formsearch_body.tpl#L10)
+* [Fin de boucle &agrave; la ligne 14](../../punbb/album_formsearch_body.tpl#L14)

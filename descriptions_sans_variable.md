@@ -1,1 +1,13 @@
 # <a name="variables"></a>Description sans variable de template
+* [LOGGED_IN_USER_LIST](https://fa-tvars.appspot.com/var/LOGGED_IN_USER_LIST)
+* [LOGO](https://fa-tvars.appspot.com/var/LOGO)
+* [L_ONLINE_IMG](https://fa-tvars.appspot.com/var/L_ONLINE_IMG)
+* [L_WHO_IS_ONLINE](https://fa-tvars.appspot.com/var/L_WHO_IS_ONLINE)
+* [MAIN_SITENAME](https://fa-tvars.appspot.com/var/MAIN_SITENAME)
+* [NEWEST_USER](https://fa-tvars.appspot.com/var/NEWEST_USER)
+* [RECORD_USERS](https://fa-tvars.appspot.com/var/RECORD_USERS)
+* [SITE_DESCRIPTION](https://fa-tvars.appspot.com/var/SITE_DESCRIPTION)
+* [TOTAL_POSTS](https://fa-tvars.appspot.com/var/TOTAL_POSTS)
+* [TOTAL_USERS](https://fa-tvars.appspot.com/var/TOTAL_USERS)
+* [TOTAL_USERS_ONLINE](https://fa-tvars.appspot.com/var/TOTAL_USERS_ONLINE)
+* [U_VIEWONLINE](https://fa-tvars.appspot.com/var/U_VIEWONLINE)

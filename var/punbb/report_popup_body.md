@@ -5,14 +5,5 @@
 ## Variables utilisées
 
 ### [html_validation](../html_validation.md)
-* [Début de condition &agrave; la ligne 1](../../punbb/report_popup_body.tpl#L1)
-* [Fin de condition &agrave; la ligne 5](../../punbb/report_popup_body.tpl#L5)
-
-### [L_CLOSE_WINDOW](../L_CLOSE_WINDOW.md)
-* [Variable &agrave; la ligne 27](../../punbb/report_popup_body.tpl#L27)
-
-### [L_MESSAGE](../L_MESSAGE.md)
-* [Variable &agrave; la ligne 24](../../punbb/report_popup_body.tpl#L24)
-
-### [U_REPORT_LIST](../U_REPORT_LIST.md)
-* [Variable &agrave; la ligne 10](../../punbb/report_popup_body.tpl#L10)
+* [Début de boucle &agrave; la ligne 1](../../punbb/report_popup_body.tpl#L1)
+* [Fin de boucle &agrave; la ligne 5](../../punbb/report_popup_body.tpl#L5)

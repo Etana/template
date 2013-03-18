@@ -6,9 +6,9 @@
 ### Version phpBB2
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Début de condition &agrave; la ligne 633](../subsilver/posting_body.tpl#L633)
-* [Fin de condition &agrave; la ligne 635](../subsilver/posting_body.tpl#L635)
+* [Début de boucle &agrave; la ligne 633](../subsilver/posting_body.tpl#L633)
+* [Fin de boucle &agrave; la ligne 635](../subsilver/posting_body.tpl#L635)
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Début de condition &agrave; la ligne 622](../subsilver/posting_body_wysiwyg.tpl#L622)
-* [Fin de condition &agrave; la ligne 624](../subsilver/posting_body_wysiwyg.tpl#L624)
+* [Début de boucle &agrave; la ligne 622](../subsilver/posting_body_wysiwyg.tpl#L622)
+* [Fin de boucle &agrave; la ligne 624](../subsilver/posting_body_wysiwyg.tpl#L624)

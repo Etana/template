@@ -6,5 +6,5 @@
 ### Version PunBB
 
 #### [Template overall_header](punbb/overall_header.md)
-* [Début de condition &agrave; la ligne 241](../punbb/overall_header.tpl#L241)
-* [Fin de condition &agrave; la ligne 243](../punbb/overall_header.tpl#L243)
+* [Début de boucle &agrave; la ligne 241](../punbb/overall_header.tpl#L241)
+* [Fin de boucle &agrave; la ligne 243](../punbb/overall_header.tpl#L243)

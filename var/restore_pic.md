@@ -6,5 +6,5 @@
 ### Version phpBB2
 
 #### [Template album_cat_body](subsilver/album_cat_body.md)
-* [Début de condition &agrave; la ligne 147](../subsilver/album_cat_body.tpl#L147)
-* [Fin de condition &agrave; la ligne 153](../subsilver/album_cat_body.tpl#L153)
+* [Début de boucle &agrave; la ligne 147](../subsilver/album_cat_body.tpl#L147)
+* [Fin de boucle &agrave; la ligne 153](../subsilver/album_cat_body.tpl#L153)

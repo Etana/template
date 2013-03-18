@@ -6,11 +6,11 @@
 ### Version PunBB
 
 #### [Template overall_header](punbb/overall_header.md)
-* [Début de condition &agrave; la ligne 25](../punbb/overall_header.tpl#L25)
-* [Fin de condition &agrave; la ligne 28](../punbb/overall_header.tpl#L28)
+* [Début de boucle &agrave; la ligne 25](../punbb/overall_header.tpl#L25)
+* [Fin de boucle &agrave; la ligne 28](../punbb/overall_header.tpl#L28)
 
 ### Version phpBB2
 
 #### [Template overall_header](subsilver/overall_header.md)
-* [Début de condition &agrave; la ligne 25](../subsilver/overall_header.tpl#L25)
-* [Fin de condition &agrave; la ligne 28](../subsilver/overall_header.tpl#L28)
+* [Début de boucle &agrave; la ligne 25](../subsilver/overall_header.tpl#L25)
+* [Fin de boucle &agrave; la ligne 28](../subsilver/overall_header.tpl#L28)

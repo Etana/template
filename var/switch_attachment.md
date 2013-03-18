@@ -6,19 +6,19 @@
 ### Version PunBB
 
 #### [Template posting_body](punbb/posting_body.md)
-* [Début de condition &agrave; la ligne 567](../punbb/posting_body.tpl#L567)
-* [Fin de condition &agrave; la ligne 586](../punbb/posting_body.tpl#L586)
+* [Début de boucle &agrave; la ligne 567](../punbb/posting_body.tpl#L567)
+* [Fin de boucle &agrave; la ligne 586](../punbb/posting_body.tpl#L586)
 
 #### [Template posting_body_wysiwyg](punbb/posting_body_wysiwyg.md)
-* [Début de condition &agrave; la ligne 566](../punbb/posting_body_wysiwyg.tpl#L566)
-* [Fin de condition &agrave; la ligne 585](../punbb/posting_body_wysiwyg.tpl#L585)
+* [Début de boucle &agrave; la ligne 566](../punbb/posting_body_wysiwyg.tpl#L566)
+* [Fin de boucle &agrave; la ligne 585](../punbb/posting_body_wysiwyg.tpl#L585)
 
 ### Version phpBB2
 
 #### [Template posting_body](subsilver/posting_body.md)
-* [Début de condition &agrave; la ligne 657](../subsilver/posting_body.tpl#L657)
-* [Fin de condition &agrave; la ligne 710](../subsilver/posting_body.tpl#L710)
+* [Début de boucle &agrave; la ligne 657](../subsilver/posting_body.tpl#L657)
+* [Fin de boucle &agrave; la ligne 710](../subsilver/posting_body.tpl#L710)
 
 #### [Template posting_body_wysiwyg](subsilver/posting_body_wysiwyg.md)
-* [Début de condition &agrave; la ligne 646](../subsilver/posting_body_wysiwyg.tpl#L646)
-* [Fin de condition &agrave; la ligne 689](../subsilver/posting_body_wysiwyg.tpl#L689)
+* [Début de boucle &agrave; la ligne 646](../subsilver/posting_body_wysiwyg.tpl#L646)
+* [Fin de boucle &agrave; la ligne 689](../subsilver/posting_body_wysiwyg.tpl#L689)

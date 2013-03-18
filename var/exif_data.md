@@ -6,5 +6,5 @@
 ### Version phpBB2
 
 #### [Template album_showpage_body](subsilver/album_showpage_body.md)
-* [Début de condition &agrave; la ligne 356](../subsilver/album_showpage_body.tpl#L356)
-* [Fin de condition &agrave; la ligne 363](../subsilver/album_showpage_body.tpl#L363)
+* [Début de boucle &agrave; la ligne 356](../subsilver/album_showpage_body.tpl#L356)
+* [Fin de boucle &agrave; la ligne 363](../subsilver/album_showpage_body.tpl#L363)

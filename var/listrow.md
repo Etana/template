@@ -6,11 +6,11 @@
 ### Version PunBB
 
 #### [Template privmsgs_body](punbb/privmsgs_body.md)
-* [Début de condition &agrave; la ligne 55](../punbb/privmsgs_body.tpl#L55)
-* [Fin de condition &agrave; la ligne 68](../punbb/privmsgs_body.tpl#L68)
+* [Début de boucle &agrave; la ligne 55](../punbb/privmsgs_body.tpl#L55)
+* [Fin de boucle &agrave; la ligne 68](../punbb/privmsgs_body.tpl#L68)
 
 ### Version phpBB2
 
 #### [Template privmsgs_body](subsilver/privmsgs_body.md)
-* [Début de condition &agrave; la ligne 60](../subsilver/privmsgs_body.tpl#L60)
-* [Fin de condition &agrave; la ligne 69](../subsilver/privmsgs_body.tpl#L69)
+* [Début de boucle &agrave; la ligne 60](../subsilver/privmsgs_body.tpl#L60)
+* [Fin de boucle &agrave; la ligne 69](../subsilver/privmsgs_body.tpl#L69)

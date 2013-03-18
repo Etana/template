@@ -6,5 +6,5 @@
 ### Version PunBB
 
 #### [Template profile_add_body](punbb/profile_add_body.md)
-* [Début de condition &agrave; la ligne 129](../punbb/profile_add_body.tpl#L129)
-* [Fin de condition &agrave; la ligne 140](../punbb/profile_add_body.tpl#L140)
+* [Début de boucle &agrave; la ligne 129](../punbb/profile_add_body.tpl#L129)
+* [Fin de boucle &agrave; la ligne 140](../punbb/profile_add_body.tpl#L140)

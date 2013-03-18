@@ -6,5 +6,5 @@
 ### Version PunBB
 
 #### [Template portal_body](punbb/portal_body.md)
-* [Début de condition &agrave; la ligne 57](../punbb/portal_body.tpl#L57)
-* [Fin de condition &agrave; la ligne 59](../punbb/portal_body.tpl#L59)
+* [Début de boucle &agrave; la ligne 57](../punbb/portal_body.tpl#L57)
+* [Fin de boucle &agrave; la ligne 59](../punbb/portal_body.tpl#L59)

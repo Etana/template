@@ -6,11 +6,11 @@
 ### Version PunBB
 
 #### [Template viewonline_body](punbb/viewonline_body.md)
-* [Début de condition &agrave; la ligne 54](../punbb/viewonline_body.tpl#L54)
-* [Fin de condition &agrave; la ligne 60](../punbb/viewonline_body.tpl#L60)
+* [Début de boucle &agrave; la ligne 54](../punbb/viewonline_body.tpl#L54)
+* [Fin de boucle &agrave; la ligne 60](../punbb/viewonline_body.tpl#L60)
 
 ### Version phpBB2
 
 #### [Template viewonline_body](subsilver/viewonline_body.md)
-* [Début de condition &agrave; la ligne 36](../subsilver/viewonline_body.tpl#L36)
-* [Fin de condition &agrave; la ligne 42](../subsilver/viewonline_body.tpl#L42)
+* [Début de boucle &agrave; la ligne 36](../subsilver/viewonline_body.tpl#L36)
+* [Fin de boucle &agrave; la ligne 42](../subsilver/viewonline_body.tpl#L42)

@@ -6,5 +6,5 @@
 ### Version PunBB
 
 #### [Template index_box](punbb/index_box.md)
-* [Début de condition &agrave; la ligne 43](../punbb/index_box.tpl#L43)
-* [Fin de condition &agrave; la ligne 45](../punbb/index_box.tpl#L45)
+* [Début de boucle &agrave; la ligne 43](../punbb/index_box.tpl#L43)
+* [Fin de boucle &agrave; la ligne 45](../punbb/index_box.tpl#L45)

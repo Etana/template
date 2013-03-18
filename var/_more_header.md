@@ -6,5 +6,5 @@
 ### Version phpBB2
 
 #### [Template calendar_box](subsilver/calendar_box.md)
-* [Début de condition &agrave; la ligne 74](../subsilver/calendar_box.tpl#L74)
-* [Fin de condition &agrave; la ligne 76](../subsilver/calendar_box.tpl#L76)
+* [Début de boucle &agrave; la ligne 74](../subsilver/calendar_box.tpl#L74)
+* [Fin de boucle &agrave; la ligne 76](../subsilver/calendar_box.tpl#L76)

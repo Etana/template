@@ -6,5 +6,5 @@
 ### Version phpBB2
 
 #### [Template standard](subsilver/standard.md)
-* [Début de condition &agrave; la ligne 8](../subsilver/standard.tpl#L8)
-* [Fin de condition &agrave; la ligne 10](../subsilver/standard.tpl#L10)
+* [Début de boucle &agrave; la ligne 8](../subsilver/standard.tpl#L8)
+* [Fin de boucle &agrave; la ligne 10](../subsilver/standard.tpl#L10)
