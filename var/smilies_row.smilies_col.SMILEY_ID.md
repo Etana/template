@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [smilies_col](smilies_col.md#readme)
 * se trouvant dans une boucle sur la variable [smilies_row](smilies_row.md#readme)
 
-```
+```html
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
         {smilies_row.smilies_col.SMILEY_ID}

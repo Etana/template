@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [rpg_fields_left](rpg_fields_left.md#readme)
 
-```
+```html
 <!-- BEGIN rpg_fields_left -->
     {rpg_fields_left.F_NAME}
 <!-- END rpg_fields_left -->

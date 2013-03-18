@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [header_cell](header_cell.md#readme)
 
-```
+```html
 <!-- BEGIN header_cell -->
     {header_cell.L_DAY}
 <!-- END header_cell -->

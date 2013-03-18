@@ -8,7 +8,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [rate_switch](rate_switch.md#readme)
 * se trouvant dans une boucle sur la variable [display_infos](display_infos.md#readme)
 
-```
+```html
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
         <!-- BEGIN rate_row -->

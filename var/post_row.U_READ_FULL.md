@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [post_row](post_row.md#readme)
 
-```
+```html
 <!-- BEGIN post_row -->
     {post_row.U_READ_FULL}
 <!-- END post_row -->

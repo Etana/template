@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [topicrow](topicrow.md#readme)
 
-```
+```html
 <!-- BEGIN topicrow -->
     {topicrow.TOPIC_ID}
 <!-- END topicrow -->

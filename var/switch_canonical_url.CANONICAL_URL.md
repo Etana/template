@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_canonical_url](switch_canonical_url.md#readme)
 
-```
+```html
 <!-- BEGIN switch_canonical_url -->
     {switch_canonical_url.CANONICAL_URL}
 <!-- END switch_canonical_url -->

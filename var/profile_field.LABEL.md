@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [profile_field](profile_field.md#readme)
 
-```
+```html
 <!-- BEGIN profile_field -->
     {profile_field.LABEL}
 <!-- END profile_field -->

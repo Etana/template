@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [bot_user_row](bot_user_row.md#readme)
 
-```
+```html
 <!-- BEGIN bot_user_row -->
     {bot_user_row.FORUM_LOCATION}
 <!-- END bot_user_row -->

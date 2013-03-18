@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [rpg_fields_left](rpg_fields_left.md#readme)
 * se trouvant dans une boucle sur la variable [switch_rpg](switch_rpg.md#readme)
 
-```
+```html
 <!-- BEGIN switch_rpg -->
     <!-- BEGIN rpg_fields_left -->
         {switch_rpg.rpg_fields_left.F_NAME}

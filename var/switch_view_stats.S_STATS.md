@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_view_stats](switch_view_stats.md#readme)
 
-```
+```html
 <!-- BEGIN switch_view_stats -->
     {switch_view_stats.S_STATS}
 <!-- END switch_view_stats -->

@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [userrow](userrow.md#readme)
 
-```
+```html
 <!-- BEGIN userrow -->
     {userrow.L_SEARCH}
 <!-- END userrow -->

@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_desc](switch_desc.md#readme)
 
-```
+```html
 <!-- BEGIN switch_desc -->
     {switch_desc.SITE_DESCRIPTION}
 <!-- END switch_desc -->

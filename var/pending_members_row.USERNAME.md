@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [pending_members_row](pending_members_row.md#readme)
 
-```
+```html
 <!-- BEGIN pending_members_row -->
     {pending_members_row.USERNAME}
 <!-- END pending_members_row -->

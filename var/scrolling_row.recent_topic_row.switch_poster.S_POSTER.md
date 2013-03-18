@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [recent_topic_row](recent_topic_row.md#readme)
 * se trouvant dans une boucle sur la variable [scrolling_row](scrolling_row.md#readme)
 
-```
+```html
 <!-- BEGIN scrolling_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->

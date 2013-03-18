@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_quote_limit](switch_quote_limit.md#readme)
 
-```
+```html
 <!-- BEGIN switch_quote_limit -->
     {switch_quote_limit.L_QUOTE_LIMIT_WARNING}
 <!-- END switch_quote_limit -->

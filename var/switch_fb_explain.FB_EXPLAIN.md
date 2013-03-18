@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_fb_explain](switch_fb_explain.md#readme)
 
-```
+```html
 <!-- BEGIN switch_fb_explain -->
     {switch_fb_explain.FB_EXPLAIN}
 <!-- END switch_fb_explain -->

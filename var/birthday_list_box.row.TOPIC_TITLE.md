@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [row](row.md#readme)
 * se trouvant dans une boucle sur la variable [birthday_list_box](birthday_list_box.md#readme)
 
-```
+```html
 <!-- BEGIN birthday_list_box -->
     <!-- BEGIN row -->
         {birthday_list_box.row.TOPIC_TITLE}

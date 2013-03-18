@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [IMGS](IMGS.md#readme)
 
-```
+```html
 <!-- BEGIN IMGS -->
     {IMGS.CLASS}
 <!-- END IMGS -->

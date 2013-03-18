@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [topics_list_box](topics_list_box.md#readme)
 
-```
+```html
 <!-- BEGIN topics_list_box -->
     {topics_list_box.FIELDNAME}
 <!-- END topics_list_box -->

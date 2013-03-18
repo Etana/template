@@ -9,7 +9,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [displayed](displayed.md#readme)
 * se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
 
-```
+```html
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_attachments -->

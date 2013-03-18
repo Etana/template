@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [hitskin_preview](hitskin_preview.md#readme)
 
-```
+```html
 <!-- BEGIN hitskin_preview -->
     {hitskin_preview.L_THEME_SITE_PREVIEW}
 <!-- END hitskin_preview -->

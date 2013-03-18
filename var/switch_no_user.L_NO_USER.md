@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_no_user](switch_no_user.md#readme)
 
-```
+```html
 <!-- BEGIN switch_no_user -->
     {switch_no_user.L_NO_USER}
 <!-- END switch_no_user -->

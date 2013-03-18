@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [moderation_panel](moderation_panel.md#readme)
 * se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
 
-```
+```html
 <!-- BEGIN navlinks -->
     <!-- BEGIN moderation_panel -->
         {navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}

@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [recent_pics](recent_pics.md#readme)
 * se trouvant dans une boucle sur la variable [list_pics_block](list_pics_block.md#readme)
 
-```
+```html
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN recent_pics -->
         <!-- BEGIN norecent_col -->

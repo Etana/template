@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [picrow](picrow.md#readme)
 
-```
+```html
 <!-- BEGIN picrow -->
     {picrow.LOCK}
 <!-- END picrow -->

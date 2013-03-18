@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [postrow](postrow.md#readme)
 
-```
+```html
 <!-- BEGIN postrow -->
     {postrow.POST_DATE}
 <!-- END postrow -->

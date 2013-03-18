@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_compat_meta](switch_compat_meta.md#readme)
 
-```
+```html
 <!-- BEGIN switch_compat_meta -->
     {switch_compat_meta.VERSION}
 <!-- END switch_compat_meta -->

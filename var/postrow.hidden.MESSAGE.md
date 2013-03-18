@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [hidden](hidden.md#readme)
 * se trouvant dans une boucle sur la variable [postrow](postrow.md#readme)
 
-```
+```html
 <!-- BEGIN postrow -->
     <!-- BEGIN hidden -->
         {postrow.hidden.MESSAGE}

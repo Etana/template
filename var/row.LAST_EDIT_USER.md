@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [row](row.md#readme)
 
-```
+```html
 <!-- BEGIN row -->
     {row.LAST_EDIT_USER}
 <!-- END row -->

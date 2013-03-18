@@ -8,7 +8,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [switch_icon_checkbox](switch_icon_checkbox.md#readme)
 * se trouvant dans une boucle sur la variable [switch_topic_modif](switch_topic_modif.md#readme)
 
-```
+```html
 <!-- BEGIN switch_topic_modif -->
     <!-- BEGIN switch_icon_checkbox -->
         <!-- BEGIN row -->

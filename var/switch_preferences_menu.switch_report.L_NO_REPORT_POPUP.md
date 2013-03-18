@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [switch_report](switch_report.md#readme)
 * se trouvant dans une boucle sur la variable [switch_preferences_menu](switch_preferences_menu.md#readme)
 
-```
+```html
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_report -->
         {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}

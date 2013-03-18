@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [picrow](picrow.md#readme)
 * se trouvant dans une boucle sur la variable [index_pics_block](index_pics_block.md#readme)
 
-```
+```html
 <!-- BEGIN index_pics_block -->
     <!-- BEGIN picrow -->
         <!-- BEGIN piccol -->

@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [contact_field](contact_field.md#readme)
 
-```
+```html
 <!-- BEGIN contact_field -->
     {contact_field.CONTENT}
 <!-- END contact_field -->

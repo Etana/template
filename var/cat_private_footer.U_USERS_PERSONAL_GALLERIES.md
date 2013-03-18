@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [cat_private_footer](cat_private_footer.md#readme)
 
-```
+```html
 <!-- BEGIN cat_private_footer -->
     {cat_private_footer.U_USERS_PERSONAL_GALLERIES}
 <!-- END cat_private_footer -->

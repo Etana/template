@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [switch_full_month](switch_full_month.md#readme)
 * se trouvant dans une boucle sur la variable [_calendar_box](_calendar_box.md#readme)
 
-```
+```html
 <!-- BEGIN _calendar_box -->
     <!-- BEGIN switch_full_month -->
         <!-- BEGIN _cell -->

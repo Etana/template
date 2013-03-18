@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [TOPIC](TOPIC.md#readme)
 
-```
+```html
 <!-- BEGIN TOPIC -->
     {TOPIC.TITLE}
 <!-- END TOPIC -->

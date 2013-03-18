@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [pagination](pagination.md#readme)
 
-```
+```html
 <!-- BEGIN pagination -->
     {pagination.PAGINATION}
 <!-- END pagination -->

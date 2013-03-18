@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [row](row.md#readme)
 * se trouvant dans une boucle sur la variable [switch_icon_checkbox](switch_icon_checkbox.md#readme)
 
-```
+```html
 <!-- BEGIN switch_icon_checkbox -->
     <!-- BEGIN row -->
         <!-- BEGIN cell -->

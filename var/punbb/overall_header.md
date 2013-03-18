@@ -10,7 +10,7 @@
 ### [CSS](../CSS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/CSS))
 * [Variable &agrave; la ligne 19](../../punbb/overall_header.tpl#L19)
 
-### [G_ANALYTICS_ID](../G_ANALYTICS_ID.md#readme) ([XXX](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID))
+### [G_ANALYTICS_ID](../G_ANALYTICS_ID.md#readme) ([V](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID))
 * [Variable &agrave; la ligne 177](../../punbb/overall_header.tpl#L177)
 
 ### [G_ANALYTICS_ID_BIS](../G_ANALYTICS_ID_BIS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID_BIS))
@@ -53,7 +53,7 @@
 ### [hitskin_preview.U_RETURN_THEME](../hitskin_preview.U_RETURN_THEME.md#readme) ([XXX](https://fa-tvars.appspot.com/var/hitskin_preview.U_RETURN_THEME))
 * [Variable &agrave; la ligne 204](../../punbb/overall_header.tpl#L204)
 
-### [HOSTING_JS](../HOSTING_JS.md#readme) ([XXX](https://fa-tvars.appspot.com/var/HOSTING_JS))
+### [HOSTING_JS](../HOSTING_JS.md#readme) ([V](https://fa-tvars.appspot.com/var/HOSTING_JS))
 * [Variable &agrave; la ligne 172](../../punbb/overall_header.tpl#L172)
 
 ### [html_validation](../html_validation.md#readme) ([XXX](https://fa-tvars.appspot.com/var/html_validation))

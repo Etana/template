@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [row_replace](row_replace.md#readme)
 * se trouvant dans une boucle sur la variable [switch_roll_dice_old](switch_roll_dice_old.md#readme)
 
-```
+```html
 <!-- BEGIN switch_roll_dice_old -->
     <!-- BEGIN row_replace -->
         {switch_roll_dice_old.row_replace.DICE_NAME}

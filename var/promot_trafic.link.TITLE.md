@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [link](link.md#readme)
 * se trouvant dans une boucle sur la variable [promot_trafic](promot_trafic.md#readme)
 
-```
+```html
 <!-- BEGIN promot_trafic -->
     <!-- BEGIN link -->
         {promot_trafic.link.TITLE}

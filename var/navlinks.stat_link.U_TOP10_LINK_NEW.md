@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [stat_link](stat_link.md#readme)
 * se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
 
-```
+```html
 <!-- BEGIN navlinks -->
     <!-- BEGIN stat_link -->
         {navlinks.stat_link.U_TOP10_LINK_NEW}

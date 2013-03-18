@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [POSTER](POSTER.md#readme)
 
-```
+```html
 <!-- BEGIN POSTER -->
     {POSTER.NB_POSTS}
 <!-- END POSTER -->

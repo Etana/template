@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [switch_profile_fields](switch_profile_fields.md#readme)
 * se trouvant dans une boucle sur la variable [switch_informations_menu](switch_informations_menu.md#readme)
 
-```
+```html
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_profile_fields -->
         <!-- BEGIN field -->

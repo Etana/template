@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [listrow](listrow.md#readme)
 
-```
+```html
 <!-- BEGIN listrow -->
     {listrow.PRIVMSG_FOLDER_IMG}
 <!-- END listrow -->

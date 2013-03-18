@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [forumrow](forumrow.md#readme)
 
-```
+```html
 <!-- BEGIN forumrow -->
     {forumrow.L_SUBFORUM_STR}
 <!-- END forumrow -->

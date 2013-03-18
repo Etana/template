@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [searchresults](searchresults.md#readme)
 
-```
+```html
 <!-- BEGIN searchresults -->
     {searchresults.LAST_POST_TIME}
 <!-- END searchresults -->

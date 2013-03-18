@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [_calendar_box](_calendar_box.md#readme)
 
-```
+```html
 <!-- BEGIN _calendar_box -->
     {_calendar_box.S_FORUM_LIST}
 <!-- END _calendar_box -->

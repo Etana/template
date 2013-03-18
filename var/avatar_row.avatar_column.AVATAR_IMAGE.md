@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [avatar_column](avatar_column.md#readme)
 * se trouvant dans une boucle sur la variable [avatar_row](avatar_row.md#readme)
 
-```
+```html
 <!-- BEGIN avatar_row -->
     <!-- BEGIN avatar_column -->
         {avatar_row.avatar_column.AVATAR_IMAGE}

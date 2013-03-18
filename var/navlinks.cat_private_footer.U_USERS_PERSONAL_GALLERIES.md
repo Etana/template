@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [cat_private_footer](cat_private_footer.md#readme)
 * se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
 
-```
+```html
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
         {navlinks.cat_private_footer.U_USERS_PERSONAL_GALLERIES}

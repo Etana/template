@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [exif_switch](exif_switch.md#readme)
 * se trouvant dans une boucle sur la variable [switch_exif_enabled](switch_exif_enabled.md#readme)
 
-```
+```html
 <!-- BEGIN switch_exif_enabled -->
     <!-- BEGIN exif_switch -->
         <!-- BEGIN exif_data -->

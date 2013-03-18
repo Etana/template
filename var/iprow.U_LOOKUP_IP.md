@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [iprow](iprow.md#readme)
 
-```
+```html
 <!-- BEGIN iprow -->
     {iprow.U_LOOKUP_IP}
 <!-- END iprow -->

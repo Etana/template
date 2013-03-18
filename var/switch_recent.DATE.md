@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_recent](switch_recent.md#readme)
 
-```
+```html
 <!-- BEGIN switch_recent -->
     {switch_recent.DATE}
 <!-- END switch_recent -->

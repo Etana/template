@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [recent_pics](recent_pics.md#readme)
 * se trouvant dans une boucle sur la variable [build_categories_block](build_categories_block.md#readme)
 
-```
+```html
 <!-- BEGIN build_categories_block -->
     <!-- BEGIN recent_pics -->
         <!-- BEGIN recent_detail -->

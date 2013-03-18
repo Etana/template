@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [no_personal_galleries](no_personal_galleries.md#readme)
 
-```
+```html
 <!-- BEGIN no_personal_galleries -->
     {no_personal_galleries.L_INFOS}
 <!-- END no_personal_galleries -->

@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [switch_subject_color](switch_subject_color.md#readme)
 * se trouvant dans une boucle sur la variable [switch_subject](switch_subject.md#readme)
 
-```
+```html
 <!-- BEGIN switch_subject -->
     <!-- BEGIN switch_subject_color -->
         {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}

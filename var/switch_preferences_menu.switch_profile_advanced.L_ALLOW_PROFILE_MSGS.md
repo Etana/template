@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [switch_profile_advanced](switch_profile_advanced.md#readme)
 * se trouvant dans une boucle sur la variable [switch_preferences_menu](switch_preferences_menu.md#readme)
 
-```
+```html
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_profile_advanced -->
         {switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS}

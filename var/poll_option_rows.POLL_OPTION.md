@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [poll_option_rows](poll_option_rows.md#readme)
 
-```
+```html
 <!-- BEGIN poll_option_rows -->
     {poll_option_rows.POLL_OPTION}
 <!-- END poll_option_rows -->

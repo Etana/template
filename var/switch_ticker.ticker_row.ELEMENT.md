@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [ticker_row](ticker_row.md#readme)
 * se trouvant dans une boucle sur la variable [switch_ticker](switch_ticker.md#readme)
 
-```
+```html
 <!-- BEGIN switch_ticker -->
     <!-- BEGIN ticker_row -->
         {switch_ticker.ticker_row.ELEMENT}

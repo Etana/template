@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_facebook_login](switch_facebook_login.md#readme)
 
-```
+```html
 <!-- BEGIN switch_facebook_login -->
     {switch_facebook_login.FACEBOOK_APP_ID}
 <!-- END switch_facebook_login -->

@@ -8,7 +8,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [switch_attachments](switch_attachments.md#readme)
 * se trouvant dans une boucle sur la variable [post_row](post_row.md#readme)
 
-```
+```html
 <!-- BEGIN post_row -->
     <!-- BEGIN switch_attachments -->
         <!-- BEGIN switch_post_attachments -->

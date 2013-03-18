@@ -1,5 +1,7 @@
 # Variable HOSTING_JS
-[Ajouter une description](https://fa-tvars.appspot.com/var/HOSTING_JS)
+
+##Description[*](https://fa-tvars.appspot.com/var/HOSTING_JS)
+Contient tout le JavaScript de votre forum.
 
 ## Utilisations dans les templates
 

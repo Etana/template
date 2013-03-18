@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [switch_fb_connect](switch_fb_connect.md#readme)
 * se trouvant dans une boucle sur la variable [switch_preferences_menu](switch_preferences_menu.md#readme)
 
-```
+```html
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_fb_connect -->
         {switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT}

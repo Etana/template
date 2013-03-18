@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_image_resize](switch_image_resize.md#readme)
 
-```
+```html
 <!-- BEGIN switch_image_resize -->
     {switch_image_resize.IMG_RESIZE_HEIGHT}
 <!-- END switch_image_resize -->

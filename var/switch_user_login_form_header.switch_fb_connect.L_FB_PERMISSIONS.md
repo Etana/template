@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [switch_fb_connect](switch_fb_connect.md#readme)
 * se trouvant dans une boucle sur la variable [switch_user_login_form_header](switch_user_login_form_header.md#readme)
 
-```
+```html
 <!-- BEGIN switch_user_login_form_header -->
     <!-- BEGIN switch_fb_connect -->
         {switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}

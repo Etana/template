@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [catfoot](catfoot.md#readme)
 * se trouvant dans une boucle sur la variable [catrow](catrow.md#readme)
 
-```
+```html
 <!-- BEGIN catrow -->
     <!-- BEGIN catfoot -->
         {catrow.catfoot.INC_SPAN}

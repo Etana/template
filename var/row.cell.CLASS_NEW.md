@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [cell](cell.md#readme)
 * se trouvant dans une boucle sur la variable [row](row.md#readme)
 
-```
+```html
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
         {row.cell.CLASS_NEW}

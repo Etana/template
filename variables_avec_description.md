@@ -12,6 +12,8 @@
 * [FORUM_NEW_IMG](var/FORUM_NEW_IMG.md#readme)
 * [GENERATED_NAV_BAR](var/GENERATED_NAV_BAR.md#readme)
 * [GROUP_LEGEND](var/GROUP_LEGEND.md#readme)
+* [G_ANALYTICS_ID](var/G_ANALYTICS_ID.md#readme)
+* [HOSTING_JS](var/HOSTING_JS.md#readme)
 * [JAVASCRIPT](var/JAVASCRIPT.md#readme)
 * [LEGEND](var/LEGEND.md#readme)
 * [LOGGED_IN_USER_LIST](var/LOGGED_IN_USER_LIST.md#readme)

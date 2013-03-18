@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [no_pics](no_pics.md#readme)
 * se trouvant dans une boucle sur la variable [index_pics_block](index_pics_block.md#readme)
 
-```
+```html
 <!-- BEGIN index_pics_block -->
     <!-- BEGIN no_pics -->
         {index_pics_block.no_pics.L_NO_ALBUMS}

@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_roll_dice](switch_roll_dice.md#readme)
 
-```
+```html
 <!-- BEGIN switch_roll_dice -->
     {switch_roll_dice.DICE_SCRIPT}
 <!-- END switch_roll_dice -->

@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [googlemap](googlemap.md#readme)
 
-```
+```html
 <!-- BEGIN googlemap -->
     {googlemap.U_GOOGLEMAP}
 <!-- END googlemap -->

@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [switch_no_user](switch_no_user.md#readme)
 
-```
+```html
 <!-- BEGIN switch_no_user -->
     {switch_no_user.COLSPAN_NUMBER}
 <!-- END switch_no_user -->

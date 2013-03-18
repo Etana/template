@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [hidden_field](hidden_field.md#readme)
 * se trouvant dans une boucle sur la variable [paypal_confirm](paypal_confirm.md#readme)
 
-```
+```html
 <!-- BEGIN paypal_confirm -->
     <!-- BEGIN hidden_field -->
         {paypal_confirm.hidden_field.NAME}

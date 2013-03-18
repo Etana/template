@@ -7,7 +7,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * se trouvant dans une boucle sur la variable [switch_chatbox_activate](switch_chatbox_activate.md#readme)
 * se trouvant dans une boucle sur la variable [disable_viewonline](disable_viewonline.md#readme)
 
-```
+```html
 <!-- BEGIN disable_viewonline -->
     <!-- BEGIN switch_chatbox_activate -->
         <!-- BEGIN switch_chatbox_popup -->

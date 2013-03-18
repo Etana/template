@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [faq_row_link](faq_row_link.md#readme)
 * se trouvant dans une boucle sur la variable [faq_block_link](faq_block_link.md#readme)
 
-```
+```html
 <!-- BEGIN faq_block_link -->
     <!-- BEGIN faq_row_link -->
         {faq_block_link.faq_row_link.FAQ_LINK}

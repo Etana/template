@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [guest_user_row](guest_user_row.md#readme)
 
-```
+```html
 <!-- BEGIN guest_user_row -->
     {guest_user_row.ROW_CLASS}
 <!-- END guest_user_row -->

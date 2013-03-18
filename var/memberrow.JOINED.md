@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [memberrow](memberrow.md#readme)
 
-```
+```html
 <!-- BEGIN memberrow -->
     {memberrow.JOINED}
 <!-- END memberrow -->

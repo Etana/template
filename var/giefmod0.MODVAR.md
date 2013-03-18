@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [giefmod0](giefmod0.md#readme)
 
-```
+```html
 <!-- BEGIN giefmod0 -->
     {giefmod0.MODVAR}
 <!-- END giefmod0 -->

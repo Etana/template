@@ -5,7 +5,7 @@
 Cette variable est utilisable dans une boucle sur la variable :
 * [member_row](member_row.md#readme)
 
-```
+```html
 <!-- BEGIN member_row -->
     {member_row.U_VIEWPROFILE}
 <!-- END member_row -->

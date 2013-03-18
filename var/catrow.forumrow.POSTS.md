@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [forumrow](forumrow.md#readme)
 * se trouvant dans une boucle sur la variable [catrow](catrow.md#readme)
 
-```
+```html
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         {catrow.forumrow.POSTS}

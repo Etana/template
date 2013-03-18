@@ -6,7 +6,7 @@ Cette variable est utilisable dans une boucle sur la variable :
 * [pic_backup_link](pic_backup_link.md#readme)
 * se trouvant dans une boucle sur la variable [navlinks](navlinks.md#readme)
 
-```
+```html
 <!-- BEGIN navlinks -->
     <!-- BEGIN pic_backup_link -->
         {navlinks.pic_backup_link.BACKUP_FOLDER_LINK}
