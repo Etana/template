@@ -1,7 +1,7 @@
 # Variable SCROLL_DELAY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SCROLL_DELAY}

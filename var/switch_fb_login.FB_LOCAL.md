@@ -1,4 +1,4 @@
-# Variable switch_fb_login.FB_LOCAL
+# Variable de boucle switch_fb_login.FB_LOCAL
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_login](switch_fb_login.md#readme).

@@ -1,4 +1,4 @@
-# Variable switch_image_resize.IMG_RESIZE_WIDTH
+# Variable de boucle switch_image_resize.IMG_RESIZE_WIDTH
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_image_resize](switch_image_resize.md#readme).

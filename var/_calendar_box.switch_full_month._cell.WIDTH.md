@@ -1,4 +1,4 @@
-# Variable _calendar_box.switch_full_month._cell.WIDTH
+# Variable de boucle _calendar_box.switch_full_month._cell.WIDTH
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [_cell](_cell.md#readme) se trouvant dans une boucle sur [switch_full_month](switch_full_month.md#readme) se trouvant dans une boucle sur [_calendar_box](_calendar_box.md#readme).

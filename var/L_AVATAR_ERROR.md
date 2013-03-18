@@ -1,7 +1,7 @@
 # Variable L_AVATAR_ERROR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_AVATAR_ERROR}

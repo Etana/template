@@ -1,7 +1,7 @@
 # Variable TOPIC_DATE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TOPIC_DATE}

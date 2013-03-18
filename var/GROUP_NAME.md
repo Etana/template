@@ -1,7 +1,7 @@
 # Variable GROUP_NAME
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {GROUP_NAME}

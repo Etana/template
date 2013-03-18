@@ -1,12 +1,13 @@
-# Variable switch_box_size_notice
+# Boucle switch_box_size_notice
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_box_size_notice -->
     contenu
-<!-- END switch_box_size_notice -->```
+<!-- END switch_box_size_notice -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_box_size_notice)

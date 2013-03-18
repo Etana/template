@@ -1,12 +1,13 @@
-# Variable single_selection
+# Boucle single_selection
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN single_selection -->
     contenu
-<!-- END single_selection -->```
+<!-- END single_selection -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/single_selection)

@@ -1,7 +1,7 @@
 # Variable L_NOT_CONNECTED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_NOT_CONNECTED}

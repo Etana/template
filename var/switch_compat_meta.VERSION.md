@@ -1,4 +1,4 @@
-# Variable switch_compat_meta.VERSION
+# Variable de boucle switch_compat_meta.VERSION
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_compat_meta](switch_compat_meta.md#readme).

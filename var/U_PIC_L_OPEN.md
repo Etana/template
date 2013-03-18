@@ -1,7 +1,7 @@
 # Variable U_PIC_L_OPEN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_PIC_L_OPEN}

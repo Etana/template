@@ -1,12 +1,13 @@
-# Variable switch_unsubscribe_group_input
+# Boucle switch_unsubscribe_group_input
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_unsubscribe_group_input -->
     contenu
-<!-- END switch_unsubscribe_group_input -->```
+<!-- END switch_unsubscribe_group_input -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_unsubscribe_group_input)

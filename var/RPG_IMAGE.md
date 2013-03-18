@@ -1,7 +1,7 @@
 # Variable RPG_IMAGE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {RPG_IMAGE}

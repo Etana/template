@@ -1,12 +1,13 @@
-# Variable sepia_bw_enabled
+# Boucle sepia_bw_enabled
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN sepia_bw_enabled -->
     contenu
-<!-- END sepia_bw_enabled -->```
+<!-- END sepia_bw_enabled -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/sepia_bw_enabled)

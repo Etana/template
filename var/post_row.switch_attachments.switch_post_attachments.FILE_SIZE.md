@@ -1,4 +1,4 @@
-# Variable post_row.switch_attachments.switch_post_attachments.FILE_SIZE
+# Variable de boucle post_row.switch_attachments.switch_post_attachments.FILE_SIZE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_post_attachments](switch_post_attachments.md#readme) se trouvant dans une boucle sur [switch_attachments](switch_attachments.md#readme) se trouvant dans une boucle sur [post_row](post_row.md#readme).

@@ -1,4 +1,4 @@
-# Variable memberrow.AVATAR_IMG
+# Variable de boucle memberrow.AVATAR_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).

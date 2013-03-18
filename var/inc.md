@@ -1,12 +1,13 @@
-# Variable inc
+# Boucle inc
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN inc -->
     contenu
-<!-- END inc -->```
+<!-- END inc -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/inc)

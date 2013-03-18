@@ -1,4 +1,4 @@
-# Variable postrow.POST_SUBJECT
+# Variable de boucle postrow.POST_SUBJECT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).

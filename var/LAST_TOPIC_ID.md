@@ -1,7 +1,7 @@
 # Variable LAST_TOPIC_ID
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {LAST_TOPIC_ID}

@@ -1,4 +1,4 @@
-# Variable paypal_confirm.hidden_field.NAME
+# Variable de boucle paypal_confirm.hidden_field.NAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [hidden_field](hidden_field.md#readme) se trouvant dans une boucle sur [paypal_confirm](paypal_confirm.md#readme).

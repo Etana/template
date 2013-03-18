@@ -1,12 +1,13 @@
-# Variable out_giefmod0
+# Boucle out_giefmod0
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN out_giefmod0 -->
     contenu
-<!-- END out_giefmod0 -->```
+<!-- END out_giefmod0 -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/out_giefmod0)

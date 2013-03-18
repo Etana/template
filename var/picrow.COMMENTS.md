@@ -1,4 +1,4 @@
-# Variable picrow.COMMENTS
+# Variable de boucle picrow.COMMENTS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).

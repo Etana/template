@@ -1,4 +1,4 @@
-# Variable TOPIC.TITLE
+# Variable de boucle TOPIC.TITLE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [TOPIC](TOPIC.md#readme).

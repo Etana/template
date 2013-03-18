@@ -1,4 +1,4 @@
-# Variable navlinks.cat_public_footer.L_PUBLIC_CATEGORIES
+# Variable de boucle navlinks.cat_public_footer.L_PUBLIC_CATEGORIES
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cat_public_footer](cat_public_footer.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).

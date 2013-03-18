@@ -1,7 +1,7 @@
 # Variable EDIT_PM_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {EDIT_PM_IMG}

@@ -1,7 +1,7 @@
 # Variable UNDERLINE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {UNDERLINE}

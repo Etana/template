@@ -1,4 +1,4 @@
-# Variable reg_user_row.ROW_CLASS
+# Variable de boucle reg_user_row.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [reg_user_row](reg_user_row.md#readme).

@@ -1,12 +1,13 @@
-# Variable switch_delete_checkbox
+# Boucle switch_delete_checkbox
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_delete_checkbox -->
     contenu
-<!-- END switch_delete_checkbox -->```
+<!-- END switch_delete_checkbox -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_delete_checkbox)

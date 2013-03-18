@@ -1,4 +1,4 @@
-# Variable postrow.MESSAGE
+# Variable de boucle postrow.MESSAGE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).

@@ -1,7 +1,7 @@
 # Variable L_SOCIAL_BOOKMARKING
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SOCIAL_BOOKMARKING}

@@ -1,4 +1,4 @@
-# Variable searchresults.U_POST
+# Variable de boucle searchresults.U_POST
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

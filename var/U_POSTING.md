@@ -1,7 +1,7 @@
 # Variable U_POSTING
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_POSTING}

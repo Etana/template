@@ -1,12 +1,13 @@
-# Variable switch_login
+# Boucle switch_login
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_login -->
     contenu
-<!-- END switch_login -->```
+<!-- END switch_login -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_login)

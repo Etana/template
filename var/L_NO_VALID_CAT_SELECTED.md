@@ -1,7 +1,7 @@
 # Variable L_NO_VALID_CAT_SELECTED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_NO_VALID_CAT_SELECTED}

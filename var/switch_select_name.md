@@ -1,12 +1,13 @@
-# Variable switch_select_name
+# Boucle switch_select_name
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_select_name -->
     contenu
-<!-- END switch_select_name -->```
+<!-- END switch_select_name -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_select_name)

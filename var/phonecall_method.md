@@ -1,12 +1,13 @@
-# Variable phonecall_method
+# Boucle phonecall_method
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN phonecall_method -->
     contenu
-<!-- END phonecall_method -->```
+<!-- END phonecall_method -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/phonecall_method)

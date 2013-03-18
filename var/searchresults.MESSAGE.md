@@ -1,4 +1,4 @@
-# Variable searchresults.MESSAGE
+# Variable de boucle searchresults.MESSAGE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

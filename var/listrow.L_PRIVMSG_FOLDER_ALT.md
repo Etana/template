@@ -1,4 +1,4 @@
-# Variable listrow.L_PRIVMSG_FOLDER_ALT
+# Variable de boucle listrow.L_PRIVMSG_FOLDER_ALT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

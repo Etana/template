@@ -1,7 +1,7 @@
 # Variable L_ADD_A_POLL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ADD_A_POLL}

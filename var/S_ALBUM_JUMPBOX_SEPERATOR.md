@@ -1,7 +1,7 @@
 # Variable S_ALBUM_JUMPBOX_SEPERATOR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_ALBUM_JUMPBOX_SEPERATOR}

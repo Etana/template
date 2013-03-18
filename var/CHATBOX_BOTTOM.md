@@ -1,7 +1,7 @@
 # Variable CHATBOX_BOTTOM
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {CHATBOX_BOTTOM}

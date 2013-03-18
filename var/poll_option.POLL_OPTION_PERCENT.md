@@ -1,4 +1,4 @@
-# Variable poll_option.POLL_OPTION_PERCENT
+# Variable de boucle poll_option.POLL_OPTION_PERCENT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [poll_option](poll_option.md#readme).

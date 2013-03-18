@@ -1,12 +1,13 @@
-# Variable rate_row
+# Boucle rate_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN rate_row -->
     contenu
-<!-- END rate_row -->```
+<!-- END rate_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/rate_row)

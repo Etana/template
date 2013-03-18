@@ -1,7 +1,7 @@
 # Variable L_SPLIT_POSTS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SPLIT_POSTS}

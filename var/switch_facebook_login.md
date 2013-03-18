@@ -1,12 +1,13 @@
-# Variable switch_facebook_login
+# Boucle switch_facebook_login
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_facebook_login -->
     contenu
-<!-- END switch_facebook_login -->```
+<!-- END switch_facebook_login -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_facebook_login)

@@ -1,12 +1,13 @@
-# Variable pay_method
+# Boucle pay_method
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN pay_method -->
     contenu
-<!-- END pay_method -->```
+<!-- END pay_method -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/pay_method)

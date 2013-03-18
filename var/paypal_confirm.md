@@ -1,12 +1,13 @@
-# Variable paypal_confirm
+# Boucle paypal_confirm
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN paypal_confirm -->
     contenu
-<!-- END paypal_confirm -->```
+<!-- END paypal_confirm -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/paypal_confirm)

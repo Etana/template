@@ -1,4 +1,4 @@
-# Variable memberrow.GROUPS
+# Variable de boucle memberrow.GROUPS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).

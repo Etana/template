@@ -1,4 +1,4 @@
-# Variable catrow.tablehead.L_FORUM
+# Variable de boucle catrow.tablehead.L_FORUM
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [tablehead](tablehead.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).

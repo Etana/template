@@ -1,7 +1,7 @@
 # Variable PIC_STYLE_CLOSE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {PIC_STYLE_CLOSE}

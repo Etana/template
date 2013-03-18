@@ -1,12 +1,13 @@
-# Variable save_action
+# Boucle save_action
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN save_action -->
     contenu
-<!-- END save_action -->```
+<!-- END save_action -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/save_action)

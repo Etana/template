@@ -1,12 +1,13 @@
-# Variable avatar_row
+# Boucle avatar_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN avatar_row -->
     contenu
-<!-- END avatar_row -->```
+<!-- END avatar_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/avatar_row)

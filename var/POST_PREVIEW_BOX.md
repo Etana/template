@@ -1,7 +1,7 @@
 # Variable POST_PREVIEW_BOX
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POST_PREVIEW_BOX}

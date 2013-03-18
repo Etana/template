@@ -1,7 +1,7 @@
 # Variable POLLITEMS_CLOSE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POLLITEMS_CLOSE}

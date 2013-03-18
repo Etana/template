@@ -1,7 +1,7 @@
 # Variable POLL_DISPLAY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POLL_DISPLAY}

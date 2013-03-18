@@ -1,7 +1,7 @@
 # Variable L_TODAY_ACTIVE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_TODAY_ACTIVE}

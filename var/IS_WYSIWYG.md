@@ -1,7 +1,7 @@
 # Variable IS_WYSIWYG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {IS_WYSIWYG}

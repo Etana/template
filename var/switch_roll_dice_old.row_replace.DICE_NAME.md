@@ -1,4 +1,4 @@
-# Variable switch_roll_dice_old.row_replace.DICE_NAME
+# Variable de boucle switch_roll_dice_old.row_replace.DICE_NAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row_replace](row_replace.md#readme) se trouvant dans une boucle sur [switch_roll_dice_old](switch_roll_dice_old.md#readme).

@@ -1,7 +1,7 @@
 # Variable L_CONNECTED_MEMBERS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_CONNECTED_MEMBERS}

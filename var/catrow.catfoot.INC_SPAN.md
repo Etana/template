@@ -1,4 +1,4 @@
-# Variable catrow.catfoot.INC_SPAN
+# Variable de boucle catrow.catfoot.INC_SPAN
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [catfoot](catfoot.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).

@@ -1,7 +1,7 @@
 # Variable L_REPORT_ARCHIVE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_REPORT_ARCHIVE}

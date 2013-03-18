@@ -1,4 +1,4 @@
-# Variable build_categories_block.personal_sort_block.S_MODE_SELECT
+# Variable de boucle build_categories_block.personal_sort_block.S_MODE_SELECT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [personal_sort_block](personal_sort_block.md#readme) se trouvant dans une boucle sur [build_categories_block](build_categories_block.md#readme).

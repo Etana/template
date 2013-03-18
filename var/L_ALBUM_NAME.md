@@ -1,7 +1,7 @@
 # Variable L_ALBUM_NAME
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ALBUM_NAME}

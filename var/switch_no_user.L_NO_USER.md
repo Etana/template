@@ -1,4 +1,4 @@
-# Variable switch_no_user.L_NO_USER
+# Variable de boucle switch_no_user.L_NO_USER
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_no_user](switch_no_user.md#readme).

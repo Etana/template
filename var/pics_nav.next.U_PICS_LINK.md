@@ -1,4 +1,4 @@
-# Variable pics_nav.next.U_PICS_LINK
+# Variable de boucle pics_nav.next.U_PICS_LINK
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [next](next.md#readme) se trouvant dans une boucle sur [pics_nav](pics_nav.md#readme).

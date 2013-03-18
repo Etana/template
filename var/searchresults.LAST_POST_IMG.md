@@ -1,4 +1,4 @@
-# Variable searchresults.LAST_POST_IMG
+# Variable de boucle searchresults.LAST_POST_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

@@ -1,12 +1,13 @@
-# Variable norate_row_disabled
+# Boucle norate_row_disabled
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN norate_row_disabled -->
     contenu
-<!-- END norate_row_disabled -->```
+<!-- END norate_row_disabled -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/norate_row_disabled)

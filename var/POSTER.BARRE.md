@@ -1,4 +1,4 @@
-# Variable POSTER.BARRE
+# Variable de boucle POSTER.BARRE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [POSTER](POSTER.md#readme).

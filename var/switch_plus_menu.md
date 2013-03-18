@@ -1,12 +1,13 @@
-# Variable switch_plus_menu
+# Boucle switch_plus_menu
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_plus_menu -->
     contenu
-<!-- END switch_plus_menu -->```
+<!-- END switch_plus_menu -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_plus_menu)

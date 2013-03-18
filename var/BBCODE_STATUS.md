@@ -1,7 +1,7 @@
 # Variable BBCODE_STATUS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {BBCODE_STATUS}

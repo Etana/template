@@ -1,12 +1,13 @@
-# Variable pagination
+# Boucle pagination
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN pagination -->
     contenu
-<!-- END pagination -->```
+<!-- END pagination -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/pagination)

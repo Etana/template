@@ -1,4 +1,4 @@
-# Variable postrow.S_SPLIT_CHECKBOX
+# Variable de boucle postrow.S_SPLIT_CHECKBOX
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).

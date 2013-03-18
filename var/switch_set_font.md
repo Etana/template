@@ -1,12 +1,13 @@
-# Variable switch_set_font
+# Boucle switch_set_font
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_set_font -->
     contenu
-<!-- END switch_set_font -->```
+<!-- END switch_set_font -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_set_font)

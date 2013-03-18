@@ -1,7 +1,7 @@
 # Variable NUFF_BW_CHECKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NUFF_BW_CHECKED}

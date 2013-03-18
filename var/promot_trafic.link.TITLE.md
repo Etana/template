@@ -1,4 +1,4 @@
-# Variable promot_trafic.link.TITLE
+# Variable de boucle promot_trafic.link.TITLE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [link](link.md#readme) se trouvant dans une boucle sur [promot_trafic](promot_trafic.md#readme).

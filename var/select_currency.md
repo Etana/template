@@ -1,12 +1,13 @@
-# Variable select_currency
+# Boucle select_currency
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN select_currency -->
     contenu
-<!-- END select_currency -->```
+<!-- END select_currency -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/select_currency)

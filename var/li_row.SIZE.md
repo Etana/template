@@ -1,4 +1,4 @@
-# Variable li_row.SIZE
+# Variable de boucle li_row.SIZE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [li_row](li_row.md#readme).

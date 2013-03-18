@@ -1,12 +1,13 @@
-# Variable switch_h1
+# Boucle switch_h1
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_h1 -->
     contenu
-<!-- END switch_h1 -->```
+<!-- END switch_h1 -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_h1)

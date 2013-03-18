@@ -1,7 +1,7 @@
 # Variable JS_SESSION_ID_INPUT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {JS_SESSION_ID_INPUT}

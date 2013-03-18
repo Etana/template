@@ -1,12 +1,13 @@
-# Variable noprev
+# Boucle noprev
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN noprev -->
     contenu
-<!-- END noprev -->```
+<!-- END noprev -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/noprev)

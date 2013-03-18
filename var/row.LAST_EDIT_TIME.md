@@ -1,4 +1,4 @@
-# Variable row.LAST_EDIT_TIME
+# Variable de boucle row.LAST_EDIT_TIME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

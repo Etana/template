@@ -1,7 +1,7 @@
 # Variable AGREE_OVER_13
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {AGREE_OVER_13}

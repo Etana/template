@@ -1,4 +1,4 @@
-# Variable searchresults.L_BY
+# Variable de boucle searchresults.L_BY
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

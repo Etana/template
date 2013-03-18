@@ -1,12 +1,13 @@
-# Variable prev
+# Boucle prev
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN prev -->
     contenu
-<!-- END prev -->```
+<!-- END prev -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/prev)

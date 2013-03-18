@@ -1,12 +1,13 @@
-# Variable switch_viewonline_nolink
+# Boucle switch_viewonline_nolink
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_viewonline_nolink -->
     contenu
-<!-- END switch_viewonline_nolink -->```
+<!-- END switch_viewonline_nolink -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_viewonline_nolink)

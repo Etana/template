@@ -1,12 +1,13 @@
-# Variable reg_user_row
+# Boucle reg_user_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN reg_user_row -->
     contenu
-<!-- END reg_user_row -->```
+<!-- END reg_user_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/reg_user_row)

@@ -1,12 +1,13 @@
-# Variable _more
+# Boucle _more
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN _more -->
     contenu
-<!-- END _more -->```
+<!-- END _more -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/_more)

@@ -1,7 +1,7 @@
 # Variable L_POPUP_ON_PRIVMSG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_POPUP_ON_PRIVMSG}

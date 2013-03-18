@@ -1,7 +1,7 @@
 # Variable V_DISABLE_HTML
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {V_DISABLE_HTML}

@@ -1,7 +1,7 @@
 # Variable GROUP_MEMBER_ROWSPAN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {GROUP_MEMBER_ROWSPAN}

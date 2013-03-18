@@ -1,4 +1,4 @@
-# Variable topicrow.REPLIES
+# Variable de boucle topicrow.REPLIES
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).

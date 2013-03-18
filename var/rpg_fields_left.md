@@ -1,12 +1,13 @@
-# Variable rpg_fields_left
+# Boucle rpg_fields_left
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN rpg_fields_left -->
     contenu
-<!-- END rpg_fields_left -->```
+<!-- END rpg_fields_left -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/rpg_fields_left)

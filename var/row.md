@@ -1,12 +1,13 @@
-# Variable row
+# Boucle row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN row -->
     contenu
-<!-- END row -->```
+<!-- END row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/row)

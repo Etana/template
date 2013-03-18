@@ -1,7 +1,7 @@
 # Variable NEXT_PIC
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NEXT_PIC}

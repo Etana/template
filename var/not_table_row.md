@@ -1,12 +1,13 @@
-# Variable not_table_row
+# Boucle not_table_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN not_table_row -->
     contenu
-<!-- END not_table_row -->```
+<!-- END not_table_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/not_table_row)

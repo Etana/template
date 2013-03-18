@@ -1,7 +1,7 @@
 # Variable L_SHARE_CAPTION
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SHARE_CAPTION}

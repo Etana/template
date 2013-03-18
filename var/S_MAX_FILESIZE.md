@@ -1,7 +1,7 @@
 # Variable S_MAX_FILESIZE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_MAX_FILESIZE}

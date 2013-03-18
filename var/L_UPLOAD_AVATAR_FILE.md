@@ -1,7 +1,7 @@
 # Variable L_UPLOAD_AVATAR_FILE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_UPLOAD_AVATAR_FILE}

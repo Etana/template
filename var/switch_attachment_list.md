@@ -1,12 +1,13 @@
-# Variable switch_attachment_list
+# Boucle switch_attachment_list
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_attachment_list -->
     contenu
-<!-- END switch_attachment_list -->```
+<!-- END switch_attachment_list -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_attachment_list)

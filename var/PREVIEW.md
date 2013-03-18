@@ -1,7 +1,7 @@
 # Variable PREVIEW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {PREVIEW}

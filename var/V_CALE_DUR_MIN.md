@@ -1,7 +1,7 @@
 # Variable V_CALE_DUR_MIN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {V_CALE_DUR_MIN}

@@ -1,7 +1,7 @@
 # Variable L_STOP_WATCH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_STOP_WATCH}

@@ -1,12 +1,13 @@
-# Variable switch_reasons
+# Boucle switch_reasons
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_reasons -->
     contenu
-<!-- END switch_reasons -->```
+<!-- END switch_reasons -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_reasons)

@@ -1,4 +1,4 @@
-# Variable listrow.PRIVMSG_ICON
+# Variable de boucle listrow.PRIVMSG_ICON
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

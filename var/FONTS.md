@@ -1,7 +1,7 @@
 # Variable FONTS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {FONTS}

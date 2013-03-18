@@ -1,7 +1,7 @@
 # Variable INSERT_IMAGE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {INSERT_IMAGE}

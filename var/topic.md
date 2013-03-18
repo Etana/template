@@ -1,12 +1,13 @@
-# Variable topic
+# Boucle topic
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN topic -->
     contenu
-<!-- END topic -->```
+<!-- END topic -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/topic)

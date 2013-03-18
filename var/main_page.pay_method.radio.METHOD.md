@@ -1,4 +1,4 @@
-# Variable main_page.pay_method.radio.METHOD
+# Variable de boucle main_page.pay_method.radio.METHOD
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [radio](radio.md#readme) se trouvant dans une boucle sur [pay_method](pay_method.md#readme) se trouvant dans une boucle sur [main_page](main_page.md#readme).

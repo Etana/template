@@ -1,7 +1,7 @@
 # Variable QUICK_REPLY_FORM
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {QUICK_REPLY_FORM}

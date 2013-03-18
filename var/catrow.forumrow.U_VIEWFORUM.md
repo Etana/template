@@ -1,4 +1,4 @@
-# Variable catrow.forumrow.U_VIEWFORUM
+# Variable de boucle catrow.forumrow.U_VIEWFORUM
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).

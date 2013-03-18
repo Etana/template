@@ -1,7 +1,7 @@
 # Variable SKYPE_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SKYPE_IMG}

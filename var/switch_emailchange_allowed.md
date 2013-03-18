@@ -1,12 +1,13 @@
-# Variable switch_emailchange_allowed
+# Boucle switch_emailchange_allowed
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_emailchange_allowed -->
     contenu
-<!-- END switch_emailchange_allowed -->```
+<!-- END switch_emailchange_allowed -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_emailchange_allowed)

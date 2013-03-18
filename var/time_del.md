@@ -1,12 +1,13 @@
-# Variable time_del
+# Boucle time_del
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN time_del -->
     contenu
-<!-- END time_del -->```
+<!-- END time_del -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/time_del)

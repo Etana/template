@@ -1,12 +1,13 @@
-# Variable switch_can_delete
+# Boucle switch_can_delete
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_can_delete -->
     contenu
-<!-- END switch_can_delete -->```
+<!-- END switch_can_delete -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_can_delete)

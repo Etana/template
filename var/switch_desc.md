@@ -1,12 +1,13 @@
-# Variable switch_desc
+# Boucle switch_desc
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_desc -->
     contenu
-<!-- END switch_desc -->```
+<!-- END switch_desc -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_desc)

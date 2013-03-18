@@ -1,7 +1,7 @@
 # Variable L_EDIT_PIC_INFO
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_EDIT_PIC_INFO}

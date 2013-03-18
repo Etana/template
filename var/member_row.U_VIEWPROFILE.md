@@ -1,4 +1,4 @@
-# Variable member_row.U_VIEWPROFILE
+# Variable de boucle member_row.U_VIEWPROFILE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [member_row](member_row.md#readme).

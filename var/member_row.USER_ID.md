@@ -1,4 +1,4 @@
-# Variable member_row.USER_ID
+# Variable de boucle member_row.USER_ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [member_row](member_row.md#readme).

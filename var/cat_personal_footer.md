@@ -1,12 +1,13 @@
-# Variable cat_personal_footer
+# Boucle cat_personal_footer
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN cat_personal_footer -->
     contenu
-<!-- END cat_personal_footer -->```
+<!-- END cat_personal_footer -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/cat_personal_footer)

@@ -1,7 +1,7 @@
 # Variable COLSPAN_PAGINATION
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {COLSPAN_PAGINATION}

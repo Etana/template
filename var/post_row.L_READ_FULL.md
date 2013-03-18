@@ -1,4 +1,4 @@
-# Variable post_row.L_READ_FULL
+# Variable de boucle post_row.L_READ_FULL
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [post_row](post_row.md#readme).

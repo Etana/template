@@ -1,12 +1,13 @@
-# Variable message_admin_index
+# Boucle message_admin_index
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN message_admin_index -->
     contenu
-<!-- END message_admin_index -->```
+<!-- END message_admin_index -->
+```
 
 ##Description[*](https://fa-tvars.appspot.com/var/message_admin_index)
 Boucle contenant le message d'accueil.

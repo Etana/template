@@ -1,4 +1,4 @@
-# Variable IMGS.ALT
+# Variable de boucle IMGS.ALT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).

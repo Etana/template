@@ -1,12 +1,13 @@
-# Variable nav_tree
+# Boucle nav_tree
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN nav_tree -->
     contenu
-<!-- END nav_tree -->```
+<!-- END nav_tree -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/nav_tree)

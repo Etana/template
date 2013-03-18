@@ -1,12 +1,13 @@
-# Variable message_admin_titre
+# Boucle message_admin_titre
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN message_admin_titre -->
     contenu
-<!-- END message_admin_titre -->```
+<!-- END message_admin_titre -->
+```
 
 ##Description[*](https://fa-tvars.appspot.com/var/message_admin_titre)
 Boucle contenant le titre du message d'accueil.

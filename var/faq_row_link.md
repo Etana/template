@@ -1,12 +1,13 @@
-# Variable faq_row_link
+# Boucle faq_row_link
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN faq_row_link -->
     contenu
-<!-- END faq_row_link -->```
+<!-- END faq_row_link -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/faq_row_link)

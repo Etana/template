@@ -1,7 +1,7 @@
 # Variable ALBUM_ID
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ALBUM_ID}

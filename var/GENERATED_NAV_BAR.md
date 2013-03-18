@@ -1,7 +1,7 @@
 # Variable GENERATED_NAV_BAR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {GENERATED_NAV_BAR}

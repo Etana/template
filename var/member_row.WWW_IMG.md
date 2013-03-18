@@ -1,4 +1,4 @@
-# Variable member_row.WWW_IMG
+# Variable de boucle member_row.WWW_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [member_row](member_row.md#readme).

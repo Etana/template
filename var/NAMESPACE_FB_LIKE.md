@@ -1,7 +1,7 @@
 # Variable NAMESPACE_FB_LIKE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NAMESPACE_FB_LIKE}

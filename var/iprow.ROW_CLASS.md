@@ -1,4 +1,4 @@
-# Variable iprow.ROW_CLASS
+# Variable de boucle iprow.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [iprow](iprow.md#readme).

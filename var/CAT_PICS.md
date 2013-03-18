@@ -1,7 +1,7 @@
 # Variable CAT_PICS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {CAT_PICS}

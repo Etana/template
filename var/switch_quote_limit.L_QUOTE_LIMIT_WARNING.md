@@ -1,4 +1,4 @@
-# Variable switch_quote_limit.L_QUOTE_LIMIT_WARNING
+# Variable de boucle switch_quote_limit.L_QUOTE_LIMIT_WARNING
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_quote_limit](switch_quote_limit.md#readme).

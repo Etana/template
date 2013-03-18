@@ -1,7 +1,7 @@
 # Variable MINI_TIME_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MINI_TIME_IMG}

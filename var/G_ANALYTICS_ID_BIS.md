@@ -1,7 +1,7 @@
 # Variable G_ANALYTICS_ID_BIS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {G_ANALYTICS_ID_BIS}

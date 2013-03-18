@@ -1,7 +1,7 @@
 # Variable L_LAST_EDIT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_LAST_EDIT}

@@ -1,4 +1,4 @@
-# Variable bot_user_row.ROW_CLASS
+# Variable de boucle bot_user_row.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [bot_user_row](bot_user_row.md#readme).

@@ -1,7 +1,7 @@
 # Variable TABS_LESS_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TABS_LESS_IMG}

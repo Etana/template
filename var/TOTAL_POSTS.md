@@ -1,7 +1,7 @@
 # Variable TOTAL_POSTS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TOTAL_POSTS}

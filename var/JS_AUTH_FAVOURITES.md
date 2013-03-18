@@ -1,7 +1,7 @@
 # Variable JS_AUTH_FAVOURITES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {JS_AUTH_FAVOURITES}

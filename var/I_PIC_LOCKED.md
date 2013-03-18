@@ -1,7 +1,7 @@
 # Variable I_PIC_LOCKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {I_PIC_LOCKED}

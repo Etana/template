@@ -1,4 +1,4 @@
-# Variable build_categories_block.personal_sort_block.L_SELECT_SORT_METHOD
+# Variable de boucle build_categories_block.personal_sort_block.L_SELECT_SORT_METHOD
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [personal_sort_block](personal_sort_block.md#readme) se trouvant dans une boucle sur [build_categories_block](build_categories_block.md#readme).

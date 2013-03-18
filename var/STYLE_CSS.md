@@ -1,7 +1,7 @@
 # Variable STYLE_CSS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {STYLE_CSS}

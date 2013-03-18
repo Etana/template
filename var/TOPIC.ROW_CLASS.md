@@ -1,4 +1,4 @@
-# Variable TOPIC.ROW_CLASS
+# Variable de boucle TOPIC.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [TOPIC](TOPIC.md#readme).

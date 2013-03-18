@@ -1,4 +1,4 @@
-# Variable smilies_row.smilies_col.SMILEY_IMG
+# Variable de boucle smilies_row.smilies_col.SMILEY_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [smilies_col](smilies_col.md#readme) se trouvant dans une boucle sur [smilies_row](smilies_row.md#readme).

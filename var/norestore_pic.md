@@ -1,12 +1,13 @@
-# Variable norestore_pic
+# Boucle norestore_pic
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN norestore_pic -->
     contenu
-<!-- END norestore_pic -->```
+<!-- END norestore_pic -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/norestore_pic)

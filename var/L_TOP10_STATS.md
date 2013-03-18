@@ -1,7 +1,7 @@
 # Variable L_TOP10_STATS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_TOP10_STATS}

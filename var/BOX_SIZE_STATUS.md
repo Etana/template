@@ -1,7 +1,7 @@
 # Variable BOX_SIZE_STATUS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {BOX_SIZE_STATUS}

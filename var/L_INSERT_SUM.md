@@ -1,7 +1,7 @@
 # Variable L_INSERT_SUM
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_INSERT_SUM}

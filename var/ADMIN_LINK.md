@@ -1,7 +1,7 @@
 # Variable ADMIN_LINK
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ADMIN_LINK}

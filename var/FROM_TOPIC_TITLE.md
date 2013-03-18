@@ -1,7 +1,7 @@
 # Variable FROM_TOPIC_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {FROM_TOPIC_TITLE}

@@ -1,12 +1,13 @@
-# Variable switch_image_resize
+# Boucle switch_image_resize
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_image_resize -->
     contenu
-<!-- END switch_image_resize -->```
+<!-- END switch_image_resize -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_image_resize)

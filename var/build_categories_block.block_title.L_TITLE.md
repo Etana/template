@@ -1,4 +1,4 @@
-# Variable build_categories_block.block_title.L_TITLE
+# Variable de boucle build_categories_block.block_title.L_TITLE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [block_title](block_title.md#readme) se trouvant dans une boucle sur [build_categories_block](build_categories_block.md#readme).

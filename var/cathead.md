@@ -1,12 +1,13 @@
-# Variable cathead
+# Boucle cathead
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN cathead -->
     contenu
-<!-- END cathead -->```
+<!-- END cathead -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/cathead)

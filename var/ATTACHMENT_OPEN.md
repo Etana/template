@@ -1,7 +1,7 @@
 # Variable ATTACHMENT_OPEN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ATTACHMENT_OPEN}

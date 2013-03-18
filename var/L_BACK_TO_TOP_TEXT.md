@@ -1,7 +1,7 @@
 # Variable L_BACK_TO_TOP_TEXT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_BACK_TO_TOP_TEXT}

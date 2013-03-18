@@ -1,12 +1,13 @@
-# Variable switch_view_pm
+# Boucle switch_view_pm
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_view_pm -->
     contenu
-<!-- END switch_view_pm -->```
+<!-- END switch_view_pm -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_view_pm)

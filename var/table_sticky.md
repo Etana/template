@@ -1,12 +1,13 @@
-# Variable table_sticky
+# Boucle table_sticky
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN table_sticky -->
     contenu
-<!-- END table_sticky -->```
+<!-- END table_sticky -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/table_sticky)

@@ -1,12 +1,13 @@
-# Variable switch_exif_enabled
+# Boucle switch_exif_enabled
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_exif_enabled -->
     contenu
-<!-- END switch_exif_enabled -->```
+<!-- END switch_exif_enabled -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_exif_enabled)

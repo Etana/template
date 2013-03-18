@@ -1,7 +1,7 @@
 # Variable L_ERROR_MSG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ERROR_MSG}

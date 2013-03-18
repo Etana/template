@@ -1,7 +1,7 @@
 # Variable L_HIDE_USER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_HIDE_USER}

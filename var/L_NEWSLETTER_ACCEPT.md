@@ -1,7 +1,7 @@
 # Variable L_NEWSLETTER_ACCEPT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_NEWSLETTER_ACCEPT}

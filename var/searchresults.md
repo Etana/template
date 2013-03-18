@@ -1,12 +1,13 @@
-# Variable searchresults
+# Boucle searchresults
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN searchresults -->
     contenu
-<!-- END searchresults -->```
+<!-- END searchresults -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/searchresults)

@@ -1,7 +1,7 @@
 # Variable U_CALENDAR_SCHEDULER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_CALENDAR_SCHEDULER}

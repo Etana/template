@@ -1,4 +1,4 @@
-# Variable navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES
+# Variable de boucle navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cat_personal_footer](cat_personal_footer.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).

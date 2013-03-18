@@ -1,7 +1,7 @@
 # Variable POST_URL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POST_URL}

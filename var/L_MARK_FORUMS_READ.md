@@ -1,7 +1,7 @@
 # Variable L_MARK_FORUMS_READ
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_MARK_FORUMS_READ}

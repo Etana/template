@@ -1,12 +1,13 @@
-# Variable switch_chatbox_popup
+# Boucle switch_chatbox_popup
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_chatbox_popup -->
     contenu
-<!-- END switch_chatbox_popup -->```
+<!-- END switch_chatbox_popup -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_chatbox_popup)

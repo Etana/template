@@ -1,4 +1,4 @@
-# Variable pic_backup_link.BACKUP_FOLDER_LINK
+# Variable de boucle pic_backup_link.BACKUP_FOLDER_LINK
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [pic_backup_link](pic_backup_link.md#readme).

@@ -1,7 +1,7 @@
 # Variable MUST_GENDER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MUST_GENDER}

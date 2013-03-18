@@ -1,7 +1,7 @@
 # Variable UCP_TABS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {UCP_TABS}

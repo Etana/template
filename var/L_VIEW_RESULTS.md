@@ -1,7 +1,7 @@
 # Variable L_VIEW_RESULTS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_VIEW_RESULTS}

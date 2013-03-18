@@ -1,12 +1,13 @@
-# Variable edit_reason
+# Boucle edit_reason
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN edit_reason -->
     contenu
-<!-- END edit_reason -->```
+<!-- END edit_reason -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/edit_reason)

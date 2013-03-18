@@ -1,7 +1,7 @@
 # Variable GOOD_LEVEL_PWD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {GOOD_LEVEL_PWD}

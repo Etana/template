@@ -1,7 +1,7 @@
 # Variable CLASS_ROW2
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {CLASS_ROW2}

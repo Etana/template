@@ -1,12 +1,13 @@
-# Variable switch_admin_user_comment_active
+# Boucle switch_admin_user_comment_active
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_admin_user_comment_active -->
     contenu
-<!-- END switch_admin_user_comment_active -->```
+<!-- END switch_admin_user_comment_active -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_admin_user_comment_active)

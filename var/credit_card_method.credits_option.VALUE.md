@@ -1,4 +1,4 @@
-# Variable credit_card_method.credits_option.VALUE
+# Variable de boucle credit_card_method.credits_option.VALUE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [credits_option](credits_option.md#readme) se trouvant dans une boucle sur [credit_card_method](credit_card_method.md#readme).

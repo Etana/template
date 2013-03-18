@@ -1,12 +1,13 @@
-# Variable switch_post_reply
+# Boucle switch_post_reply
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_post_reply -->
     contenu
-<!-- END switch_post_reply -->```
+<!-- END switch_post_reply -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_post_reply)

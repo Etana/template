@@ -1,7 +1,7 @@
 # Variable S_BBCODE_CHECKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_BBCODE_CHECKED}

@@ -1,7 +1,7 @@
 # Variable U_SEARCH_SELF
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_SEARCH_SELF}

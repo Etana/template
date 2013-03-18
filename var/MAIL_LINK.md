@@ -1,7 +1,7 @@
 # Variable MAIL_LINK
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MAIL_LINK}

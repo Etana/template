@@ -1,4 +1,4 @@
-# Variable guest_user_row.USERNAME
+# Variable de boucle guest_user_row.USERNAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [guest_user_row](guest_user_row.md#readme).

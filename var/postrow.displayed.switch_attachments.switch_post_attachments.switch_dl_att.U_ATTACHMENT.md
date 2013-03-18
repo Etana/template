@@ -1,4 +1,4 @@
-# Variable postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT
+# Variable de boucle postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_dl_att](switch_dl_att.md#readme) se trouvant dans une boucle sur [switch_post_attachments](switch_post_attachments.md#readme) se trouvant dans une boucle sur [switch_attachments](switch_attachments.md#readme) se trouvant dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

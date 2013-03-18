@@ -1,4 +1,4 @@
-# Variable contact_field.ID
+# Variable de boucle contact_field.ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [contact_field](contact_field.md#readme).

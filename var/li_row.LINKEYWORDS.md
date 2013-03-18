@@ -1,4 +1,4 @@
-# Variable li_row.LINKEYWORDS
+# Variable de boucle li_row.LINKEYWORDS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [li_row](li_row.md#readme).

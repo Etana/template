@@ -1,7 +1,7 @@
 # Variable ADMIN_USER_COMMENT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ADMIN_USER_COMMENT}

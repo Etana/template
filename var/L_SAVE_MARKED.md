@@ -1,7 +1,7 @@
 # Variable L_SAVE_MARKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SAVE_MARKED}

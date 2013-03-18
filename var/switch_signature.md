@@ -1,12 +1,13 @@
-# Variable switch_signature
+# Boucle switch_signature
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_signature -->
     contenu
-<!-- END switch_signature -->```
+<!-- END switch_signature -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_signature)

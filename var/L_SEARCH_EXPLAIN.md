@@ -1,7 +1,7 @@
 # Variable L_SEARCH_EXPLAIN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SEARCH_EXPLAIN}

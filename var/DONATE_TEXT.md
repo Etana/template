@@ -1,7 +1,7 @@
 # Variable DONATE_TEXT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {DONATE_TEXT}

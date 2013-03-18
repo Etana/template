@@ -1,7 +1,7 @@
 # Variable L_MODIFY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_MODIFY}

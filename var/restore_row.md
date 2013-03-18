@@ -1,12 +1,13 @@
-# Variable restore_row
+# Boucle restore_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN restore_row -->
     contenu
-<!-- END restore_row -->```
+<!-- END restore_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/restore_row)

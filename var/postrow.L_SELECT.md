@@ -1,4 +1,4 @@
-# Variable postrow.L_SELECT
+# Variable de boucle postrow.L_SELECT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).

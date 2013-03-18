@@ -1,12 +1,13 @@
-# Variable personal_sort_block
+# Boucle personal_sort_block
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN personal_sort_block -->
     contenu
-<!-- END personal_sort_block -->```
+<!-- END personal_sort_block -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/personal_sort_block)

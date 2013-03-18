@@ -1,12 +1,13 @@
-# Variable saut
+# Boucle saut
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN saut -->
     contenu
-<!-- END saut -->```
+<!-- END saut -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/saut)

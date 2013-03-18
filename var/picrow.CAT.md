@@ -1,4 +1,4 @@
-# Variable picrow.CAT
+# Variable de boucle picrow.CAT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).

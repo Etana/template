@@ -1,12 +1,13 @@
-# Variable field
+# Boucle field
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN field -->
     contenu
-<!-- END field -->```
+<!-- END field -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/field)

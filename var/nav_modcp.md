@@ -1,12 +1,13 @@
-# Variable nav_modcp
+# Boucle nav_modcp
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN nav_modcp -->
     contenu
-<!-- END nav_modcp -->```
+<!-- END nav_modcp -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/nav_modcp)

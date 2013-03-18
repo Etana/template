@@ -1,12 +1,13 @@
-# Variable switch_review_box
+# Boucle switch_review_box
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_review_box -->
     contenu
-<!-- END switch_review_box -->```
+<!-- END switch_review_box -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_review_box)

@@ -1,7 +1,7 @@
 # Variable CALENDAR_DURATION_HOUR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {CALENDAR_DURATION_HOUR}

@@ -1,7 +1,7 @@
 # Variable LOGGED_AS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {LOGGED_AS}

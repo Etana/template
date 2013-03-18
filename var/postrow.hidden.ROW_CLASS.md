@@ -1,4 +1,4 @@
-# Variable postrow.hidden.ROW_CLASS
+# Variable de boucle postrow.hidden.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [hidden](hidden.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

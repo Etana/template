@@ -1,7 +1,7 @@
 # Variable L_DONT_DISPLAY_AGAIN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_DONT_DISPLAY_AGAIN}

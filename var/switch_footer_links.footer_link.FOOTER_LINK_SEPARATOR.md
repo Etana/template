@@ -1,4 +1,4 @@
-# Variable switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR
+# Variable de boucle switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [footer_link](footer_link.md#readme) se trouvant dans une boucle sur [switch_footer_links](switch_footer_links.md#readme).

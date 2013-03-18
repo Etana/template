@@ -1,7 +1,7 @@
 # Variable U_AGREE_OVER13
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_AGREE_OVER13}

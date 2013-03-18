@@ -1,7 +1,7 @@
 # Variable L_VIEWING_PROFILE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_VIEWING_PROFILE}

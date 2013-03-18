@@ -1,4 +1,4 @@
-# Variable no_post.L_NO_POST
+# Variable de boucle no_post.L_NO_POST
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [no_post](no_post.md#readme).

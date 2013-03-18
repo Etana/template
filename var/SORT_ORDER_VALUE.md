@@ -1,7 +1,7 @@
 # Variable SORT_ORDER_VALUE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SORT_ORDER_VALUE}

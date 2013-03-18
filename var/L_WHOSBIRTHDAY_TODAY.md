@@ -1,7 +1,7 @@
 # Variable L_WHOSBIRTHDAY_TODAY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_WHOSBIRTHDAY_TODAY}

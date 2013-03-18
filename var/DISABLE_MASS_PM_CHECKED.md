@@ -1,7 +1,7 @@
 # Variable DISABLE_MASS_PM_CHECKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {DISABLE_MASS_PM_CHECKED}

@@ -1,12 +1,13 @@
-# Variable switch_rank
+# Boucle switch_rank
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_rank -->
     contenu
-<!-- END switch_rank -->```
+<!-- END switch_rank -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_rank)

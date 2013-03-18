@@ -1,7 +1,7 @@
 # Variable POLL_OPTION_NUMBER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POLL_OPTION_NUMBER}

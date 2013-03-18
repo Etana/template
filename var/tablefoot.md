@@ -1,12 +1,13 @@
-# Variable tablefoot
+# Boucle tablefoot
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN tablefoot -->
     contenu
-<!-- END tablefoot -->```
+<!-- END tablefoot -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/tablefoot)

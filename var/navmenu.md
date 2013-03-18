@@ -1,12 +1,13 @@
-# Variable navmenu
+# Boucle navmenu
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN navmenu -->
     contenu
-<!-- END navmenu -->```
+<!-- END navmenu -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/navmenu)

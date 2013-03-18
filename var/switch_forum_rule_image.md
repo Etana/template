@@ -1,12 +1,13 @@
-# Variable switch_forum_rule_image
+# Boucle switch_forum_rule_image
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_forum_rule_image -->
     contenu
-<!-- END switch_forum_rule_image -->```
+<!-- END switch_forum_rule_image -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_forum_rule_image)

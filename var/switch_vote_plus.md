@@ -1,12 +1,13 @@
-# Variable switch_vote_plus
+# Boucle switch_vote_plus
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_vote_plus -->
     contenu
-<!-- END switch_vote_plus -->```
+<!-- END switch_vote_plus -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_vote_plus)

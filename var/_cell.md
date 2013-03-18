@@ -1,12 +1,13 @@
-# Variable _cell
+# Boucle _cell
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN _cell -->
     contenu
-<!-- END _cell -->```
+<!-- END _cell -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/_cell)

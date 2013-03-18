@@ -1,7 +1,7 @@
 # Variable U_CREATE_PERSONAL_GALLERY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_CREATE_PERSONAL_GALLERY}

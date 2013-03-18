@@ -1,7 +1,7 @@
 # Variable U_ADMIN_RPG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_ADMIN_RPG}

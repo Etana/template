@@ -1,7 +1,7 @@
 # Variable MASS_PM_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MASS_PM_IMG}

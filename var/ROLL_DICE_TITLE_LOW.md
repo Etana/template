@@ -1,7 +1,7 @@
 # Variable ROLL_DICE_TITLE_LOW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ROLL_DICE_TITLE_LOW}

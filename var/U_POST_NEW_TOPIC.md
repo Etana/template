@@ -1,7 +1,7 @@
 # Variable U_POST_NEW_TOPIC
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_POST_NEW_TOPIC}

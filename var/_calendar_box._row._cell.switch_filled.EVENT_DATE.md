@@ -1,4 +1,4 @@
-# Variable _calendar_box._row._cell.switch_filled.EVENT_DATE
+# Variable de boucle _calendar_box._row._cell.switch_filled.EVENT_DATE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_filled](switch_filled.md#readme) se trouvant dans une boucle sur [_cell](_cell.md#readme) se trouvant dans une boucle sur [_row](_row.md#readme) se trouvant dans une boucle sur [_calendar_box](_calendar_box.md#readme).

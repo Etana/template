@@ -1,4 +1,4 @@
-# Variable memberrow.INTERESTS
+# Variable de boucle memberrow.INTERESTS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).

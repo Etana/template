@@ -1,12 +1,13 @@
-# Variable cat_private_footer
+# Boucle cat_private_footer
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN cat_private_footer -->
     contenu
-<!-- END cat_private_footer -->```
+<!-- END cat_private_footer -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/cat_private_footer)

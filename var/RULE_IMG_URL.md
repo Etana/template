@@ -1,7 +1,7 @@
 # Variable RULE_IMG_URL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {RULE_IMG_URL}

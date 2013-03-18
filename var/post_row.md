@@ -1,12 +1,13 @@
-# Variable post_row
+# Boucle post_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN post_row -->
     contenu
-<!-- END post_row -->```
+<!-- END post_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/post_row)

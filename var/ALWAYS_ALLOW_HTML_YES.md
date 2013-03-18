@@ -1,7 +1,7 @@
 # Variable ALWAYS_ALLOW_HTML_YES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ALWAYS_ALLOW_HTML_YES}

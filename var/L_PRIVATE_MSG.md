@@ -1,7 +1,7 @@
 # Variable L_PRIVATE_MSG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_PRIVATE_MSG}

@@ -1,7 +1,7 @@
 # Variable SORT_TOTAL_PICTURES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SORT_TOTAL_PICTURES}

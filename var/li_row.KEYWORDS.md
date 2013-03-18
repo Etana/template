@@ -1,4 +1,4 @@
-# Variable li_row.KEYWORDS
+# Variable de boucle li_row.KEYWORDS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [li_row](li_row.md#readme).

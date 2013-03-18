@@ -1,7 +1,7 @@
 # Variable L_MESSAGE_BODY_DESC
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_MESSAGE_BODY_DESC}

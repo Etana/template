@@ -1,12 +1,13 @@
-# Variable li_row
+# Boucle li_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN li_row -->
     contenu
-<!-- END li_row -->```
+<!-- END li_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/li_row)

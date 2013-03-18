@@ -1,7 +1,7 @@
 # Variable U_SLIDESHOW_REFRESH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_SLIDESHOW_REFRESH}

@@ -1,4 +1,4 @@
-# Variable IMGS.NEW_LINE
+# Variable de boucle IMGS.NEW_LINE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).

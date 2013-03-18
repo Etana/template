@@ -1,7 +1,7 @@
 # Variable ENTER_LIST_TYPE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ENTER_LIST_TYPE}

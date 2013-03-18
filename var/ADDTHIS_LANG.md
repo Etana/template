@@ -1,7 +1,7 @@
 # Variable ADDTHIS_LANG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ADDTHIS_LANG}

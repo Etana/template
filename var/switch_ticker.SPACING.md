@@ -1,4 +1,4 @@
-# Variable switch_ticker.SPACING
+# Variable de boucle switch_ticker.SPACING
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_ticker](switch_ticker.md#readme).

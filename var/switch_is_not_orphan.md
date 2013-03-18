@@ -1,12 +1,13 @@
-# Variable switch_is_not_orphan
+# Boucle switch_is_not_orphan
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_is_not_orphan -->
     contenu
-<!-- END switch_is_not_orphan -->```
+<!-- END switch_is_not_orphan -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_is_not_orphan)

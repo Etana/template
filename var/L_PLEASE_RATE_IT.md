@@ -1,7 +1,7 @@
 # Variable L_PLEASE_RATE_IT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_PLEASE_RATE_IT}

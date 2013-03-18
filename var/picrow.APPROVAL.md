@@ -1,4 +1,4 @@
-# Variable picrow.APPROVAL
+# Variable de boucle picrow.APPROVAL
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).

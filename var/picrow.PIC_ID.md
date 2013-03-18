@@ -1,4 +1,4 @@
-# Variable picrow.PIC_ID
+# Variable de boucle picrow.PIC_ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).

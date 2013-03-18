@@ -1,7 +1,7 @@
 # Variable L_PUBLIC_VIEW_MP
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_PUBLIC_VIEW_MP}

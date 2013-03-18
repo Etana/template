@@ -1,7 +1,7 @@
 # Variable L_BBCODE_L
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_BBCODE_L}

@@ -1,4 +1,4 @@
-# Variable birthday_list_box.row.MEMBER_ID
+# Variable de boucle birthday_list_box.row.MEMBER_ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [birthday_list_box](birthday_list_box.md#readme).

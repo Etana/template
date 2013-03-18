@@ -1,4 +1,4 @@
-# Variable postrow.POSTER_AVATAR
+# Variable de boucle postrow.POSTER_AVATAR
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).

@@ -1,12 +1,13 @@
-# Variable switch_ticker_new
+# Boucle switch_ticker_new
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_ticker_new -->
     contenu
-<!-- END switch_ticker_new -->```
+<!-- END switch_ticker_new -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_ticker_new)

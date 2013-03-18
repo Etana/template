@@ -1,7 +1,7 @@
 # Variable L_CURRENT_PREVIEW_SIGNATURE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_CURRENT_PREVIEW_SIGNATURE}

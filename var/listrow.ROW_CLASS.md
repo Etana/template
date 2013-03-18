@@ -1,4 +1,4 @@
-# Variable listrow.ROW_CLASS
+# Variable de boucle listrow.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

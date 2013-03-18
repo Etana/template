@@ -1,7 +1,7 @@
 # Variable T_TD_COLOR1
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {T_TD_COLOR1}

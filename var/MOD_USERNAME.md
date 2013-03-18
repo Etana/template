@@ -1,7 +1,7 @@
 # Variable MOD_USERNAME
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MOD_USERNAME}

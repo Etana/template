@@ -1,4 +1,4 @@
-# Variable navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW
+# Variable de boucle navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [moderation_panel](moderation_panel.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).

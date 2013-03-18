@@ -1,7 +1,7 @@
 # Variable LOGIN_POPUP_MSG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {LOGIN_POPUP_MSG}

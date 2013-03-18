@@ -1,7 +1,7 @@
 # Variable IP1
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {IP1}

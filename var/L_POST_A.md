@@ -1,7 +1,7 @@
 # Variable L_POST_A
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_POST_A}

@@ -1,7 +1,7 @@
 # Variable MODIF_TOPIC_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MODIF_TOPIC_TITLE}

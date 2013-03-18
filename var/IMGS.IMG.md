@@ -1,4 +1,4 @@
-# Variable IMGS.IMG
+# Variable de boucle IMGS.IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [IMGS](IMGS.md#readme).

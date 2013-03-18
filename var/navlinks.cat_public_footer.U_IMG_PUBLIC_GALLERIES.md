@@ -1,4 +1,4 @@
-# Variable navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES
+# Variable de boucle navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cat_public_footer](cat_public_footer.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).

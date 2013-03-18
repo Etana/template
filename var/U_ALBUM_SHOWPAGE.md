@@ -1,7 +1,7 @@
 # Variable U_ALBUM_SHOWPAGE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_ALBUM_SHOWPAGE}

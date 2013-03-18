@@ -1,7 +1,7 @@
 # Variable L_ITEMS_REQUIRED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ITEMS_REQUIRED}

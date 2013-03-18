@@ -1,7 +1,7 @@
 # Variable MAX_UPLOADS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MAX_UPLOADS}

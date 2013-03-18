@@ -1,4 +1,4 @@
-# Variable iprow.POSTS
+# Variable de boucle iprow.POSTS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [iprow](iprow.md#readme).

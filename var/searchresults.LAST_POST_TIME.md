@@ -1,4 +1,4 @@
-# Variable searchresults.LAST_POST_TIME
+# Variable de boucle searchresults.LAST_POST_TIME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

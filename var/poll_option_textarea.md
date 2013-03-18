@@ -1,12 +1,13 @@
-# Variable poll_option_textarea
+# Boucle poll_option_textarea
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN poll_option_textarea -->
     contenu
-<!-- END poll_option_textarea -->```
+<!-- END poll_option_textarea -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option_textarea)

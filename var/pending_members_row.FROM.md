@@ -1,4 +1,4 @@
-# Variable pending_members_row.FROM
+# Variable de boucle pending_members_row.FROM
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [pending_members_row](pending_members_row.md#readme).

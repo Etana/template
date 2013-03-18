@@ -1,7 +1,7 @@
 # Variable USERNAME_AVATAR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {USERNAME_AVATAR}

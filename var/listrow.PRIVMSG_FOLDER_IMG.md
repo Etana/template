@@ -1,4 +1,4 @@
-# Variable listrow.PRIVMSG_FOLDER_IMG
+# Variable de boucle listrow.PRIVMSG_FOLDER_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

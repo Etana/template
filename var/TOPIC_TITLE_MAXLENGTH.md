@@ -1,7 +1,7 @@
 # Variable TOPIC_TITLE_MAXLENGTH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TOPIC_TITLE_MAXLENGTH}

@@ -1,12 +1,13 @@
-# Variable cat_public_footer
+# Boucle cat_public_footer
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN cat_public_footer -->
     contenu
-<!-- END cat_public_footer -->```
+<!-- END cat_public_footer -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/cat_public_footer)

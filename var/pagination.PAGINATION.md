@@ -1,4 +1,4 @@
-# Variable pagination.PAGINATION
+# Variable de boucle pagination.PAGINATION
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [pagination](pagination.md#readme).

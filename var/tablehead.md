@@ -1,12 +1,13 @@
-# Variable tablehead
+# Boucle tablehead
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN tablehead -->
     contenu
-<!-- END tablehead -->```
+<!-- END tablehead -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/tablehead)

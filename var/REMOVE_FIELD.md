@@ -1,7 +1,7 @@
 # Variable REMOVE_FIELD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {REMOVE_FIELD}

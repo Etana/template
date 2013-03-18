@@ -1,4 +1,4 @@
-# Variable postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT
+# Variable de boucle postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_no_comment](switch_no_comment.md#readme) se trouvant dans une boucle sur [switch_post_attachments](switch_post_attachments.md#readme) se trouvant dans une boucle sur [switch_attachments](switch_attachments.md#readme) se trouvant dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

@@ -1,12 +1,13 @@
-# Variable switch_username
+# Boucle switch_username
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_username -->
     contenu
-<!-- END switch_username -->```
+<!-- END switch_username -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_username)

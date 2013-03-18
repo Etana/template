@@ -1,4 +1,4 @@
-# Variable row.REPORT_ID
+# Variable de boucle row.REPORT_ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

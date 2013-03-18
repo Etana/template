@@ -1,12 +1,13 @@
-# Variable userrow
+# Boucle userrow
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN userrow -->
     contenu
-<!-- END userrow -->```
+<!-- END userrow -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/userrow)

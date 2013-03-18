@@ -1,7 +1,7 @@
 # Variable L_FOLDER_STICKY_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FOLDER_STICKY_IMG}

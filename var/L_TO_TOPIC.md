@@ -1,7 +1,7 @@
 # Variable L_TO_TOPIC
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_TO_TOPIC}

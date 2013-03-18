@@ -1,7 +1,7 @@
 # Variable NAV_DESC
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NAV_DESC}

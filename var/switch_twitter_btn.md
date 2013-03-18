@@ -1,12 +1,13 @@
-# Variable switch_twitter_btn
+# Boucle switch_twitter_btn
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_twitter_btn -->
     contenu
-<!-- END switch_twitter_btn -->```
+<!-- END switch_twitter_btn -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_twitter_btn)

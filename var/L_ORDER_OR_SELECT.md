@@ -1,7 +1,7 @@
 # Variable L_ORDER_OR_SELECT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ORDER_OR_SELECT}

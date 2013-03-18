@@ -1,4 +1,4 @@
-# Variable list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1
+# Variable de boucle list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [norecent_col](norecent_col.md#readme) se trouvant dans une boucle sur [recent_pics](recent_pics.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).

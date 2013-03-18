@@ -1,4 +1,4 @@
-# Variable bot_user_row.FORUM_LOCATION
+# Variable de boucle bot_user_row.FORUM_LOCATION
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [bot_user_row](bot_user_row.md#readme).

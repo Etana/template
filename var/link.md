@@ -1,12 +1,13 @@
-# Variable link
+# Boucle link
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN link -->
     contenu
-<!-- END link -->```
+<!-- END link -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/link)

@@ -1,7 +1,7 @@
 # Variable L_COMMENT_TOO_LONG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_COMMENT_TOO_LONG}

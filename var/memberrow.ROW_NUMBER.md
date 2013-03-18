@@ -1,4 +1,4 @@
-# Variable memberrow.ROW_NUMBER
+# Variable de boucle memberrow.ROW_NUMBER
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).

@@ -1,12 +1,13 @@
-# Variable switch_post_a
+# Boucle switch_post_a
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_post_a -->
     contenu
-<!-- END switch_post_a -->```
+<!-- END switch_post_a -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_post_a)

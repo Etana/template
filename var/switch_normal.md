@@ -1,12 +1,13 @@
-# Variable switch_normal
+# Boucle switch_normal
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_normal -->
     contenu
-<!-- END switch_normal -->```
+<!-- END switch_normal -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_normal)

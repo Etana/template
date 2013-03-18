@@ -1,7 +1,7 @@
 # Variable L_LANG_HL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_LANG_HL}

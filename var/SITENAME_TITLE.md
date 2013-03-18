@@ -1,7 +1,7 @@
 # Variable SITENAME_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SITENAME_TITLE}

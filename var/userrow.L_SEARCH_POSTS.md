@@ -1,4 +1,4 @@
-# Variable userrow.L_SEARCH_POSTS
+# Variable de boucle userrow.L_SEARCH_POSTS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).

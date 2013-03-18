@@ -1,7 +1,7 @@
 # Variable ADD_FIELD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ADD_FIELD}

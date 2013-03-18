@@ -1,7 +1,7 @@
 # Variable POST_PERCENT_STATS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POST_PERCENT_STATS}

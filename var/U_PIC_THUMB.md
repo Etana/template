@@ -1,7 +1,7 @@
 # Variable U_PIC_THUMB
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_PIC_THUMB}

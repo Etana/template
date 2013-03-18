@@ -1,4 +1,4 @@
-# Variable postrow.POST_DATE
+# Variable de boucle postrow.POST_DATE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).

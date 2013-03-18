@@ -1,12 +1,13 @@
-# Variable switch_dl_att
+# Boucle switch_dl_att
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_dl_att -->
     contenu
-<!-- END switch_dl_att -->```
+<!-- END switch_dl_att -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_dl_att)

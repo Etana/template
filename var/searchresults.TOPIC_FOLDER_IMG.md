@@ -1,4 +1,4 @@
-# Variable searchresults.TOPIC_FOLDER_IMG
+# Variable de boucle searchresults.TOPIC_FOLDER_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

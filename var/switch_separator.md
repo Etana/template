@@ -1,12 +1,13 @@
-# Variable switch_separator
+# Boucle switch_separator
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_separator -->
     contenu
-<!-- END switch_separator -->```
+<!-- END switch_separator -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_separator)

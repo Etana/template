@@ -1,7 +1,7 @@
 # Variable L_PENDING_GROUPS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_PENDING_GROUPS}

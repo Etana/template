@@ -1,12 +1,13 @@
-# Variable watchsearch
+# Boucle watchsearch
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN watchsearch -->
     contenu
-<!-- END watchsearch -->```
+<!-- END watchsearch -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/watchsearch)

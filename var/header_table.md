@@ -1,12 +1,13 @@
-# Variable header_table
+# Boucle header_table
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN header_table -->
     contenu
-<!-- END header_table -->```
+<!-- END header_table -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/header_table)

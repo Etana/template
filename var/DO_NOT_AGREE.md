@@ -1,7 +1,7 @@
 # Variable DO_NOT_AGREE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {DO_NOT_AGREE}

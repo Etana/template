@@ -1,4 +1,4 @@
-# Variable postrow.L_MINI_POST_ALT
+# Variable de boucle postrow.L_MINI_POST_ALT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).

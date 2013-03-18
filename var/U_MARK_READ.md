@@ -1,7 +1,7 @@
 # Variable U_MARK_READ
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_MARK_READ}

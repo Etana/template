@@ -1,7 +1,7 @@
 # Variable U_REPORT_VIEW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_REPORT_VIEW}

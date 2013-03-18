@@ -1,7 +1,7 @@
 # Variable L_SLIDESHOW_ONOFF
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SLIDESHOW_ONOFF}

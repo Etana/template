@@ -1,4 +1,4 @@
-# Variable classical_row.recent_topic_row.switch_poster.S_POSTER
+# Variable de boucle classical_row.recent_topic_row.switch_poster.S_POSTER
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_poster](switch_poster.md#readme) se trouvant dans une boucle sur [recent_topic_row](recent_topic_row.md#readme) se trouvant dans une boucle sur [classical_row](classical_row.md#readme).

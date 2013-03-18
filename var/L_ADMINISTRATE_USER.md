@@ -1,7 +1,7 @@
 # Variable L_ADMINISTRATE_USER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ADMINISTRATE_USER}

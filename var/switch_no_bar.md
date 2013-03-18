@@ -1,12 +1,13 @@
-# Variable switch_no_bar
+# Boucle switch_no_bar
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_no_bar -->
     contenu
-<!-- END switch_no_bar -->```
+<!-- END switch_no_bar -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_bar)

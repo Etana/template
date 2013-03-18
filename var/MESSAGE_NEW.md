@@ -1,7 +1,7 @@
 # Variable MESSAGE_NEW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MESSAGE_NEW}

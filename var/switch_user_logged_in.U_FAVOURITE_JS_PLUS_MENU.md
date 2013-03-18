@@ -1,4 +1,4 @@
-# Variable switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU
+# Variable de boucle switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_user_logged_in](switch_user_logged_in.md#readme).

@@ -1,7 +1,7 @@
 # Variable BOARD_INDEX
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {BOARD_INDEX}

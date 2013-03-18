@@ -1,4 +1,4 @@
-# Variable switch_fb_index_login.FACEBOOK_APP_ID
+# Variable de boucle switch_fb_index_login.FACEBOOK_APP_ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_index_login](switch_fb_index_login.md#readme).

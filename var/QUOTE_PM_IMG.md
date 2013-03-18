@@ -1,7 +1,7 @@
 # Variable QUOTE_PM_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {QUOTE_PM_IMG}

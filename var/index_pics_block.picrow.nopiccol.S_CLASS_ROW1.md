@@ -1,4 +1,4 @@
-# Variable index_pics_block.picrow.nopiccol.S_CLASS_ROW1
+# Variable de boucle index_pics_block.picrow.nopiccol.S_CLASS_ROW1
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [nopiccol](nopiccol.md#readme) se trouvant dans une boucle sur [picrow](picrow.md#readme) se trouvant dans une boucle sur [index_pics_block](index_pics_block.md#readme).

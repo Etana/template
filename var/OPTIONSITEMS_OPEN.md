@@ -1,7 +1,7 @@
 # Variable OPTIONSITEMS_OPEN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {OPTIONSITEMS_OPEN}

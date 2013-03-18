@@ -1,12 +1,13 @@
-# Variable switch_change_password
+# Boucle switch_change_password
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_change_password -->
     contenu
-<!-- END switch_change_password -->```
+<!-- END switch_change_password -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_change_password)

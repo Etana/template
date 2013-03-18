@@ -1,7 +1,7 @@
 # Variable TXT_CLASS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TXT_CLASS}

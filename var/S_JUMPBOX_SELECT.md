@@ -1,7 +1,7 @@
 # Variable S_JUMPBOX_SELECT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_JUMPBOX_SELECT}

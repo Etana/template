@@ -1,7 +1,7 @@
 # Variable TOPIC_TITLE_LENGTH_EXPLAIN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TOPIC_TITLE_LENGTH_EXPLAIN}

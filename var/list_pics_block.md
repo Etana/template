@@ -1,12 +1,13 @@
-# Variable list_pics_block
+# Boucle list_pics_block
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN list_pics_block -->
     contenu
-<!-- END list_pics_block -->```
+<!-- END list_pics_block -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/list_pics_block)

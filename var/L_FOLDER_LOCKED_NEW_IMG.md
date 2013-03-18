@@ -1,7 +1,7 @@
 # Variable L_FOLDER_LOCKED_NEW_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FOLDER_LOCKED_NEW_IMG}

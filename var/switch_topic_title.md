@@ -1,12 +1,13 @@
-# Variable switch_topic_title
+# Boucle switch_topic_title
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_topic_title -->
     contenu
-<!-- END switch_topic_title -->```
+<!-- END switch_topic_title -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_topic_title)

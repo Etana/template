@@ -1,7 +1,7 @@
 # Variable ROLLDICE_OPEN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ROLLDICE_OPEN}

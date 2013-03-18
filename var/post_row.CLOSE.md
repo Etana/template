@@ -1,4 +1,4 @@
-# Variable post_row.CLOSE
+# Variable de boucle post_row.CLOSE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [post_row](post_row.md#readme).

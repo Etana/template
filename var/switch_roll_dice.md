@@ -1,12 +1,13 @@
-# Variable switch_roll_dice
+# Boucle switch_roll_dice
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_roll_dice -->
     contenu
-<!-- END switch_roll_dice -->```
+<!-- END switch_roll_dice -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_roll_dice)

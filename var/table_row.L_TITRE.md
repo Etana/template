@@ -1,4 +1,4 @@
-# Variable table_row.L_TITRE
+# Variable de boucle table_row.L_TITRE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [table_row](table_row.md#readme).

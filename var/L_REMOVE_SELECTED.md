@@ -1,7 +1,7 @@
 # Variable L_REMOVE_SELECTED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_REMOVE_SELECTED}

@@ -1,12 +1,13 @@
-# Variable switch_fb_account_not_linked
+# Boucle switch_fb_account_not_linked
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_fb_account_not_linked -->
     contenu
-<!-- END switch_fb_account_not_linked -->```
+<!-- END switch_fb_account_not_linked -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_account_not_linked)

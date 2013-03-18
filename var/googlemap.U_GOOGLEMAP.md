@@ -1,4 +1,4 @@
-# Variable googlemap.U_GOOGLEMAP
+# Variable de boucle googlemap.U_GOOGLEMAP
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [googlemap](googlemap.md#readme).

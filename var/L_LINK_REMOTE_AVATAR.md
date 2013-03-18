@@ -1,7 +1,7 @@
 # Variable L_LINK_REMOTE_AVATAR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_LINK_REMOTE_AVATAR}

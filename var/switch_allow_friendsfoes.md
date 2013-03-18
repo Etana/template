@@ -1,12 +1,13 @@
-# Variable switch_allow_friendsfoes
+# Boucle switch_allow_friendsfoes
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_allow_friendsfoes -->
     contenu
-<!-- END switch_allow_friendsfoes -->```
+<!-- END switch_allow_friendsfoes -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_allow_friendsfoes)

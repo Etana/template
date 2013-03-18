@@ -1,4 +1,4 @@
-# Variable switch_ticker.SPEED
+# Variable de boucle switch_ticker.SPEED
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_ticker](switch_ticker.md#readme).

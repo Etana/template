@@ -1,7 +1,7 @@
 # Variable L_YOUR_RATE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_YOUR_RATE}

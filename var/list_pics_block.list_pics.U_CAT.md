@@ -1,4 +1,4 @@
-# Variable list_pics_block.list_pics.U_CAT
+# Variable de boucle list_pics_block.list_pics.U_CAT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [list_pics](list_pics.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).

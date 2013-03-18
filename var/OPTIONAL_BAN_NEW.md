@@ -1,7 +1,7 @@
 # Variable OPTIONAL_BAN_NEW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {OPTIONAL_BAN_NEW}

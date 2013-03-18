@@ -1,7 +1,7 @@
 # Variable L_POLL_CANCEL_VOTE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_POLL_CANCEL_VOTE}

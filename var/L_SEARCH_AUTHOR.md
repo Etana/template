@@ -1,7 +1,7 @@
 # Variable L_SEARCH_AUTHOR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SEARCH_AUTHOR}

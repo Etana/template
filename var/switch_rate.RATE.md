@@ -1,4 +1,4 @@
-# Variable switch_rate.RATE
+# Variable de boucle switch_rate.RATE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_rate](switch_rate.md#readme).

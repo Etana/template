@@ -1,12 +1,13 @@
-# Variable switch_fb_index_login
+# Boucle switch_fb_index_login
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_fb_index_login -->
     contenu
-<!-- END switch_fb_index_login -->```
+<!-- END switch_fb_index_login -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_index_login)

@@ -1,7 +1,7 @@
 # Variable L_FROM_OR_TO
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FROM_OR_TO}

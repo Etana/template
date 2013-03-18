@@ -1,7 +1,7 @@
 # Variable POST_IMG_ID
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POST_IMG_ID}

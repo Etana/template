@@ -1,7 +1,7 @@
 # Variable LAST_VISIT_TIME
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {LAST_VISIT_TIME}

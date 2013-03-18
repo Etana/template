@@ -1,4 +1,4 @@
-# Variable build_categories_block.recent_pics.recent_detail.LINK
+# Variable de boucle build_categories_block.recent_pics.recent_detail.LINK
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [recent_detail](recent_detail.md#readme) se trouvant dans une boucle sur [recent_pics](recent_pics.md#readme) se trouvant dans une boucle sur [build_categories_block](build_categories_block.md#readme).

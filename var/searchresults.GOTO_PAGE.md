@@ -1,4 +1,4 @@
-# Variable searchresults.GOTO_PAGE
+# Variable de boucle searchresults.GOTO_PAGE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

@@ -1,7 +1,7 @@
 # Variable AJAX_EDIT_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {AJAX_EDIT_IMG}

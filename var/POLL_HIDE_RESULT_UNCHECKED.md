@@ -1,7 +1,7 @@
 # Variable POLL_HIDE_RESULT_UNCHECKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POLL_HIDE_RESULT_UNCHECKED}

@@ -1,12 +1,13 @@
-# Variable switch_report_popup
+# Boucle switch_report_popup
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_report_popup -->
     contenu
-<!-- END switch_report_popup -->```
+<!-- END switch_report_popup -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_report_popup)

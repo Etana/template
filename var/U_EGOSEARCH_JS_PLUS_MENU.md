@@ -1,7 +1,7 @@
 # Variable U_EGOSEARCH_JS_PLUS_MENU
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_EGOSEARCH_JS_PLUS_MENU}

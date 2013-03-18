@@ -1,12 +1,13 @@
-# Variable moderation_panel
+# Boucle moderation_panel
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN moderation_panel -->
     contenu
-<!-- END moderation_panel -->```
+<!-- END moderation_panel -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/moderation_panel)

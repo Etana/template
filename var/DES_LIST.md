@@ -1,7 +1,7 @@
 # Variable DES_LIST
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {DES_LIST}

@@ -1,12 +1,13 @@
-# Variable no_pics
+# Boucle no_pics
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN no_pics -->
     contenu
-<!-- END no_pics -->```
+<!-- END no_pics -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_pics)

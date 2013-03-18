@@ -1,12 +1,13 @@
-# Variable switch_moderators_links
+# Boucle switch_moderators_links
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_moderators_links -->
     contenu
-<!-- END switch_moderators_links -->```
+<!-- END switch_moderators_links -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_moderators_links)

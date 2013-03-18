@@ -1,4 +1,4 @@
-# Variable listrow.DATE
+# Variable de boucle listrow.DATE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

@@ -1,4 +1,4 @@
-# Variable switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS
+# Variable de boucle switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_profile_advanced](switch_profile_advanced.md#readme) se trouvant dans une boucle sur [switch_preferences_menu](switch_preferences_menu.md#readme).

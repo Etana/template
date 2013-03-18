@@ -1,4 +1,4 @@
-# Variable postrow.displayed.EMAIL_IMG
+# Variable de boucle postrow.displayed.EMAIL_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

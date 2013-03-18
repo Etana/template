@@ -1,4 +1,4 @@
-# Variable switch_desc.SITE_DESCRIPTION
+# Variable de boucle switch_desc.SITE_DESCRIPTION
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_desc](switch_desc.md#readme).

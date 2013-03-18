@@ -1,7 +1,7 @@
 # Variable L_NEW_POSTS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_NEW_POSTS}

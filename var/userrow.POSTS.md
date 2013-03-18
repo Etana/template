@@ -1,4 +1,4 @@
-# Variable userrow.POSTS
+# Variable de boucle userrow.POSTS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).

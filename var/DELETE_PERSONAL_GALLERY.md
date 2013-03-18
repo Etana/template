@@ -1,7 +1,7 @@
 # Variable DELETE_PERSONAL_GALLERY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {DELETE_PERSONAL_GALLERY}

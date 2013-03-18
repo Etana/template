@@ -1,7 +1,7 @@
 # Variable U_NEWPOSTS_JS_PLUS_MENU
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_NEWPOSTS_JS_PLUS_MENU}

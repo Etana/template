@@ -1,4 +1,4 @@
-# Variable switch_privmsg.switch_privmsg_friend.FRIEND_PM
+# Variable de boucle switch_privmsg.switch_privmsg_friend.FRIEND_PM
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_privmsg_friend](switch_privmsg_friend.md#readme) se trouvant dans une boucle sur [switch_privmsg](switch_privmsg.md#readme).

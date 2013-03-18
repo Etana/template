@@ -1,12 +1,13 @@
-# Variable switch_description
+# Boucle switch_description
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_description -->
     contenu
-<!-- END switch_description -->```
+<!-- END switch_description -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_description)

@@ -1,4 +1,4 @@
-# Variable guest_user_row.FORUM_LOCATION
+# Variable de boucle guest_user_row.FORUM_LOCATION
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [guest_user_row](guest_user_row.md#readme).

@@ -1,12 +1,13 @@
-# Variable switch_draft
+# Boucle switch_draft
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_draft -->
     contenu
-<!-- END switch_draft -->```
+<!-- END switch_draft -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_draft)

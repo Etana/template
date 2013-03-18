@@ -1,4 +1,4 @@
-# Variable postrow.displayed.MINI_TIME_IMG
+# Variable de boucle postrow.displayed.MINI_TIME_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

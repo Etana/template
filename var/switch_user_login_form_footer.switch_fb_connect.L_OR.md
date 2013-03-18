@@ -1,4 +1,4 @@
-# Variable switch_user_login_form_footer.switch_fb_connect.L_OR
+# Variable de boucle switch_user_login_form_footer.switch_fb_connect.L_OR
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_connect](switch_fb_connect.md#readme) se trouvant dans une boucle sur [switch_user_login_form_footer](switch_user_login_form_footer.md#readme).

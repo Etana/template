@@ -1,12 +1,13 @@
-# Variable switch_type_toggle
+# Boucle switch_type_toggle
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_type_toggle -->
     contenu
-<!-- END switch_type_toggle -->```
+<!-- END switch_type_toggle -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_type_toggle)

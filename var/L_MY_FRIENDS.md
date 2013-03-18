@@ -1,7 +1,7 @@
 # Variable L_MY_FRIENDS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_MY_FRIENDS}

@@ -1,7 +1,7 @@
 # Variable MY_RULES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MY_RULES}

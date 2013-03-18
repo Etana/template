@@ -1,4 +1,4 @@
-# Variable list_pics_block.recent_pics.recent_col.RESTORE_PIC_LINK
+# Variable de boucle list_pics_block.recent_pics.recent_col.RESTORE_PIC_LINK
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [recent_col](recent_col.md#readme) se trouvant dans une boucle sur [recent_pics](recent_pics.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).

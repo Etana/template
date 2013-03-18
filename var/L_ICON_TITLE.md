@@ -1,7 +1,7 @@
 # Variable L_ICON_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ICON_TITLE}

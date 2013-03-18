@@ -1,4 +1,4 @@
-# Variable searchresults.U_VIEW_TOPIC
+# Variable de boucle searchresults.U_VIEW_TOPIC
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

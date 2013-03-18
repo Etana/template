@@ -1,4 +1,4 @@
-# Variable picrow.LOCK
+# Variable de boucle picrow.LOCK
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).

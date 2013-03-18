@@ -1,7 +1,7 @@
 # Variable POST_ICON_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POST_ICON_TITLE}

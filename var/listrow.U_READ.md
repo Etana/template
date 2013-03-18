@@ -1,4 +1,4 @@
-# Variable listrow.U_READ
+# Variable de boucle listrow.U_READ
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

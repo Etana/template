@@ -1,7 +1,7 @@
 # Variable L_BY_PHONECALL_EXPLAIN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_BY_PHONECALL_EXPLAIN}

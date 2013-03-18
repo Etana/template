@@ -1,4 +1,4 @@
-# Variable switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG
+# Variable de boucle switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trouvant dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [switch_icon_checkbox](switch_icon_checkbox.md#readme) se trouvant dans une boucle sur [switch_topic_modif](switch_topic_modif.md#readme).

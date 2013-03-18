@@ -1,12 +1,13 @@
-# Variable switch_publish
+# Boucle switch_publish
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_publish -->
     contenu
-<!-- END switch_publish -->```
+<!-- END switch_publish -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_publish)

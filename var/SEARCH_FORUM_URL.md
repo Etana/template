@@ -1,7 +1,7 @@
 # Variable SEARCH_FORUM_URL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SEARCH_FORUM_URL}

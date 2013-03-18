@@ -1,7 +1,7 @@
 # Variable TO_TOPIC_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TO_TOPIC_TITLE}

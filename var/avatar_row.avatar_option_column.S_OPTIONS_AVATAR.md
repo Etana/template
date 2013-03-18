@@ -1,4 +1,4 @@
-# Variable avatar_row.avatar_option_column.S_OPTIONS_AVATAR
+# Variable de boucle avatar_row.avatar_option_column.S_OPTIONS_AVATAR
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [avatar_option_column](avatar_option_column.md#readme) se trouvant dans une boucle sur [avatar_row](avatar_row.md#readme).

@@ -1,4 +1,4 @@
-# Variable switch_viewed.VIEWED
+# Variable de boucle switch_viewed.VIEWED
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_viewed](switch_viewed.md#readme).

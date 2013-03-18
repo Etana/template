@@ -1,12 +1,13 @@
-# Variable switch_login_popup
+# Boucle switch_login_popup
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_login_popup -->
     contenu
-<!-- END switch_login_popup -->```
+<!-- END switch_login_popup -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_login_popup)

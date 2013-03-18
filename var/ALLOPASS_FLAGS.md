@@ -1,7 +1,7 @@
 # Variable ALLOPASS_FLAGS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ALLOPASS_FLAGS}

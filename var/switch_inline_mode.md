@@ -1,12 +1,13 @@
-# Variable switch_inline_mode
+# Boucle switch_inline_mode
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_inline_mode -->
     contenu
-<!-- END switch_inline_mode -->```
+<!-- END switch_inline_mode -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_inline_mode)

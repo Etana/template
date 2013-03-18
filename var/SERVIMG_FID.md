@@ -1,7 +1,7 @@
 # Variable SERVIMG_FID
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SERVIMG_FID}

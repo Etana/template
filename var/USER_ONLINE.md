@@ -1,7 +1,7 @@
 # Variable USER_ONLINE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {USER_ONLINE}

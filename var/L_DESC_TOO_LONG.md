@@ -1,7 +1,7 @@
 # Variable L_DESC_TOO_LONG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_DESC_TOO_LONG}

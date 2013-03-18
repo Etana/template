@@ -1,4 +1,4 @@
-# Variable switch_recent.DATE
+# Variable de boucle switch_recent.DATE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_recent](switch_recent.md#readme).

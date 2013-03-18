@@ -1,7 +1,7 @@
 # Variable SELECT_CAT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SELECT_CAT}

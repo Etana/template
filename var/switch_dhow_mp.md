@@ -1,12 +1,13 @@
-# Variable switch_dhow_mp
+# Boucle switch_dhow_mp
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_dhow_mp -->
     contenu
-<!-- END switch_dhow_mp -->```
+<!-- END switch_dhow_mp -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_dhow_mp)

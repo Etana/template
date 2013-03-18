@@ -1,12 +1,13 @@
-# Variable switch_groups_pending
+# Boucle switch_groups_pending
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_groups_pending -->
     contenu
-<!-- END switch_groups_pending -->```
+<!-- END switch_groups_pending -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_groups_pending)

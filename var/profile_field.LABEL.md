@@ -1,4 +1,4 @@
-# Variable profile_field.LABEL
+# Variable de boucle profile_field.LABEL
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [profile_field](profile_field.md#readme).

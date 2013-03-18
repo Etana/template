@@ -1,12 +1,13 @@
-# Variable first_post_br
+# Boucle first_post_br
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN first_post_br -->
     contenu
-<!-- END first_post_br -->```
+<!-- END first_post_br -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/first_post_br)

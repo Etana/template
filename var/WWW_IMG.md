@@ -1,7 +1,7 @@
 # Variable WWW_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {WWW_IMG}

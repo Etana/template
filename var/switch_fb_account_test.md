@@ -1,12 +1,13 @@
-# Variable switch_fb_account_test
+# Boucle switch_fb_account_test
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_fb_account_test -->
     contenu
-<!-- END switch_fb_account_test -->```
+<!-- END switch_fb_account_test -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_account_test)

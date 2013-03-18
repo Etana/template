@@ -1,12 +1,13 @@
-# Variable nopiccol
+# Boucle nopiccol
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN nopiccol -->
     contenu
-<!-- END nopiccol -->```
+<!-- END nopiccol -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/nopiccol)

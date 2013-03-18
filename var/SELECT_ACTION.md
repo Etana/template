@@ -1,7 +1,7 @@
 # Variable SELECT_ACTION
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SELECT_ACTION}

@@ -1,4 +1,4 @@
-# Variable phonecall_method.hidden_field.NAME
+# Variable de boucle phonecall_method.hidden_field.NAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [hidden_field](hidden_field.md#readme) se trouvant dans une boucle sur [phonecall_method](phonecall_method.md#readme).

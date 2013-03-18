@@ -1,7 +1,7 @@
 # Variable INCREASE_SIZE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {INCREASE_SIZE}

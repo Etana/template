@@ -1,12 +1,13 @@
-# Variable viewtopic_bottom
+# Boucle viewtopic_bottom
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN viewtopic_bottom -->
     contenu
-<!-- END viewtopic_bottom -->```
+<!-- END viewtopic_bottom -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/viewtopic_bottom)

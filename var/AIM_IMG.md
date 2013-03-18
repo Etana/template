@@ -1,7 +1,7 @@
 # Variable AIM_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {AIM_IMG}

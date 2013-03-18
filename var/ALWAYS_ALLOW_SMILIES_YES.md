@@ -1,7 +1,7 @@
 # Variable ALWAYS_ALLOW_SMILIES_YES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ALWAYS_ALLOW_SMILIES_YES}

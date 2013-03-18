@@ -1,4 +1,4 @@
-# Variable switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS
+# Variable de boucle switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_subject_color](switch_subject_color.md#readme) se trouvant dans une boucle sur [switch_subject](switch_subject.md#readme).

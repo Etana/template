@@ -1,12 +1,13 @@
-# Variable google_analytics_code_bis
+# Boucle google_analytics_code_bis
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN google_analytics_code_bis -->
     contenu
-<!-- END google_analytics_code_bis -->```
+<!-- END google_analytics_code_bis -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/google_analytics_code_bis)

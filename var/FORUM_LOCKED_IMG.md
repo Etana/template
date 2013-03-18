@@ -1,7 +1,7 @@
 # Variable FORUM_LOCKED_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {FORUM_LOCKED_IMG}

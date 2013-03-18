@@ -1,12 +1,13 @@
-# Variable switch_preview
+# Boucle switch_preview
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_preview -->
     contenu
-<!-- END switch_preview -->```
+<!-- END switch_preview -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_preview)

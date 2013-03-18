@@ -1,12 +1,13 @@
-# Variable norecent_col
+# Boucle norecent_col
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN norecent_col -->
     contenu
-<!-- END norecent_col -->```
+<!-- END norecent_col -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/norecent_col)

@@ -1,4 +1,4 @@
-# Variable POSTER.NAME
+# Variable de boucle POSTER.NAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [POSTER](POSTER.md#readme).

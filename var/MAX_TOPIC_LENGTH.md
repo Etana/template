@@ -1,7 +1,7 @@
 # Variable MAX_TOPIC_LENGTH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {MAX_TOPIC_LENGTH}

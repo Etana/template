@@ -1,7 +1,7 @@
 # Variable V_CALENDAR_MONTH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {V_CALENDAR_MONTH}

@@ -1,7 +1,7 @@
 # Variable VOTE_LCAP_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {VOTE_LCAP_IMG}

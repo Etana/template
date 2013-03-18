@@ -1,7 +1,7 @@
 # Variable L_UNCHECK_ALL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_UNCHECK_ALL}

@@ -1,7 +1,7 @@
 # Variable L_FRIENDS_AND_FOES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FRIENDS_AND_FOES}

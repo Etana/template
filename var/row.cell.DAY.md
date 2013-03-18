@@ -1,4 +1,4 @@
-# Variable row.cell.DAY
+# Variable de boucle row.cell.DAY
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cell](cell.md#readme) se trouvant dans une boucle sur [row](row.md#readme).

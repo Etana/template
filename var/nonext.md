@@ -1,12 +1,13 @@
-# Variable nonext
+# Boucle nonext
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN nonext -->
     contenu
-<!-- END nonext -->```
+<!-- END nonext -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/nonext)

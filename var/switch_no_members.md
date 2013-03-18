@@ -1,12 +1,13 @@
-# Variable switch_no_members
+# Boucle switch_no_members
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_no_members -->
     contenu
-<!-- END switch_no_members -->```
+<!-- END switch_no_members -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_no_members)

@@ -1,12 +1,13 @@
-# Variable switch_user_logged_in
+# Boucle switch_user_logged_in
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_user_logged_in -->
     contenu
-<!-- END switch_user_logged_in -->```
+<!-- END switch_user_logged_in -->
+```
 
 ##Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in)
 Variable de boucle ayant une valeur si l'utilisateur est connecté.

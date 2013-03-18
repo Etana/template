@@ -1,7 +1,7 @@
 # Variable L_SELECT_SORT_METHOD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SELECT_SORT_METHOD}

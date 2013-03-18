@@ -1,12 +1,13 @@
-# Variable switch_status
+# Boucle switch_status
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_status -->
     contenu
-<!-- END switch_status -->```
+<!-- END switch_status -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_status)

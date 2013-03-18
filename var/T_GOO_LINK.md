@@ -1,7 +1,7 @@
 # Variable T_GOO_LINK
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {T_GOO_LINK}

@@ -1,4 +1,4 @@
-# Variable catrow.forumrow.INC_LEVEL_LEFT
+# Variable de boucle catrow.forumrow.INC_LEVEL_LEFT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).

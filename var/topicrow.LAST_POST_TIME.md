@@ -1,4 +1,4 @@
-# Variable topicrow.LAST_POST_TIME
+# Variable de boucle topicrow.LAST_POST_TIME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).

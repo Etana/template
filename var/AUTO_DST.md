@@ -1,7 +1,7 @@
 # Variable AUTO_DST
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {AUTO_DST}

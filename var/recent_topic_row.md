@@ -1,12 +1,13 @@
-# Variable recent_topic_row
+# Boucle recent_topic_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN recent_topic_row -->
     contenu
-<!-- END recent_topic_row -->```
+<!-- END recent_topic_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/recent_topic_row)

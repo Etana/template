@@ -1,12 +1,13 @@
-# Variable switch_logo_center
+# Boucle switch_logo_center
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_logo_center -->
     contenu
-<!-- END switch_logo_center -->```
+<!-- END switch_logo_center -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_logo_center)

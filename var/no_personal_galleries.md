@@ -1,12 +1,13 @@
-# Variable no_personal_galleries
+# Boucle no_personal_galleries
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN no_personal_galleries -->
     contenu
-<!-- END no_personal_galleries -->```
+<!-- END no_personal_galleries -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/no_personal_galleries)

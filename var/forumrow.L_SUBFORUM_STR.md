@@ -1,4 +1,4 @@
-# Variable forumrow.L_SUBFORUM_STR
+# Variable de boucle forumrow.L_SUBFORUM_STR
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme).

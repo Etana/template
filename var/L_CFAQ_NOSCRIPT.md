@@ -1,7 +1,7 @@
 # Variable L_CFAQ_NOSCRIPT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_CFAQ_NOSCRIPT}

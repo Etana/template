@@ -1,12 +1,13 @@
-# Variable switch_post_error
+# Boucle switch_post_error
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_post_error -->
     contenu
-<!-- END switch_post_error -->```
+<!-- END switch_post_error -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_post_error)

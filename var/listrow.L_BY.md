@@ -1,4 +1,4 @@
-# Variable listrow.L_BY
+# Variable de boucle listrow.L_BY
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

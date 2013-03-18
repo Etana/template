@@ -1,7 +1,7 @@
 # Variable L_HIDE_TAB
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_HIDE_TAB}

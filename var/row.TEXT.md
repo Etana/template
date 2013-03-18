@@ -1,4 +1,4 @@
-# Variable row.TEXT
+# Variable de boucle row.TEXT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

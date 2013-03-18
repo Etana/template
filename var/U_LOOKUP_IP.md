@@ -1,7 +1,7 @@
 # Variable U_LOOKUP_IP
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_LOOKUP_IP}

@@ -1,4 +1,4 @@
-# Variable switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS
+# Variable de boucle switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_profile_advanced](switch_profile_advanced.md#readme) se trouvant dans une boucle sur [switch_preferences_menu](switch_preferences_menu.md#readme).

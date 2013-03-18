@@ -1,4 +1,4 @@
-# Variable row.TIME
+# Variable de boucle row.TIME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

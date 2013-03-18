@@ -1,7 +1,7 @@
 # Variable L_FAQ_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FAQ_TITLE}

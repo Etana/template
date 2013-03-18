@@ -1,4 +1,4 @@
-# Variable switch_facebook_login.FACEBOOK_APP_ID
+# Variable de boucle switch_facebook_login.FACEBOOK_APP_ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_facebook_login](switch_facebook_login.md#readme).

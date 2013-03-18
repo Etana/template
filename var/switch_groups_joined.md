@@ -1,12 +1,13 @@
-# Variable switch_groups_joined
+# Boucle switch_groups_joined
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_groups_joined -->
     contenu
-<!-- END switch_groups_joined -->```
+<!-- END switch_groups_joined -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_groups_joined)

@@ -1,7 +1,7 @@
 # Variable GENDER_FEMALE_CHECKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {GENDER_FEMALE_CHECKED}

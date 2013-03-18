@@ -1,7 +1,7 @@
 # Variable NB_PM_UNREAD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NB_PM_UNREAD}

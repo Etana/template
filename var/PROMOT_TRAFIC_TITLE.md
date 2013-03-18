@@ -1,7 +1,7 @@
 # Variable PROMOT_TRAFIC_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {PROMOT_TRAFIC_TITLE}

@@ -1,7 +1,7 @@
 # Variable TEXT_COLOR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TEXT_COLOR}

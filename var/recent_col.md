@@ -1,12 +1,13 @@
-# Variable recent_col
+# Boucle recent_col
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN recent_col -->
     contenu
-<!-- END recent_col -->```
+<!-- END recent_col -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/recent_col)

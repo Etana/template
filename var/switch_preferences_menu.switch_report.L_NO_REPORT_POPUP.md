@@ -1,4 +1,4 @@
-# Variable switch_preferences_menu.switch_report.L_NO_REPORT_POPUP
+# Variable de boucle switch_preferences_menu.switch_report.L_NO_REPORT_POPUP
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_report](switch_report.md#readme) se trouvant dans une boucle sur [switch_preferences_menu](switch_preferences_menu.md#readme).

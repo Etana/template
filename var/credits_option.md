@@ -1,12 +1,13 @@
-# Variable credits_option
+# Boucle credits_option
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN credits_option -->
     contenu
-<!-- END credits_option -->```
+<!-- END credits_option -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/credits_option)

@@ -1,12 +1,13 @@
-# Variable smilies_col
+# Boucle smilies_col
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN smilies_col -->
     contenu
-<!-- END smilies_col -->```
+<!-- END smilies_col -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/smilies_col)

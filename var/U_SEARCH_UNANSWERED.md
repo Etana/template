@@ -1,7 +1,7 @@
 # Variable U_SEARCH_UNANSWERED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_SEARCH_UNANSWERED}

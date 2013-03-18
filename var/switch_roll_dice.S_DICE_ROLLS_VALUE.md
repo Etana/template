@@ -1,4 +1,4 @@
-# Variable switch_roll_dice.S_DICE_ROLLS_VALUE
+# Variable de boucle switch_roll_dice.S_DICE_ROLLS_VALUE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_roll_dice](switch_roll_dice.md#readme).

@@ -1,7 +1,7 @@
 # Variable L_MOVE_TO_CATEGORY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_MOVE_TO_CATEGORY}

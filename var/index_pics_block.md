@@ -1,12 +1,13 @@
-# Variable index_pics_block
+# Boucle index_pics_block
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN index_pics_block -->
     contenu
-<!-- END index_pics_block -->```
+<!-- END index_pics_block -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/index_pics_block)

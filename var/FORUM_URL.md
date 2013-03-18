@@ -1,7 +1,7 @@
 # Variable FORUM_URL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {FORUM_URL}

@@ -1,7 +1,7 @@
 # Variable EDITOR_DISPLAY_SIMPLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {EDITOR_DISPLAY_SIMPLE}

@@ -1,7 +1,7 @@
 # Variable L_MODS_AND_ADMINS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_MODS_AND_ADMINS}

@@ -1,12 +1,13 @@
-# Variable switch_event
+# Boucle switch_event
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_event -->
     contenu
-<!-- END switch_event -->```
+<!-- END switch_event -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_event)

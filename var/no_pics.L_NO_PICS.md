@@ -1,4 +1,4 @@
-# Variable no_pics.L_NO_PICS
+# Variable de boucle no_pics.L_NO_PICS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [no_pics](no_pics.md#readme).

@@ -1,12 +1,13 @@
-# Variable switch_rpg
+# Boucle switch_rpg
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_rpg -->
     contenu
-<!-- END switch_rpg -->```
+<!-- END switch_rpg -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_rpg)

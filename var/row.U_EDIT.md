@@ -1,4 +1,4 @@
-# Variable row.U_EDIT
+# Variable de boucle row.U_EDIT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

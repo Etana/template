@@ -1,4 +1,4 @@
-# Variable header_cell.L_DAY
+# Variable de boucle header_cell.L_DAY
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [header_cell](header_cell.md#readme).

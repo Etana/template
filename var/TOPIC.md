@@ -1,7 +1,7 @@
 # Variable TOPIC
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TOPIC}

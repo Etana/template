@@ -1,7 +1,7 @@
 # Variable S_CALENDAR_MONTH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_CALENDAR_MONTH}

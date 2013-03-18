@@ -1,12 +1,13 @@
-# Variable switch_grp_admin
+# Boucle switch_grp_admin
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_grp_admin -->
     contenu
-<!-- END switch_grp_admin -->```
+<!-- END switch_grp_admin -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_grp_admin)

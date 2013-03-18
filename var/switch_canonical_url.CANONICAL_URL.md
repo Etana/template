@@ -1,4 +1,4 @@
-# Variable switch_canonical_url.CANONICAL_URL
+# Variable de boucle switch_canonical_url.CANONICAL_URL
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_canonical_url](switch_canonical_url.md#readme).

@@ -1,7 +1,7 @@
 # Variable L_WHO_IS_ONLINE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_WHO_IS_ONLINE}

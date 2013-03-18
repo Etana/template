@@ -1,7 +1,7 @@
 # Variable L_ATTACHMENT_ADD_HELP
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ATTACHMENT_ADD_HELP}

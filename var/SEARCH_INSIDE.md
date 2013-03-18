@@ -1,7 +1,7 @@
 # Variable SEARCH_INSIDE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SEARCH_INSIDE}

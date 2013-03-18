@@ -1,7 +1,7 @@
 # Variable BAD_LEVEL_PWD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {BAD_LEVEL_PWD}

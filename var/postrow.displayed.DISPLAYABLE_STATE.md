@@ -1,4 +1,4 @@
-# Variable postrow.displayed.DISPLAYABLE_STATE
+# Variable de boucle postrow.displayed.DISPLAYABLE_STATE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

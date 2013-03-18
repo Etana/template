@@ -1,12 +1,13 @@
-# Variable listrow
+# Boucle listrow
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN listrow -->
     contenu
-<!-- END listrow -->```
+<!-- END listrow -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/listrow)

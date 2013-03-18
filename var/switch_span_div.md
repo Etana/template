@@ -1,12 +1,13 @@
-# Variable switch_span_div
+# Boucle switch_span_div
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_span_div -->
     contenu
-<!-- END switch_span_div -->```
+<!-- END switch_span_div -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_span_div)

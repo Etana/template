@@ -1,4 +1,4 @@
-# Variable switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON
+# Variable de boucle switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_account_not_linked](switch_fb_account_not_linked.md#readme) se trouvant dans une boucle sur [switch_fb_connect](switch_fb_connect.md#readme) se trouvant dans une boucle sur [switch_preferences_menu](switch_preferences_menu.md#readme).

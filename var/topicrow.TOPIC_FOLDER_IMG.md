@@ -1,4 +1,4 @@
-# Variable topicrow.TOPIC_FOLDER_IMG
+# Variable de boucle topicrow.TOPIC_FOLDER_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).

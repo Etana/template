@@ -1,4 +1,4 @@
-# Variable postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS
+# Variable de boucle postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_vote_minus](switch_vote_minus.md#readme) se trouvant dans une boucle sur [switch_bar](switch_bar.md#readme) se trouvant dans une boucle sur [switch_vote_active](switch_vote_active.md#readme) se trouvant dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

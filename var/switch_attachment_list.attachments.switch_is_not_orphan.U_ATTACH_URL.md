@@ -1,4 +1,4 @@
-# Variable switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL
+# Variable de boucle switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_is_not_orphan](switch_is_not_orphan.md#readme) se trouvant dans une boucle sur [attachments](attachments.md#readme) se trouvant dans une boucle sur [switch_attachment_list](switch_attachment_list.md#readme).

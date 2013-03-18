@@ -1,4 +1,4 @@
-# Variable faq_block_link.BLOCK_TITLE
+# Variable de boucle faq_block_link.BLOCK_TITLE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [faq_block_link](faq_block_link.md#readme).

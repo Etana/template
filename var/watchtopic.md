@@ -1,12 +1,13 @@
-# Variable watchtopic
+# Boucle watchtopic
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN watchtopic -->
     contenu
-<!-- END watchtopic -->```
+<!-- END watchtopic -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/watchtopic)

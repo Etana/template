@@ -1,4 +1,4 @@
-# Variable profile_field.ID
+# Variable de boucle profile_field.ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [profile_field](profile_field.md#readme).

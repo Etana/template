@@ -1,12 +1,13 @@
-# Variable switch_multiple_uploads
+# Boucle switch_multiple_uploads
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_multiple_uploads -->
     contenu
-<!-- END switch_multiple_uploads -->```
+<!-- END switch_multiple_uploads -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_multiple_uploads)

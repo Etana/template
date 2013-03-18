@@ -1,12 +1,13 @@
-# Variable switch_quote
+# Boucle switch_quote
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_quote -->
     contenu
-<!-- END switch_quote -->```
+<!-- END switch_quote -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_quote)

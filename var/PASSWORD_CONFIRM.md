@@ -1,7 +1,7 @@
 # Variable PASSWORD_CONFIRM
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {PASSWORD_CONFIRM}

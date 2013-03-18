@@ -1,7 +1,7 @@
 # Variable L_SEND_EMAIL_MSG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SEND_EMAIL_MSG}

@@ -1,12 +1,13 @@
-# Variable main_page
+# Boucle main_page
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN main_page -->
     contenu
-<!-- END main_page -->```
+<!-- END main_page -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/main_page)

@@ -1,12 +1,13 @@
-# Variable switch_upload_imageshack
+# Boucle switch_upload_imageshack
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_upload_imageshack -->
     contenu
-<!-- END switch_upload_imageshack -->```
+<!-- END switch_upload_imageshack -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_upload_imageshack)

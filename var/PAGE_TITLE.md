@@ -1,7 +1,7 @@
 # Variable PAGE_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {PAGE_TITLE}

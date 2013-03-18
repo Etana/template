@@ -1,4 +1,4 @@
-# Variable message_admin_index.message_admin_txt.MES_TXT
+# Variable de boucle message_admin_index.message_admin_txt.MES_TXT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [message_admin_txt](message_admin_txt.md#readme) se trouvant dans une boucle sur [message_admin_index](message_admin_index.md#readme).

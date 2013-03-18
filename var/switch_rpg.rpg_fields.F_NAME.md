@@ -1,4 +1,4 @@
-# Variable switch_rpg.rpg_fields.F_NAME
+# Variable de boucle switch_rpg.rpg_fields.F_NAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [rpg_fields](rpg_fields.md#readme) se trouvant dans une boucle sur [switch_rpg](switch_rpg.md#readme).

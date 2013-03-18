@@ -1,4 +1,4 @@
-# Variable list_pics_block.legend_stat.L_LEGEND_STAT
+# Variable de boucle list_pics_block.legend_stat.L_LEGEND_STAT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [legend_stat](legend_stat.md#readme) se trouvant dans une boucle sur [list_pics_block](list_pics_block.md#readme).

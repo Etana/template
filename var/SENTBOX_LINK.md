@@ -1,7 +1,7 @@
 # Variable SENTBOX_LINK
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SENTBOX_LINK}

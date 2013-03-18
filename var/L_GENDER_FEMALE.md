@@ -1,7 +1,7 @@
 # Variable L_GENDER_FEMALE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_GENDER_FEMALE}

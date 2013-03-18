@@ -1,7 +1,7 @@
 # Variable DATE_FORMAT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {DATE_FORMAT}

@@ -1,4 +1,4 @@
-# Variable birthday_list_box.FIELDNAME
+# Variable de boucle birthday_list_box.FIELDNAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [birthday_list_box](birthday_list_box.md#readme).

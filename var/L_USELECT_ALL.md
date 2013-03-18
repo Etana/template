@@ -1,7 +1,7 @@
 # Variable L_USELECT_ALL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_USELECT_ALL}

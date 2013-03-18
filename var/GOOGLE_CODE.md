@@ -1,7 +1,7 @@
 # Variable GOOGLE_CODE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {GOOGLE_CODE}

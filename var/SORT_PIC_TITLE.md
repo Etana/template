@@ -1,7 +1,7 @@
 # Variable SORT_PIC_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SORT_PIC_TITLE}

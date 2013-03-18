@@ -1,7 +1,7 @@
 # Variable UPLOAD_FULL_LINK
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {UPLOAD_FULL_LINK}

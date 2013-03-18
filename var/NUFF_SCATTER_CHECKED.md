@@ -1,7 +1,7 @@
 # Variable NUFF_SCATTER_CHECKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NUFF_SCATTER_CHECKED}

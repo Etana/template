@@ -1,12 +1,13 @@
-# Variable privmsg_extensions
+# Boucle privmsg_extensions
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN privmsg_extensions -->
     contenu
-<!-- END privmsg_extensions -->```
+<!-- END privmsg_extensions -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/privmsg_extensions)

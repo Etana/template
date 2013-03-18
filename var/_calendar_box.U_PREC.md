@@ -1,4 +1,4 @@
-# Variable _calendar_box.U_PREC
+# Variable de boucle _calendar_box.U_PREC
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [_calendar_box](_calendar_box.md#readme).

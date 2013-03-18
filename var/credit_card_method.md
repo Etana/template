@@ -1,12 +1,13 @@
-# Variable credit_card_method
+# Boucle credit_card_method
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN credit_card_method -->
     contenu
-<!-- END credit_card_method -->```
+<!-- END credit_card_method -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/credit_card_method)

@@ -1,7 +1,7 @@
 # Variable L_DENY_SELECTED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_DENY_SELECTED}

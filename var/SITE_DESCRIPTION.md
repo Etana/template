@@ -1,7 +1,7 @@
 # Variable SITE_DESCRIPTION
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SITE_DESCRIPTION}

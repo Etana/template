@@ -1,12 +1,13 @@
-# Variable switch_sticky
+# Boucle switch_sticky
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_sticky -->
     contenu
-<!-- END switch_sticky -->```
+<!-- END switch_sticky -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_sticky)

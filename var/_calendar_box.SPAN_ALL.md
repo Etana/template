@@ -1,4 +1,4 @@
-# Variable _calendar_box.SPAN_ALL
+# Variable de boucle _calendar_box.SPAN_ALL
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [_calendar_box](_calendar_box.md#readme).

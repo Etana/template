@@ -1,12 +1,13 @@
-# Variable promot_trafic
+# Boucle promot_trafic
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN promot_trafic -->
     contenu
-<!-- END promot_trafic -->```
+<!-- END promot_trafic -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/promot_trafic)

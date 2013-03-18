@@ -1,4 +1,4 @@
-# Variable switch_search_results.search_results.L_CAT
+# Variable de boucle switch_search_results.search_results.L_CAT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [search_results](search_results.md#readme) se trouvant dans une boucle sur [switch_search_results](switch_search_results.md#readme).

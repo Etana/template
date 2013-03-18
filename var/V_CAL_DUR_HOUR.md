@@ -1,7 +1,7 @@
 # Variable V_CAL_DUR_HOUR
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {V_CAL_DUR_HOUR}

@@ -1,7 +1,7 @@
 # Variable NB_MESSAGES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NB_MESSAGES}

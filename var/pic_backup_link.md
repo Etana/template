@@ -1,12 +1,13 @@
-# Variable pic_backup_link
+# Boucle pic_backup_link
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN pic_backup_link -->
     contenu
-<!-- END pic_backup_link -->```
+<!-- END pic_backup_link -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/pic_backup_link)

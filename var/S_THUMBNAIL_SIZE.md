@@ -1,7 +1,7 @@
 # Variable S_THUMBNAIL_SIZE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_THUMBNAIL_SIZE}

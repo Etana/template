@@ -1,12 +1,13 @@
-# Variable switch_cke_editor
+# Boucle switch_cke_editor
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_cke_editor -->
     contenu
-<!-- END switch_cke_editor -->```
+<!-- END switch_cke_editor -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_cke_editor)

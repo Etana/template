@@ -1,7 +1,7 @@
 # Variable TOPICS_LIST_BOX
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TOPICS_LIST_BOX}

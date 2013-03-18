@@ -1,7 +1,7 @@
 # Variable SORT_ALBUM_NEW_COMMENT_OPTION
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SORT_ALBUM_NEW_COMMENT_OPTION}

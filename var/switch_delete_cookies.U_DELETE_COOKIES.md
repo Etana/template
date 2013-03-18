@@ -1,4 +1,4 @@
-# Variable switch_delete_cookies.U_DELETE_COOKIES
+# Variable de boucle switch_delete_cookies.U_DELETE_COOKIES
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_delete_cookies](switch_delete_cookies.md#readme).

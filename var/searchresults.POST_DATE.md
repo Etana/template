@@ -1,4 +1,4 @@
-# Variable searchresults.POST_DATE
+# Variable de boucle searchresults.POST_DATE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

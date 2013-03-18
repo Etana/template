@@ -1,7 +1,7 @@
 # Variable NAV_CAT_DESC_SECOND
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NAV_CAT_DESC_SECOND}

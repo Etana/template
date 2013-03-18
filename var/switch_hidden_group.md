@@ -1,12 +1,13 @@
-# Variable switch_hidden_group
+# Boucle switch_hidden_group
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_hidden_group -->
     contenu
-<!-- END switch_hidden_group -->```
+<!-- END switch_hidden_group -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_hidden_group)

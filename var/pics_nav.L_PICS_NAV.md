@@ -1,4 +1,4 @@
-# Variable pics_nav.L_PICS_NAV
+# Variable de boucle pics_nav.L_PICS_NAV
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [pics_nav](pics_nav.md#readme).

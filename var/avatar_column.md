@@ -1,12 +1,13 @@
-# Variable avatar_column
+# Boucle avatar_column
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN avatar_column -->
     contenu
-<!-- END avatar_column -->```
+<!-- END avatar_column -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/avatar_column)

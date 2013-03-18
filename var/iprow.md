@@ -1,12 +1,13 @@
-# Variable iprow
+# Boucle iprow
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN iprow -->
     contenu
-<!-- END iprow -->```
+<!-- END iprow -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/iprow)

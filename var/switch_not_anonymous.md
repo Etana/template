@@ -1,12 +1,13 @@
-# Variable switch_not_anonymous
+# Boucle switch_not_anonymous
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_not_anonymous -->
     contenu
-<!-- END switch_not_anonymous -->```
+<!-- END switch_not_anonymous -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_not_anonymous)

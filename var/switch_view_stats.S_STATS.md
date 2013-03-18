@@ -1,4 +1,4 @@
-# Variable switch_view_stats.S_STATS
+# Variable de boucle switch_view_stats.S_STATS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_view_stats](switch_view_stats.md#readme).

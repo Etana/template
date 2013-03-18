@@ -1,7 +1,7 @@
 # Variable S_FORM_ENCTYPE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_FORM_ENCTYPE}

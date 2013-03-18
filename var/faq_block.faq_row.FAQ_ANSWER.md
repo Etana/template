@@ -1,4 +1,4 @@
-# Variable faq_block.faq_row.FAQ_ANSWER
+# Variable de boucle faq_block.faq_row.FAQ_ANSWER
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [faq_row](faq_row.md#readme) se trouvant dans une boucle sur [faq_block](faq_block.md#readme).

@@ -1,7 +1,7 @@
 # Variable S_GROUP_OPEN_CHECKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_GROUP_OPEN_CHECKED}

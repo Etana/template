@@ -1,7 +1,7 @@
 # Variable POST_PREVENT_NO
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POST_PREVENT_NO}

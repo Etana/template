@@ -1,4 +1,4 @@
-# Variable switch_facebook_logout.SERVER_NAME
+# Variable de boucle switch_facebook_logout.SERVER_NAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_facebook_logout](switch_facebook_logout.md#readme).

@@ -1,4 +1,4 @@
-# Variable no_personal_galleries.L_NO_PERSONNAL_GALLERIES
+# Variable de boucle no_personal_galleries.L_NO_PERSONNAL_GALLERIES
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [no_personal_galleries](no_personal_galleries.md#readme).

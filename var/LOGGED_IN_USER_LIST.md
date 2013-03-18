@@ -1,7 +1,7 @@
 # Variable LOGGED_IN_USER_LIST
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {LOGGED_IN_USER_LIST}

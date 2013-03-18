@@ -1,4 +1,4 @@
-# Variable catrow.forumrow.FORUM_FOLDER_IMG
+# Variable de boucle catrow.forumrow.FORUM_FOLDER_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [forumrow](forumrow.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).

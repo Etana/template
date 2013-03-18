@@ -1,4 +1,4 @@
-# Variable listrow.S_MARK_ID
+# Variable de boucle listrow.S_MARK_ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

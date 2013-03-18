@@ -1,4 +1,4 @@
-# Variable pics_nav.prev.U_PICS_THUMB
+# Variable de boucle pics_nav.prev.U_PICS_THUMB
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [prev](prev.md#readme) se trouvant dans une boucle sur [pics_nav](pics_nav.md#readme).

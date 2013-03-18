@@ -1,4 +1,4 @@
-# Variable catrow.cathead.U_VIEWCAT
+# Variable de boucle catrow.cathead.U_VIEWCAT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cathead](cathead.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).

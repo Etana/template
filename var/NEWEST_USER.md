@@ -1,7 +1,7 @@
 # Variable NEWEST_USER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NEWEST_USER}

@@ -1,4 +1,4 @@
-# Variable hitskin_preview.L_RETURN_THEME
+# Variable de boucle hitskin_preview.L_RETURN_THEME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [hitskin_preview](hitskin_preview.md#readme).

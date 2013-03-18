@@ -1,4 +1,4 @@
-# Variable display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED
+# Variable de boucle display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [rate_scale_row](rate_scale_row.md#readme) se trouvant dans une boucle sur [rate_row](rate_row.md#readme) se trouvant dans une boucle sur [rate_switch](rate_switch.md#readme) se trouvant dans une boucle sur [display_infos](display_infos.md#readme).

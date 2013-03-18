@@ -1,12 +1,13 @@
-# Variable topics_list_box
+# Boucle topics_list_box
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN topics_list_box -->
     contenu
-<!-- END topics_list_box -->```
+<!-- END topics_list_box -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/topics_list_box)

@@ -1,7 +1,7 @@
 # Variable L_THIS_POST_IP
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_THIS_POST_IP}

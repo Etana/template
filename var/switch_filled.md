@@ -1,12 +1,13 @@
-# Variable switch_filled
+# Boucle switch_filled
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_filled -->
     contenu
-<!-- END switch_filled -->```
+<!-- END switch_filled -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_filled)

@@ -1,7 +1,7 @@
 # Variable PATH_IMG_FA
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {PATH_IMG_FA}

@@ -1,7 +1,7 @@
 # Variable L_UPDATE_STATUS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_UPDATE_STATUS}

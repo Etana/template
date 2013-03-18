@@ -1,7 +1,7 @@
 # Variable L_MOVE_PROFILE_MARKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_MOVE_PROFILE_MARKED}

@@ -1,7 +1,7 @@
 # Variable POST_DAY_STATS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POST_DAY_STATS}

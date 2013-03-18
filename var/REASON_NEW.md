@@ -1,7 +1,7 @@
 # Variable REASON_NEW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {REASON_NEW}

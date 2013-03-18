@@ -1,7 +1,7 @@
 # Variable S_ALBUM_ROOT_CATEGORY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_ALBUM_ROOT_CATEGORY}

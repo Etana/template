@@ -1,12 +1,13 @@
-# Variable cat_pic_space
+# Boucle cat_pic_space
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN cat_pic_space -->
     contenu
-<!-- END cat_pic_space -->```
+<!-- END cat_pic_space -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/cat_pic_space)

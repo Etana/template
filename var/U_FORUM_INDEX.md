@@ -1,7 +1,7 @@
 # Variable U_FORUM_INDEX
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_FORUM_INDEX}

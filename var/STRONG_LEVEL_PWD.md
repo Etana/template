@@ -1,7 +1,7 @@
 # Variable STRONG_LEVEL_PWD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {STRONG_LEVEL_PWD}

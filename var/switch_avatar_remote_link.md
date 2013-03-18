@@ -1,12 +1,13 @@
-# Variable switch_avatar_remote_link
+# Boucle switch_avatar_remote_link
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_avatar_remote_link -->
     contenu
-<!-- END switch_avatar_remote_link -->```
+<!-- END switch_avatar_remote_link -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_avatar_remote_link)

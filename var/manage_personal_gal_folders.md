@@ -1,12 +1,13 @@
-# Variable manage_personal_gal_folders
+# Boucle manage_personal_gal_folders
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN manage_personal_gal_folders -->
     contenu
-<!-- END manage_personal_gal_folders -->```
+<!-- END manage_personal_gal_folders -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/manage_personal_gal_folders)

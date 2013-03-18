@@ -1,4 +1,4 @@
-# Variable userrow.U_PROFILE
+# Variable de boucle userrow.U_PROFILE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).

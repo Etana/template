@@ -1,12 +1,13 @@
-# Variable poll_option
+# Boucle poll_option
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN poll_option -->
     contenu
-<!-- END poll_option -->```
+<!-- END poll_option -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/poll_option)

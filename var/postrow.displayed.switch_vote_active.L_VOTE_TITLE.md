@@ -1,4 +1,4 @@
-# Variable postrow.displayed.switch_vote_active.L_VOTE_TITLE
+# Variable de boucle postrow.displayed.switch_vote_active.L_VOTE_TITLE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_vote_active](switch_vote_active.md#readme) se trouvant dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

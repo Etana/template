@@ -1,4 +1,4 @@
-# Variable contact_field.LABEL
+# Variable de boucle contact_field.LABEL
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [contact_field](contact_field.md#readme).

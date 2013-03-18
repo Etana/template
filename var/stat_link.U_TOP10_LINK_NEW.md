@@ -1,4 +1,4 @@
-# Variable stat_link.U_TOP10_LINK_NEW
+# Variable de boucle stat_link.U_TOP10_LINK_NEW
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [stat_link](stat_link.md#readme).

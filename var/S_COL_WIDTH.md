@@ -1,7 +1,7 @@
 # Variable S_COL_WIDTH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_COL_WIDTH}

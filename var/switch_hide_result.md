@@ -1,12 +1,13 @@
-# Variable switch_hide_result
+# Boucle switch_hide_result
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_hide_result -->
     contenu
-<!-- END switch_hide_result -->```
+<!-- END switch_hide_result -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_hide_result)

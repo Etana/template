@@ -1,12 +1,13 @@
-# Variable switch_pagination
+# Boucle switch_pagination
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_pagination -->
     contenu
-<!-- END switch_pagination -->```
+<!-- END switch_pagination -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_pagination)

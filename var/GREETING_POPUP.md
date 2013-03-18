@@ -1,7 +1,7 @@
 # Variable GREETING_POPUP
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {GREETING_POPUP}

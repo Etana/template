@@ -1,7 +1,7 @@
 # Variable ICON_TIME
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ICON_TIME}

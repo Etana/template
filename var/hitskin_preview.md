@@ -1,12 +1,13 @@
-# Variable hitskin_preview
+# Boucle hitskin_preview
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN hitskin_preview -->
     contenu
-<!-- END hitskin_preview -->```
+<!-- END hitskin_preview -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/hitskin_preview)

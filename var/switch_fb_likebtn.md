@@ -1,12 +1,13 @@
-# Variable switch_fb_likebtn
+# Boucle switch_fb_likebtn
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_fb_likebtn -->
     contenu
-<!-- END switch_fb_likebtn -->```
+<!-- END switch_fb_likebtn -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_fb_likebtn)

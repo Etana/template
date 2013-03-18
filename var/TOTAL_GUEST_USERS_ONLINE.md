@@ -1,7 +1,7 @@
 # Variable TOTAL_GUEST_USERS_ONLINE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TOTAL_GUEST_USERS_ONLINE}

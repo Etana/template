@@ -1,7 +1,7 @@
 # Variable L_OVERALL_POSTERS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_OVERALL_POSTERS}

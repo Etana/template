@@ -1,7 +1,7 @@
 # Variable RULE_MSG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {RULE_MSG}

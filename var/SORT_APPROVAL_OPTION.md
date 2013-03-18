@@ -1,7 +1,7 @@
 # Variable SORT_APPROVAL_OPTION
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SORT_APPROVAL_OPTION}

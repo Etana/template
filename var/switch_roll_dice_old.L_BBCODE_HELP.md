@@ -1,4 +1,4 @@
-# Variable switch_roll_dice_old.L_BBCODE_HELP
+# Variable de boucle switch_roll_dice_old.L_BBCODE_HELP
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_roll_dice_old](switch_roll_dice_old.md#readme).

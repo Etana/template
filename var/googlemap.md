@@ -1,12 +1,13 @@
-# Variable googlemap
+# Boucle googlemap
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN googlemap -->
     contenu
-<!-- END googlemap -->```
+<!-- END googlemap -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/googlemap)

@@ -1,12 +1,13 @@
-# Variable switch_can_disable_mass_pm
+# Boucle switch_can_disable_mass_pm
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_can_disable_mass_pm -->
     contenu
-<!-- END switch_can_disable_mass_pm -->```
+<!-- END switch_can_disable_mass_pm -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_can_disable_mass_pm)

@@ -1,4 +1,4 @@
-# Variable postrow.MINI_POST_IMG
+# Variable de boucle postrow.MINI_POST_IMG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [postrow](postrow.md#readme).

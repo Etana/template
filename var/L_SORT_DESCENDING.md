@@ -1,7 +1,7 @@
 # Variable L_SORT_DESCENDING
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_SORT_DESCENDING}

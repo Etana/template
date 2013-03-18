@@ -1,4 +1,4 @@
-# Variable catrow.cathead.inc.INC_CLASS
+# Variable de boucle catrow.cathead.inc.INC_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [inc](inc.md#readme) se trouvant dans une boucle sur [cathead](cathead.md#readme) se trouvant dans une boucle sur [catrow](catrow.md#readme).

@@ -1,4 +1,4 @@
-# Variable switch_ticker.STOP_TIME
+# Variable de boucle switch_ticker.STOP_TIME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_ticker](switch_ticker.md#readme).

@@ -1,4 +1,4 @@
-# Variable switch_rank.L_TITLE
+# Variable de boucle switch_rank.L_TITLE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_rank](switch_rank.md#readme).

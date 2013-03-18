@@ -1,4 +1,4 @@
-# Variable switch_fb_explain.FB_EXPLAIN
+# Variable de boucle switch_fb_explain.FB_EXPLAIN
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_fb_explain](switch_fb_explain.md#readme).

@@ -1,12 +1,13 @@
-# Variable switch_groupmsg
+# Boucle switch_groupmsg
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_groupmsg -->
     contenu
-<!-- END switch_groupmsg -->```
+<!-- END switch_groupmsg -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_groupmsg)

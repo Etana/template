@@ -1,4 +1,4 @@
-# Variable out_giefmod0.MODVAR
+# Variable de boucle out_giefmod0.MODVAR
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [out_giefmod0](out_giefmod0.md#readme).

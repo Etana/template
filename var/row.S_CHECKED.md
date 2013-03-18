@@ -1,4 +1,4 @@
-# Variable row.S_CHECKED
+# Variable de boucle row.S_CHECKED
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

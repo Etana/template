@@ -1,4 +1,4 @@
-# Variable listrow.SUBJECT
+# Variable de boucle listrow.SUBJECT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [listrow](listrow.md#readme).

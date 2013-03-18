@@ -1,7 +1,7 @@
 # Variable L_CALENDAR_SCHEDULER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_CALENDAR_SCHEDULER}

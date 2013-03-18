@@ -1,12 +1,13 @@
-# Variable forumrow
+# Boucle forumrow
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN forumrow -->
     contenu
-<!-- END forumrow -->```
+<!-- END forumrow -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/forumrow)

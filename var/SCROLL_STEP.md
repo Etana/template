@@ -1,7 +1,7 @@
 # Variable SCROLL_STEP
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SCROLL_STEP}

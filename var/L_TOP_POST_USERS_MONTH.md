@@ -1,7 +1,7 @@
 # Variable L_TOP_POST_USERS_MONTH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_TOP_POST_USERS_MONTH}

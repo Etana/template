@@ -1,4 +1,4 @@
-# Variable iprow.IP
+# Variable de boucle iprow.IP
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [iprow](iprow.md#readme).

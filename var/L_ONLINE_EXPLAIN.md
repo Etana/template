@@ -1,7 +1,7 @@
 # Variable L_ONLINE_EXPLAIN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_ONLINE_EXPLAIN}

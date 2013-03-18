@@ -1,12 +1,13 @@
-# Variable switch_rate
+# Boucle switch_rate
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_rate -->
     contenu
-<!-- END switch_rate -->```
+<!-- END switch_rate -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_rate)

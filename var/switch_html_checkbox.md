@@ -1,12 +1,13 @@
-# Variable switch_html_checkbox
+# Boucle switch_html_checkbox
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_html_checkbox -->
     contenu
-<!-- END switch_html_checkbox -->```
+<!-- END switch_html_checkbox -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_html_checkbox)

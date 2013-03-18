@@ -1,7 +1,7 @@
 # Variable TOPIC_LIST_SCHEDULER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {TOPIC_LIST_SCHEDULER}

@@ -1,12 +1,13 @@
-# Variable switch_subject_color
+# Boucle switch_subject_color
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_subject_color -->
     contenu
-<!-- END switch_subject_color -->```
+<!-- END switch_subject_color -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_subject_color)

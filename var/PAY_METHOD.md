@@ -1,7 +1,7 @@
 # Variable PAY_METHOD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {PAY_METHOD}

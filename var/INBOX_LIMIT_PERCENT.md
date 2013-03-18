@@ -1,7 +1,7 @@
 # Variable INBOX_LIMIT_PERCENT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {INBOX_LIMIT_PERCENT}

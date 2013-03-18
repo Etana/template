@@ -1,7 +1,7 @@
 # Variable F_TYPE_FORUM
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {F_TYPE_FORUM}

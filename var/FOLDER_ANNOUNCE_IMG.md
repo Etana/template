@@ -1,7 +1,7 @@
 # Variable FOLDER_ANNOUNCE_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {FOLDER_ANNOUNCE_IMG}

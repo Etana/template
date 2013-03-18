@@ -1,7 +1,7 @@
 # Variable REMOVE_TEST_FORMATTING
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {REMOVE_TEST_FORMATTING}

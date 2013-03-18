@@ -1,4 +1,4 @@
-# Variable userrow.ROW_CLASS
+# Variable de boucle userrow.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [userrow](userrow.md#readme).

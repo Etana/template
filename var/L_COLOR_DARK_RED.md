@@ -1,7 +1,7 @@
 # Variable L_COLOR_DARK_RED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_COLOR_DARK_RED}

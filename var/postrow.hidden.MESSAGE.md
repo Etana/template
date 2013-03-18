@@ -1,4 +1,4 @@
-# Variable postrow.hidden.MESSAGE
+# Variable de boucle postrow.hidden.MESSAGE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [hidden](hidden.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

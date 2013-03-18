@@ -1,4 +1,4 @@
-# Variable navlinks.stat_link.U_TOP10_LINK_NEW
+# Variable de boucle navlinks.stat_link.U_TOP10_LINK_NEW
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [stat_link](stat_link.md#readme) se trouvant dans une boucle sur [navlinks](navlinks.md#readme).

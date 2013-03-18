@@ -1,7 +1,7 @@
 # Variable USER_WYSIWYG_NO
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {USER_WYSIWYG_NO}

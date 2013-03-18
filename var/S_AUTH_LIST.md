@@ -1,7 +1,7 @@
 # Variable S_AUTH_LIST
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_AUTH_LIST}

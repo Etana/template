@@ -1,7 +1,7 @@
 # Variable U_RETURN_PROFILE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_RETURN_PROFILE}

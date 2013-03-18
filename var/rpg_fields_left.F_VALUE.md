@@ -1,4 +1,4 @@
-# Variable rpg_fields_left.F_VALUE
+# Variable de boucle rpg_fields_left.F_VALUE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [rpg_fields_left](rpg_fields_left.md#readme).

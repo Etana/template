@@ -1,4 +1,4 @@
-# Variable topicrow.L_TOPIC_FOLDER_ALT
+# Variable de boucle topicrow.L_TOPIC_FOLDER_ALT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).

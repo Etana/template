@@ -1,12 +1,13 @@
-# Variable _more_header
+# Boucle _more_header
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN _more_header -->
     contenu
-<!-- END _more_header -->```
+<!-- END _more_header -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/_more_header)

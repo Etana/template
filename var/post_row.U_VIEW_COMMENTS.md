@@ -1,4 +1,4 @@
-# Variable post_row.U_VIEW_COMMENTS
+# Variable de boucle post_row.U_VIEW_COMMENTS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [post_row](post_row.md#readme).

@@ -1,7 +1,7 @@
 # Variable ALIGN_RIGHT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ALIGN_RIGHT}

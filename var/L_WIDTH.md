@@ -1,7 +1,7 @@
 # Variable L_WIDTH
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_WIDTH}

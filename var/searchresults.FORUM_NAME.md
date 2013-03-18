@@ -1,4 +1,4 @@
-# Variable searchresults.FORUM_NAME
+# Variable de boucle searchresults.FORUM_NAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

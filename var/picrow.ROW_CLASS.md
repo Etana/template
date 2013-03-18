@@ -1,4 +1,4 @@
-# Variable picrow.ROW_CLASS
+# Variable de boucle picrow.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).

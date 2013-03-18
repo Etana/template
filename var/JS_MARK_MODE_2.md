@@ -1,7 +1,7 @@
 # Variable JS_MARK_MODE_2
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {JS_MARK_MODE_2}

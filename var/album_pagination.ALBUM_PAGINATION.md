@@ -1,4 +1,4 @@
-# Variable album_pagination.ALBUM_PAGINATION
+# Variable de boucle album_pagination.ALBUM_PAGINATION
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [album_pagination](album_pagination.md#readme).

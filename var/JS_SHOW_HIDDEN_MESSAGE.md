@@ -1,7 +1,7 @@
 # Variable JS_SHOW_HIDDEN_MESSAGE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {JS_SHOW_HIDDEN_MESSAGE}

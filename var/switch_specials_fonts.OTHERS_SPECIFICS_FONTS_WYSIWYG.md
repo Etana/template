@@ -1,4 +1,4 @@
-# Variable switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG
+# Variable de boucle switch_specials_fonts.OTHERS_SPECIFICS_FONTS_WYSIWYG
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_specials_fonts](switch_specials_fonts.md#readme).

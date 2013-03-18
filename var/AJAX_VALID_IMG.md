@@ -1,7 +1,7 @@
 # Variable AJAX_VALID_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {AJAX_VALID_IMG}

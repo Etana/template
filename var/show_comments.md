@@ -1,12 +1,13 @@
-# Variable show_comments
+# Boucle show_comments
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN show_comments -->
     contenu
-<!-- END show_comments -->```
+<!-- END show_comments -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/show_comments)

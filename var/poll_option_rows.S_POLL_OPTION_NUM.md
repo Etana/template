@@ -1,4 +1,4 @@
-# Variable poll_option_rows.S_POLL_OPTION_NUM
+# Variable de boucle poll_option_rows.S_POLL_OPTION_NUM
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [poll_option_rows](poll_option_rows.md#readme).

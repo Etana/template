@@ -1,12 +1,13 @@
-# Variable switch_delete_cookies
+# Boucle switch_delete_cookies
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_delete_cookies -->
     contenu
-<!-- END switch_delete_cookies -->```
+<!-- END switch_delete_cookies -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_delete_cookies)

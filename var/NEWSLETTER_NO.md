@@ -1,7 +1,7 @@
 # Variable NEWSLETTER_NO
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {NEWSLETTER_NO}

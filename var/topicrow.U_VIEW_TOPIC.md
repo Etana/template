@@ -1,4 +1,4 @@
-# Variable topicrow.U_VIEW_TOPIC
+# Variable de boucle topicrow.U_VIEW_TOPIC
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topicrow](topicrow.md#readme).

@@ -1,7 +1,7 @@
 # Variable CLASS_CONTENT_CONTAINER
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {CLASS_CONTENT_CONTAINER}

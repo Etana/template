@@ -1,7 +1,7 @@
 # Variable L_FORUM_RULES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FORUM_RULES}

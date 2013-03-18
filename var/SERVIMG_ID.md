@@ -1,7 +1,7 @@
 # Variable SERVIMG_ID
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SERVIMG_ID}

@@ -1,12 +1,13 @@
-# Variable switch_user_contact
+# Boucle switch_user_contact
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_user_contact -->
     contenu
-<!-- END switch_user_contact -->```
+<!-- END switch_user_contact -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_user_contact)

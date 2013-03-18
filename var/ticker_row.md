@@ -1,12 +1,13 @@
-# Variable ticker_row
+# Boucle ticker_row
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN ticker_row -->
     contenu
-<!-- END ticker_row -->```
+<!-- END ticker_row -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/ticker_row)

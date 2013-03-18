@@ -1,7 +1,7 @@
 # Variable CALENDARITEMS_OPEN
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {CALENDARITEMS_OPEN}

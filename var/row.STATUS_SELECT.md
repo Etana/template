@@ -1,4 +1,4 @@
-# Variable row.STATUS_SELECT
+# Variable de boucle row.STATUS_SELECT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

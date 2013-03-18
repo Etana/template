@@ -1,7 +1,7 @@
 # Variable U_SEND_PASSWORD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {U_SEND_PASSWORD}

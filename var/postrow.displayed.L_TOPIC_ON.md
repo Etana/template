@@ -1,4 +1,4 @@
-# Variable postrow.displayed.L_TOPIC_ON
+# Variable de boucle postrow.displayed.L_TOPIC_ON
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

@@ -1,12 +1,13 @@
-# Variable footer_table
+# Boucle footer_table
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN footer_table -->
     contenu
-<!-- END footer_table -->```
+<!-- END footer_table -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/footer_table)

@@ -1,4 +1,4 @@
-# Variable memberrow.LASTVISIT
+# Variable de boucle memberrow.LASTVISIT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [memberrow](memberrow.md#readme).

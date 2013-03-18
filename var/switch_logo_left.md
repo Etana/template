@@ -1,12 +1,13 @@
-# Variable switch_logo_left
+# Boucle switch_logo_left
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_logo_left -->
     contenu
-<!-- END switch_logo_left -->```
+<!-- END switch_logo_left -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_logo_left)

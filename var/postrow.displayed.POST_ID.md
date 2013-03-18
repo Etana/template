@@ -1,4 +1,4 @@
-# Variable postrow.displayed.POST_ID
+# Variable de boucle postrow.displayed.POST_ID
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [displayed](displayed.md#readme) se trouvant dans une boucle sur [postrow](postrow.md#readme).

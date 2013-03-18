@@ -1,12 +1,13 @@
-# Variable switch_topic_modif
+# Boucle switch_topic_modif
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_topic_modif -->
     contenu
-<!-- END switch_topic_modif -->```
+<!-- END switch_topic_modif -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_topic_modif)

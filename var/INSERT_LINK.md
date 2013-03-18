@@ -1,7 +1,7 @@
 # Variable INSERT_LINK
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {INSERT_LINK}

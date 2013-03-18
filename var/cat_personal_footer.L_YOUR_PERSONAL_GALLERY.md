@@ -1,4 +1,4 @@
-# Variable cat_personal_footer.L_YOUR_PERSONAL_GALLERY
+# Variable de boucle cat_personal_footer.L_YOUR_PERSONAL_GALLERY
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [cat_personal_footer](cat_personal_footer.md#readme).

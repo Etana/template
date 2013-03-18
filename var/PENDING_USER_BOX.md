@@ -1,7 +1,7 @@
 # Variable PENDING_USER_BOX
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {PENDING_USER_BOX}

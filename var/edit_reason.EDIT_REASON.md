@@ -1,4 +1,4 @@
-# Variable edit_reason.EDIT_REASON
+# Variable de boucle edit_reason.EDIT_REASON
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [edit_reason](edit_reason.md#readme).

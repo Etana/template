@@ -103,10 +103,10 @@
 ### [L_LOGIN](../L_LOGIN.md#readme) ([V](https://fa-tvars.appspot.com/var/L_LOGIN))
 * [Variable &agrave; la ligne 227](../../subsilver/overall_header.tpl#L227)
 
-### [L_REGISTER](../L_REGISTER.md#readme) ([XXX](https://fa-tvars.appspot.com/var/L_REGISTER))
+### [L_REGISTER](../L_REGISTER.md#readme) ([V](https://fa-tvars.appspot.com/var/L_REGISTER))
 * [Variable &agrave; la ligne 228](../../subsilver/overall_header.tpl#L228)
 
-### [LOGIN_POPUP_HEIGHT](../LOGIN_POPUP_HEIGHT.md#readme) ([XXX](https://fa-tvars.appspot.com/var/LOGIN_POPUP_HEIGHT))
+### [LOGIN_POPUP_HEIGHT](../LOGIN_POPUP_HEIGHT.md#readme) ([V](https://fa-tvars.appspot.com/var/LOGIN_POPUP_HEIGHT))
 * [Variable &agrave; la ligne 143](../../subsilver/overall_header.tpl#L143)
 * [Variable &agrave; la ligne 217](../../subsilver/overall_header.tpl#L217)
 

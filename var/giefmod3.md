@@ -1,12 +1,13 @@
-# Variable giefmod3
+# Boucle giefmod3
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN giefmod3 -->
     contenu
-<!-- END giefmod3 -->```
+<!-- END giefmod3 -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/giefmod3)

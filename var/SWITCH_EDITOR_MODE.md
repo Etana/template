@@ -1,7 +1,7 @@
 # Variable SWITCH_EDITOR_MODE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SWITCH_EDITOR_MODE}

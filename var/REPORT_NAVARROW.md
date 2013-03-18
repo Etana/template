@@ -1,7 +1,7 @@
 # Variable REPORT_NAVARROW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {REPORT_NAVARROW}

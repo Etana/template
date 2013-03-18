@@ -1,7 +1,7 @@
 # Variable CURRENT_FID
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {CURRENT_FID}

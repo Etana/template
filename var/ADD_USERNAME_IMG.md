@@ -1,7 +1,7 @@
 # Variable ADD_USERNAME_IMG
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ADD_USERNAME_IMG}

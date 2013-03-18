@@ -1,7 +1,7 @@
 # Variable POPUP_PM_YES
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POPUP_PM_YES}

@@ -1,12 +1,13 @@
-# Variable switch_add_event_day
+# Boucle switch_add_event_day
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_add_event_day -->
     contenu
-<!-- END switch_add_event_day -->```
+<!-- END switch_add_event_day -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_add_event_day)

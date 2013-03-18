@@ -1,7 +1,7 @@
 # Variable GROUP_PENDING_SELECT_NEW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {GROUP_PENDING_SELECT_NEW}

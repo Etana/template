@@ -1,12 +1,13 @@
-# Variable faq_block
+# Boucle faq_block
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN faq_block -->
     contenu
-<!-- END faq_block -->```
+<!-- END faq_block -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/faq_block)

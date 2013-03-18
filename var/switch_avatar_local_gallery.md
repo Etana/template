@@ -1,12 +1,13 @@
-# Variable switch_avatar_local_gallery
+# Boucle switch_avatar_local_gallery
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_avatar_local_gallery -->
     contenu
-<!-- END switch_avatar_local_gallery -->```
+<!-- END switch_avatar_local_gallery -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_avatar_local_gallery)

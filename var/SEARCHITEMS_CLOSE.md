@@ -1,7 +1,7 @@
 # Variable SEARCHITEMS_CLOSE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {SEARCHITEMS_CLOSE}

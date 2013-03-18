@@ -1,4 +1,4 @@
-# Variable topics_list_box.FIELDNAME
+# Variable de boucle topics_list_box.FIELDNAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [topics_list_box](topics_list_box.md#readme).

@@ -1,7 +1,7 @@
 # Variable L_CALENDAR_EVENT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_CALENDAR_EVENT}

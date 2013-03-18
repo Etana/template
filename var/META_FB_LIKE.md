@@ -1,7 +1,7 @@
 # Variable META_FB_LIKE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {META_FB_LIKE}

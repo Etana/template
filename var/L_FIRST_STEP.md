@@ -1,7 +1,7 @@
 # Variable L_FIRST_STEP
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FIRST_STEP}

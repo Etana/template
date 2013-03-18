@@ -1,4 +1,4 @@
-# Variable switch_report_popup.S_WIDTH
+# Variable de boucle switch_report_popup.S_WIDTH
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_report_popup](switch_report_popup.md#readme).

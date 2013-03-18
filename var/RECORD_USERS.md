@@ -1,7 +1,7 @@
 # Variable RECORD_USERS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {RECORD_USERS}

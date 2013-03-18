@@ -1,7 +1,7 @@
 # Variable L_JOIN_A_GROUP
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_JOIN_A_GROUP}

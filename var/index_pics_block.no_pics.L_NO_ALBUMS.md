@@ -1,4 +1,4 @@
-# Variable index_pics_block.no_pics.L_NO_ALBUMS
+# Variable de boucle index_pics_block.no_pics.L_NO_ALBUMS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [no_pics](no_pics.md#readme) se trouvant dans une boucle sur [index_pics_block](index_pics_block.md#readme).

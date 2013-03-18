@@ -1,4 +1,4 @@
-# Variable switch_no_user.COLSPAN_NUMBER
+# Variable de boucle switch_no_user.COLSPAN_NUMBER
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_no_user](switch_no_user.md#readme).

@@ -1,7 +1,7 @@
 # Variable L_CLICK_TO_JOIN_CHAT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_CLICK_TO_JOIN_CHAT}

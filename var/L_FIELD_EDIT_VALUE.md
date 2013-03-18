@@ -1,7 +1,7 @@
 # Variable L_FIELD_EDIT_VALUE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FIELD_EDIT_VALUE}

@@ -1,7 +1,7 @@
 # Variable V_POLL_TITLE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {V_POLL_TITLE}

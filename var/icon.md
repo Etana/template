@@ -1,12 +1,13 @@
-# Variable icon
+# Boucle icon
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN icon -->
     contenu
-<!-- END icon -->```
+<!-- END icon -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/icon)

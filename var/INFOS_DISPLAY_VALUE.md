@@ -1,7 +1,7 @@
 # Variable INFOS_DISPLAY_VALUE
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {INFOS_DISPLAY_VALUE}

@@ -1,14 +1,14 @@
 # Variable LOGIN_POPUP_HEIGHT
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {LOGIN_POPUP_HEIGHT}
 ```
 
-##Description
-[Ajouter une description](https://fa-tvars.appspot.com/var/LOGIN_POPUP_HEIGHT)
+##Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_HEIGHT)
+Hauteur du popup de connexion définie dans `PA > Général > Forum | Configuration > Popup de connexion > Hauteur`.
 
 ## Utilisations dans les templates
 

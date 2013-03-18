@@ -1,4 +1,4 @@
-# Variable topics_list_box.row.TOPIC_ANNOUNCES_DATES
+# Variable de boucle topics_list_box.row.TOPIC_ANNOUNCES_DATES
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme) se trouvant dans une boucle sur [topics_list_box](topics_list_box.md#readme).

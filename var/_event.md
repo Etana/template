@@ -1,12 +1,13 @@
-# Variable _event
+# Boucle _event
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN _event -->
     contenu
-<!-- END _event -->```
+<!-- END _event -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/_event)

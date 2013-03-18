@@ -1,7 +1,7 @@
 # Variable DYNAMIC_GENERATION_STATUS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {DYNAMIC_GENERATION_STATUS}

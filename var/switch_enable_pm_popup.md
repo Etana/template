@@ -1,12 +1,13 @@
-# Variable switch_enable_pm_popup
+# Boucle switch_enable_pm_popup
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_enable_pm_popup -->
     contenu
-<!-- END switch_enable_pm_popup -->```
+<!-- END switch_enable_pm_popup -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)

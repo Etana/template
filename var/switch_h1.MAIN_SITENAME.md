@@ -1,4 +1,4 @@
-# Variable switch_h1.MAIN_SITENAME
+# Variable de boucle switch_h1.MAIN_SITENAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [switch_h1](switch_h1.md#readme).

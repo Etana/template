@@ -1,12 +1,13 @@
-# Variable switch_mod_option
+# Boucle switch_mod_option
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_mod_option -->
     contenu
-<!-- END switch_mod_option -->```
+<!-- END switch_mod_option -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_mod_option)

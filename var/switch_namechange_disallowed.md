@@ -1,12 +1,13 @@
-# Variable switch_namechange_disallowed
+# Boucle switch_namechange_disallowed
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_namechange_disallowed -->
     contenu
-<!-- END switch_namechange_disallowed -->```
+<!-- END switch_namechange_disallowed -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_namechange_disallowed)

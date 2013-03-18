@@ -1,7 +1,7 @@
 # Variable L_FONT_SMALL
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_FONT_SMALL}

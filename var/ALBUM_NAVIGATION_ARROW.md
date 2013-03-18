@@ -1,7 +1,7 @@
 # Variable ALBUM_NAVIGATION_ARROW
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ALBUM_NAVIGATION_ARROW}

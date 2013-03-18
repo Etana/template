@@ -1,4 +1,4 @@
-# Variable switch_exif_enabled.exif_switch.exif_data.EXIFd1
+# Variable de boucle switch_exif_enabled.exif_switch.exif_data.EXIFd1
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [exif_data](exif_data.md#readme) se trouvant dans une boucle sur [exif_switch](exif_switch.md#readme) se trouvant dans une boucle sur [switch_exif_enabled](switch_exif_enabled.md#readme).

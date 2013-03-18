@@ -1,4 +1,4 @@
-# Variable searchresults.REPLIES
+# Variable de boucle searchresults.REPLIES
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

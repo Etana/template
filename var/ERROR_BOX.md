@@ -1,7 +1,7 @@
 # Variable ERROR_BOX
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {ERROR_BOX}

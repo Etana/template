@@ -1,12 +1,13 @@
-# Variable message_admin_txt
+# Boucle message_admin_txt
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN message_admin_txt -->
     contenu
-<!-- END message_admin_txt -->```
+<!-- END message_admin_txt -->
+```
 
 ##Description[*](https://fa-tvars.appspot.com/var/message_admin_txt)
 Boucle contenant le texte du message d'accueil.

@@ -1,7 +1,7 @@
 # Variable S_SELECT_MOD
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {S_SELECT_MOD}

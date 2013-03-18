@@ -1,4 +1,4 @@
-# Variable bot_user_row.USERNAME
+# Variable de boucle bot_user_row.USERNAME
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [bot_user_row](bot_user_row.md#readme).

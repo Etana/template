@@ -1,12 +1,13 @@
-# Variable switch_specials_fonts
+# Boucle switch_specials_fonts
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_specials_fonts -->
     contenu
-<!-- END switch_specials_fonts -->```
+<!-- END switch_specials_fonts -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_specials_fonts)

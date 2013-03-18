@@ -1,4 +1,4 @@
-# Variable row.REASON
+# Variable de boucle row.REASON
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

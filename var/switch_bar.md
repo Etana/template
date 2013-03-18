@@ -1,12 +1,13 @@
-# Variable switch_bar
+# Boucle switch_bar
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_bar -->
     contenu
-<!-- END switch_bar -->```
+<!-- END switch_bar -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_bar)

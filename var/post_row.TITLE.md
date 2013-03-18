@@ -1,4 +1,4 @@
-# Variable post_row.TITLE
+# Variable de boucle post_row.TITLE
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [post_row](post_row.md#readme).

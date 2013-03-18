@@ -1,7 +1,7 @@
 # Variable L_POST_REPLY_TOPIC
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_POST_REPLY_TOPIC}

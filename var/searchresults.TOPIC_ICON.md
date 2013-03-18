@@ -1,4 +1,4 @@
-# Variable searchresults.TOPIC_ICON
+# Variable de boucle searchresults.TOPIC_ICON
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

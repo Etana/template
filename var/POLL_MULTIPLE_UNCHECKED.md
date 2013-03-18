@@ -1,7 +1,7 @@
 # Variable POLL_MULTIPLE_UNCHECKED
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {POLL_MULTIPLE_UNCHECKED}

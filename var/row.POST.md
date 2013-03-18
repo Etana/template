@@ -1,4 +1,4 @@
-# Variable row.POST
+# Variable de boucle row.POST
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [row](row.md#readme).

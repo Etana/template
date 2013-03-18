@@ -1,7 +1,7 @@
 # Variable WIDTH_GALLERY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {WIDTH_GALLERY}

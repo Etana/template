@@ -1,12 +1,13 @@
-# Variable display_forum
+# Boucle display_forum
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN display_forum -->
     contenu
-<!-- END display_forum -->```
+<!-- END display_forum -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/display_forum)

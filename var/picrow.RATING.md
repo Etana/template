@@ -1,4 +1,4 @@
-# Variable picrow.RATING
+# Variable de boucle picrow.RATING
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [picrow](picrow.md#readme).

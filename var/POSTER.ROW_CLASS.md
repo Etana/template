@@ -1,4 +1,4 @@
-# Variable POSTER.ROW_CLASS
+# Variable de boucle POSTER.ROW_CLASS
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [POSTER](POSTER.md#readme).

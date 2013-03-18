@@ -1,7 +1,7 @@
 # Variable L_UPLOAD_TO_CATEGORY
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_UPLOAD_TO_CATEGORY}

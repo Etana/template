@@ -1,12 +1,13 @@
-# Variable switch_smilies_checkbox
+# Boucle switch_smilies_checkbox
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_smilies_checkbox -->
     contenu
-<!-- END switch_smilies_checkbox -->```
+<!-- END switch_smilies_checkbox -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_smilies_checkbox)

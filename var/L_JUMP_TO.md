@@ -1,7 +1,7 @@
 # Variable L_JUMP_TO
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_JUMP_TO}

@@ -1,4 +1,4 @@
-# Variable searchresults.L_TOPIC_FOLDER_ALT
+# Variable de boucle searchresults.L_TOPIC_FOLDER_ALT
 
 ##Disponibilité
 Cette variable est utilisable dans une boucle sur [searchresults](searchresults.md#readme).

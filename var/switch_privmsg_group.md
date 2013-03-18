@@ -1,12 +1,13 @@
-# Variable switch_privmsg_group
+# Boucle switch_privmsg_group
 
 ##Disponibilité
-Cette boucle est utilisable directement
+Cette boucle est utilisable directement.
 
 ```html
 <!-- BEGIN switch_privmsg_group -->
     contenu
-<!-- END switch_privmsg_group -->```
+<!-- END switch_privmsg_group -->
+```
 
 ##Description
 [Ajouter une description](https://fa-tvars.appspot.com/var/switch_privmsg_group)

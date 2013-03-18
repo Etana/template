@@ -1,7 +1,7 @@
 # Variable L_EMAIL_ADDRESS
 
 ##Disponibilité
-Cette variable est utilisable directement
+Cette variable est utilisable directement.
 
 ```html
 {L_EMAIL_ADDRESS}
