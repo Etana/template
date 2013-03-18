@@ -19,9 +19,7 @@ Attribut de [postrow.displayed.profile_field](postrow.displayed.profile_field.md
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 151](../tpl/src/punbb/viewtopic_body.tpl#L151)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne[151](../tpl/src/punbb/viewtopic_body.tpl#L151)
 
 ### Version phpBB2
-
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 129](../tpl/src/subsilver/viewtopic_body.tpl#L129)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne[129](../tpl/src/subsilver/viewtopic_body.tpl#L129)

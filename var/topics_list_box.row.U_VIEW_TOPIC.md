@@ -17,9 +17,7 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 84](../tpl/src/punbb/topics_list_box.tpl#L84)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne[84](../tpl/src/punbb/topics_list_box.tpl#L84)
 
 ### Version phpBB2
-
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 58](../tpl/src/subsilver/topics_list_box.tpl#L58)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ ligne[58](../tpl/src/subsilver/topics_list_box.tpl#L58)

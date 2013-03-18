@@ -17,5 +17,4 @@ Attribut de [catrow.cathead](catrow.cathead.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 40](../tpl/src/subsilver/index_box.tpl#L40)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ ligne[40](../tpl/src/subsilver/index_box.tpl#L40)

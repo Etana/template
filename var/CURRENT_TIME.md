@@ -13,5 +13,4 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 6](../tpl/src/subsilver/index_box.tpl#L6)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ ligne[6](../tpl/src/subsilver/index_box.tpl#L6)

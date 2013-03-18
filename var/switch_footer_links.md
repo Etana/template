@@ -19,9 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ [ligne 16](../tpl/src/punbb/overall_footer_end.tpl#L16), [ligne 25](../tpl/src/punbb/overall_footer_end.tpl#L25)
+* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ lignes[16](../tpl/src/punbb/overall_footer_end.tpl#L16), [25](../tpl/src/punbb/overall_footer_end.tpl#L25)
 
 ### Version phpBB2
-
-* __[overall_footer_end](../tpl/var/subsilver/overall_footer_end.md#readme) :__ [ligne 14](../tpl/src/subsilver/overall_footer_end.tpl#L14), [ligne 23](../tpl/src/subsilver/overall_footer_end.tpl#L23)
+* __[overall_footer_end](../tpl/var/subsilver/overall_footer_end.md#readme) :__ lignes[14](../tpl/src/subsilver/overall_footer_end.tpl#L14), [23](../tpl/src/subsilver/overall_footer_end.tpl#L23)

@@ -19,9 +19,7 @@ Attribut de [main_page.pay_method.radio](main_page.pay_method.radio.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 46](../tpl/src/punbb/donate.tpl#L46), [ligne 46](../tpl/src/punbb/donate.tpl#L46)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes[46](../tpl/src/punbb/donate.tpl#L46), [46](../tpl/src/punbb/donate.tpl#L46)
 
 ### Version phpBB2
-
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 50](../tpl/src/subsilver/donate.tpl#L50), [ligne 50](../tpl/src/subsilver/donate.tpl#L50)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes[50](../tpl/src/subsilver/donate.tpl#L50), [50](../tpl/src/subsilver/donate.tpl#L50)

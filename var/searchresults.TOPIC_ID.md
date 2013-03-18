@@ -15,5 +15,4 @@ Attribut de [searchresults](searchresults.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-
-* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ [ligne 42](../tpl/src/subsilver/search_results_topics.tpl#L42)
+* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ ligne[42](../tpl/src/subsilver/search_results_topics.tpl#L42)

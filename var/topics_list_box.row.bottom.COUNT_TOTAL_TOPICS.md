@@ -19,5 +19,4 @@ Attribut de [topics_list_box.row.bottom](topics_list_box.row.bottom.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 114](../tpl/src/punbb/topics_list_box.tpl#L114)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne[114](../tpl/src/punbb/topics_list_box.tpl#L114)

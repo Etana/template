@@ -19,9 +19,7 @@ Attribut de [message_admin_index](message_admin_index.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 27](../tpl/src/punbb/index_body.tpl#L27), [ligne 31](../tpl/src/punbb/index_body.tpl#L31)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes[27](../tpl/src/punbb/index_body.tpl#L27), [31](../tpl/src/punbb/index_body.tpl#L31)
 
 ### Version phpBB2
-
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 9](../tpl/src/subsilver/index_body.tpl#L9), [ligne 15](../tpl/src/subsilver/index_body.tpl#L15)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes[9](../tpl/src/subsilver/index_body.tpl#L9), [15](../tpl/src/subsilver/index_body.tpl#L15)

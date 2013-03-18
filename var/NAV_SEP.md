@@ -13,5 +13,4 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 69](../tpl/src/subsilver/viewtopic_body.tpl#L69), [ligne 387](../tpl/src/subsilver/viewtopic_body.tpl#L387), [ligne 407](../tpl/src/subsilver/viewtopic_body.tpl#L407)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[69](../tpl/src/subsilver/viewtopic_body.tpl#L69), [387](../tpl/src/subsilver/viewtopic_body.tpl#L387), [407](../tpl/src/subsilver/viewtopic_body.tpl#L407)

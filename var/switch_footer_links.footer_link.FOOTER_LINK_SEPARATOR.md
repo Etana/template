@@ -17,5 +17,4 @@ Attribut de [switch_footer_links.footer_link](switch_footer_links.footer_link.md
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ [ligne 21](../tpl/src/punbb/overall_footer_end.tpl#L21)
+* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ ligne[21](../tpl/src/punbb/overall_footer_end.tpl#L21)

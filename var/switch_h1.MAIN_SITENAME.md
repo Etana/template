@@ -15,5 +15,4 @@ Attribut de [switch_h1](switch_h1.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 238](../tpl/src/punbb/overall_header.tpl#L238)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ ligne[238](../tpl/src/punbb/overall_header.tpl#L238)

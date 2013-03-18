@@ -19,9 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ [ligne 134](../tpl/src/punbb/index_body.tpl#L134), [ligne 146](../tpl/src/punbb/index_body.tpl#L146)
+* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes[134](../tpl/src/punbb/index_body.tpl#L134), [146](../tpl/src/punbb/index_body.tpl#L146)
 
 ### Version phpBB2
-
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ [ligne 242](../tpl/src/subsilver/index_body.tpl#L242), [ligne 255](../tpl/src/subsilver/index_body.tpl#L255)
+* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes[242](../tpl/src/subsilver/index_body.tpl#L242), [255](../tpl/src/subsilver/index_body.tpl#L255)

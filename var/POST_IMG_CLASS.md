@@ -13,5 +13,4 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 101](../tpl/src/punbb/viewtopic_body.tpl#L101), [ligne 279](../tpl/src/punbb/viewtopic_body.tpl#L279)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[101](../tpl/src/punbb/viewtopic_body.tpl#L101), [279](../tpl/src/punbb/viewtopic_body.tpl#L279)

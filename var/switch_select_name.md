@@ -20,9 +20,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[search_username](../tpl/var/punbb/search_username.md#readme) :__ [ligne 18](../tpl/src/punbb/search_username.tpl#L18), [ligne 25](../tpl/src/punbb/search_username.tpl#L25)
+* __[search_username](../tpl/var/punbb/search_username.md#readme) :__ lignes[18](../tpl/src/punbb/search_username.tpl#L18), [25](../tpl/src/punbb/search_username.tpl#L25)
 
 ### Version phpBB2
-
-* __[search_username](../tpl/var/subsilver/search_username.md#readme) :__ [ligne 14](../tpl/src/subsilver/search_username.tpl#L14), [ligne 19](../tpl/src/subsilver/search_username.tpl#L19)
+* __[search_username](../tpl/var/subsilver/search_username.md#readme) :__ lignes[14](../tpl/src/subsilver/search_username.tpl#L14), [19](../tpl/src/subsilver/search_username.tpl#L19)

@@ -17,9 +17,7 @@ Attribut de [credit_card_method.credits_option](credit_card_method.credits_optio
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 135](../tpl/src/punbb/donate.tpl#L135)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ ligne[135](../tpl/src/punbb/donate.tpl#L135)
 
 ### Version phpBB2
-
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 162](../tpl/src/subsilver/donate.tpl#L162)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ ligne[162](../tpl/src/subsilver/donate.tpl#L162)

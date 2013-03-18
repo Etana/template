@@ -13,9 +13,7 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[viewforum_body](../tpl/var/punbb/viewforum_body.md#readme) :__ [ligne 76](../tpl/src/punbb/viewforum_body.tpl#L76), [ligne 76](../tpl/src/punbb/viewforum_body.tpl#L76)
+* __[viewforum_body](../tpl/var/punbb/viewforum_body.md#readme) :__ lignes[76](../tpl/src/punbb/viewforum_body.tpl#L76), [76](../tpl/src/punbb/viewforum_body.tpl#L76)
 
 ### Version phpBB2
-
-* __[viewforum_body](../tpl/var/subsilver/viewforum_body.md#readme) :__ [ligne 104](../tpl/src/subsilver/viewforum_body.tpl#L104), [ligne 104](../tpl/src/subsilver/viewforum_body.tpl#L104)
+* __[viewforum_body](../tpl/var/subsilver/viewforum_body.md#readme) :__ lignes[104](../tpl/src/subsilver/viewforum_body.tpl#L104), [104](../tpl/src/subsilver/viewforum_body.tpl#L104)

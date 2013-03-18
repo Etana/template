@@ -15,24 +15,22 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)
 
 ## Attributs
-* [{topics_list_box.row.header_table.COUNT_TOTAL_TOPICS}](topics_list_box.row.header_table.COUNT_TOTAL_TOPICS.md#readme)
-* [{topics_list_box.row.header_table.L_LASTPOST}](topics_list_box.row.header_table.L_LASTPOST.md#readme)
 * [{topics_list_box.row.header_table.COLSPAN}](topics_list_box.row.header_table.COLSPAN.md#readme)
-* [{topics_list_box.row.header_table.L_REPLIES}](topics_list_box.row.header_table.L_REPLIES.md#readme)
-* [{topics_list_box.row.header_table.L_VIEWS}](topics_list_box.row.header_table.L_VIEWS.md#readme)
-* [{topics_list_box.row.header_table.L_TOPICS}](topics_list_box.row.header_table.L_TOPICS.md#readme)
+* [{topics_list_box.row.header_table.COUNT_TOTAL_TOPICS}](topics_list_box.row.header_table.COUNT_TOTAL_TOPICS.md#readme)
 * [{topics_list_box.row.header_table.L_AUTHOR}](topics_list_box.row.header_table.L_AUTHOR.md#readme)
+* [{topics_list_box.row.header_table.L_LASTPOST}](topics_list_box.row.header_table.L_LASTPOST.md#readme)
+* [{topics_list_box.row.header_table.L_REPLIES}](topics_list_box.row.header_table.L_REPLIES.md#readme)
 * [{topics_list_box.row.header_table.L_TITLE}](topics_list_box.row.header_table.L_TITLE.md#readme)
-* [<!-- BEGIN pagination -->](topics_list_box.row.header_table.pagination.md#readme)
+* [{topics_list_box.row.header_table.L_TOPICS}](topics_list_box.row.header_table.L_TOPICS.md#readme)
+* [{topics_list_box.row.header_table.L_VIEWS}](topics_list_box.row.header_table.L_VIEWS.md#readme)
 * [<!-- BEGIN multi_selection -->](topics_list_box.row.header_table.multi_selection.md#readme)
+* [<!-- BEGIN pagination -->](topics_list_box.row.header_table.pagination.md#readme)
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 3](../tpl/src/punbb/topics_list_box.tpl#L3), [ligne 42](../tpl/src/punbb/topics_list_box.tpl#L42)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes[3](../tpl/src/punbb/topics_list_box.tpl#L3), [42](../tpl/src/punbb/topics_list_box.tpl#L42)
 
 ### Version phpBB2
-
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 1](../tpl/src/subsilver/topics_list_box.tpl#L1), [ligne 38](../tpl/src/subsilver/topics_list_box.tpl#L38)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes[1](../tpl/src/subsilver/topics_list_box.tpl#L1), [38](../tpl/src/subsilver/topics_list_box.tpl#L38)

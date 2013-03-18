@@ -22,5 +22,4 @@ Attribut de [catrow.cathead](catrow.cathead.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ [ligne 30](../tpl/src/subsilver/index_box.tpl#L30), [ligne 32](../tpl/src/subsilver/index_box.tpl#L32)
+* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ lignes[30](../tpl/src/subsilver/index_box.tpl#L30), [32](../tpl/src/subsilver/index_box.tpl#L32)

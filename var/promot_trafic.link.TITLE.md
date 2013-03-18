@@ -17,9 +17,7 @@ Attribut de [promot_trafic.link](promot_trafic.link.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 311](../tpl/src/punbb/viewtopic_body.tpl#L311), [ligne 311](../tpl/src/punbb/viewtopic_body.tpl#L311)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[311](../tpl/src/punbb/viewtopic_body.tpl#L311), [311](../tpl/src/punbb/viewtopic_body.tpl#L311)
 
 ### Version phpBB2
-
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 321](../tpl/src/subsilver/viewtopic_body.tpl#L321), [ligne 321](../tpl/src/subsilver/viewtopic_body.tpl#L321)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[321](../tpl/src/subsilver/viewtopic_body.tpl#L321), [321](../tpl/src/subsilver/viewtopic_body.tpl#L321)

@@ -15,5 +15,4 @@ Attribut de [no_post](no_post.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 261](../tpl/src/subsilver/viewtopic_body.tpl#L261)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne[261](../tpl/src/subsilver/viewtopic_body.tpl#L261)

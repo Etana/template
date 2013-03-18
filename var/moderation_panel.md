@@ -19,5 +19,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 437](../tpl/src/subsilver/viewtopic_body.tpl#L437), [ligne 444](../tpl/src/subsilver/viewtopic_body.tpl#L444)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[437](../tpl/src/subsilver/viewtopic_body.tpl#L437), [444](../tpl/src/subsilver/viewtopic_body.tpl#L444)

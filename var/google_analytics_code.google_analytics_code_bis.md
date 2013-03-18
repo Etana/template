@@ -19,9 +19,7 @@ Attribut de [google_analytics_code](google_analytics_code.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 181](../tpl/src/punbb/overall_header.tpl#L181), [ligne 184](../tpl/src/punbb/overall_header.tpl#L184)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ lignes[181](../tpl/src/punbb/overall_header.tpl#L181), [184](../tpl/src/punbb/overall_header.tpl#L184)
 
 ### Version phpBB2
-
-* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 187](../tpl/src/subsilver/overall_header.tpl#L187), [ligne 190](../tpl/src/subsilver/overall_header.tpl#L190)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ lignes[187](../tpl/src/subsilver/overall_header.tpl#L187), [190](../tpl/src/subsilver/overall_header.tpl#L190)

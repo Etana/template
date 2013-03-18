@@ -19,5 +19,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 237](../tpl/src/punbb/overall_header.tpl#L237), [ligne 239](../tpl/src/punbb/overall_header.tpl#L239)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ lignes[237](../tpl/src/punbb/overall_header.tpl#L237), [239](../tpl/src/punbb/overall_header.tpl#L239)

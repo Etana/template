@@ -23,5 +23,4 @@ Attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 33](../tpl/src/subsilver/topics_list_box.tpl#L33), [ligne 37](../tpl/src/subsilver/topics_list_box.tpl#L37)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes[33](../tpl/src/subsilver/topics_list_box.tpl#L33), [37](../tpl/src/subsilver/topics_list_box.tpl#L37)

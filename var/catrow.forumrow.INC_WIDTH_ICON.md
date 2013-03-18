@@ -17,5 +17,4 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ [ligne 26](../tpl/src/punbb/index_box.tpl#L26), [ligne 26](../tpl/src/punbb/index_box.tpl#L26)
+* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes[26](../tpl/src/punbb/index_box.tpl#L26), [26](../tpl/src/punbb/index_box.tpl#L26)

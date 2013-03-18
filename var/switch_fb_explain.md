@@ -19,9 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[agreement](../tpl/var/punbb/agreement.md#readme) :__ [ligne 20](../tpl/src/punbb/agreement.tpl#L20), [ligne 26](../tpl/src/punbb/agreement.tpl#L26)
+* __[agreement](../tpl/var/punbb/agreement.md#readme) :__ lignes[20](../tpl/src/punbb/agreement.tpl#L20), [26](../tpl/src/punbb/agreement.tpl#L26)
 
 ### Version phpBB2
-
-* __[agreement](../tpl/var/subsilver/agreement.md#readme) :__ [ligne 10](../tpl/src/subsilver/agreement.tpl#L10), [ligne 21](../tpl/src/subsilver/agreement.tpl#L21)
+* __[agreement](../tpl/var/subsilver/agreement.md#readme) :__ lignes[10](../tpl/src/subsilver/agreement.tpl#L10), [21](../tpl/src/subsilver/agreement.tpl#L21)

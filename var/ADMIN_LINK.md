@@ -13,5 +13,4 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ [ligne 29](../tpl/src/punbb/overall_footer_end.tpl#L29)
+* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ ligne[29](../tpl/src/punbb/overall_footer_end.tpl#L29)

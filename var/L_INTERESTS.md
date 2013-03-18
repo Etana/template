@@ -13,9 +13,7 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[memberlist_body](../tpl/var/punbb/memberlist_body.md#readme) :__ [ligne 67](../tpl/src/punbb/memberlist_body.tpl#L67)
+* __[memberlist_body](../tpl/var/punbb/memberlist_body.md#readme) :__ ligne[67](../tpl/src/punbb/memberlist_body.tpl#L67)
 
 ### Version phpBB2
-
-* __[memberlist_body](../tpl/var/subsilver/memberlist_body.md#readme) :__ [ligne 29](../tpl/src/subsilver/memberlist_body.tpl#L29)
+* __[memberlist_body](../tpl/var/subsilver/memberlist_body.md#readme) :__ ligne[29](../tpl/src/subsilver/memberlist_body.tpl#L29)

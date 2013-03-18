@@ -25,9 +25,7 @@ Attribut de [postrow.displayed.switch_vote_active.switch_bar](postrow.displayed.
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ [ligne 171](../tpl/src/punbb/viewtopic_body.tpl#L171), [ligne 173](../tpl/src/punbb/viewtopic_body.tpl#L173)
+* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes[171](../tpl/src/punbb/viewtopic_body.tpl#L171), [173](../tpl/src/punbb/viewtopic_body.tpl#L173)
 
 ### Version phpBB2
-
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ [ligne 162](../tpl/src/subsilver/viewtopic_body.tpl#L162), [ligne 164](../tpl/src/subsilver/viewtopic_body.tpl#L164)
+* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes[162](../tpl/src/subsilver/viewtopic_body.tpl#L162), [164](../tpl/src/subsilver/viewtopic_body.tpl#L164)

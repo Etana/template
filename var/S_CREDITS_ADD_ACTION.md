@@ -13,9 +13,7 @@ Cette variable est utilisable directement.
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ [ligne 44](../tpl/src/punbb/donate.tpl#L44), [ligne 93](../tpl/src/punbb/donate.tpl#L93), [ligne 110](../tpl/src/punbb/donate.tpl#L110), [ligne 132](../tpl/src/punbb/donate.tpl#L132), [ligne 147](../tpl/src/punbb/donate.tpl#L147), [ligne 160](../tpl/src/punbb/donate.tpl#L160), [ligne 191](../tpl/src/punbb/donate.tpl#L191)
+* __[donate](../tpl/var/punbb/donate.md#readme) :__ lignes[44](../tpl/src/punbb/donate.tpl#L44), [93](../tpl/src/punbb/donate.tpl#L93), [110](../tpl/src/punbb/donate.tpl#L110), [132](../tpl/src/punbb/donate.tpl#L132), [147](../tpl/src/punbb/donate.tpl#L147), [160](../tpl/src/punbb/donate.tpl#L160), [191](../tpl/src/punbb/donate.tpl#L191)
 
 ### Version phpBB2
-
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ [ligne 48](../tpl/src/subsilver/donate.tpl#L48), [ligne 118](../tpl/src/subsilver/donate.tpl#L118), [ligne 138](../tpl/src/subsilver/donate.tpl#L138), [ligne 159](../tpl/src/subsilver/donate.tpl#L159), [ligne 174](../tpl/src/subsilver/donate.tpl#L174), [ligne 188](../tpl/src/subsilver/donate.tpl#L188), [ligne 230](../tpl/src/subsilver/donate.tpl#L230)
+* __[donate](../tpl/var/subsilver/donate.md#readme) :__ lignes[48](../tpl/src/subsilver/donate.tpl#L48), [118](../tpl/src/subsilver/donate.tpl#L118), [138](../tpl/src/subsilver/donate.tpl#L138), [159](../tpl/src/subsilver/donate.tpl#L159), [174](../tpl/src/subsilver/donate.tpl#L174), [188](../tpl/src/subsilver/donate.tpl#L188), [230](../tpl/src/subsilver/donate.tpl#L230)

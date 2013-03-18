@@ -20,9 +20,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ [ligne 294](../tpl/src/punbb/overall_header.tpl#L294), [ligne 299](../tpl/src/punbb/overall_header.tpl#L299)
+* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ lignes[294](../tpl/src/punbb/overall_header.tpl#L294), [299](../tpl/src/punbb/overall_header.tpl#L299)
 
 ### Version phpBB2
-
-* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ [ligne 318](../tpl/src/subsilver/overall_header.tpl#L318), [ligne 323](../tpl/src/subsilver/overall_header.tpl#L323)
+* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ lignes[318](../tpl/src/subsilver/overall_header.tpl#L318), [323](../tpl/src/subsilver/overall_header.tpl#L323)

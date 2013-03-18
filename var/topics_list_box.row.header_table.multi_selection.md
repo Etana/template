@@ -25,9 +25,7 @@ Attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.
 ## Utilisations dans les templates
 
 ### Version PunBB
-
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ [ligne 4](../tpl/src/punbb/topics_list_box.tpl#L4), [ligne 23](../tpl/src/punbb/topics_list_box.tpl#L23), [ligne 26](../tpl/src/punbb/topics_list_box.tpl#L26), [ligne 28](../tpl/src/punbb/topics_list_box.tpl#L28)
+* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes[4](../tpl/src/punbb/topics_list_box.tpl#L4), [23](../tpl/src/punbb/topics_list_box.tpl#L23), [26](../tpl/src/punbb/topics_list_box.tpl#L26), [28](../tpl/src/punbb/topics_list_box.tpl#L28)
 
 ### Version phpBB2
-
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ [ligne 1](../tpl/src/subsilver/topics_list_box.tpl#L1), [ligne 20](../tpl/src/subsilver/topics_list_box.tpl#L20), [ligne 29](../tpl/src/subsilver/topics_list_box.tpl#L29), [ligne 31](../tpl/src/subsilver/topics_list_box.tpl#L31)
+* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes[1](../tpl/src/subsilver/topics_list_box.tpl#L1), [20](../tpl/src/subsilver/topics_list_box.tpl#L20), [29](../tpl/src/subsilver/topics_list_box.tpl#L29), [31](../tpl/src/subsilver/topics_list_box.tpl#L31)
