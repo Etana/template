@@ -1,18 +1,20 @@
 # Template agreement (phpBB2)
 
-[Code de la template](../../subsilver/agreement.tpl)
+[Code de la template](../../src/subsilver/agreement.tpl)
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/agreement)
 kaboum kaboum
 
-## Variables* [AGREE_OVER_13](https://github.com/Etana/template.list/blob/master/var/AGREE_OVER_13.md#readme)<a href="https://fa-tvars.appspot.com/var/AGREE_OVER_13">+</a> : [ligne 32](../tpl/src/subsilver/agreement.tpl#L32)
-* [AGREEMENT](https://github.com/Etana/template.list/blob/master/var/AGREEMENT.md#readme)<a href="https://fa-tvars.appspot.com/var/AGREEMENT">+</a> : [ligne 28](../tpl/src/subsilver/agreement.tpl#L28)
-* [DO_NOT_AGREE](https://github.com/Etana/template.list/blob/master/var/DO_NOT_AGREE.md#readme)<a href="https://fa-tvars.appspot.com/var/DO_NOT_AGREE">+</a> : [ligne 34](../tpl/src/subsilver/agreement.tpl#L34)
-* [L_INDEX](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme)<a href="https://fa-tvars.appspot.com/var/L_INDEX">*</a> : [ligne 3](../tpl/src/subsilver/agreement.tpl#L3)
-* [MY_RULES](https://github.com/Etana/template.list/blob/master/var/MY_RULES.md#readme)<a href="https://fa-tvars.appspot.com/var/MY_RULES">+</a> : [ligne 28](../tpl/src/subsilver/agreement.tpl#L28)
-* [REGISTRATION](https://github.com/Etana/template.list/blob/master/var/REGISTRATION.md#readme)<a href="https://fa-tvars.appspot.com/var/REGISTRATION">+</a> : [ligne 8](../tpl/src/subsilver/agreement.tpl#L8)
-* [SITENAME](https://github.com/Etana/template.list/blob/master/var/SITENAME.md#readme)<a href="https://fa-tvars.appspot.com/var/SITENAME">*</a> : [ligne 8](../tpl/src/subsilver/agreement.tpl#L8)
-* [<!-- BEGIN switch_fb_explain -->](https://github.com/Etana/template.list/blob/master/var/switch_fb_explain.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_fb_explain">+</a> : [ligne 10](../tpl/src/subsilver/agreement.tpl#L10), [ligne 21](../tpl/src/subsilver/agreement.tpl#L21)
-    * [switch_fb_explain.FB_EXPLAIN](https://github.com/Etana/template.list/blob/master/var/switch_fb_explain.FB_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN">+</a> : [ligne 16](../tpl/src/subsilver/agreement.tpl#L16)
-* [U_AGREE_OVER13](https://github.com/Etana/template.list/blob/master/var/U_AGREE_OVER13.md#readme)<a href="https://fa-tvars.appspot.com/var/U_AGREE_OVER13">+</a> : [ligne 32](../tpl/src/subsilver/agreement.tpl#L32)
-* [U_INDEX](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_INDEX">*</a> : [ligne 3](../tpl/src/subsilver/agreement.tpl#L3), [ligne 34](../tpl/src/subsilver/agreement.tpl#L34)
+## Variables
+
+* [`{AGREE_OVER_13}`](https://github.com/Etana/template.list/blob/master/var/AGREE_OVER_13.md#readme)<a href="https://fa-tvars.appspot.com/var/AGREE_OVER_13">+</a> :__ [ligne 32](../tpl/src/subsilver/agreement.tpl#L32)
+* [`{AGREEMENT}`](https://github.com/Etana/template.list/blob/master/var/AGREEMENT.md#readme)<a href="https://fa-tvars.appspot.com/var/AGREEMENT">+</a> :__ [ligne 28](../tpl/src/subsilver/agreement.tpl#L28)
+* [`{DO_NOT_AGREE}`](https://github.com/Etana/template.list/blob/master/var/DO_NOT_AGREE.md#readme)<a href="https://fa-tvars.appspot.com/var/DO_NOT_AGREE">+</a> :__ [ligne 34](../tpl/src/subsilver/agreement.tpl#L34)
+* [`{L_INDEX}`](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme)<a href="https://fa-tvars.appspot.com/var/L_INDEX">*</a> :__ [ligne 3](../tpl/src/subsilver/agreement.tpl#L3)
+* [`{MY_RULES}`](https://github.com/Etana/template.list/blob/master/var/MY_RULES.md#readme)<a href="https://fa-tvars.appspot.com/var/MY_RULES">+</a> :__ [ligne 28](../tpl/src/subsilver/agreement.tpl#L28)
+* [`{REGISTRATION}`](https://github.com/Etana/template.list/blob/master/var/REGISTRATION.md#readme)<a href="https://fa-tvars.appspot.com/var/REGISTRATION">+</a> :__ [ligne 8](../tpl/src/subsilver/agreement.tpl#L8)
+* [`{SITENAME}`](https://github.com/Etana/template.list/blob/master/var/SITENAME.md#readme)<a href="https://fa-tvars.appspot.com/var/SITENAME">*</a> :__ [ligne 8](../tpl/src/subsilver/agreement.tpl#L8)
+* [`<!-- BEGIN switch_fb_explain -->`](https://github.com/Etana/template.list/blob/master/var/switch_fb_explain.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_fb_explain">+</a> :__ [ligne 10](../tpl/src/subsilver/agreement.tpl#L10), [ligne 21](../tpl/src/subsilver/agreement.tpl#L21)
+    * [`{switch_fb_explain.FB_EXPLAIN}`](https://github.com/Etana/template.list/blob/master/var/switch_fb_explain.FB_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN">+</a> :__ [ligne 16](../tpl/src/subsilver/agreement.tpl#L16)
+* [`{U_AGREE_OVER13}`](https://github.com/Etana/template.list/blob/master/var/U_AGREE_OVER13.md#readme)<a href="https://fa-tvars.appspot.com/var/U_AGREE_OVER13">+</a> :__ [ligne 32](../tpl/src/subsilver/agreement.tpl#L32)
+* [`{U_INDEX}`](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_INDEX">*</a> :__ [ligne 3](../tpl/src/subsilver/agreement.tpl#L3), [ligne 34](../tpl/src/subsilver/agreement.tpl#L34)

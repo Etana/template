@@ -1,11 +1,13 @@
 # Template jumpbox (PunBB)
 
-[Code de la template](../../punbb/jumpbox.tpl)
+[Code de la template](../../src/punbb/jumpbox.tpl)
 
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/jumpbox)
 
-## Variables* [L_GO](https://github.com/Etana/template.list/blob/master/var/L_GO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_GO">*</a> : [ligne 2](../tpl/src/punbb/jumpbox.tpl#L2)
-* [L_JUMP_TO](https://github.com/Etana/template.list/blob/master/var/L_JUMP_TO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_JUMP_TO">*</a> : [ligne 2](../tpl/src/punbb/jumpbox.tpl#L2)
-* [S_JUMPBOX_ACTION](https://github.com/Etana/template.list/blob/master/var/S_JUMPBOX_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_JUMPBOX_ACTION">*</a> : [ligne 1](../tpl/src/punbb/jumpbox.tpl#L1)
-* [S_JUMPBOX_SELECT](https://github.com/Etana/template.list/blob/master/var/S_JUMPBOX_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/S_JUMPBOX_SELECT">*</a> : [ligne 2](../tpl/src/punbb/jumpbox.tpl#L2)
+## Variables
+
+* [`{L_GO}`](https://github.com/Etana/template.list/blob/master/var/L_GO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_GO">*</a> :__ [ligne 2](../tpl/src/punbb/jumpbox.tpl#L2)
+* [`{L_JUMP_TO}`](https://github.com/Etana/template.list/blob/master/var/L_JUMP_TO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_JUMP_TO">*</a> :__ [ligne 2](../tpl/src/punbb/jumpbox.tpl#L2)
+* [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template.list/blob/master/var/S_JUMPBOX_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_JUMPBOX_ACTION">*</a> :__ [ligne 1](../tpl/src/punbb/jumpbox.tpl#L1)
+* [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template.list/blob/master/var/S_JUMPBOX_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/S_JUMPBOX_SELECT">*</a> :__ [ligne 2](../tpl/src/punbb/jumpbox.tpl#L2)
