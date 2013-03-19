@@ -1,7 +1,7 @@
 # ICQ_STATUS_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ICQ_STATUS_IMG}

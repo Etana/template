@@ -1,7 +1,7 @@
 # rpg_fields.SEPARATOR
 
 
-Attribut de [rpg_fields](rpg_fields.md#readme).
+Attribut de [`<!-- BEGIN rpg_fields -->...<!-- END rpg_fields -->`](rpg_fields.md#readme).
 
 ```html
 <!-- BEGIN rpg_fields -->

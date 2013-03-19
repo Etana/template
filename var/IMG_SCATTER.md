@@ -1,7 +1,7 @@
 # IMG_SCATTER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_SCATTER}

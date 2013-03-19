@@ -1,7 +1,7 @@
 # S_WATCH_FORUM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_WATCH_FORUM}

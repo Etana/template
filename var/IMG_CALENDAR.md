@@ -1,7 +1,7 @@
 # IMG_CALENDAR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_CALENDAR}

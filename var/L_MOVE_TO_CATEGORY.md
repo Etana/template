@@ -1,7 +1,7 @@
 # L_MOVE_TO_CATEGORY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MOVE_TO_CATEGORY}

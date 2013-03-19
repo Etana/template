@@ -1,7 +1,7 @@
 # L_WHOSBIRTHDAY_TODAY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_WHOSBIRTHDAY_TODAY}

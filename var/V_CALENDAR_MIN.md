@@ -1,7 +1,7 @@
 # V_CALENDAR_MIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_CALENDAR_MIN}

@@ -1,7 +1,7 @@
 # switch_forum_rules.switch_forum_rule_image
 
 
-Attribut de [switch_forum_rules](switch_forum_rules.md#readme).
+Attribut de [`<!-- BEGIN switch_forum_rules -->...<!-- END switch_forum_rules -->`](switch_forum_rules.md#readme).
 
 ```html
 <!-- BEGIN switch_forum_rules -->

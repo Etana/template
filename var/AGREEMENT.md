@@ -1,7 +1,7 @@
 # AGREEMENT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {AGREEMENT}

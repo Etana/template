@@ -1,7 +1,7 @@
 # IMG_INTERLACE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_INTERLACE}

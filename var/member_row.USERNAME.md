@@ -1,7 +1,7 @@
 # member_row.USERNAME
 
 
-Attribut de [member_row](member_row.md#readme).
+Attribut de [`<!-- BEGIN member_row -->...<!-- END member_row -->`](member_row.md#readme).
 
 ```html
 <!-- BEGIN member_row -->

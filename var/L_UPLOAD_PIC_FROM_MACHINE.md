@@ -1,7 +1,7 @@
 # L_UPLOAD_PIC_FROM_MACHINE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_UPLOAD_PIC_FROM_MACHINE}

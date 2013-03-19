@@ -1,7 +1,7 @@
 # ROLLDICE_CLOSE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ROLLDICE_CLOSE}

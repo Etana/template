@@ -1,7 +1,7 @@
 # LINK_FOR_PASSWD_CHANGE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {LINK_FOR_PASSWD_CHANGE}

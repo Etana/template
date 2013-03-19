@@ -1,7 +1,7 @@
 # switch_privmsg.switch_privmsg_group.MASS_PM
 
 
-Attribut de [switch_privmsg.switch_privmsg_group](switch_privmsg.switch_privmsg_group.md#readme).
+Attribut de [`<!-- BEGIN switch_privmsg_group -->...<!-- END switch_privmsg_group -->`](switch_privmsg.switch_privmsg_group.md#readme).
 
 ```html
 <!-- BEGIN switch_privmsg -->

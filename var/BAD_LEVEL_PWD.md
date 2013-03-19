@@ -1,7 +1,7 @@
 # BAD_LEVEL_PWD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {BAD_LEVEL_PWD}

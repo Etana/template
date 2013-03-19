@@ -1,7 +1,7 @@
 # L_NRESULTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NRESULTS}

@@ -1,7 +1,7 @@
 # L_MOVE_PROFILE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MOVE_PROFILE}

@@ -1,7 +1,7 @@
 # L_REGISTRATION_INFO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_REGISTRATION_INFO}

@@ -1,7 +1,7 @@
 # MOD_POSTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MOD_POSTS}

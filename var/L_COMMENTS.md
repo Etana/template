@@ -1,7 +1,7 @@
 # L_COMMENTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_COMMENTS}

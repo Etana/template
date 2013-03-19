@@ -1,7 +1,7 @@
 # L_HEIGHT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_HEIGHT}

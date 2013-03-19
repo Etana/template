@@ -1,7 +1,7 @@
 # STYLE_CSS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {STYLE_CSS}

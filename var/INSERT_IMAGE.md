@@ -1,7 +1,7 @@
 # INSERT_IMAGE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {INSERT_IMAGE}

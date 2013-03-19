@@ -1,7 +1,7 @@
 # contact_field.LABEL
 
 
-Attribut de [contact_field](contact_field.md#readme).
+Attribut de [`<!-- BEGIN contact_field -->...<!-- END contact_field -->`](contact_field.md#readme).
 
 ```html
 <!-- BEGIN contact_field -->

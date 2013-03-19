@@ -1,7 +1,7 @@
 # L_SUBMIT_VOTE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SUBMIT_VOTE}

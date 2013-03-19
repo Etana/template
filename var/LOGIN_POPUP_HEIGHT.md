@@ -1,7 +1,7 @@
 # LOGIN_POPUP_HEIGHT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {LOGIN_POPUP_HEIGHT}

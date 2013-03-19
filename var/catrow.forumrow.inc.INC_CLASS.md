@@ -1,7 +1,7 @@
 # catrow.forumrow.inc.INC_CLASS
 
 
-Attribut de [catrow.forumrow.inc](catrow.forumrow.inc.md#readme).
+Attribut de [`<!-- BEGIN inc -->...<!-- END inc -->`](catrow.forumrow.inc.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

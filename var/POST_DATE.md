@@ -1,7 +1,7 @@
 # POST_DATE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POST_DATE}

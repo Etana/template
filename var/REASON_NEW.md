@@ -1,7 +1,7 @@
 # REASON_NEW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {REASON_NEW}

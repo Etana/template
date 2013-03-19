@@ -1,7 +1,7 @@
 # L_NOTIFY_ON_REPLY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NOTIFY_ON_REPLY}

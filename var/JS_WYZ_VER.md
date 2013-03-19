@@ -1,7 +1,7 @@
 # JS_WYZ_VER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {JS_WYZ_VER}

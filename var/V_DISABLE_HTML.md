@@ -1,7 +1,7 @@
 # V_DISABLE_HTML
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_DISABLE_HTML}

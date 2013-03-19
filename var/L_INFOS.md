@@ -1,7 +1,7 @@
 # L_INFOS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_INFOS}

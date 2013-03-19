@@ -1,7 +1,7 @@
 # avatar_row.avatar_column
 
 
-Attribut de [avatar_row](avatar_row.md#readme).
+Attribut de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.md#readme).
 
 ```html
 <!-- BEGIN avatar_row -->

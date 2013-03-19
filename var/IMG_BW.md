@@ -1,7 +1,7 @@
 # IMG_BW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_BW}

@@ -1,7 +1,7 @@
 # build_categories_block.no_pics
 
 
-Attribut de [build_categories_block](build_categories_block.md#readme).
+Attribut de [`<!-- BEGIN build_categories_block -->...<!-- END build_categories_block -->`](build_categories_block.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->

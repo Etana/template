@@ -1,7 +1,7 @@
 # U_AGREE_OVER13
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_AGREE_OVER13}

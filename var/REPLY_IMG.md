@@ -1,7 +1,7 @@
 # REPLY_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {REPLY_IMG}

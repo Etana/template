@@ -1,7 +1,7 @@
 # LAST_VISIT_DATE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {LAST_VISIT_DATE}

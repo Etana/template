@@ -1,7 +1,7 @@
 # topics_list_box.FIELDNAME
 
 
-Attribut de [topics_list_box](topics_list_box.md#readme).
+Attribut de [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](topics_list_box.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

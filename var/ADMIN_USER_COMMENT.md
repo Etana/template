@@ -1,7 +1,7 @@
 # ADMIN_USER_COMMENT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ADMIN_USER_COMMENT}

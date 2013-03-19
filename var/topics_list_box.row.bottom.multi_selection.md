@@ -1,7 +1,7 @@
 # topics_list_box.row.bottom.multi_selection
 
 
-Attribut de [topics_list_box.row.bottom](topics_list_box.row.bottom.md#readme).
+Attribut de [`<!-- BEGIN bottom -->...<!-- END bottom -->`](topics_list_box.row.bottom.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

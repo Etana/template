@@ -1,7 +1,7 @@
 # L_ADD_FILE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ADD_FILE}

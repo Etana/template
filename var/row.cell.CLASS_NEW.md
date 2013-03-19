@@ -1,7 +1,7 @@
 # row.cell.CLASS_NEW
 
 
-Attribut de [row.cell](row.cell.md#readme).
+Attribut de [`<!-- BEGIN cell -->...<!-- END cell -->`](row.cell.md#readme).
 
 ```html
 <!-- BEGIN row -->

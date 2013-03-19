@@ -1,7 +1,7 @@
 # SERVIMG_FID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SERVIMG_FID}

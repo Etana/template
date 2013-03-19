@@ -1,7 +1,7 @@
 # S_MAX_FILE_UPLOADS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_MAX_FILE_UPLOADS}

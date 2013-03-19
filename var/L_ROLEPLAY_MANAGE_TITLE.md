@@ -1,7 +1,7 @@
 # L_ROLEPLAY_MANAGE_TITLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ROLEPLAY_MANAGE_TITLE}

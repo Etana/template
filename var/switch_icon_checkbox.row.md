@@ -1,7 +1,7 @@
 # switch_icon_checkbox.row
 
 
-Attribut de [switch_icon_checkbox](switch_icon_checkbox.md#readme).
+Attribut de [`<!-- BEGIN switch_icon_checkbox -->...<!-- END switch_icon_checkbox -->`](switch_icon_checkbox.md#readme).
 
 ```html
 <!-- BEGIN switch_icon_checkbox -->

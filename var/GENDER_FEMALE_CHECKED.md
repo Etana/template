@@ -1,7 +1,7 @@
 # GENDER_FEMALE_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {GENDER_FEMALE_CHECKED}

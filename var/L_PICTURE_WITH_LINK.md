@@ -1,7 +1,7 @@
 # L_PICTURE_WITH_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PICTURE_WITH_LINK}

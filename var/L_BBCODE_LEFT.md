@@ -1,7 +1,7 @@
 # L_BBCODE_LEFT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_BBCODE_LEFT}

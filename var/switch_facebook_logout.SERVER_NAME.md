@@ -1,7 +1,7 @@
 # switch_facebook_logout.SERVER_NAME
 
 
-Attribut de [switch_facebook_logout](switch_facebook_logout.md#readme).
+Attribut de [`<!-- BEGIN switch_facebook_logout -->...<!-- END switch_facebook_logout -->`](switch_facebook_logout.md#readme).
 
 ```html
 <!-- BEGIN switch_facebook_logout -->

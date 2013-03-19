@@ -1,7 +1,7 @@
 # L_TELL_FRIEND_RECIEVER_EMAIL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TELL_FRIEND_RECIEVER_EMAIL}

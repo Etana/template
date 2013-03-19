@@ -1,7 +1,7 @@
 # CUR_USER_ID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CUR_USER_ID}

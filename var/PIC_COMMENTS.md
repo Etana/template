@@ -1,7 +1,7 @@
 # PIC_COMMENTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PIC_COMMENTS}

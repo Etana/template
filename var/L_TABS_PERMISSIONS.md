@@ -1,7 +1,7 @@
 # L_TABS_PERMISSIONS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TABS_PERMISSIONS}

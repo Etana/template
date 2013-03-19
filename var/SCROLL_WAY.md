@@ -1,7 +1,7 @@
 # SCROLL_WAY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SCROLL_WAY}

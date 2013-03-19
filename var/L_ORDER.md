@@ -1,7 +1,7 @@
 # L_ORDER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ORDER}

@@ -1,7 +1,7 @@
 # S_SMILIES_COLSPAN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_SMILIES_COLSPAN}

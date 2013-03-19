@@ -1,7 +1,7 @@
 # postrow.MINI_POST_IMG
 
 
-Attribut de [postrow](postrow.md#readme).
+Attribut de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

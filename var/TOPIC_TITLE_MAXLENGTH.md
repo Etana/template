@@ -1,7 +1,7 @@
 # TOPIC_TITLE_MAXLENGTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOPIC_TITLE_MAXLENGTH}

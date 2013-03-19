@@ -1,7 +1,7 @@
 # L_PASSWORD_IF_CHANGED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PASSWORD_IF_CHANGED}

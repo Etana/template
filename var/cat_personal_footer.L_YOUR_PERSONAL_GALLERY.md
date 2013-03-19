@@ -1,7 +1,7 @@
 # cat_personal_footer.L_YOUR_PERSONAL_GALLERY
 
 
-Attribut de [cat_personal_footer](cat_personal_footer.md#readme).
+Attribut de [`<!-- BEGIN cat_personal_footer -->...<!-- END cat_personal_footer -->`](cat_personal_footer.md#readme).
 
 ```html
 <!-- BEGIN cat_personal_footer -->

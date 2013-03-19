@@ -1,7 +1,7 @@
 # SIZES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SIZES}

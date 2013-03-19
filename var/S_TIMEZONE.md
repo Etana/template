@@ -1,7 +1,7 @@
 # S_TIMEZONE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_TIMEZONE}

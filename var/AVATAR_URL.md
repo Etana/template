@@ -1,7 +1,7 @@
 # AVATAR_URL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {AVATAR_URL}

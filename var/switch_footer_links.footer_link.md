@@ -1,7 +1,7 @@
 # switch_footer_links.footer_link
 
 
-Attribut de [switch_footer_links](switch_footer_links.md#readme).
+Attribut de [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](switch_footer_links.md#readme).
 
 ```html
 <!-- BEGIN switch_footer_links -->

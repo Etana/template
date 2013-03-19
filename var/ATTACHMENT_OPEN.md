@@ -1,7 +1,7 @@
 # ATTACHMENT_OPEN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ATTACHMENT_OPEN}

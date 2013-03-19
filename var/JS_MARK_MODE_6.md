@@ -1,7 +1,7 @@
 # JS_MARK_MODE_6
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {JS_MARK_MODE_6}

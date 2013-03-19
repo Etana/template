@@ -1,7 +1,7 @@
 # ADD_USERNAME_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ADD_USERNAME_IMG}

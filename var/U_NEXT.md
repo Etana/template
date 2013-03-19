@@ -1,7 +1,7 @@
 # U_NEXT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_NEXT}

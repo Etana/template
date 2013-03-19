@@ -1,7 +1,7 @@
 # WIDTH_GALLERY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {WIDTH_GALLERY}

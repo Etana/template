@@ -1,7 +1,7 @@
 # AUTOLOGIN_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {AUTOLOGIN_CHECKED}

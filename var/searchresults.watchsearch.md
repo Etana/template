@@ -1,7 +1,7 @@
 # searchresults.watchsearch
 
 
-Attribut de [searchresults](searchresults.md#readme).
+Attribut de [`<!-- BEGIN searchresults -->...<!-- END searchresults -->`](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->

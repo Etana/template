@@ -1,7 +1,7 @@
 # S_ORDER_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_ORDER_SELECT}

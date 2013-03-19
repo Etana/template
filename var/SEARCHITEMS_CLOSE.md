@@ -1,7 +1,7 @@
 # SEARCHITEMS_CLOSE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SEARCHITEMS_CLOSE}

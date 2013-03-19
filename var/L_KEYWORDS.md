@@ -1,7 +1,7 @@
 # L_KEYWORDS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_KEYWORDS}

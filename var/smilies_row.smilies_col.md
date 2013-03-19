@@ -1,7 +1,7 @@
 # smilies_row.smilies_col
 
 
-Attribut de [smilies_row](smilies_row.md#readme).
+Attribut de [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](smilies_row.md#readme).
 
 ```html
 <!-- BEGIN smilies_row -->

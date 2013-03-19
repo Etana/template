@@ -1,7 +1,7 @@
 # I_PIC_LOCKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {I_PIC_LOCKED}

@@ -1,7 +1,7 @@
 # U_PRIVATEMSGS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_PRIVATEMSGS}

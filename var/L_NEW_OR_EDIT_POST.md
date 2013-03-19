@@ -1,7 +1,7 @@
 # L_NEW_OR_EDIT_POST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NEW_OR_EDIT_POST}

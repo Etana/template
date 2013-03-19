@@ -1,7 +1,7 @@
 # T_TD_COLOR1
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {T_TD_COLOR1}

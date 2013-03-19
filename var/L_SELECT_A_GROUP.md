@@ -1,7 +1,7 @@
 # L_SELECT_A_GROUP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SELECT_A_GROUP}

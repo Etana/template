@@ -1,7 +1,7 @@
 # IMG_MIRROR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_MIRROR}

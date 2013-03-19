@@ -1,7 +1,7 @@
 # SORT_TIME_DEL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SORT_TIME_DEL}

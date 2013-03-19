@@ -1,7 +1,7 @@
 # L_BOARD_LANGUAGE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_BOARD_LANGUAGE}

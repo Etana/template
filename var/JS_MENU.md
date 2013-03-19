@@ -1,7 +1,7 @@
 # JS_MENU
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {JS_MENU}

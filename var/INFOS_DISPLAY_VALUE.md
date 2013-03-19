@@ -1,7 +1,7 @@
 # INFOS_DISPLAY_VALUE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {INFOS_DISPLAY_VALUE}

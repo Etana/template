@@ -1,7 +1,7 @@
 # POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS}

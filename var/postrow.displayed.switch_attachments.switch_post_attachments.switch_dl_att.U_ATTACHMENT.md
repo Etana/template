@@ -1,7 +1,7 @@
 # postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT
 
 
-Attribut de [postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att](postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.md#readme).
+Attribut de [`<!-- BEGIN switch_dl_att -->...<!-- END switch_dl_att -->`](postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

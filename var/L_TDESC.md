@@ -1,7 +1,7 @@
 # L_TDESC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TDESC}

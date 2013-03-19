@@ -1,7 +1,7 @@
 # TOPIC_REVIEW_BOX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOPIC_REVIEW_BOX}

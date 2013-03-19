@@ -1,7 +1,7 @@
 # OCCUPATION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {OCCUPATION}

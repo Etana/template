@@ -1,7 +1,7 @@
 # paypal_confirm.hidden_field
 
 
-Attribut de [paypal_confirm](paypal_confirm.md#readme).
+Attribut de [`<!-- BEGIN paypal_confirm -->...<!-- END paypal_confirm -->`](paypal_confirm.md#readme).
 
 ```html
 <!-- BEGIN paypal_confirm -->

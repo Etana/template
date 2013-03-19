@@ -1,7 +1,7 @@
 # S_AUTH_LIST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_AUTH_LIST}

@@ -1,7 +1,7 @@
 # C3SIZE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {C3SIZE}

@@ -1,7 +1,7 @@
 # TOTAL_TOPICS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOTAL_TOPICS}

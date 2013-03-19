@@ -1,7 +1,7 @@
 # NOTIFY_SUBSCRIPTIONS_YES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NOTIFY_SUBSCRIPTIONS_YES}

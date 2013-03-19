@@ -1,7 +1,7 @@
 # IMGS.NEW_LINE
 
 
-Attribut de [IMGS](IMGS.md#readme).
+Attribut de [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](IMGS.md#readme).
 
 ```html
 <!-- BEGIN IMGS -->

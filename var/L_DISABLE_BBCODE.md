@@ -1,7 +1,7 @@
 # L_DISABLE_BBCODE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_DISABLE_BBCODE}

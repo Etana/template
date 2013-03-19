@@ -1,7 +1,7 @@
 # SAVEBOX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SAVEBOX}

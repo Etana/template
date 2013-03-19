@@ -1,7 +1,7 @@
 # DELETE_ALL_FIELD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DELETE_ALL_FIELD}

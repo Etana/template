@@ -1,7 +1,7 @@
 # SENTBOX_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SENTBOX_IMG}

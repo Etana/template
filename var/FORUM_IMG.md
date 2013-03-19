@@ -1,7 +1,7 @@
 # FORUM_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {FORUM_IMG}

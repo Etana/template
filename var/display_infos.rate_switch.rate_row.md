@@ -1,7 +1,7 @@
 # display_infos.rate_switch.rate_row
 
 
-Attribut de [display_infos.rate_switch](display_infos.rate_switch.md#readme).
+Attribut de [`<!-- BEGIN rate_switch -->...<!-- END rate_switch -->`](display_infos.rate_switch.md#readme).
 
 ```html
 <!-- BEGIN display_infos -->

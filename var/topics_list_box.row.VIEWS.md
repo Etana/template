@@ -1,7 +1,7 @@
 # topics_list_box.row.VIEWS
 
 
-Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
+Attribut de [`<!-- BEGIN row -->...<!-- END row -->`](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

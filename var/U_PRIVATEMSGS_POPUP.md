@@ -1,7 +1,7 @@
 # U_PRIVATEMSGS_POPUP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_PRIVATEMSGS_POPUP}

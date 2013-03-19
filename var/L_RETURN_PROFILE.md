@@ -1,7 +1,7 @@
 # L_RETURN_PROFILE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_RETURN_PROFILE}

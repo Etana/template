@@ -1,7 +1,7 @@
 # CALENDAR_MONTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CALENDAR_MONTH}

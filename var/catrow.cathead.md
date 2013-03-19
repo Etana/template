@@ -1,7 +1,7 @@
 # catrow.cathead
 
 
-Attribut de [catrow](catrow.md#readme).
+Attribut de [`<!-- BEGIN catrow -->...<!-- END catrow -->`](catrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

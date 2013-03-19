@@ -1,7 +1,7 @@
 # FIRST_PIC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {FIRST_PIC}

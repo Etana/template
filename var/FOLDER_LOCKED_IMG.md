@@ -1,7 +1,7 @@
 # FOLDER_LOCKED_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {FOLDER_LOCKED_IMG}

@@ -1,7 +1,7 @@
 # LANGUAGE_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {LANGUAGE_SELECT}

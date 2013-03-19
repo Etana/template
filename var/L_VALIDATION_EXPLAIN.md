@@ -1,7 +1,7 @@
 # L_VALIDATION_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_VALIDATION_EXPLAIN}

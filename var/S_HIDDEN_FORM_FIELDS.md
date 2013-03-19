@@ -1,7 +1,7 @@
 # S_HIDDEN_FORM_FIELDS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_HIDDEN_FORM_FIELDS}

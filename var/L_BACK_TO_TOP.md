@@ -1,7 +1,7 @@
 # L_BACK_TO_TOP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_BACK_TO_TOP}

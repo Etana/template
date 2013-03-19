@@ -1,7 +1,7 @@
 # pics_nav.noprev
 
 
-Attribut de [pics_nav](pics_nav.md#readme).
+Attribut de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics_nav.md#readme).
 
 ```html
 <!-- BEGIN pics_nav -->

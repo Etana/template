@@ -1,7 +1,7 @@
 # V_TOPICTYPE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_TOPICTYPE}

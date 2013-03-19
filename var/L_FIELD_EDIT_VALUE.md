@@ -1,7 +1,7 @@
 # L_FIELD_EDIT_VALUE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_FIELD_EDIT_VALUE}

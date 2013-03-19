@@ -1,7 +1,7 @@
 # main_page.pay_method
 
 
-Attribut de [main_page](main_page.md#readme).
+Attribut de [`<!-- BEGIN main_page -->...<!-- END main_page -->`](main_page.md#readme).
 
 ```html
 <!-- BEGIN main_page -->

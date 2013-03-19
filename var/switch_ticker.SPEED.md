@@ -1,7 +1,7 @@
 # switch_ticker.SPEED
 
 
-Attribut de [switch_ticker](switch_ticker.md#readme).
+Attribut de [`<!-- BEGIN switch_ticker -->...<!-- END switch_ticker -->`](switch_ticker.md#readme).
 
 ```html
 <!-- BEGIN switch_ticker -->

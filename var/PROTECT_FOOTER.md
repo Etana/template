@@ -1,7 +1,7 @@
 # PROTECT_FOOTER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PROTECT_FOOTER}

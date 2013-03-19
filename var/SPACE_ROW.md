@@ -1,7 +1,7 @@
 # SPACE_ROW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SPACE_ROW}

@@ -1,7 +1,7 @@
 # CLASS_CONTENT_CONTAINER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CLASS_CONTENT_CONTAINER}

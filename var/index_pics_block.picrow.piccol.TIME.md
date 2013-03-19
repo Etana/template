@@ -1,7 +1,7 @@
 # index_pics_block.picrow.piccol.TIME
 
 
-Attribut de [index_pics_block.picrow.piccol](index_pics_block.picrow.piccol.md#readme).
+Attribut de [`<!-- BEGIN piccol -->...<!-- END piccol -->`](index_pics_block.picrow.piccol.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->

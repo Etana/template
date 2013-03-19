@@ -1,7 +1,7 @@
 # L_FORM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_FORM}

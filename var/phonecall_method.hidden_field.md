@@ -1,7 +1,7 @@
 # phonecall_method.hidden_field
 
 
-Attribut de [phonecall_method](phonecall_method.md#readme).
+Attribut de [`<!-- BEGIN phonecall_method -->...<!-- END phonecall_method -->`](phonecall_method.md#readme).
 
 ```html
 <!-- BEGIN phonecall_method -->

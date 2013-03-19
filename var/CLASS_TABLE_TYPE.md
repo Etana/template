@@ -1,7 +1,7 @@
 # CLASS_TABLE_TYPE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CLASS_TABLE_TYPE}

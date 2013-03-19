@@ -1,7 +1,7 @@
 # pics_nav.next.U_PICS_THUMB
 
 
-Attribut de [pics_nav.next](pics_nav.next.md#readme).
+Attribut de [`<!-- BEGIN next -->...<!-- END next -->`](pics_nav.next.md#readme).
 
 ```html
 <!-- BEGIN pics_nav -->

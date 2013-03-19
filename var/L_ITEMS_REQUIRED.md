@@ -1,7 +1,7 @@
 # L_ITEMS_REQUIRED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ITEMS_REQUIRED}

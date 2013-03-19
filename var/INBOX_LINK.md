@@ -1,7 +1,7 @@
 # INBOX_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {INBOX_LINK}

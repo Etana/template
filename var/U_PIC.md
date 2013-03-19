@@ -1,7 +1,7 @@
 # U_PIC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_PIC}

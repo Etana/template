@@ -1,7 +1,7 @@
 # U_FRAME_CHATBOX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_FRAME_CHATBOX}

@@ -1,7 +1,7 @@
 # U_ADMIN_RPG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_ADMIN_RPG}

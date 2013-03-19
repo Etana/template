@@ -1,7 +1,7 @@
 # CONFIRM_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CONFIRM_IMG}

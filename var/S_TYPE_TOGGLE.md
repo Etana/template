@@ -1,7 +1,7 @@
 # S_TYPE_TOGGLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_TYPE_TOGGLE}

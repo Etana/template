@@ -1,7 +1,7 @@
 # cat_private_footer.U_USERS_PERSONAL_GALLERIES
 
 
-Attribut de [cat_private_footer](cat_private_footer.md#readme).
+Attribut de [`<!-- BEGIN cat_private_footer -->...<!-- END cat_private_footer -->`](cat_private_footer.md#readme).
 
 ```html
 <!-- BEGIN cat_private_footer -->

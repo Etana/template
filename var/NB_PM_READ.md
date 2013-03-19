@@ -1,7 +1,7 @@
 # NB_PM_READ
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NB_PM_READ}

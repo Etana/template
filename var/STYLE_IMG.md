@@ -1,7 +1,7 @@
 # STYLE_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {STYLE_IMG}

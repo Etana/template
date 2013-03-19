@@ -1,7 +1,7 @@
 # ALIGN_CENTER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ALIGN_CENTER}

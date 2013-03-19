@@ -1,7 +1,7 @@
 # U_MARK_READ
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_MARK_READ}

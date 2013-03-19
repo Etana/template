@@ -1,7 +1,7 @@
 # NUFF_SCREEN_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFF_SCREEN_CHECKED}

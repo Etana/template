@@ -1,7 +1,7 @@
 # U_VIEW_OLDER_TOPIC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_VIEW_OLDER_TOPIC}

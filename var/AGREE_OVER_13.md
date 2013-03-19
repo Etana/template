@@ -1,7 +1,7 @@
 # AGREE_OVER_13
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {AGREE_OVER_13}

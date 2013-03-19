@@ -1,7 +1,7 @@
 # L_SOLVED_WITHOUT_BRAKETS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SOLVED_WITHOUT_BRAKETS}

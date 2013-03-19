@@ -1,7 +1,7 @@
 # no_personal_galleries.L_NO_PERSONNAL_GALLERIES
 
 
-Attribut de [no_personal_galleries](no_personal_galleries.md#readme).
+Attribut de [`<!-- BEGIN no_personal_galleries -->...<!-- END no_personal_galleries -->`](no_personal_galleries.md#readme).
 
 ```html
 <!-- BEGIN no_personal_galleries -->

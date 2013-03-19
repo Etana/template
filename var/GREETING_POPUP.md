@@ -1,7 +1,7 @@
 # GREETING_POPUP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {GREETING_POPUP}

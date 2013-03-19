@@ -1,7 +1,7 @@
 # switch_search_results.search_results
 
 
-Attribut de [switch_search_results](switch_search_results.md#readme).
+Attribut de [`<!-- BEGIN switch_search_results -->...<!-- END switch_search_results -->`](switch_search_results.md#readme).
 
 ```html
 <!-- BEGIN switch_search_results -->

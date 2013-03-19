@@ -1,7 +1,7 @@
 # V_TYPE_FORUM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_TYPE_FORUM}

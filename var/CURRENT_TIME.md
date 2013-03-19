@@ -1,7 +1,7 @@
 # CURRENT_TIME
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CURRENT_TIME}

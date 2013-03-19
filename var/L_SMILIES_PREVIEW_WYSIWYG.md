@@ -1,7 +1,7 @@
 # L_SMILIES_PREVIEW_WYSIWYG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SMILIES_PREVIEW_WYSIWYG}

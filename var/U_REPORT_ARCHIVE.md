@@ -1,7 +1,7 @@
 # U_REPORT_ARCHIVE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_REPORT_ARCHIVE}

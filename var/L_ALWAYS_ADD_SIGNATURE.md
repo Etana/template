@@ -1,7 +1,7 @@
 # L_ALWAYS_ADD_SIGNATURE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ALWAYS_ADD_SIGNATURE}

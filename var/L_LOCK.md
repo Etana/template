@@ -1,7 +1,7 @@
 # L_LOCK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_LOCK}

@@ -1,7 +1,7 @@
 # message_admin_index.message_admin_titre
 
 
-Attribut de [message_admin_index](message_admin_index.md#readme).
+Attribut de [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](message_admin_index.md#readme).
 
 ```html
 <!-- BEGIN message_admin_index -->
@@ -11,7 +11,8 @@ Attribut de [message_admin_index](message_admin_index.md#readme).
 <!-- END message_admin_index -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre)
+##Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre)
+Boucle contenant le titre du message d'accueil.
 
 ## Attributs
 * __[`{message_admin_index.message_admin_titre.MES_TITRE}`](message_admin_index.message_admin_titre.MES_TITRE.md#readme)__

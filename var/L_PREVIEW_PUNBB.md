@@ -1,7 +1,7 @@
 # L_PREVIEW_PUNBB
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PREVIEW_PUNBB}

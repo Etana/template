@@ -1,7 +1,7 @@
 # PREVIEW_NEW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PREVIEW_NEW}

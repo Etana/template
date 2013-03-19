@@ -1,7 +1,7 @@
 # THUMB_SIZE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {THUMB_SIZE}

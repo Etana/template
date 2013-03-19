@@ -1,7 +1,7 @@
 # V_TOPIC_ICON
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_TOPIC_ICON}

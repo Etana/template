@@ -1,7 +1,7 @@
 # index_pics_block.no_pics.manage_personal_gal_folders
 
 
-Attribut de [index_pics_block.no_pics](index_pics_block.no_pics.md#readme).
+Attribut de [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](index_pics_block.no_pics.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->

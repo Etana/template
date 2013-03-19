@@ -1,7 +1,7 @@
 # bot_user_row.LASTUPDATE
 
 
-Attribut de [bot_user_row](bot_user_row.md#readme).
+Attribut de [`<!-- BEGIN bot_user_row -->...<!-- END bot_user_row -->`](bot_user_row.md#readme).
 
 ```html
 <!-- BEGIN bot_user_row -->

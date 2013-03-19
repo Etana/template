@@ -1,7 +1,7 @@
 # ADD_FIELD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ADD_FIELD}

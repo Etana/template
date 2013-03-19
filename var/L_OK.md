@@ -1,7 +1,7 @@
 # L_OK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_OK}

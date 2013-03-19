@@ -1,7 +1,7 @@
 # L_MOD_CP_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MOD_CP_EXPLAIN}

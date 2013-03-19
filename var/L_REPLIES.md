@@ -1,7 +1,7 @@
 # L_REPLIES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_REPLIES}

@@ -1,7 +1,7 @@
 # L_MODS_AND_ADMINS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MODS_AND_ADMINS}

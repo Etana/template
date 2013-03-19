@@ -1,7 +1,7 @@
 # switch_manual_thumbnail.switch_nuffload_enabled
 
 
-Attribut de [switch_manual_thumbnail](switch_manual_thumbnail.md#readme).
+Attribut de [`<!-- BEGIN switch_manual_thumbnail -->...<!-- END switch_manual_thumbnail -->`](switch_manual_thumbnail.md#readme).
 
 ```html
 <!-- BEGIN switch_manual_thumbnail -->

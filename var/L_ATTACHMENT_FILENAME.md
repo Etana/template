@@ -1,7 +1,7 @@
 # L_ATTACHMENT_FILENAME
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ATTACHMENT_FILENAME}

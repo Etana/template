@@ -1,7 +1,7 @@
 # BIRTHDAY_REQUIRED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {BIRTHDAY_REQUIRED}

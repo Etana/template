@@ -1,7 +1,7 @@
 # S_JUMPBOX_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_JUMPBOX_ACTION}

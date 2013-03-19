@@ -1,7 +1,7 @@
 # L_MY_PROFILE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MY_PROFILE}

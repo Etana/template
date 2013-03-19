@@ -1,7 +1,7 @@
 # MUST_LABEL_3
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MUST_LABEL_3}

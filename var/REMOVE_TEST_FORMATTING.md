@@ -1,7 +1,7 @@
 # REMOVE_TEST_FORMATTING
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {REMOVE_TEST_FORMATTING}

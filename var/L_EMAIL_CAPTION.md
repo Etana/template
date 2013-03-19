@@ -1,7 +1,7 @@
 # L_EMAIL_CAPTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_EMAIL_CAPTION}

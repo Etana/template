@@ -1,7 +1,7 @@
 # TO_TOPIC_TITLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TO_TOPIC_TITLE}

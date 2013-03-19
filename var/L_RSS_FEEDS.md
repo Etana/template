@@ -1,7 +1,7 @@
 # L_RSS_FEEDS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_RSS_FEEDS}

@@ -1,7 +1,7 @@
 # WWW_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {WWW_IMG}

@@ -1,7 +1,7 @@
 # L_BY_PAYMENT_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_BY_PAYMENT_EXPLAIN}

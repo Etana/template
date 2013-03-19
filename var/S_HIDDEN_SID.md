@@ -1,7 +1,7 @@
 # S_HIDDEN_SID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_HIDDEN_SID}

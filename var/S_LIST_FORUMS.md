@@ -1,7 +1,7 @@
 # S_LIST_FORUMS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_LIST_FORUMS}

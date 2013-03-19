@@ -1,7 +1,7 @@
 # U_REGISTER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_REGISTER}

@@ -1,7 +1,7 @@
 # switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT
 
 
-Attribut de [switch_subject.switch_subject_color](switch_subject.switch_subject_color.md#readme).
+Attribut de [`<!-- BEGIN switch_subject_color -->...<!-- END switch_subject_color -->`](switch_subject.switch_subject_color.md#readme).
 
 ```html
 <!-- BEGIN switch_subject -->

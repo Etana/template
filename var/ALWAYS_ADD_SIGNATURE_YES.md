@@ -1,7 +1,7 @@
 # ALWAYS_ADD_SIGNATURE_YES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ALWAYS_ADD_SIGNATURE_YES}

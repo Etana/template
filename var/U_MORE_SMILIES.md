@@ -1,7 +1,7 @@
 # U_MORE_SMILIES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_MORE_SMILIES}

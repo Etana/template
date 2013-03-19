@@ -1,7 +1,7 @@
 # catrow.catfoot.INC_SPAN
 
 
-Attribut de [catrow.catfoot](catrow.catfoot.md#readme).
+Attribut de [`<!-- BEGIN catfoot -->...<!-- END catfoot -->`](catrow.catfoot.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

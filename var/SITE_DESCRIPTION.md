@@ -1,7 +1,7 @@
 # SITE_DESCRIPTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SITE_DESCRIPTION}

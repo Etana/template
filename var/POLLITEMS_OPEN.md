@@ -1,7 +1,7 @@
 # POLLITEMS_OPEN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POLLITEMS_OPEN}

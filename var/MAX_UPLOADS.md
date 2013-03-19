@@ -1,7 +1,7 @@
 # MAX_UPLOADS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MAX_UPLOADS}

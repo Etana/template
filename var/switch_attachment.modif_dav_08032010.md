@@ -1,7 +1,7 @@
 # switch_attachment.modif_dav_08032010
 
 
-Attribut de [switch_attachment](switch_attachment.md#readme).
+Attribut de [`<!-- BEGIN switch_attachment -->...<!-- END switch_attachment -->`](switch_attachment.md#readme).
 
 ```html
 <!-- BEGIN switch_attachment -->

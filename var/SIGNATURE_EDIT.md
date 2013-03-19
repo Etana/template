@@ -1,7 +1,7 @@
 # SIGNATURE_EDIT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SIGNATURE_EDIT}

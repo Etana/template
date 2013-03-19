@@ -1,7 +1,7 @@
 # S_COL_WIDTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_COL_WIDTH}

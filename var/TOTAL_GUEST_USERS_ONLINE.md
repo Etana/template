@@ -1,7 +1,7 @@
 # TOTAL_GUEST_USERS_ONLINE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOTAL_GUEST_USERS_ONLINE}

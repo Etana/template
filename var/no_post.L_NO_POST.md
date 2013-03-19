@@ -1,7 +1,7 @@
 # no_post.L_NO_POST
 
 
-Attribut de [no_post](no_post.md#readme).
+Attribut de [`<!-- BEGIN no_post -->...<!-- END no_post -->`](no_post.md#readme).
 
 ```html
 <!-- BEGIN no_post -->

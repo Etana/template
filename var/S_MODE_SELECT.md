@@ -1,7 +1,7 @@
 # S_MODE_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_MODE_SELECT}

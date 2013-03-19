@@ -1,7 +1,7 @@
 # switch_rpg.rpg_fields
 
 
-Attribut de [switch_rpg](switch_rpg.md#readme).
+Attribut de [`<!-- BEGIN switch_rpg -->...<!-- END switch_rpg -->`](switch_rpg.md#readme).
 
 ```html
 <!-- BEGIN switch_rpg -->

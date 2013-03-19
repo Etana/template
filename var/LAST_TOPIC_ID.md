@@ -1,7 +1,7 @@
 # LAST_TOPIC_ID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {LAST_TOPIC_ID}

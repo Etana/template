@@ -1,7 +1,7 @@
 # post_row.switch_attachments.switch_post_attachments.switch_no_comment
 
 
-Attribut de [post_row.switch_attachments.switch_post_attachments](post_row.switch_attachments.switch_post_attachments.md#readme).
+Attribut de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](post_row.switch_attachments.switch_post_attachments.md#readme).
 
 ```html
 <!-- BEGIN post_row -->

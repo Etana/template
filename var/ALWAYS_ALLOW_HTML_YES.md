@@ -1,7 +1,7 @@
 # ALWAYS_ALLOW_HTML_YES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ALWAYS_ALLOW_HTML_YES}

@@ -1,7 +1,7 @@
 # GROUP_DETAILS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {GROUP_DETAILS}

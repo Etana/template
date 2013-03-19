@@ -1,7 +1,7 @@
 # MENU_POSITION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MENU_POSITION}

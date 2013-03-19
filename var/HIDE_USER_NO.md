@@ -1,7 +1,7 @@
 # HIDE_USER_NO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {HIDE_USER_NO}

@@ -1,7 +1,7 @@
 # L_NO_PICS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NO_PICS}

@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS
 
 
-Attribut de [postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus](postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.md#readme).
+Attribut de [`<!-- BEGIN switch_vote_plus -->...<!-- END switch_vote_plus -->`](postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

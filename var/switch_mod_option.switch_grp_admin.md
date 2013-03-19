@@ -1,7 +1,7 @@
 # switch_mod_option.switch_grp_admin
 
 
-Attribut de [switch_mod_option](switch_mod_option.md#readme).
+Attribut de [`<!-- BEGIN switch_mod_option -->...<!-- END switch_mod_option -->`](switch_mod_option.md#readme).
 
 ```html
 <!-- BEGIN switch_mod_option -->

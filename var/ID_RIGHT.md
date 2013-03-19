@@ -1,7 +1,7 @@
 # ID_RIGHT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ID_RIGHT}

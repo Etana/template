@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.restore_row.restore_pic.RESTORE_PIC_LINK
 
 
-Attribut de [list_pics_block.recent_pics.restore_row.restore_pic](list_pics_block.recent_pics.restore_row.restore_pic.md#readme).
+Attribut de [`<!-- BEGIN restore_pic -->...<!-- END restore_pic -->`](list_pics_block.recent_pics.restore_row.restore_pic.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

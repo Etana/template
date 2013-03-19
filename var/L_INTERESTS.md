@@ -1,7 +1,7 @@
 # L_INTERESTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_INTERESTS}

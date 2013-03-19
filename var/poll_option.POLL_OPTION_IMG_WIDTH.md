@@ -1,7 +1,7 @@
 # poll_option.POLL_OPTION_IMG_WIDTH
 
 
-Attribut de [poll_option](poll_option.md#readme).
+Attribut de [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](poll_option.md#readme).
 
 ```html
 <!-- BEGIN poll_option -->

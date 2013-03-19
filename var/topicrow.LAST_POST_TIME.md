@@ -1,7 +1,7 @@
 # topicrow.LAST_POST_TIME
 
 
-Attribut de [topicrow](topicrow.md#readme).
+Attribut de [`<!-- BEGIN topicrow -->...<!-- END topicrow -->`](topicrow.md#readme).
 
 ```html
 <!-- BEGIN topicrow -->

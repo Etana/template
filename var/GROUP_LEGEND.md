@@ -1,7 +1,7 @@
 # GROUP_LEGEND
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {GROUP_LEGEND}

@@ -1,7 +1,7 @@
 # L_LASTPOST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_LASTPOST}

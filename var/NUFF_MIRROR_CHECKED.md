@@ -1,7 +1,7 @@
 # NUFF_MIRROR_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFF_MIRROR_CHECKED}

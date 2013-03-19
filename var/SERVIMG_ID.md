@@ -1,7 +1,7 @@
 # SERVIMG_ID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SERVIMG_ID}

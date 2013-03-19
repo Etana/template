@@ -1,7 +1,7 @@
 # birthday_list_box.row.LOCALISATION
 
 
-Attribut de [birthday_list_box.row](birthday_list_box.row.md#readme).
+Attribut de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN birthday_list_box -->

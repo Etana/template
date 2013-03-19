@@ -1,7 +1,7 @@
 # POSTER_RANK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POSTER_RANK}

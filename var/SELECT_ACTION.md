@@ -1,7 +1,7 @@
 # SELECT_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SELECT_ACTION}

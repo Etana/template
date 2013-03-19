@@ -1,7 +1,7 @@
 # L_VIEWING_PROFILE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_VIEWING_PROFILE}

@@ -1,7 +1,7 @@
 # L_VIEW_RESULTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_VIEW_RESULTS}

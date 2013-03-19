@@ -1,7 +1,7 @@
 # MOD_WWW_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MOD_WWW_IMG}

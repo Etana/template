@@ -1,7 +1,7 @@
 # UNAPPROVAL_BUTTON
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {UNAPPROVAL_BUTTON}

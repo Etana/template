@@ -1,7 +1,7 @@
 # smilies_row.smilies_col.SHOW_JS
 
 
-Attribut de [smilies_row.smilies_col](smilies_row.smilies_col.md#readme).
+Attribut de [`<!-- BEGIN smilies_col -->...<!-- END smilies_col -->`](smilies_row.smilies_col.md#readme).
 
 ```html
 <!-- BEGIN smilies_row -->

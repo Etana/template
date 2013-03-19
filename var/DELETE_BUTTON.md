@@ -1,7 +1,7 @@
 # DELETE_BUTTON
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DELETE_BUTTON}

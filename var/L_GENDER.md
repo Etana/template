@@ -1,7 +1,7 @@
 # L_GENDER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_GENDER}

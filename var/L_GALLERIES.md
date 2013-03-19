@@ -1,7 +1,7 @@
 # L_GALLERIES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_GALLERIES}

@@ -1,7 +1,7 @@
 # giefmod_index2.MODVAR
 
 
-Attribut de [giefmod_index2](giefmod_index2.md#readme).
+Attribut de [`<!-- BEGIN giefmod_index2 -->...<!-- END giefmod_index2 -->`](giefmod_index2.md#readme).
 
 ```html
 <!-- BEGIN giefmod_index2 -->

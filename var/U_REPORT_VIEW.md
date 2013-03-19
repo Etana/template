@@ -1,7 +1,7 @@
 # U_REPORT_VIEW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_REPORT_VIEW}

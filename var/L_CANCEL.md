@@ -1,7 +1,7 @@
 # L_CANCEL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CANCEL}

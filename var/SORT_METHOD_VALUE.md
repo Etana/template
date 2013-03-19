@@ -1,7 +1,7 @@
 # SORT_METHOD_VALUE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SORT_METHOD_VALUE}

@@ -1,7 +1,7 @@
 # L_CONFIRM_CODE_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CONFIRM_CODE_EXPLAIN}

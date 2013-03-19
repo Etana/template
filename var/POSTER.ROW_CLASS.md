@@ -1,7 +1,7 @@
 # POSTER.ROW_CLASS
 
 
-Attribut de [POSTER](POSTER.md#readme).
+Attribut de [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](POSTER.md#readme).
 
 ```html
 <!-- BEGIN POSTER -->

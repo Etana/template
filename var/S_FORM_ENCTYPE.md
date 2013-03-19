@@ -1,7 +1,7 @@
 # S_FORM_ENCTYPE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_FORM_ENCTYPE}

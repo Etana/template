@@ -1,7 +1,7 @@
 # U_OVERALL_POSTERS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_OVERALL_POSTERS}

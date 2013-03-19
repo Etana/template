@@ -1,7 +1,7 @@
 # DISABLE_MASS_PM_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DISABLE_MASS_PM_CHECKED}

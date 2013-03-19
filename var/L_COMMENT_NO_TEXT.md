@@ -1,7 +1,7 @@
 # L_COMMENT_NO_TEXT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_COMMENT_NO_TEXT}

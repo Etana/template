@@ -1,7 +1,7 @@
 # SUBJECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SUBJECT}

@@ -1,7 +1,7 @@
 # index_pics_block.picrow.nopiccol
 
 
-Attribut de [index_pics_block.picrow](index_pics_block.picrow.md#readme).
+Attribut de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](index_pics_block.picrow.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->

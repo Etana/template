@@ -1,7 +1,7 @@
 # ADD_POLL_OPTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ADD_POLL_OPTION}

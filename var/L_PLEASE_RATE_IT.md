@@ -1,7 +1,7 @@
 # L_PLEASE_RATE_IT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PLEASE_RATE_IT}

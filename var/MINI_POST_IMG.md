@@ -1,7 +1,7 @@
 # MINI_POST_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MINI_POST_IMG}

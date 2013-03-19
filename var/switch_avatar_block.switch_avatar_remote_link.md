@@ -1,7 +1,7 @@
 # switch_avatar_block.switch_avatar_remote_link
 
 
-Attribut de [switch_avatar_block](switch_avatar_block.md#readme).
+Attribut de [`<!-- BEGIN switch_avatar_block -->...<!-- END switch_avatar_block -->`](switch_avatar_block.md#readme).
 
 ```html
 <!-- BEGIN switch_avatar_block -->

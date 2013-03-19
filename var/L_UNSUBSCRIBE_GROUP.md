@@ -1,7 +1,7 @@
 # L_UNSUBSCRIBE_GROUP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_UNSUBSCRIBE_GROUP}

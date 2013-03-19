@@ -1,7 +1,7 @@
 # postrow.POST_SUBJECT_NEW
 
 
-Attribut de [postrow](postrow.md#readme).
+Attribut de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

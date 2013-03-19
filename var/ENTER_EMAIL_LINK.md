@@ -1,7 +1,7 @@
 # ENTER_EMAIL_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ENTER_EMAIL_LINK}

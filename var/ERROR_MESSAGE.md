@@ -1,7 +1,7 @@
 # ERROR_MESSAGE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ERROR_MESSAGE}

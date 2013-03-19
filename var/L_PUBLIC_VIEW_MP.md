@@ -1,7 +1,7 @@
 # L_PUBLIC_VIEW_MP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PUBLIC_VIEW_MP}

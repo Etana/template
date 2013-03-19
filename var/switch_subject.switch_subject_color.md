@@ -1,7 +1,7 @@
 # switch_subject.switch_subject_color
 
 
-Attribut de [switch_subject](switch_subject.md#readme).
+Attribut de [`<!-- BEGIN switch_subject -->...<!-- END switch_subject -->`](switch_subject.md#readme).
 
 ```html
 <!-- BEGIN switch_subject -->

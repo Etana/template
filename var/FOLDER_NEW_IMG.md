@@ -1,7 +1,7 @@
 # FOLDER_NEW_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {FOLDER_NEW_IMG}

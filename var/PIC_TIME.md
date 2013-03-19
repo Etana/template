@@ -1,7 +1,7 @@
 # PIC_TIME
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PIC_TIME}

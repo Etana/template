@@ -1,7 +1,7 @@
 # googlemap.U_GOOGLEMAP
 
 
-Attribut de [googlemap](googlemap.md#readme).
+Attribut de [`<!-- BEGIN googlemap -->...<!-- END googlemap -->`](googlemap.md#readme).
 
 ```html
 <!-- BEGIN googlemap -->

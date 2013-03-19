@@ -1,7 +1,7 @@
 # L_WEB_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_WEB_EXPLAIN}

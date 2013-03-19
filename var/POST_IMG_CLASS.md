@@ -1,7 +1,7 @@
 # POST_IMG_CLASS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POST_IMG_CLASS}

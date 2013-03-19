@@ -1,7 +1,7 @@
 # PIC_DESC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PIC_DESC}

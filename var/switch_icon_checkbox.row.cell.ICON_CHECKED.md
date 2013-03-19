@@ -1,7 +1,7 @@
 # switch_icon_checkbox.row.cell.ICON_CHECKED
 
 
-Attribut de [switch_icon_checkbox.row.cell](switch_icon_checkbox.row.cell.md#readme).
+Attribut de [`<!-- BEGIN cell -->...<!-- END cell -->`](switch_icon_checkbox.row.cell.md#readme).
 
 ```html
 <!-- BEGIN switch_icon_checkbox -->

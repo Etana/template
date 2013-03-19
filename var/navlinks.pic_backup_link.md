@@ -1,7 +1,7 @@
 # navlinks.pic_backup_link
 
 
-Attribut de [navlinks](navlinks.md#readme).
+Attribut de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navlinks.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->

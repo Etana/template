@@ -1,7 +1,7 @@
 # S_NOTIFY_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_NOTIFY_CHECKED}

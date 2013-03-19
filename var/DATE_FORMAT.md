@@ -1,7 +1,7 @@
 # DATE_FORMAT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DATE_FORMAT}

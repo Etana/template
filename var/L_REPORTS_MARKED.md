@@ -1,7 +1,7 @@
 # L_REPORTS_MARKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_REPORTS_MARKED}

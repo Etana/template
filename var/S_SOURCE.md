@@ -1,7 +1,7 @@
 # S_SOURCE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_SOURCE}

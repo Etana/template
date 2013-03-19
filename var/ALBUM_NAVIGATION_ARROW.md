@@ -1,7 +1,7 @@
 # ALBUM_NAVIGATION_ARROW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ALBUM_NAVIGATION_ARROW}

@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_birthday
 
 
-Attribut de [switch_informations_menu](switch_informations_menu.md#readme).
+Attribut de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](switch_informations_menu.md#readme).
 
 ```html
 <!-- BEGIN switch_informations_menu -->

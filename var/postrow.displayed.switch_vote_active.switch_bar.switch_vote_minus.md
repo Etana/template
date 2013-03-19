@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus
 
 
-Attribut de [postrow.displayed.switch_vote_active.switch_bar](postrow.displayed.switch_vote_active.switch_bar.md#readme).
+Attribut de [`<!-- BEGIN switch_bar -->...<!-- END switch_bar -->`](postrow.displayed.switch_vote_active.switch_bar.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

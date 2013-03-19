@@ -1,7 +1,7 @@
 # NAV_SEPARATOR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NAV_SEPARATOR}

@@ -1,7 +1,7 @@
 # ATTACHMENT_CLOSE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ATTACHMENT_CLOSE}

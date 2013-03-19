@@ -1,7 +1,7 @@
 # IS_WYSIWYG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IS_WYSIWYG}

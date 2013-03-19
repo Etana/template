@@ -1,7 +1,7 @@
 # GROUP_MEMBER_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {GROUP_MEMBER_SELECT}

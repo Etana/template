@@ -1,7 +1,7 @@
 # VOTE_RCAP_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {VOTE_RCAP_IMG}

@@ -1,7 +1,7 @@
 # BUTTON_WYSI_STYLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {BUTTON_WYSI_STYLE}

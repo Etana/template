@@ -1,7 +1,7 @@
 # L_FROM_TOPIC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_FROM_TOPIC}

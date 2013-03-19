@@ -1,7 +1,7 @@
 # NOTIFY_REPLY_NO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NOTIFY_REPLY_NO}

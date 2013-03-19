@@ -1,7 +1,7 @@
 # COLSPAN_PAGINATION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {COLSPAN_PAGINATION}

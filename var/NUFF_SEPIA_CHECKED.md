@@ -1,7 +1,7 @@
 # NUFF_SEPIA_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFF_SEPIA_CHECKED}

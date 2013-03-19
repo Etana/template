@@ -1,7 +1,7 @@
 # AUTO_DST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {AUTO_DST}

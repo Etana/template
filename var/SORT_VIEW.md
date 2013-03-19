@@ -1,7 +1,7 @@
 # SORT_VIEW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SORT_VIEW}

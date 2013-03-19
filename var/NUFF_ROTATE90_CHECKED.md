@@ -1,7 +1,7 @@
 # NUFF_ROTATE90_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFF_ROTATE90_CHECKED}

@@ -1,7 +1,7 @@
 # USER_WYSIWYG_NO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {USER_WYSIWYG_NO}

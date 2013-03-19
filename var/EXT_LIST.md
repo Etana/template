@@ -1,7 +1,7 @@
 # EXT_LIST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {EXT_LIST}

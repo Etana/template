@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DESCRIPTION}

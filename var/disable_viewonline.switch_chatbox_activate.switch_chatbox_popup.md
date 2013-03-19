@@ -1,7 +1,7 @@
 # disable_viewonline.switch_chatbox_activate.switch_chatbox_popup
 
 
-Attribut de [disable_viewonline.switch_chatbox_activate](disable_viewonline.switch_chatbox_activate.md#readme).
+Attribut de [`<!-- BEGIN switch_chatbox_activate -->...<!-- END switch_chatbox_activate -->`](disable_viewonline.switch_chatbox_activate.md#readme).
 
 ```html
 <!-- BEGIN disable_viewonline -->

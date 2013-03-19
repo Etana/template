@@ -1,7 +1,7 @@
 # PROMOT_TRAFIC_TITLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PROMOT_TRAFIC_TITLE}

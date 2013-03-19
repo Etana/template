@@ -1,7 +1,7 @@
 # L_ALL_USERS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ALL_USERS}

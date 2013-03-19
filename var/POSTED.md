@@ -1,7 +1,7 @@
 # POSTED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POSTED}

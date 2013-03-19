@@ -1,7 +1,7 @@
 # SMILEY_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SMILEY_SELECT}

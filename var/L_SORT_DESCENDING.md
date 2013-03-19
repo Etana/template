@@ -1,7 +1,7 @@
 # L_SORT_DESCENDING
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SORT_DESCENDING}

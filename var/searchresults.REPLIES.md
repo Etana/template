@@ -1,7 +1,7 @@
 # searchresults.REPLIES
 
 
-Attribut de [searchresults](searchresults.md#readme).
+Attribut de [`<!-- BEGIN searchresults -->...<!-- END searchresults -->`](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->

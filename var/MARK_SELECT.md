@@ -1,7 +1,7 @@
 # MARK_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MARK_SELECT}

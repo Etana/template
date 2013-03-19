@@ -1,7 +1,7 @@
 # NUFF_BW_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFF_BW_CHECKED}

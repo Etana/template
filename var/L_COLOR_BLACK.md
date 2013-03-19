@@ -1,7 +1,7 @@
 # L_COLOR_BLACK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_COLOR_BLACK}

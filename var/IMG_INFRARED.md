@@ -1,7 +1,7 @@
 # IMG_INFRARED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_INFRARED}

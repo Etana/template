@@ -1,7 +1,7 @@
 # S_BBCODE_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_BBCODE_CHECKED}

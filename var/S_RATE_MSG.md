@@ -1,7 +1,7 @@
 # S_RATE_MSG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_RATE_MSG}

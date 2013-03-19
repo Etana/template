@@ -1,7 +1,7 @@
 # SEARCH_RESULTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SEARCH_RESULTS}

@@ -1,7 +1,7 @@
 # L_FORUM_LOCATION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_FORUM_LOCATION}

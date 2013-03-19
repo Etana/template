@@ -1,7 +1,7 @@
 # MASS_PM_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MASS_PM_IMG}

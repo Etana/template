@@ -1,7 +1,7 @@
 # L_SEARCH_USER_POSTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SEARCH_USER_POSTS}

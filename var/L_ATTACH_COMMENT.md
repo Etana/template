@@ -1,7 +1,7 @@
 # L_ATTACH_COMMENT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ATTACH_COMMENT}

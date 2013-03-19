@@ -1,7 +1,7 @@
 # U_PREC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_PREC}

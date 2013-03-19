@@ -1,7 +1,7 @@
 # switch_topic_modif.switch_icon_checkbox
 
 
-Attribut de [switch_topic_modif](switch_topic_modif.md#readme).
+Attribut de [`<!-- BEGIN switch_topic_modif -->...<!-- END switch_topic_modif -->`](switch_topic_modif.md#readme).
 
 ```html
 <!-- BEGIN switch_topic_modif -->

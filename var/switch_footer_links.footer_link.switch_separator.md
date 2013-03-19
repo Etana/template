@@ -1,7 +1,7 @@
 # switch_footer_links.footer_link.switch_separator
 
 
-Attribut de [switch_footer_links.footer_link](switch_footer_links.footer_link.md#readme).
+Attribut de [`<!-- BEGIN footer_link -->...<!-- END footer_link -->`](switch_footer_links.footer_link.md#readme).
 
 ```html
 <!-- BEGIN switch_footer_links -->

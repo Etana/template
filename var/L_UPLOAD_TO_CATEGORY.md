@@ -1,7 +1,7 @@
 # L_UPLOAD_TO_CATEGORY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_UPLOAD_TO_CATEGORY}

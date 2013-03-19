@@ -1,7 +1,7 @@
 # L_RATING
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_RATING}

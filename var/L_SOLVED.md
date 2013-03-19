@@ -1,7 +1,7 @@
 # L_SOLVED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SOLVED}

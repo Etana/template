@@ -1,7 +1,7 @@
 # L_BBCODE_Q
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_BBCODE_Q}

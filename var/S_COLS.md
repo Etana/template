@@ -1,7 +1,7 @@
 # S_COLS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_COLS}

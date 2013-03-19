@@ -1,7 +1,7 @@
 # postrow.displayed.switch_attachments.switch_post_attachments
 
 
-Attribut de [postrow.displayed.switch_attachments](postrow.displayed.switch_attachments.md#readme).
+Attribut de [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](postrow.displayed.switch_attachments.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

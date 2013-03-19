@@ -1,7 +1,7 @@
 # V_CAL_DUR_DAY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_CAL_DUR_DAY}

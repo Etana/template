@@ -1,7 +1,7 @@
 # S_CALENDAR_DAY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_CALENDAR_DAY}

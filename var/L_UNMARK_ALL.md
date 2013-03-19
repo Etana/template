@@ -1,7 +1,7 @@
 # L_UNMARK_ALL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_UNMARK_ALL}

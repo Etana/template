@@ -1,7 +1,7 @@
 # U_PROFILE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_PROFILE}

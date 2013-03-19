@@ -1,7 +1,7 @@
 # U_FAQ
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_FAQ}

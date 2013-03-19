@@ -1,7 +1,7 @@
 # POST_SUBJECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POST_SUBJECT}

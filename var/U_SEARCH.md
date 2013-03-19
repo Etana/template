@@ -1,7 +1,7 @@
 # U_SEARCH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_SEARCH}

@@ -1,7 +1,7 @@
 # GROUP_PENDING_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {GROUP_PENDING_SELECT}

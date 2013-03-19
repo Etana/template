@@ -1,7 +1,7 @@
 # SECURE_ID_NAME
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SECURE_ID_NAME}

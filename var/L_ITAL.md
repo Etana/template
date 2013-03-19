@@ -1,7 +1,7 @@
 # L_ITAL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ITAL}

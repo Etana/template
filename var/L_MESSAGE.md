@@ -1,7 +1,7 @@
 # L_MESSAGE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MESSAGE}

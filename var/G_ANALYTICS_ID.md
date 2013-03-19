@@ -1,7 +1,7 @@
 # G_ANALYTICS_ID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {G_ANALYTICS_ID}

@@ -1,7 +1,7 @@
 # UCP_TABS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {UCP_TABS}

@@ -1,7 +1,7 @@
 # S_ZIP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_ZIP}

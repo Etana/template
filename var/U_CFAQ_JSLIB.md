@@ -1,7 +1,7 @@
 # U_CFAQ_JSLIB
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_CFAQ_JSLIB}

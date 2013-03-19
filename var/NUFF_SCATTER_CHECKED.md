@@ -1,7 +1,7 @@
 # NUFF_SCATTER_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFF_SCATTER_CHECKED}

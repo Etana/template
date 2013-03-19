@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS
 
 
-Attribut de [switch_preferences_menu.switch_profile_advanced](switch_preferences_menu.switch_profile_advanced.md#readme).
+Attribut de [`<!-- BEGIN switch_profile_advanced -->...<!-- END switch_profile_advanced -->`](switch_preferences_menu.switch_profile_advanced.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->

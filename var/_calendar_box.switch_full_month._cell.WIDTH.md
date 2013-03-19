@@ -1,7 +1,7 @@
 # _calendar_box.switch_full_month._cell.WIDTH
 
 
-Attribut de [_calendar_box.switch_full_month._cell](_calendar_box.switch_full_month._cell.md#readme).
+Attribut de [`<!-- BEGIN _cell -->...<!-- END _cell -->`](_calendar_box.switch_full_month._cell.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

@@ -1,7 +1,7 @@
 # U_CANCEL_VOTE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_CANCEL_VOTE}

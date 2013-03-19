@@ -1,7 +1,7 @@
 # PREV_PIC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PREV_PIC}

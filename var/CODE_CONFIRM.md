@@ -1,7 +1,7 @@
 # CODE_CONFIRM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CODE_CONFIRM}

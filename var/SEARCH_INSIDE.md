@@ -1,7 +1,7 @@
 # SEARCH_INSIDE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SEARCH_INSIDE}

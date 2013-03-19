@@ -1,7 +1,7 @@
 # switch_view_stats.L_STATS
 
 
-Attribut de [switch_view_stats](switch_view_stats.md#readme).
+Attribut de [`<!-- BEGIN switch_view_stats -->...<!-- END switch_view_stats -->`](switch_view_stats.md#readme).
 
 ```html
 <!-- BEGIN switch_view_stats -->

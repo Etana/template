@@ -1,7 +1,7 @@
 # L_SAVE_MARKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SAVE_MARKED}

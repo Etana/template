@@ -1,7 +1,7 @@
 # V_SUBJECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_SUBJECT}

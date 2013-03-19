@@ -1,7 +1,7 @@
 # JS_SESSION_ID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {JS_SESSION_ID}

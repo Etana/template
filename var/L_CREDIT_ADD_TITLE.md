@@ -1,7 +1,7 @@
 # L_CREDIT_ADD_TITLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CREDIT_ADD_TITLE}

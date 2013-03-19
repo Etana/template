@@ -1,7 +1,7 @@
 # switch_report_popup.S_HEIGHT
 
 
-Attribut de [switch_report_popup](switch_report_popup.md#readme).
+Attribut de [`<!-- BEGIN switch_report_popup -->...<!-- END switch_report_popup -->`](switch_report_popup.md#readme).
 
 ```html
 <!-- BEGIN switch_report_popup -->

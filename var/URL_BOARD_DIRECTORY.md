@@ -1,7 +1,7 @@
 # URL_BOARD_DIRECTORY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {URL_BOARD_DIRECTORY}

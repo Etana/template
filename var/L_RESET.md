@@ -1,7 +1,7 @@
 # L_RESET
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_RESET}

@@ -1,7 +1,7 @@
 # switch_specials_fonts.OTHERS_SPECIFICS_FONTS
 
 
-Attribut de [switch_specials_fonts](switch_specials_fonts.md#readme).
+Attribut de [`<!-- BEGIN switch_specials_fonts -->...<!-- END switch_specials_fonts -->`](switch_specials_fonts.md#readme).
 
 ```html
 <!-- BEGIN switch_specials_fonts -->

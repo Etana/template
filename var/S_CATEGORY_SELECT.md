@@ -1,7 +1,7 @@
 # S_CATEGORY_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_CATEGORY_SELECT}

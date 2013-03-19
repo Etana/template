@@ -1,7 +1,7 @@
 # switch_roll_dice.L_DICE_ROLLS
 
 
-Attribut de [switch_roll_dice](switch_roll_dice.md#readme).
+Attribut de [`<!-- BEGIN switch_roll_dice -->...<!-- END switch_roll_dice -->`](switch_roll_dice.md#readme).
 
 ```html
 <!-- BEGIN switch_roll_dice -->

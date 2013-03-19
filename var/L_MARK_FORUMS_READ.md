@@ -1,7 +1,7 @@
 # L_MARK_FORUMS_READ
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MARK_FORUMS_READ}

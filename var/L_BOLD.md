@@ -1,7 +1,7 @@
 # L_BOLD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_BOLD}

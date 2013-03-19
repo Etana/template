@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_profile_advanced
 
 
-Attribut de [switch_preferences_menu](switch_preferences_menu.md#readme).
+Attribut de [`<!-- BEGIN switch_preferences_menu -->...<!-- END switch_preferences_menu -->`](switch_preferences_menu.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->

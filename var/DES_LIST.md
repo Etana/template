@@ -1,7 +1,7 @@
 # DES_LIST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DES_LIST}

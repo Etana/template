@@ -1,7 +1,7 @@
 # SEARCH_POSTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SEARCH_POSTS}

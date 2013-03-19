@@ -1,7 +1,7 @@
 # IMG_SCREEN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_SCREEN}

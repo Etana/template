@@ -1,7 +1,7 @@
 # L_SEND_EMAIL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SEND_EMAIL}

@@ -1,7 +1,7 @@
 # ADDTHIS_LANG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ADDTHIS_LANG}

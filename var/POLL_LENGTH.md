@@ -1,7 +1,7 @@
 # POLL_LENGTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POLL_LENGTH}

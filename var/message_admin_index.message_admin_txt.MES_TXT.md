@@ -1,7 +1,7 @@
 # message_admin_index.message_admin_txt.MES_TXT
 
 
-Attribut de [message_admin_index.message_admin_txt](message_admin_index.message_admin_txt.md#readme).
+Attribut de [`<!-- BEGIN message_admin_txt -->...<!-- END message_admin_txt -->`](message_admin_index.message_admin_txt.md#readme).
 
 ```html
 <!-- BEGIN message_admin_index -->

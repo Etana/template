@@ -1,7 +1,7 @@
 # L_NO_VALID_CAT_SELECTED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NO_VALID_CAT_SELECTED}

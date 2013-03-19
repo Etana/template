@@ -1,7 +1,7 @@
 # U_TELLFRIEND_JS_PLUS_MENU
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_TELLFRIEND_JS_PLUS_MENU}

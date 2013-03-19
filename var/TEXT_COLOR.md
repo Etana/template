@@ -1,7 +1,7 @@
 # TEXT_COLOR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TEXT_COLOR}

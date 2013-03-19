@@ -1,7 +1,7 @@
 # S_FORUM_OPTIONS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_FORUM_OPTIONS}

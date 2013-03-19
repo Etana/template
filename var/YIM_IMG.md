@@ -1,7 +1,7 @@
 # YIM_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {YIM_IMG}

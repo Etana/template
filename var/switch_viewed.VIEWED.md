@@ -1,7 +1,7 @@
 # switch_viewed.VIEWED
 
 
-Attribut de [switch_viewed](switch_viewed.md#readme).
+Attribut de [`<!-- BEGIN switch_viewed -->...<!-- END switch_viewed -->`](switch_viewed.md#readme).
 
 ```html
 <!-- BEGIN switch_viewed -->

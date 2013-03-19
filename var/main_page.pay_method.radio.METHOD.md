@@ -1,7 +1,7 @@
 # main_page.pay_method.radio.METHOD
 
 
-Attribut de [main_page.pay_method.radio](main_page.pay_method.radio.md#readme).
+Attribut de [`<!-- BEGIN radio -->...<!-- END radio -->`](main_page.pay_method.radio.md#readme).
 
 ```html
 <!-- BEGIN main_page -->

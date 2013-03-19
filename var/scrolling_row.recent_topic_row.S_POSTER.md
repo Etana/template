@@ -1,7 +1,7 @@
 # scrolling_row.recent_topic_row.S_POSTER
 
 
-Attribut de [scrolling_row.recent_topic_row](scrolling_row.recent_topic_row.md#readme).
+Attribut de [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](scrolling_row.recent_topic_row.md#readme).
 
 ```html
 <!-- BEGIN scrolling_row -->

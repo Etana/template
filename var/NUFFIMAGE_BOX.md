@@ -1,7 +1,7 @@
 # NUFFIMAGE_BOX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFFIMAGE_BOX}

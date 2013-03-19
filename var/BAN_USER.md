@@ -1,7 +1,7 @@
 # BAN_USER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {BAN_USER}

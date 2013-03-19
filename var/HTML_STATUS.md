@@ -1,7 +1,7 @@
 # HTML_STATUS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {HTML_STATUS}

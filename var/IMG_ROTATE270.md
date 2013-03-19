@@ -1,7 +1,7 @@
 # IMG_ROTATE270
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_ROTATE270}

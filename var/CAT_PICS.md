@@ -1,7 +1,7 @@
 # CAT_PICS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CAT_PICS}

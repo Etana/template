@@ -1,7 +1,7 @@
 # L_GOTO_DOWN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_GOTO_DOWN}

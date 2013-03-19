@@ -1,7 +1,7 @@
 # L_NOTIFY_SUBSCRIPTIONS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NOTIFY_SUBSCRIPTIONS}

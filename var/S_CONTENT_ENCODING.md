@@ -1,7 +1,7 @@
 # S_CONTENT_ENCODING
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_CONTENT_ENCODING}

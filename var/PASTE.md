@@ -1,7 +1,7 @@
 # PASTE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PASTE}

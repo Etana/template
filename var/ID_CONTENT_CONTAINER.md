@@ -1,7 +1,7 @@
 # ID_CONTENT_CONTAINER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ID_CONTENT_CONTAINER}

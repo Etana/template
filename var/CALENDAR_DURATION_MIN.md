@@ -1,7 +1,7 @@
 # CALENDAR_DURATION_MIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CALENDAR_DURATION_MIN}

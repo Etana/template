@@ -1,7 +1,7 @@
 # TOTAL_VOTES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOTAL_VOTES}

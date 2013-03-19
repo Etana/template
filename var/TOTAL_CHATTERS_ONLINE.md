@@ -1,7 +1,7 @@
 # TOTAL_CHATTERS_ONLINE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOTAL_CHATTERS_ONLINE}

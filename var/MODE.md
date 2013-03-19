@@ -1,7 +1,7 @@
 # MODE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MODE}

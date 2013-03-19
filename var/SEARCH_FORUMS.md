@@ -1,7 +1,7 @@
 # SEARCH_FORUMS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SEARCH_FORUMS}

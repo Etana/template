@@ -1,7 +1,7 @@
 # postrow.displayed.profile_field.LABEL
 
 
-Attribut de [postrow.displayed.profile_field](postrow.displayed.profile_field.md#readme).
+Attribut de [`<!-- BEGIN profile_field -->...<!-- END profile_field -->`](postrow.displayed.profile_field.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

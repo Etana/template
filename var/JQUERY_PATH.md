@@ -1,7 +1,7 @@
 # JQUERY_PATH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {JQUERY_PATH}

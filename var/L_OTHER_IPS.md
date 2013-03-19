@@ -1,7 +1,7 @@
 # L_OTHER_IPS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_OTHER_IPS}

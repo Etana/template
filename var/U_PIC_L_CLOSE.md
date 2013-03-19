@@ -1,7 +1,7 @@
 # U_PIC_L_CLOSE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_PIC_L_CLOSE}

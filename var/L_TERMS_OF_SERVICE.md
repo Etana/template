@@ -1,7 +1,7 @@
 # L_TERMS_OF_SERVICE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TERMS_OF_SERVICE}

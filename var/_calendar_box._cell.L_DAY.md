@@ -1,7 +1,7 @@
 # _calendar_box._cell.L_DAY
 
 
-Attribut de [_calendar_box._cell](_calendar_box._cell.md#readme).
+Attribut de [`<!-- BEGIN _cell -->...<!-- END _cell -->`](_calendar_box._cell.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

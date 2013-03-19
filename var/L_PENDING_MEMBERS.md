@@ -1,7 +1,7 @@
 # L_PENDING_MEMBERS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PENDING_MEMBERS}

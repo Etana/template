@@ -1,7 +1,7 @@
 # MESSAGE_FROM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MESSAGE_FROM}

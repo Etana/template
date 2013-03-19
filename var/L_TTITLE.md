@@ -1,7 +1,7 @@
 # L_TTITLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TTITLE}

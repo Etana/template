@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS
 
 
-Attribut de [postrow.displayed.switch_vote_active.switch_vote](postrow.displayed.switch_vote_active.switch_vote.md#readme).
+Attribut de [`<!-- BEGIN switch_vote -->...<!-- END switch_vote -->`](postrow.displayed.switch_vote_active.switch_vote.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

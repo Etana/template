@@ -1,7 +1,7 @@
 # switch_groups_joined.switch_groups_member
 
 
-Attribut de [switch_groups_joined](switch_groups_joined.md#readme).
+Attribut de [`<!-- BEGIN switch_groups_joined -->...<!-- END switch_groups_joined -->`](switch_groups_joined.md#readme).
 
 ```html
 <!-- BEGIN switch_groups_joined -->

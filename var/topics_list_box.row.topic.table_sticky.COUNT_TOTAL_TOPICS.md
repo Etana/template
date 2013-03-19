@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS
 
 
-Attribut de [topics_list_box.row.topic.table_sticky](topics_list_box.row.topic.table_sticky.md#readme).
+Attribut de [`<!-- BEGIN table_sticky -->...<!-- END table_sticky -->`](topics_list_box.row.topic.table_sticky.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

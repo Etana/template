@@ -1,7 +1,7 @@
 # COPY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {COPY}

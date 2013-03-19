@@ -1,7 +1,7 @@
 # PAY_METHOD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PAY_METHOD}

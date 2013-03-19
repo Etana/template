@@ -1,7 +1,7 @@
 # catrow.forumrow.INC_WIDTH_ICON
 
 
-Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
+Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

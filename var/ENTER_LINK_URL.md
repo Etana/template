@@ -1,7 +1,7 @@
 # ENTER_LINK_URL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ENTER_LINK_URL}

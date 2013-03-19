@@ -1,7 +1,7 @@
 # postrow.displayed.L_MINI_POST_ALT
 
 
-Attribut de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

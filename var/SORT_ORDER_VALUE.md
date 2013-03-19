@@ -1,7 +1,7 @@
 # SORT_ORDER_VALUE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SORT_ORDER_VALUE}

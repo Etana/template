@@ -1,7 +1,7 @@
 # L_TOP_POSTERS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TOP_POSTERS}

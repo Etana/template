@@ -1,7 +1,7 @@
 # U_ID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_ID}

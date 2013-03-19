@@ -1,7 +1,7 @@
 # scrolling_row.recent_topic_row.switch_poster.U_POSTER
 
 
-Attribut de [scrolling_row.recent_topic_row.switch_poster](scrolling_row.recent_topic_row.switch_poster.md#readme).
+Attribut de [`<!-- BEGIN switch_poster -->...<!-- END switch_poster -->`](scrolling_row.recent_topic_row.switch_poster.md#readme).
 
 ```html
 <!-- BEGIN scrolling_row -->

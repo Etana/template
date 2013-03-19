@@ -1,7 +1,7 @@
 # PAGE_TITLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PAGE_TITLE}

@@ -1,7 +1,7 @@
 # MY_RULES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MY_RULES}

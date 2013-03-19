@@ -1,7 +1,7 @@
 # pic_pagination.PAGINATION
 
 
-Attribut de [pic_pagination](pic_pagination.md#readme).
+Attribut de [`<!-- BEGIN pic_pagination -->...<!-- END pic_pagination -->`](pic_pagination.md#readme).
 
 ```html
 <!-- BEGIN pic_pagination -->

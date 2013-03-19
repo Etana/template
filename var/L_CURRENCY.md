@@ -1,7 +1,7 @@
 # L_CURRENCY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CURRENCY}

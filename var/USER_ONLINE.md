@@ -1,7 +1,7 @@
 # USER_ONLINE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {USER_ONLINE}

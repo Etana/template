@@ -1,7 +1,7 @@
 # classical_row.recent_topic_row.switch_poster.S_POSTER
 
 
-Attribut de [classical_row.recent_topic_row.switch_poster](classical_row.recent_topic_row.switch_poster.md#readme).
+Attribut de [`<!-- BEGIN switch_poster -->...<!-- END switch_poster -->`](classical_row.recent_topic_row.switch_poster.md#readme).
 
 ```html
 <!-- BEGIN classical_row -->

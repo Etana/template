@@ -1,7 +1,7 @@
 # L_TIME_DEL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TIME_DEL}

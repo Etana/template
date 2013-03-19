@@ -1,7 +1,7 @@
 # UNORDERED_LIST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {UNORDERED_LIST}

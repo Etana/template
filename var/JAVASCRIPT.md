@@ -1,7 +1,7 @@
 # JAVASCRIPT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {JAVASCRIPT}

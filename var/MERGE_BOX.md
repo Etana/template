@@ -1,7 +1,7 @@
 # MERGE_BOX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MERGE_BOX}

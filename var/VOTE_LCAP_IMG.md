@@ -1,7 +1,7 @@
 # VOTE_LCAP_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {VOTE_LCAP_IMG}

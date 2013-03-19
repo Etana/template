@@ -1,7 +1,7 @@
 # L_CONFIRM_CODE_IMPAIRED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CONFIRM_CODE_IMPAIRED}

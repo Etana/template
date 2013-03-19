@@ -1,7 +1,7 @@
 # U_AJAX_PROFILE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_AJAX_PROFILE}

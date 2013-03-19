@@ -1,7 +1,7 @@
 # PIC_SIZE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PIC_SIZE}

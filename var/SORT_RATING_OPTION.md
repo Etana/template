@@ -1,7 +1,7 @@
 # SORT_RATING_OPTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SORT_RATING_OPTION}

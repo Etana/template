@@ -1,7 +1,7 @@
 # IP2
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IP2}

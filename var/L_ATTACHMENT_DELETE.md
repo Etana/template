@@ -1,7 +1,7 @@
 # L_ATTACHMENT_DELETE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ATTACHMENT_DELETE}

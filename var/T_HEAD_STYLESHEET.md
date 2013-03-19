@@ -1,7 +1,7 @@
 # T_HEAD_STYLESHEET
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {T_HEAD_STYLESHEET}

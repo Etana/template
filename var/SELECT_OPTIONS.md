@@ -1,7 +1,7 @@
 # SELECT_OPTIONS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SELECT_OPTIONS}

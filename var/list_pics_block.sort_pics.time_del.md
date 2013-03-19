@@ -1,7 +1,7 @@
 # list_pics_block.sort_pics.time_del
 
 
-Attribut de [list_pics_block.sort_pics](list_pics_block.sort_pics.md#readme).
+Attribut de [`<!-- BEGIN sort_pics -->...<!-- END sort_pics -->`](list_pics_block.sort_pics.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

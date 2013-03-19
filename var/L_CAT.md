@@ -1,7 +1,7 @@
 # L_CAT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CAT}

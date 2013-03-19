@@ -1,7 +1,7 @@
 # L_MOD_TOOLS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MOD_TOOLS}

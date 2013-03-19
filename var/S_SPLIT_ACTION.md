@@ -1,7 +1,7 @@
 # S_SPLIT_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_SPLIT_ACTION}

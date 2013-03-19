@@ -1,7 +1,7 @@
 # POST_DAY_STATS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POST_DAY_STATS}

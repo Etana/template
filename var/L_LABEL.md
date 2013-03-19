@@ -1,7 +1,7 @@
 # L_LABEL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_LABEL}

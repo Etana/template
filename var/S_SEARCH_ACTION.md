@@ -1,7 +1,7 @@
 # S_SEARCH_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_SEARCH_ACTION}

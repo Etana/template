@@ -1,7 +1,7 @@
 # OPTIONSITEMS_CLOSE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {OPTIONSITEMS_CLOSE}

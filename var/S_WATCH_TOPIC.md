@@ -1,7 +1,7 @@
 # S_WATCH_TOPIC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_WATCH_TOPIC}

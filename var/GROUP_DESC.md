@@ -1,7 +1,7 @@
 # GROUP_DESC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {GROUP_DESC}

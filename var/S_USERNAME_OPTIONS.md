@@ -1,7 +1,7 @@
 # S_USERNAME_OPTIONS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_USERNAME_OPTIONS}

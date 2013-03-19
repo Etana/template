@@ -1,7 +1,7 @@
 # S_ALBUM_ROOT_CATEGORY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_ALBUM_ROOT_CATEGORY}

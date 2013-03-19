@@ -1,7 +1,7 @@
 # google_analytics_code.google_analytics_code_bis
 
 
-Attribut de [google_analytics_code](google_analytics_code.md#readme).
+Attribut de [`<!-- BEGIN google_analytics_code -->...<!-- END google_analytics_code -->`](google_analytics_code.md#readme).
 
 ```html
 <!-- BEGIN google_analytics_code -->

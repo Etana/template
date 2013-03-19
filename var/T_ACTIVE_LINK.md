@@ -1,7 +1,7 @@
 # T_ACTIVE_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {T_ACTIVE_LINK}

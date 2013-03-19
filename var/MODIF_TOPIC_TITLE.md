@@ -1,7 +1,7 @@
 # MODIF_TOPIC_TITLE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MODIF_TOPIC_TITLE}

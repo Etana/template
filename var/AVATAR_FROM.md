@@ -1,7 +1,7 @@
 # AVATAR_FROM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {AVATAR_FROM}

@@ -1,7 +1,7 @@
 # VIEW_MP_NO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {VIEW_MP_NO}

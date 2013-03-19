@@ -1,7 +1,7 @@
 # switch_roll_dice_old.L_BBCODE_HELP
 
 
-Attribut de [switch_roll_dice_old](switch_roll_dice_old.md#readme).
+Attribut de [`<!-- BEGIN switch_roll_dice_old -->...<!-- END switch_roll_dice_old -->`](switch_roll_dice_old.md#readme).
 
 ```html
 <!-- BEGIN switch_roll_dice_old -->

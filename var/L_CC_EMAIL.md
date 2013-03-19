@@ -1,7 +1,7 @@
 # L_CC_EMAIL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CC_EMAIL}

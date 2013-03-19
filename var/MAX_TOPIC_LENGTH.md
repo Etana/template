@@ -1,7 +1,7 @@
 # MAX_TOPIC_LENGTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MAX_TOPIC_LENGTH}

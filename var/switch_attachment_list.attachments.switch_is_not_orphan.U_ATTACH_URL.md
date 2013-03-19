@@ -1,7 +1,7 @@
 # switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL
 
 
-Attribut de [switch_attachment_list.attachments.switch_is_not_orphan](switch_attachment_list.attachments.switch_is_not_orphan.md#readme).
+Attribut de [`<!-- BEGIN switch_is_not_orphan -->...<!-- END switch_is_not_orphan -->`](switch_attachment_list.attachments.switch_is_not_orphan.md#readme).
 
 ```html
 <!-- BEGIN switch_attachment_list -->

@@ -1,7 +1,7 @@
 # switch_user_login_form_footer.switch_fb_connect
 
 
-Attribut de [switch_user_login_form_footer](switch_user_login_form_footer.md#readme).
+Attribut de [`<!-- BEGIN switch_user_login_form_footer -->...<!-- END switch_user_login_form_footer -->`](switch_user_login_form_footer.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_footer -->

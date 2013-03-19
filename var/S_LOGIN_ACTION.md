@@ -1,7 +1,7 @@
 # S_LOGIN_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_LOGIN_ACTION}

@@ -1,7 +1,7 @@
 # V_MESSAGE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_MESSAGE}

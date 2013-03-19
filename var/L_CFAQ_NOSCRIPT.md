@@ -1,7 +1,7 @@
 # L_CFAQ_NOSCRIPT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CFAQ_NOSCRIPT}

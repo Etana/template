@@ -1596,8 +1596,6 @@
 * [memberrow.U_VIEWPROFILE](var/memberrow.U_VIEWPROFILE.md#readme)
 * [memberrow.WWW_IMG](var/memberrow.WWW_IMG.md#readme)
 * [memberrow.switch_td_group](var/memberrow.switch_td_group.md#readme)
-* [message_admin_index.message_admin_titre](var/message_admin_index.message_admin_titre.md#readme)
-* [message_admin_index.message_admin_txt](var/message_admin_index.message_admin_txt.md#readme)
 * [moderation_panel](var/moderation_panel.md#readme)
 * [moderation_panel.U_YOUR_PERSONAL_MODERATE](var/moderation_panel.U_YOUR_PERSONAL_MODERATE.md#readme)
 * [moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW](var/moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW.md#readme)

@@ -1,7 +1,7 @@
 # switch_attachment_list.attachments.switch_is_orphan.FILENAME
 
 
-Attribut de [switch_attachment_list.attachments.switch_is_orphan](switch_attachment_list.attachments.switch_is_orphan.md#readme).
+Attribut de [`<!-- BEGIN switch_is_orphan -->...<!-- END switch_is_orphan -->`](switch_attachment_list.attachments.switch_is_orphan.md#readme).
 
 ```html
 <!-- BEGIN switch_attachment_list -->

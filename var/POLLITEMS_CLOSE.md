@@ -1,7 +1,7 @@
 # POLLITEMS_CLOSE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POLLITEMS_CLOSE}

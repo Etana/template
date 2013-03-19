@@ -1,7 +1,7 @@
 # postrow.displayed.COUNT_POSTS
 
 
-Attribut de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

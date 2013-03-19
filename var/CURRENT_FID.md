@@ -1,7 +1,7 @@
 # CURRENT_FID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CURRENT_FID}

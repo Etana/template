@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.restore_row
 
 
-Attribut de [list_pics_block.recent_pics](list_pics_block.recent_pics.md#readme).
+Attribut de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](list_pics_block.recent_pics.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

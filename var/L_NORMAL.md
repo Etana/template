@@ -1,7 +1,7 @@
 # L_NORMAL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NORMAL}

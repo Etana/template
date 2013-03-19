@@ -1,7 +1,7 @@
 # NUFF_PIXELATE_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFF_PIXELATE_CHECKED}

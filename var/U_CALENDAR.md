@@ -1,7 +1,7 @@
 # U_CALENDAR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_CALENDAR}

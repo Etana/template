@@ -1,7 +1,7 @@
 # post_row.saut
 
 
-Attribut de [post_row](post_row.md#readme).
+Attribut de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post_row.md#readme).
 
 ```html
 <!-- BEGIN post_row -->

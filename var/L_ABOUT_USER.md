@@ -1,7 +1,7 @@
 # L_ABOUT_USER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ABOUT_USER}

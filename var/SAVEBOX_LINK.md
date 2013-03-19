@@ -1,7 +1,7 @@
 # SAVEBOX_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SAVEBOX_LINK}

@@ -1,7 +1,7 @@
 # TOPICS_LIST_BOX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOPICS_LIST_BOX}

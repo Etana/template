@@ -1,7 +1,7 @@
 # L_THIS_POST_IP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_THIS_POST_IP}

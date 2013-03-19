@@ -1,7 +1,7 @@
 # L_USER_SELECT_VALUE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_USER_SELECT_VALUE}

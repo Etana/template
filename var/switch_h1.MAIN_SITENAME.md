@@ -1,7 +1,7 @@
 # switch_h1.MAIN_SITENAME
 
 
-Attribut de [switch_h1](switch_h1.md#readme).
+Attribut de [`<!-- BEGIN switch_h1 -->...<!-- END switch_h1 -->`](switch_h1.md#readme).
 
 ```html
 <!-- BEGIN switch_h1 -->

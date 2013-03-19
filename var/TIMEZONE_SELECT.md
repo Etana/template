@@ -1,7 +1,7 @@
 # TIMEZONE_SELECT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TIMEZONE_SELECT}

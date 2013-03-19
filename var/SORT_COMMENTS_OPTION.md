@@ -1,7 +1,7 @@
 # SORT_COMMENTS_OPTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SORT_COMMENTS_OPTION}

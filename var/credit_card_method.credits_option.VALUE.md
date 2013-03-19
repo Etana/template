@@ -1,7 +1,7 @@
 # credit_card_method.credits_option.VALUE
 
 
-Attribut de [credit_card_method.credits_option](credit_card_method.credits_option.md#readme).
+Attribut de [`<!-- BEGIN credits_option -->...<!-- END credits_option -->`](credit_card_method.credits_option.md#readme).
 
 ```html
 <!-- BEGIN credit_card_method -->

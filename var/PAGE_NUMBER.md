@@ -1,7 +1,7 @@
 # PAGE_NUMBER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PAGE_NUMBER}

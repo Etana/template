@@ -1,7 +1,7 @@
 # U_POSTING
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_POSTING}

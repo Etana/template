@@ -1,7 +1,7 @@
 # HOSTING_JS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {HOSTING_JS}

@@ -1,7 +1,7 @@
 # switch_ticker.ticker_row.ELEMENT
 
 
-Attribut de [switch_ticker.ticker_row](switch_ticker.ticker_row.md#readme).
+Attribut de [`<!-- BEGIN ticker_row -->...<!-- END ticker_row -->`](switch_ticker.ticker_row.md#readme).
 
 ```html
 <!-- BEGIN switch_ticker -->

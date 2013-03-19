@@ -1,7 +1,7 @@
 # L_MOST_ACTIVE_STARTERS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MOST_ACTIVE_STARTERS}

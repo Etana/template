@@ -1,7 +1,7 @@
 # listrow.ROW_CLASS
 
 
-Attribut de [listrow](listrow.md#readme).
+Attribut de [`<!-- BEGIN listrow -->...<!-- END listrow -->`](listrow.md#readme).
 
 ```html
 <!-- BEGIN listrow -->

@@ -1,7 +1,7 @@
 # STRONG_LEVEL_PWD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {STRONG_LEVEL_PWD}

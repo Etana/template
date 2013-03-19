@@ -1,7 +1,7 @@
 # L_MARK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MARK}

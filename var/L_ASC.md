@@ -1,7 +1,7 @@
 # L_ASC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ASC}

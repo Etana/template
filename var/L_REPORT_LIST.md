@@ -1,7 +1,7 @@
 # L_REPORT_LIST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_REPORT_LIST}

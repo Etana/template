@@ -1,7 +1,7 @@
 # birthday_list_box.row
 
 
-Attribut de [birthday_list_box](birthday_list_box.md#readme).
+Attribut de [`<!-- BEGIN birthday_list_box -->...<!-- END birthday_list_box -->`](birthday_list_box.md#readme).
 
 ```html
 <!-- BEGIN birthday_list_box -->

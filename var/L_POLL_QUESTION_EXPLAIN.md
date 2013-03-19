@@ -1,7 +1,7 @@
 # L_POLL_QUESTION_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_POLL_QUESTION_EXPLAIN}

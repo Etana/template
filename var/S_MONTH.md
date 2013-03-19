@@ -1,7 +1,7 @@
 # S_MONTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_MONTH}

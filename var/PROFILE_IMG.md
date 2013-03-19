@@ -1,7 +1,7 @@
 # PROFILE_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PROFILE_IMG}

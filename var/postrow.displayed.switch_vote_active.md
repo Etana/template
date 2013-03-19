@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active
 
 
-Attribut de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

@@ -1,7 +1,7 @@
 # L_ATTACH_SIGNATURE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ATTACH_SIGNATURE}

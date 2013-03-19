@@ -1,7 +1,7 @@
 # NEWSLETTER_YES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NEWSLETTER_YES}

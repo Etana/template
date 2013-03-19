@@ -1,7 +1,7 @@
 # _calendar_box.switch_not_anonymous
 
 
-Attribut de [_calendar_box](_calendar_box.md#readme).
+Attribut de [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](_calendar_box.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

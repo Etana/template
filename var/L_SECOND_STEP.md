@@ -1,7 +1,7 @@
 # L_SECOND_STEP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SECOND_STEP}

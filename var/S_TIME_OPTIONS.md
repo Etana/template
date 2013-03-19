@@ -1,7 +1,7 @@
 # S_TIME_OPTIONS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_TIME_OPTIONS}

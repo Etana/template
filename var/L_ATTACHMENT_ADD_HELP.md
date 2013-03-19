@@ -1,7 +1,7 @@
 # L_ATTACHMENT_ADD_HELP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ATTACHMENT_ADD_HELP}

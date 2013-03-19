@@ -1,7 +1,7 @@
 # SLIDESHOW_DELAY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SLIDESHOW_DELAY}

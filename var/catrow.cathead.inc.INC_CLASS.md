@@ -1,7 +1,7 @@
 # catrow.cathead.inc.INC_CLASS
 
 
-Attribut de [catrow.cathead.inc](catrow.cathead.inc.md#readme).
+Attribut de [`<!-- BEGIN inc -->...<!-- END inc -->`](catrow.cathead.inc.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

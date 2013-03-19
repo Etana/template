@@ -1,7 +1,7 @@
 # PIC_RATING
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PIC_RATING}

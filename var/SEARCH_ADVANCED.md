@@ -1,7 +1,7 @@
 # SEARCH_ADVANCED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SEARCH_ADVANCED}

@@ -1,7 +1,7 @@
 # U_USERGROUP_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_USERGROUP_ACTION}

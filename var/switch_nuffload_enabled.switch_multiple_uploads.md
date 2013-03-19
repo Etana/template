@@ -1,7 +1,7 @@
 # switch_nuffload_enabled.switch_multiple_uploads
 
 
-Attribut de [switch_nuffload_enabled](switch_nuffload_enabled.md#readme).
+Attribut de [`<!-- BEGIN switch_nuffload_enabled -->...<!-- END switch_nuffload_enabled -->`](switch_nuffload_enabled.md#readme).
 
 ```html
 <!-- BEGIN switch_nuffload_enabled -->

@@ -1,7 +1,7 @@
 # CLASS_ROW2
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CLASS_ROW2}

@@ -1,7 +1,7 @@
 # credit_card_method.switch_select_currency.select_currency
 
 
-Attribut de [credit_card_method.switch_select_currency](credit_card_method.switch_select_currency.md#readme).
+Attribut de [`<!-- BEGIN switch_select_currency -->...<!-- END switch_select_currency -->`](credit_card_method.switch_select_currency.md#readme).
 
 ```html
 <!-- BEGIN credit_card_method -->

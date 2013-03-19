@@ -1,7 +1,7 @@
 # S_POST_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_POST_ACTION}

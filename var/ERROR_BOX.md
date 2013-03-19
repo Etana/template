@@ -1,7 +1,7 @@
 # ERROR_BOX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ERROR_BOX}

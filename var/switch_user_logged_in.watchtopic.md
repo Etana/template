@@ -1,7 +1,7 @@
 # switch_user_logged_in.watchtopic
 
 
-Attribut de [switch_user_logged_in](switch_user_logged_in.md#readme).
+Attribut de [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](switch_user_logged_in.md#readme).
 
 ```html
 <!-- BEGIN switch_user_logged_in -->

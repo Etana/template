@@ -1,7 +1,7 @@
 # U_MOD_VIEWPROFILE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_MOD_VIEWPROFILE}

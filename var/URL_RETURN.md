@@ -1,7 +1,7 @@
 # URL_RETURN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {URL_RETURN}

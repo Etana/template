@@ -1,7 +1,7 @@
 # S_HTML_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_HTML_CHECKED}

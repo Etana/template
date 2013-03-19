@@ -1,7 +1,7 @@
 # NAMESPACE_BBCODE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NAMESPACE_BBCODE}

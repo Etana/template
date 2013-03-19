@@ -1,7 +1,7 @@
 # L_MODIFY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MODIFY}

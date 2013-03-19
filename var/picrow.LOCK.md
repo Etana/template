@@ -1,7 +1,7 @@
 # picrow.LOCK
 
 
-Attribut de [picrow](picrow.md#readme).
+Attribut de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](picrow.md#readme).
 
 ```html
 <!-- BEGIN picrow -->

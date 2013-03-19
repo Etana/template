@@ -1,7 +1,7 @@
 # pagination.PAGINATION
 
 
-Attribut de [pagination](pagination.md#readme).
+Attribut de [`<!-- BEGIN pagination -->...<!-- END pagination -->`](pagination.md#readme).
 
 ```html
 <!-- BEGIN pagination -->

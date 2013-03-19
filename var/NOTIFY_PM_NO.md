@@ -1,7 +1,7 @@
 # NOTIFY_PM_NO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NOTIFY_PM_NO}

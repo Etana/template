@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.single_selection
 
 
-Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
+Attribut de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.topic.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

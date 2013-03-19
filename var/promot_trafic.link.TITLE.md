@@ -1,7 +1,7 @@
 # promot_trafic.link.TITLE
 
 
-Attribut de [promot_trafic.link](promot_trafic.link.md#readme).
+Attribut de [`<!-- BEGIN link -->...<!-- END link -->`](promot_trafic.link.md#readme).
 
 ```html
 <!-- BEGIN promot_trafic -->

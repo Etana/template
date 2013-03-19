@@ -1,7 +1,7 @@
 # L_DISPLAY_RESULTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_DISPLAY_RESULTS}

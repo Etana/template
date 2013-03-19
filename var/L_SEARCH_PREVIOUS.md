@@ -1,7 +1,7 @@
 # L_SEARCH_PREVIOUS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SEARCH_PREVIOUS}

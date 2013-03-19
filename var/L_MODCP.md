@@ -1,7 +1,7 @@
 # L_MODCP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MODCP}

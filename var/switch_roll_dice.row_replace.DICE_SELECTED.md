@@ -1,7 +1,7 @@
 # switch_roll_dice.row_replace.DICE_SELECTED
 
 
-Attribut de [switch_roll_dice.row_replace](switch_roll_dice.row_replace.md#readme).
+Attribut de [`<!-- BEGIN row_replace -->...<!-- END row_replace -->`](switch_roll_dice.row_replace.md#readme).
 
 ```html
 <!-- BEGIN switch_roll_dice -->

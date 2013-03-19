@@ -1,7 +1,7 @@
 # NB_MESSAGES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NB_MESSAGES}

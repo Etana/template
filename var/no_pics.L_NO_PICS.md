@@ -1,7 +1,7 @@
 # no_pics.L_NO_PICS
 
 
-Attribut de [no_pics](no_pics.md#readme).
+Attribut de [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](no_pics.md#readme).
 
 ```html
 <!-- BEGIN no_pics -->

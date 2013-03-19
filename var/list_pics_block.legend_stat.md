@@ -1,7 +1,7 @@
 # list_pics_block.legend_stat
 
 
-Attribut de [list_pics_block](list_pics_block.md#readme).
+Attribut de [`<!-- BEGIN list_pics_block -->...<!-- END list_pics_block -->`](list_pics_block.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

@@ -1,7 +1,7 @@
 # MOD_PM_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MOD_PM_IMG}

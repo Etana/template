@@ -1,7 +1,7 @@
 # switch_attachment_list.attachments.ATTACH_ID
 
 
-Attribut de [switch_attachment_list.attachments](switch_attachment_list.attachments.md#readme).
+Attribut de [`<!-- BEGIN attachments -->...<!-- END attachments -->`](switch_attachment_list.attachments.md#readme).
 
 ```html
 <!-- BEGIN switch_attachment_list -->

@@ -1,7 +1,7 @@
 # topicrow.TOPIC_FOLDER_IMG
 
 
-Attribut de [topicrow](topicrow.md#readme).
+Attribut de [`<!-- BEGIN topicrow -->...<!-- END topicrow -->`](topicrow.md#readme).
 
 ```html
 <!-- BEGIN topicrow -->

@@ -1,7 +1,7 @@
 # CLOSE_POLL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CLOSE_POLL}

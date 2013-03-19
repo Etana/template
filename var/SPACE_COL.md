@@ -1,7 +1,7 @@
 # SPACE_COL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SPACE_COL}

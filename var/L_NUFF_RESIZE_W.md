@@ -1,7 +1,7 @@
 # L_NUFF_RESIZE_W
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NUFF_RESIZE_W}

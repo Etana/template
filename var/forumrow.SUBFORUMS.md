@@ -1,7 +1,7 @@
 # forumrow.SUBFORUMS
 
 
-Attribut de [forumrow](forumrow.md#readme).
+Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](forumrow.md#readme).
 
 ```html
 <!-- BEGIN forumrow -->

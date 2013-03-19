@@ -1,7 +1,7 @@
 # IMG_SEPIA
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_SEPIA}

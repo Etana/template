@@ -1,7 +1,7 @@
 # PIC_STYLE_CLOSE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PIC_STYLE_CLOSE}

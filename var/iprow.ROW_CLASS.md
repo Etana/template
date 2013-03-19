@@ -1,7 +1,7 @@
 # iprow.ROW_CLASS
 
 
-Attribut de [iprow](iprow.md#readme).
+Attribut de [`<!-- BEGIN iprow -->...<!-- END iprow -->`](iprow.md#readme).
 
 ```html
 <!-- BEGIN iprow -->

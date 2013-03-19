@@ -1,7 +1,7 @@
 # index_pics_block.sort_albums
 
 
-Attribut de [index_pics_block](index_pics_block.md#readme).
+Attribut de [`<!-- BEGIN index_pics_block -->...<!-- END index_pics_block -->`](index_pics_block.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->

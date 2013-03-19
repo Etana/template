@@ -1,7 +1,7 @@
 # DYNAMIC_GENERATION_STATUS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DYNAMIC_GENERATION_STATUS}

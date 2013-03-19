@@ -1,7 +1,7 @@
 # TODAY_MONTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TODAY_MONTH}

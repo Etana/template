@@ -1,7 +1,7 @@
 # iprow.U_LOOKUP_IP
 
 
-Attribut de [iprow](iprow.md#readme).
+Attribut de [`<!-- BEGIN iprow -->...<!-- END iprow -->`](iprow.md#readme).
 
 ```html
 <!-- BEGIN iprow -->

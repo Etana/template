@@ -1,7 +1,7 @@
 # switch_exif_enabled.exif_switch
 
 
-Attribut de [switch_exif_enabled](switch_exif_enabled.md#readme).
+Attribut de [`<!-- BEGIN switch_exif_enabled -->...<!-- END switch_exif_enabled -->`](switch_exif_enabled.md#readme).
 
 ```html
 <!-- BEGIN switch_exif_enabled -->

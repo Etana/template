@@ -1,7 +1,7 @@
 # L_MESSAGE_BODY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MESSAGE_BODY}

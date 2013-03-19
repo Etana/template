@@ -1,7 +1,7 @@
 # RULE_MSG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {RULE_MSG}

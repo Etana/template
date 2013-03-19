@@ -1,7 +1,7 @@
 # T_BODY_BGCOLOR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {T_BODY_BGCOLOR}

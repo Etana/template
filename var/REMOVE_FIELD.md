@@ -1,7 +1,7 @@
 # REMOVE_FIELD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {REMOVE_FIELD}

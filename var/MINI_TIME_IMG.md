@@ -1,7 +1,7 @@
 # MINI_TIME_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MINI_TIME_IMG}

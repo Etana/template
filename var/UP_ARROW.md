@@ -1,7 +1,7 @@
 # UP_ARROW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {UP_ARROW}

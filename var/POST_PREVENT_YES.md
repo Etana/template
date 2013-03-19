@@ -1,7 +1,7 @@
 # POST_PREVENT_YES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POST_PREVENT_YES}

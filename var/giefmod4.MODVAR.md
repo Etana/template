@@ -1,7 +1,7 @@
 # giefmod4.MODVAR
 
 
-Attribut de [giefmod4](giefmod4.md#readme).
+Attribut de [`<!-- BEGIN giefmod4 -->...<!-- END giefmod4 -->`](giefmod4.md#readme).
 
 ```html
 <!-- BEGIN giefmod4 -->

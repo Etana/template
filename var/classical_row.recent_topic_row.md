@@ -1,7 +1,7 @@
 # classical_row.recent_topic_row
 
 
-Attribut de [classical_row](classical_row.md#readme).
+Attribut de [`<!-- BEGIN classical_row -->...<!-- END classical_row -->`](classical_row.md#readme).
 
 ```html
 <!-- BEGIN classical_row -->

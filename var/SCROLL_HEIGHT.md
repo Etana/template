@@ -1,7 +1,7 @@
 # SCROLL_HEIGHT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SCROLL_HEIGHT}

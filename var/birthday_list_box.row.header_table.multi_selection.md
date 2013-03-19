@@ -1,7 +1,7 @@
 # birthday_list_box.row.header_table.multi_selection
 
 
-Attribut de [birthday_list_box.row.header_table](birthday_list_box.row.header_table.md#readme).
+Attribut de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](birthday_list_box.row.header_table.md#readme).
 
 ```html
 <!-- BEGIN birthday_list_box -->

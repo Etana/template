@@ -1,7 +1,7 @@
 # reg_user_row.ROW_CLASS
 
 
-Attribut de [reg_user_row](reg_user_row.md#readme).
+Attribut de [`<!-- BEGIN reg_user_row -->...<!-- END reg_user_row -->`](reg_user_row.md#readme).
 
 ```html
 <!-- BEGIN reg_user_row -->

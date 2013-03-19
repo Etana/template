@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics.recent_detail2
 
 
-Attribut de [build_categories_block.recent_pics](build_categories_block.recent_pics.md#readme).
+Attribut de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](build_categories_block.recent_pics.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->

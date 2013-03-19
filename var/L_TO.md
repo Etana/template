@@ -1,7 +1,7 @@
 # L_TO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TO}

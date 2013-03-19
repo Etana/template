@@ -1,7 +1,7 @@
 # L_PRIVATE_MSG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PRIVATE_MSG}

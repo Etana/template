@@ -1,7 +1,7 @@
 # switch_privmsg.switch_username.USERNAME
 
 
-Attribut de [switch_privmsg.switch_username](switch_privmsg.switch_username.md#readme).
+Attribut de [`<!-- BEGIN switch_username -->...<!-- END switch_username -->`](switch_privmsg.switch_username.md#readme).
 
 ```html
 <!-- BEGIN switch_privmsg -->

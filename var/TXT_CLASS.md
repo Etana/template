@@ -1,7 +1,7 @@
 # TXT_CLASS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TXT_CLASS}

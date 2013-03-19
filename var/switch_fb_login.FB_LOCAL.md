@@ -1,7 +1,7 @@
 # switch_fb_login.FB_LOCAL
 
 
-Attribut de [switch_fb_login](switch_fb_login.md#readme).
+Attribut de [`<!-- BEGIN switch_fb_login -->...<!-- END switch_fb_login -->`](switch_fb_login.md#readme).
 
 ```html
 <!-- BEGIN switch_fb_login -->

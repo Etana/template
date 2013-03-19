@@ -1,7 +1,7 @@
 # TIT_LIST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TIT_LIST}

@@ -1,7 +1,7 @@
 # L_ALLOWED_ZIP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ALLOWED_ZIP}

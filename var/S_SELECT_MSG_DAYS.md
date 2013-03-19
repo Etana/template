@@ -1,7 +1,7 @@
 # S_SELECT_MSG_DAYS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_SELECT_MSG_DAYS}

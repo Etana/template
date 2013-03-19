@@ -1,7 +1,7 @@
 # L_SOCIAL_BOOKMARKING
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SOCIAL_BOOKMARKING}

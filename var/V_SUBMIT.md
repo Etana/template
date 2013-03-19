@@ -1,7 +1,7 @@
 # V_SUBMIT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_SUBMIT}

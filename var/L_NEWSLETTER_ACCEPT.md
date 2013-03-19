@@ -1,7 +1,7 @@
 # L_NEWSLETTER_ACCEPT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NEWSLETTER_ACCEPT}

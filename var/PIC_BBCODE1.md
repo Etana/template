@@ -1,7 +1,7 @@
 # PIC_BBCODE1
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PIC_BBCODE1}

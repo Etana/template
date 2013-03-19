@@ -1,7 +1,7 @@
 # U_SHOWPAGE_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_SHOWPAGE_ACTION}

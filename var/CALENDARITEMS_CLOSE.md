@@ -1,7 +1,7 @@
 # CALENDARITEMS_CLOSE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CALENDARITEMS_CLOSE}

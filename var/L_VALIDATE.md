@@ -1,7 +1,7 @@
 # L_VALIDATE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_VALIDATE}

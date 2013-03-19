@@ -1,7 +1,7 @@
 # S_ALBUM_JUMPBOX_USERS_GALLERY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_ALBUM_JUMPBOX_USERS_GALLERY}

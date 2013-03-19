@@ -1,7 +1,7 @@
 # NAV_CAT_DESC_SECOND
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NAV_CAT_DESC_SECOND}

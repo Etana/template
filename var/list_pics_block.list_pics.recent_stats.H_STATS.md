@@ -1,7 +1,7 @@
 # list_pics_block.list_pics.recent_stats.H_STATS
 
 
-Attribut de [list_pics_block.list_pics.recent_stats](list_pics_block.list_pics.recent_stats.md#readme).
+Attribut de [`<!-- BEGIN recent_stats -->...<!-- END recent_stats -->`](list_pics_block.list_pics.recent_stats.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

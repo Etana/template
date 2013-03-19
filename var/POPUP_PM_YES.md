@@ -1,7 +1,7 @@
 # POPUP_PM_YES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POPUP_PM_YES}

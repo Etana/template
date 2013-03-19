@@ -1,7 +1,7 @@
 # DO_NOT_AGREE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DO_NOT_AGREE}

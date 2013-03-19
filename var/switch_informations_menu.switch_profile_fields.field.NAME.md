@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_profile_fields.field.NAME
 
 
-Attribut de [switch_informations_menu.switch_profile_fields.field](switch_informations_menu.switch_profile_fields.field.md#readme).
+Attribut de [`<!-- BEGIN field -->...<!-- END field -->`](switch_informations_menu.switch_profile_fields.field.md#readme).
 
 ```html
 <!-- BEGIN switch_informations_menu -->

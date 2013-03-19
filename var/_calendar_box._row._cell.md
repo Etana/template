@@ -1,7 +1,7 @@
 # _calendar_box._row._cell
 
 
-Attribut de [_calendar_box._row](_calendar_box._row.md#readme).
+Attribut de [`<!-- BEGIN _row -->...<!-- END _row -->`](_calendar_box._row.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

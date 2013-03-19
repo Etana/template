@@ -1,7 +1,7 @@
 # display_infos.rate_switch
 
 
-Attribut de [display_infos](display_infos.md#readme).
+Attribut de [`<!-- BEGIN display_infos -->...<!-- END display_infos -->`](display_infos.md#readme).
 
 ```html
 <!-- BEGIN display_infos -->

@@ -1,7 +1,7 @@
 # L_LAST_UPDATE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_LAST_UPDATE}

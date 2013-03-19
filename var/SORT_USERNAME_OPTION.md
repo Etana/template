@@ -1,7 +1,7 @@
 # SORT_USERNAME_OPTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SORT_USERNAME_OPTION}

@@ -1,7 +1,7 @@
 # L_MAX_LENGTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MAX_LENGTH}

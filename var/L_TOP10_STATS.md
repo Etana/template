@@ -1,7 +1,7 @@
 # L_TOP10_STATS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TOP10_STATS}

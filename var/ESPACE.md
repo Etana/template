@@ -1,7 +1,7 @@
 # ESPACE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ESPACE}

@@ -1,7 +1,7 @@
 # NAV_DESC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NAV_DESC}

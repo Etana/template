@@ -1,7 +1,7 @@
 # TOPIC_LIST_SCHEDULER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOPIC_LIST_SCHEDULER}

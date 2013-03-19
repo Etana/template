@@ -1,7 +1,7 @@
 # li_row.KEYWORDS
 
 
-Attribut de [li_row](li_row.md#readme).
+Attribut de [`<!-- BEGIN li_row -->...<!-- END li_row -->`](li_row.md#readme).
 
 ```html
 <!-- BEGIN li_row -->

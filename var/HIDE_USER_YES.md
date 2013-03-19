@@ -1,7 +1,7 @@
 # HIDE_USER_YES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {HIDE_USER_YES}

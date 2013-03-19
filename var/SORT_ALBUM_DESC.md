@@ -1,7 +1,7 @@
 # SORT_ALBUM_DESC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SORT_ALBUM_DESC}

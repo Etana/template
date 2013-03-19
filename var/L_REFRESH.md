@@ -1,7 +1,7 @@
 # L_REFRESH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_REFRESH}

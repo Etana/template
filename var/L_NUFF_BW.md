@@ -1,7 +1,7 @@
 # L_NUFF_BW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NUFF_BW}

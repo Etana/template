@@ -1,7 +1,7 @@
 # L_TOP_POST_USERS_WEEK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TOP_POST_USERS_WEEK}

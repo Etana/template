@@ -1,7 +1,7 @@
 # MOD_EMAIL_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MOD_EMAIL_IMG}

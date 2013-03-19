@@ -1,7 +1,7 @@
 # JS_DIR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {JS_DIR}

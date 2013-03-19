@@ -1,7 +1,7 @@
 # row.AUTHOR
 
 
-Attribut de [row](row.md#readme).
+Attribut de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme).
 
 ```html
 <!-- BEGIN row -->

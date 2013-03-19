@@ -1,7 +1,7 @@
 # REPORT_NAVARROW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {REPORT_NAVARROW}

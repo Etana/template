@@ -1,7 +1,7 @@
 # CHATBOX_TOP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CHATBOX_TOP}

@@ -1,7 +1,7 @@
 # L_RECENT_TOPICS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_RECENT_TOPICS}

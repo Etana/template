@@ -1,7 +1,7 @@
 # APPROVAL_BUTTON
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {APPROVAL_BUTTON}

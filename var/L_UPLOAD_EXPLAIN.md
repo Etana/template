@@ -1,7 +1,7 @@
 # L_UPLOAD_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_UPLOAD_EXPLAIN}

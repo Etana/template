@@ -1,7 +1,7 @@
 # L_ADMIN_GRP_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ADMIN_GRP_EXPLAIN}

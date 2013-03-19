@@ -1,7 +1,7 @@
 # L_PM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PM}

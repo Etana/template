@@ -1,7 +1,7 @@
 # L_NOTIFY_POST_PREVENT_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NOTIFY_POST_PREVENT_EXPLAIN}

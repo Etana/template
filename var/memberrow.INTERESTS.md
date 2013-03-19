@@ -1,7 +1,7 @@
 # memberrow.INTERESTS
 
 
-Attribut de [memberrow](memberrow.md#readme).
+Attribut de [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->

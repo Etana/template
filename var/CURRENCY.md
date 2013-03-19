@@ -1,7 +1,7 @@
 # CURRENCY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CURRENCY}

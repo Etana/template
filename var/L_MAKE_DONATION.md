@@ -1,7 +1,7 @@
 # L_MAKE_DONATION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MAKE_DONATION}

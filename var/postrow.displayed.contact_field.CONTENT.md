@@ -1,7 +1,7 @@
 # postrow.displayed.contact_field.CONTENT
 
 
-Attribut de [postrow.displayed.contact_field](postrow.displayed.contact_field.md#readme).
+Attribut de [`<!-- BEGIN contact_field -->...<!-- END contact_field -->`](postrow.displayed.contact_field.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

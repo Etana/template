@@ -1,7 +1,7 @@
 # REMOVE_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {REMOVE_LINK}

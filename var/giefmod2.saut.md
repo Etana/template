@@ -1,7 +1,7 @@
 # giefmod2.saut
 
 
-Attribut de [giefmod2](giefmod2.md#readme).
+Attribut de [`<!-- BEGIN giefmod2 -->...<!-- END giefmod2 -->`](giefmod2.md#readme).
 
 ```html
 <!-- BEGIN giefmod2 -->

@@ -1,7 +1,7 @@
 # PATH_IMG_FA
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PATH_IMG_FA}

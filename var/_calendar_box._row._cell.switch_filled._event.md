@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled._event
 
 
-Attribut de [_calendar_box._row._cell.switch_filled](_calendar_box._row._cell.switch_filled.md#readme).
+Attribut de [`<!-- BEGIN switch_filled -->...<!-- END switch_filled -->`](_calendar_box._row._cell.switch_filled.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

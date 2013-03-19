@@ -1,7 +1,7 @@
 # U_POST_NEW_TOPIC
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_POST_NEW_TOPIC}

@@ -1,7 +1,7 @@
 # MSN_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MSN_IMG}

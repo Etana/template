@@ -1,7 +1,7 @@
 # ENTER_LIST_ITEM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ENTER_LIST_ITEM}

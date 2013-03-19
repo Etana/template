@@ -1,7 +1,7 @@
 # L_ALBUM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ALBUM}

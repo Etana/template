@@ -1,7 +1,7 @@
 # CODE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CODE}

@@ -1,7 +1,7 @@
 # header_cell.L_DAY
 
 
-Attribut de [header_cell](header_cell.md#readme).
+Attribut de [`<!-- BEGIN header_cell -->...<!-- END header_cell -->`](header_cell.md#readme).
 
 ```html
 <!-- BEGIN header_cell -->

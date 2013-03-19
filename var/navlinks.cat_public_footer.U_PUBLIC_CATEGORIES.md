@@ -1,7 +1,7 @@
 # navlinks.cat_public_footer.U_PUBLIC_CATEGORIES
 
 
-Attribut de [navlinks.cat_public_footer](navlinks.cat_public_footer.md#readme).
+Attribut de [`<!-- BEGIN cat_public_footer -->...<!-- END cat_public_footer -->`](navlinks.cat_public_footer.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->

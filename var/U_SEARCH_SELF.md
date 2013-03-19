@@ -1,7 +1,7 @@
 # U_SEARCH_SELF
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_SEARCH_SELF}

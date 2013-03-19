@@ -1,7 +1,7 @@
 # S_PIC_DESC_MAX_LENGTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_PIC_DESC_MAX_LENGTH}

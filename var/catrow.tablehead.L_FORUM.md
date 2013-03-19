@@ -1,7 +1,7 @@
 # catrow.tablehead.L_FORUM
 
 
-Attribut de [catrow.tablehead](catrow.tablehead.md#readme).
+Attribut de [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](catrow.tablehead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

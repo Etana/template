@@ -1,7 +1,7 @@
 # NEWEST_USER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NEWEST_USER}

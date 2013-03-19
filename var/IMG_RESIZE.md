@@ -1,7 +1,7 @@
 # IMG_RESIZE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {IMG_RESIZE}

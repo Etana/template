@@ -1,7 +1,7 @@
 # SOUS_MENU
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SOUS_MENU}

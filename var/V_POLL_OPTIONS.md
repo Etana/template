@@ -1,7 +1,7 @@
 # V_POLL_OPTIONS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_POLL_OPTIONS}

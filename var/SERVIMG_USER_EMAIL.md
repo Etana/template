@@ -1,7 +1,7 @@
 # SERVIMG_USER_EMAIL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SERVIMG_USER_EMAIL}

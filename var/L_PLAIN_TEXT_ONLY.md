@@ -1,7 +1,7 @@
 # L_PLAIN_TEXT_ONLY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PLAIN_TEXT_ONLY}

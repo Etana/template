@@ -1,7 +1,7 @@
 # S_SIGNATURE_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_SIGNATURE_CHECKED}

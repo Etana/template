@@ -1,7 +1,7 @@
 # L_INDEX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_INDEX}

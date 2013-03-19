@@ -1,7 +1,7 @@
 # NUFF_INFRARED_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NUFF_INFRARED_CHECKED}

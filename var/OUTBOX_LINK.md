@@ -1,7 +1,7 @@
 # OUTBOX_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {OUTBOX_LINK}

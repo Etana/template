@@ -1,7 +1,7 @@
 # UPLOAD_FULL_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {UPLOAD_FULL_LINK}

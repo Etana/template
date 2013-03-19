@@ -1,7 +1,7 @@
 # switch_image_resize.IMG_RESIZE_HEIGHT
 
 
-Attribut de [switch_image_resize](switch_image_resize.md#readme).
+Attribut de [`<!-- BEGIN switch_image_resize -->...<!-- END switch_image_resize -->`](switch_image_resize.md#readme).
 
 ```html
 <!-- BEGIN switch_image_resize -->

@@ -1,7 +1,7 @@
 # SITENAME
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SITENAME}

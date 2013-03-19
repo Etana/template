@@ -1,7 +1,7 @@
 # L_PUBLISH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PUBLISH}

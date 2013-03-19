@@ -1,7 +1,7 @@
 # T_VISITED_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {T_VISITED_LINK}

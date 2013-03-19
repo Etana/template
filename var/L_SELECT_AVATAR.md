@@ -1,7 +1,7 @@
 # L_SELECT_AVATAR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SELECT_AVATAR}

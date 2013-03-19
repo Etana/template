@@ -1,7 +1,7 @@
 # S_GROUP_HIDDEN_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_GROUP_HIDDEN_CHECKED}

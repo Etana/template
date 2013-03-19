@@ -1,7 +1,7 @@
 # CUR_PASSWORD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {CUR_PASSWORD}

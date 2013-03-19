@@ -1,7 +1,7 @@
 # S_PRIVMSGS_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_PRIVMSGS_ACTION}

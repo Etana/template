@@ -1,7 +1,7 @@
 # L_TSUBMITER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TSUBMITER}

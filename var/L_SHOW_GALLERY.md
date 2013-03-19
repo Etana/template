@@ -1,7 +1,7 @@
 # L_SHOW_GALLERY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_SHOW_GALLERY}

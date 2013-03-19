@@ -1,7 +1,7 @@
 # userrow.U_SEARCHPOSTS
 
 
-Attribut de [userrow](userrow.md#readme).
+Attribut de [`<!-- BEGIN userrow -->...<!-- END userrow -->`](userrow.md#readme).
 
 ```html
 <!-- BEGIN userrow -->

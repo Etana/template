@@ -1,7 +1,7 @@
 # NAMESPACE_FB
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NAMESPACE_FB}

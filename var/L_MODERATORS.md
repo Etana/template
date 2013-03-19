@@ -1,7 +1,7 @@
 # L_MODERATORS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_MODERATORS}

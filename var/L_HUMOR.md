@@ -1,7 +1,7 @@
 # L_HUMOR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_HUMOR}

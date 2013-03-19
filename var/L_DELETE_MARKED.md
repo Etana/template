@@ -1,7 +1,7 @@
 # L_DELETE_MARKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_DELETE_MARKED}

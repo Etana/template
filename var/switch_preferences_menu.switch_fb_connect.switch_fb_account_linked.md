@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_linked
 
 
-Attribut de [switch_preferences_menu.switch_fb_connect](switch_preferences_menu.switch_fb_connect.md#readme).
+Attribut de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_preferences_menu.switch_fb_connect.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->

@@ -1,7 +1,7 @@
 # SELECT_CAT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SELECT_CAT}

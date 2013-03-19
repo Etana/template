@@ -1,7 +1,7 @@
 # L_HOURS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_HOURS}

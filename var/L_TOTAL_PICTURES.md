@@ -1,7 +1,7 @@
 # L_TOTAL_PICTURES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_TOTAL_PICTURES}

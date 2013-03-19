@@ -1,7 +1,7 @@
 # profile_field.LABEL
 
 
-Attribut de [profile_field](profile_field.md#readme).
+Attribut de [`<!-- BEGIN profile_field -->...<!-- END profile_field -->`](profile_field.md#readme).
 
 ```html
 <!-- BEGIN profile_field -->

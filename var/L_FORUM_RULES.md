@@ -1,7 +1,7 @@
 # L_FORUM_RULES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_FORUM_RULES}

@@ -1,7 +1,7 @@
 # V_CALENDAR_YEAR
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {V_CALENDAR_YEAR}

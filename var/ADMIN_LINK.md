@@ -1,7 +1,7 @@
 # ADMIN_LINK
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ADMIN_LINK}

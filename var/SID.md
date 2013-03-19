@@ -1,7 +1,7 @@
 # SID
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SID}

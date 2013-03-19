@@ -1,7 +1,7 @@
 # PUSERNAME
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PUSERNAME}

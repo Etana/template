@@ -1,7 +1,7 @@
 # faq_block.faq_row
 
 
-Attribut de [faq_block](faq_block.md#readme).
+Attribut de [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](faq_block.md#readme).
 
 ```html
 <!-- BEGIN faq_block -->

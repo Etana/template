@@ -1,7 +1,7 @@
 # POST_PM_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {POST_PM_IMG}

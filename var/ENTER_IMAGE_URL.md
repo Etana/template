@@ -1,7 +1,7 @@
 # ENTER_IMAGE_URL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ENTER_IMAGE_URL}

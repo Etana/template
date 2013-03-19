@@ -1,7 +1,7 @@
 # MUST_GENDER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MUST_GENDER}

@@ -1,7 +1,7 @@
 # JS_MULTIQUOTE_IMG_OFF
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {JS_MULTIQUOTE_IMG_OFF}

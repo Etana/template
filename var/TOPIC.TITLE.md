@@ -1,7 +1,7 @@
 # TOPIC.TITLE
 
 
-Attribut de [TOPIC](TOPIC.md#readme).
+Attribut de [`<!-- BEGIN TOPIC -->...<!-- END TOPIC -->`](TOPIC.md#readme).
 
 ```html
 <!-- BEGIN TOPIC -->

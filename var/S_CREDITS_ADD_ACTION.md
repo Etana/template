@@ -1,7 +1,7 @@
 # S_CREDITS_ADD_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_CREDITS_ADD_ACTION}

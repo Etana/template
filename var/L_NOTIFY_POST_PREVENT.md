@@ -1,7 +1,7 @@
 # L_NOTIFY_POST_PREVENT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_NOTIFY_POST_PREVENT}

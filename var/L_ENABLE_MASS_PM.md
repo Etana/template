@@ -1,7 +1,7 @@
 # L_ENABLE_MASS_PM
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ENABLE_MASS_PM}

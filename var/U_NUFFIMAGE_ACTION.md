@@ -1,7 +1,7 @@
 # U_NUFFIMAGE_ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_NUFFIMAGE_ACTION}

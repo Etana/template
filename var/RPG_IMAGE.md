@@ -1,7 +1,7 @@
 # RPG_IMAGE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {RPG_IMAGE}

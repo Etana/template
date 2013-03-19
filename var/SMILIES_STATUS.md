@@ -1,7 +1,7 @@
 # SMILIES_STATUS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SMILIES_STATUS}

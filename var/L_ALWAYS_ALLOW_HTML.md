@@ -1,7 +1,7 @@
 # L_ALWAYS_ALLOW_HTML
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_ALWAYS_ALLOW_HTML}

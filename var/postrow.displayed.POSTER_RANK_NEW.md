@@ -1,7 +1,7 @@
 # postrow.displayed.POSTER_RANK_NEW
 
 
-Attribut de [postrow.displayed](postrow.displayed.md#readme).
+Attribut de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

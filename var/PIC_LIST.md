@@ -1,7 +1,7 @@
 # PIC_LIST
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {PIC_LIST}

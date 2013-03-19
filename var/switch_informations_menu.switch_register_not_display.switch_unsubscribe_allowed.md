@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed
 
 
-Attribut de [switch_informations_menu.switch_register_not_display](switch_informations_menu.switch_register_not_display.md#readme).
+Attribut de [`<!-- BEGIN switch_register_not_display -->...<!-- END switch_register_not_display -->`](switch_informations_menu.switch_register_not_display.md#readme).
 
 ```html
 <!-- BEGIN switch_informations_menu -->

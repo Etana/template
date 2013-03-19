@@ -1,7 +1,7 @@
 # S_CREATE_EVENT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_CREATE_EVENT}

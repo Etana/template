@@ -1,7 +1,7 @@
 # list_pics_block.list_pics.H_TITLE
 
 
-Attribut de [list_pics_block.list_pics](list_pics_block.list_pics.md#readme).
+Attribut de [`<!-- BEGIN list_pics -->...<!-- END list_pics -->`](list_pics_block.list_pics.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

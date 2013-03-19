@@ -1,7 +1,7 @@
 # SCROLL_DELAY
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SCROLL_DELAY}

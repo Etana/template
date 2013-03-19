@@ -1,7 +1,7 @@
 # ADMINISTRATE_USER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ADMINISTRATE_USER}

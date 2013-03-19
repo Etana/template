@@ -1,7 +1,7 @@
 # ACTION
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ACTION}

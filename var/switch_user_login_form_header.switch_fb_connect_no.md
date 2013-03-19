@@ -1,7 +1,7 @@
 # switch_user_login_form_header.switch_fb_connect_no
 
 
-Attribut de [switch_user_login_form_header](switch_user_login_form_header.md#readme).
+Attribut de [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_user_login_form_header -->`](switch_user_login_form_header.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_header -->

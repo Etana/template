@@ -1,7 +1,7 @@
 # T_BODY_BACKGROUND
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {T_BODY_BACKGROUND}

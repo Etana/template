@@ -1,7 +1,7 @@
 # VIEW_EMAIL_NO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {VIEW_EMAIL_NO}

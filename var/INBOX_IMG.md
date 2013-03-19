@@ -1,7 +1,7 @@
 # INBOX_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {INBOX_IMG}

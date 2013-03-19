@@ -1,7 +1,7 @@
 # switch_on_index.switch_delete_cookies
 
 
-Attribut de [switch_on_index](switch_on_index.md#readme).
+Attribut de [`<!-- BEGIN switch_on_index -->...<!-- END switch_on_index -->`](switch_on_index.md#readme).
 
 ```html
 <!-- BEGIN switch_on_index -->

@@ -1,7 +1,7 @@
 # L_PUBLIC_VIEW_EMAIL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_PUBLIC_VIEW_EMAIL}

@@ -1,7 +1,7 @@
 # L_UNCHECK_ALL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_UNCHECK_ALL}

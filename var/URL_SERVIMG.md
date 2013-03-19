@@ -1,7 +1,7 @@
 # URL_SERVIMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {URL_SERVIMG}

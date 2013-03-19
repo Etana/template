@@ -1,7 +1,7 @@
 # L_FIND_USERNAME
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_FIND_USERNAME}

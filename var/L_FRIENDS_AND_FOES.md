@@ -1,7 +1,7 @@
 # L_FRIENDS_AND_FOES
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_FRIENDS_AND_FOES}

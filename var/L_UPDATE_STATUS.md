@@ -1,7 +1,7 @@
 # L_UPDATE_STATUS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_UPDATE_STATUS}

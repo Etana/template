@@ -1,7 +1,7 @@
 # BIRTHDAY_LIST_SCHEDULER
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {BIRTHDAY_LIST_SCHEDULER}

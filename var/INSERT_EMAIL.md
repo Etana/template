@@ -1,7 +1,7 @@
 # INSERT_EMAIL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {INSERT_EMAIL}

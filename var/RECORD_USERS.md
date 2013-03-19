@@ -1,7 +1,7 @@
 # RECORD_USERS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {RECORD_USERS}

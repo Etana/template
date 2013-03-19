@@ -1,7 +1,7 @@
 # T_BODY_TEXT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {T_BODY_TEXT}

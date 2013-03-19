@@ -1,7 +1,7 @@
 # NAV_SEP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {NAV_SEP}

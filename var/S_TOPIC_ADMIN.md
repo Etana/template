@@ -1,7 +1,7 @@
 # S_TOPIC_ADMIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_TOPIC_ADMIN}

@@ -1,7 +1,7 @@
 # T_BODY_TABLE_WIDTH
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {T_BODY_TABLE_WIDTH}

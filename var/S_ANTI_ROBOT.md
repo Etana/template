@@ -1,7 +1,7 @@
 # S_ANTI_ROBOT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_ANTI_ROBOT}

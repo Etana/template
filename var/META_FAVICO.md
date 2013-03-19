@@ -1,7 +1,7 @@
 # META_FAVICO
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {META_FAVICO}

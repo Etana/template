@@ -1,7 +1,7 @@
 # L_URL
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_URL}

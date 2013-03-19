@@ -1,7 +1,7 @@
 # TABS_LESS_IMG
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TABS_LESS_IMG}

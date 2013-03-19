@@ -1,7 +1,7 @@
 # U_SEND_PASSWORD
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_SEND_PASSWORD}

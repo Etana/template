@@ -1,7 +1,7 @@
 # U_FORUM_INDEX
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_FORUM_INDEX}

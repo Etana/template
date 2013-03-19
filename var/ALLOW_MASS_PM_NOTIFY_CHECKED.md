@@ -1,7 +1,7 @@
 # ALLOW_MASS_PM_NOTIFY_CHECKED
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {ALLOW_MASS_PM_NOTIFY_CHECKED}

@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_report.L_NO_REPORT_MAIL
 
 
-Attribut de [switch_preferences_menu.switch_report](switch_preferences_menu.switch_report.md#readme).
+Attribut de [`<!-- BEGIN switch_report -->...<!-- END switch_report -->`](switch_preferences_menu.switch_report.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->

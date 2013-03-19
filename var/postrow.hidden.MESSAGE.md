@@ -1,7 +1,7 @@
 # postrow.hidden.MESSAGE
 
 
-Attribut de [postrow.hidden](postrow.hidden.md#readme).
+Attribut de [`<!-- BEGIN hidden -->...<!-- END hidden -->`](postrow.hidden.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

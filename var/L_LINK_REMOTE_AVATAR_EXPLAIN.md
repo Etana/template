@@ -1,7 +1,7 @@
 # L_LINK_REMOTE_AVATAR_EXPLAIN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_LINK_REMOTE_AVATAR_EXPLAIN}

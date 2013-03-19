@@ -1,7 +1,7 @@
 # MENU_NOWRAP
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {MENU_NOWRAP}

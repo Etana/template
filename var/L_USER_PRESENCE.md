@@ -1,7 +1,7 @@
 # L_USER_PRESENCE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_USER_PRESENCE}

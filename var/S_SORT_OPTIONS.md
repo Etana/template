@@ -1,7 +1,7 @@
 # S_SORT_OPTIONS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_SORT_OPTIONS}

@@ -1,7 +1,7 @@
 # DOWN_ARROW
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {DOWN_ARROW}

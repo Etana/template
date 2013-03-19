@@ -1,7 +1,7 @@
 # TOPIC_DATE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {TOPIC_DATE}

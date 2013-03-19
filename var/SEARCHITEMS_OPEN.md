@@ -1,7 +1,7 @@
 # SEARCHITEMS_OPEN
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {SEARCHITEMS_OPEN}

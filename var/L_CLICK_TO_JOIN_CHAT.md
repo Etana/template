@@ -1,7 +1,7 @@
 # L_CLICK_TO_JOIN_CHAT
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {L_CLICK_TO_JOIN_CHAT}

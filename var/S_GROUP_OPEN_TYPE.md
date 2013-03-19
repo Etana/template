@@ -1,7 +1,7 @@
 # S_GROUP_OPEN_TYPE
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {S_GROUP_OPEN_TYPE}

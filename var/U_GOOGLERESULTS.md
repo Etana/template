@@ -1,7 +1,7 @@
 # U_GOOGLERESULTS
 
 
-Cette variable est utilisable directement.
+Variable.
 
 ```html
 {U_GOOGLERESULTS}
