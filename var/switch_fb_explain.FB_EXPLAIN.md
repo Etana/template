@@ -9,8 +9,7 @@ Attribut de [switch_fb_explain](switch_fb_explain.md#readme).
 <!-- END switch_fb_explain -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN)
 
 ## Utilisations dans les templates
 

@@ -9,8 +9,7 @@ contenu
 <!-- END paypal_confirm -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/paypal_confirm)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm)
 
 ## Attributs
 * __[`<!-- BEGIN hidden_field -->`](paypal_confirm.hidden_field.md#readme)__

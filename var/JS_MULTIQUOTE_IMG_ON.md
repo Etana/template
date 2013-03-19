@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {JS_MULTIQUOTE_IMG_ON}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/JS_MULTIQUOTE_IMG_ON)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_MULTIQUOTE_IMG_ON)
 
 ## Utilisations dans les templates
 

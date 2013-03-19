@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/jumpbox.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/jumpbox)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/jumpbox)
 
 ## Variables
 

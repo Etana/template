@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/donate.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/donate)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/donate)
 
 ## Variables
 

@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_BY_PAYMENT_EXPLAIN}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_BY_PAYMENT_EXPLAIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_BY_PAYMENT_EXPLAIN)
 
 ## Utilisations dans les templates
 

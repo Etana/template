@@ -9,8 +9,7 @@ contenu
 <!-- END faq_block -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/faq_block)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block)
 
 ## Attributs
 * __[`{faq_block.BLOCK_TITLE}`](faq_block.BLOCK_TITLE.md#readme)__

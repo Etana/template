@@ -5,14 +5,13 @@ Attribut de [memberrow](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->
-<!-- BEGIN memberrow.switch_td_group -->
-contenu
-<!-- END memberrow.switch_td_group -->
+    <!-- BEGIN switch_td_group -->
+    contenu
+    <!-- END switch_td_group -->
 <!-- END memberrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
 
 ## Utilisations dans les templates
 

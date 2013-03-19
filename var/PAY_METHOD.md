@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {PAY_METHOD}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/PAY_METHOD)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAY_METHOD)
 
 ## Utilisations dans les templates
 

@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {META_FB_LIKE}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/META_FB_LIKE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/META_FB_LIKE)
 
 ## Utilisations dans les templates
 

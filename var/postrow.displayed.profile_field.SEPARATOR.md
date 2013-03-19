@@ -13,8 +13,7 @@ Attribut de [postrow.displayed.profile_field](postrow.displayed.profile_field.md
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
 
 ## Utilisations dans les templates
 

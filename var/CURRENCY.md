@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {CURRENCY}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/CURRENCY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/CURRENCY)
 
 ## Utilisations dans les templates
 

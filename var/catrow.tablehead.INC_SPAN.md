@@ -11,8 +11,7 @@ Attribut de [catrow.tablehead](catrow.tablehead.md#readme).
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.tablehead.INC_SPAN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablehead.INC_SPAN)
 
 ## Utilisations dans les templates
 

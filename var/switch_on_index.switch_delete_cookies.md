@@ -5,14 +5,13 @@ Attribut de [switch_on_index](switch_on_index.md#readme).
 
 ```html
 <!-- BEGIN switch_on_index -->
-<!-- BEGIN switch_on_index.switch_delete_cookies -->
-contenu
-<!-- END switch_on_index.switch_delete_cookies -->
+    <!-- BEGIN switch_delete_cookies -->
+    contenu
+    <!-- END switch_delete_cookies -->
 <!-- END switch_on_index -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
 
 ## Attributs
 * __[`{switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}`](switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)__

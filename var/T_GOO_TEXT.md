@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {T_GOO_TEXT}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/T_GOO_TEXT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/T_GOO_TEXT)
 
 ## Utilisations dans les templates
 

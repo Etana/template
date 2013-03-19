@@ -9,8 +9,7 @@ contenu
 <!-- END switch_user_authreply -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_user_authreply)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authreply)
 
 ## Utilisations dans les templates
 

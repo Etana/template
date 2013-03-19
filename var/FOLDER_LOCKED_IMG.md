@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {FOLDER_LOCKED_IMG}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/FOLDER_LOCKED_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/FOLDER_LOCKED_IMG)
 
 ## Utilisations dans les templates
 

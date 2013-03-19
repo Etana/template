@@ -7,16 +7,15 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
-        <!-- BEGIN topics_list_box.row.topic.line_sticky -->
-        contenu
-        <!-- END topics_list_box.row.topic.line_sticky -->
+            <!-- BEGIN line_sticky -->
+            contenu
+            <!-- END line_sticky -->
         <!-- END topic -->
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.line_sticky)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.line_sticky)
 
 ## Utilisations dans les templates
 

@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {AGREE_OVER_13}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/AGREE_OVER_13)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/AGREE_OVER_13)
 
 ## Utilisations dans les templates
 

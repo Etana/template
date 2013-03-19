@@ -9,8 +9,7 @@ contenu
 <!-- END switch_hide_result -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_hide_result)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_hide_result)
 
 ## Utilisations dans les templates
 

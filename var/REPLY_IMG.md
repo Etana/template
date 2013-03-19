@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {REPLY_IMG}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/REPLY_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/REPLY_IMG)
 
 ## Utilisations dans les templates
 

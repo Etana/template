@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {SEARCHITEMS_OPEN}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/SEARCHITEMS_OPEN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCHITEMS_OPEN)
 
 ## Utilisations dans les templates
 

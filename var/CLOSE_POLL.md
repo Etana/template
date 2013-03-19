@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {CLOSE_POLL}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/CLOSE_POLL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/CLOSE_POLL)
 
 ## Utilisations dans les templates
 

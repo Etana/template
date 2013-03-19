@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {MY_RULES}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/MY_RULES)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/MY_RULES)
 
 ## Utilisations dans les templates
 

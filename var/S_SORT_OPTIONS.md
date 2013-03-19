@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_SORT_OPTIONS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_SORT_OPTIONS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SORT_OPTIONS)
 
 ## Utilisations dans les templates
 

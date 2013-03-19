@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {PROTECT_FOOTER}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/PROTECT_FOOTER)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PROTECT_FOOTER)
 
 ## Utilisations dans les templates
 

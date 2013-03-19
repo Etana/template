@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/overall_footer_begin.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/overall_footer_begin)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/overall_footer_begin)
 
 ## Variables
 

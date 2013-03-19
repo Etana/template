@@ -6,15 +6,14 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ```html
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-    <!-- BEGIN postrow.displayed.switch_vote_active -->
-    contenu
-    <!-- END postrow.displayed.switch_vote_active -->
+        <!-- BEGIN switch_vote_active -->
+        contenu
+        <!-- END switch_vote_active -->
     <!-- END displayed -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)
 
 ## Attributs
 * __[`{postrow.displayed.switch_vote_active.L_VOTE_TITLE}`](postrow.displayed.switch_vote_active.L_VOTE_TITLE.md#readme)__

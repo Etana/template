@@ -9,8 +9,7 @@ Attribut de [switch_fb_login](switch_fb_login.md#readme).
 <!-- END switch_fb_login -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_fb_login.JS_FB_LOGIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_login.JS_FB_LOGIN)
 
 ## Utilisations dans les templates
 

@@ -7,16 +7,15 @@ Attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN header_table -->
-        <!-- BEGIN topics_list_box.row.header_table.pagination -->
-        contenu
-        <!-- END topics_list_box.row.header_table.pagination -->
+            <!-- BEGIN pagination -->
+            contenu
+            <!-- END pagination -->
         <!-- END header_table -->
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.pagination)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.pagination)
 
 ## Utilisations dans les templates
 

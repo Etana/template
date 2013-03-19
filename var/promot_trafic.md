@@ -9,8 +9,7 @@ contenu
 <!-- END promot_trafic -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/promot_trafic)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic)
 
 ## Attributs
 * __[`<!-- BEGIN link -->`](promot_trafic.link.md#readme)__

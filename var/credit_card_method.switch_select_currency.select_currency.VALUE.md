@@ -13,8 +13,7 @@ Attribut de [credit_card_method.switch_select_currency.select_currency](credit_c
 <!-- END credit_card_method -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.VALUE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.VALUE)
 
 ## Utilisations dans les templates
 

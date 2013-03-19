@@ -5,19 +5,22 @@ Attribut de [switch_forum_rules](switch_forum_rules.md#readme).
 
 ```html
 <!-- BEGIN switch_forum_rules -->
-<!-- BEGIN switch_forum_rules.switch_forum_rule_image -->
-contenu
-<!-- END switch_forum_rules.switch_forum_rule_image -->
+    <!-- BEGIN switch_forum_rule_image -->
+    contenu
+    <!-- END switch_forum_rule_image -->
 <!-- END switch_forum_rules -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`324`](../tpl/src/punbb/viewtopic_body.tpl#L324), [`328`](../tpl/src/punbb/viewtopic_body.tpl#L328)
+* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`37`](../tpl/src/punbb/posting_body.tpl#L37), [`41`](../tpl/src/punbb/posting_body.tpl#L41)
+* __[`posting_body_wysiwyg`](../tpl/var/punbb/posting_body_wysiwyg.md#readme) :__ lignes [`205`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L205), [`209`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L209)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`348`](../tpl/src/subsilver/viewtopic_body.tpl#L348), [`352`](../tpl/src/subsilver/viewtopic_body.tpl#L352)
+* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`63`](../tpl/src/subsilver/posting_body.tpl#L63), [`67`](../tpl/src/subsilver/posting_body.tpl#L67)
+* __[`posting_body_wysiwyg`](../tpl/var/subsilver/posting_body_wysiwyg.md#readme) :__ lignes [`63`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L63), [`67`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L67)

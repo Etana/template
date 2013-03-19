@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/punbb/viewtopic_poll_result.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/punbb/viewtopic_poll_result)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/viewtopic_poll_result)
 
 ## Variables
 

@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/memberlist_body.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/memberlist_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/memberlist_body)
 
 ## Variables
 

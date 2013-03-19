@@ -9,8 +9,7 @@ contenu
 <!-- END switch_fb_likebtn -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
 
 ## Utilisations dans les templates
 

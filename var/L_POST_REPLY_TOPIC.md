@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_POST_REPLY_TOPIC}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_POST_REPLY_TOPIC)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POST_REPLY_TOPIC)
 
 ## Utilisations dans les templates
 

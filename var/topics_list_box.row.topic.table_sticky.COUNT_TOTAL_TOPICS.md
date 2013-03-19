@@ -15,8 +15,7 @@ Attribut de [topics_list_box.row.topic.table_sticky](topics_list_box.row.topic.t
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS)
 
 ## Utilisations dans les templates
 

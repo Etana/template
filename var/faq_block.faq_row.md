@@ -5,14 +5,13 @@ Attribut de [faq_block](faq_block.md#readme).
 
 ```html
 <!-- BEGIN faq_block -->
-<!-- BEGIN faq_block.faq_row -->
-contenu
-<!-- END faq_block.faq_row -->
+    <!-- BEGIN faq_row -->
+    contenu
+    <!-- END faq_row -->
 <!-- END faq_block -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
 
 ## Attributs
 * __[`{faq_block.faq_row.FAQ_ANSWER}`](faq_block.faq_row.FAQ_ANSWER.md#readme)__

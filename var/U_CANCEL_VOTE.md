@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {U_CANCEL_VOTE}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/U_CANCEL_VOTE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_CANCEL_VOTE)
 
 ## Utilisations dans les templates
 

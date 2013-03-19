@@ -15,8 +15,7 @@ Attribut de [postrow.displayed.switch_vote_active.switch_vote](postrow.displayed
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS)
 
 ## Utilisations dans les templates
 

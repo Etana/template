@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_WHOSBIRTHDAY_TODAY}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY)
 
 ## Utilisations dans les templates
 

@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_DISPLAY_RESULTS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_DISPLAY_RESULTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_DISPLAY_RESULTS)
 
 ## Utilisations dans les templates
 

@@ -9,8 +9,7 @@ Attribut de [switch_h1](switch_h1.md#readme).
 <!-- END switch_h1 -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)
 
 ## Utilisations dans les templates
 

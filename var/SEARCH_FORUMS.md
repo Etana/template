@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {SEARCH_FORUMS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/SEARCH_FORUMS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCH_FORUMS)
 
 ## Utilisations dans les templates
 

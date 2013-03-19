@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/punbb/topics_list_box.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/punbb/topics_list_box)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/topics_list_box)
 
 ## Variables
 

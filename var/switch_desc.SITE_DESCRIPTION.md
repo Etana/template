@@ -9,8 +9,7 @@ Attribut de [switch_desc](switch_desc.md#readme).
 <!-- END switch_desc -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_desc.SITE_DESCRIPTION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_desc.SITE_DESCRIPTION)
 
 ## Utilisations dans les templates
 

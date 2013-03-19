@@ -1,0 +1,25 @@
+# pic_backup_link
+
+
+Variable.
+
+```html
+<!-- BEGIN pic_backup_link -->
+contenu
+<!-- END pic_backup_link -->
+```
+
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/pic_backup_link)
+
+## Attributs
+* __[`{pic_backup_link.BACKUP_FOLDER_LINK}`](pic_backup_link.BACKUP_FOLDER_LINK.md#readme)__
+* __[`{pic_backup_link.BACKUP_FOLDER_LINK_NEW}`](pic_backup_link.BACKUP_FOLDER_LINK_NEW.md#readme)__
+
+
+## Utilisations dans les templates
+
+### Version PunBB
+* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`76`](../tpl/src/punbb/album_index_body.tpl#L76), [`78`](../tpl/src/punbb/album_index_body.tpl#L78)
+
+### Version phpBB2
+* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/album_index_body.tpl#L121), [`125`](../tpl/src/subsilver/album_index_body.tpl#L125)

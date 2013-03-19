@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_LAST_UPDATE}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_LAST_UPDATE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LAST_UPDATE)
 
 ## Utilisations dans les templates
 

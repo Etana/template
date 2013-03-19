@@ -11,8 +11,7 @@ Attribut de [main_page.pay_method](main_page.pay_method.md#readme).
 <!-- END main_page -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
 
 ## Utilisations dans les templates
 

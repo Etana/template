@@ -9,8 +9,7 @@ Attribut de [switch_ticker](switch_ticker.md#readme).
 <!-- END switch_ticker -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
 
 ## Utilisations dans les templates
 

@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {SECURE_ID_NAME}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/SECURE_ID_NAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SECURE_ID_NAME)
 
 ## Utilisations dans les templates
 

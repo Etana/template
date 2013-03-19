@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {TABS_MORE_IMG}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/TABS_MORE_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TABS_MORE_IMG)
 
 ## Utilisations dans les templates
 
@@ -16,6 +15,11 @@ Cette variable est utilisable directement.
 * __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [`301`](../tpl/src/punbb/viewtopic_body.tpl#L301)
 
 ### Version phpBB2
-* __[`search_body`](../tpl/var/subsilver/search_body.md#readme) :__ ligne [`78`](../tpl/src/subsilver/search_body.tpl#L78)
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`300`](../tpl/src/subsilver/viewtopic_body.tpl#L300), [`408`](../tpl/src/subsilver/viewtopic_body.tpl#L408)
 * __[`viewforum_body`](../tpl/var/subsilver/viewforum_body.md#readme) :__ ligne [`69`](../tpl/src/subsilver/viewforum_body.tpl#L69)
+* __[`search_body`](../tpl/var/subsilver/search_body.md#readme) :__ ligne [`78`](../tpl/src/subsilver/search_body.tpl#L78)
+* __[`posting_poll_body`](../tpl/var/subsilver/posting_poll_body.md#readme) :__ ligne [`5`](../tpl/src/subsilver/posting_poll_body.tpl#L5)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ ligne [`229`](../tpl/src/subsilver/album_cat_body.tpl#L229)
+* __[`posting_body_wysiwyg`](../tpl/var/subsilver/posting_body_wysiwyg.md#readme) :__ lignes [`541`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L541), [`651`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L651), [`695`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L695), [`792`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L792)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`300`](../tpl/src/subsilver/viewtopic_body.tpl#L300), [`408`](../tpl/src/subsilver/viewtopic_body.tpl#L408)
+* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`541`](../tpl/src/subsilver/posting_body.tpl#L541), [`662`](../tpl/src/subsilver/posting_body.tpl#L662), [`716`](../tpl/src/subsilver/posting_body.tpl#L716), [`820`](../tpl/src/subsilver/posting_body.tpl#L820)
+* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ ligne [`261`](../tpl/src/subsilver/album_showpage_body.tpl#L261)

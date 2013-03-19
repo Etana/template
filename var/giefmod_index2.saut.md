@@ -5,14 +5,13 @@ Attribut de [giefmod_index2](giefmod_index2.md#readme).
 
 ```html
 <!-- BEGIN giefmod_index2 -->
-<!-- BEGIN giefmod_index2.saut -->
-contenu
-<!-- END giefmod_index2.saut -->
+    <!-- BEGIN saut -->
+    contenu
+    <!-- END saut -->
 <!-- END giefmod_index2 -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/giefmod_index2.saut)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2.saut)
 
 ## Utilisations dans les templates
 

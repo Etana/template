@@ -7,16 +7,15 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
-        <!-- BEGIN topics_list_box.row.topic.switch_description -->
-        contenu
-        <!-- END topics_list_box.row.topic.switch_description -->
+            <!-- BEGIN switch_description -->
+            contenu
+            <!-- END switch_description -->
         <!-- END topic -->
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description)
 
 ## Attributs
 * __[`{topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}`](topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION.md#readme)__

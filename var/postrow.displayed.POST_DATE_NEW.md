@@ -11,8 +11,7 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_NEW)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_NEW)
 
 ## Utilisations dans les templates
 

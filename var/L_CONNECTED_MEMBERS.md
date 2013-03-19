@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_CONNECTED_MEMBERS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_CONNECTED_MEMBERS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CONNECTED_MEMBERS)
 
 ## Utilisations dans les templates
 

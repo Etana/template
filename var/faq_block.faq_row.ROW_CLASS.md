@@ -11,8 +11,7 @@ Attribut de [faq_block.faq_row](faq_block.faq_row.md#readme).
 <!-- END faq_block -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/faq_block.faq_row.ROW_CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row.ROW_CLASS)
 
 ## Utilisations dans les templates
 

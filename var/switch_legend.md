@@ -9,8 +9,7 @@ contenu
 <!-- END switch_legend -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_legend)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_legend)
 
 ## Utilisations dans les templates
 

@@ -9,8 +9,7 @@ contenu
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow)
 
 ## Attributs
 * __[`<!-- BEGIN catfoot -->`](catrow.catfoot.md#readme)__

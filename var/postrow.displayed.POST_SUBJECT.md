@@ -11,8 +11,7 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT)
 
 ## Utilisations dans les templates
 
@@ -21,3 +20,4 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [`138`](../tpl/src/subsilver/viewtopic_body.tpl#L138)
+* __[`posting_topic_review`](../tpl/var/subsilver/posting_topic_review.md#readme) :__ ligne [`21`](../tpl/src/subsilver/posting_topic_review.tpl#L21)

@@ -9,8 +9,7 @@ Attribut de [memberrow](memberrow.md#readme).
 <!-- END memberrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/memberrow.POSTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.POSTS)
 
 ## Utilisations dans les templates
 

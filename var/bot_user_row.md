@@ -9,8 +9,7 @@ contenu
 <!-- END bot_user_row -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/bot_user_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row)
 
 ## Attributs
 * __[`{bot_user_row.FORUM_LOCATION}`](bot_user_row.FORUM_LOCATION.md#readme)__

@@ -9,8 +9,7 @@ contenu
 <!-- END switch_th_group -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_th_group)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_th_group)
 
 ## Utilisations dans les templates
 

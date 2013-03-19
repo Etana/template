@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_WATCH_FORUM}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_WATCH_FORUM)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_WATCH_FORUM)
 
 ## Utilisations dans les templates
 

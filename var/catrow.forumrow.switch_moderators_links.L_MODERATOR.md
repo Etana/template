@@ -13,8 +13,7 @@ Attribut de [catrow.forumrow.switch_moderators_links](catrow.forumrow.switch_mod
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.L_MODERATOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.L_MODERATOR)
 
 ## Utilisations dans les templates
 

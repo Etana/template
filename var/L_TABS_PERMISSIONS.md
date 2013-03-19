@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_TABS_PERMISSIONS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_TABS_PERMISSIONS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_TABS_PERMISSIONS)
 
 ## Utilisations dans les templates
 

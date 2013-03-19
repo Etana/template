@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/search_results_topics.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/search_results_topics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/search_results_topics)
 
 ## Variables
 

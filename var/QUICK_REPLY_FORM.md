@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {QUICK_REPLY_FORM}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/QUICK_REPLY_FORM)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/QUICK_REPLY_FORM)
 
 ## Utilisations dans les templates
 

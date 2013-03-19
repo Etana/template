@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {FOLDER_NEW_IMG}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/FOLDER_NEW_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/FOLDER_NEW_IMG)
 
 ## Utilisations dans les templates
 

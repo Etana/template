@@ -6,15 +6,14 @@ Attribut de [main_page.pay_method](main_page.pay_method.md#readme).
 ```html
 <!-- BEGIN main_page -->
     <!-- BEGIN pay_method -->
-    <!-- BEGIN main_page.pay_method.radio -->
-    contenu
-    <!-- END main_page.pay_method.radio -->
+        <!-- BEGIN radio -->
+        contenu
+        <!-- END radio -->
     <!-- END pay_method -->
 <!-- END main_page -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
 
 ## Attributs
 * __[`{main_page.pay_method.radio.METHOD}`](main_page.pay_method.radio.METHOD.md#readme)__

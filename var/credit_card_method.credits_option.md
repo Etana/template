@@ -5,14 +5,13 @@ Attribut de [credit_card_method](credit_card_method.md#readme).
 
 ```html
 <!-- BEGIN credit_card_method -->
-<!-- BEGIN credit_card_method.credits_option -->
-contenu
-<!-- END credit_card_method.credits_option -->
+    <!-- BEGIN credits_option -->
+    contenu
+    <!-- END credits_option -->
 <!-- END credit_card_method -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option)
 
 ## Attributs
 * __[`{credit_card_method.credits_option.OPTION}`](credit_card_method.credits_option.OPTION.md#readme)__

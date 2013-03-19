@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/punbb/agreement.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/punbb/agreement)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/agreement)
 
 ## Variables
 

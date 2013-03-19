@@ -5,14 +5,13 @@ Attribut de [disable_viewonline](disable_viewonline.md#readme).
 
 ```html
 <!-- BEGIN disable_viewonline -->
-<!-- BEGIN disable_viewonline.switch_chatbox_activate -->
-contenu
-<!-- END disable_viewonline.switch_chatbox_activate -->
+    <!-- BEGIN switch_chatbox_activate -->
+    contenu
+    <!-- END switch_chatbox_activate -->
 <!-- END disable_viewonline -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate)
 
 ## Attributs
 * __[`<!-- BEGIN switch_chatbox_popup -->`](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.md#readme)__

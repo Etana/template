@@ -9,8 +9,7 @@ Attribut de [no_post](no_post.md#readme).
 <!-- END no_post -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/no_post.L_NO_POST)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_post.L_NO_POST)
 
 ## Utilisations dans les templates
 

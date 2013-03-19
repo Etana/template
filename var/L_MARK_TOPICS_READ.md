@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_MARK_TOPICS_READ}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_MARK_TOPICS_READ)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MARK_TOPICS_READ)
 
 ## Utilisations dans les templates
 

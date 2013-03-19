@@ -9,8 +9,7 @@ Attribut de [faq_block](faq_block.md#readme).
 <!-- END faq_block -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/faq_block.BLOCK_TITLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.BLOCK_TITLE)
 
 ## Utilisations dans les templates
 

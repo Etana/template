@@ -9,8 +9,7 @@ contenu
 <!-- END switch_view_stats -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_view_stats)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats)
 
 ## Attributs
 * __[`{switch_view_stats.L_STATS}`](switch_view_stats.L_STATS.md#readme)__

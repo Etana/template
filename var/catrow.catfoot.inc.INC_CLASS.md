@@ -13,8 +13,7 @@ Attribut de [catrow.catfoot.inc](catrow.catfoot.inc.md#readme).
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.catfoot.inc.INC_CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.catfoot.inc.INC_CLASS)
 
 ## Utilisations dans les templates
 

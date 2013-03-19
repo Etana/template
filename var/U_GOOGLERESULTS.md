@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {U_GOOGLERESULTS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/U_GOOGLERESULTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_GOOGLERESULTS)
 
 ## Utilisations dans les templates
 

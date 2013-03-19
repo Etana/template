@@ -9,8 +9,7 @@ contenu
 <!-- END switch_plus_menu -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_plus_menu)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_plus_menu)
 
 ## Utilisations dans les templates
 

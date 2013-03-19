@@ -5,14 +5,13 @@ Attribut de [catrow](catrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
-<!-- BEGIN catrow.tablefoot -->
-contenu
-<!-- END catrow.tablefoot -->
+    <!-- BEGIN tablefoot -->
+    contenu
+    <!-- END tablefoot -->
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.tablefoot)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablefoot)
 
 ## Utilisations dans les templates
 

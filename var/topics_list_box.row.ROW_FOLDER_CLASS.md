@@ -11,8 +11,7 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_FOLDER_CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_FOLDER_CLASS)
 
 ## Utilisations dans les templates
 

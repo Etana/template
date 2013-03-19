@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_CONFIRM_ACTION}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION)
 
 ## Utilisations dans les templates
 

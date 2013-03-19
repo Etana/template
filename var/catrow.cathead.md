@@ -5,14 +5,13 @@ Attribut de [catrow](catrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
-<!-- BEGIN catrow.cathead -->
-contenu
-<!-- END catrow.cathead -->
+    <!-- BEGIN cathead -->
+    contenu
+    <!-- END cathead -->
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.cathead)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead)
 
 ## Attributs
 * __[`{catrow.cathead.CAT_DESC}`](catrow.cathead.CAT_DESC.md#readme)__

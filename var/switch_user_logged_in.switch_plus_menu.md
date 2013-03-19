@@ -5,14 +5,13 @@ Attribut de [switch_user_logged_in](switch_user_logged_in.md#readme).
 
 ```html
 <!-- BEGIN switch_user_logged_in -->
-<!-- BEGIN switch_user_logged_in.switch_plus_menu -->
-contenu
-<!-- END switch_user_logged_in.switch_plus_menu -->
+    <!-- BEGIN switch_plus_menu -->
+    contenu
+    <!-- END switch_plus_menu -->
 <!-- END switch_user_logged_in -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_user_logged_in.switch_plus_menu)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.switch_plus_menu)
 
 ## Utilisations dans les templates
 

@@ -5,14 +5,13 @@ Attribut de [paypal_confirm](paypal_confirm.md#readme).
 
 ```html
 <!-- BEGIN paypal_confirm -->
-<!-- BEGIN paypal_confirm.hidden_field -->
-contenu
-<!-- END paypal_confirm.hidden_field -->
+    <!-- BEGIN hidden_field -->
+    contenu
+    <!-- END hidden_field -->
 <!-- END paypal_confirm -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field)
 
 ## Attributs
 * __[`{paypal_confirm.hidden_field.NAME}`](paypal_confirm.hidden_field.NAME.md#readme)__

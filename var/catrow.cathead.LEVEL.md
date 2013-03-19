@@ -11,8 +11,7 @@ Attribut de [catrow.cathead](catrow.cathead.md#readme).
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.cathead.LEVEL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.LEVEL)
 
 ## Utilisations dans les templates
 

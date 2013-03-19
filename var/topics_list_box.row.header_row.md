@@ -6,15 +6,14 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 ```html
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
-    <!-- BEGIN topics_list_box.row.header_row -->
-    contenu
-    <!-- END topics_list_box.row.header_row -->
+        <!-- BEGIN header_row -->
+        contenu
+        <!-- END header_row -->
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_row)
 
 ## Utilisations dans les templates
 

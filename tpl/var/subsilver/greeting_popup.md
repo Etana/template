@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/greeting_popup.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/greeting_popup)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/greeting_popup)
 
 ## Variables
 

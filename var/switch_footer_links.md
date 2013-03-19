@@ -9,8 +9,7 @@ contenu
 <!-- END switch_footer_links -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_footer_links)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links)
 
 ## Attributs
 * __[`<!-- BEGIN footer_link -->`](switch_footer_links.footer_link.md#readme)__

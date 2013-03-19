@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/punbb/message_body.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/punbb/message_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/message_body)
 
 ## Variables
 

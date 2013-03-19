@@ -11,8 +11,7 @@ Attribut de [paypal_confirm.hidden_field](paypal_confirm.hidden_field.md#readme)
 <!-- END paypal_confirm -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field.VALUE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field.VALUE)
 
 ## Utilisations dans les templates
 

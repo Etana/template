@@ -9,8 +9,7 @@ contenu
 <!-- END switch_desc -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_desc)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_desc)
 
 ## Attributs
 * __[`{switch_desc.SITE_DESCRIPTION}`](switch_desc.SITE_DESCRIPTION.md#readme)__

@@ -5,14 +5,13 @@ Attribut de [phonecall_method](phonecall_method.md#readme).
 
 ```html
 <!-- BEGIN phonecall_method -->
-<!-- BEGIN phonecall_method.hidden_field -->
-contenu
-<!-- END phonecall_method.hidden_field -->
+    <!-- BEGIN hidden_field -->
+    contenu
+    <!-- END hidden_field -->
 <!-- END phonecall_method -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)
 
 ## Attributs
 * __[`{phonecall_method.hidden_field.NAME}`](phonecall_method.hidden_field.NAME.md#readme)__

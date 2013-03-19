@@ -9,8 +9,7 @@ Attribut de [forumrow](forumrow.md#readme).
 <!-- END forumrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/forumrow.L_SUBFORUM_STR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/forumrow.L_SUBFORUM_STR)
 
 ## Utilisations dans les templates
 

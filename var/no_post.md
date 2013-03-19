@@ -9,8 +9,7 @@ contenu
 <!-- END no_post -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/no_post)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_post)
 
 ## Attributs
 * __[`{no_post.L_NO_POST}`](no_post.L_NO_POST.md#readme)__

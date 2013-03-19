@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_MOD_TOOLS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_MOD_TOOLS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MOD_TOOLS)
 
 ## Utilisations dans les templates
 

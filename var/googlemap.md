@@ -9,8 +9,7 @@ contenu
 <!-- END googlemap -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/googlemap)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap)
 
 ## Attributs
 * __[`{googlemap.U_GOOGLEMAP}`](googlemap.U_GOOGLEMAP.md#readme)__

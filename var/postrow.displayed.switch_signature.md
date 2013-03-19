@@ -6,15 +6,14 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ```html
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-    <!-- BEGIN postrow.displayed.switch_signature -->
-    contenu
-    <!-- END postrow.displayed.switch_signature -->
+        <!-- BEGIN switch_signature -->
+        contenu
+        <!-- END switch_signature -->
     <!-- END displayed -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
 
 ## Utilisations dans les templates
 

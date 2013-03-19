@@ -9,8 +9,7 @@ contenu
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box)
 
 ## Attributs
 * __[`{topics_list_box.FIELDNAME}`](topics_list_box.FIELDNAME.md#readme)__

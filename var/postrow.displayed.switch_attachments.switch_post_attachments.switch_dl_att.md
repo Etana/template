@@ -8,17 +8,16 @@ Attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postr
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_attachments -->
             <!-- BEGIN switch_post_attachments -->
-            <!-- BEGIN postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att -->
-            contenu
-            <!-- END postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att -->
+                <!-- BEGIN switch_dl_att -->
+                contenu
+                <!-- END switch_dl_att -->
             <!-- END switch_post_attachments -->
         <!-- END switch_attachments -->
     <!-- END displayed -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att)
 
 ## Attributs
 * __[`{postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT}`](postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT.md#readme)__

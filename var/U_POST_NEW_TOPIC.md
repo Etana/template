@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {U_POST_NEW_TOPIC}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/U_POST_NEW_TOPIC)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_POST_NEW_TOPIC)
 
 ## Utilisations dans les templates
 

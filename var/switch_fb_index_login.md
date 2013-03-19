@@ -9,8 +9,7 @@ contenu
 <!-- END switch_fb_index_login -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_fb_index_login)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_index_login)
 
 ## Attributs
 * __[`{switch_fb_index_login.FACEBOOK_APP_ID}`](switch_fb_index_login.FACEBOOK_APP_ID.md#readme)__

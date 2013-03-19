@@ -9,8 +9,7 @@ contenu
 <!-- END hitskin_preview -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/hitskin_preview)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview)
 
 ## Attributs
 * __[`{hitskin_preview.L_RETURN_THEME}`](hitskin_preview.L_RETURN_THEME.md#readme)__

@@ -9,8 +9,7 @@ Attribut de [switch_canonical_url](switch_canonical_url.md#readme).
 <!-- END switch_canonical_url -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_canonical_url.CANONICAL_URL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_canonical_url.CANONICAL_URL)
 
 ## Utilisations dans les templates
 

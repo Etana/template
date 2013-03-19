@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {T_VISITED_LINK}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/T_VISITED_LINK)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/T_VISITED_LINK)
 
 ## Utilisations dans les templates
 

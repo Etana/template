@@ -5,14 +5,13 @@ Attribut de [catrow](catrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
-<!-- BEGIN catrow.forumrow -->
-contenu
-<!-- END catrow.forumrow -->
+    <!-- BEGIN forumrow -->
+    contenu
+    <!-- END forumrow -->
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow)
 
 ## Attributs
 * __[`{catrow.forumrow.FORUM_DESC}`](catrow.forumrow.FORUM_DESC.md#readme)__

@@ -11,8 +11,7 @@ Attribut de [switch_footer_links.footer_link](switch_footer_links.footer_link.md
 <!-- END switch_footer_links -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_TARGET)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_TARGET)
 
 ## Utilisations dans les templates
 

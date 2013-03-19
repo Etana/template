@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {U_WATCHSEARCH_JS_PLUS_MENU}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/U_WATCHSEARCH_JS_PLUS_MENU)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_WATCHSEARCH_JS_PLUS_MENU)
 
 ## Utilisations dans les templates
 

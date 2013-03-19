@@ -7,16 +7,15 @@ Attribut de [topics_list_box.row.bottom](topics_list_box.row.bottom.md#readme).
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN bottom -->
-        <!-- BEGIN topics_list_box.row.bottom.multi_selection -->
-        contenu
-        <!-- END topics_list_box.row.bottom.multi_selection -->
+            <!-- BEGIN multi_selection -->
+            contenu
+            <!-- END multi_selection -->
         <!-- END bottom -->
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.multi_selection)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.multi_selection)
 
 ## Utilisations dans les templates
 

@@ -9,8 +9,7 @@ contenu
 <!-- END switch_fb_login -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_fb_login)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_login)
 
 ## Attributs
 * __[`{switch_fb_login.FB_LOCAL}`](switch_fb_login.FB_LOCAL.md#readme)__

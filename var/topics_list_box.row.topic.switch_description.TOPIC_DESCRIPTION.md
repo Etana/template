@@ -15,8 +15,7 @@ Attribut de [topics_list_box.row.topic.switch_description](topics_list_box.row.t
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION)
 
 ## Utilisations dans les templates
 

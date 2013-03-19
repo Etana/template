@@ -9,8 +9,7 @@ contenu
 <!-- END switch_logo_center -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_logo_center)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_logo_center)
 
 ## Utilisations dans les templates
 

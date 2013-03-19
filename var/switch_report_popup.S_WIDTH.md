@@ -9,8 +9,7 @@ Attribut de [switch_report_popup](switch_report_popup.md#readme).
 <!-- END switch_report_popup -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_report_popup.S_WIDTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup.S_WIDTH)
 
 ## Utilisations dans les templates
 

@@ -1,0 +1,18 @@
+# L_BBCODE_T
+
+
+Cette variable est utilisable directement.
+
+```html
+{L_BBCODE_T}
+```
+
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_BBCODE_T)
+
+## Utilisations dans les templates
+
+### Version PunBB
+* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`339`](../tpl/src/punbb/posting_body.tpl#L339), [`339`](../tpl/src/punbb/posting_body.tpl#L339), [`383`](../tpl/src/punbb/posting_body.tpl#L383), [`383`](../tpl/src/punbb/posting_body.tpl#L383)
+
+### Version phpBB2
+* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`390`](../tpl/src/subsilver/posting_body.tpl#L390), [`390`](../tpl/src/subsilver/posting_body.tpl#L390), [`434`](../tpl/src/subsilver/posting_body.tpl#L434), [`434`](../tpl/src/subsilver/posting_body.tpl#L434)

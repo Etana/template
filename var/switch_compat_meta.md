@@ -9,8 +9,7 @@ contenu
 <!-- END switch_compat_meta -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_compat_meta)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta)
 
 ## Attributs
 * __[`{switch_compat_meta.VERSION}`](switch_compat_meta.VERSION.md#readme)__

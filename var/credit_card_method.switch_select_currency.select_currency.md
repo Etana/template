@@ -6,15 +6,14 @@ Attribut de [credit_card_method.switch_select_currency](credit_card_method.switc
 ```html
 <!-- BEGIN credit_card_method -->
     <!-- BEGIN switch_select_currency -->
-    <!-- BEGIN credit_card_method.switch_select_currency.select_currency -->
-    contenu
-    <!-- END credit_card_method.switch_select_currency.select_currency -->
+        <!-- BEGIN select_currency -->
+        contenu
+        <!-- END select_currency -->
     <!-- END switch_select_currency -->
 <!-- END credit_card_method -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency)
 
 ## Attributs
 * __[`{credit_card_method.switch_select_currency.select_currency.OPTION}`](credit_card_method.switch_select_currency.select_currency.OPTION.md#readme)__

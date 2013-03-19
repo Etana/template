@@ -1,0 +1,26 @@
+# li_row
+
+
+Variable.
+
+```html
+<!-- BEGIN li_row -->
+contenu
+<!-- END li_row -->
+```
+
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/li_row)
+
+## Attributs
+* __[`{li_row.KEYWORDS}`](li_row.KEYWORDS.md#readme)__
+* __[`{li_row.LINKEYWORDS}`](li_row.LINKEYWORDS.md#readme)__
+* __[`{li_row.SIZE}`](li_row.SIZE.md#readme)__
+
+
+## Utilisations dans les templates
+
+### Version PunBB
+* __[`mod_keywords`](../tpl/var/punbb/mod_keywords.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_keywords.tpl#L5), [`7`](../tpl/src/punbb/mod_keywords.tpl#L7)
+
+### Version phpBB2
+* __[`mod_keywords`](../tpl/var/subsilver/mod_keywords.md#readme) :__ lignes [`11`](../tpl/src/subsilver/mod_keywords.tpl#L11), [`13`](../tpl/src/subsilver/mod_keywords.tpl#L13)

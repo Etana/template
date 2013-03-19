@@ -9,8 +9,7 @@ Attribut de [searchresults](searchresults.md#readme).
 <!-- END searchresults -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/searchresults.U_POST)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.U_POST)
 
 ## Utilisations dans les templates
 

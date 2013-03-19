@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {U_SEARCH_UNANSWERED}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED)
 
 ## Utilisations dans les templates
 

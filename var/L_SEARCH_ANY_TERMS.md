@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_SEARCH_ANY_TERMS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_SEARCH_ANY_TERMS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_ANY_TERMS)
 
 ## Utilisations dans les templates
 

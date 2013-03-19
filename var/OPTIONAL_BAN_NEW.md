@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {OPTIONAL_BAN_NEW}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/OPTIONAL_BAN_NEW)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/OPTIONAL_BAN_NEW)
 
 ## Utilisations dans les templates
 

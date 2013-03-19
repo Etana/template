@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_FOLDER_GLOBAL_ANNOUNCE_IMG}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_FOLDER_GLOBAL_ANNOUNCE_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FOLDER_GLOBAL_ANNOUNCE_IMG)
 
 ## Utilisations dans les templates
 

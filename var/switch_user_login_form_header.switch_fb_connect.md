@@ -5,14 +5,13 @@ Attribut de [switch_user_login_form_header](switch_user_login_form_header.md#rea
 
 ```html
 <!-- BEGIN switch_user_login_form_header -->
-<!-- BEGIN switch_user_login_form_header.switch_fb_connect -->
-contenu
-<!-- END switch_user_login_form_header.switch_fb_connect -->
+    <!-- BEGIN switch_fb_connect -->
+    contenu
+    <!-- END switch_fb_connect -->
 <!-- END switch_user_login_form_header -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect)
 
 ## Attributs
 * __[`{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}`](switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)__

@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {NAV_CAT_DESC_SECOND}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC_SECOND)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC_SECOND)
 
 ## Utilisations dans les templates
 

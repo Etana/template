@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/punbb/memberlist_body.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/punbb/memberlist_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/memberlist_body)
 
 ## Variables
 

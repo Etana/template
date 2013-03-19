@@ -6,15 +6,14 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ```html
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-    <!-- BEGIN postrow.displayed.contact_field -->
-    contenu
-    <!-- END postrow.displayed.contact_field -->
+        <!-- BEGIN contact_field -->
+        contenu
+        <!-- END contact_field -->
     <!-- END displayed -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field)
 
 ## Attributs
 * __[`{postrow.displayed.contact_field.CONTENT}`](postrow.displayed.contact_field.CONTENT.md#readme)__

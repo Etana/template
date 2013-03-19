@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_CANCEL}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_CANCEL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CANCEL)
 
 ## Utilisations dans les templates
 

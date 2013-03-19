@@ -9,8 +9,7 @@ Attribut de [hitskin_preview](hitskin_preview.md#readme).
 <!-- END hitskin_preview -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/hitskin_preview.L_RETURN_THEME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview.L_RETURN_THEME)
 
 ## Utilisations dans les templates
 

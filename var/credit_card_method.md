@@ -9,8 +9,7 @@ contenu
 <!-- END credit_card_method -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/credit_card_method)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method)
 
 ## Attributs
 * __[`<!-- BEGIN credits_option -->`](credit_card_method.credits_option.md#readme)__

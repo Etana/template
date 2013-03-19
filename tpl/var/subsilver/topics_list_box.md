@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/topics_list_box.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/topics_list_box)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/topics_list_box)
 
 ## Variables
 

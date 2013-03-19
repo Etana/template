@@ -9,8 +9,7 @@ contenu
 <!-- END cancel_vote -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/cancel_vote)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/cancel_vote)
 
 ## Utilisations dans les templates
 

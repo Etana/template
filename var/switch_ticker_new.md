@@ -9,8 +9,7 @@ contenu
 <!-- END switch_ticker_new -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_ticker_new)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new)
 
 ## Attributs
 * __[`<!-- BEGIN ticker_row -->`](switch_ticker_new.ticker_row.md#readme)__

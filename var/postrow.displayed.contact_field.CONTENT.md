@@ -13,8 +13,7 @@ Attribut de [postrow.displayed.contact_field](postrow.displayed.contact_field.md
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field.CONTENT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field.CONTENT)
 
 ## Utilisations dans les templates
 

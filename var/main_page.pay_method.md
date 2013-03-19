@@ -5,14 +5,13 @@ Attribut de [main_page](main_page.md#readme).
 
 ```html
 <!-- BEGIN main_page -->
-<!-- BEGIN main_page.pay_method -->
-contenu
-<!-- END main_page.pay_method -->
+    <!-- BEGIN pay_method -->
+    contenu
+    <!-- END pay_method -->
 <!-- END main_page -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/main_page.pay_method)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method)
 
 ## Attributs
 * __[`{main_page.pay_method.B_SUBMIT}`](main_page.pay_method.B_SUBMIT.md#readme)__

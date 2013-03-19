@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/punbb/donate.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/punbb/donate)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/donate)
 
 ## Variables
 

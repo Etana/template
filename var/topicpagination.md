@@ -9,8 +9,7 @@ contenu
 <!-- END topicpagination -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topicpagination)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topicpagination)
 
 ## Utilisations dans les templates
 

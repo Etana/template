@@ -9,8 +9,7 @@ contenu
 <!-- END switch_report_popup -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_report_popup)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup)
 
 ## Attributs
 * __[`{switch_report_popup.S_HEIGHT}`](switch_report_popup.S_HEIGHT.md#readme)__

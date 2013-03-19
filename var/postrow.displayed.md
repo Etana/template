@@ -5,14 +5,13 @@ Attribut de [postrow](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
-<!-- BEGIN postrow.displayed -->
-contenu
-<!-- END postrow.displayed -->
+    <!-- BEGIN displayed -->
+    contenu
+    <!-- END displayed -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed)
 
 ## Attributs
 * __[`{postrow.displayed.COUNT_POSTS}`](postrow.displayed.COUNT_POSTS.md#readme)__
@@ -24,6 +23,7 @@ contenu
 * __[`{postrow.displayed.ICON}`](postrow.displayed.ICON.md#readme)__
 * __[`{postrow.displayed.IP_IMG}`](postrow.displayed.IP_IMG.md#readme)__
 * __[`{postrow.displayed.L_MINI_POST_ALT}`](postrow.displayed.L_MINI_POST_ALT.md#readme)__
+* __[`{postrow.displayed.L_TOPIC_ON}`](postrow.displayed.L_TOPIC_ON.md#readme)__
 * __[`{postrow.displayed.MESSAGE}`](postrow.displayed.MESSAGE.md#readme)__
 * __[`{postrow.displayed.MINI_POST_IMG}`](postrow.displayed.MINI_POST_IMG.md#readme)__
 * __[`{postrow.displayed.MINI_TIME_IMG}`](postrow.displayed.MINI_TIME_IMG.md#readme)__
@@ -37,7 +37,9 @@ contenu
 * __[`{postrow.displayed.POSTER_RPG}`](postrow.displayed.POSTER_RPG.md#readme)__
 * __[`{postrow.displayed.POST_DATE}`](postrow.displayed.POST_DATE.md#readme)__
 * __[`{postrow.displayed.POST_DATE_NEW}`](postrow.displayed.POST_DATE_NEW.md#readme)__
+* __[`{postrow.displayed.POST_ID}`](postrow.displayed.POST_ID.md#readme)__
 * __[`{postrow.displayed.POST_SUBJECT}`](postrow.displayed.POST_SUBJECT.md#readme)__
+* __[`{postrow.displayed.POST_SUBJECT_NEW}`](postrow.displayed.POST_SUBJECT_NEW.md#readme)__
 * __[`{postrow.displayed.POST_URL}`](postrow.displayed.POST_URL.md#readme)__
 * __[`{postrow.displayed.PROFILE_IMG}`](postrow.displayed.PROFILE_IMG.md#readme)__
 * __[`{postrow.displayed.PROFILE_POSITION}`](postrow.displayed.PROFILE_POSITION.md#readme)__
@@ -62,6 +64,8 @@ contenu
 
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`123`](../tpl/src/punbb/viewtopic_body.tpl#L123), [`250`](../tpl/src/punbb/viewtopic_body.tpl#L250)
+* __[`posting_topic_review`](../tpl/var/punbb/posting_topic_review.md#readme) :__ lignes [`8`](../tpl/src/punbb/posting_topic_review.tpl#L8), [`33`](../tpl/src/punbb/posting_topic_review.tpl#L33)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/viewtopic_body.tpl#L121), [`256`](../tpl/src/subsilver/viewtopic_body.tpl#L256)
+* __[`posting_topic_review`](../tpl/var/subsilver/posting_topic_review.md#readme) :__ lignes [`14`](../tpl/src/subsilver/posting_topic_review.tpl#L14), [`38`](../tpl/src/subsilver/posting_topic_review.tpl#L38)

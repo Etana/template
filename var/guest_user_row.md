@@ -9,8 +9,7 @@ contenu
 <!-- END guest_user_row -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/guest_user_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row)
 
 ## Attributs
 * __[`{guest_user_row.FORUM_LOCATION}`](guest_user_row.FORUM_LOCATION.md#readme)__

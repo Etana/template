@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_MODE_ACTION}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_MODE_ACTION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_MODE_ACTION)
 
 ## Utilisations dans les templates
 

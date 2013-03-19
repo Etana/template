@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {WIDTH_GALLERY}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/WIDTH_GALLERY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/WIDTH_GALLERY)
 
 ## Utilisations dans les templates
 

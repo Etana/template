@@ -5,14 +5,13 @@ Attribut de [promot_trafic](promot_trafic.md#readme).
 
 ```html
 <!-- BEGIN promot_trafic -->
-<!-- BEGIN promot_trafic.link -->
-contenu
-<!-- END promot_trafic.link -->
+    <!-- BEGIN link -->
+    contenu
+    <!-- END link -->
 <!-- END promot_trafic -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/promot_trafic.link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link)
 
 ## Attributs
 * __[`{promot_trafic.link.TITLE}`](promot_trafic.link.TITLE.md#readme)__

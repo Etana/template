@@ -5,14 +5,13 @@ Attribut de [searchresults](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->
-<!-- BEGIN searchresults.watchsearch -->
-contenu
-<!-- END searchresults.watchsearch -->
+    <!-- BEGIN watchsearch -->
+    contenu
+    <!-- END watchsearch -->
 <!-- END searchresults -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
 
 ## Utilisations dans les templates
 

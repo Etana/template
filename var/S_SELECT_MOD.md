@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_SELECT_MOD}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_SELECT_MOD)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SELECT_MOD)
 
 ## Utilisations dans les templates
 

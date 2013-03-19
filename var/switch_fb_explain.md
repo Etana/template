@@ -9,8 +9,7 @@ contenu
 <!-- END switch_fb_explain -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_fb_explain)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_explain)
 
 ## Attributs
 * __[`{switch_fb_explain.FB_EXPLAIN}`](switch_fb_explain.FB_EXPLAIN.md#readme)__

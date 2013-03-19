@@ -9,8 +9,7 @@ Attribut de [guest_user_row](guest_user_row.md#readme).
 <!-- END guest_user_row -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/guest_user_row.U_FORUM_LOCATION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row.U_FORUM_LOCATION)
 
 ## Utilisations dans les templates
 

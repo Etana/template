@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_MODERATOR}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_MODERATOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MODERATOR)
 
 ## Utilisations dans les templates
 

@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/search_username.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/search_username)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/search_username)
 
 ## Variables
 

@@ -8,17 +8,16 @@ Attribut de [postrow.displayed.switch_vote_active.switch_bar](postrow.displayed.
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_bar -->
-            <!-- BEGIN postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus -->
-            contenu
-            <!-- END postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus -->
+                <!-- BEGIN switch_vote_plus -->
+                contenu
+                <!-- END switch_vote_plus -->
             <!-- END switch_bar -->
         <!-- END switch_vote_active -->
     <!-- END displayed -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus)
 
 ## Attributs
 * __[`{postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS}`](postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS.md#readme)__

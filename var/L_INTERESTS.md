@@ -7,12 +7,12 @@ Cette variable est utilisable directement.
 {L_INTERESTS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_INTERESTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_INTERESTS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ ligne [`90`](../tpl/src/punbb/profile_add_body.tpl#L90)
 * __[`memberlist_body`](../tpl/var/punbb/memberlist_body.md#readme) :__ ligne [`67`](../tpl/src/punbb/memberlist_body.tpl#L67)
 
 ### Version phpBB2

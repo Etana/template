@@ -7,16 +7,15 @@ Attribut de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
-        <!-- BEGIN postrow.displayed.switch_vote_active.switch_no_bar -->
-        contenu
-        <!-- END postrow.displayed.switch_vote_active.switch_no_bar -->
+            <!-- BEGIN switch_no_bar -->
+            contenu
+            <!-- END switch_no_bar -->
         <!-- END switch_vote_active -->
     <!-- END displayed -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)
 
 ## Utilisations dans les templates
 

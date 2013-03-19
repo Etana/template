@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/agreement.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/agreement)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/agreement)
 
 ## Variables
 

@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_SORT_BY}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_SORT_BY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SORT_BY)
 
 ## Utilisations dans les templates
 

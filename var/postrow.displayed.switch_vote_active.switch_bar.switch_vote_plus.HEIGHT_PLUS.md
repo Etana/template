@@ -17,8 +17,7 @@ Attribut de [postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus](p
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS)
 
 ## Utilisations dans les templates
 

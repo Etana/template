@@ -13,8 +13,7 @@ Attribut de [main_page.pay_method.radio](main_page.pay_method.radio.md#readme).
 <!-- END main_page -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio.METHOD)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio.METHOD)
 
 ## Utilisations dans les templates
 

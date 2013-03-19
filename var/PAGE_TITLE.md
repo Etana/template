@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {PAGE_TITLE}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/PAGE_TITLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAGE_TITLE)
 
 ## Utilisations dans les templates
 

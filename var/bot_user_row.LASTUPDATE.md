@@ -9,8 +9,7 @@ Attribut de [bot_user_row](bot_user_row.md#readme).
 <!-- END bot_user_row -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/bot_user_row.LASTUPDATE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row.LASTUPDATE)
 
 ## Utilisations dans les templates
 

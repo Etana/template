@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {CLASS_CONTENT_CONTAINER}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/CLASS_CONTENT_CONTAINER)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/CLASS_CONTENT_CONTAINER)
 
 ## Utilisations dans les templates
 

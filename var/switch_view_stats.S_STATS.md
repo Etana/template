@@ -9,8 +9,7 @@ Attribut de [switch_view_stats](switch_view_stats.md#readme).
 <!-- END switch_view_stats -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_view_stats.S_STATS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats.S_STATS)
 
 ## Utilisations dans les templates
 

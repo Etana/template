@@ -9,8 +9,7 @@ contenu
 <!-- END switch_login_popup -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_login_popup)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_login_popup)
 
 ## Utilisations dans les templates
 

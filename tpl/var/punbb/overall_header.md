@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/punbb/overall_header.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/punbb/overall_header)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/overall_header)
 
 ## Variables
 

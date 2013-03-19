@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {LOGIN_POPUP_MSG}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG)
 
 ## Utilisations dans les templates
 

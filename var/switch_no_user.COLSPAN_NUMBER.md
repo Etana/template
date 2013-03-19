@@ -9,8 +9,7 @@ Attribut de [switch_no_user](switch_no_user.md#readme).
 <!-- END switch_no_user -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
 
 ## Utilisations dans les templates
 

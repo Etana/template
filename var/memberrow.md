@@ -9,8 +9,7 @@ contenu
 <!-- END memberrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/memberrow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow)
 
 ## Attributs
 * __[`{memberrow.AVATAR_IMG}`](memberrow.AVATAR_IMG.md#readme)__

@@ -13,8 +13,7 @@ Attribut de [postrow.displayed.switch_attachments](postrow.displayed.switch_atta
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)
 
 ## Utilisations dans les templates
 

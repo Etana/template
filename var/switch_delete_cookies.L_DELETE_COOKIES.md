@@ -9,8 +9,7 @@ Attribut de [switch_delete_cookies](switch_delete_cookies.md#readme).
 <!-- END switch_delete_cookies -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_delete_cookies.L_DELETE_COOKIES)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_delete_cookies.L_DELETE_COOKIES)
 
 ## Utilisations dans les templates
 

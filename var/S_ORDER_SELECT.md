@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_ORDER_SELECT}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)
 
 ## Utilisations dans les templates
 

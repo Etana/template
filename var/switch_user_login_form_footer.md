@@ -9,8 +9,7 @@ contenu
 <!-- END switch_user_login_form_footer -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer)
 
 ## Attributs
 * __[`<!-- BEGIN switch_fb_connect -->`](switch_user_login_form_footer.switch_fb_connect.md#readme)__

@@ -9,8 +9,7 @@ contenu
 <!-- END google_analytics_code -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/google_analytics_code)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code)
 
 ## Attributs
 * __[`<!-- BEGIN google_analytics_code_bis -->`](google_analytics_code.google_analytics_code_bis.md#readme)__

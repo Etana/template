@@ -6,15 +6,14 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ```html
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-    <!-- BEGIN catrow.forumrow.inc -->
-    contenu
-    <!-- END catrow.forumrow.inc -->
+        <!-- BEGIN inc -->
+        contenu
+        <!-- END inc -->
     <!-- END forumrow -->
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)
 
 ## Attributs
 * __[`{catrow.forumrow.inc.INC_CLASS}`](catrow.forumrow.inc.INC_CLASS.md#readme)__

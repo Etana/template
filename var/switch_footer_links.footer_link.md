@@ -5,14 +5,13 @@ Attribut de [switch_footer_links](switch_footer_links.md#readme).
 
 ```html
 <!-- BEGIN switch_footer_links -->
-<!-- BEGIN switch_footer_links.footer_link -->
-contenu
-<!-- END switch_footer_links.footer_link -->
+    <!-- BEGIN footer_link -->
+    contenu
+    <!-- END footer_link -->
 <!-- END switch_footer_links -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)
 
 ## Attributs
 * __[`{switch_footer_links.footer_link.FOOTER_LINK_REL}`](switch_footer_links.footer_link.FOOTER_LINK_REL.md#readme)__

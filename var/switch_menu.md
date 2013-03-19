@@ -9,10 +9,10 @@ contenu
 <!-- END switch_menu -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_menu)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_menu)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes [`1`](../tpl/src/subsilver/search_results_topics.tpl#L1), [`3`](../tpl/src/subsilver/search_results_topics.tpl#L3)
+* __[`rpg_sheet_edit`](../tpl/var/subsilver/rpg_sheet_edit.md#readme) :__ lignes [`1`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L1), [`3`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L3)

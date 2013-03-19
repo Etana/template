@@ -5,14 +5,13 @@ Attribut de [credit_card_method](credit_card_method.md#readme).
 
 ```html
 <!-- BEGIN credit_card_method -->
-<!-- BEGIN credit_card_method.switch_select_currency -->
-contenu
-<!-- END credit_card_method.switch_select_currency -->
+    <!-- BEGIN switch_select_currency -->
+    contenu
+    <!-- END switch_select_currency -->
 <!-- END credit_card_method -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency)
 
 ## Attributs
 * __[`<!-- BEGIN select_currency -->`](credit_card_method.switch_select_currency.select_currency.md#readme)__

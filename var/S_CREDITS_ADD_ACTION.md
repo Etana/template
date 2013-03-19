@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_CREDITS_ADD_ACTION}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_CREDITS_ADD_ACTION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_CREDITS_ADD_ACTION)
 
 ## Utilisations dans les templates
 

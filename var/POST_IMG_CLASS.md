@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {POST_IMG_CLASS}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/POST_IMG_CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/POST_IMG_CLASS)
 
 ## Utilisations dans les templates
 

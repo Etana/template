@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_ONLINE_EXPLAIN}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_ONLINE_EXPLAIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ONLINE_EXPLAIN)
 
 ## Utilisations dans les templates
 

@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {COLSPAN_PAGINATION}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/COLSPAN_PAGINATION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/COLSPAN_PAGINATION)
 
 ## Utilisations dans les templates
 

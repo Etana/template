@@ -9,8 +9,7 @@ contenu
 <!-- END show_permissions -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/show_permissions)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/show_permissions)
 
 ## Utilisations dans les templates
 

@@ -9,8 +9,7 @@ Attribut de [switch_facebook_logout](switch_facebook_logout.md#readme).
 <!-- END switch_facebook_logout -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_facebook_logout.SERVER_NAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_logout.SERVER_NAME)
 
 ## Utilisations dans les templates
 

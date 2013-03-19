@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {ADDTHIS_LANG}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/ADDTHIS_LANG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ADDTHIS_LANG)
 
 ## Utilisations dans les templates
 

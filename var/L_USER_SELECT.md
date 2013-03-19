@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_USER_SELECT}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_USER_SELECT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_USER_SELECT)
 
 ## Utilisations dans les templates
 

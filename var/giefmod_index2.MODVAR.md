@@ -9,8 +9,7 @@ Attribut de [giefmod_index2](giefmod_index2.md#readme).
 <!-- END giefmod_index2 -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)
 
 ## Utilisations dans les templates
 

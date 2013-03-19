@@ -11,8 +11,7 @@ Attribut de [promot_trafic.link](promot_trafic.link.md#readme).
 <!-- END promot_trafic -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/promot_trafic.link.U_HREF)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link.U_HREF)
 
 ## Utilisations dans les templates
 

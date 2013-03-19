@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {switch_facebook_logout_TMP}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
 
 ## Utilisations dans les templates
 

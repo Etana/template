@@ -9,8 +9,7 @@ contenu
 <!-- END switch_pagination -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_pagination)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_pagination)
 
 ## Utilisations dans les templates
 

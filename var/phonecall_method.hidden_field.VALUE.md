@@ -11,8 +11,7 @@ Attribut de [phonecall_method.hidden_field](phonecall_method.hidden_field.md#rea
 <!-- END phonecall_method -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.VALUE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.VALUE)
 
 ## Utilisations dans les templates
 

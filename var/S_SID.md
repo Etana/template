@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_SID}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_SID)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SID)
 
 ## Utilisations dans les templates
 

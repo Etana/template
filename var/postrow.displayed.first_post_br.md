@@ -6,15 +6,14 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ```html
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-    <!-- BEGIN postrow.displayed.first_post_br -->
-    contenu
-    <!-- END postrow.displayed.first_post_br -->
+        <!-- BEGIN first_post_br -->
+        contenu
+        <!-- END first_post_br -->
     <!-- END displayed -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.first_post_br)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.first_post_br)
 
 ## Utilisations dans les templates
 

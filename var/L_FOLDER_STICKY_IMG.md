@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_FOLDER_STICKY_IMG}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_FOLDER_STICKY_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FOLDER_STICKY_IMG)
 
 ## Utilisations dans les templates
 

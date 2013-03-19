@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/punbb/jumpbox.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/punbb/jumpbox)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/jumpbox)
 
 ## Variables
 

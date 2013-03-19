@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_SHARE}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_SHARE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SHARE)
 
 ## Utilisations dans les templates
 

@@ -11,8 +11,7 @@ Attribut de [catrow.catfoot](catrow.catfoot.md#readme).
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.catfoot.INC_SPAN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.catfoot.INC_SPAN)
 
 ## Utilisations dans les templates
 

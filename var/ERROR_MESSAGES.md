@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {ERROR_MESSAGES}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/ERROR_MESSAGES)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ERROR_MESSAGES)
 
 ## Utilisations dans les templates
 

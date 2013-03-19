@@ -9,8 +9,7 @@ contenu
 <!-- END giefmod_index2 -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/giefmod_index2)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2)
 
 ## Attributs
 * __[`{giefmod_index2.MODVAR}`](giefmod_index2.MODVAR.md#readme)__

@@ -9,8 +9,7 @@ Attribut de [reg_user_row](reg_user_row.md#readme).
 <!-- END reg_user_row -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/reg_user_row.FORUM_LOCATION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/reg_user_row.FORUM_LOCATION)
 
 ## Utilisations dans les templates
 

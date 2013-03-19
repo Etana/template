@@ -6,15 +6,14 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ```html
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-    <!-- BEGIN catrow.forumrow.switch_topic_title -->
-    contenu
-    <!-- END catrow.forumrow.switch_topic_title -->
+        <!-- BEGIN switch_topic_title -->
+        contenu
+        <!-- END switch_topic_title -->
     <!-- END forumrow -->
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)
 
 ## Utilisations dans les templates
 

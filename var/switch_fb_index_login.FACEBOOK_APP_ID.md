@@ -9,8 +9,7 @@ Attribut de [switch_fb_index_login](switch_fb_index_login.md#readme).
 <!-- END switch_fb_index_login -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID)
 
 ## Utilisations dans les templates
 

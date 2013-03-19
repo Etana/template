@@ -9,8 +9,7 @@ contenu
 <!-- END viewtopic_bottom -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/viewtopic_bottom)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/viewtopic_bottom)
 
 ## Utilisations dans les templates
 

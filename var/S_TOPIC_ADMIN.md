@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_TOPIC_ADMIN}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_TOPIC_ADMIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_TOPIC_ADMIN)
 
 ## Utilisations dans les templates
 

@@ -9,8 +9,7 @@ contenu
 <!-- END switch_on_index -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_on_index)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index)
 
 ## Attributs
 * __[`<!-- BEGIN switch_delete_cookies -->`](switch_on_index.switch_delete_cookies.md#readme)__

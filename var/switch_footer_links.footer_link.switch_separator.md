@@ -6,15 +6,14 @@ Attribut de [switch_footer_links.footer_link](switch_footer_links.footer_link.md
 ```html
 <!-- BEGIN switch_footer_links -->
     <!-- BEGIN footer_link -->
-    <!-- BEGIN switch_footer_links.footer_link.switch_separator -->
-    contenu
-    <!-- END switch_footer_links.footer_link.switch_separator -->
+        <!-- BEGIN switch_separator -->
+        contenu
+        <!-- END switch_separator -->
     <!-- END footer_link -->
 <!-- END switch_footer_links -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.switch_separator)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.switch_separator)
 
 ## Utilisations dans les templates
 

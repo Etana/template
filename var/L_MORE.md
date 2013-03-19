@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_MORE}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_MORE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MORE)
 
 ## Utilisations dans les templates
 

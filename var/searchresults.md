@@ -9,8 +9,7 @@ contenu
 <!-- END searchresults -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/searchresults)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults)
 
 ## Attributs
 * __[`{searchresults.FORUM_NAME}`](searchresults.FORUM_NAME.md#readme)__

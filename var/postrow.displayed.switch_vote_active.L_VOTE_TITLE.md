@@ -13,8 +13,7 @@ Attribut de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.L_VOTE_TITLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.L_VOTE_TITLE)
 
 ## Utilisations dans les templates
 

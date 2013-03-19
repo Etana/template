@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/viewtopic_poll_ballot.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/viewtopic_poll_ballot)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/viewtopic_poll_ballot)
 
 ## Variables
 

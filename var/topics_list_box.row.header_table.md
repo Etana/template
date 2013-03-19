@@ -6,15 +6,14 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 ```html
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
-    <!-- BEGIN topics_list_box.row.header_table -->
-    contenu
-    <!-- END topics_list_box.row.header_table -->
+        <!-- BEGIN header_table -->
+        contenu
+        <!-- END header_table -->
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)
 
 ## Attributs
 * __[`{topics_list_box.row.header_table.BOX_ID}`](topics_list_box.row.header_table.BOX_ID.md#readme)__

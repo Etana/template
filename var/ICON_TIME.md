@@ -7,10 +7,16 @@ Cette variable est utilisable directement.
 {ICON_TIME}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/ICON_TIME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ICON_TIME)
 
 ## Utilisations dans les templates
 
+### Version PunBB
+* __[`mod_recent_topics`](../tpl/var/punbb/mod_recent_topics.md#readme) :__ ligne [`7`](../tpl/src/punbb/mod_recent_topics.tpl#L7)
+
 ### Version phpBB2
+* __[`mod_recent_topics`](../tpl/var/subsilver/mod_recent_topics.md#readme) :__ ligne [`12`](../tpl/src/subsilver/mod_recent_topics.tpl#L12)
 * __[`search_results_posts`](../tpl/var/subsilver/search_results_posts.md#readme) :__ ligne [`23`](../tpl/src/subsilver/search_results_posts.tpl#L23)
+* __[`posting_topic_review`](../tpl/var/subsilver/posting_topic_review.md#readme) :__ ligne [`21`](../tpl/src/subsilver/posting_topic_review.tpl#L21)
+* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ ligne [`14`](../tpl/src/subsilver/mod_news.tpl#L14)
+* __[`privmsg_topic_review`](../tpl/var/subsilver/privmsg_topic_review.md#readme) :__ ligne [`20`](../tpl/src/subsilver/privmsg_topic_review.tpl#L20)

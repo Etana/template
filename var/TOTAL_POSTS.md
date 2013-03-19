@@ -27,6 +27,8 @@ Nos membres ont posté un total de <strong>2</strong> messages
 
 ### Version PunBB
 * __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/index_body.tpl#L59)
+* __[`mod_statistics`](../tpl/var/punbb/mod_statistics.md#readme) :__ ligne [`5`](../tpl/src/punbb/mod_statistics.tpl#L5)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`189`](../tpl/src/subsilver/index_body.tpl#L189)
+* __[`mod_statistics`](../tpl/var/subsilver/mod_statistics.md#readme) :__ ligne [`9`](../tpl/src/subsilver/mod_statistics.tpl#L9)

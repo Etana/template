@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/overall_header.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/overall_header)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/overall_header)
 
 ## Variables
 

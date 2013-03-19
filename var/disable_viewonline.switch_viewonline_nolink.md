@@ -5,14 +5,13 @@ Attribut de [disable_viewonline](disable_viewonline.md#readme).
 
 ```html
 <!-- BEGIN disable_viewonline -->
-<!-- BEGIN disable_viewonline.switch_viewonline_nolink -->
-contenu
-<!-- END disable_viewonline.switch_viewonline_nolink -->
+    <!-- BEGIN switch_viewonline_nolink -->
+    contenu
+    <!-- END switch_viewonline_nolink -->
 <!-- END disable_viewonline -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_nolink)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_nolink)
 
 ## Utilisations dans les templates
 

@@ -15,8 +15,7 @@ Attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postr
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.NB_DL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.NB_DL)
 
 ## Utilisations dans les templates
 

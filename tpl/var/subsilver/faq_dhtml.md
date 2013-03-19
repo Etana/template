@@ -2,8 +2,7 @@
 
 [Code de la template](../../src/subsilver/faq_dhtml.tpl)
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/tpl/subsilver/faq_dhtml)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/faq_dhtml)
 
 ## Variables
 

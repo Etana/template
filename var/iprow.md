@@ -1,0 +1,27 @@
+# iprow
+
+
+Variable.
+
+```html
+<!-- BEGIN iprow -->
+contenu
+<!-- END iprow -->
+```
+
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/iprow)
+
+## Attributs
+* __[`{iprow.IP}`](iprow.IP.md#readme)__
+* __[`{iprow.POSTS}`](iprow.POSTS.md#readme)__
+* __[`{iprow.ROW_CLASS}`](iprow.ROW_CLASS.md#readme)__
+* __[`{iprow.U_LOOKUP_IP}`](iprow.U_LOOKUP_IP.md#readme)__
+
+
+## Utilisations dans les templates
+
+### Version PunBB
+* __[`modcp_viewip`](../tpl/var/punbb/modcp_viewip.md#readme) :__ lignes [`97`](../tpl/src/punbb/modcp_viewip.tpl#L97), [`102`](../tpl/src/punbb/modcp_viewip.tpl#L102)
+
+### Version phpBB2
+* __[`modcp_viewip`](../tpl/var/subsilver/modcp_viewip.md#readme) :__ lignes [`63`](../tpl/src/subsilver/modcp_viewip.tpl#L63), [`74`](../tpl/src/subsilver/modcp_viewip.tpl#L74)

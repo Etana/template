@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_GOTO_DOWN}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_GOTO_DOWN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_GOTO_DOWN)
 
 ## Utilisations dans les templates
 

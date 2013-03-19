@@ -5,14 +5,13 @@ Attribut de [google_analytics_code](google_analytics_code.md#readme).
 
 ```html
 <!-- BEGIN google_analytics_code -->
-<!-- BEGIN google_analytics_code.google_analytics_code_bis -->
-contenu
-<!-- END google_analytics_code.google_analytics_code_bis -->
+    <!-- BEGIN google_analytics_code_bis -->
+    contenu
+    <!-- END google_analytics_code_bis -->
 <!-- END google_analytics_code -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/google_analytics_code.google_analytics_code_bis)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code.google_analytics_code_bis)
 
 ## Utilisations dans les templates
 

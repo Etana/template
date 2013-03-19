@@ -9,8 +9,7 @@ Attribut de [switch_compat_meta](switch_compat_meta.md#readme).
 <!-- END switch_compat_meta -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
 
 ## Utilisations dans les templates
 

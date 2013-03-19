@@ -9,8 +9,7 @@ Attribut de [topics_list_box](topics_list_box.md#readme).
 <!-- END topics_list_box -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.FORMNAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.FORMNAME)
 
 ## Utilisations dans les templates
 

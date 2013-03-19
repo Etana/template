@@ -5,14 +5,13 @@ Attribut de [message_admin_index](message_admin_index.md#readme).
 
 ```html
 <!-- BEGIN message_admin_index -->
-<!-- BEGIN message_admin_index.message_admin_txt -->
-contenu
-<!-- END message_admin_index.message_admin_txt -->
+    <!-- BEGIN message_admin_txt -->
+    contenu
+    <!-- END message_admin_txt -->
 <!-- END message_admin_index -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
 
 ## Attributs
 * __[`{message_admin_index.message_admin_txt.MES_TXT}`](message_admin_index.message_admin_txt.MES_TXT.md#readme)__

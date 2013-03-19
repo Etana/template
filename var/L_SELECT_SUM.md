@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {L_SELECT_SUM}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/L_SELECT_SUM)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SELECT_SUM)
 
 ## Utilisations dans les templates
 

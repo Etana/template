@@ -5,14 +5,13 @@ Attribut de [postrow](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
-<!-- BEGIN postrow.hidden -->
-contenu
-<!-- END postrow.hidden -->
+    <!-- BEGIN hidden -->
+    contenu
+    <!-- END hidden -->
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.hidden)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.hidden)
 
 ## Attributs
 * __[`{postrow.hidden.MESSAGE}`](postrow.hidden.MESSAGE.md#readme)__
@@ -23,6 +22,8 @@ contenu
 
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`119`](../tpl/src/punbb/viewtopic_body.tpl#L119), [`121`](../tpl/src/punbb/viewtopic_body.tpl#L121)
+* __[`posting_topic_review`](../tpl/var/punbb/posting_topic_review.md#readme) :__ lignes [`34`](../tpl/src/punbb/posting_topic_review.tpl#L34), [`38`](../tpl/src/punbb/posting_topic_review.tpl#L38)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`116`](../tpl/src/subsilver/viewtopic_body.tpl#L116), [`120`](../tpl/src/subsilver/viewtopic_body.tpl#L120)
+* __[`posting_topic_review`](../tpl/var/subsilver/posting_topic_review.md#readme) :__ lignes [`39`](../tpl/src/subsilver/posting_topic_review.tpl#L39), [`43`](../tpl/src/subsilver/posting_topic_review.tpl#L43)

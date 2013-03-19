@@ -5,14 +5,13 @@ Attribut de [switch_ticker_new](switch_ticker_new.md#readme).
 
 ```html
 <!-- BEGIN switch_ticker_new -->
-<!-- BEGIN switch_ticker_new.ticker_row -->
-contenu
-<!-- END switch_ticker_new.ticker_row -->
+    <!-- BEGIN ticker_row -->
+    contenu
+    <!-- END ticker_row -->
 <!-- END switch_ticker_new -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_ticker_new.ticker_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new.ticker_row)
 
 ## Utilisations dans les templates
 

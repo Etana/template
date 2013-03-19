@@ -13,8 +13,7 @@ Attribut de [postrow.displayed.profile_field](postrow.displayed.profile_field.md
 <!-- END postrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.LABEL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.LABEL)
 
 ## Utilisations dans les templates
 

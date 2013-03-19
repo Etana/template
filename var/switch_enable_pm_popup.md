@@ -9,8 +9,7 @@ contenu
 <!-- END switch_enable_pm_popup -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
 
 ## Utilisations dans les templates
 

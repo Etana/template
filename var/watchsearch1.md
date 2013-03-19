@@ -9,8 +9,7 @@ contenu
 <!-- END watchsearch1 -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/watchsearch1)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/watchsearch1)
 
 ## Utilisations dans les templates
 

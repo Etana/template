@@ -7,8 +7,7 @@ Cette variable est utilisable directement.
 {S_AUTH_LIST}
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/S_AUTH_LIST)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_AUTH_LIST)
 
 ## Utilisations dans les templates
 

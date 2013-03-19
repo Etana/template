@@ -6,15 +6,14 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ```html
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-    <!-- BEGIN catrow.forumrow.switch_moderators_links -->
-    contenu
-    <!-- END catrow.forumrow.switch_moderators_links -->
+        <!-- BEGIN switch_moderators_links -->
+        contenu
+        <!-- END switch_moderators_links -->
     <!-- END forumrow -->
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
 
 ## Attributs
 * __[`{catrow.forumrow.switch_moderators_links.L_MODERATOR}`](catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)__

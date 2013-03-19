@@ -11,8 +11,7 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 <!-- END catrow -->
 ```
 
-##Description
-[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.LATEST_TOPIC_TITLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.LATEST_TOPIC_TITLE)
 
 ## Utilisations dans les templates
 
