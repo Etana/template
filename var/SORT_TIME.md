@@ -1,7 +1,7 @@
 # SORT_TIME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_TIME}

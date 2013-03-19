@@ -1,7 +1,7 @@
 # switch_box_size_notice
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_box_size_notice -->
@@ -14,7 +14,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`privmsgs_body`](../tpl/var/punbb/privmsgs_body.md#readme) :__ lignes [`32`](../tpl/src/punbb/privmsgs_body.tpl#L32), [`32`](../tpl/src/punbb/privmsgs_body.tpl#L32)
+* __[`privmsgs_body`](../tpl/var/punbb/privmsgs_body.md#readme) :__ lignes [`32`](../tpl/src/punbb/privmsgs_body.tpl#L32)[`<->`](../tpl/src/punbb/privmsgs_body.tpl#L32-L32)[`32`](../tpl/src/punbb/privmsgs_body.tpl#L32)
 
 ### Version phpBB2
-* __[`privmsgs_body`](../tpl/var/subsilver/privmsgs_body.md#readme) :__ lignes [`17`](../tpl/src/subsilver/privmsgs_body.tpl#L17), [`37`](../tpl/src/subsilver/privmsgs_body.tpl#L37)
+* __[`privmsgs_body`](../tpl/var/subsilver/privmsgs_body.md#readme) :__ lignes [`17`](../tpl/src/subsilver/privmsgs_body.tpl#L17)[`<->`](../tpl/src/subsilver/privmsgs_body.tpl#L17-L37)[`37`](../tpl/src/subsilver/privmsgs_body.tpl#L37)

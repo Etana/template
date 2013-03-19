@@ -1,7 +1,7 @@
 # ENTER_IMAGE_URL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ENTER_IMAGE_URL}

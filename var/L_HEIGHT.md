@@ -1,7 +1,7 @@
 # L_HEIGHT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_HEIGHT}

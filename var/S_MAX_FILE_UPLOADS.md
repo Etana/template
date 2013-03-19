@@ -1,7 +1,7 @@
 # S_MAX_FILE_UPLOADS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_MAX_FILE_UPLOADS}

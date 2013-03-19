@@ -1,7 +1,7 @@
 # INBOX_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INBOX_IMG}

@@ -1,7 +1,7 @@
 # S_AUTH_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_AUTH_LIST}

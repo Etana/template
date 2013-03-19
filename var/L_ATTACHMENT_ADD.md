@@ -1,7 +1,7 @@
 # L_ATTACHMENT_ADD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ATTACHMENT_ADD}

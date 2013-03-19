@@ -1,7 +1,7 @@
 # L_DISABLE_HTML
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DISABLE_HTML}

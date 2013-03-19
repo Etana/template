@@ -1,7 +1,7 @@
 # UCP_TABS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {UCP_TABS}

@@ -1,7 +1,7 @@
 # TABS_LESS_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TABS_LESS_IMG}

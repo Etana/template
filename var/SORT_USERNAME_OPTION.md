@@ -1,7 +1,7 @@
 # SORT_USERNAME_OPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_USERNAME_OPTION}

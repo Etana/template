@@ -1,7 +1,7 @@
 # L_OVERALL_POSTERS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_OVERALL_POSTERS}

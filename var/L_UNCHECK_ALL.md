@@ -1,7 +1,7 @@
 # L_UNCHECK_ALL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UNCHECK_ALL}

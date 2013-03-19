@@ -1,7 +1,7 @@
 # L_STATS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_STATS}

@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE
 
 
-Attribut de [`<!-- BEGIN switch_event -->...<!-- END switch_event -->`](_calendar_box._row._cell.switch_filled._event.switch_event.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_event -->...<!-- END switch_event -->`](_calendar_box._row._cell.switch_filled._event.switch_event.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

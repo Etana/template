@@ -1,7 +1,7 @@
 # no_pics_personal
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN no_pics_personal -->
@@ -20,7 +20,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`120`](../tpl/src/punbb/album_cat_body.tpl#L120), [`128`](../tpl/src/punbb/album_cat_body.tpl#L128)
+* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`120`](../tpl/src/punbb/album_cat_body.tpl#L120)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L120-L128)[`128`](../tpl/src/punbb/album_cat_body.tpl#L128)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`246`](../tpl/src/subsilver/album_cat_body.tpl#L246), [`264`](../tpl/src/subsilver/album_cat_body.tpl#L264)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`246`](../tpl/src/subsilver/album_cat_body.tpl#L246)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L246-L264)[`264`](../tpl/src/subsilver/album_cat_body.tpl#L264)

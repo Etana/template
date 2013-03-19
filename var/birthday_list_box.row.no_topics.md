@@ -1,7 +1,7 @@
 # birthday_list_box.row.no_topics
 
 
-Attribut de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_box.row.md#readme).
+Attribut de bouclage de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN birthday_list_box -->
@@ -18,7 +18,7 @@ Attribut de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_box.row.md#r
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`birthday_list_box`](../tpl/var/punbb/birthday_list_box.md#readme) :__ lignes [`36`](../tpl/src/punbb/birthday_list_box.tpl#L36), [`40`](../tpl/src/punbb/birthday_list_box.tpl#L40)
+* __[`birthday_list_box`](../tpl/var/punbb/birthday_list_box.md#readme) :__ lignes [`36`](../tpl/src/punbb/birthday_list_box.tpl#L36)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L36-L40)[`40`](../tpl/src/punbb/birthday_list_box.tpl#L40)
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/var/subsilver/birthday_list_box.md#readme) :__ lignes [`45`](../tpl/src/subsilver/birthday_list_box.tpl#L45), [`49`](../tpl/src/subsilver/birthday_list_box.tpl#L49)
+* __[`birthday_list_box`](../tpl/var/subsilver/birthday_list_box.md#readme) :__ lignes [`45`](../tpl/src/subsilver/birthday_list_box.tpl#L45)[`<->`](../tpl/src/subsilver/birthday_list_box.tpl#L45-L49)[`49`](../tpl/src/subsilver/birthday_list_box.tpl#L49)

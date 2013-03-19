@@ -1,7 +1,7 @@
 # T_GOO_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {T_GOO_LINK}

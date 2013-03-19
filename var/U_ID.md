@@ -1,7 +1,7 @@
 # U_ID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_ID}

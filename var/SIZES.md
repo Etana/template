@@ -1,7 +1,7 @@
 # SIZES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SIZES}

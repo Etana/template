@@ -1,7 +1,7 @@
 # TOPIC_TITLE_LENGTH_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOPIC_TITLE_LENGTH_EXPLAIN}

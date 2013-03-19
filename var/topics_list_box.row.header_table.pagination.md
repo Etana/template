@@ -1,7 +1,7 @@
 # topics_list_box.row.header_table.pagination
 
 
-Attribut de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](topics_list_box.row.header_table.md#readme).
+Attribut de bouclage de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](topics_list_box.row.header_table.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -20,4 +20,4 @@ Attribut de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](topics_l
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`33`](../tpl/src/subsilver/topics_list_box.tpl#L33), [`37`](../tpl/src/subsilver/topics_list_box.tpl#L37)
+* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`33`](../tpl/src/subsilver/topics_list_box.tpl#L33)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L33-L37)[`37`](../tpl/src/subsilver/topics_list_box.tpl#L37)

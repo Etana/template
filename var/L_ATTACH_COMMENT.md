@@ -1,7 +1,7 @@
 # L_ATTACH_COMMENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ATTACH_COMMENT}

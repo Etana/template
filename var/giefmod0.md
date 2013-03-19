@@ -1,7 +1,7 @@
 # giefmod0
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN giefmod0 -->
@@ -19,7 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`12`](../tpl/src/punbb/portal_body.tpl#L12), [`17`](../tpl/src/punbb/portal_body.tpl#L17)
+* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`12`](../tpl/src/punbb/portal_body.tpl#L12)[`<->`](../tpl/src/punbb/portal_body.tpl#L12-L17)[`17`](../tpl/src/punbb/portal_body.tpl#L17)
 
 ### Version phpBB2
-* __[`portal_body`](../tpl/var/subsilver/portal_body.md#readme) :__ lignes [`3`](../tpl/src/subsilver/portal_body.tpl#L3), [`9`](../tpl/src/subsilver/portal_body.tpl#L9)
+* __[`portal_body`](../tpl/var/subsilver/portal_body.md#readme) :__ lignes [`3`](../tpl/src/subsilver/portal_body.tpl#L3)[`<->`](../tpl/src/subsilver/portal_body.tpl#L3-L9)[`9`](../tpl/src/subsilver/portal_body.tpl#L9)

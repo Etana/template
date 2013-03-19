@@ -1,7 +1,7 @@
 # NUFF_BW_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_BW_CHECKED}

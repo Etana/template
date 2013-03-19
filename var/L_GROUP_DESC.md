@@ -1,7 +1,7 @@
 # L_GROUP_DESC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_GROUP_DESC}

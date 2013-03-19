@@ -1,7 +1,7 @@
 # L_SEND_PASSWORD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SEND_PASSWORD}

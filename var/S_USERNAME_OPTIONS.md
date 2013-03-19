@@ -1,7 +1,7 @@
 # S_USERNAME_OPTIONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_USERNAME_OPTIONS}

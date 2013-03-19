@@ -1,7 +1,7 @@
 # FOLDER_LOCKED_NEW_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {FOLDER_LOCKED_NEW_IMG}

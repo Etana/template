@@ -1,7 +1,7 @@
 # FORUM_URL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {FORUM_URL}

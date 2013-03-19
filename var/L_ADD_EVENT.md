@@ -1,7 +1,7 @@
 # L_ADD_EVENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ADD_EVENT}

@@ -1,7 +1,7 @@
 # postrow.displayed
 
 
-Attribut de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme).
+Attribut de bouclage de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -63,9 +63,9 @@ Attribut de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme)
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`123`](../tpl/src/punbb/viewtopic_body.tpl#L123), [`250`](../tpl/src/punbb/viewtopic_body.tpl#L250)
-* __[`posting_topic_review`](../tpl/var/punbb/posting_topic_review.md#readme) :__ lignes [`8`](../tpl/src/punbb/posting_topic_review.tpl#L8), [`33`](../tpl/src/punbb/posting_topic_review.tpl#L33)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`123`](../tpl/src/punbb/viewtopic_body.tpl#L123)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L123-L250)[`250`](../tpl/src/punbb/viewtopic_body.tpl#L250)
+* __[`posting_topic_review`](../tpl/var/punbb/posting_topic_review.md#readme) :__ lignes [`8`](../tpl/src/punbb/posting_topic_review.tpl#L8)[`<->`](../tpl/src/punbb/posting_topic_review.tpl#L8-L33)[`33`](../tpl/src/punbb/posting_topic_review.tpl#L33)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/viewtopic_body.tpl#L121), [`256`](../tpl/src/subsilver/viewtopic_body.tpl#L256)
-* __[`posting_topic_review`](../tpl/var/subsilver/posting_topic_review.md#readme) :__ lignes [`14`](../tpl/src/subsilver/posting_topic_review.tpl#L14), [`38`](../tpl/src/subsilver/posting_topic_review.tpl#L38)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/viewtopic_body.tpl#L121)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L121-L256)[`256`](../tpl/src/subsilver/viewtopic_body.tpl#L256)
+* __[`posting_topic_review`](../tpl/var/subsilver/posting_topic_review.md#readme) :__ lignes [`14`](../tpl/src/subsilver/posting_topic_review.tpl#L14)[`<->`](../tpl/src/subsilver/posting_topic_review.tpl#L14-L38)[`38`](../tpl/src/subsilver/posting_topic_review.tpl#L38)

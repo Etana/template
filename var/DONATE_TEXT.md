@@ -1,7 +1,7 @@
 # DONATE_TEXT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DONATE_TEXT}

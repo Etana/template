@@ -1,7 +1,7 @@
 # birthday_list_box.row.header_table.multi_selection
 
 
-Attribut de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](birthday_list_box.row.header_table.md#readme).
+Attribut de bouclage de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](birthday_list_box.row.header_table.md#readme).
 
 ```html
 <!-- BEGIN birthday_list_box -->
@@ -20,4 +20,4 @@ Attribut de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](birthday
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/var/subsilver/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/birthday_list_box.tpl#L1), [`20`](../tpl/src/subsilver/birthday_list_box.tpl#L20)
+* __[`birthday_list_box`](../tpl/var/subsilver/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/birthday_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/birthday_list_box.tpl#L1-L20)[`20`](../tpl/src/subsilver/birthday_list_box.tpl#L20)

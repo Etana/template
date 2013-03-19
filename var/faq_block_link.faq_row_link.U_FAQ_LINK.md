@@ -1,7 +1,7 @@
 # faq_block_link.faq_row_link.U_FAQ_LINK
 
 
-Attribut de [`<!-- BEGIN faq_row_link -->...<!-- END faq_row_link -->`](faq_block_link.faq_row_link.md#readme).
+Attribut d'affichage de [`<!-- BEGIN faq_row_link -->...<!-- END faq_row_link -->`](faq_block_link.faq_row_link.md#readme).
 
 ```html
 <!-- BEGIN faq_block_link -->

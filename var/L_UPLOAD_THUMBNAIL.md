@@ -1,7 +1,7 @@
 # L_UPLOAD_THUMBNAIL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UPLOAD_THUMBNAIL}

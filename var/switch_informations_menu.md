@@ -1,7 +1,7 @@
 # switch_informations_menu
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_informations_menu -->
@@ -33,7 +33,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`25`](../tpl/src/punbb/profile_add_body.tpl#L25), [`141`](../tpl/src/punbb/profile_add_body.tpl#L141), [`397`](../tpl/src/punbb/profile_add_body.tpl#L397), [`407`](../tpl/src/punbb/profile_add_body.tpl#L407)
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`25`](../tpl/src/punbb/profile_add_body.tpl#L25)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L25-L141)[`141`](../tpl/src/punbb/profile_add_body.tpl#L141), [`397`](../tpl/src/punbb/profile_add_body.tpl#L397)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L397-L407)[`407`](../tpl/src/punbb/profile_add_body.tpl#L407)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`8`](../tpl/src/subsilver/profile_add_body.tpl#L8), [`85`](../tpl/src/subsilver/profile_add_body.tpl#L85)
+* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`8`](../tpl/src/subsilver/profile_add_body.tpl#L8)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L8-L85)[`85`](../tpl/src/subsilver/profile_add_body.tpl#L85)

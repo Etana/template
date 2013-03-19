@@ -1,7 +1,7 @@
 # L_RESET
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_RESET}

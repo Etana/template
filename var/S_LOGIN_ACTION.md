@@ -1,7 +1,7 @@
 # S_LOGIN_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_LOGIN_ACTION}

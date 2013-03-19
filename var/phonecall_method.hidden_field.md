@@ -1,7 +1,7 @@
 # phonecall_method.hidden_field
 
 
-Attribut de [`<!-- BEGIN phonecall_method -->...<!-- END phonecall_method -->`](phonecall_method.md#readme).
+Attribut de bouclage de [`<!-- BEGIN phonecall_method -->...<!-- END phonecall_method -->`](phonecall_method.md#readme).
 
 ```html
 <!-- BEGIN phonecall_method -->
@@ -21,7 +21,7 @@ Attribut de [`<!-- BEGIN phonecall_method -->...<!-- END phonecall_method -->`](
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`81`](../tpl/src/punbb/donate.tpl#L81), [`83`](../tpl/src/punbb/donate.tpl#L83)
+* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`81`](../tpl/src/punbb/donate.tpl#L81)[`<->`](../tpl/src/punbb/donate.tpl#L81-L83)[`83`](../tpl/src/punbb/donate.tpl#L83)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`108`](../tpl/src/subsilver/donate.tpl#L108), [`110`](../tpl/src/subsilver/donate.tpl#L110)
+* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`108`](../tpl/src/subsilver/donate.tpl#L108)[`<->`](../tpl/src/subsilver/donate.tpl#L108-L110)[`110`](../tpl/src/subsilver/donate.tpl#L110)

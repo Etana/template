@@ -1,7 +1,7 @@
 # L_HIDE_TAB
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_HIDE_TAB}

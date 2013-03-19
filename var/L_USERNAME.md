@@ -1,7 +1,7 @@
 # L_USERNAME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_USERNAME}

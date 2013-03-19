@@ -1,7 +1,7 @@
 # S_COL_WIDTH_NEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_COL_WIDTH_NEW}

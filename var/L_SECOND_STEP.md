@@ -1,7 +1,7 @@
 # L_SECOND_STEP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SECOND_STEP}

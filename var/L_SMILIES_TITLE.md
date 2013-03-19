@@ -1,7 +1,7 @@
 # L_SMILIES_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SMILIES_TITLE}

@@ -1,7 +1,7 @@
 # CLASS_CONTENT_CONTAINER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CLASS_CONTENT_CONTAINER}

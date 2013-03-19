@@ -1,7 +1,7 @@
 # S_PIC_DESC_MAX_LENGTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_PIC_DESC_MAX_LENGTH}

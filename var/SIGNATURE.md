@@ -1,7 +1,7 @@
 # SIGNATURE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SIGNATURE}

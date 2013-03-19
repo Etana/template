@@ -1,7 +1,7 @@
 # SID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SID}

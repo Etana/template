@@ -1,7 +1,7 @@
 # TOTAL_CHATTERS_ONLINE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOTAL_CHATTERS_ONLINE}

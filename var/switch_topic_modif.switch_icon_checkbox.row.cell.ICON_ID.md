@@ -1,7 +1,7 @@
 # switch_topic_modif.switch_icon_checkbox.row.cell.ICON_ID
 
 
-Attribut de [`<!-- BEGIN cell -->...<!-- END cell -->`](switch_topic_modif.switch_icon_checkbox.row.cell.md#readme).
+Attribut d'affichage de [`<!-- BEGIN cell -->...<!-- END cell -->`](switch_topic_modif.switch_icon_checkbox.row.cell.md#readme).
 
 ```html
 <!-- BEGIN switch_topic_modif -->

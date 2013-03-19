@@ -1,7 +1,7 @@
 # L_SPLIT_AFTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SPLIT_AFTER}

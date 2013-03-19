@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN
 
 
-Attribut de [`<!-- BEGIN switch_fb_account_linked -->...<!-- END switch_fb_account_linked -->`](switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_fb_account_linked -->...<!-- END switch_fb_account_linked -->`](switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->

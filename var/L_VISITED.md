@@ -1,7 +1,7 @@
 # L_VISITED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_VISITED}

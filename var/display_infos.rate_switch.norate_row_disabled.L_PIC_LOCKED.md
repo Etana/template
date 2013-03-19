@@ -1,7 +1,7 @@
 # display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED
 
 
-Attribut de [`<!-- BEGIN norate_row_disabled -->...<!-- END norate_row_disabled -->`](display_infos.rate_switch.norate_row_disabled.md#readme).
+Attribut d'affichage de [`<!-- BEGIN norate_row_disabled -->...<!-- END norate_row_disabled -->`](display_infos.rate_switch.norate_row_disabled.md#readme).
 
 ```html
 <!-- BEGIN display_infos -->

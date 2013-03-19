@@ -1,7 +1,7 @@
 # LOGGED_AS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LOGGED_AS}

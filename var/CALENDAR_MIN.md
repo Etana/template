@@ -1,7 +1,7 @@
 # CALENDAR_MIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CALENDAR_MIN}

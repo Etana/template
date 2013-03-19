@@ -1,7 +1,7 @@
 # L_SEARCH_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SEARCH_TITLE}

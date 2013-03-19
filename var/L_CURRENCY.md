@@ -1,7 +1,7 @@
 # L_CURRENCY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CURRENCY}

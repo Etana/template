@@ -1,7 +1,7 @@
 # L_DELETE_MARKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DELETE_MARKED}

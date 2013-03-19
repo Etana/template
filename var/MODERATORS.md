@@ -1,7 +1,7 @@
 # MODERATORS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MODERATORS}

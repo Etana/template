@@ -1,7 +1,7 @@
 # pics_nav.prev
 
 
-Attribut de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics_nav.md#readme).
+Attribut de bouclage de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics_nav.md#readme).
 
 ```html
 <!-- BEGIN pics_nav -->
@@ -22,7 +22,7 @@ Attribut de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics_nav.md#read
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`352`](../tpl/src/punbb/album_showpage_body.tpl#L352), [`356`](../tpl/src/punbb/album_showpage_body.tpl#L356)
+* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`352`](../tpl/src/punbb/album_showpage_body.tpl#L352)[`<->`](../tpl/src/punbb/album_showpage_body.tpl#L352-L356)[`356`](../tpl/src/punbb/album_showpage_body.tpl#L356)
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`389`](../tpl/src/subsilver/album_showpage_body.tpl#L389), [`399`](../tpl/src/subsilver/album_showpage_body.tpl#L399)
+* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`389`](../tpl/src/subsilver/album_showpage_body.tpl#L389)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L389-L399)[`399`](../tpl/src/subsilver/album_showpage_body.tpl#L399)

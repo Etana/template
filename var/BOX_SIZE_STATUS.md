@@ -1,7 +1,7 @@
 # BOX_SIZE_STATUS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BOX_SIZE_STATUS}

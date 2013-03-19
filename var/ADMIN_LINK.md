@@ -1,7 +1,7 @@
 # ADMIN_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ADMIN_LINK}

@@ -1,7 +1,7 @@
 # S_WATCH_FORUM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_WATCH_FORUM}

@@ -1,7 +1,7 @@
 # moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW
 
 
-Attribut de [`<!-- BEGIN moderation_panel -->...<!-- END moderation_panel -->`](moderation_panel.md#readme).
+Attribut d'affichage de [`<!-- BEGIN moderation_panel -->...<!-- END moderation_panel -->`](moderation_panel.md#readme).
 
 ```html
 <!-- BEGIN moderation_panel -->

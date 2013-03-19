@@ -1,7 +1,7 @@
 # U_ADMIN_RPG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_ADMIN_RPG}

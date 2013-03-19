@@ -1,7 +1,7 @@
 # SITE_DESCRIPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SITE_DESCRIPTION}

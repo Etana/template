@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.nav_tree
 
 
-Attribut de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.topic.md#readme).
+Attribut de bouclage de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.topic.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -20,4 +20,4 @@ Attribut de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.to
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`68`](../tpl/src/subsilver/topics_list_box.tpl#L68), [`68`](../tpl/src/subsilver/topics_list_box.tpl#L68)
+* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`68`](../tpl/src/subsilver/topics_list_box.tpl#L68)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L68-L68)[`68`](../tpl/src/subsilver/topics_list_box.tpl#L68)

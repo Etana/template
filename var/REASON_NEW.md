@@ -1,7 +1,7 @@
 # REASON_NEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {REASON_NEW}

@@ -1,7 +1,7 @@
 # AGREE_OVER_13
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AGREE_OVER_13}

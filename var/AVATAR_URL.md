@@ -1,7 +1,7 @@
 # AVATAR_URL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AVATAR_URL}

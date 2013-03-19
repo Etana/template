@@ -1,7 +1,7 @@
 # L_WHO_IS_ONLINE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_WHO_IS_ONLINE}

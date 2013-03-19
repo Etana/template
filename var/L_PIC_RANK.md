@@ -1,7 +1,7 @@
 # L_PIC_RANK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PIC_RANK}

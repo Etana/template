@@ -1,7 +1,7 @@
 # EXT_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {EXT_LIST}

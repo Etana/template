@@ -1,7 +1,7 @@
 # POSTER.NAME
 
 
-Attribut de [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](POSTER.md#readme).
+Attribut d'affichage de [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](POSTER.md#readme).
 
 ```html
 <!-- BEGIN POSTER -->

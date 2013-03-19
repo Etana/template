@@ -1,7 +1,7 @@
 # C1SIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {C1SIZE}

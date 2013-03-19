@@ -1,7 +1,7 @@
 # POST_SUBJECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_SUBJECT}

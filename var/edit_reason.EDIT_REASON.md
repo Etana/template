@@ -1,7 +1,7 @@
 # edit_reason.EDIT_REASON
 
 
-Attribut de [`<!-- BEGIN edit_reason -->...<!-- END edit_reason -->`](edit_reason.md#readme).
+Attribut d'affichage de [`<!-- BEGIN edit_reason -->...<!-- END edit_reason -->`](edit_reason.md#readme).
 
 ```html
 <!-- BEGIN edit_reason -->

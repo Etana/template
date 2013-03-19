@@ -1,7 +1,7 @@
 # L_HELP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_HELP}

@@ -1,7 +1,7 @@
 # OUTBOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {OUTBOX}

@@ -1,7 +1,7 @@
 # ENTER_LIST_TYPE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ENTER_LIST_TYPE}

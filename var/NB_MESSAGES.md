@@ -1,7 +1,7 @@
 # NB_MESSAGES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NB_MESSAGES}

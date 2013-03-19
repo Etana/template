@@ -1,7 +1,7 @@
 # MODE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MODE}

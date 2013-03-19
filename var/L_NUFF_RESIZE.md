@@ -1,7 +1,7 @@
 # L_NUFF_RESIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NUFF_RESIZE}

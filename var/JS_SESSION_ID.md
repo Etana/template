@@ -1,7 +1,7 @@
 # JS_SESSION_ID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JS_SESSION_ID}

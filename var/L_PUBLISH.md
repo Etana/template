@@ -1,7 +1,7 @@
 # L_PUBLISH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PUBLISH}

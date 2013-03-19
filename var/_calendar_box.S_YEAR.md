@@ -1,7 +1,7 @@
 # _calendar_box.S_YEAR
 
 
-Attribut de [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](_calendar_box.md#readme).
+Attribut d'affichage de [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](_calendar_box.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

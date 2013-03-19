@@ -1,7 +1,7 @@
 # L_HOURS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_HOURS}

@@ -1,7 +1,7 @@
 # SORT_APPROVAL_OPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_APPROVAL_OPTION}

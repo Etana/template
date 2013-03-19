@@ -1,7 +1,7 @@
 # YIM_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {YIM_IMG}

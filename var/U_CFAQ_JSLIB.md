@@ -1,7 +1,7 @@
 # U_CFAQ_JSLIB
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_CFAQ_JSLIB}

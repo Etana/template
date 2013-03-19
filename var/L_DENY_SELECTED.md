@@ -1,7 +1,7 @@
 # L_DENY_SELECTED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DENY_SELECTED}

@@ -1,7 +1,7 @@
 # S_SELECT_MSG_DAYS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_SELECT_MSG_DAYS}

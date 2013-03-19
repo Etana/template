@@ -1,7 +1,7 @@
 # CAT_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CAT_TITLE}

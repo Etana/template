@@ -1,7 +1,7 @@
 # MESSAGE_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MESSAGE_TITLE}

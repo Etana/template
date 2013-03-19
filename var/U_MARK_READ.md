@@ -1,7 +1,7 @@
 # U_MARK_READ
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_MARK_READ}

@@ -1,7 +1,7 @@
 # GROUP_NAME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GROUP_NAME}

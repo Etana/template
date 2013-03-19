@@ -1,7 +1,7 @@
 # switch_exif_enabled.exif_switch.exif_data
 
 
-Attribut de [`<!-- BEGIN exif_switch -->...<!-- END exif_switch -->`](switch_exif_enabled.exif_switch.md#readme).
+Attribut de bouclage de [`<!-- BEGIN exif_switch -->...<!-- END exif_switch -->`](switch_exif_enabled.exif_switch.md#readme).
 
 ```html
 <!-- BEGIN switch_exif_enabled -->
@@ -25,4 +25,4 @@ Attribut de [`<!-- BEGIN exif_switch -->...<!-- END exif_switch -->`](switch_exi
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`356`](../tpl/src/subsilver/album_showpage_body.tpl#L356), [`363`](../tpl/src/subsilver/album_showpage_body.tpl#L363)
+* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`356`](../tpl/src/subsilver/album_showpage_body.tpl#L356)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L356-L363)[`363`](../tpl/src/subsilver/album_showpage_body.tpl#L363)

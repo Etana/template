@@ -1,7 +1,7 @@
 # POSTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POSTER}

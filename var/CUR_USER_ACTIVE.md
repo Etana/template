@@ -1,7 +1,7 @@
 # CUR_USER_ACTIVE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CUR_USER_ACTIVE}

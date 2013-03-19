@@ -1,7 +1,7 @@
 # L_TELL_FRIEND_RECIEVER_EMAIL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TELL_FRIEND_RECIEVER_EMAIL}

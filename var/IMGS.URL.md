@@ -1,7 +1,7 @@
 # IMGS.URL
 
 
-Attribut de [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](IMGS.md#readme).
+Attribut d'affichage de [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](IMGS.md#readme).
 
 ```html
 <!-- BEGIN IMGS -->

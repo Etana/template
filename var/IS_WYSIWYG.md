@@ -1,7 +1,7 @@
 # IS_WYSIWYG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {IS_WYSIWYG}

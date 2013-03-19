@@ -1,7 +1,7 @@
 # disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX
 
 
-Attribut de [`<!-- BEGIN switch_chatbox_popup -->...<!-- END switch_chatbox_popup -->`](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_chatbox_popup -->...<!-- END switch_chatbox_popup -->`](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.md#readme).
 
 ```html
 <!-- BEGIN disable_viewonline -->

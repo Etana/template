@@ -1,7 +1,7 @@
 # MY_RULES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MY_RULES}

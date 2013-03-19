@@ -1,7 +1,7 @@
 # L_FIRST_STEP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FIRST_STEP}

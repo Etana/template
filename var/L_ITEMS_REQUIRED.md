@@ -1,7 +1,7 @@
 # L_ITEMS_REQUIRED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ITEMS_REQUIRED}

@@ -1,7 +1,7 @@
 # CURRENCY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CURRENCY}

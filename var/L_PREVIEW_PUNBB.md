@@ -1,7 +1,7 @@
 # L_PREVIEW_PUNBB
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PREVIEW_PUNBB}

@@ -1,7 +1,7 @@
 # display_infos
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN display_infos -->
@@ -19,7 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`266`](../tpl/src/punbb/album_showpage_body.tpl#L266), [`336`](../tpl/src/punbb/album_showpage_body.tpl#L336)
+* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`266`](../tpl/src/punbb/album_showpage_body.tpl#L266)[`<->`](../tpl/src/punbb/album_showpage_body.tpl#L266-L336)[`336`](../tpl/src/punbb/album_showpage_body.tpl#L336)
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`255`](../tpl/src/subsilver/album_showpage_body.tpl#L255), [`349`](../tpl/src/subsilver/album_showpage_body.tpl#L349)
+* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`255`](../tpl/src/subsilver/album_showpage_body.tpl#L255)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L255-L349)[`349`](../tpl/src/subsilver/album_showpage_body.tpl#L349)

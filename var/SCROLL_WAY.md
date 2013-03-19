@@ -1,7 +1,7 @@
 # SCROLL_WAY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SCROLL_WAY}

@@ -1,7 +1,7 @@
 # INSERT_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INSERT_LINK}

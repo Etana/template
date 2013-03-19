@@ -1,7 +1,7 @@
 # switch_quote_limit.L_QUOTE_LIMIT_WARNING
 
 
-Attribut de [`<!-- BEGIN switch_quote_limit -->...<!-- END switch_quote_limit -->`](switch_quote_limit.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_quote_limit -->...<!-- END switch_quote_limit -->`](switch_quote_limit.md#readme).
 
 ```html
 <!-- BEGIN switch_quote_limit -->

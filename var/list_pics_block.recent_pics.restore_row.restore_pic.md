@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.restore_row.restore_pic
 
 
-Attribut de [`<!-- BEGIN restore_row -->...<!-- END restore_row -->`](list_pics_block.recent_pics.restore_row.md#readme).
+Attribut de bouclage de [`<!-- BEGIN restore_row -->...<!-- END restore_row -->`](list_pics_block.recent_pics.restore_row.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->
@@ -25,4 +25,4 @@ Attribut de [`<!-- BEGIN restore_row -->...<!-- END restore_row -->`](list_pics_
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`147`](../tpl/src/subsilver/album_cat_body.tpl#L147), [`153`](../tpl/src/subsilver/album_cat_body.tpl#L153)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`147`](../tpl/src/subsilver/album_cat_body.tpl#L147)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L147-L153)[`153`](../tpl/src/subsilver/album_cat_body.tpl#L153)

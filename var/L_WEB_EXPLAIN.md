@@ -1,7 +1,7 @@
 # L_WEB_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_WEB_EXPLAIN}

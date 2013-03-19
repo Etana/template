@@ -1,7 +1,7 @@
 # L_PLAIN_TEXT_ONLY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PLAIN_TEXT_ONLY}

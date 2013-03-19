@@ -1,7 +1,7 @@
 # L_JOIN_GROUP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_JOIN_GROUP}

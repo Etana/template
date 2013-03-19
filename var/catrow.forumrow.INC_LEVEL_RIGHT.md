@@ -1,7 +1,7 @@
 # catrow.forumrow.INC_LEVEL_RIGHT
 
 
-Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

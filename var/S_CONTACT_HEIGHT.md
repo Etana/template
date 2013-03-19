@@ -1,7 +1,7 @@
 # S_CONTACT_HEIGHT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_CONTACT_HEIGHT}

@@ -1,7 +1,7 @@
 # L_ATTACHMENT_DELETE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ATTACHMENT_DELETE}

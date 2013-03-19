@@ -1,7 +1,7 @@
 # classical_row.recent_topic_row.U_POSTER
 
 
-Attribut de [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](classical_row.recent_topic_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](classical_row.recent_topic_row.md#readme).
 
 ```html
 <!-- BEGIN classical_row -->

@@ -1,7 +1,7 @@
 # index_pics_block.picrow.nopiccol.S_CLASS_ROW1
 
 
-Attribut de [`<!-- BEGIN nopiccol -->...<!-- END nopiccol -->`](index_pics_block.picrow.nopiccol.md#readme).
+Attribut d'affichage de [`<!-- BEGIN nopiccol -->...<!-- END nopiccol -->`](index_pics_block.picrow.nopiccol.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->

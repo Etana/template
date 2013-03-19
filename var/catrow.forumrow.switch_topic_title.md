@@ -1,7 +1,7 @@
 # catrow.forumrow.switch_topic_title
 
 
-Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
+Attribut de bouclage de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -18,4 +18,4 @@ Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`43`](../tpl/src/punbb/index_box.tpl#L43), [`45`](../tpl/src/punbb/index_box.tpl#L45)
+* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`43`](../tpl/src/punbb/index_box.tpl#L43)[`<->`](../tpl/src/punbb/index_box.tpl#L43-L45)[`45`](../tpl/src/punbb/index_box.tpl#L45)

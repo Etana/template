@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus
 
 
-Attribut de [`<!-- BEGIN switch_bar -->...<!-- END switch_bar -->`](postrow.displayed.switch_vote_active.switch_bar.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_bar -->...<!-- END switch_bar -->`](postrow.displayed.switch_vote_active.switch_bar.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -26,7 +26,7 @@ Attribut de [`<!-- BEGIN switch_bar -->...<!-- END switch_bar -->`](postrow.disp
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`171`](../tpl/src/punbb/viewtopic_body.tpl#L171), [`173`](../tpl/src/punbb/viewtopic_body.tpl#L173)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`171`](../tpl/src/punbb/viewtopic_body.tpl#L171)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L171-L173)[`173`](../tpl/src/punbb/viewtopic_body.tpl#L173)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`162`](../tpl/src/subsilver/viewtopic_body.tpl#L162), [`164`](../tpl/src/subsilver/viewtopic_body.tpl#L164)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`162`](../tpl/src/subsilver/viewtopic_body.tpl#L162)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L162-L164)[`164`](../tpl/src/subsilver/viewtopic_body.tpl#L164)

@@ -1,7 +1,7 @@
 # DELETE_ALL_FIELD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DELETE_ALL_FIELD}

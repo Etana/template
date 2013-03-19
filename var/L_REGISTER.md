@@ -1,7 +1,7 @@
 # L_REGISTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_REGISTER}

@@ -1,7 +1,7 @@
 # L_ENABLE_MASS_PM_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ENABLE_MASS_PM_EXPLAIN}

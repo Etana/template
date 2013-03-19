@@ -1,7 +1,7 @@
 # SEARCH_FORUMS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SEARCH_FORUMS}

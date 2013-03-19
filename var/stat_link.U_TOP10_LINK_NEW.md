@@ -1,7 +1,7 @@
 # stat_link.U_TOP10_LINK_NEW
 
 
-Attribut de [`<!-- BEGIN stat_link -->...<!-- END stat_link -->`](stat_link.md#readme).
+Attribut d'affichage de [`<!-- BEGIN stat_link -->...<!-- END stat_link -->`](stat_link.md#readme).
 
 ```html
 <!-- BEGIN stat_link -->

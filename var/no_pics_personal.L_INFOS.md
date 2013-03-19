@@ -1,7 +1,7 @@
 # no_pics_personal.L_INFOS
 
 
-Attribut de [`<!-- BEGIN no_pics_personal -->...<!-- END no_pics_personal -->`](no_pics_personal.md#readme).
+Attribut d'affichage de [`<!-- BEGIN no_pics_personal -->...<!-- END no_pics_personal -->`](no_pics_personal.md#readme).
 
 ```html
 <!-- BEGIN no_pics_personal -->

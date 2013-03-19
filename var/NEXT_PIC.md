@@ -1,7 +1,7 @@
 # NEXT_PIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NEXT_PIC}

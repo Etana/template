@@ -1,7 +1,7 @@
 # TOPIC_URL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOPIC_URL}

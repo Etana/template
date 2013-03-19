@@ -1,7 +1,7 @@
 # L_LINK_REMOTE_AVATAR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LINK_REMOTE_AVATAR}

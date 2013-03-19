@@ -1,7 +1,7 @@
 # CODE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CODE}

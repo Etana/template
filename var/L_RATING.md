@@ -1,7 +1,7 @@
 # L_RATING
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_RATING}

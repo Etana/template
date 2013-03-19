@@ -1,7 +1,7 @@
 # list_pics_block.list_pics_title
 
 
-Attribut de [`<!-- BEGIN list_pics_block -->...<!-- END list_pics_block -->`](list_pics_block.md#readme).
+Attribut de bouclage de [`<!-- BEGIN list_pics_block -->...<!-- END list_pics_block -->`](list_pics_block.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->
@@ -20,7 +20,7 @@ Attribut de [`<!-- BEGIN list_pics_block -->...<!-- END list_pics_block -->`](li
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_top10`](../tpl/var/punbb/album_cat_top10.md#readme) :__ lignes [`25`](../tpl/src/punbb/album_cat_top10.tpl#L25), [`27`](../tpl/src/punbb/album_cat_top10.tpl#L27)
+* __[`album_cat_top10`](../tpl/var/punbb/album_cat_top10.md#readme) :__ lignes [`25`](../tpl/src/punbb/album_cat_top10.tpl#L25)[`<->`](../tpl/src/punbb/album_cat_top10.tpl#L25-L27)[`27`](../tpl/src/punbb/album_cat_top10.tpl#L27)
 
 ### Version phpBB2
-* __[`album_cat_top10`](../tpl/var/subsilver/album_cat_top10.md#readme) :__ lignes [`13`](../tpl/src/subsilver/album_cat_top10.tpl#L13), [`17`](../tpl/src/subsilver/album_cat_top10.tpl#L17)
+* __[`album_cat_top10`](../tpl/var/subsilver/album_cat_top10.md#readme) :__ lignes [`13`](../tpl/src/subsilver/album_cat_top10.tpl#L13)[`<->`](../tpl/src/subsilver/album_cat_top10.tpl#L13-L17)[`17`](../tpl/src/subsilver/album_cat_top10.tpl#L17)

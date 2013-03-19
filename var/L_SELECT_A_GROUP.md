@@ -1,7 +1,7 @@
 # L_SELECT_A_GROUP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SELECT_A_GROUP}

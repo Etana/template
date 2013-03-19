@@ -1,7 +1,7 @@
 # L_OTHER_BBCODE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_OTHER_BBCODE}

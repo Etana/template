@@ -1,7 +1,7 @@
 # QUOTE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {QUOTE}

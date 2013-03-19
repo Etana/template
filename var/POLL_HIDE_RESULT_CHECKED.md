@@ -1,7 +1,7 @@
 # POLL_HIDE_RESULT_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POLL_HIDE_RESULT_CHECKED}

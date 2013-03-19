@@ -1,7 +1,7 @@
 # RPG_IMAGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {RPG_IMAGE}

@@ -1,7 +1,7 @@
 # L_CANCEL_VOTE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CANCEL_VOTE}

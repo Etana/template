@@ -1,7 +1,7 @@
 # promot_trafic.link.U_HREF
 
 
-Attribut de [`<!-- BEGIN link -->...<!-- END link -->`](promot_trafic.link.md#readme).
+Attribut d'affichage de [`<!-- BEGIN link -->...<!-- END link -->`](promot_trafic.link.md#readme).
 
 ```html
 <!-- BEGIN promot_trafic -->

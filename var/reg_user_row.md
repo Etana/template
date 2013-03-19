@@ -1,7 +1,7 @@
 # reg_user_row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN reg_user_row -->
@@ -23,7 +23,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewonline_body`](../tpl/var/punbb/viewonline_body.md#readme) :__ lignes [`47`](../tpl/src/punbb/viewonline_body.tpl#L47), [`53`](../tpl/src/punbb/viewonline_body.tpl#L53)
+* __[`viewonline_body`](../tpl/var/punbb/viewonline_body.md#readme) :__ lignes [`47`](../tpl/src/punbb/viewonline_body.tpl#L47)[`<->`](../tpl/src/punbb/viewonline_body.tpl#L47-L53)[`53`](../tpl/src/punbb/viewonline_body.tpl#L53)
 
 ### Version phpBB2
-* __[`viewonline_body`](../tpl/var/subsilver/viewonline_body.md#readme) :__ lignes [`23`](../tpl/src/subsilver/viewonline_body.tpl#L23), [`29`](../tpl/src/subsilver/viewonline_body.tpl#L29)
+* __[`viewonline_body`](../tpl/var/subsilver/viewonline_body.md#readme) :__ lignes [`23`](../tpl/src/subsilver/viewonline_body.tpl#L23)[`<->`](../tpl/src/subsilver/viewonline_body.tpl#L23-L29)[`29`](../tpl/src/subsilver/viewonline_body.tpl#L29)

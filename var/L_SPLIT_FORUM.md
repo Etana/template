@@ -1,7 +1,7 @@
 # L_SPLIT_FORUM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SPLIT_FORUM}

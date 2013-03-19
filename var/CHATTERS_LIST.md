@@ -1,7 +1,7 @@
 # CHATTERS_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CHATTERS_LIST}

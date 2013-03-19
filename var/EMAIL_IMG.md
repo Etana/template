@@ -1,7 +1,7 @@
 # EMAIL_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {EMAIL_IMG}

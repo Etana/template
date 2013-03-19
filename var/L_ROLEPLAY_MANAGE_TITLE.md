@@ -1,7 +1,7 @@
 # L_ROLEPLAY_MANAGE_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ROLEPLAY_MANAGE_TITLE}

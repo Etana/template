@@ -1,7 +1,7 @@
 # L_POST_NEW_TOPIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_POST_NEW_TOPIC}

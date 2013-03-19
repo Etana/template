@@ -1,7 +1,7 @@
 # L_COMMENT_NO_TEXT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_COMMENT_NO_TEXT}

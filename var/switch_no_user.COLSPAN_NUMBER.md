@@ -1,7 +1,7 @@
 # switch_no_user.COLSPAN_NUMBER
 
 
-Attribut de [`<!-- BEGIN switch_no_user -->...<!-- END switch_no_user -->`](switch_no_user.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_no_user -->...<!-- END switch_no_user -->`](switch_no_user.md#readme).
 
 ```html
 <!-- BEGIN switch_no_user -->

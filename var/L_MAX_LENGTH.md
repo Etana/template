@@ -1,7 +1,7 @@
 # L_MAX_LENGTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MAX_LENGTH}

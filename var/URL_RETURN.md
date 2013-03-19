@@ -1,7 +1,7 @@
 # URL_RETURN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {URL_RETURN}

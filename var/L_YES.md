@@ -1,7 +1,7 @@
 # L_YES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_YES}

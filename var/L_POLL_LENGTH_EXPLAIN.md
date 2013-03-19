@@ -1,7 +1,7 @@
 # L_POLL_LENGTH_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_POLL_LENGTH_EXPLAIN}

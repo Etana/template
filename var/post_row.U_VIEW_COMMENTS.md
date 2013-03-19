@@ -1,7 +1,7 @@
 # post_row.U_VIEW_COMMENTS
 
 
-Attribut de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post_row.md#readme).
 
 ```html
 <!-- BEGIN post_row -->

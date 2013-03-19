@@ -1,7 +1,7 @@
 # switch_search_results.search_results.U_PIC
 
 
-Attribut de [`<!-- BEGIN search_results -->...<!-- END search_results -->`](switch_search_results.search_results.md#readme).
+Attribut d'affichage de [`<!-- BEGIN search_results -->...<!-- END search_results -->`](switch_search_results.search_results.md#readme).
 
 ```html
 <!-- BEGIN switch_search_results -->

@@ -1,7 +1,7 @@
 # MAX_TOPIC_LENGTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MAX_TOPIC_LENGTH}

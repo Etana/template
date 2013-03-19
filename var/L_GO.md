@@ -1,7 +1,7 @@
 # L_GO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_GO}

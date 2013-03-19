@@ -1,7 +1,7 @@
 # L_FORUM_LOCKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FORUM_LOCKED}

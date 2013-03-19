@@ -1,7 +1,7 @@
 # FORUM_LOCKED_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {FORUM_LOCKED_IMG}

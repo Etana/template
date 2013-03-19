@@ -1,7 +1,7 @@
 # L_NOTIFY_ON_REPLY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NOTIFY_ON_REPLY}

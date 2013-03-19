@@ -1,7 +1,7 @@
 # switch_view_stats
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_view_stats -->
@@ -19,4 +19,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`simple_footer`](../tpl/var/subsilver/simple_footer.md#readme) :__ lignes [`14`](../tpl/src/subsilver/simple_footer.tpl#L14), [`16`](../tpl/src/subsilver/simple_footer.tpl#L16)
+* __[`simple_footer`](../tpl/var/subsilver/simple_footer.md#readme) :__ lignes [`14`](../tpl/src/subsilver/simple_footer.tpl#L14)[`<->`](../tpl/src/subsilver/simple_footer.tpl#L14-L16)[`16`](../tpl/src/subsilver/simple_footer.tpl#L16)

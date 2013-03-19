@@ -1,7 +1,7 @@
 # CLASS_ROW2
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CLASS_ROW2}

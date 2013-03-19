@@ -1,7 +1,7 @@
 # L_PROFILE_FIELDS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PROFILE_FIELDS}

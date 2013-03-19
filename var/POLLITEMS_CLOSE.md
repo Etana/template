@@ -1,7 +1,7 @@
 # POLLITEMS_CLOSE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POLLITEMS_CLOSE}

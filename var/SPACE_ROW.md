@@ -1,7 +1,7 @@
 # SPACE_ROW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SPACE_ROW}

@@ -1,7 +1,7 @@
 # L_SLIDESHOW_ONOFF
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SLIDESHOW_ONOFF}

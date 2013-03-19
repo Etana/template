@@ -1,7 +1,7 @@
 # INSERT_EMAIL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INSERT_EMAIL}

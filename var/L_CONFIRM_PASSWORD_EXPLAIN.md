@@ -1,7 +1,7 @@
 # L_CONFIRM_PASSWORD_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CONFIRM_PASSWORD_EXPLAIN}

@@ -1,7 +1,7 @@
 # U_PIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_PIC}

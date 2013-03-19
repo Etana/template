@@ -1,7 +1,7 @@
 # L_APPROVAL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_APPROVAL}

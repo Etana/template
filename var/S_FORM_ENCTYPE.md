@@ -1,7 +1,7 @@
 # S_FORM_ENCTYPE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_FORM_ENCTYPE}

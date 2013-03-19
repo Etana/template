@@ -1,7 +1,7 @@
 # switch_ticker_new.ticker_row
 
 
-Attribut de [`<!-- BEGIN switch_ticker_new -->...<!-- END switch_ticker_new -->`](switch_ticker_new.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_ticker_new -->...<!-- END switch_ticker_new -->`](switch_ticker_new.md#readme).
 
 ```html
 <!-- BEGIN switch_ticker_new -->
@@ -16,7 +16,7 @@ Attribut de [`<!-- BEGIN switch_ticker_new -->...<!-- END switch_ticker_new -->`
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ lignes [`259`](../tpl/src/punbb/overall_header.tpl#L259), [`261`](../tpl/src/punbb/overall_header.tpl#L261)
+* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ lignes [`259`](../tpl/src/punbb/overall_header.tpl#L259)[`<->`](../tpl/src/punbb/overall_header.tpl#L259-L261)[`261`](../tpl/src/punbb/overall_header.tpl#L261)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [`280`](../tpl/src/subsilver/overall_header.tpl#L280), [`282`](../tpl/src/subsilver/overall_header.tpl#L282)
+* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [`280`](../tpl/src/subsilver/overall_header.tpl#L280)[`<->`](../tpl/src/subsilver/overall_header.tpl#L280-L282)[`282`](../tpl/src/subsilver/overall_header.tpl#L282)

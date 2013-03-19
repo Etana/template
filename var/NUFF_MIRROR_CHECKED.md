@@ -1,7 +1,7 @@
 # NUFF_MIRROR_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_MIRROR_CHECKED}

@@ -1,7 +1,7 @@
 # list_pics_block.sort_pics
 
 
-Attribut de [`<!-- BEGIN list_pics_block -->...<!-- END list_pics_block -->`](list_pics_block.md#readme).
+Attribut de bouclage de [`<!-- BEGIN list_pics_block -->...<!-- END list_pics_block -->`](list_pics_block.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->
@@ -20,7 +20,7 @@ Attribut de [`<!-- BEGIN list_pics_block -->...<!-- END list_pics_block -->`](li
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`89`](../tpl/src/punbb/album_cat_body.tpl#L89), [`116`](../tpl/src/punbb/album_cat_body.tpl#L116)
+* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`89`](../tpl/src/punbb/album_cat_body.tpl#L89)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L89-L116)[`116`](../tpl/src/punbb/album_cat_body.tpl#L116)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`162`](../tpl/src/subsilver/album_cat_body.tpl#L162), [`189`](../tpl/src/subsilver/album_cat_body.tpl#L189)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`162`](../tpl/src/subsilver/album_cat_body.tpl#L162)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L162-L189)[`189`](../tpl/src/subsilver/album_cat_body.tpl#L189)

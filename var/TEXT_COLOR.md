@@ -1,7 +1,7 @@
 # TEXT_COLOR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TEXT_COLOR}

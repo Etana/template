@@ -1,7 +1,7 @@
 # POLLITEMS_OPEN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POLLITEMS_OPEN}

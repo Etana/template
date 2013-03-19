@@ -1,7 +1,7 @@
 # L_FLASH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FLASH}

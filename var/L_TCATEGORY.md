@@ -1,7 +1,7 @@
 # L_TCATEGORY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TCATEGORY}

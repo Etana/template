@@ -1,7 +1,7 @@
 # WIDTH_GALLERY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {WIDTH_GALLERY}

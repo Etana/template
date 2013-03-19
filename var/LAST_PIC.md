@@ -1,7 +1,7 @@
 # LAST_PIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LAST_PIC}

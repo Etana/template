@@ -1,7 +1,7 @@
 # MENU_POSITION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MENU_POSITION}

@@ -1,7 +1,7 @@
 # switch_logo_left
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_logo_left -->
@@ -14,4 +14,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [`247`](../tpl/src/subsilver/overall_header.tpl#L247), [`249`](../tpl/src/subsilver/overall_header.tpl#L249)
+* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [`247`](../tpl/src/subsilver/overall_header.tpl#L247)[`<->`](../tpl/src/subsilver/overall_header.tpl#L247-L249)[`249`](../tpl/src/subsilver/overall_header.tpl#L249)

@@ -1,7 +1,7 @@
 # MESSAGE_FROM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MESSAGE_FROM}

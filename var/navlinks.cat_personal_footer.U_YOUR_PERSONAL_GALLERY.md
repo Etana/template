@@ -1,7 +1,7 @@
 # navlinks.cat_personal_footer.U_YOUR_PERSONAL_GALLERY
 
 
-Attribut de [`<!-- BEGIN cat_personal_footer -->...<!-- END cat_personal_footer -->`](navlinks.cat_personal_footer.md#readme).
+Attribut d'affichage de [`<!-- BEGIN cat_personal_footer -->...<!-- END cat_personal_footer -->`](navlinks.cat_personal_footer.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->

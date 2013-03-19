@@ -1,7 +1,7 @@
 # catrow.forumrow.switch_moderators_links.L_MODERATOR
 
 
-Attribut de [`<!-- BEGIN switch_moderators_links -->...<!-- END switch_moderators_links -->`](catrow.forumrow.switch_moderators_links.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_moderators_links -->...<!-- END switch_moderators_links -->`](catrow.forumrow.switch_moderators_links.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

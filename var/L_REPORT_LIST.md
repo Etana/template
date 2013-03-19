@@ -1,7 +1,7 @@
 # L_REPORT_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_REPORT_LIST}

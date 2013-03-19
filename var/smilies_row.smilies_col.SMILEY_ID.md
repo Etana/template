@@ -1,7 +1,7 @@
 # smilies_row.smilies_col.SMILEY_ID
 
 
-Attribut de [`<!-- BEGIN smilies_col -->...<!-- END smilies_col -->`](smilies_row.smilies_col.md#readme).
+Attribut d'affichage de [`<!-- BEGIN smilies_col -->...<!-- END smilies_col -->`](smilies_row.smilies_col.md#readme).
 
 ```html
 <!-- BEGIN smilies_row -->

@@ -1,7 +1,7 @@
 # L_THUMBNAIL_SIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_THUMBNAIL_SIZE}

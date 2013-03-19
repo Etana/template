@@ -1,7 +1,7 @@
 # SIGNATURE_PREVIEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SIGNATURE_PREVIEW}

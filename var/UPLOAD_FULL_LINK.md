@@ -1,7 +1,7 @@
 # UPLOAD_FULL_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {UPLOAD_FULL_LINK}

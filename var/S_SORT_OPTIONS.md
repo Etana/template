@@ -1,7 +1,7 @@
 # S_SORT_OPTIONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_SORT_OPTIONS}

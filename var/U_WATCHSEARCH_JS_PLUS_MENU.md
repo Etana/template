@@ -1,7 +1,7 @@
 # U_WATCHSEARCH_JS_PLUS_MENU
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_WATCHSEARCH_JS_PLUS_MENU}

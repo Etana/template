@@ -1,7 +1,7 @@
 # L_LANG_HTML
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LANG_HTML}

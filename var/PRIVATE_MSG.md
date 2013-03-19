@@ -1,7 +1,7 @@
 # PRIVATE_MSG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PRIVATE_MSG}

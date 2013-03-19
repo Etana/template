@@ -1,7 +1,7 @@
 # L_GROUP_CLOSED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_GROUP_CLOSED}

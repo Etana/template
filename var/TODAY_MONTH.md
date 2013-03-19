@@ -1,7 +1,7 @@
 # TODAY_MONTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TODAY_MONTH}

@@ -1,7 +1,7 @@
 # V_TOPIC_ICON
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_TOPIC_ICON}

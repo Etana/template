@@ -1,7 +1,7 @@
 # avatar_row.avatar_option_column
 
 
-Attribut de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.md#readme).
+Attribut de bouclage de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.md#readme).
 
 ```html
 <!-- BEGIN avatar_row -->
@@ -20,4 +20,4 @@ Attribut de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.m
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ lignes [`21`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L21), [`23`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L23)
+* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ lignes [`21`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L21)[`<->`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L21-L23)[`23`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L23)

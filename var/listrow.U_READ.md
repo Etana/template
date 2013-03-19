@@ -1,7 +1,7 @@
 # listrow.U_READ
 
 
-Attribut de [`<!-- BEGIN listrow -->...<!-- END listrow -->`](listrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN listrow -->...<!-- END listrow -->`](listrow.md#readme).
 
 ```html
 <!-- BEGIN listrow -->

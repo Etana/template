@@ -1,7 +1,7 @@
 # RIGHT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {RIGHT}

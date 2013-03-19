@@ -1,7 +1,7 @@
 # L_DISPLAY_MESSAGES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DISPLAY_MESSAGES}

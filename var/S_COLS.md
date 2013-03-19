@@ -1,7 +1,7 @@
 # S_COLS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_COLS}

@@ -1,7 +1,7 @@
 # L_TTITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TTITLE}

@@ -1,7 +1,7 @@
 # L_TABS_PERMISSIONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TABS_PERMISSIONS}

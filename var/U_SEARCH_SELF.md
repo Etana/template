@@ -1,7 +1,7 @@
 # U_SEARCH_SELF
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_SEARCH_SELF}

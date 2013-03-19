@@ -1,7 +1,7 @@
 # NUFF_SCREEN_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_SCREEN_CHECKED}

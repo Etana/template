@@ -1,7 +1,7 @@
 # BAN_USER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BAN_USER}

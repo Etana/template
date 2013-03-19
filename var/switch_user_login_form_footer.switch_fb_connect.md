@@ -1,7 +1,7 @@
 # switch_user_login_form_footer.switch_fb_connect
 
 
-Attribut de [`<!-- BEGIN switch_user_login_form_footer -->...<!-- END switch_user_login_form_footer -->`](switch_user_login_form_footer.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_user_login_form_footer -->...<!-- END switch_user_login_form_footer -->`](switch_user_login_form_footer.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_footer -->
@@ -22,7 +22,7 @@ Attribut de [`<!-- BEGIN switch_user_login_form_footer -->...<!-- END switch_use
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`112`](../tpl/src/punbb/index_body.tpl#L112), [`115`](../tpl/src/punbb/index_body.tpl#L115)
+* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`112`](../tpl/src/punbb/index_body.tpl#L112)[`<->`](../tpl/src/punbb/index_body.tpl#L112-L115)[`115`](../tpl/src/punbb/index_body.tpl#L115)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`137`](../tpl/src/subsilver/index_body.tpl#L137), [`170`](../tpl/src/subsilver/index_body.tpl#L170)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`137`](../tpl/src/subsilver/index_body.tpl#L137)[`<->`](../tpl/src/subsilver/index_body.tpl#L137-L170)[`170`](../tpl/src/subsilver/index_body.tpl#L170)

@@ -1,7 +1,7 @@
 # GROUP_LEGEND
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GROUP_LEGEND}

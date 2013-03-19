@@ -1,7 +1,7 @@
 # META_FB_LIKE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {META_FB_LIKE}

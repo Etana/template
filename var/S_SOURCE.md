@@ -1,7 +1,7 @@
 # S_SOURCE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_SOURCE}

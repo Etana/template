@@ -1,7 +1,7 @@
 # SENTBOX_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SENTBOX_IMG}

@@ -1,7 +1,7 @@
 # DISABLE_MASS_PM_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DISABLE_MASS_PM_CHECKED}

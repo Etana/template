@@ -1,7 +1,7 @@
 # L_MOVE_PROFILE_MARKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MOVE_PROFILE_MARKED}

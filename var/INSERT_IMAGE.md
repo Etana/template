@@ -1,7 +1,7 @@
 # INSERT_IMAGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INSERT_IMAGE}

@@ -1,7 +1,7 @@
 # REPORT_NAVARROW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {REPORT_NAVARROW}

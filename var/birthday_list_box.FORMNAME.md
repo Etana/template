@@ -1,7 +1,7 @@
 # birthday_list_box.FORMNAME
 
 
-Attribut de [`<!-- BEGIN birthday_list_box -->...<!-- END birthday_list_box -->`](birthday_list_box.md#readme).
+Attribut d'affichage de [`<!-- BEGIN birthday_list_box -->...<!-- END birthday_list_box -->`](birthday_list_box.md#readme).
 
 ```html
 <!-- BEGIN birthday_list_box -->

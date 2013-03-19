@@ -1,7 +1,7 @@
 # L_STOP_WATCH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_STOP_WATCH}

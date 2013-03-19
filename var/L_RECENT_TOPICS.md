@@ -1,7 +1,7 @@
 # L_RECENT_TOPICS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_RECENT_TOPICS}

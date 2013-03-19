@@ -1,7 +1,7 @@
 # TID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TID}

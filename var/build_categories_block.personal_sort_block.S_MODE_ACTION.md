@@ -1,7 +1,7 @@
 # build_categories_block.personal_sort_block.S_MODE_ACTION
 
 
-Attribut de [`<!-- BEGIN personal_sort_block -->...<!-- END personal_sort_block -->`](build_categories_block.personal_sort_block.md#readme).
+Attribut d'affichage de [`<!-- BEGIN personal_sort_block -->...<!-- END personal_sort_block -->`](build_categories_block.personal_sort_block.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->

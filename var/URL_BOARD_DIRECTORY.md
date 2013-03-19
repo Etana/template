@@ -1,7 +1,7 @@
 # URL_BOARD_DIRECTORY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {URL_BOARD_DIRECTORY}

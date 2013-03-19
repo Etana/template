@@ -1,7 +1,7 @@
 # L_YOU_BELONG_GROUPS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_YOU_BELONG_GROUPS}

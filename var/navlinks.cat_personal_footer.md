@@ -1,7 +1,7 @@
 # navlinks.cat_personal_footer
 
 
-Attribut de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navlinks.md#readme).
+Attribut de bouclage de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navlinks.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->
@@ -22,7 +22,7 @@ Attribut de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navlinks.md#read
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`158`](../tpl/src/punbb/album_cat_body.tpl#L158), [`160`](../tpl/src/punbb/album_cat_body.tpl#L160)
+* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`158`](../tpl/src/punbb/album_cat_body.tpl#L158)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L158-L160)[`160`](../tpl/src/punbb/album_cat_body.tpl#L160)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`298`](../tpl/src/subsilver/album_cat_body.tpl#L298), [`302`](../tpl/src/subsilver/album_cat_body.tpl#L302)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`298`](../tpl/src/subsilver/album_cat_body.tpl#L298)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L298-L302)[`302`](../tpl/src/subsilver/album_cat_body.tpl#L302)

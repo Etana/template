@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID
 
 
-Attribut de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_preferences_menu.switch_fb_connect.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_preferences_menu.switch_fb_connect.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->

@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled._event
 
 
-Attribut de [`<!-- BEGIN switch_filled -->...<!-- END switch_filled -->`](_calendar_box._row._cell.switch_filled.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_filled -->...<!-- END switch_filled -->`](_calendar_box._row._cell.switch_filled.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->
@@ -29,7 +29,7 @@ Attribut de [`<!-- BEGIN switch_filled -->...<!-- END switch_filled -->`](_calen
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_box`](../tpl/var/punbb/calendar_box.md#readme) :__ lignes [`40`](../tpl/src/punbb/calendar_box.tpl#L40), [`48`](../tpl/src/punbb/calendar_box.tpl#L48)
+* __[`calendar_box`](../tpl/var/punbb/calendar_box.md#readme) :__ lignes [`40`](../tpl/src/punbb/calendar_box.tpl#L40)[`<->`](../tpl/src/punbb/calendar_box.tpl#L40-L48)[`48`](../tpl/src/punbb/calendar_box.tpl#L48)
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`51`](../tpl/src/subsilver/calendar_box.tpl#L51), [`80`](../tpl/src/subsilver/calendar_box.tpl#L80)
+* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`51`](../tpl/src/subsilver/calendar_box.tpl#L51)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L51-L80)[`80`](../tpl/src/subsilver/calendar_box.tpl#L80)

@@ -1,7 +1,7 @@
 # L_CALENDAR_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CALENDAR_TITLE}

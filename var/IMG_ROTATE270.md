@@ -1,7 +1,7 @@
 # IMG_ROTATE270
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {IMG_ROTATE270}

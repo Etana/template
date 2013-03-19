@@ -1,7 +1,7 @@
 # U_CALENDAR_SCHEDULER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_CALENDAR_SCHEDULER}

@@ -1,7 +1,7 @@
 # I_PIC_LOCKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {I_PIC_LOCKED}

@@ -1,7 +1,7 @@
 # NUFF_INTERLACE_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_INTERLACE_CHECKED}

@@ -1,7 +1,7 @@
 # switch_announce
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_announce -->
@@ -14,7 +14,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`modcp_body`](../tpl/var/punbb/modcp_body.md#readme) :__ lignes [`69`](../tpl/src/punbb/modcp_body.tpl#L69), [`69`](../tpl/src/punbb/modcp_body.tpl#L69)
+* __[`modcp_body`](../tpl/var/punbb/modcp_body.md#readme) :__ lignes [`69`](../tpl/src/punbb/modcp_body.tpl#L69)[`<->`](../tpl/src/punbb/modcp_body.tpl#L69-L69)[`69`](../tpl/src/punbb/modcp_body.tpl#L69)
 
 ### Version phpBB2
-* __[`modcp_body`](../tpl/var/subsilver/modcp_body.md#readme) :__ lignes [`38`](../tpl/src/subsilver/modcp_body.tpl#L38), [`38`](../tpl/src/subsilver/modcp_body.tpl#L38)
+* __[`modcp_body`](../tpl/var/subsilver/modcp_body.md#readme) :__ lignes [`38`](../tpl/src/subsilver/modcp_body.tpl#L38)[`<->`](../tpl/src/subsilver/modcp_body.tpl#L38-L38)[`38`](../tpl/src/subsilver/modcp_body.tpl#L38)

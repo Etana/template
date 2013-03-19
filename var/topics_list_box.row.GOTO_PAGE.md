@@ -1,7 +1,7 @@
 # topics_list_box.row.GOTO_PAGE
 
 
-Attribut de [`<!-- BEGIN row -->...<!-- END row -->`](topics_list_box.row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](topics_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

@@ -1,7 +1,7 @@
 # L_UPDATE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UPDATE}

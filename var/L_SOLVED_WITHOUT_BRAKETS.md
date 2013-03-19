@@ -1,7 +1,7 @@
 # L_SOLVED_WITHOUT_BRAKETS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SOLVED_WITHOUT_BRAKETS}

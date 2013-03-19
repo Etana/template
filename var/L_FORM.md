@@ -1,7 +1,7 @@
 # L_FORM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FORM}

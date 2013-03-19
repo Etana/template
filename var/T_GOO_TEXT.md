@@ -1,7 +1,7 @@
 # T_GOO_TEXT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {T_GOO_TEXT}

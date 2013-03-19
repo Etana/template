@@ -1,7 +1,7 @@
 # TIMEZONE_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TIMEZONE_SELECT}

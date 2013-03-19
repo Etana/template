@@ -1,7 +1,7 @@
 # ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ACTION}

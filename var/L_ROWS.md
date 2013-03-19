@@ -1,7 +1,7 @@
 # L_ROWS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ROWS}

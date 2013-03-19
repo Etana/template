@@ -1,7 +1,7 @@
 # FOLDER_CALENDAR_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {FOLDER_CALENDAR_IMG}

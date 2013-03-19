@@ -1,7 +1,7 @@
 # S_ALBUM_ROOT_CATEGORY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_ALBUM_ROOT_CATEGORY}

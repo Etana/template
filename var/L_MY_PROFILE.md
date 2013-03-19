@@ -1,7 +1,7 @@
 # L_MY_PROFILE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MY_PROFILE}

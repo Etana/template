@@ -1,7 +1,7 @@
 # EDITOR_DISPLAY_SIMPLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {EDITOR_DISPLAY_SIMPLE}

@@ -1,7 +1,7 @@
 # MAIL_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MAIL_LINK}

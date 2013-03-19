@@ -1,7 +1,7 @@
 # poll_option_rows.POLL_OPTION
 
 
-Attribut de [`<!-- BEGIN poll_option_rows -->...<!-- END poll_option_rows -->`](poll_option_rows.md#readme).
+Attribut d'affichage de [`<!-- BEGIN poll_option_rows -->...<!-- END poll_option_rows -->`](poll_option_rows.md#readme).
 
 ```html
 <!-- BEGIN poll_option_rows -->

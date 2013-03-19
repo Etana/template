@@ -1,7 +1,7 @@
 # L_MESSAGES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MESSAGES}

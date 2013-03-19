@@ -1,7 +1,7 @@
 # L_FOLDER_STICKY_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FOLDER_STICKY_IMG}

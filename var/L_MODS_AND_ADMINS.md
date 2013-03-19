@@ -1,7 +1,7 @@
 # L_MODS_AND_ADMINS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MODS_AND_ADMINS}

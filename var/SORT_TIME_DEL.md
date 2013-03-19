@@ -1,7 +1,7 @@
 # SORT_TIME_DEL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_TIME_DEL}

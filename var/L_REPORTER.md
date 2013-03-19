@@ -1,7 +1,7 @@
 # L_REPORTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_REPORTER}

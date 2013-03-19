@@ -1,7 +1,7 @@
 # SUBJECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SUBJECT}

@@ -1,7 +1,7 @@
 # TOTAL_USERS_ONLINE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOTAL_USERS_ONLINE}

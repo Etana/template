@@ -1,7 +1,7 @@
 # U_POSTING
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_POSTING}

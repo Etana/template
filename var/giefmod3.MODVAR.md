@@ -1,7 +1,7 @@
 # giefmod3.MODVAR
 
 
-Attribut de [`<!-- BEGIN giefmod3 -->...<!-- END giefmod3 -->`](giefmod3.md#readme).
+Attribut d'affichage de [`<!-- BEGIN giefmod3 -->...<!-- END giefmod3 -->`](giefmod3.md#readme).
 
 ```html
 <!-- BEGIN giefmod3 -->

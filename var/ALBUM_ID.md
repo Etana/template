@@ -1,7 +1,7 @@
 # ALBUM_ID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALBUM_ID}

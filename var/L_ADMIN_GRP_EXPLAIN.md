@@ -1,7 +1,7 @@
 # L_ADMIN_GRP_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ADMIN_GRP_EXPLAIN}

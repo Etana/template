@@ -1,7 +1,7 @@
 # URL_SERVIMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {URL_SERVIMG}

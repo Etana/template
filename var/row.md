@@ -1,7 +1,7 @@
 # row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN row -->
@@ -37,11 +37,11 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_scheduler_body`](../tpl/var/punbb/calendar_scheduler_body.md#readme) :__ lignes [`44`](../tpl/src/punbb/calendar_scheduler_body.tpl#L44), [`50`](../tpl/src/punbb/calendar_scheduler_body.tpl#L50)
-* __[`report_list_body`](../tpl/var/punbb/report_list_body.md#readme) :__ lignes [`50`](../tpl/src/punbb/report_list_body.tpl#L50), [`59`](../tpl/src/punbb/report_list_body.tpl#L59)
-* __[`report_view_body`](../tpl/var/punbb/report_view_body.md#readme) :__ lignes [`26`](../tpl/src/punbb/report_view_body.tpl#L26), [`78`](../tpl/src/punbb/report_view_body.tpl#L78)
+* __[`calendar_scheduler_body`](../tpl/var/punbb/calendar_scheduler_body.md#readme) :__ lignes [`44`](../tpl/src/punbb/calendar_scheduler_body.tpl#L44)[`<->`](../tpl/src/punbb/calendar_scheduler_body.tpl#L44-L50)[`50`](../tpl/src/punbb/calendar_scheduler_body.tpl#L50)
+* __[`report_list_body`](../tpl/var/punbb/report_list_body.md#readme) :__ lignes [`50`](../tpl/src/punbb/report_list_body.tpl#L50)[`<->`](../tpl/src/punbb/report_list_body.tpl#L50-L59)[`59`](../tpl/src/punbb/report_list_body.tpl#L59)
+* __[`report_view_body`](../tpl/var/punbb/report_view_body.md#readme) :__ lignes [`26`](../tpl/src/punbb/report_view_body.tpl#L26)[`<->`](../tpl/src/punbb/report_view_body.tpl#L26-L78)[`78`](../tpl/src/punbb/report_view_body.tpl#L78)
 
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/var/subsilver/calendar_scheduler_body.md#readme) :__ lignes [`38`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L38), [`44`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L44)
-* __[`report_list_body`](../tpl/var/subsilver/report_list_body.md#readme) :__ lignes [`23`](../tpl/src/subsilver/report_list_body.tpl#L23), [`35`](../tpl/src/subsilver/report_list_body.tpl#L35)
-* __[`report_view_body`](../tpl/var/subsilver/report_view_body.md#readme) :__ lignes [`7`](../tpl/src/subsilver/report_view_body.tpl#L7), [`55`](../tpl/src/subsilver/report_view_body.tpl#L55)
+* __[`calendar_scheduler_body`](../tpl/var/subsilver/calendar_scheduler_body.md#readme) :__ lignes [`38`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L38)[`<->`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L38-L44)[`44`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L44)
+* __[`report_list_body`](../tpl/var/subsilver/report_list_body.md#readme) :__ lignes [`23`](../tpl/src/subsilver/report_list_body.tpl#L23)[`<->`](../tpl/src/subsilver/report_list_body.tpl#L23-L35)[`35`](../tpl/src/subsilver/report_list_body.tpl#L35)
+* __[`report_view_body`](../tpl/var/subsilver/report_view_body.md#readme) :__ lignes [`7`](../tpl/src/subsilver/report_view_body.tpl#L7)[`<->`](../tpl/src/subsilver/report_view_body.tpl#L7-L55)[`55`](../tpl/src/subsilver/report_view_body.tpl#L55)

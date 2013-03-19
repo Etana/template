@@ -1,7 +1,7 @@
 # L_SAVE_MARKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SAVE_MARKED}

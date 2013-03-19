@@ -1,7 +1,7 @@
 # CSS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CSS}

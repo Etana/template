@@ -1,7 +1,7 @@
 # PROTECT_FOOTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PROTECT_FOOTER}

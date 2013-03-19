@@ -1,7 +1,7 @@
 # L_MAILTO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MAILTO}

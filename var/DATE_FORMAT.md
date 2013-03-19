@@ -1,7 +1,7 @@
 # DATE_FORMAT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DATE_FORMAT}

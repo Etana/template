@@ -1,7 +1,7 @@
 # switch_facebook_login.FACEBOOK_APP_ID
 
 
-Attribut de [`<!-- BEGIN switch_facebook_login -->...<!-- END switch_facebook_login -->`](switch_facebook_login.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_facebook_login -->...<!-- END switch_facebook_login -->`](switch_facebook_login.md#readme).
 
 ```html
 <!-- BEGIN switch_facebook_login -->

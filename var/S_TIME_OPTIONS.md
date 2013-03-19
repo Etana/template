@@ -1,7 +1,7 @@
 # S_TIME_OPTIONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_TIME_OPTIONS}

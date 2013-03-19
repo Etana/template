@@ -1,7 +1,7 @@
 # L_UPLOAD_AVATAR_FILE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UPLOAD_AVATAR_FILE}

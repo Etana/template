@@ -1,7 +1,7 @@
 # GENDER_MALE_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GENDER_MALE_CHECKED}

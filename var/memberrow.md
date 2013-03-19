@@ -1,7 +1,7 @@
 # memberrow
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN memberrow -->
@@ -30,7 +30,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`memberlist_body`](../tpl/var/punbb/memberlist_body.md#readme) :__ lignes [`77`](../tpl/src/punbb/memberlist_body.tpl#L77), [`90`](../tpl/src/punbb/memberlist_body.tpl#L90)
+* __[`memberlist_body`](../tpl/var/punbb/memberlist_body.md#readme) :__ lignes [`77`](../tpl/src/punbb/memberlist_body.tpl#L77)[`<->`](../tpl/src/punbb/memberlist_body.tpl#L77-L90)[`90`](../tpl/src/punbb/memberlist_body.tpl#L90)
 
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/var/subsilver/memberlist_body.md#readme) :__ lignes [`36`](../tpl/src/subsilver/memberlist_body.tpl#L36), [`51`](../tpl/src/subsilver/memberlist_body.tpl#L51)
+* __[`memberlist_body`](../tpl/var/subsilver/memberlist_body.md#readme) :__ lignes [`36`](../tpl/src/subsilver/memberlist_body.tpl#L36)[`<->`](../tpl/src/subsilver/memberlist_body.tpl#L36-L51)[`51`](../tpl/src/subsilver/memberlist_body.tpl#L51)

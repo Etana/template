@@ -1,7 +1,7 @@
 # switch_user_logged_in.switch_plus_menu
 
 
-Attribut de [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](switch_user_logged_in.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](switch_user_logged_in.md#readme).
 
 ```html
 <!-- BEGIN switch_user_logged_in -->
@@ -16,4 +16,4 @@ Attribut de [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`46`](../tpl/src/punbb/viewtopic_body.tpl#L46), [`59`](../tpl/src/punbb/viewtopic_body.tpl#L59)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`46`](../tpl/src/punbb/viewtopic_body.tpl#L46)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L46-L59)[`59`](../tpl/src/punbb/viewtopic_body.tpl#L59)

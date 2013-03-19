@@ -1,7 +1,7 @@
 # L_TOP10_STATS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TOP10_STATS}

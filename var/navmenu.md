@@ -1,7 +1,7 @@
 # navmenu
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN navmenu -->
@@ -14,4 +14,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes [`5`](../tpl/src/subsilver/search_results_topics.tpl#L5), [`11`](../tpl/src/subsilver/search_results_topics.tpl#L11)
+* __[`search_results_topics`](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes [`5`](../tpl/src/subsilver/search_results_topics.tpl#L5)[`<->`](../tpl/src/subsilver/search_results_topics.tpl#L5-L11)[`11`](../tpl/src/subsilver/search_results_topics.tpl#L11)

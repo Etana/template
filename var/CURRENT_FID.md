@@ -1,7 +1,7 @@
 # CURRENT_FID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CURRENT_FID}

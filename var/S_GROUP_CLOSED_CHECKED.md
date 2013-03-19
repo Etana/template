@@ -1,7 +1,7 @@
 # S_GROUP_CLOSED_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_GROUP_CLOSED_CHECKED}

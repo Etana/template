@@ -1,7 +1,7 @@
 # DELETE_BUTTON
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DELETE_BUTTON}

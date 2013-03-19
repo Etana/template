@@ -1,7 +1,7 @@
 # JS_MARK_MODE_4
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JS_MARK_MODE_4}

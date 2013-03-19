@@ -1,7 +1,7 @@
 # L_TIME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TIME}

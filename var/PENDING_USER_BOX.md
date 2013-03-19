@@ -1,7 +1,7 @@
 # PENDING_USER_BOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PENDING_USER_BOX}

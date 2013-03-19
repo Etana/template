@@ -1,7 +1,7 @@
 # L_SEARCH_KEYWORDS_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SEARCH_KEYWORDS_EXPLAIN}

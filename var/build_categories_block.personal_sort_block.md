@@ -1,7 +1,7 @@
 # build_categories_block.personal_sort_block
 
 
-Attribut de [`<!-- BEGIN build_categories_block -->...<!-- END build_categories_block -->`](build_categories_block.md#readme).
+Attribut de bouclage de [`<!-- BEGIN build_categories_block -->...<!-- END build_categories_block -->`](build_categories_block.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->
@@ -25,4 +25,4 @@ Attribut de [`<!-- BEGIN build_categories_block -->...<!-- END build_categories_
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`64`](../tpl/src/subsilver/album_index_body.tpl#L64), [`75`](../tpl/src/subsilver/album_index_body.tpl#L75)
+* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`64`](../tpl/src/subsilver/album_index_body.tpl#L64)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L64-L75)[`75`](../tpl/src/subsilver/album_index_body.tpl#L75)

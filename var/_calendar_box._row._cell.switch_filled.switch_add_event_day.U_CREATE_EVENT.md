@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT
 
 
-Attribut de [`<!-- BEGIN switch_add_event_day -->...<!-- END switch_add_event_day -->`](_calendar_box._row._cell.switch_filled.switch_add_event_day.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_add_event_day -->...<!-- END switch_add_event_day -->`](_calendar_box._row._cell.switch_filled.switch_add_event_day.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

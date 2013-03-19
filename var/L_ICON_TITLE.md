@@ -1,7 +1,7 @@
 # L_ICON_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ICON_TITLE}

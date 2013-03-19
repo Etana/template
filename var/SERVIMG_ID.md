@@ -1,7 +1,7 @@
 # SERVIMG_ID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SERVIMG_ID}

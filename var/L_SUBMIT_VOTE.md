@@ -1,7 +1,7 @@
 # L_SUBMIT_VOTE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SUBMIT_VOTE}

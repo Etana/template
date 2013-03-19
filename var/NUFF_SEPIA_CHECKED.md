@@ -1,7 +1,7 @@
 # NUFF_SEPIA_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_SEPIA_CHECKED}

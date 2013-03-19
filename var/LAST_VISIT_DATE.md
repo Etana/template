@@ -1,7 +1,7 @@
 # LAST_VISIT_DATE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LAST_VISIT_DATE}

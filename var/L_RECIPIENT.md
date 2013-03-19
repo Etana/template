@@ -1,7 +1,7 @@
 # L_RECIPIENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_RECIPIENT}

@@ -1,7 +1,7 @@
 # VIEW_EMAIL_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {VIEW_EMAIL_NO}

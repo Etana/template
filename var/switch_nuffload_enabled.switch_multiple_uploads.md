@@ -1,7 +1,7 @@
 # switch_nuffload_enabled.switch_multiple_uploads
 
 
-Attribut de [`<!-- BEGIN switch_nuffload_enabled -->...<!-- END switch_nuffload_enabled -->`](switch_nuffload_enabled.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_nuffload_enabled -->...<!-- END switch_nuffload_enabled -->`](switch_nuffload_enabled.md#readme).
 
 ```html
 <!-- BEGIN switch_nuffload_enabled -->
@@ -16,7 +16,7 @@ Attribut de [`<!-- BEGIN switch_nuffload_enabled -->...<!-- END switch_nuffload_
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_upload_body`](../tpl/var/punbb/album_upload_body.md#readme) :__ lignes [`268`](../tpl/src/punbb/album_upload_body.tpl#L268), [`270`](../tpl/src/punbb/album_upload_body.tpl#L270)
+* __[`album_upload_body`](../tpl/var/punbb/album_upload_body.md#readme) :__ lignes [`268`](../tpl/src/punbb/album_upload_body.tpl#L268)[`<->`](../tpl/src/punbb/album_upload_body.tpl#L268-L270)[`270`](../tpl/src/punbb/album_upload_body.tpl#L270)
 
 ### Version phpBB2
-* __[`album_upload_body`](../tpl/var/subsilver/album_upload_body.md#readme) :__ lignes [`269`](../tpl/src/subsilver/album_upload_body.tpl#L269), [`271`](../tpl/src/subsilver/album_upload_body.tpl#L271)
+* __[`album_upload_body`](../tpl/var/subsilver/album_upload_body.md#readme) :__ lignes [`269`](../tpl/src/subsilver/album_upload_body.tpl#L269)[`<->`](../tpl/src/subsilver/album_upload_body.tpl#L269-L271)[`271`](../tpl/src/subsilver/album_upload_body.tpl#L271)

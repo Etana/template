@@ -1,7 +1,7 @@
 # post_row.switch_attachments.switch_post_attachments.switch_no_dl_att
 
 
-Attribut de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](post_row.switch_attachments.switch_post_attachments.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](post_row.switch_attachments.switch_post_attachments.md#readme).
 
 ```html
 <!-- BEGIN post_row -->
@@ -26,7 +26,7 @@ Attribut de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_atta
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`27`](../tpl/src/punbb/mod_news.tpl#L27), [`29`](../tpl/src/punbb/mod_news.tpl#L29), [`38`](../tpl/src/punbb/mod_news.tpl#L38), [`42`](../tpl/src/punbb/mod_news.tpl#L42)
+* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`27`](../tpl/src/punbb/mod_news.tpl#L27)[`<->`](../tpl/src/punbb/mod_news.tpl#L27-L29)[`29`](../tpl/src/punbb/mod_news.tpl#L29), [`38`](../tpl/src/punbb/mod_news.tpl#L38)[`<->`](../tpl/src/punbb/mod_news.tpl#L38-L42)[`42`](../tpl/src/punbb/mod_news.tpl#L42)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`34`](../tpl/src/subsilver/mod_news.tpl#L34), [`36`](../tpl/src/subsilver/mod_news.tpl#L36), [`45`](../tpl/src/subsilver/mod_news.tpl#L45), [`49`](../tpl/src/subsilver/mod_news.tpl#L49)
+* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`34`](../tpl/src/subsilver/mod_news.tpl#L34)[`<->`](../tpl/src/subsilver/mod_news.tpl#L34-L36)[`36`](../tpl/src/subsilver/mod_news.tpl#L36), [`45`](../tpl/src/subsilver/mod_news.tpl#L45)[`<->`](../tpl/src/subsilver/mod_news.tpl#L45-L49)[`49`](../tpl/src/subsilver/mod_news.tpl#L49)

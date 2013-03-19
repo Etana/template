@@ -1,7 +1,7 @@
 # cat_pic_space
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN cat_pic_space -->
@@ -14,4 +14,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`110`](../tpl/src/subsilver/album_cat_body.tpl#L110), [`112`](../tpl/src/subsilver/album_cat_body.tpl#L112)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`110`](../tpl/src/subsilver/album_cat_body.tpl#L110)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L110-L112)[`112`](../tpl/src/subsilver/album_cat_body.tpl#L112)

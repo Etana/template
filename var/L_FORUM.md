@@ -1,7 +1,7 @@
 # L_FORUM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FORUM}

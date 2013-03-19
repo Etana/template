@@ -1,7 +1,7 @@
 # CONFIRM_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CONFIRM_IMG}

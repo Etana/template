@@ -1,7 +1,7 @@
 # topics_list_box.FORMNAME
 
 
-Attribut de [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](topics_list_box.md#readme).
+Attribut d'affichage de [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](topics_list_box.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

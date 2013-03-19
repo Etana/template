@@ -1,7 +1,7 @@
 # LOCATION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LOCATION}

@@ -1,7 +1,7 @@
 # L_POST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_POST}

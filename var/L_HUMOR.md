@@ -1,7 +1,7 @@
 # L_HUMOR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_HUMOR}

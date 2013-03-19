@@ -1,7 +1,7 @@
 # POLL_OPTIONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POLL_OPTIONS}

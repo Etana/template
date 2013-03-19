@@ -1,7 +1,7 @@
 # topicrow.TOPIC_TYPE
 
 
-Attribut de [`<!-- BEGIN topicrow -->...<!-- END topicrow -->`](topicrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN topicrow -->...<!-- END topicrow -->`](topicrow.md#readme).
 
 ```html
 <!-- BEGIN topicrow -->

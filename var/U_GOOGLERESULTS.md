@@ -1,7 +1,7 @@
 # U_GOOGLERESULTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_GOOGLERESULTS}

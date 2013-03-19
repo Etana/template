@@ -1,7 +1,7 @@
 # S_SIGNATURE_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_SIGNATURE_CHECKED}

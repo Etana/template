@@ -1,7 +1,7 @@
 # _calendar_box
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN _calendar_box -->
@@ -29,7 +29,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_box`](../tpl/var/punbb/calendar_box.md#readme) :__ lignes [`1`](../tpl/src/punbb/calendar_box.tpl#L1), [`72`](../tpl/src/punbb/calendar_box.tpl#L72)
+* __[`calendar_box`](../tpl/var/punbb/calendar_box.md#readme) :__ lignes [`1`](../tpl/src/punbb/calendar_box.tpl#L1)[`<->`](../tpl/src/punbb/calendar_box.tpl#L1-L72)[`72`](../tpl/src/punbb/calendar_box.tpl#L72)
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/calendar_box.tpl#L1), [`100`](../tpl/src/subsilver/calendar_box.tpl#L100)
+* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/calendar_box.tpl#L1)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L1-L100)[`100`](../tpl/src/subsilver/calendar_box.tpl#L100)

@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION
 
 
-Attribut de [`<!-- BEGIN switch_description -->...<!-- END switch_description -->`](topics_list_box.row.topic.switch_description.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_description -->...<!-- END switch_description -->`](topics_list_box.row.topic.switch_description.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

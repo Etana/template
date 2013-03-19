@@ -1,7 +1,7 @@
 # POST_URL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_URL}

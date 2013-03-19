@@ -1,7 +1,7 @@
 # AUTO_DST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AUTO_DST}

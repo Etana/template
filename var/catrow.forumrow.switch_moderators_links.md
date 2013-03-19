@@ -1,7 +1,7 @@
 # catrow.forumrow.switch_moderators_links
 
 
-Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
+Attribut de bouclage de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -23,7 +23,7 @@ Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`32`](../tpl/src/punbb/index_box.tpl#L32), [`35`](../tpl/src/punbb/index_box.tpl#L35)
+* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`32`](../tpl/src/punbb/index_box.tpl#L32)[`<->`](../tpl/src/punbb/index_box.tpl#L32-L35)[`35`](../tpl/src/punbb/index_box.tpl#L35)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`59`](../tpl/src/subsilver/index_box.tpl#L59), [`61`](../tpl/src/subsilver/index_box.tpl#L61)
+* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`59`](../tpl/src/subsilver/index_box.tpl#L59)[`<->`](../tpl/src/subsilver/index_box.tpl#L59-L61)[`61`](../tpl/src/subsilver/index_box.tpl#L61)

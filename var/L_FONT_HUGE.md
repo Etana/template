@@ -1,7 +1,7 @@
 # L_FONT_HUGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FONT_HUGE}

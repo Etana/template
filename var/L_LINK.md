@@ -1,7 +1,7 @@
 # L_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LINK}

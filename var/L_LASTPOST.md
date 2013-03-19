@@ -1,7 +1,7 @@
 # L_LASTPOST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LASTPOST}

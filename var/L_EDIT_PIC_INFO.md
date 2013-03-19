@@ -1,7 +1,7 @@
 # L_EDIT_PIC_INFO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_EDIT_PIC_INFO}

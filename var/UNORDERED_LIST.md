@@ -1,7 +1,7 @@
 # UNORDERED_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {UNORDERED_LIST}

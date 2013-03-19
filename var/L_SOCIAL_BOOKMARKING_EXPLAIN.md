@@ -1,7 +1,7 @@
 # L_SOCIAL_BOOKMARKING_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SOCIAL_BOOKMARKING_EXPLAIN}

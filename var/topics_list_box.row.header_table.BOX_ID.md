@@ -1,7 +1,7 @@
 # topics_list_box.row.header_table.BOX_ID
 
 
-Attribut de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](topics_list_box.row.header_table.md#readme).
+Attribut d'affichage de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](topics_list_box.row.header_table.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

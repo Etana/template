@@ -1,7 +1,7 @@
 # REMOVE_FIELD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {REMOVE_FIELD}

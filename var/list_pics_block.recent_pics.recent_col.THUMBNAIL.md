@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.recent_col.THUMBNAIL
 
 
-Attribut de [`<!-- BEGIN recent_col -->...<!-- END recent_col -->`](list_pics_block.recent_pics.recent_col.md#readme).
+Attribut d'affichage de [`<!-- BEGIN recent_col -->...<!-- END recent_col -->`](list_pics_block.recent_pics.recent_col.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

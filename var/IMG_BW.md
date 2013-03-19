@@ -1,7 +1,7 @@
 # IMG_BW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {IMG_BW}

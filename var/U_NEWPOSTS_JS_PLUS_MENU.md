@@ -1,7 +1,7 @@
 # U_NEWPOSTS_JS_PLUS_MENU
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_NEWPOSTS_JS_PLUS_MENU}

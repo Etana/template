@@ -1,7 +1,7 @@
 # switch_manual_thumbnail
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_manual_thumbnail -->
@@ -19,7 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_upload_body`](../tpl/var/punbb/album_upload_body.md#readme) :__ lignes [`292`](../tpl/src/punbb/album_upload_body.tpl#L292), [`307`](../tpl/src/punbb/album_upload_body.tpl#L307)
+* __[`album_upload_body`](../tpl/var/punbb/album_upload_body.md#readme) :__ lignes [`292`](../tpl/src/punbb/album_upload_body.tpl#L292)[`<->`](../tpl/src/punbb/album_upload_body.tpl#L292-L307)[`307`](../tpl/src/punbb/album_upload_body.tpl#L307)
 
 ### Version phpBB2
-* __[`album_upload_body`](../tpl/var/subsilver/album_upload_body.md#readme) :__ lignes [`309`](../tpl/src/subsilver/album_upload_body.tpl#L309), [`325`](../tpl/src/subsilver/album_upload_body.tpl#L325)
+* __[`album_upload_body`](../tpl/var/subsilver/album_upload_body.md#readme) :__ lignes [`309`](../tpl/src/subsilver/album_upload_body.tpl#L309)[`<->`](../tpl/src/subsilver/album_upload_body.tpl#L309-L325)[`325`](../tpl/src/subsilver/album_upload_body.tpl#L325)

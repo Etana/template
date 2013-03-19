@@ -1,7 +1,7 @@
 # switch_user_login_form_header.switch_fb_connect_no
 
 
-Attribut de [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_user_login_form_header -->`](switch_user_login_form_header.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_user_login_form_header -->`](switch_user_login_form_header.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_header -->
@@ -16,4 +16,4 @@ Attribut de [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_use
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`21`](../tpl/src/subsilver/index_body.tpl#L21), [`44`](../tpl/src/subsilver/index_body.tpl#L44)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`21`](../tpl/src/subsilver/index_body.tpl#L21)[`<->`](../tpl/src/subsilver/index_body.tpl#L21-L44)[`44`](../tpl/src/subsilver/index_body.tpl#L44)

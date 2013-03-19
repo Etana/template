@@ -1,7 +1,7 @@
 # ERROR_BOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ERROR_BOX}

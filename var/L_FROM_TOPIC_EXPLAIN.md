@@ -1,7 +1,7 @@
 # L_FROM_TOPIC_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FROM_TOPIC_EXPLAIN}

@@ -1,7 +1,7 @@
 # L_PREFERENCES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PREFERENCES}

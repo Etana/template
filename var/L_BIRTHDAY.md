@@ -1,7 +1,7 @@
 # L_BIRTHDAY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_BIRTHDAY}

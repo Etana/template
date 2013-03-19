@@ -1,7 +1,7 @@
 # NUFF_SCATTER_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_SCATTER_CHECKED}

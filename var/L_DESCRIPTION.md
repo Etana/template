@@ -1,7 +1,7 @@
 # L_DESCRIPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DESCRIPTION}

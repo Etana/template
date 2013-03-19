@@ -1,7 +1,7 @@
 # AVATAR_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AVATAR_IMG}

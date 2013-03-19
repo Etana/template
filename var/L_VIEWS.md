@@ -1,7 +1,7 @@
 # L_VIEWS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_VIEWS}

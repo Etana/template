@@ -1,7 +1,7 @@
 # NAV_CAT_DESC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NAV_CAT_DESC}

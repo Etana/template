@@ -1,7 +1,7 @@
 # MENU_NOWRAP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MENU_NOWRAP}

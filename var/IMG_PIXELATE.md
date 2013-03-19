@@ -1,7 +1,7 @@
 # IMG_PIXELATE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {IMG_PIXELATE}

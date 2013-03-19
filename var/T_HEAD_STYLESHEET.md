@@ -1,7 +1,7 @@
 # T_HEAD_STYLESHEET
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {T_HEAD_STYLESHEET}

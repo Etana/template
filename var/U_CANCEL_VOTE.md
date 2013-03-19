@@ -1,7 +1,7 @@
 # U_CANCEL_VOTE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_CANCEL_VOTE}

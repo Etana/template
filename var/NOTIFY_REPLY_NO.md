@@ -1,7 +1,7 @@
 # NOTIFY_REPLY_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NOTIFY_REPLY_NO}

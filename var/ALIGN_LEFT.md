@@ -1,7 +1,7 @@
 # ALIGN_LEFT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALIGN_LEFT}

@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_profile_fields_register
 
 
-Attribut de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](switch_informations_menu.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](switch_informations_menu.md#readme).
 
 ```html
 <!-- BEGIN switch_informations_menu -->
@@ -20,4 +20,4 @@ Attribut de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informat
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`129`](../tpl/src/punbb/profile_add_body.tpl#L129), [`140`](../tpl/src/punbb/profile_add_body.tpl#L140)
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`129`](../tpl/src/punbb/profile_add_body.tpl#L129)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L129-L140)[`140`](../tpl/src/punbb/profile_add_body.tpl#L140)

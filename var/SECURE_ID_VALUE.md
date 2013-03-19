@@ -1,7 +1,7 @@
 # SECURE_ID_VALUE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SECURE_ID_VALUE}

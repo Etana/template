@@ -1,7 +1,7 @@
 # BIRTHDAY_REQUIRED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BIRTHDAY_REQUIRED}

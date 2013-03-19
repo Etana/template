@@ -1,7 +1,7 @@
 # L_ABOUT_USER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ABOUT_USER}

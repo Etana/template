@@ -1,7 +1,7 @@
 # SKYPE_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SKYPE_IMG}

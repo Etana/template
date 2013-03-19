@@ -1,7 +1,7 @@
 # S_PROFILE_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_PROFILE_ACTION}

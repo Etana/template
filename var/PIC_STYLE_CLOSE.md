@@ -1,7 +1,7 @@
 # PIC_STYLE_CLOSE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_STYLE_CLOSE}

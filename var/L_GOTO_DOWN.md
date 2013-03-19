@@ -1,7 +1,7 @@
 # L_GOTO_DOWN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_GOTO_DOWN}

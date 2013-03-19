@@ -1,7 +1,7 @@
 # topics_list_box.row.bottom.COUNT_TOTAL_TOPICS
 
 
-Attribut de [`<!-- BEGIN bottom -->...<!-- END bottom -->`](topics_list_box.row.bottom.md#readme).
+Attribut d'affichage de [`<!-- BEGIN bottom -->...<!-- END bottom -->`](topics_list_box.row.bottom.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->

@@ -1,7 +1,7 @@
 # L_POLL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_POLL}

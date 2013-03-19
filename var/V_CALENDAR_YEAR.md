@@ -1,7 +1,7 @@
 # V_CALENDAR_YEAR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_CALENDAR_YEAR}

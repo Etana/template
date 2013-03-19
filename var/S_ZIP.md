@@ -1,7 +1,7 @@
 # S_ZIP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_ZIP}

@@ -1,7 +1,7 @@
 # ALWAYS_ADD_SIGNATURE_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALWAYS_ADD_SIGNATURE_NO}

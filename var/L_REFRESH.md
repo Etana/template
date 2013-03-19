@@ -1,7 +1,7 @@
 # L_REFRESH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_REFRESH}

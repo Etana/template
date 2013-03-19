@@ -1,7 +1,7 @@
 # BBCODE_STATUS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BBCODE_STATUS}

@@ -1,7 +1,7 @@
 # PROFILE_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PROFILE_IMG}

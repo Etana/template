@@ -1,7 +1,7 @@
 # avatar_row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN avatar_row -->
@@ -19,7 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ lignes [`27`](../tpl/src/punbb/profile_avatar_gallery.tpl#L27), [`37`](../tpl/src/punbb/profile_avatar_gallery.tpl#L37)
+* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ lignes [`27`](../tpl/src/punbb/profile_avatar_gallery.tpl#L27)[`<->`](../tpl/src/punbb/profile_avatar_gallery.tpl#L27-L37)[`37`](../tpl/src/punbb/profile_avatar_gallery.tpl#L37)
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ lignes [`14`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L14), [`25`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L25)
+* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ lignes [`14`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L14)[`<->`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L14-L25)[`25`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L25)

@@ -1,7 +1,7 @@
 # S_MAX_FILESIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_MAX_FILESIZE}

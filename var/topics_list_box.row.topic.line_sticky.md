@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.line_sticky
 
 
-Attribut de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.topic.md#readme).
+Attribut de bouclage de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.topic.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -20,4 +20,4 @@ Attribut de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.to
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`73`](../tpl/src/punbb/topics_list_box.tpl#L73), [`73`](../tpl/src/punbb/topics_list_box.tpl#L73), [`92`](../tpl/src/punbb/topics_list_box.tpl#L92), [`92`](../tpl/src/punbb/topics_list_box.tpl#L92), [`93`](../tpl/src/punbb/topics_list_box.tpl#L93), [`93`](../tpl/src/punbb/topics_list_box.tpl#L93), [`94`](../tpl/src/punbb/topics_list_box.tpl#L94), [`94`](../tpl/src/punbb/topics_list_box.tpl#L94)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`73`](../tpl/src/punbb/topics_list_box.tpl#L73)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L73-L73)[`73`](../tpl/src/punbb/topics_list_box.tpl#L73), [`92`](../tpl/src/punbb/topics_list_box.tpl#L92)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L92-L92)[`92`](../tpl/src/punbb/topics_list_box.tpl#L92), [`93`](../tpl/src/punbb/topics_list_box.tpl#L93)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L93-L93)[`93`](../tpl/src/punbb/topics_list_box.tpl#L93), [`94`](../tpl/src/punbb/topics_list_box.tpl#L94)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L94-L94)[`94`](../tpl/src/punbb/topics_list_box.tpl#L94)

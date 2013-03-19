@@ -1,7 +1,7 @@
 # DYNAMIC_GENERATION_STATUS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DYNAMIC_GENERATION_STATUS}

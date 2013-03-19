@@ -1,7 +1,7 @@
 # TXT_CLASS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TXT_CLASS}

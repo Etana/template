@@ -1,7 +1,7 @@
 # U_PIC_L_OPEN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_PIC_L_OPEN}

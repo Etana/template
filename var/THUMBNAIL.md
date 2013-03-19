@@ -1,7 +1,7 @@
 # THUMBNAIL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {THUMBNAIL}

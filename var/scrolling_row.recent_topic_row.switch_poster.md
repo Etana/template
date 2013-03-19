@@ -1,7 +1,7 @@
 # scrolling_row.recent_topic_row.switch_poster
 
 
-Attribut de [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](scrolling_row.recent_topic_row.md#readme).
+Attribut de bouclage de [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](scrolling_row.recent_topic_row.md#readme).
 
 ```html
 <!-- BEGIN scrolling_row -->
@@ -23,7 +23,7 @@ Attribut de [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/var/punbb/mod_recent_topics.md#readme) :__ lignes [`9`](../tpl/src/punbb/mod_recent_topics.tpl#L9), [`11`](../tpl/src/punbb/mod_recent_topics.tpl#L11)
+* __[`mod_recent_topics`](../tpl/var/punbb/mod_recent_topics.md#readme) :__ lignes [`9`](../tpl/src/punbb/mod_recent_topics.tpl#L9)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L9-L11)[`11`](../tpl/src/punbb/mod_recent_topics.tpl#L11)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/var/subsilver/mod_recent_topics.md#readme) :__ lignes [`14`](../tpl/src/subsilver/mod_recent_topics.tpl#L14), [`16`](../tpl/src/subsilver/mod_recent_topics.tpl#L16)
+* __[`mod_recent_topics`](../tpl/var/subsilver/mod_recent_topics.md#readme) :__ lignes [`14`](../tpl/src/subsilver/mod_recent_topics.tpl#L14)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L14-L16)[`16`](../tpl/src/subsilver/mod_recent_topics.tpl#L16)

@@ -1,7 +1,7 @@
 # pics_nav.L_PICS_NAV
 
 
-Attribut de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics_nav.md#readme).
+Attribut d'affichage de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics_nav.md#readme).
 
 ```html
 <!-- BEGIN pics_nav -->

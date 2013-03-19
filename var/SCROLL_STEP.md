@@ -1,7 +1,7 @@
 # SCROLL_STEP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SCROLL_STEP}

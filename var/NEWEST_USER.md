@@ -1,7 +1,7 @@
 # NEWEST_USER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NEWEST_USER}

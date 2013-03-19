@@ -1,7 +1,7 @@
 # index_pics_block.no_pics.L_NO_ALBUMS
 
 
-Attribut de [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](index_pics_block.no_pics.md#readme).
+Attribut d'affichage de [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](index_pics_block.no_pics.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->

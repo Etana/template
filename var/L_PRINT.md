@@ -1,7 +1,7 @@
 # L_PRINT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PRINT}

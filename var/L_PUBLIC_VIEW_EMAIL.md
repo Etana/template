@@ -1,7 +1,7 @@
 # L_PUBLIC_VIEW_EMAIL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PUBLIC_VIEW_EMAIL}

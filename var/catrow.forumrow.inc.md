@@ -1,7 +1,7 @@
 # catrow.forumrow.inc
 
 
-Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
+Attribut de bouclage de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -22,4 +22,4 @@ Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`45`](../tpl/src/subsilver/index_box.tpl#L45), [`47`](../tpl/src/subsilver/index_box.tpl#L47)
+* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`45`](../tpl/src/subsilver/index_box.tpl#L45)[`<->`](../tpl/src/subsilver/index_box.tpl#L45-L47)[`47`](../tpl/src/subsilver/index_box.tpl#L47)

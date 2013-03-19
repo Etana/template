@@ -1,7 +1,7 @@
 # L_GALLERIES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_GALLERIES}

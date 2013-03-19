@@ -1,7 +1,7 @@
 # post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT
 
 
-Attribut de [`<!-- BEGIN switch_no_dl_att -->...<!-- END switch_no_dl_att -->`](post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_no_dl_att -->...<!-- END switch_no_dl_att -->`](post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme).
 
 ```html
 <!-- BEGIN post_row -->

@@ -1,7 +1,7 @@
 # U_SLIDESHOW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_SLIDESHOW}

@@ -1,7 +1,7 @@
 # L_ONLINE_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ONLINE_EXPLAIN}

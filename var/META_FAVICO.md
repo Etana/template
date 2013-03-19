@@ -1,7 +1,7 @@
 # META_FAVICO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {META_FAVICO}

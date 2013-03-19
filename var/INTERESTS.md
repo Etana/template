@@ -1,7 +1,7 @@
 # INTERESTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INTERESTS}

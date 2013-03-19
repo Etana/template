@@ -1,7 +1,7 @@
 # LANGUAGE_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LANGUAGE_SELECT}

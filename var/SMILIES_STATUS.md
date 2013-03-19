@@ -1,7 +1,7 @@
 # SMILIES_STATUS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SMILIES_STATUS}

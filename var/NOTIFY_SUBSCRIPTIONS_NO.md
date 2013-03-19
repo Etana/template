@@ -1,7 +1,7 @@
 # NOTIFY_SUBSCRIPTIONS_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NOTIFY_SUBSCRIPTIONS_NO}

@@ -1,7 +1,7 @@
 # L_ALBUM_NAME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ALBUM_NAME}

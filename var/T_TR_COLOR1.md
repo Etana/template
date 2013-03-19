@@ -1,7 +1,7 @@
 # T_TR_COLOR1
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {T_TR_COLOR1}

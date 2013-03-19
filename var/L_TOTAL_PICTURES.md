@@ -1,7 +1,7 @@
 # L_TOTAL_PICTURES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TOTAL_PICTURES}

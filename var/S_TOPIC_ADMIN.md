@@ -1,7 +1,7 @@
 # S_TOPIC_ADMIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_TOPIC_ADMIN}

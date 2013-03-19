@@ -1,7 +1,7 @@
 # guest_user_row.U_FORUM_LOCATION
 
 
-Attribut de [`<!-- BEGIN guest_user_row -->...<!-- END guest_user_row -->`](guest_user_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN guest_user_row -->...<!-- END guest_user_row -->`](guest_user_row.md#readme).
 
 ```html
 <!-- BEGIN guest_user_row -->

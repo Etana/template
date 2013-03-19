@@ -1,7 +1,7 @@
 # SORT_TOTAL_PICTURES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_TOTAL_PICTURES}

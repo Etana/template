@@ -1,7 +1,7 @@
 # L_UNSUBSCRIBE_GROUP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UNSUBSCRIBE_GROUP}

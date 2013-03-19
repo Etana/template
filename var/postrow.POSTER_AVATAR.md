@@ -1,7 +1,7 @@
 # postrow.POSTER_AVATAR
 
 
-Attribut de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

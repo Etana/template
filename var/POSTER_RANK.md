@@ -1,7 +1,7 @@
 # POSTER_RANK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POSTER_RANK}

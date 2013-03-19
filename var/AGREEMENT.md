@@ -1,7 +1,7 @@
 # AGREEMENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AGREEMENT}

@@ -1,7 +1,7 @@
 # S_NOTIFY_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_NOTIFY_CHECKED}

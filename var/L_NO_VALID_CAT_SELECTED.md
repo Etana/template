@@ -1,7 +1,7 @@
 # L_NO_VALID_CAT_SELECTED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NO_VALID_CAT_SELECTED}

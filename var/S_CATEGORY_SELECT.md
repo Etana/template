@@ -1,7 +1,7 @@
 # S_CATEGORY_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_CATEGORY_SELECT}

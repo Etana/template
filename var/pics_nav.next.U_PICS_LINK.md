@@ -1,7 +1,7 @@
 # pics_nav.next.U_PICS_LINK
 
 
-Attribut de [`<!-- BEGIN next -->...<!-- END next -->`](pics_nav.next.md#readme).
+Attribut d'affichage de [`<!-- BEGIN next -->...<!-- END next -->`](pics_nav.next.md#readme).
 
 ```html
 <!-- BEGIN pics_nav -->

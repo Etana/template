@@ -1,7 +1,7 @@
 # POST_PREVENT_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_PREVENT_NO}

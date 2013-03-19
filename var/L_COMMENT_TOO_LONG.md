@@ -1,7 +1,7 @@
 # L_COMMENT_TOO_LONG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_COMMENT_TOO_LONG}

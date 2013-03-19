@@ -1,7 +1,7 @@
 # topics_list_box.row.bottom.multi_selection
 
 
-Attribut de [`<!-- BEGIN bottom -->...<!-- END bottom -->`](topics_list_box.row.bottom.md#readme).
+Attribut de bouclage de [`<!-- BEGIN bottom -->...<!-- END bottom -->`](topics_list_box.row.bottom.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -20,4 +20,4 @@ Attribut de [`<!-- BEGIN bottom -->...<!-- END bottom -->`](topics_list_box.row.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`111`](../tpl/src/punbb/topics_list_box.tpl#L111), [`113`](../tpl/src/punbb/topics_list_box.tpl#L113)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`111`](../tpl/src/punbb/topics_list_box.tpl#L111)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L111-L113)[`113`](../tpl/src/punbb/topics_list_box.tpl#L113)

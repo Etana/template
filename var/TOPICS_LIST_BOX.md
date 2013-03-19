@@ -1,7 +1,7 @@
 # TOPICS_LIST_BOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOPICS_LIST_BOX}

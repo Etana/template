@@ -1,7 +1,7 @@
 # simple_footer
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN simple_footer -->
@@ -14,4 +14,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`57`](../tpl/src/punbb/portal_body.tpl#L57), [`59`](../tpl/src/punbb/portal_body.tpl#L59)
+* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`57`](../tpl/src/punbb/portal_body.tpl#L57)[`<->`](../tpl/src/punbb/portal_body.tpl#L57-L59)[`59`](../tpl/src/punbb/portal_body.tpl#L59)

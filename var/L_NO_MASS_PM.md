@@ -1,7 +1,7 @@
 # L_NO_MASS_PM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NO_MASS_PM}

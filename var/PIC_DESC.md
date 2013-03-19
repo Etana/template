@@ -1,7 +1,7 @@
 # PIC_DESC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_DESC}

@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.table_sticky
 
 
-Attribut de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.topic.md#readme).
+Attribut de bouclage de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.topic.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -29,4 +29,4 @@ Attribut de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.to
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`49`](../tpl/src/punbb/topics_list_box.tpl#L49), [`71`](../tpl/src/punbb/topics_list_box.tpl#L71)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`49`](../tpl/src/punbb/topics_list_box.tpl#L49)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L49-L71)[`71`](../tpl/src/punbb/topics_list_box.tpl#L71)

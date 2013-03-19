@@ -1,7 +1,7 @@
 # L_SHARE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SHARE}

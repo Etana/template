@@ -1,7 +1,7 @@
 # L_SIGNATURE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SIGNATURE}

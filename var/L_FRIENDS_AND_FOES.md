@@ -1,7 +1,7 @@
 # L_FRIENDS_AND_FOES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FRIENDS_AND_FOES}

@@ -1,7 +1,7 @@
 # OCCUPATION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {OCCUPATION}

@@ -1,7 +1,7 @@
 # L_INDEX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_INDEX}

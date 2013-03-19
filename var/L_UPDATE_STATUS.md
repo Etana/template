@@ -1,7 +1,7 @@
 # L_UPDATE_STATUS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UPDATE_STATUS}

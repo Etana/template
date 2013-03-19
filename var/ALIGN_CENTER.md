@@ -1,7 +1,7 @@
 # ALIGN_CENTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALIGN_CENTER}

@@ -1,7 +1,7 @@
 # MARK_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MARK_SELECT}

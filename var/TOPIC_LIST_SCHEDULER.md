@@ -1,7 +1,7 @@
 # TOPIC_LIST_SCHEDULER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOPIC_LIST_SCHEDULER}

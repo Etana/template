@@ -1,7 +1,7 @@
 # PAY_METHOD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PAY_METHOD}

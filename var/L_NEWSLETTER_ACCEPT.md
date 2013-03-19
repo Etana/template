@@ -1,7 +1,7 @@
 # L_NEWSLETTER_ACCEPT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NEWSLETTER_ACCEPT}

@@ -1,7 +1,7 @@
 # classical_row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN classical_row -->
@@ -18,7 +18,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/var/punbb/mod_recent_topics.md#readme) :__ lignes [`33`](../tpl/src/punbb/mod_recent_topics.tpl#L33), [`56`](../tpl/src/punbb/mod_recent_topics.tpl#L56)
+* __[`mod_recent_topics`](../tpl/var/punbb/mod_recent_topics.md#readme) :__ lignes [`33`](../tpl/src/punbb/mod_recent_topics.tpl#L33)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L33-L56)[`56`](../tpl/src/punbb/mod_recent_topics.tpl#L56)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/var/subsilver/mod_recent_topics.md#readme) :__ lignes [`39`](../tpl/src/subsilver/mod_recent_topics.tpl#L39), [`66`](../tpl/src/subsilver/mod_recent_topics.tpl#L66)
+* __[`mod_recent_topics`](../tpl/var/subsilver/mod_recent_topics.md#readme) :__ lignes [`39`](../tpl/src/subsilver/mod_recent_topics.tpl#L39)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L39-L66)[`66`](../tpl/src/subsilver/mod_recent_topics.tpl#L66)

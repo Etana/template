@@ -1,7 +1,7 @@
 # L_COLOR_INDIGO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_COLOR_INDIGO}

@@ -1,7 +1,7 @@
 # switch_on_index.switch_delete_cookies.U_DELETE_COOKIES
 
 
-Attribut de [`<!-- BEGIN switch_delete_cookies -->...<!-- END switch_delete_cookies -->`](switch_on_index.switch_delete_cookies.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_delete_cookies -->...<!-- END switch_delete_cookies -->`](switch_on_index.switch_delete_cookies.md#readme).
 
 ```html
 <!-- BEGIN switch_on_index -->

@@ -1,7 +1,7 @@
 # IP1
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {IP1}

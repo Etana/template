@@ -1,7 +1,7 @@
 # NUFF_RESIZE_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_RESIZE_CHECKED}

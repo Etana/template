@@ -1,7 +1,7 @@
 # L_AVATAR_GALLERY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_AVATAR_GALLERY}

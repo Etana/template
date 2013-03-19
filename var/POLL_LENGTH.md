@@ -1,7 +1,7 @@
 # POLL_LENGTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POLL_LENGTH}

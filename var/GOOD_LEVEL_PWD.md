@@ -1,7 +1,7 @@
 # GOOD_LEVEL_PWD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GOOD_LEVEL_PWD}

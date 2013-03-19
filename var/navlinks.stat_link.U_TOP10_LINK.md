@@ -1,7 +1,7 @@
 # navlinks.stat_link.U_TOP10_LINK
 
 
-Attribut de [`<!-- BEGIN stat_link -->...<!-- END stat_link -->`](navlinks.stat_link.md#readme).
+Attribut d'affichage de [`<!-- BEGIN stat_link -->...<!-- END stat_link -->`](navlinks.stat_link.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->

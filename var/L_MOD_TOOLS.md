@@ -1,7 +1,7 @@
 # L_MOD_TOOLS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MOD_TOOLS}

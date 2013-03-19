@@ -1,7 +1,7 @@
 # U_LOOKUP_IP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_LOOKUP_IP}

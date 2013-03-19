@@ -1,7 +1,7 @@
 # L_NOTIFY_POST_PREVENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NOTIFY_POST_PREVENT}

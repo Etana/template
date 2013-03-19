@@ -1,7 +1,7 @@
 # PASSWORD_CONFIRM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PASSWORD_CONFIRM}

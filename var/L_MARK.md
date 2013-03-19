@@ -1,7 +1,7 @@
 # L_MARK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MARK}

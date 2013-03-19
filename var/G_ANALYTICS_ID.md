@@ -1,7 +1,7 @@
 # G_ANALYTICS_ID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {G_ANALYTICS_ID}

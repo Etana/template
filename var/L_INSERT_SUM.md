@@ -1,7 +1,7 @@
 # L_INSERT_SUM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_INSERT_SUM}

@@ -1,7 +1,7 @@
 # BOX_NAME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BOX_NAME}

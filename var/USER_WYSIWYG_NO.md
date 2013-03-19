@@ -1,7 +1,7 @@
 # USER_WYSIWYG_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {USER_WYSIWYG_NO}

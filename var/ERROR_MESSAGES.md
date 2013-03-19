@@ -1,7 +1,7 @@
 # ERROR_MESSAGES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ERROR_MESSAGES}

@@ -1,7 +1,7 @@
 # MOD_USERNAME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MOD_USERNAME}

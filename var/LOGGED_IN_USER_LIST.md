@@ -1,7 +1,7 @@
 # LOGGED_IN_USER_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LOGGED_IN_USER_LIST}

@@ -1,7 +1,7 @@
 # S_SEARCH_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_SEARCH_ACTION}

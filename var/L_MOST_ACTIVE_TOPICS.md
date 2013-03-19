@@ -1,7 +1,7 @@
 # L_MOST_ACTIVE_TOPICS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MOST_ACTIVE_TOPICS}

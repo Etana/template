@@ -1,7 +1,7 @@
 # CALENDARITEMS_OPEN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CALENDARITEMS_OPEN}

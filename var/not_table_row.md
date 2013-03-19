@@ -1,7 +1,7 @@
 # not_table_row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN not_table_row -->
@@ -14,4 +14,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`standard`](../tpl/var/subsilver/standard.md#readme) :__ lignes [`8`](../tpl/src/subsilver/standard.tpl#L8), [`10`](../tpl/src/subsilver/standard.tpl#L10)
+* __[`standard`](../tpl/var/subsilver/standard.md#readme) :__ lignes [`8`](../tpl/src/subsilver/standard.tpl#L8)[`<->`](../tpl/src/subsilver/standard.tpl#L8-L10)[`10`](../tpl/src/subsilver/standard.tpl#L10)

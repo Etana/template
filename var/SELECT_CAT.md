@@ -1,7 +1,7 @@
 # SELECT_CAT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SELECT_CAT}

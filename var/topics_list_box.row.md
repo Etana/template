@@ -1,7 +1,7 @@
 # topics_list_box.row
 
 
-Attribut de [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](topics_list_box.md#readme).
+Attribut de bouclage de [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](topics_list_box.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -62,7 +62,7 @@ Attribut de [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](to
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`2`](../tpl/src/punbb/topics_list_box.tpl#L2), [`121`](../tpl/src/punbb/topics_list_box.tpl#L121)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`2`](../tpl/src/punbb/topics_list_box.tpl#L2)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L2-L121)[`121`](../tpl/src/punbb/topics_list_box.tpl#L121)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/topics_list_box.tpl#L1), [`95`](../tpl/src/subsilver/topics_list_box.tpl#L95)
+* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/topics_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L1-L95)[`95`](../tpl/src/subsilver/topics_list_box.tpl#L95)

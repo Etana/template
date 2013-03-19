@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics.recent_detail.NB_ALBUMS
 
 
-Attribut de [`<!-- BEGIN recent_detail -->...<!-- END recent_detail -->`](build_categories_block.recent_pics.recent_detail.md#readme).
+Attribut d'affichage de [`<!-- BEGIN recent_detail -->...<!-- END recent_detail -->`](build_categories_block.recent_pics.recent_detail.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->

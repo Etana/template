@@ -1,7 +1,7 @@
 # post_row.switch_attachments
 
 
-Attribut de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post_row.md#readme).
+Attribut de bouclage de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post_row.md#readme).
 
 ```html
 <!-- BEGIN post_row -->
@@ -21,7 +21,7 @@ Attribut de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post_row.md#read
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`14`](../tpl/src/punbb/mod_news.tpl#L14), [`49`](../tpl/src/punbb/mod_news.tpl#L49)
+* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`14`](../tpl/src/punbb/mod_news.tpl#L14)[`<->`](../tpl/src/punbb/mod_news.tpl#L14-L49)[`49`](../tpl/src/punbb/mod_news.tpl#L49)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`21`](../tpl/src/subsilver/mod_news.tpl#L21), [`56`](../tpl/src/subsilver/mod_news.tpl#L56)
+* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`21`](../tpl/src/subsilver/mod_news.tpl#L21)[`<->`](../tpl/src/subsilver/mod_news.tpl#L21-L56)[`56`](../tpl/src/subsilver/mod_news.tpl#L56)

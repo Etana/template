@@ -1,7 +1,7 @@
 # L_PREVIEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PREVIEW}

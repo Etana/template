@@ -1,7 +1,7 @@
 # postrow.displayed.first_post_br
 
 
-Attribut de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
+Attribut de bouclage de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -18,7 +18,7 @@ Attribut de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displa
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`124`](../tpl/src/punbb/viewtopic_body.tpl#L124), [`128`](../tpl/src/punbb/viewtopic_body.tpl#L128)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`124`](../tpl/src/punbb/viewtopic_body.tpl#L124)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L124-L128)[`128`](../tpl/src/punbb/viewtopic_body.tpl#L128)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`247`](../tpl/src/subsilver/viewtopic_body.tpl#L247), [`255`](../tpl/src/subsilver/viewtopic_body.tpl#L255)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`247`](../tpl/src/subsilver/viewtopic_body.tpl#L247)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L247-L255)[`255`](../tpl/src/subsilver/viewtopic_body.tpl#L255)

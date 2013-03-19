@@ -1,7 +1,7 @@
 # V_CALE_DUR_MIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_CALE_DUR_MIN}

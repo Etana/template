@@ -1,7 +1,7 @@
 # S_MODCP_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_MODCP_ACTION}

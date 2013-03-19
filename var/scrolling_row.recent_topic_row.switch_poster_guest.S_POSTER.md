@@ -1,7 +1,7 @@
 # scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER
 
 
-Attribut de [`<!-- BEGIN switch_poster_guest -->...<!-- END switch_poster_guest -->`](scrolling_row.recent_topic_row.switch_poster_guest.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_poster_guest -->...<!-- END switch_poster_guest -->`](scrolling_row.recent_topic_row.switch_poster_guest.md#readme).
 
 ```html
 <!-- BEGIN scrolling_row -->

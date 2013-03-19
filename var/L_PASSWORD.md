@@ -1,7 +1,7 @@
 # L_PASSWORD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PASSWORD}

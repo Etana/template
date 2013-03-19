@@ -1,7 +1,7 @@
 # switch_search_results.search_results
 
 
-Attribut de [`<!-- BEGIN switch_search_results -->...<!-- END switch_search_results -->`](switch_search_results.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_search_results -->...<!-- END switch_search_results -->`](switch_search_results.md#readme).
 
 ```html
 <!-- BEGIN switch_search_results -->
@@ -30,7 +30,7 @@ Attribut de [`<!-- BEGIN switch_search_results -->...<!-- END switch_search_resu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_search_body`](../tpl/var/punbb/album_search_body.md#readme) :__ lignes [`38`](../tpl/src/punbb/album_search_body.tpl#L38), [`49`](../tpl/src/punbb/album_search_body.tpl#L49)
+* __[`album_search_body`](../tpl/var/punbb/album_search_body.md#readme) :__ lignes [`38`](../tpl/src/punbb/album_search_body.tpl#L38)[`<->`](../tpl/src/punbb/album_search_body.tpl#L38-L49)[`49`](../tpl/src/punbb/album_search_body.tpl#L49)
 
 ### Version phpBB2
-* __[`album_search_body`](../tpl/var/subsilver/album_search_body.md#readme) :__ lignes [`29`](../tpl/src/subsilver/album_search_body.tpl#L29), [`42`](../tpl/src/subsilver/album_search_body.tpl#L42)
+* __[`album_search_body`](../tpl/var/subsilver/album_search_body.md#readme) :__ lignes [`29`](../tpl/src/subsilver/album_search_body.tpl#L29)[`<->`](../tpl/src/subsilver/album_search_body.tpl#L29-L42)[`42`](../tpl/src/subsilver/album_search_body.tpl#L42)

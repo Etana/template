@@ -1,7 +1,7 @@
 # POPUP_PM_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POPUP_PM_NO}

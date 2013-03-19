@@ -1,7 +1,7 @@
 # L_FROM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FROM}

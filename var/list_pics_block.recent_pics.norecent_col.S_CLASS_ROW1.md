@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1
 
 
-Attribut de [`<!-- BEGIN norecent_col -->...<!-- END norecent_col -->`](list_pics_block.recent_pics.norecent_col.md#readme).
+Attribut d'affichage de [`<!-- BEGIN norecent_col -->...<!-- END norecent_col -->`](list_pics_block.recent_pics.norecent_col.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

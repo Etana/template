@@ -1,7 +1,7 @@
 # L_DATE_FORMAT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DATE_FORMAT}

@@ -1,7 +1,7 @@
 # POST_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_IMG}

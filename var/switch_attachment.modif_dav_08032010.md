@@ -1,7 +1,7 @@
 # switch_attachment.modif_dav_08032010
 
 
-Attribut de [`<!-- BEGIN switch_attachment -->...<!-- END switch_attachment -->`](switch_attachment.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_attachment -->...<!-- END switch_attachment -->`](switch_attachment.md#readme).
 
 ```html
 <!-- BEGIN switch_attachment -->
@@ -16,4 +16,4 @@ Attribut de [`<!-- BEGIN switch_attachment -->...<!-- END switch_attachment -->`
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`695`](../tpl/src/subsilver/posting_body.tpl#L695), [`702`](../tpl/src/subsilver/posting_body.tpl#L702)
+* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`695`](../tpl/src/subsilver/posting_body.tpl#L695)[`<->`](../tpl/src/subsilver/posting_body.tpl#L695-L702)[`702`](../tpl/src/subsilver/posting_body.tpl#L702)

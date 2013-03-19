@@ -1,7 +1,7 @@
 # LOGIN_POPUP_MSG_HEIGHT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LOGIN_POPUP_MSG_HEIGHT}

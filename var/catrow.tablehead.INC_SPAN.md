@@ -1,7 +1,7 @@
 # catrow.tablehead.INC_SPAN
 
 
-Attribut de [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](catrow.tablehead.md#readme).
+Attribut d'affichage de [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](catrow.tablehead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

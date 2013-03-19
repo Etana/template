@@ -1,7 +1,7 @@
 # U_USERGROUP_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_USERGROUP_ACTION}

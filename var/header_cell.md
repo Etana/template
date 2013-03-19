@@ -1,7 +1,7 @@
 # header_cell
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN header_cell -->
@@ -18,7 +18,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_scheduler_body`](../tpl/var/punbb/calendar_scheduler_body.md#readme) :__ lignes [`40`](../tpl/src/punbb/calendar_scheduler_body.tpl#L40), [`42`](../tpl/src/punbb/calendar_scheduler_body.tpl#L42)
+* __[`calendar_scheduler_body`](../tpl/var/punbb/calendar_scheduler_body.md#readme) :__ lignes [`40`](../tpl/src/punbb/calendar_scheduler_body.tpl#L40)[`<->`](../tpl/src/punbb/calendar_scheduler_body.tpl#L40-L42)[`42`](../tpl/src/punbb/calendar_scheduler_body.tpl#L42)
 
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/var/subsilver/calendar_scheduler_body.md#readme) :__ lignes [`34`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L34), [`36`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L36)
+* __[`calendar_scheduler_body`](../tpl/var/subsilver/calendar_scheduler_body.md#readme) :__ lignes [`34`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L34)[`<->`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L34-L36)[`36`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L36)

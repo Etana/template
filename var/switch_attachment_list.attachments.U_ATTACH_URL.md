@@ -1,7 +1,7 @@
 # switch_attachment_list.attachments.U_ATTACH_URL
 
 
-Attribut de [`<!-- BEGIN attachments -->...<!-- END attachments -->`](switch_attachment_list.attachments.md#readme).
+Attribut d'affichage de [`<!-- BEGIN attachments -->...<!-- END attachments -->`](switch_attachment_list.attachments.md#readme).
 
 ```html
 <!-- BEGIN switch_attachment_list -->

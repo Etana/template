@@ -1,7 +1,7 @@
 # U_VIEWONLINE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_VIEWONLINE}

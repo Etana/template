@@ -1,7 +1,7 @@
 # JS_AUTH_FAVOURITES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JS_AUTH_FAVOURITES}

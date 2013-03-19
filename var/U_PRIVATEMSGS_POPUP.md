@@ -1,7 +1,7 @@
 # U_PRIVATEMSGS_POPUP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_PRIVATEMSGS_POPUP}

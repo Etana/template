@@ -1,7 +1,7 @@
 # L_DISPLAY_WYSIWYG_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DISPLAY_WYSIWYG_EXPLAIN}

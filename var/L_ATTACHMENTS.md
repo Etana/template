@@ -1,7 +1,7 @@
 # L_ATTACHMENTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ATTACHMENTS}

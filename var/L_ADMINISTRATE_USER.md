@@ -1,7 +1,7 @@
 # L_ADMINISTRATE_USER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ADMINISTRATE_USER}

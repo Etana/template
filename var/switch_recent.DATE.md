@@ -1,7 +1,7 @@
 # switch_recent.DATE
 
 
-Attribut de [`<!-- BEGIN switch_recent -->...<!-- END switch_recent -->`](switch_recent.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_recent -->...<!-- END switch_recent -->`](switch_recent.md#readme).
 
 ```html
 <!-- BEGIN switch_recent -->

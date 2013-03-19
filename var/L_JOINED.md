@@ -1,7 +1,7 @@
 # L_JOINED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_JOINED}

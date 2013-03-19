@@ -1,7 +1,7 @@
 # L_CONFIRM_CODE_IMPAIRED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CONFIRM_CODE_IMPAIRED}

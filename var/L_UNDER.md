@@ -1,7 +1,7 @@
 # L_UNDER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UNDER}

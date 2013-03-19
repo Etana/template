@@ -1,7 +1,7 @@
 # ENTER_LINK_URL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ENTER_LINK_URL}

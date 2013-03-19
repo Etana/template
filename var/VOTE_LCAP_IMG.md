@@ -1,7 +1,7 @@
 # VOTE_LCAP_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {VOTE_LCAP_IMG}

@@ -1,7 +1,7 @@
 # DELETE_PERSONAL_GALLERY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DELETE_PERSONAL_GALLERY}

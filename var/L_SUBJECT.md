@@ -1,7 +1,7 @@
 # L_SUBJECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SUBJECT}

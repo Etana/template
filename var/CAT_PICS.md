@@ -1,7 +1,7 @@
 # CAT_PICS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CAT_PICS}

@@ -1,7 +1,7 @@
 # ESPACE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ESPACE}

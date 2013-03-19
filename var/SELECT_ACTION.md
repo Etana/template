@@ -1,7 +1,7 @@
 # SELECT_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SELECT_ACTION}

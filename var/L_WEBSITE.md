@@ -1,7 +1,7 @@
 # L_WEBSITE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_WEBSITE}

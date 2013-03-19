@@ -1,7 +1,7 @@
 # L_BOLD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_BOLD}

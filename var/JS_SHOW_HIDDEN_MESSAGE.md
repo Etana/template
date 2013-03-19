@@ -1,7 +1,7 @@
 # JS_SHOW_HIDDEN_MESSAGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JS_SHOW_HIDDEN_MESSAGE}

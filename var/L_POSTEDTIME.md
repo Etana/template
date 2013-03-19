@@ -1,7 +1,7 @@
 # L_POSTEDTIME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_POSTEDTIME}

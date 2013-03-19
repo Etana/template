@@ -1,7 +1,7 @@
 # DOWN_ARROW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DOWN_ARROW}

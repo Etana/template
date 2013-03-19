@@ -1,7 +1,7 @@
 # navlinks.pic_backup_link.BACKUP_FOLDER_LINK_NEW
 
 
-Attribut de [`<!-- BEGIN pic_backup_link -->...<!-- END pic_backup_link -->`](navlinks.pic_backup_link.md#readme).
+Attribut d'affichage de [`<!-- BEGIN pic_backup_link -->...<!-- END pic_backup_link -->`](navlinks.pic_backup_link.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->

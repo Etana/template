@@ -1,7 +1,7 @@
 # U_NEXT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_NEXT}

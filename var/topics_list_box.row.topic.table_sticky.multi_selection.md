@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.table_sticky.multi_selection
 
 
-Attribut de [`<!-- BEGIN table_sticky -->...<!-- END table_sticky -->`](topics_list_box.row.topic.table_sticky.md#readme).
+Attribut de bouclage de [`<!-- BEGIN table_sticky -->...<!-- END table_sticky -->`](topics_list_box.row.topic.table_sticky.md#readme).
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -22,4 +22,4 @@ Attribut de [`<!-- BEGIN table_sticky -->...<!-- END table_sticky -->`](topics_l
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`55`](../tpl/src/punbb/topics_list_box.tpl#L55), [`57`](../tpl/src/punbb/topics_list_box.tpl#L57)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`55`](../tpl/src/punbb/topics_list_box.tpl#L55)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L55-L57)[`57`](../tpl/src/punbb/topics_list_box.tpl#L57)

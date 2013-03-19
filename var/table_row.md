@@ -1,7 +1,7 @@
 # table_row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN table_row -->
@@ -18,7 +18,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`standard`](../tpl/var/punbb/standard.md#readme) :__ lignes [`1`](../tpl/src/punbb/standard.tpl#L1), [`5`](../tpl/src/punbb/standard.tpl#L5), [`7`](../tpl/src/punbb/standard.tpl#L7), [`10`](../tpl/src/punbb/standard.tpl#L10)
+* __[`standard`](../tpl/var/punbb/standard.md#readme) :__ lignes [`1`](../tpl/src/punbb/standard.tpl#L1)[`<->`](../tpl/src/punbb/standard.tpl#L1-L5)[`5`](../tpl/src/punbb/standard.tpl#L5), [`7`](../tpl/src/punbb/standard.tpl#L7)[`<->`](../tpl/src/punbb/standard.tpl#L7-L10)[`10`](../tpl/src/punbb/standard.tpl#L10)
 
 ### Version phpBB2
-* __[`standard`](../tpl/var/subsilver/standard.md#readme) :__ lignes [`1`](../tpl/src/subsilver/standard.tpl#L1), [`8`](../tpl/src/subsilver/standard.tpl#L8)
+* __[`standard`](../tpl/var/subsilver/standard.md#readme) :__ lignes [`1`](../tpl/src/subsilver/standard.tpl#L1)[`<->`](../tpl/src/subsilver/standard.tpl#L1-L8)[`8`](../tpl/src/subsilver/standard.tpl#L8)

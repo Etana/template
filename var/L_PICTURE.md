@@ -1,7 +1,7 @@
 # L_PICTURE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PICTURE}

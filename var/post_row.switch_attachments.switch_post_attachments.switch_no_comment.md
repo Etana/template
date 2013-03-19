@@ -1,7 +1,7 @@
 # post_row.switch_attachments.switch_post_attachments.switch_no_comment
 
 
-Attribut de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](post_row.switch_attachments.switch_post_attachments.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](post_row.switch_attachments.switch_post_attachments.md#readme).
 
 ```html
 <!-- BEGIN post_row -->
@@ -24,7 +24,7 @@ Attribut de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_atta
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`32`](../tpl/src/punbb/mod_news.tpl#L32), [`36`](../tpl/src/punbb/mod_news.tpl#L36)
+* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`32`](../tpl/src/punbb/mod_news.tpl#L32)[`<->`](../tpl/src/punbb/mod_news.tpl#L32-L36)[`36`](../tpl/src/punbb/mod_news.tpl#L36)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`39`](../tpl/src/subsilver/mod_news.tpl#L39), [`43`](../tpl/src/subsilver/mod_news.tpl#L43)
+* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`39`](../tpl/src/subsilver/mod_news.tpl#L39)[`<->`](../tpl/src/subsilver/mod_news.tpl#L39-L43)[`43`](../tpl/src/subsilver/mod_news.tpl#L43)

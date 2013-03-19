@@ -1,7 +1,7 @@
 # L_COMMENTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_COMMENTS}

@@ -1,7 +1,7 @@
 # userrow.L_SEARCH
 
 
-Attribut de [`<!-- BEGIN userrow -->...<!-- END userrow -->`](userrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN userrow -->...<!-- END userrow -->`](userrow.md#readme).
 
 ```html
 <!-- BEGIN userrow -->

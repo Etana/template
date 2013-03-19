@@ -1,7 +1,7 @@
 # switch_slideshow
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_slideshow -->
@@ -14,7 +14,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_slideshow_body`](../tpl/var/punbb/album_slideshow_body.md#readme) :__ lignes [`1`](../tpl/src/punbb/album_slideshow_body.tpl#L1), [`3`](../tpl/src/punbb/album_slideshow_body.tpl#L3)
+* __[`album_slideshow_body`](../tpl/var/punbb/album_slideshow_body.md#readme) :__ lignes [`1`](../tpl/src/punbb/album_slideshow_body.tpl#L1)[`<->`](../tpl/src/punbb/album_slideshow_body.tpl#L1-L3)[`3`](../tpl/src/punbb/album_slideshow_body.tpl#L3)
 
 ### Version phpBB2
-* __[`album_slideshow_body`](../tpl/var/subsilver/album_slideshow_body.md#readme) :__ lignes [`1`](../tpl/src/subsilver/album_slideshow_body.tpl#L1), [`3`](../tpl/src/subsilver/album_slideshow_body.tpl#L3)
+* __[`album_slideshow_body`](../tpl/var/subsilver/album_slideshow_body.md#readme) :__ lignes [`1`](../tpl/src/subsilver/album_slideshow_body.tpl#L1)[`<->`](../tpl/src/subsilver/album_slideshow_body.tpl#L1-L3)[`3`](../tpl/src/subsilver/album_slideshow_body.tpl#L3)

@@ -1,7 +1,7 @@
 # avatar_row.avatar_column.avatar_option_column
 
 
-Attribut de [`<!-- BEGIN avatar_column -->...<!-- END avatar_column -->`](avatar_row.avatar_column.md#readme).
+Attribut de bouclage de [`<!-- BEGIN avatar_column -->...<!-- END avatar_column -->`](avatar_row.avatar_column.md#readme).
 
 ```html
 <!-- BEGIN avatar_row -->
@@ -22,4 +22,4 @@ Attribut de [`<!-- BEGIN avatar_column -->...<!-- END avatar_column -->`](avatar
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ lignes [`31`](../tpl/src/punbb/profile_avatar_gallery.tpl#L31), [`33`](../tpl/src/punbb/profile_avatar_gallery.tpl#L33)
+* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ lignes [`31`](../tpl/src/punbb/profile_avatar_gallery.tpl#L31)[`<->`](../tpl/src/punbb/profile_avatar_gallery.tpl#L31-L33)[`33`](../tpl/src/punbb/profile_avatar_gallery.tpl#L33)

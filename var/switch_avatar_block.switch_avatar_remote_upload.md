@@ -1,7 +1,7 @@
 # switch_avatar_block.switch_avatar_remote_upload
 
 
-Attribut de [`<!-- BEGIN switch_avatar_block -->...<!-- END switch_avatar_block -->`](switch_avatar_block.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_avatar_block -->...<!-- END switch_avatar_block -->`](switch_avatar_block.md#readme).
 
 ```html
 <!-- BEGIN switch_avatar_block -->
@@ -16,7 +16,7 @@ Attribut de [`<!-- BEGIN switch_avatar_block -->...<!-- END switch_avatar_block 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`371`](../tpl/src/punbb/profile_add_body.tpl#L371), [`378`](../tpl/src/punbb/profile_add_body.tpl#L378)
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`371`](../tpl/src/punbb/profile_add_body.tpl#L371)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L371-L378)[`378`](../tpl/src/punbb/profile_add_body.tpl#L378)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`335`](../tpl/src/subsilver/profile_add_body.tpl#L335), [`340`](../tpl/src/subsilver/profile_add_body.tpl#L340)
+* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`335`](../tpl/src/subsilver/profile_add_body.tpl#L335)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L335-L340)[`340`](../tpl/src/subsilver/profile_add_body.tpl#L340)

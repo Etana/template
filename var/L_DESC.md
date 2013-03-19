@@ -1,7 +1,7 @@
 # L_DESC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DESC}

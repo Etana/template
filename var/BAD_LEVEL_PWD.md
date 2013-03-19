@@ -1,7 +1,7 @@
 # BAD_LEVEL_PWD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BAD_LEVEL_PWD}

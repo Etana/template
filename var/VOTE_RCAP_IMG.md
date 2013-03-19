@@ -1,7 +1,7 @@
 # VOTE_RCAP_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {VOTE_RCAP_IMG}

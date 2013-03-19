@@ -1,7 +1,7 @@
 # COLORS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {COLORS}

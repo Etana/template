@@ -1,7 +1,7 @@
 # build_categories_block.block_title.L_TITLE
 
 
-Attribut de [`<!-- BEGIN block_title -->...<!-- END block_title -->`](build_categories_block.block_title.md#readme).
+Attribut d'affichage de [`<!-- BEGIN block_title -->...<!-- END block_title -->`](build_categories_block.block_title.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->

@@ -1,7 +1,7 @@
 # S_COLSPAN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_COLSPAN}

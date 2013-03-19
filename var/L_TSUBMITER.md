@@ -1,7 +1,7 @@
 # L_TSUBMITER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TSUBMITER}

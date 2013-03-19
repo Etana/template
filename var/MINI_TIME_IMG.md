@@ -1,7 +1,7 @@
 # MINI_TIME_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MINI_TIME_IMG}

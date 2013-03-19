@@ -1,7 +1,7 @@
 # MUST_LABEL_3
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MUST_LABEL_3}

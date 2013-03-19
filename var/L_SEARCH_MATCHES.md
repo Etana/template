@@ -1,7 +1,7 @@
 # L_SEARCH_MATCHES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SEARCH_MATCHES}

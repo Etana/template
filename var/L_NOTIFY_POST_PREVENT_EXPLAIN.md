@@ -1,7 +1,7 @@
 # L_NOTIFY_POST_PREVENT_EXPLAIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NOTIFY_POST_PREVENT_EXPLAIN}

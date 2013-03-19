@@ -1,7 +1,7 @@
 # switch_compat_meta.VERSION
 
 
-Attribut de [`<!-- BEGIN switch_compat_meta -->...<!-- END switch_compat_meta -->`](switch_compat_meta.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_compat_meta -->...<!-- END switch_compat_meta -->`](switch_compat_meta.md#readme).
 
 ```html
 <!-- BEGIN switch_compat_meta -->

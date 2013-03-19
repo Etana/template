@@ -1,7 +1,7 @@
 # S_ANTI_ROBOT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_ANTI_ROBOT}

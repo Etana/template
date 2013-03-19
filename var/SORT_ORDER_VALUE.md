@@ -1,7 +1,7 @@
 # SORT_ORDER_VALUE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_ORDER_VALUE}

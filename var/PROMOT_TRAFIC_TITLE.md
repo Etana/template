@@ -1,7 +1,7 @@
 # PROMOT_TRAFIC_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PROMOT_TRAFIC_TITLE}

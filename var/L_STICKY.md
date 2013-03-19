@@ -1,7 +1,7 @@
 # L_STICKY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_STICKY}

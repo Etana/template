@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.restore_row.restore_pic.S_CLASS_ROW1
 
 
-Attribut de [`<!-- BEGIN restore_pic -->...<!-- END restore_pic -->`](list_pics_block.recent_pics.restore_row.restore_pic.md#readme).
+Attribut d'affichage de [`<!-- BEGIN restore_pic -->...<!-- END restore_pic -->`](list_pics_block.recent_pics.restore_row.restore_pic.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

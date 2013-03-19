@@ -1,7 +1,7 @@
 # CREATE_EVENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CREATE_EVENT}

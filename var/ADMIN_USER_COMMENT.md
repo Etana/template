@@ -1,7 +1,7 @@
 # ADMIN_USER_COMMENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ADMIN_USER_COMMENT}

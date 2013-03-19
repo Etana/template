@@ -1,7 +1,7 @@
 # switch_on_index.switch_delete_cookies
 
 
-Attribut de [`<!-- BEGIN switch_on_index -->...<!-- END switch_on_index -->`](switch_on_index.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_on_index -->...<!-- END switch_on_index -->`](switch_on_index.md#readme).
 
 ```html
 <!-- BEGIN switch_on_index -->
@@ -21,7 +21,7 @@ Attribut de [`<!-- BEGIN switch_on_index -->...<!-- END switch_on_index -->`](sw
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`67`](../tpl/src/punbb/index_box.tpl#L67), [`71`](../tpl/src/punbb/index_box.tpl#L71)
+* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`67`](../tpl/src/punbb/index_box.tpl#L67)[`<->`](../tpl/src/punbb/index_box.tpl#L67-L71)[`71`](../tpl/src/punbb/index_box.tpl#L71)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`101`](../tpl/src/subsilver/index_body.tpl#L101), [`103`](../tpl/src/subsilver/index_body.tpl#L103)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`101`](../tpl/src/subsilver/index_body.tpl#L101)[`<->`](../tpl/src/subsilver/index_body.tpl#L101-L103)[`103`](../tpl/src/subsilver/index_body.tpl#L103)

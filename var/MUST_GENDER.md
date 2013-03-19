@@ -1,7 +1,7 @@
 # MUST_GENDER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MUST_GENDER}

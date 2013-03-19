@@ -1,7 +1,7 @@
 # REPLY_PM_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {REPLY_PM_IMG}

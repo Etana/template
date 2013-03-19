@@ -1,7 +1,7 @@
 # S_FORUM_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_FORUM_SELECT}

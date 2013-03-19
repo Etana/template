@@ -1,7 +1,7 @@
 # S_WATCH_TOPIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_WATCH_TOPIC}

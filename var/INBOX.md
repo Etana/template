@@ -1,7 +1,7 @@
 # INBOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INBOX}

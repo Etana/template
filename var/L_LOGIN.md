@@ -1,7 +1,7 @@
 # L_LOGIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LOGIN}

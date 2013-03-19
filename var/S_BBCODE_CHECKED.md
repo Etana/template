@@ -1,7 +1,7 @@
 # S_BBCODE_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_BBCODE_CHECKED}

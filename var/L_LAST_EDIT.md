@@ -1,7 +1,7 @@
 # L_LAST_EDIT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LAST_EDIT}

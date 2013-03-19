@@ -1,7 +1,7 @@
 # simple_header
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN simple_header -->
@@ -14,4 +14,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`8`](../tpl/src/punbb/portal_body.tpl#L8), [`10`](../tpl/src/punbb/portal_body.tpl#L10), [`47`](../tpl/src/punbb/portal_body.tpl#L47), [`49`](../tpl/src/punbb/portal_body.tpl#L49)
+* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`8`](../tpl/src/punbb/portal_body.tpl#L8)[`<->`](../tpl/src/punbb/portal_body.tpl#L8-L10)[`10`](../tpl/src/punbb/portal_body.tpl#L10), [`47`](../tpl/src/punbb/portal_body.tpl#L47)[`<->`](../tpl/src/punbb/portal_body.tpl#L47-L49)[`49`](../tpl/src/punbb/portal_body.tpl#L49)

@@ -1,7 +1,7 @@
 # L_SEARCH_USER_POSTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SEARCH_USER_POSTS}

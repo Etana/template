@@ -1,7 +1,7 @@
 # L_MARK_TOPICS_READ
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MARK_TOPICS_READ}

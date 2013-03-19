@@ -1,7 +1,7 @@
 # L_REPORTS_MARKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_REPORTS_MARKED}

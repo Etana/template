@@ -1,7 +1,7 @@
 # AUTOLOGIN_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AUTOLOGIN_CHECKED}

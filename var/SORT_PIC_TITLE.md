@@ -1,7 +1,7 @@
 # SORT_PIC_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_PIC_TITLE}

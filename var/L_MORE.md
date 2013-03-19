@@ -1,7 +1,7 @@
 # L_MORE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MORE}

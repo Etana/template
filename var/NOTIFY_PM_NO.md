@@ -1,7 +1,7 @@
 # NOTIFY_PM_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NOTIFY_PM_NO}

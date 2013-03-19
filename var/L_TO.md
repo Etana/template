@@ -1,7 +1,7 @@
 # L_TO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TO}

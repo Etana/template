@@ -1,7 +1,7 @@
 # L_REMOVE_SELECTED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_REMOVE_SELECTED}

@@ -1,7 +1,7 @@
 # switch_privmsg.switch_privmsg_group
 
 
-Attribut de [`<!-- BEGIN switch_privmsg -->...<!-- END switch_privmsg -->`](switch_privmsg.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_privmsg -->...<!-- END switch_privmsg -->`](switch_privmsg.md#readme).
 
 ```html
 <!-- BEGIN switch_privmsg -->
@@ -21,9 +21,9 @@ Attribut de [`<!-- BEGIN switch_privmsg -->...<!-- END switch_privmsg -->`](swit
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`101`](../tpl/src/punbb/posting_body.tpl#L101), [`106`](../tpl/src/punbb/posting_body.tpl#L106)
-* __[`posting_body_wysiwyg`](../tpl/var/punbb/posting_body_wysiwyg.md#readme) :__ lignes [`257`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L257), [`262`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L262)
+* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`101`](../tpl/src/punbb/posting_body.tpl#L101)[`<->`](../tpl/src/punbb/posting_body.tpl#L101-L106)[`106`](../tpl/src/punbb/posting_body.tpl#L106)
+* __[`posting_body_wysiwyg`](../tpl/var/punbb/posting_body_wysiwyg.md#readme) :__ lignes [`257`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L257)[`<->`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L257-L262)[`262`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L262)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`118`](../tpl/src/subsilver/posting_body.tpl#L118), [`123`](../tpl/src/subsilver/posting_body.tpl#L123)
-* __[`posting_body_wysiwyg`](../tpl/var/subsilver/posting_body_wysiwyg.md#readme) :__ lignes [`291`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L291), [`296`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L296)
+* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`118`](../tpl/src/subsilver/posting_body.tpl#L118)[`<->`](../tpl/src/subsilver/posting_body.tpl#L118-L123)[`123`](../tpl/src/subsilver/posting_body.tpl#L123)
+* __[`posting_body_wysiwyg`](../tpl/var/subsilver/posting_body_wysiwyg.md#readme) :__ lignes [`291`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L291)[`<->`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L291-L296)[`296`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L296)

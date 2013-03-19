@@ -1,7 +1,7 @@
 # BUTTON_WYSI_STYLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BUTTON_WYSI_STYLE}

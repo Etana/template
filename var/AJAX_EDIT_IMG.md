@@ -1,7 +1,7 @@
 # AJAX_EDIT_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AJAX_EDIT_IMG}

@@ -1,7 +1,7 @@
 # STRONG_LEVEL_PWD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {STRONG_LEVEL_PWD}

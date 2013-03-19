@@ -1,7 +1,7 @@
 # SORT_ASC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_ASC}

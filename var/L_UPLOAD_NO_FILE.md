@@ -1,7 +1,7 @@
 # L_UPLOAD_NO_FILE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UPLOAD_NO_FILE}

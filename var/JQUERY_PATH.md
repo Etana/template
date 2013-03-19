@@ -1,7 +1,7 @@
 # JQUERY_PATH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JQUERY_PATH}

@@ -1,7 +1,7 @@
 # NB_PM_UNREAD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NB_PM_UNREAD}

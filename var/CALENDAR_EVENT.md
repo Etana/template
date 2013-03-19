@@ -1,7 +1,7 @@
 # CALENDAR_EVENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CALENDAR_EVENT}

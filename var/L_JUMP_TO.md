@@ -1,7 +1,7 @@
 # L_JUMP_TO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_JUMP_TO}

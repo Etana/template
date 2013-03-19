@@ -1,7 +1,7 @@
 # T_ACTIVE_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {T_ACTIVE_LINK}

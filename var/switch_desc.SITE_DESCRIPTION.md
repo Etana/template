@@ -1,7 +1,7 @@
 # switch_desc.SITE_DESCRIPTION
 
 
-Attribut de [`<!-- BEGIN switch_desc -->...<!-- END switch_desc -->`](switch_desc.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_desc -->...<!-- END switch_desc -->`](switch_desc.md#readme).
 
 ```html
 <!-- BEGIN switch_desc -->

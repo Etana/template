@@ -1,7 +1,7 @@
 # QUICK_REPLY_FORM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {QUICK_REPLY_FORM}

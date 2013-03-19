@@ -1,7 +1,7 @@
 # QUOTE_PM_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {QUOTE_PM_IMG}

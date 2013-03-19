@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled._event.switch_event_no._more_no
 
 
-Attribut de [`<!-- BEGIN switch_event_no -->...<!-- END switch_event_no -->`](_calendar_box._row._cell.switch_filled._event.switch_event_no.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_event_no -->...<!-- END switch_event_no -->`](_calendar_box._row._cell.switch_filled._event.switch_event_no.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->
@@ -26,4 +26,4 @@ Attribut de [`<!-- BEGIN switch_event_no -->...<!-- END switch_event_no -->`](_c
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`69`](../tpl/src/subsilver/calendar_box.tpl#L69), [`71`](../tpl/src/subsilver/calendar_box.tpl#L71)
+* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`69`](../tpl/src/subsilver/calendar_box.tpl#L69)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L69-L71)[`71`](../tpl/src/subsilver/calendar_box.tpl#L71)

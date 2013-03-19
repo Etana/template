@@ -1,7 +1,7 @@
 # L_NORMAL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NORMAL}

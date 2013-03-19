@@ -1,7 +1,7 @@
 # L_MODCP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MODCP}

@@ -1,7 +1,7 @@
 # ATTACHMENT_CLOSE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ATTACHMENT_CLOSE}

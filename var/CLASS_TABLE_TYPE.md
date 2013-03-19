@@ -1,7 +1,7 @@
 # CLASS_TABLE_TYPE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CLASS_TABLE_TYPE}

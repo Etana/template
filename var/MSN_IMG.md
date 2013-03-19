@@ -1,7 +1,7 @@
 # MSN_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MSN_IMG}

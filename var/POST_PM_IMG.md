@@ -1,7 +1,7 @@
 # POST_PM_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_PM_IMG}

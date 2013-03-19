@@ -1,7 +1,7 @@
 # ROLLDICE_CLOSE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ROLLDICE_CLOSE}

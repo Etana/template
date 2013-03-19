@@ -1,7 +1,7 @@
 # S_SMILIES_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_SMILIES_CHECKED}

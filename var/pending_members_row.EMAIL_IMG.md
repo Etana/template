@@ -1,7 +1,7 @@
 # pending_members_row.EMAIL_IMG
 
 
-Attribut de [`<!-- BEGIN pending_members_row -->...<!-- END pending_members_row -->`](pending_members_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN pending_members_row -->...<!-- END pending_members_row -->`](pending_members_row.md#readme).
 
 ```html
 <!-- BEGIN pending_members_row -->

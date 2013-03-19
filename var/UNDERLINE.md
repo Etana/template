@@ -1,7 +1,7 @@
 # UNDERLINE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {UNDERLINE}

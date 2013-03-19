@@ -1,7 +1,7 @@
 # CUT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CUT}

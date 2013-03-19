@@ -1,7 +1,7 @@
 # L_KEYWORDS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_KEYWORDS}

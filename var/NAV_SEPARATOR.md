@@ -1,7 +1,7 @@
 # NAV_SEPARATOR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NAV_SEPARATOR}

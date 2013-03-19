@@ -1,7 +1,7 @@
 # L_TIMEZONE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TIMEZONE}

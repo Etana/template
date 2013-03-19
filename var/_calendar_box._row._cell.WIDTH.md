@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.WIDTH
 
 
-Attribut de [`<!-- BEGIN _cell -->...<!-- END _cell -->`](_calendar_box._row._cell.md#readme).
+Attribut d'affichage de [`<!-- BEGIN _cell -->...<!-- END _cell -->`](_calendar_box._row._cell.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->

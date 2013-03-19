@@ -1,7 +1,7 @@
 # pics_nav.prev.U_PICS_ALT
 
 
-Attribut de [`<!-- BEGIN prev -->...<!-- END prev -->`](pics_nav.prev.md#readme).
+Attribut d'affichage de [`<!-- BEGIN prev -->...<!-- END prev -->`](pics_nav.prev.md#readme).
 
 ```html
 <!-- BEGIN pics_nav -->

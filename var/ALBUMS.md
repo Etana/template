@@ -1,7 +1,7 @@
 # ALBUMS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALBUMS}

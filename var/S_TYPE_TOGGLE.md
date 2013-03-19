@@ -1,7 +1,7 @@
 # S_TYPE_TOGGLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_TYPE_TOGGLE}

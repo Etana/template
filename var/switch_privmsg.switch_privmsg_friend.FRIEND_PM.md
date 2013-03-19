@@ -1,7 +1,7 @@
 # switch_privmsg.switch_privmsg_friend.FRIEND_PM
 
 
-Attribut de [`<!-- BEGIN switch_privmsg_friend -->...<!-- END switch_privmsg_friend -->`](switch_privmsg.switch_privmsg_friend.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_privmsg_friend -->...<!-- END switch_privmsg_friend -->`](switch_privmsg.switch_privmsg_friend.md#readme).
 
 ```html
 <!-- BEGIN switch_privmsg -->

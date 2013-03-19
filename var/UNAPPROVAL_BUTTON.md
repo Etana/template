@@ -1,7 +1,7 @@
 # UNAPPROVAL_BUTTON
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {UNAPPROVAL_BUTTON}

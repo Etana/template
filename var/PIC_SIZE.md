@@ -1,7 +1,7 @@
 # PIC_SIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_SIZE}

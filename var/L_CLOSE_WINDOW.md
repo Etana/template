@@ -1,7 +1,7 @@
 # L_CLOSE_WINDOW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CLOSE_WINDOW}

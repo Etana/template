@@ -1,7 +1,7 @@
 # L_ORDER_OR_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ORDER_OR_SELECT}

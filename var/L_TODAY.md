@@ -1,7 +1,7 @@
 # L_TODAY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TODAY}

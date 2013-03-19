@@ -1,7 +1,7 @@
 # catrow.catfoot
 
 
-Attribut de [`<!-- BEGIN catrow -->...<!-- END catrow -->`](catrow.md#readme).
+Attribut de bouclage de [`<!-- BEGIN catrow -->...<!-- END catrow -->`](catrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->
@@ -21,4 +21,4 @@ Attribut de [`<!-- BEGIN catrow -->...<!-- END catrow -->`](catrow.md#readme).
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`76`](../tpl/src/subsilver/index_box.tpl#L76), [`83`](../tpl/src/subsilver/index_box.tpl#L83)
+* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`76`](../tpl/src/subsilver/index_box.tpl#L76)[`<->`](../tpl/src/subsilver/index_box.tpl#L76-L83)[`83`](../tpl/src/subsilver/index_box.tpl#L83)

@@ -1,7 +1,7 @@
 # GROUP_LIST_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GROUP_LIST_SELECT}

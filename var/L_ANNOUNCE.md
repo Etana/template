@@ -1,7 +1,7 @@
 # L_ANNOUNCE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ANNOUNCE}

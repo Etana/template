@@ -1,7 +1,7 @@
 # PIC_COMMENTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_COMMENTS}

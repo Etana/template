@@ -1,7 +1,7 @@
 # U_CREATE_PERSONAL_GALLERY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_CREATE_PERSONAL_GALLERY}

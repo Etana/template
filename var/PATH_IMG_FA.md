@@ -1,7 +1,7 @@
 # PATH_IMG_FA
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PATH_IMG_FA}

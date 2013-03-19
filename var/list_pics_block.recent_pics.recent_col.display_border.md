@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.recent_col.display_border
 
 
-Attribut de [`<!-- BEGIN recent_col -->...<!-- END recent_col -->`](list_pics_block.recent_pics.recent_col.md#readme).
+Attribut de bouclage de [`<!-- BEGIN recent_col -->...<!-- END recent_col -->`](list_pics_block.recent_pics.recent_col.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->
@@ -20,4 +20,4 @@ Attribut de [`<!-- BEGIN recent_col -->...<!-- END recent_col -->`](list_pics_bl
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`128`](../tpl/src/subsilver/album_cat_body.tpl#L128), [`130`](../tpl/src/subsilver/album_cat_body.tpl#L130)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`128`](../tpl/src/subsilver/album_cat_body.tpl#L128)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L128-L130)[`130`](../tpl/src/subsilver/album_cat_body.tpl#L130)

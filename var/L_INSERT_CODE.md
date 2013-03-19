@@ -1,7 +1,7 @@
 # L_INSERT_CODE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_INSERT_CODE}

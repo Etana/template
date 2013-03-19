@@ -1,7 +1,7 @@
 # navlinks.pic_backup_link
 
 
-Attribut de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navlinks.md#readme).
+Attribut de bouclage de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navlinks.md#readme).
 
 ```html
 <!-- BEGIN navlinks -->
@@ -21,7 +21,7 @@ Attribut de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navlinks.md#read
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`171`](../tpl/src/punbb/album_cat_body.tpl#L171), [`173`](../tpl/src/punbb/album_cat_body.tpl#L173)
+* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`171`](../tpl/src/punbb/album_cat_body.tpl#L171)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L171-L173)[`173`](../tpl/src/punbb/album_cat_body.tpl#L173)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`319`](../tpl/src/subsilver/album_cat_body.tpl#L319), [`323`](../tpl/src/subsilver/album_cat_body.tpl#L323)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`319`](../tpl/src/subsilver/album_cat_body.tpl#L319)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L319-L323)[`323`](../tpl/src/subsilver/album_cat_body.tpl#L323)

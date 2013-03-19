@@ -1,7 +1,7 @@
 # birthday_list_box.row.L_NO_TOPICS
 
 
-Attribut de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_box.row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_box.row.md#readme).
 
 ```html
 <!-- BEGIN birthday_list_box -->

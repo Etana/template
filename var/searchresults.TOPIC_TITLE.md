@@ -1,7 +1,7 @@
 # searchresults.TOPIC_TITLE
 
 
-Attribut de [`<!-- BEGIN searchresults -->...<!-- END searchresults -->`](searchresults.md#readme).
+Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults -->`](searchresults.md#readme).
 
 ```html
 <!-- BEGIN searchresults -->

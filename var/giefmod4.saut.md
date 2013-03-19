@@ -1,7 +1,7 @@
 # giefmod4.saut
 
 
-Attribut de [`<!-- BEGIN giefmod4 -->...<!-- END giefmod4 -->`](giefmod4.md#readme).
+Attribut de bouclage de [`<!-- BEGIN giefmod4 -->...<!-- END giefmod4 -->`](giefmod4.md#readme).
 
 ```html
 <!-- BEGIN giefmod4 -->
@@ -16,7 +16,7 @@ Attribut de [`<!-- BEGIN giefmod4 -->...<!-- END giefmod4 -->`](giefmod4.md#read
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`41`](../tpl/src/punbb/portal_body.tpl#L41), [`43`](../tpl/src/punbb/portal_body.tpl#L43)
+* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`41`](../tpl/src/punbb/portal_body.tpl#L41)[`<->`](../tpl/src/punbb/portal_body.tpl#L41-L43)[`43`](../tpl/src/punbb/portal_body.tpl#L43)
 
 ### Version phpBB2
-* __[`portal_body`](../tpl/var/subsilver/portal_body.md#readme) :__ lignes [`39`](../tpl/src/subsilver/portal_body.tpl#L39), [`45`](../tpl/src/subsilver/portal_body.tpl#L45)
+* __[`portal_body`](../tpl/var/subsilver/portal_body.md#readme) :__ lignes [`39`](../tpl/src/subsilver/portal_body.tpl#L39)[`<->`](../tpl/src/subsilver/portal_body.tpl#L39-L45)[`45`](../tpl/src/subsilver/portal_body.tpl#L45)

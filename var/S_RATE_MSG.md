@@ -1,7 +1,7 @@
 # S_RATE_MSG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_RATE_MSG}

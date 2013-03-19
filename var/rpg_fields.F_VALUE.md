@@ -1,7 +1,7 @@
 # rpg_fields.F_VALUE
 
 
-Attribut de [`<!-- BEGIN rpg_fields -->...<!-- END rpg_fields -->`](rpg_fields.md#readme).
+Attribut d'affichage de [`<!-- BEGIN rpg_fields -->...<!-- END rpg_fields -->`](rpg_fields.md#readme).
 
 ```html
 <!-- BEGIN rpg_fields -->

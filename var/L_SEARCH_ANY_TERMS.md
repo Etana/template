@@ -1,7 +1,7 @@
 # L_SEARCH_ANY_TERMS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SEARCH_ANY_TERMS}

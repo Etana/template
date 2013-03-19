@@ -1,7 +1,7 @@
 # switch_menu
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_menu -->
@@ -14,5 +14,5 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes [`1`](../tpl/src/subsilver/search_results_topics.tpl#L1), [`3`](../tpl/src/subsilver/search_results_topics.tpl#L3)
-* __[`rpg_sheet_edit`](../tpl/var/subsilver/rpg_sheet_edit.md#readme) :__ lignes [`1`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L1), [`3`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L3)
+* __[`search_results_topics`](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes [`1`](../tpl/src/subsilver/search_results_topics.tpl#L1)[`<->`](../tpl/src/subsilver/search_results_topics.tpl#L1-L3)[`3`](../tpl/src/subsilver/search_results_topics.tpl#L3)
+* __[`rpg_sheet_edit`](../tpl/var/subsilver/rpg_sheet_edit.md#readme) :__ lignes [`1`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L1)[`<->`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L1-L3)[`3`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L3)

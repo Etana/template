@@ -1,7 +1,7 @@
 # JS_MENU
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JS_MENU}

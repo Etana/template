@@ -1,7 +1,7 @@
 # THUMB_SIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {THUMB_SIZE}

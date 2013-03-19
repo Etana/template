@@ -1,7 +1,7 @@
 # L_MOVE_TO_FORUM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MOVE_TO_FORUM}

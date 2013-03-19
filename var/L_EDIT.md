@@ -1,7 +1,7 @@
 # L_EDIT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_EDIT}

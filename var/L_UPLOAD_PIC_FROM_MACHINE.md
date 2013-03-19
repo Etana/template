@@ -1,7 +1,7 @@
 # L_UPLOAD_PIC_FROM_MACHINE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UPLOAD_PIC_FROM_MACHINE}

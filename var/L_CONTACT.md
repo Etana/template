@@ -1,7 +1,7 @@
 # L_CONTACT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CONTACT}

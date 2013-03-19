@@ -1,7 +1,7 @@
 # U_PROFILE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_PROFILE}

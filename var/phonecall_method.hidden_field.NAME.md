@@ -1,7 +1,7 @@
 # phonecall_method.hidden_field.NAME
 
 
-Attribut de [`<!-- BEGIN hidden_field -->...<!-- END hidden_field -->`](phonecall_method.hidden_field.md#readme).
+Attribut d'affichage de [`<!-- BEGIN hidden_field -->...<!-- END hidden_field -->`](phonecall_method.hidden_field.md#readme).
 
 ```html
 <!-- BEGIN phonecall_method -->

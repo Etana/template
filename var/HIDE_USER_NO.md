@@ -1,7 +1,7 @@
 # HIDE_USER_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {HIDE_USER_NO}

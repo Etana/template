@@ -1,7 +1,7 @@
 # CURRENT_TIME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CURRENT_TIME}

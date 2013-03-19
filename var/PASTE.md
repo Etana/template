@@ -1,7 +1,7 @@
 # PASTE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PASTE}

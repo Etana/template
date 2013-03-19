@@ -1,7 +1,7 @@
 # U_FAQ
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_FAQ}

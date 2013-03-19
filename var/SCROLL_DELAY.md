@@ -1,7 +1,7 @@
 # SCROLL_DELAY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SCROLL_DELAY}

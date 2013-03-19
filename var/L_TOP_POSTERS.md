@@ -1,7 +1,7 @@
 # L_TOP_POSTERS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TOP_POSTERS}

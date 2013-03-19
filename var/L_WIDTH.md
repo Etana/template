@@ -1,7 +1,7 @@
 # L_WIDTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_WIDTH}

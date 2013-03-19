@@ -1,7 +1,7 @@
 # pic_backup_link
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN pic_backup_link -->
@@ -19,7 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`76`](../tpl/src/punbb/album_index_body.tpl#L76), [`78`](../tpl/src/punbb/album_index_body.tpl#L78)
+* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`76`](../tpl/src/punbb/album_index_body.tpl#L76)[`<->`](../tpl/src/punbb/album_index_body.tpl#L76-L78)[`78`](../tpl/src/punbb/album_index_body.tpl#L78)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/album_index_body.tpl#L121), [`125`](../tpl/src/subsilver/album_index_body.tpl#L125)
+* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/album_index_body.tpl#L121)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L121-L125)[`125`](../tpl/src/subsilver/album_index_body.tpl#L125)

@@ -1,7 +1,7 @@
 # L_EMAIL_ADDRESS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_EMAIL_ADDRESS}

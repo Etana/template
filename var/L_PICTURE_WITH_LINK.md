@@ -1,7 +1,7 @@
 # L_PICTURE_WITH_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PICTURE_WITH_LINK}

@@ -1,7 +1,7 @@
 # SORT_ALBUM_LAST_MODIFIED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_ALBUM_LAST_MODIFIED}

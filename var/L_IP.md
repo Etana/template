@@ -1,7 +1,7 @@
 # L_IP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_IP}

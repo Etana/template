@@ -1,7 +1,7 @@
 # SLIDESHOW_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SLIDESHOW_SELECT}

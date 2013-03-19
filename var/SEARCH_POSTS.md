@@ -1,7 +1,7 @@
 # SEARCH_POSTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SEARCH_POSTS}

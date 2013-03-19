@@ -1,7 +1,7 @@
 # UP_ARROW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {UP_ARROW}

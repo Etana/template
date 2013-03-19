@@ -1,7 +1,7 @@
 # SMILEY_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SMILEY_SELECT}

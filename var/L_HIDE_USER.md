@@ -1,7 +1,7 @@
 # L_HIDE_USER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_HIDE_USER}

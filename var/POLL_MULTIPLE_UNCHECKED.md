@@ -1,7 +1,7 @@
 # POLL_MULTIPLE_UNCHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POLL_MULTIPLE_UNCHECKED}

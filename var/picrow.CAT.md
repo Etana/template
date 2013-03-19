@@ -1,7 +1,7 @@
 # picrow.CAT
 
 
-Attribut de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](picrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](picrow.md#readme).
 
 ```html
 <!-- BEGIN picrow -->

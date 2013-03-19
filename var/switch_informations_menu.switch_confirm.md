@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_confirm
 
 
-Attribut de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](switch_informations_menu.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](switch_informations_menu.md#readme).
 
 ```html
 <!-- BEGIN switch_informations_menu -->
@@ -16,4 +16,4 @@ Attribut de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informat
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`65`](../tpl/src/subsilver/profile_add_body.tpl#L65), [`77`](../tpl/src/subsilver/profile_add_body.tpl#L77)
+* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`65`](../tpl/src/subsilver/profile_add_body.tpl#L65)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L65-L77)[`77`](../tpl/src/subsilver/profile_add_body.tpl#L77)

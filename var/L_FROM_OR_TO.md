@@ -1,7 +1,7 @@
 # L_FROM_OR_TO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FROM_OR_TO}

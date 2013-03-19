@@ -1,7 +1,7 @@
 # META
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {META}

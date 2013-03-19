@@ -1,7 +1,7 @@
 # TOTAL_TOPICS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOTAL_TOPICS}

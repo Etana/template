@@ -1,7 +1,7 @@
 # ON
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ON}

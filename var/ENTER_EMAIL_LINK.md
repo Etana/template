@@ -1,7 +1,7 @@
 # ENTER_EMAIL_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ENTER_EMAIL_LINK}

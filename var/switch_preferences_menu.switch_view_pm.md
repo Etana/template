@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_view_pm
 
 
-Attribut de [`<!-- BEGIN switch_preferences_menu -->...<!-- END switch_preferences_menu -->`](switch_preferences_menu.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_preferences_menu -->...<!-- END switch_preferences_menu -->`](switch_preferences_menu.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->
@@ -16,7 +16,7 @@ Attribut de [`<!-- BEGIN switch_preferences_menu -->...<!-- END switch_preferenc
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`185`](../tpl/src/punbb/profile_add_body.tpl#L185), [`193`](../tpl/src/punbb/profile_add_body.tpl#L193)
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`185`](../tpl/src/punbb/profile_add_body.tpl#L185)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L185-L193)[`193`](../tpl/src/punbb/profile_add_body.tpl#L193)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`133`](../tpl/src/subsilver/profile_add_body.tpl#L133), [`141`](../tpl/src/subsilver/profile_add_body.tpl#L141)
+* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`133`](../tpl/src/subsilver/profile_add_body.tpl#L133)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L133-L141)[`141`](../tpl/src/subsilver/profile_add_body.tpl#L141)

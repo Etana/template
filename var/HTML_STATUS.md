@@ -1,7 +1,7 @@
 # HTML_STATUS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {HTML_STATUS}

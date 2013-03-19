@@ -1,7 +1,7 @@
 # VIEW_EMAIL_FORM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {VIEW_EMAIL_FORM}

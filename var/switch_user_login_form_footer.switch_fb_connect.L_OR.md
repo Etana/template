@@ -1,7 +1,7 @@
 # switch_user_login_form_footer.switch_fb_connect.L_OR
 
 
-Attribut de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_user_login_form_footer.switch_fb_connect.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_user_login_form_footer.switch_fb_connect.md#readme).
 
 ```html
 <!-- BEGIN switch_user_login_form_footer -->

@@ -1,7 +1,7 @@
 # L_GENDER_MALE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_GENDER_MALE}

@@ -1,7 +1,7 @@
 # L_PASSWORD_CONFIRM_IF_CHANGED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PASSWORD_CONFIRM_IF_CHANGED}

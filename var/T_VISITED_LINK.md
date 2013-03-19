@@ -1,7 +1,7 @@
 # T_VISITED_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {T_VISITED_LINK}

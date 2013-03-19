@@ -1,7 +1,7 @@
 # L_ONLINE_USERS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ONLINE_USERS}

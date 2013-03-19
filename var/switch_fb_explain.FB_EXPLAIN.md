@@ -1,7 +1,7 @@
 # switch_fb_explain.FB_EXPLAIN
 
 
-Attribut de [`<!-- BEGIN switch_fb_explain -->...<!-- END switch_fb_explain -->`](switch_fb_explain.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_fb_explain -->...<!-- END switch_fb_explain -->`](switch_fb_explain.md#readme).
 
 ```html
 <!-- BEGIN switch_fb_explain -->

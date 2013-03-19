@@ -1,7 +1,7 @@
 # S_POLL_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_POLL_ACTION}

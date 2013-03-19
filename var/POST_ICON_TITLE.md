@@ -1,7 +1,7 @@
 # POST_ICON_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_ICON_TITLE}

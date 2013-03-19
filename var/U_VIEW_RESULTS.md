@@ -1,7 +1,7 @@
 # U_VIEW_RESULTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_VIEW_RESULTS}

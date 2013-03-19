@@ -1,7 +1,7 @@
 # RULE_MSG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {RULE_MSG}

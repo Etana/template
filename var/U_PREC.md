@@ -1,7 +1,7 @@
 # U_PREC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_PREC}

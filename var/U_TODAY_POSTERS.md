@@ -1,7 +1,7 @@
 # U_TODAY_POSTERS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_TODAY_POSTERS}

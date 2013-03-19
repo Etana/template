@@ -1,7 +1,7 @@
 # ALWAYS_ALLOW_SMILIES_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALWAYS_ALLOW_SMILIES_NO}

@@ -1,7 +1,7 @@
 # index_pics_block.picrow.nopiccol
 
 
-Attribut de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](index_pics_block.picrow.md#readme).
+Attribut de bouclage de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](index_pics_block.picrow.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->
@@ -22,4 +22,4 @@ Attribut de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](index_pics_block.pic
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`75`](../tpl/src/subsilver/album_cat_body.tpl#L75), [`77`](../tpl/src/subsilver/album_cat_body.tpl#L77)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`75`](../tpl/src/subsilver/album_cat_body.tpl#L75)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L75-L77)[`77`](../tpl/src/subsilver/album_cat_body.tpl#L77)

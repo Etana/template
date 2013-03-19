@@ -1,7 +1,7 @@
 # SEARCH_INSIDE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SEARCH_INSIDE}

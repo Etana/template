@@ -1,7 +1,7 @@
 # L_SHARE_CAPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SHARE_CAPTION}

@@ -1,7 +1,7 @@
 # LINK_FOR_PASSWD_CHANGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LINK_FOR_PASSWD_CHANGE}

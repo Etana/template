@@ -1,7 +1,7 @@
 # POLLBOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POLLBOX}

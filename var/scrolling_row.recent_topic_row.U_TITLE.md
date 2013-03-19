@@ -1,7 +1,7 @@
 # scrolling_row.recent_topic_row.U_TITLE
 
 
-Attribut de [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](scrolling_row.recent_topic_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](scrolling_row.recent_topic_row.md#readme).
 
 ```html
 <!-- BEGIN scrolling_row -->

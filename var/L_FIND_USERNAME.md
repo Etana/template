@@ -1,7 +1,7 @@
 # L_FIND_USERNAME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FIND_USERNAME}

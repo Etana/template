@@ -1,7 +1,7 @@
 # bot_user_row.ROW_CLASS
 
 
-Attribut de [`<!-- BEGIN bot_user_row -->...<!-- END bot_user_row -->`](bot_user_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN bot_user_row -->...<!-- END bot_user_row -->`](bot_user_row.md#readme).
 
 ```html
 <!-- BEGIN bot_user_row -->

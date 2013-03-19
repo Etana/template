@@ -1,7 +1,7 @@
 # promot_trafic
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN promot_trafic -->
@@ -18,7 +18,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`297`](../tpl/src/punbb/viewtopic_body.tpl#L297), [`315`](../tpl/src/punbb/viewtopic_body.tpl#L315)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`297`](../tpl/src/punbb/viewtopic_body.tpl#L297)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L297-L315)[`315`](../tpl/src/punbb/viewtopic_body.tpl#L315)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`293`](../tpl/src/subsilver/viewtopic_body.tpl#L293), [`326`](../tpl/src/subsilver/viewtopic_body.tpl#L326)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`293`](../tpl/src/subsilver/viewtopic_body.tpl#L293)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L293-L326)[`326`](../tpl/src/subsilver/viewtopic_body.tpl#L326)

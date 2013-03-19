@@ -1,7 +1,7 @@
 # L_ALL_USERS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ALL_USERS}

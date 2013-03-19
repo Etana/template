@@ -1,7 +1,7 @@
 # L_COLOR_CYAN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_COLOR_CYAN}

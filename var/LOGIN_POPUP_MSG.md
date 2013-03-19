@@ -1,7 +1,7 @@
 # LOGIN_POPUP_MSG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LOGIN_POPUP_MSG}

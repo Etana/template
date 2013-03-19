@@ -1,7 +1,7 @@
 # L_LOGIN_REGISTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LOGIN_REGISTER}

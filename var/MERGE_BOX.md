@@ -1,7 +1,7 @@
 # MERGE_BOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MERGE_BOX}

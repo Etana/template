@@ -1,7 +1,7 @@
 # _calendar_box._cell
 
 
-Attribut de [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](_calendar_box.md#readme).
+Attribut de bouclage de [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](_calendar_box.md#readme).
 
 ```html
 <!-- BEGIN _calendar_box -->
@@ -21,7 +21,7 @@ Attribut de [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](_calen
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_box`](../tpl/var/punbb/calendar_box.md#readme) :__ lignes [`17`](../tpl/src/punbb/calendar_box.tpl#L17), [`19`](../tpl/src/punbb/calendar_box.tpl#L19)
+* __[`calendar_box`](../tpl/var/punbb/calendar_box.md#readme) :__ lignes [`17`](../tpl/src/punbb/calendar_box.tpl#L17)[`<->`](../tpl/src/punbb/calendar_box.tpl#L17-L19)[`19`](../tpl/src/punbb/calendar_box.tpl#L19)
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`27`](../tpl/src/subsilver/calendar_box.tpl#L27), [`29`](../tpl/src/subsilver/calendar_box.tpl#L29)
+* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`27`](../tpl/src/subsilver/calendar_box.tpl#L27)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L27-L29)[`29`](../tpl/src/subsilver/calendar_box.tpl#L29)

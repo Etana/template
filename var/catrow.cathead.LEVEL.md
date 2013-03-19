@@ -1,7 +1,7 @@
 # catrow.cathead.LEVEL
 
 
-Attribut de [`<!-- BEGIN cathead -->...<!-- END cathead -->`](catrow.cathead.md#readme).
+Attribut d'affichage de [`<!-- BEGIN cathead -->...<!-- END cathead -->`](catrow.cathead.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

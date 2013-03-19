@@ -1,7 +1,7 @@
 # SENTBOX_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SENTBOX_LINK}

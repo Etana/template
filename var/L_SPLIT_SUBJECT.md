@@ -1,7 +1,7 @@
 # L_SPLIT_SUBJECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SPLIT_SUBJECT}

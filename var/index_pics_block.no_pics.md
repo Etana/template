@@ -1,7 +1,7 @@
 # index_pics_block.no_pics
 
 
-Attribut de [`<!-- BEGIN index_pics_block -->...<!-- END index_pics_block -->`](index_pics_block.md#readme).
+Attribut de bouclage de [`<!-- BEGIN index_pics_block -->...<!-- END index_pics_block -->`](index_pics_block.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->
@@ -21,4 +21,4 @@ Attribut de [`<!-- BEGIN index_pics_block -->...<!-- END index_pics_block -->`](
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`37`](../tpl/src/subsilver/album_cat_body.tpl#L37), [`51`](../tpl/src/subsilver/album_cat_body.tpl#L51)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`37`](../tpl/src/subsilver/album_cat_body.tpl#L37)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L37-L51)[`51`](../tpl/src/subsilver/album_cat_body.tpl#L51)

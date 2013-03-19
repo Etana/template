@@ -1,7 +1,7 @@
 # POST_PERCENT_STATS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_PERCENT_STATS}

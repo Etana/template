@@ -1,7 +1,7 @@
 # ALWAYS_ALLOW_BBCODE_YES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALWAYS_ALLOW_BBCODE_YES}

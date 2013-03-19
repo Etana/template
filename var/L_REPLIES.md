@@ -1,7 +1,7 @@
 # L_REPLIES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_REPLIES}

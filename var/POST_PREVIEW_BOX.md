@@ -1,7 +1,7 @@
 # POST_PREVIEW_BOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_PREVIEW_BOX}

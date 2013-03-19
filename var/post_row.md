@@ -1,7 +1,7 @@
 # post_row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN post_row -->
@@ -30,7 +30,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`1`](../tpl/src/punbb/mod_news.tpl#L1), [`58`](../tpl/src/punbb/mod_news.tpl#L58)
+* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`1`](../tpl/src/punbb/mod_news.tpl#L1)[`<->`](../tpl/src/punbb/mod_news.tpl#L1-L58)[`58`](../tpl/src/punbb/mod_news.tpl#L58)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1), [`67`](../tpl/src/subsilver/mod_news.tpl#L67)
+* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1)[`<->`](../tpl/src/subsilver/mod_news.tpl#L1-L67)[`67`](../tpl/src/subsilver/mod_news.tpl#L67)

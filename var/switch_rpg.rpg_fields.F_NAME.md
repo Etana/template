@@ -1,7 +1,7 @@
 # switch_rpg.rpg_fields.F_NAME
 
 
-Attribut de [`<!-- BEGIN rpg_fields -->...<!-- END rpg_fields -->`](switch_rpg.rpg_fields.md#readme).
+Attribut d'affichage de [`<!-- BEGIN rpg_fields -->...<!-- END rpg_fields -->`](switch_rpg.rpg_fields.md#readme).
 
 ```html
 <!-- BEGIN switch_rpg -->

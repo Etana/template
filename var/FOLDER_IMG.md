@@ -1,7 +1,7 @@
 # FOLDER_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {FOLDER_IMG}

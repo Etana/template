@@ -1,7 +1,7 @@
 # REMOVE_TEXT_FORMATTING
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {REMOVE_TEXT_FORMATTING}

@@ -1,7 +1,7 @@
 # ROLL_DICE_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ROLL_DICE_TITLE}

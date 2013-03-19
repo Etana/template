@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed
 
 
-Attribut de [`<!-- BEGIN switch_register_not_display -->...<!-- END switch_register_not_display -->`](switch_informations_menu.switch_register_not_display.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_register_not_display -->...<!-- END switch_register_not_display -->`](switch_informations_menu.switch_register_not_display.md#readme).
 
 ```html
 <!-- BEGIN switch_informations_menu -->
@@ -18,4 +18,4 @@ Attribut de [`<!-- BEGIN switch_register_not_display -->...<!-- END switch_regis
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`399`](../tpl/src/punbb/profile_add_body.tpl#L399), [`405`](../tpl/src/punbb/profile_add_body.tpl#L405)
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`399`](../tpl/src/punbb/profile_add_body.tpl#L399)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L399-L405)[`405`](../tpl/src/punbb/profile_add_body.tpl#L405)

@@ -1,7 +1,7 @@
 # NAMESPACE_BBCODE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NAMESPACE_BBCODE}

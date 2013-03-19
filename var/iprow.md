@@ -1,7 +1,7 @@
 # iprow
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN iprow -->
@@ -21,7 +21,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`modcp_viewip`](../tpl/var/punbb/modcp_viewip.md#readme) :__ lignes [`97`](../tpl/src/punbb/modcp_viewip.tpl#L97), [`102`](../tpl/src/punbb/modcp_viewip.tpl#L102)
+* __[`modcp_viewip`](../tpl/var/punbb/modcp_viewip.md#readme) :__ lignes [`97`](../tpl/src/punbb/modcp_viewip.tpl#L97)[`<->`](../tpl/src/punbb/modcp_viewip.tpl#L97-L102)[`102`](../tpl/src/punbb/modcp_viewip.tpl#L102)
 
 ### Version phpBB2
-* __[`modcp_viewip`](../tpl/var/subsilver/modcp_viewip.md#readme) :__ lignes [`63`](../tpl/src/subsilver/modcp_viewip.tpl#L63), [`74`](../tpl/src/subsilver/modcp_viewip.tpl#L74)
+* __[`modcp_viewip`](../tpl/var/subsilver/modcp_viewip.md#readme) :__ lignes [`63`](../tpl/src/subsilver/modcp_viewip.tpl#L63)[`<->`](../tpl/src/subsilver/modcp_viewip.tpl#L63-L74)[`74`](../tpl/src/subsilver/modcp_viewip.tpl#L74)

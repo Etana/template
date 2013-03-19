@@ -1,7 +1,7 @@
 # catrow.forumrow.FORUM_FOLDER_IMG
 
 
-Attribut de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](catrow.forumrow.md#readme).
 
 ```html
 <!-- BEGIN catrow -->

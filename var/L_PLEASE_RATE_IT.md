@@ -1,7 +1,7 @@
 # L_PLEASE_RATE_IT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PLEASE_RATE_IT}

@@ -1,7 +1,7 @@
 # L_DRAFT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DRAFT}

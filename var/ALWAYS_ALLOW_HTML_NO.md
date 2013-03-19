@@ -1,7 +1,7 @@
 # ALWAYS_ALLOW_HTML_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALWAYS_ALLOW_HTML_NO}

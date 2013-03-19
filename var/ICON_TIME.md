@@ -1,7 +1,7 @@
 # ICON_TIME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ICON_TIME}

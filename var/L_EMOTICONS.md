@@ -1,7 +1,7 @@
 # L_EMOTICONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_EMOTICONS}

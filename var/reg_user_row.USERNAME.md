@@ -1,7 +1,7 @@
 # reg_user_row.USERNAME
 
 
-Attribut de [`<!-- BEGIN reg_user_row -->...<!-- END reg_user_row -->`](reg_user_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN reg_user_row -->...<!-- END reg_user_row -->`](reg_user_row.md#readme).
 
 ```html
 <!-- BEGIN reg_user_row -->

@@ -1,7 +1,7 @@
 # L_CFAQ_NOSCRIPT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CFAQ_NOSCRIPT}

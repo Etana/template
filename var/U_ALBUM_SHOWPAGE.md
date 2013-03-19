@@ -1,7 +1,7 @@
 # U_ALBUM_SHOWPAGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_ALBUM_SHOWPAGE}

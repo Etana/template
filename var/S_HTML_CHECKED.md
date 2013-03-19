@@ -1,7 +1,7 @@
 # S_HTML_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_HTML_CHECKED}

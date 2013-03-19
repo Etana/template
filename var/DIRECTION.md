@@ -1,7 +1,7 @@
 # DIRECTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DIRECTION}

@@ -1,7 +1,7 @@
 # member_row.PM_IMG
 
 
-Attribut de [`<!-- BEGIN member_row -->...<!-- END member_row -->`](member_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN member_row -->...<!-- END member_row -->`](member_row.md#readme).
 
 ```html
 <!-- BEGIN member_row -->

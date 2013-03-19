@@ -1,7 +1,7 @@
 # postrow.U_POST_ID
 
 
-Attribut de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN postrow -->...<!-- END postrow -->`](postrow.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

@@ -1,7 +1,7 @@
 # RECORD_USERS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {RECORD_USERS}

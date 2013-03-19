@@ -1,7 +1,7 @@
 # album_pagination.ALBUM_PAGINATION
 
 
-Attribut de [`<!-- BEGIN album_pagination -->...<!-- END album_pagination -->`](album_pagination.md#readme).
+Attribut d'affichage de [`<!-- BEGIN album_pagination -->...<!-- END album_pagination -->`](album_pagination.md#readme).
 
 ```html
 <!-- BEGIN album_pagination -->

@@ -1,7 +1,7 @@
 # L_FIELD_EDIT_VALUE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FIELD_EDIT_VALUE}

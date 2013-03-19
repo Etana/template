@@ -1,7 +1,7 @@
 # COPY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {COPY}

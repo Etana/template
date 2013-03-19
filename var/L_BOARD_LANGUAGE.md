@@ -1,7 +1,7 @@
 # L_BOARD_LANGUAGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_BOARD_LANGUAGE}

@@ -1,7 +1,7 @@
 # DO_NOT_AGREE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DO_NOT_AGREE}

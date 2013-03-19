@@ -1,7 +1,7 @@
 # CUR_PASSWORD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CUR_PASSWORD}

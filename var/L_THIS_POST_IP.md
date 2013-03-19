@@ -1,7 +1,7 @@
 # L_THIS_POST_IP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_THIS_POST_IP}

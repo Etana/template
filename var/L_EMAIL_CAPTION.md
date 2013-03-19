@@ -1,7 +1,7 @@
 # L_EMAIL_CAPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_EMAIL_CAPTION}

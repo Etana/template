@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_linked
 
 
-Attribut de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_preferences_menu.switch_fb_connect.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_preferences_menu.switch_fb_connect.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->
@@ -23,7 +23,7 @@ Attribut de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`209`](../tpl/src/punbb/profile_add_body.tpl#L209), [`211`](../tpl/src/punbb/profile_add_body.tpl#L211), [`218`](../tpl/src/punbb/profile_add_body.tpl#L218), [`226`](../tpl/src/punbb/profile_add_body.tpl#L226)
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`209`](../tpl/src/punbb/profile_add_body.tpl#L209)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L209-L211)[`211`](../tpl/src/punbb/profile_add_body.tpl#L211), [`218`](../tpl/src/punbb/profile_add_body.tpl#L218)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L218-L226)[`226`](../tpl/src/punbb/profile_add_body.tpl#L226)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`157`](../tpl/src/subsilver/profile_add_body.tpl#L157), [`159`](../tpl/src/subsilver/profile_add_body.tpl#L159), [`168`](../tpl/src/subsilver/profile_add_body.tpl#L168), [`176`](../tpl/src/subsilver/profile_add_body.tpl#L176)
+* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`157`](../tpl/src/subsilver/profile_add_body.tpl#L157)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L157-L159)[`159`](../tpl/src/subsilver/profile_add_body.tpl#L159), [`168`](../tpl/src/subsilver/profile_add_body.tpl#L168)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L168-L176)[`176`](../tpl/src/subsilver/profile_add_body.tpl#L176)

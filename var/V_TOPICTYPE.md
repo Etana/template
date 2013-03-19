@@ -1,7 +1,7 @@
 # V_TOPICTYPE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_TOPICTYPE}

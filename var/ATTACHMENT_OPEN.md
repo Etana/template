@@ -1,7 +1,7 @@
 # ATTACHMENT_OPEN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ATTACHMENT_OPEN}

@@ -1,7 +1,7 @@
 # L_OK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_OK}

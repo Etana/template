@@ -1,7 +1,7 @@
 # POST_IMG_CLASS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_IMG_CLASS}

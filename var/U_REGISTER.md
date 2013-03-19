@@ -1,7 +1,7 @@
 # U_REGISTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_REGISTER}

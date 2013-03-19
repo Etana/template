@@ -1,7 +1,7 @@
 # T_BODY_TEXT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {T_BODY_TEXT}

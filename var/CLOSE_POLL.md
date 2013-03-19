@@ -1,7 +1,7 @@
 # CLOSE_POLL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CLOSE_POLL}

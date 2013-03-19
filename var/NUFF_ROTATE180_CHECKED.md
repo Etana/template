@@ -1,7 +1,7 @@
 # NUFF_ROTATE180_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_ROTATE180_CHECKED}

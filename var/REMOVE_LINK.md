@@ -1,7 +1,7 @@
 # REMOVE_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {REMOVE_LINK}

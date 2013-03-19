@@ -1,7 +1,7 @@
 # ID_CONTENT_CONTAINER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ID_CONTENT_CONTAINER}

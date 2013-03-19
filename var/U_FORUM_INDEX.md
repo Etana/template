@@ -1,7 +1,7 @@
 # U_FORUM_INDEX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_FORUM_INDEX}

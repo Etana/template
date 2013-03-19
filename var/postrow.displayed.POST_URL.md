@@ -1,7 +1,7 @@
 # postrow.displayed.POST_URL
 
 
-Attribut de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
+Attribut d'affichage de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

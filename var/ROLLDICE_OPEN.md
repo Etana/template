@@ -1,7 +1,7 @@
 # ROLLDICE_OPEN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ROLLDICE_OPEN}

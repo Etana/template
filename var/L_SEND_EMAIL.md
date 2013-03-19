@@ -1,7 +1,7 @@
 # L_SEND_EMAIL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SEND_EMAIL}

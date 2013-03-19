@@ -1,7 +1,7 @@
 # HIDE_USER_YES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {HIDE_USER_YES}

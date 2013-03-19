@@ -1,7 +1,7 @@
 # OPTIONAL_BAN_NEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {OPTIONAL_BAN_NEW}

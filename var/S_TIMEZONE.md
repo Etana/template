@@ -1,7 +1,7 @@
 # S_TIMEZONE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_TIMEZONE}

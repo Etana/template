@@ -1,7 +1,7 @@
 # POST_DATE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_DATE}

@@ -1,7 +1,7 @@
 # DES_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DES_LIST}

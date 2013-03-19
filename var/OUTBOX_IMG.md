@@ -1,7 +1,7 @@
 # OUTBOX_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {OUTBOX_IMG}

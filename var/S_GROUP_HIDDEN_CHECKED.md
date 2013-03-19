@@ -1,7 +1,7 @@
 # S_GROUP_HIDDEN_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_GROUP_HIDDEN_CHECKED}

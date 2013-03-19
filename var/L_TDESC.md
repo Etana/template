@@ -1,7 +1,7 @@
 # L_TDESC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TDESC}

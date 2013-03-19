@@ -1,7 +1,7 @@
 # L_SORT_DESCENDING
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SORT_DESCENDING}

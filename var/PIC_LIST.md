@@ -1,7 +1,7 @@
 # PIC_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_LIST}

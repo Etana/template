@@ -1,7 +1,7 @@
 # U_NUFFIMAGE_ACTION_SAVE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_NUFFIMAGE_ACTION_SAVE}

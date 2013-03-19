@@ -1,7 +1,7 @@
 # U_SEARCH_USER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_SEARCH_USER}

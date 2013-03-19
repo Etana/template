@@ -1,7 +1,7 @@
 # L_POSTED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_POSTED}

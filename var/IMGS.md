@@ -1,7 +1,7 @@
 # IMGS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {IMGS}

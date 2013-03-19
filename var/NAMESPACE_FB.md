@@ -1,7 +1,7 @@
 # NAMESPACE_FB
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NAMESPACE_FB}

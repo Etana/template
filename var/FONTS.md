@@ -1,7 +1,7 @@
 # FONTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {FONTS}

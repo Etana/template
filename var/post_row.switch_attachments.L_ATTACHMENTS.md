@@ -1,7 +1,7 @@
 # post_row.switch_attachments.L_ATTACHMENTS
 
 
-Attribut de [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](post_row.switch_attachments.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](post_row.switch_attachments.md#readme).
 
 ```html
 <!-- BEGIN post_row -->

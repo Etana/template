@@ -1,7 +1,7 @@
 # JAVASCRIPT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JAVASCRIPT}

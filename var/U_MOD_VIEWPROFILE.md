@@ -1,7 +1,7 @@
 # U_MOD_VIEWPROFILE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_MOD_VIEWPROFILE}

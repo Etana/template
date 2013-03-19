@@ -1,7 +1,7 @@
 # FORUM_ID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {FORUM_ID}

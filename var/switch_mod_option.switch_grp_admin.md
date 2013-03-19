@@ -1,7 +1,7 @@
 # switch_mod_option.switch_grp_admin
 
 
-Attribut de [`<!-- BEGIN switch_mod_option -->...<!-- END switch_mod_option -->`](switch_mod_option.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_mod_option -->...<!-- END switch_mod_option -->`](switch_mod_option.md#readme).
 
 ```html
 <!-- BEGIN switch_mod_option -->
@@ -16,7 +16,7 @@ Attribut de [`<!-- BEGIN switch_mod_option -->...<!-- END switch_mod_option -->`
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/var/punbb/groupcp_info_body.md#readme) :__ lignes [`130`](../tpl/src/punbb/groupcp_info_body.tpl#L130), [`132`](../tpl/src/punbb/groupcp_info_body.tpl#L132)
+* __[`groupcp_info_body`](../tpl/var/punbb/groupcp_info_body.md#readme) :__ lignes [`130`](../tpl/src/punbb/groupcp_info_body.tpl#L130)[`<->`](../tpl/src/punbb/groupcp_info_body.tpl#L130-L132)[`132`](../tpl/src/punbb/groupcp_info_body.tpl#L132)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/subsilver/groupcp_info_body.md#readme) :__ lignes [`86`](../tpl/src/subsilver/groupcp_info_body.tpl#L86), [`92`](../tpl/src/subsilver/groupcp_info_body.tpl#L92)
+* __[`groupcp_info_body`](../tpl/var/subsilver/groupcp_info_body.md#readme) :__ lignes [`86`](../tpl/src/subsilver/groupcp_info_body.tpl#L86)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L86-L92)[`92`](../tpl/src/subsilver/groupcp_info_body.tpl#L92)

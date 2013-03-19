@@ -1,7 +1,7 @@
 # L_ALLOWED_ZIP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ALLOWED_ZIP}

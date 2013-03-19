@@ -1,7 +1,7 @@
 # S_HIDDEN_FORM_FIELDS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_HIDDEN_FORM_FIELDS}

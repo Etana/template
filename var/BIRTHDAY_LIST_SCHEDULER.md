@@ -1,7 +1,7 @@
 # BIRTHDAY_LIST_SCHEDULER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BIRTHDAY_LIST_SCHEDULER}

@@ -1,7 +1,7 @@
 # ORDER_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ORDER_SELECT}

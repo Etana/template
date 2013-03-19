@@ -1,7 +1,7 @@
 # L_LEAVESHADOW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LEAVESHADOW}

@@ -1,7 +1,7 @@
 # row.cell.DAY
 
 
-Attribut de [`<!-- BEGIN cell -->...<!-- END cell -->`](row.cell.md#readme).
+Attribut d'affichage de [`<!-- BEGIN cell -->...<!-- END cell -->`](row.cell.md#readme).
 
 ```html
 <!-- BEGIN row -->

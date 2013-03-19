@@ -1,7 +1,7 @@
 # AVATAR_FROM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AVATAR_FROM}

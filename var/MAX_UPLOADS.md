@@ -1,7 +1,7 @@
 # MAX_UPLOADS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MAX_UPLOADS}

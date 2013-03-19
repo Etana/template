@@ -1,7 +1,7 @@
 # S_CALENDAR_YEAR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_CALENDAR_YEAR}

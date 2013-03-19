@@ -1,7 +1,7 @@
 # SEARCH_RESULTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SEARCH_RESULTS}

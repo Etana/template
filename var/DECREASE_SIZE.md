@@ -1,7 +1,7 @@
 # DECREASE_SIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {DECREASE_SIZE}

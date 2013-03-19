@@ -1,7 +1,7 @@
 # SELECT_OPTIONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SELECT_OPTIONS}

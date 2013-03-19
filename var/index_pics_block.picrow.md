@@ -1,7 +1,7 @@
 # index_pics_block.picrow
 
 
-Attribut de [`<!-- BEGIN index_pics_block -->...<!-- END index_pics_block -->`](index_pics_block.md#readme).
+Attribut de bouclage de [`<!-- BEGIN index_pics_block -->...<!-- END index_pics_block -->`](index_pics_block.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->
@@ -21,7 +21,7 @@ Attribut de [`<!-- BEGIN index_pics_block -->...<!-- END index_pics_block -->`](
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`34`](../tpl/src/punbb/album_cat_body.tpl#L34), [`47`](../tpl/src/punbb/album_cat_body.tpl#L47)
+* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`34`](../tpl/src/punbb/album_cat_body.tpl#L34)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L34-L47)[`47`](../tpl/src/punbb/album_cat_body.tpl#L47)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`52`](../tpl/src/subsilver/album_cat_body.tpl#L52), [`79`](../tpl/src/subsilver/album_cat_body.tpl#L79)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`52`](../tpl/src/subsilver/album_cat_body.tpl#L52)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L52-L79)[`79`](../tpl/src/subsilver/album_cat_body.tpl#L79)

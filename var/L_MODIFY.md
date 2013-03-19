@@ -1,7 +1,7 @@
 # L_MODIFY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MODIFY}

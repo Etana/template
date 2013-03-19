@@ -1,7 +1,7 @@
 # index_pics_block.picrow.piccol.U_PIC
 
 
-Attribut de [`<!-- BEGIN piccol -->...<!-- END piccol -->`](index_pics_block.picrow.piccol.md#readme).
+Attribut d'affichage de [`<!-- BEGIN piccol -->...<!-- END piccol -->`](index_pics_block.picrow.piccol.md#readme).
 
 ```html
 <!-- BEGIN index_pics_block -->

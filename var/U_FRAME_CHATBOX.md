@@ -1,7 +1,7 @@
 # U_FRAME_CHATBOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_FRAME_CHATBOX}

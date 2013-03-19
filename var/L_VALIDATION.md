@@ -1,7 +1,7 @@
 # L_VALIDATION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_VALIDATION}

@@ -1,7 +1,7 @@
 # L_USER_SELECT_VALUE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_USER_SELECT_VALUE}

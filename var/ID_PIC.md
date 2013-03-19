@@ -1,7 +1,7 @@
 # ID_PIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ID_PIC}

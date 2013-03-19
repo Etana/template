@@ -1,7 +1,7 @@
 # PAGE_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PAGE_TITLE}

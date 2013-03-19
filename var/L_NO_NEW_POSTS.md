@@ -1,7 +1,7 @@
 # L_NO_NEW_POSTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NO_NEW_POSTS}

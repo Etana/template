@@ -1,7 +1,7 @@
 # SORT_METHOD_VALUE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_METHOD_VALUE}

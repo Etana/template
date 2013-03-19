@@ -1,7 +1,7 @@
 # credit_card_method.switch_select_currency
 
 
-Attribut de [`<!-- BEGIN credit_card_method -->...<!-- END credit_card_method -->`](credit_card_method.md#readme).
+Attribut de bouclage de [`<!-- BEGIN credit_card_method -->...<!-- END credit_card_method -->`](credit_card_method.md#readme).
 
 ```html
 <!-- BEGIN credit_card_method -->
@@ -20,7 +20,7 @@ Attribut de [`<!-- BEGIN credit_card_method -->...<!-- END credit_card_method --
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`109`](../tpl/src/punbb/donate.tpl#L109), [`127`](../tpl/src/punbb/donate.tpl#L127)
+* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`109`](../tpl/src/punbb/donate.tpl#L109)[`<->`](../tpl/src/punbb/donate.tpl#L109-L127)[`127`](../tpl/src/punbb/donate.tpl#L127)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`137`](../tpl/src/subsilver/donate.tpl#L137), [`154`](../tpl/src/subsilver/donate.tpl#L154)
+* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`137`](../tpl/src/subsilver/donate.tpl#L137)[`<->`](../tpl/src/subsilver/donate.tpl#L137-L154)[`154`](../tpl/src/subsilver/donate.tpl#L154)

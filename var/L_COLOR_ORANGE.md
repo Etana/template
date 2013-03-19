@@ -1,7 +1,7 @@
 # L_COLOR_ORANGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_COLOR_ORANGE}

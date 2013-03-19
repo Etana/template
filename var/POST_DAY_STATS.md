@@ -1,7 +1,7 @@
 # POST_DAY_STATS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POST_DAY_STATS}

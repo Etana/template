@@ -1,7 +1,7 @@
 # L_MOST_VIEWED_TOPICS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MOST_VIEWED_TOPICS}

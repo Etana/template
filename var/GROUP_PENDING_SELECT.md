@@ -1,7 +1,7 @@
 # GROUP_PENDING_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GROUP_PENDING_SELECT}

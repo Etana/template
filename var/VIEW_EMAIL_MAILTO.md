@@ -1,7 +1,7 @@
 # VIEW_EMAIL_MAILTO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {VIEW_EMAIL_MAILTO}

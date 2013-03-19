@@ -1,7 +1,7 @@
 # SEARCH_ADVANCED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SEARCH_ADVANCED}

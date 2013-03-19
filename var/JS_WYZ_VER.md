@@ -1,7 +1,7 @@
 # JS_WYZ_VER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JS_WYZ_VER}

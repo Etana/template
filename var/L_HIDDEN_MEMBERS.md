@@ -1,7 +1,7 @@
 # L_HIDDEN_MEMBERS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_HIDDEN_MEMBERS}

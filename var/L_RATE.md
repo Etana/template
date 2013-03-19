@@ -1,7 +1,7 @@
 # L_RATE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_RATE}

@@ -1,7 +1,7 @@
 # L_UNAPPROVAL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UNAPPROVAL}

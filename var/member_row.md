@@ -1,7 +1,7 @@
 # member_row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN member_row -->
@@ -27,7 +27,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/var/punbb/groupcp_info_body.md#readme) :__ lignes [`104`](../tpl/src/punbb/groupcp_info_body.tpl#L104), [`114`](../tpl/src/punbb/groupcp_info_body.tpl#L114)
+* __[`groupcp_info_body`](../tpl/var/punbb/groupcp_info_body.md#readme) :__ lignes [`104`](../tpl/src/punbb/groupcp_info_body.tpl#L104)[`<->`](../tpl/src/punbb/groupcp_info_body.tpl#L104-L114)[`114`](../tpl/src/punbb/groupcp_info_body.tpl#L114)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/subsilver/groupcp_info_body.md#readme) :__ lignes [`64`](../tpl/src/subsilver/groupcp_info_body.tpl#L64), [`74`](../tpl/src/subsilver/groupcp_info_body.tpl#L74)
+* __[`groupcp_info_body`](../tpl/var/subsilver/groupcp_info_body.md#readme) :__ lignes [`64`](../tpl/src/subsilver/groupcp_info_body.tpl#L64)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L64-L74)[`74`](../tpl/src/subsilver/groupcp_info_body.tpl#L74)

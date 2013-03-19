@@ -1,7 +1,7 @@
 # CALENDAR_HOUR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CALENDAR_HOUR}

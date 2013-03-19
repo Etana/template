@@ -1,7 +1,7 @@
 # L_DAYS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DAYS}

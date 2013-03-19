@@ -1,7 +1,7 @@
 # NUFFIMAGE_BOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFFIMAGE_BOX}

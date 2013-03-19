@@ -1,7 +1,7 @@
 # L_VIEW_COMPLETE_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_VIEW_COMPLETE_LIST}

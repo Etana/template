@@ -1,7 +1,7 @@
 # switch_rate.RATE
 
 
-Attribut de [`<!-- BEGIN switch_rate -->...<!-- END switch_rate -->`](switch_rate.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_rate -->...<!-- END switch_rate -->`](switch_rate.md#readme).
 
 ```html
 <!-- BEGIN switch_rate -->

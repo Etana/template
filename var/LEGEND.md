@@ -1,7 +1,7 @@
 # LEGEND
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LEGEND}

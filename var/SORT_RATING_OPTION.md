@@ -1,7 +1,7 @@
 # SORT_RATING_OPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_RATING_OPTION}

@@ -1,7 +1,7 @@
 # switch_roll_dice_old.row_replace
 
 
-Attribut de [`<!-- BEGIN switch_roll_dice_old -->...<!-- END switch_roll_dice_old -->`](switch_roll_dice_old.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_roll_dice_old -->...<!-- END switch_roll_dice_old -->`](switch_roll_dice_old.md#readme).
 
 ```html
 <!-- BEGIN switch_roll_dice_old -->
@@ -21,7 +21,7 @@ Attribut de [`<!-- BEGIN switch_roll_dice_old -->...<!-- END switch_roll_dice_ol
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`243`](../tpl/src/punbb/posting_body.tpl#L243), [`245`](../tpl/src/punbb/posting_body.tpl#L245), [`323`](../tpl/src/punbb/posting_body.tpl#L323), [`325`](../tpl/src/punbb/posting_body.tpl#L325)
+* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`243`](../tpl/src/punbb/posting_body.tpl#L243)[`<->`](../tpl/src/punbb/posting_body.tpl#L243-L245)[`245`](../tpl/src/punbb/posting_body.tpl#L245), [`323`](../tpl/src/punbb/posting_body.tpl#L323)[`<->`](../tpl/src/punbb/posting_body.tpl#L323-L325)[`325`](../tpl/src/punbb/posting_body.tpl#L325)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`297`](../tpl/src/subsilver/posting_body.tpl#L297), [`299`](../tpl/src/subsilver/posting_body.tpl#L299), [`374`](../tpl/src/subsilver/posting_body.tpl#L374), [`376`](../tpl/src/subsilver/posting_body.tpl#L376)
+* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`297`](../tpl/src/subsilver/posting_body.tpl#L297)[`<->`](../tpl/src/subsilver/posting_body.tpl#L297-L299)[`299`](../tpl/src/subsilver/posting_body.tpl#L299), [`374`](../tpl/src/subsilver/posting_body.tpl#L374)[`<->`](../tpl/src/subsilver/posting_body.tpl#L374-L376)[`376`](../tpl/src/subsilver/posting_body.tpl#L376)

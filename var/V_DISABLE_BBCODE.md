@@ -1,7 +1,7 @@
 # V_DISABLE_BBCODE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_DISABLE_BBCODE}

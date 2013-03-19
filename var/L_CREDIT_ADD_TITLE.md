@@ -1,7 +1,7 @@
 # L_CREDIT_ADD_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CREDIT_ADD_TITLE}

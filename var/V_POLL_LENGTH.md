@@ -1,7 +1,7 @@
 # V_POLL_LENGTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_POLL_LENGTH}

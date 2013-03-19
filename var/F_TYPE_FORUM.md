@@ -1,7 +1,7 @@
 # F_TYPE_FORUM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {F_TYPE_FORUM}

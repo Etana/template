@@ -1,7 +1,7 @@
 # IMG_SEPIA
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {IMG_SEPIA}

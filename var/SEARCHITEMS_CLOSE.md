@@ -1,7 +1,7 @@
 # SEARCHITEMS_CLOSE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SEARCHITEMS_CLOSE}

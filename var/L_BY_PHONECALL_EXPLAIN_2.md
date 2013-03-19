@@ -1,7 +1,7 @@
 # L_BY_PHONECALL_EXPLAIN_2
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_BY_PHONECALL_EXPLAIN_2}

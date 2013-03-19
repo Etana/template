@@ -1,7 +1,7 @@
 # V_SUBMIT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_SUBMIT}

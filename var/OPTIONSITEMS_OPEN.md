@@ -1,7 +1,7 @@
 # OPTIONSITEMS_OPEN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {OPTIONSITEMS_OPEN}

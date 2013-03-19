@@ -1,7 +1,7 @@
 # INBOX_LIMIT_IMG_WIDTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INBOX_LIMIT_IMG_WIDTH}

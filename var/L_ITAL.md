@@ -1,7 +1,7 @@
 # L_ITAL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ITAL}

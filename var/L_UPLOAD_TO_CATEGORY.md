@@ -1,7 +1,7 @@
 # L_UPLOAD_TO_CATEGORY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UPLOAD_TO_CATEGORY}

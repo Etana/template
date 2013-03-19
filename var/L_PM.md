@@ -1,7 +1,7 @@
 # L_PM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PM}

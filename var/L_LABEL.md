@@ -1,7 +1,7 @@
 # L_LABEL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_LABEL}

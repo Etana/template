@@ -1,7 +1,7 @@
 # C3SIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {C3SIZE}

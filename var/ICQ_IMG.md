@@ -1,7 +1,7 @@
 # ICQ_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ICQ_IMG}

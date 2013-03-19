@@ -1,7 +1,7 @@
 # JUMPBOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JUMPBOX}

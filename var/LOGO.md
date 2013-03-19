@@ -1,7 +1,7 @@
 # LOGO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LOGO}

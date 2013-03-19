@@ -1,7 +1,7 @@
 # L_UNMARK_ALL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UNMARK_ALL}

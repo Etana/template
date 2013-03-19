@@ -1,7 +1,7 @@
 # POSTED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POSTED}

@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics.recent_detail2
 
 
-Attribut de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](build_categories_block.recent_pics.md#readme).
+Attribut de bouclage de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](build_categories_block.recent_pics.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->
@@ -26,4 +26,4 @@ Attribut de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](build_cate
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`49`](../tpl/src/subsilver/album_index_body.tpl#L49), [`58`](../tpl/src/subsilver/album_index_body.tpl#L58)
+* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`49`](../tpl/src/subsilver/album_index_body.tpl#L49)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L49-L58)[`58`](../tpl/src/subsilver/album_index_body.tpl#L58)

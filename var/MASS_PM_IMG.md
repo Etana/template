@@ -1,7 +1,7 @@
 # MASS_PM_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MASS_PM_IMG}

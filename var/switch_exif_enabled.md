@@ -1,7 +1,7 @@
 # switch_exif_enabled
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_exif_enabled -->
@@ -18,4 +18,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`352`](../tpl/src/subsilver/album_showpage_body.tpl#L352), [`367`](../tpl/src/subsilver/album_showpage_body.tpl#L367)
+* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`352`](../tpl/src/subsilver/album_showpage_body.tpl#L352)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L352-L367)[`367`](../tpl/src/subsilver/album_showpage_body.tpl#L367)

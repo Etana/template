@@ -1,7 +1,7 @@
 # L_TOPICS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TOPICS}

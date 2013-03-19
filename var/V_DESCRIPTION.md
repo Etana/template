@@ -1,7 +1,7 @@
 # V_DESCRIPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_DESCRIPTION}

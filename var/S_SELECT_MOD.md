@@ -1,7 +1,7 @@
 # S_SELECT_MOD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_SELECT_MOD}

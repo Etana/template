@@ -1,7 +1,7 @@
 # ITALIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ITALIC}

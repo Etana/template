@@ -1,7 +1,7 @@
 # CUR_USER_ID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CUR_USER_ID}

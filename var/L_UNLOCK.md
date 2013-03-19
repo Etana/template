@@ -1,7 +1,7 @@
 # L_UNLOCK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_UNLOCK}

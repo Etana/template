@@ -1,7 +1,7 @@
 # L_TOPIC_REVIEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TOPIC_REVIEW}

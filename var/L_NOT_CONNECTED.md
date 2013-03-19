@@ -1,7 +1,7 @@
 # L_NOT_CONNECTED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NOT_CONNECTED}

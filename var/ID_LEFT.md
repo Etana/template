@@ -1,7 +1,7 @@
 # ID_LEFT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ID_LEFT}

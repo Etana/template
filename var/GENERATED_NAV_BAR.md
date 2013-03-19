@@ -1,7 +1,7 @@
 # GENERATED_NAV_BAR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GENERATED_NAV_BAR}

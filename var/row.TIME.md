@@ -1,7 +1,7 @@
 # row.TIME
 
 
-Attribut de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme).
 
 ```html
 <!-- BEGIN row -->

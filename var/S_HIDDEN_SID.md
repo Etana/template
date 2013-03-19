@@ -1,7 +1,7 @@
 # S_HIDDEN_SID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_HIDDEN_SID}

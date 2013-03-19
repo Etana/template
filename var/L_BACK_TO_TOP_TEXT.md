@@ -1,7 +1,7 @@
 # L_BACK_TO_TOP_TEXT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_BACK_TO_TOP_TEXT}

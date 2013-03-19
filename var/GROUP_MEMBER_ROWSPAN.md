@@ -1,7 +1,7 @@
 # GROUP_MEMBER_ROWSPAN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GROUP_MEMBER_ROWSPAN}

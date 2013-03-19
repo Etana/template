@@ -1,7 +1,7 @@
 # APPROVAL_BUTTON
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {APPROVAL_BUTTON}

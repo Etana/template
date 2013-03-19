@@ -1,7 +1,7 @@
 # L_CC_EMAIL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CC_EMAIL}

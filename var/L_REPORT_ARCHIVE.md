@@ -1,7 +1,7 @@
 # L_REPORT_ARCHIVE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_REPORT_ARCHIVE}

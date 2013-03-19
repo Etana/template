@@ -1,7 +1,7 @@
 # NAV_SEP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NAV_SEP}

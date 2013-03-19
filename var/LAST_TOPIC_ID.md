@@ -1,7 +1,7 @@
 # LAST_TOPIC_ID
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {LAST_TOPIC_ID}

@@ -1,7 +1,7 @@
 # L_OPTIONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_OPTIONS}

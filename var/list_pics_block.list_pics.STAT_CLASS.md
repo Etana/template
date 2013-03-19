@@ -1,7 +1,7 @@
 # list_pics_block.list_pics.STAT_CLASS
 
 
-Attribut de [`<!-- BEGIN list_pics -->...<!-- END list_pics -->`](list_pics_block.list_pics.md#readme).
+Attribut d'affichage de [`<!-- BEGIN list_pics -->...<!-- END list_pics -->`](list_pics_block.list_pics.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

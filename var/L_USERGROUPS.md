@@ -1,7 +1,7 @@
 # L_USERGROUPS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_USERGROUPS}

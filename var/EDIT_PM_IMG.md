@@ -1,7 +1,7 @@
 # EDIT_PM_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {EDIT_PM_IMG}

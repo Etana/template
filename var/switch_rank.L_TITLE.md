@@ -1,7 +1,7 @@
 # switch_rank.L_TITLE
 
 
-Attribut de [`<!-- BEGIN switch_rank -->...<!-- END switch_rank -->`](switch_rank.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_rank -->...<!-- END switch_rank -->`](switch_rank.md#readme).
 
 ```html
 <!-- BEGIN switch_rank -->

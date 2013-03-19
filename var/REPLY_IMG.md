@@ -1,7 +1,7 @@
 # REPLY_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {REPLY_IMG}

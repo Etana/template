@@ -1,7 +1,7 @@
 # MOD_POSTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MOD_POSTS}

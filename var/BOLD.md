@@ -1,7 +1,7 @@
 # BOLD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BOLD}

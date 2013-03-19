@@ -1,7 +1,7 @@
 # NUFF_INFRARED_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NUFF_INFRARED_CHECKED}

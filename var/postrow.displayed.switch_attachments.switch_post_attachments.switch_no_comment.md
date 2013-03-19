@@ -1,7 +1,7 @@
 # postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment
 
 
-Attribut de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](postrow.displayed.switch_attachments.switch_post_attachments.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](postrow.displayed.switch_attachments.switch_post_attachments.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -26,7 +26,7 @@ Attribut de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_atta
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`206`](../tpl/src/punbb/viewtopic_body.tpl#L206), [`210`](../tpl/src/punbb/viewtopic_body.tpl#L210)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`206`](../tpl/src/punbb/viewtopic_body.tpl#L206)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L206-L210)[`210`](../tpl/src/punbb/viewtopic_body.tpl#L210)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`200`](../tpl/src/subsilver/viewtopic_body.tpl#L200), [`204`](../tpl/src/subsilver/viewtopic_body.tpl#L204)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`200`](../tpl/src/subsilver/viewtopic_body.tpl#L200)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L200-L204)[`204`](../tpl/src/subsilver/viewtopic_body.tpl#L204)

@@ -1,7 +1,7 @@
 # SWITCH_EDITOR_MODE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SWITCH_EDITOR_MODE}

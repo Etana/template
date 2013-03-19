@@ -1,7 +1,7 @@
 # AIM_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AIM_IMG}

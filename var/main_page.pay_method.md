@@ -1,7 +1,7 @@
 # main_page.pay_method
 
 
-Attribut de [`<!-- BEGIN main_page -->...<!-- END main_page -->`](main_page.md#readme).
+Attribut de bouclage de [`<!-- BEGIN main_page -->...<!-- END main_page -->`](main_page.md#readme).
 
 ```html
 <!-- BEGIN main_page -->
@@ -23,7 +23,7 @@ Attribut de [`<!-- BEGIN main_page -->...<!-- END main_page -->`](main_page.md#r
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`42`](../tpl/src/punbb/donate.tpl#L42), [`54`](../tpl/src/punbb/donate.tpl#L54)
+* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`42`](../tpl/src/punbb/donate.tpl#L42)[`<->`](../tpl/src/punbb/donate.tpl#L42-L54)[`54`](../tpl/src/punbb/donate.tpl#L54)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`46`](../tpl/src/subsilver/donate.tpl#L46), [`59`](../tpl/src/subsilver/donate.tpl#L59)
+* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`46`](../tpl/src/subsilver/donate.tpl#L46)[`<->`](../tpl/src/subsilver/donate.tpl#L46-L59)[`59`](../tpl/src/subsilver/donate.tpl#L59)

@@ -1,7 +1,7 @@
 # PAGINATION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PAGINATION}

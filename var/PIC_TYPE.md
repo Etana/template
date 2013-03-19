@@ -1,7 +1,7 @@
 # PIC_TYPE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_TYPE}

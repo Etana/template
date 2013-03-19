@@ -1,7 +1,7 @@
 # faq_block_link.BLOCK_TITLE
 
 
-Attribut de [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_link -->`](faq_block_link.md#readme).
+Attribut d'affichage de [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_link -->`](faq_block_link.md#readme).
 
 ```html
 <!-- BEGIN faq_block_link -->

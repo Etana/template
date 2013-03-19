@@ -1,7 +1,7 @@
 # PIC_RATING
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_RATING}

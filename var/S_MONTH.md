@@ -1,7 +1,7 @@
 # S_MONTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_MONTH}

@@ -1,7 +1,7 @@
 # TOPIC_REVIEW_BOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOPIC_REVIEW_BOX}

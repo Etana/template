@@ -1,7 +1,7 @@
 # S_CALENDAR_MONTH
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_CALENDAR_MONTH}

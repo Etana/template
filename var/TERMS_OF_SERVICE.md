@@ -1,7 +1,7 @@
 # TERMS_OF_SERVICE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TERMS_OF_SERVICE}

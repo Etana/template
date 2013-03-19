@@ -1,7 +1,7 @@
 # FORUM_NEW_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {FORUM_NEW_IMG}

@@ -1,7 +1,7 @@
 # list_pics_block.list_pics_title.L_TOP10_TITLE
 
 
-Attribut de [`<!-- BEGIN list_pics_title -->...<!-- END list_pics_title -->`](list_pics_block.list_pics_title.md#readme).
+Attribut d'affichage de [`<!-- BEGIN list_pics_title -->...<!-- END list_pics_title -->`](list_pics_block.list_pics_title.md#readme).
 
 ```html
 <!-- BEGIN list_pics_block -->

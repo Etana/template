@@ -1,7 +1,7 @@
 # MOD_FROM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MOD_FROM}

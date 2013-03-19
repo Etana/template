@@ -1,7 +1,7 @@
 # switch_facebook_logout_TMP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {switch_facebook_logout_TMP}

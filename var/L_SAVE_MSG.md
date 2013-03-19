@@ -1,7 +1,7 @@
 # L_SAVE_MSG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SAVE_MSG}

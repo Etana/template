@@ -1,7 +1,7 @@
 # sepia_bw_enabled
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN sepia_bw_enabled -->
@@ -14,7 +14,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_nuffimage_box`](../tpl/var/punbb/album_nuffimage_box.md#readme) :__ lignes [`28`](../tpl/src/punbb/album_nuffimage_box.tpl#L28), [`40`](../tpl/src/punbb/album_nuffimage_box.tpl#L40), [`56`](../tpl/src/punbb/album_nuffimage_box.tpl#L56), [`67`](../tpl/src/punbb/album_nuffimage_box.tpl#L67)
+* __[`album_nuffimage_box`](../tpl/var/punbb/album_nuffimage_box.md#readme) :__ lignes [`28`](../tpl/src/punbb/album_nuffimage_box.tpl#L28)[`<->`](../tpl/src/punbb/album_nuffimage_box.tpl#L28-L40)[`40`](../tpl/src/punbb/album_nuffimage_box.tpl#L40), [`56`](../tpl/src/punbb/album_nuffimage_box.tpl#L56)[`<->`](../tpl/src/punbb/album_nuffimage_box.tpl#L56-L67)[`67`](../tpl/src/punbb/album_nuffimage_box.tpl#L67)
 
 ### Version phpBB2
-* __[`album_nuffimage_box`](../tpl/var/subsilver/album_nuffimage_box.md#readme) :__ lignes [`79`](../tpl/src/subsilver/album_nuffimage_box.tpl#L79), [`100`](../tpl/src/subsilver/album_nuffimage_box.tpl#L100)
+* __[`album_nuffimage_box`](../tpl/var/subsilver/album_nuffimage_box.md#readme) :__ lignes [`79`](../tpl/src/subsilver/album_nuffimage_box.tpl#L79)[`<->`](../tpl/src/subsilver/album_nuffimage_box.tpl#L79-L100)[`100`](../tpl/src/subsilver/album_nuffimage_box.tpl#L100)

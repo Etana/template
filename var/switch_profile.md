@@ -1,7 +1,7 @@
 # switch_profile
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_profile -->
@@ -14,7 +14,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_login`](../tpl/var/punbb/mod_login.md#readme) :__ lignes [`43`](../tpl/src/punbb/mod_login.tpl#L43), [`57`](../tpl/src/punbb/mod_login.tpl#L57)
+* __[`mod_login`](../tpl/var/punbb/mod_login.md#readme) :__ lignes [`43`](../tpl/src/punbb/mod_login.tpl#L43)[`<->`](../tpl/src/punbb/mod_login.tpl#L43-L57)[`57`](../tpl/src/punbb/mod_login.tpl#L57)
 
 ### Version phpBB2
-* __[`mod_login`](../tpl/var/subsilver/mod_login.md#readme) :__ lignes [`71`](../tpl/src/subsilver/mod_login.tpl#L71), [`95`](../tpl/src/subsilver/mod_login.tpl#L95)
+* __[`mod_login`](../tpl/var/subsilver/mod_login.md#readme) :__ lignes [`71`](../tpl/src/subsilver/mod_login.tpl#L71)[`<->`](../tpl/src/subsilver/mod_login.tpl#L71-L95)[`95`](../tpl/src/subsilver/mod_login.tpl#L95)

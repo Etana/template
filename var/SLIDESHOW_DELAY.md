@@ -1,7 +1,7 @@
 # SLIDESHOW_DELAY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SLIDESHOW_DELAY}

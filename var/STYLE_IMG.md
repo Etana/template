@@ -1,7 +1,7 @@
 # STYLE_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {STYLE_IMG}

@@ -1,7 +1,7 @@
 # TOPIC_DATE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOPIC_DATE}

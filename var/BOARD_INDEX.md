@@ -1,7 +1,7 @@
 # BOARD_INDEX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BOARD_INDEX}

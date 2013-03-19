@@ -1,7 +1,7 @@
 # OUTBOX_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {OUTBOX_LINK}

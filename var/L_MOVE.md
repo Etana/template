@@ -1,7 +1,7 @@
 # L_MOVE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MOVE}

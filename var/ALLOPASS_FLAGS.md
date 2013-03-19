@@ -1,7 +1,7 @@
 # ALLOPASS_FLAGS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALLOPASS_FLAGS}

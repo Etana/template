@@ -1,7 +1,7 @@
 # L_DESC_TOO_LONG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DESC_TOO_LONG}

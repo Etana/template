@@ -1,7 +1,7 @@
 # ADDTHIS_LANG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ADDTHIS_LANG}

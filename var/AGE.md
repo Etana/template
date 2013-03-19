@@ -1,7 +1,7 @@
 # AGE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AGE}

@@ -1,7 +1,7 @@
 # AUTHOR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {AUTHOR}

@@ -1,7 +1,7 @@
 # display_infos.rate_switch.rate_row.rate_scale_row.POINT
 
 
-Attribut de [`<!-- BEGIN rate_scale_row -->...<!-- END rate_scale_row -->`](display_infos.rate_switch.rate_row.rate_scale_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN rate_scale_row -->...<!-- END rate_scale_row -->`](display_infos.rate_switch.rate_row.rate_scale_row.md#readme).
 
 ```html
 <!-- BEGIN display_infos -->

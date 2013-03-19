@@ -1,7 +1,7 @@
 # pending_members_row
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN pending_members_row -->
@@ -26,7 +26,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`groupcp_pending_info`](../tpl/var/punbb/groupcp_pending_info.md#readme) :__ lignes [`20`](../tpl/src/punbb/groupcp_pending_info.tpl#L20), [`30`](../tpl/src/punbb/groupcp_pending_info.tpl#L30)
+* __[`groupcp_pending_info`](../tpl/var/punbb/groupcp_pending_info.md#readme) :__ lignes [`20`](../tpl/src/punbb/groupcp_pending_info.tpl#L20)[`<->`](../tpl/src/punbb/groupcp_pending_info.tpl#L20-L30)[`30`](../tpl/src/punbb/groupcp_pending_info.tpl#L30)
 
 ### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/var/subsilver/groupcp_pending_info.md#readme) :__ lignes [`14`](../tpl/src/subsilver/groupcp_pending_info.tpl#L14), [`24`](../tpl/src/subsilver/groupcp_pending_info.tpl#L24)
+* __[`groupcp_pending_info`](../tpl/var/subsilver/groupcp_pending_info.md#readme) :__ lignes [`14`](../tpl/src/subsilver/groupcp_pending_info.tpl#L14)[`<->`](../tpl/src/subsilver/groupcp_pending_info.tpl#L14-L24)[`24`](../tpl/src/subsilver/groupcp_pending_info.tpl#L24)

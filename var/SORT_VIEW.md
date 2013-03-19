@@ -1,7 +1,7 @@
 # SORT_VIEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_VIEW}

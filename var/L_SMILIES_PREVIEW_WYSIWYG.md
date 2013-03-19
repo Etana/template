@@ -1,7 +1,7 @@
 # L_SMILIES_PREVIEW_WYSIWYG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SMILIES_PREVIEW_WYSIWYG}

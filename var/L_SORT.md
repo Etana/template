@@ -1,7 +1,7 @@
 # L_SORT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SORT}

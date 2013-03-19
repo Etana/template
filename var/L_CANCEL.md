@@ -1,7 +1,7 @@
 # L_CANCEL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CANCEL}

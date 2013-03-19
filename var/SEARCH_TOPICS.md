@@ -1,7 +1,7 @@
 # SEARCH_TOPICS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SEARCH_TOPICS}

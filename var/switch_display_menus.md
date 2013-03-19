@@ -1,7 +1,7 @@
 # switch_display_menus
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_display_menus -->
@@ -14,4 +14,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`864`](../tpl/src/subsilver/posting_body.tpl#L864), [`873`](../tpl/src/subsilver/posting_body.tpl#L873)
+* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`864`](../tpl/src/subsilver/posting_body.tpl#L864)[`<->`](../tpl/src/subsilver/posting_body.tpl#L864-L873)[`873`](../tpl/src/subsilver/posting_body.tpl#L873)

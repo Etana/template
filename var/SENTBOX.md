@@ -1,7 +1,7 @@
 # SENTBOX
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SENTBOX}

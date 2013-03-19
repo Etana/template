@@ -1,7 +1,7 @@
 # PIC_TIME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_TIME}

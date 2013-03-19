@@ -1,7 +1,7 @@
 # SERVIMG_USER_EMAIL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SERVIMG_USER_EMAIL}

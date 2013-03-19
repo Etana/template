@@ -1,7 +1,7 @@
 # PIC_BBCODE1
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {PIC_BBCODE1}

@@ -1,7 +1,7 @@
 # L_ORDER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ORDER}

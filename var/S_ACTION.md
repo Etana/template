@@ -1,7 +1,7 @@
 # S_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_ACTION}

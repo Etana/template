@@ -1,7 +1,7 @@
 # SORT_COMMENTS_OPTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_COMMENTS_OPTION}

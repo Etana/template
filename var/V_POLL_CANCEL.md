@@ -1,7 +1,7 @@
 # V_POLL_CANCEL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_POLL_CANCEL}

@@ -1,7 +1,7 @@
 # ADD_USERNAME_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ADD_USERNAME_IMG}

@@ -1,7 +1,7 @@
 # HOSTING_JS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {HOSTING_JS}

@@ -1,7 +1,7 @@
 # L_RETURN_PROFILE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_RETURN_PROFILE}

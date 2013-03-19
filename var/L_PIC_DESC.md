@@ -1,7 +1,7 @@
 # L_PIC_DESC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PIC_DESC}

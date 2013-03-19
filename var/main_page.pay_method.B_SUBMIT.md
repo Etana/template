@@ -1,7 +1,7 @@
 # main_page.pay_method.B_SUBMIT
 
 
-Attribut de [`<!-- BEGIN pay_method -->...<!-- END pay_method -->`](main_page.pay_method.md#readme).
+Attribut d'affichage de [`<!-- BEGIN pay_method -->...<!-- END pay_method -->`](main_page.pay_method.md#readme).
 
 ```html
 <!-- BEGIN main_page -->

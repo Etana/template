@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_profile_fields
 
 
-Attribut de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](switch_informations_menu.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](switch_informations_menu.md#readme).
 
 ```html
 <!-- BEGIN switch_informations_menu -->
@@ -21,7 +21,7 @@ Attribut de [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informat
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`114`](../tpl/src/punbb/profile_add_body.tpl#L114), [`127`](../tpl/src/punbb/profile_add_body.tpl#L127)
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`114`](../tpl/src/punbb/profile_add_body.tpl#L114)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L114-L127)[`127`](../tpl/src/punbb/profile_add_body.tpl#L127)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`48`](../tpl/src/subsilver/profile_add_body.tpl#L48), [`63`](../tpl/src/subsilver/profile_add_body.tpl#L63)
+* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`48`](../tpl/src/subsilver/profile_add_body.tpl#L48)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L48-L63)[`63`](../tpl/src/subsilver/profile_add_body.tpl#L63)

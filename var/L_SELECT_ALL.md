@@ -1,7 +1,7 @@
 # L_SELECT_ALL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SELECT_ALL}

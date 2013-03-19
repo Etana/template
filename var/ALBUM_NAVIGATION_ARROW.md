@@ -1,7 +1,7 @@
 # ALBUM_NAVIGATION_ARROW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALBUM_NAVIGATION_ARROW}

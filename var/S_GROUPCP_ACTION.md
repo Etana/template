@@ -1,7 +1,7 @@
 # S_GROUPCP_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_GROUPCP_ACTION}

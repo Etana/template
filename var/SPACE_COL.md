@@ -1,7 +1,7 @@
 # SPACE_COL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SPACE_COL}

@@ -1,7 +1,7 @@
 # L_DELETE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_DELETE}

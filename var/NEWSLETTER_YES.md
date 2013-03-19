@@ -1,7 +1,7 @@
 # NEWSLETTER_YES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {NEWSLETTER_YES}

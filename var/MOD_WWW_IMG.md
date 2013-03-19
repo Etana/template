@@ -1,7 +1,7 @@
 # MOD_WWW_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MOD_WWW_IMG}

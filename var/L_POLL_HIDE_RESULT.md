@@ -1,7 +1,7 @@
 # L_POLL_HIDE_RESULT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_POLL_HIDE_RESULT}

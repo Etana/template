@@ -1,7 +1,7 @@
 # memberrow.ROW_NUMBER
 
 
-Attribut de [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](memberrow.md#readme).
+Attribut d'affichage de [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](memberrow.md#readme).
 
 ```html
 <!-- BEGIN memberrow -->

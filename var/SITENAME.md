@@ -1,7 +1,7 @@
 # SITENAME
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SITENAME}

@@ -1,7 +1,7 @@
 # postrow.displayed.profile_field.CONTENT
 
 
-Attribut de [`<!-- BEGIN profile_field -->...<!-- END profile_field -->`](postrow.displayed.profile_field.md#readme).
+Attribut d'affichage de [`<!-- BEGIN profile_field -->...<!-- END profile_field -->`](postrow.displayed.profile_field.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

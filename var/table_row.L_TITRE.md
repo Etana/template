@@ -1,7 +1,7 @@
 # table_row.L_TITRE
 
 
-Attribut de [`<!-- BEGIN table_row -->...<!-- END table_row -->`](table_row.md#readme).
+Attribut d'affichage de [`<!-- BEGIN table_row -->...<!-- END table_row -->`](table_row.md#readme).
 
 ```html
 <!-- BEGIN table_row -->

@@ -1,7 +1,7 @@
 # L_CONNECTED_MEMBERS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_CONNECTED_MEMBERS}

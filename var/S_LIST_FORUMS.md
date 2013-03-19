@@ -1,7 +1,7 @@
 # S_LIST_FORUMS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_LIST_FORUMS}

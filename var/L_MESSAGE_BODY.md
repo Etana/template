@@ -1,7 +1,7 @@
 # L_MESSAGE_BODY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MESSAGE_BODY}

@@ -1,7 +1,7 @@
 # switch_roll_dice_old.row_replace.DICE_NAME
 
 
-Attribut de [`<!-- BEGIN row_replace -->...<!-- END row_replace -->`](switch_roll_dice_old.row_replace.md#readme).
+Attribut d'affichage de [`<!-- BEGIN row_replace -->...<!-- END row_replace -->`](switch_roll_dice_old.row_replace.md#readme).
 
 ```html
 <!-- BEGIN switch_roll_dice_old -->

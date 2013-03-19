@@ -1,7 +1,7 @@
 # hitskin_preview.U_RETURN_THEME
 
 
-Attribut de [`<!-- BEGIN hitskin_preview -->...<!-- END hitskin_preview -->`](hitskin_preview.md#readme).
+Attribut d'affichage de [`<!-- BEGIN hitskin_preview -->...<!-- END hitskin_preview -->`](hitskin_preview.md#readme).
 
 ```html
 <!-- BEGIN hitskin_preview -->

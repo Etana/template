@@ -1,7 +1,7 @@
 # L_ASC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_ASC}

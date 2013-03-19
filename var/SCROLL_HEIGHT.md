@@ -1,7 +1,7 @@
 # SCROLL_HEIGHT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SCROLL_HEIGHT}

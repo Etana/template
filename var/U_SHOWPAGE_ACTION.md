@@ -1,7 +1,7 @@
 # U_SHOWPAGE_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_SHOWPAGE_ACTION}

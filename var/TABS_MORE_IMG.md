@@ -1,7 +1,7 @@
 # TABS_MORE_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TABS_MORE_IMG}

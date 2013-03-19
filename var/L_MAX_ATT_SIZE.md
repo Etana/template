@@ -1,7 +1,7 @@
 # L_MAX_ATT_SIZE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MAX_ATT_SIZE}

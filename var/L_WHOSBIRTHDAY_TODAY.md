@@ -1,7 +1,7 @@
 # L_WHOSBIRTHDAY_TODAY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_WHOSBIRTHDAY_TODAY}

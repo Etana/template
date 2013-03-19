@@ -1,7 +1,7 @@
 # L_MAKE_DONATION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MAKE_DONATION}

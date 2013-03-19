@@ -1,7 +1,7 @@
 # S_YEAR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_YEAR}

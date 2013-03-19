@@ -1,7 +1,7 @@
 # display_infos.rate_switch.norate_row_disabled
 
 
-Attribut de [`<!-- BEGIN rate_switch -->...<!-- END rate_switch -->`](display_infos.rate_switch.md#readme).
+Attribut de bouclage de [`<!-- BEGIN rate_switch -->...<!-- END rate_switch -->`](display_infos.rate_switch.md#readme).
 
 ```html
 <!-- BEGIN display_infos -->
@@ -22,7 +22,7 @@ Attribut de [`<!-- BEGIN rate_switch -->...<!-- END rate_switch -->`](display_in
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`324`](../tpl/src/punbb/album_showpage_body.tpl#L324), [`329`](../tpl/src/punbb/album_showpage_body.tpl#L329)
+* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`324`](../tpl/src/punbb/album_showpage_body.tpl#L324)[`<->`](../tpl/src/punbb/album_showpage_body.tpl#L324-L329)[`329`](../tpl/src/punbb/album_showpage_body.tpl#L329)
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`337`](../tpl/src/subsilver/album_showpage_body.tpl#L337), [`339`](../tpl/src/subsilver/album_showpage_body.tpl#L339)
+* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`337`](../tpl/src/subsilver/album_showpage_body.tpl#L337)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L337-L339)[`339`](../tpl/src/subsilver/album_showpage_body.tpl#L339)

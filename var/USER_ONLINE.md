@@ -1,7 +1,7 @@
 # USER_ONLINE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {USER_ONLINE}

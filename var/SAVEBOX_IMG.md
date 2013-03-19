@@ -1,7 +1,7 @@
 # SAVEBOX_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SAVEBOX_IMG}

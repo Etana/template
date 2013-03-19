@@ -1,7 +1,7 @@
 # S_ALBUM_JUMPBOX_SEPERATOR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_ALBUM_JUMPBOX_SEPERATOR}

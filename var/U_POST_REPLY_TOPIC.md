@@ -1,7 +1,7 @@
 # U_POST_REPLY_TOPIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_POST_REPLY_TOPIC}

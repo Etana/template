@@ -1,7 +1,7 @@
 # TO_TOPIC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TO_TOPIC}

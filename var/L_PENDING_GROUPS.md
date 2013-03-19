@@ -1,7 +1,7 @@
 # L_PENDING_GROUPS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_PENDING_GROUPS}

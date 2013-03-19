@@ -1,7 +1,7 @@
 # L_COLOR_BLUE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_COLOR_BLUE}

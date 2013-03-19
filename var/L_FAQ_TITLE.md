@@ -1,7 +1,7 @@
 # L_FAQ_TITLE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_FAQ_TITLE}

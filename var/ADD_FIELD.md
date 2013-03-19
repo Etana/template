@@ -1,7 +1,7 @@
 # ADD_FIELD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ADD_FIELD}

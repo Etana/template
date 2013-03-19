@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL
 
 
-Attribut de [`<!-- BEGIN switch_profile_advanced -->...<!-- END switch_profile_advanced -->`](switch_preferences_menu.switch_profile_advanced.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_profile_advanced -->...<!-- END switch_profile_advanced -->`](switch_preferences_menu.switch_profile_advanced.md#readme).
 
 ```html
 <!-- BEGIN switch_preferences_menu -->

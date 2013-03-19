@@ -1,7 +1,7 @@
 # ALLOW_MASS_PM_NOTIFY_CHECKED
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ALLOW_MASS_PM_NOTIFY_CHECKED}

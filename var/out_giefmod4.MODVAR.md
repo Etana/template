@@ -1,7 +1,7 @@
 # out_giefmod4.MODVAR
 
 
-Attribut de [`<!-- BEGIN out_giefmod4 -->...<!-- END out_giefmod4 -->`](out_giefmod4.md#readme).
+Attribut d'affichage de [`<!-- BEGIN out_giefmod4 -->...<!-- END out_giefmod4 -->`](out_giefmod4.md#readme).
 
 ```html
 <!-- BEGIN out_giefmod4 -->

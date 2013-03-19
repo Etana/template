@@ -1,7 +1,7 @@
 # L_SEARCH_OPTIONS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SEARCH_OPTIONS}

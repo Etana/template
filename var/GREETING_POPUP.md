@@ -1,7 +1,7 @@
 # GREETING_POPUP
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GREETING_POPUP}

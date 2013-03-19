@@ -1,7 +1,7 @@
 # switch_archive
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_archive -->
@@ -14,7 +14,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`report_list_body`](../tpl/var/punbb/report_list_body.md#readme) :__ lignes [`19`](../tpl/src/punbb/report_list_body.tpl#L19), [`21`](../tpl/src/punbb/report_list_body.tpl#L21)
+* __[`report_list_body`](../tpl/var/punbb/report_list_body.md#readme) :__ lignes [`19`](../tpl/src/punbb/report_list_body.tpl#L19)[`<->`](../tpl/src/punbb/report_list_body.tpl#L19-L21)[`21`](../tpl/src/punbb/report_list_body.tpl#L21)
 
 ### Version phpBB2
-* __[`report_list_body`](../tpl/var/subsilver/report_list_body.md#readme) :__ lignes [`5`](../tpl/src/subsilver/report_list_body.tpl#L5), [`7`](../tpl/src/subsilver/report_list_body.tpl#L7)
+* __[`report_list_body`](../tpl/var/subsilver/report_list_body.md#readme) :__ lignes [`5`](../tpl/src/subsilver/report_list_body.tpl#L5)[`<->`](../tpl/src/subsilver/report_list_body.tpl#L5-L7)[`7`](../tpl/src/subsilver/report_list_body.tpl#L7)

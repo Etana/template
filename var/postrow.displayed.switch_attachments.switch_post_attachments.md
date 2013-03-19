@@ -1,7 +1,7 @@
 # postrow.displayed.switch_attachments.switch_post_attachments
 
 
-Attribut de [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](postrow.displayed.switch_attachments.md#readme).
+Attribut de bouclage de [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](postrow.displayed.switch_attachments.md#readme).
 
 ```html
 <!-- BEGIN postrow -->
@@ -29,7 +29,7 @@ Attribut de [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments --
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`192`](../tpl/src/punbb/viewtopic_body.tpl#L192), [`220`](../tpl/src/punbb/viewtopic_body.tpl#L220)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`192`](../tpl/src/punbb/viewtopic_body.tpl#L192)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L192-L220)[`220`](../tpl/src/punbb/viewtopic_body.tpl#L220)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`186`](../tpl/src/subsilver/viewtopic_body.tpl#L186), [`214`](../tpl/src/subsilver/viewtopic_body.tpl#L214)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`186`](../tpl/src/subsilver/viewtopic_body.tpl#L186)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L186-L214)[`214`](../tpl/src/subsilver/viewtopic_body.tpl#L214)

@@ -1,7 +1,7 @@
 # cat_private_footer
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN cat_private_footer -->
@@ -20,7 +20,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`62`](../tpl/src/punbb/album_index_body.tpl#L62), [`64`](../tpl/src/punbb/album_index_body.tpl#L64)
+* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`62`](../tpl/src/punbb/album_index_body.tpl#L62)[`<->`](../tpl/src/punbb/album_index_body.tpl#L62-L64)[`64`](../tpl/src/punbb/album_index_body.tpl#L64)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`97`](../tpl/src/subsilver/album_index_body.tpl#L97), [`101`](../tpl/src/subsilver/album_index_body.tpl#L101)
+* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`97`](../tpl/src/subsilver/album_index_body.tpl#L97)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L97-L101)[`101`](../tpl/src/subsilver/album_index_body.tpl#L101)

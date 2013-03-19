@@ -1,7 +1,7 @@
 # S_SPLIT_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_SPLIT_ACTION}

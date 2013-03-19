@@ -1,7 +1,7 @@
 # OPTIONSITEMS_CLOSE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {OPTIONSITEMS_CLOSE}

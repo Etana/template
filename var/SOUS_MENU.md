@@ -1,7 +1,7 @@
 # SOUS_MENU
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SOUS_MENU}

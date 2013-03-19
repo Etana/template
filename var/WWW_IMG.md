@@ -1,7 +1,7 @@
 # WWW_IMG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {WWW_IMG}

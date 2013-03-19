@@ -1,7 +1,7 @@
 # SELECT_ACTION_NEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SELECT_ACTION_NEW}

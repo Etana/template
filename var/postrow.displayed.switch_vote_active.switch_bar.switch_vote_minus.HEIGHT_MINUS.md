@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS
 
 
-Attribut de [`<!-- BEGIN switch_vote_minus -->...<!-- END switch_vote_minus -->`](postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.md#readme).
+Attribut d'affichage de [`<!-- BEGIN switch_vote_minus -->...<!-- END switch_vote_minus -->`](postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.md#readme).
 
 ```html
 <!-- BEGIN postrow -->

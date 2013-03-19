@@ -1,7 +1,7 @@
 # L_AUTO_LOGIN
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_AUTO_LOGIN}

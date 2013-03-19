@@ -1,7 +1,7 @@
 # L_VALIDATE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_VALIDATE}

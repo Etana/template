@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics.recent_detail
 
 
-Attribut de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](build_categories_block.recent_pics.md#readme).
+Attribut de bouclage de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](build_categories_block.recent_pics.md#readme).
 
 ```html
 <!-- BEGIN build_categories_block -->
@@ -34,7 +34,7 @@ Attribut de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](build_cate
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`27`](../tpl/src/punbb/album_index_body.tpl#L27), [`44`](../tpl/src/punbb/album_index_body.tpl#L44)
+* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`27`](../tpl/src/punbb/album_index_body.tpl#L27)[`<->`](../tpl/src/punbb/album_index_body.tpl#L27-L44)[`44`](../tpl/src/punbb/album_index_body.tpl#L44)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`18`](../tpl/src/subsilver/album_index_body.tpl#L18), [`43`](../tpl/src/subsilver/album_index_body.tpl#L43)
+* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`18`](../tpl/src/subsilver/album_index_body.tpl#L18)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L18-L43)[`43`](../tpl/src/subsilver/album_index_body.tpl#L43)

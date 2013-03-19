@@ -1,7 +1,7 @@
 # JS_DIR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {JS_DIR}

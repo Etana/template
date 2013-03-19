@@ -1,7 +1,7 @@
 # U_ALBUM_NUFFLOAD
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_ALBUM_NUFFLOAD}

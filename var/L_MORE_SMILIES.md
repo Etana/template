@@ -1,7 +1,7 @@
 # L_MORE_SMILIES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_MORE_SMILIES}

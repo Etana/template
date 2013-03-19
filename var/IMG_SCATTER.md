@@ -1,7 +1,7 @@
 # IMG_SCATTER
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {IMG_SCATTER}

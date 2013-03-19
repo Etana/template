@@ -1,7 +1,7 @@
 # S_CONTENT_DIRECTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_CONTENT_DIRECTION}

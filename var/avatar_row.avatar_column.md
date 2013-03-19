@@ -1,7 +1,7 @@
 # avatar_row.avatar_column
 
 
-Attribut de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.md#readme).
+Attribut de bouclage de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.md#readme).
 
 ```html
 <!-- BEGIN avatar_row -->
@@ -22,7 +22,7 @@ Attribut de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.m
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ lignes [`28`](../tpl/src/punbb/profile_avatar_gallery.tpl#L28), [`36`](../tpl/src/punbb/profile_avatar_gallery.tpl#L36)
+* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ lignes [`28`](../tpl/src/punbb/profile_avatar_gallery.tpl#L28)[`<->`](../tpl/src/punbb/profile_avatar_gallery.tpl#L28-L36)[`36`](../tpl/src/punbb/profile_avatar_gallery.tpl#L36)
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ lignes [`16`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L16), [`18`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L18)
+* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ lignes [`16`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L16)[`<->`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L16-L18)[`18`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L18)

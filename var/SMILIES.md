@@ -1,7 +1,7 @@
 # SMILIES
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SMILIES}

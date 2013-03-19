@@ -1,7 +1,7 @@
 # switch_preferences_menu
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN switch_preferences_menu -->
@@ -25,7 +25,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`172`](../tpl/src/punbb/profile_add_body.tpl#L172), [`351`](../tpl/src/punbb/profile_add_body.tpl#L351), [`453`](../tpl/src/punbb/profile_add_body.tpl#L453), [`468`](../tpl/src/punbb/profile_add_body.tpl#L468)
+* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`172`](../tpl/src/punbb/profile_add_body.tpl#L172)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L172-L351)[`351`](../tpl/src/punbb/profile_add_body.tpl#L351), [`453`](../tpl/src/punbb/profile_add_body.tpl#L453)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L453-L468)[`468`](../tpl/src/punbb/profile_add_body.tpl#L468)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`120`](../tpl/src/subsilver/profile_add_body.tpl#L120), [`309`](../tpl/src/subsilver/profile_add_body.tpl#L309), [`393`](../tpl/src/subsilver/profile_add_body.tpl#L393), [`408`](../tpl/src/subsilver/profile_add_body.tpl#L408)
+* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`120`](../tpl/src/subsilver/profile_add_body.tpl#L120)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L120-L309)[`309`](../tpl/src/subsilver/profile_add_body.tpl#L309), [`393`](../tpl/src/subsilver/profile_add_body.tpl#L393)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L393-L408)[`408`](../tpl/src/subsilver/profile_add_body.tpl#L408)

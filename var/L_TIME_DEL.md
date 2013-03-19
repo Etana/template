@@ -1,7 +1,7 @@
 # L_TIME_DEL
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TIME_DEL}

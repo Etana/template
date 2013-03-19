@@ -1,7 +1,7 @@
 # INBOX_LIMIT_PERCENT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INBOX_LIMIT_PERCENT}

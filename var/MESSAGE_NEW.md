@@ -1,7 +1,7 @@
 # MESSAGE_NEW
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {MESSAGE_NEW}

@@ -1,7 +1,7 @@
 # V_CAL_DUR_HOUR
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {V_CAL_DUR_HOUR}

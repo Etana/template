@@ -1,7 +1,7 @@
 # POSTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {POSTS}

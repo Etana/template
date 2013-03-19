@@ -1,7 +1,7 @@
 # disable_viewonline.switch_chatbox_activate
 
 
-Attribut de [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline -->`](disable_viewonline.md#readme).
+Attribut de bouclage de [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline -->`](disable_viewonline.md#readme).
 
 ```html
 <!-- BEGIN disable_viewonline -->
@@ -20,7 +20,7 @@ Attribut de [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline --
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`87`](../tpl/src/punbb/index_body.tpl#L87), [`100`](../tpl/src/punbb/index_body.tpl#L100)
+* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`87`](../tpl/src/punbb/index_body.tpl#L87)[`<->`](../tpl/src/punbb/index_body.tpl#L87-L100)[`100`](../tpl/src/punbb/index_body.tpl#L100)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`205`](../tpl/src/subsilver/index_body.tpl#L205), [`220`](../tpl/src/subsilver/index_body.tpl#L220)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`205`](../tpl/src/subsilver/index_body.tpl#L205)[`<->`](../tpl/src/subsilver/index_body.tpl#L205-L220)[`220`](../tpl/src/subsilver/index_body.tpl#L220)

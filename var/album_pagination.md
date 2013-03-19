@@ -1,7 +1,7 @@
 # album_pagination
 
 
-Variable.
+Variable de bouclage.
 
 ```html
 <!-- BEGIN album_pagination -->
@@ -18,7 +18,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`19`](../tpl/src/punbb/album_cat_body.tpl#L19), [`21`](../tpl/src/punbb/album_cat_body.tpl#L21)
+* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`19`](../tpl/src/punbb/album_cat_body.tpl#L19)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L19-L21)[`21`](../tpl/src/punbb/album_cat_body.tpl#L21)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`107`](../tpl/src/subsilver/album_cat_body.tpl#L107), [`107`](../tpl/src/subsilver/album_cat_body.tpl#L107)
+* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`107`](../tpl/src/subsilver/album_cat_body.tpl#L107)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L107-L107)[`107`](../tpl/src/subsilver/album_cat_body.tpl#L107)

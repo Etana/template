@@ -1,7 +1,7 @@
 # SORT_ALBUM_ASC
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SORT_ALBUM_ASC}

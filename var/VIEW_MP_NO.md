@@ -1,7 +1,7 @@
 # VIEW_MP_NO
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {VIEW_MP_NO}

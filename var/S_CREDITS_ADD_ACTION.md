@@ -1,7 +1,7 @@
 # S_CREDITS_ADD_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_CREDITS_ADD_ACTION}

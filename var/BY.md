@@ -1,7 +1,7 @@
 # BY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {BY}

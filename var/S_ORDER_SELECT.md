@@ -1,7 +1,7 @@
 # S_ORDER_SELECT
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_ORDER_SELECT}

@@ -1,7 +1,7 @@
 # S_JUMPBOX_ACTION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_JUMPBOX_ACTION}

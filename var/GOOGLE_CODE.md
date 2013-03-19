@@ -1,7 +1,7 @@
 # GOOGLE_CODE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {GOOGLE_CODE}

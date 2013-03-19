@@ -1,7 +1,7 @@
 # REGISTRATION
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {REGISTRATION}

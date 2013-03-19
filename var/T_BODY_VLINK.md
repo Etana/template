@@ -1,7 +1,7 @@
 # T_BODY_VLINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {T_BODY_VLINK}

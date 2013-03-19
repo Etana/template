@@ -1,7 +1,7 @@
 # U_TODAY_ACTIVE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {U_TODAY_ACTIVE}

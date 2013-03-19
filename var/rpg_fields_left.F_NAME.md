@@ -1,7 +1,7 @@
 # rpg_fields_left.F_NAME
 
 
-Attribut de [`<!-- BEGIN rpg_fields_left -->...<!-- END rpg_fields_left -->`](rpg_fields_left.md#readme).
+Attribut d'affichage de [`<!-- BEGIN rpg_fields_left -->...<!-- END rpg_fields_left -->`](rpg_fields_left.md#readme).
 
 ```html
 <!-- BEGIN rpg_fields_left -->

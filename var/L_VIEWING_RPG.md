@@ -1,7 +1,7 @@
 # L_VIEWING_RPG
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_VIEWING_RPG}

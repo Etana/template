@@ -1,7 +1,7 @@
 # L_SORT_BY
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_SORT_BY}

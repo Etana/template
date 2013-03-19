@@ -1,7 +1,7 @@
 # CHATBOX_BOTTOM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CHATBOX_BOTTOM}

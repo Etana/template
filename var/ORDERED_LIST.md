@@ -1,7 +1,7 @@
 # ORDERED_LIST
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {ORDERED_LIST}

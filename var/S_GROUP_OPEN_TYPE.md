@@ -1,7 +1,7 @@
 # S_GROUP_OPEN_TYPE
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {S_GROUP_OPEN_TYPE}

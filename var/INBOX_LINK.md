@@ -1,7 +1,7 @@
 # INBOX_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {INBOX_LINK}

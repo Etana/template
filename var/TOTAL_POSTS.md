@@ -1,7 +1,7 @@
 # TOTAL_POSTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {TOTAL_POSTS}

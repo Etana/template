@@ -1,7 +1,7 @@
 # L_INFOS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_INFOS}

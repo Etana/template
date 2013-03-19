@@ -1,7 +1,7 @@
 # SAVEBOX_LINK
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {SAVEBOX_LINK}

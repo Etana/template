@@ -1,7 +1,7 @@
 # L_NO_PICS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_NO_PICS}

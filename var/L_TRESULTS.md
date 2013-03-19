@@ -1,7 +1,7 @@
 # L_TRESULTS
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {L_TRESULTS}

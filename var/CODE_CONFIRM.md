@@ -1,7 +1,7 @@
 # CODE_CONFIRM
 
 
-Variable.
+Variable d'affichage.
 
 ```html
 {CODE_CONFIRM}
