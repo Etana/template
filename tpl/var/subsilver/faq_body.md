@@ -3,13 +3,16 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/faq_body.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/faq_body)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/faq_body)
+`Utilisé pour la FAQ de votre forum`.
+
+Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est ni activé, ni autorisé : `/faq?dhtml=no`
 
 ## Variables
 
-* __[`{JUMPBOX}`](https://github.com/Etana/template.list/blob/master/var/JUMPBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/JUMPBOX">*</a> :__ ligne [`55`](../../src/subsilver/faq_body.tpl#L55)
+* __[`{JUMPBOX}`](https://github.com/Etana/template.list/blob/master/var/JUMPBOX.md#readme) :__ ligne [`55`](../../src/subsilver/faq_body.tpl#L55)
 * __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template.list/blob/master/var/L_BACK_TO_TOP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BACK_TO_TOP">*</a> :__ ligne [`40`](../../src/subsilver/faq_body.tpl#L40)
-* __[`{L_FAQ_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_FAQ_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FAQ_TITLE">*</a> :__ ligne [`4`](../../src/subsilver/faq_body.tpl#L4)
+* __[`{L_FAQ_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_FAQ_TITLE.md#readme) :__ ligne [`4`](../../src/subsilver/faq_body.tpl#L4)
 * __[`<!-- BEGIN faq_block -->`](https://github.com/Etana/template.list/blob/master/var/faq_block.md#readme)<a href="https://fa-tvars.appspot.com/var/faq_block">*</a> :__ ligne [`23`](../../src/subsilver/faq_body.tpl#L23)
     * __[`{faq_block.BLOCK_TITLE}`](https://github.com/Etana/template.list/blob/master/var/faq_block.BLOCK_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/faq_block.BLOCK_TITLE">*</a> :__ ligne [`27`](../../src/subsilver/faq_body.tpl#L27)
     * __[`<!-- BEGIN faq_row -->`](https://github.com/Etana/template.list/blob/master/var/faq_block.faq_row.md#readme)<a href="https://fa-tvars.appspot.com/var/faq_block.faq_row">*</a> :__ ligne [`30`](../../src/subsilver/faq_body.tpl#L30)

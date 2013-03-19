@@ -7,13 +7,13 @@
 
 ## Variables
 
-* __[`{JUMPBOX}`](https://github.com/Etana/template.list/blob/master/var/JUMPBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/JUMPBOX">*</a> :__ ligne [`60`](../../src/subsilver/viewonline_body.tpl#L60)
+* __[`{JUMPBOX}`](https://github.com/Etana/template.list/blob/master/var/JUMPBOX.md#readme) :__ ligne [`60`](../../src/subsilver/viewonline_body.tpl#L60)
 * __[`{L_FORUM_LOCATION}`](https://github.com/Etana/template.list/blob/master/var/L_FORUM_LOCATION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FORUM_LOCATION">*</a> :__ ligne [`18`](../../src/subsilver/viewonline_body.tpl#L18)
 * __[`{L_INDEX}`](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme) :__ ligne [`11`](../../src/subsilver/viewonline_body.tpl#L11)
 * __[`{L_LAST_UPDATE}`](https://github.com/Etana/template.list/blob/master/var/L_LAST_UPDATE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LAST_UPDATE">*</a> :__ ligne [`17`](../../src/subsilver/viewonline_body.tpl#L17)
 * __[`{L_ONLINE_EXPLAIN}`](https://github.com/Etana/template.list/blob/master/var/L_ONLINE_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ONLINE_EXPLAIN">*</a> :__ ligne [`53`](../../src/subsilver/viewonline_body.tpl#L53)
 * __[`{L_USERNAME}`](https://github.com/Etana/template.list/blob/master/var/L_USERNAME.md#readme) :__ ligne [`16`](../../src/subsilver/viewonline_body.tpl#L16)
-* __[`{S_TIMEZONE}`](https://github.com/Etana/template.list/blob/master/var/S_TIMEZONE.md#readme)<a href="https://fa-tvars.appspot.com/var/S_TIMEZONE">*</a> :__ ligne [`54`](../../src/subsilver/viewonline_body.tpl#L54)
+* __[`{S_TIMEZONE}`](https://github.com/Etana/template.list/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`54`](../../src/subsilver/viewonline_body.tpl#L54)
 * __[`{TOTAL_GUEST_USERS_ONLINE}`](https://github.com/Etana/template.list/blob/master/var/TOTAL_GUEST_USERS_ONLINE.md#readme)<a href="https://fa-tvars.appspot.com/var/TOTAL_GUEST_USERS_ONLINE">*</a> :__ ligne [`34`](../../src/subsilver/viewonline_body.tpl#L34)
 * __[`{TOTAL_REGISTERED_USERS_ONLINE}`](https://github.com/Etana/template.list/blob/master/var/TOTAL_REGISTERED_USERS_ONLINE.md#readme)<a href="https://fa-tvars.appspot.com/var/TOTAL_REGISTERED_USERS_ONLINE">*</a> :__ ligne [`21`](../../src/subsilver/viewonline_body.tpl#L21)
 * __[`{U_INDEX}`](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme) :__ ligne [`11`](../../src/subsilver/viewonline_body.tpl#L11)

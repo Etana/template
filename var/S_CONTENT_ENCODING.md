@@ -7,7 +7,8 @@ Variable d'affichage.
 {S_CONTENT_ENCODING}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING)
+##Description[*](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING)
+Contient l'encodage de votre forum (windows-1252 ou UTF-8).
 
 ## Utilisations dans les templates
 

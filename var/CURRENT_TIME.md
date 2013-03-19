@@ -7,7 +7,10 @@ Variable d'affichage.
 {CURRENT_TIME}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/CURRENT_TIME)
+##Description[*](https://fa-tvars.appspot.com/var/CURRENT_TIME)
+Chaîne de texte.
+
+* __Contenu en français :__ `La date/heure actuelle est JJJ JJ MMM AAAA - HH:MM`
 
 ## Utilisations dans les templates
 

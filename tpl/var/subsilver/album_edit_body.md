@@ -20,7 +20,7 @@
 * __[`{L_RESET}`](https://github.com/Etana/template.list/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ ligne [`59`](../../src/subsilver/album_edit_body.tpl#L59)
 * __[`{L_SUBMIT}`](https://github.com/Etana/template.list/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`59`](../../src/subsilver/album_edit_body.tpl#L59)
 * __[`{L_UPLOAD_NO_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_UPLOAD_NO_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_NO_TITLE">*</a> :__ ligne [`9`](../../src/subsilver/album_edit_body.tpl#L9)
-* __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_CAT_DESC">*</a> :__ ligne [`36`](../../src/subsilver/album_edit_body.tpl#L36)
+* __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`36`](../../src/subsilver/album_edit_body.tpl#L36)
 * __[`{NAV_SEP}`](https://github.com/Etana/template.list/blob/master/var/NAV_SEP.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_SEP">*</a> :__ ligne [`34`](../../src/subsilver/album_edit_body.tpl#L34)
 * __[`{PIC_DESC}`](https://github.com/Etana/template.list/blob/master/var/PIC_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/PIC_DESC">*</a> :__ ligne [`49`](../../src/subsilver/album_edit_body.tpl#L49)
 * __[`{PIC_TITLE}`](https://github.com/Etana/template.list/blob/master/var/PIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/PIC_TITLE">*</a> :__ ligne [`45`](../../src/subsilver/album_edit_body.tpl#L45)

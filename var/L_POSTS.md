@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_POSTS}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POSTS)
+##Description[*](https://fa-tvars.appspot.com/var/L_POSTS)
+Chaîne de texte.
+
+* __Contenu en français :__ `Messages`
 
 ## Utilisations dans les templates
 

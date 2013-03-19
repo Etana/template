@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_LASTPOST}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LASTPOST)
+##Description[*](https://fa-tvars.appspot.com/var/L_LASTPOST)
+Chaîne de texte.
+
+* __Contenu en français :__ `Derniers Messages`
 
 ## Utilisations dans les templates
 

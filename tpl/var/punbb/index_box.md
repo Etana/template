@@ -7,15 +7,15 @@
 
 ## Variables
 
-* __[`{L_FORUM}`](https://github.com/Etana/template.list/blob/master/var/L_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FORUM">*</a> :__ ligne [`14`](../../src/punbb/index_box.tpl#L14)
+* __[`{L_FORUM}`](https://github.com/Etana/template.list/blob/master/var/L_FORUM.md#readme) :__ ligne [`14`](../../src/punbb/index_box.tpl#L14)
 * __[`{L_INDEX}`](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme) :__ ligne [`2`](../../src/punbb/index_box.tpl#L2)
-* __[`{L_LASTPOST}`](https://github.com/Etana/template.list/blob/master/var/L_LASTPOST.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LASTPOST">*</a> :__ ligne [`17`](../../src/punbb/index_box.tpl#L17)
+* __[`{L_LASTPOST}`](https://github.com/Etana/template.list/blob/master/var/L_LASTPOST.md#readme) :__ ligne [`17`](../../src/punbb/index_box.tpl#L17)
 * __[`{L_OVERALL_POSTERS}`](https://github.com/Etana/template.list/blob/master/var/L_OVERALL_POSTERS.md#readme) :__ ligne [`65`](../../src/punbb/index_box.tpl#L65)
-* __[`{L_POSTS}`](https://github.com/Etana/template.list/blob/master/var/L_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTS">*</a> :__ ligne [`16`](../../src/punbb/index_box.tpl#L16)
+* __[`{L_POSTS}`](https://github.com/Etana/template.list/blob/master/var/L_POSTS.md#readme) :__ ligne [`16`](../../src/punbb/index_box.tpl#L16)
 * __[`{L_TODAY_ACTIVE}`](https://github.com/Etana/template.list/blob/master/var/L_TODAY_ACTIVE.md#readme) :__ ligne [`63`](../../src/punbb/index_box.tpl#L63)
 * __[`{L_TODAY_POSTERS}`](https://github.com/Etana/template.list/blob/master/var/L_TODAY_POSTERS.md#readme) :__ ligne [`64`](../../src/punbb/index_box.tpl#L64)
-* __[`{L_TOPICS}`](https://github.com/Etana/template.list/blob/master/var/L_TOPICS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPICS">*</a> :__ ligne [`15`](../../src/punbb/index_box.tpl#L15)
-* __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_CAT_DESC">*</a> :__ ligne [`2`](../../src/punbb/index_box.tpl#L2)
+* __[`{L_TOPICS}`](https://github.com/Etana/template.list/blob/master/var/L_TOPICS.md#readme) :__ ligne [`15`](../../src/punbb/index_box.tpl#L15)
+* __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`2`](../../src/punbb/index_box.tpl#L2)
 * __[`{U_INDEX}`](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme) :__ ligne [`2`](../../src/punbb/index_box.tpl#L2)
 * __[`{U_OVERALL_POSTERS}`](https://github.com/Etana/template.list/blob/master/var/U_OVERALL_POSTERS.md#readme) :__ ligne [`65`](../../src/punbb/index_box.tpl#L65)
 * __[`{U_TODAY_ACTIVE}`](https://github.com/Etana/template.list/blob/master/var/U_TODAY_ACTIVE.md#readme) :__ ligne [`63`](../../src/punbb/index_box.tpl#L63)

@@ -8,7 +8,7 @@ Variable d'affichage.
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/BOARD_INDEX)
-Affiche le contenu du template [`{INDEX_BOX}`](https://github.com/Etana/template.list/blob/master/var/INDEX_BOX.md#readme).
+Affiche le contenu du template [`phpbb2 > index_box`](https://github.com/Etana/template.list/blob/master/tpl/var/subsilver/index_box.md#readme) ou [`punbb > index_box`](https://github.com/Etana/template.list/blob/master/tpl/var/punbb/index_box.md#readme).
 
 *Attention : si vous supprimez cette variable, vos catégories et forums ne seront plus affichés !*
 

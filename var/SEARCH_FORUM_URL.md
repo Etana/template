@@ -7,7 +7,8 @@ Variable d'affichage.
 {SEARCH_FORUM_URL}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCH_FORUM_URL)
+##Description[*](https://fa-tvars.appspot.com/var/SEARCH_FORUM_URL)
+Affiche l'adresse de votre forum.
 
 ## Utilisations dans les templates
 

@@ -7,7 +7,8 @@ Variable d'affichage.
 {L_LANG_HL}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LANG_HL)
+##Description[*](https://fa-tvars.appspot.com/var/L_LANG_HL)
+Contient la langue de votre forum.
 
 ## Utilisations dans les templates
 

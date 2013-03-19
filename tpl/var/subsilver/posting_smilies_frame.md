@@ -13,7 +13,7 @@
 * __[`{L_SMILIES_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_SMILIES_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SMILIES_TITLE">*</a> :__ ligne [`4`](../../src/subsilver/posting_smilies_frame.tpl#L4)
 * __[`{L_VIEW_MORE}`](https://github.com/Etana/template.list/blob/master/var/L_VIEW_MORE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEW_MORE">*</a> :__ ligne [`23`](../../src/subsilver/posting_smilies_frame.tpl#L23)
 * __[`{SELECT_OPTIONS}`](https://github.com/Etana/template.list/blob/master/var/SELECT_OPTIONS.md#readme)<a href="https://fa-tvars.appspot.com/var/SELECT_OPTIONS">*</a> :__ ligne [`23`](../../src/subsilver/posting_smilies_frame.tpl#L23)
-* __[`{S_CONTENT_ENCODING}`](https://github.com/Etana/template.list/blob/master/var/S_CONTENT_ENCODING.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING">*</a> :__ ligne [`8`](../../src/subsilver/posting_smilies_frame.tpl#L8)
+* __[`{S_CONTENT_ENCODING}`](https://github.com/Etana/template.list/blob/master/var/S_CONTENT_ENCODING.md#readme) :__ ligne [`8`](../../src/subsilver/posting_smilies_frame.tpl#L8)
 * __[`{T_BODY_BGCOLOR}`](https://github.com/Etana/template.list/blob/master/var/T_BODY_BGCOLOR.md#readme) :__ ligne [`12`](../../src/subsilver/posting_smilies_frame.tpl#L12)
 * __[`{T_BODY_TEXT}`](https://github.com/Etana/template.list/blob/master/var/T_BODY_TEXT.md#readme) :__ ligne [`15`](../../src/subsilver/posting_smilies_frame.tpl#L15)
 * __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template.list/blob/master/var/T_HEAD_STYLESHEET.md#readme)<a href="https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET">*</a> :__ ligne [`5`](../../src/subsilver/posting_smilies_frame.tpl#L5)

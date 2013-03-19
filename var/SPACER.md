@@ -7,7 +7,8 @@ Variable d'affichage.
 {SPACER}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SPACER)
+##Description[*](https://fa-tvars.appspot.com/var/SPACER)
+Adresse URL d'une image vide : `http://illiweb.com/fa/empty.gif`
 
 ## Utilisations dans les templates
 

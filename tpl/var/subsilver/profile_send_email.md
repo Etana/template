@@ -8,7 +8,7 @@
 ## Variables
 
 * __[`{ERROR_BOX}`](https://github.com/Etana/template.list/blob/master/var/ERROR_BOX.md#readme)<a href="https://fa-tvars.appspot.com/var/ERROR_BOX">*</a> :__ ligne [`1`](../../src/subsilver/profile_send_email.tpl#L1)
-* __[`{JUMPBOX}`](https://github.com/Etana/template.list/blob/master/var/JUMPBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/JUMPBOX">*</a> :__ ligne [`57`](../../src/subsilver/profile_send_email.tpl#L57)
+* __[`{JUMPBOX}`](https://github.com/Etana/template.list/blob/master/var/JUMPBOX.md#readme) :__ ligne [`57`](../../src/subsilver/profile_send_email.tpl#L57)
 * __[`{L_CC_EMAIL}`](https://github.com/Etana/template.list/blob/master/var/L_CC_EMAIL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CC_EMAIL">*</a> :__ ligne [`40`](../../src/subsilver/profile_send_email.tpl#L40)
 * __[`{L_INDEX}`](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme) :__ ligne [`4`](../../src/subsilver/profile_send_email.tpl#L4)
 * __[`{L_MESSAGE_BODY}`](https://github.com/Etana/template.list/blob/master/var/L_MESSAGE_BODY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MESSAGE_BODY">*</a> :__ ligne [`26`](../../src/subsilver/profile_send_email.tpl#L26)
@@ -23,7 +23,7 @@
 * __[`{SUBJECT}`](https://github.com/Etana/template.list/blob/master/var/SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/SUBJECT">*</a> :__ ligne [`23`](../../src/subsilver/profile_send_email.tpl#L23)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template.list/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`46`](../../src/subsilver/profile_send_email.tpl#L46)
 * __[`{S_POST_ACTION}`](https://github.com/Etana/template.list/blob/master/var/S_POST_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_POST_ACTION">*</a> :__ ligne [`1`](../../src/subsilver/profile_send_email.tpl#L1)
-* __[`{S_TIMEZONE}`](https://github.com/Etana/template.list/blob/master/var/S_TIMEZONE.md#readme)<a href="https://fa-tvars.appspot.com/var/S_TIMEZONE">*</a> :__ ligne [`51`](../../src/subsilver/profile_send_email.tpl#L51)
+* __[`{S_TIMEZONE}`](https://github.com/Etana/template.list/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`51`](../../src/subsilver/profile_send_email.tpl#L51)
 * __[`{USERNAME}`](https://github.com/Etana/template.list/blob/master/var/USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/USERNAME">*</a> :__ ligne [`13`](../../src/subsilver/profile_send_email.tpl#L13)
 * __[`{U_INDEX}`](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme) :__ ligne [`4`](../../src/subsilver/profile_send_email.tpl#L4)
 * __[`<!-- BEGIN switch_tell_friend -->`](https://github.com/Etana/template.list/blob/master/var/switch_tell_friend.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_tell_friend">*</a> :__ lignes [`15`](../../src/subsilver/profile_send_email.tpl#L15), [`29`](../../src/subsilver/profile_send_email.tpl#L29)

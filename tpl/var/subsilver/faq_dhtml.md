@@ -3,16 +3,19 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/faq_dhtml.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/faq_dhtml)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/faq_dhtml)
+`Faq version dhtml`.
+
+Ce template touche la Foire Aux Questions de votre forum si le JavaScript est activé et autorisé : `/faq`
 
 ## Variables
 
-* __[`{JUMPBOX}`](https://github.com/Etana/template.list/blob/master/var/JUMPBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/JUMPBOX">*</a> :__ ligne [`59`](../../src/subsilver/faq_dhtml.tpl#L59)
-* __[`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template.list/blob/master/var/L_CFAQ_NOSCRIPT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CFAQ_NOSCRIPT">*</a> :__ ligne [`6`](../../src/subsilver/faq_dhtml.tpl#L6)
-* __[`{L_FAQ_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_FAQ_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FAQ_TITLE">*</a> :__ ligne [`19`](../../src/subsilver/faq_dhtml.tpl#L19)
+* __[`{JUMPBOX}`](https://github.com/Etana/template.list/blob/master/var/JUMPBOX.md#readme) :__ ligne [`59`](../../src/subsilver/faq_dhtml.tpl#L59)
+* __[`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template.list/blob/master/var/L_CFAQ_NOSCRIPT.md#readme) :__ ligne [`6`](../../src/subsilver/faq_dhtml.tpl#L6)
+* __[`{L_FAQ_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_FAQ_TITLE.md#readme) :__ ligne [`19`](../../src/subsilver/faq_dhtml.tpl#L19)
 * __[`{L_INDEX}`](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme) :__ ligne [`13`](../../src/subsilver/faq_dhtml.tpl#L13)
-* __[`{S_TIMEZONE}`](https://github.com/Etana/template.list/blob/master/var/S_TIMEZONE.md#readme)<a href="https://fa-tvars.appspot.com/var/S_TIMEZONE">*</a> :__ ligne [`56`](../../src/subsilver/faq_dhtml.tpl#L56)
-* __[`{U_CFAQ_JSLIB}`](https://github.com/Etana/template.list/blob/master/var/U_CFAQ_JSLIB.md#readme)<a href="https://fa-tvars.appspot.com/var/U_CFAQ_JSLIB">*</a> :__ ligne [`1`](../../src/subsilver/faq_dhtml.tpl#L1)
+* __[`{S_TIMEZONE}`](https://github.com/Etana/template.list/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`56`](../../src/subsilver/faq_dhtml.tpl#L56)
+* __[`{U_CFAQ_JSLIB}`](https://github.com/Etana/template.list/blob/master/var/U_CFAQ_JSLIB.md#readme) :__ ligne [`1`](../../src/subsilver/faq_dhtml.tpl#L1)
 * __[`{U_INDEX}`](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme) :__ ligne [`13`](../../src/subsilver/faq_dhtml.tpl#L13)
 * __[`<!-- BEGIN faq_block -->`](https://github.com/Etana/template.list/blob/master/var/faq_block.md#readme)<a href="https://fa-tvars.appspot.com/var/faq_block">*</a> :__ ligne [`24`](../../src/subsilver/faq_dhtml.tpl#L24)
     * __[`{faq_block.BLOCK_TITLE}`](https://github.com/Etana/template.list/blob/master/var/faq_block.BLOCK_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/faq_block.BLOCK_TITLE">*</a> :__ ligne [`27`](../../src/subsilver/faq_dhtml.tpl#L27)

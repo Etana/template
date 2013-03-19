@@ -10,7 +10,7 @@ Attribut d'affichage de [`<!-- BEGIN giefmod_index1 -->...<!-- END giefmod_index
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/giefmod_index1.MODVAR)
-Affiche les widgets du forum un par un.
+Affiche les widgets de la colonne de gauche un par un.
 
 ## Utilisations dans les templates
 

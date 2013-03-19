@@ -7,7 +7,8 @@ Variable d'affichage.
 {U_SEARCH_UNANSWERED}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED)
+##Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED)
+Lien vers "Voir les messages sans réponses" : `/search?search_id=unanswered`
 
 ## Utilisations dans les templates
 

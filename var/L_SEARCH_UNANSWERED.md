@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SEARCH_UNANSWERED}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_UNANSWERED)
+##Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_UNANSWERED)
+Chaîne de texte.
+
+* __Contenu en français :__ `Voir les messages sans réponses`
 
 ## Utilisations dans les templates
 

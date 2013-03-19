@@ -3,7 +3,8 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/overall_header.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/overall_header)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/overall_header)
+[`phpbb2 > agreement`](https://github.com/Etana/template.list/blob/master/tpl/var/subsilver/agreement.md#readme)
 
 ## Variables
 
@@ -46,9 +47,9 @@
 * __[`{SITENAME}`](https://github.com/Etana/template.list/blob/master/var/SITENAME.md#readme) :__ lignes [`20`](../../src/subsilver/overall_header.tpl#L20), [`220`](../../src/subsilver/overall_header.tpl#L220)
 * __[`{SITENAME_TITLE}`](https://github.com/Etana/template.list/blob/master/var/SITENAME_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/SITENAME_TITLE">*</a> :__ lignes [`4`](../../src/subsilver/overall_header.tpl#L4), [`17`](../../src/subsilver/overall_header.tpl#L17)
 * __[`{SITE_DESCRIPTION}`](https://github.com/Etana/template.list/blob/master/var/SITE_DESCRIPTION.md#readme) :__ ligne [`257`](../../src/subsilver/overall_header.tpl#L257)
-* __[`{SPACE_ROW}`](https://github.com/Etana/template.list/blob/master/var/SPACE_ROW.md#readme)<a href="https://fa-tvars.appspot.com/var/SPACE_ROW">*</a> :__ ligne [`321`](../../src/subsilver/overall_header.tpl#L321)
+* __[`{SPACE_ROW}`](https://github.com/Etana/template.list/blob/master/var/SPACE_ROW.md#readme) :__ ligne [`321`](../../src/subsilver/overall_header.tpl#L321)
 * __[`{S_CONTENT_DIRECTION}`](https://github.com/Etana/template.list/blob/master/var/S_CONTENT_DIRECTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION">*</a> :__ ligne [`2`](../../src/subsilver/overall_header.tpl#L2)
-* __[`{S_CONTENT_ENCODING}`](https://github.com/Etana/template.list/blob/master/var/S_CONTENT_ENCODING.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING">*</a> :__ ligne [`5`](../../src/subsilver/overall_header.tpl#L5)
+* __[`{S_CONTENT_ENCODING}`](https://github.com/Etana/template.list/blob/master/var/S_CONTENT_ENCODING.md#readme) :__ ligne [`5`](../../src/subsilver/overall_header.tpl#L5)
 * __[`{S_LOGIN_ACTION}`](https://github.com/Etana/template.list/blob/master/var/S_LOGIN_ACTION.md#readme) :__ ligne [`226`](../../src/subsilver/overall_header.tpl#L226)
 * __[`{T_BODY_BACKGROUND}`](https://github.com/Etana/template.list/blob/master/var/T_BODY_BACKGROUND.md#readme) :__ ligne [`201`](../../src/subsilver/overall_header.tpl#L201)
 * __[`{T_BODY_BGCOLOR}`](https://github.com/Etana/template.list/blob/master/var/T_BODY_BGCOLOR.md#readme) :__ ligne [`201`](../../src/subsilver/overall_header.tpl#L201)
@@ -63,7 +64,7 @@
 * __[`{U_REGISTER}`](https://github.com/Etana/template.list/blob/master/var/U_REGISTER.md#readme) :__ ligne [`228`](../../src/subsilver/overall_header.tpl#L228)
 * __[`<!-- BEGIN giefmod_index1 -->`](https://github.com/Etana/template.list/blob/master/var/giefmod_index1.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod_index1">*</a> :__ ligne [`318`](../../src/subsilver/overall_header.tpl#L318)
     * __[`{giefmod_index1.MODVAR}`](https://github.com/Etana/template.list/blob/master/var/giefmod_index1.MODVAR.md#readme) :__ ligne [`319`](../../src/subsilver/overall_header.tpl#L319)
-    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template.list/blob/master/var/giefmod_index1.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod_index1.saut">*</a> :__ ligne [`320`](../../src/subsilver/overall_header.tpl#L320)
+    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template.list/blob/master/var/giefmod_index1.saut.md#readme) :__ ligne [`320`](../../src/subsilver/overall_header.tpl#L320)
     * __[`<!-- END saut -->`](https://github.com/Etana/template.list/blob/master/var/giefmod_index1.saut.md#readme) :__ ligne [`322`](../../src/subsilver/overall_header.tpl#L322)
 * __[`<!-- END giefmod_index1 -->`](https://github.com/Etana/template.list/blob/master/var/giefmod_index1.md#readme) :__ ligne [`323`](../../src/subsilver/overall_header.tpl#L323)
 * __[`<!-- BEGIN google_analytics_code -->`](https://github.com/Etana/template.list/blob/master/var/google_analytics_code.md#readme)<a href="https://fa-tvars.appspot.com/var/google_analytics_code">*</a> :__ ligne [`179`](../../src/subsilver/overall_header.tpl#L179)

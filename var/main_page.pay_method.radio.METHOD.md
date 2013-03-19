@@ -13,7 +13,10 @@ Attribut d'affichage de [`<!-- BEGIN radio -->...<!-- END radio -->`](main_page.
 <!-- END main_page -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio.METHOD)
+##Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio.METHOD)
+Variable importante au fonctionnement des donations.
+
+*Ne pas toucher à cette variable !*
 
 ## Utilisations dans les templates
 

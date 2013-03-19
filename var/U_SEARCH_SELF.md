@@ -7,7 +7,8 @@ Variable d'affichage.
 {U_SEARCH_SELF}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH_SELF)
+##Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_SELF)
+Lien vers "Voir ses messages" : `/search?search_id=egosearch`
 
 ## Utilisations dans les templates
 

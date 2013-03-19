@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SORT_ASCENDING}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SORT_ASCENDING)
+##Description[*](https://fa-tvars.appspot.com/var/L_SORT_ASCENDING)
+Chaîne de texte.
+
+* __Contenu en français :__ `Croissant`
 
 ## Utilisations dans les templates
 

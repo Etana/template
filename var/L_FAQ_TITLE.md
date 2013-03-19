@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_FAQ_TITLE}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FAQ_TITLE)
+##Description[*](https://fa-tvars.appspot.com/var/L_FAQ_TITLE)
+Chaîne de texte.
+
+* __Contenu en français :__ `FAQ`
 
 ## Utilisations dans les templates
 

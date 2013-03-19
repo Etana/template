@@ -7,7 +7,8 @@ Variable d'affichage.
 {S_TIME_OPTIONS}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_TIME_OPTIONS)
+##Description[*](https://fa-tvars.appspot.com/var/S_TIME_OPTIONS)
+Contient une liste de date pour la recherche.
 
 ## Utilisations dans les templates
 

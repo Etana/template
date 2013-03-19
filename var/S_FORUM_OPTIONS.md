@@ -7,7 +7,8 @@ Variable d'affichage.
 {S_FORUM_OPTIONS}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_FORUM_OPTIONS)
+##Description[*](https://fa-tvars.appspot.com/var/S_FORUM_OPTIONS)
+Contient la liste de vos catégories et forums.
 
 ## Utilisations dans les templates
 

@@ -17,7 +17,7 @@
 * __[`{L_PIC_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_PIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PIC_TITLE">*</a> :__ ligne [`20`](../../src/subsilver/album_cat_top10.tpl#L20)
 * __[`{L_POSTER}`](https://github.com/Etana/template.list/blob/master/var/L_POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTER">*</a> :__ ligne [`21`](../../src/subsilver/album_cat_top10.tpl#L21)
 * __[`{L_TOP10_STATS}`](https://github.com/Etana/template.list/blob/master/var/L_TOP10_STATS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOP10_STATS">*</a> :__ ligne [`6`](../../src/subsilver/album_cat_top10.tpl#L6)
-* __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_CAT_DESC">*</a> :__ ligne [`6`](../../src/subsilver/album_cat_top10.tpl#L6)
+* __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`6`](../../src/subsilver/album_cat_top10.tpl#L6)
 * __[`{NAV_SEP}`](https://github.com/Etana/template.list/blob/master/var/NAV_SEP.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_SEP">*</a> :__ ligne [`5`](../../src/subsilver/album_cat_top10.tpl#L5)
 * __[`{STYLE_CSS}`](https://github.com/Etana/template.list/blob/master/var/STYLE_CSS.md#readme)<a href="https://fa-tvars.appspot.com/var/STYLE_CSS">*</a> :__ ligne [`1`](../../src/subsilver/album_cat_top10.tpl#L1)
 * __[`{U_ALBUM}`](https://github.com/Etana/template.list/blob/master/var/U_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/U_ALBUM">*</a> :__ ligne [`5`](../../src/subsilver/album_cat_top10.tpl#L5)

@@ -11,7 +11,8 @@ Attribut de bouclage de [`<!-- BEGIN giefmod_index1 -->...<!-- END giefmod_index
 <!-- END giefmod_index1 -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
+##Description[*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
+Boucle contenant le saut entre 2 widgets.
 
 ## Utilisations dans les templates
 

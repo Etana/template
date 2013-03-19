@@ -7,7 +7,8 @@ Variable d'affichage.
 {L_CFAQ_NOSCRIPT}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CFAQ_NOSCRIPT)
+##Description[*](https://fa-tvars.appspot.com/var/L_CFAQ_NOSCRIPT)
+Affiche un message d'avertissement si l'utilisateur n'accepte pas le JavaScript.
 
 ## Utilisations dans les templates
 

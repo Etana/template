@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SEARCH_SELF}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_SELF)
+##Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_SELF)
+Chaîne de texte.
+
+* __Contenu en français :__ `Voir ses messages`
 
 ## Utilisations dans les templates
 

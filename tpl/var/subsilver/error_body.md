@@ -3,7 +3,10 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/error_body.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/error_body)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/error_body)
+`Page pour les erreurs de saisie`.
+
+Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ## Variables
 

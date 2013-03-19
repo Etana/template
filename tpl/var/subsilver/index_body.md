@@ -3,7 +3,10 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/index_body.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/index_body)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/index_body)
+`Page d'accueil`.
+
+Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que le qui est en ligne de votre forum : `/index`
 
 ## Variables
 

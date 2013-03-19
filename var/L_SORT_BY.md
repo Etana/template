@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SORT_BY}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SORT_BY)
+##Description[*](https://fa-tvars.appspot.com/var/L_SORT_BY)
+Chaîne de texte.
+
+* __Contenu en français :__ `Trier par`
 
 ## Utilisations dans les templates
 

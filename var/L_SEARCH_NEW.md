@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SEARCH_NEW}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_NEW)
+##Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_NEW)
+Chaîne de texte.
+
+* __Contenu en français :__ `Voir les nouveaux messages depuis votre dernière visite`
 
 ## Utilisations dans les templates
 

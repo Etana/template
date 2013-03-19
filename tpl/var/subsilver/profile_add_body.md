@@ -20,7 +20,7 @@
 * __[`{AVATAR}`](https://github.com/Etana/template.list/blob/master/var/AVATAR.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR">*</a> :__ ligne [`321`](../../src/subsilver/profile_add_body.tpl#L321)
 * __[`{BAD_LEVEL_PWD}`](https://github.com/Etana/template.list/blob/master/var/BAD_LEVEL_PWD.md#readme)<a href="https://fa-tvars.appspot.com/var/BAD_LEVEL_PWD">*</a> :__ ligne [`105`](../../src/subsilver/profile_add_body.tpl#L105)
 * __[`{CONFIRM_IMG}`](https://github.com/Etana/template.list/blob/master/var/CONFIRM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/CONFIRM_IMG">*</a> :__ ligne [`69`](../../src/subsilver/profile_add_body.tpl#L69)
-* __[`{CURRENT_TIME}`](https://github.com/Etana/template.list/blob/master/var/CURRENT_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/CURRENT_TIME">*</a> :__ ligne [`306`](../../src/subsilver/profile_add_body.tpl#L306)
+* __[`{CURRENT_TIME}`](https://github.com/Etana/template.list/blob/master/var/CURRENT_TIME.md#readme) :__ ligne [`306`](../../src/subsilver/profile_add_body.tpl#L306)
 * __[`{CUR_PASSWORD}`](https://github.com/Etana/template.list/blob/master/var/CUR_PASSWORD.md#readme)<a href="https://fa-tvars.appspot.com/var/CUR_PASSWORD">*</a> :__ ligne [`96`](../../src/subsilver/profile_add_body.tpl#L96)
 * __[`{DATE_FORMAT}`](https://github.com/Etana/template.list/blob/master/var/DATE_FORMAT.md#readme)<a href="https://fa-tvars.appspot.com/var/DATE_FORMAT">*</a> :__ ligne [`305`](../../src/subsilver/profile_add_body.tpl#L305)
 * __[`{DISABLE_MASS_PM_CHECKED}`](https://github.com/Etana/template.list/blob/master/var/DISABLE_MASS_PM_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/DISABLE_MASS_PM_CHECKED">*</a> :__ ligne [`212`](../../src/subsilver/profile_add_body.tpl#L212)

@@ -7,7 +7,8 @@ Variable d'affichage.
 {SPACE_ROW}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SPACE_ROW)
+##Description[*](https://fa-tvars.appspot.com/var/SPACE_ROW)
+Affiche la valeur renseignée dans votre `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Hauteur entre deux widgets`.
 
 ## Utilisations dans les templates
 

@@ -13,7 +13,7 @@
 * __[`{L_FROM}`](https://github.com/Etana/template.list/blob/master/var/L_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM">*</a> :__ ligne [`9`](../../src/punbb/groupcp_pending_info.tpl#L9)
 * __[`{L_PENDING_MEMBERS}`](https://github.com/Etana/template.list/blob/master/var/L_PENDING_MEMBERS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PENDING_MEMBERS">*</a> :__ ligne [`18`](../../src/punbb/groupcp_pending_info.tpl#L18)
 * __[`{L_PM}`](https://github.com/Etana/template.list/blob/master/var/L_PM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PM">*</a> :__ ligne [`6`](../../src/punbb/groupcp_pending_info.tpl#L6)
-* __[`{L_POSTS}`](https://github.com/Etana/template.list/blob/master/var/L_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTS">*</a> :__ ligne [`8`](../../src/punbb/groupcp_pending_info.tpl#L8)
+* __[`{L_POSTS}`](https://github.com/Etana/template.list/blob/master/var/L_POSTS.md#readme) :__ ligne [`8`](../../src/punbb/groupcp_pending_info.tpl#L8)
 * __[`{L_SELECT}`](https://github.com/Etana/template.list/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`12`](../../src/punbb/groupcp_pending_info.tpl#L12)
 * __[`{L_USERNAME}`](https://github.com/Etana/template.list/blob/master/var/L_USERNAME.md#readme) :__ ligne [`7`](../../src/punbb/groupcp_pending_info.tpl#L7)
 * __[`{L_WEBSITE}`](https://github.com/Etana/template.list/blob/master/var/L_WEBSITE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_WEBSITE">*</a> :__ ligne [`11`](../../src/punbb/groupcp_pending_info.tpl#L11)

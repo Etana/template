@@ -3,7 +3,10 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/memberlist_body.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/memberlist_body)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/memberlist_body)
+`Liste des membres`.
+
+Ce template affiche la liste des membres de votre forum : `/memberlist`
 
 ## Variables
 
@@ -14,7 +17,7 @@
 * __[`{L_ORDER}`](https://github.com/Etana/template.list/blob/master/var/L_ORDER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ORDER">*</a> :__ ligne [`12`](../../src/subsilver/memberlist_body.tpl#L12)
 * __[`{L_ORDER_OR_SELECT}`](https://github.com/Etana/template.list/blob/master/var/L_ORDER_OR_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ORDER_OR_SELECT">*</a> :__ ligne [`4`](../../src/subsilver/memberlist_body.tpl#L4)
 * __[`{L_PM}`](https://github.com/Etana/template.list/blob/master/var/L_PM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PM">*</a> :__ ligne [`33`](../../src/subsilver/memberlist_body.tpl#L33)
-* __[`{L_POSTS}`](https://github.com/Etana/template.list/blob/master/var/L_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTS">*</a> :__ ligne [`32`](../../src/subsilver/memberlist_body.tpl#L32)
+* __[`{L_POSTS}`](https://github.com/Etana/template.list/blob/master/var/L_POSTS.md#readme) :__ ligne [`32`](../../src/subsilver/memberlist_body.tpl#L32)
 * __[`{L_SELECT_SORT_METHOD}`](https://github.com/Etana/template.list/blob/master/var/L_SELECT_SORT_METHOD.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT_SORT_METHOD">*</a> :__ ligne [`11`](../../src/subsilver/memberlist_body.tpl#L11)
 * __[`{L_SUBMIT}`](https://github.com/Etana/template.list/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`14`](../../src/subsilver/memberlist_body.tpl#L14)
 * __[`{L_USERNAME}`](https://github.com/Etana/template.list/blob/master/var/L_USERNAME.md#readme) :__ ligne [`25`](../../src/subsilver/memberlist_body.tpl#L25)

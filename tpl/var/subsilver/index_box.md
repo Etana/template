@@ -3,25 +3,28 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/index_box.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/index_box)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/index_box)
+`Page d'accueil - affichage des catégories`.
+
+Ce template affiche les catégories, les forums et les sous-forums de votre forum.
 
 ## Variables
 
-* __[`{CURRENT_TIME}`](https://github.com/Etana/template.list/blob/master/var/CURRENT_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/CURRENT_TIME">*</a> :__ ligne [`6`](../../src/subsilver/index_box.tpl#L6)
-* __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template.list/blob/master/var/LAST_VISIT_DATE.md#readme)<a href="https://fa-tvars.appspot.com/var/LAST_VISIT_DATE">*</a> :__ ligne [`5`](../../src/subsilver/index_box.tpl#L5)
+* __[`{CURRENT_TIME}`](https://github.com/Etana/template.list/blob/master/var/CURRENT_TIME.md#readme) :__ ligne [`6`](../../src/subsilver/index_box.tpl#L6)
+* __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template.list/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`5`](../../src/subsilver/index_box.tpl#L5)
 * __[`{L_INDEX}`](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme) :__ ligne [`9`](../../src/subsilver/index_box.tpl#L9)
-* __[`{L_LASTPOST}`](https://github.com/Etana/template.list/blob/master/var/L_LASTPOST.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LASTPOST">*</a> :__ ligne [`25`](../../src/subsilver/index_box.tpl#L25)
-* __[`{L_POSTS}`](https://github.com/Etana/template.list/blob/master/var/L_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTS">*</a> :__ ligne [`24`](../../src/subsilver/index_box.tpl#L24)
-* __[`{L_SEARCH_NEW}`](https://github.com/Etana/template.list/blob/master/var/L_SEARCH_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_NEW">*</a> :__ ligne [`13`](../../src/subsilver/index_box.tpl#L13)
-* __[`{L_SEARCH_SELF}`](https://github.com/Etana/template.list/blob/master/var/L_SEARCH_SELF.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_SELF">*</a> :__ ligne [`14`](../../src/subsilver/index_box.tpl#L14)
-* __[`{L_SEARCH_UNANSWERED}`](https://github.com/Etana/template.list/blob/master/var/L_SEARCH_UNANSWERED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_UNANSWERED">*</a> :__ ligne [`16`](../../src/subsilver/index_box.tpl#L16)
-* __[`{L_TOPICS}`](https://github.com/Etana/template.list/blob/master/var/L_TOPICS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPICS">*</a> :__ ligne [`23`](../../src/subsilver/index_box.tpl#L23)
-* __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_CAT_DESC">*</a> :__ ligne [`9`](../../src/subsilver/index_box.tpl#L9)
-* __[`{SPACER}`](https://github.com/Etana/template.list/blob/master/var/SPACER.md#readme)<a href="https://fa-tvars.appspot.com/var/SPACER">*</a> :__ lignes [`31`](../../src/subsilver/index_box.tpl#L31), [`46`](../../src/subsilver/index_box.tpl#L46), [`79`](../../src/subsilver/index_box.tpl#L79), [`81`](../../src/subsilver/index_box.tpl#L81), [`85`](../../src/subsilver/index_box.tpl#L85)
+* __[`{L_LASTPOST}`](https://github.com/Etana/template.list/blob/master/var/L_LASTPOST.md#readme) :__ ligne [`25`](../../src/subsilver/index_box.tpl#L25)
+* __[`{L_POSTS}`](https://github.com/Etana/template.list/blob/master/var/L_POSTS.md#readme) :__ ligne [`24`](../../src/subsilver/index_box.tpl#L24)
+* __[`{L_SEARCH_NEW}`](https://github.com/Etana/template.list/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`13`](../../src/subsilver/index_box.tpl#L13)
+* __[`{L_SEARCH_SELF}`](https://github.com/Etana/template.list/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`14`](../../src/subsilver/index_box.tpl#L14)
+* __[`{L_SEARCH_UNANSWERED}`](https://github.com/Etana/template.list/blob/master/var/L_SEARCH_UNANSWERED.md#readme) :__ ligne [`16`](../../src/subsilver/index_box.tpl#L16)
+* __[`{L_TOPICS}`](https://github.com/Etana/template.list/blob/master/var/L_TOPICS.md#readme) :__ ligne [`23`](../../src/subsilver/index_box.tpl#L23)
+* __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`9`](../../src/subsilver/index_box.tpl#L9)
+* __[`{SPACER}`](https://github.com/Etana/template.list/blob/master/var/SPACER.md#readme) :__ lignes [`31`](../../src/subsilver/index_box.tpl#L31), [`46`](../../src/subsilver/index_box.tpl#L46), [`79`](../../src/subsilver/index_box.tpl#L79), [`81`](../../src/subsilver/index_box.tpl#L81), [`85`](../../src/subsilver/index_box.tpl#L85)
 * __[`{U_INDEX}`](https://github.com/Etana/template.list/blob/master/var/U_INDEX.md#readme) :__ ligne [`9`](../../src/subsilver/index_box.tpl#L9)
-* __[`{U_SEARCH_NEW}`](https://github.com/Etana/template.list/blob/master/var/U_SEARCH_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/U_SEARCH_NEW">*</a> :__ ligne [`13`](../../src/subsilver/index_box.tpl#L13)
-* __[`{U_SEARCH_SELF}`](https://github.com/Etana/template.list/blob/master/var/U_SEARCH_SELF.md#readme)<a href="https://fa-tvars.appspot.com/var/U_SEARCH_SELF">*</a> :__ ligne [`14`](../../src/subsilver/index_box.tpl#L14)
-* __[`{U_SEARCH_UNANSWERED}`](https://github.com/Etana/template.list/blob/master/var/U_SEARCH_UNANSWERED.md#readme)<a href="https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED">*</a> :__ ligne [`16`](../../src/subsilver/index_box.tpl#L16)
+* __[`{U_SEARCH_NEW}`](https://github.com/Etana/template.list/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`13`](../../src/subsilver/index_box.tpl#L13)
+* __[`{U_SEARCH_SELF}`](https://github.com/Etana/template.list/blob/master/var/U_SEARCH_SELF.md#readme) :__ ligne [`14`](../../src/subsilver/index_box.tpl#L14)
+* __[`{U_SEARCH_UNANSWERED}`](https://github.com/Etana/template.list/blob/master/var/U_SEARCH_UNANSWERED.md#readme) :__ ligne [`16`](../../src/subsilver/index_box.tpl#L16)
 * __[`<!-- BEGIN catrow -->`](https://github.com/Etana/template.list/blob/master/var/catrow.md#readme)<a href="https://fa-tvars.appspot.com/var/catrow">*</a> :__ ligne [`20`](../../src/subsilver/index_box.tpl#L20)
     * __[`<!-- BEGIN catfoot -->`](https://github.com/Etana/template.list/blob/master/var/catrow.catfoot.md#readme)<a href="https://fa-tvars.appspot.com/var/catrow.catfoot">*</a> :__ ligne [`76`](../../src/subsilver/index_box.tpl#L76)
         * __[`{catrow.catfoot.INC_SPAN}`](https://github.com/Etana/template.list/blob/master/var/catrow.catfoot.INC_SPAN.md#readme)<a href="https://fa-tvars.appspot.com/var/catrow.catfoot.INC_SPAN">*</a> :__ ligne [`81`](../../src/subsilver/index_box.tpl#L81)

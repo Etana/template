@@ -7,7 +7,8 @@ Variable d'affichage.
 {NAV_CAT_DESC}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC)
+##Description[*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC)
+Affiche le fil d’Ariane.
 
 ## Utilisations dans les templates
 

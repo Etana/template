@@ -7,7 +7,8 @@ Variable d'affichage.
 {S_TIMEZONE}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_TIMEZONE)
+##Description[*](https://fa-tvars.appspot.com/var/S_TIMEZONE)
+Variable actuellement inutilisée.
 
 ## Utilisations dans les templates
 
