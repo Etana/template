@@ -12,9 +12,9 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_CLASS)
+[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_CLASS)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ ligne [48](../tpl/src/subsilver/index_box.tpl#L48)
+* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ ligne [`48`](../tpl/src/subsilver/index_box.tpl#L48)

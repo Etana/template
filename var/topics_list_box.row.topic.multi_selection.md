@@ -7,19 +7,21 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
-        {topics_list_box.row.topic.multi_selection}
+        <!-- BEGIN topics_list_box.row.topic.multi_selection -->
+        contenu
+        <!-- END topics_list_box.row.topic.multi_selection -->
         <!-- END topic -->
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.multi_selection)
+[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.multi_selection)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [95](../tpl/src/punbb/topics_list_box.tpl#L95), [97](../tpl/src/punbb/topics_list_box.tpl#L97)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`95`](../tpl/src/punbb/topics_list_box.tpl#L95), [`97`](../tpl/src/punbb/topics_list_box.tpl#L97)
 
 ### Version phpBB2
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [75](../tpl/src/subsilver/topics_list_box.tpl#L75), [77](../tpl/src/subsilver/topics_list_box.tpl#L77)
+* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`75`](../tpl/src/subsilver/topics_list_box.tpl#L75), [`77`](../tpl/src/subsilver/topics_list_box.tpl#L77)

@@ -8,9 +8,9 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ONLINE_USERS)
+[*ajouter*](https://fa-tvars.appspot.com/var/L_ONLINE_USERS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne [79](../tpl/src/punbb/index_body.tpl#L79)
+* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`79`](../tpl/src/punbb/index_body.tpl#L79)

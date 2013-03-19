@@ -12,12 +12,12 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.DELETE_IMG)
+[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.DELETE_IMG)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [244](../tpl/src/punbb/viewtopic_body.tpl#L244)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [`244`](../tpl/src/punbb/viewtopic_body.tpl#L244)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [140](../tpl/src/subsilver/viewtopic_body.tpl#L140)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [`140`](../tpl/src/subsilver/viewtopic_body.tpl#L140)

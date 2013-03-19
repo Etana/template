@@ -26,7 +26,7 @@ Nos membres ont posté un total de <strong>2</strong> messages
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne [59](../tpl/src/punbb/index_body.tpl#L59)
+* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/index_body.tpl#L59)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne [189](../tpl/src/subsilver/index_body.tpl#L189)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`189`](../tpl/src/subsilver/index_body.tpl#L189)

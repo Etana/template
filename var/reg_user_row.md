@@ -10,21 +10,21 @@ contenu
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/reg_user_row)
+[*ajouter*](https://fa-tvars.appspot.com/var/reg_user_row)
 
 ## Attributs
-* [{reg_user_row.FORUM_LOCATION}](reg_user_row.FORUM_LOCATION.md#readme)
-* [{reg_user_row.LASTUPDATE}](reg_user_row.LASTUPDATE.md#readme)
-* [{reg_user_row.ROW_CLASS}](reg_user_row.ROW_CLASS.md#readme)
-* [{reg_user_row.USERNAME}](reg_user_row.USERNAME.md#readme)
-* [{reg_user_row.U_FORUM_LOCATION}](reg_user_row.U_FORUM_LOCATION.md#readme)
-* [{reg_user_row.U_USER_PROFILE}](reg_user_row.U_USER_PROFILE.md#readme)
+* __[`{reg_user_row.FORUM_LOCATION}`](reg_user_row.FORUM_LOCATION.md#readme)__
+* __[`{reg_user_row.LASTUPDATE}`](reg_user_row.LASTUPDATE.md#readme)__
+* __[`{reg_user_row.ROW_CLASS}`](reg_user_row.ROW_CLASS.md#readme)__
+* __[`{reg_user_row.USERNAME}`](reg_user_row.USERNAME.md#readme)__
+* __[`{reg_user_row.U_FORUM_LOCATION}`](reg_user_row.U_FORUM_LOCATION.md#readme)__
+* __[`{reg_user_row.U_USER_PROFILE}`](reg_user_row.U_USER_PROFILE.md#readme)__
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ lignes [47](../tpl/src/punbb/viewonline_body.tpl#L47), [53](../tpl/src/punbb/viewonline_body.tpl#L53)
+* __[`viewonline_body`](../tpl/var/punbb/viewonline_body.md#readme) :__ lignes [`47`](../tpl/src/punbb/viewonline_body.tpl#L47), [`53`](../tpl/src/punbb/viewonline_body.tpl#L53)
 
 ### Version phpBB2
-* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ lignes [23](../tpl/src/subsilver/viewonline_body.tpl#L23), [29](../tpl/src/subsilver/viewonline_body.tpl#L29)
+* __[`viewonline_body`](../tpl/var/subsilver/viewonline_body.md#readme) :__ lignes [`23`](../tpl/src/subsilver/viewonline_body.tpl#L23), [`29`](../tpl/src/subsilver/viewonline_body.tpl#L29)

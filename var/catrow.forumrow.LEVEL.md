@@ -12,12 +12,12 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.LEVEL)
+[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.LEVEL)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes [29](../tpl/src/punbb/index_box.tpl#L29), [29](../tpl/src/punbb/index_box.tpl#L29)
+* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`29`](../tpl/src/punbb/index_box.tpl#L29), [`29`](../tpl/src/punbb/index_box.tpl#L29)
 
 ### Version phpBB2
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ lignes [52](../tpl/src/subsilver/index_box.tpl#L52), [56](../tpl/src/subsilver/index_box.tpl#L56)
+* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`52`](../tpl/src/subsilver/index_box.tpl#L52), [`56`](../tpl/src/subsilver/index_box.tpl#L56)

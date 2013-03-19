@@ -8,9 +8,9 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ADMIN_LINK)
+[*ajouter*](https://fa-tvars.appspot.com/var/ADMIN_LINK)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[overall_footer_end](../tpl/var/punbb/overall_footer_end.md#readme) :__ ligne [29](../tpl/src/punbb/overall_footer_end.tpl#L29)
+* __[`overall_footer_end`](../tpl/var/punbb/overall_footer_end.md#readme) :__ ligne [`29`](../tpl/src/punbb/overall_footer_end.tpl#L29)

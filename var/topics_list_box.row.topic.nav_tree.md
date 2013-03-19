@@ -7,16 +7,18 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
-        {topics_list_box.row.topic.nav_tree}
+        <!-- BEGIN topics_list_box.row.topic.nav_tree -->
+        contenu
+        <!-- END topics_list_box.row.topic.nav_tree -->
         <!-- END topic -->
     <!-- END row -->
 <!-- END topics_list_box -->
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.nav_tree)
+[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.nav_tree)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [68](../tpl/src/subsilver/topics_list_box.tpl#L68), [68](../tpl/src/subsilver/topics_list_box.tpl#L68)
+* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`68`](../tpl/src/subsilver/topics_list_box.tpl#L68), [`68`](../tpl/src/subsilver/topics_list_box.tpl#L68)

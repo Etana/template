@@ -8,12 +8,12 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/RIGHT)
+[*ajouter*](https://fa-tvars.appspot.com/var/RIGHT)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[donate](../tpl/var/punbb/donate.md#readme) :__ ligne [184](../tpl/src/punbb/donate.tpl#L184)
+* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ ligne [`184`](../tpl/src/punbb/donate.tpl#L184)
 
 ### Version phpBB2
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ ligne [221](../tpl/src/subsilver/donate.tpl#L221)
+* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ ligne [`221`](../tpl/src/subsilver/donate.tpl#L221)

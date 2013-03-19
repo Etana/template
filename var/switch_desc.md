@@ -10,13 +10,13 @@ contenu
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_desc)
+[*ajouter*](https://fa-tvars.appspot.com/var/switch_desc)
 
 ## Attributs
-* [{switch_desc.SITE_DESCRIPTION}](switch_desc.SITE_DESCRIPTION.md#readme)
+* __[`{switch_desc.SITE_DESCRIPTION}`](switch_desc.SITE_DESCRIPTION.md#readme)__
 
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ lignes [241](../tpl/src/punbb/overall_header.tpl#L241), [243](../tpl/src/punbb/overall_header.tpl#L243)
+* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ lignes [`241`](../tpl/src/punbb/overall_header.tpl#L241), [`243`](../tpl/src/punbb/overall_header.tpl#L243)

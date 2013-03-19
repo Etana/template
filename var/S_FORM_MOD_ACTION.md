@@ -8,9 +8,9 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_FORM_MOD_ACTION)
+[*ajouter*](https://fa-tvars.appspot.com/var/S_FORM_MOD_ACTION)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [453](../tpl/src/subsilver/viewtopic_body.tpl#L453)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [`453`](../tpl/src/subsilver/viewtopic_body.tpl#L453)

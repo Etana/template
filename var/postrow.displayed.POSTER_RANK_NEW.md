@@ -12,9 +12,9 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_RANK_NEW)
+[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_RANK_NEW)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [145](../tpl/src/punbb/viewtopic_body.tpl#L145)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [`145`](../tpl/src/punbb/viewtopic_body.tpl#L145)

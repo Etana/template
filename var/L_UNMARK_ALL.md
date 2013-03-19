@@ -8,9 +8,9 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_UNMARK_ALL)
+[*ajouter*](https://fa-tvars.appspot.com/var/L_UNMARK_ALL)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[search_results_topics](../tpl/var/subsilver/search_results_topics.md#readme) :__ ligne [63](../tpl/src/subsilver/search_results_topics.tpl#L63)
+* __[`search_results_topics`](../tpl/var/subsilver/search_results_topics.md#readme) :__ ligne [`63`](../tpl/src/subsilver/search_results_topics.tpl#L63)

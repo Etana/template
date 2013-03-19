@@ -8,9 +8,9 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCHITEMS_CLOSE)
+[*ajouter*](https://fa-tvars.appspot.com/var/SEARCHITEMS_CLOSE)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[search_body](../tpl/var/subsilver/search_body.md#readme) :__ ligne [72](../tpl/src/subsilver/search_body.tpl#L72)
+* __[`search_body`](../tpl/var/subsilver/search_body.md#readme) :__ ligne [`72`](../tpl/src/subsilver/search_body.tpl#L72)

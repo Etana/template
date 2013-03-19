@@ -14,9 +14,9 @@ Attribut de [topics_list_box.row.bottom](topics_list_box.row.bottom.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.COUNT_TOTAL_TOPICS)
+[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.COUNT_TOTAL_TOPICS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne [114](../tpl/src/punbb/topics_list_box.tpl#L114)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne [`114`](../tpl/src/punbb/topics_list_box.tpl#L114)

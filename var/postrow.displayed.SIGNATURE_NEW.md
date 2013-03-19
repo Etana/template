@@ -12,9 +12,9 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.SIGNATURE_NEW)
+[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.SIGNATURE_NEW)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [235](../tpl/src/punbb/viewtopic_body.tpl#L235)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [`235`](../tpl/src/punbb/viewtopic_body.tpl#L235)

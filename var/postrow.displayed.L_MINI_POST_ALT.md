@@ -12,9 +12,9 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.L_MINI_POST_ALT)
+[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.L_MINI_POST_ALT)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [138](../tpl/src/subsilver/viewtopic_body.tpl#L138), [138](../tpl/src/subsilver/viewtopic_body.tpl#L138)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`138`](../tpl/src/subsilver/viewtopic_body.tpl#L138), [`138`](../tpl/src/subsilver/viewtopic_body.tpl#L138)

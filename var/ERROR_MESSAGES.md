@@ -8,9 +8,9 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ERROR_MESSAGES)
+[*ajouter*](https://fa-tvars.appspot.com/var/ERROR_MESSAGES)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[donate](../tpl/var/subsilver/donate.md#readme) :__ ligne [13](../tpl/src/subsilver/donate.tpl#L13)
+* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ ligne [`13`](../tpl/src/subsilver/donate.tpl#L13)

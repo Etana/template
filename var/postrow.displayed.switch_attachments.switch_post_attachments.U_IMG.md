@@ -16,12 +16,12 @@ Attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postr
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.U_IMG)
+[*ajouter*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.U_IMG)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [195](../tpl/src/punbb/viewtopic_body.tpl#L195)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [`195`](../tpl/src/punbb/viewtopic_body.tpl#L195)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [189](../tpl/src/subsilver/viewtopic_body.tpl#L189)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [`189`](../tpl/src/subsilver/viewtopic_body.tpl#L189)

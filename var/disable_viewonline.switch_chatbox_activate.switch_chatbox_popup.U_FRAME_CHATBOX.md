@@ -14,12 +14,12 @@ Attribut de [disable_viewonline.switch_chatbox_activate.switch_chatbox_popup](di
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
+[*ajouter*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne [95](../tpl/src/punbb/index_body.tpl#L95)
+* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`95`](../tpl/src/punbb/index_body.tpl#L95)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne [213](../tpl/src/subsilver/index_body.tpl#L213)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`213`](../tpl/src/subsilver/index_body.tpl#L213)

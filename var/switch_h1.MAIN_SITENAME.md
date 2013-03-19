@@ -10,9 +10,9 @@ Attribut de [switch_h1](switch_h1.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)
+[*ajouter*](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ ligne [238](../tpl/src/punbb/overall_header.tpl#L238)
+* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ ligne [`238`](../tpl/src/punbb/overall_header.tpl#L238)

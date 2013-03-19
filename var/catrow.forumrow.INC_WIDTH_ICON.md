@@ -12,9 +12,9 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_WIDTH_ICON)
+[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_WIDTH_ICON)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes [26](../tpl/src/punbb/index_box.tpl#L26), [26](../tpl/src/punbb/index_box.tpl#L26)
+* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`26`](../tpl/src/punbb/index_box.tpl#L26), [`26`](../tpl/src/punbb/index_box.tpl#L26)

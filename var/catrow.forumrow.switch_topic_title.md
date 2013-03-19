@@ -6,15 +6,17 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ```html
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-    {catrow.forumrow.switch_topic_title}
+    <!-- BEGIN catrow.forumrow.switch_topic_title -->
+    contenu
+    <!-- END catrow.forumrow.switch_topic_title -->
     <!-- END forumrow -->
 <!-- END catrow -->
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)
+[*ajouter*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_box](../tpl/var/punbb/index_box.md#readme) :__ lignes [43](../tpl/src/punbb/index_box.tpl#L43), [45](../tpl/src/punbb/index_box.tpl#L45)
+* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`43`](../tpl/src/punbb/index_box.tpl#L43), [`45`](../tpl/src/punbb/index_box.tpl#L45)

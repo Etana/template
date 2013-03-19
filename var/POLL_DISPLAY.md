@@ -8,12 +8,12 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/POLL_DISPLAY)
+[*ajouter*](https://fa-tvars.appspot.com/var/POLL_DISPLAY)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewtopic_body](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [109](../tpl/src/punbb/viewtopic_body.tpl#L109)
+* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [`109`](../tpl/src/punbb/viewtopic_body.tpl#L109)
 
 ### Version phpBB2
-* __[viewtopic_body](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [110](../tpl/src/subsilver/viewtopic_body.tpl#L110)
+* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [`110`](../tpl/src/subsilver/viewtopic_body.tpl#L110)

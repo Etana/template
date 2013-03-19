@@ -10,12 +10,12 @@ Attribut de [searchresults](searchresults.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.POSTER_NAME)
+[*ajouter*](https://fa-tvars.appspot.com/var/searchresults.POSTER_NAME)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[search_results_posts](../tpl/var/punbb/search_results_posts.md#readme) :__ ligne [43](../tpl/src/punbb/search_results_posts.tpl#L43)
+* __[`search_results_posts`](../tpl/var/punbb/search_results_posts.md#readme) :__ ligne [`43`](../tpl/src/punbb/search_results_posts.tpl#L43)
 
 ### Version phpBB2
-* __[search_results_posts](../tpl/var/subsilver/search_results_posts.md#readme) :__ ligne [19](../tpl/src/subsilver/search_results_posts.tpl#L19)
+* __[`search_results_posts`](../tpl/var/subsilver/search_results_posts.md#readme) :__ ligne [`19`](../tpl/src/subsilver/search_results_posts.tpl#L19)

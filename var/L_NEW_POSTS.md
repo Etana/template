@@ -15,7 +15,7 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ lignes [125](../tpl/src/punbb/index_body.tpl#L125), [125](../tpl/src/punbb/index_body.tpl#L125)
+* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`125`](../tpl/src/punbb/index_body.tpl#L125), [`125`](../tpl/src/punbb/index_body.tpl#L125)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ lignes [228](../tpl/src/subsilver/index_body.tpl#L228), [229](../tpl/src/subsilver/index_body.tpl#L229)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`228`](../tpl/src/subsilver/index_body.tpl#L228), [`229`](../tpl/src/subsilver/index_body.tpl#L229)

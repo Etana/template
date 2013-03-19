@@ -14,9 +14,9 @@ Attribut de [catrow.cathead.inc](catrow.cathead.inc.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.inc.INC_CLASS)
+[*ajouter*](https://fa-tvars.appspot.com/var/catrow.cathead.inc.INC_CLASS)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[index_box](../tpl/var/subsilver/index_box.md#readme) :__ ligne [31](../tpl/src/subsilver/index_box.tpl#L31)
+* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ ligne [`31`](../tpl/src/subsilver/index_box.tpl#L31)

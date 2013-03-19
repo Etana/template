@@ -15,7 +15,7 @@ Affiche les widgets du forum un par un.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[overall_header](../tpl/var/punbb/overall_header.md#readme) :__ ligne [295](../tpl/src/punbb/overall_header.tpl#L295)
+* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ ligne [`295`](../tpl/src/punbb/overall_header.tpl#L295)
 
 ### Version phpBB2
-* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ ligne [319](../tpl/src/subsilver/overall_header.tpl#L319)
+* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ ligne [`319`](../tpl/src/subsilver/overall_header.tpl#L319)

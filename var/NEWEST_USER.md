@@ -26,7 +26,7 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne [61](../tpl/src/punbb/index_body.tpl#L61)
+* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`61`](../tpl/src/punbb/index_body.tpl#L61)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne [191](../tpl/src/subsilver/index_body.tpl#L191)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`191`](../tpl/src/subsilver/index_body.tpl#L191)

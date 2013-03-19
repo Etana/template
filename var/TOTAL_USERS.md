@@ -26,7 +26,7 @@ Nous avons <strong>1</strong> membre enregistré
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[index_body](../tpl/var/punbb/index_body.md#readme) :__ ligne [60](../tpl/src/punbb/index_body.tpl#L60)
+* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`60`](../tpl/src/punbb/index_body.tpl#L60)
 
 ### Version phpBB2
-* __[index_body](../tpl/var/subsilver/index_body.md#readme) :__ ligne [190](../tpl/src/subsilver/index_body.tpl#L190)
+* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`190`](../tpl/src/subsilver/index_body.tpl#L190)

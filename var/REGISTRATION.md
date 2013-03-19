@@ -8,9 +8,9 @@ Cette variable est utilisable directement.
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/REGISTRATION)
+[*ajouter*](https://fa-tvars.appspot.com/var/REGISTRATION)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[agreement](../tpl/var/subsilver/agreement.md#readme) :__ ligne [8](../tpl/src/subsilver/agreement.tpl#L8)
+* __[`agreement`](../tpl/var/subsilver/agreement.md#readme) :__ ligne [`8`](../tpl/src/subsilver/agreement.tpl#L8)

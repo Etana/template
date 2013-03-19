@@ -10,12 +10,12 @@ Attribut de [guest_user_row](guest_user_row.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row.LASTUPDATE)
+[*ajouter*](https://fa-tvars.appspot.com/var/guest_user_row.LASTUPDATE)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[viewonline_body](../tpl/var/punbb/viewonline_body.md#readme) :__ ligne [64](../tpl/src/punbb/viewonline_body.tpl#L64)
+* __[`viewonline_body`](../tpl/var/punbb/viewonline_body.md#readme) :__ ligne [`64`](../tpl/src/punbb/viewonline_body.tpl#L64)
 
 ### Version phpBB2
-* __[viewonline_body](../tpl/var/subsilver/viewonline_body.md#readme) :__ ligne [46](../tpl/src/subsilver/viewonline_body.tpl#L46)
+* __[`viewonline_body`](../tpl/var/subsilver/viewonline_body.md#readme) :__ ligne [`46`](../tpl/src/subsilver/viewonline_body.tpl#L46)

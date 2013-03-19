@@ -12,12 +12,12 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.L_REPLIES)
+[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.L_REPLIES)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne [36](../tpl/src/punbb/topics_list_box.tpl#L36)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne [`36`](../tpl/src/punbb/topics_list_box.tpl#L36)
 
 ### Version phpBB2
-* __[topics_list_box](../tpl/var/subsilver/topics_list_box.md#readme) :__ ligne [25](../tpl/src/subsilver/topics_list_box.tpl#L25)
+* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ ligne [`25`](../tpl/src/subsilver/topics_list_box.tpl#L25)

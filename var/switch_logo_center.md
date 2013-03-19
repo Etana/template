@@ -10,9 +10,9 @@ contenu
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_logo_center)
+[*ajouter*](https://fa-tvars.appspot.com/var/switch_logo_center)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[overall_header](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [251](../tpl/src/subsilver/overall_header.tpl#L251), [254](../tpl/src/subsilver/overall_header.tpl#L254)
+* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [`251`](../tpl/src/subsilver/overall_header.tpl#L251), [`254`](../tpl/src/subsilver/overall_header.tpl#L254)

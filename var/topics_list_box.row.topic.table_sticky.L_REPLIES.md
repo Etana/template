@@ -16,9 +16,9 @@ Attribut de [topics_list_box.row.topic.table_sticky](topics_list_box.row.topic.t
 ```
 
 ##Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.L_REPLIES)
+[*ajouter*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.L_REPLIES)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[topics_list_box](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne [65](../tpl/src/punbb/topics_list_box.tpl#L65)
+* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ ligne [`65`](../tpl/src/punbb/topics_list_box.tpl#L65)
