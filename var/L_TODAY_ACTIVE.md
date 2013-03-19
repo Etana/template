@@ -8,7 +8,7 @@ Variable d'affichage.
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE)
-Affiche le texte du lien de la variable [`{U_TODAY_ACTIVE}`](https://github.com/Etana/template.list/blob/master/var/U_TODAY_ACTIVE.md#readme).
+Affiche le texte du lien de la variable [`{U_TODAY_ACTIVE}`](https://github.com/Etana/t/blob/master/var/U_TODAY_ACTIVE.md#readme).
 
 * __Contenu en français :__  `Sujets actifs du jour`
 

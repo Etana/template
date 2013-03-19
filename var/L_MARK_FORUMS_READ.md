@@ -8,7 +8,7 @@ Variable d'affichage.
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/L_MARK_FORUMS_READ)
-Affiche le texte du lien de la variable [`{U_MARK_READ}`](https://github.com/Etana/template.list/blob/master/var/U_MARK_READ.md#readme).
+Affiche le texte du lien de la variable [`{U_MARK_READ}`](https://github.com/Etana/t/blob/master/var/U_MARK_READ.md#readme).
 
 * __Contenu en français :__  `Top 20 des posteurs du jour`
 

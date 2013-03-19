@@ -7,4 +7,4 @@
 
 ## Variables
 
-* __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template.list/blob/master/var/U_FRAME_CHATBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX">*</a> :__ ligne [`5`](../../src/punbb/mod_chatbox.tpl#L5)
+* __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/t/blob/master/var/U_FRAME_CHATBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX">*</a> :__ ligne [`5`](../../src/punbb/mod_chatbox.tpl#L5)

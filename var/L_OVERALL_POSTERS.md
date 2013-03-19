@@ -8,7 +8,7 @@ Variable d'affichage.
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/L_OVERALL_POSTERS)
-Affiche le texte du lien de la variable [`{U_OVERALL_POSTERS}`](https://github.com/Etana/template.list/blob/master/var/U_OVERALL_POSTERS.md#readme).
+Affiche le texte du lien de la variable [`{U_OVERALL_POSTERS}`](https://github.com/Etana/t/blob/master/var/U_OVERALL_POSTERS.md#readme).
 
 * __Contenu en français :__  `Top 20 des posteurs du forum`
 
