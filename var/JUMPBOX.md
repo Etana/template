@@ -8,7 +8,7 @@ Variable d'affichage.
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/JUMPBOX)
-Affiche le template [`phpbb2 > jumpbox`](https://github.com/Etana/t/blob/master/tpl/var/subsilver/jumpbox.md#readme) ou [`punbb > jumpbox`](https://github.com/Etana/t/blob/master/tpl/var/punbb/jumpbox.md#readme).
+Affiche le template [`phpbb2 > jumpbox`](https://github.com/Etana/template/blob/master/tpl/var/subsilver/jumpbox.md#readme) ou [`punbb > jumpbox`](https://github.com/Etana/template/blob/master/tpl/var/punbb/jumpbox.md#readme).
 
 ## Utilisations dans les templates
 

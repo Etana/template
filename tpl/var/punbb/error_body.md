@@ -7,4 +7,4 @@
 
 ## Variables
 
-* __[`{ERROR_MESSAGE}`](https://github.com/Etana/t/blob/master/var/ERROR_MESSAGE.md#readme) :__ ligne [`4`](../../src/punbb/error_body.tpl#L4)
+* __[`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme) :__ ligne [`4`](../../src/punbb/error_body.tpl#L4)
