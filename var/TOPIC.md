@@ -1,10 +1,12 @@
 # TOPIC
 
 
-Variable d'affichage.
+Variable de bouclage.
 
 ```html
-{TOPIC}
+<!-- BEGIN TOPIC -->
+contenu
+<!-- END TOPIC -->
 ```
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/TOPIC)
@@ -19,9 +21,9 @@ Variable d'affichage.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_most_viewed_topics`](../tpl/var/punbb/mod_most_viewed_topics.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_most_viewed_topics.tpl#L5), [`9`](../tpl/src/punbb/mod_most_viewed_topics.tpl#L9)
-* __[`mod_most_active_topics`](../tpl/var/punbb/mod_most_active_topics.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_most_active_topics.tpl#L5), [`9`](../tpl/src/punbb/mod_most_active_topics.tpl#L9)
+* __[`mod_most_viewed_topics`](../tpl/var/punbb/mod_most_viewed_topics.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_most_viewed_topics.tpl#L5)[`<->`](../tpl/src/punbb/mod_most_viewed_topics.tpl#L5-L9)[`9`](../tpl/src/punbb/mod_most_viewed_topics.tpl#L9)
+* __[`mod_most_active_topics`](../tpl/var/punbb/mod_most_active_topics.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_most_active_topics.tpl#L5)[`<->`](../tpl/src/punbb/mod_most_active_topics.tpl#L5-L9)[`9`](../tpl/src/punbb/mod_most_active_topics.tpl#L9)
 
 ### Version phpBB2
-* __[`mod_most_viewed_topics`](../tpl/var/subsilver/mod_most_viewed_topics.md#readme) :__ lignes [`8`](../tpl/src/subsilver/mod_most_viewed_topics.tpl#L8), [`12`](../tpl/src/subsilver/mod_most_viewed_topics.tpl#L12)
-* __[`mod_most_active_topics`](../tpl/var/subsilver/mod_most_active_topics.md#readme) :__ lignes [`8`](../tpl/src/subsilver/mod_most_active_topics.tpl#L8), [`12`](../tpl/src/subsilver/mod_most_active_topics.tpl#L12)
+* __[`mod_most_viewed_topics`](../tpl/var/subsilver/mod_most_viewed_topics.md#readme) :__ lignes [`8`](../tpl/src/subsilver/mod_most_viewed_topics.tpl#L8)[`<->`](../tpl/src/subsilver/mod_most_viewed_topics.tpl#L8-L12)[`12`](../tpl/src/subsilver/mod_most_viewed_topics.tpl#L12)
+* __[`mod_most_active_topics`](../tpl/var/subsilver/mod_most_active_topics.md#readme) :__ lignes [`8`](../tpl/src/subsilver/mod_most_active_topics.tpl#L8)[`<->`](../tpl/src/subsilver/mod_most_active_topics.tpl#L8-L12)[`12`](../tpl/src/subsilver/mod_most_active_topics.tpl#L12)

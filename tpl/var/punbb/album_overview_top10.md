@@ -14,7 +14,8 @@
 * __[`{L_POSTER}`](https://github.com/Etana/template.list/blob/master/var/L_POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTER">*</a> :__ ligne [`11`](../../src/punbb/album_overview_top10.tpl#L11)
 * __[`{L_RATE}`](https://github.com/Etana/template.list/blob/master/var/L_RATE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RATE">*</a> :__ ligne [`14`](../../src/punbb/album_overview_top10.tpl#L14)
 * __[`{L_VIEW}`](https://github.com/Etana/template.list/blob/master/var/L_VIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEW">*</a> :__ ligne [`17`](../../src/punbb/album_overview_top10.tpl#L17)
-* __[`{POSTER}`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER">*</a> :__ ligne [`11`](../../src/punbb/album_overview_top10.tpl#L11)
+* __[`<!-- BEGIN POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER">*</a> :__ ligne [`11`](../../src/punbb/album_overview_top10.tpl#L11)
+* __[`<!-- END POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme) :__ ligne 
 * __[`{THUMBNAIL}`](https://github.com/Etana/template.list/blob/master/var/THUMBNAIL.md#readme)<a href="https://fa-tvars.appspot.com/var/THUMBNAIL">*</a> :__ ligne [`5`](../../src/punbb/album_overview_top10.tpl#L5)
 * __[`<!-- BEGIN switch_rank -->`](https://github.com/Etana/template.list/blob/master/var/switch_rank.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_rank">*</a> :__ ligne [`7`](../../src/punbb/album_overview_top10.tpl#L7)
     * __[`{switch_rank.L_TITLE}`](https://github.com/Etana/template.list/blob/master/var/switch_rank.L_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_rank.L_TITLE">*</a> :__ ligne [`8`](../../src/punbb/album_overview_top10.tpl#L8)

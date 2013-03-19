@@ -30,7 +30,8 @@
 * __[`{L_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TITLE">*</a> :__ lignes [`18`](../../src/punbb/modcp_viewip.tpl#L18), [`24`](../../src/punbb/modcp_viewip.tpl#L24)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_CAT_DESC">*</a> :__ ligne [`18`](../../src/punbb/modcp_viewip.tpl#L18)
 * __[`{POSTED}`](https://github.com/Etana/template.list/blob/master/var/POSTED.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTED">*</a> :__ ligne [`43`](../../src/punbb/modcp_viewip.tpl#L43)
-* __[`{POSTER}`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER">*</a> :__ ligne [`35`](../../src/punbb/modcp_viewip.tpl#L35)
+* __[`<!-- BEGIN POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER">*</a> :__ ligne [`35`](../../src/punbb/modcp_viewip.tpl#L35)
+* __[`<!-- END POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme) :__ ligne 
 * __[`{POSTS}`](https://github.com/Etana/template.list/blob/master/var/POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTS">*</a> :__ ligne [`64`](../../src/punbb/modcp_viewip.tpl#L64)
 * __[`{PREVIEW_NEW}`](https://github.com/Etana/template.list/blob/master/var/PREVIEW_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/PREVIEW_NEW">*</a> :__ ligne [`115`](../../src/punbb/modcp_viewip.tpl#L115)
 * __[`{SUBJECT}`](https://github.com/Etana/template.list/blob/master/var/SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/SUBJECT">*</a> :__ ligne [`31`](../../src/punbb/modcp_viewip.tpl#L31)

@@ -12,7 +12,7 @@ contenu
 ##Description[*](https://fa-tvars.appspot.com/var/message_admin_index)
 Boucle contenant le message d'accueil.
 
-* __Code :__ [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](message_admin_index.md#readme)
+* __Code :__ {%message_admin_index%}
 
 ## Attributs
 * __[`<!-- BEGIN message_admin_titre -->`](message_admin_index.message_admin_titre.md#readme)__
