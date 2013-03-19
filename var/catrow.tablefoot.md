@@ -12,10 +12,6 @@ Attribut de [catrow](catrow.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablefoot)
 
-## Attributs
-* [{catrow.tablefoot.SPACER}](catrow.tablefoot.SPACER.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

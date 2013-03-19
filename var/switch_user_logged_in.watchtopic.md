@@ -12,10 +12,6 @@ Attribut de [switch_user_logged_in](switch_user_logged_in.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)
 
-## Attributs
-* [{switch_user_logged_in.watchtopic.S_WATCH_TOPIC}](switch_user_logged_in.watchtopic.S_WATCH_TOPIC.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

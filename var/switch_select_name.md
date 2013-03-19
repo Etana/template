@@ -12,11 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_select_name)
 
-## Attributs
-* [{switch_select_name.L_SELECT}](switch_select_name.L_SELECT.md#readme)
-* [{switch_select_name.S_USERNAME_OPTIONS}](switch_select_name.S_USERNAME_OPTIONS.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -16,10 +16,6 @@ Attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.pagination)
 
-## Attributs
-* [{topics_list_box.row.header_table.pagination.PAGINATION}](topics_list_box.row.header_table.pagination.PAGINATION.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version phpBB2

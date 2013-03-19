@@ -12,33 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_legend)
 
-## Attributs
-* [{switch_legend.FOLDER_ANNOUNCE_IMG}](switch_legend.FOLDER_ANNOUNCE_IMG.md#readme)
-* [{switch_legend.FOLDER_GLOBAL_ANNOUNCE_IMG}](switch_legend.FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)
-* [{switch_legend.FOLDER_HOT_IMG}](switch_legend.FOLDER_HOT_IMG.md#readme)
-* [{switch_legend.FOLDER_HOT_NEW_IMG}](switch_legend.FOLDER_HOT_NEW_IMG.md#readme)
-* [{switch_legend.FOLDER_IMG}](switch_legend.FOLDER_IMG.md#readme)
-* [{switch_legend.FOLDER_LOCKED_IMG}](switch_legend.FOLDER_LOCKED_IMG.md#readme)
-* [{switch_legend.FOLDER_LOCKED_NEW_IMG}](switch_legend.FOLDER_LOCKED_NEW_IMG.md#readme)
-* [{switch_legend.FOLDER_NEW_IMG}](switch_legend.FOLDER_NEW_IMG.md#readme)
-* [{switch_legend.FOLDER_STICKY_IMG}](switch_legend.FOLDER_STICKY_IMG.md#readme)
-* [{switch_legend.FORUM_IMG}](switch_legend.FORUM_IMG.md#readme)
-* [{switch_legend.FORUM_LOCKED_IMG}](switch_legend.FORUM_LOCKED_IMG.md#readme)
-* [{switch_legend.FORUM_NEW_IMG}](switch_legend.FORUM_NEW_IMG.md#readme)
-* [{switch_legend.L_FOLDER_ANNOUNCE_IMG}](switch_legend.L_FOLDER_ANNOUNCE_IMG.md#readme)
-* [{switch_legend.L_FOLDER_GLOBAL_ANNOUNCE_IMG}](switch_legend.L_FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)
-* [{switch_legend.L_FOLDER_HOT_IMG}](switch_legend.L_FOLDER_HOT_IMG.md#readme)
-* [{switch_legend.L_FOLDER_HOT_NEW_IMG}](switch_legend.L_FOLDER_HOT_NEW_IMG.md#readme)
-* [{switch_legend.L_FOLDER_IMG}](switch_legend.L_FOLDER_IMG.md#readme)
-* [{switch_legend.L_FOLDER_LOCKED_IMG}](switch_legend.L_FOLDER_LOCKED_IMG.md#readme)
-* [{switch_legend.L_FOLDER_LOCKED_NEW_IMG}](switch_legend.L_FOLDER_LOCKED_NEW_IMG.md#readme)
-* [{switch_legend.L_FOLDER_NEW_IMG}](switch_legend.L_FOLDER_NEW_IMG.md#readme)
-* [{switch_legend.L_FOLDER_STICKY_IMG}](switch_legend.L_FOLDER_STICKY_IMG.md#readme)
-* [{switch_legend.L_FORUM_LOCKED}](switch_legend.L_FORUM_LOCKED.md#readme)
-* [{switch_legend.L_NEW_POSTS}](switch_legend.L_NEW_POSTS.md#readme)
-* [{switch_legend.L_NO_NEW_POSTS}](switch_legend.L_NO_NEW_POSTS.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

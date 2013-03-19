@@ -13,8 +13,8 @@ Attribut de [phonecall_method](phonecall_method.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)
 
 ## Attributs
-* [{phonecall_method.hidden_field.NAME}](phonecall_method.hidden_field.NAME.md#readme)
-* [{phonecall_method.hidden_field.VALUE}](phonecall_method.hidden_field.VALUE.md#readme)
+* [{phonecall_method.hidden_field.phonecall_method.hidden_field.NAME}](phonecall_method.hidden_field.phonecall_method.hidden_field.NAME.md#readme)
+* [{phonecall_method.hidden_field.phonecall_method.hidden_field.VALUE}](phonecall_method.hidden_field.phonecall_method.hidden_field.VALUE.md#readme)
 
 
 ## Utilisations dans les templates

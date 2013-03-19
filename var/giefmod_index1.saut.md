@@ -12,10 +12,6 @@ Attribut de [giefmod_index1](giefmod_index1.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
 
-## Attributs
-* [{giefmod_index1.saut.SPACE_ROW}](giefmod_index1.saut.SPACE_ROW.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

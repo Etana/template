@@ -18,10 +18,6 @@ Attribut de [topics_list_box.row.topic.table_sticky](topics_list_box.row.topic.t
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.multi_selection)
 
-## Attributs
-* [{topics_list_box.row.topic.table_sticky.multi_selection.BOX_ID}](topics_list_box.row.topic.table_sticky.multi_selection.BOX_ID.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -12,12 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/watchsearch1)
 
-## Attributs
-* [{watchsearch1.L_MARK_ALL}](watchsearch1.L_MARK_ALL.md#readme)
-* [{watchsearch1.L_STOP_WATCH}](watchsearch1.L_STOP_WATCH.md#readme)
-* [{watchsearch1.L_UNMARK_ALL}](watchsearch1.L_UNMARK_ALL.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version phpBB2

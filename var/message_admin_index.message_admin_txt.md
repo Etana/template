@@ -13,7 +13,7 @@ Attribut de [message_admin_index](message_admin_index.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
 
 ## Attributs
-* [{message_admin_index.message_admin_txt.MES_TXT}](message_admin_index.message_admin_txt.MES_TXT.md#readme)
+* [{message_admin_index.message_admin_txt.message_admin_index.message_admin_txt.MES_TXT}](message_admin_index.message_admin_txt.message_admin_index.message_admin_txt.MES_TXT.md#readme)
 
 
 ## Utilisations dans les templates

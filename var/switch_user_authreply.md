@@ -12,12 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authreply)
 
-## Attributs
-* [{switch_user_authreply.L_POST_REPLY_TOPIC}](switch_user_authreply.L_POST_REPLY_TOPIC.md#readme)
-* [{switch_user_authreply.REPLY_IMG}](switch_user_authreply.REPLY_IMG.md#readme)
-* [{switch_user_authreply.U_POST_REPLY_TOPIC}](switch_user_authreply.U_POST_REPLY_TOPIC.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

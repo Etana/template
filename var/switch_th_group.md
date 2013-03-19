@@ -12,10 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_th_group)
 
-## Attributs
-* [{switch_th_group.L_GROUPS}](switch_th_group.L_GROUPS.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

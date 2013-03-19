@@ -13,8 +13,6 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules)
 
 ## Attributs
-* [{switch_forum_rules.L_FORUM_RULES}](switch_forum_rules.L_FORUM_RULES.md#readme)
-* [{switch_forum_rules.RULE_MSG}](switch_forum_rules.RULE_MSG.md#readme)
 * [<!-- BEGIN switch_forum_rule_image -->](switch_forum_rules.switch_forum_rule_image.md#readme)
 
 

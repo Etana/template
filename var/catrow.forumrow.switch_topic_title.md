@@ -14,12 +14,6 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)
 
-## Attributs
-* [{catrow.forumrow.switch_topic_title.LATEST_TOPIC_NAME}](catrow.forumrow.switch_topic_title.LATEST_TOPIC_NAME.md#readme)
-* [{catrow.forumrow.switch_topic_title.LATEST_TOPIC_TITLE}](catrow.forumrow.switch_topic_title.LATEST_TOPIC_TITLE.md#readme)
-* [{catrow.forumrow.switch_topic_title.U_LATEST_TOPIC}](catrow.forumrow.switch_topic_title.U_LATEST_TOPIC.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

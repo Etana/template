@@ -13,12 +13,6 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index)
 
 ## Attributs
-* [{switch_on_index.L_OVERALL_POSTERS}](switch_on_index.L_OVERALL_POSTERS.md#readme)
-* [{switch_on_index.L_TODAY_ACTIVE}](switch_on_index.L_TODAY_ACTIVE.md#readme)
-* [{switch_on_index.L_TODAY_POSTERS}](switch_on_index.L_TODAY_POSTERS.md#readme)
-* [{switch_on_index.U_OVERALL_POSTERS}](switch_on_index.U_OVERALL_POSTERS.md#readme)
-* [{switch_on_index.U_TODAY_ACTIVE}](switch_on_index.U_TODAY_ACTIVE.md#readme)
-* [{switch_on_index.U_TODAY_POSTERS}](switch_on_index.U_TODAY_POSTERS.md#readme)
 * [<!-- BEGIN switch_delete_cookies -->](switch_on_index.switch_delete_cookies.md#readme)
 
 

@@ -13,14 +13,6 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new)
 
 ## Attributs
-* [{switch_ticker_new.CLASS_TABLE_TYPE}](switch_ticker_new.CLASS_TABLE_TYPE.md#readme)
-* [{switch_ticker_new.DIRECTION}](switch_ticker_new.DIRECTION.md#readme)
-* [{switch_ticker_new.HEIGHT}](switch_ticker_new.HEIGHT.md#readme)
-* [{switch_ticker_new.JS_DIR}](switch_ticker_new.JS_DIR.md#readme)
-* [{switch_ticker_new.SIZE}](switch_ticker_new.SIZE.md#readme)
-* [{switch_ticker_new.SPACING}](switch_ticker_new.SPACING.md#readme)
-* [{switch_ticker_new.SPEED}](switch_ticker_new.SPEED.md#readme)
-* [{switch_ticker_new.STOP_TIME}](switch_ticker_new.STOP_TIME.md#readme)
 * [<!-- BEGIN ticker_row -->](switch_ticker_new.ticker_row.md#readme)
 
 

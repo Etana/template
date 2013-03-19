@@ -15,8 +15,7 @@ Attribut de [disable_viewonline.switch_chatbox_activate](disable_viewonline.swit
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup)
 
 ## Attributs
-* [{disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.L_CLICK_TO_JOIN_CHAT}](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.L_CLICK_TO_JOIN_CHAT.md#readme)
-* [{disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX}](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX.md#readme)
+* [{disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX}](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX.md#readme)
 
 
 ## Utilisations dans les templates

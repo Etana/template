@@ -13,12 +13,10 @@ Attribut de [faq_block](faq_block.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
 
 ## Attributs
-* [{faq_block.faq_row.FAQ_ANSWER}](faq_block.faq_row.FAQ_ANSWER.md#readme)
-* [{faq_block.faq_row.FAQ_QUESTION}](faq_block.faq_row.FAQ_QUESTION.md#readme)
-* [{faq_block.faq_row.L_BACK_TO_TOP}](faq_block.faq_row.L_BACK_TO_TOP.md#readme)
-* [{faq_block.faq_row.L_BACK_TO_TOP_TEXT}](faq_block.faq_row.L_BACK_TO_TOP_TEXT.md#readme)
-* [{faq_block.faq_row.ROW_CLASS}](faq_block.faq_row.ROW_CLASS.md#readme)
-* [{faq_block.faq_row.U_FAQ_ID}](faq_block.faq_row.U_FAQ_ID.md#readme)
+* [{faq_block.faq_row.faq_block.faq_row.FAQ_ANSWER}](faq_block.faq_row.faq_block.faq_row.FAQ_ANSWER.md#readme)
+* [{faq_block.faq_row.faq_block.faq_row.FAQ_QUESTION}](faq_block.faq_row.faq_block.faq_row.FAQ_QUESTION.md#readme)
+* [{faq_block.faq_row.faq_block.faq_row.ROW_CLASS}](faq_block.faq_row.faq_block.faq_row.ROW_CLASS.md#readme)
+* [{faq_block.faq_row.faq_block.faq_row.U_FAQ_ID}](faq_block.faq_row.faq_block.faq_row.U_FAQ_ID.md#readme)
 
 
 ## Utilisations dans les templates

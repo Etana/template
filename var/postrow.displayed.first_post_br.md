@@ -14,11 +14,6 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.first_post_br)
 
-## Attributs
-* [{postrow.displayed.first_post_br.L_AUTHOR}](postrow.displayed.first_post_br.L_AUTHOR.md#readme)
-* [{postrow.displayed.first_post_br.L_MESSAGE}](postrow.displayed.first_post_br.L_MESSAGE.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

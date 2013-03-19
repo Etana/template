@@ -12,10 +12,6 @@ Attribut de [disable_viewonline](disable_viewonline.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_nolink)
 
-## Attributs
-* [{disable_viewonline.switch_viewonline_nolink.L_WHO_IS_ONLINE}](disable_viewonline.switch_viewonline_nolink.L_WHO_IS_ONLINE.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

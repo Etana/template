@@ -13,8 +13,8 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_image_resize)
 
 ## Attributs
-* [{switch_image_resize.IMG_RESIZE_HEIGHT}](switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)
-* [{switch_image_resize.IMG_RESIZE_WIDTH}](switch_image_resize.IMG_RESIZE_WIDTH.md#readme)
+* [{switch_image_resize.switch_image_resize.IMG_RESIZE_HEIGHT}](switch_image_resize.switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)
+* [{switch_image_resize.switch_image_resize.IMG_RESIZE_WIDTH}](switch_image_resize.switch_image_resize.IMG_RESIZE_WIDTH.md#readme)
 
 
 ## Utilisations dans les templates

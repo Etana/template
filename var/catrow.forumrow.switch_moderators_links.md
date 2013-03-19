@@ -15,8 +15,8 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
 
 ## Attributs
-* [{catrow.forumrow.switch_moderators_links.L_MODERATOR}](catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)
-* [{catrow.forumrow.switch_moderators_links.MODERATORS}](catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)
+* [{catrow.forumrow.switch_moderators_links.catrow.forumrow.switch_moderators_links.L_MODERATOR}](catrow.forumrow.switch_moderators_links.catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)
+* [{catrow.forumrow.switch_moderators_links.catrow.forumrow.switch_moderators_links.MODERATORS}](catrow.forumrow.switch_moderators_links.catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)
 
 
 ## Utilisations dans les templates

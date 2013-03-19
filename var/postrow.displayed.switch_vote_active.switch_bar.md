@@ -17,7 +17,6 @@ Attribut de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar)
 
 ## Attributs
-* [{postrow.displayed.switch_vote_active.switch_bar.L_VOTE_TITLE}](postrow.displayed.switch_vote_active.switch_bar.L_VOTE_TITLE.md#readme)
 * [<!-- BEGIN switch_vote_minus -->](postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.md#readme)
 * [<!-- BEGIN switch_vote_plus -->](postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.md#readme)
 

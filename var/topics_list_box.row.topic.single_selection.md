@@ -16,13 +16,6 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.single_selection)
 
-## Attributs
-* [{topics_list_box.row.topic.single_selection.FID}](topics_list_box.row.topic.single_selection.FID.md#readme)
-* [{topics_list_box.row.topic.single_selection.FIELDNAME}](topics_list_box.row.topic.single_selection.FIELDNAME.md#readme)
-* [{topics_list_box.row.topic.single_selection.L_SELECT}](topics_list_box.row.topic.single_selection.L_SELECT.md#readme)
-* [{topics_list_box.row.topic.single_selection.ROW_CLASS}](topics_list_box.row.topic.single_selection.ROW_CLASS.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -12,11 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
 
-## Attributs
-* [{switch_fb_likebtn.FORUM_URL}](switch_fb_likebtn.FORUM_URL.md#readme)
-* [{switch_fb_likebtn.TOPIC_URL}](switch_fb_likebtn.TOPIC_URL.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

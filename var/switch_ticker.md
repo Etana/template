@@ -13,13 +13,12 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker)
 
 ## Attributs
-* [{switch_ticker.CLASS_TABLE_TYPE}](switch_ticker.CLASS_TABLE_TYPE.md#readme)
-* [{switch_ticker.DIRECTION}](switch_ticker.DIRECTION.md#readme)
-* [{switch_ticker.HEIGHT}](switch_ticker.HEIGHT.md#readme)
-* [{switch_ticker.JS_DIR}](switch_ticker.JS_DIR.md#readme)
-* [{switch_ticker.SPACING}](switch_ticker.SPACING.md#readme)
-* [{switch_ticker.SPEED}](switch_ticker.SPEED.md#readme)
-* [{switch_ticker.STOP_TIME}](switch_ticker.STOP_TIME.md#readme)
+* [{switch_ticker.switch_ticker.DIRECTION}](switch_ticker.switch_ticker.DIRECTION.md#readme)
+* [{switch_ticker.switch_ticker.HEIGHT}](switch_ticker.switch_ticker.HEIGHT.md#readme)
+* [{switch_ticker.switch_ticker.SIZE}](switch_ticker.switch_ticker.SIZE.md#readme)
+* [{switch_ticker.switch_ticker.SPACING}](switch_ticker.switch_ticker.SPACING.md#readme)
+* [{switch_ticker.switch_ticker.SPEED}](switch_ticker.switch_ticker.SPEED.md#readme)
+* [{switch_ticker.switch_ticker.STOP_TIME}](switch_ticker.switch_ticker.STOP_TIME.md#readme)
 * [<!-- BEGIN ticker_row -->](switch_ticker.ticker_row.md#readme)
 
 

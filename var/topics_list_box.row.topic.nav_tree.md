@@ -16,10 +16,6 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.nav_tree)
 
-## Attributs
-* [{topics_list_box.row.topic.nav_tree.TOPIC_NAV_TREE}](topics_list_box.row.topic.nav_tree.TOPIC_NAV_TREE.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version phpBB2

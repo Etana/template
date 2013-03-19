@@ -10,10 +10,6 @@ Cette variable est utilisable directement.
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
 
-## Attributs
-* [{switch_facebook_logout_TMP.SERVER_NAME}](switch_facebook_logout_TMP.SERVER_NAME.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

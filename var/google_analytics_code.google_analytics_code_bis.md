@@ -12,10 +12,6 @@ Attribut de [google_analytics_code](google_analytics_code.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code.google_analytics_code_bis)
 
-## Attributs
-* [{google_analytics_code.google_analytics_code_bis.G_ANALYTICS_ID_BIS}](google_analytics_code.google_analytics_code_bis.G_ANALYTICS_ID_BIS.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

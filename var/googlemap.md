@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap)
 
 ## Attributs
-* [{googlemap.U_GOOGLEMAP}](googlemap.U_GOOGLEMAP.md#readme)
+* [{googlemap.googlemap.U_GOOGLEMAP}](googlemap.googlemap.U_GOOGLEMAP.md#readme)
 
 
 ## Utilisations dans les templates

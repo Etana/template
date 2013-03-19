@@ -12,11 +12,6 @@ Attribut de [memberrow](memberrow.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
 
-## Attributs
-* [{memberrow.switch_td_group.GROUPS}](memberrow.switch_td_group.GROUPS.md#readme)
-* [{memberrow.switch_td_group.ROW_CLASS}](memberrow.switch_td_group.ROW_CLASS.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

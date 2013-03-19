@@ -14,11 +14,6 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
 
-## Attributs
-* [{postrow.displayed.switch_signature.SIGNATURE}](postrow.displayed.switch_signature.SIGNATURE.md#readme)
-* [{postrow.displayed.switch_signature.SIGNATURE_NEW}](postrow.displayed.switch_signature.SIGNATURE_NEW.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

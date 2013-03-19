@@ -13,8 +13,8 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats)
 
 ## Attributs
-* [{switch_view_stats.L_STATS}](switch_view_stats.L_STATS.md#readme)
-* [{switch_view_stats.S_STATS}](switch_view_stats.S_STATS.md#readme)
+* [{switch_view_stats.switch_view_stats.L_STATS}](switch_view_stats.switch_view_stats.L_STATS.md#readme)
+* [{switch_view_stats.switch_view_stats.S_STATS}](switch_view_stats.switch_view_stats.S_STATS.md#readme)
 
 
 ## Utilisations dans les templates

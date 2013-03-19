@@ -12,11 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_pagination)
 
-## Attributs
-* [{switch_pagination.PAGE_NUMBER}](switch_pagination.PAGE_NUMBER.md#readme)
-* [{switch_pagination.PAGINATION}](switch_pagination.PAGINATION.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

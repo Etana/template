@@ -12,12 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_logo_center)
 
-## Attributs
-* [{switch_logo_center.LOGO}](switch_logo_center.LOGO.md#readme)
-* [{switch_logo_center.L_INDEX}](switch_logo_center.L_INDEX.md#readme)
-* [{switch_logo_center.U_INDEX}](switch_logo_center.U_INDEX.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version phpBB2

@@ -12,12 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/show_permissions)
 
-## Attributs
-* [{show_permissions.L_TABS_PERMISSIONS}](show_permissions.L_TABS_PERMISSIONS.md#readme)
-* [{show_permissions.S_AUTH_LIST}](show_permissions.S_AUTH_LIST.md#readme)
-* [{show_permissions.TABS_LESS_IMG}](show_permissions.TABS_LESS_IMG.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version phpBB2

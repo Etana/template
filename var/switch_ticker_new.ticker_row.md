@@ -12,10 +12,6 @@ Attribut de [switch_ticker_new](switch_ticker_new.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new.ticker_row)
 
-## Attributs
-* [{switch_ticker_new.ticker_row.ELEMENT}](switch_ticker_new.ticker_row.ELEMENT.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -12,10 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topicpagination)
 
-## Attributs
-* [{topicpagination.PAGINATION}](topicpagination.PAGINATION.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

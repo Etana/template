@@ -12,10 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_menu)
 
-## Attributs
-* [{switch_menu.UCP_TABS}](switch_menu.UCP_TABS.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version phpBB2

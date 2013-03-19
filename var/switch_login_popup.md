@@ -12,19 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_login_popup)
 
-## Attributs
-* [{switch_login_popup.LOGIN_POPUP_HEIGHT}](switch_login_popup.LOGIN_POPUP_HEIGHT.md#readme)
-* [{switch_login_popup.LOGIN_POPUP_MSG}](switch_login_popup.LOGIN_POPUP_MSG.md#readme)
-* [{switch_login_popup.LOGIN_POPUP_MSG_HEIGHT}](switch_login_popup.LOGIN_POPUP_MSG_HEIGHT.md#readme)
-* [{switch_login_popup.LOGIN_POPUP_WIDTH}](switch_login_popup.LOGIN_POPUP_WIDTH.md#readme)
-* [{switch_login_popup.L_DONT_DISPLAY_AGAIN}](switch_login_popup.L_DONT_DISPLAY_AGAIN.md#readme)
-* [{switch_login_popup.L_LOGIN}](switch_login_popup.L_LOGIN.md#readme)
-* [{switch_login_popup.L_REGISTER}](switch_login_popup.L_REGISTER.md#readme)
-* [{switch_login_popup.SITENAME}](switch_login_popup.SITENAME.md#readme)
-* [{switch_login_popup.S_LOGIN_ACTION}](switch_login_popup.S_LOGIN_ACTION.md#readme)
-* [{switch_login_popup.U_REGISTER}](switch_login_popup.U_REGISTER.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

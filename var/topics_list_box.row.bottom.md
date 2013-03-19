@@ -15,14 +15,7 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom)
 
 ## Attributs
-* [{topics_list_box.row.bottom.COLSPAN}](topics_list_box.row.bottom.COLSPAN.md#readme)
-* [{topics_list_box.row.bottom.COUNT_TOTAL_TOPICS}](topics_list_box.row.bottom.COUNT_TOTAL_TOPICS.md#readme)
-* [{topics_list_box.row.bottom.L_BACK_TO_TOP}](topics_list_box.row.bottom.L_BACK_TO_TOP.md#readme)
-* [{topics_list_box.row.bottom.L_MARK_TOPICS_READ}](topics_list_box.row.bottom.L_MARK_TOPICS_READ.md#readme)
-* [{topics_list_box.row.bottom.L_TOPICS}](topics_list_box.row.bottom.L_TOPICS.md#readme)
-* [{topics_list_box.row.bottom.PAGINATION}](topics_list_box.row.bottom.PAGINATION.md#readme)
-* [{topics_list_box.row.bottom.S_WATCH_FORUM}](topics_list_box.row.bottom.S_WATCH_FORUM.md#readme)
-* [{topics_list_box.row.bottom.U_MARK_READ}](topics_list_box.row.bottom.U_MARK_READ.md#readme)
+* [{topics_list_box.row.bottom.topics_list_box.row.bottom.COUNT_TOTAL_TOPICS}](topics_list_box.row.bottom.topics_list_box.row.bottom.COUNT_TOTAL_TOPICS.md#readme)
 * [<!-- BEGIN multi_selection -->](topics_list_box.row.bottom.multi_selection.md#readme)
 
 

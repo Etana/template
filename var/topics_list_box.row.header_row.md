@@ -14,11 +14,6 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_row)
 
-## Attributs
-* [{topics_list_box.row.header_row.COLSPAN}](topics_list_box.row.header_row.COLSPAN.md#readme)
-* [{topics_list_box.row.header_row.L_TITLE}](topics_list_box.row.header_row.L_TITLE.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

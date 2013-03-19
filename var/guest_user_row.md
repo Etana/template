@@ -13,11 +13,11 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/guest_user_row)
 
 ## Attributs
-* [{guest_user_row.FORUM_LOCATION}](guest_user_row.FORUM_LOCATION.md#readme)
-* [{guest_user_row.LASTUPDATE}](guest_user_row.LASTUPDATE.md#readme)
-* [{guest_user_row.ROW_CLASS}](guest_user_row.ROW_CLASS.md#readme)
-* [{guest_user_row.USERNAME}](guest_user_row.USERNAME.md#readme)
-* [{guest_user_row.U_FORUM_LOCATION}](guest_user_row.U_FORUM_LOCATION.md#readme)
+* [{guest_user_row.guest_user_row.FORUM_LOCATION}](guest_user_row.guest_user_row.FORUM_LOCATION.md#readme)
+* [{guest_user_row.guest_user_row.LASTUPDATE}](guest_user_row.guest_user_row.LASTUPDATE.md#readme)
+* [{guest_user_row.guest_user_row.ROW_CLASS}](guest_user_row.guest_user_row.ROW_CLASS.md#readme)
+* [{guest_user_row.guest_user_row.USERNAME}](guest_user_row.guest_user_row.USERNAME.md#readme)
+* [{guest_user_row.guest_user_row.U_FORUM_LOCATION}](guest_user_row.guest_user_row.U_FORUM_LOCATION.md#readme)
 
 
 ## Utilisations dans les templates

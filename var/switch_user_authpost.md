@@ -12,14 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authpost)
 
-## Attributs
-* [{switch_user_authpost.L_POST_NEW_TOPIC}](switch_user_authpost.L_POST_NEW_TOPIC.md#readme)
-* [{switch_user_authpost.POST_IMG}](switch_user_authpost.POST_IMG.md#readme)
-* [{switch_user_authpost.POST_IMG_CLASS}](switch_user_authpost.POST_IMG_CLASS.md#readme)
-* [{switch_user_authpost.POST_IMG_ID}](switch_user_authpost.POST_IMG_ID.md#readme)
-* [{switch_user_authpost.U_POST_NEW_TOPIC}](switch_user_authpost.U_POST_NEW_TOPIC.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

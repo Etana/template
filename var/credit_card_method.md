@@ -13,15 +13,6 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method)
 
 ## Attributs
-* [{credit_card_method.CURRENCY}](credit_card_method.CURRENCY.md#readme)
-* [{credit_card_method.L_BY}](credit_card_method.L_BY.md#readme)
-* [{credit_card_method.L_BY_PAYMENT_EXPLAIN}](credit_card_method.L_BY_PAYMENT_EXPLAIN.md#readme)
-* [{credit_card_method.L_CANCEL}](credit_card_method.L_CANCEL.md#readme)
-* [{credit_card_method.L_INSERT_SUM}](credit_card_method.L_INSERT_SUM.md#readme)
-* [{credit_card_method.L_SELECT_SUM}](credit_card_method.L_SELECT_SUM.md#readme)
-* [{credit_card_method.L_SUBMIT}](credit_card_method.L_SUBMIT.md#readme)
-* [{credit_card_method.PAY_METHOD}](credit_card_method.PAY_METHOD.md#readme)
-* [{credit_card_method.S_CREDITS_ADD_ACTION}](credit_card_method.S_CREDITS_ADD_ACTION.md#readme)
 * [<!-- BEGIN credits_option -->](credit_card_method.credits_option.md#readme)
 * [<!-- BEGIN switch_select_currency -->](credit_card_method.switch_select_currency.md#readme)
 

@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_canonical_url)
 
 ## Attributs
-* [{switch_canonical_url.CANONICAL_URL}](switch_canonical_url.CANONICAL_URL.md#readme)
+* [{switch_canonical_url.switch_canonical_url.CANONICAL_URL}](switch_canonical_url.switch_canonical_url.CANONICAL_URL.md#readme)
 
 
 ## Utilisations dans les templates

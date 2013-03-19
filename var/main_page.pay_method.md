@@ -13,10 +13,9 @@ Attribut de [main_page](main_page.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method)
 
 ## Attributs
-* [{main_page.pay_method.B_SUBMIT}](main_page.pay_method.B_SUBMIT.md#readme)
-* [{main_page.pay_method.I_BY_METHOD}](main_page.pay_method.I_BY_METHOD.md#readme)
-* [{main_page.pay_method.L_BY_METHOD}](main_page.pay_method.L_BY_METHOD.md#readme)
-* [{main_page.pay_method.S_CREDITS_ADD_ACTION}](main_page.pay_method.S_CREDITS_ADD_ACTION.md#readme)
+* [{main_page.pay_method.main_page.pay_method.B_SUBMIT}](main_page.pay_method.main_page.pay_method.B_SUBMIT.md#readme)
+* [{main_page.pay_method.main_page.pay_method.I_BY_METHOD}](main_page.pay_method.main_page.pay_method.I_BY_METHOD.md#readme)
+* [{main_page.pay_method.main_page.pay_method.L_BY_METHOD}](main_page.pay_method.main_page.pay_method.L_BY_METHOD.md#readme)
 * [<!-- BEGIN radio -->](main_page.pay_method.radio.md#readme)
 
 

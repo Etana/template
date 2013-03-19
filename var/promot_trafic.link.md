@@ -13,8 +13,8 @@ Attribut de [promot_trafic](promot_trafic.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link)
 
 ## Attributs
-* [{promot_trafic.link.TITLE}](promot_trafic.link.TITLE.md#readme)
-* [{promot_trafic.link.U_HREF}](promot_trafic.link.U_HREF.md#readme)
+* [{promot_trafic.link.promot_trafic.link.TITLE}](promot_trafic.link.promot_trafic.link.TITLE.md#readme)
+* [{promot_trafic.link.promot_trafic.link.U_HREF}](promot_trafic.link.promot_trafic.link.U_HREF.md#readme)
 
 
 ## Utilisations dans les templates

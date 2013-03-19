@@ -15,8 +15,7 @@ Attribut de [catrow.forumrow](catrow.forumrow.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)
 
 ## Attributs
-* [{catrow.forumrow.inc.INC_CLASS}](catrow.forumrow.inc.INC_CLASS.md#readme)
-* [{catrow.forumrow.inc.SPACER}](catrow.forumrow.inc.SPACER.md#readme)
+* [{catrow.forumrow.inc.catrow.forumrow.inc.INC_CLASS}](catrow.forumrow.inc.catrow.forumrow.inc.INC_CLASS.md#readme)
 
 
 ## Utilisations dans les templates

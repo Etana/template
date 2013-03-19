@@ -12,10 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
 
-## Attributs
-* [{switch_enable_pm_popup.U_PRIVATEMSGS_POPUP}](switch_enable_pm_popup.U_PRIVATEMSGS_POPUP.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -13,12 +13,6 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page)
 
 ## Attributs
-* [{main_page.DONATE_TEXT}](main_page.DONATE_TEXT.md#readme)
-* [{main_page.DONATE_TITLE}](main_page.DONATE_TITLE.md#readme)
-* [{main_page.L_CREDIT_ADD_TITLE}](main_page.L_CREDIT_ADD_TITLE.md#readme)
-* [{main_page.L_MAKE_DONATION}](main_page.L_MAKE_DONATION.md#readme)
-* [{main_page.L_TERMS_OF_SERVICE}](main_page.L_TERMS_OF_SERVICE.md#readme)
-* [{main_page.TERMS_OF_SERVICE}](main_page.TERMS_OF_SERVICE.md#readme)
 * [<!-- BEGIN pay_method -->](main_page.pay_method.md#readme)
 
 

@@ -13,14 +13,6 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm)
 
 ## Attributs
-* [{paypal_confirm.LEFT}](paypal_confirm.LEFT.md#readme)
-* [{paypal_confirm.L_NO}](paypal_confirm.L_NO.md#readme)
-* [{paypal_confirm.L_YES}](paypal_confirm.L_YES.md#readme)
-* [{paypal_confirm.MESSAGE_TEXT}](paypal_confirm.MESSAGE_TEXT.md#readme)
-* [{paypal_confirm.MESSAGE_TITLE}](paypal_confirm.MESSAGE_TITLE.md#readme)
-* [{paypal_confirm.RIGHT}](paypal_confirm.RIGHT.md#readme)
-* [{paypal_confirm.S_CONFIRM_ACTION}](paypal_confirm.S_CONFIRM_ACTION.md#readme)
-* [{paypal_confirm.S_CREDITS_ADD_ACTION}](paypal_confirm.S_CREDITS_ADD_ACTION.md#readme)
 * [<!-- BEGIN hidden_field -->](paypal_confirm.hidden_field.md#readme)
 
 

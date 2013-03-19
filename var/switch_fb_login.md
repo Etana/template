@@ -13,8 +13,8 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_login)
 
 ## Attributs
-* [{switch_fb_login.FB_LOCAL}](switch_fb_login.FB_LOCAL.md#readme)
-* [{switch_fb_login.JS_FB_LOGIN}](switch_fb_login.JS_FB_LOGIN.md#readme)
+* [{switch_fb_login.switch_fb_login.FB_LOCAL}](switch_fb_login.switch_fb_login.FB_LOCAL.md#readme)
+* [{switch_fb_login.switch_fb_login.JS_FB_LOGIN}](switch_fb_login.switch_fb_login.JS_FB_LOGIN.md#readme)
 
 
 ## Utilisations dans les templates

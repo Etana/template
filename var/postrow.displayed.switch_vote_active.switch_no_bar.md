@@ -16,10 +16,6 @@ Attribut de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)
 
-## Attributs
-* [{postrow.displayed.switch_vote_active.switch_no_bar.L_VOTE_TITLE}](postrow.displayed.switch_vote_active.switch_no_bar.L_VOTE_TITLE.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -13,7 +13,6 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code)
 
 ## Attributs
-* [{google_analytics_code.G_ANALYTICS_ID}](google_analytics_code.G_ANALYTICS_ID.md#readme)
 * [<!-- BEGIN google_analytics_code_bis -->](google_analytics_code.google_analytics_code_bis.md#readme)
 
 

@@ -15,8 +15,7 @@ Attribut de [catrow.catfoot](catrow.catfoot.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.catfoot.inc)
 
 ## Attributs
-* [{catrow.catfoot.inc.INC_CLASS}](catrow.catfoot.inc.INC_CLASS.md#readme)
-* [{catrow.catfoot.inc.SPACER}](catrow.catfoot.inc.SPACER.md#readme)
+* [{catrow.catfoot.inc.catrow.catfoot.inc.INC_CLASS}](catrow.catfoot.inc.catrow.catfoot.inc.INC_CLASS.md#readme)
 
 
 ## Utilisations dans les templates

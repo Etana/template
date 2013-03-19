@@ -12,10 +12,6 @@ Attribut de [switch_forum_rules](switch_forum_rules.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
 
-## Attributs
-* [{switch_forum_rules.switch_forum_rule_image.RULE_IMG_URL}](switch_forum_rules.switch_forum_rule_image.RULE_IMG_URL.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

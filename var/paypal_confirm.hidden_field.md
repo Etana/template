@@ -13,8 +13,8 @@ Attribut de [paypal_confirm](paypal_confirm.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field)
 
 ## Attributs
-* [{paypal_confirm.hidden_field.NAME}](paypal_confirm.hidden_field.NAME.md#readme)
-* [{paypal_confirm.hidden_field.VALUE}](paypal_confirm.hidden_field.VALUE.md#readme)
+* [{paypal_confirm.hidden_field.paypal_confirm.hidden_field.NAME}](paypal_confirm.hidden_field.paypal_confirm.hidden_field.NAME.md#readme)
+* [{paypal_confirm.hidden_field.paypal_confirm.hidden_field.VALUE}](paypal_confirm.hidden_field.paypal_confirm.hidden_field.VALUE.md#readme)
 
 
 ## Utilisations dans les templates

@@ -17,9 +17,9 @@ Attribut de [postrow.displayed.switch_attachments](postrow.displayed.switch_atta
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments)
 
 ## Attributs
-* [{postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE}](postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE.md#readme)
-* [{postrow.displayed.switch_attachments.switch_post_attachments.NB_DL}](postrow.displayed.switch_attachments.switch_post_attachments.NB_DL.md#readme)
-* [{postrow.displayed.switch_attachments.switch_post_attachments.U_IMG}](postrow.displayed.switch_attachments.switch_post_attachments.U_IMG.md#readme)
+* [{postrow.displayed.switch_attachments.switch_post_attachments.postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE}](postrow.displayed.switch_attachments.switch_post_attachments.postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE.md#readme)
+* [{postrow.displayed.switch_attachments.switch_post_attachments.postrow.displayed.switch_attachments.switch_post_attachments.NB_DL}](postrow.displayed.switch_attachments.switch_post_attachments.postrow.displayed.switch_attachments.switch_post_attachments.NB_DL.md#readme)
+* [{postrow.displayed.switch_attachments.switch_post_attachments.postrow.displayed.switch_attachments.switch_post_attachments.U_IMG}](postrow.displayed.switch_attachments.switch_post_attachments.postrow.displayed.switch_attachments.switch_post_attachments.U_IMG.md#readme)
 * [<!-- BEGIN switch_dl_att -->](postrow.displayed.switch_attachments.switch_post_attachments.switch_dl_att.md#readme)
 * [<!-- BEGIN switch_no_comment -->](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.md#readme)
 * [<!-- BEGIN switch_no_dl_att -->](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme)

@@ -12,11 +12,6 @@ contenu
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/cancel_vote)
 
-## Attributs
-* [{cancel_vote.L_CANCEL_VOTE}](cancel_vote.L_CANCEL_VOTE.md#readme)
-* [{cancel_vote.U_CANCEL_VOTE}](cancel_vote.U_CANCEL_VOTE.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

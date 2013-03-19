@@ -20,11 +20,6 @@ contenu que l'utilisateur verra si il est déconnecté
 <!-- END switch_user_logged_out -->
 ```
 
-## Attributs
-* [{switch_user_logged_out.L_LOGIN_REGISTER}](switch_user_logged_out.L_LOGIN_REGISTER.md#readme)
-* [{switch_user_logged_out.L_NOT_CONNECTED}](switch_user_logged_out.L_NOT_CONNECTED.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

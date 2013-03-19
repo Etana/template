@@ -13,8 +13,6 @@ Attribut de [disable_viewonline](disable_viewonline.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate)
 
 ## Attributs
-* [{disable_viewonline.switch_chatbox_activate.CHATTERS_LIST}](disable_viewonline.switch_chatbox_activate.CHATTERS_LIST.md#readme)
-* [{disable_viewonline.switch_chatbox_activate.TOTAL_CHATTERS_ONLINE}](disable_viewonline.switch_chatbox_activate.TOTAL_CHATTERS_ONLINE.md#readme)
 * [<!-- BEGIN switch_chatbox_popup -->](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.md#readme)
 
 

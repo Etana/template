@@ -13,10 +13,10 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview)
 
 ## Attributs
-* [{hitskin_preview.L_RETURN_THEME}](hitskin_preview.L_RETURN_THEME.md#readme)
-* [{hitskin_preview.L_THEME_SITE_PREVIEW}](hitskin_preview.L_THEME_SITE_PREVIEW.md#readme)
-* [{hitskin_preview.U_INSTALL_THEME}](hitskin_preview.U_INSTALL_THEME.md#readme)
-* [{hitskin_preview.U_RETURN_THEME}](hitskin_preview.U_RETURN_THEME.md#readme)
+* [{hitskin_preview.hitskin_preview.L_RETURN_THEME}](hitskin_preview.hitskin_preview.L_RETURN_THEME.md#readme)
+* [{hitskin_preview.hitskin_preview.L_THEME_SITE_PREVIEW}](hitskin_preview.hitskin_preview.L_THEME_SITE_PREVIEW.md#readme)
+* [{hitskin_preview.hitskin_preview.U_INSTALL_THEME}](hitskin_preview.hitskin_preview.U_INSTALL_THEME.md#readme)
+* [{hitskin_preview.hitskin_preview.U_RETURN_THEME}](hitskin_preview.hitskin_preview.U_RETURN_THEME.md#readme)
 
 
 ## Utilisations dans les templates

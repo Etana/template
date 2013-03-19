@@ -16,12 +16,6 @@ Attribut de [topics_list_box.row.header_table](topics_list_box.row.header_table.
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.multi_selection)
 
-## Attributs
-* [{topics_list_box.row.header_table.multi_selection.BOX_ID}](topics_list_box.row.header_table.multi_selection.BOX_ID.md#readme)
-* [{topics_list_box.row.header_table.multi_selection.FIELDNAME}](topics_list_box.row.header_table.multi_selection.FIELDNAME.md#readme)
-* [{topics_list_box.row.header_table.multi_selection.FORMNAME}](topics_list_box.row.header_table.multi_selection.FORMNAME.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version PunBB

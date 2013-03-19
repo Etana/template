@@ -13,17 +13,6 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method)
 
 ## Attributs
-* [{phonecall_method.ALLOPASS_FLAGS}](phonecall_method.ALLOPASS_FLAGS.md#readme)
-* [{phonecall_method.L_BY_PHONECALL}](phonecall_method.L_BY_PHONECALL.md#readme)
-* [{phonecall_method.L_BY_PHONECALL_EXPLAIN}](phonecall_method.L_BY_PHONECALL_EXPLAIN.md#readme)
-* [{phonecall_method.L_BY_PHONECALL_EXPLAIN_2}](phonecall_method.L_BY_PHONECALL_EXPLAIN_2.md#readme)
-* [{phonecall_method.L_CANCEL}](phonecall_method.L_CANCEL.md#readme)
-* [{phonecall_method.L_FIRST_STEP}](phonecall_method.L_FIRST_STEP.md#readme)
-* [{phonecall_method.L_INSERT_CODE}](phonecall_method.L_INSERT_CODE.md#readme)
-* [{phonecall_method.L_SECOND_STEP}](phonecall_method.L_SECOND_STEP.md#readme)
-* [{phonecall_method.L_SUBMIT}](phonecall_method.L_SUBMIT.md#readme)
-* [{phonecall_method.POST_URL}](phonecall_method.POST_URL.md#readme)
-* [{phonecall_method.S_CREDITS_ADD_ACTION}](phonecall_method.S_CREDITS_ADD_ACTION.md#readme)
 * [<!-- BEGIN hidden_field -->](phonecall_method.hidden_field.md#readme)
 
 

@@ -12,10 +12,6 @@ Attribut de [searchresults](searchresults.md#readme).
 ##Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
 
-## Attributs
-* [{searchresults.watchsearch.TOPIC_ID}](searchresults.watchsearch.TOPIC_ID.md#readme)
-
-
 ## Utilisations dans les templates
 
 ### Version phpBB2

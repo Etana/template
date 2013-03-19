@@ -13,15 +13,13 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option)
 
 ## Attributs
-* [{poll_option.POLL_OPTION_CAPTION}](poll_option.POLL_OPTION_CAPTION.md#readme)
-* [{poll_option.POLL_OPTION_ID}](poll_option.POLL_OPTION_ID.md#readme)
-* [{poll_option.POLL_OPTION_IMG}](poll_option.POLL_OPTION_IMG.md#readme)
-* [{poll_option.POLL_OPTION_IMG_WIDTH}](poll_option.POLL_OPTION_IMG_WIDTH.md#readme)
-* [{poll_option.POLL_OPTION_PERCENT}](poll_option.POLL_OPTION_PERCENT.md#readme)
-* [{poll_option.POLL_OPTION_RESULT}](poll_option.POLL_OPTION_RESULT.md#readme)
-* [{poll_option.POLL_TYPE_BUTTON}](poll_option.POLL_TYPE_BUTTON.md#readme)
-* [{poll_option.VOTE_LCAP_IMG}](poll_option.VOTE_LCAP_IMG.md#readme)
-* [{poll_option.VOTE_RCAP_IMG}](poll_option.VOTE_RCAP_IMG.md#readme)
+* [{poll_option.poll_option.POLL_OPTION_CAPTION}](poll_option.poll_option.POLL_OPTION_CAPTION.md#readme)
+* [{poll_option.poll_option.POLL_OPTION_ID}](poll_option.poll_option.POLL_OPTION_ID.md#readme)
+* [{poll_option.poll_option.POLL_OPTION_IMG}](poll_option.poll_option.POLL_OPTION_IMG.md#readme)
+* [{poll_option.poll_option.POLL_OPTION_IMG_WIDTH}](poll_option.poll_option.POLL_OPTION_IMG_WIDTH.md#readme)
+* [{poll_option.poll_option.POLL_OPTION_PERCENT}](poll_option.poll_option.POLL_OPTION_PERCENT.md#readme)
+* [{poll_option.poll_option.POLL_OPTION_RESULT}](poll_option.poll_option.POLL_OPTION_RESULT.md#readme)
+* [{poll_option.poll_option.POLL_TYPE_BUTTON}](poll_option.poll_option.POLL_TYPE_BUTTON.md#readme)
 
 
 ## Utilisations dans les templates
