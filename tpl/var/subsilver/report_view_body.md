@@ -44,6 +44,6 @@
     * __[`<!-- END switch_edit -->`](https://github.com/Etana/template.list/blob/master/var/row.switch_edit.md#readme) :__ ligne [`42`](../../src/subsilver/report_view_body.tpl#L42)
     * __[`<!-- BEGIN switch_status -->`](https://github.com/Etana/template.list/blob/master/var/row.switch_status.md#readme)<a href="https://fa-tvars.appspot.com/var/row.switch_status">*</a> :__ ligne [`33`](../../src/subsilver/report_view_body.tpl#L33)
     * __[`<!-- END switch_status -->`](https://github.com/Etana/template.list/blob/master/var/row.switch_status.md#readme) :__ ligne [`37`](../../src/subsilver/report_view_body.tpl#L37)
+* __[`<!-- END row -->`](https://github.com/Etana/template.list/blob/master/var/row.md#readme) :__ ligne [`55`](../../src/subsilver/report_view_body.tpl#L55)
 * __[`<!-- BEGIN switch_report_archive -->`](https://github.com/Etana/template.list/blob/master/var/switch_report_archive.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_report_archive">*</a> :__ ligne [`2`](../../src/subsilver/report_view_body.tpl#L2)
 * __[`<!-- END switch_report_archive -->`](https://github.com/Etana/template.list/blob/master/var/switch_report_archive.md#readme) :__ ligne [`4`](../../src/subsilver/report_view_body.tpl#L4)
-* __[`<!-- END row -->`](https://github.com/Etana/template.list/blob/master/var/row.md#readme) :__ ligne [`55`](../../src/subsilver/report_view_body.tpl#L55)
