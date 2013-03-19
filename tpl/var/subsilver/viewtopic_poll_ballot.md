@@ -1,6 +1,7 @@
-# Template viewtopic_poll_ballot (phpBB2)
+# Template viewtopic_poll_ballot
 
-[Code de la template](../../src/subsilver/viewtopic_poll_ballot.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/viewtopic_poll_ballot.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/viewtopic_poll_ballot)
 

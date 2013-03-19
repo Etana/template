@@ -1,6 +1,7 @@
-# Template privmsg_topic_review (phpBB2)
+# Template privmsg_topic_review
 
-[Code de la template](../../src/subsilver/privmsg_topic_review.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/privmsg_topic_review.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsg_topic_review)
 

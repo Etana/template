@@ -8,7 +8,7 @@ Variable.
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/MESSAGE_TEXT)
-Contenu du message d'erreur d'exécution.
+Contenu du message.
 
 ## Utilisations dans les templates
 

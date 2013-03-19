@@ -1,6 +1,7 @@
-# Template portal_body (PunBB)
+# Template portal_body
 
-[Code de la template](../../src/punbb/portal_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/portal_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/portal_body)
 

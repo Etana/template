@@ -1,6 +1,7 @@
-# Template posting_body_wysiwyg (phpBB2)
+# Template posting_body_wysiwyg
 
-[Code de la template](../../src/subsilver/posting_body_wysiwyg.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/posting_body_wysiwyg.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_body_wysiwyg)
 

@@ -1,6 +1,7 @@
-# Template album_overview_top10 (phpBB2)
+# Template album_overview_top10
 
-[Code de la template](../../src/subsilver/album_overview_top10.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/album_overview_top10.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_overview_top10)
 

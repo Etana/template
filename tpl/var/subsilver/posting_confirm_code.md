@@ -1,6 +1,7 @@
-# Template posting_confirm_code (phpBB2)
+# Template posting_confirm_code
 
-[Code de la template](../../src/subsilver/posting_confirm_code.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/posting_confirm_code.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_confirm_code)
 

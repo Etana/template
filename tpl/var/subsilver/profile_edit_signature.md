@@ -1,6 +1,7 @@
-# Template profile_edit_signature (phpBB2)
+# Template profile_edit_signature
 
-[Code de la template](../../src/subsilver/profile_edit_signature.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/profile_edit_signature.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_edit_signature)
 

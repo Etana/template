@@ -1,6 +1,7 @@
-# Template search_results_posts (phpBB2)
+# Template search_results_posts
 
-[Code de la template](../../src/subsilver/search_results_posts.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/search_results_posts.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/search_results_posts)
 

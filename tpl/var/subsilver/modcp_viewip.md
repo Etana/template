@@ -1,6 +1,7 @@
-# Template modcp_viewip (phpBB2)
+# Template modcp_viewip
 
-[Code de la template](../../src/subsilver/modcp_viewip.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/modcp_viewip.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/modcp_viewip)
 

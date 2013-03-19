@@ -1,6 +1,7 @@
-# Template posting_topic_review (phpBB2)
+# Template posting_topic_review
 
-[Code de la template](../../src/subsilver/posting_topic_review.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/posting_topic_review.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_topic_review)
 

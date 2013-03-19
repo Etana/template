@@ -1,6 +1,7 @@
-# Template mod_rss_feeds (PunBB)
+# Template mod_rss_feeds
 
-[Code de la template](../../src/punbb/mod_rss_feeds.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_rss_feeds.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_rss_feeds)
 

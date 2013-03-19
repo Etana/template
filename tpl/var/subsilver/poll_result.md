@@ -1,6 +1,7 @@
-# Template poll_result (phpBB2)
+# Template poll_result
 
-[Code de la template](../../src/subsilver/poll_result.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/poll_result.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/poll_result)
 

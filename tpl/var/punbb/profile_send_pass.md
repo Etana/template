@@ -1,6 +1,7 @@
-# Template profile_send_pass (PunBB)
+# Template profile_send_pass
 
-[Code de la template](../../src/punbb/profile_send_pass.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/profile_send_pass.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_send_pass)
 

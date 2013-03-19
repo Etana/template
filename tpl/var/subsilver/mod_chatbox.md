@@ -1,6 +1,7 @@
-# Template mod_chatbox (phpBB2)
+# Template mod_chatbox
 
-[Code de la template](../../src/subsilver/mod_chatbox.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/mod_chatbox.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_chatbox)
 

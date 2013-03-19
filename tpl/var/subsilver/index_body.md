@@ -1,6 +1,7 @@
-# Template index_body (phpBB2)
+# Template index_body
 
-[Code de la template](../../src/subsilver/index_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/index_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/index_body)
 

@@ -1,6 +1,7 @@
-# Template posting_preview (PunBB)
+# Template posting_preview
 
-[Code de la template](../../src/punbb/posting_preview.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/posting_preview.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/posting_preview)
 

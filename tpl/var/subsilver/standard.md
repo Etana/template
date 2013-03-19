@@ -1,6 +1,7 @@
-# Template standard (phpBB2)
+# Template standard
 
-[Code de la template](../../src/subsilver/standard.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/standard.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/standard)
 

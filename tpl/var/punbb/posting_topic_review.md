@@ -1,6 +1,7 @@
-# Template posting_topic_review (PunBB)
+# Template posting_topic_review
 
-[Code de la template](../../src/punbb/posting_topic_review.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/posting_topic_review.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/posting_topic_review)
 

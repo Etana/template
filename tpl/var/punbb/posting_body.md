@@ -1,6 +1,7 @@
-# Template posting_body (PunBB)
+# Template posting_body
 
-[Code de la template](../../src/punbb/posting_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/posting_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/posting_body)
 

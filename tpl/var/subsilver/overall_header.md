@@ -1,6 +1,7 @@
-# Template overall_header (phpBB2)
+# Template overall_header
 
-[Code de la template](../../src/subsilver/overall_header.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/overall_header.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/overall_header)
 

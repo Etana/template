@@ -1,6 +1,7 @@
-# Template mod_news (phpBB2)
+# Template mod_news
 
-[Code de la template](../../src/subsilver/mod_news.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/mod_news.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_news)
 

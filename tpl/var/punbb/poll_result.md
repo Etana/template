@@ -1,6 +1,7 @@
-# Template poll_result (PunBB)
+# Template poll_result
 
-[Code de la template](../../src/punbb/poll_result.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/poll_result.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/poll_result)
 

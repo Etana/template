@@ -1,6 +1,7 @@
-# Template profile_avatar_gallery (phpBB2)
+# Template profile_avatar_gallery
 
-[Code de la template](../../src/subsilver/profile_avatar_gallery.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/profile_avatar_gallery.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_avatar_gallery)
 

@@ -1,6 +1,7 @@
-# Template merge_body (PunBB)
+# Template merge_body
 
-[Code de la template](../../src/punbb/merge_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/merge_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/merge_body)
 

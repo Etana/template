@@ -1,6 +1,7 @@
-# Template mod_top_post_users_week (PunBB)
+# Template mod_top_post_users_week
 
-[Code de la template](../../src/punbb/mod_top_post_users_week.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_top_post_users_week.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_top_post_users_week)
 

@@ -1,6 +1,7 @@
-# Template faq_dhtml (phpBB2)
+# Template faq_dhtml
 
-[Code de la template](../../src/subsilver/faq_dhtml.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/faq_dhtml.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/faq_dhtml)
 

@@ -1,6 +1,7 @@
-# Template standard (PunBB)
+# Template standard
 
-[Code de la template](../../src/punbb/standard.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/standard.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/standard)
 

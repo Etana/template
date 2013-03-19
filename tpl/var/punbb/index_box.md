@@ -1,6 +1,7 @@
-# Template index_box (PunBB)
+# Template index_box
 
-[Code de la template](../../src/punbb/index_box.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/index_box.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/index_box)
 

@@ -1,6 +1,7 @@
-# Template mod_whoisonline (phpBB2)
+# Template mod_whoisonline
 
-[Code de la template](../../src/subsilver/mod_whoisonline.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/mod_whoisonline.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_whoisonline)
 

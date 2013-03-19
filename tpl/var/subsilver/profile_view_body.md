@@ -1,6 +1,7 @@
-# Template profile_view_body (phpBB2)
+# Template profile_view_body
 
-[Code de la template](../../src/subsilver/profile_view_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/profile_view_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_view_body)
 

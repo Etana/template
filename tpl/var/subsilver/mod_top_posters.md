@@ -1,6 +1,7 @@
-# Template mod_top_posters (phpBB2)
+# Template mod_top_posters
 
-[Code de la template](../../src/subsilver/mod_top_posters.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/mod_top_posters.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_top_posters)
 

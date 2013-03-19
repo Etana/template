@@ -1,6 +1,7 @@
-# Template calendar_overview_topic (PunBB)
+# Template calendar_overview_topic
 
-[Code de la template](../../src/punbb/calendar_overview_topic.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/calendar_overview_topic.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/calendar_overview_topic)
 

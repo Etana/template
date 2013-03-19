@@ -1,6 +1,7 @@
-# Template viewtopic_poll_result (PunBB)
+# Template viewtopic_poll_result
 
-[Code de la template](../../src/punbb/viewtopic_poll_result.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/viewtopic_poll_result.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/viewtopic_poll_result)
 

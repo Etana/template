@@ -1,6 +1,7 @@
-# Template mod_recent_topics (phpBB2)
+# Template mod_recent_topics
 
-[Code de la template](../../src/subsilver/mod_recent_topics.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/mod_recent_topics.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_recent_topics)
 

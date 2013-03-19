@@ -1,6 +1,7 @@
-# Template simple_footer (phpBB2)
+# Template simple_footer
 
-[Code de la template](../../src/subsilver/simple_footer.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/simple_footer.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/simple_footer)
 

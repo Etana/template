@@ -1,6 +1,7 @@
-# Template birthday_list_box (phpBB2)
+# Template birthday_list_box
 
-[Code de la template](../../src/subsilver/birthday_list_box.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/birthday_list_box.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/birthday_list_box)
 

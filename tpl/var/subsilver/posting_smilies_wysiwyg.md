@@ -1,6 +1,7 @@
-# Template posting_smilies_wysiwyg (phpBB2)
+# Template posting_smilies_wysiwyg
 
-[Code de la template](../../src/subsilver/posting_smilies_wysiwyg.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/posting_smilies_wysiwyg.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_smilies_wysiwyg)
 

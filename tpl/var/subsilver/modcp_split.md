@@ -1,6 +1,7 @@
-# Template modcp_split (phpBB2)
+# Template modcp_split
 
-[Code de la template](../../src/subsilver/modcp_split.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/modcp_split.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/modcp_split)
 

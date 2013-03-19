@@ -1,6 +1,7 @@
-# Template portal_body (phpBB2)
+# Template portal_body
 
-[Code de la template](../../src/subsilver/portal_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/portal_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/portal_body)
 

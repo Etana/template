@@ -1,6 +1,7 @@
-# Template error_body (PunBB)
+# Template error_body
 
-[Code de la template](../../src/punbb/error_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/error_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/error_body)
 

@@ -7,7 +7,15 @@ Variable.
 {OPTIONAL_BAN}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/OPTIONAL_BAN)
+##Description[*](https://fa-tvars.appspot.com/var/OPTIONAL_BAN)
+Chaîne de texte.
+
+* __Contenu en français :__ 
+
+```
+(Facultatif) Pour une durée de X Jours
+(Facultatif) Pour la raison suivante : Y
+```
 
 ## Utilisations dans les templates
 

@@ -1,6 +1,7 @@
-# Template privmsgs_popup (phpBB2)
+# Template privmsgs_popup
 
-[Code de la template](../../src/subsilver/privmsgs_popup.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/privmsgs_popup.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsgs_popup)
 

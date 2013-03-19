@@ -1,6 +1,7 @@
-# Template mod_statistics (PunBB)
+# Template mod_statistics
 
-[Code de la template](../../src/punbb/mod_statistics.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_statistics.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_statistics)
 

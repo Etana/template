@@ -1,6 +1,7 @@
-# Template album_cat_body (PunBB)
+# Template album_cat_body
 
-[Code de la template](../../src/punbb/album_cat_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/album_cat_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_cat_body)
 

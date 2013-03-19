@@ -1,6 +1,7 @@
-# Template jumpbox (phpBB2)
+# Template jumpbox
 
-[Code de la template](../../src/subsilver/jumpbox.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/jumpbox.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/jumpbox)
 

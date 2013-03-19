@@ -7,7 +7,10 @@ Variable.
 {S_CONFIRM_ACTION}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION)
+##Description[*](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION)
+Action du formulaire de confirmation.
+
+*Attention : Si cette variable est supprimée, le formulaire ne pourra plus fonctionner !*
 
 ## Utilisations dans les templates
 

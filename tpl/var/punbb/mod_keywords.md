@@ -1,6 +1,7 @@
-# Template mod_keywords (PunBB)
+# Template mod_keywords
 
-[Code de la template](../../src/punbb/mod_keywords.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_keywords.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_keywords)
 

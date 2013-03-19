@@ -1,6 +1,7 @@
-# Template posting_body (phpBB2)
+# Template posting_body
 
-[Code de la template](../../src/subsilver/posting_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/posting_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_body)
 

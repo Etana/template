@@ -1,6 +1,7 @@
-# Template search_body (PunBB)
+# Template search_body
 
-[Code de la template](../../src/punbb/search_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/search_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/search_body)
 

@@ -1,6 +1,7 @@
-# Template viewtopic_body (phpBB2)
+# Template viewtopic_body
 
-[Code de la template](../../src/subsilver/viewtopic_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/viewtopic_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/viewtopic_body)
 

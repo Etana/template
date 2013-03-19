@@ -1,6 +1,7 @@
-# Template rpg_sheet_edit (PunBB)
+# Template rpg_sheet_edit
 
-[Code de la template](../../src/punbb/rpg_sheet_edit.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/rpg_sheet_edit.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/rpg_sheet_edit)
 

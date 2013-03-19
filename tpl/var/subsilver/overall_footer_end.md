@@ -1,6 +1,7 @@
-# Template overall_footer_end (phpBB2)
+# Template overall_footer_end
 
-[Code de la template](../../src/subsilver/overall_footer_end.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/overall_footer_end.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/overall_footer_end)
 

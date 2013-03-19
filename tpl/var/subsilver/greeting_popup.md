@@ -1,6 +1,7 @@
-# Template greeting_popup (phpBB2)
+# Template greeting_popup
 
-[Code de la template](../../src/subsilver/greeting_popup.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/greeting_popup.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/greeting_popup)
 

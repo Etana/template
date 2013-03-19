@@ -1,6 +1,7 @@
-# Template memberlist_body (PunBB)
+# Template memberlist_body
 
-[Code de la template](../../src/punbb/memberlist_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/memberlist_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/memberlist_body)
 

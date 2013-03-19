@@ -1,6 +1,7 @@
-# Template calendar_scheduler_body (phpBB2)
+# Template calendar_scheduler_body
 
-[Code de la template](../../src/subsilver/calendar_scheduler_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/calendar_scheduler_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/calendar_scheduler_body)
 

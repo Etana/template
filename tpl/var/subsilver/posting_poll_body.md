@@ -1,6 +1,7 @@
-# Template posting_poll_body (phpBB2)
+# Template posting_poll_body
 
-[Code de la template](../../src/subsilver/posting_poll_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/posting_poll_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_poll_body)
 
@@ -11,7 +12,7 @@
 * __[`{L_ADD_OPTION}`](https://github.com/Etana/template.list/blob/master/var/L_ADD_OPTION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADD_OPTION">*</a> :__ ligne [`44`](../../src/subsilver/posting_poll_body.tpl#L44)
 * __[`{L_DAYS}`](https://github.com/Etana/template.list/blob/master/var/L_DAYS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DAYS">*</a> :__ ligne [`49`](../../src/subsilver/posting_poll_body.tpl#L49)
 * __[`{L_DELETE_OPTION}`](https://github.com/Etana/template.list/blob/master/var/L_DELETE_OPTION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DELETE_OPTION">*</a> :__ ligne [`32`](../../src/subsilver/posting_poll_body.tpl#L32)
-* __[`{L_NO}`](https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO">*</a> :__ lignes [`53`](../../src/subsilver/posting_poll_body.tpl#L53), [`58`](../../src/subsilver/posting_poll_body.tpl#L58), [`64`](../../src/subsilver/posting_poll_body.tpl#L64)
+* __[`{L_NO}`](https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme) :__ lignes [`53`](../../src/subsilver/posting_poll_body.tpl#L53), [`58`](../../src/subsilver/posting_poll_body.tpl#L58), [`64`](../../src/subsilver/posting_poll_body.tpl#L64)
 * __[`{L_POLL_CANCEL_VOTE}`](https://github.com/Etana/template.list/blob/master/var/L_POLL_CANCEL_VOTE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POLL_CANCEL_VOTE">*</a> :__ ligne [`57`](../../src/subsilver/posting_poll_body.tpl#L57)
 * __[`{L_POLL_DELETE}`](https://github.com/Etana/template.list/blob/master/var/L_POLL_DELETE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POLL_DELETE">*</a> :__ ligne [`70`](../../src/subsilver/posting_poll_body.tpl#L70)
 * __[`{L_POLL_HIDE_RESULT}`](https://github.com/Etana/template.list/blob/master/var/L_POLL_HIDE_RESULT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POLL_HIDE_RESULT">*</a> :__ ligne [`63`](../../src/subsilver/posting_poll_body.tpl#L63)
@@ -21,7 +22,7 @@
 * __[`{L_POLL_OPTION}`](https://github.com/Etana/template.list/blob/master/var/L_POLL_OPTION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POLL_OPTION">*</a> :__ lignes [`25`](../../src/subsilver/posting_poll_body.tpl#L25), [`31`](../../src/subsilver/posting_poll_body.tpl#L31), [`37`](../../src/subsilver/posting_poll_body.tpl#L37), [`43`](../../src/subsilver/posting_poll_body.tpl#L43)
 * __[`{L_POLL_QUESTION}`](https://github.com/Etana/template.list/blob/master/var/L_POLL_QUESTION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POLL_QUESTION">*</a> :__ ligne [`20`](../../src/subsilver/posting_poll_body.tpl#L20)
 * __[`{L_POLL_QUESTION_EXPLAIN}`](https://github.com/Etana/template.list/blob/master/var/L_POLL_QUESTION_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POLL_QUESTION_EXPLAIN">*</a> :__ ligne [`25`](../../src/subsilver/posting_poll_body.tpl#L25)
-* __[`{L_YES}`](https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_YES">*</a> :__ lignes [`53`](../../src/subsilver/posting_poll_body.tpl#L53), [`58`](../../src/subsilver/posting_poll_body.tpl#L58), [`64`](../../src/subsilver/posting_poll_body.tpl#L64)
+* __[`{L_YES}`](https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme) :__ lignes [`53`](../../src/subsilver/posting_poll_body.tpl#L53), [`58`](../../src/subsilver/posting_poll_body.tpl#L58), [`64`](../../src/subsilver/posting_poll_body.tpl#L64)
 * __[`{POLLITEMS_CLOSE}`](https://github.com/Etana/template.list/blob/master/var/POLLITEMS_CLOSE.md#readme)<a href="https://fa-tvars.appspot.com/var/POLLITEMS_CLOSE">*</a> :__ ligne [`1`](../../src/subsilver/posting_poll_body.tpl#L1)
 * __[`{POLLITEMS_OPEN}`](https://github.com/Etana/template.list/blob/master/var/POLLITEMS_OPEN.md#readme)<a href="https://fa-tvars.appspot.com/var/POLLITEMS_OPEN">*</a> :__ ligne [`10`](../../src/subsilver/posting_poll_body.tpl#L10)
 * __[`{POLL_CANCEL_VOTE_AUTHORIZED_STATUS}`](https://github.com/Etana/template.list/blob/master/var/POLL_CANCEL_VOTE_AUTHORIZED_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_CANCEL_VOTE_AUTHORIZED_STATUS">*</a> :__ ligne [`58`](../../src/subsilver/posting_poll_body.tpl#L58)

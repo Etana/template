@@ -1,6 +1,7 @@
-# Template groupcp_user_body (PunBB)
+# Template groupcp_user_body
 
-[Code de la template](../../src/punbb/groupcp_user_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/groupcp_user_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/groupcp_user_body)
 

@@ -1,6 +1,7 @@
-# Template album_modcp_body (PunBB)
+# Template album_modcp_body
 
-[Code de la template](../../src/punbb/album_modcp_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/album_modcp_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_modcp_body)
 

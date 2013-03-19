@@ -1,6 +1,7 @@
-# Template album_edit_body (phpBB2)
+# Template album_edit_body
 
-[Code de la template](../../src/subsilver/album_edit_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/album_edit_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_edit_body)
 

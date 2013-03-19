@@ -1,6 +1,7 @@
-# Template privmsgs_read_body (phpBB2)
+# Template privmsgs_read_body
 
-[Code de la template](../../src/subsilver/privmsgs_read_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/privmsgs_read_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsgs_read_body)
 

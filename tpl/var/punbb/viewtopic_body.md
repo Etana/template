@@ -1,6 +1,7 @@
-# Template viewtopic_body (PunBB)
+# Template viewtopic_body
 
-[Code de la template](../../src/punbb/viewtopic_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/viewtopic_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/viewtopic_body)
 

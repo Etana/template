@@ -1,6 +1,7 @@
-# Template overall_footer_begin (PunBB)
+# Template overall_footer_begin
 
-[Code de la template](../../src/punbb/overall_footer_begin.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/overall_footer_begin.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/overall_footer_begin)
 

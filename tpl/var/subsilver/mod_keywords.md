@@ -1,6 +1,7 @@
-# Template mod_keywords (phpBB2)
+# Template mod_keywords
 
-[Code de la template](../../src/subsilver/mod_keywords.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/mod_keywords.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_keywords)
 

@@ -1,6 +1,7 @@
-# Template report_popup_body (PunBB)
+# Template report_popup_body
 
-[Code de la template](../../src/punbb/report_popup_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/report_popup_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/report_popup_body)
 

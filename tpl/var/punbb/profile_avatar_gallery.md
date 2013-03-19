@@ -1,6 +1,7 @@
-# Template profile_avatar_gallery (PunBB)
+# Template profile_avatar_gallery
 
-[Code de la template](../../src/punbb/profile_avatar_gallery.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/profile_avatar_gallery.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_avatar_gallery)
 

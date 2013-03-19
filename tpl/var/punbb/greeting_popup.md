@@ -1,6 +1,7 @@
-# Template greeting_popup (PunBB)
+# Template greeting_popup
 
-[Code de la template](../../src/punbb/greeting_popup.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/greeting_popup.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/greeting_popup)
 

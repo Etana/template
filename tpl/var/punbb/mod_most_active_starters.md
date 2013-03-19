@@ -1,6 +1,7 @@
-# Template mod_most_active_starters (PunBB)
+# Template mod_most_active_starters
 
-[Code de la template](../../src/punbb/mod_most_active_starters.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_most_active_starters.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_most_active_starters)
 

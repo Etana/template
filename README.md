@@ -7,5 +7,5 @@
 
 ## Templates
 
-* [phpBB2](https://github.com/Etana/template.list/tree/master/tpl/var/subsilver#readme)
-* [PunBB](https://github.com/Etana/template.list/tree/master/tpl/var/punbb#readme)
+* [phpBB2](https://github.com/Etana/template.list/tree/master/tpl/var/subsilver/#readme)
+* [PunBB](https://github.com/Etana/template.list/tree/master/tpl/var/punbb/#readme)

@@ -1,6 +1,7 @@
-# Template modcp_split (PunBB)
+# Template modcp_split
 
-[Code de la template](../../src/punbb/modcp_split.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/modcp_split.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/modcp_split)
 

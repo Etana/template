@@ -1,6 +1,7 @@
-# Template mod_top_posters (PunBB)
+# Template mod_top_posters
 
-[Code de la template](../../src/punbb/mod_top_posters.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_top_posters.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_top_posters)
 

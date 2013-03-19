@@ -1,6 +1,7 @@
-# Template birthday_list_box (PunBB)
+# Template birthday_list_box
 
-[Code de la template](../../src/punbb/birthday_list_box.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/birthday_list_box.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/birthday_list_box)
 

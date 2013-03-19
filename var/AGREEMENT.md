@@ -7,7 +7,8 @@ Variable.
 {AGREEMENT}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/AGREEMENT)
+##Description[*](https://fa-tvars.appspot.com/var/AGREEMENT)
+Affiche les conditions d'inscription de base de Forumactif.
 
 ## Utilisations dans les templates
 

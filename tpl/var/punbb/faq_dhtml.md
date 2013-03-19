@@ -1,6 +1,7 @@
-# Template faq_dhtml (PunBB)
+# Template faq_dhtml
 
-[Code de la template](../../src/punbb/faq_dhtml.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/faq_dhtml.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/faq_dhtml)
 

@@ -1,6 +1,7 @@
-# Template calendar_box (phpBB2)
+# Template calendar_box
 
-[Code de la template](../../src/subsilver/calendar_box.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/calendar_box.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/calendar_box)
 

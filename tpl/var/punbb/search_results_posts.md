@@ -1,6 +1,7 @@
-# Template search_results_posts (PunBB)
+# Template search_results_posts
 
-[Code de la template](../../src/punbb/search_results_posts.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/search_results_posts.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/search_results_posts)
 

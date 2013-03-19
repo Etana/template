@@ -1,6 +1,7 @@
-# Template modcp_viewip (PunBB)
+# Template modcp_viewip
 
-[Code de la template](../../src/punbb/modcp_viewip.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/modcp_viewip.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/modcp_viewip)
 

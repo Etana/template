@@ -1,6 +1,7 @@
-# Template topics_list_box (PunBB)
+# Template topics_list_box
 
-[Code de la template](../../src/punbb/topics_list_box.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/topics_list_box.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/topics_list_box)
 

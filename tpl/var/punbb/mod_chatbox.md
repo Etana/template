@@ -1,6 +1,7 @@
-# Template mod_chatbox (PunBB)
+# Template mod_chatbox
 
-[Code de la template](../../src/punbb/mod_chatbox.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_chatbox.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_chatbox)
 

@@ -1,6 +1,7 @@
-# Template mod_poll (PunBB)
+# Template mod_poll
 
-[Code de la template](../../src/punbb/mod_poll.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_poll.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_poll)
 

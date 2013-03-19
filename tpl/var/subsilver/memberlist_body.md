@@ -1,6 +1,7 @@
-# Template memberlist_body (phpBB2)
+# Template memberlist_body
 
-[Code de la template](../../src/subsilver/memberlist_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/memberlist_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/memberlist_body)
 

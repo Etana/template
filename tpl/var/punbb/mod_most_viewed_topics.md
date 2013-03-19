@@ -1,6 +1,7 @@
-# Template mod_most_viewed_topics (PunBB)
+# Template mod_most_viewed_topics
 
-[Code de la template](../../src/punbb/mod_most_viewed_topics.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_most_viewed_topics.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_most_viewed_topics)
 

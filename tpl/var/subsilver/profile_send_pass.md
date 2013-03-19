@@ -1,6 +1,7 @@
-# Template profile_send_pass (phpBB2)
+# Template profile_send_pass
 
-[Code de la template](../../src/subsilver/profile_send_pass.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/profile_send_pass.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_send_pass)
 

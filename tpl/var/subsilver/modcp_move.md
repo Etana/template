@@ -1,6 +1,7 @@
-# Template modcp_move (phpBB2)
+# Template modcp_move
 
-[Code de la template](../../src/subsilver/modcp_move.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/modcp_move.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/modcp_move)
 
@@ -9,8 +10,8 @@
 * __[`{L_INDEX}`](https://github.com/Etana/template.list/blob/master/var/L_INDEX.md#readme) :__ ligne [`4`](../../src/subsilver/modcp_move.tpl#L4)
 * __[`{L_LEAVESHADOW}`](https://github.com/Etana/template.list/blob/master/var/L_LEAVESHADOW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LEAVESHADOW">*</a> :__ ligne [`22`](../../src/subsilver/modcp_move.tpl#L22)
 * __[`{L_MOVE_TO_FORUM}`](https://github.com/Etana/template.list/blob/master/var/L_MOVE_TO_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE_TO_FORUM">*</a> :__ ligne [`19`](../../src/subsilver/modcp_move.tpl#L19)
-* __[`{L_NO}`](https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO">*</a> :__ ligne [`28`](../../src/subsilver/modcp_move.tpl#L28)
-* __[`{L_YES}`](https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_YES">*</a> :__ ligne [`28`](../../src/subsilver/modcp_move.tpl#L28)
+* __[`{L_NO}`](https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme) :__ ligne [`28`](../../src/subsilver/modcp_move.tpl#L28)
+* __[`{L_YES}`](https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme) :__ ligne [`28`](../../src/subsilver/modcp_move.tpl#L28)
 * __[`{MESSAGE_TEXT}`](https://github.com/Etana/template.list/blob/master/var/MESSAGE_TEXT.md#readme) :__ ligne [`25`](../../src/subsilver/modcp_move.tpl#L25)
 * __[`{MESSAGE_TITLE}`](https://github.com/Etana/template.list/blob/master/var/MESSAGE_TITLE.md#readme) :__ ligne [`9`](../../src/subsilver/modcp_move.tpl#L9)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_CAT_DESC">*</a> :__ ligne [`4`](../../src/subsilver/modcp_move.tpl#L4)

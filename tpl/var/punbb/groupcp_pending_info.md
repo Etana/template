@@ -1,6 +1,7 @@
-# Template groupcp_pending_info (PunBB)
+# Template groupcp_pending_info
 
-[Code de la template](../../src/punbb/groupcp_pending_info.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/groupcp_pending_info.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/groupcp_pending_info)
 

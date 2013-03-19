@@ -1,6 +1,7 @@
-# Template calendar_box (PunBB)
+# Template calendar_box
 
-[Code de la template](../../src/punbb/calendar_box.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/calendar_box.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/calendar_box)
 

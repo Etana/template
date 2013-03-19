@@ -1,6 +1,7 @@
-# Template error_body (phpBB2)
+# Template error_body
 
-[Code de la template](../../src/subsilver/error_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/error_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/error_body)
 

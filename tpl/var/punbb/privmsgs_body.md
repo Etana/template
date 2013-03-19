@@ -1,6 +1,7 @@
-# Template privmsgs_body (PunBB)
+# Template privmsgs_body
 
-[Code de la template](../../src/punbb/privmsgs_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/privmsgs_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/privmsgs_body)
 

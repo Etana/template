@@ -1,6 +1,7 @@
-# Template viewonline_body (phpBB2)
+# Template viewonline_body
 
-[Code de la template](../../src/subsilver/viewonline_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/viewonline_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/viewonline_body)
 

@@ -1,6 +1,7 @@
-# Template album_nuffimage_box (PunBB)
+# Template album_nuffimage_box
 
-[Code de la template](../../src/punbb/album_nuffimage_box.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/album_nuffimage_box.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_nuffimage_box)
 

@@ -1,6 +1,7 @@
-# Template faq_body (phpBB2)
+# Template faq_body
 
-[Code de la template](../../src/subsilver/faq_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/faq_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/faq_body)
 

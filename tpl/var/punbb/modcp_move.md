@@ -1,6 +1,7 @@
-# Template modcp_move (PunBB)
+# Template modcp_move
 
-[Code de la template](../../src/punbb/modcp_move.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/modcp_move.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/modcp_move)
 
@@ -12,11 +13,11 @@
 * __[`{L_LEAVESHADOW}`](https://github.com/Etana/template.list/blob/master/var/L_LEAVESHADOW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LEAVESHADOW">*</a> :__ ligne [`37`](../../src/punbb/modcp_move.tpl#L37)
 * __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template.list/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../../src/punbb/modcp_move.tpl#L12)
 * __[`{L_MOVE_TO_FORUM}`](https://github.com/Etana/template.list/blob/master/var/L_MOVE_TO_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE_TO_FORUM">*</a> :__ ligne [`31`](../../src/punbb/modcp_move.tpl#L31)
-* __[`{L_NO}`](https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO">*</a> :__ ligne [`44`](../../src/punbb/modcp_move.tpl#L44)
+* __[`{L_NO}`](https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme) :__ ligne [`44`](../../src/punbb/modcp_move.tpl#L44)
 * __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template.list/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../../src/punbb/modcp_move.tpl#L12)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template.list/blob/master/var/L_SEARCH_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_NEW">*</a> :__ ligne [`4`](../../src/punbb/modcp_move.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template.list/blob/master/var/L_SEARCH_SELF.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_SELF">*</a> :__ ligne [`5`](../../src/punbb/modcp_move.tpl#L5)
-* __[`{L_YES}`](https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_YES">*</a> :__ ligne [`43`](../../src/punbb/modcp_move.tpl#L43)
+* __[`{L_YES}`](https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme) :__ ligne [`43`](../../src/punbb/modcp_move.tpl#L43)
 * __[`{MESSAGE_TEXT}`](https://github.com/Etana/template.list/blob/master/var/MESSAGE_TEXT.md#readme) :__ ligne [`41`](../../src/punbb/modcp_move.tpl#L41)
 * __[`{MESSAGE_TITLE}`](https://github.com/Etana/template.list/blob/master/var/MESSAGE_TITLE.md#readme) :__ lignes [`18`](../../src/punbb/modcp_move.tpl#L18), [`25`](../../src/punbb/modcp_move.tpl#L25)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template.list/blob/master/var/NAV_CAT_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_CAT_DESC">*</a> :__ ligne [`18`](../../src/punbb/modcp_move.tpl#L18)

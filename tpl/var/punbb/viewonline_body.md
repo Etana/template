@@ -1,6 +1,7 @@
-# Template viewonline_body (PunBB)
+# Template viewonline_body
 
-[Code de la template](../../src/punbb/viewonline_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/viewonline_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/viewonline_body)
 

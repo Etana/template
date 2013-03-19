@@ -1,6 +1,7 @@
-# Template mod_recent_topics (PunBB)
+# Template mod_recent_topics
 
-[Code de la template](../../src/punbb/mod_recent_topics.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/mod_recent_topics.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_recent_topics)
 

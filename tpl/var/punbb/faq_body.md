@@ -1,6 +1,7 @@
-# Template faq_body (PunBB)
+# Template faq_body
 
-[Code de la template](../../src/punbb/faq_body.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/faq_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/faq_body)
 

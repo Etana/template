@@ -1,6 +1,7 @@
-# Template posting_body_wysiwyg (PunBB)
+# Template posting_body_wysiwyg
 
-[Code de la template](../../src/punbb/posting_body_wysiwyg.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/posting_body_wysiwyg.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/posting_body_wysiwyg)
 

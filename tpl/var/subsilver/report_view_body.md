@@ -1,6 +1,7 @@
-# Template report_view_body (phpBB2)
+# Template report_view_body
 
-[Code de la template](../../src/subsilver/report_view_body.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/report_view_body.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/report_view_body)
 

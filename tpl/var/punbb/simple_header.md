@@ -1,6 +1,7 @@
-# Template simple_header (PunBB)
+# Template simple_header
 
-[Code de la template](../../src/punbb/simple_header.tpl)
+* __Version :__ [PunBB](.)
+* __Code :__ [lien](../../src/punbb/simple_header.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/simple_header)
 

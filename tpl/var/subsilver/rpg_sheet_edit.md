@@ -1,6 +1,7 @@
-# Template rpg_sheet_edit (phpBB2)
+# Template rpg_sheet_edit
 
-[Code de la template](../../src/subsilver/rpg_sheet_edit.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/rpg_sheet_edit.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/rpg_sheet_edit)
 

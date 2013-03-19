@@ -1,6 +1,7 @@
-# Template privmsgs_preview (phpBB2)
+# Template privmsgs_preview
 
-[Code de la template](../../src/subsilver/privmsgs_preview.tpl)
+* __Version :__ [phpBB2](.)
+* __Code :__ [lien](../../src/subsilver/privmsgs_preview.tpl)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsgs_preview)
 
