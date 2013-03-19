@@ -13,8 +13,8 @@ Attribut de [postrow](postrow.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.hidden)
 
 ## Attributs
-* [{postrow.hidden.postrow.hidden.MESSAGE}](postrow.hidden.postrow.hidden.MESSAGE.md#readme)
-* [{postrow.hidden.postrow.hidden.ROW_CLASS}](postrow.hidden.postrow.hidden.ROW_CLASS.md#readme)
+* [{postrow.hidden.MESSAGE}](postrow.hidden.MESSAGE.md#readme)
+* [{postrow.hidden.ROW_CLASS}](postrow.hidden.ROW_CLASS.md#readme)
 
 
 ## Utilisations dans les templates

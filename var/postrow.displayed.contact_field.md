@@ -15,7 +15,7 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field)
 
 ## Attributs
-* [{postrow.displayed.contact_field.postrow.displayed.contact_field.CONTENT}](postrow.displayed.contact_field.postrow.displayed.contact_field.CONTENT.md#readme)
+* [{postrow.displayed.contact_field.CONTENT}](postrow.displayed.contact_field.CONTENT.md#readme)
 
 
 ## Utilisations dans les templates

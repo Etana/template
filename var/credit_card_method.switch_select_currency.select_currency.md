@@ -15,9 +15,9 @@ Attribut de [credit_card_method.switch_select_currency](credit_card_method.switc
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency)
 
 ## Attributs
-* [{credit_card_method.switch_select_currency.select_currency.credit_card_method.switch_select_currency.select_currency.OPTION}](credit_card_method.switch_select_currency.select_currency.credit_card_method.switch_select_currency.select_currency.OPTION.md#readme)
-* [{credit_card_method.switch_select_currency.select_currency.credit_card_method.switch_select_currency.select_currency.SELECTED}](credit_card_method.switch_select_currency.select_currency.credit_card_method.switch_select_currency.select_currency.SELECTED.md#readme)
-* [{credit_card_method.switch_select_currency.select_currency.credit_card_method.switch_select_currency.select_currency.VALUE}](credit_card_method.switch_select_currency.select_currency.credit_card_method.switch_select_currency.select_currency.VALUE.md#readme)
+* [{credit_card_method.switch_select_currency.select_currency.OPTION}](credit_card_method.switch_select_currency.select_currency.OPTION.md#readme)
+* [{credit_card_method.switch_select_currency.select_currency.SELECTED}](credit_card_method.switch_select_currency.select_currency.SELECTED.md#readme)
+* [{credit_card_method.switch_select_currency.select_currency.VALUE}](credit_card_method.switch_select_currency.select_currency.VALUE.md#readme)
 
 
 ## Utilisations dans les templates

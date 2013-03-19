@@ -19,9 +19,9 @@ Attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postr
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att)
 
 ## Attributs
-* [{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT}](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT.md#readme)
-* [{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL}](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL.md#readme)
-* [{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL}](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL.md#readme)
+* [{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT}](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT.md#readme)
+* [{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL}](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL.md#readme)
+* [{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL}](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL.md#readme)
 
 
 ## Utilisations dans les templates

@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/no_post)
 
 ## Attributs
-* [{no_post.no_post.L_NO_POST}](no_post.no_post.L_NO_POST.md#readme)
+* [{no_post.L_NO_POST}](no_post.L_NO_POST.md#readme)
 
 
 ## Utilisations dans les templates

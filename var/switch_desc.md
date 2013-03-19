@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_desc)
 
 ## Attributs
-* [{switch_desc.switch_desc.SITE_DESCRIPTION}](switch_desc.switch_desc.SITE_DESCRIPTION.md#readme)
+* [{switch_desc.SITE_DESCRIPTION}](switch_desc.SITE_DESCRIPTION.md#readme)
 
 
 ## Utilisations dans les templates

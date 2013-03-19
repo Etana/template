@@ -17,7 +17,7 @@ Attribut de [topics_list_box.row.topic](topics_list_box.row.topic.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description)
 
 ## Attributs
-* [{topics_list_box.row.topic.switch_description.topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}](topics_list_box.row.topic.switch_description.topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION.md#readme)
+* [{topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}](topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION.md#readme)
 
 
 ## Utilisations dans les templates

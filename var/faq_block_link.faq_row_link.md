@@ -13,8 +13,8 @@ Attribut de [faq_block_link](faq_block_link.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)
 
 ## Attributs
-* [{faq_block_link.faq_row_link.faq_block_link.faq_row_link.FAQ_LINK}](faq_block_link.faq_row_link.faq_block_link.faq_row_link.FAQ_LINK.md#readme)
-* [{faq_block_link.faq_row_link.faq_block_link.faq_row_link.U_FAQ_LINK}](faq_block_link.faq_row_link.faq_block_link.faq_row_link.U_FAQ_LINK.md#readme)
+* [{faq_block_link.faq_row_link.FAQ_LINK}](faq_block_link.faq_row_link.FAQ_LINK.md#readme)
+* [{faq_block_link.faq_row_link.U_FAQ_LINK}](faq_block_link.faq_row_link.U_FAQ_LINK.md#readme)
 
 
 ## Utilisations dans les templates

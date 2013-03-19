@@ -13,7 +13,7 @@ Attribut de [catrow](catrow.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.catfoot)
 
 ## Attributs
-* [{catrow.catfoot.catrow.catfoot.INC_SPAN}](catrow.catfoot.catrow.catfoot.INC_SPAN.md#readme)
+* [{catrow.catfoot.INC_SPAN}](catrow.catfoot.INC_SPAN.md#readme)
 * [<!-- BEGIN inc -->](catrow.catfoot.inc.md#readme)
 
 

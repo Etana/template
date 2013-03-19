@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block)
 
 ## Attributs
-* [{faq_block.faq_block.BLOCK_TITLE}](faq_block.faq_block.BLOCK_TITLE.md#readme)
+* [{faq_block.BLOCK_TITLE}](faq_block.BLOCK_TITLE.md#readme)
 * [<!-- BEGIN faq_row -->](faq_block.faq_row.md#readme)
 
 

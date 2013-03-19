@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta)
 
 ## Attributs
-* [{switch_compat_meta.switch_compat_meta.VERSION}](switch_compat_meta.switch_compat_meta.VERSION.md#readme)
+* [{switch_compat_meta.VERSION}](switch_compat_meta.VERSION.md#readme)
 
 
 ## Utilisations dans les templates

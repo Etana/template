@@ -13,8 +13,8 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box)
 
 ## Attributs
-* [{topics_list_box.topics_list_box.FIELDNAME}](topics_list_box.topics_list_box.FIELDNAME.md#readme)
-* [{topics_list_box.topics_list_box.FORMNAME}](topics_list_box.topics_list_box.FORMNAME.md#readme)
+* [{topics_list_box.FIELDNAME}](topics_list_box.FIELDNAME.md#readme)
+* [{topics_list_box.FORMNAME}](topics_list_box.FORMNAME.md#readme)
 * [<!-- BEGIN row -->](topics_list_box.row.md#readme)
 
 

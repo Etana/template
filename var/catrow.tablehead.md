@@ -13,8 +13,8 @@ Attribut de [catrow](catrow.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablehead)
 
 ## Attributs
-* [{catrow.tablehead.catrow.tablehead.INC_SPAN}](catrow.tablehead.catrow.tablehead.INC_SPAN.md#readme)
-* [{catrow.tablehead.catrow.tablehead.L_FORUM}](catrow.tablehead.catrow.tablehead.L_FORUM.md#readme)
+* [{catrow.tablehead.INC_SPAN}](catrow.tablehead.INC_SPAN.md#readme)
+* [{catrow.tablehead.L_FORUM}](catrow.tablehead.L_FORUM.md#readme)
 
 
 ## Utilisations dans les templates

@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)
 
 ## Attributs
-* [{moderation_panel.moderation_panel.U_YOUR_PERSONAL_MODERATE}](moderation_panel.moderation_panel.U_YOUR_PERSONAL_MODERATE.md#readme)
+* [{moderation_panel.U_YOUR_PERSONAL_MODERATE}](moderation_panel.U_YOUR_PERSONAL_MODERATE.md#readme)
 
 
 ## Utilisations dans les templates

@@ -19,7 +19,7 @@ Attribut de [postrow.displayed.switch_vote_active.switch_bar](postrow.displayed.
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus)
 
 ## Attributs
-* [{postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS}](postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS.md#readme)
+* [{postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS}](postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS.md#readme)
 
 
 ## Utilisations dans les templates

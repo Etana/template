@@ -13,7 +13,7 @@ Attribut de [switch_ticker](switch_ticker.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.ticker_row)
 
 ## Attributs
-* [{switch_ticker.ticker_row.switch_ticker.ticker_row.ELEMENT}](switch_ticker.ticker_row.switch_ticker.ticker_row.ELEMENT.md#readme)
+* [{switch_ticker.ticker_row.ELEMENT}](switch_ticker.ticker_row.ELEMENT.md#readme)
 
 
 ## Utilisations dans les templates

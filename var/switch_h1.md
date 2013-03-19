@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_h1)
 
 ## Attributs
-* [{switch_h1.switch_h1.MAIN_SITENAME}](switch_h1.switch_h1.MAIN_SITENAME.md#readme)
+* [{switch_h1.MAIN_SITENAME}](switch_h1.MAIN_SITENAME.md#readme)
 
 
 ## Utilisations dans les templates

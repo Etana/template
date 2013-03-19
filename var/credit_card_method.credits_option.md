@@ -13,8 +13,8 @@ Attribut de [credit_card_method](credit_card_method.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option)
 
 ## Attributs
-* [{credit_card_method.credits_option.credit_card_method.credits_option.OPTION}](credit_card_method.credits_option.credit_card_method.credits_option.OPTION.md#readme)
-* [{credit_card_method.credits_option.credit_card_method.credits_option.VALUE}](credit_card_method.credits_option.credit_card_method.credits_option.VALUE.md#readme)
+* [{credit_card_method.credits_option.OPTION}](credit_card_method.credits_option.OPTION.md#readme)
+* [{credit_card_method.credits_option.VALUE}](credit_card_method.credits_option.VALUE.md#readme)
 
 
 ## Utilisations dans les templates

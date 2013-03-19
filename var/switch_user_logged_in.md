@@ -21,7 +21,7 @@ contenu que l'utilisateur verra si il est connecté
 ```
 
 ## Attributs
-* [{switch_user_logged_in.switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}](switch_user_logged_in.switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU.md#readme)
+* [{switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}](switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU.md#readme)
 * [<!-- BEGIN switch_plus_menu -->](switch_user_logged_in.switch_plus_menu.md#readme)
 * [<!-- BEGIN watchtopic -->](switch_user_logged_in.watchtopic.md#readme)
 

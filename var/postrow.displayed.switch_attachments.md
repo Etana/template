@@ -15,7 +15,7 @@ Attribut de [postrow.displayed](postrow.displayed.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments)
 
 ## Attributs
-* [{postrow.displayed.switch_attachments.postrow.displayed.switch_attachments.L_ATTACHMENTS}](postrow.displayed.switch_attachments.postrow.displayed.switch_attachments.L_ATTACHMENTS.md#readme)
+* [{postrow.displayed.switch_attachments.L_ATTACHMENTS}](postrow.displayed.switch_attachments.L_ATTACHMENTS.md#readme)
 * [<!-- BEGIN switch_post_attachments -->](postrow.displayed.switch_attachments.switch_post_attachments.md#readme)
 
 

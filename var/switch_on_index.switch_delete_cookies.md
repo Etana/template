@@ -13,8 +13,8 @@ Attribut de [switch_on_index](switch_on_index.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
 
 ## Attributs
-* [{switch_on_index.switch_delete_cookies.switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}](switch_on_index.switch_delete_cookies.switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)
-* [{switch_on_index.switch_delete_cookies.switch_on_index.switch_delete_cookies.U_DELETE_COOKIES}](switch_on_index.switch_delete_cookies.switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme)
+* [{switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}](switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)
+* [{switch_on_index.switch_delete_cookies.U_DELETE_COOKIES}](switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme)
 
 
 ## Utilisations dans les templates

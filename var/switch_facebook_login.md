@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_login)
 
 ## Attributs
-* [{switch_facebook_login.switch_facebook_login.FACEBOOK_APP_ID}](switch_facebook_login.switch_facebook_login.FACEBOOK_APP_ID.md#readme)
+* [{switch_facebook_login.FACEBOOK_APP_ID}](switch_facebook_login.FACEBOOK_APP_ID.md#readme)
 
 
 ## Utilisations dans les templates

@@ -17,8 +17,8 @@ Attribut de [postrow.displayed.switch_vote_active](postrow.displayed.switch_vote
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_vote)
 
 ## Attributs
-* [{postrow.displayed.switch_vote_active.switch_vote.postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS}](postrow.displayed.switch_vote_active.switch_vote.postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS.md#readme)
-* [{postrow.displayed.switch_vote_active.switch_vote.postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS}](postrow.displayed.switch_vote_active.switch_vote.postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS.md#readme)
+* [{postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS}](postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS.md#readme)
+* [{postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS}](postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS.md#readme)
 
 
 ## Utilisations dans les templates

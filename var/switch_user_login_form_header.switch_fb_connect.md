@@ -13,9 +13,9 @@ Attribut de [switch_user_login_form_header](switch_user_login_form_header.md#rea
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect)
 
 ## Attributs
-* [{switch_user_login_form_header.switch_fb_connect.switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}](switch_user_login_form_header.switch_fb_connect.switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)
-* [{switch_user_login_form_header.switch_fb_connect.switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}](switch_user_login_form_header.switch_fb_connect.switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS.md#readme)
-* [{switch_user_login_form_header.switch_fb_connect.switch_user_login_form_header.switch_fb_connect.L_OR}](switch_user_login_form_header.switch_fb_connect.switch_user_login_form_header.switch_fb_connect.L_OR.md#readme)
+* [{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}](switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)
+* [{switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}](switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS.md#readme)
+* [{switch_user_login_form_header.switch_fb_connect.L_OR}](switch_user_login_form_header.switch_fb_connect.L_OR.md#readme)
 
 
 ## Utilisations dans les templates

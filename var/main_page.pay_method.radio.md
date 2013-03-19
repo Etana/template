@@ -15,7 +15,7 @@ Attribut de [main_page.pay_method](main_page.pay_method.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
 
 ## Attributs
-* [{main_page.pay_method.radio.main_page.pay_method.radio.METHOD}](main_page.pay_method.radio.main_page.pay_method.radio.METHOD.md#readme)
+* [{main_page.pay_method.radio.METHOD}](main_page.pay_method.radio.METHOD.md#readme)
 
 
 ## Utilisations dans les templates

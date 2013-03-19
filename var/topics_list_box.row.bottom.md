@@ -15,7 +15,7 @@ Attribut de [topics_list_box.row](topics_list_box.row.md#readme).
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom)
 
 ## Attributs
-* [{topics_list_box.row.bottom.topics_list_box.row.bottom.COUNT_TOTAL_TOPICS}](topics_list_box.row.bottom.topics_list_box.row.bottom.COUNT_TOTAL_TOPICS.md#readme)
+* [{topics_list_box.row.bottom.COUNT_TOTAL_TOPICS}](topics_list_box.row.bottom.COUNT_TOTAL_TOPICS.md#readme)
 * [<!-- BEGIN multi_selection -->](topics_list_box.row.bottom.multi_selection.md#readme)
 
 

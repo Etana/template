@@ -19,7 +19,7 @@ Attribut de [postrow.displayed.switch_attachments.switch_post_attachments](postr
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment)
 
 ## Attributs
-* [{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT.md#readme)
+* [{postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}](postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT.md#readme)
 
 
 ## Utilisations dans les templates

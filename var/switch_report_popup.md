@@ -13,9 +13,9 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup)
 
 ## Attributs
-* [{switch_report_popup.switch_report_popup.S_HEIGHT}](switch_report_popup.switch_report_popup.S_HEIGHT.md#readme)
-* [{switch_report_popup.switch_report_popup.S_WIDTH}](switch_report_popup.switch_report_popup.S_WIDTH.md#readme)
-* [{switch_report_popup.switch_report_popup.U_REPORT_POPUP}](switch_report_popup.switch_report_popup.U_REPORT_POPUP.md#readme)
+* [{switch_report_popup.S_HEIGHT}](switch_report_popup.S_HEIGHT.md#readme)
+* [{switch_report_popup.S_WIDTH}](switch_report_popup.S_WIDTH.md#readme)
+* [{switch_report_popup.U_REPORT_POPUP}](switch_report_popup.U_REPORT_POPUP.md#readme)
 
 
 ## Utilisations dans les templates

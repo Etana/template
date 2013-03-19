@@ -13,7 +13,7 @@ contenu
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index1)
 
 ## Attributs
-* [{giefmod_index1.giefmod_index1.MODVAR}](giefmod_index1.giefmod_index1.MODVAR.md#readme)
+* [{giefmod_index1.MODVAR}](giefmod_index1.MODVAR.md#readme)
 * [<!-- BEGIN saut -->](giefmod_index1.saut.md#readme)
 
 
