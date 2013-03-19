@@ -6,7 +6,7 @@
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/agreement)
 `Affichage des conditions d'inscription à votre forum`.
 
-Cette page touche la partie "S'enregistrer de votre forum : `/register`
+Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Variables
 

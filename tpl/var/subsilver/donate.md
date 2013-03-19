@@ -3,14 +3,19 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/donate.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/donate)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/donate)
+`Contribution`.
+
+Ce template touche la partie contribution de votre forum : `/donate`.
+
+*Il est conseillé de ne pas toucher aux variables ce template.*
 
 ## Variables
 
 * __[`{ALLOPASS_FLAGS}`](https://github.com/Etana/template.list/blob/master/var/ALLOPASS_FLAGS.md#readme)<a href="https://fa-tvars.appspot.com/var/ALLOPASS_FLAGS">*</a> :__ ligne [`93`](../../src/subsilver/donate.tpl#L93)
 * __[`{CURRENCY}`](https://github.com/Etana/template.list/blob/master/var/CURRENCY.md#readme)<a href="https://fa-tvars.appspot.com/var/CURRENCY">*</a> :__ lignes [`166`](../../src/subsilver/donate.tpl#L166), [`176`](../../src/subsilver/donate.tpl#L176)
-* __[`{DONATE_TEXT}`](https://github.com/Etana/template.list/blob/master/var/DONATE_TEXT.md#readme)<a href="https://fa-tvars.appspot.com/var/DONATE_TEXT">*</a> :__ ligne [`7`](../../src/subsilver/donate.tpl#L7)
-* __[`{DONATE_TITLE}`](https://github.com/Etana/template.list/blob/master/var/DONATE_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/DONATE_TITLE">*</a> :__ ligne [`3`](../../src/subsilver/donate.tpl#L3)
+* __[`{DONATE_TEXT}`](https://github.com/Etana/template.list/blob/master/var/DONATE_TEXT.md#readme) :__ ligne [`7`](../../src/subsilver/donate.tpl#L7)
+* __[`{DONATE_TITLE}`](https://github.com/Etana/template.list/blob/master/var/DONATE_TITLE.md#readme) :__ ligne [`3`](../../src/subsilver/donate.tpl#L3)
 * __[`{ERROR_MESSAGES}`](https://github.com/Etana/template.list/blob/master/var/ERROR_MESSAGES.md#readme)<a href="https://fa-tvars.appspot.com/var/ERROR_MESSAGES">*</a> :__ ligne [`13`](../../src/subsilver/donate.tpl#L13)
 * __[`{LEFT}`](https://github.com/Etana/template.list/blob/master/var/LEFT.md#readme)<a href="https://fa-tvars.appspot.com/var/LEFT">*</a> :__ ligne [`229`](../../src/subsilver/donate.tpl#L229)
 * __[`{L_BY}`](https://github.com/Etana/template.list/blob/master/var/L_BY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BY">*</a> :__ ligne [`131`](../../src/subsilver/donate.tpl#L131)
@@ -19,17 +24,17 @@
 * __[`{L_BY_PHONECALL_EXPLAIN}`](https://github.com/Etana/template.list/blob/master/var/L_BY_PHONECALL_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BY_PHONECALL_EXPLAIN">*</a> :__ ligne [`87`](../../src/subsilver/donate.tpl#L87)
 * __[`{L_BY_PHONECALL_EXPLAIN_2}`](https://github.com/Etana/template.list/blob/master/var/L_BY_PHONECALL_EXPLAIN_2.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BY_PHONECALL_EXPLAIN_2">*</a> :__ ligne [`99`](../../src/subsilver/donate.tpl#L99)
 * __[`{L_CANCEL}`](https://github.com/Etana/template.list/blob/master/var/L_CANCEL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CANCEL">*</a> :__ lignes [`120`](../../src/subsilver/donate.tpl#L120), [`189`](../../src/subsilver/donate.tpl#L189)
-* __[`{L_CREDIT_ADD_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_CREDIT_ADD_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CREDIT_ADD_TITLE">*</a> :__ ligne [`34`](../../src/subsilver/donate.tpl#L34)
+* __[`{L_CREDIT_ADD_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_CREDIT_ADD_TITLE.md#readme) :__ ligne [`34`](../../src/subsilver/donate.tpl#L34)
 * __[`{L_CURRENCY}`](https://github.com/Etana/template.list/blob/master/var/L_CURRENCY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CURRENCY">*</a> :__ ligne [`143`](../../src/subsilver/donate.tpl#L143)
 * __[`{L_FIRST_STEP}`](https://github.com/Etana/template.list/blob/master/var/L_FIRST_STEP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FIRST_STEP">*</a> :__ ligne [`77`](../../src/subsilver/donate.tpl#L77)
 * __[`{L_INSERT_CODE}`](https://github.com/Etana/template.list/blob/master/var/L_INSERT_CODE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_INSERT_CODE">*</a> :__ ligne [`106`](../../src/subsilver/donate.tpl#L106)
 * __[`{L_INSERT_SUM}`](https://github.com/Etana/template.list/blob/master/var/L_INSERT_SUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_INSERT_SUM">*</a> :__ ligne [`172`](../../src/subsilver/donate.tpl#L172)
-* __[`{L_MAKE_DONATION}`](https://github.com/Etana/template.list/blob/master/var/L_MAKE_DONATION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MAKE_DONATION">*</a> :__ ligne [`39`](../../src/subsilver/donate.tpl#L39)
+* __[`{L_MAKE_DONATION}`](https://github.com/Etana/template.list/blob/master/var/L_MAKE_DONATION.md#readme) :__ ligne [`39`](../../src/subsilver/donate.tpl#L39)
 * __[`{L_NO}`](https://github.com/Etana/template.list/blob/master/var/L_NO.md#readme) :__ ligne [`231`](../../src/subsilver/donate.tpl#L231)
 * __[`{L_SECOND_STEP}`](https://github.com/Etana/template.list/blob/master/var/L_SECOND_STEP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SECOND_STEP">*</a> :__ ligne [`80`](../../src/subsilver/donate.tpl#L80)
 * __[`{L_SELECT_SUM}`](https://github.com/Etana/template.list/blob/master/var/L_SELECT_SUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT_SUM">*</a> :__ ligne [`157`](../../src/subsilver/donate.tpl#L157)
 * __[`{L_SUBMIT}`](https://github.com/Etana/template.list/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ lignes [`112`](../../src/subsilver/donate.tpl#L112), [`150`](../../src/subsilver/donate.tpl#L150), [`167`](../../src/subsilver/donate.tpl#L167), [`177`](../../src/subsilver/donate.tpl#L177)
-* __[`{L_TERMS_OF_SERVICE}`](https://github.com/Etana/template.list/blob/master/var/L_TERMS_OF_SERVICE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TERMS_OF_SERVICE">*</a> :__ ligne [`18`](../../src/subsilver/donate.tpl#L18)
+* __[`{L_TERMS_OF_SERVICE}`](https://github.com/Etana/template.list/blob/master/var/L_TERMS_OF_SERVICE.md#readme) :__ ligne [`18`](../../src/subsilver/donate.tpl#L18)
 * __[`{L_YES}`](https://github.com/Etana/template.list/blob/master/var/L_YES.md#readme) :__ ligne [`226`](../../src/subsilver/donate.tpl#L226)
 * __[`{MESSAGE_TEXT}`](https://github.com/Etana/template.list/blob/master/var/MESSAGE_TEXT.md#readme) :__ ligne [`215`](../../src/subsilver/donate.tpl#L215)
 * __[`{MESSAGE_TITLE}`](https://github.com/Etana/template.list/blob/master/var/MESSAGE_TITLE.md#readme) :__ ligne [`206`](../../src/subsilver/donate.tpl#L206)
@@ -37,8 +42,8 @@
 * __[`{POST_URL}`](https://github.com/Etana/template.list/blob/master/var/POST_URL.md#readme)<a href="https://fa-tvars.appspot.com/var/POST_URL">*</a> :__ ligne [`104`](../../src/subsilver/donate.tpl#L104)
 * __[`{RIGHT}`](https://github.com/Etana/template.list/blob/master/var/RIGHT.md#readme)<a href="https://fa-tvars.appspot.com/var/RIGHT">*</a> :__ ligne [`221`](../../src/subsilver/donate.tpl#L221)
 * __[`{S_CONFIRM_ACTION}`](https://github.com/Etana/template.list/blob/master/var/S_CONFIRM_ACTION.md#readme) :__ ligne [`222`](../../src/subsilver/donate.tpl#L222)
-* __[`{S_CREDITS_ADD_ACTION}`](https://github.com/Etana/template.list/blob/master/var/S_CREDITS_ADD_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CREDITS_ADD_ACTION">*</a> :__ lignes [`48`](../../src/subsilver/donate.tpl#L48), [`118`](../../src/subsilver/donate.tpl#L118), [`138`](../../src/subsilver/donate.tpl#L138), [`159`](../../src/subsilver/donate.tpl#L159), [`174`](../../src/subsilver/donate.tpl#L174), [`188`](../../src/subsilver/donate.tpl#L188), [`230`](../../src/subsilver/donate.tpl#L230)
-* __[`{TERMS_OF_SERVICE}`](https://github.com/Etana/template.list/blob/master/var/TERMS_OF_SERVICE.md#readme)<a href="https://fa-tvars.appspot.com/var/TERMS_OF_SERVICE">*</a> :__ ligne [`23`](../../src/subsilver/donate.tpl#L23)
+* __[`{S_CREDITS_ADD_ACTION}`](https://github.com/Etana/template.list/blob/master/var/S_CREDITS_ADD_ACTION.md#readme) :__ lignes [`48`](../../src/subsilver/donate.tpl#L48), [`118`](../../src/subsilver/donate.tpl#L118), [`138`](../../src/subsilver/donate.tpl#L138), [`159`](../../src/subsilver/donate.tpl#L159), [`174`](../../src/subsilver/donate.tpl#L174), [`188`](../../src/subsilver/donate.tpl#L188), [`230`](../../src/subsilver/donate.tpl#L230)
+* __[`{TERMS_OF_SERVICE}`](https://github.com/Etana/template.list/blob/master/var/TERMS_OF_SERVICE.md#readme) :__ ligne [`23`](../../src/subsilver/donate.tpl#L23)
 * __[`<!-- BEGIN credit_card_method -->`](https://github.com/Etana/template.list/blob/master/var/credit_card_method.md#readme)<a href="https://fa-tvars.appspot.com/var/credit_card_method">*</a> :__ ligne [`127`](../../src/subsilver/donate.tpl#L127)
     * __[`<!-- BEGIN credits_option -->`](https://github.com/Etana/template.list/blob/master/var/credit_card_method.credits_option.md#readme)<a href="https://fa-tvars.appspot.com/var/credit_card_method.credits_option">*</a> :__ ligne [`161`](../../src/subsilver/donate.tpl#L161)
         * __[`{credit_card_method.credits_option.OPTION}`](https://github.com/Etana/template.list/blob/master/var/credit_card_method.credits_option.OPTION.md#readme)<a href="https://fa-tvars.appspot.com/var/credit_card_method.credits_option.OPTION">*</a> :__ ligne [`162`](../../src/subsilver/donate.tpl#L162)

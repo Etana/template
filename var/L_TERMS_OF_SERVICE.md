@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_TERMS_OF_SERVICE}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_TERMS_OF_SERVICE)
+##Description[*](https://fa-tvars.appspot.com/var/L_TERMS_OF_SERVICE)
+Chaîne de texte.
+
+* __Contenu en français :__ `Informations`
 
 ## Utilisations dans les templates
 

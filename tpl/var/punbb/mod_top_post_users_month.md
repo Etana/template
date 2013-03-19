@@ -8,7 +8,7 @@
 ## Variables
 
 * __[`{L_TOP_POST_USERS_MONTH}`](https://github.com/Etana/template.list/blob/master/var/L_TOP_POST_USERS_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOP_POST_USERS_MONTH">*</a> :__ lignes [`2`](../../src/punbb/mod_top_post_users_month.tpl#L2), [`4`](../../src/punbb/mod_top_post_users_month.tpl#L4)
-* __[`<!-- BEGIN POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER">*</a> :__ ligne [`5`](../../src/punbb/mod_top_post_users_month.tpl#L5)
+* __[`<!-- BEGIN POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme) :__ ligne [`5`](../../src/punbb/mod_top_post_users_month.tpl#L5)
     * __[`{POSTER.BARRE}`](https://github.com/Etana/template.list/blob/master/var/POSTER.BARRE.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER.BARRE">*</a> :__ ligne [`8`](../../src/punbb/mod_top_post_users_month.tpl#L8)
     * __[`{POSTER.NAME}`](https://github.com/Etana/template.list/blob/master/var/POSTER.NAME.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER.NAME">*</a> :__ ligne [`7`](../../src/punbb/mod_top_post_users_month.tpl#L7)
     * __[`{POSTER.NB_POSTS}`](https://github.com/Etana/template.list/blob/master/var/POSTER.NB_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER.NB_POSTS">*</a> :__ ligne [`8`](../../src/punbb/mod_top_post_users_month.tpl#L8)

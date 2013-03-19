@@ -3,7 +3,10 @@
 * __Version :__ [phpBB2](.)
 * __Code :__ [lien](../../src/subsilver/confirm_body.tpl)
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/confirm_body)
+##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/confirm_body)
+`Page type pour les demandes de confirmation`.
+
+Ce template touche toutes les demandes de confirmation comme le bannissement d'un membre, la suppression de messages et sujets, ...
 
 ## Variables
 

@@ -23,7 +23,7 @@
 * __[`{L_THIS_POST_IP}`](https://github.com/Etana/template.list/blob/master/var/L_THIS_POST_IP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_THIS_POST_IP">*</a> :__ ligne [`33`](../../src/subsilver/modcp_viewip.tpl#L33)
 * __[`{L_TITLE}`](https://github.com/Etana/template.list/blob/master/var/L_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TITLE">*</a> :__ ligne [`8`](../../src/subsilver/modcp_viewip.tpl#L8)
 * __[`{POSTED}`](https://github.com/Etana/template.list/blob/master/var/POSTED.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTED">*</a> :__ ligne [`24`](../../src/subsilver/modcp_viewip.tpl#L24)
-* __[`<!-- BEGIN POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER">*</a> :__ ligne [`16`](../../src/subsilver/modcp_viewip.tpl#L16)
+* __[`<!-- BEGIN POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme) :__ ligne [`16`](../../src/subsilver/modcp_viewip.tpl#L16)
 * __[`<!-- END POSTER -->`](https://github.com/Etana/template.list/blob/master/var/POSTER.md#readme) :__ ligne 
 * __[`{POSTS}`](https://github.com/Etana/template.list/blob/master/var/POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTS">*</a> :__ ligne [`39`](../../src/subsilver/modcp_viewip.tpl#L39)
 * __[`{PREVIEW}`](https://github.com/Etana/template.list/blob/master/var/PREVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/PREVIEW">*</a> :__ ligne [`82`](../../src/subsilver/modcp_viewip.tpl#L82)
