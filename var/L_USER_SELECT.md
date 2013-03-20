@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_USER_SELECT}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_USER_SELECT)
+##Description[*](https://fa-tvars.appspot.com/var/L_USER_SELECT)
+Chaîne de texte.
+
+* __Contenu en français :__ `Nom d'utilisateur`
 
 ## Utilisations dans les templates
 

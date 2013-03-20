@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_PM}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_PM)
+##Description[*](https://fa-tvars.appspot.com/var/L_PM)
+Chaîne de texte.
+
+* __Contenu en français :__ `MP`
 
 ## Utilisations dans les templates
 

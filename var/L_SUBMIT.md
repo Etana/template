@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SUBMIT}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SUBMIT)
+##Description[*](https://fa-tvars.appspot.com/var/L_SUBMIT)
+Chaîne de texte.
+
+* __Contenu en français :__ `Ok`
 
 ## Utilisations dans les templates
 

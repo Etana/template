@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](me
 <!-- END memberrow -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.U_VIEWPROFILE)
+##Description[*](https://fa-tvars.appspot.com/var/memberrow.U_VIEWPROFILE)
+Contient un lien vers le profil du membre.
 
 ## Utilisations dans les templates
 

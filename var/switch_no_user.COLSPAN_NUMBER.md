@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN switch_no_user -->...<!-- END switch_no_use
 <!-- END switch_no_user -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
+##Description[*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
+Contient le nombre de colonnes affichées.
 
 ## Utilisations dans les templates
 

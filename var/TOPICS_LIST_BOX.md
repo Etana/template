@@ -7,7 +7,8 @@ Variable d'affichage.
 {TOPICS_LIST_BOX}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOPICS_LIST_BOX)
+##Description[*](https://fa-tvars.appspot.com/var/TOPICS_LIST_BOX)
+Affiche le template [`phpbb2 > topics_list_box`](https://github.com/Etana/template/blob/master/tpl/var/subsilver/topics_list_box.md#readme) ou [`punbb > topics_list_box`](https://github.com/Etana/template/blob/master/tpl/var/punbb/topics_list_box.md#readme).
 
 ## Utilisations dans les templates
 

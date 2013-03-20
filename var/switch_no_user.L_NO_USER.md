@@ -9,7 +9,10 @@ Attribut d'affichage de [`<!-- BEGIN switch_no_user -->...<!-- END switch_no_use
 <!-- END switch_no_user -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
+##Description[*](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
+Chaîne de texte.
+
+* __Contenu en français :__ `Désolé, mais cet utilisateur n'existe pas.`
 
 ## Utilisations dans les templates
 

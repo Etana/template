@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_WEBSITE}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_WEBSITE)
+##Description[*](https://fa-tvars.appspot.com/var/L_WEBSITE)
+Chaîne de texte.
+
+* __Contenu en français :__ `Site web`
 
 ## Utilisations dans les templates
 

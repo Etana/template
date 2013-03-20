@@ -7,7 +7,8 @@ Variable d'affichage.
 {U_POST_NEW_TOPIC}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_POST_NEW_TOPIC)
+##Description[*](https://fa-tvars.appspot.com/var/U_POST_NEW_TOPIC)
+Lien pour poster un nouveau sujet dans le forum concerné.
 
 ## Utilisations dans les templates
 

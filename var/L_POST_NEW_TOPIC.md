@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_POST_NEW_TOPIC}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POST_NEW_TOPIC)
+##Description[*](https://fa-tvars.appspot.com/var/L_POST_NEW_TOPIC)
+Chaîne de texte.
+
+* __Contenu en français :__ `Poster un nouveau sujet`
 
 ## Utilisations dans les templates
 

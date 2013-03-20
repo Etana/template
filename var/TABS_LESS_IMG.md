@@ -7,7 +7,8 @@ Variable d'affichage.
 {TABS_LESS_IMG}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TABS_LESS_IMG)
+##Description[*](https://fa-tvars.appspot.com/var/TABS_LESS_IMG)
+Image pour fermer un panneau définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > -`.
 
 ## Utilisations dans les templates
 

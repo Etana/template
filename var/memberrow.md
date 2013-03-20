@@ -9,7 +9,8 @@ contenu
 <!-- END memberrow -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow)
+##Description[*](https://fa-tvars.appspot.com/var/memberrow)
+Boucle affichant les informations d'un membre et se répétant pour chaque membre de votre forum.
 
 ## Attributs
 * __[`{memberrow.AVATAR_IMG}`](memberrow.AVATAR_IMG.md#readme)__

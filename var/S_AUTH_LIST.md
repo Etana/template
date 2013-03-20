@@ -7,7 +7,8 @@ Variable d'affichage.
 {S_AUTH_LIST}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_AUTH_LIST)
+##Description[*](https://fa-tvars.appspot.com/var/S_AUTH_LIST)
+Affiche la liste des permissions du forum concerné.
 
 ## Utilisations dans les templates
 

@@ -9,7 +9,10 @@ Attribut d'affichage de [`<!-- BEGIN switch_compat_meta -->...<!-- END switch_co
 <!-- END switch_compat_meta -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
+##Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
+Contient la version d'affichage de Internet Explorer pour la balise X-UA-Compatible.
+
+*Balise désactivée.*
 
 ## Utilisations dans les templates
 

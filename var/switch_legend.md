@@ -9,7 +9,8 @@ contenu
 <!-- END switch_legend -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_legend)
+##Description[*](https://fa-tvars.appspot.com/var/switch_legend)
+Boucle affichant la légende des icônes en bas des forums si l'option est activée dans `PA > Général > Messages et Emails | Configuration > Afficher la légende des statuts des messages`.
 
 ## Utilisations dans les templates
 

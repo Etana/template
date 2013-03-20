@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_MARK_TOPICS_READ}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MARK_TOPICS_READ)
+##Description[*](https://fa-tvars.appspot.com/var/L_MARK_TOPICS_READ)
+Chaîne de texte.
+
+* __Contenu en français :__ `Marquer tous les sujets comme lus`
 
 ## Utilisations dans les templates
 

@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_AVATAR}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_AVATAR)
+##Description[*](https://fa-tvars.appspot.com/var/L_AVATAR)
+Chaîne de texte.
+
+* __Contenu en français :__ `Avatar`
 
 ## Utilisations dans les templates
 

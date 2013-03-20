@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_VISITED}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_VISITED)
+##Description[*](https://fa-tvars.appspot.com/var/L_VISITED)
+Chaîne de texte.
+
+* __Contenu en français :__ `Dernière visite`
 
 ## Utilisations dans les templates
 

@@ -9,7 +9,8 @@ contenu
 <!-- END hitskin_preview -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview)
+##Description[*](https://fa-tvars.appspot.com/var/hitskin_preview)
+Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre forum.
 
 ## Attributs
 * __[`{hitskin_preview.L_RETURN_THEME}`](hitskin_preview.L_RETURN_THEME.md#readme)__

@@ -7,7 +7,8 @@ Variable d'affichage.
 {L_GOTO_DOWN}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_GOTO_DOWN)
+##Description[*](https://fa-tvars.appspot.com/var/L_GOTO_DOWN)
+Image pour aller en bas définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > Aller en bas`.
 
 ## Utilisations dans les templates
 

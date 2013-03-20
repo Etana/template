@@ -7,7 +7,8 @@ Variable d'affichage.
 {COLSPAN_PAGINATION}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/COLSPAN_PAGINATION)
+##Description[*](https://fa-tvars.appspot.com/var/COLSPAN_PAGINATION)
+Attribue une valeur à colspan.
 
 ## Utilisations dans les templates
 

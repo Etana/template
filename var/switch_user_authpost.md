@@ -9,7 +9,8 @@ contenu
 <!-- END switch_user_authpost -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authpost)
+##Description[*](https://fa-tvars.appspot.com/var/switch_user_authpost)
+Boucle s'affichant si l'utilisateur a l'autorisation de créer un nouveau sujet dans le forum concerné.
 
 ## Utilisations dans les templates
 

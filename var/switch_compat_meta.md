@@ -9,7 +9,10 @@ contenu
 <!-- END switch_compat_meta -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_compat_meta)
+##Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta)
+Boucle affichant la balise X-UA-Compatible pour Internet Explorer.
+
+*Cette boucle est désactivée.*
 
 ## Attributs
 * __[`{switch_compat_meta.VERSION}`](switch_compat_meta.VERSION.md#readme)__

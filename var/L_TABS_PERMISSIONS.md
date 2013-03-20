@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_TABS_PERMISSIONS}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_TABS_PERMISSIONS)
+##Description[*](https://fa-tvars.appspot.com/var/L_TABS_PERMISSIONS)
+Chaîne de texte.
+
+* __Contenu en français :__ `Permission de ce forum`
 
 ## Utilisations dans les templates
 

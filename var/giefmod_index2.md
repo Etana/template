@@ -9,7 +9,8 @@ contenu
 <!-- END giefmod_index2 -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod_index2)
+##Description[*](https://fa-tvars.appspot.com/var/giefmod_index2)
+Boucle d'affichage de vos widgets de la colonne de droite si ceux-ci sont activés dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 3 (droite)`.
 
 ## Attributs
 * __[`{giefmod_index2.MODVAR}`](giefmod_index2.MODVAR.md#readme)__

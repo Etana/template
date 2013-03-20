@@ -7,7 +7,10 @@ Variable d'affichage.
 {SEARCH_FORUMS}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCH_FORUMS)
+##Description[*](https://fa-tvars.appspot.com/var/SEARCH_FORUMS)
+Chaîne de texte.
+
+* __Contenu en français :__ `Rechercher des forums`
 
 ## Utilisations dans les templates
 

@@ -7,7 +7,8 @@ Variable d'affichage.
 {FORUM_ID}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/FORUM_ID)
+##Description[*](https://fa-tvars.appspot.com/var/FORUM_ID)
+Contient l'identifiant du forum.
 
 ## Utilisations dans les templates
 

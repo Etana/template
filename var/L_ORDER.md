@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_ORDER}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ORDER)
+##Description[*](https://fa-tvars.appspot.com/var/L_ORDER)
+Chaîne de texte.
+
+* __Contenu en français :__ `Ordre`
 
 ## Utilisations dans les templates
 

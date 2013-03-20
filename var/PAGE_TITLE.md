@@ -7,7 +7,8 @@ Variable d'affichage.
 {PAGE_TITLE}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAGE_TITLE)
+##Description[*](https://fa-tvars.appspot.com/var/PAGE_TITLE)
+Contient le titre de la page.
 
 ## Utilisations dans les templates
 

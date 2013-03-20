@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](me
 <!-- END memberrow -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.ROW_CLASS)
+##Description[*](https://fa-tvars.appspot.com/var/memberrow.ROW_CLASS)
+Affiche en alternance la class "row1" et "row2".
 
 ## Utilisations dans les templates
 

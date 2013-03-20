@@ -9,7 +9,8 @@ contenu
 <!-- END switch_ticker_new -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker_new)
+##Description[*](https://fa-tvars.appspot.com/var/switch_ticker_new)
+Boucle d'affichage si les annonces sont activées dans `PA > Général > Messages et Emails | Annonces > Activer les annonces`.
 
 ## Attributs
 * __[`<!-- BEGIN ticker_row -->`](switch_ticker_new.ticker_row.md#readme)__

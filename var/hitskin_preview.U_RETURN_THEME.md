@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN hitskin_preview -->...<!-- END hitskin_prev
 <!-- END hitskin_preview -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/hitskin_preview.U_RETURN_THEME)
+##Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.U_RETURN_THEME)
+Lien pour retourner sur la fiche du thème.
 
 ## Utilisations dans les templates
 

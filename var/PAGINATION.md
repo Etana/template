@@ -7,7 +7,8 @@ Variable d'affichage.
 {PAGINATION}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAGINATION)
+##Description[*](https://fa-tvars.appspot.com/var/PAGINATION)
+Affiche la pagination.
 
 ## Utilisations dans les templates
 

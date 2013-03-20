@@ -7,7 +7,10 @@ Variable d'affichage.
 {ID_CONTENT_CONTAINER}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ID_CONTENT_CONTAINER)
+##Description[*](https://fa-tvars.appspot.com/var/ID_CONTENT_CONTAINER)
+Identifiant attribué au conteneur principal de votre forum.
+
+* __Différentes valeurs *(celles-ci changent selon vos widgets)* :__ `content-container` et `emptyidcc`
 
 ## Utilisations dans les templates
 

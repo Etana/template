@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SELECT_SORT_METHOD}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SELECT_SORT_METHOD)
+##Description[*](https://fa-tvars.appspot.com/var/L_SELECT_SORT_METHOD)
+Chaîne de texte.
+
+* __Contenu en français :__ `Trier par`
 
 ## Utilisations dans les templates
 

@@ -7,7 +7,8 @@ Variable d'affichage.
 {L_BACK_TO_TOP}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_BACK_TO_TOP)
+##Description[*](https://fa-tvars.appspot.com/var/L_BACK_TO_TOP)
+Image pour remonter en haut définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > Revenir en haut`.
 
 ## Utilisations dans les templates
 

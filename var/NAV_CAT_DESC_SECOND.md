@@ -7,7 +7,8 @@ Variable d'affichage.
 {NAV_CAT_DESC_SECOND}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC_SECOND)
+##Description[*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC_SECOND)
+Affiche le fil d'Ariane secondaire.
 
 ## Utilisations dans les templates
 

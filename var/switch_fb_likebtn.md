@@ -9,7 +9,8 @@ contenu
 <!-- END switch_fb_likebtn -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
+##Description[*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)
+Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 
 ## Utilisations dans les templates
 

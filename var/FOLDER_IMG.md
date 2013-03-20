@@ -7,7 +7,8 @@ Variable d'affichage.
 {FOLDER_IMG}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/FOLDER_IMG)
+##Description[*](https://fa-tvars.appspot.com/var/FOLDER_IMG)
+Image des sujets définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet`.
 
 ## Utilisations dans les templates
 

@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN switch_ticker -->...<!-- END switch_ticker 
 <!-- END switch_ticker -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.SPEED)
+##Description[*](https://fa-tvars.appspot.com/var/switch_ticker.SPEED)
+Contient la vitesse de défilement des annonces définie dans `PA > Général > Messages et Emails | Annonces > Vitesse de défilement`.
 
 ## Utilisations dans les templates
 

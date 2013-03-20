@@ -7,7 +7,10 @@ Variable d'affichage.
 {PAGE_NUMBER}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAGE_NUMBER)
+##Description[*](https://fa-tvars.appspot.com/var/PAGE_NUMBER)
+Chaîne de texte affichant la page sur laquelle vous vous trouvez.
+
+* __Contenu en français :__ `Page X sur Y`
 
 ## Utilisations dans les templates
 

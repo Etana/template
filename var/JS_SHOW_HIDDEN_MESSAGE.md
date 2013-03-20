@@ -7,7 +7,10 @@ Variable d'affichage.
 {JS_SHOW_HIDDEN_MESSAGE}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)
+##Description[*](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)
+Chaîne de texte.
+
+* __Contenu en français :__ `Voir le message`
 
 ## Utilisations dans les templates
 

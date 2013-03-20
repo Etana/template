@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](me
 <!-- END memberrow -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.JOINED)
+##Description[*](https://fa-tvars.appspot.com/var/memberrow.JOINED)
+Contient la date d'inscription du membre.
 
 ## Utilisations dans les templates
 

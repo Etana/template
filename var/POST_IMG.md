@@ -7,7 +7,8 @@ Variable d'affichage.
 {POST_IMG}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/POST_IMG)
+##Description[*](https://fa-tvars.appspot.com/var/POST_IMG)
+Image pour poster un nouveau sujet définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Boutons" > Poster un nouveau sujet`.
 
 ## Utilisations dans les templates
 

@@ -9,7 +9,8 @@ contenu
 <!-- END switch_user_authreply -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_authreply)
+##Description[*](https://fa-tvars.appspot.com/var/switch_user_authreply)
+Boucle s'affichant si l'utilisateur a l'autorisation de répondre à un sujet dans le forum concerné.
 
 ## Utilisations dans les templates
 

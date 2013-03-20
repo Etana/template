@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_FOLDER_LOCKED_NEW_IMG}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FOLDER_LOCKED_NEW_IMG)
+##Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_LOCKED_NEW_IMG)
+Chaîne de texte.
+
+* __Contenu en français :__ `Nouveaux messages [ Verrouillé ]`
 
 ## Utilisations dans les templates
 

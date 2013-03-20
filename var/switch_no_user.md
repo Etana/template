@@ -9,7 +9,8 @@ contenu
 <!-- END switch_no_user -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_user)
+##Description[*](https://fa-tvars.appspot.com/var/switch_no_user)
+Boucle s'affichant si aucun utilisateur ne correspond à la recherche.
 
 ## Attributs
 * __[`{switch_no_user.COLSPAN_NUMBER}`](switch_no_user.COLSPAN_NUMBER.md#readme)__

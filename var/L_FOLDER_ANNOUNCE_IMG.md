@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_FOLDER_ANNOUNCE_IMG}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FOLDER_ANNOUNCE_IMG)
+##Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_ANNOUNCE_IMG)
+Chaîne de texte.
+
+* __Contenu en français :__ `Annonce`
 
 ## Utilisations dans les templates
 

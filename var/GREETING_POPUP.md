@@ -7,7 +7,8 @@ Variable d'affichage.
 {GREETING_POPUP}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/GREETING_POPUP)
+##Description[*](https://fa-tvars.appspot.com/var/GREETING_POPUP)
+Contient le template [`phpbb2 > greeting_popup`](https://github.com/Etana/template/blob/master/tpl/var/subsilver/greeting_popup.md#readme) ou [`punbb > greeting_popup`](https://github.com/Etana/template/blob/master/tpl/var/punbb/greeting_popup.md#readme).
 
 ## Utilisations dans les templates
 

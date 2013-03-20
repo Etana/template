@@ -7,7 +7,10 @@ Variable d'affichage.
 {S_CONTENT_DIRECTION}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION)
+##Description[*](https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION)
+Contient la direction du texte.
+
+* __Contenu en français :__ `ltr (left to right)`
 
 ## Utilisations dans les templates
 

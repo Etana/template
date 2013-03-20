@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_MODERATOR}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MODERATOR)
+##Description[*](https://fa-tvars.appspot.com/var/L_MODERATOR)
+Chaîne de texte.
+
+* __Contenu en français :__ `Modérateurs`
 
 ## Utilisations dans les templates
 

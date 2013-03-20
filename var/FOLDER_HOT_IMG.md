@@ -7,7 +7,8 @@ Variable d'affichage.
 {FOLDER_HOT_IMG}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/FOLDER_HOT_IMG)
+##Description[*](https://fa-tvars.appspot.com/var/FOLDER_HOT_IMG)
+Image des sujets populaires définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet - Populaire`.
 
 ## Utilisations dans les templates
 

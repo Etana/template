@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN switch_ticker -->...<!-- END switch_ticker 
 <!-- END switch_ticker -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.DIRECTION)
+##Description[*](https://fa-tvars.appspot.com/var/switch_ticker.DIRECTION)
+Contient la direction du défilement des annonces définie dans `PA > Général > Messages et Emails | Annonces > Défilement`.
 
 ## Utilisations dans les templates
 

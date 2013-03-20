@@ -7,7 +7,8 @@ Variable d'affichage.
 {MODERATORS}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/MODERATORS)
+##Description[*](https://fa-tvars.appspot.com/var/MODERATORS)
+Affiche les modérateurs du forum concerné.
 
 ## Utilisations dans les templates
 

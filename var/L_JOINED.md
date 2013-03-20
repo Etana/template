@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_JOINED}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_JOINED)
+##Description[*](https://fa-tvars.appspot.com/var/L_JOINED)
+Chaîne de texte.
+
+* __Contenu en français :__ `Date d'inscription`
 
 ## Utilisations dans les templates
 

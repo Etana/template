@@ -7,7 +7,8 @@ Variable d'affichage.
 {S_ORDER_SELECT}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)
+##Description[*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)
+Contient le choix de sélection d'un ordre de recherche.
 
 ## Utilisations dans les templates
 

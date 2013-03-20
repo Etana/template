@@ -7,7 +7,8 @@ Variable d'affichage.
 {S_MODE_SELECT}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_MODE_SELECT)
+##Description[*](https://fa-tvars.appspot.com/var/S_MODE_SELECT)
+Contient le choix de sélection d'un mode de recherche.
 
 ## Utilisations dans les templates
 

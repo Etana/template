@@ -9,7 +9,8 @@ contenu
 <!-- END switch_pagination -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_pagination)
+##Description[*](https://fa-tvars.appspot.com/var/switch_pagination)
+Boucle s'affichant si la partie affichée contient plusieurs pages.
 
 ## Utilisations dans les templates
 

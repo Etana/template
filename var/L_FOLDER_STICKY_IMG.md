@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_FOLDER_STICKY_IMG}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FOLDER_STICKY_IMG)
+##Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_STICKY_IMG)
+Chaîne de texte.
+
+* __Contenu en français :__ `Post-it`
 
 ## Utilisations dans les templates
 

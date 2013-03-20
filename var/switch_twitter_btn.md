@@ -9,7 +9,8 @@ contenu
 <!-- END switch_twitter_btn -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_twitter_btn)
+##Description[*](https://fa-tvars.appspot.com/var/switch_twitter_btn)
+Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 
 ## Utilisations dans les templates
 
