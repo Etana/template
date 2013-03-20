@@ -1,7 +1,8 @@
 # Template portal_body
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/portal_body.tpl)
+* __Code source :__ [lien](../../src/subsilver/portal_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > portal_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/portal_body)
 

@@ -1,7 +1,8 @@
 # Template faq_body
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/faq_body.tpl)
+* __Code source :__ [lien](../../src/subsilver/faq_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > faq_body }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/faq_body)
 `Utilisé pour la FAQ de votre forum`.

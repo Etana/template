@@ -1,7 +1,8 @@
 # Template posting_smilies
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/posting_smilies.tpl)
+* __Code source :__ [lien](../../src/punbb/posting_smilies.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_smilies }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/posting_smilies)
 

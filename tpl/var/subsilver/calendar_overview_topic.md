@@ -1,7 +1,8 @@
 # Template calendar_overview_topic
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/calendar_overview_topic.tpl)
+* __Code source :__ [lien](../../src/subsilver/calendar_overview_topic.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_overview_topic }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/calendar_overview_topic)
 

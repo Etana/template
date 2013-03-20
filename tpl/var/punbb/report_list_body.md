@@ -1,7 +1,8 @@
 # Template report_list_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/report_list_body.tpl)
+* __Code source :__ [lien](../../src/punbb/report_list_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_list_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/report_list_body)
 

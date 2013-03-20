@@ -1,7 +1,8 @@
 # Template portal_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/portal_body.tpl)
+* __Code source :__ [lien](../../src/punbb/portal_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > portal_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/portal_body)
 

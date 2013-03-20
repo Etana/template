@@ -1,7 +1,8 @@
 # Template donate
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/donate.tpl)
+* __Code source :__ [lien](../../src/subsilver/donate.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > donate }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/donate)
 `Contribution`.

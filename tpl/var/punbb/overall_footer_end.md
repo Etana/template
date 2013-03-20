@@ -1,7 +1,8 @@
 # Template overall_footer_end
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/overall_footer_end.tpl)
+* __Code source :__ [lien](../../src/punbb/overall_footer_end.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > overall_footer_end }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/overall_footer_end)
 

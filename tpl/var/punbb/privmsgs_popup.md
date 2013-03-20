@@ -1,7 +1,8 @@
 # Template privmsgs_popup
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/privmsgs_popup.tpl)
+* __Code source :__ [lien](../../src/punbb/privmsgs_popup.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_popup }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/privmsgs_popup)
 

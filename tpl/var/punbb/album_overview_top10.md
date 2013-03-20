@@ -1,7 +1,8 @@
 # Template album_overview_top10
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/album_overview_top10.tpl)
+* __Code source :__ [lien](../../src/punbb/album_overview_top10.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_overview_top10 }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_overview_top10)
 

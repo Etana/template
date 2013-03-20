@@ -1,7 +1,8 @@
 # Template jumpbox
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/jumpbox.tpl)
+* __Code source :__ [lien](../../src/punbb/jumpbox.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > jumpbox }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/jumpbox)
 

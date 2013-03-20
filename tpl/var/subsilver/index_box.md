@@ -1,7 +1,8 @@
 # Template index_box
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/index_box.tpl)
+* __Code source :__ [lien](../../src/subsilver/index_box.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > index_box }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/index_box)
 `Page d'accueil - affichage des catégories`.

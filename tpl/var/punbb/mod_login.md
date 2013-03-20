@@ -1,7 +1,8 @@
 # Template mod_login
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/mod_login.tpl)
+* __Code source :__ [lien](../../src/punbb/mod_login.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_login }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_login)
 

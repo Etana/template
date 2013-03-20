@@ -1,7 +1,8 @@
 # Template calendar_scheduler_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/calendar_scheduler_body.tpl)
+* __Code source :__ [lien](../../src/punbb/calendar_scheduler_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_scheduler_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/calendar_scheduler_body)
 

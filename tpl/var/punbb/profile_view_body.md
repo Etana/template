@@ -1,7 +1,8 @@
 # Template profile_view_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/profile_view_body.tpl)
+* __Code source :__ [lien](../../src/punbb/profile_view_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_view_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_view_body)
 

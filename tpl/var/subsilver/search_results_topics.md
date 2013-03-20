@@ -1,7 +1,8 @@
 # Template search_results_topics
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/search_results_topics.tpl)
+* __Code source :__ [lien](../../src/subsilver/search_results_topics.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > search_results_topics }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/search_results_topics)
 

@@ -1,7 +1,8 @@
 # Template groupcp_pending_info
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/groupcp_pending_info.tpl)
+* __Code source :__ [lien](../../src/subsilver/groupcp_pending_info.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=group&part=themes&sub=templates > groupcp_pending_info }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/groupcp_pending_info)
 

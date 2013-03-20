@@ -1,7 +1,8 @@
 # Template privmsgs_body
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/privmsgs_body.tpl)
+* __Code source :__ [lien](../../src/subsilver/privmsgs_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsgs_body)
 

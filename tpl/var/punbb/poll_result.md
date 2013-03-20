@@ -1,7 +1,8 @@
 # Template poll_result
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/poll_result.tpl)
+* __Code source :__ [lien](../../src/punbb/poll_result.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > poll_result }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/poll_result)
 

@@ -1,7 +1,8 @@
 # Template album_upload_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/album_upload_body.tpl)
+* __Code source :__ [lien](../../src/punbb/album_upload_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_upload_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_upload_body)
 

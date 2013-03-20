@@ -1,7 +1,8 @@
 # Template overall_header
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/overall_header.tpl)
+* __Code source :__ [lien](../../src/punbb/overall_header.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > overall_header }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/overall_header)
 

@@ -1,7 +1,8 @@
 # Template calendar_overview_profil
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/calendar_overview_profil.tpl)
+* __Code source :__ [lien](../../src/punbb/calendar_overview_profil.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_overview_profil }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/calendar_overview_profil)
 

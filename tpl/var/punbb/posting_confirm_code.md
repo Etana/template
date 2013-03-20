@@ -1,7 +1,8 @@
 # Template posting_confirm_code
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/posting_confirm_code.tpl)
+* __Code source :__ [lien](../../src/punbb/posting_confirm_code.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_confirm_code }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/posting_confirm_code)
 

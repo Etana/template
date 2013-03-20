@@ -1,7 +1,8 @@
 # Template privmsg_topic_review
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/privmsg_topic_review.tpl)
+* __Code source :__ [lien](../../src/punbb/privmsg_topic_review.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsg_topic_review }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/privmsg_topic_review)
 

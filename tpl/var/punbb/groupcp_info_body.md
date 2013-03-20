@@ -1,7 +1,8 @@
 # Template groupcp_info_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/groupcp_info_body.tpl)
+* __Code source :__ [lien](../../src/punbb/groupcp_info_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=group&part=themes&sub=templates > groupcp_info_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/groupcp_info_body)
 

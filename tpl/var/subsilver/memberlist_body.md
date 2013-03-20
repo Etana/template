@@ -1,7 +1,8 @@
 # Template memberlist_body
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/memberlist_body.tpl)
+* __Code source :__ [lien](../../src/subsilver/memberlist_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > memberlist_body }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/memberlist_body)
 `Liste des membres`.

@@ -1,7 +1,8 @@
 # Template mod_statistics
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/mod_statistics.tpl)
+* __Code source :__ [lien](../../src/punbb/mod_statistics.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_statistics }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_statistics)
 

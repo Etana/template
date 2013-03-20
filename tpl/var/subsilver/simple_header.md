@@ -1,7 +1,8 @@
 # Template simple_header
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/simple_header.tpl)
+* __Code source :__ [lien](../../src/subsilver/simple_header.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > simple_header }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/simple_header)
 

@@ -1,7 +1,8 @@
 # Template profile_send_email
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/profile_send_email.tpl)
+* __Code source :__ [lien](../../src/punbb/profile_send_email.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_email }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_send_email)
 

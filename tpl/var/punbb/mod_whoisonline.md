@@ -1,7 +1,8 @@
 # Template mod_whoisonline
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/mod_whoisonline.tpl)
+* __Code source :__ [lien](../../src/punbb/mod_whoisonline.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_whoisonline }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_whoisonline)
 

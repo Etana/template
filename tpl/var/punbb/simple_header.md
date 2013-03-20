@@ -1,7 +1,8 @@
 # Template simple_header
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/simple_header.tpl)
+* __Code source :__ [lien](../../src/punbb/simple_header.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > simple_header }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/simple_header)
 

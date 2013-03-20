@@ -1,7 +1,8 @@
 # Template agreement
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/agreement.tpl)
+* __Code source :__ [lien](../../src/subsilver/agreement.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > agreement }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/agreement)
 `Affichage des conditions d'inscription à votre forum`.

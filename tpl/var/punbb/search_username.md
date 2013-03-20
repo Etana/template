@@ -1,7 +1,8 @@
 # Template search_username
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/search_username.tpl)
+* __Code source :__ [lien](../../src/punbb/search_username.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > search_username }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/search_username)
 

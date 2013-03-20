@@ -1,7 +1,8 @@
 # Template mod_social_bookmarking
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/mod_social_bookmarking.tpl)
+* __Code source :__ [lien](../../src/punbb/mod_social_bookmarking.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_social_bookmarking }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_social_bookmarking)
 

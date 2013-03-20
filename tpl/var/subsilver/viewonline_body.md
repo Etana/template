@@ -1,7 +1,8 @@
 # Template viewonline_body
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/viewonline_body.tpl)
+* __Code source :__ [lien](../../src/subsilver/viewonline_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > viewonline_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/viewonline_body)
 

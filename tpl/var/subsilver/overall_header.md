@@ -1,10 +1,13 @@
 # Template overall_header
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/overall_header.tpl)
+* __Code source :__ [lien](../../src/subsilver/overall_header.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > overall_header }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/overall_header)
-[`phpbb2 > agreement`](https://github.com/Etana/template/blob/master/tpl/var/subsilver/agreement.md#readme)
+`Haut de page`.
+
+Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le début du BODY reprenant le haut de votre forum (logo, titre et description, barre de navigation, ...).
 
 ## Variables
 

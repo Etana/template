@@ -1,7 +1,8 @@
 # Template rpg_sheet
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/rpg_sheet.tpl)
+* __Code source :__ [lien](../../src/subsilver/rpg_sheet.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > rpg_sheet }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/rpg_sheet)
 

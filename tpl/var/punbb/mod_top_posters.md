@@ -1,7 +1,8 @@
 # Template mod_top_posters
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/mod_top_posters.tpl)
+* __Code source :__ [lien](../../src/punbb/mod_top_posters.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_top_posters }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_top_posters)
 

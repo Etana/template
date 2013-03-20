@@ -1,7 +1,8 @@
 # Template index_body
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/index_body.tpl)
+* __Code source :__ [lien](../../src/subsilver/index_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > index_body }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/index_body)
 `Page d'accueil`.

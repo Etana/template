@@ -1,7 +1,8 @@
 # Template posting_smilies
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/posting_smilies.tpl)
+* __Code source :__ [lien](../../src/subsilver/posting_smilies.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_smilies }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_smilies)
 

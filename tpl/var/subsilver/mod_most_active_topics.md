@@ -1,7 +1,8 @@
 # Template mod_most_active_topics
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/mod_most_active_topics.tpl)
+* __Code source :__ [lien](../../src/subsilver/mod_most_active_topics.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_most_active_topics }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_most_active_topics)
 

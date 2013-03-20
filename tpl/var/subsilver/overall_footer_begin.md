@@ -1,7 +1,8 @@
 # Template overall_footer_begin
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/overall_footer_begin.tpl)
+* __Code source :__ [lien](../../src/subsilver/overall_footer_begin.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > overall_footer_begin }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/overall_footer_begin)
 

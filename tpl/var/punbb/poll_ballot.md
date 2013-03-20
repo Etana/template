@@ -1,7 +1,8 @@
 # Template poll_ballot
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/poll_ballot.tpl)
+* __Code source :__ [lien](../../src/punbb/poll_ballot.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > poll_ballot }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/poll_ballot)
 

@@ -1,7 +1,8 @@
 # Template album_nuffimage_box
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/album_nuffimage_box.tpl)
+* __Code source :__ [lien](../../src/subsilver/album_nuffimage_box.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_nuffimage_box }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_nuffimage_box)
 

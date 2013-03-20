@@ -1,7 +1,8 @@
 # Template posting_topic_review
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/posting_topic_review.tpl)
+* __Code source :__ [lien](../../src/subsilver/posting_topic_review.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_topic_review }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_topic_review)
 

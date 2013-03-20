@@ -1,7 +1,8 @@
 # Template profile_edit_signature
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/profile_edit_signature.tpl)
+* __Code source :__ [lien](../../src/punbb/profile_edit_signature.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_edit_signature }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_edit_signature)
 

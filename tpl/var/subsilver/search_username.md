@@ -1,7 +1,8 @@
 # Template search_username
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/search_username.tpl)
+* __Code source :__ [lien](../../src/subsilver/search_username.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > search_username }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/search_username)
 

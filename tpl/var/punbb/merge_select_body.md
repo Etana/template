@@ -1,7 +1,8 @@
 # Template merge_select_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/merge_select_body.tpl)
+* __Code source :__ [lien](../../src/punbb/merge_select_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > merge_select_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/merge_select_body)
 

@@ -1,7 +1,8 @@
 # Template faq_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/faq_body.tpl)
+* __Code source :__ [lien](../../src/punbb/faq_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > faq_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/faq_body)
 

@@ -1,7 +1,8 @@
 # Template standard
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/standard.tpl)
+* __Code source :__ [lien](../../src/punbb/standard.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > standard }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/standard)
 

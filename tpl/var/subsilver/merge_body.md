@@ -1,7 +1,8 @@
 # Template merge_body
 
 * __Version :__ [phpBB2](.)
-* __Code :__ [lien](../../src/subsilver/merge_body.tpl)
+* __Code source :__ [lien](../../src/subsilver/merge_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > merge_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/merge_body)
 

@@ -1,7 +1,8 @@
 # Template agreement
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/agreement.tpl)
+* __Code source :__ [lien](../../src/punbb/agreement.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > agreement }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/agreement)
 

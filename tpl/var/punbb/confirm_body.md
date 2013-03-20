@@ -1,7 +1,8 @@
 # Template confirm_body
 
 * __Version :__ [PunBB](.)
-* __Code :__ [lien](../../src/punbb/confirm_body.tpl)
+* __Code source :__ [lien](../../src/punbb/confirm_body.tpl)
+* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > confirm_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/confirm_body)
 
