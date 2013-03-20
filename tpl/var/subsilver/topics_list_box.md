@@ -2,14 +2,15 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/topics_list_box.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > topics_list_box }}
+* __Avancement :__ 2/54
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > topics_list_box }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/topics_list_box)
 
 ## Variables
 
-* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BACK_TO_TOP">*</a> :__ ligne [`89`](../../src/subsilver/topics_list_box.tpl#L89)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ lignes [`35`](../../src/subsilver/topics_list_box.tpl#L35), [`88`](../../src/subsilver/topics_list_box.tpl#L88)
+* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`89`](../../src/subsilver/topics_list_box.tpl#L89)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`35`](../../src/subsilver/topics_list_box.tpl#L35), [`88`](../../src/subsilver/topics_list_box.tpl#L88)
 * __[`<!-- BEGIN topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme)<a href="https://fa-tvars.appspot.com/var/topics_list_box">*</a> :__ ligne [`1`](../../src/subsilver/topics_list_box.tpl#L1)
     * __[`{topics_list_box.FIELDNAME}`](https://github.com/Etana/template/blob/master/var/topics_list_box.FIELDNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/topics_list_box.FIELDNAME">*</a> :__ lignes [`6`](../../src/subsilver/topics_list_box.tpl#L6), [`14`](../../src/subsilver/topics_list_box.tpl#L14), [`48`](../../src/subsilver/topics_list_box.tpl#L48), [`76`](../../src/subsilver/topics_list_box.tpl#L76)
     * __[`{topics_list_box.FORMNAME}`](https://github.com/Etana/template/blob/master/var/topics_list_box.FORMNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/topics_list_box.FORMNAME">*</a> :__ lignes [`5`](../../src/subsilver/topics_list_box.tpl#L5), [`6`](../../src/subsilver/topics_list_box.tpl#L6), [`7`](../../src/subsilver/topics_list_box.tpl#L7), [`10`](../../src/subsilver/topics_list_box.tpl#L10), [`13`](../../src/subsilver/topics_list_box.tpl#L13), [`14`](../../src/subsilver/topics_list_box.tpl#L14), [`15`](../../src/subsilver/topics_list_box.tpl#L15), [`15`](../../src/subsilver/topics_list_box.tpl#L15)

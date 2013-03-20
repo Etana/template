@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/modcp_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_body }}
+* __Avancement :__ 10/36
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/modcp_body)
 
@@ -26,8 +27,8 @@
 * __[`{L_UNLOCK}`](https://github.com/Etana/template/blob/master/var/L_UNLOCK.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UNLOCK">*</a> :__ ligne [`36`](../../src/subsilver/modcp_body.tpl#L36)
 * __[`{L_USELECT_ALL}`](https://github.com/Etana/template/blob/master/var/L_USELECT_ALL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_USELECT_ALL">*</a> :__ ligne [`48`](../../src/subsilver/modcp_body.tpl#L48)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`4`](../../src/subsilver/modcp_body.tpl#L4)
-* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGE_NUMBER">*</a> :__ ligne [`45`](../../src/subsilver/modcp_body.tpl#L45)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ ligne [`50`](../../src/subsilver/modcp_body.tpl#L50)
+* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme) :__ ligne [`45`](../../src/subsilver/modcp_body.tpl#L45)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`50`](../../src/subsilver/modcp_body.tpl#L50)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`33`](../../src/subsilver/modcp_body.tpl#L33)
 * __[`{S_MODCP_ACTION}`](https://github.com/Etana/template/blob/master/var/S_MODCP_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_MODCP_ACTION">*</a> :__ ligne [`1`](../../src/subsilver/modcp_body.tpl#L1)
 * __[`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`51`](../../src/subsilver/modcp_body.tpl#L51)

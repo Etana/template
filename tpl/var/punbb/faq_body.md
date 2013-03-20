@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/faq_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > faq_body }}
+* __Avancement :__ 10/26
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > faq_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/faq_body)
 
@@ -10,7 +11,7 @@
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../../src/punbb/faq_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../../src/punbb/faq_body.tpl#L7)
-* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BACK_TO_TOP">*</a> :__ ligne [`43`](../../src/punbb/faq_body.tpl#L43)
+* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`43`](../../src/punbb/faq_body.tpl#L43)
 * __[`{L_BACK_TO_TOP_TEXT}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP_TEXT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BACK_TO_TOP_TEXT">*</a> :__ ligne [`43`](../../src/punbb/faq_body.tpl#L43)
 * __[`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme) :__ ligne [`17`](../../src/punbb/faq_body.tpl#L17)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`17`](../../src/punbb/faq_body.tpl#L17)

@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_edit_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_edit_body }}
+* __Avancement :__ 11/30
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_edit_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_edit_body)
 
@@ -24,7 +25,7 @@
 * __[`{L_RESET}`](https://github.com/Etana/template/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ ligne [`75`](../../src/punbb/album_edit_body.tpl#L75)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`5`](../../src/punbb/album_edit_body.tpl#L5)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`6`](../../src/punbb/album_edit_body.tpl#L6)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`76`](../../src/punbb/album_edit_body.tpl#L76)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`76`](../../src/punbb/album_edit_body.tpl#L76)
 * __[`{L_UPLOAD_NO_TITLE}`](https://github.com/Etana/template/blob/master/var/L_UPLOAD_NO_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_NO_TITLE">*</a> :__ ligne [`27`](../../src/punbb/album_edit_body.tpl#L27)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`17`](../../src/punbb/album_edit_body.tpl#L17)
 * __[`{PIC_DESC}`](https://github.com/Etana/template/blob/master/var/PIC_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/PIC_DESC">*</a> :__ ligne [`61`](../../src/punbb/album_edit_body.tpl#L61)

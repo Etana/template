@@ -2,14 +2,15 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/privmsg_topic_review.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsg_topic_review }}
+* __Avancement :__ 2/15
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsg_topic_review }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsg_topic_review)
 
 ## Variables
 
 * __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/ICON_TIME">*</a> :__ ligne [`20`](../../src/subsilver/privmsg_topic_review.tpl#L20)
-* __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AUTHOR">*</a> :__ ligne [`11`](../../src/subsilver/privmsg_topic_review.tpl#L11)
+* __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`11`](../../src/subsilver/privmsg_topic_review.tpl#L11)
 * __[`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme) :__ ligne [`12`](../../src/subsilver/privmsg_topic_review.tpl#L12)
 * __[`{L_POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_POST_SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POST_SUBJECT">*</a> :__ ligne [`20`](../../src/subsilver/privmsg_topic_review.tpl#L20)
 * __[`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW">*</a> :__ ligne [`4`](../../src/subsilver/privmsg_topic_review.tpl#L4)

@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_most_active_starters.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_most_active_starters }}
+* __Avancement :__ 1/6
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_most_active_starters }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_most_active_starters)
 

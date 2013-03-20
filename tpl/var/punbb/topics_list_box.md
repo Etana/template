@@ -2,16 +2,17 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/topics_list_box.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > topics_list_box }}
+* __Avancement :__ 5/58
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > topics_list_box }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/topics_list_box)
 
 ## Variables
 
-* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BACK_TO_TOP">*</a> :__ ligne [`116`](../../src/punbb/topics_list_box.tpl#L116)
-* __[`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MARK_TOPICS_READ">*</a> :__ ligne [`116`](../../src/punbb/topics_list_box.tpl#L116)
+* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`116`](../../src/punbb/topics_list_box.tpl#L116)
+* __[`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme) :__ ligne [`116`](../../src/punbb/topics_list_box.tpl#L116)
 * __[`{L_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_TOPICS.md#readme) :__ lignes [`35`](../../src/punbb/topics_list_box.tpl#L35), [`64`](../../src/punbb/topics_list_box.tpl#L64), [`114`](../../src/punbb/topics_list_box.tpl#L114)
-* __[`{S_WATCH_FORUM}`](https://github.com/Etana/template/blob/master/var/S_WATCH_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/S_WATCH_FORUM">*</a> :__ ligne [`116`](../../src/punbb/topics_list_box.tpl#L116)
+* __[`{S_WATCH_FORUM}`](https://github.com/Etana/template/blob/master/var/S_WATCH_FORUM.md#readme) :__ ligne [`116`](../../src/punbb/topics_list_box.tpl#L116)
 * __[`{U_MARK_READ}`](https://github.com/Etana/template/blob/master/var/U_MARK_READ.md#readme) :__ ligne [`116`](../../src/punbb/topics_list_box.tpl#L116)
 * __[`<!-- BEGIN topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme)<a href="https://fa-tvars.appspot.com/var/topics_list_box">*</a> :__ ligne [`1`](../../src/punbb/topics_list_box.tpl#L1)
     * __[`{topics_list_box.FIELDNAME}`](https://github.com/Etana/template/blob/master/var/topics_list_box.FIELDNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/topics_list_box.FIELDNAME">*</a> :__ lignes [`9`](../../src/punbb/topics_list_box.tpl#L9), [`17`](../../src/punbb/topics_list_box.tpl#L17), [`78`](../../src/punbb/topics_list_box.tpl#L78), [`96`](../../src/punbb/topics_list_box.tpl#L96)

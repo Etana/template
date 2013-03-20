@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/report_popup_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_popup_body }}
+* __Avancement :__ 2/3
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_popup_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/report_popup_body)
 

@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/privmsgs_read_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_read_body }}
+* __Avancement :__ 13/55
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_read_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/privmsgs_read_body)
 
@@ -23,7 +24,7 @@
 * __[`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme) :__ ligne [`32`](../../src/punbb/privmsgs_read_body.tpl#L32)
 * __[`{L_MOVE_PROFILE}`](https://github.com/Etana/template/blob/master/var/L_MOVE_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE_PROFILE">*</a> :__ ligne [`93`](../../src/punbb/privmsgs_read_body.tpl#L93)
 * __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../../src/punbb/privmsgs_read_body.tpl#L12)
-* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PM">*</a> :__ ligne [`18`](../../src/punbb/privmsgs_read_body.tpl#L18)
+* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme) :__ ligne [`18`](../../src/punbb/privmsgs_read_body.tpl#L18)
 * __[`{L_SAVE_MSG}`](https://github.com/Etana/template/blob/master/var/L_SAVE_MSG.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SAVE_MSG">*</a> :__ ligne [`90`](../../src/punbb/privmsgs_read_body.tpl#L90)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/privmsgs_read_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/privmsgs_read_body.tpl#L5)

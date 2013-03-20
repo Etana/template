@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_moderate_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_moderate_body }}
+* __Avancement :__ 7/53
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_moderate_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_moderate_body)
 
@@ -20,11 +21,11 @@
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`58`](../../src/subsilver/album_moderate_body.tpl#L58)
 * __[`{L_LOCK}`](https://github.com/Etana/template/blob/master/var/L_LOCK.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOCK">*</a> :__ ligne [`100`](../../src/subsilver/album_moderate_body.tpl#L100)
 * __[`{L_MODCP}`](https://github.com/Etana/template/blob/master/var/L_MODCP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MODCP">*</a> :__ ligne [`66`](../../src/subsilver/album_moderate_body.tpl#L66)
-* __[`{L_ORDER}`](https://github.com/Etana/template/blob/master/var/L_ORDER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ORDER">*</a> :__ ligne [`114`](../../src/subsilver/album_moderate_body.tpl#L114)
+* __[`{L_ORDER}`](https://github.com/Etana/template/blob/master/var/L_ORDER.md#readme) :__ ligne [`114`](../../src/subsilver/album_moderate_body.tpl#L114)
 * __[`{L_PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/L_PIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PIC_TITLE">*</a> :__ lignes [`68`](../../src/subsilver/album_moderate_body.tpl#L68), [`109`](../../src/subsilver/album_moderate_body.tpl#L109)
 * __[`{L_POSTER}`](https://github.com/Etana/template/blob/master/var/L_POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTER">*</a> :__ ligne [`69`](../../src/subsilver/album_moderate_body.tpl#L69)
 * __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`74`](../../src/subsilver/album_moderate_body.tpl#L74)
-* __[`{L_SELECT_SORT_METHOD}`](https://github.com/Etana/template/blob/master/var/L_SELECT_SORT_METHOD.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT_SORT_METHOD">*</a> :__ ligne [`106`](../../src/subsilver/album_moderate_body.tpl#L106)
+* __[`{L_SELECT_SORT_METHOD}`](https://github.com/Etana/template/blob/master/var/L_SELECT_SORT_METHOD.md#readme) :__ ligne [`106`](../../src/subsilver/album_moderate_body.tpl#L106)
 * __[`{L_SORT}`](https://github.com/Etana/template/blob/master/var/L_SORT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SORT">*</a> :__ ligne [`119`](../../src/subsilver/album_moderate_body.tpl#L119)
 * __[`{L_STATUS}`](https://github.com/Etana/template/blob/master/var/L_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_STATUS">*</a> :__ ligne [`72`](../../src/subsilver/album_moderate_body.tpl#L72)
 * __[`{L_TIME}`](https://github.com/Etana/template/blob/master/var/L_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TIME">*</a> :__ lignes [`70`](../../src/subsilver/album_moderate_body.tpl#L70), [`108`](../../src/subsilver/album_moderate_body.tpl#L108)
@@ -34,8 +35,8 @@
 * __[`{L_VIEW}`](https://github.com/Etana/template/blob/master/var/L_VIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEW">*</a> :__ ligne [`112`](../../src/subsilver/album_moderate_body.tpl#L112)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`59`](../../src/subsilver/album_moderate_body.tpl#L59)
 * __[`{NAV_SEP}`](https://github.com/Etana/template/blob/master/var/NAV_SEP.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_SEP">*</a> :__ ligne [`58`](../../src/subsilver/album_moderate_body.tpl#L58)
-* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGE_NUMBER">*</a> :__ ligne [`128`](../../src/subsilver/album_moderate_body.tpl#L128)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ ligne [`131`](../../src/subsilver/album_moderate_body.tpl#L131)
+* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme) :__ ligne [`128`](../../src/subsilver/album_moderate_body.tpl#L128)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`131`](../../src/subsilver/album_moderate_body.tpl#L131)
 * __[`{SORT_APPROVAL_OPTION}`](https://github.com/Etana/template/blob/master/var/SORT_APPROVAL_OPTION.md#readme)<a href="https://fa-tvars.appspot.com/var/SORT_APPROVAL_OPTION">*</a> :__ ligne [`111`](../../src/subsilver/album_moderate_body.tpl#L111)
 * __[`{SORT_ASC}`](https://github.com/Etana/template/blob/master/var/SORT_ASC.md#readme)<a href="https://fa-tvars.appspot.com/var/SORT_ASC">*</a> :__ ligne [`116`](../../src/subsilver/album_moderate_body.tpl#L116)
 * __[`{SORT_DESC}`](https://github.com/Etana/template/blob/master/var/SORT_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/SORT_DESC">*</a> :__ ligne [`117`](../../src/subsilver/album_moderate_body.tpl#L117)

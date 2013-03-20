@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_search.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_search }}
+* __Avancement :__ 1/8
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_search }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_search)
 

@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_login.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_login }}
+* __Avancement :__ 7/21
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_login }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_login)
 
@@ -15,7 +16,7 @@
 * __[`{L_MESSAGES}`](https://github.com/Etana/template/blob/master/var/L_MESSAGES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MESSAGES">*</a> :__ ligne [`85`](../../src/subsilver/mod_login.tpl#L85)
 * __[`{L_MY_PROFILE}`](https://github.com/Etana/template/blob/master/var/L_MY_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MY_PROFILE">*</a> :__ ligne [`87`](../../src/subsilver/mod_login.tpl#L87)
 * __[`{L_PASSWORD}`](https://github.com/Etana/template/blob/master/var/L_PASSWORD.md#readme) :__ lignes [`17`](../../src/subsilver/mod_login.tpl#L17), [`53`](../../src/subsilver/mod_login.tpl#L53)
-* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PM">*</a> :__ ligne [`86`](../../src/subsilver/mod_login.tpl#L86)
+* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme) :__ ligne [`86`](../../src/subsilver/mod_login.tpl#L86)
 * __[`{L_SEND_PASSWORD}`](https://github.com/Etana/template/blob/master/var/L_SEND_PASSWORD.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEND_PASSWORD">*</a> :__ lignes [`28`](../../src/subsilver/mod_login.tpl#L28), [`62`](../../src/subsilver/mod_login.tpl#L62)
 * __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ lignes [`13`](../../src/subsilver/mod_login.tpl#L13), [`50`](../../src/subsilver/mod_login.tpl#L50)
 * __[`{NB_MESSAGES}`](https://github.com/Etana/template/blob/master/var/NB_MESSAGES.md#readme)<a href="https://fa-tvars.appspot.com/var/NB_MESSAGES">*</a> :__ ligne [`85`](../../src/subsilver/mod_login.tpl#L85)

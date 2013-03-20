@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_nuffimage_box.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_nuffimage_box }}
+* __Avancement :__ 1/47
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_nuffimage_box }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_nuffimage_box)
 
@@ -37,7 +38,7 @@
 * __[`{L_NUFF_SEPIA}`](https://github.com/Etana/template/blob/master/var/L_NUFF_SEPIA.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NUFF_SEPIA">*</a> :__ ligne [`58`](../../src/punbb/album_nuffimage_box.tpl#L58)
 * __[`{L_NUFF_TITLE}`](https://github.com/Etana/template/blob/master/var/L_NUFF_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NUFF_TITLE">*</a> :__ ligne [`4`](../../src/punbb/album_nuffimage_box.tpl#L4)
 * __[`{L_SAVE}`](https://github.com/Etana/template/blob/master/var/L_SAVE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SAVE">*</a> :__ ligne [`105`](../../src/punbb/album_nuffimage_box.tpl#L105)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`103`](../../src/punbb/album_nuffimage_box.tpl#L103)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`103`](../../src/punbb/album_nuffimage_box.tpl#L103)
 * __[`{NUFF_BW_CHECKED}`](https://github.com/Etana/template/blob/master/var/NUFF_BW_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/NUFF_BW_CHECKED">*</a> :__ ligne [`53`](../../src/punbb/album_nuffimage_box.tpl#L53)
 * __[`{NUFF_INFRARED_CHECKED}`](https://github.com/Etana/template/blob/master/var/NUFF_INFRARED_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/NUFF_INFRARED_CHECKED">*</a> :__ ligne [`64`](../../src/punbb/album_nuffimage_box.tpl#L64)
 * __[`{NUFF_INTERLACE_CHECKED}`](https://github.com/Etana/template/blob/master/var/NUFF_INTERLACE_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/NUFF_INTERLACE_CHECKED">*</a> :__ ligne [`37`](../../src/punbb/album_nuffimage_box.tpl#L37)

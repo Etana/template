@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/profile_send_email.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_email }}
+* __Avancement :__ 6/20
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_email }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_send_email)
 

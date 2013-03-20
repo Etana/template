@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/profile_send_pass.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_pass }}
+* __Avancement :__ 5/12
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_pass }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_send_pass)
 
@@ -14,7 +15,7 @@
 * __[`{L_ITEMS_REQUIRED}`](https://github.com/Etana/template/blob/master/var/L_ITEMS_REQUIRED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ITEMS_REQUIRED">*</a> :__ ligne [`12`](../../src/subsilver/profile_send_pass.tpl#L12)
 * __[`{L_RESET}`](https://github.com/Etana/template/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ ligne [`25`](../../src/subsilver/profile_send_pass.tpl#L25)
 * __[`{L_SEND_PASSWORD}`](https://github.com/Etana/template/blob/master/var/L_SEND_PASSWORD.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEND_PASSWORD">*</a> :__ ligne [`9`](../../src/subsilver/profile_send_pass.tpl#L9)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`25`](../../src/subsilver/profile_send_pass.tpl#L25)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`25`](../../src/subsilver/profile_send_pass.tpl#L25)
 * __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ ligne [`15`](../../src/subsilver/profile_send_pass.tpl#L15)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`24`](../../src/subsilver/profile_send_pass.tpl#L24)
 * __[`{S_PROFILE_ACTION}`](https://github.com/Etana/template/blob/master/var/S_PROFILE_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_PROFILE_ACTION">*</a> :__ ligne [`1`](../../src/subsilver/profile_send_pass.tpl#L1)

@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_cat_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_cat_body }}
+* __Avancement :__ 12/102
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_cat_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_cat_body)
 
@@ -23,17 +24,17 @@
 * __[`{L_MODERATORS}`](https://github.com/Etana/template/blob/master/var/L_MODERATORS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MODERATORS">*</a> :__ ligne [`181`](../../src/punbb/album_cat_body.tpl#L181)
 * __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../../src/punbb/album_cat_body.tpl#L12)
 * __[`{L_NO_PICS}`](https://github.com/Etana/template/blob/master/var/L_NO_PICS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO_PICS">*</a> :__ ligne [`69`](../../src/punbb/album_cat_body.tpl#L69)
-* __[`{L_ORDER}`](https://github.com/Etana/template/blob/master/var/L_ORDER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ORDER">*</a> :__ ligne [`106`](../../src/punbb/album_cat_body.tpl#L106)
+* __[`{L_ORDER}`](https://github.com/Etana/template/blob/master/var/L_ORDER.md#readme) :__ ligne [`106`](../../src/punbb/album_cat_body.tpl#L106)
 * __[`{L_PIC_LOCKED}`](https://github.com/Etana/template/blob/master/var/L_PIC_LOCKED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PIC_LOCKED">*</a> :__ ligne [`79`](../../src/punbb/album_cat_body.tpl#L79)
 * __[`{L_PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/L_PIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PIC_TITLE">*</a> :__ ligne [`99`](../../src/punbb/album_cat_body.tpl#L99)
 * __[`{L_POSTEDTIME}`](https://github.com/Etana/template/blob/master/var/L_POSTEDTIME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTEDTIME">*</a> :__ ligne [`95`](../../src/punbb/album_cat_body.tpl#L95)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/album_cat_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/album_cat_body.tpl#L5)
-* __[`{L_SELECT_SORT_METHOD}`](https://github.com/Etana/template/blob/master/var/L_SELECT_SORT_METHOD.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT_SORT_METHOD">*</a> :__ ligne [`93`](../../src/punbb/album_cat_body.tpl#L93)
+* __[`{L_SELECT_SORT_METHOD}`](https://github.com/Etana/template/blob/master/var/L_SELECT_SORT_METHOD.md#readme) :__ ligne [`93`](../../src/punbb/album_cat_body.tpl#L93)
 * __[`{L_SORT}`](https://github.com/Etana/template/blob/master/var/L_SORT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SORT">*</a> :__ ligne [`112`](../../src/punbb/album_cat_body.tpl#L112)
 * __[`{L_TIME_DEL}`](https://github.com/Etana/template/blob/master/var/L_TIME_DEL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TIME_DEL">*</a> :__ ligne [`97`](../../src/punbb/album_cat_body.tpl#L97)
 * __[`{L_VIEW}`](https://github.com/Etana/template/blob/master/var/L_VIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEW">*</a> :__ ligne [`101`](../../src/punbb/album_cat_body.tpl#L101)
-* __[`{MODERATORS}`](https://github.com/Etana/template/blob/master/var/MODERATORS.md#readme)<a href="https://fa-tvars.appspot.com/var/MODERATORS">*</a> :__ ligne [`181`](../../src/punbb/album_cat_body.tpl#L181)
+* __[`{MODERATORS}`](https://github.com/Etana/template/blob/master/var/MODERATORS.md#readme) :__ ligne [`181`](../../src/punbb/album_cat_body.tpl#L181)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`143`](../../src/punbb/album_cat_body.tpl#L143)
 * __[`{NAV_SEP}`](https://github.com/Etana/template/blob/master/var/NAV_SEP.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_SEP">*</a> :__ ligne [`143`](../../src/punbb/album_cat_body.tpl#L143)
 * __[`{SORT_ASC}`](https://github.com/Etana/template/blob/master/var/SORT_ASC.md#readme)<a href="https://fa-tvars.appspot.com/var/SORT_ASC">*</a> :__ ligne [`108`](../../src/punbb/album_cat_body.tpl#L108)

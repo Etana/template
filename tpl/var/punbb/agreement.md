@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/agreement.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > agreement }}
+* __Avancement :__ 15/20
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > agreement }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/agreement)
 

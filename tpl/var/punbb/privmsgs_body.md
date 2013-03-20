@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/privmsgs_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_body }}
+* __Avancement :__ 16/53
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/privmsgs_body)
 
@@ -24,7 +25,7 @@
 * __[`{L_MOVE_PROFILE_MARKED}`](https://github.com/Etana/template/blob/master/var/L_MOVE_PROFILE_MARKED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE_PROFILE_MARKED">*</a> :__ ligne [`92`](../../src/punbb/privmsgs_body.tpl#L92)
 * __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../../src/punbb/privmsgs_body.tpl#L12)
 * __[`{L_NO_MESSAGES}`](https://github.com/Etana/template/blob/master/var/L_NO_MESSAGES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO_MESSAGES">*</a> :__ ligne [`72`](../../src/punbb/privmsgs_body.tpl#L72)
-* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PM">*</a> :__ ligne [`18`](../../src/punbb/privmsgs_body.tpl#L18)
+* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme) :__ ligne [`18`](../../src/punbb/privmsgs_body.tpl#L18)
 * __[`{L_SAVE_MARKED}`](https://github.com/Etana/template/blob/master/var/L_SAVE_MARKED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SAVE_MARKED">*</a> :__ ligne [`89`](../../src/punbb/privmsgs_body.tpl#L89)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/privmsgs_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/privmsgs_body.tpl#L5)
@@ -33,8 +34,8 @@
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`18`](../../src/punbb/privmsgs_body.tpl#L18)
 * __[`{OUTBOX}`](https://github.com/Etana/template/blob/master/var/OUTBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/OUTBOX">*</a> :__ ligne [`25`](../../src/punbb/privmsgs_body.tpl#L25)
 * __[`{OUTBOX_IMG}`](https://github.com/Etana/template/blob/master/var/OUTBOX_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/OUTBOX_IMG">*</a> :__ ligne [`25`](../../src/punbb/privmsgs_body.tpl#L25)
-* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGE_NUMBER">*</a> :__ lignes [`37`](../../src/punbb/privmsgs_body.tpl#L37), [`81`](../../src/punbb/privmsgs_body.tpl#L81)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ lignes [`37`](../../src/punbb/privmsgs_body.tpl#L37), [`81`](../../src/punbb/privmsgs_body.tpl#L81)
+* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme) :__ lignes [`37`](../../src/punbb/privmsgs_body.tpl#L37), [`81`](../../src/punbb/privmsgs_body.tpl#L81)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`37`](../../src/punbb/privmsgs_body.tpl#L37), [`81`](../../src/punbb/privmsgs_body.tpl#L81)
 * __[`{POST_PM_IMG}`](https://github.com/Etana/template/blob/master/var/POST_PM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/POST_PM_IMG">*</a> :__ lignes [`33`](../../src/punbb/privmsgs_body.tpl#L33), [`97`](../../src/punbb/privmsgs_body.tpl#L97)
 * __[`{SAVEBOX}`](https://github.com/Etana/template/blob/master/var/SAVEBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/SAVEBOX">*</a> :__ ligne [`26`](../../src/punbb/privmsgs_body.tpl#L26)
 * __[`{SAVEBOX_IMG}`](https://github.com/Etana/template/blob/master/var/SAVEBOX_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/SAVEBOX_IMG">*</a> :__ ligne [`26`](../../src/punbb/privmsgs_body.tpl#L26)

@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/greeting_popup.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > greeting_popup }}
+* __Avancement :__ 4/4
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > greeting_popup }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/greeting_popup)
 `Pop up d'anniversaire`.

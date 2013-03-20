@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_poll.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_poll }}
+* __Avancement :__ 0/2
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_poll }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_poll)
 

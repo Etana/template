@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_poll_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_poll_body }}
+* __Avancement :__ 4/39
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_poll_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_poll_body)
 
@@ -36,8 +37,8 @@
 * __[`{POLL_OPTIONS}`](https://github.com/Etana/template/blob/master/var/POLL_OPTIONS.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_OPTIONS">*</a> :__ ligne [`26`](../../src/subsilver/posting_poll_body.tpl#L26)
 * __[`{POLL_OPTION_NUMBER}`](https://github.com/Etana/template/blob/master/var/POLL_OPTION_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_OPTION_NUMBER">*</a> :__ ligne [`26`](../../src/subsilver/posting_poll_body.tpl#L26)
 * __[`{POLL_TITLE}`](https://github.com/Etana/template/blob/master/var/POLL_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_TITLE">*</a> :__ ligne [`21`](../../src/subsilver/posting_poll_body.tpl#L21)
-* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_LESS_IMG">*</a> :__ ligne [`14`](../../src/subsilver/posting_poll_body.tpl#L14)
-* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_MORE_IMG">*</a> :__ ligne [`5`](../../src/subsilver/posting_poll_body.tpl#L5)
+* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme) :__ ligne [`14`](../../src/subsilver/posting_poll_body.tpl#L14)
+* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme) :__ ligne [`5`](../../src/subsilver/posting_poll_body.tpl#L5)
 * __[`<!-- BEGIN poll_option_more -->`](https://github.com/Etana/template/blob/master/var/poll_option_more.md#readme)<a href="https://fa-tvars.appspot.com/var/poll_option_more">*</a> :__ ligne [`41`](../../src/subsilver/posting_poll_body.tpl#L41)
 * __[`<!-- END poll_option_more -->`](https://github.com/Etana/template/blob/master/var/poll_option_more.md#readme) :__ ligne [`46`](../../src/subsilver/posting_poll_body.tpl#L46)
 * __[`<!-- BEGIN poll_option_new -->`](https://github.com/Etana/template/blob/master/var/poll_option_new.md#readme)<a href="https://fa-tvars.appspot.com/var/poll_option_new">*</a> :__ ligne [`35`](../../src/subsilver/posting_poll_body.tpl#L35)

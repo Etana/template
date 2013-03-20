@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_statistics.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_statistics }}
+* __Avancement :__ 3/5
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_statistics }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_statistics)
 

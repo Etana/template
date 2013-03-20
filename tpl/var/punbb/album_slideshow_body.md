@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_slideshow_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_slideshow_body }}
+* __Avancement :__ 0/14
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_slideshow_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_slideshow_body)
 

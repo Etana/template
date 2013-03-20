@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/profile_send_pass.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_pass }}
+* __Avancement :__ 11/22
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_pass }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_send_pass)
 
@@ -20,7 +21,7 @@
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/profile_send_pass.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/profile_send_pass.tpl#L5)
 * __[`{L_SEND_PASSWORD}`](https://github.com/Etana/template/blob/master/var/L_SEND_PASSWORD.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEND_PASSWORD">*</a> :__ lignes [`17`](../../src/punbb/profile_send_pass.tpl#L17), [`22`](../../src/punbb/profile_send_pass.tpl#L22)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`43`](../../src/punbb/profile_send_pass.tpl#L43)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`43`](../../src/punbb/profile_send_pass.tpl#L43)
 * __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ ligne [`31`](../../src/punbb/profile_send_pass.tpl#L31)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`42`](../../src/punbb/profile_send_pass.tpl#L42)
 * __[`{S_PROFILE_ACTION}`](https://github.com/Etana/template/blob/master/var/S_PROFILE_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_PROFILE_ACTION">*</a> :__ ligne [`25`](../../src/punbb/profile_send_pass.tpl#L25)

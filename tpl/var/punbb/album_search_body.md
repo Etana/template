@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_search_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_search_body }}
+* __Avancement :__ 12/37
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_search_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_search_body)
 
@@ -24,8 +25,8 @@
 * __[`{L_TSUBMITER}`](https://github.com/Etana/template/blob/master/var/L_TSUBMITER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TSUBMITER">*</a> :__ ligne [`34`](../../src/punbb/album_search_body.tpl#L34)
 * __[`{L_TTITLE}`](https://github.com/Etana/template/blob/master/var/L_TTITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TTITLE">*</a> :__ ligne [`31`](../../src/punbb/album_search_body.tpl#L31)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`16`](../../src/punbb/album_search_body.tpl#L16)
-* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGE_NUMBER">*</a> :__ lignes [`23`](../../src/punbb/album_search_body.tpl#L23), [`55`](../../src/punbb/album_search_body.tpl#L55)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ lignes [`22`](../../src/punbb/album_search_body.tpl#L22), [`54`](../../src/punbb/album_search_body.tpl#L54)
+* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme) :__ lignes [`23`](../../src/punbb/album_search_body.tpl#L23), [`55`](../../src/punbb/album_search_body.tpl#L55)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`22`](../../src/punbb/album_search_body.tpl#L22), [`54`](../../src/punbb/album_search_body.tpl#L54)
 * __[`{THUMB_SIZE}`](https://github.com/Etana/template/blob/master/var/THUMB_SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/THUMB_SIZE">*</a> :__ ligne [`41`](../../src/punbb/album_search_body.tpl#L41)
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`16`](../../src/punbb/album_search_body.tpl#L16)
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/album_search_body.tpl#L4)

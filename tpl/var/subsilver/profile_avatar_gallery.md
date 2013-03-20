@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/profile_avatar_gallery.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_avatar_gallery }}
+* __Avancement :__ 4/17
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_avatar_gallery }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_avatar_gallery)
 

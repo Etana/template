@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/jumpbox.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > jumpbox }}
+* __Avancement :__ 4/4
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > jumpbox }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/jumpbox)
 `Sauter vers un forum`.

@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/search_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > search_body }}
+* __Avancement :__ 28/39
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > search_body }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/search_body)
 `Page de recherche`.
@@ -41,8 +42,8 @@ Ce template affiche la page de recherche de votre forum : `/search`
 * __[`{S_SORT_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_SORT_OPTIONS.md#readme) :__ ligne [`65`](../../src/subsilver/search_body.tpl#L65)
 * __[`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`96`](../../src/subsilver/search_body.tpl#L96)
 * __[`{S_TIME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_TIME_OPTIONS.md#readme) :__ ligne [`50`](../../src/subsilver/search_body.tpl#L50)
-* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_LESS_IMG">*</a> :__ ligne [`40`](../../src/subsilver/search_body.tpl#L40)
-* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_MORE_IMG">*</a> :__ ligne [`78`](../../src/subsilver/search_body.tpl#L78)
+* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme) :__ ligne [`40`](../../src/subsilver/search_body.tpl#L40)
+* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme) :__ ligne [`78`](../../src/subsilver/search_body.tpl#L78)
 * __[`{T_ACTIVE_LINK}`](https://github.com/Etana/template/blob/master/var/T_ACTIVE_LINK.md#readme)<a href="https://fa-tvars.appspot.com/var/T_ACTIVE_LINK">*</a> :__ ligne [`20`](../../src/subsilver/search_body.tpl#L20)
 * __[`{T_GOO_LINK}`](https://github.com/Etana/template/blob/master/var/T_GOO_LINK.md#readme)<a href="https://fa-tvars.appspot.com/var/T_GOO_LINK">*</a> :__ lignes [`20`](../../src/subsilver/search_body.tpl#L20), [`20`](../../src/subsilver/search_body.tpl#L20), [`20`](../../src/subsilver/search_body.tpl#L20), [`20`](../../src/subsilver/search_body.tpl#L20)
 * __[`{T_GOO_TEXT}`](https://github.com/Etana/template/blob/master/var/T_GOO_TEXT.md#readme)<a href="https://fa-tvars.appspot.com/var/T_GOO_TEXT">*</a> :__ ligne [`20`](../../src/subsilver/search_body.tpl#L20)

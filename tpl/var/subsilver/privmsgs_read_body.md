@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/privmsgs_read_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_read_body }}
+* __Avancement :__ 5/50
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_read_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsgs_read_body)
 

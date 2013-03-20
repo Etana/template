@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/calendar_scheduler_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_scheduler_body }}
+* __Avancement :__ 12/32
+* __Chemin :__ {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_scheduler_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/calendar_scheduler_body)
 
@@ -21,7 +22,7 @@
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/calendar_scheduler_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/calendar_scheduler_body.tpl#L5)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`16`](../../src/punbb/calendar_scheduler_body.tpl#L16)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ lignes [`21`](../../src/punbb/calendar_scheduler_body.tpl#L21), [`64`](../../src/punbb/calendar_scheduler_body.tpl#L64)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`21`](../../src/punbb/calendar_scheduler_body.tpl#L21), [`64`](../../src/punbb/calendar_scheduler_body.tpl#L64)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`60`](../../src/punbb/calendar_scheduler_body.tpl#L60)
 * __[`{S_MONTH}`](https://github.com/Etana/template/blob/master/var/S_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/S_MONTH">*</a> :__ ligne [`33`](../../src/punbb/calendar_scheduler_body.tpl#L33)
 * __[`{S_YEAR}`](https://github.com/Etana/template/blob/master/var/S_YEAR.md#readme)<a href="https://fa-tvars.appspot.com/var/S_YEAR">*</a> :__ ligne [`33`](../../src/punbb/calendar_scheduler_body.tpl#L33)

@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/calendar_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_body }}
+* __Avancement :__ 9/14
+* __Chemin :__ {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/calendar_body)
 

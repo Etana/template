@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/overall_footer_begin.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > overall_footer_begin }}
+* __Avancement :__ 9/10
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > overall_footer_begin }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/overall_footer_begin)
 
@@ -14,7 +15,7 @@
 * __[`{SPACE_ROW}`](https://github.com/Etana/template/blob/master/var/SPACE_ROW.md#readme) :__ ligne [`20`](../../src/punbb/overall_footer_begin.tpl#L20)
 * __[`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme) :__ ligne [`29`](../../src/punbb/overall_footer_begin.tpl#L29)
 * __[`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme) :__ ligne [`32`](../../src/punbb/overall_footer_begin.tpl#L32)
-* __[`<!-- BEGIN giefmod_index2 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod_index2">*</a> :__ ligne [`17`](../../src/punbb/overall_footer_begin.tpl#L17)
+* __[`<!-- BEGIN giefmod_index2 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.md#readme) :__ ligne [`17`](../../src/punbb/overall_footer_begin.tpl#L17)
     * __[`{giefmod_index2.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod_index2.MODVAR.md#readme) :__ ligne [`18`](../../src/punbb/overall_footer_begin.tpl#L18)
     * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.saut.md#readme) :__ ligne [`19`](../../src/punbb/overall_footer_begin.tpl#L19)
     * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.saut.md#readme) :__ ligne [`21`](../../src/punbb/overall_footer_begin.tpl#L21)

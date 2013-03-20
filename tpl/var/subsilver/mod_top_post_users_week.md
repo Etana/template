@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_top_post_users_week.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_top_post_users_week }}
+* __Avancement :__ 1/6
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_top_post_users_week }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_top_post_users_week)
 

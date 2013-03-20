@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_confirm_code.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_confirm_code }}
+* __Avancement :__ 2/35
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_confirm_code }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_confirm_code)
 
@@ -10,7 +11,7 @@
 
 * __[`{F_TYPE_FORUM}`](https://github.com/Etana/template/blob/master/var/F_TYPE_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/F_TYPE_FORUM">*</a> :__ ligne [`16`](../../src/subsilver/posting_confirm_code.tpl#L16)
 * __[`{L_ERROR_MSG}`](https://github.com/Etana/template/blob/master/var/L_ERROR_MSG.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ERROR_MSG">*</a> :__ ligne [`1`](../../src/subsilver/posting_confirm_code.tpl#L1)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`8`](../../src/subsilver/posting_confirm_code.tpl#L8)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`8`](../../src/subsilver/posting_confirm_code.tpl#L8)
 * __[`{L_VALIDATION}`](https://github.com/Etana/template/blob/master/var/L_VALIDATION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VALIDATION">*</a> :__ ligne [`3`](../../src/subsilver/posting_confirm_code.tpl#L3)
 * __[`{L_VALIDATION_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_VALIDATION_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VALIDATION_EXPLAIN">*</a> :__ ligne [`4`](../../src/subsilver/posting_confirm_code.tpl#L4)
 * __[`{S_ANTI_ROBOT}`](https://github.com/Etana/template/blob/master/var/S_ANTI_ROBOT.md#readme)<a href="https://fa-tvars.appspot.com/var/S_ANTI_ROBOT">*</a> :__ ligne [`5`](../../src/subsilver/posting_confirm_code.tpl#L5)

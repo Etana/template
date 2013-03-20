@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/calendar_box.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_box }}
+* __Avancement :__ 0/44
+* __Chemin :__ {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_box }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/calendar_box)
 

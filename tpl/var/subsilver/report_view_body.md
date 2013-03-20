@@ -2,13 +2,14 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/report_view_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_view_body }}
+* __Avancement :__ 4/36
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_view_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/report_view_body)
 
 ## Variables
 
-* __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AUTHOR">*</a> :__ ligne [`26`](../../src/subsilver/report_view_body.tpl#L26)
+* __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`26`](../../src/subsilver/report_view_body.tpl#L26)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`1`](../../src/subsilver/report_view_body.tpl#L1)
 * __[`{L_LAST_EDIT}`](https://github.com/Etana/template/blob/master/var/L_LAST_EDIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LAST_EDIT">*</a> :__ ligne [`19`](../../src/subsilver/report_view_body.tpl#L19)
 * __[`{L_POST}`](https://github.com/Etana/template/blob/master/var/L_POST.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POST">*</a> :__ ligne [`23`](../../src/subsilver/report_view_body.tpl#L23)

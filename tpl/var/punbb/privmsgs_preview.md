@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/privmsgs_preview.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_preview }}
+* __Avancement :__ 0/5
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_preview }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/privmsgs_preview)
 

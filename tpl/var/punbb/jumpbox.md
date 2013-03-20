@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/jumpbox.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > jumpbox }}
+* __Avancement :__ 4/4
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > jumpbox }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/jumpbox)
 

@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_keywords.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_keywords }}
+* __Avancement :__ 0/5
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_keywords }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_keywords)
 

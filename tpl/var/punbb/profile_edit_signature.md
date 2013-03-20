@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/profile_edit_signature.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_edit_signature }}
+* __Avancement :__ 9/31
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_edit_signature }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_edit_signature)
 
@@ -27,7 +28,7 @@
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/profile_edit_signature.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/profile_edit_signature.tpl#L5)
 * __[`{L_SIGNATURE}`](https://github.com/Etana/template/blob/master/var/L_SIGNATURE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SIGNATURE">*</a> :__ ligne [`37`](../../src/punbb/profile_edit_signature.tpl#L37)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`67`](../../src/punbb/profile_edit_signature.tpl#L67)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`67`](../../src/punbb/profile_edit_signature.tpl#L67)
 * __[`{L_UNDER}`](https://github.com/Etana/template/blob/master/var/L_UNDER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UNDER">*</a> :__ ligne [`49`](../../src/punbb/profile_edit_signature.tpl#L49)
 * __[`{SIGNATURE}`](https://github.com/Etana/template/blob/master/var/SIGNATURE.md#readme)<a href="https://fa-tvars.appspot.com/var/SIGNATURE">*</a> :__ ligne [`54`](../../src/punbb/profile_edit_signature.tpl#L54)
 * __[`{SIGNATURE_EDIT}`](https://github.com/Etana/template/blob/master/var/SIGNATURE_EDIT.md#readme)<a href="https://fa-tvars.appspot.com/var/SIGNATURE_EDIT">*</a> :__ ligne [`34`](../../src/punbb/profile_edit_signature.tpl#L34)

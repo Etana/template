@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/faq_dhtml.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > faq_dhtml }}
+* __Avancement :__ 7/14
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > faq_dhtml }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/faq_dhtml)
 `Faq version dhtml`.

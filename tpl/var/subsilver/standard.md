@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/standard.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > standard }}
+* __Avancement :__ 0/5
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > standard }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/standard)
 

@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/confirm_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > confirm_body }}
+* __Avancement :__ 6/7
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > confirm_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/confirm_body)
 

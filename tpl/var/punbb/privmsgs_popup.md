@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/privmsgs_popup.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_popup }}
+* __Avancement :__ 3/4
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_popup }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/privmsgs_popup)
 

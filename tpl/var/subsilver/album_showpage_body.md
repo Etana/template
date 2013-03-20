@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_showpage_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_showpage_body }}
+* __Avancement :__ 6/90
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_showpage_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_showpage_body)
 
@@ -31,7 +32,7 @@
 * __[`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTED">*</a> :__ ligne [`284`](../../src/subsilver/album_showpage_body.tpl#L284)
 * __[`{L_POSTER}`](https://github.com/Etana/template/blob/master/var/L_POSTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTER">*</a> :__ ligne [`281`](../../src/subsilver/album_showpage_body.tpl#L281)
 * __[`{L_RATING}`](https://github.com/Etana/template/blob/master/var/L_RATING.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RATING">*</a> :__ ligne [`326`](../../src/subsilver/album_showpage_body.tpl#L326)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`335`](../../src/subsilver/album_showpage_body.tpl#L335)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`335`](../../src/subsilver/album_showpage_body.tpl#L335)
 * __[`{L_VIEW}`](https://github.com/Etana/template/blob/master/var/L_VIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEW">*</a> :__ ligne [`287`](../../src/subsilver/album_showpage_body.tpl#L287)
 * __[`{L_VIEW_TIMES}`](https://github.com/Etana/template/blob/master/var/L_VIEW_TIMES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEW_TIMES">*</a> :__ ligne [`287`](../../src/subsilver/album_showpage_body.tpl#L287)
 * __[`{L_YOUR_RATE}`](https://github.com/Etana/template/blob/master/var/L_YOUR_RATE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_YOUR_RATE">*</a> :__ ligne [`328`](../../src/subsilver/album_showpage_body.tpl#L328)
@@ -61,8 +62,8 @@
 * __[`{S_ALBUM_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ALBUM_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_ALBUM_ACTION">*</a> :__ ligne [`324`](../../src/subsilver/album_showpage_body.tpl#L324)
 * __[`{S_MAX_LENGTH}`](https://github.com/Etana/template/blob/master/var/S_MAX_LENGTH.md#readme)<a href="https://fa-tvars.appspot.com/var/S_MAX_LENGTH">*</a> :__ ligne [`103`](../../src/subsilver/album_showpage_body.tpl#L103)
 * __[`{S_RATE_MSG}`](https://github.com/Etana/template/blob/master/var/S_RATE_MSG.md#readme)<a href="https://fa-tvars.appspot.com/var/S_RATE_MSG">*</a> :__ ligne [`330`](../../src/subsilver/album_showpage_body.tpl#L330)
-* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_LESS_IMG">*</a> :__ ligne [`270`](../../src/subsilver/album_showpage_body.tpl#L270)
-* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_MORE_IMG">*</a> :__ ligne [`261`](../../src/subsilver/album_showpage_body.tpl#L261)
+* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme) :__ ligne [`270`](../../src/subsilver/album_showpage_body.tpl#L270)
+* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme) :__ ligne [`261`](../../src/subsilver/album_showpage_body.tpl#L261)
 * __[`{U_ALBUM}`](https://github.com/Etana/template/blob/master/var/U_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/U_ALBUM">*</a> :__ ligne [`220`](../../src/subsilver/album_showpage_body.tpl#L220)
 * __[`{U_ALBUM_SHOWPAGE}`](https://github.com/Etana/template/blob/master/var/U_ALBUM_SHOWPAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/U_ALBUM_SHOWPAGE">*</a> :__ ligne [`208`](../../src/subsilver/album_showpage_body.tpl#L208)
 * __[`{U_FORUM_INDEX}`](https://github.com/Etana/template/blob/master/var/U_FORUM_INDEX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FORUM_INDEX">*</a> :__ ligne [`219`](../../src/subsilver/album_showpage_body.tpl#L219)

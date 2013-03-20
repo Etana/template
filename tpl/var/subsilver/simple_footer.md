@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/simple_footer.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > simple_footer }}
+* __Avancement :__ 0/4
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > simple_footer }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/simple_footer)
 

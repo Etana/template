@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_news.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_news }}
+* __Avancement :__ 0/35
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_news }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_news)
 

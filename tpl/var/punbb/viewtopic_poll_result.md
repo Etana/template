@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/viewtopic_poll_result.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > viewtopic_poll_result }}
+* __Avancement :__ 0/17
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > viewtopic_poll_result }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/viewtopic_poll_result)
 

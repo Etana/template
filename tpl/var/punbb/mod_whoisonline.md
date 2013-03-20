@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_whoisonline.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_whoisonline }}
+* __Avancement :__ 5/7
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_whoisonline }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_whoisonline)
 

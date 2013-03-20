@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/report_view_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_view_body }}
+* __Avancement :__ 12/46
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_view_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/report_view_body)
 
@@ -10,7 +11,7 @@
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../../src/punbb/report_view_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../../src/punbb/report_view_body.tpl#L7)
-* __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AUTHOR">*</a> :__ ligne [`49`](../../src/punbb/report_view_body.tpl#L49)
+* __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`49`](../../src/punbb/report_view_body.tpl#L49)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`18`](../../src/punbb/report_view_body.tpl#L18)
 * __[`{L_LAST_EDIT}`](https://github.com/Etana/template/blob/master/var/L_LAST_EDIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LAST_EDIT">*</a> :__ ligne [`47`](../../src/punbb/report_view_body.tpl#L47)
 * __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../../src/punbb/report_view_body.tpl#L12)

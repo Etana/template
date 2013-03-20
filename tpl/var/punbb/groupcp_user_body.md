@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/groupcp_user_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=group&part=themes&sub=templates > groupcp_user_body }}
+* __Avancement :__ 11/29
+* __Chemin :__ {{/admin/index.forum?mode=group&part=themes&sub=templates > groupcp_user_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/groupcp_user_body)
 

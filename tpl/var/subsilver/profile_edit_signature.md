@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/profile_edit_signature.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_edit_signature }}
+* __Avancement :__ 1/8
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_edit_signature }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_edit_signature)
 

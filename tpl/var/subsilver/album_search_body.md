@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_search_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_search_body }}
+* __Avancement :__ 4/31
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_search_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_search_body)
 
@@ -20,8 +21,8 @@
 * __[`{L_TSUBMITER}`](https://github.com/Etana/template/blob/master/var/L_TSUBMITER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TSUBMITER">*</a> :__ ligne [`25`](../../src/subsilver/album_search_body.tpl#L25)
 * __[`{L_TTITLE}`](https://github.com/Etana/template/blob/master/var/L_TTITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TTITLE">*</a> :__ ligne [`22`](../../src/subsilver/album_search_body.tpl#L22)
 * __[`{NAV_SEP}`](https://github.com/Etana/template/blob/master/var/NAV_SEP.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_SEP">*</a> :__ ligne [`12`](../../src/subsilver/album_search_body.tpl#L12)
-* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGE_NUMBER">*</a> :__ ligne [`49`](../../src/subsilver/album_search_body.tpl#L49)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ ligne [`50`](../../src/subsilver/album_search_body.tpl#L50)
+* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme) :__ ligne [`49`](../../src/subsilver/album_search_body.tpl#L49)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`50`](../../src/subsilver/album_search_body.tpl#L50)
 * __[`{STYLE_CSS}`](https://github.com/Etana/template/blob/master/var/STYLE_CSS.md#readme)<a href="https://fa-tvars.appspot.com/var/STYLE_CSS">*</a> :__ ligne [`1`](../../src/subsilver/album_search_body.tpl#L1)
 * __[`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`50`](../../src/subsilver/album_search_body.tpl#L50)
 * __[`{THUMB_SIZE}`](https://github.com/Etana/template/blob/master/var/THUMB_SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/THUMB_SIZE">*</a> :__ ligne [`33`](../../src/subsilver/album_search_body.tpl#L33)

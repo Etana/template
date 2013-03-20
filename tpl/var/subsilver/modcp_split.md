@@ -2,13 +2,14 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/modcp_split.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_split }}
+* __Avancement :__ 7/29
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_split }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/modcp_split)
 
 ## Variables
 
-* __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AUTHOR">*</a> :__ ligne [`33`](../../src/subsilver/modcp_split.tpl#L33)
+* __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`33`](../../src/subsilver/modcp_split.tpl#L33)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`4`](../../src/subsilver/modcp_split.tpl#L4)
 * __[`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme) :__ ligne [`34`](../../src/subsilver/modcp_split.tpl#L34)
 * __[`{L_POST}`](https://github.com/Etana/template/blob/master/var/L_POST.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POST">*</a> :__ ligne [`43`](../../src/subsilver/modcp_split.tpl#L43)

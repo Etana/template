@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_body }}
+* __Avancement :__ 11/275
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_body)
 
@@ -129,7 +130,7 @@
 * __[`{L_SOLVED}`](https://github.com/Etana/template/blob/master/var/L_SOLVED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SOLVED">*</a> :__ ligne [`753`](../../src/subsilver/posting_body.tpl#L753)
 * __[`{L_SOLVED_WITHOUT_BRAKETS}`](https://github.com/Etana/template/blob/master/var/L_SOLVED_WITHOUT_BRAKETS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SOLVED_WITHOUT_BRAKETS">*</a> :__ ligne [`753`](../../src/subsilver/posting_body.tpl#L753)
 * __[`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme) :__ ligne [`135`](../../src/subsilver/posting_body.tpl#L135)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ lignes [`530`](../../src/subsilver/posting_body.tpl#L530), [`687`](../../src/subsilver/posting_body.tpl#L687)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ lignes [`530`](../../src/subsilver/posting_body.tpl#L530), [`687`](../../src/subsilver/posting_body.tpl#L687)
 * __[`{L_TIME}`](https://github.com/Etana/template/blob/master/var/L_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TIME">*</a> :__ ligne [`840`](../../src/subsilver/posting_body.tpl#L840)
 * __[`{L_TODAY}`](https://github.com/Etana/template/blob/master/var/L_TODAY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TODAY">*</a> :__ ligne [`835`](../../src/subsilver/posting_body.tpl#L835)
 * __[`{L_TOPIC_TITLE_MODIFY}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_TITLE_MODIFY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_TITLE_MODIFY">*</a> :__ ligne [`748`](../../src/subsilver/posting_body.tpl#L748)
@@ -179,8 +180,8 @@
 * __[`{S_SMILIES_COLSPAN}`](https://github.com/Etana/template/blob/master/var/S_SMILIES_COLSPAN.md#readme)<a href="https://fa-tvars.appspot.com/var/S_SMILIES_COLSPAN">*</a> :__ ligne [`196`](../../src/subsilver/posting_body.tpl#L196)
 * __[`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`877`](../../src/subsilver/posting_body.tpl#L877)
 * __[`{S_TYPE_TOGGLE}`](https://github.com/Etana/template/blob/master/var/S_TYPE_TOGGLE.md#readme)<a href="https://fa-tvars.appspot.com/var/S_TYPE_TOGGLE">*</a> :__ ligne [`805`](../../src/subsilver/posting_body.tpl#L805)
-* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_LESS_IMG">*</a> :__ lignes [`556`](../../src/subsilver/posting_body.tpl#L556), [`674`](../../src/subsilver/posting_body.tpl#L674), [`728`](../../src/subsilver/posting_body.tpl#L728), [`829`](../../src/subsilver/posting_body.tpl#L829)
-* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_MORE_IMG">*</a> :__ lignes [`541`](../../src/subsilver/posting_body.tpl#L541), [`662`](../../src/subsilver/posting_body.tpl#L662), [`716`](../../src/subsilver/posting_body.tpl#L716), [`820`](../../src/subsilver/posting_body.tpl#L820)
+* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme) :__ lignes [`556`](../../src/subsilver/posting_body.tpl#L556), [`674`](../../src/subsilver/posting_body.tpl#L674), [`728`](../../src/subsilver/posting_body.tpl#L728), [`829`](../../src/subsilver/posting_body.tpl#L829)
+* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme) :__ lignes [`541`](../../src/subsilver/posting_body.tpl#L541), [`662`](../../src/subsilver/posting_body.tpl#L662), [`716`](../../src/subsilver/posting_body.tpl#L716), [`820`](../../src/subsilver/posting_body.tpl#L820)
 * __[`{TEXT_COLOR}`](https://github.com/Etana/template/blob/master/var/TEXT_COLOR.md#readme)<a href="https://fa-tvars.appspot.com/var/TEXT_COLOR">*</a> :__ ligne [`212`](../../src/subsilver/posting_body.tpl#L212)
 * __[`{TODAY_DAY}`](https://github.com/Etana/template/blob/master/var/TODAY_DAY.md#readme)<a href="https://fa-tvars.appspot.com/var/TODAY_DAY">*</a> :__ ligne [`835`](../../src/subsilver/posting_body.tpl#L835)
 * __[`{TODAY_MONTH}`](https://github.com/Etana/template/blob/master/var/TODAY_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/TODAY_MONTH">*</a> :__ ligne [`835`](../../src/subsilver/posting_body.tpl#L835)

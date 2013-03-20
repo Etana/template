@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_smilies.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_smilies }}
+* __Avancement :__ 1/13
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_smilies }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_smilies)
 

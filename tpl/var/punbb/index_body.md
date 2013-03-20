@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/index_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > index_body }}
+* __Avancement :__ 50/74
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > index_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/index_body)
 
@@ -78,7 +79,7 @@
 * __[`<!-- BEGIN switch_fb_index_login -->`](https://github.com/Etana/template/blob/master/var/switch_fb_index_login.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_fb_index_login">*</a> :__ ligne [`134`](../../src/punbb/index_body.tpl#L134)
     * __[`{switch_fb_index_login.FACEBOOK_APP_ID}`](https://github.com/Etana/template/blob/master/var/switch_fb_index_login.FACEBOOK_APP_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID">*</a> :__ ligne [`139`](../../src/punbb/index_body.tpl#L139)
 * __[`<!-- END switch_fb_index_login -->`](https://github.com/Etana/template/blob/master/var/switch_fb_index_login.md#readme) :__ ligne [`146`](../../src/punbb/index_body.tpl#L146)
-* __[`<!-- BEGIN switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_legend">*</a> :__ ligne [`122`](../../src/punbb/index_body.tpl#L122)
+* __[`<!-- BEGIN switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme) :__ ligne [`122`](../../src/punbb/index_body.tpl#L122)
 * __[`<!-- END switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme) :__ ligne [`130`](../../src/punbb/index_body.tpl#L130)
 * __[`<!-- BEGIN switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ ligne [`2`](../../src/punbb/index_body.tpl#L2)
 * __[`<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ ligne [`12`](../../src/punbb/index_body.tpl#L12)

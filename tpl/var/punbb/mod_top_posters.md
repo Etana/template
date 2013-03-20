@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_top_posters.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_top_posters }}
+* __Avancement :__ 1/6
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_top_posters }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_top_posters)
 

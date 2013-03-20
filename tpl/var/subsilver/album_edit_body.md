@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_edit_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_edit_body }}
+* __Avancement :__ 3/24
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_edit_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_edit_body)
 
@@ -19,7 +20,7 @@
 * __[`{L_PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/L_PIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PIC_TITLE">*</a> :__ ligne [`44`](../../src/subsilver/album_edit_body.tpl#L44)
 * __[`{L_PLAIN_TEXT_ONLY}`](https://github.com/Etana/template/blob/master/var/L_PLAIN_TEXT_ONLY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PLAIN_TEXT_ONLY">*</a> :__ ligne [`48`](../../src/subsilver/album_edit_body.tpl#L48)
 * __[`{L_RESET}`](https://github.com/Etana/template/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ ligne [`59`](../../src/subsilver/album_edit_body.tpl#L59)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`59`](../../src/subsilver/album_edit_body.tpl#L59)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`59`](../../src/subsilver/album_edit_body.tpl#L59)
 * __[`{L_UPLOAD_NO_TITLE}`](https://github.com/Etana/template/blob/master/var/L_UPLOAD_NO_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_NO_TITLE">*</a> :__ ligne [`9`](../../src/subsilver/album_edit_body.tpl#L9)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`36`](../../src/subsilver/album_edit_body.tpl#L36)
 * __[`{NAV_SEP}`](https://github.com/Etana/template/blob/master/var/NAV_SEP.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_SEP">*</a> :__ ligne [`34`](../../src/subsilver/album_edit_body.tpl#L34)

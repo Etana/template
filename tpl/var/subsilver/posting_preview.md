@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_preview.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_preview }}
+* __Avancement :__ 0/8
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_preview }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_preview)
 

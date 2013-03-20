@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_formsearch_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_formsearch_body }}
+* __Avancement :__ 9/11
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_formsearch_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_formsearch_body)
 

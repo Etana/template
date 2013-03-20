@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/search_username.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > search_username }}
+* __Avancement :__ 3/9
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > search_username }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/search_username)
 

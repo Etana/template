@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/privmsgs_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_body }}
+* __Avancement :__ 7/48
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsgs_body)
 
@@ -30,8 +31,8 @@
 * __[`{MASS_PM_IMG}`](https://github.com/Etana/template/blob/master/var/MASS_PM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/MASS_PM_IMG">*</a> :__ lignes [`45`](../../src/subsilver/privmsgs_body.tpl#L45), [`92`](../../src/subsilver/privmsgs_body.tpl#L92)
 * __[`{OUTBOX}`](https://github.com/Etana/template/blob/master/var/OUTBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/OUTBOX">*</a> :__ ligne [`11`](../../src/subsilver/privmsgs_body.tpl#L11)
 * __[`{OUTBOX_IMG}`](https://github.com/Etana/template/blob/master/var/OUTBOX_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/OUTBOX_IMG">*</a> :__ ligne [`10`](../../src/subsilver/privmsgs_body.tpl#L10)
-* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGE_NUMBER">*</a> :__ ligne [`94`](../../src/subsilver/privmsgs_body.tpl#L94)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ ligne [`96`](../../src/subsilver/privmsgs_body.tpl#L96)
+* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme) :__ ligne [`94`](../../src/subsilver/privmsgs_body.tpl#L94)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`96`](../../src/subsilver/privmsgs_body.tpl#L96)
 * __[`{PATH_IMG_FA}`](https://github.com/Etana/template/blob/master/var/PATH_IMG_FA.md#readme)<a href="https://fa-tvars.appspot.com/var/PATH_IMG_FA">*</a> :__ ligne [`26`](../../src/subsilver/privmsgs_body.tpl#L26)
 * __[`{POST_PM_IMG}`](https://github.com/Etana/template/blob/master/var/POST_PM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/POST_PM_IMG">*</a> :__ lignes [`43`](../../src/subsilver/privmsgs_body.tpl#L43), [`90`](../../src/subsilver/privmsgs_body.tpl#L90)
 * __[`{SAVEBOX}`](https://github.com/Etana/template/blob/master/var/SAVEBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/SAVEBOX">*</a> :__ ligne [`13`](../../src/subsilver/privmsgs_body.tpl#L13)

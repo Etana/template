@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_rss_feeds.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_rss_feeds }}
+* __Avancement :__ 0/7
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_rss_feeds }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_rss_feeds)
 

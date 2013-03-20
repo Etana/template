@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/greeting_popup.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > greeting_popup }}
+* __Avancement :__ 4/5
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > greeting_popup }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/greeting_popup)
 

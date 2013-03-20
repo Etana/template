@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/profile_avatar_gallery.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_avatar_gallery }}
+* __Avancement :__ 11/27
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_avatar_gallery }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_avatar_gallery)
 

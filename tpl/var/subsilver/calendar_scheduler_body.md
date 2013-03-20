@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/calendar_scheduler_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_scheduler_body }}
+* __Avancement :__ 5/25
+* __Chemin :__ {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_scheduler_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/calendar_scheduler_body)
 
@@ -17,7 +18,7 @@
 * __[`{L_CALENDAR_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR_SCHEDULER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CALENDAR_SCHEDULER">*</a> :__ ligne [`4`](../../src/subsilver/calendar_scheduler_body.tpl#L4)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`4`](../../src/subsilver/calendar_scheduler_body.tpl#L4)
 * __[`{NAV_SEPARATOR}`](https://github.com/Etana/template/blob/master/var/NAV_SEPARATOR.md#readme)<a href="https://fa-tvars.appspot.com/var/NAV_SEPARATOR">*</a> :__ ligne [`4`](../../src/subsilver/calendar_scheduler_body.tpl#L4)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ lignes [`5`](../../src/subsilver/calendar_scheduler_body.tpl#L5), [`53`](../../src/subsilver/calendar_scheduler_body.tpl#L53)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`5`](../../src/subsilver/calendar_scheduler_body.tpl#L5), [`53`](../../src/subsilver/calendar_scheduler_body.tpl#L53)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`62`](../../src/subsilver/calendar_scheduler_body.tpl#L62)
 * __[`{S_MONTH}`](https://github.com/Etana/template/blob/master/var/S_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/S_MONTH">*</a> :__ ligne [`27`](../../src/subsilver/calendar_scheduler_body.tpl#L27)
 * __[`{S_YEAR}`](https://github.com/Etana/template/blob/master/var/S_YEAR.md#readme)<a href="https://fa-tvars.appspot.com/var/S_YEAR">*</a> :__ ligne [`27`](../../src/subsilver/calendar_scheduler_body.tpl#L27)

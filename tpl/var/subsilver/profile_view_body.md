@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/profile_view_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_view_body }}
+* __Avancement :__ 5/65
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_view_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_view_body)
 

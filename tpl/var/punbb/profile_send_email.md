@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/profile_send_email.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_email }}
+* __Avancement :__ 12/29
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_send_email }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_send_email)
 

@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/posting_smilies.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_smilies }}
+* __Avancement :__ 1/13
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_smilies }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/posting_smilies)
 

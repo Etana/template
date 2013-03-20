@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_login.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_login }}
+* __Avancement :__ 7/20
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_login }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_login)
 
@@ -14,7 +15,7 @@
 * __[`{L_MESSAGES}`](https://github.com/Etana/template/blob/master/var/L_MESSAGES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MESSAGES">*</a> :__ ligne [`50`](../../src/punbb/mod_login.tpl#L50)
 * __[`{L_MY_PROFILE}`](https://github.com/Etana/template/blob/master/var/L_MY_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MY_PROFILE">*</a> :__ ligne [`54`](../../src/punbb/mod_login.tpl#L54)
 * __[`{L_PASSWORD}`](https://github.com/Etana/template/blob/master/var/L_PASSWORD.md#readme) :__ lignes [`12`](../../src/punbb/mod_login.tpl#L12), [`34`](../../src/punbb/mod_login.tpl#L34)
-* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PM">*</a> :__ ligne [`52`](../../src/punbb/mod_login.tpl#L52)
+* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme) :__ ligne [`52`](../../src/punbb/mod_login.tpl#L52)
 * __[`{L_SEND_PASSWORD}`](https://github.com/Etana/template/blob/master/var/L_SEND_PASSWORD.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEND_PASSWORD">*</a> :__ lignes [`14`](../../src/punbb/mod_login.tpl#L14), [`36`](../../src/punbb/mod_login.tpl#L36)
 * __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ lignes [`8`](../../src/punbb/mod_login.tpl#L8), [`32`](../../src/punbb/mod_login.tpl#L32)
 * __[`{NB_MESSAGES}`](https://github.com/Etana/template/blob/master/var/NB_MESSAGES.md#readme)<a href="https://fa-tvars.appspot.com/var/NB_MESSAGES">*</a> :__ ligne [`51`](../../src/punbb/mod_login.tpl#L51)

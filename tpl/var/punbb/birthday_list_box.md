@@ -2,14 +2,15 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/birthday_list_box.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > birthday_list_box }}
+* __Avancement :__ 2/29
+* __Chemin :__ {{/admin/index.forum?mode=calendar&part=themes&sub=templates > birthday_list_box }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/birthday_list_box)
 
 ## Variables
 
-* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BACK_TO_TOP">*</a> :__ ligne [`46`](../../src/punbb/birthday_list_box.tpl#L46)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ ligne [`45`](../../src/punbb/birthday_list_box.tpl#L45)
+* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`46`](../../src/punbb/birthday_list_box.tpl#L46)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`45`](../../src/punbb/birthday_list_box.tpl#L45)
 * __[`<!-- BEGIN birthday_list_box -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.md#readme)<a href="https://fa-tvars.appspot.com/var/birthday_list_box">*</a> :__ ligne [`1`](../../src/punbb/birthday_list_box.tpl#L1)
     * __[`<!-- BEGIN row -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.row.md#readme)<a href="https://fa-tvars.appspot.com/var/birthday_list_box.row">*</a> :__ ligne [`2`](../../src/punbb/birthday_list_box.tpl#L2)
         * __[`{birthday_list_box.row.AGE}`](https://github.com/Etana/template/blob/master/var/birthday_list_box.row.AGE.md#readme)<a href="https://fa-tvars.appspot.com/var/birthday_list_box.row.AGE">*</a> :__ ligne [`8`](../../src/punbb/birthday_list_box.tpl#L8)

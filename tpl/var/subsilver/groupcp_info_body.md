@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/groupcp_info_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=group&part=themes&sub=templates > groupcp_info_body }}
+* __Avancement :__ 9/68
+* __Chemin :__ {{/admin/index.forum?mode=group&part=themes&sub=templates > groupcp_info_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/groupcp_info_body)
 
@@ -31,22 +32,22 @@
 * __[`{L_HIDDEN_MEMBERS}`](https://github.com/Etana/template/blob/master/var/L_HIDDEN_MEMBERS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_HIDDEN_MEMBERS">*</a> :__ ligne [`82`](../../src/subsilver/groupcp_info_body.tpl#L82)
 * __[`{L_JOIN_GROUP}`](https://github.com/Etana/template/blob/master/var/L_JOIN_GROUP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_JOIN_GROUP">*</a> :__ ligne [`19`](../../src/subsilver/groupcp_info_body.tpl#L19)
 * __[`{L_NO_MEMBERS}`](https://github.com/Etana/template/blob/master/var/L_NO_MEMBERS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO_MEMBERS">*</a> :__ ligne [`77`](../../src/subsilver/groupcp_info_body.tpl#L77)
-* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PM">*</a> :__ ligne [`41`](../../src/subsilver/groupcp_info_body.tpl#L41)
+* __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme) :__ ligne [`41`](../../src/subsilver/groupcp_info_body.tpl#L41)
 * __[`{L_POSTS}`](https://github.com/Etana/template/blob/master/var/L_POSTS.md#readme) :__ ligne [`43`](../../src/subsilver/groupcp_info_body.tpl#L43)
 * __[`{L_REMOVE_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_REMOVE_SELECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_REMOVE_SELECTED">*</a> :__ ligne [`100`](../../src/subsilver/groupcp_info_body.tpl#L100)
 * __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`47`](../../src/subsilver/groupcp_info_body.tpl#L47)
 * __[`{L_UNSUBSCRIBE_GROUP}`](https://github.com/Etana/template/blob/master/var/L_UNSUBSCRIBE_GROUP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UNSUBSCRIBE_GROUP">*</a> :__ ligne [`22`](../../src/subsilver/groupcp_info_body.tpl#L22)
 * __[`{L_UPDATE}`](https://github.com/Etana/template/blob/master/var/L_UPDATE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPDATE">*</a> :__ ligne [`31`](../../src/subsilver/groupcp_info_body.tpl#L31)
 * __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ ligne [`42`](../../src/subsilver/groupcp_info_body.tpl#L42)
-* __[`{L_WEBSITE}`](https://github.com/Etana/template/blob/master/var/L_WEBSITE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_WEBSITE">*</a> :__ ligne [`46`](../../src/subsilver/groupcp_info_body.tpl#L46)
+* __[`{L_WEBSITE}`](https://github.com/Etana/template/blob/master/var/L_WEBSITE.md#readme) :__ ligne [`46`](../../src/subsilver/groupcp_info_body.tpl#L46)
 * __[`{MOD_EMAIL_IMG}`](https://github.com/Etana/template/blob/master/var/MOD_EMAIL_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/MOD_EMAIL_IMG">*</a> :__ ligne [`57`](../../src/subsilver/groupcp_info_body.tpl#L57)
 * __[`{MOD_FROM}`](https://github.com/Etana/template/blob/master/var/MOD_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/MOD_FROM">*</a> :__ ligne [`56`](../../src/subsilver/groupcp_info_body.tpl#L56)
 * __[`{MOD_PM_IMG}`](https://github.com/Etana/template/blob/master/var/MOD_PM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/MOD_PM_IMG">*</a> :__ ligne [`53`](../../src/subsilver/groupcp_info_body.tpl#L53)
 * __[`{MOD_POSTS}`](https://github.com/Etana/template/blob/master/var/MOD_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/MOD_POSTS">*</a> :__ ligne [`55`](../../src/subsilver/groupcp_info_body.tpl#L55)
 * __[`{MOD_USERNAME}`](https://github.com/Etana/template/blob/master/var/MOD_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/MOD_USERNAME">*</a> :__ ligne [`54`](../../src/subsilver/groupcp_info_body.tpl#L54)
 * __[`{MOD_WWW_IMG}`](https://github.com/Etana/template/blob/master/var/MOD_WWW_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/MOD_WWW_IMG">*</a> :__ ligne [`58`](../../src/subsilver/groupcp_info_body.tpl#L58)
-* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGE_NUMBER">*</a> :__ ligne [`109`](../../src/subsilver/groupcp_info_body.tpl#L109)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ ligne [`110`](../../src/subsilver/groupcp_info_body.tpl#L110)
+* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme) :__ ligne [`109`](../../src/subsilver/groupcp_info_body.tpl#L109)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`110`](../../src/subsilver/groupcp_info_body.tpl#L110)
 * __[`{PENDING_USER_BOX}`](https://github.com/Etana/template/blob/master/var/PENDING_USER_BOX.md#readme)<a href="https://fa-tvars.appspot.com/var/PENDING_USER_BOX">*</a> :__ ligne [`114`](../../src/subsilver/groupcp_info_body.tpl#L114)
 * __[`{S_GROUPCP_ACTION}`](https://github.com/Etana/template/blob/master/var/S_GROUPCP_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_GROUPCP_ACTION">*</a> :__ lignes [`1`](../../src/subsilver/groupcp_info_body.tpl#L1), [`38`](../../src/subsilver/groupcp_info_body.tpl#L38)
 * __[`{S_GROUP_CLOSED_CHECKED}`](https://github.com/Etana/template/blob/master/var/S_GROUP_CLOSED_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/S_GROUP_CLOSED_CHECKED">*</a> :__ ligne [`31`](../../src/subsilver/groupcp_info_body.tpl#L31)

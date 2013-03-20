@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/modcp_split.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_split }}
+* __Avancement :__ 11/30
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_split }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/modcp_split)
 

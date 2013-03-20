@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/error_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > error_body }}
+* __Avancement :__ 1/1
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > error_body }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/error_body)
 `Page pour les erreurs de saisie`.

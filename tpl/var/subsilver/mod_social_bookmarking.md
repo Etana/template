@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_social_bookmarking.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_social_bookmarking }}
+* __Avancement :__ 0/8
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_social_bookmarking }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_social_bookmarking)
 

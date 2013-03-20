@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/confirm_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > confirm_body }}
+* __Avancement :__ 9/9
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > confirm_body }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/confirm_body)
 `Page type pour les demandes de confirmation`.

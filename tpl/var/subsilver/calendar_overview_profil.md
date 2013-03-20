@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/calendar_overview_profil.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_overview_profil }}
+* __Avancement :__ 1/6
+* __Chemin :__ {{/admin/index.forum?mode=calendar&part=themes&sub=templates > calendar_overview_profil }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/calendar_overview_profil)
 

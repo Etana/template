@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/search_username.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > search_username }}
+* __Avancement :__ 3/10
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > search_username }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/search_username)
 

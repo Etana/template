@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_overview_top10.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_overview_top10 }}
+* __Avancement :__ 1/17
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_overview_top10 }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_overview_top10)
 

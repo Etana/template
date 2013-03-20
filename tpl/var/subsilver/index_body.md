@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/index_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > index_body }}
+* __Avancement :__ 48/77
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > index_body }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/index_body)
 `Page d'accueil`.
@@ -80,7 +81,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 * __[`<!-- BEGIN switch_fb_index_login -->`](https://github.com/Etana/template/blob/master/var/switch_fb_index_login.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_fb_index_login">*</a> :__ ligne [`242`](../../src/subsilver/index_body.tpl#L242)
     * __[`{switch_fb_index_login.FACEBOOK_APP_ID}`](https://github.com/Etana/template/blob/master/var/switch_fb_index_login.FACEBOOK_APP_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID">*</a> :__ ligne [`247`](../../src/subsilver/index_body.tpl#L247)
 * __[`<!-- END switch_fb_index_login -->`](https://github.com/Etana/template/blob/master/var/switch_fb_index_login.md#readme) :__ ligne [`255`](../../src/subsilver/index_body.tpl#L255)
-* __[`<!-- BEGIN switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_legend">*</a> :__ ligne [`225`](../../src/subsilver/index_body.tpl#L225)
+* __[`<!-- BEGIN switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme) :__ ligne [`225`](../../src/subsilver/index_body.tpl#L225)
 * __[`<!-- END switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme) :__ ligne [`238`](../../src/subsilver/index_body.tpl#L238)
 * __[`<!-- BEGIN switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_on_index">*</a> :__ ligne [`100`](../../src/subsilver/index_body.tpl#L100)
     * __[`<!-- BEGIN switch_delete_cookies -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies">*</a> :__ ligne [`101`](../../src/subsilver/index_body.tpl#L101)

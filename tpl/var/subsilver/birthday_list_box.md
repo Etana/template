@@ -2,14 +2,15 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/birthday_list_box.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=calendar&part=themes&sub=templates > birthday_list_box }}
+* __Avancement :__ 2/32
+* __Chemin :__ {{/admin/index.forum?mode=calendar&part=themes&sub=templates > birthday_list_box }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/birthday_list_box)
 
 ## Variables
 
-* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_BACK_TO_TOP">*</a> :__ ligne [`54`](../../src/subsilver/birthday_list_box.tpl#L54)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ ligne [`53`](../../src/subsilver/birthday_list_box.tpl#L53)
+* __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`54`](../../src/subsilver/birthday_list_box.tpl#L54)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`53`](../../src/subsilver/birthday_list_box.tpl#L53)
 * __[`<!-- BEGIN birthday_list_box -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.md#readme)<a href="https://fa-tvars.appspot.com/var/birthday_list_box">*</a> :__ ligne [`1`](../../src/subsilver/birthday_list_box.tpl#L1)
     * __[`{birthday_list_box.FIELDNAME}`](https://github.com/Etana/template/blob/master/var/birthday_list_box.FIELDNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/birthday_list_box.FIELDNAME">*</a> :__ lignes [`6`](../../src/subsilver/birthday_list_box.tpl#L6), [`14`](../../src/subsilver/birthday_list_box.tpl#L14)
     * __[`{birthday_list_box.FORMNAME}`](https://github.com/Etana/template/blob/master/var/birthday_list_box.FORMNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/birthday_list_box.FORMNAME">*</a> :__ lignes [`5`](../../src/subsilver/birthday_list_box.tpl#L5), [`6`](../../src/subsilver/birthday_list_box.tpl#L6), [`7`](../../src/subsilver/birthday_list_box.tpl#L7), [`10`](../../src/subsilver/birthday_list_box.tpl#L10), [`13`](../../src/subsilver/birthday_list_box.tpl#L13), [`14`](../../src/subsilver/birthday_list_box.tpl#L14), [`15`](../../src/subsilver/birthday_list_box.tpl#L15), [`15`](../../src/subsilver/birthday_list_box.tpl#L15)

@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/portal_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > portal_body }}
+* __Avancement :__ 3/29
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > portal_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/portal_body)
 

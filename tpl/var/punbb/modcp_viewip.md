@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/modcp_viewip.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_viewip }}
+* __Avancement :__ 12/44
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_viewip }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/modcp_viewip)
 

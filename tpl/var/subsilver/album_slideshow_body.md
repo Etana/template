@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_slideshow_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_slideshow_body }}
+* __Avancement :__ 0/15
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_slideshow_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_slideshow_body)
 

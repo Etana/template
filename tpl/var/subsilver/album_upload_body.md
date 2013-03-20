@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_upload_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_upload_body }}
+* __Avancement :__ 4/56
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_upload_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_upload_body)
 
@@ -24,7 +25,7 @@
 * __[`{L_PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/L_PIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PIC_TITLE">*</a> :__ ligne [`257`](../../src/subsilver/album_upload_body.tpl#L257)
 * __[`{L_PLAIN_TEXT_ONLY}`](https://github.com/Etana/template/blob/master/var/L_PLAIN_TEXT_ONLY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PLAIN_TEXT_ONLY">*</a> :__ ligne [`262`](../../src/subsilver/album_upload_body.tpl#L262)
 * __[`{L_RESET}`](https://github.com/Etana/template/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ lignes [`345`](../../src/subsilver/album_upload_body.tpl#L345), [`349`](../../src/subsilver/album_upload_body.tpl#L349)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ lignes [`346`](../../src/subsilver/album_upload_body.tpl#L346), [`350`](../../src/subsilver/album_upload_body.tpl#L350)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ lignes [`346`](../../src/subsilver/album_upload_body.tpl#L346), [`350`](../../src/subsilver/album_upload_body.tpl#L350)
 * __[`{L_THUMBNAIL_SIZE}`](https://github.com/Etana/template/blob/master/var/L_THUMBNAIL_SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_THUMBNAIL_SIZE">*</a> :__ ligne [`322`](../../src/subsilver/album_upload_body.tpl#L322)
 * __[`{L_UPLOAD_NO_FILE}`](https://github.com/Etana/template/blob/master/var/L_UPLOAD_NO_FILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_NO_FILE">*</a> :__ lignes [`71`](../../src/subsilver/album_upload_body.tpl#L71), [`113`](../../src/subsilver/album_upload_body.tpl#L113)
 * __[`{L_UPLOAD_NO_TITLE}`](https://github.com/Etana/template/blob/master/var/L_UPLOAD_NO_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_NO_TITLE">*</a> :__ ligne [`109`](../../src/subsilver/album_upload_body.tpl#L109)

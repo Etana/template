@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/faq_dhtml.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > faq_dhtml }}
+* __Avancement :__ 11/21
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > faq_dhtml }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/faq_dhtml)
 

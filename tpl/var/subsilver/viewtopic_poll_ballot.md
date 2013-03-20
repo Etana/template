@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/viewtopic_poll_ballot.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > viewtopic_poll_ballot }}
+* __Avancement :__ 1/11
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > viewtopic_poll_ballot }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/viewtopic_poll_ballot)
 

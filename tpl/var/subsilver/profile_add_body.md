@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/profile_add_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_add_body }}
+* __Avancement :__ 6/168
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_add_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_add_body)
 
@@ -91,7 +92,7 @@
 * __[`{L_REGISTRATION_INFO}`](https://github.com/Etana/template/blob/master/var/L_REGISTRATION_INFO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_REGISTRATION_INFO">*</a> :__ lignes [`10`](../../src/subsilver/profile_add_body.tpl#L10), [`89`](../../src/subsilver/profile_add_body.tpl#L89)
 * __[`{L_RESET}`](https://github.com/Etana/template/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ ligne [`356`](../../src/subsilver/profile_add_body.tpl#L356)
 * __[`{L_SHOW_GALLERY}`](https://github.com/Etana/template/blob/master/var/L_SHOW_GALLERY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SHOW_GALLERY">*</a> :__ ligne [`350`](../../src/subsilver/profile_add_body.tpl#L350)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`356`](../../src/subsilver/profile_add_body.tpl#L356)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`356`](../../src/subsilver/profile_add_body.tpl#L356)
 * __[`{L_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/L_TIMEZONE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TIMEZONE">*</a> :__ ligne [`300`](../../src/subsilver/profile_add_body.tpl#L300)
 * __[`{L_UPLOAD_AVATAR_FILE}`](https://github.com/Etana/template/blob/master/var/L_UPLOAD_AVATAR_FILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_AVATAR_FILE">*</a> :__ ligne [`331`](../../src/subsilver/profile_add_body.tpl#L331)
 * __[`{L_UPLOAD_AVATAR_URL}`](https://github.com/Etana/template/blob/master/var/L_UPLOAD_AVATAR_URL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_AVATAR_URL">*</a> :__ ligne [`337`](../../src/subsilver/profile_add_body.tpl#L337)

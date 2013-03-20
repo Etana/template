@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_recent_topics.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_recent_topics }}
+* __Avancement :__ 0/33
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_recent_topics }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_recent_topics)
 

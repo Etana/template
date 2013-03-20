@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_body_wysiwyg.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_body_wysiwyg }}
+* __Avancement :__ 12/231
+* __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_body_wysiwyg }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_body_wysiwyg)
 
@@ -88,7 +89,7 @@
 * __[`{L_SOLVED}`](https://github.com/Etana/template/blob/master/var/L_SOLVED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SOLVED">*</a> :__ ligne [`727`](../../src/subsilver/posting_body_wysiwyg.tpl#L727)
 * __[`{L_SOLVED_WITHOUT_BRAKETS}`](https://github.com/Etana/template/blob/master/var/L_SOLVED_WITHOUT_BRAKETS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SOLVED_WITHOUT_BRAKETS">*</a> :__ ligne [`727`](../../src/subsilver/posting_body_wysiwyg.tpl#L727)
 * __[`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme) :__ ligne [`308`](../../src/subsilver/posting_body_wysiwyg.tpl#L308)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ ligne [`530`](../../src/subsilver/posting_body_wysiwyg.tpl#L530)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ ligne [`530`](../../src/subsilver/posting_body_wysiwyg.tpl#L530)
 * __[`{L_TIME}`](https://github.com/Etana/template/blob/master/var/L_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TIME">*</a> :__ ligne [`812`](../../src/subsilver/posting_body_wysiwyg.tpl#L812)
 * __[`{L_TODAY}`](https://github.com/Etana/template/blob/master/var/L_TODAY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TODAY">*</a> :__ ligne [`807`](../../src/subsilver/posting_body_wysiwyg.tpl#L807)
 * __[`{L_TOPIC_TITLE_MODIFY}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_TITLE_MODIFY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_TITLE_MODIFY">*</a> :__ ligne [`723`](../../src/subsilver/posting_body_wysiwyg.tpl#L723)
@@ -129,7 +130,7 @@
 * __[`{S_CALENDAR_DAY}`](https://github.com/Etana/template/blob/master/var/S_CALENDAR_DAY.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CALENDAR_DAY">*</a> :__ ligne [`806`](../../src/subsilver/posting_body_wysiwyg.tpl#L806)
 * __[`{S_CALENDAR_MONTH}`](https://github.com/Etana/template/blob/master/var/S_CALENDAR_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CALENDAR_MONTH">*</a> :__ ligne [`806`](../../src/subsilver/posting_body_wysiwyg.tpl#L806)
 * __[`{S_CALENDAR_YEAR}`](https://github.com/Etana/template/blob/master/var/S_CALENDAR_YEAR.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CALENDAR_YEAR">*</a> :__ ligne [`806`](../../src/subsilver/posting_body_wysiwyg.tpl#L806)
-* __[`{S_CONTENT_DIRECTION}`](https://github.com/Etana/template/blob/master/var/S_CONTENT_DIRECTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION">*</a> :__ ligne [`490`](../../src/subsilver/posting_body_wysiwyg.tpl#L490)
+* __[`{S_CONTENT_DIRECTION}`](https://github.com/Etana/template/blob/master/var/S_CONTENT_DIRECTION.md#readme) :__ ligne [`490`](../../src/subsilver/posting_body_wysiwyg.tpl#L490)
 * __[`{S_HIDDEN_FORM_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FORM_FIELDS.md#readme)<a href="https://fa-tvars.appspot.com/var/S_HIDDEN_FORM_FIELDS">*</a> :__ ligne [`520`](../../src/subsilver/posting_body_wysiwyg.tpl#L520)
 * __[`{S_HTML_CHECKED}`](https://github.com/Etana/template/blob/master/var/S_HTML_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/S_HTML_CHECKED">*</a> :__ ligne [`745`](../../src/subsilver/posting_body_wysiwyg.tpl#L745)
 * __[`{S_NOTIFY_CHECKED}`](https://github.com/Etana/template/blob/master/var/S_NOTIFY_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/S_NOTIFY_CHECKED">*</a> :__ ligne [`765`](../../src/subsilver/posting_body_wysiwyg.tpl#L765)
@@ -138,8 +139,8 @@
 * __[`{S_SMILIES_CHECKED}`](https://github.com/Etana/template/blob/master/var/S_SMILIES_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/S_SMILIES_CHECKED">*</a> :__ ligne [`755`](../../src/subsilver/posting_body_wysiwyg.tpl#L755)
 * __[`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`837`](../../src/subsilver/posting_body_wysiwyg.tpl#L837)
 * __[`{S_TYPE_TOGGLE}`](https://github.com/Etana/template/blob/master/var/S_TYPE_TOGGLE.md#readme)<a href="https://fa-tvars.appspot.com/var/S_TYPE_TOGGLE">*</a> :__ ligne [`777`](../../src/subsilver/posting_body_wysiwyg.tpl#L777)
-* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_LESS_IMG">*</a> :__ lignes [`553`](../../src/subsilver/posting_body_wysiwyg.tpl#L553), [`663`](../../src/subsilver/posting_body_wysiwyg.tpl#L663), [`706`](../../src/subsilver/posting_body_wysiwyg.tpl#L706), [`801`](../../src/subsilver/posting_body_wysiwyg.tpl#L801)
-* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/TABS_MORE_IMG">*</a> :__ lignes [`541`](../../src/subsilver/posting_body_wysiwyg.tpl#L541), [`651`](../../src/subsilver/posting_body_wysiwyg.tpl#L651), [`695`](../../src/subsilver/posting_body_wysiwyg.tpl#L695), [`792`](../../src/subsilver/posting_body_wysiwyg.tpl#L792)
+* __[`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme) :__ lignes [`553`](../../src/subsilver/posting_body_wysiwyg.tpl#L553), [`663`](../../src/subsilver/posting_body_wysiwyg.tpl#L663), [`706`](../../src/subsilver/posting_body_wysiwyg.tpl#L706), [`801`](../../src/subsilver/posting_body_wysiwyg.tpl#L801)
+* __[`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme) :__ lignes [`541`](../../src/subsilver/posting_body_wysiwyg.tpl#L541), [`651`](../../src/subsilver/posting_body_wysiwyg.tpl#L651), [`695`](../../src/subsilver/posting_body_wysiwyg.tpl#L695), [`792`](../../src/subsilver/posting_body_wysiwyg.tpl#L792)
 * __[`{TEXT_COLOR}`](https://github.com/Etana/template/blob/master/var/TEXT_COLOR.md#readme)<a href="https://fa-tvars.appspot.com/var/TEXT_COLOR">*</a> :__ ligne [`96`](../../src/subsilver/posting_body_wysiwyg.tpl#L96)
 * __[`{TODAY_DAY}`](https://github.com/Etana/template/blob/master/var/TODAY_DAY.md#readme)<a href="https://fa-tvars.appspot.com/var/TODAY_DAY">*</a> :__ ligne [`807`](../../src/subsilver/posting_body_wysiwyg.tpl#L807)
 * __[`{TODAY_MONTH}`](https://github.com/Etana/template/blob/master/var/TODAY_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/TODAY_MONTH">*</a> :__ ligne [`807`](../../src/subsilver/posting_body_wysiwyg.tpl#L807)

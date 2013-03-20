@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/donate.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=main&part=themes&sub=templates > donate }}
+* __Avancement :__ 17/56
+* __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > donate }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/donate)
 `Contribution`.
@@ -34,7 +35,7 @@ Ce template touche la partie contribution de votre forum : `/donate`.
 * __[`{L_NO}`](https://github.com/Etana/template/blob/master/var/L_NO.md#readme) :__ ligne [`231`](../../src/subsilver/donate.tpl#L231)
 * __[`{L_SECOND_STEP}`](https://github.com/Etana/template/blob/master/var/L_SECOND_STEP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SECOND_STEP">*</a> :__ ligne [`80`](../../src/subsilver/donate.tpl#L80)
 * __[`{L_SELECT_SUM}`](https://github.com/Etana/template/blob/master/var/L_SELECT_SUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT_SUM">*</a> :__ ligne [`157`](../../src/subsilver/donate.tpl#L157)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ lignes [`112`](../../src/subsilver/donate.tpl#L112), [`150`](../../src/subsilver/donate.tpl#L150), [`167`](../../src/subsilver/donate.tpl#L167), [`177`](../../src/subsilver/donate.tpl#L177)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ lignes [`112`](../../src/subsilver/donate.tpl#L112), [`150`](../../src/subsilver/donate.tpl#L150), [`167`](../../src/subsilver/donate.tpl#L167), [`177`](../../src/subsilver/donate.tpl#L177)
 * __[`{L_TERMS_OF_SERVICE}`](https://github.com/Etana/template/blob/master/var/L_TERMS_OF_SERVICE.md#readme) :__ ligne [`18`](../../src/subsilver/donate.tpl#L18)
 * __[`{L_YES}`](https://github.com/Etana/template/blob/master/var/L_YES.md#readme) :__ ligne [`226`](../../src/subsilver/donate.tpl#L226)
 * __[`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme) :__ ligne [`215`](../../src/subsilver/donate.tpl#L215)

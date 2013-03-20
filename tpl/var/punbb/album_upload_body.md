@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_upload_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_upload_body }}
+* __Avancement :__ 8/56
+* __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_upload_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_upload_body)
 
@@ -27,7 +28,7 @@
 * __[`{L_RESET}`](https://github.com/Etana/template/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ lignes [`330`](../../src/punbb/album_upload_body.tpl#L330), [`334`](../../src/punbb/album_upload_body.tpl#L334)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`5`](../../src/punbb/album_upload_body.tpl#L5)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`6`](../../src/punbb/album_upload_body.tpl#L6)
-* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SUBMIT">*</a> :__ lignes [`331`](../../src/punbb/album_upload_body.tpl#L331), [`335`](../../src/punbb/album_upload_body.tpl#L335)
+* __[`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme) :__ lignes [`331`](../../src/punbb/album_upload_body.tpl#L331), [`335`](../../src/punbb/album_upload_body.tpl#L335)
 * __[`{L_THUMBNAIL_SIZE}`](https://github.com/Etana/template/blob/master/var/L_THUMBNAIL_SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_THUMBNAIL_SIZE">*</a> :__ ligne [`304`](../../src/punbb/album_upload_body.tpl#L304)
 * __[`{L_UPLOAD_NO_FILE}`](https://github.com/Etana/template/blob/master/var/L_UPLOAD_NO_FILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_NO_FILE">*</a> :__ lignes [`86`](../../src/punbb/album_upload_body.tpl#L86), [`129`](../../src/punbb/album_upload_body.tpl#L129)
 * __[`{L_UPLOAD_NO_TITLE}`](https://github.com/Etana/template/blob/master/var/L_UPLOAD_NO_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPLOAD_NO_TITLE">*</a> :__ ligne [`125`](../../src/punbb/album_upload_body.tpl#L125)

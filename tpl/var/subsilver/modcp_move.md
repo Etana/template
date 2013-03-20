@@ -2,7 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/modcp_move.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_move }}
+* __Avancement :__ 8/13
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_move }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/modcp_move)
 

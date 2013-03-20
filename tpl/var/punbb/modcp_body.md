@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/modcp_body.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_body }}
+* __Avancement :__ 15/43
+* __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/modcp_body)
 
@@ -30,8 +31,8 @@
 * __[`{L_UNLOCK}`](https://github.com/Etana/template/blob/master/var/L_UNLOCK.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UNLOCK">*</a> :__ ligne [`67`](../../src/punbb/modcp_body.tpl#L67)
 * __[`{L_USELECT_ALL}`](https://github.com/Etana/template/blob/master/var/L_USELECT_ALL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_USELECT_ALL">*</a> :__ ligne [`60`](../../src/punbb/modcp_body.tpl#L60)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`18`](../../src/punbb/modcp_body.tpl#L18)
-* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGE_NUMBER">*</a> :__ lignes [`25`](../../src/punbb/modcp_body.tpl#L25), [`79`](../../src/punbb/modcp_body.tpl#L79)
-* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)<a href="https://fa-tvars.appspot.com/var/PAGINATION">*</a> :__ lignes [`26`](../../src/punbb/modcp_body.tpl#L26), [`80`](../../src/punbb/modcp_body.tpl#L80)
+* __[`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme) :__ lignes [`25`](../../src/punbb/modcp_body.tpl#L25), [`79`](../../src/punbb/modcp_body.tpl#L79)
+* __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`26`](../../src/punbb/modcp_body.tpl#L26), [`80`](../../src/punbb/modcp_body.tpl#L80)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`63`](../../src/punbb/modcp_body.tpl#L63)
 * __[`{S_MODCP_ACTION}`](https://github.com/Etana/template/blob/master/var/S_MODCP_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_MODCP_ACTION">*</a> :__ ligne [`23`](../../src/punbb/modcp_body.tpl#L23)
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`18`](../../src/punbb/modcp_body.tpl#L18)

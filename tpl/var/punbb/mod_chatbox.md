@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_chatbox.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_chatbox }}
+* __Avancement :__ 0/1
+* __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_chatbox }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_chatbox)
 

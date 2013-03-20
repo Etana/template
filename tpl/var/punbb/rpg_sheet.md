@@ -2,7 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/rpg_sheet.tpl)
-* __Chemin :__ ` {{/admin/index.forum?mode=profil&part=themes&sub=templates > rpg_sheet }}
+* __Avancement :__ 7/19
+* __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > rpg_sheet }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/rpg_sheet)
 
