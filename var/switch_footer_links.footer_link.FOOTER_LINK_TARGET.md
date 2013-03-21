@@ -11,7 +11,10 @@ Attribut d'affichage de [`<!-- BEGIN footer_link -->...<!-- END footer_link -->`
 <!-- END switch_footer_links -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_TARGET)
+##Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_TARGET)
+Contient la cible du lien définie dans `PA > Modules > Liens de bas de page | Configuration > Ouvrir dans une nouvelle fenêtre`.
+
+* __Valeurs possibles :__ `_blank`ou `_top`
 
 ## Utilisations dans les templates
 

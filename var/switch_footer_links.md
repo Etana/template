@@ -9,7 +9,8 @@ contenu
 <!-- END switch_footer_links -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links)
+##Description[*](https://fa-tvars.appspot.com/var/switch_footer_links)
+Boucle s'affichant si vous avez activé les liens de bas de page dans `PA > Modules > Liens de bas de page | Configuration > Activer les liens de bas de page`.
 
 ## Attributs
 * __[`<!-- BEGIN footer_link -->`](switch_footer_links.footer_link.md#readme)__

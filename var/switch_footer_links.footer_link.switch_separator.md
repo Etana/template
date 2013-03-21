@@ -13,7 +13,8 @@ Attribut de bouclage de [`<!-- BEGIN footer_link -->...<!-- END footer_link -->`
 <!-- END switch_footer_links -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.switch_separator)
+##Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.switch_separator)
+Boucle affichant une séparation `|` entre chaque lien renseigné dans `PA > Modules > Liens de bas de page | Configuration`.
 
 ## Utilisations dans les templates
 
