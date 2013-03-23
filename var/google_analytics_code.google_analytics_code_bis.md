@@ -11,7 +11,8 @@ Attribut de bouclage de [`<!-- BEGIN google_analytics_code -->...<!-- END google
 <!-- END google_analytics_code -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/google_analytics_code.google_analytics_code_bis)
+##Description[*](https://fa-tvars.appspot.com/var/google_analytics_code.google_analytics_code_bis)
+Boucle liée à <!-- BEGIN google_analytics_code -->...<!-- END google_analytics_code -->.
 
 ## Utilisations dans les templates
 

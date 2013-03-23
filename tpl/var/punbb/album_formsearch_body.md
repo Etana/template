@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_formsearch_body.tpl)
-* __Avancement :__ 18/23
+* __Avancement :__ 19/23
 * __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_formsearch_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_formsearch_body)
@@ -22,7 +22,7 @@
 * __[`{L_SEARCH_PREVIOUS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_PREVIOUS.md#readme) :__ ligne [`40`](../../src/punbb/album_formsearch_body.tpl#L40)
 * __[`{L_SEARCH_QUERY}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_QUERY.md#readme) :__ ligne [`24`](../../src/punbb/album_formsearch_body.tpl#L24)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/album_formsearch_body.tpl#L5)
-* __[`{L_SEARCH_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_TITLE">*</a> :__ ligne [`20`](../../src/punbb/album_formsearch_body.tpl#L20)
+* __[`{L_SEARCH_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_TITLE.md#readme) :__ ligne [`20`](../../src/punbb/album_formsearch_body.tpl#L20)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`16`](../../src/punbb/album_formsearch_body.tpl#L16)
 * __[`{S_FORUM_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_FORUM_OPTIONS.md#readme) :__ ligne [`37`](../../src/punbb/album_formsearch_body.tpl#L37)
 * __[`{S_SEARCH_ACTION}`](https://github.com/Etana/template/blob/master/var/S_SEARCH_ACTION.md#readme) :__ ligne [`22`](../../src/punbb/album_formsearch_body.tpl#L22)

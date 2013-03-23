@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_search_body.tpl)
-* __Avancement :__ 12/37
+* __Avancement :__ 13/37
 * __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_search_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_search_body)
@@ -15,7 +15,7 @@
 * __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../../src/punbb/album_search_body.tpl#L12)
 * __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../../src/punbb/album_search_body.tpl#L12)
 * __[`{L_NRESULTS}`](https://github.com/Etana/template/blob/master/var/L_NRESULTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NRESULTS">*</a> :__ ligne [`25`](../../src/punbb/album_search_body.tpl#L25)
-* __[`{L_SEARCH_MATCHES}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_MATCHES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_MATCHES">*</a> :__ ligne [`25`](../../src/punbb/album_search_body.tpl#L25)
+* __[`{L_SEARCH_MATCHES}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_MATCHES.md#readme) :__ ligne [`25`](../../src/punbb/album_search_body.tpl#L25)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/album_search_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/album_search_body.tpl#L5)
 * __[`{L_TCATEGORY}`](https://github.com/Etana/template/blob/master/var/L_TCATEGORY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TCATEGORY">*</a> :__ ligne [`32`](../../src/punbb/album_search_body.tpl#L32)

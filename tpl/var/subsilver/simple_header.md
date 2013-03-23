@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/simple_header.tpl)
-* __Avancement :__ 13/14
+* __Avancement :__ 14/14
 * __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > simple_header }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/simple_header)
@@ -22,4 +22,4 @@
 * __[`{T_BODY_LINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_LINK.md#readme) :__ ligne [`13`](../../src/subsilver/simple_header.tpl#L13)
 * __[`{T_BODY_TEXT}`](https://github.com/Etana/template/blob/master/var/T_BODY_TEXT.md#readme) :__ ligne [`13`](../../src/subsilver/simple_header.tpl#L13)
 * __[`{T_BODY_VLINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_VLINK.md#readme) :__ ligne [`13`](../../src/subsilver/simple_header.tpl#L13)
-* __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)<a href="https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET">*</a> :__ ligne [`9`](../../src/subsilver/simple_header.tpl#L9)
+* __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`9`](../../src/subsilver/simple_header.tpl#L9)

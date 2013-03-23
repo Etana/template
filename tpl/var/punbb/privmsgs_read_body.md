@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/privmsgs_read_body.tpl)
-* __Avancement :__ 13/55
+* __Avancement :__ 16/55
 * __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_read_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/privmsgs_read_body)
@@ -53,9 +53,9 @@
 * __[`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/privmsgs_read_body.tpl#L5)
 * __[`{WWW_IMG}`](https://github.com/Etana/template/blob/master/var/WWW_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/WWW_IMG">*</a> :__ ligne [`69`](../../src/punbb/privmsgs_read_body.tpl#L69)
 * __[`{YIM_IMG}`](https://github.com/Etana/template/blob/master/var/YIM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/YIM_IMG">*</a> :__ ligne [`69`](../../src/punbb/privmsgs_read_body.tpl#L69)
-* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize">*</a> :__ ligne [`108`](../../src/punbb/privmsgs_read_body.tpl#L108)
-    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT">*</a> :__ ligne [`111`](../../src/punbb/privmsgs_read_body.tpl#L111)
-    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH">*</a> :__ ligne [`111`](../../src/punbb/privmsgs_read_body.tpl#L111)
+* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`108`](../../src/punbb/privmsgs_read_body.tpl#L108)
+    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme) :__ ligne [`111`](../../src/punbb/privmsgs_read_body.tpl#L111)
+    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme) :__ ligne [`111`](../../src/punbb/privmsgs_read_body.tpl#L111)
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`114`](../../src/punbb/privmsgs_read_body.tpl#L114)
 * __[`<!-- BEGIN switch_move_profile -->`](https://github.com/Etana/template/blob/master/var/switch_move_profile.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_move_profile">*</a> :__ ligne [`92`](../../src/punbb/privmsgs_read_body.tpl#L92)
 * __[`<!-- END switch_move_profile -->`](https://github.com/Etana/template/blob/master/var/switch_move_profile.md#readme) :__ ligne [`94`](../../src/punbb/privmsgs_read_body.tpl#L94)

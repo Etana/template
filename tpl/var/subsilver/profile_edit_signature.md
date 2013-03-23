@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/profile_edit_signature.tpl)
-* __Avancement :__ 1/8
+* __Avancement :__ 2/8
 * __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_edit_signature }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_edit_signature)
@@ -15,6 +15,6 @@
 * __[`{L_SIGNATURE}`](https://github.com/Etana/template/blob/master/var/L_SIGNATURE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SIGNATURE">*</a> :__ ligne [`25`](../../src/subsilver/profile_edit_signature.tpl#L25)
 * __[`{SIGNATURE_EDIT}`](https://github.com/Etana/template/blob/master/var/SIGNATURE_EDIT.md#readme)<a href="https://fa-tvars.appspot.com/var/SIGNATURE_EDIT">*</a> :__ ligne [`32`](../../src/subsilver/profile_edit_signature.tpl#L32)
 * __[`{SIGNATURE_PREVIEW}`](https://github.com/Etana/template/blob/master/var/SIGNATURE_PREVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/SIGNATURE_PREVIEW">*</a> :__ ligne [`26`](../../src/subsilver/profile_edit_signature.tpl#L26)
-* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme)<a href="https://fa-tvars.appspot.com/var/UCP_TABS">*</a> :__ ligne [`21`](../../src/subsilver/profile_edit_signature.tpl#L21)
+* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme) :__ ligne [`21`](../../src/subsilver/profile_edit_signature.tpl#L21)
 * __[`<!-- BEGIN switch_post_error -->`](https://github.com/Etana/template/blob/master/var/switch_post_error.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_post_error">*</a> :__ ligne [`1`](../../src/subsilver/profile_edit_signature.tpl#L1)
 * __[`<!-- END switch_post_error -->`](https://github.com/Etana/template/blob/master/var/switch_post_error.md#readme) :__ ligne [`20`](../../src/subsilver/profile_edit_signature.tpl#L20)

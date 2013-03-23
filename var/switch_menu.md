@@ -9,7 +9,8 @@ contenu
 <!-- END switch_menu -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_menu)
+##Description[*](https://fa-tvars.appspot.com/var/switch_menu)
+Boucle s'affichant si vous êtes dans les paramètres de vos sujets surveillés : `/search?search_id=watchsearch`.
 
 ## Utilisations dans les templates
 

@@ -9,7 +9,8 @@ contenu
 <!-- END switch_image_resize -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_image_resize)
+##Description[*](https://fa-tvars.appspot.com/var/switch_image_resize)
+Boucle s'affichant si l'option de redimensionnement des images est activée dans `PA > Général > Messages et Emails | Configuration > Redimensionnement des images`.
 
 ## Attributs
 * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)__

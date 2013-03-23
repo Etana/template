@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_recent_topics.tpl)
-* __Avancement :__ 0/33
+* __Avancement :__ 1/33
 * __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_recent_topics }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_recent_topics)
@@ -10,7 +10,7 @@
 ## Variables
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ lignes [`7`](../../src/punbb/mod_recent_topics.tpl#L7), [`38`](../../src/punbb/mod_recent_topics.tpl#L38)
-* __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/ICON_TIME">*</a> :__ ligne [`7`](../../src/punbb/mod_recent_topics.tpl#L7)
+* __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`7`](../../src/punbb/mod_recent_topics.tpl#L7)
 * __[`{L_RECENT_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_RECENT_TOPICS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RECENT_TOPICS">*</a> :__ lignes [`3`](../../src/punbb/mod_recent_topics.tpl#L3), [`35`](../../src/punbb/mod_recent_topics.tpl#L35)
 * __[`{ON}`](https://github.com/Etana/template/blob/master/var/ON.md#readme)<a href="https://fa-tvars.appspot.com/var/ON">*</a> :__ lignes [`48`](../../src/punbb/mod_recent_topics.tpl#L48), [`51`](../../src/punbb/mod_recent_topics.tpl#L51)
 * __[`{SCROLL_DELAY}`](https://github.com/Etana/template/blob/master/var/SCROLL_DELAY.md#readme)<a href="https://fa-tvars.appspot.com/var/SCROLL_DELAY">*</a> :__ ligne [`27`](../../src/punbb/mod_recent_topics.tpl#L27)

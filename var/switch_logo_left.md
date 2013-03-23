@@ -9,7 +9,8 @@ contenu
 <!-- END switch_logo_left -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_logo_left)
+##Description[*](https://fa-tvars.appspot.com/var/switch_logo_left)
+Boucle s'affichant si vous avez sélectionné "A gauche" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.
 
 ## Utilisations dans les templates
 

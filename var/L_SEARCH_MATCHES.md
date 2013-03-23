@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SEARCH_MATCHES}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_MATCHES)
+##Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_MATCHES)
+Chaîne de texte.
+
+* __Contenu en français :__ `X résultats trouvés pour Y`
 
 ## Utilisations dans les templates
 

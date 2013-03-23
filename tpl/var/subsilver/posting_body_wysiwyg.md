@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_body_wysiwyg.tpl)
-* __Avancement :__ 12/231
+* __Avancement :__ 15/231
 * __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_body_wysiwyg }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_body_wysiwyg)
@@ -216,9 +216,9 @@
         * __[`<!-- END cell -->`](https://github.com/Etana/template/blob/master/var/switch_icon_checkbox.row.cell.md#readme) :__ ligne [`352`](../../src/subsilver/posting_body_wysiwyg.tpl#L352)
     * __[`<!-- END row -->`](https://github.com/Etana/template/blob/master/var/switch_icon_checkbox.row.md#readme) :__ ligne [`354`](../../src/subsilver/posting_body_wysiwyg.tpl#L354)
 * __[`<!-- END switch_icon_checkbox -->`](https://github.com/Etana/template/blob/master/var/switch_icon_checkbox.md#readme) :__ ligne [`358`](../../src/subsilver/posting_body_wysiwyg.tpl#L358)
-* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize">*</a> :__ ligne [`858`](../../src/subsilver/posting_body_wysiwyg.tpl#L858)
-    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT">*</a> :__ ligne [`859`](../../src/subsilver/posting_body_wysiwyg.tpl#L859)
-    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH">*</a> :__ ligne [`859`](../../src/subsilver/posting_body_wysiwyg.tpl#L859)
+* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`858`](../../src/subsilver/posting_body_wysiwyg.tpl#L858)
+    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme) :__ ligne [`859`](../../src/subsilver/posting_body_wysiwyg.tpl#L859)
+    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme) :__ ligne [`859`](../../src/subsilver/posting_body_wysiwyg.tpl#L859)
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`860`](../../src/subsilver/posting_body_wysiwyg.tpl#L860)
 * __[`<!-- BEGIN switch_not_privmsg -->`](https://github.com/Etana/template/blob/master/var/switch_not_privmsg.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_not_privmsg">*</a> :__ ligne [`39`](../../src/subsilver/posting_body_wysiwyg.tpl#L39)
 * __[`<!-- END switch_not_privmsg -->`](https://github.com/Etana/template/blob/master/var/switch_not_privmsg.md#readme) :__ ligne [`39`](../../src/subsilver/posting_body_wysiwyg.tpl#L39)

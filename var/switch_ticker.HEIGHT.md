@@ -10,7 +10,7 @@ Attribut d'affichage de [`<!-- BEGIN switch_ticker -->...<!-- END switch_ticker 
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/switch_ticker.HEIGHT)
-
+Contient la hauteur des annonces définie dans `PA > Général > Messages et Emails | Annonces > Hauteur de la zone d'annonces (en pixels)`.
 
 ## Utilisations dans les templates
 

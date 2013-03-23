@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_SEARCH_TITLE}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SEARCH_TITLE)
+##Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_TITLE)
+Chaîne de texte.
+
+* __Contenu en français :__ `Recherche avancée`
 
 ## Utilisations dans les templates
 

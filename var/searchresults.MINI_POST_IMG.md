@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults 
 <!-- END searchresults -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.MINI_POST_IMG)
+##Description[*](https://fa-tvars.appspot.com/var/searchresults.MINI_POST_IMG)
+Contient la petite image des sujets définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > Mini sujet`.
 
 ## Utilisations dans les templates
 

@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults 
 <!-- END searchresults -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.MESSAGE)
+##Description[*](https://fa-tvars.appspot.com/var/searchresults.MESSAGE)
+Contient le contenu du message posté.
 
 ## Utilisations dans les templates
 

@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/rpg_sheet_edit.tpl)
-* __Avancement :__ 7/28
+* __Avancement :__ 8/28
 * __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > rpg_sheet_edit }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/rpg_sheet_edit)
@@ -24,7 +24,7 @@
 * __[`{L_VIEWING_PROFILE}`](https://github.com/Etana/template/blob/master/var/L_VIEWING_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEWING_PROFILE">*</a> :__ ligne [`20`](../../src/punbb/rpg_sheet_edit.tpl#L20)
 * __[`{POSTER_RANK}`](https://github.com/Etana/template/blob/master/var/POSTER_RANK.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER_RANK">*</a> :__ ligne [`27`](../../src/punbb/rpg_sheet_edit.tpl#L27)
 * __[`{RPG_IMAGE}`](https://github.com/Etana/template/blob/master/var/RPG_IMAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/RPG_IMAGE">*</a> :__ ligne [`28`](../../src/punbb/rpg_sheet_edit.tpl#L28)
-* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme)<a href="https://fa-tvars.appspot.com/var/UCP_TABS">*</a> :__ ligne [`17`](../../src/punbb/rpg_sheet_edit.tpl#L17)
+* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme) :__ ligne [`17`](../../src/punbb/rpg_sheet_edit.tpl#L17)
 * __[`{U_ADMIN_RPG}`](https://github.com/Etana/template/blob/master/var/U_ADMIN_RPG.md#readme)<a href="https://fa-tvars.appspot.com/var/U_ADMIN_RPG">*</a> :__ ligne [`23`](../../src/punbb/rpg_sheet_edit.tpl#L23)
 * __[`{U_ID}`](https://github.com/Etana/template/blob/master/var/U_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/U_ID">*</a> :__ ligne [`63`](../../src/punbb/rpg_sheet_edit.tpl#L63)
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/rpg_sheet_edit.tpl#L4)

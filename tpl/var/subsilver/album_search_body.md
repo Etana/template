@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/album_search_body.tpl)
-* __Avancement :__ 4/31
+* __Avancement :__ 5/31
 * __Chemin :__ {{/admin/index.forum?mode=gallery&part=themes&sub=templates > album_search_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/album_search_body)
@@ -13,7 +13,7 @@
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ ligne [`13`](../../src/subsilver/album_search_body.tpl#L13)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`12`](../../src/subsilver/album_search_body.tpl#L12)
 * __[`{L_NRESULTS}`](https://github.com/Etana/template/blob/master/var/L_NRESULTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NRESULTS">*</a> :__ ligne [`6`](../../src/subsilver/album_search_body.tpl#L6)
-* __[`{L_SEARCH_MATCHES}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_MATCHES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_MATCHES">*</a> :__ ligne [`6`](../../src/subsilver/album_search_body.tpl#L6)
+* __[`{L_SEARCH_MATCHES}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_MATCHES.md#readme) :__ ligne [`6`](../../src/subsilver/album_search_body.tpl#L6)
 * __[`{L_TCATEGORY}`](https://github.com/Etana/template/blob/master/var/L_TCATEGORY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TCATEGORY">*</a> :__ ligne [`23`](../../src/subsilver/album_search_body.tpl#L23)
 * __[`{L_TDESC}`](https://github.com/Etana/template/blob/master/var/L_TDESC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TDESC">*</a> :__ ligne [`24`](../../src/subsilver/album_search_body.tpl#L24)
 * __[`{L_TRESULTS}`](https://github.com/Etana/template/blob/master/var/L_TRESULTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TRESULTS">*</a> :__ ligne [`6`](../../src/subsilver/album_search_body.tpl#L6)

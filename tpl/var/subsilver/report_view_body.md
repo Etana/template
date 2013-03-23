@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/report_view_body.tpl)
-* __Avancement :__ 4/36
+* __Avancement :__ 5/36
 * __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_view_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/report_view_body)
@@ -22,7 +22,7 @@
 * __[`{L_STATUS}`](https://github.com/Etana/template/blob/master/var/L_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_STATUS">*</a> :__ ligne [`10`](../../src/subsilver/report_view_body.tpl#L10)
 * __[`{L_UPDATE_STATUS}`](https://github.com/Etana/template/blob/master/var/L_UPDATE_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPDATE_STATUS">*</a> :__ ligne [`35`](../../src/subsilver/report_view_body.tpl#L35)
 * __[`{REPORT_NAVARROW}`](https://github.com/Etana/template/blob/master/var/REPORT_NAVARROW.md#readme)<a href="https://fa-tvars.appspot.com/var/REPORT_NAVARROW">*</a> :__ lignes [`1`](../../src/subsilver/report_view_body.tpl#L1), [`3`](../../src/subsilver/report_view_body.tpl#L3), [`5`](../../src/subsilver/report_view_body.tpl#L5)
-* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_ACTION">*</a> :__ ligne [`34`](../../src/subsilver/report_view_body.tpl#L34)
+* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme) :__ ligne [`34`](../../src/subsilver/report_view_body.tpl#L34)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`34`](../../src/subsilver/report_view_body.tpl#L34)
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`1`](../../src/subsilver/report_view_body.tpl#L1)
 * __[`{U_REPORT_ARCHIVE}`](https://github.com/Etana/template/blob/master/var/U_REPORT_ARCHIVE.md#readme)<a href="https://fa-tvars.appspot.com/var/U_REPORT_ARCHIVE">*</a> :__ ligne [`3`](../../src/subsilver/report_view_body.tpl#L3)

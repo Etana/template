@@ -9,7 +9,10 @@ Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults 
 <!-- END searchresults -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
+##Description[*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
+Chaîne de texte.
+
+* __Contenu en français :__ ` [ Aller à la page: X, Y, ... ] `
 
 ## Utilisations dans les templates
 

@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/mod_news.tpl)
-* __Avancement :__ 0/35
+* __Avancement :__ 3/35
 * __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_news }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/mod_news)
@@ -48,7 +48,7 @@
         * __[`<!-- END switch_post_attachments -->`](https://github.com/Etana/template/blob/master/var/post_row.switch_attachments.switch_post_attachments.md#readme) :__ ligne [`46`](../../src/punbb/mod_news.tpl#L46)
     * __[`<!-- END switch_attachments -->`](https://github.com/Etana/template/blob/master/var/post_row.switch_attachments.md#readme) :__ ligne [`49`](../../src/punbb/mod_news.tpl#L49)
 * __[`<!-- END post_row -->`](https://github.com/Etana/template/blob/master/var/post_row.md#readme) :__ ligne [`58`](../../src/punbb/mod_news.tpl#L58)
-* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize">*</a> :__ ligne [`60`](../../src/punbb/mod_news.tpl#L60)
-    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT">*</a> :__ ligne [`63`](../../src/punbb/mod_news.tpl#L63)
-    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH">*</a> :__ ligne [`63`](../../src/punbb/mod_news.tpl#L63)
+* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`60`](../../src/punbb/mod_news.tpl#L60)
+    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme) :__ ligne [`63`](../../src/punbb/mod_news.tpl#L63)
+    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme) :__ ligne [`63`](../../src/punbb/mod_news.tpl#L63)
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`66`](../../src/punbb/mod_news.tpl#L66)

@@ -9,7 +9,8 @@ contenu
 <!-- END switch_logo_center -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_logo_center)
+##Description[*](https://fa-tvars.appspot.com/var/switch_logo_center)
+Boucle s'affichant si vous avez sélectionné "Centré" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.
 
 ## Utilisations dans les templates
 

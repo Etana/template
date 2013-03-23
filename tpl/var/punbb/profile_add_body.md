@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/profile_add_body.tpl)
-* __Avancement :__ 15/200
+* __Avancement :__ 16/200
 * __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_add_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_add_body)
@@ -136,7 +136,7 @@
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`412`](../../src/punbb/profile_add_body.tpl#L412)
 * __[`{S_PROFILE_ACTION}`](https://github.com/Etana/template/blob/master/var/S_PROFILE_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_PROFILE_ACTION">*</a> :__ ligne [`24`](../../src/punbb/profile_add_body.tpl#L24)
 * __[`{TIMEZONE_SELECT}`](https://github.com/Etana/template/blob/master/var/TIMEZONE_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/TIMEZONE_SELECT">*</a> :__ ligne [`341`](../../src/punbb/profile_add_body.tpl#L341)
-* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme)<a href="https://fa-tvars.appspot.com/var/UCP_TABS">*</a> :__ ligne [`21`](../../src/punbb/profile_add_body.tpl#L21)
+* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme) :__ ligne [`21`](../../src/punbb/profile_add_body.tpl#L21)
 * __[`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/USERNAME">*</a> :__ lignes [`33`](../../src/punbb/profile_add_body.tpl#L33), [`33`](../../src/punbb/profile_add_body.tpl#L33), [`39`](../../src/punbb/profile_add_body.tpl#L39)
 * __[`{USER_WYSIWYG_NO}`](https://github.com/Etana/template/blob/master/var/USER_WYSIWYG_NO.md#readme)<a href="https://fa-tvars.appspot.com/var/USER_WYSIWYG_NO">*</a> :__ ligne [`306`](../../src/punbb/profile_add_body.tpl#L306)
 * __[`{USER_WYSIWYG_YES}`](https://github.com/Etana/template/blob/master/var/USER_WYSIWYG_YES.md#readme)<a href="https://fa-tvars.appspot.com/var/USER_WYSIWYG_YES">*</a> :__ ligne [`305`](../../src/punbb/profile_add_body.tpl#L305)

@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/merge_select_body.tpl)
-* __Avancement :__ 10/17
+* __Avancement :__ 11/17
 * __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > merge_select_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/merge_select_body)
@@ -19,7 +19,7 @@
 * __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`30`](../../src/punbb/merge_select_body.tpl#L30)
 * __[`{MERGE_BOX}`](https://github.com/Etana/template/blob/master/var/MERGE_BOX.md#readme)<a href="https://fa-tvars.appspot.com/var/MERGE_BOX">*</a> :__ ligne [`23`](../../src/punbb/merge_select_body.tpl#L23)
 * __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`19`](../../src/punbb/merge_select_body.tpl#L19), [`26`](../../src/punbb/merge_select_body.tpl#L26)
-* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_ACTION">*</a> :__ ligne [`17`](../../src/punbb/merge_select_body.tpl#L17)
+* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme) :__ ligne [`17`](../../src/punbb/merge_select_body.tpl#L17)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`31`](../../src/punbb/merge_select_body.tpl#L31)
 * __[`{S_LIST_FORUMS}`](https://github.com/Etana/template/blob/master/var/S_LIST_FORUMS.md#readme)<a href="https://fa-tvars.appspot.com/var/S_LIST_FORUMS">*</a> :__ ligne [`20`](../../src/punbb/merge_select_body.tpl#L20)
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/merge_select_body.tpl#L4)

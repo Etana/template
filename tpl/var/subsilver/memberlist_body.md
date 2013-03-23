@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/memberlist_body.tpl)
-* __Avancement :__ 37/40
+* __Avancement :__ 40/40
 * __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > memberlist_body }}
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/memberlist_body)
@@ -13,7 +13,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 ## Variables
 
 * __[`{L_AVATAR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR.md#readme) :__ ligne [`24`](../../src/subsilver/memberlist_body.tpl#L24)
-* __[`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_GROUPS">*</a> :__ ligne [`27`](../../src/subsilver/memberlist_body.tpl#L27)
+* __[`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme) :__ ligne [`27`](../../src/subsilver/memberlist_body.tpl#L27)
 * __[`{L_INTERESTS}`](https://github.com/Etana/template/blob/master/var/L_INTERESTS.md#readme) :__ ligne [`29`](../../src/subsilver/memberlist_body.tpl#L29)
 * __[`{L_JOINED}`](https://github.com/Etana/template/blob/master/var/L_JOINED.md#readme) :__ ligne [`30`](../../src/subsilver/memberlist_body.tpl#L30)
 * __[`{L_ORDER}`](https://github.com/Etana/template/blob/master/var/L_ORDER.md#readme) :__ ligne [`12`](../../src/subsilver/memberlist_body.tpl#L12)
@@ -46,7 +46,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
     * __[`{memberrow.USERNAME}`](https://github.com/Etana/template/blob/master/var/memberrow.USERNAME.md#readme) :__ ligne [`40`](../../src/subsilver/memberlist_body.tpl#L40)
     * __[`{memberrow.U_VIEWPROFILE}`](https://github.com/Etana/template/blob/master/var/memberrow.U_VIEWPROFILE.md#readme) :__ lignes [`39`](../../src/subsilver/memberlist_body.tpl#L39), [`40`](../../src/subsilver/memberlist_body.tpl#L40)
     * __[`{memberrow.WWW_IMG}`](https://github.com/Etana/template/blob/master/var/memberrow.WWW_IMG.md#readme) :__ ligne [`49`](../../src/subsilver/memberlist_body.tpl#L49)
-    * __[`<!-- BEGIN switch_td_group -->`](https://github.com/Etana/template/blob/master/var/memberrow.switch_td_group.md#readme)<a href="https://fa-tvars.appspot.com/var/memberrow.switch_td_group">*</a> :__ ligne [`41`](../../src/subsilver/memberlist_body.tpl#L41)
+    * __[`<!-- BEGIN switch_td_group -->`](https://github.com/Etana/template/blob/master/var/memberrow.switch_td_group.md#readme) :__ ligne [`41`](../../src/subsilver/memberlist_body.tpl#L41)
     * __[`<!-- END switch_td_group -->`](https://github.com/Etana/template/blob/master/var/memberrow.switch_td_group.md#readme) :__ ligne [`43`](../../src/subsilver/memberlist_body.tpl#L43)
 * __[`<!-- END memberrow -->`](https://github.com/Etana/template/blob/master/var/memberrow.md#readme) :__ ligne [`51`](../../src/subsilver/memberlist_body.tpl#L51)
 * __[`<!-- BEGIN switch_no_user -->`](https://github.com/Etana/template/blob/master/var/switch_no_user.md#readme) :__ ligne [`52`](../../src/subsilver/memberlist_body.tpl#L52)
@@ -55,5 +55,5 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 * __[`<!-- END switch_no_user -->`](https://github.com/Etana/template/blob/master/var/switch_no_user.md#readme) :__ ligne [`56`](../../src/subsilver/memberlist_body.tpl#L56)
 * __[`<!-- BEGIN switch_pagination -->`](https://github.com/Etana/template/blob/master/var/switch_pagination.md#readme) :__ ligne [`58`](../../src/subsilver/memberlist_body.tpl#L58)
 * __[`<!-- END switch_pagination -->`](https://github.com/Etana/template/blob/master/var/switch_pagination.md#readme) :__ ligne [`66`](../../src/subsilver/memberlist_body.tpl#L66)
-* __[`<!-- BEGIN switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_th_group">*</a> :__ ligne [`26`](../../src/subsilver/memberlist_body.tpl#L26)
+* __[`<!-- BEGIN switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme) :__ ligne [`26`](../../src/subsilver/memberlist_body.tpl#L26)
 * __[`<!-- END switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme) :__ ligne [`28`](../../src/subsilver/memberlist_body.tpl#L28)

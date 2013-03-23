@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN switch_report_popup -->...<!-- END switch_r
 <!-- END switch_report_popup -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup.U_REPORT_POPUP)
+##Description[*](https://fa-tvars.appspot.com/var/switch_report_popup.U_REPORT_POPUP)
+Adresse URL du popup d'avertissement d'un nouveau rapport : `/report?mode=popup`.
 
 ## Utilisations dans les templates
 

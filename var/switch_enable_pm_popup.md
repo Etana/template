@@ -9,7 +9,8 @@ contenu
 <!-- END switch_enable_pm_popup -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
+##Description[*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
+Boucle s'affichant lors de la réception d'un message privé si l'utilisateur a coché "Oui" à l'option `Profil > Préférences > Ouverture d'une Pop-Up lors de nouveaux Messages Privés`.
 
 ## Utilisations dans les templates
 

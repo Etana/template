@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/merge_body.tpl)
-* __Avancement :__ 6/21
+* __Avancement :__ 7/21
 * __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > merge_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/merge_body)
@@ -24,7 +24,7 @@
 * __[`{L_TO_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_TO_TOPIC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TO_TOPIC">*</a> :__ ligne [`23`](../../src/subsilver/merge_body.tpl#L23)
 * __[`{L_TO_TOPIC_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_TO_TOPIC_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TO_TOPIC_EXPLAIN">*</a> :__ ligne [`24`](../../src/subsilver/merge_body.tpl#L24)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`4`](../../src/subsilver/merge_body.tpl#L4)
-* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_ACTION">*</a> :__ ligne [`1`](../../src/subsilver/merge_body.tpl#L1)
+* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme) :__ ligne [`1`](../../src/subsilver/merge_body.tpl#L1)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`30`](../../src/subsilver/merge_body.tpl#L30)
 * __[`{TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/TOPIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/TOPIC_TITLE">*</a> :__ ligne [`14`](../../src/subsilver/merge_body.tpl#L14)
 * __[`{TO_TOPIC}`](https://github.com/Etana/template/blob/master/var/TO_TOPIC.md#readme)<a href="https://fa-tvars.appspot.com/var/TO_TOPIC">*</a> :__ ligne [`25`](../../src/subsilver/merge_body.tpl#L25)

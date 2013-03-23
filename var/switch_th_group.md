@@ -9,7 +9,8 @@ contenu
 <!-- END switch_th_group -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_th_group)
+##Description[*](https://fa-tvars.appspot.com/var/switch_th_group)
+Boucle affichant le titre de la colonne des groupes dans la liste des membres si vous triez les membres par "Groupes".
 
 ## Utilisations dans les templates
 

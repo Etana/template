@@ -7,7 +7,8 @@ Variable d'affichage.
 {ICON_TIME}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ICON_TIME)
+##Description[*](https://fa-tvars.appspot.com/var/ICON_TIME)
+Contient l'image de la petite horloge définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > Mini horloge`.
 
 ## Utilisations dans les templates
 

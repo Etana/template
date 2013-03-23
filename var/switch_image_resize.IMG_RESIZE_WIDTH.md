@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN switch_image_resize -->...<!-- END switch_i
 <!-- END switch_image_resize -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH)
+##Description[*](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH)
+Contient la largeur du redimensionnement des images définie dans `PA > Général > Messages et Emails | Configuration > Redimensionnement des images > Largeur`.
 
 ## Utilisations dans les templates
 

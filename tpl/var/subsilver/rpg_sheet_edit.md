@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/rpg_sheet_edit.tpl)
-* __Avancement :__ 0/21
+* __Avancement :__ 2/21
 * __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > rpg_sheet_edit }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/rpg_sheet_edit)
@@ -19,7 +19,7 @@
 * __[`{L_VIEWING_PROFILE}`](https://github.com/Etana/template/blob/master/var/L_VIEWING_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEWING_PROFILE">*</a> :__ ligne [`6`](../../src/subsilver/rpg_sheet_edit.tpl#L6)
 * __[`{POSTER_RANK}`](https://github.com/Etana/template/blob/master/var/POSTER_RANK.md#readme)<a href="https://fa-tvars.appspot.com/var/POSTER_RANK">*</a> :__ ligne [`11`](../../src/subsilver/rpg_sheet_edit.tpl#L11)
 * __[`{RPG_IMAGE}`](https://github.com/Etana/template/blob/master/var/RPG_IMAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/RPG_IMAGE">*</a> :__ ligne [`12`](../../src/subsilver/rpg_sheet_edit.tpl#L12)
-* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme)<a href="https://fa-tvars.appspot.com/var/UCP_TABS">*</a> :__ ligne [`2`](../../src/subsilver/rpg_sheet_edit.tpl#L2)
+* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme) :__ ligne [`2`](../../src/subsilver/rpg_sheet_edit.tpl#L2)
 * __[`{U_ADMIN_RPG}`](https://github.com/Etana/template/blob/master/var/U_ADMIN_RPG.md#readme)<a href="https://fa-tvars.appspot.com/var/U_ADMIN_RPG">*</a> :__ ligne [`10`](../../src/subsilver/rpg_sheet_edit.tpl#L10)
 * __[`{U_ID}`](https://github.com/Etana/template/blob/master/var/U_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/U_ID">*</a> :__ ligne [`62`](../../src/subsilver/rpg_sheet_edit.tpl#L62)
 * __[`<!-- BEGIN rpg_fields -->`](https://github.com/Etana/template/blob/master/var/rpg_fields.md#readme)<a href="https://fa-tvars.appspot.com/var/rpg_fields">*</a> :__ ligne [`47`](../../src/subsilver/rpg_sheet_edit.tpl#L47)
@@ -31,5 +31,5 @@
     * __[`{rpg_fields_left.F_NAME}`](https://github.com/Etana/template/blob/master/var/rpg_fields_left.F_NAME.md#readme)<a href="https://fa-tvars.appspot.com/var/rpg_fields_left.F_NAME">*</a> :__ ligne [`33`](../../src/subsilver/rpg_sheet_edit.tpl#L33)
     * __[`{rpg_fields_left.F_VALUE}`](https://github.com/Etana/template/blob/master/var/rpg_fields_left.F_VALUE.md#readme)<a href="https://fa-tvars.appspot.com/var/rpg_fields_left.F_VALUE">*</a> :__ ligne [`34`](../../src/subsilver/rpg_sheet_edit.tpl#L34)
 * __[`<!-- END rpg_fields_left -->`](https://github.com/Etana/template/blob/master/var/rpg_fields_left.md#readme) :__ ligne [`36`](../../src/subsilver/rpg_sheet_edit.tpl#L36)
-* __[`<!-- BEGIN switch_menu -->`](https://github.com/Etana/template/blob/master/var/switch_menu.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_menu">*</a> :__ ligne [`1`](../../src/subsilver/rpg_sheet_edit.tpl#L1)
+* __[`<!-- BEGIN switch_menu -->`](https://github.com/Etana/template/blob/master/var/switch_menu.md#readme) :__ ligne [`1`](../../src/subsilver/rpg_sheet_edit.tpl#L1)
 * __[`<!-- END switch_menu -->`](https://github.com/Etana/template/blob/master/var/switch_menu.md#readme) :__ ligne [`3`](../../src/subsilver/rpg_sheet_edit.tpl#L3)

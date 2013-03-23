@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_VIEWS}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_VIEWS)
+##Description[*](https://fa-tvars.appspot.com/var/L_VIEWS)
+Chaîne de texte.
+
+* __Contenu en français :__ `Réponses`
 
 ## Utilisations dans les templates
 

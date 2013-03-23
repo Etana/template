@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_news.tpl)
-* __Avancement :__ 0/35
+* __Avancement :__ 4/35
 * __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_news }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_news)
@@ -10,7 +10,7 @@
 ## Variables
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ ligne [`14`](../../src/subsilver/mod_news.tpl#L14)
-* __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/ICON_TIME">*</a> :__ ligne [`14`](../../src/subsilver/mod_news.tpl#L14)
+* __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`14`](../../src/subsilver/mod_news.tpl#L14)
 * __[`{L_COMMENTS}`](https://github.com/Etana/template/blob/master/var/L_COMMENTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_COMMENTS">*</a> :__ ligne [`65`](../../src/subsilver/mod_news.tpl#L65)
 * __[`<!-- BEGIN post_row -->`](https://github.com/Etana/template/blob/master/var/post_row.md#readme)<a href="https://fa-tvars.appspot.com/var/post_row">*</a> :__ ligne [`1`](../../src/subsilver/mod_news.tpl#L1)
     * __[`{post_row.CLOSE}`](https://github.com/Etana/template/blob/master/var/post_row.CLOSE.md#readme)<a href="https://fa-tvars.appspot.com/var/post_row.CLOSE">*</a> :__ ligne [`60`](../../src/subsilver/mod_news.tpl#L60)
@@ -48,7 +48,7 @@
         * __[`<!-- END switch_post_attachments -->`](https://github.com/Etana/template/blob/master/var/post_row.switch_attachments.switch_post_attachments.md#readme) :__ ligne [`53`](../../src/subsilver/mod_news.tpl#L53)
     * __[`<!-- END switch_attachments -->`](https://github.com/Etana/template/blob/master/var/post_row.switch_attachments.md#readme) :__ ligne [`56`](../../src/subsilver/mod_news.tpl#L56)
 * __[`<!-- END post_row -->`](https://github.com/Etana/template/blob/master/var/post_row.md#readme) :__ ligne [`67`](../../src/subsilver/mod_news.tpl#L67)
-* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize">*</a> :__ ligne [`69`](../../src/subsilver/mod_news.tpl#L69)
-    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT">*</a> :__ ligne [`72`](../../src/subsilver/mod_news.tpl#L72)
-    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH">*</a> :__ ligne [`72`](../../src/subsilver/mod_news.tpl#L72)
+* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`69`](../../src/subsilver/mod_news.tpl#L69)
+    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme) :__ ligne [`72`](../../src/subsilver/mod_news.tpl#L72)
+    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme) :__ ligne [`72`](../../src/subsilver/mod_news.tpl#L72)
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`75`](../../src/subsilver/mod_news.tpl#L75)

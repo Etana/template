@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_recent_topics.tpl)
-* __Avancement :__ 0/32
+* __Avancement :__ 1/32
 * __Chemin :__ {{/admin/index.forum?mode=portal&part=themes&sub=templates > mod_recent_topics }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_recent_topics)
@@ -10,7 +10,7 @@
 ## Variables
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ lignes [`12`](../../src/subsilver/mod_recent_topics.tpl#L12), [`47`](../../src/subsilver/mod_recent_topics.tpl#L47)
-* __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/ICON_TIME">*</a> :__ ligne [`12`](../../src/subsilver/mod_recent_topics.tpl#L12)
+* __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`12`](../../src/subsilver/mod_recent_topics.tpl#L12)
 * __[`{L_RECENT_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_RECENT_TOPICS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RECENT_TOPICS">*</a> :__ lignes [`5`](../../src/subsilver/mod_recent_topics.tpl#L5), [`42`](../../src/subsilver/mod_recent_topics.tpl#L42)
 * __[`{ON}`](https://github.com/Etana/template/blob/master/var/ON.md#readme)<a href="https://fa-tvars.appspot.com/var/ON">*</a> :__ lignes [`57`](../../src/subsilver/mod_recent_topics.tpl#L57), [`60`](../../src/subsilver/mod_recent_topics.tpl#L60)
 * __[`{SCROLL_DELAY}`](https://github.com/Etana/template/blob/master/var/SCROLL_DELAY.md#readme)<a href="https://fa-tvars.appspot.com/var/SCROLL_DELAY">*</a> :__ ligne [`33`](../../src/subsilver/mod_recent_topics.tpl#L33)

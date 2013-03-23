@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/report_view_body.tpl)
-* __Avancement :__ 12/46
+* __Avancement :__ 13/46
 * __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_view_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/report_view_body)
@@ -28,7 +28,7 @@
 * __[`{L_STATUS}`](https://github.com/Etana/template/blob/master/var/L_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_STATUS">*</a> :__ ligne [`38`](../../src/punbb/report_view_body.tpl#L38)
 * __[`{L_UPDATE_STATUS}`](https://github.com/Etana/template/blob/master/var/L_UPDATE_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UPDATE_STATUS">*</a> :__ ligne [`64`](../../src/punbb/report_view_body.tpl#L64)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`18`](../../src/punbb/report_view_body.tpl#L18)
-* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_ACTION">*</a> :__ ligne [`58`](../../src/punbb/report_view_body.tpl#L58)
+* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme) :__ ligne [`58`](../../src/punbb/report_view_body.tpl#L58)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`61`](../../src/punbb/report_view_body.tpl#L61)
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`18`](../../src/punbb/report_view_body.tpl#L18)
 * __[`{U_REPORT_ARCHIVE}`](https://github.com/Etana/template/blob/master/var/U_REPORT_ARCHIVE.md#readme)<a href="https://fa-tvars.appspot.com/var/U_REPORT_ARCHIVE">*</a> :__ ligne [`20`](../../src/punbb/report_view_body.tpl#L20)

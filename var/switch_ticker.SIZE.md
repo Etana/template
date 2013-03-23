@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN switch_ticker -->...<!-- END switch_ticker 
 <!-- END switch_ticker -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_ticker.SIZE)
+##Description[*](https://fa-tvars.appspot.com/var/switch_ticker.SIZE)
+Variable non utilisée.
 
 ## Utilisations dans les templates
 

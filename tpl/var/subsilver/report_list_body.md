@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/report_list_body.tpl)
-* __Avancement :__ 5/49
+* __Avancement :__ 6/49
 * __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > report_list_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/report_list_body)
@@ -35,7 +35,7 @@
 * __[`{ORDER_SELECT}`](https://github.com/Etana/template/blob/master/var/ORDER_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/ORDER_SELECT">*</a> :__ ligne [`9`](../../src/subsilver/report_list_body.tpl#L9)
 * __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`62`](../../src/subsilver/report_list_body.tpl#L62)
 * __[`{REPORT_NAVARROW}`](https://github.com/Etana/template/blob/master/var/REPORT_NAVARROW.md#readme)<a href="https://fa-tvars.appspot.com/var/REPORT_NAVARROW">*</a> :__ lignes [`4`](../../src/subsilver/report_list_body.tpl#L4), [`6`](../../src/subsilver/report_list_body.tpl#L6)
-* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_ACTION">*</a> :__ ligne [`2`](../../src/subsilver/report_list_body.tpl#L2)
+* __[`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme) :__ ligne [`2`](../../src/subsilver/report_list_body.tpl#L2)
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`2`](../../src/subsilver/report_list_body.tpl#L2)
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`4`](../../src/subsilver/report_list_body.tpl#L4)
 * __[`{U_REPORT_ARCHIVE}`](https://github.com/Etana/template/blob/master/var/U_REPORT_ARCHIVE.md#readme)<a href="https://fa-tvars.appspot.com/var/U_REPORT_ARCHIVE">*</a> :__ lignes [`6`](../../src/subsilver/report_list_body.tpl#L6), [`55`](../../src/subsilver/report_list_body.tpl#L55)

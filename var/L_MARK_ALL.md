@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_MARK_ALL}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MARK_ALL)
+##Description[*](https://fa-tvars.appspot.com/var/L_MARK_ALL)
+Chaîne de texte.
+
+* __Contenu en français :__ `Tout sélectionner`
 
 ## Utilisations dans les templates
 

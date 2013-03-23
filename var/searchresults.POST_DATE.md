@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults 
 <!-- END searchresults -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
+##Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
+Contient la date du message posté.
 
 ## Utilisations dans les templates
 

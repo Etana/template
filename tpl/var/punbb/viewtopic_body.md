@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/viewtopic_body.tpl)
-* __Avancement :__ 38/155
+* __Avancement :__ 41/155
 * __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > viewtopic_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/viewtopic_body)
@@ -174,9 +174,9 @@
     * __[`<!-- BEGIN switch_forum_rule_image -->`](https://github.com/Etana/template/blob/master/var/switch_forum_rules.switch_forum_rule_image.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image">*</a> :__ ligne [`324`](../../src/punbb/viewtopic_body.tpl#L324)
     * __[`<!-- END switch_forum_rule_image -->`](https://github.com/Etana/template/blob/master/var/switch_forum_rules.switch_forum_rule_image.md#readme) :__ ligne [`328`](../../src/punbb/viewtopic_body.tpl#L328)
 * __[`<!-- END switch_forum_rules -->`](https://github.com/Etana/template/blob/master/var/switch_forum_rules.md#readme) :__ ligne [`335`](../../src/punbb/viewtopic_body.tpl#L335)
-* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize">*</a> :__ ligne [`350`](../../src/punbb/viewtopic_body.tpl#L350)
-    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT">*</a> :__ ligne [`353`](../../src/punbb/viewtopic_body.tpl#L353)
-    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH">*</a> :__ ligne [`353`](../../src/punbb/viewtopic_body.tpl#L353)
+* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`350`](../../src/punbb/viewtopic_body.tpl#L350)
+    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme) :__ ligne [`353`](../../src/punbb/viewtopic_body.tpl#L353)
+    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme) :__ ligne [`353`](../../src/punbb/viewtopic_body.tpl#L353)
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`356`](../../src/punbb/viewtopic_body.tpl#L356)
 * __[`<!-- BEGIN switch_twitter_btn -->`](https://github.com/Etana/template/blob/master/var/switch_twitter_btn.md#readme) :__ ligne [`80`](../../src/punbb/viewtopic_body.tpl#L80)
 * __[`<!-- END switch_twitter_btn -->`](https://github.com/Etana/template/blob/master/var/switch_twitter_btn.md#readme) :__ ligne [`85`](../../src/punbb/viewtopic_body.tpl#L85)

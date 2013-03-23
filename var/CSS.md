@@ -7,7 +7,8 @@ Variable d'affichage.
 {CSS}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/CSS)
+##Description[*](https://fa-tvars.appspot.com/var/CSS)
+Utilisé pour afficher le CSS lors des prévisualisations.
 
 ## Utilisations dans les templates
 

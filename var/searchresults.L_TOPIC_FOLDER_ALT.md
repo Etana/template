@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults 
 <!-- END searchresults -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.L_TOPIC_FOLDER_ALT)
+##Description[*](https://fa-tvars.appspot.com/var/searchresults.L_TOPIC_FOLDER_ALT)
+Contient l'information sur l'image du sujet.
 
 ## Utilisations dans les templates
 

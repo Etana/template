@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/profile_add_body.tpl)
-* __Avancement :__ 6/168
+* __Avancement :__ 7/168
 * __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_add_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/profile_add_body)
@@ -118,7 +118,7 @@
 * __[`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`356`](../../src/subsilver/profile_add_body.tpl#L356)
 * __[`{S_PROFILE_ACTION}`](https://github.com/Etana/template/blob/master/var/S_PROFILE_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_PROFILE_ACTION">*</a> :__ ligne [`6`](../../src/subsilver/profile_add_body.tpl#L6)
 * __[`{TIMEZONE_SELECT}`](https://github.com/Etana/template/blob/master/var/TIMEZONE_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/TIMEZONE_SELECT">*</a> :__ ligne [`301`](../../src/subsilver/profile_add_body.tpl#L301)
-* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme)<a href="https://fa-tvars.appspot.com/var/UCP_TABS">*</a> :__ ligne [`3`](../../src/subsilver/profile_add_body.tpl#L3)
+* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme) :__ ligne [`3`](../../src/subsilver/profile_add_body.tpl#L3)
 * __[`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/USERNAME">*</a> :__ lignes [`18`](../../src/subsilver/profile_add_body.tpl#L18), [`18`](../../src/subsilver/profile_add_body.tpl#L18), [`24`](../../src/subsilver/profile_add_body.tpl#L24)
 * __[`{USER_WYSIWYG_NO}`](https://github.com/Etana/template/blob/master/var/USER_WYSIWYG_NO.md#readme)<a href="https://fa-tvars.appspot.com/var/USER_WYSIWYG_NO">*</a> :__ ligne [`263`](../../src/subsilver/profile_add_body.tpl#L263)
 * __[`{USER_WYSIWYG_YES}`](https://github.com/Etana/template/blob/master/var/USER_WYSIWYG_YES.md#readme)<a href="https://fa-tvars.appspot.com/var/USER_WYSIWYG_YES">*</a> :__ ligne [`262`](../../src/subsilver/profile_add_body.tpl#L262)

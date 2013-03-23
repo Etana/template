@@ -2,14 +2,14 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_topic_review.tpl)
-* __Avancement :__ 2/16
+* __Avancement :__ 3/16
 * __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_topic_review }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_topic_review)
 
 ## Variables
 
-* __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/ICON_TIME">*</a> :__ ligne [`21`](../../src/subsilver/posting_topic_review.tpl#L21)
+* __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`21`](../../src/subsilver/posting_topic_review.tpl#L21)
 * __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`10`](../../src/subsilver/posting_topic_review.tpl#L10)
 * __[`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme) :__ ligne [`11`](../../src/subsilver/posting_topic_review.tpl#L11)
 * __[`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW">*</a> :__ ligne [`4`](../../src/subsilver/posting_topic_review.tpl#L4)

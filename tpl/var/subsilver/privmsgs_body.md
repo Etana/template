@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/privmsgs_body.tpl)
-* __Avancement :__ 7/48
+* __Avancement :__ 9/48
 * __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > privmsgs_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/privmsgs_body)
@@ -22,12 +22,12 @@
 * __[`{L_FROM_OR_TO}`](https://github.com/Etana/template/blob/master/var/L_FROM_OR_TO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM_OR_TO">*</a> :__ ligne [`56`](../../src/subsilver/privmsgs_body.tpl#L56)
 * __[`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme) :__ ligne [`50`](../../src/subsilver/privmsgs_body.tpl#L50)
 * __[`{L_MARK}`](https://github.com/Etana/template/blob/master/var/L_MARK.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MARK">*</a> :__ ligne [`58`](../../src/subsilver/privmsgs_body.tpl#L58)
-* __[`{L_MARK_ALL}`](https://github.com/Etana/template/blob/master/var/L_MARK_ALL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MARK_ALL">*</a> :__ ligne [`95`](../../src/subsilver/privmsgs_body.tpl#L95)
+* __[`{L_MARK_ALL}`](https://github.com/Etana/template/blob/master/var/L_MARK_ALL.md#readme) :__ ligne [`95`](../../src/subsilver/privmsgs_body.tpl#L95)
 * __[`{L_MOVE_PROFILE_MARKED}`](https://github.com/Etana/template/blob/master/var/L_MOVE_PROFILE_MARKED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE_PROFILE_MARKED">*</a> :__ ligne [`81`](../../src/subsilver/privmsgs_body.tpl#L81)
 * __[`{L_NO_MESSAGES}`](https://github.com/Etana/template/blob/master/var/L_NO_MESSAGES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO_MESSAGES">*</a> :__ ligne [`71`](../../src/subsilver/privmsgs_body.tpl#L71)
 * __[`{L_SAVE_MARKED}`](https://github.com/Etana/template/blob/master/var/L_SAVE_MARKED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SAVE_MARKED">*</a> :__ ligne [`78`](../../src/subsilver/privmsgs_body.tpl#L78)
 * __[`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme) :__ ligne [`55`](../../src/subsilver/privmsgs_body.tpl#L55)
-* __[`{L_UNMARK_ALL}`](https://github.com/Etana/template/blob/master/var/L_UNMARK_ALL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_UNMARK_ALL">*</a> :__ ligne [`95`](../../src/subsilver/privmsgs_body.tpl#L95)
+* __[`{L_UNMARK_ALL}`](https://github.com/Etana/template/blob/master/var/L_UNMARK_ALL.md#readme) :__ ligne [`95`](../../src/subsilver/privmsgs_body.tpl#L95)
 * __[`{MASS_PM_IMG}`](https://github.com/Etana/template/blob/master/var/MASS_PM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/MASS_PM_IMG">*</a> :__ lignes [`45`](../../src/subsilver/privmsgs_body.tpl#L45), [`92`](../../src/subsilver/privmsgs_body.tpl#L92)
 * __[`{OUTBOX}`](https://github.com/Etana/template/blob/master/var/OUTBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/OUTBOX">*</a> :__ ligne [`11`](../../src/subsilver/privmsgs_body.tpl#L11)
 * __[`{OUTBOX_IMG}`](https://github.com/Etana/template/blob/master/var/OUTBOX_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/OUTBOX_IMG">*</a> :__ ligne [`10`](../../src/subsilver/privmsgs_body.tpl#L10)

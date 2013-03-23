@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/modcp_body.tpl)
-* __Avancement :__ 10/36
+* __Avancement :__ 11/36
 * __Chemin :__ {{/admin/index.forum?mode=moderation&part=themes&sub=templates > modcp_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/modcp_body)
@@ -19,7 +19,7 @@
 * __[`{L_MOD_CP_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_MOD_CP_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOD_CP_EXPLAIN">*</a> :__ ligne [`12`](../../src/subsilver/modcp_body.tpl#L12)
 * __[`{L_MOVE}`](https://github.com/Etana/template/blob/master/var/L_MOVE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE">*</a> :__ ligne [`34`](../../src/subsilver/modcp_body.tpl#L34)
 * __[`{L_NORMAL}`](https://github.com/Etana/template/blob/master/var/L_NORMAL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NORMAL">*</a> :__ ligne [`39`](../../src/subsilver/modcp_body.tpl#L39)
-* __[`{L_REPLIES}`](https://github.com/Etana/template/blob/master/var/L_REPLIES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_REPLIES">*</a> :__ ligne [`17`](../../src/subsilver/modcp_body.tpl#L17)
+* __[`{L_REPLIES}`](https://github.com/Etana/template/blob/master/var/L_REPLIES.md#readme) :__ ligne [`17`](../../src/subsilver/modcp_body.tpl#L17)
 * __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`19`](../../src/subsilver/modcp_body.tpl#L19)
 * __[`{L_SELECT_ALL}`](https://github.com/Etana/template/blob/master/var/L_SELECT_ALL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT_ALL">*</a> :__ ligne [`47`](../../src/subsilver/modcp_body.tpl#L47)
 * __[`{L_STICKY}`](https://github.com/Etana/template/blob/master/var/L_STICKY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_STICKY">*</a> :__ ligne [`37`](../../src/subsilver/modcp_body.tpl#L37)

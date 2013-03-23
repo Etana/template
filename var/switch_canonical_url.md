@@ -9,7 +9,8 @@ contenu
 <!-- END switch_canonical_url -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_canonical_url)
+##Description[*](https://fa-tvars.appspot.com/var/switch_canonical_url)
+Cette boucle s'affiche automatiquement si nécessaire.
 
 ## Attributs
 * __[`{switch_canonical_url.CANONICAL_URL}`](switch_canonical_url.CANONICAL_URL.md#readme)__

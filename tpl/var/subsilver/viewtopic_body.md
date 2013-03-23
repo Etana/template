@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/viewtopic_body.tpl)
-* __Avancement :__ 39/166
+* __Avancement :__ 42/166
 * __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > viewtopic_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/viewtopic_body)
@@ -190,9 +190,9 @@
     * __[`<!-- BEGIN switch_forum_rule_image -->`](https://github.com/Etana/template/blob/master/var/switch_forum_rules.switch_forum_rule_image.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image">*</a> :__ ligne [`348`](../../src/subsilver/viewtopic_body.tpl#L348)
     * __[`<!-- END switch_forum_rule_image -->`](https://github.com/Etana/template/blob/master/var/switch_forum_rules.switch_forum_rule_image.md#readme) :__ ligne [`352`](../../src/subsilver/viewtopic_body.tpl#L352)
 * __[`<!-- END switch_forum_rules -->`](https://github.com/Etana/template/blob/master/var/switch_forum_rules.md#readme) :__ ligne [`362`](../../src/subsilver/viewtopic_body.tpl#L362)
-* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize">*</a> :__ ligne [`466`](../../src/subsilver/viewtopic_body.tpl#L466)
-    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT">*</a> :__ ligne [`469`](../../src/subsilver/viewtopic_body.tpl#L469)
-    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH">*</a> :__ ligne [`469`](../../src/subsilver/viewtopic_body.tpl#L469)
+* __[`<!-- BEGIN switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`466`](../../src/subsilver/viewtopic_body.tpl#L466)
+    * __[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme) :__ ligne [`469`](../../src/subsilver/viewtopic_body.tpl#L469)
+    * __[`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme) :__ ligne [`469`](../../src/subsilver/viewtopic_body.tpl#L469)
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`472`](../../src/subsilver/viewtopic_body.tpl#L472)
 * __[`<!-- BEGIN switch_plus_menu -->`](https://github.com/Etana/template/blob/master/var/switch_plus_menu.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_plus_menu">*</a> :__ ligne [`73`](../../src/subsilver/viewtopic_body.tpl#L73)
 * __[`<!-- END switch_plus_menu -->`](https://github.com/Etana/template/blob/master/var/switch_plus_menu.md#readme) :__ ligne [`85`](../../src/subsilver/viewtopic_body.tpl#L85)

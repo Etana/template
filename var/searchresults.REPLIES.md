@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults 
 <!-- END searchresults -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.REPLIES)
+##Description[*](https://fa-tvars.appspot.com/var/searchresults.REPLIES)
+Contient le nombre de réponses postés dans le sujet.
 
 ## Utilisations dans les templates
 

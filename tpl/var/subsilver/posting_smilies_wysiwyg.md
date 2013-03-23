@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_smilies_wysiwyg.tpl)
-* __Avancement :__ 8/18
+* __Avancement :__ 9/18
 * __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_smilies_wysiwyg }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_smilies_wysiwyg)
@@ -20,7 +20,7 @@
 * __[`{T_BODY_LINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_LINK.md#readme) :__ ligne [`16`](../../src/subsilver/posting_smilies_wysiwyg.tpl#L16)
 * __[`{T_BODY_TEXT}`](https://github.com/Etana/template/blob/master/var/T_BODY_TEXT.md#readme) :__ ligne [`16`](../../src/subsilver/posting_smilies_wysiwyg.tpl#L16)
 * __[`{T_BODY_VLINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_VLINK.md#readme) :__ ligne [`16`](../../src/subsilver/posting_smilies_wysiwyg.tpl#L16)
-* __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)<a href="https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET">*</a> :__ ligne [`7`](../../src/subsilver/posting_smilies_wysiwyg.tpl#L7)
+* __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`7`](../../src/subsilver/posting_smilies_wysiwyg.tpl#L7)
 * __[`<!-- BEGIN smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)<a href="https://fa-tvars.appspot.com/var/smilies_row">*</a> :__ ligne [`39`](../../src/subsilver/posting_smilies_wysiwyg.tpl#L39)
     * __[`<!-- BEGIN smilies_col -->`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.md#readme)<a href="https://fa-tvars.appspot.com/var/smilies_row.smilies_col">*</a> :__ ligne [`40`](../../src/subsilver/posting_smilies_wysiwyg.tpl#L40)
         * __[`{smilies_row.smilies_col.SMILEY_CODE}`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.SMILEY_CODE.md#readme)<a href="https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_CODE">*</a> :__ ligne [`41`](../../src/subsilver/posting_smilies_wysiwyg.tpl#L41)

@@ -7,7 +7,8 @@ Variable d'affichage.
 {CLASS_TABLE_TYPE}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/CLASS_TABLE_TYPE)
+##Description[*](https://fa-tvars.appspot.com/var/CLASS_TABLE_TYPE)
+Ajoute une class `row1` aux widgets personnalisés.
 
 ## Utilisations dans les templates
 

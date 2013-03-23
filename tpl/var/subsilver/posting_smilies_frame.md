@@ -2,7 +2,7 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_smilies_frame.tpl)
-* __Avancement :__ 6/15
+* __Avancement :__ 7/15
 * __Chemin :__ {{/admin/index.forum?mode=post&part=themes&sub=templates > posting_smilies_frame }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_smilies_frame)
@@ -18,7 +18,7 @@
 * __[`{S_CONTENT_ENCODING}`](https://github.com/Etana/template/blob/master/var/S_CONTENT_ENCODING.md#readme) :__ ligne [`8`](../../src/subsilver/posting_smilies_frame.tpl#L8)
 * __[`{T_BODY_BGCOLOR}`](https://github.com/Etana/template/blob/master/var/T_BODY_BGCOLOR.md#readme) :__ ligne [`12`](../../src/subsilver/posting_smilies_frame.tpl#L12)
 * __[`{T_BODY_TEXT}`](https://github.com/Etana/template/blob/master/var/T_BODY_TEXT.md#readme) :__ ligne [`15`](../../src/subsilver/posting_smilies_frame.tpl#L15)
-* __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)<a href="https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET">*</a> :__ ligne [`5`](../../src/subsilver/posting_smilies_frame.tpl#L5)
+* __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`5`](../../src/subsilver/posting_smilies_frame.tpl#L5)
 * __[`<!-- BEGIN smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)<a href="https://fa-tvars.appspot.com/var/smilies_row">*</a> :__ ligne [`33`](../../src/subsilver/posting_smilies_frame.tpl#L33)
     * __[`<!-- BEGIN smilies_col -->`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.md#readme)<a href="https://fa-tvars.appspot.com/var/smilies_row.smilies_col">*</a> :__ ligne [`34`](../../src/subsilver/posting_smilies_frame.tpl#L34)
         * __[`{smilies_row.smilies_col.SMILEY_CODE}`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.SMILEY_CODE.md#readme)<a href="https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_CODE">*</a> :__ ligne [`35`](../../src/subsilver/posting_smilies_frame.tpl#L35)

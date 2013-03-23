@@ -8,7 +8,7 @@ Variable d'affichage.
 ```
 
 ##Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS_POPUP)
-Adresse URL du popup d'avertissement d'un nouveau message privé.
+Adresse URL du popup d'avertissement d'un nouveau message privé : `/privmsg?mode=newpm`.
 
 ## Utilisations dans les templates
 

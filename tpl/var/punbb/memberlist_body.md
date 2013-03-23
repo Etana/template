@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/memberlist_body.tpl)
-* __Avancement :__ 45/51
+* __Avancement :__ 48/51
 * __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > memberlist_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/memberlist_body)
@@ -12,7 +12,7 @@
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../../src/punbb/memberlist_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../../src/punbb/memberlist_body.tpl#L7)
 * __[`{L_AVATAR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR.md#readme) :__ ligne [`63`](../../src/punbb/memberlist_body.tpl#L63)
-* __[`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_GROUPS">*</a> :__ ligne [`65`](../../src/punbb/memberlist_body.tpl#L65)
+* __[`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme) :__ ligne [`65`](../../src/punbb/memberlist_body.tpl#L65)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`19`](../../src/punbb/memberlist_body.tpl#L19)
 * __[`{L_INTERESTS}`](https://github.com/Etana/template/blob/master/var/L_INTERESTS.md#readme) :__ ligne [`67`](../../src/punbb/memberlist_body.tpl#L67)
 * __[`{L_JOINED}`](https://github.com/Etana/template/blob/master/var/L_JOINED.md#readme) :__ ligne [`68`](../../src/punbb/memberlist_body.tpl#L68)
@@ -52,7 +52,7 @@
     * __[`{memberrow.USERNAME}`](https://github.com/Etana/template/blob/master/var/memberrow.USERNAME.md#readme) :__ ligne [`79`](../../src/punbb/memberlist_body.tpl#L79)
     * __[`{memberrow.U_VIEWPROFILE}`](https://github.com/Etana/template/blob/master/var/memberrow.U_VIEWPROFILE.md#readme) :__ ligne [`79`](../../src/punbb/memberlist_body.tpl#L79)
     * __[`{memberrow.WWW_IMG}`](https://github.com/Etana/template/blob/master/var/memberrow.WWW_IMG.md#readme) :__ ligne [`88`](../../src/punbb/memberlist_body.tpl#L88)
-    * __[`<!-- BEGIN switch_td_group -->`](https://github.com/Etana/template/blob/master/var/memberrow.switch_td_group.md#readme)<a href="https://fa-tvars.appspot.com/var/memberrow.switch_td_group">*</a> :__ ligne [`80`](../../src/punbb/memberlist_body.tpl#L80)
+    * __[`<!-- BEGIN switch_td_group -->`](https://github.com/Etana/template/blob/master/var/memberrow.switch_td_group.md#readme) :__ ligne [`80`](../../src/punbb/memberlist_body.tpl#L80)
     * __[`<!-- END switch_td_group -->`](https://github.com/Etana/template/blob/master/var/memberrow.switch_td_group.md#readme) :__ ligne [`82`](../../src/punbb/memberlist_body.tpl#L82)
 * __[`<!-- END memberrow -->`](https://github.com/Etana/template/blob/master/var/memberrow.md#readme) :__ ligne [`90`](../../src/punbb/memberlist_body.tpl#L90)
 * __[`<!-- BEGIN switch_no_user -->`](https://github.com/Etana/template/blob/master/var/switch_no_user.md#readme) :__ ligne [`91`](../../src/punbb/memberlist_body.tpl#L91)
@@ -61,7 +61,7 @@
 * __[`<!-- END switch_no_user -->`](https://github.com/Etana/template/blob/master/var/switch_no_user.md#readme) :__ ligne [`95`](../../src/punbb/memberlist_body.tpl#L95)
 * __[`<!-- BEGIN switch_pagination -->`](https://github.com/Etana/template/blob/master/var/switch_pagination.md#readme) :__ lignes [`25`](../../src/punbb/memberlist_body.tpl#L25), [`105`](../../src/punbb/memberlist_body.tpl#L105)
 * __[`<!-- END switch_pagination -->`](https://github.com/Etana/template/blob/master/var/switch_pagination.md#readme) :__ lignes [`29`](../../src/punbb/memberlist_body.tpl#L29), [`109`](../../src/punbb/memberlist_body.tpl#L109)
-* __[`<!-- BEGIN switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_th_group">*</a> :__ ligne [`64`](../../src/punbb/memberlist_body.tpl#L64)
+* __[`<!-- BEGIN switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme) :__ ligne [`64`](../../src/punbb/memberlist_body.tpl#L64)
 * __[`<!-- END switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme) :__ ligne [`66`](../../src/punbb/memberlist_body.tpl#L66)
 * __[`<!-- BEGIN switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ ligne [`1`](../../src/punbb/memberlist_body.tpl#L1)
 * __[`<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ ligne [`9`](../../src/punbb/memberlist_body.tpl#L9)

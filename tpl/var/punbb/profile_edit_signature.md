@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/profile_edit_signature.tpl)
-* __Avancement :__ 9/31
+* __Avancement :__ 10/31
 * __Chemin :__ {{/admin/index.forum?mode=profil&part=themes&sub=templates > profile_edit_signature }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_edit_signature)
@@ -34,7 +34,7 @@
 * __[`{SIGNATURE_EDIT}`](https://github.com/Etana/template/blob/master/var/SIGNATURE_EDIT.md#readme)<a href="https://fa-tvars.appspot.com/var/SIGNATURE_EDIT">*</a> :__ ligne [`34`](../../src/punbb/profile_edit_signature.tpl#L34)
 * __[`{SIGNATURE_PREVIEW}`](https://github.com/Etana/template/blob/master/var/SIGNATURE_PREVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/SIGNATURE_PREVIEW">*</a> :__ ligne [`31`](../../src/punbb/profile_edit_signature.tpl#L31)
 * __[`{SMILIES_STATUS}`](https://github.com/Etana/template/blob/master/var/SMILIES_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/SMILIES_STATUS">*</a> :__ ligne [`44`](../../src/punbb/profile_edit_signature.tpl#L44)
-* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme)<a href="https://fa-tvars.appspot.com/var/UCP_TABS">*</a> :__ ligne [`25`](../../src/punbb/profile_edit_signature.tpl#L25)
+* __[`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme) :__ ligne [`25`](../../src/punbb/profile_edit_signature.tpl#L25)
 * __[`{U_RETURN_PROFILE}`](https://github.com/Etana/template/blob/master/var/U_RETURN_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/U_RETURN_PROFILE">*</a> :__ ligne [`68`](../../src/punbb/profile_edit_signature.tpl#L68)
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`4`](../../src/punbb/profile_edit_signature.tpl#L4)
 * __[`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme) :__ ligne [`5`](../../src/punbb/profile_edit_signature.tpl#L5)

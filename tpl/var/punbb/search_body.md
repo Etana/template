@@ -2,7 +2,7 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/search_body.tpl)
-* __Avancement :__ 33/46
+* __Avancement :__ 34/46
 * __Chemin :__ {{/admin/index.forum?mode=main&part=themes&sub=templates > search_body }}
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/search_body)
@@ -29,7 +29,7 @@
 * __[`{L_SEARCH_PREVIOUS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_PREVIOUS.md#readme) :__ ligne [`64`](../../src/punbb/search_body.tpl#L64)
 * __[`{L_SEARCH_QUERY}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_QUERY.md#readme) :__ ligne [`26`](../../src/punbb/search_body.tpl#L26)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`6`](../../src/punbb/search_body.tpl#L6)
-* __[`{L_SEARCH_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_TITLE">*</a> :__ ligne [`19`](../../src/punbb/search_body.tpl#L19)
+* __[`{L_SEARCH_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_TITLE.md#readme) :__ ligne [`19`](../../src/punbb/search_body.tpl#L19)
 * __[`{L_SORT_ASCENDING}`](https://github.com/Etana/template/blob/master/var/L_SORT_ASCENDING.md#readme) :__ ligne [`74`](../../src/punbb/search_body.tpl#L74)
 * __[`{L_SORT_BY}`](https://github.com/Etana/template/blob/master/var/L_SORT_BY.md#readme) :__ ligne [`72`](../../src/punbb/search_body.tpl#L72)
 * __[`{L_SORT_DESCENDING}`](https://github.com/Etana/template/blob/master/var/L_SORT_DESCENDING.md#readme) :__ ligne [`74`](../../src/punbb/search_body.tpl#L74)
