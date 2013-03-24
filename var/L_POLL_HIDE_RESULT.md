@@ -1,6 +1,6 @@
 # L_POLL_HIDE_RESULT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_poll_body`](../tpl/var/posting_poll_body.md), [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md)
+* __Disponible dans :__ [`posting_poll_body`](../tpl/var/posting_poll_body.md#readme), [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
 ```html

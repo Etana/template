@@ -1,6 +1,6 @@
 # CLOSE_POLL
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`viewtopic_poll_ballot`](../tpl/var/viewtopic_poll_ballot.md), [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md)
+* __Disponible dans :__ [`viewtopic_poll_ballot`](../tpl/var/viewtopic_poll_ballot.md#readme), [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
 ```html

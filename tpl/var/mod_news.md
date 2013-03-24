@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=902) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=902) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=902) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=902) > [`mod_news`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=902)
@@ -26,7 +26,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ ligne [`11`](../src/punbb/mod_news.tpl#L11)
 * __[`{LEFT}`](https://github.com/Etana/template/blob/master/var/LEFT.md#readme)<a href="https://fa-tvars.appspot.com/var/LEFT">*</a> :__ ligne [`9`](../src/punbb/mod_news.tpl#L9)
@@ -73,7 +73,7 @@
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`66`](../src/punbb/mod_news.tpl#L66)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ ligne [`14`](../src/subsilver/mod_news.tpl#L14)
 * __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`14`](../src/subsilver/mod_news.tpl#L14)

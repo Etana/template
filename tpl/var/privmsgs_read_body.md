@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=514) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=514) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=514) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=514) > [`privmsgs_read_body`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=514)
@@ -80,7 +80,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{AIM_IMG}`](https://github.com/Etana/template/blob/master/var/AIM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/AIM_IMG">*</a> :__ ligne [`69`](../src/punbb/privmsgs_read_body.tpl#L69)
 * __[`{AVATAR_FROM}`](https://github.com/Etana/template/blob/master/var/AVATAR_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR_FROM">*</a> :__ ligne [`53`](../src/punbb/privmsgs_read_body.tpl#L53)
@@ -148,7 +148,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/privmsgs_read_body.tpl#L14)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{AIM_IMG}`](https://github.com/Etana/template/blob/master/var/AIM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/AIM_IMG">*</a> :__ ligne [`61`](../src/subsilver/privmsgs_read_body.tpl#L61)
 * __[`{AVATAR_FROM}`](https://github.com/Etana/template/blob/master/var/AVATAR_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR_FROM">*</a> :__ ligne [`32`](../src/subsilver/privmsgs_read_body.tpl#L32)

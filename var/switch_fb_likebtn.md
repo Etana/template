@@ -1,6 +1,6 @@
 # switch_fb_likebtn
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

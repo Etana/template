@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=120) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=120) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=120) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=120) > [`search_results_topics`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=120)
@@ -55,7 +55,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN watchsearch1 -->...<!-- END watchsearch1 -->`](https://github.com/Etana/template/blob/master/var/watchsearch1.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/search_results_topics.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/search_results_topics.tpl#L7)
@@ -104,7 +104,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/search_results_topics.tpl#L14)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`69`](../src/subsilver/search_results_topics.tpl#L69)
 * __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`22`](../src/subsilver/search_results_topics.tpl#L22)

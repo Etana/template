@@ -1,6 +1,6 @@
 # L_VIEWING_PROFILE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_view_body`](../tpl/var/profile_view_body.md), [`rpg_sheet`](../tpl/var/rpg_sheet.md), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md)
+* __Disponible dans :__ [`profile_view_body`](../tpl/var/profile_view_body.md#readme), [`rpg_sheet`](../tpl/var/rpg_sheet.md#readme), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
 ```html

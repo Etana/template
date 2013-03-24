@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=905) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=905) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=905) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=905) > [`mod_search`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=905)
@@ -28,7 +28,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{JS_SESSION_ID_INPUT}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID_INPUT.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_SESSION_ID_INPUT">*</a> :__ ligne [`19`](../src/punbb/mod_search.tpl#L19)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`3`](../src/punbb/mod_search.tpl#L3)
@@ -40,7 +40,7 @@
 * __[`{U_SEARCH}`](https://github.com/Etana/template/blob/master/var/U_SEARCH.md#readme)<a href="https://fa-tvars.appspot.com/var/U_SEARCH">*</a> :__ lignes [`7`](../src/punbb/mod_search.tpl#L7), [`18`](../src/punbb/mod_search.tpl#L18)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{JS_SESSION_ID_INPUT}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID_INPUT.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_SESSION_ID_INPUT">*</a> :__ ligne [`20`](../src/subsilver/mod_search.tpl#L20)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`4`](../src/subsilver/mod_search.tpl#L4)

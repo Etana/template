@@ -1,6 +1,6 @@
 # U_REPORT_VIEW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`report_view_body`](../tpl/var/report_view_body.md)
+* __Disponible dans :__ [`report_view_body`](../tpl/var/report_view_body.md#readme)
 * __Utilisation :__
 
 ```html

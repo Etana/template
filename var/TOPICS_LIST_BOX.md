@@ -1,6 +1,6 @@
 # TOPICS_LIST_BOX
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`viewforum_body`](../tpl/var/viewforum_body.md)
+* __Disponible dans :__ [`viewforum_body`](../tpl/var/viewforum_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # switch_groups_joined
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`groupcp_user_body`](../tpl/var/groupcp_user_body.md)
+* __Disponible dans :__ [`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme)
 * __Utilisation :__
 
 ```html

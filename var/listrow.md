@@ -1,6 +1,6 @@
 # listrow
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md)
+* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme)
 * __Utilisation :__
 
 ```html

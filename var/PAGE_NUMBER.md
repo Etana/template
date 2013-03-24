@@ -1,6 +1,6 @@
 # PAGE_NUMBER
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_moderate_body`](../tpl/var/album_moderate_body.md), [`album_search_body`](../tpl/var/album_search_body.md), [`groupcp_info_body`](../tpl/var/groupcp_info_body.md), [`memberlist_body`](../tpl/var/memberlist_body.md), [`modcp_body`](../tpl/var/modcp_body.md), [`privmsgs_body`](../tpl/var/privmsgs_body.md), [`search_results_posts`](../tpl/var/search_results_posts.md), [`search_results_topics`](../tpl/var/search_results_topics.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`album_search_body`](../tpl/var/album_search_body.md#readme), [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`modcp_body`](../tpl/var/modcp_body.md#readme), [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

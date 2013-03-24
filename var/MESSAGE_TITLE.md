@@ -1,6 +1,6 @@
 # MESSAGE_TITLE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`confirm_body`](../tpl/var/confirm_body.md), [`donate`](../tpl/var/donate.md), [`message_body`](../tpl/var/message_body.md), [`modcp_move`](../tpl/var/modcp_move.md)
+* __Disponible dans :__ [`confirm_body`](../tpl/var/confirm_body.md#readme), [`donate`](../tpl/var/donate.md#readme), [`message_body`](../tpl/var/message_body.md#readme), [`modcp_move`](../tpl/var/modcp_move.md#readme)
 * __Utilisation :__
 
 ```html

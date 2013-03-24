@@ -1,6 +1,6 @@
 # L_LAST_UPDATE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`viewonline_body`](../tpl/var/viewonline_body.md)
+* __Disponible dans :__ [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
 * __Utilisation :__
 
 ```html

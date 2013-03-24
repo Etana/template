@@ -1,6 +1,6 @@
 # sepia_bw_enabled
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md)
+* __Disponible dans :__ [`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme)
 * __Utilisation :__
 
 ```html

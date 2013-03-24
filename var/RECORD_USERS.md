@@ -1,6 +1,6 @@
 # RECORD_USERS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`mod_whoisonline`](../tpl/var/mod_whoisonline.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme)
 * __Utilisation :__
 
 ```html

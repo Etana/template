@@ -1,6 +1,6 @@
 # SPACE_ROW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_footer_begin`](../tpl/var/overall_footer_begin.md), [`overall_header`](../tpl/var/overall_header.md), [`portal_body`](../tpl/var/portal_body.md)
+* __Disponible dans :__ [`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme), [`portal_body`](../tpl/var/portal_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_TOPIC_TITLE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`merge_body`](../tpl/var/merge_body.md)
+* __Disponible dans :__ [`merge_body`](../tpl/var/merge_body.md#readme)
 * __Utilisation :__
 
 ```html

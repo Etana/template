@@ -1,6 +1,6 @@
 # giefmod_index2
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`overall_footer_begin`](../tpl/var/overall_footer_begin.md)
+* __Disponible dans :__ [`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # postrow
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md), [`posting_topic_review`](../tpl/var/posting_topic_review.md), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md#readme), [`posting_topic_review`](../tpl/var/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

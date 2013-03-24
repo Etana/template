@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=513) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=513) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=513) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=513) > [`privmsgs_preview`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=513)
@@ -31,7 +31,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{L_PREVIEW}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PREVIEW">*</a> :__ ligne [`2`](../src/punbb/privmsgs_preview.tpl#L2)
 * __[`{MESSAGE_FROM}`](https://github.com/Etana/template/blob/master/var/MESSAGE_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/MESSAGE_FROM">*</a> :__ ligne [`12`](../src/punbb/privmsgs_preview.tpl#L12)
@@ -40,7 +40,7 @@
 * __[`{POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/POST_SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/POST_SUBJECT">*</a> :__ ligne [`8`](../src/punbb/privmsgs_preview.tpl#L8)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM">*</a> :__ ligne [`6`](../src/subsilver/privmsgs_preview.tpl#L6)
 * __[`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTED">*</a> :__ ligne [`14`](../src/subsilver/privmsgs_preview.tpl#L14)

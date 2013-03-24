@@ -1,6 +1,6 @@
 # L_REPLIES
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_body`](../tpl/var/modcp_body.md), [`search_results_posts`](../tpl/var/search_results_posts.md), [`search_results_topics`](../tpl/var/search_results_topics.md)
+* __Disponible dans :__ [`modcp_body`](../tpl/var/modcp_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # google_analytics_code
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md)
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme)
 * __Utilisation :__
 
 ```html

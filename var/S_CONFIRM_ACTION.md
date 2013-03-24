@@ -1,6 +1,6 @@
 # S_CONFIRM_ACTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`confirm_body`](../tpl/var/confirm_body.md), [`donate`](../tpl/var/donate.md)
+* __Disponible dans :__ [`confirm_body`](../tpl/var/confirm_body.md#readme), [`donate`](../tpl/var/donate.md#readme)
 * __Utilisation :__
 
 ```html

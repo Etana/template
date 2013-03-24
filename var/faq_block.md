@@ -1,6 +1,6 @@
 # faq_block
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`faq_body`](../tpl/var/faq_body.md), [`faq_dhtml`](../tpl/var/faq_dhtml.md)
+* __Disponible dans :__ [`faq_body`](../tpl/var/faq_body.md#readme), [`faq_dhtml`](../tpl/var/faq_dhtml.md#readme)
 * __Utilisation :__
 
 ```html

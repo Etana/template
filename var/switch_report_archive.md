@@ -1,6 +1,6 @@
 # switch_report_archive
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`report_view_body`](../tpl/var/report_view_body.md)
+* __Disponible dans :__ [`report_view_body`](../tpl/var/report_view_body.md#readme)
 * __Utilisation :__
 
 ```html

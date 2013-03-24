@@ -1,6 +1,6 @@
 # AUTO_DST
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme)
 * __Utilisation :__
 
 ```html

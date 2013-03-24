@@ -1,6 +1,6 @@
 # TOPIC_REVIEW_BOX
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
 ```html

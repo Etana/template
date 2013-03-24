@@ -1,6 +1,6 @@
 # SPACER
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_box`](../tpl/var/index_box.md)
+* __Disponible dans :__ [`index_box`](../tpl/var/index_box.md#readme)
 * __Utilisation :__
 
 ```html

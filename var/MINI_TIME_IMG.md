@@ -1,6 +1,6 @@
 # MINI_TIME_IMG
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_preview`](../tpl/var/posting_preview.md)
+* __Disponible dans :__ [`posting_preview`](../tpl/var/posting_preview.md#readme)
 * __Utilisation :__
 
 ```html

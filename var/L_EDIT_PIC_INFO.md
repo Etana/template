@@ -1,6 +1,6 @@
 # L_EDIT_PIC_INFO
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md)
+* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md#readme)
 * __Utilisation :__
 
 ```html

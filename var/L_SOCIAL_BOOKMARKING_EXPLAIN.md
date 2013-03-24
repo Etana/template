@@ -1,6 +1,6 @@
 # L_SOCIAL_BOOKMARKING_EXPLAIN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_social_bookmarking`](../tpl/var/mod_social_bookmarking.md)
+* __Disponible dans :__ [`mod_social_bookmarking`](../tpl/var/mod_social_bookmarking.md#readme)
 * __Utilisation :__
 
 ```html

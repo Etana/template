@@ -1,6 +1,6 @@
 # L_PM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md), [`memberlist_body`](../tpl/var/memberlist_body.md), [`mod_login`](../tpl/var/mod_login.md), [`privmsgs_body`](../tpl/var/privmsgs_body.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`mod_login`](../tpl/var/mod_login.md#readme), [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
 ```html

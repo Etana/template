@@ -1,6 +1,6 @@
 # html_validation
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md), [`overall_footer_begin`](../tpl/var/overall_footer_begin.md), [`overall_footer_end`](../tpl/var/overall_footer_end.md), [`overall_header`](../tpl/var/overall_header.md), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md), [`report_popup_body`](../tpl/var/report_popup_body.md), [`search_username`](../tpl/var/search_username.md), [`simple_footer`](../tpl/var/simple_footer.md)
+* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md#readme), [`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme), [`overall_footer_end`](../tpl/var/overall_footer_end.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme), [`report_popup_body`](../tpl/var/report_popup_body.md#readme), [`search_username`](../tpl/var/search_username.md#readme), [`simple_footer`](../tpl/var/simple_footer.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # rpg_fields_left
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`rpg_sheet`](../tpl/var/rpg_sheet.md), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md)
+* __Disponible dans :__ [`rpg_sheet`](../tpl/var/rpg_sheet.md#readme), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
 ```html

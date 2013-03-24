@@ -1,6 +1,6 @@
 # JS_SESSION_ID_INPUT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_search`](../tpl/var/mod_search.md)
+* __Disponible dans :__ [`mod_search`](../tpl/var/mod_search.md#readme)
 * __Utilisation :__
 
 ```html

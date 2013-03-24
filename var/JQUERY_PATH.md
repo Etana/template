@@ -1,6 +1,6 @@
 # JQUERY_PATH
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md)
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme)
 * __Utilisation :__
 
 ```html

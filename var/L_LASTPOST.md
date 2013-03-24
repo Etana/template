@@ -1,6 +1,6 @@
 # L_LASTPOST
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_box`](../tpl/var/index_box.md), [`modcp_body`](../tpl/var/modcp_body.md), [`search_results_topics`](../tpl/var/search_results_topics.md)
+* __Disponible dans :__ [`index_box`](../tpl/var/index_box.md#readme), [`modcp_body`](../tpl/var/modcp_body.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme)
 * __Utilisation :__
 
 ```html

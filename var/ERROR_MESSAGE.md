@@ -1,6 +1,6 @@
 # ERROR_MESSAGE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`error_body`](../tpl/var/error_body.md), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md)
+* __Disponible dans :__ [`error_body`](../tpl/var/error_body.md#readme), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme)
 * __Utilisation :__
 
 ```html

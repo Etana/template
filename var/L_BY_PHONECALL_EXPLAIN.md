@@ -1,6 +1,6 @@
 # L_BY_PHONECALL_EXPLAIN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`donate`](../tpl/var/donate.md)
+* __Disponible dans :__ [`donate`](../tpl/var/donate.md#readme)
 * __Utilisation :__
 
 ```html

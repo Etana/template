@@ -1,6 +1,6 @@
 # POLL_DISPLAY
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_poll`](../tpl/var/mod_poll.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`mod_poll`](../tpl/var/mod_poll.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # CLASS_TABLE_TYPE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md), [`standard`](../tpl/var/standard.md)
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`standard`](../tpl/var/standard.md#readme)
 * __Utilisation :__
 
 ```html

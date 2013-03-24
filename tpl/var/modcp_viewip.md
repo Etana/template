@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=606) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=606) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=606) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=606) > [`modcp_viewip`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=606)
@@ -40,7 +40,7 @@
 * [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
 * [`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme)
 * [`{POSTED}`](https://github.com/Etana/template/blob/master/var/POSTED.md#readme)
-* [`POSTER`](../../var/POSTER.md)
+* [`POSTER`](../../var/POSTER.md#readme)
 * [`{POSTS}`](https://github.com/Etana/template/blob/master/var/POSTS.md#readme)
 * [`{PREVIEW}`](https://github.com/Etana/template/blob/master/var/PREVIEW.md#readme)
 * [`{PREVIEW_NEW}`](https://github.com/Etana/template/blob/master/var/PREVIEW_NEW.md#readme)
@@ -54,7 +54,7 @@
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN userrow -->...<!-- END userrow -->`](https://github.com/Etana/template/blob/master/var/userrow.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{IP}`](https://github.com/Etana/template/blob/master/var/IP.md#readme)<a href="https://fa-tvars.appspot.com/var/IP">*</a> :__ ligne [`64`](../src/punbb/modcp_viewip.tpl#L64)
 * __[`{IP1}`](https://github.com/Etana/template/blob/master/var/IP1.md#readme)<a href="https://fa-tvars.appspot.com/var/IP1">*</a> :__ ligne [`39`](../src/punbb/modcp_viewip.tpl#L39)
@@ -107,7 +107,7 @@
 * __[`<!-- END userrow -->`](https://github.com/Etana/template/blob/master/var/userrow.md#readme) :__ ligne [`84`](../src/punbb/modcp_viewip.tpl#L84)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{IP}`](https://github.com/Etana/template/blob/master/var/IP.md#readme)<a href="https://fa-tvars.appspot.com/var/IP">*</a> :__ ligne [`39`](../src/subsilver/modcp_viewip.tpl#L39)
 * __[`{IP1}`](https://github.com/Etana/template/blob/master/var/IP1.md#readme)<a href="https://fa-tvars.appspot.com/var/IP1">*</a> :__ ligne [`20`](../src/subsilver/modcp_viewip.tpl#L20)

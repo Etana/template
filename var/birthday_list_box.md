@@ -1,6 +1,6 @@
 # birthday_list_box
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`birthday_list_box`](../tpl/var/birthday_list_box.md)
+* __Disponible dans :__ [`birthday_list_box`](../tpl/var/birthday_list_box.md#readme)
 * __Utilisation :__
 
 ```html

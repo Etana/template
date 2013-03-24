@@ -1,6 +1,6 @@
 # L_ADD_EVENT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_box`](../tpl/var/calendar_box.md)
+* __Disponible dans :__ [`calendar_box`](../tpl/var/calendar_box.md#readme)
 * __Utilisation :__
 
 ```html

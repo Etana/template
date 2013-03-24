@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=403) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=403) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=403) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=403) > [`calendar_box`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=403)
@@ -26,7 +26,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{FOLDER_CALENDAR_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_CALENDAR_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/FOLDER_CALENDAR_IMG">*</a> :__ ligne [`52`](../src/punbb/calendar_box.tpl#L52)
 * __[`{L_ADD_EVENT}`](https://github.com/Etana/template/blob/master/var/L_ADD_EVENT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADD_EVENT">*</a> :__ lignes [`52`](../src/punbb/calendar_box.tpl#L52), [`52`](../src/punbb/calendar_box.tpl#L52), [`67`](../src/punbb/calendar_box.tpl#L67)
@@ -75,7 +75,7 @@
 * __[`<!-- END _calendar_box -->`](https://github.com/Etana/template/blob/master/var/_calendar_box.md#readme) :__ ligne [`72`](../src/punbb/calendar_box.tpl#L72)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{DOWN_ARROW}`](https://github.com/Etana/template/blob/master/var/DOWN_ARROW.md#readme)<a href="https://fa-tvars.appspot.com/var/DOWN_ARROW">*</a> :__ lignes [`56`](../src/subsilver/calendar_box.tpl#L56), [`67`](../src/subsilver/calendar_box.tpl#L67)
 * __[`{L_ADD_EVENT}`](https://github.com/Etana/template/blob/master/var/L_ADD_EVENT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADD_EVENT">*</a> :__ lignes [`44`](../src/subsilver/calendar_box.tpl#L44), [`44`](../src/subsilver/calendar_box.tpl#L44), [`94`](../src/subsilver/calendar_box.tpl#L94)

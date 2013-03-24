@@ -1,6 +1,6 @@
 # DO_NOT_AGREE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`agreement`](../tpl/var/agreement.md)
+* __Disponible dans :__ [`agreement`](../tpl/var/agreement.md#readme)
 * __Utilisation :__
 
 ```html

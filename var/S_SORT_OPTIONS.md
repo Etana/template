@@ -1,6 +1,6 @@
 # S_SORT_OPTIONS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`search_body`](../tpl/var/search_body.md)
+* __Disponible dans :__ [`search_body`](../tpl/var/search_body.md#readme)
 * __Utilisation :__
 
 ```html

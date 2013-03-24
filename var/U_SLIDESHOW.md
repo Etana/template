@@ -1,6 +1,6 @@
 # U_SLIDESHOW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_slideshow_body`](../tpl/var/album_slideshow_body.md)
+* __Disponible dans :__ [`album_slideshow_body`](../tpl/var/album_slideshow_body.md#readme)
 * __Utilisation :__
 
 ```html

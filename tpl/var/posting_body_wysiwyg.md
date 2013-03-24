@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=502) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=502) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=502) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=502) > [`posting_body_wysiwyg`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=502)
@@ -211,7 +211,7 @@
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN switch_username_select -->...<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ADD_USERNAME_IMG}`](https://github.com/Etana/template/blob/master/var/ADD_USERNAME_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_USERNAME_IMG">*</a> :__ ligne [`247`](../src/punbb/posting_body_wysiwyg.tpl#L247)
 * __[`{ALIGN_CENTER}`](https://github.com/Etana/template/blob/master/var/ALIGN_CENTER.md#readme)<a href="https://fa-tvars.appspot.com/var/ALIGN_CENTER">*</a> :__ ligne [`407`](../src/punbb/posting_body_wysiwyg.tpl#L407)
@@ -473,7 +473,7 @@
 * __[`<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme) :__ ligne [`230`](../src/punbb/posting_body_wysiwyg.tpl#L230)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ADD_USERNAME_IMG}`](https://github.com/Etana/template/blob/master/var/ADD_USERNAME_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_USERNAME_IMG">*</a> :__ ligne [`280`](../src/subsilver/posting_body_wysiwyg.tpl#L280)
 * __[`{ALIGN_CENTER}`](https://github.com/Etana/template/blob/master/var/ALIGN_CENTER.md#readme)<a href="https://fa-tvars.appspot.com/var/ALIGN_CENTER">*</a> :__ ligne [`461`](../src/subsilver/posting_body_wysiwyg.tpl#L461)

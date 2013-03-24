@@ -1,6 +1,6 @@
 # SITENAME
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`agreement`](../tpl/var/agreement.md), [`overall_header`](../tpl/var/overall_header.md), [`simple_header`](../tpl/var/simple_header.md)
+* __Disponible dans :__ [`agreement`](../tpl/var/agreement.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
 * __Utilisation :__
 
 ```html

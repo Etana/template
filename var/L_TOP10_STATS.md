@@ -1,6 +1,6 @@
 # L_TOP10_STATS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_cat_top10`](../tpl/var/album_cat_top10.md)
+* __Disponible dans :__ [`album_cat_top10`](../tpl/var/album_cat_top10.md#readme)
 * __Utilisation :__
 
 ```html

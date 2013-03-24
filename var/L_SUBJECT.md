@@ -1,6 +1,6 @@
 # L_SUBJECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md), [`modcp_viewip`](../tpl/var/modcp_viewip.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`privmsgs_body`](../tpl/var/privmsgs_body.md), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md), [`profile_send_email`](../tpl/var/profile_send_email.md), [`search_results_posts`](../tpl/var/search_results_posts.md)
+* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md#readme), [`modcp_viewip`](../tpl/var/modcp_viewip.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme), [`profile_send_email`](../tpl/var/profile_send_email.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # MESSAGE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`posting_preview`](../tpl/var/posting_preview.md), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md), [`profile_send_email`](../tpl/var/profile_send_email.md)
+* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_preview`](../tpl/var/posting_preview.md#readme), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme), [`profile_send_email`](../tpl/var/profile_send_email.md#readme)
 * __Utilisation :__
 
 ```html

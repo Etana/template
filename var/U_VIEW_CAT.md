@@ -1,6 +1,6 @@
 # U_VIEW_CAT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_upload_body`](../tpl/var/album_upload_body.md)
+* __Disponible dans :__ [`album_upload_body`](../tpl/var/album_upload_body.md#readme)
 * __Utilisation :__
 
 ```html

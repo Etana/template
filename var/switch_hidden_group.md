@@ -1,6 +1,6 @@
 # switch_hidden_group
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme)
 * __Utilisation :__
 
 ```html

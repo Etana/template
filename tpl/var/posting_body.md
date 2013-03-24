@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=501) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=501) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=501) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=501) > [`posting_body`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=501)
@@ -256,7 +256,7 @@
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN switch_username_select -->...<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ADD_USERNAME_IMG}`](https://github.com/Etana/template/blob/master/var/ADD_USERNAME_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_USERNAME_IMG">*</a> :__ ligne [`91`](../src/punbb/posting_body.tpl#L91)
 * __[`{BBCODE_STATUS}`](https://github.com/Etana/template/blob/master/var/BBCODE_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/BBCODE_STATUS">*</a> :__ ligne [`456`](../src/punbb/posting_body.tpl#L456)
@@ -566,7 +566,7 @@
 * __[`<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme) :__ ligne [`74`](../src/punbb/posting_body.tpl#L74)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ADD_USERNAME_IMG}`](https://github.com/Etana/template/blob/master/var/ADD_USERNAME_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_USERNAME_IMG">*</a> :__ ligne [`107`](../src/subsilver/posting_body.tpl#L107)
 * __[`{ATTACHMENT_CLOSE}`](https://github.com/Etana/template/blob/master/var/ATTACHMENT_CLOSE.md#readme)<a href="https://fa-tvars.appspot.com/var/ATTACHMENT_CLOSE">*</a> :__ ligne [`658`](../src/subsilver/posting_body.tpl#L658)

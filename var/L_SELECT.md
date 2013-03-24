@@ -1,6 +1,6 @@
 # L_SELECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_moderate_body`](../tpl/var/album_moderate_body.md), [`groupcp_info_body`](../tpl/var/groupcp_info_body.md), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md), [`merge_select_body`](../tpl/var/merge_select_body.md), [`modcp_body`](../tpl/var/modcp_body.md), [`modcp_split`](../tpl/var/modcp_split.md), [`search_username`](../tpl/var/search_username.md)
+* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`merge_select_body`](../tpl/var/merge_select_body.md#readme), [`modcp_body`](../tpl/var/modcp_body.md#readme), [`modcp_split`](../tpl/var/modcp_split.md#readme), [`search_username`](../tpl/var/search_username.md#readme)
 * __Utilisation :__
 
 ```html

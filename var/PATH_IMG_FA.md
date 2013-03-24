@@ -1,6 +1,6 @@
 # PATH_IMG_FA
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md), [`privmsgs_body`](../tpl/var/privmsgs_body.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme), [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

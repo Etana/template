@@ -1,6 +1,6 @@
 # L_POST
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md), [`posting_preview`](../tpl/var/posting_preview.md), [`report_view_body`](../tpl/var/report_view_body.md)
+* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md#readme), [`posting_preview`](../tpl/var/posting_preview.md#readme), [`report_view_body`](../tpl/var/report_view_body.md#readme)
 * __Utilisation :__
 
 ```html

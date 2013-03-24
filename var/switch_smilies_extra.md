@@ -1,6 +1,6 @@
 # switch_smilies_extra
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`posting_smilies`](../tpl/var/posting_smilies.md)
+* __Disponible dans :__ [`posting_smilies`](../tpl/var/posting_smilies.md#readme)
 * __Utilisation :__
 
 ```html

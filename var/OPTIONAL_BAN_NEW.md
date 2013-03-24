@@ -1,6 +1,6 @@
 # OPTIONAL_BAN_NEW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`confirm_body`](../tpl/var/confirm_body.md)
+* __Disponible dans :__ [`confirm_body`](../tpl/var/confirm_body.md#readme)
 * __Utilisation :__
 
 ```html

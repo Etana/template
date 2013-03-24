@@ -1,6 +1,6 @@
 # L_MARK_TOPICS_READ
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`topics_list_box`](../tpl/var/topics_list_box.md), [`viewforum_body`](../tpl/var/viewforum_body.md)
+* __Disponible dans :__ [`topics_list_box`](../tpl/var/topics_list_box.md#readme), [`viewforum_body`](../tpl/var/viewforum_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # S_SOURCE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`standard`](../tpl/var/standard.md)
+* __Disponible dans :__ [`standard`](../tpl/var/standard.md#readme)
 * __Utilisation :__
 
 ```html

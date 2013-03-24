@@ -1,6 +1,6 @@
 # MERGE_BOX
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`merge_select_body`](../tpl/var/merge_select_body.md)
+* __Disponible dans :__ [`merge_select_body`](../tpl/var/merge_select_body.md#readme)
 * __Utilisation :__
 
 ```html

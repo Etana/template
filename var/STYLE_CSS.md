@@ -1,6 +1,6 @@
 # STYLE_CSS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md), [`album_cat_top10`](../tpl/var/album_cat_top10.md), [`album_edit_body`](../tpl/var/album_edit_body.md), [`album_index_body`](../tpl/var/album_index_body.md), [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_moderate_body`](../tpl/var/album_moderate_body.md), [`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md), [`album_search_body`](../tpl/var/album_search_body.md), [`album_showpage_body`](../tpl/var/album_showpage_body.md), [`album_slideshow_body`](../tpl/var/album_slideshow_body.md), [`album_upload_body`](../tpl/var/album_upload_body.md)
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme), [`album_cat_top10`](../tpl/var/album_cat_top10.md#readme), [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`album_index_body`](../tpl/var/album_index_body.md#readme), [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme), [`album_search_body`](../tpl/var/album_search_body.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`album_slideshow_body`](../tpl/var/album_slideshow_body.md#readme), [`album_upload_body`](../tpl/var/album_upload_body.md#readme)
 * __Utilisation :__
 
 ```html

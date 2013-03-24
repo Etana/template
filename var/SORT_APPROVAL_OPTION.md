@@ -1,6 +1,6 @@
 # SORT_APPROVAL_OPTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_moderate_body`](../tpl/var/album_moderate_body.md)
+* __Disponible dans :__ [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme)
 * __Utilisation :__
 
 ```html

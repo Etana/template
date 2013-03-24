@@ -1,6 +1,6 @@
 # L_SPLIT_TOPIC_EXPLAIN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md)
+* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md#readme)
 * __Utilisation :__
 
 ```html

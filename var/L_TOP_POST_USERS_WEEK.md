@@ -1,6 +1,6 @@
 # L_TOP_POST_USERS_WEEK
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_top_post_users_week`](../tpl/var/mod_top_post_users_week.md)
+* __Disponible dans :__ [`mod_top_post_users_week`](../tpl/var/mod_top_post_users_week.md#readme)
 * __Utilisation :__
 
 ```html

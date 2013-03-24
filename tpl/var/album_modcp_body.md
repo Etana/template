@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=206) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=206) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=206) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=206) > [`album_modcp_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=206)
@@ -79,7 +79,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{DELETE_PERSONAL_GALLERY}`](https://github.com/Etana/template/blob/master/var/DELETE_PERSONAL_GALLERY.md#readme)<a href="https://fa-tvars.appspot.com/var/DELETE_PERSONAL_GALLERY">*</a> :__ ligne [`26`](../src/punbb/album_modcp_body.tpl#L26)
 * __[`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MENU">*</a> :__ ligne [`1`](../src/punbb/album_modcp_body.tpl#L1)
@@ -152,7 +152,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`15`](../src/punbb/album_modcp_body.tpl#L15)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{APPROVAL_BUTTON}`](https://github.com/Etana/template/blob/master/var/APPROVAL_BUTTON.md#readme)<a href="https://fa-tvars.appspot.com/var/APPROVAL_BUTTON">*</a> :__ ligne [`57`](../src/subsilver/album_modcp_body.tpl#L57)
 * __[`{DELETE_BUTTON}`](https://github.com/Etana/template/blob/master/var/DELETE_BUTTON.md#readme)<a href="https://fa-tvars.appspot.com/var/DELETE_BUTTON">*</a> :__ ligne [`57`](../src/subsilver/album_modcp_body.tpl#L57)

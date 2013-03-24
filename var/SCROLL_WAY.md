@@ -1,6 +1,6 @@
 # SCROLL_WAY
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_recent_topics`](../tpl/var/mod_recent_topics.md)
+* __Disponible dans :__ [`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme)
 * __Utilisation :__
 
 ```html

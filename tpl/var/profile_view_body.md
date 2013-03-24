@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=708) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=708) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=708) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=708) > [`profile_view_body`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=708)
@@ -84,7 +84,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ADMINISTRATE_USER}`](https://github.com/Etana/template/blob/master/var/ADMINISTRATE_USER.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMINISTRATE_USER">*</a> :__ ligne [`39`](../src/punbb/profile_view_body.tpl#L39)
 * __[`{ADMIN_USER_COMMENT}`](https://github.com/Etana/template/blob/master/var/ADMIN_USER_COMMENT.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMIN_USER_COMMENT">*</a> :__ ligne [`64`](../src/punbb/profile_view_body.tpl#L64)
@@ -175,7 +175,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/profile_view_body.tpl#L14)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ADMINISTRATE_USER}`](https://github.com/Etana/template/blob/master/var/ADMINISTRATE_USER.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMINISTRATE_USER">*</a> :__ ligne [`41`](../src/subsilver/profile_view_body.tpl#L41)
 * __[`{ADMIN_USER_COMMENT}`](https://github.com/Etana/template/blob/master/var/ADMIN_USER_COMMENT.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMIN_USER_COMMENT">*</a> :__ ligne [`91`](../src/subsilver/profile_view_body.tpl#L91)

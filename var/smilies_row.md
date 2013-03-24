@@ -1,6 +1,6 @@
 # smilies_row
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`posting_smilies`](../tpl/var/posting_smilies.md), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md)
+* __Disponible dans :__ [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_smilies`](../tpl/var/posting_smilies.md#readme), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme)
 * __Utilisation :__
 
 ```html

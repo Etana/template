@@ -1,6 +1,6 @@
 # ALBUMS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md)
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme)
 * __Utilisation :__
 
 ```html

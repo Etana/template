@@ -1,6 +1,6 @@
 # U_VIEW_FORUM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`faq_body`](../tpl/var/faq_body.md), [`faq_dhtml`](../tpl/var/faq_dhtml.md), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md), [`profile_send_pass`](../tpl/var/profile_send_pass.md), [`viewonline_body`](../tpl/var/viewonline_body.md)
+* __Disponible dans :__ [`faq_body`](../tpl/var/faq_body.md#readme), [`faq_dhtml`](../tpl/var/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme), [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
 * __Utilisation :__
 
 ```html

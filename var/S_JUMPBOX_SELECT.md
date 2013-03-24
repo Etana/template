@@ -1,6 +1,6 @@
 # S_JUMPBOX_SELECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`jumpbox`](../tpl/var/jumpbox.md), [`overall_footer_begin`](../tpl/var/overall_footer_begin.md), [`viewforum_body`](../tpl/var/viewforum_body.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`jumpbox`](../tpl/var/jumpbox.md#readme), [`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme), [`viewforum_body`](../tpl/var/viewforum_body.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

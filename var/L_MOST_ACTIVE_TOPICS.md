@@ -1,6 +1,6 @@
 # L_MOST_ACTIVE_TOPICS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_most_active_topics`](../tpl/var/mod_most_active_topics.md)
+* __Disponible dans :__ [`mod_most_active_topics`](../tpl/var/mod_most_active_topics.md#readme)
 * __Utilisation :__
 
 ```html

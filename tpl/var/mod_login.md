@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=916) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=916) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=916) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=916) > [`mod_login`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=916)
@@ -41,7 +41,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme) :__ lignes [`17`](../src/punbb/mod_login.tpl#L17), [`37`](../src/punbb/mod_login.tpl#L37)
 * __[`{L_AUTO_LOGIN}`](https://github.com/Etana/template/blob/master/var/L_AUTO_LOGIN.md#readme) :__ lignes [`17`](../src/punbb/mod_login.tpl#L17), [`37`](../src/punbb/mod_login.tpl#L37)
@@ -68,7 +68,7 @@
 * __[`<!-- END switch_profile -->`](https://github.com/Etana/template/blob/master/var/switch_profile.md#readme) :__ ligne [`57`](../src/punbb/mod_login.tpl#L57)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme) :__ lignes [`21`](../src/subsilver/mod_login.tpl#L21), [`56`](../src/subsilver/mod_login.tpl#L56)
 * __[`{DIRECTION}`](https://github.com/Etana/template/blob/master/var/DIRECTION.md#readme)<a href="https://fa-tvars.appspot.com/var/DIRECTION">*</a> :__ lignes [`83`](../src/subsilver/mod_login.tpl#L83), [`84`](../src/subsilver/mod_login.tpl#L84), [`84`](../src/subsilver/mod_login.tpl#L84)

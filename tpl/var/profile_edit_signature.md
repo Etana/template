@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=704) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=704) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=704) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=704) > [`profile_edit_signature`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=704)
@@ -51,7 +51,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{BBCODE_STATUS}`](https://github.com/Etana/template/blob/master/var/BBCODE_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/BBCODE_STATUS">*</a> :__ ligne [`42`](../src/punbb/profile_edit_signature.tpl#L42)
 * __[`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme) :__ ligne [`19`](../src/punbb/profile_edit_signature.tpl#L19)
@@ -88,7 +88,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/profile_edit_signature.tpl#L14)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme) :__ ligne [`10`](../src/subsilver/profile_edit_signature.tpl#L10)
 * __[`{L_CURRENT_PREVIEW_SIGNATURE}`](https://github.com/Etana/template/blob/master/var/L_CURRENT_PREVIEW_SIGNATURE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CURRENT_PREVIEW_SIGNATURE">*</a> :__ ligne [`23`](../src/subsilver/profile_edit_signature.tpl#L23)

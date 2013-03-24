@@ -1,6 +1,6 @@
 # li_row
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`mod_keywords`](../tpl/var/mod_keywords.md)
+* __Disponible dans :__ [`mod_keywords`](../tpl/var/mod_keywords.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_ERROR_MSG
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_confirm_code`](../tpl/var/posting_confirm_code.md)
+* __Disponible dans :__ [`posting_confirm_code`](../tpl/var/posting_confirm_code.md#readme)
 * __Utilisation :__
 
 ```html

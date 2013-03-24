@@ -1,6 +1,6 @@
 # S_PROFILE_ACTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md), [`profile_send_pass`](../tpl/var/profile_send_pass.md), [`profile_view_body`](../tpl/var/profile_view_body.md)
+* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme), [`profile_view_body`](../tpl/var/profile_view_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_TODAY_POSTERS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`index_box`](../tpl/var/index_box.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`index_box`](../tpl/var/index_box.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_INSERT_CODE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`donate`](../tpl/var/donate.md)
+* __Disponible dans :__ [`donate`](../tpl/var/donate.md#readme)
 * __Utilisation :__
 
 ```html

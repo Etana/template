@@ -1,6 +1,6 @@
 # L_GO
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`jumpbox`](../tpl/var/jumpbox.md), [`merge_select_body`](../tpl/var/merge_select_body.md), [`overall_footer_begin`](../tpl/var/overall_footer_begin.md), [`privmsgs_body`](../tpl/var/privmsgs_body.md), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md), [`report_list_body`](../tpl/var/report_list_body.md), [`viewforum_body`](../tpl/var/viewforum_body.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`jumpbox`](../tpl/var/jumpbox.md#readme), [`merge_select_body`](../tpl/var/merge_select_body.md#readme), [`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme), [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme), [`report_list_body`](../tpl/var/report_list_body.md#readme), [`viewforum_body`](../tpl/var/viewforum_body.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # TABS_LESS_IMG
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md), [`album_showpage_body`](../tpl/var/album_showpage_body.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`posting_poll_body`](../tpl/var/posting_poll_body.md), [`search_body`](../tpl/var/search_body.md), [`viewforum_body`](../tpl/var/viewforum_body.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_poll_body`](../tpl/var/posting_poll_body.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`viewforum_body`](../tpl/var/viewforum_body.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

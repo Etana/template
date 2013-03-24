@@ -1,6 +1,6 @@
 # U_CANCEL_VOTE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md)
+* __Disponible dans :__ [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
 ```html

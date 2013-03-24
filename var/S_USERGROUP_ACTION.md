@@ -1,6 +1,6 @@
 # S_USERGROUP_ACTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_user_body`](../tpl/var/groupcp_user_body.md)
+* __Disponible dans :__ [`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme)
 * __Utilisation :__
 
 ```html

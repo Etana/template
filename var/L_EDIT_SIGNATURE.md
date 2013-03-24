@@ -1,6 +1,6 @@
 # L_EDIT_SIGNATURE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_edit_signature`](../tpl/var/profile_edit_signature.md)
+* __Disponible dans :__ [`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme)
 * __Utilisation :__
 
 ```html

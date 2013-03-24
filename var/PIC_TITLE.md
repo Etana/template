@@ -1,6 +1,6 @@
 # PIC_TITLE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md), [`album_showpage_body`](../tpl/var/album_showpage_body.md), [`album_slideshow_body`](../tpl/var/album_slideshow_body.md)
+* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`album_slideshow_body`](../tpl/var/album_slideshow_body.md#readme)
 * __Utilisation :__
 
 ```html

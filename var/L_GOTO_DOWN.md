@@ -1,6 +1,6 @@
 # L_GOTO_DOWN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

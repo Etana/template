@@ -1,6 +1,6 @@
 # switch_image_resize
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md), [`search_results_posts`](../tpl/var/search_results_posts.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

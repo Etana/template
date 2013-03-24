@@ -1,6 +1,6 @@
 # JS_DIR
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md), [`overall_header`](../tpl/var/overall_header.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md), [`profile_view_body`](../tpl/var/profile_view_body.md), [`search_body`](../tpl/var/search_body.md), [`search_results_posts`](../tpl/var/search_results_posts.md), [`simple_header`](../tpl/var/simple_header.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme), [`profile_view_body`](../tpl/var/profile_view_body.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_POSTS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md), [`index_box`](../tpl/var/index_box.md), [`memberlist_body`](../tpl/var/memberlist_body.md), [`profile_view_body`](../tpl/var/profile_view_body.md), [`search_body`](../tpl/var/search_body.md)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`index_box`](../tpl/var/index_box.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`profile_view_body`](../tpl/var/profile_view_body.md#readme), [`search_body`](../tpl/var/search_body.md#readme)
 * __Utilisation :__
 
 ```html

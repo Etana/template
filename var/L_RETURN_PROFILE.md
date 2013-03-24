@@ -1,6 +1,6 @@
 # L_RETURN_PROFILE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md)
+* __Disponible dans :__ [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme)
 * __Utilisation :__
 
 ```html

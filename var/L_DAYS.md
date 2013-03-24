@@ -1,6 +1,6 @@
 # L_DAYS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`posting_poll_body`](../tpl/var/posting_poll_body.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_poll_body`](../tpl/var/posting_poll_body.md#readme)
 * __Utilisation :__
 
 ```html

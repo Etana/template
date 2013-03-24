@@ -1,6 +1,6 @@
 # TOPIC_TITLE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md), [`merge_body`](../tpl/var/merge_body.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md#readme), [`merge_body`](../tpl/var/merge_body.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

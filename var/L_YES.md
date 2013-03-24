@@ -1,6 +1,6 @@
 # L_YES
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`confirm_body`](../tpl/var/confirm_body.md), [`donate`](../tpl/var/donate.md), [`modcp_move`](../tpl/var/modcp_move.md), [`posting_poll_body`](../tpl/var/posting_poll_body.md), [`profile_add_body`](../tpl/var/profile_add_body.md)
+* __Disponible dans :__ [`confirm_body`](../tpl/var/confirm_body.md#readme), [`donate`](../tpl/var/donate.md#readme), [`modcp_move`](../tpl/var/modcp_move.md#readme), [`posting_poll_body`](../tpl/var/posting_poll_body.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html

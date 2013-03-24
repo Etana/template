@@ -1,6 +1,6 @@
 # L_RSS_FEEDS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_rss_feeds`](../tpl/var/mod_rss_feeds.md)
+* __Disponible dans :__ [`mod_rss_feeds`](../tpl/var/mod_rss_feeds.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # SUBJECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_viewip`](../tpl/var/modcp_viewip.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`profile_send_email`](../tpl/var/profile_send_email.md)
+* __Disponible dans :__ [`modcp_viewip`](../tpl/var/modcp_viewip.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`profile_send_email`](../tpl/var/profile_send_email.md#readme)
 * __Utilisation :__
 
 ```html

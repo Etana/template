@@ -1,6 +1,6 @@
 # switch_set_font
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md)
+* __Disponible dans :__ [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme)
 * __Utilisation :__
 
 ```html

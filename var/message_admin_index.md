@@ -1,6 +1,6 @@
 # message_admin_index
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`message_admin_index`](../tpl/var/message_admin_index.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`message_admin_index`](../tpl/var/message_admin_index.md#readme)
 * __Utilisation :__
 
 ```html

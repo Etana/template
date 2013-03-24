@@ -1,6 +1,6 @@
 # switch_inline_mode
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`posting_topic_review`](../tpl/var/posting_topic_review.md), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md)
+* __Disponible dans :__ [`posting_topic_review`](../tpl/var/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
 ```html

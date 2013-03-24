@@ -1,6 +1,6 @@
 # googlemap
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`viewonline_body`](../tpl/var/viewonline_body.md)
+* __Disponible dans :__ [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
 * __Utilisation :__
 
 ```html

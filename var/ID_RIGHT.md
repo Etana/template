@@ -1,6 +1,6 @@
 # ID_RIGHT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_footer_begin`](../tpl/var/overall_footer_begin.md)
+* __Disponible dans :__ [`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_ABOUT_USER
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_view_body`](../tpl/var/profile_view_body.md), [`rpg_sheet`](../tpl/var/rpg_sheet.md)
+* __Disponible dans :__ [`profile_view_body`](../tpl/var/profile_view_body.md#readme), [`rpg_sheet`](../tpl/var/rpg_sheet.md#readme)
 * __Utilisation :__
 
 ```html

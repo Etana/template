@@ -1,6 +1,6 @@
 # out_giefmod0
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`portal_body`](../tpl/var/portal_body.md)
+* __Disponible dans :__ [`portal_body`](../tpl/var/portal_body.md#readme)
 * __Utilisation :__
 
 ```html

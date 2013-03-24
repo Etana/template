@@ -1,6 +1,6 @@
 # switch_sticky
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`modcp_body`](../tpl/var/modcp_body.md)
+* __Disponible dans :__ [`modcp_body`](../tpl/var/modcp_body.md#readme)
 * __Utilisation :__
 
 ```html

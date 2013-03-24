@@ -1,6 +1,6 @@
 # L_MESSAGE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md), [`modcp_split`](../tpl/var/modcp_split.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_topic_review`](../tpl/var/posting_topic_review.md), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md), [`report_popup_body`](../tpl/var/report_popup_body.md), [`search_results_posts`](../tpl/var/search_results_posts.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md#readme), [`modcp_split`](../tpl/var/modcp_split.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_topic_review`](../tpl/var/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme), [`report_popup_body`](../tpl/var/report_popup_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # switch_rate
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`album_overview_top10`](../tpl/var/album_overview_top10.md)
+* __Disponible dans :__ [`album_overview_top10`](../tpl/var/album_overview_top10.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # switch_view_stats
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`simple_footer`](../tpl/var/simple_footer.md)
+* __Disponible dans :__ [`simple_footer`](../tpl/var/simple_footer.md#readme)
 * __Utilisation :__
 
 ```html

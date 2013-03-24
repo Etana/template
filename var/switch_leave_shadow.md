@@ -1,6 +1,6 @@
 # switch_leave_shadow
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`modcp_move`](../tpl/var/modcp_move.md)
+* __Disponible dans :__ [`modcp_move`](../tpl/var/modcp_move.md#readme)
 * __Utilisation :__
 
 ```html

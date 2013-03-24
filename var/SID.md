@@ -1,6 +1,6 @@
 # SID
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md), [`search_body`](../tpl/var/search_body.md)
+* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`search_body`](../tpl/var/search_body.md#readme)
 * __Utilisation :__
 
 ```html

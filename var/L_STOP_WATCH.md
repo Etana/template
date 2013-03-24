@@ -1,6 +1,6 @@
 # L_STOP_WATCH
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`search_results_topics`](../tpl/var/search_results_topics.md)
+* __Disponible dans :__ [`search_results_topics`](../tpl/var/search_results_topics.md#readme)
 * __Utilisation :__
 
 ```html

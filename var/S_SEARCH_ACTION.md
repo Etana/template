@@ -1,6 +1,6 @@
 # S_SEARCH_ACTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_formsearch_body`](../tpl/var/album_formsearch_body.md), [`search_body`](../tpl/var/search_body.md), [`search_username`](../tpl/var/search_username.md)
+* __Disponible dans :__ [`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`search_username`](../tpl/var/search_username.md#readme)
 * __Utilisation :__
 
 ```html

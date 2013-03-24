@@ -1,6 +1,6 @@
 # L_DELETE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_moderate_body`](../tpl/var/album_moderate_body.md), [`modcp_body`](../tpl/var/modcp_body.md), [`profile_add_body`](../tpl/var/profile_add_body.md), [`report_list_body`](../tpl/var/report_list_body.md)
+* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`modcp_body`](../tpl/var/modcp_body.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`report_list_body`](../tpl/var/report_list_body.md#readme)
 * __Utilisation :__
 
 ```html

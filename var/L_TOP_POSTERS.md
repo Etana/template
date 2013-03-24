@@ -1,6 +1,6 @@
 # L_TOP_POSTERS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_top_posters`](../tpl/var/mod_top_posters.md)
+* __Disponible dans :__ [`mod_top_posters`](../tpl/var/mod_top_posters.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # JAVASCRIPT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`overall_header`](../tpl/var/overall_header.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme)
 * __Utilisation :__
 
 ```html

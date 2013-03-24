@@ -1,6 +1,6 @@
 # row
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md), [`report_list_body`](../tpl/var/report_list_body.md), [`report_view_body`](../tpl/var/report_view_body.md)
+* __Disponible dans :__ [`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme), [`report_list_body`](../tpl/var/report_list_body.md#readme), [`report_view_body`](../tpl/var/report_view_body.md#readme)
 * __Utilisation :__
 
 ```html

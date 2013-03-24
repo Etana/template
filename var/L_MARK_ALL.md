@@ -1,6 +1,6 @@
 # L_MARK_ALL
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md), [`search_results_topics`](../tpl/var/search_results_topics.md)
+* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme)
 * __Utilisation :__
 
 ```html

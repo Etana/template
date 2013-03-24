@@ -1,6 +1,6 @@
 # switch_list
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`report_list_body`](../tpl/var/report_list_body.md)
+* __Disponible dans :__ [`report_list_body`](../tpl/var/report_list_body.md#readme)
 * __Utilisation :__
 
 ```html

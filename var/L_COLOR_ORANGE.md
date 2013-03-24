@@ -1,6 +1,6 @@
 # L_COLOR_ORANGE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme)
 * __Utilisation :__
 
 ```html

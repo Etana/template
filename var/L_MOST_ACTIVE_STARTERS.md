@@ -1,6 +1,6 @@
 # L_MOST_ACTIVE_STARTERS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_most_active_starters`](../tpl/var/mod_most_active_starters.md)
+* __Disponible dans :__ [`mod_most_active_starters`](../tpl/var/mod_most_active_starters.md#readme)
 * __Utilisation :__
 
 ```html

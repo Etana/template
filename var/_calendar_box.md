@@ -1,6 +1,6 @@
 # _calendar_box
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`calendar_box`](../tpl/var/calendar_box.md)
+* __Disponible dans :__ [`calendar_box`](../tpl/var/calendar_box.md#readme)
 * __Utilisation :__
 
 ```html

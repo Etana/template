@@ -1,6 +1,6 @@
 # L_PREVIEW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_viewip`](../tpl/var/modcp_viewip.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`posting_preview`](../tpl/var/posting_preview.md), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md)
+* __Disponible dans :__ [`modcp_viewip`](../tpl/var/modcp_viewip.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_preview`](../tpl/var/posting_preview.md#readme), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md#readme), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme)
 * __Utilisation :__
 
 ```html

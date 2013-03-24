@@ -1,6 +1,6 @@
 # list_pics_block
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md), [`album_cat_top10`](../tpl/var/album_cat_top10.md)
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme), [`album_cat_top10`](../tpl/var/album_cat_top10.md#readme)
 * __Utilisation :__
 
 ```html

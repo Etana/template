@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Templates | Groupes`](http://votre-forum.appspot.com/admin/?mode=group&part=themes&sub=templates#?mode=edit_group&part=themes&sub=templates&t=802) > [`groupcp_pending_info`](http://votre-forum.appspot.com/admin/?mode=edit_group&part=themes&sub=templates&t=802)
@@ -31,7 +31,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{L_APPROVE_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_APPROVE_SELECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_APPROVE_SELECTED">*</a> :__ ligne [`35`](../src/punbb/groupcp_pending_info.tpl#L35)
 * __[`{L_DENY_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_DENY_SELECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DENY_SELECTED">*</a> :__ ligne [`35`](../src/punbb/groupcp_pending_info.tpl#L35)
@@ -55,7 +55,7 @@
 * __[`<!-- END pending_members_row -->`](https://github.com/Etana/template/blob/master/var/pending_members_row.md#readme) :__ ligne [`30`](../src/punbb/groupcp_pending_info.tpl#L30)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{L_APPROVE_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_APPROVE_SELECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_APPROVE_SELECTED">*</a> :__ ligne [`27`](../src/subsilver/groupcp_pending_info.tpl#L27)
 * __[`{L_DENY_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_DENY_SELECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DENY_SELECTED">*</a> :__ ligne [`29`](../src/subsilver/groupcp_pending_info.tpl#L29)

@@ -1,6 +1,6 @@
 # L_TOPIC_DATE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md)
+* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_GROUP_HIDDEN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme)
 * __Utilisation :__
 
 ```html

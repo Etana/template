@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=118) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=118) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=118) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=118) > [`search_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=118)
@@ -73,7 +73,7 @@ Ce template affiche la page de recherche de votre forum : `/search`
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{GOOGLE_CODE}`](https://github.com/Etana/template/blob/master/var/GOOGLE_CODE.md#readme)<a href="https://fa-tvars.appspot.com/var/GOOGLE_CODE">*</a> :__ ligne [`38`](../src/punbb/search_body.tpl#L38)
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`1`](../src/punbb/search_body.tpl#L1)
@@ -125,7 +125,7 @@ Ce template affiche la page de recherche de votre forum : `/search`
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`15`](../src/punbb/search_body.tpl#L15)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{GOOGLE_CODE}`](https://github.com/Etana/template/blob/master/var/GOOGLE_CODE.md#readme)<a href="https://fa-tvars.appspot.com/var/GOOGLE_CODE">*</a> :__ ligne [`15`](../src/subsilver/search_body.tpl#L15)
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`1`](../src/subsilver/search_body.tpl#L1)

@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=509) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=509) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=509) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=509) > [`posting_topic_review`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=509)
@@ -26,7 +26,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW">*</a> :__ ligne [`3`](../src/punbb/posting_topic_review.tpl#L3)
 * __[`<!-- BEGIN postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow">*</a> :__ ligne [`7`](../src/punbb/posting_topic_review.tpl#L7)
@@ -46,7 +46,7 @@
 * __[`<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme) :__ ligne [`5`](../src/punbb/posting_topic_review.tpl#L5)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`21`](../src/subsilver/posting_topic_review.tpl#L21)
 * __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`10`](../src/subsilver/posting_topic_review.tpl#L10)

@@ -1,6 +1,6 @@
 # L_CLOSE_WINDOW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md), [`posting_smilies`](../tpl/var/posting_smilies.md), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md), [`report_popup_body`](../tpl/var/report_popup_body.md), [`search_username`](../tpl/var/search_username.md)
+* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md#readme), [`posting_smilies`](../tpl/var/posting_smilies.md#readme), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme), [`report_popup_body`](../tpl/var/report_popup_body.md#readme), [`search_username`](../tpl/var/search_username.md#readme)
 * __Utilisation :__
 
 ```html

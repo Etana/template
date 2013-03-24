@@ -1,6 +1,6 @@
 # switch_facebook_login
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`overall_footer_end`](../tpl/var/overall_footer_end.md)
+* __Disponible dans :__ [`overall_footer_end`](../tpl/var/overall_footer_end.md#readme)
 * __Utilisation :__
 
 ```html

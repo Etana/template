@@ -1,6 +1,6 @@
 # SMILIES_STATUS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme)
 * __Utilisation :__
 
 ```html

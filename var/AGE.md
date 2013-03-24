@@ -1,6 +1,6 @@
 # AGE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_overview_profil`](../tpl/var/calendar_overview_profil.md)
+* __Disponible dans :__ [`calendar_overview_profil`](../tpl/var/calendar_overview_profil.md#readme)
 * __Utilisation :__
 
 ```html

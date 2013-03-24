@@ -1,6 +1,6 @@
 # POSTER
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`album_overview_top10`](../tpl/var/album_overview_top10.md), [`album_showpage_body`](../tpl/var/album_showpage_body.md), [`mod_most_active_starters`](../tpl/var/mod_most_active_starters.md), [`mod_top_post_users_month`](../tpl/var/mod_top_post_users_month.md), [`mod_top_post_users_week`](../tpl/var/mod_top_post_users_week.md), [`mod_top_posters`](../tpl/var/mod_top_posters.md), [`modcp_viewip`](../tpl/var/modcp_viewip.md)
+* __Disponible dans :__ [`album_overview_top10`](../tpl/var/album_overview_top10.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`mod_most_active_starters`](../tpl/var/mod_most_active_starters.md#readme), [`mod_top_post_users_month`](../tpl/var/mod_top_post_users_month.md#readme), [`mod_top_post_users_week`](../tpl/var/mod_top_post_users_week.md#readme), [`mod_top_posters`](../tpl/var/mod_top_posters.md#readme), [`modcp_viewip`](../tpl/var/modcp_viewip.md#readme)
 * __Utilisation :__
 
 ```html

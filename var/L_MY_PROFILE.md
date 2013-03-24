@@ -1,6 +1,6 @@
 # L_MY_PROFILE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md), [`profile_add_body`](../tpl/var/profile_add_body.md)
+* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html

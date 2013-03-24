@@ -1,6 +1,6 @@
 # IP1
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_viewip`](../tpl/var/modcp_viewip.md)
+* __Disponible dans :__ [`modcp_viewip`](../tpl/var/modcp_viewip.md#readme)
 * __Utilisation :__
 
 ```html

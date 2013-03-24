@@ -1,6 +1,6 @@
 # move_to_category
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md)
+* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md#readme)
 * __Utilisation :__
 
 ```html

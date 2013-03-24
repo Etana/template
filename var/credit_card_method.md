@@ -1,6 +1,6 @@
 # credit_card_method
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`donate`](../tpl/var/donate.md)
+* __Disponible dans :__ [`donate`](../tpl/var/donate.md#readme)
 * __Utilisation :__
 
 ```html

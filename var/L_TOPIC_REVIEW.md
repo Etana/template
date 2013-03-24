@@ -1,6 +1,6 @@
 # L_TOPIC_REVIEW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_topic_review`](../tpl/var/posting_topic_review.md), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md)
+* __Disponible dans :__ [`posting_topic_review`](../tpl/var/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
 ```html

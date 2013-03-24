@@ -1,6 +1,6 @@
 # switch_tell_friend
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`profile_send_email`](../tpl/var/profile_send_email.md)
+* __Disponible dans :__ [`profile_send_email`](../tpl/var/profile_send_email.md#readme)
 * __Utilisation :__
 
 ```html

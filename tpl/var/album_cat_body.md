@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=201) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=201) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=201) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=201) > [`album_cat_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=201)
@@ -93,7 +93,7 @@
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN view_moderation -->...<!-- END view_moderation -->`](https://github.com/Etana/template/blob/master/var/view_moderation.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ALBUMS}`](https://github.com/Etana/template/blob/master/var/ALBUMS.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUMS">*</a> :__ ligne [`32`](../src/punbb/album_cat_body.tpl#L32)
 * __[`{ALBUM_ID}`](https://github.com/Etana/template/blob/master/var/ALBUM_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUM_ID">*</a> :__ ligne [`58`](../src/punbb/album_cat_body.tpl#L58)
@@ -224,7 +224,7 @@
 * __[`<!-- END view_moderation -->`](https://github.com/Etana/template/blob/master/var/view_moderation.md#readme) :__ ligne [`182`](../src/punbb/album_cat_body.tpl#L182)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ALBUMS}`](https://github.com/Etana/template/blob/master/var/ALBUMS.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUMS">*</a> :__ ligne [`34`](../src/subsilver/album_cat_body.tpl#L34)
 * __[`{ALBUM_ID}`](https://github.com/Etana/template/blob/master/var/ALBUM_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUM_ID">*</a> :__ ligne [`21`](../src/subsilver/album_cat_body.tpl#L21)

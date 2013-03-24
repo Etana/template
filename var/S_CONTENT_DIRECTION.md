@@ -1,6 +1,6 @@
 # S_CONTENT_DIRECTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`simple_header`](../tpl/var/simple_header.md)
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
 * __Utilisation :__
 
 ```html

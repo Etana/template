@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=406) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=406) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=406) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=406) > [`calendar_scheduler_body`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=406)
@@ -50,7 +50,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ACTION}`](https://github.com/Etana/template/blob/master/var/ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/ACTION">*</a> :__ ligne [`25`](../src/punbb/calendar_scheduler_body.tpl#L25)
 * __[`{BIRTHDAY_LIST_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/BIRTHDAY_LIST_SCHEDULER.md#readme)<a href="https://fa-tvars.appspot.com/var/BIRTHDAY_LIST_SCHEDULER">*</a> :__ ligne [`57`](../src/punbb/calendar_scheduler_body.tpl#L57)
@@ -91,7 +91,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/calendar_scheduler_body.tpl#L14)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ACTION}`](https://github.com/Etana/template/blob/master/var/ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/ACTION">*</a> :__ ligne [`1`](../src/subsilver/calendar_scheduler_body.tpl#L1)
 * __[`{BIRTHDAY_LIST_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/BIRTHDAY_LIST_SCHEDULER.md#readme)<a href="https://fa-tvars.appspot.com/var/BIRTHDAY_LIST_SCHEDULER">*</a> :__ ligne [`55`](../src/subsilver/calendar_scheduler_body.tpl#L55)

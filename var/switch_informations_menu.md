@@ -1,6 +1,6 @@
 # switch_informations_menu
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md)
+* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html

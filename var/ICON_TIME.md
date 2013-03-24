@@ -1,6 +1,6 @@
 # ICON_TIME
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md), [`mod_recent_topics`](../tpl/var/mod_recent_topics.md), [`posting_topic_review`](../tpl/var/posting_topic_review.md), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md), [`search_results_posts`](../tpl/var/search_results_posts.md)
+* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md#readme), [`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme), [`posting_topic_review`](../tpl/var/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme)
 * __Utilisation :__
 
 ```html

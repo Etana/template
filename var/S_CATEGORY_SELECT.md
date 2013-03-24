@@ -1,6 +1,6 @@
 # S_CATEGORY_SELECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md)
+* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
 ```html

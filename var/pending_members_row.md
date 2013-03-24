@@ -1,6 +1,6 @@
 # pending_members_row
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md)
+* __Disponible dans :__ [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html

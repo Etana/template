@@ -1,6 +1,6 @@
 # switch_review_box
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md)
+* __Disponible dans :__ [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
 ```html

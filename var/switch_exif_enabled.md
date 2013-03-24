@@ -1,6 +1,6 @@
 # switch_exif_enabled
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md)
+* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme)
 * __Utilisation :__
 
 ```html

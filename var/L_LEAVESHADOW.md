@@ -1,6 +1,6 @@
 # L_LEAVESHADOW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_move`](../tpl/var/modcp_move.md)
+* __Disponible dans :__ [`modcp_move`](../tpl/var/modcp_move.md#readme)
 * __Utilisation :__
 
 ```html

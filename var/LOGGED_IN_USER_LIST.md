@@ -1,6 +1,6 @@
 # LOGGED_IN_USER_LIST
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`mod_whoisonline`](../tpl/var/mod_whoisonline.md), [`viewforum_body`](../tpl/var/viewforum_body.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme), [`viewforum_body`](../tpl/var/viewforum_body.md#readme)
 * __Utilisation :__
 
 ```html

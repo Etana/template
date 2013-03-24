@@ -1,6 +1,6 @@
 # L_AVATAR
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`memberlist_body`](../tpl/var/memberlist_body.md), [`rpg_sheet`](../tpl/var/rpg_sheet.md)
+* __Disponible dans :__ [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`rpg_sheet`](../tpl/var/rpg_sheet.md#readme)
 * __Utilisation :__
 
 ```html

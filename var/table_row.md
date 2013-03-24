@@ -1,6 +1,6 @@
 # table_row
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`standard`](../tpl/var/standard.md)
+* __Disponible dans :__ [`standard`](../tpl/var/standard.md#readme)
 * __Utilisation :__
 
 ```html

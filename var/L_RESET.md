@@ -1,6 +1,6 @@
 # L_RESET
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md), [`album_upload_body`](../tpl/var/album_upload_body.md), [`profile_add_body`](../tpl/var/profile_add_body.md), [`profile_send_pass`](../tpl/var/profile_send_pass.md), [`report_list_body`](../tpl/var/report_list_body.md), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md)
+* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`album_upload_body`](../tpl/var/album_upload_body.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme), [`report_list_body`](../tpl/var/report_list_body.md#readme), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
 ```html

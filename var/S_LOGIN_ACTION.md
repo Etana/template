@@ -1,6 +1,6 @@
 # S_LOGIN_ACTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`mod_login`](../tpl/var/mod_login.md), [`overall_header`](../tpl/var/overall_header.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`mod_login`](../tpl/var/mod_login.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme)
 * __Utilisation :__
 
 ```html

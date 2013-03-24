@@ -1,6 +1,6 @@
 # switch_hide_result
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md)
+* __Disponible dans :__ [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
 ```html

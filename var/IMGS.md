@@ -1,6 +1,6 @@
 # IMGS
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`mod_rss_feeds`](../tpl/var/mod_rss_feeds.md), [`mod_social_bookmarking`](../tpl/var/mod_social_bookmarking.md)
+* __Disponible dans :__ [`mod_rss_feeds`](../tpl/var/mod_rss_feeds.md#readme), [`mod_social_bookmarking`](../tpl/var/mod_social_bookmarking.md#readme)
 * __Utilisation :__
 
 ```html

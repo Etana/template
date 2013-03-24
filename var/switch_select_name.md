@@ -1,6 +1,6 @@
 # switch_select_name
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`search_username`](../tpl/var/search_username.md)
+* __Disponible dans :__ [`search_username`](../tpl/var/search_username.md#readme)
 * __Utilisation :__
 
 ```html

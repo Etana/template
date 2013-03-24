@@ -1,6 +1,6 @@
 # L_POLL
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_poll`](../tpl/var/mod_poll.md)
+* __Disponible dans :__ [`mod_poll`](../tpl/var/mod_poll.md#readme)
 * __Utilisation :__
 
 ```html

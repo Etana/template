@@ -1,6 +1,6 @@
 # S_CONTENT_ENCODING
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md), [`search_body`](../tpl/var/search_body.md), [`simple_header`](../tpl/var/simple_header.md)
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
 * __Utilisation :__
 
 ```html

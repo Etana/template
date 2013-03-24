@@ -1,6 +1,6 @@
 # L_KEYWORDS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_keywords`](../tpl/var/mod_keywords.md)
+* __Disponible dans :__ [`mod_keywords`](../tpl/var/mod_keywords.md#readme)
 * __Utilisation :__
 
 ```html

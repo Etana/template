@@ -1,6 +1,6 @@
 # L_SEARCH_UNANSWERED
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`index_box`](../tpl/var/index_box.md), [`viewonline_body`](../tpl/var/viewonline_body.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`index_box`](../tpl/var/index_box.md#readme), [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=504) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=504) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=504) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=504) > [`posting_poll_body`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=504)
@@ -56,7 +56,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ADD_POLL_OPTION}`](https://github.com/Etana/template/blob/master/var/ADD_POLL_OPTION.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_POLL_OPTION">*</a> :__ ligne [`43`](../src/punbb/posting_poll_body.tpl#L43)
 * __[`{L_ADD_A_POLL}`](https://github.com/Etana/template/blob/master/var/L_ADD_A_POLL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADD_A_POLL">*</a> :__ ligne [`3`](../src/punbb/posting_poll_body.tpl#L3)
@@ -101,7 +101,7 @@
 * __[`<!-- END switch_poll_hide_result -->`](https://github.com/Etana/template/blob/master/var/switch_poll_hide_result.md#readme) :__ ligne [`79`](../src/punbb/posting_poll_body.tpl#L79)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ADD_POLL_OPTION}`](https://github.com/Etana/template/blob/master/var/ADD_POLL_OPTION.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_POLL_OPTION">*</a> :__ ligne [`44`](../src/subsilver/posting_poll_body.tpl#L44)
 * __[`{L_ADD_A_POLL}`](https://github.com/Etana/template/blob/master/var/L_ADD_A_POLL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADD_A_POLL">*</a> :__ lignes [`5`](../src/subsilver/posting_poll_body.tpl#L5), [`14`](../src/subsilver/posting_poll_body.tpl#L14)

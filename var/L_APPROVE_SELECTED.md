@@ -1,6 +1,6 @@
 # L_APPROVE_SELECTED
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md)
+* __Disponible dans :__ [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html

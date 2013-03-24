@@ -1,6 +1,6 @@
 # S_ACTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`merge_body`](../tpl/var/merge_body.md), [`merge_select_body`](../tpl/var/merge_select_body.md), [`report_list_body`](../tpl/var/report_list_body.md), [`report_view_body`](../tpl/var/report_view_body.md), [`search_results_topics`](../tpl/var/search_results_topics.md)
+* __Disponible dans :__ [`merge_body`](../tpl/var/merge_body.md#readme), [`merge_select_body`](../tpl/var/merge_select_body.md#readme), [`report_list_body`](../tpl/var/report_list_body.md#readme), [`report_view_body`](../tpl/var/report_view_body.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme)
 * __Utilisation :__
 
 ```html

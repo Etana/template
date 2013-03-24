@@ -1,6 +1,6 @@
 # AVATAR
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_overview_profil`](../tpl/var/calendar_overview_profil.md), [`profile_add_body`](../tpl/var/profile_add_body.md)
+* __Disponible dans :__ [`calendar_overview_profil`](../tpl/var/calendar_overview_profil.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html

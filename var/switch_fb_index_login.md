@@ -1,6 +1,6 @@
 # switch_fb_index_login
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme)
 * __Utilisation :__
 
 ```html

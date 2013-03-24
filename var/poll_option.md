@@ -1,6 +1,6 @@
 # poll_option
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`poll_ballot`](../tpl/var/poll_ballot.md), [`poll_result`](../tpl/var/poll_result.md), [`viewtopic_poll_ballot`](../tpl/var/viewtopic_poll_ballot.md), [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md)
+* __Disponible dans :__ [`poll_ballot`](../tpl/var/poll_ballot.md#readme), [`poll_result`](../tpl/var/poll_result.md#readme), [`viewtopic_poll_ballot`](../tpl/var/viewtopic_poll_ballot.md#readme), [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
 ```html

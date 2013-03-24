@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=801) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=801) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=801) > [`Templates | Groupes`](http://votre-forum.appspot.com/admin/?mode=group&part=themes&sub=templates#?mode=edit_group&part=themes&sub=templates&t=801) > [`groupcp_info_body`](http://votre-forum.appspot.com/admin/?mode=edit_group&part=themes&sub=templates&t=801)
@@ -89,7 +89,7 @@ Affichage des informations d'un groupe.
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/GROUP_DESC.md#readme) :__ ligne [`40`](../src/punbb/groupcp_info_body.tpl#L40)
 * __[`{GROUP_DETAILS}`](https://github.com/Etana/template/blob/master/var/GROUP_DETAILS.md#readme) :__ ligne [`44`](../src/punbb/groupcp_info_body.tpl#L44)
@@ -181,7 +181,7 @@ Affichage des informations d'un groupe.
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/groupcp_info_body.tpl#L14)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/GROUP_DESC.md#readme) :__ ligne [`12`](../src/subsilver/groupcp_info_body.tpl#L12)
 * __[`{GROUP_DETAILS}`](https://github.com/Etana/template/blob/master/var/GROUP_DETAILS.md#readme) :__ ligne [`17`](../src/subsilver/groupcp_info_body.tpl#L17)

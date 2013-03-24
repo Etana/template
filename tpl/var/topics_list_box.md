@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=124) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=124) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=124) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=124) > [`topics_list_box`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=124)
@@ -27,7 +27,7 @@
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`116`](../src/punbb/topics_list_box.tpl#L116)
 * __[`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme) :__ ligne [`116`](../src/punbb/topics_list_box.tpl#L116)
@@ -105,7 +105,7 @@
 * __[`<!-- END topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme) :__ ligne [`122`](../src/punbb/topics_list_box.tpl#L122)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`89`](../src/subsilver/topics_list_box.tpl#L89)
 * __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`35`](../src/subsilver/topics_list_box.tpl#L35), [`88`](../src/subsilver/topics_list_box.tpl#L88)

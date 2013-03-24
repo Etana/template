@@ -1,6 +1,6 @@
 # L_POST_SUBJECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md), [`posting_preview`](../tpl/var/posting_preview.md), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md#readme), [`posting_preview`](../tpl/var/posting_preview.md#readme), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

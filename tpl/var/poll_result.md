@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=909) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=909) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=909) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=909) > [`poll_result`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=909)
@@ -26,7 +26,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOTAL_VOTES">*</a> :__ ligne [`16`](../src/punbb/poll_result.tpl#L16)
 * __[`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_QUESTION">*</a> :__ ligne [`1`](../src/punbb/poll_result.tpl#L1)
@@ -42,7 +42,7 @@
 * __[`<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme) :__ ligne [`14`](../src/punbb/poll_result.tpl#L14)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOTAL_VOTES">*</a> :__ ligne [`32`](../src/subsilver/poll_result.tpl#L32)
 * __[`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_QUESTION">*</a> :__ ligne [`5`](../src/subsilver/poll_result.tpl#L5)

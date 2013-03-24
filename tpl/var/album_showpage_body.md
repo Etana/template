@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=211) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=211) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=211) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=211) > [`album_showpage_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=211)
@@ -67,7 +67,7 @@
 * [`{PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/PIC_TITLE.md#readme)
 * [`{PIC_TYPE}`](https://github.com/Etana/template/blob/master/var/PIC_TYPE.md#readme)
 * [`{PIC_VIEW}`](https://github.com/Etana/template/blob/master/var/PIC_VIEW.md#readme)
-* [`POSTER`](../../var/POSTER.md)
+* [`POSTER`](../../var/POSTER.md#readme)
 * [`{PREV_PIC}`](https://github.com/Etana/template/blob/master/var/PREV_PIC.md#readme)
 * [`{SELECT_ACTION}`](https://github.com/Etana/template/blob/master/var/SELECT_ACTION.md#readme)
 * [`{SELECT_ACTION_NEW}`](https://github.com/Etana/template/blob/master/var/SELECT_ACTION_NEW.md#readme)
@@ -96,7 +96,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{FIRST_PIC}`](https://github.com/Etana/template/blob/master/var/FIRST_PIC.md#readme)<a href="https://fa-tvars.appspot.com/var/FIRST_PIC">*</a> :__ ligne [`343`](../src/punbb/album_showpage_body.tpl#L343)
 * __[`{ID_PIC}`](https://github.com/Etana/template/blob/master/var/ID_PIC.md#readme)<a href="https://fa-tvars.appspot.com/var/ID_PIC">*</a> :__ ligne [`250`](../src/punbb/album_showpage_body.tpl#L250)
@@ -198,7 +198,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`229`](../src/punbb/album_showpage_body.tpl#L229)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{FIRST_PIC}`](https://github.com/Etana/template/blob/master/var/FIRST_PIC.md#readme)<a href="https://fa-tvars.appspot.com/var/FIRST_PIC">*</a> :__ ligne [`377`](../src/subsilver/album_showpage_body.tpl#L377)
 * __[`{ID_PIC}`](https://github.com/Etana/template/blob/master/var/ID_PIC.md#readme)<a href="https://fa-tvars.appspot.com/var/ID_PIC">*</a> :__ ligne [`247`](../src/subsilver/album_showpage_body.tpl#L247)

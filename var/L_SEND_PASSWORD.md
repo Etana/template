@@ -1,6 +1,6 @@
 # L_SEND_PASSWORD
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md), [`profile_send_pass`](../tpl/var/profile_send_pass.md)
+* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme)
 * __Utilisation :__
 
 ```html

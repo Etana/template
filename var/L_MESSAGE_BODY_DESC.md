@@ -1,6 +1,6 @@
 # L_MESSAGE_BODY_DESC
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_send_email`](../tpl/var/profile_send_email.md)
+* __Disponible dans :__ [`profile_send_email`](../tpl/var/profile_send_email.md#readme)
 * __Utilisation :__
 
 ```html

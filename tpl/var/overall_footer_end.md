@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=133) > [`overall_footer_end`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=133)
@@ -26,7 +26,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMIN_LINK">*</a> :__ ligne [`29`](../src/punbb/overall_footer_end.tpl#L29)
 * __[`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)<a href="https://fa-tvars.appspot.com/var/PROTECT_FOOTER">*</a> :__ ligne [`32`](../src/punbb/overall_footer_end.tpl#L32)
@@ -51,7 +51,7 @@
 * __[`<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme) :__ ligne [`25`](../src/punbb/overall_footer_end.tpl#L25)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)<a href="https://fa-tvars.appspot.com/var/PROTECT_FOOTER">*</a> :__ ligne [`25`](../src/subsilver/overall_footer_end.tpl#L25)
 * __[`<!-- BEGIN html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme) :__ ligne [`1`](../src/subsilver/overall_footer_end.tpl#L1)

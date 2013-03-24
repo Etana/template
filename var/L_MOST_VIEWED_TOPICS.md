@@ -1,6 +1,6 @@
 # L_MOST_VIEWED_TOPICS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_most_viewed_topics`](../tpl/var/mod_most_viewed_topics.md)
+* __Disponible dans :__ [`mod_most_viewed_topics`](../tpl/var/mod_most_viewed_topics.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # MESSAGE_FROM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`privmsgs_preview`](../tpl/var/privmsgs_preview.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md)
+* __Disponible dans :__ [`privmsgs_preview`](../tpl/var/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
 ```html

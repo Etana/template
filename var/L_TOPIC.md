@@ -1,6 +1,6 @@
 # L_TOPIC
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`search_results_posts`](../tpl/var/search_results_posts.md)
+* __Disponible dans :__ [`search_results_posts`](../tpl/var/search_results_posts.md#readme)
 * __Utilisation :__
 
 ```html

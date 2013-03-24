@@ -1,6 +1,6 @@
 # L_RATING
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_showpage_body`](../tpl/var/album_showpage_body.md)
+* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme)
 * __Utilisation :__
 
 ```html

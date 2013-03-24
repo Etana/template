@@ -1,6 +1,6 @@
 # L_DESC_TOO_LONG
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md), [`album_upload_body`](../tpl/var/album_upload_body.md)
+* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`album_upload_body`](../tpl/var/album_upload_body.md#readme)
 * __Utilisation :__
 
 ```html

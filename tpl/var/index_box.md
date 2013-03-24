@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=111) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=111) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=111) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=111) > [`index_box`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=111)
@@ -46,7 +46,7 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme) :__ ligne [`14`](../src/punbb/index_box.tpl#L14)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`2`](../src/punbb/index_box.tpl#L2)
@@ -103,7 +103,7 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
 * __[`<!-- END switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme) :__ ligne [`73`](../src/punbb/index_box.tpl#L73)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme) :__ ligne [`6`](../src/subsilver/index_box.tpl#L6)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`5`](../src/subsilver/index_box.tpl#L5)

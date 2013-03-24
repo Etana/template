@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=405) > [`calendar_overview_topic`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=405)
@@ -31,7 +31,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)<a href="https://fa-tvars.appspot.com/var/AUTHOR">*</a> :__ ligne [`5`](../src/punbb/calendar_overview_topic.tpl#L5)
 * __[`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)<a href="https://fa-tvars.appspot.com/var/CALENDAR_EVENT">*</a> :__ ligne [`4`](../src/punbb/calendar_overview_topic.tpl#L4)
@@ -47,7 +47,7 @@
 * __[`<!-- END display_forum -->`](https://github.com/Etana/template/blob/master/var/display_forum.md#readme) :__ ligne [`9`](../src/punbb/calendar_overview_topic.tpl#L9)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)<a href="https://fa-tvars.appspot.com/var/AUTHOR">*</a> :__ ligne [`9`](../src/subsilver/calendar_overview_topic.tpl#L9)
 * __[`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)<a href="https://fa-tvars.appspot.com/var/CALENDAR_EVENT">*</a> :__ ligne [`8`](../src/subsilver/calendar_overview_topic.tpl#L8)

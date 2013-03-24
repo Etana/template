@@ -1,6 +1,6 @@
 # L_TOPICS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_box`](../tpl/var/index_box.md), [`modcp_body`](../tpl/var/modcp_body.md), [`profile_view_body`](../tpl/var/profile_view_body.md), [`search_body`](../tpl/var/search_body.md), [`search_results_topics`](../tpl/var/search_results_topics.md), [`topics_list_box`](../tpl/var/topics_list_box.md)
+* __Disponible dans :__ [`index_box`](../tpl/var/index_box.md#readme), [`modcp_body`](../tpl/var/modcp_body.md#readme), [`profile_view_body`](../tpl/var/profile_view_body.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme), [`topics_list_box`](../tpl/var/topics_list_box.md#readme)
 * __Utilisation :__
 
 ```html

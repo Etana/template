@@ -1,6 +1,6 @@
 # L_TDESC
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_search_body`](../tpl/var/album_search_body.md)
+* __Disponible dans :__ [`album_search_body`](../tpl/var/album_search_body.md#readme)
 * __Utilisation :__
 
 ```html

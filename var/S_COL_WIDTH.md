@@ -1,6 +1,6 @@
 # S_COL_WIDTH
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md), [`album_index_body`](../tpl/var/album_index_body.md)
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme), [`album_index_body`](../tpl/var/album_index_body.md#readme)
 * __Utilisation :__
 
 ```html

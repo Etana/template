@@ -1,6 +1,6 @@
 # searchresults
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`search_results_posts`](../tpl/var/search_results_posts.md), [`search_results_topics`](../tpl/var/search_results_topics.md)
+* __Disponible dans :__ [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # ITALIC
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md)
+* __Disponible dans :__ [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # switch_onlinelink
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`mod_whoisonline`](../tpl/var/mod_whoisonline.md)
+* __Disponible dans :__ [`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme)
 * __Utilisation :__
 
 ```html

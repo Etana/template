@@ -1,6 +1,6 @@
 # L_GALLERIES
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_formsearch_body`](../tpl/var/album_formsearch_body.md)
+* __Disponible dans :__ [`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme)
 * __Utilisation :__
 
 ```html

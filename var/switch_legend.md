@@ -1,6 +1,6 @@
 # switch_legend
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`viewforum_body`](../tpl/var/viewforum_body.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`viewforum_body`](../tpl/var/viewforum_body.md#readme)
 * __Utilisation :__
 
 ```html

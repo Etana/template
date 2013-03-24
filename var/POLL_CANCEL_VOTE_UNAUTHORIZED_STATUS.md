@@ -1,6 +1,6 @@
 # POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_poll_body`](../tpl/var/posting_poll_body.md)
+* __Disponible dans :__ [`posting_poll_body`](../tpl/var/posting_poll_body.md#readme)
 * __Utilisation :__
 
 ```html

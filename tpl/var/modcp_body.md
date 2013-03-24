@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=603) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=603) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=603) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=603) > [`modcp_body`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=603)
@@ -56,7 +56,7 @@
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN topicrow -->...<!-- END topicrow -->`](https://github.com/Etana/template/blob/master/var/topicrow.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/modcp_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/modcp_body.tpl#L7)
@@ -109,7 +109,7 @@
 * __[`<!-- END topicrow -->`](https://github.com/Etana/template/blob/master/var/topicrow.md#readme) :__ ligne [`57`](../src/punbb/modcp_body.tpl#L57)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`58`](../src/subsilver/modcp_body.tpl#L58)
 * __[`{L_ANNOUNCE}`](https://github.com/Etana/template/blob/master/var/L_ANNOUNCE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ANNOUNCE">*</a> :__ ligne [`38`](../src/subsilver/modcp_body.tpl#L38)

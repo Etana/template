@@ -1,6 +1,6 @@
 # CALENDAR_MONTH
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_body`](../tpl/var/calendar_body.md)
+* __Disponible dans :__ [`calendar_body`](../tpl/var/calendar_body.md#readme)
 * __Utilisation :__
 
 ```html

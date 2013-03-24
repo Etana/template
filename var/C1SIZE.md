@@ -1,6 +1,6 @@
 # C1SIZE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md), [`portal_body`](../tpl/var/portal_body.md)
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`portal_body`](../tpl/var/portal_body.md#readme)
 * __Utilisation :__
 
 ```html

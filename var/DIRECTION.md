@@ -1,6 +1,6 @@
 # DIRECTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md)
+* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # S_ALBUM_ACTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md), [`album_edit_body`](../tpl/var/album_edit_body.md), [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_moderate_body`](../tpl/var/album_moderate_body.md), [`album_showpage_body`](../tpl/var/album_showpage_body.md), [`album_upload_body`](../tpl/var/album_upload_body.md)
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme), [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`album_upload_body`](../tpl/var/album_upload_body.md#readme)
 * __Utilisation :__
 
 ```html

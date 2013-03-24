@@ -1,6 +1,6 @@
 # L_USER_SELECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`memberlist_body`](../tpl/var/memberlist_body.md)
+* __Disponible dans :__ [`memberlist_body`](../tpl/var/memberlist_body.md#readme)
 * __Utilisation :__
 
 ```html

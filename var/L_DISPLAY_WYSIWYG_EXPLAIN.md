@@ -1,6 +1,6 @@
 # L_DISPLAY_WYSIWYG_EXPLAIN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md)
+* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html

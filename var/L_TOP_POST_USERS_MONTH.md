@@ -1,6 +1,6 @@
 # L_TOP_POST_USERS_MONTH
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_top_post_users_month`](../tpl/var/mod_top_post_users_month.md)
+* __Disponible dans :__ [`mod_top_post_users_month`](../tpl/var/mod_top_post_users_month.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_VIEW_COMPLETE_LIST
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_whoisonline`](../tpl/var/mod_whoisonline.md)
+* __Disponible dans :__ [`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme)
 * __Utilisation :__
 
 ```html

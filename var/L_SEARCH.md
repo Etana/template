@@ -1,6 +1,6 @@
 # L_SEARCH
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_formsearch_body`](../tpl/var/album_formsearch_body.md), [`merge_body`](../tpl/var/merge_body.md), [`mod_search`](../tpl/var/mod_search.md), [`search_body`](../tpl/var/search_body.md), [`search_username`](../tpl/var/search_username.md)
+* __Disponible dans :__ [`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme), [`merge_body`](../tpl/var/merge_body.md#readme), [`mod_search`](../tpl/var/mod_search.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`search_username`](../tpl/var/search_username.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_VIEW_RESULTS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`poll_ballot`](../tpl/var/poll_ballot.md), [`viewtopic_poll_ballot`](../tpl/var/viewtopic_poll_ballot.md)
+* __Disponible dans :__ [`poll_ballot`](../tpl/var/poll_ballot.md#readme), [`viewtopic_poll_ballot`](../tpl/var/viewtopic_poll_ballot.md#readme)
 * __Utilisation :__
 
 ```html

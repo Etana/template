@@ -1,6 +1,6 @@
 # switch_on_index
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`index_box`](../tpl/var/index_box.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`index_box`](../tpl/var/index_box.md#readme)
 * __Utilisation :__
 
 ```html

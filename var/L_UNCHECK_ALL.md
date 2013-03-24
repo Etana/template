@@ -1,6 +1,6 @@
 # L_UNCHECK_ALL
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_moderate_body`](../tpl/var/album_moderate_body.md)
+* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_POSTED
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md), [`modcp_split`](../tpl/var/modcp_split.md), [`modcp_viewip`](../tpl/var/modcp_viewip.md), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md)
+* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`modcp_split`](../tpl/var/modcp_split.md#readme), [`modcp_viewip`](../tpl/var/modcp_viewip.md#readme), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
 ```html

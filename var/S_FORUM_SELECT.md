@@ -1,6 +1,6 @@
 # S_FORUM_SELECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_move`](../tpl/var/modcp_move.md), [`modcp_split`](../tpl/var/modcp_split.md)
+* __Disponible dans :__ [`modcp_move`](../tpl/var/modcp_move.md#readme), [`modcp_split`](../tpl/var/modcp_split.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # POST_PERCENT_STATS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_view_body`](../tpl/var/profile_view_body.md)
+* __Disponible dans :__ [`profile_view_body`](../tpl/var/profile_view_body.md#readme)
 * __Utilisation :__
 
 ```html

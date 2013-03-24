@@ -1,6 +1,6 @@
 # LEFT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`donate`](../tpl/var/donate.md), [`mod_news`](../tpl/var/mod_news.md)
+* __Disponible dans :__ [`donate`](../tpl/var/donate.md#readme), [`mod_news`](../tpl/var/mod_news.md#readme)
 * __Utilisation :__
 
 ```html

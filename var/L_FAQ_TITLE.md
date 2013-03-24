@@ -1,6 +1,6 @@
 # L_FAQ_TITLE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`faq_body`](../tpl/var/faq_body.md), [`faq_dhtml`](../tpl/var/faq_dhtml.md), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md)
+* __Disponible dans :__ [`faq_body`](../tpl/var/faq_body.md#readme), [`faq_dhtml`](../tpl/var/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
 ```html

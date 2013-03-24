@@ -1,6 +1,6 @@
 # scrolling_row
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`mod_recent_topics`](../tpl/var/mod_recent_topics.md)
+* __Disponible dans :__ [`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme)
 * __Utilisation :__
 
 ```html

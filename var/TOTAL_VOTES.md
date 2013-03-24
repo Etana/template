@@ -1,6 +1,6 @@
 # TOTAL_VOTES
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`poll_result`](../tpl/var/poll_result.md), [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md)
+* __Disponible dans :__ [`poll_result`](../tpl/var/poll_result.md#readme), [`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
 ```html

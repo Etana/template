@@ -1,6 +1,6 @@
 # disable_viewonline
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`disable_viewonline`](../tpl/var/disable_viewonline.md), [`index_body`](../tpl/var/index_body.md)
+* __Disponible dans :__ [`disable_viewonline`](../tpl/var/disable_viewonline.md#readme), [`index_body`](../tpl/var/index_body.md#readme)
 * __Utilisation :__
 
 ```html

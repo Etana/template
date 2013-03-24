@@ -1,6 +1,6 @@
 # APPROVAL_BUTTON
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md)
+* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme)
 * __Utilisation :__
 
 ```html

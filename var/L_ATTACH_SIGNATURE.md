@@ -1,6 +1,6 @@
 # L_ATTACH_SIGNATURE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
 ```html

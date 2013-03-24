@@ -1,6 +1,6 @@
 # U_FRAME_CHATBOX
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_chatbox`](../tpl/var/mod_chatbox.md)
+* __Disponible dans :__ [`mod_chatbox`](../tpl/var/mod_chatbox.md#readme)
 * __Utilisation :__
 
 ```html

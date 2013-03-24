@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=209) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=209) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=209) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=209) > [`album_overview_top10`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=209)
@@ -24,7 +24,7 @@
 * [`{L_POSTER}`](https://github.com/Etana/template/blob/master/var/L_POSTER.md#readme)
 * [`{L_RATE}`](https://github.com/Etana/template/blob/master/var/L_RATE.md#readme)
 * [`{L_VIEW}`](https://github.com/Etana/template/blob/master/var/L_VIEW.md#readme)
-* [`POSTER`](../../var/POSTER.md)
+* [`POSTER`](../../var/POSTER.md#readme)
 * [`{THUMBNAIL}`](https://github.com/Etana/template/blob/master/var/THUMBNAIL.md#readme)
 * [`<!-- BEGIN switch_rank -->...<!-- END switch_rank -->`](https://github.com/Etana/template/blob/master/var/switch_rank.md#readme)
 * [`<!-- BEGIN switch_rate -->...<!-- END switch_rate -->`](https://github.com/Etana/template/blob/master/var/switch_rate.md#readme)
@@ -33,7 +33,7 @@
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN switch_viewed -->...<!-- END switch_viewed -->`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ALBUM}`](https://github.com/Etana/template/blob/master/var/ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUM">*</a> :__ ligne [`12`](../src/punbb/album_overview_top10.tpl#L12)
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ ligne [`12`](../src/punbb/album_overview_top10.tpl#L12)
@@ -59,7 +59,7 @@
 * __[`<!-- END switch_viewed -->`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme) :__ ligne [`18`](../src/punbb/album_overview_top10.tpl#L18)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ALBUM}`](https://github.com/Etana/template/blob/master/var/ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUM">*</a> :__ ligne [`22`](../src/subsilver/album_overview_top10.tpl#L22)
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ ligne [`22`](../src/subsilver/album_overview_top10.tpl#L22)

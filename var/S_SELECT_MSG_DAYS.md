@@ -1,6 +1,6 @@
 # S_SELECT_MSG_DAYS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md)
+* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme)
 * __Utilisation :__
 
 ```html

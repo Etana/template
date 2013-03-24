@@ -1,6 +1,6 @@
 # L_VIEW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md), [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_moderate_body`](../tpl/var/album_moderate_body.md), [`album_overview_top10`](../tpl/var/album_overview_top10.md), [`album_showpage_body`](../tpl/var/album_showpage_body.md), [`report_list_body`](../tpl/var/report_list_body.md)
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme), [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`album_overview_top10`](../tpl/var/album_overview_top10.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`report_list_body`](../tpl/var/report_list_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # SENTBOX
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md)
+* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
 ```html

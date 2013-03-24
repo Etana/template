@@ -1,6 +1,6 @@
 # INBOX_LIMIT_PERCENT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md)
+* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme)
 * __Utilisation :__
 
 ```html

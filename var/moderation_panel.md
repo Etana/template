@@ -1,6 +1,6 @@
 # moderation_panel
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`album_index_body`](../tpl/var/album_index_body.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`album_index_body`](../tpl/var/album_index_body.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

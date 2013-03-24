@@ -1,6 +1,6 @@
 # S_SMILIES_COLSPAN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md), [`posting_smilies`](../tpl/var/posting_smilies.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_smilies`](../tpl/var/posting_smilies.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_REASON
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`report_list_body`](../tpl/var/report_list_body.md), [`report_view_body`](../tpl/var/report_view_body.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`report_list_body`](../tpl/var/report_list_body.md#readme), [`report_view_body`](../tpl/var/report_view_body.md#readme)
 * __Utilisation :__
 
 ```html

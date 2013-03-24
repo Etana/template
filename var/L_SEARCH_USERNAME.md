@@ -1,6 +1,6 @@
 # L_SEARCH_USERNAME
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`search_username`](../tpl/var/search_username.md)
+* __Disponible dans :__ [`search_username`](../tpl/var/search_username.md#readme)
 * __Utilisation :__
 
 ```html

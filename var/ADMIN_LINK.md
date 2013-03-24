@@ -1,6 +1,6 @@
 # ADMIN_LINK
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_footer_end`](../tpl/var/overall_footer_end.md), [`portal_body`](../tpl/var/portal_body.md)
+* __Disponible dans :__ [`overall_footer_end`](../tpl/var/overall_footer_end.md#readme), [`portal_body`](../tpl/var/portal_body.md#readme)
 * __Utilisation :__
 
 ```html

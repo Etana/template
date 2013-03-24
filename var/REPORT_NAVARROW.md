@@ -1,6 +1,6 @@
 # REPORT_NAVARROW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`report_list_body`](../tpl/var/report_list_body.md), [`report_view_body`](../tpl/var/report_view_body.md)
+* __Disponible dans :__ [`report_list_body`](../tpl/var/report_list_body.md#readme), [`report_view_body`](../tpl/var/report_view_body.md#readme)
 * __Utilisation :__
 
 ```html

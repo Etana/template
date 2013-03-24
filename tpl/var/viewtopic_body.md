@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=127) > [`viewtopic_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=127)
@@ -119,7 +119,7 @@
 * [`<!-- BEGIN topicpagination -->...<!-- END topicpagination -->`](https://github.com/Etana/template/blob/master/var/topicpagination.md#readme)
 * [`<!-- BEGIN viewtopic_bottom -->...<!-- END viewtopic_bottom -->`](https://github.com/Etana/template/blob/master/var/viewtopic_bottom.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ADDTHIS_LANG}`](https://github.com/Etana/template/blob/master/var/ADDTHIS_LANG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADDTHIS_LANG">*</a> :__ ligne [`2`](../src/punbb/viewtopic_body.tpl#L2)
 * __[`{FORUM_ID}`](https://github.com/Etana/template/blob/master/var/FORUM_ID.md#readme) :__ ligne [`55`](../src/punbb/viewtopic_body.tpl#L55)
@@ -311,7 +311,7 @@
 * __[`<!-- END viewtopic_bottom -->`](https://github.com/Etana/template/blob/master/var/viewtopic_bottom.md#readme) :__ ligne [`267`](../src/punbb/viewtopic_body.tpl#L267)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ADDTHIS_LANG}`](https://github.com/Etana/template/blob/master/var/ADDTHIS_LANG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADDTHIS_LANG">*</a> :__ ligne [`3`](../src/subsilver/viewtopic_body.tpl#L3)
 * __[`{COLSPAN_PAGINATION}`](https://github.com/Etana/template/blob/master/var/COLSPAN_PAGINATION.md#readme) :__ ligne [`279`](../src/subsilver/viewtopic_body.tpl#L279)

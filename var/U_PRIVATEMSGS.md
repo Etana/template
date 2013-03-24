@@ -1,6 +1,6 @@
 # U_PRIVATEMSGS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md)
+* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md#readme), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme)
 * __Utilisation :__
 
 ```html

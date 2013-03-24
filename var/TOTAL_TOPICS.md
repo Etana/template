@@ -1,6 +1,6 @@
 # TOTAL_TOPICS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_statistics`](../tpl/var/mod_statistics.md)
+* __Disponible dans :__ [`mod_statistics`](../tpl/var/mod_statistics.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # TOPIC
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`mod_most_active_topics`](../tpl/var/mod_most_active_topics.md), [`mod_most_viewed_topics`](../tpl/var/mod_most_viewed_topics.md)
+* __Disponible dans :__ [`mod_most_active_topics`](../tpl/var/mod_most_active_topics.md#readme), [`mod_most_viewed_topics`](../tpl/var/mod_most_viewed_topics.md#readme)
 * __Utilisation :__
 
 ```html

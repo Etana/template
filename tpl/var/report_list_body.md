@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=607) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=607) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=607) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=607) > [`report_list_body`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=607)
@@ -67,7 +67,7 @@
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 * [`<!-- BEGIN switch_view -->...<!-- END switch_view -->`](https://github.com/Etana/template/blob/master/var/switch_view.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{JS_MARK_MODE_0}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_0.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MARK_MODE_0">*</a> :__ ligne [`102`](../src/punbb/report_list_body.tpl#L102)
 * __[`{JS_MARK_MODE_1}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_1.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MARK_MODE_1">*</a> :__ ligne [`103`](../src/punbb/report_list_body.tpl#L103)
@@ -135,7 +135,7 @@
 * __[`<!-- END switch_view -->`](https://github.com/Etana/template/blob/master/var/switch_view.md#readme) :__ ligne [`68`](../src/punbb/report_list_body.tpl#L68)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{JS_MARK_MODE_0}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_0.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MARK_MODE_0">*</a> :__ ligne [`67`](../src/subsilver/report_list_body.tpl#L67)
 * __[`{JS_MARK_MODE_1}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_1.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MARK_MODE_1">*</a> :__ ligne [`68`](../src/subsilver/report_list_body.tpl#L68)

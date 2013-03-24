@@ -1,6 +1,6 @@
 # IMG_CALENDAR
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md)
+* __Disponible dans :__ [`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme)
 * __Utilisation :__
 
 ```html

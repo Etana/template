@@ -1,6 +1,6 @@
 # L_TELL_FRIEND_RECIEVER_EMAIL
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_send_email`](../tpl/var/profile_send_email.md)
+* __Disponible dans :__ [`profile_send_email`](../tpl/var/profile_send_email.md#readme)
 * __Utilisation :__
 
 ```html

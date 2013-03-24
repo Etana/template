@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=402) > [`calendar_body`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=402)
@@ -34,7 +34,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{CALENDAR_MONTH}`](https://github.com/Etana/template/blob/master/var/CALENDAR_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/CALENDAR_MONTH">*</a> :__ ligne [`20`](../src/punbb/calendar_body.tpl#L20)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/calendar_body.tpl#L7)
@@ -54,7 +54,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/calendar_body.tpl#L14)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{CALENDAR_MONTH}`](https://github.com/Etana/template/blob/master/var/CALENDAR_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/CALENDAR_MONTH">*</a> :__ ligne [`6`](../src/subsilver/calendar_body.tpl#L6)
 * __[`{L_CALENDAR}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CALENDAR">*</a> :__ ligne [`3`](../src/subsilver/calendar_body.tpl#L3)

@@ -1,6 +1,6 @@
 # U_MARK_READ
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`topics_list_box`](../tpl/var/topics_list_box.md), [`viewforum_body`](../tpl/var/viewforum_body.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`topics_list_box`](../tpl/var/topics_list_box.md#readme), [`viewforum_body`](../tpl/var/viewforum_body.md#readme)
 * __Utilisation :__
 
 ```html

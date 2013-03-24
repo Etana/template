@@ -1,6 +1,6 @@
 # L_USELECT_ALL
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_body`](../tpl/var/modcp_body.md)
+* __Disponible dans :__ [`modcp_body`](../tpl/var/modcp_body.md#readme)
 * __Utilisation :__
 
 ```html

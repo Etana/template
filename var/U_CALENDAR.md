@@ -1,6 +1,6 @@
 # U_CALENDAR
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_body`](../tpl/var/calendar_body.md), [`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md)
+* __Disponible dans :__ [`calendar_body`](../tpl/var/calendar_body.md#readme), [`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme)
 * __Utilisation :__
 
 ```html

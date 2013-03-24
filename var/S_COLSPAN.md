@@ -1,6 +1,6 @@
 # S_COLSPAN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md)
+* __Disponible dans :__ [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
 ```html

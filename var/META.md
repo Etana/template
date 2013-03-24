@@ -1,6 +1,6 @@
 # META
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md), [`simple_header`](../tpl/var/simple_header.md)
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_DATE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_overview_top10`](../tpl/var/album_overview_top10.md), [`privmsgs_body`](../tpl/var/privmsgs_body.md)
+* __Disponible dans :__ [`album_overview_top10`](../tpl/var/album_overview_top10.md#readme), [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme)
 * __Utilisation :__
 
 ```html

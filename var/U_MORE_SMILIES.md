@@ -1,6 +1,6 @@
 # U_MORE_SMILIES
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_smilies`](../tpl/var/posting_smilies.md)
+* __Disponible dans :__ [`posting_smilies`](../tpl/var/posting_smilies.md#readme)
 * __Utilisation :__
 
 ```html

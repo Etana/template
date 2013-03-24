@@ -1,6 +1,6 @@
 # L_ROLEPLAY_MANAGE_TITLE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`rpg_sheet`](../tpl/var/rpg_sheet.md)
+* __Disponible dans :__ [`rpg_sheet`](../tpl/var/rpg_sheet.md#readme)
 * __Utilisation :__
 
 ```html

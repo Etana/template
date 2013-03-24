@@ -1,6 +1,6 @@
 # MESSAGE_NEW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_preview`](../tpl/var/posting_preview.md), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md)
+* __Disponible dans :__ [`posting_preview`](../tpl/var/posting_preview.md#readme), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md#readme)
 * __Utilisation :__
 
 ```html

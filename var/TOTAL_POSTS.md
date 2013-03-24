@@ -1,6 +1,6 @@
 # TOTAL_POSTS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`mod_statistics`](../tpl/var/mod_statistics.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`mod_statistics`](../tpl/var/mod_statistics.md#readme)
 * __Utilisation :__
 
 ```html

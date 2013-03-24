@@ -1,6 +1,6 @@
 # C3SIZE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_footer_begin`](../tpl/var/overall_footer_begin.md), [`portal_body`](../tpl/var/portal_body.md)
+* __Disponible dans :__ [`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme), [`portal_body`](../tpl/var/portal_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_FROM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`privmsgs_preview`](../tpl/var/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
 ```html

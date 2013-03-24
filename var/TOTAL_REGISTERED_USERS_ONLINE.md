@@ -1,6 +1,6 @@
 # TOTAL_REGISTERED_USERS_ONLINE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`viewonline_body`](../tpl/var/viewonline_body.md)
+* __Disponible dans :__ [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
 * __Utilisation :__
 
 ```html

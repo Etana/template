@@ -1,6 +1,6 @@
 # USERNAME
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md), [`posting_body`](../tpl/var/posting_body.md), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md), [`posting_preview`](../tpl/var/posting_preview.md), [`profile_add_body`](../tpl/var/profile_add_body.md), [`profile_send_email`](../tpl/var/profile_send_email.md), [`profile_send_pass`](../tpl/var/profile_send_pass.md), [`profile_view_body`](../tpl/var/profile_view_body.md), [`search_username`](../tpl/var/search_username.md)
+* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_preview`](../tpl/var/posting_preview.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_send_email`](../tpl/var/profile_send_email.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme), [`profile_view_body`](../tpl/var/profile_view_body.md#readme), [`search_username`](../tpl/var/search_username.md#readme)
 * __Utilisation :__
 
 ```html

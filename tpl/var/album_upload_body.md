@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=213) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=213) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=213) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=213) > [`album_upload_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=213)
@@ -77,7 +77,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{ADD_FIELD}`](https://github.com/Etana/template/blob/master/var/ADD_FIELD.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_FIELD">*</a> :__ ligne [`269`](../src/punbb/album_upload_body.tpl#L269)
 * __[`{DELETE_ALL_FIELD}`](https://github.com/Etana/template/blob/master/var/DELETE_ALL_FIELD.md#readme)<a href="https://fa-tvars.appspot.com/var/DELETE_ALL_FIELD">*</a> :__ ligne [`287`](../src/punbb/album_upload_body.tpl#L287)
@@ -148,7 +148,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`15`](../src/punbb/album_upload_body.tpl#L15)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{ADD_FIELD}`](https://github.com/Etana/template/blob/master/var/ADD_FIELD.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_FIELD">*</a> :__ ligne [`270`](../src/subsilver/album_upload_body.tpl#L270)
 * __[`{CAT_TITLE}`](https://github.com/Etana/template/blob/master/var/CAT_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/CAT_TITLE">*</a> :__ ligne [`242`](../src/subsilver/album_upload_body.tpl#L242)

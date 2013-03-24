@@ -1,6 +1,6 @@
 # U_CFAQ_JSLIB
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`faq_dhtml`](../tpl/var/faq_dhtml.md)
+* __Disponible dans :__ [`faq_dhtml`](../tpl/var/faq_dhtml.md#readme)
 * __Utilisation :__
 
 ```html

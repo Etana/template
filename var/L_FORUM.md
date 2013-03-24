@@ -1,6 +1,6 @@
 # L_FORUM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md), [`index_box`](../tpl/var/index_box.md), [`search_body`](../tpl/var/search_body.md), [`search_results_posts`](../tpl/var/search_results_posts.md), [`search_results_topics`](../tpl/var/search_results_topics.md)
+* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md#readme), [`index_box`](../tpl/var/index_box.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme)
 * __Utilisation :__
 
 ```html

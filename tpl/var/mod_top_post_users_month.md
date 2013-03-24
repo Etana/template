@@ -3,8 +3,8 @@
 * [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* [Localisation dans les templates PunBB](#localisation-dans-les-templates-punbb)
-* [Localisation dans les templates phpBB2](#localisation-dans-les-templates-phpbb2)
+    * [Positions PunBB](#positions-punbb)
+    * [Positions phpBB2](#positions-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=921) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=921) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=921) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=921) > [`mod_top_post_users_month`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=921)
@@ -22,7 +22,7 @@
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
-## Localisations dans le template PunBB 
+### Positions PunBB 
 
 * __[`{L_TOP_POST_USERS_MONTH}`](https://github.com/Etana/template/blob/master/var/L_TOP_POST_USERS_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOP_POST_USERS_MONTH">*</a> :__ lignes [`2`](../src/punbb/mod_top_post_users_month.tpl#L2), [`4`](../src/punbb/mod_top_post_users_month.tpl#L4)
 * __[`<!-- BEGIN POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme) :__ ligne [`5`](../src/punbb/mod_top_post_users_month.tpl#L5)
@@ -33,7 +33,7 @@
 * __[`<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme) :__ ligne [`10`](../src/punbb/mod_top_post_users_month.tpl#L10)
 
 
-## Localisations dans le template phpBB2 
+### Positions phpBB2 
 
 * __[`{L_TOP_POST_USERS_MONTH}`](https://github.com/Etana/template/blob/master/var/L_TOP_POST_USERS_MONTH.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOP_POST_USERS_MONTH">*</a> :__ lignes [`3`](../src/subsilver/mod_top_post_users_month.tpl#L3), [`7`](../src/subsilver/mod_top_post_users_month.tpl#L7)
 * __[`<!-- BEGIN POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme) :__ ligne [`8`](../src/subsilver/mod_top_post_users_month.tpl#L8)

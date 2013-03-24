@@ -1,6 +1,6 @@
 # UCP_TABS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md), [`search_results_topics`](../tpl/var/search_results_topics.md)
+* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme)
 * __Utilisation :__
 
 ```html

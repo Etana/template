@@ -1,6 +1,6 @@
 # L_BACK_TO_TOP
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`birthday_list_box`](../tpl/var/birthday_list_box.md), [`faq_body`](../tpl/var/faq_body.md), [`search_results_posts`](../tpl/var/search_results_posts.md), [`search_results_topics`](../tpl/var/search_results_topics.md), [`topics_list_box`](../tpl/var/topics_list_box.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`birthday_list_box`](../tpl/var/birthday_list_box.md#readme), [`faq_body`](../tpl/var/faq_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme), [`topics_list_box`](../tpl/var/topics_list_box.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

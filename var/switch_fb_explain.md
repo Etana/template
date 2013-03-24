@@ -1,6 +1,6 @@
 # switch_fb_explain
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`agreement`](../tpl/var/agreement.md)
+* __Disponible dans :__ [`agreement`](../tpl/var/agreement.md#readme)
 * __Utilisation :__
 
 ```html

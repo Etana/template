@@ -1,6 +1,6 @@
 # L_AVATAR_GALLERY
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md)
+* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
 ```html

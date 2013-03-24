@@ -1,6 +1,6 @@
 # BY
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md), [`mod_recent_topics`](../tpl/var/mod_recent_topics.md)
+* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md#readme), [`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme)
 * __Utilisation :__
 
 ```html

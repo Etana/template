@@ -1,6 +1,6 @@
 # L_BBCODE_TAB_ROW
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md)
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md#readme)
 * __Utilisation :__
 
 ```html

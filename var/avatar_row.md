@@ -1,6 +1,6 @@
 # avatar_row
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md)
+* __Disponible dans :__ [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
 ```html

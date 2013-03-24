@@ -1,6 +1,6 @@
 # post_row
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md)
+* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md#readme)
 * __Utilisation :__
 
 ```html

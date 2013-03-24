@@ -1,6 +1,6 @@
 # switch_user_login_form_header
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md)
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme)
 * __Utilisation :__
 
 ```html

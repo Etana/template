@@ -1,6 +1,6 @@
 # SPACE_COL
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`portal_body`](../tpl/var/portal_body.md)
+* __Disponible dans :__ [`portal_body`](../tpl/var/portal_body.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # L_AUTHOR
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md), [`modcp_split`](../tpl/var/modcp_split.md), [`posting_topic_review`](../tpl/var/posting_topic_review.md), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md), [`report_view_body`](../tpl/var/report_view_body.md), [`search_results_posts`](../tpl/var/search_results_posts.md), [`search_results_topics`](../tpl/var/search_results_topics.md), [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Disponible dans :__ [`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md#readme), [`modcp_split`](../tpl/var/modcp_split.md#readme), [`posting_topic_review`](../tpl/var/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme), [`report_view_body`](../tpl/var/report_view_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html

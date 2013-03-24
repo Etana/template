@@ -1,6 +1,6 @@
 # L_PLEASE_RATE_IT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md)
+* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme)
 * __Utilisation :__
 
 ```html
