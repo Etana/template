@@ -1,6 +1,6 @@
 # switch_attachment.modif_dav_08032010
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_attachment -->...<!-- END switch_attachment -->`](https://github.com/Etana/template/blob/master/var/switch_attachment.md#readme)
 * __Utilisation :__
 
 ```html

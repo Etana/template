@@ -1,6 +1,6 @@
 # giefmod1.MODVAR
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN giefmod1 -->...<!-- END giefmod1 -->`](https://github.com/Etana/template/blob/master/var/giefmod1.md#readme)
 * __Utilisation :__
 
 ```html

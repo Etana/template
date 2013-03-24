@@ -1,6 +1,6 @@
 # main_page.pay_method.radio
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN pay_method -->...<!-- END pay_method -->`](https://github.com/Etana/template/blob/master/var/pay_method.md#readme)
 * __Utilisation :__
 
 ```html

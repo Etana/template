@@ -1,6 +1,6 @@
 # topicrow.LAST_POST_TIME
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN topicrow -->...<!-- END topicrow -->`](https://github.com/Etana/template/blob/master/var/topicrow.md#readme)
 * __Utilisation :__
 
 ```html

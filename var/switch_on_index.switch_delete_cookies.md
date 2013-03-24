@@ -1,6 +1,6 @@
 # switch_on_index.switch_delete_cookies
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_on_index -->...<!-- END switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme)
 * __Utilisation :__
 
 ```html

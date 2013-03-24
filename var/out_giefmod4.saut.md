@@ -1,6 +1,6 @@
 # out_giefmod4.saut
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN out_giefmod4 -->...<!-- END out_giefmod4 -->`](https://github.com/Etana/template/blob/master/var/out_giefmod4.md#readme)
 * __Utilisation :__
 
 ```html

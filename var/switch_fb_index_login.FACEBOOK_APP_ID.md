@@ -1,6 +1,6 @@
 # switch_fb_index_login.FACEBOOK_APP_ID
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_index_login -->...<!-- END switch_fb_index_login -->`](https://github.com/Etana/template/blob/master/var/switch_fb_index_login.md#readme)
 * __Utilisation :__
 
 ```html

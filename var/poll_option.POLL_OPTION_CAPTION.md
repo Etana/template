@@ -1,6 +1,6 @@
 # poll_option.POLL_OPTION_CAPTION
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
 * __Utilisation :__
 
 ```html

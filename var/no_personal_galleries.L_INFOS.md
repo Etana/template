@@ -1,6 +1,6 @@
 # no_personal_galleries.L_INFOS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN no_personal_galleries -->...<!-- END no_personal_galleries -->`](https://github.com/Etana/template/blob/master/var/no_personal_galleries.md#readme)
 * __Utilisation :__
 
 ```html

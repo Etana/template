@@ -1,6 +1,6 @@
 # navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN cat_personal_footer -->...<!-- END cat_personal_footer -->`](https://github.com/Etana/template/blob/master/var/cat_personal_footer.md#readme)
 * __Utilisation :__
 
 ```html

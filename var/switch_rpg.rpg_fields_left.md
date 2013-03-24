@@ -1,6 +1,6 @@
 # switch_rpg.rpg_fields_left
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_rpg -->...<!-- END switch_rpg -->`](https://github.com/Etana/template/blob/master/var/switch_rpg.md#readme)
 * __Utilisation :__
 
 ```html

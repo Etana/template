@@ -1,6 +1,6 @@
 # classical_row.recent_topic_row
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN classical_row -->...<!-- END classical_row -->`](https://github.com/Etana/template/blob/master/var/classical_row.md#readme)
 * __Utilisation :__
 
 ```html

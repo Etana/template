@@ -1,6 +1,6 @@
 # postrow.L_SELECT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
 * __Utilisation :__
 
 ```html

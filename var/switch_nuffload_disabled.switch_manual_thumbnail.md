@@ -1,6 +1,6 @@
 # switch_nuffload_disabled.switch_manual_thumbnail
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_nuffload_disabled -->...<!-- END switch_nuffload_disabled -->`](https://github.com/Etana/template/blob/master/var/switch_nuffload_disabled.md#readme)
 * __Utilisation :__
 
 ```html

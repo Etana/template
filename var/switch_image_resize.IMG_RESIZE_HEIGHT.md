@@ -1,6 +1,6 @@
 # switch_image_resize.IMG_RESIZE_HEIGHT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_image_resize -->...<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)
 * __Utilisation :__
 
 ```html

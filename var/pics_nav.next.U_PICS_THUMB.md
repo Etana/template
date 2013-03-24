@@ -1,6 +1,6 @@
 # pics_nav.next.U_PICS_THUMB
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN next -->...<!-- END next -->`](https://github.com/Etana/template/blob/master/var/next.md#readme)
 * __Utilisation :__
 
 ```html

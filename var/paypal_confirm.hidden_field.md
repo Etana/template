@@ -1,6 +1,6 @@
 # paypal_confirm.hidden_field
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN paypal_confirm -->...<!-- END paypal_confirm -->`](https://github.com/Etana/template/blob/master/var/paypal_confirm.md#readme)
 * __Utilisation :__
 
 ```html

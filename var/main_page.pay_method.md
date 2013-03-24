@@ -1,6 +1,6 @@
 # main_page.pay_method
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN main_page -->...<!-- END main_page -->`](https://github.com/Etana/template/blob/master/var/main_page.md#readme)
 * __Utilisation :__
 
 ```html

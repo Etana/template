@@ -1,6 +1,6 @@
 # _calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_add_event_day -->...<!-- END switch_add_event_day -->`](https://github.com/Etana/template/blob/master/var/switch_add_event_day.md#readme)
 * __Utilisation :__
 
 ```html

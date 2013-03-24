@@ -1,6 +1,6 @@
 # topics_list_box.row.END_TABLE_STICKY
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/row.md#readme)
 * __Utilisation :__
 
 ```html

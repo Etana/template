@@ -1,6 +1,6 @@
 # switch_specials_fonts.OTHERS_SPECIFICS_FONTS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_specials_fonts -->...<!-- END switch_specials_fonts -->`](https://github.com/Etana/template/blob/master/var/switch_specials_fonts.md#readme)
 * __Utilisation :__
 
 ```html

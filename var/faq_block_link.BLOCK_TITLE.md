@@ -1,6 +1,6 @@
 # faq_block_link.BLOCK_TITLE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_link -->`](https://github.com/Etana/template/blob/master/var/faq_block_link.md#readme)
 * __Utilisation :__
 
 ```html

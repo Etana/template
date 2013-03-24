@@ -1,6 +1,6 @@
 # switch_quote_limit.L_QUOTE_LIMIT_WARNING
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_quote_limit -->...<!-- END switch_quote_limit -->`](https://github.com/Etana/template/blob/master/var/switch_quote_limit.md#readme)
 * __Utilisation :__
 
 ```html

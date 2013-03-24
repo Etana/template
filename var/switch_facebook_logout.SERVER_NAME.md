@@ -1,6 +1,6 @@
 # switch_facebook_logout.SERVER_NAME
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_facebook_logout -->...<!-- END switch_facebook_logout -->`](https://github.com/Etana/template/blob/master/var/switch_facebook_logout.md#readme)
 * __Utilisation :__
 
 ```html

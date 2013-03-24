@@ -1,6 +1,6 @@
 # iprow.IP
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN iprow -->...<!-- END iprow -->`](https://github.com/Etana/template/blob/master/var/iprow.md#readme)
 * __Utilisation :__
 
 ```html

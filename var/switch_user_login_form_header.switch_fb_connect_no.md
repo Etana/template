@@ -1,6 +1,6 @@
 # switch_user_login_form_header.switch_fb_connect_no
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_user_login_form_header -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # switch_exif_enabled.exif_switch.exif_data.EXIFd1
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN exif_data -->...<!-- END exif_data -->`](https://github.com/Etana/template/blob/master/var/exif_data.md#readme)
 * __Utilisation :__
 
 ```html

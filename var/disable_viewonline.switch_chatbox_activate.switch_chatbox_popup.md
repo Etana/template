@@ -1,6 +1,6 @@
 # disable_viewonline.switch_chatbox_activate.switch_chatbox_popup
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_chatbox_activate -->...<!-- END switch_chatbox_activate -->`](https://github.com/Etana/template/blob/master/var/switch_chatbox_activate.md#readme)
 * __Utilisation :__
 
 ```html

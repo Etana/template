@@ -1,6 +1,6 @@
 # switch_attachment_list.attachments.REAL_FILENAME
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN attachments -->...<!-- END attachments -->`](https://github.com/Etana/template/blob/master/var/attachments.md#readme)
 * __Utilisation :__
 
 ```html

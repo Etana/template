@@ -1,6 +1,6 @@
 # google_analytics_code.google_analytics_code_bis
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN google_analytics_code -->...<!-- END google_analytics_code -->`](https://github.com/Etana/template/blob/master/var/google_analytics_code.md#readme)
 * __Utilisation :__
 
 ```html

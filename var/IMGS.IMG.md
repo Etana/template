@@ -1,6 +1,6 @@
 # IMGS.IMG
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # build_categories_block.no_pics
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN build_categories_block -->...<!-- END build_categories_block -->`](https://github.com/Etana/template/blob/master/var/build_categories_block.md#readme)
 * __Utilisation :__
 
 ```html

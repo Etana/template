@@ -1,6 +1,6 @@
 # smilies_row.smilies_col
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
 * __Utilisation :__
 
 ```html

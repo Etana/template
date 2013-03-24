@@ -1,6 +1,6 @@
 # navlinks.stat_link
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](https://github.com/Etana/template/blob/master/var/navlinks.md#readme)
 * __Utilisation :__
 
 ```html

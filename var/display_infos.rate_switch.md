@@ -1,6 +1,6 @@
 # display_infos.rate_switch
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN display_infos -->...<!-- END display_infos -->`](https://github.com/Etana/template/blob/master/var/display_infos.md#readme)
 * __Utilisation :__
 
 ```html

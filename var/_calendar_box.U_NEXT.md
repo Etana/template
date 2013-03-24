@@ -1,6 +1,6 @@
 # _calendar_box.U_NEXT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](https://github.com/Etana/template/blob/master/var/_calendar_box.md#readme)
 * __Utilisation :__
 
 ```html

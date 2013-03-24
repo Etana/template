@@ -1,6 +1,6 @@
 # catrow.tablehead
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN catrow -->...<!-- END catrow -->`](https://github.com/Etana/template/blob/master/var/catrow.md#readme)
 * __Utilisation :__
 
 ```html

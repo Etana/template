@@ -1,6 +1,6 @@
 # switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_subject_color -->...<!-- END switch_subject_color -->`](https://github.com/Etana/template/blob/master/var/switch_subject_color.md#readme)
 * __Utilisation :__
 
 ```html

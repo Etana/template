@@ -1,6 +1,6 @@
 # giefmod_index2.saut
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN giefmod_index2 -->...<!-- END giefmod_index2 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.md#readme)
 * __Utilisation :__
 
 ```html

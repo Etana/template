@@ -1,6 +1,6 @@
 # hitskin_preview.L_RETURN_THEME
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN hitskin_preview -->...<!-- END hitskin_preview -->`](https://github.com/Etana/template/blob/master/var/hitskin_preview.md#readme)
 * __Utilisation :__
 
 ```html

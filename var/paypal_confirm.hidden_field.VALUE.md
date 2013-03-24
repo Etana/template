@@ -1,6 +1,6 @@
 # paypal_confirm.hidden_field.VALUE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN hidden_field -->...<!-- END hidden_field -->`](https://github.com/Etana/template/blob/master/var/hidden_field.md#readme)
 * __Utilisation :__
 
 ```html

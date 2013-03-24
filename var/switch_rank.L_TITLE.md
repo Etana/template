@@ -1,6 +1,6 @@
 # switch_rank.L_TITLE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_rank -->...<!-- END switch_rank -->`](https://github.com/Etana/template/blob/master/var/switch_rank.md#readme)
 * __Utilisation :__
 
 ```html

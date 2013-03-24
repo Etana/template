@@ -1,6 +1,6 @@
 # topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_description -->...<!-- END switch_description -->`](https://github.com/Etana/template/blob/master/var/switch_description.md#readme)
 * __Utilisation :__
 
 ```html

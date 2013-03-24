@@ -1,6 +1,6 @@
 # pic_backup_link.BACKUP_FOLDER_LINK
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN pic_backup_link -->...<!-- END pic_backup_link -->`](https://github.com/Etana/template/blob/master/var/pic_backup_link.md#readme)
 * __Utilisation :__
 
 ```html

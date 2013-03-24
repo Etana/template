@@ -1,6 +1,6 @@
 # display_infos.rate_switch.norate_row_disabled
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN rate_switch -->...<!-- END rate_switch -->`](https://github.com/Etana/template/blob/master/var/rate_switch.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # postrow.displayed.COUNT_POSTS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN displayed -->...<!-- END displayed -->`](https://github.com/Etana/template/blob/master/var/displayed.md#readme)
 * __Utilisation :__
 
 ```html

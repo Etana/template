@@ -1,6 +1,6 @@
 # display_infos.rate_switch.rate_row.rate_scale_row
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN rate_row -->...<!-- END rate_row -->`](https://github.com/Etana/template/blob/master/var/rate_row.md#readme)
 * __Utilisation :__
 
 ```html

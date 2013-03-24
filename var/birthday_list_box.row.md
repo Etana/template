@@ -1,6 +1,6 @@
 # birthday_list_box.row
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN birthday_list_box -->...<!-- END birthday_list_box -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # pics_nav.nonext
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](https://github.com/Etana/template/blob/master/var/pics_nav.md#readme)
 * __Utilisation :__
 
 ```html

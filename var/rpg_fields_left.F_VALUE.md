@@ -1,6 +1,6 @@
 # rpg_fields_left.F_VALUE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN rpg_fields_left -->...<!-- END rpg_fields_left -->`](https://github.com/Etana/template/blob/master/var/rpg_fields_left.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # switch_preferences_menu.switch_enable_mail_view
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_preferences_menu -->...<!-- END switch_preferences_menu -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.md#readme)
 * __Utilisation :__
 
 ```html

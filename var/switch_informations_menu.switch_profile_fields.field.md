@@ -1,6 +1,6 @@
 # switch_informations_menu.switch_profile_fields.field
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_profile_fields -->...<!-- END switch_profile_fields -->`](https://github.com/Etana/template/blob/master/var/switch_profile_fields.md#readme)
 * __Utilisation :__
 
 ```html

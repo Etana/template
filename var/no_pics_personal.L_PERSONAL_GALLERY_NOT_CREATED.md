@@ -1,6 +1,6 @@
 # no_pics_personal.L_PERSONAL_GALLERY_NOT_CREATED
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN no_pics_personal -->...<!-- END no_pics_personal -->`](https://github.com/Etana/template/blob/master/var/no_pics_personal.md#readme)
 * __Utilisation :__
 
 ```html
