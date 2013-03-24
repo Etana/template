@@ -10,22 +10,22 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=908) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=908) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=908) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=908) > [`poll_ballot`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=908)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/poll_ballot.tpl#files)
-\* [__Template PunBB__](../src/punbb/poll_ballot.tpl#files)
+* [__phpBB2__](../src/subsilver/poll_ballot.tpl#files)
+* [__PunBB__](../src/punbb/poll_ballot.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/poll_ballot)
 
 ## Variables disponibles
-\* [`{L_SUBMIT_VOTE}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT_VOTE.md#readme)
-\* [`{L_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/L_VIEW_RESULTS.md#readme)
-\* [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
-\* [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
-\* [`{S_POLL_ACTION}`](https://github.com/Etana/template/blob/master/var/S_POLL_ACTION.md#readme)
-\* [`{U_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/U_VIEW_RESULTS.md#readme)
-\* [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{L_SUBMIT_VOTE}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT_VOTE.md#readme)
+* [`{L_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/L_VIEW_RESULTS.md#readme)
+* [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
+* [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
+* [`{S_POLL_ACTION}`](https://github.com/Etana/template/blob/master/var/S_POLL_ACTION.md#readme)
+* [`{U_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/U_VIEW_RESULTS.md#readme)
+* [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

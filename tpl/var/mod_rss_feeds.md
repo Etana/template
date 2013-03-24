@@ -10,17 +10,17 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=915) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=915) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=915) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=915) > [`mod_rss_feeds`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=915)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/mod_rss_feeds.tpl#files)
-\* [__Template PunBB__](../src/punbb/mod_rss_feeds.tpl#files)
+* [__phpBB2__](../src/subsilver/mod_rss_feeds.tpl#files)
+* [__PunBB__](../src/punbb/mod_rss_feeds.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_rss_feeds)
 
 ## Variables disponibles
-\* [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
-\* [`{L_RSS_FEEDS}`](https://github.com/Etana/template/blob/master/var/L_RSS_FEEDS.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
+* [`{L_RSS_FEEDS}`](https://github.com/Etana/template/blob/master/var/L_RSS_FEEDS.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

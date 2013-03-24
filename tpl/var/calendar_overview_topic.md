@@ -10,26 +10,26 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=405) > [`calendar_overview_topic`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=405)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/calendar_overview_topic.tpl#files)
-\* [__Template PunBB__](../src/punbb/calendar_overview_topic.tpl#files)
+* [__phpBB2__](../src/subsilver/calendar_overview_topic.tpl#files)
+* [__PunBB__](../src/punbb/calendar_overview_topic.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_overview_topic)
 
 ## Variables disponibles
-\* [`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)
-\* [`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)
-\* [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
-\* [`{L_CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR_EVENT.md#readme)
-\* [`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme)
-\* [`{L_TOPIC_DATE}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_DATE.md#readme)
-\* [`{MESSAGE}`](https://github.com/Etana/template/blob/master/var/MESSAGE.md#readme)
-\* [`{NAV_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_DESC.md#readme)
-\* [`{TOPIC_DATE}`](https://github.com/Etana/template/blob/master/var/TOPIC_DATE.md#readme)
-\* [`{TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/TOPIC_TITLE.md#readme)
-\* [`<!-- BEGIN display_forum -->...<!-- END display_forum -->`](https://github.com/Etana/template/blob/master/var/display_forum.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)
+* [`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)
+* [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
+* [`{L_CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR_EVENT.md#readme)
+* [`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme)
+* [`{L_TOPIC_DATE}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_DATE.md#readme)
+* [`{MESSAGE}`](https://github.com/Etana/template/blob/master/var/MESSAGE.md#readme)
+* [`{NAV_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_DESC.md#readme)
+* [`{TOPIC_DATE}`](https://github.com/Etana/template/blob/master/var/TOPIC_DATE.md#readme)
+* [`{TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/TOPIC_TITLE.md#readme)
+* [`<!-- BEGIN display_forum -->...<!-- END display_forum -->`](https://github.com/Etana/template/blob/master/var/display_forum.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

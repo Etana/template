@@ -10,28 +10,28 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=508) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=508) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=508) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=508) > [`posting_smilies_wysiwyg`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=508)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/posting_smilies_wysiwyg.tpl#files)
-\* [__Template PunBB__](../src/punbb/posting_smilies_wysiwyg.tpl#files)
+* [__phpBB2__](../src/subsilver/posting_smilies_wysiwyg.tpl#files)
+* [__PunBB__](../src/punbb/posting_smilies_wysiwyg.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies_wysiwyg)
 
 ## Variables disponibles
-\* [`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme)
-\* [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
-\* [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
-\* [`{L_SMILIES_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SMILIES_TITLE.md#readme)
-\* [`{L_VIEW_MORE}`](https://github.com/Etana/template/blob/master/var/L_VIEW_MORE.md#readme)
-\* [`{SELECT_OPTIONS}`](https://github.com/Etana/template/blob/master/var/SELECT_OPTIONS.md#readme)
-\* [`{S_CONTENT_ENCODING}`](https://github.com/Etana/template/blob/master/var/S_CONTENT_ENCODING.md#readme)
-\* [`{T_BODY_BGCOLOR}`](https://github.com/Etana/template/blob/master/var/T_BODY_BGCOLOR.md#readme)
-\* [`{T_BODY_LINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_LINK.md#readme)
-\* [`{T_BODY_TEXT}`](https://github.com/Etana/template/blob/master/var/T_BODY_TEXT.md#readme)
-\* [`{T_BODY_VLINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_VLINK.md#readme)
-\* [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
-\* [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme)
+* [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
+* [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
+* [`{L_SMILIES_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SMILIES_TITLE.md#readme)
+* [`{L_VIEW_MORE}`](https://github.com/Etana/template/blob/master/var/L_VIEW_MORE.md#readme)
+* [`{SELECT_OPTIONS}`](https://github.com/Etana/template/blob/master/var/SELECT_OPTIONS.md#readme)
+* [`{S_CONTENT_ENCODING}`](https://github.com/Etana/template/blob/master/var/S_CONTENT_ENCODING.md#readme)
+* [`{T_BODY_BGCOLOR}`](https://github.com/Etana/template/blob/master/var/T_BODY_BGCOLOR.md#readme)
+* [`{T_BODY_LINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_LINK.md#readme)
+* [`{T_BODY_TEXT}`](https://github.com/Etana/template/blob/master/var/T_BODY_TEXT.md#readme)
+* [`{T_BODY_VLINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_VLINK.md#readme)
+* [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
+* [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

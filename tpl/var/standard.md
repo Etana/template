@@ -10,19 +10,19 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=911) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=911) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=911) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=911) > [`standard`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=911)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/standard.tpl#files)
-\* [__Template PunBB__](../src/punbb/standard.tpl#files)
+* [__phpBB2__](../src/subsilver/standard.tpl#files)
+* [__PunBB__](../src/punbb/standard.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/standard)
 
 ## Variables disponibles
-\* [`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme)
-\* [`{S_SOURCE}`](https://github.com/Etana/template/blob/master/var/S_SOURCE.md#readme)
-\* [`<!-- BEGIN not_table_row -->...<!-- END not_table_row -->`](https://github.com/Etana/template/blob/master/var/not_table_row.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
-\* [`<!-- BEGIN table_row -->...<!-- END table_row -->`](https://github.com/Etana/template/blob/master/var/table_row.md#readme)
+* [`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme)
+* [`{S_SOURCE}`](https://github.com/Etana/template/blob/master/var/S_SOURCE.md#readme)
+* [`<!-- BEGIN not_table_row -->...<!-- END not_table_row -->`](https://github.com/Etana/template/blob/master/var/not_table_row.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`<!-- BEGIN table_row -->...<!-- END table_row -->`](https://github.com/Etana/template/blob/master/var/table_row.md#readme)
 
 ## Localisations dans le template PunBB 
 

@@ -10,21 +10,21 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=404) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=404) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=404) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=404) > [`calendar_overview_profil`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=404)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/calendar_overview_profil.tpl#files)
-\* [__Template PunBB__](../src/punbb/calendar_overview_profil.tpl#files)
+* [__phpBB2__](../src/subsilver/calendar_overview_profil.tpl#files)
+* [__PunBB__](../src/punbb/calendar_overview_profil.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_overview_profil)
 
 ## Variables disponibles
-\* [`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)
-\* [`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)
-\* [`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)
-\* [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
-\* [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)
-\* [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)
+* [`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)
+* [`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)
+* [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
+* [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)
+* [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

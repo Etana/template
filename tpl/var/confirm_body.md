@@ -10,8 +10,8 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=103) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=103) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=103) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=103) > [`confirm_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=103)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/confirm_body.tpl#files)
-\* [__Template PunBB__](../src/punbb/confirm_body.tpl#files)
+* [__phpBB2__](../src/subsilver/confirm_body.tpl#files)
+* [__PunBB__](../src/punbb/confirm_body.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/confirm_body)
 `Page type pour les demandes de confirmation`.
@@ -19,18 +19,18 @@
 Ce template touche toutes les demandes de confirmation comme le bannissement d'un membre, la suppression de messages et sujets, ...
 
 ## Variables disponibles
-\* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
-\* [`{L_NO}`](https://github.com/Etana/template/blob/master/var/L_NO.md#readme)
-\* [`{L_YES}`](https://github.com/Etana/template/blob/master/var/L_YES.md#readme)
-\* [`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme)
-\* [`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme)
-\* [`{OPTIONAL_BAN}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN.md#readme)
-\* [`{OPTIONAL_BAN_NEW}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN_NEW.md#readme)
-\* [`{S_CONFIRM_ACTION}`](https://github.com/Etana/template/blob/master/var/S_CONFIRM_ACTION.md#readme)
-\* [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
-\* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
+* [`{L_NO}`](https://github.com/Etana/template/blob/master/var/L_NO.md#readme)
+* [`{L_YES}`](https://github.com/Etana/template/blob/master/var/L_YES.md#readme)
+* [`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme)
+* [`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme)
+* [`{OPTIONAL_BAN}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN.md#readme)
+* [`{OPTIONAL_BAN_NEW}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN_NEW.md#readme)
+* [`{S_CONFIRM_ACTION}`](https://github.com/Etana/template/blob/master/var/S_CONFIRM_ACTION.md#readme)
+* [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
+* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

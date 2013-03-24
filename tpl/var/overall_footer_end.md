@@ -10,21 +10,21 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=133) > [`overall_footer_end`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=133)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/overall_footer_end.tpl#files)
-\* [__Template PunBB__](../src/punbb/overall_footer_end.tpl#files)
+* [__phpBB2__](../src/subsilver/overall_footer_end.tpl#files)
+* [__PunBB__](../src/punbb/overall_footer_end.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_end)
 
 ## Variables disponibles
-\* [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
-\* [`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)
-\* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
-\* [`<!-- BEGIN switch_facebook_login -->...<!-- END switch_facebook_login -->`](https://github.com/Etana/template/blob/master/var/switch_facebook_login.md#readme)
-\* [`{switch_facebook_logout_TMP}`](https://github.com/Etana/template/blob/master/var/switch_facebook_logout_TMP.md#readme)
-\* [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
+* [`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)
+* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
+* [`<!-- BEGIN switch_facebook_login -->...<!-- END switch_facebook_login -->`](https://github.com/Etana/template/blob/master/var/switch_facebook_login.md#readme)
+* [`{switch_facebook_logout_TMP}`](https://github.com/Etana/template/blob/master/var/switch_facebook_logout_TMP.md#readme)
+* [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

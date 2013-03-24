@@ -10,18 +10,18 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=914) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=914) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=914) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=914) > [`mod_social_bookmarking`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=914)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/mod_social_bookmarking.tpl#files)
-\* [__Template PunBB__](../src/punbb/mod_social_bookmarking.tpl#files)
+* [__phpBB2__](../src/subsilver/mod_social_bookmarking.tpl#files)
+* [__PunBB__](../src/punbb/mod_social_bookmarking.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_social_bookmarking)
 
 ## Variables disponibles
-\* [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
-\* [`{L_SOCIAL_BOOKMARKING}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING.md#readme)
-\* [`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
+* [`{L_SOCIAL_BOOKMARKING}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING.md#readme)
+* [`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

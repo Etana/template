@@ -10,21 +10,21 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=509) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=509) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=509) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=509) > [`posting_topic_review`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=509)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/posting_topic_review.tpl#files)
-\* [__Template PunBB__](../src/punbb/posting_topic_review.tpl#files)
+* [__phpBB2__](../src/subsilver/posting_topic_review.tpl#files)
+* [__PunBB__](../src/punbb/posting_topic_review.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_topic_review)
 
 ## Variables disponibles
-\* [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
-\* [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
-\* [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
-\* [`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)
-\* [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
-\* [`<!-- BEGIN switch_inline_mode -->...<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
+* [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
+* [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
+* [`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)
+* [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
+* [`<!-- BEGIN switch_inline_mode -->...<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

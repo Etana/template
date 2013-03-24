@@ -10,25 +10,25 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=904) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=904) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=904) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=904) > [`mod_recent_topics`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=904)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/mod_recent_topics.tpl#files)
-\* [__Template PunBB__](../src/punbb/mod_recent_topics.tpl#files)
+* [__phpBB2__](../src/subsilver/mod_recent_topics.tpl#files)
+* [__PunBB__](../src/punbb/mod_recent_topics.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_recent_topics)
 
 ## Variables disponibles
-\* [`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)
-\* [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
-\* [`{L_RECENT_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_RECENT_TOPICS.md#readme)
-\* [`{ON}`](https://github.com/Etana/template/blob/master/var/ON.md#readme)
-\* [`{SCROLL_DELAY}`](https://github.com/Etana/template/blob/master/var/SCROLL_DELAY.md#readme)
-\* [`{SCROLL_HEIGHT}`](https://github.com/Etana/template/blob/master/var/SCROLL_HEIGHT.md#readme)
-\* [`{SCROLL_STEP}`](https://github.com/Etana/template/blob/master/var/SCROLL_STEP.md#readme)
-\* [`{SCROLL_WAY}`](https://github.com/Etana/template/blob/master/var/SCROLL_WAY.md#readme)
-\* [`<!-- BEGIN classical_row -->...<!-- END classical_row -->`](https://github.com/Etana/template/blob/master/var/classical_row.md#readme)
-\* [`<!-- BEGIN scrolling_row -->...<!-- END scrolling_row -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)
+* [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
+* [`{L_RECENT_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_RECENT_TOPICS.md#readme)
+* [`{ON}`](https://github.com/Etana/template/blob/master/var/ON.md#readme)
+* [`{SCROLL_DELAY}`](https://github.com/Etana/template/blob/master/var/SCROLL_DELAY.md#readme)
+* [`{SCROLL_HEIGHT}`](https://github.com/Etana/template/blob/master/var/SCROLL_HEIGHT.md#readme)
+* [`{SCROLL_STEP}`](https://github.com/Etana/template/blob/master/var/SCROLL_STEP.md#readme)
+* [`{SCROLL_WAY}`](https://github.com/Etana/template/blob/master/var/SCROLL_WAY.md#readme)
+* [`<!-- BEGIN classical_row -->...<!-- END classical_row -->`](https://github.com/Etana/template/blob/master/var/classical_row.md#readme)
+* [`<!-- BEGIN scrolling_row -->...<!-- END scrolling_row -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

@@ -10,26 +10,26 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Templates | Groupes`](http://votre-forum.appspot.com/admin/?mode=group&part=themes&sub=templates#?mode=edit_group&part=themes&sub=templates&t=802) > [`groupcp_pending_info`](http://votre-forum.appspot.com/admin/?mode=edit_group&part=themes&sub=templates&t=802)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/groupcp_pending_info.tpl#files)
-\* [__Template PunBB__](../src/punbb/groupcp_pending_info.tpl#files)
+* [__phpBB2__](../src/subsilver/groupcp_pending_info.tpl#files)
+* [__PunBB__](../src/punbb/groupcp_pending_info.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/groupcp_pending_info)
 
 ## Variables disponibles
-\* [`{L_APPROVE_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_APPROVE_SELECTED.md#readme)
-\* [`{L_DENY_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_DENY_SELECTED.md#readme)
-\* [`{L_EMAIL}`](https://github.com/Etana/template/blob/master/var/L_EMAIL.md#readme)
-\* [`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)
-\* [`{L_PENDING_MEMBERS}`](https://github.com/Etana/template/blob/master/var/L_PENDING_MEMBERS.md#readme)
-\* [`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)
-\* [`{L_POSTS}`](https://github.com/Etana/template/blob/master/var/L_POSTS.md#readme)
-\* [`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)
-\* [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)
-\* [`{L_WEBSITE}`](https://github.com/Etana/template/blob/master/var/L_WEBSITE.md#readme)
-\* [`<!-- BEGIN pending_members_row -->...<!-- END pending_members_row -->`](https://github.com/Etana/template/blob/master/var/pending_members_row.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{L_APPROVE_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_APPROVE_SELECTED.md#readme)
+* [`{L_DENY_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_DENY_SELECTED.md#readme)
+* [`{L_EMAIL}`](https://github.com/Etana/template/blob/master/var/L_EMAIL.md#readme)
+* [`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)
+* [`{L_PENDING_MEMBERS}`](https://github.com/Etana/template/blob/master/var/L_PENDING_MEMBERS.md#readme)
+* [`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)
+* [`{L_POSTS}`](https://github.com/Etana/template/blob/master/var/L_POSTS.md#readme)
+* [`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)
+* [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)
+* [`{L_WEBSITE}`](https://github.com/Etana/template/blob/master/var/L_WEBSITE.md#readme)
+* [`<!-- BEGIN pending_members_row -->...<!-- END pending_members_row -->`](https://github.com/Etana/template/blob/master/var/pending_members_row.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

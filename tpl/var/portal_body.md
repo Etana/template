@@ -10,30 +10,30 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=910) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=910) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=910) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=910) > [`portal_body`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=910)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/portal_body.tpl#files)
-\* [__Template PunBB__](../src/punbb/portal_body.tpl#files)
+* [__phpBB2__](../src/subsilver/portal_body.tpl#files)
+* [__PunBB__](../src/punbb/portal_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/portal_body)
 
 ## Variables disponibles
-\* [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
-\* [`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme)
-\* [`{C2SIZE}`](https://github.com/Etana/template/blob/master/var/C2SIZE.md#readme)
-\* [`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme)
-\* [`{SPACE_COL}`](https://github.com/Etana/template/blob/master/var/SPACE_COL.md#readme)
-\* [`{SPACE_ROW}`](https://github.com/Etana/template/blob/master/var/SPACE_ROW.md#readme)
-\* [`<!-- BEGIN giefmod0 -->...<!-- END giefmod0 -->`](https://github.com/Etana/template/blob/master/var/giefmod0.md#readme)
-\* [`<!-- BEGIN giefmod1 -->...<!-- END giefmod1 -->`](https://github.com/Etana/template/blob/master/var/giefmod1.md#readme)
-\* [`<!-- BEGIN giefmod2 -->...<!-- END giefmod2 -->`](https://github.com/Etana/template/blob/master/var/giefmod2.md#readme)
-\* [`<!-- BEGIN giefmod3 -->...<!-- END giefmod3 -->`](https://github.com/Etana/template/blob/master/var/giefmod3.md#readme)
-\* [`<!-- BEGIN giefmod4 -->...<!-- END giefmod4 -->`](https://github.com/Etana/template/blob/master/var/giefmod4.md#readme)
-\* [`<!-- BEGIN out_giefmod0 -->...<!-- END out_giefmod0 -->`](https://github.com/Etana/template/blob/master/var/out_giefmod0.md#readme)
-\* [`<!-- BEGIN out_giefmod4 -->...<!-- END out_giefmod4 -->`](https://github.com/Etana/template/blob/master/var/out_giefmod4.md#readme)
-\* [`<!-- BEGIN simple_footer -->...<!-- END simple_footer -->`](https://github.com/Etana/template/blob/master/var/simple_footer.md#readme)
-\* [`<!-- BEGIN simple_header -->...<!-- END simple_header -->`](https://github.com/Etana/template/blob/master/var/simple_header.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
+* [`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme)
+* [`{C2SIZE}`](https://github.com/Etana/template/blob/master/var/C2SIZE.md#readme)
+* [`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme)
+* [`{SPACE_COL}`](https://github.com/Etana/template/blob/master/var/SPACE_COL.md#readme)
+* [`{SPACE_ROW}`](https://github.com/Etana/template/blob/master/var/SPACE_ROW.md#readme)
+* [`<!-- BEGIN giefmod0 -->...<!-- END giefmod0 -->`](https://github.com/Etana/template/blob/master/var/giefmod0.md#readme)
+* [`<!-- BEGIN giefmod1 -->...<!-- END giefmod1 -->`](https://github.com/Etana/template/blob/master/var/giefmod1.md#readme)
+* [`<!-- BEGIN giefmod2 -->...<!-- END giefmod2 -->`](https://github.com/Etana/template/blob/master/var/giefmod2.md#readme)
+* [`<!-- BEGIN giefmod3 -->...<!-- END giefmod3 -->`](https://github.com/Etana/template/blob/master/var/giefmod3.md#readme)
+* [`<!-- BEGIN giefmod4 -->...<!-- END giefmod4 -->`](https://github.com/Etana/template/blob/master/var/giefmod4.md#readme)
+* [`<!-- BEGIN out_giefmod0 -->...<!-- END out_giefmod0 -->`](https://github.com/Etana/template/blob/master/var/out_giefmod0.md#readme)
+* [`<!-- BEGIN out_giefmod4 -->...<!-- END out_giefmod4 -->`](https://github.com/Etana/template/blob/master/var/out_giefmod4.md#readme)
+* [`<!-- BEGIN simple_footer -->...<!-- END simple_footer -->`](https://github.com/Etana/template/blob/master/var/simple_footer.md#readme)
+* [`<!-- BEGIN simple_header -->...<!-- END simple_header -->`](https://github.com/Etana/template/blob/master/var/simple_header.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

@@ -10,29 +10,29 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=402) > [`calendar_body`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=402)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/calendar_body.tpl#files)
-\* [__Template PunBB__](../src/punbb/calendar_body.tpl#files)
+* [__phpBB2__](../src/subsilver/calendar_body.tpl#files)
+* [__PunBB__](../src/punbb/calendar_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_body)
 
 ## Variables disponibles
-\* [`{CALENDAR_MONTH}`](https://github.com/Etana/template/blob/master/var/CALENDAR_MONTH.md#readme)
-\* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
-\* [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
-\* [`{L_CALENDAR}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR.md#readme)
-\* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
-\* [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
-\* [`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)
-\* [`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme)
-\* [`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme)
-\* [`{NAV_SEPARATOR}`](https://github.com/Etana/template/blob/master/var/NAV_SEPARATOR.md#readme)
-\* [`{U_CALENDAR}`](https://github.com/Etana/template/blob/master/var/U_CALENDAR.md#readme)
-\* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
-\* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
-\* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{CALENDAR_MONTH}`](https://github.com/Etana/template/blob/master/var/CALENDAR_MONTH.md#readme)
+* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
+* [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
+* [`{L_CALENDAR}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR.md#readme)
+* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
+* [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
+* [`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)
+* [`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme)
+* [`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme)
+* [`{NAV_SEPARATOR}`](https://github.com/Etana/template/blob/master/var/NAV_SEPARATOR.md#readme)
+* [`{U_CALENDAR}`](https://github.com/Etana/template/blob/master/var/U_CALENDAR.md#readme)
+* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
+* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
+* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

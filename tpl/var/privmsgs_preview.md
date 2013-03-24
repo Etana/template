@@ -10,26 +10,26 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=513) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=513) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=513) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=513) > [`privmsgs_preview`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=513)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/privmsgs_preview.tpl#files)
-\* [__Template PunBB__](../src/punbb/privmsgs_preview.tpl#files)
+* [__phpBB2__](../src/subsilver/privmsgs_preview.tpl#files)
+* [__PunBB__](../src/punbb/privmsgs_preview.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_preview)
 
 ## Variables disponibles
-\* [`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)
-\* [`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)
-\* [`{L_PREVIEW}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW.md#readme)
-\* [`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme)
-\* [`{L_TO}`](https://github.com/Etana/template/blob/master/var/L_TO.md#readme)
-\* [`{MESSAGE}`](https://github.com/Etana/template/blob/master/var/MESSAGE.md#readme)
-\* [`{MESSAGE_FROM}`](https://github.com/Etana/template/blob/master/var/MESSAGE_FROM.md#readme)
-\* [`{MESSAGE_NEW}`](https://github.com/Etana/template/blob/master/var/MESSAGE_NEW.md#readme)
-\* [`{MESSAGE_TO}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TO.md#readme)
-\* [`{POST_DATE}`](https://github.com/Etana/template/blob/master/var/POST_DATE.md#readme)
-\* [`{POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/POST_SUBJECT.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)
+* [`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)
+* [`{L_PREVIEW}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW.md#readme)
+* [`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme)
+* [`{L_TO}`](https://github.com/Etana/template/blob/master/var/L_TO.md#readme)
+* [`{MESSAGE}`](https://github.com/Etana/template/blob/master/var/MESSAGE.md#readme)
+* [`{MESSAGE_FROM}`](https://github.com/Etana/template/blob/master/var/MESSAGE_FROM.md#readme)
+* [`{MESSAGE_NEW}`](https://github.com/Etana/template/blob/master/var/MESSAGE_NEW.md#readme)
+* [`{MESSAGE_TO}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TO.md#readme)
+* [`{POST_DATE}`](https://github.com/Etana/template/blob/master/var/POST_DATE.md#readme)
+* [`{POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/POST_SUBJECT.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

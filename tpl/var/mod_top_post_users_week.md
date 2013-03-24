@@ -10,17 +10,17 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=920) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=920) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=920) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=920) > [`mod_top_post_users_week`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=920)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/mod_top_post_users_week.tpl#files)
-\* [__Template PunBB__](../src/punbb/mod_top_post_users_week.tpl#files)
+* [__phpBB2__](../src/subsilver/mod_top_post_users_week.tpl#files)
+* [__PunBB__](../src/punbb/mod_top_post_users_week.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_top_post_users_week)
 
 ## Variables disponibles
-\* [`{L_TOP_POST_USERS_WEEK}`](https://github.com/Etana/template/blob/master/var/L_TOP_POST_USERS_WEEK.md#readme)
-\* [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{L_TOP_POST_USERS_WEEK}`](https://github.com/Etana/template/blob/master/var/L_TOP_POST_USERS_WEEK.md#readme)
+* [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

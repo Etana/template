@@ -10,22 +10,22 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=907) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=907) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=907) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=907) > [`mod_whoisonline`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=907)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/mod_whoisonline.tpl#files)
-\* [__Template PunBB__](../src/punbb/mod_whoisonline.tpl#files)
+* [__phpBB2__](../src/subsilver/mod_whoisonline.tpl#files)
+* [__PunBB__](../src/punbb/mod_whoisonline.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_whoisonline)
 
 ## Variables disponibles
-\* [`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme)
-\* [`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)
-\* [`{L_WHO_IS_ONLINE}`](https://github.com/Etana/template/blob/master/var/L_WHO_IS_ONLINE.md#readme)
-\* [`{RECORD_USERS}`](https://github.com/Etana/template/blob/master/var/RECORD_USERS.md#readme)
-\* [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)
-\* [`{U_VIEWONLINE}`](https://github.com/Etana/template/blob/master/var/U_VIEWONLINE.md#readme)
-\* [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme)
+* [`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)
+* [`{L_WHO_IS_ONLINE}`](https://github.com/Etana/template/blob/master/var/L_WHO_IS_ONLINE.md#readme)
+* [`{RECORD_USERS}`](https://github.com/Etana/template/blob/master/var/RECORD_USERS.md#readme)
+* [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)
+* [`{U_VIEWONLINE}`](https://github.com/Etana/template/blob/master/var/U_VIEWONLINE.md#readme)
+* [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

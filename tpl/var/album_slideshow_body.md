@@ -10,30 +10,30 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=212) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=212) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=212) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=212) > [`album_slideshow_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=212)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/album_slideshow_body.tpl#files)
-\* [__Template PunBB__](../src/punbb/album_slideshow_body.tpl#files)
+* [__phpBB2__](../src/subsilver/album_slideshow_body.tpl#files)
+* [__PunBB__](../src/punbb/album_slideshow_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_slideshow_body)
 
 ## Variables disponibles
-\* [`{DES_LIST}`](https://github.com/Etana/template/blob/master/var/DES_LIST.md#readme)
-\* [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
-\* [`{L_SLIDESHOW_ONOFF}`](https://github.com/Etana/template/blob/master/var/L_SLIDESHOW_ONOFF.md#readme)
-\* [`{PIC_LIST}`](https://github.com/Etana/template/blob/master/var/PIC_LIST.md#readme)
-\* [`{PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/PIC_TITLE.md#readme)
-\* [`{SLIDESHOW_DELAY}`](https://github.com/Etana/template/blob/master/var/SLIDESHOW_DELAY.md#readme)
-\* [`{SLIDESHOW_SELECT}`](https://github.com/Etana/template/blob/master/var/SLIDESHOW_SELECT.md#readme)
-\* [`{STYLE_CSS}`](https://github.com/Etana/template/blob/master/var/STYLE_CSS.md#readme)
-\* [`{TIT_LIST}`](https://github.com/Etana/template/blob/master/var/TIT_LIST.md#readme)
-\* [`{URL_RETURN}`](https://github.com/Etana/template/blob/master/var/URL_RETURN.md#readme)
-\* [`{U_PIC}`](https://github.com/Etana/template/blob/master/var/U_PIC.md#readme)
-\* [`{U_SLIDESHOW}`](https://github.com/Etana/template/blob/master/var/U_SLIDESHOW.md#readme)
-\* [`{U_SLIDESHOW_REFRESH}`](https://github.com/Etana/template/blob/master/var/U_SLIDESHOW_REFRESH.md#readme)
-\* [`<!-- BEGIN switch_slideshow -->...<!-- END switch_slideshow -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow.md#readme)
-\* [`<!-- BEGIN switch_slideshow_scripts -->...<!-- END switch_slideshow_scripts -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow_scripts.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{DES_LIST}`](https://github.com/Etana/template/blob/master/var/DES_LIST.md#readme)
+* [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
+* [`{L_SLIDESHOW_ONOFF}`](https://github.com/Etana/template/blob/master/var/L_SLIDESHOW_ONOFF.md#readme)
+* [`{PIC_LIST}`](https://github.com/Etana/template/blob/master/var/PIC_LIST.md#readme)
+* [`{PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/PIC_TITLE.md#readme)
+* [`{SLIDESHOW_DELAY}`](https://github.com/Etana/template/blob/master/var/SLIDESHOW_DELAY.md#readme)
+* [`{SLIDESHOW_SELECT}`](https://github.com/Etana/template/blob/master/var/SLIDESHOW_SELECT.md#readme)
+* [`{STYLE_CSS}`](https://github.com/Etana/template/blob/master/var/STYLE_CSS.md#readme)
+* [`{TIT_LIST}`](https://github.com/Etana/template/blob/master/var/TIT_LIST.md#readme)
+* [`{URL_RETURN}`](https://github.com/Etana/template/blob/master/var/URL_RETURN.md#readme)
+* [`{U_PIC}`](https://github.com/Etana/template/blob/master/var/U_PIC.md#readme)
+* [`{U_SLIDESHOW}`](https://github.com/Etana/template/blob/master/var/U_SLIDESHOW.md#readme)
+* [`{U_SLIDESHOW_REFRESH}`](https://github.com/Etana/template/blob/master/var/U_SLIDESHOW_REFRESH.md#readme)
+* [`<!-- BEGIN switch_slideshow -->...<!-- END switch_slideshow -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow.md#readme)
+* [`<!-- BEGIN switch_slideshow_scripts -->...<!-- END switch_slideshow_scripts -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow_scripts.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

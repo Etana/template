@@ -10,23 +10,23 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=905) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=905) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=905) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=905) > [`mod_search`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=905)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/mod_search.tpl#files)
-\* [__Template PunBB__](../src/punbb/mod_search.tpl#files)
+* [__phpBB2__](../src/subsilver/mod_search.tpl#files)
+* [__PunBB__](../src/punbb/mod_search.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_search)
 
 ## Variables disponibles
-\* [`{JS_SESSION_ID_INPUT}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID_INPUT.md#readme)
-\* [`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme)
-\* [`{SEARCH_ADVANCED}`](https://github.com/Etana/template/blob/master/var/SEARCH_ADVANCED.md#readme)
-\* [`{SEARCH_INSIDE}`](https://github.com/Etana/template/blob/master/var/SEARCH_INSIDE.md#readme)
-\* [`{SEARCH_POSTS}`](https://github.com/Etana/template/blob/master/var/SEARCH_POSTS.md#readme)
-\* [`{SEARCH_RESULTS}`](https://github.com/Etana/template/blob/master/var/SEARCH_RESULTS.md#readme)
-\* [`{SEARCH_TOPICS}`](https://github.com/Etana/template/blob/master/var/SEARCH_TOPICS.md#readme)
-\* [`{U_SEARCH}`](https://github.com/Etana/template/blob/master/var/U_SEARCH.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{JS_SESSION_ID_INPUT}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID_INPUT.md#readme)
+* [`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme)
+* [`{SEARCH_ADVANCED}`](https://github.com/Etana/template/blob/master/var/SEARCH_ADVANCED.md#readme)
+* [`{SEARCH_INSIDE}`](https://github.com/Etana/template/blob/master/var/SEARCH_INSIDE.md#readme)
+* [`{SEARCH_POSTS}`](https://github.com/Etana/template/blob/master/var/SEARCH_POSTS.md#readme)
+* [`{SEARCH_RESULTS}`](https://github.com/Etana/template/blob/master/var/SEARCH_RESULTS.md#readme)
+* [`{SEARCH_TOPICS}`](https://github.com/Etana/template/blob/master/var/SEARCH_TOPICS.md#readme)
+* [`{U_SEARCH}`](https://github.com/Etana/template/blob/master/var/U_SEARCH.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 

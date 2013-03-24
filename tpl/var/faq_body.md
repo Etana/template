@@ -10,8 +10,8 @@
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=107) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=107) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=107) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=107) > [`faq_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=107)
 
 ## Code source
-* [__Template phpBB2__](../src/subsilver/faq_body.tpl#files)
-\* [__Template PunBB__](../src/punbb/faq_body.tpl#files)
+* [__phpBB2__](../src/subsilver/faq_body.tpl#files)
+* [__PunBB__](../src/punbb/faq_body.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/faq_body)
 `Utilisé pour la FAQ de votre forum`.
@@ -19,24 +19,24 @@
 Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est ni activé, ni autorisé : `/faq?dhtml=no`
 
 ## Variables disponibles
-\* [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
-\* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
-\* [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
-\* [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
-\* [`{L_BACK_TO_TOP_TEXT}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP_TEXT.md#readme)
-\* [`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme)
-\* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
-\* [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
-\* [`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)
-\* [`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme)
-\* [`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme)
-\* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
-\* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
-\* [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
-\* [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](https://github.com/Etana/template/blob/master/var/faq_block.md#readme)
-\* [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_link -->`](https://github.com/Etana/template/blob/master/var/faq_block_link.md#readme)
-\* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-\* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
+* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
+* [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
+* [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
+* [`{L_BACK_TO_TOP_TEXT}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP_TEXT.md#readme)
+* [`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme)
+* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
+* [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
+* [`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)
+* [`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme)
+* [`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme)
+* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
+* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
+* [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
+* [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](https://github.com/Etana/template/blob/master/var/faq_block.md#readme)
+* [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_link -->`](https://github.com/Etana/template/blob/master/var/faq_block_link.md#readme)
+* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
 ## Localisations dans le template PunBB 
 
