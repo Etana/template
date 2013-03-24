@@ -3,7 +3,7 @@
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/merge_body.tpl)
 * __Avancement :__ 14/28
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=601) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=601) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=601) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=601) > [`merge_body`](http://votre-forum.appspot.com/admin/?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=601)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=601) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=601) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=601) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=601) > [`merge_body`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=601)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/merge_body)
 

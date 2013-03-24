@@ -3,7 +3,7 @@
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/calendar_body.tpl)
 * __Avancement :__ 2/6
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=402) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=402) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=402) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=402) > [`calendar_body`](http://votre-forum.appspot.com/admin/?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=402)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=402) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=402) > [`calendar_body`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=402)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/calendar_body)
 

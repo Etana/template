@@ -11,7 +11,11 @@ Attribut de bouclage de [`<!-- BEGIN member_row -->...<!-- END member_row -->`](
 <!-- END member_row -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/member_row.switch_mod_option)
+##Description[*](https://fa-tvars.appspot.com/var/member_row.switch_mod_option)
+Le contenu de la boucle est affiché :
+
+* soit si le visiteur est modérateur du groupe.
+* soit si le visiteur est administrateur.
 
 ## Utilisations dans les templates
 

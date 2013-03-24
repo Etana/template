@@ -3,7 +3,7 @@
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/viewtopic_body.tpl)
 * __Avancement :__ 42/166
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=127) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=127) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=127) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?l=main&mode=edit_main&part=themes&sub=templates&t=127) > [`viewtopic_body`](http://votre-forum.appspot.com/admin/?l=main&mode=edit_main&part=themes&sub=templates&t=127)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=127) > [`viewtopic_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=127)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/viewtopic_body)
 

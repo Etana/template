@@ -3,7 +3,7 @@
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/album_edit_body.tpl)
 * __Avancement :__ 11/30
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?l=gallery&mode=edit_gallery&part=themes&sub=templates&t=203) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?l=gallery&mode=edit_gallery&part=themes&sub=templates&t=203) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?l=gallery&mode=edit_gallery&part=themes&sub=templates&t=203) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?l=gallery&mode=edit_gallery&part=themes&sub=templates&t=203) > [`album_edit_body`](http://votre-forum.appspot.com/admin/?l=gallery&mode=edit_gallery&part=themes&sub=templates&t=203)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=203) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=203) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=203) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=203) > [`album_edit_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=203)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/album_edit_body)
 

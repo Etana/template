@@ -3,7 +3,7 @@
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/posting_confirm_code.tpl)
 * __Avancement :__ 2/35
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?l=post&mode=edit_post&part=themes&sub=templates&t=503) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?l=post&mode=edit_post&part=themes&sub=templates&t=503) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?l=post&mode=edit_post&part=themes&sub=templates&t=503) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?l=post&mode=edit_post&part=themes&sub=templates&t=503) > [`posting_confirm_code`](http://votre-forum.appspot.com/admin/?l=post&mode=edit_post&part=themes&sub=templates&t=503)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=503) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=503) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=503) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=503) > [`posting_confirm_code`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=503)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/posting_confirm_code)
 

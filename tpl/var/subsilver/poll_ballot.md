@@ -3,7 +3,7 @@
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/poll_ballot.tpl)
 * __Avancement :__ 1/10
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?l=portal&mode=edit_portal&part=themes&sub=templates&t=908) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?l=portal&mode=edit_portal&part=themes&sub=templates&t=908) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?l=portal&mode=edit_portal&part=themes&sub=templates&t=908) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?l=portal&mode=edit_portal&part=themes&sub=templates&t=908) > [`poll_ballot`](http://votre-forum.appspot.com/admin/?l=portal&mode=edit_portal&part=themes&sub=templates&t=908)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=908) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=908) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=908) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=908) > [`poll_ballot`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=908)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/poll_ballot)
 

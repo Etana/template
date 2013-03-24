@@ -3,7 +3,7 @@
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/groupcp_pending_info.tpl)
 * __Avancement :__ 4/20
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=group&sub=templates,?l=group&mode=edit_group&part=themes&sub=templates&t=802) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=group&sub=templates,?l=group&mode=edit_group&part=themes&sub=templates&t=802) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=group&sub=templates,?l=group&mode=edit_group&part=themes&sub=templates&t=802) > [`Templates | Groupes`](http://votre-forum.appspot.com/admin/?mode=group&part=themes&sub=templates#?l=group&mode=edit_group&part=themes&sub=templates&t=802) > [`groupcp_pending_info`](http://votre-forum.appspot.com/admin/?l=group&mode=edit_group&part=themes&sub=templates&t=802)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Templates | Groupes`](http://votre-forum.appspot.com/admin/?mode=group&part=themes&sub=templates#?mode=edit_group&part=themes&sub=templates&t=802) > [`groupcp_pending_info`](http://votre-forum.appspot.com/admin/?mode=edit_group&part=themes&sub=templates&t=802)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/groupcp_pending_info)
 

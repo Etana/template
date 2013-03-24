@@ -2,8 +2,8 @@
 
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/overall_header.tpl)
-* __Avancement :__ 79/92
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=116) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=116) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=116) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?l=main&mode=edit_main&part=themes&sub=templates&t=116) > [`overall_header`](http://votre-forum.appspot.com/admin/?l=main&mode=edit_main&part=themes&sub=templates&t=116)
+* __Avancement :__ 80/92
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=116) > [`overall_header`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=116)
 
 ##Description[*](https://fa-tvars.appspot.com/tpl/subsilver/overall_header)
 `Haut de page`.
@@ -103,7 +103,7 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 * __[`<!-- END switch_logo_left -->`](https://github.com/Etana/template/blob/master/var/switch_logo_left.md#readme) :__ ligne [`249`](../../src/subsilver/overall_header.tpl#L249)
 * __[`<!-- BEGIN switch_logo_right -->`](https://github.com/Etana/template/blob/master/var/switch_logo_right.md#readme) :__ ligne [`259`](../../src/subsilver/overall_header.tpl#L259)
 * __[`<!-- END switch_logo_right -->`](https://github.com/Etana/template/blob/master/var/switch_logo_right.md#readme) :__ ligne [`261`](../../src/subsilver/overall_header.tpl#L261)
-* __[`<!-- BEGIN switch_report_popup -->`](https://github.com/Etana/template/blob/master/var/switch_report_popup.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_report_popup">*</a> :__ ligne [`133`](../../src/subsilver/overall_header.tpl#L133)
+* __[`<!-- BEGIN switch_report_popup -->`](https://github.com/Etana/template/blob/master/var/switch_report_popup.md#readme) :__ ligne [`133`](../../src/subsilver/overall_header.tpl#L133)
     * __[`{switch_report_popup.S_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.S_HEIGHT.md#readme) :__ ligne [`134`](../../src/subsilver/overall_header.tpl#L134)
     * __[`{switch_report_popup.S_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.S_WIDTH.md#readme) :__ ligne [`134`](../../src/subsilver/overall_header.tpl#L134)
     * __[`{switch_report_popup.U_REPORT_POPUP}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.U_REPORT_POPUP.md#readme) :__ ligne [`134`](../../src/subsilver/overall_header.tpl#L134)

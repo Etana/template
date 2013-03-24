@@ -3,7 +3,7 @@
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/modcp_split.tpl)
 * __Avancement :__ 11/30
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=605) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=605) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=605) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=605) > [`modcp_split`](http://votre-forum.appspot.com/admin/?l=moderation&mode=edit_moderation&part=themes&sub=templates&t=605)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=605) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=605) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=605) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=605) > [`modcp_split`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=605)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/modcp_split)
 

@@ -9,7 +9,8 @@ Attribut d'affichage de [`<!-- BEGIN member_row -->...<!-- END member_row -->`](
 <!-- END member_row -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/member_row.POSTS)
+##Description[*](https://fa-tvars.appspot.com/var/member_row.POSTS)
+Nombre de message du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 

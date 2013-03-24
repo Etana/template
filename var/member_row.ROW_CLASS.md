@@ -9,7 +9,15 @@ Attribut d'affichage de [`<!-- BEGIN member_row -->...<!-- END member_row -->`](
 <!-- END member_row -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/member_row.ROW_CLASS)
+##Description[*](https://fa-tvars.appspot.com/var/member_row.ROW_CLASS)
+Vaut `row1` :
+
+* pour le premier membre sur lequel on boucle.
+* si il valait `row2` pour le membre précédent.
+
+et vaut `row2` au sinon.
+
+Dans la template de base, c'est utilisé comme classe aux cases afin de donner un style différent une ligne sur deux.
 
 ## Utilisations dans les templates
 

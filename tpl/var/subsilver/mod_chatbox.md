@@ -3,7 +3,7 @@
 * __Version :__ [phpBB2](.)
 * __Code source :__ [lien](../../src/subsilver/mod_chatbox.tpl)
 * __Avancement :__ 0/1
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?l=portal&mode=edit_portal&part=themes&sub=templates&t=901) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?l=portal&mode=edit_portal&part=themes&sub=templates&t=901) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?l=portal&mode=edit_portal&part=themes&sub=templates&t=901) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?l=portal&mode=edit_portal&part=themes&sub=templates&t=901) > [`mod_chatbox`](http://votre-forum.appspot.com/admin/?l=portal&mode=edit_portal&part=themes&sub=templates&t=901)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=901) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=901) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=901) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=901) > [`mod_chatbox`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=901)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/subsilver/mod_chatbox)
 

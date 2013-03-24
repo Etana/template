@@ -3,7 +3,7 @@
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/profile_send_email.tpl)
 * __Avancement :__ 12/29
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?l=profil&mode=edit_profil&part=themes&sub=templates&t=705) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?l=profil&mode=edit_profil&part=themes&sub=templates&t=705) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?l=profil&mode=edit_profil&part=themes&sub=templates&t=705) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?l=profil&mode=edit_profil&part=themes&sub=templates&t=705) > [`profile_send_email`](http://votre-forum.appspot.com/admin/?l=profil&mode=edit_profil&part=themes&sub=templates&t=705)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=705) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=705) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=705) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=705) > [`profile_send_email`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=705)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/profile_send_email)
 

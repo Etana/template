@@ -9,7 +9,8 @@ contenu
 <!-- END switch_report_popup -->
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_report_popup)
+##Description[*](https://fa-tvars.appspot.com/var/switch_report_popup)
+Boucle s'affichant lors de la création d'un nouveau rapport si l'utilisateur a coché "Oui" à l'option `Profil > Préférences > Ouvrir la popup des nouveaux rapports`.
 
 ## Attributs
 * __[`{switch_report_popup.S_HEIGHT}`](switch_report_popup.S_HEIGHT.md#readme)__

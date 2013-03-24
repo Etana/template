@@ -3,7 +3,7 @@
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/calendar_overview_topic.tpl)
 * __Avancement :__ 2/11
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=405) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=405) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=405) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=405) > [`calendar_overview_topic`](http://votre-forum.appspot.com/admin/?l=calendar&mode=edit_calendar&part=themes&sub=templates&t=405)
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=405) > [`calendar_overview_topic`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=405)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/calendar_overview_topic)
 

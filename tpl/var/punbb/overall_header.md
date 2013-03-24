@@ -2,8 +2,8 @@
 
 * __Version :__ [PunBB](.)
 * __Code source :__ [lien](../../src/punbb/overall_header.tpl)
-* __Avancement :__ 62/79
-* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=116) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=116) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?l=main&mode=edit_main&part=themes&sub=templates&t=116) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?l=main&mode=edit_main&part=themes&sub=templates&t=116) > [`overall_header`](http://votre-forum.appspot.com/admin/?l=main&mode=edit_main&part=themes&sub=templates&t=116)
+* __Avancement :__ 63/79
+* __Chemin :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=116) > [`overall_header`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=116)
 
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/punbb/overall_header)
 
@@ -86,7 +86,7 @@
 * __[`<!-- END switch_h1 -->`](https://github.com/Etana/template/blob/master/var/switch_h1.md#readme) :__ ligne [`239`](../../src/punbb/overall_header.tpl#L239)
 * __[`<!-- BEGIN switch_login_popup -->`](https://github.com/Etana/template/blob/master/var/switch_login_popup.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_login_popup">*</a> :__ lignes [`136`](../../src/punbb/overall_header.tpl#L136), [`140`](../../src/punbb/overall_header.tpl#L140), [`210`](../../src/punbb/overall_header.tpl#L210)
 * __[`<!-- END switch_login_popup -->`](https://github.com/Etana/template/blob/master/var/switch_login_popup.md#readme) :__ lignes [`138`](../../src/punbb/overall_header.tpl#L138), [`152`](../../src/punbb/overall_header.tpl#L152), [`226`](../../src/punbb/overall_header.tpl#L226)
-* __[`<!-- BEGIN switch_report_popup -->`](https://github.com/Etana/template/blob/master/var/switch_report_popup.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_report_popup">*</a> :__ ligne [`127`](../../src/punbb/overall_header.tpl#L127)
+* __[`<!-- BEGIN switch_report_popup -->`](https://github.com/Etana/template/blob/master/var/switch_report_popup.md#readme) :__ ligne [`127`](../../src/punbb/overall_header.tpl#L127)
     * __[`{switch_report_popup.S_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.S_HEIGHT.md#readme) :__ ligne [`128`](../../src/punbb/overall_header.tpl#L128)
     * __[`{switch_report_popup.S_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.S_WIDTH.md#readme) :__ ligne [`128`](../../src/punbb/overall_header.tpl#L128)
     * __[`{switch_report_popup.U_REPORT_POPUP}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.U_REPORT_POPUP.md#readme) :__ ligne [`128`](../../src/punbb/overall_header.tpl#L128)
