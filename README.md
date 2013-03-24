@@ -2,9 +2,9 @@
 
 ## Variables
 
-* [Toutes](https://github.com/Etana/template/blob/master/variables.md#readme)
-* [Avec description](https://github.com/Etana/template/blob/master/variables_avec_description.md#readme)
-
+* [Liste totale](https://github.com/Etana/template/blob/master/variables.md#readme)
+    * [Avec description](https://github.com/Etana/template/blob/master/variables_avec_description.md#readme)
+    * [Sans description](https://github.com/Etana/template/blob/master/variables_sans_description.md#readme)
 ## Templates
 
 ### Général
