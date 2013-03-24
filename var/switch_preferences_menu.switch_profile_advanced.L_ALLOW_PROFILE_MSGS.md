@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_profile_advanced -->...<!-- END switch_profile_advanced -->`](switch_preferences_menu.switch_profile_advanced.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_preferences_menu -->
@@ -11,12 +11,13 @@ Attribut d'affichage de [`<!-- BEGIN switch_profile_advanced -->...<!-- END swit
 <!-- END switch_preferences_menu -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ ligne [`196`](../tpl/src/punbb/profile_add_body.tpl#L196)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`196`](../tpl/src/punbb/profile_add_body.tpl#L196)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ ligne [`144`](../tpl/src/subsilver/profile_add_body.tpl#L144)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`144`](../tpl/src/subsilver/profile_add_body.tpl#L144)

@@ -1,7 +1,7 @@
 # no_personal_galleries.L_INFOS
-
-
-Attribut d'affichage de [`<!-- BEGIN no_personal_galleries -->...<!-- END no_personal_galleries -->`](no_personal_galleries.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN no_personal_galleries -->
@@ -9,12 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN no_personal_galleries -->...<!-- END no_per
 <!-- END no_personal_galleries -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/no_personal_galleries.L_INFOS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ ligne [`131`](../tpl/src/punbb/album_cat_body.tpl#L131)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`131`](../tpl/src/punbb/album_cat_body.tpl#L131)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ ligne [`269`](../tpl/src/subsilver/album_cat_body.tpl#L269)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`269`](../tpl/src/subsilver/album_cat_body.tpl#L269)

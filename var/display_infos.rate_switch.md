@@ -1,7 +1,7 @@
 # display_infos.rate_switch
-
-
-Attribut de bouclage de [`<!-- BEGIN display_infos -->...<!-- END display_infos -->`](display_infos.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN display_infos -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN display_infos -->...<!-- END display_infos 
 <!-- END display_infos -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch)
 
 ## Attributs
@@ -21,7 +22,7 @@ Attribut de bouclage de [`<!-- BEGIN display_infos -->...<!-- END display_infos 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`304`](../tpl/src/punbb/album_showpage_body.tpl#L304)[`<->`](../tpl/src/punbb/album_showpage_body.tpl#L304-L331)[`331`](../tpl/src/punbb/album_showpage_body.tpl#L331)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`304`](../tpl/src/punbb/album_showpage_body.tpl#L304)[`<->`](../tpl/src/punbb/album_showpage_body.tpl#L304-L331)[`331`](../tpl/src/punbb/album_showpage_body.tpl#L331)
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`320`](../tpl/src/subsilver/album_showpage_body.tpl#L320)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L320-L345)[`345`](../tpl/src/subsilver/album_showpage_body.tpl#L345)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`320`](../tpl/src/subsilver/album_showpage_body.tpl#L320)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L320-L345)[`345`](../tpl/src/subsilver/album_showpage_body.tpl#L345)

@@ -1,7 +1,7 @@
 # memberrow
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`memberlist_body`](../tpl/var/memberlist_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN memberrow -->
@@ -9,7 +9,7 @@ contenu
 <!-- END memberrow -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/memberrow)
+## Description[*](https://fa-tvars.appspot.com/var/memberrow)
 Boucle affichant les informations d'un membre et se répétant pour chaque membre de votre forum.
 
 ## Attributs
@@ -31,7 +31,7 @@ Boucle affichant les informations d'un membre et se répétant pour chaque membr
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`memberlist_body`](../tpl/var/punbb/memberlist_body.md#readme) :__ lignes [`77`](../tpl/src/punbb/memberlist_body.tpl#L77)[`<->`](../tpl/src/punbb/memberlist_body.tpl#L77-L90)[`90`](../tpl/src/punbb/memberlist_body.tpl#L90)
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ lignes [`77`](../tpl/src/punbb/memberlist_body.tpl#L77)[`<->`](../tpl/src/punbb/memberlist_body.tpl#L77-L90)[`90`](../tpl/src/punbb/memberlist_body.tpl#L90)
 
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/var/subsilver/memberlist_body.md#readme) :__ lignes [`36`](../tpl/src/subsilver/memberlist_body.tpl#L36)[`<->`](../tpl/src/subsilver/memberlist_body.tpl#L36-L51)[`51`](../tpl/src/subsilver/memberlist_body.tpl#L51)
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ lignes [`36`](../tpl/src/subsilver/memberlist_body.tpl#L36)[`<->`](../tpl/src/subsilver/memberlist_body.tpl#L36-L51)[`51`](../tpl/src/subsilver/memberlist_body.tpl#L51)

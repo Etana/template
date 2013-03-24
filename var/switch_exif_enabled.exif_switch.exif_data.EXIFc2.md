@@ -1,7 +1,7 @@
 # switch_exif_enabled.exif_switch.exif_data.EXIFc2
-
-
-Attribut d'affichage de [`<!-- BEGIN exif_data -->...<!-- END exif_data -->`](switch_exif_enabled.exif_switch.exif_data.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_exif_enabled -->
@@ -13,9 +13,10 @@ Attribut d'affichage de [`<!-- BEGIN exif_data -->...<!-- END exif_data -->`](sw
 <!-- END switch_exif_enabled -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch.exif_data.EXIFc2)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ ligne [`360`](../tpl/src/subsilver/album_showpage_body.tpl#L360)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ ligne [`360`](../tpl/src/subsilver/album_showpage_body.tpl#L360)

@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled._event.switch_event._more_no
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_event -->...<!-- END switch_event -->`](_calendar_box._row._cell.switch_filled._event.switch_event.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN _calendar_box -->
@@ -21,9 +21,10 @@ Attribut de bouclage de [`<!-- BEGIN switch_event -->...<!-- END switch_event --
 <!-- END _calendar_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event._more_no)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`58`](../tpl/src/subsilver/calendar_box.tpl#L58)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L58-L60)[`60`](../tpl/src/subsilver/calendar_box.tpl#L60)
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`58`](../tpl/src/subsilver/calendar_box.tpl#L58)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L58-L60)[`60`](../tpl/src/subsilver/calendar_box.tpl#L60)

@@ -1,7 +1,7 @@
 # post_row.saut
-
-
-Attribut de bouclage de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post_row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN post_row -->
@@ -11,12 +11,13 @@ Attribut de bouclage de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post
 <!-- END post_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.saut)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`2`](../tpl/src/punbb/mod_news.tpl#L2)[`<->`](../tpl/src/punbb/mod_news.tpl#L2-L4)[`4`](../tpl/src/punbb/mod_news.tpl#L4)
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`2`](../tpl/src/punbb/mod_news.tpl#L2)[`<->`](../tpl/src/punbb/mod_news.tpl#L2-L4)[`4`](../tpl/src/punbb/mod_news.tpl#L4)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1)[`<->`](../tpl/src/subsilver/mod_news.tpl#L1-L6)[`6`](../tpl/src/subsilver/mod_news.tpl#L6)
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1)[`<->`](../tpl/src/subsilver/mod_news.tpl#L1-L6)[`6`](../tpl/src/subsilver/mod_news.tpl#L6)

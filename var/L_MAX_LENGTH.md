@@ -1,18 +1,19 @@
 # L_MAX_LENGTH
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md)
+* __Utilisation :__
 
 ```html
 {L_MAX_LENGTH}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MAX_LENGTH)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_edit_body`](../tpl/var/punbb/album_edit_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/album_edit_body.tpl#L59)
+* __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/album_edit_body.tpl#L59)
 
 ### Version phpBB2
-* __[`album_edit_body`](../tpl/var/subsilver/album_edit_body.md#readme) :__ ligne [`48`](../tpl/src/subsilver/album_edit_body.tpl#L48)
+* __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`48`](../tpl/src/subsilver/album_edit_body.tpl#L48)

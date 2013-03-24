@@ -1,7 +1,7 @@
 # birthday_list_box.row.header_table
-
-
-Attribut de bouclage de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_box.row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN birthday_list_box -->
@@ -13,6 +13,7 @@ Attribut de bouclage de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_
 <!-- END birthday_list_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table)
 
 ## Attributs
@@ -23,7 +24,7 @@ Attribut de bouclage de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`birthday_list_box`](../tpl/var/punbb/birthday_list_box.md#readme) :__ lignes [`3`](../tpl/src/punbb/birthday_list_box.tpl#L3)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L3-L16)[`16`](../tpl/src/punbb/birthday_list_box.tpl#L16)
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`3`](../tpl/src/punbb/birthday_list_box.tpl#L3)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L3-L16)[`16`](../tpl/src/punbb/birthday_list_box.tpl#L16)
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/var/subsilver/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/birthday_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/birthday_list_box.tpl#L1-L30)[`30`](../tpl/src/subsilver/birthday_list_box.tpl#L30)
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/birthday_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/birthday_list_box.tpl#L1-L30)[`30`](../tpl/src/subsilver/birthday_list_box.tpl#L30)

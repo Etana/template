@@ -1,7 +1,7 @@
 # _calendar_box
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`calendar_box`](../tpl/var/calendar_box.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN _calendar_box -->
@@ -9,6 +9,7 @@ contenu
 <!-- END _calendar_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box)
 
 ## Attributs
@@ -29,7 +30,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_box`](../tpl/var/punbb/calendar_box.md#readme) :__ lignes [`1`](../tpl/src/punbb/calendar_box.tpl#L1)[`<->`](../tpl/src/punbb/calendar_box.tpl#L1-L72)[`72`](../tpl/src/punbb/calendar_box.tpl#L72)
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`1`](../tpl/src/punbb/calendar_box.tpl#L1)[`<->`](../tpl/src/punbb/calendar_box.tpl#L1-L72)[`72`](../tpl/src/punbb/calendar_box.tpl#L72)
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/calendar_box.tpl#L1)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L1-L100)[`100`](../tpl/src/subsilver/calendar_box.tpl#L100)
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/calendar_box.tpl#L1)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L1-L100)[`100`](../tpl/src/subsilver/calendar_box.tpl#L100)

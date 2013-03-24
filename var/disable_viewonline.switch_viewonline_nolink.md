@@ -1,7 +1,7 @@
 # disable_viewonline.switch_viewonline_nolink
-
-
-Attribut de bouclage de [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline -->`](disable_viewonline.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN disable_viewonline -->
@@ -11,12 +11,13 @@ Attribut de bouclage de [`<!-- BEGIN disable_viewonline -->...<!-- END disable_v
 <!-- END disable_viewonline -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_nolink)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`69`](../tpl/src/punbb/index_body.tpl#L69)[`<->`](../tpl/src/punbb/index_body.tpl#L69-L71)[`71`](../tpl/src/punbb/index_body.tpl#L71)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`69`](../tpl/src/punbb/index_body.tpl#L69)[`<->`](../tpl/src/punbb/index_body.tpl#L69-L71)[`71`](../tpl/src/punbb/index_body.tpl#L71)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`182`](../tpl/src/subsilver/index_body.tpl#L182)[`<->`](../tpl/src/subsilver/index_body.tpl#L182-L184)[`184`](../tpl/src/subsilver/index_body.tpl#L184)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`182`](../tpl/src/subsilver/index_body.tpl#L182)[`<->`](../tpl/src/subsilver/index_body.tpl#L182-L184)[`184`](../tpl/src/subsilver/index_body.tpl#L184)

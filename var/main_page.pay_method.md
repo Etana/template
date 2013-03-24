@@ -1,7 +1,7 @@
 # main_page.pay_method
-
-
-Attribut de bouclage de [`<!-- BEGIN main_page -->...<!-- END main_page -->`](main_page.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN main_page -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN main_page -->...<!-- END main_page -->`](ma
 <!-- END main_page -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method)
 
 ## Attributs
@@ -23,7 +24,7 @@ Attribut de bouclage de [`<!-- BEGIN main_page -->...<!-- END main_page -->`](ma
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`42`](../tpl/src/punbb/donate.tpl#L42)[`<->`](../tpl/src/punbb/donate.tpl#L42-L54)[`54`](../tpl/src/punbb/donate.tpl#L54)
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`42`](../tpl/src/punbb/donate.tpl#L42)[`<->`](../tpl/src/punbb/donate.tpl#L42-L54)[`54`](../tpl/src/punbb/donate.tpl#L54)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`46`](../tpl/src/subsilver/donate.tpl#L46)[`<->`](../tpl/src/subsilver/donate.tpl#L46-L59)[`59`](../tpl/src/subsilver/donate.tpl#L59)
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`46`](../tpl/src/subsilver/donate.tpl#L46)[`<->`](../tpl/src/subsilver/donate.tpl#L46-L59)[`59`](../tpl/src/subsilver/donate.tpl#L59)

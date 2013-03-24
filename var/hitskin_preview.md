@@ -1,7 +1,7 @@
 # hitskin_preview
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN hitskin_preview -->
@@ -9,7 +9,7 @@ contenu
 <!-- END hitskin_preview -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/hitskin_preview)
+## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview)
 Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre forum.
 
 ## Attributs
@@ -22,7 +22,7 @@ Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre f
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ lignes [`197`](../tpl/src/punbb/overall_header.tpl#L197)[`<->`](../tpl/src/punbb/overall_header.tpl#L197-L208)[`208`](../tpl/src/punbb/overall_header.tpl#L208)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`197`](../tpl/src/punbb/overall_header.tpl#L197)[`<->`](../tpl/src/punbb/overall_header.tpl#L197-L208)[`208`](../tpl/src/punbb/overall_header.tpl#L208)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [`202`](../tpl/src/subsilver/overall_header.tpl#L202)[`<->`](../tpl/src/subsilver/overall_header.tpl#L202-L213)[`213`](../tpl/src/subsilver/overall_header.tpl#L213)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`202`](../tpl/src/subsilver/overall_header.tpl#L202)[`<->`](../tpl/src/subsilver/overall_header.tpl#L202-L213)[`213`](../tpl/src/subsilver/overall_header.tpl#L213)

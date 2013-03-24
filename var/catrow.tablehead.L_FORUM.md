@@ -1,7 +1,7 @@
 # catrow.tablehead.L_FORUM
-
-
-Attribut d'affichage de [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](catrow.tablehead.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN catrow -->
@@ -11,12 +11,13 @@ Attribut d'affichage de [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](ca
 <!-- END catrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ ligne [`8`](../tpl/src/punbb/index_box.tpl#L8)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`8`](../tpl/src/punbb/index_box.tpl#L8)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ ligne [`22`](../tpl/src/subsilver/index_box.tpl#L22)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`22`](../tpl/src/subsilver/index_box.tpl#L22)

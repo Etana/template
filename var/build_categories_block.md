@@ -1,7 +1,7 @@
 # build_categories_block
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`album_index_body`](../tpl/var/album_index_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN build_categories_block -->
@@ -9,6 +9,7 @@ contenu
 <!-- END build_categories_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block)
 
 ## Attributs
@@ -21,7 +22,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`16`](../tpl/src/punbb/album_index_body.tpl#L16)[`<->`](../tpl/src/punbb/album_index_body.tpl#L16-L48)[`48`](../tpl/src/punbb/album_index_body.tpl#L48)
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`16`](../tpl/src/punbb/album_index_body.tpl#L16)[`<->`](../tpl/src/punbb/album_index_body.tpl#L16-L48)[`48`](../tpl/src/punbb/album_index_body.tpl#L48)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`8`](../tpl/src/subsilver/album_index_body.tpl#L8)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L8-L77)[`77`](../tpl/src/subsilver/album_index_body.tpl#L77)
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`8`](../tpl/src/subsilver/album_index_body.tpl#L8)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L8-L77)[`77`](../tpl/src/subsilver/album_index_body.tpl#L77)

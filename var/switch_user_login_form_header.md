@@ -1,7 +1,7 @@
 # switch_user_login_form_header
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_user_login_form_header -->
@@ -9,6 +9,7 @@ contenu
 <!-- END switch_user_login_form_header -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_header)
 
 ## Attributs
@@ -19,7 +20,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`35`](../tpl/src/punbb/index_body.tpl#L35)[`<->`](../tpl/src/punbb/index_body.tpl#L35-L50)[`50`](../tpl/src/punbb/index_body.tpl#L50)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`35`](../tpl/src/punbb/index_body.tpl#L35)[`<->`](../tpl/src/punbb/index_body.tpl#L35-L50)[`50`](../tpl/src/punbb/index_body.tpl#L50)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`19`](../tpl/src/subsilver/index_body.tpl#L19)[`<->`](../tpl/src/subsilver/index_body.tpl#L19-L81)[`81`](../tpl/src/subsilver/index_body.tpl#L81)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`19`](../tpl/src/subsilver/index_body.tpl#L19)[`<->`](../tpl/src/subsilver/index_body.tpl#L19-L81)[`81`](../tpl/src/subsilver/index_body.tpl#L81)

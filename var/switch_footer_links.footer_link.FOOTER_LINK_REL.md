@@ -1,7 +1,7 @@
 # switch_footer_links.footer_link.FOOTER_LINK_REL
-
-
-Attribut d'affichage de [`<!-- BEGIN footer_link -->...<!-- END footer_link -->`](switch_footer_links.footer_link.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_footer_links -->
@@ -11,7 +11,7 @@ Attribut d'affichage de [`<!-- BEGIN footer_link -->...<!-- END footer_link -->`
 <!-- END switch_footer_links -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_REL)
+## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_REL)
 Contient la relation partant du document courant vers l'ancre définie dans `PA > Modules > Liens de bas de page | Configuration > Nofollow`.
 
 * __Valeurs possibles :__ `follow`ou `nofollow`
@@ -19,7 +19,7 @@ Contient la relation partant du document courant vers l'ancre définie dans `PA 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`overall_footer_end`](../tpl/var/punbb/overall_footer_end.md#readme) :__ ligne [`21`](../tpl/src/punbb/overall_footer_end.tpl#L21)
+* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`21`](../tpl/src/punbb/overall_footer_end.tpl#L21)
 
 ### Version phpBB2
-* __[`overall_footer_end`](../tpl/var/subsilver/overall_footer_end.md#readme) :__ ligne [`19`](../tpl/src/subsilver/overall_footer_end.tpl#L19)
+* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`19`](../tpl/src/subsilver/overall_footer_end.tpl#L19)

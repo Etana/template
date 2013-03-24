@@ -1,15 +1,16 @@
 # DOWN_ARROW
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`calendar_box`](../tpl/var/calendar_box.md)
+* __Utilisation :__
 
 ```html
 {DOWN_ARROW}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/DOWN_ARROW)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`56`](../tpl/src/subsilver/calendar_box.tpl#L56), [`67`](../tpl/src/subsilver/calendar_box.tpl#L67)
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`56`](../tpl/src/subsilver/calendar_box.tpl#L56), [`67`](../tpl/src/subsilver/calendar_box.tpl#L67)

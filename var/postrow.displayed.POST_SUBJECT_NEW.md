@@ -1,7 +1,7 @@
 # postrow.displayed.POST_SUBJECT_NEW
-
-
-Attribut d'affichage de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](postrow.displayed.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN postrow -->
@@ -11,9 +11,10 @@ Attribut d'affichage de [`<!-- BEGIN displayed -->...<!-- END displayed -->`](po
 <!-- END postrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT_NEW)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_topic_review`](../tpl/var/punbb/posting_topic_review.md#readme) :__ ligne [`14`](../tpl/src/punbb/posting_topic_review.tpl#L14)
+* __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`14`](../tpl/src/punbb/posting_topic_review.tpl#L14)

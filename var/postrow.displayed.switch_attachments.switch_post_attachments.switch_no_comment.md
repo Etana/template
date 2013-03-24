@@ -1,7 +1,7 @@
 # postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](postrow.displayed.switch_attachments.switch_post_attachments.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN postrow -->
@@ -17,6 +17,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_post_attachments -->...<!-- END swit
 <!-- END postrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment)
 
 ## Attributs
@@ -26,7 +27,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_post_attachments -->...<!-- END swit
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`206`](../tpl/src/punbb/viewtopic_body.tpl#L206)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L206-L210)[`210`](../tpl/src/punbb/viewtopic_body.tpl#L210)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`206`](../tpl/src/punbb/viewtopic_body.tpl#L206)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L206-L210)[`210`](../tpl/src/punbb/viewtopic_body.tpl#L210)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`200`](../tpl/src/subsilver/viewtopic_body.tpl#L200)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L200-L204)[`204`](../tpl/src/subsilver/viewtopic_body.tpl#L204)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`200`](../tpl/src/subsilver/viewtopic_body.tpl#L200)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L200-L204)[`204`](../tpl/src/subsilver/viewtopic_body.tpl#L204)

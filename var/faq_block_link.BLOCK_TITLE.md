@@ -1,7 +1,7 @@
 # faq_block_link.BLOCK_TITLE
-
-
-Attribut d'affichage de [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_link -->`](faq_block_link.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN faq_block_link -->
@@ -9,12 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_lin
 <!-- END faq_block_link -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.BLOCK_TITLE)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`faq_body`](../tpl/var/punbb/faq_body.md#readme) :__ ligne [`23`](../tpl/src/punbb/faq_body.tpl#L23)
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ ligne [`23`](../tpl/src/punbb/faq_body.tpl#L23)
 
 ### Version phpBB2
-* __[`faq_body`](../tpl/var/subsilver/faq_body.md#readme) :__ ligne [`10`](../tpl/src/subsilver/faq_body.tpl#L10)
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ ligne [`10`](../tpl/src/subsilver/faq_body.tpl#L10)

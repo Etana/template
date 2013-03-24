@@ -1,7 +1,7 @@
 # catrow.forumrow.switch_moderators_links.L_MODERATOR
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_moderators_links -->...<!-- END switch_moderators_links -->`](catrow.forumrow.switch_moderators_links.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN catrow -->
@@ -13,12 +13,13 @@ Attribut d'affichage de [`<!-- BEGIN switch_moderators_links -->...<!-- END swit
 <!-- END catrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.L_MODERATOR)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ ligne [`34`](../tpl/src/punbb/index_box.tpl#L34)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`34`](../tpl/src/punbb/index_box.tpl#L34)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ ligne [`60`](../tpl/src/subsilver/index_box.tpl#L60)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`60`](../tpl/src/subsilver/index_box.tpl#L60)

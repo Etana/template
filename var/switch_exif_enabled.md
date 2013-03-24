@@ -1,7 +1,7 @@
 # switch_exif_enabled
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`album_showpage_body`](../tpl/var/album_showpage_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_exif_enabled -->
@@ -9,6 +9,7 @@ contenu
 <!-- END switch_exif_enabled -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled)
 
 ## Attributs
@@ -18,4 +19,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`352`](../tpl/src/subsilver/album_showpage_body.tpl#L352)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L352-L367)[`367`](../tpl/src/subsilver/album_showpage_body.tpl#L367)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`352`](../tpl/src/subsilver/album_showpage_body.tpl#L352)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L352-L367)[`367`](../tpl/src/subsilver/album_showpage_body.tpl#L367)

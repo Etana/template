@@ -1,7 +1,7 @@
 # switch_mod_option.switch_grp_admin
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_mod_option -->...<!-- END switch_mod_option -->`](switch_mod_option.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_mod_option -->
@@ -11,12 +11,13 @@ Attribut de bouclage de [`<!-- BEGIN switch_mod_option -->...<!-- END switch_mod
 <!-- END switch_mod_option -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_mod_option.switch_grp_admin)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/var/punbb/groupcp_info_body.md#readme) :__ lignes [`130`](../tpl/src/punbb/groupcp_info_body.tpl#L130)[`<->`](../tpl/src/punbb/groupcp_info_body.tpl#L130-L132)[`132`](../tpl/src/punbb/groupcp_info_body.tpl#L132)
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`130`](../tpl/src/punbb/groupcp_info_body.tpl#L130)[`<->`](../tpl/src/punbb/groupcp_info_body.tpl#L130-L132)[`132`](../tpl/src/punbb/groupcp_info_body.tpl#L132)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/subsilver/groupcp_info_body.md#readme) :__ lignes [`86`](../tpl/src/subsilver/groupcp_info_body.tpl#L86)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L86-L92)[`92`](../tpl/src/subsilver/groupcp_info_body.tpl#L92)
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`86`](../tpl/src/subsilver/groupcp_info_body.tpl#L86)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L86-L92)[`92`](../tpl/src/subsilver/groupcp_info_body.tpl#L92)

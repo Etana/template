@@ -1,7 +1,7 @@
 # searchresults.watchsearch
-
-
-Attribut de bouclage de [`<!-- BEGIN searchresults -->...<!-- END searchresults -->`](searchresults.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN searchresults -->
@@ -11,9 +11,10 @@ Attribut de bouclage de [`<!-- BEGIN searchresults -->...<!-- END searchresults 
 <!-- END searchresults -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes [`41`](../tpl/src/subsilver/search_results_topics.tpl#L41)[`<->`](../tpl/src/subsilver/search_results_topics.tpl#L41-L43)[`43`](../tpl/src/subsilver/search_results_topics.tpl#L43)
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ lignes [`41`](../tpl/src/subsilver/search_results_topics.tpl#L41)[`<->`](../tpl/src/subsilver/search_results_topics.tpl#L41-L43)[`43`](../tpl/src/subsilver/search_results_topics.tpl#L43)

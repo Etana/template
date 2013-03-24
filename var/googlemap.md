@@ -1,7 +1,7 @@
 # googlemap
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`viewonline_body`](../tpl/var/viewonline_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN googlemap -->
@@ -9,6 +9,7 @@ contenu
 <!-- END googlemap -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap)
 
 ## Attributs
@@ -18,7 +19,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewonline_body`](../tpl/var/punbb/viewonline_body.md#readme) :__ lignes [`1`](../tpl/src/punbb/viewonline_body.tpl#L1)[`<->`](../tpl/src/punbb/viewonline_body.tpl#L1-L9)[`9`](../tpl/src/punbb/viewonline_body.tpl#L9)
+* __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ lignes [`1`](../tpl/src/punbb/viewonline_body.tpl#L1)[`<->`](../tpl/src/punbb/viewonline_body.tpl#L1-L9)[`9`](../tpl/src/punbb/viewonline_body.tpl#L9)
 
 ### Version phpBB2
-* __[`viewonline_body`](../tpl/var/subsilver/viewonline_body.md#readme) :__ lignes [`2`](../tpl/src/subsilver/viewonline_body.tpl#L2)[`<->`](../tpl/src/subsilver/viewonline_body.tpl#L2-L9)[`9`](../tpl/src/subsilver/viewonline_body.tpl#L9)
+* __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ lignes [`2`](../tpl/src/subsilver/viewonline_body.tpl#L2)[`<->`](../tpl/src/subsilver/viewonline_body.tpl#L2-L9)[`9`](../tpl/src/subsilver/viewonline_body.tpl#L9)

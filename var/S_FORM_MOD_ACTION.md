@@ -1,15 +1,16 @@
 # S_FORM_MOD_ACTION
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Utilisation :__
 
 ```html
 {S_FORM_MOD_ACTION}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_FORM_MOD_ACTION)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [`453`](../tpl/src/subsilver/viewtopic_body.tpl#L453)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`453`](../tpl/src/subsilver/viewtopic_body.tpl#L453)

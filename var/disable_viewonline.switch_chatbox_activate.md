@@ -1,7 +1,7 @@
 # disable_viewonline.switch_chatbox_activate
-
-
-Attribut de bouclage de [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline -->`](disable_viewonline.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN disable_viewonline -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN disable_viewonline -->...<!-- END disable_v
 <!-- END disable_viewonline -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate)
 
 ## Attributs
@@ -20,7 +21,7 @@ Attribut de bouclage de [`<!-- BEGIN disable_viewonline -->...<!-- END disable_v
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`87`](../tpl/src/punbb/index_body.tpl#L87)[`<->`](../tpl/src/punbb/index_body.tpl#L87-L100)[`100`](../tpl/src/punbb/index_body.tpl#L100)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`87`](../tpl/src/punbb/index_body.tpl#L87)[`<->`](../tpl/src/punbb/index_body.tpl#L87-L100)[`100`](../tpl/src/punbb/index_body.tpl#L100)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`205`](../tpl/src/subsilver/index_body.tpl#L205)[`<->`](../tpl/src/subsilver/index_body.tpl#L205-L220)[`220`](../tpl/src/subsilver/index_body.tpl#L220)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`205`](../tpl/src/subsilver/index_body.tpl#L205)[`<->`](../tpl/src/subsilver/index_body.tpl#L205-L220)[`220`](../tpl/src/subsilver/index_body.tpl#L220)

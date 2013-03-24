@@ -1,7 +1,7 @@
 # switch_search_results.search_results
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_search_results -->...<!-- END switch_search_results -->`](switch_search_results.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_search_results -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_search_results -->...<!-- END switch
 <!-- END switch_search_results -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results)
 
 ## Attributs
@@ -30,7 +31,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_search_results -->...<!-- END switch
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_search_body`](../tpl/var/punbb/album_search_body.md#readme) :__ lignes [`38`](../tpl/src/punbb/album_search_body.tpl#L38)[`<->`](../tpl/src/punbb/album_search_body.tpl#L38-L49)[`49`](../tpl/src/punbb/album_search_body.tpl#L49)
+* __[`album_search_body`](../tpl/var/album_search_body.md#readme) :__ lignes [`38`](../tpl/src/punbb/album_search_body.tpl#L38)[`<->`](../tpl/src/punbb/album_search_body.tpl#L38-L49)[`49`](../tpl/src/punbb/album_search_body.tpl#L49)
 
 ### Version phpBB2
-* __[`album_search_body`](../tpl/var/subsilver/album_search_body.md#readme) :__ lignes [`29`](../tpl/src/subsilver/album_search_body.tpl#L29)[`<->`](../tpl/src/subsilver/album_search_body.tpl#L29-L42)[`42`](../tpl/src/subsilver/album_search_body.tpl#L42)
+* __[`album_search_body`](../tpl/var/album_search_body.md#readme) :__ lignes [`29`](../tpl/src/subsilver/album_search_body.tpl#L29)[`<->`](../tpl/src/subsilver/album_search_body.tpl#L29-L42)[`42`](../tpl/src/subsilver/album_search_body.tpl#L42)

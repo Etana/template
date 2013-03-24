@@ -1,7 +1,7 @@
 # switch_avatar_block.switch_avatar_remote_link
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_avatar_block -->...<!-- END switch_avatar_block -->`](switch_avatar_block.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_avatar_block -->
@@ -11,12 +11,13 @@ Attribut de bouclage de [`<!-- BEGIN switch_avatar_block -->...<!-- END switch_a
 <!-- END switch_avatar_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_link)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`379`](../tpl/src/punbb/profile_add_body.tpl#L379)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L379-L386)[`386`](../tpl/src/punbb/profile_add_body.tpl#L386)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`379`](../tpl/src/punbb/profile_add_body.tpl#L379)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L379-L386)[`386`](../tpl/src/punbb/profile_add_body.tpl#L386)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`341`](../tpl/src/subsilver/profile_add_body.tpl#L341)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L341-L346)[`346`](../tpl/src/subsilver/profile_add_body.tpl#L346)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`341`](../tpl/src/subsilver/profile_add_body.tpl#L341)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L341-L346)[`346`](../tpl/src/subsilver/profile_add_body.tpl#L346)

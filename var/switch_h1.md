@@ -1,7 +1,7 @@
 # switch_h1
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_h1 -->
@@ -9,6 +9,7 @@ contenu
 <!-- END switch_h1 -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_h1)
 
 ## Attributs
@@ -18,4 +19,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ lignes [`237`](../tpl/src/punbb/overall_header.tpl#L237)[`<->`](../tpl/src/punbb/overall_header.tpl#L237-L239)[`239`](../tpl/src/punbb/overall_header.tpl#L239)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`237`](../tpl/src/punbb/overall_header.tpl#L237)[`<->`](../tpl/src/punbb/overall_header.tpl#L237-L239)[`239`](../tpl/src/punbb/overall_header.tpl#L239)

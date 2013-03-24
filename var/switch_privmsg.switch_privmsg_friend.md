@@ -1,7 +1,7 @@
 # switch_privmsg.switch_privmsg_friend
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_privmsg -->...<!-- END switch_privmsg -->`](switch_privmsg.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_privmsg -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_privmsg -->...<!-- END switch_privms
 <!-- END switch_privmsg -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend)
 
 ## Attributs
@@ -21,9 +22,9 @@ Attribut de bouclage de [`<!-- BEGIN switch_privmsg -->...<!-- END switch_privms
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`95`](../tpl/src/punbb/posting_body.tpl#L95)[`<->`](../tpl/src/punbb/posting_body.tpl#L95-L100)[`100`](../tpl/src/punbb/posting_body.tpl#L100)
-* __[`posting_body_wysiwyg`](../tpl/var/punbb/posting_body_wysiwyg.md#readme) :__ lignes [`251`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L251)[`<->`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L251-L256)[`256`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L256)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`95`](../tpl/src/punbb/posting_body.tpl#L95)[`<->`](../tpl/src/punbb/posting_body.tpl#L95-L100)[`100`](../tpl/src/punbb/posting_body.tpl#L100)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`251`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L251)[`<->`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L251-L256)[`256`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L256)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`112`](../tpl/src/subsilver/posting_body.tpl#L112)[`<->`](../tpl/src/subsilver/posting_body.tpl#L112-L117)[`117`](../tpl/src/subsilver/posting_body.tpl#L117)
-* __[`posting_body_wysiwyg`](../tpl/var/subsilver/posting_body_wysiwyg.md#readme) :__ lignes [`285`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L285)[`<->`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L285-L290)[`290`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L290)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`112`](../tpl/src/subsilver/posting_body.tpl#L112)[`<->`](../tpl/src/subsilver/posting_body.tpl#L112-L117)[`117`](../tpl/src/subsilver/posting_body.tpl#L117)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`285`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L285)[`<->`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L285-L290)[`290`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L290)

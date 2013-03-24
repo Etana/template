@@ -1,7 +1,7 @@
 # list_pics_block.sort_pics.time_del
-
-
-Attribut de bouclage de [`<!-- BEGIN sort_pics -->...<!-- END sort_pics -->`](list_pics_block.sort_pics.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN list_pics_block -->
@@ -13,12 +13,13 @@ Attribut de bouclage de [`<!-- BEGIN sort_pics -->...<!-- END sort_pics -->`](li
 <!-- END list_pics_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics.time_del)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`96`](../tpl/src/punbb/album_cat_body.tpl#L96)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L96-L98)[`98`](../tpl/src/punbb/album_cat_body.tpl#L98)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`96`](../tpl/src/punbb/album_cat_body.tpl#L96)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L96-L98)[`98`](../tpl/src/punbb/album_cat_body.tpl#L98)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`169`](../tpl/src/subsilver/album_cat_body.tpl#L169)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L169-L171)[`171`](../tpl/src/subsilver/album_cat_body.tpl#L171)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`169`](../tpl/src/subsilver/album_cat_body.tpl#L169)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L169-L171)[`171`](../tpl/src/subsilver/album_cat_body.tpl#L171)

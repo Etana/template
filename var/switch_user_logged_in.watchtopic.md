@@ -1,7 +1,7 @@
 # switch_user_logged_in.watchtopic
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](switch_user_logged_in.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_user_logged_in -->
@@ -11,12 +11,13 @@ Attribut de bouclage de [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch
 <!-- END switch_user_logged_in -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`63`](../tpl/src/punbb/viewtopic_body.tpl#L63)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L63-L65)[`65`](../tpl/src/punbb/viewtopic_body.tpl#L65)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`63`](../tpl/src/punbb/viewtopic_body.tpl#L63)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L63-L65)[`65`](../tpl/src/punbb/viewtopic_body.tpl#L65)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`285`](../tpl/src/subsilver/viewtopic_body.tpl#L285)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L285-L289)[`289`](../tpl/src/subsilver/viewtopic_body.tpl#L289)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`285`](../tpl/src/subsilver/viewtopic_body.tpl#L285)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L285-L289)[`289`](../tpl/src/subsilver/viewtopic_body.tpl#L289)

@@ -1,7 +1,7 @@
 # switch_report_popup
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_report_popup -->
@@ -9,7 +9,7 @@ contenu
 <!-- END switch_report_popup -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/switch_report_popup)
+## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup)
 Boucle s'affichant lors de la création d'un nouveau rapport si l'utilisateur a coché "Oui" à l'option `Profil > Préférences > Ouvrir la popup des nouveaux rapports`.
 
 ## Attributs
@@ -21,7 +21,7 @@ Boucle s'affichant lors de la création d'un nouveau rapport si l'utilisateur a 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ lignes [`127`](../tpl/src/punbb/overall_header.tpl#L127)[`<->`](../tpl/src/punbb/overall_header.tpl#L127-L130)[`130`](../tpl/src/punbb/overall_header.tpl#L130)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`127`](../tpl/src/punbb/overall_header.tpl#L127)[`<->`](../tpl/src/punbb/overall_header.tpl#L127-L130)[`130`](../tpl/src/punbb/overall_header.tpl#L130)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [`133`](../tpl/src/subsilver/overall_header.tpl#L133)[`<->`](../tpl/src/subsilver/overall_header.tpl#L133-L136)[`136`](../tpl/src/subsilver/overall_header.tpl#L136)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`133`](../tpl/src/subsilver/overall_header.tpl#L133)[`<->`](../tpl/src/subsilver/overall_header.tpl#L133-L136)[`136`](../tpl/src/subsilver/overall_header.tpl#L136)

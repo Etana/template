@@ -1,7 +1,7 @@
 # display_infos.rate_switch.rate_row.rate_scale_row.POINT
-
-
-Attribut d'affichage de [`<!-- BEGIN rate_scale_row -->...<!-- END rate_scale_row -->`](display_infos.rate_switch.rate_row.rate_scale_row.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN display_infos -->
@@ -15,12 +15,13 @@ Attribut d'affichage de [`<!-- BEGIN rate_scale_row -->...<!-- END rate_scale_ro
 <!-- END display_infos -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row.POINT)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`317`](../tpl/src/punbb/album_showpage_body.tpl#L317), [`317`](../tpl/src/punbb/album_showpage_body.tpl#L317)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`317`](../tpl/src/punbb/album_showpage_body.tpl#L317), [`317`](../tpl/src/punbb/album_showpage_body.tpl#L317)
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`332`](../tpl/src/subsilver/album_showpage_body.tpl#L332), [`332`](../tpl/src/subsilver/album_showpage_body.tpl#L332)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`332`](../tpl/src/subsilver/album_showpage_body.tpl#L332), [`332`](../tpl/src/subsilver/album_showpage_body.tpl#L332)

@@ -1,7 +1,7 @@
 # catrow.forumrow
-
-
-Attribut de bouclage de [`<!-- BEGIN catrow -->...<!-- END catrow -->`](catrow.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN catrow -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN catrow -->...<!-- END catrow -->`](catrow.m
 <!-- END catrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow)
 
 ## Attributs
@@ -42,7 +43,7 @@ Attribut de bouclage de [`<!-- BEGIN catrow -->...<!-- END catrow -->`](catrow.m
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ lignes [`23`](../tpl/src/punbb/index_box.tpl#L23)[`<->`](../tpl/src/punbb/index_box.tpl#L23-L50)[`50`](../tpl/src/punbb/index_box.tpl#L50)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`23`](../tpl/src/punbb/index_box.tpl#L23)[`<->`](../tpl/src/punbb/index_box.tpl#L23-L50)[`50`](../tpl/src/punbb/index_box.tpl#L50)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`43`](../tpl/src/subsilver/index_box.tpl#L43)[`<->`](../tpl/src/subsilver/index_box.tpl#L43-L75)[`75`](../tpl/src/subsilver/index_box.tpl#L75)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`43`](../tpl/src/subsilver/index_box.tpl#L43)[`<->`](../tpl/src/subsilver/index_box.tpl#L43-L75)[`75`](../tpl/src/subsilver/index_box.tpl#L75)

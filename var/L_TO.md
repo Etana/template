@@ -1,16 +1,17 @@
 # L_TO
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`privmsgs_preview`](../tpl/var/privmsgs_preview.md), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md)
+* __Utilisation :__
 
 ```html
 {L_TO}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_TO)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`privmsgs_read_body`](../tpl/var/subsilver/privmsgs_read_body.md#readme) :__ ligne [`36`](../tpl/src/subsilver/privmsgs_read_body.tpl#L36)
-* __[`privmsgs_preview`](../tpl/var/subsilver/privmsgs_preview.md#readme) :__ ligne [`10`](../tpl/src/subsilver/privmsgs_preview.tpl#L10)
+* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`36`](../tpl/src/subsilver/privmsgs_read_body.tpl#L36)
+* __[`privmsgs_preview`](../tpl/var/privmsgs_preview.md#readme) :__ ligne [`10`](../tpl/src/subsilver/privmsgs_preview.tpl#L10)

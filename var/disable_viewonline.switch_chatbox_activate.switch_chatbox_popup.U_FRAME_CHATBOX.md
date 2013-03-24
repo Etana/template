@@ -1,7 +1,7 @@
 # disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_chatbox_popup -->...<!-- END switch_chatbox_popup -->`](disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN disable_viewonline -->
@@ -13,12 +13,13 @@ Attribut d'affichage de [`<!-- BEGIN switch_chatbox_popup -->...<!-- END switch_
 <!-- END disable_viewonline -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`95`](../tpl/src/punbb/index_body.tpl#L95)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`95`](../tpl/src/punbb/index_body.tpl#L95)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`213`](../tpl/src/subsilver/index_body.tpl#L213)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`213`](../tpl/src/subsilver/index_body.tpl#L213)

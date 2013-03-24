@@ -1,7 +1,7 @@
 # switch_specials_fonts
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`posting_body`](../tpl/var/posting_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_specials_fonts -->
@@ -9,6 +9,7 @@ contenu
 <!-- END switch_specials_fonts -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_specials_fonts)
 
 ## Attributs
@@ -19,7 +20,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`227`](../tpl/src/punbb/posting_body.tpl#L227)[`<->`](../tpl/src/punbb/posting_body.tpl#L227-L229)[`229`](../tpl/src/punbb/posting_body.tpl#L229), [`307`](../tpl/src/punbb/posting_body.tpl#L307)[`<->`](../tpl/src/punbb/posting_body.tpl#L307-L309)[`309`](../tpl/src/punbb/posting_body.tpl#L309)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`227`](../tpl/src/punbb/posting_body.tpl#L227)[`<->`](../tpl/src/punbb/posting_body.tpl#L227-L229)[`229`](../tpl/src/punbb/posting_body.tpl#L229), [`307`](../tpl/src/punbb/posting_body.tpl#L307)[`<->`](../tpl/src/punbb/posting_body.tpl#L307-L309)[`309`](../tpl/src/punbb/posting_body.tpl#L309)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`281`](../tpl/src/subsilver/posting_body.tpl#L281)[`<->`](../tpl/src/subsilver/posting_body.tpl#L281-L283)[`283`](../tpl/src/subsilver/posting_body.tpl#L283)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`281`](../tpl/src/subsilver/posting_body.tpl#L281)[`<->`](../tpl/src/subsilver/posting_body.tpl#L281-L283)[`283`](../tpl/src/subsilver/posting_body.tpl#L283)

@@ -1,18 +1,19 @@
 # FROM_TOPIC_TITLE
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`merge_body`](../tpl/var/merge_body.md)
+* __Utilisation :__
 
 ```html
 {FROM_TOPIC_TITLE}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/FROM_TOPIC_TITLE)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`merge_body`](../tpl/var/punbb/merge_body.md#readme) :__ ligne [`35`](../tpl/src/punbb/merge_body.tpl#L35)
+* __[`merge_body`](../tpl/var/merge_body.md#readme) :__ ligne [`35`](../tpl/src/punbb/merge_body.tpl#L35)
 
 ### Version phpBB2
-* __[`merge_body`](../tpl/var/subsilver/merge_body.md#readme) :__ ligne [`19`](../tpl/src/subsilver/merge_body.tpl#L19)
+* __[`merge_body`](../tpl/var/merge_body.md#readme) :__ ligne [`19`](../tpl/src/subsilver/merge_body.tpl#L19)

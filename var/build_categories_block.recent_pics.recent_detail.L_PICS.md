@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics.recent_detail.L_PICS
-
-
-Attribut d'affichage de [`<!-- BEGIN recent_detail -->...<!-- END recent_detail -->`](build_categories_block.recent_pics.recent_detail.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN build_categories_block -->
@@ -13,9 +13,10 @@ Attribut d'affichage de [`<!-- BEGIN recent_detail -->...<!-- END recent_detail 
 <!-- END build_categories_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail.L_PICS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ ligne [`38`](../tpl/src/punbb/album_index_body.tpl#L38)
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ ligne [`38`](../tpl/src/punbb/album_index_body.tpl#L38)

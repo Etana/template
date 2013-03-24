@@ -1,7 +1,7 @@
 # out_giefmod0
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`portal_body`](../tpl/var/portal_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN out_giefmod0 -->
@@ -9,6 +9,7 @@ contenu
 <!-- END out_giefmod0 -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/out_giefmod0)
 
 ## Attributs
@@ -19,4 +20,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`1`](../tpl/src/punbb/portal_body.tpl#L1)[`<->`](../tpl/src/punbb/portal_body.tpl#L1-L7)[`7`](../tpl/src/punbb/portal_body.tpl#L7)
+* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`1`](../tpl/src/punbb/portal_body.tpl#L1)[`<->`](../tpl/src/punbb/portal_body.tpl#L1-L7)[`7`](../tpl/src/punbb/portal_body.tpl#L7)

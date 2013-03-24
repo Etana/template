@@ -1,7 +1,7 @@
 # cat_private_footer
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`album_index_body`](../tpl/var/album_index_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN cat_private_footer -->
@@ -9,6 +9,7 @@ contenu
 <!-- END cat_private_footer -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/cat_private_footer)
 
 ## Attributs
@@ -20,7 +21,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`62`](../tpl/src/punbb/album_index_body.tpl#L62)[`<->`](../tpl/src/punbb/album_index_body.tpl#L62-L64)[`64`](../tpl/src/punbb/album_index_body.tpl#L64)
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`62`](../tpl/src/punbb/album_index_body.tpl#L62)[`<->`](../tpl/src/punbb/album_index_body.tpl#L62-L64)[`64`](../tpl/src/punbb/album_index_body.tpl#L64)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`97`](../tpl/src/subsilver/album_index_body.tpl#L97)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L97-L101)[`101`](../tpl/src/subsilver/album_index_body.tpl#L101)
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`97`](../tpl/src/subsilver/album_index_body.tpl#L97)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L97-L101)[`101`](../tpl/src/subsilver/album_index_body.tpl#L101)

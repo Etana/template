@@ -1,13 +1,13 @@
 # GROUP_DETAILS
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md)
+* __Utilisation :__
 
 ```html
 {GROUP_DETAILS}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/GROUP_DETAILS)
+## Description[*](https://fa-tvars.appspot.com/var/GROUP_DETAILS)
 Texte contenant une phrase avec votre statut par rapport au groupe.
 
 * __Si vous êtes modérateur du groupe :__ `Vous êtes le Modérateur du groupe`
@@ -22,7 +22,7 @@ Texte contenant une phrase avec votre statut par rapport au groupe.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/var/punbb/groupcp_info_body.md#readme) :__ ligne [`44`](../tpl/src/punbb/groupcp_info_body.tpl#L44)
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`44`](../tpl/src/punbb/groupcp_info_body.tpl#L44)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/subsilver/groupcp_info_body.md#readme) :__ ligne [`17`](../tpl/src/subsilver/groupcp_info_body.tpl#L17)
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`17`](../tpl/src/subsilver/groupcp_info_body.tpl#L17)

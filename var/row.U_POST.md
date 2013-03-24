@@ -1,7 +1,7 @@
 # row.U_POST
-
-
-Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN row -->
@@ -9,12 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme)
 <!-- END row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/row.U_POST)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`report_view_body`](../tpl/var/punbb/report_view_body.md#readme) :__ ligne [`48`](../tpl/src/punbb/report_view_body.tpl#L48)
+* __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ ligne [`48`](../tpl/src/punbb/report_view_body.tpl#L48)
 
 ### Version phpBB2
-* __[`report_view_body`](../tpl/var/subsilver/report_view_body.md#readme) :__ ligne [`24`](../tpl/src/subsilver/report_view_body.tpl#L24)
+* __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ ligne [`24`](../tpl/src/subsilver/report_view_body.tpl#L24)

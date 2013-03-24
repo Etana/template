@@ -1,13 +1,13 @@
 # JS_SHOW_HIDDEN_MESSAGE
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Utilisation :__
 
 ```html
 {JS_SHOW_HIDDEN_MESSAGE}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)
+## Description[*](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)
 Chaîne de texte.
 
 * __Contenu en français :__ `Voir le message`
@@ -15,7 +15,7 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ ligne [`12`](../tpl/src/punbb/viewtopic_body.tpl#L12)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`12`](../tpl/src/punbb/viewtopic_body.tpl#L12)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ ligne [`13`](../tpl/src/subsilver/viewtopic_body.tpl#L13)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`13`](../tpl/src/subsilver/viewtopic_body.tpl#L13)

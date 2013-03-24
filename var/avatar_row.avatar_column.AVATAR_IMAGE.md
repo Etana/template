@@ -1,7 +1,7 @@
 # avatar_row.avatar_column.AVATAR_IMAGE
-
-
-Attribut d'affichage de [`<!-- BEGIN avatar_column -->...<!-- END avatar_column -->`](avatar_row.avatar_column.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN avatar_row -->
@@ -11,12 +11,13 @@ Attribut d'affichage de [`<!-- BEGIN avatar_column -->...<!-- END avatar_column 
 <!-- END avatar_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.AVATAR_IMAGE)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ ligne [`30`](../tpl/src/punbb/profile_avatar_gallery.tpl#L30)
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`30`](../tpl/src/punbb/profile_avatar_gallery.tpl#L30)
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ ligne [`17`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L17)
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`17`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L17)

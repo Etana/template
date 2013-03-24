@@ -1,7 +1,7 @@
 # paypal_confirm.hidden_field
-
-
-Attribut de bouclage de [`<!-- BEGIN paypal_confirm -->...<!-- END paypal_confirm -->`](paypal_confirm.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN paypal_confirm -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN paypal_confirm -->...<!-- END paypal_confir
 <!-- END paypal_confirm -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field)
 
 ## Attributs
@@ -21,7 +22,7 @@ Attribut de bouclage de [`<!-- BEGIN paypal_confirm -->...<!-- END paypal_confir
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`185`](../tpl/src/punbb/donate.tpl#L185)[`<->`](../tpl/src/punbb/donate.tpl#L185-L187)[`187`](../tpl/src/punbb/donate.tpl#L187)
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`185`](../tpl/src/punbb/donate.tpl#L185)[`<->`](../tpl/src/punbb/donate.tpl#L185-L187)[`187`](../tpl/src/punbb/donate.tpl#L187)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`223`](../tpl/src/subsilver/donate.tpl#L223)[`<->`](../tpl/src/subsilver/donate.tpl#L223-L225)[`225`](../tpl/src/subsilver/donate.tpl#L225)
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`223`](../tpl/src/subsilver/donate.tpl#L223)[`<->`](../tpl/src/subsilver/donate.tpl#L223-L225)[`225`](../tpl/src/subsilver/donate.tpl#L225)

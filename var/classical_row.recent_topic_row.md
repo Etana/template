@@ -1,7 +1,7 @@
 # classical_row.recent_topic_row
-
-
-Attribut de bouclage de [`<!-- BEGIN classical_row -->...<!-- END classical_row -->`](classical_row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN classical_row -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN classical_row -->...<!-- END classical_row 
 <!-- END classical_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row)
 
 ## Attributs
@@ -26,7 +27,7 @@ Attribut de bouclage de [`<!-- BEGIN classical_row -->...<!-- END classical_row 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/var/punbb/mod_recent_topics.md#readme) :__ lignes [`37`](../tpl/src/punbb/mod_recent_topics.tpl#L37)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L37-L53)[`53`](../tpl/src/punbb/mod_recent_topics.tpl#L53)
+* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`37`](../tpl/src/punbb/mod_recent_topics.tpl#L37)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L37-L53)[`53`](../tpl/src/punbb/mod_recent_topics.tpl#L53)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/var/subsilver/mod_recent_topics.md#readme) :__ lignes [`46`](../tpl/src/subsilver/mod_recent_topics.tpl#L46)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L46-L62)[`62`](../tpl/src/subsilver/mod_recent_topics.tpl#L62)
+* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`46`](../tpl/src/subsilver/mod_recent_topics.tpl#L46)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L46-L62)[`62`](../tpl/src/subsilver/mod_recent_topics.tpl#L62)

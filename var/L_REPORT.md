@@ -1,18 +1,19 @@
 # L_REPORT
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`report_list_body`](../tpl/var/report_list_body.md)
+* __Utilisation :__
 
 ```html
 {L_REPORT}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_REPORT)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`report_list_body`](../tpl/var/punbb/report_list_body.md#readme) :__ ligne [`40`](../tpl/src/punbb/report_list_body.tpl#L40)
+* __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ ligne [`40`](../tpl/src/punbb/report_list_body.tpl#L40)
 
 ### Version phpBB2
-* __[`report_list_body`](../tpl/var/subsilver/report_list_body.md#readme) :__ ligne [`17`](../tpl/src/subsilver/report_list_body.tpl#L17)
+* __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ ligne [`17`](../tpl/src/subsilver/report_list_body.tpl#L17)

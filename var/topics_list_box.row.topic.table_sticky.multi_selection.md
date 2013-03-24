@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.table_sticky.multi_selection
-
-
-Attribut de bouclage de [`<!-- BEGIN table_sticky -->...<!-- END table_sticky -->`](topics_list_box.row.topic.table_sticky.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -17,9 +17,10 @@ Attribut de bouclage de [`<!-- BEGIN table_sticky -->...<!-- END table_sticky --
 <!-- END topics_list_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.multi_selection)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`55`](../tpl/src/punbb/topics_list_box.tpl#L55)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L55-L57)[`57`](../tpl/src/punbb/topics_list_box.tpl#L57)
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`55`](../tpl/src/punbb/topics_list_box.tpl#L55)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L55-L57)[`57`](../tpl/src/punbb/topics_list_box.tpl#L57)

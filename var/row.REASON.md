@@ -1,7 +1,7 @@
 # row.REASON
-
-
-Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN row -->
@@ -9,14 +9,15 @@ Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme)
 <!-- END row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/row.REASON)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`report_list_body`](../tpl/var/punbb/report_list_body.md#readme) :__ ligne [`53`](../tpl/src/punbb/report_list_body.tpl#L53)
-* __[`report_view_body`](../tpl/var/punbb/report_view_body.md#readme) :__ ligne [`39`](../tpl/src/punbb/report_view_body.tpl#L39)
+* __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ ligne [`53`](../tpl/src/punbb/report_list_body.tpl#L53)
+* __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ ligne [`39`](../tpl/src/punbb/report_view_body.tpl#L39)
 
 ### Version phpBB2
-* __[`report_list_body`](../tpl/var/subsilver/report_list_body.md#readme) :__ ligne [`27`](../tpl/src/subsilver/report_list_body.tpl#L27)
-* __[`report_view_body`](../tpl/var/subsilver/report_view_body.md#readme) :__ ligne [`11`](../tpl/src/subsilver/report_view_body.tpl#L11)
+* __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ ligne [`27`](../tpl/src/subsilver/report_list_body.tpl#L27)
+* __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ ligne [`11`](../tpl/src/subsilver/report_view_body.tpl#L11)

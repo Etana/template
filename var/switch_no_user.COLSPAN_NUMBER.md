@@ -1,7 +1,7 @@
 # switch_no_user.COLSPAN_NUMBER
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_no_user -->...<!-- END switch_no_user -->`](switch_no_user.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_no_user -->
@@ -9,13 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN switch_no_user -->...<!-- END switch_no_use
 <!-- END switch_no_user -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
+## Description[*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
 Contient le nombre de colonnes affichées.
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`memberlist_body`](../tpl/var/punbb/memberlist_body.md#readme) :__ ligne [`93`](../tpl/src/punbb/memberlist_body.tpl#L93)
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`93`](../tpl/src/punbb/memberlist_body.tpl#L93)
 
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/var/subsilver/memberlist_body.md#readme) :__ ligne [`54`](../tpl/src/subsilver/memberlist_body.tpl#L54)
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`54`](../tpl/src/subsilver/memberlist_body.tpl#L54)

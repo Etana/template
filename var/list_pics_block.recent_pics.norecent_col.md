@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.norecent_col
-
-
-Attribut de bouclage de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](list_pics_block.recent_pics.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN list_pics_block -->
@@ -13,6 +13,7 @@ Attribut de bouclage de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`
 <!-- END list_pics_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.norecent_col)
 
 ## Attributs
@@ -22,4 +23,4 @@ Attribut de bouclage de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`141`](../tpl/src/subsilver/album_cat_body.tpl#L141)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L141-L143)[`143`](../tpl/src/subsilver/album_cat_body.tpl#L143)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`141`](../tpl/src/subsilver/album_cat_body.tpl#L141)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L141-L143)[`143`](../tpl/src/subsilver/album_cat_body.tpl#L143)

@@ -1,7 +1,7 @@
 # topics_list_box.FIELDNAME
-
-
-Attribut d'affichage de [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](topics_list_box.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -9,12 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_
 <!-- END topics_list_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.FIELDNAME)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`9`](../tpl/src/punbb/topics_list_box.tpl#L9), [`17`](../tpl/src/punbb/topics_list_box.tpl#L17), [`78`](../tpl/src/punbb/topics_list_box.tpl#L78), [`96`](../tpl/src/punbb/topics_list_box.tpl#L96)
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`9`](../tpl/src/punbb/topics_list_box.tpl#L9), [`17`](../tpl/src/punbb/topics_list_box.tpl#L17), [`78`](../tpl/src/punbb/topics_list_box.tpl#L78), [`96`](../tpl/src/punbb/topics_list_box.tpl#L96)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`6`](../tpl/src/subsilver/topics_list_box.tpl#L6), [`14`](../tpl/src/subsilver/topics_list_box.tpl#L14), [`48`](../tpl/src/subsilver/topics_list_box.tpl#L48), [`76`](../tpl/src/subsilver/topics_list_box.tpl#L76)
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`6`](../tpl/src/subsilver/topics_list_box.tpl#L6), [`14`](../tpl/src/subsilver/topics_list_box.tpl#L14), [`48`](../tpl/src/subsilver/topics_list_box.tpl#L48), [`76`](../tpl/src/subsilver/topics_list_box.tpl#L76)

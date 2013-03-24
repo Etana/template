@@ -1,7 +1,7 @@
 # credit_card_method
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`donate`](../tpl/var/donate.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN credit_card_method -->
@@ -9,6 +9,7 @@ contenu
 <!-- END credit_card_method -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method)
 
 ## Attributs
@@ -19,7 +20,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`104`](../tpl/src/punbb/donate.tpl#L104)[`<->`](../tpl/src/punbb/donate.tpl#L104-L175)[`175`](../tpl/src/punbb/donate.tpl#L175)
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`104`](../tpl/src/punbb/donate.tpl#L104)[`<->`](../tpl/src/punbb/donate.tpl#L104-L175)[`175`](../tpl/src/punbb/donate.tpl#L175)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`127`](../tpl/src/subsilver/donate.tpl#L127)[`<->`](../tpl/src/subsilver/donate.tpl#L127-L201)[`201`](../tpl/src/subsilver/donate.tpl#L201)
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`127`](../tpl/src/subsilver/donate.tpl#L127)[`<->`](../tpl/src/subsilver/donate.tpl#L127-L201)[`201`](../tpl/src/subsilver/donate.tpl#L201)

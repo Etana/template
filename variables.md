@@ -1,7 +1,7 @@
 # Variables de template
 * [Variables avec description](variables_avec_description.md#readme)
 
-###Liste de toutes les variables
+### Liste de toutes les variables
 * [`{ACTION}`](https://github.com/Etana/template/blob/master/var/ACTION.md#readme)
 * [`{ADDTHIS_LANG}`](https://github.com/Etana/template/blob/master/var/ADDTHIS_LANG.md#readme)
 * [`{ADD_FIELD}`](https://github.com/Etana/template/blob/master/var/ADD_FIELD.md#readme)
@@ -714,6 +714,7 @@
 * [`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme)
 * [`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)
 * [`{L_SUBMIT_VOTE}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT_VOTE.md#readme)
+* [`{L_SUBSCRIBE}`](https://github.com/Etana/template/blob/master/var/L_SUBSCRIBE.md#readme)
 * [`{L_TABS_PERMISSIONS}`](https://github.com/Etana/template/blob/master/var/L_TABS_PERMISSIONS.md#readme)
 * [`{L_TCATEGORY}`](https://github.com/Etana/template/blob/master/var/L_TCATEGORY.md#readme)
 * [`{L_TDESC}`](https://github.com/Etana/template/blob/master/var/L_TDESC.md#readme)

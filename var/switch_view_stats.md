@@ -1,7 +1,7 @@
 # switch_view_stats
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`simple_footer`](../tpl/var/simple_footer.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_view_stats -->
@@ -9,6 +9,7 @@ contenu
 <!-- END switch_view_stats -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats)
 
 ## Attributs
@@ -19,4 +20,4 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`simple_footer`](../tpl/var/subsilver/simple_footer.md#readme) :__ lignes [`14`](../tpl/src/subsilver/simple_footer.tpl#L14)[`<->`](../tpl/src/subsilver/simple_footer.tpl#L14-L16)[`16`](../tpl/src/subsilver/simple_footer.tpl#L16)
+* __[`simple_footer`](../tpl/var/simple_footer.md#readme) :__ lignes [`14`](../tpl/src/subsilver/simple_footer.tpl#L14)[`<->`](../tpl/src/subsilver/simple_footer.tpl#L14-L16)[`16`](../tpl/src/subsilver/simple_footer.tpl#L16)

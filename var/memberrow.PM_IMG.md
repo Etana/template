@@ -1,7 +1,7 @@
 # memberrow.PM_IMG
-
-
-Attribut d'affichage de [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](memberrow.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN memberrow -->
@@ -9,13 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](me
 <!-- END memberrow -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/memberrow.PM_IMG)
+## Description[*](https://fa-tvars.appspot.com/var/memberrow.PM_IMG)
 Contient un lien vers l'envoi d'un message privé au membre et l'image définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Boutons" > Message Privé`.
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`memberlist_body`](../tpl/var/punbb/memberlist_body.md#readme) :__ ligne [`87`](../tpl/src/punbb/memberlist_body.tpl#L87)
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`87`](../tpl/src/punbb/memberlist_body.tpl#L87)
 
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/var/subsilver/memberlist_body.md#readme) :__ ligne [`48`](../tpl/src/subsilver/memberlist_body.tpl#L48)
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`48`](../tpl/src/subsilver/memberlist_body.tpl#L48)

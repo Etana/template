@@ -1,7 +1,7 @@
 # switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_user_login_form_footer.switch_fb_connect.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_user_login_form_footer -->
@@ -11,12 +11,13 @@ Attribut d'affichage de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_
 <!-- END switch_user_login_form_footer -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`114`](../tpl/src/punbb/index_body.tpl#L114)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`114`](../tpl/src/punbb/index_body.tpl#L114)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`164`](../tpl/src/subsilver/index_body.tpl#L164)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`164`](../tpl/src/subsilver/index_body.tpl#L164)

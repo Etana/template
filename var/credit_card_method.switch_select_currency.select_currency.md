@@ -1,7 +1,7 @@
 # credit_card_method.switch_select_currency.select_currency
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_select_currency -->...<!-- END switch_select_currency -->`](credit_card_method.switch_select_currency.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN credit_card_method -->
@@ -13,6 +13,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_select_currency -->...<!-- END switc
 <!-- END credit_card_method -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency)
 
 ## Attributs
@@ -24,7 +25,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_select_currency -->...<!-- END switc
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ lignes [`116`](../tpl/src/punbb/donate.tpl#L116)[`<->`](../tpl/src/punbb/donate.tpl#L116-L118)[`118`](../tpl/src/punbb/donate.tpl#L118)
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`116`](../tpl/src/punbb/donate.tpl#L116)[`<->`](../tpl/src/punbb/donate.tpl#L116-L118)[`118`](../tpl/src/punbb/donate.tpl#L118)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ lignes [`145`](../tpl/src/subsilver/donate.tpl#L145)[`<->`](../tpl/src/subsilver/donate.tpl#L145-L147)[`147`](../tpl/src/subsilver/donate.tpl#L147)
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`145`](../tpl/src/subsilver/donate.tpl#L145)[`<->`](../tpl/src/subsilver/donate.tpl#L145-L147)[`147`](../tpl/src/subsilver/donate.tpl#L147)

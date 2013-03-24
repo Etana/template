@@ -1,7 +1,7 @@
 # avatar_row.avatar_option_column
-
-
-Attribut de bouclage de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN avatar_row -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](
 <!-- END avatar_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row.avatar_option_column)
 
 ## Attributs
@@ -20,4 +21,4 @@ Attribut de bouclage de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ lignes [`21`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L21)[`<->`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L21-L23)[`23`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L23)
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ lignes [`21`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L21)[`<->`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L21-L23)[`23`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L23)

@@ -1,7 +1,7 @@
 # disable_viewonline
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`disable_viewonline`](../tpl/var/disable_viewonline.md), [`index_body`](../tpl/var/index_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN disable_viewonline -->
@@ -9,10 +9,10 @@ contenu
 <!-- END disable_viewonline -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/disable_viewonline)
+## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline)
 Boucle contenant le qui est en ligne.
 
-* __Code :__ {%disable_viewonline%}
+* __Code :__
 
 ## Attributs
 * __[`<!-- BEGIN switch_chatbox_activate -->`](disable_viewonline.switch_chatbox_activate.md#readme)__
@@ -23,7 +23,7 @@ Boucle contenant le qui est en ligne.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`55`](../tpl/src/punbb/index_body.tpl#L55)[`<->`](../tpl/src/punbb/index_body.tpl#L55-L103)[`103`](../tpl/src/punbb/index_body.tpl#L103)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`55`](../tpl/src/punbb/index_body.tpl#L55)[`<->`](../tpl/src/punbb/index_body.tpl#L55-L103)[`103`](../tpl/src/punbb/index_body.tpl#L103)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`174`](../tpl/src/subsilver/index_body.tpl#L174)[`<->`](../tpl/src/subsilver/index_body.tpl#L174-L222)[`222`](../tpl/src/subsilver/index_body.tpl#L222)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`174`](../tpl/src/subsilver/index_body.tpl#L174)[`<->`](../tpl/src/subsilver/index_body.tpl#L174-L222)[`222`](../tpl/src/subsilver/index_body.tpl#L222)

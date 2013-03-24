@@ -1,7 +1,7 @@
 # switch_on_index.switch_delete_cookies.U_DELETE_COOKIES
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_delete_cookies -->...<!-- END switch_delete_cookies -->`](switch_on_index.switch_delete_cookies.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_on_index -->
@@ -11,12 +11,13 @@ Attribut d'affichage de [`<!-- BEGIN switch_delete_cookies -->...<!-- END switch
 <!-- END switch_on_index -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_box`](../tpl/var/punbb/index_box.md#readme) :__ ligne [`69`](../tpl/src/punbb/index_box.tpl#L69)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`69`](../tpl/src/punbb/index_box.tpl#L69)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`102`](../tpl/src/subsilver/index_body.tpl#L102)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`102`](../tpl/src/subsilver/index_body.tpl#L102)

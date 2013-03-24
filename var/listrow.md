@@ -1,7 +1,7 @@
 # listrow
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`privmsgs_body`](../tpl/var/privmsgs_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN listrow -->
@@ -9,6 +9,7 @@ contenu
 <!-- END listrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/listrow)
 
 ## Attributs
@@ -27,7 +28,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`privmsgs_body`](../tpl/var/punbb/privmsgs_body.md#readme) :__ lignes [`55`](../tpl/src/punbb/privmsgs_body.tpl#L55)[`<->`](../tpl/src/punbb/privmsgs_body.tpl#L55-L68)[`68`](../tpl/src/punbb/privmsgs_body.tpl#L68)
+* __[`privmsgs_body`](../tpl/var/privmsgs_body.md#readme) :__ lignes [`55`](../tpl/src/punbb/privmsgs_body.tpl#L55)[`<->`](../tpl/src/punbb/privmsgs_body.tpl#L55-L68)[`68`](../tpl/src/punbb/privmsgs_body.tpl#L68)
 
 ### Version phpBB2
-* __[`privmsgs_body`](../tpl/var/subsilver/privmsgs_body.md#readme) :__ lignes [`60`](../tpl/src/subsilver/privmsgs_body.tpl#L60)[`<->`](../tpl/src/subsilver/privmsgs_body.tpl#L60-L69)[`69`](../tpl/src/subsilver/privmsgs_body.tpl#L69)
+* __[`privmsgs_body`](../tpl/var/privmsgs_body.md#readme) :__ lignes [`60`](../tpl/src/subsilver/privmsgs_body.tpl#L60)[`<->`](../tpl/src/subsilver/privmsgs_body.tpl#L60-L69)[`69`](../tpl/src/subsilver/privmsgs_body.tpl#L69)

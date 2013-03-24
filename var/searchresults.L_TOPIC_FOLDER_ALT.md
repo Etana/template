@@ -1,7 +1,7 @@
 # searchresults.L_TOPIC_FOLDER_ALT
-
-
-Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults -->`](searchresults.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN searchresults -->
@@ -9,13 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN searchresults -->...<!-- END searchresults 
 <!-- END searchresults -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/searchresults.L_TOPIC_FOLDER_ALT)
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.L_TOPIC_FOLDER_ALT)
 Contient l'information sur l'image du sujet.
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`search_results_topics`](../tpl/var/punbb/search_results_topics.md#readme) :__ lignes [`49`](../tpl/src/punbb/search_results_topics.tpl#L49), [`49`](../tpl/src/punbb/search_results_topics.tpl#L49)
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ lignes [`49`](../tpl/src/punbb/search_results_topics.tpl#L49), [`49`](../tpl/src/punbb/search_results_topics.tpl#L49)
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/var/subsilver/search_results_topics.md#readme) :__ lignes [`32`](../tpl/src/subsilver/search_results_topics.tpl#L32), [`32`](../tpl/src/subsilver/search_results_topics.tpl#L32)
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ lignes [`32`](../tpl/src/subsilver/search_results_topics.tpl#L32), [`32`](../tpl/src/subsilver/search_results_topics.tpl#L32)

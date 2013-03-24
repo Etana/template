@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics
-
-
-Attribut de bouclage de [`<!-- BEGIN build_categories_block -->...<!-- END build_categories_block -->`](build_categories_block.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN build_categories_block -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN build_categories_block -->...<!-- END build
 <!-- END build_categories_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics)
 
 ## Attributs
@@ -23,7 +24,7 @@ Attribut de bouclage de [`<!-- BEGIN build_categories_block -->...<!-- END build
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/var/punbb/album_index_body.md#readme) :__ lignes [`25`](../tpl/src/punbb/album_index_body.tpl#L25)[`<->`](../tpl/src/punbb/album_index_body.tpl#L25-L45)[`45`](../tpl/src/punbb/album_index_body.tpl#L45)
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`25`](../tpl/src/punbb/album_index_body.tpl#L25)[`<->`](../tpl/src/punbb/album_index_body.tpl#L25-L45)[`45`](../tpl/src/punbb/album_index_body.tpl#L45)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`16`](../tpl/src/subsilver/album_index_body.tpl#L16)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L16-L63)[`63`](../tpl/src/subsilver/album_index_body.tpl#L63)
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`16`](../tpl/src/subsilver/album_index_body.tpl#L16)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L16-L63)[`63`](../tpl/src/subsilver/album_index_body.tpl#L63)

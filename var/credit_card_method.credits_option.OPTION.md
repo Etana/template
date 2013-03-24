@@ -1,7 +1,7 @@
 # credit_card_method.credits_option.OPTION
-
-
-Attribut d'affichage de [`<!-- BEGIN credits_option -->...<!-- END credits_option -->`](credit_card_method.credits_option.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN credit_card_method -->
@@ -11,12 +11,13 @@ Attribut d'affichage de [`<!-- BEGIN credits_option -->...<!-- END credits_optio
 <!-- END credit_card_method -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.OPTION)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ ligne [`135`](../tpl/src/punbb/donate.tpl#L135)
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`135`](../tpl/src/punbb/donate.tpl#L135)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ ligne [`162`](../tpl/src/subsilver/donate.tpl#L162)
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`162`](../tpl/src/subsilver/donate.tpl#L162)

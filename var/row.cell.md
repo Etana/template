@@ -1,7 +1,7 @@
 # row.cell
-
-
-Attribut de bouclage de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN row -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme)
 <!-- END row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/row.cell)
 
 ## Attributs
@@ -22,7 +23,7 @@ Attribut de bouclage de [`<!-- BEGIN row -->...<!-- END row -->`](row.md#readme)
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_scheduler_body`](../tpl/var/punbb/calendar_scheduler_body.md#readme) :__ lignes [`46`](../tpl/src/punbb/calendar_scheduler_body.tpl#L46)[`<->`](../tpl/src/punbb/calendar_scheduler_body.tpl#L46-L48)[`48`](../tpl/src/punbb/calendar_scheduler_body.tpl#L48)
+* __[`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme) :__ lignes [`46`](../tpl/src/punbb/calendar_scheduler_body.tpl#L46)[`<->`](../tpl/src/punbb/calendar_scheduler_body.tpl#L46-L48)[`48`](../tpl/src/punbb/calendar_scheduler_body.tpl#L48)
 
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/var/subsilver/calendar_scheduler_body.md#readme) :__ lignes [`40`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L40)[`<->`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L40-L42)[`42`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L42)
+* __[`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme) :__ lignes [`40`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L40)[`<->`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L40-L42)[`42`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L42)

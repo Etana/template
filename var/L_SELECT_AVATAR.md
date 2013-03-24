@@ -1,18 +1,19 @@
 # L_SELECT_AVATAR
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md)
+* __Utilisation :__
 
 ```html
 {L_SELECT_AVATAR}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SELECT_AVATAR)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ ligne [`44`](../tpl/src/punbb/profile_avatar_gallery.tpl#L44)
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`44`](../tpl/src/punbb/profile_avatar_gallery.tpl#L44)
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ ligne [`27`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L27)
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`27`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L27)

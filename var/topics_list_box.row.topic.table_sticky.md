@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.table_sticky
-
-
-Attribut de bouclage de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_list_box.row.topic.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -15,6 +15,7 @@ Attribut de bouclage de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_lis
 <!-- END topics_list_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky)
 
 ## Attributs
@@ -29,4 +30,4 @@ Attribut de bouclage de [`<!-- BEGIN topic -->...<!-- END topic -->`](topics_lis
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`49`](../tpl/src/punbb/topics_list_box.tpl#L49)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L49-L71)[`71`](../tpl/src/punbb/topics_list_box.tpl#L71)
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`49`](../tpl/src/punbb/topics_list_box.tpl#L49)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L49-L71)[`71`](../tpl/src/punbb/topics_list_box.tpl#L71)

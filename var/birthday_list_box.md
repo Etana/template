@@ -1,7 +1,7 @@
 # birthday_list_box
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`birthday_list_box`](../tpl/var/birthday_list_box.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN birthday_list_box -->
@@ -9,6 +9,7 @@ contenu
 <!-- END birthday_list_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box)
 
 ## Attributs
@@ -20,7 +21,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`birthday_list_box`](../tpl/var/punbb/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/punbb/birthday_list_box.tpl#L1)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L1-L48)[`48`](../tpl/src/punbb/birthday_list_box.tpl#L48)
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/punbb/birthday_list_box.tpl#L1)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L1-L48)[`48`](../tpl/src/punbb/birthday_list_box.tpl#L48)
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/var/subsilver/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/birthday_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/birthday_list_box.tpl#L1-L59)[`59`](../tpl/src/subsilver/birthday_list_box.tpl#L59)
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/birthday_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/birthday_list_box.tpl#L1-L59)[`59`](../tpl/src/subsilver/birthday_list_box.tpl#L59)

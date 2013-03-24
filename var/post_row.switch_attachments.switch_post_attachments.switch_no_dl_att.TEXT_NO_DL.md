@@ -1,7 +1,7 @@
 # post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_no_dl_att -->...<!-- END switch_no_dl_att -->`](post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN post_row -->
@@ -15,12 +15,13 @@ Attribut d'affichage de [`<!-- BEGIN switch_no_dl_att -->...<!-- END switch_no_d
 <!-- END post_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ ligne [`40`](../tpl/src/punbb/mod_news.tpl#L40)
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`40`](../tpl/src/punbb/mod_news.tpl#L40)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ ligne [`47`](../tpl/src/subsilver/mod_news.tpl#L47)
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`47`](../tpl/src/subsilver/mod_news.tpl#L47)

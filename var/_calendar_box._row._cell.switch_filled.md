@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled
-
-
-Attribut de bouclage de [`<!-- BEGIN _cell -->...<!-- END _cell -->`](_calendar_box._row._cell.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN _calendar_box -->
@@ -15,6 +15,7 @@ Attribut de bouclage de [`<!-- BEGIN _cell -->...<!-- END _cell -->`](_calendar_
 <!-- END _calendar_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled)
 
 ## Attributs
@@ -28,7 +29,7 @@ Attribut de bouclage de [`<!-- BEGIN _cell -->...<!-- END _cell -->`](_calendar_
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_box`](../tpl/var/punbb/calendar_box.md#readme) :__ lignes [`34`](../tpl/src/punbb/calendar_box.tpl#L34)[`<->`](../tpl/src/punbb/calendar_box.tpl#L34-L56)[`56`](../tpl/src/punbb/calendar_box.tpl#L56)
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`34`](../tpl/src/punbb/calendar_box.tpl#L34)[`<->`](../tpl/src/punbb/calendar_box.tpl#L34-L56)[`56`](../tpl/src/punbb/calendar_box.tpl#L56)
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/var/subsilver/calendar_box.md#readme) :__ lignes [`37`](../tpl/src/subsilver/calendar_box.tpl#L37)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L37-L86)[`86`](../tpl/src/subsilver/calendar_box.tpl#L86)
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`37`](../tpl/src/subsilver/calendar_box.tpl#L37)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L37-L86)[`86`](../tpl/src/subsilver/calendar_box.tpl#L86)

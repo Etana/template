@@ -1,7 +1,7 @@
 # switch_user_login_form_footer
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_user_login_form_footer -->
@@ -9,6 +9,7 @@ contenu
 <!-- END switch_user_login_form_footer -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer)
 
 ## Attributs
@@ -19,7 +20,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`105`](../tpl/src/punbb/index_body.tpl#L105)[`<->`](../tpl/src/punbb/index_body.tpl#L105-L118)[`118`](../tpl/src/punbb/index_body.tpl#L118)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`105`](../tpl/src/punbb/index_body.tpl#L105)[`<->`](../tpl/src/punbb/index_body.tpl#L105-L118)[`118`](../tpl/src/punbb/index_body.tpl#L118)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`110`](../tpl/src/subsilver/index_body.tpl#L110)[`<->`](../tpl/src/subsilver/index_body.tpl#L110-L172)[`172`](../tpl/src/subsilver/index_body.tpl#L172)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`110`](../tpl/src/subsilver/index_body.tpl#L110)[`<->`](../tpl/src/subsilver/index_body.tpl#L110-L172)[`172`](../tpl/src/subsilver/index_body.tpl#L172)

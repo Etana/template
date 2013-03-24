@@ -1,7 +1,7 @@
 # pics_nav.next
-
-
-Attribut de bouclage de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics_nav.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN pics_nav -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics
 <!-- END pics_nav -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/pics_nav.next)
 
 ## Attributs
@@ -22,7 +23,7 @@ Attribut de bouclage de [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](pics
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_showpage_body`](../tpl/var/punbb/album_showpage_body.md#readme) :__ lignes [`360`](../tpl/src/punbb/album_showpage_body.tpl#L360)[`<->`](../tpl/src/punbb/album_showpage_body.tpl#L360-L364)[`364`](../tpl/src/punbb/album_showpage_body.tpl#L364)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`360`](../tpl/src/punbb/album_showpage_body.tpl#L360)[`<->`](../tpl/src/punbb/album_showpage_body.tpl#L360-L364)[`364`](../tpl/src/punbb/album_showpage_body.tpl#L364)
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`410`](../tpl/src/subsilver/album_showpage_body.tpl#L410)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L410-L420)[`420`](../tpl/src/subsilver/album_showpage_body.tpl#L420)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`410`](../tpl/src/subsilver/album_showpage_body.tpl#L410)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L410-L420)[`420`](../tpl/src/subsilver/album_showpage_body.tpl#L420)

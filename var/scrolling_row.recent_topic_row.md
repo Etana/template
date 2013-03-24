@@ -1,7 +1,7 @@
 # scrolling_row.recent_topic_row
-
-
-Attribut de bouclage de [`<!-- BEGIN scrolling_row -->...<!-- END scrolling_row -->`](scrolling_row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN scrolling_row -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN scrolling_row -->...<!-- END scrolling_row 
 <!-- END scrolling_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row)
 
 ## Attributs
@@ -27,7 +28,7 @@ Attribut de bouclage de [`<!-- BEGIN scrolling_row -->...<!-- END scrolling_row 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/var/punbb/mod_recent_topics.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_recent_topics.tpl#L5)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L5-L20)[`20`](../tpl/src/punbb/mod_recent_topics.tpl#L20)
+* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_recent_topics.tpl#L5)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L5-L20)[`20`](../tpl/src/punbb/mod_recent_topics.tpl#L20)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/var/subsilver/mod_recent_topics.md#readme) :__ lignes [`10`](../tpl/src/subsilver/mod_recent_topics.tpl#L10)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L10-L25)[`25`](../tpl/src/subsilver/mod_recent_topics.tpl#L25)
+* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`10`](../tpl/src/subsilver/mod_recent_topics.tpl#L10)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L10-L25)[`25`](../tpl/src/subsilver/mod_recent_topics.tpl#L25)

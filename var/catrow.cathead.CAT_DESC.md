@@ -1,7 +1,7 @@
 # catrow.cathead.CAT_DESC
-
-
-Attribut d'affichage de [`<!-- BEGIN cathead -->...<!-- END cathead -->`](catrow.cathead.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN catrow -->
@@ -11,9 +11,10 @@ Attribut d'affichage de [`<!-- BEGIN cathead -->...<!-- END cathead -->`](catrow
 <!-- END catrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.CAT_DESC)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ ligne [`36`](../tpl/src/subsilver/index_box.tpl#L36)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`36`](../tpl/src/subsilver/index_box.tpl#L36)

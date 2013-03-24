@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](switch_preferences_menu.switch_fb_connect.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_preferences_menu -->
@@ -13,6 +13,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_
 <!-- END switch_preferences_menu -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked)
 
 ## Attributs
@@ -22,7 +23,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`213`](../tpl/src/punbb/profile_add_body.tpl#L213)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L213-L215)[`215`](../tpl/src/punbb/profile_add_body.tpl#L215)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`213`](../tpl/src/punbb/profile_add_body.tpl#L213)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L213-L215)[`215`](../tpl/src/punbb/profile_add_body.tpl#L215)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`160`](../tpl/src/subsilver/profile_add_body.tpl#L160)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L160-L162)[`162`](../tpl/src/subsilver/profile_add_body.tpl#L162)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`160`](../tpl/src/subsilver/profile_add_body.tpl#L160)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L160-L162)[`162`](../tpl/src/subsilver/profile_add_body.tpl#L162)

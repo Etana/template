@@ -1,7 +1,7 @@
 # navlinks
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN navlinks -->
@@ -9,6 +9,7 @@ contenu
 <!-- END navlinks -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks)
 
 ## Attributs
@@ -23,7 +24,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`147`](../tpl/src/punbb/album_cat_body.tpl#L147)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L147-L176)[`176`](../tpl/src/punbb/album_cat_body.tpl#L176)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`147`](../tpl/src/punbb/album_cat_body.tpl#L147)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L147-L176)[`176`](../tpl/src/punbb/album_cat_body.tpl#L176)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`283`](../tpl/src/subsilver/album_cat_body.tpl#L283)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L283-L337)[`337`](../tpl/src/subsilver/album_cat_body.tpl#L337)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`283`](../tpl/src/subsilver/album_cat_body.tpl#L283)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L283-L337)[`337`](../tpl/src/subsilver/album_cat_body.tpl#L337)

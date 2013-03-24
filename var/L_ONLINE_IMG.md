@@ -1,13 +1,13 @@
 # L_ONLINE_IMG
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md)
+* __Utilisation :__
 
 ```html
 {L_ONLINE_IMG}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/L_ONLINE_IMG)
+## Description[*](https://fa-tvars.appspot.com/var/L_ONLINE_IMG)
 Lien de l'image spécifiée dans `Général / navigation > Qui est en ligne ?`.
 
 * __Exemple de remplacement :__ `http://illiweb.com/fa/subsilver/whosonline.gif`
@@ -20,7 +20,7 @@ Lien de l'image spécifiée dans `Général / navigation > Qui est en ligne ?`.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`64`](../tpl/src/punbb/index_body.tpl#L64)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`64`](../tpl/src/punbb/index_body.tpl#L64)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`188`](../tpl/src/subsilver/index_body.tpl#L188)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`188`](../tpl/src/subsilver/index_body.tpl#L188)

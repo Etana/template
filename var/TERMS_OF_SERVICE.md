@@ -1,13 +1,13 @@
 # TERMS_OF_SERVICE
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`donate`](../tpl/var/donate.md)
+* __Utilisation :__
 
 ```html
 {TERMS_OF_SERVICE}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/TERMS_OF_SERVICE)
+## Description[*](https://fa-tvars.appspot.com/var/TERMS_OF_SERVICE)
 Chaîne de texte.
 
 * __Contenu en français :__
@@ -21,7 +21,7 @@ En cas de problème avec un paiement, veuillez nous contacter en postant un mess
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ ligne [`35`](../tpl/src/punbb/donate.tpl#L35)
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`35`](../tpl/src/punbb/donate.tpl#L35)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ ligne [`23`](../tpl/src/subsilver/donate.tpl#L23)
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`23`](../tpl/src/subsilver/donate.tpl#L23)

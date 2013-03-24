@@ -1,7 +1,7 @@
 # message_admin_index.message_admin_titre
-
-
-Attribut de bouclage de [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](message_admin_index.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN message_admin_index -->
@@ -11,7 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN message_admin_index -->...<!-- END message_
 <!-- END message_admin_index -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre)
+## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre)
 Boucle contenant le titre du message d'accueil.
 
 ## Attributs
@@ -21,7 +21,7 @@ Boucle contenant le titre du message d'accueil.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ lignes [`21`](../tpl/src/punbb/index_body.tpl#L21)[`<->`](../tpl/src/punbb/index_body.tpl#L21-L25)[`25`](../tpl/src/punbb/index_body.tpl#L25)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`21`](../tpl/src/punbb/index_body.tpl#L21)[`<->`](../tpl/src/punbb/index_body.tpl#L21-L25)[`25`](../tpl/src/punbb/index_body.tpl#L25)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ lignes [`4`](../tpl/src/subsilver/index_body.tpl#L4)[`<->`](../tpl/src/subsilver/index_body.tpl#L4-L8)[`8`](../tpl/src/subsilver/index_body.tpl#L8)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`4`](../tpl/src/subsilver/index_body.tpl#L4)[`<->`](../tpl/src/subsilver/index_body.tpl#L4-L8)[`8`](../tpl/src/subsilver/index_body.tpl#L8)

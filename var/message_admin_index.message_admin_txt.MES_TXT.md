@@ -1,7 +1,7 @@
 # message_admin_index.message_admin_txt.MES_TXT
-
-
-Attribut d'affichage de [`<!-- BEGIN message_admin_txt -->...<!-- END message_admin_txt -->`](message_admin_index.message_admin_txt.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN message_admin_index -->
@@ -11,13 +11,13 @@ Attribut d'affichage de [`<!-- BEGIN message_admin_txt -->...<!-- END message_ad
 <!-- END message_admin_index -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
+## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
 Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralités > Contenu du message`.
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`29`](../tpl/src/punbb/index_body.tpl#L29)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`29`](../tpl/src/punbb/index_body.tpl#L29)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`12`](../tpl/src/subsilver/index_body.tpl#L12)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`12`](../tpl/src/subsilver/index_body.tpl#L12)

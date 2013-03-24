@@ -1,7 +1,7 @@
 # index_pics_block
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN index_pics_block -->
@@ -9,6 +9,7 @@ contenu
 <!-- END index_pics_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block)
 
 ## Attributs
@@ -20,7 +21,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`30`](../tpl/src/punbb/album_cat_body.tpl#L30)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L30-L50)[`50`](../tpl/src/punbb/album_cat_body.tpl#L50)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`30`](../tpl/src/punbb/album_cat_body.tpl#L30)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L30-L50)[`50`](../tpl/src/punbb/album_cat_body.tpl#L50)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`30`](../tpl/src/subsilver/album_cat_body.tpl#L30)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L30-L104)[`104`](../tpl/src/subsilver/album_cat_body.tpl#L104)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`30`](../tpl/src/subsilver/album_cat_body.tpl#L30)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L30-L104)[`104`](../tpl/src/subsilver/album_cat_body.tpl#L104)

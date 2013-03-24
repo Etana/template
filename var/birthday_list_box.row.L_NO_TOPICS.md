@@ -1,7 +1,7 @@
 # birthday_list_box.row.L_NO_TOPICS
-
-
-Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_box.row.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN birthday_list_box -->
@@ -11,12 +11,13 @@ Attribut d'affichage de [`<!-- BEGIN row -->...<!-- END row -->`](birthday_list_
 <!-- END birthday_list_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.L_NO_TOPICS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`birthday_list_box`](../tpl/var/punbb/birthday_list_box.md#readme) :__ ligne [`38`](../tpl/src/punbb/birthday_list_box.tpl#L38)
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`38`](../tpl/src/punbb/birthday_list_box.tpl#L38)
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/var/subsilver/birthday_list_box.md#readme) :__ ligne [`47`](../tpl/src/subsilver/birthday_list_box.tpl#L47)
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`47`](../tpl/src/subsilver/birthday_list_box.tpl#L47)

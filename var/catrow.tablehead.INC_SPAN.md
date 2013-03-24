@@ -1,7 +1,7 @@
 # catrow.tablehead.INC_SPAN
-
-
-Attribut d'affichage de [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](catrow.tablehead.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN catrow -->
@@ -11,9 +11,10 @@ Attribut d'affichage de [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](ca
 <!-- END catrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablehead.INC_SPAN)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ ligne [`22`](../tpl/src/subsilver/index_box.tpl#L22)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`22`](../tpl/src/subsilver/index_box.tpl#L22)

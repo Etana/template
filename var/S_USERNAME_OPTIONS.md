@@ -1,18 +1,19 @@
 # S_USERNAME_OPTIONS
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`search_username`](../tpl/var/search_username.md)
+* __Utilisation :__
 
 ```html
 {S_USERNAME_OPTIONS}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_USERNAME_OPTIONS)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`search_username`](../tpl/var/punbb/search_username.md#readme) :__ ligne [`21`](../tpl/src/punbb/search_username.tpl#L21)
+* __[`search_username`](../tpl/var/search_username.md#readme) :__ ligne [`21`](../tpl/src/punbb/search_username.tpl#L21)
 
 ### Version phpBB2
-* __[`search_username`](../tpl/var/subsilver/search_username.md#readme) :__ ligne [`17`](../tpl/src/subsilver/search_username.tpl#L17)
+* __[`search_username`](../tpl/var/search_username.md#readme) :__ ligne [`17`](../tpl/src/subsilver/search_username.tpl#L17)

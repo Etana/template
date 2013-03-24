@@ -1,22 +1,23 @@
 # L_LOCK
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`album_modcp_body`](../tpl/var/album_modcp_body.md), [`album_moderate_body`](../tpl/var/album_moderate_body.md), [`modcp_body`](../tpl/var/modcp_body.md)
+* __Utilisation :__
 
 ```html
 {L_LOCK}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LOCK)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_moderate_body`](../tpl/var/punbb/album_moderate_body.md#readme) :__ ligne [`120`](../tpl/src/punbb/album_moderate_body.tpl#L120)
-* __[`album_modcp_body`](../tpl/var/punbb/album_modcp_body.md#readme) :__ ligne [`74`](../tpl/src/punbb/album_modcp_body.tpl#L74)
-* __[`modcp_body`](../tpl/var/punbb/modcp_body.md#readme) :__ ligne [`66`](../tpl/src/punbb/modcp_body.tpl#L66)
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`120`](../tpl/src/punbb/album_moderate_body.tpl#L120)
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`74`](../tpl/src/punbb/album_modcp_body.tpl#L74)
+* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`66`](../tpl/src/punbb/modcp_body.tpl#L66)
 
 ### Version phpBB2
-* __[`album_moderate_body`](../tpl/var/subsilver/album_moderate_body.md#readme) :__ ligne [`100`](../tpl/src/subsilver/album_moderate_body.tpl#L100)
-* __[`album_modcp_body`](../tpl/var/subsilver/album_modcp_body.md#readme) :__ ligne [`57`](../tpl/src/subsilver/album_modcp_body.tpl#L57)
-* __[`modcp_body`](../tpl/var/subsilver/modcp_body.md#readme) :__ ligne [`35`](../tpl/src/subsilver/modcp_body.tpl#L35)
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`100`](../tpl/src/subsilver/album_moderate_body.tpl#L100)
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`57`](../tpl/src/subsilver/album_modcp_body.tpl#L57)
+* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`35`](../tpl/src/subsilver/modcp_body.tpl#L35)

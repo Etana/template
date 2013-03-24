@@ -1,7 +1,7 @@
 # pending_members_row.ROW_CLASS
-
-
-Attribut d'affichage de [`<!-- BEGIN pending_members_row -->...<!-- END pending_members_row -->`](pending_members_row.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN pending_members_row -->
@@ -9,9 +9,10 @@ Attribut d'affichage de [`<!-- BEGIN pending_members_row -->...<!-- END pending_
 <!-- END pending_members_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/pending_members_row.ROW_CLASS)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/var/subsilver/groupcp_pending_info.md#readme) :__ lignes [`16`](../tpl/src/subsilver/groupcp_pending_info.tpl#L16), [`17`](../tpl/src/subsilver/groupcp_pending_info.tpl#L17), [`18`](../tpl/src/subsilver/groupcp_pending_info.tpl#L18), [`19`](../tpl/src/subsilver/groupcp_pending_info.tpl#L19), [`20`](../tpl/src/subsilver/groupcp_pending_info.tpl#L20), [`21`](../tpl/src/subsilver/groupcp_pending_info.tpl#L21), [`22`](../tpl/src/subsilver/groupcp_pending_info.tpl#L22)
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ lignes [`16`](../tpl/src/subsilver/groupcp_pending_info.tpl#L16), [`17`](../tpl/src/subsilver/groupcp_pending_info.tpl#L17), [`18`](../tpl/src/subsilver/groupcp_pending_info.tpl#L18), [`19`](../tpl/src/subsilver/groupcp_pending_info.tpl#L19), [`20`](../tpl/src/subsilver/groupcp_pending_info.tpl#L20), [`21`](../tpl/src/subsilver/groupcp_pending_info.tpl#L21), [`22`](../tpl/src/subsilver/groupcp_pending_info.tpl#L22)

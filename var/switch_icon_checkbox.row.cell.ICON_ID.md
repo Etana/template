@@ -1,7 +1,7 @@
 # switch_icon_checkbox.row.cell.ICON_ID
-
-
-Attribut d'affichage de [`<!-- BEGIN cell -->...<!-- END cell -->`](switch_icon_checkbox.row.cell.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_icon_checkbox -->
@@ -13,14 +13,15 @@ Attribut d'affichage de [`<!-- BEGIN cell -->...<!-- END cell -->`](switch_icon_
 <!-- END switch_icon_checkbox -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_ID)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ lignes [`117`](../tpl/src/punbb/posting_body.tpl#L117), [`117`](../tpl/src/punbb/posting_body.tpl#L117), [`118`](../tpl/src/punbb/posting_body.tpl#L118)
-* __[`posting_body_wysiwyg`](../tpl/var/punbb/posting_body_wysiwyg.md#readme) :__ lignes [`271`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L271), [`271`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L271), [`271`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L271)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`117`](../tpl/src/punbb/posting_body.tpl#L117), [`117`](../tpl/src/punbb/posting_body.tpl#L117), [`118`](../tpl/src/punbb/posting_body.tpl#L118)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`271`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L271), [`271`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L271), [`271`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L271)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`178`](../tpl/src/subsilver/posting_body.tpl#L178), [`178`](../tpl/src/subsilver/posting_body.tpl#L178), [`178`](../tpl/src/subsilver/posting_body.tpl#L178)
-* __[`posting_body_wysiwyg`](../tpl/var/subsilver/posting_body_wysiwyg.md#readme) :__ lignes [`352`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L352), [`352`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L352), [`352`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L352)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`178`](../tpl/src/subsilver/posting_body.tpl#L178), [`178`](../tpl/src/subsilver/posting_body.tpl#L178), [`178`](../tpl/src/subsilver/posting_body.tpl#L178)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`352`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L352), [`352`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L352), [`352`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L352)

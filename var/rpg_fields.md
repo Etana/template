@@ -1,7 +1,7 @@
 # rpg_fields
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`rpg_sheet`](../tpl/var/rpg_sheet.md), [`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN rpg_fields -->
@@ -9,6 +9,7 @@ contenu
 <!-- END rpg_fields -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/rpg_fields)
 
 ## Attributs
@@ -21,9 +22,9 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`rpg_sheet`](../tpl/var/punbb/rpg_sheet.md#readme) :__ lignes [`38`](../tpl/src/punbb/rpg_sheet.tpl#L38)[`<->`](../tpl/src/punbb/rpg_sheet.tpl#L38-L45)[`45`](../tpl/src/punbb/rpg_sheet.tpl#L45)
-* __[`rpg_sheet_edit`](../tpl/var/punbb/rpg_sheet_edit.md#readme) :__ lignes [`50`](../tpl/src/punbb/rpg_sheet_edit.tpl#L50)[`<->`](../tpl/src/punbb/rpg_sheet_edit.tpl#L50-L55)[`55`](../tpl/src/punbb/rpg_sheet_edit.tpl#L55)
+* __[`rpg_sheet`](../tpl/var/rpg_sheet.md#readme) :__ lignes [`38`](../tpl/src/punbb/rpg_sheet.tpl#L38)[`<->`](../tpl/src/punbb/rpg_sheet.tpl#L38-L45)[`45`](../tpl/src/punbb/rpg_sheet.tpl#L45)
+* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ lignes [`50`](../tpl/src/punbb/rpg_sheet_edit.tpl#L50)[`<->`](../tpl/src/punbb/rpg_sheet_edit.tpl#L50-L55)[`55`](../tpl/src/punbb/rpg_sheet_edit.tpl#L55)
 
 ### Version phpBB2
-* __[`rpg_sheet`](../tpl/var/subsilver/rpg_sheet.md#readme) :__ lignes [`29`](../tpl/src/subsilver/rpg_sheet.tpl#L29)[`<->`](../tpl/src/subsilver/rpg_sheet.tpl#L29-L34)[`34`](../tpl/src/subsilver/rpg_sheet.tpl#L34)
-* __[`rpg_sheet_edit`](../tpl/var/subsilver/rpg_sheet_edit.md#readme) :__ lignes [`47`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L47)[`<->`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L47-L53)[`53`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L53)
+* __[`rpg_sheet`](../tpl/var/rpg_sheet.md#readme) :__ lignes [`29`](../tpl/src/subsilver/rpg_sheet.tpl#L29)[`<->`](../tpl/src/subsilver/rpg_sheet.tpl#L29-L34)[`34`](../tpl/src/subsilver/rpg_sheet.tpl#L34)
+* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ lignes [`47`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L47)[`<->`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L47-L53)[`53`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L53)

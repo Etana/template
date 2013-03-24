@@ -1,7 +1,7 @@
 # userrow
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`modcp_viewip`](../tpl/var/modcp_viewip.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN userrow -->
@@ -9,6 +9,7 @@ contenu
 <!-- END userrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/userrow)
 
 ## Attributs
@@ -24,7 +25,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`modcp_viewip`](../tpl/var/punbb/modcp_viewip.md#readme) :__ lignes [`79`](../tpl/src/punbb/modcp_viewip.tpl#L79)[`<->`](../tpl/src/punbb/modcp_viewip.tpl#L79-L84)[`84`](../tpl/src/punbb/modcp_viewip.tpl#L84)
+* __[`modcp_viewip`](../tpl/var/modcp_viewip.md#readme) :__ lignes [`79`](../tpl/src/punbb/modcp_viewip.tpl#L79)[`<->`](../tpl/src/punbb/modcp_viewip.tpl#L79-L84)[`84`](../tpl/src/punbb/modcp_viewip.tpl#L84)
 
 ### Version phpBB2
-* __[`modcp_viewip`](../tpl/var/subsilver/modcp_viewip.md#readme) :__ lignes [`48`](../tpl/src/subsilver/modcp_viewip.tpl#L48)[`<->`](../tpl/src/subsilver/modcp_viewip.tpl#L48-L59)[`59`](../tpl/src/subsilver/modcp_viewip.tpl#L59)
+* __[`modcp_viewip`](../tpl/var/modcp_viewip.md#readme) :__ lignes [`48`](../tpl/src/subsilver/modcp_viewip.tpl#L48)[`<->`](../tpl/src/subsilver/modcp_viewip.tpl#L48-L59)[`59`](../tpl/src/subsilver/modcp_viewip.tpl#L59)

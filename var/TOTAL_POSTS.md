@@ -1,13 +1,13 @@
 # TOTAL_POSTS
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md), [`mod_statistics`](../tpl/var/mod_statistics.md)
+* __Utilisation :__
 
 ```html
 {TOTAL_POSTS}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/TOTAL_POSTS)
+## Description[*](https://fa-tvars.appspot.com/var/TOTAL_POSTS)
 Chaîne de texte indiquant le nombre total de message que les membres ont postés. Le nombre de message est intégré au texte.
 
 * __Exemple de remplacement français :__ 
@@ -26,9 +26,9 @@ Nos membres ont posté un total de <strong>2</strong> messages
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/index_body.tpl#L59)
-* __[`mod_statistics`](../tpl/var/punbb/mod_statistics.md#readme) :__ ligne [`5`](../tpl/src/punbb/mod_statistics.tpl#L5)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/index_body.tpl#L59)
+* __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`5`](../tpl/src/punbb/mod_statistics.tpl#L5)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`189`](../tpl/src/subsilver/index_body.tpl#L189)
-* __[`mod_statistics`](../tpl/var/subsilver/mod_statistics.md#readme) :__ ligne [`9`](../tpl/src/subsilver/mod_statistics.tpl#L9)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`189`](../tpl/src/subsilver/index_body.tpl#L189)
+* __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`9`](../tpl/src/subsilver/mod_statistics.tpl#L9)

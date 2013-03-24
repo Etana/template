@@ -1,7 +1,7 @@
 # switch_attachment.modif_dav_08032010
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_attachment -->...<!-- END switch_attachment -->`](switch_attachment.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_attachment -->
@@ -11,9 +11,10 @@ Attribut de bouclage de [`<!-- BEGIN switch_attachment -->...<!-- END switch_att
 <!-- END switch_attachment -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment.modif_dav_08032010)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ lignes [`695`](../tpl/src/subsilver/posting_body.tpl#L695)[`<->`](../tpl/src/subsilver/posting_body.tpl#L695-L702)[`702`](../tpl/src/subsilver/posting_body.tpl#L702)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`695`](../tpl/src/subsilver/posting_body.tpl#L695)[`<->`](../tpl/src/subsilver/posting_body.tpl#L695-L702)[`702`](../tpl/src/subsilver/posting_body.tpl#L702)

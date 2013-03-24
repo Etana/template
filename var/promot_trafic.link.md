@@ -1,7 +1,7 @@
 # promot_trafic.link
-
-
-Attribut de bouclage de [`<!-- BEGIN promot_trafic -->...<!-- END promot_trafic -->`](promot_trafic.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN promot_trafic -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN promot_trafic -->...<!-- END promot_trafic 
 <!-- END promot_trafic -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link)
 
 ## Attributs
@@ -21,7 +22,7 @@ Attribut de bouclage de [`<!-- BEGIN promot_trafic -->...<!-- END promot_trafic 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`310`](../tpl/src/punbb/viewtopic_body.tpl#L310)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L310-L312)[`312`](../tpl/src/punbb/viewtopic_body.tpl#L312)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`310`](../tpl/src/punbb/viewtopic_body.tpl#L310)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L310-L312)[`312`](../tpl/src/punbb/viewtopic_body.tpl#L312)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`320`](../tpl/src/subsilver/viewtopic_body.tpl#L320)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L320-L322)[`322`](../tpl/src/subsilver/viewtopic_body.tpl#L322)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`320`](../tpl/src/subsilver/viewtopic_body.tpl#L320)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L320-L322)[`322`](../tpl/src/subsilver/viewtopic_body.tpl#L322)

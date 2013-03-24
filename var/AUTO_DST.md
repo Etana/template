@@ -1,19 +1,19 @@
 # AUTO_DST
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md)
+* __Utilisation :__
 
 ```html
 {AUTO_DST}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/AUTO_DST)
+## Description[*](https://fa-tvars.appspot.com/var/AUTO_DST)
 Variable actuellement inutilisée.
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`132`](../tpl/src/punbb/index_body.tpl#L132)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`132`](../tpl/src/punbb/index_body.tpl#L132)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`240`](../tpl/src/subsilver/index_body.tpl#L240)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`240`](../tpl/src/subsilver/index_body.tpl#L240)

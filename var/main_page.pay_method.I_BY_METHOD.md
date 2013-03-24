@@ -1,7 +1,7 @@
 # main_page.pay_method.I_BY_METHOD
-
-
-Attribut d'affichage de [`<!-- BEGIN pay_method -->...<!-- END pay_method -->`](main_page.pay_method.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN main_page -->
@@ -11,7 +11,7 @@ Attribut d'affichage de [`<!-- BEGIN pay_method -->...<!-- END pay_method -->`](
 <!-- END main_page -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
+## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
 Adresse URL d'une image vide.
 
 *Variable importante au bon fonctionnement des donations !*
@@ -19,7 +19,7 @@ Adresse URL d'une image vide.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ ligne [`50`](../tpl/src/punbb/donate.tpl#L50)
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`50`](../tpl/src/punbb/donate.tpl#L50)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ ligne [`54`](../tpl/src/subsilver/donate.tpl#L54)
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`54`](../tpl/src/subsilver/donate.tpl#L54)

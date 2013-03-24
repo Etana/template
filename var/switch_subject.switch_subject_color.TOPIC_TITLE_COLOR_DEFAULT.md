@@ -1,7 +1,7 @@
 # switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_subject_color -->...<!-- END switch_subject_color -->`](switch_subject.switch_subject_color.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_subject -->
@@ -11,14 +11,15 @@ Attribut d'affichage de [`<!-- BEGIN switch_subject_color -->...<!-- END switch_
 <!-- END switch_subject -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ ligne [`145`](../tpl/src/punbb/posting_body.tpl#L145)
-* __[`posting_body_wysiwyg`](../tpl/var/punbb/posting_body_wysiwyg.md#readme) :__ ligne [`296`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L296)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`145`](../tpl/src/punbb/posting_body.tpl#L145)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`296`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L296)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ ligne [`151`](../tpl/src/subsilver/posting_body.tpl#L151)
-* __[`posting_body_wysiwyg`](../tpl/var/subsilver/posting_body_wysiwyg.md#readme) :__ ligne [`324`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L324)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`151`](../tpl/src/subsilver/posting_body.tpl#L151)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`324`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L324)

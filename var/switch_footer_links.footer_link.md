@@ -1,7 +1,7 @@
 # switch_footer_links.footer_link
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](switch_footer_links.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_footer_links -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_footer_links -->...<!-- END switch_f
 <!-- END switch_footer_links -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)
 
 ## Attributs
@@ -26,7 +27,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_footer_links -->...<!-- END switch_f
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`overall_footer_end`](../tpl/var/punbb/overall_footer_end.md#readme) :__ lignes [`19`](../tpl/src/punbb/overall_footer_end.tpl#L19)[`<->`](../tpl/src/punbb/overall_footer_end.tpl#L19-L22)[`22`](../tpl/src/punbb/overall_footer_end.tpl#L22)
+* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ lignes [`19`](../tpl/src/punbb/overall_footer_end.tpl#L19)[`<->`](../tpl/src/punbb/overall_footer_end.tpl#L19-L22)[`22`](../tpl/src/punbb/overall_footer_end.tpl#L22)
 
 ### Version phpBB2
-* __[`overall_footer_end`](../tpl/var/subsilver/overall_footer_end.md#readme) :__ lignes [`17`](../tpl/src/subsilver/overall_footer_end.tpl#L17)[`<->`](../tpl/src/subsilver/overall_footer_end.tpl#L17-L20)[`20`](../tpl/src/subsilver/overall_footer_end.tpl#L20)
+* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ lignes [`17`](../tpl/src/subsilver/overall_footer_end.tpl#L17)[`<->`](../tpl/src/subsilver/overall_footer_end.tpl#L17-L20)[`20`](../tpl/src/subsilver/overall_footer_end.tpl#L20)

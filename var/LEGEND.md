@@ -1,13 +1,13 @@
 # LEGEND
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md)
+* __Utilisation :__
 
 ```html
 {LEGEND}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/LEGEND)
+## Description[*](https://fa-tvars.appspot.com/var/LEGEND)
 Chaîne de texte.
 
 * __Contenu en français :__ `Légende`
@@ -15,7 +15,7 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_body`](../tpl/var/punbb/index_body.md#readme) :__ ligne [`84`](../tpl/src/punbb/index_body.tpl#L84)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`84`](../tpl/src/punbb/index_body.tpl#L84)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/var/subsilver/index_body.md#readme) :__ ligne [`203`](../tpl/src/subsilver/index_body.tpl#L203)
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`203`](../tpl/src/subsilver/index_body.tpl#L203)

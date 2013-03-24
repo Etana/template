@@ -1,7 +1,7 @@
 # member_row
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN member_row -->
@@ -9,7 +9,7 @@ contenu
 <!-- END member_row -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/member_row)
+## Description[*](https://fa-tvars.appspot.com/var/member_row)
 Bouclage sur les membres du groupe ( hormis le modérateur ).
 
 ## Attributs
@@ -35,7 +35,7 @@ Bouclage sur les membres du groupe ( hormis le modérateur ).
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/var/punbb/groupcp_info_body.md#readme) :__ lignes [`104`](../tpl/src/punbb/groupcp_info_body.tpl#L104)[`<->`](../tpl/src/punbb/groupcp_info_body.tpl#L104-L114)[`114`](../tpl/src/punbb/groupcp_info_body.tpl#L114)
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`104`](../tpl/src/punbb/groupcp_info_body.tpl#L104)[`<->`](../tpl/src/punbb/groupcp_info_body.tpl#L104-L114)[`114`](../tpl/src/punbb/groupcp_info_body.tpl#L114)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/subsilver/groupcp_info_body.md#readme) :__ lignes [`64`](../tpl/src/subsilver/groupcp_info_body.tpl#L64)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L64-L74)[`74`](../tpl/src/subsilver/groupcp_info_body.tpl#L74)
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`64`](../tpl/src/subsilver/groupcp_info_body.tpl#L64)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L64-L74)[`74`](../tpl/src/subsilver/groupcp_info_body.tpl#L74)

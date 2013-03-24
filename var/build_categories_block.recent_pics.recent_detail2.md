@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics.recent_detail2
-
-
-Attribut de bouclage de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](build_categories_block.recent_pics.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN build_categories_block -->
@@ -13,6 +13,7 @@ Attribut de bouclage de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`
 <!-- END build_categories_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail2)
 
 ## Attributs
@@ -26,4 +27,4 @@ Attribut de bouclage de [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/var/subsilver/album_index_body.md#readme) :__ lignes [`49`](../tpl/src/subsilver/album_index_body.tpl#L49)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L49-L58)[`58`](../tpl/src/subsilver/album_index_body.tpl#L58)
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`49`](../tpl/src/subsilver/album_index_body.tpl#L49)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L49-L58)[`58`](../tpl/src/subsilver/album_index_body.tpl#L58)

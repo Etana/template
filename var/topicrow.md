@@ -1,7 +1,7 @@
 # topicrow
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`modcp_body`](../tpl/var/modcp_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN topicrow -->
@@ -9,6 +9,7 @@ contenu
 <!-- END topicrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topicrow)
 
 ## Attributs
@@ -25,7 +26,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`modcp_body`](../tpl/var/punbb/modcp_body.md#readme) :__ lignes [`47`](../tpl/src/punbb/modcp_body.tpl#L47)[`<->`](../tpl/src/punbb/modcp_body.tpl#L47-L57)[`57`](../tpl/src/punbb/modcp_body.tpl#L57)
+* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ lignes [`47`](../tpl/src/punbb/modcp_body.tpl#L47)[`<->`](../tpl/src/punbb/modcp_body.tpl#L47-L57)[`57`](../tpl/src/punbb/modcp_body.tpl#L57)
 
 ### Version phpBB2
-* __[`modcp_body`](../tpl/var/subsilver/modcp_body.md#readme) :__ lignes [`21`](../tpl/src/subsilver/modcp_body.tpl#L21)[`<->`](../tpl/src/subsilver/modcp_body.tpl#L21-L31)[`31`](../tpl/src/subsilver/modcp_body.tpl#L31)
+* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ lignes [`21`](../tpl/src/subsilver/modcp_body.tpl#L21)[`<->`](../tpl/src/subsilver/modcp_body.tpl#L21-L31)[`31`](../tpl/src/subsilver/modcp_body.tpl#L31)

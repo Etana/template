@@ -1,18 +1,19 @@
 # L_BY_PHONECALL
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`donate`](../tpl/var/donate.md)
+* __Utilisation :__
 
 ```html
 {L_BY_PHONECALL}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_BY_PHONECALL)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`donate`](../tpl/var/punbb/donate.md#readme) :__ ligne [`64`](../tpl/src/punbb/donate.tpl#L64)
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`64`](../tpl/src/punbb/donate.tpl#L64)
 
 ### Version phpBB2
-* __[`donate`](../tpl/var/subsilver/donate.md#readme) :__ ligne [`72`](../tpl/src/subsilver/donate.tpl#L72)
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`72`](../tpl/src/subsilver/donate.tpl#L72)

@@ -1,7 +1,7 @@
 # switch_informations_menu
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_informations_menu -->
@@ -9,6 +9,7 @@ contenu
 <!-- END switch_informations_menu -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu)
 
 ## Attributs
@@ -33,7 +34,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/punbb/profile_add_body.md#readme) :__ lignes [`25`](../tpl/src/punbb/profile_add_body.tpl#L25)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L25-L141)[`141`](../tpl/src/punbb/profile_add_body.tpl#L141), [`397`](../tpl/src/punbb/profile_add_body.tpl#L397)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L397-L407)[`407`](../tpl/src/punbb/profile_add_body.tpl#L407)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`25`](../tpl/src/punbb/profile_add_body.tpl#L25)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L25-L141)[`141`](../tpl/src/punbb/profile_add_body.tpl#L141), [`397`](../tpl/src/punbb/profile_add_body.tpl#L397)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L397-L407)[`407`](../tpl/src/punbb/profile_add_body.tpl#L407)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/subsilver/profile_add_body.md#readme) :__ lignes [`8`](../tpl/src/subsilver/profile_add_body.tpl#L8)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L8-L85)[`85`](../tpl/src/subsilver/profile_add_body.tpl#L85)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`8`](../tpl/src/subsilver/profile_add_body.tpl#L8)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L8-L85)[`85`](../tpl/src/subsilver/profile_add_body.tpl#L85)

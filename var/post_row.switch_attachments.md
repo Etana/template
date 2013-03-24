@@ -1,7 +1,7 @@
 # post_row.switch_attachments
-
-
-Attribut de bouclage de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post_row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN post_row -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post
 <!-- END post_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.switch_attachments)
 
 ## Attributs
@@ -21,7 +22,7 @@ Attribut de bouclage de [`<!-- BEGIN post_row -->...<!-- END post_row -->`](post
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`14`](../tpl/src/punbb/mod_news.tpl#L14)[`<->`](../tpl/src/punbb/mod_news.tpl#L14-L49)[`49`](../tpl/src/punbb/mod_news.tpl#L49)
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`14`](../tpl/src/punbb/mod_news.tpl#L14)[`<->`](../tpl/src/punbb/mod_news.tpl#L14-L49)[`49`](../tpl/src/punbb/mod_news.tpl#L49)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`21`](../tpl/src/subsilver/mod_news.tpl#L21)[`<->`](../tpl/src/subsilver/mod_news.tpl#L21-L56)[`56`](../tpl/src/subsilver/mod_news.tpl#L56)
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`21`](../tpl/src/subsilver/mod_news.tpl#L21)[`<->`](../tpl/src/subsilver/mod_news.tpl#L21-L56)[`56`](../tpl/src/subsilver/mod_news.tpl#L56)

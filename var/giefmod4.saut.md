@@ -1,7 +1,7 @@
 # giefmod4.saut
-
-
-Attribut de bouclage de [`<!-- BEGIN giefmod4 -->...<!-- END giefmod4 -->`](giefmod4.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN giefmod4 -->
@@ -11,12 +11,13 @@ Attribut de bouclage de [`<!-- BEGIN giefmod4 -->...<!-- END giefmod4 -->`](gief
 <!-- END giefmod4 -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod4.saut)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`41`](../tpl/src/punbb/portal_body.tpl#L41)[`<->`](../tpl/src/punbb/portal_body.tpl#L41-L43)[`43`](../tpl/src/punbb/portal_body.tpl#L43)
+* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`41`](../tpl/src/punbb/portal_body.tpl#L41)[`<->`](../tpl/src/punbb/portal_body.tpl#L41-L43)[`43`](../tpl/src/punbb/portal_body.tpl#L43)
 
 ### Version phpBB2
-* __[`portal_body`](../tpl/var/subsilver/portal_body.md#readme) :__ lignes [`39`](../tpl/src/subsilver/portal_body.tpl#L39)[`<->`](../tpl/src/subsilver/portal_body.tpl#L39-L45)[`45`](../tpl/src/subsilver/portal_body.tpl#L45)
+* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`39`](../tpl/src/subsilver/portal_body.tpl#L39)[`<->`](../tpl/src/subsilver/portal_body.tpl#L39-L45)[`45`](../tpl/src/subsilver/portal_body.tpl#L45)

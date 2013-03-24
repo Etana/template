@@ -1,7 +1,7 @@
 # switch_compat_meta.VERSION
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_compat_meta -->...<!-- END switch_compat_meta -->`](switch_compat_meta.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_compat_meta -->
@@ -9,7 +9,7 @@ Attribut d'affichage de [`<!-- BEGIN switch_compat_meta -->...<!-- END switch_co
 <!-- END switch_compat_meta -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
+## Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
 Contient la version d'affichage de Internet Explorer pour la balise X-UA-Compatible.
 
 *Balise désactivée.*
@@ -17,7 +17,7 @@ Contient la version d'affichage de Internet Explorer pour la balise X-UA-Compati
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ ligne [`9`](../tpl/src/punbb/overall_header.tpl#L9)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`9`](../tpl/src/punbb/overall_header.tpl#L9)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ ligne [`9`](../tpl/src/subsilver/overall_header.tpl#L9)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`9`](../tpl/src/subsilver/overall_header.tpl#L9)

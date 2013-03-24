@@ -1,16 +1,16 @@
 # MENU_POSITION
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md)
+* __Utilisation :__
 
 ```html
 {MENU_POSITION}
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/MENU_POSITION)
+## Description[*](https://fa-tvars.appspot.com/var/MENU_POSITION)
 Position de la barre de navigation selon le choix de l'administrateur dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ lignes [`265`](../tpl/src/subsilver/overall_header.tpl#L265), [`267`](../tpl/src/subsilver/overall_header.tpl#L267)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`265`](../tpl/src/subsilver/overall_header.tpl#L265), [`267`](../tpl/src/subsilver/overall_header.tpl#L267)

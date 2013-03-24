@@ -1,7 +1,7 @@
 # list_pics_block.recent_pics.restore_row.norestore_pic
-
-
-Attribut de bouclage de [`<!-- BEGIN restore_row -->...<!-- END restore_row -->`](list_pics_block.recent_pics.restore_row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN list_pics_block -->
@@ -15,6 +15,7 @@ Attribut de bouclage de [`<!-- BEGIN restore_row -->...<!-- END restore_row -->`
 <!-- END list_pics_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.restore_row.norestore_pic)
 
 ## Attributs
@@ -24,4 +25,4 @@ Attribut de bouclage de [`<!-- BEGIN restore_row -->...<!-- END restore_row -->`
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`154`](../tpl/src/subsilver/album_cat_body.tpl#L154)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L154-L156)[`156`](../tpl/src/subsilver/album_cat_body.tpl#L156)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`154`](../tpl/src/subsilver/album_cat_body.tpl#L154)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L154-L156)[`156`](../tpl/src/subsilver/album_cat_body.tpl#L156)

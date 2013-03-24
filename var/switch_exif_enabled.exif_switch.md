@@ -1,7 +1,7 @@
 # switch_exif_enabled.exif_switch
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_exif_enabled -->...<!-- END switch_exif_enabled -->`](switch_exif_enabled.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_exif_enabled -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN switch_exif_enabled -->...<!-- END switch_e
 <!-- END switch_exif_enabled -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)
 
 ## Attributs
@@ -20,4 +21,4 @@ Attribut de bouclage de [`<!-- BEGIN switch_exif_enabled -->...<!-- END switch_e
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/subsilver/album_showpage_body.md#readme) :__ lignes [`353`](../tpl/src/subsilver/album_showpage_body.tpl#L353)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L353-L366)[`366`](../tpl/src/subsilver/album_showpage_body.tpl#L366)
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`353`](../tpl/src/subsilver/album_showpage_body.tpl#L353)[`<->`](../tpl/src/subsilver/album_showpage_body.tpl#L353-L366)[`366`](../tpl/src/subsilver/album_showpage_body.tpl#L366)

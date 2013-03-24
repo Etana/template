@@ -1,7 +1,7 @@
 # faq_block.faq_row
-
-
-Attribut de bouclage de [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](faq_block.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN faq_block -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](fa
 <!-- END faq_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
 
 ## Attributs
@@ -23,9 +24,9 @@ Attribut de bouclage de [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](fa
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`faq_dhtml`](../tpl/var/punbb/faq_dhtml.md#readme) :__ lignes [`35`](../tpl/src/punbb/faq_dhtml.tpl#L35)[`<->`](../tpl/src/punbb/faq_dhtml.tpl#L35-L40)[`40`](../tpl/src/punbb/faq_dhtml.tpl#L40)
-* __[`faq_body`](../tpl/var/punbb/faq_body.md#readme) :__ lignes [`39`](../tpl/src/punbb/faq_body.tpl#L39)[`<->`](../tpl/src/punbb/faq_body.tpl#L39-L45)[`45`](../tpl/src/punbb/faq_body.tpl#L45)
+* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ lignes [`35`](../tpl/src/punbb/faq_dhtml.tpl#L35)[`<->`](../tpl/src/punbb/faq_dhtml.tpl#L35-L40)[`40`](../tpl/src/punbb/faq_dhtml.tpl#L40)
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`39`](../tpl/src/punbb/faq_body.tpl#L39)[`<->`](../tpl/src/punbb/faq_body.tpl#L39-L45)[`45`](../tpl/src/punbb/faq_body.tpl#L45)
 
 ### Version phpBB2
-* __[`faq_dhtml`](../tpl/var/subsilver/faq_dhtml.md#readme) :__ lignes [`29`](../tpl/src/subsilver/faq_dhtml.tpl#L29)[`<->`](../tpl/src/subsilver/faq_dhtml.tpl#L29-L49)[`49`](../tpl/src/subsilver/faq_dhtml.tpl#L49)
-* __[`faq_body`](../tpl/var/subsilver/faq_body.md#readme) :__ lignes [`30`](../tpl/src/subsilver/faq_body.tpl#L30)[`<->`](../tpl/src/subsilver/faq_body.tpl#L30-L49)[`49`](../tpl/src/subsilver/faq_body.tpl#L49)
+* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ lignes [`29`](../tpl/src/subsilver/faq_dhtml.tpl#L29)[`<->`](../tpl/src/subsilver/faq_dhtml.tpl#L29-L49)[`49`](../tpl/src/subsilver/faq_dhtml.tpl#L49)
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`30`](../tpl/src/subsilver/faq_body.tpl#L30)[`<->`](../tpl/src/subsilver/faq_body.tpl#L30-L49)[`49`](../tpl/src/subsilver/faq_body.tpl#L49)

@@ -1,7 +1,7 @@
 # poll_option_rows.S_POLL_OPTION_NUM
-
-
-Attribut d'affichage de [`<!-- BEGIN poll_option_rows -->...<!-- END poll_option_rows -->`](poll_option_rows.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN poll_option_rows -->
@@ -9,12 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN poll_option_rows -->...<!-- END poll_option
 <!-- END poll_option_rows -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option_rows.S_POLL_OPTION_NUM)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_poll_body`](../tpl/var/punbb/posting_poll_body.md#readme) :__ lignes [`28`](../tpl/src/punbb/posting_poll_body.tpl#L28), [`29`](../tpl/src/punbb/posting_poll_body.tpl#L29)
+* __[`posting_poll_body`](../tpl/var/posting_poll_body.md#readme) :__ lignes [`28`](../tpl/src/punbb/posting_poll_body.tpl#L28), [`29`](../tpl/src/punbb/posting_poll_body.tpl#L29)
 
 ### Version phpBB2
-* __[`posting_poll_body`](../tpl/var/subsilver/posting_poll_body.md#readme) :__ lignes [`32`](../tpl/src/subsilver/posting_poll_body.tpl#L32), [`32`](../tpl/src/subsilver/posting_poll_body.tpl#L32)
+* __[`posting_poll_body`](../tpl/var/posting_poll_body.md#readme) :__ lignes [`32`](../tpl/src/subsilver/posting_poll_body.tpl#L32), [`32`](../tpl/src/subsilver/posting_poll_body.tpl#L32)

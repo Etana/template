@@ -1,7 +1,7 @@
 # switch_user_logged_in.switch_plus_menu
-
-
-Attribut de bouclage de [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](switch_user_logged_in.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_user_logged_in -->
@@ -11,9 +11,10 @@ Attribut de bouclage de [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch
 <!-- END switch_user_logged_in -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.switch_plus_menu)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`46`](../tpl/src/punbb/viewtopic_body.tpl#L46)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L46-L59)[`59`](../tpl/src/punbb/viewtopic_body.tpl#L59)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`46`](../tpl/src/punbb/viewtopic_body.tpl#L46)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L46-L59)[`59`](../tpl/src/punbb/viewtopic_body.tpl#L59)

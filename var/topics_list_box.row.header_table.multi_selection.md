@@ -1,7 +1,7 @@
 # topics_list_box.row.header_table.multi_selection
-
-
-Attribut de bouclage de [`<!-- BEGIN header_table -->...<!-- END header_table -->`](topics_list_box.row.header_table.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN topics_list_box -->
@@ -15,12 +15,13 @@ Attribut de bouclage de [`<!-- BEGIN header_table -->...<!-- END header_table --
 <!-- END topics_list_box -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.multi_selection)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/var/punbb/topics_list_box.md#readme) :__ lignes [`4`](../tpl/src/punbb/topics_list_box.tpl#L4)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L4-L23)[`23`](../tpl/src/punbb/topics_list_box.tpl#L23), [`26`](../tpl/src/punbb/topics_list_box.tpl#L26)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L26-L28)[`28`](../tpl/src/punbb/topics_list_box.tpl#L28)
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`4`](../tpl/src/punbb/topics_list_box.tpl#L4)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L4-L23)[`23`](../tpl/src/punbb/topics_list_box.tpl#L23), [`26`](../tpl/src/punbb/topics_list_box.tpl#L26)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L26-L28)[`28`](../tpl/src/punbb/topics_list_box.tpl#L28)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/var/subsilver/topics_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/topics_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L1-L20)[`20`](../tpl/src/subsilver/topics_list_box.tpl#L20), [`29`](../tpl/src/subsilver/topics_list_box.tpl#L29)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L29-L31)[`31`](../tpl/src/subsilver/topics_list_box.tpl#L31)
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/topics_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L1-L20)[`20`](../tpl/src/subsilver/topics_list_box.tpl#L20), [`29`](../tpl/src/subsilver/topics_list_box.tpl#L29)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L29-L31)[`31`](../tpl/src/subsilver/topics_list_box.tpl#L31)

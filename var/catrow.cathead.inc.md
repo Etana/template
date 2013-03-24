@@ -1,7 +1,7 @@
 # catrow.cathead.inc
-
-
-Attribut de bouclage de [`<!-- BEGIN cathead -->...<!-- END cathead -->`](catrow.cathead.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN catrow -->
@@ -13,6 +13,7 @@ Attribut de bouclage de [`<!-- BEGIN cathead -->...<!-- END cathead -->`](catrow
 <!-- END catrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.inc)
 
 ## Attributs
@@ -22,4 +23,4 @@ Attribut de bouclage de [`<!-- BEGIN cathead -->...<!-- END cathead -->`](catrow
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/var/subsilver/index_box.md#readme) :__ lignes [`30`](../tpl/src/subsilver/index_box.tpl#L30)[`<->`](../tpl/src/subsilver/index_box.tpl#L30-L32)[`32`](../tpl/src/subsilver/index_box.tpl#L32)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`30`](../tpl/src/subsilver/index_box.tpl#L30)[`<->`](../tpl/src/subsilver/index_box.tpl#L30-L32)[`32`](../tpl/src/subsilver/index_box.tpl#L32)

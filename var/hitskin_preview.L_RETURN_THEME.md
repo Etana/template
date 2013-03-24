@@ -1,7 +1,7 @@
 # hitskin_preview.L_RETURN_THEME
-
-
-Attribut d'affichage de [`<!-- BEGIN hitskin_preview -->...<!-- END hitskin_preview -->`](hitskin_preview.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN hitskin_preview -->
@@ -9,7 +9,7 @@ Attribut d'affichage de [`<!-- BEGIN hitskin_preview -->...<!-- END hitskin_prev
 <!-- END hitskin_preview -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.L_RETURN_THEME)
+## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.L_RETURN_THEME)
 Chaîne de texte.
 
 * __Contenu en français :__ `Retourner sur la fiche du thème`
@@ -17,7 +17,7 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`overall_header`](../tpl/var/punbb/overall_header.md#readme) :__ ligne [`204`](../tpl/src/punbb/overall_header.tpl#L204)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`204`](../tpl/src/punbb/overall_header.tpl#L204)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/var/subsilver/overall_header.md#readme) :__ ligne [`209`](../tpl/src/subsilver/overall_header.tpl#L209)
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`209`](../tpl/src/subsilver/overall_header.tpl#L209)

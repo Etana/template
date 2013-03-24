@@ -1,7 +1,7 @@
 # listrow.PRIVMSG_FOLDER_IMG
-
-
-Attribut d'affichage de [`<!-- BEGIN listrow -->...<!-- END listrow -->`](listrow.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN listrow -->
@@ -9,12 +9,13 @@ Attribut d'affichage de [`<!-- BEGIN listrow -->...<!-- END listrow -->`](listro
 <!-- END listrow -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/listrow.PRIVMSG_FOLDER_IMG)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`privmsgs_body`](../tpl/var/punbb/privmsgs_body.md#readme) :__ ligne [`62`](../tpl/src/punbb/privmsgs_body.tpl#L62)
+* __[`privmsgs_body`](../tpl/var/privmsgs_body.md#readme) :__ ligne [`62`](../tpl/src/punbb/privmsgs_body.tpl#L62)
 
 ### Version phpBB2
-* __[`privmsgs_body`](../tpl/var/subsilver/privmsgs_body.md#readme) :__ ligne [`62`](../tpl/src/subsilver/privmsgs_body.tpl#L62)
+* __[`privmsgs_body`](../tpl/var/privmsgs_body.md#readme) :__ ligne [`62`](../tpl/src/subsilver/privmsgs_body.tpl#L62)

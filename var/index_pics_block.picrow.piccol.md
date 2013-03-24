@@ -1,7 +1,7 @@
 # index_pics_block.picrow.piccol
-
-
-Attribut de bouclage de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](index_pics_block.picrow.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN index_pics_block -->
@@ -13,6 +13,7 @@ Attribut de bouclage de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](index_pi
 <!-- END index_pics_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.picrow.piccol)
 
 ## Attributs
@@ -34,7 +35,7 @@ Attribut de bouclage de [`<!-- BEGIN picrow -->...<!-- END picrow -->`](index_pi
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`36`](../tpl/src/punbb/album_cat_body.tpl#L36)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L36-L46)[`46`](../tpl/src/punbb/album_cat_body.tpl#L46)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`36`](../tpl/src/punbb/album_cat_body.tpl#L36)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L36-L46)[`46`](../tpl/src/punbb/album_cat_body.tpl#L46)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`54`](../tpl/src/subsilver/album_cat_body.tpl#L54)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L54-L74)[`74`](../tpl/src/subsilver/album_cat_body.tpl#L74)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`54`](../tpl/src/subsilver/album_cat_body.tpl#L54)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L54-L74)[`74`](../tpl/src/subsilver/album_cat_body.tpl#L74)

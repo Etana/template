@@ -1,7 +1,7 @@
 # navlinks.pic_backup_link
-
-
-Attribut de bouclage de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navlinks.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN navlinks -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navl
 <!-- END navlinks -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link)
 
 ## Attributs
@@ -21,7 +22,7 @@ Attribut de bouclage de [`<!-- BEGIN navlinks -->...<!-- END navlinks -->`](navl
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/punbb/album_cat_body.md#readme) :__ lignes [`171`](../tpl/src/punbb/album_cat_body.tpl#L171)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L171-L173)[`173`](../tpl/src/punbb/album_cat_body.tpl#L173)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`171`](../tpl/src/punbb/album_cat_body.tpl#L171)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L171-L173)[`173`](../tpl/src/punbb/album_cat_body.tpl#L173)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`319`](../tpl/src/subsilver/album_cat_body.tpl#L319)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L319-L323)[`323`](../tpl/src/subsilver/album_cat_body.tpl#L323)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`319`](../tpl/src/subsilver/album_cat_body.tpl#L319)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L319-L323)[`323`](../tpl/src/subsilver/album_cat_body.tpl#L323)

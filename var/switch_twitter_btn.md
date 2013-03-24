@@ -1,7 +1,7 @@
 # switch_twitter_btn
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`viewtopic_body`](../tpl/var/viewtopic_body.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_twitter_btn -->
@@ -9,13 +9,13 @@ contenu
 <!-- END switch_twitter_btn -->
 ```
 
-##Description[*](https://fa-tvars.appspot.com/var/switch_twitter_btn)
+## Description[*](https://fa-tvars.appspot.com/var/switch_twitter_btn)
 Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/punbb/viewtopic_body.md#readme) :__ lignes [`80`](../tpl/src/punbb/viewtopic_body.tpl#L80)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L80-L85)[`85`](../tpl/src/punbb/viewtopic_body.tpl#L85)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`80`](../tpl/src/punbb/viewtopic_body.tpl#L80)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L80-L85)[`85`](../tpl/src/punbb/viewtopic_body.tpl#L85)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/subsilver/viewtopic_body.md#readme) :__ lignes [`57`](../tpl/src/subsilver/viewtopic_body.tpl#L57)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L57-L62)[`62`](../tpl/src/subsilver/viewtopic_body.tpl#L62)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`57`](../tpl/src/subsilver/viewtopic_body.tpl#L57)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L57-L62)[`62`](../tpl/src/subsilver/viewtopic_body.tpl#L62)

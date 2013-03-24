@@ -1,7 +1,7 @@
 # switch_roll_dice.DICE_SCRIPT
-
-
-Attribut d'affichage de [`<!-- BEGIN switch_roll_dice -->...<!-- END switch_roll_dice -->`](switch_roll_dice.md#readme).
+* __Type :__ attribut d'affichage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN switch_roll_dice -->
@@ -9,14 +9,15 @@ Attribut d'affichage de [`<!-- BEGIN switch_roll_dice -->...<!-- END switch_roll
 <!-- END switch_roll_dice -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice.DICE_SCRIPT)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/punbb/posting_body.md#readme) :__ ligne [`530`](../tpl/src/punbb/posting_body.tpl#L530)
-* __[`posting_body_wysiwyg`](../tpl/var/punbb/posting_body_wysiwyg.md#readme) :__ ligne [`529`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L529)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`530`](../tpl/src/punbb/posting_body.tpl#L530)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`529`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L529)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/subsilver/posting_body.md#readme) :__ ligne [`610`](../tpl/src/subsilver/posting_body.tpl#L610)
-* __[`posting_body_wysiwyg`](../tpl/var/subsilver/posting_body_wysiwyg.md#readme) :__ ligne [`599`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L599)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`610`](../tpl/src/subsilver/posting_body.tpl#L610)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`599`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L599)

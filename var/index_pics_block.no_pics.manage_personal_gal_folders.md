@@ -1,7 +1,7 @@
 # index_pics_block.no_pics.manage_personal_gal_folders
-
-
-Attribut de bouclage de [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](index_pics_block.no_pics.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN index_pics_block -->
@@ -13,9 +13,10 @@ Attribut de bouclage de [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](index_
 <!-- END index_pics_block -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.manage_personal_gal_folders)
 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/subsilver/album_cat_body.md#readme) :__ lignes [`44`](../tpl/src/subsilver/album_cat_body.tpl#L44)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L44-L47)[`47`](../tpl/src/subsilver/album_cat_body.tpl#L47)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`44`](../tpl/src/subsilver/album_cat_body.tpl#L44)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L44-L47)[`47`](../tpl/src/subsilver/album_cat_body.tpl#L47)

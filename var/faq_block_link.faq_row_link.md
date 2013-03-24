@@ -1,7 +1,7 @@
 # faq_block_link.faq_row_link
-
-
-Attribut de bouclage de [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_link -->`](faq_block_link.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN faq_block_link -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_lin
 <!-- END faq_block_link -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)
 
 ## Attributs
@@ -21,7 +22,7 @@ Attribut de bouclage de [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_lin
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`faq_body`](../tpl/var/punbb/faq_body.md#readme) :__ lignes [`26`](../tpl/src/punbb/faq_body.tpl#L26)[`<->`](../tpl/src/punbb/faq_body.tpl#L26-L28)[`28`](../tpl/src/punbb/faq_body.tpl#L28)
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`26`](../tpl/src/punbb/faq_body.tpl#L26)[`<->`](../tpl/src/punbb/faq_body.tpl#L26-L28)[`28`](../tpl/src/punbb/faq_body.tpl#L28)
 
 ### Version phpBB2
-* __[`faq_body`](../tpl/var/subsilver/faq_body.md#readme) :__ lignes [`11`](../tpl/src/subsilver/faq_body.tpl#L11)[`<->`](../tpl/src/subsilver/faq_body.tpl#L11-L13)[`13`](../tpl/src/subsilver/faq_body.tpl#L13)
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`11`](../tpl/src/subsilver/faq_body.tpl#L11)[`<->`](../tpl/src/subsilver/faq_body.tpl#L11-L13)[`13`](../tpl/src/subsilver/faq_body.tpl#L13)

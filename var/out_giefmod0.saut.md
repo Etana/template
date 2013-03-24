@@ -1,7 +1,7 @@
 # out_giefmod0.saut
-
-
-Attribut de bouclage de [`<!-- BEGIN out_giefmod0 -->...<!-- END out_giefmod0 -->`](out_giefmod0.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN out_giefmod0 -->
@@ -11,9 +11,10 @@ Attribut de bouclage de [`<!-- BEGIN out_giefmod0 -->...<!-- END out_giefmod0 --
 <!-- END out_giefmod0 -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/out_giefmod0.saut)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/var/punbb/portal_body.md#readme) :__ lignes [`3`](../tpl/src/punbb/portal_body.tpl#L3)[`<->`](../tpl/src/punbb/portal_body.tpl#L3-L5)[`5`](../tpl/src/punbb/portal_body.tpl#L5)
+* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`3`](../tpl/src/punbb/portal_body.tpl#L3)[`<->`](../tpl/src/punbb/portal_body.tpl#L3-L5)[`5`](../tpl/src/punbb/portal_body.tpl#L5)

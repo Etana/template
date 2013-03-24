@@ -1,7 +1,7 @@
 # post_row
-
-
-Variable de bouclage.
+* __Type :__ variable de bouclage
+* __Disponible dans :__ [`mod_news`](../tpl/var/mod_news.md)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN post_row -->
@@ -9,6 +9,7 @@ contenu
 <!-- END post_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row)
 
 ## Attributs
@@ -30,7 +31,7 @@ contenu
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`mod_news`](../tpl/var/punbb/mod_news.md#readme) :__ lignes [`1`](../tpl/src/punbb/mod_news.tpl#L1)[`<->`](../tpl/src/punbb/mod_news.tpl#L1-L58)[`58`](../tpl/src/punbb/mod_news.tpl#L58)
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`1`](../tpl/src/punbb/mod_news.tpl#L1)[`<->`](../tpl/src/punbb/mod_news.tpl#L1-L58)[`58`](../tpl/src/punbb/mod_news.tpl#L58)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/var/subsilver/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1)[`<->`](../tpl/src/subsilver/mod_news.tpl#L1-L67)[`67`](../tpl/src/subsilver/mod_news.tpl#L67)
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1)[`<->`](../tpl/src/subsilver/mod_news.tpl#L1-L67)[`67`](../tpl/src/subsilver/mod_news.tpl#L67)

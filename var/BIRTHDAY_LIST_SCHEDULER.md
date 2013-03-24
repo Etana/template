@@ -1,18 +1,19 @@
 # BIRTHDAY_LIST_SCHEDULER
-
-
-Variable d'affichage.
+* __Type :__ variable d'affichage
+* __Disponible dans :__ [`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md)
+* __Utilisation :__
 
 ```html
 {BIRTHDAY_LIST_SCHEDULER}
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/BIRTHDAY_LIST_SCHEDULER)
 
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`calendar_scheduler_body`](../tpl/var/punbb/calendar_scheduler_body.md#readme) :__ ligne [`57`](../tpl/src/punbb/calendar_scheduler_body.tpl#L57)
+* __[`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme) :__ ligne [`57`](../tpl/src/punbb/calendar_scheduler_body.tpl#L57)
 
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/var/subsilver/calendar_scheduler_body.md#readme) :__ ligne [`55`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L55)
+* __[`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme) :__ ligne [`55`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L55)

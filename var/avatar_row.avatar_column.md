@@ -1,7 +1,7 @@
 # avatar_row.avatar_column
-
-
-Attribut de bouclage de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](avatar_row.md#readme).
+* __Type :__ attribut de bouclage
+* __Disponible dans :__ une boucle [`<!-- BEGIN "+parts[-2]+" -->...<!-- END "+parts[-2]+" -->`]("+".".join(parts[:-1])+".md#readme)
+* __Utilisation :__
 
 ```html
 <!-- BEGIN avatar_row -->
@@ -11,6 +11,7 @@ Attribut de bouclage de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](
 <!-- END avatar_row -->
 ```
 
+## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column)
 
 ## Attributs
@@ -22,7 +23,7 @@ Attribut de bouclage de [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/punbb/profile_avatar_gallery.md#readme) :__ lignes [`28`](../tpl/src/punbb/profile_avatar_gallery.tpl#L28)[`<->`](../tpl/src/punbb/profile_avatar_gallery.tpl#L28-L36)[`36`](../tpl/src/punbb/profile_avatar_gallery.tpl#L36)
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ lignes [`28`](../tpl/src/punbb/profile_avatar_gallery.tpl#L28)[`<->`](../tpl/src/punbb/profile_avatar_gallery.tpl#L28-L36)[`36`](../tpl/src/punbb/profile_avatar_gallery.tpl#L36)
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/var/subsilver/profile_avatar_gallery.md#readme) :__ lignes [`16`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L16)[`<->`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L16-L18)[`18`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L18)
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ lignes [`16`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L16)[`<->`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L16-L18)[`18`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L18)
