@@ -7,7 +7,8 @@ Variable d'affichage.
 {GROUP_NAME}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/GROUP_NAME)
+##Description[*](https://fa-tvars.appspot.com/var/GROUP_NAME)
+Remplacé par le nom du groupe dont on est sur la page.
 
 ## Utilisations dans les templates
 

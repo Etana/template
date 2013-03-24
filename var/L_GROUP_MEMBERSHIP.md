@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_GROUP_MEMBERSHIP}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_GROUP_MEMBERSHIP)
+##Description[*](https://fa-tvars.appspot.com/var/L_GROUP_MEMBERSHIP)
+Texte.
+
+* __Remplacement français :__ `Votre statut`
 
 ## Utilisations dans les templates
 

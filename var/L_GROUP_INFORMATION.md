@@ -7,7 +7,10 @@ Variable d'affichage.
 {L_GROUP_INFORMATION}
 ```
 
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_GROUP_INFORMATION)
+##Description[*](https://fa-tvars.appspot.com/var/L_GROUP_INFORMATION)
+Texte de la barre de titre de la page.
+
+* __Remplacement français :__ `Informations du groupe`
 
 ## Utilisations dans les templates
 
