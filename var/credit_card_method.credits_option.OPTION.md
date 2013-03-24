@@ -1,6 +1,6 @@
 # credit_card_method.credits_option.OPTION
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN credits_option -->...<!-- END credits_option -->`](https://github.com/Etana/template/blob/master/var/credits_option.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN credits_option -->...<!-- END credits_option -->`](https://github.com/Etana/template/blob/master/var/credit_card_method.credits_option.md#readme)
 * __Utilisation :__
 
 ```html

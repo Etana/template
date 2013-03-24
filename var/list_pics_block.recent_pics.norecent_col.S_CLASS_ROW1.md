@@ -1,6 +1,6 @@
 # list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN norecent_col -->...<!-- END norecent_col -->`](https://github.com/Etana/template/blob/master/var/norecent_col.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN norecent_col -->...<!-- END norecent_col -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.recent_pics.norecent_col.md#readme)
 * __Utilisation :__
 
 ```html

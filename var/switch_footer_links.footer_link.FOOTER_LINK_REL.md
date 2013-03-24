@@ -1,6 +1,6 @@
 # switch_footer_links.footer_link.FOOTER_LINK_REL
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN footer_link -->...<!-- END footer_link -->`](https://github.com/Etana/template/blob/master/var/footer_link.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN footer_link -->...<!-- END footer_link -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.footer_link.md#readme)
 * __Utilisation :__
 
 ```html

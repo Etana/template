@@ -1,6 +1,6 @@
 # message_admin_index.message_admin_titre.MES_TITRE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN message_admin_titre -->...<!-- END message_admin_titre -->`](https://github.com/Etana/template/blob/master/var/message_admin_titre.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN message_admin_titre -->...<!-- END message_admin_titre -->`](https://github.com/Etana/template/blob/master/var/message_admin_index.message_admin_titre.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_linked
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](https://github.com/Etana/template/blob/master/var/switch_fb_connect.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.switch_fb_connect.md#readme)
 * __Utilisation :__
 
 ```html

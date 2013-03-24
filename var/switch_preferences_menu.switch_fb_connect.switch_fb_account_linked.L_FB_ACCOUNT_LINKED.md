@@ -1,6 +1,6 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_account_linked -->...<!-- END switch_fb_account_linked -->`](https://github.com/Etana/template/blob/master/var/switch_fb_account_linked.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_account_linked -->...<!-- END switch_fb_account_linked -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.md#readme)
 * __Utilisation :__
 
 ```html

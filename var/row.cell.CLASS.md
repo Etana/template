@@ -1,6 +1,6 @@
 # row.cell.CLASS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN cell -->...<!-- END cell -->`](https://github.com/Etana/template/blob/master/var/cell.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN cell -->...<!-- END cell -->`](https://github.com/Etana/template/blob/master/var/row.cell.md#readme)
 * __Utilisation :__
 
 ```html

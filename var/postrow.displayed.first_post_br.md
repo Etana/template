@@ -1,6 +1,6 @@
 # postrow.displayed.first_post_br
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN displayed -->...<!-- END displayed -->`](https://github.com/Etana/template/blob/master/var/displayed.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN displayed -->...<!-- END displayed -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.md#readme)
 * __Utilisation :__
 
 ```html

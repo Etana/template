@@ -1,6 +1,6 @@
 # switch_roll_dice_old.row_replace.DICE_NAME
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN row_replace -->...<!-- END row_replace -->`](https://github.com/Etana/template/blob/master/var/row_replace.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN row_replace -->...<!-- END row_replace -->`](https://github.com/Etana/template/blob/master/var/switch_roll_dice_old.row_replace.md#readme)
 * __Utilisation :__
 
 ```html

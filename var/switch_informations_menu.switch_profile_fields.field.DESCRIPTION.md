@@ -1,6 +1,6 @@
 # switch_informations_menu.switch_profile_fields.field.DESCRIPTION
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN field -->...<!-- END field -->`](https://github.com/Etana/template/blob/master/var/field.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN field -->...<!-- END field -->`](https://github.com/Etana/template/blob/master/var/switch_informations_menu.switch_profile_fields.field.md#readme)
 * __Utilisation :__
 
 ```html

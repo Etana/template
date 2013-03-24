@@ -1,6 +1,6 @@
 # topics_list_box.row.header_table.pagination
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN header_table -->...<!-- END header_table -->`](https://github.com/Etana/template/blob/master/var/header_table.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN header_table -->...<!-- END header_table -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.header_table.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # index_pics_block.picrow.nopiccol.S_CLASS_ROW1
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN nopiccol -->...<!-- END nopiccol -->`](https://github.com/Etana/template/blob/master/var/nopiccol.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN nopiccol -->...<!-- END nopiccol -->`](https://github.com/Etana/template/blob/master/var/index_pics_block.picrow.nopiccol.md#readme)
 * __Utilisation :__
 
 ```html

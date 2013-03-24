@@ -1,6 +1,6 @@
 # build_categories_block.recent_pics.recent_detail.CAT_DESC
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN recent_detail -->...<!-- END recent_detail -->`](https://github.com/Etana/template/blob/master/var/recent_detail.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN recent_detail -->...<!-- END recent_detail -->`](https://github.com/Etana/template/blob/master/var/build_categories_block.recent_pics.recent_detail.md#readme)
 * __Utilisation :__
 
 ```html

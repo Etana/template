@@ -1,6 +1,6 @@
 # switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](https://github.com/Etana/template/blob/master/var/switch_fb_connect.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.switch_fb_connect.md#readme)
 * __Utilisation :__
 
 ```html

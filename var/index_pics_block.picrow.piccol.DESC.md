@@ -1,6 +1,6 @@
 # index_pics_block.picrow.piccol.DESC
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN piccol -->...<!-- END piccol -->`](https://github.com/Etana/template/blob/master/var/piccol.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN piccol -->...<!-- END piccol -->`](https://github.com/Etana/template/blob/master/var/index_pics_block.picrow.piccol.md#readme)
 * __Utilisation :__
 
 ```html

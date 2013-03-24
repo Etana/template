@@ -1,6 +1,6 @@
 # switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_register_not_display -->...<!-- END switch_register_not_display -->`](https://github.com/Etana/template/blob/master/var/switch_register_not_display.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_register_not_display -->...<!-- END switch_register_not_display -->`](https://github.com/Etana/template/blob/master/var/switch_informations_menu.switch_register_not_display.md#readme)
 * __Utilisation :__
 
 ```html

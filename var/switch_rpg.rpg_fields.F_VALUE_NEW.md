@@ -1,6 +1,6 @@
 # switch_rpg.rpg_fields.F_VALUE_NEW
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN rpg_fields -->...<!-- END rpg_fields -->`](https://github.com/Etana/template/blob/master/var/rpg_fields.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN rpg_fields -->...<!-- END rpg_fields -->`](https://github.com/Etana/template/blob/master/var/switch_rpg.rpg_fields.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # credit_card_method.switch_select_currency.select_currency
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_select_currency -->...<!-- END switch_select_currency -->`](https://github.com/Etana/template/blob/master/var/switch_select_currency.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_select_currency -->...<!-- END switch_select_currency -->`](https://github.com/Etana/template/blob/master/var/credit_card_method.switch_select_currency.md#readme)
 * __Utilisation :__
 
 ```html

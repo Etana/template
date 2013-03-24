@@ -1,6 +1,6 @@
 # topics_list_box.row.topic.table_sticky.L_TITLE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN table_sticky -->...<!-- END table_sticky -->`](https://github.com/Etana/template/blob/master/var/table_sticky.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN table_sticky -->...<!-- END table_sticky -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.topic.table_sticky.md#readme)
 * __Utilisation :__
 
 ```html

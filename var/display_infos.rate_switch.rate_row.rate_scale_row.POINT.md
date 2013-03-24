@@ -1,6 +1,6 @@
 # display_infos.rate_switch.rate_row.rate_scale_row.POINT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN rate_scale_row -->...<!-- END rate_scale_row -->`](https://github.com/Etana/template/blob/master/var/rate_scale_row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN rate_scale_row -->...<!-- END rate_scale_row -->`](https://github.com/Etana/template/blob/master/var/display_infos.rate_switch.rate_row.rate_scale_row.md#readme)
 * __Utilisation :__
 
 ```html

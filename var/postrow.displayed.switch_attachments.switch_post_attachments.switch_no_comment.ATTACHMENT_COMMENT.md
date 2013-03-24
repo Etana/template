@@ -1,6 +1,6 @@
 # postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_no_comment -->...<!-- END switch_no_comment -->`](https://github.com/Etana/template/blob/master/var/switch_no_comment.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_no_comment -->...<!-- END switch_no_comment -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.md#readme)
 * __Utilisation :__
 
 ```html

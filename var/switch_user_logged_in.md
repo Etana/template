@@ -10,15 +10,7 @@ contenu
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in)
-Variable de boucle ayant une valeur si l'utilisateur est connecté.
-
-* __Exemple d'utilisation :__
-
-```html
-<!-- BEGIN switch_user_logged_in -->
-contenu que l'utilisateur verra si il est connecté
-<!-- END switch_user_logged_in -->
-```
+Le contenu de la boucle est affiché si l'utilisateur est connecté.
 
 ## Attributs
 * __[`{switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}`](switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU.md#readme)__

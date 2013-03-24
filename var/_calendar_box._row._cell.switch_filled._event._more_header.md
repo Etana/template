@@ -1,6 +1,6 @@
 # _calendar_box._row._cell.switch_filled._event._more_header
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN _event -->...<!-- END _event -->`](https://github.com/Etana/template/blob/master/var/_event.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN _event -->...<!-- END _event -->`](https://github.com/Etana/template/blob/master/var/_calendar_box._row._cell.switch_filled._event.md#readme)
 * __Utilisation :__
 
 ```html

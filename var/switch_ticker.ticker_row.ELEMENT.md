@@ -1,6 +1,6 @@
 # switch_ticker.ticker_row.ELEMENT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN ticker_row -->...<!-- END ticker_row -->`](https://github.com/Etana/template/blob/master/var/ticker_row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN ticker_row -->...<!-- END ticker_row -->`](https://github.com/Etana/template/blob/master/var/switch_ticker.ticker_row.md#readme)
 * __Utilisation :__
 
 ```html

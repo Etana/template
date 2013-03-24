@@ -1,6 +1,6 @@
 # topics_list_box.row.bottom.multi_selection
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN bottom -->...<!-- END bottom -->`](https://github.com/Etana/template/blob/master/var/bottom.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN bottom -->...<!-- END bottom -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.bottom.md#readme)
 * __Utilisation :__
 
 ```html

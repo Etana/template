@@ -1,6 +1,6 @@
 # list_pics_block.legend_stat.L_LEGEND_STAT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN legend_stat -->...<!-- END legend_stat -->`](https://github.com/Etana/template/blob/master/var/legend_stat.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN legend_stat -->...<!-- END legend_stat -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.legend_stat.md#readme)
 * __Utilisation :__
 
 ```html

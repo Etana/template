@@ -1,6 +1,6 @@
 # list_pics_block.recent_pics.restore_row.restore_pic.RESTORE_PIC_LINK
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN restore_pic -->...<!-- END restore_pic -->`](https://github.com/Etana/template/blob/master/var/restore_pic.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN restore_pic -->...<!-- END restore_pic -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.recent_pics.restore_row.restore_pic.md#readme)
 * __Utilisation :__
 
 ```html

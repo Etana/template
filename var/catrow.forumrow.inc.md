@@ -1,6 +1,6 @@
 # catrow.forumrow.inc
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](https://github.com/Etana/template/blob/master/var/forumrow.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN forumrow -->...<!-- END forumrow -->`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.md#readme)
 * __Utilisation :__
 
 ```html

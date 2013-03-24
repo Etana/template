@@ -1,6 +1,6 @@
 # topics_list_box.row.bottom.COUNT_TOTAL_TOPICS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN bottom -->...<!-- END bottom -->`](https://github.com/Etana/template/blob/master/var/bottom.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN bottom -->...<!-- END bottom -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.bottom.md#readme)
 * __Utilisation :__
 
 ```html

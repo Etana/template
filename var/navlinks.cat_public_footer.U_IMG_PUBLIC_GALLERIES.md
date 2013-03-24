@@ -1,6 +1,6 @@
 # navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN cat_public_footer -->...<!-- END cat_public_footer -->`](https://github.com/Etana/template/blob/master/var/cat_public_footer.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN cat_public_footer -->...<!-- END cat_public_footer -->`](https://github.com/Etana/template/blob/master/var/navlinks.cat_public_footer.md#readme)
 * __Utilisation :__
 
 ```html

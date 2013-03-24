@@ -1,6 +1,6 @@
 # postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_vote_plus -->...<!-- END switch_vote_plus -->`](https://github.com/Etana/template/blob/master/var/switch_vote_plus.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_vote_plus -->...<!-- END switch_vote_plus -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.md#readme)
 * __Utilisation :__
 
 ```html

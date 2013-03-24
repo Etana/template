@@ -1,6 +1,6 @@
 # switch_privmsg.switch_privmsg_friend.L_OR_FRIEND
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_privmsg_friend -->...<!-- END switch_privmsg_friend -->`](https://github.com/Etana/template/blob/master/var/switch_privmsg_friend.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_privmsg_friend -->...<!-- END switch_privmsg_friend -->`](https://github.com/Etana/template/blob/master/var/switch_privmsg.switch_privmsg_friend.md#readme)
 * __Utilisation :__
 
 ```html

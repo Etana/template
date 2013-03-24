@@ -1,6 +1,6 @@
 # switch_topic_modif.switch_icon_checkbox.row.cell
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/switch_topic_modif.switch_icon_checkbox.row.md#readme)
 * __Utilisation :__
 
 ```html

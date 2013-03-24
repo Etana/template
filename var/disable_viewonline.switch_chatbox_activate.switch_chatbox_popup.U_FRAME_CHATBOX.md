@@ -1,6 +1,6 @@
 # disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_chatbox_popup -->...<!-- END switch_chatbox_popup -->`](https://github.com/Etana/template/blob/master/var/switch_chatbox_popup.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_chatbox_popup -->...<!-- END switch_chatbox_popup -->`](https://github.com/Etana/template/blob/master/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.md#readme)
 * __Utilisation :__
 
 ```html

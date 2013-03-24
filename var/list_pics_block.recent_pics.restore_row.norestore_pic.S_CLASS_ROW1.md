@@ -1,6 +1,6 @@
 # list_pics_block.recent_pics.restore_row.norestore_pic.S_CLASS_ROW1
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN norestore_pic -->...<!-- END norestore_pic -->`](https://github.com/Etana/template/blob/master/var/norestore_pic.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN norestore_pic -->...<!-- END norestore_pic -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.recent_pics.restore_row.norestore_pic.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_profile_advanced -->...<!-- END switch_profile_advanced -->`](https://github.com/Etana/template/blob/master/var/switch_profile_advanced.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_profile_advanced -->...<!-- END switch_profile_advanced -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.switch_profile_advanced.md#readme)
 * __Utilisation :__
 
 ```html

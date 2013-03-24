@@ -1,6 +1,6 @@
 # switch_search_results.search_results.L_CAT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN search_results -->...<!-- END search_results -->`](https://github.com/Etana/template/blob/master/var/search_results.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN search_results -->...<!-- END search_results -->`](https://github.com/Etana/template/blob/master/var/switch_search_results.search_results.md#readme)
 * __Utilisation :__
 
 ```html

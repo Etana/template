@@ -1,6 +1,6 @@
 # switch_attachment_list.attachments.switch_is_not_orphan.FILENAME
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_is_not_orphan -->...<!-- END switch_is_not_orphan -->`](https://github.com/Etana/template/blob/master/var/switch_is_not_orphan.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_is_not_orphan -->...<!-- END switch_is_not_orphan -->`](https://github.com/Etana/template/blob/master/var/switch_attachment_list.attachments.switch_is_not_orphan.md#readme)
 * __Utilisation :__
 
 ```html

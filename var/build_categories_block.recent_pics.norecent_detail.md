@@ -1,6 +1,6 @@
 # build_categories_block.recent_pics.norecent_detail
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](https://github.com/Etana/template/blob/master/var/recent_pics.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN recent_pics -->...<!-- END recent_pics -->`](https://github.com/Etana/template/blob/master/var/build_categories_block.recent_pics.md#readme)
 * __Utilisation :__
 
 ```html

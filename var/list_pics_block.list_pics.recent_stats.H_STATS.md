@@ -1,6 +1,6 @@
 # list_pics_block.list_pics.recent_stats.H_STATS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN recent_stats -->...<!-- END recent_stats -->`](https://github.com/Etana/template/blob/master/var/recent_stats.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN recent_stats -->...<!-- END recent_stats -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.list_pics.recent_stats.md#readme)
 * __Utilisation :__
 
 ```html

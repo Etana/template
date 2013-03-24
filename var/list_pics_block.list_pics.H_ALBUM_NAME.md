@@ -1,6 +1,6 @@
 # list_pics_block.list_pics.H_ALBUM_NAME
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN list_pics -->...<!-- END list_pics -->`](https://github.com/Etana/template/blob/master/var/list_pics.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN list_pics -->...<!-- END list_pics -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.list_pics.md#readme)
 * __Utilisation :__
 
 ```html

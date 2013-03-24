@@ -1,6 +1,6 @@
 # smilies_row.smilies_col.SMILEY_DESC
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN smilies_col -->...<!-- END smilies_col -->`](https://github.com/Etana/template/blob/master/var/smilies_col.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN smilies_col -->...<!-- END smilies_col -->`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.md#readme)
 * __Utilisation :__
 
 ```html

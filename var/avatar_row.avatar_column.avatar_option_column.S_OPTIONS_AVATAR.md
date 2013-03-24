@@ -1,6 +1,6 @@
 # avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN avatar_option_column -->...<!-- END avatar_option_column -->`](https://github.com/Etana/template/blob/master/var/avatar_option_column.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN avatar_option_column -->...<!-- END avatar_option_column -->`](https://github.com/Etana/template/blob/master/var/avatar_row.avatar_column.avatar_option_column.md#readme)
 * __Utilisation :__
 
 ```html

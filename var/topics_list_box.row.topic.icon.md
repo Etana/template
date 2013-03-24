@@ -1,6 +1,6 @@
 # topics_list_box.row.topic.icon
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN topic -->...<!-- END topic -->`](https://github.com/Etana/template/blob/master/var/topic.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN topic -->...<!-- END topic -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.topic.md#readme)
 * __Utilisation :__
 
 ```html

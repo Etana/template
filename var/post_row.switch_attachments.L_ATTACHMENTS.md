@@ -1,6 +1,6 @@
 # post_row.switch_attachments.L_ATTACHMENTS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](https://github.com/Etana/template/blob/master/var/switch_attachments.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](https://github.com/Etana/template/blob/master/var/post_row.switch_attachments.md#readme)
 * __Utilisation :__
 
 ```html

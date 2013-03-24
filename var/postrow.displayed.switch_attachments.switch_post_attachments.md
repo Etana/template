@@ -1,6 +1,6 @@
 # postrow.displayed.switch_attachments.switch_post_attachments
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](https://github.com/Etana/template/blob/master/var/switch_attachments.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_attachments -->...<!-- END switch_attachments -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.switch_attachments.md#readme)
 * __Utilisation :__
 
 ```html

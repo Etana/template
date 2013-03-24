@@ -1,6 +1,6 @@
 # postrow.displayed.switch_vote_active.switch_no_bar
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_vote_active -->...<!-- END switch_vote_active -->`](https://github.com/Etana/template/blob/master/var/switch_vote_active.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_vote_active -->...<!-- END switch_vote_active -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.switch_vote_active.md#readme)
 * __Utilisation :__
 
 ```html

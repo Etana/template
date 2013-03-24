@@ -1,6 +1,6 @@
 # faq_block.faq_row.FAQ_ANSWER
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN faq_row -->...<!-- END faq_row -->`](https://github.com/Etana/template/blob/master/var/faq_row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN faq_row -->...<!-- END faq_row -->`](https://github.com/Etana/template/blob/master/var/faq_block.faq_row.md#readme)
 * __Utilisation :__
 
 ```html

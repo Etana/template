@@ -1,6 +1,6 @@
 # switch_preferences_menu.switch_report.NO_REPORT_MAIL_NO
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_report -->...<!-- END switch_report -->`](https://github.com/Etana/template/blob/master/var/switch_report.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_report -->...<!-- END switch_report -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.switch_report.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # catrow.catfoot.inc.INC_CLASS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN inc -->...<!-- END inc -->`](https://github.com/Etana/template/blob/master/var/inc.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN inc -->...<!-- END inc -->`](https://github.com/Etana/template/blob/master/var/catrow.catfoot.inc.md#readme)
 * __Utilisation :__
 
 ```html

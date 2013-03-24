@@ -1,6 +1,6 @@
 # _calendar_box._row._cell.switch_filled.TOGGLE_ICON
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_filled -->...<!-- END switch_filled -->`](https://github.com/Etana/template/blob/master/var/switch_filled.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_filled -->...<!-- END switch_filled -->`](https://github.com/Etana/template/blob/master/var/_calendar_box._row._cell.switch_filled.md#readme)
 * __Utilisation :__
 
 ```html

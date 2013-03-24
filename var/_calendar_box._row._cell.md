@@ -1,6 +1,6 @@
 # _calendar_box._row._cell
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN _row -->...<!-- END _row -->`](https://github.com/Etana/template/blob/master/var/_row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN _row -->...<!-- END _row -->`](https://github.com/Etana/template/blob/master/var/_calendar_box._row.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # promot_trafic.link.U_HREF
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN link -->...<!-- END link -->`](https://github.com/Etana/template/blob/master/var/link.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN link -->...<!-- END link -->`](https://github.com/Etana/template/blob/master/var/promot_trafic.link.md#readme)
 * __Utilisation :__
 
 ```html

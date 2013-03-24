@@ -1,6 +1,6 @@
 # index_pics_block.picrow.piccol
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN picrow -->...<!-- END picrow -->`](https://github.com/Etana/template/blob/master/var/picrow.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN picrow -->...<!-- END picrow -->`](https://github.com/Etana/template/blob/master/var/index_pics_block.picrow.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # navlinks.cat_private_footer.U_USERS_PERSONAL_GALLERIES
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN cat_private_footer -->...<!-- END cat_private_footer -->`](https://github.com/Etana/template/blob/master/var/cat_private_footer.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN cat_private_footer -->...<!-- END cat_private_footer -->`](https://github.com/Etana/template/blob/master/var/navlinks.cat_private_footer.md#readme)
 * __Utilisation :__
 
 ```html

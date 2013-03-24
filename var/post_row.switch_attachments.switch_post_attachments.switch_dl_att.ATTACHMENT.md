@@ -1,6 +1,6 @@
 # post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_dl_att -->...<!-- END switch_dl_att -->`](https://github.com/Etana/template/blob/master/var/switch_dl_att.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_dl_att -->...<!-- END switch_dl_att -->`](https://github.com/Etana/template/blob/master/var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.md#readme)
 * __Utilisation :__
 
 ```html

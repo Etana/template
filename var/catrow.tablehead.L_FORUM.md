@@ -1,6 +1,6 @@
 # catrow.tablehead.L_FORUM
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](https://github.com/Etana/template/blob/master/var/tablehead.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN tablehead -->...<!-- END tablehead -->`](https://github.com/Etana/template/blob/master/var/catrow.tablehead.md#readme)
 * __Utilisation :__
 
 ```html

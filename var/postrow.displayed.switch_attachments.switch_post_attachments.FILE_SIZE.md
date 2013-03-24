@@ -1,6 +1,6 @@
 # postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](https://github.com/Etana/template/blob/master/var/switch_post_attachments.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_post_attachments -->...<!-- END switch_post_attachments -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.switch_attachments.switch_post_attachments.md#readme)
 * __Utilisation :__
 
 ```html

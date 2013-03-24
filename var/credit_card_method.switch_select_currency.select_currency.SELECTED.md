@@ -1,6 +1,6 @@
 # credit_card_method.switch_select_currency.select_currency.SELECTED
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN select_currency -->...<!-- END select_currency -->`](https://github.com/Etana/template/blob/master/var/select_currency.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN select_currency -->...<!-- END select_currency -->`](https://github.com/Etana/template/blob/master/var/credit_card_method.switch_select_currency.select_currency.md#readme)
 * __Utilisation :__
 
 ```html

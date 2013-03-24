@@ -1,6 +1,6 @@
 # list_pics_block.recent_pics.restore_row.restore_pic
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN restore_row -->...<!-- END restore_row -->`](https://github.com/Etana/template/blob/master/var/restore_row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN restore_row -->...<!-- END restore_row -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.recent_pics.restore_row.md#readme)
 * __Utilisation :__
 
 ```html

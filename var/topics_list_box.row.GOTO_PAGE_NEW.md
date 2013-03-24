@@ -1,6 +1,6 @@
 # topics_list_box.row.GOTO_PAGE_NEW
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.md#readme)
 * __Utilisation :__
 
 ```html

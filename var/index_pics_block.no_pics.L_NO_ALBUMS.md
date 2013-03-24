@@ -1,6 +1,6 @@
 # index_pics_block.no_pics.L_NO_ALBUMS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](https://github.com/Etana/template/blob/master/var/no_pics.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](https://github.com/Etana/template/blob/master/var/index_pics_block.no_pics.md#readme)
 * __Utilisation :__
 
 ```html

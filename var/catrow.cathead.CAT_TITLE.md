@@ -1,6 +1,6 @@
 # catrow.cathead.CAT_TITLE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN cathead -->...<!-- END cathead -->`](https://github.com/Etana/template/blob/master/var/cathead.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN cathead -->...<!-- END cathead -->`](https://github.com/Etana/template/blob/master/var/catrow.cathead.md#readme)
 * __Utilisation :__
 
 ```html

@@ -1,6 +1,6 @@
 # catrow.catfoot.INC_SPAN
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN catfoot -->...<!-- END catfoot -->`](https://github.com/Etana/template/blob/master/var/catfoot.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN catfoot -->...<!-- END catfoot -->`](https://github.com/Etana/template/blob/master/var/catrow.catfoot.md#readme)
 * __Utilisation :__
 
 ```html

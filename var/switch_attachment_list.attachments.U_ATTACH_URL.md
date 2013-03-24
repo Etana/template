@@ -1,6 +1,6 @@
 # switch_attachment_list.attachments.U_ATTACH_URL
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN attachments -->...<!-- END attachments -->`](https://github.com/Etana/template/blob/master/var/attachments.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN attachments -->...<!-- END attachments -->`](https://github.com/Etana/template/blob/master/var/switch_attachment_list.attachments.md#readme)
 * __Utilisation :__
 
 ```html

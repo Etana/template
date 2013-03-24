@@ -1,6 +1,6 @@
 # catrow.cathead.inc
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN cathead -->...<!-- END cathead -->`](https://github.com/Etana/template/blob/master/var/cathead.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN cathead -->...<!-- END cathead -->`](https://github.com/Etana/template/blob/master/var/catrow.cathead.md#readme)
 * __Utilisation :__
 
 ```html

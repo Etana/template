@@ -1,6 +1,6 @@
 # scrolling_row.recent_topic_row.switch_poster
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](https://github.com/Etana/template/blob/master/var/recent_topic_row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.recent_topic_row.md#readme)
 * __Utilisation :__
 
 ```html

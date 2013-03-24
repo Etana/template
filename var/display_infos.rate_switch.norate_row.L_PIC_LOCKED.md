@@ -1,6 +1,6 @@
 # display_infos.rate_switch.norate_row.L_PIC_LOCKED
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN norate_row -->...<!-- END norate_row -->`](https://github.com/Etana/template/blob/master/var/norate_row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN norate_row -->...<!-- END norate_row -->`](https://github.com/Etana/template/blob/master/var/display_infos.rate_switch.norate_row.md#readme)
 * __Utilisation :__
 
 ```html

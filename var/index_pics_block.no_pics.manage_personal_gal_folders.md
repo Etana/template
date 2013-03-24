@@ -1,6 +1,6 @@
 # index_pics_block.no_pics.manage_personal_gal_folders
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](https://github.com/Etana/template/blob/master/var/no_pics.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](https://github.com/Etana/template/blob/master/var/index_pics_block.no_pics.md#readme)
 * __Utilisation :__
 
 ```html

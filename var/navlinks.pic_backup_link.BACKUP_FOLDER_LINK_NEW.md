@@ -1,6 +1,6 @@
 # navlinks.pic_backup_link.BACKUP_FOLDER_LINK_NEW
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN pic_backup_link -->...<!-- END pic_backup_link -->`](https://github.com/Etana/template/blob/master/var/pic_backup_link.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN pic_backup_link -->...<!-- END pic_backup_link -->`](https://github.com/Etana/template/blob/master/var/navlinks.pic_backup_link.md#readme)
 * __Utilisation :__
 
 ```html

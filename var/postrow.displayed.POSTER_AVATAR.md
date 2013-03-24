@@ -1,6 +1,6 @@
 # postrow.displayed.POSTER_AVATAR
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN displayed -->...<!-- END displayed -->`](https://github.com/Etana/template/blob/master/var/displayed.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN displayed -->...<!-- END displayed -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.md#readme)
 * __Utilisation :__
 
 ```html

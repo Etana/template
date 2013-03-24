@@ -1,6 +1,6 @@
 # postrow.hidden.ROW_CLASS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN hidden -->...<!-- END hidden -->`](https://github.com/Etana/template/blob/master/var/hidden.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN hidden -->...<!-- END hidden -->`](https://github.com/Etana/template/blob/master/var/postrow.hidden.md#readme)
 * __Utilisation :__
 
 ```html

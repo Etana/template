@@ -1,6 +1,6 @@
 # scrolling_row.recent_topic_row.switch_poster.U_POSTER
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_poster -->...<!-- END switch_poster -->`](https://github.com/Etana/template/blob/master/var/switch_poster.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_poster -->...<!-- END switch_poster -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.recent_topic_row.switch_poster.md#readme)
 * __Utilisation :__
 
 ```html

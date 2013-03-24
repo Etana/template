@@ -1,6 +1,6 @@
 # pics_nav.prev.U_PICS_THUMB
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN prev -->...<!-- END prev -->`](https://github.com/Etana/template/blob/master/var/prev.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN prev -->...<!-- END prev -->`](https://github.com/Etana/template/blob/master/var/pics_nav.prev.md#readme)
 * __Utilisation :__
 
 ```html

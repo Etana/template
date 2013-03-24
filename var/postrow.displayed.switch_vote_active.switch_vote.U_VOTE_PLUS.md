@@ -1,6 +1,6 @@
 # postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_vote -->...<!-- END switch_vote -->`](https://github.com/Etana/template/blob/master/var/switch_vote.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_vote -->...<!-- END switch_vote -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.switch_vote_active.switch_vote.md#readme)
 * __Utilisation :__
 
 ```html

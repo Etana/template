@@ -1,6 +1,6 @@
 # switch_exif_enabled.exif_switch.exif_data
 * __Type :__ attribut de bouclage
-* __Disponible dans :__ une boucle [`<!-- BEGIN exif_switch -->...<!-- END exif_switch -->`](https://github.com/Etana/template/blob/master/var/exif_switch.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN exif_switch -->...<!-- END exif_switch -->`](https://github.com/Etana/template/blob/master/var/switch_exif_enabled.exif_switch.md#readme)
 * __Utilisation :__
 
 ```html

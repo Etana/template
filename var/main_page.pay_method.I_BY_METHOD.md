@@ -1,6 +1,6 @@
 # main_page.pay_method.I_BY_METHOD
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN pay_method -->...<!-- END pay_method -->`](https://github.com/Etana/template/blob/master/var/pay_method.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN pay_method -->...<!-- END pay_method -->`](https://github.com/Etana/template/blob/master/var/main_page.pay_method.md#readme)
 * __Utilisation :__
 
 ```html

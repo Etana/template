@@ -1,6 +1,6 @@
 # navlinks.stat_link.U_TOP10_LINK
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN stat_link -->...<!-- END stat_link -->`](https://github.com/Etana/template/blob/master/var/stat_link.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN stat_link -->...<!-- END stat_link -->`](https://github.com/Etana/template/blob/master/var/navlinks.stat_link.md#readme)
 * __Utilisation :__
 
 ```html

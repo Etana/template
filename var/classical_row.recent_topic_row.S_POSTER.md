@@ -1,6 +1,6 @@
 # classical_row.recent_topic_row.S_POSTER
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](https://github.com/Etana/template/blob/master/var/recent_topic_row.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN recent_topic_row -->...<!-- END recent_topic_row -->`](https://github.com/Etana/template/blob/master/var/classical_row.recent_topic_row.md#readme)
 * __Utilisation :__
 
 ```html

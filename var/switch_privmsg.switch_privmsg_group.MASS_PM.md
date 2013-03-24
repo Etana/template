@@ -1,6 +1,6 @@
 # switch_privmsg.switch_privmsg_group.MASS_PM
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_privmsg_group -->...<!-- END switch_privmsg_group -->`](https://github.com/Etana/template/blob/master/var/switch_privmsg_group.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_privmsg_group -->...<!-- END switch_privmsg_group -->`](https://github.com/Etana/template/blob/master/var/switch_privmsg.switch_privmsg_group.md#readme)
 * __Utilisation :__
 
 ```html

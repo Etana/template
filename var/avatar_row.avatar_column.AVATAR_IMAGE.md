@@ -1,6 +1,6 @@
 # avatar_row.avatar_column.AVATAR_IMAGE
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN avatar_column -->...<!-- END avatar_column -->`](https://github.com/Etana/template/blob/master/var/avatar_column.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN avatar_column -->...<!-- END avatar_column -->`](https://github.com/Etana/template/blob/master/var/avatar_row.avatar_column.md#readme)
 * __Utilisation :__
 
 ```html

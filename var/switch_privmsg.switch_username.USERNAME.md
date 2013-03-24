@@ -1,6 +1,6 @@
 # switch_privmsg.switch_username.USERNAME
 * __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_username -->...<!-- END switch_username -->`](https://github.com/Etana/template/blob/master/var/switch_username.md#readme)
+* __Disponible dans :__ une boucle [`<!-- BEGIN switch_username -->...<!-- END switch_username -->`](https://github.com/Etana/template/blob/master/var/switch_privmsg.switch_username.md#readme)
 * __Utilisation :__
 
 ```html
