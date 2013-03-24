@@ -24,7 +24,7 @@
 * [`{L_POSTER}`](https://github.com/Etana/template/blob/master/var/L_POSTER.md#readme)
 * [`{L_RATE}`](https://github.com/Etana/template/blob/master/var/L_RATE.md#readme)
 * [`{L_VIEW}`](https://github.com/Etana/template/blob/master/var/L_VIEW.md#readme)
-* [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
+* [`POSTER`](../../var/POSTER.md)
 * [`{THUMBNAIL}`](https://github.com/Etana/template/blob/master/var/THUMBNAIL.md#readme)
 * [`<!-- BEGIN switch_rank -->...<!-- END switch_rank -->`](https://github.com/Etana/template/blob/master/var/switch_rank.md#readme)
 * [`<!-- BEGIN switch_rate -->...<!-- END switch_rate -->`](https://github.com/Etana/template/blob/master/var/switch_rate.md#readme)

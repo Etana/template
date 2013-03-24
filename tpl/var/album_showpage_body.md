@@ -67,7 +67,7 @@
 * [`{PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/PIC_TITLE.md#readme)
 * [`{PIC_TYPE}`](https://github.com/Etana/template/blob/master/var/PIC_TYPE.md#readme)
 * [`{PIC_VIEW}`](https://github.com/Etana/template/blob/master/var/PIC_VIEW.md#readme)
-* [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
+* [`POSTER`](../../var/POSTER.md)
 * [`{PREV_PIC}`](https://github.com/Etana/template/blob/master/var/PREV_PIC.md#readme)
 * [`{SELECT_ACTION}`](https://github.com/Etana/template/blob/master/var/SELECT_ACTION.md#readme)
 * [`{SELECT_ACTION_NEW}`](https://github.com/Etana/template/blob/master/var/SELECT_ACTION_NEW.md#readme)

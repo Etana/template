@@ -40,7 +40,7 @@
 * [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
 * [`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme)
 * [`{POSTED}`](https://github.com/Etana/template/blob/master/var/POSTED.md#readme)
-* [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
+* [`POSTER`](../../var/POSTER.md)
 * [`{POSTS}`](https://github.com/Etana/template/blob/master/var/POSTS.md#readme)
 * [`{PREVIEW}`](https://github.com/Etana/template/blob/master/var/PREVIEW.md#readme)
 * [`{PREVIEW_NEW}`](https://github.com/Etana/template/blob/master/var/PREVIEW_NEW.md#readme)
