@@ -7,8 +7,10 @@
 {L_PENDING_MEMBERS}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_PENDING_MEMBERS)
+## Description[*](https://fa-tvars.appspot.com/var/L_PENDING_MEMBERS)
+Texte.
+  
+* __Remplacement français :__ `Membres en attente`
 
 ## Utilisations dans les templates
 

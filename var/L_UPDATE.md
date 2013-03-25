@@ -1,14 +1,16 @@
 # L_UPDATE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`profile_view_body`](../tpl/var/profile_view_body.md#readme)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`profile_view_body`](../tpl/var/profile_view_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_UPDATE}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_UPDATE)
+## Description[*](https://fa-tvars.appspot.com/var/L_UPDATE)
+Texte.
+  
+* __Remplacement français :__ `Mettre à jour`
 
 ## Utilisations dans les templates
 

@@ -755,6 +755,7 @@
 * [`{L_UNDER}`](https://github.com/Etana/template/blob/master/var/L_UNDER.md#readme)
 * [`{L_UNLOCK}`](https://github.com/Etana/template/blob/master/var/L_UNLOCK.md#readme)
 * [`{L_UNMARK_ALL}`](https://github.com/Etana/template/blob/master/var/L_UNMARK_ALL.md#readme)
+* [`{L_UNSUBSCRIBE}`](https://github.com/Etana/template/blob/master/var/L_UNSUBSCRIBE.md#readme)
 * [`{L_UNSUBSCRIBE_GROUP}`](https://github.com/Etana/template/blob/master/var/L_UNSUBSCRIBE_GROUP.md#readme)
 * [`{L_UPDATE}`](https://github.com/Etana/template/blob/master/var/L_UPDATE.md#readme)
 * [`{L_UPDATE_STATUS}`](https://github.com/Etana/template/blob/master/var/L_UPDATE_STATUS.md#readme)
