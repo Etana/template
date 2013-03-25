@@ -1,4 +1,4 @@
-# Template privmsgs_preview [1/15]
+# Template privmsgs_preview [2/15]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -42,7 +42,7 @@
 
 ### Positions phpBB2 
 
-* __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM">*</a> :__ ligne [`6`](../src/subsilver/privmsgs_preview.tpl#L6)
+* __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme) :__ ligne [`6`](../src/subsilver/privmsgs_preview.tpl#L6)
 * __[`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTED">*</a> :__ ligne [`14`](../src/subsilver/privmsgs_preview.tpl#L14)
 * __[`{L_PREVIEW}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PREVIEW">*</a> :__ ligne [`3`](../src/subsilver/privmsgs_preview.tpl#L3)
 * __[`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme) :__ ligne [`18`](../src/subsilver/privmsgs_preview.tpl#L18)

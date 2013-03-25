@@ -347,7 +347,6 @@
 * [`{L_FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCATION.md#readme)
 * [`{L_FORUM_RULES}`](https://github.com/Etana/template/blob/master/var/L_FORUM_RULES.md#readme)
 * [`{L_FRIENDS_AND_FOES}`](https://github.com/Etana/template/blob/master/var/L_FRIENDS_AND_FOES.md#readme)
-* [`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)
 * [`{L_FROM_OR_TO}`](https://github.com/Etana/template/blob/master/var/L_FROM_OR_TO.md#readme)
 * [`{L_FROM_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_FROM_TOPIC.md#readme)
 * [`{L_FROM_TOPIC_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_FROM_TOPIC_EXPLAIN.md#readme)

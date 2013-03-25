@@ -84,6 +84,7 @@
 * [`{L_FOLDER_STICKY_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_STICKY_IMG.md#readme)
 * [`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme)
 * [`{L_FORUM_LOCKED}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCKED.md#readme)
+* [`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)
 * [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)
 * [`{L_GOTO_DOWN}`](https://github.com/Etana/template/blob/master/var/L_GOTO_DOWN.md#readme)
 * [`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme)

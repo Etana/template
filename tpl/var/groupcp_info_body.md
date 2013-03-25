@@ -1,4 +1,4 @@
-# Template groupcp_info_body [85/146]
+# Template groupcp_info_body [87/146]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -103,7 +103,7 @@ Affichage des informations d'un groupe.
 * __[`{L_ADMIN_GRP_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_ADMIN_GRP_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADMIN_GRP_EXPLAIN">*</a> :__ ligne [`131`](../src/punbb/groupcp_info_body.tpl#L131)
 * __[`{L_EMAIL}`](https://github.com/Etana/template/blob/master/var/L_EMAIL.md#readme) :__ ligne [`82`](../src/punbb/groupcp_info_body.tpl#L82)
 * __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FIND_USERNAME">*</a> :__ ligne [`135`](../src/punbb/groupcp_info_body.tpl#L135)
-* __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM">*</a> :__ ligne [`81`](../src/punbb/groupcp_info_body.tpl#L81)
+* __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme) :__ ligne [`81`](../src/punbb/groupcp_info_body.tpl#L81)
 * __[`{L_GROUP_CLOSED}`](https://github.com/Etana/template/blob/master/var/L_GROUP_CLOSED.md#readme) :__ ligne [`57`](../src/punbb/groupcp_info_body.tpl#L57)
 * __[`{L_GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/L_GROUP_DESC.md#readme) :__ ligne [`39`](../src/punbb/groupcp_info_body.tpl#L39)
 * __[`{L_GROUP_HIDDEN}`](https://github.com/Etana/template/blob/master/var/L_GROUP_HIDDEN.md#readme) :__ ligne [`58`](../src/punbb/groupcp_info_body.tpl#L58)
@@ -194,7 +194,7 @@ Affichage des informations d'un groupe.
 * __[`{L_ADMIN_GRP_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_ADMIN_GRP_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADMIN_GRP_EXPLAIN">*</a> :__ ligne [`89`](../src/subsilver/groupcp_info_body.tpl#L89)
 * __[`{L_EMAIL}`](https://github.com/Etana/template/blob/master/var/L_EMAIL.md#readme) :__ ligne [`45`](../src/subsilver/groupcp_info_body.tpl#L45)
 * __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FIND_USERNAME">*</a> :__ ligne [`98`](../src/subsilver/groupcp_info_body.tpl#L98)
-* __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM">*</a> :__ ligne [`44`](../src/subsilver/groupcp_info_body.tpl#L44)
+* __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme) :__ ligne [`44`](../src/subsilver/groupcp_info_body.tpl#L44)
 * __[`{L_GROUP_CLOSED}`](https://github.com/Etana/template/blob/master/var/L_GROUP_CLOSED.md#readme) :__ ligne [`31`](../src/subsilver/groupcp_info_body.tpl#L31)
 * __[`{L_GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/L_GROUP_DESC.md#readme) :__ ligne [`11`](../src/subsilver/groupcp_info_body.tpl#L11)
 * __[`{L_GROUP_HIDDEN}`](https://github.com/Etana/template/blob/master/var/L_GROUP_HIDDEN.md#readme) :__ ligne [`31`](../src/subsilver/groupcp_info_body.tpl#L31)

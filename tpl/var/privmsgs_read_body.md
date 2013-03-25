@@ -1,4 +1,4 @@
-# Template privmsgs_read_body [24/105]
+# Template privmsgs_read_body [25/105]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -161,7 +161,7 @@
 * __[`{INBOX_IMG}`](https://github.com/Etana/template/blob/master/var/INBOX_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/INBOX_IMG">*</a> :__ ligne [`3`](../src/subsilver/privmsgs_read_body.tpl#L3)
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`111`](../src/subsilver/privmsgs_read_body.tpl#L111)
 * __[`{L_DELETE_MSG}`](https://github.com/Etana/template/blob/master/var/L_DELETE_MSG.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DELETE_MSG">*</a> :__ ligne [`89`](../src/subsilver/privmsgs_read_body.tpl#L89)
-* __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM">*</a> :__ ligne [`29`](../src/subsilver/privmsgs_read_body.tpl#L29)
+* __[`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme) :__ ligne [`29`](../src/subsilver/privmsgs_read_body.tpl#L29)
 * __[`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme) :__ ligne [`25`](../src/subsilver/privmsgs_read_body.tpl#L25)
 * __[`{L_MOVE_PROFILE}`](https://github.com/Etana/template/blob/master/var/L_MOVE_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE_PROFILE">*</a> :__ ligne [`87`](../src/subsilver/privmsgs_read_body.tpl#L87)
 * __[`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTED">*</a> :__ ligne [`40`](../src/subsilver/privmsgs_read_body.tpl#L40)
