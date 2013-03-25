@@ -10,7 +10,8 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_POSTS)
 Chaîne de texte.
 
-* __Contenu en français :__ `Messages` ou `Nombres de messages`
+* __Remplacement en français dans [`groupcp_info_body`](https://github.com/Etana/template/blob/master/tpl/var/groupcp_info_body.md#readme) et [`groupcp_pending_info`](https://github.com/Etana/template/blob/master/tpl/var/groupcp_pending_info.md#readme) :__ `Messages`
+* __Remplacement en français ailleurs :__ `Nombres de messages`
 
 ## Utilisations dans les templates
 

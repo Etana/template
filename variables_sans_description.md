@@ -328,7 +328,6 @@
 * [`{L_EDIT}`](https://github.com/Etana/template/blob/master/var/L_EDIT.md#readme)
 * [`{L_EDIT_PIC_INFO}`](https://github.com/Etana/template/blob/master/var/L_EDIT_PIC_INFO.md#readme)
 * [`{L_EDIT_SIGNATURE}`](https://github.com/Etana/template/blob/master/var/L_EDIT_SIGNATURE.md#readme)
-* [`{L_EMAIL}`](https://github.com/Etana/template/blob/master/var/L_EMAIL.md#readme)
 * [`{L_EMAIL_ADDRESS}`](https://github.com/Etana/template/blob/master/var/L_EMAIL_ADDRESS.md#readme)
 * [`{L_EMAIL_CAPTION}`](https://github.com/Etana/template/blob/master/var/L_EMAIL_CAPTION.md#readme)
 * [`{L_EMOTICONS}`](https://github.com/Etana/template/blob/master/var/L_EMOTICONS.md#readme)

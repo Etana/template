@@ -71,6 +71,7 @@
 * [`{L_CREDIT_ADD_TITLE}`](https://github.com/Etana/template/blob/master/var/L_CREDIT_ADD_TITLE.md#readme)
 * [`{L_DISPLAY_RESULTS}`](https://github.com/Etana/template/blob/master/var/L_DISPLAY_RESULTS.md#readme)
 * [`{L_DONT_DISPLAY_AGAIN}`](https://github.com/Etana/template/blob/master/var/L_DONT_DISPLAY_AGAIN.md#readme)
+* [`{L_EMAIL}`](https://github.com/Etana/template/blob/master/var/L_EMAIL.md#readme)
 * [`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme)
 * [`{L_FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_ANNOUNCE_IMG.md#readme)
 * [`{L_FOLDER_GLOBAL_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)

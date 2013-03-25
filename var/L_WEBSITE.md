@@ -10,7 +10,8 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_WEBSITE)
 Chaîne de texte.
 
-* __Contenu en français :__ `Site web`
+* __Remplacement de base en français :__ `Site web`
+* __Modification :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=users_groups,&mode=avatar_profil2&sub=users,&action=field_contact,?action=configuration&id=-10&mode=avatar_profil2&part=users_groups&sub=users) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=users_groups,&mode=avatar_profil2&sub=users,&action=field_contact,?action=configuration&id=-10&mode=avatar_profil2&part=users_groups&sub=users) > [`Utilisateurs & Groupes`](http://votre-forum.appspot.com/admin/?part=users_groups#&mode=avatar_profil2&sub=users,&action=field_contact,?action=configuration&id=-10&mode=avatar_profil2&part=users_groups&sub=users) > [`Utilisateurs | Profils`](http://votre-forum.appspot.com/admin/?mode=avatar_profil2&part=users_groups&sub=users#&action=field_contact,?action=configuration&id=-10&mode=avatar_profil2&part=users_groups&sub=users) > [`Champs contact`](http://votre-forum.appspot.com/admin/?action=field_contact&mode=avatar_profil2&part=users_groups&sub=users#?action=configuration&id=-10&mode=avatar_profil2&part=users_groups&sub=users) > [`Site web` | ![](http://illiweb.com/fa/admin/icones/editer.png)](http://votre-forum.appspot.com/admin/?action=configuration&id=-10&mode=avatar_profil2&part=users_groups&sub=users)
 
 ## Utilisations dans les templates
 
