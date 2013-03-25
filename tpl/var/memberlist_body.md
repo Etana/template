@@ -1,4 +1,4 @@
-# Template memberlist_body
+# Template memberlist_body [88/91]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -62,14 +62,14 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/memberlist_body.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/memberlist_body.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/memberlist_body.tpl#L7)
 * __[`{L_AVATAR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR.md#readme) :__ ligne [`63`](../src/punbb/memberlist_body.tpl#L63)
 * __[`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme) :__ ligne [`65`](../src/punbb/memberlist_body.tpl#L65)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`19`](../src/punbb/memberlist_body.tpl#L19)
 * __[`{L_INTERESTS}`](https://github.com/Etana/template/blob/master/var/L_INTERESTS.md#readme) :__ ligne [`67`](../src/punbb/memberlist_body.tpl#L67)
 * __[`{L_JOINED}`](https://github.com/Etana/template/blob/master/var/L_JOINED.md#readme) :__ ligne [`68`](../src/punbb/memberlist_body.tpl#L68)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`13`](../src/punbb/memberlist_body.tpl#L13)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`13`](../src/punbb/memberlist_body.tpl#L13)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`13`](../src/punbb/memberlist_body.tpl#L13)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`13`](../src/punbb/memberlist_body.tpl#L13)
 * __[`{L_ORDER}`](https://github.com/Etana/template/blob/master/var/L_ORDER.md#readme) :__ ligne [`47`](../src/punbb/memberlist_body.tpl#L47)
 * __[`{L_ORDER_OR_SELECT}`](https://github.com/Etana/template/blob/master/var/L_ORDER_OR_SELECT.md#readme) :__ ligne [`32`](../src/punbb/memberlist_body.tpl#L32)
 * __[`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme) :__ ligne [`71`](../src/punbb/memberlist_body.tpl#L71)

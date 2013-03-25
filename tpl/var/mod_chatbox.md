@@ -1,4 +1,4 @@
-# Template mod_chatbox
+# Template mod_chatbox [0/2]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -23,9 +23,9 @@
 
 ### Positions PunBB 
 
-* __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme) :__ ligne [`5`](../src/punbb/mod_chatbox.tpl#L5)
+* __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX">*</a> :__ ligne [`5`](../src/punbb/mod_chatbox.tpl#L5)
 
 
 ### Positions phpBB2 
 
-* __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme) :__ ligne [`6`](../src/subsilver/mod_chatbox.tpl#L6)
+* __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX">*</a> :__ ligne [`6`](../src/subsilver/mod_chatbox.tpl#L6)
