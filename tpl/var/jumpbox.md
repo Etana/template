@@ -1,4 +1,4 @@
-# Template jumpbox [8/8]
+# Template jumpbox
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)

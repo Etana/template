@@ -1,4 +1,4 @@
-# Template simple_header [23/23]
+# Template simple_header
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)

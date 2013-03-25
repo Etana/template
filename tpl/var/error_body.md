@@ -1,4 +1,4 @@
-# Template error_body [2/2]
+# Template error_body
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)

@@ -1,4 +1,4 @@
-# Template overall_footer_begin [17/17]
+# Template overall_footer_begin
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)

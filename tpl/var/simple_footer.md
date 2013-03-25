@@ -1,4 +1,4 @@
-# Template simple_footer [1/4]
+# Template simple_footer
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -26,7 +26,7 @@
 
 * __[`<!-- BEGIN html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme) :__ ligne [`1`](../src/subsilver/simple_footer.tpl#L1)
 * __[`<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme) :__ ligne [`8`](../src/subsilver/simple_footer.tpl#L8)
-* __[`<!-- BEGIN switch_view_stats -->`](https://github.com/Etana/template/blob/master/var/switch_view_stats.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_view_stats">*</a> :__ ligne [`14`](../src/subsilver/simple_footer.tpl#L14)
-    * __[`{switch_view_stats.L_STATS}`](https://github.com/Etana/template/blob/master/var/switch_view_stats.L_STATS.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_view_stats.L_STATS">*</a> :__ ligne [`15`](../src/subsilver/simple_footer.tpl#L15)
-    * __[`{switch_view_stats.S_STATS}`](https://github.com/Etana/template/blob/master/var/switch_view_stats.S_STATS.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_view_stats.S_STATS">*</a> :__ ligne [`15`](../src/subsilver/simple_footer.tpl#L15)
+* __[`<!-- BEGIN switch_view_stats -->`](https://github.com/Etana/template/blob/master/var/switch_view_stats.md#readme) :__ ligne [`14`](../src/subsilver/simple_footer.tpl#L14)
+    * __[`{switch_view_stats.L_STATS}`](https://github.com/Etana/template/blob/master/var/switch_view_stats.L_STATS.md#readme) :__ ligne [`15`](../src/subsilver/simple_footer.tpl#L15)
+    * __[`{switch_view_stats.S_STATS}`](https://github.com/Etana/template/blob/master/var/switch_view_stats.S_STATS.md#readme) :__ ligne [`15`](../src/subsilver/simple_footer.tpl#L15)
 * __[`<!-- END switch_view_stats -->`](https://github.com/Etana/template/blob/master/var/switch_view_stats.md#readme) :__ ligne [`16`](../src/subsilver/simple_footer.tpl#L16)

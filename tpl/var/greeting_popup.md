@@ -1,4 +1,4 @@
-# Template greeting_popup [9/9]
+# Template greeting_popup
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)

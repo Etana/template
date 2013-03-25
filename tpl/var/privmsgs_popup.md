@@ -1,4 +1,4 @@
-# Template privmsgs_popup [8/8]
+# Template privmsgs_popup
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)

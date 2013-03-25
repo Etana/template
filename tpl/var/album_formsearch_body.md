@@ -1,4 +1,4 @@
-# Template album_formsearch_body [28/34]
+# Template album_formsearch_body
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -46,11 +46,11 @@
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/album_formsearch_body.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/album_formsearch_body.tpl#L7)
-* __[`{L_GALLERIES}`](https://github.com/Etana/template/blob/master/var/L_GALLERIES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_GALLERIES">*</a> :__ ligne [`36`](../src/punbb/album_formsearch_body.tpl#L36)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/album_formsearch_body.tpl#L7)
+* __[`{L_GALLERIES}`](https://github.com/Etana/template/blob/master/var/L_GALLERIES.md#readme) :__ ligne [`36`](../src/punbb/album_formsearch_body.tpl#L36)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`16`](../src/punbb/album_formsearch_body.tpl#L16)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/album_formsearch_body.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/album_formsearch_body.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/album_formsearch_body.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/album_formsearch_body.tpl#L12)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`47`](../src/punbb/album_formsearch_body.tpl#L47)
 * __[`{L_SEARCH_KEYWORDS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_KEYWORDS.md#readme) :__ ligne [`27`](../src/punbb/album_formsearch_body.tpl#L27)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/album_formsearch_body.tpl#L4)
@@ -74,10 +74,10 @@
 
 ### Positions phpBB2 
 
-* __[`{L_GALLERIES}`](https://github.com/Etana/template/blob/master/var/L_GALLERIES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_GALLERIES">*</a> :__ ligne [`17`](../src/subsilver/album_formsearch_body.tpl#L17)
+* __[`{L_GALLERIES}`](https://github.com/Etana/template/blob/master/var/L_GALLERIES.md#readme) :__ ligne [`17`](../src/subsilver/album_formsearch_body.tpl#L17)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`25`](../src/subsilver/album_formsearch_body.tpl#L25)
 * __[`{L_SEARCH_KEYWORDS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_KEYWORDS.md#readme) :__ ligne [`7`](../src/subsilver/album_formsearch_body.tpl#L7)
-* __[`{L_SEARCH_KEYWORDS_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_KEYWORDS_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_KEYWORDS_EXPLAIN">*</a> :__ ligne [`8`](../src/subsilver/album_formsearch_body.tpl#L8)
+* __[`{L_SEARCH_KEYWORDS_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_KEYWORDS_EXPLAIN.md#readme) :__ ligne [`8`](../src/subsilver/album_formsearch_body.tpl#L8)
 * __[`{L_SEARCH_OPTIONS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_OPTIONS.md#readme) :__ ligne [`14`](../src/subsilver/album_formsearch_body.tpl#L14)
 * __[`{L_SEARCH_PREVIOUS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_PREVIOUS.md#readme) :__ ligne [`21`](../src/subsilver/album_formsearch_body.tpl#L21)
 * __[`{L_SEARCH_QUERY}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_QUERY.md#readme) :__ ligne [`4`](../src/subsilver/album_formsearch_body.tpl#L4)
