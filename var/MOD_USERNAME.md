@@ -1,14 +1,14 @@
 # MOD_USERNAME
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
 {MOD_USERNAME}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/MOD_USERNAME)
+## Description[*](https://fa-tvars.appspot.com/var/MOD_USERNAME)
+Code html du nom d'utilisateur du modérateur de groupe.
 
 ## Utilisations dans les templates
 
