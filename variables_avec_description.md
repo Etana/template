@@ -1,745 +1,375 @@
 # Variables de template avec description
-* 
 * [`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme)
-* 
 * [`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme)
-* 
 * [`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme)
-* 
 * [`{AUTO_DST}`](https://github.com/Etana/template/blob/master/var/AUTO_DST.md#readme)
-* 
 * [`{BOARD_INDEX}`](https://github.com/Etana/template/blob/master/var/BOARD_INDEX.md#readme)
-* 
 * [`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme)
-* 
 * [`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme)
-* 
 * [`{CHATBOX_BOTTOM}`](https://github.com/Etana/template/blob/master/var/CHATBOX_BOTTOM.md#readme)
-* 
 * [`{CHATBOX_TOP}`](https://github.com/Etana/template/blob/master/var/CHATBOX_TOP.md#readme)
-* 
 * [`{CHATTERS_LIST}`](https://github.com/Etana/template/blob/master/var/CHATTERS_LIST.md#readme)
-* 
 * [`{CLASS_CONTENT_CONTAINER}`](https://github.com/Etana/template/blob/master/var/CLASS_CONTENT_CONTAINER.md#readme)
-* 
 * [`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme)
-* 
 * [`{COLSPAN_PAGINATION}`](https://github.com/Etana/template/blob/master/var/COLSPAN_PAGINATION.md#readme)
-* 
 * [`{CSS}`](https://github.com/Etana/template/blob/master/var/CSS.md#readme)
-* 
 * [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
-* 
 * [`{DONATE_TEXT}`](https://github.com/Etana/template/blob/master/var/DONATE_TEXT.md#readme)
-* 
 * [`{DONATE_TITLE}`](https://github.com/Etana/template/blob/master/var/DONATE_TITLE.md#readme)
-* 
 * [`{DO_NOT_AGREE}`](https://github.com/Etana/template/blob/master/var/DO_NOT_AGREE.md#readme)
-* 
 * [`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme)
-* 
 * [`{FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_ANNOUNCE_IMG.md#readme)
-* 
 * [`{FOLDER_GLOBAL_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)
-* 
 * [`{FOLDER_HOT_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_HOT_IMG.md#readme)
-* 
 * [`{FOLDER_HOT_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_HOT_NEW_IMG.md#readme)
-* 
 * [`{FOLDER_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_IMG.md#readme)
-* 
 * [`{FOLDER_LOCKED_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_LOCKED_IMG.md#readme)
-* 
 * [`{FOLDER_LOCKED_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_LOCKED_NEW_IMG.md#readme)
-* 
 * [`{FOLDER_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_NEW_IMG.md#readme)
-* 
 * [`{FOLDER_STICKY_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_STICKY_IMG.md#readme)
-* 
 * [`{FORUM_ID}`](https://github.com/Etana/template/blob/master/var/FORUM_ID.md#readme)
-* 
 * [`{FORUM_IMG}`](https://github.com/Etana/template/blob/master/var/FORUM_IMG.md#readme)
-* 
 * [`{FORUM_LOCKED_IMG}`](https://github.com/Etana/template/blob/master/var/FORUM_LOCKED_IMG.md#readme)
-* 
 * [`{FORUM_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/FORUM_NEW_IMG.md#readme)
-* 
 * [`{FORUM_URL}`](https://github.com/Etana/template/blob/master/var/FORUM_URL.md#readme)
-* 
 * [`{GENERATED_NAV_BAR}`](https://github.com/Etana/template/blob/master/var/GENERATED_NAV_BAR.md#readme)
-* 
 * [`{GREETING_POPUP}`](https://github.com/Etana/template/blob/master/var/GREETING_POPUP.md#readme)
-* 
 * [`{GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/GROUP_DESC.md#readme)
-* 
 * [`{GROUP_DETAILS}`](https://github.com/Etana/template/blob/master/var/GROUP_DETAILS.md#readme)
-* 
 * [`{GROUP_LEGEND}`](https://github.com/Etana/template/blob/master/var/GROUP_LEGEND.md#readme)
-* 
 * [`{GROUP_NAME}`](https://github.com/Etana/template/blob/master/var/GROUP_NAME.md#readme)
-* 
 * [`{G_ANALYTICS_ID}`](https://github.com/Etana/template/blob/master/var/G_ANALYTICS_ID.md#readme)
-* 
 * [`{G_ANALYTICS_ID_BIS}`](https://github.com/Etana/template/blob/master/var/G_ANALYTICS_ID_BIS.md#readme)
-* 
 * [`{HOSTING_JS}`](https://github.com/Etana/template/blob/master/var/HOSTING_JS.md#readme)
-* 
 * [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
-* 
 * [`{ID_CONTENT_CONTAINER}`](https://github.com/Etana/template/blob/master/var/ID_CONTENT_CONTAINER.md#readme)
-* 
 * [`{ID_LEFT}`](https://github.com/Etana/template/blob/master/var/ID_LEFT.md#readme)
-* 
 * [`{ID_RIGHT}`](https://github.com/Etana/template/blob/master/var/ID_RIGHT.md#readme)
-* 
 * [`{JAVASCRIPT}`](https://github.com/Etana/template/blob/master/var/JAVASCRIPT.md#readme)
-* 
 * [`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme)
-* 
 * [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
-* 
 * [`{JS_HIDE_HIDDEN_MESSAGE}`](https://github.com/Etana/template/blob/master/var/JS_HIDE_HIDDEN_MESSAGE.md#readme)
-* 
 * [`{JS_MULTIQUOTE_IMG_OFF}`](https://github.com/Etana/template/blob/master/var/JS_MULTIQUOTE_IMG_OFF.md#readme)
-* 
 * [`{JS_MULTIQUOTE_IMG_ON}`](https://github.com/Etana/template/blob/master/var/JS_MULTIQUOTE_IMG_ON.md#readme)
-* 
 * [`{JS_SHOW_HIDDEN_MESSAGE}`](https://github.com/Etana/template/blob/master/var/JS_SHOW_HIDDEN_MESSAGE.md#readme)
-* 
 * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
-* 
 * [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
-* 
 * [`{LEGEND}`](https://github.com/Etana/template/blob/master/var/LEGEND.md#readme)
-* 
 * [`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme)
-* 
 * [`{LOGIN_POPUP_HEIGHT}`](https://github.com/Etana/template/blob/master/var/LOGIN_POPUP_HEIGHT.md#readme)
-* 
 * [`{LOGIN_POPUP_MSG}`](https://github.com/Etana/template/blob/master/var/LOGIN_POPUP_MSG.md#readme)
-* 
 * [`{LOGIN_POPUP_MSG_HEIGHT}`](https://github.com/Etana/template/blob/master/var/LOGIN_POPUP_MSG_HEIGHT.md#readme)
-* 
 * [`{LOGIN_POPUP_WIDTH}`](https://github.com/Etana/template/blob/master/var/LOGIN_POPUP_WIDTH.md#readme)
-* 
 * [`{LOGO}`](https://github.com/Etana/template/blob/master/var/LOGO.md#readme)
-* 
 * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
-* 
 * [`{L_AUTO_LOGIN}`](https://github.com/Etana/template/blob/master/var/L_AUTO_LOGIN.md#readme)
-* 
 * [`{L_AVATAR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR.md#readme)
-* 
 * [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
-* 
 * [`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template/blob/master/var/L_CFAQ_NOSCRIPT.md#readme)
-* 
 * [`{L_CLICK_TO_JOIN_CHAT}`](https://github.com/Etana/template/blob/master/var/L_CLICK_TO_JOIN_CHAT.md#readme)
-* 
 * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
-* 
 * [`{L_CREDIT_ADD_TITLE}`](https://github.com/Etana/template/blob/master/var/L_CREDIT_ADD_TITLE.md#readme)
-* 
 * [`{L_DISPLAY_RESULTS}`](https://github.com/Etana/template/blob/master/var/L_DISPLAY_RESULTS.md#readme)
-* 
 * [`{L_DONT_DISPLAY_AGAIN}`](https://github.com/Etana/template/blob/master/var/L_DONT_DISPLAY_AGAIN.md#readme)
-* 
 * [`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme)
-* 
 * [`{L_FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_ANNOUNCE_IMG.md#readme)
-* 
 * [`{L_FOLDER_GLOBAL_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)
-* 
 * [`{L_FOLDER_HOT_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_HOT_IMG.md#readme)
-* 
 * [`{L_FOLDER_HOT_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_HOT_NEW_IMG.md#readme)
-* 
 * [`{L_FOLDER_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_IMG.md#readme)
-* 
 * [`{L_FOLDER_LOCKED_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_LOCKED_IMG.md#readme)
-* 
 * [`{L_FOLDER_LOCKED_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_LOCKED_NEW_IMG.md#readme)
-* 
 * [`{L_FOLDER_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_NEW_IMG.md#readme)
-* 
 * [`{L_FOLDER_STICKY_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_STICKY_IMG.md#readme)
-* 
 * [`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme)
-* 
 * [`{L_FORUM_LOCKED}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCKED.md#readme)
-* 
 * [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)
-* 
 * [`{L_GOTO_DOWN}`](https://github.com/Etana/template/blob/master/var/L_GOTO_DOWN.md#readme)
-* 
 * [`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme)
-* 
 * [`{L_GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/L_GROUP_DESC.md#readme)
-* 
 * [`{L_GROUP_INFORMATION}`](https://github.com/Etana/template/blob/master/var/L_GROUP_INFORMATION.md#readme)
-* 
 * [`{L_GROUP_MEMBERSHIP}`](https://github.com/Etana/template/blob/master/var/L_GROUP_MEMBERSHIP.md#readme)
-* 
 * [`{L_GROUP_NAME}`](https://github.com/Etana/template/blob/master/var/L_GROUP_NAME.md#readme)
-* 
 * [`{L_GROUP_TYPE}`](https://github.com/Etana/template/blob/master/var/L_GROUP_TYPE.md#readme)
-* 
 * [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
-* 
 * [`{L_INTERESTS}`](https://github.com/Etana/template/blob/master/var/L_INTERESTS.md#readme)
-* 
 * [`{L_JOINED}`](https://github.com/Etana/template/blob/master/var/L_JOINED.md#readme)
-* 
 * [`{L_JUMP_TO}`](https://github.com/Etana/template/blob/master/var/L_JUMP_TO.md#readme)
-* 
 * [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
-* 
 * [`{L_LANG_HL}`](https://github.com/Etana/template/blob/master/var/L_LANG_HL.md#readme)
-* 
 * [`{L_LANG_HTML}`](https://github.com/Etana/template/blob/master/var/L_LANG_HTML.md#readme)
-* 
 * [`{L_LASTPOST}`](https://github.com/Etana/template/blob/master/var/L_LASTPOST.md#readme)
-* 
 * [`{L_LOGIN}`](https://github.com/Etana/template/blob/master/var/L_LOGIN.md#readme)
-* 
 * [`{L_MAKE_DONATION}`](https://github.com/Etana/template/blob/master/var/L_MAKE_DONATION.md#readme)
-* 
 * [`{L_MARK_ALL}`](https://github.com/Etana/template/blob/master/var/L_MARK_ALL.md#readme)
-* 
 * [`{L_MARK_FORUMS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_FORUMS_READ.md#readme)
-* 
 * [`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme)
-* 
 * [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
-* 
 * [`{L_MODERATOR}`](https://github.com/Etana/template/blob/master/var/L_MODERATOR.md#readme)
-* 
 * [`{L_NEW_POSTS}`](https://github.com/Etana/template/blob/master/var/L_NEW_POSTS.md#readme)
-* 
 * [`{L_NO}`](https://github.com/Etana/template/blob/master/var/L_NO.md#readme)
-* 
 * [`{L_NO_NEW_POSTS}`](https://github.com/Etana/template/blob/master/var/L_NO_NEW_POSTS.md#readme)
-* 
 * [`{L_ONLINE_IMG}`](https://github.com/Etana/template/blob/master/var/L_ONLINE_IMG.md#readme)
-* 
 * [`{L_ORDER}`](https://github.com/Etana/template/blob/master/var/L_ORDER.md#readme)
-* 
 * [`{L_ORDER_OR_SELECT}`](https://github.com/Etana/template/blob/master/var/L_ORDER_OR_SELECT.md#readme)
-* 
 * [`{L_OVERALL_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_OVERALL_POSTERS.md#readme)
-* 
 * [`{L_PASSWORD}`](https://github.com/Etana/template/blob/master/var/L_PASSWORD.md#readme)
-* 
 * [`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)
-* 
 * [`{L_POSTS}`](https://github.com/Etana/template/blob/master/var/L_POSTS.md#readme)
-* 
 * [`{L_POST_NEW_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_POST_NEW_TOPIC.md#readme)
-* 
 * [`{L_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_REGISTER.md#readme)
-* 
 * [`{L_REPLIES}`](https://github.com/Etana/template/blob/master/var/L_REPLIES.md#readme)
-* 
 * [`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme)
-* 
 * [`{L_SEARCH_ALL_TERMS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_ALL_TERMS.md#readme)
-* 
 * [`{L_SEARCH_ANY_TERMS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_ANY_TERMS.md#readme)
-* 
 * [`{L_SEARCH_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_AUTHOR.md#readme)
-* 
 * [`{L_SEARCH_KEYWORDS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_KEYWORDS.md#readme)
-* 
 * [`{L_SEARCH_MATCHES}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_MATCHES.md#readme)
-* 
 * [`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme)
-* 
 * [`{L_SEARCH_OPTIONS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_OPTIONS.md#readme)
-* 
 * [`{L_SEARCH_PREVIOUS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_PREVIOUS.md#readme)
-* 
 * [`{L_SEARCH_QUERY}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_QUERY.md#readme)
-* 
 * [`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme)
-* 
 * [`{L_SEARCH_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_TITLE.md#readme)
-* 
 * [`{L_SEARCH_UNANSWERED}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_UNANSWERED.md#readme)
-* 
 * [`{L_SELECT_SORT_METHOD}`](https://github.com/Etana/template/blob/master/var/L_SELECT_SORT_METHOD.md#readme)
-* 
 * [`{L_SORT_ASCENDING}`](https://github.com/Etana/template/blob/master/var/L_SORT_ASCENDING.md#readme)
-* 
 * [`{L_SORT_BY}`](https://github.com/Etana/template/blob/master/var/L_SORT_BY.md#readme)
-* 
 * [`{L_SORT_DESCENDING}`](https://github.com/Etana/template/blob/master/var/L_SORT_DESCENDING.md#readme)
-* 
 * [`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme)
-* 
 * [`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)
-* 
 * [`{L_SUBSCRIBE}`](https://github.com/Etana/template/blob/master/var/L_SUBSCRIBE.md#readme)
-* 
 * [`{L_TABS_PERMISSIONS}`](https://github.com/Etana/template/blob/master/var/L_TABS_PERMISSIONS.md#readme)
-* 
 * [`{L_TERMS_OF_SERVICE}`](https://github.com/Etana/template/blob/master/var/L_TERMS_OF_SERVICE.md#readme)
-* 
 * [`{L_TODAY_ACTIVE}`](https://github.com/Etana/template/blob/master/var/L_TODAY_ACTIVE.md#readme)
-* 
 * [`{L_TODAY_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_TODAY_POSTERS.md#readme)
-* 
 * [`{L_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_TOPIC.md#readme)
-* 
 * [`{L_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_TOPICS.md#readme)
-* 
 * [`{L_UNMARK_ALL}`](https://github.com/Etana/template/blob/master/var/L_UNMARK_ALL.md#readme)
-* 
 * [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)
-* 
 * [`{L_USER_SELECT}`](https://github.com/Etana/template/blob/master/var/L_USER_SELECT.md#readme)
-* 
 * [`{L_USER_SELECT_VALUE}`](https://github.com/Etana/template/blob/master/var/L_USER_SELECT_VALUE.md#readme)
-* 
 * [`{L_VIEWS}`](https://github.com/Etana/template/blob/master/var/L_VIEWS.md#readme)
-* 
 * [`{L_VISITED}`](https://github.com/Etana/template/blob/master/var/L_VISITED.md#readme)
-* 
 * [`{L_WEBSITE}`](https://github.com/Etana/template/blob/master/var/L_WEBSITE.md#readme)
-* 
 * [`{L_WHO_IS_ONLINE}`](https://github.com/Etana/template/blob/master/var/L_WHO_IS_ONLINE.md#readme)
-* 
 * [`{L_YES}`](https://github.com/Etana/template/blob/master/var/L_YES.md#readme)
-* 
 * [`{MAIN_SITENAME}`](https://github.com/Etana/template/blob/master/var/MAIN_SITENAME.md#readme)
-* 
 * [`{MENU_NOWRAP}`](https://github.com/Etana/template/blob/master/var/MENU_NOWRAP.md#readme)
-* 
 * [`{MENU_POSITION}`](https://github.com/Etana/template/blob/master/var/MENU_POSITION.md#readme)
-* 
 * [`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme)
-* 
 * [`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme)
-* 
 * [`{META}`](https://github.com/Etana/template/blob/master/var/META.md#readme)
-* 
 * [`{META_FAVICO}`](https://github.com/Etana/template/blob/master/var/META_FAVICO.md#readme)
-* 
 * [`{MODERATORS}`](https://github.com/Etana/template/blob/master/var/MODERATORS.md#readme)
-* 
 * [`{MY_RULES}`](https://github.com/Etana/template/blob/master/var/MY_RULES.md#readme)
-* 
 * [`{NAMESPACE_FB}`](https://github.com/Etana/template/blob/master/var/NAMESPACE_FB.md#readme)
-* 
 * [`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme)
-* 
 * [`{NAV_CAT_DESC_SECOND}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC_SECOND.md#readme)
-* 
 * [`{NEWEST_USER}`](https://github.com/Etana/template/blob/master/var/NEWEST_USER.md#readme)
-* 
 * [`{OPTIONAL_BAN}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN.md#readme)
-* 
 * [`{PAGE_NUMBER}`](https://github.com/Etana/template/blob/master/var/PAGE_NUMBER.md#readme)
-* 
 * [`{PAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/PAGE_TITLE.md#readme)
-* 
 * [`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)
-* 
 * [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
-* 
 * [`{POST_IMG}`](https://github.com/Etana/template/blob/master/var/POST_IMG.md#readme)
-* 
 * [`{POST_IMG_ID}`](https://github.com/Etana/template/blob/master/var/POST_IMG_ID.md#readme)
-* 
 * [`{RECORD_USERS}`](https://github.com/Etana/template/blob/master/var/RECORD_USERS.md#readme)
-* 
 * [`{REGISTRATION}`](https://github.com/Etana/template/blob/master/var/REGISTRATION.md#readme)
-* 
 * [`{SEARCH_FORUMS}`](https://github.com/Etana/template/blob/master/var/SEARCH_FORUMS.md#readme)
-* 
 * [`{SEARCH_FORUM_URL}`](https://github.com/Etana/template/blob/master/var/SEARCH_FORUM_URL.md#readme)
-* 
 * [`{SITENAME}`](https://github.com/Etana/template/blob/master/var/SITENAME.md#readme)
-* 
 * [`{SITENAME_TITLE}`](https://github.com/Etana/template/blob/master/var/SITENAME_TITLE.md#readme)
-* 
 * [`{SITE_DESCRIPTION}`](https://github.com/Etana/template/blob/master/var/SITE_DESCRIPTION.md#readme)
-* 
 * [`{SPACER}`](https://github.com/Etana/template/blob/master/var/SPACER.md#readme)
-* 
 * [`{SPACE_ROW}`](https://github.com/Etana/template/blob/master/var/SPACE_ROW.md#readme)
-* 
 * [`{S_ACTION}`](https://github.com/Etana/template/blob/master/var/S_ACTION.md#readme)
-* 
 * [`{S_AUTH_LIST}`](https://github.com/Etana/template/blob/master/var/S_AUTH_LIST.md#readme)
-* 
 * [`{S_CONFIRM_ACTION}`](https://github.com/Etana/template/blob/master/var/S_CONFIRM_ACTION.md#readme)
-* 
 * [`{S_CONTENT_DIRECTION}`](https://github.com/Etana/template/blob/master/var/S_CONTENT_DIRECTION.md#readme)
-* 
 * [`{S_CONTENT_ENCODING}`](https://github.com/Etana/template/blob/master/var/S_CONTENT_ENCODING.md#readme)
-* 
 * [`{S_CREDITS_ADD_ACTION}`](https://github.com/Etana/template/blob/master/var/S_CREDITS_ADD_ACTION.md#readme)
-* 
 * [`{S_FORUM_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_FORUM_OPTIONS.md#readme)
-* 
 * [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
-* 
 * [`{S_HIDDEN_SID}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_SID.md#readme)
-* 
 * [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme)
-* 
 * [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme)
-* 
 * [`{S_LOGIN_ACTION}`](https://github.com/Etana/template/blob/master/var/S_LOGIN_ACTION.md#readme)
-* 
 * [`{S_MODE_ACTION}`](https://github.com/Etana/template/blob/master/var/S_MODE_ACTION.md#readme)
-* 
 * [`{S_MODE_SELECT}`](https://github.com/Etana/template/blob/master/var/S_MODE_SELECT.md#readme)
-* 
 * [`{S_ORDER_SELECT}`](https://github.com/Etana/template/blob/master/var/S_ORDER_SELECT.md#readme)
-* 
 * [`{S_SEARCH_ACTION}`](https://github.com/Etana/template/blob/master/var/S_SEARCH_ACTION.md#readme)
-* 
 * [`{S_SORT_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_SORT_OPTIONS.md#readme)
-* 
 * [`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme)
-* 
 * [`{S_TIME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_TIME_OPTIONS.md#readme)
-* 
 * [`{S_WATCH_FORUM}`](https://github.com/Etana/template/blob/master/var/S_WATCH_FORUM.md#readme)
-* 
 * [`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme)
-* 
 * [`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme)
-* 
 * [`{TERMS_OF_SERVICE}`](https://github.com/Etana/template/blob/master/var/TERMS_OF_SERVICE.md#readme)
-* 
 * [`{TOPICS_LIST_BOX}`](https://github.com/Etana/template/blob/master/var/TOPICS_LIST_BOX.md#readme)
-* 
 * [`{TOTAL_CHATTERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_CHATTERS_ONLINE.md#readme)
-* 
 * [`{TOTAL_POSTS}`](https://github.com/Etana/template/blob/master/var/TOTAL_POSTS.md#readme)
-* 
 * [`{TOTAL_USERS}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS.md#readme)
-* 
 * [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)
-* 
 * [`{T_BODY_BACKGROUND}`](https://github.com/Etana/template/blob/master/var/T_BODY_BACKGROUND.md#readme)
-* 
 * [`{T_BODY_BGCOLOR}`](https://github.com/Etana/template/blob/master/var/T_BODY_BGCOLOR.md#readme)
-* 
 * [`{T_BODY_LINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_LINK.md#readme)
-* 
 * [`{T_BODY_TABLE_WIDTH}`](https://github.com/Etana/template/blob/master/var/T_BODY_TABLE_WIDTH.md#readme)
-* 
 * [`{T_BODY_TEXT}`](https://github.com/Etana/template/blob/master/var/T_BODY_TEXT.md#readme)
-* 
 * [`{T_BODY_VLINK}`](https://github.com/Etana/template/blob/master/var/T_BODY_VLINK.md#readme)
-* 
 * [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
-* 
 * [`{UCP_TABS}`](https://github.com/Etana/template/blob/master/var/UCP_TABS.md#readme)
-* 
 * [`{URL_BOARD_DIRECTORY}`](https://github.com/Etana/template/blob/master/var/URL_BOARD_DIRECTORY.md#readme)
-* 
 * [`{U_AGREE_OVER13}`](https://github.com/Etana/template/blob/master/var/U_AGREE_OVER13.md#readme)
-* 
 * [`{U_CFAQ_JSLIB}`](https://github.com/Etana/template/blob/master/var/U_CFAQ_JSLIB.md#readme)
-* 
 * [`{U_EGOSEARCH_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_EGOSEARCH_JS_PLUS_MENU.md#readme)
-* 
 * [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
-* 
 * [`{U_MARK_READ}`](https://github.com/Etana/template/blob/master/var/U_MARK_READ.md#readme)
-* 
 * [`{U_NEWPOSTS_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_NEWPOSTS_JS_PLUS_MENU.md#readme)
-* 
 * [`{U_OVERALL_POSTERS}`](https://github.com/Etana/template/blob/master/var/U_OVERALL_POSTERS.md#readme)
-* 
 * [`{U_POST_NEW_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_POST_NEW_TOPIC.md#readme)
-* 
 * [`{U_PRIVATEMSGS}`](https://github.com/Etana/template/blob/master/var/U_PRIVATEMSGS.md#readme)
-* 
 * [`{U_PRIVATEMSGS_POPUP}`](https://github.com/Etana/template/blob/master/var/U_PRIVATEMSGS_POPUP.md#readme)
-* 
 * [`{U_REGISTER}`](https://github.com/Etana/template/blob/master/var/U_REGISTER.md#readme)
-* 
 * [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
-* 
 * [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
-* 
 * [`{U_SEARCH_UNANSWERED}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_UNANSWERED.md#readme)
-* 
 * [`{U_TELLFRIEND_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_TELLFRIEND_JS_PLUS_MENU.md#readme)
-* 
 * [`{U_TODAY_ACTIVE}`](https://github.com/Etana/template/blob/master/var/U_TODAY_ACTIVE.md#readme)
-* 
 * [`{U_TODAY_POSTERS}`](https://github.com/Etana/template/blob/master/var/U_TODAY_POSTERS.md#readme)
-* 
 * [`{U_UNANSWERED_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_UNANSWERED_JS_PLUS_MENU.md#readme)
-* 
 * [`{U_VIEWONLINE}`](https://github.com/Etana/template/blob/master/var/U_VIEWONLINE.md#readme)
-* 
 * [`{U_WATCHSEARCH_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_WATCHSEARCH_JS_PLUS_MENU.md#readme)
-* 
 * [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline -->`](https://github.com/Etana/template/blob/master/var/disable_viewonline.md#readme)
-* 
 * [`<!-- BEGIN giefmod_index1 -->...<!-- END giefmod_index1 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index1.md#readme)
-    * 
     * [`{giefmod_index1.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod_index1.MODVAR.md#readme)
-    * 
     * [`<!-- BEGIN saut -->...<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod_index1.saut.md#readme)
-* 
 * [`<!-- BEGIN giefmod_index2 -->...<!-- END giefmod_index2 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.md#readme)
-    * 
     * [`{giefmod_index2.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod_index2.MODVAR.md#readme)
-    * 
     * [`<!-- BEGIN saut -->...<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.saut.md#readme)
-* 
 * [`<!-- BEGIN google_analytics_code -->...<!-- END google_analytics_code -->`](https://github.com/Etana/template/blob/master/var/google_analytics_code.md#readme)
-    * 
     * [`<!-- BEGIN google_analytics_code_bis -->...<!-- END google_analytics_code_bis -->`](https://github.com/Etana/template/blob/master/var/google_analytics_code.google_analytics_code_bis.md#readme)
-* 
 * [`<!-- BEGIN hitskin_preview -->...<!-- END hitskin_preview -->`](https://github.com/Etana/template/blob/master/var/hitskin_preview.md#readme)
-    * 
     * [`{hitskin_preview.L_RETURN_THEME}`](https://github.com/Etana/template/blob/master/var/hitskin_preview.L_RETURN_THEME.md#readme)
-    * 
     * [`{hitskin_preview.L_THEME_SITE_PREVIEW}`](https://github.com/Etana/template/blob/master/var/hitskin_preview.L_THEME_SITE_PREVIEW.md#readme)
-    * 
     * [`{hitskin_preview.U_INSTALL_THEME}`](https://github.com/Etana/template/blob/master/var/hitskin_preview.U_INSTALL_THEME.md#readme)
-    * 
     * [`{hitskin_preview.U_RETURN_THEME}`](https://github.com/Etana/template/blob/master/var/hitskin_preview.U_RETURN_THEME.md#readme)
-* 
 * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
 * 
     * 
-        * 
         * [`{main_page.pay_method.B_SUBMIT}`](https://github.com/Etana/template/blob/master/var/main_page.pay_method.B_SUBMIT.md#readme)
-        * 
         * [`{main_page.pay_method.I_BY_METHOD}`](https://github.com/Etana/template/blob/master/var/main_page.pay_method.I_BY_METHOD.md#readme)
-        * 
         * [`{main_page.pay_method.L_BY_METHOD}`](https://github.com/Etana/template/blob/master/var/main_page.pay_method.L_BY_METHOD.md#readme)
         * 
-            * 
             * [`{main_page.pay_method.radio.METHOD}`](https://github.com/Etana/template/blob/master/var/main_page.pay_method.radio.METHOD.md#readme)
-* 
 * [`<!-- BEGIN member_row -->...<!-- END member_row -->`](https://github.com/Etana/template/blob/master/var/member_row.md#readme)
-    * 
     * [`{member_row.EMAIL_IMG}`](https://github.com/Etana/template/blob/master/var/member_row.EMAIL_IMG.md#readme)
-    * 
     * [`{member_row.FROM}`](https://github.com/Etana/template/blob/master/var/member_row.FROM.md#readme)
-    * 
     * [`{member_row.JOINED}`](https://github.com/Etana/template/blob/master/var/member_row.JOINED.md#readme)
-    * 
     * [`{member_row.PM}`](https://github.com/Etana/template/blob/master/var/member_row.PM.md#readme)
-    * 
     * [`{member_row.PM_IMG}`](https://github.com/Etana/template/blob/master/var/member_row.PM_IMG.md#readme)
-    * 
     * [`{member_row.POSTS}`](https://github.com/Etana/template/blob/master/var/member_row.POSTS.md#readme)
-    * 
     * [`{member_row.PROFILE}`](https://github.com/Etana/template/blob/master/var/member_row.PROFILE.md#readme)
-    * 
     * [`{member_row.PROFILE_IMG}`](https://github.com/Etana/template/blob/master/var/member_row.PROFILE_IMG.md#readme)
-    * 
     * [`{member_row.ROW_CLASS}`](https://github.com/Etana/template/blob/master/var/member_row.ROW_CLASS.md#readme)
-    * 
     * [`{member_row.ROW_COLOR}`](https://github.com/Etana/template/blob/master/var/member_row.ROW_COLOR.md#readme)
-    * 
     * [`{member_row.SEARCH}`](https://github.com/Etana/template/blob/master/var/member_row.SEARCH.md#readme)
-    * 
     * [`{member_row.SEARCH_IMG}`](https://github.com/Etana/template/blob/master/var/member_row.SEARCH_IMG.md#readme)
-    * 
     * [`{member_row.USERNAME}`](https://github.com/Etana/template/blob/master/var/member_row.USERNAME.md#readme)
-    * 
     * [`{member_row.USER_ID}`](https://github.com/Etana/template/blob/master/var/member_row.USER_ID.md#readme)
-    * 
     * [`{member_row.U_VIEWPROFILE}`](https://github.com/Etana/template/blob/master/var/member_row.U_VIEWPROFILE.md#readme)
-    * 
     * [`{member_row.WWW_IMG}`](https://github.com/Etana/template/blob/master/var/member_row.WWW_IMG.md#readme)
-    * 
     * [`<!-- BEGIN switch_mod_option -->...<!-- END switch_mod_option -->`](https://github.com/Etana/template/blob/master/var/member_row.switch_mod_option.md#readme)
-* 
 * [`<!-- BEGIN memberrow -->...<!-- END memberrow -->`](https://github.com/Etana/template/blob/master/var/memberrow.md#readme)
-    * 
     * [`{memberrow.AVATAR_IMG}`](https://github.com/Etana/template/blob/master/var/memberrow.AVATAR_IMG.md#readme)
-    * 
     * [`{memberrow.GROUPS}`](https://github.com/Etana/template/blob/master/var/memberrow.GROUPS.md#readme)
-    * 
     * [`{memberrow.INTERESTS}`](https://github.com/Etana/template/blob/master/var/memberrow.INTERESTS.md#readme)
-    * 
     * [`{memberrow.JOINED}`](https://github.com/Etana/template/blob/master/var/memberrow.JOINED.md#readme)
-    * 
     * [`{memberrow.LASTVISIT}`](https://github.com/Etana/template/blob/master/var/memberrow.LASTVISIT.md#readme)
-    * 
     * [`{memberrow.PM_IMG}`](https://github.com/Etana/template/blob/master/var/memberrow.PM_IMG.md#readme)
-    * 
     * [`{memberrow.POSTS}`](https://github.com/Etana/template/blob/master/var/memberrow.POSTS.md#readme)
-    * 
     * [`{memberrow.ROW_CLASS}`](https://github.com/Etana/template/blob/master/var/memberrow.ROW_CLASS.md#readme)
-    * 
     * [`{memberrow.ROW_NUMBER}`](https://github.com/Etana/template/blob/master/var/memberrow.ROW_NUMBER.md#readme)
-    * 
     * [`{memberrow.USERNAME}`](https://github.com/Etana/template/blob/master/var/memberrow.USERNAME.md#readme)
-    * 
     * [`{memberrow.U_VIEWPROFILE}`](https://github.com/Etana/template/blob/master/var/memberrow.U_VIEWPROFILE.md#readme)
-    * 
     * [`{memberrow.WWW_IMG}`](https://github.com/Etana/template/blob/master/var/memberrow.WWW_IMG.md#readme)
-    * 
     * [`<!-- BEGIN switch_td_group -->...<!-- END switch_td_group -->`](https://github.com/Etana/template/blob/master/var/memberrow.switch_td_group.md#readme)
-* 
 * [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](https://github.com/Etana/template/blob/master/var/message_admin_index.md#readme)
-    * 
     * [`<!-- BEGIN message_admin_titre -->...<!-- END message_admin_titre -->`](https://github.com/Etana/template/blob/master/var/message_admin_index.message_admin_titre.md#readme)
-        * 
         * [`{message_admin_index.message_admin_titre.MES_TITRE}`](https://github.com/Etana/template/blob/master/var/message_admin_index.message_admin_titre.MES_TITRE.md#readme)
-    * 
     * [`<!-- BEGIN message_admin_txt -->...<!-- END message_admin_txt -->`](https://github.com/Etana/template/blob/master/var/message_admin_index.message_admin_txt.md#readme)
-        * 
         * [`{message_admin_index.message_admin_txt.MES_TXT}`](https://github.com/Etana/template/blob/master/var/message_admin_index.message_admin_txt.MES_TXT.md#readme)
-* 
 * [`<!-- BEGIN navmenu -->...<!-- END navmenu -->`](https://github.com/Etana/template/blob/master/var/navmenu.md#readme)
-* 
 * [`<!-- BEGIN searchresults -->...<!-- END searchresults -->`](https://github.com/Etana/template/blob/master/var/searchresults.md#readme)
-    * 
     * [`{searchresults.FORUM_NAME}`](https://github.com/Etana/template/blob/master/var/searchresults.FORUM_NAME.md#readme)
-    * 
     * [`{searchresults.GOTO_PAGE}`](https://github.com/Etana/template/blob/master/var/searchresults.GOTO_PAGE.md#readme)
-    * 
     * [`{searchresults.LAST_POST_AUTHOR}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_AUTHOR.md#readme)
-    * 
     * [`{searchresults.LAST_POST_IMG}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_IMG.md#readme)
-    * 
     * [`{searchresults.LAST_POST_TIME}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_TIME.md#readme)
-    * 
     * [`{searchresults.L_MINI_POST_ALT}`](https://github.com/Etana/template/blob/master/var/searchresults.L_MINI_POST_ALT.md#readme)
-    * 
     * [`{searchresults.L_TOPIC_FOLDER_ALT}`](https://github.com/Etana/template/blob/master/var/searchresults.L_TOPIC_FOLDER_ALT.md#readme)
-    * 
     * [`{searchresults.MESSAGE}`](https://github.com/Etana/template/blob/master/var/searchresults.MESSAGE.md#readme)
-    * 
     * [`{searchresults.MINI_POST_IMG}`](https://github.com/Etana/template/blob/master/var/searchresults.MINI_POST_IMG.md#readme)
-    * 
     * [`{searchresults.POSTER_NAME}`](https://github.com/Etana/template/blob/master/var/searchresults.POSTER_NAME.md#readme)
-    * 
     * [`{searchresults.POST_DATE}`](https://github.com/Etana/template/blob/master/var/searchresults.POST_DATE.md#readme)
-    * 
     * [`{searchresults.POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/searchresults.POST_SUBJECT.md#readme)
-    * 
     * [`{searchresults.REPLIES}`](https://github.com/Etana/template/blob/master/var/searchresults.REPLIES.md#readme)
-    * 
     * [`{searchresults.TOPIC_AUTHOR}`](https://github.com/Etana/template/blob/master/var/searchresults.TOPIC_AUTHOR.md#readme)
-    * 
     * [`{searchresults.TOPIC_FOLDER_IMG}`](https://github.com/Etana/template/blob/master/var/searchresults.TOPIC_FOLDER_IMG.md#readme)
-    * 
     * [`{searchresults.TOPIC_REPLIES}`](https://github.com/Etana/template/blob/master/var/searchresults.TOPIC_REPLIES.md#readme)
-    * 
     * [`{searchresults.TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/searchresults.TOPIC_TITLE.md#readme)
-    * 
     * [`{searchresults.TOPIC_VIEWS}`](https://github.com/Etana/template/blob/master/var/searchresults.TOPIC_VIEWS.md#readme)
-    * 
     * [`{searchresults.VIEWS}`](https://github.com/Etana/template/blob/master/var/searchresults.VIEWS.md#readme)
-* 
 * [`<!-- BEGIN switch_canonical_url -->...<!-- END switch_canonical_url -->`](https://github.com/Etana/template/blob/master/var/switch_canonical_url.md#readme)
-    * 
     * [`{switch_canonical_url.CANONICAL_URL}`](https://github.com/Etana/template/blob/master/var/switch_canonical_url.CANONICAL_URL.md#readme)
-* 
 * [`<!-- BEGIN switch_compat_meta -->...<!-- END switch_compat_meta -->`](https://github.com/Etana/template/blob/master/var/switch_compat_meta.md#readme)
-    * 
     * [`{switch_compat_meta.VERSION}`](https://github.com/Etana/template/blob/master/var/switch_compat_meta.VERSION.md#readme)
-* 
 * [`<!-- BEGIN switch_enable_pm_popup -->...<!-- END switch_enable_pm_popup -->`](https://github.com/Etana/template/blob/master/var/switch_enable_pm_popup.md#readme)
-* 
 * [`<!-- BEGIN switch_fb_likebtn -->...<!-- END switch_fb_likebtn -->`](https://github.com/Etana/template/blob/master/var/switch_fb_likebtn.md#readme)
-* 
 * [`<!-- BEGIN switch_fb_login -->...<!-- END switch_fb_login -->`](https://github.com/Etana/template/blob/master/var/switch_fb_login.md#readme)
-    * 
     * [`{switch_fb_login.FB_LOCAL}`](https://github.com/Etana/template/blob/master/var/switch_fb_login.FB_LOCAL.md#readme)
-    * 
     * [`{switch_fb_login.JS_FB_LOGIN}`](https://github.com/Etana/template/blob/master/var/switch_fb_login.JS_FB_LOGIN.md#readme)
-* 
 * [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme)
     * 
-        * 
         * [`{switch_footer_links.footer_link.FOOTER_LINK_REL}`](https://github.com/Etana/template/blob/master/var/switch_footer_links.footer_link.FOOTER_LINK_REL.md#readme)
-        * 
         * [`{switch_footer_links.footer_link.FOOTER_LINK_TARGET}`](https://github.com/Etana/template/blob/master/var/switch_footer_links.footer_link.FOOTER_LINK_TARGET.md#readme)
-        * 
         * [`{switch_footer_links.footer_link.L_FOOTER_LINK_TEXT}`](https://github.com/Etana/template/blob/master/var/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT.md#readme)
-        * 
         * [`{switch_footer_links.footer_link.L_FOOTER_LINK_TITLE}`](https://github.com/Etana/template/blob/master/var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE.md#readme)
-        * 
         * [`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](https://github.com/Etana/template/blob/master/var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)
-        * 
         * [`<!-- BEGIN switch_separator -->...<!-- END switch_separator -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.footer_link.switch_separator.md#readme)
-* 
 * [`<!-- BEGIN switch_image_resize -->...<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)
-    * 
     * [`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)
-    * 
     * [`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)
-* 
 * [`<!-- BEGIN switch_legend -->...<!-- END switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme)
-* 
 * [`<!-- BEGIN switch_login_popup -->...<!-- END switch_login_popup -->`](https://github.com/Etana/template/blob/master/var/switch_login_popup.md#readme)
-* 
 * [`<!-- BEGIN switch_logo_center -->...<!-- END switch_logo_center -->`](https://github.com/Etana/template/blob/master/var/switch_logo_center.md#readme)
-* 
 * [`<!-- BEGIN switch_logo_left -->...<!-- END switch_logo_left -->`](https://github.com/Etana/template/blob/master/var/switch_logo_left.md#readme)
-* 
 * [`<!-- BEGIN switch_logo_right -->...<!-- END switch_logo_right -->`](https://github.com/Etana/template/blob/master/var/switch_logo_right.md#readme)
-* 
 * [`<!-- BEGIN switch_menu -->...<!-- END switch_menu -->`](https://github.com/Etana/template/blob/master/var/switch_menu.md#readme)
-* 
 * [`<!-- BEGIN switch_no_user -->...<!-- END switch_no_user -->`](https://github.com/Etana/template/blob/master/var/switch_no_user.md#readme)
-    * 
     * [`{switch_no_user.COLSPAN_NUMBER}`](https://github.com/Etana/template/blob/master/var/switch_no_user.COLSPAN_NUMBER.md#readme)
-    * 
     * [`{switch_no_user.L_NO_USER}`](https://github.com/Etana/template/blob/master/var/switch_no_user.L_NO_USER.md#readme)
-* 
 * [`<!-- BEGIN switch_pagination -->...<!-- END switch_pagination -->`](https://github.com/Etana/template/blob/master/var/switch_pagination.md#readme)
-* 
 * [`<!-- BEGIN switch_report_popup -->...<!-- END switch_report_popup -->`](https://github.com/Etana/template/blob/master/var/switch_report_popup.md#readme)
-    * 
     * [`{switch_report_popup.S_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.S_HEIGHT.md#readme)
-    * 
     * [`{switch_report_popup.S_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.S_WIDTH.md#readme)
-    * 
     * [`{switch_report_popup.U_REPORT_POPUP}`](https://github.com/Etana/template/blob/master/var/switch_report_popup.U_REPORT_POPUP.md#readme)
-* 
 * [`<!-- BEGIN switch_subscribe_group_input -->...<!-- END switch_subscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_subscribe_group_input.md#readme)
-* 
 * [`<!-- BEGIN switch_th_group -->...<!-- END switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme)
-* 
 * [`<!-- BEGIN switch_ticker -->...<!-- END switch_ticker -->`](https://github.com/Etana/template/blob/master/var/switch_ticker.md#readme)
-    * 
     * [`{switch_ticker.DIRECTION}`](https://github.com/Etana/template/blob/master/var/switch_ticker.DIRECTION.md#readme)
-    * 
     * [`{switch_ticker.HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_ticker.HEIGHT.md#readme)
-    * 
     * [`{switch_ticker.SIZE}`](https://github.com/Etana/template/blob/master/var/switch_ticker.SIZE.md#readme)
-    * 
     * [`{switch_ticker.SPACING}`](https://github.com/Etana/template/blob/master/var/switch_ticker.SPACING.md#readme)
-    * 
     * [`{switch_ticker.SPEED}`](https://github.com/Etana/template/blob/master/var/switch_ticker.SPEED.md#readme)
-    * 
     * [`{switch_ticker.STOP_TIME}`](https://github.com/Etana/template/blob/master/var/switch_ticker.STOP_TIME.md#readme)
-    * 
     * [`<!-- BEGIN ticker_row -->...<!-- END ticker_row -->`](https://github.com/Etana/template/blob/master/var/switch_ticker.ticker_row.md#readme)
-        * 
         * [`{switch_ticker.ticker_row.ELEMENT}`](https://github.com/Etana/template/blob/master/var/switch_ticker.ticker_row.ELEMENT.md#readme)
-* 
 * [`<!-- BEGIN switch_ticker_new -->...<!-- END switch_ticker_new -->`](https://github.com/Etana/template/blob/master/var/switch_ticker_new.md#readme)
-    * 
     * [`<!-- BEGIN ticker_row -->...<!-- END ticker_row -->`](https://github.com/Etana/template/blob/master/var/switch_ticker_new.ticker_row.md#readme)
-* 
 * [`<!-- BEGIN switch_twitter_btn -->...<!-- END switch_twitter_btn -->`](https://github.com/Etana/template/blob/master/var/switch_twitter_btn.md#readme)
-* 
 * [`<!-- BEGIN switch_unsubscribe_group_input -->...<!-- END switch_unsubscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_unsubscribe_group_input.md#readme)
-* 
 * [`<!-- BEGIN switch_user_authpost -->...<!-- END switch_user_authpost -->`](https://github.com/Etana/template/blob/master/var/switch_user_authpost.md#readme)
-* 
 * [`<!-- BEGIN switch_user_authreply -->...<!-- END switch_user_authreply -->`](https://github.com/Etana/template/blob/master/var/switch_user_authreply.md#readme)
-* 
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* 
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
