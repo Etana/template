@@ -28,6 +28,7 @@
 * [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)
 * [`{L_WEBSITE}`](https://github.com/Etana/template/blob/master/var/L_WEBSITE.md#readme)
 * [`<!-- BEGIN pending_members_row -->...<!-- END pending_members_row -->`](https://github.com/Etana/template/blob/master/var/pending_members_row.md#readme)
+* [`<!-- BEGIN switch_unsubscribe_group_input -->...<!-- END switch_unsubscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_unsubscribe_group_input.md#readme)
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
 
