@@ -51,6 +51,7 @@ Affichage des informations d'un groupe.
 * [`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme)
 * [`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme)
 * [`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)
+* [`{L_SELECT_SORT_METHOD}`](https://github.com/Etana/template/blob/master/var/L_SELECT_SORT_METHOD.md#readme)
 * [`{L_SUBSCRIBE}`](https://github.com/Etana/template/blob/master/var/L_SUBSCRIBE.md#readme)
 * [`{L_UNSUBSCRIBE}`](https://github.com/Etana/template/blob/master/var/L_UNSUBSCRIBE.md#readme)
 * [`{L_UNSUBSCRIBE_GROUP}`](https://github.com/Etana/template/blob/master/var/L_UNSUBSCRIBE_GROUP.md#readme)

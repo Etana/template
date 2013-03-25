@@ -10,7 +10,8 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_PM)
 Chaîne de texte.
 
-* __Contenu en français :__ `MP`
+* __Remplacement en français dans [`groupcp_info_body`](https://github.com/Etana/template/blob/master/tpl/var/groupcp_info_body.md#readme) et [`groupcp_pending_info`](https://github.com/Etana/template/blob/master/tpl/var/groupcp_pending_info.md#readme) :__ `Message Privé`
+* __Remplacement en français ailleurs :__ `MP`
 
 ## Utilisations dans les templates
 

@@ -36,6 +36,7 @@
 * [`{L_PM}`](https://github.com/Etana/template/blob/master/var/L_PM.md#readme)
 * [`{L_POSTS}`](https://github.com/Etana/template/blob/master/var/L_POSTS.md#readme)
 * [`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)
+* [`{L_SELECT_SORT_METHOD}`](https://github.com/Etana/template/blob/master/var/L_SELECT_SORT_METHOD.md#readme)
 * [`{L_SUBSCRIBE}`](https://github.com/Etana/template/blob/master/var/L_SUBSCRIBE.md#readme)
 * [`{L_UNSUBSCRIBE}`](https://github.com/Etana/template/blob/master/var/L_UNSUBSCRIBE.md#readme)
 * [`{L_UNSUBSCRIBE_GROUP}`](https://github.com/Etana/template/blob/master/var/L_UNSUBSCRIBE_GROUP.md#readme)
