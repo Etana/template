@@ -1,4 +1,4 @@
-# Template modcp_split [18/59]
+# Template modcp_split [19/59]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -95,7 +95,7 @@
 * __[`{L_POST}`](https://github.com/Etana/template/blob/master/var/L_POST.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POST">*</a> :__ ligne [`43`](../src/subsilver/modcp_split.tpl#L43)
 * __[`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTED">*</a> :__ ligne [`43`](../src/subsilver/modcp_split.tpl#L43)
 * __[`{L_POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_POST_SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POST_SUBJECT">*</a> :__ ligne [`44`](../src/subsilver/modcp_split.tpl#L44)
-* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`35`](../src/subsilver/modcp_split.tpl#L35)
+* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme) :__ ligne [`35`](../src/subsilver/modcp_split.tpl#L35)
 * __[`{L_SPLIT_AFTER}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_AFTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_AFTER">*</a> :__ lignes [`27`](../src/subsilver/modcp_split.tpl#L27), [`64`](../src/subsilver/modcp_split.tpl#L64)
 * __[`{L_SPLIT_FORUM}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_FORUM">*</a> :__ ligne [`19`](../src/subsilver/modcp_split.tpl#L19)
 * __[`{L_SPLIT_POSTS}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_POSTS">*</a> :__ lignes [`26`](../src/subsilver/modcp_split.tpl#L26), [`63`](../src/subsilver/modcp_split.tpl#L63)

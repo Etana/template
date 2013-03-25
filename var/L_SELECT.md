@@ -7,8 +7,10 @@
 {L_SELECT}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SELECT)
+## Description[*](https://fa-tvars.appspot.com/var/L_SELECT)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Sélectionner`
 
 ## Utilisations dans les templates
 

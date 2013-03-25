@@ -1,4 +1,4 @@
-# Template modcp_body [27/79]
+# Template modcp_body [29/79]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -73,7 +73,7 @@
 * __[`{L_REPLIES}`](https://github.com/Etana/template/blob/master/var/L_REPLIES.md#readme) :__ ligne [`40`](../src/punbb/modcp_body.tpl#L40)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/modcp_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/modcp_body.tpl#L5)
-* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`42`](../src/punbb/modcp_body.tpl#L42)
+* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme) :__ ligne [`42`](../src/punbb/modcp_body.tpl#L42)
 * __[`{L_SELECT_ALL}`](https://github.com/Etana/template/blob/master/var/L_SELECT_ALL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT_ALL">*</a> :__ ligne [`60`](../src/punbb/modcp_body.tpl#L60)
 * __[`{L_STICKY}`](https://github.com/Etana/template/blob/master/var/L_STICKY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_STICKY">*</a> :__ ligne [`68`](../src/punbb/modcp_body.tpl#L68)
 * __[`{L_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_TOPICS.md#readme) :__ ligne [`39`](../src/punbb/modcp_body.tpl#L39)
@@ -122,7 +122,7 @@
 * __[`{L_MOVE}`](https://github.com/Etana/template/blob/master/var/L_MOVE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE">*</a> :__ ligne [`34`](../src/subsilver/modcp_body.tpl#L34)
 * __[`{L_NORMAL}`](https://github.com/Etana/template/blob/master/var/L_NORMAL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NORMAL">*</a> :__ ligne [`39`](../src/subsilver/modcp_body.tpl#L39)
 * __[`{L_REPLIES}`](https://github.com/Etana/template/blob/master/var/L_REPLIES.md#readme) :__ ligne [`17`](../src/subsilver/modcp_body.tpl#L17)
-* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`19`](../src/subsilver/modcp_body.tpl#L19)
+* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme) :__ ligne [`19`](../src/subsilver/modcp_body.tpl#L19)
 * __[`{L_SELECT_ALL}`](https://github.com/Etana/template/blob/master/var/L_SELECT_ALL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT_ALL">*</a> :__ ligne [`47`](../src/subsilver/modcp_body.tpl#L47)
 * __[`{L_STICKY}`](https://github.com/Etana/template/blob/master/var/L_STICKY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_STICKY">*</a> :__ ligne [`37`](../src/subsilver/modcp_body.tpl#L37)
 * __[`{L_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_TOPICS.md#readme) :__ ligne [`16`](../src/subsilver/modcp_body.tpl#L16)

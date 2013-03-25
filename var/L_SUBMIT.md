@@ -1,6 +1,6 @@
 # L_SUBMIT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`album_upload_body`](../tpl/var/album_upload_body.md#readme), [`donate`](../tpl/var/donate.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`merge_body`](../tpl/var/merge_body.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_confirm_code`](../tpl/var/posting_confirm_code.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme)
+* __Disponible dans :__ [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`album_upload_body`](../tpl/var/album_upload_body.md#readme), [`donate`](../tpl/var/donate.md#readme), [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`merge_body`](../tpl/var/merge_body.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`posting_confirm_code`](../tpl/var/posting_confirm_code.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme)
 * __Utilisation :__
 
 ```html
@@ -10,7 +10,13 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_SUBMIT)
 Chaîne de texte.
 
-* __Contenu en français :__ `Ok`
+#### Dans [`groupcp_info_body`](https://github.com/Etana/template/blob/master/tpl/var/groupcp_info_body.md#readme) et [`groupcp_pending_info`](https://github.com/Etana/template/blob/master/tpl/var/groupcp_pending_info.md#readme) :
+
+* __Remplacement français :__ `Trier`
+
+#### Ailleurs :
+
+* __Remplacement français :__ `Ok`
 
 ## Utilisations dans les templates
 

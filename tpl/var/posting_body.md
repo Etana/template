@@ -1,4 +1,4 @@
-# Template posting_body [32/533]
+# Template posting_body [34/533]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -345,7 +345,7 @@
 * __[`{L_DISABLE_HTML}`](https://github.com/Etana/template/blob/master/var/L_DISABLE_HTML.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DISABLE_HTML">*</a> :__ ligne [`595`](../src/punbb/posting_body.tpl#L595)
 * __[`{L_DISABLE_SMILIES}`](https://github.com/Etana/template/blob/master/var/L_DISABLE_SMILIES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DISABLE_SMILIES">*</a> :__ ligne [`603`](../src/punbb/posting_body.tpl#L603)
 * __[`{L_DRAFT}`](https://github.com/Etana/template/blob/master/var/L_DRAFT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DRAFT">*</a> :__ ligne [`481`](../src/punbb/posting_body.tpl#L481)
-* __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FIND_USERNAME">*</a> :__ ligne [`92`](../src/punbb/posting_body.tpl#L92)
+* __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme) :__ ligne [`92`](../src/punbb/posting_body.tpl#L92)
 * __[`{L_FONT_HUGE}`](https://github.com/Etana/template/blob/master/var/L_FONT_HUGE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FONT_HUGE">*</a> :__ lignes [`198`](../src/punbb/posting_body.tpl#L198), [`279`](../src/punbb/posting_body.tpl#L279)
 * __[`{L_FONT_LARGE}`](https://github.com/Etana/template/blob/master/var/L_FONT_LARGE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FONT_LARGE">*</a> :__ lignes [`197`](../src/punbb/posting_body.tpl#L197), [`278`](../src/punbb/posting_body.tpl#L278)
 * __[`{L_FONT_NORMAL}`](https://github.com/Etana/template/blob/master/var/L_FONT_NORMAL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FONT_NORMAL">*</a> :__ lignes [`196`](../src/punbb/posting_body.tpl#L196), [`277`](../src/punbb/posting_body.tpl#L277)
@@ -661,7 +661,7 @@
 * __[`{L_DISABLE_HTML}`](https://github.com/Etana/template/blob/master/var/L_DISABLE_HTML.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DISABLE_HTML">*</a> :__ ligne [`774`](../src/subsilver/posting_body.tpl#L774)
 * __[`{L_DISABLE_SMILIES}`](https://github.com/Etana/template/blob/master/var/L_DISABLE_SMILIES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DISABLE_SMILIES">*</a> :__ ligne [`784`](../src/subsilver/posting_body.tpl#L784)
 * __[`{L_DRAFT}`](https://github.com/Etana/template/blob/master/var/L_DRAFT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DRAFT">*</a> :__ ligne [`525`](../src/subsilver/posting_body.tpl#L525)
-* __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FIND_USERNAME">*</a> :__ ligne [`108`](../src/subsilver/posting_body.tpl#L108)
+* __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme) :__ ligne [`108`](../src/subsilver/posting_body.tpl#L108)
 * __[`{L_FONT_HUGE}`](https://github.com/Etana/template/blob/master/var/L_FONT_HUGE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FONT_HUGE">*</a> :__ lignes [`252`](../src/subsilver/posting_body.tpl#L252), [`333`](../src/subsilver/posting_body.tpl#L333)
 * __[`{L_FONT_LARGE}`](https://github.com/Etana/template/blob/master/var/L_FONT_LARGE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FONT_LARGE">*</a> :__ lignes [`251`](../src/subsilver/posting_body.tpl#L251), [`332`](../src/subsilver/posting_body.tpl#L332)
 * __[`{L_FONT_NORMAL}`](https://github.com/Etana/template/blob/master/var/L_FONT_NORMAL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FONT_NORMAL">*</a> :__ lignes [`250`](../src/subsilver/posting_body.tpl#L250), [`331`](../src/subsilver/posting_body.tpl#L331)

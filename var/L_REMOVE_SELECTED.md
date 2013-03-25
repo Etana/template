@@ -1,14 +1,16 @@
 # L_REMOVE_SELECTED
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
 {L_REMOVE_SELECTED}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_REMOVE_SELECTED)
+## Description[*](https://fa-tvars.appspot.com/var/L_REMOVE_SELECTED)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Supprimer la sélection`
 
 ## Utilisations dans les templates
 

@@ -1,6 +1,6 @@
 # L_ORDER
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme), [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme)
+* __Disponible dans :__ [`album_cat_body`](../tpl/var/album_cat_body.md#readme), [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -10,7 +10,7 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_ORDER)
 Chaîne de texte.
 
-* __Contenu en français :__ `Ordre`
+* __Remplacement français :__ `Ordre`
 
 ## Utilisations dans les templates
 

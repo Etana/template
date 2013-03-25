@@ -1,4 +1,4 @@
-# Template search_username [7/19]
+# Template search_username [9/19]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -36,7 +36,7 @@
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`15`](../src/punbb/search_username.tpl#L15)
 * __[`{L_SEARCH_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_EXPLAIN">*</a> :__ ligne [`16`](../src/punbb/search_username.tpl#L16)
 * __[`{L_SEARCH_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_USERNAME">*</a> :__ ligne [`9`](../src/punbb/search_username.tpl#L9)
-* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`23`](../src/punbb/search_username.tpl#L23)
+* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme) :__ ligne [`23`](../src/punbb/search_username.tpl#L23)
 * __[`{S_SEARCH_ACTION}`](https://github.com/Etana/template/blob/master/var/S_SEARCH_ACTION.md#readme) :__ ligne [`13`](../src/punbb/search_username.tpl#L13)
 * __[`{S_USERNAME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_USERNAME_OPTIONS.md#readme)<a href="https://fa-tvars.appspot.com/var/S_USERNAME_OPTIONS">*</a> :__ ligne [`21`](../src/punbb/search_username.tpl#L21)
 * __[`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/USERNAME">*</a> :__ ligne [`15`](../src/punbb/search_username.tpl#L15)
@@ -52,7 +52,7 @@
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`12`](../src/subsilver/search_username.tpl#L12)
 * __[`{L_SEARCH_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_EXPLAIN">*</a> :__ ligne [`13`](../src/subsilver/search_username.tpl#L13)
 * __[`{L_SEARCH_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SEARCH_USERNAME">*</a> :__ ligne [`7`](../src/subsilver/search_username.tpl#L7)
-* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SELECT">*</a> :__ ligne [`18`](../src/subsilver/search_username.tpl#L18)
+* __[`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme) :__ ligne [`18`](../src/subsilver/search_username.tpl#L18)
 * __[`{S_SEARCH_ACTION}`](https://github.com/Etana/template/blob/master/var/S_SEARCH_ACTION.md#readme) :__ ligne [`1`](../src/subsilver/search_username.tpl#L1)
 * __[`{S_USERNAME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_USERNAME_OPTIONS.md#readme)<a href="https://fa-tvars.appspot.com/var/S_USERNAME_OPTIONS">*</a> :__ ligne [`17`](../src/subsilver/search_username.tpl#L17)
 * __[`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/USERNAME">*</a> :__ ligne [`12`](../src/subsilver/search_username.tpl#L12)

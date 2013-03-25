@@ -1,4 +1,4 @@
-# Template posting_body_wysiwyg [33/445]
+# Template posting_body_wysiwyg [35/445]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -270,7 +270,7 @@
 * __[`{L_DISABLE_HTML}`](https://github.com/Etana/template/blob/master/var/L_DISABLE_HTML.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DISABLE_HTML">*</a> :__ ligne [`594`](../src/punbb/posting_body_wysiwyg.tpl#L594)
 * __[`{L_DISABLE_SMILIES}`](https://github.com/Etana/template/blob/master/var/L_DISABLE_SMILIES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DISABLE_SMILIES">*</a> :__ ligne [`602`](../src/punbb/posting_body_wysiwyg.tpl#L602)
 * __[`{L_DRAFT}`](https://github.com/Etana/template/blob/master/var/L_DRAFT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DRAFT">*</a> :__ ligne [`479`](../src/punbb/posting_body_wysiwyg.tpl#L479)
-* __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FIND_USERNAME">*</a> :__ ligne [`248`](../src/punbb/posting_body_wysiwyg.tpl#L248)
+* __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme) :__ ligne [`248`](../src/punbb/posting_body_wysiwyg.tpl#L248)
 * __[`{L_FORUM_RULES}`](https://github.com/Etana/template/blob/master/var/L_FORUM_RULES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FORUM_RULES">*</a> :__ ligne [`201`](../src/punbb/posting_body_wysiwyg.tpl#L201)
 * __[`{L_HELP}`](https://github.com/Etana/template/blob/master/var/L_HELP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_HELP">*</a> :__ ligne [`220`](../src/punbb/posting_body_wysiwyg.tpl#L220)
 * __[`{L_HOURS}`](https://github.com/Etana/template/blob/master/var/L_HOURS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_HOURS">*</a> :__ lignes [`674`](../src/punbb/posting_body_wysiwyg.tpl#L674), [`682`](../src/punbb/posting_body_wysiwyg.tpl#L682)
@@ -537,7 +537,7 @@
 * __[`{L_DISABLE_HTML}`](https://github.com/Etana/template/blob/master/var/L_DISABLE_HTML.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DISABLE_HTML">*</a> :__ ligne [`746`](../src/subsilver/posting_body_wysiwyg.tpl#L746)
 * __[`{L_DISABLE_SMILIES}`](https://github.com/Etana/template/blob/master/var/L_DISABLE_SMILIES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DISABLE_SMILIES">*</a> :__ ligne [`756`](../src/subsilver/posting_body_wysiwyg.tpl#L756)
 * __[`{L_DRAFT}`](https://github.com/Etana/template/blob/master/var/L_DRAFT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DRAFT">*</a> :__ ligne [`525`](../src/subsilver/posting_body_wysiwyg.tpl#L525)
-* __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FIND_USERNAME">*</a> :__ ligne [`281`](../src/subsilver/posting_body_wysiwyg.tpl#L281)
+* __[`{L_FIND_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_FIND_USERNAME.md#readme) :__ ligne [`281`](../src/subsilver/posting_body_wysiwyg.tpl#L281)
 * __[`{L_FORUM_RULES}`](https://github.com/Etana/template/blob/master/var/L_FORUM_RULES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FORUM_RULES">*</a> :__ ligne [`52`](../src/subsilver/posting_body_wysiwyg.tpl#L52)
 * __[`{L_HOURS}`](https://github.com/Etana/template/blob/master/var/L_HOURS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_HOURS">*</a> :__ lignes [`814`](../src/subsilver/posting_body_wysiwyg.tpl#L814), [`824`](../src/subsilver/posting_body_wysiwyg.tpl#L824)
 * __[`{L_ICON_TITLE}`](https://github.com/Etana/template/blob/master/var/L_ICON_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ICON_TITLE">*</a> :__ ligne [`347`](../src/subsilver/posting_body_wysiwyg.tpl#L347)
