@@ -1,6 +1,6 @@
 # switch_enable_pm_popup
 * __Type :__ variable de bouclage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -10,7 +10,15 @@ contenu
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
-Boucle s'affichant lors de la réception d'un message privé si l'utilisateur a coché "Oui" à l'option `Profil > Préférences > Ouverture d'une Pop-Up lors de nouveaux Messages Privés`.
+Le contenu de la boucle s'affiche si :
+
+* `Oui` est coché à l'option `Ouverture d'une Pop-Up lors de nouveaux Messages Privés` de [`Index`](http://votre-forum.appspot.com/#/profile?mode=editprofile,&page_profil=preferences) > [`Profil`](http://votre-forum.appspot.com/profile?mode=editprofile#&page_profil=preferences) > [`Préférences`](http://votre-forum.appspot.com/profile?mode=editprofile&page_profil=preferences) de l'utilisateur.
+* `Il y a un nouveau message privé à lire dont le membre n'est pas encore au courant, c'est à dire :
+    * soit il n'a pas encore été dans la boîte de réception
+    * soit il n'a pas lu le  message privé
+    * soit il n'a été sur une page depuis le message privé
+
+Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message privé reçu.
 
 ## Utilisations dans les templates
 

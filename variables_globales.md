@@ -56,5 +56,6 @@
 * [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
 * [`{U_SEARCH_UNANSWERED}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_UNANSWERED.md#readme)
 * [`{U_VIEWONLINE}`](https://github.com/Etana/template/blob/master/var/U_VIEWONLINE.md#readme)
+* [`<!-- BEGIN switch_enable_pm_popup -->...<!-- END switch_enable_pm_popup -->`](https://github.com/Etana/template/blob/master/var/switch_enable_pm_popup.md#readme)
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
