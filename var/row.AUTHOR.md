@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ ligne [`27`](../tpl/src/subsilver/report_view_body.tpl#L27)
-
 ### Version PunBB
 * __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ ligne [`49`](../tpl/src/punbb/report_view_body.tpl#L49)
+
+### Version phpBB2
+* __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ ligne [`27`](../tpl/src/subsilver/report_view_body.tpl#L27)

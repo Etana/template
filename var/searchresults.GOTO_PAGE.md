@@ -16,8 +16,8 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`35`](../tpl/src/subsilver/search_results_topics.tpl#L35)
-
 ### Version PunBB
 * __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`56`](../tpl/src/punbb/search_results_topics.tpl#L56)
+
+### Version phpBB2
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`35`](../tpl/src/subsilver/search_results_topics.tpl#L35)

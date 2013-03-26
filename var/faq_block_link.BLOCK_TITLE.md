@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ ligne [`10`](../tpl/src/subsilver/faq_body.tpl#L10)
-
 ### Version PunBB
 * __[`faq_body`](../tpl/var/faq_body.md#readme) :__ ligne [`23`](../tpl/src/punbb/faq_body.tpl#L23)
+
+### Version phpBB2
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ ligne [`10`](../tpl/src/subsilver/faq_body.tpl#L10)

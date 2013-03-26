@@ -30,44 +30,6 @@
     * [`<!-- BEGIN simple_footer -->...<!-- END simple_footer -->`](https://github.com/Etana/template/blob/master/var/simple_footer.md#readme)
     * [`<!-- BEGIN simple_header -->...<!-- END simple_header -->`](https://github.com/Etana/template/blob/master/var/simple_header.md#readme)
 
-## Template par défaut phpBB2
-
-[__Code source__](../src/subsilver/portal_body.tpl#files)
-
-### Positions des variables 
-
-* __[`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme) :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
-* __[`{C2SIZE}`](https://github.com/Etana/template/blob/master/var/C2SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/C2SIZE">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)
-* __[`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme) :__ ligne [`28`](../src/subsilver/portal_body.tpl#L28)
-* __[`{SPACE_COL}`](https://github.com/Etana/template/blob/master/var/SPACE_COL.md#readme)<a href="https://fa-tvars.appspot.com/var/SPACE_COL">*</a> :__ ligne [`12`](../src/subsilver/portal_body.tpl#L12)
-* __[`{SPACE_ROW}`](https://github.com/Etana/template/blob/master/var/SPACE_ROW.md#readme) :__ lignes [`6`](../src/subsilver/portal_body.tpl#L6), [`17`](../src/subsilver/portal_body.tpl#L17), [`24`](../src/subsilver/portal_body.tpl#L24), [`31`](../src/subsilver/portal_body.tpl#L31), [`42`](../src/subsilver/portal_body.tpl#L42)
-* __[`<!-- BEGIN giefmod0 -->`](https://github.com/Etana/template/blob/master/var/giefmod0.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod0">*</a> :__ ligne [`3`](../src/subsilver/portal_body.tpl#L3)
-    * __[`{giefmod0.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod0.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod0.MODVAR">*</a> :__ ligne [`3`](../src/subsilver/portal_body.tpl#L3)
-    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod0.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod0.saut">*</a> :__ ligne [`3`](../src/subsilver/portal_body.tpl#L3)
-    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod0.saut.md#readme) :__ ligne [`9`](../src/subsilver/portal_body.tpl#L9)
-* __[`<!-- END giefmod0 -->`](https://github.com/Etana/template/blob/master/var/giefmod0.md#readme) :__ ligne [`9`](../src/subsilver/portal_body.tpl#L9)
-* __[`<!-- BEGIN giefmod1 -->`](https://github.com/Etana/template/blob/master/var/giefmod1.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod1">*</a> :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
-    * __[`{giefmod1.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod1.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod1.MODVAR">*</a> :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
-    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod1.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod1.saut">*</a> :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
-    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod1.saut.md#readme) :__ ligne [`20`](../src/subsilver/portal_body.tpl#L20)
-* __[`<!-- END giefmod1 -->`](https://github.com/Etana/template/blob/master/var/giefmod1.md#readme) :__ ligne [`20`](../src/subsilver/portal_body.tpl#L20)
-* __[`<!-- BEGIN giefmod2 -->`](https://github.com/Etana/template/blob/master/var/giefmod2.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod2">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)
-    * __[`{giefmod2.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod2.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod2.MODVAR">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)
-    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod2.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod2.saut">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)
-    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod2.saut.md#readme) :__ ligne [`27`](../src/subsilver/portal_body.tpl#L27)
-* __[`<!-- END giefmod2 -->`](https://github.com/Etana/template/blob/master/var/giefmod2.md#readme) :__ ligne [`27`](../src/subsilver/portal_body.tpl#L27)
-* __[`<!-- BEGIN giefmod3 -->`](https://github.com/Etana/template/blob/master/var/giefmod3.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod3">*</a> :__ ligne [`28`](../src/subsilver/portal_body.tpl#L28)
-    * __[`{giefmod3.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod3.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod3.MODVAR">*</a> :__ ligne [`28`](../src/subsilver/portal_body.tpl#L28)
-    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod3.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod3.saut">*</a> :__ ligne [`28`](../src/subsilver/portal_body.tpl#L28)
-    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod3.saut.md#readme) :__ ligne [`34`](../src/subsilver/portal_body.tpl#L34)
-* __[`<!-- END giefmod3 -->`](https://github.com/Etana/template/blob/master/var/giefmod3.md#readme) :__ ligne [`34`](../src/subsilver/portal_body.tpl#L34)
-* __[`<!-- BEGIN giefmod4 -->`](https://github.com/Etana/template/blob/master/var/giefmod4.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod4">*</a> :__ ligne [`39`](../src/subsilver/portal_body.tpl#L39)
-    * __[`{giefmod4.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod4.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod4.MODVAR">*</a> :__ ligne [`39`](../src/subsilver/portal_body.tpl#L39)
-    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod4.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod4.saut">*</a> :__ ligne [`39`](../src/subsilver/portal_body.tpl#L39)
-    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod4.saut.md#readme) :__ ligne [`45`](../src/subsilver/portal_body.tpl#L45)
-* __[`<!-- END giefmod4 -->`](https://github.com/Etana/template/blob/master/var/giefmod4.md#readme) :__ ligne [`45`](../src/subsilver/portal_body.tpl#L45)
-
-
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/portal_body.tpl#files)
@@ -119,3 +81,41 @@
 * __[`<!-- END simple_footer -->`](https://github.com/Etana/template/blob/master/var/simple_footer.md#readme) :__ ligne [`59`](../src/punbb/portal_body.tpl#L59)
 * __[`<!-- BEGIN simple_header -->`](https://github.com/Etana/template/blob/master/var/simple_header.md#readme)<a href="https://fa-tvars.appspot.com/var/simple_header">*</a> :__ lignes [`8`](../src/punbb/portal_body.tpl#L8), [`47`](../src/punbb/portal_body.tpl#L47)
 * __[`<!-- END simple_header -->`](https://github.com/Etana/template/blob/master/var/simple_header.md#readme) :__ lignes [`10`](../src/punbb/portal_body.tpl#L10), [`49`](../src/punbb/portal_body.tpl#L49)
+
+
+## Template par défaut phpBB2
+
+[__Code source__](../src/subsilver/portal_body.tpl#files)
+
+### Positions des variables 
+
+* __[`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme) :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
+* __[`{C2SIZE}`](https://github.com/Etana/template/blob/master/var/C2SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/C2SIZE">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)
+* __[`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme) :__ ligne [`28`](../src/subsilver/portal_body.tpl#L28)
+* __[`{SPACE_COL}`](https://github.com/Etana/template/blob/master/var/SPACE_COL.md#readme)<a href="https://fa-tvars.appspot.com/var/SPACE_COL">*</a> :__ ligne [`12`](../src/subsilver/portal_body.tpl#L12)
+* __[`{SPACE_ROW}`](https://github.com/Etana/template/blob/master/var/SPACE_ROW.md#readme) :__ lignes [`6`](../src/subsilver/portal_body.tpl#L6), [`17`](../src/subsilver/portal_body.tpl#L17), [`24`](../src/subsilver/portal_body.tpl#L24), [`31`](../src/subsilver/portal_body.tpl#L31), [`42`](../src/subsilver/portal_body.tpl#L42)
+* __[`<!-- BEGIN giefmod0 -->`](https://github.com/Etana/template/blob/master/var/giefmod0.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod0">*</a> :__ ligne [`3`](../src/subsilver/portal_body.tpl#L3)
+    * __[`{giefmod0.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod0.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod0.MODVAR">*</a> :__ ligne [`3`](../src/subsilver/portal_body.tpl#L3)
+    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod0.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod0.saut">*</a> :__ ligne [`3`](../src/subsilver/portal_body.tpl#L3)
+    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod0.saut.md#readme) :__ ligne [`9`](../src/subsilver/portal_body.tpl#L9)
+* __[`<!-- END giefmod0 -->`](https://github.com/Etana/template/blob/master/var/giefmod0.md#readme) :__ ligne [`9`](../src/subsilver/portal_body.tpl#L9)
+* __[`<!-- BEGIN giefmod1 -->`](https://github.com/Etana/template/blob/master/var/giefmod1.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod1">*</a> :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
+    * __[`{giefmod1.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod1.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod1.MODVAR">*</a> :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
+    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod1.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod1.saut">*</a> :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
+    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod1.saut.md#readme) :__ ligne [`20`](../src/subsilver/portal_body.tpl#L20)
+* __[`<!-- END giefmod1 -->`](https://github.com/Etana/template/blob/master/var/giefmod1.md#readme) :__ ligne [`20`](../src/subsilver/portal_body.tpl#L20)
+* __[`<!-- BEGIN giefmod2 -->`](https://github.com/Etana/template/blob/master/var/giefmod2.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod2">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)
+    * __[`{giefmod2.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod2.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod2.MODVAR">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)
+    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod2.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod2.saut">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)
+    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod2.saut.md#readme) :__ ligne [`27`](../src/subsilver/portal_body.tpl#L27)
+* __[`<!-- END giefmod2 -->`](https://github.com/Etana/template/blob/master/var/giefmod2.md#readme) :__ ligne [`27`](../src/subsilver/portal_body.tpl#L27)
+* __[`<!-- BEGIN giefmod3 -->`](https://github.com/Etana/template/blob/master/var/giefmod3.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod3">*</a> :__ ligne [`28`](../src/subsilver/portal_body.tpl#L28)
+    * __[`{giefmod3.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod3.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod3.MODVAR">*</a> :__ ligne [`28`](../src/subsilver/portal_body.tpl#L28)
+    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod3.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod3.saut">*</a> :__ ligne [`28`](../src/subsilver/portal_body.tpl#L28)
+    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod3.saut.md#readme) :__ ligne [`34`](../src/subsilver/portal_body.tpl#L34)
+* __[`<!-- END giefmod3 -->`](https://github.com/Etana/template/blob/master/var/giefmod3.md#readme) :__ ligne [`34`](../src/subsilver/portal_body.tpl#L34)
+* __[`<!-- BEGIN giefmod4 -->`](https://github.com/Etana/template/blob/master/var/giefmod4.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod4">*</a> :__ ligne [`39`](../src/subsilver/portal_body.tpl#L39)
+    * __[`{giefmod4.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod4.MODVAR.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod4.MODVAR">*</a> :__ ligne [`39`](../src/subsilver/portal_body.tpl#L39)
+    * __[`<!-- BEGIN saut -->`](https://github.com/Etana/template/blob/master/var/giefmod4.saut.md#readme)<a href="https://fa-tvars.appspot.com/var/giefmod4.saut">*</a> :__ ligne [`39`](../src/subsilver/portal_body.tpl#L39)
+    * __[`<!-- END saut -->`](https://github.com/Etana/template/blob/master/var/giefmod4.saut.md#readme) :__ ligne [`45`](../src/subsilver/portal_body.tpl#L45)
+* __[`<!-- END giefmod4 -->`](https://github.com/Etana/template/blob/master/var/giefmod4.md#readme) :__ ligne [`45`](../src/subsilver/portal_body.tpl#L45)

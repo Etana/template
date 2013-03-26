@@ -22,8 +22,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`119`](../tpl/src/subsilver/album_cat_body.tpl#L119)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L119-L160)[`160`](../tpl/src/subsilver/album_cat_body.tpl#L160)
-
 ### Version PunBB
 * __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`71`](../tpl/src/punbb/album_cat_body.tpl#L71)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L71-L86)[`86`](../tpl/src/punbb/album_cat_body.tpl#L86)
+
+### Version phpBB2
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`119`](../tpl/src/subsilver/album_cat_body.tpl#L119)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L119-L160)[`160`](../tpl/src/subsilver/album_cat_body.tpl#L160)

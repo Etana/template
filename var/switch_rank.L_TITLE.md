@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_overview_top10`](../tpl/var/album_overview_top10.md#readme) :__ ligne [`4`](../tpl/src/subsilver/album_overview_top10.tpl#L4)
-
 ### Version PunBB
 * __[`album_overview_top10`](../tpl/var/album_overview_top10.md#readme) :__ ligne [`8`](../tpl/src/punbb/album_overview_top10.tpl#L8)
+
+### Version phpBB2
+* __[`album_overview_top10`](../tpl/var/album_overview_top10.md#readme) :__ ligne [`4`](../tpl/src/subsilver/album_overview_top10.tpl#L4)

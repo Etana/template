@@ -18,8 +18,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`69`](../tpl/src/subsilver/album_cat_body.tpl#L69)
-
 ### Version PunBB
 * __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`41`](../tpl/src/punbb/album_cat_body.tpl#L41)
+
+### Version phpBB2
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`69`](../tpl/src/subsilver/album_cat_body.tpl#L69)

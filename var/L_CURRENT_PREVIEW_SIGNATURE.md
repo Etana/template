@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme) :__ ligne [`23`](../tpl/src/subsilver/profile_edit_signature.tpl#L23)
-
 ### Version PunBB
 * __[`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme) :__ ligne [`27`](../tpl/src/punbb/profile_edit_signature.tpl#L27)
+
+### Version phpBB2
+* __[`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme) :__ ligne [`23`](../tpl/src/subsilver/profile_edit_signature.tpl#L23)

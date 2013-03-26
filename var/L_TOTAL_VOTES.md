@@ -12,10 +12,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`poll_result`](../tpl/var/poll_result.md#readme) :__ ligne [`32`](../tpl/src/subsilver/poll_result.tpl#L32)
-* __[`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme) :__ ligne [`33`](../tpl/src/subsilver/viewtopic_poll_result.tpl#L33)
-
 ### Version PunBB
-* __[`poll_result`](../tpl/var/poll_result.md#readme) :__ ligne [`16`](../tpl/src/punbb/poll_result.tpl#L16)
 * __[`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme) :__ ligne [`27`](../tpl/src/punbb/viewtopic_poll_result.tpl#L27)
+* __[`poll_result`](../tpl/var/poll_result.md#readme) :__ ligne [`16`](../tpl/src/punbb/poll_result.tpl#L16)
+
+### Version phpBB2
+* __[`viewtopic_poll_result`](../tpl/var/viewtopic_poll_result.md#readme) :__ ligne [`33`](../tpl/src/subsilver/viewtopic_poll_result.tpl#L33)
+* __[`poll_result`](../tpl/var/poll_result.md#readme) :__ ligne [`32`](../tpl/src/subsilver/poll_result.tpl#L32)

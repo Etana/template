@@ -26,8 +26,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`200`](../tpl/src/subsilver/viewtopic_body.tpl#L200)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L200-L204)[`204`](../tpl/src/subsilver/viewtopic_body.tpl#L204)
-
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`206`](../tpl/src/punbb/viewtopic_body.tpl#L206)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L206-L210)[`210`](../tpl/src/punbb/viewtopic_body.tpl#L210)
+
+### Version phpBB2
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`200`](../tpl/src/subsilver/viewtopic_body.tpl#L200)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L200-L204)[`204`](../tpl/src/subsilver/viewtopic_body.tpl#L204)

@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`modcp_move`](../tpl/var/modcp_move.md#readme) :__ ligne [`19`](../tpl/src/subsilver/modcp_move.tpl#L19)
-
 ### Version PunBB
 * __[`modcp_move`](../tpl/var/modcp_move.md#readme) :__ ligne [`31`](../tpl/src/punbb/modcp_move.tpl#L31)
+
+### Version phpBB2
+* __[`modcp_move`](../tpl/var/modcp_move.md#readme) :__ ligne [`19`](../tpl/src/subsilver/modcp_move.tpl#L19)

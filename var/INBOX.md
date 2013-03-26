@@ -12,10 +12,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`4`](../tpl/src/subsilver/privmsgs_read_body.tpl#L4)
-* __[`privmsgs_body`](../tpl/var/privmsgs_body.md#readme) :__ ligne [`7`](../tpl/src/subsilver/privmsgs_body.tpl#L7)
-
 ### Version PunBB
-* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`23`](../tpl/src/punbb/privmsgs_read_body.tpl#L23)
 * __[`privmsgs_body`](../tpl/var/privmsgs_body.md#readme) :__ ligne [`23`](../tpl/src/punbb/privmsgs_body.tpl#L23)
+* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`23`](../tpl/src/punbb/privmsgs_read_body.tpl#L23)
+
+### Version phpBB2
+* __[`privmsgs_body`](../tpl/var/privmsgs_body.md#readme) :__ ligne [`7`](../tpl/src/subsilver/privmsgs_body.tpl#L7)
+* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`4`](../tpl/src/subsilver/privmsgs_read_body.tpl#L4)

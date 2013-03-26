@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_most_active_starters`](../tpl/var/mod_most_active_starters.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_most_active_starters.tpl#L11)
-
 ### Version PunBB
 * __[`mod_most_active_starters`](../tpl/var/mod_most_active_starters.md#readme) :__ ligne [`8`](../tpl/src/punbb/mod_most_active_starters.tpl#L8)
+
+### Version phpBB2
+* __[`mod_most_active_starters`](../tpl/var/mod_most_active_starters.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_most_active_starters.tpl#L11)

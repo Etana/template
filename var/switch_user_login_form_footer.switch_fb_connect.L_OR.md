@@ -18,8 +18,8 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`162`](../tpl/src/subsilver/index_body.tpl#L162)
-
 ### Version PunBB
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`113`](../tpl/src/punbb/index_body.tpl#L113)
+
+### Version phpBB2
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`162`](../tpl/src/subsilver/index_body.tpl#L162)

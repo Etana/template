@@ -14,10 +14,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ ligne [`26`](../tpl/src/subsilver/privmsg_topic_review.tpl#L26)
-* __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ ligne [`49`](../tpl/src/subsilver/modcp_split.tpl#L49)
-
 ### Version PunBB
-* __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ ligne [`39`](../tpl/src/punbb/privmsg_topic_review.tpl#L39)
 * __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ ligne [`67`](../tpl/src/punbb/modcp_split.tpl#L67)
+* __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ ligne [`39`](../tpl/src/punbb/privmsg_topic_review.tpl#L39)
+
+### Version phpBB2
+* __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ ligne [`49`](../tpl/src/subsilver/modcp_split.tpl#L49)
+* __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ ligne [`26`](../tpl/src/subsilver/privmsg_topic_review.tpl#L26)

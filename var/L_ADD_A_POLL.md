@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_poll_body`](../tpl/var/posting_poll_body.md#readme) :__ lignes [`5`](../tpl/src/subsilver/posting_poll_body.tpl#L5), [`14`](../tpl/src/subsilver/posting_poll_body.tpl#L14)
-
 ### Version PunBB
 * __[`posting_poll_body`](../tpl/var/posting_poll_body.md#readme) :__ ligne [`3`](../tpl/src/punbb/posting_poll_body.tpl#L3)
+
+### Version phpBB2
+* __[`posting_poll_body`](../tpl/var/posting_poll_body.md#readme) :__ lignes [`5`](../tpl/src/subsilver/posting_poll_body.tpl#L5), [`14`](../tpl/src/subsilver/posting_poll_body.tpl#L14)

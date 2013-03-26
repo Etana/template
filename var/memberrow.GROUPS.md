@@ -14,8 +14,8 @@ Contient le groupe du membre.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`42`](../tpl/src/subsilver/memberlist_body.tpl#L42)
-
 ### Version PunBB
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`81`](../tpl/src/punbb/memberlist_body.tpl#L81)
+
+### Version phpBB2
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`42`](../tpl/src/subsilver/memberlist_body.tpl#L42)

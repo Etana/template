@@ -14,8 +14,8 @@ Contient le nom de l'utilisateur ayant posté le message.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`19`](../tpl/src/subsilver/search_results_posts.tpl#L19)
-
 ### Version PunBB
 * __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`43`](../tpl/src/punbb/search_results_posts.tpl#L43)
+
+### Version phpBB2
+* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`19`](../tpl/src/subsilver/search_results_posts.tpl#L19)

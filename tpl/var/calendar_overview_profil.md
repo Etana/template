@@ -20,6 +20,19 @@
     * [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
     * [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
 
+## Template par défaut PunBB
+
+[__Code source__](../src/punbb/calendar_overview_profil.tpl#files)
+
+### Positions des variables 
+
+* __[`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)<a href="https://fa-tvars.appspot.com/var/AGE">*</a> :__ ligne [`8`](../src/punbb/calendar_overview_profil.tpl#L8)
+* __[`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR">*</a> :__ ligne [`7`](../src/punbb/calendar_overview_profil.tpl#L7)
+* __[`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AGE">*</a> :__ ligne [`8`](../src/punbb/calendar_overview_profil.tpl#L8)
+* __[`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TITLE">*</a> :__ ligne [`2`](../src/punbb/calendar_overview_profil.tpl#L2)
+* __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ ligne [`4`](../src/punbb/calendar_overview_profil.tpl#L4)
+
+
 ## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/calendar_overview_profil.tpl#files)
@@ -32,16 +45,3 @@
 * __[`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TITLE">*</a> :__ ligne [`3`](../src/subsilver/calendar_overview_profil.tpl#L3)
 * __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ ligne [`7`](../src/subsilver/calendar_overview_profil.tpl#L7)
 * __[`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)<a href="https://fa-tvars.appspot.com/var/TXT_CLASS">*</a> :__ ligne [`6`](../src/subsilver/calendar_overview_profil.tpl#L6)
-
-
-## Template par défaut PunBB
-
-[__Code source__](../src/punbb/calendar_overview_profil.tpl#files)
-
-### Positions des variables 
-
-* __[`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)<a href="https://fa-tvars.appspot.com/var/AGE">*</a> :__ ligne [`8`](../src/punbb/calendar_overview_profil.tpl#L8)
-* __[`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR">*</a> :__ ligne [`7`](../src/punbb/calendar_overview_profil.tpl#L7)
-* __[`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AGE">*</a> :__ ligne [`8`](../src/punbb/calendar_overview_profil.tpl#L8)
-* __[`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TITLE">*</a> :__ ligne [`2`](../src/punbb/calendar_overview_profil.tpl#L2)
-* __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ ligne [`4`](../src/punbb/calendar_overview_profil.tpl#L4)

@@ -14,8 +14,8 @@ Adresse URL du popup d'avertissement d'un nouveau rapport : `/report?mode=popup`
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`134`](../tpl/src/subsilver/overall_header.tpl#L134)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`128`](../tpl/src/punbb/overall_header.tpl#L128)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`134`](../tpl/src/subsilver/overall_header.tpl#L134)

@@ -14,8 +14,8 @@ Contient la vitesse de défilement des annonces définie dans `PA > Général > 
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`114`](../tpl/src/subsilver/overall_header.tpl#L114), [`138`](../tpl/src/subsilver/overall_header.tpl#L138)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`107`](../tpl/src/punbb/overall_header.tpl#L107), [`132`](../tpl/src/punbb/overall_header.tpl#L132)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`114`](../tpl/src/subsilver/overall_header.tpl#L114), [`138`](../tpl/src/subsilver/overall_header.tpl#L138)

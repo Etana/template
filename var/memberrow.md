@@ -30,8 +30,8 @@ Boucle affichant les informations d'un membre et se répétant pour chaque membr
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ lignes [`36`](../tpl/src/subsilver/memberlist_body.tpl#L36)[`<->`](../tpl/src/subsilver/memberlist_body.tpl#L36-L51)[`51`](../tpl/src/subsilver/memberlist_body.tpl#L51)
-
 ### Version PunBB
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ lignes [`77`](../tpl/src/punbb/memberlist_body.tpl#L77)[`<->`](../tpl/src/punbb/memberlist_body.tpl#L77-L90)[`90`](../tpl/src/punbb/memberlist_body.tpl#L90)
+
+### Version phpBB2
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ lignes [`36`](../tpl/src/subsilver/memberlist_body.tpl#L36)[`<->`](../tpl/src/subsilver/memberlist_body.tpl#L36-L51)[`51`](../tpl/src/subsilver/memberlist_body.tpl#L51)

@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`111`](../tpl/src/subsilver/album_moderate_body.tpl#L111)
-
 ### Version PunBB
 * __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`136`](../tpl/src/punbb/album_moderate_body.tpl#L136)
+
+### Version phpBB2
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`111`](../tpl/src/subsilver/album_moderate_body.tpl#L111)

@@ -16,8 +16,8 @@ Contient le script de Facebook Connect si celui-ci est activé dans `PA > Module
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`27`](../tpl/src/subsilver/overall_header.tpl#L27)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`27`](../tpl/src/punbb/overall_header.tpl#L27)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`27`](../tpl/src/subsilver/overall_header.tpl#L27)

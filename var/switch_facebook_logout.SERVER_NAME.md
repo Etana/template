@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`49`](../tpl/src/subsilver/overall_footer_end.tpl#L49)
-
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`63`](../tpl/src/punbb/overall_footer_end.tpl#L63)
+
+### Version phpBB2
+* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`49`](../tpl/src/subsilver/overall_footer_end.tpl#L49)

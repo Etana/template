@@ -15,5 +15,5 @@ contenu
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`2`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L2)[`<->`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L2-L21)[`21`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L21)
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`2`](../tpl/src/subsilver/posting_body.tpl#L2)[`<->`](../tpl/src/subsilver/posting_body.tpl#L2-L21)[`21`](../tpl/src/subsilver/posting_body.tpl#L21)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`2`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L2)[`<->`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L2-L21)[`21`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L21)

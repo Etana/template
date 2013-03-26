@@ -12,10 +12,10 @@ Lien vers "Envoyer à un ami" dans le menu Plus !
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`17`](../tpl/src/subsilver/viewforum_body.tpl#L17)
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`81`](../tpl/src/subsilver/viewtopic_body.tpl#L81)
-
 ### Version PunBB
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`10`](../tpl/src/punbb/viewforum_body.tpl#L10)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`54`](../tpl/src/punbb/viewtopic_body.tpl#L54)
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`10`](../tpl/src/punbb/viewforum_body.tpl#L10)
+
+### Version phpBB2
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`81`](../tpl/src/subsilver/viewtopic_body.tpl#L81)
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`17`](../tpl/src/subsilver/viewforum_body.tpl#L17)

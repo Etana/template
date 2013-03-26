@@ -14,8 +14,8 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ ligne [`21`](../tpl/src/subsilver/viewonline_body.tpl#L21)
-
 ### Version PunBB
 * __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ ligne [`33`](../tpl/src/punbb/viewonline_body.tpl#L33)
+
+### Version phpBB2
+* __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ ligne [`21`](../tpl/src/subsilver/viewonline_body.tpl#L21)

@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`492`](../tpl/src/subsilver/posting_body.tpl#L492)
-
 ### Version PunBB
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`467`](../tpl/src/punbb/posting_body.tpl#L467)
+
+### Version phpBB2
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`492`](../tpl/src/subsilver/posting_body.tpl#L492)

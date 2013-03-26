@@ -14,8 +14,8 @@ Affiche les widgets de la colonne de droite un par un.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme) :__ ligne [`13`](../tpl/src/subsilver/overall_footer_begin.tpl#L13)
-
 ### Version PunBB
 * __[`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme) :__ ligne [`18`](../tpl/src/punbb/overall_footer_begin.tpl#L18)
+
+### Version phpBB2
+* __[`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme) :__ ligne [`13`](../tpl/src/subsilver/overall_footer_begin.tpl#L13)

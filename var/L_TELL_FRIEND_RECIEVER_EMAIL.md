@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_send_email`](../tpl/var/profile_send_email.md#readme) :__ ligne [`17`](../tpl/src/subsilver/profile_send_email.tpl#L17)
-
 ### Version PunBB
 * __[`profile_send_email`](../tpl/var/profile_send_email.md#readme) :__ ligne [`38`](../tpl/src/punbb/profile_send_email.tpl#L38)
+
+### Version phpBB2
+* __[`profile_send_email`](../tpl/var/profile_send_email.md#readme) :__ ligne [`17`](../tpl/src/subsilver/profile_send_email.tpl#L17)

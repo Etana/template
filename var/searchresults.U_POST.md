@@ -14,8 +14,8 @@ Contient le lien du message bouclé.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`23`](../tpl/src/subsilver/search_results_posts.tpl#L23)
-
 ### Version PunBB
 * __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`37`](../tpl/src/punbb/search_results_posts.tpl#L37)
+
+### Version phpBB2
+* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`23`](../tpl/src/subsilver/search_results_posts.tpl#L23)

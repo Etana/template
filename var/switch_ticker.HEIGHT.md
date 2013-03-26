@@ -14,8 +14,8 @@ Contient la hauteur des annonces définie dans `PA > Général > Messages et Ema
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`42`](../tpl/src/subsilver/overall_header.tpl#L42), [`138`](../tpl/src/subsilver/overall_header.tpl#L138), [`297`](../tpl/src/subsilver/overall_header.tpl#L297)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`42`](../tpl/src/punbb/overall_header.tpl#L42), [`132`](../tpl/src/punbb/overall_header.tpl#L132), [`274`](../tpl/src/punbb/overall_header.tpl#L274)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`42`](../tpl/src/subsilver/overall_header.tpl#L42), [`138`](../tpl/src/subsilver/overall_header.tpl#L138), [`297`](../tpl/src/subsilver/overall_header.tpl#L297)

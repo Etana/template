@@ -20,8 +20,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ lignes [`76`](../tpl/src/subsilver/profile_view_body.tpl#L76)[`<->`](../tpl/src/subsilver/profile_view_body.tpl#L76-L81)[`81`](../tpl/src/subsilver/profile_view_body.tpl#L81)
-
 ### Version PunBB
 * __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ lignes [`55`](../tpl/src/punbb/profile_view_body.tpl#L55)[`<->`](../tpl/src/punbb/profile_view_body.tpl#L55-L59)[`59`](../tpl/src/punbb/profile_view_body.tpl#L59)
+
+### Version phpBB2
+* __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ lignes [`76`](../tpl/src/subsilver/profile_view_body.tpl#L76)[`<->`](../tpl/src/subsilver/profile_view_body.tpl#L76-L81)[`81`](../tpl/src/subsilver/profile_view_body.tpl#L81)

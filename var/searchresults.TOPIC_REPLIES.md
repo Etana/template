@@ -14,8 +14,8 @@ Contient le nombre de réponses dans le sujet.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`21`](../tpl/src/subsilver/search_results_posts.tpl#L21)
-
 ### Version PunBB
 * __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`61`](../tpl/src/punbb/search_results_posts.tpl#L61)
+
+### Version phpBB2
+* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`21`](../tpl/src/subsilver/search_results_posts.tpl#L21)

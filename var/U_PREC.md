@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme) :__ ligne [`26`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L26)
-
 ### Version PunBB
 * __[`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme) :__ ligne [`32`](../tpl/src/punbb/calendar_scheduler_body.tpl#L32)
+
+### Version phpBB2
+* __[`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme) :__ ligne [`26`](../tpl/src/subsilver/calendar_scheduler_body.tpl#L26)

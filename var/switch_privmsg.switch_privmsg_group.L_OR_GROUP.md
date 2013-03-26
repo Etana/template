@@ -16,10 +16,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`293`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L293)
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`120`](../tpl/src/subsilver/posting_body.tpl#L120)
-
 ### Version PunBB
-* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`259`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L259)
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`103`](../tpl/src/punbb/posting_body.tpl#L103)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`259`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L259)
+
+### Version phpBB2
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`120`](../tpl/src/subsilver/posting_body.tpl#L120)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`293`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L293)

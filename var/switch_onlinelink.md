@@ -14,8 +14,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme) :__ lignes [`13`](../tpl/src/subsilver/mod_whoisonline.tpl#L13)[`<->`](../tpl/src/subsilver/mod_whoisonline.tpl#L13-L17)[`17`](../tpl/src/subsilver/mod_whoisonline.tpl#L17)
-
 ### Version PunBB
 * __[`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme) :__ lignes [`6`](../tpl/src/punbb/mod_whoisonline.tpl#L6)[`<->`](../tpl/src/punbb/mod_whoisonline.tpl#L6-L9)[`9`](../tpl/src/punbb/mod_whoisonline.tpl#L9)
+
+### Version phpBB2
+* __[`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme) :__ lignes [`13`](../tpl/src/subsilver/mod_whoisonline.tpl#L13)[`<->`](../tpl/src/subsilver/mod_whoisonline.tpl#L13-L17)[`17`](../tpl/src/subsilver/mod_whoisonline.tpl#L17)

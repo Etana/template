@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`89`](../tpl/src/subsilver/privmsgs_read_body.tpl#L89)
-
 ### Version PunBB
 * __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`95`](../tpl/src/punbb/privmsgs_read_body.tpl#L95)
+
+### Version phpBB2
+* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`89`](../tpl/src/subsilver/privmsgs_read_body.tpl#L89)

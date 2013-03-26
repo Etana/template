@@ -14,8 +14,8 @@ Nombre de message du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`18`](../tpl/src/subsilver/groupcp_pending_info.tpl#L18)
-
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`24`](../tpl/src/punbb/groupcp_pending_info.tpl#L24)
+
+### Version phpBB2
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`18`](../tpl/src/subsilver/groupcp_pending_info.tpl#L18)

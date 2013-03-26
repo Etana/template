@@ -24,8 +24,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ ligne [`54`](../tpl/src/subsilver/calendar_box.tpl#L54)
-
 ### Version PunBB
 * __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ ligne [`42`](../tpl/src/punbb/calendar_box.tpl#L42)
+
+### Version phpBB2
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ ligne [`54`](../tpl/src/subsilver/calendar_box.tpl#L54)

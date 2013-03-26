@@ -21,8 +21,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`20`](../tpl/src/subsilver/index_box.tpl#L20)[`<->`](../tpl/src/subsilver/index_box.tpl#L20-L27)[`27`](../tpl/src/subsilver/index_box.tpl#L27)
-
 ### Version PunBB
 * __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`6`](../tpl/src/punbb/index_box.tpl#L6)[`<->`](../tpl/src/punbb/index_box.tpl#L6-L21)[`21`](../tpl/src/punbb/index_box.tpl#L21)
+
+### Version phpBB2
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`20`](../tpl/src/subsilver/index_box.tpl#L20)[`<->`](../tpl/src/subsilver/index_box.tpl#L20-L27)[`27`](../tpl/src/subsilver/index_box.tpl#L27)

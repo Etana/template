@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ ligne [`59`](../tpl/src/subsilver/profile_view_body.tpl#L59)
-
 ### Version PunBB
 * __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ ligne [`43`](../tpl/src/punbb/profile_view_body.tpl#L43)
+
+### Version phpBB2
+* __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ ligne [`59`](../tpl/src/subsilver/profile_view_body.tpl#L59)

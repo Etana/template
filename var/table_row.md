@@ -18,8 +18,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`standard`](../tpl/var/standard.md#readme) :__ lignes [`1`](../tpl/src/subsilver/standard.tpl#L1)[`<->`](../tpl/src/subsilver/standard.tpl#L1-L8)[`8`](../tpl/src/subsilver/standard.tpl#L8)
-
 ### Version PunBB
 * __[`standard`](../tpl/var/standard.md#readme) :__ lignes [`1`](../tpl/src/punbb/standard.tpl#L1)[`<->`](../tpl/src/punbb/standard.tpl#L1-L5)[`5`](../tpl/src/punbb/standard.tpl#L5), [`7`](../tpl/src/punbb/standard.tpl#L7)[`<->`](../tpl/src/punbb/standard.tpl#L7-L10)[`10`](../tpl/src/punbb/standard.tpl#L10)
+
+### Version phpBB2
+* __[`standard`](../tpl/var/standard.md#readme) :__ lignes [`1`](../tpl/src/subsilver/standard.tpl#L1)[`<->`](../tpl/src/subsilver/standard.tpl#L1-L8)[`8`](../tpl/src/subsilver/standard.tpl#L8)

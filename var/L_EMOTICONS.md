@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`8`](../tpl/src/subsilver/posting_smilies.tpl#L8)
-
 ### Version PunBB
 * __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`8`](../tpl/src/punbb/posting_smilies.tpl#L8)
+
+### Version phpBB2
+* __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`8`](../tpl/src/subsilver/posting_smilies.tpl#L8)

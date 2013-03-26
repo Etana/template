@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`691`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L691)
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`712`](../tpl/src/subsilver/posting_body.tpl#L712)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`691`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L691)

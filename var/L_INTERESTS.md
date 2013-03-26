@@ -14,9 +14,9 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version PunBB
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`90`](../tpl/src/punbb/profile_add_body.tpl#L90)
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`67`](../tpl/src/punbb/memberlist_body.tpl#L67)
+
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`29`](../tpl/src/subsilver/memberlist_body.tpl#L29)
-
-### Version PunBB
-* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`67`](../tpl/src/punbb/memberlist_body.tpl#L67)
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`90`](../tpl/src/punbb/profile_add_body.tpl#L90)

@@ -12,10 +12,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`337`](../tpl/src/subsilver/profile_add_body.tpl#L337)
-* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`19`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L19)
-
 ### Version PunBB
 * __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`373`](../tpl/src/punbb/profile_add_body.tpl#L373)
 * __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`32`](../tpl/src/punbb/rpg_sheet_edit.tpl#L32)
+
+### Version phpBB2
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`337`](../tpl/src/subsilver/profile_add_body.tpl#L337)
+* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`19`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L19)

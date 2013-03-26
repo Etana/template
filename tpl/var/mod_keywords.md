@@ -17,20 +17,6 @@
     * [`{L_KEYWORDS}`](https://github.com/Etana/template/blob/master/var/L_KEYWORDS.md#readme)
     * [`<!-- BEGIN li_row -->...<!-- END li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme)
 
-## Template par défaut phpBB2
-
-[__Code source__](../src/subsilver/mod_keywords.tpl#files)
-
-### Positions des variables 
-
-* __[`{L_KEYWORDS}`](https://github.com/Etana/template/blob/master/var/L_KEYWORDS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_KEYWORDS">*</a> :__ ligne [`4`](../src/subsilver/mod_keywords.tpl#L4)
-* __[`<!-- BEGIN li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row">*</a> :__ ligne [`11`](../src/subsilver/mod_keywords.tpl#L11)
-    * __[`{li_row.KEYWORDS}`](https://github.com/Etana/template/blob/master/var/li_row.KEYWORDS.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row.KEYWORDS">*</a> :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
-    * __[`{li_row.LINKEYWORDS}`](https://github.com/Etana/template/blob/master/var/li_row.LINKEYWORDS.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row.LINKEYWORDS">*</a> :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
-    * __[`{li_row.SIZE}`](https://github.com/Etana/template/blob/master/var/li_row.SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row.SIZE">*</a> :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
-* __[`<!-- END li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme) :__ ligne [`13`](../src/subsilver/mod_keywords.tpl#L13)
-
-
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_keywords.tpl#files)
@@ -43,3 +29,17 @@
     * __[`{li_row.LINKEYWORDS}`](https://github.com/Etana/template/blob/master/var/li_row.LINKEYWORDS.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row.LINKEYWORDS">*</a> :__ ligne [`6`](../src/punbb/mod_keywords.tpl#L6)
     * __[`{li_row.SIZE}`](https://github.com/Etana/template/blob/master/var/li_row.SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row.SIZE">*</a> :__ ligne [`6`](../src/punbb/mod_keywords.tpl#L6)
 * __[`<!-- END li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme) :__ ligne [`7`](../src/punbb/mod_keywords.tpl#L7)
+
+
+## Template par défaut phpBB2
+
+[__Code source__](../src/subsilver/mod_keywords.tpl#files)
+
+### Positions des variables 
+
+* __[`{L_KEYWORDS}`](https://github.com/Etana/template/blob/master/var/L_KEYWORDS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_KEYWORDS">*</a> :__ ligne [`4`](../src/subsilver/mod_keywords.tpl#L4)
+* __[`<!-- BEGIN li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row">*</a> :__ ligne [`11`](../src/subsilver/mod_keywords.tpl#L11)
+    * __[`{li_row.KEYWORDS}`](https://github.com/Etana/template/blob/master/var/li_row.KEYWORDS.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row.KEYWORDS">*</a> :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
+    * __[`{li_row.LINKEYWORDS}`](https://github.com/Etana/template/blob/master/var/li_row.LINKEYWORDS.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row.LINKEYWORDS">*</a> :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
+    * __[`{li_row.SIZE}`](https://github.com/Etana/template/blob/master/var/li_row.SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/li_row.SIZE">*</a> :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
+* __[`<!-- END li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme) :__ ligne [`13`](../src/subsilver/mod_keywords.tpl#L13)

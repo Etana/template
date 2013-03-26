@@ -14,9 +14,9 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`24`](../tpl/src/subsilver/memberlist_body.tpl#L24)
-* __[`rpg_sheet`](../tpl/var/rpg_sheet.md#readme) :__ ligne [`10`](../tpl/src/subsilver/rpg_sheet.tpl#L10)
-
 ### Version PunBB
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`63`](../tpl/src/punbb/memberlist_body.tpl#L63)
+
+### Version phpBB2
+* __[`rpg_sheet`](../tpl/var/rpg_sheet.md#readme) :__ ligne [`10`](../tpl/src/subsilver/rpg_sheet.tpl#L10)
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`24`](../tpl/src/subsilver/memberlist_body.tpl#L24)

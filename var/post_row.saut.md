@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1)[`<->`](../tpl/src/subsilver/mod_news.tpl#L1-L6)[`6`](../tpl/src/subsilver/mod_news.tpl#L6)
-
 ### Version PunBB
 * __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`2`](../tpl/src/punbb/mod_news.tpl#L2)[`<->`](../tpl/src/punbb/mod_news.tpl#L2-L4)[`4`](../tpl/src/punbb/mod_news.tpl#L4)
+
+### Version phpBB2
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1)[`<->`](../tpl/src/subsilver/mod_news.tpl#L1-L6)[`6`](../tpl/src/subsilver/mod_news.tpl#L6)

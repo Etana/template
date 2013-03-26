@@ -12,10 +12,10 @@ Contient une liste de date pour la recherche.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`22`](../tpl/src/subsilver/album_formsearch_body.tpl#L22)
-* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`50`](../tpl/src/subsilver/search_body.tpl#L50)
-
 ### Version PunBB
 * __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`41`](../tpl/src/punbb/album_formsearch_body.tpl#L41)
 * __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`65`](../tpl/src/punbb/search_body.tpl#L65)
+
+### Version phpBB2
+* __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`22`](../tpl/src/subsilver/album_formsearch_body.tpl#L22)
+* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`50`](../tpl/src/subsilver/search_body.tpl#L50)

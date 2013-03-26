@@ -14,8 +14,8 @@ Contient l'adresse URL de la balise link rel canonical qui est liée au duplicat
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`12`](../tpl/src/subsilver/overall_header.tpl#L12)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`12`](../tpl/src/punbb/overall_header.tpl#L12)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`12`](../tpl/src/subsilver/overall_header.tpl#L12)

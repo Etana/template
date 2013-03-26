@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme) :__ lignes [`13`](../tpl/src/subsilver/groupcp_user_body.tpl#L13)[`<->`](../tpl/src/subsilver/groupcp_user_body.tpl#L13-L18)[`18`](../tpl/src/subsilver/groupcp_user_body.tpl#L18)
-
 ### Version PunBB
 * __[`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme) :__ lignes [`39`](../tpl/src/punbb/groupcp_user_body.tpl#L39)[`<->`](../tpl/src/punbb/groupcp_user_body.tpl#L39-L52)[`52`](../tpl/src/punbb/groupcp_user_body.tpl#L52)
+
+### Version phpBB2
+* __[`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme) :__ lignes [`13`](../tpl/src/subsilver/groupcp_user_body.tpl#L13)[`<->`](../tpl/src/subsilver/groupcp_user_body.tpl#L13-L18)[`18`](../tpl/src/subsilver/groupcp_user_body.tpl#L18)

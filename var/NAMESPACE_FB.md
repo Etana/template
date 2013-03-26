@@ -12,8 +12,8 @@ Remplacé par `xmlns:fb="http://www.facebook.com/2008/fbml"` si vous êtes sur u
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`2`](../tpl/src/subsilver/overall_header.tpl#L2)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`2`](../tpl/src/punbb/overall_header.tpl#L2)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`2`](../tpl/src/subsilver/overall_header.tpl#L2)

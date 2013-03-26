@@ -20,8 +20,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/topics_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L1-L95)[`95`](../tpl/src/subsilver/topics_list_box.tpl#L95)
-
 ### Version PunBB
 * __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`1`](../tpl/src/punbb/topics_list_box.tpl#L1)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L1-L122)[`122`](../tpl/src/punbb/topics_list_box.tpl#L122)
+
+### Version phpBB2
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/topics_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L1-L95)[`95`](../tpl/src/subsilver/topics_list_box.tpl#L95)

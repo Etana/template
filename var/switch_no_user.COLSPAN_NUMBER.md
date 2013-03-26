@@ -14,8 +14,8 @@ Contient le nombre de colonnes affichées.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`54`](../tpl/src/subsilver/memberlist_body.tpl#L54)
-
 ### Version PunBB
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`93`](../tpl/src/punbb/memberlist_body.tpl#L93)
+
+### Version phpBB2
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`54`](../tpl/src/subsilver/memberlist_body.tpl#L54)

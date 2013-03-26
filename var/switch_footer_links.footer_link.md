@@ -26,8 +26,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ lignes [`17`](../tpl/src/subsilver/overall_footer_end.tpl#L17)[`<->`](../tpl/src/subsilver/overall_footer_end.tpl#L17-L20)[`20`](../tpl/src/subsilver/overall_footer_end.tpl#L20)
-
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ lignes [`19`](../tpl/src/punbb/overall_footer_end.tpl#L19)[`<->`](../tpl/src/punbb/overall_footer_end.tpl#L19-L22)[`22`](../tpl/src/punbb/overall_footer_end.tpl#L22)
+
+### Version phpBB2
+* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ lignes [`17`](../tpl/src/subsilver/overall_footer_end.tpl#L17)[`<->`](../tpl/src/subsilver/overall_footer_end.tpl#L17-L20)[`20`](../tpl/src/subsilver/overall_footer_end.tpl#L20)

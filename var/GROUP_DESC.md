@@ -12,8 +12,8 @@ Remplacé par la description du groupe dont on est sur la page.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`12`](../tpl/src/subsilver/groupcp_info_body.tpl#L12)
-
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`40`](../tpl/src/punbb/groupcp_info_body.tpl#L40)
+
+### Version phpBB2
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`12`](../tpl/src/subsilver/groupcp_info_body.tpl#L12)

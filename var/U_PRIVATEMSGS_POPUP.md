@@ -12,8 +12,8 @@ Adresse url absolue vers le popup de signalement de nouveau message privé : `/p
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`130`](../tpl/src/subsilver/overall_header.tpl#L130)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`124`](../tpl/src/punbb/overall_header.tpl#L124)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`130`](../tpl/src/subsilver/overall_header.tpl#L130)

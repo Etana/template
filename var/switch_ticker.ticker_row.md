@@ -20,8 +20,8 @@ Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > G
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`299`](../tpl/src/subsilver/overall_header.tpl#L299)[`<->`](../tpl/src/subsilver/overall_header.tpl#L299-L301)[`301`](../tpl/src/subsilver/overall_header.tpl#L301)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`276`](../tpl/src/punbb/overall_header.tpl#L276)[`<->`](../tpl/src/punbb/overall_header.tpl#L276-L278)[`278`](../tpl/src/punbb/overall_header.tpl#L278)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`299`](../tpl/src/subsilver/overall_header.tpl#L299)[`<->`](../tpl/src/subsilver/overall_header.tpl#L299-L301)[`301`](../tpl/src/subsilver/overall_header.tpl#L301)

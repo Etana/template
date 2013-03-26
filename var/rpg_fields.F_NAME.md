@@ -14,10 +14,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`50`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L50)
-* __[`rpg_sheet`](../tpl/var/rpg_sheet.md#readme) :__ ligne [`31`](../tpl/src/subsilver/rpg_sheet.tpl#L31)
-
 ### Version PunBB
-* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`52`](../tpl/src/punbb/rpg_sheet_edit.tpl#L52)
 * __[`rpg_sheet`](../tpl/var/rpg_sheet.md#readme) :__ ligne [`41`](../tpl/src/punbb/rpg_sheet.tpl#L41)
+* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`52`](../tpl/src/punbb/rpg_sheet_edit.tpl#L52)
+
+### Version phpBB2
+* __[`rpg_sheet`](../tpl/var/rpg_sheet.md#readme) :__ ligne [`31`](../tpl/src/subsilver/rpg_sheet.tpl#L31)
+* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`50`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L50)

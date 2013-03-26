@@ -18,8 +18,8 @@ Boucle affichant une séparation `|` entre chaque lien renseigné dans `PA > Mod
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ lignes [`18`](../tpl/src/subsilver/overall_footer_end.tpl#L18)[`<->`](../tpl/src/subsilver/overall_footer_end.tpl#L18-L18)[`18`](../tpl/src/subsilver/overall_footer_end.tpl#L18)
-
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ lignes [`20`](../tpl/src/punbb/overall_footer_end.tpl#L20)[`<->`](../tpl/src/punbb/overall_footer_end.tpl#L20-L20)[`20`](../tpl/src/punbb/overall_footer_end.tpl#L20)
+
+### Version phpBB2
+* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ lignes [`18`](../tpl/src/subsilver/overall_footer_end.tpl#L18)[`<->`](../tpl/src/subsilver/overall_footer_end.tpl#L18-L18)[`18`](../tpl/src/subsilver/overall_footer_end.tpl#L18)

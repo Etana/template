@@ -12,8 +12,8 @@ Image des annonces globales définie dans `PA > Affichage > Images et Couleurs |
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`105`](../tpl/src/subsilver/viewforum_body.tpl#L105)
-
 ### Version PunBB
 * __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`78`](../tpl/src/punbb/viewforum_body.tpl#L78)
+
+### Version phpBB2
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`105`](../tpl/src/subsilver/viewforum_body.tpl#L105)

@@ -46,8 +46,8 @@ Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ lignes [`14`](../tpl/src/subsilver/groupcp_pending_info.tpl#L14)[`<->`](../tpl/src/subsilver/groupcp_pending_info.tpl#L14-L24)[`24`](../tpl/src/subsilver/groupcp_pending_info.tpl#L24)
-
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ lignes [`20`](../tpl/src/punbb/groupcp_pending_info.tpl#L20)[`<->`](../tpl/src/punbb/groupcp_pending_info.tpl#L20-L30)[`30`](../tpl/src/punbb/groupcp_pending_info.tpl#L30)
+
+### Version phpBB2
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ lignes [`14`](../tpl/src/subsilver/groupcp_pending_info.tpl#L14)[`<->`](../tpl/src/subsilver/groupcp_pending_info.tpl#L14-L24)[`24`](../tpl/src/subsilver/groupcp_pending_info.tpl#L24)

@@ -20,8 +20,8 @@ Image `E-mail` ( choisie dans [`Index`](http://votre-forum.appspot.com/#/admin/,
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`20`](../tpl/src/subsilver/groupcp_pending_info.tpl#L20)
-
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`26`](../tpl/src/punbb/groupcp_pending_info.tpl#L26)
+
+### Version phpBB2
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`20`](../tpl/src/subsilver/groupcp_pending_info.tpl#L20)

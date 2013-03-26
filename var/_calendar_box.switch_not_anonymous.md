@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`10`](../tpl/src/subsilver/calendar_box.tpl#L10)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L10-L12)[`12`](../tpl/src/subsilver/calendar_box.tpl#L12), [`16`](../tpl/src/subsilver/calendar_box.tpl#L16)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L16-L18)[`18`](../tpl/src/subsilver/calendar_box.tpl#L18)
-
 ### Version PunBB
 * __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`3`](../tpl/src/punbb/calendar_box.tpl#L3)[`<->`](../tpl/src/punbb/calendar_box.tpl#L3-L6)[`6`](../tpl/src/punbb/calendar_box.tpl#L6)
+
+### Version phpBB2
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`10`](../tpl/src/subsilver/calendar_box.tpl#L10)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L10-L12)[`12`](../tpl/src/subsilver/calendar_box.tpl#L12), [`16`](../tpl/src/subsilver/calendar_box.tpl#L16)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L16-L18)[`18`](../tpl/src/subsilver/calendar_box.tpl#L18)

@@ -20,8 +20,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`41`](../tpl/src/subsilver/mod_news.tpl#L41)
-
 ### Version PunBB
 * __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`34`](../tpl/src/punbb/mod_news.tpl#L34)
+
+### Version phpBB2
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`41`](../tpl/src/subsilver/mod_news.tpl#L41)

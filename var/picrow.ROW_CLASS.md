@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`52`](../tpl/src/punbb/album_modcp_body.tpl#L52)
 * __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`97`](../tpl/src/punbb/album_moderate_body.tpl#L97)
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`52`](../tpl/src/punbb/album_modcp_body.tpl#L52)

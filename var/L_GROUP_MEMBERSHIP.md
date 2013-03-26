@@ -14,8 +14,8 @@ Texte.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`15`](../tpl/src/subsilver/groupcp_info_body.tpl#L15)
-
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`43`](../tpl/src/punbb/groupcp_info_body.tpl#L43)
+
+### Version phpBB2
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`15`](../tpl/src/subsilver/groupcp_info_body.tpl#L15)

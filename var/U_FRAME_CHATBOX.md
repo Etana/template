@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_chatbox`](../tpl/var/mod_chatbox.md#readme) :__ ligne [`6`](../tpl/src/subsilver/mod_chatbox.tpl#L6)
-
 ### Version PunBB
 * __[`mod_chatbox`](../tpl/var/mod_chatbox.md#readme) :__ ligne [`5`](../tpl/src/punbb/mod_chatbox.tpl#L5)
+
+### Version phpBB2
+* __[`mod_chatbox`](../tpl/var/mod_chatbox.md#readme) :__ ligne [`6`](../tpl/src/subsilver/mod_chatbox.tpl#L6)

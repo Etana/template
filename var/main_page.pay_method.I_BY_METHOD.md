@@ -18,8 +18,8 @@ Adresse URL d'une image vide.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`54`](../tpl/src/subsilver/donate.tpl#L54)
-
 ### Version PunBB
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`50`](../tpl/src/punbb/donate.tpl#L50)
+
+### Version phpBB2
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`54`](../tpl/src/subsilver/donate.tpl#L54)

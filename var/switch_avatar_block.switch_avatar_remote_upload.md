@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`335`](../tpl/src/subsilver/profile_add_body.tpl#L335)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L335-L340)[`340`](../tpl/src/subsilver/profile_add_body.tpl#L340)
-
 ### Version PunBB
 * __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`371`](../tpl/src/punbb/profile_add_body.tpl#L371)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L371-L378)[`378`](../tpl/src/punbb/profile_add_body.tpl#L378)
+
+### Version phpBB2
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`335`](../tpl/src/subsilver/profile_add_body.tpl#L335)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L335-L340)[`340`](../tpl/src/subsilver/profile_add_body.tpl#L340)

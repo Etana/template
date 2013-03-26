@@ -14,8 +14,8 @@ Contient le temps d'arrêt des annonces défini dans `PA > Général > Messages 
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`109`](../tpl/src/subsilver/overall_header.tpl#L109), [`138`](../tpl/src/subsilver/overall_header.tpl#L138)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`102`](../tpl/src/punbb/overall_header.tpl#L102), [`132`](../tpl/src/punbb/overall_header.tpl#L132)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`109`](../tpl/src/subsilver/overall_header.tpl#L109), [`138`](../tpl/src/subsilver/overall_header.tpl#L138)

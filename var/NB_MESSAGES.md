@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_login`](../tpl/var/mod_login.md#readme) :__ ligne [`85`](../tpl/src/subsilver/mod_login.tpl#L85)
-
 ### Version PunBB
 * __[`mod_login`](../tpl/var/mod_login.md#readme) :__ ligne [`51`](../tpl/src/punbb/mod_login.tpl#L51)
+
+### Version phpBB2
+* __[`mod_login`](../tpl/var/mod_login.md#readme) :__ ligne [`85`](../tpl/src/subsilver/mod_login.tpl#L85)

@@ -23,8 +23,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`157`](../tpl/src/subsilver/profile_add_body.tpl#L157)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L157-L159)[`159`](../tpl/src/subsilver/profile_add_body.tpl#L159), [`168`](../tpl/src/subsilver/profile_add_body.tpl#L168)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L168-L176)[`176`](../tpl/src/subsilver/profile_add_body.tpl#L176)
-
 ### Version PunBB
 * __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`209`](../tpl/src/punbb/profile_add_body.tpl#L209)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L209-L211)[`211`](../tpl/src/punbb/profile_add_body.tpl#L211), [`218`](../tpl/src/punbb/profile_add_body.tpl#L218)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L218-L226)[`226`](../tpl/src/punbb/profile_add_body.tpl#L226)
+
+### Version phpBB2
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`157`](../tpl/src/subsilver/profile_add_body.tpl#L157)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L157-L159)[`159`](../tpl/src/subsilver/profile_add_body.tpl#L159), [`168`](../tpl/src/subsilver/profile_add_body.tpl#L168)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L168-L176)[`176`](../tpl/src/subsilver/profile_add_body.tpl#L176)

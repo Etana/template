@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`27`](../tpl/src/subsilver/modcp_body.tpl#L27)
-
 ### Version PunBB
 * __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`53`](../tpl/src/punbb/modcp_body.tpl#L53)
+
+### Version phpBB2
+* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`27`](../tpl/src/subsilver/modcp_body.tpl#L27)

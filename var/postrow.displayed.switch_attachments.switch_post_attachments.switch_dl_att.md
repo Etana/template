@@ -28,8 +28,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`191`](../tpl/src/subsilver/viewtopic_body.tpl#L191)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L191-L193)[`193`](../tpl/src/subsilver/viewtopic_body.tpl#L193)
-
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`197`](../tpl/src/punbb/viewtopic_body.tpl#L197)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L197-L199)[`199`](../tpl/src/punbb/viewtopic_body.tpl#L199)
+
+### Version phpBB2
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`191`](../tpl/src/subsilver/viewtopic_body.tpl#L191)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L191-L193)[`193`](../tpl/src/subsilver/viewtopic_body.tpl#L193)

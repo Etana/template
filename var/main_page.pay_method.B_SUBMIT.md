@@ -16,8 +16,8 @@ Affiche le bouton "Paiements via PayPal".
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`55`](../tpl/src/subsilver/donate.tpl#L55)
-
 ### Version PunBB
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`51`](../tpl/src/punbb/donate.tpl#L51)
+
+### Version phpBB2
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`55`](../tpl/src/subsilver/donate.tpl#L55)

@@ -14,8 +14,8 @@ Identifiant attribué au conteneur principal de votre forum.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`312`](../tpl/src/subsilver/overall_header.tpl#L312)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`288`](../tpl/src/punbb/overall_header.tpl#L288)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`312`](../tpl/src/subsilver/overall_header.tpl#L312)

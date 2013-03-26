@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`60`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L60)
-
 ### Version PunBB
 * __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`61`](../tpl/src/punbb/rpg_sheet_edit.tpl#L61)
+
+### Version phpBB2
+* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`60`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L60)

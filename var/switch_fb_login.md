@@ -19,8 +19,8 @@ Boucle s'affichant si vous avez activé Facebook Connect dans `PA > Modules > Fa
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`25`](../tpl/src/subsilver/overall_header.tpl#L25)[`<->`](../tpl/src/subsilver/overall_header.tpl#L25-L28)[`28`](../tpl/src/subsilver/overall_header.tpl#L28)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`25`](../tpl/src/punbb/overall_header.tpl#L25)[`<->`](../tpl/src/punbb/overall_header.tpl#L25-L28)[`28`](../tpl/src/punbb/overall_header.tpl#L28)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`25`](../tpl/src/subsilver/overall_header.tpl#L25)[`<->`](../tpl/src/subsilver/overall_header.tpl#L25-L28)[`28`](../tpl/src/subsilver/overall_header.tpl#L28)

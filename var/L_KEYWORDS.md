@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_keywords`](../tpl/var/mod_keywords.md#readme) :__ ligne [`4`](../tpl/src/subsilver/mod_keywords.tpl#L4)
-
 ### Version PunBB
 * __[`mod_keywords`](../tpl/var/mod_keywords.md#readme) :__ ligne [`2`](../tpl/src/punbb/mod_keywords.tpl#L2)
+
+### Version phpBB2
+* __[`mod_keywords`](../tpl/var/mod_keywords.md#readme) :__ ligne [`4`](../tpl/src/subsilver/mod_keywords.tpl#L4)

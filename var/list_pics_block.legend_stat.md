@@ -20,8 +20,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ lignes [`23`](../tpl/src/subsilver/album_cat_top10.tpl#L23)[`<->`](../tpl/src/subsilver/album_cat_top10.tpl#L23-L25)[`25`](../tpl/src/subsilver/album_cat_top10.tpl#L25)
-
 ### Version PunBB
 * __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ lignes [`36`](../tpl/src/punbb/album_cat_top10.tpl#L36)[`<->`](../tpl/src/punbb/album_cat_top10.tpl#L36-L38)[`38`](../tpl/src/punbb/album_cat_top10.tpl#L38)
+
+### Version phpBB2
+* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ lignes [`23`](../tpl/src/subsilver/album_cat_top10.tpl#L23)[`<->`](../tpl/src/subsilver/album_cat_top10.tpl#L23-L25)[`25`](../tpl/src/subsilver/album_cat_top10.tpl#L25)

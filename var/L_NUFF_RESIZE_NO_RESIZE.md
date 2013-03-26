@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme) :__ lignes [`42`](../tpl/src/subsilver/album_nuffimage_box.tpl#L42), [`60`](../tpl/src/subsilver/album_nuffimage_box.tpl#L60)
-
 ### Version PunBB
 * __[`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme) :__ lignes [`75`](../tpl/src/punbb/album_nuffimage_box.tpl#L75), [`88`](../tpl/src/punbb/album_nuffimage_box.tpl#L88)
+
+### Version phpBB2
+* __[`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme) :__ lignes [`42`](../tpl/src/subsilver/album_nuffimage_box.tpl#L42), [`60`](../tpl/src/subsilver/album_nuffimage_box.tpl#L60)

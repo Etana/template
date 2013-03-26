@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_upload_body`](../tpl/var/album_upload_body.md#readme) :__ lignes [`71`](../tpl/src/subsilver/album_upload_body.tpl#L71), [`113`](../tpl/src/subsilver/album_upload_body.tpl#L113)
-
 ### Version PunBB
 * __[`album_upload_body`](../tpl/var/album_upload_body.md#readme) :__ lignes [`86`](../tpl/src/punbb/album_upload_body.tpl#L86), [`129`](../tpl/src/punbb/album_upload_body.tpl#L129)
+
+### Version phpBB2
+* __[`album_upload_body`](../tpl/var/album_upload_body.md#readme) :__ lignes [`71`](../tpl/src/subsilver/album_upload_body.tpl#L71), [`113`](../tpl/src/subsilver/album_upload_body.tpl#L113)

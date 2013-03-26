@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`229`](../tpl/src/subsilver/profile_add_body.tpl#L229)
-
 ### Version PunBB
 * __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`276`](../tpl/src/punbb/profile_add_body.tpl#L276)
+
+### Version phpBB2
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`229`](../tpl/src/subsilver/profile_add_body.tpl#L229)

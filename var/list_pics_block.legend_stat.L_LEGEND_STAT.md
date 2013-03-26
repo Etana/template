@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ ligne [`24`](../tpl/src/subsilver/album_cat_top10.tpl#L24)
-
 ### Version PunBB
 * __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ ligne [`37`](../tpl/src/punbb/album_cat_top10.tpl#L37)
+
+### Version phpBB2
+* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ ligne [`24`](../tpl/src/subsilver/album_cat_top10.tpl#L24)

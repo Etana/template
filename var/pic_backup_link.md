@@ -19,8 +19,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/album_index_body.tpl#L121)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L121-L125)[`125`](../tpl/src/subsilver/album_index_body.tpl#L125)
-
 ### Version PunBB
 * __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`76`](../tpl/src/punbb/album_index_body.tpl#L76)[`<->`](../tpl/src/punbb/album_index_body.tpl#L76-L78)[`78`](../tpl/src/punbb/album_index_body.tpl#L78)
+
+### Version phpBB2
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/album_index_body.tpl#L121)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L121-L125)[`125`](../tpl/src/subsilver/album_index_body.tpl#L125)

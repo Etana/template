@@ -14,8 +14,8 @@ Lien vers le top 20 des posteurs du forum.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`99`](../tpl/src/subsilver/index_body.tpl#L99)
-
 ### Version PunBB
 * __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`65`](../tpl/src/punbb/index_box.tpl#L65)
+
+### Version phpBB2
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`99`](../tpl/src/subsilver/index_body.tpl#L99)

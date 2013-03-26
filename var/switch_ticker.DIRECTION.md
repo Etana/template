@@ -14,8 +14,8 @@ Contient la direction du défilement des annonces définie dans `PA > Général 
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`39`](../tpl/src/subsilver/overall_header.tpl#L39), [`138`](../tpl/src/subsilver/overall_header.tpl#L138)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`39`](../tpl/src/punbb/overall_header.tpl#L39), [`132`](../tpl/src/punbb/overall_header.tpl#L132)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`39`](../tpl/src/subsilver/overall_header.tpl#L39), [`138`](../tpl/src/subsilver/overall_header.tpl#L138)

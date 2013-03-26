@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`42`](../tpl/src/subsilver/album_edit_body.tpl#L42)
-
 ### Version PunBB
 * __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`48`](../tpl/src/punbb/album_edit_body.tpl#L48)
+
+### Version phpBB2
+* __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`42`](../tpl/src/subsilver/album_edit_body.tpl#L42)

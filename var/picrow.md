@@ -29,10 +29,10 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ lignes [`30`](../tpl/src/subsilver/album_modcp_body.tpl#L30)[`<->`](../tpl/src/subsilver/album_modcp_body.tpl#L30-L47)[`47`](../tpl/src/subsilver/album_modcp_body.tpl#L47)
-* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ lignes [`79`](../tpl/src/subsilver/album_moderate_body.tpl#L79)[`<->`](../tpl/src/subsilver/album_moderate_body.tpl#L79-L95)[`95`](../tpl/src/subsilver/album_moderate_body.tpl#L95)
-
 ### Version PunBB
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ lignes [`51`](../tpl/src/punbb/album_modcp_body.tpl#L51)[`<->`](../tpl/src/punbb/album_modcp_body.tpl#L51-L62)[`62`](../tpl/src/punbb/album_modcp_body.tpl#L62)
 * __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ lignes [`96`](../tpl/src/punbb/album_moderate_body.tpl#L96)[`<->`](../tpl/src/punbb/album_moderate_body.tpl#L96-L106)[`106`](../tpl/src/punbb/album_moderate_body.tpl#L106)
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ lignes [`51`](../tpl/src/punbb/album_modcp_body.tpl#L51)[`<->`](../tpl/src/punbb/album_modcp_body.tpl#L51-L62)[`62`](../tpl/src/punbb/album_modcp_body.tpl#L62)
+
+### Version phpBB2
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ lignes [`79`](../tpl/src/subsilver/album_moderate_body.tpl#L79)[`<->`](../tpl/src/subsilver/album_moderate_body.tpl#L79-L95)[`95`](../tpl/src/subsilver/album_moderate_body.tpl#L95)
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ lignes [`30`](../tpl/src/subsilver/album_modcp_body.tpl#L30)[`<->`](../tpl/src/subsilver/album_modcp_body.tpl#L30-L47)[`47`](../tpl/src/subsilver/album_modcp_body.tpl#L47)

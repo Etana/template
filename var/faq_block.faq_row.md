@@ -23,10 +23,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`30`](../tpl/src/subsilver/faq_body.tpl#L30)[`<->`](../tpl/src/subsilver/faq_body.tpl#L30-L49)[`49`](../tpl/src/subsilver/faq_body.tpl#L49)
-* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ lignes [`29`](../tpl/src/subsilver/faq_dhtml.tpl#L29)[`<->`](../tpl/src/subsilver/faq_dhtml.tpl#L29-L49)[`49`](../tpl/src/subsilver/faq_dhtml.tpl#L49)
-
 ### Version PunBB
-* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`39`](../tpl/src/punbb/faq_body.tpl#L39)[`<->`](../tpl/src/punbb/faq_body.tpl#L39-L45)[`45`](../tpl/src/punbb/faq_body.tpl#L45)
 * __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ lignes [`35`](../tpl/src/punbb/faq_dhtml.tpl#L35)[`<->`](../tpl/src/punbb/faq_dhtml.tpl#L35-L40)[`40`](../tpl/src/punbb/faq_dhtml.tpl#L40)
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`39`](../tpl/src/punbb/faq_body.tpl#L39)[`<->`](../tpl/src/punbb/faq_body.tpl#L39-L45)[`45`](../tpl/src/punbb/faq_body.tpl#L45)
+
+### Version phpBB2
+* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ lignes [`29`](../tpl/src/subsilver/faq_dhtml.tpl#L29)[`<->`](../tpl/src/subsilver/faq_dhtml.tpl#L29-L49)[`49`](../tpl/src/subsilver/faq_dhtml.tpl#L49)
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`30`](../tpl/src/subsilver/faq_body.tpl#L30)[`<->`](../tpl/src/subsilver/faq_body.tpl#L30-L49)[`49`](../tpl/src/subsilver/faq_body.tpl#L49)

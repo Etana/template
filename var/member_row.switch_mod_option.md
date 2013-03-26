@@ -19,8 +19,8 @@ Le contenu de la boucle est affiché :
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`72`](../tpl/src/subsilver/groupcp_info_body.tpl#L72)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L72-L72)[`72`](../tpl/src/subsilver/groupcp_info_body.tpl#L72)
-
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`112`](../tpl/src/punbb/groupcp_info_body.tpl#L112)[`<->`](../tpl/src/punbb/groupcp_info_body.tpl#L112-L112)[`112`](../tpl/src/punbb/groupcp_info_body.tpl#L112)
+
+### Version phpBB2
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`72`](../tpl/src/subsilver/groupcp_info_body.tpl#L72)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L72-L72)[`72`](../tpl/src/subsilver/groupcp_info_body.tpl#L72)

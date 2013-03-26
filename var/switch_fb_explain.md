@@ -18,8 +18,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`agreement`](../tpl/var/agreement.md#readme) :__ lignes [`10`](../tpl/src/subsilver/agreement.tpl#L10)[`<->`](../tpl/src/subsilver/agreement.tpl#L10-L21)[`21`](../tpl/src/subsilver/agreement.tpl#L21)
-
 ### Version PunBB
 * __[`agreement`](../tpl/var/agreement.md#readme) :__ lignes [`20`](../tpl/src/punbb/agreement.tpl#L20)[`<->`](../tpl/src/punbb/agreement.tpl#L20-L26)[`26`](../tpl/src/punbb/agreement.tpl#L26)
+
+### Version phpBB2
+* __[`agreement`](../tpl/var/agreement.md#readme) :__ lignes [`10`](../tpl/src/subsilver/agreement.tpl#L10)[`<->`](../tpl/src/subsilver/agreement.tpl#L10-L21)[`21`](../tpl/src/subsilver/agreement.tpl#L21)

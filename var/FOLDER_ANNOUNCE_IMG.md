@@ -12,8 +12,8 @@ Image des annonces définie dans `PA > Affichage > Images et Couleurs | Gestion 
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`104`](../tpl/src/subsilver/viewforum_body.tpl#L104)
-
 ### Version PunBB
 * __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`76`](../tpl/src/punbb/viewforum_body.tpl#L76)
+
+### Version phpBB2
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`104`](../tpl/src/subsilver/viewforum_body.tpl#L104)

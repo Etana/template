@@ -16,10 +16,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`30`](../tpl/src/subsilver/posting_topic_review.tpl#L30)
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`180`](../tpl/src/subsilver/viewtopic_body.tpl#L180)
-
 ### Version PunBB
-* __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`27`](../tpl/src/punbb/posting_topic_review.tpl#L27)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`187`](../tpl/src/punbb/viewtopic_body.tpl#L187)
+* __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`27`](../tpl/src/punbb/posting_topic_review.tpl#L27)
+
+### Version phpBB2
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`180`](../tpl/src/subsilver/viewtopic_body.tpl#L180)
+* __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`30`](../tpl/src/subsilver/posting_topic_review.tpl#L30)

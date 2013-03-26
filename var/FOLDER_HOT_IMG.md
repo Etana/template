@@ -12,8 +12,8 @@ Image des sujets populaires définie dans `PA > Affichage > Images et Couleurs |
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`100`](../tpl/src/subsilver/viewforum_body.tpl#L100)
-
 ### Version PunBB
 * __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`72`](../tpl/src/punbb/viewforum_body.tpl#L72)
+
+### Version phpBB2
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`100`](../tpl/src/subsilver/viewforum_body.tpl#L100)

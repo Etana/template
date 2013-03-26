@@ -14,8 +14,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ lignes [`47`](../tpl/src/subsilver/report_list_body.tpl#L47)[`<->`](../tpl/src/subsilver/report_list_body.tpl#L47-L49)[`49`](../tpl/src/subsilver/report_list_body.tpl#L49)
-
 ### Version PunBB
 * __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ lignes [`78`](../tpl/src/punbb/report_list_body.tpl#L78)[`<->`](../tpl/src/punbb/report_list_body.tpl#L78-L81)[`81`](../tpl/src/punbb/report_list_body.tpl#L81)
+
+### Version phpBB2
+* __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ lignes [`47`](../tpl/src/subsilver/report_list_body.tpl#L47)[`<->`](../tpl/src/subsilver/report_list_body.tpl#L47-L49)[`49`](../tpl/src/subsilver/report_list_body.tpl#L49)

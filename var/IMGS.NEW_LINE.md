@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_rss_feeds`](../tpl/var/mod_rss_feeds.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_rss_feeds.tpl#L11)
-
 ### Version PunBB
 * __[`mod_rss_feeds`](../tpl/var/mod_rss_feeds.md#readme) :__ ligne [`7`](../tpl/src/punbb/mod_rss_feeds.tpl#L7)
+
+### Version phpBB2
+* __[`mod_rss_feeds`](../tpl/var/mod_rss_feeds.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_rss_feeds.tpl#L11)

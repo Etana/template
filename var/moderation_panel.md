@@ -19,9 +19,9 @@ contenu
 
 ## Utilisations dans les templates
 
+### Version PunBB
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`73`](../tpl/src/punbb/album_index_body.tpl#L73)[`<->`](../tpl/src/punbb/album_index_body.tpl#L73-L75)[`75`](../tpl/src/punbb/album_index_body.tpl#L75)
+
 ### Version phpBB2
 * __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`116`](../tpl/src/subsilver/album_index_body.tpl#L116)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L116-L120)[`120`](../tpl/src/subsilver/album_index_body.tpl#L120)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`437`](../tpl/src/subsilver/viewtopic_body.tpl#L437)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L437-L444)[`444`](../tpl/src/subsilver/viewtopic_body.tpl#L444)
-
-### Version PunBB
-* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`73`](../tpl/src/punbb/album_index_body.tpl#L73)[`<->`](../tpl/src/punbb/album_index_body.tpl#L73-L75)[`75`](../tpl/src/punbb/album_index_body.tpl#L75)

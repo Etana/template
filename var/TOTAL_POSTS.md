@@ -25,10 +25,10 @@ Nos membres ont posté un total de <strong>2</strong> messages
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`9`](../tpl/src/subsilver/mod_statistics.tpl#L9)
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`189`](../tpl/src/subsilver/index_body.tpl#L189)
-
 ### Version PunBB
-* __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`5`](../tpl/src/punbb/mod_statistics.tpl#L5)
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/index_body.tpl#L59)
+* __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`5`](../tpl/src/punbb/mod_statistics.tpl#L5)
+
+### Version phpBB2
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`189`](../tpl/src/subsilver/index_body.tpl#L189)
+* __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`9`](../tpl/src/subsilver/mod_statistics.tpl#L9)

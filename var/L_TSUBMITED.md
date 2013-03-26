@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_search_body`](../tpl/var/album_search_body.md#readme) :__ ligne [`26`](../tpl/src/subsilver/album_search_body.tpl#L26)
-
 ### Version PunBB
 * __[`album_search_body`](../tpl/var/album_search_body.md#readme) :__ ligne [`35`](../tpl/src/punbb/album_search_body.tpl#L35)
+
+### Version phpBB2
+* __[`album_search_body`](../tpl/var/album_search_body.md#readme) :__ ligne [`26`](../tpl/src/subsilver/album_search_body.tpl#L26)

@@ -20,18 +20,6 @@
     * [`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme)
     * [`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme)
 
-## Template par défaut phpBB2
-
-[__Code source__](../src/subsilver/message_body.tpl#files)
-
-### Positions des variables 
-
-* __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`3`](../src/subsilver/message_body.tpl#L3)
-* __[`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme) :__ ligne [`17`](../src/subsilver/message_body.tpl#L17)
-* __[`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme) :__ ligne [`8`](../src/subsilver/message_body.tpl#L8)
-* __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`3`](../src/subsilver/message_body.tpl#L3)
-
-
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/message_body.tpl#files)
@@ -52,3 +40,15 @@
 * __[`<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ ligne [`9`](../src/punbb/message_body.tpl#L9)
 * __[`<!-- BEGIN switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`10`](../src/punbb/message_body.tpl#L10)
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/message_body.tpl#L14)
+
+
+## Template par défaut phpBB2
+
+[__Code source__](../src/subsilver/message_body.tpl#files)
+
+### Positions des variables 
+
+* __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`3`](../src/subsilver/message_body.tpl#L3)
+* __[`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme) :__ ligne [`17`](../src/subsilver/message_body.tpl#L17)
+* __[`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme) :__ ligne [`8`](../src/subsilver/message_body.tpl#L8)
+* __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`3`](../src/subsilver/message_body.tpl#L3)

@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_social_bookmarking`](../tpl/var/mod_social_bookmarking.md#readme) :__ ligne [`3`](../tpl/src/subsilver/mod_social_bookmarking.tpl#L3)
-
 ### Version PunBB
 * __[`mod_social_bookmarking`](../tpl/var/mod_social_bookmarking.md#readme) :__ ligne [`2`](../tpl/src/punbb/mod_social_bookmarking.tpl#L2)
+
+### Version phpBB2
+* __[`mod_social_bookmarking`](../tpl/var/mod_social_bookmarking.md#readme) :__ ligne [`3`](../tpl/src/subsilver/mod_social_bookmarking.tpl#L3)

@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_confirm_code`](../tpl/var/posting_confirm_code.md#readme) :__ ligne [`5`](../tpl/src/subsilver/posting_confirm_code.tpl#L5)
-
 ### Version PunBB
 * __[`posting_confirm_code`](../tpl/var/posting_confirm_code.md#readme) :__ ligne [`6`](../tpl/src/punbb/posting_confirm_code.tpl#L6)
+
+### Version phpBB2
+* __[`posting_confirm_code`](../tpl/var/posting_confirm_code.md#readme) :__ ligne [`5`](../tpl/src/subsilver/posting_confirm_code.tpl#L5)

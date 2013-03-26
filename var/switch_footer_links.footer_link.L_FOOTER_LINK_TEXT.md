@@ -16,8 +16,8 @@ Contient le texte du lien défini dans `PA > Modules > Liens de bas de page | Co
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`19`](../tpl/src/subsilver/overall_footer_end.tpl#L19)
-
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`21`](../tpl/src/punbb/overall_footer_end.tpl#L21)
+
+### Version phpBB2
+* __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`19`](../tpl/src/subsilver/overall_footer_end.tpl#L19)

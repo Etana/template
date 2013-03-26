@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ ligne [`230`](../tpl/src/subsilver/album_showpage_body.tpl#L230)
-
 ### Version PunBB
 * __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ ligne [`238`](../tpl/src/punbb/album_showpage_body.tpl#L238)
+
+### Version phpBB2
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ ligne [`230`](../tpl/src/subsilver/album_showpage_body.tpl#L230)

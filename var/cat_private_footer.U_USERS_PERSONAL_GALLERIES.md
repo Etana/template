@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ ligne [`99`](../tpl/src/subsilver/album_index_body.tpl#L99)
-
 ### Version PunBB
 * __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ ligne [`63`](../tpl/src/punbb/album_index_body.tpl#L63)
+
+### Version phpBB2
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ ligne [`99`](../tpl/src/subsilver/album_index_body.tpl#L99)

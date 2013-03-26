@@ -18,8 +18,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_recent_topics.tpl#L1)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L1-L37)[`37`](../tpl/src/subsilver/mod_recent_topics.tpl#L37)
-
 ### Version PunBB
 * __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`1`](../tpl/src/punbb/mod_recent_topics.tpl#L1)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L1-L31)[`31`](../tpl/src/punbb/mod_recent_topics.tpl#L31)
+
+### Version phpBB2
+* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_recent_topics.tpl#L1)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L1-L37)[`37`](../tpl/src/subsilver/mod_recent_topics.tpl#L37)

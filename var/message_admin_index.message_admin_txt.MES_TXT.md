@@ -16,8 +16,8 @@ Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralit
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`12`](../tpl/src/subsilver/index_body.tpl#L12)
-
 ### Version PunBB
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`29`](../tpl/src/punbb/index_body.tpl#L29)
+
+### Version phpBB2
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`12`](../tpl/src/subsilver/index_body.tpl#L12)

@@ -12,10 +12,10 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`54`](../tpl/src/subsilver/album_edit_body.tpl#L54)
-* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`12`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L12)
-
 ### Version PunBB
-* __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`66`](../tpl/src/punbb/album_edit_body.tpl#L66)
 * __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`25`](../tpl/src/punbb/profile_avatar_gallery.tpl#L25)
+* __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`66`](../tpl/src/punbb/album_edit_body.tpl#L66)
+
+### Version phpBB2
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`12`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L12)
+* __[`album_edit_body`](../tpl/var/album_edit_body.md#readme) :__ ligne [`54`](../tpl/src/subsilver/album_edit_body.tpl#L54)

@@ -21,8 +21,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`297`](../tpl/src/subsilver/posting_body.tpl#L297)[`<->`](../tpl/src/subsilver/posting_body.tpl#L297-L299)[`299`](../tpl/src/subsilver/posting_body.tpl#L299), [`374`](../tpl/src/subsilver/posting_body.tpl#L374)[`<->`](../tpl/src/subsilver/posting_body.tpl#L374-L376)[`376`](../tpl/src/subsilver/posting_body.tpl#L376)
-
 ### Version PunBB
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`243`](../tpl/src/punbb/posting_body.tpl#L243)[`<->`](../tpl/src/punbb/posting_body.tpl#L243-L245)[`245`](../tpl/src/punbb/posting_body.tpl#L245), [`323`](../tpl/src/punbb/posting_body.tpl#L323)[`<->`](../tpl/src/punbb/posting_body.tpl#L323-L325)[`325`](../tpl/src/punbb/posting_body.tpl#L325)
+
+### Version phpBB2
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`297`](../tpl/src/subsilver/posting_body.tpl#L297)[`<->`](../tpl/src/subsilver/posting_body.tpl#L297-L299)[`299`](../tpl/src/subsilver/posting_body.tpl#L299), [`374`](../tpl/src/subsilver/posting_body.tpl#L374)[`<->`](../tpl/src/subsilver/posting_body.tpl#L374-L376)[`376`](../tpl/src/subsilver/posting_body.tpl#L376)

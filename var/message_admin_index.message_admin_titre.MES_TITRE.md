@@ -16,8 +16,8 @@ Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralité
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`6`](../tpl/src/subsilver/index_body.tpl#L6)
-
 ### Version PunBB
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`23`](../tpl/src/punbb/index_body.tpl#L23)
+
+### Version phpBB2
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`6`](../tpl/src/subsilver/index_body.tpl#L6)

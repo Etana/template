@@ -14,8 +14,8 @@ Code html du nom d'utilisateur du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`17`](../tpl/src/subsilver/groupcp_pending_info.tpl#L17)
-
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`23`](../tpl/src/punbb/groupcp_pending_info.tpl#L23)
+
+### Version phpBB2
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`17`](../tpl/src/subsilver/groupcp_pending_info.tpl#L17)

@@ -24,8 +24,8 @@ et `Une carte bancaire via Paypal`
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`52`](../tpl/src/subsilver/donate.tpl#L52)
-
 ### Version PunBB
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`48`](../tpl/src/punbb/donate.tpl#L48)
+
+### Version phpBB2
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`52`](../tpl/src/subsilver/donate.tpl#L52)

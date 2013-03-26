@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`merge_body`](../tpl/var/merge_body.md#readme) :__ ligne [`24`](../tpl/src/subsilver/merge_body.tpl#L24)
-
 ### Version PunBB
 * __[`merge_body`](../tpl/var/merge_body.md#readme) :__ ligne [`48`](../tpl/src/punbb/merge_body.tpl#L48)
+
+### Version phpBB2
+* __[`merge_body`](../tpl/var/merge_body.md#readme) :__ ligne [`24`](../tpl/src/subsilver/merge_body.tpl#L24)

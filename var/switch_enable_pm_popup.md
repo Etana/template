@@ -22,8 +22,8 @@ Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`129`](../tpl/src/subsilver/overall_header.tpl#L129)[`<->`](../tpl/src/subsilver/overall_header.tpl#L129-L132)[`132`](../tpl/src/subsilver/overall_header.tpl#L132)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`123`](../tpl/src/punbb/overall_header.tpl#L123)[`<->`](../tpl/src/punbb/overall_header.tpl#L123-L126)[`126`](../tpl/src/punbb/overall_header.tpl#L126)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`129`](../tpl/src/subsilver/overall_header.tpl#L129)[`<->`](../tpl/src/subsilver/overall_header.tpl#L129-L132)[`132`](../tpl/src/subsilver/overall_header.tpl#L132)

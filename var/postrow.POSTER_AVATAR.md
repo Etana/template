@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ ligne [`16`](../tpl/src/subsilver/privmsg_topic_review.tpl#L16)
-
 ### Version PunBB
 * __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ ligne [`31`](../tpl/src/punbb/privmsg_topic_review.tpl#L31)
+
+### Version phpBB2
+* __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ ligne [`16`](../tpl/src/subsilver/privmsg_topic_review.tpl#L16)

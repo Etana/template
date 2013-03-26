@@ -16,8 +16,8 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`207`](../tpl/src/subsilver/overall_header.tpl#L207)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`202`](../tpl/src/punbb/overall_header.tpl#L202)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`207`](../tpl/src/subsilver/overall_header.tpl#L207)

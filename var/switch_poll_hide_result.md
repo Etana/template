@@ -14,8 +14,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_poll_body`](../tpl/var/posting_poll_body.md#readme) :__ lignes [`61`](../tpl/src/subsilver/posting_poll_body.tpl#L61)[`<->`](../tpl/src/subsilver/posting_poll_body.tpl#L61-L66)[`66`](../tpl/src/subsilver/posting_poll_body.tpl#L66)
-
 ### Version PunBB
 * __[`posting_poll_body`](../tpl/var/posting_poll_body.md#readme) :__ lignes [`71`](../tpl/src/punbb/posting_poll_body.tpl#L71)[`<->`](../tpl/src/punbb/posting_poll_body.tpl#L71-L79)[`79`](../tpl/src/punbb/posting_poll_body.tpl#L79)
+
+### Version phpBB2
+* __[`posting_poll_body`](../tpl/var/posting_poll_body.md#readme) :__ lignes [`61`](../tpl/src/subsilver/posting_poll_body.tpl#L61)[`<->`](../tpl/src/subsilver/posting_poll_body.tpl#L61-L66)[`66`](../tpl/src/subsilver/posting_poll_body.tpl#L66)

@@ -18,8 +18,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ ligne [`43`](../tpl/src/subsilver/album_cat_top10.tpl#L43)
-
 ### Version PunBB
 * __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ ligne [`54`](../tpl/src/punbb/album_cat_top10.tpl#L54)
+
+### Version phpBB2
+* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ ligne [`43`](../tpl/src/subsilver/album_cat_top10.tpl#L43)

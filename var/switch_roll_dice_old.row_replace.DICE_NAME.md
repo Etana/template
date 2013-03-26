@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`298`](../tpl/src/subsilver/posting_body.tpl#L298), [`298`](../tpl/src/subsilver/posting_body.tpl#L298), [`375`](../tpl/src/subsilver/posting_body.tpl#L375)
-
 ### Version PunBB
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`244`](../tpl/src/punbb/posting_body.tpl#L244), [`244`](../tpl/src/punbb/posting_body.tpl#L244), [`324`](../tpl/src/punbb/posting_body.tpl#L324)
+
+### Version phpBB2
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`298`](../tpl/src/subsilver/posting_body.tpl#L298), [`298`](../tpl/src/subsilver/posting_body.tpl#L298), [`375`](../tpl/src/subsilver/posting_body.tpl#L375)

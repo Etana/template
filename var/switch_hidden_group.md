@@ -18,8 +18,8 @@ Le contenu de la boucle est affiché :
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`80`](../tpl/src/subsilver/groupcp_info_body.tpl#L80)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L80-L84)[`84`](../tpl/src/subsilver/groupcp_info_body.tpl#L84)
-
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`120`](../tpl/src/punbb/groupcp_info_body.tpl#L120)[`<->`](../tpl/src/punbb/groupcp_info_body.tpl#L120-L124)[`124`](../tpl/src/punbb/groupcp_info_body.tpl#L124)
+
+### Version phpBB2
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ lignes [`80`](../tpl/src/subsilver/groupcp_info_body.tpl#L80)[`<->`](../tpl/src/subsilver/groupcp_info_body.tpl#L80-L84)[`84`](../tpl/src/subsilver/groupcp_info_body.tpl#L84)

@@ -18,8 +18,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_overview_top10`](../tpl/var/album_overview_top10.md#readme) :__ lignes [`2`](../tpl/src/subsilver/album_overview_top10.tpl#L2)[`<->`](../tpl/src/subsilver/album_overview_top10.tpl#L2-L6)[`6`](../tpl/src/subsilver/album_overview_top10.tpl#L6)
-
 ### Version PunBB
 * __[`album_overview_top10`](../tpl/var/album_overview_top10.md#readme) :__ lignes [`7`](../tpl/src/punbb/album_overview_top10.tpl#L7)[`<->`](../tpl/src/punbb/album_overview_top10.tpl#L7-L9)[`9`](../tpl/src/punbb/album_overview_top10.tpl#L9)
+
+### Version phpBB2
+* __[`album_overview_top10`](../tpl/var/album_overview_top10.md#readme) :__ lignes [`2`](../tpl/src/subsilver/album_overview_top10.tpl#L2)[`<->`](../tpl/src/subsilver/album_overview_top10.tpl#L2-L6)[`6`](../tpl/src/subsilver/album_overview_top10.tpl#L6)

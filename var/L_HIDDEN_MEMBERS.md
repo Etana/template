@@ -16,8 +16,8 @@ Texte remplacé en français par `Ce groupe est invisible, vous ne pouvez pas vo
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`82`](../tpl/src/subsilver/groupcp_info_body.tpl#L82)
-
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`122`](../tpl/src/punbb/groupcp_info_body.tpl#L122)
+
+### Version phpBB2
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`82`](../tpl/src/subsilver/groupcp_info_body.tpl#L82)

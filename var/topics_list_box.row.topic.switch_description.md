@@ -24,8 +24,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`61`](../tpl/src/subsilver/topics_list_box.tpl#L61)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L61-L66)[`66`](../tpl/src/subsilver/topics_list_box.tpl#L66)
-
 ### Version PunBB
 * __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`87`](../tpl/src/punbb/topics_list_box.tpl#L87)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L87-L90)[`90`](../tpl/src/punbb/topics_list_box.tpl#L90)
+
+### Version phpBB2
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`61`](../tpl/src/subsilver/topics_list_box.tpl#L61)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L61-L66)[`66`](../tpl/src/subsilver/topics_list_box.tpl#L66)

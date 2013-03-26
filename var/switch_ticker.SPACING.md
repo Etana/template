@@ -14,8 +14,8 @@ Contient l'espace entre chaque annonce défini dans `PA > Général > Messages e
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`138`](../tpl/src/subsilver/overall_header.tpl#L138), [`170`](../tpl/src/subsilver/overall_header.tpl#L170), [`174`](../tpl/src/subsilver/overall_header.tpl#L174)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`132`](../tpl/src/punbb/overall_header.tpl#L132), [`164`](../tpl/src/punbb/overall_header.tpl#L164), [`168`](../tpl/src/punbb/overall_header.tpl#L168)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`138`](../tpl/src/subsilver/overall_header.tpl#L138), [`170`](../tpl/src/subsilver/overall_header.tpl#L170), [`174`](../tpl/src/subsilver/overall_header.tpl#L174)

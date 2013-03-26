@@ -14,8 +14,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ lignes [`32`](../tpl/src/subsilver/profile_view_body.tpl#L32)[`<->`](../tpl/src/subsilver/profile_view_body.tpl#L32-L37)[`37`](../tpl/src/subsilver/profile_view_body.tpl#L37)
-
 ### Version PunBB
 * __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ lignes [`32`](../tpl/src/punbb/profile_view_body.tpl#L32)[`<->`](../tpl/src/punbb/profile_view_body.tpl#L32-L36)[`36`](../tpl/src/punbb/profile_view_body.tpl#L36)
+
+### Version phpBB2
+* __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ lignes [`32`](../tpl/src/subsilver/profile_view_body.tpl#L32)[`<->`](../tpl/src/subsilver/profile_view_body.tpl#L32-L37)[`37`](../tpl/src/subsilver/profile_view_body.tpl#L37)

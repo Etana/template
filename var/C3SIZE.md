@@ -12,9 +12,9 @@ Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets 
 
 ## Utilisations dans les templates
 
+### Version PunBB
+* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`11`](../tpl/src/punbb/portal_body.tpl#L11), [`32`](../tpl/src/punbb/portal_body.tpl#L32), [`39`](../tpl/src/punbb/portal_body.tpl#L39)
+
 ### Version phpBB2
 * __[`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme) :__ ligne [`10`](../tpl/src/subsilver/overall_footer_begin.tpl#L10)
 * __[`portal_body`](../tpl/var/portal_body.md#readme) :__ ligne [`28`](../tpl/src/subsilver/portal_body.tpl#L28)
-
-### Version PunBB
-* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`11`](../tpl/src/punbb/portal_body.tpl#L11), [`32`](../tpl/src/punbb/portal_body.tpl#L32), [`39`](../tpl/src/punbb/portal_body.tpl#L39)

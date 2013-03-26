@@ -12,8 +12,8 @@ Image de citation multiple désélectionnée définie dans `PA > Affichage > Ima
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`3`](../tpl/src/subsilver/viewtopic_body.tpl#L3)
-
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`2`](../tpl/src/punbb/viewtopic_body.tpl#L2)
+
+### Version phpBB2
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`3`](../tpl/src/subsilver/viewtopic_body.tpl#L3)

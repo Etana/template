@@ -14,8 +14,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ lignes [`47`](../tpl/src/subsilver/privmsgs_read_body.tpl#L47)[`<->`](../tpl/src/subsilver/privmsgs_read_body.tpl#L47-L49)[`49`](../tpl/src/subsilver/privmsgs_read_body.tpl#L49)
-
 ### Version PunBB
 * __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ lignes [`73`](../tpl/src/punbb/privmsgs_read_body.tpl#L73)[`<->`](../tpl/src/punbb/privmsgs_read_body.tpl#L73-L75)[`75`](../tpl/src/punbb/privmsgs_read_body.tpl#L75)
+
+### Version phpBB2
+* __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ lignes [`47`](../tpl/src/subsilver/privmsgs_read_body.tpl#L47)[`<->`](../tpl/src/subsilver/privmsgs_read_body.tpl#L47-L49)[`49`](../tpl/src/subsilver/privmsgs_read_body.tpl#L49)

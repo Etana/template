@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`250`](../tpl/src/subsilver/album_cat_body.tpl#L250)
-
 ### Version PunBB
 * __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`121`](../tpl/src/punbb/album_cat_body.tpl#L121)
+
+### Version phpBB2
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`250`](../tpl/src/subsilver/album_cat_body.tpl#L250)

@@ -12,8 +12,8 @@ Adresse URL du script utilisé pour la FAQ : `http://illiweb.com/rsc/53/frm/coll
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`1`](../tpl/src/subsilver/faq_dhtml.tpl#L1)
-
 ### Version PunBB
 * __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`20`](../tpl/src/punbb/faq_dhtml.tpl#L20)
+
+### Version phpBB2
+* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`1`](../tpl/src/subsilver/faq_dhtml.tpl#L1)

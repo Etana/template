@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_search`](../tpl/var/mod_search.md#readme) :__ ligne [`16`](../tpl/src/subsilver/mod_search.tpl#L16)
-
 ### Version PunBB
 * __[`mod_search`](../tpl/var/mod_search.md#readme) :__ ligne [`14`](../tpl/src/punbb/mod_search.tpl#L14)
+
+### Version phpBB2
+* __[`mod_search`](../tpl/var/mod_search.md#readme) :__ ligne [`16`](../tpl/src/subsilver/mod_search.tpl#L16)

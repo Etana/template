@@ -18,8 +18,8 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`179`](../tpl/src/subsilver/overall_header.tpl#L179)[`<->`](../tpl/src/subsilver/overall_header.tpl#L179-L199)[`199`](../tpl/src/subsilver/overall_header.tpl#L199)
-
 ### Version PunBB
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`173`](../tpl/src/punbb/overall_header.tpl#L173)[`<->`](../tpl/src/punbb/overall_header.tpl#L173-L193)[`193`](../tpl/src/punbb/overall_header.tpl#L193)
+
+### Version phpBB2
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`179`](../tpl/src/subsilver/overall_header.tpl#L179)[`<->`](../tpl/src/subsilver/overall_header.tpl#L179-L199)[`199`](../tpl/src/subsilver/overall_header.tpl#L199)

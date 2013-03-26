@@ -12,8 +12,8 @@ Image des sujets définie dans `PA > Affichage > Images et Couleurs | Gestion de
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`99`](../tpl/src/subsilver/viewforum_body.tpl#L99)
-
 ### Version PunBB
 * __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`71`](../tpl/src/punbb/viewforum_body.tpl#L71)
+
+### Version phpBB2
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`99`](../tpl/src/subsilver/viewforum_body.tpl#L99)

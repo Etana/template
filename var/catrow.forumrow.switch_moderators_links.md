@@ -23,8 +23,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`59`](../tpl/src/subsilver/index_box.tpl#L59)[`<->`](../tpl/src/subsilver/index_box.tpl#L59-L61)[`61`](../tpl/src/subsilver/index_box.tpl#L61)
-
 ### Version PunBB
 * __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`32`](../tpl/src/punbb/index_box.tpl#L32)[`<->`](../tpl/src/punbb/index_box.tpl#L32-L35)[`35`](../tpl/src/punbb/index_box.tpl#L35)
+
+### Version phpBB2
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ lignes [`59`](../tpl/src/subsilver/index_box.tpl#L59)[`<->`](../tpl/src/subsilver/index_box.tpl#L59-L61)[`61`](../tpl/src/subsilver/index_box.tpl#L61)

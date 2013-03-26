@@ -14,12 +14,12 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_top_post_users_month`](../tpl/var/mod_top_post_users_month.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_top_post_users_month.tpl#L11)
-* __[`mod_top_posters`](../tpl/var/mod_top_posters.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_top_posters.tpl#L11)
-* __[`mod_top_post_users_week`](../tpl/var/mod_top_post_users_week.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_top_post_users_week.tpl#L11)
-
 ### Version PunBB
+* __[`mod_top_post_users_week`](../tpl/var/mod_top_post_users_week.md#readme) :__ ligne [`8`](../tpl/src/punbb/mod_top_post_users_week.tpl#L8)
 * __[`mod_top_post_users_month`](../tpl/var/mod_top_post_users_month.md#readme) :__ ligne [`8`](../tpl/src/punbb/mod_top_post_users_month.tpl#L8)
 * __[`mod_top_posters`](../tpl/var/mod_top_posters.md#readme) :__ ligne [`8`](../tpl/src/punbb/mod_top_posters.tpl#L8)
-* __[`mod_top_post_users_week`](../tpl/var/mod_top_post_users_week.md#readme) :__ ligne [`8`](../tpl/src/punbb/mod_top_post_users_week.tpl#L8)
+
+### Version phpBB2
+* __[`mod_top_post_users_week`](../tpl/var/mod_top_post_users_week.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_top_post_users_week.tpl#L11)
+* __[`mod_top_post_users_month`](../tpl/var/mod_top_post_users_month.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_top_post_users_month.tpl#L11)
+* __[`mod_top_posters`](../tpl/var/mod_top_posters.md#readme) :__ ligne [`11`](../tpl/src/subsilver/mod_top_posters.tpl#L11)

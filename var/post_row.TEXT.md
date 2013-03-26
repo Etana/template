@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB2
-* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`19`](../tpl/src/subsilver/mod_news.tpl#L19)
-
 ### Version PunBB
 * __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`13`](../tpl/src/punbb/mod_news.tpl#L13)
+
+### Version phpBB2
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`19`](../tpl/src/subsilver/mod_news.tpl#L19)
