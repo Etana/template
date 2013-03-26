@@ -17,10 +17,10 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_top_posters)
 
 ## Variables disponibles
-* [`{L_TOP_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_TOP_POSTERS.md#readme)
-* [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_TOP_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_TOP_POSTERS.md#readme)
+    * [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
 
 ### Positions PunBB 
 

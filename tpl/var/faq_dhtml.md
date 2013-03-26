@@ -19,25 +19,18 @@
 Ce template touche la Foire Aux Questions de votre forum si le JavaScript est activé et autorisé : `/faq`
 
 ## Variables disponibles
-* [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
-* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
-* [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
-* [`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template/blob/master/var/L_CFAQ_NOSCRIPT.md#readme)
-* [`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme)
-* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
-* [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
-* [`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)
-* [`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme)
-* [`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme)
-* [`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme)
-* [`{U_CFAQ_JSLIB}`](https://github.com/Etana/template/blob/master/var/U_CFAQ_JSLIB.md#readme)
-* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
-* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
-* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
-* [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
-* [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](https://github.com/Etana/template/blob/master/var/faq_block.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
+    * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
+    * [`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template/blob/master/var/L_CFAQ_NOSCRIPT.md#readme)
+    * [`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme)
+    * [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
+    * [`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)
+    * [`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme)
+    * [`{U_CFAQ_JSLIB}`](https://github.com/Etana/template/blob/master/var/U_CFAQ_JSLIB.md#readme)
+    * [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
+    * [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](https://github.com/Etana/template/blob/master/var/faq_block.md#readme)
 
 ### Positions PunBB 
 

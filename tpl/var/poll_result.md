@@ -17,14 +17,14 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/poll_result)
 
 ## Variables disponibles
-* [`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)
-* [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
-* [`{TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/TOTAL_VOTES.md#readme)
-* [`{VOTE_LCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_LCAP_IMG.md#readme)
-* [`{VOTE_RCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_RCAP_IMG.md#readme)
-* [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)
+    * [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
+    * [`{TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/TOTAL_VOTES.md#readme)
+    * [`{VOTE_LCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_LCAP_IMG.md#readme)
+    * [`{VOTE_RCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_RCAP_IMG.md#readme)
+    * [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
 
 ### Positions PunBB 
 

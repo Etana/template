@@ -17,14 +17,13 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_overview_profil)
 
 ## Variables disponibles
-* [`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)
-* [`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)
-* [`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)
-* [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
-* [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)
-* [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)
+    * [`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)
+    * [`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)
+    * [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
+    * [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
 
 ### Positions PunBB 
 

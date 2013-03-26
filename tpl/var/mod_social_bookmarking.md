@@ -17,11 +17,11 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_social_bookmarking)
 
 ## Variables disponibles
-* [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
-* [`{L_SOCIAL_BOOKMARKING}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING.md#readme)
-* [`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
+    * [`{L_SOCIAL_BOOKMARKING}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING.md#readme)
+    * [`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)
 
 ### Positions PunBB 
 

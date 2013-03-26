@@ -17,17 +17,17 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies)
 
 ## Variables disponibles
-* [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
-* [`{L_EMOTICONS}`](https://github.com/Etana/template/blob/master/var/L_EMOTICONS.md#readme)
-* [`{L_MORE_SMILIES}`](https://github.com/Etana/template/blob/master/var/L_MORE_SMILIES.md#readme)
-* [`{L_VIEW_MORE}`](https://github.com/Etana/template/blob/master/var/L_VIEW_MORE.md#readme)
-* [`{SELECT_OPTIONS}`](https://github.com/Etana/template/blob/master/var/SELECT_OPTIONS.md#readme)
-* [`{S_SMILIES_COLSPAN}`](https://github.com/Etana/template/blob/master/var/S_SMILIES_COLSPAN.md#readme)
-* [`{U_MORE_SMILIES}`](https://github.com/Etana/template/blob/master/var/U_MORE_SMILIES.md#readme)
-* [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
-* [`<!-- BEGIN switch_smilies_extra -->...<!-- END switch_smilies_extra -->`](https://github.com/Etana/template/blob/master/var/switch_smilies_extra.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
+    * [`{L_EMOTICONS}`](https://github.com/Etana/template/blob/master/var/L_EMOTICONS.md#readme)
+    * [`{L_MORE_SMILIES}`](https://github.com/Etana/template/blob/master/var/L_MORE_SMILIES.md#readme)
+    * [`{L_VIEW_MORE}`](https://github.com/Etana/template/blob/master/var/L_VIEW_MORE.md#readme)
+    * [`{SELECT_OPTIONS}`](https://github.com/Etana/template/blob/master/var/SELECT_OPTIONS.md#readme)
+    * [`{S_SMILIES_COLSPAN}`](https://github.com/Etana/template/blob/master/var/S_SMILIES_COLSPAN.md#readme)
+    * [`{U_MORE_SMILIES}`](https://github.com/Etana/template/blob/master/var/U_MORE_SMILIES.md#readme)
+    * [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
+    * [`<!-- BEGIN switch_smilies_extra -->...<!-- END switch_smilies_extra -->`](https://github.com/Etana/template/blob/master/var/switch_smilies_extra.md#readme)
 
 ### Positions PunBB 
 

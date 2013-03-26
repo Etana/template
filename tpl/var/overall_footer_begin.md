@@ -17,17 +17,17 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_begin)
 
 ## Variables disponibles
-* [`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme)
-* [`{ID_RIGHT}`](https://github.com/Etana/template/blob/master/var/ID_RIGHT.md#readme)
-* [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)
-* [`{L_JUMP_TO}`](https://github.com/Etana/template/blob/master/var/L_JUMP_TO.md#readme)
-* [`{SPACE_ROW}`](https://github.com/Etana/template/blob/master/var/SPACE_ROW.md#readme)
-* [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme)
-* [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme)
-* [`<!-- BEGIN giefmod_index2 -->...<!-- END giefmod_index2 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.md#readme)
-* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme)
+    * [`{ID_RIGHT}`](https://github.com/Etana/template/blob/master/var/ID_RIGHT.md#readme)
+    * [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)
+    * [`{L_JUMP_TO}`](https://github.com/Etana/template/blob/master/var/L_JUMP_TO.md#readme)
+    * [`{SPACE_ROW}`](https://github.com/Etana/template/blob/master/var/SPACE_ROW.md#readme)
+    * [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme)
+    * [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme)
+    * [`<!-- BEGIN giefmod_index2 -->...<!-- END giefmod_index2 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.md#readme)
+    * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
 
 ### Positions PunBB 
 

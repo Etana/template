@@ -17,14 +17,14 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_box)
 
 ## Variables disponibles
-* [`{DOWN_ARROW}`](https://github.com/Etana/template/blob/master/var/DOWN_ARROW.md#readme)
-* [`{FOLDER_CALENDAR_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_CALENDAR_IMG.md#readme)
-* [`{L_ADD_EVENT}`](https://github.com/Etana/template/blob/master/var/L_ADD_EVENT.md#readme)
-* [`{S_CREATE_EVENT}`](https://github.com/Etana/template/blob/master/var/S_CREATE_EVENT.md#readme)
-* [`{UP_ARROW}`](https://github.com/Etana/template/blob/master/var/UP_ARROW.md#readme)
-* [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](https://github.com/Etana/template/blob/master/var/_calendar_box.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{DOWN_ARROW}`](https://github.com/Etana/template/blob/master/var/DOWN_ARROW.md#readme)
+    * [`{FOLDER_CALENDAR_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_CALENDAR_IMG.md#readme)
+    * [`{L_ADD_EVENT}`](https://github.com/Etana/template/blob/master/var/L_ADD_EVENT.md#readme)
+    * [`{S_CREATE_EVENT}`](https://github.com/Etana/template/blob/master/var/S_CREATE_EVENT.md#readme)
+    * [`{UP_ARROW}`](https://github.com/Etana/template/blob/master/var/UP_ARROW.md#readme)
+    * [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](https://github.com/Etana/template/blob/master/var/_calendar_box.md#readme)
 
 ### Positions PunBB 
 

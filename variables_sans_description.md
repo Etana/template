@@ -1,4 +1,5 @@
 # Variables de template sans description
+*Variables et attributs qui n'ont pas &eacute;t&eacute; d&eacute;crits.*
 * [`{ACTION}`](https://github.com/Etana/template/blob/master/var/ACTION.md#readme)
 * [`{ADDTHIS_LANG}`](https://github.com/Etana/template/blob/master/var/ADDTHIS_LANG.md#readme)
 * [`{ADD_FIELD}`](https://github.com/Etana/template/blob/master/var/ADD_FIELD.md#readme)

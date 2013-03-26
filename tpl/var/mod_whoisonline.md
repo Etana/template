@@ -17,15 +17,12 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_whoisonline)
 
 ## Variables disponibles
-* [`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme)
-* [`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)
-* [`{L_WHO_IS_ONLINE}`](https://github.com/Etana/template/blob/master/var/L_WHO_IS_ONLINE.md#readme)
-* [`{RECORD_USERS}`](https://github.com/Etana/template/blob/master/var/RECORD_USERS.md#readme)
-* [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)
-* [`{U_VIEWONLINE}`](https://github.com/Etana/template/blob/master/var/U_VIEWONLINE.md#readme)
-* [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme)
+    * [`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)
+    * [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)
+    * [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme)
 
 ### Positions PunBB 
 

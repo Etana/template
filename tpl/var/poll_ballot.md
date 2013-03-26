@@ -17,15 +17,15 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/poll_ballot)
 
 ## Variables disponibles
-* [`{L_SUBMIT_VOTE}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT_VOTE.md#readme)
-* [`{L_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/L_VIEW_RESULTS.md#readme)
-* [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
-* [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
-* [`{S_POLL_ACTION}`](https://github.com/Etana/template/blob/master/var/S_POLL_ACTION.md#readme)
-* [`{U_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/U_VIEW_RESULTS.md#readme)
-* [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_SUBMIT_VOTE}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT_VOTE.md#readme)
+    * [`{L_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/L_VIEW_RESULTS.md#readme)
+    * [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
+    * [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
+    * [`{S_POLL_ACTION}`](https://github.com/Etana/template/blob/master/var/S_POLL_ACTION.md#readme)
+    * [`{U_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/U_VIEW_RESULTS.md#readme)
+    * [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
 
 ### Positions PunBB 
 

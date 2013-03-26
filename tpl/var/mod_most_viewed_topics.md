@@ -17,10 +17,10 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_most_viewed_topics)
 
 ## Variables disponibles
-* [`{L_MOST_VIEWED_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_MOST_VIEWED_TOPICS.md#readme)
-* [`<!-- BEGIN TOPIC -->...<!-- END TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_MOST_VIEWED_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_MOST_VIEWED_TOPICS.md#readme)
+    * [`<!-- BEGIN TOPIC -->...<!-- END TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme)
 
 ### Positions PunBB 
 

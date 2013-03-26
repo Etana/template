@@ -19,18 +19,16 @@
 Ce template touche toutes les demandes de confirmation comme le bannissement d'un membre, la suppression de messages et sujets, ...
 
 ## Variables disponibles
-* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
-* [`{L_NO}`](https://github.com/Etana/template/blob/master/var/L_NO.md#readme)
-* [`{L_YES}`](https://github.com/Etana/template/blob/master/var/L_YES.md#readme)
-* [`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme)
-* [`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme)
-* [`{OPTIONAL_BAN}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN.md#readme)
-* [`{OPTIONAL_BAN_NEW}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN_NEW.md#readme)
-* [`{S_CONFIRM_ACTION}`](https://github.com/Etana/template/blob/master/var/S_CONFIRM_ACTION.md#readme)
-* [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
-* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_NO}`](https://github.com/Etana/template/blob/master/var/L_NO.md#readme)
+    * [`{L_YES}`](https://github.com/Etana/template/blob/master/var/L_YES.md#readme)
+    * [`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme)
+    * [`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme)
+    * [`{OPTIONAL_BAN}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN.md#readme)
+    * [`{OPTIONAL_BAN_NEW}`](https://github.com/Etana/template/blob/master/var/OPTIONAL_BAN_NEW.md#readme)
+    * [`{S_CONFIRM_ACTION}`](https://github.com/Etana/template/blob/master/var/S_CONFIRM_ACTION.md#readme)
+    * [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
 
 ### Positions PunBB 
 

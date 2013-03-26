@@ -19,12 +19,12 @@
 Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page sur plusieurs pages de votre forum.
 
 ## Variables disponibles
-* [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)
-* [`{L_JUMP_TO}`](https://github.com/Etana/template/blob/master/var/L_JUMP_TO.md#readme)
-* [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme)
-* [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)
+    * [`{L_JUMP_TO}`](https://github.com/Etana/template/blob/master/var/L_JUMP_TO.md#readme)
+    * [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme)
+    * [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme)
 
 ### Positions PunBB 
 

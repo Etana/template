@@ -17,18 +17,17 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/search_username)
 
 ## Variables disponibles
-* [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
-* [`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme)
-* [`{L_SEARCH_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_EXPLAIN.md#readme)
-* [`{L_SEARCH_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_USERNAME.md#readme)
-* [`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)
-* [`{S_SEARCH_ACTION}`](https://github.com/Etana/template/blob/master/var/S_SEARCH_ACTION.md#readme)
-* [`{S_USERNAME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_USERNAME_OPTIONS.md#readme)
-* [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
-* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
-* [`<!-- BEGIN switch_select_name -->...<!-- END switch_select_name -->`](https://github.com/Etana/template/blob/master/var/switch_select_name.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
+    * [`{L_SEARCH_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_EXPLAIN.md#readme)
+    * [`{L_SEARCH_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_USERNAME.md#readme)
+    * [`{L_SELECT}`](https://github.com/Etana/template/blob/master/var/L_SELECT.md#readme)
+    * [`{S_SEARCH_ACTION}`](https://github.com/Etana/template/blob/master/var/S_SEARCH_ACTION.md#readme)
+    * [`{S_USERNAME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_USERNAME_OPTIONS.md#readme)
+    * [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
+    * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
+    * [`<!-- BEGIN switch_select_name -->...<!-- END switch_select_name -->`](https://github.com/Etana/template/blob/master/var/switch_select_name.md#readme)
 
 ### Positions PunBB 
 

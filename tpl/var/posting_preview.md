@@ -17,19 +17,19 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_preview)
 
 ## Variables disponibles
-* [`{L_POST}`](https://github.com/Etana/template/blob/master/var/L_POST.md#readme)
-* [`{L_POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_POST_SUBJECT.md#readme)
-* [`{L_PREVIEW}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW.md#readme)
-* [`{L_PREVIEW_PUNBB}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW_PUNBB.md#readme)
-* [`{MESSAGE}`](https://github.com/Etana/template/blob/master/var/MESSAGE.md#readme)
-* [`{MESSAGE_NEW}`](https://github.com/Etana/template/blob/master/var/MESSAGE_NEW.md#readme)
-* [`{MINI_POST_IMG}`](https://github.com/Etana/template/blob/master/var/MINI_POST_IMG.md#readme)
-* [`{MINI_TIME_IMG}`](https://github.com/Etana/template/blob/master/var/MINI_TIME_IMG.md#readme)
-* [`{POST_DATE}`](https://github.com/Etana/template/blob/master/var/POST_DATE.md#readme)
-* [`{POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/POST_SUBJECT.md#readme)
-* [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_POST}`](https://github.com/Etana/template/blob/master/var/L_POST.md#readme)
+    * [`{L_POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_POST_SUBJECT.md#readme)
+    * [`{L_PREVIEW}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW.md#readme)
+    * [`{L_PREVIEW_PUNBB}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW_PUNBB.md#readme)
+    * [`{MESSAGE}`](https://github.com/Etana/template/blob/master/var/MESSAGE.md#readme)
+    * [`{MESSAGE_NEW}`](https://github.com/Etana/template/blob/master/var/MESSAGE_NEW.md#readme)
+    * [`{MINI_POST_IMG}`](https://github.com/Etana/template/blob/master/var/MINI_POST_IMG.md#readme)
+    * [`{MINI_TIME_IMG}`](https://github.com/Etana/template/blob/master/var/MINI_TIME_IMG.md#readme)
+    * [`{POST_DATE}`](https://github.com/Etana/template/blob/master/var/POST_DATE.md#readme)
+    * [`{POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/POST_SUBJECT.md#readme)
+    * [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
 
 ### Positions PunBB 
 

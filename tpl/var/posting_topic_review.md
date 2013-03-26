@@ -17,14 +17,14 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_topic_review)
 
 ## Variables disponibles
-* [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
-* [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
-* [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
-* [`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)
-* [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
-* [`<!-- BEGIN switch_inline_mode -->...<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
+    * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
+    * [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
+    * [`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)
+    * [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
+    * [`<!-- BEGIN switch_inline_mode -->...<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)
 
 ### Positions PunBB 
 

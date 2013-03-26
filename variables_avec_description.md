@@ -1,4 +1,5 @@
 # Variables de template avec description
+*Variables et attributs qui ont &eacute;t&eacute; d&eacute;crits.*
 * [`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme)
 * [`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme)
 * [`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme)

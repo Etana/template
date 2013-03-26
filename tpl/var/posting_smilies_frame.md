@@ -17,19 +17,16 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies_frame)
 
 ## Variables disponibles
-* [`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme)
-* [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
-* [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
-* [`{L_SMILIES_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SMILIES_TITLE.md#readme)
-* [`{L_VIEW_MORE}`](https://github.com/Etana/template/blob/master/var/L_VIEW_MORE.md#readme)
-* [`{SELECT_OPTIONS}`](https://github.com/Etana/template/blob/master/var/SELECT_OPTIONS.md#readme)
-* [`{S_CONTENT_ENCODING}`](https://github.com/Etana/template/blob/master/var/S_CONTENT_ENCODING.md#readme)
-* [`{T_BODY_BGCOLOR}`](https://github.com/Etana/template/blob/master/var/T_BODY_BGCOLOR.md#readme)
-* [`{T_BODY_TEXT}`](https://github.com/Etana/template/blob/master/var/T_BODY_TEXT.md#readme)
-* [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
-* [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme)
+    * [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
+    * [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
+    * [`{L_SMILIES_TITLE}`](https://github.com/Etana/template/blob/master/var/L_SMILIES_TITLE.md#readme)
+    * [`{L_VIEW_MORE}`](https://github.com/Etana/template/blob/master/var/L_VIEW_MORE.md#readme)
+    * [`{SELECT_OPTIONS}`](https://github.com/Etana/template/blob/master/var/SELECT_OPTIONS.md#readme)
+    * [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
+    * [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
 
 ### Positions PunBB 
 

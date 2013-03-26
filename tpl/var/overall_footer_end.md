@@ -17,14 +17,14 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_end)
 
 ## Variables disponibles
-* [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
-* [`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)
-* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
-* [`<!-- BEGIN switch_facebook_login -->...<!-- END switch_facebook_login -->`](https://github.com/Etana/template/blob/master/var/switch_facebook_login.md#readme)
-* [`{switch_facebook_logout_TMP}`](https://github.com/Etana/template/blob/master/var/switch_facebook_logout_TMP.md#readme)
-* [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
+    * [`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)
+    * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
+    * [`<!-- BEGIN switch_facebook_login -->...<!-- END switch_facebook_login -->`](https://github.com/Etana/template/blob/master/var/switch_facebook_login.md#readme)
+    * [`{switch_facebook_logout_TMP}`](https://github.com/Etana/template/blob/master/var/switch_facebook_logout_TMP.md#readme)
+    * [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme)
 
 ### Positions PunBB 
 

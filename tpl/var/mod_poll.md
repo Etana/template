@@ -17,10 +17,10 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_poll)
 
 ## Variables disponibles
-* [`{L_POLL}`](https://github.com/Etana/template/blob/master/var/L_POLL.md#readme)
-* [`{POLL_DISPLAY}`](https://github.com/Etana/template/blob/master/var/POLL_DISPLAY.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_POLL}`](https://github.com/Etana/template/blob/master/var/L_POLL.md#readme)
+    * [`{POLL_DISPLAY}`](https://github.com/Etana/template/blob/master/var/POLL_DISPLAY.md#readme)
 
 ### Positions PunBB 
 

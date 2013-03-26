@@ -17,20 +17,20 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewtopic_poll_result)
 
 ## Variables disponibles
-* [`{CLOSE_POLL}`](https://github.com/Etana/template/blob/master/var/CLOSE_POLL.md#readme)
-* [`{L_CANCEL_VOTE}`](https://github.com/Etana/template/blob/master/var/L_CANCEL_VOTE.md#readme)
-* [`{L_POLL_HIDE_RESULT}`](https://github.com/Etana/template/blob/master/var/L_POLL_HIDE_RESULT.md#readme)
-* [`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)
-* [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
-* [`{TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/TOTAL_VOTES.md#readme)
-* [`{U_CANCEL_VOTE}`](https://github.com/Etana/template/blob/master/var/U_CANCEL_VOTE.md#readme)
-* [`{VOTE_LCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_LCAP_IMG.md#readme)
-* [`{VOTE_RCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_RCAP_IMG.md#readme)
-* [`<!-- BEGIN cancel_vote -->...<!-- END cancel_vote -->`](https://github.com/Etana/template/blob/master/var/cancel_vote.md#readme)
-* [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
-* [`<!-- BEGIN switch_hide_result -->...<!-- END switch_hide_result -->`](https://github.com/Etana/template/blob/master/var/switch_hide_result.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{CLOSE_POLL}`](https://github.com/Etana/template/blob/master/var/CLOSE_POLL.md#readme)
+    * [`{L_CANCEL_VOTE}`](https://github.com/Etana/template/blob/master/var/L_CANCEL_VOTE.md#readme)
+    * [`{L_POLL_HIDE_RESULT}`](https://github.com/Etana/template/blob/master/var/L_POLL_HIDE_RESULT.md#readme)
+    * [`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)
+    * [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
+    * [`{TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/TOTAL_VOTES.md#readme)
+    * [`{U_CANCEL_VOTE}`](https://github.com/Etana/template/blob/master/var/U_CANCEL_VOTE.md#readme)
+    * [`{VOTE_LCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_LCAP_IMG.md#readme)
+    * [`{VOTE_RCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_RCAP_IMG.md#readme)
+    * [`<!-- BEGIN cancel_vote -->...<!-- END cancel_vote -->`](https://github.com/Etana/template/blob/master/var/cancel_vote.md#readme)
+    * [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
+    * [`<!-- BEGIN switch_hide_result -->...<!-- END switch_hide_result -->`](https://github.com/Etana/template/blob/master/var/switch_hide_result.md#readme)
 
 ### Positions PunBB 
 

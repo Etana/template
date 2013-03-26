@@ -17,13 +17,13 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_statistics)
 
 ## Variables disponibles
-* [`{L_STATISTICS}`](https://github.com/Etana/template/blob/master/var/L_STATISTICS.md#readme)
-* [`{NEWEST_USER}`](https://github.com/Etana/template/blob/master/var/NEWEST_USER.md#readme)
-* [`{TOTAL_POSTS}`](https://github.com/Etana/template/blob/master/var/TOTAL_POSTS.md#readme)
-* [`{TOTAL_TOPICS}`](https://github.com/Etana/template/blob/master/var/TOTAL_TOPICS.md#readme)
-* [`{TOTAL_USERS}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_STATISTICS}`](https://github.com/Etana/template/blob/master/var/L_STATISTICS.md#readme)
+    * [`{NEWEST_USER}`](https://github.com/Etana/template/blob/master/var/NEWEST_USER.md#readme)
+    * [`{TOTAL_POSTS}`](https://github.com/Etana/template/blob/master/var/TOTAL_POSTS.md#readme)
+    * [`{TOTAL_TOPICS}`](https://github.com/Etana/template/blob/master/var/TOTAL_TOPICS.md#readme)
+    * [`{TOTAL_USERS}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS.md#readme)
 
 ### Positions PunBB 
 

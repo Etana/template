@@ -17,10 +17,10 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/simple_footer)
 
 ## Variables disponibles
-* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
-* [`<!-- BEGIN switch_view_stats -->...<!-- END switch_view_stats -->`](https://github.com/Etana/template/blob/master/var/switch_view_stats.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
+    * [`<!-- BEGIN switch_view_stats -->...<!-- END switch_view_stats -->`](https://github.com/Etana/template/blob/master/var/switch_view_stats.md#readme)
 
 ### Positions phpBB2 
 

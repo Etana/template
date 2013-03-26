@@ -17,9 +17,9 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_chatbox)
 
 ## Variables disponibles
-* [`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)
 
 ### Positions PunBB 
 

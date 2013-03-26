@@ -17,21 +17,21 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_overview_top10)
 
 ## Variables disponibles
-* [`{ALBUM}`](https://github.com/Etana/template/blob/master/var/ALBUM.md#readme)
-* [`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)
-* [`{L_DATE}`](https://github.com/Etana/template/blob/master/var/L_DATE.md#readme)
-* [`{L_PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/L_PIC_TITLE.md#readme)
-* [`{L_POSTER}`](https://github.com/Etana/template/blob/master/var/L_POSTER.md#readme)
-* [`{L_RATE}`](https://github.com/Etana/template/blob/master/var/L_RATE.md#readme)
-* [`{L_VIEW}`](https://github.com/Etana/template/blob/master/var/L_VIEW.md#readme)
-* [`POSTER`](../../var/POSTER.md#readme)
-* [`{THUMBNAIL}`](https://github.com/Etana/template/blob/master/var/THUMBNAIL.md#readme)
-* [`<!-- BEGIN switch_rank -->...<!-- END switch_rank -->`](https://github.com/Etana/template/blob/master/var/switch_rank.md#readme)
-* [`<!-- BEGIN switch_rate -->...<!-- END switch_rate -->`](https://github.com/Etana/template/blob/master/var/switch_rate.md#readme)
-* [`<!-- BEGIN switch_recent -->...<!-- END switch_recent -->`](https://github.com/Etana/template/blob/master/var/switch_recent.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
-* [`<!-- BEGIN switch_viewed -->...<!-- END switch_viewed -->`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{ALBUM}`](https://github.com/Etana/template/blob/master/var/ALBUM.md#readme)
+    * [`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)
+    * [`{L_DATE}`](https://github.com/Etana/template/blob/master/var/L_DATE.md#readme)
+    * [`{L_PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/L_PIC_TITLE.md#readme)
+    * [`{L_POSTER}`](https://github.com/Etana/template/blob/master/var/L_POSTER.md#readme)
+    * [`{L_RATE}`](https://github.com/Etana/template/blob/master/var/L_RATE.md#readme)
+    * [`{L_VIEW}`](https://github.com/Etana/template/blob/master/var/L_VIEW.md#readme)
+    * [`POSTER`](../../var/POSTER.md#readme)
+    * [`{THUMBNAIL}`](https://github.com/Etana/template/blob/master/var/THUMBNAIL.md#readme)
+    * [`<!-- BEGIN switch_rank -->...<!-- END switch_rank -->`](https://github.com/Etana/template/blob/master/var/switch_rank.md#readme)
+    * [`<!-- BEGIN switch_rate -->...<!-- END switch_rate -->`](https://github.com/Etana/template/blob/master/var/switch_rate.md#readme)
+    * [`<!-- BEGIN switch_recent -->...<!-- END switch_recent -->`](https://github.com/Etana/template/blob/master/var/switch_recent.md#readme)
+    * [`<!-- BEGIN switch_viewed -->...<!-- END switch_viewed -->`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme)
 
 ### Positions PunBB 
 

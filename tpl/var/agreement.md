@@ -19,27 +19,19 @@
 Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Variables disponibles
-* [`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme)
-* [`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme)
-* [`{DO_NOT_AGREE}`](https://github.com/Etana/template/blob/master/var/DO_NOT_AGREE.md#readme)
-* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
-* [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
-* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
-* [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
-* [`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)
-* [`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme)
-* [`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme)
-* [`{MY_RULES}`](https://github.com/Etana/template/blob/master/var/MY_RULES.md#readme)
-* [`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme)
-* [`{REGISTRATION}`](https://github.com/Etana/template/blob/master/var/REGISTRATION.md#readme)
-* [`{SITENAME}`](https://github.com/Etana/template/blob/master/var/SITENAME.md#readme)
-* [`{U_AGREE_OVER13}`](https://github.com/Etana/template/blob/master/var/U_AGREE_OVER13.md#readme)
-* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
-* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
-* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
-* [`<!-- BEGIN switch_fb_explain -->...<!-- END switch_fb_explain -->`](https://github.com/Etana/template/blob/master/var/switch_fb_explain.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme)
+    * [`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme)
+    * [`{DO_NOT_AGREE}`](https://github.com/Etana/template/blob/master/var/DO_NOT_AGREE.md#readme)
+    * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
+    * [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
+    * [`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)
+    * [`{MY_RULES}`](https://github.com/Etana/template/blob/master/var/MY_RULES.md#readme)
+    * [`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme)
+    * [`{REGISTRATION}`](https://github.com/Etana/template/blob/master/var/REGISTRATION.md#readme)
+    * [`{U_AGREE_OVER13}`](https://github.com/Etana/template/blob/master/var/U_AGREE_OVER13.md#readme)
+    * [`<!-- BEGIN switch_fb_explain -->...<!-- END switch_fb_explain -->`](https://github.com/Etana/template/blob/master/var/switch_fb_explain.md#readme)
 
 ### Positions PunBB 
 

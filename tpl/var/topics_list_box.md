@@ -17,15 +17,15 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/topics_list_box)
 
 ## Variables disponibles
-* [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
-* [`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme)
-* [`{L_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_TOPICS.md#readme)
-* [`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)
-* [`{S_WATCH_FORUM}`](https://github.com/Etana/template/blob/master/var/S_WATCH_FORUM.md#readme)
-* [`{U_MARK_READ}`](https://github.com/Etana/template/blob/master/var/U_MARK_READ.md#readme)
-* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
-* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
-* [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme)
+* [__Variables globales__](../../variables_globales.md#readme)
+* Variables propres au template
+    * [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
+    * [`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme)
+    * [`{L_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_TOPICS.md#readme)
+    * [`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)
+    * [`{S_WATCH_FORUM}`](https://github.com/Etana/template/blob/master/var/S_WATCH_FORUM.md#readme)
+    * [`{U_MARK_READ}`](https://github.com/Etana/template/blob/master/var/U_MARK_READ.md#readme)
+    * [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme)
 
 ### Positions PunBB 
 
