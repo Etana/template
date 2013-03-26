@@ -49,9 +49,9 @@ Boucle d'affichage des résultats de la recherche se répétant pour chaque mess
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ lignes [`45`](../tpl/src/punbb/search_results_topics.tpl#L45)[`<->`](../tpl/src/punbb/search_results_topics.tpl#L45-L64)[`64`](../tpl/src/punbb/search_results_topics.tpl#L64)
 * __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ lignes [`32`](../tpl/src/punbb/search_results_posts.tpl#L32)[`<->`](../tpl/src/punbb/search_results_posts.tpl#L32-L68)[`68`](../tpl/src/punbb/search_results_posts.tpl#L68)
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ lignes [`45`](../tpl/src/punbb/search_results_topics.tpl#L45)[`<->`](../tpl/src/punbb/search_results_topics.tpl#L45-L64)[`64`](../tpl/src/punbb/search_results_topics.tpl#L64)
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ lignes [`30`](../tpl/src/subsilver/search_results_topics.tpl#L30)[`<->`](../tpl/src/subsilver/search_results_topics.tpl#L30-L45)[`45`](../tpl/src/subsilver/search_results_topics.tpl#L45)
 * __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ lignes [`14`](../tpl/src/subsilver/search_results_posts.tpl#L14)[`<->`](../tpl/src/subsilver/search_results_posts.tpl#L14-L28)[`28`](../tpl/src/subsilver/search_results_posts.tpl#L28)
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ lignes [`30`](../tpl/src/subsilver/search_results_topics.tpl#L30)[`<->`](../tpl/src/subsilver/search_results_topics.tpl#L30-L45)[`45`](../tpl/src/subsilver/search_results_topics.tpl#L45)

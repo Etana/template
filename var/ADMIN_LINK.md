@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ ligne [`58`](../tpl/src/punbb/portal_body.tpl#L58)
 * __[`overall_footer_end`](../tpl/var/overall_footer_end.md#readme) :__ ligne [`29`](../tpl/src/punbb/overall_footer_end.tpl#L29)
+* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ ligne [`58`](../tpl/src/punbb/portal_body.tpl#L58)

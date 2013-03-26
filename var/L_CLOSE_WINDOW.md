@@ -15,15 +15,15 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`greeting_popup`](../tpl/var/greeting_popup.md#readme) :__ ligne [`27`](../tpl/src/punbb/greeting_popup.tpl#L27)
 * __[`search_username`](../tpl/var/search_username.md#readme) :__ ligne [`29`](../tpl/src/punbb/search_username.tpl#L29)
+* __[`greeting_popup`](../tpl/var/greeting_popup.md#readme) :__ ligne [`27`](../tpl/src/punbb/greeting_popup.tpl#L27)
+* __[`report_popup_body`](../tpl/var/report_popup_body.md#readme) :__ ligne [`27`](../tpl/src/punbb/report_popup_body.tpl#L27)
 * __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`31`](../tpl/src/punbb/posting_smilies.tpl#L31)
 * __[`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme) :__ ligne [`26`](../tpl/src/punbb/privmsgs_popup.tpl#L26)
-* __[`report_popup_body`](../tpl/var/report_popup_body.md#readme) :__ ligne [`27`](../tpl/src/punbb/report_popup_body.tpl#L27)
 
 ### Version phpBB2
-* __[`greeting_popup`](../tpl/var/greeting_popup.md#readme) :__ ligne [`19`](../tpl/src/subsilver/greeting_popup.tpl#L19)
 * __[`search_username`](../tpl/var/search_username.md#readme) :__ ligne [`21`](../tpl/src/subsilver/search_username.tpl#L21)
+* __[`greeting_popup`](../tpl/var/greeting_popup.md#readme) :__ ligne [`19`](../tpl/src/subsilver/greeting_popup.tpl#L19)
+* __[`report_popup_body`](../tpl/var/report_popup_body.md#readme) :__ ligne [`18`](../tpl/src/subsilver/report_popup_body.tpl#L18)
 * __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`35`](../tpl/src/subsilver/posting_smilies.tpl#L35)
 * __[`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme) :__ ligne [`25`](../tpl/src/subsilver/privmsgs_popup.tpl#L25)
-* __[`report_popup_body`](../tpl/var/report_popup_body.md#readme) :__ ligne [`18`](../tpl/src/subsilver/report_popup_body.tpl#L18)

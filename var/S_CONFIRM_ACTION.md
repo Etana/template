@@ -15,9 +15,9 @@ Action du formulaire de confirmation.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`confirm_body`](../tpl/var/confirm_body.md#readme) :__ ligne [`4`](../tpl/src/punbb/confirm_body.tpl#L4)
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`183`](../tpl/src/punbb/donate.tpl#L183)
+* __[`confirm_body`](../tpl/var/confirm_body.md#readme) :__ ligne [`4`](../tpl/src/punbb/confirm_body.tpl#L4)
 
 ### Version phpBB2
-* __[`confirm_body`](../tpl/var/confirm_body.md#readme) :__ ligne [`12`](../tpl/src/subsilver/confirm_body.tpl#L12)
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`222`](../tpl/src/subsilver/donate.tpl#L222)
+* __[`confirm_body`](../tpl/var/confirm_body.md#readme) :__ ligne [`12`](../tpl/src/subsilver/confirm_body.tpl#L12)

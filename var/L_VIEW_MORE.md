@@ -13,11 +13,11 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
+* __[`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme) :__ ligne [`20`](../tpl/src/punbb/posting_smilies_wysiwyg.tpl#L20)
 * __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`9`](../tpl/src/punbb/posting_smilies.tpl#L9)
 * __[`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme) :__ ligne [`21`](../tpl/src/punbb/posting_smilies_frame.tpl#L21)
-* __[`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme) :__ ligne [`20`](../tpl/src/punbb/posting_smilies_wysiwyg.tpl#L20)
 
 ### Version phpBB2
+* __[`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme) :__ ligne [`26`](../tpl/src/subsilver/posting_smilies_wysiwyg.tpl#L26)
 * __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`9`](../tpl/src/subsilver/posting_smilies.tpl#L9)
 * __[`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme) :__ ligne [`23`](../tpl/src/subsilver/posting_smilies_frame.tpl#L23)
-* __[`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme) :__ ligne [`26`](../tpl/src/subsilver/posting_smilies_wysiwyg.tpl#L26)

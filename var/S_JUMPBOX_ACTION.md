@@ -19,6 +19,6 @@ Action du formulaire pour sauter vers un forum.
 * __[`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme) :__ ligne [`29`](../tpl/src/punbb/overall_footer_begin.tpl#L29)
 
 ### Version phpBB2
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`76`](../tpl/src/subsilver/viewforum_body.tpl#L76)
 * __[`jumpbox`](../tpl/var/jumpbox.md#readme) :__ ligne [`1`](../tpl/src/subsilver/jumpbox.tpl#L1)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`419`](../tpl/src/subsilver/viewtopic_body.tpl#L419)
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`76`](../tpl/src/subsilver/viewforum_body.tpl#L76)
