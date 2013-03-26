@@ -11,8 +11,8 @@
 <!-- END catrow -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.FORUM_FOLDER_IMG)
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.FORUM_FOLDER_IMG)
+Contient l'icône du forum correspondant au forum bouclé (nouveaux messages, pas de nouveaux messages, forum verrouillé) définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes du forum"`.
 
 ## Utilisations dans les templates
 

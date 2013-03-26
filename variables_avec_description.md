@@ -336,6 +336,26 @@
 * [`{U_UNANSWERED_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_UNANSWERED_JS_PLUS_MENU.md#readme)
 * [`{U_VIEWONLINE}`](https://github.com/Etana/template/blob/master/var/U_VIEWONLINE.md#readme)
 * [`{U_WATCHSEARCH_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_WATCHSEARCH_JS_PLUS_MENU.md#readme)
+* 
+    * 
+        * [`{catrow.cathead.CAT_DESC}`](https://github.com/Etana/template/blob/master/var/catrow.cathead.CAT_DESC.md#readme)
+        * [`{catrow.cathead.CAT_TITLE}`](https://github.com/Etana/template/blob/master/var/catrow.cathead.CAT_TITLE.md#readme)
+        * [`{catrow.cathead.LEVEL}`](https://github.com/Etana/template/blob/master/var/catrow.cathead.LEVEL.md#readme)
+        * [`{catrow.cathead.U_VIEWCAT}`](https://github.com/Etana/template/blob/master/var/catrow.cathead.U_VIEWCAT.md#readme)
+    * 
+        * [`{catrow.forumrow.FORUM_DESC}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.FORUM_DESC.md#readme)
+        * [`{catrow.forumrow.FORUM_FOLDER_IMG}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.FORUM_FOLDER_IMG.md#readme)
+        * [`{catrow.forumrow.FORUM_NAME}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.FORUM_NAME.md#readme)
+        * [`{catrow.forumrow.LAST_POST}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.LAST_POST.md#readme)
+        * [`{catrow.forumrow.LEVEL}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.LEVEL.md#readme)
+        * [`{catrow.forumrow.LINKS}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.LINKS.md#readme)
+        * [`{catrow.forumrow.L_FORUM_FOLDER_ALT}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.L_FORUM_FOLDER_ALT.md#readme)
+        * [`{catrow.forumrow.POSTS}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.POSTS.md#readme)
+        * [`{catrow.forumrow.TOPICS}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.TOPICS.md#readme)
+        * [`{catrow.forumrow.U_VIEWFORUM}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.U_VIEWFORUM.md#readme)
+        * 
+            * [`{catrow.forumrow.switch_moderators_links.L_MODERATOR}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)
+            * [`{catrow.forumrow.switch_moderators_links.MODERATORS}`](https://github.com/Etana/template/blob/master/var/catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)
 * [`<!-- BEGIN disable_viewonline -->...<!-- END disable_viewonline -->`](https://github.com/Etana/template/blob/master/var/disable_viewonline.md#readme)
 * [`<!-- BEGIN giefmod_index1 -->...<!-- END giefmod_index1 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index1.md#readme)
     * [`{giefmod_index1.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod_index1.MODVAR.md#readme)

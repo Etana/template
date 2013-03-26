@@ -11,8 +11,8 @@
 <!-- END catrow -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.LINKS)
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.LINKS)
+Contient les sous-forums du forum bouclé.
 
 ## Utilisations dans les templates
 

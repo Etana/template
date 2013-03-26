@@ -11,8 +11,8 @@
 <!-- END catrow -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.LEVEL)
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.LEVEL)
+Contient le niveau de hiérarchie du forum bouclé.
 
 ## Utilisations dans les templates
 

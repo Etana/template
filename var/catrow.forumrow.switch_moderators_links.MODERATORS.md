@@ -13,8 +13,8 @@
 <!-- END catrow -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.MODERATORS)
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.MODERATORS)
+Contient les noms d'utilisateurs qui sont modérateurs du forum bouclé.
 
 ## Utilisations dans les templates
 

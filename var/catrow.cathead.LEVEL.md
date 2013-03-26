@@ -11,8 +11,8 @@
 <!-- END catrow -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.LEVEL)
+## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.LEVEL)
+Contient le niveau de hiérarchie de la catégorie bouclée.
 
 ## Utilisations dans les templates
 
