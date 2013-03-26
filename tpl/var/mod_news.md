@@ -1,24 +1,19 @@
 # Template mod_news [7/70]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=902) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=902) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=902) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=902) > [`mod_news`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=902)
-
-## Code source
-* [__phpBB2__](../src/subsilver/mod_news.tpl#files)
-* [__PunBB__](../src/punbb/mod_news.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_news)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)
     * [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
     * [`{LEFT}`](https://github.com/Etana/template/blob/master/var/LEFT.md#readme)
@@ -26,7 +21,12 @@
     * [`<!-- BEGIN post_row -->...<!-- END post_row -->`](https://github.com/Etana/template/blob/master/var/post_row.md#readme)
     * [`<!-- BEGIN switch_image_resize -->...<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/mod_news.tpl#files)
+
+### Positions des variables 
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ ligne [`11`](../src/punbb/mod_news.tpl#L11)
 * __[`{LEFT}`](https://github.com/Etana/template/blob/master/var/LEFT.md#readme)<a href="https://fa-tvars.appspot.com/var/LEFT">*</a> :__ ligne [`9`](../src/punbb/mod_news.tpl#L9)
@@ -73,7 +73,12 @@
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`66`](../src/punbb/mod_news.tpl#L66)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/mod_news.tpl#files)
+
+### Positions des variables 
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ ligne [`14`](../src/subsilver/mod_news.tpl#L14)
 * __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`14`](../src/subsilver/mod_news.tpl#L14)

@@ -1,24 +1,19 @@
 # Template topics_list_box [7/112]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=124) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=124) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=124) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=124) > [`topics_list_box`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=124)
-
-## Code source
-* [__phpBB2__](../src/subsilver/topics_list_box.tpl#files)
-* [__PunBB__](../src/punbb/topics_list_box.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/topics_list_box)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
     * [`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme)
     * [`{L_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_TOPICS.md#readme)
@@ -27,7 +22,12 @@
     * [`{U_MARK_READ}`](https://github.com/Etana/template/blob/master/var/U_MARK_READ.md#readme)
     * [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/topics_list_box.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`116`](../src/punbb/topics_list_box.tpl#L116)
 * __[`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme) :__ ligne [`116`](../src/punbb/topics_list_box.tpl#L116)
@@ -105,7 +105,12 @@
 * __[`<!-- END topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme) :__ ligne [`122`](../src/punbb/topics_list_box.tpl#L122)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/topics_list_box.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`89`](../src/subsilver/topics_list_box.tpl#L89)
 * __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ lignes [`35`](../src/subsilver/topics_list_box.tpl#L35), [`88`](../src/subsilver/topics_list_box.tpl#L88)

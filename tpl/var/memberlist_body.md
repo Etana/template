@@ -1,17 +1,12 @@
 # Template memberlist_body
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=113) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=113) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=113) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=113) > [`memberlist_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=113)
-
-## Code source
-* [__phpBB2__](../src/subsilver/memberlist_body.tpl#files)
-* [__PunBB__](../src/punbb/memberlist_body.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/memberlist_body)
 `Liste des membres`.
@@ -20,7 +15,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_AVATAR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR.md#readme)
     * [`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme)
@@ -50,7 +45,12 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
     * [`<!-- BEGIN switch_pagination -->...<!-- END switch_pagination -->`](https://github.com/Etana/template/blob/master/var/switch_pagination.md#readme)
     * [`<!-- BEGIN switch_th_group -->...<!-- END switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/memberlist_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/memberlist_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/memberlist_body.tpl#L7)
@@ -112,7 +112,12 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`15`](../src/punbb/memberlist_body.tpl#L15)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/memberlist_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_AVATAR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR.md#readme) :__ ligne [`24`](../src/subsilver/memberlist_body.tpl#L24)
 * __[`{L_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_GROUPS.md#readme) :__ ligne [`27`](../src/subsilver/memberlist_body.tpl#L27)

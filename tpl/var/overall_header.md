@@ -1,17 +1,12 @@
 # Template overall_header [161/171]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=116) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=116) > [`overall_header`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=116)
-
-## Code source
-* [__phpBB2__](../src/subsilver/overall_header.tpl#files)
-* [__PunBB__](../src/punbb/overall_header.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/overall_header)
 `Haut de page`.
@@ -20,7 +15,7 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme)
     * [`{CLASS_CONTENT_CONTAINER}`](https://github.com/Etana/template/blob/master/var/CLASS_CONTENT_CONTAINER.md#readme)
     * [`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme)
@@ -65,7 +60,6 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
     * [`<!-- BEGIN switch_canonical_url -->...<!-- END switch_canonical_url -->`](https://github.com/Etana/template/blob/master/var/switch_canonical_url.md#readme)
     * [`<!-- BEGIN switch_compat_meta -->...<!-- END switch_compat_meta -->`](https://github.com/Etana/template/blob/master/var/switch_compat_meta.md#readme)
     * [`<!-- BEGIN switch_desc -->...<!-- END switch_desc -->`](https://github.com/Etana/template/blob/master/var/switch_desc.md#readme)
-    * [`<!-- BEGIN switch_enable_pm_popup -->...<!-- END switch_enable_pm_popup -->`](https://github.com/Etana/template/blob/master/var/switch_enable_pm_popup.md#readme)
     * [`<!-- BEGIN switch_fb_login -->...<!-- END switch_fb_login -->`](https://github.com/Etana/template/blob/master/var/switch_fb_login.md#readme)
     * [`<!-- BEGIN switch_h1 -->...<!-- END switch_h1 -->`](https://github.com/Etana/template/blob/master/var/switch_h1.md#readme)
     * [`<!-- BEGIN switch_login_popup -->...<!-- END switch_login_popup -->`](https://github.com/Etana/template/blob/master/var/switch_login_popup.md#readme)
@@ -76,7 +70,12 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
     * [`<!-- BEGIN switch_ticker -->...<!-- END switch_ticker -->`](https://github.com/Etana/template/blob/master/var/switch_ticker.md#readme)
     * [`<!-- BEGIN switch_ticker_new -->...<!-- END switch_ticker_new -->`](https://github.com/Etana/template/blob/master/var/switch_ticker_new.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/overall_header.tpl#files)
+
+### Positions des variables 
 
 * __[`{CLASS_CONTENT_CONTAINER}`](https://github.com/Etana/template/blob/master/var/CLASS_CONTENT_CONTAINER.md#readme) :__ ligne [`288`](../src/punbb/overall_header.tpl#L288)
 * __[`{CSS}`](https://github.com/Etana/template/blob/master/var/CSS.md#readme) :__ ligne [`19`](../src/punbb/overall_header.tpl#L19)
@@ -177,7 +176,12 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 * __[`<!-- END switch_ticker_new -->`](https://github.com/Etana/template/blob/master/var/switch_ticker_new.md#readme) :__ lignes [`118`](../src/punbb/overall_header.tpl#L118), [`171`](../src/punbb/overall_header.tpl#L171), [`267`](../src/punbb/overall_header.tpl#L267)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/overall_header.tpl#files)
+
+### Positions des variables 
 
 * __[`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme) :__ ligne [`316`](../src/subsilver/overall_header.tpl#L316)
 * __[`{CLASS_CONTENT_CONTAINER}`](https://github.com/Etana/template/blob/master/var/CLASS_CONTENT_CONTAINER.md#readme) :__ ligne [`312`](../src/subsilver/overall_header.tpl#L312)

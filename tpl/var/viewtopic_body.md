@@ -1,24 +1,19 @@
 # Template viewtopic_body [88/321]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=127) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=127) > [`viewtopic_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=127)
-
-## Code source
-* [__phpBB2__](../src/subsilver/viewtopic_body.tpl#files)
-* [__PunBB__](../src/punbb/viewtopic_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewtopic_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ADDTHIS_LANG}`](https://github.com/Etana/template/blob/master/var/ADDTHIS_LANG.md#readme)
     * [`{COLSPAN_PAGINATION}`](https://github.com/Etana/template/blob/master/var/COLSPAN_PAGINATION.md#readme)
     * [`{FORUM_ID}`](https://github.com/Etana/template/blob/master/var/FORUM_ID.md#readme)
@@ -112,7 +107,12 @@
     * [`<!-- BEGIN topicpagination -->...<!-- END topicpagination -->`](https://github.com/Etana/template/blob/master/var/topicpagination.md#readme)
     * [`<!-- BEGIN viewtopic_bottom -->...<!-- END viewtopic_bottom -->`](https://github.com/Etana/template/blob/master/var/viewtopic_bottom.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/viewtopic_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADDTHIS_LANG}`](https://github.com/Etana/template/blob/master/var/ADDTHIS_LANG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADDTHIS_LANG">*</a> :__ ligne [`2`](../src/punbb/viewtopic_body.tpl#L2)
 * __[`{FORUM_ID}`](https://github.com/Etana/template/blob/master/var/FORUM_ID.md#readme) :__ ligne [`55`](../src/punbb/viewtopic_body.tpl#L55)
@@ -304,7 +304,12 @@
 * __[`<!-- END viewtopic_bottom -->`](https://github.com/Etana/template/blob/master/var/viewtopic_bottom.md#readme) :__ ligne [`267`](../src/punbb/viewtopic_body.tpl#L267)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/viewtopic_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADDTHIS_LANG}`](https://github.com/Etana/template/blob/master/var/ADDTHIS_LANG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADDTHIS_LANG">*</a> :__ ligne [`3`](../src/subsilver/viewtopic_body.tpl#L3)
 * __[`{COLSPAN_PAGINATION}`](https://github.com/Etana/template/blob/master/var/COLSPAN_PAGINATION.md#readme) :__ ligne [`279`](../src/subsilver/viewtopic_body.tpl#L279)

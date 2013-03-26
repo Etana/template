@@ -1,24 +1,19 @@
 # Template overall_footer_end [16/30]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=133) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=133) > [`overall_footer_end`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=133)
-
-## Code source
-* [__phpBB2__](../src/subsilver/overall_footer_end.tpl#files)
-* [__PunBB__](../src/punbb/overall_footer_end.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_end)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
     * [`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
@@ -26,7 +21,12 @@
     * [`{switch_facebook_logout_TMP}`](https://github.com/Etana/template/blob/master/var/switch_facebook_logout_TMP.md#readme)
     * [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/overall_footer_end.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMIN_LINK">*</a> :__ ligne [`29`](../src/punbb/overall_footer_end.tpl#L29)
 * __[`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)<a href="https://fa-tvars.appspot.com/var/PROTECT_FOOTER">*</a> :__ ligne [`32`](../src/punbb/overall_footer_end.tpl#L32)
@@ -51,7 +51,12 @@
 * __[`<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme) :__ ligne [`25`](../src/punbb/overall_footer_end.tpl#L25)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/overall_footer_end.tpl#files)
+
+### Positions des variables 
 
 * __[`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)<a href="https://fa-tvars.appspot.com/var/PROTECT_FOOTER">*</a> :__ ligne [`25`](../src/subsilver/overall_footer_end.tpl#L25)
 * __[`<!-- BEGIN html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme) :__ ligne [`1`](../src/subsilver/overall_footer_end.tpl#L1)

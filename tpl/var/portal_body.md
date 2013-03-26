@@ -1,24 +1,19 @@
 # Template portal_body [6/49]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=910) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=910) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=910) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=910) > [`portal_body`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=910)
-
-## Code source
-* [__phpBB2__](../src/subsilver/portal_body.tpl#files)
-* [__PunBB__](../src/punbb/portal_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/portal_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
     * [`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme)
     * [`{C2SIZE}`](https://github.com/Etana/template/blob/master/var/C2SIZE.md#readme)
@@ -35,7 +30,12 @@
     * [`<!-- BEGIN simple_footer -->...<!-- END simple_footer -->`](https://github.com/Etana/template/blob/master/var/simple_footer.md#readme)
     * [`<!-- BEGIN simple_header -->...<!-- END simple_header -->`](https://github.com/Etana/template/blob/master/var/simple_header.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/portal_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMIN_LINK">*</a> :__ ligne [`58`](../src/punbb/portal_body.tpl#L58)
 * __[`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme) :__ lignes [`11`](../src/punbb/portal_body.tpl#L11), [`18`](../src/punbb/portal_body.tpl#L18), [`39`](../src/punbb/portal_body.tpl#L39)
@@ -84,7 +84,12 @@
 * __[`<!-- END simple_header -->`](https://github.com/Etana/template/blob/master/var/simple_header.md#readme) :__ lignes [`10`](../src/punbb/portal_body.tpl#L10), [`49`](../src/punbb/portal_body.tpl#L49)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/portal_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme) :__ ligne [`14`](../src/subsilver/portal_body.tpl#L14)
 * __[`{C2SIZE}`](https://github.com/Etana/template/blob/master/var/C2SIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/C2SIZE">*</a> :__ ligne [`21`](../src/subsilver/portal_body.tpl#L21)

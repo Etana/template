@@ -1,29 +1,29 @@
 # Template birthday_list_box [4/61]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=401) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=401) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=401) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=401) > [`birthday_list_box`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=401)
-
-## Code source
-* [__phpBB2__](../src/subsilver/birthday_list_box.tpl#files)
-* [__PunBB__](../src/punbb/birthday_list_box.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/birthday_list_box)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
     * [`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)
     * [`<!-- BEGIN birthday_list_box -->...<!-- END birthday_list_box -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/birthday_list_box.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`46`](../src/punbb/birthday_list_box.tpl#L46)
 * __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`45`](../src/punbb/birthday_list_box.tpl#L45)
@@ -65,7 +65,12 @@
 * __[`<!-- END birthday_list_box -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.md#readme) :__ ligne [`48`](../src/punbb/birthday_list_box.tpl#L48)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/birthday_list_box.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme) :__ ligne [`54`](../src/subsilver/birthday_list_box.tpl#L54)
 * __[`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme) :__ ligne [`53`](../src/subsilver/birthday_list_box.tpl#L53)

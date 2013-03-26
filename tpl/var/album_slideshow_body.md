@@ -1,24 +1,19 @@
 # Template album_slideshow_body [0/29]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=212) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=212) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=212) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=212) > [`album_slideshow_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=212)
-
-## Code source
-* [__phpBB2__](../src/subsilver/album_slideshow_body.tpl#files)
-* [__PunBB__](../src/punbb/album_slideshow_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_slideshow_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{DES_LIST}`](https://github.com/Etana/template/blob/master/var/DES_LIST.md#readme)
     * [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
     * [`{L_SLIDESHOW_ONOFF}`](https://github.com/Etana/template/blob/master/var/L_SLIDESHOW_ONOFF.md#readme)
@@ -35,7 +30,12 @@
     * [`<!-- BEGIN switch_slideshow -->...<!-- END switch_slideshow -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow.md#readme)
     * [`<!-- BEGIN switch_slideshow_scripts -->...<!-- END switch_slideshow_scripts -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow_scripts.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/album_slideshow_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{DES_LIST}`](https://github.com/Etana/template/blob/master/var/DES_LIST.md#readme)<a href="https://fa-tvars.appspot.com/var/DES_LIST">*</a> :__ ligne [`30`](../src/punbb/album_slideshow_body.tpl#L30)
 * __[`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MENU">*</a> :__ ligne [`4`](../src/punbb/album_slideshow_body.tpl#L4)
@@ -55,7 +55,12 @@
 * __[`<!-- END switch_slideshow_scripts -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow_scripts.md#readme) :__ ligne [`384`](../src/punbb/album_slideshow_body.tpl#L384)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/album_slideshow_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{DES_LIST}`](https://github.com/Etana/template/blob/master/var/DES_LIST.md#readme)<a href="https://fa-tvars.appspot.com/var/DES_LIST">*</a> :__ ligne [`29`](../src/subsilver/album_slideshow_body.tpl#L29)
 * __[`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MENU">*</a> :__ ligne [`4`](../src/subsilver/album_slideshow_body.tpl#L4)

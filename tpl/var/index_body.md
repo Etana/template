@@ -1,17 +1,12 @@
 # Template index_body [122/151]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=110) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=110) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=110) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=110) > [`index_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=110)
-
-## Code source
-* [__phpBB2__](../src/subsilver/index_body.tpl#files)
-* [__PunBB__](../src/punbb/index_body.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/index_body)
 `Page d'accueil`.
@@ -20,7 +15,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme)
     * [`{AUTO_DST}`](https://github.com/Etana/template/blob/master/var/AUTO_DST.md#readme)
     * [`{BOARD_INDEX}`](https://github.com/Etana/template/blob/master/var/BOARD_INDEX.md#readme)
@@ -69,7 +64,12 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
     * [`<!-- BEGIN switch_user_login_form_footer -->...<!-- END switch_user_login_form_footer -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.md#readme)
     * [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_user_login_form_header -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/index_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme) :__ lignes [`41`](../src/punbb/index_body.tpl#L41), [`110`](../src/punbb/index_body.tpl#L110)
 * __[`{AUTO_DST}`](https://github.com/Etana/template/blob/master/var/AUTO_DST.md#readme) :__ ligne [`132`](../src/punbb/index_body.tpl#L132)
@@ -163,7 +163,12 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 * __[`<!-- END switch_user_login_form_header -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.md#readme) :__ ligne [`50`](../src/punbb/index_body.tpl#L50)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/index_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme) :__ lignes [`30`](../src/subsilver/index_body.tpl#L30), [`58`](../src/subsilver/index_body.tpl#L58), [`121`](../src/subsilver/index_body.tpl#L121), [`149`](../src/subsilver/index_body.tpl#L149)
 * __[`{AUTO_DST}`](https://github.com/Etana/template/blob/master/var/AUTO_DST.md#readme) :__ ligne [`240`](../src/subsilver/index_body.tpl#L240)

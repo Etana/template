@@ -1,17 +1,12 @@
 # Template agreement [27/31]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=101) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=101) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=101) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=101) > [`agreement`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=101)
-
-## Code source
-* [__phpBB2__](../src/subsilver/agreement.tpl#files)
-* [__PunBB__](../src/punbb/agreement.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/agreement)
 `Affichage des conditions d'inscription à votre forum`.
@@ -20,7 +15,7 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme)
     * [`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme)
     * [`{DO_NOT_AGREE}`](https://github.com/Etana/template/blob/master/var/DO_NOT_AGREE.md#readme)
@@ -33,7 +28,12 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
     * [`{U_AGREE_OVER13}`](https://github.com/Etana/template/blob/master/var/U_AGREE_OVER13.md#readme)
     * [`<!-- BEGIN switch_fb_explain -->...<!-- END switch_fb_explain -->`](https://github.com/Etana/template/blob/master/var/switch_fb_explain.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/agreement.tpl#files)
+
+### Positions des variables 
 
 * __[`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme) :__ ligne [`29`](../src/punbb/agreement.tpl#L29)
 * __[`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme) :__ ligne [`35`](../src/punbb/agreement.tpl#L35)
@@ -60,7 +60,12 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/agreement.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/agreement.tpl#files)
+
+### Positions des variables 
 
 * __[`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme) :__ ligne [`28`](../src/subsilver/agreement.tpl#L28)
 * __[`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme) :__ ligne [`32`](../src/subsilver/agreement.tpl#L32)

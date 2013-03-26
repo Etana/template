@@ -1,24 +1,19 @@
 # Template profile_add_body [26/368]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=701) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=701) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=701) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=701) > [`profile_add_body`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=701)
-
-## Code source
-* [__phpBB2__](../src/subsilver/profile_add_body.tpl#files)
-* [__PunBB__](../src/punbb/profile_add_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_add_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ALLOW_MASS_PM_CHECKED}`](https://github.com/Etana/template/blob/master/var/ALLOW_MASS_PM_CHECKED.md#readme)
     * [`{ALLOW_MASS_PM_NOTIFY_CHECKED}`](https://github.com/Etana/template/blob/master/var/ALLOW_MASS_PM_NOTIFY_CHECKED.md#readme)
     * [`{ALWAYS_ADD_SIGNATURE_NO}`](https://github.com/Etana/template/blob/master/var/ALWAYS_ADD_SIGNATURE_NO.md#readme)
@@ -168,7 +163,12 @@
     * [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](https://github.com/Etana/template/blob/master/var/switch_informations_menu.md#readme)
     * [`<!-- BEGIN switch_preferences_menu -->...<!-- END switch_preferences_menu -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/profile_add_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ALLOW_MASS_PM_CHECKED}`](https://github.com/Etana/template/blob/master/var/ALLOW_MASS_PM_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/ALLOW_MASS_PM_CHECKED">*</a> :__ ligne [`258`](../src/punbb/profile_add_body.tpl#L258)
 * __[`{ALLOW_MASS_PM_NOTIFY_CHECKED}`](https://github.com/Etana/template/blob/master/var/ALLOW_MASS_PM_NOTIFY_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/ALLOW_MASS_PM_NOTIFY_CHECKED">*</a> :__ ligne [`257`](../src/punbb/profile_add_body.tpl#L257)
@@ -412,7 +412,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`15`](../src/punbb/profile_add_body.tpl#L15)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/profile_add_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ALLOW_MASS_PM_CHECKED}`](https://github.com/Etana/template/blob/master/var/ALLOW_MASS_PM_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/ALLOW_MASS_PM_CHECKED">*</a> :__ ligne [`211`](../src/subsilver/profile_add_body.tpl#L211)
 * __[`{ALLOW_MASS_PM_NOTIFY_CHECKED}`](https://github.com/Etana/template/blob/master/var/ALLOW_MASS_PM_NOTIFY_CHECKED.md#readme)<a href="https://fa-tvars.appspot.com/var/ALLOW_MASS_PM_NOTIFY_CHECKED">*</a> :__ ligne [`210`](../src/subsilver/profile_add_body.tpl#L210)

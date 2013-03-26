@@ -1,24 +1,19 @@
 # Template groupcp_info_body [140/146]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=801) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=801) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=801) > [`Templates | Groupes`](http://votre-forum.appspot.com/admin/?mode=group&part=themes&sub=templates#?mode=edit_group&part=themes&sub=templates&t=801) > [`groupcp_info_body`](http://votre-forum.appspot.com/admin/?mode=edit_group&part=themes&sub=templates&t=801)
 
-## Code source
-* [__phpBB2__](../src/subsilver/groupcp_info_body.tpl#files)
-* [__PunBB__](../src/punbb/groupcp_info_body.tpl#files)
-
 ## Description[*](https://fa-tvars.appspot.com/tpl/groupcp_info_body)
-Affichage des informations d'un groupe.
+Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/GROUP_DESC.md#readme)
     * [`{GROUP_DETAILS}`](https://github.com/Etana/template/blob/master/var/GROUP_DETAILS.md#readme)
     * [`{GROUP_NAME}`](https://github.com/Etana/template/blob/master/var/GROUP_NAME.md#readme)
@@ -113,7 +108,12 @@ Affichage des informations d'un groupe.
     * [`<!-- BEGIN switch_subscribe_group_input -->...<!-- END switch_subscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_subscribe_group_input.md#readme)
     * [`<!-- BEGIN switch_unsubscribe_group_input -->...<!-- END switch_unsubscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_unsubscribe_group_input.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/groupcp_info_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/GROUP_DESC.md#readme) :__ ligne [`40`](../src/punbb/groupcp_info_body.tpl#L40)
 * __[`{GROUP_DETAILS}`](https://github.com/Etana/template/blob/master/var/GROUP_DETAILS.md#readme) :__ ligne [`44`](../src/punbb/groupcp_info_body.tpl#L44)
@@ -205,7 +205,12 @@ Affichage des informations d'un groupe.
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/groupcp_info_body.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/groupcp_info_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/GROUP_DESC.md#readme) :__ ligne [`12`](../src/subsilver/groupcp_info_body.tpl#L12)
 * __[`{GROUP_DETAILS}`](https://github.com/Etana/template/blob/master/var/GROUP_DETAILS.md#readme) :__ ligne [`17`](../src/subsilver/groupcp_info_body.tpl#L17)

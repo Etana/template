@@ -1,17 +1,12 @@
 # Template donate [46/123]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=105) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=105) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=105) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=105) > [`donate`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=105)
-
-## Code source
-* [__phpBB2__](../src/subsilver/donate.tpl#files)
-* [__PunBB__](../src/punbb/donate.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/donate)
 `Contribution`.
@@ -22,7 +17,7 @@ Ce template touche la partie contribution de votre forum : `/donate`.
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ALLOPASS_FLAGS}`](https://github.com/Etana/template/blob/master/var/ALLOPASS_FLAGS.md#readme)
     * [`{CURRENCY}`](https://github.com/Etana/template/blob/master/var/CURRENCY.md#readme)
     * [`{DONATE_TEXT}`](https://github.com/Etana/template/blob/master/var/DONATE_TEXT.md#readme)
@@ -64,7 +59,12 @@ Ce template touche la partie contribution de votre forum : `/donate`.
     * [`<!-- BEGIN paypal_confirm -->...<!-- END paypal_confirm -->`](https://github.com/Etana/template/blob/master/var/paypal_confirm.md#readme)
     * [`<!-- BEGIN phonecall_method -->...<!-- END phonecall_method -->`](https://github.com/Etana/template/blob/master/var/phonecall_method.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/donate.tpl#files)
+
+### Positions des variables 
 
 * __[`{ALLOPASS_FLAGS}`](https://github.com/Etana/template/blob/master/var/ALLOPASS_FLAGS.md#readme)<a href="https://fa-tvars.appspot.com/var/ALLOPASS_FLAGS">*</a> :__ ligne [`69`](../src/punbb/donate.tpl#L69)
 * __[`{CURRENCY}`](https://github.com/Etana/template/blob/master/var/CURRENCY.md#readme)<a href="https://fa-tvars.appspot.com/var/CURRENCY">*</a> :__ lignes [`139`](../src/punbb/donate.tpl#L139), [`149`](../src/punbb/donate.tpl#L149)
@@ -148,7 +148,12 @@ Ce template touche la partie contribution de votre forum : `/donate`.
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`15`](../src/punbb/donate.tpl#L15)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/donate.tpl#files)
+
+### Positions des variables 
 
 * __[`{ALLOPASS_FLAGS}`](https://github.com/Etana/template/blob/master/var/ALLOPASS_FLAGS.md#readme)<a href="https://fa-tvars.appspot.com/var/ALLOPASS_FLAGS">*</a> :__ ligne [`93`](../src/subsilver/donate.tpl#L93)
 * __[`{CURRENCY}`](https://github.com/Etana/template/blob/master/var/CURRENCY.md#readme)<a href="https://fa-tvars.appspot.com/var/CURRENCY">*</a> :__ lignes [`166`](../src/subsilver/donate.tpl#L166), [`176`](../src/subsilver/donate.tpl#L176)

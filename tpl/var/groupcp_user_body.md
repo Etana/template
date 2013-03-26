@@ -1,24 +1,19 @@
 # Template groupcp_user_body [18/48]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=803) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=803) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=803) > [`Templates | Groupes`](http://votre-forum.appspot.com/admin/?mode=group&part=themes&sub=templates#?mode=edit_group&part=themes&sub=templates&t=803) > [`groupcp_user_body`](http://votre-forum.appspot.com/admin/?mode=edit_group&part=themes&sub=templates&t=803)
-
-## Code source
-* [__phpBB2__](../src/subsilver/groupcp_user_body.tpl#files)
-* [__PunBB__](../src/punbb/groupcp_user_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/groupcp_user_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{GROUP_LIST_SELECT}`](https://github.com/Etana/template/blob/master/var/GROUP_LIST_SELECT.md#readme)
     * [`{GROUP_MEMBER_ROWSPAN}`](https://github.com/Etana/template/blob/master/var/GROUP_MEMBER_ROWSPAN.md#readme)
     * [`{GROUP_MEMBER_SELECT}`](https://github.com/Etana/template/blob/master/var/GROUP_MEMBER_SELECT.md#readme)
@@ -44,7 +39,12 @@
     * [`<!-- BEGIN switch_groups_joined -->...<!-- END switch_groups_joined -->`](https://github.com/Etana/template/blob/master/var/switch_groups_joined.md#readme)
     * [`<!-- BEGIN switch_groups_remaining -->...<!-- END switch_groups_remaining -->`](https://github.com/Etana/template/blob/master/var/switch_groups_remaining.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/groupcp_user_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{GROUP_LIST_SELECT}`](https://github.com/Etana/template/blob/master/var/GROUP_LIST_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/GROUP_LIST_SELECT">*</a> :__ ligne [`65`](../src/punbb/groupcp_user_body.tpl#L65)
 * __[`{GROUP_MEMBER_SELECT_NEW}`](https://github.com/Etana/template/blob/master/var/GROUP_MEMBER_SELECT_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/GROUP_MEMBER_SELECT_NEW">*</a> :__ ligne [`33`](../src/punbb/groupcp_user_body.tpl#L33)
@@ -83,7 +83,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/groupcp_user_body.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/groupcp_user_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{GROUP_LIST_SELECT}`](https://github.com/Etana/template/blob/master/var/GROUP_LIST_SELECT.md#readme)<a href="https://fa-tvars.appspot.com/var/GROUP_LIST_SELECT">*</a> :__ ligne [`33`](../src/subsilver/groupcp_user_body.tpl#L33)
 * __[`{GROUP_MEMBER_ROWSPAN}`](https://github.com/Etana/template/blob/master/var/GROUP_MEMBER_ROWSPAN.md#readme)<a href="https://fa-tvars.appspot.com/var/GROUP_MEMBER_ROWSPAN">*</a> :__ ligne [`8`](../src/subsilver/groupcp_user_body.tpl#L8)

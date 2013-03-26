@@ -1,31 +1,31 @@
 # Template simple_header
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=123) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=123) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=123) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=123) > [`simple_header`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=123)
-
-## Code source
-* [__phpBB2__](../src/subsilver/simple_header.tpl#files)
-* [__PunBB__](../src/punbb/simple_header.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/simple_header)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
     * [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
     * [`{L_LANG_HTML}`](https://github.com/Etana/template/blob/master/var/L_LANG_HTML.md#readme)
     * [`{META}`](https://github.com/Etana/template/blob/master/var/META.md#readme)
     * [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/simple_header.tpl#files)
+
+### Positions des variables 
 
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`11`](../src/punbb/simple_header.tpl#L11)
 * __[`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme) :__ ligne [`11`](../src/punbb/simple_header.tpl#L11)
@@ -38,7 +38,12 @@
 * __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`9`](../src/punbb/simple_header.tpl#L9)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/simple_header.tpl#files)
+
+### Positions des variables 
 
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`11`](../src/subsilver/simple_header.tpl#L11)
 * __[`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme) :__ ligne [`11`](../src/subsilver/simple_header.tpl#L11)

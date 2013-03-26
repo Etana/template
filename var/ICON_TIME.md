@@ -17,7 +17,7 @@ Contient l'image de la petite horloge définie dans `PA > Affichage > Images et 
 
 ### Version phpBB2
 * __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ ligne [`12`](../tpl/src/subsilver/mod_recent_topics.tpl#L12)
-* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`23`](../tpl/src/subsilver/search_results_posts.tpl#L23)
 * __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`21`](../tpl/src/subsilver/posting_topic_review.tpl#L21)
 * __[`mod_news`](../tpl/var/mod_news.md#readme) :__ ligne [`14`](../tpl/src/subsilver/mod_news.tpl#L14)
+* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`23`](../tpl/src/subsilver/search_results_posts.tpl#L23)
 * __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ ligne [`20`](../tpl/src/subsilver/privmsg_topic_review.tpl#L20)

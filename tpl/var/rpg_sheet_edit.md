@@ -1,24 +1,19 @@
 # Template rpg_sheet_edit [13/49]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=711) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=711) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=711) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=711) > [`rpg_sheet_edit`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=711)
-
-## Code source
-* [__phpBB2__](../src/subsilver/rpg_sheet_edit.tpl#files)
-* [__PunBB__](../src/punbb/rpg_sheet_edit.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/rpg_sheet_edit)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{AVATAR_URL}`](https://github.com/Etana/template/blob/master/var/AVATAR_URL.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_AVATAR_ERROR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR_ERROR.md#readme)
@@ -39,7 +34,12 @@
     * [`<!-- BEGIN rpg_fields_left -->...<!-- END rpg_fields_left -->`](https://github.com/Etana/template/blob/master/var/rpg_fields_left.md#readme)
     * [`<!-- BEGIN switch_menu -->...<!-- END switch_menu -->`](https://github.com/Etana/template/blob/master/var/switch_menu.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/rpg_sheet_edit.tpl#files)
+
+### Positions des variables 
 
 * __[`{AVATAR_URL}`](https://github.com/Etana/template/blob/master/var/AVATAR_URL.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR_URL">*</a> :__ ligne [`34`](../src/punbb/rpg_sheet_edit.tpl#L34)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/rpg_sheet_edit.tpl#L7)
@@ -75,7 +75,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/rpg_sheet_edit.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/rpg_sheet_edit.tpl#files)
+
+### Positions des variables 
 
 * __[`{AVATAR_URL}`](https://github.com/Etana/template/blob/master/var/AVATAR_URL.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR_URL">*</a> :__ ligne [`20`](../src/subsilver/rpg_sheet_edit.tpl#L20)
 * __[`{L_AVATAR_ERROR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR_ERROR.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AVATAR_ERROR">*</a> :__ ligne [`21`](../src/subsilver/rpg_sheet_edit.tpl#L21)

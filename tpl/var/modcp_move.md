@@ -1,24 +1,19 @@
 # Template modcp_move [26/36]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=604) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=604) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=604) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=604) > [`modcp_move`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=604)
-
-## Code source
-* [__phpBB2__](../src/subsilver/modcp_move.tpl#files)
-* [__PunBB__](../src/punbb/modcp_move.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_move)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_LEAVESHADOW}`](https://github.com/Etana/template/blob/master/var/L_LEAVESHADOW.md#readme)
     * [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
@@ -34,7 +29,12 @@
     * [`{S_MODCP_ACTION}`](https://github.com/Etana/template/blob/master/var/S_MODCP_ACTION.md#readme)
     * [`<!-- BEGIN switch_leave_shadow -->...<!-- END switch_leave_shadow -->`](https://github.com/Etana/template/blob/master/var/switch_leave_shadow.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/modcp_move.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/modcp_move.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/modcp_move.tpl#L7)
@@ -64,7 +64,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/modcp_move.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/modcp_move.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`4`](../src/subsilver/modcp_move.tpl#L4)
 * __[`{L_LEAVESHADOW}`](https://github.com/Etana/template/blob/master/var/L_LEAVESHADOW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LEAVESHADOW">*</a> :__ ligne [`22`](../src/subsilver/modcp_move.tpl#L22)

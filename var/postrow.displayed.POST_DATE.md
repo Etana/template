@@ -20,5 +20,5 @@
 * __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`14`](../tpl/src/punbb/posting_topic_review.tpl#L14)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`138`](../tpl/src/subsilver/viewtopic_body.tpl#L138)
 * __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`21`](../tpl/src/subsilver/posting_topic_review.tpl#L21)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`138`](../tpl/src/subsilver/viewtopic_body.tpl#L138)

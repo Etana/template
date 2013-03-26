@@ -1,17 +1,12 @@
 # Template viewonline_body [29/69]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=126) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=126) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=126) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=126) > [`viewonline_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=126)
-
-## Code source
-* [__phpBB2__](../src/subsilver/viewonline_body.tpl#files)
-* [__PunBB__](../src/punbb/viewonline_body.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/viewonline_body)
 `Visualisation de qui est en ligne`.
@@ -20,7 +15,7 @@ Ce template affiche la page `/viewonline`
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCATION.md#readme)
@@ -37,7 +32,12 @@ Ce template affiche la page `/viewonline`
     * [`<!-- BEGIN guest_user_row -->...<!-- END guest_user_row -->`](https://github.com/Etana/template/blob/master/var/guest_user_row.md#readme)
     * [`<!-- BEGIN reg_user_row -->...<!-- END reg_user_row -->`](https://github.com/Etana/template/blob/master/var/reg_user_row.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/viewonline_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`18`](../src/punbb/viewonline_body.tpl#L18)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`18`](../src/punbb/viewonline_body.tpl#L18)
@@ -85,7 +85,12 @@ Ce template affiche la page `/viewonline`
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`25`](../src/punbb/viewonline_body.tpl#L25)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/viewonline_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`60`](../src/subsilver/viewonline_body.tpl#L60)
 * __[`{L_FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCATION.md#readme) :__ ligne [`18`](../src/subsilver/viewonline_body.tpl#L18)

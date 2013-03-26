@@ -1,24 +1,19 @@
 # Template profile_send_pass [19/34]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=706) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=706) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=706) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=706) > [`profile_send_pass`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=706)
-
-## Code source
-* [__phpBB2__](../src/subsilver/profile_send_pass.tpl#files)
-* [__PunBB__](../src/punbb/profile_send_pass.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_send_pass)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{EMAIL}`](https://github.com/Etana/template/blob/master/var/EMAIL.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_EMAIL_ADDRESS}`](https://github.com/Etana/template/blob/master/var/L_EMAIL_ADDRESS.md#readme)
@@ -33,7 +28,12 @@
     * [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
     * [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/profile_send_pass.tpl#files)
+
+### Positions des variables 
 
 * __[`{EMAIL}`](https://github.com/Etana/template/blob/master/var/EMAIL.md#readme)<a href="https://fa-tvars.appspot.com/var/EMAIL">*</a> :__ ligne [`36`](../src/punbb/profile_send_pass.tpl#L36)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/profile_send_pass.tpl#L7)
@@ -61,7 +61,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/profile_send_pass.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/profile_send_pass.tpl#files)
+
+### Positions des variables 
 
 * __[`{EMAIL}`](https://github.com/Etana/template/blob/master/var/EMAIL.md#readme)<a href="https://fa-tvars.appspot.com/var/EMAIL">*</a> :__ ligne [`20`](../src/subsilver/profile_send_pass.tpl#L20)
 * __[`{L_EMAIL_ADDRESS}`](https://github.com/Etana/template/blob/master/var/L_EMAIL_ADDRESS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_EMAIL_ADDRESS">*</a> :__ ligne [`19`](../src/subsilver/profile_send_pass.tpl#L19)

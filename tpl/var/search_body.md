@@ -1,17 +1,12 @@
 # Template search_body [69/85]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=118) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=118) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=118) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=118) > [`search_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=118)
-
-## Code source
-* [__phpBB2__](../src/subsilver/search_body.tpl#files)
-* [__PunBB__](../src/punbb/search_body.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/search_body)
 `Page de recherche`.
@@ -20,7 +15,7 @@ Ce template affiche la page de recherche de votre forum : `/search`
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{GOOGLE_CODE}`](https://github.com/Etana/template/blob/master/var/GOOGLE_CODE.md#readme)
     * [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
@@ -62,7 +57,12 @@ Ce template affiche la page de recherche de votre forum : `/search`
     * [`{T_VISITED_LINK}`](https://github.com/Etana/template/blob/master/var/T_VISITED_LINK.md#readme)
     * [`{U_GOOGLERESULTS}`](https://github.com/Etana/template/blob/master/var/U_GOOGLERESULTS.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/search_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{GOOGLE_CODE}`](https://github.com/Etana/template/blob/master/var/GOOGLE_CODE.md#readme)<a href="https://fa-tvars.appspot.com/var/GOOGLE_CODE">*</a> :__ ligne [`38`](../src/punbb/search_body.tpl#L38)
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`1`](../src/punbb/search_body.tpl#L1)
@@ -114,7 +114,12 @@ Ce template affiche la page de recherche de votre forum : `/search`
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`15`](../src/punbb/search_body.tpl#L15)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/search_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{GOOGLE_CODE}`](https://github.com/Etana/template/blob/master/var/GOOGLE_CODE.md#readme)<a href="https://fa-tvars.appspot.com/var/GOOGLE_CODE">*</a> :__ ligne [`15`](../src/subsilver/search_body.tpl#L15)
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`1`](../src/subsilver/search_body.tpl#L1)

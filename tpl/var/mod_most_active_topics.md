@@ -1,28 +1,28 @@
 # Template mod_most_active_topics [0/12]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=917) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=917) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=917) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=917) > [`mod_most_active_topics`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=917)
-
-## Code source
-* [__phpBB2__](../src/subsilver/mod_most_active_topics.tpl#files)
-* [__PunBB__](../src/punbb/mod_most_active_topics.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_most_active_topics)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{L_MOST_ACTIVE_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_MOST_ACTIVE_TOPICS.md#readme)
     * [`<!-- BEGIN TOPIC -->...<!-- END TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/mod_most_active_topics.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_MOST_ACTIVE_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_MOST_ACTIVE_TOPICS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOST_ACTIVE_TOPICS">*</a> :__ lignes [`2`](../src/punbb/mod_most_active_topics.tpl#L2), [`4`](../src/punbb/mod_most_active_topics.tpl#L4)
 * __[`<!-- BEGIN TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme)<a href="https://fa-tvars.appspot.com/var/TOPIC">*</a> :__ ligne [`5`](../src/punbb/mod_most_active_topics.tpl#L5)
@@ -33,7 +33,12 @@
 * __[`<!-- END TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme) :__ ligne [`9`](../src/punbb/mod_most_active_topics.tpl#L9)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/mod_most_active_topics.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_MOST_ACTIVE_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_MOST_ACTIVE_TOPICS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOST_ACTIVE_TOPICS">*</a> :__ lignes [`3`](../src/subsilver/mod_most_active_topics.tpl#L3), [`7`](../src/subsilver/mod_most_active_topics.tpl#L7)
 * __[`<!-- BEGIN TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme)<a href="https://fa-tvars.appspot.com/var/TOPIC">*</a> :__ ligne [`8`](../src/subsilver/mod_most_active_topics.tpl#L8)

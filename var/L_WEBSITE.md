@@ -17,8 +17,8 @@ Chaîne de texte.
 
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`11`](../tpl/src/punbb/groupcp_pending_info.tpl#L11)
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`70`](../tpl/src/punbb/profile_add_body.tpl#L70)
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`72`](../tpl/src/punbb/memberlist_body.tpl#L72)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`70`](../tpl/src/punbb/profile_add_body.tpl#L70)
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`83`](../tpl/src/punbb/groupcp_info_body.tpl#L83)
 
 ### Version phpBB2

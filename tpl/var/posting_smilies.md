@@ -1,24 +1,19 @@
 # Template posting_smilies [2/26]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=506) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=506) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=506) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=506) > [`posting_smilies`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=506)
-
-## Code source
-* [__phpBB2__](../src/subsilver/posting_smilies.tpl#files)
-* [__PunBB__](../src/punbb/posting_smilies.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
     * [`{L_EMOTICONS}`](https://github.com/Etana/template/blob/master/var/L_EMOTICONS.md#readme)
     * [`{L_MORE_SMILIES}`](https://github.com/Etana/template/blob/master/var/L_MORE_SMILIES.md#readme)
@@ -29,7 +24,12 @@
     * [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
     * [`<!-- BEGIN switch_smilies_extra -->...<!-- END switch_smilies_extra -->`](https://github.com/Etana/template/blob/master/var/switch_smilies_extra.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/posting_smilies.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme) :__ ligne [`31`](../src/punbb/posting_smilies.tpl#L31)
 * __[`{L_EMOTICONS}`](https://github.com/Etana/template/blob/master/var/L_EMOTICONS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_EMOTICONS">*</a> :__ ligne [`8`](../src/punbb/posting_smilies.tpl#L8)
@@ -49,7 +49,12 @@
 * __[`<!-- END switch_smilies_extra -->`](https://github.com/Etana/template/blob/master/var/switch_smilies_extra.md#readme) :__ ligne [`25`](../src/punbb/posting_smilies.tpl#L25)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/posting_smilies.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme) :__ ligne [`35`](../src/subsilver/posting_smilies.tpl#L35)
 * __[`{L_EMOTICONS}`](https://github.com/Etana/template/blob/master/var/L_EMOTICONS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_EMOTICONS">*</a> :__ ligne [`8`](../src/subsilver/posting_smilies.tpl#L8)

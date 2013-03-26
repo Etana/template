@@ -13,9 +13,9 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme) :__ ligne [`42`](../tpl/src/punbb/profile_edit_signature.tpl#L42)
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`456`](../tpl/src/punbb/posting_body.tpl#L456)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`467`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L467)
+* __[`profile_edit_signature`](../tpl/var/profile_edit_signature.md#readme) :__ ligne [`42`](../tpl/src/punbb/profile_edit_signature.tpl#L42)
 
 ### Version phpBB2
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`767`](../tpl/src/subsilver/posting_body.tpl#L767)

@@ -1,24 +1,19 @@
 # Template profile_view_body [19/139]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=708) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=708) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=708) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=708) > [`profile_view_body`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=708)
-
-## Code source
-* [__phpBB2__](../src/subsilver/profile_view_body.tpl#files)
-* [__PunBB__](../src/punbb/profile_view_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_view_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ADMINISTRATE_USER}`](https://github.com/Etana/template/blob/master/var/ADMINISTRATE_USER.md#readme)
     * [`{ADMIN_USER_COMMENT}`](https://github.com/Etana/template/blob/master/var/ADMIN_USER_COMMENT.md#readme)
     * [`{AJAX_EDIT_IMG}`](https://github.com/Etana/template/blob/master/var/AJAX_EDIT_IMG.md#readme)
@@ -77,7 +72,12 @@
     * [`<!-- BEGIN switch_rpg -->...<!-- END switch_rpg -->`](https://github.com/Etana/template/blob/master/var/switch_rpg.md#readme)
     * [`<!-- BEGIN switch_show_status -->...<!-- END switch_show_status -->`](https://github.com/Etana/template/blob/master/var/switch_show_status.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/profile_view_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADMINISTRATE_USER}`](https://github.com/Etana/template/blob/master/var/ADMINISTRATE_USER.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMINISTRATE_USER">*</a> :__ ligne [`39`](../src/punbb/profile_view_body.tpl#L39)
 * __[`{ADMIN_USER_COMMENT}`](https://github.com/Etana/template/blob/master/var/ADMIN_USER_COMMENT.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMIN_USER_COMMENT">*</a> :__ ligne [`64`](../src/punbb/profile_view_body.tpl#L64)
@@ -168,7 +168,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/profile_view_body.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/profile_view_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADMINISTRATE_USER}`](https://github.com/Etana/template/blob/master/var/ADMINISTRATE_USER.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMINISTRATE_USER">*</a> :__ ligne [`41`](../src/subsilver/profile_view_body.tpl#L41)
 * __[`{ADMIN_USER_COMMENT}`](https://github.com/Etana/template/blob/master/var/ADMIN_USER_COMMENT.md#readme)<a href="https://fa-tvars.appspot.com/var/ADMIN_USER_COMMENT">*</a> :__ ligne [`91`](../src/subsilver/profile_view_body.tpl#L91)

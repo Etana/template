@@ -1,24 +1,19 @@
 # Template privmsg_topic_review [3/24]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=510) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=510) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=510) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=510) > [`privmsg_topic_review`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=510)
-
-## Code source
-* [__phpBB2__](../src/subsilver/privmsg_topic_review.tpl#files)
-* [__PunBB__](../src/punbb/privmsg_topic_review.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsg_topic_review)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
     * [`{L_ATTACH_SIGNATURE}`](https://github.com/Etana/template/blob/master/var/L_ATTACH_SIGNATURE.md#readme)
     * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
@@ -28,7 +23,12 @@
     * [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
     * [`<!-- BEGIN switch_inline_mode -->...<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/privmsg_topic_review.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_ATTACH_SIGNATURE}`](https://github.com/Etana/template/blob/master/var/L_ATTACH_SIGNATURE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ATTACH_SIGNATURE">*</a> :__ ligne [`43`](../src/punbb/privmsg_topic_review.tpl#L43)
 * __[`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW">*</a> :__ ligne [`4`](../src/punbb/privmsg_topic_review.tpl#L4)
@@ -43,7 +43,12 @@
 * __[`<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme) :__ ligne [`6`](../src/punbb/privmsg_topic_review.tpl#L6)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/privmsg_topic_review.tpl#files)
+
+### Positions des variables 
 
 * __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
 * __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`11`](../src/subsilver/privmsg_topic_review.tpl#L11)

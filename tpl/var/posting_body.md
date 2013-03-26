@@ -1,24 +1,19 @@
 # Template posting_body [41/533]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=501) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=501) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=501) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=501) > [`posting_body`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=501)
-
-## Code source
-* [__phpBB2__](../src/subsilver/posting_body.tpl#files)
-* [__PunBB__](../src/punbb/posting_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ADD_USERNAME_IMG}`](https://github.com/Etana/template/blob/master/var/ADD_USERNAME_IMG.md#readme)
     * [`{ATTACHMENT_CLOSE}`](https://github.com/Etana/template/blob/master/var/ATTACHMENT_CLOSE.md#readme)
     * [`{ATTACHMENT_OPEN}`](https://github.com/Etana/template/blob/master/var/ATTACHMENT_OPEN.md#readme)
@@ -247,7 +242,12 @@
     * [`<!-- BEGIN switch_upload_servimg -->...<!-- END switch_upload_servimg -->`](https://github.com/Etana/template/blob/master/var/switch_upload_servimg.md#readme)
     * [`<!-- BEGIN switch_username_select -->...<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/posting_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADD_USERNAME_IMG}`](https://github.com/Etana/template/blob/master/var/ADD_USERNAME_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_USERNAME_IMG">*</a> :__ ligne [`91`](../src/punbb/posting_body.tpl#L91)
 * __[`{BBCODE_STATUS}`](https://github.com/Etana/template/blob/master/var/BBCODE_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/BBCODE_STATUS">*</a> :__ ligne [`456`](../src/punbb/posting_body.tpl#L456)
@@ -557,7 +557,12 @@
 * __[`<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme) :__ ligne [`74`](../src/punbb/posting_body.tpl#L74)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/posting_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADD_USERNAME_IMG}`](https://github.com/Etana/template/blob/master/var/ADD_USERNAME_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_USERNAME_IMG">*</a> :__ ligne [`107`](../src/subsilver/posting_body.tpl#L107)
 * __[`{ATTACHMENT_CLOSE}`](https://github.com/Etana/template/blob/master/var/ATTACHMENT_CLOSE.md#readme)<a href="https://fa-tvars.appspot.com/var/ATTACHMENT_CLOSE">*</a> :__ ligne [`658`](../src/subsilver/posting_body.tpl#L658)

@@ -1,30 +1,30 @@
 # Template mod_whoisonline [10/14]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=907) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=907) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=907) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=907) > [`mod_whoisonline`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=907)
-
-## Code source
-* [__phpBB2__](../src/subsilver/mod_whoisonline.tpl#files)
-* [__PunBB__](../src/punbb/mod_whoisonline.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_whoisonline)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme)
     * [`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)
     * [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)
     * [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/mod_whoisonline.tpl#files)
+
+### Positions des variables 
 
 * __[`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme) :__ ligne [`5`](../src/punbb/mod_whoisonline.tpl#L5)
 * __[`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEW_COMPLETE_LIST">*</a> :__ ligne [`7`](../src/punbb/mod_whoisonline.tpl#L7)
@@ -36,7 +36,12 @@
 * __[`<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme) :__ ligne [`9`](../src/punbb/mod_whoisonline.tpl#L9)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/mod_whoisonline.tpl#files)
+
+### Positions des variables 
 
 * __[`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme) :__ ligne [`11`](../src/subsilver/mod_whoisonline.tpl#L11)
 * __[`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEW_COMPLETE_LIST">*</a> :__ ligne [`15`](../src/subsilver/mod_whoisonline.tpl#L15)

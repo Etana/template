@@ -1,24 +1,19 @@
 # Template overall_footer_begin
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=115) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=115) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=115) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=115) > [`overall_footer_begin`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=115)
-
-## Code source
-* [__phpBB2__](../src/subsilver/overall_footer_begin.tpl#files)
-* [__PunBB__](../src/punbb/overall_footer_begin.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_begin)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme)
     * [`{ID_RIGHT}`](https://github.com/Etana/template/blob/master/var/ID_RIGHT.md#readme)
     * [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)
@@ -29,7 +24,12 @@
     * [`<!-- BEGIN giefmod_index2 -->...<!-- END giefmod_index2 -->`](https://github.com/Etana/template/blob/master/var/giefmod_index2.md#readme)
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/overall_footer_begin.tpl#files)
+
+### Positions des variables 
 
 * __[`{ID_RIGHT}`](https://github.com/Etana/template/blob/master/var/ID_RIGHT.md#readme) :__ ligne [`16`](../src/punbb/overall_footer_begin.tpl#L16)
 * __[`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme) :__ ligne [`32`](../src/punbb/overall_footer_begin.tpl#L32)
@@ -46,7 +46,12 @@
 * __[`<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme) :__ lignes [`10`](../src/punbb/overall_footer_begin.tpl#L10), [`42`](../src/punbb/overall_footer_begin.tpl#L42)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/overall_footer_begin.tpl#files)
+
+### Positions des variables 
 
 * __[`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme) :__ ligne [`10`](../src/subsilver/overall_footer_begin.tpl#L10)
 * __[`{ID_RIGHT}`](https://github.com/Etana/template/blob/master/var/ID_RIGHT.md#readme) :__ ligne [`11`](../src/subsilver/overall_footer_begin.tpl#L11)

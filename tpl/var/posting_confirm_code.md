@@ -1,24 +1,19 @@
 # Template posting_confirm_code [4/70]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=503) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=503) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=503) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=503) > [`posting_confirm_code`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=503)
-
-## Code source
-* [__phpBB2__](../src/subsilver/posting_confirm_code.tpl#files)
-* [__PunBB__](../src/punbb/posting_confirm_code.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_confirm_code)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{F_TYPE_FORUM}`](https://github.com/Etana/template/blob/master/var/F_TYPE_FORUM.md#readme)
     * [`{L_ERROR_MSG}`](https://github.com/Etana/template/blob/master/var/L_ERROR_MSG.md#readme)
     * [`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)
@@ -55,7 +50,12 @@
     * [`{V_TYPE_FORUM}`](https://github.com/Etana/template/blob/master/var/V_TYPE_FORUM.md#readme)
     * [`{V_USERNAME}`](https://github.com/Etana/template/blob/master/var/V_USERNAME.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/posting_confirm_code.tpl#files)
+
+### Positions des variables 
 
 * __[`{F_TYPE_FORUM}`](https://github.com/Etana/template/blob/master/var/F_TYPE_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/F_TYPE_FORUM">*</a> :__ ligne [`18`](../src/punbb/posting_confirm_code.tpl#L18)
 * __[`{L_ERROR_MSG}`](https://github.com/Etana/template/blob/master/var/L_ERROR_MSG.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ERROR_MSG">*</a> :__ ligne [`1`](../src/punbb/posting_confirm_code.tpl#L1)
@@ -94,7 +94,12 @@
 * __[`{V_USERNAME}`](https://github.com/Etana/template/blob/master/var/V_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/V_USERNAME">*</a> :__ ligne [`11`](../src/punbb/posting_confirm_code.tpl#L11)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/posting_confirm_code.tpl#files)
+
+### Positions des variables 
 
 * __[`{F_TYPE_FORUM}`](https://github.com/Etana/template/blob/master/var/F_TYPE_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/F_TYPE_FORUM">*</a> :__ ligne [`16`](../src/subsilver/posting_confirm_code.tpl#L16)
 * __[`{L_ERROR_MSG}`](https://github.com/Etana/template/blob/master/var/L_ERROR_MSG.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ERROR_MSG">*</a> :__ ligne [`1`](../src/subsilver/posting_confirm_code.tpl#L1)

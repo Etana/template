@@ -1,24 +1,22 @@
 # Template groupcp_pending_info
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=group&sub=templates,?mode=edit_group&part=themes&sub=templates&t=802) > [`Templates | Groupes`](http://votre-forum.appspot.com/admin/?mode=group&part=themes&sub=templates#?mode=edit_group&part=themes&sub=templates&t=802) > [`groupcp_pending_info`](http://votre-forum.appspot.com/admin/?mode=edit_group&part=themes&sub=templates&t=802)
 
-## Code source
-* [__phpBB2__](../src/subsilver/groupcp_pending_info.tpl#files)
-* [__PunBB__](../src/punbb/groupcp_pending_info.tpl#files)
+## Description[*](https://fa-tvars.appspot.com/tpl/groupcp_pending_info)
+Le contenu du template remplace la variable [`{PENDING_USER_BOX}`](https://github.com/Etana/template/blob/master/var/PENDING_USER_BOX.md#readme) du template [`groupcp_info_body`](https://github.com/Etana/template/blob/master/tpl/var/groupcp_info_body.md#readme) si :
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/groupcp_pending_info)
+* le membre qui affiche le groupe est administrateur ou modérateur du groupe
+* il y a des membres en attente d'adhésion au groupe
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/GROUP_DESC.md#readme)
     * [`{GROUP_DETAILS}`](https://github.com/Etana/template/blob/master/var/GROUP_DETAILS.md#readme)
     * [`{GROUP_NAME}`](https://github.com/Etana/template/blob/master/var/GROUP_NAME.md#readme)
@@ -97,7 +95,12 @@
     * [`<!-- BEGIN switch_subscribe_group_input -->...<!-- END switch_subscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_subscribe_group_input.md#readme)
     * [`<!-- BEGIN switch_unsubscribe_group_input -->...<!-- END switch_unsubscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_unsubscribe_group_input.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/groupcp_pending_info.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_APPROVE_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_APPROVE_SELECTED.md#readme) :__ ligne [`35`](../src/punbb/groupcp_pending_info.tpl#L35)
 * __[`{L_DENY_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_DENY_SELECTED.md#readme) :__ ligne [`35`](../src/punbb/groupcp_pending_info.tpl#L35)
@@ -121,7 +124,12 @@
 * __[`<!-- END pending_members_row -->`](https://github.com/Etana/template/blob/master/var/pending_members_row.md#readme) :__ ligne [`30`](../src/punbb/groupcp_pending_info.tpl#L30)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/groupcp_pending_info.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_APPROVE_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_APPROVE_SELECTED.md#readme) :__ ligne [`27`](../src/subsilver/groupcp_pending_info.tpl#L27)
 * __[`{L_DENY_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_DENY_SELECTED.md#readme) :__ ligne [`29`](../src/subsilver/groupcp_pending_info.tpl#L29)

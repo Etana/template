@@ -1,24 +1,19 @@
 # Template profile_avatar_gallery [18/44]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=702) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=702) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=702) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=702) > [`profile_avatar_gallery`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=702)
-
-## Code source
-* [__phpBB2__](../src/subsilver/profile_avatar_gallery.tpl#files)
-* [__PunBB__](../src/punbb/profile_avatar_gallery.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_avatar_gallery)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_AVATAR_GALLERY}`](https://github.com/Etana/template/blob/master/var/L_AVATAR_GALLERY.md#readme)
     * [`{L_CATEGORY}`](https://github.com/Etana/template/blob/master/var/L_CATEGORY.md#readme)
@@ -35,7 +30,12 @@
     * [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
     * [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](https://github.com/Etana/template/blob/master/var/avatar_row.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/profile_avatar_gallery.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/profile_avatar_gallery.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/profile_avatar_gallery.tpl#L7)
@@ -71,7 +71,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/profile_avatar_gallery.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/profile_avatar_gallery.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_AVATAR_GALLERY}`](https://github.com/Etana/template/blob/master/var/L_AVATAR_GALLERY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AVATAR_GALLERY">*</a> :__ ligne [`9`](../src/subsilver/profile_avatar_gallery.tpl#L9)
 * __[`{L_CATEGORY}`](https://github.com/Etana/template/blob/master/var/L_CATEGORY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CATEGORY">*</a> :__ ligne [`12`](../src/subsilver/profile_avatar_gallery.tpl#L12)

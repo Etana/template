@@ -1,24 +1,19 @@
 # Template privmsgs_body [30/101]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=511) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=511) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=511) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=511) > [`privmsgs_body`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=511)
-
-## Code source
-* [__phpBB2__](../src/subsilver/privmsgs_body.tpl#files)
-* [__PunBB__](../src/punbb/privmsgs_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{BOX_SIZE_STATUS}`](https://github.com/Etana/template/blob/master/var/BOX_SIZE_STATUS.md#readme)
     * [`{INBOX}`](https://github.com/Etana/template/blob/master/var/INBOX.md#readme)
     * [`{INBOX_IMG}`](https://github.com/Etana/template/blob/master/var/INBOX_IMG.md#readme)
@@ -64,7 +59,12 @@
     * [`<!-- BEGIN switch_no_messages -->...<!-- END switch_no_messages -->`](https://github.com/Etana/template/blob/master/var/switch_no_messages.md#readme)
     * [`<!-- BEGIN switch_save -->...<!-- END switch_save -->`](https://github.com/Etana/template/blob/master/var/switch_save.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/privmsgs_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{BOX_SIZE_STATUS}`](https://github.com/Etana/template/blob/master/var/BOX_SIZE_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/BOX_SIZE_STATUS">*</a> :__ ligne [`32`](../src/punbb/privmsgs_body.tpl#L32)
 * __[`{INBOX}`](https://github.com/Etana/template/blob/master/var/INBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/INBOX">*</a> :__ ligne [`23`](../src/punbb/privmsgs_body.tpl#L23)
@@ -128,7 +128,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/privmsgs_body.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/privmsgs_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{BOX_SIZE_STATUS}`](https://github.com/Etana/template/blob/master/var/BOX_SIZE_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/BOX_SIZE_STATUS">*</a> :__ ligne [`20`](../src/subsilver/privmsgs_body.tpl#L20)
 * __[`{INBOX}`](https://github.com/Etana/template/blob/master/var/INBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/INBOX">*</a> :__ ligne [`7`](../src/subsilver/privmsgs_body.tpl#L7)

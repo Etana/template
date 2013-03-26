@@ -1,24 +1,19 @@
 # Template viewtopic_poll_result [0/34]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=129) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=129) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=129) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=129) > [`viewtopic_poll_result`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=129)
-
-## Code source
-* [__phpBB2__](../src/subsilver/viewtopic_poll_result.tpl#files)
-* [__PunBB__](../src/punbb/viewtopic_poll_result.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewtopic_poll_result)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{CLOSE_POLL}`](https://github.com/Etana/template/blob/master/var/CLOSE_POLL.md#readme)
     * [`{L_CANCEL_VOTE}`](https://github.com/Etana/template/blob/master/var/L_CANCEL_VOTE.md#readme)
     * [`{L_POLL_HIDE_RESULT}`](https://github.com/Etana/template/blob/master/var/L_POLL_HIDE_RESULT.md#readme)
@@ -32,7 +27,12 @@
     * [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
     * [`<!-- BEGIN switch_hide_result -->...<!-- END switch_hide_result -->`](https://github.com/Etana/template/blob/master/var/switch_hide_result.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/viewtopic_poll_result.tpl#files)
+
+### Positions des variables 
 
 * __[`{CLOSE_POLL}`](https://github.com/Etana/template/blob/master/var/CLOSE_POLL.md#readme)<a href="https://fa-tvars.appspot.com/var/CLOSE_POLL">*</a> :__ ligne [`3`](../src/punbb/viewtopic_poll_result.tpl#L3)
 * __[`{L_CANCEL_VOTE}`](https://github.com/Etana/template/blob/master/var/L_CANCEL_VOTE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CANCEL_VOTE">*</a> :__ ligne [`29`](../src/punbb/viewtopic_poll_result.tpl#L29)
@@ -56,7 +56,12 @@
 * __[`<!-- END switch_hide_result -->`](https://github.com/Etana/template/blob/master/var/switch_hide_result.md#readme) :__ ligne [`24`](../src/punbb/viewtopic_poll_result.tpl#L24)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/viewtopic_poll_result.tpl#files)
+
+### Positions des variables 
 
 * __[`{CLOSE_POLL}`](https://github.com/Etana/template/blob/master/var/CLOSE_POLL.md#readme)<a href="https://fa-tvars.appspot.com/var/CLOSE_POLL">*</a> :__ ligne [`3`](../src/subsilver/viewtopic_poll_result.tpl#L3)
 * __[`{L_CANCEL_VOTE}`](https://github.com/Etana/template/blob/master/var/L_CANCEL_VOTE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CANCEL_VOTE">*</a> :__ ligne [`40`](../src/subsilver/viewtopic_poll_result.tpl#L40)

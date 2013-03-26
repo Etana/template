@@ -1,24 +1,19 @@
 # Template modcp_viewip [19/79]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=606) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=606) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=606) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=606) > [`modcp_viewip`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=606)
-
-## Code source
-* [__phpBB2__](../src/subsilver/modcp_viewip.tpl#files)
-* [__PunBB__](../src/punbb/modcp_viewip.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_viewip)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{IP}`](https://github.com/Etana/template/blob/master/var/IP.md#readme)
     * [`{IP1}`](https://github.com/Etana/template/blob/master/var/IP1.md#readme)
     * [`{IP2}`](https://github.com/Etana/template/blob/master/var/IP2.md#readme)
@@ -47,7 +42,12 @@
     * [`<!-- BEGIN iprow -->...<!-- END iprow -->`](https://github.com/Etana/template/blob/master/var/iprow.md#readme)
     * [`<!-- BEGIN userrow -->...<!-- END userrow -->`](https://github.com/Etana/template/blob/master/var/userrow.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/modcp_viewip.tpl#files)
+
+### Positions des variables 
 
 * __[`{IP}`](https://github.com/Etana/template/blob/master/var/IP.md#readme)<a href="https://fa-tvars.appspot.com/var/IP">*</a> :__ ligne [`64`](../src/punbb/modcp_viewip.tpl#L64)
 * __[`{IP1}`](https://github.com/Etana/template/blob/master/var/IP1.md#readme)<a href="https://fa-tvars.appspot.com/var/IP1">*</a> :__ ligne [`39`](../src/punbb/modcp_viewip.tpl#L39)
@@ -100,7 +100,12 @@
 * __[`<!-- END userrow -->`](https://github.com/Etana/template/blob/master/var/userrow.md#readme) :__ ligne [`84`](../src/punbb/modcp_viewip.tpl#L84)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/modcp_viewip.tpl#files)
+
+### Positions des variables 
 
 * __[`{IP}`](https://github.com/Etana/template/blob/master/var/IP.md#readme)<a href="https://fa-tvars.appspot.com/var/IP">*</a> :__ ligne [`39`](../src/subsilver/modcp_viewip.tpl#L39)
 * __[`{IP1}`](https://github.com/Etana/template/blob/master/var/IP1.md#readme)<a href="https://fa-tvars.appspot.com/var/IP1">*</a> :__ ligne [`20`](../src/subsilver/modcp_viewip.tpl#L20)

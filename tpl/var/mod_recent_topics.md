@@ -1,24 +1,19 @@
 # Template mod_recent_topics [2/65]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=904) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=904) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=904) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=904) > [`mod_recent_topics`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=904)
-
-## Code source
-* [__phpBB2__](../src/subsilver/mod_recent_topics.tpl#files)
-* [__PunBB__](../src/punbb/mod_recent_topics.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_recent_topics)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)
     * [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
     * [`{L_RECENT_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_RECENT_TOPICS.md#readme)
@@ -30,7 +25,12 @@
     * [`<!-- BEGIN classical_row -->...<!-- END classical_row -->`](https://github.com/Etana/template/blob/master/var/classical_row.md#readme)
     * [`<!-- BEGIN scrolling_row -->...<!-- END scrolling_row -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/mod_recent_topics.tpl#files)
+
+### Positions des variables 
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ lignes [`7`](../src/punbb/mod_recent_topics.tpl#L7), [`38`](../src/punbb/mod_recent_topics.tpl#L38)
 * __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`7`](../src/punbb/mod_recent_topics.tpl#L7)
@@ -75,7 +75,12 @@
 * __[`<!-- END scrolling_row -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.md#readme) :__ ligne [`31`](../src/punbb/mod_recent_topics.tpl#L31)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/mod_recent_topics.tpl#files)
+
+### Positions des variables 
 
 * __[`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)<a href="https://fa-tvars.appspot.com/var/BY">*</a> :__ lignes [`12`](../src/subsilver/mod_recent_topics.tpl#L12), [`47`](../src/subsilver/mod_recent_topics.tpl#L47)
 * __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`12`](../src/subsilver/mod_recent_topics.tpl#L12)

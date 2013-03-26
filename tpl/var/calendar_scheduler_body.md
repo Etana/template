@@ -1,24 +1,19 @@
 # Template calendar_scheduler_body [20/57]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=406) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=406) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=406) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=406) > [`calendar_scheduler_body`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=406)
-
-## Code source
-* [__phpBB2__](../src/subsilver/calendar_scheduler_body.tpl#files)
-* [__PunBB__](../src/punbb/calendar_scheduler_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_scheduler_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ACTION}`](https://github.com/Etana/template/blob/master/var/ACTION.md#readme)
     * [`{BIRTHDAY_LIST_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/BIRTHDAY_LIST_SCHEDULER.md#readme)
     * [`{ESPACE}`](https://github.com/Etana/template/blob/master/var/ESPACE.md#readme)
@@ -43,7 +38,12 @@
     * [`<!-- BEGIN header_cell -->...<!-- END header_cell -->`](https://github.com/Etana/template/blob/master/var/header_cell.md#readme)
     * [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/row.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/calendar_scheduler_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ACTION}`](https://github.com/Etana/template/blob/master/var/ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/ACTION">*</a> :__ ligne [`25`](../src/punbb/calendar_scheduler_body.tpl#L25)
 * __[`{BIRTHDAY_LIST_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/BIRTHDAY_LIST_SCHEDULER.md#readme)<a href="https://fa-tvars.appspot.com/var/BIRTHDAY_LIST_SCHEDULER">*</a> :__ ligne [`57`](../src/punbb/calendar_scheduler_body.tpl#L57)
@@ -84,7 +84,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/calendar_scheduler_body.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/calendar_scheduler_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ACTION}`](https://github.com/Etana/template/blob/master/var/ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/ACTION">*</a> :__ ligne [`1`](../src/subsilver/calendar_scheduler_body.tpl#L1)
 * __[`{BIRTHDAY_LIST_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/BIRTHDAY_LIST_SCHEDULER.md#readme)<a href="https://fa-tvars.appspot.com/var/BIRTHDAY_LIST_SCHEDULER">*</a> :__ ligne [`55`](../src/subsilver/calendar_scheduler_body.tpl#L55)

@@ -1,24 +1,19 @@
 # Template posting_smilies_frame [13/29]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=507) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=507) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=507) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=507) > [`posting_smilies_frame`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=507)
-
-## Code source
-* [__phpBB2__](../src/subsilver/posting_smilies_frame.tpl#files)
-* [__PunBB__](../src/punbb/posting_smilies_frame.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies_frame)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme)
     * [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
     * [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
@@ -28,7 +23,12 @@
     * [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
     * [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/posting_smilies_frame.tpl#files)
+
+### Positions des variables 
 
 * __[`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme) :__ ligne [`9`](../src/punbb/posting_smilies_frame.tpl#L9)
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`10`](../src/punbb/posting_smilies_frame.tpl#L10)
@@ -48,7 +48,12 @@
 * __[`<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme) :__ ligne [`32`](../src/punbb/posting_smilies_frame.tpl#L32)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/posting_smilies_frame.tpl#files)
+
+### Positions des variables 
 
 * __[`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme) :__ ligne [`6`](../src/subsilver/posting_smilies_frame.tpl#L6)
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`7`](../src/subsilver/posting_smilies_frame.tpl#L7)

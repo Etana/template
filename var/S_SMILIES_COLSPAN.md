@@ -16,5 +16,5 @@
 * __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`23`](../tpl/src/punbb/posting_smilies.tpl#L23)
 
 ### Version phpBB2
-* __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`27`](../tpl/src/subsilver/posting_smilies.tpl#L27)
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`196`](../tpl/src/subsilver/posting_body.tpl#L196)
+* __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ ligne [`27`](../tpl/src/subsilver/posting_smilies.tpl#L27)

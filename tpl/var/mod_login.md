@@ -1,24 +1,19 @@
 # Template mod_login [16/41]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=916) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=916) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=916) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=916) > [`mod_login`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=916)
-
-## Code source
-* [__phpBB2__](../src/subsilver/mod_login.tpl#files)
-* [__PunBB__](../src/punbb/mod_login.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_login)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme)
     * [`{DIRECTION}`](https://github.com/Etana/template/blob/master/var/DIRECTION.md#readme)
     * [`{L_MESSAGES}`](https://github.com/Etana/template/blob/master/var/L_MESSAGES.md#readme)
@@ -35,7 +30,12 @@
     * [`<!-- BEGIN switch_login_small -->...<!-- END switch_login_small -->`](https://github.com/Etana/template/blob/master/var/switch_login_small.md#readme)
     * [`<!-- BEGIN switch_profile -->...<!-- END switch_profile -->`](https://github.com/Etana/template/blob/master/var/switch_profile.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/mod_login.tpl#files)
+
+### Positions des variables 
 
 * __[`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme) :__ lignes [`17`](../src/punbb/mod_login.tpl#L17), [`37`](../src/punbb/mod_login.tpl#L37)
 * __[`{L_AUTO_LOGIN}`](https://github.com/Etana/template/blob/master/var/L_AUTO_LOGIN.md#readme) :__ lignes [`17`](../src/punbb/mod_login.tpl#L17), [`37`](../src/punbb/mod_login.tpl#L37)
@@ -62,7 +62,12 @@
 * __[`<!-- END switch_profile -->`](https://github.com/Etana/template/blob/master/var/switch_profile.md#readme) :__ ligne [`57`](../src/punbb/mod_login.tpl#L57)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/mod_login.tpl#files)
+
+### Positions des variables 
 
 * __[`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme) :__ lignes [`21`](../src/subsilver/mod_login.tpl#L21), [`56`](../src/subsilver/mod_login.tpl#L56)
 * __[`{DIRECTION}`](https://github.com/Etana/template/blob/master/var/DIRECTION.md#readme)<a href="https://fa-tvars.appspot.com/var/DIRECTION">*</a> :__ lignes [`83`](../src/subsilver/mod_login.tpl#L83), [`84`](../src/subsilver/mod_login.tpl#L84), [`84`](../src/subsilver/mod_login.tpl#L84)

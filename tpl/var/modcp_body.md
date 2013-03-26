@@ -1,24 +1,19 @@
 # Template modcp_body [32/79]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=603) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=603) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=603) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=603) > [`modcp_body`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=603)
-
-## Code source
-* [__phpBB2__](../src/subsilver/modcp_body.tpl#files)
-* [__PunBB__](../src/punbb/modcp_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_ANNOUNCE}`](https://github.com/Etana/template/blob/master/var/L_ANNOUNCE.md#readme)
@@ -49,7 +44,12 @@
     * [`<!-- BEGIN switch_sticky -->...<!-- END switch_sticky -->`](https://github.com/Etana/template/blob/master/var/switch_sticky.md#readme)
     * [`<!-- BEGIN topicrow -->...<!-- END topicrow -->`](https://github.com/Etana/template/blob/master/var/topicrow.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/modcp_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/modcp_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/modcp_body.tpl#L7)
@@ -102,7 +102,12 @@
 * __[`<!-- END topicrow -->`](https://github.com/Etana/template/blob/master/var/topicrow.md#readme) :__ ligne [`57`](../src/punbb/modcp_body.tpl#L57)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/modcp_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`58`](../src/subsilver/modcp_body.tpl#L58)
 * __[`{L_ANNOUNCE}`](https://github.com/Etana/template/blob/master/var/L_ANNOUNCE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ANNOUNCE">*</a> :__ ligne [`38`](../src/subsilver/modcp_body.tpl#L38)

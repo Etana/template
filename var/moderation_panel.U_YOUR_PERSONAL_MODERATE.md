@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`439`](../tpl/src/subsilver/viewtopic_body.tpl#L439)
 * __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ ligne [`118`](../tpl/src/subsilver/album_index_body.tpl#L118)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`439`](../tpl/src/subsilver/viewtopic_body.tpl#L439)

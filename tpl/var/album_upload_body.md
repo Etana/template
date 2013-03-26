@@ -1,24 +1,19 @@
 # Template album_upload_body [15/112]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=213) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=213) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=213) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=213) > [`album_upload_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=213)
-
-## Code source
-* [__phpBB2__](../src/subsilver/album_upload_body.tpl#files)
-* [__PunBB__](../src/punbb/album_upload_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_upload_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ADD_FIELD}`](https://github.com/Etana/template/blob/master/var/ADD_FIELD.md#readme)
     * [`{CAT_TITLE}`](https://github.com/Etana/template/blob/master/var/CAT_TITLE.md#readme)
     * [`{DELETE_ALL_FIELD}`](https://github.com/Etana/template/blob/master/var/DELETE_ALL_FIELD.md#readme)
@@ -70,7 +65,12 @@
     * [`<!-- BEGIN switch_nuffload_disabled -->...<!-- END switch_nuffload_disabled -->`](https://github.com/Etana/template/blob/master/var/switch_nuffload_disabled.md#readme)
     * [`<!-- BEGIN switch_nuffload_enabled -->...<!-- END switch_nuffload_enabled -->`](https://github.com/Etana/template/blob/master/var/switch_nuffload_enabled.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/album_upload_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADD_FIELD}`](https://github.com/Etana/template/blob/master/var/ADD_FIELD.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_FIELD">*</a> :__ ligne [`269`](../src/punbb/album_upload_body.tpl#L269)
 * __[`{DELETE_ALL_FIELD}`](https://github.com/Etana/template/blob/master/var/DELETE_ALL_FIELD.md#readme)<a href="https://fa-tvars.appspot.com/var/DELETE_ALL_FIELD">*</a> :__ ligne [`287`](../src/punbb/album_upload_body.tpl#L287)
@@ -141,7 +141,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`15`](../src/punbb/album_upload_body.tpl#L15)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/album_upload_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{ADD_FIELD}`](https://github.com/Etana/template/blob/master/var/ADD_FIELD.md#readme)<a href="https://fa-tvars.appspot.com/var/ADD_FIELD">*</a> :__ ligne [`270`](../src/subsilver/album_upload_body.tpl#L270)
 * __[`{CAT_TITLE}`](https://github.com/Etana/template/blob/master/var/CAT_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/CAT_TITLE">*</a> :__ ligne [`242`](../src/subsilver/album_upload_body.tpl#L242)

@@ -64,9 +64,9 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`123`](../tpl/src/punbb/viewtopic_body.tpl#L123)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L123-L250)[`250`](../tpl/src/punbb/viewtopic_body.tpl#L250)
 * __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ lignes [`8`](../tpl/src/punbb/posting_topic_review.tpl#L8)[`<->`](../tpl/src/punbb/posting_topic_review.tpl#L8-L33)[`33`](../tpl/src/punbb/posting_topic_review.tpl#L33)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`123`](../tpl/src/punbb/viewtopic_body.tpl#L123)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L123-L250)[`250`](../tpl/src/punbb/viewtopic_body.tpl#L250)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/viewtopic_body.tpl#L121)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L121-L256)[`256`](../tpl/src/subsilver/viewtopic_body.tpl#L256)
 * __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ lignes [`14`](../tpl/src/subsilver/posting_topic_review.tpl#L14)[`<->`](../tpl/src/subsilver/posting_topic_review.tpl#L14-L38)[`38`](../tpl/src/subsilver/posting_topic_review.tpl#L38)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`121`](../tpl/src/subsilver/viewtopic_body.tpl#L121)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L121-L256)[`256`](../tpl/src/subsilver/viewtopic_body.tpl#L256)

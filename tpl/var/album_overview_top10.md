@@ -1,24 +1,19 @@
 # Template album_overview_top10 [2/34]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=209) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=209) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=209) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=209) > [`album_overview_top10`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=209)
-
-## Code source
-* [__phpBB2__](../src/subsilver/album_overview_top10.tpl#files)
-* [__PunBB__](../src/punbb/album_overview_top10.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_overview_top10)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ALBUM}`](https://github.com/Etana/template/blob/master/var/ALBUM.md#readme)
     * [`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)
     * [`{L_DATE}`](https://github.com/Etana/template/blob/master/var/L_DATE.md#readme)
@@ -33,7 +28,12 @@
     * [`<!-- BEGIN switch_recent -->...<!-- END switch_recent -->`](https://github.com/Etana/template/blob/master/var/switch_recent.md#readme)
     * [`<!-- BEGIN switch_viewed -->...<!-- END switch_viewed -->`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/album_overview_top10.tpl#files)
+
+### Positions des variables 
 
 * __[`{ALBUM}`](https://github.com/Etana/template/blob/master/var/ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUM">*</a> :__ ligne [`12`](../src/punbb/album_overview_top10.tpl#L12)
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ ligne [`12`](../src/punbb/album_overview_top10.tpl#L12)
@@ -59,7 +59,12 @@
 * __[`<!-- END switch_viewed -->`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme) :__ ligne [`18`](../src/punbb/album_overview_top10.tpl#L18)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/album_overview_top10.tpl#files)
+
+### Positions des variables 
 
 * __[`{ALBUM}`](https://github.com/Etana/template/blob/master/var/ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUM">*</a> :__ ligne [`22`](../src/subsilver/album_overview_top10.tpl#L22)
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ ligne [`22`](../src/subsilver/album_overview_top10.tpl#L22)

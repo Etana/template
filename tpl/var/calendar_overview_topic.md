@@ -1,24 +1,19 @@
 # Template calendar_overview_topic [4/22]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=calendar&sub=templates,?mode=edit_calendar&part=themes&sub=templates&t=405) > [`Templates | Calendrier`](http://votre-forum.appspot.com/admin/?mode=calendar&part=themes&sub=templates#?mode=edit_calendar&part=themes&sub=templates&t=405) > [`calendar_overview_topic`](http://votre-forum.appspot.com/admin/?mode=edit_calendar&part=themes&sub=templates&t=405)
-
-## Code source
-* [__phpBB2__](../src/subsilver/calendar_overview_topic.tpl#files)
-* [__PunBB__](../src/punbb/calendar_overview_topic.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_overview_topic)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)
     * [`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)
     * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
@@ -31,7 +26,12 @@
     * [`{TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/TOPIC_TITLE.md#readme)
     * [`<!-- BEGIN display_forum -->...<!-- END display_forum -->`](https://github.com/Etana/template/blob/master/var/display_forum.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/calendar_overview_topic.tpl#files)
+
+### Positions des variables 
 
 * __[`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)<a href="https://fa-tvars.appspot.com/var/AUTHOR">*</a> :__ ligne [`5`](../src/punbb/calendar_overview_topic.tpl#L5)
 * __[`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)<a href="https://fa-tvars.appspot.com/var/CALENDAR_EVENT">*</a> :__ ligne [`4`](../src/punbb/calendar_overview_topic.tpl#L4)
@@ -47,7 +47,12 @@
 * __[`<!-- END display_forum -->`](https://github.com/Etana/template/blob/master/var/display_forum.md#readme) :__ ligne [`9`](../src/punbb/calendar_overview_topic.tpl#L9)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/calendar_overview_topic.tpl#files)
+
+### Positions des variables 
 
 * __[`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)<a href="https://fa-tvars.appspot.com/var/AUTHOR">*</a> :__ ligne [`9`](../src/subsilver/calendar_overview_topic.tpl#L9)
 * __[`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)<a href="https://fa-tvars.appspot.com/var/CALENDAR_EVENT">*</a> :__ ligne [`8`](../src/subsilver/calendar_overview_topic.tpl#L8)
