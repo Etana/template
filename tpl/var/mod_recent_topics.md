@@ -25,8 +25,7 @@
     * [`<!-- BEGIN classical_row -->...<!-- END classical_row -->`](https://github.com/Etana/template/blob/master/var/classical_row.md#readme)
     * [`<!-- BEGIN scrolling_row -->...<!-- END scrolling_row -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_recent_topics.tpl#files)
 
@@ -74,8 +73,7 @@
 * __[`<!-- END scrolling_row -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.md#readme) :__ ligne [`37`](../src/subsilver/mod_recent_topics.tpl#L37)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_recent_topics.tpl#files)
 

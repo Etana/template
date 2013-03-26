@@ -41,8 +41,7 @@
     * [`{U_RETURN_PROFILE}`](https://github.com/Etana/template/blob/master/var/U_RETURN_PROFILE.md#readme)
     * [`<!-- BEGIN switch_post_error -->...<!-- END switch_post_error -->`](https://github.com/Etana/template/blob/master/var/switch_post_error.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/profile_edit_signature.tpl#files)
 
@@ -59,8 +58,7 @@
 * __[`<!-- END switch_post_error -->`](https://github.com/Etana/template/blob/master/var/switch_post_error.md#readme) :__ ligne [`20`](../src/subsilver/profile_edit_signature.tpl#L20)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_edit_signature.tpl#files)
 

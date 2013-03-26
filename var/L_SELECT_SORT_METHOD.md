@@ -16,13 +16,13 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`85`](../tpl/src/subsilver/album_cat_body.tpl#L85), [`166`](../tpl/src/subsilver/album_cat_body.tpl#L166)
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`65`](../tpl/src/subsilver/album_modcp_body.tpl#L65)
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`11`](../tpl/src/subsilver/memberlist_body.tpl#L11)
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`65`](../tpl/src/subsilver/album_modcp_body.tpl#L65)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`85`](../tpl/src/subsilver/album_cat_body.tpl#L85), [`166`](../tpl/src/subsilver/album_cat_body.tpl#L166)
 * __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`106`](../tpl/src/subsilver/album_moderate_body.tpl#L106)
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`93`](../tpl/src/punbb/album_cat_body.tpl#L93)
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`85`](../tpl/src/punbb/album_modcp_body.tpl#L85)
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`43`](../tpl/src/punbb/memberlist_body.tpl#L43)
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`85`](../tpl/src/punbb/album_modcp_body.tpl#L85)
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`93`](../tpl/src/punbb/album_cat_body.tpl#L93)
 * __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`131`](../tpl/src/punbb/album_moderate_body.tpl#L131)

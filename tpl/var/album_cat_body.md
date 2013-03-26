@@ -82,8 +82,7 @@
     * [`<!-- BEGIN pic_pagination -->...<!-- END pic_pagination -->`](https://github.com/Etana/template/blob/master/var/pic_pagination.md#readme)
     * [`<!-- BEGIN view_moderation -->...<!-- END view_moderation -->`](https://github.com/Etana/template/blob/master/var/view_moderation.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_cat_body.tpl#files)
 
@@ -253,8 +252,7 @@
 * __[`<!-- END view_moderation -->`](https://github.com/Etana/template/blob/master/var/view_moderation.md#readme) :__ ligne [`236`](../src/subsilver/album_cat_body.tpl#L236)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_cat_body.tpl#files)
 

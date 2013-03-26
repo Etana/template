@@ -38,8 +38,7 @@
     * [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/row.md#readme)
     * [`<!-- BEGIN switch_report_archive -->...<!-- END switch_report_archive -->`](https://github.com/Etana/template/blob/master/var/switch_report_archive.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/report_view_body.tpl#files)
 
@@ -87,8 +86,7 @@
 * __[`<!-- END switch_report_archive -->`](https://github.com/Etana/template/blob/master/var/switch_report_archive.md#readme) :__ ligne [`4`](../src/subsilver/report_view_body.tpl#L4)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/report_view_body.tpl#files)
 

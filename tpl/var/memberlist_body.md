@@ -45,8 +45,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
     * [`<!-- BEGIN switch_pagination -->...<!-- END switch_pagination -->`](https://github.com/Etana/template/blob/master/var/switch_pagination.md#readme)
     * [`<!-- BEGIN switch_th_group -->...<!-- END switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/memberlist_body.tpl#files)
 
@@ -99,8 +98,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 * __[`<!-- END switch_th_group -->`](https://github.com/Etana/template/blob/master/var/switch_th_group.md#readme) :__ ligne [`28`](../src/subsilver/memberlist_body.tpl#L28)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/memberlist_body.tpl#files)
 

@@ -33,12 +33,12 @@ contenu
 
 ### Version phpBB2
 * __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ lignes [`13`](../tpl/src/subsilver/posting_topic_review.tpl#L13)[`<->`](../tpl/src/subsilver/posting_topic_review.tpl#L13-L44)[`44`](../tpl/src/subsilver/posting_topic_review.tpl#L44)
+* __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ lignes [`37`](../tpl/src/subsilver/modcp_split.tpl#L37)[`<->`](../tpl/src/subsilver/modcp_split.tpl#L37-L58)[`58`](../tpl/src/subsilver/modcp_split.tpl#L58)
 * __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ lignes [`14`](../tpl/src/subsilver/privmsg_topic_review.tpl#L14)[`<->`](../tpl/src/subsilver/privmsg_topic_review.tpl#L14-L34)[`34`](../tpl/src/subsilver/privmsg_topic_review.tpl#L34)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`115`](../tpl/src/subsilver/viewtopic_body.tpl#L115)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L115-L257)[`257`](../tpl/src/subsilver/viewtopic_body.tpl#L257)
-* __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ lignes [`37`](../tpl/src/subsilver/modcp_split.tpl#L37)[`<->`](../tpl/src/subsilver/modcp_split.tpl#L37-L58)[`58`](../tpl/src/subsilver/modcp_split.tpl#L58)
 
 ### Version PunBB
 * __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ lignes [`7`](../tpl/src/punbb/posting_topic_review.tpl#L7)[`<->`](../tpl/src/punbb/posting_topic_review.tpl#L7-L39)[`39`](../tpl/src/punbb/posting_topic_review.tpl#L39)
+* __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ lignes [`48`](../tpl/src/punbb/modcp_split.tpl#L48)[`<->`](../tpl/src/punbb/modcp_split.tpl#L48-L73)[`73`](../tpl/src/punbb/modcp_split.tpl#L73)
 * __[`privmsg_topic_review`](../tpl/var/privmsg_topic_review.md#readme) :__ lignes [`18`](../tpl/src/punbb/privmsg_topic_review.tpl#L18)[`<->`](../tpl/src/punbb/privmsg_topic_review.tpl#L18-L49)[`49`](../tpl/src/punbb/privmsg_topic_review.tpl#L49)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`118`](../tpl/src/punbb/viewtopic_body.tpl#L118)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L118-L251)[`251`](../tpl/src/punbb/viewtopic_body.tpl#L251)
-* __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ lignes [`48`](../tpl/src/punbb/modcp_split.tpl#L48)[`<->`](../tpl/src/punbb/modcp_split.tpl#L48-L73)[`73`](../tpl/src/punbb/modcp_split.tpl#L73)

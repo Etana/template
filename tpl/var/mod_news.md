@@ -21,8 +21,7 @@
     * [`<!-- BEGIN post_row -->...<!-- END post_row -->`](https://github.com/Etana/template/blob/master/var/post_row.md#readme)
     * [`<!-- BEGIN switch_image_resize -->...<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_news.tpl#files)
 
@@ -73,8 +72,7 @@
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`75`](../src/subsilver/mod_news.tpl#L75)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_news.tpl#files)
 

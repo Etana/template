@@ -36,8 +36,7 @@
     * [`{TO_TOPIC}`](https://github.com/Etana/template/blob/master/var/TO_TOPIC.md#readme)
     * [`{TO_TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/TO_TOPIC_TITLE.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/merge_body.tpl#files)
 
@@ -66,8 +65,7 @@
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`4`](../src/subsilver/merge_body.tpl#L4)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/merge_body.tpl#files)
 

@@ -24,8 +24,7 @@
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
     * [`<!-- BEGIN switch_select_name -->...<!-- END switch_select_name -->`](https://github.com/Etana/template/blob/master/var/switch_select_name.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/search_username.tpl#files)
 
@@ -43,8 +42,7 @@
 * __[`<!-- END switch_select_name -->`](https://github.com/Etana/template/blob/master/var/switch_select_name.md#readme) :__ ligne [`19`](../src/subsilver/search_username.tpl#L19)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/search_username.tpl#files)
 

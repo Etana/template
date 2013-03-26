@@ -27,8 +27,7 @@
     * [`<!-- BEGIN rpg_fields -->...<!-- END rpg_fields -->`](https://github.com/Etana/template/blob/master/var/rpg_fields.md#readme)
     * [`<!-- BEGIN rpg_fields_left -->...<!-- END rpg_fields_left -->`](https://github.com/Etana/template/blob/master/var/rpg_fields_left.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/rpg_sheet.tpl#files)
 
@@ -51,8 +50,7 @@
 * __[`<!-- END rpg_fields_left -->`](https://github.com/Etana/template/blob/master/var/rpg_fields_left.md#readme) :__ ligne [`24`](../src/subsilver/rpg_sheet.tpl#L24)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/rpg_sheet.tpl#files)
 

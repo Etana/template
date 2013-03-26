@@ -16,8 +16,7 @@
 * __Variables propres à ce template :__
     * [`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_chatbox.tpl#files)
 
@@ -26,8 +25,7 @@
 * __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX">*</a> :__ ligne [`6`](../src/subsilver/mod_chatbox.tpl#L6)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_chatbox.tpl#files)
 

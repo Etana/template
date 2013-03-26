@@ -72,8 +72,7 @@
     * [`<!-- BEGIN switch_rpg -->...<!-- END switch_rpg -->`](https://github.com/Etana/template/blob/master/var/switch_rpg.md#readme)
     * [`<!-- BEGIN switch_show_status -->...<!-- END switch_show_status -->`](https://github.com/Etana/template/blob/master/var/switch_show_status.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/profile_view_body.tpl#files)
 
@@ -157,8 +156,7 @@
 * __[`<!-- END switch_show_status -->`](https://github.com/Etana/template/blob/master/var/switch_show_status.md#readme) :__ ligne [`31`](../src/subsilver/profile_view_body.tpl#L31)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_view_body.tpl#files)
 

@@ -18,8 +18,7 @@
     * [`{L_SOCIAL_BOOKMARKING}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING.md#readme)
     * [`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_social_bookmarking.tpl#files)
 
@@ -36,8 +35,7 @@
 * __[`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING_EXPLAIN">*</a> :__ ligne [`16`](../src/subsilver/mod_social_bookmarking.tpl#L16)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_social_bookmarking.tpl#files)
 

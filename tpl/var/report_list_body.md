@@ -55,8 +55,7 @@
     * [`<!-- BEGIN switch_status -->...<!-- END switch_status -->`](https://github.com/Etana/template/blob/master/var/switch_status.md#readme)
     * [`<!-- BEGIN switch_view -->...<!-- END switch_view -->`](https://github.com/Etana/template/blob/master/var/switch_view.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/report_list_body.tpl#files)
 
@@ -120,8 +119,7 @@
 * __[`<!-- END switch_view -->`](https://github.com/Etana/template/blob/master/var/switch_view.md#readme) :__ ligne [`40`](../src/subsilver/report_list_body.tpl#L40)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/report_list_body.tpl#files)
 

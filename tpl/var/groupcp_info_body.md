@@ -108,8 +108,7 @@ Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
     * [`<!-- BEGIN switch_subscribe_group_input -->...<!-- END switch_subscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_subscribe_group_input.md#readme)
     * [`<!-- BEGIN switch_unsubscribe_group_input -->...<!-- END switch_unsubscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_unsubscribe_group_input.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/groupcp_info_body.tpl#files)
 
@@ -193,8 +192,7 @@ Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
 * __[`<!-- END switch_unsubscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_unsubscribe_group_input.md#readme) :__ ligne [`23`](../src/subsilver/groupcp_info_body.tpl#L23)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/groupcp_info_body.tpl#files)
 

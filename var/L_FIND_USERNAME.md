@@ -15,11 +15,11 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`108`](../tpl/src/subsilver/posting_body.tpl#L108)
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`98`](../tpl/src/subsilver/groupcp_info_body.tpl#L98)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`108`](../tpl/src/subsilver/posting_body.tpl#L108)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`281`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L281)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`92`](../tpl/src/punbb/posting_body.tpl#L92)
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`135`](../tpl/src/punbb/groupcp_info_body.tpl#L135)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`92`](../tpl/src/punbb/posting_body.tpl#L92)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`248`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L248)

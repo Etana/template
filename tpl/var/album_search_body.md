@@ -38,8 +38,7 @@
     * [`{U_FORUM_INDEX}`](https://github.com/Etana/template/blob/master/var/U_FORUM_INDEX.md#readme)
     * [`<!-- BEGIN switch_search_results -->...<!-- END switch_search_results -->`](https://github.com/Etana/template/blob/master/var/switch_search_results.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_search_body.tpl#files)
 
@@ -80,8 +79,7 @@
 * __[`<!-- END switch_search_results -->`](https://github.com/Etana/template/blob/master/var/switch_search_results.md#readme) :__ ligne [`53`](../src/subsilver/album_search_body.tpl#L53)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_search_body.tpl#files)
 

@@ -57,8 +57,7 @@ Ce template affiche la page de recherche de votre forum : `/search`
     * [`{T_VISITED_LINK}`](https://github.com/Etana/template/blob/master/var/T_VISITED_LINK.md#readme)
     * [`{U_GOOGLERESULTS}`](https://github.com/Etana/template/blob/master/var/U_GOOGLERESULTS.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/search_body.tpl#files)
 
@@ -105,8 +104,7 @@ Ce template affiche la page de recherche de votre forum : `/search`
 * __[`{U_GOOGLERESULTS}`](https://github.com/Etana/template/blob/master/var/U_GOOGLERESULTS.md#readme)<a href="https://fa-tvars.appspot.com/var/U_GOOGLERESULTS">*</a> :__ ligne [`21`](../src/subsilver/search_body.tpl#L21)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/search_body.tpl#files)
 

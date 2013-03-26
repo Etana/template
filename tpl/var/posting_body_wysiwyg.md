@@ -196,8 +196,7 @@
     * [`<!-- BEGIN switch_type_toggle -->...<!-- END switch_type_toggle -->`](https://github.com/Etana/template/blob/master/var/switch_type_toggle.md#readme)
     * [`<!-- BEGIN switch_username_select -->...<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/posting_body_wysiwyg.tpl#files)
 
@@ -483,8 +482,7 @@
 * __[`<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme) :__ ligne [`263`](../src/subsilver/posting_body_wysiwyg.tpl#L263)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/posting_body_wysiwyg.tpl#files)
 

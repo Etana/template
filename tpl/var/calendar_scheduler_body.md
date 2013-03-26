@@ -38,8 +38,7 @@
     * [`<!-- BEGIN header_cell -->...<!-- END header_cell -->`](https://github.com/Etana/template/blob/master/var/header_cell.md#readme)
     * [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/row.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/calendar_scheduler_body.tpl#files)
 
@@ -75,8 +74,7 @@
 * __[`<!-- END row -->`](https://github.com/Etana/template/blob/master/var/row.md#readme) :__ ligne [`44`](../src/subsilver/calendar_scheduler_body.tpl#L44)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_scheduler_body.tpl#files)
 

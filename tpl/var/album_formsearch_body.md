@@ -30,8 +30,7 @@
     * [`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme)
     * [`{S_TIME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_TIME_OPTIONS.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_formsearch_body.tpl#files)
 
@@ -50,8 +49,7 @@
 * __[`{S_TIME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_TIME_OPTIONS.md#readme) :__ ligne [`22`](../src/subsilver/album_formsearch_body.tpl#L22)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_formsearch_body.tpl#files)
 

@@ -21,8 +21,7 @@
     * [`{UP_ARROW}`](https://github.com/Etana/template/blob/master/var/UP_ARROW.md#readme)
     * [`<!-- BEGIN _calendar_box -->...<!-- END _calendar_box -->`](https://github.com/Etana/template/blob/master/var/_calendar_box.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/calendar_box.tpl#files)
 
@@ -92,8 +91,7 @@
 * __[`<!-- END _calendar_box -->`](https://github.com/Etana/template/blob/master/var/_calendar_box.md#readme) :__ ligne [`100`](../src/subsilver/calendar_box.tpl#L100)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_box.tpl#files)
 

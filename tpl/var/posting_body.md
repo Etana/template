@@ -242,8 +242,7 @@
     * [`<!-- BEGIN switch_upload_servimg -->...<!-- END switch_upload_servimg -->`](https://github.com/Etana/template/blob/master/var/switch_upload_servimg.md#readme)
     * [`<!-- BEGIN switch_username_select -->...<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/posting_body.tpl#files)
 
@@ -577,8 +576,7 @@
 * __[`<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme) :__ ligne [`90`](../src/subsilver/posting_body.tpl#L90)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/posting_body.tpl#files)
 

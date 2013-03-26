@@ -39,8 +39,7 @@
     * [`<!-- BEGIN switch_groups_joined -->...<!-- END switch_groups_joined -->`](https://github.com/Etana/template/blob/master/var/switch_groups_joined.md#readme)
     * [`<!-- BEGIN switch_groups_remaining -->...<!-- END switch_groups_remaining -->`](https://github.com/Etana/template/blob/master/var/switch_groups_remaining.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/groupcp_user_body.tpl#files)
 
@@ -71,8 +70,7 @@
 * __[`<!-- END switch_groups_remaining -->`](https://github.com/Etana/template/blob/master/var/switch_groups_remaining.md#readme) :__ ligne [`41`](../src/subsilver/groupcp_user_body.tpl#L41)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/groupcp_user_body.tpl#files)
 

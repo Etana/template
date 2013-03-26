@@ -18,8 +18,7 @@
     * [`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)
     * [`<!-- BEGIN birthday_list_box -->...<!-- END birthday_list_box -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/birthday_list_box.tpl#files)
 
@@ -69,8 +68,7 @@
 * __[`<!-- END birthday_list_box -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.md#readme) :__ ligne [`59`](../src/subsilver/birthday_list_box.tpl#L59)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/birthday_list_box.tpl#files)
 

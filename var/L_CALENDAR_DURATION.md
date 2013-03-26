@@ -13,9 +13,9 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`848`](../tpl/src/subsilver/posting_body.tpl#L848)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`820`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L820)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`848`](../tpl/src/subsilver/posting_body.tpl#L848)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`679`](../tpl/src/punbb/posting_body.tpl#L679)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`679`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L679)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`679`](../tpl/src/punbb/posting_body.tpl#L679)

@@ -42,8 +42,7 @@
     * [`<!-- BEGIN iprow -->...<!-- END iprow -->`](https://github.com/Etana/template/blob/master/var/iprow.md#readme)
     * [`<!-- BEGIN userrow -->...<!-- END userrow -->`](https://github.com/Etana/template/blob/master/var/userrow.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/modcp_viewip.tpl#files)
 
@@ -89,8 +88,7 @@
 * __[`<!-- END userrow -->`](https://github.com/Etana/template/blob/master/var/userrow.md#readme) :__ ligne [`59`](../src/subsilver/modcp_viewip.tpl#L59)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/modcp_viewip.tpl#files)
 

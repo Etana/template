@@ -28,8 +28,7 @@
     * [`<!-- BEGIN switch_recent -->...<!-- END switch_recent -->`](https://github.com/Etana/template/blob/master/var/switch_recent.md#readme)
     * [`<!-- BEGIN switch_viewed -->...<!-- END switch_viewed -->`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_overview_top10.tpl#files)
 
@@ -59,8 +58,7 @@
 * __[`<!-- END switch_viewed -->`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme) :__ ligne [`28`](../src/subsilver/album_overview_top10.tpl#L28)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_overview_top10.tpl#files)
 

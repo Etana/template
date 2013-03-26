@@ -63,8 +63,7 @@
     * [`<!-- BEGIN save_action -->...<!-- END save_action -->`](https://github.com/Etana/template/blob/master/var/save_action.md#readme)
     * [`<!-- BEGIN sepia_bw_enabled -->...<!-- END sepia_bw_enabled -->`](https://github.com/Etana/template/blob/master/var/sepia_bw_enabled.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_nuffimage_box.tpl#files)
 
@@ -122,8 +121,7 @@
 * __[`<!-- END sepia_bw_enabled -->`](https://github.com/Etana/template/blob/master/var/sepia_bw_enabled.md#readme) :__ ligne [`100`](../src/subsilver/album_nuffimage_box.tpl#L100)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_nuffimage_box.tpl#files)
 

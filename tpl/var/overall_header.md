@@ -70,8 +70,7 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
     * [`<!-- BEGIN switch_ticker -->...<!-- END switch_ticker -->`](https://github.com/Etana/template/blob/master/var/switch_ticker.md#readme)
     * [`<!-- BEGIN switch_ticker_new -->...<!-- END switch_ticker_new -->`](https://github.com/Etana/template/blob/master/var/switch_ticker_new.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/overall_header.tpl#files)
 
@@ -190,8 +189,7 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 * __[`<!-- END switch_ticker_new -->`](https://github.com/Etana/template/blob/master/var/switch_ticker_new.md#readme) :__ lignes [`125`](../src/subsilver/overall_header.tpl#L125), [`177`](../src/subsilver/overall_header.tpl#L177), [`289`](../src/subsilver/overall_header.tpl#L289)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/overall_header.tpl#files)
 

@@ -95,8 +95,7 @@ Le contenu du template remplace la variable [`{PENDING_USER_BOX}`](https://githu
     * [`<!-- BEGIN switch_subscribe_group_input -->...<!-- END switch_subscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_subscribe_group_input.md#readme)
     * [`<!-- BEGIN switch_unsubscribe_group_input -->...<!-- END switch_unsubscribe_group_input -->`](https://github.com/Etana/template/blob/master/var/switch_unsubscribe_group_input.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/groupcp_pending_info.tpl#files)
 
@@ -125,8 +124,7 @@ Le contenu du template remplace la variable [`{PENDING_USER_BOX}`](https://githu
 * __[`<!-- END pending_members_row -->`](https://github.com/Etana/template/blob/master/var/pending_members_row.md#readme) :__ ligne [`24`](../src/subsilver/groupcp_pending_info.tpl#L24)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/groupcp_pending_info.tpl#files)
 

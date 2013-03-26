@@ -30,8 +30,7 @@
     * [`<!-- BEGIN switch_login_small -->...<!-- END switch_login_small -->`](https://github.com/Etana/template/blob/master/var/switch_login_small.md#readme)
     * [`<!-- BEGIN switch_profile -->...<!-- END switch_profile -->`](https://github.com/Etana/template/blob/master/var/switch_profile.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_login.tpl#files)
 
@@ -63,8 +62,7 @@
 * __[`<!-- END switch_profile -->`](https://github.com/Etana/template/blob/master/var/switch_profile.md#readme) :__ ligne [`95`](../src/subsilver/mod_login.tpl#L95)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_login.tpl#files)
 

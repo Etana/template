@@ -71,8 +71,7 @@ Ce template affiche les forums : `/fX-`
     * [`<!-- BEGIN switch_legend -->...<!-- END switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme)
     * [`<!-- BEGIN switch_user_authpost -->...<!-- END switch_user_authpost -->`](https://github.com/Etana/template/blob/master/var/switch_user_authpost.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/viewforum_body.tpl#files)
 
@@ -136,8 +135,7 @@ Ce template affiche les forums : `/fX-`
 * __[`<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ ligne [`83`](../src/subsilver/viewforum_body.tpl#L83)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/viewforum_body.tpl#files)
 

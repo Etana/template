@@ -30,8 +30,7 @@
     * [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
     * [`<!-- BEGIN avatar_row -->...<!-- END avatar_row -->`](https://github.com/Etana/template/blob/master/var/avatar_row.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/profile_avatar_gallery.tpl#files)
 
@@ -59,8 +58,7 @@
 * __[`<!-- END avatar_row -->`](https://github.com/Etana/template/blob/master/var/avatar_row.md#readme) :__ ligne [`25`](../src/subsilver/profile_avatar_gallery.tpl#L25)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_avatar_gallery.tpl#files)
 

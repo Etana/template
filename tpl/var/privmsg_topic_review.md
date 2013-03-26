@@ -23,8 +23,7 @@
     * [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
     * [`<!-- BEGIN switch_inline_mode -->...<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/privmsg_topic_review.tpl#files)
 
@@ -49,8 +48,7 @@
 * __[`<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme) :__ lignes [`8`](../src/subsilver/privmsg_topic_review.tpl#L8), [`39`](../src/subsilver/privmsg_topic_review.tpl#L39)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/privmsg_topic_review.tpl#files)
 

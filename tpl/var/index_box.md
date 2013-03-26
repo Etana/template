@@ -31,8 +31,7 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
     * [`<!-- BEGIN catrow -->...<!-- END catrow -->`](https://github.com/Etana/template/blob/master/var/catrow.md#readme)
     * [`<!-- BEGIN switch_on_index -->...<!-- END switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/index_box.tpl#files)
 
@@ -105,8 +104,7 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
 * __[`<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ lignes [`8`](../src/subsilver/index_box.tpl#L8), [`15`](../src/subsilver/index_box.tpl#L15)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/index_box.tpl#files)
 

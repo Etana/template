@@ -13,8 +13,8 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`agreement`](../tpl/var/agreement.md#readme) :__ ligne [`8`](../tpl/src/subsilver/agreement.tpl#L8)
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`20`](../tpl/src/subsilver/overall_header.tpl#L20), [`220`](../tpl/src/subsilver/overall_header.tpl#L220)
+* __[`agreement`](../tpl/var/agreement.md#readme) :__ ligne [`8`](../tpl/src/subsilver/agreement.tpl#L8)
 * __[`simple_header`](../tpl/var/simple_header.md#readme) :__ ligne [`5`](../tpl/src/subsilver/simple_header.tpl#L5)
 
 ### Version PunBB

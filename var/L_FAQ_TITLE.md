@@ -19,6 +19,6 @@ Chaîne de texte.
 * __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`19`](../tpl/src/subsilver/faq_dhtml.tpl#L19)
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`17`](../tpl/src/punbb/profile_avatar_gallery.tpl#L17)
 * __[`faq_body`](../tpl/var/faq_body.md#readme) :__ ligne [`17`](../tpl/src/punbb/faq_body.tpl#L17)
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`17`](../tpl/src/punbb/profile_avatar_gallery.tpl#L17)
 * __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`17`](../tpl/src/punbb/faq_dhtml.tpl#L17)

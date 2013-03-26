@@ -19,8 +19,7 @@
     * [`<!-- BEGIN not_table_row -->...<!-- END not_table_row -->`](https://github.com/Etana/template/blob/master/var/not_table_row.md#readme)
     * [`<!-- BEGIN table_row -->...<!-- END table_row -->`](https://github.com/Etana/template/blob/master/var/table_row.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/standard.tpl#files)
 
@@ -35,8 +34,7 @@
 * __[`<!-- END table_row -->`](https://github.com/Etana/template/blob/master/var/table_row.md#readme) :__ ligne [`8`](../src/subsilver/standard.tpl#L8)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/standard.tpl#files)
 

@@ -17,8 +17,7 @@
     * [`{L_TOP_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_TOP_POSTERS.md#readme)
     * [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_top_posters.tpl#files)
 
@@ -33,8 +32,7 @@
 * __[`<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme) :__ ligne [`13`](../src/subsilver/mod_top_posters.tpl#L13)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_top_posters.tpl#files)
 

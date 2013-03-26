@@ -84,8 +84,7 @@
     * [`<!-- BEGIN pics_nav -->...<!-- END pics_nav -->`](https://github.com/Etana/template/blob/master/var/pics_nav.md#readme)
     * [`<!-- BEGIN switch_exif_enabled -->...<!-- END switch_exif_enabled -->`](https://github.com/Etana/template/blob/master/var/switch_exif_enabled.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_showpage_body.tpl#files)
 
@@ -198,8 +197,7 @@
 * __[`<!-- END switch_exif_enabled -->`](https://github.com/Etana/template/blob/master/var/switch_exif_enabled.md#readme) :__ ligne [`367`](../src/subsilver/album_showpage_body.tpl#L367)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_showpage_body.tpl#files)
 

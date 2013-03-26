@@ -20,8 +20,7 @@
     * [`{META}`](https://github.com/Etana/template/blob/master/var/META.md#readme)
     * [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/simple_header.tpl#files)
 
@@ -43,8 +42,7 @@
 * __[`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`9`](../src/subsilver/simple_header.tpl#L9)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/simple_header.tpl#files)
 

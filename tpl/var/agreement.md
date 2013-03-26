@@ -28,8 +28,7 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
     * [`{U_AGREE_OVER13}`](https://github.com/Etana/template/blob/master/var/U_AGREE_OVER13.md#readme)
     * [`<!-- BEGIN switch_fb_explain -->...<!-- END switch_fb_explain -->`](https://github.com/Etana/template/blob/master/var/switch_fb_explain.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/agreement.tpl#files)
 
@@ -49,8 +48,7 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 * __[`<!-- END switch_fb_explain -->`](https://github.com/Etana/template/blob/master/var/switch_fb_explain.md#readme) :__ ligne [`21`](../src/subsilver/agreement.tpl#L21)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/agreement.tpl#files)
 

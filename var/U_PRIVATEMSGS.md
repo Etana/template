@@ -13,9 +13,9 @@ Adresse url absolue vers la boîte de réception des messages privés : `/privms
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`greeting_popup`](../tpl/var/greeting_popup.md#readme) :__ ligne [`5`](../tpl/src/subsilver/greeting_popup.tpl#L5)
 * __[`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme) :__ ligne [`12`](../tpl/src/subsilver/privmsgs_popup.tpl#L12)
+* __[`greeting_popup`](../tpl/var/greeting_popup.md#readme) :__ ligne [`5`](../tpl/src/subsilver/greeting_popup.tpl#L5)
 
 ### Version PunBB
-* __[`greeting_popup`](../tpl/var/greeting_popup.md#readme) :__ ligne [`10`](../tpl/src/punbb/greeting_popup.tpl#L10)
 * __[`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme) :__ ligne [`9`](../tpl/src/punbb/privmsgs_popup.tpl#L9)
+* __[`greeting_popup`](../tpl/var/greeting_popup.md#readme) :__ ligne [`10`](../tpl/src/punbb/greeting_popup.tpl#L10)

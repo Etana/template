@@ -20,8 +20,7 @@
     * [`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme)
     * [`{MESSAGE_TITLE}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TITLE.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/message_body.tpl#files)
 
@@ -33,8 +32,7 @@
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`3`](../src/subsilver/message_body.tpl#L3)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/message_body.tpl#files)
 

@@ -17,8 +17,7 @@
     * [`{L_KEYWORDS}`](https://github.com/Etana/template/blob/master/var/L_KEYWORDS.md#readme)
     * [`<!-- BEGIN li_row -->...<!-- END li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_keywords.tpl#files)
 
@@ -32,8 +31,7 @@
 * __[`<!-- END li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme) :__ ligne [`13`](../src/subsilver/mod_keywords.tpl#L13)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_keywords.tpl#files)
 

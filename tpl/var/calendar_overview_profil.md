@@ -20,8 +20,7 @@
     * [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
     * [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/calendar_overview_profil.tpl#files)
 
@@ -35,8 +34,7 @@
 * __[`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)<a href="https://fa-tvars.appspot.com/var/TXT_CLASS">*</a> :__ ligne [`6`](../src/subsilver/calendar_overview_profil.tpl#L6)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_overview_profil.tpl#files)
 

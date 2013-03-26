@@ -32,8 +32,7 @@ Ce template affiche la page `/viewonline`
     * [`<!-- BEGIN guest_user_row -->...<!-- END guest_user_row -->`](https://github.com/Etana/template/blob/master/var/guest_user_row.md#readme)
     * [`<!-- BEGIN reg_user_row -->...<!-- END reg_user_row -->`](https://github.com/Etana/template/blob/master/var/reg_user_row.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/viewonline_body.tpl#files)
 
@@ -76,8 +75,7 @@ Ce template affiche la page `/viewonline`
 * __[`<!-- END reg_user_row -->`](https://github.com/Etana/template/blob/master/var/reg_user_row.md#readme) :__ ligne [`29`](../src/subsilver/viewonline_body.tpl#L29)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/viewonline_body.tpl#files)
 

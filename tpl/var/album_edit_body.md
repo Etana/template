@@ -41,8 +41,7 @@
     * [`{U_FORUM_INDEX}`](https://github.com/Etana/template/blob/master/var/U_FORUM_INDEX.md#readme)
     * [`<!-- BEGIN move_to_category -->...<!-- END move_to_category -->`](https://github.com/Etana/template/blob/master/var/move_to_category.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_edit_body.tpl#files)
 
@@ -75,8 +74,7 @@
 * __[`<!-- END move_to_category -->`](https://github.com/Etana/template/blob/master/var/move_to_category.md#readme) :__ ligne [`57`](../src/subsilver/album_edit_body.tpl#L57)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_edit_body.tpl#files)
 

@@ -43,8 +43,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
     * [`<!-- BEGIN switch_menu -->...<!-- END switch_menu -->`](https://github.com/Etana/template/blob/master/var/switch_menu.md#readme)
     * [`<!-- BEGIN watchsearch1 -->...<!-- END watchsearch1 -->`](https://github.com/Etana/template/blob/master/var/watchsearch1.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/search_results_topics.tpl#files)
 
@@ -100,8 +99,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 * __[`<!-- END watchsearch1 -->`](https://github.com/Etana/template/blob/master/var/watchsearch1.md#readme) :__ lignes [`27`](../src/subsilver/search_results_topics.tpl#L27), [`50`](../src/subsilver/search_results_topics.tpl#L50), [`64`](../src/subsilver/search_results_topics.tpl#L64)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/search_results_topics.tpl#files)
 

@@ -21,8 +21,7 @@
     * [`{switch_facebook_logout_TMP}`](https://github.com/Etana/template/blob/master/var/switch_facebook_logout_TMP.md#readme)
     * [`<!-- BEGIN switch_footer_links -->...<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/overall_footer_end.tpl#files)
 
@@ -49,8 +48,7 @@
 * __[`<!-- END switch_footer_links -->`](https://github.com/Etana/template/blob/master/var/switch_footer_links.md#readme) :__ ligne [`23`](../src/subsilver/overall_footer_end.tpl#L23)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/overall_footer_end.tpl#files)
 

@@ -29,8 +29,7 @@
     * [`{S_MODCP_ACTION}`](https://github.com/Etana/template/blob/master/var/S_MODCP_ACTION.md#readme)
     * [`<!-- BEGIN switch_leave_shadow -->...<!-- END switch_leave_shadow -->`](https://github.com/Etana/template/blob/master/var/switch_leave_shadow.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/modcp_move.tpl#files)
 
@@ -52,8 +51,7 @@
 * __[`<!-- END switch_leave_shadow -->`](https://github.com/Etana/template/blob/master/var/switch_leave_shadow.md#readme) :__ ligne [`24`](../src/subsilver/modcp_move.tpl#L24)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/modcp_move.tpl#files)
 

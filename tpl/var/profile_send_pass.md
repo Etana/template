@@ -28,8 +28,7 @@
     * [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
     * [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/profile_send_pass.tpl#files)
 
@@ -49,8 +48,7 @@
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`4`](../src/subsilver/profile_send_pass.tpl#L4)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_send_pass.tpl#files)
 

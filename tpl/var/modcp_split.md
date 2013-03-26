@@ -38,8 +38,7 @@
     * [`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme)
     * [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/modcp_split.tpl#files)
 
@@ -77,8 +76,7 @@
 * __[`<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme) :__ ligne [`58`](../src/subsilver/modcp_split.tpl#L58)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/modcp_split.tpl#files)
 

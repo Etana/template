@@ -19,8 +19,7 @@
     * [`{U_REPORT_LIST}`](https://github.com/Etana/template/blob/master/var/U_REPORT_LIST.md#readme)
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/report_popup_body.tpl#files)
 
@@ -31,8 +30,7 @@
 * __[`{U_REPORT_LIST}`](https://github.com/Etana/template/blob/master/var/U_REPORT_LIST.md#readme)<a href="https://fa-tvars.appspot.com/var/U_REPORT_LIST">*</a> :__ ligne [`5`](../src/subsilver/report_popup_body.tpl#L5)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/report_popup_body.tpl#files)
 

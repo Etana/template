@@ -27,8 +27,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est 
     * [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](https://github.com/Etana/template/blob/master/var/faq_block.md#readme)
     * [`<!-- BEGIN faq_block_link -->...<!-- END faq_block_link -->`](https://github.com/Etana/template/blob/master/var/faq_block_link.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/faq_body.tpl#files)
 
@@ -55,8 +54,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est 
 * __[`<!-- END faq_block_link -->`](https://github.com/Etana/template/blob/master/var/faq_block_link.md#readme) :__ ligne [`15`](../src/subsilver/faq_body.tpl#L15)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/faq_body.tpl#files)
 

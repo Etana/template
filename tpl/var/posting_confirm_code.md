@@ -50,8 +50,7 @@
     * [`{V_TYPE_FORUM}`](https://github.com/Etana/template/blob/master/var/V_TYPE_FORUM.md#readme)
     * [`{V_USERNAME}`](https://github.com/Etana/template/blob/master/var/V_USERNAME.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/posting_confirm_code.tpl#files)
 
@@ -94,8 +93,7 @@
 * __[`{V_USERNAME}`](https://github.com/Etana/template/blob/master/var/V_USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/V_USERNAME">*</a> :__ ligne [`9`](../src/subsilver/posting_confirm_code.tpl#L9)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/posting_confirm_code.tpl#files)
 

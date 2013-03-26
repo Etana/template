@@ -17,8 +17,7 @@
     * [`{L_MOST_ACTIVE_STARTERS}`](https://github.com/Etana/template/blob/master/var/L_MOST_ACTIVE_STARTERS.md#readme)
     * [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_most_active_starters.tpl#files)
 
@@ -33,8 +32,7 @@
 * __[`<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme) :__ ligne [`13`](../src/subsilver/mod_most_active_starters.tpl#L13)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_most_active_starters.tpl#files)
 

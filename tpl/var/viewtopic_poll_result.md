@@ -27,8 +27,7 @@
     * [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
     * [`<!-- BEGIN switch_hide_result -->...<!-- END switch_hide_result -->`](https://github.com/Etana/template/blob/master/var/switch_hide_result.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/viewtopic_poll_result.tpl#files)
 
@@ -56,8 +55,7 @@
 * __[`<!-- END switch_hide_result -->`](https://github.com/Etana/template/blob/master/var/switch_hide_result.md#readme) :__ ligne [`47`](../src/subsilver/viewtopic_poll_result.tpl#L47)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/viewtopic_poll_result.tpl#files)
 

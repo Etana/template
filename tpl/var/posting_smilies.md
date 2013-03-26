@@ -24,8 +24,7 @@
     * [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
     * [`<!-- BEGIN switch_smilies_extra -->...<!-- END switch_smilies_extra -->`](https://github.com/Etana/template/blob/master/var/switch_smilies_extra.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/posting_smilies.tpl#files)
 
@@ -49,8 +48,7 @@
 * __[`<!-- END switch_smilies_extra -->`](https://github.com/Etana/template/blob/master/var/switch_smilies_extra.md#readme) :__ ligne [`29`](../src/subsilver/posting_smilies.tpl#L29)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/posting_smilies.tpl#files)
 

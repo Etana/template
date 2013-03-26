@@ -107,8 +107,7 @@
     * [`<!-- BEGIN topicpagination -->...<!-- END topicpagination -->`](https://github.com/Etana/template/blob/master/var/topicpagination.md#readme)
     * [`<!-- BEGIN viewtopic_bottom -->...<!-- END viewtopic_bottom -->`](https://github.com/Etana/template/blob/master/var/viewtopic_bottom.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/viewtopic_body.tpl#files)
 
@@ -317,8 +316,7 @@
 * __[`<!-- END viewtopic_bottom -->`](https://github.com/Etana/template/blob/master/var/viewtopic_bottom.md#readme) :__ lignes [`435`](../src/subsilver/viewtopic_body.tpl#L435), [`464`](../src/subsilver/viewtopic_body.tpl#L464)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/viewtopic_body.tpl#files)
 

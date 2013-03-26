@@ -25,8 +25,7 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
     * [`{S_CONFIRM_ACTION}`](https://github.com/Etana/template/blob/master/var/S_CONFIRM_ACTION.md#readme)
     * [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/confirm_body.tpl#files)
 
@@ -43,8 +42,7 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`3`](../src/subsilver/confirm_body.tpl#L3)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/confirm_body.tpl#files)
 

@@ -64,8 +64,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
     * [`<!-- BEGIN switch_user_login_form_footer -->...<!-- END switch_user_login_form_footer -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.md#readme)
     * [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_user_login_form_header -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/index_body.tpl#files)
 
@@ -170,8 +169,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 * __[`<!-- END switch_user_login_form_header -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.md#readme) :__ ligne [`81`](../src/subsilver/index_body.tpl#L81)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/index_body.tpl#files)
 

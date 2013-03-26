@@ -17,8 +17,7 @@
     * [`{L_MOST_VIEWED_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_MOST_VIEWED_TOPICS.md#readme)
     * [`<!-- BEGIN TOPIC -->...<!-- END TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_most_viewed_topics.tpl#files)
 
@@ -33,8 +32,7 @@
 * __[`<!-- END TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme) :__ ligne [`12`](../src/subsilver/mod_most_viewed_topics.tpl#L12)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_most_viewed_topics.tpl#files)
 

@@ -13,8 +13,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`merge_body`](../tpl/var/merge_body.md#readme) :__ ligne [`14`](../tpl/src/subsilver/merge_body.tpl#L14)
 * __[`calendar_overview_topic`](../tpl/var/calendar_overview_topic.md#readme) :__ ligne [`3`](../tpl/src/subsilver/calendar_overview_topic.tpl#L3)
+* __[`merge_body`](../tpl/var/merge_body.md#readme) :__ ligne [`14`](../tpl/src/subsilver/merge_body.tpl#L14)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`98`](../tpl/src/subsilver/viewtopic_body.tpl#L98), [`270`](../tpl/src/subsilver/viewtopic_body.tpl#L270)
 
 ### Version PunBB

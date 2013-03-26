@@ -17,8 +17,7 @@
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
     * [`<!-- BEGIN switch_view_stats -->...<!-- END switch_view_stats -->`](https://github.com/Etana/template/blob/master/var/switch_view_stats.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/simple_footer.tpl#files)
 

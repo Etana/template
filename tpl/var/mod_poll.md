@@ -17,8 +17,7 @@
     * [`{L_POLL}`](https://github.com/Etana/template/blob/master/var/L_POLL.md#readme)
     * [`{POLL_DISPLAY}`](https://github.com/Etana/template/blob/master/var/POLL_DISPLAY.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_poll.tpl#files)
 
@@ -28,8 +27,7 @@
 * __[`{POLL_DISPLAY}`](https://github.com/Etana/template/blob/master/var/POLL_DISPLAY.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_DISPLAY">*</a> :__ ligne [`10`](../src/subsilver/mod_poll.tpl#L10)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_poll.tpl#files)
 

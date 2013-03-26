@@ -36,8 +36,7 @@
     * [`<!-- BEGIN pic_backup_link -->...<!-- END pic_backup_link -->`](https://github.com/Etana/template/blob/master/var/pic_backup_link.md#readme)
     * [`<!-- BEGIN stat_link -->...<!-- END stat_link -->`](https://github.com/Etana/template/blob/master/var/stat_link.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_index_body.tpl#files)
 
@@ -111,8 +110,7 @@
 * __[`<!-- END stat_link -->`](https://github.com/Etana/template/blob/master/var/stat_link.md#readme) :__ ligne [`115`](../src/subsilver/album_index_body.tpl#L115)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_index_body.tpl#files)
 

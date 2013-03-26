@@ -30,8 +30,7 @@
     * [`<!-- BEGIN simple_footer -->...<!-- END simple_footer -->`](https://github.com/Etana/template/blob/master/var/simple_footer.md#readme)
     * [`<!-- BEGIN simple_header -->...<!-- END simple_header -->`](https://github.com/Etana/template/blob/master/var/simple_header.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/portal_body.tpl#files)
 
@@ -69,8 +68,7 @@
 * __[`<!-- END giefmod4 -->`](https://github.com/Etana/template/blob/master/var/giefmod4.md#readme) :__ ligne [`45`](../src/subsilver/portal_body.tpl#L45)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/portal_body.tpl#files)
 

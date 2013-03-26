@@ -21,8 +21,7 @@ Ce template modifie le popup d'anniversaire.
     * [`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme)
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/greeting_popup.tpl#files)
 
@@ -34,8 +33,7 @@ Ce template modifie le popup d'anniversaire.
 * __[`{U_PRIVATEMSGS}`](https://github.com/Etana/template/blob/master/var/U_PRIVATEMSGS.md#readme) :__ ligne [`5`](../src/subsilver/greeting_popup.tpl#L5)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/greeting_popup.tpl#files)
 

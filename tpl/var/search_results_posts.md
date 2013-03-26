@@ -39,8 +39,7 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
     * [`<!-- BEGIN searchresults -->...<!-- END searchresults -->`](https://github.com/Etana/template/blob/master/var/searchresults.md#readme)
     * [`<!-- BEGIN switch_image_resize -->...<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/search_results_posts.tpl#files)
 
@@ -85,8 +84,7 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
 * __[`<!-- END switch_image_resize -->`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme) :__ ligne [`53`](../src/subsilver/search_results_posts.tpl#L53)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/search_results_posts.tpl#files)
 

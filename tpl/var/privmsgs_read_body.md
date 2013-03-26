@@ -68,8 +68,7 @@
     * [`<!-- BEGIN switch_save -->...<!-- END switch_save -->`](https://github.com/Etana/template/blob/master/var/switch_save.md#readme)
     * [`<!-- BEGIN switch_user_contact -->...<!-- END switch_user_contact -->`](https://github.com/Etana/template/blob/master/var/switch_user_contact.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/privmsgs_read_body.tpl#files)
 
@@ -134,8 +133,7 @@
 * __[`<!-- END switch_user_contact -->`](https://github.com/Etana/template/blob/master/var/switch_user_contact.md#readme) :__ ligne [`79`](../src/subsilver/privmsgs_read_body.tpl#L79)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/privmsgs_read_body.tpl#files)
 

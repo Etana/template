@@ -163,8 +163,7 @@
     * [`<!-- BEGIN switch_informations_menu -->...<!-- END switch_informations_menu -->`](https://github.com/Etana/template/blob/master/var/switch_informations_menu.md#readme)
     * [`<!-- BEGIN switch_preferences_menu -->...<!-- END switch_preferences_menu -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/profile_add_body.tpl#files)
 
@@ -369,8 +368,7 @@
 * __[`<!-- END switch_preferences_menu -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.md#readme) :__ lignes [`309`](../src/subsilver/profile_add_body.tpl#L309), [`408`](../src/subsilver/profile_add_body.tpl#L408)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_add_body.tpl#files)
 

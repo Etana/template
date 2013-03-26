@@ -59,8 +59,7 @@ Ce template touche la partie contribution de votre forum : `/donate`.
     * [`<!-- BEGIN paypal_confirm -->...<!-- END paypal_confirm -->`](https://github.com/Etana/template/blob/master/var/paypal_confirm.md#readme)
     * [`<!-- BEGIN phonecall_method -->...<!-- END phonecall_method -->`](https://github.com/Etana/template/blob/master/var/phonecall_method.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/donate.tpl#files)
 
@@ -135,8 +134,7 @@ Ce template touche la partie contribution de votre forum : `/donate`.
 * __[`<!-- END phonecall_method -->`](https://github.com/Etana/template/blob/master/var/phonecall_method.md#readme) :__ ligne [`125`](../src/subsilver/donate.tpl#L125)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/donate.tpl#files)
 

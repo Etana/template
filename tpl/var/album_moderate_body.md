@@ -60,8 +60,7 @@
     * [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](https://github.com/Etana/template/blob/master/var/no_pics.md#readme)
     * [`<!-- BEGIN picrow -->...<!-- END picrow -->`](https://github.com/Etana/template/blob/master/var/picrow.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_moderate_body.tpl#files)
 
@@ -125,8 +124,7 @@
 * __[`<!-- END picrow -->`](https://github.com/Etana/template/blob/master/var/picrow.md#readme) :__ ligne [`95`](../src/subsilver/album_moderate_body.tpl#L95)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_moderate_body.tpl#files)
 

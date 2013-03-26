@@ -65,8 +65,7 @@
     * [`<!-- BEGIN switch_nuffload_disabled -->...<!-- END switch_nuffload_disabled -->`](https://github.com/Etana/template/blob/master/var/switch_nuffload_disabled.md#readme)
     * [`<!-- BEGIN switch_nuffload_enabled -->...<!-- END switch_nuffload_enabled -->`](https://github.com/Etana/template/blob/master/var/switch_nuffload_enabled.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_upload_body.tpl#files)
 
@@ -140,8 +139,7 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`255`](../src/subsilver/album_upload_body.tpl#L255)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_upload_body.tpl#files)
 

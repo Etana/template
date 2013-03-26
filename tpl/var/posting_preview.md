@@ -26,8 +26,7 @@
     * [`{POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/POST_SUBJECT.md#readme)
     * [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/posting_preview.tpl#files)
 
@@ -43,8 +42,7 @@
 * __[`{POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/POST_SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/POST_SUBJECT">*</a> :__ ligne [`7`](../src/subsilver/posting_preview.tpl#L7)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/posting_preview.tpl#files)
 

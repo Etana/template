@@ -33,8 +33,7 @@
     * [`{U_FORUM_INDEX}`](https://github.com/Etana/template/blob/master/var/U_FORUM_INDEX.md#readme)
     * [`<!-- BEGIN list_pics_block -->...<!-- END list_pics_block -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_cat_top10.tpl#files)
 
@@ -80,8 +79,7 @@
 * __[`<!-- END list_pics_block -->`](https://github.com/Etana/template/blob/master/var/list_pics_block.md#readme) :__ ligne [`49`](../src/subsilver/album_cat_top10.tpl#L49)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_cat_top10.tpl#files)
 

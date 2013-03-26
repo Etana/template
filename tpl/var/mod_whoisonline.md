@@ -19,8 +19,7 @@
     * [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)
     * [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_whoisonline.tpl#files)
 
@@ -36,8 +35,7 @@
 * __[`<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme) :__ ligne [`17`](../src/subsilver/mod_whoisonline.tpl#L17)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_whoisonline.tpl#files)
 

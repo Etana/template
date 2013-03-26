@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`644`](../tpl/src/subsilver/posting_body.tpl#L644)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`633`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L633)
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`644`](../tpl/src/subsilver/posting_body.tpl#L644)

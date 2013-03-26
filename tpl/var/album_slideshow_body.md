@@ -30,8 +30,7 @@
     * [`<!-- BEGIN switch_slideshow -->...<!-- END switch_slideshow -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow.md#readme)
     * [`<!-- BEGIN switch_slideshow_scripts -->...<!-- END switch_slideshow_scripts -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow_scripts.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/album_slideshow_body.tpl#files)
 
@@ -56,8 +55,7 @@
 * __[`<!-- END switch_slideshow_scripts -->`](https://github.com/Etana/template/blob/master/var/switch_slideshow_scripts.md#readme) :__ ligne [`382`](../src/subsilver/album_slideshow_body.tpl#L382)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_slideshow_body.tpl#files)
 

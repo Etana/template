@@ -17,8 +17,7 @@
     * [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
     * [`{L_RSS_FEEDS}`](https://github.com/Etana/template/blob/master/var/L_RSS_FEEDS.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_rss_feeds.tpl#files)
 
@@ -34,8 +33,7 @@
 * __[`{L_RSS_FEEDS}`](https://github.com/Etana/template/blob/master/var/L_RSS_FEEDS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RSS_FEEDS">*</a> :__ ligne [`3`](../src/subsilver/mod_rss_feeds.tpl#L3)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_rss_feeds.tpl#files)
 

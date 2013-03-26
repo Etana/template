@@ -21,8 +21,7 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
     * [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme)
     * [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/jumpbox.tpl#files)
 
@@ -34,8 +33,7 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 * __[`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme) :__ ligne [`4`](../src/subsilver/jumpbox.tpl#L4)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/jumpbox.tpl#files)
 

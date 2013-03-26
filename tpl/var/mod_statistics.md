@@ -20,8 +20,7 @@
     * [`{TOTAL_TOPICS}`](https://github.com/Etana/template/blob/master/var/TOTAL_TOPICS.md#readme)
     * [`{TOTAL_USERS}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_statistics.tpl#files)
 
@@ -34,8 +33,7 @@
 * __[`{TOTAL_USERS}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS.md#readme) :__ ligne [`8`](../src/subsilver/mod_statistics.tpl#L8)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_statistics.tpl#files)
 

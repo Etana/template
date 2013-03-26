@@ -22,8 +22,7 @@
     * [`{U_MARK_READ}`](https://github.com/Etana/template/blob/master/var/U_MARK_READ.md#readme)
     * [`<!-- BEGIN topics_list_box -->...<!-- END topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/topics_list_box.tpl#files)
 
@@ -101,8 +100,7 @@
 * __[`<!-- END topics_list_box -->`](https://github.com/Etana/template/blob/master/var/topics_list_box.md#readme) :__ ligne [`95`](../src/subsilver/topics_list_box.tpl#L95)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/topics_list_box.tpl#files)
 

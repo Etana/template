@@ -26,8 +26,7 @@
     * [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
     * [`{S_LIST_FORUMS}`](https://github.com/Etana/template/blob/master/var/S_LIST_FORUMS.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/merge_select_body.tpl#files)
 
@@ -45,8 +44,7 @@
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`4`](../src/subsilver/merge_select_body.tpl#L4)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/merge_select_body.tpl#files)
 

@@ -44,8 +44,7 @@
     * [`<!-- BEGIN switch_sticky -->...<!-- END switch_sticky -->`](https://github.com/Etana/template/blob/master/var/switch_sticky.md#readme)
     * [`<!-- BEGIN topicrow -->...<!-- END topicrow -->`](https://github.com/Etana/template/blob/master/var/topicrow.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/modcp_body.tpl#files)
 
@@ -93,8 +92,7 @@
 * __[`<!-- END topicrow -->`](https://github.com/Etana/template/blob/master/var/topicrow.md#readme) :__ ligne [`31`](../src/subsilver/modcp_body.tpl#L31)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/modcp_body.tpl#files)
 

@@ -37,8 +37,7 @@
     * [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
     * [`<!-- BEGIN switch_tell_friend -->...<!-- END switch_tell_friend -->`](https://github.com/Etana/template/blob/master/var/switch_tell_friend.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/profile_send_email.tpl#files)
 
@@ -67,8 +66,7 @@
 * __[`<!-- END switch_tell_friend -->`](https://github.com/Etana/template/blob/master/var/switch_tell_friend.md#readme) :__ lignes [`20`](../src/subsilver/profile_send_email.tpl#L20), [`31`](../src/subsilver/profile_send_email.tpl#L31)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_send_email.tpl#files)
 

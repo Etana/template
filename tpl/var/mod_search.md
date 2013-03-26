@@ -22,8 +22,7 @@
     * [`{SEARCH_TOPICS}`](https://github.com/Etana/template/blob/master/var/SEARCH_TOPICS.md#readme)
     * [`{U_SEARCH}`](https://github.com/Etana/template/blob/master/var/U_SEARCH.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/mod_search.tpl#files)
 
@@ -39,8 +38,7 @@
 * __[`{U_SEARCH}`](https://github.com/Etana/template/blob/master/var/U_SEARCH.md#readme)<a href="https://fa-tvars.appspot.com/var/U_SEARCH">*</a> :__ lignes [`9`](../src/subsilver/mod_search.tpl#L9), [`19`](../src/subsilver/mod_search.tpl#L19)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_search.tpl#files)
 

@@ -26,8 +26,7 @@
     * [`{TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/TOPIC_TITLE.md#readme)
     * [`<!-- BEGIN display_forum -->...<!-- END display_forum -->`](https://github.com/Etana/template/blob/master/var/display_forum.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/calendar_overview_topic.tpl#files)
 
@@ -47,8 +46,7 @@
 * __[`<!-- END display_forum -->`](https://github.com/Etana/template/blob/master/var/display_forum.md#readme) :__ ligne [`13`](../src/subsilver/calendar_overview_topic.tpl#L13)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_overview_topic.tpl#files)
 

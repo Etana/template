@@ -23,8 +23,7 @@
     * [`{U_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/U_VIEW_RESULTS.md#readme)
     * [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/viewtopic_poll_ballot.tpl#files)
 
@@ -44,8 +43,7 @@
 * __[`<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme) :__ ligne [`19`](../src/subsilver/viewtopic_poll_ballot.tpl#L19)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/viewtopic_poll_ballot.tpl#files)
 

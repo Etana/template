@@ -22,8 +22,7 @@
     * [`{NAV_SEPARATOR}`](https://github.com/Etana/template/blob/master/var/NAV_SEPARATOR.md#readme)
     * [`{U_CALENDAR}`](https://github.com/Etana/template/blob/master/var/U_CALENDAR.md#readme)
 
-## Template par défaut phpBB2 
-
+## Template par défaut phpBB2
 
 [__Code source__](../src/subsilver/calendar_body.tpl#files)
 
@@ -37,8 +36,7 @@
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`3`](../src/subsilver/calendar_body.tpl#L3)
 
 
-## Template par défaut PunBB 
-
+## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_body.tpl#files)
 
