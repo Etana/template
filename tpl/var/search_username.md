@@ -1,24 +1,19 @@
 # Template search_username [9/19]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=121) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=121) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=121) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=121) > [`search_username`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=121)
-
-## Code source
-* [__phpBB2__](../src/subsilver/search_username.tpl#files)
-* [__PunBB__](../src/punbb/search_username.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/search_username)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
     * [`{L_SEARCH_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_EXPLAIN.md#readme)
     * [`{L_SEARCH_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_USERNAME.md#readme)
@@ -29,7 +24,12 @@
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
     * [`<!-- BEGIN switch_select_name -->...<!-- END switch_select_name -->`](https://github.com/Etana/template/blob/master/var/switch_select_name.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/search_username.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme) :__ ligne [`29`](../src/punbb/search_username.tpl#L29)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`15`](../src/punbb/search_username.tpl#L15)
@@ -45,7 +45,12 @@
 * __[`<!-- END switch_select_name -->`](https://github.com/Etana/template/blob/master/var/switch_select_name.md#readme) :__ ligne [`25`](../src/punbb/search_username.tpl#L25)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/search_username.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme) :__ ligne [`21`](../src/subsilver/search_username.tpl#L21)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`12`](../src/subsilver/search_username.tpl#L12)

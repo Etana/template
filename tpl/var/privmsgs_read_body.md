@@ -1,24 +1,19 @@
 # Template privmsgs_read_body [28/105]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=514) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=514) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=post&sub=templates,?mode=edit_post&part=themes&sub=templates&t=514) > [`Templates | Poster & Messages Privés`](http://votre-forum.appspot.com/admin/?mode=post&part=themes&sub=templates#?mode=edit_post&part=themes&sub=templates&t=514) > [`privmsgs_read_body`](http://votre-forum.appspot.com/admin/?mode=edit_post&part=themes&sub=templates&t=514)
-
-## Code source
-* [__phpBB2__](../src/subsilver/privmsgs_read_body.tpl#files)
-* [__PunBB__](../src/punbb/privmsgs_read_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_read_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{AIM_IMG}`](https://github.com/Etana/template/blob/master/var/AIM_IMG.md#readme)
     * [`{AVATAR_FROM}`](https://github.com/Etana/template/blob/master/var/AVATAR_FROM.md#readme)
     * [`{BOX_NAME}`](https://github.com/Etana/template/blob/master/var/BOX_NAME.md#readme)
@@ -73,7 +68,12 @@
     * [`<!-- BEGIN switch_save -->...<!-- END switch_save -->`](https://github.com/Etana/template/blob/master/var/switch_save.md#readme)
     * [`<!-- BEGIN switch_user_contact -->...<!-- END switch_user_contact -->`](https://github.com/Etana/template/blob/master/var/switch_user_contact.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/privmsgs_read_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{AIM_IMG}`](https://github.com/Etana/template/blob/master/var/AIM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/AIM_IMG">*</a> :__ ligne [`69`](../src/punbb/privmsgs_read_body.tpl#L69)
 * __[`{AVATAR_FROM}`](https://github.com/Etana/template/blob/master/var/AVATAR_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR_FROM">*</a> :__ ligne [`53`](../src/punbb/privmsgs_read_body.tpl#L53)
@@ -141,7 +141,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/privmsgs_read_body.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/privmsgs_read_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{AIM_IMG}`](https://github.com/Etana/template/blob/master/var/AIM_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/AIM_IMG">*</a> :__ ligne [`61`](../src/subsilver/privmsgs_read_body.tpl#L61)
 * __[`{AVATAR_FROM}`](https://github.com/Etana/template/blob/master/var/AVATAR_FROM.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR_FROM">*</a> :__ ligne [`32`](../src/subsilver/privmsgs_read_body.tpl#L32)

@@ -1,24 +1,19 @@
 # Template album_formsearch_body [31/34]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=204) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=204) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=204) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=204) > [`album_formsearch_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=204)
-
-## Code source
-* [__phpBB2__](../src/subsilver/album_formsearch_body.tpl#files)
-* [__PunBB__](../src/punbb/album_formsearch_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_formsearch_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_GALLERIES}`](https://github.com/Etana/template/blob/master/var/L_GALLERIES.md#readme)
     * [`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)
@@ -35,7 +30,12 @@
     * [`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme)
     * [`{S_TIME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_TIME_OPTIONS.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/album_formsearch_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/album_formsearch_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/album_formsearch_body.tpl#L7)
@@ -64,7 +64,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/album_formsearch_body.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/album_formsearch_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_GALLERIES}`](https://github.com/Etana/template/blob/master/var/L_GALLERIES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_GALLERIES">*</a> :__ ligne [`17`](../src/subsilver/album_formsearch_body.tpl#L17)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`25`](../src/subsilver/album_formsearch_body.tpl#L25)

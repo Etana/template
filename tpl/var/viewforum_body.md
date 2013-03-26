@@ -1,17 +1,12 @@
 # Template viewforum_body [104/108]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=125) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=125) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=125) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=125) > [`viewforum_body`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=125)
-
-## Code source
-* [__phpBB2__](../src/subsilver/viewforum_body.tpl#files)
-* [__PunBB__](../src/punbb/viewforum_body.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/viewforum_body)
 `Affichage d'un forum`.
@@ -20,7 +15,7 @@ Ce template affiche les forums : `/fX-`
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{BOARD_INDEX}`](https://github.com/Etana/template/blob/master/var/BOARD_INDEX.md#readme)
     * [`{FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_ANNOUNCE_IMG.md#readme)
     * [`{FOLDER_GLOBAL_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)
@@ -76,7 +71,12 @@ Ce template affiche les forums : `/fX-`
     * [`<!-- BEGIN switch_legend -->...<!-- END switch_legend -->`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme)
     * [`<!-- BEGIN switch_user_authpost -->...<!-- END switch_user_authpost -->`](https://github.com/Etana/template/blob/master/var/switch_user_authpost.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/viewforum_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{BOARD_INDEX}`](https://github.com/Etana/template/blob/master/var/BOARD_INDEX.md#readme) :__ ligne [`28`](../src/punbb/viewforum_body.tpl#L28)
 * __[`{FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_ANNOUNCE_IMG.md#readme) :__ ligne [`76`](../src/punbb/viewforum_body.tpl#L76)
@@ -139,7 +139,12 @@ Ce template affiche les forums : `/fX-`
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`26`](../src/punbb/viewforum_body.tpl#L26)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/viewforum_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{BOARD_INDEX}`](https://github.com/Etana/template/blob/master/var/BOARD_INDEX.md#readme) :__ ligne [`1`](../src/subsilver/viewforum_body.tpl#L1)
 * __[`{FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_ANNOUNCE_IMG.md#readme) :__ ligne [`104`](../src/subsilver/viewforum_body.tpl#L104)

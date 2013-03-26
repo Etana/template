@@ -1,24 +1,19 @@
 # Template poll_result [0/22]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=909) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=909) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=909) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=909) > [`poll_result`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=909)
-
-## Code source
-* [__phpBB2__](../src/subsilver/poll_result.tpl#files)
-* [__PunBB__](../src/punbb/poll_result.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/poll_result)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)
     * [`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)
     * [`{TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/TOTAL_VOTES.md#readme)
@@ -26,7 +21,12 @@
     * [`{VOTE_RCAP_IMG}`](https://github.com/Etana/template/blob/master/var/VOTE_RCAP_IMG.md#readme)
     * [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/poll_result.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOTAL_VOTES">*</a> :__ ligne [`16`](../src/punbb/poll_result.tpl#L16)
 * __[`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_QUESTION">*</a> :__ ligne [`1`](../src/punbb/poll_result.tpl#L1)
@@ -42,7 +42,12 @@
 * __[`<!-- END poll_option -->`](https://github.com/Etana/template/blob/master/var/poll_option.md#readme) :__ ligne [`14`](../src/punbb/poll_result.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/poll_result.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_TOTAL_VOTES}`](https://github.com/Etana/template/blob/master/var/L_TOTAL_VOTES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOTAL_VOTES">*</a> :__ ligne [`32`](../src/subsilver/poll_result.tpl#L32)
 * __[`{POLL_QUESTION}`](https://github.com/Etana/template/blob/master/var/POLL_QUESTION.md#readme)<a href="https://fa-tvars.appspot.com/var/POLL_QUESTION">*</a> :__ ligne [`5`](../src/subsilver/poll_result.tpl#L5)

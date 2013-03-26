@@ -1,24 +1,19 @@
 # Template album_moderate_body [28/112]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=207) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=207) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=207) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=207) > [`album_moderate_body`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=207)
-
-## Code source
-* [__phpBB2__](../src/subsilver/album_moderate_body.tpl#files)
-* [__PunBB__](../src/punbb/album_moderate_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_moderate_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)
@@ -65,7 +60,12 @@
     * [`<!-- BEGIN no_pics -->...<!-- END no_pics -->`](https://github.com/Etana/template/blob/master/var/no_pics.md#readme)
     * [`<!-- BEGIN picrow -->...<!-- END picrow -->`](https://github.com/Etana/template/blob/master/var/picrow.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/album_moderate_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MENU">*</a> :__ ligne [`1`](../src/punbb/album_moderate_body.tpl#L1)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`58`](../src/punbb/album_moderate_body.tpl#L58)
@@ -133,7 +133,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`65`](../src/punbb/album_moderate_body.tpl#L65)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/album_moderate_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MENU">*</a> :__ ligne [`2`](../src/subsilver/album_moderate_body.tpl#L2)
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ ligne [`59`](../src/subsilver/album_moderate_body.tpl#L59)

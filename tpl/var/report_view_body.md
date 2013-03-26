@@ -1,24 +1,19 @@
 # Template report_view_body [21/82]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=609) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=609) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=moderation&sub=templates,?mode=edit_moderation&part=themes&sub=templates&t=609) > [`Templates | Modération`](http://votre-forum.appspot.com/admin/?mode=moderation&part=themes&sub=templates#?mode=edit_moderation&part=themes&sub=templates&t=609) > [`report_view_body`](http://votre-forum.appspot.com/admin/?mode=edit_moderation&part=themes&sub=templates&t=609)
-
-## Code source
-* [__phpBB2__](../src/subsilver/report_view_body.tpl#files)
-* [__PunBB__](../src/punbb/report_view_body.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/report_view_body)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
     * [`{L_LAST_EDIT}`](https://github.com/Etana/template/blob/master/var/L_LAST_EDIT.md#readme)
@@ -43,7 +38,12 @@
     * [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/row.md#readme)
     * [`<!-- BEGIN switch_report_archive -->...<!-- END switch_report_archive -->`](https://github.com/Etana/template/blob/master/var/switch_report_archive.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/report_view_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/report_view_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/report_view_body.tpl#L7)
@@ -99,7 +99,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/report_view_body.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/report_view_body.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`26`](../src/subsilver/report_view_body.tpl#L26)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`1`](../src/subsilver/report_view_body.tpl#L1)

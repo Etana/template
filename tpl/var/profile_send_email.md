@@ -1,24 +1,19 @@
 # Template profile_send_email [21/49]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=705) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=705) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=profil&sub=templates,?mode=edit_profil&part=themes&sub=templates&t=705) > [`Templates | Profil`](http://votre-forum.appspot.com/admin/?mode=profil&part=themes&sub=templates#?mode=edit_profil&part=themes&sub=templates&t=705) > [`profile_send_email`](http://votre-forum.appspot.com/admin/?mode=edit_profil&part=themes&sub=templates&t=705)
-
-## Code source
-* [__phpBB2__](../src/subsilver/profile_send_email.tpl#files)
-* [__PunBB__](../src/punbb/profile_send_email.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_send_email)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{ERROR_BOX}`](https://github.com/Etana/template/blob/master/var/ERROR_BOX.md#readme)
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
@@ -42,7 +37,12 @@
     * [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
     * [`<!-- BEGIN switch_tell_friend -->...<!-- END switch_tell_friend -->`](https://github.com/Etana/template/blob/master/var/switch_tell_friend.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/profile_send_email.tpl#files)
+
+### Positions des variables 
 
 * __[`{ERROR_BOX}`](https://github.com/Etana/template/blob/master/var/ERROR_BOX.md#readme)<a href="https://fa-tvars.appspot.com/var/ERROR_BOX">*</a> :__ ligne [`22`](../src/punbb/profile_send_email.tpl#L22)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/profile_send_email.tpl#L7)
@@ -78,7 +78,12 @@
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/profile_send_email.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/profile_send_email.tpl#files)
+
+### Positions des variables 
 
 * __[`{ERROR_BOX}`](https://github.com/Etana/template/blob/master/var/ERROR_BOX.md#readme)<a href="https://fa-tvars.appspot.com/var/ERROR_BOX">*</a> :__ ligne [`1`](../src/subsilver/profile_send_email.tpl#L1)
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`57`](../src/subsilver/profile_send_email.tpl#L57)

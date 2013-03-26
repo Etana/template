@@ -1,29 +1,29 @@
 # Template mod_social_bookmarking [0/16]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=914) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=914) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=portal&sub=templates,?mode=edit_portal&part=themes&sub=templates&t=914) > [`Templates | Portail`](http://votre-forum.appspot.com/admin/?mode=portal&part=themes&sub=templates#?mode=edit_portal&part=themes&sub=templates&t=914) > [`mod_social_bookmarking`](http://votre-forum.appspot.com/admin/?mode=edit_portal&part=themes&sub=templates&t=914)
-
-## Code source
-* [__phpBB2__](../src/subsilver/mod_social_bookmarking.tpl#files)
-* [__PunBB__](../src/punbb/mod_social_bookmarking.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_social_bookmarking)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
     * [`{L_SOCIAL_BOOKMARKING}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING.md#readme)
     * [`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/mod_social_bookmarking.tpl#files)
+
+### Positions des variables 
 
 * __[`<!-- BEGIN IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)<a href="https://fa-tvars.appspot.com/var/IMGS">*</a> :__ ligne [`6`](../src/punbb/mod_social_bookmarking.tpl#L6)
     * __[`{IMGS.ALT}`](https://github.com/Etana/template/blob/master/var/IMGS.ALT.md#readme)<a href="https://fa-tvars.appspot.com/var/IMGS.ALT">*</a> :__ ligne [`8`](../src/punbb/mod_social_bookmarking.tpl#L8)
@@ -36,7 +36,12 @@
 * __[`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING_EXPLAIN">*</a> :__ ligne [`12`](../src/punbb/mod_social_bookmarking.tpl#L12)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/mod_social_bookmarking.tpl#files)
+
+### Positions des variables 
 
 * __[`<!-- BEGIN IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)<a href="https://fa-tvars.appspot.com/var/IMGS">*</a> :__ ligne [`10`](../src/subsilver/mod_social_bookmarking.tpl#L10)
     * __[`{IMGS.ALT}`](https://github.com/Etana/template/blob/master/var/IMGS.ALT.md#readme)<a href="https://fa-tvars.appspot.com/var/IMGS.ALT">*</a> :__ ligne [`12`](../src/subsilver/mod_social_bookmarking.tpl#L12)

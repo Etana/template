@@ -1,24 +1,19 @@
 # Template album_nuffimage_box [2/95]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=208) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=208) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=gallery&sub=templates,?mode=edit_gallery&part=themes&sub=templates&t=208) > [`Templates | Galerie`](http://votre-forum.appspot.com/admin/?mode=gallery&part=themes&sub=templates#?mode=edit_gallery&part=themes&sub=templates&t=208) > [`album_nuffimage_box`](http://votre-forum.appspot.com/admin/?mode=edit_gallery&part=themes&sub=templates&t=208)
-
-## Code source
-* [__phpBB2__](../src/subsilver/album_nuffimage_box.tpl#files)
-* [__PunBB__](../src/punbb/album_nuffimage_box.tpl#files)
 
 ## Description
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_nuffimage_box)
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{IMG_BW}`](https://github.com/Etana/template/blob/master/var/IMG_BW.md#readme)
     * [`{IMG_INFRARED}`](https://github.com/Etana/template/blob/master/var/IMG_INFRARED.md#readme)
     * [`{IMG_INTERLACE}`](https://github.com/Etana/template/blob/master/var/IMG_INTERLACE.md#readme)
@@ -68,7 +63,12 @@
     * [`<!-- BEGIN save_action -->...<!-- END save_action -->`](https://github.com/Etana/template/blob/master/var/save_action.md#readme)
     * [`<!-- BEGIN sepia_bw_enabled -->...<!-- END sepia_bw_enabled -->`](https://github.com/Etana/template/blob/master/var/sepia_bw_enabled.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/album_nuffimage_box.tpl#files)
+
+### Positions des variables 
 
 * __[`{IMG_BW}`](https://github.com/Etana/template/blob/master/var/IMG_BW.md#readme)<a href="https://fa-tvars.appspot.com/var/IMG_BW">*</a> :__ ligne [`54`](../src/punbb/album_nuffimage_box.tpl#L54)
 * __[`{IMG_INFRARED}`](https://github.com/Etana/template/blob/master/var/IMG_INFRARED.md#readme)<a href="https://fa-tvars.appspot.com/var/IMG_INFRARED">*</a> :__ ligne [`65`](../src/punbb/album_nuffimage_box.tpl#L65)
@@ -121,7 +121,12 @@
 * __[`<!-- END sepia_bw_enabled -->`](https://github.com/Etana/template/blob/master/var/sepia_bw_enabled.md#readme) :__ lignes [`40`](../src/punbb/album_nuffimage_box.tpl#L40), [`67`](../src/punbb/album_nuffimage_box.tpl#L67)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/album_nuffimage_box.tpl#files)
+
+### Positions des variables 
 
 * __[`{IMG_BW}`](https://github.com/Etana/template/blob/master/var/IMG_BW.md#readme)<a href="https://fa-tvars.appspot.com/var/IMG_BW">*</a> :__ ligne [`74`](../src/subsilver/album_nuffimage_box.tpl#L74)
 * __[`{IMG_INFRARED}`](https://github.com/Etana/template/blob/master/var/IMG_INFRARED.md#readme)<a href="https://fa-tvars.appspot.com/var/IMG_INFRARED">*</a> :__ ligne [`95`](../src/subsilver/album_nuffimage_box.tpl#L95)

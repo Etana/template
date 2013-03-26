@@ -1,17 +1,12 @@
 # Template faq_dhtml [21/35]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=108) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=108) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=108) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=108) > [`faq_dhtml`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=108)
-
-## Code source
-* [__phpBB2__](../src/subsilver/faq_dhtml.tpl#files)
-* [__PunBB__](../src/punbb/faq_dhtml.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/faq_dhtml)
 `Faq version dhtml`.
@@ -20,7 +15,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template/blob/master/var/L_CFAQ_NOSCRIPT.md#readme)
@@ -32,7 +27,12 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
     * [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
     * [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](https://github.com/Etana/template/blob/master/var/faq_block.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/faq_dhtml.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/faq_dhtml.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/faq_dhtml.tpl#L7)
@@ -61,7 +61,12 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/faq_dhtml.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/faq_dhtml.tpl#files)
+
+### Positions des variables 
 
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`59`](../src/subsilver/faq_dhtml.tpl#L59)
 * __[`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template/blob/master/var/L_CFAQ_NOSCRIPT.md#readme) :__ ligne [`6`](../src/subsilver/faq_dhtml.tpl#L6)

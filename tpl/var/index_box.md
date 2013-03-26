@@ -1,17 +1,12 @@
 # Template index_box [29/99]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=111) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=111) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=111) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=111) > [`index_box`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=111)
-
-## Code source
-* [__phpBB2__](../src/subsilver/index_box.tpl#files)
-* [__PunBB__](../src/punbb/index_box.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/index_box)
 `Page d'accueil - affichage des catégories`.
@@ -20,7 +15,7 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme)
     * [`{L_LASTPOST}`](https://github.com/Etana/template/blob/master/var/L_LASTPOST.md#readme)
     * [`{L_OVERALL_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_OVERALL_POSTERS.md#readme)
@@ -36,7 +31,12 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
     * [`<!-- BEGIN catrow -->...<!-- END catrow -->`](https://github.com/Etana/template/blob/master/var/catrow.md#readme)
     * [`<!-- BEGIN switch_on_index -->...<!-- END switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables 
 
 * __[`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme) :__ ligne [`14`](../src/punbb/index_box.tpl#L14)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`2`](../src/punbb/index_box.tpl#L2)
@@ -93,7 +93,12 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
 * __[`<!-- END switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme) :__ ligne [`73`](../src/punbb/index_box.tpl#L73)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/index_box.tpl#files)
+
+### Positions des variables 
 
 * __[`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme) :__ ligne [`6`](../src/subsilver/index_box.tpl#L6)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`5`](../src/subsilver/index_box.tpl#L5)

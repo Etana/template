@@ -1,17 +1,12 @@
 # Template search_results_topics [84/85]
 * [Chemin](#chemin)
-* [Code source](#code-source)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-    * [Positions PunBB](#positions-punbb)
-    * [Positions phpBB2](#positions-phpbb2)
+* [Template par défaut PunBB](#template-par-dfaut-punbb)
+* [Template par défaut phpBB2](#template-par-dfaut-phpbb2)
 
 ## Chemin
 [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=120) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=120) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=main&sub=templates,?mode=edit_main&part=themes&sub=templates&t=120) > [`Templates | Général`](http://votre-forum.appspot.com/admin/?mode=main&part=themes&sub=templates#?mode=edit_main&part=themes&sub=templates&t=120) > [`search_results_topics`](http://votre-forum.appspot.com/admin/?mode=edit_main&part=themes&sub=templates&t=120)
-
-## Code source
-* [__phpBB2__](../src/subsilver/search_results_topics.tpl#files)
-* [__PunBB__](../src/punbb/search_results_topics.tpl#files)
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/search_results_topics)
 `Résultats de recherche par sujets`.
@@ -20,7 +15,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 
 ## Variables disponibles
 * [__Globales__](../../variables_globales.md#readme)
-* __Propres au template
+* __Propres au template :__
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
@@ -48,7 +43,12 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
     * [`<!-- BEGIN switch_menu -->...<!-- END switch_menu -->`](https://github.com/Etana/template/blob/master/var/switch_menu.md#readme)
     * [`<!-- BEGIN watchsearch1 -->...<!-- END watchsearch1 -->`](https://github.com/Etana/template/blob/master/var/watchsearch1.md#readme)
 
-### Positions PunBB 
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/search_results_topics.tpl#files)
+
+### Positions des variables 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/search_results_topics.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/search_results_topics.tpl#L7)
@@ -97,7 +97,12 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 * __[`<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/search_results_topics.tpl#L14)
 
 
-### Positions phpBB2 
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/search_results_topics.tpl#files)
+
+### Positions des variables 
 
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`69`](../src/subsilver/search_results_topics.tpl#L69)
 * __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`22`](../src/subsilver/search_results_topics.tpl#L22)
