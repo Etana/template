@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/topics_list_box)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
     * [`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme)
     * [`{L_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_TOPICS.md#readme)

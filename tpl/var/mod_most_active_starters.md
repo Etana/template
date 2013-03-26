@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_most_active_starters)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_MOST_ACTIVE_STARTERS}`](https://github.com/Etana/template/blob/master/var/L_MOST_ACTIVE_STARTERS.md#readme)
     * [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
 

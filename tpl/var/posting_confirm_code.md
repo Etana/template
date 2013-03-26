@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_confirm_code)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{F_TYPE_FORUM}`](https://github.com/Etana/template/blob/master/var/F_TYPE_FORUM.md#readme)
     * [`{L_ERROR_MSG}`](https://github.com/Etana/template/blob/master/var/L_ERROR_MSG.md#readme)
     * [`{L_SUBMIT}`](https://github.com/Etana/template/blob/master/var/L_SUBMIT.md#readme)

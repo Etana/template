@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/birthday_list_box)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_BACK_TO_TOP}`](https://github.com/Etana/template/blob/master/var/L_BACK_TO_TOP.md#readme)
     * [`{PAGINATION}`](https://github.com/Etana/template/blob/master/var/PAGINATION.md#readme)
     * [`<!-- BEGIN birthday_list_box -->...<!-- END birthday_list_box -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.md#readme)

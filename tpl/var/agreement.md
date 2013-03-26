@@ -19,8 +19,8 @@
 Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme)
     * [`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme)
     * [`{DO_NOT_AGREE}`](https://github.com/Etana/template/blob/master/var/DO_NOT_AGREE.md#readme)

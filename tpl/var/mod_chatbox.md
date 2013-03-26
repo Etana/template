@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_chatbox)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)
 
 ### Positions PunBB 

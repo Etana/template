@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_read_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{AIM_IMG}`](https://github.com/Etana/template/blob/master/var/AIM_IMG.md#readme)
     * [`{AVATAR_FROM}`](https://github.com/Etana/template/blob/master/var/AVATAR_FROM.md#readme)
     * [`{BOX_NAME}`](https://github.com/Etana/template/blob/master/var/BOX_NAME.md#readme)

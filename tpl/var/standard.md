@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/standard)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme)
     * [`{S_SOURCE}`](https://github.com/Etana/template/blob/master/var/S_SOURCE.md#readme)
     * [`<!-- BEGIN not_table_row -->...<!-- END not_table_row -->`](https://github.com/Etana/template/blob/master/var/not_table_row.md#readme)

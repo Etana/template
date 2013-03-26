@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_overview_profil)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)
     * [`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)
     * [`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)

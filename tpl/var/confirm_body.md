@@ -19,8 +19,8 @@
 Ce template touche toutes les demandes de confirmation comme le bannissement d'un membre, la suppression de messages et sujets, ...
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_NO}`](https://github.com/Etana/template/blob/master/var/L_NO.md#readme)
     * [`{L_YES}`](https://github.com/Etana/template/blob/master/var/L_YES.md#readme)
     * [`{MESSAGE_TEXT}`](https://github.com/Etana/template/blob/master/var/MESSAGE_TEXT.md#readme)

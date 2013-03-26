@@ -19,8 +19,8 @@
 Ce template affiche les forums : `/fX-`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{BOARD_INDEX}`](https://github.com/Etana/template/blob/master/var/BOARD_INDEX.md#readme)
     * [`{FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_ANNOUNCE_IMG.md#readme)
     * [`{FOLDER_GLOBAL_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme)

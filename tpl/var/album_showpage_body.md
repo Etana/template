@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_showpage_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{FIRST_PIC}`](https://github.com/Etana/template/blob/master/var/FIRST_PIC.md#readme)
     * [`{ID_PIC}`](https://github.com/Etana/template/blob/master/var/ID_PIC.md#readme)
     * [`{INFOSSHOW_DISPLAY_VALUE}`](https://github.com/Etana/template/blob/master/var/INFOSSHOW_DISPLAY_VALUE.md#readme)

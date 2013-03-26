@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_preview)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_FROM}`](https://github.com/Etana/template/blob/master/var/L_FROM.md#readme)
     * [`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)
     * [`{L_PREVIEW}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW.md#readme)

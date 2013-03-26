@@ -19,8 +19,8 @@
 Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme)
 
 ### Positions PunBB 

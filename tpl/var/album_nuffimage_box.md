@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_nuffimage_box)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{IMG_BW}`](https://github.com/Etana/template/blob/master/var/IMG_BW.md#readme)
     * [`{IMG_INFRARED}`](https://github.com/Etana/template/blob/master/var/IMG_INFRARED.md#readme)
     * [`{IMG_INTERLACE}`](https://github.com/Etana/template/blob/master/var/IMG_INTERLACE.md#readme)

@@ -19,8 +19,8 @@
 Ce template affiche la page de recherche de votre forum : `/search`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{GOOGLE_CODE}`](https://github.com/Etana/template/blob/master/var/GOOGLE_CODE.md#readme)
     * [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)

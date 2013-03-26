@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_overview_topic)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)
     * [`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)
     * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)

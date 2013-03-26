@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_poll_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ADD_POLL_OPTION}`](https://github.com/Etana/template/blob/master/var/ADD_POLL_OPTION.md#readme)
     * [`{L_ADD_A_POLL}`](https://github.com/Etana/template/blob/master/var/L_ADD_A_POLL.md#readme)
     * [`{L_ADD_OPTION}`](https://github.com/Etana/template/blob/master/var/L_ADD_OPTION.md#readme)

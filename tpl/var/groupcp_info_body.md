@@ -17,8 +17,8 @@
 Affichage des informations d'un groupe.
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{GROUP_DESC}`](https://github.com/Etana/template/blob/master/var/GROUP_DESC.md#readme)
     * [`{GROUP_DETAILS}`](https://github.com/Etana/template/blob/master/var/GROUP_DETAILS.md#readme)
     * [`{GROUP_NAME}`](https://github.com/Etana/template/blob/master/var/GROUP_NAME.md#readme)

@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewtopic_poll_result)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{CLOSE_POLL}`](https://github.com/Etana/template/blob/master/var/CLOSE_POLL.md#readme)
     * [`{L_CANCEL_VOTE}`](https://github.com/Etana/template/blob/master/var/L_CANCEL_VOTE.md#readme)
     * [`{L_POLL_HIDE_RESULT}`](https://github.com/Etana/template/blob/master/var/L_POLL_HIDE_RESULT.md#readme)

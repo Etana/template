@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/report_list_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{JS_MARK_MODE_0}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_0.md#readme)
     * [`{JS_MARK_MODE_1}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_1.md#readme)
     * [`{JS_MARK_MODE_2}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_2.md#readme)

@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/portal_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
     * [`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme)
     * [`{C2SIZE}`](https://github.com/Etana/template/blob/master/var/C2SIZE.md#readme)

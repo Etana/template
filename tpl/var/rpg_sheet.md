@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/rpg_sheet)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_ABOUT_USER}`](https://github.com/Etana/template/blob/master/var/L_ABOUT_USER.md#readme)
     * [`{L_AVATAR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR.md#readme)

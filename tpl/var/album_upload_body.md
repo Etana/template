@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_upload_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ADD_FIELD}`](https://github.com/Etana/template/blob/master/var/ADD_FIELD.md#readme)
     * [`{CAT_TITLE}`](https://github.com/Etana/template/blob/master/var/CAT_TITLE.md#readme)
     * [`{DELETE_ALL_FIELD}`](https://github.com/Etana/template/blob/master/var/DELETE_ALL_FIELD.md#readme)

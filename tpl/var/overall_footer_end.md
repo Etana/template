@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_end)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ADMIN_LINK}`](https://github.com/Etana/template/blob/master/var/ADMIN_LINK.md#readme)
     * [`{PROTECT_FOOTER}`](https://github.com/Etana/template/blob/master/var/PROTECT_FOOTER.md#readme)
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)

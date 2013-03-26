@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/merge_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{CURRENT_FID}`](https://github.com/Etana/template/blob/master/var/CURRENT_FID.md#readme)
     * [`{FROM_TOPIC}`](https://github.com/Etana/template/blob/master/var/FROM_TOPIC.md#readme)
     * [`{FROM_TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/FROM_TOPIC_TITLE.md#readme)

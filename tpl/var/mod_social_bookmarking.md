@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_social_bookmarking)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
     * [`{L_SOCIAL_BOOKMARKING}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING.md#readme)
     * [`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)

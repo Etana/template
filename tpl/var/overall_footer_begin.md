@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_begin)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme)
     * [`{ID_RIGHT}`](https://github.com/Etana/template/blob/master/var/ID_RIGHT.md#readme)
     * [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)

@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/groupcp_user_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{GROUP_LIST_SELECT}`](https://github.com/Etana/template/blob/master/var/GROUP_LIST_SELECT.md#readme)
     * [`{GROUP_MEMBER_ROWSPAN}`](https://github.com/Etana/template/blob/master/var/GROUP_MEMBER_ROWSPAN.md#readme)
     * [`{GROUP_MEMBER_SELECT}`](https://github.com/Etana/template/blob/master/var/GROUP_MEMBER_SELECT.md#readme)

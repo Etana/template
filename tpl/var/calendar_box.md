@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_box)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{DOWN_ARROW}`](https://github.com/Etana/template/blob/master/var/DOWN_ARROW.md#readme)
     * [`{FOLDER_CALENDAR_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_CALENDAR_IMG.md#readme)
     * [`{L_ADD_EVENT}`](https://github.com/Etana/template/blob/master/var/L_ADD_EVENT.md#readme)

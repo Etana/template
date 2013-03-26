@@ -19,8 +19,8 @@
 Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que le qui est en ligne de votre forum : `/index`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme)
     * [`{AUTO_DST}`](https://github.com/Etana/template/blob/master/var/AUTO_DST.md#readme)
     * [`{BOARD_INDEX}`](https://github.com/Etana/template/blob/master/var/BOARD_INDEX.md#readme)

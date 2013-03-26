@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_login)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{AUTOLOGIN_CHECKED}`](https://github.com/Etana/template/blob/master/var/AUTOLOGIN_CHECKED.md#readme)
     * [`{DIRECTION}`](https://github.com/Etana/template/blob/master/var/DIRECTION.md#readme)
     * [`{L_MESSAGES}`](https://github.com/Etana/template/blob/master/var/L_MESSAGES.md#readme)

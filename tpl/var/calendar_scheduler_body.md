@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_scheduler_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ACTION}`](https://github.com/Etana/template/blob/master/var/ACTION.md#readme)
     * [`{BIRTHDAY_LIST_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/BIRTHDAY_LIST_SCHEDULER.md#readme)
     * [`{ESPACE}`](https://github.com/Etana/template/blob/master/var/ESPACE.md#readme)

@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_overview_top10)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ALBUM}`](https://github.com/Etana/template/blob/master/var/ALBUM.md#readme)
     * [`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)
     * [`{L_DATE}`](https://github.com/Etana/template/blob/master/var/L_DATE.md#readme)

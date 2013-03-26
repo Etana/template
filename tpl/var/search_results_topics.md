@@ -19,8 +19,8 @@
 Ce template touche la page des résultats de la recherche par sujets d'un membre : `/sta/Pseudo` et la configuration de vos sujets surveillés : `/search?search_id=watchsearch`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)

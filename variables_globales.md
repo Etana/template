@@ -1,5 +1,5 @@
 # Variables de template globales
-*Variables qui sont utilisables sur tout les templates.
+*Variables qui sont utilisables sur tout les templates.*
 * [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 * [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
 * [`{L_AUTO_LOGIN}`](https://github.com/Etana/template/blob/master/var/L_AUTO_LOGIN.md#readme)

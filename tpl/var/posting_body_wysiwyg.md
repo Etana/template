@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_body_wysiwyg)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ADD_USERNAME_IMG}`](https://github.com/Etana/template/blob/master/var/ADD_USERNAME_IMG.md#readme)
     * [`{ALIGN_CENTER}`](https://github.com/Etana/template/blob/master/var/ALIGN_CENTER.md#readme)
     * [`{ALIGN_LEFT}`](https://github.com/Etana/template/blob/master/var/ALIGN_LEFT.md#readme)

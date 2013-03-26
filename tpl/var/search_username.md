@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/search_username)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
     * [`{L_SEARCH_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_EXPLAIN.md#readme)
     * [`{L_SEARCH_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_USERNAME.md#readme)

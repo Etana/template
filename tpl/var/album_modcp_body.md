@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_modcp_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{APPROVAL_BUTTON}`](https://github.com/Etana/template/blob/master/var/APPROVAL_BUTTON.md#readme)
     * [`{DELETE_BUTTON}`](https://github.com/Etana/template/blob/master/var/DELETE_BUTTON.md#readme)
     * [`{DELETE_PERSONAL_GALLERY}`](https://github.com/Etana/template/blob/master/var/DELETE_PERSONAL_GALLERY.md#readme)

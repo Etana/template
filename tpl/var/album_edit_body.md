@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_edit_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)

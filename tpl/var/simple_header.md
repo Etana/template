@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/simple_header)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
     * [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
     * [`{L_LANG_HTML}`](https://github.com/Etana/template/blob/master/var/L_LANG_HTML.md#readme)

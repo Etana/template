@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_preview)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_POST}`](https://github.com/Etana/template/blob/master/var/L_POST.md#readme)
     * [`{L_POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_POST_SUBJECT.md#readme)
     * [`{L_PREVIEW}`](https://github.com/Etana/template/blob/master/var/L_PREVIEW.md#readme)

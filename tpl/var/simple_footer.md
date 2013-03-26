@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/simple_footer)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
     * [`<!-- BEGIN switch_view_stats -->...<!-- END switch_view_stats -->`](https://github.com/Etana/template/blob/master/var/switch_view_stats.md#readme)
 

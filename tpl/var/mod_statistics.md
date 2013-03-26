@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_statistics)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_STATISTICS}`](https://github.com/Etana/template/blob/master/var/L_STATISTICS.md#readme)
     * [`{NEWEST_USER}`](https://github.com/Etana/template/blob/master/var/NEWEST_USER.md#readme)
     * [`{TOTAL_POSTS}`](https://github.com/Etana/template/blob/master/var/TOTAL_POSTS.md#readme)

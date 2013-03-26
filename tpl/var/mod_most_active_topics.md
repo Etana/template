@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_most_active_topics)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_MOST_ACTIVE_TOPICS}`](https://github.com/Etana/template/blob/master/var/L_MOST_ACTIVE_TOPICS.md#readme)
     * [`<!-- BEGIN TOPIC -->...<!-- END TOPIC -->`](https://github.com/Etana/template/blob/master/var/TOPIC.md#readme)
 

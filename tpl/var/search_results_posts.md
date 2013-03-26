@@ -19,8 +19,8 @@
 Ce template touche la page des résultats de la recherche par messages d'un membre : `/spa/Pseudo`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
     * [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)

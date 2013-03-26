@@ -19,8 +19,8 @@
 Ce template affiche les catégories, les forums et les sous-forums de votre forum.
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme)
     * [`{L_LASTPOST}`](https://github.com/Etana/template/blob/master/var/L_LASTPOST.md#readme)
     * [`{L_OVERALL_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_OVERALL_POSTERS.md#readme)

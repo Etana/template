@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_slideshow_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{DES_LIST}`](https://github.com/Etana/template/blob/master/var/DES_LIST.md#readme)
     * [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
     * [`{L_SLIDESHOW_ONOFF}`](https://github.com/Etana/template/blob/master/var/L_SLIDESHOW_ONOFF.md#readme)

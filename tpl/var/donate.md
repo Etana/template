@@ -21,8 +21,8 @@ Ce template touche la partie contribution de votre forum : `/donate`.
 *Il est conseillé de ne pas toucher aux variables ce template.*
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ALLOPASS_FLAGS}`](https://github.com/Etana/template/blob/master/var/ALLOPASS_FLAGS.md#readme)
     * [`{CURRENCY}`](https://github.com/Etana/template/blob/master/var/CURRENCY.md#readme)
     * [`{DONATE_TEXT}`](https://github.com/Etana/template/blob/master/var/DONATE_TEXT.md#readme)

@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_whoisonline)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme)
     * [`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)
     * [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)

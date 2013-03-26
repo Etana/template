@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_send_email)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ERROR_BOX}`](https://github.com/Etana/template/blob/master/var/ERROR_BOX.md#readme)
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)

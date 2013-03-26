@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/report_view_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
     * [`{L_LAST_EDIT}`](https://github.com/Etana/template/blob/master/var/L_LAST_EDIT.md#readme)

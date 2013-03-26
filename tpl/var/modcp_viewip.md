@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_viewip)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{IP}`](https://github.com/Etana/template/blob/master/var/IP.md#readme)
     * [`{IP1}`](https://github.com/Etana/template/blob/master/var/IP1.md#readme)
     * [`{IP2}`](https://github.com/Etana/template/blob/master/var/IP2.md#readme)

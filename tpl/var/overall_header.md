@@ -19,8 +19,8 @@
 Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le début du BODY reprenant le haut de votre forum (logo, titre et description, barre de navigation, ...).
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme)
     * [`{CLASS_CONTENT_CONTAINER}`](https://github.com/Etana/template/blob/master/var/CLASS_CONTENT_CONTAINER.md#readme)
     * [`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme)

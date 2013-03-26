@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_keywords)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_KEYWORDS}`](https://github.com/Etana/template/blob/master/var/L_KEYWORDS.md#readme)
     * [`<!-- BEGIN li_row -->...<!-- END li_row -->`](https://github.com/Etana/template/blob/master/var/li_row.md#readme)
 

@@ -19,8 +19,8 @@
 Ce template modifie le popup d'anniversaire.
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
     * [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
     * [`{L_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SUBJECT.md#readme)

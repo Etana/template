@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{BOX_SIZE_STATUS}`](https://github.com/Etana/template/blob/master/var/BOX_SIZE_STATUS.md#readme)
     * [`{INBOX}`](https://github.com/Etana/template/blob/master/var/INBOX.md#readme)
     * [`{INBOX_IMG}`](https://github.com/Etana/template/blob/master/var/INBOX_IMG.md#readme)

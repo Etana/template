@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_popup)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
     * [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)

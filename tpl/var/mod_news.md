@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_news)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{BY}`](https://github.com/Etana/template/blob/master/var/BY.md#readme)
     * [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
     * [`{LEFT}`](https://github.com/Etana/template/blob/master/var/LEFT.md#readme)

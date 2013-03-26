@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_edit_signature)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{BBCODE_STATUS}`](https://github.com/Etana/template/blob/master/var/BBCODE_STATUS.md#readme)
     * [`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme)
     * [`{HTML_STATUS}`](https://github.com/Etana/template/blob/master/var/HTML_STATUS.md#readme)

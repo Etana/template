@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewtopic_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ADDTHIS_LANG}`](https://github.com/Etana/template/blob/master/var/ADDTHIS_LANG.md#readme)
     * [`{COLSPAN_PAGINATION}`](https://github.com/Etana/template/blob/master/var/COLSPAN_PAGINATION.md#readme)
     * [`{FORUM_ID}`](https://github.com/Etana/template/blob/master/var/FORUM_ID.md#readme)

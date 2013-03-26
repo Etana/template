@@ -17,8 +17,8 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_view_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{ADMINISTRATE_USER}`](https://github.com/Etana/template/blob/master/var/ADMINISTRATE_USER.md#readme)
     * [`{ADMIN_USER_COMMENT}`](https://github.com/Etana/template/blob/master/var/ADMIN_USER_COMMENT.md#readme)
     * [`{AJAX_EDIT_IMG}`](https://github.com/Etana/template/blob/master/var/AJAX_EDIT_IMG.md#readme)

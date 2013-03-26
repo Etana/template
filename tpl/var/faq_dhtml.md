@@ -19,8 +19,8 @@
 Ce template touche la Foire Aux Questions de votre forum si le JavaScript est activé et autorisé : `/faq`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
-* Variables propres au template
+* [__Globales__](../../variables_globales.md#readme)
+* __Propres au template
     * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
     * [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
     * [`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template/blob/master/var/L_CFAQ_NOSCRIPT.md#readme)
