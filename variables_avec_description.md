@@ -441,6 +441,7 @@
     * [`{searchresults.LAST_POST_AUTHOR}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_AUTHOR.md#readme)
     * [`{searchresults.LAST_POST_IMG}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_IMG.md#readme)
     * [`{searchresults.LAST_POST_TIME}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_TIME.md#readme)
+    * [`{searchresults.L_BY}`](https://github.com/Etana/template/blob/master/var/searchresults.L_BY.md#readme)
     * [`{searchresults.L_MINI_POST_ALT}`](https://github.com/Etana/template/blob/master/var/searchresults.L_MINI_POST_ALT.md#readme)
     * [`{searchresults.L_TOPIC_FOLDER_ALT}`](https://github.com/Etana/template/blob/master/var/searchresults.L_TOPIC_FOLDER_ALT.md#readme)
     * [`{searchresults.MESSAGE}`](https://github.com/Etana/template/blob/master/var/searchresults.MESSAGE.md#readme)
@@ -504,6 +505,10 @@
 * [`<!-- BEGIN switch_no_user -->...<!-- END switch_no_user -->`](https://github.com/Etana/template/blob/master/var/switch_no_user.md#readme)
     * [`{switch_no_user.COLSPAN_NUMBER}`](https://github.com/Etana/template/blob/master/var/switch_no_user.COLSPAN_NUMBER.md#readme)
     * [`{switch_no_user.L_NO_USER}`](https://github.com/Etana/template/blob/master/var/switch_no_user.L_NO_USER.md#readme)
+* 
+    * [`<!-- BEGIN switch_delete_cookies -->...<!-- END switch_delete_cookies -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.md#readme)
+        * [`{switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)
+        * [`{switch_on_index.switch_delete_cookies.U_DELETE_COOKIES}`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme)
 * [`<!-- BEGIN switch_pagination -->...<!-- END switch_pagination -->`](https://github.com/Etana/template/blob/master/var/switch_pagination.md#readme)
 * [`<!-- BEGIN switch_pending_members -->...<!-- END switch_pending_members -->`](https://github.com/Etana/template/blob/master/var/switch_pending_members.md#readme)
 * [`<!-- BEGIN switch_report_popup -->...<!-- END switch_report_popup -->`](https://github.com/Etana/template/blob/master/var/switch_report_popup.md#readme)
@@ -529,12 +534,12 @@
 * [`<!-- BEGIN switch_user_authreply -->...<!-- END switch_user_authreply -->`](https://github.com/Etana/template/blob/master/var/switch_user_authreply.md#readme)
 * [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
 * [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
-* 
+* [`<!-- BEGIN switch_user_login_form_footer -->...<!-- END switch_user_login_form_footer -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.md#readme)
     * [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.switch_fb_connect.md#readme)
         * [`{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)
         * [`{switch_user_login_form_footer.switch_fb_connect.L_OR}`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.switch_fb_connect.L_OR.md#readme)
     * [`<!-- BEGIN switch_fb_connect_no -->...<!-- END switch_fb_connect_no -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.switch_fb_connect_no.md#readme)
-* 
+* [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_user_login_form_header -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.md#readme)
     * [`<!-- BEGIN switch_fb_connect -->...<!-- END switch_fb_connect -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.switch_fb_connect.md#readme)
         * [`{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)
         * [`{switch_user_login_form_header.switch_fb_connect.L_OR}`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.switch_fb_connect.L_OR.md#readme)

@@ -1,4 +1,4 @@
-# Template index_box [29/99]
+# Template index_box [32/99]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -85,9 +85,9 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
     * __[`{forumrow.SUBFORUMS}`](https://github.com/Etana/template/blob/master/var/forumrow.SUBFORUMS.md#readme)<a href="https://fa-tvars.appspot.com/var/forumrow.SUBFORUMS">*</a> :__ ligne [`37`](../src/punbb/index_box.tpl#L37)
 * __[`<!-- END catrow -->`](https://github.com/Etana/template/blob/master/var/catrow.md#readme) :__ ligne [`57`](../src/punbb/index_box.tpl#L57)
 * __[`<!-- BEGIN switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_on_index">*</a> :__ ligne [`60`](../src/punbb/index_box.tpl#L60)
-    * __[`<!-- BEGIN switch_delete_cookies -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies">*</a> :__ ligne [`67`](../src/punbb/index_box.tpl#L67)
-        * __[`{switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies.L_DELETE_COOKIES">*</a> :__ ligne [`69`](../src/punbb/index_box.tpl#L69)
-        * __[`{switch_on_index.switch_delete_cookies.U_DELETE_COOKIES}`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES">*</a> :__ ligne [`69`](../src/punbb/index_box.tpl#L69)
+    * __[`<!-- BEGIN switch_delete_cookies -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.md#readme) :__ ligne [`67`](../src/punbb/index_box.tpl#L67)
+        * __[`{switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme) :__ ligne [`69`](../src/punbb/index_box.tpl#L69)
+        * __[`{switch_on_index.switch_delete_cookies.U_DELETE_COOKIES}`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme) :__ ligne [`69`](../src/punbb/index_box.tpl#L69)
     * __[`<!-- END switch_delete_cookies -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.md#readme) :__ ligne [`71`](../src/punbb/index_box.tpl#L71)
 * __[`<!-- END switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme) :__ ligne [`73`](../src/punbb/index_box.tpl#L73)
 

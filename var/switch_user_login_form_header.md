@@ -9,8 +9,8 @@ contenu
 <!-- END switch_user_login_form_header -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_header)
+## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_header)
+Boucle d'affichage si vous avez activé la connexion rapide en haut de la page d'accueil dans `PA > Affichage > Page d'accueil | Généralités > Affichage de la connexion rapide`.
 
 ## Attributs
 * __[`<!-- BEGIN switch_fb_connect -->`](switch_user_login_form_header.switch_fb_connect.md#readme)__

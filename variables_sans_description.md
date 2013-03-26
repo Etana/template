@@ -1639,8 +1639,6 @@
             * [`{scrolling_row.recent_topic_row.switch_poster.U_POSTER}`](https://github.com/Etana/template/blob/master/var/scrolling_row.recent_topic_row.switch_poster.U_POSTER.md#readme)
         * [`<!-- BEGIN switch_poster_guest -->...<!-- END switch_poster_guest -->`](https://github.com/Etana/template/blob/master/var/scrolling_row.recent_topic_row.switch_poster_guest.md#readme)
             * [`{scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER}`](https://github.com/Etana/template/blob/master/var/scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER.md#readme)
-* 
-    * [`{searchresults.L_BY}`](https://github.com/Etana/template/blob/master/var/searchresults.L_BY.md#readme)
 * [`<!-- BEGIN sepia_bw_enabled -->...<!-- END sepia_bw_enabled -->`](https://github.com/Etana/template/blob/master/var/sepia_bw_enabled.md#readme)
 * [`<!-- BEGIN show_permissions -->...<!-- END show_permissions -->`](https://github.com/Etana/template/blob/master/var/show_permissions.md#readme)
 * [`<!-- BEGIN simple_footer -->...<!-- END simple_footer -->`](https://github.com/Etana/template/blob/master/var/simple_footer.md#readme)
@@ -1778,9 +1776,6 @@
     * [`<!-- BEGIN switch_multiple_uploads -->...<!-- END switch_multiple_uploads -->`](https://github.com/Etana/template/blob/master/var/switch_nuffload_enabled.switch_multiple_uploads.md#readme)
     * [`<!-- BEGIN switch_show_progress_bar -->...<!-- END switch_show_progress_bar -->`](https://github.com/Etana/template/blob/master/var/switch_nuffload_enabled.switch_show_progress_bar.md#readme)
 * [`<!-- BEGIN switch_on_index -->...<!-- END switch_on_index -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.md#readme)
-    * [`<!-- BEGIN switch_delete_cookies -->...<!-- END switch_delete_cookies -->`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.md#readme)
-        * [`{switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)
-        * [`{switch_on_index.switch_delete_cookies.U_DELETE_COOKIES}`](https://github.com/Etana/template/blob/master/var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme)
 * [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme)
 * [`<!-- BEGIN switch_plus_menu -->...<!-- END switch_plus_menu -->`](https://github.com/Etana/template/blob/master/var/switch_plus_menu.md#readme)
 * [`<!-- BEGIN switch_poll_delete_toggle -->...<!-- END switch_poll_delete_toggle -->`](https://github.com/Etana/template/blob/master/var/switch_poll_delete_toggle.md#readme)
@@ -1910,10 +1905,10 @@
     * [`{switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU.md#readme)
     * [`<!-- BEGIN switch_plus_menu -->...<!-- END switch_plus_menu -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.switch_plus_menu.md#readme)
     * [`<!-- BEGIN watchtopic -->...<!-- END watchtopic -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.watchtopic.md#readme)
-* [`<!-- BEGIN switch_user_login_form_footer -->...<!-- END switch_user_login_form_footer -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.md#readme)
+* 
     * 
         * [`{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS.md#readme)
-* [`<!-- BEGIN switch_user_login_form_header -->...<!-- END switch_user_login_form_header -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.md#readme)
+* 
     * 
         * [`{switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS.md#readme)
 * [`<!-- BEGIN switch_username_select -->...<!-- END switch_username_select -->`](https://github.com/Etana/template/blob/master/var/switch_username_select.md#readme)

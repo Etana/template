@@ -15,9 +15,9 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`104`](../tpl/src/punbb/album_moderate_body.tpl#L104)
 * __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`60`](../tpl/src/punbb/album_modcp_body.tpl#L60)
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`104`](../tpl/src/punbb/album_moderate_body.tpl#L104)
 
 ### Version phpBB2
-* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`93`](../tpl/src/subsilver/album_moderate_body.tpl#L93)
 * __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`45`](../tpl/src/subsilver/album_modcp_body.tpl#L45)
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`93`](../tpl/src/subsilver/album_moderate_body.tpl#L93)

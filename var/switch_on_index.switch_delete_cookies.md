@@ -11,8 +11,8 @@
 <!-- END switch_on_index -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
+## Description[*](https://fa-tvars.appspot.com/var/switch_on_index.switch_delete_cookies)
+Boucle d'affichage si l'option pour la suppression des cookies est activée dans `PA > Général > Forum | Configuration  > Lien de suppression des cookies`.
 
 ## Attributs
 * __[`{switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}`](switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)__

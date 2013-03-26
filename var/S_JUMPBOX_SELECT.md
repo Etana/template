@@ -19,6 +19,6 @@ Chaîne de texte.
 * __[`overall_footer_begin`](../tpl/var/overall_footer_begin.md#readme) :__ ligne [`32`](../tpl/src/punbb/overall_footer_begin.tpl#L32)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`85`](../tpl/src/subsilver/viewforum_body.tpl#L85)
 * __[`jumpbox`](../tpl/var/jumpbox.md#readme) :__ ligne [`4`](../tpl/src/subsilver/jumpbox.tpl#L4)
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`85`](../tpl/src/subsilver/viewforum_body.tpl#L85)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`434`](../tpl/src/subsilver/viewtopic_body.tpl#L434)

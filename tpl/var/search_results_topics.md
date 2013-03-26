@@ -1,4 +1,4 @@
-# Template search_results_topics [84/85]
+# Template search_results_topics
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -76,7 +76,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
     * __[`{searchresults.LAST_POST_AUTHOR}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_AUTHOR.md#readme) :__ ligne [`62`](../src/punbb/search_results_topics.tpl#L62)
     * __[`{searchresults.LAST_POST_IMG}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_IMG.md#readme) :__ ligne [`62`](../src/punbb/search_results_topics.tpl#L62)
     * __[`{searchresults.LAST_POST_TIME}`](https://github.com/Etana/template/blob/master/var/searchresults.LAST_POST_TIME.md#readme) :__ ligne [`62`](../src/punbb/search_results_topics.tpl#L62)
-    * __[`{searchresults.L_BY}`](https://github.com/Etana/template/blob/master/var/searchresults.L_BY.md#readme)<a href="https://fa-tvars.appspot.com/var/searchresults.L_BY">*</a> :__ lignes [`57`](../src/punbb/search_results_topics.tpl#L57), [`62`](../src/punbb/search_results_topics.tpl#L62)
+    * __[`{searchresults.L_BY}`](https://github.com/Etana/template/blob/master/var/searchresults.L_BY.md#readme) :__ lignes [`57`](../src/punbb/search_results_topics.tpl#L57), [`62`](../src/punbb/search_results_topics.tpl#L62)
     * __[`{searchresults.L_TOPIC_FOLDER_ALT}`](https://github.com/Etana/template/blob/master/var/searchresults.L_TOPIC_FOLDER_ALT.md#readme) :__ lignes [`49`](../src/punbb/search_results_topics.tpl#L49), [`49`](../src/punbb/search_results_topics.tpl#L49)
     * __[`{searchresults.NEWEST_POST_IMG}`](https://github.com/Etana/template/blob/master/var/searchresults.NEWEST_POST_IMG.md#readme) :__ ligne [`52`](../src/punbb/search_results_topics.tpl#L52)
     * __[`{searchresults.PARTICIPATE_POST_IMG}`](https://github.com/Etana/template/blob/master/var/searchresults.PARTICIPATE_POST_IMG.md#readme) :__ ligne [`53`](../src/punbb/search_results_topics.tpl#L53)

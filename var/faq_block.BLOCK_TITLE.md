@@ -15,9 +15,9 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`31`](../tpl/src/punbb/faq_dhtml.tpl#L31)
 * __[`faq_body`](../tpl/var/faq_body.md#readme) :__ ligne [`36`](../tpl/src/punbb/faq_body.tpl#L36)
+* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`31`](../tpl/src/punbb/faq_dhtml.tpl#L31)
 
 ### Version phpBB2
-* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`27`](../tpl/src/subsilver/faq_dhtml.tpl#L27)
 * __[`faq_body`](../tpl/var/faq_body.md#readme) :__ ligne [`27`](../tpl/src/subsilver/faq_body.tpl#L27)
+* __[`faq_dhtml`](../tpl/var/faq_dhtml.md#readme) :__ ligne [`27`](../tpl/src/subsilver/faq_dhtml.tpl#L27)
