@@ -18,8 +18,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_search_body`](../tpl/var/album_search_body.md#readme) :__ lignes [`19`](../tpl/src/punbb/album_search_body.tpl#L19)[`<->`](../tpl/src/punbb/album_search_body.tpl#L19-L58)[`58`](../tpl/src/punbb/album_search_body.tpl#L58)
-
 ### Version phpBB2
 * __[`album_search_body`](../tpl/var/album_search_body.md#readme) :__ lignes [`3`](../tpl/src/subsilver/album_search_body.tpl#L3)[`<->`](../tpl/src/subsilver/album_search_body.tpl#L3-L53)[`53`](../tpl/src/subsilver/album_search_body.tpl#L53)
+
+### Version PunBB
+* __[`album_search_body`](../tpl/var/album_search_body.md#readme) :__ lignes [`19`](../tpl/src/punbb/album_search_body.tpl#L19)[`<->`](../tpl/src/punbb/album_search_body.tpl#L19-L58)[`58`](../tpl/src/punbb/album_search_body.tpl#L58)

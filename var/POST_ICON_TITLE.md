@@ -12,10 +12,10 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`627`](../tpl/src/punbb/posting_body.tpl#L627)
-* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`626`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L626)
-
 ### Version phpBB2
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`735`](../tpl/src/subsilver/posting_body.tpl#L735)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`712`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L712)
+
+### Version PunBB
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`627`](../tpl/src/punbb/posting_body.tpl#L627)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`626`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L626)

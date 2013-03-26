@@ -12,8 +12,8 @@ Contient le template [`greeting_popup`](https://github.com/Etana/template/blob/m
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`155`](../tpl/src/punbb/overall_header.tpl#L155)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`161`](../tpl/src/subsilver/overall_header.tpl#L161)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`155`](../tpl/src/punbb/overall_header.tpl#L155)

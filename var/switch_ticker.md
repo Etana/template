@@ -24,8 +24,8 @@ Boucle d'affichage si les annonces sont activées dans `PA > Général > Message
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`30`](../tpl/src/punbb/overall_header.tpl#L30)[`<->`](../tpl/src/punbb/overall_header.tpl#L30-L33)[`33`](../tpl/src/punbb/overall_header.tpl#L33), [`131`](../tpl/src/punbb/overall_header.tpl#L131)[`<->`](../tpl/src/punbb/overall_header.tpl#L131-L133)[`133`](../tpl/src/punbb/overall_header.tpl#L133), [`269`](../tpl/src/punbb/overall_header.tpl#L269)[`<->`](../tpl/src/punbb/overall_header.tpl#L269-L285)[`285`](../tpl/src/punbb/overall_header.tpl#L285)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`30`](../tpl/src/subsilver/overall_header.tpl#L30)[`<->`](../tpl/src/subsilver/overall_header.tpl#L30-L33)[`33`](../tpl/src/subsilver/overall_header.tpl#L33), [`137`](../tpl/src/subsilver/overall_header.tpl#L137)[`<->`](../tpl/src/subsilver/overall_header.tpl#L137-L139)[`139`](../tpl/src/subsilver/overall_header.tpl#L139), [`291`](../tpl/src/subsilver/overall_header.tpl#L291)[`<->`](../tpl/src/subsilver/overall_header.tpl#L291-L309)[`309`](../tpl/src/subsilver/overall_header.tpl#L309)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`30`](../tpl/src/punbb/overall_header.tpl#L30)[`<->`](../tpl/src/punbb/overall_header.tpl#L30-L33)[`33`](../tpl/src/punbb/overall_header.tpl#L33), [`131`](../tpl/src/punbb/overall_header.tpl#L131)[`<->`](../tpl/src/punbb/overall_header.tpl#L131-L133)[`133`](../tpl/src/punbb/overall_header.tpl#L133), [`269`](../tpl/src/punbb/overall_header.tpl#L269)[`<->`](../tpl/src/punbb/overall_header.tpl#L269-L285)[`285`](../tpl/src/punbb/overall_header.tpl#L285)

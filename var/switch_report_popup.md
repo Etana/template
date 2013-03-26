@@ -20,8 +20,8 @@ Boucle s'affichant lors de la création d'un nouveau rapport si l'utilisateur a 
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`127`](../tpl/src/punbb/overall_header.tpl#L127)[`<->`](../tpl/src/punbb/overall_header.tpl#L127-L130)[`130`](../tpl/src/punbb/overall_header.tpl#L130)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`133`](../tpl/src/subsilver/overall_header.tpl#L133)[`<->`](../tpl/src/subsilver/overall_header.tpl#L133-L136)[`136`](../tpl/src/subsilver/overall_header.tpl#L136)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`127`](../tpl/src/punbb/overall_header.tpl#L127)[`<->`](../tpl/src/punbb/overall_header.tpl#L127-L130)[`130`](../tpl/src/punbb/overall_header.tpl#L130)

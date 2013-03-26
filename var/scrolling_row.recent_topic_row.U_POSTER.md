@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ ligne [`18`](../tpl/src/punbb/mod_recent_topics.tpl#L18)
-
 ### Version phpBB2
 * __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ ligne [`23`](../tpl/src/subsilver/mod_recent_topics.tpl#L23)
+
+### Version PunBB
+* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ ligne [`18`](../tpl/src/punbb/mod_recent_topics.tpl#L18)

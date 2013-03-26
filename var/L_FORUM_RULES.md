@@ -12,12 +12,12 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`33`](../tpl/src/punbb/posting_body.tpl#L33)
-* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`201`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L201)
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`320`](../tpl/src/punbb/viewtopic_body.tpl#L320)
-
 ### Version phpBB2
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`52`](../tpl/src/subsilver/posting_body.tpl#L52)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`52`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L52)
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`337`](../tpl/src/subsilver/viewtopic_body.tpl#L337)
+
+### Version PunBB
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`33`](../tpl/src/punbb/posting_body.tpl#L33)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`201`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L201)
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`320`](../tpl/src/punbb/viewtopic_body.tpl#L320)

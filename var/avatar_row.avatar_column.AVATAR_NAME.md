@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ lignes [`30`](../tpl/src/punbb/profile_avatar_gallery.tpl#L30), [`30`](../tpl/src/punbb/profile_avatar_gallery.tpl#L30)
-
 ### Version phpBB2
 * __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ lignes [`17`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L17), [`17`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L17)
+
+### Version PunBB
+* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ lignes [`30`](../tpl/src/punbb/profile_avatar_gallery.tpl#L30), [`30`](../tpl/src/punbb/profile_avatar_gallery.tpl#L30)

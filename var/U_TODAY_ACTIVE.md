@@ -14,8 +14,8 @@ Lien vers les sujets actifs du jour.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`63`](../tpl/src/punbb/index_box.tpl#L63)
-
 ### Version phpBB2
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`97`](../tpl/src/subsilver/index_body.tpl#L97)
+
+### Version PunBB
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`63`](../tpl/src/punbb/index_box.tpl#L63)

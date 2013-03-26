@@ -14,8 +14,8 @@ Identifiant numérique du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`28`](../tpl/src/punbb/groupcp_pending_info.tpl#L28)
-
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`22`](../tpl/src/subsilver/groupcp_pending_info.tpl#L22)
+
+### Version PunBB
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`28`](../tpl/src/punbb/groupcp_pending_info.tpl#L28)

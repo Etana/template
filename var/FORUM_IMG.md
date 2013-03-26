@@ -12,8 +12,8 @@ Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion d
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`126`](../tpl/src/punbb/index_body.tpl#L126)
-
 ### Version phpBB2
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`231`](../tpl/src/subsilver/index_body.tpl#L231)
+
+### Version PunBB
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`126`](../tpl/src/punbb/index_body.tpl#L126)

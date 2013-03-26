@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`search_username`](../tpl/var/search_username.md#readme) :__ ligne [`16`](../tpl/src/punbb/search_username.tpl#L16)
-
 ### Version phpBB2
 * __[`search_username`](../tpl/var/search_username.md#readme) :__ ligne [`13`](../tpl/src/subsilver/search_username.tpl#L13)
+
+### Version PunBB
+* __[`search_username`](../tpl/var/search_username.md#readme) :__ ligne [`16`](../tpl/src/punbb/search_username.tpl#L16)

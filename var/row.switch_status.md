@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ lignes [`57`](../tpl/src/punbb/report_view_body.tpl#L57)[`<->`](../tpl/src/punbb/report_view_body.tpl#L57-L68)[`68`](../tpl/src/punbb/report_view_body.tpl#L68)
-
 ### Version phpBB2
 * __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ lignes [`33`](../tpl/src/subsilver/report_view_body.tpl#L33)[`<->`](../tpl/src/subsilver/report_view_body.tpl#L33-L37)[`37`](../tpl/src/subsilver/report_view_body.tpl#L37)
+
+### Version PunBB
+* __[`report_view_body`](../tpl/var/report_view_body.md#readme) :__ lignes [`57`](../tpl/src/punbb/report_view_body.tpl#L57)[`<->`](../tpl/src/punbb/report_view_body.tpl#L57-L68)[`68`](../tpl/src/punbb/report_view_body.tpl#L68)

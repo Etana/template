@@ -14,8 +14,8 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`agreement`](../tpl/var/agreement.md#readme) :__ ligne [`35`](../tpl/src/punbb/agreement.tpl#L35)
-
 ### Version phpBB2
 * __[`agreement`](../tpl/var/agreement.md#readme) :__ ligne [`32`](../tpl/src/subsilver/agreement.tpl#L32)
+
+### Version PunBB
+* __[`agreement`](../tpl/var/agreement.md#readme) :__ ligne [`35`](../tpl/src/punbb/agreement.tpl#L35)

@@ -18,8 +18,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`34`](../tpl/src/punbb/index_box.tpl#L34)
-
 ### Version phpBB2
 * __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`60`](../tpl/src/subsilver/index_box.tpl#L60)
+
+### Version PunBB
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`34`](../tpl/src/punbb/index_box.tpl#L34)

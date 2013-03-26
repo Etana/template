@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`81`](../tpl/src/punbb/index_body.tpl#L81)
-
 ### Version phpBB2
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`201`](../tpl/src/subsilver/index_body.tpl#L201)
+
+### Version PunBB
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`81`](../tpl/src/punbb/index_body.tpl#L81)

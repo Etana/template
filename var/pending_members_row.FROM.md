@@ -14,8 +14,8 @@ Valeur du champ [`Localisation`](http://votre-forum.appspot.com/admin/?action=co
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`25`](../tpl/src/punbb/groupcp_pending_info.tpl#L25)
-
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`19`](../tpl/src/subsilver/groupcp_pending_info.tpl#L19)
+
+### Version PunBB
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`25`](../tpl/src/punbb/groupcp_pending_info.tpl#L25)

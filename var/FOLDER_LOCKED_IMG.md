@@ -12,8 +12,8 @@ Image des sujets verrouillés définie dans `PA > Affichage > Images et Couleurs
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`73`](../tpl/src/punbb/viewforum_body.tpl#L73)
-
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`101`](../tpl/src/subsilver/viewforum_body.tpl#L101)
+
+### Version PunBB
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`73`](../tpl/src/punbb/viewforum_body.tpl#L73)

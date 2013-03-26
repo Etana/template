@@ -29,8 +29,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`45`](../tpl/src/punbb/calendar_box.tpl#L45)[`<->`](../tpl/src/punbb/calendar_box.tpl#L45-L47)[`47`](../tpl/src/punbb/calendar_box.tpl#L47)
-
 ### Version phpBB2
 * __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`63`](../tpl/src/subsilver/calendar_box.tpl#L63)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L63-L73)[`73`](../tpl/src/subsilver/calendar_box.tpl#L73)
+
+### Version PunBB
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`45`](../tpl/src/punbb/calendar_box.tpl#L45)[`<->`](../tpl/src/punbb/calendar_box.tpl#L45-L47)[`47`](../tpl/src/punbb/calendar_box.tpl#L47)

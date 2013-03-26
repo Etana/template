@@ -14,8 +14,8 @@ Affiche le bouton de connexion via Facebook si Facebook Connect est activé dans
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`26`](../tpl/src/punbb/overall_header.tpl#L26)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`26`](../tpl/src/subsilver/overall_header.tpl#L26)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`26`](../tpl/src/punbb/overall_header.tpl#L26)

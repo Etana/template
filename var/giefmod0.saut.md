@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`13`](../tpl/src/punbb/portal_body.tpl#L13)[`<->`](../tpl/src/punbb/portal_body.tpl#L13-L15)[`15`](../tpl/src/punbb/portal_body.tpl#L15)
-
 ### Version phpBB2
 * __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`3`](../tpl/src/subsilver/portal_body.tpl#L3)[`<->`](../tpl/src/subsilver/portal_body.tpl#L3-L9)[`9`](../tpl/src/subsilver/portal_body.tpl#L9)
+
+### Version PunBB
+* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ lignes [`13`](../tpl/src/punbb/portal_body.tpl#L13)[`<->`](../tpl/src/punbb/portal_body.tpl#L13-L15)[`15`](../tpl/src/punbb/portal_body.tpl#L15)

@@ -12,8 +12,8 @@ Lien pour surveiller les sujets du forum concerné.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ ligne [`116`](../tpl/src/punbb/topics_list_box.tpl#L116)
-
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`30`](../tpl/src/subsilver/viewforum_body.tpl#L30)
+
+### Version PunBB
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ ligne [`116`](../tpl/src/punbb/topics_list_box.tpl#L116)

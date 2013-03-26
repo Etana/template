@@ -16,8 +16,8 @@ Retourne le type de sujet.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`54`](../tpl/src/punbb/search_results_topics.tpl#L54)
-
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`34`](../tpl/src/subsilver/search_results_topics.tpl#L34)
+
+### Version PunBB
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`54`](../tpl/src/punbb/search_results_topics.tpl#L54)

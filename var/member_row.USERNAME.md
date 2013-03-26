@@ -14,8 +14,8 @@ Code html du nom d'utilisateur du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`107`](../tpl/src/punbb/groupcp_info_body.tpl#L107)
-
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`67`](../tpl/src/subsilver/groupcp_info_body.tpl#L67)
+
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`107`](../tpl/src/punbb/groupcp_info_body.tpl#L107)

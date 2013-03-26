@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`145`](../tpl/src/punbb/donate.tpl#L145)
-
 ### Version phpBB2
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`172`](../tpl/src/subsilver/donate.tpl#L172)
+
+### Version PunBB
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`145`](../tpl/src/punbb/donate.tpl#L145)

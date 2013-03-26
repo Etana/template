@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ ligne [`23`](../tpl/src/punbb/modcp_split.tpl#L23)
-
 ### Version phpBB2
 * __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ ligne [`1`](../tpl/src/subsilver/modcp_split.tpl#L1)
+
+### Version PunBB
+* __[`modcp_split`](../tpl/var/modcp_split.md#readme) :__ ligne [`23`](../tpl/src/punbb/modcp_split.tpl#L23)

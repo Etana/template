@@ -14,8 +14,8 @@ Chaîne de texte du popup de connexion.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`221`](../tpl/src/punbb/overall_header.tpl#L221)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`229`](../tpl/src/subsilver/overall_header.tpl#L229)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`221`](../tpl/src/punbb/overall_header.tpl#L221)

@@ -12,8 +12,8 @@ Remplacement français `Approuver la sélection` si il y a un membre en cours de
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`35`](../tpl/src/punbb/groupcp_pending_info.tpl#L35)
-
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`27`](../tpl/src/subsilver/groupcp_pending_info.tpl#L27)
+
+### Version PunBB
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`35`](../tpl/src/punbb/groupcp_pending_info.tpl#L35)

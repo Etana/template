@@ -14,12 +14,12 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`41`](../tpl/src/punbb/modcp_body.tpl#L41)
-* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`17`](../tpl/src/punbb/index_box.tpl#L17)
-* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`40`](../tpl/src/punbb/search_results_topics.tpl#L40)
-
 ### Version phpBB2
 * __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`18`](../tpl/src/subsilver/modcp_body.tpl#L18)
-* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`25`](../tpl/src/subsilver/index_box.tpl#L25)
 * __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`24`](../tpl/src/subsilver/search_results_topics.tpl#L24)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`25`](../tpl/src/subsilver/index_box.tpl#L25)
+
+### Version PunBB
+* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`41`](../tpl/src/punbb/modcp_body.tpl#L41)
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`40`](../tpl/src/punbb/search_results_topics.tpl#L40)
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`17`](../tpl/src/punbb/index_box.tpl#L17)

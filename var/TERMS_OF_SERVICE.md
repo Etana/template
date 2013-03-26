@@ -20,8 +20,8 @@ En cas de problème avec un paiement, veuillez nous contacter en postant un mess
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`35`](../tpl/src/punbb/donate.tpl#L35)
-
 ### Version phpBB2
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`23`](../tpl/src/subsilver/donate.tpl#L23)
+
+### Version PunBB
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`35`](../tpl/src/punbb/donate.tpl#L35)

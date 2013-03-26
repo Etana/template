@@ -20,8 +20,8 @@ Boucle affichant la balise X-UA-Compatible pour Internet Explorer.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`8`](../tpl/src/punbb/overall_header.tpl#L8)[`<->`](../tpl/src/punbb/overall_header.tpl#L8-L10)[`10`](../tpl/src/punbb/overall_header.tpl#L10)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`8`](../tpl/src/subsilver/overall_header.tpl#L8)[`<->`](../tpl/src/subsilver/overall_header.tpl#L8-L10)[`10`](../tpl/src/subsilver/overall_header.tpl#L10)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`8`](../tpl/src/punbb/overall_header.tpl#L8)[`<->`](../tpl/src/punbb/overall_header.tpl#L8-L10)[`10`](../tpl/src/punbb/overall_header.tpl#L10)

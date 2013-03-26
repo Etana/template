@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ ligne [`58`](../tpl/src/punbb/viewonline_body.tpl#L58)
-
 ### Version phpBB2
 * __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ ligne [`40`](../tpl/src/subsilver/viewonline_body.tpl#L40)
+
+### Version PunBB
+* __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ ligne [`58`](../tpl/src/punbb/viewonline_body.tpl#L58)

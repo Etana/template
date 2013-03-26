@@ -20,8 +20,8 @@ Boucle contenant le titre du message d'accueil.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`21`](../tpl/src/punbb/index_body.tpl#L21)[`<->`](../tpl/src/punbb/index_body.tpl#L21-L25)[`25`](../tpl/src/punbb/index_body.tpl#L25)
-
 ### Version phpBB2
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`4`](../tpl/src/subsilver/index_body.tpl#L4)[`<->`](../tpl/src/subsilver/index_body.tpl#L4-L8)[`8`](../tpl/src/subsilver/index_body.tpl#L8)
+
+### Version PunBB
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`21`](../tpl/src/punbb/index_body.tpl#L21)[`<->`](../tpl/src/punbb/index_body.tpl#L21-L25)[`25`](../tpl/src/punbb/index_body.tpl#L25)

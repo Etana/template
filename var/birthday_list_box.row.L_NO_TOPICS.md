@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`38`](../tpl/src/punbb/birthday_list_box.tpl#L38)
-
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`47`](../tpl/src/subsilver/birthday_list_box.tpl#L47)
+
+### Version PunBB
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`38`](../tpl/src/punbb/birthday_list_box.tpl#L38)

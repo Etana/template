@@ -12,8 +12,8 @@ Contient une liste d'option pour la recherche.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`73`](../tpl/src/punbb/search_body.tpl#L73)
-
 ### Version phpBB2
 * __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`65`](../tpl/src/subsilver/search_body.tpl#L65)
+
+### Version PunBB
+* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`73`](../tpl/src/punbb/search_body.tpl#L73)

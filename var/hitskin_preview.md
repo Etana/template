@@ -21,8 +21,8 @@ Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre f
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`197`](../tpl/src/punbb/overall_header.tpl#L197)[`<->`](../tpl/src/punbb/overall_header.tpl#L197-L208)[`208`](../tpl/src/punbb/overall_header.tpl#L208)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`202`](../tpl/src/subsilver/overall_header.tpl#L202)[`<->`](../tpl/src/subsilver/overall_header.tpl#L202-L213)[`213`](../tpl/src/subsilver/overall_header.tpl#L213)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`197`](../tpl/src/punbb/overall_header.tpl#L197)[`<->`](../tpl/src/punbb/overall_header.tpl#L197-L208)[`208`](../tpl/src/punbb/overall_header.tpl#L208)

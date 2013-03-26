@@ -15,8 +15,8 @@ Remplacé par le contenu de la template [`groupcp_pending_info`](https://github.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`143`](../tpl/src/punbb/groupcp_info_body.tpl#L143)
-
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`114`](../tpl/src/subsilver/groupcp_info_body.tpl#L114)
+
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`143`](../tpl/src/punbb/groupcp_info_body.tpl#L143)

@@ -12,8 +12,8 @@ Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analyti
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`177`](../tpl/src/punbb/overall_header.tpl#L177)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`183`](../tpl/src/subsilver/overall_header.tpl#L183)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`177`](../tpl/src/punbb/overall_header.tpl#L177)

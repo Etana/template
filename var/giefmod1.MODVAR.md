@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ ligne [`20`](../tpl/src/punbb/portal_body.tpl#L20)
-
 ### Version phpBB2
 * __[`portal_body`](../tpl/var/portal_body.md#readme) :__ ligne [`14`](../tpl/src/subsilver/portal_body.tpl#L14)
+
+### Version PunBB
+* __[`portal_body`](../tpl/var/portal_body.md#readme) :__ ligne [`20`](../tpl/src/punbb/portal_body.tpl#L20)

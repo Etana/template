@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme) :__ ligne [`32`](../tpl/src/punbb/groupcp_user_body.tpl#L32)
-
 ### Version phpBB2
 * __[`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme) :__ ligne [`8`](../tpl/src/subsilver/groupcp_user_body.tpl#L8)
+
+### Version PunBB
+* __[`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme) :__ ligne [`32`](../tpl/src/punbb/groupcp_user_body.tpl#L32)

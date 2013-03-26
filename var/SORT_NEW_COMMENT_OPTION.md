@@ -12,10 +12,10 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`104`](../tpl/src/punbb/album_cat_body.tpl#L104)
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`93`](../tpl/src/punbb/album_modcp_body.tpl#L93)
-
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`177`](../tpl/src/subsilver/album_cat_body.tpl#L177)
 * __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`73`](../tpl/src/subsilver/album_modcp_body.tpl#L73)
+
+### Version PunBB
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ ligne [`104`](../tpl/src/punbb/album_cat_body.tpl#L104)
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`93`](../tpl/src/punbb/album_modcp_body.tpl#L93)

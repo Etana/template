@@ -16,8 +16,8 @@ Boucle contenant le saut entre 2 widgets.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`296`](../tpl/src/punbb/overall_header.tpl#L296)[`<->`](../tpl/src/punbb/overall_header.tpl#L296-L298)[`298`](../tpl/src/punbb/overall_header.tpl#L298)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`320`](../tpl/src/subsilver/overall_header.tpl#L320)[`<->`](../tpl/src/subsilver/overall_header.tpl#L320-L322)[`322`](../tpl/src/subsilver/overall_header.tpl#L322)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`296`](../tpl/src/punbb/overall_header.tpl#L296)[`<->`](../tpl/src/punbb/overall_header.tpl#L296-L298)[`298`](../tpl/src/punbb/overall_header.tpl#L298)

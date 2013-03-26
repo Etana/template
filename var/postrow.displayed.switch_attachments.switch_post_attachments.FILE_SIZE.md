@@ -20,8 +20,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`218`](../tpl/src/punbb/viewtopic_body.tpl#L218)
-
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`212`](../tpl/src/subsilver/viewtopic_body.tpl#L212)
+
+### Version PunBB
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`218`](../tpl/src/punbb/viewtopic_body.tpl#L218)

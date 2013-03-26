@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme) :__ ligne [`16`](../tpl/src/punbb/album_nuffimage_box.tpl#L16)
-
 ### Version phpBB2
 * __[`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme) :__ ligne [`14`](../tpl/src/subsilver/album_nuffimage_box.tpl#L14)
+
+### Version PunBB
+* __[`album_nuffimage_box`](../tpl/var/album_nuffimage_box.md#readme) :__ ligne [`16`](../tpl/src/punbb/album_nuffimage_box.tpl#L16)

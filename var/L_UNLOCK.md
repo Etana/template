@@ -12,12 +12,12 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`67`](../tpl/src/punbb/modcp_body.tpl#L67)
-* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`121`](../tpl/src/punbb/album_moderate_body.tpl#L121)
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`75`](../tpl/src/punbb/album_modcp_body.tpl#L75)
-
 ### Version phpBB2
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`57`](../tpl/src/subsilver/album_modcp_body.tpl#L57)
 * __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`36`](../tpl/src/subsilver/modcp_body.tpl#L36)
 * __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`100`](../tpl/src/subsilver/album_moderate_body.tpl#L100)
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`57`](../tpl/src/subsilver/album_modcp_body.tpl#L57)
+
+### Version PunBB
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`75`](../tpl/src/punbb/album_modcp_body.tpl#L75)
+* __[`modcp_body`](../tpl/var/modcp_body.md#readme) :__ ligne [`67`](../tpl/src/punbb/modcp_body.tpl#L67)
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`121`](../tpl/src/punbb/album_moderate_body.tpl#L121)

@@ -18,8 +18,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`48`](../tpl/src/punbb/birthday_list_box.tpl#L48)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L48-L48)[`48`](../tpl/src/punbb/birthday_list_box.tpl#L48)
-
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`59`](../tpl/src/subsilver/birthday_list_box.tpl#L59)[`<->`](../tpl/src/subsilver/birthday_list_box.tpl#L59-L59)[`59`](../tpl/src/subsilver/birthday_list_box.tpl#L59)
+
+### Version PunBB
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`48`](../tpl/src/punbb/birthday_list_box.tpl#L48)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L48-L48)[`48`](../tpl/src/punbb/birthday_list_box.tpl#L48)

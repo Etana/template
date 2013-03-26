@@ -23,10 +23,10 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ lignes [`24`](../tpl/src/punbb/album_cat_top10.tpl#L24)[`<->`](../tpl/src/punbb/album_cat_top10.tpl#L24-L61)[`61`](../tpl/src/punbb/album_cat_top10.tpl#L61)
-* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`52`](../tpl/src/punbb/album_cat_body.tpl#L52)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L52-L118)[`118`](../tpl/src/punbb/album_cat_body.tpl#L118)
-
 ### Version phpBB2
-* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ lignes [`11`](../tpl/src/subsilver/album_cat_top10.tpl#L11)[`<->`](../tpl/src/subsilver/album_cat_top10.tpl#L11-L49)[`49`](../tpl/src/subsilver/album_cat_top10.tpl#L49)
 * __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`113`](../tpl/src/subsilver/album_cat_body.tpl#L113)[`<->`](../tpl/src/subsilver/album_cat_body.tpl#L113-L191)[`191`](../tpl/src/subsilver/album_cat_body.tpl#L191)
+* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ lignes [`11`](../tpl/src/subsilver/album_cat_top10.tpl#L11)[`<->`](../tpl/src/subsilver/album_cat_top10.tpl#L11-L49)[`49`](../tpl/src/subsilver/album_cat_top10.tpl#L49)
+
+### Version PunBB
+* __[`album_cat_body`](../tpl/var/album_cat_body.md#readme) :__ lignes [`52`](../tpl/src/punbb/album_cat_body.tpl#L52)[`<->`](../tpl/src/punbb/album_cat_body.tpl#L52-L118)[`118`](../tpl/src/punbb/album_cat_body.tpl#L118)
+* __[`album_cat_top10`](../tpl/var/album_cat_top10.md#readme) :__ lignes [`24`](../tpl/src/punbb/album_cat_top10.tpl#L24)[`<->`](../tpl/src/punbb/album_cat_top10.tpl#L24-L61)[`61`](../tpl/src/punbb/album_cat_top10.tpl#L61)

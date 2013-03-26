@@ -14,8 +14,8 @@ Variable non utilisée.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`69`](../tpl/src/punbb/overall_header.tpl#L69), [`105`](../tpl/src/punbb/overall_header.tpl#L105)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`78`](../tpl/src/subsilver/overall_header.tpl#L78), [`112`](../tpl/src/subsilver/overall_header.tpl#L112)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`69`](../tpl/src/punbb/overall_header.tpl#L69), [`105`](../tpl/src/punbb/overall_header.tpl#L105)

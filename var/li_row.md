@@ -20,8 +20,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`mod_keywords`](../tpl/var/mod_keywords.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_keywords.tpl#L5)[`<->`](../tpl/src/punbb/mod_keywords.tpl#L5-L7)[`7`](../tpl/src/punbb/mod_keywords.tpl#L7)
-
 ### Version phpBB2
 * __[`mod_keywords`](../tpl/var/mod_keywords.md#readme) :__ lignes [`11`](../tpl/src/subsilver/mod_keywords.tpl#L11)[`<->`](../tpl/src/subsilver/mod_keywords.tpl#L11-L13)[`13`](../tpl/src/subsilver/mod_keywords.tpl#L13)
+
+### Version PunBB
+* __[`mod_keywords`](../tpl/var/mod_keywords.md#readme) :__ lignes [`5`](../tpl/src/punbb/mod_keywords.tpl#L5)[`<->`](../tpl/src/punbb/mod_keywords.tpl#L5-L7)[`7`](../tpl/src/punbb/mod_keywords.tpl#L7)

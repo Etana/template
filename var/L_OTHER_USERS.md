@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`modcp_viewip`](../tpl/var/modcp_viewip.md#readme) :__ ligne [`73`](../tpl/src/punbb/modcp_viewip.tpl#L73)
-
 ### Version phpBB2
 * __[`modcp_viewip`](../tpl/var/modcp_viewip.md#readme) :__ ligne [`46`](../tpl/src/subsilver/modcp_viewip.tpl#L46)
+
+### Version PunBB
+* __[`modcp_viewip`](../tpl/var/modcp_viewip.md#readme) :__ ligne [`73`](../tpl/src/punbb/modcp_viewip.tpl#L73)

@@ -23,8 +23,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`42`](../tpl/src/punbb/donate.tpl#L42)[`<->`](../tpl/src/punbb/donate.tpl#L42-L54)[`54`](../tpl/src/punbb/donate.tpl#L54)
-
 ### Version phpBB2
 * __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`46`](../tpl/src/subsilver/donate.tpl#L46)[`<->`](../tpl/src/subsilver/donate.tpl#L46-L59)[`59`](../tpl/src/subsilver/donate.tpl#L59)
+
+### Version PunBB
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`42`](../tpl/src/punbb/donate.tpl#L42)[`<->`](../tpl/src/punbb/donate.tpl#L42-L54)[`54`](../tpl/src/punbb/donate.tpl#L54)

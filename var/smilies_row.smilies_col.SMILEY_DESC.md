@@ -16,13 +16,13 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme) :__ lignes [`30`](../tpl/src/punbb/posting_smilies_frame.tpl#L30), [`30`](../tpl/src/punbb/posting_smilies_frame.tpl#L30)
-* __[`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme) :__ lignes [`29`](../tpl/src/punbb/posting_smilies_wysiwyg.tpl#L29), [`29`](../tpl/src/punbb/posting_smilies_wysiwyg.tpl#L29)
-* __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ lignes [`19`](../tpl/src/punbb/posting_smilies.tpl#L19), [`19`](../tpl/src/punbb/posting_smilies.tpl#L19)
-
 ### Version phpBB2
-* __[`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme) :__ lignes [`35`](../tpl/src/subsilver/posting_smilies_frame.tpl#L35), [`35`](../tpl/src/subsilver/posting_smilies_frame.tpl#L35)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`369`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L369)
 * __[`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme) :__ lignes [`41`](../tpl/src/subsilver/posting_smilies_wysiwyg.tpl#L41), [`41`](../tpl/src/subsilver/posting_smilies_wysiwyg.tpl#L41)
 * __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ lignes [`21`](../tpl/src/subsilver/posting_smilies.tpl#L21), [`21`](../tpl/src/subsilver/posting_smilies.tpl#L21)
-* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`369`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L369)
+* __[`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme) :__ lignes [`35`](../tpl/src/subsilver/posting_smilies_frame.tpl#L35), [`35`](../tpl/src/subsilver/posting_smilies_frame.tpl#L35)
+
+### Version PunBB
+* __[`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme) :__ lignes [`29`](../tpl/src/punbb/posting_smilies_wysiwyg.tpl#L29), [`29`](../tpl/src/punbb/posting_smilies_wysiwyg.tpl#L29)
+* __[`posting_smilies`](../tpl/var/posting_smilies.md#readme) :__ lignes [`19`](../tpl/src/punbb/posting_smilies.tpl#L19), [`19`](../tpl/src/punbb/posting_smilies.tpl#L19)
+* __[`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme) :__ lignes [`30`](../tpl/src/punbb/posting_smilies_frame.tpl#L30), [`30`](../tpl/src/punbb/posting_smilies_frame.tpl#L30)

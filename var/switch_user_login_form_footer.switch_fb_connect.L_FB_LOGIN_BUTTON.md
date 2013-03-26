@@ -16,8 +16,8 @@ Contient le bouton de connexion Facebook.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`114`](../tpl/src/punbb/index_body.tpl#L114)
-
 ### Version phpBB2
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`164`](../tpl/src/subsilver/index_body.tpl#L164)
+
+### Version PunBB
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`114`](../tpl/src/punbb/index_body.tpl#L114)

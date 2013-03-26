@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ ligne [`106`](../tpl/src/punbb/report_list_body.tpl#L106)
-
 ### Version phpBB2
 * __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ ligne [`71`](../tpl/src/subsilver/report_list_body.tpl#L71)
+
+### Version PunBB
+* __[`report_list_body`](../tpl/var/report_list_body.md#readme) :__ ligne [`106`](../tpl/src/punbb/report_list_body.tpl#L106)

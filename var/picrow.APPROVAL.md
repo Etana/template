@@ -14,10 +14,10 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`103`](../tpl/src/punbb/album_moderate_body.tpl#L103)
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/album_modcp_body.tpl#L59)
-
 ### Version phpBB2
-* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`92`](../tpl/src/subsilver/album_moderate_body.tpl#L92)
 * __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`44`](../tpl/src/subsilver/album_modcp_body.tpl#L44)
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`92`](../tpl/src/subsilver/album_moderate_body.tpl#L92)
+
+### Version PunBB
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`59`](../tpl/src/punbb/album_modcp_body.tpl#L59)
+* __[`album_moderate_body`](../tpl/var/album_moderate_body.md#readme) :__ ligne [`103`](../tpl/src/punbb/album_moderate_body.tpl#L103)

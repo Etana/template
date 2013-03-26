@@ -12,39 +12,14 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_topic_review)
 
 ## Variables disponibles
-* [__Globales__](../../variables_globales.md#readme)
-* __Propres au template :__
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
     * [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
     * [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
     * [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
     * [`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)
     * [`<!-- BEGIN postrow -->...<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
     * [`<!-- BEGIN switch_inline_mode -->...<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)
-
-## Template par défaut PunBB 
-
-
-[__Code source__](../src/punbb/posting_topic_review.tpl#files)
-
-### Positions des variables 
-
-* __[`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW">*</a> :__ ligne [`3`](../src/punbb/posting_topic_review.tpl#L3)
-* __[`<!-- BEGIN postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow">*</a> :__ ligne [`7`](../src/punbb/posting_topic_review.tpl#L7)
-    * __[`<!-- BEGIN displayed -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed">*</a> :__ ligne [`8`](../src/punbb/posting_topic_review.tpl#L8)
-        * __[`{postrow.displayed.L_TOPIC_ON}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.L_TOPIC_ON.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.L_TOPIC_ON">*</a> :__ ligne [`14`](../src/punbb/posting_topic_review.tpl#L14)
-        * __[`{postrow.displayed.MESSAGE}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.MESSAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.MESSAGE">*</a> :__ ligne [`27`](../src/punbb/posting_topic_review.tpl#L27)
-        * __[`{postrow.displayed.POSTER_NAME}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.POSTER_NAME.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_NAME">*</a> :__ ligne [`20`](../src/punbb/posting_topic_review.tpl#L20)
-        * __[`{postrow.displayed.POST_DATE}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.POST_DATE.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE">*</a> :__ ligne [`14`](../src/punbb/posting_topic_review.tpl#L14)
-        * __[`{postrow.displayed.POST_ID}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.POST_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.POST_ID">*</a> :__ ligne [`9`](../src/punbb/posting_topic_review.tpl#L9)
-        * __[`{postrow.displayed.POST_SUBJECT_NEW}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.POST_SUBJECT_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT_NEW">*</a> :__ ligne [`14`](../src/punbb/posting_topic_review.tpl#L14)
-    * __[`<!-- END displayed -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.md#readme) :__ ligne [`33`](../src/punbb/posting_topic_review.tpl#L33)
-    * __[`<!-- BEGIN hidden -->`](https://github.com/Etana/template/blob/master/var/postrow.hidden.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.hidden">*</a> :__ ligne [`34`](../src/punbb/posting_topic_review.tpl#L34)
-        * __[`{postrow.hidden.MESSAGE}`](https://github.com/Etana/template/blob/master/var/postrow.hidden.MESSAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.hidden.MESSAGE">*</a> :__ ligne [`36`](../src/punbb/posting_topic_review.tpl#L36)
-    * __[`<!-- END hidden -->`](https://github.com/Etana/template/blob/master/var/postrow.hidden.md#readme) :__ ligne [`38`](../src/punbb/posting_topic_review.tpl#L38)
-* __[`<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme) :__ ligne [`39`](../src/punbb/posting_topic_review.tpl#L39)
-* __[`<!-- BEGIN switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_inline_mode">*</a> :__ ligne [`1`](../src/punbb/posting_topic_review.tpl#L1)
-* __[`<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme) :__ ligne [`5`](../src/punbb/posting_topic_review.tpl#L5)
-
 
 ## Template par défaut phpBB2 
 
@@ -73,3 +48,28 @@
 * __[`<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme) :__ ligne [`44`](../src/subsilver/posting_topic_review.tpl#L44)
 * __[`<!-- BEGIN switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_inline_mode">*</a> :__ lignes [`1`](../src/subsilver/posting_topic_review.tpl#L1), [`46`](../src/subsilver/posting_topic_review.tpl#L46)
 * __[`<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme) :__ lignes [`7`](../src/subsilver/posting_topic_review.tpl#L7), [`49`](../src/subsilver/posting_topic_review.tpl#L49)
+
+
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/posting_topic_review.tpl#files)
+
+### Positions des variables 
+
+* __[`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW">*</a> :__ ligne [`3`](../src/punbb/posting_topic_review.tpl#L3)
+* __[`<!-- BEGIN postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow">*</a> :__ ligne [`7`](../src/punbb/posting_topic_review.tpl#L7)
+    * __[`<!-- BEGIN displayed -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed">*</a> :__ ligne [`8`](../src/punbb/posting_topic_review.tpl#L8)
+        * __[`{postrow.displayed.L_TOPIC_ON}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.L_TOPIC_ON.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.L_TOPIC_ON">*</a> :__ ligne [`14`](../src/punbb/posting_topic_review.tpl#L14)
+        * __[`{postrow.displayed.MESSAGE}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.MESSAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.MESSAGE">*</a> :__ ligne [`27`](../src/punbb/posting_topic_review.tpl#L27)
+        * __[`{postrow.displayed.POSTER_NAME}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.POSTER_NAME.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_NAME">*</a> :__ ligne [`20`](../src/punbb/posting_topic_review.tpl#L20)
+        * __[`{postrow.displayed.POST_DATE}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.POST_DATE.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE">*</a> :__ ligne [`14`](../src/punbb/posting_topic_review.tpl#L14)
+        * __[`{postrow.displayed.POST_ID}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.POST_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.POST_ID">*</a> :__ ligne [`9`](../src/punbb/posting_topic_review.tpl#L9)
+        * __[`{postrow.displayed.POST_SUBJECT_NEW}`](https://github.com/Etana/template/blob/master/var/postrow.displayed.POST_SUBJECT_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT_NEW">*</a> :__ ligne [`14`](../src/punbb/posting_topic_review.tpl#L14)
+    * __[`<!-- END displayed -->`](https://github.com/Etana/template/blob/master/var/postrow.displayed.md#readme) :__ ligne [`33`](../src/punbb/posting_topic_review.tpl#L33)
+    * __[`<!-- BEGIN hidden -->`](https://github.com/Etana/template/blob/master/var/postrow.hidden.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.hidden">*</a> :__ ligne [`34`](../src/punbb/posting_topic_review.tpl#L34)
+        * __[`{postrow.hidden.MESSAGE}`](https://github.com/Etana/template/blob/master/var/postrow.hidden.MESSAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.hidden.MESSAGE">*</a> :__ ligne [`36`](../src/punbb/posting_topic_review.tpl#L36)
+    * __[`<!-- END hidden -->`](https://github.com/Etana/template/blob/master/var/postrow.hidden.md#readme) :__ ligne [`38`](../src/punbb/posting_topic_review.tpl#L38)
+* __[`<!-- END postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme) :__ ligne [`39`](../src/punbb/posting_topic_review.tpl#L39)
+* __[`<!-- BEGIN switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme)<a href="https://fa-tvars.appspot.com/var/switch_inline_mode">*</a> :__ ligne [`1`](../src/punbb/posting_topic_review.tpl#L1)
+* __[`<!-- END switch_inline_mode -->`](https://github.com/Etana/template/blob/master/var/switch_inline_mode.md#readme) :__ ligne [`5`](../src/punbb/posting_topic_review.tpl#L5)

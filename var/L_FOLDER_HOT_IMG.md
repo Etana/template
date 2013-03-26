@@ -14,8 +14,8 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ lignes [`72`](../tpl/src/punbb/viewforum_body.tpl#L72), [`72`](../tpl/src/punbb/viewforum_body.tpl#L72)
-
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ lignes [`100`](../tpl/src/subsilver/viewforum_body.tpl#L100), [`100`](../tpl/src/subsilver/viewforum_body.tpl#L100)
+
+### Version PunBB
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ lignes [`72`](../tpl/src/punbb/viewforum_body.tpl#L72), [`72`](../tpl/src/punbb/viewforum_body.tpl#L72)

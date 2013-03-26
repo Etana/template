@@ -18,8 +18,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ ligne [`10`](../tpl/src/punbb/mod_recent_topics.tpl#L10)
-
 ### Version phpBB2
 * __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ ligne [`15`](../tpl/src/subsilver/mod_recent_topics.tpl#L15)
+
+### Version PunBB
+* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ ligne [`10`](../tpl/src/punbb/mod_recent_topics.tpl#L10)

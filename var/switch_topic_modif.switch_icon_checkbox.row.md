@@ -22,10 +22,10 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`629`](../tpl/src/punbb/posting_body.tpl#L629)[`<->`](../tpl/src/punbb/posting_body.tpl#L629-L635)[`635`](../tpl/src/punbb/posting_body.tpl#L635)
-* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`628`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L628)[`<->`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L628-L634)[`634`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L634)
-
 ### Version phpBB2
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`738`](../tpl/src/subsilver/posting_body.tpl#L738)[`<->`](../tpl/src/subsilver/posting_body.tpl#L738-L742)[`742`](../tpl/src/subsilver/posting_body.tpl#L742)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`714`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L714)[`<->`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L714-L718)[`718`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L718)
+
+### Version PunBB
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`629`](../tpl/src/punbb/posting_body.tpl#L629)[`<->`](../tpl/src/punbb/posting_body.tpl#L629-L635)[`635`](../tpl/src/punbb/posting_body.tpl#L635)
+* __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ lignes [`628`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L628)[`<->`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L628-L634)[`634`](../tpl/src/punbb/posting_body_wysiwyg.tpl#L634)

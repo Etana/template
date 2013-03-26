@@ -21,8 +21,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`114`](../tpl/src/punbb/profile_add_body.tpl#L114)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L114-L127)[`127`](../tpl/src/punbb/profile_add_body.tpl#L127)
-
 ### Version phpBB2
 * __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`48`](../tpl/src/subsilver/profile_add_body.tpl#L48)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L48-L63)[`63`](../tpl/src/subsilver/profile_add_body.tpl#L63)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`114`](../tpl/src/punbb/profile_add_body.tpl#L114)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L114-L127)[`127`](../tpl/src/punbb/profile_add_body.tpl#L127)

@@ -14,8 +14,8 @@ Contient un lien vers l'envoi d'un message privé au membre et l'image définie 
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`87`](../tpl/src/punbb/memberlist_body.tpl#L87)
-
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`48`](../tpl/src/subsilver/memberlist_body.tpl#L48)
+
+### Version PunBB
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`87`](../tpl/src/punbb/memberlist_body.tpl#L87)

@@ -16,8 +16,8 @@ Contient la version d'affichage de Internet Explorer pour la balise X-UA-Compati
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`9`](../tpl/src/punbb/overall_header.tpl#L9)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`9`](../tpl/src/subsilver/overall_header.tpl#L9)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`9`](../tpl/src/punbb/overall_header.tpl#L9)

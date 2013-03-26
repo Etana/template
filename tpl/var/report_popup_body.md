@@ -12,12 +12,24 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/report_popup_body)
 
 ## Variables disponibles
-* [__Globales__](../../variables_globales.md#readme)
-* __Propres au template :__
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
     * [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
     * [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
     * [`{U_REPORT_LIST}`](https://github.com/Etana/template/blob/master/var/U_REPORT_LIST.md#readme)
     * [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
+
+## Template par défaut phpBB2 
+
+
+[__Code source__](../src/subsilver/report_popup_body.tpl#files)
+
+### Positions des variables 
+
+* __[`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme) :__ ligne [`18`](../src/subsilver/report_popup_body.tpl#L18)
+* __[`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme) :__ ligne [`16`](../src/subsilver/report_popup_body.tpl#L16)
+* __[`{U_REPORT_LIST}`](https://github.com/Etana/template/blob/master/var/U_REPORT_LIST.md#readme)<a href="https://fa-tvars.appspot.com/var/U_REPORT_LIST">*</a> :__ ligne [`5`](../src/subsilver/report_popup_body.tpl#L5)
+
 
 ## Template par défaut PunBB 
 
@@ -31,15 +43,3 @@
 * __[`{U_REPORT_LIST}`](https://github.com/Etana/template/blob/master/var/U_REPORT_LIST.md#readme)<a href="https://fa-tvars.appspot.com/var/U_REPORT_LIST">*</a> :__ ligne [`10`](../src/punbb/report_popup_body.tpl#L10)
 * __[`<!-- BEGIN html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme) :__ ligne [`1`](../src/punbb/report_popup_body.tpl#L1)
 * __[`<!-- END html_validation -->`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme) :__ ligne [`5`](../src/punbb/report_popup_body.tpl#L5)
-
-
-## Template par défaut phpBB2 
-
-
-[__Code source__](../src/subsilver/report_popup_body.tpl#files)
-
-### Positions des variables 
-
-* __[`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme) :__ ligne [`18`](../src/subsilver/report_popup_body.tpl#L18)
-* __[`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme) :__ ligne [`16`](../src/subsilver/report_popup_body.tpl#L16)
-* __[`{U_REPORT_LIST}`](https://github.com/Etana/template/blob/master/var/U_REPORT_LIST.md#readme)<a href="https://fa-tvars.appspot.com/var/U_REPORT_LIST">*</a> :__ ligne [`5`](../src/subsilver/report_popup_body.tpl#L5)

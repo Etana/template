@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`calendar_body`](../tpl/var/calendar_body.md#readme) :__ ligne [`20`](../tpl/src/punbb/calendar_body.tpl#L20)
-
 ### Version phpBB2
 * __[`calendar_body`](../tpl/var/calendar_body.md#readme) :__ ligne [`6`](../tpl/src/subsilver/calendar_body.tpl#L6)
+
+### Version PunBB
+* __[`calendar_body`](../tpl/var/calendar_body.md#readme) :__ ligne [`20`](../tpl/src/punbb/calendar_body.tpl#L20)

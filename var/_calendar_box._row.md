@@ -20,8 +20,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`23`](../tpl/src/punbb/calendar_box.tpl#L23)[`<->`](../tpl/src/punbb/calendar_box.tpl#L23-L61)[`61`](../tpl/src/punbb/calendar_box.tpl#L61)
-
 ### Version phpBB2
 * __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`31`](../tpl/src/subsilver/calendar_box.tpl#L31)[`<->`](../tpl/src/subsilver/calendar_box.tpl#L31-L89)[`89`](../tpl/src/subsilver/calendar_box.tpl#L89)
+
+### Version PunBB
+* __[`calendar_box`](../tpl/var/calendar_box.md#readme) :__ lignes [`23`](../tpl/src/punbb/calendar_box.tpl#L23)[`<->`](../tpl/src/punbb/calendar_box.tpl#L23-L61)[`61`](../tpl/src/punbb/calendar_box.tpl#L61)

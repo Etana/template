@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`2`](../tpl/src/punbb/mod_statistics.tpl#L2)
-
 ### Version phpBB2
 * __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`4`](../tpl/src/subsilver/mod_statistics.tpl#L4)
+
+### Version PunBB
+* __[`mod_statistics`](../tpl/var/mod_statistics.md#readme) :__ ligne [`2`](../tpl/src/punbb/mod_statistics.tpl#L2)

@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`calendar_overview_profil`](../tpl/var/calendar_overview_profil.md#readme) :__ ligne [`8`](../tpl/src/punbb/calendar_overview_profil.tpl#L8)
-
 ### Version phpBB2
 * __[`calendar_overview_profil`](../tpl/var/calendar_overview_profil.md#readme) :__ ligne [`15`](../tpl/src/subsilver/calendar_overview_profil.tpl#L15)
+
+### Version PunBB
+* __[`calendar_overview_profil`](../tpl/var/calendar_overview_profil.md#readme) :__ ligne [`8`](../tpl/src/punbb/calendar_overview_profil.tpl#L8)

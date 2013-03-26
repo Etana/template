@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`44`](../tpl/src/punbb/search_body.tpl#L44)
-
 ### Version phpBB2
 * __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`20`](../tpl/src/subsilver/search_body.tpl#L20)
+
+### Version PunBB
+* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`44`](../tpl/src/punbb/search_body.tpl#L44)

@@ -14,8 +14,8 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`38`](../tpl/src/punbb/donate.tpl#L38)
-
 ### Version phpBB2
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`34`](../tpl/src/subsilver/donate.tpl#L34)
+
+### Version PunBB
+* __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`38`](../tpl/src/punbb/donate.tpl#L38)

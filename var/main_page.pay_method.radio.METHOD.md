@@ -20,8 +20,8 @@ Variable importante au fonctionnement des donations.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`46`](../tpl/src/punbb/donate.tpl#L46), [`46`](../tpl/src/punbb/donate.tpl#L46)
-
 ### Version phpBB2
 * __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`50`](../tpl/src/subsilver/donate.tpl#L50), [`50`](../tpl/src/subsilver/donate.tpl#L50)
+
+### Version PunBB
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`46`](../tpl/src/punbb/donate.tpl#L46), [`46`](../tpl/src/punbb/donate.tpl#L46)

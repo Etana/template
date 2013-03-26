@@ -12,19 +12,9 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_chatbox)
 
 ## Variables disponibles
-* [__Globales__](../../variables_globales.md#readme)
-* __Propres au template :__
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
     * [`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)
-
-## Template par défaut PunBB 
-
-
-[__Code source__](../src/punbb/mod_chatbox.tpl#files)
-
-### Positions des variables 
-
-* __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX">*</a> :__ ligne [`5`](../src/punbb/mod_chatbox.tpl#L5)
-
 
 ## Template par défaut phpBB2 
 
@@ -34,3 +24,13 @@
 ### Positions des variables 
 
 * __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX">*</a> :__ ligne [`6`](../src/subsilver/mod_chatbox.tpl#L6)
+
+
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/mod_chatbox.tpl#files)
+
+### Positions des variables 
+
+* __[`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)<a href="https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX">*</a> :__ ligne [`5`](../src/punbb/mod_chatbox.tpl#L5)

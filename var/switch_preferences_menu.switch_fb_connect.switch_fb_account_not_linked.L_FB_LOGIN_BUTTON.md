@@ -18,8 +18,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`214`](../tpl/src/punbb/profile_add_body.tpl#L214)
-
 ### Version phpBB2
 * __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`161`](../tpl/src/subsilver/profile_add_body.tpl#L161)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`214`](../tpl/src/punbb/profile_add_body.tpl#L214)

@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`9`](../tpl/src/punbb/posting_topic_review.tpl#L9)
-
 ### Version phpBB2
 * __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`16`](../tpl/src/subsilver/posting_topic_review.tpl#L16)
+
+### Version PunBB
+* __[`posting_topic_review`](../tpl/var/posting_topic_review.md#readme) :__ ligne [`9`](../tpl/src/punbb/posting_topic_review.tpl#L9)

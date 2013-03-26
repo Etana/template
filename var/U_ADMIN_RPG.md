@@ -12,10 +12,10 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`23`](../tpl/src/punbb/rpg_sheet_edit.tpl#L23)
-* __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ ligne [`123`](../tpl/src/punbb/profile_view_body.tpl#L123)
-
 ### Version phpBB2
-* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`10`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L10)
 * __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ ligne [`138`](../tpl/src/subsilver/profile_view_body.tpl#L138)
+* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`10`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L10)
+
+### Version PunBB
+* __[`profile_view_body`](../tpl/var/profile_view_body.md#readme) :__ ligne [`123`](../tpl/src/punbb/profile_view_body.tpl#L123)
+* __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`23`](../tpl/src/punbb/rpg_sheet_edit.tpl#L23)

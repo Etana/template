@@ -20,8 +20,8 @@ Image `Message Privé` ( choisie dans [`Index`](http://votre-forum.appspot.com/#
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`22`](../tpl/src/punbb/groupcp_pending_info.tpl#L22)
-
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`16`](../tpl/src/subsilver/groupcp_pending_info.tpl#L16)
+
+### Version PunBB
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`22`](../tpl/src/punbb/groupcp_pending_info.tpl#L22)

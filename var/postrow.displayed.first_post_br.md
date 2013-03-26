@@ -18,8 +18,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`124`](../tpl/src/punbb/viewtopic_body.tpl#L124)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L124-L128)[`128`](../tpl/src/punbb/viewtopic_body.tpl#L128)
-
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`247`](../tpl/src/subsilver/viewtopic_body.tpl#L247)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L247-L255)[`255`](../tpl/src/subsilver/viewtopic_body.tpl#L255)
+
+### Version PunBB
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`124`](../tpl/src/punbb/viewtopic_body.tpl#L124)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L124-L128)[`128`](../tpl/src/punbb/viewtopic_body.tpl#L128)

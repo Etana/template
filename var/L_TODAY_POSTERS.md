@@ -14,8 +14,8 @@ Affiche le texte du lien de la variable [`{U_TODAY_POSTERS}`](https://github.com
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`64`](../tpl/src/punbb/index_box.tpl#L64)
-
 ### Version phpBB2
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ ligne [`98`](../tpl/src/subsilver/index_body.tpl#L98)
+
+### Version PunBB
+* __[`index_box`](../tpl/var/index_box.md#readme) :__ ligne [`64`](../tpl/src/punbb/index_box.tpl#L64)

@@ -14,8 +14,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`57`](../tpl/src/punbb/album_modcp_body.tpl#L57)
-
 ### Version phpBB2
 * __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`42`](../tpl/src/subsilver/album_modcp_body.tpl#L42)
+
+### Version PunBB
+* __[`album_modcp_body`](../tpl/var/album_modcp_body.md#readme) :__ ligne [`57`](../tpl/src/punbb/album_modcp_body.tpl#L57)

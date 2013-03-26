@@ -22,8 +22,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ lignes [`54`](../tpl/src/punbb/viewonline_body.tpl#L54)[`<->`](../tpl/src/punbb/viewonline_body.tpl#L54-L60)[`60`](../tpl/src/punbb/viewonline_body.tpl#L60)
-
 ### Version phpBB2
 * __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ lignes [`36`](../tpl/src/subsilver/viewonline_body.tpl#L36)[`<->`](../tpl/src/subsilver/viewonline_body.tpl#L36-L42)[`42`](../tpl/src/subsilver/viewonline_body.tpl#L42)
+
+### Version PunBB
+* __[`viewonline_body`](../tpl/var/viewonline_body.md#readme) :__ lignes [`54`](../tpl/src/punbb/viewonline_body.tpl#L54)[`<->`](../tpl/src/punbb/viewonline_body.tpl#L54-L60)[`60`](../tpl/src/punbb/viewonline_body.tpl#L60)

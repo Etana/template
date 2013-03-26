@@ -12,8 +12,8 @@ Texte `Ce groupe n'a pas de membres` si le groupe n'a pas de membre autre que le
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`117`](../tpl/src/punbb/groupcp_info_body.tpl#L117)
-
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`77`](../tpl/src/subsilver/groupcp_info_body.tpl#L77)
+
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme) :__ ligne [`117`](../tpl/src/punbb/groupcp_info_body.tpl#L117)

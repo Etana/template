@@ -12,8 +12,8 @@ Contient la langue de votre forum.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`43`](../tpl/src/punbb/search_body.tpl#L43)
-
 ### Version phpBB2
 * __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`19`](../tpl/src/subsilver/search_body.tpl#L19)
+
+### Version PunBB
+* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`43`](../tpl/src/punbb/search_body.tpl#L43)

@@ -21,8 +21,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`26`](../tpl/src/punbb/faq_body.tpl#L26)[`<->`](../tpl/src/punbb/faq_body.tpl#L26-L28)[`28`](../tpl/src/punbb/faq_body.tpl#L28)
-
 ### Version phpBB2
 * __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`11`](../tpl/src/subsilver/faq_body.tpl#L11)[`<->`](../tpl/src/subsilver/faq_body.tpl#L11-L13)[`13`](../tpl/src/subsilver/faq_body.tpl#L13)
+
+### Version PunBB
+* __[`faq_body`](../tpl/var/faq_body.md#readme) :__ lignes [`26`](../tpl/src/punbb/faq_body.tpl#L26)[`<->`](../tpl/src/punbb/faq_body.tpl#L26-L28)[`28`](../tpl/src/punbb/faq_body.tpl#L28)

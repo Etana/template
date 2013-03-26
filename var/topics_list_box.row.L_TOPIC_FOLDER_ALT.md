@@ -16,8 +16,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`75`](../tpl/src/punbb/topics_list_box.tpl#L75), [`75`](../tpl/src/punbb/topics_list_box.tpl#L75)
-
 ### Version phpBB2
 * __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`50`](../tpl/src/subsilver/topics_list_box.tpl#L50), [`50`](../tpl/src/subsilver/topics_list_box.tpl#L50)
+
+### Version PunBB
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`75`](../tpl/src/punbb/topics_list_box.tpl#L75), [`75`](../tpl/src/punbb/topics_list_box.tpl#L75)

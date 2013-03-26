@@ -20,8 +20,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`65`](../tpl/src/punbb/album_index_body.tpl#L65)[`<->`](../tpl/src/punbb/album_index_body.tpl#L65-L67)[`67`](../tpl/src/punbb/album_index_body.tpl#L67)
-
 ### Version phpBB2
 * __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`102`](../tpl/src/subsilver/album_index_body.tpl#L102)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L102-L106)[`106`](../tpl/src/subsilver/album_index_body.tpl#L106)
+
+### Version PunBB
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`65`](../tpl/src/punbb/album_index_body.tpl#L65)[`<->`](../tpl/src/punbb/album_index_body.tpl#L65-L67)[`67`](../tpl/src/punbb/album_index_body.tpl#L67)

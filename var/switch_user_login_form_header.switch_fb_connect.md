@@ -22,8 +22,8 @@ Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`43`](../tpl/src/punbb/index_body.tpl#L43)[`<->`](../tpl/src/punbb/index_body.tpl#L43-L46)[`46`](../tpl/src/punbb/index_body.tpl#L46)
-
 ### Version phpBB2
 * __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`46`](../tpl/src/subsilver/index_body.tpl#L46)[`<->`](../tpl/src/subsilver/index_body.tpl#L46-L79)[`79`](../tpl/src/subsilver/index_body.tpl#L79)
+
+### Version PunBB
+* __[`index_body`](../tpl/var/index_body.md#readme) :__ lignes [`43`](../tpl/src/punbb/index_body.tpl#L43)[`<->`](../tpl/src/punbb/index_body.tpl#L43-L46)[`46`](../tpl/src/punbb/index_body.tpl#L46)

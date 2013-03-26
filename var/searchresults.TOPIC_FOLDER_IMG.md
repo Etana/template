@@ -14,9 +14,9 @@ Contient l'image des sujets définie dans `PA > Affichage > Images et Couleurs |
 
 ## Utilisations dans les templates
 
+### Version phpBB2
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`32`](../tpl/src/subsilver/search_results_topics.tpl#L32)
+* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`16`](../tpl/src/subsilver/search_results_posts.tpl#L16)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`49`](../tpl/src/punbb/search_results_topics.tpl#L49)
-
-### Version phpBB2
-* __[`search_results_posts`](../tpl/var/search_results_posts.md#readme) :__ ligne [`16`](../tpl/src/subsilver/search_results_posts.tpl#L16)
-* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`32`](../tpl/src/subsilver/search_results_topics.tpl#L32)

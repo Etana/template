@@ -12,8 +12,8 @@ Image pour aller en bas définie dans `PA > Affichage > Images et Couleurs | Ges
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`112`](../tpl/src/punbb/viewtopic_body.tpl#L112)
-
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`100`](../tpl/src/subsilver/viewtopic_body.tpl#L100), [`235`](../tpl/src/subsilver/viewtopic_body.tpl#L235)
+
+### Version PunBB
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ ligne [`112`](../tpl/src/punbb/viewtopic_body.tpl#L112)

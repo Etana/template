@@ -14,8 +14,8 @@ Contient l'image vers le lien de la dernière réponse définie dans `PA > Affic
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`52`](../tpl/src/punbb/search_results_topics.tpl#L52)
-
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`34`](../tpl/src/subsilver/search_results_topics.tpl#L34)
+
+### Version PunBB
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`52`](../tpl/src/punbb/search_results_topics.tpl#L52)

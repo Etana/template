@@ -14,8 +14,8 @@ Lien pour installer le thème prévisualisé.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`204`](../tpl/src/punbb/overall_header.tpl#L204)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`209`](../tpl/src/subsilver/overall_header.tpl#L209)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ ligne [`204`](../tpl/src/punbb/overall_header.tpl#L204)

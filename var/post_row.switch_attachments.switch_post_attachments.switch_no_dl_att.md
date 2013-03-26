@@ -26,8 +26,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`27`](../tpl/src/punbb/mod_news.tpl#L27)[`<->`](../tpl/src/punbb/mod_news.tpl#L27-L29)[`29`](../tpl/src/punbb/mod_news.tpl#L29), [`38`](../tpl/src/punbb/mod_news.tpl#L38)[`<->`](../tpl/src/punbb/mod_news.tpl#L38-L42)[`42`](../tpl/src/punbb/mod_news.tpl#L42)
-
 ### Version phpBB2
 * __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`34`](../tpl/src/subsilver/mod_news.tpl#L34)[`<->`](../tpl/src/subsilver/mod_news.tpl#L34-L36)[`36`](../tpl/src/subsilver/mod_news.tpl#L36), [`45`](../tpl/src/subsilver/mod_news.tpl#L45)[`<->`](../tpl/src/subsilver/mod_news.tpl#L45-L49)[`49`](../tpl/src/subsilver/mod_news.tpl#L49)
+
+### Version PunBB
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`27`](../tpl/src/punbb/mod_news.tpl#L27)[`<->`](../tpl/src/punbb/mod_news.tpl#L27-L29)[`29`](../tpl/src/punbb/mod_news.tpl#L29), [`38`](../tpl/src/punbb/mod_news.tpl#L38)[`<->`](../tpl/src/punbb/mod_news.tpl#L38-L42)[`42`](../tpl/src/punbb/mod_news.tpl#L42)

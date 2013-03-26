@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`235`](../tpl/src/punbb/posting_body.tpl#L235), [`315`](../tpl/src/punbb/posting_body.tpl#L315)
-
 ### Version phpBB2
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`289`](../tpl/src/subsilver/posting_body.tpl#L289), [`366`](../tpl/src/subsilver/posting_body.tpl#L366)
+
+### Version PunBB
+* __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`235`](../tpl/src/punbb/posting_body.tpl#L235), [`315`](../tpl/src/punbb/posting_body.tpl#L315)

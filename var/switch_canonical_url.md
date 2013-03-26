@@ -18,8 +18,8 @@ Cette boucle s'affiche automatiquement si nécessaire.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`11`](../tpl/src/punbb/overall_header.tpl#L11)[`<->`](../tpl/src/punbb/overall_header.tpl#L11-L13)[`13`](../tpl/src/punbb/overall_header.tpl#L13)
-
 ### Version phpBB2
 * __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`11`](../tpl/src/subsilver/overall_header.tpl#L11)[`<->`](../tpl/src/subsilver/overall_header.tpl#L11-L13)[`13`](../tpl/src/subsilver/overall_header.tpl#L13)
+
+### Version PunBB
+* __[`overall_header`](../tpl/var/overall_header.md#readme) :__ lignes [`11`](../tpl/src/punbb/overall_header.tpl#L11)[`<->`](../tpl/src/punbb/overall_header.tpl#L11-L13)[`13`](../tpl/src/punbb/overall_header.tpl#L13)

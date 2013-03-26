@@ -44,8 +44,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`2`](../tpl/src/punbb/birthday_list_box.tpl#L2)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L2-L48)[`48`](../tpl/src/punbb/birthday_list_box.tpl#L48)
-
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`1`](../tpl/src/subsilver/birthday_list_box.tpl#L1)[`<->`](../tpl/src/subsilver/birthday_list_box.tpl#L1-L59)[`59`](../tpl/src/subsilver/birthday_list_box.tpl#L59)
+
+### Version PunBB
+* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ lignes [`2`](../tpl/src/punbb/birthday_list_box.tpl#L2)[`<->`](../tpl/src/punbb/birthday_list_box.tpl#L2-L48)[`48`](../tpl/src/punbb/birthday_list_box.tpl#L48)

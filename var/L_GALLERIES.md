@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`36`](../tpl/src/punbb/album_formsearch_body.tpl#L36)
-
 ### Version phpBB2
 * __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`17`](../tpl/src/subsilver/album_formsearch_body.tpl#L17)
+
+### Version PunBB
+* __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`36`](../tpl/src/punbb/album_formsearch_body.tpl#L36)

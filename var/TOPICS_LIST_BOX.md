@@ -12,8 +12,8 @@ Affiche le template [`topics_list_box`](https://github.com/Etana/template/blob/m
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`38`](../tpl/src/punbb/viewforum_body.tpl#L38)
-
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`25`](../tpl/src/subsilver/viewforum_body.tpl#L25)
+
+### Version PunBB
+* __[`viewforum_body`](../tpl/var/viewforum_body.md#readme) :__ ligne [`38`](../tpl/src/punbb/viewforum_body.tpl#L38)

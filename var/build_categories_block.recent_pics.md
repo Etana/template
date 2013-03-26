@@ -23,8 +23,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`25`](../tpl/src/punbb/album_index_body.tpl#L25)[`<->`](../tpl/src/punbb/album_index_body.tpl#L25-L45)[`45`](../tpl/src/punbb/album_index_body.tpl#L45)
-
 ### Version phpBB2
 * __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`16`](../tpl/src/subsilver/album_index_body.tpl#L16)[`<->`](../tpl/src/subsilver/album_index_body.tpl#L16-L63)[`63`](../tpl/src/subsilver/album_index_body.tpl#L63)
+
+### Version PunBB
+* __[`album_index_body`](../tpl/var/album_index_body.md#readme) :__ lignes [`25`](../tpl/src/punbb/album_index_body.tpl#L25)[`<->`](../tpl/src/punbb/album_index_body.tpl#L25-L45)[`45`](../tpl/src/punbb/album_index_body.tpl#L45)

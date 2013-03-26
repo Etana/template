@@ -14,19 +14,9 @@
 Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ## Variables disponibles
-* [__Globales__](../../variables_globales.md#readme)
-* __Propres au template :__
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
     * [`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme)
-
-## Template par défaut PunBB 
-
-
-[__Code source__](../src/punbb/error_body.tpl#files)
-
-### Positions des variables 
-
-* __[`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme) :__ ligne [`4`](../src/punbb/error_body.tpl#L4)
-
 
 ## Template par défaut phpBB2 
 
@@ -36,3 +26,13 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 ### Positions des variables 
 
 * __[`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme) :__ ligne [`9`](../src/subsilver/error_body.tpl#L9)
+
+
+## Template par défaut PunBB 
+
+
+[__Code source__](../src/punbb/error_body.tpl#files)
+
+### Positions des variables 
+
+* __[`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme) :__ ligne [`4`](../src/punbb/error_body.tpl#L4)

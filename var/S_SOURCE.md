@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`standard`](../tpl/var/standard.md#readme) :__ ligne [`6`](../tpl/src/punbb/standard.tpl#L6)
-
 ### Version phpBB2
 * __[`standard`](../tpl/var/standard.md#readme) :__ ligne [`12`](../tpl/src/subsilver/standard.tpl#L12)
+
+### Version PunBB
+* __[`standard`](../tpl/var/standard.md#readme) :__ ligne [`6`](../tpl/src/punbb/standard.tpl#L6)

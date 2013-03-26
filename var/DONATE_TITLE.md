@@ -12,8 +12,8 @@ Titre de l'annonce défini dans `PA > Divers > Gestion des crédits | Donations 
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`19`](../tpl/src/punbb/donate.tpl#L19), [`26`](../tpl/src/punbb/donate.tpl#L26)
-
 ### Version phpBB2
 * __[`donate`](../tpl/var/donate.md#readme) :__ ligne [`3`](../tpl/src/subsilver/donate.tpl#L3)
+
+### Version PunBB
+* __[`donate`](../tpl/var/donate.md#readme) :__ lignes [`19`](../tpl/src/punbb/donate.tpl#L19), [`26`](../tpl/src/punbb/donate.tpl#L26)

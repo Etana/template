@@ -26,8 +26,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`37`](../tpl/src/punbb/mod_recent_topics.tpl#L37)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L37-L53)[`53`](../tpl/src/punbb/mod_recent_topics.tpl#L53)
-
 ### Version phpBB2
 * __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`46`](../tpl/src/subsilver/mod_recent_topics.tpl#L46)[`<->`](../tpl/src/subsilver/mod_recent_topics.tpl#L46-L62)[`62`](../tpl/src/subsilver/mod_recent_topics.tpl#L62)
+
+### Version PunBB
+* __[`mod_recent_topics`](../tpl/var/mod_recent_topics.md#readme) :__ lignes [`37`](../tpl/src/punbb/mod_recent_topics.tpl#L37)[`<->`](../tpl/src/punbb/mod_recent_topics.tpl#L37-L53)[`53`](../tpl/src/punbb/mod_recent_topics.tpl#L53)

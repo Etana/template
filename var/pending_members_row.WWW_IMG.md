@@ -20,8 +20,8 @@ Image `Visiter le site web du posteur` ( choisie dans [`Index`](http://votre-for
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`27`](../tpl/src/punbb/groupcp_pending_info.tpl#L27)
-
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`21`](../tpl/src/subsilver/groupcp_pending_info.tpl#L21)
+
+### Version PunBB
+* __[`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme) :__ ligne [`27`](../tpl/src/punbb/groupcp_pending_info.tpl#L27)

@@ -12,8 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_upload_body`](../tpl/var/album_upload_body.md#readme) :__ ligne [`98`](../tpl/src/punbb/album_upload_body.tpl#L98)
-
 ### Version phpBB2
 * __[`album_upload_body`](../tpl/var/album_upload_body.md#readme) :__ ligne [`83`](../tpl/src/subsilver/album_upload_body.tpl#L83)
+
+### Version PunBB
+* __[`album_upload_body`](../tpl/var/album_upload_body.md#readme) :__ ligne [`98`](../tpl/src/punbb/album_upload_body.tpl#L98)

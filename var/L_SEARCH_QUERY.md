@@ -14,10 +14,10 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`24`](../tpl/src/punbb/album_formsearch_body.tpl#L24)
-* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`26`](../tpl/src/punbb/search_body.tpl#L26)
-
 ### Version phpBB2
 * __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`4`](../tpl/src/subsilver/album_formsearch_body.tpl#L4)
 * __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`5`](../tpl/src/subsilver/search_body.tpl#L5)
+
+### Version PunBB
+* __[`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme) :__ ligne [`24`](../tpl/src/punbb/album_formsearch_body.tpl#L24)
+* __[`search_body`](../tpl/var/search_body.md#readme) :__ ligne [`26`](../tpl/src/punbb/search_body.tpl#L26)

@@ -14,8 +14,8 @@ Contient un lien vers le site web du membre et l'image définie dans `PA > Affic
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`88`](../tpl/src/punbb/memberlist_body.tpl#L88)
-
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`49`](../tpl/src/subsilver/memberlist_body.tpl#L49)
+
+### Version PunBB
+* __[`memberlist_body`](../tpl/var/memberlist_body.md#readme) :__ ligne [`88`](../tpl/src/punbb/memberlist_body.tpl#L88)

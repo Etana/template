@@ -30,8 +30,8 @@ contenu
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`1`](../tpl/src/punbb/mod_news.tpl#L1)[`<->`](../tpl/src/punbb/mod_news.tpl#L1-L58)[`58`](../tpl/src/punbb/mod_news.tpl#L58)
-
 ### Version phpBB2
 * __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`1`](../tpl/src/subsilver/mod_news.tpl#L1)[`<->`](../tpl/src/subsilver/mod_news.tpl#L1-L67)[`67`](../tpl/src/subsilver/mod_news.tpl#L67)
+
+### Version PunBB
+* __[`mod_news`](../tpl/var/mod_news.md#readme) :__ lignes [`1`](../tpl/src/punbb/mod_news.tpl#L1)[`<->`](../tpl/src/punbb/mod_news.tpl#L1-L58)[`58`](../tpl/src/punbb/mod_news.tpl#L58)

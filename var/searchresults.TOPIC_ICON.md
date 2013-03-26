@@ -14,8 +14,8 @@ Contient l'icône du sujet pouvant être défini dans `PA > Affichage > Images e
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`51`](../tpl/src/punbb/search_results_topics.tpl#L51)
-
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`33`](../tpl/src/subsilver/search_results_topics.tpl#L33)
+
+### Version PunBB
+* __[`search_results_topics`](../tpl/var/search_results_topics.md#readme) :__ ligne [`51`](../tpl/src/punbb/search_results_topics.tpl#L51)

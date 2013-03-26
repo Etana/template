@@ -20,8 +20,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`317`](../tpl/src/punbb/album_showpage_body.tpl#L317), [`317`](../tpl/src/punbb/album_showpage_body.tpl#L317)
-
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`332`](../tpl/src/subsilver/album_showpage_body.tpl#L332), [`332`](../tpl/src/subsilver/album_showpage_body.tpl#L332)
+
+### Version PunBB
+* __[`album_showpage_body`](../tpl/var/album_showpage_body.md#readme) :__ lignes [`317`](../tpl/src/punbb/album_showpage_body.tpl#L317), [`317`](../tpl/src/punbb/album_showpage_body.tpl#L317)

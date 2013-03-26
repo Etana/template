@@ -18,8 +18,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`120`](../tpl/src/punbb/topics_list_box.tpl#L120)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L120-L120)[`120`](../tpl/src/punbb/topics_list_box.tpl#L120)
-
 ### Version phpBB2
 * __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`95`](../tpl/src/subsilver/topics_list_box.tpl#L95)[`<->`](../tpl/src/subsilver/topics_list_box.tpl#L95-L95)[`95`](../tpl/src/subsilver/topics_list_box.tpl#L95)
+
+### Version PunBB
+* __[`topics_list_box`](../tpl/var/topics_list_box.md#readme) :__ lignes [`120`](../tpl/src/punbb/topics_list_box.tpl#L120)[`<->`](../tpl/src/punbb/topics_list_box.tpl#L120-L120)[`120`](../tpl/src/punbb/topics_list_box.tpl#L120)

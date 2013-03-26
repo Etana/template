@@ -20,8 +20,8 @@
 
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`177`](../tpl/src/punbb/viewtopic_body.tpl#L177)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L177-L179)[`179`](../tpl/src/punbb/viewtopic_body.tpl#L179)
-
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`168`](../tpl/src/subsilver/viewtopic_body.tpl#L168)[`<->`](../tpl/src/subsilver/viewtopic_body.tpl#L168-L170)[`170`](../tpl/src/subsilver/viewtopic_body.tpl#L170)
+
+### Version PunBB
+* __[`viewtopic_body`](../tpl/var/viewtopic_body.md#readme) :__ lignes [`177`](../tpl/src/punbb/viewtopic_body.tpl#L177)[`<->`](../tpl/src/punbb/viewtopic_body.tpl#L177-L179)[`179`](../tpl/src/punbb/viewtopic_body.tpl#L179)
