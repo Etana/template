@@ -1,6 +1,6 @@
 # L_WHO_IS_ONLINE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme), [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,9 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_WHO_IS_ONLINE)
-Chaîne de texte.
+Chaîne de caractère.
 
-* __Remplacement en français :__ `Qui est en ligne ?`
+* __Remplacement français :__ `Qui est en ligne ?`
 
 ## Utilisations dans les templates
 

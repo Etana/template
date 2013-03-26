@@ -1,6 +1,6 @@
 # SITENAME
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`agreement`](../tpl/var/agreement.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SITENAME)
-Contient le titre de votre forum défini dans votre `PA > Général > Forum | Configuration > Nom du site`.
+Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-forum.appspot.com/#/admin/,&part=general,&mode=general&sub=general) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=general,&mode=general&sub=general) > [`Général`](http://votre-forum.appspot.com/admin/?part=general#&mode=general&sub=general) > [`Forum | Configuration`](http://votre-forum.appspot.com/admin/?mode=general&part=general&sub=general).
 
 ## Utilisations dans les templates
 

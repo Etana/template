@@ -1,6 +1,6 @@
 # U_REGISTER
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_REGISTER)
-Lien vers la page d'inscription.
+Adresse url absolue vers la page d'inscription : `/register`
 
 ## Utilisations dans les templates
 

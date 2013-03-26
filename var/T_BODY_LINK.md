@@ -1,6 +1,6 @@
 # T_BODY_LINK
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_BODY_LINK)
-Couleur des liens définie dans `PA > Affichage > Images et Couleurs | Couleurs > Couleur du Lien`.
+`Couleur du Lien` définie dans [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=colors&sub=logos) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=colors&sub=logos) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=colors&sub=logos) > [`Images et Couleurs | Couleurs`](http://votre-forum.appspot.com/admin/?mode=colors&part=themes&sub=logos).
 
 ## Utilisations dans les templates
 

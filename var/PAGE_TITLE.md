@@ -1,6 +1,6 @@
 # PAGE_TITLE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PAGE_TITLE)
-Contient le titre de la page.
+Contient le titre de la page sur laquelle on se trouve.
 
 ## Utilisations dans les templates
 

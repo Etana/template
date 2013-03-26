@@ -1,6 +1,6 @@
 # L_USERNAME
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_upload_body`](../tpl/var/album_upload_body.md#readme), [`calendar_overview_profil`](../tpl/var/calendar_overview_profil.md#readme), [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`index_body`](../tpl/var/index_body.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`mod_login`](../tpl/var/mod_login.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme), [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,9 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_USERNAME)
-Chaîne de texte.
+Chaîne de caractère.
 
-* __Contenu en français :__ `Nom d'utilisateur`
+* __Remplacement français :__ `Nom d'utilisateur`
 
 ## Utilisations dans les templates
 

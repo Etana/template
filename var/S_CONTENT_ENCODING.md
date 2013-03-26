@@ -1,6 +1,6 @@
 # S_CONTENT_ENCODING
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`posting_smilies_frame`](../tpl/var/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/var/posting_smilies_wysiwyg.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,10 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING)
-Contient l'encodage de votre forum (windows-1252 ou UTF-8).
+Remplacé par l'[encodage](http://fr.wikipedia.org/wiki/Codage_des_caract%C3%A8res) de votre forum.
 
-* __Avant le 17 septembre 2008 midi :__ `windows-1252`
-* __Après le 17 septembre 2008 midi :__`UTF-8`
+* __Si votre forum a été créé avant le 17 septembre 2008 :__ l'encodage dépendra de la langue d'affichage du forum, pour le français ce sera `windows-1252`.
+* __Si votre forum a été créé après le 17 septembre 2008 :__ l'encodage sera `utf-8` quelle que soit la langue du forum.
 
 ## Utilisations dans les templates
 

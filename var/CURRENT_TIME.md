@@ -1,6 +1,6 @@
 # CURRENT_TIME
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_box`](../tpl/var/index_box.md#readme), [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,9 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CURRENT_TIME)
-Chaîne de texte.
+Texte avec la date actuelle.
 
 * __Contenu en français :__ `La date/heure actuelle est JJJ JJ MMM AAAA - HH:MM`
+* __Exemple de remplacement français :__ `La date/heure actuelle est Mar 26 Mar 2013 - 10:01`
 
 ## Utilisations dans les templates
 

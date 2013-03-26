@@ -1,6 +1,6 @@
 # L_SEARCH
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme), [`merge_body`](../tpl/var/merge_body.md#readme), [`mod_search`](../tpl/var/mod_search.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`search_username`](../tpl/var/search_username.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,9 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH)
-Chaîne de texte.
+Chaîne de caractère.
 
-* __Contenu en français :__ `Rechercher`
+* __Remplacement français :__ `Rechercher`
 
 ## Utilisations dans les templates
 

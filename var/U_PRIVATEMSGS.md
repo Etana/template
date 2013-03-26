@@ -1,6 +1,6 @@
 # U_PRIVATEMSGS
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`greeting_popup`](../tpl/var/greeting_popup.md#readme), [`privmsgs_popup`](../tpl/var/privmsgs_popup.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS)
-Adresse URL du popup de félicitations d'un anniversaire et d'avertissement d'un nouveau message privé.
+Adresse url absolue vers la boîte de réception des messages privés : `/privmsg?folder=inbox`.
 
 ## Utilisations dans les templates
 

@@ -1,6 +1,6 @@
 # U_PRIVATEMSGS_POPUP
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS_POPUP)
-Adresse URL du popup d'avertissement d'un nouveau message privé : `/privmsg?mode=newpm`.
+Adresse url absolue vers le popup de signalement de nouveau message privé : `/privmsg?mode=newpm`.
 
 ## Utilisations dans les templates
 

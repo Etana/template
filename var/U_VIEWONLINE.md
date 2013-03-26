@@ -1,6 +1,6 @@
 # U_VIEWONLINE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`mod_whoisonline`](../tpl/var/mod_whoisonline.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,13 +8,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_VIEWONLINE)
-Adresse relative vers la page "qui est en ligne".
+Adresse url absolue vers la page "qui est en ligne".
 
 * __Remplacement :__ `/viewonline`
 * __Exemple d'utilisation :__ 
 
 ```html
-<a href="{U_VIEWONLINE}">Lien page qui est en ligne</a>
+<a href="{U_VIEWONLINE}">Lien vers la page de qui est en ligne</a>
 ```
 
 ## Utilisations dans les templates

@@ -1,6 +1,6 @@
 # U_SEARCH_UNANSWERED
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`index_box`](../tpl/var/index_box.md#readme), [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED)
-Lien vers "Voir les messages sans réponses" : `/search?search_id=unanswered`
+Adresse url absolue vers `Voir les messages sans réponses` : `/search?search_id=unanswered`
 
 ## Utilisations dans les templates
 

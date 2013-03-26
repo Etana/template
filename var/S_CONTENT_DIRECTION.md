@@ -1,6 +1,6 @@
 # S_CONTENT_DIRECTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`simple_header`](../tpl/var/simple_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,9 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION)
-Contient la direction du texte.
+Contient la direction du texte suivant la langue d'affichage du forum.
 
-* __Contenu en français :__ `ltr (left to right)`
+* __Remplacement pour une langue s'écrivant de gauche à droite ( left to right ) :__ `ltr`
+* __Remplacement pour une langue s'écrivant de droite à gauche ( right to left ) :__ `rtl`
+* __Remplacement français :__ `ltr`
 
 ## Utilisations dans les templates
 

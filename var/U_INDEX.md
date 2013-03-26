@@ -1,6 +1,6 @@
 # U_INDEX
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`agreement`](../tpl/var/agreement.md#readme), [`album_cat_top10`](../tpl/var/album_cat_top10.md#readme), [`album_edit_body`](../tpl/var/album_edit_body.md#readme), [`album_formsearch_body`](../tpl/var/album_formsearch_body.md#readme), [`album_modcp_body`](../tpl/var/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/var/album_moderate_body.md#readme), [`album_search_body`](../tpl/var/album_search_body.md#readme), [`album_showpage_body`](../tpl/var/album_showpage_body.md#readme), [`calendar_body`](../tpl/var/calendar_body.md#readme), [`calendar_scheduler_body`](../tpl/var/calendar_scheduler_body.md#readme), [`confirm_body`](../tpl/var/confirm_body.md#readme), [`donate`](../tpl/var/donate.md#readme), [`faq_dhtml`](../tpl/var/faq_dhtml.md#readme), [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_user_body`](../tpl/var/groupcp_user_body.md#readme), [`index_box`](../tpl/var/index_box.md#readme), [`memberlist_body`](../tpl/var/memberlist_body.md#readme), [`merge_body`](../tpl/var/merge_body.md#readme), [`merge_select_body`](../tpl/var/merge_select_body.md#readme), [`message_body`](../tpl/var/message_body.md#readme), [`modcp_body`](../tpl/var/modcp_body.md#readme), [`modcp_move`](../tpl/var/modcp_move.md#readme), [`modcp_split`](../tpl/var/modcp_split.md#readme), [`modcp_viewip`](../tpl/var/modcp_viewip.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme), [`privmsgs_body`](../tpl/var/privmsgs_body.md#readme), [`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme), [`profile_send_email`](../tpl/var/profile_send_email.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme), [`profile_view_body`](../tpl/var/profile_view_body.md#readme), [`report_list_body`](../tpl/var/report_list_body.md#readme), [`report_view_body`](../tpl/var/report_view_body.md#readme), [`search_body`](../tpl/var/search_body.md#readme), [`search_results_posts`](../tpl/var/search_results_posts.md#readme), [`search_results_topics`](../tpl/var/search_results_topics.md#readme), [`viewforum_body`](../tpl/var/viewforum_body.md#readme), [`viewonline_body`](../tpl/var/viewonline_body.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_INDEX)
-Lien vers l'index de votre forum.
+Adresse url absolue vers l'index du forum.
+
+* Si il n'y a pas de portail ou de page html mis en page d'accueil : `/`
+* Sinon : `/forum`
 
 ## Utilisations dans les templates
 

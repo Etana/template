@@ -1,6 +1,6 @@
 # L_LOGIN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`mod_login`](../tpl/var/mod_login.md#readme), [`overall_header`](../tpl/var/overall_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,9 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LOGIN)
-Chaîne de texte.
+Chaîne de caractère.
 
-* __Contenu en français :__ `Connexion`
+* __Remplacement français :__ `Connexion`
 
 ## Utilisations dans les templates
 

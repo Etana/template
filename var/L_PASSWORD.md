@@ -1,6 +1,6 @@
 # L_PASSWORD
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`index_body`](../tpl/var/index_body.md#readme), [`mod_login`](../tpl/var/mod_login.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,9 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PASSWORD)
-Chaîne de texte.
+Chaîne de caractère.
 
-* __Contenu en français :__ `Mot de passe`
+* __Remplacement français :__ `Mot de passe`
 
 ## Utilisations dans les templates
 

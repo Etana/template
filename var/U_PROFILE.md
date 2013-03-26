@@ -1,14 +1,14 @@
 # U_PROFILE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`mod_login`](../tpl/var/mod_login.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
 {U_PROFILE}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_PROFILE)
+## Description[*](https://fa-tvars.appspot.com/var/U_PROFILE)
+Adresse url absolue vers l'édition de son profil : `/profile?mode=editprofile`
 
 ## Utilisations dans les templates
 

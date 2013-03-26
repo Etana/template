@@ -1,6 +1,6 @@
 # L_REGISTER
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`overall_header`](../tpl/var/overall_header.md#readme)
+* __Disponible dans :__ [toutes les templates](https://github.com/Etana/template#templates)
 * __Utilisation :__
 
 ```html
@@ -8,9 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REGISTER)
-Chaîne de texte.
+Chaîne de caractère.
 
-* __Contenu en français :__ `S'enregistrer`
+* __Remplacement français :__ `S'enregistrer`
 
 ## Utilisations dans les templates
 
