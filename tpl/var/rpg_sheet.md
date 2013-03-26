@@ -1,4 +1,4 @@
-# Template rpg_sheet [8/32]
+# Template rpg_sheet [11/32]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -40,9 +40,9 @@
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/rpg_sheet.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/rpg_sheet.tpl#L7)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/rpg_sheet.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/rpg_sheet.tpl#L12)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/rpg_sheet.tpl#L7)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/rpg_sheet.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/rpg_sheet.tpl#L12)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/rpg_sheet.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/rpg_sheet.tpl#L5)
 * __[`{L_VIEWING_PROFILE}`](https://github.com/Etana/template/blob/master/var/L_VIEWING_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_VIEWING_PROFILE">*</a> :__ ligne [`18`](../src/punbb/rpg_sheet.tpl#L18)

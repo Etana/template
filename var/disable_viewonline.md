@@ -12,8 +12,6 @@ contenu
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline)
 Boucle contenant le qui est en ligne.
 
-* __Code :__
-
 ## Attributs
 * __[`<!-- BEGIN switch_chatbox_activate -->`](disable_viewonline.switch_chatbox_activate.md#readme)__
 * __[`<!-- BEGIN switch_viewonline_link -->`](disable_viewonline.switch_viewonline_link.md#readme)__

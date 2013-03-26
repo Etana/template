@@ -1,4 +1,4 @@
-# Template groupcp_user_body [14/48]
+# Template groupcp_user_body [17/48]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -58,12 +58,12 @@
 * __[`{GROUP_MEMBER_SELECT_NEW}`](https://github.com/Etana/template/blob/master/var/GROUP_MEMBER_SELECT_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/GROUP_MEMBER_SELECT_NEW">*</a> :__ ligne [`33`](../src/punbb/groupcp_user_body.tpl#L33)
 * __[`{GROUP_PENDING_SELECT_NEW}`](https://github.com/Etana/template/blob/master/var/GROUP_PENDING_SELECT_NEW.md#readme)<a href="https://fa-tvars.appspot.com/var/GROUP_PENDING_SELECT_NEW">*</a> :__ ligne [`48`](../src/punbb/groupcp_user_body.tpl#L48)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/groupcp_user_body.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/groupcp_user_body.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/groupcp_user_body.tpl#L7)
 * __[`{L_GROUP_MEMBERSHIP_DETAILS}`](https://github.com/Etana/template/blob/master/var/L_GROUP_MEMBERSHIP_DETAILS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_GROUP_MEMBERSHIP_DETAILS">*</a> :__ ligne [`26`](../src/punbb/groupcp_user_body.tpl#L26)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`18`](../src/punbb/groupcp_user_body.tpl#L18)
 * __[`{L_JOIN_A_GROUP}`](https://github.com/Etana/template/blob/master/var/L_JOIN_A_GROUP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_JOIN_A_GROUP">*</a> :__ ligne [`58`](../src/punbb/groupcp_user_body.tpl#L58)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/groupcp_user_body.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/groupcp_user_body.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/groupcp_user_body.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/groupcp_user_body.tpl#L12)
 * __[`{L_PENDING_GROUPS}`](https://github.com/Etana/template/blob/master/var/L_PENDING_GROUPS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PENDING_GROUPS">*</a> :__ ligne [`47`](../src/punbb/groupcp_user_body.tpl#L47)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/groupcp_user_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/groupcp_user_body.tpl#L5)

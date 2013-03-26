@@ -9,8 +9,8 @@
 <!-- END searchresults -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.PARTICIPATE_POST_IMG)
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.PARTICIPATE_POST_IMG)
+Contient l'image de participation à un sujet définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > Mini sujet - Participation`.
 
 ## Utilisations dans les templates
 

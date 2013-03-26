@@ -9,8 +9,8 @@ contenu
 <!-- END watchsearch1 -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/watchsearch1)
+## Description[*](https://fa-tvars.appspot.com/var/watchsearch1)
+Boucle d'affiche si vous êtes dans la partie `/search?search_id=watchsearch`.
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,4 @@
-# Template profile_send_pass [16/34]
+# Template profile_send_pass [19/34]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -45,12 +45,12 @@
 
 * __[`{EMAIL}`](https://github.com/Etana/template/blob/master/var/EMAIL.md#readme)<a href="https://fa-tvars.appspot.com/var/EMAIL">*</a> :__ ligne [`36`](../src/punbb/profile_send_pass.tpl#L36)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/profile_send_pass.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/profile_send_pass.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/profile_send_pass.tpl#L7)
 * __[`{L_EMAIL_ADDRESS}`](https://github.com/Etana/template/blob/master/var/L_EMAIL_ADDRESS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_EMAIL_ADDRESS">*</a> :__ ligne [`35`](../src/punbb/profile_send_pass.tpl#L35)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`17`](../src/punbb/profile_send_pass.tpl#L17)
 * __[`{L_ITEMS_REQUIRED}`](https://github.com/Etana/template/blob/master/var/L_ITEMS_REQUIRED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ITEMS_REQUIRED">*</a> :__ ligne [`27`](../src/punbb/profile_send_pass.tpl#L27)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/profile_send_pass.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/profile_send_pass.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/profile_send_pass.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/profile_send_pass.tpl#L12)
 * __[`{L_RESET}`](https://github.com/Etana/template/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ ligne [`44`](../src/punbb/profile_send_pass.tpl#L44)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/profile_send_pass.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/profile_send_pass.tpl#L5)

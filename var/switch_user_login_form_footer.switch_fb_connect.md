@@ -11,8 +11,8 @@
 <!-- END switch_user_login_form_footer -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect)
+## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect)
+Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.
 
 ## Attributs
 * __[`{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}`](switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)__

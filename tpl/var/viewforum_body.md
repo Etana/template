@@ -1,4 +1,4 @@
-# Template viewforum_body [101/108]
+# Template viewforum_body [104/108]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -99,7 +99,7 @@ Ce template affiche les forums : `/fX-`
 * __[`{JS_AUTH_FAVOURITES}`](https://github.com/Etana/template/blob/master/var/JS_AUTH_FAVOURITES.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_AUTH_FAVOURITES">*</a> :__ ligne [`11`](../src/punbb/viewforum_body.tpl#L11)
 * __[`{JS_SESSION_ID}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_SESSION_ID">*</a> :__ ligne [`11`](../src/punbb/viewforum_body.tpl#L11)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`19`](../src/punbb/viewforum_body.tpl#L19)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`19`](../src/punbb/viewforum_body.tpl#L19)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`19`](../src/punbb/viewforum_body.tpl#L19)
 * __[`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme) :__ ligne [`56`](../src/punbb/viewforum_body.tpl#L56)
 * __[`{L_FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_ANNOUNCE_IMG.md#readme) :__ lignes [`76`](../src/punbb/viewforum_body.tpl#L76), [`76`](../src/punbb/viewforum_body.tpl#L76)
 * __[`{L_FOLDER_GLOBAL_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_GLOBAL_ANNOUNCE_IMG.md#readme) :__ lignes [`78`](../src/punbb/viewforum_body.tpl#L78), [`78`](../src/punbb/viewforum_body.tpl#L78)
@@ -111,10 +111,10 @@ Ce template affiche les forums : `/fX-`
 * __[`{L_FOLDER_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_NEW_IMG.md#readme) :__ lignes [`66`](../src/punbb/viewforum_body.tpl#L66), [`66`](../src/punbb/viewforum_body.tpl#L66)
 * __[`{L_FOLDER_STICKY_IMG}`](https://github.com/Etana/template/blob/master/var/L_FOLDER_STICKY_IMG.md#readme) :__ lignes [`77`](../src/punbb/viewforum_body.tpl#L77), [`77`](../src/punbb/viewforum_body.tpl#L77)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`49`](../src/punbb/viewforum_body.tpl#L49)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`24`](../src/punbb/viewforum_body.tpl#L24)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`24`](../src/punbb/viewforum_body.tpl#L24)
 * __[`{L_MARK_TOPICS_READ}`](https://github.com/Etana/template/blob/master/var/L_MARK_TOPICS_READ.md#readme) :__ ligne [`17`](../src/punbb/viewforum_body.tpl#L17)
 * __[`{L_MODERATOR}`](https://github.com/Etana/template/blob/master/var/L_MODERATOR.md#readme) :__ ligne [`55`](../src/punbb/viewforum_body.tpl#L55)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`24`](../src/punbb/viewforum_body.tpl#L24)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`24`](../src/punbb/viewforum_body.tpl#L24)
 * __[`{L_POST_NEW_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_POST_NEW_TOPIC.md#readme) :__ lignes [`34`](../src/punbb/viewforum_body.tpl#L34), [`43`](../src/punbb/viewforum_body.tpl#L43)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`15`](../src/punbb/viewforum_body.tpl#L15)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`16`](../src/punbb/viewforum_body.tpl#L16)

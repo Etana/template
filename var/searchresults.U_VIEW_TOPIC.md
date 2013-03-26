@@ -9,8 +9,8 @@
 <!-- END searchresults -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/searchresults.U_VIEW_TOPIC)
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.U_VIEW_TOPIC)
+Contient le lien vers le sujet bouclé.
 
 ## Utilisations dans les templates
 

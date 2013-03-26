@@ -9,8 +9,8 @@ contenu
 <!-- END switch_no_members -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_no_members)
+## Description[*](https://fa-tvars.appspot.com/var/switch_no_members)
+Le contenu de la boucle est affiché si il n'y a pas d'autre membre du groupe que le modérateur de groupe.
 
 ## Utilisations dans les templates
 

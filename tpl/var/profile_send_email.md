@@ -1,4 +1,4 @@
-# Template profile_send_email [18/49]
+# Template profile_send_email [21/49]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -53,13 +53,13 @@
 
 * __[`{ERROR_BOX}`](https://github.com/Etana/template/blob/master/var/ERROR_BOX.md#readme)<a href="https://fa-tvars.appspot.com/var/ERROR_BOX">*</a> :__ ligne [`22`](../src/punbb/profile_send_email.tpl#L22)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/profile_send_email.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/profile_send_email.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/profile_send_email.tpl#L7)
 * __[`{L_CC_EMAIL}`](https://github.com/Etana/template/blob/master/var/L_CC_EMAIL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CC_EMAIL">*</a> :__ ligne [`60`](../src/punbb/profile_send_email.tpl#L60)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`18`](../src/punbb/profile_send_email.tpl#L18)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/profile_send_email.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/profile_send_email.tpl#L12)
 * __[`{L_MESSAGE_BODY}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE_BODY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MESSAGE_BODY">*</a> :__ ligne [`48`](../src/punbb/profile_send_email.tpl#L48)
 * __[`{L_MESSAGE_BODY_DESC}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE_BODY_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MESSAGE_BODY_DESC">*</a> :__ ligne [`49`](../src/punbb/profile_send_email.tpl#L49)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/profile_send_email.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/profile_send_email.tpl#L12)
 * __[`{L_RECIPIENT}`](https://github.com/Etana/template/blob/master/var/L_RECIPIENT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RECIPIENT">*</a> :__ ligne [`33`](../src/punbb/profile_send_email.tpl#L33)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/profile_send_email.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/profile_send_email.tpl#L5)

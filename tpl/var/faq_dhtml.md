@@ -1,4 +1,4 @@
-# Template faq_dhtml [18/35]
+# Template faq_dhtml [21/35]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -42,12 +42,12 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/faq_dhtml.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/faq_dhtml.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/faq_dhtml.tpl#L7)
 * __[`{L_CFAQ_NOSCRIPT}`](https://github.com/Etana/template/blob/master/var/L_CFAQ_NOSCRIPT.md#readme) :__ ligne [`23`](../src/punbb/faq_dhtml.tpl#L23)
 * __[`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme) :__ ligne [`17`](../src/punbb/faq_dhtml.tpl#L17)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`17`](../src/punbb/faq_dhtml.tpl#L17)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/faq_dhtml.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/faq_dhtml.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/faq_dhtml.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/faq_dhtml.tpl#L12)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/faq_dhtml.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/faq_dhtml.tpl#L5)
 * __[`{U_CFAQ_JSLIB}`](https://github.com/Etana/template/blob/master/var/U_CFAQ_JSLIB.md#readme) :__ ligne [`20`](../src/punbb/faq_dhtml.tpl#L20)

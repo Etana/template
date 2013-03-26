@@ -1,4 +1,4 @@
-# Template album_index_body [10/102]
+# Template album_index_body [13/102]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -50,11 +50,11 @@
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/album_index_body.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/album_index_body.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/album_index_body.tpl#L7)
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ ligne [`56`](../src/punbb/album_index_body.tpl#L56)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`56`](../src/punbb/album_index_body.tpl#L56)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/album_index_body.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/album_index_body.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/album_index_body.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/album_index_body.tpl#L12)
 * __[`{L_NO_PICS}`](https://github.com/Etana/template/blob/master/var/L_NO_PICS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO_PICS">*</a> :__ ligne [`23`](../src/punbb/album_index_body.tpl#L23)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/album_index_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/album_index_body.tpl#L5)

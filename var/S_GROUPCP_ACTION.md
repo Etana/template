@@ -1,14 +1,16 @@
 # S_GROUPCP_ACTION
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
 {S_GROUPCP_ACTION}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_GROUPCP_ACTION)
+## Description[*](https://fa-tvars.appspot.com/var/S_GROUPCP_ACTION)
+Adresse absolue de la page du groupe sur lequel on se trouve.
+
+* __Exemple de remplacement :__ `/g2-moderateurs`
 
 ## Utilisations dans les templates
 

@@ -9,8 +9,8 @@
 <!-- END switch_delete_cookies -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_delete_cookies.U_DELETE_COOKIES)
+## Description[*](https://fa-tvars.appspot.com/var/switch_delete_cookies.U_DELETE_COOKIES)
+Lien vers la suppression des cookies : `/?mode=delete_cookies`.
 
 ## Utilisations dans les templates
 

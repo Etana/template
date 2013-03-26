@@ -1,14 +1,16 @@
 # U_MOD_VIEWPROFILE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
 {U_MOD_VIEWPROFILE}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_MOD_VIEWPROFILE)
+## Description[*](https://fa-tvars.appspot.com/var/U_MOD_VIEWPROFILE)
+Chemin absolu vers le profil du modérateur de groupe.
+
+* __Exemple de remplacement :__ `/u2`
 
 ## Utilisations dans les templates
 

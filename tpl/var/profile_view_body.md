@@ -1,4 +1,4 @@
-# Template profile_view_body [16/139]
+# Template profile_view_body [19/139]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -98,7 +98,7 @@
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`130`](../src/punbb/profile_view_body.tpl#L130)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/profile_view_body.tpl#L7)
 * __[`{LAST_VISIT_TIME}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_TIME.md#readme)<a href="https://fa-tvars.appspot.com/var/LAST_VISIT_TIME">*</a> :__ ligne [`83`](../src/punbb/profile_view_body.tpl#L83)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/profile_view_body.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/profile_view_body.tpl#L7)
 * __[`{L_ADMINISTRATE_USER}`](https://github.com/Etana/template/blob/master/var/L_ADMINISTRATE_USER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADMINISTRATE_USER">*</a> :__ ligne [`39`](../src/punbb/profile_view_body.tpl#L39)
 * __[`{L_AVATAR_IMG}`](https://github.com/Etana/template/blob/master/var/L_AVATAR_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AVATAR_IMG">*</a> :__ ligne [`24`](../src/punbb/profile_view_body.tpl#L24)
 * __[`{L_COMMENTS}`](https://github.com/Etana/template/blob/master/var/L_COMMENTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_COMMENTS">*</a> :__ ligne [`63`](../src/punbb/profile_view_body.tpl#L63)
@@ -106,9 +106,9 @@
 * __[`{L_FIELD_EDIT_VALUE}`](https://github.com/Etana/template/blob/master/var/L_FIELD_EDIT_VALUE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FIELD_EDIT_VALUE">*</a> :__ lignes [`143`](../src/punbb/profile_view_body.tpl#L143), [`144`](../src/punbb/profile_view_body.tpl#L144)
 * __[`{L_FRIENDS_AND_FOES}`](https://github.com/Etana/template/blob/master/var/L_FRIENDS_AND_FOES.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FRIENDS_AND_FOES">*</a> :__ ligne [`34`](../src/punbb/profile_view_body.tpl#L34)
 * __[`{L_LAST_VISITED}`](https://github.com/Etana/template/blob/master/var/L_LAST_VISITED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LAST_VISITED">*</a> :__ ligne [`83`](../src/punbb/profile_view_body.tpl#L83)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/profile_view_body.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/profile_view_body.tpl#L12)
 * __[`{L_MODS_AND_ADMINS}`](https://github.com/Etana/template/blob/master/var/L_MODS_AND_ADMINS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MODS_AND_ADMINS">*</a> :__ ligne [`63`](../src/punbb/profile_view_body.tpl#L63)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/profile_view_body.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/profile_view_body.tpl#L12)
 * __[`{L_POSTS}`](https://github.com/Etana/template/blob/master/var/L_POSTS.md#readme) :__ ligne [`47`](../src/punbb/profile_view_body.tpl#L47)
 * __[`{L_PRIVATE_MSG}`](https://github.com/Etana/template/blob/master/var/L_PRIVATE_MSG.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PRIVATE_MSG">*</a> :__ ligne [`85`](../src/punbb/profile_view_body.tpl#L85)
 * __[`{L_RANK}`](https://github.com/Etana/template/blob/master/var/L_RANK.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RANK">*</a> :__ ligne [`27`](../src/punbb/profile_view_body.tpl#L27)

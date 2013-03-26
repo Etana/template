@@ -9,8 +9,10 @@
 <!-- END pending_members_row -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/pending_members_row.U_VIEWPROFILE)
+## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.U_VIEWPROFILE)
+Chemin absolu vers le profil du membre sur lequel on boucle.
+
+* __Exemple de remplacement :__ `/u2`
 
 ## Utilisations dans les templates
 

@@ -9,8 +9,8 @@ contenu
 <!-- END switch_fb_index_login -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_index_login)
+## Description[*](https://fa-tvars.appspot.com/var/switch_fb_index_login)
+Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.
 
 ## Attributs
 * __[`{switch_fb_index_login.FACEBOOK_APP_ID}`](switch_fb_index_login.FACEBOOK_APP_ID.md#readme)__

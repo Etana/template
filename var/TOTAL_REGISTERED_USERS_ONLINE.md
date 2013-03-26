@@ -7,8 +7,10 @@
 {TOTAL_REGISTERED_USERS_ONLINE}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOTAL_REGISTERED_USERS_ONLINE)
+## Description[*](https://fa-tvars.appspot.com/var/TOTAL_REGISTERED_USERS_ONLINE)
+Chaîne de texte.
+
+* __Contenu en français :__ `Il y a X utilisateur(s) enregistré(s) et Y utilisateur(s) invisible(s) en ligne`
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,4 @@
-# Template viewonline_body [17/69]
+# Template viewonline_body [29/69]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -13,8 +13,10 @@
 * [__phpBB2__](../src/subsilver/viewonline_body.tpl#files)
 * [__PunBB__](../src/punbb/viewonline_body.tpl#files)
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewonline_body)
+## Description[*](https://fa-tvars.appspot.com/tpl/viewonline_body)
+`Visualisation de qui est en ligne`.
+
+Ce template affiche la page `/viewonline`
 
 ## Variables disponibles
 * [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
@@ -49,19 +51,19 @@
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`18`](../src/punbb/viewonline_body.tpl#L18)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`18`](../src/punbb/viewonline_body.tpl#L18)
-* __[`{L_FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCATION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FORUM_LOCATION">*</a> :__ ligne [`43`](../src/punbb/viewonline_body.tpl#L43)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`18`](../src/punbb/viewonline_body.tpl#L18)
+* __[`{L_FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCATION.md#readme) :__ ligne [`43`](../src/punbb/viewonline_body.tpl#L43)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`28`](../src/punbb/viewonline_body.tpl#L28)
-* __[`{L_LAST_UPDATE}`](https://github.com/Etana/template/blob/master/var/L_LAST_UPDATE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LAST_UPDATE">*</a> :__ ligne [`42`](../src/punbb/viewonline_body.tpl#L42)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`23`](../src/punbb/viewonline_body.tpl#L23)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`23`](../src/punbb/viewonline_body.tpl#L23)
+* __[`{L_LAST_UPDATE}`](https://github.com/Etana/template/blob/master/var/L_LAST_UPDATE.md#readme) :__ ligne [`42`](../src/punbb/viewonline_body.tpl#L42)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`23`](../src/punbb/viewonline_body.tpl#L23)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`23`](../src/punbb/viewonline_body.tpl#L23)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`14`](../src/punbb/viewonline_body.tpl#L14)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`15`](../src/punbb/viewonline_body.tpl#L15)
 * __[`{L_SEARCH_UNANSWERED}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_UNANSWERED.md#readme) :__ ligne [`16`](../src/punbb/viewonline_body.tpl#L16)
 * __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ ligne [`41`](../src/punbb/viewonline_body.tpl#L41)
 * __[`{L_WHO_IS_ONLINE}`](https://github.com/Etana/template/blob/master/var/L_WHO_IS_ONLINE.md#readme) :__ ligne [`28`](../src/punbb/viewonline_body.tpl#L28)
-* __[`{TOTAL_GUEST_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_GUEST_USERS_ONLINE.md#readme)<a href="https://fa-tvars.appspot.com/var/TOTAL_GUEST_USERS_ONLINE">*</a> :__ ligne [`34`](../src/punbb/viewonline_body.tpl#L34)
-* __[`{TOTAL_REGISTERED_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_REGISTERED_USERS_ONLINE.md#readme)<a href="https://fa-tvars.appspot.com/var/TOTAL_REGISTERED_USERS_ONLINE">*</a> :__ ligne [`33`](../src/punbb/viewonline_body.tpl#L33)
+* __[`{TOTAL_GUEST_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_GUEST_USERS_ONLINE.md#readme) :__ ligne [`34`](../src/punbb/viewonline_body.tpl#L34)
+* __[`{TOTAL_REGISTERED_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_REGISTERED_USERS_ONLINE.md#readme) :__ ligne [`33`](../src/punbb/viewonline_body.tpl#L33)
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`14`](../src/punbb/viewonline_body.tpl#L14)
 * __[`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme) :__ ligne [`15`](../src/punbb/viewonline_body.tpl#L15)
 * __[`{U_SEARCH_UNANSWERED}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_UNANSWERED.md#readme) :__ ligne [`16`](../src/punbb/viewonline_body.tpl#L16)
@@ -97,14 +99,14 @@
 ### Positions phpBB2 
 
 * __[`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme) :__ ligne [`60`](../src/subsilver/viewonline_body.tpl#L60)
-* __[`{L_FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCATION.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FORUM_LOCATION">*</a> :__ ligne [`18`](../src/subsilver/viewonline_body.tpl#L18)
+* __[`{L_FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/L_FORUM_LOCATION.md#readme) :__ ligne [`18`](../src/subsilver/viewonline_body.tpl#L18)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`11`](../src/subsilver/viewonline_body.tpl#L11)
-* __[`{L_LAST_UPDATE}`](https://github.com/Etana/template/blob/master/var/L_LAST_UPDATE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LAST_UPDATE">*</a> :__ ligne [`17`](../src/subsilver/viewonline_body.tpl#L17)
-* __[`{L_ONLINE_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_ONLINE_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ONLINE_EXPLAIN">*</a> :__ ligne [`53`](../src/subsilver/viewonline_body.tpl#L53)
+* __[`{L_LAST_UPDATE}`](https://github.com/Etana/template/blob/master/var/L_LAST_UPDATE.md#readme) :__ ligne [`17`](../src/subsilver/viewonline_body.tpl#L17)
+* __[`{L_ONLINE_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_ONLINE_EXPLAIN.md#readme) :__ ligne [`53`](../src/subsilver/viewonline_body.tpl#L53)
 * __[`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme) :__ ligne [`16`](../src/subsilver/viewonline_body.tpl#L16)
 * __[`{S_TIMEZONE}`](https://github.com/Etana/template/blob/master/var/S_TIMEZONE.md#readme) :__ ligne [`54`](../src/subsilver/viewonline_body.tpl#L54)
-* __[`{TOTAL_GUEST_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_GUEST_USERS_ONLINE.md#readme)<a href="https://fa-tvars.appspot.com/var/TOTAL_GUEST_USERS_ONLINE">*</a> :__ ligne [`34`](../src/subsilver/viewonline_body.tpl#L34)
-* __[`{TOTAL_REGISTERED_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_REGISTERED_USERS_ONLINE.md#readme)<a href="https://fa-tvars.appspot.com/var/TOTAL_REGISTERED_USERS_ONLINE">*</a> :__ ligne [`21`](../src/subsilver/viewonline_body.tpl#L21)
+* __[`{TOTAL_GUEST_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_GUEST_USERS_ONLINE.md#readme) :__ ligne [`34`](../src/subsilver/viewonline_body.tpl#L34)
+* __[`{TOTAL_REGISTERED_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_REGISTERED_USERS_ONLINE.md#readme) :__ ligne [`21`](../src/subsilver/viewonline_body.tpl#L21)
 * __[`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme) :__ ligne [`11`](../src/subsilver/viewonline_body.tpl#L11)
 * __[`<!-- BEGIN bot_user_row -->`](https://github.com/Etana/template/blob/master/var/bot_user_row.md#readme)<a href="https://fa-tvars.appspot.com/var/bot_user_row">*</a> :__ ligne [`36`](../src/subsilver/viewonline_body.tpl#L36)
     * __[`{bot_user_row.FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/bot_user_row.FORUM_LOCATION.md#readme)<a href="https://fa-tvars.appspot.com/var/bot_user_row.FORUM_LOCATION">*</a> :__ ligne [`40`](../src/subsilver/viewonline_body.tpl#L40)

@@ -1,4 +1,4 @@
-# Template album_upload_body [12/112]
+# Template album_upload_body [15/112]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -84,13 +84,13 @@
 * __[`{DYNAMIC_GENERATION_STATUS}`](https://github.com/Etana/template/blob/master/var/DYNAMIC_GENERATION_STATUS.md#readme)<a href="https://fa-tvars.appspot.com/var/DYNAMIC_GENERATION_STATUS">*</a> :__ lignes [`233`](../src/punbb/album_upload_body.tpl#L233), [`241`](../src/punbb/album_upload_body.tpl#L241)
 * __[`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MENU">*</a> :__ ligne [`1`](../src/punbb/album_upload_body.tpl#L1)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`8`](../src/punbb/album_upload_body.tpl#L8)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`8`](../src/punbb/album_upload_body.tpl#L8)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`8`](../src/punbb/album_upload_body.tpl#L8)
 * __[`{L_ADD_FILE}`](https://github.com/Etana/template/blob/master/var/L_ADD_FILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ADD_FILE">*</a> :__ ligne [`279`](../src/punbb/album_upload_body.tpl#L279)
 * __[`{L_ALLOWED_ZIP}`](https://github.com/Etana/template/blob/master/var/L_ALLOWED_ZIP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALLOWED_ZIP">*</a> :__ ligne [`320`](../src/punbb/album_upload_body.tpl#L320)
 * __[`{L_DESC_TOO_LONG}`](https://github.com/Etana/template/blob/master/var/L_DESC_TOO_LONG.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DESC_TOO_LONG">*</a> :__ lignes [`91`](../src/punbb/album_upload_body.tpl#L91), [`133`](../src/punbb/album_upload_body.tpl#L133)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`13`](../src/punbb/album_upload_body.tpl#L13)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`13`](../src/punbb/album_upload_body.tpl#L13)
 * __[`{L_MAX_UPLOADSIZE}`](https://github.com/Etana/template/blob/master/var/L_MAX_UPLOADSIZE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MAX_UPLOADSIZE">*</a> :__ ligne [`314`](../src/punbb/album_upload_body.tpl#L314)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`13`](../src/punbb/album_upload_body.tpl#L13)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`13`](../src/punbb/album_upload_body.tpl#L13)
 * __[`{L_NO_VALID_CAT_SELECTED}`](https://github.com/Etana/template/blob/master/var/L_NO_VALID_CAT_SELECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NO_VALID_CAT_SELECTED">*</a> :__ ligne [`143`](../src/punbb/album_upload_body.tpl#L143)
 * __[`{L_PIC_DESC}`](https://github.com/Etana/template/blob/master/var/L_PIC_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PIC_DESC">*</a> :__ ligne [`260`](../src/punbb/album_upload_body.tpl#L260)
 * __[`{L_PIC_TITLE}`](https://github.com/Etana/template/blob/master/var/L_PIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_PIC_TITLE">*</a> :__ ligne [`256`](../src/punbb/album_upload_body.tpl#L256)

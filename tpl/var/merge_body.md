@@ -1,4 +1,4 @@
-# Template merge_body [21/49]
+# Template merge_body [24/49]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -55,12 +55,12 @@
 * __[`{FROM_TOPIC}`](https://github.com/Etana/template/blob/master/var/FROM_TOPIC.md#readme)<a href="https://fa-tvars.appspot.com/var/FROM_TOPIC">*</a> :__ ligne [`45`](../src/punbb/merge_body.tpl#L45)
 * __[`{FROM_TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/FROM_TOPIC_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/FROM_TOPIC_TITLE">*</a> :__ ligne [`35`](../src/punbb/merge_body.tpl#L35)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/merge_body.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/merge_body.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/merge_body.tpl#L7)
 * __[`{L_FROM_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_FROM_TOPIC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM_TOPIC">*</a> :__ ligne [`32`](../src/punbb/merge_body.tpl#L32)
 * __[`{L_FROM_TOPIC_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_FROM_TOPIC_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_FROM_TOPIC_EXPLAIN">*</a> :__ ligne [`36`](../src/punbb/merge_body.tpl#L36)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`18`](../src/punbb/merge_body.tpl#L18)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/merge_body.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/merge_body.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/merge_body.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/merge_body.tpl#L12)
 * __[`{L_REFRESH}`](https://github.com/Etana/template/blob/master/var/L_REFRESH.md#readme)<a href="https://fa-tvars.appspot.com/var/L_REFRESH">*</a> :__ ligne [`55`](../src/punbb/merge_body.tpl#L55)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ ligne [`47`](../src/punbb/merge_body.tpl#L47)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/merge_body.tpl#L4)

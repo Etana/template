@@ -11,8 +11,8 @@
 <!-- END switch_user_login_form_footer -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect_no)
+## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect_no)
+Boucle d'affichage si Facebook Connect n'est pas activé.
 
 ## Utilisations dans les templates
 

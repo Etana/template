@@ -9,8 +9,8 @@
 <!-- END pending_members_row -->
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/pending_members_row.POSTS)
+## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.POSTS)
+Nombre de message du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 

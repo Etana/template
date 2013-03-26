@@ -7,8 +7,10 @@
 {L_FORUM_LOCATION}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FORUM_LOCATION)
+## Description[*](https://fa-tvars.appspot.com/var/L_FORUM_LOCATION)
+Chaîne de texte.
+
+* __Contenu en français :__ `Localisation sur le Forum`
 
 ## Utilisations dans les templates
 

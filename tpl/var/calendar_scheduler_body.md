@@ -1,4 +1,4 @@
-# Template calendar_scheduler_body [17/57]
+# Template calendar_scheduler_body [20/57]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -56,12 +56,12 @@
 * __[`{BIRTHDAY_LIST_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/BIRTHDAY_LIST_SCHEDULER.md#readme)<a href="https://fa-tvars.appspot.com/var/BIRTHDAY_LIST_SCHEDULER">*</a> :__ ligne [`57`](../src/punbb/calendar_scheduler_body.tpl#L57)
 * __[`{IMG_CALENDAR}`](https://github.com/Etana/template/blob/master/var/IMG_CALENDAR.md#readme)<a href="https://fa-tvars.appspot.com/var/IMG_CALENDAR">*</a> :__ ligne [`52`](../src/punbb/calendar_scheduler_body.tpl#L52)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/calendar_scheduler_body.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/calendar_scheduler_body.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/calendar_scheduler_body.tpl#L7)
 * __[`{L_CALENDAR}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CALENDAR">*</a> :__ lignes [`52`](../src/punbb/calendar_scheduler_body.tpl#L52), [`52`](../src/punbb/calendar_scheduler_body.tpl#L52), [`52`](../src/punbb/calendar_scheduler_body.tpl#L52), [`52`](../src/punbb/calendar_scheduler_body.tpl#L52)
 * __[`{L_CALENDAR_SCHEDULER}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR_SCHEDULER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CALENDAR_SCHEDULER">*</a> :__ ligne [`23`](../src/punbb/calendar_scheduler_body.tpl#L23)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`16`](../src/punbb/calendar_scheduler_body.tpl#L16)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/calendar_scheduler_body.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/calendar_scheduler_body.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/calendar_scheduler_body.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/calendar_scheduler_body.tpl#L12)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/calendar_scheduler_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/calendar_scheduler_body.tpl#L5)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`16`](../src/punbb/calendar_scheduler_body.tpl#L16)

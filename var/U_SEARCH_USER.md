@@ -1,14 +1,14 @@
 # U_SEARCH_USER
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme), [`posting_body`](../tpl/var/posting_body.md#readme), [`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme)
 * __Utilisation :__
 
 ```html
 {U_SEARCH_USER}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH_USER)
+## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_USER)
+Remplacé par l'adresse absolue `/search?mode=searchuser` d'une page de recherche de nom d'utilisateur.
 
 ## Utilisations dans les templates
 

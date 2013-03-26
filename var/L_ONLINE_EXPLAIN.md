@@ -7,8 +7,10 @@
 {L_ONLINE_EXPLAIN}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ONLINE_EXPLAIN)
+## Description[*](https://fa-tvars.appspot.com/var/L_ONLINE_EXPLAIN)
+Chaîne de texte.
+
+* __Contenu en français :__  `Ces données sont basées sur les utilisateurs actifs des cinq dernières minutes`
 
 ## Utilisations dans les templates
 

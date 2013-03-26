@@ -1,14 +1,14 @@
 # S_GROUP_CLOSED_CHECKED
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme)
+* __Disponible dans :__ [`groupcp_info_body`](../tpl/var/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/var/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
 {S_GROUP_CLOSED_CHECKED}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_GROUP_CLOSED_CHECKED)
+## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_CLOSED_CHECKED)
+Chaîne de texte ` checked="checked"` si le groupe est fermé, chaîne vide sinon.
 
 ## Utilisations dans les templates
 

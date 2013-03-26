@@ -1,4 +1,4 @@
-# Template report_list_body [20/104]
+# Template report_list_body [23/104]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -77,14 +77,14 @@
 * __[`{JS_MARK_MODE_5}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_5.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MARK_MODE_5">*</a> :__ ligne [`107`](../src/punbb/report_list_body.tpl#L107)
 * __[`{JS_MARK_MODE_6}`](https://github.com/Etana/template/blob/master/var/JS_MARK_MODE_6.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MARK_MODE_6">*</a> :__ ligne [`108`](../src/punbb/report_list_body.tpl#L108)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/report_list_body.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/report_list_body.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/report_list_body.tpl#L7)
 * __[`{L_DELETE}`](https://github.com/Etana/template/blob/master/var/L_DELETE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DELETE">*</a> :__ ligne [`79`](../src/punbb/report_list_body.tpl#L79)
 * __[`{L_EDIT}`](https://github.com/Etana/template/blob/master/var/L_EDIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_EDIT">*</a> :__ ligne [`71`](../src/punbb/report_list_body.tpl#L71)
 * __[`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme) :__ ligne [`86`](../src/punbb/report_list_body.tpl#L86)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`18`](../src/punbb/report_list_body.tpl#L18)
 * __[`{L_LAST_EDIT}`](https://github.com/Etana/template/blob/master/var/L_LAST_EDIT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LAST_EDIT">*</a> :__ ligne [`44`](../src/punbb/report_list_body.tpl#L44)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/report_list_body.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/report_list_body.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/report_list_body.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/report_list_body.tpl#L12)
 * __[`{L_REASON}`](https://github.com/Etana/template/blob/master/var/L_REASON.md#readme)<a href="https://fa-tvars.appspot.com/var/L_REASON">*</a> :__ ligne [`41`](../src/punbb/report_list_body.tpl#L41)
 * __[`{L_REPORT}`](https://github.com/Etana/template/blob/master/var/L_REPORT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_REPORT">*</a> :__ ligne [`40`](../src/punbb/report_list_body.tpl#L40)
 * __[`{L_REPORTER}`](https://github.com/Etana/template/blob/master/var/L_REPORTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_REPORTER">*</a> :__ ligne [`42`](../src/punbb/report_list_body.tpl#L42)

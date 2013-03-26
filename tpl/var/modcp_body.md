@@ -1,4 +1,4 @@
-# Template modcp_body [29/79]
+# Template modcp_body [32/79]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -59,17 +59,17 @@
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/modcp_body.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/modcp_body.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/modcp_body.tpl#L7)
 * __[`{L_ANNOUNCE}`](https://github.com/Etana/template/blob/master/var/L_ANNOUNCE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ANNOUNCE">*</a> :__ ligne [`69`](../src/punbb/modcp_body.tpl#L69)
 * __[`{L_DELETE}`](https://github.com/Etana/template/blob/master/var/L_DELETE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DELETE">*</a> :__ ligne [`64`](../src/punbb/modcp_body.tpl#L64)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`18`](../src/punbb/modcp_body.tpl#L18)
 * __[`{L_LASTPOST}`](https://github.com/Etana/template/blob/master/var/L_LASTPOST.md#readme) :__ ligne [`41`](../src/punbb/modcp_body.tpl#L41)
 * __[`{L_LOCK}`](https://github.com/Etana/template/blob/master/var/L_LOCK.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOCK">*</a> :__ ligne [`66`](../src/punbb/modcp_body.tpl#L66)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/modcp_body.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/modcp_body.tpl#L12)
 * __[`{L_MOD_CP}`](https://github.com/Etana/template/blob/master/var/L_MOD_CP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOD_CP">*</a> :__ lignes [`18`](../src/punbb/modcp_body.tpl#L18), [`30`](../src/punbb/modcp_body.tpl#L30)
 * __[`{L_MOVE}`](https://github.com/Etana/template/blob/master/var/L_MOVE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE">*</a> :__ ligne [`65`](../src/punbb/modcp_body.tpl#L65)
 * __[`{L_NORMAL}`](https://github.com/Etana/template/blob/master/var/L_NORMAL.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NORMAL">*</a> :__ ligne [`70`](../src/punbb/modcp_body.tpl#L70)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/modcp_body.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/modcp_body.tpl#L12)
 * __[`{L_REPLIES}`](https://github.com/Etana/template/blob/master/var/L_REPLIES.md#readme) :__ ligne [`40`](../src/punbb/modcp_body.tpl#L40)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/modcp_body.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/modcp_body.tpl#L5)

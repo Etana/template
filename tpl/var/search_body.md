@@ -1,4 +1,4 @@
-# Template search_body [62/85]
+# Template search_body [65/85]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -78,13 +78,13 @@ Ce template affiche la page de recherche de votre forum : `/search`
 * __[`{GOOGLE_CODE}`](https://github.com/Etana/template/blob/master/var/GOOGLE_CODE.md#readme)<a href="https://fa-tvars.appspot.com/var/GOOGLE_CODE">*</a> :__ ligne [`38`](../src/punbb/search_body.tpl#L38)
 * __[`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme) :__ ligne [`1`](../src/punbb/search_body.tpl#L1)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`8`](../src/punbb/search_body.tpl#L8)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`8`](../src/punbb/search_body.tpl#L8)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`8`](../src/punbb/search_body.tpl#L8)
 * __[`{L_DISPLAY_RESULTS}`](https://github.com/Etana/template/blob/master/var/L_DISPLAY_RESULTS.md#readme) :__ ligne [`68`](../src/punbb/search_body.tpl#L68)
 * __[`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme) :__ ligne [`57`](../src/punbb/search_body.tpl#L57)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`19`](../src/punbb/search_body.tpl#L19)
 * __[`{L_LANG_HL}`](https://github.com/Etana/template/blob/master/var/L_LANG_HL.md#readme) :__ ligne [`43`](../src/punbb/search_body.tpl#L43)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`13`](../src/punbb/search_body.tpl#L13)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`13`](../src/punbb/search_body.tpl#L13)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`13`](../src/punbb/search_body.tpl#L13)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`13`](../src/punbb/search_body.tpl#L13)
 * __[`{L_POSTS}`](https://github.com/Etana/template/blob/master/var/L_POSTS.md#readme) :__ ligne [`69`](../src/punbb/search_body.tpl#L69)
 * __[`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme) :__ lignes [`45`](../src/punbb/search_body.tpl#L45), [`80`](../src/punbb/search_body.tpl#L80)
 * __[`{L_SEARCH_ALL_TERMS}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_ALL_TERMS.md#readme) :__ ligne [`48`](../src/punbb/search_body.tpl#L48)

@@ -1,4 +1,4 @@
-# Template modcp_move [23/36]
+# Template modcp_move [26/36]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -44,13 +44,13 @@
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/modcp_move.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/modcp_move.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/modcp_move.tpl#L7)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`18`](../src/punbb/modcp_move.tpl#L18)
 * __[`{L_LEAVESHADOW}`](https://github.com/Etana/template/blob/master/var/L_LEAVESHADOW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LEAVESHADOW">*</a> :__ ligne [`37`](../src/punbb/modcp_move.tpl#L37)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/modcp_move.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/modcp_move.tpl#L12)
 * __[`{L_MOVE_TO_FORUM}`](https://github.com/Etana/template/blob/master/var/L_MOVE_TO_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_MOVE_TO_FORUM">*</a> :__ ligne [`31`](../src/punbb/modcp_move.tpl#L31)
 * __[`{L_NO}`](https://github.com/Etana/template/blob/master/var/L_NO.md#readme) :__ ligne [`44`](../src/punbb/modcp_move.tpl#L44)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/modcp_move.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/modcp_move.tpl#L12)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/modcp_move.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/modcp_move.tpl#L5)
 * __[`{L_YES}`](https://github.com/Etana/template/blob/master/var/L_YES.md#readme) :__ ligne [`43`](../src/punbb/modcp_move.tpl#L43)

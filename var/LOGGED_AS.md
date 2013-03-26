@@ -7,8 +7,10 @@
 {LOGGED_AS}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/LOGGED_AS)
+## Description[*](https://fa-tvars.appspot.com/var/LOGGED_AS)
+Chaîne de texte.
+
+* __Contenu en français :__ `Connecté en tant que X`
 
 ## Utilisations dans les templates
 

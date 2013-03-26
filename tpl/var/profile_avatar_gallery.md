@@ -1,4 +1,4 @@
-# Template profile_avatar_gallery [15/44]
+# Template profile_avatar_gallery [18/44]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -45,14 +45,14 @@
 ### Positions PunBB 
 
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/profile_avatar_gallery.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/profile_avatar_gallery.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/profile_avatar_gallery.tpl#L7)
 * __[`{L_AVATAR_GALLERY}`](https://github.com/Etana/template/blob/master/var/L_AVATAR_GALLERY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AVATAR_GALLERY">*</a> :__ ligne [`21`](../src/punbb/profile_avatar_gallery.tpl#L21)
 * __[`{L_CATEGORY}`](https://github.com/Etana/template/blob/master/var/L_CATEGORY.md#readme)<a href="https://fa-tvars.appspot.com/var/L_CATEGORY">*</a> :__ ligne [`25`](../src/punbb/profile_avatar_gallery.tpl#L25)
 * __[`{L_FAQ_TITLE}`](https://github.com/Etana/template/blob/master/var/L_FAQ_TITLE.md#readme) :__ ligne [`17`](../src/punbb/profile_avatar_gallery.tpl#L17)
 * __[`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme) :__ ligne [`25`](../src/punbb/profile_avatar_gallery.tpl#L25)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`17`](../src/punbb/profile_avatar_gallery.tpl#L17)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/profile_avatar_gallery.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/profile_avatar_gallery.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/profile_avatar_gallery.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/profile_avatar_gallery.tpl#L12)
 * __[`{L_RETURN_PROFILE}`](https://github.com/Etana/template/blob/master/var/L_RETURN_PROFILE.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RETURN_PROFILE">*</a> :__ ligne [`45`](../src/punbb/profile_avatar_gallery.tpl#L45)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/profile_avatar_gallery.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/profile_avatar_gallery.tpl#L5)

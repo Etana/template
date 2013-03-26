@@ -1,4 +1,4 @@
-# Template rpg_sheet_edit [10/49]
+# Template rpg_sheet_edit [13/49]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -48,10 +48,10 @@
 
 * __[`{AVATAR_URL}`](https://github.com/Etana/template/blob/master/var/AVATAR_URL.md#readme)<a href="https://fa-tvars.appspot.com/var/AVATAR_URL">*</a> :__ ligne [`34`](../src/punbb/rpg_sheet_edit.tpl#L34)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/rpg_sheet_edit.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/rpg_sheet_edit.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/rpg_sheet_edit.tpl#L7)
 * __[`{L_AVATAR_ERROR}`](https://github.com/Etana/template/blob/master/var/L_AVATAR_ERROR.md#readme)<a href="https://fa-tvars.appspot.com/var/L_AVATAR_ERROR">*</a> :__ ligne [`34`](../src/punbb/rpg_sheet_edit.tpl#L34)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/rpg_sheet_edit.tpl#L12)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/rpg_sheet_edit.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/rpg_sheet_edit.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/rpg_sheet_edit.tpl#L12)
 * __[`{L_RESET}`](https://github.com/Etana/template/blob/master/var/L_RESET.md#readme)<a href="https://fa-tvars.appspot.com/var/L_RESET">*</a> :__ ligne [`62`](../src/punbb/rpg_sheet_edit.tpl#L62)
 * __[`{L_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/rpg_sheet_edit.tpl#L4)
 * __[`{L_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/rpg_sheet_edit.tpl#L5)

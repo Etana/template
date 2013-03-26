@@ -1,4 +1,4 @@
-# Template modcp_viewip [16/79]
+# Template modcp_viewip [19/79]
 * [Chemin](#chemin)
 * [Code source](#code-source)
 * [Description](#description)
@@ -60,13 +60,13 @@
 * __[`{IP1}`](https://github.com/Etana/template/blob/master/var/IP1.md#readme)<a href="https://fa-tvars.appspot.com/var/IP1">*</a> :__ ligne [`39`](../src/punbb/modcp_viewip.tpl#L39)
 * __[`{IP2}`](https://github.com/Etana/template/blob/master/var/IP2.md#readme)<a href="https://fa-tvars.appspot.com/var/IP2">*</a> :__ ligne [`39`](../src/punbb/modcp_viewip.tpl#L39)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/modcp_viewip.tpl#L7)
-* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)<a href="https://fa-tvars.appspot.com/var/LOGGED_AS">*</a> :__ ligne [`7`](../src/punbb/modcp_viewip.tpl#L7)
+* __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/modcp_viewip.tpl#L7)
 * __[`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme) :__ ligne [`18`](../src/punbb/modcp_viewip.tpl#L18)
 * __[`{L_IP}`](https://github.com/Etana/template/blob/master/var/L_IP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_IP">*</a> :__ ligne [`38`](../src/punbb/modcp_viewip.tpl#L38)
 * __[`{L_IP_INFO}`](https://github.com/Etana/template/blob/master/var/L_IP_INFO.md#readme)<a href="https://fa-tvars.appspot.com/var/L_IP_INFO">*</a> :__ ligne [`49`](../src/punbb/modcp_viewip.tpl#L49)
-* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER">*</a> :__ ligne [`12`](../src/punbb/modcp_viewip.tpl#L12)
+* __[`{L_LOGIN_REGISTER}`](https://github.com/Etana/template/blob/master/var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/modcp_viewip.tpl#L12)
 * __[`{L_LOOKUP_IP}`](https://github.com/Etana/template/blob/master/var/L_LOOKUP_IP.md#readme)<a href="https://fa-tvars.appspot.com/var/L_LOOKUP_IP">*</a> :__ lignes [`65`](../src/punbb/modcp_viewip.tpl#L65), [`100`](../src/punbb/modcp_viewip.tpl#L100)
-* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_NOT_CONNECTED">*</a> :__ ligne [`12`](../src/punbb/modcp_viewip.tpl#L12)
+* __[`{L_NOT_CONNECTED}`](https://github.com/Etana/template/blob/master/var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/modcp_viewip.tpl#L12)
 * __[`{L_OTHER_IPS}`](https://github.com/Etana/template/blob/master/var/L_OTHER_IPS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_OTHER_IPS">*</a> :__ ligne [`91`](../src/punbb/modcp_viewip.tpl#L91)
 * __[`{L_OTHER_USERS}`](https://github.com/Etana/template/blob/master/var/L_OTHER_USERS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_OTHER_USERS">*</a> :__ ligne [`73`](../src/punbb/modcp_viewip.tpl#L73)
 * __[`{L_POSTED}`](https://github.com/Etana/template/blob/master/var/L_POSTED.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POSTED">*</a> :__ ligne [`42`](../src/punbb/modcp_viewip.tpl#L42)
