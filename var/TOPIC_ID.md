@@ -7,8 +7,8 @@
 {TOPIC_ID}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOPIC_ID)
+## Description[*](https://fa-tvars.appspot.com/var/TOPIC_ID)
+Remplacé par l'identifiant numérique du sujet.
 
 ## Utilisations dans les templates
 

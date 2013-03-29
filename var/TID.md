@@ -7,8 +7,8 @@
 {TID}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TID)
+## Description[*](https://fa-tvars.appspot.com/var/TID)
+Identifiant temporaire de sécurité pour l'utilisateur.
 
 ## Utilisations dans les templates
 

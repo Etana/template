@@ -8,7 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_ID)
-Contient l'identifiant du forum.
+Remplacé par l'identifiant numérique du sous-forum.
+
+* __Exemple de remplacement dans le forum d'identifiant `2` :__ `2`
 
 ## Utilisations dans les templates
 

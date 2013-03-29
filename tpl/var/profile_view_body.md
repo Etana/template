@@ -1,4 +1,4 @@
-# Template profile_view_body [19/139]
+# Template profile_view_body [21/139]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -121,7 +121,7 @@
 * __[`{PUSERNAME}`](https://github.com/Etana/template/blob/master/var/PUSERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/PUSERNAME">*</a> :__ lignes [`45`](../src/punbb/profile_view_body.tpl#L45), [`46`](../src/punbb/profile_view_body.tpl#L46), [`47`](../src/punbb/profile_view_body.tpl#L47)
 * __[`{RPG_IMAGE}`](https://github.com/Etana/template/blob/master/var/RPG_IMAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/RPG_IMAGE">*</a> :__ ligne [`98`](../src/punbb/profile_view_body.tpl#L98)
 * __[`{S_PROFILE_ACTION}`](https://github.com/Etana/template/blob/master/var/S_PROFILE_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_PROFILE_ACTION">*</a> :__ ligne [`54`](../src/punbb/profile_view_body.tpl#L54)
-* __[`{TID}`](https://github.com/Etana/template/blob/master/var/TID.md#readme)<a href="https://fa-tvars.appspot.com/var/TID">*</a> :__ ligne [`163`](../src/punbb/profile_view_body.tpl#L163)
+* __[`{TID}`](https://github.com/Etana/template/blob/master/var/TID.md#readme) :__ ligne [`163`](../src/punbb/profile_view_body.tpl#L163)
 * __[`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/USERNAME">*</a> :__ ligne [`53`](../src/punbb/profile_view_body.tpl#L53)
 * __[`{USER_ID}`](https://github.com/Etana/template/blob/master/var/USER_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/USER_ID">*</a> :__ ligne [`69`](../src/punbb/profile_view_body.tpl#L69)
 * __[`{USER_ONLINE}`](https://github.com/Etana/template/blob/master/var/USER_ONLINE.md#readme)<a href="https://fa-tvars.appspot.com/var/USER_ONLINE">*</a> :__ ligne [`29`](../src/punbb/profile_view_body.tpl#L29)
@@ -211,7 +211,7 @@
 * __[`{PUSERNAME}`](https://github.com/Etana/template/blob/master/var/PUSERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/PUSERNAME">*</a> :__ lignes [`62`](../src/subsilver/profile_view_body.tpl#L62), [`63`](../src/subsilver/profile_view_body.tpl#L63), [`64`](../src/subsilver/profile_view_body.tpl#L64)
 * __[`{RPG_IMAGE}`](https://github.com/Etana/template/blob/master/var/RPG_IMAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/RPG_IMAGE">*</a> :__ ligne [`107`](../src/subsilver/profile_view_body.tpl#L107)
 * __[`{S_CONTACT_HEIGHT}`](https://github.com/Etana/template/blob/master/var/S_CONTACT_HEIGHT.md#readme)<a href="https://fa-tvars.appspot.com/var/S_CONTACT_HEIGHT">*</a> :__ ligne [`74`](../src/subsilver/profile_view_body.tpl#L74)
-* __[`{TID}`](https://github.com/Etana/template/blob/master/var/TID.md#readme)<a href="https://fa-tvars.appspot.com/var/TID">*</a> :__ ligne [`177`](../src/subsilver/profile_view_body.tpl#L177)
+* __[`{TID}`](https://github.com/Etana/template/blob/master/var/TID.md#readme) :__ ligne [`177`](../src/subsilver/profile_view_body.tpl#L177)
 * __[`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/USERNAME">*</a> :__ ligne [`71`](../src/subsilver/profile_view_body.tpl#L71)
 * __[`{USER_ONLINE}`](https://github.com/Etana/template/blob/master/var/USER_ONLINE.md#readme)<a href="https://fa-tvars.appspot.com/var/USER_ONLINE">*</a> :__ ligne [`29`](../src/subsilver/profile_view_body.tpl#L29)
 * __[`{U_ADMIN_RPG}`](https://github.com/Etana/template/blob/master/var/U_ADMIN_RPG.md#readme)<a href="https://fa-tvars.appspot.com/var/U_ADMIN_RPG">*</a> :__ ligne [`138`](../src/subsilver/profile_view_body.tpl#L138)

@@ -136,6 +136,7 @@
 * [`{FORUM_ID}`](https://github.com/Etana/template/blob/master/var/FORUM_ID.md#readme)
 * [`{FORUM_IMG}`](https://github.com/Etana/template/blob/master/var/FORUM_IMG.md#readme)
 * [`{FORUM_LOCKED_IMG}`](https://github.com/Etana/template/blob/master/var/FORUM_LOCKED_IMG.md#readme)
+* [`{FORUM_NAME}`](https://github.com/Etana/template/blob/master/var/FORUM_NAME.md#readme)
 * [`{FORUM_NEW_IMG}`](https://github.com/Etana/template/blob/master/var/FORUM_NEW_IMG.md#readme)
 * [`{FORUM_URL}`](https://github.com/Etana/template/blob/master/var/FORUM_URL.md#readme)
 * [`{FRIENDSFOES}`](https://github.com/Etana/template/blob/master/var/FRIENDSFOES.md#readme)

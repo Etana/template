@@ -8,9 +8,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PAGE_NUMBER)
-Chaîne de texte affichant la page sur laquelle vous vous trouvez.
+Code html affichant la page sur laquelle vous vous trouvez.
 
-* __Contenu en français :__ `Page X sur Y`
+* __Remplacement en français :__
+
+```html
+Page <strong>X</strong> sur <strong>Y</strong>
+```
 
 ## Utilisations dans les templates
 
