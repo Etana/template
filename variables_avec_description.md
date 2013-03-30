@@ -567,4 +567,10 @@
         * [`{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)
         * [`{switch_user_login_form_header.switch_fb_connect.L_OR}`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.switch_fb_connect.L_OR.md#readme)
     * [`<!-- BEGIN switch_fb_connect_no -->...<!-- END switch_fb_connect_no -->`](https://github.com/Etana/template/blob/master/var/switch_user_login_form_header.switch_fb_connect_no.md#readme)
+* 
+    * 
+        * [`{topics_list_box.row.GOTO_CLOSE}`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.GOTO_CLOSE.md#readme)
+        * [`{topics_list_box.row.GOTO_OPEN}`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.GOTO_OPEN.md#readme)
+        * [`{topics_list_box.row.GOTO_PAGE}`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.GOTO_PAGE.md#readme)
+        * [`{topics_list_box.row.GOTO_PAGE_NEW}`](https://github.com/Etana/template/blob/master/var/topics_list_box.row.GOTO_PAGE_NEW.md#readme)
 * [`<!-- BEGIN watchsearch1 -->...<!-- END watchsearch1 -->`](https://github.com/Etana/template/blob/master/var/watchsearch1.md#readme)
