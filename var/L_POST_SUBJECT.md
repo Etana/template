@@ -7,8 +7,10 @@
 {L_POST_SUBJECT}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POST_SUBJECT)
+## Description[*](https://fa-tvars.appspot.com/var/L_POST_SUBJECT)
+Texte.
+
+* __Remplacement français :__ `Sujet`
 
 ## Utilisations dans les templates
 

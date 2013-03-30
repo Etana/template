@@ -1,4 +1,4 @@
-# Template privmsg_topic_review [3/24]
+# Template privmsg_topic_review [4/24]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -51,7 +51,7 @@
 * __[`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme) :__ ligne [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
 * __[`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme) :__ ligne [`11`](../src/subsilver/privmsg_topic_review.tpl#L11)
 * __[`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme) :__ ligne [`12`](../src/subsilver/privmsg_topic_review.tpl#L12)
-* __[`{L_POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_POST_SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_POST_SUBJECT">*</a> :__ ligne [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
+* __[`{L_POST_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_POST_SUBJECT.md#readme) :__ ligne [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
 * __[`{L_TOPIC_REVIEW}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_REVIEW.md#readme)<a href="https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW">*</a> :__ ligne [`4`](../src/subsilver/privmsg_topic_review.tpl#L4)
 * __[`<!-- BEGIN postrow -->`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow">*</a> :__ ligne [`14`](../src/subsilver/privmsg_topic_review.tpl#L14)
     * __[`{postrow.L_MINI_POST_ALT}`](https://github.com/Etana/template/blob/master/var/postrow.L_MINI_POST_ALT.md#readme)<a href="https://fa-tvars.appspot.com/var/postrow.L_MINI_POST_ALT">*</a> :__ ligne [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)

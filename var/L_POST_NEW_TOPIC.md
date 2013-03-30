@@ -8,9 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POST_NEW_TOPIC)
-Chaîne de texte.
+Texte.
 
-* __Contenu en français :__ `Poster un nouveau sujet`
+* __Contenu en français si le forum n'est pas verrouillé :__ `Poster un nouveau sujet`
+* __Contenu en français sinon :__ `Ce forum est verrouillé, vous ne pouvez pas poster, ni répondre, ni éditer les sujets.`
 
 ## Utilisations dans les templates
 
