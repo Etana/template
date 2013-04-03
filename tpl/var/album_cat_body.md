@@ -1,4 +1,4 @@
-# Template album_cat_body [24/231]
+# Template album_cat_body [26/231]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -92,7 +92,7 @@
 * __[`{ALBUM_ID}`](https://github.com/Etana/template/blob/master/var/ALBUM_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/ALBUM_ID">*</a> :__ ligne [`58`](../src/punbb/album_cat_body.tpl#L58)
 * __[`{CAT_PICS}`](https://github.com/Etana/template/blob/master/var/CAT_PICS.md#readme)<a href="https://fa-tvars.appspot.com/var/CAT_PICS">*</a> :__ ligne [`63`](../src/punbb/album_cat_body.tpl#L63)
 * __[`{I_PIC_LOCKED}`](https://github.com/Etana/template/blob/master/var/I_PIC_LOCKED.md#readme)<a href="https://fa-tvars.appspot.com/var/I_PIC_LOCKED">*</a> :__ ligne [`79`](../src/punbb/album_cat_body.tpl#L79)
-* __[`{JS_SESSION_ID}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_SESSION_ID">*</a> :__ ligne [`58`](../src/punbb/album_cat_body.tpl#L58)
+* __[`{JS_SESSION_ID}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID.md#readme) :__ ligne [`58`](../src/punbb/album_cat_body.tpl#L58)
 * __[`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/album_cat_body.tpl#L7)
 * __[`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/album_cat_body.tpl#L7)
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ ligne [`143`](../src/punbb/album_cat_body.tpl#L143)
@@ -228,7 +228,7 @@
 * __[`{CAT_PICS}`](https://github.com/Etana/template/blob/master/var/CAT_PICS.md#readme)<a href="https://fa-tvars.appspot.com/var/CAT_PICS">*</a> :__ ligne [`115`](../src/subsilver/album_cat_body.tpl#L115)
 * __[`{I_PIC_LOCKED}`](https://github.com/Etana/template/blob/master/var/I_PIC_LOCKED.md#readme)<a href="https://fa-tvars.appspot.com/var/I_PIC_LOCKED">*</a> :__ ligne [`136`](../src/subsilver/album_cat_body.tpl#L136)
 * __[`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_MENU">*</a> :__ ligne [`2`](../src/subsilver/album_cat_body.tpl#L2)
-* __[`{JS_SESSION_ID}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID.md#readme)<a href="https://fa-tvars.appspot.com/var/JS_SESSION_ID">*</a> :__ ligne [`21`](../src/subsilver/album_cat_body.tpl#L21)
+* __[`{JS_SESSION_ID}`](https://github.com/Etana/template/blob/master/var/JS_SESSION_ID.md#readme) :__ ligne [`21`](../src/subsilver/album_cat_body.tpl#L21)
 * __[`{L_ALBUM}`](https://github.com/Etana/template/blob/master/var/L_ALBUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ALBUM">*</a> :__ lignes [`11`](../src/subsilver/album_cat_body.tpl#L11), [`209`](../src/subsilver/album_cat_body.tpl#L209), [`226`](../src/subsilver/album_cat_body.tpl#L226)
 * __[`{L_ASC}`](https://github.com/Etana/template/blob/master/var/L_ASC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_ASC">*</a> :__ lignes [`93`](../src/subsilver/album_cat_body.tpl#L93), [`181`](../src/subsilver/album_cat_body.tpl#L181)
 * __[`{L_DESC}`](https://github.com/Etana/template/blob/master/var/L_DESC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_DESC">*</a> :__ lignes [`94`](../src/subsilver/album_cat_body.tpl#L94), [`182`](../src/subsilver/album_cat_body.tpl#L182)

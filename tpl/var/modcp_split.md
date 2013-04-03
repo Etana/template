@@ -1,4 +1,4 @@
-# Template modcp_split [23/59]
+# Template modcp_split [25/59]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -55,7 +55,7 @@
 * __[`{L_SPLIT_FORUM}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_FORUM">*</a> :__ ligne [`36`](../src/punbb/modcp_split.tpl#L36)
 * __[`{L_SPLIT_POSTS}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_POSTS">*</a> :__ lignes [`41`](../src/punbb/modcp_split.tpl#L41), [`77`](../src/punbb/modcp_split.tpl#L77)
 * __[`{L_SPLIT_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_SUBJECT">*</a> :__ ligne [`32`](../src/punbb/modcp_split.tpl#L32)
-* __[`{L_SPLIT_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_TOPIC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC">*</a> :__ lignes [`18`](../src/punbb/modcp_split.tpl#L18), [`25`](../src/punbb/modcp_split.tpl#L25)
+* __[`{L_SPLIT_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_TOPIC.md#readme) :__ lignes [`18`](../src/punbb/modcp_split.tpl#L18), [`25`](../src/punbb/modcp_split.tpl#L25)
 * __[`{L_SPLIT_TOPIC_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_TOPIC_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC_EXPLAIN">*</a> :__ ligne [`30`](../src/punbb/modcp_split.tpl#L30)
 * __[`{MAX_TOPIC_LENGTH}`](https://github.com/Etana/template/blob/master/var/MAX_TOPIC_LENGTH.md#readme)<a href="https://fa-tvars.appspot.com/var/MAX_TOPIC_LENGTH">*</a> :__ ligne [`33`](../src/punbb/modcp_split.tpl#L33)
 * __[`{NAV_CAT_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_CAT_DESC.md#readme) :__ ligne [`18`](../src/punbb/modcp_split.tpl#L18)
@@ -96,7 +96,7 @@
 * __[`{L_SPLIT_FORUM}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_FORUM">*</a> :__ ligne [`19`](../src/subsilver/modcp_split.tpl#L19)
 * __[`{L_SPLIT_POSTS}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_POSTS.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_POSTS">*</a> :__ lignes [`26`](../src/subsilver/modcp_split.tpl#L26), [`63`](../src/subsilver/modcp_split.tpl#L63)
 * __[`{L_SPLIT_SUBJECT}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_SUBJECT.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_SUBJECT">*</a> :__ ligne [`15`](../src/subsilver/modcp_split.tpl#L15)
-* __[`{L_SPLIT_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_TOPIC.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC">*</a> :__ ligne [`9`](../src/subsilver/modcp_split.tpl#L9)
+* __[`{L_SPLIT_TOPIC}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_TOPIC.md#readme) :__ ligne [`9`](../src/subsilver/modcp_split.tpl#L9)
 * __[`{L_SPLIT_TOPIC_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SPLIT_TOPIC_EXPLAIN.md#readme)<a href="https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC_EXPLAIN">*</a> :__ ligne [`12`](../src/subsilver/modcp_split.tpl#L12)
 * __[`{MAX_TOPIC_LENGTH}`](https://github.com/Etana/template/blob/master/var/MAX_TOPIC_LENGTH.md#readme)<a href="https://fa-tvars.appspot.com/var/MAX_TOPIC_LENGTH">*</a> :__ ligne [`16`](../src/subsilver/modcp_split.tpl#L16)
 * __[`{MINI_POST_IMG}`](https://github.com/Etana/template/blob/master/var/MINI_POST_IMG.md#readme)<a href="https://fa-tvars.appspot.com/var/MINI_POST_IMG">*</a> :__ ligne [`43`](../src/subsilver/modcp_split.tpl#L43)

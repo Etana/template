@@ -1,14 +1,16 @@
 # L_SPLIT_TOPIC
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md#readme)
+* __Disponible dans :__ [`modcp_split`](../tpl/var/modcp_split.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_SPLIT_TOPIC}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC)
+## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC)
+Texte.
+
+* __Remplacement français :__ `Diviser le sujet`
 
 ## Utilisations dans les templates
 

@@ -7,8 +7,8 @@
 {JS_AUTH_FAVOURITES}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_AUTH_FAVOURITES)
+## Description[*](https://fa-tvars.appspot.com/var/JS_AUTH_FAVOURITES)
+Contient la valeur `false`.
 
 ## Utilisations dans les templates
 

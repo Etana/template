@@ -7,8 +7,8 @@
 {JS_SESSION_ID}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_SESSION_ID)
+## Description[*](https://fa-tvars.appspot.com/var/JS_SESSION_ID)
+Contient une valeur vide utile pour le menu Plus !
 
 ## Utilisations dans les templates
 

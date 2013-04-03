@@ -8,7 +8,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BACK_TO_TOP)
-Image pour remonter en haut définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > Revenir en haut`.
+Code html de l'image `Revenir en haut` spécifiée dans [`Index`](http://votre-forum.appspot.com/#/admin/,&part=themes,&mode=depart&sub=logos,?mode=general&part=themes&sub=logos,?mode=icons&part=themes&sub=logos) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=themes,&mode=depart&sub=logos,?mode=general&part=themes&sub=logos,?mode=icons&part=themes&sub=logos) > [`Affichage`](http://votre-forum.appspot.com/admin/?part=themes#&mode=depart&sub=logos,?mode=general&part=themes&sub=logos,?mode=icons&part=themes&sub=logos) > [`Images et Couleurs | Gestion des images`](http://votre-forum.appspot.com/admin/?mode=depart&part=themes&sub=logos#?mode=general&part=themes&sub=logos,?mode=icons&part=themes&sub=logos) > [`Mode Avancé`](http://votre-forum.appspot.com/admin/?mode=general&part=themes&sub=logos#?mode=icons&part=themes&sub=logos) > [`Mini icônes`](http://votre-forum.appspot.com/admin/?mode=icons&part=themes&sub=logos).
+
+* __Exemple de remplacement français :__ 
+
+```html
+<img class="sprite-arrow_prosilver_up" src="http://illiweb.com/fa/empty.gif" alt="Revenir en haut" />
+```
 
 ## Utilisations dans les templates
 
