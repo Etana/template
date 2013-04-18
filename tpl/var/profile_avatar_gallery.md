@@ -1,4 +1,4 @@
-# Template profile_avatar_gallery [18/44]
+# Template profile_avatar_gallery [19/44]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -54,7 +54,7 @@
 * __[`{S_PROFILE_ACTION}`](https://github.com/Etana/template/blob/master/var/S_PROFILE_ACTION.md#readme)<a href="https://fa-tvars.appspot.com/var/S_PROFILE_ACTION">*</a> :__ ligne [`23`](../src/punbb/profile_avatar_gallery.tpl#L23)
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/profile_avatar_gallery.tpl#L4)
 * __[`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/profile_avatar_gallery.tpl#L5)
-* __[`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/U_VIEW_FORUM">*</a> :__ ligne [`17`](../src/punbb/profile_avatar_gallery.tpl#L17)
+* __[`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme) :__ ligne [`17`](../src/punbb/profile_avatar_gallery.tpl#L17)
 * __[`<!-- BEGIN avatar_row -->`](https://github.com/Etana/template/blob/master/var/avatar_row.md#readme)<a href="https://fa-tvars.appspot.com/var/avatar_row">*</a> :__ ligne [`27`](../src/punbb/profile_avatar_gallery.tpl#L27)
     * __[`<!-- BEGIN avatar_column -->`](https://github.com/Etana/template/blob/master/var/avatar_row.avatar_column.md#readme)<a href="https://fa-tvars.appspot.com/var/avatar_row.avatar_column">*</a> :__ ligne [`28`](../src/punbb/profile_avatar_gallery.tpl#L28)
         * __[`{avatar_row.avatar_column.AVATAR_IMAGE}`](https://github.com/Etana/template/blob/master/var/avatar_row.avatar_column.AVATAR_IMAGE.md#readme)<a href="https://fa-tvars.appspot.com/var/avatar_row.avatar_column.AVATAR_IMAGE">*</a> :__ ligne [`30`](../src/punbb/profile_avatar_gallery.tpl#L30)

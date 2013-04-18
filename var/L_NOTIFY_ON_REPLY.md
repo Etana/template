@@ -20,4 +20,4 @@
 ### Version phpBB2
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ ligne [`794`](../tpl/src/subsilver/posting_body.tpl#L794)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`766`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L766)
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`193`](../tpl/src/subsilver/profile_add_body.tpl#L193)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`196`](../tpl/src/subsilver/profile_add_body.tpl#L196)

@@ -53,7 +53,7 @@ Champs non visible du formulaire.
 * __[`posting_confirm_code`](../tpl/var/posting_confirm_code.md#readme) :__ ligne [`38`](../tpl/src/subsilver/posting_confirm_code.tpl#L38)
 * __[`privmsgs_body`](../tpl/var/privmsgs_body.md#readme) :__ ligne [`76`](../tpl/src/subsilver/privmsgs_body.tpl#L76)
 * __[`privmsgs_read_body`](../tpl/var/privmsgs_read_body.md#readme) :__ ligne [`82`](../tpl/src/subsilver/privmsgs_read_body.tpl#L82)
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`356`](../tpl/src/subsilver/profile_add_body.tpl#L356)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`359`](../tpl/src/subsilver/profile_add_body.tpl#L359)
 * __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ ligne [`27`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L27)
 * __[`profile_send_email`](../tpl/var/profile_send_email.md#readme) :__ ligne [`46`](../tpl/src/subsilver/profile_send_email.tpl#L46)
 * __[`profile_send_pass`](../tpl/var/profile_send_pass.md#readme) :__ ligne [`24`](../tpl/src/subsilver/profile_send_pass.tpl#L24)

@@ -8,7 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_POST_NEW_TOPIC)
-Lien pour poster un nouveau sujet dans le forum concerné.
+Remplacé par l'URL absolue de création d'un sujet dans le forum dans lequel le sujet se trouve.
+
+* __Exemple de remplacement :__ `/post?f=1&mode=newtopic`
 
 ## Utilisations dans les templates
 

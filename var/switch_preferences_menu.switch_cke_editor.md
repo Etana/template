@@ -20,4 +20,4 @@
 * __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`301`](../tpl/src/punbb/profile_add_body.tpl#L301)[`<->`](../tpl/src/punbb/profile_add_body.tpl#L301-L310)[`310`](../tpl/src/punbb/profile_add_body.tpl#L310)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`258`](../tpl/src/subsilver/profile_add_body.tpl#L258)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L258-L266)[`266`](../tpl/src/subsilver/profile_add_body.tpl#L266)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`261`](../tpl/src/subsilver/profile_add_body.tpl#L261)[`<->`](../tpl/src/subsilver/profile_add_body.tpl#L261-L269)[`269`](../tpl/src/subsilver/profile_add_body.tpl#L269)

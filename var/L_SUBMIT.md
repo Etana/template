@@ -46,5 +46,5 @@ Chaîne de texte.
 * __[`posting_body`](../tpl/var/posting_body.md#readme) :__ lignes [`530`](../tpl/src/subsilver/posting_body.tpl#L530), [`687`](../tpl/src/subsilver/posting_body.tpl#L687)
 * __[`posting_body_wysiwyg`](../tpl/var/posting_body_wysiwyg.md#readme) :__ ligne [`530`](../tpl/src/subsilver/posting_body_wysiwyg.tpl#L530)
 * __[`posting_confirm_code`](../tpl/var/posting_confirm_code.md#readme) :__ ligne [`8`](../tpl/src/subsilver/posting_confirm_code.tpl#L8)
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`356`](../tpl/src/subsilver/profile_add_body.tpl#L356)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`359`](../tpl/src/subsilver/profile_add_body.tpl#L359)
 * __[`profile_send_pass`](../tpl/var/profile_send_pass.md#readme) :__ ligne [`25`](../tpl/src/subsilver/profile_send_pass.tpl#L25)

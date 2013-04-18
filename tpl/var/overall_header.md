@@ -1,4 +1,4 @@
-# Template overall_header [161/171]
+# Template overall_header [160/170]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -18,7 +18,6 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 * __Variables propres à ce template :__
     * [`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme)
     * [`{CLASS_CONTENT_CONTAINER}`](https://github.com/Etana/template/blob/master/var/CLASS_CONTENT_CONTAINER.md#readme)
-    * [`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme)
     * [`{CSS}`](https://github.com/Etana/template/blob/master/var/CSS.md#readme)
     * [`{GENERATED_NAV_BAR}`](https://github.com/Etana/template/blob/master/var/GENERATED_NAV_BAR.md#readme)
     * [`{GREETING_POPUP}`](https://github.com/Etana/template/blob/master/var/GREETING_POPUP.md#readme)
@@ -183,7 +182,6 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 
 * __[`{C1SIZE}`](https://github.com/Etana/template/blob/master/var/C1SIZE.md#readme) :__ ligne [`316`](../src/subsilver/overall_header.tpl#L316)
 * __[`{CLASS_CONTENT_CONTAINER}`](https://github.com/Etana/template/blob/master/var/CLASS_CONTENT_CONTAINER.md#readme) :__ ligne [`312`](../src/subsilver/overall_header.tpl#L312)
-* __[`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme) :__ lignes [`277`](../src/subsilver/overall_header.tpl#L277), [`295`](../src/subsilver/overall_header.tpl#L295)
 * __[`{CSS}`](https://github.com/Etana/template/blob/master/var/CSS.md#readme) :__ ligne [`19`](../src/subsilver/overall_header.tpl#L19)
 * __[`{GENERATED_NAV_BAR}`](https://github.com/Etana/template/blob/master/var/GENERATED_NAV_BAR.md#readme) :__ ligne [`267`](../src/subsilver/overall_header.tpl#L267)
 * __[`{GREETING_POPUP}`](https://github.com/Etana/template/blob/master/var/GREETING_POPUP.md#readme) :__ ligne [`161`](../src/subsilver/overall_header.tpl#L161)

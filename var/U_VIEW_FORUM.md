@@ -1,14 +1,16 @@
 # U_VIEW_FORUM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`faq_body`](../tpl/var/faq_body.md#readme), [`faq_dhtml`](../tpl/var/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme), [`viewonline_body`](../tpl/var/viewonline_body.md#readme)
+* __Disponible dans :__ [`faq_body`](../tpl/var/faq_body.md#readme), [`faq_dhtml`](../tpl/var/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme), [`viewonline_body`](../tpl/var/viewonline_body.md#readme), [`viewtopic_body`](../tpl/var/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html
 {U_VIEW_FORUM}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_VIEW_FORUM)
+## Description[*](https://fa-tvars.appspot.com/var/U_VIEW_FORUM)
+Remplacé par l'URL absolue vers le forum dans lequel le sujet se trouve.
+
+* __Exemple de remplacement :__ `/f1-nom-forum`
 
 ## Utilisations dans les templates
 

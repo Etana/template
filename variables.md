@@ -1309,6 +1309,7 @@
 * [`{U_VIEW_NEWER_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_VIEW_NEWER_TOPIC.md#readme)
 * [`{U_VIEW_OLDER_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_VIEW_OLDER_TOPIC.md#readme)
 * [`{U_VIEW_RESULTS}`](https://github.com/Etana/template/blob/master/var/U_VIEW_RESULTS.md#readme)
+* [`{U_VIEW_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_VIEW_TOPIC.md#readme)
 * [`{U_WATCHSEARCH_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_WATCHSEARCH_JS_PLUS_MENU.md#readme)
 * [`{VIEW_EMAIL_FORM}`](https://github.com/Etana/template/blob/master/var/VIEW_EMAIL_FORM.md#readme)
 * [`{VIEW_EMAIL_MAILTO}`](https://github.com/Etana/template/blob/master/var/VIEW_EMAIL_MAILTO.md#readme)

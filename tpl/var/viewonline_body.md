@@ -1,4 +1,4 @@
-# Template viewonline_body [29/69]
+# Template viewonline_body [30/69]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -55,7 +55,7 @@ Ce template affiche la page `/viewonline`
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`14`](../src/punbb/viewonline_body.tpl#L14)
 * __[`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme) :__ ligne [`15`](../src/punbb/viewonline_body.tpl#L15)
 * __[`{U_SEARCH_UNANSWERED}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_UNANSWERED.md#readme) :__ ligne [`16`](../src/punbb/viewonline_body.tpl#L16)
-* __[`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/U_VIEW_FORUM">*</a> :__ ligne [`28`](../src/punbb/viewonline_body.tpl#L28)
+* __[`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme) :__ ligne [`28`](../src/punbb/viewonline_body.tpl#L28)
 * __[`<!-- BEGIN bot_user_row -->`](https://github.com/Etana/template/blob/master/var/bot_user_row.md#readme)<a href="https://fa-tvars.appspot.com/var/bot_user_row">*</a> :__ ligne [`54`](../src/punbb/viewonline_body.tpl#L54)
     * __[`{bot_user_row.FORUM_LOCATION}`](https://github.com/Etana/template/blob/master/var/bot_user_row.FORUM_LOCATION.md#readme)<a href="https://fa-tvars.appspot.com/var/bot_user_row.FORUM_LOCATION">*</a> :__ ligne [`58`](../src/punbb/viewonline_body.tpl#L58)
     * __[`{bot_user_row.LASTUPDATE}`](https://github.com/Etana/template/blob/master/var/bot_user_row.LASTUPDATE.md#readme)<a href="https://fa-tvars.appspot.com/var/bot_user_row.LASTUPDATE">*</a> :__ ligne [`57`](../src/punbb/viewonline_body.tpl#L57)

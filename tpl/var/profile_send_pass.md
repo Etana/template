@@ -1,4 +1,4 @@
-# Template profile_send_pass [19/34]
+# Template profile_send_pass [20/34]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -53,7 +53,7 @@
 * __[`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)<a href="https://fa-tvars.appspot.com/var/USERNAME">*</a> :__ ligne [`32`](../src/punbb/profile_send_pass.tpl#L32)
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/profile_send_pass.tpl#L4)
 * __[`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/profile_send_pass.tpl#L5)
-* __[`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/U_VIEW_FORUM">*</a> :__ ligne [`17`](../src/punbb/profile_send_pass.tpl#L17)
+* __[`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme) :__ ligne [`17`](../src/punbb/profile_send_pass.tpl#L17)
 * __[`<!-- BEGIN switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ ligne [`1`](../src/punbb/profile_send_pass.tpl#L1)
 * __[`<!-- END switch_user_logged_in -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme) :__ ligne [`9`](../src/punbb/profile_send_pass.tpl#L9)
 * __[`<!-- BEGIN switch_user_logged_out -->`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme) :__ ligne [`10`](../src/punbb/profile_send_pass.tpl#L10)

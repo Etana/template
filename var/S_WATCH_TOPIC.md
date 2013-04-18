@@ -7,8 +7,21 @@
 {S_WATCH_TOPIC}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_WATCH_TOPIC)
+## Description[*](https://fa-tvars.appspot.com/var/S_WATCH_TOPIC)
+#### Si on est connecté et qu'on surveille le sujet
+
+Exemple de remplacement français :
+
+```html
+<a href="/t10-nom-sujet?unwatch=topic">Arrêter de surveiller ce sujet</a>
+```
+#### Si on est connecté et qu'on ne surveille pas le sujet
+
+Exemple de remplacement français :
+
+```html
+<a href="/t10-nom-sujet?watch=topic">Surveiller les réponses de ce sujet</a>
+```
 
 ## Utilisations dans les templates
 

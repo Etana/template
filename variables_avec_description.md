@@ -299,6 +299,7 @@
 * [`{S_TOPIC_ADMIN}`](https://github.com/Etana/template/blob/master/var/S_TOPIC_ADMIN.md#readme)
 * [`{S_TOPIC_LINK}`](https://github.com/Etana/template/blob/master/var/S_TOPIC_LINK.md#readme)
 * [`{S_WATCH_FORUM}`](https://github.com/Etana/template/blob/master/var/S_WATCH_FORUM.md#readme)
+* [`{S_WATCH_TOPIC}`](https://github.com/Etana/template/blob/master/var/S_WATCH_TOPIC.md#readme)
 * [`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme)
 * [`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme)
 * [`{TERMS_OF_SERVICE}`](https://github.com/Etana/template/blob/master/var/TERMS_OF_SERVICE.md#readme)
@@ -341,6 +342,7 @@
 * [`{U_NEWPOSTS_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_NEWPOSTS_JS_PLUS_MENU.md#readme)
 * [`{U_OVERALL_POSTERS}`](https://github.com/Etana/template/blob/master/var/U_OVERALL_POSTERS.md#readme)
 * [`{U_POST_NEW_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_POST_NEW_TOPIC.md#readme)
+* [`{U_POST_REPLY_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_POST_REPLY_TOPIC.md#readme)
 * [`{U_PRIVATEMSGS}`](https://github.com/Etana/template/blob/master/var/U_PRIVATEMSGS.md#readme)
 * [`{U_PRIVATEMSGS_POPUP}`](https://github.com/Etana/template/blob/master/var/U_PRIVATEMSGS_POPUP.md#readme)
 * [`{U_PROFILE}`](https://github.com/Etana/template/blob/master/var/U_PROFILE.md#readme)
@@ -354,6 +356,10 @@
 * [`{U_TODAY_POSTERS}`](https://github.com/Etana/template/blob/master/var/U_TODAY_POSTERS.md#readme)
 * [`{U_UNANSWERED_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_UNANSWERED_JS_PLUS_MENU.md#readme)
 * [`{U_VIEWONLINE}`](https://github.com/Etana/template/blob/master/var/U_VIEWONLINE.md#readme)
+* [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
+* [`{U_VIEW_NEWER_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_VIEW_NEWER_TOPIC.md#readme)
+* [`{U_VIEW_OLDER_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_VIEW_OLDER_TOPIC.md#readme)
+* [`{U_VIEW_TOPIC}`](https://github.com/Etana/template/blob/master/var/U_VIEW_TOPIC.md#readme)
 * [`{U_WATCHSEARCH_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_WATCHSEARCH_JS_PLUS_MENU.md#readme)
 * 
     * 

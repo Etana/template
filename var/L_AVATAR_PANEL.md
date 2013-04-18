@@ -16,5 +16,5 @@
 * __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`354`](../tpl/src/punbb/profile_add_body.tpl#L354)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`312`](../tpl/src/subsilver/profile_add_body.tpl#L312)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`315`](../tpl/src/subsilver/profile_add_body.tpl#L315)
 * __[`rpg_sheet_edit`](../tpl/var/rpg_sheet_edit.md#readme) :__ ligne [`16`](../tpl/src/subsilver/rpg_sheet_edit.tpl#L16)

@@ -1,4 +1,4 @@
-# Template faq_dhtml [21/35]
+# Template faq_dhtml [22/35]
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -45,7 +45,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 * __[`{U_CFAQ_JSLIB}`](https://github.com/Etana/template/blob/master/var/U_CFAQ_JSLIB.md#readme) :__ ligne [`20`](../src/punbb/faq_dhtml.tpl#L20)
 * __[`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/faq_dhtml.tpl#L4)
 * __[`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/faq_dhtml.tpl#L5)
-* __[`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)<a href="https://fa-tvars.appspot.com/var/U_VIEW_FORUM">*</a> :__ ligne [`17`](../src/punbb/faq_dhtml.tpl#L17)
+* __[`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme) :__ ligne [`17`](../src/punbb/faq_dhtml.tpl#L17)
 * __[`<!-- BEGIN faq_block -->`](https://github.com/Etana/template/blob/master/var/faq_block.md#readme)<a href="https://fa-tvars.appspot.com/var/faq_block">*</a> :__ ligne [`28`](../src/punbb/faq_dhtml.tpl#L28)
     * __[`{faq_block.BLOCK_TITLE}`](https://github.com/Etana/template/blob/master/var/faq_block.BLOCK_TITLE.md#readme)<a href="https://fa-tvars.appspot.com/var/faq_block.BLOCK_TITLE">*</a> :__ ligne [`31`](../src/punbb/faq_dhtml.tpl#L31)
     * __[`<!-- BEGIN faq_row -->`](https://github.com/Etana/template/blob/master/var/faq_block.faq_row.md#readme)<a href="https://fa-tvars.appspot.com/var/faq_block.faq_row">*</a> :__ ligne [`35`](../src/punbb/faq_dhtml.tpl#L35)

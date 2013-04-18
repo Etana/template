@@ -13,4 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`94`](../tpl/src/subsilver/profile_add_body.tpl#L94)
+* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`97`](../tpl/src/subsilver/profile_add_body.tpl#L97)

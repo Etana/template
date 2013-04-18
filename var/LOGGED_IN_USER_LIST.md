@@ -20,7 +20,7 @@ Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Ad
 
 ```html
 <span id=liul>{LOGGED_IN_USER_LIST}</span>
-<script> $('#liul').html($('#liul').html().match(/(<.*)<br( \/)?>$/)[1]) </script>
+<script> $('#liul').html($('#liul').html().match(/(<.*)<br( \/)?()>$/)[1]) </script>
 ```
 
 ## Utilisations dans les templates
