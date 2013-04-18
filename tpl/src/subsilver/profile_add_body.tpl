@@ -75,12 +75,15 @@
 		<td class="row2"><input class="post" type="text" name="confirm_code" value="" size="6" maxlength="6" /></td>
 	</tr>
 	<!-- END switch_confirm -->
-
-
+	<!-- BEGIN switch_register_not_display -->
+		<!-- BEGIN switch_unsubscribe_allowed -->
 		<tr>
 			<td class="row1"><span class="gen">{L_DELETE}</span></td>
 			<td class="row2"><input type="checkbox" name="delete_user" /><span class="gensmall">{L_DELETE_EXPLAIN}</span></td>
 		</tr>
+		<!-- END switch_unsubscribe_allowed -->
+	<!-- END switch_register_not_display -->
+		
 
 <!-- END switch_informations_menu -->
 

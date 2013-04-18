@@ -56,7 +56,7 @@
 			<td class="row1" align="center" valign="middle"><span class="gen">{MOD_FROM}</span></td>
 			<td class="row1" align="center" valign="middle"><span class="gen">{MOD_EMAIL_IMG}</span></td>
 			<td class="row1" align="center">{MOD_WWW_IMG}</td>
-			<td class="row1" align="center">&nbsp</td>
+			<td class="row1" align="center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td class="catSides" colspan="8" height="28"><span class="cattitle">{L_GROUP_MEMBERS}</span></td>

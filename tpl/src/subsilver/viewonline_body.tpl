@@ -28,7 +28,7 @@
 	</tr>
 	<!-- END reg_user_row -->
 	<tr>
-		<td class="row3" colspan="3" height="1"><img src="http://illiweb.com/fa/empty.gif" alt="." height="1" width="1"></td>
+		<td class="row3" colspan="3" height="1"><img src="http://illiweb.com/fa/empty.gif" alt="." height="1" width="1" /></td>
 	</tr>
 	<tr>
 		<td class="catSides" colspan="3" height="28"><span class="cattitle"><b>{TOTAL_GUEST_USERS_ONLINE}</b></span></td>

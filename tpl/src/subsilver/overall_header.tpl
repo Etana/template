@@ -274,7 +274,7 @@
 				<div id="fa_ticker_block" style="margin-top:4px;margin-bottom:4px;">
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" class="forumline">
 						<tr>
-							<td {CLASS_TABLE_TYPE} align="left" class="row1">
+							<td align="left" class="row1">
 								<div id="fa_ticker_container">
 									<ul id="fa_ticker_content" class="jcarousel-skin-tango" style="display:none;">
 										<!-- BEGIN ticker_row -->
@@ -292,7 +292,7 @@
 				<div id="fa_ticker_block" style="margin-top:4px;margin-bottom:4px;">
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" class="forumline">
 						<tr>
-							<td {CLASS_TABLE_TYPE} align="left" class="row1">
+							<td align="left" class="row1">
 								<div id="fa_ticker_container">
 									<div id="fa_ticker" style="height:{switch_ticker.HEIGHT}px;">
 										<div class="fa_ticker_content">
