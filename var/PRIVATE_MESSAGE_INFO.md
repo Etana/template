@@ -20,6 +20,6 @@ Le nombre de "nouveau message" correspond au nombre de message reçu depuis la d
 #### Exemple de code pour ne conserver que le nombre de nouveau message ( ou aucun )  :
 
 ```html
-<span id=pmi>{TPRIVATE_MESSAGE_INFO}</span>
+<span id=pmi>{PRIVATE_MESSAGE_INFO}</span>
 <script> $('#pmi').text(parseInt($('#pmi').text())||"aucun") </script>
 ```
