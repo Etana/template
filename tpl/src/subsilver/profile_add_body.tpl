@@ -199,13 +199,6 @@
 			<label class="gen"><input type="radio" name="notifyreply" value="0" {NOTIFY_REPLY_NO} />{L_NO}</label>
 		</td>
 	</tr>
-	<tr>
-		<td class="row1"><span class="gen">{L_NOTIFY_ON_PRIVMSG}&nbsp;:</span></td>
-		<td class="row2">
-			<label class="gen"><input type="radio" name="notifypm" value="1" {NOTIFY_PM_YES} />{L_YES}</label>&nbsp;&nbsp;
-			<label class="gen"><input type="radio" name="notifypm" value="0" {NOTIFY_PM_NO} />{L_NO}</label>
-		</td>
-	</tr>
 	<!-- BEGIN switch_can_disable_mass_pm -->
 	<tr>
 		<td class="row1"><span class="gen">{L_ENABLE_MASS_PM}&nbsp;:</span><br /><span class="gensmall">{L_ENABLE_MASS_PM_EXPLAIN}</span></td>
@@ -250,23 +243,7 @@
 			<label class="gen"><input type="radio" name="no_report_popup" value="1" {switch_preferences_menu.switch_report.NO_REPORT_POPUP_NO} />{L_NO}</label>
 		</td>
 	</tr>
-	<tr>
-			<td class="row1"><span class="gen">{switch_preferences_menu.switch_report.L_NO_REPORT_MAIL}&nbsp;:</span></td>
-			<td class="row2">
-			<label class="gen"><input type="radio" name="no_report_mail" value="0" {switch_preferences_menu.switch_report.NO_REPORT_MAIL_YES} />{L_YES}</label>&nbsp;&nbsp;
-			<label class="gen"><input type="radio" name="no_report_mail" value="1" {switch_preferences_menu.switch_report.NO_REPORT_MAIL_NO} />{L_NO}</label>
-		</td>
-	</tr>
 	<!-- END switch_report -->
-	<!-- BEGIN switch_cke_editor -->
-	<tr>
-		<td class="row1"><span class="gen">{L_DISPLAY_WYSIWYG}&nbsp;:</span><br /><span class="gensmall">{L_DISPLAY_WYSIWYG_EXPLAIN}</span></td>
-		<td class="row2">
-			<label class="gen"><input type="radio" name="user_wysiwyg" value="1" {USER_WYSIWYG_YES} />{L_YES}</label>&nbsp;&nbsp;
-			<label class="gen"><input type="radio" name="user_wysiwyg" value="0" {USER_WYSIWYG_NO} />{L_NO}</label>
-		</td>
-	</tr>
-        <!-- END switch_cke_editor -->
 	<tr>
 		<td class="row1"><span class="gen">{L_ALWAYS_ADD_SIGNATURE}&nbsp;:</span></td>
 		<td class="row2">
@@ -322,7 +299,7 @@
 					<td align="center">
 						<span class="gensmall">{L_CURRENT_IMAGE}</span><br />
 						{AVATAR}<br />
-						<input type="checkbox" name="avatardel">&nbsp;<span class="gensmall">{L_DELETE_AVATAR}</span>
+						<input type="checkbox" name="avatardel" />&nbsp;<span class="gensmall">{L_DELETE_AVATAR}</span>
 					</td>
 				</tr>
 			</table>
@@ -332,7 +309,7 @@
 	<!-- BEGIN switch_avatar_local_upload -->
 	<tr>
 		<td class="row1"><span class="gen">{L_UPLOAD_AVATAR_FILE}&nbsp;:</span></td>
-		<td class="row2"><input class="post" type="file" name="avatar"></td>
+		<td class="row2"><input class="post" type="file" name="avatar" /></td>
 	</tr>
 	<!-- END switch_avatar_local_upload -->
 	<!-- BEGIN switch_avatar_remote_upload -->
