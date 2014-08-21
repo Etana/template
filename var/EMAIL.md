@@ -1,21 +1,22 @@
 # EMAIL
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme), [`profile_send_pass`](../tpl/var/profile_send_pass.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {EMAIL}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/EMAIL)
-
+## Description[*](https://fa-tvars.appspot.com/var/EMAIL)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`45`](../tpl/src/punbb/profile_add_body.tpl#L45), [`45`](../tpl/src/punbb/profile_add_body.tpl#L45), [`51`](../tpl/src/punbb/profile_add_body.tpl#L51)
-* __[`profile_send_pass`](../tpl/var/profile_send_pass.md#readme) :__ ligne [`36`](../tpl/src/punbb/profile_send_pass.tpl#L36)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`31`](../tpl/src/subsilver/profile_add_body.tpl#L31), [`31`](../tpl/src/subsilver/profile_add_body.tpl#L31), [`37`](../tpl/src/subsilver/profile_add_body.tpl#L37)
-* __[`profile_send_pass`](../tpl/var/profile_send_pass.md#readme) :__ ligne [`20`](../tpl/src/subsilver/profile_send_pass.tpl#L20)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`31`](../src/subsilver/profile_add_body.tpl#L31)[`<->`](../src/subsilver/profile_add_body.tpl#L31-L31)[`31`](../src/subsilver/profile_add_body.tpl#L31)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`31`](../src/subsilver/profile_add_body.tpl#L31)[`<->`](../src/subsilver/profile_add_body.tpl#L31-L31)[`31`](../src/subsilver/profile_add_body.tpl#L31)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`37`](../src/subsilver/profile_add_body.tpl#L37)[`<->`](../src/subsilver/profile_add_body.tpl#L37-L37)[`37`](../src/subsilver/profile_add_body.tpl#L37)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`45`](../src/punbb/profile_add_body.tpl#L45)[`<->`](../src/punbb/profile_add_body.tpl#L45-L45)[`45`](../src/punbb/profile_add_body.tpl#L45)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`45`](../src/punbb/profile_add_body.tpl#L45)[`<->`](../src/punbb/profile_add_body.tpl#L45-L45)[`45`](../src/punbb/profile_add_body.tpl#L45)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`51`](../src/punbb/profile_add_body.tpl#L51)[`<->`](../src/punbb/profile_add_body.tpl#L51-L51)[`51`](../src/punbb/profile_add_body.tpl#L51)
+

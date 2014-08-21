@@ -1,19 +1,18 @@
 # CUR_PASSWORD
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {CUR_PASSWORD}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/CUR_PASSWORD)
-
+## Description[*](https://fa-tvars.appspot.com/var/CUR_PASSWORD)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`149`](../tpl/src/punbb/profile_add_body.tpl#L149)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`99`](../tpl/src/subsilver/profile_add_body.tpl#L99)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`99`](../src/subsilver/profile_add_body.tpl#L99)[`<->`](../src/subsilver/profile_add_body.tpl#L99-L99)[`99`](../src/subsilver/profile_add_body.tpl#L99)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`149`](../src/punbb/profile_add_body.tpl#L149)[`<->`](../src/punbb/profile_add_body.tpl#L149-L149)[`149`](../src/punbb/profile_add_body.tpl#L149)
+

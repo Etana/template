@@ -1,19 +1,18 @@
 # TIMEZONE_SELECT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {TIMEZONE_SELECT}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TIMEZONE_SELECT)
-
+## Description[*](https://fa-tvars.appspot.com/var/TIMEZONE_SELECT)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`341`](../tpl/src/punbb/profile_add_body.tpl#L341)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`304`](../tpl/src/subsilver/profile_add_body.tpl#L304)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`281`](../src/subsilver/profile_add_body.tpl#L281)[`<->`](../src/subsilver/profile_add_body.tpl#L281-L281)[`281`](../src/subsilver/profile_add_body.tpl#L281)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`319`](../src/punbb/profile_add_body.tpl#L319)[`<->`](../src/punbb/profile_add_body.tpl#L319-L319)[`319`](../src/punbb/profile_add_body.tpl#L319)
+

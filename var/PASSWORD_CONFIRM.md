@@ -1,19 +1,18 @@
 # PASSWORD_CONFIRM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {PASSWORD_CONFIRM}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PASSWORD_CONFIRM)
-
+## Description[*](https://fa-tvars.appspot.com/var/PASSWORD_CONFIRM)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`164`](../tpl/src/punbb/profile_add_body.tpl#L164)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`117`](../tpl/src/subsilver/profile_add_body.tpl#L117)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`117`](../src/subsilver/profile_add_body.tpl#L117)[`<->`](../src/subsilver/profile_add_body.tpl#L117-L117)[`117`](../src/subsilver/profile_add_body.tpl#L117)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`164`](../src/punbb/profile_add_body.tpl#L164)[`<->`](../src/punbb/profile_add_body.tpl#L164-L164)[`164`](../src/punbb/profile_add_body.tpl#L164)
+

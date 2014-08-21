@@ -1,19 +1,18 @@
 # L_DATE_FORMAT
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_DATE_FORMAT}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_DATE_FORMAT)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_DATE_FORMAT)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`344`](../tpl/src/punbb/profile_add_body.tpl#L344)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`307`](../tpl/src/subsilver/profile_add_body.tpl#L307)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`284`](../src/subsilver/profile_add_body.tpl#L284)[`<->`](../src/subsilver/profile_add_body.tpl#L284-L284)[`284`](../src/subsilver/profile_add_body.tpl#L284)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`322`](../src/punbb/profile_add_body.tpl#L322)[`<->`](../src/punbb/profile_add_body.tpl#L322-L322)[`322`](../src/punbb/profile_add_body.tpl#L322)
+

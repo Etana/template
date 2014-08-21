@@ -1,19 +1,18 @@
 # L_ENABLE_MASS_PM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_ENABLE_MASS_PM}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ENABLE_MASS_PM)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_ENABLE_MASS_PM)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`256`](../tpl/src/punbb/profile_add_body.tpl#L256)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`211`](../tpl/src/subsilver/profile_add_body.tpl#L211)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`204`](../src/subsilver/profile_add_body.tpl#L204)[`<->`](../src/subsilver/profile_add_body.tpl#L204-L204)[`204`](../src/subsilver/profile_add_body.tpl#L204)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`250`](../src/punbb/profile_add_body.tpl#L250)[`<->`](../src/punbb/profile_add_body.tpl#L250-L250)[`250`](../src/punbb/profile_add_body.tpl#L250)
+

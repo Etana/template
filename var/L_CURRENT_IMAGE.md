@@ -1,19 +1,18 @@
 # L_CURRENT_IMAGE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_CURRENT_IMAGE}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CURRENT_IMAGE)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_CURRENT_IMAGE)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`359`](../tpl/src/punbb/profile_add_body.tpl#L359)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`323`](../tpl/src/subsilver/profile_add_body.tpl#L323)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`297`](../src/subsilver/profile_add_body.tpl#L297)[`<->`](../src/subsilver/profile_add_body.tpl#L297-L297)[`297`](../src/subsilver/profile_add_body.tpl#L297)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`337`](../src/punbb/profile_add_body.tpl#L337)[`<->`](../src/punbb/profile_add_body.tpl#L337-L337)[`337`](../src/punbb/profile_add_body.tpl#L337)
+

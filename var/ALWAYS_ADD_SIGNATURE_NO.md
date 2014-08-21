@@ -1,19 +1,18 @@
 # ALWAYS_ADD_SIGNATURE_NO
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {ALWAYS_ADD_SIGNATURE_NO}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ALWAYS_ADD_SIGNATURE_NO)
-
+## Description[*](https://fa-tvars.appspot.com/var/ALWAYS_ADD_SIGNATURE_NO)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`314`](../tpl/src/punbb/profile_add_body.tpl#L314)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`274`](../tpl/src/subsilver/profile_add_body.tpl#L274)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`251`](../src/subsilver/profile_add_body.tpl#L251)[`<->`](../src/subsilver/profile_add_body.tpl#L251-L251)[`251`](../src/subsilver/profile_add_body.tpl#L251)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`292`](../src/punbb/profile_add_body.tpl#L292)[`<->`](../src/punbb/profile_add_body.tpl#L292-L292)[`292`](../src/punbb/profile_add_body.tpl#L292)
+

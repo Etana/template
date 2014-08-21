@@ -1,23 +1,20 @@
 # avatar_row.avatar_column.AVATAR_NAME
-* __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN avatar_column -->...<!-- END avatar_column -->`](https://github.com/Etana/template/blob/master/var/avatar_row.avatar_column.md#readme)
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
 ```html
-<!-- BEGIN avatar_row -->
-    <!-- BEGIN avatar_column -->
-    {avatar_row.avatar_column.AVATAR_NAME}
-    <!-- END avatar_column -->
-<!-- END avatar_row -->
+{avatar_row.avatar_column.AVATAR_NAME}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.AVATAR_NAME)
-
+## Description[*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.AVATAR_NAME)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ lignes [`30`](../tpl/src/punbb/profile_avatar_gallery.tpl#L30), [`30`](../tpl/src/punbb/profile_avatar_gallery.tpl#L30)
-
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/var/profile_avatar_gallery.md#readme) :__ lignes [`17`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L17), [`17`](../tpl/src/subsilver/profile_avatar_gallery.tpl#L17)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`17`](../src/subsilver/profile_avatar_gallery.tpl#L17)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L17-L17)[`17`](../src/subsilver/profile_avatar_gallery.tpl#L17)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`17`](../src/subsilver/profile_avatar_gallery.tpl#L17)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L17-L17)[`17`](../src/subsilver/profile_avatar_gallery.tpl#L17)
+
+### Version PunBB
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`30`](../src/punbb/profile_avatar_gallery.tpl#L30)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L30-L30)[`30`](../src/punbb/profile_avatar_gallery.tpl#L30)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`30`](../src/punbb/profile_avatar_gallery.tpl#L30)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L30-L30)[`30`](../src/punbb/profile_avatar_gallery.tpl#L30)
+

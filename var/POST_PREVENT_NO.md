@@ -1,19 +1,18 @@
 # POST_PREVENT_NO
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {POST_PREVENT_NO}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/POST_PREVENT_NO)
-
+## Description[*](https://fa-tvars.appspot.com/var/POST_PREVENT_NO)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`283`](../tpl/src/punbb/profile_add_body.tpl#L283)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`242`](../tpl/src/subsilver/profile_add_body.tpl#L242)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`235`](../src/subsilver/profile_add_body.tpl#L235)[`<->`](../src/subsilver/profile_add_body.tpl#L235-L235)[`235`](../src/subsilver/profile_add_body.tpl#L235)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`277`](../src/punbb/profile_add_body.tpl#L277)[`<->`](../src/punbb/profile_add_body.tpl#L277-L277)[`277`](../src/punbb/profile_add_body.tpl#L277)
+

@@ -1,19 +1,18 @@
 # L_HIDE_USER
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_HIDE_USER}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_HIDE_USER)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_HIDE_USER)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`236`](../tpl/src/punbb/profile_add_body.tpl#L236)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`189`](../tpl/src/subsilver/profile_add_body.tpl#L189)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`189`](../src/subsilver/profile_add_body.tpl#L189)[`<->`](../src/subsilver/profile_add_body.tpl#L189-L189)[`189`](../src/subsilver/profile_add_body.tpl#L189)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`236`](../src/punbb/profile_add_body.tpl#L236)[`<->`](../src/punbb/profile_add_body.tpl#L236-L236)[`236`](../src/punbb/profile_add_body.tpl#L236)
+

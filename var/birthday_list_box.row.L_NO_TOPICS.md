@@ -1,23 +1,18 @@
 # birthday_list_box.row.L_NO_TOPICS
-* __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.row.md#readme)
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
 * __Utilisation :__
 
 ```html
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-    {birthday_list_box.row.L_NO_TOPICS}
-    <!-- END row -->
-<!-- END birthday_list_box -->
+{birthday_list_box.row.L_NO_TOPICS}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.L_NO_TOPICS)
-
+## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.L_NO_TOPICS)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`38`](../tpl/src/punbb/birthday_list_box.tpl#L38)
-
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`47`](../tpl/src/subsilver/birthday_list_box.tpl#L47)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`47`](../src/subsilver/birthday_list_box.tpl#L47)[`<->`](../src/subsilver/birthday_list_box.tpl#L47-L47)[`47`](../src/subsilver/birthday_list_box.tpl#L47)
+
+### Version PunBB
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`38`](../src/punbb/birthday_list_box.tpl#L38)[`<->`](../src/punbb/birthday_list_box.tpl#L38-L38)[`38`](../src/punbb/birthday_list_box.tpl#L38)
+

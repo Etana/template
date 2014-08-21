@@ -1,20 +1,15 @@
 # birthday_list_box.row.ROW_CLASS
-* __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.row.md#readme)
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
 * __Utilisation :__
 
 ```html
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-    {birthday_list_box.row.ROW_CLASS}
-    <!-- END row -->
-<!-- END birthday_list_box -->
+{birthday_list_box.row.ROW_CLASS}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.ROW_CLASS)
-
+## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.ROW_CLASS)
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`26`](../tpl/src/punbb/birthday_list_box.tpl#L26)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`26`](../src/punbb/birthday_list_box.tpl#L26)[`<->`](../src/punbb/birthday_list_box.tpl#L26-L26)[`26`](../src/punbb/birthday_list_box.tpl#L26)
+

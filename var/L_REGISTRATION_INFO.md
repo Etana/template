@@ -1,19 +1,20 @@
 # L_REGISTRATION_INFO
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_REGISTRATION_INFO}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_REGISTRATION_INFO)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_REGISTRATION_INFO)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`26`](../tpl/src/punbb/profile_add_body.tpl#L26), [`144`](../tpl/src/punbb/profile_add_body.tpl#L144)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ lignes [`10`](../tpl/src/subsilver/profile_add_body.tpl#L10), [`92`](../tpl/src/subsilver/profile_add_body.tpl#L92)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`10`](../src/subsilver/profile_add_body.tpl#L10)[`<->`](../src/subsilver/profile_add_body.tpl#L10-L10)[`10`](../src/subsilver/profile_add_body.tpl#L10)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`92`](../src/subsilver/profile_add_body.tpl#L92)[`<->`](../src/subsilver/profile_add_body.tpl#L92-L92)[`92`](../src/subsilver/profile_add_body.tpl#L92)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`26`](../src/punbb/profile_add_body.tpl#L26)[`<->`](../src/punbb/profile_add_body.tpl#L26-L26)[`26`](../src/punbb/profile_add_body.tpl#L26)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`144`](../src/punbb/profile_add_body.tpl#L144)[`<->`](../src/punbb/profile_add_body.tpl#L144-L144)[`144`](../src/punbb/profile_add_body.tpl#L144)
+

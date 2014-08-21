@@ -1,19 +1,18 @@
 # L_FORM
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_FORM}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FORM)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_FORM)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`180`](../tpl/src/punbb/profile_add_body.tpl#L180)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`131`](../tpl/src/subsilver/profile_add_body.tpl#L131)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`131`](../src/subsilver/profile_add_body.tpl#L131)[`<->`](../src/subsilver/profile_add_body.tpl#L131-L131)[`131`](../src/subsilver/profile_add_body.tpl#L131)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`180`](../src/punbb/profile_add_body.tpl#L180)[`<->`](../src/punbb/profile_add_body.tpl#L180-L180)[`180`](../src/punbb/profile_add_body.tpl#L180)
+

@@ -1,19 +1,18 @@
 # L_ALWAYS_ALLOW_BBCODE
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_ALWAYS_ALLOW_BBCODE}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ALWAYS_ALLOW_BBCODE)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_ALWAYS_ALLOW_BBCODE)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`318`](../tpl/src/punbb/profile_add_body.tpl#L318)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`278`](../tpl/src/subsilver/profile_add_body.tpl#L278)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`255`](../src/subsilver/profile_add_body.tpl#L255)[`<->`](../src/subsilver/profile_add_body.tpl#L255-L255)[`255`](../src/subsilver/profile_add_body.tpl#L255)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`296`](../src/punbb/profile_add_body.tpl#L296)[`<->`](../src/punbb/profile_add_body.tpl#L296-L296)[`296`](../src/punbb/profile_add_body.tpl#L296)
+

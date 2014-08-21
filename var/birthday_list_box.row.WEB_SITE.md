@@ -1,23 +1,18 @@
 # birthday_list_box.row.WEB_SITE
-* __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN row -->...<!-- END row -->`](https://github.com/Etana/template/blob/master/var/birthday_list_box.row.md#readme)
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
 * __Utilisation :__
 
 ```html
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-    {birthday_list_box.row.WEB_SITE}
-    <!-- END row -->
-<!-- END birthday_list_box -->
+{birthday_list_box.row.WEB_SITE}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.WEB_SITE)
-
+## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.WEB_SITE)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`31`](../tpl/src/punbb/birthday_list_box.tpl#L31)
-
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/var/birthday_list_box.md#readme) :__ ligne [`43`](../tpl/src/subsilver/birthday_list_box.tpl#L43)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`43`](../src/subsilver/birthday_list_box.tpl#L43)[`<->`](../src/subsilver/birthday_list_box.tpl#L43-L43)[`43`](../src/subsilver/birthday_list_box.tpl#L43)
+
+### Version PunBB
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`31`](../src/punbb/birthday_list_box.tpl#L31)[`<->`](../src/punbb/birthday_list_box.tpl#L31-L31)[`31`](../src/punbb/birthday_list_box.tpl#L31)
+

@@ -1,25 +1,18 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN
-* __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_account_linked -->...<!-- END switch_fb_account_linked -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.md#readme)
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_linked -->
-        {switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN}
-        <!-- END switch_fb_account_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
+{switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN)
-
+## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`220`](../tpl/src/punbb/profile_add_body.tpl#L220)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`173`](../tpl/src/subsilver/profile_add_body.tpl#L173)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`173`](../src/subsilver/profile_add_body.tpl#L173)[`<->`](../src/subsilver/profile_add_body.tpl#L173-L173)[`173`](../src/subsilver/profile_add_body.tpl#L173)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`220`](../src/punbb/profile_add_body.tpl#L220)[`<->`](../src/punbb/profile_add_body.tpl#L220-L220)[`220`](../src/punbb/profile_add_body.tpl#L220)
+

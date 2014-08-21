@@ -1,25 +1,18 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON
-* __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_fb_account_not_linked -->...<!-- END switch_fb_account_not_linked -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.md#readme)
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_not_linked -->
-        {switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}
-        <!-- END switch_fb_account_not_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
+{switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON)
-
+## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`214`](../tpl/src/punbb/profile_add_body.tpl#L214)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`164`](../tpl/src/subsilver/profile_add_body.tpl#L164)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`164`](../src/subsilver/profile_add_body.tpl#L164)[`<->`](../src/subsilver/profile_add_body.tpl#L164-L164)[`164`](../src/subsilver/profile_add_body.tpl#L164)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`214`](../src/punbb/profile_add_body.tpl#L214)[`<->`](../src/punbb/profile_add_body.tpl#L214-L214)[`214`](../src/punbb/profile_add_body.tpl#L214)
+

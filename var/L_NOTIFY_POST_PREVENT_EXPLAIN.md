@@ -1,19 +1,18 @@
 # L_NOTIFY_POST_PREVENT_EXPLAIN
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_NOTIFY_POST_PREVENT_EXPLAIN}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NOTIFY_POST_PREVENT_EXPLAIN)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_NOTIFY_POST_PREVENT_EXPLAIN)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`284`](../tpl/src/punbb/profile_add_body.tpl#L284)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`238`](../tpl/src/subsilver/profile_add_body.tpl#L238)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`231`](../src/subsilver/profile_add_body.tpl#L231)[`<->`](../src/subsilver/profile_add_body.tpl#L231-L231)[`231`](../src/subsilver/profile_add_body.tpl#L231)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`278`](../src/punbb/profile_add_body.tpl#L278)[`<->`](../src/punbb/profile_add_body.tpl#L278-L278)[`278`](../src/punbb/profile_add_body.tpl#L278)
+

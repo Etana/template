@@ -1,23 +1,18 @@
 # switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL
-* __Type :__ attribut d'affichage
-* __Disponible dans :__ une boucle [`<!-- BEGIN switch_profile_advanced -->...<!-- END switch_profile_advanced -->`](https://github.com/Etana/template/blob/master/var/switch_preferences_menu.switch_profile_advanced.md#readme)
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_profile_advanced -->
-    {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL}
-    <!-- END switch_profile_advanced -->
-<!-- END switch_preferences_menu -->
+{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL)
-
+## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`198`](../tpl/src/punbb/profile_add_body.tpl#L198)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`149`](../tpl/src/subsilver/profile_add_body.tpl#L149)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`149`](../src/subsilver/profile_add_body.tpl#L149)[`<->`](../src/subsilver/profile_add_body.tpl#L149-L149)[`149`](../src/subsilver/profile_add_body.tpl#L149)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`198`](../src/punbb/profile_add_body.tpl#L198)[`<->`](../src/punbb/profile_add_body.tpl#L198-L198)[`198`](../src/punbb/profile_add_body.tpl#L198)
+

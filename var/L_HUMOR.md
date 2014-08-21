@@ -1,16 +1,15 @@
 # L_HUMOR
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_HUMOR}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_HUMOR)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_HUMOR)
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`84`](../tpl/src/punbb/profile_add_body.tpl#L84)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`84`](../src/punbb/profile_add_body.tpl#L84)[`<->`](../src/punbb/profile_add_body.tpl#L84-L84)[`84`](../src/punbb/profile_add_body.tpl#L84)
+

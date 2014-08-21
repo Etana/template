@@ -1,19 +1,18 @@
 # L_POPUP_ON_PRIVMSG
 * __Type :__ variable d'affichage
-* __Disponible dans :__ [`profile_add_body`](../tpl/var/profile_add_body.md#readme)
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
 ```html
 {L_POPUP_ON_PRIVMSG}
 ```
 
-## Description
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POPUP_ON_PRIVMSG)
-
+## Description[*](https://fa-tvars.appspot.com/var/L_POPUP_ON_PRIVMSG)
 ## Utilisations dans les templates
 
-### Version PunBB
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`274`](../tpl/src/punbb/profile_add_body.tpl#L274)
-
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/var/profile_add_body.md#readme) :__ ligne [`229`](../tpl/src/subsilver/profile_add_body.tpl#L229)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`222`](../src/subsilver/profile_add_body.tpl#L222)[`<->`](../src/subsilver/profile_add_body.tpl#L222-L222)[`222`](../src/subsilver/profile_add_body.tpl#L222)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`268`](../src/punbb/profile_add_body.tpl#L268)[`<->`](../src/punbb/profile_add_body.tpl#L268-L268)[`268`](../src/punbb/profile_add_body.tpl#L268)
+
