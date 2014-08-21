@@ -1,0 +1,15 @@
+# T_BODY_TABLE_WIDTH
+* __Type :__ variable d'affichage
+* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation :__
+
+```html
+{T_BODY_TABLE_WIDTH}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/T_BODY_TABLE_WIDTH)
+## Utilisations dans les templates
+
+### Version phpBB2
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`250`](../src/subsilver/overall_header.tpl#L250)[`<->`](../src/subsilver/overall_header.tpl#L250-L250)[`250`](../src/subsilver/overall_header.tpl#L250)
+

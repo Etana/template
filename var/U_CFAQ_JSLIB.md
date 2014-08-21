@@ -1,0 +1,24 @@
+# U_CFAQ_JSLIB
+* __Type :__ variable d'affichage
+* __Utilisable dans :__ [`faq_dhtml`](../tpl/faq_dhtml.md#readme)
+* __Utilisation :__
+
+```html
+{U_CFAQ_JSLIB}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/U_CFAQ_JSLIB)
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`4`](../src/prosilver/faq_dhtml.tpl#L4)[`<->`](../src/prosilver/faq_dhtml.tpl#L4-L4)[`4`](../src/prosilver/faq_dhtml.tpl#L4)
+
+### Version phpBB2
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`1`](../src/subsilver/faq_dhtml.tpl#L1)[`<->`](../src/subsilver/faq_dhtml.tpl#L1-L1)[`1`](../src/subsilver/faq_dhtml.tpl#L1)
+
+### Version PunBB
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`20`](../src/punbb/faq_dhtml.tpl#L20)[`<->`](../src/punbb/faq_dhtml.tpl#L20-L20)[`20`](../src/punbb/faq_dhtml.tpl#L20)
+
+### Version Invision
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`7`](../src/invision/faq_dhtml.tpl#L7)[`<->`](../src/invision/faq_dhtml.tpl#L7-L7)[`7`](../src/invision/faq_dhtml.tpl#L7)
+

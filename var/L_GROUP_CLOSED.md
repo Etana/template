@@ -1,0 +1,24 @@
+# L_GROUP_CLOSED
+* __Type :__ variable d'affichage
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisation :__
+
+```html
+{L_GROUP_CLOSED}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_CLOSED)
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`33`](../src/prosilver/groupcp_info_body.tpl#L33)[`<->`](../src/prosilver/groupcp_info_body.tpl#L33-L33)[`33`](../src/prosilver/groupcp_info_body.tpl#L33)
+
+### Version phpBB2
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`31`](../src/subsilver/groupcp_info_body.tpl#L31)[`<->`](../src/subsilver/groupcp_info_body.tpl#L31-L31)[`31`](../src/subsilver/groupcp_info_body.tpl#L31)
+
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`57`](../src/punbb/groupcp_info_body.tpl#L57)[`<->`](../src/punbb/groupcp_info_body.tpl#L57-L57)[`57`](../src/punbb/groupcp_info_body.tpl#L57)
+
+### Version Invision
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`37`](../src/invision/groupcp_info_body.tpl#L37)[`<->`](../src/invision/groupcp_info_body.tpl#L37-L37)[`37`](../src/invision/groupcp_info_body.tpl#L37)
+

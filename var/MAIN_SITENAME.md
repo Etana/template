@@ -1,0 +1,15 @@
+# MAIN_SITENAME
+* __Type :__ variable d'affichage
+* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation :__
+
+```html
+{MAIN_SITENAME}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/MAIN_SITENAME)
+## Utilisations dans les templates
+
+### Version phpBB2
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`263`](../src/subsilver/overall_header.tpl#L263)[`<->`](../src/subsilver/overall_header.tpl#L263-L263)[`263`](../src/subsilver/overall_header.tpl#L263)
+

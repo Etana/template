@@ -1,0 +1,24 @@
+# FORUM_LOCKED_IMG
+* __Type :__ variable d'affichage
+* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation :__
+
+```html
+{FORUM_LOCKED_IMG}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/FORUM_LOCKED_IMG)
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`128`](../src/prosilver/index_body.tpl#L128)[`<->`](../src/prosilver/index_body.tpl#L128-L128)[`128`](../src/prosilver/index_body.tpl#L128)
+
+### Version phpBB2
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`233`](../src/subsilver/index_body.tpl#L233)[`<->`](../src/subsilver/index_body.tpl#L233-L233)[`233`](../src/subsilver/index_body.tpl#L233)
+
+### Version PunBB
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`127`](../src/punbb/index_body.tpl#L127)[`<->`](../src/punbb/index_body.tpl#L127-L127)[`127`](../src/punbb/index_body.tpl#L127)
+
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`163`](../src/invision/index_body.tpl#L163)[`<->`](../src/invision/index_body.tpl#L163-L163)[`163`](../src/invision/index_body.tpl#L163)
+

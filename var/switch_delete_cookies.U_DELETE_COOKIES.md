@@ -1,0 +1,15 @@
+# switch_delete_cookies.U_DELETE_COOKIES
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation :__
+
+```html
+{switch_delete_cookies.U_DELETE_COOKIES}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_delete_cookies.U_DELETE_COOKIES)
+## Utilisations dans les templates
+
+### Version phpBB2
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`91`](../src/subsilver/index_body.tpl#L91)[`<->`](../src/subsilver/index_body.tpl#L91-L91)[`91`](../src/subsilver/index_body.tpl#L91)
+
