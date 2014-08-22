@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
-```html
-{avatar_row}
+```smarty
+<!-- BEGIN avatar_row -->
+    contenu sur lequel on boucle
+    <!-- END avatar_row -->
+<!-- BEGIN avatar_row -->
+    contenu sur lequel on boucle
+    <!-- END avatar_row -->
+<!-- BEGIN avatar_row -->
+    contenu sur lequel on boucle
+    <!-- END avatar_row -->
+<!-- BEGIN avatar_row -->
+    contenu sur lequel on boucle
+    <!-- END avatar_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/avatar_row)

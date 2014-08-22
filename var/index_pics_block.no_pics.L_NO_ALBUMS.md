@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{index_pics_block.no_pics.L_NO_ALBUMS}
+```smarty
+<!-- BEGIN index_pics_block -->
+    <!-- BEGIN no_pics -->
+        {index_pics_block.no_pics.L_NO_ALBUMS}
+        <!-- END no_pics -->
+    <!-- END index_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.L_NO_ALBUMS)

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`overall_footer_end`](../tpl/overall_footer_end.md#readme), [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{ADMIN_LINK}
+{ADMIN_LINK}
+{ADMIN_LINK}
 {ADMIN_LINK}
 ```
 

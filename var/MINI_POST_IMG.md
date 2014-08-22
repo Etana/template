@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_preview`](../tpl/posting_preview.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{MINI_POST_IMG}
+{MINI_POST_IMG}
 {MINI_POST_IMG}
 ```
 

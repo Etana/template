@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_moderate_body`](../tpl/album_moderate_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SORT_APPROVAL_OPTION}
+{SORT_APPROVAL_OPTION}
+{SORT_APPROVAL_OPTION}
 {SORT_APPROVAL_OPTION}
 ```
 

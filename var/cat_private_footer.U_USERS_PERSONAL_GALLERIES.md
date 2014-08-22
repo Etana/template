@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
 * __Utilisation :__
 
-```html
-{cat_private_footer.U_USERS_PERSONAL_GALLERIES}
+```smarty
+<!-- BEGIN cat_private_footer -->
+    {cat_private_footer.U_USERS_PERSONAL_GALLERIES}
+    <!-- END cat_private_footer -->
+<!-- BEGIN cat_private_footer -->
+    {cat_private_footer.U_USERS_PERSONAL_GALLERIES}
+    <!-- END cat_private_footer -->
+<!-- BEGIN cat_private_footer -->
+    {cat_private_footer.U_USERS_PERSONAL_GALLERIES}
+    <!-- END cat_private_footer -->
+<!-- BEGIN cat_private_footer -->
+    {cat_private_footer.U_USERS_PERSONAL_GALLERIES}
+    <!-- END cat_private_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cat_private_footer.U_USERS_PERSONAL_GALLERIES)

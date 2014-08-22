@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {FORUM_ONLINE_USERS}
 ```
 

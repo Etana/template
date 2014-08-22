@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_CANCEL_VOTE}
+{U_CANCEL_VOTE}
+{U_CANCEL_VOTE}
 {U_CANCEL_VOTE}
 ```
 

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MARK}
+{L_MARK}
+{L_MARK}
 {L_MARK}
 ```
 

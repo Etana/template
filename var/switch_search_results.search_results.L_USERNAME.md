@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`album_search_body`](../tpl/album_search_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_search_results.search_results.L_USERNAME}
+```smarty
+<!-- BEGIN switch_search_results -->
+    <!-- BEGIN search_results -->
+        {switch_search_results.search_results.L_USERNAME}
+        <!-- END search_results -->
+    <!-- END switch_search_results -->
+<!-- BEGIN switch_search_results -->
+    <!-- BEGIN search_results -->
+        {switch_search_results.search_results.L_USERNAME}
+        <!-- END search_results -->
+    <!-- END switch_search_results -->
+<!-- BEGIN switch_search_results -->
+    <!-- BEGIN search_results -->
+        {switch_search_results.search_results.L_USERNAME}
+        <!-- END search_results -->
+    <!-- END switch_search_results -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.L_USERNAME)

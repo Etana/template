@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{ID_LEFT}
+{ID_LEFT}
+{ID_LEFT}
 {ID_LEFT}
 ```
 

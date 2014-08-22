@@ -3,8 +3,35 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow.forumrow.switch_moderators_links.L_MODERATOR}
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        <!-- BEGIN switch_moderators_links -->
+            {catrow.forumrow.switch_moderators_links.L_MODERATOR}
+            <!-- END switch_moderators_links -->
+        <!-- END forumrow -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        <!-- BEGIN switch_moderators_links -->
+            {catrow.forumrow.switch_moderators_links.L_MODERATOR}
+            <!-- END switch_moderators_links -->
+        <!-- END forumrow -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        <!-- BEGIN switch_moderators_links -->
+            {catrow.forumrow.switch_moderators_links.L_MODERATOR}
+            <!-- END switch_moderators_links -->
+        <!-- END forumrow -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        <!-- BEGIN switch_moderators_links -->
+            {catrow.forumrow.switch_moderators_links.L_MODERATOR}
+            <!-- END switch_moderators_links -->
+        <!-- END forumrow -->
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.L_MODERATOR)

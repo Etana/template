@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme)
 * __Utilisation :__
 
-```html
-{post_row}
+```smarty
+<!-- BEGIN post_row -->
+    contenu sur lequel on boucle
+    <!-- END post_row -->
+<!-- BEGIN post_row -->
+    contenu sur lequel on boucle
+    <!-- END post_row -->
+<!-- BEGIN post_row -->
+    contenu sur lequel on boucle
+    <!-- END post_row -->
+<!-- BEGIN post_row -->
+    contenu sur lequel on boucle
+    <!-- END post_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row)

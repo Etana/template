@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow.tablefoot}
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN tablefoot -->
+        contenu sur lequel on boucle
+        <!-- END tablefoot -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN tablefoot -->
+        contenu sur lequel on boucle
+        <!-- END tablefoot -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN tablefoot -->
+        contenu sur lequel on boucle
+        <!-- END tablefoot -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN tablefoot -->
+        contenu sur lequel on boucle
+        <!-- END tablefoot -->
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.tablefoot)

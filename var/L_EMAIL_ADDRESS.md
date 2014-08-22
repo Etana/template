@@ -3,7 +3,17 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
+{L_EMAIL_ADDRESS}
 {L_EMAIL_ADDRESS}
 ```
 

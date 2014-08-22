@@ -3,7 +3,16 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme), [`mod_news`](../tpl/mod_news.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{LEFT}
+{LEFT}
+{LEFT}
+{LEFT}
+{LEFT}
+{LEFT}
+{LEFT}
+{LEFT}
+{LEFT}
 {LEFT}
 ```
 

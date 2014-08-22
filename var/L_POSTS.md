@@ -3,7 +3,30 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`index_box`](../tpl/index_box.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme), [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
+{L_POSTS}
 {L_POSTS}
 ```
 

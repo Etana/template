@@ -3,8 +3,14 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.user_logged_in}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN user_logged_in -->
+            contenu sur lequel on boucle
+            <!-- END user_logged_in -->
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in)

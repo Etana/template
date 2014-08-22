@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
-{switch_fb_widget_login.FACEBOOK_APP_ID}
+```smarty
+<!-- BEGIN switch_fb_widget_login -->
+    {switch_fb_widget_login.FACEBOOK_APP_ID}
+    <!-- END switch_fb_widget_login -->
+<!-- BEGIN switch_fb_widget_login -->
+    {switch_fb_widget_login.FACEBOOK_APP_ID}
+    <!-- END switch_fb_widget_login -->
+<!-- BEGIN switch_fb_widget_login -->
+    {switch_fb_widget_login.FACEBOOK_APP_ID}
+    <!-- END switch_fb_widget_login -->
+<!-- BEGIN switch_fb_widget_login -->
+    {switch_fb_widget_login.FACEBOOK_APP_ID}
+    <!-- END switch_fb_widget_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_widget_login.FACEBOOK_APP_ID)

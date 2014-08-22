@@ -3,8 +3,47 @@
 * __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.MESSAGE}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MESSAGE}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MESSAGE}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MESSAGE}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MESSAGE}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MESSAGE}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MESSAGE}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MESSAGE}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MESSAGE}
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.MESSAGE)

@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{GROUP_MEMBER_SELECT_NEW}
+{GROUP_MEMBER_SELECT_NEW}
 {GROUP_MEMBER_SELECT_NEW}
 ```
 

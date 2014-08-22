@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
-{paypal_confirm}
+```smarty
+<!-- BEGIN paypal_confirm -->
+    contenu sur lequel on boucle
+    <!-- END paypal_confirm -->
+<!-- BEGIN paypal_confirm -->
+    contenu sur lequel on boucle
+    <!-- END paypal_confirm -->
+<!-- BEGIN paypal_confirm -->
+    contenu sur lequel on boucle
+    <!-- END paypal_confirm -->
+<!-- BEGIN paypal_confirm -->
+    contenu sur lequel on boucle
+    <!-- END paypal_confirm -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/paypal_confirm)

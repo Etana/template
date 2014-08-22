@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme)
 * __Utilisation :__
 
-```html
-{picrow.POSTER}
+```smarty
+<!-- BEGIN picrow -->
+    {picrow.POSTER}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.POSTER}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.POSTER}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.POSTER}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.POSTER}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.POSTER}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.POSTER}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.POSTER}
+    <!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.POSTER)

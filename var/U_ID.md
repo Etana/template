@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_ID}
+{U_ID}
+{U_ID}
 {U_ID}
 ```
 

@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{TOPIC_REVIEW_BOX}
+{TOPIC_REVIEW_BOX}
+{TOPIC_REVIEW_BOX}
+{TOPIC_REVIEW_BOX}
+{TOPIC_REVIEW_BOX}
+{TOPIC_REVIEW_BOX}
+{TOPIC_REVIEW_BOX}
 {TOPIC_REVIEW_BOX}
 ```
 

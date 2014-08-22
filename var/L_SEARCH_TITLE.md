@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
+{L_SEARCH_TITLE}
 {L_SEARCH_TITLE}
 ```
 

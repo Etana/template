@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_report_popup}
+```smarty
+<!-- BEGIN switch_report_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_report_popup -->
+<!-- BEGIN switch_report_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_report_popup -->
+<!-- BEGIN switch_report_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_report_popup -->
+<!-- BEGIN switch_report_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_report_popup -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup)

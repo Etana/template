@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme), [`rpg_sheet`](../tpl/rpg_sheet.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
+{L_VIEWING_PROFILE}
 {L_VIEWING_PROFILE}
 ```
 

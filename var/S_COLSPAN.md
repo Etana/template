@@ -3,7 +3,8 @@
 * __Utilisable dans :__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_COLSPAN}
 {S_COLSPAN}
 ```
 

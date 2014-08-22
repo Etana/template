@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{google_analytics_code}
+```smarty
+<!-- BEGIN google_analytics_code -->
+    contenu sur lequel on boucle
+    <!-- END google_analytics_code -->
+<!-- BEGIN google_analytics_code -->
+    contenu sur lequel on boucle
+    <!-- END google_analytics_code -->
+<!-- BEGIN google_analytics_code -->
+    contenu sur lequel on boucle
+    <!-- END google_analytics_code -->
+<!-- BEGIN google_analytics_code -->
+    contenu sur lequel on boucle
+    <!-- END google_analytics_code -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/google_analytics_code)

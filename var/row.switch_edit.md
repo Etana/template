@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`report_view_body`](../tpl/report_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{row.switch_edit}
+```smarty
+<!-- BEGIN row -->
+    <!-- BEGIN switch_edit -->
+        contenu sur lequel on boucle
+        <!-- END switch_edit -->
+    <!-- END row -->
+<!-- BEGIN row -->
+    <!-- BEGIN switch_edit -->
+        contenu sur lequel on boucle
+        <!-- END switch_edit -->
+    <!-- END row -->
+<!-- BEGIN row -->
+    <!-- BEGIN switch_edit -->
+        contenu sur lequel on boucle
+        <!-- END switch_edit -->
+    <!-- END row -->
+<!-- BEGIN row -->
+    <!-- BEGIN switch_edit -->
+        contenu sur lequel on boucle
+        <!-- END switch_edit -->
+    <!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.switch_edit)

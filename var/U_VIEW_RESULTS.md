@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`poll_ballot`](../tpl/poll_ballot.md#readme), [`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_VIEW_RESULTS}
+{U_VIEW_RESULTS}
+{U_VIEW_RESULTS}
+{U_VIEW_RESULTS}
+{U_VIEW_RESULTS}
+{U_VIEW_RESULTS}
+{U_VIEW_RESULTS}
 {U_VIEW_RESULTS}
 ```
 

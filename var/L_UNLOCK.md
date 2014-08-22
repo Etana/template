@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
+{L_UNLOCK}
 {L_UNLOCK}
 ```
 

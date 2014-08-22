@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.POSTER_NAME}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.POSTER_NAME}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.POSTER_NAME}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.POSTER_NAME}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.POSTER_NAME}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POSTER_NAME)

@@ -3,8 +3,55 @@
 * __Utilisable dans :__ [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_nuffload_enabled}
+```smarty
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
+<!-- BEGIN switch_nuffload_enabled -->
+    contenu sur lequel on boucle
+    <!-- END switch_nuffload_enabled -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled)

@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_display_menus}
+```smarty
+<!-- BEGIN switch_display_menus -->
+    contenu sur lequel on boucle
+    <!-- END switch_display_menus -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_display_menus)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
-{topicrow.U_VIEW_TOPIC}
+```smarty
+<!-- BEGIN topicrow -->
+    {topicrow.U_VIEW_TOPIC}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.U_VIEW_TOPIC}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.U_VIEW_TOPIC}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.U_VIEW_TOPIC}
+    <!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.U_VIEW_TOPIC)

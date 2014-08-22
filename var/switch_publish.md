@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_publish}
+```smarty
+<!-- BEGIN switch_publish -->
+    contenu sur lequel on boucle
+    <!-- END switch_publish -->
+<!-- BEGIN switch_publish -->
+    contenu sur lequel on boucle
+    <!-- END switch_publish -->
+<!-- BEGIN switch_publish -->
+    contenu sur lequel on boucle
+    <!-- END switch_publish -->
+<!-- BEGIN switch_publish -->
+    contenu sur lequel on boucle
+    <!-- END switch_publish -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_publish)

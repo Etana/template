@@ -3,7 +3,22 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`mod_news`](../tpl/mod_news.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
+{L_COMMENTS}
 {L_COMMENTS}
 ```
 

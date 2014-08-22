@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`mod_keywords`](../tpl/mod_keywords.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_KEYWORDS}
+{L_KEYWORDS}
+{L_KEYWORDS}
 {L_KEYWORDS}
 ```
 

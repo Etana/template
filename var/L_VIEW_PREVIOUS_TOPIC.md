@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_VIEW_PREVIOUS_TOPIC}
+{L_VIEW_PREVIOUS_TOPIC}
+{L_VIEW_PREVIOUS_TOPIC}
+{L_VIEW_PREVIOUS_TOPIC}
+{L_VIEW_PREVIOUS_TOPIC}
 {L_VIEW_PREVIOUS_TOPIC}
 ```
 

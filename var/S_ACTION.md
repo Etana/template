@@ -3,7 +3,25 @@
 * __Utilisable dans :__ [`merge_body`](../tpl/merge_body.md#readme), [`merge_select_body`](../tpl/merge_select_body.md#readme), [`report_list_body`](../tpl/report_list_body.md#readme), [`report_view_body`](../tpl/report_view_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
+{S_ACTION}
 {S_ACTION}
 ```
 

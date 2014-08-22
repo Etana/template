@@ -3,8 +3,25 @@
 * __Utilisable dans :__ [`standard`](../tpl/standard.md#readme)
 * __Utilisation :__
 
-```html
-{table_row}
+```smarty
+<!-- BEGIN table_row -->
+    contenu sur lequel on boucle
+    <!-- END table_row -->
+<!-- BEGIN table_row -->
+    contenu sur lequel on boucle
+    <!-- END table_row -->
+<!-- BEGIN table_row -->
+    contenu sur lequel on boucle
+    <!-- END table_row -->
+<!-- BEGIN table_row -->
+    contenu sur lequel on boucle
+    <!-- END table_row -->
+<!-- BEGIN table_row -->
+    contenu sur lequel on boucle
+    <!-- END table_row -->
+<!-- BEGIN table_row -->
+    contenu sur lequel on boucle
+    <!-- END table_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/table_row)

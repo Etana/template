@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
 * __Utilisation :__
 
-```html
-{giefmod_index2.MODVAR}
+```smarty
+<!-- BEGIN giefmod_index2 -->
+    {giefmod_index2.MODVAR}
+    <!-- END giefmod_index2 -->
+<!-- BEGIN giefmod_index2 -->
+    {giefmod_index2.MODVAR}
+    <!-- END giefmod_index2 -->
+<!-- BEGIN giefmod_index2 -->
+    {giefmod_index2.MODVAR}
+    <!-- END giefmod_index2 -->
+<!-- BEGIN giefmod_index2 -->
+    {giefmod_index2.MODVAR}
+    <!-- END giefmod_index2 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)

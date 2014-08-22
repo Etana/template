@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SOCIAL_BOOKMARKING_EXPLAIN}
+{L_SOCIAL_BOOKMARKING_EXPLAIN}
+{L_SOCIAL_BOOKMARKING_EXPLAIN}
 {L_SOCIAL_BOOKMARKING_EXPLAIN}
 ```
 

@@ -3,8 +3,127 @@
 * __Utilisable dans :__ [`posting_smilies`](../tpl/posting_smilies.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)
 * __Utilisation :__
 
-```html
-{smilies_row.smilies_col.SMILEY_DESC}
+```smarty
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_DESC}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_DESC)

@@ -3,7 +3,66 @@
 * __Utilisable dans :__ [`album_overview_top10`](../tpl/album_overview_top10.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme), [`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme), [`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme), [`mod_top_posters`](../tpl/mod_top_posters.md#readme), [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+{POSTER}
+{POSTER}
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+{POSTER}
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+{POSTER}
+{POSTER}
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+{POSTER}
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+{POSTER}
+{POSTER}
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+{POSTER}
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
+{POSTER}
+{POSTER}
+<!-- BEGIN POSTER -->
+    contenu sur lequel on boucle
+    <!-- END POSTER -->
 {POSTER}
 ```
 

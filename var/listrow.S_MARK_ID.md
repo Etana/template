@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
-{listrow.S_MARK_ID}
+```smarty
+<!-- BEGIN listrow -->
+    {listrow.S_MARK_ID}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.S_MARK_ID}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.S_MARK_ID}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.S_MARK_ID}
+    <!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.S_MARK_ID)

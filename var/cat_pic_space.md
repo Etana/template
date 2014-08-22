@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{cat_pic_space}
+```smarty
+<!-- BEGIN cat_pic_space -->
+    contenu sur lequel on boucle
+    <!-- END cat_pic_space -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cat_pic_space)

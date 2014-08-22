@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme), [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{BY}
+{BY}
+{BY}
+{BY}
+{BY}
+{BY}
+{BY}
+{BY}
+{BY}
+{BY}
+{BY}
 {BY}
 ```
 

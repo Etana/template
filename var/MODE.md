@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {MODE}
 ```
 

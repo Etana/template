@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`mod_poll`](../tpl/mod_poll.md#readme), [`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme), [`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_POLL}
+{L_POLL}
+{L_POLL}
+{L_POLL}
+{L_POLL}
 {L_POLL}
 ```
 

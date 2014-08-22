@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_topic_modif}
+```smarty
+<!-- BEGIN switch_topic_modif -->
+    contenu sur lequel on boucle
+    <!-- END switch_topic_modif -->
+<!-- BEGIN switch_topic_modif -->
+    contenu sur lequel on boucle
+    <!-- END switch_topic_modif -->
+<!-- BEGIN switch_topic_modif -->
+    contenu sur lequel on boucle
+    <!-- END switch_topic_modif -->
+<!-- BEGIN switch_topic_modif -->
+    contenu sur lequel on boucle
+    <!-- END switch_topic_modif -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_topic_modif)

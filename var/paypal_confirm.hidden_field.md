@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
-{paypal_confirm.hidden_field}
+```smarty
+<!-- BEGIN paypal_confirm -->
+    <!-- BEGIN hidden_field -->
+        contenu sur lequel on boucle
+        <!-- END hidden_field -->
+    <!-- END paypal_confirm -->
+<!-- BEGIN paypal_confirm -->
+    <!-- BEGIN hidden_field -->
+        contenu sur lequel on boucle
+        <!-- END hidden_field -->
+    <!-- END paypal_confirm -->
+<!-- BEGIN paypal_confirm -->
+    <!-- BEGIN hidden_field -->
+        contenu sur lequel on boucle
+        <!-- END hidden_field -->
+    <!-- END paypal_confirm -->
+<!-- BEGIN paypal_confirm -->
+    <!-- BEGIN hidden_field -->
+        contenu sur lequel on boucle
+        <!-- END hidden_field -->
+    <!-- END paypal_confirm -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field)

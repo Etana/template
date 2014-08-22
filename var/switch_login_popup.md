@@ -3,8 +3,43 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_login_popup}
+```smarty
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
+<!-- BEGIN switch_login_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_login_popup -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login_popup)

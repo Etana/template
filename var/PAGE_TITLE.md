@@ -3,7 +3,21 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
+{PAGE_TITLE}
 {PAGE_TITLE}
 ```
 

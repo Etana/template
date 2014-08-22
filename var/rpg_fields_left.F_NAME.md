@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`rpg_sheet`](../tpl/rpg_sheet.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
-```html
-{rpg_fields_left.F_NAME}
+```smarty
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_NAME}
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_NAME}
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_NAME}
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_NAME}
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_NAME}
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_NAME}
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_NAME}
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    {rpg_fields_left.F_NAME}
+    <!-- END rpg_fields_left -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields_left.F_NAME)

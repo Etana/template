@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme), [`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)
 * __Utilisation :__
 
-```html
-{IMGS.CLASS}
+```smarty
+<!-- BEGIN IMGS -->
+    {IMGS.CLASS}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.CLASS}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.CLASS}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.CLASS}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.CLASS}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.CLASS}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.CLASS}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.CLASS}
+    <!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.CLASS)

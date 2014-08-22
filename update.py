@@ -198,11 +198,26 @@ for var in variables:
         f.write('\n* __Utilisable dans :__ ')
         f.write(', '.join(['[`'+t+'`](../tpl/'+t+'.md#readme)' for t in sorted(set([key for ver in variables[var].values() for key in ver.keys()]))]))
 
-        #set([u[4] for u in variables[var]]))]))
-        f.write('\n* __Utilisation :__\n\n```html\n')
-
-        # TODO afficher autres types
-        f.write('{' + var + '}\n')
+        f.write('\n* __Utilisation :__\n\n```smarty\n')
+        
+        var_parts = var.split('.')
+        for vtype in types:
+            if 0 == vtype:
+                slug = '{'+var+'}'
+                b_parts = var_parts[:-1]
+            elif 1 == vtype:
+                slug = 'contenu sur lequel on boucle'
+                b_parts = var_parts
+            else:
+                continue
+            i = 0
+            for b_part in b_parts:
+                f.write((i * 4 * ' ') + '<!-- BEGIN '+b_part+' -->\n')
+                i += 1
+            f.write((i*4*' ')+slug +'\n')
+            for b_part in reversed(b_parts):
+                f.write((i * 4 * ' ') + '<!-- END '+b_part+' -->\n')
+                i -= 1
 
         f.write('```\n\n## Description[*](https://fa-tvars.appspot.com/var/'+var+')\n')
         # TODO load description or display add description

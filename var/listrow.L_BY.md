@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
-{listrow.L_BY}
+```smarty
+<!-- BEGIN listrow -->
+    {listrow.L_BY}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.L_BY}
+    <!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.L_BY)

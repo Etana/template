@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_AVATAR_IMG}
+{L_AVATAR_IMG}
 {L_AVATAR_IMG}
 ```
 

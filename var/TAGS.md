@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
-{TAGS}
+```smarty
+<!-- BEGIN TAGS -->
+    contenu sur lequel on boucle
+    <!-- END TAGS -->
+<!-- BEGIN TAGS -->
+    contenu sur lequel on boucle
+    <!-- END TAGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TAGS)

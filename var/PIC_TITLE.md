@@ -3,7 +3,42 @@
 * __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
+{PIC_TITLE}
 {PIC_TITLE}
 ```
 

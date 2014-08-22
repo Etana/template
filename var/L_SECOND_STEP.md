@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SECOND_STEP}
+{L_SECOND_STEP}
+{L_SECOND_STEP}
 {L_SECOND_STEP}
 ```
 

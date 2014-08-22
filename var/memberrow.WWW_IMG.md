@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.WWW_IMG}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.WWW_IMG}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.WWW_IMG}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.WWW_IMG}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.WWW_IMG}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.WWW_IMG)

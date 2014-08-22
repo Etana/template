@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_PROFILE}
+{U_PROFILE}
+{U_PROFILE}
+{U_PROFILE}
 {U_PROFILE}
 ```
 

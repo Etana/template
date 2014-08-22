@@ -3,8 +3,63 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            {postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            {postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            {postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            {postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            {postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            {postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            {postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            {postrow.displayed.switch_vote_active.L_VOTE_TITLE}
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.L_VOTE_TITLE)

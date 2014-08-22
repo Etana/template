@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
-```html
-{rpg_fields.SEPARATOR}
+```smarty
+<!-- BEGIN rpg_fields -->
+    {rpg_fields.SEPARATOR}
+    <!-- END rpg_fields -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields.SEPARATOR)

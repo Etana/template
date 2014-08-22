@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_NUFF_SEPIA}
+{L_NUFF_SEPIA}
+{L_NUFF_SEPIA}
 {L_NUFF_SEPIA}
 ```
 

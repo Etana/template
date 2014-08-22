@@ -3,7 +3,13 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_UPDATE}
+{L_UPDATE}
+{L_UPDATE}
+{L_UPDATE}
+{L_UPDATE}
+{L_UPDATE}
 {L_UPDATE}
 ```
 

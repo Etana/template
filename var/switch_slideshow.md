@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_slideshow}
+```smarty
+<!-- BEGIN switch_slideshow -->
+    contenu sur lequel on boucle
+    <!-- END switch_slideshow -->
+<!-- BEGIN switch_slideshow -->
+    contenu sur lequel on boucle
+    <!-- END switch_slideshow -->
+<!-- BEGIN switch_slideshow -->
+    contenu sur lequel on boucle
+    <!-- END switch_slideshow -->
+<!-- BEGIN switch_slideshow -->
+    contenu sur lequel on boucle
+    <!-- END switch_slideshow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_slideshow)

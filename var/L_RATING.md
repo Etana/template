@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_RATING}
+{L_RATING}
+{L_RATING}
+{L_RATING}
+{L_RATING}
+{L_RATING}
+{L_RATING}
 {L_RATING}
 ```
 

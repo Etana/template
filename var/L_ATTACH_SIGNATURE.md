@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_ATTACH_SIGNATURE}
+{L_ATTACH_SIGNATURE}
+{L_ATTACH_SIGNATURE}
+{L_ATTACH_SIGNATURE}
 {L_ATTACH_SIGNATURE}
 ```
 

@@ -3,7 +3,33 @@
 * __Utilisable dans :__ [`calendar_body`](../tpl/calendar_body.md#readme), [`calendar_box`](../tpl/calendar_box.md#readme), [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme), [`index_body`](../tpl/index_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
+{L_CALENDAR}
 {L_CALENDAR}
 ```
 

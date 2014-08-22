@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_NEW_POSTS}
+{L_NEW_POSTS}
+{L_NEW_POSTS}
+{L_NEW_POSTS}
+{L_NEW_POSTS}
+{L_NEW_POSTS}
+{L_NEW_POSTS}
 {L_NEW_POSTS}
 ```
 

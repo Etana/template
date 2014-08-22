@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_PIC_THUMB}
+{U_PIC_THUMB}
+{U_PIC_THUMB}
 {U_PIC_THUMB}
 ```
 

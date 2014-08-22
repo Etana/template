@@ -3,7 +3,21 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
+{JS_SESSION_ID}
 {JS_SESSION_ID}
 ```
 

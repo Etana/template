@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_no_members}
+```smarty
+<!-- BEGIN switch_no_members -->
+    contenu sur lequel on boucle
+    <!-- END switch_no_members -->
+<!-- BEGIN switch_no_members -->
+    contenu sur lequel on boucle
+    <!-- END switch_no_members -->
+<!-- BEGIN switch_no_members -->
+    contenu sur lequel on boucle
+    <!-- END switch_no_members -->
+<!-- BEGIN switch_no_members -->
+    contenu sur lequel on boucle
+    <!-- END switch_no_members -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_members)

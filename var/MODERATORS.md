@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{MODERATORS}
+{MODERATORS}
+{MODERATORS}
+{MODERATORS}
+{MODERATORS}
+{MODERATORS}
+{MODERATORS}
 {MODERATORS}
 ```
 

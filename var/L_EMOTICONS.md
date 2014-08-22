@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_smilies`](../tpl/posting_smilies.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_EMOTICONS}
+{L_EMOTICONS}
+{L_EMOTICONS}
 {L_EMOTICONS}
 ```
 

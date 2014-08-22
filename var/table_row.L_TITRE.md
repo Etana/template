@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`standard`](../tpl/standard.md#readme)
 * __Utilisation :__
 
-```html
-{table_row.L_TITRE}
+```smarty
+<!-- BEGIN table_row -->
+    {table_row.L_TITRE}
+    <!-- END table_row -->
+<!-- BEGIN table_row -->
+    {table_row.L_TITRE}
+    <!-- END table_row -->
+<!-- BEGIN table_row -->
+    {table_row.L_TITRE}
+    <!-- END table_row -->
+<!-- BEGIN table_row -->
+    {table_row.L_TITRE}
+    <!-- END table_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/table_row.L_TITRE)

@@ -3,7 +3,40 @@
 * __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme), [`jumpbox`](../tpl/jumpbox.md#readme), [`merge_select_body`](../tpl/merge_select_body.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`report_list_body`](../tpl/report_list_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
+{L_GO}
 {L_GO}
 ```
 

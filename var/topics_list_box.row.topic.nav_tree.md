@@ -3,8 +3,25 @@
 * __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{topics_list_box.row.topic.nav_tree}
+```smarty
+<!-- BEGIN topics_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN topic -->
+            <!-- BEGIN nav_tree -->
+                contenu sur lequel on boucle
+                <!-- END nav_tree -->
+            <!-- END topic -->
+        <!-- END row -->
+    <!-- END topics_list_box -->
+<!-- BEGIN topics_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN topic -->
+            <!-- BEGIN nav_tree -->
+                contenu sur lequel on boucle
+                <!-- END nav_tree -->
+            <!-- END topic -->
+        <!-- END row -->
+    <!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.nav_tree)

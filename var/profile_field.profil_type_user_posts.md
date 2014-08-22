@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{profile_field.profil_type_user_posts}
+```smarty
+<!-- BEGIN profile_field -->
+    <!-- BEGIN profil_type_user_posts -->
+        contenu sur lequel on boucle
+        <!-- END profil_type_user_posts -->
+    <!-- END profile_field -->
+<!-- BEGIN profile_field -->
+    <!-- BEGIN profil_type_user_posts -->
+        contenu sur lequel on boucle
+        <!-- END profil_type_user_posts -->
+    <!-- END profile_field -->
+<!-- BEGIN profile_field -->
+    <!-- BEGIN profil_type_user_posts -->
+        contenu sur lequel on boucle
+        <!-- END profil_type_user_posts -->
+    <!-- END profile_field -->
+<!-- BEGIN profile_field -->
+    <!-- BEGIN profil_type_user_posts -->
+        contenu sur lequel on boucle
+        <!-- END profil_type_user_posts -->
+    <!-- END profile_field -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/profile_field.profil_type_user_posts)

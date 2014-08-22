@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
-{switch_login}
+```smarty
+<!-- BEGIN switch_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_login -->
+<!-- BEGIN switch_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_login -->
+<!-- BEGIN switch_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_login -->
+<!-- BEGIN switch_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login)

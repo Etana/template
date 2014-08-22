@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{GENERATED_NAV_BAR}
+{GENERATED_NAV_BAR}
+{GENERATED_NAV_BAR}
 {GENERATED_NAV_BAR}
 ```
 

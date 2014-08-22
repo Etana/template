@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_not_privmsg}
+```smarty
+<!-- BEGIN switch_not_privmsg -->
+    contenu sur lequel on boucle
+    <!-- END switch_not_privmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_not_privmsg)

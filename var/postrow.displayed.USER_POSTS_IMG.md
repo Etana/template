@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.USER_POSTS_IMG}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.USER_POSTS_IMG}
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.USER_POSTS_IMG)

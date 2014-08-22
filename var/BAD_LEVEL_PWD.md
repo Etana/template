@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {BAD_LEVEL_PWD}
 ```
 

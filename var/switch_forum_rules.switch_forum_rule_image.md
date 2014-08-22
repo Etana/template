@@ -3,8 +3,47 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_forum_rules.switch_forum_rule_image}
+```smarty
+<!-- BEGIN switch_forum_rules -->
+    <!-- BEGIN switch_forum_rule_image -->
+        contenu sur lequel on boucle
+        <!-- END switch_forum_rule_image -->
+    <!-- END switch_forum_rules -->
+<!-- BEGIN switch_forum_rules -->
+    <!-- BEGIN switch_forum_rule_image -->
+        contenu sur lequel on boucle
+        <!-- END switch_forum_rule_image -->
+    <!-- END switch_forum_rules -->
+<!-- BEGIN switch_forum_rules -->
+    <!-- BEGIN switch_forum_rule_image -->
+        contenu sur lequel on boucle
+        <!-- END switch_forum_rule_image -->
+    <!-- END switch_forum_rules -->
+<!-- BEGIN switch_forum_rules -->
+    <!-- BEGIN switch_forum_rule_image -->
+        contenu sur lequel on boucle
+        <!-- END switch_forum_rule_image -->
+    <!-- END switch_forum_rules -->
+<!-- BEGIN switch_forum_rules -->
+    <!-- BEGIN switch_forum_rule_image -->
+        contenu sur lequel on boucle
+        <!-- END switch_forum_rule_image -->
+    <!-- END switch_forum_rules -->
+<!-- BEGIN switch_forum_rules -->
+    <!-- BEGIN switch_forum_rule_image -->
+        contenu sur lequel on boucle
+        <!-- END switch_forum_rule_image -->
+    <!-- END switch_forum_rules -->
+<!-- BEGIN switch_forum_rules -->
+    <!-- BEGIN switch_forum_rule_image -->
+        contenu sur lequel on boucle
+        <!-- END switch_forum_rule_image -->
+    <!-- END switch_forum_rules -->
+<!-- BEGIN switch_forum_rules -->
+    <!-- BEGIN switch_forum_rule_image -->
+        contenu sur lequel on boucle
+        <!-- END switch_forum_rule_image -->
+    <!-- END switch_forum_rules -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)

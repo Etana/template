@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_sticky}
+```smarty
+<!-- BEGIN switch_sticky -->
+    contenu sur lequel on boucle
+    <!-- END switch_sticky -->
+<!-- BEGIN switch_sticky -->
+    contenu sur lequel on boucle
+    <!-- END switch_sticky -->
+<!-- BEGIN switch_sticky -->
+    contenu sur lequel on boucle
+    <!-- END switch_sticky -->
+<!-- BEGIN switch_sticky -->
+    contenu sur lequel on boucle
+    <!-- END switch_sticky -->
+<!-- BEGIN switch_sticky -->
+    contenu sur lequel on boucle
+    <!-- END switch_sticky -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_sticky)

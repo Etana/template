@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_LANG_HL}
+{L_LANG_HL}
+{L_LANG_HL}
 {L_LANG_HL}
 ```
 

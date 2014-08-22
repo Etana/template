@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_legend}
+```smarty
+<!-- BEGIN switch_legend -->
+    contenu sur lequel on boucle
+    <!-- END switch_legend -->
+<!-- BEGIN switch_legend -->
+    contenu sur lequel on boucle
+    <!-- END switch_legend -->
+<!-- BEGIN switch_legend -->
+    contenu sur lequel on boucle
+    <!-- END switch_legend -->
+<!-- BEGIN switch_legend -->
+    contenu sur lequel on boucle
+    <!-- END switch_legend -->
+<!-- BEGIN switch_legend -->
+    contenu sur lequel on boucle
+    <!-- END switch_legend -->
+<!-- BEGIN switch_legend -->
+    contenu sur lequel on boucle
+    <!-- END switch_legend -->
+<!-- BEGIN switch_legend -->
+    contenu sur lequel on boucle
+    <!-- END switch_legend -->
+<!-- BEGIN switch_legend -->
+    contenu sur lequel on boucle
+    <!-- END switch_legend -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_legend)

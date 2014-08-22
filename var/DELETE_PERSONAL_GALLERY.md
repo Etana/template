@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{DELETE_PERSONAL_GALLERY}
+{DELETE_PERSONAL_GALLERY}
+{DELETE_PERSONAL_GALLERY}
 {DELETE_PERSONAL_GALLERY}
 ```
 

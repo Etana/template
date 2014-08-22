@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_confirm_password_new}
+```smarty
+<!-- BEGIN switch_confirm_password_new -->
+    contenu sur lequel on boucle
+    <!-- END switch_confirm_password_new -->
+<!-- BEGIN switch_confirm_password_new -->
+    contenu sur lequel on boucle
+    <!-- END switch_confirm_password_new -->
+<!-- BEGIN switch_confirm_password_new -->
+    contenu sur lequel on boucle
+    <!-- END switch_confirm_password_new -->
+<!-- BEGIN switch_confirm_password_new -->
+    contenu sur lequel on boucle
+    <!-- END switch_confirm_password_new -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_confirm_password_new)

@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PIC_DESC}
+{PIC_DESC}
+{PIC_DESC}
+{PIC_DESC}
+{PIC_DESC}
+{PIC_DESC}
+{PIC_DESC}
 {PIC_DESC}
 ```
 

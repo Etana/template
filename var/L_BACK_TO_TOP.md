@@ -3,7 +3,30 @@
 * __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme), [`faq_body`](../tpl/faq_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
+{L_BACK_TO_TOP}
 {L_BACK_TO_TOP}
 ```
 

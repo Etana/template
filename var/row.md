@@ -3,8 +3,43 @@
 * __Utilisable dans :__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme), [`report_list_body`](../tpl/report_list_body.md#readme), [`report_view_body`](../tpl/report_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{row}
+```smarty
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
+<!-- BEGIN row -->
+    contenu sur lequel on boucle
+    <!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row)

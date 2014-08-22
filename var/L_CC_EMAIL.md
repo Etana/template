@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_send_email`](../tpl/profile_send_email.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_CC_EMAIL}
+{L_CC_EMAIL}
+{L_CC_EMAIL}
 {L_CC_EMAIL}
 ```
 

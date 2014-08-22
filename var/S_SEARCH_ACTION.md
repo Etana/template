@@ -3,7 +3,17 @@
 * __Utilisable dans :__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_username`](../tpl/search_username.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
+{S_SEARCH_ACTION}
 {S_SEARCH_ACTION}
 ```
 

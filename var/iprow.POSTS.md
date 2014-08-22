@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
-{iprow.POSTS}
+```smarty
+<!-- BEGIN iprow -->
+    {iprow.POSTS}
+    <!-- END iprow -->
+<!-- BEGIN iprow -->
+    {iprow.POSTS}
+    <!-- END iprow -->
+<!-- BEGIN iprow -->
+    {iprow.POSTS}
+    <!-- END iprow -->
+<!-- BEGIN iprow -->
+    {iprow.POSTS}
+    <!-- END iprow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/iprow.POSTS)

@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{FOLDER_CALENDAR_IMG}
+{FOLDER_CALENDAR_IMG}
 {FOLDER_CALENDAR_IMG}
 ```
 

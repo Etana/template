@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow.forumrow.INC_SPAN}
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        {catrow.forumrow.INC_SPAN}
+        <!-- END forumrow -->
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_SPAN)

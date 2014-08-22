@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
-```html
-{pending_members_row.ROW_CLASS}
+```smarty
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    {pending_members_row.ROW_CLASS}
+    <!-- END pending_members_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.ROW_CLASS)

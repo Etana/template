@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.L_BY}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.L_BY}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.L_BY}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.L_BY}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.L_BY}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.L_BY)

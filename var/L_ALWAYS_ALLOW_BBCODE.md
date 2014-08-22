@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_ALWAYS_ALLOW_BBCODE}
+{L_ALWAYS_ALLOW_BBCODE}
+{L_ALWAYS_ALLOW_BBCODE}
 {L_ALWAYS_ALLOW_BBCODE}
 ```
 

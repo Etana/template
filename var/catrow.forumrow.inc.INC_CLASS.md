@@ -3,8 +3,14 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow.forumrow.inc.INC_CLASS}
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        <!-- BEGIN inc -->
+            {catrow.forumrow.inc.INC_CLASS}
+            <!-- END inc -->
+        <!-- END forumrow -->
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc.INC_CLASS)

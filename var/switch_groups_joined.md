@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_groups_joined}
+```smarty
+<!-- BEGIN switch_groups_joined -->
+    contenu sur lequel on boucle
+    <!-- END switch_groups_joined -->
+<!-- BEGIN switch_groups_joined -->
+    contenu sur lequel on boucle
+    <!-- END switch_groups_joined -->
+<!-- BEGIN switch_groups_joined -->
+    contenu sur lequel on boucle
+    <!-- END switch_groups_joined -->
+<!-- BEGIN switch_groups_joined -->
+    contenu sur lequel on boucle
+    <!-- END switch_groups_joined -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groups_joined)

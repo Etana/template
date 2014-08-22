@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{no_personal_galleries.L_INFOS}
+```smarty
+<!-- BEGIN no_personal_galleries -->
+    {no_personal_galleries.L_INFOS}
+    <!-- END no_personal_galleries -->
+<!-- BEGIN no_personal_galleries -->
+    {no_personal_galleries.L_INFOS}
+    <!-- END no_personal_galleries -->
+<!-- BEGIN no_personal_galleries -->
+    {no_personal_galleries.L_INFOS}
+    <!-- END no_personal_galleries -->
+<!-- BEGIN no_personal_galleries -->
+    {no_personal_galleries.L_INFOS}
+    <!-- END no_personal_galleries -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_personal_galleries.L_INFOS)

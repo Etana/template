@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`album_search_body`](../tpl/album_search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
+{L_SEARCH_MATCHES}
 {L_SEARCH_MATCHES}
 ```
 

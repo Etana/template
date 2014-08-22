@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_exif_enabled.exif_switch}
+```smarty
+<!-- BEGIN switch_exif_enabled -->
+    <!-- BEGIN exif_switch -->
+        contenu sur lequel on boucle
+        <!-- END exif_switch -->
+    <!-- END switch_exif_enabled -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)

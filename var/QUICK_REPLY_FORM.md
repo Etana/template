@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{QUICK_REPLY_FORM}
+{QUICK_REPLY_FORM}
+{QUICK_REPLY_FORM}
 {QUICK_REPLY_FORM}
 ```
 

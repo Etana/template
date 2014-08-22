@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{IP2}
+{IP2}
+{IP2}
 {IP2}
 ```
 

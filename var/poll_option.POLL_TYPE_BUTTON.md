@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`poll_ballot`](../tpl/poll_ballot.md#readme), [`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme)
 * __Utilisation :__
 
-```html
-{poll_option.POLL_TYPE_BUTTON}
+```smarty
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_TYPE_BUTTON}
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_TYPE_BUTTON}
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_TYPE_BUTTON}
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_TYPE_BUTTON}
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_TYPE_BUTTON}
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_TYPE_BUTTON}
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_TYPE_BUTTON}
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    {poll_option.POLL_TYPE_BUTTON}
+    <!-- END poll_option -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option.POLL_TYPE_BUTTON)

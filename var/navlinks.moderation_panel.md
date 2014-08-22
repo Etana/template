@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{navlinks.moderation_panel}
+```smarty
+<!-- BEGIN navlinks -->
+    <!-- BEGIN moderation_panel -->
+        contenu sur lequel on boucle
+        <!-- END moderation_panel -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN moderation_panel -->
+        contenu sur lequel on boucle
+        <!-- END moderation_panel -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN moderation_panel -->
+        contenu sur lequel on boucle
+        <!-- END moderation_panel -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN moderation_panel -->
+        contenu sur lequel on boucle
+        <!-- END moderation_panel -->
+    <!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel)

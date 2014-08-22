@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
-{giefmod2.saut}
+```smarty
+<!-- BEGIN giefmod2 -->
+    <!-- BEGIN saut -->
+        contenu sur lequel on boucle
+        <!-- END saut -->
+    <!-- END giefmod2 -->
+<!-- BEGIN giefmod2 -->
+    <!-- BEGIN saut -->
+        contenu sur lequel on boucle
+        <!-- END saut -->
+    <!-- END giefmod2 -->
+<!-- BEGIN giefmod2 -->
+    <!-- BEGIN saut -->
+        contenu sur lequel on boucle
+        <!-- END saut -->
+    <!-- END giefmod2 -->
+<!-- BEGIN giefmod2 -->
+    <!-- BEGIN saut -->
+        contenu sur lequel on boucle
+        <!-- END saut -->
+    <!-- END giefmod2 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod2.saut)

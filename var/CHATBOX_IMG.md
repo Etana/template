@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {CHATBOX_IMG}
 ```
 

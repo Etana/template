@@ -3,7 +3,35 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`merge_select_body`](../tpl/merge_select_body.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme), [`search_username`](../tpl/search_username.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
+{L_SELECT}
 {L_SELECT}
 ```
 

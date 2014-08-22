@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PM_IMG}
+{PM_IMG}
+{PM_IMG}
+{PM_IMG}
 {PM_IMG}
 ```
 

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
 * __Utilisation :__
 
-```html
-{switch_facebook_login.FACEBOOK_APP_ID}
+```smarty
+<!-- BEGIN switch_facebook_login -->
+    {switch_facebook_login.FACEBOOK_APP_ID}
+    <!-- END switch_facebook_login -->
+<!-- BEGIN switch_facebook_login -->
+    {switch_facebook_login.FACEBOOK_APP_ID}
+    <!-- END switch_facebook_login -->
+<!-- BEGIN switch_facebook_login -->
+    {switch_facebook_login.FACEBOOK_APP_ID}
+    <!-- END switch_facebook_login -->
+<!-- BEGIN switch_facebook_login -->
+    {switch_facebook_login.FACEBOOK_APP_ID}
+    <!-- END switch_facebook_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_facebook_login.FACEBOOK_APP_ID)

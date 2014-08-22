@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SITENAME_TITLE}
+{SITENAME_TITLE}
+{SITENAME_TITLE}
+{SITENAME_TITLE}
+{SITENAME_TITLE}
+{SITENAME_TITLE}
+{SITENAME_TITLE}
 {SITENAME_TITLE}
 ```
 

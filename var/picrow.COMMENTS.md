@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme)
 * __Utilisation :__
 
-```html
-{picrow.COMMENTS}
+```smarty
+<!-- BEGIN picrow -->
+    {picrow.COMMENTS}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.COMMENTS}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.COMMENTS}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.COMMENTS}
+    <!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.COMMENTS)

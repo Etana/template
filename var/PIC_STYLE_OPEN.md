@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PIC_STYLE_OPEN}
+{PIC_STYLE_OPEN}
+{PIC_STYLE_OPEN}
 {PIC_STYLE_OPEN}
 ```
 

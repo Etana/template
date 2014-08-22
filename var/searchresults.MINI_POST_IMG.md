@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.MINI_POST_IMG}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.MINI_POST_IMG}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.MINI_POST_IMG)

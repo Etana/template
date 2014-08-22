@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_SLIDESHOW_REFRESH}
+{U_SLIDESHOW_REFRESH}
+{U_SLIDESHOW_REFRESH}
 {U_SLIDESHOW_REFRESH}
 ```
 

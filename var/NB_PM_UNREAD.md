@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{NB_PM_UNREAD}
+{NB_PM_UNREAD}
+{NB_PM_UNREAD}
+{NB_PM_UNREAD}
 {NB_PM_UNREAD}
 ```
 

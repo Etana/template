@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_plus_menu}
+```smarty
+<!-- BEGIN switch_plus_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_plus_menu -->
+<!-- BEGIN switch_plus_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_plus_menu -->
+<!-- BEGIN switch_plus_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_plus_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_plus_menu)

@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {S_FORM_ACTIVE_ACTION}
 ```
 

@@ -3,7 +3,13 @@
 * __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MARK_TOPICS_READ}
+{L_MARK_TOPICS_READ}
+{L_MARK_TOPICS_READ}
+{L_MARK_TOPICS_READ}
+{L_MARK_TOPICS_READ}
+{L_MARK_TOPICS_READ}
 {L_MARK_TOPICS_READ}
 ```
 

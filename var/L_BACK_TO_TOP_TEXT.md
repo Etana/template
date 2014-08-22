@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_BACK_TO_TOP_TEXT}
+{L_BACK_TO_TOP_TEXT}
 {L_BACK_TO_TOP_TEXT}
 ```
 

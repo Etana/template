@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_roll_dice.L_DICE_ROLLS}
+```smarty
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.L_DICE_ROLLS}
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.L_DICE_ROLLS}
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.L_DICE_ROLLS}
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.L_DICE_ROLLS}
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.L_DICE_ROLLS}
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.L_DICE_ROLLS}
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.L_DICE_ROLLS}
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    {switch_roll_dice.L_DICE_ROLLS}
+    <!-- END switch_roll_dice -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice.L_DICE_ROLLS)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
-{userrow.USERNAME}
+```smarty
+<!-- BEGIN userrow -->
+    {userrow.USERNAME}
+    <!-- END userrow -->
+<!-- BEGIN userrow -->
+    {userrow.USERNAME}
+    <!-- END userrow -->
+<!-- BEGIN userrow -->
+    {userrow.USERNAME}
+    <!-- END userrow -->
+<!-- BEGIN userrow -->
+    {userrow.USERNAME}
+    <!-- END userrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow.USERNAME)

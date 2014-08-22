@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{POST_ICON_TITLE}
+{POST_ICON_TITLE}
+{POST_ICON_TITLE}
 {POST_ICON_TITLE}
 ```
 

@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.L_TOPIC_ON}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.L_TOPIC_ON}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.L_TOPIC_ON)

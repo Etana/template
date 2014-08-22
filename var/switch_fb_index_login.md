@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_fb_index_login}
+```smarty
+<!-- BEGIN switch_fb_index_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_index_login -->
+<!-- BEGIN switch_fb_index_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_index_login -->
+<!-- BEGIN switch_fb_index_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_index_login -->
+<!-- BEGIN switch_fb_index_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_index_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_index_login)

@@ -3,7 +3,16 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_VIEWONLINE}
+{U_VIEWONLINE}
+{U_VIEWONLINE}
+{U_VIEWONLINE}
+{U_VIEWONLINE}
+{U_VIEWONLINE}
+{U_VIEWONLINE}
+{U_VIEWONLINE}
+{U_VIEWONLINE}
 {U_VIEWONLINE}
 ```
 

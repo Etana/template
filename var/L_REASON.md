@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`report_list_body`](../tpl/report_list_body.md#readme), [`report_view_body`](../tpl/report_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_REASON}
+{L_REASON}
+{L_REASON}
+{L_REASON}
+{L_REASON}
+{L_REASON}
+{L_REASON}
+{L_REASON}
+{L_REASON}
+{L_REASON}
+{L_REASON}
 {L_REASON}
 ```
 

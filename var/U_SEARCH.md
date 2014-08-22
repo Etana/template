@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`mod_search`](../tpl/mod_search.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_SEARCH}
+{U_SEARCH}
+{U_SEARCH}
+{U_SEARCH}
+{U_SEARCH}
+{U_SEARCH}
+{U_SEARCH}
 {U_SEARCH}
 ```
 

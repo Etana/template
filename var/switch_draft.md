@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_draft}
+```smarty
+<!-- BEGIN switch_draft -->
+    contenu sur lequel on boucle
+    <!-- END switch_draft -->
+<!-- BEGIN switch_draft -->
+    contenu sur lequel on boucle
+    <!-- END switch_draft -->
+<!-- BEGIN switch_draft -->
+    contenu sur lequel on boucle
+    <!-- END switch_draft -->
+<!-- BEGIN switch_draft -->
+    contenu sur lequel on boucle
+    <!-- END switch_draft -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_draft)

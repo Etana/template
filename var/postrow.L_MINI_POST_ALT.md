@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.L_MINI_POST_ALT}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.L_MINI_POST_ALT}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.L_MINI_POST_ALT)

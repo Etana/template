@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_username_select}
+```smarty
+<!-- BEGIN switch_username_select -->
+    contenu sur lequel on boucle
+    <!-- END switch_username_select -->
+<!-- BEGIN switch_username_select -->
+    contenu sur lequel on boucle
+    <!-- END switch_username_select -->
+<!-- BEGIN switch_username_select -->
+    contenu sur lequel on boucle
+    <!-- END switch_username_select -->
+<!-- BEGIN switch_username_select -->
+    contenu sur lequel on boucle
+    <!-- END switch_username_select -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_username_select)

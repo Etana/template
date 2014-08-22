@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)
 * __Utilisation :__
 
-```html
-{save_action}
+```smarty
+<!-- BEGIN save_action -->
+    contenu sur lequel on boucle
+    <!-- END save_action -->
+<!-- BEGIN save_action -->
+    contenu sur lequel on boucle
+    <!-- END save_action -->
+<!-- BEGIN save_action -->
+    contenu sur lequel on boucle
+    <!-- END save_action -->
+<!-- BEGIN save_action -->
+    contenu sur lequel on boucle
+    <!-- END save_action -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/save_action)

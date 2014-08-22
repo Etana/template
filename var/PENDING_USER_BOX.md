@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PENDING_USER_BOX}
+{PENDING_USER_BOX}
+{PENDING_USER_BOX}
 {PENDING_USER_BOX}
 ```
 

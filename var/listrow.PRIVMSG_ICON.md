@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
-{listrow.PRIVMSG_ICON}
+```smarty
+<!-- BEGIN listrow -->
+    {listrow.PRIVMSG_ICON}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.PRIVMSG_ICON}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.PRIVMSG_ICON}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.PRIVMSG_ICON}
+    <!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.PRIVMSG_ICON)

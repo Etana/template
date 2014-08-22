@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`confirm_body`](../tpl/confirm_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {OPTIONAL_BAN}
 ```
 

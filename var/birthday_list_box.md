@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{birthday_list_box}
+```smarty
+<!-- BEGIN birthday_list_box -->
+    contenu sur lequel on boucle
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    contenu sur lequel on boucle
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    contenu sur lequel on boucle
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    contenu sur lequel on boucle
+    <!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box)

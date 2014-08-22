@@ -3,7 +3,17 @@
 * __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
+{L_FAQ_TITLE}
 {L_FAQ_TITLE}
 ```
 

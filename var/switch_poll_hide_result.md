@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_poll_hide_result}
+```smarty
+<!-- BEGIN switch_poll_hide_result -->
+    contenu sur lequel on boucle
+    <!-- END switch_poll_hide_result -->
+<!-- BEGIN switch_poll_hide_result -->
+    contenu sur lequel on boucle
+    <!-- END switch_poll_hide_result -->
+<!-- BEGIN switch_poll_hide_result -->
+    contenu sur lequel on boucle
+    <!-- END switch_poll_hide_result -->
+<!-- BEGIN switch_poll_hide_result -->
+    contenu sur lequel on boucle
+    <!-- END switch_poll_hide_result -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_poll_hide_result)

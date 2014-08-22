@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme), [`report_view_body`](../tpl/report_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
+{U_REPORT_ARCHIVE}
 {U_REPORT_ARCHIVE}
 ```
 

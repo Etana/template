@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
 * __Utilisation :__
 
-```html
-{row.cell.CLASS_NEW}
+```smarty
+<!-- BEGIN row -->
+    <!-- BEGIN cell -->
+        {row.cell.CLASS_NEW}
+        <!-- END cell -->
+    <!-- END row -->
+<!-- BEGIN row -->
+    <!-- BEGIN cell -->
+        {row.cell.CLASS_NEW}
+        <!-- END cell -->
+    <!-- END row -->
+<!-- BEGIN row -->
+    <!-- BEGIN cell -->
+        {row.cell.CLASS_NEW}
+        <!-- END cell -->
+    <!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.cell.CLASS_NEW)

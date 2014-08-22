@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`rpg_sheet`](../tpl/rpg_sheet.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {L_ROLEPLAY_MANAGE_TITLE}
 ```
 

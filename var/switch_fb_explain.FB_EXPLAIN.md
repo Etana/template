@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
 * __Utilisation :__
 
-```html
-{switch_fb_explain.FB_EXPLAIN}
+```smarty
+<!-- BEGIN switch_fb_explain -->
+    {switch_fb_explain.FB_EXPLAIN}
+    <!-- END switch_fb_explain -->
+<!-- BEGIN switch_fb_explain -->
+    {switch_fb_explain.FB_EXPLAIN}
+    <!-- END switch_fb_explain -->
+<!-- BEGIN switch_fb_explain -->
+    {switch_fb_explain.FB_EXPLAIN}
+    <!-- END switch_fb_explain -->
+<!-- BEGIN switch_fb_explain -->
+    {switch_fb_explain.FB_EXPLAIN}
+    <!-- END switch_fb_explain -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_explain.FB_EXPLAIN)

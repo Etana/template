@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{IMG_ROTATE}
+{IMG_ROTATE}
+{IMG_ROTATE}
 {IMG_ROTATE}
 ```
 

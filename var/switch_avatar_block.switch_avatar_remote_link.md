@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_avatar_block.switch_avatar_remote_link}
+```smarty
+<!-- BEGIN switch_avatar_block -->
+    <!-- BEGIN switch_avatar_remote_link -->
+        contenu sur lequel on boucle
+        <!-- END switch_avatar_remote_link -->
+    <!-- END switch_avatar_block -->
+<!-- BEGIN switch_avatar_block -->
+    <!-- BEGIN switch_avatar_remote_link -->
+        contenu sur lequel on boucle
+        <!-- END switch_avatar_remote_link -->
+    <!-- END switch_avatar_block -->
+<!-- BEGIN switch_avatar_block -->
+    <!-- BEGIN switch_avatar_remote_link -->
+        contenu sur lequel on boucle
+        <!-- END switch_avatar_remote_link -->
+    <!-- END switch_avatar_block -->
+<!-- BEGIN switch_avatar_block -->
+    <!-- BEGIN switch_avatar_remote_link -->
+        contenu sur lequel on boucle
+        <!-- END switch_avatar_remote_link -->
+    <!-- END switch_avatar_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_link)

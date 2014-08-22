@@ -3,7 +3,22 @@
 * __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
+{L_POLL_OPTION}
 {L_POLL_OPTION}
 ```
 

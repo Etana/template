@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_UPLOAD_NO_TITLE}
+{L_UPLOAD_NO_TITLE}
+{L_UPLOAD_NO_TITLE}
+{L_UPLOAD_NO_TITLE}
+{L_UPLOAD_NO_TITLE}
+{L_UPLOAD_NO_TITLE}
+{L_UPLOAD_NO_TITLE}
 {L_UPLOAD_NO_TITLE}
 ```
 

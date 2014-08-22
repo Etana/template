@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.L_TOPIC_BY}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.L_TOPIC_BY}
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.L_TOPIC_BY)

@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
 * __Utilisation :__
 
-```html
-{stat_link.L_TOP10_LINK}
+```smarty
+<!-- BEGIN stat_link -->
+    {stat_link.L_TOP10_LINK}
+    <!-- END stat_link -->
+<!-- BEGIN stat_link -->
+    {stat_link.L_TOP10_LINK}
+    <!-- END stat_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/stat_link.L_TOP10_LINK)

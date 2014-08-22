@@ -3,7 +3,8 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_BBCODE_GUIDE}
 {L_BBCODE_GUIDE}
 ```
 

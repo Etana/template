@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_preferences_menu.switch_notify_subscriptions}
+```smarty
+<!-- BEGIN switch_preferences_menu -->
+    <!-- BEGIN switch_notify_subscriptions -->
+        contenu sur lequel on boucle
+        <!-- END switch_notify_subscriptions -->
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    <!-- BEGIN switch_notify_subscriptions -->
+        contenu sur lequel on boucle
+        <!-- END switch_notify_subscriptions -->
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    <!-- BEGIN switch_notify_subscriptions -->
+        contenu sur lequel on boucle
+        <!-- END switch_notify_subscriptions -->
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    <!-- BEGIN switch_notify_subscriptions -->
+        contenu sur lequel on boucle
+        <!-- END switch_notify_subscriptions -->
+    <!-- END switch_preferences_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_notify_subscriptions)

@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{navmenu}
+```smarty
+<!-- BEGIN navmenu -->
+    contenu sur lequel on boucle
+    <!-- END navmenu -->
+<!-- BEGIN navmenu -->
+    contenu sur lequel on boucle
+    <!-- END navmenu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navmenu)

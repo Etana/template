@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MOST_ACTIVE_STARTERS}
+{L_MOST_ACTIVE_STARTERS}
+{L_MOST_ACTIVE_STARTERS}
+{L_MOST_ACTIVE_STARTERS}
+{L_MOST_ACTIVE_STARTERS}
+{L_MOST_ACTIVE_STARTERS}
+{L_MOST_ACTIVE_STARTERS}
 {L_MOST_ACTIVE_STARTERS}
 ```
 

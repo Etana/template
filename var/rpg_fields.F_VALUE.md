@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`rpg_sheet`](../tpl/rpg_sheet.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
-```html
-{rpg_fields.F_VALUE}
+```smarty
+<!-- BEGIN rpg_fields -->
+    {rpg_fields.F_VALUE}
+    <!-- END rpg_fields -->
+<!-- BEGIN rpg_fields -->
+    {rpg_fields.F_VALUE}
+    <!-- END rpg_fields -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields.F_VALUE)

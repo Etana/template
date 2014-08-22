@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`posting_preview`](../tpl/posting_preview.md#readme), [`privmsgs_preview`](../tpl/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{POST_SUBJECT}
+{POST_SUBJECT}
+{POST_SUBJECT}
+{POST_SUBJECT}
+{POST_SUBJECT}
+{POST_SUBJECT}
+{POST_SUBJECT}
 {POST_SUBJECT}
 ```
 

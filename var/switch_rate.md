@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_overview_top10`](../tpl/album_overview_top10.md#readme)
 * __Utilisation :__
 
-```html
-{switch_rate}
+```smarty
+<!-- BEGIN switch_rate -->
+    contenu sur lequel on boucle
+    <!-- END switch_rate -->
+<!-- BEGIN switch_rate -->
+    contenu sur lequel on boucle
+    <!-- END switch_rate -->
+<!-- BEGIN switch_rate -->
+    contenu sur lequel on boucle
+    <!-- END switch_rate -->
+<!-- BEGIN switch_rate -->
+    contenu sur lequel on boucle
+    <!-- END switch_rate -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rate)

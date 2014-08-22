@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
-{pics_nav.next.U_PICS_THUMB}
+```smarty
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN next -->
+        {pics_nav.next.U_PICS_THUMB}
+        <!-- END next -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN next -->
+        {pics_nav.next.U_PICS_THUMB}
+        <!-- END next -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN next -->
+        {pics_nav.next.U_PICS_THUMB}
+        <!-- END next -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN next -->
+        {pics_nav.next.U_PICS_THUMB}
+        <!-- END next -->
+    <!-- END pics_nav -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav.next.U_PICS_THUMB)

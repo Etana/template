@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{list_pics_block.sort_pics}
+```smarty
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN sort_pics -->
+        contenu sur lequel on boucle
+        <!-- END sort_pics -->
+    <!-- END list_pics_block -->
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN sort_pics -->
+        contenu sur lequel on boucle
+        <!-- END sort_pics -->
+    <!-- END list_pics_block -->
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN sort_pics -->
+        contenu sur lequel on boucle
+        <!-- END sort_pics -->
+    <!-- END list_pics_block -->
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN sort_pics -->
+        contenu sur lequel on boucle
+        <!-- END sort_pics -->
+    <!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics)

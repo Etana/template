@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{contact_field}
+```smarty
+<!-- BEGIN contact_field -->
+    contenu sur lequel on boucle
+    <!-- END contact_field -->
+<!-- BEGIN contact_field -->
+    contenu sur lequel on boucle
+    <!-- END contact_field -->
+<!-- BEGIN contact_field -->
+    contenu sur lequel on boucle
+    <!-- END contact_field -->
+<!-- BEGIN contact_field -->
+    contenu sur lequel on boucle
+    <!-- END contact_field -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/contact_field)

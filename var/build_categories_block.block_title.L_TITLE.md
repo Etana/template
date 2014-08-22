@@ -3,8 +3,32 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
-{build_categories_block.block_title.L_TITLE}
+```smarty
+<!-- BEGIN build_categories_block -->
+    <!-- BEGIN block_title -->
+        {build_categories_block.block_title.L_TITLE}
+        <!-- END block_title -->
+    <!-- END build_categories_block -->
+<!-- BEGIN build_categories_block -->
+    <!-- BEGIN block_title -->
+        {build_categories_block.block_title.L_TITLE}
+        <!-- END block_title -->
+    <!-- END build_categories_block -->
+<!-- BEGIN build_categories_block -->
+    <!-- BEGIN block_title -->
+        {build_categories_block.block_title.L_TITLE}
+        <!-- END block_title -->
+    <!-- END build_categories_block -->
+<!-- BEGIN build_categories_block -->
+    <!-- BEGIN block_title -->
+        {build_categories_block.block_title.L_TITLE}
+        <!-- END block_title -->
+    <!-- END build_categories_block -->
+<!-- BEGIN build_categories_block -->
+    <!-- BEGIN block_title -->
+        {build_categories_block.block_title.L_TITLE}
+        <!-- END block_title -->
+    <!-- END build_categories_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.block_title.L_TITLE)

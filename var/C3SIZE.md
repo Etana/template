@@ -3,7 +3,13 @@
 * __Utilisable dans :__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{C3SIZE}
+{C3SIZE}
+{C3SIZE}
+{C3SIZE}
+{C3SIZE}
+{C3SIZE}
 {C3SIZE}
 ```
 

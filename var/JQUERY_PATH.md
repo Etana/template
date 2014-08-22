@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
+{JQUERY_PATH}
 {JQUERY_PATH}
 ```
 

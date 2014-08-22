@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {L_CLOSE_POLL_FORM}
 ```
 

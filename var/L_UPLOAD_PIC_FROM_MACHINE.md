@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_UPLOAD_PIC_FROM_MACHINE}
+{L_UPLOAD_PIC_FROM_MACHINE}
+{L_UPLOAD_PIC_FROM_MACHINE}
+{L_UPLOAD_PIC_FROM_MACHINE}
+{L_UPLOAD_PIC_FROM_MACHINE}
+{L_UPLOAD_PIC_FROM_MACHINE}
+{L_UPLOAD_PIC_FROM_MACHINE}
 {L_UPLOAD_PIC_FROM_MACHINE}
 ```
 

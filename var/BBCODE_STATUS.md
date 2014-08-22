@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{BBCODE_STATUS}
+{BBCODE_STATUS}
+{BBCODE_STATUS}
+{BBCODE_STATUS}
+{BBCODE_STATUS}
 {BBCODE_STATUS}
 ```
 

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{message_admin_index}
+```smarty
+<!-- BEGIN message_admin_index -->
+    contenu sur lequel on boucle
+    <!-- END message_admin_index -->
+<!-- BEGIN message_admin_index -->
+    contenu sur lequel on boucle
+    <!-- END message_admin_index -->
+<!-- BEGIN message_admin_index -->
+    contenu sur lequel on boucle
+    <!-- END message_admin_index -->
+<!-- BEGIN message_admin_index -->
+    contenu sur lequel on boucle
+    <!-- END message_admin_index -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index)

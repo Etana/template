@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
 * __Utilisation :__
 
-```html
-{switch_footer_links.footer_link}
+```smarty
+<!-- BEGIN switch_footer_links -->
+    <!-- BEGIN footer_link -->
+        contenu sur lequel on boucle
+        <!-- END footer_link -->
+    <!-- END switch_footer_links -->
+<!-- BEGIN switch_footer_links -->
+    <!-- BEGIN footer_link -->
+        contenu sur lequel on boucle
+        <!-- END footer_link -->
+    <!-- END switch_footer_links -->
+<!-- BEGIN switch_footer_links -->
+    <!-- BEGIN footer_link -->
+        contenu sur lequel on boucle
+        <!-- END footer_link -->
+    <!-- END switch_footer_links -->
+<!-- BEGIN switch_footer_links -->
+    <!-- BEGIN footer_link -->
+        contenu sur lequel on boucle
+        <!-- END footer_link -->
+    <!-- END switch_footer_links -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)

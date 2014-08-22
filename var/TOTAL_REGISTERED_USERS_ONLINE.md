@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{TOTAL_REGISTERED_USERS_ONLINE}
+{TOTAL_REGISTERED_USERS_ONLINE}
+{TOTAL_REGISTERED_USERS_ONLINE}
 {TOTAL_REGISTERED_USERS_ONLINE}
 ```
 

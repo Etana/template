@@ -3,8 +3,43 @@
 * __Utilisable dans :__ [`posting_smilies`](../tpl/posting_smilies.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)
 * __Utilisation :__
 
-```html
-{smilies_row}
+```smarty
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/smilies_row)

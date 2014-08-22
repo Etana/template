@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme)
 * __Utilisation :__
 
-```html
-{faq_block}
+```smarty
+<!-- BEGIN faq_block -->
+    contenu sur lequel on boucle
+    <!-- END faq_block -->
+<!-- BEGIN faq_block -->
+    contenu sur lequel on boucle
+    <!-- END faq_block -->
+<!-- BEGIN faq_block -->
+    contenu sur lequel on boucle
+    <!-- END faq_block -->
+<!-- BEGIN faq_block -->
+    contenu sur lequel on boucle
+    <!-- END faq_block -->
+<!-- BEGIN faq_block -->
+    contenu sur lequel on boucle
+    <!-- END faq_block -->
+<!-- BEGIN faq_block -->
+    contenu sur lequel on boucle
+    <!-- END faq_block -->
+<!-- BEGIN faq_block -->
+    contenu sur lequel on boucle
+    <!-- END faq_block -->
+<!-- BEGIN faq_block -->
+    contenu sur lequel on boucle
+    <!-- END faq_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block)

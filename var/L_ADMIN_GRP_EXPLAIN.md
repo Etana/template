@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_ADMIN_GRP_EXPLAIN}
+{L_ADMIN_GRP_EXPLAIN}
+{L_ADMIN_GRP_EXPLAIN}
 {L_ADMIN_GRP_EXPLAIN}
 ```
 

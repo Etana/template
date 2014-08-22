@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_RETURN_PROFILE}
+{L_RETURN_PROFILE}
+{L_RETURN_PROFILE}
+{L_RETURN_PROFILE}
+{L_RETURN_PROFILE}
 {L_RETURN_PROFILE}
 ```
 

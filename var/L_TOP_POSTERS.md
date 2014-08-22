@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`mod_top_posters`](../tpl/mod_top_posters.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TOP_POSTERS}
+{L_TOP_POSTERS}
+{L_TOP_POSTERS}
+{L_TOP_POSTERS}
+{L_TOP_POSTERS}
+{L_TOP_POSTERS}
+{L_TOP_POSTERS}
 {L_TOP_POSTERS}
 ```
 

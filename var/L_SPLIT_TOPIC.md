@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SPLIT_TOPIC}
+{L_SPLIT_TOPIC}
+{L_SPLIT_TOPIC}
+{L_SPLIT_TOPIC}
+{L_SPLIT_TOPIC}
 {L_SPLIT_TOPIC}
 ```
 

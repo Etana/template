@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
-{googlemap}
+```smarty
+<!-- BEGIN googlemap -->
+    contenu sur lequel on boucle
+    <!-- END googlemap -->
+<!-- BEGIN googlemap -->
+    contenu sur lequel on boucle
+    <!-- END googlemap -->
+<!-- BEGIN googlemap -->
+    contenu sur lequel on boucle
+    <!-- END googlemap -->
+<!-- BEGIN googlemap -->
+    contenu sur lequel on boucle
+    <!-- END googlemap -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/googlemap)

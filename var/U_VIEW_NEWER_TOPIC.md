@@ -3,7 +3,13 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_VIEW_NEWER_TOPIC}
+{U_VIEW_NEWER_TOPIC}
+{U_VIEW_NEWER_TOPIC}
+{U_VIEW_NEWER_TOPIC}
+{U_VIEW_NEWER_TOPIC}
+{U_VIEW_NEWER_TOPIC}
 {U_VIEW_NEWER_TOPIC}
 ```
 

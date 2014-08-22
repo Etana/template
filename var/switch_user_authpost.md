@@ -3,8 +3,52 @@
 * __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_user_authpost}
+```smarty
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
+<!-- BEGIN switch_user_authpost -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_authpost -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_authpost)

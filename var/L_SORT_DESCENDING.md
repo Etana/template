@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SORT_DESCENDING}
+{L_SORT_DESCENDING}
+{L_SORT_DESCENDING}
 {L_SORT_DESCENDING}
 ```
 

@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_OPTIONS}
+{L_OPTIONS}
+{L_OPTIONS}
+{L_OPTIONS}
 {L_OPTIONS}
 ```
 

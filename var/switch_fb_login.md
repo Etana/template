@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_fb_login}
+```smarty
+<!-- BEGIN switch_fb_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_login -->
+<!-- BEGIN switch_fb_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_login -->
+<!-- BEGIN switch_fb_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_login -->
+<!-- BEGIN switch_fb_login -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_login)

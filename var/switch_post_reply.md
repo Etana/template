@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_post_reply}
+```smarty
+<!-- BEGIN switch_post_reply -->
+    contenu sur lequel on boucle
+    <!-- END switch_post_reply -->
+<!-- BEGIN switch_post_reply -->
+    contenu sur lequel on boucle
+    <!-- END switch_post_reply -->
+<!-- BEGIN switch_post_reply -->
+    contenu sur lequel on boucle
+    <!-- END switch_post_reply -->
+<!-- BEGIN switch_post_reply -->
+    contenu sur lequel on boucle
+    <!-- END switch_post_reply -->
+<!-- BEGIN switch_post_reply -->
+    contenu sur lequel on boucle
+    <!-- END switch_post_reply -->
+<!-- BEGIN switch_post_reply -->
+    contenu sur lequel on boucle
+    <!-- END switch_post_reply -->
+<!-- BEGIN switch_post_reply -->
+    contenu sur lequel on boucle
+    <!-- END switch_post_reply -->
+<!-- BEGIN switch_post_reply -->
+    contenu sur lequel on boucle
+    <!-- END switch_post_reply -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_post_reply)

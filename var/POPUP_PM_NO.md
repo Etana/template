@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{POPUP_PM_NO}
+{POPUP_PM_NO}
+{POPUP_PM_NO}
 {POPUP_PM_NO}
 ```
 

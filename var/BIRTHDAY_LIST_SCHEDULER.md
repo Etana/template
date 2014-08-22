@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{BIRTHDAY_LIST_SCHEDULER}
+{BIRTHDAY_LIST_SCHEDULER}
+{BIRTHDAY_LIST_SCHEDULER}
 {BIRTHDAY_LIST_SCHEDULER}
 ```
 

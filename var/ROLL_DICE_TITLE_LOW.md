@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{ROLL_DICE_TITLE_LOW}
+{ROLL_DICE_TITLE_LOW}
+{ROLL_DICE_TITLE_LOW}
+{ROLL_DICE_TITLE_LOW}
+{ROLL_DICE_TITLE_LOW}
+{ROLL_DICE_TITLE_LOW}
+{ROLL_DICE_TITLE_LOW}
 {ROLL_DICE_TITLE_LOW}
 ```
 

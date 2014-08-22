@@ -3,8 +3,47 @@
 * __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.hidden}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        contenu sur lequel on boucle
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        contenu sur lequel on boucle
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        contenu sur lequel on boucle
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        contenu sur lequel on boucle
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        contenu sur lequel on boucle
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        contenu sur lequel on boucle
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        contenu sur lequel on boucle
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        contenu sur lequel on boucle
+        <!-- END hidden -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.hidden)

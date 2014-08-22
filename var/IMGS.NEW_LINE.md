@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)
 * __Utilisation :__
 
-```html
-{IMGS.NEW_LINE}
+```smarty
+<!-- BEGIN IMGS -->
+    {IMGS.NEW_LINE}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.NEW_LINE}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.NEW_LINE}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.NEW_LINE}
+    <!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.NEW_LINE)

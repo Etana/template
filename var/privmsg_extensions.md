@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{privmsg_extensions}
+```smarty
+<!-- BEGIN privmsg_extensions -->
+    contenu sur lequel on boucle
+    <!-- END privmsg_extensions -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/privmsg_extensions)

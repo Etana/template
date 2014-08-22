@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{minisearch}
+```smarty
+<!-- BEGIN minisearch -->
+    contenu sur lequel on boucle
+    <!-- END minisearch -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/minisearch)

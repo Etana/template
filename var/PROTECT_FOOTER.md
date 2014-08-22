@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PROTECT_FOOTER}
+{PROTECT_FOOTER}
+{PROTECT_FOOTER}
 {PROTECT_FOOTER}
 ```
 

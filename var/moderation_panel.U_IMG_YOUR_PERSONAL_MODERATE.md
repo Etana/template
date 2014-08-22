@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
 * __Utilisation :__
 
-```html
-{moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE}
+```smarty
+<!-- BEGIN moderation_panel -->
+    {moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE}
+    <!-- END moderation_panel -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE)

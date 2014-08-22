@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme), [`confirm_body`](../tpl/confirm_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_CONFIRM_ACTION}
+{S_CONFIRM_ACTION}
+{S_CONFIRM_ACTION}
+{S_CONFIRM_ACTION}
+{S_CONFIRM_ACTION}
+{S_CONFIRM_ACTION}
+{S_CONFIRM_ACTION}
 {S_CONFIRM_ACTION}
 ```
 

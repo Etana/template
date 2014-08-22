@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{ID_RIGHT}
+{ID_RIGHT}
+{ID_RIGHT}
 {ID_RIGHT}
 ```
 

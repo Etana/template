@@ -3,7 +3,19 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
+{L_SEND_PASSWORD}
 {L_SEND_PASSWORD}
 ```
 

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_admin_user_comment_active}
+```smarty
+<!-- BEGIN switch_admin_user_comment_active -->
+    contenu sur lequel on boucle
+    <!-- END switch_admin_user_comment_active -->
+<!-- BEGIN switch_admin_user_comment_active -->
+    contenu sur lequel on boucle
+    <!-- END switch_admin_user_comment_active -->
+<!-- BEGIN switch_admin_user_comment_active -->
+    contenu sur lequel on boucle
+    <!-- END switch_admin_user_comment_active -->
+<!-- BEGIN switch_admin_user_comment_active -->
+    contenu sur lequel on boucle
+    <!-- END switch_admin_user_comment_active -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_admin_user_comment_active)

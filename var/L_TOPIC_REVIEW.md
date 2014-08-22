@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TOPIC_REVIEW}
+{L_TOPIC_REVIEW}
+{L_TOPIC_REVIEW}
+{L_TOPIC_REVIEW}
+{L_TOPIC_REVIEW}
+{L_TOPIC_REVIEW}
+{L_TOPIC_REVIEW}
 {L_TOPIC_REVIEW}
 ```
 

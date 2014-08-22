@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_FORM_ENCTYPE}
+{S_FORM_ENCTYPE}
+{S_FORM_ENCTYPE}
+{S_FORM_ENCTYPE}
 {S_FORM_ENCTYPE}
 ```
 

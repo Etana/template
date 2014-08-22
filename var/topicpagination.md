@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{topicpagination}
+```smarty
+<!-- BEGIN topicpagination -->
+    contenu sur lequel on boucle
+    <!-- END topicpagination -->
+<!-- BEGIN topicpagination -->
+    contenu sur lequel on boucle
+    <!-- END topicpagination -->
+<!-- BEGIN topicpagination -->
+    contenu sur lequel on boucle
+    <!-- END topicpagination -->
+<!-- BEGIN topicpagination -->
+    contenu sur lequel on boucle
+    <!-- END topicpagination -->
+<!-- BEGIN topicpagination -->
+    contenu sur lequel on boucle
+    <!-- END topicpagination -->
+<!-- BEGIN topicpagination -->
+    contenu sur lequel on boucle
+    <!-- END topicpagination -->
+<!-- BEGIN topicpagination -->
+    contenu sur lequel on boucle
+    <!-- END topicpagination -->
+<!-- BEGIN topicpagination -->
+    contenu sur lequel on boucle
+    <!-- END topicpagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicpagination)

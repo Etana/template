@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {L_MEMBERLIST}
 ```
 

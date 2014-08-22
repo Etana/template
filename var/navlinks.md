@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{navlinks}
+```smarty
+<!-- BEGIN navlinks -->
+    contenu sur lequel on boucle
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    contenu sur lequel on boucle
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    contenu sur lequel on boucle
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    contenu sur lequel on boucle
+    <!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks)

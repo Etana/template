@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`merge_select_body`](../tpl/merge_select_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_LIST_FORUMS}
+{S_LIST_FORUMS}
+{S_LIST_FORUMS}
 {S_LIST_FORUMS}
 ```
 

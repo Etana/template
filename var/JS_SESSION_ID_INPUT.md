@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`mod_search`](../tpl/mod_search.md#readme), [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{JS_SESSION_ID_INPUT}
+{JS_SESSION_ID_INPUT}
+{JS_SESSION_ID_INPUT}
+{JS_SESSION_ID_INPUT}
 {JS_SESSION_ID_INPUT}
 ```
 

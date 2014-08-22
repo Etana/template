@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_ORDER_SELECT}
+{S_ORDER_SELECT}
+{S_ORDER_SELECT}
 {S_ORDER_SELECT}
 ```
 

@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
-{switch_profile_old}
+```smarty
+<!-- BEGIN switch_profile_old -->
+    contenu sur lequel on boucle
+    <!-- END switch_profile_old -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_profile_old)

@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
 * __Utilisation :__
 
-```html
-{pagination.PAGINATION}
+```smarty
+<!-- BEGIN pagination -->
+    {pagination.PAGINATION}
+    <!-- END pagination -->
+<!-- BEGIN pagination -->
+    {pagination.PAGINATION}
+    <!-- END pagination -->
+<!-- BEGIN pagination -->
+    {pagination.PAGINATION}
+    <!-- END pagination -->
+<!-- BEGIN pagination -->
+    {pagination.PAGINATION}
+    <!-- END pagination -->
+<!-- BEGIN pagination -->
+    {pagination.PAGINATION}
+    <!-- END pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pagination.PAGINATION)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_review_box}
+```smarty
+<!-- BEGIN switch_review_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_review_box -->
+<!-- BEGIN switch_review_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_review_box -->
+<!-- BEGIN switch_review_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_review_box -->
+<!-- BEGIN switch_review_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_review_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_review_box)

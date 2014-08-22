@@ -3,7 +3,22 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme), [`confirm_body`](../tpl/confirm_body.md#readme), [`message_body`](../tpl/message_body.md#readme), [`modcp_move`](../tpl/modcp_move.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
+{MESSAGE_TEXT}
 {MESSAGE_TEXT}
 ```
 

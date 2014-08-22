@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {ICQ_STATUS_IMG}
 ```
 

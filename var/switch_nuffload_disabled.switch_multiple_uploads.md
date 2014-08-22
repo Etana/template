@@ -3,8 +3,47 @@
 * __Utilisable dans :__ [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_nuffload_disabled.switch_multiple_uploads}
+```smarty
+<!-- BEGIN switch_nuffload_disabled -->
+    <!-- BEGIN switch_multiple_uploads -->
+        contenu sur lequel on boucle
+        <!-- END switch_multiple_uploads -->
+    <!-- END switch_nuffload_disabled -->
+<!-- BEGIN switch_nuffload_disabled -->
+    <!-- BEGIN switch_multiple_uploads -->
+        contenu sur lequel on boucle
+        <!-- END switch_multiple_uploads -->
+    <!-- END switch_nuffload_disabled -->
+<!-- BEGIN switch_nuffload_disabled -->
+    <!-- BEGIN switch_multiple_uploads -->
+        contenu sur lequel on boucle
+        <!-- END switch_multiple_uploads -->
+    <!-- END switch_nuffload_disabled -->
+<!-- BEGIN switch_nuffload_disabled -->
+    <!-- BEGIN switch_multiple_uploads -->
+        contenu sur lequel on boucle
+        <!-- END switch_multiple_uploads -->
+    <!-- END switch_nuffload_disabled -->
+<!-- BEGIN switch_nuffload_disabled -->
+    <!-- BEGIN switch_multiple_uploads -->
+        contenu sur lequel on boucle
+        <!-- END switch_multiple_uploads -->
+    <!-- END switch_nuffload_disabled -->
+<!-- BEGIN switch_nuffload_disabled -->
+    <!-- BEGIN switch_multiple_uploads -->
+        contenu sur lequel on boucle
+        <!-- END switch_multiple_uploads -->
+    <!-- END switch_nuffload_disabled -->
+<!-- BEGIN switch_nuffload_disabled -->
+    <!-- BEGIN switch_multiple_uploads -->
+        contenu sur lequel on boucle
+        <!-- END switch_multiple_uploads -->
+    <!-- END switch_nuffload_disabled -->
+<!-- BEGIN switch_nuffload_disabled -->
+    <!-- BEGIN switch_multiple_uploads -->
+        contenu sur lequel on boucle
+        <!-- END switch_multiple_uploads -->
+    <!-- END switch_nuffload_disabled -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_disabled.switch_multiple_uploads)

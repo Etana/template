@@ -3,8 +3,35 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
-{display_infos.rate_switch.rate_row}
+```smarty
+<!-- BEGIN display_infos -->
+    <!-- BEGIN rate_switch -->
+        <!-- BEGIN rate_row -->
+            contenu sur lequel on boucle
+            <!-- END rate_row -->
+        <!-- END rate_switch -->
+    <!-- END display_infos -->
+<!-- BEGIN display_infos -->
+    <!-- BEGIN rate_switch -->
+        <!-- BEGIN rate_row -->
+            contenu sur lequel on boucle
+            <!-- END rate_row -->
+        <!-- END rate_switch -->
+    <!-- END display_infos -->
+<!-- BEGIN display_infos -->
+    <!-- BEGIN rate_switch -->
+        <!-- BEGIN rate_row -->
+            contenu sur lequel on boucle
+            <!-- END rate_row -->
+        <!-- END rate_switch -->
+    <!-- END display_infos -->
+<!-- BEGIN display_infos -->
+    <!-- BEGIN rate_switch -->
+        <!-- BEGIN rate_row -->
+            contenu sur lequel on boucle
+            <!-- END rate_row -->
+        <!-- END rate_switch -->
+    <!-- END display_infos -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row)

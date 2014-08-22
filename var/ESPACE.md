@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {ESPACE}
 ```
 

@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{C2SIZE}
+{C2SIZE}
+{C2SIZE}
+{C2SIZE}
+{C2SIZE}
 {C2SIZE}
 ```
 

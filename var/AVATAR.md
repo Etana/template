@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme), [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{AVATAR}
+{AVATAR}
+{AVATAR}
+{AVATAR}
+{AVATAR}
+{AVATAR}
+{AVATAR}
 {AVATAR}
 ```
 

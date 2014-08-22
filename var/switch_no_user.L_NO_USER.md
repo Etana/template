@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_no_user.L_NO_USER}
+```smarty
+<!-- BEGIN switch_no_user -->
+    {switch_no_user.L_NO_USER}
+    <!-- END switch_no_user -->
+<!-- BEGIN switch_no_user -->
+    {switch_no_user.L_NO_USER}
+    <!-- END switch_no_user -->
+<!-- BEGIN switch_no_user -->
+    {switch_no_user.L_NO_USER}
+    <!-- END switch_no_user -->
+<!-- BEGIN switch_no_user -->
+    {switch_no_user.L_NO_USER}
+    <!-- END switch_no_user -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)

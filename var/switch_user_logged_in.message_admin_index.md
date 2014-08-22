@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
 * __Utilisation :__
 
-```html
-{switch_user_logged_in.message_admin_index}
+```smarty
+<!-- BEGIN switch_user_logged_in -->
+    <!-- BEGIN message_admin_index -->
+        contenu sur lequel on boucle
+        <!-- END message_admin_index -->
+    <!-- END switch_user_logged_in -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index)

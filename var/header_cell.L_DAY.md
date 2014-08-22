@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
 * __Utilisation :__
 
-```html
-{header_cell.L_DAY}
+```smarty
+<!-- BEGIN header_cell -->
+    {header_cell.L_DAY}
+    <!-- END header_cell -->
+<!-- BEGIN header_cell -->
+    {header_cell.L_DAY}
+    <!-- END header_cell -->
+<!-- BEGIN header_cell -->
+    {header_cell.L_DAY}
+    <!-- END header_cell -->
+<!-- BEGIN header_cell -->
+    {header_cell.L_DAY}
+    <!-- END header_cell -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/header_cell.L_DAY)

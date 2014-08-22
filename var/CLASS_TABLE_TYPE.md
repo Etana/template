@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`standard`](../tpl/standard.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {CLASS_TABLE_TYPE}
 ```
 

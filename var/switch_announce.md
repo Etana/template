@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_announce}
+```smarty
+<!-- BEGIN switch_announce -->
+    contenu sur lequel on boucle
+    <!-- END switch_announce -->
+<!-- BEGIN switch_announce -->
+    contenu sur lequel on boucle
+    <!-- END switch_announce -->
+<!-- BEGIN switch_announce -->
+    contenu sur lequel on boucle
+    <!-- END switch_announce -->
+<!-- BEGIN switch_announce -->
+    contenu sur lequel on boucle
+    <!-- END switch_announce -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_announce)

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{POST_PERCENT_STATS}
+{POST_PERCENT_STATS}
+{POST_PERCENT_STATS}
 {POST_PERCENT_STATS}
 ```
 

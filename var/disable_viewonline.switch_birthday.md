@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{disable_viewonline.switch_birthday}
+```smarty
+<!-- BEGIN disable_viewonline -->
+    <!-- BEGIN switch_birthday -->
+        contenu sur lequel on boucle
+        <!-- END switch_birthday -->
+    <!-- END disable_viewonline -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_birthday)

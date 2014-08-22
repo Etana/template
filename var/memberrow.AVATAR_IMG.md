@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.AVATAR_IMG}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.AVATAR_IMG}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.AVATAR_IMG}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.AVATAR_IMG}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.AVATAR_IMG}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.AVATAR_IMG}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.AVATAR_IMG)

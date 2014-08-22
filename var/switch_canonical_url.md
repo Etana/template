@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_canonical_url}
+```smarty
+<!-- BEGIN switch_canonical_url -->
+    contenu sur lequel on boucle
+    <!-- END switch_canonical_url -->
+<!-- BEGIN switch_canonical_url -->
+    contenu sur lequel on boucle
+    <!-- END switch_canonical_url -->
+<!-- BEGIN switch_canonical_url -->
+    contenu sur lequel on boucle
+    <!-- END switch_canonical_url -->
+<!-- BEGIN switch_canonical_url -->
+    contenu sur lequel on boucle
+    <!-- END switch_canonical_url -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_canonical_url)

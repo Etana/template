@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{topics_list_box.row.header_table.switch_forum_options}
+```smarty
+<!-- BEGIN topics_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN header_table -->
+            <!-- BEGIN switch_forum_options -->
+                contenu sur lequel on boucle
+                <!-- END switch_forum_options -->
+            <!-- END header_table -->
+        <!-- END row -->
+    <!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.switch_forum_options)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
-{phonecall_method}
+```smarty
+<!-- BEGIN phonecall_method -->
+    contenu sur lequel on boucle
+    <!-- END phonecall_method -->
+<!-- BEGIN phonecall_method -->
+    contenu sur lequel on boucle
+    <!-- END phonecall_method -->
+<!-- BEGIN phonecall_method -->
+    contenu sur lequel on boucle
+    <!-- END phonecall_method -->
+<!-- BEGIN phonecall_method -->
+    contenu sur lequel on boucle
+    <!-- END phonecall_method -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/phonecall_method)

@@ -3,7 +3,13 @@
 * __Utilisable dans :__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SEARCH_KEYWORDS}
+{L_SEARCH_KEYWORDS}
+{L_SEARCH_KEYWORDS}
+{L_SEARCH_KEYWORDS}
+{L_SEARCH_KEYWORDS}
+{L_SEARCH_KEYWORDS}
 {L_SEARCH_KEYWORDS}
 ```
 

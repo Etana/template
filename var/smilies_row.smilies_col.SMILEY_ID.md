@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)
 * __Utilisation :__
 
-```html
-{smilies_row.smilies_col.SMILEY_ID}
+```smarty
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_ID}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_ID}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_ID}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
+<!-- BEGIN smilies_row -->
+    <!-- BEGIN smilies_col -->
+        {smilies_row.smilies_col.SMILEY_ID}
+        <!-- END smilies_col -->
+    <!-- END smilies_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_ID)

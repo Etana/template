@@ -3,7 +3,28 @@
 * __Utilisable dans :__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme), [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`profile_send_email`](../tpl/profile_send_email.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
+{JUMPBOX}
 {JUMPBOX}
 ```
 

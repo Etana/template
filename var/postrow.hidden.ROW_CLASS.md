@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.hidden.ROW_CLASS}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        {postrow.hidden.ROW_CLASS}
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        {postrow.hidden.ROW_CLASS}
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        {postrow.hidden.ROW_CLASS}
+        <!-- END hidden -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        {postrow.hidden.ROW_CLASS}
+        <!-- END hidden -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.hidden.ROW_CLASS)

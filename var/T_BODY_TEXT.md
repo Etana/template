@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{T_BODY_TEXT}
+{T_BODY_TEXT}
+{T_BODY_TEXT}
 {T_BODY_TEXT}
 ```
 

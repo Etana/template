@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+```smarty
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_private_footer -->
+        {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+        <!-- END cat_private_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_private_footer -->
+        {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+        <!-- END cat_private_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_private_footer -->
+        {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+        <!-- END cat_private_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_private_footer -->
+        {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+        <!-- END cat_private_footer -->
+    <!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES)

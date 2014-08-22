@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{birthday_list_box.FORMNAME}
+```smarty
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FORMNAME}
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FORMNAME}
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FORMNAME}
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FORMNAME}
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FORMNAME}
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FORMNAME}
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FORMNAME}
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FORMNAME}
+    <!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.FORMNAME)

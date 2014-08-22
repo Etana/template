@@ -3,7 +3,31 @@
 * __Utilisable dans :__ [`greeting_popup`](../tpl/greeting_popup.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
+{L_MESSAGE}
 {L_MESSAGE}
 ```
 

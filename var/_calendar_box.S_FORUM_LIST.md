@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
 * __Utilisation :__
 
-```html
-{_calendar_box.S_FORUM_LIST}
+```smarty
+<!-- BEGIN _calendar_box -->
+    {_calendar_box.S_FORUM_LIST}
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    {_calendar_box.S_FORUM_LIST}
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    {_calendar_box.S_FORUM_LIST}
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    {_calendar_box.S_FORUM_LIST}
+    <!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.S_FORUM_LIST)

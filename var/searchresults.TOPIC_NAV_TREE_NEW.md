@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.TOPIC_NAV_TREE_NEW}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_NAV_TREE_NEW}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_NAV_TREE_NEW)

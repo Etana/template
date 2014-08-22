@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_cat_top10`](../tpl/album_cat_top10.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TOP10_STATS}
+{L_TOP10_STATS}
+{L_TOP10_STATS}
 {L_TOP10_STATS}
 ```
 

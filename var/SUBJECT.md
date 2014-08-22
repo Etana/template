@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`profile_send_email`](../tpl/profile_send_email.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
+{SUBJECT}
 {SUBJECT}
 ```
 

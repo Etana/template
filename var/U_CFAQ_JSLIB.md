@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`faq_dhtml`](../tpl/faq_dhtml.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_CFAQ_JSLIB}
+{U_CFAQ_JSLIB}
+{U_CFAQ_JSLIB}
 {U_CFAQ_JSLIB}
 ```
 

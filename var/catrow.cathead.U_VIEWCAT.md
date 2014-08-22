@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow.cathead.U_VIEWCAT}
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN cathead -->
+        {catrow.cathead.U_VIEWCAT}
+        <!-- END cathead -->
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.U_VIEWCAT)

@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme), [`modcp_move`](../tpl/modcp_move.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_MODCP_ACTION}
+{S_MODCP_ACTION}
+{S_MODCP_ACTION}
+{S_MODCP_ACTION}
+{S_MODCP_ACTION}
+{S_MODCP_ACTION}
+{S_MODCP_ACTION}
 {S_MODCP_ACTION}
 ```
 

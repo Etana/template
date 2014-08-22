@@ -3,7 +3,19 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
+{UCP_TABS}
 {UCP_TABS}
 ```
 

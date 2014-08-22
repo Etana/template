@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{forumrow.L_SUBFORUM_STR}
+```smarty
+<!-- BEGIN forumrow -->
+    {forumrow.L_SUBFORUM_STR}
+    <!-- END forumrow -->
+<!-- BEGIN forumrow -->
+    {forumrow.L_SUBFORUM_STR}
+    <!-- END forumrow -->
+<!-- BEGIN forumrow -->
+    {forumrow.L_SUBFORUM_STR}
+    <!-- END forumrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/forumrow.L_SUBFORUM_STR)

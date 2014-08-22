@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_ticker.SIZE}
+```smarty
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SIZE}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SIZE}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SIZE}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SIZE}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SIZE}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SIZE}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SIZE}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SIZE}
+    <!-- END switch_ticker -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.SIZE)

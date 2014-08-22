@@ -3,8 +3,43 @@
 * __Utilisable dans :__ [`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme), [`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme), [`mod_top_posters`](../tpl/mod_top_posters.md#readme)
 * __Utilisation :__
 
-```html
-{POSTER.NB_POSTS}
+```smarty
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_POSTS}
+    <!-- END POSTER -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER.NB_POSTS)

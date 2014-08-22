@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
-{out_giefmod4.MODVAR}
+```smarty
+<!-- BEGIN out_giefmod4 -->
+    {out_giefmod4.MODVAR}
+    <!-- END out_giefmod4 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/out_giefmod4.MODVAR)

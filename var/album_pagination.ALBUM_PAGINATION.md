@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{album_pagination.ALBUM_PAGINATION}
+```smarty
+<!-- BEGIN album_pagination -->
+    {album_pagination.ALBUM_PAGINATION}
+    <!-- END album_pagination -->
+<!-- BEGIN album_pagination -->
+    {album_pagination.ALBUM_PAGINATION}
+    <!-- END album_pagination -->
+<!-- BEGIN album_pagination -->
+    {album_pagination.ALBUM_PAGINATION}
+    <!-- END album_pagination -->
+<!-- BEGIN album_pagination -->
+    {album_pagination.ALBUM_PAGINATION}
+    <!-- END album_pagination -->
+<!-- BEGIN album_pagination -->
+    {album_pagination.ALBUM_PAGINATION}
+    <!-- END album_pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)

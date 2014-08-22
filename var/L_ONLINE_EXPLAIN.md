@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_ONLINE_EXPLAIN}
+{L_ONLINE_EXPLAIN}
 {L_ONLINE_EXPLAIN}
 ```
 

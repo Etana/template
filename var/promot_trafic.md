@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{promot_trafic}
+```smarty
+<!-- BEGIN promot_trafic -->
+    contenu sur lequel on boucle
+    <!-- END promot_trafic -->
+<!-- BEGIN promot_trafic -->
+    contenu sur lequel on boucle
+    <!-- END promot_trafic -->
+<!-- BEGIN promot_trafic -->
+    contenu sur lequel on boucle
+    <!-- END promot_trafic -->
+<!-- BEGIN promot_trafic -->
+    contenu sur lequel on boucle
+    <!-- END promot_trafic -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/promot_trafic)

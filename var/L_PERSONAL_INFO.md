@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {L_PERSONAL_INFO}
 ```
 

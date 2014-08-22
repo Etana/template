@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_TODAY_POSTERS}
+{U_TODAY_POSTERS}
+{U_TODAY_POSTERS}
 {U_TODAY_POSTERS}
 ```
 

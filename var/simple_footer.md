@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
-{simple_footer}
+```smarty
+<!-- BEGIN simple_footer -->
+    contenu sur lequel on boucle
+    <!-- END simple_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/simple_footer)

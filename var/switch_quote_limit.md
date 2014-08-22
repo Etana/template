@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_quote_limit}
+```smarty
+<!-- BEGIN switch_quote_limit -->
+    contenu sur lequel on boucle
+    <!-- END switch_quote_limit -->
+<!-- BEGIN switch_quote_limit -->
+    contenu sur lequel on boucle
+    <!-- END switch_quote_limit -->
+<!-- BEGIN switch_quote_limit -->
+    contenu sur lequel on boucle
+    <!-- END switch_quote_limit -->
+<!-- BEGIN switch_quote_limit -->
+    contenu sur lequel on boucle
+    <!-- END switch_quote_limit -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_quote_limit)

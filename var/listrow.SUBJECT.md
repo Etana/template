@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
-{listrow.SUBJECT}
+```smarty
+<!-- BEGIN listrow -->
+    {listrow.SUBJECT}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.SUBJECT}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.SUBJECT}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.SUBJECT}
+    <!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.SUBJECT)

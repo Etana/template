@@ -3,7 +3,22 @@
 * __Utilisable dans :__ [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
+{T_GOO_LINK}
 {T_GOO_LINK}
 ```
 

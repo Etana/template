@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MODCP}
+{L_MODCP}
+{L_MODCP}
+{L_MODCP}
+{L_MODCP}
+{L_MODCP}
+{L_MODCP}
 {L_MODCP}
 ```
 

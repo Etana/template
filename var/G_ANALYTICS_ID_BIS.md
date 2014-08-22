@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{G_ANALYTICS_ID_BIS}
+{G_ANALYTICS_ID_BIS}
+{G_ANALYTICS_ID_BIS}
 {G_ANALYTICS_ID_BIS}
 ```
 

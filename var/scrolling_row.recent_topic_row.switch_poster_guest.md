@@ -3,8 +3,35 @@
 * __Utilisable dans :__ [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
 * __Utilisation :__
 
-```html
-{scrolling_row.recent_topic_row.switch_poster_guest}
+```smarty
+<!-- BEGIN scrolling_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            contenu sur lequel on boucle
+            <!-- END switch_poster_guest -->
+        <!-- END recent_topic_row -->
+    <!-- END scrolling_row -->
+<!-- BEGIN scrolling_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            contenu sur lequel on boucle
+            <!-- END switch_poster_guest -->
+        <!-- END recent_topic_row -->
+    <!-- END scrolling_row -->
+<!-- BEGIN scrolling_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            contenu sur lequel on boucle
+            <!-- END switch_poster_guest -->
+        <!-- END recent_topic_row -->
+    <!-- END scrolling_row -->
+<!-- BEGIN scrolling_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            contenu sur lequel on boucle
+            <!-- END switch_poster_guest -->
+        <!-- END recent_topic_row -->
+    <!-- END scrolling_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.switch_poster_guest)

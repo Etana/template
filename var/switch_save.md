@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_save}
+```smarty
+<!-- BEGIN switch_save -->
+    contenu sur lequel on boucle
+    <!-- END switch_save -->
+<!-- BEGIN switch_save -->
+    contenu sur lequel on boucle
+    <!-- END switch_save -->
+<!-- BEGIN switch_save -->
+    contenu sur lequel on boucle
+    <!-- END switch_save -->
+<!-- BEGIN switch_save -->
+    contenu sur lequel on boucle
+    <!-- END switch_save -->
+<!-- BEGIN switch_save -->
+    contenu sur lequel on boucle
+    <!-- END switch_save -->
+<!-- BEGIN switch_save -->
+    contenu sur lequel on boucle
+    <!-- END switch_save -->
+<!-- BEGIN switch_save -->
+    contenu sur lequel on boucle
+    <!-- END switch_save -->
+<!-- BEGIN switch_save -->
+    contenu sur lequel on boucle
+    <!-- END switch_save -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_save)

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_BY_PHONECALL_EXPLAIN}
+{L_BY_PHONECALL_EXPLAIN}
+{L_BY_PHONECALL_EXPLAIN}
 {L_BY_PHONECALL_EXPLAIN}
 ```
 

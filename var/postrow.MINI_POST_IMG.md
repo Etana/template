@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.MINI_POST_IMG}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.MINI_POST_IMG}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.MINI_POST_IMG}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.MINI_POST_IMG)

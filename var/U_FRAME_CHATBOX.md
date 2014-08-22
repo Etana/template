@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`mod_chatbox`](../tpl/mod_chatbox.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_FRAME_CHATBOX}
+{U_FRAME_CHATBOX}
+{U_FRAME_CHATBOX}
 {U_FRAME_CHATBOX}
 ```
 

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_AGREE_OVER13}
+{U_AGREE_OVER13}
+{U_AGREE_OVER13}
 {U_AGREE_OVER13}
 ```
 

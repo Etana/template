@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`album_cat_top10`](../tpl/album_cat_top10.md#readme)
 * __Utilisation :__
 
-```html
-{list_pics_block.legend_stat}
+```smarty
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN legend_stat -->
+        contenu sur lequel on boucle
+        <!-- END legend_stat -->
+    <!-- END list_pics_block -->
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN legend_stat -->
+        contenu sur lequel on boucle
+        <!-- END legend_stat -->
+    <!-- END list_pics_block -->
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN legend_stat -->
+        contenu sur lequel on boucle
+        <!-- END legend_stat -->
+    <!-- END list_pics_block -->
+<!-- BEGIN list_pics_block -->
+    <!-- BEGIN legend_stat -->
+        contenu sur lequel on boucle
+        <!-- END legend_stat -->
+    <!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat)

@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_RECENT_TOPICS}
+{L_RECENT_TOPICS}
+{L_RECENT_TOPICS}
+{L_RECENT_TOPICS}
+{L_RECENT_TOPICS}
 {L_RECENT_TOPICS}
 ```
 

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.POSTS}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.POSTS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.POSTS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.POSTS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.POSTS}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.POSTS)

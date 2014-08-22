@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.MINI_POST_IMG}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MINI_POST_IMG}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MINI_POST_IMG}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MINI_POST_IMG}
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        {postrow.displayed.MINI_POST_IMG}
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.MINI_POST_IMG)

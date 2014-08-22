@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_overview_top10`](../tpl/album_overview_top10.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_RATE}
+{L_RATE}
+{L_RATE}
 {L_RATE}
 ```
 

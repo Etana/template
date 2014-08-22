@@ -3,8 +3,37 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.POSTER_NAME}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_NAME}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.POSTER_NAME)

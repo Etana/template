@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`report_view_body`](../tpl/report_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{row.POST}
+```smarty
+<!-- BEGIN row -->
+    {row.POST}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.POST}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.POST}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.POST}
+    <!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.POST)

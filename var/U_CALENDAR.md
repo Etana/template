@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`calendar_body`](../tpl/calendar_body.md#readme), [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_CALENDAR}
+{U_CALENDAR}
+{U_CALENDAR}
+{U_CALENDAR}
+{U_CALENDAR}
 {U_CALENDAR}
 ```
 

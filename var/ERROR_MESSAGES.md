@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{ERROR_MESSAGES}
+{ERROR_MESSAGES}
 {ERROR_MESSAGES}
 ```
 

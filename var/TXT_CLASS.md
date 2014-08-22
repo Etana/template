@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {TXT_CLASS}
 ```
 

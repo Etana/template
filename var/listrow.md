@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
-{listrow}
+```smarty
+<!-- BEGIN listrow -->
+    contenu sur lequel on boucle
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    contenu sur lequel on boucle
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    contenu sur lequel on boucle
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    contenu sur lequel on boucle
+    <!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)
 * __Utilisation :__
 
-```html
-{IMGS.ALT}
+```smarty
+<!-- BEGIN IMGS -->
+    {IMGS.ALT}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.ALT}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.ALT}
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    {IMGS.ALT}
+    <!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.ALT)

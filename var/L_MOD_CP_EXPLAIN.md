@@ -3,7 +3,8 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MOD_CP_EXPLAIN}
 {L_MOD_CP_EXPLAIN}
 ```
 

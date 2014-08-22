@@ -3,7 +3,17 @@
 * __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`merge_body`](../tpl/merge_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{TOPIC_TITLE}
+{TOPIC_TITLE}
+{TOPIC_TITLE}
+{TOPIC_TITLE}
+{TOPIC_TITLE}
+{TOPIC_TITLE}
+{TOPIC_TITLE}
+{TOPIC_TITLE}
+{TOPIC_TITLE}
+{TOPIC_TITLE}
 {TOPIC_TITLE}
 ```
 

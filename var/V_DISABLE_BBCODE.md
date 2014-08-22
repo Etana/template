@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{V_DISABLE_BBCODE}
+{V_DISABLE_BBCODE}
+{V_DISABLE_BBCODE}
 {V_DISABLE_BBCODE}
 ```
 

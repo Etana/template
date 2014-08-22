@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.REPLIES}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.REPLIES}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.REPLIES}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.REPLIES}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.REPLIES}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.REPLIES)

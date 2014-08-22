@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MAKE_DONATION}
+{L_MAKE_DONATION}
 {L_MAKE_DONATION}
 ```
 

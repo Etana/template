@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme), [`rpg_sheet`](../tpl/rpg_sheet.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_AVATAR}
+{L_AVATAR}
+{L_AVATAR}
 {L_AVATAR}
 ```
 

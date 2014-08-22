@@ -3,7 +3,40 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme), [`album_search_body`](../tpl/album_search_body.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
+{PAGE_NUMBER}
 {PAGE_NUMBER}
 ```
 

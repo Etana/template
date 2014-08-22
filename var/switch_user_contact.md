@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_user_contact}
+```smarty
+<!-- BEGIN switch_user_contact -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_contact -->
+<!-- BEGIN switch_user_contact -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_contact -->
+<!-- BEGIN switch_user_contact -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_contact -->
+<!-- BEGIN switch_user_contact -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_contact -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_contact)

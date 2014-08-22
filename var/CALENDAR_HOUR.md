@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{CALENDAR_HOUR}
+{CALENDAR_HOUR}
+{CALENDAR_HOUR}
 {CALENDAR_HOUR}
 ```
 

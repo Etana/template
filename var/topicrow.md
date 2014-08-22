@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
-{topicrow}
+```smarty
+<!-- BEGIN topicrow -->
+    contenu sur lequel on boucle
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    contenu sur lequel on boucle
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    contenu sur lequel on boucle
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    contenu sur lequel on boucle
+    <!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow)

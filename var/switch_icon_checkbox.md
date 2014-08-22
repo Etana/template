@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_icon_checkbox}
+```smarty
+<!-- BEGIN switch_icon_checkbox -->
+    contenu sur lequel on boucle
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    contenu sur lequel on boucle
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    contenu sur lequel on boucle
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    contenu sur lequel on boucle
+    <!-- END switch_icon_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_icon_checkbox)

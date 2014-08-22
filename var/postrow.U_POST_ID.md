@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.U_POST_ID}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.U_POST_ID}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.U_POST_ID)

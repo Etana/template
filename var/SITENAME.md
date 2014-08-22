@@ -3,7 +3,19 @@
 * __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
+{SITENAME}
 {SITENAME}
 ```
 

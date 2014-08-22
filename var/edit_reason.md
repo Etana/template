@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{edit_reason}
+```smarty
+<!-- BEGIN edit_reason -->
+    contenu sur lequel on boucle
+    <!-- END edit_reason -->
+<!-- BEGIN edit_reason -->
+    contenu sur lequel on boucle
+    <!-- END edit_reason -->
+<!-- BEGIN edit_reason -->
+    contenu sur lequel on boucle
+    <!-- END edit_reason -->
+<!-- BEGIN edit_reason -->
+    contenu sur lequel on boucle
+    <!-- END edit_reason -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/edit_reason)

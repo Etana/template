@@ -3,8 +3,7 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{U_VIEW_TOPIC}
+```smarty
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_VIEW_TOPIC)

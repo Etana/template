@@ -3,7 +3,22 @@
 * __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
+{S_PIC_DESC_MAX_LENGTH}
 {S_PIC_DESC_MAX_LENGTH}
 ```
 

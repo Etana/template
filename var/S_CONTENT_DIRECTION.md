@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_CONTENT_DIRECTION}
+{S_CONTENT_DIRECTION}
+{S_CONTENT_DIRECTION}
+{S_CONTENT_DIRECTION}
+{S_CONTENT_DIRECTION}
+{S_CONTENT_DIRECTION}
+{S_CONTENT_DIRECTION}
 {S_CONTENT_DIRECTION}
 ```
 

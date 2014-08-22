@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_head}
+```smarty
+<!-- BEGIN switch_head -->
+    contenu sur lequel on boucle
+    <!-- END switch_head -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_head)

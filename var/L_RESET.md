@@ -3,7 +3,31 @@
 * __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme), [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme), [`report_list_body`](../tpl/report_list_body.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
+{L_RESET}
 {L_RESET}
 ```
 

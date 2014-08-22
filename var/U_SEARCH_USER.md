@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_SEARCH_USER}
+{U_SEARCH_USER}
+{U_SEARCH_USER}
+{U_SEARCH_USER}
+{U_SEARCH_USER}
+{U_SEARCH_USER}
+{U_SEARCH_USER}
 {U_SEARCH_USER}
 ```
 

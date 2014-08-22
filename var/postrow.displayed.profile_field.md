@@ -3,8 +3,35 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.profile_field}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN profile_field -->
+            contenu sur lequel on boucle
+            <!-- END profile_field -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN profile_field -->
+            contenu sur lequel on boucle
+            <!-- END profile_field -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN profile_field -->
+            contenu sur lequel on boucle
+            <!-- END profile_field -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN profile_field -->
+            contenu sur lequel on boucle
+            <!-- END profile_field -->
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field)

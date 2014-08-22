@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`poll_result`](../tpl/poll_result.md#readme), [`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{VOTE_RCAP_IMG}
+{VOTE_RCAP_IMG}
+{VOTE_RCAP_IMG}
+{VOTE_RCAP_IMG}
+{VOTE_RCAP_IMG}
+{VOTE_RCAP_IMG}
+{VOTE_RCAP_IMG}
 {VOTE_RCAP_IMG}
 ```
 

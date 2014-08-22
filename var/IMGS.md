@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme), [`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)
 * __Utilisation :__
 
-```html
-{IMGS}
+```smarty
+<!-- BEGIN IMGS -->
+    contenu sur lequel on boucle
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    contenu sur lequel on boucle
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    contenu sur lequel on boucle
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    contenu sur lequel on boucle
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    contenu sur lequel on boucle
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    contenu sur lequel on boucle
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    contenu sur lequel on boucle
+    <!-- END IMGS -->
+<!-- BEGIN IMGS -->
+    contenu sur lequel on boucle
+    <!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS)

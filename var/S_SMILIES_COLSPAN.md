@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`posting_smilies`](../tpl/posting_smilies.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_SMILIES_COLSPAN}
+{S_SMILIES_COLSPAN}
+{S_SMILIES_COLSPAN}
+{S_SMILIES_COLSPAN}
 {S_SMILIES_COLSPAN}
 ```
 

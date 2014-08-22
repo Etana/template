@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
-{iprow.ROW_CLASS}
+```smarty
+<!-- BEGIN iprow -->
+    {iprow.ROW_CLASS}
+    <!-- END iprow -->
+<!-- BEGIN iprow -->
+    {iprow.ROW_CLASS}
+    <!-- END iprow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/iprow.ROW_CLASS)

@@ -3,7 +3,19 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
+{L_REPLIES}
 {L_REPLIES}
 ```
 

@@ -3,8 +3,47 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+```smarty
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+        <!-- END cat_personal_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+        <!-- END cat_personal_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+        <!-- END cat_personal_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+        <!-- END cat_personal_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+        <!-- END cat_personal_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+        <!-- END cat_personal_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+        <!-- END cat_personal_footer -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN cat_personal_footer -->
+        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+        <!-- END cat_personal_footer -->
+    <!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY)

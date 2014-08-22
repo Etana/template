@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.PROFILE_IMG}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.PROFILE_IMG}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.PROFILE_IMG)

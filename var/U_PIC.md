@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_PIC}
+{U_PIC}
+{U_PIC}
+{U_PIC}
+{U_PIC}
+{U_PIC}
+{U_PIC}
 {U_PIC}
 ```
 

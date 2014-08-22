@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_html_checkbox}
+```smarty
+<!-- BEGIN switch_html_checkbox -->
+    contenu sur lequel on boucle
+    <!-- END switch_html_checkbox -->
+<!-- BEGIN switch_html_checkbox -->
+    contenu sur lequel on boucle
+    <!-- END switch_html_checkbox -->
+<!-- BEGIN switch_html_checkbox -->
+    contenu sur lequel on boucle
+    <!-- END switch_html_checkbox -->
+<!-- BEGIN switch_html_checkbox -->
+    contenu sur lequel on boucle
+    <!-- END switch_html_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_html_checkbox)

@@ -3,8 +3,55 @@
 * __Utilisable dans :__ [`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme), [`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme), [`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme), [`mod_top_posters`](../tpl/mod_top_posters.md#readme)
 * __Utilisation :__
 
-```html
-{POSTER.BARRE}
+```smarty
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.BARRE}
+    <!-- END POSTER -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER.BARRE)

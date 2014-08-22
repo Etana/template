@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{moderation_panel}
+```smarty
+<!-- BEGIN moderation_panel -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
+<!-- BEGIN moderation_panel -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
+<!-- BEGIN moderation_panel -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
+<!-- BEGIN moderation_panel -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
+<!-- BEGIN moderation_panel -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/moderation_panel)

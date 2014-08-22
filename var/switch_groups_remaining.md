@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_groups_remaining}
+```smarty
+<!-- BEGIN switch_groups_remaining -->
+    contenu sur lequel on boucle
+    <!-- END switch_groups_remaining -->
+<!-- BEGIN switch_groups_remaining -->
+    contenu sur lequel on boucle
+    <!-- END switch_groups_remaining -->
+<!-- BEGIN switch_groups_remaining -->
+    contenu sur lequel on boucle
+    <!-- END switch_groups_remaining -->
+<!-- BEGIN switch_groups_remaining -->
+    contenu sur lequel on boucle
+    <!-- END switch_groups_remaining -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groups_remaining)

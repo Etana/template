@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_user_logged_in.switch_plus_menu}
+```smarty
+<!-- BEGIN switch_user_logged_in -->
+    <!-- BEGIN switch_plus_menu -->
+        contenu sur lequel on boucle
+        <!-- END switch_plus_menu -->
+    <!-- END switch_user_logged_in -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.switch_plus_menu)

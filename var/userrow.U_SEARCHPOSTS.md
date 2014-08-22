@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
-{userrow.U_SEARCHPOSTS}
+```smarty
+<!-- BEGIN userrow -->
+    {userrow.U_SEARCHPOSTS}
+    <!-- END userrow -->
+<!-- BEGIN userrow -->
+    {userrow.U_SEARCHPOSTS}
+    <!-- END userrow -->
+<!-- BEGIN userrow -->
+    {userrow.U_SEARCHPOSTS}
+    <!-- END userrow -->
+<!-- BEGIN userrow -->
+    {userrow.U_SEARCHPOSTS}
+    <!-- END userrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow.U_SEARCHPOSTS)

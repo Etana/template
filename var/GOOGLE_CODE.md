@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{GOOGLE_CODE}
+{GOOGLE_CODE}
+{GOOGLE_CODE}
 {GOOGLE_CODE}
 ```
 

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MODERATORS}
+{L_MODERATORS}
+{L_MODERATORS}
 {L_MODERATORS}
 ```
 

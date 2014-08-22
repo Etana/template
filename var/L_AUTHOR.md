@@ -3,7 +3,22 @@
 * __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`report_view_body`](../tpl/report_view_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
+{L_AUTHOR}
 {L_AUTHOR}
 ```
 

@@ -3,7 +3,8 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme), [`rpg_sheet`](../tpl/rpg_sheet.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_ABOUT_USER}
 {L_ABOUT_USER}
 ```
 

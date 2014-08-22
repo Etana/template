@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_send_email`](../tpl/profile_send_email.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TELL_FRIEND_RECIEVER_EMAIL}
+{L_TELL_FRIEND_RECIEVER_EMAIL}
+{L_TELL_FRIEND_RECIEVER_EMAIL}
 {L_TELL_FRIEND_RECIEVER_EMAIL}
 ```
 

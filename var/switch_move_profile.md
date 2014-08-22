@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_move_profile}
+```smarty
+<!-- BEGIN switch_move_profile -->
+    contenu sur lequel on boucle
+    <!-- END switch_move_profile -->
+<!-- BEGIN switch_move_profile -->
+    contenu sur lequel on boucle
+    <!-- END switch_move_profile -->
+<!-- BEGIN switch_move_profile -->
+    contenu sur lequel on boucle
+    <!-- END switch_move_profile -->
+<!-- BEGIN switch_move_profile -->
+    contenu sur lequel on boucle
+    <!-- END switch_move_profile -->
+<!-- BEGIN switch_move_profile -->
+    contenu sur lequel on boucle
+    <!-- END switch_move_profile -->
+<!-- BEGIN switch_move_profile -->
+    contenu sur lequel on boucle
+    <!-- END switch_move_profile -->
+<!-- BEGIN switch_move_profile -->
+    contenu sur lequel on boucle
+    <!-- END switch_move_profile -->
+<!-- BEGIN switch_move_profile -->
+    contenu sur lequel on boucle
+    <!-- END switch_move_profile -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_move_profile)

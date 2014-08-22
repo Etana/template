@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.switch_td_group}
+```smarty
+<!-- BEGIN memberrow -->
+    <!-- BEGIN switch_td_group -->
+        contenu sur lequel on boucle
+        <!-- END switch_td_group -->
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    <!-- BEGIN switch_td_group -->
+        contenu sur lequel on boucle
+        <!-- END switch_td_group -->
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    <!-- BEGIN switch_td_group -->
+        contenu sur lequel on boucle
+        <!-- END switch_td_group -->
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    <!-- BEGIN switch_td_group -->
+        contenu sur lequel on boucle
+        <!-- END switch_td_group -->
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)

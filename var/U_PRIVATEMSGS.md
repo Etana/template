@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`greeting_popup`](../tpl/greeting_popup.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_PRIVATEMSGS}
+{U_PRIVATEMSGS}
+{U_PRIVATEMSGS}
+{U_PRIVATEMSGS}
+{U_PRIVATEMSGS}
+{U_PRIVATEMSGS}
+{U_PRIVATEMSGS}
 {U_PRIVATEMSGS}
 ```
 

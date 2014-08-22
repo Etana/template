@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
-```html
-{switch_subscribe_group_input}
+```smarty
+<!-- BEGIN switch_subscribe_group_input -->
+    contenu sur lequel on boucle
+    <!-- END switch_subscribe_group_input -->
+<!-- BEGIN switch_subscribe_group_input -->
+    contenu sur lequel on boucle
+    <!-- END switch_subscribe_group_input -->
+<!-- BEGIN switch_subscribe_group_input -->
+    contenu sur lequel on boucle
+    <!-- END switch_subscribe_group_input -->
+<!-- BEGIN switch_subscribe_group_input -->
+    contenu sur lequel on boucle
+    <!-- END switch_subscribe_group_input -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_subscribe_group_input)

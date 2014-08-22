@@ -3,8 +3,40 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.ROW_CLASS}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.ROW_CLASS}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.ROW_CLASS)

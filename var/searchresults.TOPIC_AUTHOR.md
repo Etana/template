@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.TOPIC_AUTHOR}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_AUTHOR}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_AUTHOR}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_AUTHOR}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_AUTHOR}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_AUTHOR)

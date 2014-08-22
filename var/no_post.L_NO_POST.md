@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{no_post.L_NO_POST}
+```smarty
+<!-- BEGIN no_post -->
+    {no_post.L_NO_POST}
+    <!-- END no_post -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_post.L_NO_POST)

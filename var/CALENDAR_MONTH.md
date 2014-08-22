@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`calendar_body`](../tpl/calendar_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{CALENDAR_MONTH}
+{CALENDAR_MONTH}
+{CALENDAR_MONTH}
 {CALENDAR_MONTH}
 ```
 

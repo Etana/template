@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults}
+```smarty
+<!-- BEGIN searchresults -->
+    contenu sur lequel on boucle
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    contenu sur lequel on boucle
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    contenu sur lequel on boucle
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    contenu sur lequel on boucle
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    contenu sur lequel on boucle
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    contenu sur lequel on boucle
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    contenu sur lequel on boucle
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    contenu sur lequel on boucle
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults)

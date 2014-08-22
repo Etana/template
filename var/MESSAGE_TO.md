@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`privmsgs_preview`](../tpl/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{MESSAGE_TO}
+{MESSAGE_TO}
+{MESSAGE_TO}
 {MESSAGE_TO}
 ```
 

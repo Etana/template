@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{FOLDER_NEW_IMG}
+{FOLDER_NEW_IMG}
+{FOLDER_NEW_IMG}
 {FOLDER_NEW_IMG}
 ```
 

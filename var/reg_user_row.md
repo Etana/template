@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
-{reg_user_row}
+```smarty
+<!-- BEGIN reg_user_row -->
+    contenu sur lequel on boucle
+    <!-- END reg_user_row -->
+<!-- BEGIN reg_user_row -->
+    contenu sur lequel on boucle
+    <!-- END reg_user_row -->
+<!-- BEGIN reg_user_row -->
+    contenu sur lequel on boucle
+    <!-- END reg_user_row -->
+<!-- BEGIN reg_user_row -->
+    contenu sur lequel on boucle
+    <!-- END reg_user_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/reg_user_row)

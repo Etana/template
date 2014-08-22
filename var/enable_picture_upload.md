@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{enable_picture_upload}
+```smarty
+<!-- BEGIN enable_picture_upload -->
+    contenu sur lequel on boucle
+    <!-- END enable_picture_upload -->
+<!-- BEGIN enable_picture_upload -->
+    contenu sur lequel on boucle
+    <!-- END enable_picture_upload -->
+<!-- BEGIN enable_picture_upload -->
+    contenu sur lequel on boucle
+    <!-- END enable_picture_upload -->
+<!-- BEGIN enable_picture_upload -->
+    contenu sur lequel on boucle
+    <!-- END enable_picture_upload -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/enable_picture_upload)

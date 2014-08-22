@@ -3,7 +3,27 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
+{L_TIME}
 {L_TIME}
 ```
 

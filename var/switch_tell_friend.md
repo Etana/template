@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`profile_send_email`](../tpl/profile_send_email.md#readme)
 * __Utilisation :__
 
-```html
-{switch_tell_friend}
+```smarty
+<!-- BEGIN switch_tell_friend -->
+    contenu sur lequel on boucle
+    <!-- END switch_tell_friend -->
+<!-- BEGIN switch_tell_friend -->
+    contenu sur lequel on boucle
+    <!-- END switch_tell_friend -->
+<!-- BEGIN switch_tell_friend -->
+    contenu sur lequel on boucle
+    <!-- END switch_tell_friend -->
+<!-- BEGIN switch_tell_friend -->
+    contenu sur lequel on boucle
+    <!-- END switch_tell_friend -->
+<!-- BEGIN switch_tell_friend -->
+    contenu sur lequel on boucle
+    <!-- END switch_tell_friend -->
+<!-- BEGIN switch_tell_friend -->
+    contenu sur lequel on boucle
+    <!-- END switch_tell_friend -->
+<!-- BEGIN switch_tell_friend -->
+    contenu sur lequel on boucle
+    <!-- END switch_tell_friend -->
+<!-- BEGIN switch_tell_friend -->
+    contenu sur lequel on boucle
+    <!-- END switch_tell_friend -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_tell_friend)

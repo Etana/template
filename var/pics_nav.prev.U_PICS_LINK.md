@@ -3,8 +3,37 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
-{pics_nav.prev.U_PICS_LINK}
+```smarty
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN prev -->
+        {pics_nav.prev.U_PICS_LINK}
+        <!-- END prev -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN prev -->
+        {pics_nav.prev.U_PICS_LINK}
+        <!-- END prev -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN prev -->
+        {pics_nav.prev.U_PICS_LINK}
+        <!-- END prev -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN prev -->
+        {pics_nav.prev.U_PICS_LINK}
+        <!-- END prev -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN prev -->
+        {pics_nav.prev.U_PICS_LINK}
+        <!-- END prev -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN prev -->
+        {pics_nav.prev.U_PICS_LINK}
+        <!-- END prev -->
+    <!-- END pics_nav -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav.prev.U_PICS_LINK)

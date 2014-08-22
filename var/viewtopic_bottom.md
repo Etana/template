@@ -3,8 +3,25 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{viewtopic_bottom}
+```smarty
+<!-- BEGIN viewtopic_bottom -->
+    contenu sur lequel on boucle
+    <!-- END viewtopic_bottom -->
+<!-- BEGIN viewtopic_bottom -->
+    contenu sur lequel on boucle
+    <!-- END viewtopic_bottom -->
+<!-- BEGIN viewtopic_bottom -->
+    contenu sur lequel on boucle
+    <!-- END viewtopic_bottom -->
+<!-- BEGIN viewtopic_bottom -->
+    contenu sur lequel on boucle
+    <!-- END viewtopic_bottom -->
+<!-- BEGIN viewtopic_bottom -->
+    contenu sur lequel on boucle
+    <!-- END viewtopic_bottom -->
+<!-- BEGIN viewtopic_bottom -->
+    contenu sur lequel on boucle
+    <!-- END viewtopic_bottom -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/viewtopic_bottom)

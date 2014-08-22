@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_overview_top10`](../tpl/album_overview_top10.md#readme)
 * __Utilisation :__
 
-```html
-{switch_viewed}
+```smarty
+<!-- BEGIN switch_viewed -->
+    contenu sur lequel on boucle
+    <!-- END switch_viewed -->
+<!-- BEGIN switch_viewed -->
+    contenu sur lequel on boucle
+    <!-- END switch_viewed -->
+<!-- BEGIN switch_viewed -->
+    contenu sur lequel on boucle
+    <!-- END switch_viewed -->
+<!-- BEGIN switch_viewed -->
+    contenu sur lequel on boucle
+    <!-- END switch_viewed -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_viewed)

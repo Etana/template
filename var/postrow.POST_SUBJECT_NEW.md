@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.POST_SUBJECT_NEW}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.POST_SUBJECT_NEW}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POST_SUBJECT_NEW}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POST_SUBJECT_NEW}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.POST_SUBJECT_NEW)

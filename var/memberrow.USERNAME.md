@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.USERNAME}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.USERNAME}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.USERNAME}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.USERNAME}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.USERNAME}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.USERNAME)

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{V_CALE_DUR_MIN}
+{V_CALE_DUR_MIN}
+{V_CALE_DUR_MIN}
 {V_CALE_DUR_MIN}
 ```
 

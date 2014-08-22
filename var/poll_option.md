@@ -3,8 +3,55 @@
 * __Utilisable dans :__ [`poll_ballot`](../tpl/poll_ballot.md#readme), [`poll_result`](../tpl/poll_result.md#readme), [`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme), [`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
-```html
-{poll_option}
+```smarty
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
+<!-- BEGIN poll_option -->
+    contenu sur lequel on boucle
+    <!-- END poll_option -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option)

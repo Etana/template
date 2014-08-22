@@ -3,7 +3,22 @@
 * __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
+{U_POST_NEW_TOPIC}
 {U_POST_NEW_TOPIC}
 ```
 

@@ -3,7 +3,46 @@
 * __Utilisable dans :__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`merge_body`](../tpl/merge_body.md#readme), [`mod_search`](../tpl/mod_search.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
+{L_SEARCH}
 {L_SEARCH}
 ```
 

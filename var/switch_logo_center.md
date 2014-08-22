@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_logo_center}
+```smarty
+<!-- BEGIN switch_logo_center -->
+    contenu sur lequel on boucle
+    <!-- END switch_logo_center -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_logo_center)

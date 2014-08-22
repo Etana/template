@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
 * __Utilisation :__
 
-```html
-{member_row.USER_ID}
+```smarty
+<!-- BEGIN member_row -->
+    {member_row.USER_ID}
+    <!-- END member_row -->
+<!-- BEGIN member_row -->
+    {member_row.USER_ID}
+    <!-- END member_row -->
+<!-- BEGIN member_row -->
+    {member_row.USER_ID}
+    <!-- END member_row -->
+<!-- BEGIN member_row -->
+    {member_row.USER_ID}
+    <!-- END member_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/member_row.USER_ID)

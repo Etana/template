@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.U_VIEW_TOPIC}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.U_VIEW_TOPIC}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.U_VIEW_TOPIC}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.U_VIEW_TOPIC}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.U_VIEW_TOPIC}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.U_VIEW_TOPIC)

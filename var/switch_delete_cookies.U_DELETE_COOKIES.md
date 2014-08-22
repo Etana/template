@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_delete_cookies.U_DELETE_COOKIES}
+```smarty
+<!-- BEGIN switch_delete_cookies -->
+    {switch_delete_cookies.U_DELETE_COOKIES}
+    <!-- END switch_delete_cookies -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_delete_cookies.U_DELETE_COOKIES)

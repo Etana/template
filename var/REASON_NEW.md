@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{REASON_NEW}
+{REASON_NEW}
 {REASON_NEW}
 ```
 

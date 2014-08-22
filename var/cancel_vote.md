@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)
 * __Utilisation :__
 
-```html
-{cancel_vote}
+```smarty
+<!-- BEGIN cancel_vote -->
+    contenu sur lequel on boucle
+    <!-- END cancel_vote -->
+<!-- BEGIN cancel_vote -->
+    contenu sur lequel on boucle
+    <!-- END cancel_vote -->
+<!-- BEGIN cancel_vote -->
+    contenu sur lequel on boucle
+    <!-- END cancel_vote -->
+<!-- BEGIN cancel_vote -->
+    contenu sur lequel on boucle
+    <!-- END cancel_vote -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cancel_vote)

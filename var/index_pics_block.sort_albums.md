@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{index_pics_block.sort_albums}
+```smarty
+<!-- BEGIN index_pics_block -->
+    <!-- BEGIN sort_albums -->
+        contenu sur lequel on boucle
+        <!-- END sort_albums -->
+    <!-- END index_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.sort_albums)

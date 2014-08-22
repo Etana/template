@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`merge_body`](../tpl/merge_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {L_TOPIC_TITLE}
 ```
 

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SIGNATURE_EDIT}
+{SIGNATURE_EDIT}
+{SIGNATURE_EDIT}
 {SIGNATURE_EDIT}
 ```
 

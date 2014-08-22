@@ -3,7 +3,24 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
+{L_PASSWORD}
 {L_PASSWORD}
 ```
 

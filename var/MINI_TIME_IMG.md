@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`posting_preview`](../tpl/posting_preview.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {MINI_TIME_IMG}
 ```
 

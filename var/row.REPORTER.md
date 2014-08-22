@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme), [`report_view_body`](../tpl/report_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{row.REPORTER}
+```smarty
+<!-- BEGIN row -->
+    {row.REPORTER}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.REPORTER}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.REPORTER}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.REPORTER}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.REPORTER}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.REPORTER}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.REPORTER}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.REPORTER}
+    <!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.REPORTER)

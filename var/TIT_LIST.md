@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{TIT_LIST}
+{TIT_LIST}
+{TIT_LIST}
 {TIT_LIST}
 ```
 

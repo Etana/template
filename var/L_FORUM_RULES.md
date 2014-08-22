@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_FORUM_RULES}
+{L_FORUM_RULES}
+{L_FORUM_RULES}
+{L_FORUM_RULES}
+{L_FORUM_RULES}
+{L_FORUM_RULES}
+{L_FORUM_RULES}
 {L_FORUM_RULES}
 ```
 

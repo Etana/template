@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_auth_user}
+```smarty
+<!-- BEGIN switch_auth_user -->
+    contenu sur lequel on boucle
+    <!-- END switch_auth_user -->
+<!-- BEGIN switch_auth_user -->
+    contenu sur lequel on boucle
+    <!-- END switch_auth_user -->
+<!-- BEGIN switch_auth_user -->
+    contenu sur lequel on boucle
+    <!-- END switch_auth_user -->
+<!-- BEGIN switch_auth_user -->
+    contenu sur lequel on boucle
+    <!-- END switch_auth_user -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_auth_user)

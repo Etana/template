@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_delete}
+```smarty
+<!-- BEGIN switch_delete -->
+    contenu sur lequel on boucle
+    <!-- END switch_delete -->
+<!-- BEGIN switch_delete -->
+    contenu sur lequel on boucle
+    <!-- END switch_delete -->
+<!-- BEGIN switch_delete -->
+    contenu sur lequel on boucle
+    <!-- END switch_delete -->
+<!-- BEGIN switch_delete -->
+    contenu sur lequel on boucle
+    <!-- END switch_delete -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_delete)

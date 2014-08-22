@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_FOLDER_LOCKED_IMG}
+{L_FOLDER_LOCKED_IMG}
+{L_FOLDER_LOCKED_IMG}
+{L_FOLDER_LOCKED_IMG}
+{L_FOLDER_LOCKED_IMG}
+{L_FOLDER_LOCKED_IMG}
+{L_FOLDER_LOCKED_IMG}
 {L_FOLDER_LOCKED_IMG}
 ```
 

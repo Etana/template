@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_GOTO_DOWN}
+{L_GOTO_DOWN}
+{L_GOTO_DOWN}
+{L_GOTO_DOWN}
 {L_GOTO_DOWN}
 ```
 

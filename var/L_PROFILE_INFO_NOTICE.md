@@ -3,7 +3,8 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_PROFILE_INFO_NOTICE}
 {L_PROFILE_INFO_NOTICE}
 ```
 

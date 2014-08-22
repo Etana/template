@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{NUFF_RESIZE_CHECKED}
+{NUFF_RESIZE_CHECKED}
+{NUFF_RESIZE_CHECKED}
 {NUFF_RESIZE_CHECKED}
 ```
 

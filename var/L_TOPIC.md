@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TOPIC}
+{L_TOPIC}
+{L_TOPIC}
 {L_TOPIC}
 ```
 

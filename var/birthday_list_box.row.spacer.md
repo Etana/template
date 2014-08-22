@@ -3,8 +3,35 @@
 * __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{birthday_list_box.row.spacer}
+```smarty
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN spacer -->
+            contenu sur lequel on boucle
+            <!-- END spacer -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN spacer -->
+            contenu sur lequel on boucle
+            <!-- END spacer -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN spacer -->
+            contenu sur lequel on boucle
+            <!-- END spacer -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN spacer -->
+            contenu sur lequel on boucle
+            <!-- END spacer -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.spacer)

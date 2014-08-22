@@ -3,7 +3,31 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
+{S_ALBUM_ACTION}
 {S_ALBUM_ACTION}
 ```
 

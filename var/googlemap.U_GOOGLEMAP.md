@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
-{googlemap.U_GOOGLEMAP}
+```smarty
+<!-- BEGIN googlemap -->
+    {googlemap.U_GOOGLEMAP}
+    <!-- END googlemap -->
+<!-- BEGIN googlemap -->
+    {googlemap.U_GOOGLEMAP}
+    <!-- END googlemap -->
+<!-- BEGIN googlemap -->
+    {googlemap.U_GOOGLEMAP}
+    <!-- END googlemap -->
+<!-- BEGIN googlemap -->
+    {googlemap.U_GOOGLEMAP}
+    <!-- END googlemap -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)

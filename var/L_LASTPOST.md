@@ -3,7 +3,20 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
+{L_LASTPOST}
 {L_LASTPOST}
 ```
 

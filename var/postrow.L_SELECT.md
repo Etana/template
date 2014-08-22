@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.L_SELECT}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.L_SELECT}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.L_SELECT}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.L_SELECT}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.L_SELECT)

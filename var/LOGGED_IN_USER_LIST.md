@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
+{LOGGED_IN_USER_LIST}
 {LOGGED_IN_USER_LIST}
 ```
 

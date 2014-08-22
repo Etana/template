@@ -3,8 +3,25 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme)
 * __Utilisation :__
 
-```html
-{picrow.ROW_CLASS}
+```smarty
+<!-- BEGIN picrow -->
+    {picrow.ROW_CLASS}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.ROW_CLASS}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.ROW_CLASS}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.ROW_CLASS}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.ROW_CLASS}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.ROW_CLASS}
+    <!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.ROW_CLASS)

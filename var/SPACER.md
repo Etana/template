@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SPACER}
+{SPACER}
+{SPACER}
+{SPACER}
 {SPACER}
 ```
 

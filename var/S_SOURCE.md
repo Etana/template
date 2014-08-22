@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`standard`](../tpl/standard.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_SOURCE}
+{S_SOURCE}
+{S_SOURCE}
 {S_SOURCE}
 ```
 

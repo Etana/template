@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`report_view_body`](../tpl/report_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{row.STATUS_SELECT}
+```smarty
+<!-- BEGIN row -->
+    {row.STATUS_SELECT}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.STATUS_SELECT}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.STATUS_SELECT}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.STATUS_SELECT}
+    <!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.STATUS_SELECT)

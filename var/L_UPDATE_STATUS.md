@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`report_view_body`](../tpl/report_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_UPDATE_STATUS}
+{L_UPDATE_STATUS}
+{L_UPDATE_STATUS}
 {L_UPDATE_STATUS}
 ```
 

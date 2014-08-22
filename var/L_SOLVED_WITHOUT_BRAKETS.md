@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SOLVED_WITHOUT_BRAKETS}
+{L_SOLVED_WITHOUT_BRAKETS}
+{L_SOLVED_WITHOUT_BRAKETS}
 {L_SOLVED_WITHOUT_BRAKETS}
 ```
 

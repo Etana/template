@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_box_size_notice}
+```smarty
+<!-- BEGIN switch_box_size_notice -->
+    contenu sur lequel on boucle
+    <!-- END switch_box_size_notice -->
+<!-- BEGIN switch_box_size_notice -->
+    contenu sur lequel on boucle
+    <!-- END switch_box_size_notice -->
+<!-- BEGIN switch_box_size_notice -->
+    contenu sur lequel on boucle
+    <!-- END switch_box_size_notice -->
+<!-- BEGIN switch_box_size_notice -->
+    contenu sur lequel on boucle
+    <!-- END switch_box_size_notice -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_box_size_notice)

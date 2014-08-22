@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{switch_menu}
+```smarty
+<!-- BEGIN switch_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_menu -->
+<!-- BEGIN switch_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_menu -->
+<!-- BEGIN switch_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_menu)

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{MAX_TOPIC_LENGTH}
+{MAX_TOPIC_LENGTH}
+{MAX_TOPIC_LENGTH}
 {MAX_TOPIC_LENGTH}
 ```
 

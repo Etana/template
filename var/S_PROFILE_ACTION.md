@@ -3,7 +3,23 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
+{S_PROFILE_ACTION}
 {S_PROFILE_ACTION}
 ```
 

@@ -3,7 +3,26 @@
 * __Utilisable dans :__ [`greeting_popup`](../tpl/greeting_popup.md#readme), [`posting_smilies`](../tpl/posting_smilies.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_username`](../tpl/search_username.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
+{L_CLOSE_WINDOW}
 {L_CLOSE_WINDOW}
 ```
 

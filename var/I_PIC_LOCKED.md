@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{I_PIC_LOCKED}
+{I_PIC_LOCKED}
+{I_PIC_LOCKED}
 {I_PIC_LOCKED}
 ```
 

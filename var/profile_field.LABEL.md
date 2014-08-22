@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{profile_field.LABEL}
+```smarty
+<!-- BEGIN profile_field -->
+    {profile_field.LABEL}
+    <!-- END profile_field -->
+<!-- BEGIN profile_field -->
+    {profile_field.LABEL}
+    <!-- END profile_field -->
+<!-- BEGIN profile_field -->
+    {profile_field.LABEL}
+    <!-- END profile_field -->
+<!-- BEGIN profile_field -->
+    {profile_field.LABEL}
+    <!-- END profile_field -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/profile_field.LABEL)

@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_privmsg.switch_username.USERNAME}
+```smarty
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_username -->
+        {switch_privmsg.switch_username.USERNAME}
+        <!-- END switch_username -->
+    <!-- END switch_privmsg -->
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_username -->
+        {switch_privmsg.switch_username.USERNAME}
+        <!-- END switch_username -->
+    <!-- END switch_privmsg -->
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_username -->
+        {switch_privmsg.switch_username.USERNAME}
+        <!-- END switch_username -->
+    <!-- END switch_privmsg -->
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_username -->
+        {switch_privmsg.switch_username.USERNAME}
+        <!-- END switch_username -->
+    <!-- END switch_privmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)

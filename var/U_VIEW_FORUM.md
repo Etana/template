@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_VIEW_FORUM}
+{U_VIEW_FORUM}
+{U_VIEW_FORUM}
+{U_VIEW_FORUM}
+{U_VIEW_FORUM}
 {U_VIEW_FORUM}
 ```
 

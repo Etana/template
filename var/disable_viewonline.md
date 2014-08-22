@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{disable_viewonline}
+```smarty
+<!-- BEGIN disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END disable_viewonline -->
+<!-- BEGIN disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END disable_viewonline -->
+<!-- BEGIN disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END disable_viewonline -->
+<!-- BEGIN disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END disable_viewonline -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline)

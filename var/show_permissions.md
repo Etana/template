@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{show_permissions}
+```smarty
+<!-- BEGIN show_permissions -->
+    contenu sur lequel on boucle
+    <!-- END show_permissions -->
+<!-- BEGIN show_permissions -->
+    contenu sur lequel on boucle
+    <!-- END show_permissions -->
+<!-- BEGIN show_permissions -->
+    contenu sur lequel on boucle
+    <!-- END show_permissions -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/show_permissions)

@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`mod_statistics`](../tpl/mod_statistics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{NEWEST_USER}
+{NEWEST_USER}
+{NEWEST_USER}
+{NEWEST_USER}
+{NEWEST_USER}
+{NEWEST_USER}
+{NEWEST_USER}
 {NEWEST_USER}
 ```
 

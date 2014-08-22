@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`album_overview_top10`](../tpl/album_overview_top10.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_DATE}
+{L_DATE}
+{L_DATE}
+{L_DATE}
 {L_DATE}
 ```
 

@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {UNAPPROVAL_BUTTON}
 ```
 

@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_signature}
+```smarty
+<!-- BEGIN switch_signature -->
+    contenu sur lequel on boucle
+    <!-- END switch_signature -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_signature)

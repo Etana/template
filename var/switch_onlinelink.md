@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)
 * __Utilisation :__
 
-```html
-{switch_onlinelink}
+```smarty
+<!-- BEGIN switch_onlinelink -->
+    contenu sur lequel on boucle
+    <!-- END switch_onlinelink -->
+<!-- BEGIN switch_onlinelink -->
+    contenu sur lequel on boucle
+    <!-- END switch_onlinelink -->
+<!-- BEGIN switch_onlinelink -->
+    contenu sur lequel on boucle
+    <!-- END switch_onlinelink -->
+<!-- BEGIN switch_onlinelink -->
+    contenu sur lequel on boucle
+    <!-- END switch_onlinelink -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_onlinelink)

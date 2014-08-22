@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_NOTIFY_CHECKED}
+{S_NOTIFY_CHECKED}
+{S_NOTIFY_CHECKED}
 {S_NOTIFY_CHECKED}
 ```
 

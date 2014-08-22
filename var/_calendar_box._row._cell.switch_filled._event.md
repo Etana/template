@@ -3,8 +3,51 @@
 * __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
 * __Utilisation :__
 
-```html
-{_calendar_box._row._cell.switch_filled._event}
+```smarty
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _row -->
+        <!-- BEGIN _cell -->
+            <!-- BEGIN switch_filled -->
+                <!-- BEGIN _event -->
+                    contenu sur lequel on boucle
+                    <!-- END _event -->
+                <!-- END switch_filled -->
+            <!-- END _cell -->
+        <!-- END _row -->
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _row -->
+        <!-- BEGIN _cell -->
+            <!-- BEGIN switch_filled -->
+                <!-- BEGIN _event -->
+                    contenu sur lequel on boucle
+                    <!-- END _event -->
+                <!-- END switch_filled -->
+            <!-- END _cell -->
+        <!-- END _row -->
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _row -->
+        <!-- BEGIN _cell -->
+            <!-- BEGIN switch_filled -->
+                <!-- BEGIN _event -->
+                    contenu sur lequel on boucle
+                    <!-- END _event -->
+                <!-- END switch_filled -->
+            <!-- END _cell -->
+        <!-- END _row -->
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _row -->
+        <!-- BEGIN _cell -->
+            <!-- BEGIN switch_filled -->
+                <!-- BEGIN _event -->
+                    contenu sur lequel on boucle
+                    <!-- END _event -->
+                <!-- END switch_filled -->
+            <!-- END _cell -->
+        <!-- END _row -->
+    <!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event)

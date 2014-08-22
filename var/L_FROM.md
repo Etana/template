@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`privmsgs_preview`](../tpl/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_FROM}
+{L_FROM}
+{L_FROM}
+{L_FROM}
+{L_FROM}
+{L_FROM}
+{L_FROM}
+{L_FROM}
+{L_FROM}
+{L_FROM}
+{L_FROM}
 {L_FROM}
 ```
 

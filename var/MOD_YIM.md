@@ -3,8 +3,7 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
-```html
-{MOD_YIM}
+```smarty
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_YIM)

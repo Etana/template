@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_ticker.SPEED}
+```smarty
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SPEED}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SPEED}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SPEED}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SPEED}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SPEED}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SPEED}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SPEED}
+    <!-- END switch_ticker -->
+<!-- BEGIN switch_ticker -->
+    {switch_ticker.SPEED}
+    <!-- END switch_ticker -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.SPEED)

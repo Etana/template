@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{JAVASCRIPT}
+{JAVASCRIPT}
+{JAVASCRIPT}
+{JAVASCRIPT}
+{JAVASCRIPT}
 {JAVASCRIPT}
 ```
 

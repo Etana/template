@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
-{iprow.U_LOOKUP_IP}
+```smarty
+<!-- BEGIN iprow -->
+    {iprow.U_LOOKUP_IP}
+    <!-- END iprow -->
+<!-- BEGIN iprow -->
+    {iprow.U_LOOKUP_IP}
+    <!-- END iprow -->
+<!-- BEGIN iprow -->
+    {iprow.U_LOOKUP_IP}
+    <!-- END iprow -->
+<!-- BEGIN iprow -->
+    {iprow.U_LOOKUP_IP}
+    <!-- END iprow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/iprow.U_LOOKUP_IP)

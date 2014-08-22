@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.switch_user_website}
+```smarty
+<!-- BEGIN memberrow -->
+    <!-- BEGIN switch_user_website -->
+        contenu sur lequel on boucle
+        <!-- END switch_user_website -->
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_user_website)

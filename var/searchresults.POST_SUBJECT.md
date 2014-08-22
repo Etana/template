@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.POST_SUBJECT}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.POST_SUBJECT}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_SUBJECT)

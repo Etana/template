@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.LASTVISIT}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.LASTVISIT}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.LASTVISIT}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.LASTVISIT}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.LASTVISIT}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.LASTVISIT)

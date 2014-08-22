@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_SEND_PASSWORD}
+{U_SEND_PASSWORD}
+{U_SEND_PASSWORD}
+{U_SEND_PASSWORD}
+{U_SEND_PASSWORD}
+{U_SEND_PASSWORD}
+{U_SEND_PASSWORD}
 {U_SEND_PASSWORD}
 ```
 

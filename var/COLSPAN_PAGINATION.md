@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {COLSPAN_PAGINATION}
 ```
 

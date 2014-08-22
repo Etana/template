@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
-{topicrow.ICON}
+```smarty
+<!-- BEGIN topicrow -->
+    {topicrow.ICON}
+    <!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.ICON)

@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{DIRECTION}
+{DIRECTION}
 {DIRECTION}
 ```
 

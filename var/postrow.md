@@ -3,8 +3,55 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow}
+```smarty
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    contenu sur lequel on boucle
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow)

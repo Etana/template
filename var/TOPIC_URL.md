@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{TOPIC_URL}
+{TOPIC_URL}
+{TOPIC_URL}
+{TOPIC_URL}
+{TOPIC_URL}
+{TOPIC_URL}
+{TOPIC_URL}
 {TOPIC_URL}
 ```
 

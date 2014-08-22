@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow}
+```smarty
+<!-- BEGIN catrow -->
+    contenu sur lequel on boucle
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    contenu sur lequel on boucle
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    contenu sur lequel on boucle
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    contenu sur lequel on boucle
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow)

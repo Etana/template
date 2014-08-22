@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.line_sticky}
+```smarty
+<!-- BEGIN searchresults -->
+    <!-- BEGIN line_sticky -->
+        contenu sur lequel on boucle
+        <!-- END line_sticky -->
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.line_sticky)

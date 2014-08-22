@@ -3,7 +3,23 @@
 * __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`index_box`](../tpl/index_box.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
+{L_FORUM}
 {L_FORUM}
 ```
 

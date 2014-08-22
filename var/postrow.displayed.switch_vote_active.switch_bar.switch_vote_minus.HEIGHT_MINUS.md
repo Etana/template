@@ -3,8 +3,51 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_bar -->
+                <!-- BEGIN switch_vote_minus -->
+                    {postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS}
+                    <!-- END switch_vote_minus -->
+                <!-- END switch_bar -->
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_bar -->
+                <!-- BEGIN switch_vote_minus -->
+                    {postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS}
+                    <!-- END switch_vote_minus -->
+                <!-- END switch_bar -->
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_bar -->
+                <!-- BEGIN switch_vote_minus -->
+                    {postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS}
+                    <!-- END switch_vote_minus -->
+                <!-- END switch_bar -->
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_bar -->
+                <!-- BEGIN switch_vote_minus -->
+                    {postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS}
+                    <!-- END switch_vote_minus -->
+                <!-- END switch_bar -->
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS)

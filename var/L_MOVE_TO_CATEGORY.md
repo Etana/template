@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MOVE_TO_CATEGORY}
+{L_MOVE_TO_CATEGORY}
+{L_MOVE_TO_CATEGORY}
 {L_MOVE_TO_CATEGORY}
 ```
 

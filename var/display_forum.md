@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)
 * __Utilisation :__
 
-```html
-{display_forum}
+```smarty
+<!-- BEGIN display_forum -->
+    contenu sur lequel on boucle
+    <!-- END display_forum -->
+<!-- BEGIN display_forum -->
+    contenu sur lequel on boucle
+    <!-- END display_forum -->
+<!-- BEGIN display_forum -->
+    contenu sur lequel on boucle
+    <!-- END display_forum -->
+<!-- BEGIN display_forum -->
+    contenu sur lequel on boucle
+    <!-- END display_forum -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_forum)

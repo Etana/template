@@ -3,8 +3,49 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
-```html
-{switch_mod_option}
+```smarty
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
+<!-- BEGIN switch_mod_option -->
+    contenu sur lequel on boucle
+    <!-- END switch_mod_option -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_mod_option)

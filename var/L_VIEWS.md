@@ -3,7 +3,15 @@
 * __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_VIEWS}
+{L_VIEWS}
+{L_VIEWS}
+{L_VIEWS}
+{L_VIEWS}
+{L_VIEWS}
+{L_VIEWS}
+{L_VIEWS}
 {L_VIEWS}
 ```
 

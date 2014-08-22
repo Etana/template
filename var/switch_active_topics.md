@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{switch_active_topics}
+```smarty
+<!-- BEGIN switch_active_topics -->
+    contenu sur lequel on boucle
+    <!-- END switch_active_topics -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_active_topics)

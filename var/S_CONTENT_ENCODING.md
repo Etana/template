@@ -3,7 +3,30 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`search_body`](../tpl/search_body.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
+{S_CONTENT_ENCODING}
 {S_CONTENT_ENCODING}
 ```
 

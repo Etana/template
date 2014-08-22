@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_desc.SITE_DESCRIPTION}
+```smarty
+<!-- BEGIN switch_desc -->
+    {switch_desc.SITE_DESCRIPTION}
+    <!-- END switch_desc -->
+<!-- BEGIN switch_desc -->
+    {switch_desc.SITE_DESCRIPTION}
+    <!-- END switch_desc -->
+<!-- BEGIN switch_desc -->
+    {switch_desc.SITE_DESCRIPTION}
+    <!-- END switch_desc -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_desc.SITE_DESCRIPTION)

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_PENDING_MEMBERS}
+{L_PENDING_MEMBERS}
+{L_PENDING_MEMBERS}
 {L_PENDING_MEMBERS}
 ```
 

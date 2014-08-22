@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow}
+```smarty
+<!-- BEGIN memberrow -->
+    contenu sur lequel on boucle
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    contenu sur lequel on boucle
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    contenu sur lequel on boucle
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    contenu sur lequel on boucle
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow)

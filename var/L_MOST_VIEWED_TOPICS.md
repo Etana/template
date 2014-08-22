@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MOST_VIEWED_TOPICS}
+{L_MOST_VIEWED_TOPICS}
+{L_MOST_VIEWED_TOPICS}
+{L_MOST_VIEWED_TOPICS}
+{L_MOST_VIEWED_TOPICS}
+{L_MOST_VIEWED_TOPICS}
+{L_MOST_VIEWED_TOPICS}
 {L_MOST_VIEWED_TOPICS}
 ```
 

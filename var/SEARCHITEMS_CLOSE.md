@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {SEARCHITEMS_CLOSE}
 ```
 

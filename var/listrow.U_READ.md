@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
-{listrow.U_READ}
+```smarty
+<!-- BEGIN listrow -->
+    {listrow.U_READ}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.U_READ}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.U_READ}
+    <!-- END listrow -->
+<!-- BEGIN listrow -->
+    {listrow.U_READ}
+    <!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.U_READ)

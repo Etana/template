@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_h1.MAIN_SITENAME}
+```smarty
+<!-- BEGIN switch_h1 -->
+    {switch_h1.MAIN_SITENAME}
+    <!-- END switch_h1 -->
+<!-- BEGIN switch_h1 -->
+    {switch_h1.MAIN_SITENAME}
+    <!-- END switch_h1 -->
+<!-- BEGIN switch_h1 -->
+    {switch_h1.MAIN_SITENAME}
+    <!-- END switch_h1 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME)

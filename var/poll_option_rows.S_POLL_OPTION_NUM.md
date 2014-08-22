@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
 * __Utilisation :__
 
-```html
-{poll_option_rows.S_POLL_OPTION_NUM}
+```smarty
+<!-- BEGIN poll_option_rows -->
+    {poll_option_rows.S_POLL_OPTION_NUM}
+    <!-- END poll_option_rows -->
+<!-- BEGIN poll_option_rows -->
+    {poll_option_rows.S_POLL_OPTION_NUM}
+    <!-- END poll_option_rows -->
+<!-- BEGIN poll_option_rows -->
+    {poll_option_rows.S_POLL_OPTION_NUM}
+    <!-- END poll_option_rows -->
+<!-- BEGIN poll_option_rows -->
+    {poll_option_rows.S_POLL_OPTION_NUM}
+    <!-- END poll_option_rows -->
+<!-- BEGIN poll_option_rows -->
+    {poll_option_rows.S_POLL_OPTION_NUM}
+    <!-- END poll_option_rows -->
+<!-- BEGIN poll_option_rows -->
+    {poll_option_rows.S_POLL_OPTION_NUM}
+    <!-- END poll_option_rows -->
+<!-- BEGIN poll_option_rows -->
+    {poll_option_rows.S_POLL_OPTION_NUM}
+    <!-- END poll_option_rows -->
+<!-- BEGIN poll_option_rows -->
+    {poll_option_rows.S_POLL_OPTION_NUM}
+    <!-- END poll_option_rows -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_rows.S_POLL_OPTION_NUM)

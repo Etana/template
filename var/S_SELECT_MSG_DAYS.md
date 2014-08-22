@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_SELECT_MSG_DAYS}
+{S_SELECT_MSG_DAYS}
+{S_SELECT_MSG_DAYS}
 {S_SELECT_MSG_DAYS}
 ```
 

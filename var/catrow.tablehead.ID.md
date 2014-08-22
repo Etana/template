@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow.tablehead.ID}
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN tablehead -->
+        {catrow.tablehead.ID}
+        <!-- END tablehead -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN tablehead -->
+        {catrow.tablehead.ID}
+        <!-- END tablehead -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN tablehead -->
+        {catrow.tablehead.ID}
+        <!-- END tablehead -->
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.tablehead.ID)

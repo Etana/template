@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_user_login_form_header.switch_fb_connect}
+```smarty
+<!-- BEGIN switch_user_login_form_header -->
+    <!-- BEGIN switch_fb_connect -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_connect -->
+    <!-- END switch_user_login_form_header -->
+<!-- BEGIN switch_user_login_form_header -->
+    <!-- BEGIN switch_fb_connect -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_connect -->
+    <!-- END switch_user_login_form_header -->
+<!-- BEGIN switch_user_login_form_header -->
+    <!-- BEGIN switch_fb_connect -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_connect -->
+    <!-- END switch_user_login_form_header -->
+<!-- BEGIN switch_user_login_form_header -->
+    <!-- BEGIN switch_fb_connect -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_connect -->
+    <!-- END switch_user_login_form_header -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect)

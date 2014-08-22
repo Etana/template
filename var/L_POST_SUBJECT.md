@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_preview`](../tpl/posting_preview.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_POST_SUBJECT}
+{L_POST_SUBJECT}
+{L_POST_SUBJECT}
 {L_POST_SUBJECT}
 ```
 

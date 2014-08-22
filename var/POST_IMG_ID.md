@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
+{POST_IMG_ID}
 {POST_IMG_ID}
 ```
 

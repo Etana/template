@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
-{display_infos}
+```smarty
+<!-- BEGIN display_infos -->
+    contenu sur lequel on boucle
+    <!-- END display_infos -->
+<!-- BEGIN display_infos -->
+    contenu sur lequel on boucle
+    <!-- END display_infos -->
+<!-- BEGIN display_infos -->
+    contenu sur lequel on boucle
+    <!-- END display_infos -->
+<!-- BEGIN display_infos -->
+    contenu sur lequel on boucle
+    <!-- END display_infos -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos)

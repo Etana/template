@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme)
 * __Utilisation :__
 
-```html
-{picrow.APPROVAL}
+```smarty
+<!-- BEGIN picrow -->
+    {picrow.APPROVAL}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.APPROVAL}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.APPROVAL}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.APPROVAL}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.APPROVAL}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.APPROVAL}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.APPROVAL}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.APPROVAL}
+    <!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.APPROVAL)

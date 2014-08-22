@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_smilies`](../tpl/posting_smilies.md#readme)
 * __Utilisation :__
 
-```html
-{switch_smilies_extra}
+```smarty
+<!-- BEGIN switch_smilies_extra -->
+    contenu sur lequel on boucle
+    <!-- END switch_smilies_extra -->
+<!-- BEGIN switch_smilies_extra -->
+    contenu sur lequel on boucle
+    <!-- END switch_smilies_extra -->
+<!-- BEGIN switch_smilies_extra -->
+    contenu sur lequel on boucle
+    <!-- END switch_smilies_extra -->
+<!-- BEGIN switch_smilies_extra -->
+    contenu sur lequel on boucle
+    <!-- END switch_smilies_extra -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_smilies_extra)

@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{birthday_list_box.FIELDNAME}
+```smarty
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FIELDNAME}
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    {birthday_list_box.FIELDNAME}
+    <!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.FIELDNAME)

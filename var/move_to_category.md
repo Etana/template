@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme)
 * __Utilisation :__
 
-```html
-{move_to_category}
+```smarty
+<!-- BEGIN move_to_category -->
+    contenu sur lequel on boucle
+    <!-- END move_to_category -->
+<!-- BEGIN move_to_category -->
+    contenu sur lequel on boucle
+    <!-- END move_to_category -->
+<!-- BEGIN move_to_category -->
+    contenu sur lequel on boucle
+    <!-- END move_to_category -->
+<!-- BEGIN move_to_category -->
+    contenu sur lequel on boucle
+    <!-- END move_to_category -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/move_to_category)

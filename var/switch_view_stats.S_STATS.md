@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`simple_footer`](../tpl/simple_footer.md#readme)
 * __Utilisation :__
 
-```html
-{switch_view_stats.S_STATS}
+```smarty
+<!-- BEGIN switch_view_stats -->
+    {switch_view_stats.S_STATS}
+    <!-- END switch_view_stats -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_view_stats.S_STATS)

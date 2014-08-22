@@ -3,8 +3,7 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{L_GOTO_PAGE}
+```smarty
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GOTO_PAGE)

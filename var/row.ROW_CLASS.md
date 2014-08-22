@@ -3,8 +3,28 @@
 * __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme)
 * __Utilisation :__
 
-```html
-{row.ROW_CLASS}
+```smarty
+<!-- BEGIN row -->
+    {row.ROW_CLASS}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.ROW_CLASS}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.ROW_CLASS}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.ROW_CLASS}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.ROW_CLASS}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.ROW_CLASS}
+    <!-- END row -->
+<!-- BEGIN row -->
+    {row.ROW_CLASS}
+    <!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.ROW_CLASS)

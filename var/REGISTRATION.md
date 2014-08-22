@@ -3,7 +3,8 @@
 * __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{REGISTRATION}
 {REGISTRATION}
 ```
 

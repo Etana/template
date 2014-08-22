@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_no_messages}
+```smarty
+<!-- BEGIN switch_no_messages -->
+    contenu sur lequel on boucle
+    <!-- END switch_no_messages -->
+<!-- BEGIN switch_no_messages -->
+    contenu sur lequel on boucle
+    <!-- END switch_no_messages -->
+<!-- BEGIN switch_no_messages -->
+    contenu sur lequel on boucle
+    <!-- END switch_no_messages -->
+<!-- BEGIN switch_no_messages -->
+    contenu sur lequel on boucle
+    <!-- END switch_no_messages -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_messages)

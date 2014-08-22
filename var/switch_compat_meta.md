@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_compat_meta}
+```smarty
+<!-- BEGIN switch_compat_meta -->
+    contenu sur lequel on boucle
+    <!-- END switch_compat_meta -->
+<!-- BEGIN switch_compat_meta -->
+    contenu sur lequel on boucle
+    <!-- END switch_compat_meta -->
+<!-- BEGIN switch_compat_meta -->
+    contenu sur lequel on boucle
+    <!-- END switch_compat_meta -->
+<!-- BEGIN switch_compat_meta -->
+    contenu sur lequel on boucle
+    <!-- END switch_compat_meta -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta)

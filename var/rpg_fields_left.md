@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`rpg_sheet`](../tpl/rpg_sheet.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
-```html
-{rpg_fields_left}
+```smarty
+<!-- BEGIN rpg_fields_left -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- BEGIN rpg_fields_left -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields_left)

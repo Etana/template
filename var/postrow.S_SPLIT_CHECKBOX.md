@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.S_SPLIT_CHECKBOX}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.S_SPLIT_CHECKBOX}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.S_SPLIT_CHECKBOX}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.S_SPLIT_CHECKBOX}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.S_SPLIT_CHECKBOX}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.S_SPLIT_CHECKBOX)

@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_ticker_new.ticker_row}
+```smarty
+<!-- BEGIN switch_ticker_new -->
+    <!-- BEGIN ticker_row -->
+        contenu sur lequel on boucle
+        <!-- END ticker_row -->
+    <!-- END switch_ticker_new -->
+<!-- BEGIN switch_ticker_new -->
+    <!-- BEGIN ticker_row -->
+        contenu sur lequel on boucle
+        <!-- END ticker_row -->
+    <!-- END switch_ticker_new -->
+<!-- BEGIN switch_ticker_new -->
+    <!-- BEGIN ticker_row -->
+        contenu sur lequel on boucle
+        <!-- END ticker_row -->
+    <!-- END switch_ticker_new -->
+<!-- BEGIN switch_ticker_new -->
+    <!-- BEGIN ticker_row -->
+        contenu sur lequel on boucle
+        <!-- END ticker_row -->
+    <!-- END switch_ticker_new -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker_new.ticker_row)

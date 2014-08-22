@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`mod_statistics`](../tpl/mod_statistics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{TOTAL_TOPICS}
+{TOTAL_TOPICS}
+{TOTAL_TOPICS}
 {TOTAL_TOPICS}
 ```
 

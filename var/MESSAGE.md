@@ -3,7 +3,24 @@
 * __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_preview`](../tpl/posting_preview.md#readme), [`privmsgs_preview`](../tpl/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`profile_send_email`](../tpl/profile_send_email.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
+{MESSAGE}
 {MESSAGE}
 ```
 

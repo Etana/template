@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{DO_NOT_AGREE}
+{DO_NOT_AGREE}
+{DO_NOT_AGREE}
 {DO_NOT_AGREE}
 ```
 

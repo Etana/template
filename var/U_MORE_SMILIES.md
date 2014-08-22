@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`posting_smilies`](../tpl/posting_smilies.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_MORE_SMILIES}
+{U_MORE_SMILIES}
+{U_MORE_SMILIES}
+{U_MORE_SMILIES}
+{U_MORE_SMILIES}
+{U_MORE_SMILIES}
+{U_MORE_SMILIES}
 {U_MORE_SMILIES}
 ```
 

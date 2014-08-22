@@ -3,7 +3,23 @@
 * __Utilisable dans :__ [`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme), [`merge_body`](../tpl/merge_body.md#readme), [`merge_select_body`](../tpl/merge_select_body.md#readme), [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
+{L_TITLE}
 {L_TITLE}
 ```
 

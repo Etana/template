@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{POLL_HIDE_RESULT_CHECKED}
+{POLL_HIDE_RESULT_CHECKED}
+{POLL_HIDE_RESULT_CHECKED}
 {POLL_HIDE_RESULT_CHECKED}
 ```
 

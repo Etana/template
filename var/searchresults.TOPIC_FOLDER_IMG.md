@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.TOPIC_FOLDER_IMG}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_FOLDER_IMG}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_FOLDER_IMG}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_FOLDER_IMG}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_FOLDER_IMG}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.TOPIC_FOLDER_IMG}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)

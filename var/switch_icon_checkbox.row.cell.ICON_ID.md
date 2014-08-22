@@ -3,8 +3,91 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_icon_checkbox.row.cell.ICON_ID}
+```smarty
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- BEGIN switch_icon_checkbox -->
+    <!-- BEGIN row -->
+        <!-- BEGIN cell -->
+            {switch_icon_checkbox.row.cell.ICON_ID}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_ID)

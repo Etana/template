@@ -3,8 +3,14 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow.cathead.inc.INC_CLASS}
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN cathead -->
+        <!-- BEGIN inc -->
+            {catrow.cathead.inc.INC_CLASS}
+            <!-- END inc -->
+        <!-- END cathead -->
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.inc.INC_CLASS)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_reasons}
+```smarty
+<!-- BEGIN switch_reasons -->
+    contenu sur lequel on boucle
+    <!-- END switch_reasons -->
+<!-- BEGIN switch_reasons -->
+    contenu sur lequel on boucle
+    <!-- END switch_reasons -->
+<!-- BEGIN switch_reasons -->
+    contenu sur lequel on boucle
+    <!-- END switch_reasons -->
+<!-- BEGIN switch_reasons -->
+    contenu sur lequel on boucle
+    <!-- END switch_reasons -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_reasons)

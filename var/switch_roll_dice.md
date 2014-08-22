@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_roll_dice}
+```smarty
+<!-- BEGIN switch_roll_dice -->
+    contenu sur lequel on boucle
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    contenu sur lequel on boucle
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    contenu sur lequel on boucle
+    <!-- END switch_roll_dice -->
+<!-- BEGIN switch_roll_dice -->
+    contenu sur lequel on boucle
+    <!-- END switch_roll_dice -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice)

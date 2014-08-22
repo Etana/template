@@ -3,8 +3,28 @@
 * __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
-{bot_user_row.ROW_CLASS}
+```smarty
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.ROW_CLASS}
+    <!-- END bot_user_row -->
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.ROW_CLASS}
+    <!-- END bot_user_row -->
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.ROW_CLASS}
+    <!-- END bot_user_row -->
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.ROW_CLASS}
+    <!-- END bot_user_row -->
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.ROW_CLASS}
+    <!-- END bot_user_row -->
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.ROW_CLASS}
+    <!-- END bot_user_row -->
+<!-- BEGIN bot_user_row -->
+    {bot_user_row.ROW_CLASS}
+    <!-- END bot_user_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/bot_user_row.ROW_CLASS)

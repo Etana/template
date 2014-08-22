@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_CATEGORY}
+{L_CATEGORY}
+{L_CATEGORY}
 {L_CATEGORY}
 ```
 

@@ -3,7 +3,29 @@
 * __Utilisable dans :__ [`greeting_popup`](../tpl/greeting_popup.md#readme), [`modcp_viewip`](../tpl/modcp_viewip.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`privmsgs_preview`](../tpl/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`profile_send_email`](../tpl/profile_send_email.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
+{L_SUBJECT}
 {L_SUBJECT}
 ```
 

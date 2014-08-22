@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_groupmsg}
+```smarty
+<!-- BEGIN switch_groupmsg -->
+    contenu sur lequel on boucle
+    <!-- END switch_groupmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groupmsg)

@@ -3,7 +3,8 @@
 * __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_FORUM_OPTIONS}
 {L_FORUM_OPTIONS}
 ```
 

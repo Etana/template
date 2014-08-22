@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`posting_smilies`](../tpl/posting_smilies.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
+{L_VIEW_MORE}
 {L_VIEW_MORE}
 ```
 

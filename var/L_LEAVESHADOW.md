@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`modcp_move`](../tpl/modcp_move.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_LEAVESHADOW}
+{L_LEAVESHADOW}
+{L_LEAVESHADOW}
 {L_LEAVESHADOW}
 ```
 

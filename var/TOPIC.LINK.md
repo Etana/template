@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme), [`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)
 * __Utilisation :__
 
-```html
-{TOPIC.LINK}
+```smarty
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+    <!-- END TOPIC -->
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+    <!-- END TOPIC -->
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+    <!-- END TOPIC -->
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+    <!-- END TOPIC -->
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+    <!-- END TOPIC -->
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+    <!-- END TOPIC -->
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+    <!-- END TOPIC -->
+<!-- BEGIN TOPIC -->
+    {TOPIC.LINK}
+    <!-- END TOPIC -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC.LINK)

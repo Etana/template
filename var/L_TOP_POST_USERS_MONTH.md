@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TOP_POST_USERS_MONTH}
+{L_TOP_POST_USERS_MONTH}
+{L_TOP_POST_USERS_MONTH}
+{L_TOP_POST_USERS_MONTH}
+{L_TOP_POST_USERS_MONTH}
+{L_TOP_POST_USERS_MONTH}
+{L_TOP_POST_USERS_MONTH}
 {L_TOP_POST_USERS_MONTH}
 ```
 

@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_CATEGORY_SELECT}
+{S_CATEGORY_SELECT}
+{S_CATEGORY_SELECT}
+{S_CATEGORY_SELECT}
+{S_CATEGORY_SELECT}
+{S_CATEGORY_SELECT}
+{S_CATEGORY_SELECT}
 {S_CATEGORY_SELECT}
 ```
 

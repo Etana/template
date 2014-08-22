@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{topics_list_box.row.topic.icon}
+```smarty
+<!-- BEGIN topics_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN topic -->
+            <!-- BEGIN icon -->
+                contenu sur lequel on boucle
+                <!-- END icon -->
+            <!-- END topic -->
+        <!-- END row -->
+    <!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.icon)

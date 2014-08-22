@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
 * __Utilisation :__
 
-```html
-{userrow.ROW_CLASS}
+```smarty
+<!-- BEGIN userrow -->
+    {userrow.ROW_CLASS}
+    <!-- END userrow -->
+<!-- BEGIN userrow -->
+    {userrow.ROW_CLASS}
+    <!-- END userrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow.ROW_CLASS)

@@ -3,7 +3,13 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_ADMIN_RPG}
+{U_ADMIN_RPG}
+{U_ADMIN_RPG}
+{U_ADMIN_RPG}
+{U_ADMIN_RPG}
+{U_ADMIN_RPG}
 {U_ADMIN_RPG}
 ```
 

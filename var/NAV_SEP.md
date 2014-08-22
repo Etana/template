@@ -3,7 +3,34 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_cat_top10`](../tpl/album_cat_top10.md#readme), [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_index_body`](../tpl/album_index_body.md#readme), [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme), [`album_search_body`](../tpl/album_search_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
+{NAV_SEP}
 {NAV_SEP}
 ```
 

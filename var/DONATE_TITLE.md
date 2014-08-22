@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{DONATE_TITLE}
+{DONATE_TITLE}
+{DONATE_TITLE}
+{DONATE_TITLE}
+{DONATE_TITLE}
 {DONATE_TITLE}
 ```
 

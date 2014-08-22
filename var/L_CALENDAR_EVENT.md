@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_CALENDAR_EVENT}
+{L_CALENDAR_EVENT}
+{L_CALENDAR_EVENT}
 {L_CALENDAR_EVENT}
 ```
 

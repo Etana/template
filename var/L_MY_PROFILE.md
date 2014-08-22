@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme), [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MY_PROFILE}
+{L_MY_PROFILE}
+{L_MY_PROFILE}
+{L_MY_PROFILE}
+{L_MY_PROFILE}
+{L_MY_PROFILE}
+{L_MY_PROFILE}
 {L_MY_PROFILE}
 ```
 

@@ -3,8 +3,28 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.contact_field.CONTENT}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN contact_field -->
+            {postrow.displayed.contact_field.CONTENT}
+            <!-- END contact_field -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN contact_field -->
+            {postrow.displayed.contact_field.CONTENT}
+            <!-- END contact_field -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN contact_field -->
+            {postrow.displayed.contact_field.CONTENT}
+            <!-- END contact_field -->
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field.CONTENT)

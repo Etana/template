@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{V_DISABLE_SMILIES}
+{V_DISABLE_SMILIES}
+{V_DISABLE_SMILIES}
 {V_DISABLE_SMILIES}
 ```
 

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_WHOSBIRTHDAY_TODAY}
+{L_WHOSBIRTHDAY_TODAY}
+{L_WHOSBIRTHDAY_TODAY}
 {L_WHOSBIRTHDAY_TODAY}
 ```
 

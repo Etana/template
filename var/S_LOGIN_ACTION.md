@@ -3,7 +3,26 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`mod_login`](../tpl/mod_login.md#readme), [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
+{S_LOGIN_ACTION}
 {S_LOGIN_ACTION}
 ```
 

@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`profile_send_email`](../tpl/profile_send_email.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_POST_ACTION}
+{S_POST_ACTION}
+{S_POST_ACTION}
+{S_POST_ACTION}
+{S_POST_ACTION}
+{S_POST_ACTION}
+{S_POST_ACTION}
 {S_POST_ACTION}
 ```
 

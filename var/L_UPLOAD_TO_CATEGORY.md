@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_UPLOAD_TO_CATEGORY}
+{L_UPLOAD_TO_CATEGORY}
+{L_UPLOAD_TO_CATEGORY}
 {L_UPLOAD_TO_CATEGORY}
 ```
 

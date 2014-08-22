@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{LAST_VISIT_TIME}
+{LAST_VISIT_TIME}
+{LAST_VISIT_TIME}
 {LAST_VISIT_TIME}
 ```
 

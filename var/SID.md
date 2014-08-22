@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SID}
+{SID}
+{SID}
+{SID}
+{SID}
+{SID}
+{SID}
 {SID}
 ```
 

@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_attachment_list.attachments.ATTACH_ID}
+```smarty
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        {switch_attachment_list.attachments.ATTACH_ID}
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        {switch_attachment_list.attachments.ATTACH_ID}
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        {switch_attachment_list.attachments.ATTACH_ID}
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        {switch_attachment_list.attachments.ATTACH_ID}
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_ID)

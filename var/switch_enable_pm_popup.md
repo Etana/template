@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_enable_pm_popup}
+```smarty
+<!-- BEGIN switch_enable_pm_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_enable_pm_popup -->
+<!-- BEGIN switch_enable_pm_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_enable_pm_popup -->
+<!-- BEGIN switch_enable_pm_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_enable_pm_popup -->
+<!-- BEGIN switch_enable_pm_popup -->
+    contenu sur lequel on boucle
+    <!-- END switch_enable_pm_popup -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)

@@ -3,7 +3,20 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_poll_body`](../tpl/posting_poll_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
+{TABS_MORE_IMG}
 {TABS_MORE_IMG}
 ```
 

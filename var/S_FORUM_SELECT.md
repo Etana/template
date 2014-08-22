@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`modcp_move`](../tpl/modcp_move.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_FORUM_SELECT}
+{S_FORUM_SELECT}
+{S_FORUM_SELECT}
+{S_FORUM_SELECT}
+{S_FORUM_SELECT}
+{S_FORUM_SELECT}
+{S_FORUM_SELECT}
 {S_FORUM_SELECT}
 ```
 

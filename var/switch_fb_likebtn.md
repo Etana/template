@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_fb_likebtn}
+```smarty
+<!-- BEGIN switch_fb_likebtn -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_likebtn -->
+<!-- BEGIN switch_fb_likebtn -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_likebtn -->
+<!-- BEGIN switch_fb_likebtn -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_likebtn -->
+<!-- BEGIN switch_fb_likebtn -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_likebtn -->
+<!-- BEGIN switch_fb_likebtn -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_likebtn -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)

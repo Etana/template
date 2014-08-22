@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`search_username`](../tpl/search_username.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_USERNAME_OPTIONS}
+{S_USERNAME_OPTIONS}
+{S_USERNAME_OPTIONS}
 {S_USERNAME_OPTIONS}
 ```
 

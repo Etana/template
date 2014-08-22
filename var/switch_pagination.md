@@ -3,8 +3,25 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_pagination}
+```smarty
+<!-- BEGIN switch_pagination -->
+    contenu sur lequel on boucle
+    <!-- END switch_pagination -->
+<!-- BEGIN switch_pagination -->
+    contenu sur lequel on boucle
+    <!-- END switch_pagination -->
+<!-- BEGIN switch_pagination -->
+    contenu sur lequel on boucle
+    <!-- END switch_pagination -->
+<!-- BEGIN switch_pagination -->
+    contenu sur lequel on boucle
+    <!-- END switch_pagination -->
+<!-- BEGIN switch_pagination -->
+    contenu sur lequel on boucle
+    <!-- END switch_pagination -->
+<!-- BEGIN switch_pagination -->
+    contenu sur lequel on boucle
+    <!-- END switch_pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_pagination)

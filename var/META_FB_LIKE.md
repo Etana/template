@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{META_FB_LIKE}
+{META_FB_LIKE}
+{META_FB_LIKE}
 {META_FB_LIKE}
 ```
 

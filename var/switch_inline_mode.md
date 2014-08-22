@@ -3,8 +3,37 @@
 * __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
-{switch_inline_mode}
+```smarty
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
+<!-- BEGIN switch_inline_mode -->
+    contenu sur lequel on boucle
+    <!-- END switch_inline_mode -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_inline_mode)

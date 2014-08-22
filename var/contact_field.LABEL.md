@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{contact_field.LABEL}
+```smarty
+<!-- BEGIN contact_field -->
+    {contact_field.LABEL}
+    <!-- END contact_field -->
+<!-- BEGIN contact_field -->
+    {contact_field.LABEL}
+    <!-- END contact_field -->
+<!-- BEGIN contact_field -->
+    {contact_field.LABEL}
+    <!-- END contact_field -->
+<!-- BEGIN contact_field -->
+    {contact_field.LABEL}
+    <!-- END contact_field -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/contact_field.LABEL)

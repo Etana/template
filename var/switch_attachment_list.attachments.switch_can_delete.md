@@ -3,8 +3,14 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_attachment_list.attachments.switch_can_delete}
+```smarty
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        <!-- BEGIN switch_can_delete -->
+            contenu sur lequel on boucle
+            <!-- END switch_can_delete -->
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_can_delete)

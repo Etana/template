@@ -3,7 +3,15 @@
 * __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme), [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{ICON_TIME}
+{ICON_TIME}
+{ICON_TIME}
+{ICON_TIME}
+{ICON_TIME}
+{ICON_TIME}
+{ICON_TIME}
+{ICON_TIME}
 {ICON_TIME}
 ```
 

@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{LOGIN_POPUP_HEIGHT}
+{LOGIN_POPUP_HEIGHT}
+{LOGIN_POPUP_HEIGHT}
+{LOGIN_POPUP_HEIGHT}
 {LOGIN_POPUP_HEIGHT}
 ```
 

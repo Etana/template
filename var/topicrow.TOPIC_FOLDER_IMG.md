@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
-{topicrow.TOPIC_FOLDER_IMG}
+```smarty
+<!-- BEGIN topicrow -->
+    {topicrow.TOPIC_FOLDER_IMG}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.TOPIC_FOLDER_IMG}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.TOPIC_FOLDER_IMG}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.TOPIC_FOLDER_IMG}
+    <!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{switch_on_index}
+```smarty
+<!-- BEGIN switch_on_index -->
+    contenu sur lequel on boucle
+    <!-- END switch_on_index -->
+<!-- BEGIN switch_on_index -->
+    contenu sur lequel on boucle
+    <!-- END switch_on_index -->
+<!-- BEGIN switch_on_index -->
+    contenu sur lequel on boucle
+    <!-- END switch_on_index -->
+<!-- BEGIN switch_on_index -->
+    contenu sur lequel on boucle
+    <!-- END switch_on_index -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_on_index)

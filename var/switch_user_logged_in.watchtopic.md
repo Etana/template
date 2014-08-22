@@ -3,8 +3,22 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_user_logged_in.watchtopic}
+```smarty
+<!-- BEGIN switch_user_logged_in -->
+    <!-- BEGIN watchtopic -->
+        contenu sur lequel on boucle
+        <!-- END watchtopic -->
+    <!-- END switch_user_logged_in -->
+<!-- BEGIN switch_user_logged_in -->
+    <!-- BEGIN watchtopic -->
+        contenu sur lequel on boucle
+        <!-- END watchtopic -->
+    <!-- END switch_user_logged_in -->
+<!-- BEGIN switch_user_logged_in -->
+    <!-- BEGIN watchtopic -->
+        contenu sur lequel on boucle
+        <!-- END watchtopic -->
+    <!-- END switch_user_logged_in -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)

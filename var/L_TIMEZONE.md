@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TIMEZONE}
+{L_TIMEZONE}
+{L_TIMEZONE}
 {L_TIMEZONE}
 ```
 

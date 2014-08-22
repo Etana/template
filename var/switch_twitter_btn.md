@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_twitter_btn}
+```smarty
+<!-- BEGIN switch_twitter_btn -->
+    contenu sur lequel on boucle
+    <!-- END switch_twitter_btn -->
+<!-- BEGIN switch_twitter_btn -->
+    contenu sur lequel on boucle
+    <!-- END switch_twitter_btn -->
+<!-- BEGIN switch_twitter_btn -->
+    contenu sur lequel on boucle
+    <!-- END switch_twitter_btn -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_twitter_btn)

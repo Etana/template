@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{POST_PM_IMG}
+{POST_PM_IMG}
+{POST_PM_IMG}
+{POST_PM_IMG}
+{POST_PM_IMG}
+{POST_PM_IMG}
+{POST_PM_IMG}
 {POST_PM_IMG}
 ```
 

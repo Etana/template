@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_TOP_POST_USERS_WEEK}
+{L_TOP_POST_USERS_WEEK}
+{L_TOP_POST_USERS_WEEK}
+{L_TOP_POST_USERS_WEEK}
+{L_TOP_POST_USERS_WEEK}
+{L_TOP_POST_USERS_WEEK}
+{L_TOP_POST_USERS_WEEK}
 {L_TOP_POST_USERS_WEEK}
 ```
 

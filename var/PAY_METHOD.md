@@ -3,7 +3,22 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
+{PAY_METHOD}
 {PAY_METHOD}
 ```
 

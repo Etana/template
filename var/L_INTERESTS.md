@@ -3,7 +3,12 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme), [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_INTERESTS}
+{L_INTERESTS}
+{L_INTERESTS}
+{L_INTERESTS}
+{L_INTERESTS}
 {L_INTERESTS}
 ```
 

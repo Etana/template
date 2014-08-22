@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{view_moderation}
+```smarty
+<!-- BEGIN view_moderation -->
+    contenu sur lequel on boucle
+    <!-- END view_moderation -->
+<!-- BEGIN view_moderation -->
+    contenu sur lequel on boucle
+    <!-- END view_moderation -->
+<!-- BEGIN view_moderation -->
+    contenu sur lequel on boucle
+    <!-- END view_moderation -->
+<!-- BEGIN view_moderation -->
+    contenu sur lequel on boucle
+    <!-- END view_moderation -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/view_moderation)

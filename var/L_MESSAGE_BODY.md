@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`profile_send_email`](../tpl/profile_send_email.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MESSAGE_BODY}
+{L_MESSAGE_BODY}
+{L_MESSAGE_BODY}
+{L_MESSAGE_BODY}
 {L_MESSAGE_BODY}
 ```
 

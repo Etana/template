@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{hitskin_preview.U_RETURN_THEME}
+```smarty
+<!-- BEGIN hitskin_preview -->
+    {hitskin_preview.U_RETURN_THEME}
+    <!-- END hitskin_preview -->
+<!-- BEGIN hitskin_preview -->
+    {hitskin_preview.U_RETURN_THEME}
+    <!-- END hitskin_preview -->
+<!-- BEGIN hitskin_preview -->
+    {hitskin_preview.U_RETURN_THEME}
+    <!-- END hitskin_preview -->
+<!-- BEGIN hitskin_preview -->
+    {hitskin_preview.U_RETURN_THEME}
+    <!-- END hitskin_preview -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.U_RETURN_THEME)

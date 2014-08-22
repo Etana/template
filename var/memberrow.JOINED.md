@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.JOINED}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.JOINED}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.JOINED}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.JOINED}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.JOINED}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.JOINED)

@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_privmsg.switch_privmsg_group.MASS_PM}
+```smarty
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_privmsg_group -->
+        {switch_privmsg.switch_privmsg_group.MASS_PM}
+        <!-- END switch_privmsg_group -->
+    <!-- END switch_privmsg -->
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_privmsg_group -->
+        {switch_privmsg.switch_privmsg_group.MASS_PM}
+        <!-- END switch_privmsg_group -->
+    <!-- END switch_privmsg -->
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_privmsg_group -->
+        {switch_privmsg.switch_privmsg_group.MASS_PM}
+        <!-- END switch_privmsg_group -->
+    <!-- END switch_privmsg -->
+<!-- BEGIN switch_privmsg -->
+    <!-- BEGIN switch_privmsg_group -->
+        {switch_privmsg.switch_privmsg_group.MASS_PM}
+        <!-- END switch_privmsg_group -->
+    <!-- END switch_privmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM)

@@ -3,8 +3,17 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{disable_viewonline.switch_statistics_nolink}
+```smarty
+<!-- BEGIN disable_viewonline -->
+    <!-- BEGIN switch_statistics_nolink -->
+        contenu sur lequel on boucle
+        <!-- END switch_statistics_nolink -->
+    <!-- END disable_viewonline -->
+<!-- BEGIN disable_viewonline -->
+    <!-- BEGIN switch_statistics_nolink -->
+        contenu sur lequel on boucle
+        <!-- END switch_statistics_nolink -->
+    <!-- END disable_viewonline -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_nolink)

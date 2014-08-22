@@ -3,7 +3,17 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_index_body`](../tpl/album_index_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_COLS}
+{S_COLS}
+{S_COLS}
+{S_COLS}
+{S_COLS}
+{S_COLS}
+{S_COLS}
+{S_COLS}
+{S_COLS}
+{S_COLS}
 {S_COLS}
 ```
 

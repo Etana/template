@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.watchsearch}
+```smarty
+<!-- BEGIN searchresults -->
+    <!-- BEGIN watchsearch -->
+        contenu sur lequel on boucle
+        <!-- END watchsearch -->
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)

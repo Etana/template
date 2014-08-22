@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
 * __Utilisation :__
 
-```html
-{phonecall_method.hidden_field.NAME}
+```smarty
+<!-- BEGIN phonecall_method -->
+    <!-- BEGIN hidden_field -->
+        {phonecall_method.hidden_field.NAME}
+        <!-- END hidden_field -->
+    <!-- END phonecall_method -->
+<!-- BEGIN phonecall_method -->
+    <!-- BEGIN hidden_field -->
+        {phonecall_method.hidden_field.NAME}
+        <!-- END hidden_field -->
+    <!-- END phonecall_method -->
+<!-- BEGIN phonecall_method -->
+    <!-- BEGIN hidden_field -->
+        {phonecall_method.hidden_field.NAME}
+        <!-- END hidden_field -->
+    <!-- END phonecall_method -->
+<!-- BEGIN phonecall_method -->
+    <!-- BEGIN hidden_field -->
+        {phonecall_method.hidden_field.NAME}
+        <!-- END hidden_field -->
+    <!-- END phonecall_method -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.NAME)

@@ -3,8 +3,35 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}
+```smarty
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        <!-- BEGIN switch_is_not_orphan -->
+            {switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}
+            <!-- END switch_is_not_orphan -->
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        <!-- BEGIN switch_is_not_orphan -->
+            {switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}
+            <!-- END switch_is_not_orphan -->
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        <!-- BEGIN switch_is_not_orphan -->
+            {switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}
+            <!-- END switch_is_not_orphan -->
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
+<!-- BEGIN switch_attachment_list -->
+    <!-- BEGIN attachments -->
+        <!-- BEGIN switch_is_not_orphan -->
+            {switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}
+            <!-- END switch_is_not_orphan -->
+        <!-- END attachments -->
+    <!-- END switch_attachment_list -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL)

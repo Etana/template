@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
 * __Utilisation :__
 
-```html
-{poll_option_textarea}
+```smarty
+<!-- BEGIN poll_option_textarea -->
+    contenu sur lequel on boucle
+    <!-- END poll_option_textarea -->
+<!-- BEGIN poll_option_textarea -->
+    contenu sur lequel on boucle
+    <!-- END poll_option_textarea -->
+<!-- BEGIN poll_option_textarea -->
+    contenu sur lequel on boucle
+    <!-- END poll_option_textarea -->
+<!-- BEGIN poll_option_textarea -->
+    contenu sur lequel on boucle
+    <!-- END poll_option_textarea -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_textarea)

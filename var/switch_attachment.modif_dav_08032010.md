@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_attachment.modif_dav_08032010}
+```smarty
+<!-- BEGIN switch_attachment -->
+    <!-- BEGIN modif_dav_08032010 -->
+        contenu sur lequel on boucle
+        <!-- END modif_dav_08032010 -->
+    <!-- END switch_attachment -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment.modif_dav_08032010)

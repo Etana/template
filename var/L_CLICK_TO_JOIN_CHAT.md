@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_CLICK_TO_JOIN_CHAT}
+{L_CLICK_TO_JOIN_CHAT}
+{L_CLICK_TO_JOIN_CHAT}
 {L_CLICK_TO_JOIN_CHAT}
 ```
 

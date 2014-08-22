@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_RSS_FEEDS}
+{L_RSS_FEEDS}
+{L_RSS_FEEDS}
 {L_RSS_FEEDS}
 ```
 

@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MOVE}
+{L_MOVE}
+{L_MOVE}
 {L_MOVE}
 ```
 

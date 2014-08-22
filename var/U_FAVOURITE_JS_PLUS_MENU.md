@@ -3,7 +3,9 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{U_FAVOURITE_JS_PLUS_MENU}
+{U_FAVOURITE_JS_PLUS_MENU}
 {U_FAVOURITE_JS_PLUS_MENU}
 ```
 

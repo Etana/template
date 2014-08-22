@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_list}
+```smarty
+<!-- BEGIN switch_list -->
+    contenu sur lequel on boucle
+    <!-- END switch_list -->
+<!-- BEGIN switch_list -->
+    contenu sur lequel on boucle
+    <!-- END switch_list -->
+<!-- BEGIN switch_list -->
+    contenu sur lequel on boucle
+    <!-- END switch_list -->
+<!-- BEGIN switch_list -->
+    contenu sur lequel on boucle
+    <!-- END switch_list -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_list)

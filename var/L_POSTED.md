@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme), [`modcp_viewip`](../tpl/modcp_viewip.md#readme), [`privmsgs_preview`](../tpl/privmsgs_preview.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
+{L_POSTED}
 {L_POSTED}
 ```
 

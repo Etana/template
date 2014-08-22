@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_preferences_menu}
+```smarty
+<!-- BEGIN switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_preferences_menu -->
+<!-- BEGIN switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_preferences_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu)

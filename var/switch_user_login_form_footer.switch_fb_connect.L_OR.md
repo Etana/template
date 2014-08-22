@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_user_login_form_footer.switch_fb_connect.L_OR}
+```smarty
+<!-- BEGIN switch_user_login_form_footer -->
+    <!-- BEGIN switch_fb_connect -->
+        {switch_user_login_form_footer.switch_fb_connect.L_OR}
+        <!-- END switch_fb_connect -->
+    <!-- END switch_user_login_form_footer -->
+<!-- BEGIN switch_user_login_form_footer -->
+    <!-- BEGIN switch_fb_connect -->
+        {switch_user_login_form_footer.switch_fb_connect.L_OR}
+        <!-- END switch_fb_connect -->
+    <!-- END switch_user_login_form_footer -->
+<!-- BEGIN switch_user_login_form_footer -->
+    <!-- BEGIN switch_fb_connect -->
+        {switch_user_login_form_footer.switch_fb_connect.L_OR}
+        <!-- END switch_fb_connect -->
+    <!-- END switch_user_login_form_footer -->
+<!-- BEGIN switch_user_login_form_footer -->
+    <!-- BEGIN switch_fb_connect -->
+        {switch_user_login_form_footer.switch_fb_connect.L_OR}
+        <!-- END switch_fb_connect -->
+    <!-- END switch_user_login_form_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_OR)

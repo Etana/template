@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.hidden.ROW_COUNT}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN hidden -->
+        {postrow.hidden.ROW_COUNT}
+        <!-- END hidden -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.hidden.ROW_COUNT)

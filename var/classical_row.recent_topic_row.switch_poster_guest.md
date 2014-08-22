@@ -3,8 +3,35 @@
 * __Utilisable dans :__ [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
 * __Utilisation :__
 
-```html
-{classical_row.recent_topic_row.switch_poster_guest}
+```smarty
+<!-- BEGIN classical_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            contenu sur lequel on boucle
+            <!-- END switch_poster_guest -->
+        <!-- END recent_topic_row -->
+    <!-- END classical_row -->
+<!-- BEGIN classical_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            contenu sur lequel on boucle
+            <!-- END switch_poster_guest -->
+        <!-- END recent_topic_row -->
+    <!-- END classical_row -->
+<!-- BEGIN classical_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            contenu sur lequel on boucle
+            <!-- END switch_poster_guest -->
+        <!-- END recent_topic_row -->
+    <!-- END classical_row -->
+<!-- BEGIN classical_row -->
+    <!-- BEGIN recent_topic_row -->
+        <!-- BEGIN switch_poster_guest -->
+            contenu sur lequel on boucle
+            <!-- END switch_poster_guest -->
+        <!-- END recent_topic_row -->
+    <!-- END classical_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster_guest)

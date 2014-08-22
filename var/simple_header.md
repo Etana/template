@@ -3,8 +3,13 @@
 * __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
-{simple_header}
+```smarty
+<!-- BEGIN simple_header -->
+    contenu sur lequel on boucle
+    <!-- END simple_header -->
+<!-- BEGIN simple_header -->
+    contenu sur lequel on boucle
+    <!-- END simple_header -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/simple_header)

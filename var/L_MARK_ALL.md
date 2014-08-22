@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_MARK_ALL}
+{L_MARK_ALL}
+{L_MARK_ALL}
+{L_MARK_ALL}
 {L_MARK_ALL}
 ```
 

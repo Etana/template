@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`album_upload_body`](../tpl/album_upload_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{ADD_FIELD}
+{ADD_FIELD}
+{ADD_FIELD}
 {ADD_FIELD}
 ```
 

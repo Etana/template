@@ -3,8 +3,35 @@
 * __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
 * __Utilisation :__
 
-```html
-{_calendar_box._row._cell}
+```smarty
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _row -->
+        <!-- BEGIN _cell -->
+            contenu sur lequel on boucle
+            <!-- END _cell -->
+        <!-- END _row -->
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _row -->
+        <!-- BEGIN _cell -->
+            contenu sur lequel on boucle
+            <!-- END _cell -->
+        <!-- END _row -->
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _row -->
+        <!-- BEGIN _cell -->
+            contenu sur lequel on boucle
+            <!-- END _cell -->
+        <!-- END _row -->
+    <!-- END _calendar_box -->
+<!-- BEGIN _calendar_box -->
+    <!-- BEGIN _row -->
+        <!-- BEGIN _cell -->
+            contenu sur lequel on boucle
+            <!-- END _cell -->
+        <!-- END _row -->
+    <!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell)

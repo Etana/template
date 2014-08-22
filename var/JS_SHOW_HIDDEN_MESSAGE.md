@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{JS_SHOW_HIDDEN_MESSAGE}
+{JS_SHOW_HIDDEN_MESSAGE}
+{JS_SHOW_HIDDEN_MESSAGE}
 {JS_SHOW_HIDDEN_MESSAGE}
 ```
 

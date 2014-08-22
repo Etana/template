@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{navlinks.stat_link}
+```smarty
+<!-- BEGIN navlinks -->
+    <!-- BEGIN stat_link -->
+        contenu sur lequel on boucle
+        <!-- END stat_link -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN stat_link -->
+        contenu sur lequel on boucle
+        <!-- END stat_link -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN stat_link -->
+        contenu sur lequel on boucle
+        <!-- END stat_link -->
+    <!-- END navlinks -->
+<!-- BEGIN navlinks -->
+    <!-- BEGIN stat_link -->
+        contenu sur lequel on boucle
+        <!-- END stat_link -->
+    <!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.stat_link)

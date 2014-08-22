@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`merge_body`](../tpl/merge_body.md#readme), [`merge_select_body`](../tpl/merge_select_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{CURRENT_FID}
+{CURRENT_FID}
+{CURRENT_FID}
+{CURRENT_FID}
 {CURRENT_FID}
 ```
 

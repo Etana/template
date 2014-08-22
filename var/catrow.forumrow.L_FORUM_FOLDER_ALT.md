@@ -3,8 +3,37 @@
 * __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation :__
 
-```html
-{catrow.forumrow.L_FORUM_FOLDER_ALT}
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        {catrow.forumrow.L_FORUM_FOLDER_ALT}
+        <!-- END forumrow -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        {catrow.forumrow.L_FORUM_FOLDER_ALT}
+        <!-- END forumrow -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        {catrow.forumrow.L_FORUM_FOLDER_ALT}
+        <!-- END forumrow -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        {catrow.forumrow.L_FORUM_FOLDER_ALT}
+        <!-- END forumrow -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        {catrow.forumrow.L_FORUM_FOLDER_ALT}
+        <!-- END forumrow -->
+    <!-- END catrow -->
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        {catrow.forumrow.L_FORUM_FOLDER_ALT}
+        <!-- END forumrow -->
+    <!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.L_FORUM_FOLDER_ALT)

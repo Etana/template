@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.GOTO_PAGE}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.GOTO_PAGE}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.GOTO_PAGE}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.GOTO_PAGE}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)

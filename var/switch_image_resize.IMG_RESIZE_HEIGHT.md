@@ -3,8 +3,67 @@
 * __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_image_resize.IMG_RESIZE_HEIGHT}
+```smarty
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
+<!-- BEGIN switch_image_resize -->
+    {switch_image_resize.IMG_RESIZE_HEIGHT}
+    <!-- END switch_image_resize -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT)

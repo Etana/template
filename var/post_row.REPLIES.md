@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme)
 * __Utilisation :__
 
-```html
-{post_row.REPLIES}
+```smarty
+<!-- BEGIN post_row -->
+    {post_row.REPLIES}
+    <!-- END post_row -->
+<!-- BEGIN post_row -->
+    {post_row.REPLIES}
+    <!-- END post_row -->
+<!-- BEGIN post_row -->
+    {post_row.REPLIES}
+    <!-- END post_row -->
+<!-- BEGIN post_row -->
+    {post_row.REPLIES}
+    <!-- END post_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.REPLIES)

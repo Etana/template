@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{no_post}
+```smarty
+<!-- BEGIN no_post -->
+    contenu sur lequel on boucle
+    <!-- END no_post -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_post)

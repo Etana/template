@@ -3,8 +3,12 @@
 * __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
 * __Utilisation :__
 
-```html
-{navlinks.moderation_panel.U_URL_YOUR_PERSONAL_MODERATE}
+```smarty
+<!-- BEGIN navlinks -->
+    <!-- BEGIN moderation_panel -->
+        {navlinks.moderation_panel.U_URL_YOUR_PERSONAL_MODERATE}
+        <!-- END moderation_panel -->
+    <!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_URL_YOUR_PERSONAL_MODERATE)

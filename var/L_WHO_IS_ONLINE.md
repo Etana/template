@@ -3,7 +3,23 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
+{L_WHO_IS_ONLINE}
 {L_WHO_IS_ONLINE}
 ```
 

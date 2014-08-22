@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_overview_top10`](../tpl/album_overview_top10.md#readme)
 * __Utilisation :__
 
-```html
-{switch_recent.DATE}
+```smarty
+<!-- BEGIN switch_recent -->
+    {switch_recent.DATE}
+    <!-- END switch_recent -->
+<!-- BEGIN switch_recent -->
+    {switch_recent.DATE}
+    <!-- END switch_recent -->
+<!-- BEGIN switch_recent -->
+    {switch_recent.DATE}
+    <!-- END switch_recent -->
+<!-- BEGIN switch_recent -->
+    {switch_recent.DATE}
+    <!-- END switch_recent -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_recent.DATE)

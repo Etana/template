@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme)
 * __Utilisation :__
 
-```html
-{no_pics}
+```smarty
+<!-- BEGIN no_pics -->
+    contenu sur lequel on boucle
+    <!-- END no_pics -->
+<!-- BEGIN no_pics -->
+    contenu sur lequel on boucle
+    <!-- END no_pics -->
+<!-- BEGIN no_pics -->
+    contenu sur lequel on boucle
+    <!-- END no_pics -->
+<!-- BEGIN no_pics -->
+    contenu sur lequel on boucle
+    <!-- END no_pics -->
+<!-- BEGIN no_pics -->
+    contenu sur lequel on boucle
+    <!-- END no_pics -->
+<!-- BEGIN no_pics -->
+    contenu sur lequel on boucle
+    <!-- END no_pics -->
+<!-- BEGIN no_pics -->
+    contenu sur lequel on boucle
+    <!-- END no_pics -->
+<!-- BEGIN no_pics -->
+    contenu sur lequel on boucle
+    <!-- END no_pics -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_pics)

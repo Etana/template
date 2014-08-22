@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{hitskin_preview}
+```smarty
+<!-- BEGIN hitskin_preview -->
+    contenu sur lequel on boucle
+    <!-- END hitskin_preview -->
+<!-- BEGIN hitskin_preview -->
+    contenu sur lequel on boucle
+    <!-- END hitskin_preview -->
+<!-- BEGIN hitskin_preview -->
+    contenu sur lequel on boucle
+    <!-- END hitskin_preview -->
+<!-- BEGIN hitskin_preview -->
+    contenu sur lequel on boucle
+    <!-- END hitskin_preview -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview)

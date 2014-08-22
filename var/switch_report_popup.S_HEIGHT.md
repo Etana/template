@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation :__
 
-```html
-{switch_report_popup.S_HEIGHT}
+```smarty
+<!-- BEGIN switch_report_popup -->
+    {switch_report_popup.S_HEIGHT}
+    <!-- END switch_report_popup -->
+<!-- BEGIN switch_report_popup -->
+    {switch_report_popup.S_HEIGHT}
+    <!-- END switch_report_popup -->
+<!-- BEGIN switch_report_popup -->
+    {switch_report_popup.S_HEIGHT}
+    <!-- END switch_report_popup -->
+<!-- BEGIN switch_report_popup -->
+    {switch_report_popup.S_HEIGHT}
+    <!-- END switch_report_popup -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup.S_HEIGHT)

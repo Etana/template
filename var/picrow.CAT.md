@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_moderate_body`](../tpl/album_moderate_body.md#readme)
 * __Utilisation :__
 
-```html
-{picrow.CAT}
+```smarty
+<!-- BEGIN picrow -->
+    {picrow.CAT}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.CAT}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.CAT}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.CAT}
+    <!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.CAT)

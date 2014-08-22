@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{memberrow.U_VIEWPROFILE}
+```smarty
+<!-- BEGIN memberrow -->
+    {memberrow.U_VIEWPROFILE}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.U_VIEWPROFILE}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.U_VIEWPROFILE}
+    <!-- END memberrow -->
+<!-- BEGIN memberrow -->
+    {memberrow.U_VIEWPROFILE}
+    <!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.U_VIEWPROFILE)

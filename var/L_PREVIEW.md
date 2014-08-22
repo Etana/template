@@ -3,7 +3,24 @@
 * __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_preview`](../tpl/posting_preview.md#readme), [`privmsgs_preview`](../tpl/privmsgs_preview.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
+{L_PREVIEW}
 {L_PREVIEW}
 ```
 

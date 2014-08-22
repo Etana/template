@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme), [`calendar_body`](../tpl/calendar_body.md#readme), [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{NAV_SEPARATOR}
+{NAV_SEPARATOR}
+{NAV_SEPARATOR}
+{NAV_SEPARATOR}
 {NAV_SEPARATOR}
 ```
 

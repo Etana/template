@@ -3,7 +3,8 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{S_FORM_MOD_ACTION}
 {S_FORM_MOD_ACTION}
 ```
 

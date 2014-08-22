@@ -3,7 +3,11 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_SEARCH_UNANSWERED}
+{L_SEARCH_UNANSWERED}
+{L_SEARCH_UNANSWERED}
+{L_SEARCH_UNANSWERED}
 {L_SEARCH_UNANSWERED}
 ```
 

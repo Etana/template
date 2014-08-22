@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
 * __Utilisation :__
 
-```html
-{topicrow.REPLIES}
+```smarty
+<!-- BEGIN topicrow -->
+    {topicrow.REPLIES}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.REPLIES}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.REPLIES}
+    <!-- END topicrow -->
+<!-- BEGIN topicrow -->
+    {topicrow.REPLIES}
+    <!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.REPLIES)

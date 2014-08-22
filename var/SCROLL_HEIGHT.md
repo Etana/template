@@ -3,7 +3,10 @@
 * __Utilisable dans :__ [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SCROLL_HEIGHT}
+{SCROLL_HEIGHT}
+{SCROLL_HEIGHT}
 {SCROLL_HEIGHT}
 ```
 

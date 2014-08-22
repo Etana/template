@@ -3,8 +3,97 @@
 * __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme), [`greeting_popup`](../tpl/greeting_popup.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`simple_footer`](../tpl/simple_footer.md#readme)
 * __Utilisation :__
 
-```html
-{html_validation}
+```smarty
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
+<!-- BEGIN html_validation -->
+    contenu sur lequel on boucle
+    <!-- END html_validation -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/html_validation)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme)
 * __Utilisation :__
 
-```html
-{POSTER.NB_TOPICS}
+```smarty
+<!-- BEGIN POSTER -->
+    {POSTER.NB_TOPICS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_TOPICS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_TOPICS}
+    <!-- END POSTER -->
+<!-- BEGIN POSTER -->
+    {POSTER.NB_TOPICS}
+    <!-- END POSTER -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER.NB_TOPICS)

@@ -3,7 +3,15 @@
 * __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_ATTACHMENT_FILENAME}
+{L_ATTACHMENT_FILENAME}
+{L_ATTACHMENT_FILENAME}
+{L_ATTACHMENT_FILENAME}
+{L_ATTACHMENT_FILENAME}
+{L_ATTACHMENT_FILENAME}
+{L_ATTACHMENT_FILENAME}
+{L_ATTACHMENT_FILENAME}
 {L_ATTACHMENT_FILENAME}
 ```
 

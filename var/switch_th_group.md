@@ -3,8 +3,16 @@
 * __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_th_group}
+```smarty
+<!-- BEGIN switch_th_group -->
+    contenu sur lequel on boucle
+    <!-- END switch_th_group -->
+<!-- BEGIN switch_th_group -->
+    contenu sur lequel on boucle
+    <!-- END switch_th_group -->
+<!-- BEGIN switch_th_group -->
+    contenu sur lequel on boucle
+    <!-- END switch_th_group -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_th_group)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
 * __Utilisation :__
 
-```html
-{poll_option_new}
+```smarty
+<!-- BEGIN poll_option_new -->
+    contenu sur lequel on boucle
+    <!-- END poll_option_new -->
+<!-- BEGIN poll_option_new -->
+    contenu sur lequel on boucle
+    <!-- END poll_option_new -->
+<!-- BEGIN poll_option_new -->
+    contenu sur lequel on boucle
+    <!-- END poll_option_new -->
+<!-- BEGIN poll_option_new -->
+    contenu sur lequel on boucle
+    <!-- END poll_option_new -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_new)

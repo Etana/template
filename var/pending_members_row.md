@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
-```html
-{pending_members_row}
+```smarty
+<!-- BEGIN pending_members_row -->
+    contenu sur lequel on boucle
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    contenu sur lequel on boucle
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    contenu sur lequel on boucle
+    <!-- END pending_members_row -->
+<!-- BEGIN pending_members_row -->
+    contenu sur lequel on boucle
+    <!-- END pending_members_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pending_members_row)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.POSTER_AVATAR}
+```smarty
+<!-- BEGIN postrow -->
+    {postrow.POSTER_AVATAR}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_AVATAR}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_AVATAR}
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    {postrow.POSTER_AVATAR}
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.POSTER_AVATAR)

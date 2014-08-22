@@ -3,7 +3,14 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{PROMOT_TRAFIC_TITLE}
+{PROMOT_TRAFIC_TITLE}
+{PROMOT_TRAFIC_TITLE}
+{PROMOT_TRAFIC_TITLE}
+{PROMOT_TRAFIC_TITLE}
+{PROMOT_TRAFIC_TITLE}
+{PROMOT_TRAFIC_TITLE}
 {PROMOT_TRAFIC_TITLE}
 ```
 

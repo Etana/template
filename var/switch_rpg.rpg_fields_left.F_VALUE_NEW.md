@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_rpg.rpg_fields_left.F_VALUE_NEW}
+```smarty
+<!-- BEGIN switch_rpg -->
+    <!-- BEGIN rpg_fields_left -->
+        {switch_rpg.rpg_fields_left.F_VALUE_NEW}
+        <!-- END rpg_fields_left -->
+    <!-- END switch_rpg -->
+<!-- BEGIN switch_rpg -->
+    <!-- BEGIN rpg_fields_left -->
+        {switch_rpg.rpg_fields_left.F_VALUE_NEW}
+        <!-- END rpg_fields_left -->
+    <!-- END switch_rpg -->
+<!-- BEGIN switch_rpg -->
+    <!-- BEGIN rpg_fields_left -->
+        {switch_rpg.rpg_fields_left.F_VALUE_NEW}
+        <!-- END rpg_fields_left -->
+    <!-- END switch_rpg -->
+<!-- BEGIN switch_rpg -->
+    <!-- BEGIN rpg_fields_left -->
+        {switch_rpg.rpg_fields_left.F_VALUE_NEW}
+        <!-- END rpg_fields_left -->
+    <!-- END switch_rpg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields_left.F_VALUE_NEW)

@@ -3,7 +3,15 @@
 * __Utilisable dans :__ [`error_body`](../tpl/error_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{ERROR_MESSAGE}
+{ERROR_MESSAGE}
+{ERROR_MESSAGE}
+{ERROR_MESSAGE}
+{ERROR_MESSAGE}
+{ERROR_MESSAGE}
+{ERROR_MESSAGE}
+{ERROR_MESSAGE}
 {ERROR_MESSAGE}
 ```
 

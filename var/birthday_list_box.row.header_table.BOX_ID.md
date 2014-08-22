@@ -3,8 +3,49 @@
 * __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{birthday_list_box.row.header_table.BOX_ID}
+```smarty
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN header_table -->
+            {birthday_list_box.row.header_table.BOX_ID}
+            <!-- END header_table -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN header_table -->
+            {birthday_list_box.row.header_table.BOX_ID}
+            <!-- END header_table -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN header_table -->
+            {birthday_list_box.row.header_table.BOX_ID}
+            <!-- END header_table -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN header_table -->
+            {birthday_list_box.row.header_table.BOX_ID}
+            <!-- END header_table -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN header_table -->
+            {birthday_list_box.row.header_table.BOX_ID}
+            <!-- END header_table -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
+<!-- BEGIN birthday_list_box -->
+    <!-- BEGIN row -->
+        <!-- BEGIN header_table -->
+            {birthday_list_box.row.header_table.BOX_ID}
+            <!-- END header_table -->
+        <!-- END row -->
+    <!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table.BOX_ID)

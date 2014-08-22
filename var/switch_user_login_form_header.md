@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
-```html
-{switch_user_login_form_header}
+```smarty
+<!-- BEGIN switch_user_login_form_header -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_login_form_header -->
+<!-- BEGIN switch_user_login_form_header -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_login_form_header -->
+<!-- BEGIN switch_user_login_form_header -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_login_form_header -->
+<!-- BEGIN switch_user_login_form_header -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_login_form_header -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_header)

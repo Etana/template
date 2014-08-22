@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
 * __Utilisation :__
 
-```html
-{stat_link}
+```smarty
+<!-- BEGIN stat_link -->
+    contenu sur lequel on boucle
+    <!-- END stat_link -->
+<!-- BEGIN stat_link -->
+    contenu sur lequel on boucle
+    <!-- END stat_link -->
+<!-- BEGIN stat_link -->
+    contenu sur lequel on boucle
+    <!-- END stat_link -->
+<!-- BEGIN stat_link -->
+    contenu sur lequel on boucle
+    <!-- END stat_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/stat_link)

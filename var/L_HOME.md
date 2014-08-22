@@ -3,7 +3,7 @@
 * __Utilisable dans :__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
 {L_HOME}
 ```
 

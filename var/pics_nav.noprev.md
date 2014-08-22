@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
 * __Utilisation :__
 
-```html
-{pics_nav.noprev}
+```smarty
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN noprev -->
+        contenu sur lequel on boucle
+        <!-- END noprev -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN noprev -->
+        contenu sur lequel on boucle
+        <!-- END noprev -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN noprev -->
+        contenu sur lequel on boucle
+        <!-- END noprev -->
+    <!-- END pics_nav -->
+<!-- BEGIN pics_nav -->
+    <!-- BEGIN noprev -->
+        contenu sur lequel on boucle
+        <!-- END noprev -->
+    <!-- END pics_nav -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav.noprev)

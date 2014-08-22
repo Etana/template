@@ -3,7 +3,36 @@
 * __Utilisable dans :__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
+{SPACE_ROW}
 {SPACE_ROW}
 ```
 

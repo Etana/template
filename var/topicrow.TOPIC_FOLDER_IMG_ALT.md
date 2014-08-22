@@ -3,8 +3,10 @@
 * __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
-```html
-{topicrow.TOPIC_FOLDER_IMG_ALT}
+```smarty
+<!-- BEGIN topicrow -->
+    {topicrow.TOPIC_FOLDER_IMG_ALT}
+    <!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG_ALT)

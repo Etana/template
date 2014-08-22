@@ -3,8 +3,31 @@
 * __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme)
 * __Utilisation :__
 
-```html
-{picrow.TIME}
+```smarty
+<!-- BEGIN picrow -->
+    {picrow.TIME}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.TIME}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.TIME}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.TIME}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.TIME}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.TIME}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.TIME}
+    <!-- END picrow -->
+<!-- BEGIN picrow -->
+    {picrow.TIME}
+    <!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.TIME)

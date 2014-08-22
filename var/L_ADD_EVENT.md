@@ -3,7 +3,18 @@
 * __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
 * __Utilisation :__
 
-```html
+```smarty
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
+{L_ADD_EVENT}
 {L_ADD_EVENT}
 ```
 

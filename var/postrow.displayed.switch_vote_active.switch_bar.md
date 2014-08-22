@@ -3,8 +3,43 @@
 * __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
-```html
-{postrow.displayed.switch_vote_active.switch_bar}
+```smarty
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_bar -->
+                contenu sur lequel on boucle
+                <!-- END switch_bar -->
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_bar -->
+                contenu sur lequel on boucle
+                <!-- END switch_bar -->
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_bar -->
+                contenu sur lequel on boucle
+                <!-- END switch_bar -->
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
+<!-- BEGIN postrow -->
+    <!-- BEGIN displayed -->
+        <!-- BEGIN switch_vote_active -->
+            <!-- BEGIN switch_bar -->
+                contenu sur lequel on boucle
+                <!-- END switch_bar -->
+            <!-- END switch_vote_active -->
+        <!-- END displayed -->
+    <!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar)

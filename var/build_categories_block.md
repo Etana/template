@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
 * __Utilisation :__
 
-```html
-{build_categories_block}
+```smarty
+<!-- BEGIN build_categories_block -->
+    contenu sur lequel on boucle
+    <!-- END build_categories_block -->
+<!-- BEGIN build_categories_block -->
+    contenu sur lequel on boucle
+    <!-- END build_categories_block -->
+<!-- BEGIN build_categories_block -->
+    contenu sur lequel on boucle
+    <!-- END build_categories_block -->
+<!-- BEGIN build_categories_block -->
+    contenu sur lequel on boucle
+    <!-- END build_categories_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block)

@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
 * __Utilisation :__
 
-```html
-{searchresults.POST_DATE}
+```smarty
+<!-- BEGIN searchresults -->
+    {searchresults.POST_DATE}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.POST_DATE}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.POST_DATE}
+    <!-- END searchresults -->
+<!-- BEGIN searchresults -->
+    {searchresults.POST_DATE}
+    <!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)

@@ -3,8 +3,27 @@
 * __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation :__
 
-```html
-{switch_login_small.switch_fb_connect_login}
+```smarty
+<!-- BEGIN switch_login_small -->
+    <!-- BEGIN switch_fb_connect_login -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_connect_login -->
+    <!-- END switch_login_small -->
+<!-- BEGIN switch_login_small -->
+    <!-- BEGIN switch_fb_connect_login -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_connect_login -->
+    <!-- END switch_login_small -->
+<!-- BEGIN switch_login_small -->
+    <!-- BEGIN switch_fb_connect_login -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_connect_login -->
+    <!-- END switch_login_small -->
+<!-- BEGIN switch_login_small -->
+    <!-- BEGIN switch_fb_connect_login -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_connect_login -->
+    <!-- END switch_login_small -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login_small.switch_fb_connect_login)

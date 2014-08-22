@@ -3,8 +3,19 @@
 * __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation :__
 
-```html
-{giefmod1}
+```smarty
+<!-- BEGIN giefmod1 -->
+    contenu sur lequel on boucle
+    <!-- END giefmod1 -->
+<!-- BEGIN giefmod1 -->
+    contenu sur lequel on boucle
+    <!-- END giefmod1 -->
+<!-- BEGIN giefmod1 -->
+    contenu sur lequel on boucle
+    <!-- END giefmod1 -->
+<!-- BEGIN giefmod1 -->
+    contenu sur lequel on boucle
+    <!-- END giefmod1 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod1)
