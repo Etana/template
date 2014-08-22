@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NOTIFY_REPLY_NO)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/NOTIFY_REPLY_NO)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

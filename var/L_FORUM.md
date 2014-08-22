@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FORUM)
+Chaîne de texte.
+
+* __Contenu en français :__ `Rechercher dans`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

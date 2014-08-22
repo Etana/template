@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.FILENAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.FILENAME)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.FORMNAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.FORMNAME)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

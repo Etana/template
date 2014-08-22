@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.ROW_COUNT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.ROW_COUNT)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

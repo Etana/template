@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SOLVED_WITHOUT_BRAKETS)
+Nom du bouton résolu dans les options du message
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MAX_LENGTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_MAX_LENGTH)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

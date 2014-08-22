@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_canonical_url.CANONICAL_URL)
+Contient l'adresse URL de la balise link rel canonical qui est liée au duplicate content et donc aux pages qui ont des contenus similaires mais dont l'accès peut se faire par différentes URL.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

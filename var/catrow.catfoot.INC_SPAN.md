@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.catfoot.INC_SPAN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.catfoot.INC_SPAN)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

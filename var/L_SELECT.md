@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SELECT)
+Remplacement français `Sélectionner` si il y a un membre en cours de demande d'adhésion et que le visiteur est administrateur ou modérateur du groupe.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

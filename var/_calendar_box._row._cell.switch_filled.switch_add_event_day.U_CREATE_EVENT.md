@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

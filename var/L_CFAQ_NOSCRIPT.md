@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CFAQ_NOSCRIPT)
+Affiche un message d'avertissement si l'utilisateur n'accepte pas le JavaScript.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_NAME)
+Remplacé par le nom du groupe dont on est sur la page.
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

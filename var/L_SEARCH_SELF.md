@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_SELF)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Voir ses messages`
+{%%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

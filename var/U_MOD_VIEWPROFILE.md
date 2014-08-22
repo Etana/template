@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_MOD_VIEWPROFILE)
+Chemin absolu vers le profil du modérateur de groupe.
+
+* __Exemple de remplacement :__ `/u2`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

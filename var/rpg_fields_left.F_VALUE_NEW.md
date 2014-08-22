@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields_left.F_VALUE_NEW)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/rpg_fields_left.F_VALUE_NEW)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

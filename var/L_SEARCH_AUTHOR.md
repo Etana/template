@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_AUTHOR)
+Chaîne de texte.
+
+* __Contenu en français :__ `Recherche par Auteur`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

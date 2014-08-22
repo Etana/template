@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_AIM)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Adresse AIM`
+{%groupcp_info_body%}{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version Invision

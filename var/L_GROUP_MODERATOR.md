@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_MODERATOR)
+Texte.
+  
+* __Remplacement français :__ `Modérateur du groupe`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

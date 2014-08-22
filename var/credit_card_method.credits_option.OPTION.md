@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.OPTION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.OPTION)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

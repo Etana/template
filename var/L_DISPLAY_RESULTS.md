@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DISPLAY_RESULTS)
+Chaîne de texte.
+
+* __Contenu en français :__ `Afficher les résultats sous forme de`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

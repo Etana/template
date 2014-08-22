@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_JUMPBOX_SELECT)
+Chaîne de texte.
+
+* __Contenu en français :__ `Sélectionner un forum`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

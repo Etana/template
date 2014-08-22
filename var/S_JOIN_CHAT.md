@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_JOIN_CHAT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_JOIN_CHAT)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY)
+Affichent la liste des anniversaires du jour. (liste des différents membres)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

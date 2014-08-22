@@ -8,6 +8,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_HIDDEN_MEMBERS)
+Texte remplacé en français par `Ce groupe est invisible, vous ne pouvez pas voir son effectif` :
+
+- si le groupe invisible
+- si on est pas membre du groupe
+- si on est pas administrateur
+
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

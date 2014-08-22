@@ -8,6 +8,16 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.L_BY_METHOD)
+Chaîne de texte.
+
+* __Contenu en français :__ 
+
+```
+Le téléphone via Allopass
+1 Code = 100 Crédits
+```
+et `Une carte bancaire via Paypal`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

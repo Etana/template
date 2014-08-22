@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CLASS_CONTENT_CONTAINER)
+Classe attribuée au conteneur principal de votre forum.
+
+* __Différentes valeurs *(celles-ci changent selon vos widgets)* :__ `null (aucune valeur)` et `no-left`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

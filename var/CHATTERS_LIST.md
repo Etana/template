@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CHATTERS_LIST)
+Affiche le pseudo des utilisateurs connectés sur la chatbox.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

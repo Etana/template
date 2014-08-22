@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ORDER)
+Chaîne de texte.
+
+* __Remplacement français :__ `Ordre`
+{%groupcp_info_body%}{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

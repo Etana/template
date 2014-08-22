@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED)
+Adresse url absolue vers `Voir les messages sans réponses` : `/search?search_id=unanswered`
+{%%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_VIEWS)
+Contient le nombre de vues du sujet.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

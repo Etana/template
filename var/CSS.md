@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CSS)
+Utilisé pour afficher le CSS lors des prévisualisations.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

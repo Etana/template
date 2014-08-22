@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.GROUPS)
+Contient le groupe du membre.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_CREATE_PERSONAL_GALLERY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_CREATE_PERSONAL_GALLERY)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

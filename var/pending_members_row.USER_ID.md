@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.USER_ID)
+Identifiant numérique du membre sur lequel on boucle.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

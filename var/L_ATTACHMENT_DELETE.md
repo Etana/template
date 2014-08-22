@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ATTACHMENT_DELETE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ATTACHMENT_DELETE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

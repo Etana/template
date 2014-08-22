@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_HIDDEN_TYPE)
+Remplacé par `2`.
+
+Valeur correspondante à un groupe invisible.
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_ORDER_VALUE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SORT_ORDER_VALUE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

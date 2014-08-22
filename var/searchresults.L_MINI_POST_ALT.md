@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.L_MINI_POST_ALT)
+Chaîne de texte.
+
+* __Contenu en français :__ `Message`
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

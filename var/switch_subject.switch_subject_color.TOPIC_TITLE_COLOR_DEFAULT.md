@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

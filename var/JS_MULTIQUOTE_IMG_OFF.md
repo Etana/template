@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_MULTIQUOTE_IMG_OFF)
+Image de citation multiple désélectionnée définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Boutons" > Multi-citation désélectionnée`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

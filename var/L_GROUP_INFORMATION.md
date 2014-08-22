@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_INFORMATION)
+Texte de la barre de titre de la page.
+
+* __Remplacement français :__ `Informations du groupe`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

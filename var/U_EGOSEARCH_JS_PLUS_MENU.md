@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_EGOSEARCH_JS_PLUS_MENU)
+Lien vers "Voir ses messages" dans le menu Plus !
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

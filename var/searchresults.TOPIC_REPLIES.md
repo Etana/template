@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_REPLIES)
+Contient le nombre de réponses dans le sujet.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

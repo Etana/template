@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ERROR_BOX)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ERROR_BOX)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

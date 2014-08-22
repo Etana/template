@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SOLVED)
+Affiche le texte [résolu] dans le titre des sujets
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

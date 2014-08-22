@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch.exif_data.EXIFd2)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch.exif_data.EXIFd2)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_PENDING_SELECT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/GROUP_PENDING_SELECT)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

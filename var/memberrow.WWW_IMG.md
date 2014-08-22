@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.WWW_IMG)
+Contient un lien vers le site web du membre et l'image définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Boutons" > Visiter le site web du posteur`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_login.JS_FB_LOGIN)
+Contient le script de Facebook Connect si celui-ci est activé dans `PA > Modules > Facebook Connect | Configuration`.
+
+* __Contenu en français :__ `<script src="http://connect.facebook.net/fr_FR/all.js" type="text/javascript"></script>`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

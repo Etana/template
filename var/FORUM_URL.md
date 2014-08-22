@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_URL)
+Contient l'adresse URL de la page.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

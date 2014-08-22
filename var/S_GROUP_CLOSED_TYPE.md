@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_CLOSED_TYPE)
+Remplacé par `1`.
+
+Valeur correspondante à un groupe fermé.
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

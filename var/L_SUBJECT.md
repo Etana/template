@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SUBJECT)
+Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Utilisateurs | Options des utilisateurs > Sujet du message d'anniversaire`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

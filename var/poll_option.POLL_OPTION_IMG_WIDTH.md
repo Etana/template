@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_IMG_WIDTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_IMG_WIDTH)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

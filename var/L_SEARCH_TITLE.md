@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_TITLE)
+Chaîne de texte.
+
+* __Contenu en français :__ `Recherche avancée`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup.U_REPORT_POPUP)
+Adresse URL du popup d'avertissement d'un nouveau rapport : `/report?mode=popup`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

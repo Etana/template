@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

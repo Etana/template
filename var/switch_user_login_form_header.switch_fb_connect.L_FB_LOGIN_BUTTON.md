@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON)
+Contient le bouton de connexion Facebook.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

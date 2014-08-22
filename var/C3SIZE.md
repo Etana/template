@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/C3SIZE)
+Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 3 (droite)`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

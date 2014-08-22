@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_VIEW_FORUM)
+Remplacé par l'URL absolue vers le forum dans lequel le sujet se trouve.
+
+* __Exemple de remplacement :__ `/f1-nom-forum`
+{%viewtopic_body%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

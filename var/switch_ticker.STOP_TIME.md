@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.STOP_TIME)
+Contient le temps d'arrêt des annonces défini dans `PA > Général > Messages et Emails | Annonces > Temps d'arrêt`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_JOIN_GROUP)
+Texte.
+  
+* __Remplacement français :__ `Rejoindre le Groupe`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

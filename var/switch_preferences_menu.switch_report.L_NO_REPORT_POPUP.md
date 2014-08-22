@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.L_NO_REPORT_POPUP)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.L_NO_REPORT_POPUP)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/out_giefmod0.MODVAR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/out_giefmod0.MODVAR)
+
 ## Utilisations dans les templates
 
 ### Version PunBB

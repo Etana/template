@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.LAST_POST)
+Contient le contenu du dernier message posté dans le forum bouclé.
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

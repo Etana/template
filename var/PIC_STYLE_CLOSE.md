@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_STYLE_CLOSE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PIC_STYLE_CLOSE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

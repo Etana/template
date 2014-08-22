@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.FORUM_NAME)
+Contient le nom du forum bouclé.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

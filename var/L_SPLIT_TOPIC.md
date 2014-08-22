@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC)
+Texte.
+
+* __Remplacement français :__ `Diviser le sujet`
+{%viewtopic_body%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

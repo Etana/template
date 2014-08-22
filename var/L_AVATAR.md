@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_AVATAR)
+Chaîne de texte.
+
+* __Contenu en français :__ `Avatar`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

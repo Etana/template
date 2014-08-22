@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod_index1.MODVAR)
+Affiche les widgets de la colonne de gauche un par un.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

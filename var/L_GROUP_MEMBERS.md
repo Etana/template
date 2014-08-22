@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_MEMBERS)
+Texte.
+  
+* __Remplacement français :__ `Membres du groupe`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

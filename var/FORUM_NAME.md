@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_NAME)
+Remplacé par le nom du sous-forum dans lequel on se trouve.
+
+{%viewtopic_body%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

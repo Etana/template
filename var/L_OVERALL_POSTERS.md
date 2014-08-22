@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_OVERALL_POSTERS)
+Affiche le texte du lien de la variable {{U_OVERALL_POSTERS}}.
+
+* __Contenu en français :__  `Top 20 des posteurs du forum`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

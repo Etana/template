@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/UNAPPROVAL_BUTTON)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/UNAPPROVAL_BUTTON)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

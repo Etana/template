@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.SPAN_ALL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.SPAN_ALL)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

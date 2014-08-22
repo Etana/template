@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

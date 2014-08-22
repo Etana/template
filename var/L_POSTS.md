@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POSTS)
+Chaîne de texte.
+
+* __Remplacement en français dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :__ `Messages`
+* __Remplacement en français ailleurs :__ `Nombres de messages`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

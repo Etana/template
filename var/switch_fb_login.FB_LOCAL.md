@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_login.FB_LOCAL)
+Affiche le bouton de connexion via Facebook si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

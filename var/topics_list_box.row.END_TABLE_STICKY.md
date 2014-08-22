@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.END_TABLE_STICKY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.END_TABLE_STICKY)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

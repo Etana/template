@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.U_VIEW_FORUM)
+Contient le lien du forum dans lequel le sujet bouclé a été posté.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

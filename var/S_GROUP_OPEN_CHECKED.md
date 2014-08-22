@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_OPEN_CHECKED)
+Chaîne de texte ` checked="checked"` si le groupe est ouvert, chaîne vide sinon.
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

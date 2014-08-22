@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MINI_TIME_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/MINI_TIME_IMG)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

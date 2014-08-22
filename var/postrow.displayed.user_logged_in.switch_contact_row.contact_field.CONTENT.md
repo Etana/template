@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in.switch_contact_row.contact_field.CONTENT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in.switch_contact_row.contact_field.CONTENT)
+
 ## Utilisations dans les templates
 
 ### Version Invision

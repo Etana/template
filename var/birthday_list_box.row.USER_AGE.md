@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.USER_AGE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.USER_AGE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

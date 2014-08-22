@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POST_NEW_TOPIC)
+Texte.
+
+* __Contenu en français si le forum n'est pas verrouillé :__ `Poster un nouveau sujet`
+* __Contenu en français sinon :__ `Ce forum est verrouillé, vous ne pouvez pas poster, ni répondre, ni éditer les sujets.`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_RSS_FEEDS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_RSS_FEEDS)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_WIDTH_ICON)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_WIDTH_ICON)
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.FORUM_NAME)
+Contient le nom du forum dans lequel le message a été posté.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

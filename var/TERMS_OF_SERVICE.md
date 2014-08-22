@@ -8,6 +8,16 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TERMS_OF_SERVICE)
+Chaîne de texte.
+
+* __Contenu en français :__
+
+```
+En réalisant une contribution pour le forum X, vous acceptez de créditer des points sur le compte de ce forum et vous autorisez implicitement son administrateur à les utiliser à sa convenance.
+
+En cas de problème avec un paiement, veuillez nous contacter en postant un message sur : http://forum.forumactif.com.
+```
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

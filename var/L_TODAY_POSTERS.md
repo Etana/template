@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TODAY_POSTERS)
+Affiche le texte du lien de la variable {{U_TODAY_POSTERS}}.
+
+* __Contenu en français :__  `Top 20 des posteurs du jour`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

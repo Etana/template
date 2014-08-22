@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_CALENDAR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/IMG_CALENDAR)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

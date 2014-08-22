@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_NEW)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Voir les nouveaux messages depuis votre dernière visite`
+{%%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

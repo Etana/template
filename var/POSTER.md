@@ -8,6 +8,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER)
+Boucle sur une liste d'utilisateur.
+
+Dans certains templates, il est plutôt utilisé comme variable d'affichage et est remplacé par le pseudo d'un utilisateur. Dans ce cas son utilisation devient :
+```
+{POSTER}
+```
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REMOVE_SELECTED)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Supprimer la sélection`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

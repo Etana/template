@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/VIEW_EMAIL_MAILTO)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/VIEW_EMAIL_MAILTO)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

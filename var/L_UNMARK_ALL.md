@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UNMARK_ALL)
+Chaîne de texte.
+
+* __Contenu en français :__ `Tout désélectionner`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_NUFFIMAGE_ACTION_SAVE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_NUFFIMAGE_ACTION_SAVE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

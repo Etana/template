@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC_SECOND)
+Affiche le fil d'Ariane secondaire.
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

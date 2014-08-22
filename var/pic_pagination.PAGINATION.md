@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pic_pagination.PAGINATION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/pic_pagination.PAGINATION)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

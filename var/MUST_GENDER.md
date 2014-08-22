@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MUST_GENDER)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/MUST_GENDER)
+
 ## Utilisations dans les templates
 
 ### Version PunBB

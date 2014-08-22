@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup.S_HEIGHT)
+Hauteur du popup d'avertissement d'un nouveau rapport.
+
+* __Par défaut :__ `200`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

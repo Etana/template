@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field.NAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field.NAME)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

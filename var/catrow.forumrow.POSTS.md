@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.POSTS)
+Contient le nombre de messages postés dans le forum bouclé.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

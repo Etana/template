@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.S_MODE_ACTION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.S_MODE_ACTION)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_RATE_MSG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_RATE_MSG)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

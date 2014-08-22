@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DONATE_TEXT)
+Texte de l'annonce défini dans `PA > Divers > Gestion des crédits | Donations > Titre de votre annonce`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

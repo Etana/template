@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_AGREE_OVER13)
+Lien vers l'étape suivante de l'inscription.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

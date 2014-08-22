@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DENY_SELECTED)
+Remplacement français `Refuser la sélection` si il y a un membre en cours de demande d'adhésion et que le visiteur est administrateur ou modérateur du groupe.
+{%groupcp_info_body%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

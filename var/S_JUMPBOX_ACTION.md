@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_JUMPBOX_ACTION)
+Action du formulaire pour sauter vers un forum.
+
+*Attention : Cette variable est importante au bon fonctionnement de ce formulaire !*
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

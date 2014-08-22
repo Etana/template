@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/REGISTRATION)
+Chaîne de texte.
+
+* __Contenu en français :__ `Enregistrement - Règlement`
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

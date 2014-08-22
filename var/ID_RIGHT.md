@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ID_RIGHT)
+Identifiant `right` attribué aux widgets de la colonne de droite si celle-ci est activée.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

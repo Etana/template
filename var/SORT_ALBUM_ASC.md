@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_ALBUM_ASC)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SORT_ALBUM_ASC)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

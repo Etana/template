@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.ticker_row.ELEMENT)
+Contenu de l'annonce défilante sur laquelle on boucle défini dans `PA > Général > Messages et Emails | Annonces`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

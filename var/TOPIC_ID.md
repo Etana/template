@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC_ID)
+Remplacé par l'identifiant numérique du sujet.
+
+{%viewtopic_body%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

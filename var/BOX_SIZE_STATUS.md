@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BOX_SIZE_STATUS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/BOX_SIZE_STATUS)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

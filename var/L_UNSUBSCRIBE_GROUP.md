@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UNSUBSCRIBE_GROUP)
+Texte.
+  
+* __Remplacement français :__ `Se désinscrire`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

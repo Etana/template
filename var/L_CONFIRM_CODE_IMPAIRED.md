@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE_IMPAIRED)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE_IMPAIRED)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

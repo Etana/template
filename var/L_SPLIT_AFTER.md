@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_AFTER)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SPLIT_AFTER)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

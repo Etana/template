@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_CONTENT_ENCODING)
+{%%}Remplacé par l'[encodage](http://fr.wikipedia.org/wiki/Codage_des_caract%C3%A8res) de votre forum.
+
+* __Si votre forum a été créé avant le 17 septembre 2008 :__ l'encodage dépendra de la langue d'affichage du forum, pour le français ce sera `windows-1252`.
+* __Si votre forum a été créé après le 17 septembre 2008 :__ l'encodage sera `utf-8` quelle que soit la langue du forum.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MARK_SELECT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/MARK_SELECT)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

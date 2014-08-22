@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.PIC_MESSAGE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.PIC_MESSAGE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

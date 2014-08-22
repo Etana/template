@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

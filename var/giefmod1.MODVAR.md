@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod1.MODVAR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod1.MODVAR)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

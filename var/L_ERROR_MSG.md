@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ERROR_MSG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ERROR_MSG)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

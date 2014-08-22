@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FACEYOURMANGA_LINK_URL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FACEYOURMANGA_LINK_URL)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

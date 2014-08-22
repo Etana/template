@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.L_BY)
+Chaîne de texte.
+
+* __Contenu en français :__ `par`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

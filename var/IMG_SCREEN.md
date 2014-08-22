@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_SCREEN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/IMG_SCREEN)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

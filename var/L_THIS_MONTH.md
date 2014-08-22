@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_THIS_MONTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_THIS_MONTH)
+
 ## Utilisations dans les templates
 
 ### Version Invision

@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ADD_MEMBER)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Ajouter le Membre`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

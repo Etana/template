@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/C1SIZE)
+Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 1 (gauche)`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

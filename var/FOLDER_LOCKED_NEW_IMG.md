@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_LOCKED_NEW_IMG)
+Image des nouveaux messages dans des sujets verrouillés définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet - Nouveau & Verrouillé`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

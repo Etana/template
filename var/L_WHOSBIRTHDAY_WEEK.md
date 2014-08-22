@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_WEEK)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_WEEK)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

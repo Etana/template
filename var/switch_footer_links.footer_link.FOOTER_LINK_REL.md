@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_REL)
+Contient la relation partant du document courant vers l'ancre définie dans `PA > Modules > Liens de bas de page | Configuration > Nofollow`.
+
+* __Valeurs possibles :__ `follow`ou `nofollow`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

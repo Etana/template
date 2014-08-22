@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.APPROVAL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.APPROVAL)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

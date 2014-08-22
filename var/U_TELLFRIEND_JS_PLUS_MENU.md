@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_TELLFRIEND_JS_PLUS_MENU)
+Lien vers "Envoyer à un ami" dans le menu Plus !
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

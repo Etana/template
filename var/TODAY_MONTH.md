@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TODAY_MONTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TODAY_MONTH)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

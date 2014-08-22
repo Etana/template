@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PIC_THUMB)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_PIC_THUMB)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

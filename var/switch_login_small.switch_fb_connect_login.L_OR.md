@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login_small.switch_fb_connect_login.L_OR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_login_small.switch_fb_connect_login.L_OR)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

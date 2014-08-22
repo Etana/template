@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MODE_ACTION)
+Action du formulaire de recherche.
+
+*Attention : Si cette variable est supprimée, le formulaire de recherche ne fonctionnera plus !*
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

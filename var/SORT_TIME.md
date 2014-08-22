@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_TIME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SORT_TIME)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

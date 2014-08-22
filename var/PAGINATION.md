@@ -8,6 +8,94 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PAGINATION)
+Code html de la pagination.
+
+* __Exemple de remplacement français sur un sujet de deux pages :__ 
+
+```html
+<script type="text/javascript">
+//<![CDATA[
+var agt = navigator.userAgent.toLowerCase();
+var originalFirstChild;
+var display = false;
+
+function createPagination(which, string, x, y)
+{
+	if ( display == true )
+	{
+		destroyPagination();
+		display = false;
+	}
+	else
+	{
+		display = true;
+
+		if (typeof(originalFirstChild) == "undefined")
+		{
+			originalFirstChild = document.body.firstChild;
+		}
+
+		x = document.all ? (event.clientX + document.body.scrollLeft) : x;
+		y = document.all ? (event.clientY + document.body.scrollTop) : y;
+
+		element = document.createElement("div");
+		element.style.position = "absolute";
+		element.style.zIndex = 1000;
+		element.style.visibility = "hidden";
+		excessWidth = 0;
+
+		excessHeight = 20;
+		element.innerHTML = '<table cellspacing="0" cellpadding="0" border="0" style="width:auto;"><tr><td><span class="gen">' + string + "</span></td></tr></table>";
+		renderedElement = document.body.insertBefore(element, document.body.firstChild);
+		renderedWidth = renderedElement.offsetWidth;
+		renderedHeight = renderedElement.offsetHeight;
+
+		overFlowX = x + renderedWidth + excessWidth - document.body.offsetWidth;
+		x = overFlowX > 0 ? x - overFlowX : x;
+
+		overFlowY = y + renderedHeight + excessHeight - window.innerHeight - window.pageYOffset;
+		y = overFlowY > 0 ? y - overFlowY : y;
+
+		renderedElement.style.top = (y + 15) + "px";
+		renderedElement.style.left = (x + 15) + "px";
+
+		if (agt.indexOf("gecko") != -1 && agt.indexOf("win") != -1)
+		{
+			setTimeout('renderedElement.style.visibility = "visible"', 1);
+		}
+		else
+		{
+			renderedElement.style.visibility = "visible";
+		}
+	}
+}
+
+function Pagination()
+{
+}
+
+function do_pagination_start()
+{
+	var start = document.go_page.start.value;
+	start = (start > 2) ? 2 : start;
+	start = (start - 1) * 15;
+	start = (isNaN(start) || start < 0 ) ? 0 : start;
+
+self.location.href = start ? ['','t6p'+start+'-eeeeeeeeeeeeeee'].join('/') : ['','t6-eeeeeeeeeeeeeee'].join('/');
+
+}
+
+function destroyPagination()
+{
+	if (document.body.firstChild != originalFirstChild)
+	{
+		document.body.removeChild(document.body.firstChild);
+	}
+}
+//]]>
+</script><a href="javascript:Pagination();" onmousedown="createPagination(this, '<form name=&quot;go_page&quot; ><table class=&quot;forumline&quot; cellpadding=&quot;5&quot; cellspacing=&quot;1&quot; border=&quot;0&quot; width=&quot;150&quot;><tr><th class=&quot;thHead&quot;>Aller à la page</th></tr><tr><td class=&quot;row1&quot; align=&quot;center&quot;><input type=&quot;text&quot; class=&quot;bginput&quot; name=&quot;start&quot; size=&quot;5&quot; onKeyPress=&quot;if (event.keyCode==13) { do_pagination_start();return false; }&quot; /> <input type=&quot;button&quot; class=&quot;button&quot; value=&quot;Aller&quot; onclick=&quot;do_pagination_start();return false;&quot; /></td></tr></table></form>', event.pageX, event.pageY);">Aller à la page</a> : <b>1</b>, <a href="/t6p15-eeeeeeeeeeeeeee">2</a>&nbsp;&nbsp;<a href="/t6p15-eeeeeeeeeeeeeee"><img class="sprite-arrow_prosilver_right" src="http://illiweb.com/fa/empty.gif" alt="Suivant" /></a>
+```
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_INTERLACE_CHECKED)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/NUFF_INTERLACE_CHECKED)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

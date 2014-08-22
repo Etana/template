@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_HEIGHT)
+Contient la hauteur du redimensionnement des images définie dans `PA > Général > Messages et Emails | Configuration > Redimensionnement des images > Hauteur`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

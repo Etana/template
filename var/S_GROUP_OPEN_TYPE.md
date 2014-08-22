@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_OPEN_TYPE)
+Remplacé par `0`.
+
+Valeur correspondante à un groupe ouvert.
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

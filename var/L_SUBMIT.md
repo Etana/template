@@ -8,6 +8,17 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SUBMIT)
+Chaîne de texte.
+
+#### Dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :
+
+* __Remplacement français :__ `Trier`
+
+#### Ailleurs :
+
+* __Remplacement français :__ `Ok`
+{%groupcp_info_body%}{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

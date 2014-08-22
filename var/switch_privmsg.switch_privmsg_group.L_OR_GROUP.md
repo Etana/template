@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.L_OR_GROUP)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.L_OR_GROUP)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

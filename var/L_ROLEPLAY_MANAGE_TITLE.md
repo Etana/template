@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ROLEPLAY_MANAGE_TITLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ROLEPLAY_MANAGE_TITLE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

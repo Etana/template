@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/META)
+Contient les différentes balises META de votre forum.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/INBOX_LIMIT_IMG_WIDTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/INBOX_LIMIT_IMG_WIDTH)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

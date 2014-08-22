@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.U_DATE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.U_DATE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.SIZE)
+Variable non utilisée.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

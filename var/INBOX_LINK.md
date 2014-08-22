@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/INBOX_LINK)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/INBOX_LINK)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

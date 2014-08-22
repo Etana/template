@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAMESPACE_BBCODE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAMESPACE_BBCODE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

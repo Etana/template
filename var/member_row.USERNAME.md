@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/member_row.USERNAME)
+Code html du nom d'utilisateur du membre sur lequel on boucle.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PROFILE)
+{%%}Adresse url absolue vers l'édition de son profil : `/profile?mode=editprofile`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

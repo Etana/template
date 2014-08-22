@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JAVASCRIPT)
+Variable actuellement inutilisée.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

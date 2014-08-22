@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POPUP_ON_PRIVMSG_EXPLAIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POPUP_ON_PRIVMSG_EXPLAIN)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

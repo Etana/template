@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF)
+Contient l'URL du lien défini dans `PA > Modules > Liens de bas de page | Configuration > URL du lien`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

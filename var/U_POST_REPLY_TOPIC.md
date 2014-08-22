@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_POST_REPLY_TOPIC)
+Remplacé par l'URL absolue de réponse au sujet sur lequel on se trouve.
+
+* __Exemple de remplacement :__ `/post?t=6&mode=reply`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLL_CANCEL_VOTE_AUTHORIZED_STATUS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/POLL_CANCEL_VOTE_AUTHORIZED_STATUS)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

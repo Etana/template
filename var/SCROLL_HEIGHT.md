@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SCROLL_HEIGHT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SCROLL_HEIGHT)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

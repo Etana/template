@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_WIDTH)
+Largeur du popup de connexion définie dans `PA > Général > Forum | Configuration > Popup de connexion > Largeur`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)
+Contient le nombre de colonnes affichées.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

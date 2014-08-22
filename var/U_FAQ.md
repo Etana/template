@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_FAQ)
+{%%}Adresse url absolue vers la faq : `/faq`.
+
 ## Utilisations dans les templates
 
 ### Version PunBB

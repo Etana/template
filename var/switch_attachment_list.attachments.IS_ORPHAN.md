@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.IS_ORPHAN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.IS_ORPHAN)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

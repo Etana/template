@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_AUTO_LOGIN)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Connexion automatique`
+{%%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

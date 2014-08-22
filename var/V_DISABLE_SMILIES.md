@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_DISABLE_SMILIES)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/V_DISABLE_SMILIES)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

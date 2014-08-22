@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_MEMBER_SELECT_NEW)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/GROUP_MEMBER_SELECT_NEW)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

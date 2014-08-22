@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_CFAQ_JSLIB)
+Adresse URL du script utilisé pour la FAQ : `http://illiweb.com/rsc/53/frm/collapsible_faq.js`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

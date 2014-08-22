@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/URL_BOARD_DIRECTORY)
+Lien vers l'annuaire des forums dans la langue du forum.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

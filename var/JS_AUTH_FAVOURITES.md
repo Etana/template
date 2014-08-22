@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_AUTH_FAVOURITES)
+Contient la valeur `false`.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

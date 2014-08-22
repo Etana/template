@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.CLASS_ROWPIC)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.CLASS_ROWPIC)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

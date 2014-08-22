@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.INTERESTS)
+Contient l'humeur du membre.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

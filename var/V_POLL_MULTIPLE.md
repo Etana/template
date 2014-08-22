@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_POLL_MULTIPLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/V_POLL_MULTIPLE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

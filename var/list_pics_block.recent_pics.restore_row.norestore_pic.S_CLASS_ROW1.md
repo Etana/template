@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.restore_row.norestore_pic.S_CLASS_ROW1)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.restore_row.norestore_pic.S_CLASS_ROW1)
+
 ## Utilisations dans les templates
 
 ### Version phpBB2

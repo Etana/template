@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LOCATION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LOCATION)
+
 ## Utilisations dans les templates
 
 ### Version PunBB

@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ERROR_MESSAGE)
+Contenu du message d'erreur.
+
+*Attention : Si vous supprimez cette variable, vous n'aurez plus aucune information sur les messages d'erreur !*
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

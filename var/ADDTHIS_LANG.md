@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ADDTHIS_LANG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ADDTHIS_LANG)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

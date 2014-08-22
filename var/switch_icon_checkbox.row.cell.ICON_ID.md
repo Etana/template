@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_ID)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_ID)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

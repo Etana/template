@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.LAST_POST_AUTHOR)
+Contient le nom d'utilisateur du membre ayant posté en dernier dans le sujet.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

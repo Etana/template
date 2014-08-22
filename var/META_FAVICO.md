@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/META_FAVICO)
+Contient la balise META gérant le favicon de votre forum.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

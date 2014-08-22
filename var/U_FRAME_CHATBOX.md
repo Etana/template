@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

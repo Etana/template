@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.USER_POSTS_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.USER_POSTS_IMG)
+
 ## Utilisations dans les templates
 
 ### Version Invision

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_USERS_GALLERY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_USERS_GALLERY)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

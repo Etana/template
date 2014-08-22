@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FIND_USERNAME)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Trouver un nom d'utilisateur`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

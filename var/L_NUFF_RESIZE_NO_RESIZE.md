@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_RESIZE_NO_RESIZE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NUFF_RESIZE_NO_RESIZE)
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

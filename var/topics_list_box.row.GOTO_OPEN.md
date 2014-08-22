@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.GOTO_OPEN)
+Remplacé par `[` si il y a plus d'une page dans le sujet.
+
 ## Utilisations dans les templates
 
 ### Version PunBB

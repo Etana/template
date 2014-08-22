@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_HIDDEN_SID)
+Contient la valeur cachée de votre identifiant de session.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

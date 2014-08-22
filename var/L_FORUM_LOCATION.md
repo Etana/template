@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FORUM_LOCATION)
+Chaîne de texte.
+
+* __Contenu en français :__ `Localisation sur le Forum`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

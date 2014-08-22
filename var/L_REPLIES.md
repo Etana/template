@@ -8,6 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REPLIES)
+Chaîne de texte.
+
+* __Contenu en français :__ `Réponses`
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

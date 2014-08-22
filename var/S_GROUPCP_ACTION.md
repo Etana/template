@@ -8,6 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUPCP_ACTION)
+Adresse absolue de la page du groupe sur lequel on se trouve.
+
+* __Exemple de remplacement :__ `/g2-moderateurs`
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MESSAGE_TEXT)
+Contenu du message.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

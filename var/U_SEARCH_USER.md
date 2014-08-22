@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_USER)
+Remplacé par l'adresse absolue `/search?mode=searchuser` d'une page de recherche de nom d'utilisateur.
+{%groupcp_pending_info%}
+
 ## Utilisations dans les templates
 
 ### Version phpBB3

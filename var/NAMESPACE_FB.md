@@ -8,6 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAMESPACE_FB)
+Remplacé par `xmlns:fb="http://www.facebook.com/2008/fbml"` si vous êtes sur une page avec un module de Facebook Connect.
+
 ## Utilisations dans les templates
 
 ### Version phpBB3
