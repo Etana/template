@@ -1,6 +1,6 @@
 # L_SELECT_SORT_METHOD
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_modcp_body`](../tpl/album_modcp_body.md#readme), [`album_moderate_body`](../tpl/album_moderate_body.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -12,7 +12,7 @@ Chaîne de texte.
 
 * __Remplacement en français dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :__ `Sélectionner la méthode de tri`
 * __Remplacement en français ailleurs :__ `Trier par`
-{%groupcp_info_body%}{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

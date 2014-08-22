@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Connexion`
-{%%}
+
 
 ## Utilisations dans les templates
 

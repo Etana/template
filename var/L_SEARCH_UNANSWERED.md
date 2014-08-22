@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Voir les messages sans réponses`
-{%%}
+
 
 ## Utilisations dans les templates
 

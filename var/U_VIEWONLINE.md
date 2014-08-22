@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_VIEWONLINE)
-{%%}Adresse url absolue vers la page "qui est en ligne".
+Adresse url absolue vers la page "qui est en ligne".
 
 * __Remplacement :__ `/viewonline`
 * __Exemple d'utilisation :__ 

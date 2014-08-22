@@ -1,6 +1,6 @@
 # pending_members_row
 * __Type :__ variable de bouclage
-* __Utilisable dans :__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -11,7 +11,7 @@
 Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 
 * si le membre est administrateur ou modérateur du groupe
-{%groupcp_info_body%}
+
 
 ## Utilisations dans les templates
 

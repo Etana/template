@@ -9,7 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_SELF)
 Adresse url absolue vers "Voir ses messages" : `/search?search_id=egosearch`
-{%%}
+
 
 ## Utilisations dans les templates
 

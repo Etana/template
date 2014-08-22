@@ -18,10 +18,7 @@
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_ROLEPLAY_MANAGE_TITLE}`](../var/L_ROLEPLAY_MANAGE_TITLE.md#readme)
-	* [`{L_SEARCH_NEW}`](../var/L_SEARCH_NEW.md#readme)
-	* [`{L_SEARCH_SELF}`](../var/L_SEARCH_SELF.md#readme)
 	* [`{L_VIEWING_PROFILE}`](../var/L_VIEWING_PROFILE.md#readme)
-	* [`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{POSTER_RANK}`](../var/POSTER_RANK.md#readme)
 	* [`<!-- BEGIN rpg_fields -->`](../var/rpg_fields.md#readme)
@@ -36,12 +33,6 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_VALUE_NEW}`](../var/rpg_fields_left.F_VALUE_NEW.md#readme)
 	* [`{RPG_IMAGE}`](../var/RPG_IMAGE.md#readme)
 	* [`{SOUS_MENU}`](../var/SOUS_MENU.md#readme)
-	* [`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- BEGIN switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
-	* [`<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
-	* [`{U_SEARCH_NEW}`](../var/U_SEARCH_NEW.md#readme)
-	* [`{U_SEARCH_SELF}`](../var/U_SEARCH_SELF.md#readme)
 
 ## Template par défaut phpBB3
 

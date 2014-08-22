@@ -9,7 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in)
 Le contenu de la boucle est affiché si l'utilisateur est connecté.
-{%%}
+
 
 ## Utilisations dans les templates
 

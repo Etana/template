@@ -105,11 +105,29 @@ with open(script_dir+'/README.md', 'w') as f:
 
 variables = {}
 
+template_variables = { tem:{} for tem in template_contents['subsilver'] }
+
 all_desc = json.loads(requests.get('https://fa-tvars.appspot.com/export').text)
 var_desc = all_desc[0]
 templates_desc = all_desc[1]
 
-template_variables = { tem:{} for tem in template_contents['subsilver'] }
+var_globales = []
+
+for var_name in var_desc:
+    if '{%%}' in var_desc[var_name]:
+        var_globales += [var_name]
+        var_desc[var_name] = var_desc[var_name].replace('{%%}','')
+    for tem in list(set(re.findall('{%([a-z0-9_-]+)%}', var_desc[var_name]))):
+        if tem not in template_variables:
+            continue 
+        template_variables[tem][var_name] = []
+        var_desc[var_name] = var_desc[var_name].replace('{%'+tem+'%}','')
+        for ver in template_versions:
+            if var_name not in variables:
+                variables[var_name] = {}
+            if ver not in variables[var_name]:
+                variables[var_name][ver] = {}
+            variables[var_name][ver][tem] = []
 
 '''Parsing des templates'''
 for ver in template_contents:
@@ -235,6 +253,8 @@ for tem in template_variables:
         f.write('\n\n## Variables disponibles\n* [__Variables globales__](../../variables_globales.md#readme)\n* __Variables propres à ce template :__')
 
         for var in sorted(template_variables[tem], key=str.lower):
+            if var in var_globales or var.split('.')[0] in var_globales:
+                continue
             types = list(set(r[1] for r in template_variables[tem][var]))
             for link in var2links(var, types):
                 f.write('\n\t* '+link)
@@ -243,3 +263,41 @@ for tem in template_variables:
             f.write('\n\n## Template par défaut '+template_versions[ver]+'\n\n[__Code source__](../src/punbb/index_box.tpl#files)\n\n### Positions des variables\n')
             for r in sorted(([r[0], r[1], var_name] for var_name in template_variables[tem] for r in template_variables[tem][var_name] if r[2] == ver), key=lambda x: x[2]):
                 f.write('\n* __'+var2text(r[2], r[1])+'(../var/'+r[2]+'.md#readme) :__ ligne [`'+str(r[0])+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(r[0])+')')
+
+def guess_type(var_name):
+    if re.match('[A-Z_0-9]+', var_name.split('.')[-1]):
+        return [0]
+    return [1]
+
+'''Write file for whole variables list'''
+with open(script_dir+'/variables.md', 'w') as f:
+    f.write('# Variables de template\n* [Variables avec description](variables_avec_description.md#readme)\n* [Variables sans description](variables_sans_description.md#readme)\n\n### Liste de toutes les variables')
+    for var_name in sorted(variables, key=str.lower):
+        for link in var2links(var_name, guess_type(var_name)):
+            f.write('\n* '+link)
+
+'''Write file for whole variables without description list'''
+with open(script_dir+'/variables_sans_description.md', 'w') as f:
+    f.write('# Variables de template sans description\n*Variables et attributs qui n\'ont pas &eacute;t&eacute; d&eacute;crits.*')
+    for var_name in sorted(variables, key=str.lower):
+        if var_name in var_desc:
+            continue
+        for link in var2links(var_name, guess_type(var_name)):
+            f.write('\n* '+link)
+
+
+'''Write file for whole variables with description list'''
+with open(script_dir+'/variables_avec_description.md', 'w') as f:
+    f.write('# Variables de template avec description\n*Variables et attributs qui ont &eacute;t&eacute; d&eacute;crits.*')
+    for var_name in sorted(variables, key=str.lower):
+        if var_name not in var_desc:
+            continue
+        for link in var2links(var_name, guess_type(var_name)):
+            f.write('\n* '+link)
+
+'''Write file for globals variables list'''
+with open(script_dir+'/variables_globales.md', 'w') as f:
+    f.write('# Variables de template globales\n*Variables qui sont utilisables sur tout les templates.*')
+    for var_name in sorted(var_globales, key=str.lower):
+        for link in var2links(var_name, guess_type(var_name)):
+            f.write('\n* '+link)     

@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Membres`
-{%%}
+
 
 ## Utilisations dans les templates
 

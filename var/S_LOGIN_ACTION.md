@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION)
-{%%}Action du formulaire de connexion.
+Action du formulaire de connexion.
 
 * __Remplacée par :__ `/login`
 

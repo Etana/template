@@ -13,12 +13,10 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
 	* [`{JS_MENU}`](../var/JS_MENU.md#readme)
 	* [`{L_ALBUM}`](../var/L_ALBUM.md#readme)
 	* [`{L_DESC_TOO_LONG}`](../var/L_DESC_TOO_LONG.md#readme)
 	* [`{L_EDIT_PIC_INFO}`](../var/L_EDIT_PIC_INFO.md#readme)
-	* [`{L_INDEX}`](../var/L_INDEX.md#readme)
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_MAX_LENGTH}`](../var/L_MAX_LENGTH.md#readme)
 	* [`{L_MOVE_TO_CATEGORY}`](../var/L_MOVE_TO_CATEGORY.md#readme)
@@ -27,11 +25,8 @@
 	* [`{L_PIC_TITLE}`](../var/L_PIC_TITLE.md#readme)
 	* [`{L_PLAIN_TEXT_ONLY}`](../var/L_PLAIN_TEXT_ONLY.md#readme)
 	* [`{L_RESET}`](../var/L_RESET.md#readme)
-	* [`{L_SEARCH_NEW}`](../var/L_SEARCH_NEW.md#readme)
-	* [`{L_SEARCH_SELF}`](../var/L_SEARCH_SELF.md#readme)
 	* [`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)
 	* [`{L_UPLOAD_NO_TITLE}`](../var/L_UPLOAD_NO_TITLE.md#readme)
-	* [`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`<!-- BEGIN move_to_category -->`](../var/move_to_category.md#readme)
 	* [`<!-- END move_to_category -->`](../var/move_to_category.md#readme)
@@ -43,15 +38,8 @@
 	* [`{S_CATEGORY_SELECT}`](../var/S_CATEGORY_SELECT.md#readme)
 	* [`{S_PIC_DESC_MAX_LENGTH}`](../var/S_PIC_DESC_MAX_LENGTH.md#readme)
 	* [`{STYLE_CSS}`](../var/STYLE_CSS.md#readme)
-	* [`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- BEGIN switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
-	* [`<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
 	* [`{U_ALBUM}`](../var/U_ALBUM.md#readme)
 	* [`{U_FORUM_INDEX}`](../var/U_FORUM_INDEX.md#readme)
-	* [`{U_INDEX}`](../var/U_INDEX.md#readme)
-	* [`{U_SEARCH_NEW}`](../var/U_SEARCH_NEW.md#readme)
-	* [`{U_SEARCH_SELF}`](../var/U_SEARCH_SELF.md#readme)
 
 ## Template par défaut phpBB3
 

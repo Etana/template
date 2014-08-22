@@ -19,7 +19,6 @@
 	* [`{L_LASTPOST}`](../var/L_LASTPOST.md#readme)
 	* [`{L_MARK_TOPICS_READ}`](../var/L_MARK_TOPICS_READ.md#readme)
 	* [`{L_REPLIES}`](../var/L_REPLIES.md#readme)
-	* [`{L_SEARCH}`](../var/L_SEARCH.md#readme)
 	* [`{L_TOPICS}`](../var/L_TOPICS.md#readme)
 	* [`{L_VIEWS}`](../var/L_VIEWS.md#readme)
 	* [`{PAGINATION}`](../var/PAGINATION.md#readme)

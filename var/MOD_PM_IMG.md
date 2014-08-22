@@ -1,6 +1,6 @@
 # MOD_PM_IMG
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -15,7 +15,7 @@ Image `Message Privé` ( choisie dans [`Index`](http://votre-forum.appspot.com/#
 ```html
 <a href="/privmsg?mode=post&amp;u=1"><img src="http://illiweb.com/fa/subsilver/icon_pm.gif" class="i_icon_pm" alt="Envoyer un message privé" title="Envoyer un message privé" /></a>
 ```
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

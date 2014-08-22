@@ -13,7 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
 	* [`{JS_MARK_MODE_0}`](../var/JS_MARK_MODE_0.md#readme)
 	* [`{JS_MARK_MODE_1}`](../var/JS_MARK_MODE_1.md#readme)
 	* [`{JS_MARK_MODE_2}`](../var/JS_MARK_MODE_2.md#readme)
@@ -24,7 +23,6 @@
 	* [`{L_DELETE}`](../var/L_DELETE.md#readme)
 	* [`{L_EDIT}`](../var/L_EDIT.md#readme)
 	* [`{L_GO}`](../var/L_GO.md#readme)
-	* [`{L_INDEX}`](../var/L_INDEX.md#readme)
 	* [`{L_LAST_EDIT}`](../var/L_LAST_EDIT.md#readme)
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
@@ -35,11 +33,8 @@
 	* [`{L_REPORTER}`](../var/L_REPORTER.md#readme)
 	* [`{L_REPORTS_MARKED}`](../var/L_REPORTS_MARKED.md#readme)
 	* [`{L_RESET}`](../var/L_RESET.md#readme)
-	* [`{L_SEARCH_NEW}`](../var/L_SEARCH_NEW.md#readme)
-	* [`{L_SEARCH_SELF}`](../var/L_SEARCH_SELF.md#readme)
 	* [`{L_STATUS}`](../var/L_STATUS.md#readme)
 	* [`{L_VIEW}`](../var/L_VIEW.md#readme)
-	* [`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{MARK_SELECT}`](../var/MARK_SELECT.md#readme)
 	* [`{MODE}`](../var/MODE.md#readme)
@@ -72,18 +67,11 @@
 	* [`<!-- END switch_list -->`](../var/switch_list.md#readme)
 	* [`<!-- BEGIN switch_status -->`](../var/switch_status.md#readme)
 	* [`<!-- END switch_status -->`](../var/switch_status.md#readme)
-	* [`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- BEGIN switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
-	* [`<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
 	* [`<!-- BEGIN switch_view -->`](../var/switch_view.md#readme)
 	* [`<!-- END switch_view -->`](../var/switch_view.md#readme)
 	* [`{U_ACTION}`](../var/U_ACTION.md#readme)
-	* [`{U_INDEX}`](../var/U_INDEX.md#readme)
 	* [`{U_REPORT_ARCHIVE}`](../var/U_REPORT_ARCHIVE.md#readme)
 	* [`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)
-	* [`{U_SEARCH_NEW}`](../var/U_SEARCH_NEW.md#readme)
-	* [`{U_SEARCH_SELF}`](../var/U_SEARCH_SELF.md#readme)
 
 ## Template par défaut phpBB3
 

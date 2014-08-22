@@ -11,7 +11,7 @@
 Texte.
   
 * __Remplacement français :__ `Membres en attente`
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

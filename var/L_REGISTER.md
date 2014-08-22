@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `S'enregistrer`
-{%%}
+
 
 ## Utilisations dans les templates
 

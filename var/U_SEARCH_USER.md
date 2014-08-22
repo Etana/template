@@ -1,6 +1,6 @@
 # U_SEARCH_USER
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -9,7 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_USER)
 Remplacé par l'adresse absolue `/search?mode=searchuser` d'une page de recherche de nom d'utilisateur.
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

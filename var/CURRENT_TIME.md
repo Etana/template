@@ -12,7 +12,7 @@ Texte avec la date actuelle.
 
 * __Contenu en français :__ `La date/heure actuelle est JJJ JJ MMM AAAA - HH:MM`
 * __Exemple de remplacement français :__ `La date/heure actuelle est Mar 26 Mar 2013 - 10:01`
-{%%}
+
 
 ## Utilisations dans les templates
 

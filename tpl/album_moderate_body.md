@@ -13,7 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
 	* [`{JS_MENU}`](../var/JS_MENU.md#readme)
 	* [`{L_ALBUM}`](../var/L_ALBUM.md#readme)
 	* [`{L_APPROVAL}`](../var/L_APPROVAL.md#readme)
@@ -23,7 +22,6 @@
 	* [`{L_CHECK_ALL}`](../var/L_CHECK_ALL.md#readme)
 	* [`{L_DELETE}`](../var/L_DELETE.md#readme)
 	* [`{L_DESC}`](../var/L_DESC.md#readme)
-	* [`{L_INDEX}`](../var/L_INDEX.md#readme)
 	* [`{L_LOCK}`](../var/L_LOCK.md#readme)
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_MODCP}`](../var/L_MODCP.md#readme)
@@ -31,8 +29,6 @@
 	* [`{L_ORDER}`](../var/L_ORDER.md#readme)
 	* [`{L_PIC_TITLE}`](../var/L_PIC_TITLE.md#readme)
 	* [`{L_POSTER}`](../var/L_POSTER.md#readme)
-	* [`{L_SEARCH_NEW}`](../var/L_SEARCH_NEW.md#readme)
-	* [`{L_SEARCH_SELF}`](../var/L_SEARCH_SELF.md#readme)
 	* [`{L_SELECT}`](../var/L_SELECT.md#readme)
 	* [`{L_SELECT_SORT_METHOD}`](../var/L_SELECT_SORT_METHOD.md#readme)
 	* [`{L_SORT}`](../var/L_SORT.md#readme)
@@ -42,7 +38,6 @@
 	* [`{L_UNCHECK_ALL}`](../var/L_UNCHECK_ALL.md#readme)
 	* [`{L_UNLOCK}`](../var/L_UNLOCK.md#readme)
 	* [`{L_VIEW}`](../var/L_VIEW.md#readme)
-	* [`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`<!-- BEGIN nav_modcp -->`](../var/nav_modcp.md#readme)
@@ -74,15 +69,8 @@
 	* [`{SORT_USERNAME_OPTION}`](../var/SORT_USERNAME_OPTION.md#readme)
 	* [`{SORT_VIEW}`](../var/SORT_VIEW.md#readme)
 	* [`{STYLE_CSS}`](../var/STYLE_CSS.md#readme)
-	* [`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- BEGIN switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
-	* [`<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
 	* [`{U_ALBUM}`](../var/U_ALBUM.md#readme)
 	* [`{U_FORUM_INDEX}`](../var/U_FORUM_INDEX.md#readme)
-	* [`{U_INDEX}`](../var/U_INDEX.md#readme)
-	* [`{U_SEARCH_NEW}`](../var/U_SEARCH_NEW.md#readme)
-	* [`{U_SEARCH_SELF}`](../var/U_SEARCH_SELF.md#readme)
 
 ## Template par défaut phpBB3
 

@@ -1,6 +1,6 @@
 # L_SUBMIT
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme), [`buy_credits`](../tpl/buy_credits.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme), [`merge_body`](../tpl/merge_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_confirm_code`](../tpl/posting_confirm_code.md#readme), [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme)
+* __Utilisable dans :__ [`album_edit_body`](../tpl/album_edit_body.md#readme), [`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme), [`buy_credits`](../tpl/buy_credits.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme), [`merge_body`](../tpl/merge_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_confirm_code`](../tpl/posting_confirm_code.md#readme), [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme)
 * __Utilisation :__
 
 ```html
@@ -17,7 +17,7 @@ Chaîne de texte.
 #### Ailleurs :
 
 * __Remplacement français :__ `Ok`
-{%groupcp_info_body%}{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

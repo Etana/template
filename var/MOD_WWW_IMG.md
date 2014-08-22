@@ -1,6 +1,6 @@
 # MOD_WWW_IMG
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -15,7 +15,7 @@ Image `Visiter le site web du posteur` ( choisie dans [`Index`](http://votre-for
 ```html
 <a href="http://diyu.forumactif.org" target="_userwww"><img src="http://illiweb.com/fa/subsilver/icon_www.gif" id="i_icon_www" alt="Visiter le site web du posteur" title="Visiter le site web du posteur" /></a>
 ```
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

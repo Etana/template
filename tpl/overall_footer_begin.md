@@ -14,7 +14,6 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{C3SIZE}`](../var/C3SIZE.md#readme)
-	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
 	* [`<!-- BEGIN giefmod_index2 -->`](../var/giefmod_index2.md#readme)
 	* [`<!-- END giefmod_index2 -->`](../var/giefmod_index2.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod_index2.MODVAR}`](../var/giefmod_index2.MODVAR.md#readme)
@@ -29,7 +28,6 @@
 	* [`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)
 	* [`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)
 	* [`{SPACE_ROW}`](../var/SPACE_ROW.md#readme)
-	* [`{U_INDEX}`](../var/U_INDEX.md#readme)
 
 ## Template par défaut phpBB3
 

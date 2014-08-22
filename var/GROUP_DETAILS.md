@@ -1,6 +1,6 @@
 # GROUP_DETAILS
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -18,7 +18,7 @@ Texte contenant une phrase avec votre statut par rapport au groupe.
     * __si le groupe est ouvert :__ `Ceci est un groupe ouvert: cliquez pour faire une demande d'adhésion`
     * __si le groupe est fermé :__ `Ceci est un groupe fermé: plus aucun utilisateur accepté`
     * __si le groupe est invisible :__ `Ceci est groupe invisible: l'ajout automatique d'utilisateurs n'est pas autorisé`
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

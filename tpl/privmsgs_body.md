@@ -14,7 +14,6 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{BOX_SIZE_STATUS}`](../var/BOX_SIZE_STATUS.md#readme)
-	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
 	* [`{INBOX}`](../var/INBOX.md#readme)
 	* [`{INBOX_IMG}`](../var/INBOX_IMG.md#readme)
 	* [`{INBOX_LIMIT_IMG_WIDTH}`](../var/INBOX_LIMIT_IMG_WIDTH.md#readme)
@@ -26,7 +25,6 @@
 	* [`{L_DISPLAY_MESSAGES}`](../var/L_DISPLAY_MESSAGES.md#readme)
 	* [`{L_FROM_OR_TO}`](../var/L_FROM_OR_TO.md#readme)
 	* [`{L_GO}`](../var/L_GO.md#readme)
-	* [`{L_INDEX}`](../var/L_INDEX.md#readme)
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_MARK}`](../var/L_MARK.md#readme)
 	* [`{L_MARK_ALL}`](../var/L_MARK_ALL.md#readme)
@@ -35,11 +33,8 @@
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_PM}`](../var/L_PM.md#readme)
 	* [`{L_SAVE_MARKED}`](../var/L_SAVE_MARKED.md#readme)
-	* [`{L_SEARCH_NEW}`](../var/L_SEARCH_NEW.md#readme)
-	* [`{L_SEARCH_SELF}`](../var/L_SEARCH_SELF.md#readme)
 	* [`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)
 	* [`{L_UNMARK_ALL}`](../var/L_UNMARK_ALL.md#readme)
-	* [`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)
 	* [`<!-- BEGIN listrow -->`](../var/listrow.md#readme)
 	* [`<!-- END listrow -->`](../var/listrow.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.DATE}`](../var/listrow.DATE.md#readme)
@@ -75,13 +70,6 @@
 	* [`<!-- END switch_no_messages -->`](../var/switch_no_messages.md#readme)
 	* [`<!-- BEGIN switch_save -->`](../var/switch_save.md#readme)
 	* [`<!-- END switch_save -->`](../var/switch_save.md#readme)
-	* [`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- BEGIN switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
-	* [`<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
-	* [`{U_INDEX}`](../var/U_INDEX.md#readme)
-	* [`{U_SEARCH_NEW}`](../var/U_SEARCH_NEW.md#readme)
-	* [`{U_SEARCH_SELF}`](../var/U_SEARCH_SELF.md#readme)
 
 ## Template par défaut phpBB3
 

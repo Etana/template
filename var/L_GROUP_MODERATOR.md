@@ -1,6 +1,6 @@
 # L_GROUP_MODERATOR
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -11,7 +11,7 @@
 Texte.
   
 * __Remplacement français :__ `Modérateur du groupe`
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

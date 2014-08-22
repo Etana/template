@@ -17,7 +17,7 @@ Le contenu de la boucle s'affiche si :
     * soit il n'a été sur une page depuis le message privé
 
 Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message privé reçu.
-{%%}
+
 
 ## Utilisations dans les templates
 

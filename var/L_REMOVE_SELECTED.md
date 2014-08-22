@@ -1,6 +1,6 @@
 # L_REMOVE_SELECTED
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -11,7 +11,7 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `Supprimer la sélection`
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

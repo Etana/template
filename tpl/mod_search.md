@@ -14,7 +14,6 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme)
-	* [`{L_SEARCH}`](../var/L_SEARCH.md#readme)
 	* [`{SEARCH_ADVANCED}`](../var/SEARCH_ADVANCED.md#readme)
 	* [`{SEARCH_INSIDE}`](../var/SEARCH_INSIDE.md#readme)
 	* [`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme)

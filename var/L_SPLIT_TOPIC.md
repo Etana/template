@@ -1,6 +1,6 @@
 # L_SPLIT_TOPIC
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme)
+* __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -11,7 +11,7 @@
 Texte.
 
 * __Remplacement français :__ `Diviser le sujet`
-{%viewtopic_body%}
+
 
 ## Utilisations dans les templates
 

@@ -15,20 +15,14 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
-	* [`{L_INDEX}`](../var/L_INDEX.md#readme)
 	* [`{L_NO}`](../var/L_NO.md#readme)
 	* [`{L_YES}`](../var/L_YES.md#readme)
-	* [`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)
 	* [`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme)
 	* [`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme)
 	* [`{OPTIONAL_BAN}`](../var/OPTIONAL_BAN.md#readme)
 	* [`{OPTIONAL_BAN_NEW}`](../var/OPTIONAL_BAN_NEW.md#readme)
 	* [`{S_CONFIRM_ACTION}`](../var/S_CONFIRM_ACTION.md#readme)
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
-	* [`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`{U_INDEX}`](../var/U_INDEX.md#readme)
 
 ## Template par défaut phpBB3
 

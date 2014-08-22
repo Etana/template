@@ -1,6 +1,6 @@
 # switch_subscribe_group_input
 * __Type :__ variable de bouclage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -13,7 +13,7 @@ Le contenu de la boucle est affiché si :
 * le membre est connecté.
 * le membre ne fait pas partie et n'est pas candidat du groupe.
 * le statut du groupe est `ouvert`.
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

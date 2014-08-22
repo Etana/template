@@ -1,6 +1,6 @@
 # GROUP_NAME
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -9,7 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_NAME)
 Remplacé par le nom du groupe dont on est sur la page.
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

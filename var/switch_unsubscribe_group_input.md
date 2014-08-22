@@ -1,6 +1,6 @@
 # switch_unsubscribe_group_input
 * __Type :__ variable de bouclage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -12,7 +12,7 @@ Le contenu du bouclage est affiché :
 
 * soit si le membre fait partie du groupe et n'en est pas le modérateur.
 * soit si le membre est candidat pour le groupe.
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

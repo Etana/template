@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Groupes`
-{%%}
+
 
 ## Utilisations dans les templates
 

@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Voir ses messages`
-{%%}
+
 
 ## Utilisations dans les templates
 

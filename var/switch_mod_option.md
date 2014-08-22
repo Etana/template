@@ -1,6 +1,6 @@
 # switch_mod_option
 * __Type :__ variable de bouclage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -9,7 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_mod_option)
 Le contenu de la boucle est affiché si le visiteur est administrateur ou modérateur du groupe.
-{%groupcp_pending_info%}
+
 
 
 ## Utilisations dans les templates

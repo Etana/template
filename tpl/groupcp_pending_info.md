@@ -24,7 +24,6 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 	* [`{L_PM}`](../var/L_PM.md#readme)
 	* [`{L_POSTS}`](../var/L_POSTS.md#readme)
 	* [`{L_SELECT}`](../var/L_SELECT.md#readme)
-	* [`{L_USERNAME}`](../var/L_USERNAME.md#readme)
 	* [`{L_WEBSITE}`](../var/L_WEBSITE.md#readme)
 	* [`<!-- BEGIN pending_members_row -->`](../var/pending_members_row.md#readme)
 	* [`<!-- END pending_members_row -->`](../var/pending_members_row.md#readme)

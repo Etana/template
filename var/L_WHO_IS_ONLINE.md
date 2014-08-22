@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Qui est en ligne ?`
-{%%}
+
 
 ## Utilisations dans les templates
 

@@ -16,7 +16,6 @@
 	* [`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)
 	* [`<!-- END html_validation -->`](../var/html_validation.md#readme)
 	* [`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
-	* [`{L_SEARCH}`](../var/L_SEARCH.md#readme)
 	* [`{L_SEARCH_EXPLAIN}`](../var/L_SEARCH_EXPLAIN.md#readme)
 	* [`{L_SEARCH_USERNAME}`](../var/L_SEARCH_USERNAME.md#readme)
 	* [`{L_SELECT}`](../var/L_SELECT.md#readme)

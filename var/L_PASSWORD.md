@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Mot de passe`
-{%%}
+
 
 ## Utilisations dans les templates
 

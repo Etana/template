@@ -13,7 +13,7 @@ Texte avec la date de la dernière visite du membre.
 * __Remplacement français :__ `Dernière visite le JJJ JJ MMM AAAA - HH:MM`
 * __Remplacement français pour un invité :__ `Dernière visite le `
 * __Exemple de remplacement français :__ `Dernière visite le Mar 26 Mar 2013 - 9:26`
-{%%}
+
 
 ## Utilisations dans les templates
 

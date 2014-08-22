@@ -18,7 +18,6 @@
 	* [`{L_LANG}`](../var/L_LANG.md#readme)
 	* [`{L_SMILIES_TITLE}`](../var/L_SMILIES_TITLE.md#readme)
 	* [`{L_VIEW_MORE}`](../var/L_VIEW_MORE.md#readme)
-	* [`{S_CONTENT_ENCODING}`](../var/S_CONTENT_ENCODING.md#readme)
 	* [`{SELECT_OPTIONS}`](../var/SELECT_OPTIONS.md#readme)
 	* [`<!-- BEGIN smilies_row -->`](../var/smilies_row.md#readme)
 	* [`<!-- END smilies_row -->`](../var/smilies_row.md#readme)
@@ -28,10 +27,6 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme)
-	* [`{T_BODY_BGCOLOR}`](../var/T_BODY_BGCOLOR.md#readme)
-	* [`{T_BODY_LINK}`](../var/T_BODY_LINK.md#readme)
-	* [`{T_BODY_TEXT}`](../var/T_BODY_TEXT.md#readme)
-	* [`{T_BODY_VLINK}`](../var/T_BODY_VLINK.md#readme)
 	* [`{T_HEAD_STYLESHEET}`](../var/T_HEAD_STYLESHEET.md#readme)
 
 ## Template par défaut phpBB3

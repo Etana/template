@@ -1,6 +1,6 @@
 # MOD_FROM
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -9,7 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_FROM)
 Valeur du champ `Localisation` du modérateur de groupe.
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

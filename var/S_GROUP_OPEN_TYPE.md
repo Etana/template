@@ -1,6 +1,6 @@
 # S_GROUP_OPEN_TYPE
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -11,7 +11,7 @@
 Remplacé par `0`.
 
 Valeur correspondante à un groupe ouvert.
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

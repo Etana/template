@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_NEW)
-{%%}Adresse url absolue vers "Voir les nouveaux messages depuis votre dernière visite" : `/search?search_id=newposts`
+Adresse url absolue vers "Voir les nouveaux messages depuis votre dernière visite" : `/search?search_id=newposts`
 
 ## Utilisations dans les templates
 

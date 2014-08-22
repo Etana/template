@@ -17,7 +17,6 @@
 	* [`<!-- END html_validation -->`](../var/html_validation.md#readme)
 	* [`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
 	* [`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
-	* [`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme)
 
 ## Template par défaut phpBB3
 

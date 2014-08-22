@@ -1,6 +1,6 @@
 # L_DENY_SELECTED
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -9,7 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DENY_SELECTED)
 Remplacement français `Refuser la sélection` si il y a un membre en cours de demande d'adhésion et que le visiteur est administrateur ou modérateur du groupe.
-{%groupcp_info_body%}
+
 
 ## Utilisations dans les templates
 

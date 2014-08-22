@@ -1,6 +1,6 @@
 # S_GROUP_HIDDEN_CHECKED
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -9,7 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_HIDDEN_CHECKED)
 Chaîne de texte ` checked="checked"` si le groupe est invisible, chaîne vide sinon.
-{%groupcp_pending_info%}
+
 
 ## Utilisations dans les templates
 

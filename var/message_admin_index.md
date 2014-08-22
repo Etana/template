@@ -10,7 +10,7 @@
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index)
 Boucle contenant le message d'accueil.
 
-* __Code :__ {%message_admin_index%}
+* __Code :__ {{message_admin_index}}
 
 ## Utilisations dans les templates
 

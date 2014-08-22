@@ -11,7 +11,7 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Rechercher`
-{%%}
+
 
 ## Utilisations dans les templates
 
