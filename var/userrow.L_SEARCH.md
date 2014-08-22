@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow.L_SEARCH)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/userrow.L_SEARCH)```
-
-## Description[*](https://fa-tvars.appspot.com/var/userrow.L_SEARCH)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/userrow.L_SEARCH)
 
 ## Utilisations dans les templates

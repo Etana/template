@@ -14,15 +14,6 @@ Code html affichant la page sur laquelle vous vous trouvez.
 
 ```html
 Page <strong>X</strong> sur <strong>Y</strong>
-``````
-
-## Description[*](https://fa-tvars.appspot.com/var/PAGE_NUMBER)
-Code html affichant la page sur laquelle vous vous trouvez.
-
-* __Remplacement en français :__
-
-```html
-Page <strong>X</strong> sur <strong>Y</strong>
 ```
 
 ## Utilisations dans les templates

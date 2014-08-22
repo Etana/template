@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_EMOTICONS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_EMOTICONS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_EMOTICONS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_EMOTICONS)
 
 ## Utilisations dans les templates

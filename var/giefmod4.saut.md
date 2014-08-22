@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod4.saut)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod4.saut)```
 
-## Description[*](https://fa-tvars.appspot.com/var/giefmod4.saut)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod4.saut)```
-
 ## Attributs
 
 

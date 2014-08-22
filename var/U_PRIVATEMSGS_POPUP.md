@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS_POPUP)
-Adresse url absolue vers le popup de signalement de nouveau message privé : `/privmsg?mode=newpm`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS_POPUP)
 Adresse url absolue vers le popup de signalement de nouveau message privé : `/privmsg?mode=newpm`.
 
 ## Utilisations dans les templates

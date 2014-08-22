@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.B_SUBMIT)
-Affiche le bouton "Paiements via PayPal".```
-
-## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.B_SUBMIT)
 Affiche le bouton "Paiements via PayPal".
 
 ## Utilisations dans les templates

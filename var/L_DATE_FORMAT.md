@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DATE_FORMAT)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_DATE_FORMAT)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_DATE_FORMAT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_DATE_FORMAT)
 
 ## Utilisations dans les templates

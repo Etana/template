@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/pic_pagination)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/pic_pagination)```
 
-## Description[*](https://fa-tvars.appspot.com/var/pic_pagination)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/pic_pagination)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pic_pagination.PAGINATION}`](../var/pic_pagination.PAGINATION.md#readme)__
 

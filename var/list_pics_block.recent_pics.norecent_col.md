@@ -16,9 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.norecent_col)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.norecent_col)```
 
-## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.norecent_col)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.norecent_col)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1}`](../var/list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1.md#readme)__
 

@@ -12,16 +12,13 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/IMGS)```
 
-## Description[*](https://fa-tvars.appspot.com/var/IMGS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/IMGS)```
-
 ## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.ALT}`](../var/IMGS.ALT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`](../var/IMGS.NEW_LINE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.ALT}`](../var/IMGS.ALT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme)__
 
 
 ## Utilisations dans les templates

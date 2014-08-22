@@ -12,17 +12,14 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.DICE_SCRIPT}`](../var/switch_roll_dice.DICE_SCRIPT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.S_DICE_ROLLS_VALUE}`](../var/switch_roll_dice.S_DICE_ROLLS_VALUE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.L_DICE_ROLLS}`](../var/switch_roll_dice.L_DICE_ROLLS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN row_replace -->`](../var/switch_roll_dice.row_replace.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.row_replace.DICE_SELECTED}`](../var/switch_roll_dice.row_replace.DICE_SELECTED.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.row_replace.DICE_ID}`](../var/switch_roll_dice.row_replace.DICE_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.row_replace.DICE_NAME}`](../var/switch_roll_dice.row_replace.DICE_NAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.row_replace.DICE_SELECTED}`](../var/switch_roll_dice.row_replace.DICE_SELECTED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.S_DICE_ROLLS_VALUE}`](../var/switch_roll_dice.S_DICE_ROLLS_VALUE.md#readme)__
 
 
 ## Utilisations dans les templates

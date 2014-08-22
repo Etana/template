@@ -14,15 +14,12 @@
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.stat_link)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.stat_link)```
 
-## Description[*](https://fa-tvars.appspot.com/var/navlinks.stat_link)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.stat_link)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.stat_link.U_TOP10_LINK}`](../var/navlinks.stat_link.U_TOP10_LINK.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.stat_link.U_URL_TOP10_LINK}`](../var/navlinks.stat_link.U_URL_TOP10_LINK.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.stat_link.L_TOP10_LINK}`](../var/navlinks.stat_link.L_TOP10_LINK.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.stat_link.U_IMG_TOP10_LINK}`](../var/navlinks.stat_link.U_IMG_TOP10_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.stat_link.U_TOP10_LINK}`](../var/navlinks.stat_link.U_TOP10_LINK.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.stat_link.U_TOP10_LINK_NEW}`](../var/navlinks.stat_link.U_TOP10_LINK_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.stat_link.U_URL_TOP10_LINK}`](../var/navlinks.stat_link.U_URL_TOP10_LINK.md#readme)__
 
 
 ## Utilisations dans les templates

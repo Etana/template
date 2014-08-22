@@ -11,12 +11,6 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Rechercher`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH)
-Chaîne de caractère.
-
-* __Remplacement français :__ `Rechercher`
 
 
 ## Utilisations dans les templates

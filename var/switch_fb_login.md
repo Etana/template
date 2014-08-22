@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_login)
 Boucle s'affichant si vous avez activé Facebook Connect dans `PA > Modules > Facebook Connect | Configuration`.```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_fb_login)
-Boucle s'affichant si vous avez activé Facebook Connect dans `PA > Modules > Facebook Connect | Configuration`.```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_login.FB_LOCAL}`](../var/switch_fb_login.FB_LOCAL.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_login.JS_FB_LOGIN}`](../var/switch_fb_login.JS_FB_LOGIN.md#readme)__

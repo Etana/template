@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_DIR)
-JavaScript important au bon fonctionnement de votre forum.```
-
-## Description[*](https://fa-tvars.appspot.com/var/JS_DIR)
 JavaScript important au bon fonctionnement de votre forum.
 
 ## Utilisations dans les templates

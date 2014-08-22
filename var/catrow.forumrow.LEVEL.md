@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.LEVEL)
-Contient le niveau de hiérarchie du forum bouclé.```
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.LEVEL)
 Contient le niveau de hiérarchie du forum bouclé.
 
 ## Utilisations dans les templates

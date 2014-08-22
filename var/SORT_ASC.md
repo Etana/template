@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_ASC)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SORT_ASC)```
-
-## Description[*](https://fa-tvars.appspot.com/var/SORT_ASC)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SORT_ASC)
 
 ## Utilisations dans les templates

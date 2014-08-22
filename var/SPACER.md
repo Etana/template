@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SPACER)
-Adresse URL d'une image vide : `http://illiweb.com/fa/empty.gif````
-
-## Description[*](https://fa-tvars.appspot.com/var/SPACER)
 Adresse URL d'une image vide : `http://illiweb.com/fa/empty.gif`
 
 ## Utilisations dans les templates

@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_LOCKED_IMG)
 Chaîne de texte.
 
-* __Contenu en français :__ `Pas de nouveaux messages [ Verrouillé ]````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_LOCKED_IMG)
-Chaîne de texte.
-
 * __Contenu en français :__ `Pas de nouveaux messages [ Verrouillé ]`
 
 ## Utilisations dans les templates

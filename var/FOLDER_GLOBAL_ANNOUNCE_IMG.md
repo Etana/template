@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_GLOBAL_ANNOUNCE_IMG)
-Image des annonces globales définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Annonce globale`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/FOLDER_GLOBAL_ANNOUNCE_IMG)
 Image des annonces globales définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Annonce globale`.
 
 ## Utilisations dans les templates

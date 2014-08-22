@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM)
 
 ## Utilisations dans les templates

@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS)
 
 ## Utilisations dans les templates

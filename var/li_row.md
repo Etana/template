@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/li_row)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/li_row)```
 
-## Description[*](https://fa-tvars.appspot.com/var/li_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/li_row)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme)__

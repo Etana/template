@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_publish)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_publish)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_publish)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_publish)```
-
 ## Attributs
 
 

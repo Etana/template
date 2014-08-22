@@ -14,16 +14,6 @@ Lien textuel vers le site web du modérateur de groupe.
 ```html
 <a href="http://www.adresse.web" target="_userwww">Visiter le site web du posteur</a>
 ```
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_WWW)
-Lien textuel vers le site web du modérateur de groupe.
-
-* __Exemple de remplacement français :__
-
-```html
-<a href="http://www.adresse.web" target="_userwww">Visiter le site web du posteur</a>
-```
 
 
 ## Utilisations dans les templates

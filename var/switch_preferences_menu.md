@@ -12,34 +12,31 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID}`](../var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_not_linked -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}`](../var/switch_preferences_menu.switch_report.L_NO_REPORT_POPUP.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_view_pm -->`](../var/switch_preferences_menu.switch_view_pm.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_HIDE}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_HIDE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_report -->`](../var/switch_preferences_menu.switch_report.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES}`](../var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.NO_REPORT_POPUP_NO}`](../var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_NO.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_notify_subscriptions -->`](../var/switch_preferences_menu.switch_notify_subscriptions.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect -->`](../var/switch_preferences_menu.switch_fb_connect.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_test -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_linked -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_profile_advanced -->`](../var/switch_preferences_menu.switch_profile_advanced.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_can_disable_mass_pm -->`](../var/switch_preferences_menu.switch_can_disable_mass_pm.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_enable_mail_view -->`](../var/switch_preferences_menu.switch_enable_mail_view.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect -->`](../var/switch_preferences_menu.switch_fb_connect.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID}`](../var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT}`](../var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_linked -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_not_linked -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_test -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_notify_subscriptions -->`](../var/switch_preferences_menu.switch_notify_subscriptions.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_profile_advanced -->`](../var/switch_preferences_menu.switch_profile_advanced.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS}`](../var/switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_HIDE}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_HIDE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_report -->`](../var/switch_preferences_menu.switch_report.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}`](../var/switch_preferences_menu.switch_report.L_NO_REPORT_POPUP.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.NO_REPORT_POPUP_NO}`](../var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_NO.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES}`](../var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_view_pm -->`](../var/switch_preferences_menu.switch_view_pm.md#readme)__
 
 
 ## Utilisations dans les templates

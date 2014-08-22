@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_PUBLIC_GALLERY)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_PUBLIC_GALLERY)```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_PUBLIC_GALLERY)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_PUBLIC_GALLERY)
 
 ## Utilisations dans les templates

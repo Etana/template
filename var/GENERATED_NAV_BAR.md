@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GENERATED_NAV_BAR)
-Affiche la barre de navigation choisie dans PA > Affichage > Page d'accueil | En-tête & Navigation > Barre de navigation`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/GENERATED_NAV_BAR)
 Affiche la barre de navigation choisie dans PA > Affichage > Page d'accueil | En-tête & Navigation > Barre de navigation`.
 
 ## Utilisations dans les templates

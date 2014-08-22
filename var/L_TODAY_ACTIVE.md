@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE)
 Affiche le texte du lien de la variable {{U_TODAY_ACTIVE}}.
 
-* __Contenu en français :__  `Sujets actifs du jour````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE)
-Affiche le texte du lien de la variable {{U_TODAY_ACTIVE}}.
-
 * __Contenu en français :__  `Sujets actifs du jour`
 
 ## Utilisations dans les templates

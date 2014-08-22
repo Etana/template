@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.AVATAR_IMG)
-Contient l'avatar du membre.```
-
-## Description[*](https://fa-tvars.appspot.com/var/memberrow.AVATAR_IMG)
 Contient l'avatar du membre.
 
 ## Utilisations dans les templates

@@ -18,12 +18,9 @@
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att)```
 
-## Description[*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL.md#readme)__
 
 

@@ -12,17 +12,14 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/avatar_row)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row)```
 
-## Description[*](https://fa-tvars.appspot.com/var/avatar_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_NAME}`](../var/avatar_row.avatar_column.AVATAR_NAME.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_column -->`](../var/avatar_row.avatar_column.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_IMAGE}`](../var/avatar_row.avatar_column.AVATAR_IMAGE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_NAME}`](../var/avatar_row.avatar_column.AVATAR_NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_option_column -->`](../var/avatar_row.avatar_option_column.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__
 
 
 ## Utilisations dans les templates

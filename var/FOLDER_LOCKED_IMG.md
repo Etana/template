@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_LOCKED_IMG)
-Image des sujets verrouillés définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet - Verrouillé`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/FOLDER_LOCKED_IMG)
 Image des sujets verrouillés définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet - Verrouillé`.
 
 ## Utilisations dans les templates

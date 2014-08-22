@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/simple_header)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/simple_header)```
 
-## Description[*](https://fa-tvars.appspot.com/var/simple_header)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/simple_header)```
-
 ## Attributs
 
 

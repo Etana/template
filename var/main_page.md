@@ -12,16 +12,13 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/main_page)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page)```
 
-## Description[*](https://fa-tvars.appspot.com/var/main_page)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{main_page.pay_method.I_BY_METHOD}`](../var/main_page.pay_method.I_BY_METHOD.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{main_page.pay_method.radio.METHOD}`](../var/main_page.pay_method.radio.METHOD.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN pay_method -->`](../var/main_page.pay_method.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{main_page.pay_method.B_SUBMIT}`](../var/main_page.pay_method.B_SUBMIT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{main_page.pay_method.I_BY_METHOD}`](../var/main_page.pay_method.I_BY_METHOD.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{main_page.pay_method.L_BY_METHOD}`](../var/main_page.pay_method.L_BY_METHOD.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN radio -->`](../var/main_page.pay_method.radio.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN pay_method -->`](../var/main_page.pay_method.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{main_page.pay_method.radio.METHOD}`](../var/main_page.pay_method.radio.METHOD.md#readme)__
 
 
 ## Utilisations dans les templates

@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.cell.DAY)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/row.cell.DAY)```
-
-## Description[*](https://fa-tvars.appspot.com/var/row.cell.DAY)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/row.cell.DAY)
 
 ## Utilisations dans les templates

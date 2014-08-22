@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)```
-
 ## Attributs
 
 

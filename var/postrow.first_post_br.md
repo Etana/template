@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.first_post_br)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.first_post_br)```
 
-## Description[*](https://fa-tvars.appspot.com/var/postrow.first_post_br)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.first_post_br)```
-
 ## Attributs
 
 

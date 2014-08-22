@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.U_INSTALL_THEME)
-Lien pour installer le thème prévisualisé.```
-
-## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.U_INSTALL_THEME)
 Lien pour installer le thème prévisualisé.
 
 ## Utilisations dans les templates

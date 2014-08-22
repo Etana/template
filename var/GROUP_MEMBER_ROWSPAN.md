@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_MEMBER_ROWSPAN)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/GROUP_MEMBER_ROWSPAN)```
-
-## Description[*](https://fa-tvars.appspot.com/var/GROUP_MEMBER_ROWSPAN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/GROUP_MEMBER_ROWSPAN)
 
 ## Utilisations dans les templates

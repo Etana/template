@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/nav_modcp)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/nav_modcp)```
 
-## Description[*](https://fa-tvars.appspot.com/var/nav_modcp)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/nav_modcp)```
-
 ## Attributs
 
 

@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LOOKUP_IP)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LOOKUP_IP)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_LOOKUP_IP)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_LOOKUP_IP)
 
 ## Utilisations dans les templates

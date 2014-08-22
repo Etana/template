@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SPACE_COL)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SPACE_COL)```
-
-## Description[*](https://fa-tvars.appspot.com/var/SPACE_COL)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SPACE_COL)
 
 ## Utilisations dans les templates

@@ -10,12 +10,6 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `Yahoo Messenger`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_YIM)
-Chaîne de texte.
-  
-* __Remplacement français :__ `Yahoo Messenger`
 
 
 ## Utilisations dans les templates

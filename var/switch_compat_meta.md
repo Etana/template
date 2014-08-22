@@ -14,11 +14,6 @@ Boucle affichant la balise X-UA-Compatible pour Internet Explorer.
 
 *Cette boucle est désactivée.*```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta)
-Boucle affichant la balise X-UA-Compatible pour Internet Explorer.
-
-*Cette boucle est désactivée.*```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_compat_meta.VERSION}`](../var/switch_compat_meta.VERSION.md#readme)__
 

@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.switch_add_event)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_add_event)```
 
-## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.switch_add_event)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_add_event)```
-
 ## Attributs
 
 

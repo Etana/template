@@ -14,17 +14,14 @@
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch)```
 
-## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN norate_row_disabled -->`](../var/display_infos.rate_switch.norate_row_disabled.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.rate_row.rate_scale_row.POINT}`](../var/display_infos.rate_switch.rate_row.rate_scale_row.POINT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}`](../var/display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.norate_row.L_PIC_LOCKED}`](../var/display_infos.rate_switch.norate_row.L_PIC_LOCKED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN norate_row_disabled -->`](../var/display_infos.rate_switch.norate_row_disabled.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}`](../var/display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN rate_row -->`](../var/display_infos.rate_switch.rate_row.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED}`](../var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN rate_scale_row -->`](../var/display_infos.rate_switch.rate_row.rate_scale_row.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.rate_row.rate_scale_row.POINT}`](../var/display_infos.rate_switch.rate_row.rate_scale_row.POINT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED}`](../var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED.md#readme)__
 
 
 ## Utilisations dans les templates

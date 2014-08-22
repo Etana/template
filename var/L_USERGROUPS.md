@@ -11,12 +11,6 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Groupes`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_USERGROUPS)
-Chaîne de caractère.
-
-* __Remplacement français :__ `Groupes`
 
 
 ## Utilisations dans les templates

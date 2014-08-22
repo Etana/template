@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/li_row.KEYWORDS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/li_row.KEYWORDS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/li_row.KEYWORDS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/li_row.KEYWORDS)
 
 ## Utilisations dans les templates

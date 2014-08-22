@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.JOINED)
-Contient la date d'inscription du membre.```
-
-## Description[*](https://fa-tvars.appspot.com/var/memberrow.JOINED)
 Contient la date d'inscription du membre.
 
 ## Utilisations dans les templates

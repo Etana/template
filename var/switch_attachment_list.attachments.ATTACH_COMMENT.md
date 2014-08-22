@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_COMMENT)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_COMMENT)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_COMMENT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_COMMENT)
 
 ## Utilisations dans les templates

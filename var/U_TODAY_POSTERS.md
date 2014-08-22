@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/U_TODAY_POSTERS)
 Lien vers le top 20 des posteurs du jour.
 
-* __Remplacement par :__  `/memberlist?mode=today_posters````
-
-## Description[*](https://fa-tvars.appspot.com/var/U_TODAY_POSTERS)
-Lien vers le top 20 des posteurs du jour.
-
 * __Remplacement par :__  `/memberlist?mode=today_posters`
 
 ## Utilisations dans les templates

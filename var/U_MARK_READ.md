@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/U_MARK_READ)
 Lien vers marquer tous les forums comme lus. 
 
-* __Remplacement par :__  `/?mark=forums````
-
-## Description[*](https://fa-tvars.appspot.com/var/U_MARK_READ)
-Lien vers marquer tous les forums comme lus. 
-
 * __Remplacement par :__  `/?mark=forums`
 
 ## Utilisations dans les templates

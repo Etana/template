@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.DIRECTION)
-Contient la direction du défilement des annonces définie dans `PA > Général > Messages et Emails | Annonces > Défilement`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.DIRECTION)
 Contient la direction du défilement des annonces définie dans `PA > Général > Messages et Emails | Annonces > Défilement`.
 
 ## Utilisations dans les templates

@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ACTION)
-Action du formulaire dans les paramètres de vos sujets surveillés : `/search?search_id=watchsearch`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_ACTION)
 Action du formulaire dans les paramètres de vos sujets surveillés : `/search?search_id=watchsearch`.
 
 ## Utilisations dans les templates

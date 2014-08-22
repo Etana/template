@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.ROW_CLASS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.ROW_CLASS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.ROW_CLASS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.ROW_CLASS)
 
 ## Utilisations dans les templates

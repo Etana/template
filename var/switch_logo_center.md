@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_logo_center)
 Boucle s'affichant si vous avez sélectionné "Centré" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_logo_center)
-Boucle s'affichant si vous avez sélectionné "Centré" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.```
-
 ## Attributs
 
 

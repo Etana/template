@@ -16,16 +16,13 @@
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in)```
 
-## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_posts -->`](../var/postrow.displayed.user_logged_in.switch_user_posts.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_contact_row -->`](../var/postrow.displayed.user_logged_in.switch_contact_row.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_email -->`](../var/postrow.displayed.user_logged_in.switch_user_email.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN contact_field -->`](../var/postrow.displayed.user_logged_in.switch_contact_row.contact_field.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.user_logged_in.switch_contact_row.contact_field.CONTENT}`](../var/postrow.displayed.user_logged_in.switch_contact_row.contact_field.CONTENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_email -->`](../var/postrow.displayed.user_logged_in.switch_user_email.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_pm -->`](../var/postrow.displayed.user_logged_in.switch_user_pm.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_posts -->`](../var/postrow.displayed.user_logged_in.switch_user_posts.md#readme)__
 
 
 ## Utilisations dans les templates

@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAVBAR_BORDERLESS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAVBAR_BORDERLESS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/NAVBAR_BORDERLESS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/NAVBAR_BORDERLESS)
 
 ## Utilisations dans les templates

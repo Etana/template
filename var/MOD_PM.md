@@ -14,16 +14,6 @@ Lien textuel vers l'envoi d'un message privé au modérateur de groupe.
 ```html
 <a href="/privmsg?mode=post&amp;u=2">Envoyer un message privé</a>
 ```
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_PM)
-Lien textuel vers l'envoi d'un message privé au modérateur de groupe.
-
-* __Exemple de remplacement français :__
-
-```html
-<a href="/privmsg?mode=post&amp;u=2">Envoyer un message privé</a>
-```
 
 
 ## Utilisations dans les templates

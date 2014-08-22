@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.COUNT_POSTS_NUMBER)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.COUNT_POSTS_NUMBER)```
-
-## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.COUNT_POSTS_NUMBER)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.COUNT_POSTS_NUMBER)
 
 ## Utilisations dans les templates

@@ -14,9 +14,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.SPAN)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.SPAN)```
-
-## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.SPAN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.SPAN)
 
 ## Utilisations dans les templates

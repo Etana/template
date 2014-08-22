@@ -12,11 +12,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup.S_WIDTH)
 Largeur du popup d'avertissement d'un nouveau rapport.
 
-* __Par défaut :__ `400````
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup.S_WIDTH)
-Largeur du popup d'avertissement d'un nouveau rapport.
-
 * __Par défaut :__ `400`
 
 ## Utilisations dans les templates

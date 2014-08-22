@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.PIC_TITLE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.PIC_TITLE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/picrow.PIC_TITLE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.PIC_TITLE)
 
 ## Utilisations dans les templates

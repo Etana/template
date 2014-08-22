@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DONATE_TITLE)
-Titre de l'annonce défini dans `PA > Divers > Gestion des crédits | Donations > Titre de votre annonce`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/DONATE_TITLE)
 Titre de l'annonce défini dans `PA > Divers > Gestion des crédits | Donations > Titre de votre annonce`.
 
 ## Utilisations dans les templates

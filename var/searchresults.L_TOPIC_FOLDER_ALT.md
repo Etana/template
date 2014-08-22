@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.L_TOPIC_FOLDER_ALT)
-Contient l'information sur l'image du sujet.```
-
-## Description[*](https://fa-tvars.appspot.com/var/searchresults.L_TOPIC_FOLDER_ALT)
 Contient l'information sur l'image du sujet.
 
 ## Utilisations dans les templates

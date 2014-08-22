@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_type_toggle)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_type_toggle)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_type_toggle)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_type_toggle)```
-
 ## Attributs
 
 

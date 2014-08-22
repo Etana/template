@@ -8,10 +8,6 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_ROW_CLASS)
 Chaîne de texte `row1`.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_ROW_CLASS)
-Chaîne de texte `row1`.
 
 
 ## Utilisations dans les templates

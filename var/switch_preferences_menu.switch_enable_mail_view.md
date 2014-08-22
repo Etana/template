@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_enable_mail_view)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_enable_mail_view)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_enable_mail_view)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_enable_mail_view)```
-
 ## Attributs
 
 

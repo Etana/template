@@ -11,12 +11,6 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `S'enregistrer`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_REGISTER)
-Chaîne de caractère.
-
-* __Remplacement français :__ `S'enregistrer`
 
 
 ## Utilisations dans les templates

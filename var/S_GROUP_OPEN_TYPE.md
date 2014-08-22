@@ -11,12 +11,6 @@
 Remplacé par `0`.
 
 Valeur correspondante à un groupe ouvert.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_OPEN_TYPE)
-Remplacé par `0`.
-
-Valeur correspondante à un groupe ouvert.
 
 
 ## Utilisations dans les templates

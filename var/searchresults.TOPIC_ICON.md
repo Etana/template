@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ICON)
-Contient l'icône du sujet pouvant être défini dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes de messages"`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ICON)
 Contient l'icône du sujet pouvant être défini dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes de messages"`.
 
 ## Utilisations dans les templates

@@ -16,9 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)```
 
-## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)```
-
 ## Attributs
 
 

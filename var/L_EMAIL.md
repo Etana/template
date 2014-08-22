@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_EMAIL)
 Chaîne de texte.
   
-* __Remplacement français :__ `E-mail````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_EMAIL)
-Chaîne de texte.
-  
 * __Remplacement français :__ `E-mail`
 
 ## Utilisations dans les templates

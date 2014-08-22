@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_SUBJECT)
-Contient le titre du sujet.```
-
-## Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_SUBJECT)
 Contient le titre du sujet.
 
 ## Utilisations dans les templates

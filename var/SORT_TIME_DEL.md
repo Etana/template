@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_TIME_DEL)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SORT_TIME_DEL)```
-
-## Description[*](https://fa-tvars.appspot.com/var/SORT_TIME_DEL)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SORT_TIME_DEL)
 
 ## Utilisations dans les templates

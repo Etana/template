@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)
-Contient l'image des sujets définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)
 Contient l'image des sujets définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet`.
 
 ## Utilisations dans les templates

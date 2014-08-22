@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/RULE_MSG)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/RULE_MSG)```
-
-## Description[*](https://fa-tvars.appspot.com/var/RULE_MSG)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/RULE_MSG)
 
 ## Utilisations dans les templates

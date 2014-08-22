@@ -14,17 +14,14 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.FOOTER_LINK_REL}`](../var/switch_footer_links.footer_link.FOOTER_LINK_REL.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.L_FOOTER_LINK_TEXT}`](../var/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.FOOTER_LINK_TARGET}`](../var/switch_footer_links.footer_link.FOOTER_LINK_TARGET.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.L_FOOTER_LINK_TITLE}`](../var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR}`](../var/switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.FOOTER_LINK_TARGET}`](../var/switch_footer_links.footer_link.FOOTER_LINK_TARGET.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.L_FOOTER_LINK_TEXT}`](../var/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.L_FOOTER_LINK_TITLE}`](../var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__
 
 
 ## Utilisations dans les templates

@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.stat_link.U_TOP10_LINK_NEW)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.stat_link.U_TOP10_LINK_NEW)```
-
-## Description[*](https://fa-tvars.appspot.com/var/navlinks.stat_link.U_TOP10_LINK_NEW)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.stat_link.U_TOP10_LINK_NEW)
 
 ## Utilisations dans les templates

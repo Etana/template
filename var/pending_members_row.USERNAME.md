@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.USERNAME)
-Code html du nom d'utilisateur du membre sur lequel on boucle.```
-
-## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.USERNAME)
 Code html du nom d'utilisateur du membre sur lequel on boucle.
 
 ## Utilisations dans les templates

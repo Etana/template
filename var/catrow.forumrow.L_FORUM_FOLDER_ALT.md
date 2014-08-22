@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.L_FORUM_FOLDER_ALT)
-Contient l'information (alt) sur l'icône du forum correspondant au forum bouclé.```
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.L_FORUM_FOLDER_ALT)
 Contient l'information (alt) sur l'icône du forum correspondant au forum bouclé.
 
 ## Utilisations dans les templates

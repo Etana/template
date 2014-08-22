@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.ROW_NUMBER)
-Contient le numéro d'ordre d'affichage du membre.```
-
-## Description[*](https://fa-tvars.appspot.com/var/memberrow.ROW_NUMBER)
 Contient le numéro d'ordre d'affichage du membre.
 
 ## Utilisations dans les templates

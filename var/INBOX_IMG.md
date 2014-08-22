@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/INBOX_IMG)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/INBOX_IMG)```
-
-## Description[*](https://fa-tvars.appspot.com/var/INBOX_IMG)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/INBOX_IMG)
 
 ## Utilisations dans les templates

@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields_left.F_NAME)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/rpg_fields_left.F_NAME)```
-
-## Description[*](https://fa-tvars.appspot.com/var/rpg_fields_left.F_NAME)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/rpg_fields_left.F_NAME)
 
 ## Utilisations dans les templates

@@ -14,16 +14,6 @@ Remplacé par une image avec le statut icq, et un lien vers la page icq du modé
 ```html
 <a href="http://wwp.icq.com/99999999#pager"><img src="http://web.icq.com/whitepages/online?icq=99999999&img=5" width="18" height="18" /></a>
 ```
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_ICQ_STATUS_IMG)
-Remplacé par une image avec le statut icq, et un lien vers la page icq du modérateur de groupe.
-
-* __Exemple de remplacement :__ 
-
-```html
-<a href="http://wwp.icq.com/99999999#pager"><img src="http://web.icq.com/whitepages/online?icq=99999999&img=5" width="18" height="18" /></a>
-```
 
 
 ## Utilisations dans les templates

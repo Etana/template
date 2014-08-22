@@ -10,12 +10,6 @@
 Texte.
   
 * __Remplacement français :__ `S'inscrire`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_SUBSCRIBE)
-Texte.
-  
-* __Remplacement français :__ `S'inscrire`
 
 
 ## Utilisations dans les templates

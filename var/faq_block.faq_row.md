@@ -14,14 +14,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)```
 
-## Description[*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.ROW_CLASS}`](../var/faq_block.faq_row.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__
 
 
 ## Utilisations dans les templates

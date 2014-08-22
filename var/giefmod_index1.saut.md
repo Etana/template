@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
 Boucle contenant le saut entre 2 widgets.```
 
-## Description[*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
-Boucle contenant le saut entre 2 widgets.```
-
 ## Attributs
 
 

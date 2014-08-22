@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend.FRIEND_PM)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend.FRIEND_PM)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend.FRIEND_PM)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend.FRIEND_PM)
 
 ## Utilisations dans les templates

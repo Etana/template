@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_HOT_NEW_IMG)
-Image des nouveaux messages dans des sujets populaires définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet - Populaire & Nouveau`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/FOLDER_HOT_NEW_IMG)
 Image des nouveaux messages dans des sujets populaires définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet - Populaire & Nouveau`.
 
 ## Utilisations dans les templates

@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.ALT)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/IMGS.ALT)```
-
-## Description[*](https://fa-tvars.appspot.com/var/IMGS.ALT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/IMGS.ALT)
 
 ## Utilisations dans les templates

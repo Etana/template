@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT)
-Contient le texte du lien défini dans `PA > Modules > Liens de bas de page | Configuration > Ancre/texte du lien`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT)
 Contient le texte du lien défini dans `PA > Modules > Liens de bas de page | Configuration > Ancre/texte du lien`.
 
 ## Utilisations dans les templates

@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_username.USERNAME}`](../var/switch_privmsg.switch_username.USERNAME.md#readme)__
 

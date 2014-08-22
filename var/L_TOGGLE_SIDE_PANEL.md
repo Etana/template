@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TOGGLE_SIDE_PANEL)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_TOGGLE_SIDE_PANEL)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_TOGGLE_SIDE_PANEL)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_TOGGLE_SIDE_PANEL)
 
 ## Utilisations dans les templates

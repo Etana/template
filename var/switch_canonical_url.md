@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_canonical_url)
 Cette boucle s'affiche automatiquement si nécessaire.```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_canonical_url)
-Cette boucle s'affiche automatiquement si nécessaire.```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_canonical_url.CANONICAL_URL}`](../var/switch_canonical_url.CANONICAL_URL.md#readme)__
 

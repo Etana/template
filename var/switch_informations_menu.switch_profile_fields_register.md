@@ -14,13 +14,10 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields_register)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields_register)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields_register)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields_register)```
-
 ## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN field -->`](../var/switch_informations_menu.switch_profile_fields_register.field.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields_register.field.NAME}`](../var/switch_informations_menu.switch_profile_fields_register.field.NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields_register.field.OBJECT}`](../var/switch_informations_menu.switch_profile_fields_register.field.OBJECT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN field -->`](../var/switch_informations_menu.switch_profile_fields_register.field.md#readme)__
 
 
 ## Utilisations dans les templates

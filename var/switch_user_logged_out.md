@@ -21,18 +21,6 @@ contenu que l'utilisateur verra si il est déconnecté
 ```
 ```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_out)
-Variable de boucle ayant une valeur si l'utilisateur est déconnecté.
-
-* __Exemple d'utilisation :__
-
-```html
-<!-- BEGIN switch_user_logged_out -->
-contenu que l'utilisateur verra si il est déconnecté
-<!-- END switch_user_logged_out -->
-```
-```
-
 ## Attributs
 
 

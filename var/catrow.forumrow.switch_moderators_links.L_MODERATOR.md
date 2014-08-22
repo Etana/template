@@ -16,11 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.L_MODERATOR)
 Chaîne de texte.
 
-* __Contenu en français :__ `Modérateur(s):````
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.L_MODERATOR)
-Chaîne de texte.
-
 * __Contenu en français :__ `Modérateur(s):`
 
 ## Utilisations dans les templates

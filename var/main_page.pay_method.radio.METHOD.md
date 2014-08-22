@@ -16,11 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio.METHOD)
 Variable importante au fonctionnement des donations.
 
-*Ne pas toucher à cette variable !*```
-
-## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio.METHOD)
-Variable importante au fonctionnement des donations.
-
 *Ne pas toucher à cette variable !*
 
 ## Utilisations dans les templates

@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MY_RULES)
-Affiche vos conditions d'inscription définies dans `PA > Général > Règlements et FAQ | Règlement supplémentaire > Règlement supplémentaire`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/MY_RULES)
 Affiche vos conditions d'inscription définies dans `PA > Général > Règlements et FAQ | Règlement supplémentaire > Règlement supplémentaire`.
 
 ## Utilisations dans les templates

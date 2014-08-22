@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)
-Contient le choix de sélection d'un ordre de recherche.```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)
 Contient le choix de sélection d'un ordre de recherche.
 
 ## Utilisations dans les templates

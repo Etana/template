@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.U_POST)
-Contient le lien du message bouclé.```
-
-## Description[*](https://fa-tvars.appspot.com/var/searchresults.U_POST)
 Contient le lien du message bouclé.
 
 ## Utilisations dans les templates

@@ -12,13 +12,10 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/no_pics_personal)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/no_pics_personal)```
 
-## Description[*](https://fa-tvars.appspot.com/var/no_pics_personal)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_pics_personal)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{no_pics_personal.U_CREATE_PERSONAL_GALLERY}`](../var/no_pics_personal.U_CREATE_PERSONAL_GALLERY.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{no_pics_personal.L_PERSONAL_GALLERY_NOT_CREATED}`](../var/no_pics_personal.L_PERSONAL_GALLERY_NOT_CREATED.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{no_pics_personal.L_INFOS}`](../var/no_pics_personal.L_INFOS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{no_pics_personal.L_PERSONAL_GALLERY_NOT_CREATED}`](../var/no_pics_personal.L_PERSONAL_GALLERY_NOT_CREATED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{no_pics_personal.U_CREATE_PERSONAL_GALLERY}`](../var/no_pics_personal.U_CREATE_PERSONAL_GALLERY.md#readme)__
 
 
 ## Utilisations dans les templates

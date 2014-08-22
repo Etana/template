@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JQUERY_PATH)
-Adresse URL de la librairie JavaScript jQuery.```
-
-## Description[*](https://fa-tvars.appspot.com/var/JQUERY_PATH)
 Adresse URL de la librairie JavaScript jQuery.
 
 ## Utilisations dans les templates

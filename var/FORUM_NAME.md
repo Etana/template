@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_NAME)
 Remplacé par le nom du sous-forum dans lequel on se trouve.
 
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/FORUM_NAME)
-Remplacé par le nom du sous-forum dans lequel on se trouve.
-
 
 
 ## Utilisations dans les templates

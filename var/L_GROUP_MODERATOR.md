@@ -11,12 +11,6 @@
 Texte.
   
 * __Remplacement français :__ `Modérateur du groupe`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_MODERATOR)
-Texte.
-  
-* __Remplacement français :__ `Modérateur du groupe`
 
 
 ## Utilisations dans les templates

@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.LASTVISIT)
-Contient la dernière visite du membre.```
-
-## Description[*](https://fa-tvars.appspot.com/var/memberrow.LASTVISIT)
 Contient la dernière visite du membre.
 
 ## Utilisations dans les templates

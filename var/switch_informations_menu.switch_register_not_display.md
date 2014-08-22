@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_register_not_display)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_register_not_display)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_register_not_display)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_register_not_display)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_unsubscribe_allowed -->`](../var/switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed.md#readme)__
 

@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/cancel_vote)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/cancel_vote)```
 
-## Description[*](https://fa-tvars.appspot.com/var/cancel_vote)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/cancel_vote)```
-
 ## Attributs
 
 

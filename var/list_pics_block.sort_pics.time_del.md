@@ -16,9 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics.time_del)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics.time_del)```
 
-## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics.time_del)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics.time_del)```
-
 ## Attributs
 
 

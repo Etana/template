@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MODCP_ACTION)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_MODCP_ACTION)```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_MODCP_ACTION)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_MODCP_ACTION)
 
 ## Utilisations dans les templates

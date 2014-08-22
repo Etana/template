@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CALENDAR_DURATION_HOUR)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/CALENDAR_DURATION_HOUR)```
-
-## Description[*](https://fa-tvars.appspot.com/var/CALENDAR_DURATION_HOUR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/CALENDAR_DURATION_HOUR)
 
 ## Utilisations dans les templates

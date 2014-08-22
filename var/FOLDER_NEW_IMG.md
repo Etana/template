@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_NEW_IMG)
-Image des nouveaux messages définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet - Nouveau`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/FOLDER_NEW_IMG)
 Image des nouveaux messages définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Sujet - Nouveau`.
 
 ## Utilisations dans les templates

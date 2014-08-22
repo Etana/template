@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_STICKY_IMG)
-Image des post-its définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Post-it`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/FOLDER_STICKY_IMG)
 Image des post-its définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Post-it`.
 
 ## Utilisations dans les templates

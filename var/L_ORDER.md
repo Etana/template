@@ -11,12 +11,6 @@
 Chaîne de texte.
 
 * __Remplacement français :__ `Ordre`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_ORDER)
-Chaîne de texte.
-
-* __Remplacement français :__ `Ordre`
 
 
 ## Utilisations dans les templates

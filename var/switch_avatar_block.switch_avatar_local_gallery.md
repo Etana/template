@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_local_gallery)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_local_gallery)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_local_gallery)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_local_gallery)```
-
 ## Attributs
 
 

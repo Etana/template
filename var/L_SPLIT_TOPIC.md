@@ -11,12 +11,6 @@
 Texte.
 
 * __Remplacement français :__ `Diviser le sujet`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC)
-Texte.
-
-* __Remplacement français :__ `Diviser le sujet`
 
 
 ## Utilisations dans les templates

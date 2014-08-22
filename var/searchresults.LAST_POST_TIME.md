@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.LAST_POST_TIME)
-Contient la date du dernier message posté dans le sujet.```
-
-## Description[*](https://fa-tvars.appspot.com/var/searchresults.LAST_POST_TIME)
 Contient la date du dernier message posté dans le sujet.
 
 ## Utilisations dans les templates

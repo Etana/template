@@ -16,9 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_not_orphan)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_not_orphan)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_not_orphan)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_not_orphan)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.switch_is_not_orphan.FILENAME}`](../var/switch_attachment_list.attachments.switch_is_not_orphan.FILENAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}`](../var/switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL.md#readme)__

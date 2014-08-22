@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_WATCH_FORUM)
-Lien pour surveiller les sujets du forum concerné.```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_WATCH_FORUM)
 Lien pour surveiller les sujets du forum concerné.
 
 ## Utilisations dans les templates

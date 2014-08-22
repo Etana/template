@@ -21,22 +21,6 @@ Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Ad
 ```html
 <span id=liul>{LOGGED_IN_USER_LIST}</span>
 <script> $('#liul').html($('#liul').html().match(/(<.*)<br( \/)?()>$/)[1]) </script>
-``````
-
-## Description[*](https://fa-tvars.appspot.com/var/LOGGED_IN_USER_LIST)
-Chaîne html indiquant les membres actuellement en ligne ( séparés par des virgules ).
-
-* __Exemple de remplacement français :__ 
-
-```html
-Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Admin</strong></span></a>, <strong><a href="/u2">joe</a></strong><br />
-```
-
-* __Exemple de code pour ne conserver que la liste d'utilisateur  :__
-
-```html
-<span id=liul>{LOGGED_IN_USER_LIST}</span>
-<script> $('#liul').html($('#liul').html().match(/(<.*)<br( \/)?()>$/)[1]) </script>
 ```
 
 ## Utilisations dans les templates

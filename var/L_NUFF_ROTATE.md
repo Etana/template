@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_ROTATE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NUFF_ROTATE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_ROTATE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NUFF_ROTATE)
 
 ## Utilisations dans les templates

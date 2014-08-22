@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
-Contient la date du message posté.```
-
-## Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)
 Contient la date du message posté.
 
 ## Utilisations dans les templates

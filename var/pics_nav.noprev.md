@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav.noprev)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/pics_nav.noprev)```
 
-## Description[*](https://fa-tvars.appspot.com/var/pics_nav.noprev)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/pics_nav.noprev)```
-
 ## Attributs
 
 

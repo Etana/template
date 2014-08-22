@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_confirm)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_confirm)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_confirm)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_confirm)```
-
 ## Attributs
 
 

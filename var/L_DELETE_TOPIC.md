@@ -10,12 +10,6 @@
 Texte.
 
 * __Remplacement français :__ `Supprimer le sujet`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_TOPIC)
-Texte.
-
-* __Remplacement français :__ `Supprimer le sujet`
 
 
 ## Utilisations dans les templates

@@ -16,9 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.manage_personal_gal_folders)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.manage_personal_gal_folders)```
 
-## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.manage_personal_gal_folders)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.manage_personal_gal_folders)```
-
 ## Attributs
 
 

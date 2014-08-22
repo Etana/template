@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/enable_picture_upload)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/enable_picture_upload)```
 
-## Description[*](https://fa-tvars.appspot.com/var/enable_picture_upload)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/enable_picture_upload)```
-
 ## Attributs
 
 

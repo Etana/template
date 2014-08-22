@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ALWAYS_ALLOW_BBCODE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ALWAYS_ALLOW_BBCODE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_ALWAYS_ALLOW_BBCODE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_ALWAYS_ALLOW_BBCODE)
 
 ## Utilisations dans les templates

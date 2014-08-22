@@ -11,12 +11,6 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `Ajouter le Membre`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_ADD_MEMBER)
-Chaîne de texte.
-  
-* __Remplacement français :__ `Ajouter le Membre`
 
 
 ## Utilisations dans les templates

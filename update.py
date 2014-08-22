@@ -247,15 +247,9 @@ for var in variables:
         else:
             f.write(var_desc[var])
 
-        f.write('```\n\n## Description[*](https://fa-tvars.appspot.com/var/'+var+')\n')
-        if var not in var_desc:
-            f.write('[*Ajouter une description*](https://fa-tvars.appspot.com/var/'+var+')')
-        else:
-            f.write(var_desc[var])
-        
         if 1 in types:
             f.write('```\n\n## Attributs\n')
-            for attribute in (attr for attr in variables if attr.startswith(var+'.')):
+            for attribute in sorted((attr for attr in variables if attr.startswith(var+'.')), key=str.lower):
                 for r in var2links(attribute, guess_type(attribute)):
                     f.write('* __'+r+'__\n')
 

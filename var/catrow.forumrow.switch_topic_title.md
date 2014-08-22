@@ -16,9 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)```
 
-## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)```
-
 ## Attributs
 
 

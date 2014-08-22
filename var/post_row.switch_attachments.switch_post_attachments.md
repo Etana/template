@@ -16,23 +16,20 @@
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments)```
 
-## Description[*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.NB_DL}`](../var/post_row.switch_attachments.switch_post_attachments.NB_DL.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.U_IMG}`](../var/post_row.switch_attachments.switch_post_attachments.U_IMG.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.FILE_SIZE}`](../var/post_row.switch_attachments.switch_post_attachments.FILE_SIZE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.NB_DL}`](../var/post_row.switch_attachments.switch_post_attachments.NB_DL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT_DEL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_no_comment -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_comment.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_no_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT_DEL.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_no_comment -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_comment.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.U_IMG}`](../var/post_row.switch_attachments.switch_post_attachments.U_IMG.md#readme)__
 
 
 ## Utilisations dans les templates

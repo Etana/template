@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_change_password)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_change_password)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_change_password)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_change_password)```
-
 ## Attributs
 
 

@@ -20,9 +20,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE)
 
 ## Utilisations dans les templates

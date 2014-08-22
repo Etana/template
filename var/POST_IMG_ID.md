@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_IMG_ID)
-Identifiant `i_post` attribué à l'image pour poster un nouveau sujet.```
-
-## Description[*](https://fa-tvars.appspot.com/var/POST_IMG_ID)
 Identifiant `i_post` attribué à l'image pour poster un nouveau sujet.
 
 ## Utilisations dans les templates

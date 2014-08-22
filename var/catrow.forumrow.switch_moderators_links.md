@@ -16,12 +16,9 @@
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)```
 
-## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.switch_moderators_links.MODERATORS}`](../var/catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.switch_moderators_links.L_MODERATOR}`](../var/catrow.forumrow.switch_moderators_links.L_MODERATOR.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.switch_moderators_links.MODERATORS}`](../var/catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)__
 
 
 ## Utilisations dans les templates

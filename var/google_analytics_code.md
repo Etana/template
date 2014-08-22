@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/google_analytics_code)
 Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant de compte dans `PA > Général > Statistiques | Google Analytics > Identifiant de compte`.```
 
-## Description[*](https://fa-tvars.appspot.com/var/google_analytics_code)
-Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant de compte dans `PA > Général > Statistiques | Google Analytics > Identifiant de compte`.```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN google_analytics_code_bis -->`](../var/google_analytics_code.google_analytics_code_bis.md#readme)__
 

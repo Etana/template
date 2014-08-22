@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
 Boucle contenant le texte du message d'accueil.```
 
-## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)
-Boucle contenant le texte du message d'accueil.```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_txt.MES_TXT}`](../var/message_admin_index.message_admin_txt.MES_TXT.md#readme)__
 

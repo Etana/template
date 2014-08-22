@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_pagination)
 Boucle s'affichant si la partie affichée contient plusieurs pages.```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_pagination)
-Boucle s'affichant si la partie affichée contient plusieurs pages.```
-
 ## Attributs
 
 

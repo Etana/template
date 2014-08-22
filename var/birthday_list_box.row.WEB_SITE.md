@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.WEB_SITE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.WEB_SITE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.WEB_SITE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.WEB_SITE)
 
 ## Utilisations dans les templates

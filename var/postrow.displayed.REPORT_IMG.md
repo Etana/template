@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.REPORT_IMG)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.REPORT_IMG)```
-
-## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.REPORT_IMG)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.REPORT_IMG)
 
 ## Utilisations dans les templates

@@ -12,13 +12,10 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/reg_user_row)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/reg_user_row)```
 
-## Description[*](https://fa-tvars.appspot.com/var/reg_user_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/reg_user_row)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.ROW_CLASS}`](../var/reg_user_row.ROW_CLASS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.LASTUPDATE}`](../var/reg_user_row.LASTUPDATE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.FORUM_LOCATION}`](../var/reg_user_row.FORUM_LOCATION.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.LASTUPDATE}`](../var/reg_user_row.LASTUPDATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.ROW_CLASS}`](../var/reg_user_row.ROW_CLASS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_FORUM_LOCATION}`](../var/reg_user_row.U_FORUM_LOCATION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_USER_PROFILE}`](../var/reg_user_row.U_USER_PROFILE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.USERNAME}`](../var/reg_user_row.USERNAME.md#readme)__

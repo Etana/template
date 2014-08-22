@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_NEWPOSTS_JS_PLUS_MENU)
-Lien vers "Voir les nouveaux messages depuis votre dernière visite" dans le menu Plus !```
-
-## Description[*](https://fa-tvars.appspot.com/var/U_NEWPOSTS_JS_PLUS_MENU)
 Lien vers "Voir les nouveaux messages depuis votre dernière visite" dans le menu Plus !
 
 ## Utilisations dans les templates

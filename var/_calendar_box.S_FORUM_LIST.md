@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.S_FORUM_LIST)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.S_FORUM_LIST)```
-
-## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.S_FORUM_LIST)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.S_FORUM_LIST)
 
 ## Utilisations dans les templates

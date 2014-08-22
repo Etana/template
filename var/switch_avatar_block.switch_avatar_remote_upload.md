@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_upload)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_upload)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_upload)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_upload)```
-
 ## Attributs
 
 

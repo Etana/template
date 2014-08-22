@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre.MES_TITRE)
-Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralités > Titre du message`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre.MES_TITRE)
 Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralités > Titre du message`.
 
 ## Utilisations dans les templates

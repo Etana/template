@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GOOD_LEVEL_PWD)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/GOOD_LEVEL_PWD)```
-
-## Description[*](https://fa-tvars.appspot.com/var/GOOD_LEVEL_PWD)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/GOOD_LEVEL_PWD)
 
 ## Utilisations dans les templates

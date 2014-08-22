@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat)```
 
-## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.legend_stat.L_LEGEND_STAT}`](../var/list_pics_block.legend_stat.L_LEGEND_STAT.md#readme)__
 

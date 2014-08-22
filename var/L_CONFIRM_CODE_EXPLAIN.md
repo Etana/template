@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE_EXPLAIN)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE_EXPLAIN)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE_EXPLAIN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CONFIRM_CODE_EXPLAIN)
 
 ## Utilisations dans les templates

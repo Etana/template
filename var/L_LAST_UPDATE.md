@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_LAST_UPDATE)
 Chaîne de texte.
 
-* __Contenu en français :__ `Dernière mise à jour````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_LAST_UPDATE)
-Chaîne de texte.
-
 * __Contenu en français :__ `Dernière mise à jour`
 
 ## Utilisations dans les templates

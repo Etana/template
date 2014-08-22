@@ -18,9 +18,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in.switch_user_email)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in.switch_user_email)```
 
-## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in.switch_user_email)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in.switch_user_email)```
-
 ## Attributs
 
 

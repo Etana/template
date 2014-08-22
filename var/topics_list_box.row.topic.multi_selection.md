@@ -18,9 +18,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.multi_selection)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.multi_selection)```
 
-## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.multi_selection)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.multi_selection)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN line_sticky -->`](../var/topics_list_box.row.topic.multi_selection.line_sticky.md#readme)__
 

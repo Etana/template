@@ -16,9 +16,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)```
 
-## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{main_page.pay_method.radio.METHOD}`](../var/main_page.pay_method.radio.METHOD.md#readme)__
 

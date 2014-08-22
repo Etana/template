@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_HOT_NEW_IMG)
 Chaîne de texte.
 
-* __Contenu en français :__ `Nouveaux messages [ Populaire ]````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_HOT_NEW_IMG)
-Chaîne de texte.
-
 * __Contenu en français :__ `Nouveaux messages [ Populaire ]`
 
 ## Utilisations dans les templates

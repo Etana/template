@@ -16,13 +16,10 @@
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency)```
 
-## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{credit_card_method.switch_select_currency.select_currency.VALUE}`](../var/credit_card_method.switch_select_currency.select_currency.VALUE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{credit_card_method.switch_select_currency.select_currency.OPTION}`](../var/credit_card_method.switch_select_currency.select_currency.OPTION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{credit_card_method.switch_select_currency.select_currency.SELECTED}`](../var/credit_card_method.switch_select_currency.select_currency.SELECTED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{credit_card_method.switch_select_currency.select_currency.VALUE}`](../var/credit_card_method.switch_select_currency.select_currency.VALUE.md#readme)__
 
 
 ## Utilisations dans les templates

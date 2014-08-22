@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_YES)
 Chaîne de texte.
 
-* __Contenu en français :__ `Oui````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_YES)
-Chaîne de texte.
-
 * __Contenu en français :__ `Oui`
 
 ## Utilisations dans les templates

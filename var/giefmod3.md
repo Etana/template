@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod3)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod3)```
 
-## Description[*](https://fa-tvars.appspot.com/var/giefmod3)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod3)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod3.MODVAR}`](../var/giefmod3.MODVAR.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod3.saut.md#readme)__

@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_members)
 Le contenu de la boucle est affiché si il n'y a pas d'autre membre du groupe que le modérateur de groupe.```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_no_members)
-Le contenu de la boucle est affiché si il n'y a pas d'autre membre du groupe que le modérateur de groupe.```
-
 ## Attributs
 
 

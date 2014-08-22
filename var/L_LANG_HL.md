@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LANG_HL)
-Contient la langue de votre forum.```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_LANG_HL)
 Contient la langue de votre forum.
 
 ## Utilisations dans les templates

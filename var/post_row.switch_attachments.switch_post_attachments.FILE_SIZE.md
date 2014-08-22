@@ -14,9 +14,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.FILE_SIZE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.FILE_SIZE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.FILE_SIZE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.FILE_SIZE)
 
 ## Utilisations dans les templates

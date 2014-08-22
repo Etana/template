@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.S_SPLIT_CHECKBOX)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.S_SPLIT_CHECKBOX)```
-
-## Description[*](https://fa-tvars.appspot.com/var/postrow.S_SPLIT_CHECKBOX)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.S_SPLIT_CHECKBOX)
 
 ## Utilisations dans les templates

@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_FORUM)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SPLIT_FORUM)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_FORUM)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SPLIT_FORUM)
 
 ## Utilisations dans les templates

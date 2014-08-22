@@ -16,9 +16,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.L_AUTHOR)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.L_AUTHOR)```
-
-## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.L_AUTHOR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.L_AUTHOR)
 
 ## Utilisations dans les templates

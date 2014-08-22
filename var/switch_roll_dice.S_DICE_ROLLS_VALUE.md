@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice.S_DICE_ROLLS_VALUE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice.S_DICE_ROLLS_VALUE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice.S_DICE_ROLLS_VALUE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice.S_DICE_ROLLS_VALUE)
 
 ## Utilisations dans les templates

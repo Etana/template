@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/COLSPAN_PAGINATION)
-Attribue une valeur à colspan.```
-
-## Description[*](https://fa-tvars.appspot.com/var/COLSPAN_PAGINATION)
 Attribue une valeur à colspan.
 
 ## Utilisations dans les templates

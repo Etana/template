@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_smilies_extra)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_smilies_extra)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_smilies_extra)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_smilies_extra)```
-
 ## Attributs
 
 

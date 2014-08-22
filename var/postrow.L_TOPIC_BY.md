@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.L_TOPIC_BY)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.L_TOPIC_BY)```
-
-## Description[*](https://fa-tvars.appspot.com/var/postrow.L_TOPIC_BY)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.L_TOPIC_BY)
 
 ## Utilisations dans les templates

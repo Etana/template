@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.TIME)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.TIME)```
-
-## Description[*](https://fa-tvars.appspot.com/var/picrow.TIME)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.TIME)
 
 ## Utilisations dans les templates

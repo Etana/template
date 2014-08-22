@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.USERNAME)
-Contient le nom d'utilisateur du membre.```
-
-## Description[*](https://fa-tvars.appspot.com/var/memberrow.USERNAME)
 Contient le nom d'utilisateur du membre.
 
 ## Utilisations dans les templates

@@ -11,12 +11,6 @@
 Adresse absolue de la page du groupe sur lequel on se trouve.
 
 * __Exemple de remplacement :__ `/g2-moderateurs`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_GROUPCP_ACTION)
-Adresse absolue de la page du groupe sur lequel on se trouve.
-
-* __Exemple de remplacement :__ `/g2-moderateurs`
 
 
 ## Utilisations dans les templates

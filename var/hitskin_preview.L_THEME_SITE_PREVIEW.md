@@ -12,11 +12,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.L_THEME_SITE_PREVIEW)
 Chaîne de texte.
 
-* __Contenu en français :__ `Ceci est une prévisualisation d'un thème de Hitskin.com````
-
-## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.L_THEME_SITE_PREVIEW)
-Chaîne de texte.
-
 * __Contenu en français :__ `Ceci est une prévisualisation d'un thème de Hitskin.com`
 
 ## Utilisations dans les templates

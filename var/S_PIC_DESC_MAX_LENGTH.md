@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_PIC_DESC_MAX_LENGTH)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_PIC_DESC_MAX_LENGTH)```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_PIC_DESC_MAX_LENGTH)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_PIC_DESC_MAX_LENGTH)
 
 ## Utilisations dans les templates

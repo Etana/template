@@ -10,12 +10,6 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `MSN Messenger`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_MSNM)
-Chaîne de texte.
-  
-* __Remplacement français :__ `MSN Messenger`
 
 
 ## Utilisations dans les templates

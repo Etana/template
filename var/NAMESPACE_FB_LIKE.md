@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAMESPACE_FB_LIKE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAMESPACE_FB_LIKE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/NAMESPACE_FB_LIKE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/NAMESPACE_FB_LIKE)
 
 ## Utilisations dans les templates

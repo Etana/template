@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SITENAME_TITLE)
-Contient le titre de la page d'accueil défini dans votre `PA > Général > Promotion du forum | Les moteurs de recherche > Titre de la page d'accueil`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/SITENAME_TITLE)
 Contient le titre de la page d'accueil défini dans votre `PA > Général > Promotion du forum | Les moteurs de recherche > Titre de la page d'accueil`.
 
 ## Utilisations dans les templates

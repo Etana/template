@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_link)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_link)```
 
-## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_link)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_link)```
-
 ## Attributs
 
 

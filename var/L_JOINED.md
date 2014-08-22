@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_JOINED)
 Chaîne de texte.
 
-* __Contenu en français :__ `Date d'inscription````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_JOINED)
-Chaîne de texte.
-
 * __Contenu en français :__ `Date d'inscription`
 
 ## Utilisations dans les templates

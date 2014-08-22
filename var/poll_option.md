@@ -12,17 +12,14 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option)```
 
-## Description[*](https://fa-tvars.appspot.com/var/poll_option)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme)__
 
 
 ## Utilisations dans les templates

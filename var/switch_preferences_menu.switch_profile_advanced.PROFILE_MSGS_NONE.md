@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE)
 
 ## Utilisations dans les templates

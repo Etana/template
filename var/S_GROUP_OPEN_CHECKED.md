@@ -9,10 +9,6 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_OPEN_CHECKED)
 Chaîne de texte ` checked="checked"` si le groupe est ouvert, chaîne vide sinon.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_OPEN_CHECKED)
-Chaîne de texte ` checked="checked"` si le groupe est ouvert, chaîne vide sinon.
 
 
 ## Utilisations dans les templates

@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/S_SEARCH_ACTION)
 Action du formulaire de recherche.
 
-*Attention : Cette variable est importante au bon fonctionnement de la recherche !*```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_SEARCH_ACTION)
-Action du formulaire de recherche.
-
 *Attention : Cette variable est importante au bon fonctionnement de la recherche !*
 
 ## Utilisations dans les templates

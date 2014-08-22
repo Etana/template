@@ -16,13 +16,6 @@ Le contenu du bouclage est affiché :
 * soit si le membre est candidat pour le groupe.
 ```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_unsubscribe_group_input)
-Le contenu du bouclage est affiché :
-
-* soit si le membre fait partie du groupe et n'en est pas le modérateur.
-* soit si le membre est candidat pour le groupe.
-```
-
 ## Attributs
 
 

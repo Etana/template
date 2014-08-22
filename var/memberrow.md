@@ -12,29 +12,26 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow)
 Boucle affichant les informations d'un membre et se répétant pour chaque membre de votre forum.```
 
-## Description[*](https://fa-tvars.appspot.com/var/memberrow)
-Boucle affichant les informations d'un membre et se répétant pour chaque membre de votre forum.```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.U_VIEWPROFILE}`](../var/memberrow.U_VIEWPROFILE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.PROFILE_IMG}`](../var/memberrow.PROFILE_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.EMAIL_IMG}`](../var/memberrow.EMAIL_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_th_group -->`](../var/memberrow.switch_th_group.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.AVATAR_IMG}`](../var/memberrow.AVATAR_IMG.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.EMAIL_IMG}`](../var/memberrow.EMAIL_IMG.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.GROUPS}`](../var/memberrow.GROUPS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.INTERESTS}`](../var/memberrow.INTERESTS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.JOINED}`](../var/memberrow.JOINED.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.LASTVISIT}`](../var/memberrow.LASTVISIT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.PM_IMG}`](../var/memberrow.PM_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_email -->`](../var/memberrow.switch_user_email.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.ROW_CLASS}`](../var/memberrow.ROW_CLASS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.WWW_IMG}`](../var/memberrow.WWW_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_website -->`](../var/memberrow.switch_user_website.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.USER_POSTS_IMG}`](../var/memberrow.USER_POSTS_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.GROUPS}`](../var/memberrow.GROUPS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.USERNAME}`](../var/memberrow.USERNAME.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.ROW_NUMBER}`](../var/memberrow.ROW_NUMBER.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.INTERESTS}`](../var/memberrow.INTERESTS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_td_group -->`](../var/memberrow.switch_td_group.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.POSTS}`](../var/memberrow.POSTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.PROFILE_IMG}`](../var/memberrow.PROFILE_IMG.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.ROW_CLASS}`](../var/memberrow.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.ROW_NUMBER}`](../var/memberrow.ROW_NUMBER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_td_group -->`](../var/memberrow.switch_td_group.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_th_group -->`](../var/memberrow.switch_th_group.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_email -->`](../var/memberrow.switch_user_email.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_user_website -->`](../var/memberrow.switch_user_website.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.U_VIEWPROFILE}`](../var/memberrow.U_VIEWPROFILE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.USER_POSTS_IMG}`](../var/memberrow.USER_POSTS_IMG.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.USERNAME}`](../var/memberrow.USERNAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.WWW_IMG}`](../var/memberrow.WWW_IMG.md#readme)__
 
 
 ## Utilisations dans les templates

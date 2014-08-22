@@ -12,17 +12,14 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/userrow)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/userrow)```
 
-## Description[*](https://fa-tvars.appspot.com/var/userrow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/userrow)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.USERNAME}`](../var/userrow.USERNAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.L_SEARCH}`](../var/userrow.L_SEARCH.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_SEARCHPOSTS}`](../var/userrow.U_SEARCHPOSTS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_PROFILE}`](../var/userrow.U_PROFILE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.L_SEARCH_POSTS}`](../var/userrow.L_SEARCH_POSTS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.ROW_CLASS}`](../var/userrow.ROW_CLASS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.POSTS}`](../var/userrow.POSTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.ROW_CLASS}`](../var/userrow.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_PROFILE}`](../var/userrow.U_PROFILE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_SEARCHPOSTS}`](../var/userrow.U_SEARCHPOSTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.USERNAME}`](../var/userrow.USERNAME.md#readme)__
 
 
 ## Utilisations dans les templates

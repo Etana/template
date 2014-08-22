@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SCROLL_DELAY)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SCROLL_DELAY)```
-
-## Description[*](https://fa-tvars.appspot.com/var/SCROLL_DELAY)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SCROLL_DELAY)
 
 ## Utilisations dans les templates

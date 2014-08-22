@@ -12,11 +12,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
 Contient la version d'affichage de Internet Explorer pour la balise X-UA-Compatible.
 
-*Balise désactivée.*```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)
-Contient la version d'affichage de Internet Explorer pour la balise X-UA-Compatible.
-
 *Balise désactivée.*
 
 ## Utilisations dans les templates

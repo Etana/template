@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.VALUE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.VALUE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.VALUE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field.VALUE)
 
 ## Utilisations dans les templates

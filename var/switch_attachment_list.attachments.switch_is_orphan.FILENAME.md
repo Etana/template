@@ -14,9 +14,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan.FILENAME)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan.FILENAME)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan.FILENAME)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan.FILENAME)
 
 ## Utilisations dans les templates

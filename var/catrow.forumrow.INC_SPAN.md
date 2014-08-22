@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_SPAN)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_SPAN)```
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_SPAN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_SPAN)
 
 ## Utilisations dans les templates

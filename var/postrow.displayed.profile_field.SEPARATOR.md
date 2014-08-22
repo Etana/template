@@ -14,9 +14,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)```
-
-## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR)
 
 ## Utilisations dans les templates

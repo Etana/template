@@ -14,9 +14,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail.CAT_DESC)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail.CAT_DESC)```
-
-## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail.CAT_DESC)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail.CAT_DESC)
 
 ## Utilisations dans les templates

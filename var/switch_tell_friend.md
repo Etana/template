@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_tell_friend)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_tell_friend)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_tell_friend)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_tell_friend)```
-
 ## Attributs
 
 

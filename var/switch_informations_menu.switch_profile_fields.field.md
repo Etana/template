@@ -16,12 +16,9 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.field)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.field)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.field)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.field)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields.field.NAME}`](../var/switch_informations_menu.switch_profile_fields.field.NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields.field.DESCRIPTION}`](../var/switch_informations_menu.switch_profile_fields.field.DESCRIPTION.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields.field.NAME}`](../var/switch_informations_menu.switch_profile_fields.field.NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields.field.OBJECT}`](../var/switch_informations_menu.switch_profile_fields.field.OBJECT.md#readme)__
 
 

@@ -12,20 +12,17 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/listrow)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/listrow)```
 
-## Description[*](https://fa-tvars.appspot.com/var/listrow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/listrow)```
-
 ## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.DATE}`](../var/listrow.DATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.FROM}`](../var/listrow.FROM.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.L_BY}`](../var/listrow.L_BY.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.L_PRIVMSG_FOLDER_ALT}`](../var/listrow.L_PRIVMSG_FOLDER_ALT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.PRIVMSG_FOLDER_IMG}`](../var/listrow.PRIVMSG_FOLDER_IMG.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.PRIVMSG_ICON}`](../var/listrow.PRIVMSG_ICON.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.ROW_CLASS}`](../var/listrow.ROW_CLASS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.S_MARK_ID}`](../var/listrow.S_MARK_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.SUBJECT}`](../var/listrow.SUBJECT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.L_PRIVMSG_FOLDER_ALT}`](../var/listrow.L_PRIVMSG_FOLDER_ALT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.ROW_CLASS}`](../var/listrow.ROW_CLASS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.PRIVMSG_ICON}`](../var/listrow.PRIVMSG_ICON.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.FROM}`](../var/listrow.FROM.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.U_READ}`](../var/listrow.U_READ.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.DATE}`](../var/listrow.DATE.md#readme)__
 
 
 ## Utilisations dans les templates

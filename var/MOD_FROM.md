@@ -9,10 +9,6 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_FROM)
 Valeur du champ `Localisation` du modérateur de groupe.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_FROM)
-Valeur du champ `Localisation` du modérateur de groupe.
 
 
 ## Utilisations dans les templates

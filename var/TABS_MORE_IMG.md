@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TABS_MORE_IMG)
-Image pour ouvrir un panneau définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > +`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/TABS_MORE_IMG)
 Image pour ouvrir un panneau définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > +`.
 
 ## Utilisations dans les templates

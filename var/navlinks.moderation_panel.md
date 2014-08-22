@@ -14,14 +14,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel)```
 
-## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE}`](../var/navlinks.moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.moderation_panel.L_YOUR_PERSONAL_MODERATE}`](../var/navlinks.moderation_panel.L_YOUR_PERSONAL_MODERATE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE}`](../var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE}`](../var/navlinks.moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.moderation_panel.U_URL_YOUR_PERSONAL_MODERATE}`](../var/navlinks.moderation_panel.U_URL_YOUR_PERSONAL_MODERATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE}`](../var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}`](../var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW.md#readme)__
 
 

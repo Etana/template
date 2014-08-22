@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/profile_field.profil_type_user_posts)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/profile_field.profil_type_user_posts)```
 
-## Description[*](https://fa-tvars.appspot.com/var/profile_field.profil_type_user_posts)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/profile_field.profil_type_user_posts)```
-
 ## Attributs
 
 

@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_mod_option.switch_grp_admin)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_mod_option.switch_grp_admin)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_mod_option.switch_grp_admin)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_mod_option.switch_grp_admin)```
-
 ## Attributs
 
 

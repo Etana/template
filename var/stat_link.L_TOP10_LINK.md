@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/stat_link.L_TOP10_LINK)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/stat_link.L_TOP10_LINK)```
-
-## Description[*](https://fa-tvars.appspot.com/var/stat_link.L_TOP10_LINK)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/stat_link.L_TOP10_LINK)
 
 ## Utilisations dans les templates

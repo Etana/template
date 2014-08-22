@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)```
-
 ## Attributs
 
 

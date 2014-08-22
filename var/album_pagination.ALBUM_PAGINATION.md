@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)```
-
-## Description[*](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)
 
 ## Utilisations dans les templates

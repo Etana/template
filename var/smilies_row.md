@@ -12,15 +12,12 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/smilies_row)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/smilies_row)```
 
-## Description[*](https://fa-tvars.appspot.com/var/smilies_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/smilies_row)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN smilies_col -->`](../var/smilies_row.smilies_col.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_CODE}`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SHOW_JS}`](../var/smilies_row.smilies_col.SHOW_JS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_CODE}`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme)__
 
 

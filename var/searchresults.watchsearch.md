@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
 Boucle d'affichage si vous êtes dans la partie `/search?search_id=watchsearch`.```
 
-## Description[*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)
-Boucle d'affichage si vous êtes dans la partie `/search?search_id=watchsearch`.```
-
 ## Attributs
 
 

@@ -12,13 +12,6 @@ Action du formulaire de connexion.
 
 * __Remplacée par :__ `/login`
 
-*Attention : Si cette variable est retirée, le formulaire de connexion ne fonctionnera plus !*```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_LOGIN_ACTION)
-Action du formulaire de connexion.
-
-* __Remplacée par :__ `/login`
-
 *Attention : Si cette variable est retirée, le formulaire de connexion ne fonctionnera plus !*
 
 ## Utilisations dans les templates

@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.MINI_POST_IMG)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.MINI_POST_IMG)```
-
-## Description[*](https://fa-tvars.appspot.com/var/postrow.MINI_POST_IMG)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.MINI_POST_IMG)
 
 ## Utilisations dans les templates

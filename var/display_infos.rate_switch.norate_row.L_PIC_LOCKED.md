@@ -14,9 +14,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.norate_row.L_PIC_LOCKED)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.norate_row.L_PIC_LOCKED)```
-
-## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.norate_row.L_PIC_LOCKED)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.norate_row.L_PIC_LOCKED)
 
 ## Utilisations dans les templates

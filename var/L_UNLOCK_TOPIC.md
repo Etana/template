@@ -10,12 +10,6 @@
 Texte.
 
 * __Remplacement français :__ `Déverrouiller le sujet`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_UNLOCK_TOPIC)
-Texte.
-
-* __Remplacement français :__ `Déverrouiller le sujet`
 
 
 ## Utilisations dans les templates

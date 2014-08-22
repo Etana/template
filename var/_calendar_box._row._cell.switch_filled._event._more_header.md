@@ -22,9 +22,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event._more_header)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event._more_header)```
 
-## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event._more_header)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event._more_header)```
-
 ## Attributs
 
 

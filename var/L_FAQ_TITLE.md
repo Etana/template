@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_FAQ_TITLE)
 Chaîne de texte.
 
-* __Contenu en français :__ `FAQ````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_FAQ_TITLE)
-Chaîne de texte.
-
 * __Contenu en français :__ `FAQ`
 
 ## Utilisations dans les templates

@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING_EXPLAIN)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING_EXPLAIN)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING_EXPLAIN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING_EXPLAIN)
 
 ## Utilisations dans les templates

@@ -18,9 +18,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.single_selection)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.single_selection)```
 
-## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.single_selection)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.single_selection)```
-
 ## Attributs
 
 

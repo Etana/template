@@ -8,10 +8,6 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_JOINED)
 Date d'inscription du modérateur de boucle.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_JOINED)
-Date d'inscription du modérateur de boucle.
 
 
 ## Utilisations dans les templates

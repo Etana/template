@@ -14,21 +14,18 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.DESC}`](../var/switch_search_results.search_results.DESC.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.U_PIC}`](../var/switch_search_results.search_results.U_PIC.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_TIME}`](../var/switch_search_results.search_results.L_TIME.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.ROW_CLASS}`](../var/switch_search_results.search_results.ROW_CLASS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.U_PROFILE}`](../var/switch_search_results.search_results.U_PROFILE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.U_CAT}`](../var/switch_search_results.search_results.U_CAT.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.THUMBNAIL}`](../var/switch_search_results.search_results.THUMBNAIL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_CAT}`](../var/switch_search_results.search_results.L_CAT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_PIC}`](../var/switch_search_results.search_results.L_PIC.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_PIC_DESC}`](../var/switch_search_results.search_results.L_PIC_DESC.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_CAT}`](../var/switch_search_results.search_results.L_CAT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_TIME}`](../var/switch_search_results.search_results.L_TIME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_USERNAME}`](../var/switch_search_results.search_results.L_USERNAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.ROW_CLASS}`](../var/switch_search_results.search_results.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.THUMBNAIL}`](../var/switch_search_results.search_results.THUMBNAIL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.U_CAT}`](../var/switch_search_results.search_results.U_CAT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.U_PIC}`](../var/switch_search_results.search_results.U_PIC.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.U_PROFILE}`](../var/switch_search_results.search_results.U_PROFILE.md#readme)__
 
 
 ## Utilisations dans les templates

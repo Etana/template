@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/UCP_TABS)
-Contient la navigation entre les onglets dans `/search?search_id=watchsearch`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/UCP_TABS)
 Contient la navigation entre les onglets dans `/search?search_id=watchsearch`.
 
 ## Utilisations dans les templates

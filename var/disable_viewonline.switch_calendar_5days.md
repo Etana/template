@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_calendar_5days)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_calendar_5days)```
 
-## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_calendar_5days)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_calendar_5days)```
-
 ## Attributs
 
 

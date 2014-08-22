@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.FORUM_DESC)
-Contient la description du forum bouclé.```
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.FORUM_DESC)
 Contient la description du forum bouclé.
 
 ## Utilisations dans les templates

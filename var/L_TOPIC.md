@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_TOPIC)
 Chaîne de texte.
 
-* __Contenu en français :__ `Sujet````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_TOPIC)
-Chaîne de texte.
-
 * __Contenu en français :__ `Sujet`
 
 ## Utilisations dans les templates

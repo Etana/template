@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ALBUM_NAVIGATION_ARROW)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ALBUM_NAVIGATION_ARROW)```
-
-## Description[*](https://fa-tvars.appspot.com/var/ALBUM_NAVIGATION_ARROW)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/ALBUM_NAVIGATION_ARROW)
 
 ## Utilisations dans les templates

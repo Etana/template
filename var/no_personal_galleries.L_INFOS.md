@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_personal_galleries.L_INFOS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_personal_galleries.L_INFOS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/no_personal_galleries.L_INFOS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/no_personal_galleries.L_INFOS)
 
 ## Utilisations dans les templates

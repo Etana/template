@@ -14,9 +14,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.inc.INC_CLASS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.inc.INC_CLASS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.inc.INC_CLASS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.inc.INC_CLASS)
 
 ## Utilisations dans les templates

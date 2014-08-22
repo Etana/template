@@ -18,9 +18,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.display_border)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.display_border)```
 
-## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.display_border)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.display_border)```
-
 ## Attributs
 
 

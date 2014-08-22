@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SEARCH_TOPIC)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCH_TOPIC)```
-
-## Description[*](https://fa-tvars.appspot.com/var/SEARCH_TOPIC)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SEARCH_TOPIC)
 
 ## Utilisations dans les templates

@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS)
 
 ## Utilisations dans les templates

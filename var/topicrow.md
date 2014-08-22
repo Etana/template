@@ -12,21 +12,18 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topicrow)```
 
-## Description[*](https://fa-tvars.appspot.com/var/topicrow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topicrow)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TITLE}`](../var/topicrow.TOPIC_TITLE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.U_VIEW_TOPIC}`](../var/topicrow.U_VIEW_TOPIC.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.LAST_POST_TIME}`](../var/topicrow.LAST_POST_TIME.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_FOLDER_IMG_ALT}`](../var/topicrow.TOPIC_FOLDER_IMG_ALT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.ICON}`](../var/topicrow.ICON.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_ID}`](../var/topicrow.TOPIC_ID.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.ROW_CLASS}`](../var/topicrow.ROW_CLASS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TYPE}`](../var/topicrow.TOPIC_TYPE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_FOLDER_IMG}`](../var/topicrow.TOPIC_FOLDER_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.REPLIES}`](../var/topicrow.REPLIES.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.L_TOPIC_FOLDER_ALT}`](../var/topicrow.L_TOPIC_FOLDER_ALT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.LAST_POST_TIME}`](../var/topicrow.LAST_POST_TIME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.REPLIES}`](../var/topicrow.REPLIES.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.ROW_CLASS}`](../var/topicrow.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_FOLDER_IMG}`](../var/topicrow.TOPIC_FOLDER_IMG.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_FOLDER_IMG_ALT}`](../var/topicrow.TOPIC_FOLDER_IMG_ALT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_ID}`](../var/topicrow.TOPIC_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TITLE}`](../var/topicrow.TOPIC_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TYPE}`](../var/topicrow.TOPIC_TYPE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.U_VIEW_TOPIC}`](../var/topicrow.U_VIEW_TOPIC.md#readme)__
 
 
 ## Utilisations dans les templates

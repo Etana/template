@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_DESC)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_DESC)```
-
-## Description[*](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_DESC)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_DESC)
 
 ## Utilisations dans les templates

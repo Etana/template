@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON)
 
 ## Utilisations dans les templates

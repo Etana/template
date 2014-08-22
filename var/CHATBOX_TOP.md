@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CHATBOX_TOP)
-Affiche la chatbox sur la page d'accueil en haut si l'option dans `PA > Modules > ChatBox | Configuration > Affichage de la chatbox` est choisie.```
-
-## Description[*](https://fa-tvars.appspot.com/var/CHATBOX_TOP)
 Affiche la chatbox sur la page d'accueil en haut si l'option dans `PA > Modules > ChatBox | Configuration > Affichage de la chatbox` est choisie.
 
 ## Utilisations dans les templates

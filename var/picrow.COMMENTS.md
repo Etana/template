@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.COMMENTS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.COMMENTS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/picrow.COMMENTS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.COMMENTS)
 
 ## Utilisations dans les templates

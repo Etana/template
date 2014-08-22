@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.TOPICS)
-Contient le nombre de sujets postés dans le forum bouclé.```
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.TOPICS)
 Contient le nombre de sujets postés dans le forum bouclé.
 
 ## Utilisations dans les templates

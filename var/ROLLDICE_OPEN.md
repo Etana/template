@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ROLLDICE_OPEN)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ROLLDICE_OPEN)```
-
-## Description[*](https://fa-tvars.appspot.com/var/ROLLDICE_OPEN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/ROLLDICE_OPEN)
 
 ## Utilisations dans les templates

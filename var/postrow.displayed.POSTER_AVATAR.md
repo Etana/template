@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_AVATAR)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_AVATAR)```
-
-## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_AVATAR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_AVATAR)
 
 ## Utilisations dans les templates

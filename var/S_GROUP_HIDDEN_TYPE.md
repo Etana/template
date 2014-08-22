@@ -11,12 +11,6 @@
 Remplacé par `2`.
 
 Valeur correspondante à un groupe invisible.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_HIDDEN_TYPE)
-Remplacé par `2`.
-
-Valeur correspondante à un groupe invisible.
 
 
 ## Utilisations dans les templates

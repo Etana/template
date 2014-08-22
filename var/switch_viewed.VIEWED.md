@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)
 
 ## Utilisations dans les templates

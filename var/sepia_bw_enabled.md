@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/sepia_bw_enabled)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/sepia_bw_enabled)```
 
-## Description[*](https://fa-tvars.appspot.com/var/sepia_bw_enabled)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/sepia_bw_enabled)```
-
 ## Attributs
 
 

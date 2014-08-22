@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.RANK_IMAGE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.RANK_IMAGE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.RANK_IMAGE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.RANK_IMAGE)
 
 ## Utilisations dans les templates

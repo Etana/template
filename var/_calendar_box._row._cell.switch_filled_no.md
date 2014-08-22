@@ -18,9 +18,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled_no)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled_no)```
 
-## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled_no)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled_no)```
-
 ## Attributs
 
 

@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_REGISTER)
-Adresse url absolue vers la page d'inscription : `/register````
-
-## Description[*](https://fa-tvars.appspot.com/var/U_REGISTER)
 Adresse url absolue vers la page d'inscription : `/register`
 
 ## Utilisations dans les templates

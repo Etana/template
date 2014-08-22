@@ -11,12 +11,6 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `Adresse AIM`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_AIM)
-Chaîne de texte.
-  
-* __Remplacement français :__ `Adresse AIM`
 
 
 ## Utilisations dans les templates

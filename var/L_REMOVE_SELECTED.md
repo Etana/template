@@ -11,12 +11,6 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `Supprimer la sélection`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_REMOVE_SELECTED)
-Chaîne de texte.
-  
-* __Remplacement français :__ `Supprimer la sélection`
 
 
 ## Utilisations dans les templates

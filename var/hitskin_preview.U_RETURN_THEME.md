@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.U_RETURN_THEME)
-Lien pour retourner sur la fiche du thème.```
-
-## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.U_RETURN_THEME)
 Lien pour retourner sur la fiche du thème.
 
 ## Utilisations dans les templates

@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_delete_cookies.U_DELETE_COOKIES)
-Lien vers la suppression des cookies : `/?mode=delete_cookies`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_delete_cookies.U_DELETE_COOKIES)
 Lien vers la suppression des cookies : `/?mode=delete_cookies`.
 
 ## Utilisations dans les templates

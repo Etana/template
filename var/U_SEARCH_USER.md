@@ -9,10 +9,6 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_USER)
 Remplacé par l'adresse absolue `/search?mode=searchuser` d'une page de recherche de nom d'utilisateur.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_USER)
-Remplacé par l'adresse absolue `/search?mode=searchuser` d'une page de recherche de nom d'utilisateur.
 
 
 ## Utilisations dans les templates

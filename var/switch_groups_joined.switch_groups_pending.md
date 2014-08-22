@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groups_joined.switch_groups_pending)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_groups_joined.switch_groups_pending)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_groups_joined.switch_groups_pending)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_groups_joined.switch_groups_pending)```
-
 ## Attributs
 
 

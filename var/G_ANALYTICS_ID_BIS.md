@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID_BIS)
-Variable liée à des statistiques internes.```
-
-## Description[*](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID_BIS)
 Variable liée à des statistiques internes.
 
 ## Utilisations dans les templates

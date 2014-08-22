@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG_ALT)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG_ALT)```
-
-## Description[*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG_ALT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG_ALT)
 
 ## Utilisations dans les templates

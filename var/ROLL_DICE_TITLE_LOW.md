@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ROLL_DICE_TITLE_LOW)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ROLL_DICE_TITLE_LOW)```
-
-## Description[*](https://fa-tvars.appspot.com/var/ROLL_DICE_TITLE_LOW)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/ROLL_DICE_TITLE_LOW)
 
 ## Utilisations dans les templates

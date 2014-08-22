@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_attachment)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN modif_dav_08032010 -->`](../var/switch_attachment.modif_dav_08032010.md#readme)__
 

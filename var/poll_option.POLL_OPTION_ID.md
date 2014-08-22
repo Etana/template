@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_ID)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_ID)```
-
-## Description[*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_ID)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_ID)
 
 ## Utilisations dans les templates

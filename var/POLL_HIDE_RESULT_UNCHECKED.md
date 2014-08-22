@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLL_HIDE_RESULT_UNCHECKED)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/POLL_HIDE_RESULT_UNCHECKED)```
-
-## Description[*](https://fa-tvars.appspot.com/var/POLL_HIDE_RESULT_UNCHECKED)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/POLL_HIDE_RESULT_UNCHECKED)
 
 ## Utilisations dans les templates

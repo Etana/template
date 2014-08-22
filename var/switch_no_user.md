@@ -12,12 +12,9 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_user)
 Boucle s'affichant si aucun utilisateur ne correspond à la recherche.```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_no_user)
-Boucle s'affichant si aucun utilisateur ne correspond à la recherche.```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_no_user.L_NO_USER}`](../var/switch_no_user.L_NO_USER.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_no_user.COLSPAN_NUMBER}`](../var/switch_no_user.COLSPAN_NUMBER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_no_user.L_NO_USER}`](../var/switch_no_user.L_NO_USER.md#readme)__
 
 
 ## Utilisations dans les templates

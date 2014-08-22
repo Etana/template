@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/S_CREDITS_ADD_ACTION)
 Action du formulaire de donation.
 
-*Attention : Cette variable est importante au bon fonctionnement des donations.*```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_CREDITS_ADD_ACTION)
-Action du formulaire de donation.
-
 *Attention : Cette variable est importante au bon fonctionnement des donations.*
 
 ## Utilisations dans les templates

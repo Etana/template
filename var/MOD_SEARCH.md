@@ -14,16 +14,6 @@ Lien textuel vers une recherche des messages envoyés par le modérateur du grou
 ```html
 <a href="/spa/Admin?showresults=posts">Trouver tous les sujets ouverts par Admin</a>
 ```
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_SEARCH)
-Lien textuel vers une recherche des messages envoyés par le modérateur du groupe.
-
-* __Exemple de remplacement français :__
-
-```html
-<a href="/spa/Admin?showresults=posts">Trouver tous les sujets ouverts par Admin</a>
-```
 
 
 ## Utilisations dans les templates

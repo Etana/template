@@ -11,12 +11,6 @@
 Texte.
   
 * __Remplacement français :__ `Groupe fermé`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_CLOSED)
-Texte.
-  
-* __Remplacement français :__ `Groupe fermé`
 
 
 ## Utilisations dans les templates

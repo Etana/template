@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_birthday)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_birthday)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_birthday)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_birthday)```
-
 ## Attributs
 
 

@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR)
 
 ## Utilisations dans les templates

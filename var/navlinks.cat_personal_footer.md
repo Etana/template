@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer)```
 
-## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}`](../var/navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES}`](../var/navlinks.cat_personal_footer.U_IMG_YOUR_PERSONAL_GALLERIES.md#readme)__

@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.CAT_TITLE)
-Contient le nom de la catégorie bouclée.```
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.CAT_TITLE)
 Contient le nom de la catégorie bouclée.
 
 ## Utilisations dans les templates

@@ -11,12 +11,6 @@
 Chaîne de texte.
 
 * __Remplacement en français dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :__ `Message Privé`
-* __Remplacement en français ailleurs :__ `MP````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_PM)
-Chaîne de texte.
-
-* __Remplacement en français dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :__ `Message Privé`
 * __Remplacement en français ailleurs :__ `MP`
 
 ## Utilisations dans les templates

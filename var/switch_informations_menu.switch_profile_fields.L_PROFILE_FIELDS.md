@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS)
 
 ## Utilisations dans les templates

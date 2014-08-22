@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_new)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option_new)```
 
-## Description[*](https://fa-tvars.appspot.com/var/poll_option_new)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option_new)```
-
 ## Attributs
 
 

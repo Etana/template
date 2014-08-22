@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/navmenu)
 Boucle s'affichant si vous êtes dans les résultats de recherche par sujets `/sta/Pseudo`.```
 
-## Description[*](https://fa-tvars.appspot.com/var/navmenu)
-Boucle s'affichant si vous êtes dans les résultats de recherche par sujets `/sta/Pseudo`.```
-
 ## Attributs
 
 

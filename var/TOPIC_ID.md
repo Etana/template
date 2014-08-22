@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC_ID)
 Remplacé par l'identifiant numérique du sujet.
 
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/TOPIC_ID)
-Remplacé par l'identifiant numérique du sujet.
-
 
 
 ## Utilisations dans les templates

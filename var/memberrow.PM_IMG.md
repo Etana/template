@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.PM_IMG)
-Contient un lien vers l'envoi d'un message privé au membre et l'image définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Boutons" > Message Privé`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/memberrow.PM_IMG)
 Contient un lien vers l'envoi d'un message privé au membre et l'image définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Boutons" > Message Privé`.
 
 ## Utilisations dans les templates

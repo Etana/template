@@ -11,12 +11,6 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Membres`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_MEMBERLIST)
-Chaîne de caractère.
-
-* __Remplacement français :__ `Membres`
 
 
 ## Utilisations dans les templates

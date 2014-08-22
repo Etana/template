@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS)
 
 ## Utilisations dans les templates

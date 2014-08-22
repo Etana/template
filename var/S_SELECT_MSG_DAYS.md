@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SELECT_MSG_DAYS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SELECT_MSG_DAYS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_SELECT_MSG_DAYS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SELECT_MSG_DAYS)
 
 ## Utilisations dans les templates

@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod_index1)
 Boucle d'affichage de vos widgets de la colonne de gauche si ceux-ci sont activés dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 1 (gauche)`.```
 
-## Description[*](https://fa-tvars.appspot.com/var/giefmod_index1)
-Boucle d'affichage de vos widgets de la colonne de gauche si ceux-ci sont activés dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 1 (gauche)`.```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod_index1.MODVAR}`](../var/giefmod_index1.MODVAR.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod_index1.saut.md#readme)__

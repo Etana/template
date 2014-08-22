@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_LASTPOST)
 Chaîne de texte.
 
-* __Contenu en français :__ `Derniers Messages````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_LASTPOST)
-Chaîne de texte.
-
 * __Contenu en français :__ `Derniers Messages`
 
 ## Utilisations dans les templates

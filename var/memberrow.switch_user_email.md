@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_user_email)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_user_email)```
 
-## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_user_email)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_user_email)```
-
 ## Attributs
 
 

@@ -14,20 +14,17 @@
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics)```
 
-## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN recent_stats -->`](../var/list_pics_block.list_pics.recent_stats.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_RANK}`](../var/list_pics_block.list_pics.H_RANK.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.MESSAGE}`](../var/list_pics_block.list_pics.MESSAGE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_POSTER}`](../var/list_pics_block.list_pics.H_POSTER.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.recent_stats.H_STATS}`](../var/list_pics_block.list_pics.recent_stats.H_STATS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_TITLE}`](../var/list_pics_block.list_pics.H_TITLE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.U_CAT}`](../var/list_pics_block.list_pics.U_CAT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_ALBUM_NAME}`](../var/list_pics_block.list_pics.H_ALBUM_NAME.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.U_PIC}`](../var/list_pics_block.list_pics.U_PIC.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_POSTER}`](../var/list_pics_block.list_pics.H_POSTER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_RANK}`](../var/list_pics_block.list_pics.H_RANK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_TITLE}`](../var/list_pics_block.list_pics.H_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.MESSAGE}`](../var/list_pics_block.list_pics.MESSAGE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN recent_stats -->`](../var/list_pics_block.list_pics.recent_stats.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.recent_stats.H_STATS}`](../var/list_pics_block.list_pics.recent_stats.H_STATS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.STAT_CLASS}`](../var/list_pics_block.list_pics.STAT_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.U_CAT}`](../var/list_pics_block.list_pics.U_CAT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.U_PIC}`](../var/list_pics_block.list_pics.U_PIC.md#readme)__
 
 
 ## Utilisations dans les templates

@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/member_row.USER_ID)
-Identifiant numérique du membre sur lequel on boucle.```
-
-## Description[*](https://fa-tvars.appspot.com/var/member_row.USER_ID)
 Identifiant numérique du membre sur lequel on boucle.
 
 ## Utilisations dans les templates

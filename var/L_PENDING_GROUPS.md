@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PENDING_GROUPS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_PENDING_GROUPS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_PENDING_GROUPS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_PENDING_GROUPS)
 
 ## Utilisations dans les templates

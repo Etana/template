@@ -15,22 +15,16 @@ Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 * si le membre est administrateur ou modérateur du groupe
 ```
 
-## Description[*](https://fa-tvars.appspot.com/var/pending_members_row)
-Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
-
-* si le membre est administrateur ou modérateur du groupe
-```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.POSTS}`](../var/pending_members_row.POSTS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USER_ID}`](../var/pending_members_row.USER_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.EMAIL_IMG}`](../var/pending_members_row.EMAIL_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.U_VIEWPROFILE}`](../var/pending_members_row.U_VIEWPROFILE.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.ROW_CLASS}`](../var/pending_members_row.ROW_CLASS.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.WWW_IMG}`](../var/pending_members_row.WWW_IMG.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USERNAME}`](../var/pending_members_row.USERNAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.FROM}`](../var/pending_members_row.FROM.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.PM_IMG}`](../var/pending_members_row.PM_IMG.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.POSTS}`](../var/pending_members_row.POSTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.ROW_CLASS}`](../var/pending_members_row.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.U_VIEWPROFILE}`](../var/pending_members_row.U_VIEWPROFILE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USER_ID}`](../var/pending_members_row.USER_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USERNAME}`](../var/pending_members_row.USERNAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.WWW_IMG}`](../var/pending_members_row.WWW_IMG.md#readme)__
 
 
 ## Utilisations dans les templates

@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES)
 
 ## Utilisations dans les templates

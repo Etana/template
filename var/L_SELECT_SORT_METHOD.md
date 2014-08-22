@@ -12,13 +12,6 @@ Chaîne de texte.
 
 * __Remplacement en français dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :__ `Sélectionner la méthode de tri`
 * __Remplacement en français ailleurs :__ `Trier par`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_SELECT_SORT_METHOD)
-Chaîne de texte.
-
-* __Remplacement en français dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :__ `Sélectionner la méthode de tri`
-* __Remplacement en français ailleurs :__ `Trier par`
 
 
 ## Utilisations dans les templates

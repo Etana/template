@@ -11,12 +11,6 @@
 Remplacé par `1`.
 
 Valeur correspondante à un groupe fermé.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_CLOSED_TYPE)
-Remplacé par `1`.
-
-Valeur correspondante à un groupe fermé.
 
 
 ## Utilisations dans les templates

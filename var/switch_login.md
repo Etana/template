@@ -12,13 +12,10 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_login)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_login)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_login)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_login.switch_fb_connect_login.L_FB_PERMISSIONS}`](../var/switch_login.switch_fb_connect_login.L_FB_PERMISSIONS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect_login -->`](../var/switch_login.switch_fb_connect_login.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON}`](../var/switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_login.switch_fb_connect_login.L_FB_PERMISSIONS}`](../var/switch_login.switch_fb_connect_login.L_FB_PERMISSIONS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_login.switch_fb_connect_login.L_OR}`](../var/switch_login.switch_fb_connect_login.L_OR.md#readme)__
 
 

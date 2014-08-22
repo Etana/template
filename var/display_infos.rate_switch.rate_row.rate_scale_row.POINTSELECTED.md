@@ -16,9 +16,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED)```
-
-## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED)
 
 ## Utilisations dans les templates

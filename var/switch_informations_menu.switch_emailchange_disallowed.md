@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_emailchange_disallowed)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_emailchange_disallowed)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_emailchange_disallowed)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_emailchange_disallowed)```
-
 ## Attributs
 
 

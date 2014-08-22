@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rate.RATE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_rate.RATE)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_rate.RATE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_rate.RATE)
 
 ## Utilisations dans les templates

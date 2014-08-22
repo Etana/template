@@ -14,16 +14,11 @@ Boucle contenant le message d'accueil.
 
 * __Code :__ {{message_admin_index}}```
 
-## Description[*](https://fa-tvars.appspot.com/var/message_admin_index)
-Boucle contenant le message d'accueil.
-
-* __Code :__ {{message_admin_index}}```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_txt -->`](../var/message_admin_index.message_admin_txt.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_txt.MES_TXT}`](../var/message_admin_index.message_admin_txt.MES_TXT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_titre -->`](../var/message_admin_index.message_admin_titre.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_titre.MES_TITRE}`](../var/message_admin_index.message_admin_titre.MES_TITRE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_txt -->`](../var/message_admin_index.message_admin_txt.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_txt.MES_TXT}`](../var/message_admin_index.message_admin_txt.MES_TXT.md#readme)__
 
 
 ## Utilisations dans les templates

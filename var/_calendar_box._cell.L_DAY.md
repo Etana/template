@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._cell.L_DAY)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._cell.L_DAY)```
-
-## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._cell.L_DAY)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._cell.L_DAY)
 
 ## Utilisations dans les templates

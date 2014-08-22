@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pagination.PAGINATION)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/pagination.PAGINATION)```
-
-## Description[*](https://fa-tvars.appspot.com/var/pagination.PAGINATION)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/pagination.PAGINATION)
 
 ## Utilisations dans les templates

@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/show_permissions)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/show_permissions)```
 
-## Description[*](https://fa-tvars.appspot.com/var/show_permissions)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/show_permissions)```
-
 ## Attributs
 
 

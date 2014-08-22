@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields.F_NAME)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields.F_NAME)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields.F_NAME)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields.F_NAME)
 
 ## Utilisations dans les templates

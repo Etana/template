@@ -14,9 +14,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_manual_thumbnail.switch_nuffload_enabled)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_manual_thumbnail.switch_nuffload_enabled)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_manual_thumbnail.switch_nuffload_enabled)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_manual_thumbnail.switch_nuffload_enabled)```
-
 ## Attributs
 
 

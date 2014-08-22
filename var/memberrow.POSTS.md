@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.POSTS)
-Contient le nombre de message(s) posté(s) par le membre.```
-
-## Description[*](https://fa-tvars.appspot.com/var/memberrow.POSTS)
 Contient le nombre de message(s) posté(s) par le membre.
 
 ## Utilisations dans les templates

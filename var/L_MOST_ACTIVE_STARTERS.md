@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MOST_ACTIVE_STARTERS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MOST_ACTIVE_STARTERS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_MOST_ACTIVE_STARTERS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MOST_ACTIVE_STARTERS)
 
 ## Utilisations dans les templates

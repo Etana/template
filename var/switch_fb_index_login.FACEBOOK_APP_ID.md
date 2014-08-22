@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID)
-Contient l'ID de l'application Facebook dans `PA > Modules > Facebook Connect | Configuration > ID de l'application`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_fb_index_login.FACEBOOK_APP_ID)
 Contient l'ID de l'application Facebook dans `PA > Modules > Facebook Connect | Configuration > ID de l'application`.
 
 ## Utilisations dans les templates

@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_quote_limit.L_QUOTE_LIMIT_WARNING)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_quote_limit.L_QUOTE_LIMIT_WARNING)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_quote_limit.L_QUOTE_LIMIT_WARNING)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_quote_limit.L_QUOTE_LIMIT_WARNING)
 
 ## Utilisations dans les templates

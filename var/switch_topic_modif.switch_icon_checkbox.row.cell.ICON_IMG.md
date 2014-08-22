@@ -16,9 +16,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG)```
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG)
 
 ## Utilisations dans les templates

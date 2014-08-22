@@ -14,16 +14,6 @@ Lien textuel vers le profil du modérateur de groupe.
 ```html
 <a href="/u1">Voir le profil de l'utilisateur</a>
 ```
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_PROFILE)
-Lien textuel vers le profil du modérateur de groupe.
-
-* __Exemple de remplacement français :__ 
-
-```html
-<a href="/u1">Voir le profil de l'utilisateur</a>
-```
 
 
 ## Utilisations dans les templates

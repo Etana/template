@@ -12,16 +12,13 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rpg)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_rpg)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_rpg)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_rpg)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN rpg_fields_left -->`](../var/switch_rpg.rpg_fields_left.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields.F_NAME}`](../var/switch_rpg.rpg_fields.F_NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN rpg_fields -->`](../var/switch_rpg.rpg_fields.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields.F_NAME}`](../var/switch_rpg.rpg_fields.F_NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields.F_VALUE_NEW}`](../var/switch_rpg.rpg_fields.F_VALUE_NEW.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields_left.F_VALUE_NEW}`](../var/switch_rpg.rpg_fields_left.F_VALUE_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN rpg_fields_left -->`](../var/switch_rpg.rpg_fields_left.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields_left.F_NAME}`](../var/switch_rpg.rpg_fields_left.F_NAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields_left.F_VALUE_NEW}`](../var/switch_rpg.rpg_fields_left.F_VALUE_NEW.md#readme)__
 
 
 ## Utilisations dans les templates

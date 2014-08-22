@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG_HEIGHT)
-Hauteur du message du Popup de connexion.```
-
-## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG_HEIGHT)
 Hauteur du message du Popup de connexion.
 
 ## Utilisations dans les templates

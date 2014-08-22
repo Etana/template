@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_jumpbox)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_jumpbox)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_jumpbox)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_jumpbox)```
-
 ## Attributs
 
 

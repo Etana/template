@@ -11,12 +11,6 @@
 Texte.
 
 * __Contenu en français si le forum et le sujet ne sont pas verrouillé :__ `Répondre au sujet`
-* __Contenu en français sinon :__ `Ce sujet est verrouillé, vous ne pouvez pas éditer les messages ou faire de réponses.````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_POST_REPLY_TOPIC)
-Texte.
-
-* __Contenu en français si le forum et le sujet ne sont pas verrouillé :__ `Répondre au sujet`
 * __Contenu en français sinon :__ `Ce sujet est verrouillé, vous ne pouvez pas éditer les messages ou faire de réponses.`
 
 ## Utilisations dans les templates

@@ -11,12 +11,6 @@
 Texte.
 
 * __Remplacement français :__ `Type de groupe`
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_TYPE)
-Texte.
-
-* __Remplacement français :__ `Type de groupe`
 
 
 ## Utilisations dans les templates

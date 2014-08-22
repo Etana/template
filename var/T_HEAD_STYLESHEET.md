@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET)
-Contient le CSS global (CSS de base + CSS perso) du forum.```
-
-## Description[*](https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET)
 Contient le CSS global (CSS de base + CSS perso) du forum.
 
 ## Utilisations dans les templates

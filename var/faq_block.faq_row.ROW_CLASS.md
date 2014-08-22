@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block.faq_row.ROW_CLASS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row.ROW_CLASS)```
-
-## Description[*](https://fa-tvars.appspot.com/var/faq_block.faq_row.ROW_CLASS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row.ROW_CLASS)
 
 ## Utilisations dans les templates

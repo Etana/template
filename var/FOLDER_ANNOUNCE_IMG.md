@@ -8,9 +8,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_ANNOUNCE_IMG)
-Image des annonces définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Annonce`.```
-
-## Description[*](https://fa-tvars.appspot.com/var/FOLDER_ANNOUNCE_IMG)
 Image des annonces définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes des sujets" > Annonce`.
 
 ## Utilisations dans les templates

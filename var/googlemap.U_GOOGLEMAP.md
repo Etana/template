@@ -10,9 +10,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)```
-
-## Description[*](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)
 
 ## Utilisations dans les templates

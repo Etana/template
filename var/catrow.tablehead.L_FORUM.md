@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)```
-
-## Description[*](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)
 
 ## Utilisations dans les templates

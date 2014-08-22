@@ -9,10 +9,6 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_USERNAME)
 Code html du nom d'utilisateur du modérateur de groupe.
-```
-
-## Description[*](https://fa-tvars.appspot.com/var/MOD_USERNAME)
-Code html du nom d'utilisateur du modérateur de groupe.
 
 
 ## Utilisations dans les templates

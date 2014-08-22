@@ -10,11 +10,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_NOT_CONNECTED)
 Chaîne de texte.
 
-* __Contenu en français :__ `Vous n'êtes pas connecté.````
-
-## Description[*](https://fa-tvars.appspot.com/var/L_NOT_CONNECTED)
-Chaîne de texte.
-
 * __Contenu en français :__ `Vous n'êtes pas connecté.`
 
 ## Utilisations dans les templates

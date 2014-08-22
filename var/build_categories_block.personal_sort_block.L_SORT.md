@@ -12,9 +12,6 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.L_SORT)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.L_SORT)```
-
-## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.L_SORT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.L_SORT)
 
 ## Utilisations dans les templates

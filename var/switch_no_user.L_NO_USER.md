@@ -12,11 +12,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
 Chaîne de texte.
 
-* __Contenu en français :__ `Désolé, mais cet utilisateur n'existe pas.````
-
-## Description[*](https://fa-tvars.appspot.com/var/switch_no_user.L_NO_USER)
-Chaîne de texte.
-
 * __Contenu en français :__ `Désolé, mais cet utilisateur n'existe pas.`
 
 ## Utilisations dans les templates

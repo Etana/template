@@ -12,9 +12,6 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_leave_shadow)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_leave_shadow)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_leave_shadow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_leave_shadow)```
-
 ## Attributs
 
 

@@ -14,12 +14,9 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend)```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend)```
-
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_friend.L_OR_FRIEND}`](../var/switch_privmsg.switch_privmsg_friend.L_OR_FRIEND.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_friend.FRIEND_PM}`](../var/switch_privmsg.switch_privmsg_friend.FRIEND_PM.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_friend.L_OR_FRIEND}`](../var/switch_privmsg.switch_privmsg_friend.L_OR_FRIEND.md#readme)__
 
 
 ## Utilisations dans les templates

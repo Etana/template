@@ -18,9 +18,6 @@
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.restore_row.restore_pic)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.restore_row.restore_pic)```
 
-## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.restore_row.restore_pic)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.restore_row.restore_pic)```
-
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.restore_row.restore_pic.RESTORE_PIC_LINK}`](../var/list_pics_block.recent_pics.restore_row.restore_pic.RESTORE_PIC_LINK.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.restore_row.restore_pic.S_CLASS_ROW1}`](../var/list_pics_block.recent_pics.restore_row.restore_pic.S_CLASS_ROW1.md#readme)__

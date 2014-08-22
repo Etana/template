@@ -17,14 +17,6 @@ Le contenu de la boucle est affiché si :
 * le statut du groupe est `ouvert`.
 ```
 
-## Description[*](https://fa-tvars.appspot.com/var/switch_subscribe_group_input)
-Le contenu de la boucle est affiché si :
-
-* le membre est connecté.
-* le membre ne fait pas partie et n'est pas candidat du groupe.
-* le statut du groupe est `ouvert`.
-```
-
 ## Attributs
 
 
