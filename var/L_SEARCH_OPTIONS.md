@@ -26,3 +26,6 @@ Chaîne de texte.
 ### Version PunBB
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`32`](../src/punbb/album_formsearch_body.tpl#L32)[`<->`](../src/punbb/album_formsearch_body.tpl#L32-L32)[`32`](../src/punbb/album_formsearch_body.tpl#L32)
 
+### Version Invision
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`43`](../src/invision/search_body.tpl#L43)[`<->`](../src/invision/search_body.tpl#L43-L43)[`43`](../src/invision/search_body.tpl#L43)
+

@@ -24,3 +24,7 @@ Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`134`](../src/punbb/index_body.tpl#L134)[`<->`](../src/punbb/index_body.tpl#L134-L134)[`134`](../src/punbb/index_body.tpl#L134)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`147`](../src/punbb/index_body.tpl#L147)[`<->`](../src/punbb/index_body.tpl#L147-L147)[`147`](../src/punbb/index_body.tpl#L147)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`188`](../src/invision/index_body.tpl#L188)[`<->`](../src/invision/index_body.tpl#L188-L188)[`188`](../src/invision/index_body.tpl#L188)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`201`](../src/invision/index_body.tpl#L201)[`<->`](../src/invision/index_body.tpl#L201-L201)[`201`](../src/invision/index_body.tpl#L201)
+

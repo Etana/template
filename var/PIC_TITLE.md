@@ -45,3 +45,14 @@
 * __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme) :__ lignes [`393`](../src/punbb/album_slideshow_body.tpl#L393)[`<->`](../src/punbb/album_slideshow_body.tpl#L393-L393)[`393`](../src/punbb/album_slideshow_body.tpl#L393)
 * __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme) :__ lignes [`393`](../src/punbb/album_slideshow_body.tpl#L393)[`<->`](../src/punbb/album_slideshow_body.tpl#L393-L393)[`393`](../src/punbb/album_slideshow_body.tpl#L393)
 
+### Version Invision
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`41`](../src/invision/album_edit_body.tpl#L41)[`<->`](../src/invision/album_edit_body.tpl#L41-L41)[`41`](../src/invision/album_edit_body.tpl#L41)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`226`](../src/invision/album_showpage_body.tpl#L226)[`<->`](../src/invision/album_showpage_body.tpl#L226-L226)[`226`](../src/invision/album_showpage_body.tpl#L226)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`241`](../src/invision/album_showpage_body.tpl#L241)[`<->`](../src/invision/album_showpage_body.tpl#L241-L241)[`241`](../src/invision/album_showpage_body.tpl#L241)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`241`](../src/invision/album_showpage_body.tpl#L241)[`<->`](../src/invision/album_showpage_body.tpl#L241-L241)[`241`](../src/invision/album_showpage_body.tpl#L241)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`343`](../src/invision/album_showpage_body.tpl#L343)[`<->`](../src/invision/album_showpage_body.tpl#L343-L343)[`343`](../src/invision/album_showpage_body.tpl#L343)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`343`](../src/invision/album_showpage_body.tpl#L343)[`<->`](../src/invision/album_showpage_body.tpl#L343-L343)[`343`](../src/invision/album_showpage_body.tpl#L343)
+* __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme) :__ lignes [`386`](../src/invision/album_slideshow_body.tpl#L386)[`<->`](../src/invision/album_slideshow_body.tpl#L386-L386)[`386`](../src/invision/album_slideshow_body.tpl#L386)
+* __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme) :__ lignes [`395`](../src/invision/album_slideshow_body.tpl#L395)[`<->`](../src/invision/album_slideshow_body.tpl#L395-L395)[`395`](../src/invision/album_slideshow_body.tpl#L395)
+* __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme) :__ lignes [`395`](../src/invision/album_slideshow_body.tpl#L395)[`<->`](../src/invision/album_slideshow_body.tpl#L395-L395)[`395`](../src/invision/album_slideshow_body.tpl#L395)
+

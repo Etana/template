@@ -24,3 +24,7 @@ Boucle contenant le saut entre 2 widgets.
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`19`](../src/punbb/overall_footer_begin.tpl#L19)[`<->`](../src/punbb/overall_footer_begin.tpl#L19-L19)[`19`](../src/punbb/overall_footer_begin.tpl#L19)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`21`](../src/punbb/overall_footer_begin.tpl#L21)[`<->`](../src/punbb/overall_footer_begin.tpl#L21-L21)[`21`](../src/punbb/overall_footer_begin.tpl#L21)
 
+### Version Invision
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`17`](../src/invision/overall_footer_begin.tpl#L17)[`<->`](../src/invision/overall_footer_begin.tpl#L17-L17)[`17`](../src/invision/overall_footer_begin.tpl#L17)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`19`](../src/invision/overall_footer_begin.tpl#L19)[`<->`](../src/invision/overall_footer_begin.tpl#L19-L19)[`19`](../src/invision/overall_footer_begin.tpl#L19)
+

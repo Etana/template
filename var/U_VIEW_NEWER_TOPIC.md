@@ -32,3 +32,6 @@ Si il n'y a pas de sujet suivant ces conditions, en allant à l'adresse une page
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`123`](../src/punbb/viewtopic_body.tpl#L123)[`<->`](../src/punbb/viewtopic_body.tpl#L123-L123)[`123`](../src/punbb/viewtopic_body.tpl#L123)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`267`](../src/punbb/viewtopic_body.tpl#L267)[`<->`](../src/punbb/viewtopic_body.tpl#L267-L267)[`267`](../src/punbb/viewtopic_body.tpl#L267)
 
+### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`298`](../src/invision/viewtopic_body.tpl#L298)[`<->`](../src/invision/viewtopic_body.tpl#L298-L298)[`298`](../src/invision/viewtopic_body.tpl#L298)
+

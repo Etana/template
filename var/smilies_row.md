@@ -28,3 +28,19 @@
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`39`](../src/subsilver/posting_smilies_wysiwyg.tpl#L39)[`<->`](../src/subsilver/posting_smilies_wysiwyg.tpl#L39-L39)[`39`](../src/subsilver/posting_smilies_wysiwyg.tpl#L39)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`43`](../src/subsilver/posting_smilies_wysiwyg.tpl#L43)[`<->`](../src/subsilver/posting_smilies_wysiwyg.tpl#L43-L43)[`43`](../src/subsilver/posting_smilies_wysiwyg.tpl#L43)
 
+### Version PunBB
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`17`](../src/punbb/posting_smilies.tpl#L17)[`<->`](../src/punbb/posting_smilies.tpl#L17-L17)[`17`](../src/punbb/posting_smilies.tpl#L17)
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`21`](../src/punbb/posting_smilies.tpl#L21)[`<->`](../src/punbb/posting_smilies.tpl#L21-L21)[`21`](../src/punbb/posting_smilies.tpl#L21)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`28`](../src/punbb/posting_smilies_frame.tpl#L28)[`<->`](../src/punbb/posting_smilies_frame.tpl#L28-L28)[`28`](../src/punbb/posting_smilies_frame.tpl#L28)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`32`](../src/punbb/posting_smilies_frame.tpl#L32)[`<->`](../src/punbb/posting_smilies_frame.tpl#L32-L32)[`32`](../src/punbb/posting_smilies_frame.tpl#L32)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`27`](../src/punbb/posting_smilies_wysiwyg.tpl#L27)[`<->`](../src/punbb/posting_smilies_wysiwyg.tpl#L27-L27)[`27`](../src/punbb/posting_smilies_wysiwyg.tpl#L27)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`31`](../src/punbb/posting_smilies_wysiwyg.tpl#L31)[`<->`](../src/punbb/posting_smilies_wysiwyg.tpl#L31-L31)[`31`](../src/punbb/posting_smilies_wysiwyg.tpl#L31)
+
+### Version Invision
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`19`](../src/invision/posting_smilies.tpl#L19)[`<->`](../src/invision/posting_smilies.tpl#L19-L19)[`19`](../src/invision/posting_smilies.tpl#L19)
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`25`](../src/invision/posting_smilies.tpl#L25)[`<->`](../src/invision/posting_smilies.tpl#L25-L25)[`25`](../src/invision/posting_smilies.tpl#L25)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`30`](../src/invision/posting_smilies_frame.tpl#L30)[`<->`](../src/invision/posting_smilies_frame.tpl#L30-L30)[`30`](../src/invision/posting_smilies_frame.tpl#L30)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`34`](../src/invision/posting_smilies_frame.tpl#L34)[`<->`](../src/invision/posting_smilies_frame.tpl#L34-L34)[`34`](../src/invision/posting_smilies_frame.tpl#L34)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`27`](../src/invision/posting_smilies_wysiwyg.tpl#L27)[`<->`](../src/invision/posting_smilies_wysiwyg.tpl#L27-L27)[`27`](../src/invision/posting_smilies_wysiwyg.tpl#L27)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`31`](../src/invision/posting_smilies_wysiwyg.tpl#L31)[`<->`](../src/invision/posting_smilies_wysiwyg.tpl#L31-L31)[`31`](../src/invision/posting_smilies_wysiwyg.tpl#L31)
+

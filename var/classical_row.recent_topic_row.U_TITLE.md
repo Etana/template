@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`38`](../src/punbb/mod_recent_topics.tpl#L38)[`<->`](../src/punbb/mod_recent_topics.tpl#L38-L38)[`38`](../src/punbb/mod_recent_topics.tpl#L38)
 
+### Version Invision
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`35`](../src/invision/mod_recent_topics.tpl#L35)[`<->`](../src/invision/mod_recent_topics.tpl#L35-L35)[`35`](../src/invision/mod_recent_topics.tpl#L35)
+

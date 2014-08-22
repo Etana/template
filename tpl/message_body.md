@@ -69,3 +69,6 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
+
+* __[`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme) :__ ligne [`4`](../src/invision/message_body.tpl#L4)
+* __[`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme) :__ ligne [`2`](../src/invision/message_body.tpl#L2)

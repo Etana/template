@@ -24,3 +24,8 @@
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`381`](../src/punbb/profile_add_body.tpl#L381)[`<->`](../src/punbb/profile_add_body.tpl#L381-L381)[`381`](../src/punbb/profile_add_body.tpl#L381)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`21`](../src/punbb/profile_avatar_gallery.tpl#L21)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L21-L21)[`21`](../src/punbb/profile_avatar_gallery.tpl#L21)
 
+### Version Invision
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`456`](../src/invision/profile_add_body.tpl#L456)[`<->`](../src/invision/profile_add_body.tpl#L456-L456)[`456`](../src/invision/profile_add_body.tpl#L456)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`3`](../src/invision/profile_avatar_gallery.tpl#L3)[`<->`](../src/invision/profile_avatar_gallery.tpl#L3-L3)[`3`](../src/invision/profile_avatar_gallery.tpl#L3)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`7`](../src/invision/profile_avatar_gallery.tpl#L7)[`<->`](../src/invision/profile_avatar_gallery.tpl#L7-L7)[`7`](../src/invision/profile_avatar_gallery.tpl#L7)
+

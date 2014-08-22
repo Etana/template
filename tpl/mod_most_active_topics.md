@@ -71,3 +71,12 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
+
+* __[`{L_MOST_ACTIVE_TOPICS}`](../var/L_MOST_ACTIVE_TOPICS.md#readme) :__ ligne [`2`](../src/invision/mod_most_active_topics.tpl#L2)
+* __[`{L_MOST_ACTIVE_TOPICS}`](../var/L_MOST_ACTIVE_TOPICS.md#readme) :__ ligne [`4`](../src/invision/mod_most_active_topics.tpl#L4)
+* __[`<!-- BEGIN TOPIC -->`](../var/TOPIC.md#readme) :__ ligne [`5`](../src/invision/mod_most_active_topics.tpl#L5)
+* __[`<!-- END TOPIC -->`](../var/TOPIC.md#readme) :__ ligne [`9`](../src/invision/mod_most_active_topics.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.LINK}`](../var/TOPIC.LINK.md#readme) :__ ligne [`7`](../src/invision/mod_most_active_topics.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme) :__ ligne [`7`](../src/invision/mod_most_active_topics.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme) :__ ligne [`7`](../src/invision/mod_most_active_topics.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme) :__ ligne [`7`](../src/invision/mod_most_active_topics.tpl#L7)

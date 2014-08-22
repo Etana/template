@@ -32,3 +32,10 @@ Action du formulaire dans les paramètres de vos sujets surveillés : `/search?s
 * __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`58`](../src/punbb/report_view_body.tpl#L58)[`<->`](../src/punbb/report_view_body.tpl#L58-L58)[`58`](../src/punbb/report_view_body.tpl#L58)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`23`](../src/punbb/search_results_topics.tpl#L23)[`<->`](../src/punbb/search_results_topics.tpl#L23-L23)[`23`](../src/punbb/search_results_topics.tpl#L23)
 
+### Version Invision
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`7`](../src/invision/merge_body.tpl#L7)[`<->`](../src/invision/merge_body.tpl#L7-L7)[`7`](../src/invision/merge_body.tpl#L7)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme) :__ lignes [`9`](../src/invision/merge_select_body.tpl#L9)[`<->`](../src/invision/merge_select_body.tpl#L9-L9)[`9`](../src/invision/merge_select_body.tpl#L9)
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`11`](../src/invision/report_list_body.tpl#L11)[`<->`](../src/invision/report_list_body.tpl#L11-L11)[`11`](../src/invision/report_list_body.tpl#L11)
+* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`36`](../src/invision/report_view_body.tpl#L36)[`<->`](../src/invision/report_view_body.tpl#L36-L36)[`36`](../src/invision/report_view_body.tpl#L36)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`16`](../src/invision/search_results_topics.tpl#L16)[`<->`](../src/invision/search_results_topics.tpl#L16-L16)[`16`](../src/invision/search_results_topics.tpl#L16)
+

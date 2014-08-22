@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`32`](../src/punbb/merge_body.tpl#L32)[`<->`](../src/punbb/merge_body.tpl#L32-L32)[`32`](../src/punbb/merge_body.tpl#L32)
 
+### Version Invision
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`14`](../src/invision/merge_body.tpl#L14)[`<->`](../src/invision/merge_body.tpl#L14-L14)[`14`](../src/invision/merge_body.tpl#L14)
+

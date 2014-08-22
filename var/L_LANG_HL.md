@@ -21,3 +21,6 @@ Contient la langue de votre forum.
 ### Version PunBB
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`43`](../src/punbb/search_body.tpl#L43)[`<->`](../src/punbb/search_body.tpl#L43-L43)[`43`](../src/punbb/search_body.tpl#L43)
 
+### Version Invision
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`25`](../src/invision/search_body.tpl#L25)[`<->`](../src/invision/search_body.tpl#L25-L25)[`25`](../src/invision/search_body.tpl#L25)
+

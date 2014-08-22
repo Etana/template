@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`28`](../src/punbb/mod_news.tpl#L28)[`<->`](../src/punbb/mod_news.tpl#L28-L28)[`28`](../src/punbb/mod_news.tpl#L28)
 
+### Version Invision
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`27`](../src/invision/mod_news.tpl#L27)[`<->`](../src/invision/mod_news.tpl#L27-L27)[`27`](../src/invision/mod_news.tpl#L27)
+

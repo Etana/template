@@ -27,3 +27,8 @@
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`10`](../src/punbb/report_popup_body.tpl#L10)[`<->`](../src/punbb/report_popup_body.tpl#L10-L10)[`10`](../src/punbb/report_popup_body.tpl#L10)
 * __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`18`](../src/punbb/report_view_body.tpl#L18)[`<->`](../src/punbb/report_view_body.tpl#L18-L18)[`18`](../src/punbb/report_view_body.tpl#L18)
 
+### Version Invision
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`3`](../src/invision/report_list_body.tpl#L3)[`<->`](../src/invision/report_list_body.tpl#L3-L3)[`3`](../src/invision/report_list_body.tpl#L3)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`10`](../src/invision/report_popup_body.tpl#L10)[`<->`](../src/invision/report_popup_body.tpl#L10-L10)[`10`](../src/invision/report_popup_body.tpl#L10)
+* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`3`](../src/invision/report_view_body.tpl#L3)[`<->`](../src/invision/report_view_body.tpl#L3-L3)[`3`](../src/invision/report_view_body.tpl#L3)
+

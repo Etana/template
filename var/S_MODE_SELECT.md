@@ -21,3 +21,6 @@ Contient le choix de sélection d'un mode de recherche.
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`44`](../src/punbb/memberlist_body.tpl#L44)[`<->`](../src/punbb/memberlist_body.tpl#L44-L44)[`44`](../src/punbb/memberlist_body.tpl#L44)
 
+### Version Invision
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`32`](../src/invision/memberlist_body.tpl#L32)[`<->`](../src/invision/memberlist_body.tpl#L32-L32)[`32`](../src/invision/memberlist_body.tpl#L32)
+

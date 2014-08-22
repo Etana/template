@@ -21,3 +21,6 @@ Contient la date d'inscription du membre.
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`84`](../src/punbb/memberlist_body.tpl#L84)[`<->`](../src/punbb/memberlist_body.tpl#L84-L84)[`84`](../src/punbb/memberlist_body.tpl#L84)
 
+### Version Invision
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`97`](../src/invision/memberlist_body.tpl#L97)[`<->`](../src/invision/memberlist_body.tpl#L97-L97)[`97`](../src/invision/memberlist_body.tpl#L97)
+

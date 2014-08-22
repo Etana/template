@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`100`](../src/punbb/modcp_viewip.tpl#L100)[`<->`](../src/punbb/modcp_viewip.tpl#L100-L100)[`100`](../src/punbb/modcp_viewip.tpl#L100)
 
+### Version Invision
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`77`](../src/invision/modcp_viewip.tpl#L77)[`<->`](../src/invision/modcp_viewip.tpl#L77-L77)[`77`](../src/invision/modcp_viewip.tpl#L77)
+

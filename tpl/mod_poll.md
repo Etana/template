@@ -48,3 +48,6 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
+
+* __[`{L_POLL}`](../var/L_POLL.md#readme) :__ ligne [`3`](../src/invision/mod_poll.tpl#L3)
+* __[`{POLL_DISPLAY}`](../var/POLL_DISPLAY.md#readme) :__ ligne [`5`](../src/invision/mod_poll.tpl#L5)

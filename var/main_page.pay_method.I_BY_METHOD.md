@@ -23,3 +23,6 @@ Adresse URL d'une image vide.
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`50`](../src/punbb/buy_credits.tpl#L50)[`<->`](../src/punbb/buy_credits.tpl#L50-L50)[`50`](../src/punbb/buy_credits.tpl#L50)
 
+### Version Invision
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`36`](../src/invision/buy_credits.tpl#L36)[`<->`](../src/invision/buy_credits.tpl#L36-L36)[`36`](../src/invision/buy_credits.tpl#L36)
+

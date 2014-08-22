@@ -20,3 +20,6 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`25`](../src/subsilver/buy_credits.tpl#L25)[`<->`](../src/subsilver/buy_credits.tpl#L25-L25)[`25`](../src/subsilver/buy_credits.tpl#L25)
 
+### Version Invision
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`23`](../src/invision/buy_credits.tpl#L23)[`<->`](../src/invision/buy_credits.tpl#L23-L23)[`23`](../src/invision/buy_credits.tpl#L23)
+

@@ -44,3 +44,12 @@ Chaîne de caractère.
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`50`](../src/punbb/mod_login.tpl#L50)[`<->`](../src/punbb/mod_login.tpl#L50-L50)[`50`](../src/punbb/mod_login.tpl#L50)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`227`](../src/punbb/overall_header.tpl#L227)[`<->`](../src/punbb/overall_header.tpl#L227-L227)[`227`](../src/punbb/overall_header.tpl#L227)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`27`](../src/invision/index_body.tpl#L27)[`<->`](../src/invision/index_body.tpl#L27-L27)[`27`](../src/invision/index_body.tpl#L27)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`176`](../src/invision/index_body.tpl#L176)[`<->`](../src/invision/index_body.tpl#L176-L176)[`176`](../src/invision/index_body.tpl#L176)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`4`](../src/invision/mod_login.tpl#L4)[`<->`](../src/invision/mod_login.tpl#L4-L4)[`4`](../src/invision/mod_login.tpl#L4)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`23`](../src/invision/mod_login.tpl#L23)[`<->`](../src/invision/mod_login.tpl#L23-L23)[`23`](../src/invision/mod_login.tpl#L23)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`42`](../src/invision/mod_login.tpl#L42)[`<->`](../src/invision/mod_login.tpl#L42-L42)[`42`](../src/invision/mod_login.tpl#L42)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`53`](../src/invision/mod_login.tpl#L53)[`<->`](../src/invision/mod_login.tpl#L53-L53)[`53`](../src/invision/mod_login.tpl#L53)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`230`](../src/invision/overall_header.tpl#L230)[`<->`](../src/invision/overall_header.tpl#L230-L230)[`230`](../src/invision/overall_header.tpl#L230)
+

@@ -16,3 +16,7 @@
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`26`](../src/punbb/index_box.tpl#L26)[`<->`](../src/punbb/index_box.tpl#L26-L26)[`26`](../src/punbb/index_box.tpl#L26)
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`26`](../src/punbb/index_box.tpl#L26)[`<->`](../src/punbb/index_box.tpl#L26-L26)[`26`](../src/punbb/index_box.tpl#L26)
 
+### Version Invision
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`33`](../src/invision/index_box.tpl#L33)[`<->`](../src/invision/index_box.tpl#L33-L33)[`33`](../src/invision/index_box.tpl#L33)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`33`](../src/invision/index_box.tpl#L33)[`<->`](../src/invision/index_box.tpl#L33-L33)[`33`](../src/invision/index_box.tpl#L33)
+

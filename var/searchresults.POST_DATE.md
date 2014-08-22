@@ -21,3 +21,6 @@ Contient la date du message posté.
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`37`](../src/punbb/search_results_posts.tpl#L37)[`<->`](../src/punbb/search_results_posts.tpl#L37-L37)[`37`](../src/punbb/search_results_posts.tpl#L37)
 
+### Version Invision
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`37`](../src/invision/search_results_posts.tpl#L37)[`<->`](../src/invision/search_results_posts.tpl#L37-L37)[`37`](../src/invision/search_results_posts.tpl#L37)
+

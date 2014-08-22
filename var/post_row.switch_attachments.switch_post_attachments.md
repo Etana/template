@@ -24,3 +24,7 @@
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`18`](../src/punbb/mod_news.tpl#L18)[`<->`](../src/punbb/mod_news.tpl#L18-L18)[`18`](../src/punbb/mod_news.tpl#L18)
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`46`](../src/punbb/mod_news.tpl#L46)[`<->`](../src/punbb/mod_news.tpl#L46-L46)[`46`](../src/punbb/mod_news.tpl#L46)
 
+### Version Invision
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`17`](../src/invision/mod_news.tpl#L17)[`<->`](../src/invision/mod_news.tpl#L17-L17)[`17`](../src/invision/mod_news.tpl#L17)
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`45`](../src/invision/mod_news.tpl#L45)[`<->`](../src/invision/mod_news.tpl#L45-L45)[`45`](../src/invision/mod_news.tpl#L45)
+

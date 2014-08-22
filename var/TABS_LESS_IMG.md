@@ -31,3 +31,6 @@ Image pour fermer un panneau définie dans `PA > Affichage > Images et Couleurs 
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`318`](../src/punbb/viewtopic_body.tpl#L318)[`<->`](../src/punbb/viewtopic_body.tpl#L318-L318)[`318`](../src/punbb/viewtopic_body.tpl#L318)
 
+### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`359`](../src/invision/viewtopic_body.tpl#L359)[`<->`](../src/invision/viewtopic_body.tpl#L359-L359)[`359`](../src/invision/viewtopic_body.tpl#L359)
+

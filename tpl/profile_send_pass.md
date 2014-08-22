@@ -22,6 +22,7 @@
 	* [`{L_SEND_PASSWORD}`](../var/L_SEND_PASSWORD.md#readme)
 	* [`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
+	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
 	* [`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme)
 	* [`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)
@@ -100,3 +101,20 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
+
+* __[`{EMAIL}`](../var/EMAIL.md#readme) :__ ligne [`36`](../src/invision/profile_send_pass.tpl#L36)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme) :__ ligne [`10`](../src/invision/profile_send_pass.tpl#L10)
+* __[`{L_EMAIL_ADDRESS}`](../var/L_EMAIL_ADDRESS.md#readme) :__ ligne [`33`](../src/invision/profile_send_pass.tpl#L33)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme) :__ ligne [`3`](../src/invision/profile_send_pass.tpl#L3)
+* __[`{L_ITEMS_REQUIRED}`](../var/L_ITEMS_REQUIRED.md#readme) :__ ligne [`18`](../src/invision/profile_send_pass.tpl#L18)
+* __[`{L_RESET}`](../var/L_RESET.md#readme) :__ ligne [`48`](../src/invision/profile_send_pass.tpl#L48)
+* __[`{L_SEND_PASSWORD}`](../var/L_SEND_PASSWORD.md#readme) :__ ligne [`16`](../src/invision/profile_send_pass.tpl#L16)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme) :__ ligne [`47`](../src/invision/profile_send_pass.tpl#L47)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme) :__ ligne [`25`](../src/invision/profile_send_pass.tpl#L25)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme) :__ ligne [`4`](../src/invision/profile_send_pass.tpl#L4)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`46`](../src/invision/profile_send_pass.tpl#L46)
+* __[`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme) :__ ligne [`14`](../src/invision/profile_send_pass.tpl#L14)
+* __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`28`](../src/invision/profile_send_pass.tpl#L28)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`3`](../src/invision/profile_send_pass.tpl#L3)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme) :__ ligne [`8`](../src/invision/profile_send_pass.tpl#L8)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme) :__ ligne [`12`](../src/invision/profile_send_pass.tpl#L12)

@@ -37,3 +37,6 @@ Affiche le template {{subsilver/jumpbox}} ou {{punbb/jumpbox}}.
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`82`](../src/subsilver/search_results_topics.tpl#L82)[`<->`](../src/subsilver/search_results_topics.tpl#L82-L82)[`82`](../src/subsilver/search_results_topics.tpl#L82)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`61`](../src/subsilver/viewonline_body.tpl#L61)[`<->`](../src/subsilver/viewonline_body.tpl#L61-L61)[`61`](../src/subsilver/viewonline_body.tpl#L61)
 
+### Version Invision
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`45`](../src/invision/calendar_scheduler_body.tpl#L45)[`<->`](../src/invision/calendar_scheduler_body.tpl#L45-L45)[`45`](../src/invision/calendar_scheduler_body.tpl#L45)
+

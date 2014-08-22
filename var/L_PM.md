@@ -1,6 +1,6 @@
 # L_PM
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme), [`mod_login`](../tpl/mod_login.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme), [`mod_login`](../tpl/mod_login.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -33,8 +33,14 @@ Chaîne de texte.
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`6`](../src/punbb/groupcp_pending_info.tpl#L6)[`<->`](../src/punbb/groupcp_pending_info.tpl#L6-L6)[`6`](../src/punbb/groupcp_pending_info.tpl#L6)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`71`](../src/punbb/memberlist_body.tpl#L71)[`<->`](../src/punbb/memberlist_body.tpl#L71-L71)[`71`](../src/punbb/memberlist_body.tpl#L71)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`72`](../src/punbb/mod_login.tpl#L72)[`<->`](../src/punbb/mod_login.tpl#L72-L72)[`72`](../src/punbb/mod_login.tpl#L72)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`18`](../src/punbb/privmsgs_body.tpl#L18)[`<->`](../src/punbb/privmsgs_body.tpl#L18-L18)[`18`](../src/punbb/privmsgs_body.tpl#L18)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`18`](../src/punbb/privmsgs_read_body.tpl#L18)[`<->`](../src/punbb/privmsgs_read_body.tpl#L18-L18)[`18`](../src/punbb/privmsgs_read_body.tpl#L18)
 
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`54`](../src/invision/groupcp_info_body.tpl#L54)[`<->`](../src/invision/groupcp_info_body.tpl#L54-L54)[`54`](../src/invision/groupcp_info_body.tpl#L54)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`6`](../src/invision/groupcp_pending_info.tpl#L6)[`<->`](../src/invision/groupcp_pending_info.tpl#L6-L6)[`6`](../src/invision/groupcp_pending_info.tpl#L6)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`81`](../src/invision/mod_login.tpl#L81)[`<->`](../src/invision/mod_login.tpl#L81-L81)[`81`](../src/invision/mod_login.tpl#L81)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`4`](../src/invision/privmsgs_body.tpl#L4)[`<->`](../src/invision/privmsgs_body.tpl#L4-L4)[`4`](../src/invision/privmsgs_body.tpl#L4)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`4`](../src/invision/privmsgs_read_body.tpl#L4)[`<->`](../src/invision/privmsgs_read_body.tpl#L4-L4)[`4`](../src/invision/privmsgs_read_body.tpl#L4)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`22`](../src/invision/profile_view_body.tpl#L22)[`<->`](../src/invision/profile_view_body.tpl#L22-L22)[`22`](../src/invision/profile_view_body.tpl#L22)
 

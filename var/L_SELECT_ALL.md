@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`60`](../src/punbb/modcp_body.tpl#L60)[`<->`](../src/punbb/modcp_body.tpl#L60-L60)[`60`](../src/punbb/modcp_body.tpl#L60)
 
+### Version Invision
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`40`](../src/invision/modcp_body.tpl#L40)[`<->`](../src/invision/modcp_body.tpl#L40-L40)[`40`](../src/invision/modcp_body.tpl#L40)
+

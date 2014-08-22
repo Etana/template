@@ -21,3 +21,6 @@ Image des post-its définie dans `PA > Affichage > Images et Couleurs | Gestion 
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`77`](../src/punbb/viewforum_body.tpl#L77)[`<->`](../src/punbb/viewforum_body.tpl#L77-L77)[`77`](../src/punbb/viewforum_body.tpl#L77)
 
+### Version Invision
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`78`](../src/invision/viewforum_body.tpl#L78)[`<->`](../src/invision/viewforum_body.tpl#L78-L78)[`78`](../src/invision/viewforum_body.tpl#L78)
+

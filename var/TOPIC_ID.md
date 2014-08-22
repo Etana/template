@@ -27,4 +27,6 @@ Remplacé par l'identifiant numérique du sujet.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`271`](../src/punbb/viewtopic_body.tpl#L271)[`<->`](../src/punbb/viewtopic_body.tpl#L271-L271)[`271`](../src/punbb/viewtopic_body.tpl#L271)
 
 ### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`103`](../src/invision/viewtopic_body.tpl#L103)[`<->`](../src/invision/viewtopic_body.tpl#L103-L103)[`103`](../src/invision/viewtopic_body.tpl#L103)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`308`](../src/invision/viewtopic_body.tpl#L308)[`<->`](../src/invision/viewtopic_body.tpl#L308-L308)[`308`](../src/invision/viewtopic_body.tpl#L308)
 

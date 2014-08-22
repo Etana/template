@@ -24,3 +24,6 @@ Lien vers "Voir les nouveaux messages depuis votre dernière visite" dans le men
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`6`](../src/punbb/viewforum_body.tpl#L6)[`<->`](../src/punbb/viewforum_body.tpl#L6-L6)[`6`](../src/punbb/viewforum_body.tpl#L6)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`55`](../src/punbb/viewtopic_body.tpl#L55)[`<->`](../src/punbb/viewtopic_body.tpl#L55-L55)[`55`](../src/punbb/viewtopic_body.tpl#L55)
 
+### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`98`](../src/invision/viewtopic_body.tpl#L98)[`<->`](../src/invision/viewtopic_body.tpl#L98-L98)[`98`](../src/invision/viewtopic_body.tpl#L98)
+

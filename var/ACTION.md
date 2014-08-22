@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`25`](../src/punbb/calendar_scheduler_body.tpl#L25)[`<->`](../src/punbb/calendar_scheduler_body.tpl#L25-L25)[`25`](../src/punbb/calendar_scheduler_body.tpl#L25)
 
+### Version Invision
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`7`](../src/invision/calendar_scheduler_body.tpl#L7)[`<->`](../src/invision/calendar_scheduler_body.tpl#L7-L7)[`7`](../src/invision/calendar_scheduler_body.tpl#L7)
+

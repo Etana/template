@@ -18,3 +18,6 @@
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`37`](../src/punbb/index_box.tpl#L37)[`<->`](../src/punbb/index_box.tpl#L37-L37)[`37`](../src/punbb/index_box.tpl#L37)
 
+### Version Invision
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`47`](../src/invision/index_box.tpl#L47)[`<->`](../src/invision/index_box.tpl#L47-L47)[`47`](../src/invision/index_box.tpl#L47)
+

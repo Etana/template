@@ -17,3 +17,6 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`8`](../src/subsilver/agreement.tpl#L8)[`<->`](../src/subsilver/agreement.tpl#L8-L8)[`8`](../src/subsilver/agreement.tpl#L8)
 
+### Version Invision
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`35`](../src/invision/agreement.tpl#L35)[`<->`](../src/invision/agreement.tpl#L35-L35)[`35`](../src/invision/agreement.tpl#L35)
+

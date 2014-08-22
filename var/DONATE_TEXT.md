@@ -21,3 +21,6 @@ Texte de l'annonce défini dans `PA > Divers > Gestion des crédits | Donations 
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`30`](../src/punbb/buy_credits.tpl#L30)[`<->`](../src/punbb/buy_credits.tpl#L30-L30)[`30`](../src/punbb/buy_credits.tpl#L30)
 
+### Version Invision
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`15`](../src/invision/buy_credits.tpl#L15)[`<->`](../src/invision/buy_credits.tpl#L15-L15)[`15`](../src/invision/buy_credits.tpl#L15)
+

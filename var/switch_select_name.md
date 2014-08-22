@@ -24,3 +24,7 @@
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`18`](../src/punbb/search_username.tpl#L18)[`<->`](../src/punbb/search_username.tpl#L18-L18)[`18`](../src/punbb/search_username.tpl#L18)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`25`](../src/punbb/search_username.tpl#L25)[`<->`](../src/punbb/search_username.tpl#L25-L25)[`25`](../src/punbb/search_username.tpl#L25)
 
+### Version Invision
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`18`](../src/invision/search_username.tpl#L18)[`<->`](../src/invision/search_username.tpl#L18-L18)[`18`](../src/invision/search_username.tpl#L18)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`25`](../src/invision/search_username.tpl#L25)[`<->`](../src/invision/search_username.tpl#L25-L25)[`25`](../src/invision/search_username.tpl#L25)
+

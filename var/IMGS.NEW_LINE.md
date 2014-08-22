@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`7`](../src/punbb/mod_rss_feeds.tpl#L7)[`<->`](../src/punbb/mod_rss_feeds.tpl#L7-L7)[`7`](../src/punbb/mod_rss_feeds.tpl#L7)
 
+### Version Invision
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`5`](../src/invision/mod_rss_feeds.tpl#L5)[`<->`](../src/invision/mod_rss_feeds.tpl#L5-L5)[`5`](../src/invision/mod_rss_feeds.tpl#L5)
+

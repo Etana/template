@@ -43,4 +43,7 @@ Chaîne de texte.
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`56`](../src/invision/groupcp_info_body.tpl#L56)[`<->`](../src/invision/groupcp_info_body.tpl#L56-L56)[`56`](../src/invision/groupcp_info_body.tpl#L56)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`8`](../src/invision/groupcp_pending_info.tpl#L8)[`<->`](../src/invision/groupcp_pending_info.tpl#L8-L8)[`8`](../src/invision/groupcp_pending_info.tpl#L8)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`16`](../src/invision/index_box.tpl#L16)[`<->`](../src/invision/index_box.tpl#L16-L16)[`16`](../src/invision/index_box.tpl#L16)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`99`](../src/invision/memberlist_body.tpl#L99)[`<->`](../src/invision/memberlist_body.tpl#L99-L99)[`99`](../src/invision/memberlist_body.tpl#L99)
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`55`](../src/invision/search_body.tpl#L55)[`<->`](../src/invision/search_body.tpl#L55-L55)[`55`](../src/invision/search_body.tpl#L55)
 

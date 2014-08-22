@@ -21,3 +21,6 @@ Chaîne de texte.
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`57`](../src/punbb/search_results_topics.tpl#L57)[`<->`](../src/punbb/search_results_topics.tpl#L57-L57)[`57`](../src/punbb/search_results_topics.tpl#L57)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/punbb/search_results_topics.tpl#L62)[`<->`](../src/punbb/search_results_topics.tpl#L62-L62)[`62`](../src/punbb/search_results_topics.tpl#L62)
 
+### Version Invision
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`54`](../src/invision/search_results_topics.tpl#L54)[`<->`](../src/invision/search_results_topics.tpl#L54-L54)[`54`](../src/invision/search_results_topics.tpl#L54)
+

@@ -22,3 +22,6 @@ Contient l'adresse URL de la page.
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`100`](../src/punbb/viewtopic_body.tpl#L100)[`<->`](../src/punbb/viewtopic_body.tpl#L100-L100)[`100`](../src/punbb/viewtopic_body.tpl#L100)
 
+### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`78`](../src/invision/viewtopic_body.tpl#L78)[`<->`](../src/invision/viewtopic_body.tpl#L78-L78)[`78`](../src/invision/viewtopic_body.tpl#L78)
+

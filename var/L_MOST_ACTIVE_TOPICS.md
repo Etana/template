@@ -24,3 +24,7 @@
 * __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme) :__ lignes [`2`](../src/punbb/mod_most_active_topics.tpl#L2)[`<->`](../src/punbb/mod_most_active_topics.tpl#L2-L2)[`2`](../src/punbb/mod_most_active_topics.tpl#L2)
 * __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme) :__ lignes [`4`](../src/punbb/mod_most_active_topics.tpl#L4)[`<->`](../src/punbb/mod_most_active_topics.tpl#L4-L4)[`4`](../src/punbb/mod_most_active_topics.tpl#L4)
 
+### Version Invision
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme) :__ lignes [`2`](../src/invision/mod_most_active_topics.tpl#L2)[`<->`](../src/invision/mod_most_active_topics.tpl#L2-L2)[`2`](../src/invision/mod_most_active_topics.tpl#L2)
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme) :__ lignes [`4`](../src/invision/mod_most_active_topics.tpl#L4)[`<->`](../src/invision/mod_most_active_topics.tpl#L4-L4)[`4`](../src/invision/mod_most_active_topics.tpl#L4)
+

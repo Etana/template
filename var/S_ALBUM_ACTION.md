@@ -37,3 +37,11 @@
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`305`](../src/punbb/album_showpage_body.tpl#L305)[`<->`](../src/punbb/album_showpage_body.tpl#L305-L305)[`305`](../src/punbb/album_showpage_body.tpl#L305)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`210`](../src/punbb/album_upload_body.tpl#L210)[`<->`](../src/punbb/album_upload_body.tpl#L210-L210)[`210`](../src/punbb/album_upload_body.tpl#L210)
 
+### Version Invision
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`101`](../src/invision/album_cat_body.tpl#L101)[`<->`](../src/invision/album_cat_body.tpl#L101-L101)[`101`](../src/invision/album_cat_body.tpl#L101)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`37`](../src/invision/album_edit_body.tpl#L37)[`<->`](../src/invision/album_edit_body.tpl#L37-L37)[`37`](../src/invision/album_edit_body.tpl#L37)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`12`](../src/invision/album_modcp_body.tpl#L12)[`<->`](../src/invision/album_modcp_body.tpl#L12-L12)[`12`](../src/invision/album_modcp_body.tpl#L12)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`60`](../src/invision/album_moderate_body.tpl#L60)[`<->`](../src/invision/album_moderate_body.tpl#L60-L60)[`60`](../src/invision/album_moderate_body.tpl#L60)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`290`](../src/invision/album_showpage_body.tpl#L290)[`<->`](../src/invision/album_showpage_body.tpl#L290-L290)[`290`](../src/invision/album_showpage_body.tpl#L290)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`201`](../src/invision/album_upload_body.tpl#L201)[`<->`](../src/invision/album_upload_body.tpl#L201-L201)[`201`](../src/invision/album_upload_body.tpl#L201)
+

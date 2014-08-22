@@ -21,3 +21,6 @@ Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion d
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`126`](../src/punbb/index_body.tpl#L126)[`<->`](../src/punbb/index_body.tpl#L126-L126)[`126`](../src/punbb/index_body.tpl#L126)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`162`](../src/invision/index_body.tpl#L162)[`<->`](../src/invision/index_body.tpl#L162-L162)[`162`](../src/invision/index_body.tpl#L162)
+

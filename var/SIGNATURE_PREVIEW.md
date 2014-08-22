@@ -18,3 +18,6 @@
 ### Version PunBB
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`31`](../src/punbb/profile_edit_signature.tpl#L31)[`<->`](../src/punbb/profile_edit_signature.tpl#L31-L31)[`31`](../src/punbb/profile_edit_signature.tpl#L31)
 
+### Version Invision
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`24`](../src/invision/profile_edit_signature.tpl#L24)[`<->`](../src/invision/profile_edit_signature.tpl#L24-L24)[`24`](../src/invision/profile_edit_signature.tpl#L24)
+

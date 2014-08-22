@@ -34,3 +34,9 @@ Choix de la connexion automatique.
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`17`](../src/punbb/mod_login.tpl#L17)[`<->`](../src/punbb/mod_login.tpl#L17-L17)[`17`](../src/punbb/mod_login.tpl#L17)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`48`](../src/punbb/mod_login.tpl#L48)[`<->`](../src/punbb/mod_login.tpl#L48-L48)[`48`](../src/punbb/mod_login.tpl#L48)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`26`](../src/invision/index_body.tpl#L26)[`<->`](../src/invision/index_body.tpl#L26-L26)[`26`](../src/invision/index_body.tpl#L26)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`175`](../src/invision/index_body.tpl#L175)[`<->`](../src/invision/index_body.tpl#L175-L175)[`175`](../src/invision/index_body.tpl#L175)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`20`](../src/invision/mod_login.tpl#L20)[`<->`](../src/invision/mod_login.tpl#L20-L20)[`20`](../src/invision/mod_login.tpl#L20)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`52`](../src/invision/mod_login.tpl#L52)[`<->`](../src/invision/mod_login.tpl#L52-L52)[`52`](../src/invision/mod_login.tpl#L52)
+

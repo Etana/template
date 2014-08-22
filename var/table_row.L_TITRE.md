@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`standard`](../tpl/standard.md#readme) :__ lignes [`3`](../src/punbb/standard.tpl#L3)[`<->`](../src/punbb/standard.tpl#L3-L3)[`3`](../src/punbb/standard.tpl#L3)
 
+### Version Invision
+* __[`standard`](../tpl/standard.md#readme) :__ lignes [`3`](../src/invision/standard.tpl#L3)[`<->`](../src/invision/standard.tpl#L3-L3)[`3`](../src/invision/standard.tpl#L3)
+

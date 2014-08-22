@@ -24,3 +24,6 @@ Lien vers "Voir les messages sans réponses" dans le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`8`](../src/punbb/viewforum_body.tpl#L8)[`<->`](../src/punbb/viewforum_body.tpl#L8-L8)[`8`](../src/punbb/viewforum_body.tpl#L8)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`57`](../src/punbb/viewtopic_body.tpl#L57)[`<->`](../src/punbb/viewtopic_body.tpl#L57-L57)[`57`](../src/punbb/viewtopic_body.tpl#L57)
 
+### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`100`](../src/invision/viewtopic_body.tpl#L100)[`<->`](../src/invision/viewtopic_body.tpl#L100-L100)[`100`](../src/invision/viewtopic_body.tpl#L100)
+

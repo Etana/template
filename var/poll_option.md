@@ -42,3 +42,13 @@
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`7`](../src/punbb/viewtopic_poll_result.tpl#L7)[`<->`](../src/punbb/viewtopic_poll_result.tpl#L7-L7)[`7`](../src/punbb/viewtopic_poll_result.tpl#L7)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`18`](../src/punbb/viewtopic_poll_result.tpl#L18)[`<->`](../src/punbb/viewtopic_poll_result.tpl#L18-L18)[`18`](../src/punbb/viewtopic_poll_result.tpl#L18)
 
+### Version Invision
+* __[`poll_ballot`](../tpl/poll_ballot.md#readme) :__ lignes [`4`](../src/invision/poll_ballot.tpl#L4)[`<->`](../src/invision/poll_ballot.tpl#L4-L4)[`4`](../src/invision/poll_ballot.tpl#L4)
+* __[`poll_ballot`](../tpl/poll_ballot.md#readme) :__ lignes [`9`](../src/invision/poll_ballot.tpl#L9)[`<->`](../src/invision/poll_ballot.tpl#L9-L9)[`9`](../src/invision/poll_ballot.tpl#L9)
+* __[`poll_result`](../tpl/poll_result.md#readme) :__ lignes [`3`](../src/invision/poll_result.tpl#L3)[`<->`](../src/invision/poll_result.tpl#L3-L3)[`3`](../src/invision/poll_result.tpl#L3)
+* __[`poll_result`](../tpl/poll_result.md#readme) :__ lignes [`17`](../src/invision/poll_result.tpl#L17)[`<->`](../src/invision/poll_result.tpl#L17-L17)[`17`](../src/invision/poll_result.tpl#L17)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`8`](../src/invision/viewtopic_poll_ballot.tpl#L8)[`<->`](../src/invision/viewtopic_poll_ballot.tpl#L8-L8)[`8`](../src/invision/viewtopic_poll_ballot.tpl#L8)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`13`](../src/invision/viewtopic_poll_ballot.tpl#L13)[`<->`](../src/invision/viewtopic_poll_ballot.tpl#L13-L13)[`13`](../src/invision/viewtopic_poll_ballot.tpl#L13)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`10`](../src/invision/viewtopic_poll_result.tpl#L10)[`<->`](../src/invision/viewtopic_poll_result.tpl#L10-L10)[`10`](../src/invision/viewtopic_poll_result.tpl#L10)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`18`](../src/invision/viewtopic_poll_result.tpl#L18)[`<->`](../src/invision/viewtopic_poll_result.tpl#L18-L18)[`18`](../src/invision/viewtopic_poll_result.tpl#L18)
+

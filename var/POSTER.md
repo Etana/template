@@ -56,3 +56,16 @@ Dans certains templates, il est plutôt utilisé comme variable d'affichage et e
 * __[`mod_top_posters`](../tpl/mod_top_posters.md#readme) :__ lignes [`10`](../src/punbb/mod_top_posters.tpl#L10)[`<->`](../src/punbb/mod_top_posters.tpl#L10-L10)[`10`](../src/punbb/mod_top_posters.tpl#L10)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`35`](../src/punbb/modcp_viewip.tpl#L35)[`<->`](../src/punbb/modcp_viewip.tpl#L35-L35)[`35`](../src/punbb/modcp_viewip.tpl#L35)
 
+### Version Invision
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`12`](../src/invision/album_overview_top10.tpl#L12)[`<->`](../src/invision/album_overview_top10.tpl#L12-L12)[`12`](../src/invision/album_overview_top10.tpl#L12)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`257`](../src/invision/album_showpage_body.tpl#L257)[`<->`](../src/invision/album_showpage_body.tpl#L257-L257)[`257`](../src/invision/album_showpage_body.tpl#L257)
+* __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme) :__ lignes [`5`](../src/invision/mod_most_active_starters.tpl#L5)[`<->`](../src/invision/mod_most_active_starters.tpl#L5-L5)[`5`](../src/invision/mod_most_active_starters.tpl#L5)
+* __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme) :__ lignes [`10`](../src/invision/mod_most_active_starters.tpl#L10)[`<->`](../src/invision/mod_most_active_starters.tpl#L10-L10)[`10`](../src/invision/mod_most_active_starters.tpl#L10)
+* __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme) :__ lignes [`5`](../src/invision/mod_top_post_users_month.tpl#L5)[`<->`](../src/invision/mod_top_post_users_month.tpl#L5-L5)[`5`](../src/invision/mod_top_post_users_month.tpl#L5)
+* __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme) :__ lignes [`10`](../src/invision/mod_top_post_users_month.tpl#L10)[`<->`](../src/invision/mod_top_post_users_month.tpl#L10-L10)[`10`](../src/invision/mod_top_post_users_month.tpl#L10)
+* __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme) :__ lignes [`5`](../src/invision/mod_top_post_users_week.tpl#L5)[`<->`](../src/invision/mod_top_post_users_week.tpl#L5-L5)[`5`](../src/invision/mod_top_post_users_week.tpl#L5)
+* __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme) :__ lignes [`10`](../src/invision/mod_top_post_users_week.tpl#L10)[`<->`](../src/invision/mod_top_post_users_week.tpl#L10-L10)[`10`](../src/invision/mod_top_post_users_week.tpl#L10)
+* __[`mod_top_posters`](../tpl/mod_top_posters.md#readme) :__ lignes [`5`](../src/invision/mod_top_posters.tpl#L5)[`<->`](../src/invision/mod_top_posters.tpl#L5-L5)[`5`](../src/invision/mod_top_posters.tpl#L5)
+* __[`mod_top_posters`](../tpl/mod_top_posters.md#readme) :__ lignes [`10`](../src/invision/mod_top_posters.tpl#L10)[`<->`](../src/invision/mod_top_posters.tpl#L10-L10)[`10`](../src/invision/mod_top_posters.tpl#L10)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`18`](../src/invision/modcp_viewip.tpl#L18)[`<->`](../src/invision/modcp_viewip.tpl#L18-L18)[`18`](../src/invision/modcp_viewip.tpl#L18)
+

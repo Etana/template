@@ -26,3 +26,7 @@ Chaîne de texte.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`68`](../src/punbb/viewforum_body.tpl#L68)[`<->`](../src/punbb/viewforum_body.tpl#L68-L68)[`68`](../src/punbb/viewforum_body.tpl#L68)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`68`](../src/punbb/viewforum_body.tpl#L68)[`<->`](../src/punbb/viewforum_body.tpl#L68-L68)[`68`](../src/punbb/viewforum_body.tpl#L68)
 
+### Version Invision
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`75`](../src/invision/viewforum_body.tpl#L75)[`<->`](../src/invision/viewforum_body.tpl#L75-L75)[`75`](../src/invision/viewforum_body.tpl#L75)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`75`](../src/invision/viewforum_body.tpl#L75)[`<->`](../src/invision/viewforum_body.tpl#L75-L75)[`75`](../src/invision/viewforum_body.tpl#L75)
+

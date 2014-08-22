@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`32`](../src/punbb/birthday_list_box.tpl#L32)[`<->`](../src/punbb/birthday_list_box.tpl#L32-L32)[`32`](../src/punbb/birthday_list_box.tpl#L32)
 
+### Version Invision
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`33`](../src/invision/birthday_list_box.tpl#L33)[`<->`](../src/invision/birthday_list_box.tpl#L33-L33)[`33`](../src/invision/birthday_list_box.tpl#L33)
+

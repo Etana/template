@@ -1,6 +1,6 @@
 # L_SEARCH
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`merge_body`](../tpl/merge_body.md#readme), [`mod_search`](../tpl/mod_search.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisable dans :__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`merge_body`](../tpl/merge_body.md#readme), [`mod_search`](../tpl/mod_search.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -47,4 +47,19 @@ Chaîne de caractère.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`45`](../src/punbb/search_body.tpl#L45)[`<->`](../src/punbb/search_body.tpl#L45-L45)[`45`](../src/punbb/search_body.tpl#L45)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`83`](../src/punbb/search_body.tpl#L83)[`<->`](../src/punbb/search_body.tpl#L83-L83)[`83`](../src/punbb/search_body.tpl#L83)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`15`](../src/punbb/search_username.tpl#L15)[`<->`](../src/punbb/search_username.tpl#L15-L15)[`15`](../src/punbb/search_username.tpl#L15)
+
+### Version Invision
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`29`](../src/invision/merge_body.tpl#L29)[`<->`](../src/invision/merge_body.tpl#L29-L29)[`29`](../src/invision/merge_body.tpl#L29)
+* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`2`](../src/invision/mod_search.tpl#L2)[`<->`](../src/invision/mod_search.tpl#L2-L2)[`2`](../src/invision/mod_search.tpl#L2)
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`27`](../src/invision/search_body.tpl#L27)[`<->`](../src/invision/search_body.tpl#L27-L27)[`27`](../src/invision/search_body.tpl#L27)
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`68`](../src/invision/search_body.tpl#L68)[`<->`](../src/invision/search_body.tpl#L68-L68)[`68`](../src/invision/search_body.tpl#L68)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`14`](../src/invision/search_username.tpl#L14)[`<->`](../src/invision/search_username.tpl#L14-L14)[`14`](../src/invision/search_username.tpl#L14)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`161`](../src/invision/topics_list_box.tpl#L161)[`<->`](../src/invision/topics_list_box.tpl#L161-L161)[`161`](../src/invision/topics_list_box.tpl#L161)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`161`](../src/invision/topics_list_box.tpl#L161)[`<->`](../src/invision/topics_list_box.tpl#L161-L161)[`161`](../src/invision/topics_list_box.tpl#L161)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`161`](../src/invision/topics_list_box.tpl#L161)[`<->`](../src/invision/topics_list_box.tpl#L161-L161)[`161`](../src/invision/topics_list_box.tpl#L161)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`162`](../src/invision/topics_list_box.tpl#L162)[`<->`](../src/invision/topics_list_box.tpl#L162-L162)[`162`](../src/invision/topics_list_box.tpl#L162)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`288`](../src/invision/viewtopic_body.tpl#L288)[`<->`](../src/invision/viewtopic_body.tpl#L288-L288)[`288`](../src/invision/viewtopic_body.tpl#L288)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`288`](../src/invision/viewtopic_body.tpl#L288)[`<->`](../src/invision/viewtopic_body.tpl#L288-L288)[`288`](../src/invision/viewtopic_body.tpl#L288)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`288`](../src/invision/viewtopic_body.tpl#L288)[`<->`](../src/invision/viewtopic_body.tpl#L288-L288)[`288`](../src/invision/viewtopic_body.tpl#L288)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`289`](../src/invision/viewtopic_body.tpl#L289)[`<->`](../src/invision/viewtopic_body.tpl#L289-L289)[`289`](../src/invision/viewtopic_body.tpl#L289)
 

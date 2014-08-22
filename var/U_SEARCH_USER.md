@@ -23,7 +23,9 @@ Remplacé par l'adresse absolue `/search?mode=searchuser` d'une page de recherch
 
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`162`](../src/punbb/groupcp_info_body.tpl#L162)[`<->`](../src/punbb/groupcp_info_body.tpl#L162-L162)[`162`](../src/punbb/groupcp_info_body.tpl#L162)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`430`](../src/punbb/posting_body.tpl#L430)[`<->`](../src/punbb/posting_body.tpl#L430-L430)[`430`](../src/punbb/posting_body.tpl#L430)
 
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`133`](../src/invision/groupcp_info_body.tpl#L133)[`<->`](../src/invision/groupcp_info_body.tpl#L133-L133)[`133`](../src/invision/groupcp_info_body.tpl#L133)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`378`](../src/invision/posting_body.tpl#L378)[`<->`](../src/invision/posting_body.tpl#L378-L378)[`378`](../src/invision/posting_body.tpl#L378)
 

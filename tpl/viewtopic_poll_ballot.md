@@ -14,7 +14,9 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{CLOSE_POLL}`](../var/CLOSE_POLL.md#readme)
+	* [`{L_POLL}`](../var/L_POLL.md#readme)
 	* [`{L_SUBMIT_VOTE}`](../var/L_SUBMIT_VOTE.md#readme)
+	* [`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme)
 	* [`{L_VIEW_RESULTS}`](../var/L_VIEW_RESULTS.md#readme)
 	* [`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme)
 	* [`<!-- END poll_option -->`](../var/poll_option.md#readme)
@@ -89,3 +91,18 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
+
+* __[`{CLOSE_POLL}`](../var/CLOSE_POLL.md#readme) :__ ligne [`2`](../src/invision/viewtopic_poll_ballot.tpl#L2)
+* __[`{L_POLL}`](../var/L_POLL.md#readme) :__ ligne [`1`](../src/invision/viewtopic_poll_ballot.tpl#L1)
+* __[`{L_SUBMIT_VOTE}`](../var/L_SUBMIT_VOTE.md#readme) :__ ligne [`20`](../src/invision/viewtopic_poll_ballot.tpl#L20)
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`17`](../src/invision/viewtopic_poll_ballot.tpl#L17)
+* __[`{L_VIEW_RESULTS}`](../var/L_VIEW_RESULTS.md#readme) :__ ligne [`21`](../src/invision/viewtopic_poll_ballot.tpl#L21)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`6`](../src/invision/viewtopic_poll_ballot.tpl#L6)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`22`](../src/invision/viewtopic_poll_ballot.tpl#L22)
+* __[`{S_POLL_ACTION}`](../var/S_POLL_ACTION.md#readme) :__ ligne [`4`](../src/invision/viewtopic_poll_ballot.tpl#L4)
+* __[`{U_VIEW_RESULTS}`](../var/U_VIEW_RESULTS.md#readme) :__ ligne [`21`](../src/invision/viewtopic_poll_ballot.tpl#L21)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`8`](../src/invision/viewtopic_poll_ballot.tpl#L8)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`13`](../src/invision/viewtopic_poll_ballot.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`11`](../src/invision/viewtopic_poll_ballot.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme) :__ ligne [`10`](../src/invision/viewtopic_poll_ballot.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme) :__ ligne [`10`](../src/invision/viewtopic_poll_ballot.tpl#L10)

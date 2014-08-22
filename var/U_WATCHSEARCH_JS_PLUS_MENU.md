@@ -24,3 +24,6 @@ Lien vers "Sujets surveillés" dans le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`9`](../src/punbb/viewforum_body.tpl#L9)[`<->`](../src/punbb/viewforum_body.tpl#L9-L9)[`9`](../src/punbb/viewforum_body.tpl#L9)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`58`](../src/punbb/viewtopic_body.tpl#L58)[`<->`](../src/punbb/viewtopic_body.tpl#L58-L58)[`58`](../src/punbb/viewtopic_body.tpl#L58)
 
+### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`101`](../src/invision/viewtopic_body.tpl#L101)[`<->`](../src/invision/viewtopic_body.tpl#L101-L101)[`101`](../src/invision/viewtopic_body.tpl#L101)
+

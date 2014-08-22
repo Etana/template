@@ -45,3 +45,14 @@
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`3`](../src/punbb/album_overview_top10.tpl#L3)[`<->`](../src/punbb/album_overview_top10.tpl#L3-L3)[`3`](../src/punbb/album_overview_top10.tpl#L3)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`215`](../src/punbb/album_upload_body.tpl#L215)[`<->`](../src/punbb/album_upload_body.tpl#L215-L215)[`215`](../src/punbb/album_upload_body.tpl#L215)
 
+### Version Invision
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`110`](../src/invision/album_cat_body.tpl#L110)[`<->`](../src/invision/album_cat_body.tpl#L110-L110)[`110`](../src/invision/album_cat_body.tpl#L110)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`20`](../src/invision/album_cat_top10.tpl#L20)[`<->`](../src/invision/album_cat_top10.tpl#L20-L20)[`20`](../src/invision/album_cat_top10.tpl#L20)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`40`](../src/invision/album_edit_body.tpl#L40)[`<->`](../src/invision/album_edit_body.tpl#L40-L40)[`40`](../src/invision/album_edit_body.tpl#L40)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`23`](../src/invision/album_modcp_body.tpl#L23)[`<->`](../src/invision/album_modcp_body.tpl#L23-L23)[`23`](../src/invision/album_modcp_body.tpl#L23)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`79`](../src/invision/album_modcp_body.tpl#L79)[`<->`](../src/invision/album_modcp_body.tpl#L79-L79)[`79`](../src/invision/album_modcp_body.tpl#L79)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`71`](../src/invision/album_moderate_body.tpl#L71)[`<->`](../src/invision/album_moderate_body.tpl#L71-L71)[`71`](../src/invision/album_moderate_body.tpl#L71)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`125`](../src/invision/album_moderate_body.tpl#L125)[`<->`](../src/invision/album_moderate_body.tpl#L125-L125)[`125`](../src/invision/album_moderate_body.tpl#L125)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`3`](../src/invision/album_overview_top10.tpl#L3)[`<->`](../src/invision/album_overview_top10.tpl#L3-L3)[`3`](../src/invision/album_overview_top10.tpl#L3)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`206`](../src/invision/album_upload_body.tpl#L206)[`<->`](../src/invision/album_upload_body.tpl#L206-L206)[`206`](../src/invision/album_upload_body.tpl#L206)
+

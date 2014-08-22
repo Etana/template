@@ -23,3 +23,6 @@ Chaîne de texte.
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`55`](../src/punbb/viewforum_body.tpl#L55)[`<->`](../src/punbb/viewforum_body.tpl#L55-L55)[`55`](../src/punbb/viewforum_body.tpl#L55)
 
+### Version Invision
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`43`](../src/invision/viewforum_body.tpl#L43)[`<->`](../src/invision/viewforum_body.tpl#L43-L43)[`43`](../src/invision/viewforum_body.tpl#L43)
+

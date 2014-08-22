@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`53`](../src/punbb/mod_login.tpl#L53)[`<->`](../src/punbb/mod_login.tpl#L53-L53)[`53`](../src/punbb/mod_login.tpl#L53)
 
+### Version Invision
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`56`](../src/invision/mod_login.tpl#L56)[`<->`](../src/invision/mod_login.tpl#L56-L56)[`56`](../src/invision/mod_login.tpl#L56)
+

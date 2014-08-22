@@ -24,3 +24,7 @@ Boucle d'affichage si vous avez activé la connexion rapide en bas de la page d'
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`105`](../src/punbb/index_body.tpl#L105)[`<->`](../src/punbb/index_body.tpl#L105-L105)[`105`](../src/punbb/index_body.tpl#L105)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`118`](../src/punbb/index_body.tpl#L118)[`<->`](../src/punbb/index_body.tpl#L118-L118)[`118`](../src/punbb/index_body.tpl#L118)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`169`](../src/invision/index_body.tpl#L169)[`<->`](../src/invision/index_body.tpl#L169-L169)[`169`](../src/invision/index_body.tpl#L169)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`184`](../src/invision/index_body.tpl#L184)[`<->`](../src/invision/index_body.tpl#L184-L184)[`184`](../src/invision/index_body.tpl#L184)
+

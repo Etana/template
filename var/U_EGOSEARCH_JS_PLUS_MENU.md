@@ -24,3 +24,6 @@ Lien vers "Voir ses messages" dans le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`7`](../src/punbb/viewforum_body.tpl#L7)[`<->`](../src/punbb/viewforum_body.tpl#L7-L7)[`7`](../src/punbb/viewforum_body.tpl#L7)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`56`](../src/punbb/viewtopic_body.tpl#L56)[`<->`](../src/punbb/viewtopic_body.tpl#L56-L56)[`56`](../src/punbb/viewtopic_body.tpl#L56)
 
+### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`99`](../src/invision/viewtopic_body.tpl#L99)[`<->`](../src/invision/viewtopic_body.tpl#L99-L99)[`99`](../src/invision/viewtopic_body.tpl#L99)
+

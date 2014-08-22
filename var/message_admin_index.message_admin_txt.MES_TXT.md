@@ -1,6 +1,6 @@
 # message_admin_index.message_admin_txt.MES_TXT
 * __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme), [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -20,4 +20,8 @@ Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralit
 
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`29`](../src/punbb/index_body.tpl#L29)[`<->`](../src/punbb/index_body.tpl#L29-L29)[`29`](../src/punbb/index_body.tpl#L29)
+
+### Version Invision
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`14`](../src/invision/agreement.tpl#L14)[`<->`](../src/invision/agreement.tpl#L14-L14)[`14`](../src/invision/agreement.tpl#L14)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`15`](../src/invision/index_body.tpl#L15)[`<->`](../src/invision/index_body.tpl#L15-L15)[`15`](../src/invision/index_body.tpl#L15)
 

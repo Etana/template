@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`5`](../src/punbb/mod_statistics.tpl#L5)[`<->`](../src/punbb/mod_statistics.tpl#L5-L5)[`5`](../src/punbb/mod_statistics.tpl#L5)
 
+### Version Invision
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`4`](../src/invision/mod_statistics.tpl#L4)[`<->`](../src/invision/mod_statistics.tpl#L4-L4)[`4`](../src/invision/mod_statistics.tpl#L4)
+

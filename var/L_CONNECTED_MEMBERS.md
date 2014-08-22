@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`80`](../src/punbb/index_body.tpl#L80)[`<->`](../src/punbb/index_body.tpl#L80-L80)[`80`](../src/punbb/index_body.tpl#L80)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`83`](../src/invision/index_body.tpl#L83)[`<->`](../src/invision/index_body.tpl#L83-L83)[`83`](../src/invision/index_body.tpl#L83)
+

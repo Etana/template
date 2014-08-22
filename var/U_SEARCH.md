@@ -24,3 +24,7 @@
 * __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`7`](../src/punbb/mod_search.tpl#L7)[`<->`](../src/punbb/mod_search.tpl#L7-L7)[`7`](../src/punbb/mod_search.tpl#L7)
 * __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`18`](../src/punbb/mod_search.tpl#L18)[`<->`](../src/punbb/mod_search.tpl#L18-L18)[`18`](../src/punbb/mod_search.tpl#L18)
 
+### Version Invision
+* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`4`](../src/invision/mod_search.tpl#L4)[`<->`](../src/invision/mod_search.tpl#L4-L4)[`4`](../src/invision/mod_search.tpl#L4)
+* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`19`](../src/invision/mod_search.tpl#L19)[`<->`](../src/invision/mod_search.tpl#L19-L19)[`19`](../src/invision/mod_search.tpl#L19)
+

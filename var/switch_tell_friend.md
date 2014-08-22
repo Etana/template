@@ -30,3 +30,9 @@
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`53`](../src/punbb/profile_send_email.tpl#L53)[`<->`](../src/punbb/profile_send_email.tpl#L53-L53)[`53`](../src/punbb/profile_send_email.tpl#L53)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`55`](../src/punbb/profile_send_email.tpl#L55)[`<->`](../src/punbb/profile_send_email.tpl#L55-L55)[`55`](../src/punbb/profile_send_email.tpl#L55)
 
+### Version Invision
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`21`](../src/invision/profile_send_email.tpl#L21)[`<->`](../src/invision/profile_send_email.tpl#L21-L21)[`21`](../src/invision/profile_send_email.tpl#L21)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`26`](../src/invision/profile_send_email.tpl#L26)[`<->`](../src/invision/profile_send_email.tpl#L26-L26)[`26`](../src/invision/profile_send_email.tpl#L26)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`38`](../src/invision/profile_send_email.tpl#L38)[`<->`](../src/invision/profile_send_email.tpl#L38-L38)[`38`](../src/invision/profile_send_email.tpl#L38)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`40`](../src/invision/profile_send_email.tpl#L40)[`<->`](../src/invision/profile_send_email.tpl#L40-L40)[`40`](../src/invision/profile_send_email.tpl#L40)
+

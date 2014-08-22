@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`8`](../src/punbb/mod_social_bookmarking.tpl#L8)[`<->`](../src/punbb/mod_social_bookmarking.tpl#L8-L8)[`8`](../src/punbb/mod_social_bookmarking.tpl#L8)
 
+### Version Invision
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`7`](../src/invision/mod_social_bookmarking.tpl#L7)[`<->`](../src/invision/mod_social_bookmarking.tpl#L7-L7)[`7`](../src/invision/mod_social_bookmarking.tpl#L7)
+

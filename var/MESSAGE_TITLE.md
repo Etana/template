@@ -31,3 +31,10 @@ Titre du message.
 * __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`18`](../src/punbb/modcp_move.tpl#L18)[`<->`](../src/punbb/modcp_move.tpl#L18-L18)[`18`](../src/punbb/modcp_move.tpl#L18)
 * __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`25`](../src/punbb/modcp_move.tpl#L25)[`<->`](../src/punbb/modcp_move.tpl#L25-L25)[`25`](../src/punbb/modcp_move.tpl#L25)
 
+### Version Invision
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`158`](../src/invision/buy_credits.tpl#L158)[`<->`](../src/invision/buy_credits.tpl#L158-L158)[`158`](../src/invision/buy_credits.tpl#L158)
+* __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`2`](../src/invision/confirm_body.tpl#L2)[`<->`](../src/invision/confirm_body.tpl#L2-L2)[`2`](../src/invision/confirm_body.tpl#L2)
+* __[`message_body`](../tpl/message_body.md#readme) :__ lignes [`2`](../src/invision/message_body.tpl#L2)[`<->`](../src/invision/message_body.tpl#L2-L2)[`2`](../src/invision/message_body.tpl#L2)
+* __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`4`](../src/invision/modcp_move.tpl#L4)[`<->`](../src/invision/modcp_move.tpl#L4-L4)[`4`](../src/invision/modcp_move.tpl#L4)
+* __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`9`](../src/invision/modcp_move.tpl#L9)[`<->`](../src/invision/modcp_move.tpl#L9-L9)[`9`](../src/invision/modcp_move.tpl#L9)
+

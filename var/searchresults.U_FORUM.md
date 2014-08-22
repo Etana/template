@@ -21,3 +21,6 @@ Contient le lien du forum dans lequel le sujet bouclé a été posté.
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`59`](../src/punbb/search_results_posts.tpl#L59)[`<->`](../src/punbb/search_results_posts.tpl#L59-L59)[`59`](../src/punbb/search_results_posts.tpl#L59)
 
+### Version Invision
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`30`](../src/invision/search_results_posts.tpl#L30)[`<->`](../src/invision/search_results_posts.tpl#L30-L30)[`30`](../src/invision/search_results_posts.tpl#L30)
+

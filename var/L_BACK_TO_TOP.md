@@ -44,3 +44,9 @@ Code html de l'image `Revenir en haut` spécifiée dans [`Index`](http://votre-f
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)[`<->`](../src/punbb/topics_list_box.tpl#L122-L122)[`122`](../src/punbb/topics_list_box.tpl#L122)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`267`](../src/punbb/viewtopic_body.tpl#L267)[`<->`](../src/punbb/viewtopic_body.tpl#L267-L267)[`267`](../src/punbb/viewtopic_body.tpl#L267)
 
+### Version Invision
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`47`](../src/invision/birthday_list_box.tpl#L47)[`<->`](../src/invision/birthday_list_box.tpl#L47-L47)[`47`](../src/invision/birthday_list_box.tpl#L47)
+* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`28`](../src/invision/faq_body.tpl#L28)[`<->`](../src/invision/faq_body.tpl#L28-L28)[`28`](../src/invision/faq_body.tpl#L28)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`55`](../src/invision/search_results_posts.tpl#L55)[`<->`](../src/invision/search_results_posts.tpl#L55-L55)[`55`](../src/invision/search_results_posts.tpl#L55)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`269`](../src/invision/viewtopic_body.tpl#L269)[`<->`](../src/invision/viewtopic_body.tpl#L269-L269)[`269`](../src/invision/viewtopic_body.tpl#L269)
+

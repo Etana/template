@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`209`](../src/punbb/viewtopic_body.tpl#L209)[`<->`](../src/punbb/viewtopic_body.tpl#L209-L209)[`209`](../src/punbb/viewtopic_body.tpl#L209)
 
+### Version Invision
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`227`](../src/invision/viewtopic_body.tpl#L227)[`<->`](../src/invision/viewtopic_body.tpl#L227-L227)[`227`](../src/invision/viewtopic_body.tpl#L227)
+

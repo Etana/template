@@ -21,5 +21,10 @@
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`1`](../src/subsilver/profile_send_email.tpl#L1)[`<->`](../src/subsilver/profile_send_email.tpl#L1-L1)[`1`](../src/subsilver/profile_send_email.tpl#L1)
 
 ### Version PunBB
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`26`](../src/punbb/posting_body.tpl#L26)[`<->`](../src/punbb/posting_body.tpl#L26-L26)[`26`](../src/punbb/posting_body.tpl#L26)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`25`](../src/punbb/profile_send_email.tpl#L25)[`<->`](../src/punbb/profile_send_email.tpl#L25-L25)[`25`](../src/punbb/profile_send_email.tpl#L25)
+
+### Version Invision
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`39`](../src/invision/posting_body.tpl#L39)[`<->`](../src/invision/posting_body.tpl#L39-L39)[`39`](../src/invision/posting_body.tpl#L39)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`10`](../src/invision/profile_send_email.tpl#L10)[`<->`](../src/invision/profile_send_email.tpl#L10-L10)[`10`](../src/invision/profile_send_email.tpl#L10)
 

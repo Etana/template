@@ -24,3 +24,7 @@
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`42`](../src/punbb/modcp_split.tpl#L42)[`<->`](../src/punbb/modcp_split.tpl#L42-L42)[`42`](../src/punbb/modcp_split.tpl#L42)
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`78`](../src/punbb/modcp_split.tpl#L78)[`<->`](../src/punbb/modcp_split.tpl#L78-L78)[`78`](../src/punbb/modcp_split.tpl#L78)
 
+### Version Invision
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`25`](../src/invision/modcp_split.tpl#L25)[`<->`](../src/invision/modcp_split.tpl#L25-L25)[`25`](../src/invision/modcp_split.tpl#L25)
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`64`](../src/invision/modcp_split.tpl#L64)[`<->`](../src/invision/modcp_split.tpl#L64-L64)[`64`](../src/invision/modcp_split.tpl#L64)
+

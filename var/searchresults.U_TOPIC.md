@@ -21,3 +21,6 @@ Contient le lien du sujet dans lequel le message bouclé a été posté.
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`60`](../src/punbb/search_results_posts.tpl#L60)[`<->`](../src/punbb/search_results_posts.tpl#L60-L60)[`60`](../src/punbb/search_results_posts.tpl#L60)
 
+### Version Invision
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`31`](../src/invision/search_results_posts.tpl#L31)[`<->`](../src/invision/search_results_posts.tpl#L31-L31)[`31`](../src/invision/search_results_posts.tpl#L31)
+

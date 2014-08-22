@@ -21,3 +21,7 @@
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`6`](../src/subsilver/privmsgs_body.tpl#L6)[`<->`](../src/subsilver/privmsgs_body.tpl#L6-L6)[`6`](../src/subsilver/privmsgs_body.tpl#L6)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`3`](../src/subsilver/privmsgs_read_body.tpl#L3)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L3-L3)[`3`](../src/subsilver/privmsgs_read_body.tpl#L3)
 
+### Version PunBB
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`23`](../src/punbb/privmsgs_body.tpl#L23)[`<->`](../src/punbb/privmsgs_body.tpl#L23-L23)[`23`](../src/punbb/privmsgs_body.tpl#L23)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`23`](../src/punbb/privmsgs_read_body.tpl#L23)[`<->`](../src/punbb/privmsgs_read_body.tpl#L23-L23)[`23`](../src/punbb/privmsgs_read_body.tpl#L23)
+

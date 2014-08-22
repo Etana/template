@@ -21,3 +21,6 @@ Contient le lien vers le sujet bouclé.
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`55`](../src/punbb/search_results_topics.tpl#L55)[`<->`](../src/punbb/search_results_topics.tpl#L55-L55)[`55`](../src/punbb/search_results_topics.tpl#L55)
 
+### Version Invision
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`44`](../src/invision/search_results_topics.tpl#L44)[`<->`](../src/invision/search_results_topics.tpl#L44-L44)[`44`](../src/invision/search_results_topics.tpl#L44)
+

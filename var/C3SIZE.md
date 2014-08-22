@@ -24,3 +24,6 @@ Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets 
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`32`](../src/punbb/portal_body.tpl#L32)[`<->`](../src/punbb/portal_body.tpl#L32-L32)[`32`](../src/punbb/portal_body.tpl#L32)
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`39`](../src/punbb/portal_body.tpl#L39)[`<->`](../src/punbb/portal_body.tpl#L39-L39)[`39`](../src/punbb/portal_body.tpl#L39)
 
+### Version Invision
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`28`](../src/invision/portal_body.tpl#L28)[`<->`](../src/invision/portal_body.tpl#L28-L28)[`28`](../src/invision/portal_body.tpl#L28)
+

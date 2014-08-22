@@ -1,6 +1,6 @@
 # CURRENT_FID
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`merge_body`](../tpl/merge_body.md#readme)
+* __Utilisable dans :__ [`merge_body`](../tpl/merge_body.md#readme), [`merge_select_body`](../tpl/merge_select_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -20,4 +20,8 @@
 
 ### Version PunBB
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`53`](../src/punbb/merge_body.tpl#L53)[`<->`](../src/punbb/merge_body.tpl#L53-L53)[`53`](../src/punbb/merge_body.tpl#L53)
+
+### Version Invision
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`35`](../src/invision/merge_body.tpl#L35)[`<->`](../src/invision/merge_body.tpl#L35-L35)[`35`](../src/invision/merge_body.tpl#L35)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme) :__ lignes [`17`](../src/invision/merge_select_body.tpl#L17)[`<->`](../src/invision/merge_select_body.tpl#L17-L17)[`17`](../src/invision/merge_select_body.tpl#L17)
 

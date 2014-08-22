@@ -48,9 +48,20 @@
 
 ### Positions des variables
 
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`26`](../src/punbb/privmsgs_popup.tpl#L26)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme) :__ ligne [`23`](../src/punbb/privmsgs_popup.tpl#L23)
+* __[`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme) :__ ligne [`9`](../src/punbb/privmsgs_popup.tpl#L9)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/punbb/privmsgs_popup.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/punbb/privmsgs_popup.tpl#L5)
 
 ## Template par défaut Invision
 
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
+
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`25`](../src/invision/privmsgs_popup.tpl#L25)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme) :__ ligne [`22`](../src/invision/privmsgs_popup.tpl#L22)
+* __[`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme) :__ ligne [`9`](../src/invision/privmsgs_popup.tpl#L9)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/invision/privmsgs_popup.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/invision/privmsgs_popup.tpl#L5)

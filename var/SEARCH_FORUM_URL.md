@@ -24,3 +24,7 @@ Affiche l'adresse de votre forum.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`36`](../src/punbb/search_body.tpl#L36)[`<->`](../src/punbb/search_body.tpl#L36-L36)[`36`](../src/punbb/search_body.tpl#L36)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`37`](../src/punbb/search_body.tpl#L37)[`<->`](../src/punbb/search_body.tpl#L37-L37)[`37`](../src/punbb/search_body.tpl#L37)
 
+### Version Invision
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`18`](../src/invision/search_body.tpl#L18)[`<->`](../src/invision/search_body.tpl#L18-L18)[`18`](../src/invision/search_body.tpl#L18)
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`19`](../src/invision/search_body.tpl#L19)[`<->`](../src/invision/search_body.tpl#L19-L19)[`19`](../src/invision/search_body.tpl#L19)
+

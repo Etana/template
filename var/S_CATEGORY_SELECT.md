@@ -24,3 +24,7 @@
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`66`](../src/punbb/album_edit_body.tpl#L66)[`<->`](../src/punbb/album_edit_body.tpl#L66-L66)[`66`](../src/punbb/album_edit_body.tpl#L66)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`25`](../src/punbb/profile_avatar_gallery.tpl#L25)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L25-L25)[`25`](../src/punbb/profile_avatar_gallery.tpl#L25)
 
+### Version Invision
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`54`](../src/invision/album_edit_body.tpl#L54)[`<->`](../src/invision/album_edit_body.tpl#L54-L54)[`54`](../src/invision/album_edit_body.tpl#L54)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`12`](../src/invision/profile_avatar_gallery.tpl#L12)[`<->`](../src/invision/profile_avatar_gallery.tpl#L12-L12)[`12`](../src/invision/profile_avatar_gallery.tpl#L12)
+

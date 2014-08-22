@@ -21,3 +21,6 @@ Contient les sous-forums du forum bouclé.
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`36`](../src/punbb/index_box.tpl#L36)[`<->`](../src/punbb/index_box.tpl#L36-L36)[`36`](../src/punbb/index_box.tpl#L36)
 
+### Version Invision
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`46`](../src/invision/index_box.tpl#L46)[`<->`](../src/invision/index_box.tpl#L46-L46)[`46`](../src/invision/index_box.tpl#L46)
+

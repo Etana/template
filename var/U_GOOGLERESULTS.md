@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`45`](../src/punbb/search_body.tpl#L45)[`<->`](../src/punbb/search_body.tpl#L45-L45)[`45`](../src/punbb/search_body.tpl#L45)
 
+### Version Invision
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`27`](../src/invision/search_body.tpl#L27)[`<->`](../src/invision/search_body.tpl#L27-L27)[`27`](../src/invision/search_body.tpl#L27)
+

@@ -32,5 +32,14 @@ Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Util
 ### Version PunBB
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`19`](../src/punbb/greeting_popup.tpl#L19)[`<->`](../src/punbb/greeting_popup.tpl#L19-L19)[`19`](../src/punbb/greeting_popup.tpl#L19)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`30`](../src/punbb/modcp_viewip.tpl#L30)[`<->`](../src/punbb/modcp_viewip.tpl#L30-L30)[`30`](../src/punbb/modcp_viewip.tpl#L30)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`128`](../src/punbb/posting_body.tpl#L128)[`<->`](../src/punbb/posting_body.tpl#L128-L128)[`128`](../src/punbb/posting_body.tpl#L128)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`49`](../src/punbb/privmsgs_body.tpl#L49)[`<->`](../src/punbb/privmsgs_body.tpl#L49-L49)[`49`](../src/punbb/privmsgs_body.tpl#L49)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`43`](../src/punbb/profile_send_email.tpl#L43)[`<->`](../src/punbb/profile_send_email.tpl#L43-L43)[`43`](../src/punbb/profile_send_email.tpl#L43)
+
+### Version Invision
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`17`](../src/invision/greeting_popup.tpl#L17)[`<->`](../src/invision/greeting_popup.tpl#L17-L17)[`17`](../src/invision/greeting_popup.tpl#L17)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`13`](../src/invision/modcp_viewip.tpl#L13)[`<->`](../src/invision/modcp_viewip.tpl#L13-L13)[`13`](../src/invision/modcp_viewip.tpl#L13)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`96`](../src/invision/posting_body.tpl#L96)[`<->`](../src/invision/posting_body.tpl#L96-L96)[`96`](../src/invision/posting_body.tpl#L96)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`38`](../src/invision/privmsgs_body.tpl#L38)[`<->`](../src/invision/privmsgs_body.tpl#L38-L38)[`38`](../src/invision/privmsgs_body.tpl#L38)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`28`](../src/invision/profile_send_email.tpl#L28)[`<->`](../src/invision/profile_send_email.tpl#L28-L28)[`28`](../src/invision/profile_send_email.tpl#L28)
 

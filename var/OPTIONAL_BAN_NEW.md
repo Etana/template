@@ -25,3 +25,6 @@ Chaîne de texte.
 ### Version PunBB
 * __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`6`](../src/punbb/confirm_body.tpl#L6)[`<->`](../src/punbb/confirm_body.tpl#L6-L6)[`6`](../src/punbb/confirm_body.tpl#L6)
 
+### Version Invision
+* __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`8`](../src/invision/confirm_body.tpl#L8)[`<->`](../src/invision/confirm_body.tpl#L8-L8)[`8`](../src/invision/confirm_body.tpl#L8)
+

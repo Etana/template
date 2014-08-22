@@ -18,6 +18,7 @@
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
+	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`{NAV_SEPARATOR}`](../var/NAV_SEPARATOR.md#readme)
 	* [`{U_CALENDAR}`](../var/U_CALENDAR.md#readme)
 
@@ -79,3 +80,9 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
+
+* __[`{CALENDAR_MONTH}`](../var/CALENDAR_MONTH.md#readme) :__ ligne [`6`](../src/invision/calendar_body.tpl#L6)
+* __[`{L_CALENDAR}`](../var/L_CALENDAR.md#readme) :__ ligne [`4`](../src/invision/calendar_body.tpl#L4)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme) :__ ligne [`2`](../src/invision/calendar_body.tpl#L2)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme) :__ ligne [`3`](../src/invision/calendar_body.tpl#L3)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/calendar_body.tpl#L2)

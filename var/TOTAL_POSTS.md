@@ -37,3 +37,7 @@ Nos membres ont posté un total de <strong>2</strong> messages
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`59`](../src/punbb/index_body.tpl#L59)[`<->`](../src/punbb/index_body.tpl#L59-L59)[`59`](../src/punbb/index_body.tpl#L59)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`5`](../src/punbb/mod_statistics.tpl#L5)[`<->`](../src/punbb/mod_statistics.tpl#L5-L5)[`5`](../src/punbb/mod_statistics.tpl#L5)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`124`](../src/invision/index_body.tpl#L124)[`<->`](../src/invision/index_body.tpl#L124-L124)[`124`](../src/invision/index_body.tpl#L124)
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`4`](../src/invision/mod_statistics.tpl#L4)[`<->`](../src/invision/mod_statistics.tpl#L4-L4)[`4`](../src/invision/mod_statistics.tpl#L4)
+

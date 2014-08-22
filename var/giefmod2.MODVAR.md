@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`27`](../src/punbb/portal_body.tpl#L27)[`<->`](../src/punbb/portal_body.tpl#L27-L27)[`27`](../src/punbb/portal_body.tpl#L27)
 
+### Version Invision
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`22`](../src/invision/portal_body.tpl#L22)[`<->`](../src/invision/portal_body.tpl#L22-L22)[`22`](../src/invision/portal_body.tpl#L22)
+

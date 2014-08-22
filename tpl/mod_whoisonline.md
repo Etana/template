@@ -69,3 +69,12 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
+
+* __[`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme) :__ ligne [`5`](../src/invision/mod_whoisonline.tpl#L5)
+* __[`{L_VIEW_COMPLETE_LIST}`](../var/L_VIEW_COMPLETE_LIST.md#readme) :__ ligne [`8`](../src/invision/mod_whoisonline.tpl#L8)
+* __[`{L_WHO_IS_ONLINE}`](../var/L_WHO_IS_ONLINE.md#readme) :__ ligne [`2`](../src/invision/mod_whoisonline.tpl#L2)
+* __[`{RECORD_USERS}`](../var/RECORD_USERS.md#readme) :__ ligne [`11`](../src/invision/mod_whoisonline.tpl#L11)
+* __[`{TOTAL_USERS_ONLINE}`](../var/TOTAL_USERS_ONLINE.md#readme) :__ ligne [`4`](../src/invision/mod_whoisonline.tpl#L4)
+* __[`{U_VIEWONLINE}`](../var/U_VIEWONLINE.md#readme) :__ ligne [`8`](../src/invision/mod_whoisonline.tpl#L8)
+* __[`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme) :__ ligne [`7`](../src/invision/mod_whoisonline.tpl#L7)
+* __[`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme) :__ ligne [`10`](../src/invision/mod_whoisonline.tpl#L10)

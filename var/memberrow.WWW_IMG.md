@@ -21,3 +21,6 @@ Contient un lien vers le site web du membre et l'image définie dans `PA > Affic
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`88`](../src/punbb/memberlist_body.tpl#L88)[`<->`](../src/punbb/memberlist_body.tpl#L88-L88)[`88`](../src/punbb/memberlist_body.tpl#L88)
 
+### Version Invision
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`80`](../src/invision/memberlist_body.tpl#L80)[`<->`](../src/invision/memberlist_body.tpl#L80-L80)[`80`](../src/invision/memberlist_body.tpl#L80)
+

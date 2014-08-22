@@ -28,3 +28,8 @@
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`17`](../src/punbb/profile_send_pass.tpl#L17)[`<->`](../src/punbb/profile_send_pass.tpl#L17-L17)[`17`](../src/punbb/profile_send_pass.tpl#L17)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`22`](../src/punbb/profile_send_pass.tpl#L22)[`<->`](../src/punbb/profile_send_pass.tpl#L22-L22)[`22`](../src/punbb/profile_send_pass.tpl#L22)
 
+### Version Invision
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`17`](../src/invision/mod_login.tpl#L17)[`<->`](../src/invision/mod_login.tpl#L17-L17)[`17`](../src/invision/mod_login.tpl#L17)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`51`](../src/invision/mod_login.tpl#L51)[`<->`](../src/invision/mod_login.tpl#L51-L51)[`51`](../src/invision/mod_login.tpl#L51)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`16`](../src/invision/profile_send_pass.tpl#L16)[`<->`](../src/invision/profile_send_pass.tpl#L16-L16)[`16`](../src/invision/profile_send_pass.tpl#L16)
+

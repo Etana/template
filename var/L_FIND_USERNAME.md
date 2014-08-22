@@ -25,7 +25,9 @@ Chaîne de texte.
 
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`135`](../src/punbb/groupcp_info_body.tpl#L135)[`<->`](../src/punbb/groupcp_info_body.tpl#L135-L135)[`135`](../src/punbb/groupcp_info_body.tpl#L135)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`92`](../src/punbb/posting_body.tpl#L92)[`<->`](../src/punbb/posting_body.tpl#L92-L92)[`92`](../src/punbb/posting_body.tpl#L92)
 
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`111`](../src/invision/groupcp_info_body.tpl#L111)[`<->`](../src/invision/groupcp_info_body.tpl#L111-L111)[`111`](../src/invision/groupcp_info_body.tpl#L111)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`70`](../src/invision/posting_body.tpl#L70)[`<->`](../src/invision/posting_body.tpl#L70-L70)[`70`](../src/invision/posting_body.tpl#L70)
 

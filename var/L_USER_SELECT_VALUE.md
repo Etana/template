@@ -21,3 +21,6 @@ Contient le pseudo du membre sélectionné.
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`40`](../src/punbb/memberlist_body.tpl#L40)[`<->`](../src/punbb/memberlist_body.tpl#L40-L40)[`40`](../src/punbb/memberlist_body.tpl#L40)
 
+### Version Invision
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`24`](../src/invision/memberlist_body.tpl#L24)[`<->`](../src/invision/memberlist_body.tpl#L24-L24)[`24`](../src/invision/memberlist_body.tpl#L24)
+

@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`34`](../src/punbb/profile_edit_signature.tpl#L34)[`<->`](../src/punbb/profile_edit_signature.tpl#L34-L34)[`34`](../src/punbb/profile_edit_signature.tpl#L34)
 
+### Version Invision
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`27`](../src/invision/profile_edit_signature.tpl#L27)[`<->`](../src/invision/profile_edit_signature.tpl#L27-L27)[`27`](../src/invision/profile_edit_signature.tpl#L27)
+

@@ -25,6 +25,14 @@
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`272`](../src/subsilver/viewtopic_body.tpl#L272)[`<->`](../src/subsilver/viewtopic_body.tpl#L272-L272)[`272`](../src/subsilver/viewtopic_body.tpl#L272)
 
 ### Version PunBB
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`8`](../src/punbb/posting_topic_review.tpl#L8)[`<->`](../src/punbb/posting_topic_review.tpl#L8-L8)[`8`](../src/punbb/posting_topic_review.tpl#L8)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`33`](../src/punbb/posting_topic_review.tpl#L33)[`<->`](../src/punbb/posting_topic_review.tpl#L33-L33)[`33`](../src/punbb/posting_topic_review.tpl#L33)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`134`](../src/punbb/viewtopic_body.tpl#L134)[`<->`](../src/punbb/viewtopic_body.tpl#L134-L134)[`134`](../src/punbb/viewtopic_body.tpl#L134)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`261`](../src/punbb/viewtopic_body.tpl#L261)[`<->`](../src/punbb/viewtopic_body.tpl#L261-L261)[`261`](../src/punbb/viewtopic_body.tpl#L261)
+
+### Version Invision
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`9`](../src/invision/posting_topic_review.tpl#L9)[`<->`](../src/invision/posting_topic_review.tpl#L9-L9)[`9`](../src/invision/posting_topic_review.tpl#L9)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`35`](../src/invision/posting_topic_review.tpl#L35)[`<->`](../src/invision/posting_topic_review.tpl#L35-L35)[`35`](../src/invision/posting_topic_review.tpl#L35)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`123`](../src/invision/viewtopic_body.tpl#L123)[`<->`](../src/invision/viewtopic_body.tpl#L123-L123)[`123`](../src/invision/viewtopic_body.tpl#L123)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`281`](../src/invision/viewtopic_body.tpl#L281)[`<->`](../src/invision/viewtopic_body.tpl#L281-L281)[`281`](../src/invision/viewtopic_body.tpl#L281)
 

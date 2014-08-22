@@ -22,4 +22,9 @@
 
 ### Version PunBB
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`67`](../src/punbb/modcp_split.tpl#L67)[`<->`](../src/punbb/modcp_split.tpl#L67-L67)[`67`](../src/punbb/modcp_split.tpl#L67)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`39`](../src/punbb/privmsg_topic_review.tpl#L39)[`<->`](../src/punbb/privmsg_topic_review.tpl#L39-L39)[`39`](../src/punbb/privmsg_topic_review.tpl#L39)
+
+### Version Invision
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`50`](../src/invision/modcp_split.tpl#L50)[`<->`](../src/invision/modcp_split.tpl#L50-L50)[`50`](../src/invision/modcp_split.tpl#L50)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`28`](../src/invision/privmsg_topic_review.tpl#L28)[`<->`](../src/invision/privmsg_topic_review.tpl#L28-L28)[`28`](../src/invision/privmsg_topic_review.tpl#L28)
 

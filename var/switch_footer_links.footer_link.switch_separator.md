@@ -24,3 +24,7 @@ Boucle affichant une séparation `|` entre chaque lien renseigné dans `PA > Mod
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`20`](../src/punbb/overall_footer_end.tpl#L20)[`<->`](../src/punbb/overall_footer_end.tpl#L20-L20)[`20`](../src/punbb/overall_footer_end.tpl#L20)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`20`](../src/punbb/overall_footer_end.tpl#L20)[`<->`](../src/punbb/overall_footer_end.tpl#L20-L20)[`20`](../src/punbb/overall_footer_end.tpl#L20)
 
+### Version Invision
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`22`](../src/invision/overall_footer_end.tpl#L22)[`<->`](../src/invision/overall_footer_end.tpl#L22-L22)[`22`](../src/invision/overall_footer_end.tpl#L22)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`22`](../src/invision/overall_footer_end.tpl#L22)[`<->`](../src/invision/overall_footer_end.tpl#L22-L22)[`22`](../src/invision/overall_footer_end.tpl#L22)
+

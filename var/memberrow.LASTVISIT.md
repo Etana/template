@@ -21,3 +21,6 @@ Contient la dernière visite du membre.
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`85`](../src/punbb/memberlist_body.tpl#L85)[`<->`](../src/punbb/memberlist_body.tpl#L85-L85)[`85`](../src/punbb/memberlist_body.tpl#L85)
 
+### Version Invision
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`87`](../src/invision/memberlist_body.tpl#L87)[`<->`](../src/invision/memberlist_body.tpl#L87-L87)[`87`](../src/invision/memberlist_body.tpl#L87)
+

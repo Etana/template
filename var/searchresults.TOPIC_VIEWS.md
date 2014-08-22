@@ -21,3 +21,6 @@ Contient le nombre de vues du sujet.
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`62`](../src/punbb/search_results_posts.tpl#L62)[`<->`](../src/punbb/search_results_posts.tpl#L62-L62)[`62`](../src/punbb/search_results_posts.tpl#L62)
 
+### Version Invision
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`33`](../src/invision/search_results_posts.tpl#L33)[`<->`](../src/invision/search_results_posts.tpl#L33-L33)[`33`](../src/invision/search_results_posts.tpl#L33)
+

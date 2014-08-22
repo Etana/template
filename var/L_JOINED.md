@@ -23,3 +23,6 @@ Chaîne de texte.
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`68`](../src/punbb/memberlist_body.tpl#L68)[`<->`](../src/punbb/memberlist_body.tpl#L68-L68)[`68`](../src/punbb/memberlist_body.tpl#L68)
 
+### Version Invision
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`97`](../src/invision/memberlist_body.tpl#L97)[`<->`](../src/invision/memberlist_body.tpl#L97-L97)[`97`](../src/invision/memberlist_body.tpl#L97)
+

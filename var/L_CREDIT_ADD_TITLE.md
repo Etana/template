@@ -23,3 +23,6 @@ Chaîne de texte.
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`34`](../src/punbb/buy_credits.tpl#L34)[`<->`](../src/punbb/buy_credits.tpl#L34-L34)[`34`](../src/punbb/buy_credits.tpl#L34)
 
+### Version Invision
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`19`](../src/invision/buy_credits.tpl#L19)[`<->`](../src/invision/buy_credits.tpl#L19-L19)[`19`](../src/invision/buy_credits.tpl#L19)
+

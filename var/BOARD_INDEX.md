@@ -26,3 +26,7 @@ Affiche le contenu du template {{subsilver/index_box}} ou {{punbb/index_box}}.
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`53`](../src/punbb/index_body.tpl#L53)[`<->`](../src/punbb/index_body.tpl#L53-L53)[`53`](../src/punbb/index_body.tpl#L53)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`28`](../src/punbb/viewforum_body.tpl#L28)[`<->`](../src/punbb/viewforum_body.tpl#L28-L28)[`28`](../src/punbb/viewforum_body.tpl#L28)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`40`](../src/invision/index_body.tpl#L40)[`<->`](../src/invision/index_body.tpl#L40-L40)[`40`](../src/invision/index_body.tpl#L40)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`38`](../src/invision/viewforum_body.tpl#L38)[`<->`](../src/invision/viewforum_body.tpl#L38-L38)[`38`](../src/invision/viewforum_body.tpl#L38)
+

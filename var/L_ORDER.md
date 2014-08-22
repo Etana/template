@@ -35,4 +35,8 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`47`](../src/punbb/memberlist_body.tpl#L47)[`<->`](../src/punbb/memberlist_body.tpl#L47-L47)[`47`](../src/punbb/memberlist_body.tpl#L47)
 
 ### Version Invision
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`117`](../src/invision/album_cat_body.tpl#L117)[`<->`](../src/invision/album_cat_body.tpl#L117-L117)[`117`](../src/invision/album_cat_body.tpl#L117)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`86`](../src/invision/album_modcp_body.tpl#L86)[`<->`](../src/invision/album_modcp_body.tpl#L86-L86)[`86`](../src/invision/album_modcp_body.tpl#L86)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`130`](../src/invision/album_moderate_body.tpl#L130)[`<->`](../src/invision/album_moderate_body.tpl#L130-L130)[`130`](../src/invision/album_moderate_body.tpl#L130)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`35`](../src/invision/memberlist_body.tpl#L35)[`<->`](../src/invision/memberlist_body.tpl#L35-L35)[`35`](../src/invision/memberlist_body.tpl#L35)
 

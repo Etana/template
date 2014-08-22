@@ -34,3 +34,7 @@ Chaîne de texte.
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`2`](../src/punbb/jumpbox.tpl#L2)[`<->`](../src/punbb/jumpbox.tpl#L2-L2)[`2`](../src/punbb/jumpbox.tpl#L2)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`32`](../src/punbb/overall_footer_begin.tpl#L32)[`<->`](../src/punbb/overall_footer_begin.tpl#L32-L32)[`32`](../src/punbb/overall_footer_begin.tpl#L32)
 
+### Version Invision
+* __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`2`](../src/invision/jumpbox.tpl#L2)[`<->`](../src/invision/jumpbox.tpl#L2-L2)[`2`](../src/invision/jumpbox.tpl#L2)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`29`](../src/invision/overall_footer_begin.tpl#L29)[`<->`](../src/invision/overall_footer_begin.tpl#L29-L29)[`29`](../src/invision/overall_footer_begin.tpl#L29)
+

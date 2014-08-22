@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`56`](../src/punbb/viewonline_body.tpl#L56)[`<->`](../src/punbb/viewonline_body.tpl#L56-L56)[`56`](../src/punbb/viewonline_body.tpl#L56)
 
+### Version Invision
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`31`](../src/invision/viewonline_body.tpl#L31)[`<->`](../src/invision/viewonline_body.tpl#L31-L31)[`31`](../src/invision/viewonline_body.tpl#L31)
+

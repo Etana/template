@@ -24,3 +24,7 @@
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`14`](../src/punbb/mod_login.tpl#L14)[`<->`](../src/punbb/mod_login.tpl#L14-L14)[`14`](../src/punbb/mod_login.tpl#L14)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`46`](../src/punbb/mod_login.tpl#L46)[`<->`](../src/punbb/mod_login.tpl#L46-L46)[`46`](../src/punbb/mod_login.tpl#L46)
 
+### Version Invision
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`17`](../src/invision/mod_login.tpl#L17)[`<->`](../src/invision/mod_login.tpl#L17-L17)[`17`](../src/invision/mod_login.tpl#L17)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`51`](../src/invision/mod_login.tpl#L51)[`<->`](../src/invision/mod_login.tpl#L51-L51)[`51`](../src/invision/mod_login.tpl#L51)
+

@@ -30,3 +30,9 @@ Boucle affichant la légende des icônes en bas des forums si l'option est activ
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`64`](../src/punbb/viewforum_body.tpl#L64)[`<->`](../src/punbb/viewforum_body.tpl#L64-L64)[`64`](../src/punbb/viewforum_body.tpl#L64)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`80`](../src/punbb/viewforum_body.tpl#L80)[`<->`](../src/punbb/viewforum_body.tpl#L80-L80)[`80`](../src/punbb/viewforum_body.tpl#L80)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`157`](../src/invision/index_body.tpl#L157)[`<->`](../src/invision/index_body.tpl#L157-L157)[`157`](../src/invision/index_body.tpl#L157)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`166`](../src/invision/index_body.tpl#L166)[`<->`](../src/invision/index_body.tpl#L166-L166)[`166`](../src/invision/index_body.tpl#L166)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`65`](../src/invision/viewforum_body.tpl#L65)[`<->`](../src/invision/viewforum_body.tpl#L65-L65)[`65`](../src/invision/viewforum_body.tpl#L65)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`82`](../src/invision/viewforum_body.tpl#L82)[`<->`](../src/invision/viewforum_body.tpl#L82-L82)[`82`](../src/invision/viewforum_body.tpl#L82)
+

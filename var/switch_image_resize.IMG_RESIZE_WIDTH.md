@@ -28,6 +28,15 @@ Contient la largeur du redimensionnement des images définie dans `PA > Généra
 
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`63`](../src/punbb/mod_news.tpl#L63)[`<->`](../src/punbb/mod_news.tpl#L63-L63)[`63`](../src/punbb/mod_news.tpl#L63)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`433`](../src/punbb/posting_body.tpl#L433)[`<->`](../src/punbb/posting_body.tpl#L433-L433)[`433`](../src/punbb/posting_body.tpl#L433)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`111`](../src/punbb/privmsgs_read_body.tpl#L111)[`<->`](../src/punbb/privmsgs_read_body.tpl#L111-L111)[`111`](../src/punbb/privmsgs_read_body.tpl#L111)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`85`](../src/punbb/search_results_posts.tpl#L85)[`<->`](../src/punbb/search_results_posts.tpl#L85-L85)[`85`](../src/punbb/search_results_posts.tpl#L85)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`364`](../src/punbb/viewtopic_body.tpl#L364)[`<->`](../src/punbb/viewtopic_body.tpl#L364-L364)[`364`](../src/punbb/viewtopic_body.tpl#L364)
+
+### Version Invision
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`65`](../src/invision/mod_news.tpl#L65)[`<->`](../src/invision/mod_news.tpl#L65-L65)[`65`](../src/invision/mod_news.tpl#L65)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`381`](../src/invision/posting_body.tpl#L381)[`<->`](../src/invision/posting_body.tpl#L381-L381)[`381`](../src/invision/posting_body.tpl#L381)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`105`](../src/invision/privmsgs_read_body.tpl#L105)[`<->`](../src/invision/privmsgs_read_body.tpl#L105-L105)[`105`](../src/invision/privmsgs_read_body.tpl#L105)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`62`](../src/invision/search_results_posts.tpl#L62)[`<->`](../src/invision/search_results_posts.tpl#L62-L62)[`62`](../src/invision/search_results_posts.tpl#L62)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`400`](../src/invision/viewtopic_body.tpl#L400)[`<->`](../src/invision/viewtopic_body.tpl#L400-L400)[`400`](../src/invision/viewtopic_body.tpl#L400)
 

@@ -30,3 +30,9 @@
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`218`](../src/punbb/profile_add_body.tpl#L218)[`<->`](../src/punbb/profile_add_body.tpl#L218-L218)[`218`](../src/punbb/profile_add_body.tpl#L218)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`226`](../src/punbb/profile_add_body.tpl#L226)[`<->`](../src/punbb/profile_add_body.tpl#L226-L226)[`226`](../src/punbb/profile_add_body.tpl#L226)
 
+### Version Invision
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`242`](../src/invision/profile_add_body.tpl#L242)[`<->`](../src/invision/profile_add_body.tpl#L242-L242)[`242`](../src/invision/profile_add_body.tpl#L242)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`244`](../src/invision/profile_add_body.tpl#L244)[`<->`](../src/invision/profile_add_body.tpl#L244-L244)[`244`](../src/invision/profile_add_body.tpl#L244)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`251`](../src/invision/profile_add_body.tpl#L251)[`<->`](../src/invision/profile_add_body.tpl#L251-L251)[`251`](../src/invision/profile_add_body.tpl#L251)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`259`](../src/invision/profile_add_body.tpl#L259)[`<->`](../src/invision/profile_add_body.tpl#L259-L259)[`259`](../src/invision/profile_add_body.tpl#L259)
+

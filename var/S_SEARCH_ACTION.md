@@ -29,3 +29,7 @@ Action du formulaire de recherche.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`24`](../src/punbb/search_body.tpl#L24)[`<->`](../src/punbb/search_body.tpl#L24-L24)[`24`](../src/punbb/search_body.tpl#L24)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`13`](../src/punbb/search_username.tpl#L13)[`<->`](../src/punbb/search_username.tpl#L13-L13)[`13`](../src/punbb/search_username.tpl#L13)
 
+### Version Invision
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`7`](../src/invision/search_body.tpl#L7)[`<->`](../src/invision/search_body.tpl#L7-L7)[`7`](../src/invision/search_body.tpl#L7)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`12`](../src/invision/search_username.tpl#L12)[`<->`](../src/invision/search_username.tpl#L12-L12)[`12`](../src/invision/search_username.tpl#L12)
+

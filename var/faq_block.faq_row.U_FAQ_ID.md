@@ -30,3 +30,9 @@
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`37`](../src/punbb/faq_dhtml.tpl#L37)[`<->`](../src/punbb/faq_dhtml.tpl#L37-L37)[`37`](../src/punbb/faq_dhtml.tpl#L37)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`39`](../src/punbb/faq_dhtml.tpl#L39)[`<->`](../src/punbb/faq_dhtml.tpl#L39-L39)[`39`](../src/punbb/faq_dhtml.tpl#L39)
 
+### Version Invision
+* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`26`](../src/invision/faq_body.tpl#L26)[`<->`](../src/invision/faq_body.tpl#L26-L26)[`26`](../src/invision/faq_body.tpl#L26)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`21`](../src/invision/faq_dhtml.tpl#L21)[`<->`](../src/invision/faq_dhtml.tpl#L21-L21)[`21`](../src/invision/faq_dhtml.tpl#L21)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`22`](../src/invision/faq_dhtml.tpl#L22)[`<->`](../src/invision/faq_dhtml.tpl#L22-L22)[`22`](../src/invision/faq_dhtml.tpl#L22)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`24`](../src/invision/faq_dhtml.tpl#L24)[`<->`](../src/invision/faq_dhtml.tpl#L24-L24)[`24`](../src/invision/faq_dhtml.tpl#L24)
+

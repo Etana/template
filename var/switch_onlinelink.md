@@ -24,3 +24,7 @@
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`6`](../src/punbb/mod_whoisonline.tpl#L6)[`<->`](../src/punbb/mod_whoisonline.tpl#L6-L6)[`6`](../src/punbb/mod_whoisonline.tpl#L6)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`9`](../src/punbb/mod_whoisonline.tpl#L9)[`<->`](../src/punbb/mod_whoisonline.tpl#L9-L9)[`9`](../src/punbb/mod_whoisonline.tpl#L9)
 
+### Version Invision
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`7`](../src/invision/mod_whoisonline.tpl#L7)[`<->`](../src/invision/mod_whoisonline.tpl#L7-L7)[`7`](../src/invision/mod_whoisonline.tpl#L7)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`10`](../src/invision/mod_whoisonline.tpl#L10)[`<->`](../src/invision/mod_whoisonline.tpl#L10-L10)[`10`](../src/invision/mod_whoisonline.tpl#L10)
+

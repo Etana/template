@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`302`](../src/punbb/profile_add_body.tpl#L302)[`<->`](../src/punbb/profile_add_body.tpl#L302-L302)[`302`](../src/punbb/profile_add_body.tpl#L302)
 
+### Version Invision
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`359`](../src/invision/profile_add_body.tpl#L359)[`<->`](../src/invision/profile_add_body.tpl#L359-L359)[`359`](../src/invision/profile_add_body.tpl#L359)
+

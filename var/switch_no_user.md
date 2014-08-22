@@ -24,3 +24,7 @@ Boucle s'affichant si aucun utilisateur ne correspond à la recherche.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`91`](../src/punbb/memberlist_body.tpl#L91)[`<->`](../src/punbb/memberlist_body.tpl#L91-L91)[`91`](../src/punbb/memberlist_body.tpl#L91)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`95`](../src/punbb/memberlist_body.tpl#L95)[`<->`](../src/punbb/memberlist_body.tpl#L95-L95)[`95`](../src/punbb/memberlist_body.tpl#L95)
 
+### Version Invision
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`105`](../src/invision/memberlist_body.tpl#L105)[`<->`](../src/invision/memberlist_body.tpl#L105-L105)[`105`](../src/invision/memberlist_body.tpl#L105)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`107`](../src/invision/memberlist_body.tpl#L107)[`<->`](../src/invision/memberlist_body.tpl#L107-L107)[`107`](../src/invision/memberlist_body.tpl#L107)
+

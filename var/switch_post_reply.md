@@ -24,3 +24,15 @@
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`96`](../src/subsilver/privmsgs_read_body.tpl#L96)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L96-L96)[`96`](../src/subsilver/privmsgs_read_body.tpl#L96)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`98`](../src/subsilver/privmsgs_read_body.tpl#L98)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L98-L98)[`98`](../src/subsilver/privmsgs_read_body.tpl#L98)
 
+### Version PunBB
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`33`](../src/punbb/privmsgs_read_body.tpl#L33)[`<->`](../src/punbb/privmsgs_read_body.tpl#L33-L33)[`33`](../src/punbb/privmsgs_read_body.tpl#L33)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`35`](../src/punbb/privmsgs_read_body.tpl#L35)[`<->`](../src/punbb/privmsgs_read_body.tpl#L35-L35)[`35`](../src/punbb/privmsgs_read_body.tpl#L35)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`97`](../src/punbb/privmsgs_read_body.tpl#L97)[`<->`](../src/punbb/privmsgs_read_body.tpl#L97-L97)[`97`](../src/punbb/privmsgs_read_body.tpl#L97)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`99`](../src/punbb/privmsgs_read_body.tpl#L99)[`<->`](../src/punbb/privmsgs_read_body.tpl#L99-L99)[`99`](../src/punbb/privmsgs_read_body.tpl#L99)
+
+### Version Invision
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`7`](../src/invision/privmsgs_read_body.tpl#L7)[`<->`](../src/invision/privmsgs_read_body.tpl#L7-L7)[`7`](../src/invision/privmsgs_read_body.tpl#L7)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`13`](../src/invision/privmsgs_read_body.tpl#L13)[`<->`](../src/invision/privmsgs_read_body.tpl#L13-L13)[`13`](../src/invision/privmsgs_read_body.tpl#L13)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`87`](../src/invision/privmsgs_read_body.tpl#L87)[`<->`](../src/invision/privmsgs_read_body.tpl#L87-L87)[`87`](../src/invision/privmsgs_read_body.tpl#L87)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`93`](../src/invision/privmsgs_read_body.tpl#L93)[`<->`](../src/invision/privmsgs_read_body.tpl#L93-L93)[`93`](../src/invision/privmsgs_read_body.tpl#L93)
+

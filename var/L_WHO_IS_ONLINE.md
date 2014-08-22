@@ -34,3 +34,9 @@ Chaîne de caractère.
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`2`](../src/punbb/mod_whoisonline.tpl#L2)[`<->`](../src/punbb/mod_whoisonline.tpl#L2-L2)[`2`](../src/punbb/mod_whoisonline.tpl#L2)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`28`](../src/punbb/viewonline_body.tpl#L28)[`<->`](../src/punbb/viewonline_body.tpl#L28-L28)[`28`](../src/punbb/viewonline_body.tpl#L28)
 
+### Version Invision
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`72`](../src/invision/index_body.tpl#L72)[`<->`](../src/invision/index_body.tpl#L72-L72)[`72`](../src/invision/index_body.tpl#L72)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`75`](../src/invision/index_body.tpl#L75)[`<->`](../src/invision/index_body.tpl#L75-L75)[`75`](../src/invision/index_body.tpl#L75)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`80`](../src/invision/index_body.tpl#L80)[`<->`](../src/invision/index_body.tpl#L80-L80)[`80`](../src/invision/index_body.tpl#L80)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`2`](../src/invision/mod_whoisonline.tpl#L2)[`<->`](../src/invision/mod_whoisonline.tpl#L2-L2)[`2`](../src/invision/mod_whoisonline.tpl#L2)
+
