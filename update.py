@@ -31,20 +31,13 @@ f = ident['forum']
 # connect to forum
 tid = s.post(f+'login.forum', data={'username':ident['username'], 'password':ident['password'], 'login':1, 'redirect':'/admin/', 'admin':1}).url[49:]
 
-limit = 500
-
-i = limit
-
-
 '''Chargement des pages du forum'''
 for ver in template_versions:
     
-    j = 300
     # change forum theme
     s.post(f+'admin/index.forum?part=themes&sub=styles&mode=version&extended_admin=1&tid='+tid,data={'tpl':ver, 'keep_theme': 1, 'change_version': 1})
 
     for cat in template_categories:
-        k = 300
 
         cat_page = s.get(f+'admin/index.forum?mode='+cat+'&part=themes&sub=templates&tid='+tid)
         cat_page.encoding = 'utf-8'
@@ -78,16 +71,6 @@ for ver in template_versions:
                 # ecriture dans fichier src/version/nom_template
                 with open(script_dir+'/src/'+ver+'/'+tem+'.tpl', 'w') as t:
                     t.write(template_contents[ver][tem])
-
-            k -= 1
-            if k == 0:
-                break
-        j -= 1
-        if j == 0:
-            break
-    i -= 1
-    if i == 0:
-        break
 
 '''Fichier README.md'''
 with open(script_dir+'/README.md', 'w') as f:
