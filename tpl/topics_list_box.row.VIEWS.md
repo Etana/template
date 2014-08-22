@@ -1,0 +1,26 @@
+# Template topics_list_box.row.VIEWS
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation :__
+
+```html
+{topics_list_box.row.VIEWS}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.VIEWS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.VIEWS)
+
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`112`](../src/prosilver/topics_list_box.tpl#L112)[`<->`](../src/prosilver/topics_list_box.tpl#L112-L112)[`112`](../src/prosilver/topics_list_box.tpl#L112)
+
+### Version phpBB2
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`74`](../src/subsilver/topics_list_box.tpl#L74)[`<->`](../src/subsilver/topics_list_box.tpl#L74-L74)[`74`](../src/subsilver/topics_list_box.tpl#L74)
+
+### Version PunBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`93`](../src/punbb/topics_list_box.tpl#L93)[`<->`](../src/punbb/topics_list_box.tpl#L93-L93)[`93`](../src/punbb/topics_list_box.tpl#L93)
+
+### Version Invision
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`128`](../src/invision/topics_list_box.tpl#L128)[`<->`](../src/invision/topics_list_box.tpl#L128-L128)[`128`](../src/invision/topics_list_box.tpl#L128)
+

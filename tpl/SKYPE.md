@@ -1,0 +1,17 @@
+# Template SKYPE
+* __Type :__ variable d'affichage
+* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation :__
+
+```html
+{SKYPE}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/SKYPE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SKYPE)
+
+## Utilisations dans les templates
+
+### Version Invision
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`90`](../src/invision/profile_add_body.tpl#L90)[`<->`](../src/invision/profile_add_body.tpl#L90-L90)[`90`](../src/invision/profile_add_body.tpl#L90)
+

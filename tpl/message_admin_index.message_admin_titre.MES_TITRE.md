@@ -1,0 +1,27 @@
+# Template message_admin_index.message_admin_titre.MES_TITRE
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme), [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation :__
+
+```html
+{message_admin_index.message_admin_titre.MES_TITRE}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre.MES_TITRE)
+Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralités > Titre du message`.
+
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`29`](../src/prosilver/index_body.tpl#L29)[`<->`](../src/prosilver/index_body.tpl#L29-L29)[`29`](../src/prosilver/index_body.tpl#L29)
+
+### Version phpBB2
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`6`](../src/subsilver/index_body.tpl#L6)[`<->`](../src/subsilver/index_body.tpl#L6-L6)[`6`](../src/subsilver/index_body.tpl#L6)
+
+### Version PunBB
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`23`](../src/punbb/index_body.tpl#L23)[`<->`](../src/punbb/index_body.tpl#L23-L23)[`23`](../src/punbb/index_body.tpl#L23)
+
+### Version Invision
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`11`](../src/invision/agreement.tpl#L11)[`<->`](../src/invision/agreement.tpl#L11-L11)[`11`](../src/invision/agreement.tpl#L11)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`11`](../src/invision/index_body.tpl#L11)[`<->`](../src/invision/index_body.tpl#L11-L11)[`11`](../src/invision/index_body.tpl#L11)
+
