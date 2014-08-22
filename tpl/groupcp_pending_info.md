@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Groupes` > `groupcp_pending_info`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/groupcp_pending_info)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/groupcp_pending_info)

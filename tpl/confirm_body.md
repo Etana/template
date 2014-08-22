@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `confirm_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/confirm_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/confirm_body)

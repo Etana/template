@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_search`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/mod_search)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_search)

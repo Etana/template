@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `portal_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/portal_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/portal_body)

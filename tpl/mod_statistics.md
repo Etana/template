@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_statistics`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/mod_statistics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_statistics)

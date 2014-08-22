@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_most_active_topics`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/mod_most_active_topics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_most_active_topics)

@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/modcp_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_body)

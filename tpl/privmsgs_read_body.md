@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsgs_read_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/privmsgs_read_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_read_body)

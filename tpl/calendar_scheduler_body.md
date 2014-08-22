@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `calendar_scheduler_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/calendar_scheduler_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_scheduler_body)

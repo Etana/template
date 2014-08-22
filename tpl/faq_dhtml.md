@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `faq_dhtml`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/faq_dhtml)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/faq_dhtml)

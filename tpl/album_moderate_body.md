@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_moderate_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/album_moderate_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_moderate_body)

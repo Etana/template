@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_rss_feeds`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/mod_rss_feeds)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_rss_feeds)

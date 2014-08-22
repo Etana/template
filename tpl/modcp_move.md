@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_move`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/modcp_move)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_move)

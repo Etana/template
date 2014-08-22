@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `merge_select_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/merge_select_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/merge_select_body)

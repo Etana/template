@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_split`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/modcp_split)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_split)

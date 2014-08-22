@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_social_bookmarking`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/mod_social_bookmarking)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_social_bookmarking)

@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `posting_smilies_wysiwyg`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/posting_smilies_wysiwyg)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies_wysiwyg)

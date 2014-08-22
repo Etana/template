@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_results_topics`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/search_results_topics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/search_results_topics)

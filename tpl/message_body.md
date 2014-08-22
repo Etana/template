@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `message_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/message_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/message_body)

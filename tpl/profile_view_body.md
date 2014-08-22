@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_view_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/profile_view_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_view_body)

@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsgs_preview`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/privmsgs_preview)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_preview)

@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `jumpbox`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/jumpbox)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/jumpbox)

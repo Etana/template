@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `posting_smilies_frame`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/posting_smilies_frame)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies_frame)

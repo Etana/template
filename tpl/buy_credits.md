@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `buy_credits`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/buy_credits)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/buy_credits)

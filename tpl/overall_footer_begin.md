@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `overall_footer_begin`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/overall_footer_begin)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_begin)

@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `simple_footer`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/simple_footer)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/simple_footer)

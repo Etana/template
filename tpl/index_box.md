@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `index_box`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/index_box)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/index_box)

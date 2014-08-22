@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsg_topic_review`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/privmsg_topic_review)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsg_topic_review)

@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_send_pass`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/profile_send_pass)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_send_pass)

@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `report_list_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/report_list_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/report_list_body)

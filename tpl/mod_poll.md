@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_poll`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/mod_poll)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_poll)

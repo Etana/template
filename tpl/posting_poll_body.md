@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `posting_poll_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/posting_poll_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_poll_body)

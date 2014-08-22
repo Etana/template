@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `faq_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/faq_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/faq_body)

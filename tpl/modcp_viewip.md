@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_viewip`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/modcp_viewip)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_viewip)

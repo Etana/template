@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_nuffimage_box`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/album_nuffimage_box)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_nuffimage_box)

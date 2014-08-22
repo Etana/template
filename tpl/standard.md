@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `standard`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/standard)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/standard)

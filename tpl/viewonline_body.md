@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `viewonline_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/viewonline_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewonline_body)

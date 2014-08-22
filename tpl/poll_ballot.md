@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `poll_ballot`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/poll_ballot)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/poll_ballot)

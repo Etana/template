@@ -6,3 +6,6 @@
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Groupes` > `groupcp_user_body`
+
+## Description[*](https://fa-tvars.appspot.com/tpl/groupcp_user_body)
+[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/groupcp_user_body)
