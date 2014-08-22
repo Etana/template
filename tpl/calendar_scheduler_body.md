@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_scheduler_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ACTION}`](../var/ACTION.md#readme)
 	* [`{BIRTHDAY_LIST_SCHEDULER}`](../var/BIRTHDAY_LIST_SCHEDULER.md#readme)

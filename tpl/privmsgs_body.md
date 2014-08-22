@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{BOX_SIZE_STATUS}`](../var/BOX_SIZE_STATUS.md#readme)
 	* [`{INBOX}`](../var/INBOX.md#readme)

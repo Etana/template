@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsg_topic_review)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ICON_TIME}`](../var/ICON_TIME.md#readme)
 	* [`{L_ATTACH_SIGNATURE}`](../var/L_ATTACH_SIGNATURE.md#readme)

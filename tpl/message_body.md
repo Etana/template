@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/message_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)

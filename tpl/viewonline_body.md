@@ -13,7 +13,7 @@
 Ce template affiche la page `/viewonline`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN bot_user_row -->`](../var/bot_user_row.md#readme)
 	* [`<!-- END bot_user_row -->`](../var/bot_user_row.md#readme)

@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_split)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_ALBUM}`](../var/L_ALBUM.md#readme)
 	* [`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)

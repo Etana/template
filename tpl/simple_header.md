@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/simple_header)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{JS_DIR}`](../var/JS_DIR.md#readme)
 	* [`{L_LANG}`](../var/L_LANG.md#readme)

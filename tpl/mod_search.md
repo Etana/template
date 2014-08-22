@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_search)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme)
 	* [`{SEARCH_ADVANCED}`](../var/SEARCH_ADVANCED.md#readme)

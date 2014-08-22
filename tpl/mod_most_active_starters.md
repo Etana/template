@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_most_active_starters)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_MOST_ACTIVE_STARTERS}`](../var/L_MOST_ACTIVE_STARTERS.md#readme)
 	* [`<!-- BEGIN POSTER -->`](../var/POSTER.md#readme)

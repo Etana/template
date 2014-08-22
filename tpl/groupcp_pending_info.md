@@ -14,7 +14,7 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 * il y a des membres en attente d'adhésion au groupe
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_APPROVE_SELECTED}`](../var/L_APPROVE_SELECTED.md#readme)
 	* [`{L_DENY_SELECTED}`](../var/L_DENY_SELECTED.md#readme)

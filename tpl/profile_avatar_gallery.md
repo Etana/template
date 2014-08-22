@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_avatar_gallery)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN avatar_row -->`](../var/avatar_row.md#readme)
 	* [`<!-- END avatar_row -->`](../var/avatar_row.md#readme)

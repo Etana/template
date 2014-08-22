@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_box)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN _calendar_box -->`](../var/_calendar_box.md#readme)
 	* [`<!-- END _calendar_box -->`](../var/_calendar_box.md#readme)

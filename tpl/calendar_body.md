@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{CALENDAR_MONTH}`](../var/CALENDAR_MONTH.md#readme)
 	* [`{L_CALENDAR}`](../var/L_CALENDAR.md#readme)

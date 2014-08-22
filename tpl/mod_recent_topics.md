@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_recent_topics)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{BY}`](../var/BY.md#readme)
 	* [`<!-- BEGIN classical_row -->`](../var/classical_row.md#readme)

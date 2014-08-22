@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/portal_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ADMIN_LINK}`](../var/ADMIN_LINK.md#readme)
 	* [`{C1SIZE}`](../var/C1SIZE.md#readme)

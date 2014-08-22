@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_search_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{JS_MENU}`](../var/JS_MENU.md#readme)
 	* [`{L_ALBUM}`](../var/L_ALBUM.md#readme)

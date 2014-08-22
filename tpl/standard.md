@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/standard)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{CLASS_TABLE_TYPE}`](../var/CLASS_TABLE_TYPE.md#readme)
 	* [`<!-- BEGIN not_table_row -->`](../var/not_table_row.md#readme)

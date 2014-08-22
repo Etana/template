@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/merge_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{CURRENT_FID}`](../var/CURRENT_FID.md#readme)
 	* [`{FROM_TOPIC}`](../var/FROM_TOPIC.md#readme)

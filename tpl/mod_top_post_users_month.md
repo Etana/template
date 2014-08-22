@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_top_post_users_month)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_TOP_POST_USERS_MONTH}`](../var/L_TOP_POST_USERS_MONTH.md#readme)
 	* [`<!-- BEGIN POSTER -->`](../var/POSTER.md#readme)

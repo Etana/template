@@ -13,7 +13,7 @@
 Ce template affiche la page de recherche de votre forum : `/search`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{GOOGLE_CODE}`](../var/GOOGLE_CODE.md#readme)
 	* [`{JS_DIR}`](../var/JS_DIR.md#readme)

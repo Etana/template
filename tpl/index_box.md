@@ -13,7 +13,7 @@
 Ce template affiche les catégories, les forums et les sous-forums de votre forum.
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN catrow -->`](../var/catrow.md#readme)
 	* [`<!-- END catrow -->`](../var/catrow.md#readme)

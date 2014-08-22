@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_add_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{AIM}`](../var/AIM.md#readme)
 	* [`{ALLOW_MASS_PM_CHECKED}`](../var/ALLOW_MASS_PM_CHECKED.md#readme)

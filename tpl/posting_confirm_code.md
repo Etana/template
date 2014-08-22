@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_confirm_code)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{F_TYPE_FORUM}`](../var/F_TYPE_FORUM.md#readme)
 	* [`{L_ERROR_MSG}`](../var/L_ERROR_MSG.md#readme)

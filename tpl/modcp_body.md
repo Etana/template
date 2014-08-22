@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/modcp_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{JUMPBOX}`](../var/JUMPBOX.md#readme)
 	* [`{L_ALBUM}`](../var/L_ALBUM.md#readme)

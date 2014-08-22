@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/buy_credits)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ALLOPASS_FLAGS}`](../var/ALLOPASS_FLAGS.md#readme)
 	* [`<!-- BEGIN credit_card_method -->`](../var/credit_card_method.md#readme)

@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/groupcp_user_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{GROUP_LIST_SELECT}`](../var/GROUP_LIST_SELECT.md#readme)
 	* [`{GROUP_MEMBER_ROWSPAN}`](../var/GROUP_MEMBER_ROWSPAN.md#readme)

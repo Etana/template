@@ -13,7 +13,7 @@
 Ce template modifie le popup d'anniversaire.
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)
 	* [`<!-- END html_validation -->`](../var/html_validation.md#readme)

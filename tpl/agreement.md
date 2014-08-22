@@ -13,7 +13,7 @@
 Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{AGREE_OVER_13}`](../var/AGREE_OVER_13.md#readme)
 	* [`{AGREEMENT}`](../var/AGREEMENT.md#readme)

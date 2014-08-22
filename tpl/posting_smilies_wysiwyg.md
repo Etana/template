@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies_wysiwyg)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{JQUERY_PATH}`](../var/JQUERY_PATH.md#readme)
 	* [`{JS_DIR}`](../var/JS_DIR.md#readme)

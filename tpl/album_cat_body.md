@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_cat_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ALBUM_ID}`](../var/ALBUM_ID.md#readme)
 	* [`<!-- BEGIN album_pagination -->`](../var/album_pagination.md#readme)

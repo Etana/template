@@ -13,7 +13,7 @@
 Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est ni activé, ni autorisé : `/faq?dhtml=no`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN faq_block -->`](../var/faq_block.md#readme)
 	* [`<!-- END faq_block -->`](../var/faq_block.md#readme)

@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_nuffimage_box)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{IMG_BW}`](../var/IMG_BW.md#readme)
 	* [`{IMG_INFRARED}`](../var/IMG_INFRARED.md#readme)

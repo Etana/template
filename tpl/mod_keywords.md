@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_keywords)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme)
 	* [`<!-- BEGIN li_row -->`](../var/li_row.md#readme)

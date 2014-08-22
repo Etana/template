@@ -13,7 +13,7 @@
 Ce template touche toutes les demandes de confirmation comme le bannissement d'un membre, la suppression de messages et sujets, ...
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_NO}`](../var/L_NO.md#readme)
 	* [`{L_YES}`](../var/L_YES.md#readme)

@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ADD_USERNAME_IMG}`](../var/ADD_USERNAME_IMG.md#readme)
 	* [`{ATTACHMENT_CLOSE}`](../var/ATTACHMENT_CLOSE.md#readme)

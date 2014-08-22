@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_send_email)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ERROR_BOX}`](../var/ERROR_BOX.md#readme)
 	* [`{JUMPBOX}`](../var/JUMPBOX.md#readme)

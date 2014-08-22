@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_preview)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_FROM}`](../var/L_FROM.md#readme)
 	* [`{L_POSTED}`](../var/L_POSTED.md#readme)

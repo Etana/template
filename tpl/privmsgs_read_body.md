@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/privmsgs_read_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{AIM_IMG}`](../var/AIM_IMG.md#readme)
 	* [`{AVATAR_FROM}`](../var/AVATAR_FROM.md#readme)

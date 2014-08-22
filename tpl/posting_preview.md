@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_preview)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_POST}`](../var/L_POST.md#readme)
 	* [`{L_POST_SUBJECT}`](../var/L_POST_SUBJECT.md#readme)

@@ -11,7 +11,7 @@
 Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{GROUP_DESC}`](../var/GROUP_DESC.md#readme)
 	* [`{GROUP_DETAILS}`](../var/GROUP_DETAILS.md#readme)

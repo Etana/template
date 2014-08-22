@@ -13,7 +13,7 @@
 Ce template touche la page des résultats de la recherche par sujets d'un membre : `/sta/Pseudo` et la configuration de vos sujets surveillés : `/search?search_id=watchsearch`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)
 	* [`{JUMPBOX}`](../var/JUMPBOX.md#readme)

@@ -13,7 +13,7 @@
 Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page sur plusieurs pages de votre forum.
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_GO}`](../var/L_GO.md#readme)
 	* [`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)

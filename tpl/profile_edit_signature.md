@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_edit_signature)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{BBCODE_STATUS}`](../var/BBCODE_STATUS.md#readme)
 	* [`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)

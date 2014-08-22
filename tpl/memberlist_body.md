@@ -13,7 +13,7 @@
 Ce template affiche la liste des membres de votre forum : `/memberlist`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_AVATAR}`](../var/L_AVATAR.md#readme)
 	* [`{L_GROUPS}`](../var/L_GROUPS.md#readme)

@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_login)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{AUTOLOGIN_CHECKED}`](../var/AUTOLOGIN_CHECKED.md#readme)
 	* [`{DIRECTION}`](../var/DIRECTION.md#readme)

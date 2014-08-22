@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_statistics)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_STATISTICS}`](../var/L_STATISTICS.md#readme)
 	* [`{NEWEST_USER}`](../var/NEWEST_USER.md#readme)

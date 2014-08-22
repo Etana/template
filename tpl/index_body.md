@@ -13,7 +13,7 @@
 Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que le qui est en ligne de votre forum : `/forum`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{AUTO_DST}`](../var/AUTO_DST.md#readme)
 	* [`{AUTOLOGIN_CHECKED}`](../var/AUTOLOGIN_CHECKED.md#readme)

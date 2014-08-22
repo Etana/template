@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_footer_begin)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{C3SIZE}`](../var/C3SIZE.md#readme)
 	* [`<!-- BEGIN giefmod_index2 -->`](../var/giefmod_index2.md#readme)

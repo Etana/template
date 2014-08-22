@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewtopic_poll_ballot)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{CLOSE_POLL}`](../var/CLOSE_POLL.md#readme)
 	* [`{L_POLL}`](../var/L_POLL.md#readme)

@@ -250,7 +250,7 @@ for tem in template_variables:
         else:
             f.write(templates_desc[tem])
 
-        f.write('\n\n## Variables disponibles\n* [__Variables globales__](../../variables_globales.md#readme)\n* __Variables propres à ce template :__')
+        f.write('\n\n## Variables disponibles\n* [__Variables globales__](../variables_globales.md#readme)\n* __Variables propres à ce template :__')
 
         for var in sorted(template_variables[tem], key=str.lower):
             if var in var_globales or var.split('.')[0] in var_globales:
@@ -265,7 +265,7 @@ for tem in template_variables:
                 f.write('\n* __'+var2text(r[2], r[1])+'(../var/'+r[2]+'.md#readme) :__ ligne [`'+str(r[0])+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(r[0])+')')
 
 def guess_type(var_name):
-    if re.match('[A-Z_0-9]+', var_name.split('.')[-1]):
+    if re.match('^[A-Z_0-9]+$', var_name.split('.')[-1]):
         return [0]
     return [1]
 

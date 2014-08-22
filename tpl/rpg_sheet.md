@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/rpg_sheet)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_ABOUT_USER}`](../var/L_ABOUT_USER.md#readme)
 	* [`{L_AVATAR}`](../var/L_AVATAR.md#readme)

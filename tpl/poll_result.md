@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/poll_result)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme)
 	* [`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme)

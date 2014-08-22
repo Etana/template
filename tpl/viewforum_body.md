@@ -13,7 +13,7 @@
 Ce template affiche les forums : `/fX-`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{BOARD_INDEX}`](../var/BOARD_INDEX.md#readme)
 	* [`{FOLDER_ANNOUNCE_IMG}`](../var/FOLDER_ANNOUNCE_IMG.md#readme)

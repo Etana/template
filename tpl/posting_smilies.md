@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_smilies)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
 	* [`{L_EMOTICONS}`](../var/L_EMOTICONS.md#readme)

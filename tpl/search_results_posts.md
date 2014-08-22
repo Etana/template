@@ -13,7 +13,7 @@
 Ce template touche la page des résultats de la recherche par messages d'un membre : `/spa/Pseudo`
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ICON_TIME}`](../var/ICON_TIME.md#readme)
 	* [`{JS_DIR}`](../var/JS_DIR.md#readme)

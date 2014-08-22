@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewtopic_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ADDTHIS_LANG}`](../var/ADDTHIS_LANG.md#readme)
 	* [`{COLSPAN_PAGINATION}`](../var/COLSPAN_PAGINATION.md#readme)

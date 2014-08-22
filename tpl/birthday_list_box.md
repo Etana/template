@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/birthday_list_box)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN birthday_list_box -->`](../var/birthday_list_box.md#readme)
 	* [`<!-- END birthday_list_box -->`](../var/birthday_list_box.md#readme)

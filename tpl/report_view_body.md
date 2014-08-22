@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/report_view_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)
 	* [`{L_LAST_EDIT}`](../var/L_LAST_EDIT.md#readme)

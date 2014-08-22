@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_top_post_users_week)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_TOP_POST_USERS_WEEK}`](../var/L_TOP_POST_USERS_WEEK.md#readme)
 	* [`<!-- BEGIN POSTER -->`](../var/POSTER.md#readme)

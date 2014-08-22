@@ -13,7 +13,7 @@
 Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le début du BODY reprenant le haut de votre forum (logo, titre et description, barre de navigation, ...).
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ACTION_SEARCH}`](../var/ACTION_SEARCH.md#readme)
 	* [`{C1SIZE}`](../var/C1SIZE.md#readme)

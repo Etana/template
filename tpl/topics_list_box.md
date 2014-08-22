@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/topics_list_box)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{FORUM_NAME}`](../var/FORUM_NAME.md#readme)
 	* [`{L_BACK_TO_TOP}`](../var/L_BACK_TO_TOP.md#readme)

@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_most_viewed_topics)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_MOST_VIEWED_TOPICS}`](../var/L_MOST_VIEWED_TOPICS.md#readme)
 	* [`<!-- BEGIN TOPIC -->`](../var/TOPIC.md#readme)

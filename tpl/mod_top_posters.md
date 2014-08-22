@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_top_posters)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_TOP_POSTERS}`](../var/L_TOP_POSTERS.md#readme)
 	* [`<!-- BEGIN POSTER -->`](../var/POSTER.md#readme)

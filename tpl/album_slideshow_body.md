@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_slideshow_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{DES_LIST}`](../var/DES_LIST.md#readme)
 	* [`{JS_MENU}`](../var/JS_MENU.md#readme)

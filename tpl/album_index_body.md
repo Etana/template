@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_index_body)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN build_categories_block -->`](../var/build_categories_block.md#readme)
 	* [`<!-- END build_categories_block -->`](../var/build_categories_block.md#readme)

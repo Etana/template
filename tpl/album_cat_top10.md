@@ -11,7 +11,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/album_cat_top10)
 
 ## Variables disponibles
-* [__Variables globales__](../../variables_globales.md#readme)
+* [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ALBUM_NAVIGATION_ARROW}`](../var/ALBUM_NAVIGATION_ARROW.md#readme)
 	* [`{JS_MENU}`](../var/JS_MENU.md#readme)
