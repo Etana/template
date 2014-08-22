@@ -26,11 +26,11 @@
 
 ### Positions des variables
 
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`7`](../src/prosilver/mod_keywords.tpl#L7)
 * __[`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme) :__ ligne [`4`](../src/prosilver/mod_keywords.tpl#L4)
 * __[`<!-- BEGIN li_row -->`](../var/li_row.md#readme) :__ ligne [`6`](../src/prosilver/mod_keywords.tpl#L6)
 * __[`<!-- END li_row -->`](../var/li_row.md#readme) :__ ligne [`8`](../src/prosilver/mod_keywords.tpl#L8)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme) :__ ligne [`7`](../src/prosilver/mod_keywords.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`7`](../src/prosilver/mod_keywords.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme) :__ ligne [`7`](../src/prosilver/mod_keywords.tpl#L7)
 
 ## Template par défaut phpBB2
@@ -39,11 +39,11 @@
 
 ### Positions des variables
 
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
 * __[`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme) :__ ligne [`4`](../src/subsilver/mod_keywords.tpl#L4)
 * __[`<!-- BEGIN li_row -->`](../var/li_row.md#readme) :__ ligne [`11`](../src/subsilver/mod_keywords.tpl#L11)
 * __[`<!-- END li_row -->`](../var/li_row.md#readme) :__ ligne [`13`](../src/subsilver/mod_keywords.tpl#L13)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme) :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme) :__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
 
 ## Template par défaut PunBB
@@ -52,11 +52,11 @@
 
 ### Positions des variables
 
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`6`](../src/punbb/mod_keywords.tpl#L6)
 * __[`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme) :__ ligne [`2`](../src/punbb/mod_keywords.tpl#L2)
 * __[`<!-- BEGIN li_row -->`](../var/li_row.md#readme) :__ ligne [`5`](../src/punbb/mod_keywords.tpl#L5)
 * __[`<!-- END li_row -->`](../var/li_row.md#readme) :__ ligne [`7`](../src/punbb/mod_keywords.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme) :__ ligne [`6`](../src/punbb/mod_keywords.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`6`](../src/punbb/mod_keywords.tpl#L6)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme) :__ ligne [`6`](../src/punbb/mod_keywords.tpl#L6)
 
 ## Template par défaut Invision
@@ -65,9 +65,9 @@
 
 ### Positions des variables
 
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
 * __[`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme) :__ ligne [`2`](../src/invision/mod_keywords.tpl#L2)
 * __[`<!-- BEGIN li_row -->`](../var/li_row.md#readme) :__ ligne [`5`](../src/invision/mod_keywords.tpl#L5)
 * __[`<!-- END li_row -->`](../var/li_row.md#readme) :__ ligne [`7`](../src/invision/mod_keywords.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)

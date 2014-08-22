@@ -48,5 +48,5 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ### Positions des variables
 
-* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`5`](../src/invision/error_body.tpl#L5)
 * __[`{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme) :__ ligne [`3`](../src/invision/error_body.tpl#L3)
+* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`5`](../src/invision/error_body.tpl#L5)

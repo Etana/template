@@ -28,15 +28,15 @@
 
 ### Positions des variables
 
+* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme) :__ ligne [`20`](../src/prosilver/mod_search.tpl#L20)
 * __[`{L_SEARCH}`](../var/L_SEARCH.md#readme) :__ ligne [`5`](../src/prosilver/mod_search.tpl#L5)
 * __[`{SEARCH_ADVANCED}`](../var/SEARCH_ADVANCED.md#readme) :__ ligne [`19`](../src/prosilver/mod_search.tpl#L19)
-* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme) :__ ligne [`13`](../src/prosilver/mod_search.tpl#L13)
 * __[`{SEARCH_INSIDE}`](../var/SEARCH_INSIDE.md#readme) :__ ligne [`8`](../src/prosilver/mod_search.tpl#L8)
+* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme) :__ ligne [`14`](../src/prosilver/mod_search.tpl#L14)
+* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme) :__ ligne [`13`](../src/prosilver/mod_search.tpl#L13)
+* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme) :__ ligne [`15`](../src/prosilver/mod_search.tpl#L15)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`6`](../src/prosilver/mod_search.tpl#L6)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`19`](../src/prosilver/mod_search.tpl#L19)
-* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme) :__ ligne [`20`](../src/prosilver/mod_search.tpl#L20)
-* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme) :__ ligne [`15`](../src/prosilver/mod_search.tpl#L15)
-* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme) :__ ligne [`14`](../src/prosilver/mod_search.tpl#L14)
 
 ## Template par défaut phpBB2
 
@@ -44,15 +44,15 @@
 
 ### Positions des variables
 
+* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme) :__ ligne [`20`](../src/subsilver/mod_search.tpl#L20)
 * __[`{L_SEARCH}`](../var/L_SEARCH.md#readme) :__ ligne [`4`](../src/subsilver/mod_search.tpl#L4)
 * __[`{SEARCH_ADVANCED}`](../var/SEARCH_ADVANCED.md#readme) :__ ligne [`19`](../src/subsilver/mod_search.tpl#L19)
-* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme) :__ ligne [`15`](../src/subsilver/mod_search.tpl#L15)
 * __[`{SEARCH_INSIDE}`](../var/SEARCH_INSIDE.md#readme) :__ ligne [`12`](../src/subsilver/mod_search.tpl#L12)
+* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme) :__ ligne [`16`](../src/subsilver/mod_search.tpl#L16)
+* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme) :__ ligne [`15`](../src/subsilver/mod_search.tpl#L15)
+* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme) :__ ligne [`17`](../src/subsilver/mod_search.tpl#L17)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`9`](../src/subsilver/mod_search.tpl#L9)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`19`](../src/subsilver/mod_search.tpl#L19)
-* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme) :__ ligne [`20`](../src/subsilver/mod_search.tpl#L20)
-* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme) :__ ligne [`17`](../src/subsilver/mod_search.tpl#L17)
-* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme) :__ ligne [`16`](../src/subsilver/mod_search.tpl#L16)
 
 ## Template par défaut PunBB
 
@@ -60,15 +60,15 @@
 
 ### Positions des variables
 
+* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme) :__ ligne [`19`](../src/punbb/mod_search.tpl#L19)
 * __[`{L_SEARCH}`](../var/L_SEARCH.md#readme) :__ ligne [`3`](../src/punbb/mod_search.tpl#L3)
 * __[`{SEARCH_ADVANCED}`](../var/SEARCH_ADVANCED.md#readme) :__ ligne [`18`](../src/punbb/mod_search.tpl#L18)
-* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme) :__ ligne [`13`](../src/punbb/mod_search.tpl#L13)
 * __[`{SEARCH_INSIDE}`](../var/SEARCH_INSIDE.md#readme) :__ ligne [`9`](../src/punbb/mod_search.tpl#L9)
+* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme) :__ ligne [`14`](../src/punbb/mod_search.tpl#L14)
+* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme) :__ ligne [`13`](../src/punbb/mod_search.tpl#L13)
+* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme) :__ ligne [`15`](../src/punbb/mod_search.tpl#L15)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`7`](../src/punbb/mod_search.tpl#L7)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`18`](../src/punbb/mod_search.tpl#L18)
-* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme) :__ ligne [`19`](../src/punbb/mod_search.tpl#L19)
-* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme) :__ ligne [`15`](../src/punbb/mod_search.tpl#L15)
-* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme) :__ ligne [`14`](../src/punbb/mod_search.tpl#L14)
 
 ## Template par défaut Invision
 
@@ -76,12 +76,12 @@
 
 ### Positions des variables
 
+* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme) :__ ligne [`21`](../src/invision/mod_search.tpl#L21)
 * __[`{L_SEARCH}`](../var/L_SEARCH.md#readme) :__ ligne [`2`](../src/invision/mod_search.tpl#L2)
 * __[`{SEARCH_ADVANCED}`](../var/SEARCH_ADVANCED.md#readme) :__ ligne [`19`](../src/invision/mod_search.tpl#L19)
-* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme) :__ ligne [`12`](../src/invision/mod_search.tpl#L12)
 * __[`{SEARCH_INSIDE}`](../var/SEARCH_INSIDE.md#readme) :__ ligne [`7`](../src/invision/mod_search.tpl#L7)
+* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme) :__ ligne [`13`](../src/invision/mod_search.tpl#L13)
+* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme) :__ ligne [`12`](../src/invision/mod_search.tpl#L12)
+* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme) :__ ligne [`14`](../src/invision/mod_search.tpl#L14)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`4`](../src/invision/mod_search.tpl#L4)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`19`](../src/invision/mod_search.tpl#L19)
-* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme) :__ ligne [`21`](../src/invision/mod_search.tpl#L21)
-* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme) :__ ligne [`14`](../src/invision/mod_search.tpl#L14)
-* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme) :__ ligne [`13`](../src/invision/mod_search.tpl#L13)

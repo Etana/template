@@ -33,12 +33,12 @@
 
 ### Positions des variables
 
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_view_stats.L_STATS}`](../var/switch_view_stats.L_STATS.md#readme) :__ ligne [`15`](../src/subsilver/simple_footer.tpl#L15)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_view_stats.S_STATS}`](../var/switch_view_stats.S_STATS.md#readme) :__ ligne [`15`](../src/subsilver/simple_footer.tpl#L15)
 * __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/subsilver/simple_footer.tpl#L1)
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`8`](../src/subsilver/simple_footer.tpl#L8)
 * __[`<!-- BEGIN switch_view_stats -->`](../var/switch_view_stats.md#readme) :__ ligne [`14`](../src/subsilver/simple_footer.tpl#L14)
 * __[`<!-- END switch_view_stats -->`](../var/switch_view_stats.md#readme) :__ ligne [`16`](../src/subsilver/simple_footer.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_view_stats.L_STATS}`](../var/switch_view_stats.L_STATS.md#readme) :__ ligne [`15`](../src/subsilver/simple_footer.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_view_stats.S_STATS}`](../var/switch_view_stats.S_STATS.md#readme) :__ ligne [`15`](../src/subsilver/simple_footer.tpl#L15)
 
 ## Template par défaut PunBB
 
