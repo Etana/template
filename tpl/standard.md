@@ -17,4 +17,4 @@
 	* [`<!-- BEGIN not_table_row -->...<!-- END not_table_row -->`](../var/not_table_row.md#readme)
 	* [`{S_SOURCE}`](../var/S_SOURCE.md#readme)
 	* [`<!-- BEGIN table_row -->...<!-- END table_row -->`](../var/table_row.md#readme)
-	* [`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme)
+	* [`  {table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme)

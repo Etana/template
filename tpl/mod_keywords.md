@@ -15,6 +15,6 @@
 * __Variables propres à ce template :__
 	* [`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme)
 	* [`<!-- BEGIN li_row -->...<!-- END li_row -->`](../var/li_row.md#readme)
-	* [`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme)
-	* [`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme)
-	* [`{li_row.SIZE}`](../var/li_row.SIZE.md#readme)
+	* [`  {li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme)
+	* [`  {li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme)
+	* [`  {li_row.SIZE}`](../var/li_row.SIZE.md#readme)
