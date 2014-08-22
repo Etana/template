@@ -9,3 +9,13 @@
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/mod_top_post_users_week)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_top_post_users_week)
+
+## Variables disponibles
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
+	* [`{POSTER.NAME}`](https://github.com/Etana/template/blob/master/var/POSTER.NAME.md#readme)
+	* [`{L_TOP_POST_USERS_WEEK}`](https://github.com/Etana/template/blob/master/var/L_TOP_POST_USERS_WEEK.md#readme)
+	* [`{POSTER.NB_POSTS}`](https://github.com/Etana/template/blob/master/var/POSTER.NB_POSTS.md#readme)
+	* [`{POSTER.BARRE}`](https://github.com/Etana/template/blob/master/var/POSTER.BARRE.md#readme)
+	* [`{POSTER.ROW_CLASS}`](https://github.com/Etana/template/blob/master/var/POSTER.ROW_CLASS.md#readme)
+	* [`{.POSTER}`](https://github.com/Etana/template/blob/master/var/.POSTER.md#readme)

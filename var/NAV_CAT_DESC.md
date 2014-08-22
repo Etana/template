@@ -91,6 +91,8 @@ Affiche le fil d’Ariane.
 * __[`calendar_body`](../tpl/calendar_body.md#readme) :__ lignes [`3`](../src/invision/calendar_body.tpl#L3)[`<->`](../src/invision/calendar_body.tpl#L3-L3)[`3`](../src/invision/calendar_body.tpl#L3)
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`3`](../src/invision/faq_body.tpl#L3)[`<->`](../src/invision/faq_body.tpl#L3-L3)[`3`](../src/invision/faq_body.tpl#L3)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`3`](../src/invision/faq_dhtml.tpl#L3)[`<->`](../src/invision/faq_dhtml.tpl#L3-L3)[`3`](../src/invision/faq_dhtml.tpl#L3)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`3`](../src/invision/groupcp_info_body.tpl#L3)[`<->`](../src/invision/groupcp_info_body.tpl#L3-L3)[`3`](../src/invision/groupcp_info_body.tpl#L3)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`3`](../src/invision/groupcp_user_body.tpl#L3)[`<->`](../src/invision/groupcp_user_body.tpl#L3-L3)[`3`](../src/invision/groupcp_user_body.tpl#L3)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`4`](../src/invision/index_body.tpl#L4)[`<->`](../src/invision/index_body.tpl#L4-L4)[`4`](../src/invision/index_body.tpl#L4)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`3`](../src/invision/memberlist_body.tpl#L3)[`<->`](../src/invision/memberlist_body.tpl#L3-L3)[`3`](../src/invision/memberlist_body.tpl#L3)
 * __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`3`](../src/invision/modcp_move.tpl#L3)[`<->`](../src/invision/modcp_move.tpl#L3-L3)[`3`](../src/invision/modcp_move.tpl#L3)

@@ -9,3 +9,18 @@
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/calendar_overview_topic)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_overview_topic)
+
+## Variables disponibles
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
+	* [`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)
+	* [`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)
+	* [`{NAV_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_DESC.md#readme)
+	* [`{TOPIC_DATE}`](https://github.com/Etana/template/blob/master/var/TOPIC_DATE.md#readme)
+	* [`{.display_forum}`](https://github.com/Etana/template/blob/master/var/.display_forum.md#readme)
+	* [`{L_TOPIC_DATE}`](https://github.com/Etana/template/blob/master/var/L_TOPIC_DATE.md#readme)
+	* [`{MESSAGE}`](https://github.com/Etana/template/blob/master/var/MESSAGE.md#readme)
+	* [`{L_CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/L_CALENDAR_EVENT.md#readme)
+	* [`{L_FORUM}`](https://github.com/Etana/template/blob/master/var/L_FORUM.md#readme)
+	* [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
+	* [`{TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/TOPIC_TITLE.md#readme)

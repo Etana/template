@@ -21,3 +21,6 @@
 ### Version PunBB
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`58`](../src/punbb/groupcp_user_body.tpl#L58)[`<->`](../src/punbb/groupcp_user_body.tpl#L58-L58)[`58`](../src/punbb/groupcp_user_body.tpl#L58)
 
+### Version Invision
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`38`](../src/invision/groupcp_user_body.tpl#L38)[`<->`](../src/invision/groupcp_user_body.tpl#L38-L38)[`38`](../src/invision/groupcp_user_body.tpl#L38)
+

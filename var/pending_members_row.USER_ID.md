@@ -21,3 +21,6 @@ Identifiant numérique du membre sur lequel on boucle.
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`28`](../src/punbb/groupcp_pending_info.tpl#L28)[`<->`](../src/punbb/groupcp_pending_info.tpl#L28-L28)[`28`](../src/punbb/groupcp_pending_info.tpl#L28)
 
+### Version Invision
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`25`](../src/invision/groupcp_pending_info.tpl#L25)[`<->`](../src/invision/groupcp_pending_info.tpl#L25-L25)[`25`](../src/invision/groupcp_pending_info.tpl#L25)
+

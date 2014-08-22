@@ -9,3 +9,12 @@
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/mod_statistics)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_statistics)
+
+## Variables disponibles
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
+	* [`{L_STATISTICS}`](https://github.com/Etana/template/blob/master/var/L_STATISTICS.md#readme)
+	* [`{NEWEST_USER}`](https://github.com/Etana/template/blob/master/var/NEWEST_USER.md#readme)
+	* [`{TOTAL_USERS}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS.md#readme)
+	* [`{TOTAL_TOPICS}`](https://github.com/Etana/template/blob/master/var/TOTAL_TOPICS.md#readme)
+	* [`{TOTAL_POSTS}`](https://github.com/Etana/template/blob/master/var/TOTAL_POSTS.md#readme)

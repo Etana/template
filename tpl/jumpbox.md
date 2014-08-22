@@ -11,3 +11,11 @@
 `Sauter vers un forum`.
 
 Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page sur plusieurs pages de votre forum.
+
+## Variables disponibles
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
+	* [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme)
+	* [`{L_JUMP_TO}`](https://github.com/Etana/template/blob/master/var/L_JUMP_TO.md#readme)
+	* [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme)
+	* [`{L_GO}`](https://github.com/Etana/template/blob/master/var/L_GO.md#readme)

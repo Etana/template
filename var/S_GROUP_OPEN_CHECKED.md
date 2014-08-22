@@ -22,3 +22,6 @@ Chaîne de texte ` checked="checked"` si le groupe est ouvert, chaîne vide sino
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`56`](../src/punbb/groupcp_info_body.tpl#L56)[`<->`](../src/punbb/groupcp_info_body.tpl#L56-L56)[`56`](../src/punbb/groupcp_info_body.tpl#L56)
 
+### Version Invision
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`36`](../src/invision/groupcp_info_body.tpl#L36)[`<->`](../src/invision/groupcp_info_body.tpl#L36-L36)[`36`](../src/invision/groupcp_info_body.tpl#L36)
+

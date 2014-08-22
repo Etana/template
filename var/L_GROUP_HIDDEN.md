@@ -24,3 +24,6 @@ Texte.
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`58`](../src/punbb/groupcp_info_body.tpl#L58)[`<->`](../src/punbb/groupcp_info_body.tpl#L58-L58)[`58`](../src/punbb/groupcp_info_body.tpl#L58)
 
+### Version Invision
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`38`](../src/invision/groupcp_info_body.tpl#L38)[`<->`](../src/invision/groupcp_info_body.tpl#L38-L38)[`38`](../src/invision/groupcp_info_body.tpl#L38)
+

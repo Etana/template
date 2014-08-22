@@ -27,3 +27,6 @@ Image `Message Privé` ( choisie dans [`Index`](http://votre-forum.appspot.com/#
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`106`](../src/punbb/groupcp_info_body.tpl#L106)[`<->`](../src/punbb/groupcp_info_body.tpl#L106-L106)[`106`](../src/punbb/groupcp_info_body.tpl#L106)
 
+### Version Invision
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`82`](../src/invision/groupcp_info_body.tpl#L82)[`<->`](../src/invision/groupcp_info_body.tpl#L82-L82)[`82`](../src/invision/groupcp_info_body.tpl#L82)
+

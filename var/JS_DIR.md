@@ -62,6 +62,7 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`369`](../src/punbb/viewtopic_body.tpl#L369)[`<->`](../src/punbb/viewtopic_body.tpl#L369-L369)[`369`](../src/punbb/viewtopic_body.tpl#L369)
 
 ### Version Invision
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`128`](../src/invision/groupcp_info_body.tpl#L128)[`<->`](../src/invision/groupcp_info_body.tpl#L128-L128)[`128`](../src/invision/groupcp_info_body.tpl#L128)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`23`](../src/invision/overall_header.tpl#L23)[`<->`](../src/invision/overall_header.tpl#L23-L23)[`23`](../src/invision/overall_header.tpl#L23)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`31`](../src/invision/overall_header.tpl#L31)[`<->`](../src/invision/overall_header.tpl#L31-L31)[`31`](../src/invision/overall_header.tpl#L31)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`32`](../src/invision/overall_header.tpl#L32)[`<->`](../src/invision/overall_header.tpl#L32-L32)[`32`](../src/invision/overall_header.tpl#L32)

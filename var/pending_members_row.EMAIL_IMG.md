@@ -27,3 +27,6 @@ Image `E-mail` ( choisie dans [`Index`](http://votre-forum.appspot.com/#/admin/,
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`26`](../src/punbb/groupcp_pending_info.tpl#L26)[`<->`](../src/punbb/groupcp_pending_info.tpl#L26-L26)[`26`](../src/punbb/groupcp_pending_info.tpl#L26)
 
+### Version Invision
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`23`](../src/invision/groupcp_pending_info.tpl#L23)[`<->`](../src/invision/groupcp_pending_info.tpl#L23-L23)[`23`](../src/invision/groupcp_pending_info.tpl#L23)
+

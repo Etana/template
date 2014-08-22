@@ -69,6 +69,8 @@ Chaîne de caractère.
 
 ### Version Invision
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme) :__ lignes [`4`](../src/invision/calendar_overview_profil.tpl#L4)[`<->`](../src/invision/calendar_overview_profil.tpl#L4-L4)[`4`](../src/invision/calendar_overview_profil.tpl#L4)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`55`](../src/invision/groupcp_info_body.tpl#L55)[`<->`](../src/invision/groupcp_info_body.tpl#L55-L55)[`55`](../src/invision/groupcp_info_body.tpl#L55)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`7`](../src/invision/groupcp_pending_info.tpl#L7)[`<->`](../src/invision/groupcp_pending_info.tpl#L7-L7)[`7`](../src/invision/groupcp_pending_info.tpl#L7)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`24`](../src/invision/index_body.tpl#L24)[`<->`](../src/invision/index_body.tpl#L24-L24)[`24`](../src/invision/index_body.tpl#L24)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`173`](../src/invision/index_body.tpl#L173)[`<->`](../src/invision/index_body.tpl#L173-L173)[`173`](../src/invision/index_body.tpl#L173)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`11`](../src/invision/mod_login.tpl#L11)[`<->`](../src/invision/mod_login.tpl#L11-L11)[`11`](../src/invision/mod_login.tpl#L11)

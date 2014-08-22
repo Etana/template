@@ -26,3 +26,6 @@ Texte remplacé en français par `Ce groupe est invisible, vous ne pouvez pas vo
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`122`](../src/punbb/groupcp_info_body.tpl#L122)[`<->`](../src/punbb/groupcp_info_body.tpl#L122-L122)[`122`](../src/punbb/groupcp_info_body.tpl#L122)
 
+### Version Invision
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`98`](../src/invision/groupcp_info_body.tpl#L98)[`<->`](../src/invision/groupcp_info_body.tpl#L98-L98)[`98`](../src/invision/groupcp_info_body.tpl#L98)
+

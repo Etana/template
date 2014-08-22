@@ -9,3 +9,13 @@
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/calendar_overview_profil)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/calendar_overview_profil)
+
+## Variables disponibles
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
+	* [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
+	* [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
+	* [`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)
+	* [`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)
+	* [`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)
+	* [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)

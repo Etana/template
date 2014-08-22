@@ -37,3 +37,7 @@ Chaîne de texte.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`81`](../src/punbb/groupcp_info_body.tpl#L81)[`<->`](../src/punbb/groupcp_info_body.tpl#L81-L81)[`81`](../src/punbb/groupcp_info_body.tpl#L81)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`9`](../src/punbb/groupcp_pending_info.tpl#L9)[`<->`](../src/punbb/groupcp_pending_info.tpl#L9-L9)[`9`](../src/punbb/groupcp_pending_info.tpl#L9)
 
+### Version Invision
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`57`](../src/invision/groupcp_info_body.tpl#L57)[`<->`](../src/invision/groupcp_info_body.tpl#L57-L57)[`57`](../src/invision/groupcp_info_body.tpl#L57)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`9`](../src/invision/groupcp_pending_info.tpl#L9)[`<->`](../src/invision/groupcp_pending_info.tpl#L9-L9)[`9`](../src/invision/groupcp_pending_info.tpl#L9)
+

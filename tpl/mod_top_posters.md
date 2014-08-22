@@ -9,3 +9,13 @@
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/mod_top_posters)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_top_posters)
+
+## Variables disponibles
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
+	* [`{L_TOP_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_TOP_POSTERS.md#readme)
+	* [`{POSTER.NAME}`](https://github.com/Etana/template/blob/master/var/POSTER.NAME.md#readme)
+	* [`{POSTER.NB_POSTS}`](https://github.com/Etana/template/blob/master/var/POSTER.NB_POSTS.md#readme)
+	* [`{POSTER.BARRE}`](https://github.com/Etana/template/blob/master/var/POSTER.BARRE.md#readme)
+	* [`{POSTER.ROW_CLASS}`](https://github.com/Etana/template/blob/master/var/POSTER.ROW_CLASS.md#readme)
+	* [`{.POSTER}`](https://github.com/Etana/template/blob/master/var/.POSTER.md#readme)

@@ -138,6 +138,8 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`2`](../src/invision/calendar_scheduler_body.tpl#L2)[`<->`](../src/invision/calendar_scheduler_body.tpl#L2-L2)[`2`](../src/invision/calendar_scheduler_body.tpl#L2)
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`2`](../src/invision/faq_body.tpl#L2)[`<->`](../src/invision/faq_body.tpl#L2-L2)[`2`](../src/invision/faq_body.tpl#L2)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`2`](../src/invision/faq_dhtml.tpl#L2)[`<->`](../src/invision/faq_dhtml.tpl#L2-L2)[`2`](../src/invision/faq_dhtml.tpl#L2)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`2`](../src/invision/groupcp_info_body.tpl#L2)[`<->`](../src/invision/groupcp_info_body.tpl#L2-L2)[`2`](../src/invision/groupcp_info_body.tpl#L2)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`2`](../src/invision/groupcp_user_body.tpl#L2)[`<->`](../src/invision/groupcp_user_body.tpl#L2-L2)[`2`](../src/invision/groupcp_user_body.tpl#L2)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`3`](../src/invision/index_body.tpl#L3)[`<->`](../src/invision/index_body.tpl#L3-L3)[`3`](../src/invision/index_body.tpl#L3)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`2`](../src/invision/memberlist_body.tpl#L2)[`<->`](../src/invision/memberlist_body.tpl#L2-L2)[`2`](../src/invision/memberlist_body.tpl#L2)
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`2`](../src/invision/merge_body.tpl#L2)[`<->`](../src/invision/merge_body.tpl#L2-L2)[`2`](../src/invision/merge_body.tpl#L2)

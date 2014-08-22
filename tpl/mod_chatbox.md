@@ -9,3 +9,8 @@
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/mod_chatbox)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/mod_chatbox)
+
+## Variables disponibles
+* [__Variables globales__](../../variables_globales.md#readme)
+* __Variables propres à ce template :__
+	* [`{U_FRAME_CHATBOX}`](https://github.com/Etana/template/blob/master/var/U_FRAME_CHATBOX.md#readme)
