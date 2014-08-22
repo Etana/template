@@ -37,7 +37,7 @@
 	* [`{PAGINATION}`](../var/PAGINATION.md#readme)
 	* [`{STYLE_CSS}`](../var/STYLE_CSS.md#readme)
 	* [`<!-- BEGIN switch_search_results -->...<!-- END switch_search_results -->`](../var/switch_search_results.md#readme)
-	* 	[`<!-- BEGIN search_results -->...<!-- END search_results -->`](../var/switch_search_results.search_results.md#readme)
+	* [`	<!-- BEGIN search_results -->...<!-- END search_results -->`](../var/switch_search_results.search_results.md#readme)
 	* [`{switch_search_results.search_results.DESC}`](../var/switch_search_results.search_results.DESC.md#readme)
 	* [`{switch_search_results.search_results.L_CAT}`](../var/switch_search_results.search_results.L_CAT.md#readme)
 	* [`{switch_search_results.search_results.L_PIC}`](../var/switch_search_results.search_results.L_PIC.md#readme)

@@ -34,7 +34,7 @@
 	* [`{NAV_SEPARATOR}`](../var/NAV_SEPARATOR.md#readme)
 	* [`{PAGINATION}`](../var/PAGINATION.md#readme)
 	* [`<!-- BEGIN row -->...<!-- END row -->`](../var/row.md#readme)
-	* 	[`<!-- BEGIN cell -->...<!-- END cell -->`](../var/row.cell.md#readme)
+	* [`	<!-- BEGIN cell -->...<!-- END cell -->`](../var/row.cell.md#readme)
 	* [`{row.cell.CLASS}`](../var/row.cell.CLASS.md#readme)
 	* [`{row.cell.CLASS_NEW}`](../var/row.cell.CLASS_NEW.md#readme)
 	* [`{row.cell.DAY}`](../var/row.cell.DAY.md#readme)

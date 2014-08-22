@@ -18,7 +18,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
 	* [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](../var/faq_block.md#readme)
 	* [`{faq_block.BLOCK_TITLE}`](../var/faq_block.BLOCK_TITLE.md#readme)
-	* 	[`<!-- BEGIN faq_row -->...<!-- END faq_row -->`](../var/faq_block.faq_row.md#readme)
+	* [`	<!-- BEGIN faq_row -->...<!-- END faq_row -->`](../var/faq_block.faq_row.md#readme)
 	* [`{faq_block.faq_row.FAQ_ANSWER}`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme)
 	* [`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)
 	* [`{faq_block.faq_row.ROW_CLASS}`](../var/faq_block.faq_row.ROW_CLASS.md#readme)

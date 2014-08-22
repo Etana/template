@@ -21,7 +21,7 @@
 	* [`{S_CONTENT_ENCODING}`](../var/S_CONTENT_ENCODING.md#readme)
 	* [`{SELECT_OPTIONS}`](../var/SELECT_OPTIONS.md#readme)
 	* [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](../var/smilies_row.md#readme)
-	* 	[`<!-- BEGIN smilies_col -->...<!-- END smilies_col -->`](../var/smilies_row.smilies_col.md#readme)
+	* [`	<!-- BEGIN smilies_col -->...<!-- END smilies_col -->`](../var/smilies_row.smilies_col.md#readme)
 	* [`{smilies_row.smilies_col.SMILEY_CODE}`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme)
 	* [`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme)
 	* [`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme)
