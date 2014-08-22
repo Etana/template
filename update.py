@@ -232,10 +232,10 @@ def var2text(var, vtype):
         levels = var.split('.')
         return ((len(levels)-1)*'&nbsp;'*4)+'[`<!-- END '+levels[-1]+' -->`]'
 
-def var2links(var, types):
+def var2links(var, types, prefix='../'):
     links = []
     for vtype in types:
-        links += [var2text(var,vtype)+'(../var/'+var+'.md#readme)']
+        links += [var2text(var,vtype)+'('+prefix+'var/'+var+'.md#readme)']
     return links
 
 '''Write one file by template'''
@@ -273,7 +273,7 @@ def guess_type(var_name):
 with open(script_dir+'/variables.md', 'w') as f:
     f.write('# Variables de template\n* [Variables avec description](variables_avec_description.md#readme)\n* [Variables sans description](variables_sans_description.md#readme)\n\n### Liste de toutes les variables')
     for var_name in sorted(variables, key=str.lower):
-        for link in var2links(var_name, guess_type(var_name)):
+        for link in var2links(var_name, guess_type(var_name), ''):
             f.write('\n* '+link)
 
 '''Write file for whole variables without description list'''
@@ -282,7 +282,7 @@ with open(script_dir+'/variables_sans_description.md', 'w') as f:
     for var_name in sorted(variables, key=str.lower):
         if var_name in var_desc:
             continue
-        for link in var2links(var_name, guess_type(var_name)):
+        for link in var2links(var_name, guess_type(var_name), ''):
             f.write('\n* '+link)
 
 
@@ -292,12 +292,12 @@ with open(script_dir+'/variables_avec_description.md', 'w') as f:
     for var_name in sorted(variables, key=str.lower):
         if var_name not in var_desc:
             continue
-        for link in var2links(var_name, guess_type(var_name)):
+        for link in var2links(var_name, guess_type(var_name), ''):
             f.write('\n* '+link)
 
 '''Write file for globals variables list'''
 with open(script_dir+'/variables_globales.md', 'w') as f:
     f.write('# Variables de template globales\n*Variables qui sont utilisables sur tout les templates.*')
     for var_name in sorted(var_globales, key=str.lower):
-        for link in var2links(var_name, guess_type(var_name)):
+        for link in var2links(var_name, guess_type(var_name), ''):
             f.write('\n* '+link)     
