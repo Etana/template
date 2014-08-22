@@ -14,8 +14,8 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{AGE}`](https://github.com/Etana/template/blob/master/var/AGE.md#readme)
-	* [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
-	* [`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)
-	* [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
 	* [`{AVATAR}`](https://github.com/Etana/template/blob/master/var/AVATAR.md#readme)
+	* [`{L_AGE}`](https://github.com/Etana/template/blob/master/var/L_AGE.md#readme)
+	* [`{L_TITLE}`](https://github.com/Etana/template/blob/master/var/L_TITLE.md#readme)
 	* [`{L_USERNAME}`](https://github.com/Etana/template/blob/master/var/L_USERNAME.md#readme)
+	* [`{TXT_CLASS}`](https://github.com/Etana/template/blob/master/var/TXT_CLASS.md#readme)
