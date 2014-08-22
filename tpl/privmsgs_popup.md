@@ -13,7 +13,7 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
+	* [`{.html_validation}`](https://github.com/Etana/template/blob/master/var/.html_validation.md#readme)
 	* [`{L_MESSAGE}`](https://github.com/Etana/template/blob/master/var/L_MESSAGE.md#readme)
 	* [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
 	* [`{U_PRIVATEMSGS}`](https://github.com/Etana/template/blob/master/var/U_PRIVATEMSGS.md#readme)
-	* [`{.html_validation}`](https://github.com/Etana/template/blob/master/var/.html_validation.md#readme)

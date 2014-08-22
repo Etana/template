@@ -13,5 +13,5 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{POLL_DISPLAY}`](https://github.com/Etana/template/blob/master/var/POLL_DISPLAY.md#readme)
 	* [`{L_POLL}`](https://github.com/Etana/template/blob/master/var/L_POLL.md#readme)
+	* [`{POLL_DISPLAY}`](https://github.com/Etana/template/blob/master/var/POLL_DISPLAY.md#readme)
