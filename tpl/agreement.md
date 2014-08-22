@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `agreement`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/agreement)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/agreement)
+`Affichage des conditions d'inscription à votre forum`.
+
+Ce template touche la partie s'enregistrer de votre forum : `/register`

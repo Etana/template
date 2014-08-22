@@ -23,6 +23,3 @@ Chemin absolu vers le profil du membre sur lequel on boucle.
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`23`](../src/punbb/groupcp_pending_info.tpl#L23)[`<->`](../src/punbb/groupcp_pending_info.tpl#L23-L23)[`23`](../src/punbb/groupcp_pending_info.tpl#L23)
 
-### Version Invision
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`20`](../src/invision/groupcp_pending_info.tpl#L20)[`<->`](../src/invision/groupcp_pending_info.tpl#L20-L20)[`20`](../src/invision/groupcp_pending_info.tpl#L20)
-

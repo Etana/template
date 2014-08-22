@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_results_posts`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/search_results_posts)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/search_results_posts)
+`Résultats de recherche par messages`.
+
+Ce template touche la page des résultats de la recherche par messages d'un membre : `/spa/Pseudo`

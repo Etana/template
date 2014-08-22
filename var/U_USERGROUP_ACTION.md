@@ -18,6 +18,3 @@
 ### Version phpBB2
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`30`](../src/subsilver/groupcp_user_body.tpl#L30)[`<->`](../src/subsilver/groupcp_user_body.tpl#L30-L30)[`30`](../src/subsilver/groupcp_user_body.tpl#L30)
 
-### Version Invision
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`37`](../src/invision/groupcp_user_body.tpl#L37)[`<->`](../src/invision/groupcp_user_body.tpl#L37-L37)[`37`](../src/invision/groupcp_user_body.tpl#L37)
-

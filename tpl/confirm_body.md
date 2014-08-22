@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `confirm_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/confirm_body)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/confirm_body)
+`Page type pour les demandes de confirmation`.
+
+Ce template touche toutes les demandes de confirmation comme le bannissement d'un membre, la suppression de messages et sujets, ...

@@ -97,9 +97,6 @@ Champs non visible du formulaire.
 ### Version Invision
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`42`](../src/invision/calendar_scheduler_body.tpl#L42)[`<->`](../src/invision/calendar_scheduler_body.tpl#L42-L42)[`42`](../src/invision/calendar_scheduler_body.tpl#L42)
 * __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`10`](../src/invision/confirm_body.tpl#L10)[`<->`](../src/invision/confirm_body.tpl#L10-L10)[`10`](../src/invision/confirm_body.tpl#L10)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`42`](../src/invision/groupcp_info_body.tpl#L42)[`<->`](../src/invision/groupcp_info_body.tpl#L42-L42)[`42`](../src/invision/groupcp_info_body.tpl#L42)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`113`](../src/invision/groupcp_info_body.tpl#L113)[`<->`](../src/invision/groupcp_info_body.tpl#L113-L113)[`113`](../src/invision/groupcp_info_body.tpl#L113)
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`44`](../src/invision/groupcp_user_body.tpl#L44)[`<->`](../src/invision/groupcp_user_body.tpl#L44-L44)[`44`](../src/invision/groupcp_user_body.tpl#L44)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`27`](../src/invision/index_body.tpl#L27)[`<->`](../src/invision/index_body.tpl#L27-L27)[`27`](../src/invision/index_body.tpl#L27)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`176`](../src/invision/index_body.tpl#L176)[`<->`](../src/invision/index_body.tpl#L176-L176)[`176`](../src/invision/index_body.tpl#L176)
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`38`](../src/invision/merge_body.tpl#L38)[`<->`](../src/invision/merge_body.tpl#L38-L38)[`38`](../src/invision/merge_body.tpl#L38)

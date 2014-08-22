@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/search_body)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/search_body)
+`Page de recherche`.
+
+Ce template affiche la page de recherche de votre forum : `/search`

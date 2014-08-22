@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `index_box`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/index_box)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/index_box)
+`Page d'accueil - affichage des catégories`.
+
+Ce template affiche les catégories, les forums et les sous-forums de votre forum.

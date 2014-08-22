@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_results_topics`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/search_results_topics)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/search_results_topics)
+`Résultats de recherche par sujets`.
+
+Ce template touche la page des résultats de la recherche par sujets d'un membre : `/sta/Pseudo` et la configuration de vos sujets surveillés : `/search?search_id=watchsearch`

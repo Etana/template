@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `overall_header`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/overall_header)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/overall_header)
+`Haut de page`.
+
+Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le début du BODY reprenant le haut de votre forum (logo, titre et description, barre de navigation, ...).

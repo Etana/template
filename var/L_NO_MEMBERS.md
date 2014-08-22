@@ -21,6 +21,3 @@ Texte `Ce groupe n'a pas de membres` si le groupe n'a pas de membre autre que le
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`117`](../src/punbb/groupcp_info_body.tpl#L117)[`<->`](../src/punbb/groupcp_info_body.tpl#L117-L117)[`117`](../src/punbb/groupcp_info_body.tpl#L117)
 
-### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`93`](../src/invision/groupcp_info_body.tpl#L93)[`<->`](../src/invision/groupcp_info_body.tpl#L93-L93)[`93`](../src/invision/groupcp_info_body.tpl#L93)
-

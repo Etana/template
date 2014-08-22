@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `index_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/index_body)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/index_body)
+`Page d'accueil`.
+
+Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que le qui est en ligne de votre forum : `/forum`

@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `memberlist_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/memberlist_body)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/memberlist_body)
+`Liste des membres`.
+
+Ce template affiche la liste des membres de votre forum : `/memberlist`

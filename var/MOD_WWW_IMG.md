@@ -28,6 +28,3 @@ Image `Visiter le site web du posteur` ( choisie dans [`Index`](http://votre-for
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`98`](../src/punbb/groupcp_info_body.tpl#L98)[`<->`](../src/punbb/groupcp_info_body.tpl#L98-L98)[`98`](../src/punbb/groupcp_info_body.tpl#L98)
 
-### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`74`](../src/invision/groupcp_info_body.tpl#L74)[`<->`](../src/invision/groupcp_info_body.tpl#L74-L74)[`74`](../src/invision/groupcp_info_body.tpl#L74)
-

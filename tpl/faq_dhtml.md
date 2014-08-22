@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `faq_dhtml`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/faq_dhtml)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/faq_dhtml)
+`Faq version dhtml`.
+
+Ce template touche la Foire Aux Questions de votre forum si le JavaScript est activé et autorisé : `/faq`

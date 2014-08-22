@@ -22,6 +22,3 @@ Valeur du champ `Localisation` du modérateur de groupe.
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`96`](../src/punbb/groupcp_info_body.tpl#L96)[`<->`](../src/punbb/groupcp_info_body.tpl#L96-L96)[`96`](../src/punbb/groupcp_info_body.tpl#L96)
 
-### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`72`](../src/invision/groupcp_info_body.tpl#L72)[`<->`](../src/invision/groupcp_info_body.tpl#L72-L72)[`72`](../src/invision/groupcp_info_body.tpl#L72)
-

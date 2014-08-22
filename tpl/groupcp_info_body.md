@@ -8,4 +8,4 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Groupes` > `groupcp_info_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/groupcp_info_body)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/groupcp_info_body)
+Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.

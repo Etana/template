@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `jumpbox`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/jumpbox)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/jumpbox)
+`Sauter vers un forum`.
+
+Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page sur plusieurs pages de votre forum.

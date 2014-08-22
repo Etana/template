@@ -8,4 +8,6 @@
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `viewforum_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/viewforum_body)
-[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewforum_body)
+`Affichage d'un forum`.
+
+Ce template affiche les forums : `/fX-`

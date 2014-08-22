@@ -22,7 +22,3 @@ Chaîne de caractère.
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`18`](../src/punbb/groupcp_user_body.tpl#L18)[`<->`](../src/punbb/groupcp_user_body.tpl#L18-L18)[`18`](../src/punbb/groupcp_user_body.tpl#L18)
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`41`](../src/punbb/groupcp_user_body.tpl#L41)[`<->`](../src/punbb/groupcp_user_body.tpl#L41-L41)[`41`](../src/punbb/groupcp_user_body.tpl#L41)
 
-### Version Invision
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`4`](../src/invision/groupcp_user_body.tpl#L4)[`<->`](../src/invision/groupcp_user_body.tpl#L4-L4)[`4`](../src/invision/groupcp_user_body.tpl#L4)
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`23`](../src/invision/groupcp_user_body.tpl#L23)[`<->`](../src/invision/groupcp_user_body.tpl#L23-L23)[`23`](../src/invision/groupcp_user_body.tpl#L23)
-
