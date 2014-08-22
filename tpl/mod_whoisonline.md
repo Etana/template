@@ -17,6 +17,67 @@
 	* [`{L_WHO_IS_ONLINE}`](../var/L_WHO_IS_ONLINE.md#readme)
 	* [`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)
 	* [`{RECORD_USERS}`](../var/RECORD_USERS.md#readme)
-	* [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme)
+	* [`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme)
+	* [`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme)
 	* [`{TOTAL_USERS_ONLINE}`](../var/TOTAL_USERS_ONLINE.md#readme)
 	* [`{U_VIEWONLINE}`](../var/U_VIEWONLINE.md#readme)
+
+## Template par défaut phpBB3
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{TOTAL_USERS_ONLINE}`]`](../var/TOTAL_USERS_ONLINE.md#readme) :__ ligne [`5`](../src/prosilver/mod_whoisonline.tpl#L5)
+* __[`[`{LOGGED_IN_USER_LIST}`]`](../var/LOGGED_IN_USER_LIST.md#readme) :__ ligne [`6`](../src/prosilver/mod_whoisonline.tpl#L6)
+* __[`[`{L_VIEW_COMPLETE_LIST}`]`](../var/L_VIEW_COMPLETE_LIST.md#readme) :__ ligne [`8`](../src/prosilver/mod_whoisonline.tpl#L8)
+* __[`[`<!-- BEGIN switch_onlinelink -->`]`](../var/switch_onlinelink.md#readme) :__ ligne [`7`](../src/prosilver/mod_whoisonline.tpl#L7)
+* __[`[`<!-- END switch_onlinelink -->`]`](../var/switch_onlinelink.md#readme) :__ ligne [`10`](../src/prosilver/mod_whoisonline.tpl#L10)
+* __[`[`{L_WHO_IS_ONLINE}`]`](../var/L_WHO_IS_ONLINE.md#readme) :__ ligne [`4`](../src/prosilver/mod_whoisonline.tpl#L4)
+* __[`[`{U_VIEWONLINE}`]`](../var/U_VIEWONLINE.md#readme) :__ ligne [`8`](../src/prosilver/mod_whoisonline.tpl#L8)
+* __[`[`{RECORD_USERS}`]`](../var/RECORD_USERS.md#readme) :__ ligne [`11`](../src/prosilver/mod_whoisonline.tpl#L11)
+
+## Template par défaut phpBB2
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{TOTAL_USERS_ONLINE}`]`](../var/TOTAL_USERS_ONLINE.md#readme) :__ ligne [`9`](../src/subsilver/mod_whoisonline.tpl#L9)
+* __[`[`{LOGGED_IN_USER_LIST}`]`](../var/LOGGED_IN_USER_LIST.md#readme) :__ ligne [`11`](../src/subsilver/mod_whoisonline.tpl#L11)
+* __[`[`{L_VIEW_COMPLETE_LIST}`]`](../var/L_VIEW_COMPLETE_LIST.md#readme) :__ ligne [`15`](../src/subsilver/mod_whoisonline.tpl#L15)
+* __[`[`<!-- BEGIN switch_onlinelink -->`]`](../var/switch_onlinelink.md#readme) :__ ligne [`13`](../src/subsilver/mod_whoisonline.tpl#L13)
+* __[`[`<!-- END switch_onlinelink -->`]`](../var/switch_onlinelink.md#readme) :__ ligne [`17`](../src/subsilver/mod_whoisonline.tpl#L17)
+* __[`[`{L_WHO_IS_ONLINE}`]`](../var/L_WHO_IS_ONLINE.md#readme) :__ ligne [`4`](../src/subsilver/mod_whoisonline.tpl#L4)
+* __[`[`{U_VIEWONLINE}`]`](../var/U_VIEWONLINE.md#readme) :__ ligne [`15`](../src/subsilver/mod_whoisonline.tpl#L15)
+* __[`[`{RECORD_USERS}`]`](../var/RECORD_USERS.md#readme) :__ ligne [`19`](../src/subsilver/mod_whoisonline.tpl#L19)
+
+## Template par défaut PunBB
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{TOTAL_USERS_ONLINE}`]`](../var/TOTAL_USERS_ONLINE.md#readme) :__ ligne [`4`](../src/punbb/mod_whoisonline.tpl#L4)
+* __[`[`{LOGGED_IN_USER_LIST}`]`](../var/LOGGED_IN_USER_LIST.md#readme) :__ ligne [`5`](../src/punbb/mod_whoisonline.tpl#L5)
+* __[`[`{L_VIEW_COMPLETE_LIST}`]`](../var/L_VIEW_COMPLETE_LIST.md#readme) :__ ligne [`7`](../src/punbb/mod_whoisonline.tpl#L7)
+* __[`[`<!-- BEGIN switch_onlinelink -->`]`](../var/switch_onlinelink.md#readme) :__ ligne [`6`](../src/punbb/mod_whoisonline.tpl#L6)
+* __[`[`<!-- END switch_onlinelink -->`]`](../var/switch_onlinelink.md#readme) :__ ligne [`9`](../src/punbb/mod_whoisonline.tpl#L9)
+* __[`[`{L_WHO_IS_ONLINE}`]`](../var/L_WHO_IS_ONLINE.md#readme) :__ ligne [`2`](../src/punbb/mod_whoisonline.tpl#L2)
+* __[`[`{U_VIEWONLINE}`]`](../var/U_VIEWONLINE.md#readme) :__ ligne [`7`](../src/punbb/mod_whoisonline.tpl#L7)
+* __[`[`{RECORD_USERS}`]`](../var/RECORD_USERS.md#readme) :__ ligne [`10`](../src/punbb/mod_whoisonline.tpl#L10)
+
+## Template par défaut Invision
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{TOTAL_USERS_ONLINE}`]`](../var/TOTAL_USERS_ONLINE.md#readme) :__ ligne [`4`](../src/invision/mod_whoisonline.tpl#L4)
+* __[`[`{LOGGED_IN_USER_LIST}`]`](../var/LOGGED_IN_USER_LIST.md#readme) :__ ligne [`5`](../src/invision/mod_whoisonline.tpl#L5)
+* __[`[`{L_VIEW_COMPLETE_LIST}`]`](../var/L_VIEW_COMPLETE_LIST.md#readme) :__ ligne [`8`](../src/invision/mod_whoisonline.tpl#L8)
+* __[`[`<!-- BEGIN switch_onlinelink -->`]`](../var/switch_onlinelink.md#readme) :__ ligne [`7`](../src/invision/mod_whoisonline.tpl#L7)
+* __[`[`<!-- END switch_onlinelink -->`]`](../var/switch_onlinelink.md#readme) :__ ligne [`10`](../src/invision/mod_whoisonline.tpl#L10)
+* __[`[`{L_WHO_IS_ONLINE}`]`](../var/L_WHO_IS_ONLINE.md#readme) :__ ligne [`2`](../src/invision/mod_whoisonline.tpl#L2)
+* __[`[`{U_VIEWONLINE}`]`](../var/U_VIEWONLINE.md#readme) :__ ligne [`8`](../src/invision/mod_whoisonline.tpl#L8)
+* __[`[`{RECORD_USERS}`]`](../var/RECORD_USERS.md#readme) :__ ligne [`11`](../src/invision/mod_whoisonline.tpl#L11)

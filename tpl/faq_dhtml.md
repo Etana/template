@@ -16,9 +16,11 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
-	* [`<!-- BEGIN faq_block -->...<!-- END faq_block -->`](../var/faq_block.md#readme)
+	* [`<!-- BEGIN faq_block -->`](../var/faq_block.md#readme)
+	* [`<!-- END faq_block -->`](../var/faq_block.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`](../var/faq_block.BLOCK_TITLE.md#readme)
-	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->...<!-- END faq_row -->`](../var/faq_block.faq_row.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`](../var/faq_block.faq_row.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row -->`](../var/faq_block.faq_row.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.ROW_CLASS}`](../var/faq_block.faq_row.ROW_CLASS.md#readme)
@@ -38,10 +40,122 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)
 	* [`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)
-	* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
-	* [`<!-- BEGIN switch_user_logged_out -->...<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
+	* [`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
+	* [`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
+	* [`<!-- BEGIN switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
+	* [`<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)
 	* [`{U_CFAQ_JSLIB}`](../var/U_CFAQ_JSLIB.md#readme)
 	* [`{U_INDEX}`](../var/U_INDEX.md#readme)
 	* [`{U_SEARCH_NEW}`](../var/U_SEARCH_NEW.md#readme)
 	* [`{U_SEARCH_SELF}`](../var/U_SEARCH_SELF.md#readme)
 	* [`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)
+
+## Template par défaut phpBB3
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{S_JUMPBOX_SELECT}`]`](../var/S_JUMPBOX_SELECT.md#readme) :__ ligne [`30`](../src/prosilver/faq_dhtml.tpl#L30)
+* __[`[`{LAST_VISIT_DATE}`]`](../var/LAST_VISIT_DATE.md#readme) :__ ligne [`1`](../src/prosilver/faq_dhtml.tpl#L1)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`20`](../src/prosilver/faq_dhtml.tpl#L20)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`21`](../src/prosilver/faq_dhtml.tpl#L21)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`23`](../src/prosilver/faq_dhtml.tpl#L23)
+* __[`[`<!-- BEGIN switch_user_logged_in -->`]`](../var/switch_user_logged_in.md#readme) :__ ligne [`1`](../src/prosilver/faq_dhtml.tpl#L1)
+* __[`[`<!-- END switch_user_logged_in -->`]`](../var/switch_user_logged_in.md#readme) :__ ligne [`1`](../src/prosilver/faq_dhtml.tpl#L1)
+* __[`[`{L_FAQ_TITLE}`]`](../var/L_FAQ_TITLE.md#readme) :__ ligne [`13`](../src/prosilver/faq_dhtml.tpl#L13)
+* __[`[`{L_CFAQ_NOSCRIPT}`]`](../var/L_CFAQ_NOSCRIPT.md#readme) :__ ligne [`8`](../src/prosilver/faq_dhtml.tpl#L8)
+* __[`[`{CURRENT_TIME}`]`](../var/CURRENT_TIME.md#readme) :__ ligne [`2`](../src/prosilver/faq_dhtml.tpl#L2)
+* __[`[`<!-- BEGIN faq_block -->`]`](../var/faq_block.md#readme) :__ ligne [`14`](../src/prosilver/faq_dhtml.tpl#L14)
+* __[`[`<!-- END faq_block -->`]`](../var/faq_block.md#readme) :__ ligne [`28`](../src/prosilver/faq_dhtml.tpl#L28)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`]`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme) :__ ligne [`23`](../src/prosilver/faq_dhtml.tpl#L23)
+* __[`[`{U_CFAQ_JSLIB}`]`](../var/U_CFAQ_JSLIB.md#readme) :__ ligne [`4`](../src/prosilver/faq_dhtml.tpl#L4)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`]`](../var/faq_block.BLOCK_TITLE.md#readme) :__ ligne [`18`](../src/prosilver/faq_dhtml.tpl#L18)
+* __[`[`{S_JUMPBOX_ACTION}`]`](../var/S_JUMPBOX_ACTION.md#readme) :__ ligne [`29`](../src/prosilver/faq_dhtml.tpl#L29)
+* __[`[`{L_JUMP_TO}`]`](../var/L_JUMP_TO.md#readme) :__ ligne [`30`](../src/prosilver/faq_dhtml.tpl#L30)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`]`](../var/faq_block.faq_row.md#readme) :__ ligne [`19`](../src/prosilver/faq_dhtml.tpl#L19)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row -->`]`](../var/faq_block.faq_row.md#readme) :__ ligne [`24`](../src/prosilver/faq_dhtml.tpl#L24)
+* __[`[`{L_GO}`]`](../var/L_GO.md#readme) :__ ligne [`30`](../src/prosilver/faq_dhtml.tpl#L30)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`]`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme) :__ ligne [`21`](../src/prosilver/faq_dhtml.tpl#L21)
+
+## Template par défaut phpBB2
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`32`](../src/subsilver/faq_dhtml.tpl#L32)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`34`](../src/subsilver/faq_dhtml.tpl#L34)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`39`](../src/subsilver/faq_dhtml.tpl#L39)
+* __[`[`{L_FAQ_TITLE}`]`](../var/L_FAQ_TITLE.md#readme) :__ ligne [`19`](../src/subsilver/faq_dhtml.tpl#L19)
+* __[`[`{L_CFAQ_NOSCRIPT}`]`](../var/L_CFAQ_NOSCRIPT.md#readme) :__ ligne [`6`](../src/subsilver/faq_dhtml.tpl#L6)
+* __[`[`<!-- BEGIN faq_block -->`]`](../var/faq_block.md#readme) :__ ligne [`24`](../src/subsilver/faq_dhtml.tpl#L24)
+* __[`[`<!-- END faq_block -->`]`](../var/faq_block.md#readme) :__ ligne [`53`](../src/subsilver/faq_dhtml.tpl#L53)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`]`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme) :__ ligne [`43`](../src/subsilver/faq_dhtml.tpl#L43)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.ROW_CLASS}`]`](../var/faq_block.faq_row.ROW_CLASS.md#readme) :__ ligne [`31`](../src/subsilver/faq_dhtml.tpl#L31)
+* __[`[`{U_CFAQ_JSLIB}`]`](../var/U_CFAQ_JSLIB.md#readme) :__ ligne [`1`](../src/subsilver/faq_dhtml.tpl#L1)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`]`](../var/faq_block.BLOCK_TITLE.md#readme) :__ ligne [`27`](../src/subsilver/faq_dhtml.tpl#L27)
+* __[`[`{U_INDEX}`]`](../var/U_INDEX.md#readme) :__ ligne [`13`](../src/subsilver/faq_dhtml.tpl#L13)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`]`](../var/faq_block.faq_row.md#readme) :__ ligne [`29`](../src/subsilver/faq_dhtml.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row -->`]`](../var/faq_block.faq_row.md#readme) :__ ligne [`50`](../src/subsilver/faq_dhtml.tpl#L50)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`]`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme) :__ ligne [`35`](../src/subsilver/faq_dhtml.tpl#L35)
+* __[`[`{L_INDEX}`]`](../var/L_INDEX.md#readme) :__ ligne [`13`](../src/subsilver/faq_dhtml.tpl#L13)
+* __[`[`{JUMPBOX}`]`](../var/JUMPBOX.md#readme) :__ ligne [`59`](../src/subsilver/faq_dhtml.tpl#L59)
+
+## Template par défaut PunBB
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{LAST_VISIT_DATE}`]`](../var/LAST_VISIT_DATE.md#readme) :__ ligne [`7`](../src/punbb/faq_dhtml.tpl#L7)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`36`](../src/punbb/faq_dhtml.tpl#L36)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`37`](../src/punbb/faq_dhtml.tpl#L37)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`39`](../src/punbb/faq_dhtml.tpl#L39)
+* __[`[`<!-- BEGIN switch_user_logged_in -->`]`](../var/switch_user_logged_in.md#readme) :__ ligne [`1`](../src/punbb/faq_dhtml.tpl#L1)
+* __[`[`<!-- END switch_user_logged_in -->`]`](../var/switch_user_logged_in.md#readme) :__ ligne [`9`](../src/punbb/faq_dhtml.tpl#L9)
+* __[`[`{L_FAQ_TITLE}`]`](../var/L_FAQ_TITLE.md#readme) :__ ligne [`17`](../src/punbb/faq_dhtml.tpl#L17)
+* __[`[`<!-- BEGIN switch_user_logged_out -->`]`](../var/switch_user_logged_out.md#readme) :__ ligne [`10`](../src/punbb/faq_dhtml.tpl#L10)
+* __[`[`<!-- END switch_user_logged_out -->`]`](../var/switch_user_logged_out.md#readme) :__ ligne [`14`](../src/punbb/faq_dhtml.tpl#L14)
+* __[`[`{L_CFAQ_NOSCRIPT}`]`](../var/L_CFAQ_NOSCRIPT.md#readme) :__ ligne [`23`](../src/punbb/faq_dhtml.tpl#L23)
+* __[`[`<!-- BEGIN faq_block -->`]`](../var/faq_block.md#readme) :__ ligne [`28`](../src/punbb/faq_dhtml.tpl#L28)
+* __[`[`<!-- END faq_block -->`]`](../var/faq_block.md#readme) :__ ligne [`43`](../src/punbb/faq_dhtml.tpl#L43)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`]`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme) :__ ligne [`39`](../src/punbb/faq_dhtml.tpl#L39)
+* __[`[`{L_NOT_CONNECTED}`]`](../var/L_NOT_CONNECTED.md#readme) :__ ligne [`12`](../src/punbb/faq_dhtml.tpl#L12)
+* __[`[`{L_SEARCH_NEW}`]`](../var/L_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/faq_dhtml.tpl#L4)
+* __[`[`{U_SEARCH_SELF}`]`](../var/U_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/faq_dhtml.tpl#L5)
+* __[`[`{L_LOGIN_REGISTER}`]`](../var/L_LOGIN_REGISTER.md#readme) :__ ligne [`12`](../src/punbb/faq_dhtml.tpl#L12)
+* __[`[`{U_CFAQ_JSLIB}`]`](../var/U_CFAQ_JSLIB.md#readme) :__ ligne [`20`](../src/punbb/faq_dhtml.tpl#L20)
+* __[`[`{LOGGED_AS}`]`](../var/LOGGED_AS.md#readme) :__ ligne [`7`](../src/punbb/faq_dhtml.tpl#L7)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`]`](../var/faq_block.BLOCK_TITLE.md#readme) :__ ligne [`31`](../src/punbb/faq_dhtml.tpl#L31)
+* __[`[`{U_SEARCH_NEW}`]`](../var/U_SEARCH_NEW.md#readme) :__ ligne [`4`](../src/punbb/faq_dhtml.tpl#L4)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`]`](../var/faq_block.faq_row.md#readme) :__ ligne [`35`](../src/punbb/faq_dhtml.tpl#L35)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row -->`]`](../var/faq_block.faq_row.md#readme) :__ ligne [`40`](../src/punbb/faq_dhtml.tpl#L40)
+* __[`[`{U_VIEW_FORUM}`]`](../var/U_VIEW_FORUM.md#readme) :__ ligne [`17`](../src/punbb/faq_dhtml.tpl#L17)
+* __[`[`{L_SEARCH_SELF}`]`](../var/L_SEARCH_SELF.md#readme) :__ ligne [`5`](../src/punbb/faq_dhtml.tpl#L5)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`]`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme) :__ ligne [`37`](../src/punbb/faq_dhtml.tpl#L37)
+* __[`[`{L_INDEX}`]`](../var/L_INDEX.md#readme) :__ ligne [`17`](../src/punbb/faq_dhtml.tpl#L17)
+
+## Template par défaut Invision
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`21`](../src/invision/faq_dhtml.tpl#L21)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`22`](../src/invision/faq_dhtml.tpl#L22)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`]`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`24`](../src/invision/faq_dhtml.tpl#L24)
+* __[`[`{L_FAQ_TITLE}`]`](../var/L_FAQ_TITLE.md#readme) :__ ligne [`4`](../src/invision/faq_dhtml.tpl#L4)
+* __[`[`{L_FAQ_TITLE}`]`](../var/L_FAQ_TITLE.md#readme) :__ ligne [`15`](../src/invision/faq_dhtml.tpl#L15)
+* __[`[`{L_CFAQ_NOSCRIPT}`]`](../var/L_CFAQ_NOSCRIPT.md#readme) :__ ligne [`11`](../src/invision/faq_dhtml.tpl#L11)
+* __[`[`<!-- BEGIN faq_block -->`]`](../var/faq_block.md#readme) :__ ligne [`17`](../src/invision/faq_dhtml.tpl#L17)
+* __[`[`<!-- END faq_block -->`]`](../var/faq_block.md#readme) :__ ligne [`27`](../src/invision/faq_dhtml.tpl#L27)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`]`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme) :__ ligne [`24`](../src/invision/faq_dhtml.tpl#L24)
+* __[`[`{U_CFAQ_JSLIB}`]`](../var/U_CFAQ_JSLIB.md#readme) :__ ligne [`7`](../src/invision/faq_dhtml.tpl#L7)
+* __[`[`{NAV_CAT_DESC}`]`](../var/NAV_CAT_DESC.md#readme) :__ ligne [`3`](../src/invision/faq_dhtml.tpl#L3)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`]`](../var/faq_block.BLOCK_TITLE.md#readme) :__ ligne [`19`](../src/invision/faq_dhtml.tpl#L19)
+* __[`[`{U_INDEX}`]`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/faq_dhtml.tpl#L2)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`]`](../var/faq_block.faq_row.md#readme) :__ ligne [`20`](../src/invision/faq_dhtml.tpl#L20)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row -->`]`](../var/faq_block.faq_row.md#readme) :__ ligne [`25`](../src/invision/faq_dhtml.tpl#L25)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`]`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme) :__ ligne [`22`](../src/invision/faq_dhtml.tpl#L22)
+* __[`[`{L_INDEX}`]`](../var/L_INDEX.md#readme) :__ ligne [`2`](../src/invision/faq_dhtml.tpl#L2)

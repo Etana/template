@@ -14,3 +14,35 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme)
+
+## Template par défaut phpBB3
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{U_FRAME_CHATBOX}`]`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`11`](../src/prosilver/mod_chatbox.tpl#L11)
+
+## Template par défaut phpBB2
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{U_FRAME_CHATBOX}`]`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`6`](../src/subsilver/mod_chatbox.tpl#L6)
+
+## Template par défaut PunBB
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{U_FRAME_CHATBOX}`]`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`5`](../src/punbb/mod_chatbox.tpl#L5)
+
+## Template par défaut Invision
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`[`{U_FRAME_CHATBOX}`]`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`5`](../src/invision/mod_chatbox.tpl#L5)

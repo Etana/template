@@ -20,8 +20,10 @@
 	* [`{L_VIEW_MORE}`](../var/L_VIEW_MORE.md#readme)
 	* [`{S_CONTENT_ENCODING}`](../var/S_CONTENT_ENCODING.md#readme)
 	* [`{SELECT_OPTIONS}`](../var/SELECT_OPTIONS.md#readme)
-	* [`<!-- BEGIN smilies_row -->...<!-- END smilies_row -->`](../var/smilies_row.md#readme)
-	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN smilies_col -->...<!-- END smilies_col -->`](../var/smilies_row.smilies_col.md#readme)
+	* [`<!-- BEGIN smilies_row -->`](../var/smilies_row.md#readme)
+	* [`<!-- END smilies_row -->`](../var/smilies_row.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN smilies_col -->`](../var/smilies_row.smilies_col.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END smilies_col -->`](../var/smilies_row.smilies_col.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_CODE}`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme)
@@ -31,3 +33,113 @@
 	* [`{T_BODY_TEXT}`](../var/T_BODY_TEXT.md#readme)
 	* [`{T_BODY_VLINK}`](../var/T_BODY_VLINK.md#readme)
 	* [`{T_HEAD_STYLESHEET}`](../var/T_HEAD_STYLESHEET.md#readme)
+
+## Template par défaut phpBB3
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_CODE}`]`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme) :__ ligne [`29`](../src/prosilver/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{SELECT_OPTIONS}`]`](../var/SELECT_OPTIONS.md#readme) :__ ligne [`21`](../src/prosilver/posting_smilies_wysiwyg.tpl#L21)
+* __[`[`{T_BODY_BGCOLOR}`]`](../var/T_BODY_BGCOLOR.md#readme) :__ ligne [`12`](../src/prosilver/posting_smilies_wysiwyg.tpl#L12)
+* __[`[`{T_BODY_BGCOLOR}`]`](../var/T_BODY_BGCOLOR.md#readme) :__ ligne [`13`](../src/prosilver/posting_smilies_wysiwyg.tpl#L13)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN smilies_col -->`]`](../var/smilies_row.smilies_col.md#readme) :__ ligne [`28`](../src/prosilver/posting_smilies_wysiwyg.tpl#L28)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END smilies_col -->`]`](../var/smilies_row.smilies_col.md#readme) :__ ligne [`30`](../src/prosilver/posting_smilies_wysiwyg.tpl#L30)
+* __[`[`{JQUERY_PATH}`]`](../var/JQUERY_PATH.md#readme) :__ ligne [`8`](../src/prosilver/posting_smilies_wysiwyg.tpl#L8)
+* __[`[`{T_HEAD_STYLESHEET}`]`](../var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`7`](../src/prosilver/posting_smilies_wysiwyg.tpl#L7)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`]`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`29`](../src/prosilver/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`]`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`29`](../src/prosilver/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`]`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`29`](../src/prosilver/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`]`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`29`](../src/prosilver/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{JS_DIR}`]`](../var/JS_DIR.md#readme) :__ ligne [`9`](../src/prosilver/posting_smilies_wysiwyg.tpl#L9)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`]`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme) :__ ligne [`29`](../src/prosilver/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{L_SMILIES_TITLE}`]`](../var/L_SMILIES_TITLE.md#readme) :__ ligne [`6`](../src/prosilver/posting_smilies_wysiwyg.tpl#L6)
+* __[`[`{S_CONTENT_ENCODING}`]`](../var/S_CONTENT_ENCODING.md#readme) :__ ligne [`10`](../src/prosilver/posting_smilies_wysiwyg.tpl#L10)
+* __[`[`<!-- BEGIN smilies_row -->`]`](../var/smilies_row.md#readme) :__ ligne [`27`](../src/prosilver/posting_smilies_wysiwyg.tpl#L27)
+* __[`[`<!-- END smilies_row -->`]`](../var/smilies_row.md#readme) :__ ligne [`31`](../src/prosilver/posting_smilies_wysiwyg.tpl#L31)
+* __[`[`{L_VIEW_MORE}`]`](../var/L_VIEW_MORE.md#readme) :__ ligne [`20`](../src/prosilver/posting_smilies_wysiwyg.tpl#L20)
+* __[`[`{L_LANG}`]`](../var/L_LANG.md#readme) :__ ligne [`9`](../src/prosilver/posting_smilies_wysiwyg.tpl#L9)
+
+## Template par défaut phpBB2
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_CODE}`]`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme) :__ ligne [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41)
+* __[`[`{SELECT_OPTIONS}`]`](../var/SELECT_OPTIONS.md#readme) :__ ligne [`27`](../src/subsilver/posting_smilies_wysiwyg.tpl#L27)
+* __[`[`{T_BODY_TEXT}`]`](../var/T_BODY_TEXT.md#readme) :__ ligne [`16`](../src/subsilver/posting_smilies_wysiwyg.tpl#L16)
+* __[`[`{T_BODY_BGCOLOR}`]`](../var/T_BODY_BGCOLOR.md#readme) :__ ligne [`12`](../src/subsilver/posting_smilies_wysiwyg.tpl#L12)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN smilies_col -->`]`](../var/smilies_row.smilies_col.md#readme) :__ ligne [`40`](../src/subsilver/posting_smilies_wysiwyg.tpl#L40)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END smilies_col -->`]`](../var/smilies_row.smilies_col.md#readme) :__ ligne [`42`](../src/subsilver/posting_smilies_wysiwyg.tpl#L42)
+* __[`[`{JQUERY_PATH}`]`](../var/JQUERY_PATH.md#readme) :__ ligne [`8`](../src/subsilver/posting_smilies_wysiwyg.tpl#L8)
+* __[`[`{T_HEAD_STYLESHEET}`]`](../var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`7`](../src/subsilver/posting_smilies_wysiwyg.tpl#L7)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`]`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`]`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`]`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`]`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41)
+* __[`[`{JS_DIR}`]`](../var/JS_DIR.md#readme) :__ ligne [`9`](../src/subsilver/posting_smilies_wysiwyg.tpl#L9)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`]`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme) :__ ligne [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41)
+* __[`[`{L_SMILIES_TITLE}`]`](../var/L_SMILIES_TITLE.md#readme) :__ ligne [`4`](../src/subsilver/posting_smilies_wysiwyg.tpl#L4)
+* __[`[`{S_CONTENT_ENCODING}`]`](../var/S_CONTENT_ENCODING.md#readme) :__ ligne [`10`](../src/subsilver/posting_smilies_wysiwyg.tpl#L10)
+* __[`[`{T_BODY_LINK}`]`](../var/T_BODY_LINK.md#readme) :__ ligne [`16`](../src/subsilver/posting_smilies_wysiwyg.tpl#L16)
+* __[`[`<!-- BEGIN smilies_row -->`]`](../var/smilies_row.md#readme) :__ ligne [`39`](../src/subsilver/posting_smilies_wysiwyg.tpl#L39)
+* __[`[`<!-- END smilies_row -->`]`](../var/smilies_row.md#readme) :__ ligne [`43`](../src/subsilver/posting_smilies_wysiwyg.tpl#L43)
+* __[`[`{T_BODY_VLINK}`]`](../var/T_BODY_VLINK.md#readme) :__ ligne [`16`](../src/subsilver/posting_smilies_wysiwyg.tpl#L16)
+* __[`[`{L_VIEW_MORE}`]`](../var/L_VIEW_MORE.md#readme) :__ ligne [`26`](../src/subsilver/posting_smilies_wysiwyg.tpl#L26)
+* __[`[`{L_LANG}`]`](../var/L_LANG.md#readme) :__ ligne [`9`](../src/subsilver/posting_smilies_wysiwyg.tpl#L9)
+
+## Template par défaut PunBB
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_CODE}`]`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme) :__ ligne [`29`](../src/punbb/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{SELECT_OPTIONS}`]`](../var/SELECT_OPTIONS.md#readme) :__ ligne [`21`](../src/punbb/posting_smilies_wysiwyg.tpl#L21)
+* __[`[`{T_BODY_BGCOLOR}`]`](../var/T_BODY_BGCOLOR.md#readme) :__ ligne [`12`](../src/punbb/posting_smilies_wysiwyg.tpl#L12)
+* __[`[`{T_BODY_BGCOLOR}`]`](../var/T_BODY_BGCOLOR.md#readme) :__ ligne [`13`](../src/punbb/posting_smilies_wysiwyg.tpl#L13)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN smilies_col -->`]`](../var/smilies_row.smilies_col.md#readme) :__ ligne [`28`](../src/punbb/posting_smilies_wysiwyg.tpl#L28)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END smilies_col -->`]`](../var/smilies_row.smilies_col.md#readme) :__ ligne [`30`](../src/punbb/posting_smilies_wysiwyg.tpl#L30)
+* __[`[`{JQUERY_PATH}`]`](../var/JQUERY_PATH.md#readme) :__ ligne [`9`](../src/punbb/posting_smilies_wysiwyg.tpl#L9)
+* __[`[`{T_HEAD_STYLESHEET}`]`](../var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`8`](../src/punbb/posting_smilies_wysiwyg.tpl#L8)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`]`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`29`](../src/punbb/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`]`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`29`](../src/punbb/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`]`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`29`](../src/punbb/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`]`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`29`](../src/punbb/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{JS_DIR}`]`](../var/JS_DIR.md#readme) :__ ligne [`10`](../src/punbb/posting_smilies_wysiwyg.tpl#L10)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`]`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme) :__ ligne [`29`](../src/punbb/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{L_SMILIES_TITLE}`]`](../var/L_SMILIES_TITLE.md#readme) :__ ligne [`7`](../src/punbb/posting_smilies_wysiwyg.tpl#L7)
+* __[`[`{S_CONTENT_ENCODING}`]`](../var/S_CONTENT_ENCODING.md#readme) :__ ligne [`4`](../src/punbb/posting_smilies_wysiwyg.tpl#L4)
+* __[`[`<!-- BEGIN smilies_row -->`]`](../var/smilies_row.md#readme) :__ ligne [`27`](../src/punbb/posting_smilies_wysiwyg.tpl#L27)
+* __[`[`<!-- END smilies_row -->`]`](../var/smilies_row.md#readme) :__ ligne [`31`](../src/punbb/posting_smilies_wysiwyg.tpl#L31)
+* __[`[`{L_VIEW_MORE}`]`](../var/L_VIEW_MORE.md#readme) :__ ligne [`20`](../src/punbb/posting_smilies_wysiwyg.tpl#L20)
+* __[`[`{L_LANG}`]`](../var/L_LANG.md#readme) :__ ligne [`10`](../src/punbb/posting_smilies_wysiwyg.tpl#L10)
+
+## Template par défaut Invision
+
+[__Code source__](../src/punbb/index_box.tpl#files)
+
+### Positions des variables
+
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_CODE}`]`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{SELECT_OPTIONS}`]`](../var/SELECT_OPTIONS.md#readme) :__ ligne [`21`](../src/invision/posting_smilies_wysiwyg.tpl#L21)
+* __[`[`{T_BODY_BGCOLOR}`]`](../var/T_BODY_BGCOLOR.md#readme) :__ ligne [`12`](../src/invision/posting_smilies_wysiwyg.tpl#L12)
+* __[`[`{T_BODY_BGCOLOR}`]`](../var/T_BODY_BGCOLOR.md#readme) :__ ligne [`13`](../src/invision/posting_smilies_wysiwyg.tpl#L13)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN smilies_col -->`]`](../var/smilies_row.smilies_col.md#readme) :__ ligne [`28`](../src/invision/posting_smilies_wysiwyg.tpl#L28)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END smilies_col -->`]`](../var/smilies_row.smilies_col.md#readme) :__ ligne [`30`](../src/invision/posting_smilies_wysiwyg.tpl#L30)
+* __[`[`{JQUERY_PATH}`]`](../var/JQUERY_PATH.md#readme) :__ ligne [`8`](../src/invision/posting_smilies_wysiwyg.tpl#L8)
+* __[`[`{T_HEAD_STYLESHEET}`]`](../var/T_HEAD_STYLESHEET.md#readme) :__ ligne [`7`](../src/invision/posting_smilies_wysiwyg.tpl#L7)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`]`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`]`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`]`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`]`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{JS_DIR}`]`](../var/JS_DIR.md#readme) :__ ligne [`9`](../src/invision/posting_smilies_wysiwyg.tpl#L9)
+* __[`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`]`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
+* __[`[`{L_SMILIES_TITLE}`]`](../var/L_SMILIES_TITLE.md#readme) :__ ligne [`6`](../src/invision/posting_smilies_wysiwyg.tpl#L6)
+* __[`[`{S_CONTENT_ENCODING}`]`](../var/S_CONTENT_ENCODING.md#readme) :__ ligne [`10`](../src/invision/posting_smilies_wysiwyg.tpl#L10)
+* __[`[`<!-- BEGIN smilies_row -->`]`](../var/smilies_row.md#readme) :__ ligne [`27`](../src/invision/posting_smilies_wysiwyg.tpl#L27)
+* __[`[`<!-- END smilies_row -->`]`](../var/smilies_row.md#readme) :__ ligne [`31`](../src/invision/posting_smilies_wysiwyg.tpl#L31)
+* __[`[`{L_VIEW_MORE}`]`](../var/L_VIEW_MORE.md#readme) :__ ligne [`20`](../src/invision/posting_smilies_wysiwyg.tpl#L20)
+* __[`[`{L_LANG}`]`](../var/L_LANG.md#readme) :__ ligne [`9`](../src/invision/posting_smilies_wysiwyg.tpl#L9)
