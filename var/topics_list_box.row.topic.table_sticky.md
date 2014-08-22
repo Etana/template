@@ -16,9 +16,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS}`](../var/topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.topic.table_sticky.L_AUTHOR}`](../var/topics_list_box.row.topic.table_sticky.L_AUTHOR.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.topic.table_sticky.L_LASTPOST}`](../var/topics_list_box.row.topic.table_sticky.L_LASTPOST.md#readme)__

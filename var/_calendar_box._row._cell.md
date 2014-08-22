@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.SPAN}`](../var/_calendar_box._row._cell.SPAN.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_filled -->`](../var/_calendar_box._row._cell.switch_filled.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _event -->`](../var/_calendar_box._row._cell.switch_filled._event.md#readme)__

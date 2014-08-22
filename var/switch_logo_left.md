@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_logo_left)
-Boucle s'affichant si vous avez sélectionné "A gauche" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.```
-
-## Attributs
+Boucle s'affichant si vous avez sélectionné "A gauche" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.\n## Attributs
 
 
 ## Utilisations dans les templates

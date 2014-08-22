@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS}`](../var/switch_preferences_menu.switch_profile_advanced.L_ALLOW_PROFILE_MSGS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_ALL.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS}`](../var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_FRIENDS.md#readme)__

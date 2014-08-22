@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT}`](../var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}`](../var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS.md#readme)__
 

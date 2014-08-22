@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod2)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod2)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod2)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod2.MODVAR}`](../var/giefmod2.MODVAR.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod2.saut.md#readme)__
 

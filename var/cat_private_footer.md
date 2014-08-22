@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cat_private_footer)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/cat_private_footer)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/cat_private_footer)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{cat_private_footer.L_USERS_PERSONAL_GALLERIES}`](../var/cat_private_footer.L_USERS_PERSONAL_GALLERIES.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{cat_private_footer.U_IMG_PERSONAL_GALLERIES}`](../var/cat_private_footer.U_IMG_PERSONAL_GALLERIES.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{cat_private_footer.U_USERS_PERSONAL_GALLERIES}`](../var/cat_private_footer.U_USERS_PERSONAL_GALLERIES.md#readme)__

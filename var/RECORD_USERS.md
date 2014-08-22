@@ -23,7 +23,6 @@ Le record du nombre d'utilisateurs en ligne est de <strong>2</strong> le Mer 21 
 <script> $('#run').text($('#run').html().match(/>([0-9]+)</)[1]) </script>
 ```
 
-
 ## Utilisations dans les templates
 
 ### Version phpBB3

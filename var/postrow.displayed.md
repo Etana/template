@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN contact_field -->`](../var/postrow.displayed.contact_field.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.contact_field.CONTENT}`](../var/postrow.displayed.contact_field.CONTENT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.COUNT_POSTS}`](../var/postrow.displayed.COUNT_POSTS.md#readme)__

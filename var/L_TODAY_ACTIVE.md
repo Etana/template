@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TODAY_ACTIVE)
-Affiche le texte du lien de la variable {{U_TODAY_ACTIVE}}.
+Affiche le texte du lien de la variable [`{U_TODAY_ACTIVE}`](../var/U_TODAY_ACTIVE.md#readme).
 
 * __Contenu en français :__  `Sujets actifs du jour`
 

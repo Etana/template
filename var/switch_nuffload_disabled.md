@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_disabled)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_disabled)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_disabled)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_manual_thumbnail -->`](../var/switch_nuffload_disabled.switch_manual_thumbnail.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_multiple_uploads -->`](../var/switch_nuffload_disabled.switch_multiple_uploads.md#readme)__
 

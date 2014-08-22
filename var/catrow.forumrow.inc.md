@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.inc.INC_CLASS}`](../var/catrow.forumrow.inc.INC_CLASS.md#readme)__
 
 

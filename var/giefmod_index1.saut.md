@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod_index1.saut)
-Boucle contenant le saut entre 2 widgets.```
-
-## Attributs
+Boucle contenant le saut entre 2 widgets.\n## Attributs
 
 
 ## Utilisations dans les templates

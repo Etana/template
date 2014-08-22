@@ -14,9 +14,7 @@ Le contenu de la boucle est affiché :
 
 * si le groupe est invisible
 * et si le visiteur n'est pas membre du groupe
-* et si le visiteur n'est pas administrateur```
-
-## Attributs
+* et si le visiteur n'est pas administrateur\n## Attributs
 
 
 ## Utilisations dans les templates

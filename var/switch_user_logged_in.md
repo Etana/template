@@ -11,9 +11,7 @@ contenu sur lequel on boucle
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in)
 Le contenu de la boucle est affiché si l'utilisateur est connecté.
-```
-
-## Attributs
+\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_index -->`](../var/switch_user_logged_in.message_admin_index.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_titre -->`](../var/switch_user_logged_in.message_admin_index.message_admin_titre.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_txt -->`](../var/switch_user_logged_in.message_admin_index.message_admin_txt.md#readme)__

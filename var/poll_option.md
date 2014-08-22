@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme)__

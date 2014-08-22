@@ -16,9 +16,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.display_border)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.display_border)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.display_border)\n## Attributs
 
 
 ## Utilisations dans les templates

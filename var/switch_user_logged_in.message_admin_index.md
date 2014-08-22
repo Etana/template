@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_titre -->`](../var/switch_user_logged_in.message_admin_index.message_admin_titre.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_txt -->`](../var/switch_user_logged_in.message_admin_index.message_admin_txt.md#readme)__
 

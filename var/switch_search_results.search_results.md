@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.DESC}`](../var/switch_search_results.search_results.DESC.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_CAT}`](../var/switch_search_results.search_results.L_CAT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_results.search_results.L_PIC}`](../var/switch_search_results.search_results.L_PIC.md#readme)__

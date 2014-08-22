@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_forum_rules)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_forum_rule_image -->`](../var/switch_forum_rules.switch_forum_rule_image.md#readme)__
 
 

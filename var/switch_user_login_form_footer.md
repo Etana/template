@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer)
-Boucle d'affichage si vous avez activé la connexion rapide en bas de la page d'accueil dans `PA > Affichage > Page d'accueil | Généralités > Affichage de la connexion rapide`.```
-
-## Attributs
+Boucle d'affichage si vous avez activé la connexion rapide en bas de la page d'accueil dans `PA > Affichage > Page d'accueil | Généralités > Affichage de la connexion rapide`.\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect -->`](../var/switch_user_login_form_footer.switch_fb_connect.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}`](../var/switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}`](../var/switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS.md#readme)__

@@ -13,9 +13,7 @@ contenu sur lequel on boucle
 Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 
 * si le membre est administrateur ou modérateur du groupe
-```
-
-## Attributs
+\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.EMAIL_IMG}`](../var/pending_members_row.EMAIL_IMG.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.FROM}`](../var/pending_members_row.FROM.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.PM_IMG}`](../var/pending_members_row.PM_IMG.md#readme)__

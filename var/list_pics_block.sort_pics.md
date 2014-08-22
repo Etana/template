@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.sort_pics)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN time_del -->`](../var/list_pics_block.sort_pics.time_del.md#readme)__
 
 

@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_vote_active.L_VOTE_TITLE}`](../var/postrow.displayed.switch_vote_active.L_VOTE_TITLE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_bar -->`](../var/postrow.displayed.switch_vote_active.switch_bar.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_vote_minus -->`](../var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.md#readme)__

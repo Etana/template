@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.switch_separator)
-Boucle affichant une séparation `|` entre chaque lien renseigné dans `PA > Modules > Liens de bas de page | Configuration`.```
-
-## Attributs
+Boucle affichant une séparation `|` entre chaque lien renseigné dans `PA > Modules > Liens de bas de page | Configuration`.\n## Attributs
 
 
 ## Utilisations dans les templates

@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_txt)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_txt)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_txt)\n## Attributs
 
 
 ## Utilisations dans les templates

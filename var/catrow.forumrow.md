@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar -->`](../var/catrow.forumrow.avatar.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.avatar.LAST_POST_AVATAR}`](../var/catrow.forumrow.avatar.LAST_POST_AVATAR.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.FORUM_DESC}`](../var/catrow.forumrow.FORUM_DESC.md#readme)__

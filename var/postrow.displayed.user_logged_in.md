@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_contact_row -->`](../var/postrow.displayed.user_logged_in.switch_contact_row.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN contact_field -->`](../var/postrow.displayed.user_logged_in.switch_contact_row.contact_field.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.user_logged_in.switch_contact_row.contact_field.CONTENT}`](../var/postrow.displayed.user_logged_in.switch_contact_row.contact_field.CONTENT.md#readme)__

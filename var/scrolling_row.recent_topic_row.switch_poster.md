@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.switch_poster)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.switch_poster)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.switch_poster)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.switch_poster.S_POSTER}`](../var/scrolling_row.recent_topic_row.switch_poster.S_POSTER.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.switch_poster.U_POSTER}`](../var/scrolling_row.recent_topic_row.switch_poster.U_POSTER.md#readme)__
 

@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{credit_card_method.credits_option.OPTION}`](../var/credit_card_method.credits_option.OPTION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{credit_card_method.credits_option.VALUE}`](../var/credit_card_method.credits_option.VALUE.md#readme)__
 

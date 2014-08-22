@@ -113,11 +113,31 @@ templates_desc = all_desc[1]
 
 var_globales = []
 
+
+def isboucle(var):
+    return False if re.search('[A-Z]',var) and var not in ("IMGS","POSTER","TOPIC") else True
+
+def expandvar(content,name=""):
+    for kaboum in re.findall('\{\{(tpl|subsilver|punbb)/([a-z0-9_]+)\}\}', content):
+        content= re.sub('\{\{('+kaboum[0]+"/"+kaboum[1]+')\}\}','[`'+kaboum[1]+'`](../tpl/'+kaboum[1]+'.md#readme)', content)
+    for var in re.findall('\{\{[A-Za-z._0-9-]+\}\}', content):
+        var= var[2:-2]
+        if not isboucle(var):
+            content= re.sub('\{\{('+var.replace('.','\.').replace('-','\-')+')\}\}','[`{\\1}`](../var/\\1.md#readme)', content)
+        else:
+            attr= var.split(".")[-1]
+            content= re.sub('\{\{('+var.replace('.','\.').replace('-','\-')+')\}\}','[`<!-- BEGIN '+attr+' -->...<!-- END '+attr+' -->`](../var/\\1.md#readme)', content)
+   
+    content= re.sub('(^\s+|\s+$)','',content)
+
+    return content
+
+
 for var_name in var_desc:
     if '{%%}' in var_desc[var_name]:
         var_globales += [var_name]
         var_desc[var_name] = var_desc[var_name].replace('{%%}','')
-    for tem in list(set(re.findall('{%([a-z0-9_-]+)%}', var_desc[var_name]))):
+    for tem in list(set(re.findall('\{%([a-z0-9_-]+)%\}', var_desc[var_name]))):
         if tem not in template_variables:
             continue 
         template_variables[tem][var_name] = []
@@ -128,6 +148,9 @@ for var_name in var_desc:
             if ver not in variables[var_name]:
                 variables[var_name][ver] = {}
             variables[var_name][ver][tem] = []
+    if '{' in var_desc[var_name]:
+        var_desc[var_name]= expandvar(var_desc[var_name])
+        
 
 '''Parsing des templates'''
 for ver in template_contents:
@@ -248,7 +271,7 @@ for var in variables:
             f.write(var_desc[var])
 
         if 1 in types:
-            f.write('```\n\n## Attributs\n')
+            f.write('\\n## Attributs\n')
             for attribute in sorted((attr for attr in variables if attr.startswith(var+'.')), key=str.lower):
                 for r in var2links(attribute, guess_type(attribute)):
                     f.write('* __'+r+'__\n')

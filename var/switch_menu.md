@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_menu)
-Boucle s'affichant si vous êtes dans les paramètres de vos sujets surveillés : `/search?search_id=watchsearch`.```
-
-## Attributs
+Boucle s'affichant si vous êtes dans les paramètres de vos sujets surveillés : `/search?search_id=watchsearch`.\n## Attributs
 
 
 ## Utilisations dans les templates

@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.recent_stats)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.recent_stats)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.recent_stats)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.recent_stats.H_STATS}`](../var/list_pics_block.list_pics.recent_stats.H_STATS.md#readme)__
 
 

@@ -13,9 +13,7 @@ contenu sur lequel on boucle
 Bouclage sur les éventuels membres du groupe ( hormis le modérateur ) :
 
 * soit si le groupe est ouvert ou bien fermé
-* soit si le visiteur est membre du groupe ou administrateur```
-
-## Attributs
+* soit si le visiteur est membre du groupe ou administrateur\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{member_row.EMAIL_IMG}`](../var/member_row.EMAIL_IMG.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{member_row.FROM}`](../var/member_row.FROM.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{member_row.PM_IMG}`](../var/member_row.PM_IMG.md#readme)__

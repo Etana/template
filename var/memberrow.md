@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow)
-Boucle affichant les informations d'un membre et se répétant pour chaque membre de votre forum.```
-
-## Attributs
+Boucle affichant les informations d'un membre et se répétant pour chaque membre de votre forum.\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.AVATAR_IMG}`](../var/memberrow.AVATAR_IMG.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.EMAIL_IMG}`](../var/memberrow.EMAIL_IMG.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.GROUPS}`](../var/memberrow.GROUPS.md#readme)__

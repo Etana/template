@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.norate_row_disabled)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.norate_row_disabled)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.norate_row_disabled)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}`](../var/display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED.md#readme)__
 
 

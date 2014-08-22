@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.header_table.BOX_ID}`](../var/birthday_list_box.row.header_table.BOX_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN multi_selection -->`](../var/birthday_list_box.row.header_table.multi_selection.md#readme)__
 

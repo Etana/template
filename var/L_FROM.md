@@ -10,7 +10,7 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_FROM)
 Chaîne de texte.
 
-#### Dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :
+#### Dans [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) et [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :
 
 * __Remplacement de base en français :__ `Localisation`
 * __Modification :__ [`Index`](http://votre-forum.appspot.com/#/admin/,&part=users_groups,&mode=avatar_profil2&sub=users,&action=configuration&id=-11) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=users_groups,&mode=avatar_profil2&sub=users,&action=configuration&id=-11) > [`Utilisateurs & Groupes`](http://votre-forum.appspot.com/admin/?part=users_groups#&mode=avatar_profil2&sub=users,&action=configuration&id=-11) > [`Utilisateurs | Profils`](http://votre-forum.appspot.com/admin/?mode=avatar_profil2&part=users_groups&sub=users#&action=configuration&id=-11) > [`Localisation` | ![](http://illiweb.com/fa/admin/icones/editer.png)](http://votre-forum.appspot.com/admin/?action=configuration&id=-11&mode=avatar_profil2&part=users_groups&sub=users)

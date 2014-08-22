@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_show_progress_bar)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_show_progress_bar)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_show_progress_bar)\n## Attributs
 
 
 ## Utilisations dans les templates

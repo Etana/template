@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.ATTACH_COMMENT}`](../var/switch_attachment_list.attachments.ATTACH_COMMENT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.ATTACH_ID}`](../var/switch_attachment_list.attachments.ATTACH_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.ATTACH_POS}`](../var/switch_attachment_list.attachments.ATTACH_POS.md#readme)__

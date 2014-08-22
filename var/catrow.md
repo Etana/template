@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN catfoot -->`](../var/catrow.catfoot.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN inc -->`](../var/catrow.catfoot.inc.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.catfoot.inc.INC_CLASS}`](../var/catrow.catfoot.inc.INC_CLASS.md#readme)__

@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields_left)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields_left)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields_left)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields_left.F_NAME}`](../var/switch_rpg.rpg_fields_left.F_NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields_left.F_VALUE_NEW}`](../var/switch_rpg.rpg_fields_left.F_VALUE_NEW.md#readme)__
 

@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_nolink)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_nolink)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_nolink)\n## Attributs
 
 
 ## Utilisations dans les templates

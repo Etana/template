@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.no_topics)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.no_topics)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.no_topics)\n## Attributs
 
 
 ## Utilisations dans les templates

@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_calendar_5days)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_calendar_5days)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_calendar_5days)\n## Attributs
 
 
 ## Utilisations dans les templates

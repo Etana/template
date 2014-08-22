@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup)
-Boucle s'affichant lors de la création d'un nouveau rapport si l'utilisateur a coché "Oui" à l'option `Profil > Préférences > Ouvrir la popup des nouveaux rapports`.```
-
-## Attributs
+Boucle s'affichant lors de la création d'un nouveau rapport si l'utilisateur a coché "Oui" à l'option `Profil > Préférences > Ouvrir la popup des nouveaux rapports`.\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_report_popup.S_HEIGHT}`](../var/switch_report_popup.S_HEIGHT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_report_popup.S_WIDTH}`](../var/switch_report_popup.S_WIDTH.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_report_popup.U_REPORT_POPUP}`](../var/switch_report_popup.U_REPORT_POPUP.md#readme)__

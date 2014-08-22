@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JUMPBOX)
-Affiche le template {{subsilver/jumpbox}} ou {{punbb/jumpbox}}.
+Affiche le template [`jumpbox`](../tpl/jumpbox.md#readme) ou [`jumpbox`](../tpl/jumpbox.md#readme).
 
 ## Utilisations dans les templates
 

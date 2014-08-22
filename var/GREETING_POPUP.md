@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GREETING_POPUP)
-Contient le template {{subsilver/greeting_popup}} ou {{punbb/greeting_popup}}.
+Contient le template [`greeting_popup`](../tpl/greeting_popup.md#readme) ou [`greeting_popup`](../tpl/greeting_popup.md#readme).
 
 ## Utilisations dans les templates
 

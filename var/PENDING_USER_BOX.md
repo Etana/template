@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PENDING_USER_BOX)
-Remplacé par le contenu de la template {{tpl/groupcp_pending_info}} :
+Remplacé par le contenu de la template [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :
 
 * si il y a un membre en cours de demande d'adhésion
 * et si le visiteur est administrateur ou modérateur du groupe

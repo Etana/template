@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPICS_LIST_BOX)
-Affiche le template {{subsilver/topics_list_box}} ou {{punbb/topics_list_box}}.
+Affiche le template [`topics_list_box`](../tpl/topics_list_box.md#readme) ou [`topics_list_box`](../tpl/topics_list_box.md#readme).
 
 ## Utilisations dans les templates
 

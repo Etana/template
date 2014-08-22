@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/rpg_fields)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/rpg_fields)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_NAME}`](../var/rpg_fields.F_NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_VALUE}`](../var/rpg_fields.F_VALUE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_VALUE_NEW}`](../var/rpg_fields.F_VALUE_NEW.md#readme)__

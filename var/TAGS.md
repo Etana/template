@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TAGS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TAGS)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TAGS)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.L_SEARCH_TAGS}`](../var/TAGS.L_SEARCH_TAGS.md#readme)__
 
 

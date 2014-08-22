@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN.md#readme)__
 
 

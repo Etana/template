@@ -10,9 +10,8 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_SELECT_SORT_METHOD)
 Chaîne de texte.
 
-* __Remplacement en français dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :__ `Sélectionner la méthode de tri`
+* __Remplacement en français dans [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) et [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ `Sélectionner la méthode de tri`
 * __Remplacement en français ailleurs :__ `Trier par`
-
 
 ## Utilisations dans les templates
 

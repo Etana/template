@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed)\n## Attributs
 
 
 ## Utilisations dans les templates

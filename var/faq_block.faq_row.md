@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block.faq_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block.faq_row)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.ROW_CLASS}`](../var/faq_block.faq_row.ROW_CLASS.md#readme)__

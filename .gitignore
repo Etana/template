@@ -2,3 +2,4 @@ ident.py
 __pycache__/
 *.py[cod]
 *.swp
+__pycache__/*

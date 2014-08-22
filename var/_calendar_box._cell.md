@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._cell)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._cell)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._cell)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._cell.L_DAY}`](../var/_calendar_box._cell.L_DAY.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._cell.WIDTH}`](../var/_calendar_box._cell.WIDTH.md#readme)__
 

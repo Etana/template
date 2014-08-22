@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_authpost)
-Boucle s'affichant si l'utilisateur a l'autorisation de créer un nouveau sujet dans le forum concerné.```
-
-## Attributs
+Boucle s'affichant si l'utilisateur a l'autorisation de créer un nouveau sujet dans le forum concerné.\n## Attributs
 
 
 ## Utilisations dans les templates

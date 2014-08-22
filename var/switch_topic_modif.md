@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_topic_modif)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_topic_modif)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_topic_modif)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_icon_checkbox -->`](../var/switch_topic_modif.switch_icon_checkbox.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN row -->`](../var/switch_topic_modif.switch_icon_checkbox.row.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN cell -->`](../var/switch_topic_modif.switch_icon_checkbox.row.cell.md#readme)__

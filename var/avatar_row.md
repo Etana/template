@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/avatar_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_column -->`](../var/avatar_row.avatar_column.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_IMAGE}`](../var/avatar_row.avatar_column.AVATAR_IMAGE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_NAME}`](../var/avatar_row.avatar_column.AVATAR_NAME.md#readme)__

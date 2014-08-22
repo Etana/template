@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.L_OR_GROUP}`](../var/switch_privmsg.switch_privmsg_group.L_OR_GROUP.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.MASS_PM}`](../var/switch_privmsg.switch_privmsg_group.MASS_PM.md#readme)__
 

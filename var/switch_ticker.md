@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker)
-Boucle d'affichage si les annonces sont activées dans `PA > Général > Messages et Emails | Annonces > Activer les annonces`.```
-
-## Attributs
+Boucle d'affichage si les annonces sont activées dans `PA > Général > Messages et Emails | Annonces > Activer les annonces`.\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.DIRECTION}`](../var/switch_ticker.DIRECTION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.HEIGHT}`](../var/switch_ticker.HEIGHT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.SIZE}`](../var/switch_ticker.SIZE.md#readme)__

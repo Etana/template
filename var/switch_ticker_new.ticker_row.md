@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker_new.ticker_row)
-Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > Général > Messages et Emails | Annonces`.```
-
-## Attributs
+Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > Général > Messages et Emails | Annonces`.\n## Attributs
 
 
 ## Utilisations dans les templates

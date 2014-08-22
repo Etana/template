@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/moderation_panel)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.L_YOUR_PERSONAL_MODERATE}`](../var/moderation_panel.L_YOUR_PERSONAL_MODERATE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE}`](../var/moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.U_URL_YOUR_PERSONAL_MODERATE}`](../var/moderation_panel.U_URL_YOUR_PERSONAL_MODERATE.md#readme)__

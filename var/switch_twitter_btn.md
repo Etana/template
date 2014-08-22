@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_twitter_btn)
-Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.```
-
-## Attributs
+Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.\n## Attributs
 
 
 ## Utilisations dans les templates

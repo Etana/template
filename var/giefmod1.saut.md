@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod1.saut)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod1.saut)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod1.saut)\n## Attributs
 
 
 ## Utilisations dans les templates

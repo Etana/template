@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.switch_status)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/row.switch_status)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/row.switch_status)\n## Attributs
 
 
 ## Utilisations dans les templates

@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_view_stats)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_view_stats)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_view_stats.L_STATS}`](../var/switch_view_stats.L_STATS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_view_stats.S_STATS}`](../var/switch_view_stats.S_STATS.md#readme)__
 

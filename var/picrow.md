@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.APPROVAL}`](../var/picrow.APPROVAL.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.CAT}`](../var/picrow.CAT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.COMMENTS}`](../var/picrow.COMMENTS.md#readme)__

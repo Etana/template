@@ -10,14 +10,13 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_SUBMIT)
 Chaîne de texte.
 
-#### Dans {{tpl/groupcp_info_body}} et {{tpl/groupcp_pending_info}} :
+#### Dans [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) et [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :
 
 * __Remplacement français :__ `Trier`
 
 #### Ailleurs :
 
 * __Remplacement français :__ `Ok`
-
 
 ## Utilisations dans les templates
 

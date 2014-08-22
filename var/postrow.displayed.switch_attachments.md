@@ -14,9 +14,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_attachments.L_ATTACHMENTS}`](../var/postrow.displayed.switch_attachments.L_ATTACHMENTS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_post_attachments -->`](../var/postrow.displayed.switch_attachments.switch_post_attachments.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE}`](../var/postrow.displayed.switch_attachments.switch_post_attachments.FILE_SIZE.md#readme)__

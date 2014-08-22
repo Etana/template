@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_subject)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_subject)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_subject)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_subject_color -->`](../var/switch_subject.switch_subject_color.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT}`](../var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}`](../var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS.md#readme)__

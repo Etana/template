@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_titre)
-Boucle contenant le titre du message d'accueil.```
-
-## Attributs
+Boucle contenant le titre du message d'accueil.\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_titre.MES_TITRE}`](../var/message_admin_index.message_admin_titre.MES_TITRE.md#readme)__
 
 

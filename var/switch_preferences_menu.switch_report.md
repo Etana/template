@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}`](../var/switch_preferences_menu.switch_report.L_NO_REPORT_POPUP.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.NO_REPORT_POPUP_NO}`](../var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_NO.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES}`](../var/switch_preferences_menu.switch_report.NO_REPORT_POPUP_YES.md#readme)__

@@ -12,9 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect_no)
-Boucle d'affichage si Facebook Connect n'est pas activé.```
-
-## Attributs
+Boucle d'affichage si Facebook Connect n'est pas activé.\n## Attributs
 
 
 ## Utilisations dans les templates

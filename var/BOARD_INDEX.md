@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BOARD_INDEX)
-Affiche le contenu du template {{subsilver/index_box}} ou {{punbb/index_box}}.
+Affiche le contenu du template [`index_box`](../tpl/index_box.md#readme) ou [`index_box`](../tpl/index_box.md#readme).
 
 *Attention : si vous supprimez cette variable, vos catégories et forums ne seront plus affichés !*
 

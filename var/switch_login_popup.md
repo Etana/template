@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login_popup)
-Boucle s'affichant lors la première visite d'un utilisateur si le popup de connexion est activé dans `PA > Général > Forum | Configuration > Activer`.```
-
-## Attributs
+Boucle s'affichant lors la première visite d'un utilisateur si le popup de connexion est activé dans `PA > Général > Forum | Configuration > Activer`.\n## Attributs
 
 
 ## Utilisations dans les templates

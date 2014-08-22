@@ -18,9 +18,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.switch_add_event_day)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.switch_add_event_day)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.switch_add_event_day)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT}`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT.md#readme)__
 
 

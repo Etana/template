@@ -10,9 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN displayed -->`](../var/postrow.displayed.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN contact_field -->`](../var/postrow.displayed.contact_field.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.contact_field.CONTENT}`](../var/postrow.displayed.contact_field.CONTENT.md#readme)__

@@ -16,9 +16,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row)\n## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.rate_row.rate_scale_row.POINT}`](../var/display_infos.rate_switch.rate_row.rate_scale_row.POINT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED}`](../var/display_infos.rate_switch.rate_row.rate_scale_row.POINTSELECTED.md#readme)__
 

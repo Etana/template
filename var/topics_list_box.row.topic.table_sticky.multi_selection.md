@@ -18,9 +18,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.multi_selection)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.multi_selection)```
-
-## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.multi_selection)\n## Attributs
 
 
 ## Utilisations dans les templates
