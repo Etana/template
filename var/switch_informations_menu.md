@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`14`](../src/prosilver/profile_add_body.tpl#L14), [`113`](../src/prosilver/profile_add_body.tpl#L113)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`14`](../src/prosilver/profile_add_body.tpl#L14)[`<->`](../src/prosilver/profile_add_body.tpl#L14-L113)[`113`](../src/prosilver/profile_add_body.tpl#L113)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`8`](../src/subsilver/profile_add_body.tpl#L8), [`88`](../src/subsilver/profile_add_body.tpl#L88)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`8`](../src/subsilver/profile_add_body.tpl#L8)[`<->`](../src/subsilver/profile_add_body.tpl#L8-L88)[`88`](../src/subsilver/profile_add_body.tpl#L88)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`25`](../src/punbb/profile_add_body.tpl#L25), [`141`](../src/punbb/profile_add_body.tpl#L141), [`389`](../src/punbb/profile_add_body.tpl#L389), [`399`](../src/punbb/profile_add_body.tpl#L399)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`25`](../src/punbb/profile_add_body.tpl#L25)[`<->`](../src/punbb/profile_add_body.tpl#L25-L141)[`141`](../src/punbb/profile_add_body.tpl#L141), [`389`](../src/punbb/profile_add_body.tpl#L389)[`<->`](../src/punbb/profile_add_body.tpl#L389-L399)[`399`](../src/punbb/profile_add_body.tpl#L399)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`14`](../src/invision/profile_add_body.tpl#L14), [`169`](../src/invision/profile_add_body.tpl#L169)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`14`](../src/invision/profile_add_body.tpl#L14)[`<->`](../src/invision/profile_add_body.tpl#L14-L169)[`169`](../src/invision/profile_add_body.tpl#L169)
 

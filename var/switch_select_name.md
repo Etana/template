@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`17`](../src/prosilver/search_username.tpl#L17), [`22`](../src/prosilver/search_username.tpl#L22)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`17`](../src/prosilver/search_username.tpl#L17)[`<->`](../src/prosilver/search_username.tpl#L17-L22)[`22`](../src/prosilver/search_username.tpl#L22)
 
 ### Version phpBB2
-* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`14`](../src/subsilver/search_username.tpl#L14), [`19`](../src/subsilver/search_username.tpl#L19)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`14`](../src/subsilver/search_username.tpl#L14)[`<->`](../src/subsilver/search_username.tpl#L14-L19)[`19`](../src/subsilver/search_username.tpl#L19)
 
 ### Version PunBB
-* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`18`](../src/punbb/search_username.tpl#L18), [`25`](../src/punbb/search_username.tpl#L25)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`18`](../src/punbb/search_username.tpl#L18)[`<->`](../src/punbb/search_username.tpl#L18-L25)[`25`](../src/punbb/search_username.tpl#L25)
 
 ### Version Invision
-* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`18`](../src/invision/search_username.tpl#L18), [`25`](../src/invision/search_username.tpl#L25)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`18`](../src/invision/search_username.tpl#L18)[`<->`](../src/invision/search_username.tpl#L18-L25)[`25`](../src/invision/search_username.tpl#L25)
 

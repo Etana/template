@@ -17,14 +17,14 @@ Boucle contenant le qui est en ligne.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`42`](../src/prosilver/index_body.tpl#L42), [`99`](../src/prosilver/index_body.tpl#L99)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`42`](../src/prosilver/index_body.tpl#L42)[`<->`](../src/prosilver/index_body.tpl#L42-L99)[`99`](../src/prosilver/index_body.tpl#L99)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`173`](../src/subsilver/index_body.tpl#L173), [`221`](../src/subsilver/index_body.tpl#L221)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`173`](../src/subsilver/index_body.tpl#L173)[`<->`](../src/subsilver/index_body.tpl#L173-L221)[`221`](../src/subsilver/index_body.tpl#L221)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`55`](../src/punbb/index_body.tpl#L55), [`103`](../src/punbb/index_body.tpl#L103)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`55`](../src/punbb/index_body.tpl#L55)[`<->`](../src/punbb/index_body.tpl#L55-L103)[`103`](../src/punbb/index_body.tpl#L103)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`42`](../src/invision/index_body.tpl#L42), [`153`](../src/invision/index_body.tpl#L153)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`42`](../src/invision/index_body.tpl#L42)[`<->`](../src/invision/index_body.tpl#L42-L153)[`153`](../src/invision/index_body.tpl#L153)
 

@@ -19,5 +19,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`356`](../src/subsilver/posting_body.tpl#L356), [`358`](../src/subsilver/posting_body.tpl#L358)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`356`](../src/subsilver/posting_body.tpl#L356)[`<->`](../src/subsilver/posting_body.tpl#L356-L358)[`358`](../src/subsilver/posting_body.tpl#L358)
 

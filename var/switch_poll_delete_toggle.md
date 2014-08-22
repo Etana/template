@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`77`](../src/prosilver/posting_poll_body.tpl#L77), [`82`](../src/prosilver/posting_poll_body.tpl#L82)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`77`](../src/prosilver/posting_poll_body.tpl#L77)[`<->`](../src/prosilver/posting_poll_body.tpl#L77-L82)[`82`](../src/prosilver/posting_poll_body.tpl#L82)
 
 ### Version phpBB2
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`68`](../src/subsilver/posting_poll_body.tpl#L68), [`73`](../src/subsilver/posting_poll_body.tpl#L73)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`68`](../src/subsilver/posting_poll_body.tpl#L68)[`<->`](../src/subsilver/posting_poll_body.tpl#L68-L73)[`73`](../src/subsilver/posting_poll_body.tpl#L73)
 
 ### Version PunBB
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`81`](../src/punbb/posting_poll_body.tpl#L81), [`86`](../src/punbb/posting_poll_body.tpl#L86)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`81`](../src/punbb/posting_poll_body.tpl#L81)[`<->`](../src/punbb/posting_poll_body.tpl#L81-L86)[`86`](../src/punbb/posting_poll_body.tpl#L86)
 
 ### Version Invision
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`85`](../src/invision/posting_poll_body.tpl#L85), [`90`](../src/invision/posting_poll_body.tpl#L90)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`85`](../src/invision/posting_poll_body.tpl#L85)[`<->`](../src/invision/posting_poll_body.tpl#L85-L90)[`90`](../src/invision/posting_poll_body.tpl#L90)
 

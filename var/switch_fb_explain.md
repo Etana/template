@@ -15,14 +15,14 @@ Le contenu de la boucle est affiché si Facebook Connect est activé dans `PA > 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`5`](../src/prosilver/agreement.tpl#L5), [`14`](../src/prosilver/agreement.tpl#L14)
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`5`](../src/prosilver/agreement.tpl#L5)[`<->`](../src/prosilver/agreement.tpl#L5-L14)[`14`](../src/prosilver/agreement.tpl#L14)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`10`](../src/subsilver/agreement.tpl#L10), [`21`](../src/subsilver/agreement.tpl#L21)
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`10`](../src/subsilver/agreement.tpl#L10)[`<->`](../src/subsilver/agreement.tpl#L10-L21)[`21`](../src/subsilver/agreement.tpl#L21)
 
 ### Version PunBB
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`20`](../src/punbb/agreement.tpl#L20), [`26`](../src/punbb/agreement.tpl#L26)
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`20`](../src/punbb/agreement.tpl#L20)[`<->`](../src/punbb/agreement.tpl#L20-L26)[`26`](../src/punbb/agreement.tpl#L26)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`23`](../src/invision/agreement.tpl#L23), [`31`](../src/invision/agreement.tpl#L31)
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`23`](../src/invision/agreement.tpl#L23)[`<->`](../src/invision/agreement.tpl#L23-L31)[`31`](../src/invision/agreement.tpl#L31)
 

@@ -15,15 +15,15 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`64`](../src/prosilver/album_index_body.tpl#L64), [`66`](../src/prosilver/album_index_body.tpl#L66)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`64`](../src/prosilver/album_index_body.tpl#L64)[`<->`](../src/prosilver/album_index_body.tpl#L64-L66)[`66`](../src/prosilver/album_index_body.tpl#L66)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`116`](../src/subsilver/album_index_body.tpl#L116), [`120`](../src/subsilver/album_index_body.tpl#L120)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`453`](../src/subsilver/viewtopic_body.tpl#L453), [`460`](../src/subsilver/viewtopic_body.tpl#L460)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`116`](../src/subsilver/album_index_body.tpl#L116)[`<->`](../src/subsilver/album_index_body.tpl#L116-L120)[`120`](../src/subsilver/album_index_body.tpl#L120)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`453`](../src/subsilver/viewtopic_body.tpl#L453)[`<->`](../src/subsilver/viewtopic_body.tpl#L453-L460)[`460`](../src/subsilver/viewtopic_body.tpl#L460)
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`73`](../src/punbb/album_index_body.tpl#L73), [`75`](../src/punbb/album_index_body.tpl#L75)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`73`](../src/punbb/album_index_body.tpl#L73)[`<->`](../src/punbb/album_index_body.tpl#L73-L75)[`75`](../src/punbb/album_index_body.tpl#L75)
 
 ### Version Invision
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`86`](../src/invision/album_index_body.tpl#L86), [`91`](../src/invision/album_index_body.tpl#L91)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`86`](../src/invision/album_index_body.tpl#L86)[`<->`](../src/invision/album_index_body.tpl#L86-L91)[`91`](../src/invision/album_index_body.tpl#L91)
 

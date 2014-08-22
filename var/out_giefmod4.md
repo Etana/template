@@ -15,5 +15,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`50`](../src/punbb/portal_body.tpl#L50), [`56`](../src/punbb/portal_body.tpl#L56)
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`50`](../src/punbb/portal_body.tpl#L50)[`<->`](../src/punbb/portal_body.tpl#L50-L56)[`56`](../src/punbb/portal_body.tpl#L56)
 

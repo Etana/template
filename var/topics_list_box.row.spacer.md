@@ -19,14 +19,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`146`](../src/prosilver/topics_list_box.tpl#L146), [`146`](../src/prosilver/topics_list_box.tpl#L146)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`146`](../src/prosilver/topics_list_box.tpl#L146)[`<->`](../src/prosilver/topics_list_box.tpl#L146-L146)[`146`](../src/prosilver/topics_list_box.tpl#L146)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`103`](../src/subsilver/topics_list_box.tpl#L103), [`103`](../src/subsilver/topics_list_box.tpl#L103)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`103`](../src/subsilver/topics_list_box.tpl#L103)[`<->`](../src/subsilver/topics_list_box.tpl#L103-L103)[`103`](../src/subsilver/topics_list_box.tpl#L103)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`126`](../src/punbb/topics_list_box.tpl#L126), [`126`](../src/punbb/topics_list_box.tpl#L126)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`126`](../src/punbb/topics_list_box.tpl#L126)[`<->`](../src/punbb/topics_list_box.tpl#L126-L126)[`126`](../src/punbb/topics_list_box.tpl#L126)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`171`](../src/invision/topics_list_box.tpl#L171), [`173`](../src/invision/topics_list_box.tpl#L173)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`171`](../src/invision/topics_list_box.tpl#L171)[`<->`](../src/invision/topics_list_box.tpl#L171-L173)[`173`](../src/invision/topics_list_box.tpl#L173)
 

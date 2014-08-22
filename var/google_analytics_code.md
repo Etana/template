@@ -15,14 +15,14 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`188`](../src/prosilver/overall_header.tpl#L188), [`208`](../src/prosilver/overall_header.tpl#L208)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`188`](../src/prosilver/overall_header.tpl#L188)[`<->`](../src/prosilver/overall_header.tpl#L188-L208)[`208`](../src/prosilver/overall_header.tpl#L208)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`187`](../src/subsilver/overall_header.tpl#L187), [`207`](../src/subsilver/overall_header.tpl#L207)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`187`](../src/subsilver/overall_header.tpl#L187)[`<->`](../src/subsilver/overall_header.tpl#L187-L207)[`207`](../src/subsilver/overall_header.tpl#L207)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`181`](../src/punbb/overall_header.tpl#L181), [`201`](../src/punbb/overall_header.tpl#L201)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`181`](../src/punbb/overall_header.tpl#L181)[`<->`](../src/punbb/overall_header.tpl#L181-L201)[`201`](../src/punbb/overall_header.tpl#L201)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`184`](../src/invision/overall_header.tpl#L184), [`204`](../src/invision/overall_header.tpl#L204)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`184`](../src/invision/overall_header.tpl#L184)[`<->`](../src/invision/overall_header.tpl#L184-L204)[`204`](../src/invision/overall_header.tpl#L204)
 

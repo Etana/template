@@ -15,11 +15,11 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`256`](../src/prosilver/overall_header.tpl#L256), [`258`](../src/prosilver/overall_header.tpl#L258)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`256`](../src/prosilver/overall_header.tpl#L256)[`<->`](../src/prosilver/overall_header.tpl#L256-L258)[`258`](../src/prosilver/overall_header.tpl#L258)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`249`](../src/punbb/overall_header.tpl#L249), [`251`](../src/punbb/overall_header.tpl#L251)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`249`](../src/punbb/overall_header.tpl#L249)[`<->`](../src/punbb/overall_header.tpl#L249-L251)[`251`](../src/punbb/overall_header.tpl#L251)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`254`](../src/invision/overall_header.tpl#L254), [`256`](../src/invision/overall_header.tpl#L256)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`254`](../src/invision/overall_header.tpl#L254)[`<->`](../src/invision/overall_header.tpl#L254-L256)[`256`](../src/invision/overall_header.tpl#L256)
 

@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`55`](../src/prosilver/overall_footer_end.tpl#L55), [`77`](../src/prosilver/overall_footer_end.tpl#L77)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`55`](../src/prosilver/overall_footer_end.tpl#L55)[`<->`](../src/prosilver/overall_footer_end.tpl#L55-L77)[`77`](../src/prosilver/overall_footer_end.tpl#L77)
 
 ### Version phpBB2
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`39`](../src/subsilver/overall_footer_end.tpl#L39), [`61`](../src/subsilver/overall_footer_end.tpl#L61)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`39`](../src/subsilver/overall_footer_end.tpl#L39)[`<->`](../src/subsilver/overall_footer_end.tpl#L39-L61)[`61`](../src/subsilver/overall_footer_end.tpl#L61)
 
 ### Version PunBB
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`53`](../src/punbb/overall_footer_end.tpl#L53), [`75`](../src/punbb/overall_footer_end.tpl#L75)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`53`](../src/punbb/overall_footer_end.tpl#L53)[`<->`](../src/punbb/overall_footer_end.tpl#L53-L75)[`75`](../src/punbb/overall_footer_end.tpl#L75)
 
 ### Version Invision
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`56`](../src/invision/overall_footer_end.tpl#L56), [`78`](../src/invision/overall_footer_end.tpl#L78)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`56`](../src/invision/overall_footer_end.tpl#L56)[`<->`](../src/invision/overall_footer_end.tpl#L56-L78)[`78`](../src/invision/overall_footer_end.tpl#L78)
 

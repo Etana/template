@@ -15,5 +15,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/invision/search_results_topics.tpl#L62), [`83`](../src/invision/search_results_topics.tpl#L83)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/invision/search_results_topics.tpl#L62)[`<->`](../src/invision/search_results_topics.tpl#L62-L83)[`83`](../src/invision/search_results_topics.tpl#L83)
 

@@ -17,14 +17,14 @@ Boucle contenant le message d'accueil.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`25`](../src/prosilver/index_body.tpl#L25), [`37`](../src/prosilver/index_body.tpl#L37)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`25`](../src/prosilver/index_body.tpl#L25)[`<->`](../src/prosilver/index_body.tpl#L25-L37)[`37`](../src/prosilver/index_body.tpl#L37)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`2`](../src/subsilver/index_body.tpl#L2), [`17`](../src/subsilver/index_body.tpl#L17)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`2`](../src/subsilver/index_body.tpl#L2)[`<->`](../src/subsilver/index_body.tpl#L2-L17)[`17`](../src/subsilver/index_body.tpl#L17)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`19`](../src/punbb/index_body.tpl#L19), [`33`](../src/punbb/index_body.tpl#L33)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`19`](../src/punbb/index_body.tpl#L19)[`<->`](../src/punbb/index_body.tpl#L19-L33)[`33`](../src/punbb/index_body.tpl#L33)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`7`](../src/invision/index_body.tpl#L7), [`18`](../src/invision/index_body.tpl#L18)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`7`](../src/invision/index_body.tpl#L7)[`<->`](../src/invision/index_body.tpl#L7-L18)[`18`](../src/invision/index_body.tpl#L18)
 

@@ -15,5 +15,5 @@ Boucle d'affiche si vous êtes dans la partie `/search?search_id=watchsearch`.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`30`](../src/subsilver/search_results_topics.tpl#L30), [`32`](../src/subsilver/search_results_topics.tpl#L32), [`52`](../src/subsilver/search_results_topics.tpl#L52), [`56`](../src/subsilver/search_results_topics.tpl#L56), [`66`](../src/subsilver/search_results_topics.tpl#L66), [`77`](../src/subsilver/search_results_topics.tpl#L77)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`30`](../src/subsilver/search_results_topics.tpl#L30)[`<->`](../src/subsilver/search_results_topics.tpl#L30-L32)[`32`](../src/subsilver/search_results_topics.tpl#L32), [`52`](../src/subsilver/search_results_topics.tpl#L52)[`<->`](../src/subsilver/search_results_topics.tpl#L52-L56)[`56`](../src/subsilver/search_results_topics.tpl#L56), [`66`](../src/subsilver/search_results_topics.tpl#L66)[`<->`](../src/subsilver/search_results_topics.tpl#L66-L77)[`77`](../src/subsilver/search_results_topics.tpl#L77)
 

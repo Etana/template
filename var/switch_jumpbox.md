@@ -15,5 +15,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`398`](../src/prosilver/posting_body.tpl#L398), [`402`](../src/prosilver/posting_body.tpl#L402)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`398`](../src/prosilver/posting_body.tpl#L398)[`<->`](../src/prosilver/posting_body.tpl#L398-L402)[`402`](../src/prosilver/posting_body.tpl#L402)
 

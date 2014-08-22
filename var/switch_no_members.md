@@ -15,14 +15,14 @@ Le contenu de la boucle est affiché si il n'y a pas d'autre membre du groupe qu
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`87`](../src/prosilver/groupcp_info_body.tpl#L87), [`91`](../src/prosilver/groupcp_info_body.tpl#L91)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`87`](../src/prosilver/groupcp_info_body.tpl#L87)[`<->`](../src/prosilver/groupcp_info_body.tpl#L87-L91)[`91`](../src/prosilver/groupcp_info_body.tpl#L91)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`75`](../src/subsilver/groupcp_info_body.tpl#L75), [`79`](../src/subsilver/groupcp_info_body.tpl#L79)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`75`](../src/subsilver/groupcp_info_body.tpl#L75)[`<->`](../src/subsilver/groupcp_info_body.tpl#L75-L79)[`79`](../src/subsilver/groupcp_info_body.tpl#L79)
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`115`](../src/punbb/groupcp_info_body.tpl#L115), [`119`](../src/punbb/groupcp_info_body.tpl#L119)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`115`](../src/punbb/groupcp_info_body.tpl#L115)[`<->`](../src/punbb/groupcp_info_body.tpl#L115-L119)[`119`](../src/punbb/groupcp_info_body.tpl#L119)
 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`91`](../src/invision/groupcp_info_body.tpl#L91), [`95`](../src/invision/groupcp_info_body.tpl#L95)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`91`](../src/invision/groupcp_info_body.tpl#L91)[`<->`](../src/invision/groupcp_info_body.tpl#L91-L95)[`95`](../src/invision/groupcp_info_body.tpl#L95)
 

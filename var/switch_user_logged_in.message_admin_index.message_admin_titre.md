@@ -19,5 +19,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`10`](../src/invision/agreement.tpl#L10), [`12`](../src/invision/agreement.tpl#L12)
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`10`](../src/invision/agreement.tpl#L10)[`<->`](../src/invision/agreement.tpl#L10-L12)[`12`](../src/invision/agreement.tpl#L12)
 

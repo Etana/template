@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`4`](../src/prosilver/album_index_body.tpl#L4), [`41`](../src/prosilver/album_index_body.tpl#L41)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`4`](../src/prosilver/album_index_body.tpl#L4)[`<->`](../src/prosilver/album_index_body.tpl#L4-L41)[`41`](../src/prosilver/album_index_body.tpl#L41)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`8`](../src/subsilver/album_index_body.tpl#L8), [`77`](../src/subsilver/album_index_body.tpl#L77)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`8`](../src/subsilver/album_index_body.tpl#L8)[`<->`](../src/subsilver/album_index_body.tpl#L8-L77)[`77`](../src/subsilver/album_index_body.tpl#L77)
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`16`](../src/punbb/album_index_body.tpl#L16), [`48`](../src/punbb/album_index_body.tpl#L48)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`16`](../src/punbb/album_index_body.tpl#L16)[`<->`](../src/punbb/album_index_body.tpl#L16-L48)[`48`](../src/punbb/album_index_body.tpl#L48)
 
 ### Version Invision
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`15`](../src/invision/album_index_body.tpl#L15), [`54`](../src/invision/album_index_body.tpl#L54)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`15`](../src/invision/album_index_body.tpl#L15)[`<->`](../src/invision/album_index_body.tpl#L15-L54)[`54`](../src/invision/album_index_body.tpl#L54)
 

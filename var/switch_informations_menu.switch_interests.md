@@ -17,8 +17,8 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`88`](../src/punbb/profile_add_body.tpl#L88), [`93`](../src/punbb/profile_add_body.tpl#L93)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`88`](../src/punbb/profile_add_body.tpl#L88)[`<->`](../src/punbb/profile_add_body.tpl#L88-L93)[`93`](../src/punbb/profile_add_body.tpl#L93)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`113`](../src/invision/profile_add_body.tpl#L113), [`118`](../src/invision/profile_add_body.tpl#L118)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`113`](../src/invision/profile_add_body.tpl#L113)[`<->`](../src/invision/profile_add_body.tpl#L113-L118)[`118`](../src/invision/profile_add_body.tpl#L118)
 

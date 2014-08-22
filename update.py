@@ -241,6 +241,8 @@ for var in variables:
                         f.write('[`<->`](../src/'+ver+'/'+tem+'.tpl#L'+str(prev_line)+'-L'+str(num_line)+')')
                     else:
                         f.write(', ')
+                    prev_type = var_type
+                    prev_line = num_line
                     f.write('[`'+str(num_line)+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(num_line)+')')
                 f.write('\n')
             f.write('\n')

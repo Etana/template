@@ -19,14 +19,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/prosilver/topics_list_box.tpl#L3), [`58`](../src/prosilver/topics_list_box.tpl#L58)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/prosilver/topics_list_box.tpl#L3)[`<->`](../src/prosilver/topics_list_box.tpl#L3-L58)[`58`](../src/prosilver/topics_list_box.tpl#L58)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/subsilver/topics_list_box.tpl#L1), [`38`](../src/subsilver/topics_list_box.tpl#L38)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/subsilver/topics_list_box.tpl#L1)[`<->`](../src/subsilver/topics_list_box.tpl#L1-L38)[`38`](../src/subsilver/topics_list_box.tpl#L38)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/punbb/topics_list_box.tpl#L3), [`42`](../src/punbb/topics_list_box.tpl#L42)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/punbb/topics_list_box.tpl#L3)[`<->`](../src/punbb/topics_list_box.tpl#L3-L42)[`42`](../src/punbb/topics_list_box.tpl#L42)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/invision/topics_list_box.tpl#L3), [`73`](../src/invision/topics_list_box.tpl#L73)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/invision/topics_list_box.tpl#L3)[`<->`](../src/invision/topics_list_box.tpl#L3-L73)[`73`](../src/invision/topics_list_box.tpl#L73)
 

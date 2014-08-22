@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`7`](../src/prosilver/mod_whoisonline.tpl#L7), [`10`](../src/prosilver/mod_whoisonline.tpl#L10)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`7`](../src/prosilver/mod_whoisonline.tpl#L7)[`<->`](../src/prosilver/mod_whoisonline.tpl#L7-L10)[`10`](../src/prosilver/mod_whoisonline.tpl#L10)
 
 ### Version phpBB2
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`13`](../src/subsilver/mod_whoisonline.tpl#L13), [`17`](../src/subsilver/mod_whoisonline.tpl#L17)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`13`](../src/subsilver/mod_whoisonline.tpl#L13)[`<->`](../src/subsilver/mod_whoisonline.tpl#L13-L17)[`17`](../src/subsilver/mod_whoisonline.tpl#L17)
 
 ### Version PunBB
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`6`](../src/punbb/mod_whoisonline.tpl#L6), [`9`](../src/punbb/mod_whoisonline.tpl#L9)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`6`](../src/punbb/mod_whoisonline.tpl#L6)[`<->`](../src/punbb/mod_whoisonline.tpl#L6-L9)[`9`](../src/punbb/mod_whoisonline.tpl#L9)
 
 ### Version Invision
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`7`](../src/invision/mod_whoisonline.tpl#L7), [`10`](../src/invision/mod_whoisonline.tpl#L10)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`7`](../src/invision/mod_whoisonline.tpl#L7)[`<->`](../src/invision/mod_whoisonline.tpl#L7-L10)[`10`](../src/invision/mod_whoisonline.tpl#L10)
 

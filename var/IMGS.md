@@ -15,18 +15,18 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`6`](../src/prosilver/mod_rss_feeds.tpl#L6), [`11`](../src/prosilver/mod_rss_feeds.tpl#L11)
-* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`6`](../src/prosilver/mod_social_bookmarking.tpl#L6), [`10`](../src/prosilver/mod_social_bookmarking.tpl#L10)
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`6`](../src/prosilver/mod_rss_feeds.tpl#L6)[`<->`](../src/prosilver/mod_rss_feeds.tpl#L6-L11)[`11`](../src/prosilver/mod_rss_feeds.tpl#L11)
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`6`](../src/prosilver/mod_social_bookmarking.tpl#L6)[`<->`](../src/prosilver/mod_social_bookmarking.tpl#L6-L10)[`10`](../src/prosilver/mod_social_bookmarking.tpl#L10)
 
 ### Version phpBB2
-* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`10`](../src/subsilver/mod_rss_feeds.tpl#L10), [`15`](../src/subsilver/mod_rss_feeds.tpl#L15)
-* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`10`](../src/subsilver/mod_social_bookmarking.tpl#L10), [`14`](../src/subsilver/mod_social_bookmarking.tpl#L14)
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`10`](../src/subsilver/mod_rss_feeds.tpl#L10)[`<->`](../src/subsilver/mod_rss_feeds.tpl#L10-L15)[`15`](../src/subsilver/mod_rss_feeds.tpl#L15)
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`10`](../src/subsilver/mod_social_bookmarking.tpl#L10)[`<->`](../src/subsilver/mod_social_bookmarking.tpl#L10-L14)[`14`](../src/subsilver/mod_social_bookmarking.tpl#L14)
 
 ### Version PunBB
-* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`6`](../src/punbb/mod_rss_feeds.tpl#L6), [`11`](../src/punbb/mod_rss_feeds.tpl#L11)
-* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`6`](../src/punbb/mod_social_bookmarking.tpl#L6), [`10`](../src/punbb/mod_social_bookmarking.tpl#L10)
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`6`](../src/punbb/mod_rss_feeds.tpl#L6)[`<->`](../src/punbb/mod_rss_feeds.tpl#L6-L11)[`11`](../src/punbb/mod_rss_feeds.tpl#L11)
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`6`](../src/punbb/mod_social_bookmarking.tpl#L6)[`<->`](../src/punbb/mod_social_bookmarking.tpl#L6-L10)[`10`](../src/punbb/mod_social_bookmarking.tpl#L10)
 
 ### Version Invision
-* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`4`](../src/invision/mod_rss_feeds.tpl#L4), [`9`](../src/invision/mod_rss_feeds.tpl#L9)
-* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`5`](../src/invision/mod_social_bookmarking.tpl#L5), [`9`](../src/invision/mod_social_bookmarking.tpl#L9)
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`4`](../src/invision/mod_rss_feeds.tpl#L4)[`<->`](../src/invision/mod_rss_feeds.tpl#L4-L9)[`9`](../src/invision/mod_rss_feeds.tpl#L9)
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`5`](../src/invision/mod_social_bookmarking.tpl#L5)[`<->`](../src/invision/mod_social_bookmarking.tpl#L5-L9)[`9`](../src/invision/mod_social_bookmarking.tpl#L9)
 

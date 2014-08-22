@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`221`](../src/prosilver/posting_body.tpl#L221), [`223`](../src/prosilver/posting_body.tpl#L223)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`221`](../src/prosilver/posting_body.tpl#L221)[`<->`](../src/prosilver/posting_body.tpl#L221-L223)[`223`](../src/prosilver/posting_body.tpl#L223)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`318`](../src/subsilver/posting_body.tpl#L318), [`320`](../src/subsilver/posting_body.tpl#L320)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`318`](../src/subsilver/posting_body.tpl#L318)[`<->`](../src/subsilver/posting_body.tpl#L318-L320)[`320`](../src/subsilver/posting_body.tpl#L320)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`246`](../src/punbb/posting_body.tpl#L246), [`248`](../src/punbb/posting_body.tpl#L248)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`246`](../src/punbb/posting_body.tpl#L246)[`<->`](../src/punbb/posting_body.tpl#L246-L248)[`248`](../src/punbb/posting_body.tpl#L248)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`171`](../src/invision/posting_body.tpl#L171), [`173`](../src/invision/posting_body.tpl#L173)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`171`](../src/invision/posting_body.tpl#L171)[`<->`](../src/invision/posting_body.tpl#L171-L173)[`173`](../src/invision/posting_body.tpl#L173)
 

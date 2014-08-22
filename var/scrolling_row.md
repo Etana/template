@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`6`](../src/prosilver/mod_recent_topics.tpl#L6), [`33`](../src/prosilver/mod_recent_topics.tpl#L33)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`6`](../src/prosilver/mod_recent_topics.tpl#L6)[`<->`](../src/prosilver/mod_recent_topics.tpl#L6-L33)[`33`](../src/prosilver/mod_recent_topics.tpl#L33)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`1`](../src/subsilver/mod_recent_topics.tpl#L1), [`37`](../src/subsilver/mod_recent_topics.tpl#L37)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`1`](../src/subsilver/mod_recent_topics.tpl#L1)[`<->`](../src/subsilver/mod_recent_topics.tpl#L1-L37)[`37`](../src/subsilver/mod_recent_topics.tpl#L37)
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`1`](../src/punbb/mod_recent_topics.tpl#L1), [`31`](../src/punbb/mod_recent_topics.tpl#L31)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`1`](../src/punbb/mod_recent_topics.tpl#L1)[`<->`](../src/punbb/mod_recent_topics.tpl#L1-L31)[`31`](../src/punbb/mod_recent_topics.tpl#L31)
 
 ### Version Invision
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`4`](../src/invision/mod_recent_topics.tpl#L4), [`31`](../src/invision/mod_recent_topics.tpl#L31)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`4`](../src/invision/mod_recent_topics.tpl#L4)[`<->`](../src/invision/mod_recent_topics.tpl#L4-L31)[`31`](../src/invision/mod_recent_topics.tpl#L31)
 

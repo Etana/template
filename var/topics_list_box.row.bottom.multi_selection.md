@@ -21,5 +21,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`117`](../src/punbb/topics_list_box.tpl#L117), [`119`](../src/punbb/topics_list_box.tpl#L119)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`117`](../src/punbb/topics_list_box.tpl#L117)[`<->`](../src/punbb/topics_list_box.tpl#L117-L119)[`119`](../src/punbb/topics_list_box.tpl#L119)
 

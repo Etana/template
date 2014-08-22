@@ -19,14 +19,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`39`](../src/prosilver/mod_recent_topics.tpl#L39), [`41`](../src/prosilver/mod_recent_topics.tpl#L41)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`39`](../src/prosilver/mod_recent_topics.tpl#L39)[`<->`](../src/prosilver/mod_recent_topics.tpl#L39-L41)[`41`](../src/prosilver/mod_recent_topics.tpl#L41)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`49`](../src/subsilver/mod_recent_topics.tpl#L49), [`51`](../src/subsilver/mod_recent_topics.tpl#L51)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`49`](../src/subsilver/mod_recent_topics.tpl#L49)[`<->`](../src/subsilver/mod_recent_topics.tpl#L49-L51)[`51`](../src/subsilver/mod_recent_topics.tpl#L51)
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`40`](../src/punbb/mod_recent_topics.tpl#L40), [`42`](../src/punbb/mod_recent_topics.tpl#L42)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`40`](../src/punbb/mod_recent_topics.tpl#L40)[`<->`](../src/punbb/mod_recent_topics.tpl#L40-L42)[`42`](../src/punbb/mod_recent_topics.tpl#L42)
 
 ### Version Invision
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`37`](../src/invision/mod_recent_topics.tpl#L37), [`39`](../src/invision/mod_recent_topics.tpl#L39)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`37`](../src/invision/mod_recent_topics.tpl#L37)[`<->`](../src/invision/mod_recent_topics.tpl#L37-L39)[`39`](../src/invision/mod_recent_topics.tpl#L39)
 

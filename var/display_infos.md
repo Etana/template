@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`259`](../src/prosilver/album_showpage_body.tpl#L259), [`329`](../src/prosilver/album_showpage_body.tpl#L329)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`259`](../src/prosilver/album_showpage_body.tpl#L259)[`<->`](../src/prosilver/album_showpage_body.tpl#L259-L329)[`329`](../src/prosilver/album_showpage_body.tpl#L329)
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`260`](../src/subsilver/album_showpage_body.tpl#L260), [`354`](../src/subsilver/album_showpage_body.tpl#L354)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`260`](../src/subsilver/album_showpage_body.tpl#L260)[`<->`](../src/subsilver/album_showpage_body.tpl#L260-L354)[`354`](../src/subsilver/album_showpage_body.tpl#L354)
 
 ### Version PunBB
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`266`](../src/punbb/album_showpage_body.tpl#L266), [`336`](../src/punbb/album_showpage_body.tpl#L336)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`266`](../src/punbb/album_showpage_body.tpl#L266)[`<->`](../src/punbb/album_showpage_body.tpl#L266-L336)[`336`](../src/punbb/album_showpage_body.tpl#L336)
 
 ### Version Invision
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`251`](../src/invision/album_showpage_body.tpl#L251), [`321`](../src/invision/album_showpage_body.tpl#L321)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`251`](../src/invision/album_showpage_body.tpl#L251)[`<->`](../src/invision/album_showpage_body.tpl#L251-L321)[`321`](../src/invision/album_showpage_body.tpl#L321)
 

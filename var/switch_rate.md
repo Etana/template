@@ -15,14 +15,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`15`](../src/prosilver/album_overview_top10.tpl#L15), [`17`](../src/prosilver/album_overview_top10.tpl#L17)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`15`](../src/prosilver/album_overview_top10.tpl#L15)[`<->`](../src/prosilver/album_overview_top10.tpl#L15-L17)[`17`](../src/prosilver/album_overview_top10.tpl#L17)
 
 ### Version phpBB2
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`23`](../src/subsilver/album_overview_top10.tpl#L23), [`25`](../src/subsilver/album_overview_top10.tpl#L25)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`23`](../src/subsilver/album_overview_top10.tpl#L23)[`<->`](../src/subsilver/album_overview_top10.tpl#L23-L25)[`25`](../src/subsilver/album_overview_top10.tpl#L25)
 
 ### Version PunBB
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`13`](../src/punbb/album_overview_top10.tpl#L13), [`15`](../src/punbb/album_overview_top10.tpl#L15)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`13`](../src/punbb/album_overview_top10.tpl#L13)[`<->`](../src/punbb/album_overview_top10.tpl#L13-L15)[`15`](../src/punbb/album_overview_top10.tpl#L15)
 
 ### Version Invision
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`14`](../src/invision/album_overview_top10.tpl#L14), [`16`](../src/invision/album_overview_top10.tpl#L16)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`14`](../src/invision/album_overview_top10.tpl#L14)[`<->`](../src/invision/album_overview_top10.tpl#L14-L16)[`16`](../src/invision/album_overview_top10.tpl#L16)
 

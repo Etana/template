@@ -15,5 +15,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`130`](../src/subsilver/posting_body.tpl#L130), [`135`](../src/subsilver/posting_body.tpl#L135)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`130`](../src/subsilver/posting_body.tpl#L130)[`<->`](../src/subsilver/posting_body.tpl#L130-L135)[`135`](../src/subsilver/posting_body.tpl#L135)
 

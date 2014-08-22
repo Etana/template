@@ -21,5 +21,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`157`](../src/invision/topics_list_box.tpl#L157), [`167`](../src/invision/topics_list_box.tpl#L167)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`157`](../src/invision/topics_list_box.tpl#L157)[`<->`](../src/invision/topics_list_box.tpl#L157-L167)[`167`](../src/invision/topics_list_box.tpl#L167)
 

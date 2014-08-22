@@ -19,5 +19,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`59`](../src/subsilver/album_index_body.tpl#L59), [`61`](../src/subsilver/album_index_body.tpl#L61)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`59`](../src/subsilver/album_index_body.tpl#L59)[`<->`](../src/subsilver/album_index_body.tpl#L59-L61)[`61`](../src/subsilver/album_index_body.tpl#L61)
 

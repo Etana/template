@@ -15,14 +15,14 @@ Boucle d'affichage de vos widgets de la colonne de gauche si ceux-ci sont activ√
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`332`](../src/prosilver/overall_header.tpl#L332), [`337`](../src/prosilver/overall_header.tpl#L337)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`332`](../src/prosilver/overall_header.tpl#L332)[`<->`](../src/prosilver/overall_header.tpl#L332-L337)[`337`](../src/prosilver/overall_header.tpl#L337)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`326`](../src/subsilver/overall_header.tpl#L326), [`331`](../src/subsilver/overall_header.tpl#L331)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`326`](../src/subsilver/overall_header.tpl#L326)[`<->`](../src/subsilver/overall_header.tpl#L326-L331)[`331`](../src/subsilver/overall_header.tpl#L331)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`302`](../src/punbb/overall_header.tpl#L302), [`307`](../src/punbb/overall_header.tpl#L307)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`302`](../src/punbb/overall_header.tpl#L302)[`<->`](../src/punbb/overall_header.tpl#L302-L307)[`307`](../src/punbb/overall_header.tpl#L307)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`321`](../src/invision/overall_header.tpl#L321), [`326`](../src/invision/overall_header.tpl#L326)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`321`](../src/invision/overall_header.tpl#L321)[`<->`](../src/invision/overall_header.tpl#L321-L326)[`326`](../src/invision/overall_header.tpl#L326)
 
