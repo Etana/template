@@ -32,15 +32,6 @@ Action du formulaire de donation.
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`175`](../src/subsilver/buy_credits.tpl#L175)[`<->`](../src/subsilver/buy_credits.tpl#L175-L175)[`175`](../src/subsilver/buy_credits.tpl#L175)
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`217`](../src/subsilver/buy_credits.tpl#L217)[`<->`](../src/subsilver/buy_credits.tpl#L217-L217)[`217`](../src/subsilver/buy_credits.tpl#L217)
 
-### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`44`](../src/punbb/buy_credits.tpl#L44)[`<->`](../src/punbb/buy_credits.tpl#L44-L44)[`44`](../src/punbb/buy_credits.tpl#L44)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`94`](../src/punbb/buy_credits.tpl#L94)[`<->`](../src/punbb/buy_credits.tpl#L94-L94)[`94`](../src/punbb/buy_credits.tpl#L94)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`111`](../src/punbb/buy_credits.tpl#L111)[`<->`](../src/punbb/buy_credits.tpl#L111-L111)[`111`](../src/punbb/buy_credits.tpl#L111)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`133`](../src/punbb/buy_credits.tpl#L133)[`<->`](../src/punbb/buy_credits.tpl#L133-L133)[`133`](../src/punbb/buy_credits.tpl#L133)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`148`](../src/punbb/buy_credits.tpl#L148)[`<->`](../src/punbb/buy_credits.tpl#L148-L148)[`148`](../src/punbb/buy_credits.tpl#L148)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`161`](../src/punbb/buy_credits.tpl#L161)[`<->`](../src/punbb/buy_credits.tpl#L161-L161)[`161`](../src/punbb/buy_credits.tpl#L161)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`192`](../src/punbb/buy_credits.tpl#L192)[`<->`](../src/punbb/buy_credits.tpl#L192-L192)[`192`](../src/punbb/buy_credits.tpl#L192)
-
 ### Version Invision
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`30`](../src/invision/buy_credits.tpl#L30)[`<->`](../src/invision/buy_credits.tpl#L30-L30)[`30`](../src/invision/buy_credits.tpl#L30)
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`77`](../src/invision/buy_credits.tpl#L77)[`<->`](../src/invision/buy_credits.tpl#L77-L77)[`77`](../src/invision/buy_credits.tpl#L77)

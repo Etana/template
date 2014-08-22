@@ -12,17 +12,9 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`52`](../src/prosilver/album_edit_body.tpl#L52)[`<->`](../src/prosilver/album_edit_body.tpl#L52-L52)[`52`](../src/prosilver/album_edit_body.tpl#L52)
-* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`57`](../src/prosilver/album_edit_body.tpl#L57)[`<->`](../src/prosilver/album_edit_body.tpl#L57-L57)[`57`](../src/prosilver/album_edit_body.tpl#L57)
-
 ### Version phpBB2
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`51`](../src/subsilver/album_edit_body.tpl#L51)[`<->`](../src/subsilver/album_edit_body.tpl#L51-L51)[`51`](../src/subsilver/album_edit_body.tpl#L51)
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`57`](../src/subsilver/album_edit_body.tpl#L57)[`<->`](../src/subsilver/album_edit_body.tpl#L57-L57)[`57`](../src/subsilver/album_edit_body.tpl#L57)
-
-### Version PunBB
-* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`63`](../src/punbb/album_edit_body.tpl#L63)[`<->`](../src/punbb/album_edit_body.tpl#L63-L63)[`63`](../src/punbb/album_edit_body.tpl#L63)
-* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`68`](../src/punbb/album_edit_body.tpl#L68)[`<->`](../src/punbb/album_edit_body.tpl#L68-L68)[`68`](../src/punbb/album_edit_body.tpl#L68)
 
 ### Version Invision
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`51`](../src/invision/album_edit_body.tpl#L51)[`<->`](../src/invision/album_edit_body.tpl#L51-L51)[`51`](../src/invision/album_edit_body.tpl#L51)

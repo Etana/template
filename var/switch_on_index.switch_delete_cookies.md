@@ -20,10 +20,6 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`100`](../src/subsilver/index_body.tpl#L100)[`<->`](../src/subsilver/index_body.tpl#L100-L100)[`100`](../src/subsilver/index_body.tpl#L100)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`102`](../src/subsilver/index_body.tpl#L102)[`<->`](../src/subsilver/index_body.tpl#L102-L102)[`102`](../src/subsilver/index_body.tpl#L102)
 
-### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`71`](../src/punbb/index_box.tpl#L71)[`<->`](../src/punbb/index_box.tpl#L71-L71)[`71`](../src/punbb/index_box.tpl#L71)
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`75`](../src/punbb/index_box.tpl#L75)[`<->`](../src/punbb/index_box.tpl#L75-L75)[`75`](../src/punbb/index_box.tpl#L75)
-
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`80`](../src/invision/index_box.tpl#L80)[`<->`](../src/invision/index_box.tpl#L80-L80)[`80`](../src/invision/index_box.tpl#L80)
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`82`](../src/invision/index_box.tpl#L82)[`<->`](../src/invision/index_box.tpl#L82-L82)[`82`](../src/invision/index_box.tpl#L82)

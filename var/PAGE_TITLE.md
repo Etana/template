@@ -24,12 +24,6 @@ Contient le titre de la page sur laquelle on se trouve.
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`17`](../src/subsilver/overall_header.tpl#L17)[`<->`](../src/subsilver/overall_header.tpl#L17-L17)[`17`](../src/subsilver/overall_header.tpl#L17)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`5`](../src/subsilver/simple_header.tpl#L5)[`<->`](../src/subsilver/simple_header.tpl#L5-L5)[`5`](../src/subsilver/simple_header.tpl#L5)
 
-### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`19`](../src/punbb/memberlist_body.tpl#L19)[`<->`](../src/punbb/memberlist_body.tpl#L19-L19)[`19`](../src/punbb/memberlist_body.tpl#L19)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`4`](../src/punbb/overall_header.tpl#L4)[`<->`](../src/punbb/overall_header.tpl#L4-L4)[`4`](../src/punbb/overall_header.tpl#L4)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`17`](../src/punbb/overall_header.tpl#L17)[`<->`](../src/punbb/overall_header.tpl#L17-L17)[`17`](../src/punbb/overall_header.tpl#L17)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`5`](../src/punbb/simple_header.tpl#L5)[`<->`](../src/punbb/simple_header.tpl#L5-L5)[`5`](../src/punbb/simple_header.tpl#L5)
-
 ### Version Invision
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`55`](../src/invision/memberlist_body.tpl#L55)[`<->`](../src/invision/memberlist_body.tpl#L55-L55)[`55`](../src/invision/memberlist_body.tpl#L55)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`4`](../src/invision/overall_header.tpl#L4)[`<->`](../src/invision/overall_header.tpl#L4-L4)[`4`](../src/invision/overall_header.tpl#L4)

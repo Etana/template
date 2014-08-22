@@ -24,9 +24,6 @@ Image `E-mail` ( choisie dans [`Index`](http://votre-forum.appspot.com/#/admin/,
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`70`](../src/subsilver/groupcp_info_body.tpl#L70)[`<->`](../src/subsilver/groupcp_info_body.tpl#L70-L70)[`70`](../src/subsilver/groupcp_info_body.tpl#L70)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`110`](../src/punbb/groupcp_info_body.tpl#L110)[`<->`](../src/punbb/groupcp_info_body.tpl#L110-L110)[`110`](../src/punbb/groupcp_info_body.tpl#L110)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`86`](../src/invision/groupcp_info_body.tpl#L86)[`<->`](../src/invision/groupcp_info_body.tpl#L86-L86)[`86`](../src/invision/groupcp_info_body.tpl#L86)
 

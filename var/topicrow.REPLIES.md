@@ -18,9 +18,6 @@
 ### Version phpBB2
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`27`](../src/subsilver/modcp_body.tpl#L27)[`<->`](../src/subsilver/modcp_body.tpl#L27-L27)[`27`](../src/subsilver/modcp_body.tpl#L27)
 
-### Version PunBB
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`53`](../src/punbb/modcp_body.tpl#L53)[`<->`](../src/punbb/modcp_body.tpl#L53-L53)[`53`](../src/punbb/modcp_body.tpl#L53)
-
 ### Version Invision
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`32`](../src/invision/modcp_body.tpl#L32)[`<->`](../src/invision/modcp_body.tpl#L32-L32)[`32`](../src/invision/modcp_body.tpl#L32)
 

@@ -1,6 +1,6 @@
 # L_MESSAGE
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`greeting_popup`](../tpl/greeting_popup.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`greeting_popup`](../tpl/greeting_popup.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -30,8 +30,6 @@ L'Equipe du site
 
 ### Version phpBB3
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`22`](../src/prosilver/greeting_popup.tpl#L22)[`<->`](../src/prosilver/greeting_popup.tpl#L22-L22)[`22`](../src/prosilver/greeting_popup.tpl#L22)
-* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`20`](../src/prosilver/privmsgs_popup.tpl#L20)[`<->`](../src/prosilver/privmsgs_popup.tpl#L20-L20)[`20`](../src/prosilver/privmsgs_popup.tpl#L20)
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`22`](../src/prosilver/privmsgs_read_body.tpl#L22)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L22-L22)[`22`](../src/prosilver/privmsgs_read_body.tpl#L22)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`22`](../src/prosilver/report_popup_body.tpl#L22)[`<->`](../src/prosilver/report_popup_body.tpl#L22-L22)[`22`](../src/prosilver/report_popup_body.tpl#L22)
 
 ### Version phpBB2
@@ -45,15 +43,6 @@ L'Equipe du site
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`16`](../src/subsilver/search_results_posts.tpl#L16)[`<->`](../src/subsilver/search_results_posts.tpl#L16-L16)[`16`](../src/subsilver/search_results_posts.tpl#L16)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`129`](../src/subsilver/viewtopic_body.tpl#L129)[`<->`](../src/subsilver/viewtopic_body.tpl#L129-L129)[`129`](../src/subsilver/viewtopic_body.tpl#L129)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`269`](../src/subsilver/viewtopic_body.tpl#L269)[`<->`](../src/subsilver/viewtopic_body.tpl#L269-L269)[`269`](../src/subsilver/viewtopic_body.tpl#L269)
-
-### Version PunBB
-* __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`24`](../src/punbb/greeting_popup.tpl#L24)[`<->`](../src/punbb/greeting_popup.tpl#L24-L24)[`24`](../src/punbb/greeting_popup.tpl#L24)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`168`](../src/punbb/posting_body.tpl#L168)[`<->`](../src/punbb/posting_body.tpl#L168-L168)[`168`](../src/punbb/posting_body.tpl#L168)
-* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`23`](../src/punbb/privmsgs_popup.tpl#L23)[`<->`](../src/punbb/privmsgs_popup.tpl#L23-L23)[`23`](../src/punbb/privmsgs_popup.tpl#L23)
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`32`](../src/punbb/privmsgs_read_body.tpl#L32)[`<->`](../src/punbb/privmsgs_read_body.tpl#L32-L32)[`32`](../src/punbb/privmsgs_read_body.tpl#L32)
-* __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`24`](../src/punbb/report_popup_body.tpl#L24)[`<->`](../src/punbb/report_popup_body.tpl#L24-L24)[`24`](../src/punbb/report_popup_body.tpl#L24)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`124`](../src/punbb/viewtopic_body.tpl#L124)[`<->`](../src/punbb/viewtopic_body.tpl#L124-L124)[`124`](../src/punbb/viewtopic_body.tpl#L124)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`268`](../src/punbb/viewtopic_body.tpl#L268)[`<->`](../src/punbb/viewtopic_body.tpl#L268-L268)[`268`](../src/punbb/viewtopic_body.tpl#L268)
 
 ### Version Invision
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`21`](../src/invision/greeting_popup.tpl#L21)[`<->`](../src/invision/greeting_popup.tpl#L21-L21)[`21`](../src/invision/greeting_popup.tpl#L21)

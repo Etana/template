@@ -12,17 +12,9 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`32`](../src/prosilver/calendar_scheduler_body.tpl#L32)[`<->`](../src/prosilver/calendar_scheduler_body.tpl#L32-L32)[`32`](../src/prosilver/calendar_scheduler_body.tpl#L32)
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`34`](../src/prosilver/calendar_scheduler_body.tpl#L34)[`<->`](../src/prosilver/calendar_scheduler_body.tpl#L34-L34)[`34`](../src/prosilver/calendar_scheduler_body.tpl#L34)
-
 ### Version phpBB2
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`40`](../src/subsilver/calendar_scheduler_body.tpl#L40)[`<->`](../src/subsilver/calendar_scheduler_body.tpl#L40-L40)[`40`](../src/subsilver/calendar_scheduler_body.tpl#L40)
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`42`](../src/subsilver/calendar_scheduler_body.tpl#L42)[`<->`](../src/subsilver/calendar_scheduler_body.tpl#L42-L42)[`42`](../src/subsilver/calendar_scheduler_body.tpl#L42)
-
-### Version PunBB
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`46`](../src/punbb/calendar_scheduler_body.tpl#L46)[`<->`](../src/punbb/calendar_scheduler_body.tpl#L46-L46)[`46`](../src/punbb/calendar_scheduler_body.tpl#L46)
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`48`](../src/punbb/calendar_scheduler_body.tpl#L48)[`<->`](../src/punbb/calendar_scheduler_body.tpl#L48-L48)[`48`](../src/punbb/calendar_scheduler_body.tpl#L48)
 
 ### Version Invision
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`25`](../src/invision/calendar_scheduler_body.tpl#L25)[`<->`](../src/invision/calendar_scheduler_body.tpl#L25-L25)[`25`](../src/invision/calendar_scheduler_body.tpl#L25)

@@ -12,17 +12,9 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`10`](../src/prosilver/profile_avatar_gallery.tpl#L10)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L10-L10)[`10`](../src/prosilver/profile_avatar_gallery.tpl#L10)
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`17`](../src/prosilver/profile_avatar_gallery.tpl#L17)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L17-L17)[`17`](../src/prosilver/profile_avatar_gallery.tpl#L17)
-
 ### Version phpBB2
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`16`](../src/subsilver/profile_avatar_gallery.tpl#L16)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L16-L16)[`16`](../src/subsilver/profile_avatar_gallery.tpl#L16)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`18`](../src/subsilver/profile_avatar_gallery.tpl#L18)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L18-L18)[`18`](../src/subsilver/profile_avatar_gallery.tpl#L18)
-
-### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`28`](../src/punbb/profile_avatar_gallery.tpl#L28)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L28-L28)[`28`](../src/punbb/profile_avatar_gallery.tpl#L28)
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`36`](../src/punbb/profile_avatar_gallery.tpl#L36)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L36-L36)[`36`](../src/punbb/profile_avatar_gallery.tpl#L36)
 
 ### Version Invision
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`15`](../src/invision/profile_avatar_gallery.tpl#L15)[`<->`](../src/invision/profile_avatar_gallery.tpl#L15-L15)[`15`](../src/invision/profile_avatar_gallery.tpl#L15)

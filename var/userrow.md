@@ -20,10 +20,6 @@
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`48`](../src/subsilver/modcp_viewip.tpl#L48)[`<->`](../src/subsilver/modcp_viewip.tpl#L48-L48)[`48`](../src/subsilver/modcp_viewip.tpl#L48)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`59`](../src/subsilver/modcp_viewip.tpl#L59)[`<->`](../src/subsilver/modcp_viewip.tpl#L59-L59)[`59`](../src/subsilver/modcp_viewip.tpl#L59)
 
-### Version PunBB
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`79`](../src/punbb/modcp_viewip.tpl#L79)[`<->`](../src/punbb/modcp_viewip.tpl#L79-L79)[`79`](../src/punbb/modcp_viewip.tpl#L79)
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`84`](../src/punbb/modcp_viewip.tpl#L84)[`<->`](../src/punbb/modcp_viewip.tpl#L84-L84)[`84`](../src/punbb/modcp_viewip.tpl#L84)
-
 ### Version Invision
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`57`](../src/invision/modcp_viewip.tpl#L57)[`<->`](../src/invision/modcp_viewip.tpl#L57-L57)[`57`](../src/invision/modcp_viewip.tpl#L57)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`62`](../src/invision/modcp_viewip.tpl#L62)[`<->`](../src/invision/modcp_viewip.tpl#L62-L62)[`62`](../src/invision/modcp_viewip.tpl#L62)

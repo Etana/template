@@ -18,9 +18,6 @@
 ### Version phpBB2
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`25`](../src/subsilver/groupcp_user_body.tpl#L25)[`<->`](../src/subsilver/groupcp_user_body.tpl#L25-L25)[`25`](../src/subsilver/groupcp_user_body.tpl#L25)
 
-### Version PunBB
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`58`](../src/punbb/groupcp_user_body.tpl#L58)[`<->`](../src/punbb/groupcp_user_body.tpl#L58-L58)[`58`](../src/punbb/groupcp_user_body.tpl#L58)
-
 ### Version Invision
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`38`](../src/invision/groupcp_user_body.tpl#L38)[`<->`](../src/invision/groupcp_user_body.tpl#L38-L38)[`38`](../src/invision/groupcp_user_body.tpl#L38)
 

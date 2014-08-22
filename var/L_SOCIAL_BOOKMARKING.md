@@ -18,9 +18,6 @@
 ### Version phpBB2
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`3`](../src/subsilver/mod_social_bookmarking.tpl#L3)[`<->`](../src/subsilver/mod_social_bookmarking.tpl#L3-L3)[`3`](../src/subsilver/mod_social_bookmarking.tpl#L3)
 
-### Version PunBB
-* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`2`](../src/punbb/mod_social_bookmarking.tpl#L2)[`<->`](../src/punbb/mod_social_bookmarking.tpl#L2-L2)[`2`](../src/punbb/mod_social_bookmarking.tpl#L2)
-
 ### Version Invision
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`2`](../src/invision/mod_social_bookmarking.tpl#L2)[`<->`](../src/invision/mod_social_bookmarking.tpl#L2-L2)[`2`](../src/invision/mod_social_bookmarking.tpl#L2)
 

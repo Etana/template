@@ -12,14 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`60`](../src/prosilver/posting_poll_body.tpl#L60)[`<->`](../src/prosilver/posting_poll_body.tpl#L60-L60)[`60`](../src/prosilver/posting_poll_body.tpl#L60)
-
 ### Version phpBB2
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`57`](../src/subsilver/posting_poll_body.tpl#L57)[`<->`](../src/subsilver/posting_poll_body.tpl#L57-L57)[`57`](../src/subsilver/posting_poll_body.tpl#L57)
-
-### Version PunBB
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`64`](../src/punbb/posting_poll_body.tpl#L64)[`<->`](../src/punbb/posting_poll_body.tpl#L64-L64)[`64`](../src/punbb/posting_poll_body.tpl#L64)
 
 ### Version Invision
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`68`](../src/invision/posting_poll_body.tpl#L68)[`<->`](../src/invision/posting_poll_body.tpl#L68-L68)[`68`](../src/invision/posting_poll_body.tpl#L68)

@@ -30,13 +30,6 @@
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`57`](../src/subsilver/mod_login.tpl#L57)[`<->`](../src/subsilver/mod_login.tpl#L57-L57)[`57`](../src/subsilver/mod_login.tpl#L57)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`234`](../src/subsilver/overall_header.tpl#L234)[`<->`](../src/subsilver/overall_header.tpl#L234-L234)[`234`](../src/subsilver/overall_header.tpl#L234)
 
-### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`37`](../src/punbb/index_body.tpl#L37)[`<->`](../src/punbb/index_body.tpl#L37-L37)[`37`](../src/punbb/index_body.tpl#L37)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`106`](../src/punbb/index_body.tpl#L106)[`<->`](../src/punbb/index_body.tpl#L106-L106)[`106`](../src/punbb/index_body.tpl#L106)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`5`](../src/punbb/mod_login.tpl#L5)[`<->`](../src/punbb/mod_login.tpl#L5-L5)[`5`](../src/punbb/mod_login.tpl#L5)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`40`](../src/punbb/mod_login.tpl#L40)[`<->`](../src/punbb/mod_login.tpl#L40-L40)[`40`](../src/punbb/mod_login.tpl#L40)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`226`](../src/punbb/overall_header.tpl#L226)[`<->`](../src/punbb/overall_header.tpl#L226-L226)[`226`](../src/punbb/overall_header.tpl#L226)
-
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`22`](../src/invision/index_body.tpl#L22)[`<->`](../src/invision/index_body.tpl#L22-L22)[`22`](../src/invision/index_body.tpl#L22)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`171`](../src/invision/index_body.tpl#L171)[`<->`](../src/invision/index_body.tpl#L171-L171)[`171`](../src/invision/index_body.tpl#L171)

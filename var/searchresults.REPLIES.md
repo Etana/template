@@ -18,9 +18,6 @@ Contient le nombre de réponses postés dans le sujet.
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`43`](../src/subsilver/search_results_topics.tpl#L43)[`<->`](../src/subsilver/search_results_topics.tpl#L43-L43)[`43`](../src/subsilver/search_results_topics.tpl#L43)
 
-### Version PunBB
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`60`](../src/punbb/search_results_topics.tpl#L60)[`<->`](../src/punbb/search_results_topics.tpl#L60-L60)[`60`](../src/punbb/search_results_topics.tpl#L60)
-
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`49`](../src/invision/search_results_topics.tpl#L49)[`<->`](../src/invision/search_results_topics.tpl#L49-L49)[`49`](../src/invision/search_results_topics.tpl#L49)
 

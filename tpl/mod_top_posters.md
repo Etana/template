@@ -13,9 +13,9 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{L_TOP_POSTERS}`](https://github.com/Etana/template/blob/master/var/L_TOP_POSTERS.md#readme)
-	* [`{POSTER}`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
-	* [`{POSTER.BARRE}`](https://github.com/Etana/template/blob/master/var/POSTER.BARRE.md#readme)
-	* [`{POSTER.NAME}`](https://github.com/Etana/template/blob/master/var/POSTER.NAME.md#readme)
-	* [`{POSTER.NB_POSTS}`](https://github.com/Etana/template/blob/master/var/POSTER.NB_POSTS.md#readme)
-	* [`{POSTER.ROW_CLASS}`](https://github.com/Etana/template/blob/master/var/POSTER.ROW_CLASS.md#readme)
+	* `{L_TOP_POSTERS}`](../var/L_TOP_POSTERS.md#readme)
+	* `&lt; POSTER &gt;`](../var/POSTER.md#readme)
+	* `{POSTER.BARRE}`](../var/POSTER.BARRE.md#readme)
+	* `{POSTER.NAME}`](../var/POSTER.NAME.md#readme)
+	* `{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)
+	* `{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme)

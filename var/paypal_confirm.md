@@ -20,10 +20,6 @@
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`190`](../src/subsilver/buy_credits.tpl#L190)[`<->`](../src/subsilver/buy_credits.tpl#L190-L190)[`190`](../src/subsilver/buy_credits.tpl#L190)
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`226`](../src/subsilver/buy_credits.tpl#L226)[`<->`](../src/subsilver/buy_credits.tpl#L226-L226)[`226`](../src/subsilver/buy_credits.tpl#L226)
 
-### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`178`](../src/punbb/buy_credits.tpl#L178)[`<->`](../src/punbb/buy_credits.tpl#L178-L178)[`178`](../src/punbb/buy_credits.tpl#L178)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`201`](../src/punbb/buy_credits.tpl#L201)[`<->`](../src/punbb/buy_credits.tpl#L201-L201)[`201`](../src/punbb/buy_credits.tpl#L201)
-
 ### Version Invision
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`156`](../src/invision/buy_credits.tpl#L156)[`<->`](../src/invision/buy_credits.tpl#L156-L156)[`156`](../src/invision/buy_credits.tpl#L156)
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`174`](../src/invision/buy_credits.tpl#L174)[`<->`](../src/invision/buy_credits.tpl#L174-L174)[`174`](../src/invision/buy_credits.tpl#L174)

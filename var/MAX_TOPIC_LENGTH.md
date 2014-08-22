@@ -18,9 +18,6 @@
 ### Version phpBB2
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`16`](../src/subsilver/modcp_split.tpl#L16)[`<->`](../src/subsilver/modcp_split.tpl#L16-L16)[`16`](../src/subsilver/modcp_split.tpl#L16)
 
-### Version PunBB
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`33`](../src/punbb/modcp_split.tpl#L33)[`<->`](../src/punbb/modcp_split.tpl#L33-L33)[`33`](../src/punbb/modcp_split.tpl#L33)
-
 ### Version Invision
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`16`](../src/invision/modcp_split.tpl#L16)[`<->`](../src/invision/modcp_split.tpl#L16-L16)[`16`](../src/invision/modcp_split.tpl#L16)
 

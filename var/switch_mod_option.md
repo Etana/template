@@ -30,14 +30,6 @@ Le contenu de la boucle est affiché si le visiteur est administrateur ou modér
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`125`](../src/subsilver/groupcp_info_body.tpl#L125)[`<->`](../src/subsilver/groupcp_info_body.tpl#L125-L125)[`125`](../src/subsilver/groupcp_info_body.tpl#L125)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`148`](../src/subsilver/groupcp_info_body.tpl#L148)[`<->`](../src/subsilver/groupcp_info_body.tpl#L148-L148)[`148`](../src/subsilver/groupcp_info_body.tpl#L148)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`53`](../src/punbb/groupcp_info_body.tpl#L53)[`<->`](../src/punbb/groupcp_info_body.tpl#L53-L53)[`53`](../src/punbb/groupcp_info_body.tpl#L53)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`63`](../src/punbb/groupcp_info_body.tpl#L63)[`<->`](../src/punbb/groupcp_info_body.tpl#L63-L63)[`63`](../src/punbb/groupcp_info_body.tpl#L63)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`129`](../src/punbb/groupcp_info_body.tpl#L129)[`<->`](../src/punbb/groupcp_info_body.tpl#L129-L129)[`129`](../src/punbb/groupcp_info_body.tpl#L129)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`138`](../src/punbb/groupcp_info_body.tpl#L138)[`<->`](../src/punbb/groupcp_info_body.tpl#L138-L138)[`138`](../src/punbb/groupcp_info_body.tpl#L138)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`154`](../src/punbb/groupcp_info_body.tpl#L154)[`<->`](../src/punbb/groupcp_info_body.tpl#L154-L154)[`154`](../src/punbb/groupcp_info_body.tpl#L154)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`177`](../src/punbb/groupcp_info_body.tpl#L177)[`<->`](../src/punbb/groupcp_info_body.tpl#L177-L177)[`177`](../src/punbb/groupcp_info_body.tpl#L177)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`33`](../src/invision/groupcp_info_body.tpl#L33)[`<->`](../src/invision/groupcp_info_body.tpl#L33-L33)[`33`](../src/invision/groupcp_info_body.tpl#L33)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`43`](../src/invision/groupcp_info_body.tpl#L43)[`<->`](../src/invision/groupcp_info_body.tpl#L43-L43)[`43`](../src/invision/groupcp_info_body.tpl#L43)

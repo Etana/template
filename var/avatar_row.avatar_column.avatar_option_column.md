@@ -12,14 +12,6 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`12`](../src/prosilver/profile_avatar_gallery.tpl#L12)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L12-L12)[`12`](../src/prosilver/profile_avatar_gallery.tpl#L12)
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`14`](../src/prosilver/profile_avatar_gallery.tpl#L14)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L14-L14)[`14`](../src/prosilver/profile_avatar_gallery.tpl#L14)
-
-### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`31`](../src/punbb/profile_avatar_gallery.tpl#L31)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L31-L31)[`31`](../src/punbb/profile_avatar_gallery.tpl#L31)
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`33`](../src/punbb/profile_avatar_gallery.tpl#L33)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L33-L33)[`33`](../src/punbb/profile_avatar_gallery.tpl#L33)
-
 ### Version Invision
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`18`](../src/invision/profile_avatar_gallery.tpl#L18)[`<->`](../src/invision/profile_avatar_gallery.tpl#L18-L18)[`18`](../src/invision/profile_avatar_gallery.tpl#L18)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`20`](../src/invision/profile_avatar_gallery.tpl#L20)[`<->`](../src/invision/profile_avatar_gallery.tpl#L20-L20)[`20`](../src/invision/profile_avatar_gallery.tpl#L20)

@@ -20,10 +20,6 @@ Lien vers "Envoyer à un ami" dans le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`21`](../src/subsilver/viewforum_body.tpl#L21)[`<->`](../src/subsilver/viewforum_body.tpl#L21-L21)[`21`](../src/subsilver/viewforum_body.tpl#L21)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`97`](../src/subsilver/viewtopic_body.tpl#L97)[`<->`](../src/subsilver/viewtopic_body.tpl#L97-L97)[`97`](../src/subsilver/viewtopic_body.tpl#L97)
 
-### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`10`](../src/punbb/viewforum_body.tpl#L10)[`<->`](../src/punbb/viewforum_body.tpl#L10-L10)[`10`](../src/punbb/viewforum_body.tpl#L10)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`59`](../src/punbb/viewtopic_body.tpl#L59)[`<->`](../src/punbb/viewtopic_body.tpl#L59-L59)[`59`](../src/punbb/viewtopic_body.tpl#L59)
-
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`102`](../src/invision/viewtopic_body.tpl#L102)[`<->`](../src/invision/viewtopic_body.tpl#L102-L102)[`102`](../src/invision/viewtopic_body.tpl#L102)
 

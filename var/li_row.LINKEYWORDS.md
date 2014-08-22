@@ -18,9 +18,6 @@
 ### Version phpBB2
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`12`](../src/subsilver/mod_keywords.tpl#L12)[`<->`](../src/subsilver/mod_keywords.tpl#L12-L12)[`12`](../src/subsilver/mod_keywords.tpl#L12)
 
-### Version PunBB
-* __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`6`](../src/punbb/mod_keywords.tpl#L6)[`<->`](../src/punbb/mod_keywords.tpl#L6-L6)[`6`](../src/punbb/mod_keywords.tpl#L6)
-
 ### Version Invision
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`6`](../src/invision/mod_keywords.tpl#L6)[`<->`](../src/invision/mod_keywords.tpl#L6-L6)[`6`](../src/invision/mod_keywords.tpl#L6)
 

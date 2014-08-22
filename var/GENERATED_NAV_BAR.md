@@ -18,9 +18,6 @@ Affiche la barre de navigation choisie dans PA > Affichage > Page d'accueil | En
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`275`](../src/subsilver/overall_header.tpl#L275)[`<->`](../src/subsilver/overall_header.tpl#L275-L275)[`275`](../src/subsilver/overall_header.tpl#L275)
 
-### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`256`](../src/punbb/overall_header.tpl#L256)[`<->`](../src/punbb/overall_header.tpl#L256-L256)[`256`](../src/punbb/overall_header.tpl#L256)
-
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`261`](../src/invision/overall_header.tpl#L261)[`<->`](../src/invision/overall_header.tpl#L261-L261)[`261`](../src/invision/overall_header.tpl#L261)
 

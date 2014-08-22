@@ -18,9 +18,6 @@
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`64`](../src/subsilver/buy_credits.tpl#L64)[`<->`](../src/subsilver/buy_credits.tpl#L64-L64)[`64`](../src/subsilver/buy_credits.tpl#L64)
 
-### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`68`](../src/punbb/buy_credits.tpl#L68)[`<->`](../src/punbb/buy_credits.tpl#L68-L68)[`68`](../src/punbb/buy_credits.tpl#L68)
-
 ### Version Invision
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`53`](../src/invision/buy_credits.tpl#L53)[`<->`](../src/invision/buy_credits.tpl#L53-L53)[`53`](../src/invision/buy_credits.tpl#L53)
 

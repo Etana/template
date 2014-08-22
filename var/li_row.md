@@ -20,10 +20,6 @@
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`11`](../src/subsilver/mod_keywords.tpl#L11)[`<->`](../src/subsilver/mod_keywords.tpl#L11-L11)[`11`](../src/subsilver/mod_keywords.tpl#L11)
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`13`](../src/subsilver/mod_keywords.tpl#L13)[`<->`](../src/subsilver/mod_keywords.tpl#L13-L13)[`13`](../src/subsilver/mod_keywords.tpl#L13)
 
-### Version PunBB
-* __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`5`](../src/punbb/mod_keywords.tpl#L5)[`<->`](../src/punbb/mod_keywords.tpl#L5-L5)[`5`](../src/punbb/mod_keywords.tpl#L5)
-* __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`7`](../src/punbb/mod_keywords.tpl#L7)[`<->`](../src/punbb/mod_keywords.tpl#L7-L7)[`7`](../src/punbb/mod_keywords.tpl#L7)
-
 ### Version Invision
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`5`](../src/invision/mod_keywords.tpl#L5)[`<->`](../src/invision/mod_keywords.tpl#L5-L5)[`5`](../src/invision/mod_keywords.tpl#L5)
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`7`](../src/invision/mod_keywords.tpl#L7)[`<->`](../src/invision/mod_keywords.tpl#L7-L7)[`7`](../src/invision/mod_keywords.tpl#L7)

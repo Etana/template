@@ -23,9 +23,6 @@ Texte remplacé en français par `Ce groupe est invisible, vous ne pouvez pas vo
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`82`](../src/subsilver/groupcp_info_body.tpl#L82)[`<->`](../src/subsilver/groupcp_info_body.tpl#L82-L82)[`82`](../src/subsilver/groupcp_info_body.tpl#L82)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`122`](../src/punbb/groupcp_info_body.tpl#L122)[`<->`](../src/punbb/groupcp_info_body.tpl#L122-L122)[`122`](../src/punbb/groupcp_info_body.tpl#L122)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`98`](../src/invision/groupcp_info_body.tpl#L98)[`<->`](../src/invision/groupcp_info_body.tpl#L98-L98)[`98`](../src/invision/groupcp_info_body.tpl#L98)
 

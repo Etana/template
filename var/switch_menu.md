@@ -12,10 +12,6 @@ Boucle s'affichant si vous êtes dans les paramètres de vos sujets surveillés 
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`1`](../src/prosilver/rpg_sheet_edit.tpl#L1)[`<->`](../src/prosilver/rpg_sheet_edit.tpl#L1-L1)[`1`](../src/prosilver/rpg_sheet_edit.tpl#L1)
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`3`](../src/prosilver/rpg_sheet_edit.tpl#L3)[`<->`](../src/prosilver/rpg_sheet_edit.tpl#L3-L3)[`3`](../src/prosilver/rpg_sheet_edit.tpl#L3)
-
 ### Version phpBB2
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`1`](../src/subsilver/rpg_sheet_edit.tpl#L1)[`<->`](../src/subsilver/rpg_sheet_edit.tpl#L1-L1)[`1`](../src/subsilver/rpg_sheet_edit.tpl#L1)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`3`](../src/subsilver/rpg_sheet_edit.tpl#L3)[`<->`](../src/subsilver/rpg_sheet_edit.tpl#L3-L3)[`3`](../src/subsilver/rpg_sheet_edit.tpl#L3)

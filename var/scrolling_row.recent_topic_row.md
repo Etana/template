@@ -20,10 +20,6 @@
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`10`](../src/subsilver/mod_recent_topics.tpl#L10)[`<->`](../src/subsilver/mod_recent_topics.tpl#L10-L10)[`10`](../src/subsilver/mod_recent_topics.tpl#L10)
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`25`](../src/subsilver/mod_recent_topics.tpl#L25)[`<->`](../src/subsilver/mod_recent_topics.tpl#L25-L25)[`25`](../src/subsilver/mod_recent_topics.tpl#L25)
 
-### Version PunBB
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`5`](../src/punbb/mod_recent_topics.tpl#L5)[`<->`](../src/punbb/mod_recent_topics.tpl#L5-L5)[`5`](../src/punbb/mod_recent_topics.tpl#L5)
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`20`](../src/punbb/mod_recent_topics.tpl#L20)[`<->`](../src/punbb/mod_recent_topics.tpl#L20-L20)[`20`](../src/punbb/mod_recent_topics.tpl#L20)
-
 ### Version Invision
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`6`](../src/invision/mod_recent_topics.tpl#L6)[`<->`](../src/invision/mod_recent_topics.tpl#L6-L6)[`6`](../src/invision/mod_recent_topics.tpl#L6)
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`21`](../src/invision/mod_recent_topics.tpl#L21)[`<->`](../src/invision/mod_recent_topics.tpl#L21-L21)[`21`](../src/invision/mod_recent_topics.tpl#L21)

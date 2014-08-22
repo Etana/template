@@ -12,9 +12,6 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`83`](../src/prosilver/profile_add_body.tpl#L83)[`<->`](../src/prosilver/profile_add_body.tpl#L83-L83)[`83`](../src/prosilver/profile_add_body.tpl#L83)
-
 ### Version Invision
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`70`](../src/invision/profile_add_body.tpl#L70)[`<->`](../src/invision/profile_add_body.tpl#L70-L70)[`70`](../src/invision/profile_add_body.tpl#L70)
 

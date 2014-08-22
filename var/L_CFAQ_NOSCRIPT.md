@@ -18,9 +18,6 @@ Affiche un message d'avertissement si l'utilisateur n'accepte pas le JavaScript.
 ### Version phpBB2
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`6`](../src/subsilver/faq_dhtml.tpl#L6)[`<->`](../src/subsilver/faq_dhtml.tpl#L6-L6)[`6`](../src/subsilver/faq_dhtml.tpl#L6)
 
-### Version PunBB
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`23`](../src/punbb/faq_dhtml.tpl#L23)[`<->`](../src/punbb/faq_dhtml.tpl#L23-L23)[`23`](../src/punbb/faq_dhtml.tpl#L23)
-
 ### Version Invision
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`11`](../src/invision/faq_dhtml.tpl#L11)[`<->`](../src/invision/faq_dhtml.tpl#L11-L11)[`11`](../src/invision/faq_dhtml.tpl#L11)
 

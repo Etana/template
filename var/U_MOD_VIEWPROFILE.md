@@ -21,9 +21,6 @@ Chemin absolu vers le profil du modérateur de groupe.
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`54`](../src/subsilver/groupcp_info_body.tpl#L54)[`<->`](../src/subsilver/groupcp_info_body.tpl#L54-L54)[`54`](../src/subsilver/groupcp_info_body.tpl#L54)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`94`](../src/punbb/groupcp_info_body.tpl#L94)[`<->`](../src/punbb/groupcp_info_body.tpl#L94-L94)[`94`](../src/punbb/groupcp_info_body.tpl#L94)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`70`](../src/invision/groupcp_info_body.tpl#L70)[`<->`](../src/invision/groupcp_info_body.tpl#L70-L70)[`70`](../src/invision/groupcp_info_body.tpl#L70)
 

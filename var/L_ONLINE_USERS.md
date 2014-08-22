@@ -15,6 +15,3 @@
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`59`](../src/prosilver/index_body.tpl#L59)[`<->`](../src/prosilver/index_body.tpl#L59-L59)[`59`](../src/prosilver/index_body.tpl#L59)
 
-### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`79`](../src/punbb/index_body.tpl#L79)[`<->`](../src/punbb/index_body.tpl#L79-L79)[`79`](../src/punbb/index_body.tpl#L79)
-

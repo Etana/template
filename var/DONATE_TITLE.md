@@ -18,10 +18,6 @@ Titre de l'annonce défini dans `PA > Divers > Gestion des crédits | Donations 
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`3`](../src/subsilver/buy_credits.tpl#L3)[`<->`](../src/subsilver/buy_credits.tpl#L3-L3)[`3`](../src/subsilver/buy_credits.tpl#L3)
 
-### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`19`](../src/punbb/buy_credits.tpl#L19)[`<->`](../src/punbb/buy_credits.tpl#L19-L19)[`19`](../src/punbb/buy_credits.tpl#L19)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`26`](../src/punbb/buy_credits.tpl#L26)[`<->`](../src/punbb/buy_credits.tpl#L26-L26)[`26`](../src/punbb/buy_credits.tpl#L26)
-
 ### Version Invision
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`3`](../src/invision/buy_credits.tpl#L3)[`<->`](../src/invision/buy_credits.tpl#L3-L3)[`3`](../src/invision/buy_credits.tpl#L3)
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`11`](../src/invision/buy_credits.tpl#L11)[`<->`](../src/invision/buy_credits.tpl#L11-L11)[`11`](../src/invision/buy_credits.tpl#L11)

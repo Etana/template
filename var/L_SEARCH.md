@@ -16,7 +16,6 @@ Chaîne de caractère.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`39`](../src/prosilver/album_formsearch_body.tpl#L39)[`<->`](../src/prosilver/album_formsearch_body.tpl#L39-L39)[`39`](../src/prosilver/album_formsearch_body.tpl#L39)
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`25`](../src/prosilver/merge_body.tpl#L25)[`<->`](../src/prosilver/merge_body.tpl#L25-L25)[`25`](../src/prosilver/merge_body.tpl#L25)
 * __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`5`](../src/prosilver/mod_search.tpl#L5)[`<->`](../src/prosilver/mod_search.tpl#L5-L5)[`5`](../src/prosilver/mod_search.tpl#L5)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`274`](../src/prosilver/overall_header.tpl#L274)[`<->`](../src/prosilver/overall_header.tpl#L274-L274)[`274`](../src/prosilver/overall_header.tpl#L274)
@@ -39,14 +38,6 @@ Chaîne de caractère.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`23`](../src/subsilver/search_body.tpl#L23)[`<->`](../src/subsilver/search_body.tpl#L23-L23)[`23`](../src/subsilver/search_body.tpl#L23)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`113`](../src/subsilver/search_body.tpl#L113)[`<->`](../src/subsilver/search_body.tpl#L113-L113)[`113`](../src/subsilver/search_body.tpl#L113)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`12`](../src/subsilver/search_username.tpl#L12)[`<->`](../src/subsilver/search_username.tpl#L12-L12)[`12`](../src/subsilver/search_username.tpl#L12)
-
-### Version PunBB
-* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`47`](../src/punbb/album_formsearch_body.tpl#L47)[`<->`](../src/punbb/album_formsearch_body.tpl#L47-L47)[`47`](../src/punbb/album_formsearch_body.tpl#L47)
-* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`47`](../src/punbb/merge_body.tpl#L47)[`<->`](../src/punbb/merge_body.tpl#L47-L47)[`47`](../src/punbb/merge_body.tpl#L47)
-* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`3`](../src/punbb/mod_search.tpl#L3)[`<->`](../src/punbb/mod_search.tpl#L3-L3)[`3`](../src/punbb/mod_search.tpl#L3)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`45`](../src/punbb/search_body.tpl#L45)[`<->`](../src/punbb/search_body.tpl#L45-L45)[`45`](../src/punbb/search_body.tpl#L45)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`83`](../src/punbb/search_body.tpl#L83)[`<->`](../src/punbb/search_body.tpl#L83-L83)[`83`](../src/punbb/search_body.tpl#L83)
-* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`15`](../src/punbb/search_username.tpl#L15)[`<->`](../src/punbb/search_username.tpl#L15-L15)[`15`](../src/punbb/search_username.tpl#L15)
 
 ### Version Invision
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`29`](../src/invision/merge_body.tpl#L29)[`<->`](../src/invision/merge_body.tpl#L29-L29)[`29`](../src/invision/merge_body.tpl#L29)

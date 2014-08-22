@@ -12,17 +12,9 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`40`](../src/prosilver/calendar_box.tpl#L40)[`<->`](../src/prosilver/calendar_box.tpl#L40-L40)[`40`](../src/prosilver/calendar_box.tpl#L40)
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`62`](../src/prosilver/calendar_box.tpl#L62)[`<->`](../src/prosilver/calendar_box.tpl#L62-L62)[`62`](../src/prosilver/calendar_box.tpl#L62)
-
 ### Version phpBB2
 * __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`37`](../src/subsilver/calendar_box.tpl#L37)[`<->`](../src/subsilver/calendar_box.tpl#L37-L37)[`37`](../src/subsilver/calendar_box.tpl#L37)
 * __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`86`](../src/subsilver/calendar_box.tpl#L86)[`<->`](../src/subsilver/calendar_box.tpl#L86-L86)[`86`](../src/subsilver/calendar_box.tpl#L86)
-
-### Version PunBB
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`34`](../src/punbb/calendar_box.tpl#L34)[`<->`](../src/punbb/calendar_box.tpl#L34-L34)[`34`](../src/punbb/calendar_box.tpl#L34)
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`56`](../src/punbb/calendar_box.tpl#L56)[`<->`](../src/punbb/calendar_box.tpl#L56-L56)[`56`](../src/punbb/calendar_box.tpl#L56)
 
 ### Version Invision
 * __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`44`](../src/invision/calendar_box.tpl#L44)[`<->`](../src/invision/calendar_box.tpl#L44-L44)[`44`](../src/invision/calendar_box.tpl#L44)

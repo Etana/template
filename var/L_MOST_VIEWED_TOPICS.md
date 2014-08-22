@@ -20,10 +20,6 @@
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`3`](../src/subsilver/mod_most_viewed_topics.tpl#L3)[`<->`](../src/subsilver/mod_most_viewed_topics.tpl#L3-L3)[`3`](../src/subsilver/mod_most_viewed_topics.tpl#L3)
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`7`](../src/subsilver/mod_most_viewed_topics.tpl#L7)[`<->`](../src/subsilver/mod_most_viewed_topics.tpl#L7-L7)[`7`](../src/subsilver/mod_most_viewed_topics.tpl#L7)
 
-### Version PunBB
-* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`2`](../src/punbb/mod_most_viewed_topics.tpl#L2)[`<->`](../src/punbb/mod_most_viewed_topics.tpl#L2-L2)[`2`](../src/punbb/mod_most_viewed_topics.tpl#L2)
-* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`4`](../src/punbb/mod_most_viewed_topics.tpl#L4)[`<->`](../src/punbb/mod_most_viewed_topics.tpl#L4-L4)[`4`](../src/punbb/mod_most_viewed_topics.tpl#L4)
-
 ### Version Invision
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`2`](../src/invision/mod_most_viewed_topics.tpl#L2)[`<->`](../src/invision/mod_most_viewed_topics.tpl#L2-L2)[`2`](../src/invision/mod_most_viewed_topics.tpl#L2)
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`4`](../src/invision/mod_most_viewed_topics.tpl#L4)[`<->`](../src/invision/mod_most_viewed_topics.tpl#L4-L4)[`4`](../src/invision/mod_most_viewed_topics.tpl#L4)

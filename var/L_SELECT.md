@@ -13,8 +13,6 @@ Remplacement français `Sélectionner` si il y a un membre en cours de demande d
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`28`](../src/prosilver/album_modcp_body.tpl#L28)[`<->`](../src/prosilver/album_modcp_body.tpl#L28-L28)[`28`](../src/prosilver/album_modcp_body.tpl#L28)
-* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`76`](../src/prosilver/album_moderate_body.tpl#L76)[`<->`](../src/prosilver/album_moderate_body.tpl#L76-L76)[`76`](../src/prosilver/album_moderate_body.tpl#L76)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`57`](../src/prosilver/groupcp_info_body.tpl#L57)[`<->`](../src/prosilver/groupcp_info_body.tpl#L57-L57)[`57`](../src/prosilver/groupcp_info_body.tpl#L57)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`12`](../src/prosilver/groupcp_pending_info.tpl#L12)[`<->`](../src/prosilver/groupcp_pending_info.tpl#L12-L12)[`12`](../src/prosilver/groupcp_pending_info.tpl#L12)
 * __[`merge_select_body`](../tpl/merge_select_body.md#readme) :__ lignes [`13`](../src/prosilver/merge_select_body.tpl#L13)[`<->`](../src/prosilver/merge_select_body.tpl#L13-L13)[`13`](../src/prosilver/merge_select_body.tpl#L13)
@@ -30,15 +28,6 @@ Remplacement français `Sélectionner` si il y a un membre en cours de demande d
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`19`](../src/subsilver/modcp_body.tpl#L19)[`<->`](../src/subsilver/modcp_body.tpl#L19-L19)[`19`](../src/subsilver/modcp_body.tpl#L19)
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`35`](../src/subsilver/modcp_split.tpl#L35)[`<->`](../src/subsilver/modcp_split.tpl#L35-L35)[`35`](../src/subsilver/modcp_split.tpl#L35)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`18`](../src/subsilver/search_username.tpl#L18)[`<->`](../src/subsilver/search_username.tpl#L18-L18)[`18`](../src/subsilver/search_username.tpl#L18)
-
-### Version PunBB
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`41`](../src/punbb/album_modcp_body.tpl#L41)[`<->`](../src/punbb/album_modcp_body.tpl#L41-L41)[`41`](../src/punbb/album_modcp_body.tpl#L41)
-* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`87`](../src/punbb/album_moderate_body.tpl#L87)[`<->`](../src/punbb/album_moderate_body.tpl#L87-L87)[`87`](../src/punbb/album_moderate_body.tpl#L87)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`84`](../src/punbb/groupcp_info_body.tpl#L84)[`<->`](../src/punbb/groupcp_info_body.tpl#L84-L84)[`84`](../src/punbb/groupcp_info_body.tpl#L84)
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`12`](../src/punbb/groupcp_pending_info.tpl#L12)[`<->`](../src/punbb/groupcp_pending_info.tpl#L12-L12)[`12`](../src/punbb/groupcp_pending_info.tpl#L12)
-* __[`merge_select_body`](../tpl/merge_select_body.md#readme) :__ lignes [`30`](../src/punbb/merge_select_body.tpl#L30)[`<->`](../src/punbb/merge_select_body.tpl#L30-L30)[`30`](../src/punbb/merge_select_body.tpl#L30)
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`42`](../src/punbb/modcp_body.tpl#L42)[`<->`](../src/punbb/modcp_body.tpl#L42-L42)[`42`](../src/punbb/modcp_body.tpl#L42)
-* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`23`](../src/punbb/search_username.tpl#L23)[`<->`](../src/punbb/search_username.tpl#L23-L23)[`23`](../src/punbb/search_username.tpl#L23)
 
 ### Version Invision
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`30`](../src/invision/album_modcp_body.tpl#L30)[`<->`](../src/invision/album_modcp_body.tpl#L30-L30)[`30`](../src/invision/album_modcp_body.tpl#L30)

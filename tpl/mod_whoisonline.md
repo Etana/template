@@ -13,10 +13,10 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{L_VIEW_COMPLETE_LIST}`](https://github.com/Etana/template/blob/master/var/L_VIEW_COMPLETE_LIST.md#readme)
-	* [`{L_WHO_IS_ONLINE}`](https://github.com/Etana/template/blob/master/var/L_WHO_IS_ONLINE.md#readme)
-	* [`{LOGGED_IN_USER_LIST}`](https://github.com/Etana/template/blob/master/var/LOGGED_IN_USER_LIST.md#readme)
-	* [`{RECORD_USERS}`](https://github.com/Etana/template/blob/master/var/RECORD_USERS.md#readme)
-	* [`{switch_onlinelink}`](https://github.com/Etana/template/blob/master/var/switch_onlinelink.md#readme)
-	* [`{TOTAL_USERS_ONLINE}`](https://github.com/Etana/template/blob/master/var/TOTAL_USERS_ONLINE.md#readme)
-	* [`{U_VIEWONLINE}`](https://github.com/Etana/template/blob/master/var/U_VIEWONLINE.md#readme)
+	* `{L_VIEW_COMPLETE_LIST}`](../var/L_VIEW_COMPLETE_LIST.md#readme)
+	* `{L_WHO_IS_ONLINE}`](../var/L_WHO_IS_ONLINE.md#readme)
+	* `{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)
+	* `{RECORD_USERS}`](../var/RECORD_USERS.md#readme)
+	* `&lt; switch_onlinelink &gt;`](../var/switch_onlinelink.md#readme)
+	* `{TOTAL_USERS_ONLINE}`](../var/TOTAL_USERS_ONLINE.md#readme)
+	* `{U_VIEWONLINE}`](../var/U_VIEWONLINE.md#readme)

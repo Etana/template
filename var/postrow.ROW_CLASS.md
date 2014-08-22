@@ -14,7 +14,6 @@
 
 ### Version phpBB3
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`39`](../src/prosilver/modcp_split.tpl#L39)[`<->`](../src/prosilver/modcp_split.tpl#L39-L39)[`39`](../src/prosilver/modcp_split.tpl#L39)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`6`](../src/prosilver/privmsg_topic_review.tpl#L6)[`<->`](../src/prosilver/privmsg_topic_review.tpl#L6-L6)[`6`](../src/prosilver/privmsg_topic_review.tpl#L6)
 
 ### Version phpBB2
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`39`](../src/subsilver/modcp_split.tpl#L39)[`<->`](../src/subsilver/modcp_split.tpl#L39-L39)[`39`](../src/subsilver/modcp_split.tpl#L39)

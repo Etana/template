@@ -18,9 +18,6 @@ Image des sujets verrouillés définie dans `PA > Affichage > Images et Couleurs
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`105`](../src/subsilver/viewforum_body.tpl#L105)[`<->`](../src/subsilver/viewforum_body.tpl#L105-L105)[`105`](../src/subsilver/viewforum_body.tpl#L105)
 
-### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`73`](../src/punbb/viewforum_body.tpl#L73)[`<->`](../src/punbb/viewforum_body.tpl#L73-L73)[`73`](../src/punbb/viewforum_body.tpl#L73)
-
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`76`](../src/invision/viewforum_body.tpl#L76)[`<->`](../src/invision/viewforum_body.tpl#L76-L76)[`76`](../src/invision/viewforum_body.tpl#L76)
 

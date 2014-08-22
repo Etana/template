@@ -20,9 +20,6 @@ Classe attribuée au conteneur principal de votre forum.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`320`](../src/subsilver/overall_header.tpl#L320)[`<->`](../src/subsilver/overall_header.tpl#L320-L320)[`320`](../src/subsilver/overall_header.tpl#L320)
 
-### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`296`](../src/punbb/overall_header.tpl#L296)[`<->`](../src/punbb/overall_header.tpl#L296-L296)[`296`](../src/punbb/overall_header.tpl#L296)
-
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`314`](../src/invision/overall_header.tpl#L314)[`<->`](../src/invision/overall_header.tpl#L314-L314)[`314`](../src/invision/overall_header.tpl#L314)
 

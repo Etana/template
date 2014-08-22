@@ -28,9 +28,6 @@ Image pour fermer un panneau définie dans `PA > Affichage > Images et Couleurs 
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`329`](../src/subsilver/viewtopic_body.tpl#L329)[`<->`](../src/subsilver/viewtopic_body.tpl#L329-L329)[`329`](../src/subsilver/viewtopic_body.tpl#L329)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`405`](../src/subsilver/viewtopic_body.tpl#L405)[`<->`](../src/subsilver/viewtopic_body.tpl#L405-L405)[`405`](../src/subsilver/viewtopic_body.tpl#L405)
 
-### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`318`](../src/punbb/viewtopic_body.tpl#L318)[`<->`](../src/punbb/viewtopic_body.tpl#L318-L318)[`318`](../src/punbb/viewtopic_body.tpl#L318)
-
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`359`](../src/invision/viewtopic_body.tpl#L359)[`<->`](../src/invision/viewtopic_body.tpl#L359-L359)[`359`](../src/invision/viewtopic_body.tpl#L359)
 

@@ -18,9 +18,6 @@ Contient un lien vers le site web du membre et l'image définie dans `PA > Affic
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`49`](../src/subsilver/memberlist_body.tpl#L49)[`<->`](../src/subsilver/memberlist_body.tpl#L49-L49)[`49`](../src/subsilver/memberlist_body.tpl#L49)
 
-### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`88`](../src/punbb/memberlist_body.tpl#L88)[`<->`](../src/punbb/memberlist_body.tpl#L88-L88)[`88`](../src/punbb/memberlist_body.tpl#L88)
-
 ### Version Invision
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`80`](../src/invision/memberlist_body.tpl#L80)[`<->`](../src/invision/memberlist_body.tpl#L80-L80)[`80`](../src/invision/memberlist_body.tpl#L80)
 

@@ -23,10 +23,6 @@ Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`14`](../src/subsilver/groupcp_pending_info.tpl#L14)[`<->`](../src/subsilver/groupcp_pending_info.tpl#L14-L14)[`14`](../src/subsilver/groupcp_pending_info.tpl#L14)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`24`](../src/subsilver/groupcp_pending_info.tpl#L24)[`<->`](../src/subsilver/groupcp_pending_info.tpl#L24-L24)[`24`](../src/subsilver/groupcp_pending_info.tpl#L24)
 
-### Version PunBB
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`20`](../src/punbb/groupcp_pending_info.tpl#L20)[`<->`](../src/punbb/groupcp_pending_info.tpl#L20-L20)[`20`](../src/punbb/groupcp_pending_info.tpl#L20)
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`30`](../src/punbb/groupcp_pending_info.tpl#L30)[`<->`](../src/punbb/groupcp_pending_info.tpl#L30-L30)[`30`](../src/punbb/groupcp_pending_info.tpl#L30)
-
 ### Version Invision
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`17`](../src/invision/groupcp_pending_info.tpl#L17)[`<->`](../src/invision/groupcp_pending_info.tpl#L17-L17)[`17`](../src/invision/groupcp_pending_info.tpl#L17)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`27`](../src/invision/groupcp_pending_info.tpl#L27)[`<->`](../src/invision/groupcp_pending_info.tpl#L27-L27)[`27`](../src/invision/groupcp_pending_info.tpl#L27)

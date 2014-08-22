@@ -18,9 +18,6 @@ Image de citation multiple désélectionnée définie dans `PA > Affichage > Ima
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/subsilver/viewtopic_body.tpl#L3)[`<->`](../src/subsilver/viewtopic_body.tpl#L3-L3)[`3`](../src/subsilver/viewtopic_body.tpl#L3)
 
-### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`2`](../src/punbb/viewtopic_body.tpl#L2)[`<->`](../src/punbb/viewtopic_body.tpl#L2-L2)[`2`](../src/punbb/viewtopic_body.tpl#L2)
-
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/invision/viewtopic_body.tpl#L3)[`<->`](../src/invision/viewtopic_body.tpl#L3-L3)[`3`](../src/invision/viewtopic_body.tpl#L3)
 

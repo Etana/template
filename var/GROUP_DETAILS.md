@@ -28,9 +28,6 @@ Texte contenant une phrase avec votre statut par rapport au groupe.
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`17`](../src/subsilver/groupcp_info_body.tpl#L17)[`<->`](../src/subsilver/groupcp_info_body.tpl#L17-L17)[`17`](../src/subsilver/groupcp_info_body.tpl#L17)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`44`](../src/punbb/groupcp_info_body.tpl#L44)[`<->`](../src/punbb/groupcp_info_body.tpl#L44-L44)[`44`](../src/punbb/groupcp_info_body.tpl#L44)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`24`](../src/invision/groupcp_info_body.tpl#L24)[`<->`](../src/invision/groupcp_info_body.tpl#L24-L24)[`24`](../src/invision/groupcp_info_body.tpl#L24)
 

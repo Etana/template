@@ -24,12 +24,6 @@
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`24`](../src/subsilver/faq_dhtml.tpl#L24)[`<->`](../src/subsilver/faq_dhtml.tpl#L24-L24)[`24`](../src/subsilver/faq_dhtml.tpl#L24)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`53`](../src/subsilver/faq_dhtml.tpl#L53)[`<->`](../src/subsilver/faq_dhtml.tpl#L53-L53)[`53`](../src/subsilver/faq_dhtml.tpl#L53)
 
-### Version PunBB
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`33`](../src/punbb/faq_body.tpl#L33)[`<->`](../src/punbb/faq_body.tpl#L33-L33)[`33`](../src/punbb/faq_body.tpl#L33)
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`48`](../src/punbb/faq_body.tpl#L48)[`<->`](../src/punbb/faq_body.tpl#L48-L48)[`48`](../src/punbb/faq_body.tpl#L48)
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`28`](../src/punbb/faq_dhtml.tpl#L28)[`<->`](../src/punbb/faq_dhtml.tpl#L28-L28)[`28`](../src/punbb/faq_dhtml.tpl#L28)
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`43`](../src/punbb/faq_dhtml.tpl#L43)[`<->`](../src/punbb/faq_dhtml.tpl#L43-L43)[`43`](../src/punbb/faq_dhtml.tpl#L43)
-
 ### Version Invision
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`20`](../src/invision/faq_body.tpl#L20)[`<->`](../src/invision/faq_body.tpl#L20-L20)[`20`](../src/invision/faq_body.tpl#L20)
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`34`](../src/invision/faq_body.tpl#L34)[`<->`](../src/invision/faq_body.tpl#L34-L34)[`34`](../src/invision/faq_body.tpl#L34)

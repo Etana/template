@@ -12,14 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`25`](../src/prosilver/rpg_sheet_edit.tpl#L25)[`<->`](../src/prosilver/rpg_sheet_edit.tpl#L25-L25)[`25`](../src/prosilver/rpg_sheet_edit.tpl#L25)
-
 ### Version phpBB2
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`22`](../src/subsilver/rpg_sheet_edit.tpl#L22)[`<->`](../src/subsilver/rpg_sheet_edit.tpl#L22-L22)[`22`](../src/subsilver/rpg_sheet_edit.tpl#L22)
-
-### Version PunBB
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`35`](../src/punbb/rpg_sheet_edit.tpl#L35)[`<->`](../src/punbb/rpg_sheet_edit.tpl#L35-L35)[`35`](../src/punbb/rpg_sheet_edit.tpl#L35)
 
 ### Version Invision
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`24`](../src/invision/rpg_sheet_edit.tpl#L24)[`<->`](../src/invision/rpg_sheet_edit.tpl#L24-L24)[`24`](../src/invision/rpg_sheet_edit.tpl#L24)

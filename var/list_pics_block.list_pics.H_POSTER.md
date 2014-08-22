@@ -12,14 +12,8 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`43`](../src/prosilver/album_cat_top10.tpl#L43)[`<->`](../src/prosilver/album_cat_top10.tpl#L43-L43)[`43`](../src/prosilver/album_cat_top10.tpl#L43)
-
 ### Version phpBB2
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`38`](../src/subsilver/album_cat_top10.tpl#L38)[`<->`](../src/subsilver/album_cat_top10.tpl#L38-L38)[`38`](../src/subsilver/album_cat_top10.tpl#L38)
-
-### Version PunBB
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`51`](../src/punbb/album_cat_top10.tpl#L51)[`<->`](../src/punbb/album_cat_top10.tpl#L51-L51)[`51`](../src/punbb/album_cat_top10.tpl#L51)
 
 ### Version Invision
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`38`](../src/invision/album_cat_top10.tpl#L38)[`<->`](../src/invision/album_cat_top10.tpl#L38-L38)[`38`](../src/invision/album_cat_top10.tpl#L38)

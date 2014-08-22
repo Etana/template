@@ -12,17 +12,9 @@
 
 ## Utilisations dans les templates
 
-### Version phpBB3
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`259`](../src/prosilver/album_showpage_body.tpl#L259)[`<->`](../src/prosilver/album_showpage_body.tpl#L259-L259)[`259`](../src/prosilver/album_showpage_body.tpl#L259)
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`329`](../src/prosilver/album_showpage_body.tpl#L329)[`<->`](../src/prosilver/album_showpage_body.tpl#L329-L329)[`329`](../src/prosilver/album_showpage_body.tpl#L329)
-
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`260`](../src/subsilver/album_showpage_body.tpl#L260)[`<->`](../src/subsilver/album_showpage_body.tpl#L260-L260)[`260`](../src/subsilver/album_showpage_body.tpl#L260)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`354`](../src/subsilver/album_showpage_body.tpl#L354)[`<->`](../src/subsilver/album_showpage_body.tpl#L354-L354)[`354`](../src/subsilver/album_showpage_body.tpl#L354)
-
-### Version PunBB
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`266`](../src/punbb/album_showpage_body.tpl#L266)[`<->`](../src/punbb/album_showpage_body.tpl#L266-L266)[`266`](../src/punbb/album_showpage_body.tpl#L266)
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`336`](../src/punbb/album_showpage_body.tpl#L336)[`<->`](../src/punbb/album_showpage_body.tpl#L336-L336)[`336`](../src/punbb/album_showpage_body.tpl#L336)
 
 ### Version Invision
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`251`](../src/invision/album_showpage_body.tpl#L251)[`<->`](../src/invision/album_showpage_body.tpl#L251-L251)[`251`](../src/invision/album_showpage_body.tpl#L251)

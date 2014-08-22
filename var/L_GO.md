@@ -1,6 +1,6 @@
 # L_GO
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme), [`jumpbox`](../tpl/jumpbox.md#readme), [`merge_select_body`](../tpl/merge_select_body.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`report_list_body`](../tpl/report_list_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme), [`jumpbox`](../tpl/jumpbox.md#readme), [`merge_select_body`](../tpl/merge_select_body.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`report_list_body`](../tpl/report_list_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -22,9 +22,6 @@ Chaîne de texte.
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`2`](../src/prosilver/jumpbox.tpl#L2)[`<->`](../src/prosilver/jumpbox.tpl#L2-L2)[`2`](../src/prosilver/jumpbox.tpl#L2)
 * __[`merge_select_body`](../tpl/merge_select_body.md#readme) :__ lignes [`8`](../src/prosilver/merge_select_body.tpl#L8)[`<->`](../src/prosilver/merge_select_body.tpl#L8-L8)[`8`](../src/prosilver/merge_select_body.tpl#L8)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`66`](../src/prosilver/modcp_body.tpl#L66)[`<->`](../src/prosilver/modcp_body.tpl#L66-L66)[`66`](../src/prosilver/modcp_body.tpl#L66)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`400`](../src/prosilver/posting_body.tpl#L400)[`<->`](../src/prosilver/posting_body.tpl#L400-L400)[`400`](../src/prosilver/posting_body.tpl#L400)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`28`](../src/prosilver/privmsgs_body.tpl#L28)[`<->`](../src/prosilver/privmsgs_body.tpl#L28-L28)[`28`](../src/prosilver/privmsgs_body.tpl#L28)
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`8`](../src/prosilver/profile_avatar_gallery.tpl#L8)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L8-L8)[`8`](../src/prosilver/profile_avatar_gallery.tpl#L8)
 * __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`80`](../src/prosilver/report_list_body.tpl#L80)[`<->`](../src/prosilver/report_list_body.tpl#L80-L80)[`80`](../src/prosilver/report_list_body.tpl#L80)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`65`](../src/prosilver/viewforum_body.tpl#L65)[`<->`](../src/prosilver/viewforum_body.tpl#L65-L65)[`65`](../src/prosilver/viewforum_body.tpl#L65)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`343`](../src/prosilver/viewtopic_body.tpl#L343)[`<->`](../src/prosilver/viewtopic_body.tpl#L343-L343)[`343`](../src/prosilver/viewtopic_body.tpl#L343)
@@ -39,14 +36,6 @@ Chaîne de texte.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`89`](../src/subsilver/viewforum_body.tpl#L89)[`<->`](../src/subsilver/viewforum_body.tpl#L89-L89)[`89`](../src/subsilver/viewforum_body.tpl#L89)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`450`](../src/subsilver/viewtopic_body.tpl#L450)[`<->`](../src/subsilver/viewtopic_body.tpl#L450-L450)[`450`](../src/subsilver/viewtopic_body.tpl#L450)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`475`](../src/subsilver/viewtopic_body.tpl#L475)[`<->`](../src/subsilver/viewtopic_body.tpl#L475-L475)[`475`](../src/subsilver/viewtopic_body.tpl#L475)
-
-### Version PunBB
-* __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`2`](../src/punbb/jumpbox.tpl#L2)[`<->`](../src/punbb/jumpbox.tpl#L2-L2)[`2`](../src/punbb/jumpbox.tpl#L2)
-* __[`merge_select_body`](../tpl/merge_select_body.md#readme) :__ lignes [`20`](../src/punbb/merge_select_body.tpl#L20)[`<->`](../src/punbb/merge_select_body.tpl#L20-L20)[`20`](../src/punbb/merge_select_body.tpl#L20)
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`32`](../src/punbb/overall_footer_begin.tpl#L32)[`<->`](../src/punbb/overall_footer_begin.tpl#L32-L32)[`32`](../src/punbb/overall_footer_begin.tpl#L32)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`41`](../src/punbb/privmsgs_body.tpl#L41)[`<->`](../src/punbb/privmsgs_body.tpl#L41-L41)[`41`](../src/punbb/privmsgs_body.tpl#L41)
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`25`](../src/punbb/profile_avatar_gallery.tpl#L25)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L25-L25)[`25`](../src/punbb/profile_avatar_gallery.tpl#L25)
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`86`](../src/punbb/report_list_body.tpl#L86)[`<->`](../src/punbb/report_list_body.tpl#L86-L86)[`86`](../src/punbb/report_list_body.tpl#L86)
 
 ### Version Invision
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`2`](../src/invision/jumpbox.tpl#L2)[`<->`](../src/invision/jumpbox.tpl#L2-L2)[`2`](../src/invision/jumpbox.tpl#L2)

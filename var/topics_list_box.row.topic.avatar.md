@@ -22,10 +22,6 @@
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`76`](../src/subsilver/topics_list_box.tpl#L76)[`<->`](../src/subsilver/topics_list_box.tpl#L76-L76)[`76`](../src/subsilver/topics_list_box.tpl#L76)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`79`](../src/subsilver/topics_list_box.tpl#L79)[`<->`](../src/subsilver/topics_list_box.tpl#L79-L79)[`79`](../src/subsilver/topics_list_box.tpl#L79)
 
-### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`95`](../src/punbb/topics_list_box.tpl#L95)[`<->`](../src/punbb/topics_list_box.tpl#L95-L95)[`95`](../src/punbb/topics_list_box.tpl#L95)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`97`](../src/punbb/topics_list_box.tpl#L97)[`<->`](../src/punbb/topics_list_box.tpl#L97-L97)[`97`](../src/punbb/topics_list_box.tpl#L97)
-
 ### Version Invision
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`131`](../src/invision/topics_list_box.tpl#L131)[`<->`](../src/invision/topics_list_box.tpl#L131-L131)[`131`](../src/invision/topics_list_box.tpl#L131)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`133`](../src/invision/topics_list_box.tpl#L133)[`<->`](../src/invision/topics_list_box.tpl#L133-L133)[`133`](../src/invision/topics_list_box.tpl#L133)

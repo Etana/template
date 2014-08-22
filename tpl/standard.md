@@ -13,8 +13,8 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{CLASS_TABLE_TYPE}`](https://github.com/Etana/template/blob/master/var/CLASS_TABLE_TYPE.md#readme)
-	* [`{not_table_row}`](https://github.com/Etana/template/blob/master/var/not_table_row.md#readme)
-	* [`{S_SOURCE}`](https://github.com/Etana/template/blob/master/var/S_SOURCE.md#readme)
-	* [`{table_row}`](https://github.com/Etana/template/blob/master/var/table_row.md#readme)
-	* [`{table_row.L_TITRE}`](https://github.com/Etana/template/blob/master/var/table_row.L_TITRE.md#readme)
+	* `{CLASS_TABLE_TYPE}`](../var/CLASS_TABLE_TYPE.md#readme)
+	* `&lt; not_table_row &gt;`](../var/not_table_row.md#readme)
+	* `{S_SOURCE}`](../var/S_SOURCE.md#readme)
+	* `&lt; table_row &gt;`](../var/table_row.md#readme)
+	* `{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme)

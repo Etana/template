@@ -27,10 +27,6 @@
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`178`](../src/subsilver/index_body.tpl#L178)[`<->`](../src/subsilver/index_body.tpl#L178-L178)[`178`](../src/subsilver/index_body.tpl#L178)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`15`](../src/subsilver/mod_whoisonline.tpl#L15)[`<->`](../src/subsilver/mod_whoisonline.tpl#L15-L15)[`15`](../src/subsilver/mod_whoisonline.tpl#L15)
 
-### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`67`](../src/punbb/index_body.tpl#L67)[`<->`](../src/punbb/index_body.tpl#L67-L67)[`67`](../src/punbb/index_body.tpl#L67)
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`7`](../src/punbb/mod_whoisonline.tpl#L7)[`<->`](../src/punbb/mod_whoisonline.tpl#L7-L7)[`7`](../src/punbb/mod_whoisonline.tpl#L7)
-
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`72`](../src/invision/index_body.tpl#L72)[`<->`](../src/invision/index_body.tpl#L72-L72)[`72`](../src/invision/index_body.tpl#L72)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`80`](../src/invision/index_body.tpl#L80)[`<->`](../src/invision/index_body.tpl#L80-L80)[`80`](../src/invision/index_body.tpl#L80)

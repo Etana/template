@@ -25,9 +25,6 @@ Image `Message Privé` ( choisie dans [`Index`](http://votre-forum.appspot.com/#
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`53`](../src/subsilver/groupcp_info_body.tpl#L53)[`<->`](../src/subsilver/groupcp_info_body.tpl#L53-L53)[`53`](../src/subsilver/groupcp_info_body.tpl#L53)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`93`](../src/punbb/groupcp_info_body.tpl#L93)[`<->`](../src/punbb/groupcp_info_body.tpl#L93-L93)[`93`](../src/punbb/groupcp_info_body.tpl#L93)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`69`](../src/invision/groupcp_info_body.tpl#L69)[`<->`](../src/invision/groupcp_info_body.tpl#L69-L69)[`69`](../src/invision/groupcp_info_body.tpl#L69)
 

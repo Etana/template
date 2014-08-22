@@ -15,7 +15,6 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`8`](../src/prosilver/calendar_overview_topic.tpl#L8)[`<->`](../src/prosilver/calendar_overview_topic.tpl#L8-L8)[`8`](../src/prosilver/calendar_overview_topic.tpl#L8)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`46`](../src/prosilver/search_body.tpl#L46)[`<->`](../src/prosilver/search_body.tpl#L46-L46)[`46`](../src/prosilver/search_body.tpl#L46)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`18`](../src/prosilver/search_results_posts.tpl#L18)[`<->`](../src/prosilver/search_results_posts.tpl#L18-L18)[`18`](../src/prosilver/search_results_posts.tpl#L18)
 
@@ -24,13 +23,6 @@ Chaîne de texte.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`51`](../src/subsilver/search_body.tpl#L51)[`<->`](../src/subsilver/search_body.tpl#L51-L51)[`51`](../src/subsilver/search_body.tpl#L51)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`36`](../src/subsilver/search_results_posts.tpl#L36)[`<->`](../src/subsilver/search_results_posts.tpl#L36-L36)[`36`](../src/subsilver/search_results_posts.tpl#L36)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`25`](../src/subsilver/search_results_topics.tpl#L25)[`<->`](../src/subsilver/search_results_topics.tpl#L25-L25)[`25`](../src/subsilver/search_results_topics.tpl#L25)
-
-### Version PunBB
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`8`](../src/punbb/calendar_overview_topic.tpl#L8)[`<->`](../src/punbb/calendar_overview_topic.tpl#L8-L8)[`8`](../src/punbb/calendar_overview_topic.tpl#L8)
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`14`](../src/punbb/index_box.tpl#L14)[`<->`](../src/punbb/index_box.tpl#L14-L14)[`14`](../src/punbb/index_box.tpl#L14)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`60`](../src/punbb/search_body.tpl#L60)[`<->`](../src/punbb/search_body.tpl#L60-L60)[`60`](../src/punbb/search_body.tpl#L60)
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`59`](../src/punbb/search_results_posts.tpl#L59)[`<->`](../src/punbb/search_results_posts.tpl#L59-L59)[`59`](../src/punbb/search_results_posts.tpl#L59)
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`37`](../src/punbb/search_results_topics.tpl#L37)[`<->`](../src/punbb/search_results_topics.tpl#L37-L37)[`37`](../src/punbb/search_results_topics.tpl#L37)
 
 ### Version Invision
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`8`](../src/invision/calendar_overview_topic.tpl#L8)[`<->`](../src/invision/calendar_overview_topic.tpl#L8-L8)[`8`](../src/invision/calendar_overview_topic.tpl#L8)

@@ -28,14 +28,6 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`33`](../src/subsilver/memberlist_body.tpl#L33)[`<->`](../src/subsilver/memberlist_body.tpl#L33-L33)[`33`](../src/subsilver/memberlist_body.tpl#L33)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`109`](../src/subsilver/mod_login.tpl#L109)[`<->`](../src/subsilver/mod_login.tpl#L109-L109)[`109`](../src/subsilver/mod_login.tpl#L109)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`78`](../src/punbb/groupcp_info_body.tpl#L78)[`<->`](../src/punbb/groupcp_info_body.tpl#L78-L78)[`78`](../src/punbb/groupcp_info_body.tpl#L78)
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`6`](../src/punbb/groupcp_pending_info.tpl#L6)[`<->`](../src/punbb/groupcp_pending_info.tpl#L6-L6)[`6`](../src/punbb/groupcp_pending_info.tpl#L6)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`71`](../src/punbb/memberlist_body.tpl#L71)[`<->`](../src/punbb/memberlist_body.tpl#L71-L71)[`71`](../src/punbb/memberlist_body.tpl#L71)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`72`](../src/punbb/mod_login.tpl#L72)[`<->`](../src/punbb/mod_login.tpl#L72-L72)[`72`](../src/punbb/mod_login.tpl#L72)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`18`](../src/punbb/privmsgs_body.tpl#L18)[`<->`](../src/punbb/privmsgs_body.tpl#L18-L18)[`18`](../src/punbb/privmsgs_body.tpl#L18)
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`18`](../src/punbb/privmsgs_read_body.tpl#L18)[`<->`](../src/punbb/privmsgs_read_body.tpl#L18-L18)[`18`](../src/punbb/privmsgs_read_body.tpl#L18)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`54`](../src/invision/groupcp_info_body.tpl#L54)[`<->`](../src/invision/groupcp_info_body.tpl#L54-L54)[`54`](../src/invision/groupcp_info_body.tpl#L54)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`6`](../src/invision/groupcp_pending_info.tpl#L6)[`<->`](../src/invision/groupcp_pending_info.tpl#L6-L6)[`6`](../src/invision/groupcp_pending_info.tpl#L6)

@@ -23,10 +23,6 @@ Adresse absolue de la page du groupe sur lequel on se trouve.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`1`](../src/subsilver/groupcp_info_body.tpl#L1)[`<->`](../src/subsilver/groupcp_info_body.tpl#L1-L1)[`1`](../src/subsilver/groupcp_info_body.tpl#L1)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`38`](../src/subsilver/groupcp_info_body.tpl#L38)[`<->`](../src/subsilver/groupcp_info_body.tpl#L38-L38)[`38`](../src/subsilver/groupcp_info_body.tpl#L38)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`23`](../src/punbb/groupcp_info_body.tpl#L23)[`<->`](../src/punbb/groupcp_info_body.tpl#L23-L23)[`23`](../src/punbb/groupcp_info_body.tpl#L23)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`68`](../src/punbb/groupcp_info_body.tpl#L68)[`<->`](../src/punbb/groupcp_info_body.tpl#L68-L68)[`68`](../src/punbb/groupcp_info_body.tpl#L68)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`10`](../src/invision/groupcp_info_body.tpl#L10)[`<->`](../src/invision/groupcp_info_body.tpl#L10-L10)[`10`](../src/invision/groupcp_info_body.tpl#L10)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`48`](../src/invision/groupcp_info_body.tpl#L48)[`<->`](../src/invision/groupcp_info_body.tpl#L48-L48)[`48`](../src/invision/groupcp_info_body.tpl#L48)

@@ -35,15 +35,6 @@ Chaîne de caractère.
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`69`](../src/subsilver/mod_login.tpl#L69)[`<->`](../src/subsilver/mod_login.tpl#L69-L69)[`69`](../src/subsilver/mod_login.tpl#L69)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`235`](../src/subsilver/overall_header.tpl#L235)[`<->`](../src/subsilver/overall_header.tpl#L235-L235)[`235`](../src/subsilver/overall_header.tpl#L235)
 
-### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`42`](../src/punbb/index_body.tpl#L42)[`<->`](../src/punbb/index_body.tpl#L42-L42)[`42`](../src/punbb/index_body.tpl#L42)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`111`](../src/punbb/index_body.tpl#L111)[`<->`](../src/punbb/index_body.tpl#L111-L111)[`111`](../src/punbb/index_body.tpl#L111)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`3`](../src/punbb/mod_login.tpl#L3)[`<->`](../src/punbb/mod_login.tpl#L3-L3)[`3`](../src/punbb/mod_login.tpl#L3)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`20`](../src/punbb/mod_login.tpl#L20)[`<->`](../src/punbb/mod_login.tpl#L20-L20)[`20`](../src/punbb/mod_login.tpl#L20)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`38`](../src/punbb/mod_login.tpl#L38)[`<->`](../src/punbb/mod_login.tpl#L38-L38)[`38`](../src/punbb/mod_login.tpl#L38)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`50`](../src/punbb/mod_login.tpl#L50)[`<->`](../src/punbb/mod_login.tpl#L50-L50)[`50`](../src/punbb/mod_login.tpl#L50)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`227`](../src/punbb/overall_header.tpl#L227)[`<->`](../src/punbb/overall_header.tpl#L227-L227)[`227`](../src/punbb/overall_header.tpl#L227)
-
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`27`](../src/invision/index_body.tpl#L27)[`<->`](../src/invision/index_body.tpl#L27-L27)[`27`](../src/invision/index_body.tpl#L27)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`176`](../src/invision/index_body.tpl#L176)[`<->`](../src/invision/index_body.tpl#L176-L176)[`176`](../src/invision/index_body.tpl#L176)

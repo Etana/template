@@ -19,9 +19,6 @@ Chaîne de texte ` checked="checked"` si le groupe est fermé, chaîne vide sino
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`31`](../src/subsilver/groupcp_info_body.tpl#L31)[`<->`](../src/subsilver/groupcp_info_body.tpl#L31-L31)[`31`](../src/subsilver/groupcp_info_body.tpl#L31)
 
-### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`57`](../src/punbb/groupcp_info_body.tpl#L57)[`<->`](../src/punbb/groupcp_info_body.tpl#L57-L57)[`57`](../src/punbb/groupcp_info_body.tpl#L57)
-
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`37`](../src/invision/groupcp_info_body.tpl#L37)[`<->`](../src/invision/groupcp_info_body.tpl#L37-L37)[`37`](../src/invision/groupcp_info_body.tpl#L37)
 
