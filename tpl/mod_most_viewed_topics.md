@@ -15,7 +15,7 @@
 * __Variables propres à ce template :__
 	* [`{L_MOST_VIEWED_TOPICS}`](../var/L_MOST_VIEWED_TOPICS.md#readme)
 	* [`<!-- BEGIN TOPIC -->...<!-- END TOPIC -->`](../var/TOPIC.md#readme)
-	* &nbsp;&nbsp;[`{TOPIC.LINK}`](../var/TOPIC.LINK.md#readme)
-	* &nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme)
-	* &nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme)
-	* &nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.LINK}`](../var/TOPIC.LINK.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme)

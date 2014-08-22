@@ -65,7 +65,7 @@ Ce template affiche la page de recherche de votre forum : `/search`
 	* [`{TABS_LESS_IMG}`](../var/TABS_LESS_IMG.md#readme)
 	* [`{TABS_MORE_IMG}`](../var/TABS_MORE_IMG.md#readme)
 	* [`<!-- BEGIN TAGS -->...<!-- END TAGS -->`](../var/TAGS.md#readme)
-	* &nbsp;&nbsp;[`{TAGS.L_SEARCH_TAGS}`](../var/TAGS.L_SEARCH_TAGS.md#readme)
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.L_SEARCH_TAGS}`](../var/TAGS.L_SEARCH_TAGS.md#readme)
 	* [`{U_GOOGLERESULTS}`](../var/U_GOOGLERESULTS.md#readme)
 	* [`{U_INDEX}`](../var/U_INDEX.md#readme)
 	* [`{U_SEARCH_NEW}`](../var/U_SEARCH_NEW.md#readme)
