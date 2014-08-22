@@ -15,7 +15,7 @@
 * __Variables propres à ce template :__
 	* [`{L_TOP_POST_USERS_WEEK}`](../var/L_TOP_POST_USERS_WEEK.md#readme)
 	* [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](../var/POSTER.md#readme)
-	* [`  {POSTER.BARRE}`](../var/POSTER.BARRE.md#readme)
-	* [`  {POSTER.NAME}`](../var/POSTER.NAME.md#readme)
-	* [`  {POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)
-	* [`  {POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme)
+	* [`&nbsp;&nbsp;{POSTER.BARRE}`](../var/POSTER.BARRE.md#readme)
+	* [`&nbsp;&nbsp;{POSTER.NAME}`](../var/POSTER.NAME.md#readme)
+	* [`&nbsp;&nbsp;{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)
+	* [`&nbsp;&nbsp;{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme)

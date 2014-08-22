@@ -15,5 +15,5 @@
 * __Variables propres à ce template :__
 	* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](../var/html_validation.md#readme)
 	* [`<!-- BEGIN switch_view_stats -->...<!-- END switch_view_stats -->`](../var/switch_view_stats.md#readme)
-	* [`  {switch_view_stats.L_STATS}`](../var/switch_view_stats.L_STATS.md#readme)
-	* [`  {switch_view_stats.S_STATS}`](../var/switch_view_stats.S_STATS.md#readme)
+	* [`&nbsp;&nbsp;{switch_view_stats.L_STATS}`](../var/switch_view_stats.L_STATS.md#readme)
+	* [`&nbsp;&nbsp;{switch_view_stats.S_STATS}`](../var/switch_view_stats.S_STATS.md#readme)
