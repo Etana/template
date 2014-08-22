@@ -21,7 +21,6 @@
 	* [`{L_RATE}`](https://github.com/Etana/template/blob/master/var/L_RATE.md#readme)
 	* [`{L_VIEW}`](https://github.com/Etana/template/blob/master/var/L_VIEW.md#readme)
 	* [`{POSTER}`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
-	* [`{THUMBNAIL}`](https://github.com/Etana/template/blob/master/var/THUMBNAIL.md#readme)
 	* [`{switch_rank}`](https://github.com/Etana/template/blob/master/var/switch_rank.md#readme)
 	* [`{switch_rank.L_TITLE}`](https://github.com/Etana/template/blob/master/var/switch_rank.L_TITLE.md#readme)
 	* [`{switch_rate}`](https://github.com/Etana/template/blob/master/var/switch_rate.md#readme)
@@ -30,3 +29,4 @@
 	* [`{switch_recent.DATE}`](https://github.com/Etana/template/blob/master/var/switch_recent.DATE.md#readme)
 	* [`{switch_viewed}`](https://github.com/Etana/template/blob/master/var/switch_viewed.md#readme)
 	* [`{switch_viewed.VIEWED}`](https://github.com/Etana/template/blob/master/var/switch_viewed.VIEWED.md#readme)
+	* [`{THUMBNAIL}`](https://github.com/Etana/template/blob/master/var/THUMBNAIL.md#readme)

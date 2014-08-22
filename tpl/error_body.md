@@ -15,5 +15,5 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{ERRORS_FOUND}`](https://github.com/Etana/template/blob/master/var/ERRORS_FOUND.md#readme)
 	* [`{ERROR_MESSAGE}`](https://github.com/Etana/template/blob/master/var/ERROR_MESSAGE.md#readme)
+	* [`{ERRORS_FOUND}`](https://github.com/Etana/template/blob/master/var/ERRORS_FOUND.md#readme)
