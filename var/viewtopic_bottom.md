@@ -28,7 +28,3 @@
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`276`](../src/punbb/viewtopic_body.tpl#L276)[`<->`](../src/punbb/viewtopic_body.tpl#L276-L276)[`276`](../src/punbb/viewtopic_body.tpl#L276)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`278`](../src/punbb/viewtopic_body.tpl#L278)[`<->`](../src/punbb/viewtopic_body.tpl#L278-L278)[`278`](../src/punbb/viewtopic_body.tpl#L278)
 
-### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`303`](../src/invision/viewtopic_body.tpl#L303)[`<->`](../src/invision/viewtopic_body.tpl#L303-L303)[`303`](../src/invision/viewtopic_body.tpl#L303)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`320`](../src/invision/viewtopic_body.tpl#L320)[`<->`](../src/invision/viewtopic_body.tpl#L320-L320)[`320`](../src/invision/viewtopic_body.tpl#L320)
-

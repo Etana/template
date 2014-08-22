@@ -60,9 +60,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_STATISTICS}`](../var/L_STATISTICS.md#readme) :__ ligne [`2`](../src/invision/mod_statistics.tpl#L2)
-* __[`{NEWEST_USER}`](../var/NEWEST_USER.md#readme) :__ ligne [`6`](../src/invision/mod_statistics.tpl#L6)
-* __[`{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme) :__ ligne [`4`](../src/invision/mod_statistics.tpl#L4)
-* __[`{TOTAL_TOPICS}`](../var/TOTAL_TOPICS.md#readme) :__ ligne [`4`](../src/invision/mod_statistics.tpl#L4)
-* __[`{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme) :__ ligne [`5`](../src/invision/mod_statistics.tpl#L5)

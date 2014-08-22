@@ -24,7 +24,3 @@
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`97`](../src/punbb/modcp_viewip.tpl#L97)[`<->`](../src/punbb/modcp_viewip.tpl#L97-L97)[`97`](../src/punbb/modcp_viewip.tpl#L97)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`102`](../src/punbb/modcp_viewip.tpl#L102)[`<->`](../src/punbb/modcp_viewip.tpl#L102-L102)[`102`](../src/punbb/modcp_viewip.tpl#L102)
 
-### Version Invision
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`74`](../src/invision/modcp_viewip.tpl#L74)[`<->`](../src/invision/modcp_viewip.tpl#L74-L74)[`74`](../src/invision/modcp_viewip.tpl#L74)
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`79`](../src/invision/modcp_viewip.tpl#L79)[`<->`](../src/invision/modcp_viewip.tpl#L79-L79)[`79`](../src/invision/modcp_viewip.tpl#L79)
-

@@ -24,7 +24,3 @@ Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre f
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`205`](../src/punbb/overall_header.tpl#L205)[`<->`](../src/punbb/overall_header.tpl#L205-L205)[`205`](../src/punbb/overall_header.tpl#L205)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`216`](../src/punbb/overall_header.tpl#L216)[`<->`](../src/punbb/overall_header.tpl#L216-L216)[`216`](../src/punbb/overall_header.tpl#L216)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`207`](../src/invision/overall_header.tpl#L207)[`<->`](../src/invision/overall_header.tpl#L207-L207)[`207`](../src/invision/overall_header.tpl#L207)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`219`](../src/invision/overall_header.tpl#L219)[`<->`](../src/invision/overall_header.tpl#L219-L219)[`219`](../src/invision/overall_header.tpl#L219)
-

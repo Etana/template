@@ -85,16 +85,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`27`](../src/invision/search_username.tpl#L27)
-* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme) :__ ligne [`14`](../src/invision/search_username.tpl#L14)
-* __[`{L_SEARCH_EXPLAIN}`](../var/L_SEARCH_EXPLAIN.md#readme) :__ ligne [`15`](../src/invision/search_username.tpl#L15)
-* __[`{L_SEARCH_USERNAME}`](../var/L_SEARCH_USERNAME.md#readme) :__ ligne [`8`](../src/invision/search_username.tpl#L8)
-* __[`{L_SELECT}`](../var/L_SELECT.md#readme) :__ ligne [`23`](../src/invision/search_username.tpl#L23)
-* __[`{S_SEARCH_ACTION}`](../var/S_SEARCH_ACTION.md#readme) :__ ligne [`12`](../src/invision/search_username.tpl#L12)
-* __[`{S_USERNAME_OPTIONS}`](../var/S_USERNAME_OPTIONS.md#readme) :__ ligne [`21`](../src/invision/search_username.tpl#L21)
-* __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`14`](../src/invision/search_username.tpl#L14)
-* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/invision/search_username.tpl#L1)
-* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/invision/search_username.tpl#L5)
-* __[`<!-- BEGIN switch_select_name -->`](../var/switch_select_name.md#readme) :__ ligne [`18`](../src/invision/search_username.tpl#L18)
-* __[`<!-- END switch_select_name -->`](../var/switch_select_name.md#readme) :__ ligne [`25`](../src/invision/search_username.tpl#L25)

@@ -18,7 +18,3 @@ Contient le numéro d'ordre d'affichage du membre.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`38`](../src/subsilver/memberlist_body.tpl#L38)[`<->`](../src/subsilver/memberlist_body.tpl#L38-L38)[`38`](../src/subsilver/memberlist_body.tpl#L38)
 
-### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`64`](../src/invision/memberlist_body.tpl#L64)[`<->`](../src/invision/memberlist_body.tpl#L64-L64)[`64`](../src/invision/memberlist_body.tpl#L64)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`71`](../src/invision/memberlist_body.tpl#L71)[`<->`](../src/invision/memberlist_body.tpl#L71-L71)[`71`](../src/invision/memberlist_body.tpl#L71)
-

@@ -1,6 +1,6 @@
 # L_AIM
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Type :__ variable d
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
 * __Utilisation :__
 
 ```html
@@ -22,5 +22,4 @@ Chaîne de texte.
 ### Version PunBB
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`77`](../src/invision/profile_add_body.tpl#L77)[`<->`](../src/invision/profile_add_body.tpl#L77-L77)[`77`](../src/invision/profile_add_body.tpl#L77)
 

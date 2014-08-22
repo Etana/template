@@ -30,9 +30,3 @@
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`44`](../src/punbb/search_body.tpl#L44)[`<->`](../src/punbb/search_body.tpl#L44-L44)[`44`](../src/punbb/search_body.tpl#L44)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`44`](../src/punbb/search_body.tpl#L44)[`<->`](../src/punbb/search_body.tpl#L44-L44)[`44`](../src/punbb/search_body.tpl#L44)
 
-### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`26`](../src/invision/search_body.tpl#L26)[`<->`](../src/invision/search_body.tpl#L26-L26)[`26`](../src/invision/search_body.tpl#L26)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`26`](../src/invision/search_body.tpl#L26)[`<->`](../src/invision/search_body.tpl#L26-L26)[`26`](../src/invision/search_body.tpl#L26)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`26`](../src/invision/search_body.tpl#L26)[`<->`](../src/invision/search_body.tpl#L26-L26)[`26`](../src/invision/search_body.tpl#L26)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`26`](../src/invision/search_body.tpl#L26)[`<->`](../src/invision/search_body.tpl#L26-L26)[`26`](../src/invision/search_body.tpl#L26)
-

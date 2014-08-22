@@ -23,6 +23,3 @@ Chaîne de texte.
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`210`](../src/punbb/overall_header.tpl#L210)[`<->`](../src/punbb/overall_header.tpl#L210-L210)[`210`](../src/punbb/overall_header.tpl#L210)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`212`](../src/invision/overall_header.tpl#L212)[`<->`](../src/invision/overall_header.tpl#L212-L212)[`212`](../src/invision/overall_header.tpl#L212)
-

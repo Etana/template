@@ -40,13 +40,3 @@ Boucle s'affichant si l'utilisateur a l'autorisation de créer un nouveau sujet 
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`289`](../src/punbb/viewtopic_body.tpl#L289)[`<->`](../src/punbb/viewtopic_body.tpl#L289-L289)[`289`](../src/punbb/viewtopic_body.tpl#L289)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`291`](../src/punbb/viewtopic_body.tpl#L291)[`<->`](../src/punbb/viewtopic_body.tpl#L291-L291)[`291`](../src/punbb/viewtopic_body.tpl#L291)
 
-### Version Invision
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`11`](../src/invision/viewforum_body.tpl#L11)[`<->`](../src/invision/viewforum_body.tpl#L11-L11)[`11`](../src/invision/viewforum_body.tpl#L11)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`15`](../src/invision/viewforum_body.tpl#L15)[`<->`](../src/invision/viewforum_body.tpl#L15-L15)[`15`](../src/invision/viewforum_body.tpl#L15)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`29`](../src/invision/viewforum_body.tpl#L29)[`<->`](../src/invision/viewforum_body.tpl#L29-L29)[`29`](../src/invision/viewforum_body.tpl#L29)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`33`](../src/invision/viewforum_body.tpl#L33)[`<->`](../src/invision/viewforum_body.tpl#L33-L33)[`33`](../src/invision/viewforum_body.tpl#L33)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`62`](../src/invision/viewtopic_body.tpl#L62)[`<->`](../src/invision/viewtopic_body.tpl#L62-L62)[`62`](../src/invision/viewtopic_body.tpl#L62)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`64`](../src/invision/viewtopic_body.tpl#L64)[`<->`](../src/invision/viewtopic_body.tpl#L64-L64)[`64`](../src/invision/viewtopic_body.tpl#L64)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`330`](../src/invision/viewtopic_body.tpl#L330)[`<->`](../src/invision/viewtopic_body.tpl#L330-L330)[`330`](../src/invision/viewtopic_body.tpl#L330)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`334`](../src/invision/viewtopic_body.tpl#L334)[`<->`](../src/invision/viewtopic_body.tpl#L334-L334)[`334`](../src/invision/viewtopic_body.tpl#L334)
-

@@ -24,7 +24,3 @@
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`40`](../src/punbb/calendar_scheduler_body.tpl#L40)[`<->`](../src/punbb/calendar_scheduler_body.tpl#L40-L40)[`40`](../src/punbb/calendar_scheduler_body.tpl#L40)
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`42`](../src/punbb/calendar_scheduler_body.tpl#L42)[`<->`](../src/punbb/calendar_scheduler_body.tpl#L42-L42)[`42`](../src/punbb/calendar_scheduler_body.tpl#L42)
 
-### Version Invision
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`19`](../src/invision/calendar_scheduler_body.tpl#L19)[`<->`](../src/invision/calendar_scheduler_body.tpl#L19-L19)[`19`](../src/invision/calendar_scheduler_body.tpl#L19)
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`21`](../src/invision/calendar_scheduler_body.tpl#L21)[`<->`](../src/invision/calendar_scheduler_body.tpl#L21-L21)[`21`](../src/invision/calendar_scheduler_body.tpl#L21)
-

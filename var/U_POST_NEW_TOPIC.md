@@ -32,9 +32,3 @@ Remplacé par l'URL absolue de création d'un sujet dans le forum dans lequel le
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`112`](../src/punbb/viewtopic_body.tpl#L112)[`<->`](../src/punbb/viewtopic_body.tpl#L112-L112)[`112`](../src/punbb/viewtopic_body.tpl#L112)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`290`](../src/punbb/viewtopic_body.tpl#L290)[`<->`](../src/punbb/viewtopic_body.tpl#L290-L290)[`290`](../src/punbb/viewtopic_body.tpl#L290)
 
-### Version Invision
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`13`](../src/invision/viewforum_body.tpl#L13)[`<->`](../src/invision/viewforum_body.tpl#L13-L13)[`13`](../src/invision/viewforum_body.tpl#L13)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`31`](../src/invision/viewforum_body.tpl#L31)[`<->`](../src/invision/viewforum_body.tpl#L31-L31)[`31`](../src/invision/viewforum_body.tpl#L31)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`63`](../src/invision/viewtopic_body.tpl#L63)[`<->`](../src/invision/viewtopic_body.tpl#L63-L63)[`63`](../src/invision/viewtopic_body.tpl#L63)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`332`](../src/invision/viewtopic_body.tpl#L332)[`<->`](../src/invision/viewtopic_body.tpl#L332-L332)[`332`](../src/invision/viewtopic_body.tpl#L332)
-

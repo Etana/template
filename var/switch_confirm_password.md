@@ -24,7 +24,3 @@
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`143`](../src/punbb/profile_add_body.tpl#L143)[`<->`](../src/punbb/profile_add_body.tpl#L143-L143)[`143`](../src/punbb/profile_add_body.tpl#L143)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`153`](../src/punbb/profile_add_body.tpl#L153)[`<->`](../src/punbb/profile_add_body.tpl#L153-L153)[`153`](../src/punbb/profile_add_body.tpl#L153)
 
-### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`171`](../src/invision/profile_add_body.tpl#L171)[`<->`](../src/invision/profile_add_body.tpl#L171-L171)[`171`](../src/invision/profile_add_body.tpl#L171)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`179`](../src/invision/profile_add_body.tpl#L179)[`<->`](../src/invision/profile_add_body.tpl#L179-L179)[`179`](../src/invision/profile_add_body.tpl#L179)
-

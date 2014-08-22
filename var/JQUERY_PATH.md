@@ -24,11 +24,4 @@ Adresse URL de la librairie JavaScript jQuery.
 
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`22`](../src/punbb/overall_header.tpl#L22)[`<->`](../src/punbb/overall_header.tpl#L22-L22)[`22`](../src/punbb/overall_header.tpl#L22)
-* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`9`](../src/punbb/posting_smilies_frame.tpl#L9)[`<->`](../src/punbb/posting_smilies_frame.tpl#L9-L9)[`9`](../src/punbb/posting_smilies_frame.tpl#L9)
-* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`9`](../src/punbb/posting_smilies_wysiwyg.tpl#L9)[`<->`](../src/punbb/posting_smilies_wysiwyg.tpl#L9-L9)[`9`](../src/punbb/posting_smilies_wysiwyg.tpl#L9)
-
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`22`](../src/invision/overall_header.tpl#L22)[`<->`](../src/invision/overall_header.tpl#L22-L22)[`22`](../src/invision/overall_header.tpl#L22)
-* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`9`](../src/invision/posting_smilies_frame.tpl#L9)[`<->`](../src/invision/posting_smilies_frame.tpl#L9-L9)[`9`](../src/invision/posting_smilies_frame.tpl#L9)
-* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`8`](../src/invision/posting_smilies_wysiwyg.tpl#L8)[`<->`](../src/invision/posting_smilies_wysiwyg.tpl#L8-L8)[`8`](../src/invision/posting_smilies_wysiwyg.tpl#L8)
 

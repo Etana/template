@@ -34,5 +34,4 @@ Chaîne de texte.
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`59`](../src/invision/groupcp_info_body.tpl#L59)[`<->`](../src/invision/groupcp_info_body.tpl#L59-L59)[`59`](../src/invision/groupcp_info_body.tpl#L59)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`11`](../src/invision/groupcp_pending_info.tpl#L11)[`<->`](../src/invision/groupcp_pending_info.tpl#L11-L11)[`11`](../src/invision/groupcp_pending_info.tpl#L11)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`95`](../src/invision/profile_add_body.tpl#L95)[`<->`](../src/invision/profile_add_body.tpl#L95-L95)[`95`](../src/invision/profile_add_body.tpl#L95)
 

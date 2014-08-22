@@ -15,6 +15,3 @@
 ### Version PunBB
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`50`](../src/punbb/search_body.tpl#L50)[`<->`](../src/punbb/search_body.tpl#L50-L50)[`50`](../src/punbb/search_body.tpl#L50)
 
-### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`32`](../src/invision/search_body.tpl#L32)[`<->`](../src/invision/search_body.tpl#L32-L32)[`32`](../src/invision/search_body.tpl#L32)
-

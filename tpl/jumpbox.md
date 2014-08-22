@@ -58,8 +58,3 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_GO}`](../var/L_GO.md#readme) :__ ligne [`2`](../src/invision/jumpbox.tpl#L2)
-* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme) :__ ligne [`2`](../src/invision/jumpbox.tpl#L2)
-* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme) :__ ligne [`1`](../src/invision/jumpbox.tpl#L1)
-* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme) :__ ligne [`2`](../src/invision/jumpbox.tpl#L2)

@@ -66,8 +66,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{S_SOURCE}`](../var/S_SOURCE.md#readme) :__ ligne [`6`](../src/invision/standard.tpl#L6)
-* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme) :__ ligne [`2`](../src/invision/standard.tpl#L2)
-* __[`<!-- END table_row -->`](../var/table_row.md#readme) :__ ligne [`4`](../src/invision/standard.tpl#L4)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme) :__ ligne [`3`](../src/invision/standard.tpl#L3)

@@ -22,6 +22,3 @@ Hauteur du popup de connexion définie dans `PA > Général > Forum | Configurat
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`145`](../src/punbb/overall_header.tpl#L145)[`<->`](../src/punbb/overall_header.tpl#L145-L145)[`145`](../src/punbb/overall_header.tpl#L145)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`60`](../src/invision/overall_header.tpl#L60)[`<->`](../src/invision/overall_header.tpl#L60-L60)[`60`](../src/invision/overall_header.tpl#L60)
-

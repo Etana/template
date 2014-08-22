@@ -77,11 +77,3 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_NO}`](../var/L_NO.md#readme) :__ ligne [`12`](../src/invision/confirm_body.tpl#L12)
-* __[`{L_YES}`](../var/L_YES.md#readme) :__ ligne [`11`](../src/invision/confirm_body.tpl#L11)
-* __[`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme) :__ ligne [`6`](../src/invision/confirm_body.tpl#L6)
-* __[`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme) :__ ligne [`2`](../src/invision/confirm_body.tpl#L2)
-* __[`{OPTIONAL_BAN_NEW}`](../var/OPTIONAL_BAN_NEW.md#readme) :__ ligne [`8`](../src/invision/confirm_body.tpl#L8)
-* __[`{S_CONFIRM_ACTION}`](../var/S_CONFIRM_ACTION.md#readme) :__ ligne [`4`](../src/invision/confirm_body.tpl#L4)
-* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`10`](../src/invision/confirm_body.tpl#L10)

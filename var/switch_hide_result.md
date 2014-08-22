@@ -24,7 +24,3 @@
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`19`](../src/punbb/viewtopic_poll_result.tpl#L19)[`<->`](../src/punbb/viewtopic_poll_result.tpl#L19-L19)[`19`](../src/punbb/viewtopic_poll_result.tpl#L19)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`24`](../src/punbb/viewtopic_poll_result.tpl#L24)[`<->`](../src/punbb/viewtopic_poll_result.tpl#L24-L24)[`24`](../src/punbb/viewtopic_poll_result.tpl#L24)
 
-### Version Invision
-* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`26`](../src/invision/viewtopic_poll_result.tpl#L26)[`<->`](../src/invision/viewtopic_poll_result.tpl#L26-L26)[`26`](../src/invision/viewtopic_poll_result.tpl#L26)
-* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`28`](../src/invision/viewtopic_poll_result.tpl#L28)[`<->`](../src/invision/viewtopic_poll_result.tpl#L28-L28)[`28`](../src/invision/viewtopic_poll_result.tpl#L28)
-

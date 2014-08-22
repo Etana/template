@@ -58,9 +58,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`25`](../src/invision/report_popup_body.tpl#L25)
-* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme) :__ ligne [`22`](../src/invision/report_popup_body.tpl#L22)
-* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme) :__ ligne [`10`](../src/invision/report_popup_body.tpl#L10)
-* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/invision/report_popup_body.tpl#L1)
-* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/invision/report_popup_body.tpl#L5)

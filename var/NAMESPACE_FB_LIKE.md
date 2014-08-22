@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`2`](../src/punbb/overall_header.tpl#L2)[`<->`](../src/punbb/overall_header.tpl#L2-L2)[`2`](../src/punbb/overall_header.tpl#L2)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`2`](../src/invision/overall_header.tpl#L2)[`<->`](../src/invision/overall_header.tpl#L2-L2)[`2`](../src/invision/overall_header.tpl#L2)
-

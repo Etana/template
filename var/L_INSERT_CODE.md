@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`80`](../src/punbb/buy_credits.tpl#L80)[`<->`](../src/punbb/buy_credits.tpl#L80-L80)[`80`](../src/punbb/buy_credits.tpl#L80)
 
-### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`65`](../src/invision/buy_credits.tpl#L65)[`<->`](../src/invision/buy_credits.tpl#L65-L65)[`65`](../src/invision/buy_credits.tpl#L65)
-

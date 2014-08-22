@@ -18,6 +18,3 @@
 ### Version phpBB2
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`4`](../src/subsilver/calendar_scheduler_body.tpl#L4)[`<->`](../src/subsilver/calendar_scheduler_body.tpl#L4-L4)[`4`](../src/subsilver/calendar_scheduler_body.tpl#L4)
 
-### Version Invision
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`3`](../src/invision/calendar_scheduler_body.tpl#L3)[`<->`](../src/invision/calendar_scheduler_body.tpl#L3-L3)[`3`](../src/invision/calendar_scheduler_body.tpl#L3)
-

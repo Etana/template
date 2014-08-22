@@ -24,6 +24,3 @@ Chaîne de caractère.
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`228`](../src/punbb/overall_header.tpl#L228)[`<->`](../src/punbb/overall_header.tpl#L228-L228)[`228`](../src/punbb/overall_header.tpl#L228)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`231`](../src/invision/overall_header.tpl#L231)[`<->`](../src/invision/overall_header.tpl#L231-L231)[`231`](../src/invision/overall_header.tpl#L231)
-

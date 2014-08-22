@@ -21,6 +21,3 @@ Adresse URL du script utilisé pour la FAQ : `http://illiweb.com/rsc/53/frm/coll
 ### Version PunBB
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`20`](../src/punbb/faq_dhtml.tpl#L20)[`<->`](../src/punbb/faq_dhtml.tpl#L20-L20)[`20`](../src/punbb/faq_dhtml.tpl#L20)
 
-### Version Invision
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`7`](../src/invision/faq_dhtml.tpl#L7)[`<->`](../src/invision/faq_dhtml.tpl#L7-L7)[`7`](../src/invision/faq_dhtml.tpl#L7)
-

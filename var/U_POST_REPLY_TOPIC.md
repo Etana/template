@@ -26,7 +26,3 @@ Remplacé par l'URL absolue de réponse au sujet sur lequel on se trouve.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/punbb/viewtopic_body.tpl#L116)[`<->`](../src/punbb/viewtopic_body.tpl#L116-L116)[`116`](../src/punbb/viewtopic_body.tpl#L116)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`294`](../src/punbb/viewtopic_body.tpl#L294)[`<->`](../src/punbb/viewtopic_body.tpl#L294-L294)[`294`](../src/punbb/viewtopic_body.tpl#L294)
 
-### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`66`](../src/invision/viewtopic_body.tpl#L66)[`<->`](../src/invision/viewtopic_body.tpl#L66-L66)[`66`](../src/invision/viewtopic_body.tpl#L66)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`337`](../src/invision/viewtopic_body.tpl#L337)[`<->`](../src/invision/viewtopic_body.tpl#L337-L337)[`337`](../src/invision/viewtopic_body.tpl#L337)
-

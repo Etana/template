@@ -24,7 +24,3 @@ Contient le niveau de hiérarchie du forum bouclé.
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`29`](../src/punbb/index_box.tpl#L29)[`<->`](../src/punbb/index_box.tpl#L29-L29)[`29`](../src/punbb/index_box.tpl#L29)
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`29`](../src/punbb/index_box.tpl#L29)[`<->`](../src/punbb/index_box.tpl#L29-L29)[`29`](../src/punbb/index_box.tpl#L29)
 
-### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`37`](../src/invision/index_box.tpl#L37)[`<->`](../src/invision/index_box.tpl#L37-L37)[`37`](../src/invision/index_box.tpl#L37)
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`37`](../src/invision/index_box.tpl#L37)[`<->`](../src/invision/index_box.tpl#L37-L37)[`37`](../src/invision/index_box.tpl#L37)
-

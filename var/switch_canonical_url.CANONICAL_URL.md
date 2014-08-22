@@ -21,6 +21,3 @@ Contient l'adresse URL de la balise link rel canonical qui est liée au duplicat
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/punbb/overall_header.tpl#L12)[`<->`](../src/punbb/overall_header.tpl#L12-L12)[`12`](../src/punbb/overall_header.tpl#L12)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/invision/overall_header.tpl#L12)[`<->`](../src/invision/overall_header.tpl#L12-L12)[`12`](../src/invision/overall_header.tpl#L12)
-

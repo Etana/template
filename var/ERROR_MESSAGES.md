@@ -18,6 +18,3 @@
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`13`](../src/subsilver/buy_credits.tpl#L13)[`<->`](../src/subsilver/buy_credits.tpl#L13-L13)[`13`](../src/subsilver/buy_credits.tpl#L13)
 
-### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`6`](../src/invision/buy_credits.tpl#L6)[`<->`](../src/invision/buy_credits.tpl#L6-L6)[`6`](../src/invision/buy_credits.tpl#L6)
-

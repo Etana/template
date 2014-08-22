@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`17`](../src/punbb/album_nuffimage_box.tpl#L17)[`<->`](../src/punbb/album_nuffimage_box.tpl#L17-L17)[`17`](../src/punbb/album_nuffimage_box.tpl#L17)
 
-### Version Invision
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`17`](../src/invision/album_nuffimage_box.tpl#L17)[`<->`](../src/invision/album_nuffimage_box.tpl#L17-L17)[`17`](../src/invision/album_nuffimage_box.tpl#L17)
-

@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`30`](../src/punbb/profile_avatar_gallery.tpl#L30)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L30-L30)[`30`](../src/punbb/profile_avatar_gallery.tpl#L30)
 
-### Version Invision
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`17`](../src/invision/profile_avatar_gallery.tpl#L17)[`<->`](../src/invision/profile_avatar_gallery.tpl#L17-L17)[`17`](../src/invision/profile_avatar_gallery.tpl#L17)
-

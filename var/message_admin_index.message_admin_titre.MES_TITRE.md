@@ -1,6 +1,6 @@
 # message_admin_index.message_admin_titre.MES_TITRE
 * __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme), [`index_body`](../tpl/index_body.md#readme)
+* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -20,8 +20,4 @@ Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralité
 
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`23`](../src/punbb/index_body.tpl#L23)[`<->`](../src/punbb/index_body.tpl#L23-L23)[`23`](../src/punbb/index_body.tpl#L23)
-
-### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`11`](../src/invision/agreement.tpl#L11)[`<->`](../src/invision/agreement.tpl#L11-L11)[`11`](../src/invision/agreement.tpl#L11)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`11`](../src/invision/index_body.tpl#L11)[`<->`](../src/invision/index_body.tpl#L11-L11)[`11`](../src/invision/index_body.tpl#L11)
 

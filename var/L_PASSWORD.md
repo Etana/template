@@ -35,9 +35,3 @@ Chaîne de caractère.
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`12`](../src/punbb/mod_login.tpl#L12)[`<->`](../src/punbb/mod_login.tpl#L12-L12)[`12`](../src/punbb/mod_login.tpl#L12)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`44`](../src/punbb/mod_login.tpl#L44)[`<->`](../src/punbb/mod_login.tpl#L44-L44)[`44`](../src/punbb/mod_login.tpl#L44)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`25`](../src/invision/index_body.tpl#L25)[`<->`](../src/invision/index_body.tpl#L25-L25)[`25`](../src/invision/index_body.tpl#L25)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`174`](../src/invision/index_body.tpl#L174)[`<->`](../src/invision/index_body.tpl#L174-L174)[`174`](../src/invision/index_body.tpl#L174)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`15`](../src/invision/mod_login.tpl#L15)[`<->`](../src/invision/mod_login.tpl#L15-L15)[`15`](../src/invision/mod_login.tpl#L15)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`49`](../src/invision/mod_login.tpl#L49)[`<->`](../src/invision/mod_login.tpl#L49-L49)[`49`](../src/invision/mod_login.tpl#L49)
-

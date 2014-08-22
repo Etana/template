@@ -28,8 +28,3 @@ Contient la navigation entre les onglets dans `/search?search_id=watchsearch`.
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`25`](../src/punbb/profile_edit_signature.tpl#L25)[`<->`](../src/punbb/profile_edit_signature.tpl#L25-L25)[`25`](../src/punbb/profile_edit_signature.tpl#L25)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`17`](../src/punbb/rpg_sheet_edit.tpl#L17)[`<->`](../src/punbb/rpg_sheet_edit.tpl#L17-L17)[`17`](../src/punbb/rpg_sheet_edit.tpl#L17)
 
-### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`9`](../src/invision/profile_add_body.tpl#L9)[`<->`](../src/invision/profile_add_body.tpl#L9-L9)[`9`](../src/invision/profile_add_body.tpl#L9)
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`18`](../src/invision/profile_edit_signature.tpl#L18)[`<->`](../src/invision/profile_edit_signature.tpl#L18-L18)[`18`](../src/invision/profile_edit_signature.tpl#L18)
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`5`](../src/invision/rpg_sheet_edit.tpl#L5)[`<->`](../src/invision/rpg_sheet_edit.tpl#L5-L5)[`5`](../src/invision/rpg_sheet_edit.tpl#L5)
-

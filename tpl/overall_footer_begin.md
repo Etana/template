@@ -95,18 +95,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme) :__ ligne [`31`](../src/invision/overall_footer_begin.tpl#L31)
-* __[`{ID_RIGHT}`](../var/ID_RIGHT.md#readme) :__ ligne [`14`](../src/invision/overall_footer_begin.tpl#L14)
-* __[`{SPACE_ROW}`](../var/SPACE_ROW.md#readme) :__ ligne [`18`](../src/invision/overall_footer_begin.tpl#L18)
-* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme) :__ ligne [`28`](../src/invision/overall_footer_begin.tpl#L28)
-* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme) :__ ligne [`29`](../src/invision/overall_footer_begin.tpl#L29)
-* __[`<!-- BEGIN giefmod_index2 -->`](../var/giefmod_index2.md#readme) :__ ligne [`15`](../src/invision/overall_footer_begin.tpl#L15)
-* __[`<!-- END giefmod_index2 -->`](../var/giefmod_index2.md#readme) :__ ligne [`20`](../src/invision/overall_footer_begin.tpl#L20)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod_index2.MODVAR}`](../var/giefmod_index2.MODVAR.md#readme) :__ ligne [`16`](../src/invision/overall_footer_begin.tpl#L16)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod_index2.saut.md#readme) :__ ligne [`17`](../src/invision/overall_footer_begin.tpl#L17)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END saut -->`](../var/giefmod_index2.saut.md#readme) :__ ligne [`19`](../src/invision/overall_footer_begin.tpl#L19)
-* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/invision/overall_footer_begin.tpl#L1)
-* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`9`](../src/invision/overall_footer_begin.tpl#L9)
-* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`36`](../src/invision/overall_footer_begin.tpl#L36)
-* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`43`](../src/invision/overall_footer_begin.tpl#L43)

@@ -86,17 +86,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_SUBMIT_VOTE}`](../var/L_SUBMIT_VOTE.md#readme) :__ ligne [`12`](../src/invision/poll_ballot.tpl#L12)
-* __[`{L_VIEW_RESULTS}`](../var/L_VIEW_RESULTS.md#readme) :__ ligne [`14`](../src/invision/poll_ballot.tpl#L14)
-* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`2`](../src/invision/poll_ballot.tpl#L2)
-* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`15`](../src/invision/poll_ballot.tpl#L15)
-* __[`{S_POLL_ACTION}`](../var/S_POLL_ACTION.md#readme) :__ ligne [`1`](../src/invision/poll_ballot.tpl#L1)
-* __[`{U_VIEW_RESULTS}`](../var/U_VIEW_RESULTS.md#readme) :__ ligne [`14`](../src/invision/poll_ballot.tpl#L14)
-* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`4`](../src/invision/poll_ballot.tpl#L4)
-* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`9`](../src/invision/poll_ballot.tpl#L9)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`6`](../src/invision/poll_ballot.tpl#L6)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme) :__ ligne [`6`](../src/invision/poll_ballot.tpl#L6)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme) :__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme) :__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme) :__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)

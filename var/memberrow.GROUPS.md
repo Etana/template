@@ -21,6 +21,3 @@ Contient le groupe du membre.
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`81`](../src/punbb/memberlist_body.tpl#L81)[`<->`](../src/punbb/memberlist_body.tpl#L81-L81)[`81`](../src/punbb/memberlist_body.tpl#L81)
 
-### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`93`](../src/invision/memberlist_body.tpl#L93)[`<->`](../src/invision/memberlist_body.tpl#L93-L93)[`93`](../src/invision/memberlist_body.tpl#L93)
-

@@ -21,6 +21,3 @@ Contient le nombre de réponses postés dans le sujet.
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`60`](../src/punbb/search_results_topics.tpl#L60)[`<->`](../src/punbb/search_results_topics.tpl#L60-L60)[`60`](../src/punbb/search_results_topics.tpl#L60)
 
-### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`49`](../src/invision/search_results_topics.tpl#L49)[`<->`](../src/invision/search_results_topics.tpl#L49-L49)[`49`](../src/invision/search_results_topics.tpl#L49)
-

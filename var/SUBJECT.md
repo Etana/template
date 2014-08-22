@@ -24,11 +24,5 @@
 
 ### Version PunBB
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`31`](../src/punbb/modcp_viewip.tpl#L31)[`<->`](../src/punbb/modcp_viewip.tpl#L31-L31)[`31`](../src/punbb/modcp_viewip.tpl#L31)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`130`](../src/punbb/posting_body.tpl#L130)[`<->`](../src/punbb/posting_body.tpl#L130-L130)[`130`](../src/punbb/posting_body.tpl#L130)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`44`](../src/punbb/profile_send_email.tpl#L44)[`<->`](../src/punbb/profile_send_email.tpl#L44-L44)[`44`](../src/punbb/profile_send_email.tpl#L44)
-
-### Version Invision
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`14`](../src/invision/modcp_viewip.tpl#L14)[`<->`](../src/invision/modcp_viewip.tpl#L14-L14)[`14`](../src/invision/modcp_viewip.tpl#L14)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`98`](../src/invision/posting_body.tpl#L98)[`<->`](../src/invision/posting_body.tpl#L98-L98)[`98`](../src/invision/posting_body.tpl#L98)
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`29`](../src/invision/profile_send_email.tpl#L29)[`<->`](../src/invision/profile_send_email.tpl#L29-L29)[`29`](../src/invision/profile_send_email.tpl#L29)
 

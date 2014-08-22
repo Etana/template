@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`23`](../src/punbb/faq_body.tpl#L23)[`<->`](../src/punbb/faq_body.tpl#L23-L23)[`23`](../src/punbb/faq_body.tpl#L23)
 
-### Version Invision
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`12`](../src/invision/faq_body.tpl#L12)[`<->`](../src/invision/faq_body.tpl#L12-L12)[`12`](../src/invision/faq_body.tpl#L12)
-

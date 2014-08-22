@@ -21,6 +21,3 @@ Contient la valeur cachée de votre identifiant de session.
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`52`](../src/punbb/memberlist_body.tpl#L52)[`<->`](../src/punbb/memberlist_body.tpl#L52-L52)[`52`](../src/punbb/memberlist_body.tpl#L52)
 
-### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`42`](../src/invision/memberlist_body.tpl#L42)[`<->`](../src/invision/memberlist_body.tpl#L42-L42)[`42`](../src/invision/memberlist_body.tpl#L42)
-

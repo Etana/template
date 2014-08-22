@@ -91,17 +91,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`20`](../src/invision/poll_result.tpl#L20)
-* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`1`](../src/invision/poll_result.tpl#L1)
-* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme) :__ ligne [`20`](../src/invision/poll_result.tpl#L20)
-* __[`{VOTE_LCAP_IMG}`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`9`](../src/invision/poll_result.tpl#L9)
-* __[`{VOTE_RCAP_IMG}`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`11`](../src/invision/poll_result.tpl#L11)
-* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`3`](../src/invision/poll_result.tpl#L3)
-* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`17`](../src/invision/poll_result.tpl#L17)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`5`](../src/invision/poll_result.tpl#L5)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`12`](../src/invision/poll_result.tpl#L12)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`13`](../src/invision/poll_result.tpl#L13)

@@ -23,6 +23,3 @@ Affiche le texte du lien de la variable {{U_MARK_READ}}.
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`8`](../src/punbb/index_body.tpl#L8)[`<->`](../src/punbb/index_body.tpl#L8-L8)[`8`](../src/punbb/index_body.tpl#L8)
 
-### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`84`](../src/invision/index_box.tpl#L84)[`<->`](../src/invision/index_box.tpl#L84-L84)[`84`](../src/invision/index_box.tpl#L84)
-

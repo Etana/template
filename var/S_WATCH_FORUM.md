@@ -21,6 +21,3 @@ Lien pour surveiller les sujets du forum concerné.
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)[`<->`](../src/punbb/topics_list_box.tpl#L122-L122)[`122`](../src/punbb/topics_list_box.tpl#L122)
 
-### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`48`](../src/invision/topics_list_box.tpl#L48)[`<->`](../src/invision/topics_list_box.tpl#L48-L48)[`48`](../src/invision/topics_list_box.tpl#L48)
-

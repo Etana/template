@@ -16,7 +16,3 @@
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`73`](../src/prosilver/index_body.tpl#L73)[`<->`](../src/prosilver/index_body.tpl#L73-L73)[`73`](../src/prosilver/index_body.tpl#L73)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`75`](../src/prosilver/index_body.tpl#L75)[`<->`](../src/prosilver/index_body.tpl#L75-L75)[`75`](../src/prosilver/index_body.tpl#L75)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`116`](../src/invision/index_body.tpl#L116)[`<->`](../src/invision/index_body.tpl#L116-L116)[`116`](../src/invision/index_body.tpl#L116)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`118`](../src/invision/index_body.tpl#L118)[`<->`](../src/invision/index_body.tpl#L118-L118)[`118`](../src/invision/index_body.tpl#L118)
-

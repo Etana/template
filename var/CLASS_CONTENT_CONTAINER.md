@@ -23,6 +23,3 @@ Classe attribuée au conteneur principal de votre forum.
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`296`](../src/punbb/overall_header.tpl#L296)[`<->`](../src/punbb/overall_header.tpl#L296-L296)[`296`](../src/punbb/overall_header.tpl#L296)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`314`](../src/invision/overall_header.tpl#L314)[`<->`](../src/invision/overall_header.tpl#L314-L314)[`314`](../src/invision/overall_header.tpl#L314)
-

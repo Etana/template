@@ -24,7 +24,3 @@ Variable non utilisée.
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`69`](../src/punbb/overall_header.tpl#L69)[`<->`](../src/punbb/overall_header.tpl#L69-L69)[`69`](../src/punbb/overall_header.tpl#L69)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`105`](../src/punbb/overall_header.tpl#L105)[`<->`](../src/punbb/overall_header.tpl#L105-L105)[`105`](../src/punbb/overall_header.tpl#L105)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`120`](../src/invision/overall_header.tpl#L120)[`<->`](../src/invision/overall_header.tpl#L120-L120)[`120`](../src/invision/overall_header.tpl#L120)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`154`](../src/invision/overall_header.tpl#L154)[`<->`](../src/invision/overall_header.tpl#L154-L154)[`154`](../src/invision/overall_header.tpl#L154)
-

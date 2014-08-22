@@ -24,6 +24,3 @@ Contient la liste de vos catégories et forums.
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`37`](../src/punbb/album_formsearch_body.tpl#L37)[`<->`](../src/punbb/album_formsearch_body.tpl#L37-L37)[`37`](../src/punbb/album_formsearch_body.tpl#L37)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`61`](../src/punbb/search_body.tpl#L61)[`<->`](../src/punbb/search_body.tpl#L61-L61)[`61`](../src/punbb/search_body.tpl#L61)
 
-### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`47`](../src/invision/search_body.tpl#L47)[`<->`](../src/invision/search_body.tpl#L47-L47)[`47`](../src/invision/search_body.tpl#L47)
-

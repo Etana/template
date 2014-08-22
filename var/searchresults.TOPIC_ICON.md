@@ -21,6 +21,3 @@ Contient l'icône du sujet pouvant être défini dans `PA > Affichage > Images e
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`51`](../src/punbb/search_results_topics.tpl#L51)[`<->`](../src/punbb/search_results_topics.tpl#L51-L51)[`51`](../src/punbb/search_results_topics.tpl#L51)
 
-### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`37`](../src/invision/search_results_topics.tpl#L37)[`<->`](../src/invision/search_results_topics.tpl#L37-L37)[`37`](../src/invision/search_results_topics.tpl#L37)
-

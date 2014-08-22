@@ -42,13 +42,3 @@
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`18`](../src/punbb/topics_list_box.tpl#L18)[`<->`](../src/punbb/topics_list_box.tpl#L18-L18)[`18`](../src/punbb/topics_list_box.tpl#L18)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`18`](../src/punbb/topics_list_box.tpl#L18)[`<->`](../src/punbb/topics_list_box.tpl#L18-L18)[`18`](../src/punbb/topics_list_box.tpl#L18)
 
-### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`10`](../src/invision/topics_list_box.tpl#L10)[`<->`](../src/invision/topics_list_box.tpl#L10-L10)[`10`](../src/invision/topics_list_box.tpl#L10)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`12`](../src/invision/topics_list_box.tpl#L12)[`<->`](../src/invision/topics_list_box.tpl#L12-L12)[`12`](../src/invision/topics_list_box.tpl#L12)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`14`](../src/invision/topics_list_box.tpl#L14)[`<->`](../src/invision/topics_list_box.tpl#L14-L14)[`14`](../src/invision/topics_list_box.tpl#L14)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`17`](../src/invision/topics_list_box.tpl#L17)[`<->`](../src/invision/topics_list_box.tpl#L17-L17)[`17`](../src/invision/topics_list_box.tpl#L17)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`21`](../src/invision/topics_list_box.tpl#L21)[`<->`](../src/invision/topics_list_box.tpl#L21-L21)[`21`](../src/invision/topics_list_box.tpl#L21)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`23`](../src/invision/topics_list_box.tpl#L23)[`<->`](../src/invision/topics_list_box.tpl#L23-L23)[`23`](../src/invision/topics_list_box.tpl#L23)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`25`](../src/invision/topics_list_box.tpl#L25)[`<->`](../src/invision/topics_list_box.tpl#L25-L25)[`25`](../src/invision/topics_list_box.tpl#L25)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`25`](../src/invision/topics_list_box.tpl#L25)[`<->`](../src/invision/topics_list_box.tpl#L25-L25)[`25`](../src/invision/topics_list_box.tpl#L25)
-

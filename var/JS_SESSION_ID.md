@@ -30,8 +30,3 @@ Contient une valeur vide utile pour le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`11`](../src/punbb/viewforum_body.tpl#L11)[`<->`](../src/punbb/viewforum_body.tpl#L11-L11)[`11`](../src/punbb/viewforum_body.tpl#L11)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`60`](../src/punbb/viewtopic_body.tpl#L60)[`<->`](../src/punbb/viewtopic_body.tpl#L60-L60)[`60`](../src/punbb/viewtopic_body.tpl#L60)
 
-### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`68`](../src/invision/album_cat_body.tpl#L68)[`<->`](../src/invision/album_cat_body.tpl#L68-L68)[`68`](../src/invision/album_cat_body.tpl#L68)
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`222`](../src/invision/album_showpage_body.tpl#L222)[`<->`](../src/invision/album_showpage_body.tpl#L222-L222)[`222`](../src/invision/album_showpage_body.tpl#L222)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`103`](../src/invision/viewtopic_body.tpl#L103)[`<->`](../src/invision/viewtopic_body.tpl#L103-L103)[`103`](../src/invision/viewtopic_body.tpl#L103)
-

@@ -64,10 +64,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme) :__ ligne [`2`](../src/invision/mod_keywords.tpl#L2)
-* __[`<!-- BEGIN li_row -->`](../var/li_row.md#readme) :__ ligne [`5`](../src/invision/mod_keywords.tpl#L5)
-* __[`<!-- END li_row -->`](../var/li_row.md#readme) :__ ligne [`7`](../src/invision/mod_keywords.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)

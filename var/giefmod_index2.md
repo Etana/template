@@ -24,7 +24,3 @@ Boucle d'affichage de vos widgets de la colonne de droite si ceux-ci sont activ√
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`17`](../src/punbb/overall_footer_begin.tpl#L17)[`<->`](../src/punbb/overall_footer_begin.tpl#L17-L17)[`17`](../src/punbb/overall_footer_begin.tpl#L17)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`22`](../src/punbb/overall_footer_begin.tpl#L22)[`<->`](../src/punbb/overall_footer_begin.tpl#L22-L22)[`22`](../src/punbb/overall_footer_begin.tpl#L22)
 
-### Version Invision
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`15`](../src/invision/overall_footer_begin.tpl#L15)[`<->`](../src/invision/overall_footer_begin.tpl#L15-L15)[`15`](../src/invision/overall_footer_begin.tpl#L15)
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`20`](../src/invision/overall_footer_begin.tpl#L20)[`<->`](../src/invision/overall_footer_begin.tpl#L20-L20)[`20`](../src/invision/overall_footer_begin.tpl#L20)
-

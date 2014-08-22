@@ -14,7 +14,6 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ICON_TIME}`](../var/ICON_TIME.md#readme)
-	* [`{L_ATTACH_SIGNATURE}`](../var/L_ATTACH_SIGNATURE.md#readme)
 	* [`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)
 	* [`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
 	* [`{L_POST_SUBJECT}`](../var/L_POST_SUBJECT.md#readme)
@@ -90,32 +89,9 @@
 
 ### Positions des variables
 
-* __[`{L_ATTACH_SIGNATURE}`](../var/L_ATTACH_SIGNATURE.md#readme) :__ ligne [`43`](../src/punbb/privmsg_topic_review.tpl#L43)
-* __[`{L_TOPIC_REVIEW}`](../var/L_TOPIC_REVIEW.md#readme) :__ ligne [`4`](../src/punbb/privmsg_topic_review.tpl#L4)
-* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme) :__ ligne [`18`](../src/punbb/privmsg_topic_review.tpl#L18)
-* __[`<!-- END postrow -->`](../var/postrow.md#readme) :__ ligne [`49`](../src/punbb/privmsg_topic_review.tpl#L49)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.MESSAGE}`](../var/postrow.MESSAGE.md#readme) :__ ligne [`39`](../src/punbb/privmsg_topic_review.tpl#L39)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_AVATAR}`](../var/postrow.POSTER_AVATAR.md#readme) :__ ligne [`31`](../src/punbb/privmsg_topic_review.tpl#L31)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme) :__ ligne [`29`](../src/punbb/privmsg_topic_review.tpl#L29)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme) :__ ligne [`32`](../src/punbb/privmsg_topic_review.tpl#L32)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme) :__ ligne [`23`](../src/punbb/privmsg_topic_review.tpl#L23)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT_NEW}`](../var/postrow.POST_SUBJECT_NEW.md#readme) :__ ligne [`23`](../src/punbb/privmsg_topic_review.tpl#L23)
-* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`2`](../src/punbb/privmsg_topic_review.tpl#L2)
-* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`6`](../src/punbb/privmsg_topic_review.tpl#L6)
 
 ## Template par défaut Invision
 
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_TOPIC_REVIEW}`](../var/L_TOPIC_REVIEW.md#readme) :__ ligne [`4`](../src/invision/privmsg_topic_review.tpl#L4)
-* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme) :__ ligne [`8`](../src/invision/privmsg_topic_review.tpl#L8)
-* __[`<!-- END postrow -->`](../var/postrow.md#readme) :__ ligne [`35`](../src/invision/privmsg_topic_review.tpl#L35)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.MESSAGE}`](../var/postrow.MESSAGE.md#readme) :__ ligne [`28`](../src/invision/privmsg_topic_review.tpl#L28)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_AVATAR}`](../var/postrow.POSTER_AVATAR.md#readme) :__ ligne [`19`](../src/invision/privmsg_topic_review.tpl#L19)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme) :__ ligne [`16`](../src/invision/privmsg_topic_review.tpl#L16)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme) :__ ligne [`23`](../src/invision/privmsg_topic_review.tpl#L23)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT_NEW}`](../var/postrow.POST_SUBJECT_NEW.md#readme) :__ ligne [`23`](../src/invision/privmsg_topic_review.tpl#L23)
-* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`2`](../src/invision/privmsg_topic_review.tpl#L2)
-* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`6`](../src/invision/privmsg_topic_review.tpl#L6)

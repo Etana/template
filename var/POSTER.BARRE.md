@@ -30,9 +30,3 @@
 * __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme) :__ lignes [`8`](../src/punbb/mod_top_post_users_week.tpl#L8)[`<->`](../src/punbb/mod_top_post_users_week.tpl#L8-L8)[`8`](../src/punbb/mod_top_post_users_week.tpl#L8)
 * __[`mod_top_posters`](../tpl/mod_top_posters.md#readme) :__ lignes [`8`](../src/punbb/mod_top_posters.tpl#L8)[`<->`](../src/punbb/mod_top_posters.tpl#L8-L8)[`8`](../src/punbb/mod_top_posters.tpl#L8)
 
-### Version Invision
-* __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme) :__ lignes [`8`](../src/invision/mod_most_active_starters.tpl#L8)[`<->`](../src/invision/mod_most_active_starters.tpl#L8-L8)[`8`](../src/invision/mod_most_active_starters.tpl#L8)
-* __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme) :__ lignes [`8`](../src/invision/mod_top_post_users_month.tpl#L8)[`<->`](../src/invision/mod_top_post_users_month.tpl#L8-L8)[`8`](../src/invision/mod_top_post_users_month.tpl#L8)
-* __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme) :__ lignes [`8`](../src/invision/mod_top_post_users_week.tpl#L8)[`<->`](../src/invision/mod_top_post_users_week.tpl#L8-L8)[`8`](../src/invision/mod_top_post_users_week.tpl#L8)
-* __[`mod_top_posters`](../tpl/mod_top_posters.md#readme) :__ lignes [`8`](../src/invision/mod_top_posters.tpl#L8)[`<->`](../src/invision/mod_top_posters.tpl#L8-L8)[`8`](../src/invision/mod_top_posters.tpl#L8)
-

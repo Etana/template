@@ -24,6 +24,3 @@ Contient une liste de date pour la recherche.
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`41`](../src/punbb/album_formsearch_body.tpl#L41)[`<->`](../src/punbb/album_formsearch_body.tpl#L41-L41)[`41`](../src/punbb/album_formsearch_body.tpl#L41)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`68`](../src/punbb/search_body.tpl#L68)[`<->`](../src/punbb/search_body.tpl#L68-L68)[`68`](../src/punbb/search_body.tpl#L68)
 
-### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`51`](../src/invision/search_body.tpl#L51)[`<->`](../src/invision/search_body.tpl#L51-L51)[`51`](../src/invision/search_body.tpl#L51)
-

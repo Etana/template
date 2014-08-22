@@ -27,6 +27,3 @@ Veuillez commencer votre inscription en acceptant ce règlement.
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`23`](../src/punbb/agreement.tpl#L23)[`<->`](../src/punbb/agreement.tpl#L23-L23)[`23`](../src/punbb/agreement.tpl#L23)
 
-### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`27`](../src/invision/agreement.tpl#L27)[`<->`](../src/invision/agreement.tpl#L27-L27)[`27`](../src/invision/agreement.tpl#L27)
-

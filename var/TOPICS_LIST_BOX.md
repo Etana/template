@@ -21,6 +21,3 @@ Affiche le template {{subsilver/topics_list_box}} ou {{punbb/topics_list_box}}.
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`38`](../src/punbb/viewforum_body.tpl#L38)[`<->`](../src/punbb/viewforum_body.tpl#L38-L38)[`38`](../src/punbb/viewforum_body.tpl#L38)
 
-### Version Invision
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`21`](../src/invision/viewforum_body.tpl#L21)[`<->`](../src/invision/viewforum_body.tpl#L21-L21)[`21`](../src/invision/viewforum_body.tpl#L21)
-

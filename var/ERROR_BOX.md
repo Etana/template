@@ -23,12 +23,6 @@
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`1`](../src/subsilver/profile_send_email.tpl#L1)[`<->`](../src/subsilver/profile_send_email.tpl#L1-L1)[`1`](../src/subsilver/profile_send_email.tpl#L1)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`23`](../src/punbb/posting_body.tpl#L23)[`<->`](../src/punbb/posting_body.tpl#L23-L23)[`23`](../src/punbb/posting_body.tpl#L23)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`17`](../src/punbb/profile_add_body.tpl#L17)[`<->`](../src/punbb/profile_add_body.tpl#L17-L17)[`17`](../src/punbb/profile_add_body.tpl#L17)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`22`](../src/punbb/profile_send_email.tpl#L22)[`<->`](../src/punbb/profile_send_email.tpl#L22-L22)[`22`](../src/punbb/profile_send_email.tpl#L22)
-
-### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`7`](../src/invision/posting_body.tpl#L7)[`<->`](../src/invision/posting_body.tpl#L7-L7)[`7`](../src/invision/posting_body.tpl#L7)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`7`](../src/invision/profile_add_body.tpl#L7)[`<->`](../src/invision/profile_add_body.tpl#L7-L7)[`7`](../src/invision/profile_add_body.tpl#L7)
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`7`](../src/invision/profile_send_email.tpl#L7)[`<->`](../src/invision/profile_send_email.tpl#L7-L7)[`7`](../src/invision/profile_send_email.tpl#L7)
 

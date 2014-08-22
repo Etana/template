@@ -24,7 +24,3 @@
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`3`](../src/punbb/birthday_list_box.tpl#L3)[`<->`](../src/punbb/birthday_list_box.tpl#L3-L3)[`3`](../src/punbb/birthday_list_box.tpl#L3)
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`16`](../src/punbb/birthday_list_box.tpl#L16)[`<->`](../src/punbb/birthday_list_box.tpl#L16-L16)[`16`](../src/punbb/birthday_list_box.tpl#L16)
 
-### Version Invision
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`3`](../src/invision/birthday_list_box.tpl#L3)[`<->`](../src/invision/birthday_list_box.tpl#L3-L3)[`3`](../src/invision/birthday_list_box.tpl#L3)
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`17`](../src/invision/birthday_list_box.tpl#L17)[`<->`](../src/invision/birthday_list_box.tpl#L17-L17)[`17`](../src/invision/birthday_list_box.tpl#L17)
-

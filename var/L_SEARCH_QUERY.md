@@ -26,6 +26,3 @@ Chaîne de texte.
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`24`](../src/punbb/album_formsearch_body.tpl#L24)[`<->`](../src/punbb/album_formsearch_body.tpl#L24-L24)[`24`](../src/punbb/album_formsearch_body.tpl#L24)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`26`](../src/punbb/search_body.tpl#L26)[`<->`](../src/punbb/search_body.tpl#L26-L26)[`26`](../src/punbb/search_body.tpl#L26)
 
-### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`10`](../src/invision/search_body.tpl#L10)[`<->`](../src/invision/search_body.tpl#L10-L10)[`10`](../src/invision/search_body.tpl#L10)
-

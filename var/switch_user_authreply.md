@@ -30,9 +30,3 @@ Boucle s'affichant si l'utilisateur a l'autorisation de répondre à un sujet da
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`293`](../src/punbb/viewtopic_body.tpl#L293)[`<->`](../src/punbb/viewtopic_body.tpl#L293-L293)[`293`](../src/punbb/viewtopic_body.tpl#L293)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`295`](../src/punbb/viewtopic_body.tpl#L295)[`<->`](../src/punbb/viewtopic_body.tpl#L295-L295)[`295`](../src/punbb/viewtopic_body.tpl#L295)
 
-### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`65`](../src/invision/viewtopic_body.tpl#L65)[`<->`](../src/invision/viewtopic_body.tpl#L65-L65)[`65`](../src/invision/viewtopic_body.tpl#L65)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`67`](../src/invision/viewtopic_body.tpl#L67)[`<->`](../src/invision/viewtopic_body.tpl#L67-L67)[`67`](../src/invision/viewtopic_body.tpl#L67)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`335`](../src/invision/viewtopic_body.tpl#L335)[`<->`](../src/invision/viewtopic_body.tpl#L335-L335)[`335`](../src/invision/viewtopic_body.tpl#L335)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`339`](../src/invision/viewtopic_body.tpl#L339)[`<->`](../src/invision/viewtopic_body.tpl#L339-L339)[`339`](../src/invision/viewtopic_body.tpl#L339)
-

@@ -20,7 +20,3 @@
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`1`](../src/subsilver/profile_edit_signature.tpl#L1)[`<->`](../src/subsilver/profile_edit_signature.tpl#L1-L1)[`1`](../src/subsilver/profile_edit_signature.tpl#L1)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`20`](../src/subsilver/profile_edit_signature.tpl#L20)[`<->`](../src/subsilver/profile_edit_signature.tpl#L20-L20)[`20`](../src/subsilver/profile_edit_signature.tpl#L20)
 
-### Version Invision
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`7`](../src/invision/profile_edit_signature.tpl#L7)[`<->`](../src/invision/profile_edit_signature.tpl#L7-L7)[`7`](../src/invision/profile_edit_signature.tpl#L7)
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`16`](../src/invision/profile_edit_signature.tpl#L16)[`<->`](../src/invision/profile_edit_signature.tpl#L16-L16)[`16`](../src/invision/profile_edit_signature.tpl#L16)
-

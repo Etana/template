@@ -24,7 +24,3 @@
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`28`](../src/punbb/profile_avatar_gallery.tpl#L28)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L28-L28)[`28`](../src/punbb/profile_avatar_gallery.tpl#L28)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`36`](../src/punbb/profile_avatar_gallery.tpl#L36)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L36-L36)[`36`](../src/punbb/profile_avatar_gallery.tpl#L36)
 
-### Version Invision
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`15`](../src/invision/profile_avatar_gallery.tpl#L15)[`<->`](../src/invision/profile_avatar_gallery.tpl#L15-L15)[`15`](../src/invision/profile_avatar_gallery.tpl#L15)
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`22`](../src/invision/profile_avatar_gallery.tpl#L22)[`<->`](../src/invision/profile_avatar_gallery.tpl#L22-L22)[`22`](../src/invision/profile_avatar_gallery.tpl#L22)
-

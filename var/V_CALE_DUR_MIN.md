@@ -18,9 +18,3 @@
 ### Version phpBB2
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`29`](../src/subsilver/posting_confirm_code.tpl#L29)[`<->`](../src/subsilver/posting_confirm_code.tpl#L29-L29)[`29`](../src/subsilver/posting_confirm_code.tpl#L29)
 
-### Version PunBB
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`31`](../src/punbb/posting_confirm_code.tpl#L31)[`<->`](../src/punbb/posting_confirm_code.tpl#L31-L31)[`31`](../src/punbb/posting_confirm_code.tpl#L31)
-
-### Version Invision
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`32`](../src/invision/posting_confirm_code.tpl#L32)[`<->`](../src/invision/posting_confirm_code.tpl#L32-L32)[`32`](../src/invision/posting_confirm_code.tpl#L32)
-

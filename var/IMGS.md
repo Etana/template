@@ -30,9 +30,3 @@
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`6`](../src/punbb/mod_social_bookmarking.tpl#L6)[`<->`](../src/punbb/mod_social_bookmarking.tpl#L6-L6)[`6`](../src/punbb/mod_social_bookmarking.tpl#L6)
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`10`](../src/punbb/mod_social_bookmarking.tpl#L10)[`<->`](../src/punbb/mod_social_bookmarking.tpl#L10-L10)[`10`](../src/punbb/mod_social_bookmarking.tpl#L10)
 
-### Version Invision
-* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`4`](../src/invision/mod_rss_feeds.tpl#L4)[`<->`](../src/invision/mod_rss_feeds.tpl#L4-L4)[`4`](../src/invision/mod_rss_feeds.tpl#L4)
-* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme) :__ lignes [`9`](../src/invision/mod_rss_feeds.tpl#L9)[`<->`](../src/invision/mod_rss_feeds.tpl#L9-L9)[`9`](../src/invision/mod_rss_feeds.tpl#L9)
-* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`5`](../src/invision/mod_social_bookmarking.tpl#L5)[`<->`](../src/invision/mod_social_bookmarking.tpl#L5-L5)[`5`](../src/invision/mod_social_bookmarking.tpl#L5)
-* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme) :__ lignes [`9`](../src/invision/mod_social_bookmarking.tpl#L9)[`<->`](../src/invision/mod_social_bookmarking.tpl#L9-L9)[`9`](../src/invision/mod_social_bookmarking.tpl#L9)
-

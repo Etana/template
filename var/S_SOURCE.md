@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`standard`](../tpl/standard.md#readme) :__ lignes [`6`](../src/punbb/standard.tpl#L6)[`<->`](../src/punbb/standard.tpl#L6-L6)[`6`](../src/punbb/standard.tpl#L6)
 
-### Version Invision
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`6`](../src/invision/standard.tpl#L6)[`<->`](../src/invision/standard.tpl#L6-L6)[`6`](../src/invision/standard.tpl#L6)
-

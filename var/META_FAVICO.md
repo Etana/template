@@ -21,6 +21,3 @@ Contient la balise META gérant le favicon de votre forum.
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/punbb/overall_header.tpl#L14)[`<->`](../src/punbb/overall_header.tpl#L14-L14)[`14`](../src/punbb/overall_header.tpl#L14)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/invision/overall_header.tpl#L14)[`<->`](../src/invision/overall_header.tpl#L14-L14)[`14`](../src/invision/overall_header.tpl#L14)
-

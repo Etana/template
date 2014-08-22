@@ -27,8 +27,3 @@ Contient l'espace entre chaque annonce défini dans `PA > Général > Messages e
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`172`](../src/punbb/overall_header.tpl#L172)[`<->`](../src/punbb/overall_header.tpl#L172-L172)[`172`](../src/punbb/overall_header.tpl#L172)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`176`](../src/punbb/overall_header.tpl#L176)[`<->`](../src/punbb/overall_header.tpl#L176-L176)[`176`](../src/punbb/overall_header.tpl#L176)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`50`](../src/invision/overall_header.tpl#L50)[`<->`](../src/invision/overall_header.tpl#L50-L50)[`50`](../src/invision/overall_header.tpl#L50)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`175`](../src/invision/overall_header.tpl#L175)[`<->`](../src/invision/overall_header.tpl#L175-L175)[`175`](../src/invision/overall_header.tpl#L175)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`179`](../src/invision/overall_header.tpl#L179)[`<->`](../src/invision/overall_header.tpl#L179-L179)[`179`](../src/invision/overall_header.tpl#L179)
-

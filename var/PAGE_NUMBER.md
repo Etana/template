@@ -48,15 +48,6 @@ Page <strong>X</strong> sur <strong>Y</strong>
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`55`](../src/punbb/album_search_body.tpl#L55)[`<->`](../src/punbb/album_search_body.tpl#L55-L55)[`55`](../src/punbb/album_search_body.tpl#L55)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`25`](../src/punbb/modcp_body.tpl#L25)[`<->`](../src/punbb/modcp_body.tpl#L25-L25)[`25`](../src/punbb/modcp_body.tpl#L25)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`79`](../src/punbb/modcp_body.tpl#L79)[`<->`](../src/punbb/modcp_body.tpl#L79-L79)[`79`](../src/punbb/modcp_body.tpl#L79)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`37`](../src/punbb/privmsgs_body.tpl#L37)[`<->`](../src/punbb/privmsgs_body.tpl#L37-L37)[`37`](../src/punbb/privmsgs_body.tpl#L37)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`81`](../src/punbb/privmsgs_body.tpl#L81)[`<->`](../src/punbb/privmsgs_body.tpl#L81-L81)[`81`](../src/punbb/privmsgs_body.tpl#L81)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`124`](../src/punbb/viewtopic_body.tpl#L124)[`<->`](../src/punbb/viewtopic_body.tpl#L124-L124)[`124`](../src/punbb/viewtopic_body.tpl#L124)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`268`](../src/punbb/viewtopic_body.tpl#L268)[`<->`](../src/punbb/viewtopic_body.tpl#L268-L268)[`268`](../src/punbb/viewtopic_body.tpl#L268)
-
-### Version Invision
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`10`](../src/invision/album_modcp_body.tpl#L10)[`<->`](../src/invision/album_modcp_body.tpl#L10-L10)[`10`](../src/invision/album_modcp_body.tpl#L10)
-* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`64`](../src/invision/album_moderate_body.tpl#L64)[`<->`](../src/invision/album_moderate_body.tpl#L64-L64)[`64`](../src/invision/album_moderate_body.tpl#L64)
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`8`](../src/invision/modcp_body.tpl#L8)[`<->`](../src/invision/modcp_body.tpl#L8-L8)[`8`](../src/invision/modcp_body.tpl#L8)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`7`](../src/invision/privmsgs_body.tpl#L7)[`<->`](../src/invision/privmsgs_body.tpl#L7-L7)[`7`](../src/invision/privmsgs_body.tpl#L7)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`83`](../src/invision/privmsgs_body.tpl#L83)[`<->`](../src/invision/privmsgs_body.tpl#L83-L83)[`83`](../src/invision/privmsgs_body.tpl#L83)
 

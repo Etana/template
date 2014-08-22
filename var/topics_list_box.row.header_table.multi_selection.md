@@ -30,9 +30,3 @@
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`26`](../src/punbb/topics_list_box.tpl#L26)[`<->`](../src/punbb/topics_list_box.tpl#L26-L26)[`26`](../src/punbb/topics_list_box.tpl#L26)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`28`](../src/punbb/topics_list_box.tpl#L28)[`<->`](../src/punbb/topics_list_box.tpl#L28-L28)[`28`](../src/punbb/topics_list_box.tpl#L28)
 
-### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`4`](../src/invision/topics_list_box.tpl#L4)[`<->`](../src/invision/topics_list_box.tpl#L4-L4)[`4`](../src/invision/topics_list_box.tpl#L4)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`31`](../src/invision/topics_list_box.tpl#L31)[`<->`](../src/invision/topics_list_box.tpl#L31-L31)[`31`](../src/invision/topics_list_box.tpl#L31)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`65`](../src/invision/topics_list_box.tpl#L65)[`<->`](../src/invision/topics_list_box.tpl#L65-L65)[`65`](../src/invision/topics_list_box.tpl#L65)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/invision/topics_list_box.tpl#L69)[`<->`](../src/invision/topics_list_box.tpl#L69-L69)[`69`](../src/invision/topics_list_box.tpl#L69)
-

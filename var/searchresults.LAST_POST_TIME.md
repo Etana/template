@@ -21,6 +21,3 @@ Contient la date du dernier message posté dans le sujet.
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/punbb/search_results_topics.tpl#L62)[`<->`](../src/punbb/search_results_topics.tpl#L62-L62)[`62`](../src/punbb/search_results_topics.tpl#L62)
 
-### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`52`](../src/invision/search_results_topics.tpl#L52)[`<->`](../src/invision/search_results_topics.tpl#L52-L52)[`52`](../src/invision/search_results_topics.tpl#L52)
-

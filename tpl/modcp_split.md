@@ -13,7 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{L_ALBUM}`](../var/L_ALBUM.md#readme)
 	* [`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
@@ -46,7 +45,6 @@
 	* [`{S_FORUM_SELECT}`](../var/S_FORUM_SELECT.md#readme)
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
 	* [`{S_SPLIT_ACTION}`](../var/S_SPLIT_ACTION.md#readme)
-	* [`{U_ALBUM}`](../var/U_ALBUM.md#readme)
 
 ## Template par défaut phpBB3
 
@@ -175,29 +173,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_ALBUM}`](../var/L_ALBUM.md#readme) :__ ligne [`3`](../src/invision/modcp_split.tpl#L3)
-* __[`{L_INDEX}`](../var/L_INDEX.md#readme) :__ ligne [`2`](../src/invision/modcp_split.tpl#L2)
-* __[`{L_SPLIT_AFTER}`](../var/L_SPLIT_AFTER.md#readme) :__ ligne [`25`](../src/invision/modcp_split.tpl#L25)
-* __[`{L_SPLIT_AFTER}`](../var/L_SPLIT_AFTER.md#readme) :__ ligne [`64`](../src/invision/modcp_split.tpl#L64)
-* __[`{L_SPLIT_FORUM}`](../var/L_SPLIT_FORUM.md#readme) :__ ligne [`19`](../src/invision/modcp_split.tpl#L19)
-* __[`{L_SPLIT_POSTS}`](../var/L_SPLIT_POSTS.md#readme) :__ ligne [`24`](../src/invision/modcp_split.tpl#L24)
-* __[`{L_SPLIT_POSTS}`](../var/L_SPLIT_POSTS.md#readme) :__ ligne [`63`](../src/invision/modcp_split.tpl#L63)
-* __[`{L_SPLIT_SUBJECT}`](../var/L_SPLIT_SUBJECT.md#readme) :__ ligne [`15`](../src/invision/modcp_split.tpl#L15)
-* __[`{L_SPLIT_TOPIC}`](../var/L_SPLIT_TOPIC.md#readme) :__ ligne [`4`](../src/invision/modcp_split.tpl#L4)
-* __[`{L_SPLIT_TOPIC}`](../var/L_SPLIT_TOPIC.md#readme) :__ ligne [`9`](../src/invision/modcp_split.tpl#L9)
-* __[`{L_SPLIT_TOPIC_EXPLAIN}`](../var/L_SPLIT_TOPIC_EXPLAIN.md#readme) :__ ligne [`12`](../src/invision/modcp_split.tpl#L12)
-* __[`{MAX_TOPIC_LENGTH}`](../var/MAX_TOPIC_LENGTH.md#readme) :__ ligne [`16`](../src/invision/modcp_split.tpl#L16)
-* __[`{S_FORUM_SELECT}`](../var/S_FORUM_SELECT.md#readme) :__ ligne [`20`](../src/invision/modcp_split.tpl#L20)
-* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`65`](../src/invision/modcp_split.tpl#L65)
-* __[`{S_SPLIT_ACTION}`](../var/S_SPLIT_ACTION.md#readme) :__ ligne [`8`](../src/invision/modcp_split.tpl#L8)
-* __[`{U_ALBUM}`](../var/U_ALBUM.md#readme) :__ ligne [`3`](../src/invision/modcp_split.tpl#L3)
-* __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/modcp_split.tpl#L2)
-* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme) :__ ligne [`31`](../src/invision/modcp_split.tpl#L31)
-* __[`<!-- END postrow -->`](../var/postrow.md#readme) :__ ligne [`59`](../src/invision/modcp_split.tpl#L59)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.L_SELECT}`](../var/postrow.L_SELECT.md#readme) :__ ligne [`37`](../src/invision/modcp_split.tpl#L37)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.MESSAGE}`](../var/postrow.MESSAGE.md#readme) :__ ligne [`50`](../src/invision/modcp_split.tpl#L50)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme) :__ ligne [`44`](../src/invision/modcp_split.tpl#L44)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme) :__ ligne [`38`](../src/invision/modcp_split.tpl#L38)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT}`](../var/postrow.POST_SUBJECT.md#readme) :__ ligne [`38`](../src/invision/modcp_split.tpl#L38)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.S_SPLIT_CHECKBOX}`](../var/postrow.S_SPLIT_CHECKBOX.md#readme) :__ ligne [`37`](../src/invision/modcp_split.tpl#L37)

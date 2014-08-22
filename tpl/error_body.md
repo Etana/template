@@ -16,7 +16,6 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)
-	* [`{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme)
 
 ## Template par défaut phpBB3
 
@@ -47,6 +46,3 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme) :__ ligne [`3`](../src/invision/error_body.tpl#L3)
-* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`5`](../src/invision/error_body.tpl#L5)

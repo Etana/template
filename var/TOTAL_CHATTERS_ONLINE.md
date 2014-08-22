@@ -23,6 +23,3 @@ Chaîne de texte indiquant le nombre d'utilisateurs connectés sur la chatbox.
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`90`](../src/punbb/index_body.tpl#L90)[`<->`](../src/punbb/index_body.tpl#L90-L90)[`90`](../src/punbb/index_body.tpl#L90)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`137`](../src/invision/index_body.tpl#L137)[`<->`](../src/invision/index_body.tpl#L137-L137)[`137`](../src/invision/index_body.tpl#L137)
-

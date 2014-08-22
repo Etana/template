@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`86`](../src/punbb/topics_list_box.tpl#L86)[`<->`](../src/punbb/topics_list_box.tpl#L86-L86)[`86`](../src/punbb/topics_list_box.tpl#L86)
 
-### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`127`](../src/invision/topics_list_box.tpl#L127)[`<->`](../src/invision/topics_list_box.tpl#L127-L127)[`127`](../src/invision/topics_list_box.tpl#L127)
-

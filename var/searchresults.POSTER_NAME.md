@@ -21,6 +21,3 @@ Contient le nom de l'utilisateur ayant posté le message.
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`43`](../src/punbb/search_results_posts.tpl#L43)[`<->`](../src/punbb/search_results_posts.tpl#L43-L43)[`43`](../src/punbb/search_results_posts.tpl#L43)
 
-### Version Invision
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`26`](../src/invision/search_results_posts.tpl#L26)[`<->`](../src/invision/search_results_posts.tpl#L26-L26)[`26`](../src/invision/search_results_posts.tpl#L26)
-

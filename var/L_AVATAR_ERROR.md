@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`34`](../src/punbb/rpg_sheet_edit.tpl#L34)[`<->`](../src/punbb/rpg_sheet_edit.tpl#L34-L34)[`34`](../src/punbb/rpg_sheet_edit.tpl#L34)
 
-### Version Invision
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`23`](../src/invision/rpg_sheet_edit.tpl#L23)[`<->`](../src/invision/rpg_sheet_edit.tpl#L23-L23)[`23`](../src/invision/rpg_sheet_edit.tpl#L23)
-

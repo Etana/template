@@ -37,11 +37,3 @@
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`44`](../src/punbb/profile_send_pass.tpl#L44)[`<->`](../src/punbb/profile_send_pass.tpl#L44-L44)[`44`](../src/punbb/profile_send_pass.tpl#L44)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`62`](../src/punbb/rpg_sheet_edit.tpl#L62)[`<->`](../src/punbb/rpg_sheet_edit.tpl#L62-L62)[`62`](../src/punbb/rpg_sheet_edit.tpl#L62)
 
-### Version Invision
-* __[`album_edit_body`](../tpl/album_edit_body.md#readme) :__ lignes [`60`](../src/invision/album_edit_body.tpl#L60)[`<->`](../src/invision/album_edit_body.tpl#L60-L60)[`60`](../src/invision/album_edit_body.tpl#L60)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`277`](../src/invision/album_upload_body.tpl#L277)[`<->`](../src/invision/album_upload_body.tpl#L277-L277)[`277`](../src/invision/album_upload_body.tpl#L277)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`281`](../src/invision/album_upload_body.tpl#L281)[`<->`](../src/invision/album_upload_body.tpl#L281-L281)[`281`](../src/invision/album_upload_body.tpl#L281)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`467`](../src/invision/profile_add_body.tpl#L467)[`<->`](../src/invision/profile_add_body.tpl#L467-L467)[`467`](../src/invision/profile_add_body.tpl#L467)
-* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`48`](../src/invision/profile_send_pass.tpl#L48)[`<->`](../src/invision/profile_send_pass.tpl#L48-L48)[`48`](../src/invision/profile_send_pass.tpl#L48)
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`51`](../src/invision/rpg_sheet_edit.tpl#L51)[`<->`](../src/invision/rpg_sheet_edit.tpl#L51-L51)[`51`](../src/invision/rpg_sheet_edit.tpl#L51)
-

@@ -21,6 +21,3 @@ Identifiant `left` attribué aux widgets de la colonne de gauche si celle-ci est
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`301`](../src/punbb/overall_header.tpl#L301)[`<->`](../src/punbb/overall_header.tpl#L301-L301)[`301`](../src/punbb/overall_header.tpl#L301)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`320`](../src/invision/overall_header.tpl#L320)[`<->`](../src/invision/overall_header.tpl#L320-L320)[`320`](../src/invision/overall_header.tpl#L320)
-

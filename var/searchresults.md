@@ -30,9 +30,3 @@ Boucle d'affichage des résultats de la recherche se répétant pour chaque mess
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`45`](../src/punbb/search_results_topics.tpl#L45)[`<->`](../src/punbb/search_results_topics.tpl#L45-L45)[`45`](../src/punbb/search_results_topics.tpl#L45)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`64`](../src/punbb/search_results_topics.tpl#L64)[`<->`](../src/punbb/search_results_topics.tpl#L64-L64)[`64`](../src/punbb/search_results_topics.tpl#L64)
 
-### Version Invision
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`16`](../src/invision/search_results_posts.tpl#L16)[`<->`](../src/invision/search_results_posts.tpl#L16-L16)[`16`](../src/invision/search_results_posts.tpl#L16)
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`48`](../src/invision/search_results_posts.tpl#L48)[`<->`](../src/invision/search_results_posts.tpl#L48-L48)[`48`](../src/invision/search_results_posts.tpl#L48)
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`33`](../src/invision/search_results_topics.tpl#L33)[`<->`](../src/invision/search_results_topics.tpl#L33-L33)[`33`](../src/invision/search_results_topics.tpl#L33)
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`58`](../src/invision/search_results_topics.tpl#L58)[`<->`](../src/invision/search_results_topics.tpl#L58-L58)[`58`](../src/invision/search_results_topics.tpl#L58)
-

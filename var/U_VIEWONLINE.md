@@ -31,9 +31,3 @@ Adresse url absolue vers la page "qui est en ligne".
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`67`](../src/punbb/index_body.tpl#L67)[`<->`](../src/punbb/index_body.tpl#L67-L67)[`67`](../src/punbb/index_body.tpl#L67)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`7`](../src/punbb/mod_whoisonline.tpl#L7)[`<->`](../src/punbb/mod_whoisonline.tpl#L7-L7)[`7`](../src/punbb/mod_whoisonline.tpl#L7)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`72`](../src/invision/index_body.tpl#L72)[`<->`](../src/invision/index_body.tpl#L72-L72)[`72`](../src/invision/index_body.tpl#L72)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`80`](../src/invision/index_body.tpl#L80)[`<->`](../src/invision/index_body.tpl#L80-L80)[`80`](../src/invision/index_body.tpl#L80)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`82`](../src/invision/index_body.tpl#L82)[`<->`](../src/invision/index_body.tpl#L82-L82)[`82`](../src/invision/index_body.tpl#L82)
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`8`](../src/invision/mod_whoisonline.tpl#L8)[`<->`](../src/invision/mod_whoisonline.tpl#L8-L8)[`8`](../src/invision/mod_whoisonline.tpl#L8)
-

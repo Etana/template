@@ -89,9 +89,6 @@ Texte avec la date de la dernière visite du membre.
 * __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`7`](../src/punbb/modcp_move.tpl#L7)[`<->`](../src/punbb/modcp_move.tpl#L7-L7)[`7`](../src/punbb/modcp_move.tpl#L7)
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`7`](../src/punbb/modcp_split.tpl#L7)[`<->`](../src/punbb/modcp_split.tpl#L7-L7)[`7`](../src/punbb/modcp_split.tpl#L7)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`7`](../src/punbb/modcp_viewip.tpl#L7)[`<->`](../src/punbb/modcp_viewip.tpl#L7-L7)[`7`](../src/punbb/modcp_viewip.tpl#L7)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`8`](../src/punbb/posting_body.tpl#L8)[`<->`](../src/punbb/posting_body.tpl#L8-L8)[`8`](../src/punbb/posting_body.tpl#L8)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`7`](../src/punbb/privmsgs_body.tpl#L7)[`<->`](../src/punbb/privmsgs_body.tpl#L7-L7)[`7`](../src/punbb/privmsgs_body.tpl#L7)
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`7`](../src/punbb/privmsgs_read_body.tpl#L7)[`<->`](../src/punbb/privmsgs_read_body.tpl#L7-L7)[`7`](../src/punbb/privmsgs_read_body.tpl#L7)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`8`](../src/punbb/profile_add_body.tpl#L8)[`<->`](../src/punbb/profile_add_body.tpl#L8-L8)[`8`](../src/punbb/profile_add_body.tpl#L8)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`7`](../src/punbb/profile_avatar_gallery.tpl#L7)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L7-L7)[`7`](../src/punbb/profile_avatar_gallery.tpl#L7)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`7`](../src/punbb/profile_edit_signature.tpl#L7)[`<->`](../src/punbb/profile_edit_signature.tpl#L7-L7)[`7`](../src/punbb/profile_edit_signature.tpl#L7)
@@ -108,9 +105,4 @@ Texte avec la date de la dernière visite du membre.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`19`](../src/punbb/viewforum_body.tpl#L19)[`<->`](../src/punbb/viewforum_body.tpl#L19-L19)[`19`](../src/punbb/viewforum_body.tpl#L19)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`18`](../src/punbb/viewonline_body.tpl#L18)[`<->`](../src/punbb/viewonline_body.tpl#L18-L18)[`18`](../src/punbb/viewonline_body.tpl#L18)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`72`](../src/punbb/viewtopic_body.tpl#L72)[`<->`](../src/punbb/viewtopic_body.tpl#L72-L72)[`72`](../src/punbb/viewtopic_body.tpl#L72)
-
-### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`8`](../src/invision/agreement.tpl#L8)[`<->`](../src/invision/agreement.tpl#L8-L8)[`8`](../src/invision/agreement.tpl#L8)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`9`](../src/invision/index_body.tpl#L9)[`<->`](../src/invision/index_body.tpl#L9-L9)[`9`](../src/invision/index_body.tpl#L9)
-* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`10`](../src/invision/profile_send_pass.tpl#L10)[`<->`](../src/invision/profile_send_pass.tpl#L10-L10)[`10`](../src/invision/profile_send_pass.tpl#L10)
 

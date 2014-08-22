@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`5`](../src/punbb/calendar_box.tpl#L5)[`<->`](../src/punbb/calendar_box.tpl#L5-L5)[`5`](../src/punbb/calendar_box.tpl#L5)
 
-### Version Invision
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`8`](../src/invision/calendar_box.tpl#L8)[`<->`](../src/invision/calendar_box.tpl#L8-L8)[`8`](../src/invision/calendar_box.tpl#L8)
-

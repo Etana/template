@@ -24,7 +24,3 @@ Boucle contenant le saut entre 2 widgets.
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`304`](../src/punbb/overall_header.tpl#L304)[`<->`](../src/punbb/overall_header.tpl#L304-L304)[`304`](../src/punbb/overall_header.tpl#L304)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`306`](../src/punbb/overall_header.tpl#L306)[`<->`](../src/punbb/overall_header.tpl#L306-L306)[`306`](../src/punbb/overall_header.tpl#L306)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`323`](../src/invision/overall_header.tpl#L323)[`<->`](../src/invision/overall_header.tpl#L323-L323)[`323`](../src/invision/overall_header.tpl#L323)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`325`](../src/invision/overall_header.tpl#L325)[`<->`](../src/invision/overall_header.tpl#L325-L325)[`325`](../src/invision/overall_header.tpl#L325)
-

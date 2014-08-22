@@ -15,7 +15,3 @@
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`87`](../src/prosilver/index_body.tpl#L87)[`<->`](../src/prosilver/index_body.tpl#L87-L87)[`87`](../src/prosilver/index_body.tpl#L87)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`132`](../src/invision/index_body.tpl#L132)[`<->`](../src/invision/index_body.tpl#L132-L132)[`132`](../src/invision/index_body.tpl#L132)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`135`](../src/invision/index_body.tpl#L135)[`<->`](../src/invision/index_body.tpl#L135-L135)[`135`](../src/invision/index_body.tpl#L135)
-

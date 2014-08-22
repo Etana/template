@@ -25,6 +25,3 @@
 ### Version PunBB
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`48`](../src/punbb/album_cat_top10.tpl#L48)[`<->`](../src/punbb/album_cat_top10.tpl#L48-L48)[`48`](../src/punbb/album_cat_top10.tpl#L48)
 
-### Version Invision
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`35`](../src/invision/album_cat_top10.tpl#L35)[`<->`](../src/invision/album_cat_top10.tpl#L35-L35)[`35`](../src/invision/album_cat_top10.tpl#L35)
-

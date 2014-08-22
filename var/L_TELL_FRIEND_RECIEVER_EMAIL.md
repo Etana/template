@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`38`](../src/punbb/profile_send_email.tpl#L38)[`<->`](../src/punbb/profile_send_email.tpl#L38-L38)[`38`](../src/punbb/profile_send_email.tpl#L38)
 
-### Version Invision
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`23`](../src/invision/profile_send_email.tpl#L23)[`<->`](../src/invision/profile_send_email.tpl#L23-L23)[`23`](../src/invision/profile_send_email.tpl#L23)
-

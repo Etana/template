@@ -24,7 +24,3 @@
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`44`](../src/punbb/mod_recent_topics.tpl#L44)[`<->`](../src/punbb/mod_recent_topics.tpl#L44-L44)[`44`](../src/punbb/mod_recent_topics.tpl#L44)
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`46`](../src/punbb/mod_recent_topics.tpl#L46)[`<->`](../src/punbb/mod_recent_topics.tpl#L46-L46)[`46`](../src/punbb/mod_recent_topics.tpl#L46)
 
-### Version Invision
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`41`](../src/invision/mod_recent_topics.tpl#L41)[`<->`](../src/invision/mod_recent_topics.tpl#L41-L41)[`41`](../src/invision/mod_recent_topics.tpl#L41)
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`43`](../src/invision/mod_recent_topics.tpl#L43)[`<->`](../src/invision/mod_recent_topics.tpl#L43-L43)[`43`](../src/invision/mod_recent_topics.tpl#L43)
-

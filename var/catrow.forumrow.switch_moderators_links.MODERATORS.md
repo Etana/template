@@ -21,6 +21,3 @@ Contient les noms d'utilisateurs qui sont modérateurs du forum bouclé.
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`34`](../src/punbb/index_box.tpl#L34)[`<->`](../src/punbb/index_box.tpl#L34-L34)[`34`](../src/punbb/index_box.tpl#L34)
 
-### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`42`](../src/invision/index_box.tpl#L42)[`<->`](../src/invision/index_box.tpl#L42-L42)[`42`](../src/invision/index_box.tpl#L42)
-

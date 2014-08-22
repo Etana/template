@@ -20,7 +20,3 @@ Contient l'information (alt) sur l'ic√¥ne du forum correspondant au forum boucl√
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`27`](../src/punbb/index_box.tpl#L27)[`<->`](../src/punbb/index_box.tpl#L27-L27)[`27`](../src/punbb/index_box.tpl#L27)
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`27`](../src/punbb/index_box.tpl#L27)[`<->`](../src/punbb/index_box.tpl#L27-L27)[`27`](../src/punbb/index_box.tpl#L27)
 
-### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`34`](../src/invision/index_box.tpl#L34)[`<->`](../src/invision/index_box.tpl#L34-L34)[`34`](../src/invision/index_box.tpl#L34)
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`34`](../src/invision/index_box.tpl#L34)[`<->`](../src/invision/index_box.tpl#L34-L34)[`34`](../src/invision/index_box.tpl#L34)
-

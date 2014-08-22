@@ -23,6 +23,3 @@ Lien vers les sujets actifs du jour.
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`67`](../src/punbb/index_box.tpl#L67)[`<->`](../src/punbb/index_box.tpl#L67-L67)[`67`](../src/punbb/index_box.tpl#L67)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`57`](../src/invision/index_body.tpl#L57)[`<->`](../src/invision/index_body.tpl#L57-L57)[`57`](../src/invision/index_body.tpl#L57)
-

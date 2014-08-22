@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme) :__ lignes [`8`](../src/punbb/calendar_overview_profil.tpl#L8)[`<->`](../src/punbb/calendar_overview_profil.tpl#L8-L8)[`8`](../src/punbb/calendar_overview_profil.tpl#L8)
 
-### Version Invision
-* __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme) :__ lignes [`6`](../src/invision/calendar_overview_profil.tpl#L6)[`<->`](../src/invision/calendar_overview_profil.tpl#L6-L6)[`6`](../src/invision/calendar_overview_profil.tpl#L6)
-

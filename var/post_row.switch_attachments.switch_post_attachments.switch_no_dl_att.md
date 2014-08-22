@@ -30,9 +30,3 @@
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`38`](../src/punbb/mod_news.tpl#L38)[`<->`](../src/punbb/mod_news.tpl#L38-L38)[`38`](../src/punbb/mod_news.tpl#L38)
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`42`](../src/punbb/mod_news.tpl#L42)[`<->`](../src/punbb/mod_news.tpl#L42-L42)[`42`](../src/punbb/mod_news.tpl#L42)
 
-### Version Invision
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`26`](../src/invision/mod_news.tpl#L26)[`<->`](../src/invision/mod_news.tpl#L26-L26)[`26`](../src/invision/mod_news.tpl#L26)
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`28`](../src/invision/mod_news.tpl#L28)[`<->`](../src/invision/mod_news.tpl#L28-L28)[`28`](../src/invision/mod_news.tpl#L28)
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`37`](../src/invision/mod_news.tpl#L37)[`<->`](../src/invision/mod_news.tpl#L37-L37)[`37`](../src/invision/mod_news.tpl#L37)
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`41`](../src/invision/mod_news.tpl#L41)[`<->`](../src/invision/mod_news.tpl#L41-L41)[`41`](../src/invision/mod_news.tpl#L41)
-

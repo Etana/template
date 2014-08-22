@@ -32,7 +32,4 @@ Chaîne de texte.
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`144`](../src/punbb/album_moderate_body.tpl#L144)[`<->`](../src/punbb/album_moderate_body.tpl#L144-L144)[`144`](../src/punbb/album_moderate_body.tpl#L144)
 
 ### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`123`](../src/invision/album_cat_body.tpl#L123)[`<->`](../src/invision/album_cat_body.tpl#L123-L123)[`123`](../src/invision/album_cat_body.tpl#L123)
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`91`](../src/invision/album_modcp_body.tpl#L91)[`<->`](../src/invision/album_modcp_body.tpl#L91-L91)[`91`](../src/invision/album_modcp_body.tpl#L91)
-* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`135`](../src/invision/album_moderate_body.tpl#L135)[`<->`](../src/invision/album_moderate_body.tpl#L135-L135)[`135`](../src/invision/album_moderate_body.tpl#L135)
 

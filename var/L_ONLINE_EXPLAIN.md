@@ -20,6 +20,3 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`55`](../src/subsilver/viewonline_body.tpl#L55)[`<->`](../src/subsilver/viewonline_body.tpl#L55-L55)[`55`](../src/subsilver/viewonline_body.tpl#L55)
 
-### Version Invision
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`46`](../src/invision/viewonline_body.tpl#L46)[`<->`](../src/invision/viewonline_body.tpl#L46-L46)[`46`](../src/invision/viewonline_body.tpl#L46)
-

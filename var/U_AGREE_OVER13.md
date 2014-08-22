@@ -21,6 +21,3 @@ Lien vers l'étape suivante de l'inscription.
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`35`](../src/punbb/agreement.tpl#L35)[`<->`](../src/punbb/agreement.tpl#L35-L35)[`35`](../src/punbb/agreement.tpl#L35)
 
-### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`48`](../src/invision/agreement.tpl#L48)[`<->`](../src/invision/agreement.tpl#L48-L48)[`48`](../src/invision/agreement.tpl#L48)
-

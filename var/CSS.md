@@ -21,6 +21,3 @@ Utilisé pour afficher le CSS lors des prévisualisations.
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`19`](../src/punbb/overall_header.tpl#L19)[`<->`](../src/punbb/overall_header.tpl#L19-L19)[`19`](../src/punbb/overall_header.tpl#L19)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`19`](../src/invision/overall_header.tpl#L19)[`<->`](../src/invision/overall_header.tpl#L19-L19)[`19`](../src/invision/overall_header.tpl#L19)
-

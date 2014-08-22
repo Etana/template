@@ -41,11 +41,6 @@ Remplacement français `Sélectionner` si il y a un membre en cours de demande d
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`23`](../src/punbb/search_username.tpl#L23)[`<->`](../src/punbb/search_username.tpl#L23-L23)[`23`](../src/punbb/search_username.tpl#L23)
 
 ### Version Invision
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`30`](../src/invision/album_modcp_body.tpl#L30)[`<->`](../src/invision/album_modcp_body.tpl#L30-L30)[`30`](../src/invision/album_modcp_body.tpl#L30)
-* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`77`](../src/invision/album_moderate_body.tpl#L77)[`<->`](../src/invision/album_moderate_body.tpl#L77-L77)[`77`](../src/invision/album_moderate_body.tpl#L77)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`60`](../src/invision/groupcp_info_body.tpl#L60)[`<->`](../src/invision/groupcp_info_body.tpl#L60-L60)[`60`](../src/invision/groupcp_info_body.tpl#L60)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`12`](../src/invision/groupcp_pending_info.tpl#L12)[`<->`](../src/invision/groupcp_pending_info.tpl#L12-L12)[`12`](../src/invision/groupcp_pending_info.tpl#L12)
-* __[`merge_select_body`](../tpl/merge_select_body.md#readme) :__ lignes [`15`](../src/invision/merge_select_body.tpl#L15)[`<->`](../src/invision/merge_select_body.tpl#L15-L15)[`15`](../src/invision/merge_select_body.tpl#L15)
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`21`](../src/invision/modcp_body.tpl#L21)[`<->`](../src/invision/modcp_body.tpl#L21-L21)[`21`](../src/invision/modcp_body.tpl#L21)
-* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`23`](../src/invision/search_username.tpl#L23)[`<->`](../src/invision/search_username.tpl#L23-L23)[`23`](../src/invision/search_username.tpl#L23)
 

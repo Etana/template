@@ -42,13 +42,3 @@
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`288`](../src/punbb/album_upload_body.tpl#L288)[`<->`](../src/punbb/album_upload_body.tpl#L288-L288)[`288`](../src/punbb/album_upload_body.tpl#L288)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`291`](../src/punbb/album_upload_body.tpl#L291)[`<->`](../src/punbb/album_upload_body.tpl#L291-L291)[`291`](../src/punbb/album_upload_body.tpl#L291)
 
-### Version Invision
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`8`](../src/invision/album_upload_body.tpl#L8)[`<->`](../src/invision/album_upload_body.tpl#L8-L8)[`8`](../src/invision/album_upload_body.tpl#L8)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`100`](../src/invision/album_upload_body.tpl#L100)[`<->`](../src/invision/album_upload_body.tpl#L100-L100)[`100`](../src/invision/album_upload_body.tpl#L100)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`215`](../src/invision/album_upload_body.tpl#L215)[`<->`](../src/invision/album_upload_body.tpl#L215-L215)[`215`](../src/invision/album_upload_body.tpl#L215)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`222`](../src/invision/album_upload_body.tpl#L222)[`<->`](../src/invision/album_upload_body.tpl#L222-L222)[`222`](../src/invision/album_upload_body.tpl#L222)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`268`](../src/invision/album_upload_body.tpl#L268)[`<->`](../src/invision/album_upload_body.tpl#L268-L268)[`268`](../src/invision/album_upload_body.tpl#L268)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`273`](../src/invision/album_upload_body.tpl#L273)[`<->`](../src/invision/album_upload_body.tpl#L273-L273)[`273`](../src/invision/album_upload_body.tpl#L273)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`276`](../src/invision/album_upload_body.tpl#L276)[`<->`](../src/invision/album_upload_body.tpl#L276-L276)[`276`](../src/invision/album_upload_body.tpl#L276)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`279`](../src/invision/album_upload_body.tpl#L279)[`<->`](../src/invision/album_upload_body.tpl#L279-L279)[`279`](../src/invision/album_upload_body.tpl#L279)
-

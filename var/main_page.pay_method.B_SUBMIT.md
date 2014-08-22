@@ -21,6 +21,3 @@ Affiche le bouton "Paiements via PayPal".
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`51`](../src/punbb/buy_credits.tpl#L51)[`<->`](../src/punbb/buy_credits.tpl#L51-L51)[`51`](../src/punbb/buy_credits.tpl#L51)
 
-### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`37`](../src/invision/buy_credits.tpl#L37)[`<->`](../src/invision/buy_credits.tpl#L37-L37)[`37`](../src/invision/buy_credits.tpl#L37)
-

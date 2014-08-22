@@ -133,22 +133,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{CURRENT_FID}`](../var/CURRENT_FID.md#readme) :__ ligne [`35`](../src/invision/merge_body.tpl#L35)
-* __[`{FROM_TOPIC}`](../var/FROM_TOPIC.md#readme) :__ ligne [`27`](../src/invision/merge_body.tpl#L27)
-* __[`{FROM_TOPIC_TITLE}`](../var/FROM_TOPIC_TITLE.md#readme) :__ ligne [`17`](../src/invision/merge_body.tpl#L17)
-* __[`{L_FROM_TOPIC}`](../var/L_FROM_TOPIC.md#readme) :__ ligne [`14`](../src/invision/merge_body.tpl#L14)
-* __[`{L_FROM_TOPIC_EXPLAIN}`](../var/L_FROM_TOPIC_EXPLAIN.md#readme) :__ ligne [`18`](../src/invision/merge_body.tpl#L18)
-* __[`{L_INDEX}`](../var/L_INDEX.md#readme) :__ ligne [`2`](../src/invision/merge_body.tpl#L2)
-* __[`{L_REFRESH}`](../var/L_REFRESH.md#readme) :__ ligne [`37`](../src/invision/merge_body.tpl#L37)
-* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme) :__ ligne [`29`](../src/invision/merge_body.tpl#L29)
-* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme) :__ ligne [`36`](../src/invision/merge_body.tpl#L36)
-* __[`{L_TITLE}`](../var/L_TITLE.md#readme) :__ ligne [`3`](../src/invision/merge_body.tpl#L3)
-* __[`{L_TITLE}`](../var/L_TITLE.md#readme) :__ ligne [`8`](../src/invision/merge_body.tpl#L8)
-* __[`{L_TO_TOPIC}`](../var/L_TO_TOPIC.md#readme) :__ ligne [`23`](../src/invision/merge_body.tpl#L23)
-* __[`{L_TO_TOPIC_EXPLAIN}`](../var/L_TO_TOPIC_EXPLAIN.md#readme) :__ ligne [`30`](../src/invision/merge_body.tpl#L30)
-* __[`{S_ACTION}`](../var/S_ACTION.md#readme) :__ ligne [`7`](../src/invision/merge_body.tpl#L7)
-* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`38`](../src/invision/merge_body.tpl#L38)
-* __[`{TO_TOPIC}`](../var/TO_TOPIC.md#readme) :__ ligne [`28`](../src/invision/merge_body.tpl#L28)
-* __[`{TO_TOPIC_TITLE}`](../var/TO_TOPIC_TITLE.md#readme) :__ ligne [`26`](../src/invision/merge_body.tpl#L26)
-* __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/merge_body.tpl#L2)

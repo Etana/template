@@ -23,6 +23,3 @@ Variable actuellement inutilisée.
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`1`](../src/punbb/index_body.tpl#L1)[`<->`](../src/punbb/index_body.tpl#L1-L1)[`1`](../src/punbb/index_body.tpl#L1)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`1`](../src/invision/index_body.tpl#L1)[`<->`](../src/invision/index_body.tpl#L1-L1)[`1`](../src/invision/index_body.tpl#L1)
-

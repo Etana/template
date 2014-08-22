@@ -22,7 +22,3 @@
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`45`](../src/punbb/profile_avatar_gallery.tpl#L45)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L45-L45)[`45`](../src/punbb/profile_avatar_gallery.tpl#L45)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`68`](../src/punbb/profile_edit_signature.tpl#L68)[`<->`](../src/punbb/profile_edit_signature.tpl#L68-L68)[`68`](../src/punbb/profile_edit_signature.tpl#L68)
 
-### Version Invision
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`28`](../src/invision/profile_avatar_gallery.tpl#L28)[`<->`](../src/invision/profile_avatar_gallery.tpl#L28-L28)[`28`](../src/invision/profile_avatar_gallery.tpl#L28)
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`55`](../src/invision/profile_edit_signature.tpl#L55)[`<->`](../src/invision/profile_edit_signature.tpl#L55-L55)[`55`](../src/invision/profile_edit_signature.tpl#L55)
-

@@ -1,6 +1,6 @@
 # build_categories_block.block_title.L_TITLE
 * __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme), [`album_upload_body`](../tpl/album_upload_body.md#readme)
+* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -20,8 +20,4 @@
 
 ### Version PunBB
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`19`](../src/punbb/album_index_body.tpl#L19)[`<->`](../src/punbb/album_index_body.tpl#L19-L19)[`19`](../src/punbb/album_index_body.tpl#L19)
-
-### Version Invision
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`4`](../src/invision/album_index_body.tpl#L4)[`<->`](../src/invision/album_index_body.tpl#L4-L4)[`4`](../src/invision/album_index_body.tpl#L4)
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`5`](../src/invision/album_upload_body.tpl#L5)[`<->`](../src/invision/album_upload_body.tpl#L5-L5)[`5`](../src/invision/album_upload_body.tpl#L5)
 

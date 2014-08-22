@@ -21,10 +21,3 @@
 * __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme) :__ lignes [`19`](../src/subsilver/privmsgs_preview.tpl#L19)[`<->`](../src/subsilver/privmsgs_preview.tpl#L19-L19)[`19`](../src/subsilver/privmsgs_preview.tpl#L19)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`45`](../src/subsilver/privmsgs_read_body.tpl#L45)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L45-L45)[`45`](../src/subsilver/privmsgs_read_body.tpl#L45)
 
-### Version PunBB
-* __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme) :__ lignes [`8`](../src/punbb/privmsgs_preview.tpl#L8)[`<->`](../src/punbb/privmsgs_preview.tpl#L8-L8)[`8`](../src/punbb/privmsgs_preview.tpl#L8)
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`45`](../src/punbb/privmsgs_read_body.tpl#L45)[`<->`](../src/punbb/privmsgs_read_body.tpl#L45-L45)[`45`](../src/punbb/privmsgs_read_body.tpl#L45)
-
-### Version Invision
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`39`](../src/invision/privmsgs_read_body.tpl#L39)[`<->`](../src/invision/privmsgs_read_body.tpl#L39-L39)[`39`](../src/invision/privmsgs_read_body.tpl#L39)
-

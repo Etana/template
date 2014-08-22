@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`8`](../src/punbb/calendar_overview_topic.tpl#L8)[`<->`](../src/punbb/calendar_overview_topic.tpl#L8-L8)[`8`](../src/punbb/calendar_overview_topic.tpl#L8)
 
-### Version Invision
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`8`](../src/invision/calendar_overview_topic.tpl#L8)[`<->`](../src/invision/calendar_overview_topic.tpl#L8-L8)[`8`](../src/invision/calendar_overview_topic.tpl#L8)
-

@@ -30,9 +30,3 @@
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`41`](../src/punbb/rpg_sheet_edit.tpl#L41)[`<->`](../src/punbb/rpg_sheet_edit.tpl#L41-L41)[`41`](../src/punbb/rpg_sheet_edit.tpl#L41)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`46`](../src/punbb/rpg_sheet_edit.tpl#L46)[`<->`](../src/punbb/rpg_sheet_edit.tpl#L46-L46)[`46`](../src/punbb/rpg_sheet_edit.tpl#L46)
 
-### Version Invision
-* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`14`](../src/invision/rpg_sheet.tpl#L14)[`<->`](../src/invision/rpg_sheet.tpl#L14-L14)[`14`](../src/invision/rpg_sheet.tpl#L14)
-* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`21`](../src/invision/rpg_sheet.tpl#L21)[`<->`](../src/invision/rpg_sheet.tpl#L21-L21)[`21`](../src/invision/rpg_sheet.tpl#L21)
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`30`](../src/invision/rpg_sheet_edit.tpl#L30)[`<->`](../src/invision/rpg_sheet_edit.tpl#L30-L30)[`30`](../src/invision/rpg_sheet_edit.tpl#L30)
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`35`](../src/invision/rpg_sheet_edit.tpl#L35)[`<->`](../src/invision/rpg_sheet_edit.tpl#L35-L35)[`35`](../src/invision/rpg_sheet_edit.tpl#L35)
-

@@ -20,8 +20,3 @@
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`41`](../src/subsilver/viewonline_body.tpl#L41)[`<->`](../src/subsilver/viewonline_body.tpl#L41-L41)[`41`](../src/subsilver/viewonline_body.tpl#L41)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`42`](../src/subsilver/viewonline_body.tpl#L42)[`<->`](../src/subsilver/viewonline_body.tpl#L42-L42)[`42`](../src/subsilver/viewonline_body.tpl#L42)
 
-### Version Invision
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`31`](../src/invision/viewonline_body.tpl#L31)[`<->`](../src/invision/viewonline_body.tpl#L31-L31)[`31`](../src/invision/viewonline_body.tpl#L31)
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`32`](../src/invision/viewonline_body.tpl#L32)[`<->`](../src/invision/viewonline_body.tpl#L32-L32)[`32`](../src/invision/viewonline_body.tpl#L32)
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`33`](../src/invision/viewonline_body.tpl#L33)[`<->`](../src/invision/viewonline_body.tpl#L33-L33)[`33`](../src/invision/viewonline_body.tpl#L33)
-

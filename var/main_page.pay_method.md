@@ -24,7 +24,3 @@
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`42`](../src/punbb/buy_credits.tpl#L42)[`<->`](../src/punbb/buy_credits.tpl#L42-L42)[`42`](../src/punbb/buy_credits.tpl#L42)
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`54`](../src/punbb/buy_credits.tpl#L54)[`<->`](../src/punbb/buy_credits.tpl#L54-L54)[`54`](../src/punbb/buy_credits.tpl#L54)
 
-### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`28`](../src/invision/buy_credits.tpl#L28)[`<->`](../src/invision/buy_credits.tpl#L28-L28)[`28`](../src/invision/buy_credits.tpl#L28)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`40`](../src/invision/buy_credits.tpl#L40)[`<->`](../src/invision/buy_credits.tpl#L40-L40)[`40`](../src/invision/buy_credits.tpl#L40)
-

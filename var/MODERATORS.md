@@ -24,7 +24,3 @@ Affiche les modérateurs du forum concerné.
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`181`](../src/punbb/album_cat_body.tpl#L181)[`<->`](../src/punbb/album_cat_body.tpl#L181-L181)[`181`](../src/punbb/album_cat_body.tpl#L181)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`55`](../src/punbb/viewforum_body.tpl#L55)[`<->`](../src/punbb/viewforum_body.tpl#L55-L55)[`55`](../src/punbb/viewforum_body.tpl#L55)
 
-### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`219`](../src/invision/album_cat_body.tpl#L219)[`<->`](../src/invision/album_cat_body.tpl#L219-L219)[`219`](../src/invision/album_cat_body.tpl#L219)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`43`](../src/invision/viewforum_body.tpl#L43)[`<->`](../src/invision/viewforum_body.tpl#L43-L43)[`43`](../src/invision/viewforum_body.tpl#L43)
-

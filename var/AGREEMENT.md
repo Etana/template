@@ -21,6 +21,3 @@ Affiche les conditions d'inscription de base de Forumactif.
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`29`](../src/punbb/agreement.tpl#L29)[`<->`](../src/punbb/agreement.tpl#L29-L29)[`29`](../src/punbb/agreement.tpl#L29)
 
-### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`42`](../src/invision/agreement.tpl#L42)[`<->`](../src/invision/agreement.tpl#L42-L42)[`42`](../src/invision/agreement.tpl#L42)
-

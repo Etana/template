@@ -33,17 +33,7 @@ Remplacé par l'[encodage](http://fr.wikipedia.org/wiki/Codage_des_caract%C3%A8r
 
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`5`](../src/punbb/overall_header.tpl#L5)[`<->`](../src/punbb/overall_header.tpl#L5-L5)[`5`](../src/punbb/overall_header.tpl#L5)
-* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`5`](../src/punbb/posting_smilies_frame.tpl#L5)[`<->`](../src/punbb/posting_smilies_frame.tpl#L5-L5)[`5`](../src/punbb/posting_smilies_frame.tpl#L5)
-* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`4`](../src/punbb/posting_smilies_wysiwyg.tpl#L4)[`<->`](../src/punbb/posting_smilies_wysiwyg.tpl#L4-L4)[`4`](../src/punbb/posting_smilies_wysiwyg.tpl#L4)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`41`](../src/punbb/search_body.tpl#L41)[`<->`](../src/punbb/search_body.tpl#L41-L41)[`41`](../src/punbb/search_body.tpl#L41)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`42`](../src/punbb/search_body.tpl#L42)[`<->`](../src/punbb/search_body.tpl#L42-L42)[`42`](../src/punbb/search_body.tpl#L42)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`4`](../src/punbb/simple_header.tpl#L4)[`<->`](../src/punbb/simple_header.tpl#L4-L4)[`4`](../src/punbb/simple_header.tpl#L4)
-
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`5`](../src/invision/overall_header.tpl#L5)[`<->`](../src/invision/overall_header.tpl#L5-L5)[`5`](../src/invision/overall_header.tpl#L5)
-* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`4`](../src/invision/posting_smilies_frame.tpl#L4)[`<->`](../src/invision/posting_smilies_frame.tpl#L4-L4)[`4`](../src/invision/posting_smilies_frame.tpl#L4)
-* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`10`](../src/invision/posting_smilies_wysiwyg.tpl#L10)[`<->`](../src/invision/posting_smilies_wysiwyg.tpl#L10-L10)[`10`](../src/invision/posting_smilies_wysiwyg.tpl#L10)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`23`](../src/invision/search_body.tpl#L23)[`<->`](../src/invision/search_body.tpl#L23-L23)[`23`](../src/invision/search_body.tpl#L23)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`24`](../src/invision/search_body.tpl#L24)[`<->`](../src/invision/search_body.tpl#L24-L24)[`24`](../src/invision/search_body.tpl#L24)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`4`](../src/invision/simple_header.tpl#L4)[`<->`](../src/invision/simple_header.tpl#L4-L4)[`4`](../src/invision/simple_header.tpl#L4)
 

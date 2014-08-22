@@ -24,7 +24,3 @@
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`6`](../src/punbb/calendar_overview_topic.tpl#L6)[`<->`](../src/punbb/calendar_overview_topic.tpl#L6-L6)[`6`](../src/punbb/calendar_overview_topic.tpl#L6)
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`9`](../src/punbb/calendar_overview_topic.tpl#L9)[`<->`](../src/punbb/calendar_overview_topic.tpl#L9-L9)[`9`](../src/punbb/calendar_overview_topic.tpl#L9)
 
-### Version Invision
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`6`](../src/invision/calendar_overview_topic.tpl#L6)[`<->`](../src/invision/calendar_overview_topic.tpl#L6-L6)[`6`](../src/invision/calendar_overview_topic.tpl#L6)
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`9`](../src/invision/calendar_overview_topic.tpl#L9)[`<->`](../src/invision/calendar_overview_topic.tpl#L9-L9)[`9`](../src/invision/calendar_overview_topic.tpl#L9)
-

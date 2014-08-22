@@ -26,8 +26,3 @@ Contient le titre du sujet dans lequel le message est posté.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`60`](../src/punbb/search_results_posts.tpl#L60)[`<->`](../src/punbb/search_results_posts.tpl#L60-L60)[`60`](../src/punbb/search_results_posts.tpl#L60)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`55`](../src/punbb/search_results_topics.tpl#L55)[`<->`](../src/punbb/search_results_topics.tpl#L55-L55)[`55`](../src/punbb/search_results_topics.tpl#L55)
 
-### Version Invision
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`31`](../src/invision/search_results_posts.tpl#L31)[`<->`](../src/invision/search_results_posts.tpl#L31-L31)[`31`](../src/invision/search_results_posts.tpl#L31)
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`37`](../src/invision/search_results_posts.tpl#L37)[`<->`](../src/invision/search_results_posts.tpl#L37-L37)[`37`](../src/invision/search_results_posts.tpl#L37)
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`44`](../src/invision/search_results_topics.tpl#L44)[`<->`](../src/invision/search_results_topics.tpl#L44-L44)[`44`](../src/invision/search_results_topics.tpl#L44)
-

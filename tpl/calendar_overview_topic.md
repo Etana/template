@@ -88,16 +88,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{AUTHOR}`](../var/AUTHOR.md#readme) :__ ligne [`5`](../src/invision/calendar_overview_topic.tpl#L5)
-* __[`{CALENDAR_EVENT}`](../var/CALENDAR_EVENT.md#readme) :__ ligne [`4`](../src/invision/calendar_overview_topic.tpl#L4)
-* __[`{L_AUTHOR}`](../var/L_AUTHOR.md#readme) :__ ligne [`5`](../src/invision/calendar_overview_topic.tpl#L5)
-* __[`{L_CALENDAR_EVENT}`](../var/L_CALENDAR_EVENT.md#readme) :__ ligne [`4`](../src/invision/calendar_overview_topic.tpl#L4)
-* __[`{L_FORUM}`](../var/L_FORUM.md#readme) :__ ligne [`8`](../src/invision/calendar_overview_topic.tpl#L8)
-* __[`{L_TOPIC_DATE}`](../var/L_TOPIC_DATE.md#readme) :__ ligne [`7`](../src/invision/calendar_overview_topic.tpl#L7)
-* __[`{MESSAGE}`](../var/MESSAGE.md#readme) :__ ligne [`12`](../src/invision/calendar_overview_topic.tpl#L12)
-* __[`{NAV_DESC}`](../var/NAV_DESC.md#readme) :__ ligne [`8`](../src/invision/calendar_overview_topic.tpl#L8)
-* __[`{TOPIC_DATE}`](../var/TOPIC_DATE.md#readme) :__ ligne [`7`](../src/invision/calendar_overview_topic.tpl#L7)
-* __[`{TOPIC_TITLE}`](../var/TOPIC_TITLE.md#readme) :__ ligne [`2`](../src/invision/calendar_overview_topic.tpl#L2)
-* __[`<!-- BEGIN display_forum -->`](../var/display_forum.md#readme) :__ ligne [`6`](../src/invision/calendar_overview_topic.tpl#L6)
-* __[`<!-- END display_forum -->`](../var/display_forum.md#readme) :__ ligne [`9`](../src/invision/calendar_overview_topic.tpl#L9)

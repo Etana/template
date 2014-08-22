@@ -18,9 +18,3 @@
 ### Version phpBB2
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`8`](../src/subsilver/posting_smilies.tpl#L8)[`<->`](../src/subsilver/posting_smilies.tpl#L8-L8)[`8`](../src/subsilver/posting_smilies.tpl#L8)
 
-### Version PunBB
-* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`8`](../src/punbb/posting_smilies.tpl#L8)[`<->`](../src/punbb/posting_smilies.tpl#L8-L8)[`8`](../src/punbb/posting_smilies.tpl#L8)
-
-### Version Invision
-* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`8`](../src/invision/posting_smilies.tpl#L8)[`<->`](../src/invision/posting_smilies.tpl#L8-L8)[`8`](../src/invision/posting_smilies.tpl#L8)
-

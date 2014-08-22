@@ -19,10 +19,5 @@
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`491`](../src/subsilver/posting_body.tpl#L491)[`<->`](../src/subsilver/posting_body.tpl#L491-L491)[`491`](../src/subsilver/posting_body.tpl#L491)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`192`](../src/punbb/posting_body.tpl#L192)[`<->`](../src/punbb/posting_body.tpl#L192-L192)[`192`](../src/punbb/posting_body.tpl#L192)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`40`](../src/punbb/profile_edit_signature.tpl#L40)[`<->`](../src/punbb/profile_edit_signature.tpl#L40-L40)[`40`](../src/punbb/profile_edit_signature.tpl#L40)
-
-### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`139`](../src/invision/posting_body.tpl#L139)[`<->`](../src/invision/posting_body.tpl#L139-L139)[`139`](../src/invision/posting_body.tpl#L139)
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`42`](../src/invision/profile_edit_signature.tpl#L42)[`<->`](../src/invision/profile_edit_signature.tpl#L42-L42)[`42`](../src/invision/profile_edit_signature.tpl#L42)
 

@@ -28,5 +28,4 @@ Texte.
 
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`39`](../src/invision/groupcp_info_body.tpl#L39)[`<->`](../src/invision/groupcp_info_body.tpl#L39-L39)[`39`](../src/invision/groupcp_info_body.tpl#L39)
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`87`](../src/invision/profile_view_body.tpl#L87)[`<->`](../src/invision/profile_view_body.tpl#L87-L87)[`87`](../src/invision/profile_view_body.tpl#L87)
 

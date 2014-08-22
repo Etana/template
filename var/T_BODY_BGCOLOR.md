@@ -24,15 +24,3 @@
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`12`](../src/subsilver/posting_smilies_wysiwyg.tpl#L12)[`<->`](../src/subsilver/posting_smilies_wysiwyg.tpl#L12-L12)[`12`](../src/subsilver/posting_smilies_wysiwyg.tpl#L12)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`13`](../src/subsilver/simple_header.tpl#L13)[`<->`](../src/subsilver/simple_header.tpl#L13-L13)[`13`](../src/subsilver/simple_header.tpl#L13)
 
-### Version PunBB
-* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`12`](../src/punbb/posting_smilies_frame.tpl#L12)[`<->`](../src/punbb/posting_smilies_frame.tpl#L12-L12)[`12`](../src/punbb/posting_smilies_frame.tpl#L12)
-* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`13`](../src/punbb/posting_smilies_frame.tpl#L13)[`<->`](../src/punbb/posting_smilies_frame.tpl#L13-L13)[`13`](../src/punbb/posting_smilies_frame.tpl#L13)
-* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`12`](../src/punbb/posting_smilies_wysiwyg.tpl#L12)[`<->`](../src/punbb/posting_smilies_wysiwyg.tpl#L12-L12)[`12`](../src/punbb/posting_smilies_wysiwyg.tpl#L12)
-* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`13`](../src/punbb/posting_smilies_wysiwyg.tpl#L13)[`<->`](../src/punbb/posting_smilies_wysiwyg.tpl#L13-L13)[`13`](../src/punbb/posting_smilies_wysiwyg.tpl#L13)
-
-### Version Invision
-* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`12`](../src/invision/posting_smilies_frame.tpl#L12)[`<->`](../src/invision/posting_smilies_frame.tpl#L12-L12)[`12`](../src/invision/posting_smilies_frame.tpl#L12)
-* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`13`](../src/invision/posting_smilies_frame.tpl#L13)[`<->`](../src/invision/posting_smilies_frame.tpl#L13-L13)[`13`](../src/invision/posting_smilies_frame.tpl#L13)
-* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`12`](../src/invision/posting_smilies_wysiwyg.tpl#L12)[`<->`](../src/invision/posting_smilies_wysiwyg.tpl#L12-L12)[`12`](../src/invision/posting_smilies_wysiwyg.tpl#L12)
-* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`13`](../src/invision/posting_smilies_wysiwyg.tpl#L13)[`<->`](../src/invision/posting_smilies_wysiwyg.tpl#L13-L13)[`13`](../src/invision/posting_smilies_wysiwyg.tpl#L13)
-

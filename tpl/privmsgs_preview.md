@@ -63,17 +63,9 @@
 
 ### Positions des variables
 
-* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme) :__ ligne [`2`](../src/punbb/privmsgs_preview.tpl#L2)
-* __[`{MESSAGE_FROM}`](../var/MESSAGE_FROM.md#readme) :__ ligne [`12`](../src/punbb/privmsgs_preview.tpl#L12)
-* __[`{MESSAGE_NEW}`](../var/MESSAGE_NEW.md#readme) :__ ligne [`16`](../src/punbb/privmsgs_preview.tpl#L16)
-* __[`{POST_DATE}`](../var/POST_DATE.md#readme) :__ ligne [`8`](../src/punbb/privmsgs_preview.tpl#L8)
-* __[`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme) :__ ligne [`8`](../src/punbb/privmsgs_preview.tpl#L8)
 
 ## Template par défaut Invision
 
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme) :__ ligne [`2`](../src/invision/privmsgs_preview.tpl#L2)
-* __[`{MESSAGE_NEW}`](../var/MESSAGE_NEW.md#readme) :__ ligne [`5`](../src/invision/privmsgs_preview.tpl#L5)

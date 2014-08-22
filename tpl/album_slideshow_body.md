@@ -112,22 +112,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{DES_LIST}`](../var/DES_LIST.md#readme) :__ ligne [`30`](../src/invision/album_slideshow_body.tpl#L30)
-* __[`{JS_MENU}`](../var/JS_MENU.md#readme) :__ ligne [`4`](../src/invision/album_slideshow_body.tpl#L4)
-* __[`{L_SLIDESHOW_ONOFF}`](../var/L_SLIDESHOW_ONOFF.md#readme) :__ ligne [`394`](../src/invision/album_slideshow_body.tpl#L394)
-* __[`{PIC_LIST}`](../var/PIC_LIST.md#readme) :__ ligne [`28`](../src/invision/album_slideshow_body.tpl#L28)
-* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme) :__ ligne [`386`](../src/invision/album_slideshow_body.tpl#L386)
-* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme) :__ ligne [`395`](../src/invision/album_slideshow_body.tpl#L395)
-* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme) :__ ligne [`395`](../src/invision/album_slideshow_body.tpl#L395)
-* __[`{SLIDESHOW_DELAY}`](../var/SLIDESHOW_DELAY.md#readme) :__ ligne [`22`](../src/invision/album_slideshow_body.tpl#L22)
-* __[`{SLIDESHOW_SELECT}`](../var/SLIDESHOW_SELECT.md#readme) :__ ligne [`393`](../src/invision/album_slideshow_body.tpl#L393)
-* __[`{TIT_LIST}`](../var/TIT_LIST.md#readme) :__ ligne [`29`](../src/invision/album_slideshow_body.tpl#L29)
-* __[`{URL_RETURN}`](../var/URL_RETURN.md#readme) :__ ligne [`51`](../src/invision/album_slideshow_body.tpl#L51)
-* __[`{U_PIC}`](../var/U_PIC.md#readme) :__ ligne [`395`](../src/invision/album_slideshow_body.tpl#L395)
-* __[`{U_SLIDESHOW}`](../var/U_SLIDESHOW.md#readme) :__ ligne [`390`](../src/invision/album_slideshow_body.tpl#L390)
-* __[`{U_SLIDESHOW_REFRESH}`](../var/U_SLIDESHOW_REFRESH.md#readme) :__ ligne [`2`](../src/invision/album_slideshow_body.tpl#L2)
-* __[`<!-- BEGIN switch_slideshow -->`](../var/switch_slideshow.md#readme) :__ ligne [`1`](../src/invision/album_slideshow_body.tpl#L1)
-* __[`<!-- END switch_slideshow -->`](../var/switch_slideshow.md#readme) :__ ligne [`3`](../src/invision/album_slideshow_body.tpl#L3)
-* __[`<!-- BEGIN switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme) :__ ligne [`5`](../src/invision/album_slideshow_body.tpl#L5)
-* __[`<!-- END switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme) :__ ligne [`382`](../src/invision/album_slideshow_body.tpl#L382)

@@ -21,6 +21,3 @@
 ### Version PunBB
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`32`](../src/punbb/modcp_split.tpl#L32)[`<->`](../src/punbb/modcp_split.tpl#L32-L32)[`32`](../src/punbb/modcp_split.tpl#L32)
 
-### Version Invision
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`15`](../src/invision/modcp_split.tpl#L15)[`<->`](../src/invision/modcp_split.tpl#L15-L15)[`15`](../src/invision/modcp_split.tpl#L15)
-

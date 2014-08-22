@@ -36,11 +36,3 @@ Boucle d'affichage si les annonces sont activées dans `PA > Général > Message
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`277`](../src/punbb/overall_header.tpl#L277)[`<->`](../src/punbb/overall_header.tpl#L277-L277)[`277`](../src/punbb/overall_header.tpl#L277)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`293`](../src/punbb/overall_header.tpl#L293)[`<->`](../src/punbb/overall_header.tpl#L293-L293)[`293`](../src/punbb/overall_header.tpl#L293)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`30`](../src/invision/overall_header.tpl#L30)[`<->`](../src/invision/overall_header.tpl#L30-L30)[`30`](../src/invision/overall_header.tpl#L30)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`33`](../src/invision/overall_header.tpl#L33)[`<->`](../src/invision/overall_header.tpl#L33-L33)[`33`](../src/invision/overall_header.tpl#L33)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`46`](../src/invision/overall_header.tpl#L46)[`<->`](../src/invision/overall_header.tpl#L46-L46)[`46`](../src/invision/overall_header.tpl#L46)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`56`](../src/invision/overall_header.tpl#L56)[`<->`](../src/invision/overall_header.tpl#L56-L56)[`56`](../src/invision/overall_header.tpl#L56)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`296`](../src/invision/overall_header.tpl#L296)[`<->`](../src/invision/overall_header.tpl#L296-L296)[`296`](../src/invision/overall_header.tpl#L296)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`312`](../src/invision/overall_header.tpl#L312)[`<->`](../src/invision/overall_header.tpl#L312-L312)[`312`](../src/invision/overall_header.tpl#L312)
-

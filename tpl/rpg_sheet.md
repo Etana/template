@@ -109,15 +109,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{L_VIEWING_PROFILE}`](../var/L_VIEWING_PROFILE.md#readme) :__ ligne [`3`](../src/invision/rpg_sheet.tpl#L3)
-* __[`{POSTER_RANK}`](../var/POSTER_RANK.md#readme) :__ ligne [`9`](../src/invision/rpg_sheet.tpl#L9)
-* __[`{RPG_IMAGE}`](../var/RPG_IMAGE.md#readme) :__ ligne [`10`](../src/invision/rpg_sheet.tpl#L10)
-* __[`<!-- BEGIN rpg_fields -->`](../var/rpg_fields.md#readme) :__ ligne [`23`](../src/invision/rpg_sheet.tpl#L23)
-* __[`<!-- END rpg_fields -->`](../var/rpg_fields.md#readme) :__ ligne [`30`](../src/invision/rpg_sheet.tpl#L30)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_NAME}`](../var/rpg_fields.F_NAME.md#readme) :__ ligne [`26`](../src/invision/rpg_sheet.tpl#L26)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_VALUE_NEW}`](../var/rpg_fields.F_VALUE_NEW.md#readme) :__ ligne [`27`](../src/invision/rpg_sheet.tpl#L27)
-* __[`<!-- BEGIN rpg_fields_left -->`](../var/rpg_fields_left.md#readme) :__ ligne [`14`](../src/invision/rpg_sheet.tpl#L14)
-* __[`<!-- END rpg_fields_left -->`](../var/rpg_fields_left.md#readme) :__ ligne [`21`](../src/invision/rpg_sheet.tpl#L21)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_NAME}`](../var/rpg_fields_left.F_NAME.md#readme) :__ ligne [`17`](../src/invision/rpg_sheet.tpl#L17)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_VALUE_NEW}`](../var/rpg_fields_left.F_VALUE_NEW.md#readme) :__ ligne [`18`](../src/invision/rpg_sheet.tpl#L18)

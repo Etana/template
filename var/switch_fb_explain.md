@@ -24,7 +24,3 @@ Le contenu de la boucle est affiché si Facebook Connect est activé dans `PA > 
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`20`](../src/punbb/agreement.tpl#L20)[`<->`](../src/punbb/agreement.tpl#L20-L20)[`20`](../src/punbb/agreement.tpl#L20)
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`26`](../src/punbb/agreement.tpl#L26)[`<->`](../src/punbb/agreement.tpl#L26-L26)[`26`](../src/punbb/agreement.tpl#L26)
 
-### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`23`](../src/invision/agreement.tpl#L23)[`<->`](../src/invision/agreement.tpl#L23-L23)[`23`](../src/invision/agreement.tpl#L23)
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`31`](../src/invision/agreement.tpl#L31)[`<->`](../src/invision/agreement.tpl#L31-L31)[`31`](../src/invision/agreement.tpl#L31)
-

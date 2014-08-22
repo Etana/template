@@ -24,7 +24,3 @@ Contient le titre de la page d'accueil défini dans votre `PA > Général > Prom
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`4`](../src/punbb/overall_header.tpl#L4)[`<->`](../src/punbb/overall_header.tpl#L4-L4)[`4`](../src/punbb/overall_header.tpl#L4)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`17`](../src/punbb/overall_header.tpl#L17)[`<->`](../src/punbb/overall_header.tpl#L17-L17)[`17`](../src/punbb/overall_header.tpl#L17)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`4`](../src/invision/overall_header.tpl#L4)[`<->`](../src/invision/overall_header.tpl#L4-L4)[`4`](../src/invision/overall_header.tpl#L4)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`17`](../src/invision/overall_header.tpl#L17)[`<->`](../src/invision/overall_header.tpl#L17-L17)[`17`](../src/invision/overall_header.tpl#L17)
-

@@ -41,7 +41,3 @@ Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Ad
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`5`](../src/punbb/mod_whoisonline.tpl#L5)[`<->`](../src/punbb/mod_whoisonline.tpl#L5-L5)[`5`](../src/punbb/mod_whoisonline.tpl#L5)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`56`](../src/punbb/viewforum_body.tpl#L56)[`<->`](../src/punbb/viewforum_body.tpl#L56-L56)[`56`](../src/punbb/viewforum_body.tpl#L56)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`83`](../src/invision/index_body.tpl#L83)[`<->`](../src/invision/index_body.tpl#L83-L83)[`83`](../src/invision/index_body.tpl#L83)
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`5`](../src/invision/mod_whoisonline.tpl#L5)[`<->`](../src/invision/mod_whoisonline.tpl#L5-L5)[`5`](../src/invision/mod_whoisonline.tpl#L5)
-

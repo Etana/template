@@ -23,6 +23,3 @@ Chaîne de texte.
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`36`](../src/punbb/agreement.tpl#L36)[`<->`](../src/punbb/agreement.tpl#L36-L36)[`36`](../src/punbb/agreement.tpl#L36)
 
-### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`49`](../src/invision/agreement.tpl#L49)[`<->`](../src/invision/agreement.tpl#L49-L49)[`49`](../src/invision/agreement.tpl#L49)
-

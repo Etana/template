@@ -23,6 +23,3 @@ Chaîne de texte du popup de connexion.
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`229`](../src/punbb/overall_header.tpl#L229)[`<->`](../src/punbb/overall_header.tpl#L229-L229)[`229`](../src/punbb/overall_header.tpl#L229)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`232`](../src/invision/overall_header.tpl#L232)[`<->`](../src/invision/overall_header.tpl#L232-L232)[`232`](../src/invision/overall_header.tpl#L232)
-

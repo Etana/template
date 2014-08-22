@@ -37,10 +37,3 @@ Action du formulaire de connexion.
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`40`](../src/punbb/mod_login.tpl#L40)[`<->`](../src/punbb/mod_login.tpl#L40-L40)[`40`](../src/punbb/mod_login.tpl#L40)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`226`](../src/punbb/overall_header.tpl#L226)[`<->`](../src/punbb/overall_header.tpl#L226-L226)[`226`](../src/punbb/overall_header.tpl#L226)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`22`](../src/invision/index_body.tpl#L22)[`<->`](../src/invision/index_body.tpl#L22-L22)[`22`](../src/invision/index_body.tpl#L22)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`171`](../src/invision/index_body.tpl#L171)[`<->`](../src/invision/index_body.tpl#L171-L171)[`171`](../src/invision/index_body.tpl#L171)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`8`](../src/invision/mod_login.tpl#L8)[`<->`](../src/invision/mod_login.tpl#L8-L8)[`8`](../src/invision/mod_login.tpl#L8)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`46`](../src/invision/mod_login.tpl#L46)[`<->`](../src/invision/mod_login.tpl#L46-L46)[`46`](../src/invision/mod_login.tpl#L46)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`229`](../src/invision/overall_header.tpl#L229)[`<->`](../src/invision/overall_header.tpl#L229-L229)[`229`](../src/invision/overall_header.tpl#L229)
-

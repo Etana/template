@@ -18,6 +18,3 @@
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`92`](../src/subsilver/viewtopic_body.tpl#L92)[`<->`](../src/subsilver/viewtopic_body.tpl#L92-L92)[`92`](../src/subsilver/viewtopic_body.tpl#L92)
 
-### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`97`](../src/invision/viewtopic_body.tpl#L97)[`<->`](../src/invision/viewtopic_body.tpl#L97-L97)[`97`](../src/invision/viewtopic_body.tpl#L97)
-

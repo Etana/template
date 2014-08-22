@@ -27,8 +27,3 @@ Contient la hauteur des annonces définie dans `PA > Général > Messages et Ema
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`134`](../src/punbb/overall_header.tpl#L134)[`<->`](../src/punbb/overall_header.tpl#L134-L134)[`134`](../src/punbb/overall_header.tpl#L134)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`282`](../src/punbb/overall_header.tpl#L282)[`<->`](../src/punbb/overall_header.tpl#L282-L282)[`282`](../src/punbb/overall_header.tpl#L282)
 
-### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`49`](../src/invision/overall_header.tpl#L49)[`<->`](../src/invision/overall_header.tpl#L49-L49)[`49`](../src/invision/overall_header.tpl#L49)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`89`](../src/invision/overall_header.tpl#L89)[`<->`](../src/invision/overall_header.tpl#L89-L89)[`89`](../src/invision/overall_header.tpl#L89)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`301`](../src/invision/overall_header.tpl#L301)[`<->`](../src/invision/overall_header.tpl#L301-L301)[`301`](../src/invision/overall_header.tpl#L301)
-

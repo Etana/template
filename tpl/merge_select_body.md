@@ -13,12 +13,10 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{CURRENT_FID}`](../var/CURRENT_FID.md#readme)
 	* [`{L_GO}`](../var/L_GO.md#readme)
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_SELECT}`](../var/L_SELECT.md#readme)
-	* [`{L_TITLE}`](../var/L_TITLE.md#readme)
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{MERGE_BOX}`](../var/MERGE_BOX.md#readme)
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
@@ -94,16 +92,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`{CURRENT_FID}`](../var/CURRENT_FID.md#readme) :__ ligne [`17`](../src/invision/merge_select_body.tpl#L17)
-* __[`{L_GO}`](../var/L_GO.md#readme) :__ ligne [`10`](../src/invision/merge_select_body.tpl#L10)
-* __[`{L_INDEX}`](../var/L_INDEX.md#readme) :__ ligne [`2`](../src/invision/merge_select_body.tpl#L2)
-* __[`{L_SELECT}`](../var/L_SELECT.md#readme) :__ ligne [`15`](../src/invision/merge_select_body.tpl#L15)
-* __[`{L_TITLE}`](../var/L_TITLE.md#readme) :__ ligne [`3`](../src/invision/merge_select_body.tpl#L3)
-* __[`{MERGE_BOX}`](../var/MERGE_BOX.md#readme) :__ ligne [`13`](../src/invision/merge_select_body.tpl#L13)
-* __[`{PAGINATION}`](../var/PAGINATION.md#readme) :__ ligne [`6`](../src/invision/merge_select_body.tpl#L6)
-* __[`{PAGINATION}`](../var/PAGINATION.md#readme) :__ ligne [`22`](../src/invision/merge_select_body.tpl#L22)
-* __[`{S_ACTION}`](../var/S_ACTION.md#readme) :__ ligne [`9`](../src/invision/merge_select_body.tpl#L9)
-* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`16`](../src/invision/merge_select_body.tpl#L16)
-* __[`{S_LIST_FORUMS}`](../var/S_LIST_FORUMS.md#readme) :__ ligne [`10`](../src/invision/merge_select_body.tpl#L10)
-* __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/merge_select_body.tpl#L2)

@@ -18,9 +18,3 @@
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`227`](../src/subsilver/posting_body.tpl#L227)[`<->`](../src/subsilver/posting_body.tpl#L227-L227)[`227`](../src/subsilver/posting_body.tpl#L227)
 
-### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`177`](../src/punbb/posting_body.tpl#L177)[`<->`](../src/punbb/posting_body.tpl#L177-L177)[`177`](../src/punbb/posting_body.tpl#L177)
-
-### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`157`](../src/invision/posting_body.tpl#L157)[`<->`](../src/invision/posting_body.tpl#L157-L157)[`157`](../src/invision/posting_body.tpl#L157)
-

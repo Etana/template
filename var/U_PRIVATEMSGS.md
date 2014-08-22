@@ -22,9 +22,4 @@ Adresse url absolue vers la boîte de réception des messages privés : `/privms
 
 ### Version PunBB
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`10`](../src/punbb/greeting_popup.tpl#L10)[`<->`](../src/punbb/greeting_popup.tpl#L10-L10)[`10`](../src/punbb/greeting_popup.tpl#L10)
-* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`9`](../src/punbb/privmsgs_popup.tpl#L9)[`<->`](../src/punbb/privmsgs_popup.tpl#L9-L9)[`9`](../src/punbb/privmsgs_popup.tpl#L9)
-
-### Version Invision
-* __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`10`](../src/invision/greeting_popup.tpl#L10)[`<->`](../src/invision/greeting_popup.tpl#L10-L10)[`10`](../src/invision/greeting_popup.tpl#L10)
-* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`9`](../src/invision/privmsgs_popup.tpl#L9)[`<->`](../src/invision/privmsgs_popup.tpl#L9-L9)[`9`](../src/invision/privmsgs_popup.tpl#L9)
 

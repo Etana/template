@@ -30,7 +30,3 @@ Chaîne de texte.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`71`](../src/punbb/search_results_posts.tpl#L71)[`<->`](../src/punbb/search_results_posts.tpl#L71-L71)[`71`](../src/punbb/search_results_posts.tpl#L71)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`29`](../src/punbb/search_results_topics.tpl#L29)[`<->`](../src/punbb/search_results_topics.tpl#L29-L29)[`29`](../src/punbb/search_results_topics.tpl#L29)
 
-### Version Invision
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`14`](../src/invision/search_results_posts.tpl#L14)[`<->`](../src/invision/search_results_posts.tpl#L14-L14)[`14`](../src/invision/search_results_posts.tpl#L14)
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`15`](../src/invision/search_results_topics.tpl#L15)[`<->`](../src/invision/search_results_topics.tpl#L15-L15)[`15`](../src/invision/search_results_topics.tpl#L15)
-

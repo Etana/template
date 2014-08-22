@@ -75,13 +75,3 @@
 [__Code source__](../src/punbb/index_box.tpl#files)
 
 ### Positions des variables
-
-* __[`<!-- BEGIN IMGS -->`](../var/IMGS.md#readme) :__ ligne [`4`](../src/invision/mod_rss_feeds.tpl#L4)
-* __[`<!-- END IMGS -->`](../var/IMGS.md#readme) :__ ligne [`9`](../src/invision/mod_rss_feeds.tpl#L9)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`5`](../src/invision/mod_rss_feeds.tpl#L5)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme) :__ ligne [`6`](../src/invision/mod_rss_feeds.tpl#L6)
-* __[`{L_RSS_FEEDS}`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`2`](../src/invision/mod_rss_feeds.tpl#L2)

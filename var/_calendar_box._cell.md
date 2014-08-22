@@ -24,7 +24,3 @@
 * __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`17`](../src/punbb/calendar_box.tpl#L17)[`<->`](../src/punbb/calendar_box.tpl#L17-L17)[`17`](../src/punbb/calendar_box.tpl#L17)
 * __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`19`](../src/punbb/calendar_box.tpl#L19)[`<->`](../src/punbb/calendar_box.tpl#L19-L19)[`19`](../src/punbb/calendar_box.tpl#L19)
 
-### Version Invision
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`24`](../src/invision/calendar_box.tpl#L24)[`<->`](../src/invision/calendar_box.tpl#L24-L24)[`24`](../src/invision/calendar_box.tpl#L24)
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`26`](../src/invision/calendar_box.tpl#L26)[`<->`](../src/invision/calendar_box.tpl#L26-L26)[`26`](../src/invision/calendar_box.tpl#L26)
-

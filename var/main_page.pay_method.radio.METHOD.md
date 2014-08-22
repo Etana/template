@@ -26,7 +26,3 @@ Variable importante au fonctionnement des donations.
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`46`](../src/punbb/buy_credits.tpl#L46)[`<->`](../src/punbb/buy_credits.tpl#L46-L46)[`46`](../src/punbb/buy_credits.tpl#L46)
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`46`](../src/punbb/buy_credits.tpl#L46)[`<->`](../src/punbb/buy_credits.tpl#L46-L46)[`46`](../src/punbb/buy_credits.tpl#L46)
 
-### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`32`](../src/invision/buy_credits.tpl#L32)[`<->`](../src/invision/buy_credits.tpl#L32-L32)[`32`](../src/invision/buy_credits.tpl#L32)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`32`](../src/invision/buy_credits.tpl#L32)[`<->`](../src/invision/buy_credits.tpl#L32-L32)[`32`](../src/invision/buy_credits.tpl#L32)
-

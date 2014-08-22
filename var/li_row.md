@@ -24,7 +24,3 @@
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`5`](../src/punbb/mod_keywords.tpl#L5)[`<->`](../src/punbb/mod_keywords.tpl#L5-L5)[`5`](../src/punbb/mod_keywords.tpl#L5)
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`7`](../src/punbb/mod_keywords.tpl#L7)[`<->`](../src/punbb/mod_keywords.tpl#L7-L7)[`7`](../src/punbb/mod_keywords.tpl#L7)
 
-### Version Invision
-* __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`5`](../src/invision/mod_keywords.tpl#L5)[`<->`](../src/invision/mod_keywords.tpl#L5-L5)[`5`](../src/invision/mod_keywords.tpl#L5)
-* __[`mod_keywords`](../tpl/mod_keywords.md#readme) :__ lignes [`7`](../src/invision/mod_keywords.tpl#L7)[`<->`](../src/invision/mod_keywords.tpl#L7-L7)[`7`](../src/invision/mod_keywords.tpl#L7)
-

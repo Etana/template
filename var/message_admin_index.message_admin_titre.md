@@ -24,7 +24,3 @@ Boucle contenant le titre du message d'accueil.
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`21`](../src/punbb/index_body.tpl#L21)[`<->`](../src/punbb/index_body.tpl#L21-L21)[`21`](../src/punbb/index_body.tpl#L21)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`25`](../src/punbb/index_body.tpl#L25)[`<->`](../src/punbb/index_body.tpl#L25-L25)[`25`](../src/punbb/index_body.tpl#L25)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`10`](../src/invision/index_body.tpl#L10)[`<->`](../src/invision/index_body.tpl#L10-L10)[`10`](../src/invision/index_body.tpl#L10)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`12`](../src/invision/index_body.tpl#L12)[`<->`](../src/invision/index_body.tpl#L12-L12)[`12`](../src/invision/index_body.tpl#L12)
-

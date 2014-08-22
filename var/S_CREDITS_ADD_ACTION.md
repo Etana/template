@@ -41,12 +41,3 @@ Action du formulaire de donation.
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`161`](../src/punbb/buy_credits.tpl#L161)[`<->`](../src/punbb/buy_credits.tpl#L161-L161)[`161`](../src/punbb/buy_credits.tpl#L161)
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`192`](../src/punbb/buy_credits.tpl#L192)[`<->`](../src/punbb/buy_credits.tpl#L192-L192)[`192`](../src/punbb/buy_credits.tpl#L192)
 
-### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`30`](../src/invision/buy_credits.tpl#L30)[`<->`](../src/invision/buy_credits.tpl#L30-L30)[`30`](../src/invision/buy_credits.tpl#L30)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`77`](../src/invision/buy_credits.tpl#L77)[`<->`](../src/invision/buy_credits.tpl#L77-L77)[`77`](../src/invision/buy_credits.tpl#L77)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`92`](../src/invision/buy_credits.tpl#L92)[`<->`](../src/invision/buy_credits.tpl#L92-L92)[`92`](../src/invision/buy_credits.tpl#L92)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`110`](../src/invision/buy_credits.tpl#L110)[`<->`](../src/invision/buy_credits.tpl#L110-L110)[`110`](../src/invision/buy_credits.tpl#L110)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`125`](../src/invision/buy_credits.tpl#L125)[`<->`](../src/invision/buy_credits.tpl#L125-L125)[`125`](../src/invision/buy_credits.tpl#L125)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`138`](../src/invision/buy_credits.tpl#L138)[`<->`](../src/invision/buy_credits.tpl#L138-L138)[`138`](../src/invision/buy_credits.tpl#L138)
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`168`](../src/invision/buy_credits.tpl#L168)[`<->`](../src/invision/buy_credits.tpl#L168-L168)[`168`](../src/invision/buy_credits.tpl#L168)
-

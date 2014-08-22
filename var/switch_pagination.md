@@ -26,9 +26,3 @@ Boucle s'affichant si la partie affichée contient plusieurs pages.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`105`](../src/punbb/memberlist_body.tpl#L105)[`<->`](../src/punbb/memberlist_body.tpl#L105-L105)[`105`](../src/punbb/memberlist_body.tpl#L105)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`109`](../src/punbb/memberlist_body.tpl#L109)[`<->`](../src/punbb/memberlist_body.tpl#L109-L109)[`109`](../src/punbb/memberlist_body.tpl#L109)
 
-### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`7`](../src/invision/memberlist_body.tpl#L7)[`<->`](../src/invision/memberlist_body.tpl#L7-L7)[`7`](../src/invision/memberlist_body.tpl#L7)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`13`](../src/invision/memberlist_body.tpl#L13)[`<->`](../src/invision/memberlist_body.tpl#L13-L13)[`13`](../src/invision/memberlist_body.tpl#L13)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`112`](../src/invision/memberlist_body.tpl#L112)[`<->`](../src/invision/memberlist_body.tpl#L112-L112)[`112`](../src/invision/memberlist_body.tpl#L112)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`117`](../src/invision/memberlist_body.tpl#L117)[`<->`](../src/invision/memberlist_body.tpl#L117-L117)[`117`](../src/invision/memberlist_body.tpl#L117)
-

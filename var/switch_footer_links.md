@@ -24,7 +24,3 @@ Boucle s'affichant si vous avez activé les liens de bas de page dans `PA > Modu
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`16`](../src/punbb/overall_footer_end.tpl#L16)[`<->`](../src/punbb/overall_footer_end.tpl#L16-L16)[`16`](../src/punbb/overall_footer_end.tpl#L16)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`25`](../src/punbb/overall_footer_end.tpl#L25)[`<->`](../src/punbb/overall_footer_end.tpl#L25-L25)[`25`](../src/punbb/overall_footer_end.tpl#L25)
 
-### Version Invision
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`18`](../src/invision/overall_footer_end.tpl#L18)[`<->`](../src/invision/overall_footer_end.tpl#L18-L18)[`18`](../src/invision/overall_footer_end.tpl#L18)
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`27`](../src/invision/overall_footer_end.tpl#L27)[`<->`](../src/invision/overall_footer_end.tpl#L27-L27)[`27`](../src/invision/overall_footer_end.tpl#L27)
-

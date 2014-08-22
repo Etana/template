@@ -21,6 +21,3 @@ Contient le nombre de message(s) posté(s) par le membre.
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`86`](../src/punbb/memberlist_body.tpl#L86)[`<->`](../src/punbb/memberlist_body.tpl#L86-L86)[`86`](../src/punbb/memberlist_body.tpl#L86)
 
-### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`99`](../src/invision/memberlist_body.tpl#L99)[`<->`](../src/invision/memberlist_body.tpl#L99-L99)[`99`](../src/invision/memberlist_body.tpl#L99)
-

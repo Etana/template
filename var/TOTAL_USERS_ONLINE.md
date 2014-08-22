@@ -58,7 +58,3 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`73`](../src/punbb/index_body.tpl#L73)[`<->`](../src/punbb/index_body.tpl#L73-L73)[`73`](../src/punbb/index_body.tpl#L73)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`4`](../src/punbb/mod_whoisonline.tpl#L4)[`<->`](../src/punbb/mod_whoisonline.tpl#L4-L4)[`4`](../src/punbb/mod_whoisonline.tpl#L4)
 
-### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`82`](../src/invision/index_body.tpl#L82)[`<->`](../src/invision/index_body.tpl#L82-L82)[`82`](../src/invision/index_body.tpl#L82)
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`4`](../src/invision/mod_whoisonline.tpl#L4)[`<->`](../src/invision/mod_whoisonline.tpl#L4-L4)[`4`](../src/invision/mod_whoisonline.tpl#L4)
-

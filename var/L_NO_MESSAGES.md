@@ -18,9 +18,3 @@
 ### Version phpBB2
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`86`](../src/subsilver/privmsgs_body.tpl#L86)[`<->`](../src/subsilver/privmsgs_body.tpl#L86-L86)[`86`](../src/subsilver/privmsgs_body.tpl#L86)
 
-### Version PunBB
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`72`](../src/punbb/privmsgs_body.tpl#L72)[`<->`](../src/punbb/privmsgs_body.tpl#L72-L72)[`72`](../src/punbb/privmsgs_body.tpl#L72)
-
-### Version Invision
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`59`](../src/invision/privmsgs_body.tpl#L59)[`<->`](../src/invision/privmsgs_body.tpl#L59-L59)[`59`](../src/invision/privmsgs_body.tpl#L59)
-

@@ -27,9 +27,3 @@ Chaîne de texte.
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`17`](../src/punbb/faq_dhtml.tpl#L17)[`<->`](../src/punbb/faq_dhtml.tpl#L17-L17)[`17`](../src/punbb/faq_dhtml.tpl#L17)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`17`](../src/punbb/profile_avatar_gallery.tpl#L17)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L17-L17)[`17`](../src/punbb/profile_avatar_gallery.tpl#L17)
 
-### Version Invision
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`4`](../src/invision/faq_body.tpl#L4)[`<->`](../src/invision/faq_body.tpl#L4-L4)[`4`](../src/invision/faq_body.tpl#L4)
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`8`](../src/invision/faq_body.tpl#L8)[`<->`](../src/invision/faq_body.tpl#L8-L8)[`8`](../src/invision/faq_body.tpl#L8)
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`4`](../src/invision/faq_dhtml.tpl#L4)[`<->`](../src/invision/faq_dhtml.tpl#L4-L4)[`4`](../src/invision/faq_dhtml.tpl#L4)
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`15`](../src/invision/faq_dhtml.tpl#L15)[`<->`](../src/invision/faq_dhtml.tpl#L15-L15)[`15`](../src/invision/faq_dhtml.tpl#L15)
-
