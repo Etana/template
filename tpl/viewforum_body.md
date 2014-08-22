@@ -15,10 +15,6 @@ Ce template affiche les forums : `/fX-`
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.switch_legend}`](https://github.com/Etana/template/blob/master/var/.switch_legend.md#readme)
-	* [`{.switch_user_authpost}`](https://github.com/Etana/template/blob/master/var/.switch_user_authpost.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{BOARD_INDEX}`](https://github.com/Etana/template/blob/master/var/BOARD_INDEX.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{FOLDER_ANNOUNCE_IMG}`](https://github.com/Etana/template/blob/master/var/FOLDER_ANNOUNCE_IMG.md#readme)
@@ -88,3 +84,7 @@ Ce template affiche les forums : `/fX-`
 	* [`{U_UNANSWERED_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_UNANSWERED_JS_PLUS_MENU.md#readme)
 	* [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
 	* [`{U_WATCHSEARCH_JS_PLUS_MENU}`](https://github.com/Etana/template/blob/master/var/U_WATCHSEARCH_JS_PLUS_MENU.md#readme)
+	* [`{switch_legend}`](https://github.com/Etana/template/blob/master/var/switch_legend.md#readme)
+	* [`{switch_user_authpost}`](https://github.com/Etana/template/blob/master/var/switch_user_authpost.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)

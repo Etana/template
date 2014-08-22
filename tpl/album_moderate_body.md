@@ -13,11 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.nav_modcp}`](https://github.com/Etana/template/blob/master/var/.nav_modcp.md#readme)
-	* [`{.no_pics}`](https://github.com/Etana/template/blob/master/var/.no_pics.md#readme)
-	* [`{.picrow}`](https://github.com/Etana/template/blob/master/var/.picrow.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
 	* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
@@ -67,7 +62,10 @@
 	* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
 	* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
 	* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
+	* [`{nav_modcp}`](https://github.com/Etana/template/blob/master/var/nav_modcp.md#readme)
+	* [`{no_pics}`](https://github.com/Etana/template/blob/master/var/no_pics.md#readme)
 	* [`{no_pics.L_NO_PICS}`](https://github.com/Etana/template/blob/master/var/no_pics.L_NO_PICS.md#readme)
+	* [`{picrow}`](https://github.com/Etana/template/blob/master/var/picrow.md#readme)
 	* [`{picrow.APPROVAL}`](https://github.com/Etana/template/blob/master/var/picrow.APPROVAL.md#readme)
 	* [`{picrow.CAT}`](https://github.com/Etana/template/blob/master/var/picrow.CAT.md#readme)
 	* [`{picrow.LOCK}`](https://github.com/Etana/template/blob/master/var/picrow.LOCK.md#readme)
@@ -78,3 +76,5 @@
 	* [`{picrow.POSTER}`](https://github.com/Etana/template/blob/master/var/picrow.POSTER.md#readme)
 	* [`{picrow.ROW_CLASS}`](https://github.com/Etana/template/blob/master/var/picrow.ROW_CLASS.md#readme)
 	* [`{picrow.TIME}`](https://github.com/Etana/template/blob/master/var/picrow.TIME.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)

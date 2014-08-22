@@ -15,10 +15,6 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.faq_block}`](https://github.com/Etana/template/blob/master/var/.faq_block.md#readme)
-	* [`{.faq_block.faq_row}`](https://github.com/Etana/template/blob/master/var/.faq_block.faq_row.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{JUMPBOX}`](https://github.com/Etana/template/blob/master/var/JUMPBOX.md#readme)
 	* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
@@ -40,8 +36,12 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 	* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
 	* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
 	* [`{U_VIEW_FORUM}`](https://github.com/Etana/template/blob/master/var/U_VIEW_FORUM.md#readme)
+	* [`{faq_block}`](https://github.com/Etana/template/blob/master/var/faq_block.md#readme)
 	* [`{faq_block.BLOCK_TITLE}`](https://github.com/Etana/template/blob/master/var/faq_block.BLOCK_TITLE.md#readme)
+	* [`{faq_block.faq_row}`](https://github.com/Etana/template/blob/master/var/faq_block.faq_row.md#readme)
 	* [`{faq_block.faq_row.FAQ_ANSWER}`](https://github.com/Etana/template/blob/master/var/faq_block.faq_row.FAQ_ANSWER.md#readme)
 	* [`{faq_block.faq_row.FAQ_QUESTION}`](https://github.com/Etana/template/blob/master/var/faq_block.faq_row.FAQ_QUESTION.md#readme)
 	* [`{faq_block.faq_row.ROW_CLASS}`](https://github.com/Etana/template/blob/master/var/faq_block.faq_row.ROW_CLASS.md#readme)
 	* [`{faq_block.faq_row.U_FAQ_ID}`](https://github.com/Etana/template/blob/master/var/faq_block.faq_row.U_FAQ_ID.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)

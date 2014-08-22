@@ -13,8 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.html_validation}`](https://github.com/Etana/template/blob/master/var/.html_validation.md#readme)
-	* [`{.switch_select_name}`](https://github.com/Etana/template/blob/master/var/.switch_select_name.md#readme)
 	* [`{L_CLOSE_WINDOW}`](https://github.com/Etana/template/blob/master/var/L_CLOSE_WINDOW.md#readme)
 	* [`{L_SEARCH}`](https://github.com/Etana/template/blob/master/var/L_SEARCH.md#readme)
 	* [`{L_SEARCH_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/L_SEARCH_EXPLAIN.md#readme)
@@ -23,3 +21,5 @@
 	* [`{S_SEARCH_ACTION}`](https://github.com/Etana/template/blob/master/var/S_SEARCH_ACTION.md#readme)
 	* [`{S_USERNAME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_USERNAME_OPTIONS.md#readme)
 	* [`{USERNAME}`](https://github.com/Etana/template/blob/master/var/USERNAME.md#readme)
+	* [`{html_validation}`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)
+	* [`{switch_select_name}`](https://github.com/Etana/template/blob/master/var/switch_select_name.md#readme)

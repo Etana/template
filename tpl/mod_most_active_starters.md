@@ -13,8 +13,8 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.POSTER}`](https://github.com/Etana/template/blob/master/var/.POSTER.md#readme)
 	* [`{L_MOST_ACTIVE_STARTERS}`](https://github.com/Etana/template/blob/master/var/L_MOST_ACTIVE_STARTERS.md#readme)
+	* [`{POSTER}`](https://github.com/Etana/template/blob/master/var/POSTER.md#readme)
 	* [`{POSTER.BARRE}`](https://github.com/Etana/template/blob/master/var/POSTER.BARRE.md#readme)
 	* [`{POSTER.NAME}`](https://github.com/Etana/template/blob/master/var/POSTER.NAME.md#readme)
 	* [`{POSTER.NB_TOPICS}`](https://github.com/Etana/template/blob/master/var/POSTER.NB_TOPICS.md#readme)

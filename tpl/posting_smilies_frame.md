@@ -13,8 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.smilies_row}`](https://github.com/Etana/template/blob/master/var/.smilies_row.md#readme)
-	* [`{.smilies_row.smilies_col}`](https://github.com/Etana/template/blob/master/var/.smilies_row.smilies_col.md#readme)
 	* [`{JQUERY_PATH}`](https://github.com/Etana/template/blob/master/var/JQUERY_PATH.md#readme)
 	* [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
 	* [`{L_LANG}`](https://github.com/Etana/template/blob/master/var/L_LANG.md#readme)
@@ -25,6 +23,8 @@
 	* [`{T_BODY_BGCOLOR}`](https://github.com/Etana/template/blob/master/var/T_BODY_BGCOLOR.md#readme)
 	* [`{T_BODY_TEXT}`](https://github.com/Etana/template/blob/master/var/T_BODY_TEXT.md#readme)
 	* [`{T_HEAD_STYLESHEET}`](https://github.com/Etana/template/blob/master/var/T_HEAD_STYLESHEET.md#readme)
+	* [`{smilies_row}`](https://github.com/Etana/template/blob/master/var/smilies_row.md#readme)
+	* [`{smilies_row.smilies_col}`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.md#readme)
 	* [`{smilies_row.smilies_col.SMILEY_CODE}`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.SMILEY_CODE.md#readme)
 	* [`{smilies_row.smilies_col.SMILEY_DESC}`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.SMILEY_DESC.md#readme)
 	* [`{smilies_row.smilies_col.SMILEY_IMG}`](https://github.com/Etana/template/blob/master/var/smilies_row.smilies_col.SMILEY_IMG.md#readme)

@@ -13,8 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.save_action}`](https://github.com/Etana/template/blob/master/var/.save_action.md#readme)
-	* [`{.sepia_bw_enabled}`](https://github.com/Etana/template/blob/master/var/.sepia_bw_enabled.md#readme)
 	* [`{IMG_BW}`](https://github.com/Etana/template/blob/master/var/IMG_BW.md#readme)
 	* [`{IMG_INFRARED}`](https://github.com/Etana/template/blob/master/var/IMG_INFRARED.md#readme)
 	* [`{IMG_INTERLACE}`](https://github.com/Etana/template/blob/master/var/IMG_INTERLACE.md#readme)
@@ -61,3 +59,5 @@
 	* [`{STYLE_CSS}`](https://github.com/Etana/template/blob/master/var/STYLE_CSS.md#readme)
 	* [`{U_NUFFIMAGE_ACTION}`](https://github.com/Etana/template/blob/master/var/U_NUFFIMAGE_ACTION.md#readme)
 	* [`{U_NUFFIMAGE_ACTION_SAVE}`](https://github.com/Etana/template/blob/master/var/U_NUFFIMAGE_ACTION_SAVE.md#readme)
+	* [`{save_action}`](https://github.com/Etana/template/blob/master/var/save_action.md#readme)
+	* [`{sepia_bw_enabled}`](https://github.com/Etana/template/blob/master/var/sepia_bw_enabled.md#readme)

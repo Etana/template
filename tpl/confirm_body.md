@@ -15,7 +15,6 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
 	* [`{L_INDEX}`](https://github.com/Etana/template/blob/master/var/L_INDEX.md#readme)
@@ -28,3 +27,4 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 	* [`{S_CONFIRM_ACTION}`](https://github.com/Etana/template/blob/master/var/S_CONFIRM_ACTION.md#readme)
 	* [`{S_HIDDEN_FIELDS}`](https://github.com/Etana/template/blob/master/var/S_HIDDEN_FIELDS.md#readme)
 	* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)

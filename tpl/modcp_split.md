@@ -13,9 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.postrow}`](https://github.com/Etana/template/blob/master/var/.postrow.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
 	* [`{LOGGED_AS}`](https://github.com/Etana/template/blob/master/var/LOGGED_AS.md#readme)
@@ -47,6 +44,7 @@
 	* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
 	* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
 	* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
+	* [`{postrow}`](https://github.com/Etana/template/blob/master/var/postrow.md#readme)
 	* [`{postrow.L_SELECT}`](https://github.com/Etana/template/blob/master/var/postrow.L_SELECT.md#readme)
 	* [`{postrow.L_TOPIC_BY}`](https://github.com/Etana/template/blob/master/var/postrow.L_TOPIC_BY.md#readme)
 	* [`{postrow.MESSAGE}`](https://github.com/Etana/template/blob/master/var/postrow.MESSAGE.md#readme)
@@ -56,3 +54,5 @@
 	* [`{postrow.ROW_CLASS}`](https://github.com/Etana/template/blob/master/var/postrow.ROW_CLASS.md#readme)
 	* [`{postrow.S_SPLIT_CHECKBOX}`](https://github.com/Etana/template/blob/master/var/postrow.S_SPLIT_CHECKBOX.md#readme)
 	* [`{postrow.U_POST_ID}`](https://github.com/Etana/template/blob/master/var/postrow.U_POST_ID.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)

@@ -13,7 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.display_forum}`](https://github.com/Etana/template/blob/master/var/.display_forum.md#readme)
 	* [`{AUTHOR}`](https://github.com/Etana/template/blob/master/var/AUTHOR.md#readme)
 	* [`{CALENDAR_EVENT}`](https://github.com/Etana/template/blob/master/var/CALENDAR_EVENT.md#readme)
 	* [`{L_AUTHOR}`](https://github.com/Etana/template/blob/master/var/L_AUTHOR.md#readme)
@@ -24,3 +23,4 @@
 	* [`{NAV_DESC}`](https://github.com/Etana/template/blob/master/var/NAV_DESC.md#readme)
 	* [`{TOPIC_DATE}`](https://github.com/Etana/template/blob/master/var/TOPIC_DATE.md#readme)
 	* [`{TOPIC_TITLE}`](https://github.com/Etana/template/blob/master/var/TOPIC_TITLE.md#readme)
+	* [`{display_forum}`](https://github.com/Etana/template/blob/master/var/display_forum.md#readme)

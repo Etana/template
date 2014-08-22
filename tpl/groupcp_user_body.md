@@ -13,12 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.switch_groups_joined}`](https://github.com/Etana/template/blob/master/var/.switch_groups_joined.md#readme)
-	* [`{.switch_groups_joined.switch_groups_member}`](https://github.com/Etana/template/blob/master/var/.switch_groups_joined.switch_groups_member.md#readme)
-	* [`{.switch_groups_joined.switch_groups_pending}`](https://github.com/Etana/template/blob/master/var/.switch_groups_joined.switch_groups_pending.md#readme)
-	* [`{.switch_groups_remaining}`](https://github.com/Etana/template/blob/master/var/.switch_groups_remaining.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{GROUP_LIST_SELECT}`](https://github.com/Etana/template/blob/master/var/GROUP_LIST_SELECT.md#readme)
 	* [`{GROUP_MEMBER_ROWSPAN}`](https://github.com/Etana/template/blob/master/var/GROUP_MEMBER_ROWSPAN.md#readme)
@@ -53,3 +47,9 @@
 	* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
 	* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
 	* [`{U_USERGROUP_ACTION}`](https://github.com/Etana/template/blob/master/var/U_USERGROUP_ACTION.md#readme)
+	* [`{switch_groups_joined}`](https://github.com/Etana/template/blob/master/var/switch_groups_joined.md#readme)
+	* [`{switch_groups_joined.switch_groups_member}`](https://github.com/Etana/template/blob/master/var/switch_groups_joined.switch_groups_member.md#readme)
+	* [`{switch_groups_joined.switch_groups_pending}`](https://github.com/Etana/template/blob/master/var/switch_groups_joined.switch_groups_pending.md#readme)
+	* [`{switch_groups_remaining}`](https://github.com/Etana/template/blob/master/var/switch_groups_remaining.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)

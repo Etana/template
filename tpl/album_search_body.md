@@ -13,10 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.switch_search_results}`](https://github.com/Etana/template/blob/master/var/.switch_search_results.md#readme)
-	* [`{.switch_search_results.search_results}`](https://github.com/Etana/template/blob/master/var/.switch_search_results.search_results.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
 	* [`{LAST_VISIT_DATE}`](https://github.com/Etana/template/blob/master/var/LAST_VISIT_DATE.md#readme)
@@ -46,6 +42,8 @@
 	* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
 	* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
 	* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
+	* [`{switch_search_results}`](https://github.com/Etana/template/blob/master/var/switch_search_results.md#readme)
+	* [`{switch_search_results.search_results}`](https://github.com/Etana/template/blob/master/var/switch_search_results.search_results.md#readme)
 	* [`{switch_search_results.search_results.DESC}`](https://github.com/Etana/template/blob/master/var/switch_search_results.search_results.DESC.md#readme)
 	* [`{switch_search_results.search_results.L_CAT}`](https://github.com/Etana/template/blob/master/var/switch_search_results.search_results.L_CAT.md#readme)
 	* [`{switch_search_results.search_results.L_PIC}`](https://github.com/Etana/template/blob/master/var/switch_search_results.search_results.L_PIC.md#readme)
@@ -57,3 +55,5 @@
 	* [`{switch_search_results.search_results.U_CAT}`](https://github.com/Etana/template/blob/master/var/switch_search_results.search_results.U_CAT.md#readme)
 	* [`{switch_search_results.search_results.U_PIC}`](https://github.com/Etana/template/blob/master/var/switch_search_results.search_results.U_PIC.md#readme)
 	* [`{switch_search_results.search_results.U_PROFILE}`](https://github.com/Etana/template/blob/master/var/switch_search_results.search_results.U_PROFILE.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)

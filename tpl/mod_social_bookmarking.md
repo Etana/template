@@ -13,7 +13,7 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.IMGS}`](https://github.com/Etana/template/blob/master/var/.IMGS.md#readme)
+	* [`{IMGS}`](https://github.com/Etana/template/blob/master/var/IMGS.md#readme)
 	* [`{IMGS.ALT}`](https://github.com/Etana/template/blob/master/var/IMGS.ALT.md#readme)
 	* [`{IMGS.CLASS}`](https://github.com/Etana/template/blob/master/var/IMGS.CLASS.md#readme)
 	* [`{IMGS.IMG}`](https://github.com/Etana/template/blob/master/var/IMGS.IMG.md#readme)

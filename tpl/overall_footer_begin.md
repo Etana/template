@@ -13,9 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.giefmod_index2}`](https://github.com/Etana/template/blob/master/var/.giefmod_index2.md#readme)
-	* [`{.giefmod_index2.saut}`](https://github.com/Etana/template/blob/master/var/.giefmod_index2.saut.md#readme)
-	* [`{.html_validation}`](https://github.com/Etana/template/blob/master/var/.html_validation.md#readme)
 	* [`{C3SIZE}`](https://github.com/Etana/template/blob/master/var/C3SIZE.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{ID_RIGHT}`](https://github.com/Etana/template/blob/master/var/ID_RIGHT.md#readme)
@@ -26,4 +23,7 @@
 	* [`{S_JUMPBOX_ACTION}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_ACTION.md#readme)
 	* [`{S_JUMPBOX_SELECT}`](https://github.com/Etana/template/blob/master/var/S_JUMPBOX_SELECT.md#readme)
 	* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
+	* [`{giefmod_index2}`](https://github.com/Etana/template/blob/master/var/giefmod_index2.md#readme)
 	* [`{giefmod_index2.MODVAR}`](https://github.com/Etana/template/blob/master/var/giefmod_index2.MODVAR.md#readme)
+	* [`{giefmod_index2.saut}`](https://github.com/Etana/template/blob/master/var/giefmod_index2.saut.md#readme)
+	* [`{html_validation}`](https://github.com/Etana/template/blob/master/var/html_validation.md#readme)

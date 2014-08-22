@@ -13,8 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.switch_slideshow}`](https://github.com/Etana/template/blob/master/var/.switch_slideshow.md#readme)
-	* [`{.switch_slideshow_scripts}`](https://github.com/Etana/template/blob/master/var/.switch_slideshow_scripts.md#readme)
 	* [`{DES_LIST}`](https://github.com/Etana/template/blob/master/var/DES_LIST.md#readme)
 	* [`{JS_MENU}`](https://github.com/Etana/template/blob/master/var/JS_MENU.md#readme)
 	* [`{L_SLIDESHOW_ONOFF}`](https://github.com/Etana/template/blob/master/var/L_SLIDESHOW_ONOFF.md#readme)
@@ -28,3 +26,5 @@
 	* [`{U_PIC}`](https://github.com/Etana/template/blob/master/var/U_PIC.md#readme)
 	* [`{U_SLIDESHOW}`](https://github.com/Etana/template/blob/master/var/U_SLIDESHOW.md#readme)
 	* [`{U_SLIDESHOW_REFRESH}`](https://github.com/Etana/template/blob/master/var/U_SLIDESHOW_REFRESH.md#readme)
+	* [`{switch_slideshow}`](https://github.com/Etana/template/blob/master/var/switch_slideshow.md#readme)
+	* [`{switch_slideshow_scripts}`](https://github.com/Etana/template/blob/master/var/switch_slideshow_scripts.md#readme)

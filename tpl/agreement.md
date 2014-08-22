@@ -15,12 +15,6 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.switch_fb_explain}`](https://github.com/Etana/template/blob/master/var/.switch_fb_explain.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_in.message_admin_index}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.message_admin_index.md#readme)
-	* [`{.switch_user_logged_in.message_admin_index.message_admin_titre}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.message_admin_index.message_admin_titre.md#readme)
-	* [`{.switch_user_logged_in.message_admin_index.message_admin_txt}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.message_admin_index.message_admin_txt.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{AGREEMENT}`](https://github.com/Etana/template/blob/master/var/AGREEMENT.md#readme)
 	* [`{AGREEMENT_TITLE}`](https://github.com/Etana/template/blob/master/var/AGREEMENT_TITLE.md#readme)
 	* [`{AGREE_OVER_13}`](https://github.com/Etana/template/blob/master/var/AGREE_OVER_13.md#readme)
@@ -43,4 +37,10 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 	* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
 	* [`{message_admin_index.message_admin_titre.MES_TITRE}`](https://github.com/Etana/template/blob/master/var/message_admin_index.message_admin_titre.MES_TITRE.md#readme)
 	* [`{message_admin_index.message_admin_txt.MES_TXT}`](https://github.com/Etana/template/blob/master/var/message_admin_index.message_admin_txt.MES_TXT.md#readme)
+	* [`{switch_fb_explain}`](https://github.com/Etana/template/blob/master/var/switch_fb_explain.md#readme)
 	* [`{switch_fb_explain.FB_EXPLAIN}`](https://github.com/Etana/template/blob/master/var/switch_fb_explain.FB_EXPLAIN.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_in.message_admin_index}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.message_admin_index.md#readme)
+	* [`{switch_user_logged_in.message_admin_index.message_admin_titre}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.message_admin_index.message_admin_titre.md#readme)
+	* [`{switch_user_logged_in.message_admin_index.message_admin_txt}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.message_admin_index.message_admin_txt.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)

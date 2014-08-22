@@ -15,9 +15,6 @@ Ce template affiche la page de recherche de votre forum : `/search`
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.TAGS}`](https://github.com/Etana/template/blob/master/var/.TAGS.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{GOOGLE_CODE}`](https://github.com/Etana/template/blob/master/var/GOOGLE_CODE.md#readme)
 	* [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
@@ -59,6 +56,7 @@ Ce template affiche la page de recherche de votre forum : `/search`
 	* [`{S_TIME_OPTIONS}`](https://github.com/Etana/template/blob/master/var/S_TIME_OPTIONS.md#readme)
 	* [`{TABS_LESS_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_LESS_IMG.md#readme)
 	* [`{TABS_MORE_IMG}`](https://github.com/Etana/template/blob/master/var/TABS_MORE_IMG.md#readme)
+	* [`{TAGS}`](https://github.com/Etana/template/blob/master/var/TAGS.md#readme)
 	* [`{TAGS.L_SEARCH_TAGS}`](https://github.com/Etana/template/blob/master/var/TAGS.L_SEARCH_TAGS.md#readme)
 	* [`{T_ACTIVE_LINK}`](https://github.com/Etana/template/blob/master/var/T_ACTIVE_LINK.md#readme)
 	* [`{T_GOO_LINK}`](https://github.com/Etana/template/blob/master/var/T_GOO_LINK.md#readme)
@@ -70,3 +68,5 @@ Ce template affiche la page de recherche de votre forum : `/search`
 	* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
 	* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
 	* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)

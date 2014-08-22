@@ -15,10 +15,6 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`{.searchresults}`](https://github.com/Etana/template/blob/master/var/.searchresults.md#readme)
-	* [`{.switch_image_resize}`](https://github.com/Etana/template/blob/master/var/.switch_image_resize.md#readme)
-	* [`{.switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_in.md#readme)
-	* [`{.switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/.switch_user_logged_out.md#readme)
 	* [`{CURRENT_TIME}`](https://github.com/Etana/template/blob/master/var/CURRENT_TIME.md#readme)
 	* [`{ICON_TIME}`](https://github.com/Etana/template/blob/master/var/ICON_TIME.md#readme)
 	* [`{JS_DIR}`](https://github.com/Etana/template/blob/master/var/JS_DIR.md#readme)
@@ -46,6 +42,7 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
 	* [`{U_INDEX}`](https://github.com/Etana/template/blob/master/var/U_INDEX.md#readme)
 	* [`{U_SEARCH_NEW}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_NEW.md#readme)
 	* [`{U_SEARCH_SELF}`](https://github.com/Etana/template/blob/master/var/U_SEARCH_SELF.md#readme)
+	* [`{searchresults}`](https://github.com/Etana/template/blob/master/var/searchresults.md#readme)
 	* [`{searchresults.FORUM_NAME}`](https://github.com/Etana/template/blob/master/var/searchresults.FORUM_NAME.md#readme)
 	* [`{searchresults.L_MINI_POST_ALT}`](https://github.com/Etana/template/blob/master/var/searchresults.L_MINI_POST_ALT.md#readme)
 	* [`{searchresults.L_TOPIC_BY}`](https://github.com/Etana/template/blob/master/var/searchresults.L_TOPIC_BY.md#readme)
@@ -62,5 +59,8 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
 	* [`{searchresults.U_FORUM}`](https://github.com/Etana/template/blob/master/var/searchresults.U_FORUM.md#readme)
 	* [`{searchresults.U_POST}`](https://github.com/Etana/template/blob/master/var/searchresults.U_POST.md#readme)
 	* [`{searchresults.U_TOPIC}`](https://github.com/Etana/template/blob/master/var/searchresults.U_TOPIC.md#readme)
+	* [`{switch_image_resize}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.md#readme)
 	* [`{switch_image_resize.IMG_RESIZE_HEIGHT}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)
 	* [`{switch_image_resize.IMG_RESIZE_WIDTH}`](https://github.com/Etana/template/blob/master/var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)
+	* [`{switch_user_logged_in}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_in.md#readme)
+	* [`{switch_user_logged_out}`](https://github.com/Etana/template/blob/master/var/switch_user_logged_out.md#readme)
