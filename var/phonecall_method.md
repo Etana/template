@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN phonecall_method -->
-    contenu sur lequel on boucle
-    <!-- END phonecall_method -->
+contenu sur lequel on boucle
+<!-- END phonecall_method -->
 <!-- BEGIN phonecall_method -->
-    contenu sur lequel on boucle
-    <!-- END phonecall_method -->
+contenu sur lequel on boucle
+<!-- END phonecall_method -->
 <!-- BEGIN phonecall_method -->
-    contenu sur lequel on boucle
-    <!-- END phonecall_method -->
+contenu sur lequel on boucle
+<!-- END phonecall_method -->
 <!-- BEGIN phonecall_method -->
-    contenu sur lequel on boucle
-    <!-- END phonecall_method -->
+contenu sur lequel on boucle
+<!-- END phonecall_method -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/phonecall_method)

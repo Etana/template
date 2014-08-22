@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN display_forum -->
-    contenu sur lequel on boucle
-    <!-- END display_forum -->
+contenu sur lequel on boucle
+<!-- END display_forum -->
 <!-- BEGIN display_forum -->
-    contenu sur lequel on boucle
-    <!-- END display_forum -->
+contenu sur lequel on boucle
+<!-- END display_forum -->
 <!-- BEGIN display_forum -->
-    contenu sur lequel on boucle
-    <!-- END display_forum -->
+contenu sur lequel on boucle
+<!-- END display_forum -->
 <!-- BEGIN display_forum -->
-    contenu sur lequel on boucle
-    <!-- END display_forum -->
+contenu sur lequel on boucle
+<!-- END display_forum -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_forum)

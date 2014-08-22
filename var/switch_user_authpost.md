@@ -5,50 +5,50 @@
 
 ```smarty
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 <!-- BEGIN switch_user_authpost -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_authpost -->
+contenu sur lequel on boucle
+<!-- END switch_user_authpost -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_authpost)

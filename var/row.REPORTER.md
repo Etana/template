@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN row -->
-    {row.REPORTER}
-    <!-- END row -->
+{row.REPORTER}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORTER}
-    <!-- END row -->
+{row.REPORTER}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORTER}
-    <!-- END row -->
+{row.REPORTER}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORTER}
-    <!-- END row -->
+{row.REPORTER}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORTER}
-    <!-- END row -->
+{row.REPORTER}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORTER}
-    <!-- END row -->
+{row.REPORTER}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORTER}
-    <!-- END row -->
+{row.REPORTER}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORTER}
-    <!-- END row -->
+{row.REPORTER}
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.REPORTER)

@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN no_post -->
-    contenu sur lequel on boucle
-    <!-- END no_post -->
+contenu sur lequel on boucle
+<!-- END no_post -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_post)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN avatar_row -->
-    contenu sur lequel on boucle
-    <!-- END avatar_row -->
+contenu sur lequel on boucle
+<!-- END avatar_row -->
 <!-- BEGIN avatar_row -->
-    contenu sur lequel on boucle
-    <!-- END avatar_row -->
+contenu sur lequel on boucle
+<!-- END avatar_row -->
 <!-- BEGIN avatar_row -->
-    contenu sur lequel on boucle
-    <!-- END avatar_row -->
+contenu sur lequel on boucle
+<!-- END avatar_row -->
 <!-- BEGIN avatar_row -->
-    contenu sur lequel on boucle
-    <!-- END avatar_row -->
+contenu sur lequel on boucle
+<!-- END avatar_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/avatar_row)

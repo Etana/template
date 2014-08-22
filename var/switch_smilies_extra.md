@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_smilies_extra -->
-    contenu sur lequel on boucle
-    <!-- END switch_smilies_extra -->
+contenu sur lequel on boucle
+<!-- END switch_smilies_extra -->
 <!-- BEGIN switch_smilies_extra -->
-    contenu sur lequel on boucle
-    <!-- END switch_smilies_extra -->
+contenu sur lequel on boucle
+<!-- END switch_smilies_extra -->
 <!-- BEGIN switch_smilies_extra -->
-    contenu sur lequel on boucle
-    <!-- END switch_smilies_extra -->
+contenu sur lequel on boucle
+<!-- END switch_smilies_extra -->
 <!-- BEGIN switch_smilies_extra -->
-    contenu sur lequel on boucle
-    <!-- END switch_smilies_extra -->
+contenu sur lequel on boucle
+<!-- END switch_smilies_extra -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_smilies_extra)

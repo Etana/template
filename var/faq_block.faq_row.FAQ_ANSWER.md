@@ -6,44 +6,44 @@
 ```smarty
 <!-- BEGIN faq_block -->
     <!-- BEGIN faq_row -->
-        {faq_block.faq_row.FAQ_ANSWER}
-        <!-- END faq_row -->
-    <!-- END faq_block -->
+    {faq_block.faq_row.FAQ_ANSWER}
+    <!-- END faq_row -->
+<!-- END faq_block -->
 <!-- BEGIN faq_block -->
     <!-- BEGIN faq_row -->
-        {faq_block.faq_row.FAQ_ANSWER}
-        <!-- END faq_row -->
-    <!-- END faq_block -->
+    {faq_block.faq_row.FAQ_ANSWER}
+    <!-- END faq_row -->
+<!-- END faq_block -->
 <!-- BEGIN faq_block -->
     <!-- BEGIN faq_row -->
-        {faq_block.faq_row.FAQ_ANSWER}
-        <!-- END faq_row -->
-    <!-- END faq_block -->
+    {faq_block.faq_row.FAQ_ANSWER}
+    <!-- END faq_row -->
+<!-- END faq_block -->
 <!-- BEGIN faq_block -->
     <!-- BEGIN faq_row -->
-        {faq_block.faq_row.FAQ_ANSWER}
-        <!-- END faq_row -->
-    <!-- END faq_block -->
+    {faq_block.faq_row.FAQ_ANSWER}
+    <!-- END faq_row -->
+<!-- END faq_block -->
 <!-- BEGIN faq_block -->
     <!-- BEGIN faq_row -->
-        {faq_block.faq_row.FAQ_ANSWER}
-        <!-- END faq_row -->
-    <!-- END faq_block -->
+    {faq_block.faq_row.FAQ_ANSWER}
+    <!-- END faq_row -->
+<!-- END faq_block -->
 <!-- BEGIN faq_block -->
     <!-- BEGIN faq_row -->
-        {faq_block.faq_row.FAQ_ANSWER}
-        <!-- END faq_row -->
-    <!-- END faq_block -->
+    {faq_block.faq_row.FAQ_ANSWER}
+    <!-- END faq_row -->
+<!-- END faq_block -->
 <!-- BEGIN faq_block -->
     <!-- BEGIN faq_row -->
-        {faq_block.faq_row.FAQ_ANSWER}
-        <!-- END faq_row -->
-    <!-- END faq_block -->
+    {faq_block.faq_row.FAQ_ANSWER}
+    <!-- END faq_row -->
+<!-- END faq_block -->
 <!-- BEGIN faq_block -->
     <!-- BEGIN faq_row -->
-        {faq_block.faq_row.FAQ_ANSWER}
-        <!-- END faq_row -->
-    <!-- END faq_block -->
+    {faq_block.faq_row.FAQ_ANSWER}
+    <!-- END faq_row -->
+<!-- END faq_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block.faq_row.FAQ_ANSWER)

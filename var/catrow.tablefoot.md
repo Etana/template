@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN catrow -->
     <!-- BEGIN tablefoot -->
-        contenu sur lequel on boucle
-        <!-- END tablefoot -->
-    <!-- END catrow -->
+    contenu sur lequel on boucle
+    <!-- END tablefoot -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN tablefoot -->
-        contenu sur lequel on boucle
-        <!-- END tablefoot -->
-    <!-- END catrow -->
+    contenu sur lequel on boucle
+    <!-- END tablefoot -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN tablefoot -->
-        contenu sur lequel on boucle
-        <!-- END tablefoot -->
-    <!-- END catrow -->
+    contenu sur lequel on boucle
+    <!-- END tablefoot -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN tablefoot -->
-        contenu sur lequel on boucle
-        <!-- END tablefoot -->
-    <!-- END catrow -->
+    contenu sur lequel on boucle
+    <!-- END tablefoot -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.tablefoot)

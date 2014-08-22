@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN memberrow -->
     <!-- BEGIN switch_td_group -->
-        contenu sur lequel on boucle
-        <!-- END switch_td_group -->
-    <!-- END memberrow -->
+    contenu sur lequel on boucle
+    <!-- END switch_td_group -->
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
     <!-- BEGIN switch_td_group -->
-        contenu sur lequel on boucle
-        <!-- END switch_td_group -->
-    <!-- END memberrow -->
+    contenu sur lequel on boucle
+    <!-- END switch_td_group -->
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
     <!-- BEGIN switch_td_group -->
-        contenu sur lequel on boucle
-        <!-- END switch_td_group -->
-    <!-- END memberrow -->
+    contenu sur lequel on boucle
+    <!-- END switch_td_group -->
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
     <!-- BEGIN switch_td_group -->
-        contenu sur lequel on boucle
-        <!-- END switch_td_group -->
-    <!-- END memberrow -->
+    contenu sur lequel on boucle
+    <!-- END switch_td_group -->
+<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)

@@ -8,11 +8,11 @@
     <!-- BEGIN row -->
         <!-- BEGIN header_table -->
             <!-- BEGIN switch_forum_options -->
-                contenu sur lequel on boucle
-                <!-- END switch_forum_options -->
-            <!-- END header_table -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END switch_forum_options -->
+        <!-- END header_table -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.switch_forum_options)

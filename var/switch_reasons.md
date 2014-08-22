@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_reasons -->
-    contenu sur lequel on boucle
-    <!-- END switch_reasons -->
+contenu sur lequel on boucle
+<!-- END switch_reasons -->
 <!-- BEGIN switch_reasons -->
-    contenu sur lequel on boucle
-    <!-- END switch_reasons -->
+contenu sur lequel on boucle
+<!-- END switch_reasons -->
 <!-- BEGIN switch_reasons -->
-    contenu sur lequel on boucle
-    <!-- END switch_reasons -->
+contenu sur lequel on boucle
+<!-- END switch_reasons -->
 <!-- BEGIN switch_reasons -->
-    contenu sur lequel on boucle
-    <!-- END switch_reasons -->
+contenu sur lequel on boucle
+<!-- END switch_reasons -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_reasons)

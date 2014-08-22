@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_review_box -->
-    contenu sur lequel on boucle
-    <!-- END switch_review_box -->
+contenu sur lequel on boucle
+<!-- END switch_review_box -->
 <!-- BEGIN switch_review_box -->
-    contenu sur lequel on boucle
-    <!-- END switch_review_box -->
+contenu sur lequel on boucle
+<!-- END switch_review_box -->
 <!-- BEGIN switch_review_box -->
-    contenu sur lequel on boucle
-    <!-- END switch_review_box -->
+contenu sur lequel on boucle
+<!-- END switch_review_box -->
 <!-- BEGIN switch_review_box -->
-    contenu sur lequel on boucle
-    <!-- END switch_review_box -->
+contenu sur lequel on boucle
+<!-- END switch_review_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_review_box)

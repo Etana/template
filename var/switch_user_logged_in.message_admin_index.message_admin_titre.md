@@ -7,10 +7,10 @@
 <!-- BEGIN switch_user_logged_in -->
     <!-- BEGIN message_admin_index -->
         <!-- BEGIN message_admin_titre -->
-            contenu sur lequel on boucle
-            <!-- END message_admin_titre -->
-        <!-- END message_admin_index -->
-    <!-- END switch_user_logged_in -->
+        contenu sur lequel on boucle
+        <!-- END message_admin_titre -->
+    <!-- END message_admin_index -->
+<!-- END switch_user_logged_in -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_titre)

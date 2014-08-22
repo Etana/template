@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_rank -->
-    {switch_rank.L_TITLE}
-    <!-- END switch_rank -->
+{switch_rank.L_TITLE}
+<!-- END switch_rank -->
 <!-- BEGIN switch_rank -->
-    {switch_rank.L_TITLE}
-    <!-- END switch_rank -->
+{switch_rank.L_TITLE}
+<!-- END switch_rank -->
 <!-- BEGIN switch_rank -->
-    {switch_rank.L_TITLE}
-    <!-- END switch_rank -->
+{switch_rank.L_TITLE}
+<!-- END switch_rank -->
 <!-- BEGIN switch_rank -->
-    {switch_rank.L_TITLE}
-    <!-- END switch_rank -->
+{switch_rank.L_TITLE}
+<!-- END switch_rank -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rank.L_TITLE)

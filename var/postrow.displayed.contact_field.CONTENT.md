@@ -7,24 +7,24 @@
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN contact_field -->
-            {postrow.displayed.contact_field.CONTENT}
-            <!-- END contact_field -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+        {postrow.displayed.contact_field.CONTENT}
+        <!-- END contact_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN contact_field -->
-            {postrow.displayed.contact_field.CONTENT}
-            <!-- END contact_field -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+        {postrow.displayed.contact_field.CONTENT}
+        <!-- END contact_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN contact_field -->
-            {postrow.displayed.contact_field.CONTENT}
-            <!-- END contact_field -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+        {postrow.displayed.contact_field.CONTENT}
+        <!-- END contact_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field.CONTENT)

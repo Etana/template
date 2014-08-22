@@ -5,35 +5,35 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POSTER_NAME}
-    <!-- END postrow -->
+{postrow.POSTER_NAME}
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.POSTER_NAME)

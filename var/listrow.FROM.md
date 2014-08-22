@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    {listrow.FROM}
-    <!-- END listrow -->
+{listrow.FROM}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.FROM}
-    <!-- END listrow -->
+{listrow.FROM}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.FROM}
-    <!-- END listrow -->
+{listrow.FROM}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.FROM}
-    <!-- END listrow -->
+{listrow.FROM}
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.FROM)

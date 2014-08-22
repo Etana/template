@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN navlinks -->
     <!-- BEGIN pic_backup_link -->
-        contenu sur lequel on boucle
-        <!-- END pic_backup_link -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END pic_backup_link -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN pic_backup_link -->
-        contenu sur lequel on boucle
-        <!-- END pic_backup_link -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END pic_backup_link -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN pic_backup_link -->
-        contenu sur lequel on boucle
-        <!-- END pic_backup_link -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END pic_backup_link -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN pic_backup_link -->
-        contenu sur lequel on boucle
-        <!-- END pic_backup_link -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END pic_backup_link -->
+<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link)

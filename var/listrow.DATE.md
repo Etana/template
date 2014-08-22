@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    {listrow.DATE}
-    <!-- END listrow -->
+{listrow.DATE}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.DATE}
-    <!-- END listrow -->
+{listrow.DATE}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.DATE}
-    <!-- END listrow -->
+{listrow.DATE}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.DATE}
-    <!-- END listrow -->
+{listrow.DATE}
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.DATE)

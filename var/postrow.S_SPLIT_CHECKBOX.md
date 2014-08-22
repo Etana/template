@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    {postrow.S_SPLIT_CHECKBOX}
-    <!-- END postrow -->
+{postrow.S_SPLIT_CHECKBOX}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.S_SPLIT_CHECKBOX}
-    <!-- END postrow -->
+{postrow.S_SPLIT_CHECKBOX}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.S_SPLIT_CHECKBOX}
-    <!-- END postrow -->
+{postrow.S_SPLIT_CHECKBOX}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.S_SPLIT_CHECKBOX}
-    <!-- END postrow -->
+{postrow.S_SPLIT_CHECKBOX}
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.S_SPLIT_CHECKBOX)

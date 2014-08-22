@@ -8,11 +8,11 @@
     <!-- BEGIN recent_pics -->
         <!-- BEGIN recent_col -->
             <!-- BEGIN display_border -->
-                contenu sur lequel on boucle
-                <!-- END display_border -->
-            <!-- END recent_col -->
-        <!-- END recent_pics -->
-    <!-- END list_pics_block -->
+            contenu sur lequel on boucle
+            <!-- END display_border -->
+        <!-- END recent_col -->
+    <!-- END recent_pics -->
+<!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.display_border)

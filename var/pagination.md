@@ -5,20 +5,20 @@
 
 ```smarty
 <!-- BEGIN pagination -->
-    contenu sur lequel on boucle
-    <!-- END pagination -->
+contenu sur lequel on boucle
+<!-- END pagination -->
 <!-- BEGIN pagination -->
-    contenu sur lequel on boucle
-    <!-- END pagination -->
+contenu sur lequel on boucle
+<!-- END pagination -->
 <!-- BEGIN pagination -->
-    contenu sur lequel on boucle
-    <!-- END pagination -->
+contenu sur lequel on boucle
+<!-- END pagination -->
 <!-- BEGIN pagination -->
-    contenu sur lequel on boucle
-    <!-- END pagination -->
+contenu sur lequel on boucle
+<!-- END pagination -->
 <!-- BEGIN pagination -->
-    contenu sur lequel on boucle
-    <!-- END pagination -->
+contenu sur lequel on boucle
+<!-- END pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pagination)

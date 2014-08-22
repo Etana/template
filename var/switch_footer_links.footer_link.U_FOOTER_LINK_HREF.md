@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_footer_links -->
     <!-- BEGIN footer_link -->
-        {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
-        <!-- END footer_link -->
-    <!-- END switch_footer_links -->
+    {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
+    <!-- END footer_link -->
+<!-- END switch_footer_links -->
 <!-- BEGIN switch_footer_links -->
     <!-- BEGIN footer_link -->
-        {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
-        <!-- END footer_link -->
-    <!-- END switch_footer_links -->
+    {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
+    <!-- END footer_link -->
+<!-- END switch_footer_links -->
 <!-- BEGIN switch_footer_links -->
     <!-- BEGIN footer_link -->
-        {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
-        <!-- END footer_link -->
-    <!-- END switch_footer_links -->
+    {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
+    <!-- END footer_link -->
+<!-- END switch_footer_links -->
 <!-- BEGIN switch_footer_links -->
     <!-- BEGIN footer_link -->
-        {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
-        <!-- END footer_link -->
-    <!-- END switch_footer_links -->
+    {switch_footer_links.footer_link.U_FOOTER_LINK_HREF}
+    <!-- END footer_link -->
+<!-- END switch_footer_links -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF)

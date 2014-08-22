@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_allow_friendsfoes -->
-    contenu sur lequel on boucle
-    <!-- END switch_allow_friendsfoes -->
+contenu sur lequel on boucle
+<!-- END switch_allow_friendsfoes -->
 <!-- BEGIN switch_allow_friendsfoes -->
-    contenu sur lequel on boucle
-    <!-- END switch_allow_friendsfoes -->
+contenu sur lequel on boucle
+<!-- END switch_allow_friendsfoes -->
 <!-- BEGIN switch_allow_friendsfoes -->
-    contenu sur lequel on boucle
-    <!-- END switch_allow_friendsfoes -->
+contenu sur lequel on boucle
+<!-- END switch_allow_friendsfoes -->
 <!-- BEGIN switch_allow_friendsfoes -->
-    contenu sur lequel on boucle
-    <!-- END switch_allow_friendsfoes -->
+contenu sur lequel on boucle
+<!-- END switch_allow_friendsfoes -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_allow_friendsfoes)

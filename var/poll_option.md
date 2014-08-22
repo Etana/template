@@ -5,53 +5,53 @@
 
 ```smarty
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    contenu sur lequel on boucle
-    <!-- END poll_option -->
+contenu sur lequel on boucle
+<!-- END poll_option -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option)

@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN searchresults -->
     <!-- BEGIN watchsearch -->
-        contenu sur lequel on boucle
-        <!-- END watchsearch -->
-    <!-- END searchresults -->
+    contenu sur lequel on boucle
+    <!-- END watchsearch -->
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.watchsearch)

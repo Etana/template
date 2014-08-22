@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN phonecall_method -->
     <!-- BEGIN hidden_field -->
-        contenu sur lequel on boucle
-        <!-- END hidden_field -->
-    <!-- END phonecall_method -->
+    contenu sur lequel on boucle
+    <!-- END hidden_field -->
+<!-- END phonecall_method -->
 <!-- BEGIN phonecall_method -->
     <!-- BEGIN hidden_field -->
-        contenu sur lequel on boucle
-        <!-- END hidden_field -->
-    <!-- END phonecall_method -->
+    contenu sur lequel on boucle
+    <!-- END hidden_field -->
+<!-- END phonecall_method -->
 <!-- BEGIN phonecall_method -->
     <!-- BEGIN hidden_field -->
-        contenu sur lequel on boucle
-        <!-- END hidden_field -->
-    <!-- END phonecall_method -->
+    contenu sur lequel on boucle
+    <!-- END hidden_field -->
+<!-- END phonecall_method -->
 <!-- BEGIN phonecall_method -->
     <!-- BEGIN hidden_field -->
-        contenu sur lequel on boucle
-        <!-- END hidden_field -->
-    <!-- END phonecall_method -->
+    contenu sur lequel on boucle
+    <!-- END hidden_field -->
+<!-- END phonecall_method -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)

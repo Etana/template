@@ -8,38 +8,38 @@
     <!-- BEGIN recent_pics -->
         <!-- BEGIN recent_col -->
             <!-- BEGIN pic_locked -->
-                contenu sur lequel on boucle
-                <!-- END pic_locked -->
-            <!-- END recent_col -->
-        <!-- END recent_pics -->
-    <!-- END list_pics_block -->
+            contenu sur lequel on boucle
+            <!-- END pic_locked -->
+        <!-- END recent_col -->
+    <!-- END recent_pics -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN recent_pics -->
         <!-- BEGIN recent_col -->
             <!-- BEGIN pic_locked -->
-                contenu sur lequel on boucle
-                <!-- END pic_locked -->
-            <!-- END recent_col -->
-        <!-- END recent_pics -->
-    <!-- END list_pics_block -->
+            contenu sur lequel on boucle
+            <!-- END pic_locked -->
+        <!-- END recent_col -->
+    <!-- END recent_pics -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN recent_pics -->
         <!-- BEGIN recent_col -->
             <!-- BEGIN pic_locked -->
-                contenu sur lequel on boucle
-                <!-- END pic_locked -->
-            <!-- END recent_col -->
-        <!-- END recent_pics -->
-    <!-- END list_pics_block -->
+            contenu sur lequel on boucle
+            <!-- END pic_locked -->
+        <!-- END recent_col -->
+    <!-- END recent_pics -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN recent_pics -->
         <!-- BEGIN recent_col -->
             <!-- BEGIN pic_locked -->
-                contenu sur lequel on boucle
-                <!-- END pic_locked -->
-            <!-- END recent_col -->
-        <!-- END recent_pics -->
-    <!-- END list_pics_block -->
+            contenu sur lequel on boucle
+            <!-- END pic_locked -->
+        <!-- END recent_col -->
+    <!-- END recent_pics -->
+<!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.pic_locked)

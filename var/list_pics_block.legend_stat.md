@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN legend_stat -->
-        contenu sur lequel on boucle
-        <!-- END legend_stat -->
-    <!-- END list_pics_block -->
+    contenu sur lequel on boucle
+    <!-- END legend_stat -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN legend_stat -->
-        contenu sur lequel on boucle
-        <!-- END legend_stat -->
-    <!-- END list_pics_block -->
+    contenu sur lequel on boucle
+    <!-- END legend_stat -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN legend_stat -->
-        contenu sur lequel on boucle
-        <!-- END legend_stat -->
-    <!-- END list_pics_block -->
+    contenu sur lequel on boucle
+    <!-- END legend_stat -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN legend_stat -->
-        contenu sur lequel on boucle
-        <!-- END legend_stat -->
-    <!-- END list_pics_block -->
+    contenu sur lequel on boucle
+    <!-- END legend_stat -->
+<!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat)

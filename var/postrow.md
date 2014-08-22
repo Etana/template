@@ -5,53 +5,53 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    contenu sur lequel on boucle
-    <!-- END postrow -->
+contenu sur lequel on boucle
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow)

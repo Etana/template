@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_hidden_group -->
-    contenu sur lequel on boucle
-    <!-- END switch_hidden_group -->
+contenu sur lequel on boucle
+<!-- END switch_hidden_group -->
 <!-- BEGIN switch_hidden_group -->
-    contenu sur lequel on boucle
-    <!-- END switch_hidden_group -->
+contenu sur lequel on boucle
+<!-- END switch_hidden_group -->
 <!-- BEGIN switch_hidden_group -->
-    contenu sur lequel on boucle
-    <!-- END switch_hidden_group -->
+contenu sur lequel on boucle
+<!-- END switch_hidden_group -->
 <!-- BEGIN switch_hidden_group -->
-    contenu sur lequel on boucle
-    <!-- END switch_hidden_group -->
+contenu sur lequel on boucle
+<!-- END switch_hidden_group -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_hidden_group)

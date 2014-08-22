@@ -7,31 +7,31 @@
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->
-            {classical_row.recent_topic_row.switch_poster.U_POSTER}
-            <!-- END switch_poster -->
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+        {classical_row.recent_topic_row.switch_poster.U_POSTER}
+        <!-- END switch_poster -->
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->
-            {classical_row.recent_topic_row.switch_poster.U_POSTER}
-            <!-- END switch_poster -->
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+        {classical_row.recent_topic_row.switch_poster.U_POSTER}
+        <!-- END switch_poster -->
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->
-            {classical_row.recent_topic_row.switch_poster.U_POSTER}
-            <!-- END switch_poster -->
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+        {classical_row.recent_topic_row.switch_poster.U_POSTER}
+        <!-- END switch_poster -->
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->
-            {classical_row.recent_topic_row.switch_poster.U_POSTER}
-            <!-- END switch_poster -->
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+        {classical_row.recent_topic_row.switch_poster.U_POSTER}
+        <!-- END switch_poster -->
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster.U_POSTER)

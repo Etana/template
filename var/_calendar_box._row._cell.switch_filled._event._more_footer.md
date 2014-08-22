@@ -10,13 +10,13 @@
             <!-- BEGIN switch_filled -->
                 <!-- BEGIN _event -->
                     <!-- BEGIN _more_footer -->
-                        contenu sur lequel on boucle
-                        <!-- END _more_footer -->
-                    <!-- END _event -->
-                <!-- END switch_filled -->
-            <!-- END _cell -->
-        <!-- END _row -->
-    <!-- END _calendar_box -->
+                    contenu sur lequel on boucle
+                    <!-- END _more_footer -->
+                <!-- END _event -->
+            <!-- END switch_filled -->
+        <!-- END _cell -->
+    <!-- END _row -->
+<!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event._more_footer)

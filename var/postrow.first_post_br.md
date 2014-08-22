@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN first_post_br -->
-        contenu sur lequel on boucle
-        <!-- END first_post_br -->
-    <!-- END postrow -->
+    contenu sur lequel on boucle
+    <!-- END first_post_br -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.first_post_br)

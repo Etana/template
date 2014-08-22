@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_type_toggle -->
-    contenu sur lequel on boucle
-    <!-- END switch_type_toggle -->
+contenu sur lequel on boucle
+<!-- END switch_type_toggle -->
 <!-- BEGIN switch_type_toggle -->
-    contenu sur lequel on boucle
-    <!-- END switch_type_toggle -->
+contenu sur lequel on boucle
+<!-- END switch_type_toggle -->
 <!-- BEGIN switch_type_toggle -->
-    contenu sur lequel on boucle
-    <!-- END switch_type_toggle -->
+contenu sur lequel on boucle
+<!-- END switch_type_toggle -->
 <!-- BEGIN switch_type_toggle -->
-    contenu sur lequel on boucle
-    <!-- END switch_type_toggle -->
+contenu sur lequel on boucle
+<!-- END switch_type_toggle -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_type_toggle)

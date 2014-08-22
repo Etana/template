@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN moderation_panel -->
-    {moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE}
-    <!-- END moderation_panel -->
+{moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE}
+<!-- END moderation_panel -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE)

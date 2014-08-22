@@ -6,19 +6,19 @@
 ```smarty
 <!-- BEGIN scrolling_row -->
     <!-- BEGIN recent_topic_row -->
-        {scrolling_row.recent_topic_row.L_TOPIC_TITLE}
-        <!-- END recent_topic_row -->
-    <!-- END scrolling_row -->
+    {scrolling_row.recent_topic_row.L_TOPIC_TITLE}
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
 <!-- BEGIN scrolling_row -->
     <!-- BEGIN recent_topic_row -->
-        {scrolling_row.recent_topic_row.L_TOPIC_TITLE}
-        <!-- END recent_topic_row -->
-    <!-- END scrolling_row -->
+    {scrolling_row.recent_topic_row.L_TOPIC_TITLE}
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
 <!-- BEGIN scrolling_row -->
     <!-- BEGIN recent_topic_row -->
-        {scrolling_row.recent_topic_row.L_TOPIC_TITLE}
-        <!-- END recent_topic_row -->
-    <!-- END scrolling_row -->
+    {scrolling_row.recent_topic_row.L_TOPIC_TITLE}
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.L_TOPIC_TITLE)

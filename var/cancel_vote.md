@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN cancel_vote -->
-    contenu sur lequel on boucle
-    <!-- END cancel_vote -->
+contenu sur lequel on boucle
+<!-- END cancel_vote -->
 <!-- BEGIN cancel_vote -->
-    contenu sur lequel on boucle
-    <!-- END cancel_vote -->
+contenu sur lequel on boucle
+<!-- END cancel_vote -->
 <!-- BEGIN cancel_vote -->
-    contenu sur lequel on boucle
-    <!-- END cancel_vote -->
+contenu sur lequel on boucle
+<!-- END cancel_vote -->
 <!-- BEGIN cancel_vote -->
-    contenu sur lequel on boucle
-    <!-- END cancel_vote -->
+contenu sur lequel on boucle
+<!-- END cancel_vote -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cancel_vote)

@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_head -->
-    contenu sur lequel on boucle
-    <!-- END switch_head -->
+contenu sur lequel on boucle
+<!-- END switch_head -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_head)

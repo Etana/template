@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN giefmod1 -->
-    {giefmod1.MODVAR}
-    <!-- END giefmod1 -->
+{giefmod1.MODVAR}
+<!-- END giefmod1 -->
 <!-- BEGIN giefmod1 -->
-    {giefmod1.MODVAR}
-    <!-- END giefmod1 -->
+{giefmod1.MODVAR}
+<!-- END giefmod1 -->
 <!-- BEGIN giefmod1 -->
-    {giefmod1.MODVAR}
-    <!-- END giefmod1 -->
+{giefmod1.MODVAR}
+<!-- END giefmod1 -->
 <!-- BEGIN giefmod1 -->
-    {giefmod1.MODVAR}
-    <!-- END giefmod1 -->
+{giefmod1.MODVAR}
+<!-- END giefmod1 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod1.MODVAR)

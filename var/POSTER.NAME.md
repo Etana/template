@@ -5,53 +5,53 @@
 
 ```smarty
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NAME}
-    <!-- END POSTER -->
+{POSTER.NAME}
+<!-- END POSTER -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER.NAME)

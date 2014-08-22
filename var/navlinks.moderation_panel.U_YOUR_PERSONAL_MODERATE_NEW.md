@@ -6,14 +6,14 @@
 ```smarty
 <!-- BEGIN navlinks -->
     <!-- BEGIN moderation_panel -->
-        {navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}
-        <!-- END moderation_panel -->
-    <!-- END navlinks -->
+    {navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}
+    <!-- END moderation_panel -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN moderation_panel -->
-        {navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}
-        <!-- END moderation_panel -->
-    <!-- END navlinks -->
+    {navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}
+    <!-- END moderation_panel -->
+<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW)

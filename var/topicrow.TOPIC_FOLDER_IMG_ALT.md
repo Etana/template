@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN topicrow -->
-    {topicrow.TOPIC_FOLDER_IMG_ALT}
-    <!-- END topicrow -->
+{topicrow.TOPIC_FOLDER_IMG_ALT}
+<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG_ALT)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    {listrow.PRIVMSG_ICON}
-    <!-- END listrow -->
+{listrow.PRIVMSG_ICON}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.PRIVMSG_ICON}
-    <!-- END listrow -->
+{listrow.PRIVMSG_ICON}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.PRIVMSG_ICON}
-    <!-- END listrow -->
+{listrow.PRIVMSG_ICON}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.PRIVMSG_ICON}
-    <!-- END listrow -->
+{listrow.PRIVMSG_ICON}
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.PRIVMSG_ICON)

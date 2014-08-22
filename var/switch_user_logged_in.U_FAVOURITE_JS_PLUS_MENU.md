@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_user_logged_in -->
-    {switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}
-    <!-- END switch_user_logged_in -->
+{switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}
+<!-- END switch_user_logged_in -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU)

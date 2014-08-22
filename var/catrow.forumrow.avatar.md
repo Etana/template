@@ -7,31 +7,31 @@
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN avatar -->
-            contenu sur lequel on boucle
-            <!-- END avatar -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        contenu sur lequel on boucle
+        <!-- END avatar -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN avatar -->
-            contenu sur lequel on boucle
-            <!-- END avatar -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        contenu sur lequel on boucle
+        <!-- END avatar -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN avatar -->
-            contenu sur lequel on boucle
-            <!-- END avatar -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        contenu sur lequel on boucle
+        <!-- END avatar -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN avatar -->
-            contenu sur lequel on boucle
-            <!-- END avatar -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        contenu sur lequel on boucle
+        <!-- END avatar -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar)

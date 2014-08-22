@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN classical_row -->
-    contenu sur lequel on boucle
-    <!-- END classical_row -->
+contenu sur lequel on boucle
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
-    contenu sur lequel on boucle
-    <!-- END classical_row -->
+contenu sur lequel on boucle
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
-    contenu sur lequel on boucle
-    <!-- END classical_row -->
+contenu sur lequel on boucle
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
-    contenu sur lequel on boucle
-    <!-- END classical_row -->
+contenu sur lequel on boucle
+<!-- END classical_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/classical_row)

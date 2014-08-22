@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN poll_option_textarea -->
-    contenu sur lequel on boucle
-    <!-- END poll_option_textarea -->
+contenu sur lequel on boucle
+<!-- END poll_option_textarea -->
 <!-- BEGIN poll_option_textarea -->
-    contenu sur lequel on boucle
-    <!-- END poll_option_textarea -->
+contenu sur lequel on boucle
+<!-- END poll_option_textarea -->
 <!-- BEGIN poll_option_textarea -->
-    contenu sur lequel on boucle
-    <!-- END poll_option_textarea -->
+contenu sur lequel on boucle
+<!-- END poll_option_textarea -->
 <!-- BEGIN poll_option_textarea -->
-    contenu sur lequel on boucle
-    <!-- END poll_option_textarea -->
+contenu sur lequel on boucle
+<!-- END poll_option_textarea -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_textarea)

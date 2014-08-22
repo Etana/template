@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_profile_advanced -->
-        {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}
-        <!-- END switch_profile_advanced -->
-    <!-- END switch_preferences_menu -->
+    {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}
+    <!-- END switch_profile_advanced -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_profile_advanced -->
-        {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}
-        <!-- END switch_profile_advanced -->
-    <!-- END switch_preferences_menu -->
+    {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}
+    <!-- END switch_profile_advanced -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_profile_advanced -->
-        {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}
-        <!-- END switch_profile_advanced -->
-    <!-- END switch_preferences_menu -->
+    {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}
+    <!-- END switch_profile_advanced -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_profile_advanced -->
-        {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}
-        <!-- END switch_profile_advanced -->
-    <!-- END switch_preferences_menu -->
+    {switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE}
+    <!-- END switch_profile_advanced -->
+<!-- END switch_preferences_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_profile_advanced.PROFILE_MSGS_NONE)

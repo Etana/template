@@ -5,41 +5,41 @@
 
 ```smarty
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.NB_POSTS}
-    <!-- END POSTER -->
+{POSTER.NB_POSTS}
+<!-- END POSTER -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER.NB_POSTS)

@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN switch_head -->
     <!-- BEGIN switch_user_logged_in -->
-        contenu sur lequel on boucle
-        <!-- END switch_user_logged_in -->
-    <!-- END switch_head -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_logged_in -->
+<!-- END switch_head -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_head.switch_user_logged_in)

@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN switch_user_logged_in -->
     <!-- BEGIN message_admin_index -->
-        contenu sur lequel on boucle
-        <!-- END message_admin_index -->
-    <!-- END switch_user_logged_in -->
+    contenu sur lequel on boucle
+    <!-- END message_admin_index -->
+<!-- END switch_user_logged_in -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index)

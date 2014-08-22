@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN hitskin_preview -->
-    contenu sur lequel on boucle
-    <!-- END hitskin_preview -->
+contenu sur lequel on boucle
+<!-- END hitskin_preview -->
 <!-- BEGIN hitskin_preview -->
-    contenu sur lequel on boucle
-    <!-- END hitskin_preview -->
+contenu sur lequel on boucle
+<!-- END hitskin_preview -->
 <!-- BEGIN hitskin_preview -->
-    contenu sur lequel on boucle
-    <!-- END hitskin_preview -->
+contenu sur lequel on boucle
+<!-- END hitskin_preview -->
 <!-- BEGIN hitskin_preview -->
-    contenu sur lequel on boucle
-    <!-- END hitskin_preview -->
+contenu sur lequel on boucle
+<!-- END hitskin_preview -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview)

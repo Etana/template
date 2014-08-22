@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_privmsg -->
     <!-- BEGIN switch_username -->
-        {switch_privmsg.switch_username.USERNAME}
-        <!-- END switch_username -->
-    <!-- END switch_privmsg -->
+    {switch_privmsg.switch_username.USERNAME}
+    <!-- END switch_username -->
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
     <!-- BEGIN switch_username -->
-        {switch_privmsg.switch_username.USERNAME}
-        <!-- END switch_username -->
-    <!-- END switch_privmsg -->
+    {switch_privmsg.switch_username.USERNAME}
+    <!-- END switch_username -->
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
     <!-- BEGIN switch_username -->
-        {switch_privmsg.switch_username.USERNAME}
-        <!-- END switch_username -->
-    <!-- END switch_privmsg -->
+    {switch_privmsg.switch_username.USERNAME}
+    <!-- END switch_username -->
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
     <!-- BEGIN switch_username -->
-        {switch_privmsg.switch_username.USERNAME}
-        <!-- END switch_username -->
-    <!-- END switch_privmsg -->
+    {switch_privmsg.switch_username.USERNAME}
+    <!-- END switch_username -->
+<!-- END switch_privmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)

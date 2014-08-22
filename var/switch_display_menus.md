@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_display_menus -->
-    contenu sur lequel on boucle
-    <!-- END switch_display_menus -->
+contenu sur lequel on boucle
+<!-- END switch_display_menus -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_display_menus)

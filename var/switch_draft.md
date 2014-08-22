@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_draft -->
-    contenu sur lequel on boucle
-    <!-- END switch_draft -->
+contenu sur lequel on boucle
+<!-- END switch_draft -->
 <!-- BEGIN switch_draft -->
-    contenu sur lequel on boucle
-    <!-- END switch_draft -->
+contenu sur lequel on boucle
+<!-- END switch_draft -->
 <!-- BEGIN switch_draft -->
-    contenu sur lequel on boucle
-    <!-- END switch_draft -->
+contenu sur lequel on boucle
+<!-- END switch_draft -->
 <!-- BEGIN switch_draft -->
-    contenu sur lequel on boucle
-    <!-- END switch_draft -->
+contenu sur lequel on boucle
+<!-- END switch_draft -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_draft)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_subject -->
-    contenu sur lequel on boucle
-    <!-- END switch_subject -->
+contenu sur lequel on boucle
+<!-- END switch_subject -->
 <!-- BEGIN switch_subject -->
-    contenu sur lequel on boucle
-    <!-- END switch_subject -->
+contenu sur lequel on boucle
+<!-- END switch_subject -->
 <!-- BEGIN switch_subject -->
-    contenu sur lequel on boucle
-    <!-- END switch_subject -->
+contenu sur lequel on boucle
+<!-- END switch_subject -->
 <!-- BEGIN switch_subject -->
-    contenu sur lequel on boucle
-    <!-- END switch_subject -->
+contenu sur lequel on boucle
+<!-- END switch_subject -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_subject)

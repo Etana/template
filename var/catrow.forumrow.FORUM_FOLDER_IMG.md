@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.FORUM_FOLDER_IMG}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.FORUM_FOLDER_IMG}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.FORUM_FOLDER_IMG}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.FORUM_FOLDER_IMG}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.FORUM_FOLDER_IMG}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.FORUM_FOLDER_IMG}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.FORUM_FOLDER_IMG}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.FORUM_FOLDER_IMG}
+    <!-- END forumrow -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.FORUM_FOLDER_IMG)

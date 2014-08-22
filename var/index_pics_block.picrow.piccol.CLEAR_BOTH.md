@@ -7,24 +7,24 @@
 <!-- BEGIN index_pics_block -->
     <!-- BEGIN picrow -->
         <!-- BEGIN piccol -->
-            {index_pics_block.picrow.piccol.CLEAR_BOTH}
-            <!-- END piccol -->
-        <!-- END picrow -->
-    <!-- END index_pics_block -->
+        {index_pics_block.picrow.piccol.CLEAR_BOTH}
+        <!-- END piccol -->
+    <!-- END picrow -->
+<!-- END index_pics_block -->
 <!-- BEGIN index_pics_block -->
     <!-- BEGIN picrow -->
         <!-- BEGIN piccol -->
-            {index_pics_block.picrow.piccol.CLEAR_BOTH}
-            <!-- END piccol -->
-        <!-- END picrow -->
-    <!-- END index_pics_block -->
+        {index_pics_block.picrow.piccol.CLEAR_BOTH}
+        <!-- END piccol -->
+    <!-- END picrow -->
+<!-- END index_pics_block -->
 <!-- BEGIN index_pics_block -->
     <!-- BEGIN picrow -->
         <!-- BEGIN piccol -->
-            {index_pics_block.picrow.piccol.CLEAR_BOTH}
-            <!-- END piccol -->
-        <!-- END picrow -->
-    <!-- END index_pics_block -->
+        {index_pics_block.picrow.piccol.CLEAR_BOTH}
+        <!-- END piccol -->
+    <!-- END picrow -->
+<!-- END index_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.picrow.piccol.CLEAR_BOTH)

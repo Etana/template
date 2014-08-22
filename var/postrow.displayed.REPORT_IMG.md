@@ -6,14 +6,14 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.REPORT_IMG}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.REPORT_IMG}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.REPORT_IMG}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.REPORT_IMG}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.REPORT_IMG)

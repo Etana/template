@@ -5,11 +5,11 @@
 
 ```smarty
 <!-- BEGIN TAGS -->
-    contenu sur lequel on boucle
-    <!-- END TAGS -->
+contenu sur lequel on boucle
+<!-- END TAGS -->
 <!-- BEGIN TAGS -->
-    contenu sur lequel on boucle
-    <!-- END TAGS -->
+contenu sur lequel on boucle
+<!-- END TAGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TAGS)

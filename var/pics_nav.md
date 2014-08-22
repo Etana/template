@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN pics_nav -->
-    contenu sur lequel on boucle
-    <!-- END pics_nav -->
+contenu sur lequel on boucle
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
-    contenu sur lequel on boucle
-    <!-- END pics_nav -->
+contenu sur lequel on boucle
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
-    contenu sur lequel on boucle
-    <!-- END pics_nav -->
+contenu sur lequel on boucle
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
-    contenu sur lequel on boucle
-    <!-- END pics_nav -->
+contenu sur lequel on boucle
+<!-- END pics_nav -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav)

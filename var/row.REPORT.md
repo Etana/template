@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN row -->
-    {row.REPORT}
-    <!-- END row -->
+{row.REPORT}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORT}
-    <!-- END row -->
+{row.REPORT}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORT}
-    <!-- END row -->
+{row.REPORT}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REPORT}
-    <!-- END row -->
+{row.REPORT}
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.REPORT)

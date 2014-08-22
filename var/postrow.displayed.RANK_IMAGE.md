@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.RANK_IMAGE}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.RANK_IMAGE}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.RANK_IMAGE}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.RANK_IMAGE}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.RANK_IMAGE}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.RANK_IMAGE}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.RANK_IMAGE}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.RANK_IMAGE}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.RANK_IMAGE)

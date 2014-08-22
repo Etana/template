@@ -6,44 +6,44 @@
 ```smarty
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
-        {classical_row.recent_topic_row.S_POSTTIME}
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+    {classical_row.recent_topic_row.S_POSTTIME}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
-        {classical_row.recent_topic_row.S_POSTTIME}
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+    {classical_row.recent_topic_row.S_POSTTIME}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
-        {classical_row.recent_topic_row.S_POSTTIME}
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+    {classical_row.recent_topic_row.S_POSTTIME}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
-        {classical_row.recent_topic_row.S_POSTTIME}
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+    {classical_row.recent_topic_row.S_POSTTIME}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
-        {classical_row.recent_topic_row.S_POSTTIME}
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+    {classical_row.recent_topic_row.S_POSTTIME}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
-        {classical_row.recent_topic_row.S_POSTTIME}
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+    {classical_row.recent_topic_row.S_POSTTIME}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
-        {classical_row.recent_topic_row.S_POSTTIME}
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+    {classical_row.recent_topic_row.S_POSTTIME}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 <!-- BEGIN classical_row -->
     <!-- BEGIN recent_topic_row -->
-        {classical_row.recent_topic_row.S_POSTTIME}
-        <!-- END recent_topic_row -->
-    <!-- END classical_row -->
+    {classical_row.recent_topic_row.S_POSTTIME}
+    <!-- END recent_topic_row -->
+<!-- END classical_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.S_POSTTIME)

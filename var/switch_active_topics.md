@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_active_topics -->
-    contenu sur lequel on boucle
-    <!-- END switch_active_topics -->
+contenu sur lequel on boucle
+<!-- END switch_active_topics -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_active_topics)

@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN picrow -->
-    {picrow.POSTER}
-    <!-- END picrow -->
+{picrow.POSTER}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.POSTER}
-    <!-- END picrow -->
+{picrow.POSTER}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.POSTER}
-    <!-- END picrow -->
+{picrow.POSTER}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.POSTER}
-    <!-- END picrow -->
+{picrow.POSTER}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.POSTER}
-    <!-- END picrow -->
+{picrow.POSTER}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.POSTER}
-    <!-- END picrow -->
+{picrow.POSTER}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.POSTER}
-    <!-- END picrow -->
+{picrow.POSTER}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.POSTER}
-    <!-- END picrow -->
+{picrow.POSTER}
+<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.POSTER)

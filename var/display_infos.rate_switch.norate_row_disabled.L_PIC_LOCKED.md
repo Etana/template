@@ -7,24 +7,24 @@
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
         <!-- BEGIN norate_row_disabled -->
-            {display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}
-            <!-- END norate_row_disabled -->
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+        {display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}
+        <!-- END norate_row_disabled -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
         <!-- BEGIN norate_row_disabled -->
-            {display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}
-            <!-- END norate_row_disabled -->
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+        {display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}
+        <!-- END norate_row_disabled -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
         <!-- BEGIN norate_row_disabled -->
-            {display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}
-            <!-- END norate_row_disabled -->
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+        {display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED}
+        <!-- END norate_row_disabled -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.norate_row_disabled.L_PIC_LOCKED)

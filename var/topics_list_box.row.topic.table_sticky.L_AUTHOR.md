@@ -8,11 +8,11 @@
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN table_sticky -->
-                {topics_list_box.row.topic.table_sticky.L_AUTHOR}
-                <!-- END table_sticky -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            {topics_list_box.row.topic.table_sticky.L_AUTHOR}
+            <!-- END table_sticky -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.L_AUTHOR)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_report_popup -->
-    contenu sur lequel on boucle
-    <!-- END switch_report_popup -->
+contenu sur lequel on boucle
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    contenu sur lequel on boucle
-    <!-- END switch_report_popup -->
+contenu sur lequel on boucle
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    contenu sur lequel on boucle
-    <!-- END switch_report_popup -->
+contenu sur lequel on boucle
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    contenu sur lequel on boucle
-    <!-- END switch_report_popup -->
+contenu sur lequel on boucle
+<!-- END switch_report_popup -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup)

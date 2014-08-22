@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN row -->
     <!-- BEGIN switch_edit -->
-        contenu sur lequel on boucle
-        <!-- END switch_edit -->
-    <!-- END row -->
+    contenu sur lequel on boucle
+    <!-- END switch_edit -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN switch_edit -->
-        contenu sur lequel on boucle
-        <!-- END switch_edit -->
-    <!-- END row -->
+    contenu sur lequel on boucle
+    <!-- END switch_edit -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN switch_edit -->
-        contenu sur lequel on boucle
-        <!-- END switch_edit -->
-    <!-- END row -->
+    contenu sur lequel on boucle
+    <!-- END switch_edit -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN switch_edit -->
-        contenu sur lequel on boucle
-        <!-- END switch_edit -->
-    <!-- END row -->
+    contenu sur lequel on boucle
+    <!-- END switch_edit -->
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.switch_edit)

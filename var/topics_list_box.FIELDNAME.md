@@ -5,53 +5,53 @@
 
 ```smarty
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
-    {topics_list_box.FIELDNAME}
-    <!-- END topics_list_box -->
+{topics_list_box.FIELDNAME}
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.FIELDNAME)

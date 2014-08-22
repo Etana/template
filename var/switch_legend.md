@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN switch_legend -->
-    contenu sur lequel on boucle
-    <!-- END switch_legend -->
+contenu sur lequel on boucle
+<!-- END switch_legend -->
 <!-- BEGIN switch_legend -->
-    contenu sur lequel on boucle
-    <!-- END switch_legend -->
+contenu sur lequel on boucle
+<!-- END switch_legend -->
 <!-- BEGIN switch_legend -->
-    contenu sur lequel on boucle
-    <!-- END switch_legend -->
+contenu sur lequel on boucle
+<!-- END switch_legend -->
 <!-- BEGIN switch_legend -->
-    contenu sur lequel on boucle
-    <!-- END switch_legend -->
+contenu sur lequel on boucle
+<!-- END switch_legend -->
 <!-- BEGIN switch_legend -->
-    contenu sur lequel on boucle
-    <!-- END switch_legend -->
+contenu sur lequel on boucle
+<!-- END switch_legend -->
 <!-- BEGIN switch_legend -->
-    contenu sur lequel on boucle
-    <!-- END switch_legend -->
+contenu sur lequel on boucle
+<!-- END switch_legend -->
 <!-- BEGIN switch_legend -->
-    contenu sur lequel on boucle
-    <!-- END switch_legend -->
+contenu sur lequel on boucle
+<!-- END switch_legend -->
 <!-- BEGIN switch_legend -->
-    contenu sur lequel on boucle
-    <!-- END switch_legend -->
+contenu sur lequel on boucle
+<!-- END switch_legend -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_legend)

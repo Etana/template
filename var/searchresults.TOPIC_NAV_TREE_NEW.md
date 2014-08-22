@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    {searchresults.TOPIC_NAV_TREE_NEW}
-    <!-- END searchresults -->
+{searchresults.TOPIC_NAV_TREE_NEW}
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_NAV_TREE_NEW)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN IMGS -->
-    {IMGS.ALT}
-    <!-- END IMGS -->
+{IMGS.ALT}
+<!-- END IMGS -->
 <!-- BEGIN IMGS -->
-    {IMGS.ALT}
-    <!-- END IMGS -->
+{IMGS.ALT}
+<!-- END IMGS -->
 <!-- BEGIN IMGS -->
-    {IMGS.ALT}
-    <!-- END IMGS -->
+{IMGS.ALT}
+<!-- END IMGS -->
 <!-- BEGIN IMGS -->
-    {IMGS.ALT}
-    <!-- END IMGS -->
+{IMGS.ALT}
+<!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.ALT)

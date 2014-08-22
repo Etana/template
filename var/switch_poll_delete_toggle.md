@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_poll_delete_toggle -->
-    contenu sur lequel on boucle
-    <!-- END switch_poll_delete_toggle -->
+contenu sur lequel on boucle
+<!-- END switch_poll_delete_toggle -->
 <!-- BEGIN switch_poll_delete_toggle -->
-    contenu sur lequel on boucle
-    <!-- END switch_poll_delete_toggle -->
+contenu sur lequel on boucle
+<!-- END switch_poll_delete_toggle -->
 <!-- BEGIN switch_poll_delete_toggle -->
-    contenu sur lequel on boucle
-    <!-- END switch_poll_delete_toggle -->
+contenu sur lequel on boucle
+<!-- END switch_poll_delete_toggle -->
 <!-- BEGIN switch_poll_delete_toggle -->
-    contenu sur lequel on boucle
-    <!-- END switch_poll_delete_toggle -->
+contenu sur lequel on boucle
+<!-- END switch_poll_delete_toggle -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_poll_delete_toggle)

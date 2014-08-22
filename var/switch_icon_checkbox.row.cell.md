@@ -7,31 +7,31 @@
 <!-- BEGIN switch_icon_checkbox -->
     <!-- BEGIN row -->
         <!-- BEGIN cell -->
-            contenu sur lequel on boucle
-            <!-- END cell -->
-        <!-- END row -->
-    <!-- END switch_icon_checkbox -->
+        contenu sur lequel on boucle
+        <!-- END cell -->
+    <!-- END row -->
+<!-- END switch_icon_checkbox -->
 <!-- BEGIN switch_icon_checkbox -->
     <!-- BEGIN row -->
         <!-- BEGIN cell -->
-            contenu sur lequel on boucle
-            <!-- END cell -->
-        <!-- END row -->
-    <!-- END switch_icon_checkbox -->
+        contenu sur lequel on boucle
+        <!-- END cell -->
+    <!-- END row -->
+<!-- END switch_icon_checkbox -->
 <!-- BEGIN switch_icon_checkbox -->
     <!-- BEGIN row -->
         <!-- BEGIN cell -->
-            contenu sur lequel on boucle
-            <!-- END cell -->
-        <!-- END row -->
-    <!-- END switch_icon_checkbox -->
+        contenu sur lequel on boucle
+        <!-- END cell -->
+    <!-- END row -->
+<!-- END switch_icon_checkbox -->
 <!-- BEGIN switch_icon_checkbox -->
     <!-- BEGIN row -->
         <!-- BEGIN cell -->
-            contenu sur lequel on boucle
-            <!-- END cell -->
-        <!-- END row -->
-    <!-- END switch_icon_checkbox -->
+        contenu sur lequel on boucle
+        <!-- END cell -->
+    <!-- END row -->
+<!-- END switch_icon_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell)

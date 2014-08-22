@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_namechange_disallowed -->
-        contenu sur lequel on boucle
-        <!-- END switch_namechange_disallowed -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_namechange_disallowed -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_namechange_disallowed -->
-        contenu sur lequel on boucle
-        <!-- END switch_namechange_disallowed -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_namechange_disallowed -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_namechange_disallowed -->
-        contenu sur lequel on boucle
-        <!-- END switch_namechange_disallowed -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_namechange_disallowed -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_namechange_disallowed -->
-        contenu sur lequel on boucle
-        <!-- END switch_namechange_disallowed -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_namechange_disallowed -->
+<!-- END switch_informations_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_namechange_disallowed)

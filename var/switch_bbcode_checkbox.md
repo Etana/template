@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_bbcode_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_bbcode_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_bbcode_checkbox -->
 <!-- BEGIN switch_bbcode_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_bbcode_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_bbcode_checkbox -->
 <!-- BEGIN switch_bbcode_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_bbcode_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_bbcode_checkbox -->
 <!-- BEGIN switch_bbcode_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_bbcode_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_bbcode_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_bbcode_checkbox)

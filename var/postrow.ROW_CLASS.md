@@ -5,26 +5,26 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    {postrow.ROW_CLASS}
-    <!-- END postrow -->
+{postrow.ROW_CLASS}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.ROW_CLASS}
-    <!-- END postrow -->
+{postrow.ROW_CLASS}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.ROW_CLASS}
-    <!-- END postrow -->
+{postrow.ROW_CLASS}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.ROW_CLASS}
-    <!-- END postrow -->
+{postrow.ROW_CLASS}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.ROW_CLASS}
-    <!-- END postrow -->
+{postrow.ROW_CLASS}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.ROW_CLASS}
-    <!-- END postrow -->
+{postrow.ROW_CLASS}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.ROW_CLASS}
-    <!-- END postrow -->
+{postrow.ROW_CLASS}
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.ROW_CLASS)

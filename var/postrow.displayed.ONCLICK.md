@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.ONCLICK}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.ONCLICK}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.ONCLICK)

@@ -6,34 +6,34 @@
 ```smarty
 <!-- BEGIN _calendar_box -->
     <!-- BEGIN switch_not_anonymous -->
-        contenu sur lequel on boucle
-        <!-- END switch_not_anonymous -->
-    <!-- END _calendar_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_not_anonymous -->
+<!-- END _calendar_box -->
 <!-- BEGIN _calendar_box -->
     <!-- BEGIN switch_not_anonymous -->
-        contenu sur lequel on boucle
-        <!-- END switch_not_anonymous -->
-    <!-- END _calendar_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_not_anonymous -->
+<!-- END _calendar_box -->
 <!-- BEGIN _calendar_box -->
     <!-- BEGIN switch_not_anonymous -->
-        contenu sur lequel on boucle
-        <!-- END switch_not_anonymous -->
-    <!-- END _calendar_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_not_anonymous -->
+<!-- END _calendar_box -->
 <!-- BEGIN _calendar_box -->
     <!-- BEGIN switch_not_anonymous -->
-        contenu sur lequel on boucle
-        <!-- END switch_not_anonymous -->
-    <!-- END _calendar_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_not_anonymous -->
+<!-- END _calendar_box -->
 <!-- BEGIN _calendar_box -->
     <!-- BEGIN switch_not_anonymous -->
-        contenu sur lequel on boucle
-        <!-- END switch_not_anonymous -->
-    <!-- END _calendar_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_not_anonymous -->
+<!-- END _calendar_box -->
 <!-- BEGIN _calendar_box -->
     <!-- BEGIN switch_not_anonymous -->
-        contenu sur lequel on boucle
-        <!-- END switch_not_anonymous -->
-    <!-- END _calendar_box -->
+    contenu sur lequel on boucle
+    <!-- END switch_not_anonymous -->
+<!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.switch_not_anonymous)

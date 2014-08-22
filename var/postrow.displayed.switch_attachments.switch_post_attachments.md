@@ -8,38 +8,38 @@
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_attachments -->
             <!-- BEGIN switch_post_attachments -->
-                contenu sur lequel on boucle
-                <!-- END switch_post_attachments -->
-            <!-- END switch_attachments -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_post_attachments -->
+        <!-- END switch_attachments -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_attachments -->
             <!-- BEGIN switch_post_attachments -->
-                contenu sur lequel on boucle
-                <!-- END switch_post_attachments -->
-            <!-- END switch_attachments -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_post_attachments -->
+        <!-- END switch_attachments -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_attachments -->
             <!-- BEGIN switch_post_attachments -->
-                contenu sur lequel on boucle
-                <!-- END switch_post_attachments -->
-            <!-- END switch_attachments -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_post_attachments -->
+        <!-- END switch_attachments -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_attachments -->
             <!-- BEGIN switch_post_attachments -->
-                contenu sur lequel on boucle
-                <!-- END switch_post_attachments -->
-            <!-- END switch_attachments -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_post_attachments -->
+        <!-- END switch_attachments -->
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.switch_post_attachments)

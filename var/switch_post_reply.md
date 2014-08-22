@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN switch_post_reply -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_reply -->
+contenu sur lequel on boucle
+<!-- END switch_post_reply -->
 <!-- BEGIN switch_post_reply -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_reply -->
+contenu sur lequel on boucle
+<!-- END switch_post_reply -->
 <!-- BEGIN switch_post_reply -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_reply -->
+contenu sur lequel on boucle
+<!-- END switch_post_reply -->
 <!-- BEGIN switch_post_reply -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_reply -->
+contenu sur lequel on boucle
+<!-- END switch_post_reply -->
 <!-- BEGIN switch_post_reply -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_reply -->
+contenu sur lequel on boucle
+<!-- END switch_post_reply -->
 <!-- BEGIN switch_post_reply -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_reply -->
+contenu sur lequel on boucle
+<!-- END switch_post_reply -->
 <!-- BEGIN switch_post_reply -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_reply -->
+contenu sur lequel on boucle
+<!-- END switch_post_reply -->
 <!-- BEGIN switch_post_reply -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_reply -->
+contenu sur lequel on boucle
+<!-- END switch_post_reply -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_post_reply)

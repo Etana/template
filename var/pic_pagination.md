@@ -5,20 +5,20 @@
 
 ```smarty
 <!-- BEGIN pic_pagination -->
-    contenu sur lequel on boucle
-    <!-- END pic_pagination -->
+contenu sur lequel on boucle
+<!-- END pic_pagination -->
 <!-- BEGIN pic_pagination -->
-    contenu sur lequel on boucle
-    <!-- END pic_pagination -->
+contenu sur lequel on boucle
+<!-- END pic_pagination -->
 <!-- BEGIN pic_pagination -->
-    contenu sur lequel on boucle
-    <!-- END pic_pagination -->
+contenu sur lequel on boucle
+<!-- END pic_pagination -->
 <!-- BEGIN pic_pagination -->
-    contenu sur lequel on boucle
-    <!-- END pic_pagination -->
+contenu sur lequel on boucle
+<!-- END pic_pagination -->
 <!-- BEGIN pic_pagination -->
-    contenu sur lequel on boucle
-    <!-- END pic_pagination -->
+contenu sur lequel on boucle
+<!-- END pic_pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pic_pagination)

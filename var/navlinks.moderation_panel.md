@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN navlinks -->
     <!-- BEGIN moderation_panel -->
-        contenu sur lequel on boucle
-        <!-- END moderation_panel -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN moderation_panel -->
-        contenu sur lequel on boucle
-        <!-- END moderation_panel -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN moderation_panel -->
-        contenu sur lequel on boucle
-        <!-- END moderation_panel -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN moderation_panel -->
-        contenu sur lequel on boucle
-        <!-- END moderation_panel -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END moderation_panel -->
+<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel)

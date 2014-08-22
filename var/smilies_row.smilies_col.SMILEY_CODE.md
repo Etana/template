@@ -6,44 +6,44 @@
 ```smarty
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        {smilies_row.smilies_col.SMILEY_CODE}
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    {smilies_row.smilies_col.SMILEY_CODE}
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        {smilies_row.smilies_col.SMILEY_CODE}
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    {smilies_row.smilies_col.SMILEY_CODE}
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        {smilies_row.smilies_col.SMILEY_CODE}
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    {smilies_row.smilies_col.SMILEY_CODE}
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        {smilies_row.smilies_col.SMILEY_CODE}
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    {smilies_row.smilies_col.SMILEY_CODE}
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        {smilies_row.smilies_col.SMILEY_CODE}
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    {smilies_row.smilies_col.SMILEY_CODE}
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        {smilies_row.smilies_col.SMILEY_CODE}
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    {smilies_row.smilies_col.SMILEY_CODE}
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        {smilies_row.smilies_col.SMILEY_CODE}
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    {smilies_row.smilies_col.SMILEY_CODE}
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        {smilies_row.smilies_col.SMILEY_CODE}
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    {smilies_row.smilies_col.SMILEY_CODE}
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_CODE)

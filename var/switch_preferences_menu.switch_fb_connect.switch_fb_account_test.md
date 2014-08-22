@@ -7,10 +7,10 @@
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_fb_connect -->
         <!-- BEGIN switch_fb_account_test -->
-            contenu sur lequel on boucle
-            <!-- END switch_fb_account_test -->
-        <!-- END switch_fb_connect -->
-    <!-- END switch_preferences_menu -->
+        contenu sur lequel on boucle
+        <!-- END switch_fb_account_test -->
+    <!-- END switch_fb_connect -->
+<!-- END switch_preferences_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test)

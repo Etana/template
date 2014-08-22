@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN memberrow -->
-    {memberrow.USER_POSTS_IMG}
-    <!-- END memberrow -->
+{memberrow.USER_POSTS_IMG}
+<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.USER_POSTS_IMG)

@@ -5,20 +5,20 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    {searchresults.TOPIC_FOLDER_IMG}
-    <!-- END searchresults -->
+{searchresults.TOPIC_FOLDER_IMG}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.TOPIC_FOLDER_IMG}
-    <!-- END searchresults -->
+{searchresults.TOPIC_FOLDER_IMG}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.TOPIC_FOLDER_IMG}
-    <!-- END searchresults -->
+{searchresults.TOPIC_FOLDER_IMG}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.TOPIC_FOLDER_IMG}
-    <!-- END searchresults -->
+{searchresults.TOPIC_FOLDER_IMG}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.TOPIC_FOLDER_IMG}
-    <!-- END searchresults -->
+{searchresults.TOPIC_FOLDER_IMG}
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_FOLDER_IMG)

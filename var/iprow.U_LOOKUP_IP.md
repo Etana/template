@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN iprow -->
-    {iprow.U_LOOKUP_IP}
-    <!-- END iprow -->
+{iprow.U_LOOKUP_IP}
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    {iprow.U_LOOKUP_IP}
-    <!-- END iprow -->
+{iprow.U_LOOKUP_IP}
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    {iprow.U_LOOKUP_IP}
-    <!-- END iprow -->
+{iprow.U_LOOKUP_IP}
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    {iprow.U_LOOKUP_IP}
-    <!-- END iprow -->
+{iprow.U_LOOKUP_IP}
+<!-- END iprow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/iprow.U_LOOKUP_IP)

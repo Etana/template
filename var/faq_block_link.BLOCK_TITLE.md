@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN faq_block_link -->
-    {faq_block_link.BLOCK_TITLE}
-    <!-- END faq_block_link -->
+{faq_block_link.BLOCK_TITLE}
+<!-- END faq_block_link -->
 <!-- BEGIN faq_block_link -->
-    {faq_block_link.BLOCK_TITLE}
-    <!-- END faq_block_link -->
+{faq_block_link.BLOCK_TITLE}
+<!-- END faq_block_link -->
 <!-- BEGIN faq_block_link -->
-    {faq_block_link.BLOCK_TITLE}
-    <!-- END faq_block_link -->
+{faq_block_link.BLOCK_TITLE}
+<!-- END faq_block_link -->
 <!-- BEGIN faq_block_link -->
-    {faq_block_link.BLOCK_TITLE}
-    <!-- END faq_block_link -->
+{faq_block_link.BLOCK_TITLE}
+<!-- END faq_block_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block_link.BLOCK_TITLE)

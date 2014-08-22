@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_no_members -->
-    contenu sur lequel on boucle
-    <!-- END switch_no_members -->
+contenu sur lequel on boucle
+<!-- END switch_no_members -->
 <!-- BEGIN switch_no_members -->
-    contenu sur lequel on boucle
-    <!-- END switch_no_members -->
+contenu sur lequel on boucle
+<!-- END switch_no_members -->
 <!-- BEGIN switch_no_members -->
-    contenu sur lequel on boucle
-    <!-- END switch_no_members -->
+contenu sur lequel on boucle
+<!-- END switch_no_members -->
 <!-- BEGIN switch_no_members -->
-    contenu sur lequel on boucle
-    <!-- END switch_no_members -->
+contenu sur lequel on boucle
+<!-- END switch_no_members -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_members)

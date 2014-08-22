@@ -5,26 +5,26 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    {listrow.ROW_CLASS}
-    <!-- END listrow -->
+{listrow.ROW_CLASS}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.ROW_CLASS}
-    <!-- END listrow -->
+{listrow.ROW_CLASS}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.ROW_CLASS}
-    <!-- END listrow -->
+{listrow.ROW_CLASS}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.ROW_CLASS}
-    <!-- END listrow -->
+{listrow.ROW_CLASS}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.ROW_CLASS}
-    <!-- END listrow -->
+{listrow.ROW_CLASS}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.ROW_CLASS}
-    <!-- END listrow -->
+{listrow.ROW_CLASS}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.ROW_CLASS}
-    <!-- END listrow -->
+{listrow.ROW_CLASS}
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.ROW_CLASS)

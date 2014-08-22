@@ -9,12 +9,12 @@
         <!-- BEGIN topic -->
             <!-- BEGIN multi_selection -->
                 <!-- BEGIN line_sticky -->
-                    contenu sur lequel on boucle
-                    <!-- END line_sticky -->
-                <!-- END multi_selection -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+                contenu sur lequel on boucle
+                <!-- END line_sticky -->
+            <!-- END multi_selection -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.multi_selection.line_sticky)

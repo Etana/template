@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN searchresults -->
     <!-- BEGIN line_sticky -->
-        contenu sur lequel on boucle
-        <!-- END line_sticky -->
-    <!-- END searchresults -->
+    contenu sur lequel on boucle
+    <!-- END line_sticky -->
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.line_sticky)

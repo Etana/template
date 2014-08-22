@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
-        {row.cell.DAY}
-        <!-- END cell -->
-    <!-- END row -->
+    {row.cell.DAY}
+    <!-- END cell -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
-        {row.cell.DAY}
-        <!-- END cell -->
-    <!-- END row -->
+    {row.cell.DAY}
+    <!-- END cell -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
-        {row.cell.DAY}
-        <!-- END cell -->
-    <!-- END row -->
+    {row.cell.DAY}
+    <!-- END cell -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
-        {row.cell.DAY}
-        <!-- END cell -->
-    <!-- END row -->
+    {row.cell.DAY}
+    <!-- END cell -->
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.cell.DAY)

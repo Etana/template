@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN privmsg_extensions -->
-    contenu sur lequel on boucle
-    <!-- END privmsg_extensions -->
+contenu sur lequel on boucle
+<!-- END privmsg_extensions -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/privmsg_extensions)

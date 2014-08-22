@@ -5,53 +5,53 @@
 
 ```smarty
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 <!-- BEGIN poll_option -->
-    {poll_option.POLL_OPTION_CAPTION}
-    <!-- END poll_option -->
+{poll_option.POLL_OPTION_CAPTION}
+<!-- END poll_option -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_CAPTION)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    {searchresults.U_VIEW_FORUM}
-    <!-- END searchresults -->
+{searchresults.U_VIEW_FORUM}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.U_VIEW_FORUM}
-    <!-- END searchresults -->
+{searchresults.U_VIEW_FORUM}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.U_VIEW_FORUM}
-    <!-- END searchresults -->
+{searchresults.U_VIEW_FORUM}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.U_VIEW_FORUM}
-    <!-- END searchresults -->
+{searchresults.U_VIEW_FORUM}
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.U_VIEW_FORUM)

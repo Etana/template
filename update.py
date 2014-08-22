@@ -210,10 +210,10 @@ for var in variables:
                 b_parts = var_parts
             else:
                 continue
-            i = 0
+            i = -1
             for b_part in b_parts:
-                f.write((i * 4 * ' ') + '<!-- BEGIN '+b_part+' -->\n')
                 i += 1
+                f.write((i * 4 * ' ') + '<!-- BEGIN '+b_part+' -->\n')
             f.write((i*4*' ')+slug +'\n')
             for b_part in reversed(b_parts):
                 f.write((i * 4 * ' ') + '<!-- END '+b_part+' -->\n')

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_edit -->
-    contenu sur lequel on boucle
-    <!-- END switch_edit -->
+contenu sur lequel on boucle
+<!-- END switch_edit -->
 <!-- BEGIN switch_edit -->
-    contenu sur lequel on boucle
-    <!-- END switch_edit -->
+contenu sur lequel on boucle
+<!-- END switch_edit -->
 <!-- BEGIN switch_edit -->
-    contenu sur lequel on boucle
-    <!-- END switch_edit -->
+contenu sur lequel on boucle
+<!-- END switch_edit -->
 <!-- BEGIN switch_edit -->
-    contenu sur lequel on boucle
-    <!-- END switch_edit -->
+contenu sur lequel on boucle
+<!-- END switch_edit -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_edit)

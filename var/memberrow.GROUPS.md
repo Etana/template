@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN memberrow -->
-    {memberrow.GROUPS}
-    <!-- END memberrow -->
+{memberrow.GROUPS}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.GROUPS}
-    <!-- END memberrow -->
+{memberrow.GROUPS}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.GROUPS}
-    <!-- END memberrow -->
+{memberrow.GROUPS}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.GROUPS}
-    <!-- END memberrow -->
+{memberrow.GROUPS}
+<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.GROUPS)

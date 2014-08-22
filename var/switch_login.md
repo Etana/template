@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_login -->
+contenu sur lequel on boucle
+<!-- END switch_login -->
 <!-- BEGIN switch_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_login -->
+contenu sur lequel on boucle
+<!-- END switch_login -->
 <!-- BEGIN switch_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_login -->
+contenu sur lequel on boucle
+<!-- END switch_login -->
 <!-- BEGIN switch_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_login -->
+contenu sur lequel on boucle
+<!-- END switch_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login)

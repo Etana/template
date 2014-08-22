@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_compat_meta -->
-    contenu sur lequel on boucle
-    <!-- END switch_compat_meta -->
+contenu sur lequel on boucle
+<!-- END switch_compat_meta -->
 <!-- BEGIN switch_compat_meta -->
-    contenu sur lequel on boucle
-    <!-- END switch_compat_meta -->
+contenu sur lequel on boucle
+<!-- END switch_compat_meta -->
 <!-- BEGIN switch_compat_meta -->
-    contenu sur lequel on boucle
-    <!-- END switch_compat_meta -->
+contenu sur lequel on boucle
+<!-- END switch_compat_meta -->
 <!-- BEGIN switch_compat_meta -->
-    contenu sur lequel on boucle
-    <!-- END switch_compat_meta -->
+contenu sur lequel on boucle
+<!-- END switch_compat_meta -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta)

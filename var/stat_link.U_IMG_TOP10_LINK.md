@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN stat_link -->
-    {stat_link.U_IMG_TOP10_LINK}
-    <!-- END stat_link -->
+{stat_link.U_IMG_TOP10_LINK}
+<!-- END stat_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/stat_link.U_IMG_TOP10_LINK)

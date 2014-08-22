@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_report_popup -->
-    {switch_report_popup.S_HEIGHT}
-    <!-- END switch_report_popup -->
+{switch_report_popup.S_HEIGHT}
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    {switch_report_popup.S_HEIGHT}
-    <!-- END switch_report_popup -->
+{switch_report_popup.S_HEIGHT}
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    {switch_report_popup.S_HEIGHT}
-    <!-- END switch_report_popup -->
+{switch_report_popup.S_HEIGHT}
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    {switch_report_popup.S_HEIGHT}
-    <!-- END switch_report_popup -->
+{switch_report_popup.S_HEIGHT}
+<!-- END switch_report_popup -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup.S_HEIGHT)

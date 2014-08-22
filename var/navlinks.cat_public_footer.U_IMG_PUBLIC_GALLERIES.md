@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_public_footer -->
-        {navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}
-        <!-- END cat_public_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}
+    <!-- END cat_public_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_public_footer -->
-        {navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}
-        <!-- END cat_public_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}
+    <!-- END cat_public_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_public_footer -->
-        {navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}
-        <!-- END cat_public_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}
+    <!-- END cat_public_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_public_footer -->
-        {navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}
-        <!-- END cat_public_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}
+    <!-- END cat_public_footer -->
+<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES)

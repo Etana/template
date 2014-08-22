@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN navlinks -->
     <!-- BEGIN moderation_panel -->
-        {navlinks.moderation_panel.U_URL_YOUR_PERSONAL_MODERATE}
-        <!-- END moderation_panel -->
-    <!-- END navlinks -->
+    {navlinks.moderation_panel.U_URL_YOUR_PERSONAL_MODERATE}
+    <!-- END moderation_panel -->
+<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_URL_YOUR_PERSONAL_MODERATE)

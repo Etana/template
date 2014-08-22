@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN topicrow -->
-    {topicrow.REPLIES}
-    <!-- END topicrow -->
+{topicrow.REPLIES}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.REPLIES}
-    <!-- END topicrow -->
+{topicrow.REPLIES}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.REPLIES}
-    <!-- END topicrow -->
+{topicrow.REPLIES}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.REPLIES}
-    <!-- END topicrow -->
+{topicrow.REPLIES}
+<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.REPLIES)

@@ -5,14 +5,14 @@
 
 ```smarty
 <!-- BEGIN switch_plus_menu -->
-    contenu sur lequel on boucle
-    <!-- END switch_plus_menu -->
+contenu sur lequel on boucle
+<!-- END switch_plus_menu -->
 <!-- BEGIN switch_plus_menu -->
-    contenu sur lequel on boucle
-    <!-- END switch_plus_menu -->
+contenu sur lequel on boucle
+<!-- END switch_plus_menu -->
 <!-- BEGIN switch_plus_menu -->
-    contenu sur lequel on boucle
-    <!-- END switch_plus_menu -->
+contenu sur lequel on boucle
+<!-- END switch_plus_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_plus_menu)

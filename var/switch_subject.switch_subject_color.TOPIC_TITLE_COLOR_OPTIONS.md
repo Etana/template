@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_subject -->
     <!-- BEGIN switch_subject_color -->
-        {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
-        <!-- END switch_subject_color -->
-    <!-- END switch_subject -->
+    {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
+    <!-- END switch_subject_color -->
+<!-- END switch_subject -->
 <!-- BEGIN switch_subject -->
     <!-- BEGIN switch_subject_color -->
-        {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
-        <!-- END switch_subject_color -->
-    <!-- END switch_subject -->
+    {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
+    <!-- END switch_subject_color -->
+<!-- END switch_subject -->
 <!-- BEGIN switch_subject -->
     <!-- BEGIN switch_subject_color -->
-        {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
-        <!-- END switch_subject_color -->
-    <!-- END switch_subject -->
+    {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
+    <!-- END switch_subject_color -->
+<!-- END switch_subject -->
 <!-- BEGIN switch_subject -->
     <!-- BEGIN switch_subject_color -->
-        {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
-        <!-- END switch_subject_color -->
-    <!-- END switch_subject -->
+    {switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS}
+    <!-- END switch_subject_color -->
+<!-- END switch_subject -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_OPTIONS)

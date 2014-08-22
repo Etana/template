@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_facebook_logout -->
-    {switch_facebook_logout.SERVER_NAME}
-    <!-- END switch_facebook_logout -->
+{switch_facebook_logout.SERVER_NAME}
+<!-- END switch_facebook_logout -->
 <!-- BEGIN switch_facebook_logout -->
-    {switch_facebook_logout.SERVER_NAME}
-    <!-- END switch_facebook_logout -->
+{switch_facebook_logout.SERVER_NAME}
+<!-- END switch_facebook_logout -->
 <!-- BEGIN switch_facebook_logout -->
-    {switch_facebook_logout.SERVER_NAME}
-    <!-- END switch_facebook_logout -->
+{switch_facebook_logout.SERVER_NAME}
+<!-- END switch_facebook_logout -->
 <!-- BEGIN switch_facebook_logout -->
-    {switch_facebook_logout.SERVER_NAME}
-    <!-- END switch_facebook_logout -->
+{switch_facebook_logout.SERVER_NAME}
+<!-- END switch_facebook_logout -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_facebook_logout.SERVER_NAME)

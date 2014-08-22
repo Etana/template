@@ -7,24 +7,24 @@
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_profile_fields_register -->
         <!-- BEGIN field -->
-            contenu sur lequel on boucle
-            <!-- END field -->
-        <!-- END switch_profile_fields_register -->
-    <!-- END switch_informations_menu -->
+        contenu sur lequel on boucle
+        <!-- END field -->
+    <!-- END switch_profile_fields_register -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_profile_fields_register -->
         <!-- BEGIN field -->
-            contenu sur lequel on boucle
-            <!-- END field -->
-        <!-- END switch_profile_fields_register -->
-    <!-- END switch_informations_menu -->
+        contenu sur lequel on boucle
+        <!-- END field -->
+    <!-- END switch_profile_fields_register -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_profile_fields_register -->
         <!-- BEGIN field -->
-            contenu sur lequel on boucle
-            <!-- END field -->
-        <!-- END switch_profile_fields_register -->
-    <!-- END switch_informations_menu -->
+        contenu sur lequel on boucle
+        <!-- END field -->
+    <!-- END switch_profile_fields_register -->
+<!-- END switch_informations_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields_register.field)

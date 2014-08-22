@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_privmsg -->
     <!-- BEGIN switch_privmsg_group -->
-        {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
-        <!-- END switch_privmsg_group -->
-    <!-- END switch_privmsg -->
+    {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
+    <!-- END switch_privmsg_group -->
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
     <!-- BEGIN switch_privmsg_group -->
-        {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
-        <!-- END switch_privmsg_group -->
-    <!-- END switch_privmsg -->
+    {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
+    <!-- END switch_privmsg_group -->
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
     <!-- BEGIN switch_privmsg_group -->
-        {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
-        <!-- END switch_privmsg_group -->
-    <!-- END switch_privmsg -->
+    {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
+    <!-- END switch_privmsg_group -->
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
     <!-- BEGIN switch_privmsg_group -->
-        {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
-        <!-- END switch_privmsg_group -->
-    <!-- END switch_privmsg -->
+    {switch_privmsg.switch_privmsg_group.L_OR_GROUP}
+    <!-- END switch_privmsg_group -->
+<!-- END switch_privmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.L_OR_GROUP)

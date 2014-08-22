@@ -5,26 +5,26 @@
 
 ```smarty
 <!-- BEGIN sepia_bw_enabled -->
-    contenu sur lequel on boucle
-    <!-- END sepia_bw_enabled -->
+contenu sur lequel on boucle
+<!-- END sepia_bw_enabled -->
 <!-- BEGIN sepia_bw_enabled -->
-    contenu sur lequel on boucle
-    <!-- END sepia_bw_enabled -->
+contenu sur lequel on boucle
+<!-- END sepia_bw_enabled -->
 <!-- BEGIN sepia_bw_enabled -->
-    contenu sur lequel on boucle
-    <!-- END sepia_bw_enabled -->
+contenu sur lequel on boucle
+<!-- END sepia_bw_enabled -->
 <!-- BEGIN sepia_bw_enabled -->
-    contenu sur lequel on boucle
-    <!-- END sepia_bw_enabled -->
+contenu sur lequel on boucle
+<!-- END sepia_bw_enabled -->
 <!-- BEGIN sepia_bw_enabled -->
-    contenu sur lequel on boucle
-    <!-- END sepia_bw_enabled -->
+contenu sur lequel on boucle
+<!-- END sepia_bw_enabled -->
 <!-- BEGIN sepia_bw_enabled -->
-    contenu sur lequel on boucle
-    <!-- END sepia_bw_enabled -->
+contenu sur lequel on boucle
+<!-- END sepia_bw_enabled -->
 <!-- BEGIN sepia_bw_enabled -->
-    contenu sur lequel on boucle
-    <!-- END sepia_bw_enabled -->
+contenu sur lequel on boucle
+<!-- END sepia_bw_enabled -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/sepia_bw_enabled)

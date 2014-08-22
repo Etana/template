@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN faq_block_link -->
-    contenu sur lequel on boucle
-    <!-- END faq_block_link -->
+contenu sur lequel on boucle
+<!-- END faq_block_link -->
 <!-- BEGIN faq_block_link -->
-    contenu sur lequel on boucle
-    <!-- END faq_block_link -->
+contenu sur lequel on boucle
+<!-- END faq_block_link -->
 <!-- BEGIN faq_block_link -->
-    contenu sur lequel on boucle
-    <!-- END faq_block_link -->
+contenu sur lequel on boucle
+<!-- END faq_block_link -->
 <!-- BEGIN faq_block_link -->
-    contenu sur lequel on boucle
-    <!-- END faq_block_link -->
+contenu sur lequel on boucle
+<!-- END faq_block_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block_link)

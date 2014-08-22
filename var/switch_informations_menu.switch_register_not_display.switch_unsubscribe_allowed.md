@@ -7,31 +7,31 @@
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_register_not_display -->
         <!-- BEGIN switch_unsubscribe_allowed -->
-            contenu sur lequel on boucle
-            <!-- END switch_unsubscribe_allowed -->
-        <!-- END switch_register_not_display -->
-    <!-- END switch_informations_menu -->
+        contenu sur lequel on boucle
+        <!-- END switch_unsubscribe_allowed -->
+    <!-- END switch_register_not_display -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_register_not_display -->
         <!-- BEGIN switch_unsubscribe_allowed -->
-            contenu sur lequel on boucle
-            <!-- END switch_unsubscribe_allowed -->
-        <!-- END switch_register_not_display -->
-    <!-- END switch_informations_menu -->
+        contenu sur lequel on boucle
+        <!-- END switch_unsubscribe_allowed -->
+    <!-- END switch_register_not_display -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_register_not_display -->
         <!-- BEGIN switch_unsubscribe_allowed -->
-            contenu sur lequel on boucle
-            <!-- END switch_unsubscribe_allowed -->
-        <!-- END switch_register_not_display -->
-    <!-- END switch_informations_menu -->
+        contenu sur lequel on boucle
+        <!-- END switch_unsubscribe_allowed -->
+    <!-- END switch_register_not_display -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_register_not_display -->
         <!-- BEGIN switch_unsubscribe_allowed -->
-            contenu sur lequel on boucle
-            <!-- END switch_unsubscribe_allowed -->
-        <!-- END switch_register_not_display -->
-    <!-- END switch_informations_menu -->
+        contenu sur lequel on boucle
+        <!-- END switch_unsubscribe_allowed -->
+    <!-- END switch_register_not_display -->
+<!-- END switch_informations_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed)

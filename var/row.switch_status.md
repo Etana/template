@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN row -->
     <!-- BEGIN switch_status -->
-        contenu sur lequel on boucle
-        <!-- END switch_status -->
-    <!-- END row -->
+    contenu sur lequel on boucle
+    <!-- END switch_status -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN switch_status -->
-        contenu sur lequel on boucle
-        <!-- END switch_status -->
-    <!-- END row -->
+    contenu sur lequel on boucle
+    <!-- END switch_status -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN switch_status -->
-        contenu sur lequel on boucle
-        <!-- END switch_status -->
-    <!-- END row -->
+    contenu sur lequel on boucle
+    <!-- END switch_status -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN switch_status -->
-        contenu sur lequel on boucle
-        <!-- END switch_status -->
-    <!-- END row -->
+    contenu sur lequel on boucle
+    <!-- END switch_status -->
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.switch_status)

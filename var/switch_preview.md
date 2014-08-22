@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_preview -->
-    contenu sur lequel on boucle
-    <!-- END switch_preview -->
+contenu sur lequel on boucle
+<!-- END switch_preview -->
 <!-- BEGIN switch_preview -->
-    contenu sur lequel on boucle
-    <!-- END switch_preview -->
+contenu sur lequel on boucle
+<!-- END switch_preview -->
 <!-- BEGIN switch_preview -->
-    contenu sur lequel on boucle
-    <!-- END switch_preview -->
+contenu sur lequel on boucle
+<!-- END switch_preview -->
 <!-- BEGIN switch_preview -->
-    contenu sur lequel on boucle
-    <!-- END switch_preview -->
+contenu sur lequel on boucle
+<!-- END switch_preview -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preview)

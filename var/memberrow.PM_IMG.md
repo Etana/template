@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN memberrow -->
-    {memberrow.PM_IMG}
-    <!-- END memberrow -->
+{memberrow.PM_IMG}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.PM_IMG}
-    <!-- END memberrow -->
+{memberrow.PM_IMG}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.PM_IMG}
-    <!-- END memberrow -->
+{memberrow.PM_IMG}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.PM_IMG}
-    <!-- END memberrow -->
+{memberrow.PM_IMG}
+<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.PM_IMG)

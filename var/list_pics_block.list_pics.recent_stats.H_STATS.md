@@ -7,31 +7,31 @@
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN list_pics -->
         <!-- BEGIN recent_stats -->
-            {list_pics_block.list_pics.recent_stats.H_STATS}
-            <!-- END recent_stats -->
-        <!-- END list_pics -->
-    <!-- END list_pics_block -->
+        {list_pics_block.list_pics.recent_stats.H_STATS}
+        <!-- END recent_stats -->
+    <!-- END list_pics -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN list_pics -->
         <!-- BEGIN recent_stats -->
-            {list_pics_block.list_pics.recent_stats.H_STATS}
-            <!-- END recent_stats -->
-        <!-- END list_pics -->
-    <!-- END list_pics_block -->
+        {list_pics_block.list_pics.recent_stats.H_STATS}
+        <!-- END recent_stats -->
+    <!-- END list_pics -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN list_pics -->
         <!-- BEGIN recent_stats -->
-            {list_pics_block.list_pics.recent_stats.H_STATS}
-            <!-- END recent_stats -->
-        <!-- END list_pics -->
-    <!-- END list_pics_block -->
+        {list_pics_block.list_pics.recent_stats.H_STATS}
+        <!-- END recent_stats -->
+    <!-- END list_pics -->
+<!-- END list_pics_block -->
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN list_pics -->
         <!-- BEGIN recent_stats -->
-            {list_pics_block.list_pics.recent_stats.H_STATS}
-            <!-- END recent_stats -->
-        <!-- END list_pics -->
-    <!-- END list_pics_block -->
+        {list_pics_block.list_pics.recent_stats.H_STATS}
+        <!-- END recent_stats -->
+    <!-- END list_pics -->
+<!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics.recent_stats.H_STATS)

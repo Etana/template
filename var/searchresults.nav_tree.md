@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN searchresults -->
     <!-- BEGIN nav_tree -->
-        contenu sur lequel on boucle
-        <!-- END nav_tree -->
-    <!-- END searchresults -->
+    contenu sur lequel on boucle
+    <!-- END nav_tree -->
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.nav_tree)

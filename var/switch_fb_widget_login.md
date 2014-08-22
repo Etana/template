@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_fb_widget_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_fb_widget_login -->
+contenu sur lequel on boucle
+<!-- END switch_fb_widget_login -->
 <!-- BEGIN switch_fb_widget_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_fb_widget_login -->
+contenu sur lequel on boucle
+<!-- END switch_fb_widget_login -->
 <!-- BEGIN switch_fb_widget_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_fb_widget_login -->
+contenu sur lequel on boucle
+<!-- END switch_fb_widget_login -->
 <!-- BEGIN switch_fb_widget_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_fb_widget_login -->
+contenu sur lequel on boucle
+<!-- END switch_fb_widget_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_widget_login)

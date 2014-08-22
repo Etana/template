@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    {listrow.U_READ}
-    <!-- END listrow -->
+{listrow.U_READ}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.U_READ}
-    <!-- END listrow -->
+{listrow.U_READ}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.U_READ}
-    <!-- END listrow -->
+{listrow.U_READ}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.U_READ}
-    <!-- END listrow -->
+{listrow.U_READ}
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.U_READ)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_auth_user -->
-    contenu sur lequel on boucle
-    <!-- END switch_auth_user -->
+contenu sur lequel on boucle
+<!-- END switch_auth_user -->
 <!-- BEGIN switch_auth_user -->
-    contenu sur lequel on boucle
-    <!-- END switch_auth_user -->
+contenu sur lequel on boucle
+<!-- END switch_auth_user -->
 <!-- BEGIN switch_auth_user -->
-    contenu sur lequel on boucle
-    <!-- END switch_auth_user -->
+contenu sur lequel on boucle
+<!-- END switch_auth_user -->
 <!-- BEGIN switch_auth_user -->
-    contenu sur lequel on boucle
-    <!-- END switch_auth_user -->
+contenu sur lequel on boucle
+<!-- END switch_auth_user -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_auth_user)

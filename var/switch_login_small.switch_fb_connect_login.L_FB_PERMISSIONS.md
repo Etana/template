@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_login_small -->
     <!-- BEGIN switch_fb_connect_login -->
-        {switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}
-        <!-- END switch_fb_connect_login -->
-    <!-- END switch_login_small -->
+    {switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}
+    <!-- END switch_fb_connect_login -->
+<!-- END switch_login_small -->
 <!-- BEGIN switch_login_small -->
     <!-- BEGIN switch_fb_connect_login -->
-        {switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}
-        <!-- END switch_fb_connect_login -->
-    <!-- END switch_login_small -->
+    {switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}
+    <!-- END switch_fb_connect_login -->
+<!-- END switch_login_small -->
 <!-- BEGIN switch_login_small -->
     <!-- BEGIN switch_fb_connect_login -->
-        {switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}
-        <!-- END switch_fb_connect_login -->
-    <!-- END switch_login_small -->
+    {switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}
+    <!-- END switch_fb_connect_login -->
+<!-- END switch_login_small -->
 <!-- BEGIN switch_login_small -->
     <!-- BEGIN switch_fb_connect_login -->
-        {switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}
-        <!-- END switch_fb_connect_login -->
-    <!-- END switch_login_small -->
+    {switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}
+    <!-- END switch_fb_connect_login -->
+<!-- END switch_login_small -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS)

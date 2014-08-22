@@ -6,44 +6,44 @@
 ```smarty
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.LEVEL}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.LEVEL}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.LEVEL}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.LEVEL}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.LEVEL}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.LEVEL}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.LEVEL}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.LEVEL}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.LEVEL}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.LEVEL}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.LEVEL}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.LEVEL}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.LEVEL}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.LEVEL}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.LEVEL}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.LEVEL}
+    <!-- END forumrow -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.LEVEL)

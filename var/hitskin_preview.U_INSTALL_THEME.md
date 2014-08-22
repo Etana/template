@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN hitskin_preview -->
-    {hitskin_preview.U_INSTALL_THEME}
-    <!-- END hitskin_preview -->
+{hitskin_preview.U_INSTALL_THEME}
+<!-- END hitskin_preview -->
 <!-- BEGIN hitskin_preview -->
-    {hitskin_preview.U_INSTALL_THEME}
-    <!-- END hitskin_preview -->
+{hitskin_preview.U_INSTALL_THEME}
+<!-- END hitskin_preview -->
 <!-- BEGIN hitskin_preview -->
-    {hitskin_preview.U_INSTALL_THEME}
-    <!-- END hitskin_preview -->
+{hitskin_preview.U_INSTALL_THEME}
+<!-- END hitskin_preview -->
 <!-- BEGIN hitskin_preview -->
-    {hitskin_preview.U_INSTALL_THEME}
-    <!-- END hitskin_preview -->
+{hitskin_preview.U_INSTALL_THEME}
+<!-- END hitskin_preview -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.U_INSTALL_THEME)

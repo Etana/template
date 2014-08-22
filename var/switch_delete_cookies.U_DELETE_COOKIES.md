@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_delete_cookies -->
-    {switch_delete_cookies.U_DELETE_COOKIES}
-    <!-- END switch_delete_cookies -->
+{switch_delete_cookies.U_DELETE_COOKIES}
+<!-- END switch_delete_cookies -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_delete_cookies.U_DELETE_COOKIES)

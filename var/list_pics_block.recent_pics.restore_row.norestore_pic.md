@@ -8,11 +8,11 @@
     <!-- BEGIN recent_pics -->
         <!-- BEGIN restore_row -->
             <!-- BEGIN norestore_pic -->
-                contenu sur lequel on boucle
-                <!-- END norestore_pic -->
-            <!-- END restore_row -->
-        <!-- END recent_pics -->
-    <!-- END list_pics_block -->
+            contenu sur lequel on boucle
+            <!-- END norestore_pic -->
+        <!-- END restore_row -->
+    <!-- END recent_pics -->
+<!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.restore_row.norestore_pic)

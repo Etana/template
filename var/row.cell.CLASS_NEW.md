@@ -6,19 +6,19 @@
 ```smarty
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
-        {row.cell.CLASS_NEW}
-        <!-- END cell -->
-    <!-- END row -->
+    {row.cell.CLASS_NEW}
+    <!-- END cell -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
-        {row.cell.CLASS_NEW}
-        <!-- END cell -->
-    <!-- END row -->
+    {row.cell.CLASS_NEW}
+    <!-- END cell -->
+<!-- END row -->
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
-        {row.cell.CLASS_NEW}
-        <!-- END cell -->
-    <!-- END row -->
+    {row.cell.CLASS_NEW}
+    <!-- END cell -->
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.cell.CLASS_NEW)

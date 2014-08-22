@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN build_categories_block -->
-    contenu sur lequel on boucle
-    <!-- END build_categories_block -->
+contenu sur lequel on boucle
+<!-- END build_categories_block -->
 <!-- BEGIN build_categories_block -->
-    contenu sur lequel on boucle
-    <!-- END build_categories_block -->
+contenu sur lequel on boucle
+<!-- END build_categories_block -->
 <!-- BEGIN build_categories_block -->
-    contenu sur lequel on boucle
-    <!-- END build_categories_block -->
+contenu sur lequel on boucle
+<!-- END build_categories_block -->
 <!-- BEGIN build_categories_block -->
-    contenu sur lequel on boucle
-    <!-- END build_categories_block -->
+contenu sur lequel on boucle
+<!-- END build_categories_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block)

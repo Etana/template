@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
-        contenu sur lequel on boucle
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+    contenu sur lequel on boucle
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
-        contenu sur lequel on boucle
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+    contenu sur lequel on boucle
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
-        contenu sur lequel on boucle
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+    contenu sur lequel on boucle
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
-        contenu sur lequel on boucle
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+    contenu sur lequel on boucle
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch)

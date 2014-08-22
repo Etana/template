@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN post_row -->
-    {post_row.TIME}
-    <!-- END post_row -->
+{post_row.TIME}
+<!-- END post_row -->
 <!-- BEGIN post_row -->
-    {post_row.TIME}
-    <!-- END post_row -->
+{post_row.TIME}
+<!-- END post_row -->
 <!-- BEGIN post_row -->
-    {post_row.TIME}
-    <!-- END post_row -->
+{post_row.TIME}
+<!-- END post_row -->
 <!-- BEGIN post_row -->
-    {post_row.TIME}
-    <!-- END post_row -->
+{post_row.TIME}
+<!-- END post_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.TIME)

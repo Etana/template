@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN catrow -->
     <!-- BEGIN cathead -->
-        {catrow.cathead.U_VIEWCAT}
-        <!-- END cathead -->
-    <!-- END catrow -->
+    {catrow.cathead.U_VIEWCAT}
+    <!-- END cathead -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.U_VIEWCAT)

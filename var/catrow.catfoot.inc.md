@@ -7,10 +7,10 @@
 <!-- BEGIN catrow -->
     <!-- BEGIN catfoot -->
         <!-- BEGIN inc -->
-            contenu sur lequel on boucle
-            <!-- END inc -->
-        <!-- END catfoot -->
-    <!-- END catrow -->
+        contenu sur lequel on boucle
+        <!-- END inc -->
+    <!-- END catfoot -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.catfoot.inc)

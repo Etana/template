@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.MINI_POST_IMG}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.MINI_POST_IMG}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.MINI_POST_IMG}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.MINI_POST_IMG}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.MINI_POST_IMG}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.MINI_POST_IMG}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.MINI_POST_IMG}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.MINI_POST_IMG}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.MINI_POST_IMG)

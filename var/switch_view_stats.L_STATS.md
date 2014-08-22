@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_view_stats -->
-    {switch_view_stats.L_STATS}
-    <!-- END switch_view_stats -->
+{switch_view_stats.L_STATS}
+<!-- END switch_view_stats -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_view_stats.L_STATS)

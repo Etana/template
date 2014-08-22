@@ -6,34 +6,34 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.L_MINI_POST_ALT}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.L_MINI_POST_ALT}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.L_MINI_POST_ALT}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.L_MINI_POST_ALT}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.L_MINI_POST_ALT}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.L_MINI_POST_ALT}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.L_MINI_POST_ALT}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.L_MINI_POST_ALT}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.L_MINI_POST_ALT}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.L_MINI_POST_ALT}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.L_MINI_POST_ALT}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.L_MINI_POST_ALT}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.L_MINI_POST_ALT)

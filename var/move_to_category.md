@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN move_to_category -->
-    contenu sur lequel on boucle
-    <!-- END move_to_category -->
+contenu sur lequel on boucle
+<!-- END move_to_category -->
 <!-- BEGIN move_to_category -->
-    contenu sur lequel on boucle
-    <!-- END move_to_category -->
+contenu sur lequel on boucle
+<!-- END move_to_category -->
 <!-- BEGIN move_to_category -->
-    contenu sur lequel on boucle
-    <!-- END move_to_category -->
+contenu sur lequel on boucle
+<!-- END move_to_category -->
 <!-- BEGIN move_to_category -->
-    contenu sur lequel on boucle
-    <!-- END move_to_category -->
+contenu sur lequel on boucle
+<!-- END move_to_category -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/move_to_category)

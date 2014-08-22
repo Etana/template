@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_search_box -->
-    contenu sur lequel on boucle
-    <!-- END switch_search_box -->
+contenu sur lequel on boucle
+<!-- END switch_search_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_search_box)

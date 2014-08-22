@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN row -->
     <!-- BEGIN cell -->
-        {row.cell.CLASS}
-        <!-- END cell -->
-    <!-- END row -->
+    {row.cell.CLASS}
+    <!-- END cell -->
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.cell.CLASS)

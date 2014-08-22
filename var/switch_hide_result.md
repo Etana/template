@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_hide_result -->
-    contenu sur lequel on boucle
-    <!-- END switch_hide_result -->
+contenu sur lequel on boucle
+<!-- END switch_hide_result -->
 <!-- BEGIN switch_hide_result -->
-    contenu sur lequel on boucle
-    <!-- END switch_hide_result -->
+contenu sur lequel on boucle
+<!-- END switch_hide_result -->
 <!-- BEGIN switch_hide_result -->
-    contenu sur lequel on boucle
-    <!-- END switch_hide_result -->
+contenu sur lequel on boucle
+<!-- END switch_hide_result -->
 <!-- BEGIN switch_hide_result -->
-    contenu sur lequel on boucle
-    <!-- END switch_hide_result -->
+contenu sur lequel on boucle
+<!-- END switch_hide_result -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_hide_result)

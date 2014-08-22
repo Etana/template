@@ -5,23 +5,23 @@
 
 ```smarty
 <!-- BEGIN picrow -->
-    {picrow.ROW_CLASS}
-    <!-- END picrow -->
+{picrow.ROW_CLASS}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.ROW_CLASS}
-    <!-- END picrow -->
+{picrow.ROW_CLASS}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.ROW_CLASS}
-    <!-- END picrow -->
+{picrow.ROW_CLASS}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.ROW_CLASS}
-    <!-- END picrow -->
+{picrow.ROW_CLASS}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.ROW_CLASS}
-    <!-- END picrow -->
+{picrow.ROW_CLASS}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.ROW_CLASS}
-    <!-- END picrow -->
+{picrow.ROW_CLASS}
+<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.ROW_CLASS)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN no_pics_personal -->
-    {no_pics_personal.L_INFOS}
-    <!-- END no_pics_personal -->
+{no_pics_personal.L_INFOS}
+<!-- END no_pics_personal -->
 <!-- BEGIN no_pics_personal -->
-    {no_pics_personal.L_INFOS}
-    <!-- END no_pics_personal -->
+{no_pics_personal.L_INFOS}
+<!-- END no_pics_personal -->
 <!-- BEGIN no_pics_personal -->
-    {no_pics_personal.L_INFOS}
-    <!-- END no_pics_personal -->
+{no_pics_personal.L_INFOS}
+<!-- END no_pics_personal -->
 <!-- BEGIN no_pics_personal -->
-    {no_pics_personal.L_INFOS}
-    <!-- END no_pics_personal -->
+{no_pics_personal.L_INFOS}
+<!-- END no_pics_personal -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_pics_personal.L_INFOS)

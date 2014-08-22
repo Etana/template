@@ -9,45 +9,45 @@
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_bar -->
                 <!-- BEGIN switch_vote_plus -->
-                    contenu sur lequel on boucle
-                    <!-- END switch_vote_plus -->
-                <!-- END switch_bar -->
-            <!-- END switch_vote_active -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+                contenu sur lequel on boucle
+                <!-- END switch_vote_plus -->
+            <!-- END switch_bar -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_bar -->
                 <!-- BEGIN switch_vote_plus -->
-                    contenu sur lequel on boucle
-                    <!-- END switch_vote_plus -->
-                <!-- END switch_bar -->
-            <!-- END switch_vote_active -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+                contenu sur lequel on boucle
+                <!-- END switch_vote_plus -->
+            <!-- END switch_bar -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_bar -->
                 <!-- BEGIN switch_vote_plus -->
-                    contenu sur lequel on boucle
-                    <!-- END switch_vote_plus -->
-                <!-- END switch_bar -->
-            <!-- END switch_vote_active -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+                contenu sur lequel on boucle
+                <!-- END switch_vote_plus -->
+            <!-- END switch_bar -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_bar -->
                 <!-- BEGIN switch_vote_plus -->
-                    contenu sur lequel on boucle
-                    <!-- END switch_vote_plus -->
-                <!-- END switch_bar -->
-            <!-- END switch_vote_active -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+                contenu sur lequel on boucle
+                <!-- END switch_vote_plus -->
+            <!-- END switch_bar -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus)

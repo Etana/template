@@ -7,10 +7,10 @@
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN inc -->
-            contenu sur lequel on boucle
-            <!-- END inc -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        contenu sur lequel on boucle
+        <!-- END inc -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)

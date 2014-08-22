@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN reg_user_row -->
-    {reg_user_row.U_FORUM_LOCATION}
-    <!-- END reg_user_row -->
+{reg_user_row.U_FORUM_LOCATION}
+<!-- END reg_user_row -->
 <!-- BEGIN reg_user_row -->
-    {reg_user_row.U_FORUM_LOCATION}
-    <!-- END reg_user_row -->
+{reg_user_row.U_FORUM_LOCATION}
+<!-- END reg_user_row -->
 <!-- BEGIN reg_user_row -->
-    {reg_user_row.U_FORUM_LOCATION}
-    <!-- END reg_user_row -->
+{reg_user_row.U_FORUM_LOCATION}
+<!-- END reg_user_row -->
 <!-- BEGIN reg_user_row -->
-    {reg_user_row.U_FORUM_LOCATION}
-    <!-- END reg_user_row -->
+{reg_user_row.U_FORUM_LOCATION}
+<!-- END reg_user_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/reg_user_row.U_FORUM_LOCATION)

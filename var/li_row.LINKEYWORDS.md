@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN li_row -->
-    {li_row.LINKEYWORDS}
-    <!-- END li_row -->
+{li_row.LINKEYWORDS}
+<!-- END li_row -->
 <!-- BEGIN li_row -->
-    {li_row.LINKEYWORDS}
-    <!-- END li_row -->
+{li_row.LINKEYWORDS}
+<!-- END li_row -->
 <!-- BEGIN li_row -->
-    {li_row.LINKEYWORDS}
-    <!-- END li_row -->
+{li_row.LINKEYWORDS}
+<!-- END li_row -->
 <!-- BEGIN li_row -->
-    {li_row.LINKEYWORDS}
-    <!-- END li_row -->
+{li_row.LINKEYWORDS}
+<!-- END li_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/li_row.LINKEYWORDS)

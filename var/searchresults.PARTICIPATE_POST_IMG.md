@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    {searchresults.PARTICIPATE_POST_IMG}
-    <!-- END searchresults -->
+{searchresults.PARTICIPATE_POST_IMG}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.PARTICIPATE_POST_IMG}
-    <!-- END searchresults -->
+{searchresults.PARTICIPATE_POST_IMG}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.PARTICIPATE_POST_IMG}
-    <!-- END searchresults -->
+{searchresults.PARTICIPATE_POST_IMG}
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    {searchresults.PARTICIPATE_POST_IMG}
-    <!-- END searchresults -->
+{searchresults.PARTICIPATE_POST_IMG}
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.PARTICIPATE_POST_IMG)

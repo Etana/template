@@ -5,11 +5,11 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    {listrow.L_BY}
-    <!-- END listrow -->
+{listrow.L_BY}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.L_BY}
-    <!-- END listrow -->
+{listrow.L_BY}
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.L_BY)

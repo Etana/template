@@ -5,11 +5,11 @@
 
 ```smarty
 <!-- BEGIN rpg_fields -->
-    {rpg_fields.F_VALUE}
-    <!-- END rpg_fields -->
+{rpg_fields.F_VALUE}
+<!-- END rpg_fields -->
 <!-- BEGIN rpg_fields -->
-    {rpg_fields.F_VALUE}
-    <!-- END rpg_fields -->
+{rpg_fields.F_VALUE}
+<!-- END rpg_fields -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields.F_VALUE)

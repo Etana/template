@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN build_categories_block -->
     <!-- BEGIN personal_sort_block -->
-        {build_categories_block.personal_sort_block.L_SORT}
-        <!-- END personal_sort_block -->
-    <!-- END build_categories_block -->
+    {build_categories_block.personal_sort_block.L_SORT}
+    <!-- END personal_sort_block -->
+<!-- END build_categories_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.L_SORT)

@@ -6,19 +6,19 @@
 ```smarty
 <!-- BEGIN birthday_list_box -->
     <!-- BEGIN row -->
-        {birthday_list_box.row.ROW_CLASS}
-        <!-- END row -->
-    <!-- END birthday_list_box -->
+    {birthday_list_box.row.ROW_CLASS}
+    <!-- END row -->
+<!-- END birthday_list_box -->
 <!-- BEGIN birthday_list_box -->
     <!-- BEGIN row -->
-        {birthday_list_box.row.ROW_CLASS}
-        <!-- END row -->
-    <!-- END birthday_list_box -->
+    {birthday_list_box.row.ROW_CLASS}
+    <!-- END row -->
+<!-- END birthday_list_box -->
 <!-- BEGIN birthday_list_box -->
     <!-- BEGIN row -->
-        {birthday_list_box.row.ROW_CLASS}
-        <!-- END row -->
-    <!-- END birthday_list_box -->
+    {birthday_list_box.row.ROW_CLASS}
+    <!-- END row -->
+<!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.ROW_CLASS)

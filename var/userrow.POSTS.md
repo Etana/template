@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN userrow -->
-    {userrow.POSTS}
-    <!-- END userrow -->
+{userrow.POSTS}
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    {userrow.POSTS}
-    <!-- END userrow -->
+{userrow.POSTS}
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    {userrow.POSTS}
-    <!-- END userrow -->
+{userrow.POSTS}
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    {userrow.POSTS}
-    <!-- END userrow -->
+{userrow.POSTS}
+<!-- END userrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow.POSTS)

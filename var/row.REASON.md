@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN row -->
-    {row.REASON}
-    <!-- END row -->
+{row.REASON}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REASON}
-    <!-- END row -->
+{row.REASON}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REASON}
-    <!-- END row -->
+{row.REASON}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REASON}
-    <!-- END row -->
+{row.REASON}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REASON}
-    <!-- END row -->
+{row.REASON}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REASON}
-    <!-- END row -->
+{row.REASON}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REASON}
-    <!-- END row -->
+{row.REASON}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.REASON}
-    <!-- END row -->
+{row.REASON}
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.REASON)

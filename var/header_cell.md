@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN header_cell -->
-    contenu sur lequel on boucle
-    <!-- END header_cell -->
+contenu sur lequel on boucle
+<!-- END header_cell -->
 <!-- BEGIN header_cell -->
-    contenu sur lequel on boucle
-    <!-- END header_cell -->
+contenu sur lequel on boucle
+<!-- END header_cell -->
 <!-- BEGIN header_cell -->
-    contenu sur lequel on boucle
-    <!-- END header_cell -->
+contenu sur lequel on boucle
+<!-- END header_cell -->
 <!-- BEGIN header_cell -->
-    contenu sur lequel on boucle
-    <!-- END header_cell -->
+contenu sur lequel on boucle
+<!-- END header_cell -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/header_cell)

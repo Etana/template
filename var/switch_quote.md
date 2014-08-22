@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_quote -->
-    contenu sur lequel on boucle
-    <!-- END switch_quote -->
+contenu sur lequel on boucle
+<!-- END switch_quote -->
 <!-- BEGIN switch_quote -->
-    contenu sur lequel on boucle
-    <!-- END switch_quote -->
+contenu sur lequel on boucle
+<!-- END switch_quote -->
 <!-- BEGIN switch_quote -->
-    contenu sur lequel on boucle
-    <!-- END switch_quote -->
+contenu sur lequel on boucle
+<!-- END switch_quote -->
 <!-- BEGIN switch_quote -->
-    contenu sur lequel on boucle
-    <!-- END switch_quote -->
+contenu sur lequel on boucle
+<!-- END switch_quote -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_quote)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN member_row -->
-    contenu sur lequel on boucle
-    <!-- END member_row -->
+contenu sur lequel on boucle
+<!-- END member_row -->
 <!-- BEGIN member_row -->
-    contenu sur lequel on boucle
-    <!-- END member_row -->
+contenu sur lequel on boucle
+<!-- END member_row -->
 <!-- BEGIN member_row -->
-    contenu sur lequel on boucle
-    <!-- END member_row -->
+contenu sur lequel on boucle
+<!-- END member_row -->
 <!-- BEGIN member_row -->
-    contenu sur lequel on boucle
-    <!-- END member_row -->
+contenu sur lequel on boucle
+<!-- END member_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/member_row)

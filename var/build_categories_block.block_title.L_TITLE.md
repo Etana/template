@@ -6,29 +6,29 @@
 ```smarty
 <!-- BEGIN build_categories_block -->
     <!-- BEGIN block_title -->
-        {build_categories_block.block_title.L_TITLE}
-        <!-- END block_title -->
-    <!-- END build_categories_block -->
+    {build_categories_block.block_title.L_TITLE}
+    <!-- END block_title -->
+<!-- END build_categories_block -->
 <!-- BEGIN build_categories_block -->
     <!-- BEGIN block_title -->
-        {build_categories_block.block_title.L_TITLE}
-        <!-- END block_title -->
-    <!-- END build_categories_block -->
+    {build_categories_block.block_title.L_TITLE}
+    <!-- END block_title -->
+<!-- END build_categories_block -->
 <!-- BEGIN build_categories_block -->
     <!-- BEGIN block_title -->
-        {build_categories_block.block_title.L_TITLE}
-        <!-- END block_title -->
-    <!-- END build_categories_block -->
+    {build_categories_block.block_title.L_TITLE}
+    <!-- END block_title -->
+<!-- END build_categories_block -->
 <!-- BEGIN build_categories_block -->
     <!-- BEGIN block_title -->
-        {build_categories_block.block_title.L_TITLE}
-        <!-- END block_title -->
-    <!-- END build_categories_block -->
+    {build_categories_block.block_title.L_TITLE}
+    <!-- END block_title -->
+<!-- END build_categories_block -->
 <!-- BEGIN build_categories_block -->
     <!-- BEGIN block_title -->
-        {build_categories_block.block_title.L_TITLE}
-        <!-- END block_title -->
-    <!-- END build_categories_block -->
+    {build_categories_block.block_title.L_TITLE}
+    <!-- END block_title -->
+<!-- END build_categories_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.block_title.L_TITLE)

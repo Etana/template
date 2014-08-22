@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN row -->
-    {row.S_CHECKED}
-    <!-- END row -->
+{row.S_CHECKED}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.S_CHECKED}
-    <!-- END row -->
+{row.S_CHECKED}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.S_CHECKED}
-    <!-- END row -->
+{row.S_CHECKED}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.S_CHECKED}
-    <!-- END row -->
+{row.S_CHECKED}
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.S_CHECKED)

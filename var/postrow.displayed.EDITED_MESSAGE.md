@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.EDITED_MESSAGE}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.EDITED_MESSAGE}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.EDITED_MESSAGE}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.EDITED_MESSAGE}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.EDITED_MESSAGE}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.EDITED_MESSAGE}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.EDITED_MESSAGE}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.EDITED_MESSAGE}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.EDITED_MESSAGE)

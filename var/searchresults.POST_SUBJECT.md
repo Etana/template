@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    {searchresults.POST_SUBJECT}
-    <!-- END searchresults -->
+{searchresults.POST_SUBJECT}
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_SUBJECT)

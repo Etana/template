@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
-        {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
-        <!-- END cat_private_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+    <!-- END cat_private_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
-        {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
-        <!-- END cat_private_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+    <!-- END cat_private_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
-        {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
-        <!-- END cat_private_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+    <!-- END cat_private_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
-        {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
-        <!-- END cat_private_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES}
+    <!-- END cat_private_footer -->
+<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES)

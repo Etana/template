@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_view -->
-    contenu sur lequel on boucle
-    <!-- END switch_view -->
+contenu sur lequel on boucle
+<!-- END switch_view -->
 <!-- BEGIN switch_view -->
-    contenu sur lequel on boucle
-    <!-- END switch_view -->
+contenu sur lequel on boucle
+<!-- END switch_view -->
 <!-- BEGIN switch_view -->
-    contenu sur lequel on boucle
-    <!-- END switch_view -->
+contenu sur lequel on boucle
+<!-- END switch_view -->
 <!-- BEGIN switch_view -->
-    contenu sur lequel on boucle
-    <!-- END switch_view -->
+contenu sur lequel on boucle
+<!-- END switch_view -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_view)

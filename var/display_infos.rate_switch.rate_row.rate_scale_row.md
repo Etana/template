@@ -8,38 +8,38 @@
     <!-- BEGIN rate_switch -->
         <!-- BEGIN rate_row -->
             <!-- BEGIN rate_scale_row -->
-                contenu sur lequel on boucle
-                <!-- END rate_scale_row -->
-            <!-- END rate_row -->
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+            contenu sur lequel on boucle
+            <!-- END rate_scale_row -->
+        <!-- END rate_row -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
         <!-- BEGIN rate_row -->
             <!-- BEGIN rate_scale_row -->
-                contenu sur lequel on boucle
-                <!-- END rate_scale_row -->
-            <!-- END rate_row -->
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+            contenu sur lequel on boucle
+            <!-- END rate_scale_row -->
+        <!-- END rate_row -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
         <!-- BEGIN rate_row -->
             <!-- BEGIN rate_scale_row -->
-                contenu sur lequel on boucle
-                <!-- END rate_scale_row -->
-            <!-- END rate_row -->
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+            contenu sur lequel on boucle
+            <!-- END rate_scale_row -->
+        <!-- END rate_row -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 <!-- BEGIN display_infos -->
     <!-- BEGIN rate_switch -->
         <!-- BEGIN rate_row -->
             <!-- BEGIN rate_scale_row -->
-                contenu sur lequel on boucle
-                <!-- END rate_scale_row -->
-            <!-- END rate_row -->
-        <!-- END rate_switch -->
-    <!-- END display_infos -->
+            contenu sur lequel on boucle
+            <!-- END rate_scale_row -->
+        <!-- END rate_row -->
+    <!-- END rate_switch -->
+<!-- END display_infos -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.rate_switch.rate_row.rate_scale_row)

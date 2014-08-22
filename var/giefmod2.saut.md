@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN giefmod2 -->
     <!-- BEGIN saut -->
-        contenu sur lequel on boucle
-        <!-- END saut -->
-    <!-- END giefmod2 -->
+    contenu sur lequel on boucle
+    <!-- END saut -->
+<!-- END giefmod2 -->
 <!-- BEGIN giefmod2 -->
     <!-- BEGIN saut -->
-        contenu sur lequel on boucle
-        <!-- END saut -->
-    <!-- END giefmod2 -->
+    contenu sur lequel on boucle
+    <!-- END saut -->
+<!-- END giefmod2 -->
 <!-- BEGIN giefmod2 -->
     <!-- BEGIN saut -->
-        contenu sur lequel on boucle
-        <!-- END saut -->
-    <!-- END giefmod2 -->
+    contenu sur lequel on boucle
+    <!-- END saut -->
+<!-- END giefmod2 -->
 <!-- BEGIN giefmod2 -->
     <!-- BEGIN saut -->
-        contenu sur lequel on boucle
-        <!-- END saut -->
-    <!-- END giefmod2 -->
+    contenu sur lequel on boucle
+    <!-- END saut -->
+<!-- END giefmod2 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod2.saut)

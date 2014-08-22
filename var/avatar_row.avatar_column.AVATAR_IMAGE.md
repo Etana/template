@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN avatar_row -->
     <!-- BEGIN avatar_column -->
-        {avatar_row.avatar_column.AVATAR_IMAGE}
-        <!-- END avatar_column -->
-    <!-- END avatar_row -->
+    {avatar_row.avatar_column.AVATAR_IMAGE}
+    <!-- END avatar_column -->
+<!-- END avatar_row -->
 <!-- BEGIN avatar_row -->
     <!-- BEGIN avatar_column -->
-        {avatar_row.avatar_column.AVATAR_IMAGE}
-        <!-- END avatar_column -->
-    <!-- END avatar_row -->
+    {avatar_row.avatar_column.AVATAR_IMAGE}
+    <!-- END avatar_column -->
+<!-- END avatar_row -->
 <!-- BEGIN avatar_row -->
     <!-- BEGIN avatar_column -->
-        {avatar_row.avatar_column.AVATAR_IMAGE}
-        <!-- END avatar_column -->
-    <!-- END avatar_row -->
+    {avatar_row.avatar_column.AVATAR_IMAGE}
+    <!-- END avatar_column -->
+<!-- END avatar_row -->
 <!-- BEGIN avatar_row -->
     <!-- BEGIN avatar_column -->
-        {avatar_row.avatar_column.AVATAR_IMAGE}
-        <!-- END avatar_column -->
-    <!-- END avatar_row -->
+    {avatar_row.avatar_column.AVATAR_IMAGE}
+    <!-- END avatar_column -->
+<!-- END avatar_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.AVATAR_IMAGE)

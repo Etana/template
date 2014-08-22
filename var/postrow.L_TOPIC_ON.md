@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    {postrow.L_TOPIC_ON}
-    <!-- END postrow -->
+{postrow.L_TOPIC_ON}
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.L_TOPIC_ON)

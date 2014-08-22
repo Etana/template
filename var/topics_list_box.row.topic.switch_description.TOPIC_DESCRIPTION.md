@@ -8,38 +8,38 @@
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN switch_description -->
-                {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
-                <!-- END switch_description -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
+            <!-- END switch_description -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN switch_description -->
-                {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
-                <!-- END switch_description -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
+            <!-- END switch_description -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN switch_description -->
-                {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
-                <!-- END switch_description -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
+            <!-- END switch_description -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN switch_description -->
-                {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
-                <!-- END switch_description -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            {topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}
+            <!-- END switch_description -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION)

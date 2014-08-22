@@ -7,24 +7,24 @@
 <!-- BEGIN avatar_row -->
     <!-- BEGIN avatar_column -->
         <!-- BEGIN avatar_option_column -->
-            contenu sur lequel on boucle
-            <!-- END avatar_option_column -->
-        <!-- END avatar_column -->
-    <!-- END avatar_row -->
+        contenu sur lequel on boucle
+        <!-- END avatar_option_column -->
+    <!-- END avatar_column -->
+<!-- END avatar_row -->
 <!-- BEGIN avatar_row -->
     <!-- BEGIN avatar_column -->
         <!-- BEGIN avatar_option_column -->
-            contenu sur lequel on boucle
-            <!-- END avatar_option_column -->
-        <!-- END avatar_column -->
-    <!-- END avatar_row -->
+        contenu sur lequel on boucle
+        <!-- END avatar_option_column -->
+    <!-- END avatar_column -->
+<!-- END avatar_row -->
 <!-- BEGIN avatar_row -->
     <!-- BEGIN avatar_column -->
         <!-- BEGIN avatar_option_column -->
-            contenu sur lequel on boucle
-            <!-- END avatar_option_column -->
-        <!-- END avatar_column -->
-    <!-- END avatar_row -->
+        contenu sur lequel on boucle
+        <!-- END avatar_option_column -->
+    <!-- END avatar_column -->
+<!-- END avatar_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.avatar_option_column)

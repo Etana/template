@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_jumpbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_jumpbox -->
+contenu sur lequel on boucle
+<!-- END switch_jumpbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_jumpbox)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_recent -->
-    contenu sur lequel on boucle
-    <!-- END switch_recent -->
+contenu sur lequel on boucle
+<!-- END switch_recent -->
 <!-- BEGIN switch_recent -->
-    contenu sur lequel on boucle
-    <!-- END switch_recent -->
+contenu sur lequel on boucle
+<!-- END switch_recent -->
 <!-- BEGIN switch_recent -->
-    contenu sur lequel on boucle
-    <!-- END switch_recent -->
+contenu sur lequel on boucle
+<!-- END switch_recent -->
 <!-- BEGIN switch_recent -->
-    contenu sur lequel on boucle
-    <!-- END switch_recent -->
+contenu sur lequel on boucle
+<!-- END switch_recent -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_recent)

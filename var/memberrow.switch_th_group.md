@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN memberrow -->
     <!-- BEGIN switch_th_group -->
-        contenu sur lequel on boucle
-        <!-- END switch_th_group -->
-    <!-- END memberrow -->
+    contenu sur lequel on boucle
+    <!-- END switch_th_group -->
+<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_th_group)

@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN switch_move_profile -->
-    contenu sur lequel on boucle
-    <!-- END switch_move_profile -->
+contenu sur lequel on boucle
+<!-- END switch_move_profile -->
 <!-- BEGIN switch_move_profile -->
-    contenu sur lequel on boucle
-    <!-- END switch_move_profile -->
+contenu sur lequel on boucle
+<!-- END switch_move_profile -->
 <!-- BEGIN switch_move_profile -->
-    contenu sur lequel on boucle
-    <!-- END switch_move_profile -->
+contenu sur lequel on boucle
+<!-- END switch_move_profile -->
 <!-- BEGIN switch_move_profile -->
-    contenu sur lequel on boucle
-    <!-- END switch_move_profile -->
+contenu sur lequel on boucle
+<!-- END switch_move_profile -->
 <!-- BEGIN switch_move_profile -->
-    contenu sur lequel on boucle
-    <!-- END switch_move_profile -->
+contenu sur lequel on boucle
+<!-- END switch_move_profile -->
 <!-- BEGIN switch_move_profile -->
-    contenu sur lequel on boucle
-    <!-- END switch_move_profile -->
+contenu sur lequel on boucle
+<!-- END switch_move_profile -->
 <!-- BEGIN switch_move_profile -->
-    contenu sur lequel on boucle
-    <!-- END switch_move_profile -->
+contenu sur lequel on boucle
+<!-- END switch_move_profile -->
 <!-- BEGIN switch_move_profile -->
-    contenu sur lequel on boucle
-    <!-- END switch_move_profile -->
+contenu sur lequel on boucle
+<!-- END switch_move_profile -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_move_profile)

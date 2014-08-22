@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_report_popup -->
-    {switch_report_popup.U_REPORT_POPUP}
-    <!-- END switch_report_popup -->
+{switch_report_popup.U_REPORT_POPUP}
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    {switch_report_popup.U_REPORT_POPUP}
-    <!-- END switch_report_popup -->
+{switch_report_popup.U_REPORT_POPUP}
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    {switch_report_popup.U_REPORT_POPUP}
-    <!-- END switch_report_popup -->
+{switch_report_popup.U_REPORT_POPUP}
+<!-- END switch_report_popup -->
 <!-- BEGIN switch_report_popup -->
-    {switch_report_popup.U_REPORT_POPUP}
-    <!-- END switch_report_popup -->
+{switch_report_popup.U_REPORT_POPUP}
+<!-- END switch_report_popup -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_report_popup.U_REPORT_POPUP)

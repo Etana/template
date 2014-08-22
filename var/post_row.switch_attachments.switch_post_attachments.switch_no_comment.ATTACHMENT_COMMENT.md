@@ -8,38 +8,38 @@
     <!-- BEGIN switch_attachments -->
         <!-- BEGIN switch_post_attachments -->
             <!-- BEGIN switch_no_comment -->
-                {post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}
-                <!-- END switch_no_comment -->
-            <!-- END switch_post_attachments -->
-        <!-- END switch_attachments -->
-    <!-- END post_row -->
+            {post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}
+            <!-- END switch_no_comment -->
+        <!-- END switch_post_attachments -->
+    <!-- END switch_attachments -->
+<!-- END post_row -->
 <!-- BEGIN post_row -->
     <!-- BEGIN switch_attachments -->
         <!-- BEGIN switch_post_attachments -->
             <!-- BEGIN switch_no_comment -->
-                {post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}
-                <!-- END switch_no_comment -->
-            <!-- END switch_post_attachments -->
-        <!-- END switch_attachments -->
-    <!-- END post_row -->
+            {post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}
+            <!-- END switch_no_comment -->
+        <!-- END switch_post_attachments -->
+    <!-- END switch_attachments -->
+<!-- END post_row -->
 <!-- BEGIN post_row -->
     <!-- BEGIN switch_attachments -->
         <!-- BEGIN switch_post_attachments -->
             <!-- BEGIN switch_no_comment -->
-                {post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}
-                <!-- END switch_no_comment -->
-            <!-- END switch_post_attachments -->
-        <!-- END switch_attachments -->
-    <!-- END post_row -->
+            {post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}
+            <!-- END switch_no_comment -->
+        <!-- END switch_post_attachments -->
+    <!-- END switch_attachments -->
+<!-- END post_row -->
 <!-- BEGIN post_row -->
     <!-- BEGIN switch_attachments -->
         <!-- BEGIN switch_post_attachments -->
             <!-- BEGIN switch_no_comment -->
-                {post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}
-                <!-- END switch_no_comment -->
-            <!-- END switch_post_attachments -->
-        <!-- END switch_attachments -->
-    <!-- END post_row -->
+            {post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}
+            <!-- END switch_no_comment -->
+        <!-- END switch_post_attachments -->
+    <!-- END switch_attachments -->
+<!-- END post_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT)

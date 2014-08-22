@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    {searchresults.TOPIC_ID}
-    <!-- END searchresults -->
+{searchresults.TOPIC_ID}
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ID)

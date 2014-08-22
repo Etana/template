@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN out_giefmod4 -->
-    {out_giefmod4.MODVAR}
-    <!-- END out_giefmod4 -->
+{out_giefmod4.MODVAR}
+<!-- END out_giefmod4 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/out_giefmod4.MODVAR)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_canonical_url -->
-    contenu sur lequel on boucle
-    <!-- END switch_canonical_url -->
+contenu sur lequel on boucle
+<!-- END switch_canonical_url -->
 <!-- BEGIN switch_canonical_url -->
-    contenu sur lequel on boucle
-    <!-- END switch_canonical_url -->
+contenu sur lequel on boucle
+<!-- END switch_canonical_url -->
 <!-- BEGIN switch_canonical_url -->
-    contenu sur lequel on boucle
-    <!-- END switch_canonical_url -->
+contenu sur lequel on boucle
+<!-- END switch_canonical_url -->
 <!-- BEGIN switch_canonical_url -->
-    contenu sur lequel on boucle
-    <!-- END switch_canonical_url -->
+contenu sur lequel on boucle
+<!-- END switch_canonical_url -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_canonical_url)

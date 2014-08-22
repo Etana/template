@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN save_action -->
-    contenu sur lequel on boucle
-    <!-- END save_action -->
+contenu sur lequel on boucle
+<!-- END save_action -->
 <!-- BEGIN save_action -->
-    contenu sur lequel on boucle
-    <!-- END save_action -->
+contenu sur lequel on boucle
+<!-- END save_action -->
 <!-- BEGIN save_action -->
-    contenu sur lequel on boucle
-    <!-- END save_action -->
+contenu sur lequel on boucle
+<!-- END save_action -->
 <!-- BEGIN save_action -->
-    contenu sur lequel on boucle
-    <!-- END save_action -->
+contenu sur lequel on boucle
+<!-- END save_action -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/save_action)

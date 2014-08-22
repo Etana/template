@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_icon_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_icon_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_icon_checkbox -->
 <!-- BEGIN switch_icon_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_icon_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_icon_checkbox -->
 <!-- BEGIN switch_icon_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_icon_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_icon_checkbox -->
 <!-- BEGIN switch_icon_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_icon_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_icon_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_icon_checkbox)

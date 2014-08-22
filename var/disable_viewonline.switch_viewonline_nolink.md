@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN disable_viewonline -->
     <!-- BEGIN switch_viewonline_nolink -->
-        contenu sur lequel on boucle
-        <!-- END switch_viewonline_nolink -->
-    <!-- END disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END switch_viewonline_nolink -->
+<!-- END disable_viewonline -->
 <!-- BEGIN disable_viewonline -->
     <!-- BEGIN switch_viewonline_nolink -->
-        contenu sur lequel on boucle
-        <!-- END switch_viewonline_nolink -->
-    <!-- END disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END switch_viewonline_nolink -->
+<!-- END disable_viewonline -->
 <!-- BEGIN disable_viewonline -->
     <!-- BEGIN switch_viewonline_nolink -->
-        contenu sur lequel on boucle
-        <!-- END switch_viewonline_nolink -->
-    <!-- END disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END switch_viewonline_nolink -->
+<!-- END disable_viewonline -->
 <!-- BEGIN disable_viewonline -->
     <!-- BEGIN switch_viewonline_nolink -->
-        contenu sur lequel on boucle
-        <!-- END switch_viewonline_nolink -->
-    <!-- END disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END switch_viewonline_nolink -->
+<!-- END disable_viewonline -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_nolink)

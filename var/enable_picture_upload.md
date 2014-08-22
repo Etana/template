@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN enable_picture_upload -->
-    contenu sur lequel on boucle
-    <!-- END enable_picture_upload -->
+contenu sur lequel on boucle
+<!-- END enable_picture_upload -->
 <!-- BEGIN enable_picture_upload -->
-    contenu sur lequel on boucle
-    <!-- END enable_picture_upload -->
+contenu sur lequel on boucle
+<!-- END enable_picture_upload -->
 <!-- BEGIN enable_picture_upload -->
-    contenu sur lequel on boucle
-    <!-- END enable_picture_upload -->
+contenu sur lequel on boucle
+<!-- END enable_picture_upload -->
 <!-- BEGIN enable_picture_upload -->
-    contenu sur lequel on boucle
-    <!-- END enable_picture_upload -->
+contenu sur lequel on boucle
+<!-- END enable_picture_upload -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/enable_picture_upload)

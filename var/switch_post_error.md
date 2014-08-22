@@ -5,14 +5,14 @@
 
 ```smarty
 <!-- BEGIN switch_post_error -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_error -->
+contenu sur lequel on boucle
+<!-- END switch_post_error -->
 <!-- BEGIN switch_post_error -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_error -->
+contenu sur lequel on boucle
+<!-- END switch_post_error -->
 <!-- BEGIN switch_post_error -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_error -->
+contenu sur lequel on boucle
+<!-- END switch_post_error -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_post_error)

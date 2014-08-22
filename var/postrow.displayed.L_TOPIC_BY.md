@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.L_TOPIC_BY}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.L_TOPIC_BY}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.L_TOPIC_BY)

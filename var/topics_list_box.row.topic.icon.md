@@ -8,11 +8,11 @@
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN icon -->
-                contenu sur lequel on boucle
-                <!-- END icon -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END icon -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.icon)

@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    contenu sur lequel on boucle
-    <!-- END searchresults -->
+contenu sur lequel on boucle
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    contenu sur lequel on boucle
-    <!-- END searchresults -->
+contenu sur lequel on boucle
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    contenu sur lequel on boucle
-    <!-- END searchresults -->
+contenu sur lequel on boucle
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    contenu sur lequel on boucle
-    <!-- END searchresults -->
+contenu sur lequel on boucle
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    contenu sur lequel on boucle
-    <!-- END searchresults -->
+contenu sur lequel on boucle
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    contenu sur lequel on boucle
-    <!-- END searchresults -->
+contenu sur lequel on boucle
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    contenu sur lequel on boucle
-    <!-- END searchresults -->
+contenu sur lequel on boucle
+<!-- END searchresults -->
 <!-- BEGIN searchresults -->
-    contenu sur lequel on boucle
-    <!-- END searchresults -->
+contenu sur lequel on boucle
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults)

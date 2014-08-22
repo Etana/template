@@ -8,11 +8,11 @@
     <!-- BEGIN row -->
         <!-- BEGIN header_table -->
             <!-- BEGIN pagination -->
-                contenu sur lequel on boucle
-                <!-- END pagination -->
-            <!-- END header_table -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END pagination -->
+        <!-- END header_table -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.pagination)

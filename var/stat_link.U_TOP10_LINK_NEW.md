@@ -5,14 +5,14 @@
 
 ```smarty
 <!-- BEGIN stat_link -->
-    {stat_link.U_TOP10_LINK_NEW}
-    <!-- END stat_link -->
+{stat_link.U_TOP10_LINK_NEW}
+<!-- END stat_link -->
 <!-- BEGIN stat_link -->
-    {stat_link.U_TOP10_LINK_NEW}
-    <!-- END stat_link -->
+{stat_link.U_TOP10_LINK_NEW}
+<!-- END stat_link -->
 <!-- BEGIN stat_link -->
-    {stat_link.U_TOP10_LINK_NEW}
-    <!-- END stat_link -->
+{stat_link.U_TOP10_LINK_NEW}
+<!-- END stat_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/stat_link.U_TOP10_LINK_NEW)

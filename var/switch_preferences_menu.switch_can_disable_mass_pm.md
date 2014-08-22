@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_can_disable_mass_pm -->
-        contenu sur lequel on boucle
-        <!-- END switch_can_disable_mass_pm -->
-    <!-- END switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_can_disable_mass_pm -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_can_disable_mass_pm -->
-        contenu sur lequel on boucle
-        <!-- END switch_can_disable_mass_pm -->
-    <!-- END switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_can_disable_mass_pm -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_can_disable_mass_pm -->
-        contenu sur lequel on boucle
-        <!-- END switch_can_disable_mass_pm -->
-    <!-- END switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_can_disable_mass_pm -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_can_disable_mass_pm -->
-        contenu sur lequel on boucle
-        <!-- END switch_can_disable_mass_pm -->
-    <!-- END switch_preferences_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_can_disable_mass_pm -->
+<!-- END switch_preferences_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_can_disable_mass_pm)

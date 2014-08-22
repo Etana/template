@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN row -->
-    {row.U_EDIT}
-    <!-- END row -->
+{row.U_EDIT}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.U_EDIT}
-    <!-- END row -->
+{row.U_EDIT}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.U_EDIT}
-    <!-- END row -->
+{row.U_EDIT}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.U_EDIT}
-    <!-- END row -->
+{row.U_EDIT}
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.U_EDIT)

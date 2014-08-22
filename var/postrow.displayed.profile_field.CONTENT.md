@@ -7,31 +7,31 @@
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN profile_field -->
-            {postrow.displayed.profile_field.CONTENT}
-            <!-- END profile_field -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+        {postrow.displayed.profile_field.CONTENT}
+        <!-- END profile_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN profile_field -->
-            {postrow.displayed.profile_field.CONTENT}
-            <!-- END profile_field -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+        {postrow.displayed.profile_field.CONTENT}
+        <!-- END profile_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN profile_field -->
-            {postrow.displayed.profile_field.CONTENT}
-            <!-- END profile_field -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+        {postrow.displayed.profile_field.CONTENT}
+        <!-- END profile_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN profile_field -->
-            {postrow.displayed.profile_field.CONTENT}
-            <!-- END profile_field -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+        {postrow.displayed.profile_field.CONTENT}
+        <!-- END profile_field -->
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.CONTENT)

@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN not_table_row -->
-    contenu sur lequel on boucle
-    <!-- END not_table_row -->
+contenu sur lequel on boucle
+<!-- END not_table_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/not_table_row)

@@ -7,10 +7,10 @@
 <!-- BEGIN catrow -->
     <!-- BEGIN catfoot -->
         <!-- BEGIN inc -->
-            {catrow.catfoot.inc.INC_CLASS}
-            <!-- END inc -->
-        <!-- END catfoot -->
-    <!-- END catrow -->
+        {catrow.catfoot.inc.INC_CLASS}
+        <!-- END inc -->
+    <!-- END catfoot -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.catfoot.inc.INC_CLASS)

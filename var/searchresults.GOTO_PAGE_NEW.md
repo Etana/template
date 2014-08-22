@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    {searchresults.GOTO_PAGE_NEW}
-    <!-- END searchresults -->
+{searchresults.GOTO_PAGE_NEW}
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE_NEW)

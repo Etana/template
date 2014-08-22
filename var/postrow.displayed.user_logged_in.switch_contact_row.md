@@ -8,11 +8,11 @@
     <!-- BEGIN displayed -->
         <!-- BEGIN user_logged_in -->
             <!-- BEGIN switch_contact_row -->
-                contenu sur lequel on boucle
-                <!-- END switch_contact_row -->
-            <!-- END user_logged_in -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_contact_row -->
+        <!-- END user_logged_in -->
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in.switch_contact_row)

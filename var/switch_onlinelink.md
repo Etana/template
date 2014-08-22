@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_onlinelink -->
-    contenu sur lequel on boucle
-    <!-- END switch_onlinelink -->
+contenu sur lequel on boucle
+<!-- END switch_onlinelink -->
 <!-- BEGIN switch_onlinelink -->
-    contenu sur lequel on boucle
-    <!-- END switch_onlinelink -->
+contenu sur lequel on boucle
+<!-- END switch_onlinelink -->
 <!-- BEGIN switch_onlinelink -->
-    contenu sur lequel on boucle
-    <!-- END switch_onlinelink -->
+contenu sur lequel on boucle
+<!-- END switch_onlinelink -->
 <!-- BEGIN switch_onlinelink -->
-    contenu sur lequel on boucle
-    <!-- END switch_onlinelink -->
+contenu sur lequel on boucle
+<!-- END switch_onlinelink -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_onlinelink)

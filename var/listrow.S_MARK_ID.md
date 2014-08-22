@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    {listrow.S_MARK_ID}
-    <!-- END listrow -->
+{listrow.S_MARK_ID}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.S_MARK_ID}
-    <!-- END listrow -->
+{listrow.S_MARK_ID}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.S_MARK_ID}
-    <!-- END listrow -->
+{listrow.S_MARK_ID}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.S_MARK_ID}
-    <!-- END listrow -->
+{listrow.S_MARK_ID}
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.S_MARK_ID)

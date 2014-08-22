@@ -6,29 +6,29 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.POSTER_AVATAR}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.POSTER_AVATAR}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.POSTER_AVATAR}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.POSTER_AVATAR}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.POSTER_AVATAR}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.POSTER_AVATAR}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.POSTER_AVATAR}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.POSTER_AVATAR}
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.POSTER_AVATAR}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.POSTER_AVATAR}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_AVATAR)

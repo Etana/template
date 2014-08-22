@@ -5,11 +5,11 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    {listrow.L_PRIVMSG_FOLDER_ALT}
-    <!-- END listrow -->
+{listrow.L_PRIVMSG_FOLDER_ALT}
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    {listrow.L_PRIVMSG_FOLDER_ALT}
-    <!-- END listrow -->
+{listrow.L_PRIVMSG_FOLDER_ALT}
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.L_PRIVMSG_FOLDER_ALT)

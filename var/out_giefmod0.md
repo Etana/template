@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN out_giefmod0 -->
-    contenu sur lequel on boucle
-    <!-- END out_giefmod0 -->
+contenu sur lequel on boucle
+<!-- END out_giefmod0 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/out_giefmod0)

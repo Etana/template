@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_facebook_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_facebook_login -->
+contenu sur lequel on boucle
+<!-- END switch_facebook_login -->
 <!-- BEGIN switch_facebook_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_facebook_login -->
+contenu sur lequel on boucle
+<!-- END switch_facebook_login -->
 <!-- BEGIN switch_facebook_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_facebook_login -->
+contenu sur lequel on boucle
+<!-- END switch_facebook_login -->
 <!-- BEGIN switch_facebook_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_facebook_login -->
+contenu sur lequel on boucle
+<!-- END switch_facebook_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_facebook_login)

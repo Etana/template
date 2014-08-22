@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN catrow -->
     <!-- BEGIN catfoot -->
-        {catrow.catfoot.INC_SPAN}
-        <!-- END catfoot -->
-    <!-- END catrow -->
+    {catrow.catfoot.INC_SPAN}
+    <!-- END catfoot -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.catfoot.INC_SPAN)

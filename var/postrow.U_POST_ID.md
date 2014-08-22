@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    {postrow.U_POST_ID}
-    <!-- END postrow -->
+{postrow.U_POST_ID}
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.U_POST_ID)

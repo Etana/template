@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN iprow -->
-    contenu sur lequel on boucle
-    <!-- END iprow -->
+contenu sur lequel on boucle
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    contenu sur lequel on boucle
-    <!-- END iprow -->
+contenu sur lequel on boucle
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    contenu sur lequel on boucle
-    <!-- END iprow -->
+contenu sur lequel on boucle
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    contenu sur lequel on boucle
-    <!-- END iprow -->
+contenu sur lequel on boucle
+<!-- END iprow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/iprow)

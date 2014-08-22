@@ -7,31 +7,31 @@
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN avatar -->
-            {catrow.forumrow.avatar.LAST_POST_AVATAR}
-            <!-- END avatar -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        {catrow.forumrow.avatar.LAST_POST_AVATAR}
+        <!-- END avatar -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN avatar -->
-            {catrow.forumrow.avatar.LAST_POST_AVATAR}
-            <!-- END avatar -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        {catrow.forumrow.avatar.LAST_POST_AVATAR}
+        <!-- END avatar -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN avatar -->
-            {catrow.forumrow.avatar.LAST_POST_AVATAR}
-            <!-- END avatar -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        {catrow.forumrow.avatar.LAST_POST_AVATAR}
+        <!-- END avatar -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
         <!-- BEGIN avatar -->
-            {catrow.forumrow.avatar.LAST_POST_AVATAR}
-            <!-- END avatar -->
-        <!-- END forumrow -->
-    <!-- END catrow -->
+        {catrow.forumrow.avatar.LAST_POST_AVATAR}
+        <!-- END avatar -->
+    <!-- END forumrow -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar.LAST_POST_AVATAR)

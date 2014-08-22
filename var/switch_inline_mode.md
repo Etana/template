@@ -5,35 +5,35 @@
 
 ```smarty
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 <!-- BEGIN switch_inline_mode -->
-    contenu sur lequel on boucle
-    <!-- END switch_inline_mode -->
+contenu sur lequel on boucle
+<!-- END switch_inline_mode -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_inline_mode)

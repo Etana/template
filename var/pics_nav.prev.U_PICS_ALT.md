@@ -6,44 +6,44 @@
 ```smarty
 <!-- BEGIN pics_nav -->
     <!-- BEGIN prev -->
-        {pics_nav.prev.U_PICS_ALT}
-        <!-- END prev -->
-    <!-- END pics_nav -->
+    {pics_nav.prev.U_PICS_ALT}
+    <!-- END prev -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN prev -->
-        {pics_nav.prev.U_PICS_ALT}
-        <!-- END prev -->
-    <!-- END pics_nav -->
+    {pics_nav.prev.U_PICS_ALT}
+    <!-- END prev -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN prev -->
-        {pics_nav.prev.U_PICS_ALT}
-        <!-- END prev -->
-    <!-- END pics_nav -->
+    {pics_nav.prev.U_PICS_ALT}
+    <!-- END prev -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN prev -->
-        {pics_nav.prev.U_PICS_ALT}
-        <!-- END prev -->
-    <!-- END pics_nav -->
+    {pics_nav.prev.U_PICS_ALT}
+    <!-- END prev -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN prev -->
-        {pics_nav.prev.U_PICS_ALT}
-        <!-- END prev -->
-    <!-- END pics_nav -->
+    {pics_nav.prev.U_PICS_ALT}
+    <!-- END prev -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN prev -->
-        {pics_nav.prev.U_PICS_ALT}
-        <!-- END prev -->
-    <!-- END pics_nav -->
+    {pics_nav.prev.U_PICS_ALT}
+    <!-- END prev -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN prev -->
-        {pics_nav.prev.U_PICS_ALT}
-        <!-- END prev -->
-    <!-- END pics_nav -->
+    {pics_nav.prev.U_PICS_ALT}
+    <!-- END prev -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN prev -->
-        {pics_nav.prev.U_PICS_ALT}
-        <!-- END prev -->
-    <!-- END pics_nav -->
+    {pics_nav.prev.U_PICS_ALT}
+    <!-- END prev -->
+<!-- END pics_nav -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav.prev.U_PICS_ALT)

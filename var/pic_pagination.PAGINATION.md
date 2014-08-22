@@ -5,20 +5,20 @@
 
 ```smarty
 <!-- BEGIN pic_pagination -->
-    {pic_pagination.PAGINATION}
-    <!-- END pic_pagination -->
+{pic_pagination.PAGINATION}
+<!-- END pic_pagination -->
 <!-- BEGIN pic_pagination -->
-    {pic_pagination.PAGINATION}
-    <!-- END pic_pagination -->
+{pic_pagination.PAGINATION}
+<!-- END pic_pagination -->
 <!-- BEGIN pic_pagination -->
-    {pic_pagination.PAGINATION}
-    <!-- END pic_pagination -->
+{pic_pagination.PAGINATION}
+<!-- END pic_pagination -->
 <!-- BEGIN pic_pagination -->
-    {pic_pagination.PAGINATION}
-    <!-- END pic_pagination -->
+{pic_pagination.PAGINATION}
+<!-- END pic_pagination -->
 <!-- BEGIN pic_pagination -->
-    {pic_pagination.PAGINATION}
-    <!-- END pic_pagination -->
+{pic_pagination.PAGINATION}
+<!-- END pic_pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pic_pagination.PAGINATION)

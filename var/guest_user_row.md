@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN guest_user_row -->
-    contenu sur lequel on boucle
-    <!-- END guest_user_row -->
+contenu sur lequel on boucle
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    contenu sur lequel on boucle
-    <!-- END guest_user_row -->
+contenu sur lequel on boucle
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    contenu sur lequel on boucle
-    <!-- END guest_user_row -->
+contenu sur lequel on boucle
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    contenu sur lequel on boucle
-    <!-- END guest_user_row -->
+contenu sur lequel on boucle
+<!-- END guest_user_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/guest_user_row)

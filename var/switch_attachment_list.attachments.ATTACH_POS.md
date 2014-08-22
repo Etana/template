@@ -6,184 +6,184 @@
 ```smarty
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        {switch_attachment_list.attachments.ATTACH_POS}
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    {switch_attachment_list.attachments.ATTACH_POS}
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_POS)

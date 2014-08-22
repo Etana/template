@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN no_post -->
-    {no_post.L_NO_POST}
-    <!-- END no_post -->
+{no_post.L_NO_POST}
+<!-- END no_post -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_post.L_NO_POST)

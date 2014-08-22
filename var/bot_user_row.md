@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN bot_user_row -->
-    contenu sur lequel on boucle
-    <!-- END bot_user_row -->
+contenu sur lequel on boucle
+<!-- END bot_user_row -->
 <!-- BEGIN bot_user_row -->
-    contenu sur lequel on boucle
-    <!-- END bot_user_row -->
+contenu sur lequel on boucle
+<!-- END bot_user_row -->
 <!-- BEGIN bot_user_row -->
-    contenu sur lequel on boucle
-    <!-- END bot_user_row -->
+contenu sur lequel on boucle
+<!-- END bot_user_row -->
 <!-- BEGIN bot_user_row -->
-    contenu sur lequel on boucle
-    <!-- END bot_user_row -->
+contenu sur lequel on boucle
+<!-- END bot_user_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/bot_user_row)

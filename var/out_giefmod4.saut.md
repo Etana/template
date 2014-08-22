@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN out_giefmod4 -->
     <!-- BEGIN saut -->
-        contenu sur lequel on boucle
-        <!-- END saut -->
-    <!-- END out_giefmod4 -->
+    contenu sur lequel on boucle
+    <!-- END saut -->
+<!-- END out_giefmod4 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/out_giefmod4.saut)

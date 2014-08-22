@@ -5,41 +5,41 @@
 
 ```smarty
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 <!-- BEGIN switch_ticker -->
-    {switch_ticker.HEIGHT}
-    <!-- END switch_ticker -->
+{switch_ticker.HEIGHT}
+<!-- END switch_ticker -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.HEIGHT)

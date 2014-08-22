@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN searchresults -->
-    {searchresults.ROW_ALT_CLASS}
-    <!-- END searchresults -->
+{searchresults.ROW_ALT_CLASS}
+<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.ROW_ALT_CLASS)

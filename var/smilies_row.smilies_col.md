@@ -6,64 +6,64 @@
 ```smarty
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 <!-- BEGIN smilies_row -->
     <!-- BEGIN smilies_col -->
-        contenu sur lequel on boucle
-        <!-- END smilies_col -->
-    <!-- END smilies_row -->
+    contenu sur lequel on boucle
+    <!-- END smilies_col -->
+<!-- END smilies_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/smilies_row.smilies_col)

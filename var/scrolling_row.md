@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN scrolling_row -->
-    contenu sur lequel on boucle
-    <!-- END scrolling_row -->
+contenu sur lequel on boucle
+<!-- END scrolling_row -->
 <!-- BEGIN scrolling_row -->
-    contenu sur lequel on boucle
-    <!-- END scrolling_row -->
+contenu sur lequel on boucle
+<!-- END scrolling_row -->
 <!-- BEGIN scrolling_row -->
-    contenu sur lequel on boucle
-    <!-- END scrolling_row -->
+contenu sur lequel on boucle
+<!-- END scrolling_row -->
 <!-- BEGIN scrolling_row -->
-    contenu sur lequel on boucle
-    <!-- END scrolling_row -->
+contenu sur lequel on boucle
+<!-- END scrolling_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/scrolling_row)

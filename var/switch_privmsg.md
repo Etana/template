@@ -5,41 +5,41 @@
 
 ```smarty
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 <!-- BEGIN switch_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_privmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg)

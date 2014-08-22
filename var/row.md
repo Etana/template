@@ -5,41 +5,41 @@
 
 ```smarty
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
+contenu sur lequel on boucle
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row)

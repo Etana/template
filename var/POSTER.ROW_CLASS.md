@@ -5,101 +5,101 @@
 
 ```smarty
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 <!-- BEGIN POSTER -->
-    {POSTER.ROW_CLASS}
-    <!-- END POSTER -->
+{POSTER.ROW_CLASS}
+<!-- END POSTER -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS)

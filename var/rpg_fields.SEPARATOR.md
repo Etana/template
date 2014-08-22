@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN rpg_fields -->
-    {rpg_fields.SEPARATOR}
-    <!-- END rpg_fields -->
+{rpg_fields.SEPARATOR}
+<!-- END rpg_fields -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields.SEPARATOR)

@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.ONLINE_IMG_INV}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.ONLINE_IMG_INV}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.ONLINE_IMG_INV)

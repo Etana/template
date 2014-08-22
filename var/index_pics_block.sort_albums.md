@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN index_pics_block -->
     <!-- BEGIN sort_albums -->
-        contenu sur lequel on boucle
-        <!-- END sort_albums -->
-    <!-- END index_pics_block -->
+    contenu sur lequel on boucle
+    <!-- END sort_albums -->
+<!-- END index_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.sort_albums)

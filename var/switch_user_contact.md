@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_user_contact -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_contact -->
+contenu sur lequel on boucle
+<!-- END switch_user_contact -->
 <!-- BEGIN switch_user_contact -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_contact -->
+contenu sur lequel on boucle
+<!-- END switch_user_contact -->
 <!-- BEGIN switch_user_contact -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_contact -->
+contenu sur lequel on boucle
+<!-- END switch_user_contact -->
 <!-- BEGIN switch_user_contact -->
-    contenu sur lequel on boucle
-    <!-- END switch_user_contact -->
+contenu sur lequel on boucle
+<!-- END switch_user_contact -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_contact)

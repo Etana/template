@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN no_personal_galleries -->
-    {no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
-    <!-- END no_personal_galleries -->
+{no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
+<!-- END no_personal_galleries -->
 <!-- BEGIN no_personal_galleries -->
-    {no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
-    <!-- END no_personal_galleries -->
+{no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
+<!-- END no_personal_galleries -->
 <!-- BEGIN no_personal_galleries -->
-    {no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
-    <!-- END no_personal_galleries -->
+{no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
+<!-- END no_personal_galleries -->
 <!-- BEGIN no_personal_galleries -->
-    {no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
-    <!-- END no_personal_galleries -->
+{no_personal_galleries.L_NO_PERSONNAL_GALLERIES}
+<!-- END no_personal_galleries -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_personal_galleries.L_NO_PERSONNAL_GALLERIES)

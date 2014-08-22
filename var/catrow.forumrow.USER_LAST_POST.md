@@ -6,19 +6,19 @@
 ```smarty
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.USER_LAST_POST}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.USER_LAST_POST}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.USER_LAST_POST}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.USER_LAST_POST}
+    <!-- END forumrow -->
+<!-- END catrow -->
 <!-- BEGIN catrow -->
     <!-- BEGIN forumrow -->
-        {catrow.forumrow.USER_LAST_POST}
-        <!-- END forumrow -->
-    <!-- END catrow -->
+    {catrow.forumrow.USER_LAST_POST}
+    <!-- END forumrow -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.USER_LAST_POST)

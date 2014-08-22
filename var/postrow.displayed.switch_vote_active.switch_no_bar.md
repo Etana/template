@@ -8,38 +8,38 @@
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_no_bar -->
-                contenu sur lequel on boucle
-                <!-- END switch_no_bar -->
-            <!-- END switch_vote_active -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_no_bar -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_no_bar -->
-                contenu sur lequel on boucle
-                <!-- END switch_no_bar -->
-            <!-- END switch_vote_active -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_no_bar -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_no_bar -->
-                contenu sur lequel on boucle
-                <!-- END switch_no_bar -->
-            <!-- END switch_vote_active -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_no_bar -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN switch_vote_active -->
             <!-- BEGIN switch_no_bar -->
-                contenu sur lequel on boucle
-                <!-- END switch_no_bar -->
-            <!-- END switch_vote_active -->
-        <!-- END displayed -->
-    <!-- END postrow -->
+            contenu sur lequel on boucle
+            <!-- END switch_no_bar -->
+        <!-- END switch_vote_active -->
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)

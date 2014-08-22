@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN pics_nav -->
     <!-- BEGIN next -->
-        {pics_nav.next.U_PICS_THUMB}
-        <!-- END next -->
-    <!-- END pics_nav -->
+    {pics_nav.next.U_PICS_THUMB}
+    <!-- END next -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN next -->
-        {pics_nav.next.U_PICS_THUMB}
-        <!-- END next -->
-    <!-- END pics_nav -->
+    {pics_nav.next.U_PICS_THUMB}
+    <!-- END next -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN next -->
-        {pics_nav.next.U_PICS_THUMB}
-        <!-- END next -->
-    <!-- END pics_nav -->
+    {pics_nav.next.U_PICS_THUMB}
+    <!-- END next -->
+<!-- END pics_nav -->
 <!-- BEGIN pics_nav -->
     <!-- BEGIN next -->
-        {pics_nav.next.U_PICS_THUMB}
-        <!-- END next -->
-    <!-- END pics_nav -->
+    {pics_nav.next.U_PICS_THUMB}
+    <!-- END next -->
+<!-- END pics_nav -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav.next.U_PICS_THUMB)

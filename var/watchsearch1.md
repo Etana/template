@@ -5,14 +5,14 @@
 
 ```smarty
 <!-- BEGIN watchsearch1 -->
-    contenu sur lequel on boucle
-    <!-- END watchsearch1 -->
+contenu sur lequel on boucle
+<!-- END watchsearch1 -->
 <!-- BEGIN watchsearch1 -->
-    contenu sur lequel on boucle
-    <!-- END watchsearch1 -->
+contenu sur lequel on boucle
+<!-- END watchsearch1 -->
 <!-- BEGIN watchsearch1 -->
-    contenu sur lequel on boucle
-    <!-- END watchsearch1 -->
+contenu sur lequel on boucle
+<!-- END watchsearch1 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/watchsearch1)

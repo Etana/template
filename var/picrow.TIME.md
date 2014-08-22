@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN picrow -->
-    {picrow.TIME}
-    <!-- END picrow -->
+{picrow.TIME}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.TIME}
-    <!-- END picrow -->
+{picrow.TIME}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.TIME}
-    <!-- END picrow -->
+{picrow.TIME}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.TIME}
-    <!-- END picrow -->
+{picrow.TIME}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.TIME}
-    <!-- END picrow -->
+{picrow.TIME}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.TIME}
-    <!-- END picrow -->
+{picrow.TIME}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.TIME}
-    <!-- END picrow -->
+{picrow.TIME}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.TIME}
-    <!-- END picrow -->
+{picrow.TIME}
+<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.TIME)

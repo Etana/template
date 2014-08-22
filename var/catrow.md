@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN catrow -->
-    contenu sur lequel on boucle
-    <!-- END catrow -->
+contenu sur lequel on boucle
+<!-- END catrow -->
 <!-- BEGIN catrow -->
-    contenu sur lequel on boucle
-    <!-- END catrow -->
+contenu sur lequel on boucle
+<!-- END catrow -->
 <!-- BEGIN catrow -->
-    contenu sur lequel on boucle
-    <!-- END catrow -->
+contenu sur lequel on boucle
+<!-- END catrow -->
 <!-- BEGIN catrow -->
-    contenu sur lequel on boucle
-    <!-- END catrow -->
+contenu sur lequel on boucle
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_confirm_password_new -->
-    contenu sur lequel on boucle
-    <!-- END switch_confirm_password_new -->
+contenu sur lequel on boucle
+<!-- END switch_confirm_password_new -->
 <!-- BEGIN switch_confirm_password_new -->
-    contenu sur lequel on boucle
-    <!-- END switch_confirm_password_new -->
+contenu sur lequel on boucle
+<!-- END switch_confirm_password_new -->
 <!-- BEGIN switch_confirm_password_new -->
-    contenu sur lequel on boucle
-    <!-- END switch_confirm_password_new -->
+contenu sur lequel on boucle
+<!-- END switch_confirm_password_new -->
 <!-- BEGIN switch_confirm_password_new -->
-    contenu sur lequel on boucle
-    <!-- END switch_confirm_password_new -->
+contenu sur lequel on boucle
+<!-- END switch_confirm_password_new -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_confirm_password_new)

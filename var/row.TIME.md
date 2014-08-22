@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN row -->
-    {row.TIME}
-    <!-- END row -->
+{row.TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.TIME}
-    <!-- END row -->
+{row.TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.TIME}
-    <!-- END row -->
+{row.TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.TIME}
-    <!-- END row -->
+{row.TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.TIME}
-    <!-- END row -->
+{row.TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.TIME}
-    <!-- END row -->
+{row.TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.TIME}
-    <!-- END row -->
+{row.TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.TIME}
-    <!-- END row -->
+{row.TIME}
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.TIME)

@@ -7,10 +7,10 @@
 <!-- BEGIN build_categories_block -->
     <!-- BEGIN recent_pics -->
         <!-- BEGIN recent_detail2 -->
-            contenu sur lequel on boucle
-            <!-- END recent_detail2 -->
-        <!-- END recent_pics -->
-    <!-- END build_categories_block -->
+        contenu sur lequel on boucle
+        <!-- END recent_detail2 -->
+    <!-- END recent_pics -->
+<!-- END build_categories_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail2)

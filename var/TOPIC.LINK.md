@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN TOPIC -->
-    {TOPIC.LINK}
-    <!-- END TOPIC -->
+{TOPIC.LINK}
+<!-- END TOPIC -->
 <!-- BEGIN TOPIC -->
-    {TOPIC.LINK}
-    <!-- END TOPIC -->
+{TOPIC.LINK}
+<!-- END TOPIC -->
 <!-- BEGIN TOPIC -->
-    {TOPIC.LINK}
-    <!-- END TOPIC -->
+{TOPIC.LINK}
+<!-- END TOPIC -->
 <!-- BEGIN TOPIC -->
-    {TOPIC.LINK}
-    <!-- END TOPIC -->
+{TOPIC.LINK}
+<!-- END TOPIC -->
 <!-- BEGIN TOPIC -->
-    {TOPIC.LINK}
-    <!-- END TOPIC -->
+{TOPIC.LINK}
+<!-- END TOPIC -->
 <!-- BEGIN TOPIC -->
-    {TOPIC.LINK}
-    <!-- END TOPIC -->
+{TOPIC.LINK}
+<!-- END TOPIC -->
 <!-- BEGIN TOPIC -->
-    {TOPIC.LINK}
-    <!-- END TOPIC -->
+{TOPIC.LINK}
+<!-- END TOPIC -->
 <!-- BEGIN TOPIC -->
-    {TOPIC.LINK}
-    <!-- END TOPIC -->
+{TOPIC.LINK}
+<!-- END TOPIC -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC.LINK)

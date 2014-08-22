@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN picrow -->
-    {picrow.LOCK}
-    <!-- END picrow -->
+{picrow.LOCK}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.LOCK}
-    <!-- END picrow -->
+{picrow.LOCK}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.LOCK}
-    <!-- END picrow -->
+{picrow.LOCK}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.LOCK}
-    <!-- END picrow -->
+{picrow.LOCK}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.LOCK}
-    <!-- END picrow -->
+{picrow.LOCK}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.LOCK}
-    <!-- END picrow -->
+{picrow.LOCK}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.LOCK}
-    <!-- END picrow -->
+{picrow.LOCK}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.LOCK}
-    <!-- END picrow -->
+{picrow.LOCK}
+<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.LOCK)

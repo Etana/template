@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN picrow -->
-    {picrow.APPROVAL}
-    <!-- END picrow -->
+{picrow.APPROVAL}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.APPROVAL}
-    <!-- END picrow -->
+{picrow.APPROVAL}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.APPROVAL}
-    <!-- END picrow -->
+{picrow.APPROVAL}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.APPROVAL}
-    <!-- END picrow -->
+{picrow.APPROVAL}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.APPROVAL}
-    <!-- END picrow -->
+{picrow.APPROVAL}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.APPROVAL}
-    <!-- END picrow -->
+{picrow.APPROVAL}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.APPROVAL}
-    <!-- END picrow -->
+{picrow.APPROVAL}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.APPROVAL}
-    <!-- END picrow -->
+{picrow.APPROVAL}
+<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.APPROVAL)

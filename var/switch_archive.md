@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_archive -->
-    contenu sur lequel on boucle
-    <!-- END switch_archive -->
+contenu sur lequel on boucle
+<!-- END switch_archive -->
 <!-- BEGIN switch_archive -->
-    contenu sur lequel on boucle
-    <!-- END switch_archive -->
+contenu sur lequel on boucle
+<!-- END switch_archive -->
 <!-- BEGIN switch_archive -->
-    contenu sur lequel on boucle
-    <!-- END switch_archive -->
+contenu sur lequel on boucle
+<!-- END switch_archive -->
 <!-- BEGIN switch_archive -->
-    contenu sur lequel on boucle
-    <!-- END switch_archive -->
+contenu sur lequel on boucle
+<!-- END switch_archive -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_archive)

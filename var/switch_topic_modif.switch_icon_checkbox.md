@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_topic_modif -->
     <!-- BEGIN switch_icon_checkbox -->
-        contenu sur lequel on boucle
-        <!-- END switch_icon_checkbox -->
-    <!-- END switch_topic_modif -->
+    contenu sur lequel on boucle
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
 <!-- BEGIN switch_topic_modif -->
     <!-- BEGIN switch_icon_checkbox -->
-        contenu sur lequel on boucle
-        <!-- END switch_icon_checkbox -->
-    <!-- END switch_topic_modif -->
+    contenu sur lequel on boucle
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
 <!-- BEGIN switch_topic_modif -->
     <!-- BEGIN switch_icon_checkbox -->
-        contenu sur lequel on boucle
-        <!-- END switch_icon_checkbox -->
-    <!-- END switch_topic_modif -->
+    contenu sur lequel on boucle
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
 <!-- BEGIN switch_topic_modif -->
     <!-- BEGIN switch_icon_checkbox -->
-        contenu sur lequel on boucle
-        <!-- END switch_icon_checkbox -->
-    <!-- END switch_topic_modif -->
+    contenu sur lequel on boucle
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox)

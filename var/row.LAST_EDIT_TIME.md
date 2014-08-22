@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN row -->
-    {row.LAST_EDIT_TIME}
-    <!-- END row -->
+{row.LAST_EDIT_TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.LAST_EDIT_TIME}
-    <!-- END row -->
+{row.LAST_EDIT_TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.LAST_EDIT_TIME}
-    <!-- END row -->
+{row.LAST_EDIT_TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.LAST_EDIT_TIME}
-    <!-- END row -->
+{row.LAST_EDIT_TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.LAST_EDIT_TIME}
-    <!-- END row -->
+{row.LAST_EDIT_TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.LAST_EDIT_TIME}
-    <!-- END row -->
+{row.LAST_EDIT_TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.LAST_EDIT_TIME}
-    <!-- END row -->
+{row.LAST_EDIT_TIME}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.LAST_EDIT_TIME}
-    <!-- END row -->
+{row.LAST_EDIT_TIME}
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.LAST_EDIT_TIME)

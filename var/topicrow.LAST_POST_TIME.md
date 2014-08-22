@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN topicrow -->
-    {topicrow.LAST_POST_TIME}
-    <!-- END topicrow -->
+{topicrow.LAST_POST_TIME}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.LAST_POST_TIME}
-    <!-- END topicrow -->
+{topicrow.LAST_POST_TIME}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.LAST_POST_TIME}
-    <!-- END topicrow -->
+{topicrow.LAST_POST_TIME}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.LAST_POST_TIME}
-    <!-- END topicrow -->
+{topicrow.LAST_POST_TIME}
+<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.LAST_POST_TIME)

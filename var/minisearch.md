@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN minisearch -->
-    contenu sur lequel on boucle
-    <!-- END minisearch -->
+contenu sur lequel on boucle
+<!-- END minisearch -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/minisearch)

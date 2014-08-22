@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_report -->
-        {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}
-        <!-- END switch_report -->
-    <!-- END switch_preferences_menu -->
+    {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}
+    <!-- END switch_report -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_report -->
-        {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}
-        <!-- END switch_report -->
-    <!-- END switch_preferences_menu -->
+    {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}
+    <!-- END switch_report -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_report -->
-        {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}
-        <!-- END switch_report -->
-    <!-- END switch_preferences_menu -->
+    {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}
+    <!-- END switch_report -->
+<!-- END switch_preferences_menu -->
 <!-- BEGIN switch_preferences_menu -->
     <!-- BEGIN switch_report -->
-        {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}
-        <!-- END switch_report -->
-    <!-- END switch_preferences_menu -->
+    {switch_preferences_menu.switch_report.L_NO_REPORT_POPUP}
+    <!-- END switch_report -->
+<!-- END switch_preferences_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_report.L_NO_REPORT_POPUP)

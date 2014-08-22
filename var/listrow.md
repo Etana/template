@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN listrow -->
-    contenu sur lequel on boucle
-    <!-- END listrow -->
+contenu sur lequel on boucle
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    contenu sur lequel on boucle
-    <!-- END listrow -->
+contenu sur lequel on boucle
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    contenu sur lequel on boucle
-    <!-- END listrow -->
+contenu sur lequel on boucle
+<!-- END listrow -->
 <!-- BEGIN listrow -->
-    contenu sur lequel on boucle
-    <!-- END listrow -->
+contenu sur lequel on boucle
+<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow)

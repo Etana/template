@@ -6,19 +6,19 @@
 ```smarty
 <!-- BEGIN switch_user_logged_in -->
     <!-- BEGIN watchtopic -->
-        contenu sur lequel on boucle
-        <!-- END watchtopic -->
-    <!-- END switch_user_logged_in -->
+    contenu sur lequel on boucle
+    <!-- END watchtopic -->
+<!-- END switch_user_logged_in -->
 <!-- BEGIN switch_user_logged_in -->
     <!-- BEGIN watchtopic -->
-        contenu sur lequel on boucle
-        <!-- END watchtopic -->
-    <!-- END switch_user_logged_in -->
+    contenu sur lequel on boucle
+    <!-- END watchtopic -->
+<!-- END switch_user_logged_in -->
 <!-- BEGIN switch_user_logged_in -->
     <!-- BEGIN watchtopic -->
-        contenu sur lequel on boucle
-        <!-- END watchtopic -->
-    <!-- END switch_user_logged_in -->
+    contenu sur lequel on boucle
+    <!-- END watchtopic -->
+<!-- END switch_user_logged_in -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.watchtopic)

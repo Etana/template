@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN userrow -->
-    {userrow.L_SEARCH_POSTS}
-    <!-- END userrow -->
+{userrow.L_SEARCH_POSTS}
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    {userrow.L_SEARCH_POSTS}
-    <!-- END userrow -->
+{userrow.L_SEARCH_POSTS}
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    {userrow.L_SEARCH_POSTS}
-    <!-- END userrow -->
+{userrow.L_SEARCH_POSTS}
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    {userrow.L_SEARCH_POSTS}
-    <!-- END userrow -->
+{userrow.L_SEARCH_POSTS}
+<!-- END userrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow.L_SEARCH_POSTS)

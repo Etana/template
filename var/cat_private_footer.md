@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN cat_private_footer -->
-    contenu sur lequel on boucle
-    <!-- END cat_private_footer -->
+contenu sur lequel on boucle
+<!-- END cat_private_footer -->
 <!-- BEGIN cat_private_footer -->
-    contenu sur lequel on boucle
-    <!-- END cat_private_footer -->
+contenu sur lequel on boucle
+<!-- END cat_private_footer -->
 <!-- BEGIN cat_private_footer -->
-    contenu sur lequel on boucle
-    <!-- END cat_private_footer -->
+contenu sur lequel on boucle
+<!-- END cat_private_footer -->
 <!-- BEGIN cat_private_footer -->
-    contenu sur lequel on boucle
-    <!-- END cat_private_footer -->
+contenu sur lequel on boucle
+<!-- END cat_private_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cat_private_footer)

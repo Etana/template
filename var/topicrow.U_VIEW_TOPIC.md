@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN topicrow -->
-    {topicrow.U_VIEW_TOPIC}
-    <!-- END topicrow -->
+{topicrow.U_VIEW_TOPIC}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.U_VIEW_TOPIC}
-    <!-- END topicrow -->
+{topicrow.U_VIEW_TOPIC}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.U_VIEW_TOPIC}
-    <!-- END topicrow -->
+{topicrow.U_VIEW_TOPIC}
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    {topicrow.U_VIEW_TOPIC}
-    <!-- END topicrow -->
+{topicrow.U_VIEW_TOPIC}
+<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.U_VIEW_TOPIC)

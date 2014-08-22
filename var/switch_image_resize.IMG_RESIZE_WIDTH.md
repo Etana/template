@@ -5,65 +5,65 @@
 
 ```smarty
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 <!-- BEGIN switch_image_resize -->
-    {switch_image_resize.IMG_RESIZE_WIDTH}
-    <!-- END switch_image_resize -->
+{switch_image_resize.IMG_RESIZE_WIDTH}
+<!-- END switch_image_resize -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_image_resize.IMG_RESIZE_WIDTH)

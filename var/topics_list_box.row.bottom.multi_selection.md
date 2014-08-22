@@ -8,11 +8,11 @@
     <!-- BEGIN row -->
         <!-- BEGIN bottom -->
             <!-- BEGIN multi_selection -->
-                contenu sur lequel on boucle
-                <!-- END multi_selection -->
-            <!-- END bottom -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END multi_selection -->
+        <!-- END bottom -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.multi_selection)

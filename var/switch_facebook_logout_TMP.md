@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_facebook_logout_TMP -->
-    contenu sur lequel on boucle
-    <!-- END switch_facebook_logout_TMP -->
+contenu sur lequel on boucle
+<!-- END switch_facebook_logout_TMP -->
 <!-- BEGIN switch_facebook_logout_TMP -->
-    contenu sur lequel on boucle
-    <!-- END switch_facebook_logout_TMP -->
+contenu sur lequel on boucle
+<!-- END switch_facebook_logout_TMP -->
 <!-- BEGIN switch_facebook_logout_TMP -->
-    contenu sur lequel on boucle
-    <!-- END switch_facebook_logout_TMP -->
+contenu sur lequel on boucle
+<!-- END switch_facebook_logout_TMP -->
 <!-- BEGIN switch_facebook_logout_TMP -->
-    contenu sur lequel on boucle
-    <!-- END switch_facebook_logout_TMP -->
+contenu sur lequel on boucle
+<!-- END switch_facebook_logout_TMP -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_facebook_logout_TMP)

@@ -5,14 +5,14 @@
 
 ```smarty
 <!-- BEGIN switch_post_a -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_a -->
+contenu sur lequel on boucle
+<!-- END switch_post_a -->
 <!-- BEGIN switch_post_a -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_a -->
+contenu sur lequel on boucle
+<!-- END switch_post_a -->
 <!-- BEGIN switch_post_a -->
-    contenu sur lequel on boucle
-    <!-- END switch_post_a -->
+contenu sur lequel on boucle
+<!-- END switch_post_a -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_post_a)

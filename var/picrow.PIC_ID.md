@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN picrow -->
-    {picrow.PIC_ID}
-    <!-- END picrow -->
+{picrow.PIC_ID}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.PIC_ID}
-    <!-- END picrow -->
+{picrow.PIC_ID}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.PIC_ID}
-    <!-- END picrow -->
+{picrow.PIC_ID}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.PIC_ID}
-    <!-- END picrow -->
+{picrow.PIC_ID}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.PIC_ID}
-    <!-- END picrow -->
+{picrow.PIC_ID}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.PIC_ID}
-    <!-- END picrow -->
+{picrow.PIC_ID}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.PIC_ID}
-    <!-- END picrow -->
+{picrow.PIC_ID}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.PIC_ID}
-    <!-- END picrow -->
+{picrow.PIC_ID}
+<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.PIC_ID)

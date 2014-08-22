@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN iprow -->
-    {iprow.IP}
-    <!-- END iprow -->
+{iprow.IP}
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    {iprow.IP}
-    <!-- END iprow -->
+{iprow.IP}
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    {iprow.IP}
-    <!-- END iprow -->
+{iprow.IP}
+<!-- END iprow -->
 <!-- BEGIN iprow -->
-    {iprow.IP}
-    <!-- END iprow -->
+{iprow.IP}
+<!-- END iprow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/iprow.IP)

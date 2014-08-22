@@ -6,14 +6,14 @@
 ```smarty
 <!-- BEGIN switch_search_results -->
     <!-- BEGIN search_results -->
-        {switch_search_results.search_results.ROW_CLASS}
-        <!-- END search_results -->
-    <!-- END switch_search_results -->
+    {switch_search_results.search_results.ROW_CLASS}
+    <!-- END search_results -->
+<!-- END switch_search_results -->
 <!-- BEGIN switch_search_results -->
     <!-- BEGIN search_results -->
-        {switch_search_results.search_results.ROW_CLASS}
-        <!-- END search_results -->
-    <!-- END switch_search_results -->
+    {switch_search_results.search_results.ROW_CLASS}
+    <!-- END search_results -->
+<!-- END switch_search_results -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.ROW_CLASS)

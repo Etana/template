@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN contact_field -->
-    {contact_field.ID}
-    <!-- END contact_field -->
+{contact_field.ID}
+<!-- END contact_field -->
 <!-- BEGIN contact_field -->
-    {contact_field.ID}
-    <!-- END contact_field -->
+{contact_field.ID}
+<!-- END contact_field -->
 <!-- BEGIN contact_field -->
-    {contact_field.ID}
-    <!-- END contact_field -->
+{contact_field.ID}
+<!-- END contact_field -->
 <!-- BEGIN contact_field -->
-    {contact_field.ID}
-    <!-- END contact_field -->
+{contact_field.ID}
+<!-- END contact_field -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/contact_field.ID)

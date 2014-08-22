@@ -7,10 +7,10 @@
 <!-- BEGIN list_pics_block -->
     <!-- BEGIN recent_pics -->
         <!-- BEGIN norecent_col -->
-            {list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1}
-            <!-- END norecent_col -->
-        <!-- END recent_pics -->
-    <!-- END list_pics_block -->
+        {list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1}
+        <!-- END norecent_col -->
+    <!-- END recent_pics -->
+<!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1)

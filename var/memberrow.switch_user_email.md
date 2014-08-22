@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN memberrow -->
     <!-- BEGIN switch_user_email -->
-        contenu sur lequel on boucle
-        <!-- END switch_user_email -->
-    <!-- END memberrow -->
+    contenu sur lequel on boucle
+    <!-- END switch_user_email -->
+<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_user_email)

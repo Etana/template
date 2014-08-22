@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN row -->
-    {row.AUTHOR}
-    <!-- END row -->
+{row.AUTHOR}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.AUTHOR}
-    <!-- END row -->
+{row.AUTHOR}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.AUTHOR}
-    <!-- END row -->
+{row.AUTHOR}
+<!-- END row -->
 <!-- BEGIN row -->
-    {row.AUTHOR}
-    <!-- END row -->
+{row.AUTHOR}
+<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.AUTHOR)

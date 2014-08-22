@@ -6,14 +6,14 @@
 ```smarty
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_span_div -->
-        contenu sur lequel on boucle
-        <!-- END switch_span_div -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_span_div -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_span_div -->
-        contenu sur lequel on boucle
-        <!-- END switch_span_div -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_span_div -->
+<!-- END switch_informations_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_span_div)

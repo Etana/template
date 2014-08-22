@@ -5,23 +5,23 @@
 
 ```smarty
 <!-- BEGIN switch_pagination -->
-    contenu sur lequel on boucle
-    <!-- END switch_pagination -->
+contenu sur lequel on boucle
+<!-- END switch_pagination -->
 <!-- BEGIN switch_pagination -->
-    contenu sur lequel on boucle
-    <!-- END switch_pagination -->
+contenu sur lequel on boucle
+<!-- END switch_pagination -->
 <!-- BEGIN switch_pagination -->
-    contenu sur lequel on boucle
-    <!-- END switch_pagination -->
+contenu sur lequel on boucle
+<!-- END switch_pagination -->
 <!-- BEGIN switch_pagination -->
-    contenu sur lequel on boucle
-    <!-- END switch_pagination -->
+contenu sur lequel on boucle
+<!-- END switch_pagination -->
 <!-- BEGIN switch_pagination -->
-    contenu sur lequel on boucle
-    <!-- END switch_pagination -->
+contenu sur lequel on boucle
+<!-- END switch_pagination -->
 <!-- BEGIN switch_pagination -->
-    contenu sur lequel on boucle
-    <!-- END switch_pagination -->
+contenu sur lequel on boucle
+<!-- END switch_pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_pagination)

@@ -6,44 +6,44 @@
 ```smarty
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_personal_footer -->
-        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
-        <!-- END cat_personal_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_personal_footer -->
-        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
-        <!-- END cat_personal_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_personal_footer -->
-        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
-        <!-- END cat_personal_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_personal_footer -->
-        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
-        <!-- END cat_personal_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_personal_footer -->
-        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
-        <!-- END cat_personal_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_personal_footer -->
-        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
-        <!-- END cat_personal_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_personal_footer -->
-        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
-        <!-- END cat_personal_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_personal_footer -->
-        {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
-        <!-- END cat_personal_footer -->
-    <!-- END navlinks -->
+    {navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY}
+    <!-- END cat_personal_footer -->
+<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_personal_footer.L_YOUR_PERSONAL_GALLERY)

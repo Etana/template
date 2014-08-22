@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_not_privmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_not_privmsg -->
+contenu sur lequel on boucle
+<!-- END switch_not_privmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_not_privmsg)

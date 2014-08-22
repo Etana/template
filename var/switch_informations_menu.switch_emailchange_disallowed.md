@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_emailchange_disallowed -->
-        contenu sur lequel on boucle
-        <!-- END switch_emailchange_disallowed -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_emailchange_disallowed -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_emailchange_disallowed -->
-        contenu sur lequel on boucle
-        <!-- END switch_emailchange_disallowed -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_emailchange_disallowed -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_emailchange_disallowed -->
-        contenu sur lequel on boucle
-        <!-- END switch_emailchange_disallowed -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_emailchange_disallowed -->
+<!-- END switch_informations_menu -->
 <!-- BEGIN switch_informations_menu -->
     <!-- BEGIN switch_emailchange_disallowed -->
-        contenu sur lequel on boucle
-        <!-- END switch_emailchange_disallowed -->
-    <!-- END switch_informations_menu -->
+    contenu sur lequel on boucle
+    <!-- END switch_emailchange_disallowed -->
+<!-- END switch_informations_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_emailchange_disallowed)

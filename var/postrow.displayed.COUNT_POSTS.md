@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
-        {postrow.displayed.COUNT_POSTS}
-        <!-- END displayed -->
-    <!-- END postrow -->
+    {postrow.displayed.COUNT_POSTS}
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.COUNT_POSTS)

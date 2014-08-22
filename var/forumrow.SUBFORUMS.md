@@ -5,14 +5,14 @@
 
 ```smarty
 <!-- BEGIN forumrow -->
-    {forumrow.SUBFORUMS}
-    <!-- END forumrow -->
+{forumrow.SUBFORUMS}
+<!-- END forumrow -->
 <!-- BEGIN forumrow -->
-    {forumrow.SUBFORUMS}
-    <!-- END forumrow -->
+{forumrow.SUBFORUMS}
+<!-- END forumrow -->
 <!-- BEGIN forumrow -->
-    {forumrow.SUBFORUMS}
-    <!-- END forumrow -->
+{forumrow.SUBFORUMS}
+<!-- END forumrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/forumrow.SUBFORUMS)

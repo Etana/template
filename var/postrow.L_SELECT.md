@@ -5,14 +5,14 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    {postrow.L_SELECT}
-    <!-- END postrow -->
+{postrow.L_SELECT}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.L_SELECT}
-    <!-- END postrow -->
+{postrow.L_SELECT}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.L_SELECT}
-    <!-- END postrow -->
+{postrow.L_SELECT}
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.L_SELECT)

@@ -7,10 +7,10 @@
 <!-- BEGIN index_pics_block -->
     <!-- BEGIN picrow -->
         <!-- BEGIN nopiccol -->
-            contenu sur lequel on boucle
-            <!-- END nopiccol -->
-        <!-- END picrow -->
-    <!-- END index_pics_block -->
+        contenu sur lequel on boucle
+        <!-- END nopiccol -->
+    <!-- END picrow -->
+<!-- END index_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.picrow.nopiccol)

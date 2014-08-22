@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_groupmsg -->
-    contenu sur lequel on boucle
-    <!-- END switch_groupmsg -->
+contenu sur lequel on boucle
+<!-- END switch_groupmsg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groupmsg)

@@ -5,26 +5,26 @@
 
 ```smarty
 <!-- BEGIN guest_user_row -->
-    {guest_user_row.ROW_CLASS}
-    <!-- END guest_user_row -->
+{guest_user_row.ROW_CLASS}
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    {guest_user_row.ROW_CLASS}
-    <!-- END guest_user_row -->
+{guest_user_row.ROW_CLASS}
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    {guest_user_row.ROW_CLASS}
-    <!-- END guest_user_row -->
+{guest_user_row.ROW_CLASS}
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    {guest_user_row.ROW_CLASS}
-    <!-- END guest_user_row -->
+{guest_user_row.ROW_CLASS}
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    {guest_user_row.ROW_CLASS}
-    <!-- END guest_user_row -->
+{guest_user_row.ROW_CLASS}
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    {guest_user_row.ROW_CLASS}
-    <!-- END guest_user_row -->
+{guest_user_row.ROW_CLASS}
+<!-- END guest_user_row -->
 <!-- BEGIN guest_user_row -->
-    {guest_user_row.ROW_CLASS}
-    <!-- END guest_user_row -->
+{guest_user_row.ROW_CLASS}
+<!-- END guest_user_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/guest_user_row.ROW_CLASS)

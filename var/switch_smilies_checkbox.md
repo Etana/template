@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_smilies_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_smilies_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_smilies_checkbox -->
 <!-- BEGIN switch_smilies_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_smilies_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_smilies_checkbox -->
 <!-- BEGIN switch_smilies_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_smilies_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_smilies_checkbox -->
 <!-- BEGIN switch_smilies_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_smilies_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_smilies_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_smilies_checkbox)

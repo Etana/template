@@ -8,11 +8,11 @@
     <!-- BEGIN _row -->
         <!-- BEGIN _cell -->
             <!-- BEGIN switch_filled -->
-                {_calendar_box._row._cell.switch_filled.TOGGLE_STATUS}
-                <!-- END switch_filled -->
-            <!-- END _cell -->
-        <!-- END _row -->
-    <!-- END _calendar_box -->
+            {_calendar_box._row._cell.switch_filled.TOGGLE_STATUS}
+            <!-- END switch_filled -->
+        <!-- END _cell -->
+    <!-- END _row -->
+<!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.TOGGLE_STATUS)

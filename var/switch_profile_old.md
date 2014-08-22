@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_profile_old -->
-    contenu sur lequel on boucle
-    <!-- END switch_profile_old -->
+contenu sur lequel on boucle
+<!-- END switch_profile_old -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_profile_old)

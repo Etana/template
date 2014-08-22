@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN memberrow -->
-    {memberrow.JOINED}
-    <!-- END memberrow -->
+{memberrow.JOINED}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.JOINED}
-    <!-- END memberrow -->
+{memberrow.JOINED}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.JOINED}
-    <!-- END memberrow -->
+{memberrow.JOINED}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.JOINED}
-    <!-- END memberrow -->
+{memberrow.JOINED}
+<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.JOINED)

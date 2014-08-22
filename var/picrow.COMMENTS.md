@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN picrow -->
-    {picrow.COMMENTS}
-    <!-- END picrow -->
+{picrow.COMMENTS}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.COMMENTS}
-    <!-- END picrow -->
+{picrow.COMMENTS}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.COMMENTS}
-    <!-- END picrow -->
+{picrow.COMMENTS}
+<!-- END picrow -->
 <!-- BEGIN picrow -->
-    {picrow.COMMENTS}
-    <!-- END picrow -->
+{picrow.COMMENTS}
+<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.COMMENTS)

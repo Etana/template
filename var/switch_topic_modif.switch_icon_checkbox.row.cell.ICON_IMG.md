@@ -8,38 +8,38 @@
     <!-- BEGIN switch_icon_checkbox -->
         <!-- BEGIN row -->
             <!-- BEGIN cell -->
-                {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}
-                <!-- END cell -->
-            <!-- END row -->
-        <!-- END switch_icon_checkbox -->
-    <!-- END switch_topic_modif -->
+            {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
 <!-- BEGIN switch_topic_modif -->
     <!-- BEGIN switch_icon_checkbox -->
         <!-- BEGIN row -->
             <!-- BEGIN cell -->
-                {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}
-                <!-- END cell -->
-            <!-- END row -->
-        <!-- END switch_icon_checkbox -->
-    <!-- END switch_topic_modif -->
+            {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
 <!-- BEGIN switch_topic_modif -->
     <!-- BEGIN switch_icon_checkbox -->
         <!-- BEGIN row -->
             <!-- BEGIN cell -->
-                {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}
-                <!-- END cell -->
-            <!-- END row -->
-        <!-- END switch_icon_checkbox -->
-    <!-- END switch_topic_modif -->
+            {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
 <!-- BEGIN switch_topic_modif -->
     <!-- BEGIN switch_icon_checkbox -->
         <!-- BEGIN row -->
             <!-- BEGIN cell -->
-                {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}
-                <!-- END cell -->
-            <!-- END row -->
-        <!-- END switch_icon_checkbox -->
-    <!-- END switch_topic_modif -->
+            {switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}
+            <!-- END cell -->
+        <!-- END row -->
+    <!-- END switch_icon_checkbox -->
+<!-- END switch_topic_modif -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG)

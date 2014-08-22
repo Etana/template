@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN member_row -->
-    {member_row.USER_ID}
-    <!-- END member_row -->
+{member_row.USER_ID}
+<!-- END member_row -->
 <!-- BEGIN member_row -->
-    {member_row.USER_ID}
-    <!-- END member_row -->
+{member_row.USER_ID}
+<!-- END member_row -->
 <!-- BEGIN member_row -->
-    {member_row.USER_ID}
-    <!-- END member_row -->
+{member_row.USER_ID}
+<!-- END member_row -->
 <!-- BEGIN member_row -->
-    {member_row.USER_ID}
-    <!-- END member_row -->
+{member_row.USER_ID}
+<!-- END member_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/member_row.USER_ID)

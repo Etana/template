@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN main_page -->
     <!-- BEGIN pay_method -->
-        {main_page.pay_method.L_BY_METHOD}
-        <!-- END pay_method -->
-    <!-- END main_page -->
+    {main_page.pay_method.L_BY_METHOD}
+    <!-- END pay_method -->
+<!-- END main_page -->
 <!-- BEGIN main_page -->
     <!-- BEGIN pay_method -->
-        {main_page.pay_method.L_BY_METHOD}
-        <!-- END pay_method -->
-    <!-- END main_page -->
+    {main_page.pay_method.L_BY_METHOD}
+    <!-- END pay_method -->
+<!-- END main_page -->
 <!-- BEGIN main_page -->
     <!-- BEGIN pay_method -->
-        {main_page.pay_method.L_BY_METHOD}
-        <!-- END pay_method -->
-    <!-- END main_page -->
+    {main_page.pay_method.L_BY_METHOD}
+    <!-- END pay_method -->
+<!-- END main_page -->
 <!-- BEGIN main_page -->
     <!-- BEGIN pay_method -->
-        {main_page.pay_method.L_BY_METHOD}
-        <!-- END pay_method -->
-    <!-- END main_page -->
+    {main_page.pay_method.L_BY_METHOD}
+    <!-- END pay_method -->
+<!-- END main_page -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.L_BY_METHOD)

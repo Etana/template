@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
-        {topics_list_box.row.LAST_POST_AUTHOR}
-        <!-- END row -->
-    <!-- END topics_list_box -->
+    {topics_list_box.row.LAST_POST_AUTHOR}
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
-        {topics_list_box.row.LAST_POST_AUTHOR}
-        <!-- END row -->
-    <!-- END topics_list_box -->
+    {topics_list_box.row.LAST_POST_AUTHOR}
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
-        {topics_list_box.row.LAST_POST_AUTHOR}
-        <!-- END row -->
-    <!-- END topics_list_box -->
+    {topics_list_box.row.LAST_POST_AUTHOR}
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
-        {topics_list_box.row.LAST_POST_AUTHOR}
-        <!-- END row -->
-    <!-- END topics_list_box -->
+    {topics_list_box.row.LAST_POST_AUTHOR}
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.LAST_POST_AUTHOR)

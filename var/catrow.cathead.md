@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN catrow -->
     <!-- BEGIN cathead -->
-        contenu sur lequel on boucle
-        <!-- END cathead -->
-    <!-- END catrow -->
+    contenu sur lequel on boucle
+    <!-- END cathead -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead)

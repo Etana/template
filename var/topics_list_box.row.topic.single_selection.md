@@ -8,38 +8,38 @@
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN single_selection -->
-                contenu sur lequel on boucle
-                <!-- END single_selection -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END single_selection -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN single_selection -->
-                contenu sur lequel on boucle
-                <!-- END single_selection -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END single_selection -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN single_selection -->
-                contenu sur lequel on boucle
-                <!-- END single_selection -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END single_selection -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 <!-- BEGIN topics_list_box -->
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN single_selection -->
-                contenu sur lequel on boucle
-                <!-- END single_selection -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END single_selection -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.single_selection)

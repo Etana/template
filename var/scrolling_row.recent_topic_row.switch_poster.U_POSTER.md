@@ -7,31 +7,31 @@
 <!-- BEGIN scrolling_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->
-            {scrolling_row.recent_topic_row.switch_poster.U_POSTER}
-            <!-- END switch_poster -->
-        <!-- END recent_topic_row -->
-    <!-- END scrolling_row -->
+        {scrolling_row.recent_topic_row.switch_poster.U_POSTER}
+        <!-- END switch_poster -->
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
 <!-- BEGIN scrolling_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->
-            {scrolling_row.recent_topic_row.switch_poster.U_POSTER}
-            <!-- END switch_poster -->
-        <!-- END recent_topic_row -->
-    <!-- END scrolling_row -->
+        {scrolling_row.recent_topic_row.switch_poster.U_POSTER}
+        <!-- END switch_poster -->
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
 <!-- BEGIN scrolling_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->
-            {scrolling_row.recent_topic_row.switch_poster.U_POSTER}
-            <!-- END switch_poster -->
-        <!-- END recent_topic_row -->
-    <!-- END scrolling_row -->
+        {scrolling_row.recent_topic_row.switch_poster.U_POSTER}
+        <!-- END switch_poster -->
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
 <!-- BEGIN scrolling_row -->
     <!-- BEGIN recent_topic_row -->
         <!-- BEGIN switch_poster -->
-            {scrolling_row.recent_topic_row.switch_poster.U_POSTER}
-            <!-- END switch_poster -->
-        <!-- END recent_topic_row -->
-    <!-- END scrolling_row -->
+        {scrolling_row.recent_topic_row.switch_poster.U_POSTER}
+        <!-- END switch_poster -->
+    <!-- END recent_topic_row -->
+<!-- END scrolling_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row.switch_poster.U_POSTER)

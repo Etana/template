@@ -8,11 +8,11 @@
     <!-- BEGIN row -->
         <!-- BEGIN bottom -->
             <!-- BEGIN search -->
-                contenu sur lequel on boucle
-                <!-- END search -->
-            <!-- END bottom -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            contenu sur lequel on boucle
+            <!-- END search -->
+        <!-- END bottom -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.search)

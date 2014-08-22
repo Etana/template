@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN switch_user_login_form_header -->
     <!-- BEGIN switch_fb_connect_no -->
-        contenu sur lequel on boucle
-        <!-- END switch_fb_connect_no -->
-    <!-- END switch_user_login_form_header -->
+    contenu sur lequel on boucle
+    <!-- END switch_fb_connect_no -->
+<!-- END switch_user_login_form_header -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect_no)

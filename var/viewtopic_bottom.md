@@ -5,23 +5,23 @@
 
 ```smarty
 <!-- BEGIN viewtopic_bottom -->
-    contenu sur lequel on boucle
-    <!-- END viewtopic_bottom -->
+contenu sur lequel on boucle
+<!-- END viewtopic_bottom -->
 <!-- BEGIN viewtopic_bottom -->
-    contenu sur lequel on boucle
-    <!-- END viewtopic_bottom -->
+contenu sur lequel on boucle
+<!-- END viewtopic_bottom -->
 <!-- BEGIN viewtopic_bottom -->
-    contenu sur lequel on boucle
-    <!-- END viewtopic_bottom -->
+contenu sur lequel on boucle
+<!-- END viewtopic_bottom -->
 <!-- BEGIN viewtopic_bottom -->
-    contenu sur lequel on boucle
-    <!-- END viewtopic_bottom -->
+contenu sur lequel on boucle
+<!-- END viewtopic_bottom -->
 <!-- BEGIN viewtopic_bottom -->
-    contenu sur lequel on boucle
-    <!-- END viewtopic_bottom -->
+contenu sur lequel on boucle
+<!-- END viewtopic_bottom -->
 <!-- BEGIN viewtopic_bottom -->
-    contenu sur lequel on boucle
-    <!-- END viewtopic_bottom -->
+contenu sur lequel on boucle
+<!-- END viewtopic_bottom -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/viewtopic_bottom)

@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN topicrow -->
-    {topicrow.ICON}
-    <!-- END topicrow -->
+{topicrow.ICON}
+<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.ICON)

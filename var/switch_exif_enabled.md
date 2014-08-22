@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN switch_exif_enabled -->
-    contenu sur lequel on boucle
-    <!-- END switch_exif_enabled -->
+contenu sur lequel on boucle
+<!-- END switch_exif_enabled -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_exif_enabled)

@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_login -->
     <!-- BEGIN switch_fb_connect_login -->
-        {switch_login.switch_fb_connect_login.L_OR}
-        <!-- END switch_fb_connect_login -->
-    <!-- END switch_login -->
+    {switch_login.switch_fb_connect_login.L_OR}
+    <!-- END switch_fb_connect_login -->
+<!-- END switch_login -->
 <!-- BEGIN switch_login -->
     <!-- BEGIN switch_fb_connect_login -->
-        {switch_login.switch_fb_connect_login.L_OR}
-        <!-- END switch_fb_connect_login -->
-    <!-- END switch_login -->
+    {switch_login.switch_fb_connect_login.L_OR}
+    <!-- END switch_fb_connect_login -->
+<!-- END switch_login -->
 <!-- BEGIN switch_login -->
     <!-- BEGIN switch_fb_connect_login -->
-        {switch_login.switch_fb_connect_login.L_OR}
-        <!-- END switch_fb_connect_login -->
-    <!-- END switch_login -->
+    {switch_login.switch_fb_connect_login.L_OR}
+    <!-- END switch_fb_connect_login -->
+<!-- END switch_login -->
 <!-- BEGIN switch_login -->
     <!-- BEGIN switch_fb_connect_login -->
-        {switch_login.switch_fb_connect_login.L_OR}
-        <!-- END switch_fb_connect_login -->
-    <!-- END switch_login -->
+    {switch_login.switch_fb_connect_login.L_OR}
+    <!-- END switch_fb_connect_login -->
+<!-- END switch_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login.switch_fb_connect_login.L_OR)

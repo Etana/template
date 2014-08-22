@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN userrow -->
-    contenu sur lequel on boucle
-    <!-- END userrow -->
+contenu sur lequel on boucle
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    contenu sur lequel on boucle
-    <!-- END userrow -->
+contenu sur lequel on boucle
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    contenu sur lequel on boucle
-    <!-- END userrow -->
+contenu sur lequel on boucle
+<!-- END userrow -->
 <!-- BEGIN userrow -->
-    contenu sur lequel on boucle
-    <!-- END userrow -->
+contenu sur lequel on boucle
+<!-- END userrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow)

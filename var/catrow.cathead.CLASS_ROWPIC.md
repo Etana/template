@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN catrow -->
     <!-- BEGIN cathead -->
-        {catrow.cathead.CLASS_ROWPIC}
-        <!-- END cathead -->
-    <!-- END catrow -->
+    {catrow.cathead.CLASS_ROWPIC}
+    <!-- END cathead -->
+<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.CLASS_ROWPIC)

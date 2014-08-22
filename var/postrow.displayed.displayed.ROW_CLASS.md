@@ -7,10 +7,10 @@
 <!-- BEGIN postrow -->
     <!-- BEGIN displayed -->
         <!-- BEGIN displayed -->
-            {postrow.displayed.displayed.ROW_CLASS}
-            <!-- END displayed -->
+        {postrow.displayed.displayed.ROW_CLASS}
         <!-- END displayed -->
-    <!-- END postrow -->
+    <!-- END displayed -->
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.displayed.ROW_CLASS)

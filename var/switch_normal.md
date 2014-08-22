@@ -5,14 +5,14 @@
 
 ```smarty
 <!-- BEGIN switch_normal -->
-    contenu sur lequel on boucle
-    <!-- END switch_normal -->
+contenu sur lequel on boucle
+<!-- END switch_normal -->
 <!-- BEGIN switch_normal -->
-    contenu sur lequel on boucle
-    <!-- END switch_normal -->
+contenu sur lequel on boucle
+<!-- END switch_normal -->
 <!-- BEGIN switch_normal -->
-    contenu sur lequel on boucle
-    <!-- END switch_normal -->
+contenu sur lequel on boucle
+<!-- END switch_normal -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_normal)

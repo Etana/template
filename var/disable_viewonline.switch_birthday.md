@@ -6,9 +6,9 @@
 ```smarty
 <!-- BEGIN disable_viewonline -->
     <!-- BEGIN switch_birthday -->
-        contenu sur lequel on boucle
-        <!-- END switch_birthday -->
-    <!-- END disable_viewonline -->
+    contenu sur lequel on boucle
+    <!-- END switch_birthday -->
+<!-- END disable_viewonline -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_birthday)

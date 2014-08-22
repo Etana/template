@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN paypal_confirm -->
     <!-- BEGIN hidden_field -->
-        {paypal_confirm.hidden_field.NAME}
-        <!-- END hidden_field -->
-    <!-- END paypal_confirm -->
+    {paypal_confirm.hidden_field.NAME}
+    <!-- END hidden_field -->
+<!-- END paypal_confirm -->
 <!-- BEGIN paypal_confirm -->
     <!-- BEGIN hidden_field -->
-        {paypal_confirm.hidden_field.NAME}
-        <!-- END hidden_field -->
-    <!-- END paypal_confirm -->
+    {paypal_confirm.hidden_field.NAME}
+    <!-- END hidden_field -->
+<!-- END paypal_confirm -->
 <!-- BEGIN paypal_confirm -->
     <!-- BEGIN hidden_field -->
-        {paypal_confirm.hidden_field.NAME}
-        <!-- END hidden_field -->
-    <!-- END paypal_confirm -->
+    {paypal_confirm.hidden_field.NAME}
+    <!-- END hidden_field -->
+<!-- END paypal_confirm -->
 <!-- BEGIN paypal_confirm -->
     <!-- BEGIN hidden_field -->
-        {paypal_confirm.hidden_field.NAME}
-        <!-- END hidden_field -->
-    <!-- END paypal_confirm -->
+    {paypal_confirm.hidden_field.NAME}
+    <!-- END hidden_field -->
+<!-- END paypal_confirm -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field.NAME)

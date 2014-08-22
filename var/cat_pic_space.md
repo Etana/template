@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN cat_pic_space -->
-    contenu sur lequel on boucle
-    <!-- END cat_pic_space -->
+contenu sur lequel on boucle
+<!-- END cat_pic_space -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cat_pic_space)

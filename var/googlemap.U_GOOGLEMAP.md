@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN googlemap -->
-    {googlemap.U_GOOGLEMAP}
-    <!-- END googlemap -->
+{googlemap.U_GOOGLEMAP}
+<!-- END googlemap -->
 <!-- BEGIN googlemap -->
-    {googlemap.U_GOOGLEMAP}
-    <!-- END googlemap -->
+{googlemap.U_GOOGLEMAP}
+<!-- END googlemap -->
 <!-- BEGIN googlemap -->
-    {googlemap.U_GOOGLEMAP}
-    <!-- END googlemap -->
+{googlemap.U_GOOGLEMAP}
+<!-- END googlemap -->
 <!-- BEGIN googlemap -->
-    {googlemap.U_GOOGLEMAP}
-    <!-- END googlemap -->
+{googlemap.U_GOOGLEMAP}
+<!-- END googlemap -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/googlemap.U_GOOGLEMAP)

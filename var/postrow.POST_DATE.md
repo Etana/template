@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    {postrow.POST_DATE}
-    <!-- END postrow -->
+{postrow.POST_DATE}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POST_DATE}
-    <!-- END postrow -->
+{postrow.POST_DATE}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POST_DATE}
-    <!-- END postrow -->
+{postrow.POST_DATE}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POST_DATE}
-    <!-- END postrow -->
+{postrow.POST_DATE}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POST_DATE}
-    <!-- END postrow -->
+{postrow.POST_DATE}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POST_DATE}
-    <!-- END postrow -->
+{postrow.POST_DATE}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POST_DATE}
-    <!-- END postrow -->
+{postrow.POST_DATE}
+<!-- END postrow -->
 <!-- BEGIN postrow -->
-    {postrow.POST_DATE}
-    <!-- END postrow -->
+{postrow.POST_DATE}
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.POST_DATE)

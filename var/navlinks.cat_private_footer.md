@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
-        contenu sur lequel on boucle
-        <!-- END cat_private_footer -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END cat_private_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
-        contenu sur lequel on boucle
-        <!-- END cat_private_footer -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END cat_private_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
-        contenu sur lequel on boucle
-        <!-- END cat_private_footer -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END cat_private_footer -->
+<!-- END navlinks -->
 <!-- BEGIN navlinks -->
     <!-- BEGIN cat_private_footer -->
-        contenu sur lequel on boucle
-        <!-- END cat_private_footer -->
-    <!-- END navlinks -->
+    contenu sur lequel on boucle
+    <!-- END cat_private_footer -->
+<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_private_footer)

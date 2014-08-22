@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_rpg -->
     <!-- BEGIN rpg_fields_left -->
-        contenu sur lequel on boucle
-        <!-- END rpg_fields_left -->
-    <!-- END switch_rpg -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- END switch_rpg -->
 <!-- BEGIN switch_rpg -->
     <!-- BEGIN rpg_fields_left -->
-        contenu sur lequel on boucle
-        <!-- END rpg_fields_left -->
-    <!-- END switch_rpg -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- END switch_rpg -->
 <!-- BEGIN switch_rpg -->
     <!-- BEGIN rpg_fields_left -->
-        contenu sur lequel on boucle
-        <!-- END rpg_fields_left -->
-    <!-- END switch_rpg -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- END switch_rpg -->
 <!-- BEGIN switch_rpg -->
     <!-- BEGIN rpg_fields_left -->
-        contenu sur lequel on boucle
-        <!-- END rpg_fields_left -->
-    <!-- END switch_rpg -->
+    contenu sur lequel on boucle
+    <!-- END rpg_fields_left -->
+<!-- END switch_rpg -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rpg.rpg_fields_left)

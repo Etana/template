@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN switch_delete_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_delete_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_delete_checkbox -->
 <!-- BEGIN switch_delete_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_delete_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_delete_checkbox -->
 <!-- BEGIN switch_delete_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_delete_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_delete_checkbox -->
 <!-- BEGIN switch_delete_checkbox -->
-    contenu sur lequel on boucle
-    <!-- END switch_delete_checkbox -->
+contenu sur lequel on boucle
+<!-- END switch_delete_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_delete_checkbox)

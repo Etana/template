@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN memberrow -->
-    {memberrow.LASTVISIT}
-    <!-- END memberrow -->
+{memberrow.LASTVISIT}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.LASTVISIT}
-    <!-- END memberrow -->
+{memberrow.LASTVISIT}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.LASTVISIT}
-    <!-- END memberrow -->
+{memberrow.LASTVISIT}
+<!-- END memberrow -->
 <!-- BEGIN memberrow -->
-    {memberrow.LASTVISIT}
-    <!-- END memberrow -->
+{memberrow.LASTVISIT}
+<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.LASTVISIT)

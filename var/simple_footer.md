@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN simple_footer -->
-    contenu sur lequel on boucle
-    <!-- END simple_footer -->
+contenu sur lequel on boucle
+<!-- END simple_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/simple_footer)

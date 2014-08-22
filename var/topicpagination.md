@@ -5,29 +5,29 @@
 
 ```smarty
 <!-- BEGIN topicpagination -->
-    contenu sur lequel on boucle
-    <!-- END topicpagination -->
+contenu sur lequel on boucle
+<!-- END topicpagination -->
 <!-- BEGIN topicpagination -->
-    contenu sur lequel on boucle
-    <!-- END topicpagination -->
+contenu sur lequel on boucle
+<!-- END topicpagination -->
 <!-- BEGIN topicpagination -->
-    contenu sur lequel on boucle
-    <!-- END topicpagination -->
+contenu sur lequel on boucle
+<!-- END topicpagination -->
 <!-- BEGIN topicpagination -->
-    contenu sur lequel on boucle
-    <!-- END topicpagination -->
+contenu sur lequel on boucle
+<!-- END topicpagination -->
 <!-- BEGIN topicpagination -->
-    contenu sur lequel on boucle
-    <!-- END topicpagination -->
+contenu sur lequel on boucle
+<!-- END topicpagination -->
 <!-- BEGIN topicpagination -->
-    contenu sur lequel on boucle
-    <!-- END topicpagination -->
+contenu sur lequel on boucle
+<!-- END topicpagination -->
 <!-- BEGIN topicpagination -->
-    contenu sur lequel on boucle
-    <!-- END topicpagination -->
+contenu sur lequel on boucle
+<!-- END topicpagination -->
 <!-- BEGIN topicpagination -->
-    contenu sur lequel on boucle
-    <!-- END topicpagination -->
+contenu sur lequel on boucle
+<!-- END topicpagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicpagination)

@@ -5,17 +5,17 @@
 
 ```smarty
 <!-- BEGIN topicrow -->
-    contenu sur lequel on boucle
-    <!-- END topicrow -->
+contenu sur lequel on boucle
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    contenu sur lequel on boucle
-    <!-- END topicrow -->
+contenu sur lequel on boucle
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    contenu sur lequel on boucle
-    <!-- END topicrow -->
+contenu sur lequel on boucle
+<!-- END topicrow -->
 <!-- BEGIN topicrow -->
-    contenu sur lequel on boucle
-    <!-- END topicrow -->
+contenu sur lequel on boucle
+<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow)

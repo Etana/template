@@ -8,11 +8,11 @@
     <!-- BEGIN row -->
         <!-- BEGIN topic -->
             <!-- BEGIN table_sticky -->
-                {topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS}
-                <!-- END table_sticky -->
-            <!-- END topic -->
-        <!-- END row -->
-    <!-- END topics_list_box -->
+            {topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS}
+            <!-- END table_sticky -->
+        <!-- END topic -->
+    <!-- END row -->
+<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS)

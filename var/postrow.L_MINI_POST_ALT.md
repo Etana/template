@@ -5,8 +5,8 @@
 
 ```smarty
 <!-- BEGIN postrow -->
-    {postrow.L_MINI_POST_ALT}
-    <!-- END postrow -->
+{postrow.L_MINI_POST_ALT}
+<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.L_MINI_POST_ALT)

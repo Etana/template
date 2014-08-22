@@ -6,24 +6,24 @@
 ```smarty
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        contenu sur lequel on boucle
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    contenu sur lequel on boucle
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        contenu sur lequel on boucle
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    contenu sur lequel on boucle
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        contenu sur lequel on boucle
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    contenu sur lequel on boucle
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 <!-- BEGIN switch_attachment_list -->
     <!-- BEGIN attachments -->
-        contenu sur lequel on boucle
-        <!-- END attachments -->
-    <!-- END switch_attachment_list -->
+    contenu sur lequel on boucle
+    <!-- END attachments -->
+<!-- END switch_attachment_list -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)

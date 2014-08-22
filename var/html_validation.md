@@ -5,95 +5,95 @@
 
 ```smarty
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 <!-- BEGIN html_validation -->
-    contenu sur lequel on boucle
-    <!-- END html_validation -->
+contenu sur lequel on boucle
+<!-- END html_validation -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/html_validation)
