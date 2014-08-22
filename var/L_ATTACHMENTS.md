@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ATTACHMENTS}
-{L_ATTACHMENTS}
-{L_ATTACHMENTS}
-{L_ATTACHMENTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ATTACHMENTS)

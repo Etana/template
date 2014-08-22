@@ -5,9 +5,6 @@
 
 ```smarty
 {MAX_UPLOADS}
-{MAX_UPLOADS}
-{MAX_UPLOADS}
-{MAX_UPLOADS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MAX_UPLOADS)

@@ -7,45 +7,6 @@
 <!-- BEGIN switch_mod_option -->
 contenu sur lequel on boucle
 <!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-contenu sur lequel on boucle
-<!-- END switch_mod_option -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_mod_option)

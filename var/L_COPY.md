@@ -5,13 +5,6 @@
 
 ```smarty
 {L_COPY}
-{L_COPY}
-{L_COPY}
-{L_COPY}
-{L_COPY}
-{L_COPY}
-{L_COPY}
-{L_COPY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_COPY)

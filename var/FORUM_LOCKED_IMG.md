@@ -5,9 +5,6 @@
 
 ```smarty
 {FORUM_LOCKED_IMG}
-{FORUM_LOCKED_IMG}
-{FORUM_LOCKED_IMG}
-{FORUM_LOCKED_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_LOCKED_IMG)

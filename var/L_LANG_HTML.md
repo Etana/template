@@ -5,21 +5,6 @@
 
 ```smarty
 {L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
-{L_LANG_HTML}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LANG_HTML)

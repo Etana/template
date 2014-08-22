@@ -5,11 +5,6 @@
 
 ```smarty
 {L_AVATAR_PANEL}
-{L_AVATAR_PANEL}
-{L_AVATAR_PANEL}
-{L_AVATAR_PANEL}
-{L_AVATAR_PANEL}
-{L_AVATAR_PANEL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_AVATAR_PANEL)

@@ -5,10 +5,6 @@
 
 ```smarty
 {U_PROFILE}
-{U_PROFILE}
-{U_PROFILE}
-{U_PROFILE}
-{U_PROFILE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PROFILE)

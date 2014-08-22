@@ -5,8 +5,6 @@
 
 ```smarty
 {L_TTITLE}
-{L_TTITLE}
-{L_TTITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TTITLE)

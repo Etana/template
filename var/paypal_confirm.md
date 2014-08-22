@@ -7,15 +7,6 @@
 <!-- BEGIN paypal_confirm -->
 contenu sur lequel on boucle
 <!-- END paypal_confirm -->
-<!-- BEGIN paypal_confirm -->
-contenu sur lequel on boucle
-<!-- END paypal_confirm -->
-<!-- BEGIN paypal_confirm -->
-contenu sur lequel on boucle
-<!-- END paypal_confirm -->
-<!-- BEGIN paypal_confirm -->
-contenu sur lequel on boucle
-<!-- END paypal_confirm -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/paypal_confirm)

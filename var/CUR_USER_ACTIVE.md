@@ -5,9 +5,6 @@
 
 ```smarty
 {CUR_USER_ACTIVE}
-{CUR_USER_ACTIVE}
-{CUR_USER_ACTIVE}
-{CUR_USER_ACTIVE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CUR_USER_ACTIVE)

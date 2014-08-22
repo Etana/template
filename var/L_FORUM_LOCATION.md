@@ -5,9 +5,6 @@
 
 ```smarty
 {L_FORUM_LOCATION}
-{L_FORUM_LOCATION}
-{L_FORUM_LOCATION}
-{L_FORUM_LOCATION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FORUM_LOCATION)

@@ -5,9 +5,6 @@
 
 ```smarty
 {NAMESPACE_FB_LIKE}
-{NAMESPACE_FB_LIKE}
-{NAMESPACE_FB_LIKE}
-{NAMESPACE_FB_LIKE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAMESPACE_FB_LIKE)

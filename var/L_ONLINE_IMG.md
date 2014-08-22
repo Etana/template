@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ONLINE_IMG}
-{L_ONLINE_IMG}
-{L_ONLINE_IMG}
-{L_ONLINE_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ONLINE_IMG)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_POLL_DELETE}
-{L_POLL_DELETE}
-{L_POLL_DELETE}
-{L_POLL_DELETE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POLL_DELETE)

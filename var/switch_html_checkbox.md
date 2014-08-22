@@ -7,15 +7,6 @@
 <!-- BEGIN switch_html_checkbox -->
 contenu sur lequel on boucle
 <!-- END switch_html_checkbox -->
-<!-- BEGIN switch_html_checkbox -->
-contenu sur lequel on boucle
-<!-- END switch_html_checkbox -->
-<!-- BEGIN switch_html_checkbox -->
-contenu sur lequel on boucle
-<!-- END switch_html_checkbox -->
-<!-- BEGIN switch_html_checkbox -->
-contenu sur lequel on boucle
-<!-- END switch_html_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_html_checkbox)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_WHOSBIRTHDAY_WEEK}
-{L_WHOSBIRTHDAY_WEEK}
-{L_WHOSBIRTHDAY_WEEK}
-{L_WHOSBIRTHDAY_WEEK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_WEEK)

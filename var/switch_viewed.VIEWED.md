@@ -7,15 +7,6 @@
 <!-- BEGIN switch_viewed -->
 {switch_viewed.VIEWED}
 <!-- END switch_viewed -->
-<!-- BEGIN switch_viewed -->
-{switch_viewed.VIEWED}
-<!-- END switch_viewed -->
-<!-- BEGIN switch_viewed -->
-{switch_viewed.VIEWED}
-<!-- END switch_viewed -->
-<!-- BEGIN switch_viewed -->
-{switch_viewed.VIEWED}
-<!-- END switch_viewed -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED)

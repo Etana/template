@@ -5,9 +5,6 @@
 
 ```smarty
 {V_TOPIC_ICON}
-{V_TOPIC_ICON}
-{V_TOPIC_ICON}
-{V_TOPIC_ICON}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_TOPIC_ICON)

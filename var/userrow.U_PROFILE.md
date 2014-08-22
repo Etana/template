@@ -7,15 +7,6 @@
 <!-- BEGIN userrow -->
 {userrow.U_PROFILE}
 <!-- END userrow -->
-<!-- BEGIN userrow -->
-{userrow.U_PROFILE}
-<!-- END userrow -->
-<!-- BEGIN userrow -->
-{userrow.U_PROFILE}
-<!-- END userrow -->
-<!-- BEGIN userrow -->
-{userrow.U_PROFILE}
-<!-- END userrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow.U_PROFILE)

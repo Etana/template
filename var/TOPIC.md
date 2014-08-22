@@ -7,27 +7,6 @@
 <!-- BEGIN TOPIC -->
 contenu sur lequel on boucle
 <!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-contenu sur lequel on boucle
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-contenu sur lequel on boucle
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-contenu sur lequel on boucle
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-contenu sur lequel on boucle
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-contenu sur lequel on boucle
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-contenu sur lequel on boucle
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-contenu sur lequel on boucle
-<!-- END TOPIC -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC)

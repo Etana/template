@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SELECT_ALL}
-{L_SELECT_ALL}
-{L_SELECT_ALL}
-{L_SELECT_ALL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SELECT_ALL)

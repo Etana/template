@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SOLVED_WITHOUT_BRAKETS}
-{L_SOLVED_WITHOUT_BRAKETS}
-{L_SOLVED_WITHOUT_BRAKETS}
-{L_SOLVED_WITHOUT_BRAKETS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SOLVED_WITHOUT_BRAKETS)

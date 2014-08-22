@@ -5,21 +5,6 @@
 
 ```smarty
 {T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
-{T_GOO_LINK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_GOO_LINK)

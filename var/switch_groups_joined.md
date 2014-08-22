@@ -7,15 +7,6 @@
 <!-- BEGIN switch_groups_joined -->
 contenu sur lequel on boucle
 <!-- END switch_groups_joined -->
-<!-- BEGIN switch_groups_joined -->
-contenu sur lequel on boucle
-<!-- END switch_groups_joined -->
-<!-- BEGIN switch_groups_joined -->
-contenu sur lequel on boucle
-<!-- END switch_groups_joined -->
-<!-- BEGIN switch_groups_joined -->
-contenu sur lequel on boucle
-<!-- END switch_groups_joined -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groups_joined)

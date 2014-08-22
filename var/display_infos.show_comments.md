@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END show_comments -->
 <!-- END display_infos -->
-<!-- BEGIN display_infos -->
-    <!-- BEGIN show_comments -->
-    contenu sur lequel on boucle
-    <!-- END show_comments -->
-<!-- END display_infos -->
-<!-- BEGIN display_infos -->
-    <!-- BEGIN show_comments -->
-    contenu sur lequel on boucle
-    <!-- END show_comments -->
-<!-- END display_infos -->
-<!-- BEGIN display_infos -->
-    <!-- BEGIN show_comments -->
-    contenu sur lequel on boucle
-    <!-- END show_comments -->
-<!-- END display_infos -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos.show_comments)

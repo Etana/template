@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SLIDESHOW_ONOFF}
-{L_SLIDESHOW_ONOFF}
-{L_SLIDESHOW_ONOFF}
-{L_SLIDESHOW_ONOFF}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SLIDESHOW_ONOFF)

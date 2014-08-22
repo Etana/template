@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_multiple_uploads -->
 <!-- END switch_nuffload_enabled -->
-<!-- BEGIN switch_nuffload_enabled -->
-    <!-- BEGIN switch_multiple_uploads -->
-    contenu sur lequel on boucle
-    <!-- END switch_multiple_uploads -->
-<!-- END switch_nuffload_enabled -->
-<!-- BEGIN switch_nuffload_enabled -->
-    <!-- BEGIN switch_multiple_uploads -->
-    contenu sur lequel on boucle
-    <!-- END switch_multiple_uploads -->
-<!-- END switch_nuffload_enabled -->
-<!-- BEGIN switch_nuffload_enabled -->
-    <!-- BEGIN switch_multiple_uploads -->
-    contenu sur lequel on boucle
-    <!-- END switch_multiple_uploads -->
-<!-- END switch_nuffload_enabled -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_multiple_uploads)

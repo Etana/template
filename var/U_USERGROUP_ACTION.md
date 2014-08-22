@@ -5,8 +5,6 @@
 
 ```smarty
 {U_USERGROUP_ACTION}
-{U_USERGROUP_ACTION}
-{U_USERGROUP_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_USERGROUP_ACTION)

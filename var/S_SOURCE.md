@@ -5,9 +5,6 @@
 
 ```smarty
 {S_SOURCE}
-{S_SOURCE}
-{S_SOURCE}
-{S_SOURCE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SOURCE)

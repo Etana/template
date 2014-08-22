@@ -5,9 +5,6 @@
 
 ```smarty
 {L_POPUP_ON_PRIVMSG}
-{L_POPUP_ON_PRIVMSG}
-{L_POPUP_ON_PRIVMSG}
-{L_POPUP_ON_PRIVMSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POPUP_ON_PRIVMSG)

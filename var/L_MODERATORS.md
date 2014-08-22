@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MODERATORS}
-{L_MODERATORS}
-{L_MODERATORS}
-{L_MODERATORS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MODERATORS)

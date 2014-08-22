@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_SCREEN_CHECKED}
-{NUFF_SCREEN_CHECKED}
-{NUFF_SCREEN_CHECKED}
-{NUFF_SCREEN_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_SCREEN_CHECKED)

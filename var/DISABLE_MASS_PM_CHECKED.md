@@ -5,9 +5,6 @@
 
 ```smarty
 {DISABLE_MASS_PM_CHECKED}
-{DISABLE_MASS_PM_CHECKED}
-{DISABLE_MASS_PM_CHECKED}
-{DISABLE_MASS_PM_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DISABLE_MASS_PM_CHECKED)

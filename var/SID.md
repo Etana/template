@@ -5,13 +5,6 @@
 
 ```smarty
 {SID}
-{SID}
-{SID}
-{SID}
-{SID}
-{SID}
-{SID}
-{SID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SID)

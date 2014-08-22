@@ -5,10 +5,6 @@
 
 ```smarty
 {L_MAX_ATT_SIZE}
-{L_MAX_ATT_SIZE}
-{L_MAX_ATT_SIZE}
-{L_MAX_ATT_SIZE}
-{L_MAX_ATT_SIZE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MAX_ATT_SIZE)

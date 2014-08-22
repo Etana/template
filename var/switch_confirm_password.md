@@ -7,15 +7,6 @@
 <!-- BEGIN switch_confirm_password -->
 contenu sur lequel on boucle
 <!-- END switch_confirm_password -->
-<!-- BEGIN switch_confirm_password -->
-contenu sur lequel on boucle
-<!-- END switch_confirm_password -->
-<!-- BEGIN switch_confirm_password -->
-contenu sur lequel on boucle
-<!-- END switch_confirm_password -->
-<!-- BEGIN switch_confirm_password -->
-contenu sur lequel on boucle
-<!-- END switch_confirm_password -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_confirm_password)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SEARCH_AUTHOR}
-{L_SEARCH_AUTHOR}
-{L_SEARCH_AUTHOR}
-{L_SEARCH_AUTHOR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_AUTHOR)

@@ -7,15 +7,6 @@
 <!-- BEGIN switch_quote_limit -->
 contenu sur lequel on boucle
 <!-- END switch_quote_limit -->
-<!-- BEGIN switch_quote_limit -->
-contenu sur lequel on boucle
-<!-- END switch_quote_limit -->
-<!-- BEGIN switch_quote_limit -->
-contenu sur lequel on boucle
-<!-- END switch_quote_limit -->
-<!-- BEGIN switch_quote_limit -->
-contenu sur lequel on boucle
-<!-- END switch_quote_limit -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_quote_limit)

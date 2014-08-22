@@ -5,13 +5,6 @@
 
 ```smarty
 {L_TOPIC_REVIEW}
-{L_TOPIC_REVIEW}
-{L_TOPIC_REVIEW}
-{L_TOPIC_REVIEW}
-{L_TOPIC_REVIEW}
-{L_TOPIC_REVIEW}
-{L_TOPIC_REVIEW}
-{L_TOPIC_REVIEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW)

@@ -9,11 +9,6 @@
     {navlinks.pic_backup_link.L_BACKUP_FOLDER_LINK}
     <!-- END pic_backup_link -->
 <!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN pic_backup_link -->
-    {navlinks.pic_backup_link.L_BACKUP_FOLDER_LINK}
-    <!-- END pic_backup_link -->
-<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link.L_BACKUP_FOLDER_LINK)

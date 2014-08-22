@@ -7,15 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.U_FORUM}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.U_FORUM}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.U_FORUM}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.U_FORUM}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.U_FORUM)

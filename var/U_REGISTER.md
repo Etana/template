@@ -5,9 +5,6 @@
 
 ```smarty
 {U_REGISTER}
-{U_REGISTER}
-{U_REGISTER}
-{U_REGISTER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_REGISTER)

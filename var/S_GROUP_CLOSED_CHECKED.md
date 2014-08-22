@@ -5,9 +5,6 @@
 
 ```smarty
 {S_GROUP_CLOSED_CHECKED}
-{S_GROUP_CLOSED_CHECKED}
-{S_GROUP_CLOSED_CHECKED}
-{S_GROUP_CLOSED_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_CLOSED_CHECKED)

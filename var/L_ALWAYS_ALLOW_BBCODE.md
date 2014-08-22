@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ALWAYS_ALLOW_BBCODE}
-{L_ALWAYS_ALLOW_BBCODE}
-{L_ALWAYS_ALLOW_BBCODE}
-{L_ALWAYS_ALLOW_BBCODE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ALWAYS_ALLOW_BBCODE)

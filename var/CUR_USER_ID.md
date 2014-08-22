@@ -5,9 +5,6 @@
 
 ```smarty
 {CUR_USER_ID}
-{CUR_USER_ID}
-{CUR_USER_ID}
-{CUR_USER_ID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CUR_USER_ID)

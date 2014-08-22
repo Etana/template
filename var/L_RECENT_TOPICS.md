@@ -5,11 +5,6 @@
 
 ```smarty
 {L_RECENT_TOPICS}
-{L_RECENT_TOPICS}
-{L_RECENT_TOPICS}
-{L_RECENT_TOPICS}
-{L_RECENT_TOPICS}
-{L_RECENT_TOPICS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_RECENT_TOPICS)

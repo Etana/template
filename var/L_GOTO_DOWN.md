@@ -5,10 +5,6 @@
 
 ```smarty
 {L_GOTO_DOWN}
-{L_GOTO_DOWN}
-{L_GOTO_DOWN}
-{L_GOTO_DOWN}
-{L_GOTO_DOWN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GOTO_DOWN)

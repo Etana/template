@@ -5,9 +5,6 @@
 
 ```smarty
 {TOPICS_LIST_BOX}
-{TOPICS_LIST_BOX}
-{TOPICS_LIST_BOX}
-{TOPICS_LIST_BOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPICS_LIST_BOX)

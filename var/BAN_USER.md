@@ -5,9 +5,6 @@
 
 ```smarty
 {BAN_USER}
-{BAN_USER}
-{BAN_USER}
-{BAN_USER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BAN_USER)

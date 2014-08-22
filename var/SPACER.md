@@ -5,10 +5,6 @@
 
 ```smarty
 {SPACER}
-{SPACER}
-{SPACER}
-{SPACER}
-{SPACER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SPACER)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PICTURE}
-{L_PICTURE}
-{L_PICTURE}
-{L_PICTURE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PICTURE)

@@ -11,27 +11,6 @@
         <!-- END switch_is_orphan -->
     <!-- END attachments -->
 <!-- END switch_attachment_list -->
-<!-- BEGIN switch_attachment_list -->
-    <!-- BEGIN attachments -->
-        <!-- BEGIN switch_is_orphan -->
-        {switch_attachment_list.attachments.switch_is_orphan.FILENAME}
-        <!-- END switch_is_orphan -->
-    <!-- END attachments -->
-<!-- END switch_attachment_list -->
-<!-- BEGIN switch_attachment_list -->
-    <!-- BEGIN attachments -->
-        <!-- BEGIN switch_is_orphan -->
-        {switch_attachment_list.attachments.switch_is_orphan.FILENAME}
-        <!-- END switch_is_orphan -->
-    <!-- END attachments -->
-<!-- END switch_attachment_list -->
-<!-- BEGIN switch_attachment_list -->
-    <!-- BEGIN attachments -->
-        <!-- BEGIN switch_is_orphan -->
-        {switch_attachment_list.attachments.switch_is_orphan.FILENAME}
-        <!-- END switch_is_orphan -->
-    <!-- END attachments -->
-<!-- END switch_attachment_list -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan.FILENAME)

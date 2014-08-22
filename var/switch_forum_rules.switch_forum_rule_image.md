@@ -9,41 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_forum_rule_image -->
 <!-- END switch_forum_rules -->
-<!-- BEGIN switch_forum_rules -->
-    <!-- BEGIN switch_forum_rule_image -->
-    contenu sur lequel on boucle
-    <!-- END switch_forum_rule_image -->
-<!-- END switch_forum_rules -->
-<!-- BEGIN switch_forum_rules -->
-    <!-- BEGIN switch_forum_rule_image -->
-    contenu sur lequel on boucle
-    <!-- END switch_forum_rule_image -->
-<!-- END switch_forum_rules -->
-<!-- BEGIN switch_forum_rules -->
-    <!-- BEGIN switch_forum_rule_image -->
-    contenu sur lequel on boucle
-    <!-- END switch_forum_rule_image -->
-<!-- END switch_forum_rules -->
-<!-- BEGIN switch_forum_rules -->
-    <!-- BEGIN switch_forum_rule_image -->
-    contenu sur lequel on boucle
-    <!-- END switch_forum_rule_image -->
-<!-- END switch_forum_rules -->
-<!-- BEGIN switch_forum_rules -->
-    <!-- BEGIN switch_forum_rule_image -->
-    contenu sur lequel on boucle
-    <!-- END switch_forum_rule_image -->
-<!-- END switch_forum_rules -->
-<!-- BEGIN switch_forum_rules -->
-    <!-- BEGIN switch_forum_rule_image -->
-    contenu sur lequel on boucle
-    <!-- END switch_forum_rule_image -->
-<!-- END switch_forum_rules -->
-<!-- BEGIN switch_forum_rules -->
-    <!-- BEGIN switch_forum_rule_image -->
-    contenu sur lequel on boucle
-    <!-- END switch_forum_rule_image -->
-<!-- END switch_forum_rules -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)

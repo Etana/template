@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MARK_FORUMS_READ}
-{L_MARK_FORUMS_READ}
-{L_MARK_FORUMS_READ}
-{L_MARK_FORUMS_READ}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MARK_FORUMS_READ)

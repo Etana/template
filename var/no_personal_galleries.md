@@ -7,15 +7,6 @@
 <!-- BEGIN no_personal_galleries -->
 contenu sur lequel on boucle
 <!-- END no_personal_galleries -->
-<!-- BEGIN no_personal_galleries -->
-contenu sur lequel on boucle
-<!-- END no_personal_galleries -->
-<!-- BEGIN no_personal_galleries -->
-contenu sur lequel on boucle
-<!-- END no_personal_galleries -->
-<!-- BEGIN no_personal_galleries -->
-contenu sur lequel on boucle
-<!-- END no_personal_galleries -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_personal_galleries)

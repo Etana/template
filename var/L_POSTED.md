@@ -5,17 +5,6 @@
 
 ```smarty
 {L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
-{L_POSTED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POSTED)

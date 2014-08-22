@@ -5,7 +5,6 @@
 
 ```smarty
 {UP_ARROW}
-{UP_ARROW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/UP_ARROW)

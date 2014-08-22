@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SPLIT_SUBJECT}
-{L_SPLIT_SUBJECT}
-{L_SPLIT_SUBJECT}
-{L_SPLIT_SUBJECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_SUBJECT)

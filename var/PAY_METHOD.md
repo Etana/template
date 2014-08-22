@@ -5,21 +5,6 @@
 
 ```smarty
 {PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
-{PAY_METHOD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PAY_METHOD)

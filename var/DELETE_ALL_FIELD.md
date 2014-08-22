@@ -5,9 +5,6 @@
 
 ```smarty
 {DELETE_ALL_FIELD}
-{DELETE_ALL_FIELD}
-{DELETE_ALL_FIELD}
-{DELETE_ALL_FIELD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DELETE_ALL_FIELD)

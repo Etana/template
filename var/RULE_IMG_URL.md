@@ -5,13 +5,6 @@
 
 ```smarty
 {RULE_IMG_URL}
-{RULE_IMG_URL}
-{RULE_IMG_URL}
-{RULE_IMG_URL}
-{RULE_IMG_URL}
-{RULE_IMG_URL}
-{RULE_IMG_URL}
-{RULE_IMG_URL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/RULE_IMG_URL)

@@ -5,8 +5,6 @@
 
 ```smarty
 {THUMB_SIZE}
-{THUMB_SIZE}
-{THUMB_SIZE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/THUMB_SIZE)

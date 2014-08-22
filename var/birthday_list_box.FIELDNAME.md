@@ -7,9 +7,6 @@
 <!-- BEGIN birthday_list_box -->
 {birthday_list_box.FIELDNAME}
 <!-- END birthday_list_box -->
-<!-- BEGIN birthday_list_box -->
-{birthday_list_box.FIELDNAME}
-<!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.FIELDNAME)

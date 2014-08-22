@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_groups_pending -->
 <!-- END switch_groups_joined -->
-<!-- BEGIN switch_groups_joined -->
-    <!-- BEGIN switch_groups_pending -->
-    contenu sur lequel on boucle
-    <!-- END switch_groups_pending -->
-<!-- END switch_groups_joined -->
-<!-- BEGIN switch_groups_joined -->
-    <!-- BEGIN switch_groups_pending -->
-    contenu sur lequel on boucle
-    <!-- END switch_groups_pending -->
-<!-- END switch_groups_joined -->
-<!-- BEGIN switch_groups_joined -->
-    <!-- BEGIN switch_groups_pending -->
-    contenu sur lequel on boucle
-    <!-- END switch_groups_pending -->
-<!-- END switch_groups_joined -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groups_joined.switch_groups_pending)

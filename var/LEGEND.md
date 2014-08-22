@@ -5,9 +5,6 @@
 
 ```smarty
 {LEGEND}
-{LEGEND}
-{LEGEND}
-{LEGEND}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LEGEND)

@@ -5,9 +5,6 @@
 
 ```smarty
 {SORT_APPROVAL_OPTION}
-{SORT_APPROVAL_OPTION}
-{SORT_APPROVAL_OPTION}
-{SORT_APPROVAL_OPTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_APPROVAL_OPTION)

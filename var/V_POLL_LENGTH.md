@@ -5,9 +5,6 @@
 
 ```smarty
 {V_POLL_LENGTH}
-{V_POLL_LENGTH}
-{V_POLL_LENGTH}
-{V_POLL_LENGTH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_POLL_LENGTH)

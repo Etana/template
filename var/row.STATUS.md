@@ -7,27 +7,6 @@
 <!-- BEGIN row -->
 {row.STATUS}
 <!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS}
-<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.STATUS)

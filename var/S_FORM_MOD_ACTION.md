@@ -5,7 +5,6 @@
 
 ```smarty
 {S_FORM_MOD_ACTION}
-{S_FORM_MOD_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_FORM_MOD_ACTION)

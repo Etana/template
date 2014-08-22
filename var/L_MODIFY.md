@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MODIFY}
-{L_MODIFY}
-{L_MODIFY}
-{L_MODIFY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MODIFY)

@@ -7,15 +7,6 @@
 <!-- BEGIN _calendar_box -->
 {_calendar_box.U_NEXT}
 <!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-{_calendar_box.U_NEXT}
-<!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-{_calendar_box.U_NEXT}
-<!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-{_calendar_box.U_NEXT}
-<!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.U_NEXT)

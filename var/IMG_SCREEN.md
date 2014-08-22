@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_SCREEN}
-{IMG_SCREEN}
-{IMG_SCREEN}
-{IMG_SCREEN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_SCREEN)

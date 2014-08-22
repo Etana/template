@@ -5,21 +5,6 @@
 
 ```smarty
 {L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
-{L_AUTHOR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_AUTHOR)

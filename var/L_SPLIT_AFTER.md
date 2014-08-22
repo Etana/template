@@ -5,13 +5,6 @@
 
 ```smarty
 {L_SPLIT_AFTER}
-{L_SPLIT_AFTER}
-{L_SPLIT_AFTER}
-{L_SPLIT_AFTER}
-{L_SPLIT_AFTER}
-{L_SPLIT_AFTER}
-{L_SPLIT_AFTER}
-{L_SPLIT_AFTER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_AFTER)

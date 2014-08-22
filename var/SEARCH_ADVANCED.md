@@ -5,9 +5,6 @@
 
 ```smarty
 {SEARCH_ADVANCED}
-{SEARCH_ADVANCED}
-{SEARCH_ADVANCED}
-{SEARCH_ADVANCED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SEARCH_ADVANCED)

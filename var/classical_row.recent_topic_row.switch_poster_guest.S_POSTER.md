@@ -11,27 +11,6 @@
         <!-- END switch_poster_guest -->
     <!-- END recent_topic_row -->
 <!-- END classical_row -->
-<!-- BEGIN classical_row -->
-    <!-- BEGIN recent_topic_row -->
-        <!-- BEGIN switch_poster_guest -->
-        {classical_row.recent_topic_row.switch_poster_guest.S_POSTER}
-        <!-- END switch_poster_guest -->
-    <!-- END recent_topic_row -->
-<!-- END classical_row -->
-<!-- BEGIN classical_row -->
-    <!-- BEGIN recent_topic_row -->
-        <!-- BEGIN switch_poster_guest -->
-        {classical_row.recent_topic_row.switch_poster_guest.S_POSTER}
-        <!-- END switch_poster_guest -->
-    <!-- END recent_topic_row -->
-<!-- END classical_row -->
-<!-- BEGIN classical_row -->
-    <!-- BEGIN recent_topic_row -->
-        <!-- BEGIN switch_poster_guest -->
-        {classical_row.recent_topic_row.switch_poster_guest.S_POSTER}
-        <!-- END switch_poster_guest -->
-    <!-- END recent_topic_row -->
-<!-- END classical_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster_guest.S_POSTER)

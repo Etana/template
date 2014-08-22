@@ -5,17 +5,6 @@
 
 ```smarty
 {L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
-{L_UNLOCK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UNLOCK)

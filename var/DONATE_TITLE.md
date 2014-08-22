@@ -5,11 +5,6 @@
 
 ```smarty
 {DONATE_TITLE}
-{DONATE_TITLE}
-{DONATE_TITLE}
-{DONATE_TITLE}
-{DONATE_TITLE}
-{DONATE_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DONATE_TITLE)

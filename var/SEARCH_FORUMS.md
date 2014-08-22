@@ -5,9 +5,6 @@
 
 ```smarty
 {SEARCH_FORUMS}
-{SEARCH_FORUMS}
-{SEARCH_FORUMS}
-{SEARCH_FORUMS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SEARCH_FORUMS)

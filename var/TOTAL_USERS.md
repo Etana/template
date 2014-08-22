@@ -5,13 +5,6 @@
 
 ```smarty
 {TOTAL_USERS}
-{TOTAL_USERS}
-{TOTAL_USERS}
-{TOTAL_USERS}
-{TOTAL_USERS}
-{TOTAL_USERS}
-{TOTAL_USERS}
-{TOTAL_USERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOTAL_USERS)

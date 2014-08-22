@@ -5,11 +5,6 @@
 
 ```smarty
 {JAVASCRIPT}
-{JAVASCRIPT}
-{JAVASCRIPT}
-{JAVASCRIPT}
-{JAVASCRIPT}
-{JAVASCRIPT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JAVASCRIPT)

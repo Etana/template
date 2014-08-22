@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DISPLAY_MESSAGES}
-{L_DISPLAY_MESSAGES}
-{L_DISPLAY_MESSAGES}
-{L_DISPLAY_MESSAGES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DISPLAY_MESSAGES)

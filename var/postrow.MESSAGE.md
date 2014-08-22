@@ -7,27 +7,6 @@
 <!-- BEGIN postrow -->
 {postrow.MESSAGE}
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.MESSAGE}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.MESSAGE}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.MESSAGE}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.MESSAGE}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.MESSAGE}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.MESSAGE}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.MESSAGE}
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.MESSAGE)

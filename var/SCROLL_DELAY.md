@@ -5,9 +5,6 @@
 
 ```smarty
 {SCROLL_DELAY}
-{SCROLL_DELAY}
-{SCROLL_DELAY}
-{SCROLL_DELAY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SCROLL_DELAY)

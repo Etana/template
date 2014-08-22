@@ -7,15 +7,6 @@
 <!-- BEGIN switch_groups_remaining -->
 contenu sur lequel on boucle
 <!-- END switch_groups_remaining -->
-<!-- BEGIN switch_groups_remaining -->
-contenu sur lequel on boucle
-<!-- END switch_groups_remaining -->
-<!-- BEGIN switch_groups_remaining -->
-contenu sur lequel on boucle
-<!-- END switch_groups_remaining -->
-<!-- BEGIN switch_groups_remaining -->
-contenu sur lequel on boucle
-<!-- END switch_groups_remaining -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groups_remaining)

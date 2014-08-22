@@ -5,19 +5,6 @@
 
 ```smarty
 {TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
-{TABS_LESS_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TABS_LESS_IMG)

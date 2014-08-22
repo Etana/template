@@ -5,20 +5,6 @@
 
 ```smarty
 {L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
-{L_JUMP_TO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_JUMP_TO)

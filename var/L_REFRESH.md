@@ -5,9 +5,6 @@
 
 ```smarty
 {L_REFRESH}
-{L_REFRESH}
-{L_REFRESH}
-{L_REFRESH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REFRESH)

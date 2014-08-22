@@ -5,10 +5,6 @@
 
 ```smarty
 {NB_MESSAGES}
-{NB_MESSAGES}
-{NB_MESSAGES}
-{NB_MESSAGES}
-{NB_MESSAGES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NB_MESSAGES)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DELETE_OPTION}
-{L_DELETE_OPTION}
-{L_DELETE_OPTION}
-{L_DELETE_OPTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_OPTION)

@@ -9,26 +9,6 @@
     {birthday_list_box.row.U_VIEW_TOPIC}
     <!-- END row -->
 <!-- END birthday_list_box -->
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-    {birthday_list_box.row.U_VIEW_TOPIC}
-    <!-- END row -->
-<!-- END birthday_list_box -->
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-    {birthday_list_box.row.U_VIEW_TOPIC}
-    <!-- END row -->
-<!-- END birthday_list_box -->
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-    {birthday_list_box.row.U_VIEW_TOPIC}
-    <!-- END row -->
-<!-- END birthday_list_box -->
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-    {birthday_list_box.row.U_VIEW_TOPIC}
-    <!-- END row -->
-<!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.U_VIEW_TOPIC)

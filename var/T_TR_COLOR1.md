@@ -5,9 +5,6 @@
 
 ```smarty
 {T_TR_COLOR1}
-{T_TR_COLOR1}
-{T_TR_COLOR1}
-{T_TR_COLOR1}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_TR_COLOR1)

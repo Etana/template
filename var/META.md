@@ -5,13 +5,6 @@
 
 ```smarty
 {META}
-{META}
-{META}
-{META}
-{META}
-{META}
-{META}
-{META}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/META)

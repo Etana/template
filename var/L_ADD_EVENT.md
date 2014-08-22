@@ -5,17 +5,6 @@
 
 ```smarty
 {L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
-{L_ADD_EVENT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ADD_EVENT)

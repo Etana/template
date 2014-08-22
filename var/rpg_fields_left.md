@@ -7,27 +7,6 @@
 <!-- BEGIN rpg_fields_left -->
 contenu sur lequel on boucle
 <!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-contenu sur lequel on boucle
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-contenu sur lequel on boucle
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-contenu sur lequel on boucle
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-contenu sur lequel on boucle
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-contenu sur lequel on boucle
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-contenu sur lequel on boucle
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-contenu sur lequel on boucle
-<!-- END rpg_fields_left -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields_left)

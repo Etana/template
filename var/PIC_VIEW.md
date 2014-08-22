@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_VIEW}
-{PIC_VIEW}
-{PIC_VIEW}
-{PIC_VIEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_VIEW)

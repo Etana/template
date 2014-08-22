@@ -5,13 +5,6 @@
 
 ```smarty
 {VOTE_RCAP_IMG}
-{VOTE_RCAP_IMG}
-{VOTE_RCAP_IMG}
-{VOTE_RCAP_IMG}
-{VOTE_RCAP_IMG}
-{VOTE_RCAP_IMG}
-{VOTE_RCAP_IMG}
-{VOTE_RCAP_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/VOTE_RCAP_IMG)

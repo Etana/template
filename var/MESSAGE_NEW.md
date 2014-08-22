@@ -5,11 +5,6 @@
 
 ```smarty
 {MESSAGE_NEW}
-{MESSAGE_NEW}
-{MESSAGE_NEW}
-{MESSAGE_NEW}
-{MESSAGE_NEW}
-{MESSAGE_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MESSAGE_NEW)

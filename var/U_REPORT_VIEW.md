@@ -5,9 +5,6 @@
 
 ```smarty
 {U_REPORT_VIEW}
-{U_REPORT_VIEW}
-{U_REPORT_VIEW}
-{U_REPORT_VIEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_REPORT_VIEW)

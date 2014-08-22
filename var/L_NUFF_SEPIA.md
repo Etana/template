@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NUFF_SEPIA}
-{L_NUFF_SEPIA}
-{L_NUFF_SEPIA}
-{L_NUFF_SEPIA}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_SEPIA)

@@ -11,27 +11,6 @@
         <!-- END header_table -->
     <!-- END row -->
 <!-- END birthday_list_box -->
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-        <!-- BEGIN header_table -->
-        contenu sur lequel on boucle
-        <!-- END header_table -->
-    <!-- END row -->
-<!-- END birthday_list_box -->
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-        <!-- BEGIN header_table -->
-        contenu sur lequel on boucle
-        <!-- END header_table -->
-    <!-- END row -->
-<!-- END birthday_list_box -->
-<!-- BEGIN birthday_list_box -->
-    <!-- BEGIN row -->
-        <!-- BEGIN header_table -->
-        contenu sur lequel on boucle
-        <!-- END header_table -->
-    <!-- END row -->
-<!-- END birthday_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.header_table)

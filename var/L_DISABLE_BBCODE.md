@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DISABLE_BBCODE}
-{L_DISABLE_BBCODE}
-{L_DISABLE_BBCODE}
-{L_DISABLE_BBCODE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DISABLE_BBCODE)

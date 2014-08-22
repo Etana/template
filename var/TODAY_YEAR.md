@@ -5,9 +5,6 @@
 
 ```smarty
 {TODAY_YEAR}
-{TODAY_YEAR}
-{TODAY_YEAR}
-{TODAY_YEAR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TODAY_YEAR)

@@ -5,13 +5,6 @@
 
 ```smarty
 {SAVEBOX}
-{SAVEBOX}
-{SAVEBOX}
-{SAVEBOX}
-{SAVEBOX}
-{SAVEBOX}
-{SAVEBOX}
-{SAVEBOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SAVEBOX)

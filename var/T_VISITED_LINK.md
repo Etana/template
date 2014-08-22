@@ -5,9 +5,6 @@
 
 ```smarty
 {T_VISITED_LINK}
-{T_VISITED_LINK}
-{T_VISITED_LINK}
-{T_VISITED_LINK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_VISITED_LINK)

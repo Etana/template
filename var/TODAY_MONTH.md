@@ -5,9 +5,6 @@
 
 ```smarty
 {TODAY_MONTH}
-{TODAY_MONTH}
-{TODAY_MONTH}
-{TODAY_MONTH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TODAY_MONTH)

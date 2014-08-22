@@ -9,31 +9,6 @@
     {catrow.forumrow.L_FORUM_FOLDER_ALT}
     <!-- END forumrow -->
 <!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-    {catrow.forumrow.L_FORUM_FOLDER_ALT}
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-    {catrow.forumrow.L_FORUM_FOLDER_ALT}
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-    {catrow.forumrow.L_FORUM_FOLDER_ALT}
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-    {catrow.forumrow.L_FORUM_FOLDER_ALT}
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-    {catrow.forumrow.L_FORUM_FOLDER_ALT}
-    <!-- END forumrow -->
-<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.L_FORUM_FOLDER_ALT)

@@ -9,16 +9,6 @@
     contenu sur lequel on boucle
     <!-- END saut -->
 <!-- END post_row -->
-<!-- BEGIN post_row -->
-    <!-- BEGIN saut -->
-    contenu sur lequel on boucle
-    <!-- END saut -->
-<!-- END post_row -->
-<!-- BEGIN post_row -->
-    <!-- BEGIN saut -->
-    contenu sur lequel on boucle
-    <!-- END saut -->
-<!-- END post_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.saut)

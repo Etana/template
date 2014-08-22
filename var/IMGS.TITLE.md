@@ -7,39 +7,6 @@
 <!-- BEGIN IMGS -->
 {IMGS.TITLE}
 <!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.TITLE}
-<!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.TITLE)

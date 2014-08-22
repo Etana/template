@@ -7,15 +7,6 @@
 <!-- BEGIN row -->
 {row.STATUS_SELECT}
 <!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS_SELECT}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS_SELECT}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.STATUS_SELECT}
-<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.STATUS_SELECT)

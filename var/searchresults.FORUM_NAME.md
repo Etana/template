@@ -7,27 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.FORUM_NAME}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.FORUM_NAME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.FORUM_NAME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.FORUM_NAME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.FORUM_NAME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.FORUM_NAME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.FORUM_NAME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.FORUM_NAME}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.FORUM_NAME)

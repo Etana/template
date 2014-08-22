@@ -7,36 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.TOPIC_TITLE}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_TITLE}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_TITLE)

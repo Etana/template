@@ -5,9 +5,6 @@
 
 ```smarty
 {CALENDAR_MIN}
-{CALENDAR_MIN}
-{CALENDAR_MIN}
-{CALENDAR_MIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CALENDAR_MIN)

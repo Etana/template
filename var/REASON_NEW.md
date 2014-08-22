@@ -5,8 +5,6 @@
 
 ```smarty
 {REASON_NEW}
-{REASON_NEW}
-{REASON_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/REASON_NEW)

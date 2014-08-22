@@ -7,15 +7,6 @@
 <!-- BEGIN view_moderation -->
 contenu sur lequel on boucle
 <!-- END view_moderation -->
-<!-- BEGIN view_moderation -->
-contenu sur lequel on boucle
-<!-- END view_moderation -->
-<!-- BEGIN view_moderation -->
-contenu sur lequel on boucle
-<!-- END view_moderation -->
-<!-- BEGIN view_moderation -->
-contenu sur lequel on boucle
-<!-- END view_moderation -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/view_moderation)

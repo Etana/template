@@ -7,15 +7,6 @@
 <!-- BEGIN giefmod_index2 -->
 {giefmod_index2.MODVAR}
 <!-- END giefmod_index2 -->
-<!-- BEGIN giefmod_index2 -->
-{giefmod_index2.MODVAR}
-<!-- END giefmod_index2 -->
-<!-- BEGIN giefmod_index2 -->
-{giefmod_index2.MODVAR}
-<!-- END giefmod_index2 -->
-<!-- BEGIN giefmod_index2 -->
-{giefmod_index2.MODVAR}
-<!-- END giefmod_index2 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod_index2.MODVAR)

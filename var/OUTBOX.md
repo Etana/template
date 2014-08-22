@@ -5,13 +5,6 @@
 
 ```smarty
 {OUTBOX}
-{OUTBOX}
-{OUTBOX}
-{OUTBOX}
-{OUTBOX}
-{OUTBOX}
-{OUTBOX}
-{OUTBOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/OUTBOX)

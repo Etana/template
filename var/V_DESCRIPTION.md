@@ -5,9 +5,6 @@
 
 ```smarty
 {V_DESCRIPTION}
-{V_DESCRIPTION}
-{V_DESCRIPTION}
-{V_DESCRIPTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_DESCRIPTION)

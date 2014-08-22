@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NEWSLETTER_ACCEPT}
-{L_NEWSLETTER_ACCEPT}
-{L_NEWSLETTER_ACCEPT}
-{L_NEWSLETTER_ACCEPT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NEWSLETTER_ACCEPT)

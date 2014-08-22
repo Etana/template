@@ -11,13 +11,6 @@
         <!-- END recent_detail -->
     <!-- END recent_pics -->
 <!-- END build_categories_block -->
-<!-- BEGIN build_categories_block -->
-    <!-- BEGIN recent_pics -->
-        <!-- BEGIN recent_detail -->
-        {build_categories_block.recent_pics.recent_detail.THUMBNAIL_SIZE}
-        <!-- END recent_detail -->
-    <!-- END recent_pics -->
-<!-- END build_categories_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail.THUMBNAIL_SIZE)

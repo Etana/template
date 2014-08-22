@@ -17,45 +17,6 @@
         <!-- END _cell -->
     <!-- END _row -->
 <!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-    <!-- BEGIN _row -->
-        <!-- BEGIN _cell -->
-            <!-- BEGIN switch_filled -->
-                <!-- BEGIN _event -->
-                    <!-- BEGIN switch_event_no -->
-                    contenu sur lequel on boucle
-                    <!-- END switch_event_no -->
-                <!-- END _event -->
-            <!-- END switch_filled -->
-        <!-- END _cell -->
-    <!-- END _row -->
-<!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-    <!-- BEGIN _row -->
-        <!-- BEGIN _cell -->
-            <!-- BEGIN switch_filled -->
-                <!-- BEGIN _event -->
-                    <!-- BEGIN switch_event_no -->
-                    contenu sur lequel on boucle
-                    <!-- END switch_event_no -->
-                <!-- END _event -->
-            <!-- END switch_filled -->
-        <!-- END _cell -->
-    <!-- END _row -->
-<!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-    <!-- BEGIN _row -->
-        <!-- BEGIN _cell -->
-            <!-- BEGIN switch_filled -->
-                <!-- BEGIN _event -->
-                    <!-- BEGIN switch_event_no -->
-                    contenu sur lequel on boucle
-                    <!-- END switch_event_no -->
-                <!-- END _event -->
-            <!-- END switch_filled -->
-        <!-- END _cell -->
-    <!-- END _row -->
-<!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event_no)

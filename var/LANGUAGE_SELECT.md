@@ -5,9 +5,6 @@
 
 ```smarty
 {LANGUAGE_SELECT}
-{LANGUAGE_SELECT}
-{LANGUAGE_SELECT}
-{LANGUAGE_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LANGUAGE_SELECT)

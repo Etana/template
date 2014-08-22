@@ -5,9 +5,6 @@
 
 ```smarty
 {L_LEAVESHADOW}
-{L_LEAVESHADOW}
-{L_LEAVESHADOW}
-{L_LEAVESHADOW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LEAVESHADOW)

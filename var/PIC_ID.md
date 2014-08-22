@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_ID}
-{PIC_ID}
-{PIC_ID}
-{PIC_ID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_ID)

@@ -7,39 +7,6 @@
 <!-- BEGIN smilies_row -->
 contenu sur lequel on boucle
 <!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
-<!-- BEGIN smilies_row -->
-contenu sur lequel on boucle
-<!-- END smilies_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/smilies_row)

@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_CALENDAR}
-{IMG_CALENDAR}
-{IMG_CALENDAR}
-{IMG_CALENDAR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_CALENDAR)

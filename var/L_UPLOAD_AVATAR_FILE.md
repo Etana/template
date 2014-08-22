@@ -5,9 +5,6 @@
 
 ```smarty
 {L_UPLOAD_AVATAR_FILE}
-{L_UPLOAD_AVATAR_FILE}
-{L_UPLOAD_AVATAR_FILE}
-{L_UPLOAD_AVATAR_FILE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UPLOAD_AVATAR_FILE)

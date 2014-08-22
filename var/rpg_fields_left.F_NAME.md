@@ -7,27 +7,6 @@
 <!-- BEGIN rpg_fields_left -->
 {rpg_fields_left.F_NAME}
 <!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-{rpg_fields_left.F_NAME}
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-{rpg_fields_left.F_NAME}
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-{rpg_fields_left.F_NAME}
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-{rpg_fields_left.F_NAME}
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-{rpg_fields_left.F_NAME}
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-{rpg_fields_left.F_NAME}
-<!-- END rpg_fields_left -->
-<!-- BEGIN rpg_fields_left -->
-{rpg_fields_left.F_NAME}
-<!-- END rpg_fields_left -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields_left.F_NAME)

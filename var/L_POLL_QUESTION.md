@@ -5,9 +5,6 @@
 
 ```smarty
 {L_POLL_QUESTION}
-{L_POLL_QUESTION}
-{L_POLL_QUESTION}
-{L_POLL_QUESTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POLL_QUESTION)

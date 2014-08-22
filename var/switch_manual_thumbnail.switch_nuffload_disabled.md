@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_nuffload_disabled -->
 <!-- END switch_manual_thumbnail -->
-<!-- BEGIN switch_manual_thumbnail -->
-    <!-- BEGIN switch_nuffload_disabled -->
-    contenu sur lequel on boucle
-    <!-- END switch_nuffload_disabled -->
-<!-- END switch_manual_thumbnail -->
-<!-- BEGIN switch_manual_thumbnail -->
-    <!-- BEGIN switch_nuffload_disabled -->
-    contenu sur lequel on boucle
-    <!-- END switch_nuffload_disabled -->
-<!-- END switch_manual_thumbnail -->
-<!-- BEGIN switch_manual_thumbnail -->
-    <!-- BEGIN switch_nuffload_disabled -->
-    contenu sur lequel on boucle
-    <!-- END switch_nuffload_disabled -->
-<!-- END switch_manual_thumbnail -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_manual_thumbnail.switch_nuffload_disabled)

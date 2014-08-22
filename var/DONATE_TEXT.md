@@ -5,9 +5,6 @@
 
 ```smarty
 {DONATE_TEXT}
-{DONATE_TEXT}
-{DONATE_TEXT}
-{DONATE_TEXT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DONATE_TEXT)

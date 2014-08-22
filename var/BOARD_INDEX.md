@@ -5,13 +5,6 @@
 
 ```smarty
 {BOARD_INDEX}
-{BOARD_INDEX}
-{BOARD_INDEX}
-{BOARD_INDEX}
-{BOARD_INDEX}
-{BOARD_INDEX}
-{BOARD_INDEX}
-{BOARD_INDEX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BOARD_INDEX)

@@ -11,20 +11,6 @@
         <!-- END first_post_br -->
     <!-- END displayed -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN first_post_br -->
-        contenu sur lequel on boucle
-        <!-- END first_post_br -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN first_post_br -->
-        contenu sur lequel on boucle
-        <!-- END first_post_br -->
-    <!-- END displayed -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.first_post_br)

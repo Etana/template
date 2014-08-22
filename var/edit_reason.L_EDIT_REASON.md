@@ -7,15 +7,6 @@
 <!-- BEGIN edit_reason -->
 {edit_reason.L_EDIT_REASON}
 <!-- END edit_reason -->
-<!-- BEGIN edit_reason -->
-{edit_reason.L_EDIT_REASON}
-<!-- END edit_reason -->
-<!-- BEGIN edit_reason -->
-{edit_reason.L_EDIT_REASON}
-<!-- END edit_reason -->
-<!-- BEGIN edit_reason -->
-{edit_reason.L_EDIT_REASON}
-<!-- END edit_reason -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/edit_reason.L_EDIT_REASON)

@@ -5,13 +5,6 @@
 
 ```smarty
 {S_AUTH_LIST}
-{S_AUTH_LIST}
-{S_AUTH_LIST}
-{S_AUTH_LIST}
-{S_AUTH_LIST}
-{S_AUTH_LIST}
-{S_AUTH_LIST}
-{S_AUTH_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_AUTH_LIST)

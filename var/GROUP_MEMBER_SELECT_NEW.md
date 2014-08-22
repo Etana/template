@@ -5,8 +5,6 @@
 
 ```smarty
 {GROUP_MEMBER_SELECT_NEW}
-{GROUP_MEMBER_SELECT_NEW}
-{GROUP_MEMBER_SELECT_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_MEMBER_SELECT_NEW)

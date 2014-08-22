@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_mod_option -->
 <!-- END member_row -->
-<!-- BEGIN member_row -->
-    <!-- BEGIN switch_mod_option -->
-    contenu sur lequel on boucle
-    <!-- END switch_mod_option -->
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-    <!-- BEGIN switch_mod_option -->
-    contenu sur lequel on boucle
-    <!-- END switch_mod_option -->
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-    <!-- BEGIN switch_mod_option -->
-    contenu sur lequel on boucle
-    <!-- END switch_mod_option -->
-<!-- END member_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/member_row.switch_mod_option)

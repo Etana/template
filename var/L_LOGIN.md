@@ -5,35 +5,6 @@
 
 ```smarty
 {L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
-{L_LOGIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LOGIN)

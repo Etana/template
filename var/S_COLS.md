@@ -5,16 +5,6 @@
 
 ```smarty
 {S_COLS}
-{S_COLS}
-{S_COLS}
-{S_COLS}
-{S_COLS}
-{S_COLS}
-{S_COLS}
-{S_COLS}
-{S_COLS}
-{S_COLS}
-{S_COLS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_COLS)

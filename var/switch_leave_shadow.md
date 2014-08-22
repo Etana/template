@@ -7,15 +7,6 @@
 <!-- BEGIN switch_leave_shadow -->
 contenu sur lequel on boucle
 <!-- END switch_leave_shadow -->
-<!-- BEGIN switch_leave_shadow -->
-contenu sur lequel on boucle
-<!-- END switch_leave_shadow -->
-<!-- BEGIN switch_leave_shadow -->
-contenu sur lequel on boucle
-<!-- END switch_leave_shadow -->
-<!-- BEGIN switch_leave_shadow -->
-contenu sur lequel on boucle
-<!-- END switch_leave_shadow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_leave_shadow)

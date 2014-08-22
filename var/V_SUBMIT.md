@@ -5,9 +5,6 @@
 
 ```smarty
 {V_SUBMIT}
-{V_SUBMIT}
-{V_SUBMIT}
-{V_SUBMIT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_SUBMIT)

@@ -5,12 +5,6 @@
 
 ```smarty
 {L_SEARCH_PREVIOUS}
-{L_SEARCH_PREVIOUS}
-{L_SEARCH_PREVIOUS}
-{L_SEARCH_PREVIOUS}
-{L_SEARCH_PREVIOUS}
-{L_SEARCH_PREVIOUS}
-{L_SEARCH_PREVIOUS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_PREVIOUS)

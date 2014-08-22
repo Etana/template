@@ -5,16 +5,6 @@
 
 ```smarty
 {L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
-{L_FAQ_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FAQ_TITLE)

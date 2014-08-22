@@ -5,13 +5,6 @@
 
 ```smarty
 {POLL_DISPLAY}
-{POLL_DISPLAY}
-{POLL_DISPLAY}
-{POLL_DISPLAY}
-{POLL_DISPLAY}
-{POLL_DISPLAY}
-{POLL_DISPLAY}
-{POLL_DISPLAY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLL_DISPLAY)

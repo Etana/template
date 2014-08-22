@@ -5,9 +5,6 @@
 
 ```smarty
 {V_POLL_MULTIPLE}
-{V_POLL_MULTIPLE}
-{V_POLL_MULTIPLE}
-{V_POLL_MULTIPLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_POLL_MULTIPLE)

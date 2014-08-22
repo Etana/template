@@ -5,10 +5,6 @@
 
 ```smarty
 {L_POST_A}
-{L_POST_A}
-{L_POST_A}
-{L_POST_A}
-{L_POST_A}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POST_A)

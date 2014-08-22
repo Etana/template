@@ -7,12 +7,6 @@
 <!-- BEGIN postrow -->
 {postrow.POST_SUBJECT_NEW}
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.POST_SUBJECT_NEW}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.POST_SUBJECT_NEW}
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.POST_SUBJECT_NEW)

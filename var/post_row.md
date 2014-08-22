@@ -7,15 +7,6 @@
 <!-- BEGIN post_row -->
 contenu sur lequel on boucle
 <!-- END post_row -->
-<!-- BEGIN post_row -->
-contenu sur lequel on boucle
-<!-- END post_row -->
-<!-- BEGIN post_row -->
-contenu sur lequel on boucle
-<!-- END post_row -->
-<!-- BEGIN post_row -->
-contenu sur lequel on boucle
-<!-- END post_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row)

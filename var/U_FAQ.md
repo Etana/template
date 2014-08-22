@@ -5,7 +5,6 @@
 
 ```smarty
 {U_FAQ}
-{U_FAQ}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_FAQ)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CHANGE_PASSWORD}
-{L_CHANGE_PASSWORD}
-{L_CHANGE_PASSWORD}
-{L_CHANGE_PASSWORD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CHANGE_PASSWORD)

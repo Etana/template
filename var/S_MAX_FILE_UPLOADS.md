@@ -5,13 +5,6 @@
 
 ```smarty
 {S_MAX_FILE_UPLOADS}
-{S_MAX_FILE_UPLOADS}
-{S_MAX_FILE_UPLOADS}
-{S_MAX_FILE_UPLOADS}
-{S_MAX_FILE_UPLOADS}
-{S_MAX_FILE_UPLOADS}
-{S_MAX_FILE_UPLOADS}
-{S_MAX_FILE_UPLOADS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MAX_FILE_UPLOADS)

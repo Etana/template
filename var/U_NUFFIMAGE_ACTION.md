@@ -5,9 +5,6 @@
 
 ```smarty
 {U_NUFFIMAGE_ACTION}
-{U_NUFFIMAGE_ACTION}
-{U_NUFFIMAGE_ACTION}
-{U_NUFFIMAGE_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_NUFFIMAGE_ACTION)

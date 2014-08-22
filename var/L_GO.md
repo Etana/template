@@ -5,39 +5,6 @@
 
 ```smarty
 {L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
-{L_GO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GO)

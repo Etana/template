@@ -5,17 +5,6 @@
 
 ```smarty
 {L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
-{L_REASON}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REASON)

@@ -5,9 +5,6 @@
 
 ```smarty
 {S_ANTI_ROBOT}
-{S_ANTI_ROBOT}
-{S_ANTI_ROBOT}
-{S_ANTI_ROBOT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ANTI_ROBOT)

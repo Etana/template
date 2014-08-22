@@ -5,7 +5,6 @@
 
 ```smarty
 {L_FLASH}
-{L_FLASH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FLASH)

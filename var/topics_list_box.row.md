@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END row -->
 <!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
-<!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
-<!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-    contenu sur lequel on boucle
-    <!-- END row -->
-<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row)

@@ -5,38 +5,6 @@
 
 ```smarty
 {U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
-{U_ALBUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_ALBUM)

@@ -5,9 +5,6 @@
 
 ```smarty
 {BOX_SIZE_STATUS}
-{BOX_SIZE_STATUS}
-{BOX_SIZE_STATUS}
-{BOX_SIZE_STATUS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BOX_SIZE_STATUS)

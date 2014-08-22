@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_SEPIA_CHECKED}
-{NUFF_SEPIA_CHECKED}
-{NUFF_SEPIA_CHECKED}
-{NUFF_SEPIA_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_SEPIA_CHECKED)

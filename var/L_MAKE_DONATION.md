@@ -5,8 +5,6 @@
 
 ```smarty
 {L_MAKE_DONATION}
-{L_MAKE_DONATION}
-{L_MAKE_DONATION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MAKE_DONATION)

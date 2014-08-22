@@ -5,9 +5,6 @@
 
 ```smarty
 {T_GOO_TEXT}
-{T_GOO_TEXT}
-{T_GOO_TEXT}
-{T_GOO_TEXT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_GOO_TEXT)

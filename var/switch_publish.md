@@ -7,15 +7,6 @@
 <!-- BEGIN switch_publish -->
 contenu sur lequel on boucle
 <!-- END switch_publish -->
-<!-- BEGIN switch_publish -->
-contenu sur lequel on boucle
-<!-- END switch_publish -->
-<!-- BEGIN switch_publish -->
-contenu sur lequel on boucle
-<!-- END switch_publish -->
-<!-- BEGIN switch_publish -->
-contenu sur lequel on boucle
-<!-- END switch_publish -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_publish)

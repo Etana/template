@@ -11,27 +11,6 @@
         <!-- END spacer -->
     <!-- END row -->
 <!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-        <!-- BEGIN spacer -->
-        contenu sur lequel on boucle
-        <!-- END spacer -->
-    <!-- END row -->
-<!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-        <!-- BEGIN spacer -->
-        contenu sur lequel on boucle
-        <!-- END spacer -->
-    <!-- END row -->
-<!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-        <!-- BEGIN spacer -->
-        contenu sur lequel on boucle
-        <!-- END spacer -->
-    <!-- END row -->
-<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.spacer)

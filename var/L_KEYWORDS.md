@@ -5,9 +5,6 @@
 
 ```smarty
 {L_KEYWORDS}
-{L_KEYWORDS}
-{L_KEYWORDS}
-{L_KEYWORDS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_KEYWORDS)

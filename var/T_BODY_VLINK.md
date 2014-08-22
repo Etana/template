@@ -5,8 +5,6 @@
 
 ```smarty
 {T_BODY_VLINK}
-{T_BODY_VLINK}
-{T_BODY_VLINK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_BODY_VLINK)

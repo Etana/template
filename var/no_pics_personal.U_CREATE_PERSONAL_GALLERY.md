@@ -7,15 +7,6 @@
 <!-- BEGIN no_pics_personal -->
 {no_pics_personal.U_CREATE_PERSONAL_GALLERY}
 <!-- END no_pics_personal -->
-<!-- BEGIN no_pics_personal -->
-{no_pics_personal.U_CREATE_PERSONAL_GALLERY}
-<!-- END no_pics_personal -->
-<!-- BEGIN no_pics_personal -->
-{no_pics_personal.U_CREATE_PERSONAL_GALLERY}
-<!-- END no_pics_personal -->
-<!-- BEGIN no_pics_personal -->
-{no_pics_personal.U_CREATE_PERSONAL_GALLERY}
-<!-- END no_pics_personal -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_pics_personal.U_CREATE_PERSONAL_GALLERY)

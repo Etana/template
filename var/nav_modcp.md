@@ -7,33 +7,6 @@
 <!-- BEGIN nav_modcp -->
 contenu sur lequel on boucle
 <!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
-<!-- BEGIN nav_modcp -->
-contenu sur lequel on boucle
-<!-- END nav_modcp -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/nav_modcp)

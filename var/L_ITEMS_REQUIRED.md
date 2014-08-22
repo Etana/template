@@ -5,13 +5,6 @@
 
 ```smarty
 {L_ITEMS_REQUIRED}
-{L_ITEMS_REQUIRED}
-{L_ITEMS_REQUIRED}
-{L_ITEMS_REQUIRED}
-{L_ITEMS_REQUIRED}
-{L_ITEMS_REQUIRED}
-{L_ITEMS_REQUIRED}
-{L_ITEMS_REQUIRED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ITEMS_REQUIRED)

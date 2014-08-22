@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NORMAL}
-{L_NORMAL}
-{L_NORMAL}
-{L_NORMAL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NORMAL)

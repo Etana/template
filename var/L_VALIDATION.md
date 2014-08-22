@@ -5,9 +5,6 @@
 
 ```smarty
 {L_VALIDATION}
-{L_VALIDATION}
-{L_VALIDATION}
-{L_VALIDATION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_VALIDATION)

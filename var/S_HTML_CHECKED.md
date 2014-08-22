@@ -5,9 +5,6 @@
 
 ```smarty
 {S_HTML_CHECKED}
-{S_HTML_CHECKED}
-{S_HTML_CHECKED}
-{S_HTML_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_HTML_CHECKED)

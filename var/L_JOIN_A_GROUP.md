@@ -5,9 +5,6 @@
 
 ```smarty
 {L_JOIN_A_GROUP}
-{L_JOIN_A_GROUP}
-{L_JOIN_A_GROUP}
-{L_JOIN_A_GROUP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_JOIN_A_GROUP)

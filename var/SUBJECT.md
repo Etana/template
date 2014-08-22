@@ -5,17 +5,6 @@
 
 ```smarty
 {SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
-{SUBJECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SUBJECT)

@@ -5,9 +5,6 @@
 
 ```smarty
 {S_TOPIC_ADMIN}
-{S_TOPIC_ADMIN}
-{S_TOPIC_ADMIN}
-{S_TOPIC_ADMIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_TOPIC_ADMIN)

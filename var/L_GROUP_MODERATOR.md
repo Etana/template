@@ -5,9 +5,6 @@
 
 ```smarty
 {L_GROUP_MODERATOR}
-{L_GROUP_MODERATOR}
-{L_GROUP_MODERATOR}
-{L_GROUP_MODERATOR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_MODERATOR)

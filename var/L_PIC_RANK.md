@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PIC_RANK}
-{L_PIC_RANK}
-{L_PIC_RANK}
-{L_PIC_RANK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PIC_RANK)

@@ -5,9 +5,6 @@
 
 ```smarty
 {POLL_MULTIPLE_UNCHECKED}
-{POLL_MULTIPLE_UNCHECKED}
-{POLL_MULTIPLE_UNCHECKED}
-{POLL_MULTIPLE_UNCHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLL_MULTIPLE_UNCHECKED)

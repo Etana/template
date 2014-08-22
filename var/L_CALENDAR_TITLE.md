@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CALENDAR_TITLE}
-{L_CALENDAR_TITLE}
-{L_CALENDAR_TITLE}
-{L_CALENDAR_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CALENDAR_TITLE)

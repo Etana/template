@@ -5,14 +5,6 @@
 
 ```smarty
 {ICON_TIME}
-{ICON_TIME}
-{ICON_TIME}
-{ICON_TIME}
-{ICON_TIME}
-{ICON_TIME}
-{ICON_TIME}
-{ICON_TIME}
-{ICON_TIME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ICON_TIME)

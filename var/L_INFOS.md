@@ -5,10 +5,6 @@
 
 ```smarty
 {L_INFOS}
-{L_INFOS}
-{L_INFOS}
-{L_INFOS}
-{L_INFOS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_INFOS)

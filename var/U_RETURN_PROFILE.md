@@ -5,7 +5,6 @@
 
 ```smarty
 {U_RETURN_PROFILE}
-{U_RETURN_PROFILE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_RETURN_PROFILE)

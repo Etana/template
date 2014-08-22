@@ -5,9 +5,6 @@
 
 ```smarty
 {L_STATUT}
-{L_STATUT}
-{L_STATUT}
-{L_STATUT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_STATUT)

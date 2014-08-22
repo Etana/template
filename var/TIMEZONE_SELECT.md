@@ -5,9 +5,6 @@
 
 ```smarty
 {TIMEZONE_SELECT}
-{TIMEZONE_SELECT}
-{TIMEZONE_SELECT}
-{TIMEZONE_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TIMEZONE_SELECT)

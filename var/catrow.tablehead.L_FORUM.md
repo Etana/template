@@ -9,21 +9,6 @@
     {catrow.tablehead.L_FORUM}
     <!-- END tablehead -->
 <!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN tablehead -->
-    {catrow.tablehead.L_FORUM}
-    <!-- END tablehead -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN tablehead -->
-    {catrow.tablehead.L_FORUM}
-    <!-- END tablehead -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN tablehead -->
-    {catrow.tablehead.L_FORUM}
-    <!-- END tablehead -->
-<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)

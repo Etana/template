@@ -5,8 +5,6 @@
 
 ```smarty
 {OPTIONAL_BAN_NEW}
-{OPTIONAL_BAN_NEW}
-{OPTIONAL_BAN_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/OPTIONAL_BAN_NEW)

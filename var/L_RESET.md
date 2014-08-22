@@ -5,30 +5,6 @@
 
 ```smarty
 {L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
-{L_RESET}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_RESET)

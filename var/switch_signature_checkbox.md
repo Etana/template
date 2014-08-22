@@ -7,15 +7,6 @@
 <!-- BEGIN switch_signature_checkbox -->
 contenu sur lequel on boucle
 <!-- END switch_signature_checkbox -->
-<!-- BEGIN switch_signature_checkbox -->
-contenu sur lequel on boucle
-<!-- END switch_signature_checkbox -->
-<!-- BEGIN switch_signature_checkbox -->
-contenu sur lequel on boucle
-<!-- END switch_signature_checkbox -->
-<!-- BEGIN switch_signature_checkbox -->
-contenu sur lequel on boucle
-<!-- END switch_signature_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_signature_checkbox)

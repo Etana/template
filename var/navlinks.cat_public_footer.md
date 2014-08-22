@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END cat_public_footer -->
 <!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN cat_public_footer -->
-    contenu sur lequel on boucle
-    <!-- END cat_public_footer -->
-<!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN cat_public_footer -->
-    contenu sur lequel on boucle
-    <!-- END cat_public_footer -->
-<!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN cat_public_footer -->
-    contenu sur lequel on boucle
-    <!-- END cat_public_footer -->
-<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer)

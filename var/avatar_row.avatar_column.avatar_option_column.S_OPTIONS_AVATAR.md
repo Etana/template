@@ -11,20 +11,6 @@
         <!-- END avatar_option_column -->
     <!-- END avatar_column -->
 <!-- END avatar_row -->
-<!-- BEGIN avatar_row -->
-    <!-- BEGIN avatar_column -->
-        <!-- BEGIN avatar_option_column -->
-        {avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}
-        <!-- END avatar_option_column -->
-    <!-- END avatar_column -->
-<!-- END avatar_row -->
-<!-- BEGIN avatar_row -->
-    <!-- BEGIN avatar_column -->
-        <!-- BEGIN avatar_option_column -->
-        {avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}
-        <!-- END avatar_option_column -->
-    <!-- END avatar_column -->
-<!-- END avatar_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR)

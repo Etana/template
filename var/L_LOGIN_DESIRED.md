@@ -5,7 +5,6 @@
 
 ```smarty
 {L_LOGIN_DESIRED}
-{L_LOGIN_DESIRED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LOGIN_DESIRED)

@@ -5,9 +5,6 @@
 
 ```smarty
 {V_TOPICTYPE}
-{V_TOPICTYPE}
-{V_TOPICTYPE}
-{V_TOPICTYPE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_TOPICTYPE)

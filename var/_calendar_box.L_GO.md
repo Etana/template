@@ -7,15 +7,6 @@
 <!-- BEGIN _calendar_box -->
 {_calendar_box.L_GO}
 <!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-{_calendar_box.L_GO}
-<!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-{_calendar_box.L_GO}
-<!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-{_calendar_box.L_GO}
-<!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.L_GO)

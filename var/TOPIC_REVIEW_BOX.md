@@ -5,13 +5,6 @@
 
 ```smarty
 {TOPIC_REVIEW_BOX}
-{TOPIC_REVIEW_BOX}
-{TOPIC_REVIEW_BOX}
-{TOPIC_REVIEW_BOX}
-{TOPIC_REVIEW_BOX}
-{TOPIC_REVIEW_BOX}
-{TOPIC_REVIEW_BOX}
-{TOPIC_REVIEW_BOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC_REVIEW_BOX)

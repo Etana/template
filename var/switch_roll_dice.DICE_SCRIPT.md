@@ -7,15 +7,6 @@
 <!-- BEGIN switch_roll_dice -->
 {switch_roll_dice.DICE_SCRIPT}
 <!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-{switch_roll_dice.DICE_SCRIPT}
-<!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-{switch_roll_dice.DICE_SCRIPT}
-<!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-{switch_roll_dice.DICE_SCRIPT}
-<!-- END switch_roll_dice -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice.DICE_SCRIPT)

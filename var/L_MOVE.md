@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MOVE}
-{L_MOVE}
-{L_MOVE}
-{L_MOVE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MOVE)

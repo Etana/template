@@ -7,12 +7,6 @@
 <!-- BEGIN switch_search_results -->
 contenu sur lequel on boucle
 <!-- END switch_search_results -->
-<!-- BEGIN switch_search_results -->
-contenu sur lequel on boucle
-<!-- END switch_search_results -->
-<!-- BEGIN switch_search_results -->
-contenu sur lequel on boucle
-<!-- END switch_search_results -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_search_results)

@@ -5,9 +5,6 @@
 
 ```smarty
 {AGREEMENT}
-{AGREEMENT}
-{AGREEMENT}
-{AGREEMENT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AGREEMENT)

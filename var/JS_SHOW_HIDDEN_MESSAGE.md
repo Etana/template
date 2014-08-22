@@ -5,9 +5,6 @@
 
 ```smarty
 {JS_SHOW_HIDDEN_MESSAGE}
-{JS_SHOW_HIDDEN_MESSAGE}
-{JS_SHOW_HIDDEN_MESSAGE}
-{JS_SHOW_HIDDEN_MESSAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CONNECTED_MEMBERS}
-{L_CONNECTED_MEMBERS}
-{L_CONNECTED_MEMBERS}
-{L_CONNECTED_MEMBERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CONNECTED_MEMBERS)

@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_MIRROR}
-{IMG_MIRROR}
-{IMG_MIRROR}
-{IMG_MIRROR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_MIRROR)

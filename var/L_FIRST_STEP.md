@@ -5,9 +5,6 @@
 
 ```smarty
 {L_FIRST_STEP}
-{L_FIRST_STEP}
-{L_FIRST_STEP}
-{L_FIRST_STEP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FIRST_STEP)

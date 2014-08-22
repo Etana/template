@@ -5,33 +5,6 @@
 
 ```smarty
 {NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
-{NAV_SEP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAV_SEP)

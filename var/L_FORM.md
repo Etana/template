@@ -5,9 +5,6 @@
 
 ```smarty
 {L_FORM}
-{L_FORM}
-{L_FORM}
-{L_FORM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FORM)

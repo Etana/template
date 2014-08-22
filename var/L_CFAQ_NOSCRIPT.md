@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CFAQ_NOSCRIPT}
-{L_CFAQ_NOSCRIPT}
-{L_CFAQ_NOSCRIPT}
-{L_CFAQ_NOSCRIPT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CFAQ_NOSCRIPT)

@@ -5,9 +5,6 @@
 
 ```smarty
 {BIRTHDAY_LIST_SCHEDULER}
-{BIRTHDAY_LIST_SCHEDULER}
-{BIRTHDAY_LIST_SCHEDULER}
-{BIRTHDAY_LIST_SCHEDULER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BIRTHDAY_LIST_SCHEDULER)

@@ -5,10 +5,6 @@
 
 ```smarty
 {LOGIN_POPUP_WIDTH}
-{LOGIN_POPUP_WIDTH}
-{LOGIN_POPUP_WIDTH}
-{LOGIN_POPUP_WIDTH}
-{LOGIN_POPUP_WIDTH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_WIDTH)

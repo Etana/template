@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_view_pm -->
 <!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_view_pm -->
-    contenu sur lequel on boucle
-    <!-- END switch_view_pm -->
-<!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_view_pm -->
-    contenu sur lequel on boucle
-    <!-- END switch_view_pm -->
-<!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_view_pm -->
-    contenu sur lequel on boucle
-    <!-- END switch_view_pm -->
-<!-- END switch_preferences_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_view_pm)

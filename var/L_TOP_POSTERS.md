@@ -5,13 +5,6 @@
 
 ```smarty
 {L_TOP_POSTERS}
-{L_TOP_POSTERS}
-{L_TOP_POSTERS}
-{L_TOP_POSTERS}
-{L_TOP_POSTERS}
-{L_TOP_POSTERS}
-{L_TOP_POSTERS}
-{L_TOP_POSTERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TOP_POSTERS)

@@ -7,15 +7,6 @@
 <!-- BEGIN giefmod4 -->
 contenu sur lequel on boucle
 <!-- END giefmod4 -->
-<!-- BEGIN giefmod4 -->
-contenu sur lequel on boucle
-<!-- END giefmod4 -->
-<!-- BEGIN giefmod4 -->
-contenu sur lequel on boucle
-<!-- END giefmod4 -->
-<!-- BEGIN giefmod4 -->
-contenu sur lequel on boucle
-<!-- END giefmod4 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod4)

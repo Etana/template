@@ -7,27 +7,6 @@
 <!-- BEGIN member_row -->
 {member_row.ROW_CLASS}
 <!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.ROW_CLASS}
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.ROW_CLASS}
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.ROW_CLASS}
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.ROW_CLASS}
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.ROW_CLASS}
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.ROW_CLASS}
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.ROW_CLASS}
-<!-- END member_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/member_row.ROW_CLASS)

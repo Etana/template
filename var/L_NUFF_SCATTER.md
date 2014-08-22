@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NUFF_SCATTER}
-{L_NUFF_SCATTER}
-{L_NUFF_SCATTER}
-{L_NUFF_SCATTER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_SCATTER)

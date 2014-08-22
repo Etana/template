@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MAILTO}
-{L_MAILTO}
-{L_MAILTO}
-{L_MAILTO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MAILTO)

@@ -5,11 +5,6 @@
 
 ```smarty
 {BBCODE_STATUS}
-{BBCODE_STATUS}
-{BBCODE_STATUS}
-{BBCODE_STATUS}
-{BBCODE_STATUS}
-{BBCODE_STATUS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BBCODE_STATUS)

@@ -5,13 +5,6 @@
 
 ```smarty
 {L_SUBMIT_VOTE}
-{L_SUBMIT_VOTE}
-{L_SUBMIT_VOTE}
-{L_SUBMIT_VOTE}
-{L_SUBMIT_VOTE}
-{L_SUBMIT_VOTE}
-{L_SUBMIT_VOTE}
-{L_SUBMIT_VOTE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SUBMIT_VOTE)

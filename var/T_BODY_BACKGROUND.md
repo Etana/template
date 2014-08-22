@@ -5,7 +5,6 @@
 
 ```smarty
 {T_BODY_BACKGROUND}
-{T_BODY_BACKGROUND}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_BODY_BACKGROUND)

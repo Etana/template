@@ -5,10 +5,6 @@
 
 ```smarty
 {L_PREFERENCES}
-{L_PREFERENCES}
-{L_PREFERENCES}
-{L_PREFERENCES}
-{L_PREFERENCES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PREFERENCES)

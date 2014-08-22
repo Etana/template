@@ -5,7 +5,6 @@
 
 ```smarty
 {OCCUPATION}
-{OCCUPATION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/OCCUPATION)

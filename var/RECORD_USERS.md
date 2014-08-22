@@ -5,13 +5,6 @@
 
 ```smarty
 {RECORD_USERS}
-{RECORD_USERS}
-{RECORD_USERS}
-{RECORD_USERS}
-{RECORD_USERS}
-{RECORD_USERS}
-{RECORD_USERS}
-{RECORD_USERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/RECORD_USERS)

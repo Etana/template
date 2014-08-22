@@ -5,9 +5,6 @@
 
 ```smarty
 {MAX_TOPIC_LENGTH}
-{MAX_TOPIC_LENGTH}
-{MAX_TOPIC_LENGTH}
-{MAX_TOPIC_LENGTH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MAX_TOPIC_LENGTH)

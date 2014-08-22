@@ -5,28 +5,6 @@
 
 ```smarty
 {L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
-{L_TOPICS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TOPICS)

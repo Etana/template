@@ -7,15 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.POSTER_NAME}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.POSTER_NAME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.POSTER_NAME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.POSTER_NAME}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POSTER_NAME)

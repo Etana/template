@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_INTERLACE_CHECKED}
-{NUFF_INTERLACE_CHECKED}
-{NUFF_INTERLACE_CHECKED}
-{NUFF_INTERLACE_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_INTERLACE_CHECKED)

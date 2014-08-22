@@ -5,8 +5,6 @@
 
 ```smarty
 {T_BODY_LINK}
-{T_BODY_LINK}
-{T_BODY_LINK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_BODY_LINK)

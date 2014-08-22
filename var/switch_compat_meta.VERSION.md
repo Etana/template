@@ -7,15 +7,6 @@
 <!-- BEGIN switch_compat_meta -->
 {switch_compat_meta.VERSION}
 <!-- END switch_compat_meta -->
-<!-- BEGIN switch_compat_meta -->
-{switch_compat_meta.VERSION}
-<!-- END switch_compat_meta -->
-<!-- BEGIN switch_compat_meta -->
-{switch_compat_meta.VERSION}
-<!-- END switch_compat_meta -->
-<!-- BEGIN switch_compat_meta -->
-{switch_compat_meta.VERSION}
-<!-- END switch_compat_meta -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_compat_meta.VERSION)

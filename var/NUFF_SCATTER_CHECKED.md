@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_SCATTER_CHECKED}
-{NUFF_SCATTER_CHECKED}
-{NUFF_SCATTER_CHECKED}
-{NUFF_SCATTER_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_SCATTER_CHECKED)

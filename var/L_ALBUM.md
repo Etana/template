@@ -5,43 +5,6 @@
 
 ```smarty
 {L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
-{L_ALBUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ALBUM)

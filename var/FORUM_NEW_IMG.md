@@ -5,9 +5,6 @@
 
 ```smarty
 {FORUM_NEW_IMG}
-{FORUM_NEW_IMG}
-{FORUM_NEW_IMG}
-{FORUM_NEW_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_NEW_IMG)

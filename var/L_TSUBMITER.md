@@ -5,8 +5,6 @@
 
 ```smarty
 {L_TSUBMITER}
-{L_TSUBMITER}
-{L_TSUBMITER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TSUBMITER)

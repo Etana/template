@@ -7,27 +7,6 @@
 <!-- BEGIN poll_option_rows -->
 {poll_option_rows.S_POLL_OPTION_NUM}
 <!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.S_POLL_OPTION_NUM}
-<!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.S_POLL_OPTION_NUM}
-<!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.S_POLL_OPTION_NUM}
-<!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.S_POLL_OPTION_NUM}
-<!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.S_POLL_OPTION_NUM}
-<!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.S_POLL_OPTION_NUM}
-<!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.S_POLL_OPTION_NUM}
-<!-- END poll_option_rows -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_rows.S_POLL_OPTION_NUM)

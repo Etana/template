@@ -5,13 +5,6 @@
 
 ```smarty
 {L_REPORTER}
-{L_REPORTER}
-{L_REPORTER}
-{L_REPORTER}
-{L_REPORTER}
-{L_REPORTER}
-{L_REPORTER}
-{L_REPORTER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REPORTER)

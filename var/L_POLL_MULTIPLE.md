@@ -5,9 +5,6 @@
 
 ```smarty
 {L_POLL_MULTIPLE}
-{L_POLL_MULTIPLE}
-{L_POLL_MULTIPLE}
-{L_POLL_MULTIPLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POLL_MULTIPLE)

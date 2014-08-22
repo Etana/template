@@ -5,9 +5,6 @@
 
 ```smarty
 {FOLDER_IMG}
-{FOLDER_IMG}
-{FOLDER_IMG}
-{FOLDER_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_IMG)

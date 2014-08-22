@@ -5,9 +5,6 @@
 
 ```smarty
 {U_MOD_VIEWPROFILE}
-{U_MOD_VIEWPROFILE}
-{U_MOD_VIEWPROFILE}
-{U_MOD_VIEWPROFILE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_MOD_VIEWPROFILE)

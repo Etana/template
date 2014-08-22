@@ -5,25 +5,6 @@
 
 ```smarty
 {L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
-{L_STATUS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_STATUS)

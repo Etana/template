@@ -5,9 +5,6 @@
 
 ```smarty
 {U_PREC}
-{U_PREC}
-{U_PREC}
-{U_PREC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PREC)

@@ -5,9 +5,6 @@
 
 ```smarty
 {UPLOAD_FULL_LINK}
-{UPLOAD_FULL_LINK}
-{UPLOAD_FULL_LINK}
-{UPLOAD_FULL_LINK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/UPLOAD_FULL_LINK)

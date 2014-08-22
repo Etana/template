@@ -7,15 +7,6 @@
 <!-- BEGIN edit_reason -->
 contenu sur lequel on boucle
 <!-- END edit_reason -->
-<!-- BEGIN edit_reason -->
-contenu sur lequel on boucle
-<!-- END edit_reason -->
-<!-- BEGIN edit_reason -->
-contenu sur lequel on boucle
-<!-- END edit_reason -->
-<!-- BEGIN edit_reason -->
-contenu sur lequel on boucle
-<!-- END edit_reason -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/edit_reason)

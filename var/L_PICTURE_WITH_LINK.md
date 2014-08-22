@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PICTURE_WITH_LINK}
-{L_PICTURE_WITH_LINK}
-{L_PICTURE_WITH_LINK}
-{L_PICTURE_WITH_LINK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PICTURE_WITH_LINK)

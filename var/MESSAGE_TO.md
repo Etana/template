@@ -5,9 +5,6 @@
 
 ```smarty
 {MESSAGE_TO}
-{MESSAGE_TO}
-{MESSAGE_TO}
-{MESSAGE_TO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MESSAGE_TO)

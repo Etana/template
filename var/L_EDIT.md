@@ -5,9 +5,6 @@
 
 ```smarty
 {L_EDIT}
-{L_EDIT}
-{L_EDIT}
-{L_EDIT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_EDIT)

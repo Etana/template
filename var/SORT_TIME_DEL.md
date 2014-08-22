@@ -5,9 +5,6 @@
 
 ```smarty
 {SORT_TIME_DEL}
-{SORT_TIME_DEL}
-{SORT_TIME_DEL}
-{SORT_TIME_DEL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_TIME_DEL)

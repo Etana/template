@@ -5,13 +5,6 @@
 
 ```smarty
 {U_SEND_PASSWORD}
-{U_SEND_PASSWORD}
-{U_SEND_PASSWORD}
-{U_SEND_PASSWORD}
-{U_SEND_PASSWORD}
-{U_SEND_PASSWORD}
-{U_SEND_PASSWORD}
-{U_SEND_PASSWORD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEND_PASSWORD)

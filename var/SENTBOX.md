@@ -5,13 +5,6 @@
 
 ```smarty
 {SENTBOX}
-{SENTBOX}
-{SENTBOX}
-{SENTBOX}
-{SENTBOX}
-{SENTBOX}
-{SENTBOX}
-{SENTBOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SENTBOX)

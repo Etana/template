@@ -5,9 +5,6 @@
 
 ```smarty
 {L_POST_SUBJECT}
-{L_POST_SUBJECT}
-{L_POST_SUBJECT}
-{L_POST_SUBJECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POST_SUBJECT)

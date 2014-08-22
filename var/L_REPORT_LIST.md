@@ -5,15 +5,6 @@
 
 ```smarty
 {L_REPORT_LIST}
-{L_REPORT_LIST}
-{L_REPORT_LIST}
-{L_REPORT_LIST}
-{L_REPORT_LIST}
-{L_REPORT_LIST}
-{L_REPORT_LIST}
-{L_REPORT_LIST}
-{L_REPORT_LIST}
-{L_REPORT_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REPORT_LIST)

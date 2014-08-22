@@ -5,19 +5,6 @@
 
 ```smarty
 {L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
-{L_LASTPOST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LASTPOST)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_RSS_FEEDS}
-{L_RSS_FEEDS}
-{L_RSS_FEEDS}
-{L_RSS_FEEDS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_RSS_FEEDS)

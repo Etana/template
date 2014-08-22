@@ -5,9 +5,6 @@
 
 ```smarty
 {HIDE_USER_YES}
-{HIDE_USER_YES}
-{HIDE_USER_YES}
-{HIDE_USER_YES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/HIDE_USER_YES)

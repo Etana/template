@@ -5,21 +5,6 @@
 
 ```smarty
 {EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
-{EMAIL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/EMAIL)

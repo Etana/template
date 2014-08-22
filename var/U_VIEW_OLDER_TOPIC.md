@@ -5,12 +5,6 @@
 
 ```smarty
 {U_VIEW_OLDER_TOPIC}
-{U_VIEW_OLDER_TOPIC}
-{U_VIEW_OLDER_TOPIC}
-{U_VIEW_OLDER_TOPIC}
-{U_VIEW_OLDER_TOPIC}
-{U_VIEW_OLDER_TOPIC}
-{U_VIEW_OLDER_TOPIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_VIEW_OLDER_TOPIC)

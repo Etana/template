@@ -5,9 +5,6 @@
 
 ```smarty
 {S_LIST_FORUMS}
-{S_LIST_FORUMS}
-{S_LIST_FORUMS}
-{S_LIST_FORUMS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_LIST_FORUMS)

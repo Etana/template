@@ -5,9 +5,6 @@
 
 ```smarty
 {HOSTING_JS}
-{HOSTING_JS}
-{HOSTING_JS}
-{HOSTING_JS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/HOSTING_JS)

@@ -9,11 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_statistics_link -->
 <!-- END disable_viewonline -->
-<!-- BEGIN disable_viewonline -->
-    <!-- BEGIN switch_statistics_link -->
-    contenu sur lequel on boucle
-    <!-- END switch_statistics_link -->
-<!-- END disable_viewonline -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_statistics_link)

@@ -5,12 +5,6 @@
 
 ```smarty
 {L_UPDATE}
-{L_UPDATE}
-{L_UPDATE}
-{L_UPDATE}
-{L_UPDATE}
-{L_UPDATE}
-{L_UPDATE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UPDATE)

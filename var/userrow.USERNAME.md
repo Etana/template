@@ -7,15 +7,6 @@
 <!-- BEGIN userrow -->
 {userrow.USERNAME}
 <!-- END userrow -->
-<!-- BEGIN userrow -->
-{userrow.USERNAME}
-<!-- END userrow -->
-<!-- BEGIN userrow -->
-{userrow.USERNAME}
-<!-- END userrow -->
-<!-- BEGIN userrow -->
-{userrow.USERNAME}
-<!-- END userrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/userrow.USERNAME)

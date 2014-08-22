@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END tablehead -->
 <!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN tablehead -->
-    contenu sur lequel on boucle
-    <!-- END tablehead -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN tablehead -->
-    contenu sur lequel on boucle
-    <!-- END tablehead -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN tablehead -->
-    contenu sur lequel on boucle
-    <!-- END tablehead -->
-<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.tablehead)

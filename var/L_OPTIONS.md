@@ -5,10 +5,6 @@
 
 ```smarty
 {L_OPTIONS}
-{L_OPTIONS}
-{L_OPTIONS}
-{L_OPTIONS}
-{L_OPTIONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_OPTIONS)

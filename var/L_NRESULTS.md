@@ -5,8 +5,6 @@
 
 ```smarty
 {L_NRESULTS}
-{L_NRESULTS}
-{L_NRESULTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NRESULTS)

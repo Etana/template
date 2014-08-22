@@ -9,21 +9,6 @@
     {catrow.forumrow.FORUM_DESC}
     <!-- END forumrow -->
 <!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-    {catrow.forumrow.FORUM_DESC}
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-    {catrow.forumrow.FORUM_DESC}
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-    {catrow.forumrow.FORUM_DESC}
-    <!-- END forumrow -->
-<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.FORUM_DESC)

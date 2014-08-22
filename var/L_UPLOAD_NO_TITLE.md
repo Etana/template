@@ -5,13 +5,6 @@
 
 ```smarty
 {L_UPLOAD_NO_TITLE}
-{L_UPLOAD_NO_TITLE}
-{L_UPLOAD_NO_TITLE}
-{L_UPLOAD_NO_TITLE}
-{L_UPLOAD_NO_TITLE}
-{L_UPLOAD_NO_TITLE}
-{L_UPLOAD_NO_TITLE}
-{L_UPLOAD_NO_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UPLOAD_NO_TITLE)

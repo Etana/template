@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CURRENT_IMAGE}
-{L_CURRENT_IMAGE}
-{L_CURRENT_IMAGE}
-{L_CURRENT_IMAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CURRENT_IMAGE)

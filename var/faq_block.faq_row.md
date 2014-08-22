@@ -9,41 +9,6 @@
     contenu sur lequel on boucle
     <!-- END faq_row -->
 <!-- END faq_block -->
-<!-- BEGIN faq_block -->
-    <!-- BEGIN faq_row -->
-    contenu sur lequel on boucle
-    <!-- END faq_row -->
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-    <!-- BEGIN faq_row -->
-    contenu sur lequel on boucle
-    <!-- END faq_row -->
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-    <!-- BEGIN faq_row -->
-    contenu sur lequel on boucle
-    <!-- END faq_row -->
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-    <!-- BEGIN faq_row -->
-    contenu sur lequel on boucle
-    <!-- END faq_row -->
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-    <!-- BEGIN faq_row -->
-    contenu sur lequel on boucle
-    <!-- END faq_row -->
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-    <!-- BEGIN faq_row -->
-    contenu sur lequel on boucle
-    <!-- END faq_row -->
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-    <!-- BEGIN faq_row -->
-    contenu sur lequel on boucle
-    <!-- END faq_row -->
-<!-- END faq_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block.faq_row)

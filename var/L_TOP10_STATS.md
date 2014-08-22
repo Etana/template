@@ -5,9 +5,6 @@
 
 ```smarty
 {L_TOP10_STATS}
-{L_TOP10_STATS}
-{L_TOP10_STATS}
-{L_TOP10_STATS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TOP10_STATS)

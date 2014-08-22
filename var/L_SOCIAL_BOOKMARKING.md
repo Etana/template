@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SOCIAL_BOOKMARKING}
-{L_SOCIAL_BOOKMARKING}
-{L_SOCIAL_BOOKMARKING}
-{L_SOCIAL_BOOKMARKING}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING)

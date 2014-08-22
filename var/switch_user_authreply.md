@@ -7,27 +7,6 @@
 <!-- BEGIN switch_user_authreply -->
 contenu sur lequel on boucle
 <!-- END switch_user_authreply -->
-<!-- BEGIN switch_user_authreply -->
-contenu sur lequel on boucle
-<!-- END switch_user_authreply -->
-<!-- BEGIN switch_user_authreply -->
-contenu sur lequel on boucle
-<!-- END switch_user_authreply -->
-<!-- BEGIN switch_user_authreply -->
-contenu sur lequel on boucle
-<!-- END switch_user_authreply -->
-<!-- BEGIN switch_user_authreply -->
-contenu sur lequel on boucle
-<!-- END switch_user_authreply -->
-<!-- BEGIN switch_user_authreply -->
-contenu sur lequel on boucle
-<!-- END switch_user_authreply -->
-<!-- BEGIN switch_user_authreply -->
-contenu sur lequel on boucle
-<!-- END switch_user_authreply -->
-<!-- BEGIN switch_user_authreply -->
-contenu sur lequel on boucle
-<!-- END switch_user_authreply -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_authreply)

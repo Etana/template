@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MORE}
-{L_MORE}
-{L_MORE}
-{L_MORE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MORE)

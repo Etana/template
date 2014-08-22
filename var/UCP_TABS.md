@@ -5,18 +5,6 @@
 
 ```smarty
 {UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
-{UCP_TABS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/UCP_TABS)

@@ -7,39 +7,6 @@
 <!-- BEGIN switch_ticker -->
 contenu sur lequel on boucle
 <!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-contenu sur lequel on boucle
-<!-- END switch_ticker -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker)

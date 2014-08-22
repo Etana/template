@@ -5,9 +5,6 @@
 
 ```smarty
 {L_HIDE_USER}
-{L_HIDE_USER}
-{L_HIDE_USER}
-{L_HIDE_USER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_HIDE_USER)

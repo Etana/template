@@ -5,9 +5,6 @@
 
 ```smarty
 {S_ALBUM_ROOT_CATEGORY}
-{S_ALBUM_ROOT_CATEGORY}
-{S_ALBUM_ROOT_CATEGORY}
-{S_ALBUM_ROOT_CATEGORY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ALBUM_ROOT_CATEGORY)

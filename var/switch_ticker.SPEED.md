@@ -7,27 +7,6 @@
 <!-- BEGIN switch_ticker -->
 {switch_ticker.SPEED}
 <!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.SPEED}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.SPEED}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.SPEED}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.SPEED}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.SPEED}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.SPEED}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.SPEED}
-<!-- END switch_ticker -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.SPEED)

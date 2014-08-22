@@ -5,17 +5,6 @@
 
 ```smarty
 {SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
-{SORT_VIEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_VIEW)

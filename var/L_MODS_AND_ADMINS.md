@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MODS_AND_ADMINS}
-{L_MODS_AND_ADMINS}
-{L_MODS_AND_ADMINS}
-{L_MODS_AND_ADMINS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MODS_AND_ADMINS)

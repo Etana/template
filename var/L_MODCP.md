@@ -5,13 +5,6 @@
 
 ```smarty
 {L_MODCP}
-{L_MODCP}
-{L_MODCP}
-{L_MODCP}
-{L_MODCP}
-{L_MODCP}
-{L_MODCP}
-{L_MODCP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MODCP)

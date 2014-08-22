@@ -7,15 +7,6 @@
 <!-- BEGIN main_page -->
 contenu sur lequel on boucle
 <!-- END main_page -->
-<!-- BEGIN main_page -->
-contenu sur lequel on boucle
-<!-- END main_page -->
-<!-- BEGIN main_page -->
-contenu sur lequel on boucle
-<!-- END main_page -->
-<!-- BEGIN main_page -->
-contenu sur lequel on boucle
-<!-- END main_page -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/main_page)

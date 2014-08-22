@@ -7,15 +7,6 @@
 <!-- BEGIN bot_user_row -->
 {bot_user_row.LASTUPDATE}
 <!-- END bot_user_row -->
-<!-- BEGIN bot_user_row -->
-{bot_user_row.LASTUPDATE}
-<!-- END bot_user_row -->
-<!-- BEGIN bot_user_row -->
-{bot_user_row.LASTUPDATE}
-<!-- END bot_user_row -->
-<!-- BEGIN bot_user_row -->
-{bot_user_row.LASTUPDATE}
-<!-- END bot_user_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/bot_user_row.LASTUPDATE)

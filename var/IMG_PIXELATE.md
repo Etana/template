@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_PIXELATE}
-{IMG_PIXELATE}
-{IMG_PIXELATE}
-{IMG_PIXELATE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_PIXELATE)

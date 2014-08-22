@@ -5,9 +5,6 @@
 
 ```smarty
 {MERGE_BOX}
-{MERGE_BOX}
-{MERGE_BOX}
-{MERGE_BOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MERGE_BOX)

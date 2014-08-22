@@ -7,15 +7,6 @@
 <!-- BEGIN header_cell -->
 {header_cell.L_DAY}
 <!-- END header_cell -->
-<!-- BEGIN header_cell -->
-{header_cell.L_DAY}
-<!-- END header_cell -->
-<!-- BEGIN header_cell -->
-{header_cell.L_DAY}
-<!-- END header_cell -->
-<!-- BEGIN header_cell -->
-{header_cell.L_DAY}
-<!-- END header_cell -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/header_cell.L_DAY)

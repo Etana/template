@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PUBLIC_VIEW_MP}
-{L_PUBLIC_VIEW_MP}
-{L_PUBLIC_VIEW_MP}
-{L_PUBLIC_VIEW_MP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PUBLIC_VIEW_MP)

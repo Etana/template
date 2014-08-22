@@ -5,14 +5,6 @@
 
 ```smarty
 {L_TOTAL_VOTES}
-{L_TOTAL_VOTES}
-{L_TOTAL_VOTES}
-{L_TOTAL_VOTES}
-{L_TOTAL_VOTES}
-{L_TOTAL_VOTES}
-{L_TOTAL_VOTES}
-{L_TOTAL_VOTES}
-{L_TOTAL_VOTES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TOTAL_VOTES)

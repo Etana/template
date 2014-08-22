@@ -5,26 +5,6 @@
 
 ```smarty
 {L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
-{L_TIME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TIME)

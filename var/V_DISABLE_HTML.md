@@ -5,9 +5,6 @@
 
 ```smarty
 {V_DISABLE_HTML}
-{V_DISABLE_HTML}
-{V_DISABLE_HTML}
-{V_DISABLE_HTML}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_DISABLE_HTML)

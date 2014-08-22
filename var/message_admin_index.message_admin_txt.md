@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END message_admin_txt -->
 <!-- END message_admin_index -->
-<!-- BEGIN message_admin_index -->
-    <!-- BEGIN message_admin_txt -->
-    contenu sur lequel on boucle
-    <!-- END message_admin_txt -->
-<!-- END message_admin_index -->
-<!-- BEGIN message_admin_index -->
-    <!-- BEGIN message_admin_txt -->
-    contenu sur lequel on boucle
-    <!-- END message_admin_txt -->
-<!-- END message_admin_index -->
-<!-- BEGIN message_admin_index -->
-    <!-- BEGIN message_admin_txt -->
-    contenu sur lequel on boucle
-    <!-- END message_admin_txt -->
-<!-- END message_admin_index -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt)

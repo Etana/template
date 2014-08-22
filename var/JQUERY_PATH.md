@@ -5,17 +5,6 @@
 
 ```smarty
 {JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
-{JQUERY_PATH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JQUERY_PATH)

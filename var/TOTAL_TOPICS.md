@@ -5,9 +5,6 @@
 
 ```smarty
 {TOTAL_TOPICS}
-{TOTAL_TOPICS}
-{TOTAL_TOPICS}
-{TOTAL_TOPICS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOTAL_TOPICS)

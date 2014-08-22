@@ -5,7 +5,6 @@
 
 ```smarty
 {S_BIRTHDAY_NEW}
-{S_BIRTHDAY_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_BIRTHDAY_NEW)

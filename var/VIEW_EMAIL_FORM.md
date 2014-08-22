@@ -5,13 +5,6 @@
 
 ```smarty
 {VIEW_EMAIL_FORM}
-{VIEW_EMAIL_FORM}
-{VIEW_EMAIL_FORM}
-{VIEW_EMAIL_FORM}
-{VIEW_EMAIL_FORM}
-{VIEW_EMAIL_FORM}
-{VIEW_EMAIL_FORM}
-{VIEW_EMAIL_FORM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/VIEW_EMAIL_FORM)

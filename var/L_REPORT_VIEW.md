@@ -5,12 +5,6 @@
 
 ```smarty
 {L_REPORT_VIEW}
-{L_REPORT_VIEW}
-{L_REPORT_VIEW}
-{L_REPORT_VIEW}
-{L_REPORT_VIEW}
-{L_REPORT_VIEW}
-{L_REPORT_VIEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REPORT_VIEW)

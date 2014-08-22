@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CLICK_TO_JOIN_CHAT}
-{L_CLICK_TO_JOIN_CHAT}
-{L_CLICK_TO_JOIN_CHAT}
-{L_CLICK_TO_JOIN_CHAT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CLICK_TO_JOIN_CHAT)

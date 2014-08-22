@@ -5,9 +5,6 @@
 
 ```smarty
 {L_JOINED}
-{L_JOINED}
-{L_JOINED}
-{L_JOINED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_JOINED)

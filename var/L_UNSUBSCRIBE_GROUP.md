@@ -5,9 +5,6 @@
 
 ```smarty
 {L_UNSUBSCRIBE_GROUP}
-{L_UNSUBSCRIBE_GROUP}
-{L_UNSUBSCRIBE_GROUP}
-{L_UNSUBSCRIBE_GROUP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UNSUBSCRIBE_GROUP)

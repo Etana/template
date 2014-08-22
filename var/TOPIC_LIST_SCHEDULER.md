@@ -5,9 +5,6 @@
 
 ```smarty
 {TOPIC_LIST_SCHEDULER}
-{TOPIC_LIST_SCHEDULER}
-{TOPIC_LIST_SCHEDULER}
-{TOPIC_LIST_SCHEDULER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC_LIST_SCHEDULER)

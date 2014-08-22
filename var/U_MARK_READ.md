@@ -5,16 +5,6 @@
 
 ```smarty
 {U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
-{U_MARK_READ}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_MARK_READ)

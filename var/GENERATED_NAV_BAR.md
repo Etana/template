@@ -5,9 +5,6 @@
 
 ```smarty
 {GENERATED_NAV_BAR}
-{GENERATED_NAV_BAR}
-{GENERATED_NAV_BAR}
-{GENERATED_NAV_BAR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GENERATED_NAV_BAR)

@@ -5,17 +5,6 @@
 
 ```smarty
 {L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
-{L_EMAIL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_EMAIL)

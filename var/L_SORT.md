@@ -5,18 +5,6 @@
 
 ```smarty
 {L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
-{L_SORT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SORT)

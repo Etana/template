@@ -7,15 +7,6 @@
 <!-- BEGIN navlinks -->
 contenu sur lequel on boucle
 <!-- END navlinks -->
-<!-- BEGIN navlinks -->
-contenu sur lequel on boucle
-<!-- END navlinks -->
-<!-- BEGIN navlinks -->
-contenu sur lequel on boucle
-<!-- END navlinks -->
-<!-- BEGIN navlinks -->
-contenu sur lequel on boucle
-<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks)

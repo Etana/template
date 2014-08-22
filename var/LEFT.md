@@ -5,15 +5,6 @@
 
 ```smarty
 {LEFT}
-{LEFT}
-{LEFT}
-{LEFT}
-{LEFT}
-{LEFT}
-{LEFT}
-{LEFT}
-{LEFT}
-{LEFT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LEFT)

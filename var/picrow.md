@@ -7,27 +7,6 @@
 <!-- BEGIN picrow -->
 contenu sur lequel on boucle
 <!-- END picrow -->
-<!-- BEGIN picrow -->
-contenu sur lequel on boucle
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-contenu sur lequel on boucle
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-contenu sur lequel on boucle
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-contenu sur lequel on boucle
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-contenu sur lequel on boucle
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-contenu sur lequel on boucle
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-contenu sur lequel on boucle
-<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow)

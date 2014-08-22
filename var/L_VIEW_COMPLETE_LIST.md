@@ -5,10 +5,6 @@
 
 ```smarty
 {L_VIEW_COMPLETE_LIST}
-{L_VIEW_COMPLETE_LIST}
-{L_VIEW_COMPLETE_LIST}
-{L_VIEW_COMPLETE_LIST}
-{L_VIEW_COMPLETE_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_VIEW_COMPLETE_LIST)

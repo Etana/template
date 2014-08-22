@@ -7,15 +7,6 @@
 <!-- BEGIN row -->
 {row.TEXT}
 <!-- END row -->
-<!-- BEGIN row -->
-{row.TEXT}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.TEXT}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.TEXT}
-<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.TEXT)

@@ -5,17 +5,6 @@
 
 ```smarty
 {L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
-{L_DESC_TOO_LONG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DESC_TOO_LONG)

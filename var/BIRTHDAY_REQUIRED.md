@@ -5,7 +5,6 @@
 
 ```smarty
 {BIRTHDAY_REQUIRED}
-{BIRTHDAY_REQUIRED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BIRTHDAY_REQUIRED)

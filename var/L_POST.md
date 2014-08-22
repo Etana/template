@@ -5,14 +5,6 @@
 
 ```smarty
 {L_POST}
-{L_POST}
-{L_POST}
-{L_POST}
-{L_POST}
-{L_POST}
-{L_POST}
-{L_POST}
-{L_POST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POST)

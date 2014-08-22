@@ -5,15 +5,6 @@
 
 ```smarty
 {L_STATISTICS}
-{L_STATISTICS}
-{L_STATISTICS}
-{L_STATISTICS}
-{L_STATISTICS}
-{L_STATISTICS}
-{L_STATISTICS}
-{L_STATISTICS}
-{L_STATISTICS}
-{L_STATISTICS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_STATISTICS)

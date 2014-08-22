@@ -5,17 +5,6 @@
 
 ```smarty
 {L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
-{L_NO_PICS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NO_PICS)

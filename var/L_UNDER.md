@@ -5,7 +5,6 @@
 
 ```smarty
 {L_UNDER}
-{L_UNDER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UNDER)

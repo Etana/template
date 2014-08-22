@@ -5,7 +5,6 @@
 
 ```smarty
 {LOCATION}
-{LOCATION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOCATION)

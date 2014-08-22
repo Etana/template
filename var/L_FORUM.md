@@ -5,22 +5,6 @@
 
 ```smarty
 {L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
-{L_FORUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FORUM)

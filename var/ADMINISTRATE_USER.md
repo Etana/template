@@ -5,9 +5,6 @@
 
 ```smarty
 {ADMINISTRATE_USER}
-{ADMINISTRATE_USER}
-{ADMINISTRATE_USER}
-{ADMINISTRATE_USER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ADMINISTRATE_USER)

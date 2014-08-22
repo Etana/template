@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ADMIN_GRP_EXPLAIN}
-{L_ADMIN_GRP_EXPLAIN}
-{L_ADMIN_GRP_EXPLAIN}
-{L_ADMIN_GRP_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ADMIN_GRP_EXPLAIN)

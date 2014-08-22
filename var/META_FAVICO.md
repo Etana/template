@@ -5,9 +5,6 @@
 
 ```smarty
 {META_FAVICO}
-{META_FAVICO}
-{META_FAVICO}
-{META_FAVICO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/META_FAVICO)

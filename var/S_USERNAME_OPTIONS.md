@@ -5,9 +5,6 @@
 
 ```smarty
 {S_USERNAME_OPTIONS}
-{S_USERNAME_OPTIONS}
-{S_USERNAME_OPTIONS}
-{S_USERNAME_OPTIONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_USERNAME_OPTIONS)

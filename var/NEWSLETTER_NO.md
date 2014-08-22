@@ -5,9 +5,6 @@
 
 ```smarty
 {NEWSLETTER_NO}
-{NEWSLETTER_NO}
-{NEWSLETTER_NO}
-{NEWSLETTER_NO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NEWSLETTER_NO)

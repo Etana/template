@@ -5,8 +5,6 @@
 
 ```smarty
 {L_BACK_TO_TOP_TEXT}
-{L_BACK_TO_TOP_TEXT}
-{L_BACK_TO_TOP_TEXT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BACK_TO_TOP_TEXT)

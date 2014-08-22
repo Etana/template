@@ -5,11 +5,6 @@
 
 ```smarty
 {L_VIEW_NEXT_TOPIC}
-{L_VIEW_NEXT_TOPIC}
-{L_VIEW_NEXT_TOPIC}
-{L_VIEW_NEXT_TOPIC}
-{L_VIEW_NEXT_TOPIC}
-{L_VIEW_NEXT_TOPIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_VIEW_NEXT_TOPIC)

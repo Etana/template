@@ -11,27 +11,6 @@
         <!-- END cell -->
     <!-- END row -->
 <!-- END switch_icon_checkbox -->
-<!-- BEGIN switch_icon_checkbox -->
-    <!-- BEGIN row -->
-        <!-- BEGIN cell -->
-        {switch_icon_checkbox.row.cell.ICON_CHECKED}
-        <!-- END cell -->
-    <!-- END row -->
-<!-- END switch_icon_checkbox -->
-<!-- BEGIN switch_icon_checkbox -->
-    <!-- BEGIN row -->
-        <!-- BEGIN cell -->
-        {switch_icon_checkbox.row.cell.ICON_CHECKED}
-        <!-- END cell -->
-    <!-- END row -->
-<!-- END switch_icon_checkbox -->
-<!-- BEGIN switch_icon_checkbox -->
-    <!-- BEGIN row -->
-        <!-- BEGIN cell -->
-        {switch_icon_checkbox.row.cell.ICON_CHECKED}
-        <!-- END cell -->
-    <!-- END row -->
-<!-- END switch_icon_checkbox -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_CHECKED)

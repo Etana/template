@@ -5,9 +5,6 @@
 
 ```smarty
 {L_AVATAR_EXPLAIN}
-{L_AVATAR_EXPLAIN}
-{L_AVATAR_EXPLAIN}
-{L_AVATAR_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_AVATAR_EXPLAIN)

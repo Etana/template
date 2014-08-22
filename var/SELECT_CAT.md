@@ -5,9 +5,6 @@
 
 ```smarty
 {SELECT_CAT}
-{SELECT_CAT}
-{SELECT_CAT}
-{SELECT_CAT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SELECT_CAT)

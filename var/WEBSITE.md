@@ -5,7 +5,6 @@
 
 ```smarty
 {WEBSITE}
-{WEBSITE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/WEBSITE)

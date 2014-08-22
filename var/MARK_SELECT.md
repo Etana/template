@@ -5,9 +5,6 @@
 
 ```smarty
 {MARK_SELECT}
-{MARK_SELECT}
-{MARK_SELECT}
-{MARK_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MARK_SELECT)

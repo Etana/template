@@ -5,12 +5,6 @@
 
 ```smarty
 {OUTBOX_IMG}
-{OUTBOX_IMG}
-{OUTBOX_IMG}
-{OUTBOX_IMG}
-{OUTBOX_IMG}
-{OUTBOX_IMG}
-{OUTBOX_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/OUTBOX_IMG)

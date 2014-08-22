@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END cell -->
 <!-- END row -->
-<!-- BEGIN row -->
-    <!-- BEGIN cell -->
-    contenu sur lequel on boucle
-    <!-- END cell -->
-<!-- END row -->
-<!-- BEGIN row -->
-    <!-- BEGIN cell -->
-    contenu sur lequel on boucle
-    <!-- END cell -->
-<!-- END row -->
-<!-- BEGIN row -->
-    <!-- BEGIN cell -->
-    contenu sur lequel on boucle
-    <!-- END cell -->
-<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.cell)

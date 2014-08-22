@@ -5,10 +5,6 @@
 
 ```smarty
 {NB_PM_READ}
-{NB_PM_READ}
-{NB_PM_READ}
-{NB_PM_READ}
-{NB_PM_READ}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NB_PM_READ)

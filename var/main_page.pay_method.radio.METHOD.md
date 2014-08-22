@@ -11,55 +11,6 @@
         <!-- END radio -->
     <!-- END pay_method -->
 <!-- END main_page -->
-<!-- BEGIN main_page -->
-    <!-- BEGIN pay_method -->
-        <!-- BEGIN radio -->
-        {main_page.pay_method.radio.METHOD}
-        <!-- END radio -->
-    <!-- END pay_method -->
-<!-- END main_page -->
-<!-- BEGIN main_page -->
-    <!-- BEGIN pay_method -->
-        <!-- BEGIN radio -->
-        {main_page.pay_method.radio.METHOD}
-        <!-- END radio -->
-    <!-- END pay_method -->
-<!-- END main_page -->
-<!-- BEGIN main_page -->
-    <!-- BEGIN pay_method -->
-        <!-- BEGIN radio -->
-        {main_page.pay_method.radio.METHOD}
-        <!-- END radio -->
-    <!-- END pay_method -->
-<!-- END main_page -->
-<!-- BEGIN main_page -->
-    <!-- BEGIN pay_method -->
-        <!-- BEGIN radio -->
-        {main_page.pay_method.radio.METHOD}
-        <!-- END radio -->
-    <!-- END pay_method -->
-<!-- END main_page -->
-<!-- BEGIN main_page -->
-    <!-- BEGIN pay_method -->
-        <!-- BEGIN radio -->
-        {main_page.pay_method.radio.METHOD}
-        <!-- END radio -->
-    <!-- END pay_method -->
-<!-- END main_page -->
-<!-- BEGIN main_page -->
-    <!-- BEGIN pay_method -->
-        <!-- BEGIN radio -->
-        {main_page.pay_method.radio.METHOD}
-        <!-- END radio -->
-    <!-- END pay_method -->
-<!-- END main_page -->
-<!-- BEGIN main_page -->
-    <!-- BEGIN pay_method -->
-        <!-- BEGIN radio -->
-        {main_page.pay_method.radio.METHOD}
-        <!-- END radio -->
-    <!-- END pay_method -->
-<!-- END main_page -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.radio.METHOD)

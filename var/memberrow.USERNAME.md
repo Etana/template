@@ -7,15 +7,6 @@
 <!-- BEGIN memberrow -->
 {memberrow.USERNAME}
 <!-- END memberrow -->
-<!-- BEGIN memberrow -->
-{memberrow.USERNAME}
-<!-- END memberrow -->
-<!-- BEGIN memberrow -->
-{memberrow.USERNAME}
-<!-- END memberrow -->
-<!-- BEGIN memberrow -->
-{memberrow.USERNAME}
-<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.USERNAME)

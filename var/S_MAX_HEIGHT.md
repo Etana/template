@@ -5,9 +5,6 @@
 
 ```smarty
 {S_MAX_HEIGHT}
-{S_MAX_HEIGHT}
-{S_MAX_HEIGHT}
-{S_MAX_HEIGHT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MAX_HEIGHT)

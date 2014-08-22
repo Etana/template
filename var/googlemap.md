@@ -7,15 +7,6 @@
 <!-- BEGIN googlemap -->
 contenu sur lequel on boucle
 <!-- END googlemap -->
-<!-- BEGIN googlemap -->
-contenu sur lequel on boucle
-<!-- END googlemap -->
-<!-- BEGIN googlemap -->
-contenu sur lequel on boucle
-<!-- END googlemap -->
-<!-- BEGIN googlemap -->
-contenu sur lequel on boucle
-<!-- END googlemap -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/googlemap)

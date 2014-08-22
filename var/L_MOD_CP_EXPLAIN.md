@@ -5,7 +5,6 @@
 
 ```smarty
 {L_MOD_CP_EXPLAIN}
-{L_MOD_CP_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MOD_CP_EXPLAIN)

@@ -5,17 +5,6 @@
 
 ```smarty
 {POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
-{POSTER_RANK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER_RANK)

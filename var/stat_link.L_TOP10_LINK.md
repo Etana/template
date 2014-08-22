@@ -7,9 +7,6 @@
 <!-- BEGIN stat_link -->
 {stat_link.L_TOP10_LINK}
 <!-- END stat_link -->
-<!-- BEGIN stat_link -->
-{stat_link.L_TOP10_LINK}
-<!-- END stat_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/stat_link.L_TOP10_LINK)

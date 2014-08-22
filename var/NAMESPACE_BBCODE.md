@@ -5,9 +5,6 @@
 
 ```smarty
 {NAMESPACE_BBCODE}
-{NAMESPACE_BBCODE}
-{NAMESPACE_BBCODE}
-{NAMESPACE_BBCODE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAMESPACE_BBCODE)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_REPORT_EDIT}
-{L_REPORT_EDIT}
-{L_REPORT_EDIT}
-{L_REPORT_EDIT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REPORT_EDIT)

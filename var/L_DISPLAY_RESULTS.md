@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DISPLAY_RESULTS}
-{L_DISPLAY_RESULTS}
-{L_DISPLAY_RESULTS}
-{L_DISPLAY_RESULTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DISPLAY_RESULTS)

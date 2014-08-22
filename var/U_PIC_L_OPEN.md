@@ -5,9 +5,6 @@
 
 ```smarty
 {U_PIC_L_OPEN}
-{U_PIC_L_OPEN}
-{U_PIC_L_OPEN}
-{U_PIC_L_OPEN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PIC_L_OPEN)

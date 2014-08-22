@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DENY_SELECTED}
-{L_DENY_SELECTED}
-{L_DENY_SELECTED}
-{L_DENY_SELECTED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DENY_SELECTED)

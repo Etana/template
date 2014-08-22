@@ -7,15 +7,6 @@
 <!-- BEGIN switch_display_menu -->
 contenu sur lequel on boucle
 <!-- END switch_display_menu -->
-<!-- BEGIN switch_display_menu -->
-contenu sur lequel on boucle
-<!-- END switch_display_menu -->
-<!-- BEGIN switch_display_menu -->
-contenu sur lequel on boucle
-<!-- END switch_display_menu -->
-<!-- BEGIN switch_display_menu -->
-contenu sur lequel on boucle
-<!-- END switch_display_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_display_menu)

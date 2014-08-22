@@ -5,9 +5,6 @@
 
 ```smarty
 {ALWAYS_ADD_SIGNATURE_YES}
-{ALWAYS_ADD_SIGNATURE_YES}
-{ALWAYS_ADD_SIGNATURE_YES}
-{ALWAYS_ADD_SIGNATURE_YES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ALWAYS_ADD_SIGNATURE_YES)

@@ -5,9 +5,6 @@
 
 ```smarty
 {U_NEXT}
-{U_NEXT}
-{U_NEXT}
-{U_NEXT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_NEXT)

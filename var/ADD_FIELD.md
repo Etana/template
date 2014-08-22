@@ -5,9 +5,6 @@
 
 ```smarty
 {ADD_FIELD}
-{ADD_FIELD}
-{ADD_FIELD}
-{ADD_FIELD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ADD_FIELD)

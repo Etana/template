@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NUFF_INTERLACE}
-{L_NUFF_INTERLACE}
-{L_NUFF_INTERLACE}
-{L_NUFF_INTERLACE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_INTERLACE)

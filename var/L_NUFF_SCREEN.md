@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NUFF_SCREEN}
-{L_NUFF_SCREEN}
-{L_NUFF_SCREEN}
-{L_NUFF_SCREEN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_SCREEN)

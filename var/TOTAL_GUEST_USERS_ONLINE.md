@@ -5,9 +5,6 @@
 
 ```smarty
 {TOTAL_GUEST_USERS_ONLINE}
-{TOTAL_GUEST_USERS_ONLINE}
-{TOTAL_GUEST_USERS_ONLINE}
-{TOTAL_GUEST_USERS_ONLINE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOTAL_GUEST_USERS_ONLINE)

@@ -7,15 +7,6 @@
 <!-- BEGIN profile_field -->
 {profile_field.CONTENT}
 <!-- END profile_field -->
-<!-- BEGIN profile_field -->
-{profile_field.CONTENT}
-<!-- END profile_field -->
-<!-- BEGIN profile_field -->
-{profile_field.CONTENT}
-<!-- END profile_field -->
-<!-- BEGIN profile_field -->
-{profile_field.CONTENT}
-<!-- END profile_field -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/profile_field.CONTENT)

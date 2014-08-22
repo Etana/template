@@ -5,9 +5,6 @@
 
 ```smarty
 {V_CALENDAR_DAY}
-{V_CALENDAR_DAY}
-{V_CALENDAR_DAY}
-{V_CALENDAR_DAY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_CALENDAR_DAY)

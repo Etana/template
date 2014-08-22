@@ -5,9 +5,6 @@
 
 ```smarty
 {TIT_LIST}
-{TIT_LIST}
-{TIT_LIST}
-{TIT_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TIT_LIST)

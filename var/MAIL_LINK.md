@@ -5,9 +5,6 @@
 
 ```smarty
 {MAIL_LINK}
-{MAIL_LINK}
-{MAIL_LINK}
-{MAIL_LINK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MAIL_LINK)

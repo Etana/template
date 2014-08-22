@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END nonext -->
 <!-- END pics_nav -->
-<!-- BEGIN pics_nav -->
-    <!-- BEGIN nonext -->
-    contenu sur lequel on boucle
-    <!-- END nonext -->
-<!-- END pics_nav -->
-<!-- BEGIN pics_nav -->
-    <!-- BEGIN nonext -->
-    contenu sur lequel on boucle
-    <!-- END nonext -->
-<!-- END pics_nav -->
-<!-- BEGIN pics_nav -->
-    <!-- BEGIN nonext -->
-    contenu sur lequel on boucle
-    <!-- END nonext -->
-<!-- END pics_nav -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav.nonext)

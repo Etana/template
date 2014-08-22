@@ -7,15 +7,6 @@
 <!-- BEGIN switch_username_select -->
 contenu sur lequel on boucle
 <!-- END switch_username_select -->
-<!-- BEGIN switch_username_select -->
-contenu sur lequel on boucle
-<!-- END switch_username_select -->
-<!-- BEGIN switch_username_select -->
-contenu sur lequel on boucle
-<!-- END switch_username_select -->
-<!-- BEGIN switch_username_select -->
-contenu sur lequel on boucle
-<!-- END switch_username_select -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_username_select)

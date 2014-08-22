@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NUFF_TITLE}
-{L_NUFF_TITLE}
-{L_NUFF_TITLE}
-{L_NUFF_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_TITLE)

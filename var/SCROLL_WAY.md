@@ -5,9 +5,6 @@
 
 ```smarty
 {SCROLL_WAY}
-{SCROLL_WAY}
-{SCROLL_WAY}
-{SCROLL_WAY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SCROLL_WAY)

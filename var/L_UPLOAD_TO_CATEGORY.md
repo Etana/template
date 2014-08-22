@@ -5,9 +5,6 @@
 
 ```smarty
 {L_UPLOAD_TO_CATEGORY}
-{L_UPLOAD_TO_CATEGORY}
-{L_UPLOAD_TO_CATEGORY}
-{L_UPLOAD_TO_CATEGORY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UPLOAD_TO_CATEGORY)

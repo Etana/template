@@ -5,10 +5,6 @@
 
 ```smarty
 {S_MAX_FILESIZE}
-{S_MAX_FILESIZE}
-{S_MAX_FILESIZE}
-{S_MAX_FILESIZE}
-{S_MAX_FILESIZE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MAX_FILESIZE)

@@ -5,7 +5,6 @@
 
 ```smarty
 {L_FORUM_OPTIONS}
-{L_FORUM_OPTIONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FORUM_OPTIONS)

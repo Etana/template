@@ -7,15 +7,6 @@
 <!-- BEGIN row -->
 {row.U_REPORT}
 <!-- END row -->
-<!-- BEGIN row -->
-{row.U_REPORT}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.U_REPORT}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.U_REPORT}
-<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.U_REPORT)

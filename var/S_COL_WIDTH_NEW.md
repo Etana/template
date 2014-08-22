@@ -5,11 +5,6 @@
 
 ```smarty
 {S_COL_WIDTH_NEW}
-{S_COL_WIDTH_NEW}
-{S_COL_WIDTH_NEW}
-{S_COL_WIDTH_NEW}
-{S_COL_WIDTH_NEW}
-{S_COL_WIDTH_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_COL_WIDTH_NEW)

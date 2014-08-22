@@ -5,9 +5,6 @@
 
 ```smarty
 {NEW_PASSWORD}
-{NEW_PASSWORD}
-{NEW_PASSWORD}
-{NEW_PASSWORD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NEW_PASSWORD)

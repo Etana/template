@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SHARE_BOOKMARKS}
-{L_SHARE_BOOKMARKS}
-{L_SHARE_BOOKMARKS}
-{L_SHARE_BOOKMARKS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SHARE_BOOKMARKS)

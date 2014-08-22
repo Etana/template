@@ -5,13 +5,6 @@
 
 ```smarty
 {S_CONFIRM_ACTION}
-{S_CONFIRM_ACTION}
-{S_CONFIRM_ACTION}
-{S_CONFIRM_ACTION}
-{S_CONFIRM_ACTION}
-{S_CONFIRM_ACTION}
-{S_CONFIRM_ACTION}
-{S_CONFIRM_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_CONFIRM_ACTION)

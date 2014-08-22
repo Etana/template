@@ -5,9 +5,6 @@
 
 ```smarty
 {L_TO}
-{L_TO}
-{L_TO}
-{L_TO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TO)

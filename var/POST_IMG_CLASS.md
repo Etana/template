@@ -5,9 +5,6 @@
 
 ```smarty
 {POST_IMG_CLASS}
-{POST_IMG_CLASS}
-{POST_IMG_CLASS}
-{POST_IMG_CLASS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_IMG_CLASS)

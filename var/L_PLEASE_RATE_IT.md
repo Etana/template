@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PLEASE_RATE_IT}
-{L_PLEASE_RATE_IT}
-{L_PLEASE_RATE_IT}
-{L_PLEASE_RATE_IT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PLEASE_RATE_IT)

@@ -5,12 +5,6 @@
 
 ```smarty
 {L_SEARCH_OPTIONS}
-{L_SEARCH_OPTIONS}
-{L_SEARCH_OPTIONS}
-{L_SEARCH_OPTIONS}
-{L_SEARCH_OPTIONS}
-{L_SEARCH_OPTIONS}
-{L_SEARCH_OPTIONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_OPTIONS)

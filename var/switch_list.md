@@ -7,15 +7,6 @@
 <!-- BEGIN switch_list -->
 contenu sur lequel on boucle
 <!-- END switch_list -->
-<!-- BEGIN switch_list -->
-contenu sur lequel on boucle
-<!-- END switch_list -->
-<!-- BEGIN switch_list -->
-contenu sur lequel on boucle
-<!-- END switch_list -->
-<!-- BEGIN switch_list -->
-contenu sur lequel on boucle
-<!-- END switch_list -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_list)

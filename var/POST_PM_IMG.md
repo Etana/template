@@ -5,13 +5,6 @@
 
 ```smarty
 {POST_PM_IMG}
-{POST_PM_IMG}
-{POST_PM_IMG}
-{POST_PM_IMG}
-{POST_PM_IMG}
-{POST_PM_IMG}
-{POST_PM_IMG}
-{POST_PM_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_PM_IMG)

@@ -5,8 +5,6 @@
 
 ```smarty
 {S_SEARCHBOX_ACTION}
-{S_SEARCHBOX_ACTION}
-{S_SEARCHBOX_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SEARCHBOX_ACTION)

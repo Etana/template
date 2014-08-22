@@ -5,8 +5,6 @@
 
 ```smarty
 {L_TDESC}
-{L_TDESC}
-{L_TDESC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TDESC)

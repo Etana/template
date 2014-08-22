@@ -5,9 +5,6 @@
 
 ```smarty
 {POST_PREVIEW_BOX}
-{POST_PREVIEW_BOX}
-{POST_PREVIEW_BOX}
-{POST_PREVIEW_BOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_PREVIEW_BOX)

@@ -7,15 +7,6 @@
 <!-- BEGIN picrow -->
 {picrow.CAT}
 <!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.CAT}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.CAT}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.CAT}
-<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.CAT)

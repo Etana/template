@@ -5,9 +5,6 @@
 
 ```smarty
 {AVATAR_IMG}
-{AVATAR_IMG}
-{AVATAR_IMG}
-{AVATAR_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AVATAR_IMG)

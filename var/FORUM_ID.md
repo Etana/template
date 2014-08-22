@@ -5,15 +5,6 @@
 
 ```smarty
 {FORUM_ID}
-{FORUM_ID}
-{FORUM_ID}
-{FORUM_ID}
-{FORUM_ID}
-{FORUM_ID}
-{FORUM_ID}
-{FORUM_ID}
-{FORUM_ID}
-{FORUM_ID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_ID)

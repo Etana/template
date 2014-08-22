@@ -5,9 +5,6 @@
 
 ```smarty
 {LOGIN_POPUP_MSG}
-{LOGIN_POPUP_MSG}
-{LOGIN_POPUP_MSG}
-{LOGIN_POPUP_MSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG)

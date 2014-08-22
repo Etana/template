@@ -5,9 +5,6 @@
 
 ```smarty
 {PENDING_USER_BOX}
-{PENDING_USER_BOX}
-{PENDING_USER_BOX}
-{PENDING_USER_BOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PENDING_USER_BOX)

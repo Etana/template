@@ -7,15 +7,6 @@
 <!-- BEGIN listrow -->
 {listrow.PRIVMSG_FOLDER_IMG}
 <!-- END listrow -->
-<!-- BEGIN listrow -->
-{listrow.PRIVMSG_FOLDER_IMG}
-<!-- END listrow -->
-<!-- BEGIN listrow -->
-{listrow.PRIVMSG_FOLDER_IMG}
-<!-- END listrow -->
-<!-- BEGIN listrow -->
-{listrow.PRIVMSG_FOLDER_IMG}
-<!-- END listrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/listrow.PRIVMSG_FOLDER_IMG)

@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_ROTATE270}
-{IMG_ROTATE270}
-{IMG_ROTATE270}
-{IMG_ROTATE270}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_ROTATE270)

@@ -7,15 +7,6 @@
 <!-- BEGIN IMGS -->
 {IMGS.NEW_LINE}
 <!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.NEW_LINE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.NEW_LINE}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.NEW_LINE}
-<!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.NEW_LINE)

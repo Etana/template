@@ -5,8 +5,6 @@
 
 ```smarty
 {L_EDIT_SIGNATURE}
-{L_EDIT_SIGNATURE}
-{L_EDIT_SIGNATURE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_EDIT_SIGNATURE)

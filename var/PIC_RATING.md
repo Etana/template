@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_RATING}
-{PIC_RATING}
-{PIC_RATING}
-{PIC_RATING}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_RATING)

@@ -5,10 +5,6 @@
 
 ```smarty
 {L_MESSAGE_BODY}
-{L_MESSAGE_BODY}
-{L_MESSAGE_BODY}
-{L_MESSAGE_BODY}
-{L_MESSAGE_BODY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MESSAGE_BODY)

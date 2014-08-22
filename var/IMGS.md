@@ -7,27 +7,6 @@
 <!-- BEGIN IMGS -->
 contenu sur lequel on boucle
 <!-- END IMGS -->
-<!-- BEGIN IMGS -->
-contenu sur lequel on boucle
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-contenu sur lequel on boucle
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-contenu sur lequel on boucle
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-contenu sur lequel on boucle
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-contenu sur lequel on boucle
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-contenu sur lequel on boucle
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-contenu sur lequel on boucle
-<!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS)

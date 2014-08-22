@@ -5,9 +5,6 @@
 
 ```smarty
 {S_MODE_SELECT}
-{S_MODE_SELECT}
-{S_MODE_SELECT}
-{S_MODE_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MODE_SELECT)

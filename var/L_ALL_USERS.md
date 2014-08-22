@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ALL_USERS}
-{L_ALL_USERS}
-{L_ALL_USERS}
-{L_ALL_USERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ALL_USERS)

@@ -5,9 +5,6 @@
 
 ```smarty
 {MSN_IMG}
-{MSN_IMG}
-{MSN_IMG}
-{MSN_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MSN_IMG)

@@ -7,15 +7,6 @@
 <!-- BEGIN switch_attachment -->
 contenu sur lequel on boucle
 <!-- END switch_attachment -->
-<!-- BEGIN switch_attachment -->
-contenu sur lequel on boucle
-<!-- END switch_attachment -->
-<!-- BEGIN switch_attachment -->
-contenu sur lequel on boucle
-<!-- END switch_attachment -->
-<!-- BEGIN switch_attachment -->
-contenu sur lequel on boucle
-<!-- END switch_attachment -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment)

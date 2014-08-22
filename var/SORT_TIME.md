@@ -5,17 +5,6 @@
 
 ```smarty
 {SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
-{SORT_TIME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_TIME)

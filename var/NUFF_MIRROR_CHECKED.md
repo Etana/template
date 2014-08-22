@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_MIRROR_CHECKED}
-{NUFF_MIRROR_CHECKED}
-{NUFF_MIRROR_CHECKED}
-{NUFF_MIRROR_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_MIRROR_CHECKED)

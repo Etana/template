@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DELETE_AVATAR}
-{L_DELETE_AVATAR}
-{L_DELETE_AVATAR}
-{L_DELETE_AVATAR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_AVATAR)

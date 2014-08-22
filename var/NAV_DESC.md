@@ -5,9 +5,6 @@
 
 ```smarty
 {NAV_DESC}
-{NAV_DESC}
-{NAV_DESC}
-{NAV_DESC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAV_DESC)

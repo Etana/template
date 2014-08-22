@@ -11,27 +11,6 @@
         <!-- END switch_moderators_links -->
     <!-- END forumrow -->
 <!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-        <!-- BEGIN switch_moderators_links -->
-        contenu sur lequel on boucle
-        <!-- END switch_moderators_links -->
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-        <!-- BEGIN switch_moderators_links -->
-        contenu sur lequel on boucle
-        <!-- END switch_moderators_links -->
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-        <!-- BEGIN switch_moderators_links -->
-        contenu sur lequel on boucle
-        <!-- END switch_moderators_links -->
-    <!-- END forumrow -->
-<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links)

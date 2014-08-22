@@ -7,27 +7,6 @@
 <!-- BEGIN no_pics -->
 contenu sur lequel on boucle
 <!-- END no_pics -->
-<!-- BEGIN no_pics -->
-contenu sur lequel on boucle
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-contenu sur lequel on boucle
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-contenu sur lequel on boucle
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-contenu sur lequel on boucle
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-contenu sur lequel on boucle
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-contenu sur lequel on boucle
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-contenu sur lequel on boucle
-<!-- END no_pics -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_pics)

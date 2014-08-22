@@ -7,15 +7,6 @@
 <!-- BEGIN switch_rate -->
 contenu sur lequel on boucle
 <!-- END switch_rate -->
-<!-- BEGIN switch_rate -->
-contenu sur lequel on boucle
-<!-- END switch_rate -->
-<!-- BEGIN switch_rate -->
-contenu sur lequel on boucle
-<!-- END switch_rate -->
-<!-- BEGIN switch_rate -->
-contenu sur lequel on boucle
-<!-- END switch_rate -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rate)

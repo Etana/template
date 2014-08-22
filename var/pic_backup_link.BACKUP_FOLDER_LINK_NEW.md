@@ -7,9 +7,6 @@
 <!-- BEGIN pic_backup_link -->
 {pic_backup_link.BACKUP_FOLDER_LINK_NEW}
 <!-- END pic_backup_link -->
-<!-- BEGIN pic_backup_link -->
-{pic_backup_link.BACKUP_FOLDER_LINK_NEW}
-<!-- END pic_backup_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pic_backup_link.BACKUP_FOLDER_LINK_NEW)

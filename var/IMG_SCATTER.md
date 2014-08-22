@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_SCATTER}
-{IMG_SCATTER}
-{IMG_SCATTER}
-{IMG_SCATTER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_SCATTER)

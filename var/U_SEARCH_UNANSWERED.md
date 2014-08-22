@@ -5,10 +5,6 @@
 
 ```smarty
 {U_SEARCH_UNANSWERED}
-{U_SEARCH_UNANSWERED}
-{U_SEARCH_UNANSWERED}
-{U_SEARCH_UNANSWERED}
-{U_SEARCH_UNANSWERED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH_UNANSWERED)

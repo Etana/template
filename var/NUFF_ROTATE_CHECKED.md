@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_ROTATE_CHECKED}
-{NUFF_ROTATE_CHECKED}
-{NUFF_ROTATE_CHECKED}
-{NUFF_ROTATE_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_ROTATE_CHECKED)

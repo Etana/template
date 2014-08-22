@@ -7,15 +7,6 @@
 <!-- BEGIN post_row -->
 {post_row.L_READ_FULL}
 <!-- END post_row -->
-<!-- BEGIN post_row -->
-{post_row.L_READ_FULL}
-<!-- END post_row -->
-<!-- BEGIN post_row -->
-{post_row.L_READ_FULL}
-<!-- END post_row -->
-<!-- BEGIN post_row -->
-{post_row.L_READ_FULL}
-<!-- END post_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.L_READ_FULL)

@@ -7,15 +7,6 @@
 <!-- BEGIN postrow -->
 {postrow.POSTER_AVATAR}
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.POSTER_AVATAR}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.POSTER_AVATAR}
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.POSTER_AVATAR}
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.POSTER_AVATAR)

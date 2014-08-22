@@ -5,8 +5,6 @@
 
 ```smarty
 {L_CURRENT_PREVIEW_SIGNATURE}
-{L_CURRENT_PREVIEW_SIGNATURE}
-{L_CURRENT_PREVIEW_SIGNATURE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CURRENT_PREVIEW_SIGNATURE)

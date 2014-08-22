@@ -7,15 +7,6 @@
 <!-- BEGIN contact_field -->
 contenu sur lequel on boucle
 <!-- END contact_field -->
-<!-- BEGIN contact_field -->
-contenu sur lequel on boucle
-<!-- END contact_field -->
-<!-- BEGIN contact_field -->
-contenu sur lequel on boucle
-<!-- END contact_field -->
-<!-- BEGIN contact_field -->
-contenu sur lequel on boucle
-<!-- END contact_field -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/contact_field)

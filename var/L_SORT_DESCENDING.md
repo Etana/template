@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SORT_DESCENDING}
-{L_SORT_DESCENDING}
-{L_SORT_DESCENDING}
-{L_SORT_DESCENDING}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SORT_DESCENDING)

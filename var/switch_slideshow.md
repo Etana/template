@@ -7,15 +7,6 @@
 <!-- BEGIN switch_slideshow -->
 contenu sur lequel on boucle
 <!-- END switch_slideshow -->
-<!-- BEGIN switch_slideshow -->
-contenu sur lequel on boucle
-<!-- END switch_slideshow -->
-<!-- BEGIN switch_slideshow -->
-contenu sur lequel on boucle
-<!-- END switch_slideshow -->
-<!-- BEGIN switch_slideshow -->
-contenu sur lequel on boucle
-<!-- END switch_slideshow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_slideshow)

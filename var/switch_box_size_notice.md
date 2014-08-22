@@ -7,15 +7,6 @@
 <!-- BEGIN switch_box_size_notice -->
 contenu sur lequel on boucle
 <!-- END switch_box_size_notice -->
-<!-- BEGIN switch_box_size_notice -->
-contenu sur lequel on boucle
-<!-- END switch_box_size_notice -->
-<!-- BEGIN switch_box_size_notice -->
-contenu sur lequel on boucle
-<!-- END switch_box_size_notice -->
-<!-- BEGIN switch_box_size_notice -->
-contenu sur lequel on boucle
-<!-- END switch_box_size_notice -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_box_size_notice)

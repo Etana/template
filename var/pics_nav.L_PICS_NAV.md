@@ -7,15 +7,6 @@
 <!-- BEGIN pics_nav -->
 {pics_nav.L_PICS_NAV}
 <!-- END pics_nav -->
-<!-- BEGIN pics_nav -->
-{pics_nav.L_PICS_NAV}
-<!-- END pics_nav -->
-<!-- BEGIN pics_nav -->
-{pics_nav.L_PICS_NAV}
-<!-- END pics_nav -->
-<!-- BEGIN pics_nav -->
-{pics_nav.L_PICS_NAV}
-<!-- END pics_nav -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav.L_PICS_NAV)

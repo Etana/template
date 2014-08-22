@@ -5,9 +5,6 @@
 
 ```smarty
 {L_THUMBNAIL_SIZE}
-{L_THUMBNAIL_SIZE}
-{L_THUMBNAIL_SIZE}
-{L_THUMBNAIL_SIZE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_THUMBNAIL_SIZE)

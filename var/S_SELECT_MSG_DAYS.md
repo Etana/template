@@ -5,9 +5,6 @@
 
 ```smarty
 {S_SELECT_MSG_DAYS}
-{S_SELECT_MSG_DAYS}
-{S_SELECT_MSG_DAYS}
-{S_SELECT_MSG_DAYS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SELECT_MSG_DAYS)

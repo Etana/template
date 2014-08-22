@@ -5,10 +5,6 @@
 
 ```smarty
 {L_USERGROUPS}
-{L_USERGROUPS}
-{L_USERGROUPS}
-{L_USERGROUPS}
-{L_USERGROUPS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_USERGROUPS)

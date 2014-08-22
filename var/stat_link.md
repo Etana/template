@@ -7,15 +7,6 @@
 <!-- BEGIN stat_link -->
 contenu sur lequel on boucle
 <!-- END stat_link -->
-<!-- BEGIN stat_link -->
-contenu sur lequel on boucle
-<!-- END stat_link -->
-<!-- BEGIN stat_link -->
-contenu sur lequel on boucle
-<!-- END stat_link -->
-<!-- BEGIN stat_link -->
-contenu sur lequel on boucle
-<!-- END stat_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/stat_link)

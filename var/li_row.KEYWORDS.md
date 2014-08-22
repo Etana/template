@@ -7,15 +7,6 @@
 <!-- BEGIN li_row -->
 {li_row.KEYWORDS}
 <!-- END li_row -->
-<!-- BEGIN li_row -->
-{li_row.KEYWORDS}
-<!-- END li_row -->
-<!-- BEGIN li_row -->
-{li_row.KEYWORDS}
-<!-- END li_row -->
-<!-- BEGIN li_row -->
-{li_row.KEYWORDS}
-<!-- END li_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/li_row.KEYWORDS)

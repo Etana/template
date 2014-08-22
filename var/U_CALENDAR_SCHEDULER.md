@@ -5,8 +5,6 @@
 
 ```smarty
 {U_CALENDAR_SCHEDULER}
-{U_CALENDAR_SCHEDULER}
-{U_CALENDAR_SCHEDULER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_CALENDAR_SCHEDULER)

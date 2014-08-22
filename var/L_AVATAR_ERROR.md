@@ -5,9 +5,6 @@
 
 ```smarty
 {L_AVATAR_ERROR}
-{L_AVATAR_ERROR}
-{L_AVATAR_ERROR}
-{L_AVATAR_ERROR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_AVATAR_ERROR)

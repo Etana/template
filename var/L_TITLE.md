@@ -5,22 +5,6 @@
 
 ```smarty
 {L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
-{L_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TITLE)

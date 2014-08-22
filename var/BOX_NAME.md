@@ -5,9 +5,6 @@
 
 ```smarty
 {BOX_NAME}
-{BOX_NAME}
-{BOX_NAME}
-{BOX_NAME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BOX_NAME)

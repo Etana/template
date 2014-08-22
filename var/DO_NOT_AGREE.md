@@ -5,9 +5,6 @@
 
 ```smarty
 {DO_NOT_AGREE}
-{DO_NOT_AGREE}
-{DO_NOT_AGREE}
-{DO_NOT_AGREE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DO_NOT_AGREE)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_BOARD_LANGUAGE}
-{L_BOARD_LANGUAGE}
-{L_BOARD_LANGUAGE}
-{L_BOARD_LANGUAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BOARD_LANGUAGE)

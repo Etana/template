@@ -5,10 +5,6 @@
 
 ```smarty
 {L_DATE}
-{L_DATE}
-{L_DATE}
-{L_DATE}
-{L_DATE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DATE)

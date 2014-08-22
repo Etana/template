@@ -5,9 +5,6 @@
 
 ```smarty
 {AVATAR_URL}
-{AVATAR_URL}
-{AVATAR_URL}
-{AVATAR_URL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AVATAR_URL)

@@ -5,9 +5,6 @@
 
 ```smarty
 {U_SLIDESHOW_REFRESH}
-{U_SLIDESHOW_REFRESH}
-{U_SLIDESHOW_REFRESH}
-{U_SLIDESHOW_REFRESH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SLIDESHOW_REFRESH)

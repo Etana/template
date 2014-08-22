@@ -5,17 +5,6 @@
 
 ```smarty
 {BY}
-{BY}
-{BY}
-{BY}
-{BY}
-{BY}
-{BY}
-{BY}
-{BY}
-{BY}
-{BY}
-{BY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/BY)

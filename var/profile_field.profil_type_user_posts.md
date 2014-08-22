@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END profil_type_user_posts -->
 <!-- END profile_field -->
-<!-- BEGIN profile_field -->
-    <!-- BEGIN profil_type_user_posts -->
-    contenu sur lequel on boucle
-    <!-- END profil_type_user_posts -->
-<!-- END profile_field -->
-<!-- BEGIN profile_field -->
-    <!-- BEGIN profil_type_user_posts -->
-    contenu sur lequel on boucle
-    <!-- END profil_type_user_posts -->
-<!-- END profile_field -->
-<!-- BEGIN profile_field -->
-    <!-- BEGIN profil_type_user_posts -->
-    contenu sur lequel on boucle
-    <!-- END profil_type_user_posts -->
-<!-- END profile_field -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/profile_field.profil_type_user_posts)

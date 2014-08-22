@@ -5,9 +5,6 @@
 
 ```smarty
 {ADMIN_USER_COMMENT}
-{ADMIN_USER_COMMENT}
-{ADMIN_USER_COMMENT}
-{ADMIN_USER_COMMENT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ADMIN_USER_COMMENT)

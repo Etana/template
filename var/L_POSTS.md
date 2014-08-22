@@ -5,29 +5,6 @@
 
 ```smarty
 {L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
-{L_POSTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POSTS)

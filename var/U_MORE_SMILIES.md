@@ -5,13 +5,6 @@
 
 ```smarty
 {U_MORE_SMILIES}
-{U_MORE_SMILIES}
-{U_MORE_SMILIES}
-{U_MORE_SMILIES}
-{U_MORE_SMILIES}
-{U_MORE_SMILIES}
-{U_MORE_SMILIES}
-{U_MORE_SMILIES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_MORE_SMILIES)

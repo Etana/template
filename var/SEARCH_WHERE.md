@@ -5,8 +5,6 @@
 
 ```smarty
 {SEARCH_WHERE}
-{SEARCH_WHERE}
-{SEARCH_WHERE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SEARCH_WHERE)

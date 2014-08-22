@@ -5,13 +5,6 @@
 
 ```smarty
 {ON}
-{ON}
-{ON}
-{ON}
-{ON}
-{ON}
-{ON}
-{ON}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ON)

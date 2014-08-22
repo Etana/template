@@ -5,9 +5,6 @@
 
 ```smarty
 {L_BY_PHONECALL_EXPLAIN}
-{L_BY_PHONECALL_EXPLAIN}
-{L_BY_PHONECALL_EXPLAIN}
-{L_BY_PHONECALL_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BY_PHONECALL_EXPLAIN)

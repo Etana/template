@@ -5,7 +5,6 @@
 
 ```smarty
 {L_WEB_EXPLAIN}
-{L_WEB_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_WEB_EXPLAIN)

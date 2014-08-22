@@ -7,27 +7,6 @@
 <!-- BEGIN TOPIC -->
 {TOPIC.ROW_CLASS}
 <!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.ROW_CLASS}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.ROW_CLASS}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.ROW_CLASS}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.ROW_CLASS}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.ROW_CLASS}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.ROW_CLASS}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.ROW_CLASS}
-<!-- END TOPIC -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC.ROW_CLASS)

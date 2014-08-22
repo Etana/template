@@ -7,9 +7,6 @@
 <!-- BEGIN iprow -->
 {iprow.ROW_CLASS}
 <!-- END iprow -->
-<!-- BEGIN iprow -->
-{iprow.ROW_CLASS}
-<!-- END iprow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/iprow.ROW_CLASS)

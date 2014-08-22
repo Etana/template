@@ -5,13 +5,6 @@
 
 ```smarty
 {L_DAYS}
-{L_DAYS}
-{L_DAYS}
-{L_DAYS}
-{L_DAYS}
-{L_DAYS}
-{L_DAYS}
-{L_DAYS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DAYS)

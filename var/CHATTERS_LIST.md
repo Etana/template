@@ -5,9 +5,6 @@
 
 ```smarty
 {CHATTERS_LIST}
-{CHATTERS_LIST}
-{CHATTERS_LIST}
-{CHATTERS_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CHATTERS_LIST)

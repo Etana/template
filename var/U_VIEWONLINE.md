@@ -5,15 +5,6 @@
 
 ```smarty
 {U_VIEWONLINE}
-{U_VIEWONLINE}
-{U_VIEWONLINE}
-{U_VIEWONLINE}
-{U_VIEWONLINE}
-{U_VIEWONLINE}
-{U_VIEWONLINE}
-{U_VIEWONLINE}
-{U_VIEWONLINE}
-{U_VIEWONLINE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_VIEWONLINE)

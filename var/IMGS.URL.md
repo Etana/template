@@ -7,27 +7,6 @@
 <!-- BEGIN IMGS -->
 {IMGS.URL}
 <!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.URL}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.URL}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.URL}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.URL}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.URL}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.URL}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.URL}
-<!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.URL)

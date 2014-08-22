@@ -7,9 +7,6 @@
 <!-- BEGIN TAGS -->
 {TAGS.L_SEARCH_TAGS}
 <!-- END TAGS -->
-<!-- BEGIN TAGS -->
-{TAGS.L_SEARCH_TAGS}
-<!-- END TAGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TAGS.L_SEARCH_TAGS)

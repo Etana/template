@@ -5,9 +5,6 @@
 
 ```smarty
 {F_TYPE_FORUM}
-{F_TYPE_FORUM}
-{F_TYPE_FORUM}
-{F_TYPE_FORUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/F_TYPE_FORUM)

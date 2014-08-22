@@ -5,9 +5,6 @@
 
 ```smarty
 {PROTECT_FOOTER}
-{PROTECT_FOOTER}
-{PROTECT_FOOTER}
-{PROTECT_FOOTER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PROTECT_FOOTER)

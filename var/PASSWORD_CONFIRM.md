@@ -5,9 +5,6 @@
 
 ```smarty
 {PASSWORD_CONFIRM}
-{PASSWORD_CONFIRM}
-{PASSWORD_CONFIRM}
-{PASSWORD_CONFIRM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PASSWORD_CONFIRM)

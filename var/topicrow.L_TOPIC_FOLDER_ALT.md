@@ -7,21 +7,6 @@
 <!-- BEGIN topicrow -->
 {topicrow.L_TOPIC_FOLDER_ALT}
 <!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.L_TOPIC_FOLDER_ALT}
-<!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.L_TOPIC_FOLDER_ALT}
-<!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.L_TOPIC_FOLDER_ALT}
-<!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.L_TOPIC_FOLDER_ALT}
-<!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.L_TOPIC_FOLDER_ALT}
-<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.L_TOPIC_FOLDER_ALT)

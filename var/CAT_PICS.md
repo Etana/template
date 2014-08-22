@@ -5,9 +5,6 @@
 
 ```smarty
 {CAT_PICS}
-{CAT_PICS}
-{CAT_PICS}
-{CAT_PICS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CAT_PICS)

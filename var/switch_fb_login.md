@@ -7,15 +7,6 @@
 <!-- BEGIN switch_fb_login -->
 contenu sur lequel on boucle
 <!-- END switch_fb_login -->
-<!-- BEGIN switch_fb_login -->
-contenu sur lequel on boucle
-<!-- END switch_fb_login -->
-<!-- BEGIN switch_fb_login -->
-contenu sur lequel on boucle
-<!-- END switch_fb_login -->
-<!-- BEGIN switch_fb_login -->
-contenu sur lequel on boucle
-<!-- END switch_fb_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_login)

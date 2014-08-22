@@ -5,8 +5,6 @@
 
 ```smarty
 {ICQ_IMG}
-{ICQ_IMG}
-{ICQ_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ICQ_IMG)

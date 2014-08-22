@@ -5,9 +5,6 @@
 
 ```smarty
 {TERMS_OF_SERVICE}
-{TERMS_OF_SERVICE}
-{TERMS_OF_SERVICE}
-{TERMS_OF_SERVICE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TERMS_OF_SERVICE)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SHARE_CAPTION}
-{L_SHARE_CAPTION}
-{L_SHARE_CAPTION}
-{L_SHARE_CAPTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SHARE_CAPTION)

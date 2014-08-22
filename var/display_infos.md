@@ -7,15 +7,6 @@
 <!-- BEGIN display_infos -->
 contenu sur lequel on boucle
 <!-- END display_infos -->
-<!-- BEGIN display_infos -->
-contenu sur lequel on boucle
-<!-- END display_infos -->
-<!-- BEGIN display_infos -->
-contenu sur lequel on boucle
-<!-- END display_infos -->
-<!-- BEGIN display_infos -->
-contenu sur lequel on boucle
-<!-- END display_infos -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos)

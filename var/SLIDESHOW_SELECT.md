@@ -5,9 +5,6 @@
 
 ```smarty
 {SLIDESHOW_SELECT}
-{SLIDESHOW_SELECT}
-{SLIDESHOW_SELECT}
-{SLIDESHOW_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SLIDESHOW_SELECT)

@@ -5,8 +5,6 @@
 
 ```smarty
 {S_COL_WIDTH}
-{S_COL_WIDTH}
-{S_COL_WIDTH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_COL_WIDTH)

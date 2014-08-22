@@ -5,8 +5,6 @@
 
 ```smarty
 {L_STATS}
-{L_STATS}
-{L_STATS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_STATS)

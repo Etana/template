@@ -7,18 +7,6 @@
 <!-- BEGIN switch_fb_likebtn -->
 contenu sur lequel on boucle
 <!-- END switch_fb_likebtn -->
-<!-- BEGIN switch_fb_likebtn -->
-contenu sur lequel on boucle
-<!-- END switch_fb_likebtn -->
-<!-- BEGIN switch_fb_likebtn -->
-contenu sur lequel on boucle
-<!-- END switch_fb_likebtn -->
-<!-- BEGIN switch_fb_likebtn -->
-contenu sur lequel on boucle
-<!-- END switch_fb_likebtn -->
-<!-- BEGIN switch_fb_likebtn -->
-contenu sur lequel on boucle
-<!-- END switch_fb_likebtn -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_likebtn)

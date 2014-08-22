@@ -5,9 +5,6 @@
 
 ```smarty
 {L_VIEW_INFORMATION}
-{L_VIEW_INFORMATION}
-{L_VIEW_INFORMATION}
-{L_VIEW_INFORMATION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_VIEW_INFORMATION)

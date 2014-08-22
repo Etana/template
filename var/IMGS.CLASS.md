@@ -7,27 +7,6 @@
 <!-- BEGIN IMGS -->
 {IMGS.CLASS}
 <!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.CLASS}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.CLASS}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.CLASS}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.CLASS}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.CLASS}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.CLASS}
-<!-- END IMGS -->
-<!-- BEGIN IMGS -->
-{IMGS.CLASS}
-<!-- END IMGS -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.CLASS)

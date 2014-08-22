@@ -5,9 +5,6 @@
 
 ```smarty
 {S_MAX_LENGTH}
-{S_MAX_LENGTH}
-{S_MAX_LENGTH}
-{S_MAX_LENGTH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MAX_LENGTH)

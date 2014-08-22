@@ -7,15 +7,6 @@
 <!-- BEGIN poll_option_more -->
 contenu sur lequel on boucle
 <!-- END poll_option_more -->
-<!-- BEGIN poll_option_more -->
-contenu sur lequel on boucle
-<!-- END poll_option_more -->
-<!-- BEGIN poll_option_more -->
-contenu sur lequel on boucle
-<!-- END poll_option_more -->
-<!-- BEGIN poll_option_more -->
-contenu sur lequel on boucle
-<!-- END poll_option_more -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_more)

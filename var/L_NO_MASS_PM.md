@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NO_MASS_PM}
-{L_NO_MASS_PM}
-{L_NO_MASS_PM}
-{L_NO_MASS_PM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NO_MASS_PM)

@@ -9,16 +9,6 @@
     {postrow.displayed.L_TOPIC_ON}
     <!-- END displayed -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-    {postrow.displayed.L_TOPIC_ON}
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-    {postrow.displayed.L_TOPIC_ON}
-    <!-- END displayed -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.L_TOPIC_ON)

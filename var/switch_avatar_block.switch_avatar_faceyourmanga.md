@@ -9,41 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_avatar_faceyourmanga -->
 <!-- END switch_avatar_block -->
-<!-- BEGIN switch_avatar_block -->
-    <!-- BEGIN switch_avatar_faceyourmanga -->
-    contenu sur lequel on boucle
-    <!-- END switch_avatar_faceyourmanga -->
-<!-- END switch_avatar_block -->
-<!-- BEGIN switch_avatar_block -->
-    <!-- BEGIN switch_avatar_faceyourmanga -->
-    contenu sur lequel on boucle
-    <!-- END switch_avatar_faceyourmanga -->
-<!-- END switch_avatar_block -->
-<!-- BEGIN switch_avatar_block -->
-    <!-- BEGIN switch_avatar_faceyourmanga -->
-    contenu sur lequel on boucle
-    <!-- END switch_avatar_faceyourmanga -->
-<!-- END switch_avatar_block -->
-<!-- BEGIN switch_avatar_block -->
-    <!-- BEGIN switch_avatar_faceyourmanga -->
-    contenu sur lequel on boucle
-    <!-- END switch_avatar_faceyourmanga -->
-<!-- END switch_avatar_block -->
-<!-- BEGIN switch_avatar_block -->
-    <!-- BEGIN switch_avatar_faceyourmanga -->
-    contenu sur lequel on boucle
-    <!-- END switch_avatar_faceyourmanga -->
-<!-- END switch_avatar_block -->
-<!-- BEGIN switch_avatar_block -->
-    <!-- BEGIN switch_avatar_faceyourmanga -->
-    contenu sur lequel on boucle
-    <!-- END switch_avatar_faceyourmanga -->
-<!-- END switch_avatar_block -->
-<!-- BEGIN switch_avatar_block -->
-    <!-- BEGIN switch_avatar_faceyourmanga -->
-    contenu sur lequel on boucle
-    <!-- END switch_avatar_faceyourmanga -->
-<!-- END switch_avatar_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_faceyourmanga)

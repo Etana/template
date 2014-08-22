@@ -5,9 +5,6 @@
 
 ```smarty
 {L_TO_TOPIC}
-{L_TO_TOPIC}
-{L_TO_TOPIC}
-{L_TO_TOPIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TO_TOPIC)

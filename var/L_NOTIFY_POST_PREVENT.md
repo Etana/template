@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NOTIFY_POST_PREVENT}
-{L_NOTIFY_POST_PREVENT}
-{L_NOTIFY_POST_PREVENT}
-{L_NOTIFY_POST_PREVENT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NOTIFY_POST_PREVENT)

@@ -5,9 +5,6 @@
 
 ```smarty
 {S_SMILIES_CHECKED}
-{S_SMILIES_CHECKED}
-{S_SMILIES_CHECKED}
-{S_SMILIES_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SMILIES_CHECKED)

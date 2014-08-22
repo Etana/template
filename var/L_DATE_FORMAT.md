@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DATE_FORMAT}
-{L_DATE_FORMAT}
-{L_DATE_FORMAT}
-{L_DATE_FORMAT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DATE_FORMAT)

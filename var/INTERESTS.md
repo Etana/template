@@ -5,7 +5,6 @@
 
 ```smarty
 {INTERESTS}
-{INTERESTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/INTERESTS)

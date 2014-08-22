@@ -5,9 +5,6 @@
 
 ```smarty
 {L_GROUP_MEMBERSHIP}
-{L_GROUP_MEMBERSHIP}
-{L_GROUP_MEMBERSHIP}
-{L_GROUP_MEMBERSHIP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_MEMBERSHIP)

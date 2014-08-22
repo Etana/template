@@ -5,7 +5,6 @@
 
 ```smarty
 {L_BOLD}
-{L_BOLD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BOLD)

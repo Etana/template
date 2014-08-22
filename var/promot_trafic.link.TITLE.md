@@ -9,41 +9,6 @@
     {promot_trafic.link.TITLE}
     <!-- END link -->
 <!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    {promot_trafic.link.TITLE}
-    <!-- END link -->
-<!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    {promot_trafic.link.TITLE}
-    <!-- END link -->
-<!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    {promot_trafic.link.TITLE}
-    <!-- END link -->
-<!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    {promot_trafic.link.TITLE}
-    <!-- END link -->
-<!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    {promot_trafic.link.TITLE}
-    <!-- END link -->
-<!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    {promot_trafic.link.TITLE}
-    <!-- END link -->
-<!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    {promot_trafic.link.TITLE}
-    <!-- END link -->
-<!-- END promot_trafic -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)

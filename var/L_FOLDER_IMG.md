@@ -5,13 +5,6 @@
 
 ```smarty
 {L_FOLDER_IMG}
-{L_FOLDER_IMG}
-{L_FOLDER_IMG}
-{L_FOLDER_IMG}
-{L_FOLDER_IMG}
-{L_FOLDER_IMG}
-{L_FOLDER_IMG}
-{L_FOLDER_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_IMG)

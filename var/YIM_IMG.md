@@ -5,9 +5,6 @@
 
 ```smarty
 {YIM_IMG}
-{YIM_IMG}
-{YIM_IMG}
-{YIM_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/YIM_IMG)

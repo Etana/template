@@ -5,9 +5,6 @@
 
 ```smarty
 {ALLOPASS_FLAGS}
-{ALLOPASS_FLAGS}
-{ALLOPASS_FLAGS}
-{ALLOPASS_FLAGS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ALLOPASS_FLAGS)

@@ -5,10 +5,6 @@
 
 ```smarty
 {L_UNMARK_ALL}
-{L_UNMARK_ALL}
-{L_UNMARK_ALL}
-{L_UNMARK_ALL}
-{L_UNMARK_ALL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UNMARK_ALL)

@@ -5,12 +5,6 @@
 
 ```smarty
 {S_TIME_OPTIONS}
-{S_TIME_OPTIONS}
-{S_TIME_OPTIONS}
-{S_TIME_OPTIONS}
-{S_TIME_OPTIONS}
-{S_TIME_OPTIONS}
-{S_TIME_OPTIONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_TIME_OPTIONS)

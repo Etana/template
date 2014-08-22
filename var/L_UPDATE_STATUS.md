@@ -5,9 +5,6 @@
 
 ```smarty
 {L_UPDATE_STATUS}
-{L_UPDATE_STATUS}
-{L_UPDATE_STATUS}
-{L_UPDATE_STATUS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UPDATE_STATUS)

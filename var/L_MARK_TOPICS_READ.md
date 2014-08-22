@@ -5,12 +5,6 @@
 
 ```smarty
 {L_MARK_TOPICS_READ}
-{L_MARK_TOPICS_READ}
-{L_MARK_TOPICS_READ}
-{L_MARK_TOPICS_READ}
-{L_MARK_TOPICS_READ}
-{L_MARK_TOPICS_READ}
-{L_MARK_TOPICS_READ}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MARK_TOPICS_READ)

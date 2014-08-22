@@ -7,18 +7,6 @@
 <!-- BEGIN pagination -->
 {pagination.PAGINATION}
 <!-- END pagination -->
-<!-- BEGIN pagination -->
-{pagination.PAGINATION}
-<!-- END pagination -->
-<!-- BEGIN pagination -->
-{pagination.PAGINATION}
-<!-- END pagination -->
-<!-- BEGIN pagination -->
-{pagination.PAGINATION}
-<!-- END pagination -->
-<!-- BEGIN pagination -->
-{pagination.PAGINATION}
-<!-- END pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pagination.PAGINATION)

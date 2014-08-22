@@ -7,18 +7,6 @@
 <!-- BEGIN album_pagination -->
 contenu sur lequel on boucle
 <!-- END album_pagination -->
-<!-- BEGIN album_pagination -->
-contenu sur lequel on boucle
-<!-- END album_pagination -->
-<!-- BEGIN album_pagination -->
-contenu sur lequel on boucle
-<!-- END album_pagination -->
-<!-- BEGIN album_pagination -->
-contenu sur lequel on boucle
-<!-- END album_pagination -->
-<!-- BEGIN album_pagination -->
-contenu sur lequel on boucle
-<!-- END album_pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/album_pagination)

@@ -5,14 +5,6 @@
 
 ```smarty
 {PUSERNAME}
-{PUSERNAME}
-{PUSERNAME}
-{PUSERNAME}
-{PUSERNAME}
-{PUSERNAME}
-{PUSERNAME}
-{PUSERNAME}
-{PUSERNAME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PUSERNAME)

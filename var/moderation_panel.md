@@ -7,18 +7,6 @@
 <!-- BEGIN moderation_panel -->
 contenu sur lequel on boucle
 <!-- END moderation_panel -->
-<!-- BEGIN moderation_panel -->
-contenu sur lequel on boucle
-<!-- END moderation_panel -->
-<!-- BEGIN moderation_panel -->
-contenu sur lequel on boucle
-<!-- END moderation_panel -->
-<!-- BEGIN moderation_panel -->
-contenu sur lequel on boucle
-<!-- END moderation_panel -->
-<!-- BEGIN moderation_panel -->
-contenu sur lequel on boucle
-<!-- END moderation_panel -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/moderation_panel)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_OTHER_IPS}
-{L_OTHER_IPS}
-{L_OTHER_IPS}
-{L_OTHER_IPS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_OTHER_IPS)

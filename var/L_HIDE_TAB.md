@@ -5,9 +5,6 @@
 
 ```smarty
 {L_HIDE_TAB}
-{L_HIDE_TAB}
-{L_HIDE_TAB}
-{L_HIDE_TAB}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_HIDE_TAB)

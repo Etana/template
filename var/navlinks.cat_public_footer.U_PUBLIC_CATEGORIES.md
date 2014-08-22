@@ -9,21 +9,6 @@
     {navlinks.cat_public_footer.U_PUBLIC_CATEGORIES}
     <!-- END cat_public_footer -->
 <!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN cat_public_footer -->
-    {navlinks.cat_public_footer.U_PUBLIC_CATEGORIES}
-    <!-- END cat_public_footer -->
-<!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN cat_public_footer -->
-    {navlinks.cat_public_footer.U_PUBLIC_CATEGORIES}
-    <!-- END cat_public_footer -->
-<!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN cat_public_footer -->
-    {navlinks.cat_public_footer.U_PUBLIC_CATEGORIES}
-    <!-- END cat_public_footer -->
-<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.U_PUBLIC_CATEGORIES)

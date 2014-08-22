@@ -5,9 +5,6 @@
 
 ```smarty
 {FOLDER_LOCKED_IMG}
-{FOLDER_LOCKED_IMG}
-{FOLDER_LOCKED_IMG}
-{FOLDER_LOCKED_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_LOCKED_IMG)

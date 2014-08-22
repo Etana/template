@@ -5,9 +5,6 @@
 
 ```smarty
 {META_FB_LIKE}
-{META_FB_LIKE}
-{META_FB_LIKE}
-{META_FB_LIKE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/META_FB_LIKE)

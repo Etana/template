@@ -5,9 +5,6 @@
 
 ```smarty
 {REMOVE_FIELD}
-{REMOVE_FIELD}
-{REMOVE_FIELD}
-{REMOVE_FIELD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/REMOVE_FIELD)

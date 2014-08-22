@@ -5,13 +5,6 @@
 
 ```smarty
 {NEWEST_USER}
-{NEWEST_USER}
-{NEWEST_USER}
-{NEWEST_USER}
-{NEWEST_USER}
-{NEWEST_USER}
-{NEWEST_USER}
-{NEWEST_USER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NEWEST_USER)

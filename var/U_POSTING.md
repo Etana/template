@@ -5,9 +5,6 @@
 
 ```smarty
 {U_POSTING}
-{U_POSTING}
-{U_POSTING}
-{U_POSTING}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_POSTING)

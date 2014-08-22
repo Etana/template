@@ -5,17 +5,6 @@
 
 ```smarty
 {ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
-{ERROR_BOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ERROR_BOX)

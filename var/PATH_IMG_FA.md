@@ -5,18 +5,6 @@
 
 ```smarty
 {PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
-{PATH_IMG_FA}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PATH_IMG_FA)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SELECT_SUM}
-{L_SELECT_SUM}
-{L_SELECT_SUM}
-{L_SELECT_SUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SELECT_SUM)

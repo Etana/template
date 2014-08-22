@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NO_MESSAGES}
-{L_NO_MESSAGES}
-{L_NO_MESSAGES}
-{L_NO_MESSAGES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NO_MESSAGES)

@@ -5,13 +5,6 @@
 
 ```smarty
 {TOPIC_ID}
-{TOPIC_ID}
-{TOPIC_ID}
-{TOPIC_ID}
-{TOPIC_ID}
-{TOPIC_ID}
-{TOPIC_ID}
-{TOPIC_ID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC_ID)

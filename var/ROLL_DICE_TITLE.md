@@ -5,10 +5,6 @@
 
 ```smarty
 {ROLL_DICE_TITLE}
-{ROLL_DICE_TITLE}
-{ROLL_DICE_TITLE}
-{ROLL_DICE_TITLE}
-{ROLL_DICE_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ROLL_DICE_TITLE)

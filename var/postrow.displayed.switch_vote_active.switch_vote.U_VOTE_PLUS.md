@@ -13,33 +13,6 @@
         <!-- END switch_vote_active -->
     <!-- END displayed -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_vote_active -->
-            <!-- BEGIN switch_vote -->
-            {postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS}
-            <!-- END switch_vote -->
-        <!-- END switch_vote_active -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_vote_active -->
-            <!-- BEGIN switch_vote -->
-            {postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS}
-            <!-- END switch_vote -->
-        <!-- END switch_vote_active -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_vote_active -->
-            <!-- BEGIN switch_vote -->
-            {postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS}
-            <!-- END switch_vote -->
-        <!-- END switch_vote_active -->
-    <!-- END displayed -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SAVE_MARKED}
-{L_SAVE_MARKED}
-{L_SAVE_MARKED}
-{L_SAVE_MARKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SAVE_MARKED)

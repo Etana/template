@@ -184,7 +184,7 @@ for var in variables:
 
         f.write('# ' + var +'\n* __Type :__ ')
 
-        types = [x[1] for v in variables[var].values() for u in v.values() for x in u]
+        types = list(set(x[1] for v in variables[var].values() for u in v.values() for x in u))
         if '.' in var:
             f.write('sous-')
         f.write('variable d')

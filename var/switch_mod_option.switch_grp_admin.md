@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_grp_admin -->
 <!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-    <!-- BEGIN switch_grp_admin -->
-    contenu sur lequel on boucle
-    <!-- END switch_grp_admin -->
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-    <!-- BEGIN switch_grp_admin -->
-    contenu sur lequel on boucle
-    <!-- END switch_grp_admin -->
-<!-- END switch_mod_option -->
-<!-- BEGIN switch_mod_option -->
-    <!-- BEGIN switch_grp_admin -->
-    contenu sur lequel on boucle
-    <!-- END switch_grp_admin -->
-<!-- END switch_mod_option -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_mod_option.switch_grp_admin)

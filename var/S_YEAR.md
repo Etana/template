@@ -5,9 +5,6 @@
 
 ```smarty
 {S_YEAR}
-{S_YEAR}
-{S_YEAR}
-{S_YEAR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_YEAR)

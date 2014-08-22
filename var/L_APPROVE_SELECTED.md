@@ -5,9 +5,6 @@
 
 ```smarty
 {L_APPROVE_SELECTED}
-{L_APPROVE_SELECTED}
-{L_APPROVE_SELECTED}
-{L_APPROVE_SELECTED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_APPROVE_SELECTED)

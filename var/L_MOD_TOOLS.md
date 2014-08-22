@@ -5,7 +5,6 @@
 
 ```smarty
 {L_MOD_TOOLS}
-{L_MOD_TOOLS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MOD_TOOLS)

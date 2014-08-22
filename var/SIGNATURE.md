@@ -5,7 +5,6 @@
 
 ```smarty
 {SIGNATURE}
-{SIGNATURE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SIGNATURE)

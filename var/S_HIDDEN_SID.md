@@ -5,9 +5,6 @@
 
 ```smarty
 {S_HIDDEN_SID}
-{S_HIDDEN_SID}
-{S_HIDDEN_SID}
-{S_HIDDEN_SID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_HIDDEN_SID)

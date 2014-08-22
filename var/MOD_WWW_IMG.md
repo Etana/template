@@ -5,9 +5,6 @@
 
 ```smarty
 {MOD_WWW_IMG}
-{MOD_WWW_IMG}
-{MOD_WWW_IMG}
-{MOD_WWW_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_WWW_IMG)

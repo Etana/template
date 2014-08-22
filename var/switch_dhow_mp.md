@@ -7,15 +7,6 @@
 <!-- BEGIN switch_dhow_mp -->
 contenu sur lequel on boucle
 <!-- END switch_dhow_mp -->
-<!-- BEGIN switch_dhow_mp -->
-contenu sur lequel on boucle
-<!-- END switch_dhow_mp -->
-<!-- BEGIN switch_dhow_mp -->
-contenu sur lequel on boucle
-<!-- END switch_dhow_mp -->
-<!-- BEGIN switch_dhow_mp -->
-contenu sur lequel on boucle
-<!-- END switch_dhow_mp -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_dhow_mp)

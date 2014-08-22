@@ -5,8 +5,6 @@
 
 ```smarty
 {GROUP_PENDING_SELECT_NEW}
-{GROUP_PENDING_SELECT_NEW}
-{GROUP_PENDING_SELECT_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_PENDING_SELECT_NEW)

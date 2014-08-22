@@ -5,9 +5,6 @@
 
 ```smarty
 {FOLDER_STICKY_IMG}
-{FOLDER_STICKY_IMG}
-{FOLDER_STICKY_IMG}
-{FOLDER_STICKY_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_STICKY_IMG)

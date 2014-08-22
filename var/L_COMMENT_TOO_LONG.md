@@ -5,9 +5,6 @@
 
 ```smarty
 {L_COMMENT_TOO_LONG}
-{L_COMMENT_TOO_LONG}
-{L_COMMENT_TOO_LONG}
-{L_COMMENT_TOO_LONG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_COMMENT_TOO_LONG)

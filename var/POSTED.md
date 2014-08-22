@@ -5,9 +5,6 @@
 
 ```smarty
 {POSTED}
-{POSTED}
-{POSTED}
-{POSTED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTED)

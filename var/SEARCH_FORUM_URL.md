@@ -5,13 +5,6 @@
 
 ```smarty
 {SEARCH_FORUM_URL}
-{SEARCH_FORUM_URL}
-{SEARCH_FORUM_URL}
-{SEARCH_FORUM_URL}
-{SEARCH_FORUM_URL}
-{SEARCH_FORUM_URL}
-{SEARCH_FORUM_URL}
-{SEARCH_FORUM_URL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SEARCH_FORUM_URL)

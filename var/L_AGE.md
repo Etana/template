@@ -5,9 +5,6 @@
 
 ```smarty
 {L_AGE}
-{L_AGE}
-{L_AGE}
-{L_AGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_AGE)

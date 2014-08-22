@@ -5,9 +5,6 @@
 
 ```smarty
 {V_CAL_DUR_HOUR}
-{V_CAL_DUR_HOUR}
-{V_CAL_DUR_HOUR}
-{V_CAL_DUR_HOUR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_CAL_DUR_HOUR)

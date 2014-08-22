@@ -5,9 +5,6 @@
 
 ```smarty
 {LAST_VISIT_TIME}
-{LAST_VISIT_TIME}
-{LAST_VISIT_TIME}
-{LAST_VISIT_TIME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LAST_VISIT_TIME)

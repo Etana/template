@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CREDIT_ADD_TITLE}
-{L_CREDIT_ADD_TITLE}
-{L_CREDIT_ADD_TITLE}
-{L_CREDIT_ADD_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CREDIT_ADD_TITLE)

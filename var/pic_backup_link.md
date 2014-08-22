@@ -7,15 +7,6 @@
 <!-- BEGIN pic_backup_link -->
 contenu sur lequel on boucle
 <!-- END pic_backup_link -->
-<!-- BEGIN pic_backup_link -->
-contenu sur lequel on boucle
-<!-- END pic_backup_link -->
-<!-- BEGIN pic_backup_link -->
-contenu sur lequel on boucle
-<!-- END pic_backup_link -->
-<!-- BEGIN pic_backup_link -->
-contenu sur lequel on boucle
-<!-- END pic_backup_link -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pic_backup_link)

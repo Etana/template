@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ANNOUNCE}
-{L_ANNOUNCE}
-{L_ANNOUNCE}
-{L_ANNOUNCE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ANNOUNCE)

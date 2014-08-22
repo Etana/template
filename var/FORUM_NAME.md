@@ -5,7 +5,6 @@
 
 ```smarty
 {FORUM_NAME}
-{FORUM_NAME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_NAME)

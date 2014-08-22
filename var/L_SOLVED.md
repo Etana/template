@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SOLVED}
-{L_SOLVED}
-{L_SOLVED}
-{L_SOLVED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SOLVED)

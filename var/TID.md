@@ -5,9 +5,6 @@
 
 ```smarty
 {TID}
-{TID}
-{TID}
-{TID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TID)

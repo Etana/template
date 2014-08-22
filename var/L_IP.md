@@ -5,9 +5,6 @@
 
 ```smarty
 {L_IP}
-{L_IP}
-{L_IP}
-{L_IP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_IP)

@@ -5,9 +5,6 @@
 
 ```smarty
 {AGE}
-{AGE}
-{AGE}
-{AGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AGE)

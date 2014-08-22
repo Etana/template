@@ -7,15 +7,6 @@
 <!-- BEGIN switch_viewed -->
 contenu sur lequel on boucle
 <!-- END switch_viewed -->
-<!-- BEGIN switch_viewed -->
-contenu sur lequel on boucle
-<!-- END switch_viewed -->
-<!-- BEGIN switch_viewed -->
-contenu sur lequel on boucle
-<!-- END switch_viewed -->
-<!-- BEGIN switch_viewed -->
-contenu sur lequel on boucle
-<!-- END switch_viewed -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_viewed)

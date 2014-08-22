@@ -5,12 +5,6 @@
 
 ```smarty
 {SAVEBOX_IMG}
-{SAVEBOX_IMG}
-{SAVEBOX_IMG}
-{SAVEBOX_IMG}
-{SAVEBOX_IMG}
-{SAVEBOX_IMG}
-{SAVEBOX_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SAVEBOX_IMG)

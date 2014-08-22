@@ -7,15 +7,6 @@
 <!-- BEGIN switch_select_name -->
 contenu sur lequel on boucle
 <!-- END switch_select_name -->
-<!-- BEGIN switch_select_name -->
-contenu sur lequel on boucle
-<!-- END switch_select_name -->
-<!-- BEGIN switch_select_name -->
-contenu sur lequel on boucle
-<!-- END switch_select_name -->
-<!-- BEGIN switch_select_name -->
-contenu sur lequel on boucle
-<!-- END switch_select_name -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_select_name)

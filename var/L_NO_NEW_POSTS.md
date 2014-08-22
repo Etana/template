@@ -5,13 +5,6 @@
 
 ```smarty
 {L_NO_NEW_POSTS}
-{L_NO_NEW_POSTS}
-{L_NO_NEW_POSTS}
-{L_NO_NEW_POSTS}
-{L_NO_NEW_POSTS}
-{L_NO_NEW_POSTS}
-{L_NO_NEW_POSTS}
-{L_NO_NEW_POSTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NO_NEW_POSTS)

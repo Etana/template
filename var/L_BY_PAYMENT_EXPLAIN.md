@@ -5,9 +5,6 @@
 
 ```smarty
 {L_BY_PAYMENT_EXPLAIN}
-{L_BY_PAYMENT_EXPLAIN}
-{L_BY_PAYMENT_EXPLAIN}
-{L_BY_PAYMENT_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BY_PAYMENT_EXPLAIN)

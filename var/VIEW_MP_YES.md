@@ -5,9 +5,6 @@
 
 ```smarty
 {VIEW_MP_YES}
-{VIEW_MP_YES}
-{VIEW_MP_YES}
-{VIEW_MP_YES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/VIEW_MP_YES)

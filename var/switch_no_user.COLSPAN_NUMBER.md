@@ -7,12 +7,6 @@
 <!-- BEGIN switch_no_user -->
 {switch_no_user.COLSPAN_NUMBER}
 <!-- END switch_no_user -->
-<!-- BEGIN switch_no_user -->
-{switch_no_user.COLSPAN_NUMBER}
-<!-- END switch_no_user -->
-<!-- BEGIN switch_no_user -->
-{switch_no_user.COLSPAN_NUMBER}
-<!-- END switch_no_user -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_user.COLSPAN_NUMBER)

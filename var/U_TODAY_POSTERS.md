@@ -5,9 +5,6 @@
 
 ```smarty
 {U_TODAY_POSTERS}
-{U_TODAY_POSTERS}
-{U_TODAY_POSTERS}
-{U_TODAY_POSTERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_TODAY_POSTERS)

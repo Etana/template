@@ -5,14 +5,6 @@
 
 ```smarty
 {MESSAGE_FROM}
-{MESSAGE_FROM}
-{MESSAGE_FROM}
-{MESSAGE_FROM}
-{MESSAGE_FROM}
-{MESSAGE_FROM}
-{MESSAGE_FROM}
-{MESSAGE_FROM}
-{MESSAGE_FROM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MESSAGE_FROM)

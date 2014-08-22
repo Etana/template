@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END no_pics -->
 <!-- END build_categories_block -->
-<!-- BEGIN build_categories_block -->
-    <!-- BEGIN no_pics -->
-    contenu sur lequel on boucle
-    <!-- END no_pics -->
-<!-- END build_categories_block -->
-<!-- BEGIN build_categories_block -->
-    <!-- BEGIN no_pics -->
-    contenu sur lequel on boucle
-    <!-- END no_pics -->
-<!-- END build_categories_block -->
-<!-- BEGIN build_categories_block -->
-    <!-- BEGIN no_pics -->
-    contenu sur lequel on boucle
-    <!-- END no_pics -->
-<!-- END build_categories_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.no_pics)

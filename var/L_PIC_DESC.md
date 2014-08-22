@@ -5,13 +5,6 @@
 
 ```smarty
 {L_PIC_DESC}
-{L_PIC_DESC}
-{L_PIC_DESC}
-{L_PIC_DESC}
-{L_PIC_DESC}
-{L_PIC_DESC}
-{L_PIC_DESC}
-{L_PIC_DESC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PIC_DESC)

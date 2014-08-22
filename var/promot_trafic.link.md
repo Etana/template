@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END link -->
 <!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    contenu sur lequel on boucle
-    <!-- END link -->
-<!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    contenu sur lequel on boucle
-    <!-- END link -->
-<!-- END promot_trafic -->
-<!-- BEGIN promot_trafic -->
-    <!-- BEGIN link -->
-    contenu sur lequel on boucle
-    <!-- END link -->
-<!-- END promot_trafic -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/promot_trafic.link)

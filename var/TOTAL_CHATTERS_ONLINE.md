@@ -5,9 +5,6 @@
 
 ```smarty
 {TOTAL_CHATTERS_ONLINE}
-{TOTAL_CHATTERS_ONLINE}
-{TOTAL_CHATTERS_ONLINE}
-{TOTAL_CHATTERS_ONLINE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOTAL_CHATTERS_ONLINE)

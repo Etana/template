@@ -5,7 +5,6 @@
 
 ```smarty
 {L_GENDER_MALE}
-{L_GENDER_MALE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GENDER_MALE)

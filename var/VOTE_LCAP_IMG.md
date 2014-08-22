@@ -5,13 +5,6 @@
 
 ```smarty
 {VOTE_LCAP_IMG}
-{VOTE_LCAP_IMG}
-{VOTE_LCAP_IMG}
-{VOTE_LCAP_IMG}
-{VOTE_LCAP_IMG}
-{VOTE_LCAP_IMG}
-{VOTE_LCAP_IMG}
-{VOTE_LCAP_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/VOTE_LCAP_IMG)

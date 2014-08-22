@@ -5,9 +5,6 @@
 
 ```smarty
 {POST_URL}
-{POST_URL}
-{POST_URL}
-{POST_URL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_URL)

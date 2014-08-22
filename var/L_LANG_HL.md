@@ -5,9 +5,6 @@
 
 ```smarty
 {L_LANG_HL}
-{L_LANG_HL}
-{L_LANG_HL}
-{L_LANG_HL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LANG_HL)

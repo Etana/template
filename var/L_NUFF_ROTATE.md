@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NUFF_ROTATE}
-{L_NUFF_ROTATE}
-{L_NUFF_ROTATE}
-{L_NUFF_ROTATE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_ROTATE)

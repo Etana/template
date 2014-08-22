@@ -5,9 +5,6 @@
 
 ```smarty
 {TOPIC_DATE}
-{TOPIC_DATE}
-{TOPIC_DATE}
-{TOPIC_DATE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC_DATE)

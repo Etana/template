@@ -11,27 +11,6 @@
         <!-- END switch_post_attachments -->
     <!-- END switch_attachments -->
 <!-- END post_row -->
-<!-- BEGIN post_row -->
-    <!-- BEGIN switch_attachments -->
-        <!-- BEGIN switch_post_attachments -->
-        contenu sur lequel on boucle
-        <!-- END switch_post_attachments -->
-    <!-- END switch_attachments -->
-<!-- END post_row -->
-<!-- BEGIN post_row -->
-    <!-- BEGIN switch_attachments -->
-        <!-- BEGIN switch_post_attachments -->
-        contenu sur lequel on boucle
-        <!-- END switch_post_attachments -->
-    <!-- END switch_attachments -->
-<!-- END post_row -->
-<!-- BEGIN post_row -->
-    <!-- BEGIN switch_attachments -->
-        <!-- BEGIN switch_post_attachments -->
-        contenu sur lequel on boucle
-        <!-- END switch_post_attachments -->
-    <!-- END switch_attachments -->
-<!-- END post_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments)

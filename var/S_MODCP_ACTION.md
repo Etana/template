@@ -5,13 +5,6 @@
 
 ```smarty
 {S_MODCP_ACTION}
-{S_MODCP_ACTION}
-{S_MODCP_ACTION}
-{S_MODCP_ACTION}
-{S_MODCP_ACTION}
-{S_MODCP_ACTION}
-{S_MODCP_ACTION}
-{S_MODCP_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MODCP_ACTION)

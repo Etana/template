@@ -5,9 +5,6 @@
 
 ```smarty
 {MOD_FROM}
-{MOD_FROM}
-{MOD_FROM}
-{MOD_FROM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_FROM)

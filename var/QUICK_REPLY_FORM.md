@@ -5,9 +5,6 @@
 
 ```smarty
 {QUICK_REPLY_FORM}
-{QUICK_REPLY_FORM}
-{QUICK_REPLY_FORM}
-{QUICK_REPLY_FORM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/QUICK_REPLY_FORM)

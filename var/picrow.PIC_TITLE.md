@@ -7,27 +7,6 @@
 <!-- BEGIN picrow -->
 {picrow.PIC_TITLE}
 <!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_TITLE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_TITLE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_TITLE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_TITLE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_TITLE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_TITLE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_TITLE}
-<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.PIC_TITLE)

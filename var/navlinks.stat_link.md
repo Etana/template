@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END stat_link -->
 <!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN stat_link -->
-    contenu sur lequel on boucle
-    <!-- END stat_link -->
-<!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN stat_link -->
-    contenu sur lequel on boucle
-    <!-- END stat_link -->
-<!-- END navlinks -->
-<!-- BEGIN navlinks -->
-    <!-- BEGIN stat_link -->
-    contenu sur lequel on boucle
-    <!-- END stat_link -->
-<!-- END navlinks -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.stat_link)

@@ -5,9 +5,6 @@
 
 ```smarty
 {S_RATE_MSG}
-{S_RATE_MSG}
-{S_RATE_MSG}
-{S_RATE_MSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_RATE_MSG)

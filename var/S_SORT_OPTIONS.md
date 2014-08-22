@@ -5,9 +5,6 @@
 
 ```smarty
 {S_SORT_OPTIONS}
-{S_SORT_OPTIONS}
-{S_SORT_OPTIONS}
-{S_SORT_OPTIONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SORT_OPTIONS)

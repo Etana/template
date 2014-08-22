@@ -5,9 +5,6 @@
 
 ```smarty
 {L_VALID}
-{L_VALID}
-{L_VALID}
-{L_VALID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_VALID)

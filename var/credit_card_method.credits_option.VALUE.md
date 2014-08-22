@@ -9,21 +9,6 @@
     {credit_card_method.credits_option.VALUE}
     <!-- END credits_option -->
 <!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN credits_option -->
-    {credit_card_method.credits_option.VALUE}
-    <!-- END credits_option -->
-<!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN credits_option -->
-    {credit_card_method.credits_option.VALUE}
-    <!-- END credits_option -->
-<!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN credits_option -->
-    {credit_card_method.credits_option.VALUE}
-    <!-- END credits_option -->
-<!-- END credit_card_method -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option.VALUE)

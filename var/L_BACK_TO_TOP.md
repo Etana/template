@@ -5,29 +5,6 @@
 
 ```smarty
 {L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
-{L_BACK_TO_TOP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BACK_TO_TOP)

@@ -5,9 +5,6 @@
 
 ```smarty
 {AIM_IMG}
-{AIM_IMG}
-{AIM_IMG}
-{AIM_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AIM_IMG)

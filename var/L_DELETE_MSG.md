@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DELETE_MSG}
-{L_DELETE_MSG}
-{L_DELETE_MSG}
-{L_DELETE_MSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_MSG)

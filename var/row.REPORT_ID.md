@@ -7,27 +7,6 @@
 <!-- BEGIN row -->
 {row.REPORT_ID}
 <!-- END row -->
-<!-- BEGIN row -->
-{row.REPORT_ID}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.REPORT_ID}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.REPORT_ID}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.REPORT_ID}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.REPORT_ID}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.REPORT_ID}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.REPORT_ID}
-<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.REPORT_ID)

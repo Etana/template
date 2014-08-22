@@ -5,9 +5,6 @@
 
 ```smarty
 {U_GOOGLERESULTS}
-{U_GOOGLERESULTS}
-{U_GOOGLERESULTS}
-{U_GOOGLERESULTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_GOOGLERESULTS)

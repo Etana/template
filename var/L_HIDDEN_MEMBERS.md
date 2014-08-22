@@ -5,9 +5,6 @@
 
 ```smarty
 {L_HIDDEN_MEMBERS}
-{L_HIDDEN_MEMBERS}
-{L_HIDDEN_MEMBERS}
-{L_HIDDEN_MEMBERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_HIDDEN_MEMBERS)

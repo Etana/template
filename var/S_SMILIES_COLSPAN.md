@@ -5,10 +5,6 @@
 
 ```smarty
 {S_SMILIES_COLSPAN}
-{S_SMILIES_COLSPAN}
-{S_SMILIES_COLSPAN}
-{S_SMILIES_COLSPAN}
-{S_SMILIES_COLSPAN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SMILIES_COLSPAN)

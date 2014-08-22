@@ -7,9 +7,6 @@
 <!-- BEGIN postrow -->
 {postrow.L_TOPIC_BY}
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.L_TOPIC_BY}
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.L_TOPIC_BY)

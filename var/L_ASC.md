@@ -5,18 +5,6 @@
 
 ```smarty
 {L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
-{L_ASC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ASC)

@@ -5,8 +5,6 @@
 
 ```smarty
 {SELECT_ACTION_NEW}
-{SELECT_ACTION_NEW}
-{SELECT_ACTION_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SELECT_ACTION_NEW)

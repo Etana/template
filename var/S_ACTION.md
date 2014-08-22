@@ -5,24 +5,6 @@
 
 ```smarty
 {S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
-{S_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ACTION)

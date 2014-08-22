@@ -7,15 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.MESSAGE}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.MESSAGE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.MESSAGE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.MESSAGE}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.MESSAGE)

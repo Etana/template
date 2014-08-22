@@ -5,13 +5,6 @@
 
 ```smarty
 {L_PLAIN_TEXT_ONLY}
-{L_PLAIN_TEXT_ONLY}
-{L_PLAIN_TEXT_ONLY}
-{L_PLAIN_TEXT_ONLY}
-{L_PLAIN_TEXT_ONLY}
-{L_PLAIN_TEXT_ONLY}
-{L_PLAIN_TEXT_ONLY}
-{L_PLAIN_TEXT_ONLY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PLAIN_TEXT_ONLY)

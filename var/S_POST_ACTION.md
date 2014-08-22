@@ -5,13 +5,6 @@
 
 ```smarty
 {S_POST_ACTION}
-{S_POST_ACTION}
-{S_POST_ACTION}
-{S_POST_ACTION}
-{S_POST_ACTION}
-{S_POST_ACTION}
-{S_POST_ACTION}
-{S_POST_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_POST_ACTION)

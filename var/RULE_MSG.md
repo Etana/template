@@ -5,13 +5,6 @@
 
 ```smarty
 {RULE_MSG}
-{RULE_MSG}
-{RULE_MSG}
-{RULE_MSG}
-{RULE_MSG}
-{RULE_MSG}
-{RULE_MSG}
-{RULE_MSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/RULE_MSG)

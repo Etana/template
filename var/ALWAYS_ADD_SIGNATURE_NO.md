@@ -5,9 +5,6 @@
 
 ```smarty
 {ALWAYS_ADD_SIGNATURE_NO}
-{ALWAYS_ADD_SIGNATURE_NO}
-{ALWAYS_ADD_SIGNATURE_NO}
-{ALWAYS_ADD_SIGNATURE_NO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ALWAYS_ADD_SIGNATURE_NO)

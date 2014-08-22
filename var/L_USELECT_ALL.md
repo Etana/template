@@ -5,9 +5,6 @@
 
 ```smarty
 {L_USELECT_ALL}
-{L_USELECT_ALL}
-{L_USELECT_ALL}
-{L_USELECT_ALL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_USELECT_ALL)

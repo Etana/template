@@ -5,9 +5,6 @@
 
 ```smarty
 {L_BY}
-{L_BY}
-{L_BY}
-{L_BY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BY)

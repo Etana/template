@@ -7,15 +7,6 @@
 <!-- BEGIN POSTER -->
 {POSTER.NB_TOPICS}
 <!-- END POSTER -->
-<!-- BEGIN POSTER -->
-{POSTER.NB_TOPICS}
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-{POSTER.NB_TOPICS}
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-{POSTER.NB_TOPICS}
-<!-- END POSTER -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER.NB_TOPICS)

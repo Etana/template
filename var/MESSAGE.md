@@ -5,23 +5,6 @@
 
 ```smarty
 {MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
-{MESSAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MESSAGE)

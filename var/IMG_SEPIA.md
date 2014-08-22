@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_SEPIA}
-{IMG_SEPIA}
-{IMG_SEPIA}
-{IMG_SEPIA}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_SEPIA)

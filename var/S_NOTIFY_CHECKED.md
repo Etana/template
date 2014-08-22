@@ -5,9 +5,6 @@
 
 ```smarty
 {S_NOTIFY_CHECKED}
-{S_NOTIFY_CHECKED}
-{S_NOTIFY_CHECKED}
-{S_NOTIFY_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_NOTIFY_CHECKED)

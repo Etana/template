@@ -5,9 +5,6 @@
 
 ```smarty
 {L_FACEYOURMANGA_LINK_URL}
-{L_FACEYOURMANGA_LINK_URL}
-{L_FACEYOURMANGA_LINK_URL}
-{L_FACEYOURMANGA_LINK_URL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FACEYOURMANGA_LINK_URL)

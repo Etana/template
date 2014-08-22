@@ -5,13 +5,6 @@
 
 ```smarty
 {REPLY_IMG}
-{REPLY_IMG}
-{REPLY_IMG}
-{REPLY_IMG}
-{REPLY_IMG}
-{REPLY_IMG}
-{REPLY_IMG}
-{REPLY_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/REPLY_IMG)

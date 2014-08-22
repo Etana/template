@@ -9,26 +9,6 @@
     {message_admin_index.message_admin_txt.MES_TXT}
     <!-- END message_admin_txt -->
 <!-- END message_admin_index -->
-<!-- BEGIN message_admin_index -->
-    <!-- BEGIN message_admin_txt -->
-    {message_admin_index.message_admin_txt.MES_TXT}
-    <!-- END message_admin_txt -->
-<!-- END message_admin_index -->
-<!-- BEGIN message_admin_index -->
-    <!-- BEGIN message_admin_txt -->
-    {message_admin_index.message_admin_txt.MES_TXT}
-    <!-- END message_admin_txt -->
-<!-- END message_admin_index -->
-<!-- BEGIN message_admin_index -->
-    <!-- BEGIN message_admin_txt -->
-    {message_admin_index.message_admin_txt.MES_TXT}
-    <!-- END message_admin_txt -->
-<!-- END message_admin_index -->
-<!-- BEGIN message_admin_index -->
-    <!-- BEGIN message_admin_txt -->
-    {message_admin_index.message_admin_txt.MES_TXT}
-    <!-- END message_admin_txt -->
-<!-- END message_admin_index -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)

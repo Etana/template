@@ -5,9 +5,6 @@
 
 ```smarty
 {FOLDER_HOT_NEW_IMG}
-{FOLDER_HOT_NEW_IMG}
-{FOLDER_HOT_NEW_IMG}
-{FOLDER_HOT_NEW_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_HOT_NEW_IMG)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NUFF_RESIZE_W}
-{L_NUFF_RESIZE_W}
-{L_NUFF_RESIZE_W}
-{L_NUFF_RESIZE_W}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_RESIZE_W)

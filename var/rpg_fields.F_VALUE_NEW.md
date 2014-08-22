@@ -7,21 +7,6 @@
 <!-- BEGIN rpg_fields -->
 {rpg_fields.F_VALUE_NEW}
 <!-- END rpg_fields -->
-<!-- BEGIN rpg_fields -->
-{rpg_fields.F_VALUE_NEW}
-<!-- END rpg_fields -->
-<!-- BEGIN rpg_fields -->
-{rpg_fields.F_VALUE_NEW}
-<!-- END rpg_fields -->
-<!-- BEGIN rpg_fields -->
-{rpg_fields.F_VALUE_NEW}
-<!-- END rpg_fields -->
-<!-- BEGIN rpg_fields -->
-{rpg_fields.F_VALUE_NEW}
-<!-- END rpg_fields -->
-<!-- BEGIN rpg_fields -->
-{rpg_fields.F_VALUE_NEW}
-<!-- END rpg_fields -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields.F_VALUE_NEW)

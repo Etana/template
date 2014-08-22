@@ -5,13 +5,6 @@
 
 ```smarty
 {CLOSE_POLL}
-{CLOSE_POLL}
-{CLOSE_POLL}
-{CLOSE_POLL}
-{CLOSE_POLL}
-{CLOSE_POLL}
-{CLOSE_POLL}
-{CLOSE_POLL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CLOSE_POLL)

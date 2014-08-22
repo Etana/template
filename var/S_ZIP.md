@@ -5,9 +5,6 @@
 
 ```smarty
 {S_ZIP}
-{S_ZIP}
-{S_ZIP}
-{S_ZIP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ZIP)

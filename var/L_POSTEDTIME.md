@@ -5,9 +5,6 @@
 
 ```smarty
 {L_POSTEDTIME}
-{L_POSTEDTIME}
-{L_POSTEDTIME}
-{L_POSTEDTIME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POSTEDTIME)

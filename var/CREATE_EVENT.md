@@ -5,9 +5,6 @@
 
 ```smarty
 {CREATE_EVENT}
-{CREATE_EVENT}
-{CREATE_EVENT}
-{CREATE_EVENT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CREATE_EVENT)

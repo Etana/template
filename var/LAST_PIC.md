@@ -5,9 +5,6 @@
 
 ```smarty
 {LAST_PIC}
-{LAST_PIC}
-{LAST_PIC}
-{LAST_PIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LAST_PIC)

@@ -7,15 +7,6 @@
 <!-- BEGIN switch_profile -->
 contenu sur lequel on boucle
 <!-- END switch_profile -->
-<!-- BEGIN switch_profile -->
-contenu sur lequel on boucle
-<!-- END switch_profile -->
-<!-- BEGIN switch_profile -->
-contenu sur lequel on boucle
-<!-- END switch_profile -->
-<!-- BEGIN switch_profile -->
-contenu sur lequel on boucle
-<!-- END switch_profile -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_profile)

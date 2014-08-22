@@ -5,24 +5,6 @@
 
 ```smarty
 {L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
-{L_DELETE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DELETE)

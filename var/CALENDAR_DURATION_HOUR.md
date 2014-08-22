@@ -5,9 +5,6 @@
 
 ```smarty
 {CALENDAR_DURATION_HOUR}
-{CALENDAR_DURATION_HOUR}
-{CALENDAR_DURATION_HOUR}
-{CALENDAR_DURATION_HOUR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CALENDAR_DURATION_HOUR)

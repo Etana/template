@@ -5,9 +5,6 @@
 
 ```smarty
 {GOOGLE_CODE}
-{GOOGLE_CODE}
-{GOOGLE_CODE}
-{GOOGLE_CODE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GOOGLE_CODE)

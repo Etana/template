@@ -7,24 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.L_TOPIC_FOLDER_ALT}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.L_TOPIC_FOLDER_ALT}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.L_TOPIC_FOLDER_ALT}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.L_TOPIC_FOLDER_ALT}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.L_TOPIC_FOLDER_ALT}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.L_TOPIC_FOLDER_ALT}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.L_TOPIC_FOLDER_ALT}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.L_TOPIC_FOLDER_ALT)

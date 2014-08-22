@@ -5,12 +5,6 @@
 
 ```smarty
 {PREV_PIC}
-{PREV_PIC}
-{PREV_PIC}
-{PREV_PIC}
-{PREV_PIC}
-{PREV_PIC}
-{PREV_PIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PREV_PIC)

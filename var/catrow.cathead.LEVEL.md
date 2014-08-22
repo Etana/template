@@ -9,11 +9,6 @@
     {catrow.cathead.LEVEL}
     <!-- END cathead -->
 <!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN cathead -->
-    {catrow.cathead.LEVEL}
-    <!-- END cathead -->
-<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.LEVEL)

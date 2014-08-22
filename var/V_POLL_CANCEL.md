@@ -5,9 +5,6 @@
 
 ```smarty
 {V_POLL_CANCEL}
-{V_POLL_CANCEL}
-{V_POLL_CANCEL}
-{V_POLL_CANCEL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_POLL_CANCEL)

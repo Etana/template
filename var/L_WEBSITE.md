@@ -5,18 +5,6 @@
 
 ```smarty
 {L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
-{L_WEBSITE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_WEBSITE)

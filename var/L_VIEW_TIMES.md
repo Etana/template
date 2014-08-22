@@ -5,9 +5,6 @@
 
 ```smarty
 {L_VIEW_TIMES}
-{L_VIEW_TIMES}
-{L_VIEW_TIMES}
-{L_VIEW_TIMES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_VIEW_TIMES)

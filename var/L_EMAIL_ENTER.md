@@ -5,7 +5,6 @@
 
 ```smarty
 {L_EMAIL_ENTER}
-{L_EMAIL_ENTER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_EMAIL_ENTER)

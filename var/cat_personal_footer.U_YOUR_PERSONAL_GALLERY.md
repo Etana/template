@@ -7,15 +7,6 @@
 <!-- BEGIN cat_personal_footer -->
 {cat_personal_footer.U_YOUR_PERSONAL_GALLERY}
 <!-- END cat_personal_footer -->
-<!-- BEGIN cat_personal_footer -->
-{cat_personal_footer.U_YOUR_PERSONAL_GALLERY}
-<!-- END cat_personal_footer -->
-<!-- BEGIN cat_personal_footer -->
-{cat_personal_footer.U_YOUR_PERSONAL_GALLERY}
-<!-- END cat_personal_footer -->
-<!-- BEGIN cat_personal_footer -->
-{cat_personal_footer.U_YOUR_PERSONAL_GALLERY}
-<!-- END cat_personal_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cat_personal_footer.U_YOUR_PERSONAL_GALLERY)

@@ -5,9 +5,6 @@
 
 ```smarty
 {SCROLL_STEP}
-{SCROLL_STEP}
-{SCROLL_STEP}
-{SCROLL_STEP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SCROLL_STEP)

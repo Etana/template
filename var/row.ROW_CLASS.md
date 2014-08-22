@@ -7,24 +7,6 @@
 <!-- BEGIN row -->
 {row.ROW_CLASS}
 <!-- END row -->
-<!-- BEGIN row -->
-{row.ROW_CLASS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.ROW_CLASS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.ROW_CLASS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.ROW_CLASS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.ROW_CLASS}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.ROW_CLASS}
-<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.ROW_CLASS)

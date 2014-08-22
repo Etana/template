@@ -7,27 +7,6 @@
 <!-- BEGIN switch_ticker -->
 {switch_ticker.STOP_TIME}
 <!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.STOP_TIME}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.STOP_TIME}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.STOP_TIME}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.STOP_TIME}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.STOP_TIME}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.STOP_TIME}
-<!-- END switch_ticker -->
-<!-- BEGIN switch_ticker -->
-{switch_ticker.STOP_TIME}
-<!-- END switch_ticker -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.STOP_TIME)

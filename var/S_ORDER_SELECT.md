@@ -5,9 +5,6 @@
 
 ```smarty
 {S_ORDER_SELECT}
-{S_ORDER_SELECT}
-{S_ORDER_SELECT}
-{S_ORDER_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ORDER_SELECT)

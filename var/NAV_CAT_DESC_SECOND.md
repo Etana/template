@@ -5,10 +5,6 @@
 
 ```smarty
 {NAV_CAT_DESC_SECOND}
-{NAV_CAT_DESC_SECOND}
-{NAV_CAT_DESC_SECOND}
-{NAV_CAT_DESC_SECOND}
-{NAV_CAT_DESC_SECOND}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC_SECOND)

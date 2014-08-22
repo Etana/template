@@ -5,9 +5,6 @@
 
 ```smarty
 {NOTIFY_REPLY_NO}
-{NOTIFY_REPLY_NO}
-{NOTIFY_REPLY_NO}
-{NOTIFY_REPLY_NO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NOTIFY_REPLY_NO)

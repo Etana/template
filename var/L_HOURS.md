@@ -5,13 +5,6 @@
 
 ```smarty
 {L_HOURS}
-{L_HOURS}
-{L_HOURS}
-{L_HOURS}
-{L_HOURS}
-{L_HOURS}
-{L_HOURS}
-{L_HOURS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_HOURS)

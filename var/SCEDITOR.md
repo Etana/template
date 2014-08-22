@@ -5,9 +5,6 @@
 
 ```smarty
 {SCEDITOR}
-{SCEDITOR}
-{SCEDITOR}
-{SCEDITOR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SCEDITOR)

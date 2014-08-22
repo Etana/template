@@ -5,10 +5,6 @@
 
 ```smarty
 {CURRENT_FID}
-{CURRENT_FID}
-{CURRENT_FID}
-{CURRENT_FID}
-{CURRENT_FID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CURRENT_FID)

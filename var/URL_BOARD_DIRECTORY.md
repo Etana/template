@@ -5,9 +5,6 @@
 
 ```smarty
 {URL_BOARD_DIRECTORY}
-{URL_BOARD_DIRECTORY}
-{URL_BOARD_DIRECTORY}
-{URL_BOARD_DIRECTORY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/URL_BOARD_DIRECTORY)

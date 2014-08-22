@@ -5,9 +5,6 @@
 
 ```smarty
 {L_TODAY}
-{L_TODAY}
-{L_TODAY}
-{L_TODAY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TODAY)

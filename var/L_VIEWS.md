@@ -5,14 +5,6 @@
 
 ```smarty
 {L_VIEWS}
-{L_VIEWS}
-{L_VIEWS}
-{L_VIEWS}
-{L_VIEWS}
-{L_VIEWS}
-{L_VIEWS}
-{L_VIEWS}
-{L_VIEWS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_VIEWS)

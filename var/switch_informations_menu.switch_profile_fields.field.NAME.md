@@ -11,27 +11,6 @@
         <!-- END field -->
     <!-- END switch_profile_fields -->
 <!-- END switch_informations_menu -->
-<!-- BEGIN switch_informations_menu -->
-    <!-- BEGIN switch_profile_fields -->
-        <!-- BEGIN field -->
-        {switch_informations_menu.switch_profile_fields.field.NAME}
-        <!-- END field -->
-    <!-- END switch_profile_fields -->
-<!-- END switch_informations_menu -->
-<!-- BEGIN switch_informations_menu -->
-    <!-- BEGIN switch_profile_fields -->
-        <!-- BEGIN field -->
-        {switch_informations_menu.switch_profile_fields.field.NAME}
-        <!-- END field -->
-    <!-- END switch_profile_fields -->
-<!-- END switch_informations_menu -->
-<!-- BEGIN switch_informations_menu -->
-    <!-- BEGIN switch_profile_fields -->
-        <!-- BEGIN field -->
-        {switch_informations_menu.switch_profile_fields.field.NAME}
-        <!-- END field -->
-    <!-- END switch_profile_fields -->
-<!-- END switch_informations_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.field.NAME)

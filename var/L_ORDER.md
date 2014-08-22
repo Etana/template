@@ -5,22 +5,6 @@
 
 ```smarty
 {L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
-{L_ORDER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ORDER)

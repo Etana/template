@@ -5,9 +5,6 @@
 
 ```smarty
 {FORUM_LANGUAGE}
-{FORUM_LANGUAGE}
-{FORUM_LANGUAGE}
-{FORUM_LANGUAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_LANGUAGE)

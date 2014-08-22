@@ -5,9 +5,6 @@
 
 ```smarty
 {ADD_USERNAME_IMG}
-{ADD_USERNAME_IMG}
-{ADD_USERNAME_IMG}
-{ADD_USERNAME_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ADD_USERNAME_IMG)

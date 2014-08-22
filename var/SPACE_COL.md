@@ -5,11 +5,6 @@
 
 ```smarty
 {SPACE_COL}
-{SPACE_COL}
-{SPACE_COL}
-{SPACE_COL}
-{SPACE_COL}
-{SPACE_COL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SPACE_COL)

@@ -5,7 +5,6 @@
 
 ```smarty
 {MUST_LABEL_1}
-{MUST_LABEL_1}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MUST_LABEL_1)

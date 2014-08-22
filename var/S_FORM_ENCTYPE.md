@@ -5,10 +5,6 @@
 
 ```smarty
 {S_FORM_ENCTYPE}
-{S_FORM_ENCTYPE}
-{S_FORM_ENCTYPE}
-{S_FORM_ENCTYPE}
-{S_FORM_ENCTYPE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_FORM_ENCTYPE)

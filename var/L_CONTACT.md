@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CONTACT}
-{L_CONTACT}
-{L_CONTACT}
-{L_CONTACT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CONTACT)

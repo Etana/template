@@ -5,9 +5,6 @@
 
 ```smarty
 {L_GROUP_OPEN}
-{L_GROUP_OPEN}
-{L_GROUP_OPEN}
-{L_GROUP_OPEN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_OPEN)

@@ -5,9 +5,6 @@
 
 ```smarty
 {U_PRIVATEMSGS_POPUP}
-{U_PRIVATEMSGS_POPUP}
-{U_PRIVATEMSGS_POPUP}
-{U_PRIVATEMSGS_POPUP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS_POPUP)

@@ -11,27 +11,6 @@
         <!-- END profile_field -->
     <!-- END displayed -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN profile_field -->
-        contenu sur lequel on boucle
-        <!-- END profile_field -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN profile_field -->
-        contenu sur lequel on boucle
-        <!-- END profile_field -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN profile_field -->
-        contenu sur lequel on boucle
-        <!-- END profile_field -->
-    <!-- END displayed -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field)

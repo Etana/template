@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ALLOWED_ZIP}
-{L_ALLOWED_ZIP}
-{L_ALLOWED_ZIP}
-{L_ALLOWED_ZIP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ALLOWED_ZIP)

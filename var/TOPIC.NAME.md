@@ -7,27 +7,6 @@
 <!-- BEGIN TOPIC -->
 {TOPIC.NAME}
 <!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.NAME}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.NAME}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.NAME}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.NAME}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.NAME}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.NAME}
-<!-- END TOPIC -->
-<!-- BEGIN TOPIC -->
-{TOPIC.NAME}
-<!-- END TOPIC -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC.NAME)

@@ -5,8 +5,6 @@
 
 ```smarty
 {L_GALLERIES}
-{L_GALLERIES}
-{L_GALLERIES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GALLERIES)

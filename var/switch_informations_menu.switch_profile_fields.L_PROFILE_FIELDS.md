@@ -9,11 +9,6 @@
     {switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS}
     <!-- END switch_profile_fields -->
 <!-- END switch_informations_menu -->
-<!-- BEGIN switch_informations_menu -->
-    <!-- BEGIN switch_profile_fields -->
-    {switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS}
-    <!-- END switch_profile_fields -->
-<!-- END switch_informations_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS)

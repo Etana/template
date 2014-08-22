@@ -5,13 +5,6 @@
 
 ```smarty
 {SITENAME_TITLE}
-{SITENAME_TITLE}
-{SITENAME_TITLE}
-{SITENAME_TITLE}
-{SITENAME_TITLE}
-{SITENAME_TITLE}
-{SITENAME_TITLE}
-{SITENAME_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SITENAME_TITLE)

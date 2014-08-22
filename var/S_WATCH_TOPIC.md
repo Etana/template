@@ -5,8 +5,6 @@
 
 ```smarty
 {S_WATCH_TOPIC}
-{S_WATCH_TOPIC}
-{S_WATCH_TOPIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_WATCH_TOPIC)

@@ -9,21 +9,6 @@
     {postrow.hidden.ROW_CLASS}
     <!-- END hidden -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    {postrow.hidden.ROW_CLASS}
-    <!-- END hidden -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    {postrow.hidden.ROW_CLASS}
-    <!-- END hidden -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    {postrow.hidden.ROW_CLASS}
-    <!-- END hidden -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.hidden.ROW_CLASS)

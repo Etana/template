@@ -7,27 +7,6 @@
 <!-- BEGIN picrow -->
 {picrow.PIC_MESSAGE}
 <!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_MESSAGE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_MESSAGE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_MESSAGE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_MESSAGE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_MESSAGE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_MESSAGE}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.PIC_MESSAGE}
-<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.PIC_MESSAGE)

@@ -5,9 +5,6 @@
 
 ```smarty
 {MY_RULES}
-{MY_RULES}
-{MY_RULES}
-{MY_RULES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MY_RULES)

@@ -5,9 +5,6 @@
 
 ```smarty
 {U_ALBUM_SHOWPAGE}
-{U_ALBUM_SHOWPAGE}
-{U_ALBUM_SHOWPAGE}
-{U_ALBUM_SHOWPAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_ALBUM_SHOWPAGE)

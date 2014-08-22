@@ -5,9 +5,6 @@
 
 ```smarty
 {POST_PREVENT_YES}
-{POST_PREVENT_YES}
-{POST_PREVENT_YES}
-{POST_PREVENT_YES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_PREVENT_YES)

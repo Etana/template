@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END saut -->
 <!-- END giefmod4 -->
-<!-- BEGIN giefmod4 -->
-    <!-- BEGIN saut -->
-    contenu sur lequel on boucle
-    <!-- END saut -->
-<!-- END giefmod4 -->
-<!-- BEGIN giefmod4 -->
-    <!-- BEGIN saut -->
-    contenu sur lequel on boucle
-    <!-- END saut -->
-<!-- END giefmod4 -->
-<!-- BEGIN giefmod4 -->
-    <!-- BEGIN saut -->
-    contenu sur lequel on boucle
-    <!-- END saut -->
-<!-- END giefmod4 -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod4.saut)

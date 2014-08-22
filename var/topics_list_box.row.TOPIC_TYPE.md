@@ -9,21 +9,6 @@
     {topics_list_box.row.TOPIC_TYPE}
     <!-- END row -->
 <!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-    {topics_list_box.row.TOPIC_TYPE}
-    <!-- END row -->
-<!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-    {topics_list_box.row.TOPIC_TYPE}
-    <!-- END row -->
-<!-- END topics_list_box -->
-<!-- BEGIN topics_list_box -->
-    <!-- BEGIN row -->
-    {topics_list_box.row.TOPIC_TYPE}
-    <!-- END row -->
-<!-- END topics_list_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.TOPIC_TYPE)

@@ -7,15 +7,6 @@
 <!-- BEGIN switch_roll_dice -->
 contenu sur lequel on boucle
 <!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-contenu sur lequel on boucle
-<!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-contenu sur lequel on boucle
-<!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-contenu sur lequel on boucle
-<!-- END switch_roll_dice -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice)

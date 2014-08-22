@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NUFF_PIXELATE}
-{L_NUFF_PIXELATE}
-{L_NUFF_PIXELATE}
-{L_NUFF_PIXELATE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_PIXELATE)

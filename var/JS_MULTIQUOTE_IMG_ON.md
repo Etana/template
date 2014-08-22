@@ -5,9 +5,6 @@
 
 ```smarty
 {JS_MULTIQUOTE_IMG_ON}
-{JS_MULTIQUOTE_IMG_ON}
-{JS_MULTIQUOTE_IMG_ON}
-{JS_MULTIQUOTE_IMG_ON}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_MULTIQUOTE_IMG_ON)

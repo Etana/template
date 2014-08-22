@@ -5,26 +5,6 @@
 
 ```smarty
 {L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
-{L_PM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PM)

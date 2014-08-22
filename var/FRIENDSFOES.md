@@ -5,9 +5,6 @@
 
 ```smarty
 {FRIENDSFOES}
-{FRIENDSFOES}
-{FRIENDSFOES}
-{FRIENDSFOES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FRIENDSFOES)

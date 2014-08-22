@@ -9,21 +9,6 @@
     {_calendar_box._cell.L_DAY}
     <!-- END _cell -->
 <!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-    <!-- BEGIN _cell -->
-    {_calendar_box._cell.L_DAY}
-    <!-- END _cell -->
-<!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-    <!-- BEGIN _cell -->
-    {_calendar_box._cell.L_DAY}
-    <!-- END _cell -->
-<!-- END _calendar_box -->
-<!-- BEGIN _calendar_box -->
-    <!-- BEGIN _cell -->
-    {_calendar_box._cell.L_DAY}
-    <!-- END _cell -->
-<!-- END _calendar_box -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._cell.L_DAY)

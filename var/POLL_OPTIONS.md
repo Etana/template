@@ -5,9 +5,6 @@
 
 ```smarty
 {POLL_OPTIONS}
-{POLL_OPTIONS}
-{POLL_OPTIONS}
-{POLL_OPTIONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLL_OPTIONS)

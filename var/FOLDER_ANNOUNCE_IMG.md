@@ -5,9 +5,6 @@
 
 ```smarty
 {FOLDER_ANNOUNCE_IMG}
-{FOLDER_ANNOUNCE_IMG}
-{FOLDER_ANNOUNCE_IMG}
-{FOLDER_ANNOUNCE_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FOLDER_ANNOUNCE_IMG)

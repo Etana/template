@@ -5,9 +5,6 @@
 
 ```smarty
 {POST_ICON_TITLE}
-{POST_ICON_TITLE}
-{POST_ICON_TITLE}
-{POST_ICON_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_ICON_TITLE)

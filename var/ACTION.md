@@ -5,9 +5,6 @@
 
 ```smarty
 {ACTION}
-{ACTION}
-{ACTION}
-{ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ACTION)

@@ -5,9 +5,6 @@
 
 ```smarty
 {PROFILE_IMG}
-{PROFILE_IMG}
-{PROFILE_IMG}
-{PROFILE_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PROFILE_IMG)

@@ -5,9 +5,6 @@
 
 ```smarty
 {ADMIN_LINK}
-{ADMIN_LINK}
-{ADMIN_LINK}
-{ADMIN_LINK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ADMIN_LINK)

@@ -5,9 +5,6 @@
 
 ```smarty
 {V_MODE}
-{V_MODE}
-{V_MODE}
-{V_MODE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_MODE)

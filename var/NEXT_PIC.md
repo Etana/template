@@ -5,13 +5,6 @@
 
 ```smarty
 {NEXT_PIC}
-{NEXT_PIC}
-{NEXT_PIC}
-{NEXT_PIC}
-{NEXT_PIC}
-{NEXT_PIC}
-{NEXT_PIC}
-{NEXT_PIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NEXT_PIC)

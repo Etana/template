@@ -5,13 +5,6 @@
 
 ```smarty
 {L_FORUM_RULES}
-{L_FORUM_RULES}
-{L_FORUM_RULES}
-{L_FORUM_RULES}
-{L_FORUM_RULES}
-{L_FORUM_RULES}
-{L_FORUM_RULES}
-{L_FORUM_RULES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FORUM_RULES)

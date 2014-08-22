@@ -7,18 +7,6 @@
 <!-- BEGIN switch_sticky -->
 contenu sur lequel on boucle
 <!-- END switch_sticky -->
-<!-- BEGIN switch_sticky -->
-contenu sur lequel on boucle
-<!-- END switch_sticky -->
-<!-- BEGIN switch_sticky -->
-contenu sur lequel on boucle
-<!-- END switch_sticky -->
-<!-- BEGIN switch_sticky -->
-contenu sur lequel on boucle
-<!-- END switch_sticky -->
-<!-- BEGIN switch_sticky -->
-contenu sur lequel on boucle
-<!-- END switch_sticky -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_sticky)

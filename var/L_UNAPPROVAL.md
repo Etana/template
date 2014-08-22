@@ -5,12 +5,6 @@
 
 ```smarty
 {L_UNAPPROVAL}
-{L_UNAPPROVAL}
-{L_UNAPPROVAL}
-{L_UNAPPROVAL}
-{L_UNAPPROVAL}
-{L_UNAPPROVAL}
-{L_UNAPPROVAL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UNAPPROVAL)

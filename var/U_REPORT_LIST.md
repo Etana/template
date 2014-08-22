@@ -5,17 +5,6 @@
 
 ```smarty
 {U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
-{U_REPORT_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_REPORT_LIST)

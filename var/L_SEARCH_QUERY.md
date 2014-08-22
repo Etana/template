@@ -5,12 +5,6 @@
 
 ```smarty
 {L_SEARCH_QUERY}
-{L_SEARCH_QUERY}
-{L_SEARCH_QUERY}
-{L_SEARCH_QUERY}
-{L_SEARCH_QUERY}
-{L_SEARCH_QUERY}
-{L_SEARCH_QUERY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_QUERY)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CONFIRM_PASSWORD}
-{L_CONFIRM_PASSWORD}
-{L_CONFIRM_PASSWORD}
-{L_CONFIRM_PASSWORD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CONFIRM_PASSWORD)

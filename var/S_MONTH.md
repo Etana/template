@@ -5,9 +5,6 @@
 
 ```smarty
 {S_MONTH}
-{S_MONTH}
-{S_MONTH}
-{S_MONTH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MONTH)

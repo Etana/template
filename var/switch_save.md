@@ -7,27 +7,6 @@
 <!-- BEGIN switch_save -->
 contenu sur lequel on boucle
 <!-- END switch_save -->
-<!-- BEGIN switch_save -->
-contenu sur lequel on boucle
-<!-- END switch_save -->
-<!-- BEGIN switch_save -->
-contenu sur lequel on boucle
-<!-- END switch_save -->
-<!-- BEGIN switch_save -->
-contenu sur lequel on boucle
-<!-- END switch_save -->
-<!-- BEGIN switch_save -->
-contenu sur lequel on boucle
-<!-- END switch_save -->
-<!-- BEGIN switch_save -->
-contenu sur lequel on boucle
-<!-- END switch_save -->
-<!-- BEGIN switch_save -->
-contenu sur lequel on boucle
-<!-- END switch_save -->
-<!-- BEGIN switch_save -->
-contenu sur lequel on boucle
-<!-- END switch_save -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_save)

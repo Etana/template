@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SPLIT_FORUM}
-{L_SPLIT_FORUM}
-{L_SPLIT_FORUM}
-{L_SPLIT_FORUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_FORUM)

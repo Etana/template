@@ -7,15 +7,6 @@
 <!-- BEGIN switch_delete -->
 contenu sur lequel on boucle
 <!-- END switch_delete -->
-<!-- BEGIN switch_delete -->
-contenu sur lequel on boucle
-<!-- END switch_delete -->
-<!-- BEGIN switch_delete -->
-contenu sur lequel on boucle
-<!-- END switch_delete -->
-<!-- BEGIN switch_delete -->
-contenu sur lequel on boucle
-<!-- END switch_delete -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_delete)

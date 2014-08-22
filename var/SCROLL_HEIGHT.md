@@ -5,9 +5,6 @@
 
 ```smarty
 {SCROLL_HEIGHT}
-{SCROLL_HEIGHT}
-{SCROLL_HEIGHT}
-{SCROLL_HEIGHT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SCROLL_HEIGHT)

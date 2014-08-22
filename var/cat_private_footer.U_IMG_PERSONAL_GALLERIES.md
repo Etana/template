@@ -7,15 +7,6 @@
 <!-- BEGIN cat_private_footer -->
 {cat_private_footer.U_IMG_PERSONAL_GALLERIES}
 <!-- END cat_private_footer -->
-<!-- BEGIN cat_private_footer -->
-{cat_private_footer.U_IMG_PERSONAL_GALLERIES}
-<!-- END cat_private_footer -->
-<!-- BEGIN cat_private_footer -->
-{cat_private_footer.U_IMG_PERSONAL_GALLERIES}
-<!-- END cat_private_footer -->
-<!-- BEGIN cat_private_footer -->
-{cat_private_footer.U_IMG_PERSONAL_GALLERIES}
-<!-- END cat_private_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cat_private_footer.U_IMG_PERSONAL_GALLERIES)

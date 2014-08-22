@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ATTACHMENT_ADD_HELP}
-{L_ATTACHMENT_ADD_HELP}
-{L_ATTACHMENT_ADD_HELP}
-{L_ATTACHMENT_ADD_HELP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ATTACHMENT_ADD_HELP)

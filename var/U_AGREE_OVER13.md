@@ -5,9 +5,6 @@
 
 ```smarty
 {U_AGREE_OVER13}
-{U_AGREE_OVER13}
-{U_AGREE_OVER13}
-{U_AGREE_OVER13}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_AGREE_OVER13)

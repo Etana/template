@@ -9,21 +9,6 @@
     {switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}
     <!-- END switch_fb_connect -->
 <!-- END switch_user_login_form_header -->
-<!-- BEGIN switch_user_login_form_header -->
-    <!-- BEGIN switch_fb_connect -->
-    {switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}
-    <!-- END switch_fb_connect -->
-<!-- END switch_user_login_form_header -->
-<!-- BEGIN switch_user_login_form_header -->
-    <!-- BEGIN switch_fb_connect -->
-    {switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}
-    <!-- END switch_fb_connect -->
-<!-- END switch_user_login_form_header -->
-<!-- BEGIN switch_user_login_form_header -->
-    <!-- BEGIN switch_fb_connect -->
-    {switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}
-    <!-- END switch_fb_connect -->
-<!-- END switch_user_login_form_header -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON)

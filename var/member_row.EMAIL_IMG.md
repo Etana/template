@@ -7,15 +7,6 @@
 <!-- BEGIN member_row -->
 {member_row.EMAIL_IMG}
 <!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.EMAIL_IMG}
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.EMAIL_IMG}
-<!-- END member_row -->
-<!-- BEGIN member_row -->
-{member_row.EMAIL_IMG}
-<!-- END member_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/member_row.EMAIL_IMG)

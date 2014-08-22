@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NOTIFY_ON_REPLY_EXPLAIN}
-{L_NOTIFY_ON_REPLY_EXPLAIN}
-{L_NOTIFY_ON_REPLY_EXPLAIN}
-{L_NOTIFY_ON_REPLY_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NOTIFY_ON_REPLY_EXPLAIN)

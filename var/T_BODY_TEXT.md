@@ -5,9 +5,6 @@
 
 ```smarty
 {T_BODY_TEXT}
-{T_BODY_TEXT}
-{T_BODY_TEXT}
-{T_BODY_TEXT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_BODY_TEXT)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SAVE_MSG}
-{L_SAVE_MSG}
-{L_SAVE_MSG}
-{L_SAVE_MSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SAVE_MSG)

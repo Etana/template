@@ -5,14 +5,6 @@
 
 ```smarty
 {GROUP_NAME}
-{GROUP_NAME}
-{GROUP_NAME}
-{GROUP_NAME}
-{GROUP_NAME}
-{GROUP_NAME}
-{GROUP_NAME}
-{GROUP_NAME}
-{GROUP_NAME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_NAME)

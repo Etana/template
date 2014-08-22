@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DRAFT}
-{L_DRAFT}
-{L_DRAFT}
-{L_DRAFT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DRAFT)

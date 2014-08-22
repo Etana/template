@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_TIME}
-{PIC_TIME}
-{PIC_TIME}
-{PIC_TIME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_TIME)

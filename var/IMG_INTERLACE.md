@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_INTERLACE}
-{IMG_INTERLACE}
-{IMG_INTERLACE}
-{IMG_INTERLACE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_INTERLACE)

@@ -5,10 +5,6 @@
 
 ```smarty
 {L_MARK_ALL}
-{L_MARK_ALL}
-{L_MARK_ALL}
-{L_MARK_ALL}
-{L_MARK_ALL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MARK_ALL)

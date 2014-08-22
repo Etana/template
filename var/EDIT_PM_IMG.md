@@ -5,9 +5,6 @@
 
 ```smarty
 {EDIT_PM_IMG}
-{EDIT_PM_IMG}
-{EDIT_PM_IMG}
-{EDIT_PM_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/EDIT_PM_IMG)

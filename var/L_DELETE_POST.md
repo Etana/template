@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DELETE_POST}
-{L_DELETE_POST}
-{L_DELETE_POST}
-{L_DELETE_POST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_POST)

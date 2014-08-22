@@ -7,15 +7,6 @@
 <!-- BEGIN topicrow -->
 {topicrow.TOPIC_FOLDER_IMG}
 <!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.TOPIC_FOLDER_IMG}
-<!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.TOPIC_FOLDER_IMG}
-<!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.TOPIC_FOLDER_IMG}
-<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_FOLDER_IMG)

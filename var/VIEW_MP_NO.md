@@ -5,9 +5,6 @@
 
 ```smarty
 {VIEW_MP_NO}
-{VIEW_MP_NO}
-{VIEW_MP_NO}
-{VIEW_MP_NO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/VIEW_MP_NO)

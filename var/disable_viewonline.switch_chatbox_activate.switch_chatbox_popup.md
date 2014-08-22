@@ -11,27 +11,6 @@
         <!-- END switch_chatbox_popup -->
     <!-- END switch_chatbox_activate -->
 <!-- END disable_viewonline -->
-<!-- BEGIN disable_viewonline -->
-    <!-- BEGIN switch_chatbox_activate -->
-        <!-- BEGIN switch_chatbox_popup -->
-        contenu sur lequel on boucle
-        <!-- END switch_chatbox_popup -->
-    <!-- END switch_chatbox_activate -->
-<!-- END disable_viewonline -->
-<!-- BEGIN disable_viewonline -->
-    <!-- BEGIN switch_chatbox_activate -->
-        <!-- BEGIN switch_chatbox_popup -->
-        contenu sur lequel on boucle
-        <!-- END switch_chatbox_popup -->
-    <!-- END switch_chatbox_activate -->
-<!-- END disable_viewonline -->
-<!-- BEGIN disable_viewonline -->
-    <!-- BEGIN switch_chatbox_activate -->
-        <!-- BEGIN switch_chatbox_popup -->
-        contenu sur lequel on boucle
-        <!-- END switch_chatbox_popup -->
-    <!-- END switch_chatbox_activate -->
-<!-- END disable_viewonline -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup)

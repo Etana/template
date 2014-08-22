@@ -5,28 +5,6 @@
 
 ```smarty
 {L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
-{L_SUBJECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SUBJECT)

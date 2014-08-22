@@ -7,15 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.NEWEST_POST_IMG}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.NEWEST_POST_IMG}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.NEWEST_POST_IMG}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.NEWEST_POST_IMG}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.NEWEST_POST_IMG)

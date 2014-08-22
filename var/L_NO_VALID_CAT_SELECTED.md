@@ -5,9 +5,6 @@
 
 ```smarty
 {L_NO_VALID_CAT_SELECTED}
-{L_NO_VALID_CAT_SELECTED}
-{L_NO_VALID_CAT_SELECTED}
-{L_NO_VALID_CAT_SELECTED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NO_VALID_CAT_SELECTED)

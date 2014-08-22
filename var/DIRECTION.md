@@ -5,8 +5,6 @@
 
 ```smarty
 {DIRECTION}
-{DIRECTION}
-{DIRECTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DIRECTION)

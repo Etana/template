@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MY_FRIENDS}
-{L_MY_FRIENDS}
-{L_MY_FRIENDS}
-{L_MY_FRIENDS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MY_FRIENDS)

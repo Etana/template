@@ -5,13 +5,6 @@
 
 ```smarty
 {U_PIC}
-{U_PIC}
-{U_PIC}
-{U_PIC}
-{U_PIC}
-{U_PIC}
-{U_PIC}
-{U_PIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PIC)

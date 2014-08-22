@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END credits_option -->
 <!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN credits_option -->
-    contenu sur lequel on boucle
-    <!-- END credits_option -->
-<!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN credits_option -->
-    contenu sur lequel on boucle
-    <!-- END credits_option -->
-<!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN credits_option -->
-    contenu sur lequel on boucle
-    <!-- END credits_option -->
-<!-- END credit_card_method -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.credits_option)

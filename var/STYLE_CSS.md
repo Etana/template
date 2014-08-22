@@ -5,16 +5,6 @@
 
 ```smarty
 {STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
-{STYLE_CSS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/STYLE_CSS)

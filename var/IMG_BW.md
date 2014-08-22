@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_BW}
-{IMG_BW}
-{IMG_BW}
-{IMG_BW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_BW)

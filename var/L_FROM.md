@@ -5,17 +5,6 @@
 
 ```smarty
 {L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
-{L_FROM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FROM)

@@ -7,15 +7,6 @@
 <!-- BEGIN switch_subscribe_group_input -->
 contenu sur lequel on boucle
 <!-- END switch_subscribe_group_input -->
-<!-- BEGIN switch_subscribe_group_input -->
-contenu sur lequel on boucle
-<!-- END switch_subscribe_group_input -->
-<!-- BEGIN switch_subscribe_group_input -->
-contenu sur lequel on boucle
-<!-- END switch_subscribe_group_input -->
-<!-- BEGIN switch_subscribe_group_input -->
-contenu sur lequel on boucle
-<!-- END switch_subscribe_group_input -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_subscribe_group_input)

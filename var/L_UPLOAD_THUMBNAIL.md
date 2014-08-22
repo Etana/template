@@ -5,9 +5,6 @@
 
 ```smarty
 {L_UPLOAD_THUMBNAIL}
-{L_UPLOAD_THUMBNAIL}
-{L_UPLOAD_THUMBNAIL}
-{L_UPLOAD_THUMBNAIL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UPLOAD_THUMBNAIL)

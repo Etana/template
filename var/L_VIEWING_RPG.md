@@ -5,9 +5,6 @@
 
 ```smarty
 {L_VIEWING_RPG}
-{L_VIEWING_RPG}
-{L_VIEWING_RPG}
-{L_VIEWING_RPG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_VIEWING_RPG)

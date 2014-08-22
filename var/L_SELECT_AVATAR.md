@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SELECT_AVATAR}
-{L_SELECT_AVATAR}
-{L_SELECT_AVATAR}
-{L_SELECT_AVATAR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SELECT_AVATAR)

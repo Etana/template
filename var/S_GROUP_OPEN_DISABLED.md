@@ -5,9 +5,6 @@
 
 ```smarty
 {S_GROUP_OPEN_DISABLED}
-{S_GROUP_OPEN_DISABLED}
-{S_GROUP_OPEN_DISABLED}
-{S_GROUP_OPEN_DISABLED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_OPEN_DISABLED)

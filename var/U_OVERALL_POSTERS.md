@@ -5,9 +5,6 @@
 
 ```smarty
 {U_OVERALL_POSTERS}
-{U_OVERALL_POSTERS}
-{U_OVERALL_POSTERS}
-{U_OVERALL_POSTERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_OVERALL_POSTERS)

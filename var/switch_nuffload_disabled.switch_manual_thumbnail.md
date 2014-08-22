@@ -9,41 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_manual_thumbnail -->
 <!-- END switch_nuffload_disabled -->
-<!-- BEGIN switch_nuffload_disabled -->
-    <!-- BEGIN switch_manual_thumbnail -->
-    contenu sur lequel on boucle
-    <!-- END switch_manual_thumbnail -->
-<!-- END switch_nuffload_disabled -->
-<!-- BEGIN switch_nuffload_disabled -->
-    <!-- BEGIN switch_manual_thumbnail -->
-    contenu sur lequel on boucle
-    <!-- END switch_manual_thumbnail -->
-<!-- END switch_nuffload_disabled -->
-<!-- BEGIN switch_nuffload_disabled -->
-    <!-- BEGIN switch_manual_thumbnail -->
-    contenu sur lequel on boucle
-    <!-- END switch_manual_thumbnail -->
-<!-- END switch_nuffload_disabled -->
-<!-- BEGIN switch_nuffload_disabled -->
-    <!-- BEGIN switch_manual_thumbnail -->
-    contenu sur lequel on boucle
-    <!-- END switch_manual_thumbnail -->
-<!-- END switch_nuffload_disabled -->
-<!-- BEGIN switch_nuffload_disabled -->
-    <!-- BEGIN switch_manual_thumbnail -->
-    contenu sur lequel on boucle
-    <!-- END switch_manual_thumbnail -->
-<!-- END switch_nuffload_disabled -->
-<!-- BEGIN switch_nuffload_disabled -->
-    <!-- BEGIN switch_manual_thumbnail -->
-    contenu sur lequel on boucle
-    <!-- END switch_manual_thumbnail -->
-<!-- END switch_nuffload_disabled -->
-<!-- BEGIN switch_nuffload_disabled -->
-    <!-- BEGIN switch_manual_thumbnail -->
-    contenu sur lequel on boucle
-    <!-- END switch_manual_thumbnail -->
-<!-- END switch_nuffload_disabled -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_disabled.switch_manual_thumbnail)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SORT_BY}
-{L_SORT_BY}
-{L_SORT_BY}
-{L_SORT_BY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SORT_BY)

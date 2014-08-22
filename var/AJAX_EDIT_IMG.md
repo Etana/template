@@ -5,9 +5,6 @@
 
 ```smarty
 {AJAX_EDIT_IMG}
-{AJAX_EDIT_IMG}
-{AJAX_EDIT_IMG}
-{AJAX_EDIT_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AJAX_EDIT_IMG)

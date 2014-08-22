@@ -5,13 +5,6 @@
 
 ```smarty
 {TOPIC_URL}
-{TOPIC_URL}
-{TOPIC_URL}
-{TOPIC_URL}
-{TOPIC_URL}
-{TOPIC_URL}
-{TOPIC_URL}
-{TOPIC_URL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC_URL)

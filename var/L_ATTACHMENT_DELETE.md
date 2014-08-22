@@ -5,10 +5,6 @@
 
 ```smarty
 {L_ATTACHMENT_DELETE}
-{L_ATTACHMENT_DELETE}
-{L_ATTACHMENT_DELETE}
-{L_ATTACHMENT_DELETE}
-{L_ATTACHMENT_DELETE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ATTACHMENT_DELETE)

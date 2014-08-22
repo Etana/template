@@ -5,9 +5,6 @@
 
 ```smarty
 {EXT_LIST}
-{EXT_LIST}
-{EXT_LIST}
-{EXT_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/EXT_LIST)

@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_RESIZE}
-{IMG_RESIZE}
-{IMG_RESIZE}
-{IMG_RESIZE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_RESIZE)

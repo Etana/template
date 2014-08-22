@@ -5,9 +5,6 @@
 
 ```smarty
 {JSPWD}
-{JSPWD}
-{JSPWD}
-{JSPWD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JSPWD)

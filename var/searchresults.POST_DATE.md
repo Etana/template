@@ -7,15 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.POST_DATE}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.POST_DATE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.POST_DATE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.POST_DATE}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POST_DATE)

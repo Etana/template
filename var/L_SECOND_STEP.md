@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SECOND_STEP}
-{L_SECOND_STEP}
-{L_SECOND_STEP}
-{L_SECOND_STEP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SECOND_STEP)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MARK}
-{L_MARK}
-{L_MARK}
-{L_MARK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MARK)

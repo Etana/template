@@ -7,15 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.LAST_POST_TIME}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.LAST_POST_TIME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.LAST_POST_TIME}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.LAST_POST_TIME}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.LAST_POST_TIME)

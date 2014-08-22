@@ -5,9 +5,6 @@
 
 ```smarty
 {AJAX_VALID_IMG}
-{AJAX_VALID_IMG}
-{AJAX_VALID_IMG}
-{AJAX_VALID_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AJAX_VALID_IMG)

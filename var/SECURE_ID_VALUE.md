@@ -5,9 +5,6 @@
 
 ```smarty
 {SECURE_ID_VALUE}
-{SECURE_ID_VALUE}
-{SECURE_ID_VALUE}
-{SECURE_ID_VALUE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SECURE_ID_VALUE)

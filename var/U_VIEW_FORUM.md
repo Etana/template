@@ -5,11 +5,6 @@
 
 ```smarty
 {U_VIEW_FORUM}
-{U_VIEW_FORUM}
-{U_VIEW_FORUM}
-{U_VIEW_FORUM}
-{U_VIEW_FORUM}
-{U_VIEW_FORUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_VIEW_FORUM)

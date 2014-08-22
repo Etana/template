@@ -5,9 +5,6 @@
 
 ```smarty
 {L_USER_SELECT_VALUE}
-{L_USER_SELECT_VALUE}
-{L_USER_SELECT_VALUE}
-{L_USER_SELECT_VALUE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_USER_SELECT_VALUE)

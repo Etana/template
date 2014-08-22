@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ENABLE_MASS_PM}
-{L_ENABLE_MASS_PM}
-{L_ENABLE_MASS_PM}
-{L_ENABLE_MASS_PM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ENABLE_MASS_PM)

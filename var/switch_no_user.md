@@ -7,15 +7,6 @@
 <!-- BEGIN switch_no_user -->
 contenu sur lequel on boucle
 <!-- END switch_no_user -->
-<!-- BEGIN switch_no_user -->
-contenu sur lequel on boucle
-<!-- END switch_no_user -->
-<!-- BEGIN switch_no_user -->
-contenu sur lequel on boucle
-<!-- END switch_no_user -->
-<!-- BEGIN switch_no_user -->
-contenu sur lequel on boucle
-<!-- END switch_no_user -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_no_user)

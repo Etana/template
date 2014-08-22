@@ -5,27 +5,6 @@
 
 ```smarty
 {JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
-{JUMPBOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JUMPBOX)

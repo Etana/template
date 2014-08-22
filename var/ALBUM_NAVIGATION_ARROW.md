@@ -5,7 +5,6 @@
 
 ```smarty
 {ALBUM_NAVIGATION_ARROW}
-{ALBUM_NAVIGATION_ARROW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ALBUM_NAVIGATION_ARROW)

@@ -5,12 +5,6 @@
 
 ```smarty
 {U_ADMIN_RPG}
-{U_ADMIN_RPG}
-{U_ADMIN_RPG}
-{U_ADMIN_RPG}
-{U_ADMIN_RPG}
-{U_ADMIN_RPG}
-{U_ADMIN_RPG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_ADMIN_RPG)

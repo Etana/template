@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PENDING_GROUPS}
-{L_PENDING_GROUPS}
-{L_PENDING_GROUPS}
-{L_PENDING_GROUPS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PENDING_GROUPS)

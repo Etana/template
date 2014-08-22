@@ -5,9 +5,6 @@
 
 ```smarty
 {L_REMOVE_SELECTED}
-{L_REMOVE_SELECTED}
-{L_REMOVE_SELECTED}
-{L_REMOVE_SELECTED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REMOVE_SELECTED)

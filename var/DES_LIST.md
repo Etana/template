@@ -5,9 +5,6 @@
 
 ```smarty
 {DES_LIST}
-{DES_LIST}
-{DES_LIST}
-{DES_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DES_LIST)

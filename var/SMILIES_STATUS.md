@@ -5,11 +5,6 @@
 
 ```smarty
 {SMILIES_STATUS}
-{SMILIES_STATUS}
-{SMILIES_STATUS}
-{SMILIES_STATUS}
-{SMILIES_STATUS}
-{SMILIES_STATUS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SMILIES_STATUS)

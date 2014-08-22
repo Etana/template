@@ -5,11 +5,6 @@
 
 ```smarty
 {L_MOD_CP}
-{L_MOD_CP}
-{L_MOD_CP}
-{L_MOD_CP}
-{L_MOD_CP}
-{L_MOD_CP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MOD_CP)

@@ -9,21 +9,6 @@
     {postrow.displayed.MULTIQUOTE_IMG}
     <!-- END displayed -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-    {postrow.displayed.MULTIQUOTE_IMG}
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-    {postrow.displayed.MULTIQUOTE_IMG}
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-    {postrow.displayed.MULTIQUOTE_IMG}
-    <!-- END displayed -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.MULTIQUOTE_IMG)

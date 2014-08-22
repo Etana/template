@@ -5,13 +5,6 @@
 
 ```smarty
 {L_CHECK_ALL}
-{L_CHECK_ALL}
-{L_CHECK_ALL}
-{L_CHECK_ALL}
-{L_CHECK_ALL}
-{L_CHECK_ALL}
-{L_CHECK_ALL}
-{L_CHECK_ALL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CHECK_ALL)

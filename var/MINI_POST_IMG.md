@@ -5,8 +5,6 @@
 
 ```smarty
 {MINI_POST_IMG}
-{MINI_POST_IMG}
-{MINI_POST_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MINI_POST_IMG)

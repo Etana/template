@@ -5,9 +5,6 @@
 
 ```smarty
 {G_ANALYTICS_ID}
-{G_ANALYTICS_ID}
-{G_ANALYTICS_ID}
-{G_ANALYTICS_ID}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID)

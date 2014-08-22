@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_INFRARED_CHECKED}
-{NUFF_INFRARED_CHECKED}
-{NUFF_INFRARED_CHECKED}
-{NUFF_INFRARED_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_INFRARED_CHECKED)

@@ -5,18 +5,6 @@
 
 ```smarty
 {L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
-{L_DESC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DESC)

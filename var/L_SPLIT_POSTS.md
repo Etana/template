@@ -5,13 +5,6 @@
 
 ```smarty
 {L_SPLIT_POSTS}
-{L_SPLIT_POSTS}
-{L_SPLIT_POSTS}
-{L_SPLIT_POSTS}
-{L_SPLIT_POSTS}
-{L_SPLIT_POSTS}
-{L_SPLIT_POSTS}
-{L_SPLIT_POSTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SPLIT_POSTS)

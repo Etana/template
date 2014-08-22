@@ -5,9 +5,6 @@
 
 ```smarty
 {URL_RETURN}
-{URL_RETURN}
-{URL_RETURN}
-{URL_RETURN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/URL_RETURN)

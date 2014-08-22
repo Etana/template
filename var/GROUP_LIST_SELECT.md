@@ -5,9 +5,6 @@
 
 ```smarty
 {GROUP_LIST_SELECT}
-{GROUP_LIST_SELECT}
-{GROUP_LIST_SELECT}
-{GROUP_LIST_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_LIST_SELECT)

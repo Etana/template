@@ -5,7 +5,6 @@
 
 ```smarty
 {L_HUMOR}
-{L_HUMOR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_HUMOR)

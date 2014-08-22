@@ -5,9 +5,6 @@
 
 ```smarty
 {L_TIME_DEL}
-{L_TIME_DEL}
-{L_TIME_DEL}
-{L_TIME_DEL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TIME_DEL)

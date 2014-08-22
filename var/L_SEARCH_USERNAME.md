@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SEARCH_USERNAME}
-{L_SEARCH_USERNAME}
-{L_SEARCH_USERNAME}
-{L_SEARCH_USERNAME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_USERNAME)

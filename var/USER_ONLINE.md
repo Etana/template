@@ -5,9 +5,6 @@
 
 ```smarty
 {USER_ONLINE}
-{USER_ONLINE}
-{USER_ONLINE}
-{USER_ONLINE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/USER_ONLINE)

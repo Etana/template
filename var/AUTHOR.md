@@ -5,9 +5,6 @@
 
 ```smarty
 {AUTHOR}
-{AUTHOR}
-{AUTHOR}
-{AUTHOR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AUTHOR)

@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_STYLE_CLOSE}
-{PIC_STYLE_CLOSE}
-{PIC_STYLE_CLOSE}
-{PIC_STYLE_CLOSE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_STYLE_CLOSE)

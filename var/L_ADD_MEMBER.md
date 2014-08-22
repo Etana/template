@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ADD_MEMBER}
-{L_ADD_MEMBER}
-{L_ADD_MEMBER}
-{L_ADD_MEMBER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ADD_MEMBER)

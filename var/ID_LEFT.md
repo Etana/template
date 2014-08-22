@@ -5,9 +5,6 @@
 
 ```smarty
 {ID_LEFT}
-{ID_LEFT}
-{ID_LEFT}
-{ID_LEFT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ID_LEFT)

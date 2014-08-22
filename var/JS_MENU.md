@@ -5,37 +5,6 @@
 
 ```smarty
 {JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
-{JS_MENU}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_MENU)

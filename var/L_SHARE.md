@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SHARE}
-{L_SHARE}
-{L_SHARE}
-{L_SHARE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SHARE)

@@ -7,15 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.TOPIC_ICON}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_ICON}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_ICON}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.TOPIC_ICON}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ICON)

@@ -5,21 +5,6 @@
 
 ```smarty
 {L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
-{L_LANG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LANG)

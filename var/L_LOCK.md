@@ -5,17 +5,6 @@
 
 ```smarty
 {L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
-{L_LOCK}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LOCK)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MAX_UPLOADSIZE}
-{L_MAX_UPLOADSIZE}
-{L_MAX_UPLOADSIZE}
-{L_MAX_UPLOADSIZE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MAX_UPLOADSIZE)

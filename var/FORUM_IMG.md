@@ -5,9 +5,6 @@
 
 ```smarty
 {FORUM_IMG}
-{FORUM_IMG}
-{FORUM_IMG}
-{FORUM_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_IMG)

@@ -5,9 +5,6 @@
 
 ```smarty
 {DELETE_PERSONAL_GALLERY}
-{DELETE_PERSONAL_GALLERY}
-{DELETE_PERSONAL_GALLERY}
-{DELETE_PERSONAL_GALLERY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DELETE_PERSONAL_GALLERY)

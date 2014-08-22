@@ -5,7 +5,6 @@
 
 ```smarty
 {L_HELP}
-{L_HELP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_HELP)

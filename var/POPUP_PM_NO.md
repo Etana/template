@@ -5,9 +5,6 @@
 
 ```smarty
 {POPUP_PM_NO}
-{POPUP_PM_NO}
-{POPUP_PM_NO}
-{POPUP_PM_NO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POPUP_PM_NO)

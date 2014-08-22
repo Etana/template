@@ -5,23 +5,6 @@
 
 ```smarty
 {L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
-{L_PREVIEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PREVIEW)

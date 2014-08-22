@@ -5,9 +5,6 @@
 
 ```smarty
 {V_MESSAGE}
-{V_MESSAGE}
-{V_MESSAGE}
-{V_MESSAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_MESSAGE)

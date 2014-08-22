@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END row_replace -->
 <!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-    <!-- BEGIN row_replace -->
-    contenu sur lequel on boucle
-    <!-- END row_replace -->
-<!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-    <!-- BEGIN row_replace -->
-    contenu sur lequel on boucle
-    <!-- END row_replace -->
-<!-- END switch_roll_dice -->
-<!-- BEGIN switch_roll_dice -->
-    <!-- BEGIN row_replace -->
-    contenu sur lequel on boucle
-    <!-- END row_replace -->
-<!-- END switch_roll_dice -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace)

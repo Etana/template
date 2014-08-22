@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PUBLISH}
-{L_PUBLISH}
-{L_PUBLISH}
-{L_PUBLISH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PUBLISH)

@@ -5,13 +5,6 @@
 
 ```smarty
 {L_MINUTES}
-{L_MINUTES}
-{L_MINUTES}
-{L_MINUTES}
-{L_MINUTES}
-{L_MINUTES}
-{L_MINUTES}
-{L_MINUTES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MINUTES)

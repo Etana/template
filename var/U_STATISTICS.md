@@ -5,7 +5,6 @@
 
 ```smarty
 {U_STATISTICS}
-{U_STATISTICS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_STATISTICS)

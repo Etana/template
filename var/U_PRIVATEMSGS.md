@@ -5,13 +5,6 @@
 
 ```smarty
 {U_PRIVATEMSGS}
-{U_PRIVATEMSGS}
-{U_PRIVATEMSGS}
-{U_PRIVATEMSGS}
-{U_PRIVATEMSGS}
-{U_PRIVATEMSGS}
-{U_PRIVATEMSGS}
-{U_PRIVATEMSGS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS)

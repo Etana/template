@@ -9,41 +9,6 @@
     contenu sur lequel on boucle
     <!-- END hidden -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    contenu sur lequel on boucle
-    <!-- END hidden -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    contenu sur lequel on boucle
-    <!-- END hidden -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    contenu sur lequel on boucle
-    <!-- END hidden -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    contenu sur lequel on boucle
-    <!-- END hidden -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    contenu sur lequel on boucle
-    <!-- END hidden -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    contenu sur lequel on boucle
-    <!-- END hidden -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN hidden -->
-    contenu sur lequel on boucle
-    <!-- END hidden -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.hidden)

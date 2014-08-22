@@ -11,55 +11,6 @@
         <!-- END switch_fb_account_linked -->
     <!-- END switch_fb_connect -->
 <!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_linked -->
-        contenu sur lequel on boucle
-        <!-- END switch_fb_account_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_linked -->
-        contenu sur lequel on boucle
-        <!-- END switch_fb_account_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_linked -->
-        contenu sur lequel on boucle
-        <!-- END switch_fb_account_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_linked -->
-        contenu sur lequel on boucle
-        <!-- END switch_fb_account_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_linked -->
-        contenu sur lequel on boucle
-        <!-- END switch_fb_account_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_linked -->
-        contenu sur lequel on boucle
-        <!-- END switch_fb_account_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
-<!-- BEGIN switch_preferences_menu -->
-    <!-- BEGIN switch_fb_connect -->
-        <!-- BEGIN switch_fb_account_linked -->
-        contenu sur lequel on boucle
-        <!-- END switch_fb_account_linked -->
-    <!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked)

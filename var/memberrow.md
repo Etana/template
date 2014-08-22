@@ -7,15 +7,6 @@
 <!-- BEGIN memberrow -->
 contenu sur lequel on boucle
 <!-- END memberrow -->
-<!-- BEGIN memberrow -->
-contenu sur lequel on boucle
-<!-- END memberrow -->
-<!-- BEGIN memberrow -->
-contenu sur lequel on boucle
-<!-- END memberrow -->
-<!-- BEGIN memberrow -->
-contenu sur lequel on boucle
-<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow)

@@ -5,9 +5,6 @@
 
 ```smarty
 {U_SLIDESHOW}
-{U_SLIDESHOW}
-{U_SLIDESHOW}
-{U_SLIDESHOW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SLIDESHOW)

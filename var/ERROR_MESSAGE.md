@@ -5,14 +5,6 @@
 
 ```smarty
 {ERROR_MESSAGE}
-{ERROR_MESSAGE}
-{ERROR_MESSAGE}
-{ERROR_MESSAGE}
-{ERROR_MESSAGE}
-{ERROR_MESSAGE}
-{ERROR_MESSAGE}
-{ERROR_MESSAGE}
-{ERROR_MESSAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ERROR_MESSAGE)

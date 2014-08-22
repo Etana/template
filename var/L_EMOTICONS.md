@@ -5,9 +5,6 @@
 
 ```smarty
 {L_EMOTICONS}
-{L_EMOTICONS}
-{L_EMOTICONS}
-{L_EMOTICONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_EMOTICONS)

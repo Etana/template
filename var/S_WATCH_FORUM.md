@@ -5,9 +5,6 @@
 
 ```smarty
 {S_WATCH_FORUM}
-{S_WATCH_FORUM}
-{S_WATCH_FORUM}
-{S_WATCH_FORUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_WATCH_FORUM)

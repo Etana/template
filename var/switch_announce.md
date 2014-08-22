@@ -7,15 +7,6 @@
 <!-- BEGIN switch_announce -->
 contenu sur lequel on boucle
 <!-- END switch_announce -->
-<!-- BEGIN switch_announce -->
-contenu sur lequel on boucle
-<!-- END switch_announce -->
-<!-- BEGIN switch_announce -->
-contenu sur lequel on boucle
-<!-- END switch_announce -->
-<!-- BEGIN switch_announce -->
-contenu sur lequel on boucle
-<!-- END switch_announce -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_announce)

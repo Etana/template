@@ -5,9 +5,6 @@
 
 ```smarty
 {SIGNATURE_EDIT}
-{SIGNATURE_EDIT}
-{SIGNATURE_EDIT}
-{SIGNATURE_EDIT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SIGNATURE_EDIT)

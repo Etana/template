@@ -5,13 +5,6 @@
 
 ```smarty
 {POST_DATE}
-{POST_DATE}
-{POST_DATE}
-{POST_DATE}
-{POST_DATE}
-{POST_DATE}
-{POST_DATE}
-{POST_DATE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_DATE)

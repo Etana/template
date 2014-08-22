@@ -11,27 +11,6 @@
         <!-- END switch_attachments -->
     <!-- END displayed -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_attachments -->
-        {postrow.displayed.switch_attachments.L_ATTACHMENTS}
-        <!-- END switch_attachments -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_attachments -->
-        {postrow.displayed.switch_attachments.L_ATTACHMENTS}
-        <!-- END switch_attachments -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_attachments -->
-        {postrow.displayed.switch_attachments.L_ATTACHMENTS}
-        <!-- END switch_attachments -->
-    <!-- END displayed -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)

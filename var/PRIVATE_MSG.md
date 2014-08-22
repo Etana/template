@@ -5,9 +5,6 @@
 
 ```smarty
 {PRIVATE_MSG}
-{PRIVATE_MSG}
-{PRIVATE_MSG}
-{PRIVATE_MSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PRIVATE_MSG)

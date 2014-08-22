@@ -7,15 +7,6 @@
 <!-- BEGIN switch_rate -->
 {switch_rate.RATE}
 <!-- END switch_rate -->
-<!-- BEGIN switch_rate -->
-{switch_rate.RATE}
-<!-- END switch_rate -->
-<!-- BEGIN switch_rate -->
-{switch_rate.RATE}
-<!-- END switch_rate -->
-<!-- BEGIN switch_rate -->
-{switch_rate.RATE}
-<!-- END switch_rate -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_rate.RATE)

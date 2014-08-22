@@ -5,12 +5,6 @@
 
 ```smarty
 {L_APPROVE}
-{L_APPROVE}
-{L_APPROVE}
-{L_APPROVE}
-{L_APPROVE}
-{L_APPROVE}
-{L_APPROVE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_APPROVE)

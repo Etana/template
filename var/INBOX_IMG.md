@@ -5,12 +5,6 @@
 
 ```smarty
 {INBOX_IMG}
-{INBOX_IMG}
-{INBOX_IMG}
-{INBOX_IMG}
-{INBOX_IMG}
-{INBOX_IMG}
-{INBOX_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/INBOX_IMG)

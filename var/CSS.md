@@ -5,9 +5,6 @@
 
 ```smarty
 {CSS}
-{CSS}
-{CSS}
-{CSS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CSS)

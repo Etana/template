@@ -5,9 +5,6 @@
 
 ```smarty
 {L_WHOSBIRTHDAY_TODAY}
-{L_WHOSBIRTHDAY_TODAY}
-{L_WHOSBIRTHDAY_TODAY}
-{L_WHOSBIRTHDAY_TODAY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY)

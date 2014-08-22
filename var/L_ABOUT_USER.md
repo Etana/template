@@ -5,7 +5,6 @@
 
 ```smarty
 {L_ABOUT_USER}
-{L_ABOUT_USER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ABOUT_USER)

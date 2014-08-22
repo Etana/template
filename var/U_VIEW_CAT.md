@@ -5,7 +5,6 @@
 
 ```smarty
 {U_VIEW_CAT}
-{U_VIEW_CAT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_VIEW_CAT)

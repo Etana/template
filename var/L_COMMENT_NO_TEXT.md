@@ -5,9 +5,6 @@
 
 ```smarty
 {L_COMMENT_NO_TEXT}
-{L_COMMENT_NO_TEXT}
-{L_COMMENT_NO_TEXT}
-{L_COMMENT_NO_TEXT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_COMMENT_NO_TEXT)

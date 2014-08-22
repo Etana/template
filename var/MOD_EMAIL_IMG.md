@@ -5,9 +5,6 @@
 
 ```smarty
 {MOD_EMAIL_IMG}
-{MOD_EMAIL_IMG}
-{MOD_EMAIL_IMG}
-{MOD_EMAIL_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_EMAIL_IMG)

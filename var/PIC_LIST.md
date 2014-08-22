@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_LIST}
-{PIC_LIST}
-{PIC_LIST}
-{PIC_LIST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_LIST)

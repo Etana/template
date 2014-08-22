@@ -5,7 +5,6 @@
 
 ```smarty
 {DOWN_ARROW}
-{DOWN_ARROW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DOWN_ARROW)

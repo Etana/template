@@ -11,27 +11,6 @@
         <!-- END switch_signature -->
     <!-- END displayed -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_signature -->
-        contenu sur lequel on boucle
-        <!-- END switch_signature -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_signature -->
-        contenu sur lequel on boucle
-        <!-- END switch_signature -->
-    <!-- END displayed -->
-<!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-        <!-- BEGIN switch_signature -->
-        contenu sur lequel on boucle
-        <!-- END switch_signature -->
-    <!-- END displayed -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_signature)

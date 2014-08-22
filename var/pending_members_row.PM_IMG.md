@@ -7,15 +7,6 @@
 <!-- BEGIN pending_members_row -->
 {pending_members_row.PM_IMG}
 <!-- END pending_members_row -->
-<!-- BEGIN pending_members_row -->
-{pending_members_row.PM_IMG}
-<!-- END pending_members_row -->
-<!-- BEGIN pending_members_row -->
-{pending_members_row.PM_IMG}
-<!-- END pending_members_row -->
-<!-- BEGIN pending_members_row -->
-{pending_members_row.PM_IMG}
-<!-- END pending_members_row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.PM_IMG)

@@ -5,21 +5,6 @@
 
 ```smarty
 {POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
-{POST_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_IMG)

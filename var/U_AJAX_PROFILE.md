@@ -5,9 +5,6 @@
 
 ```smarty
 {U_AJAX_PROFILE}
-{U_AJAX_PROFILE}
-{U_AJAX_PROFILE}
-{U_AJAX_PROFILE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_AJAX_PROFILE)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_INSERT_SUM}
-{L_INSERT_SUM}
-{L_INSERT_SUM}
-{L_INSERT_SUM}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_INSERT_SUM)

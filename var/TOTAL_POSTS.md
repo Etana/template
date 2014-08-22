@@ -5,13 +5,6 @@
 
 ```smarty
 {TOTAL_POSTS}
-{TOTAL_POSTS}
-{TOTAL_POSTS}
-{TOTAL_POSTS}
-{TOTAL_POSTS}
-{TOTAL_POSTS}
-{TOTAL_POSTS}
-{TOTAL_POSTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOTAL_POSTS)

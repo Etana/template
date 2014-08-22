@@ -7,9 +7,6 @@
 <!-- BEGIN navmenu -->
 contenu sur lequel on boucle
 <!-- END navmenu -->
-<!-- BEGIN navmenu -->
-contenu sur lequel on boucle
-<!-- END navmenu -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navmenu)

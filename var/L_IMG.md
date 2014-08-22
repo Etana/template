@@ -5,7 +5,6 @@
 
 ```smarty
 {L_IMG}
-{L_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_IMG)

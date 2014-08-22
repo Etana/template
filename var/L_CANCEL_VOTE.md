@@ -5,9 +5,6 @@
 
 ```smarty
 {L_CANCEL_VOTE}
-{L_CANCEL_VOTE}
-{L_CANCEL_VOTE}
-{L_CANCEL_VOTE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CANCEL_VOTE)

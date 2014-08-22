@@ -5,13 +5,6 @@
 
 ```smarty
 {INBOX}
-{INBOX}
-{INBOX}
-{INBOX}
-{INBOX}
-{INBOX}
-{INBOX}
-{INBOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/INBOX)

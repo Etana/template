@@ -5,8 +5,6 @@
 
 ```smarty
 {PREVIEW_NEW}
-{PREVIEW_NEW}
-{PREVIEW_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PREVIEW_NEW)

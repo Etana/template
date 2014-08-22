@@ -5,10 +5,6 @@
 
 ```smarty
 {NAV_SEPARATOR}
-{NAV_SEPARATOR}
-{NAV_SEPARATOR}
-{NAV_SEPARATOR}
-{NAV_SEPARATOR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAV_SEPARATOR)

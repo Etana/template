@@ -5,9 +5,6 @@
 
 ```smarty
 {U_CFAQ_JSLIB}
-{U_CFAQ_JSLIB}
-{U_CFAQ_JSLIB}
-{U_CFAQ_JSLIB}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_CFAQ_JSLIB)

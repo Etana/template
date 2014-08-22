@@ -5,7 +5,6 @@
 
 ```smarty
 {L_BBCODE_GUIDE}
-{L_BBCODE_GUIDE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_BBCODE_GUIDE)

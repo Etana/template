@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ADD_FILE}
-{L_ADD_FILE}
-{L_ADD_FILE}
-{L_ADD_FILE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ADD_FILE)

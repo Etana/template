@@ -5,13 +5,6 @@
 
 ```smarty
 {L_NOTIFY_ON_REPLY}
-{L_NOTIFY_ON_REPLY}
-{L_NOTIFY_ON_REPLY}
-{L_NOTIFY_ON_REPLY}
-{L_NOTIFY_ON_REPLY}
-{L_NOTIFY_ON_REPLY}
-{L_NOTIFY_ON_REPLY}
-{L_NOTIFY_ON_REPLY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NOTIFY_ON_REPLY)

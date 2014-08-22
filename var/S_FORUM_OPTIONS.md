@@ -5,12 +5,6 @@
 
 ```smarty
 {S_FORUM_OPTIONS}
-{S_FORUM_OPTIONS}
-{S_FORUM_OPTIONS}
-{S_FORUM_OPTIONS}
-{S_FORUM_OPTIONS}
-{S_FORUM_OPTIONS}
-{S_FORUM_OPTIONS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_FORUM_OPTIONS)

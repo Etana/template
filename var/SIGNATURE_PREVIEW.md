@@ -5,8 +5,6 @@
 
 ```smarty
 {SIGNATURE_PREVIEW}
-{SIGNATURE_PREVIEW}
-{SIGNATURE_PREVIEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SIGNATURE_PREVIEW)

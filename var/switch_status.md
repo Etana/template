@@ -7,15 +7,6 @@
 <!-- BEGIN switch_status -->
 contenu sur lequel on boucle
 <!-- END switch_status -->
-<!-- BEGIN switch_status -->
-contenu sur lequel on boucle
-<!-- END switch_status -->
-<!-- BEGIN switch_status -->
-contenu sur lequel on boucle
-<!-- END switch_status -->
-<!-- BEGIN switch_status -->
-contenu sur lequel on boucle
-<!-- END switch_status -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_status)

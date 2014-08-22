@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_SIZE}
-{PIC_SIZE}
-{PIC_SIZE}
-{PIC_SIZE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_SIZE)

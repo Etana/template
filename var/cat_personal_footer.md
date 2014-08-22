@@ -7,15 +7,6 @@
 <!-- BEGIN cat_personal_footer -->
 contenu sur lequel on boucle
 <!-- END cat_personal_footer -->
-<!-- BEGIN cat_personal_footer -->
-contenu sur lequel on boucle
-<!-- END cat_personal_footer -->
-<!-- BEGIN cat_personal_footer -->
-contenu sur lequel on boucle
-<!-- END cat_personal_footer -->
-<!-- BEGIN cat_personal_footer -->
-contenu sur lequel on boucle
-<!-- END cat_personal_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/cat_personal_footer)

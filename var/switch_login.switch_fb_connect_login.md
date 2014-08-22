@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END switch_fb_connect_login -->
 <!-- END switch_login -->
-<!-- BEGIN switch_login -->
-    <!-- BEGIN switch_fb_connect_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_fb_connect_login -->
-<!-- END switch_login -->
-<!-- BEGIN switch_login -->
-    <!-- BEGIN switch_fb_connect_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_fb_connect_login -->
-<!-- END switch_login -->
-<!-- BEGIN switch_login -->
-    <!-- BEGIN switch_fb_connect_login -->
-    contenu sur lequel on boucle
-    <!-- END switch_fb_connect_login -->
-<!-- END switch_login -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_login.switch_fb_connect_login)

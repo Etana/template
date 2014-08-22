@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_BBCODE1}
-{PIC_BBCODE1}
-{PIC_BBCODE1}
-{PIC_BBCODE1}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_BBCODE1)

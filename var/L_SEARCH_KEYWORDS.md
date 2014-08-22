@@ -5,12 +5,6 @@
 
 ```smarty
 {L_SEARCH_KEYWORDS}
-{L_SEARCH_KEYWORDS}
-{L_SEARCH_KEYWORDS}
-{L_SEARCH_KEYWORDS}
-{L_SEARCH_KEYWORDS}
-{L_SEARCH_KEYWORDS}
-{L_SEARCH_KEYWORDS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_KEYWORDS)

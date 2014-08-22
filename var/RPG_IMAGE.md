@@ -5,17 +5,6 @@
 
 ```smarty
 {RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
-{RPG_IMAGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/RPG_IMAGE)

@@ -7,15 +7,6 @@
 <!-- BEGIN row -->
 {row.U_POST}
 <!-- END row -->
-<!-- BEGIN row -->
-{row.U_POST}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.U_POST}
-<!-- END row -->
-<!-- BEGIN row -->
-{row.U_POST}
-<!-- END row -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row.U_POST)

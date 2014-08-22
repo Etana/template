@@ -7,12 +7,6 @@
 <!-- BEGIN switch_desc -->
 contenu sur lequel on boucle
 <!-- END switch_desc -->
-<!-- BEGIN switch_desc -->
-contenu sur lequel on boucle
-<!-- END switch_desc -->
-<!-- BEGIN switch_desc -->
-contenu sur lequel on boucle
-<!-- END switch_desc -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_desc)

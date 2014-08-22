@@ -5,10 +5,6 @@
 
 ```smarty
 {L_SMILIES_PREVIEW_NEW}
-{L_SMILIES_PREVIEW_NEW}
-{L_SMILIES_PREVIEW_NEW}
-{L_SMILIES_PREVIEW_NEW}
-{L_SMILIES_PREVIEW_NEW}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SMILIES_PREVIEW_NEW)

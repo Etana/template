@@ -11,27 +11,6 @@
         <!-- END select_currency -->
     <!-- END switch_select_currency -->
 <!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN switch_select_currency -->
-        <!-- BEGIN select_currency -->
-        {credit_card_method.switch_select_currency.select_currency.OPTION}
-        <!-- END select_currency -->
-    <!-- END switch_select_currency -->
-<!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN switch_select_currency -->
-        <!-- BEGIN select_currency -->
-        {credit_card_method.switch_select_currency.select_currency.OPTION}
-        <!-- END select_currency -->
-    <!-- END switch_select_currency -->
-<!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-    <!-- BEGIN switch_select_currency -->
-        <!-- BEGIN select_currency -->
-        {credit_card_method.switch_select_currency.select_currency.OPTION}
-        <!-- END select_currency -->
-    <!-- END switch_select_currency -->
-<!-- END credit_card_method -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.OPTION)

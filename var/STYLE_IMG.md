@@ -5,14 +5,6 @@
 
 ```smarty
 {STYLE_IMG}
-{STYLE_IMG}
-{STYLE_IMG}
-{STYLE_IMG}
-{STYLE_IMG}
-{STYLE_IMG}
-{STYLE_IMG}
-{STYLE_IMG}
-{STYLE_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/STYLE_IMG)

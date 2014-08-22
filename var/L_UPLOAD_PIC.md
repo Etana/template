@@ -5,9 +5,6 @@
 
 ```smarty
 {L_UPLOAD_PIC}
-{L_UPLOAD_PIC}
-{L_UPLOAD_PIC}
-{L_UPLOAD_PIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_UPLOAD_PIC)

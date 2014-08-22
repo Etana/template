@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFFIMAGE_BOX}
-{NUFFIMAGE_BOX}
-{NUFFIMAGE_BOX}
-{NUFFIMAGE_BOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFFIMAGE_BOX)

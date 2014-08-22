@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DELETE_MARKED}
-{L_DELETE_MARKED}
-{L_DELETE_MARKED}
-{L_DELETE_MARKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_MARKED)

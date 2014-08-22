@@ -9,21 +9,6 @@
     {paypal_confirm.hidden_field.VALUE}
     <!-- END hidden_field -->
 <!-- END paypal_confirm -->
-<!-- BEGIN paypal_confirm -->
-    <!-- BEGIN hidden_field -->
-    {paypal_confirm.hidden_field.VALUE}
-    <!-- END hidden_field -->
-<!-- END paypal_confirm -->
-<!-- BEGIN paypal_confirm -->
-    <!-- BEGIN hidden_field -->
-    {paypal_confirm.hidden_field.VALUE}
-    <!-- END hidden_field -->
-<!-- END paypal_confirm -->
-<!-- BEGIN paypal_confirm -->
-    <!-- BEGIN hidden_field -->
-    {paypal_confirm.hidden_field.VALUE}
-    <!-- END hidden_field -->
-<!-- END paypal_confirm -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/paypal_confirm.hidden_field.VALUE)

@@ -5,7 +5,6 @@
 
 ```smarty
 {L_REPORTS_MARKED}
-{L_REPORTS_MARKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REPORTS_MARKED)

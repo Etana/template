@@ -5,9 +5,6 @@
 
 ```smarty
 {L_THIS_POST_IP}
-{L_THIS_POST_IP}
-{L_THIS_POST_IP}
-{L_THIS_POST_IP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_THIS_POST_IP)

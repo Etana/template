@@ -5,9 +5,6 @@
 
 ```smarty
 {POLLBOX}
-{POLLBOX}
-{POLLBOX}
-{POLLBOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLLBOX)

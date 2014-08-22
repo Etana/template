@@ -5,7 +5,6 @@
 
 ```smarty
 {ERRORS_FOUND}
-{ERRORS_FOUND}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ERRORS_FOUND)

@@ -7,15 +7,6 @@
 <!-- BEGIN memberrow -->
 {memberrow.ROW_NUMBER}
 <!-- END memberrow -->
-<!-- BEGIN memberrow -->
-{memberrow.ROW_NUMBER}
-<!-- END memberrow -->
-<!-- BEGIN memberrow -->
-{memberrow.ROW_NUMBER}
-<!-- END memberrow -->
-<!-- BEGIN memberrow -->
-{memberrow.ROW_NUMBER}
-<!-- END memberrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.ROW_NUMBER)

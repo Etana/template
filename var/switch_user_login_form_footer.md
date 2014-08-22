@@ -7,15 +7,6 @@
 <!-- BEGIN switch_user_login_form_footer -->
 contenu sur lequel on boucle
 <!-- END switch_user_login_form_footer -->
-<!-- BEGIN switch_user_login_form_footer -->
-contenu sur lequel on boucle
-<!-- END switch_user_login_form_footer -->
-<!-- BEGIN switch_user_login_form_footer -->
-contenu sur lequel on boucle
-<!-- END switch_user_login_form_footer -->
-<!-- BEGIN switch_user_login_form_footer -->
-contenu sur lequel on boucle
-<!-- END switch_user_login_form_footer -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer)

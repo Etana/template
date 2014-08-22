@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PRINT}
-{L_PRINT}
-{L_PRINT}
-{L_PRINT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PRINT)

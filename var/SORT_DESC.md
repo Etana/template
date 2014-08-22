@@ -5,17 +5,6 @@
 
 ```smarty
 {SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
-{SORT_DESC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_DESC)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_GROUP_NAME}
-{L_GROUP_NAME}
-{L_GROUP_NAME}
-{L_GROUP_NAME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_NAME)

@@ -5,9 +5,6 @@
 
 ```smarty
 {S_ALBUM_JUMPBOX_SEPERATOR}
-{S_ALBUM_JUMPBOX_SEPERATOR}
-{S_ALBUM_JUMPBOX_SEPERATOR}
-{S_ALBUM_JUMPBOX_SEPERATOR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_SEPERATOR)

@@ -5,9 +5,6 @@
 
 ```smarty
 {ALWAYS_ALLOW_HTML_NO}
-{ALWAYS_ALLOW_HTML_NO}
-{ALWAYS_ALLOW_HTML_NO}
-{ALWAYS_ALLOW_HTML_NO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ALWAYS_ALLOW_HTML_NO)

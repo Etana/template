@@ -7,15 +7,6 @@
 <!-- BEGIN switch_recent -->
 {switch_recent.DATE}
 <!-- END switch_recent -->
-<!-- BEGIN switch_recent -->
-{switch_recent.DATE}
-<!-- END switch_recent -->
-<!-- BEGIN switch_recent -->
-{switch_recent.DATE}
-<!-- END switch_recent -->
-<!-- BEGIN switch_recent -->
-{switch_recent.DATE}
-<!-- END switch_recent -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_recent.DATE)

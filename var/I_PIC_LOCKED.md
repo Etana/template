@@ -5,9 +5,6 @@
 
 ```smarty
 {I_PIC_LOCKED}
-{I_PIC_LOCKED}
-{I_PIC_LOCKED}
-{I_PIC_LOCKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/I_PIC_LOCKED)

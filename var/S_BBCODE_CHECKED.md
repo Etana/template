@@ -5,9 +5,6 @@
 
 ```smarty
 {S_BBCODE_CHECKED}
-{S_BBCODE_CHECKED}
-{S_BBCODE_CHECKED}
-{S_BBCODE_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_BBCODE_CHECKED)

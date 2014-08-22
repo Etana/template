@@ -5,9 +5,6 @@
 
 ```smarty
 {SKYPE_IMG}
-{SKYPE_IMG}
-{SKYPE_IMG}
-{SKYPE_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SKYPE_IMG)

@@ -5,13 +5,6 @@
 
 ```smarty
 {U_SEARCH}
-{U_SEARCH}
-{U_SEARCH}
-{U_SEARCH}
-{U_SEARCH}
-{U_SEARCH}
-{U_SEARCH}
-{U_SEARCH}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH)

@@ -5,8 +5,6 @@
 
 ```smarty
 {L_TCATEGORY}
-{L_TCATEGORY}
-{L_TCATEGORY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TCATEGORY)

@@ -5,9 +5,6 @@
 
 ```smarty
 {LINK_FOR_PASSWD_CHANGE}
-{LINK_FOR_PASSWD_CHANGE}
-{LINK_FOR_PASSWD_CHANGE}
-{LINK_FOR_PASSWD_CHANGE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LINK_FOR_PASSWD_CHANGE)

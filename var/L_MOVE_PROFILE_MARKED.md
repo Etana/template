@@ -5,9 +5,6 @@
 
 ```smarty
 {L_MOVE_PROFILE_MARKED}
-{L_MOVE_PROFILE_MARKED}
-{L_MOVE_PROFILE_MARKED}
-{L_MOVE_PROFILE_MARKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MOVE_PROFILE_MARKED)

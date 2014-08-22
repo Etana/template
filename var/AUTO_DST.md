@@ -5,9 +5,6 @@
 
 ```smarty
 {AUTO_DST}
-{AUTO_DST}
-{AUTO_DST}
-{AUTO_DST}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AUTO_DST)

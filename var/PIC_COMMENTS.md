@@ -5,9 +5,6 @@
 
 ```smarty
 {PIC_COMMENTS}
-{PIC_COMMENTS}
-{PIC_COMMENTS}
-{PIC_COMMENTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PIC_COMMENTS)

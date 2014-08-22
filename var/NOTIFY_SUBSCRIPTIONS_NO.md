@@ -5,9 +5,6 @@
 
 ```smarty
 {NOTIFY_SUBSCRIPTIONS_NO}
-{NOTIFY_SUBSCRIPTIONS_NO}
-{NOTIFY_SUBSCRIPTIONS_NO}
-{NOTIFY_SUBSCRIPTIONS_NO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NOTIFY_SUBSCRIPTIONS_NO)

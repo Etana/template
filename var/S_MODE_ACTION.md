@@ -5,9 +5,6 @@
 
 ```smarty
 {S_MODE_ACTION}
-{S_MODE_ACTION}
-{S_MODE_ACTION}
-{S_MODE_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MODE_ACTION)

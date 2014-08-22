@@ -5,9 +5,6 @@
 
 ```smarty
 {CLASS_CONTENT_CONTAINER}
-{CLASS_CONTENT_CONTAINER}
-{CLASS_CONTENT_CONTAINER}
-{CLASS_CONTENT_CONTAINER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CLASS_CONTENT_CONTAINER)

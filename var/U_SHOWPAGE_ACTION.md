@@ -5,9 +5,6 @@
 
 ```smarty
 {U_SHOWPAGE_ACTION}
-{U_SHOWPAGE_ACTION}
-{U_SHOWPAGE_ACTION}
-{U_SHOWPAGE_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SHOWPAGE_ACTION)

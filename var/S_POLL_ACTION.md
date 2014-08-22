@@ -5,13 +5,6 @@
 
 ```smarty
 {S_POLL_ACTION}
-{S_POLL_ACTION}
-{S_POLL_ACTION}
-{S_POLL_ACTION}
-{S_POLL_ACTION}
-{S_POLL_ACTION}
-{S_POLL_ACTION}
-{S_POLL_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_POLL_ACTION)

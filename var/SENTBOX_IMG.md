@@ -5,12 +5,6 @@
 
 ```smarty
 {SENTBOX_IMG}
-{SENTBOX_IMG}
-{SENTBOX_IMG}
-{SENTBOX_IMG}
-{SENTBOX_IMG}
-{SENTBOX_IMG}
-{SENTBOX_IMG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SENTBOX_IMG)

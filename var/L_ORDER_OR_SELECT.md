@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ORDER_OR_SELECT}
-{L_ORDER_OR_SELECT}
-{L_ORDER_OR_SELECT}
-{L_ORDER_OR_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ORDER_OR_SELECT)

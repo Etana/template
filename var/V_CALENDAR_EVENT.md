@@ -5,9 +5,6 @@
 
 ```smarty
 {V_CALENDAR_EVENT}
-{V_CALENDAR_EVENT}
-{V_CALENDAR_EVENT}
-{V_CALENDAR_EVENT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_CALENDAR_EVENT)

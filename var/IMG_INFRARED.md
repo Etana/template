@@ -5,9 +5,6 @@
 
 ```smarty
 {IMG_INFRARED}
-{IMG_INFRARED}
-{IMG_INFRARED}
-{IMG_INFRARED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_INFRARED)

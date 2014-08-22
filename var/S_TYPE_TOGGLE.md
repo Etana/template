@@ -5,9 +5,6 @@
 
 ```smarty
 {S_TYPE_TOGGLE}
-{S_TYPE_TOGGLE}
-{S_TYPE_TOGGLE}
-{S_TYPE_TOGGLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_TYPE_TOGGLE)

@@ -5,9 +5,6 @@
 
 ```smarty
 {POLL_TITLE}
-{POLL_TITLE}
-{POLL_TITLE}
-{POLL_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLL_TITLE)

@@ -7,15 +7,6 @@
 <!-- BEGIN switch_fb_explain -->
 contenu sur lequel on boucle
 <!-- END switch_fb_explain -->
-<!-- BEGIN switch_fb_explain -->
-contenu sur lequel on boucle
-<!-- END switch_fb_explain -->
-<!-- BEGIN switch_fb_explain -->
-contenu sur lequel on boucle
-<!-- END switch_fb_explain -->
-<!-- BEGIN switch_fb_explain -->
-contenu sur lequel on boucle
-<!-- END switch_fb_explain -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_explain)

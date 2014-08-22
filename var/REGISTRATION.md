@@ -5,7 +5,6 @@
 
 ```smarty
 {REGISTRATION}
-{REGISTRATION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/REGISTRATION)

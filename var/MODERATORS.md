@@ -5,13 +5,6 @@
 
 ```smarty
 {MODERATORS}
-{MODERATORS}
-{MODERATORS}
-{MODERATORS}
-{MODERATORS}
-{MODERATORS}
-{MODERATORS}
-{MODERATORS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MODERATORS)

@@ -5,11 +5,6 @@
 
 ```smarty
 {L_INTERESTS}
-{L_INTERESTS}
-{L_INTERESTS}
-{L_INTERESTS}
-{L_INTERESTS}
-{L_INTERESTS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_INTERESTS)

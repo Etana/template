@@ -9,11 +9,6 @@
     {postrow.displayed.PROFILE_POSITION}
     <!-- END displayed -->
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-    <!-- BEGIN displayed -->
-    {postrow.displayed.PROFILE_POSITION}
-    <!-- END displayed -->
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.PROFILE_POSITION)

@@ -5,9 +5,6 @@
 
 ```smarty
 {JS_MARK_MODE_6}
-{JS_MARK_MODE_6}
-{JS_MARK_MODE_6}
-{JS_MARK_MODE_6}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_MARK_MODE_6)

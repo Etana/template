@@ -5,13 +5,6 @@
 
 ```smarty
 {CURRENCY}
-{CURRENCY}
-{CURRENCY}
-{CURRENCY}
-{CURRENCY}
-{CURRENCY}
-{CURRENCY}
-{CURRENCY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CURRENCY)

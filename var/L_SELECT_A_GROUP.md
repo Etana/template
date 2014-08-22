@@ -5,9 +5,6 @@
 
 ```smarty
 {L_SELECT_A_GROUP}
-{L_SELECT_A_GROUP}
-{L_SELECT_A_GROUP}
-{L_SELECT_A_GROUP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SELECT_A_GROUP)

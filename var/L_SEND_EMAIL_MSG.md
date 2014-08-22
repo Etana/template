@@ -5,11 +5,6 @@
 
 ```smarty
 {L_SEND_EMAIL_MSG}
-{L_SEND_EMAIL_MSG}
-{L_SEND_EMAIL_MSG}
-{L_SEND_EMAIL_MSG}
-{L_SEND_EMAIL_MSG}
-{L_SEND_EMAIL_MSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEND_EMAIL_MSG)

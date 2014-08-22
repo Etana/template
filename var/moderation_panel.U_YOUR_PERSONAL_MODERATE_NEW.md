@@ -7,9 +7,6 @@
 <!-- BEGIN moderation_panel -->
 {moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}
 <!-- END moderation_panel -->
-<!-- BEGIN moderation_panel -->
-{moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}
-<!-- END moderation_panel -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW)

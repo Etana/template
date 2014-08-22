@@ -5,9 +5,6 @@
 
 ```smarty
 {GROUP_LEGEND}
-{GROUP_LEGEND}
-{GROUP_LEGEND}
-{GROUP_LEGEND}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_LEGEND)

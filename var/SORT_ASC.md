@@ -5,17 +5,6 @@
 
 ```smarty
 {SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
-{SORT_ASC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SORT_ASC)

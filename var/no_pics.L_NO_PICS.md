@@ -7,27 +7,6 @@
 <!-- BEGIN no_pics -->
 {no_pics.L_NO_PICS}
 <!-- END no_pics -->
-<!-- BEGIN no_pics -->
-{no_pics.L_NO_PICS}
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-{no_pics.L_NO_PICS}
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-{no_pics.L_NO_PICS}
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-{no_pics.L_NO_PICS}
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-{no_pics.L_NO_PICS}
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-{no_pics.L_NO_PICS}
-<!-- END no_pics -->
-<!-- BEGIN no_pics -->
-{no_pics.L_NO_PICS}
-<!-- END no_pics -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_pics.L_NO_PICS)

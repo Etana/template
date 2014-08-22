@@ -5,9 +5,6 @@
 
 ```smarty
 {SLIDESHOW_DELAY}
-{SLIDESHOW_DELAY}
-{SLIDESHOW_DELAY}
-{SLIDESHOW_DELAY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SLIDESHOW_DELAY)

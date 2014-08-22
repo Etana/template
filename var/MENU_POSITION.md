@@ -5,7 +5,6 @@
 
 ```smarty
 {MENU_POSITION}
-{MENU_POSITION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MENU_POSITION)

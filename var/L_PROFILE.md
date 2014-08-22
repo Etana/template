@@ -5,8 +5,6 @@
 
 ```smarty
 {L_PROFILE}
-{L_PROFILE}
-{L_PROFILE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PROFILE)

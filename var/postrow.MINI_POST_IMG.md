@@ -7,9 +7,6 @@
 <!-- BEGIN postrow -->
 {postrow.MINI_POST_IMG}
 <!-- END postrow -->
-<!-- BEGIN postrow -->
-{postrow.MINI_POST_IMG}
-<!-- END postrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.MINI_POST_IMG)

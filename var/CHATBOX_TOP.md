@@ -5,9 +5,6 @@
 
 ```smarty
 {CHATBOX_TOP}
-{CHATBOX_TOP}
-{CHATBOX_TOP}
-{CHATBOX_TOP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CHATBOX_TOP)

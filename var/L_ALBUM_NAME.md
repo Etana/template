@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ALBUM_NAME}
-{L_ALBUM_NAME}
-{L_ALBUM_NAME}
-{L_ALBUM_NAME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ALBUM_NAME)

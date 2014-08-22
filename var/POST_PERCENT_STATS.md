@@ -5,9 +5,6 @@
 
 ```smarty
 {POST_PERCENT_STATS}
-{POST_PERCENT_STATS}
-{POST_PERCENT_STATS}
-{POST_PERCENT_STATS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_PERCENT_STATS)

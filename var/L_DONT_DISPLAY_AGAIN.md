@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DONT_DISPLAY_AGAIN}
-{L_DONT_DISPLAY_AGAIN}
-{L_DONT_DISPLAY_AGAIN}
-{L_DONT_DISPLAY_AGAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DONT_DISPLAY_AGAIN)

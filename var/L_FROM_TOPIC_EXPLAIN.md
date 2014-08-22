@@ -5,9 +5,6 @@
 
 ```smarty
 {L_FROM_TOPIC_EXPLAIN}
-{L_FROM_TOPIC_EXPLAIN}
-{L_FROM_TOPIC_EXPLAIN}
-{L_FROM_TOPIC_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FROM_TOPIC_EXPLAIN)

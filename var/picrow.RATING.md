@@ -7,15 +7,6 @@
 <!-- BEGIN picrow -->
 {picrow.RATING}
 <!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.RATING}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.RATING}
-<!-- END picrow -->
-<!-- BEGIN picrow -->
-{picrow.RATING}
-<!-- END picrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.RATING)

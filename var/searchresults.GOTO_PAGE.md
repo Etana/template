@@ -7,12 +7,6 @@
 <!-- BEGIN searchresults -->
 {searchresults.GOTO_PAGE}
 <!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.GOTO_PAGE}
-<!-- END searchresults -->
-<!-- BEGIN searchresults -->
-{searchresults.GOTO_PAGE}
-<!-- END searchresults -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)

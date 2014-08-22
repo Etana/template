@@ -5,9 +5,6 @@
 
 ```smarty
 {VIEW_EMAIL_MAILTO}
-{VIEW_EMAIL_MAILTO}
-{VIEW_EMAIL_MAILTO}
-{VIEW_EMAIL_MAILTO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/VIEW_EMAIL_MAILTO)

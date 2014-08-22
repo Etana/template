@@ -5,13 +5,6 @@
 
 ```smarty
 {L_FIELD_EDIT_VALUE}
-{L_FIELD_EDIT_VALUE}
-{L_FIELD_EDIT_VALUE}
-{L_FIELD_EDIT_VALUE}
-{L_FIELD_EDIT_VALUE}
-{L_FIELD_EDIT_VALUE}
-{L_FIELD_EDIT_VALUE}
-{L_FIELD_EDIT_VALUE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FIELD_EDIT_VALUE)

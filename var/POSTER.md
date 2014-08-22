@@ -8,62 +8,6 @@
 <!-- BEGIN POSTER -->
 contenu sur lequel on boucle
 <!-- END POSTER -->
-{POSTER}
-{POSTER}
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-{POSTER}
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-{POSTER}
-{POSTER}
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-{POSTER}
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-{POSTER}
-{POSTER}
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-{POSTER}
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-{POSTER}
-{POSTER}
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
-<!-- BEGIN POSTER -->
-contenu sur lequel on boucle
-<!-- END POSTER -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POSTER)

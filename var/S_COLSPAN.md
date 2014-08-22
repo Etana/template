@@ -5,7 +5,6 @@
 
 ```smarty
 {S_COLSPAN}
-{S_COLSPAN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_COLSPAN)

@@ -7,18 +7,6 @@
 <!-- BEGIN album_pagination -->
 {album_pagination.ALBUM_PAGINATION}
 <!-- END album_pagination -->
-<!-- BEGIN album_pagination -->
-{album_pagination.ALBUM_PAGINATION}
-<!-- END album_pagination -->
-<!-- BEGIN album_pagination -->
-{album_pagination.ALBUM_PAGINATION}
-<!-- END album_pagination -->
-<!-- BEGIN album_pagination -->
-{album_pagination.ALBUM_PAGINATION}
-<!-- END album_pagination -->
-<!-- BEGIN album_pagination -->
-{album_pagination.ALBUM_PAGINATION}
-<!-- END album_pagination -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/album_pagination.ALBUM_PAGINATION)

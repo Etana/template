@@ -5,13 +5,6 @@
 
 ```smarty
 {U_POST_REPLY_TOPIC}
-{U_POST_REPLY_TOPIC}
-{U_POST_REPLY_TOPIC}
-{U_POST_REPLY_TOPIC}
-{U_POST_REPLY_TOPIC}
-{U_POST_REPLY_TOPIC}
-{U_POST_REPLY_TOPIC}
-{U_POST_REPLY_TOPIC}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_POST_REPLY_TOPIC)

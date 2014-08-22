@@ -7,15 +7,6 @@
 <!-- BEGIN credit_card_method -->
 contenu sur lequel on boucle
 <!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-contenu sur lequel on boucle
-<!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-contenu sur lequel on boucle
-<!-- END credit_card_method -->
-<!-- BEGIN credit_card_method -->
-contenu sur lequel on boucle
-<!-- END credit_card_method -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method)

@@ -5,9 +5,6 @@
 
 ```smarty
 {L_STICKY}
-{L_STICKY}
-{L_STICKY}
-{L_STICKY}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_STICKY)

@@ -5,20 +5,6 @@
 
 ```smarty
 {PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
-{PAGE_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PAGE_TITLE)

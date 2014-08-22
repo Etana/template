@@ -5,10 +5,6 @@
 
 ```smarty
 {FORUM_URL}
-{FORUM_URL}
-{FORUM_URL}
-{FORUM_URL}
-{FORUM_URL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_URL)

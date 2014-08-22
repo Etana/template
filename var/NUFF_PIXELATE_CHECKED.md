@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_PIXELATE_CHECKED}
-{NUFF_PIXELATE_CHECKED}
-{NUFF_PIXELATE_CHECKED}
-{NUFF_PIXELATE_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_PIXELATE_CHECKED)

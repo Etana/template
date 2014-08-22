@@ -5,13 +5,6 @@
 
 ```smarty
 {L_CANCEL}
-{L_CANCEL}
-{L_CANCEL}
-{L_CANCEL}
-{L_CANCEL}
-{L_CANCEL}
-{L_CANCEL}
-{L_CANCEL}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CANCEL)

@@ -5,9 +5,6 @@
 
 ```smarty
 {V_CALENDAR_HOUR}
-{V_CALENDAR_HOUR}
-{V_CALENDAR_HOUR}
-{V_CALENDAR_HOUR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/V_CALENDAR_HOUR)

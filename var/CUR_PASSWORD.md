@@ -5,9 +5,6 @@
 
 ```smarty
 {CUR_PASSWORD}
-{CUR_PASSWORD}
-{CUR_PASSWORD}
-{CUR_PASSWORD}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/CUR_PASSWORD)

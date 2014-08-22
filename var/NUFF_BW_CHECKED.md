@@ -5,9 +5,6 @@
 
 ```smarty
 {NUFF_BW_CHECKED}
-{NUFF_BW_CHECKED}
-{NUFF_BW_CHECKED}
-{NUFF_BW_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NUFF_BW_CHECKED)

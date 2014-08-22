@@ -5,9 +5,6 @@
 
 ```smarty
 {L_PENDING_MEMBERS}
-{L_PENDING_MEMBERS}
-{L_PENDING_MEMBERS}
-{L_PENDING_MEMBERS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_PENDING_MEMBERS)

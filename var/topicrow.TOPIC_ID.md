@@ -7,15 +7,6 @@
 <!-- BEGIN topicrow -->
 {topicrow.TOPIC_ID}
 <!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.TOPIC_ID}
-<!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.TOPIC_ID}
-<!-- END topicrow -->
-<!-- BEGIN topicrow -->
-{topicrow.TOPIC_ID}
-<!-- END topicrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topicrow.TOPIC_ID)

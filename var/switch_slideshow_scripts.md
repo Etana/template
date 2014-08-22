@@ -7,15 +7,6 @@
 <!-- BEGIN switch_slideshow_scripts -->
 contenu sur lequel on boucle
 <!-- END switch_slideshow_scripts -->
-<!-- BEGIN switch_slideshow_scripts -->
-contenu sur lequel on boucle
-<!-- END switch_slideshow_scripts -->
-<!-- BEGIN switch_slideshow_scripts -->
-contenu sur lequel on boucle
-<!-- END switch_slideshow_scripts -->
-<!-- BEGIN switch_slideshow_scripts -->
-contenu sur lequel on boucle
-<!-- END switch_slideshow_scripts -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_slideshow_scripts)

@@ -5,9 +5,6 @@
 
 ```smarty
 {POST_DAY_STATS}
-{POST_DAY_STATS}
-{POST_DAY_STATS}
-{POST_DAY_STATS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POST_DAY_STATS)

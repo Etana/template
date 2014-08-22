@@ -7,9 +7,6 @@
 <!-- BEGIN simple_header -->
 contenu sur lequel on boucle
 <!-- END simple_header -->
-<!-- BEGIN simple_header -->
-contenu sur lequel on boucle
-<!-- END simple_header -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/simple_header)

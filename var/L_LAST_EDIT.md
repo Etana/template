@@ -5,13 +5,6 @@
 
 ```smarty
 {L_LAST_EDIT}
-{L_LAST_EDIT}
-{L_LAST_EDIT}
-{L_LAST_EDIT}
-{L_LAST_EDIT}
-{L_LAST_EDIT}
-{L_LAST_EDIT}
-{L_LAST_EDIT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LAST_EDIT)

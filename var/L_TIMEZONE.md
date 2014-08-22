@@ -5,9 +5,6 @@
 
 ```smarty
 {L_TIMEZONE}
-{L_TIMEZONE}
-{L_TIMEZONE}
-{L_TIMEZONE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TIMEZONE)

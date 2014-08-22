@@ -7,27 +7,6 @@
 <!-- BEGIN faq_block -->
 {faq_block.BLOCK_TITLE}
 <!-- END faq_block -->
-<!-- BEGIN faq_block -->
-{faq_block.BLOCK_TITLE}
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-{faq_block.BLOCK_TITLE}
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-{faq_block.BLOCK_TITLE}
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-{faq_block.BLOCK_TITLE}
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-{faq_block.BLOCK_TITLE}
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-{faq_block.BLOCK_TITLE}
-<!-- END faq_block -->
-<!-- BEGIN faq_block -->
-{faq_block.BLOCK_TITLE}
-<!-- END faq_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block.BLOCK_TITLE)

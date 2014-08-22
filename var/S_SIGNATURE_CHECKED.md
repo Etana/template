@@ -5,9 +5,6 @@
 
 ```smarty
 {S_SIGNATURE_CHECKED}
-{S_SIGNATURE_CHECKED}
-{S_SIGNATURE_CHECKED}
-{S_SIGNATURE_CHECKED}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SIGNATURE_CHECKED)

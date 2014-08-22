@@ -5,9 +5,6 @@
 
 ```smarty
 {L_REGISTER}
-{L_REGISTER}
-{L_REGISTER}
-{L_REGISTER}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REGISTER)

@@ -7,15 +7,6 @@
 <!-- BEGIN switch_description -->
 contenu sur lequel on boucle
 <!-- END switch_description -->
-<!-- BEGIN switch_description -->
-contenu sur lequel on boucle
-<!-- END switch_description -->
-<!-- BEGIN switch_description -->
-contenu sur lequel on boucle
-<!-- END switch_description -->
-<!-- BEGIN switch_description -->
-contenu sur lequel on boucle
-<!-- END switch_description -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_description)

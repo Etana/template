@@ -5,9 +5,6 @@
 
 ```smarty
 {L_ERROR_MSG}
-{L_ERROR_MSG}
-{L_ERROR_MSG}
-{L_ERROR_MSG}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_ERROR_MSG)

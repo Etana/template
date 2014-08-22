@@ -5,9 +5,6 @@
 
 ```smarty
 {L_DELETE_EXPLAIN}
-{L_DELETE_EXPLAIN}
-{L_DELETE_EXPLAIN}
-{L_DELETE_EXPLAIN}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_EXPLAIN)

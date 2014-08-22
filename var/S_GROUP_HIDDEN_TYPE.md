@@ -5,9 +5,6 @@
 
 ```smarty
 {S_GROUP_HIDDEN_TYPE}
-{S_GROUP_HIDDEN_TYPE}
-{S_GROUP_HIDDEN_TYPE}
-{S_GROUP_HIDDEN_TYPE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_HIDDEN_TYPE)

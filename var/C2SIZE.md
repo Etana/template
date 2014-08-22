@@ -5,11 +5,6 @@
 
 ```smarty
 {C2SIZE}
-{C2SIZE}
-{C2SIZE}
-{C2SIZE}
-{C2SIZE}
-{C2SIZE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/C2SIZE)

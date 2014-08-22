@@ -5,34 +5,6 @@
 
 ```smarty
 {L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
-{L_SELECT}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SELECT)

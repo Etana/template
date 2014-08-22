@@ -5,13 +5,6 @@
 
 ```smarty
 {L_FIND_USERNAME}
-{L_FIND_USERNAME}
-{L_FIND_USERNAME}
-{L_FIND_USERNAME}
-{L_FIND_USERNAME}
-{L_FIND_USERNAME}
-{L_FIND_USERNAME}
-{L_FIND_USERNAME}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FIND_USERNAME)

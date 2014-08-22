@@ -5,9 +5,6 @@
 
 ```smarty
 {SEARCH_TOPICS}
-{SEARCH_TOPICS}
-{SEARCH_TOPICS}
-{SEARCH_TOPICS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SEARCH_TOPICS)

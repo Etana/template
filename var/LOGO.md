@@ -5,11 +5,6 @@
 
 ```smarty
 {LOGO}
-{LOGO}
-{LOGO}
-{LOGO}
-{LOGO}
-{LOGO}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGO)

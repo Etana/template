@@ -5,9 +5,6 @@
 
 ```smarty
 {S_SPLIT_ACTION}
-{S_SPLIT_ACTION}
-{S_SPLIT_ACTION}
-{S_SPLIT_ACTION}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SPLIT_ACTION)

@@ -5,9 +5,6 @@
 
 ```smarty
 {U_LOOKUP_IP}
-{U_LOOKUP_IP}
-{U_LOOKUP_IP}
-{U_LOOKUP_IP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_LOOKUP_IP)

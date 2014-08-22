@@ -7,27 +7,6 @@
 <!-- BEGIN list_pics_block -->
 contenu sur lequel on boucle
 <!-- END list_pics_block -->
-<!-- BEGIN list_pics_block -->
-contenu sur lequel on boucle
-<!-- END list_pics_block -->
-<!-- BEGIN list_pics_block -->
-contenu sur lequel on boucle
-<!-- END list_pics_block -->
-<!-- BEGIN list_pics_block -->
-contenu sur lequel on boucle
-<!-- END list_pics_block -->
-<!-- BEGIN list_pics_block -->
-contenu sur lequel on boucle
-<!-- END list_pics_block -->
-<!-- BEGIN list_pics_block -->
-contenu sur lequel on boucle
-<!-- END list_pics_block -->
-<!-- BEGIN list_pics_block -->
-contenu sur lequel on boucle
-<!-- END list_pics_block -->
-<!-- BEGIN list_pics_block -->
-contenu sur lequel on boucle
-<!-- END list_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block)

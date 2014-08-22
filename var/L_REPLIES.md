@@ -5,18 +5,6 @@
 
 ```smarty
 {L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
-{L_REPLIES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_REPLIES)

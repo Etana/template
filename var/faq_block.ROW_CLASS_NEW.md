@@ -7,9 +7,6 @@
 <!-- BEGIN faq_block -->
 {faq_block.ROW_CLASS_NEW}
 <!-- END faq_block -->
-<!-- BEGIN faq_block -->
-{faq_block.ROW_CLASS_NEW}
-<!-- END faq_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block.ROW_CLASS_NEW)

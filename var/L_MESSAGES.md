@@ -5,10 +5,6 @@
 
 ```smarty
 {L_MESSAGES}
-{L_MESSAGES}
-{L_MESSAGES}
-{L_MESSAGES}
-{L_MESSAGES}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MESSAGES)

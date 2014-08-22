@@ -5,11 +5,6 @@
 
 ```smarty
 {HTML_STATUS}
-{HTML_STATUS}
-{HTML_STATUS}
-{HTML_STATUS}
-{HTML_STATUS}
-{HTML_STATUS}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/HTML_STATUS)

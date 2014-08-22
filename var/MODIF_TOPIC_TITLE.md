@@ -5,9 +5,6 @@
 
 ```smarty
 {MODIF_TOPIC_TITLE}
-{MODIF_TOPIC_TITLE}
-{MODIF_TOPIC_TITLE}
-{MODIF_TOPIC_TITLE}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MODIF_TOPIC_TITLE)

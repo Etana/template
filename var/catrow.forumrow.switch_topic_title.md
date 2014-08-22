@@ -11,20 +11,6 @@
         <!-- END switch_topic_title -->
     <!-- END forumrow -->
 <!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-        <!-- BEGIN switch_topic_title -->
-        contenu sur lequel on boucle
-        <!-- END switch_topic_title -->
-    <!-- END forumrow -->
-<!-- END catrow -->
-<!-- BEGIN catrow -->
-    <!-- BEGIN forumrow -->
-        <!-- BEGIN switch_topic_title -->
-        contenu sur lequel on boucle
-        <!-- END switch_topic_title -->
-    <!-- END forumrow -->
-<!-- END catrow -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title)

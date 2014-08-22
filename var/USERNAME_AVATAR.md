@@ -5,10 +5,6 @@
 
 ```smarty
 {USERNAME_AVATAR}
-{USERNAME_AVATAR}
-{USERNAME_AVATAR}
-{USERNAME_AVATAR}
-{USERNAME_AVATAR}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/USERNAME_AVATAR)

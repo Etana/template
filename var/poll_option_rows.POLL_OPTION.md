@@ -7,15 +7,6 @@
 <!-- BEGIN poll_option_rows -->
 {poll_option_rows.POLL_OPTION}
 <!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.POLL_OPTION}
-<!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.POLL_OPTION}
-<!-- END poll_option_rows -->
-<!-- BEGIN poll_option_rows -->
-{poll_option_rows.POLL_OPTION}
-<!-- END poll_option_rows -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_rows.POLL_OPTION)

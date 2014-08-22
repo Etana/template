@@ -9,21 +9,6 @@
     contenu sur lequel on boucle
     <!-- END picrow -->
 <!-- END index_pics_block -->
-<!-- BEGIN index_pics_block -->
-    <!-- BEGIN picrow -->
-    contenu sur lequel on boucle
-    <!-- END picrow -->
-<!-- END index_pics_block -->
-<!-- BEGIN index_pics_block -->
-    <!-- BEGIN picrow -->
-    contenu sur lequel on boucle
-    <!-- END picrow -->
-<!-- END index_pics_block -->
-<!-- BEGIN index_pics_block -->
-    <!-- BEGIN picrow -->
-    contenu sur lequel on boucle
-    <!-- END picrow -->
-<!-- END index_pics_block -->
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.picrow)

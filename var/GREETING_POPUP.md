@@ -5,9 +5,6 @@
 
 ```smarty
 {GREETING_POPUP}
-{GREETING_POPUP}
-{GREETING_POPUP}
-{GREETING_POPUP}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GREETING_POPUP)

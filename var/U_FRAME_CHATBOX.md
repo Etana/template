@@ -5,9 +5,6 @@
 
 ```smarty
 {U_FRAME_CHATBOX}
-{U_FRAME_CHATBOX}
-{U_FRAME_CHATBOX}
-{U_FRAME_CHATBOX}
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX)
