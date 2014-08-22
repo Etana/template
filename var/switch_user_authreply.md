@@ -16,9 +16,13 @@ Boucle s'affichant si l'utilisateur a l'autorisation de répondre à un sujet da
 
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`61`](../src/prosilver/viewtopic_body.tpl#L61), [`63`](../src/prosilver/viewtopic_body.tpl#L63), [`323`](../src/prosilver/viewtopic_body.tpl#L323), [`325`](../src/prosilver/viewtopic_body.tpl#L325)
+
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`56`](../src/subsilver/viewtopic_body.tpl#L56), [`58`](../src/subsilver/viewtopic_body.tpl#L58), [`443`](../src/subsilver/viewtopic_body.tpl#L443), [`445`](../src/subsilver/viewtopic_body.tpl#L445)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`115`](../src/punbb/viewtopic_body.tpl#L115), [`117`](../src/punbb/viewtopic_body.tpl#L117), [`293`](../src/punbb/viewtopic_body.tpl#L293), [`295`](../src/punbb/viewtopic_body.tpl#L295)
+
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`65`](../src/invision/viewtopic_body.tpl#L65), [`67`](../src/invision/viewtopic_body.tpl#L67), [`335`](../src/invision/viewtopic_body.tpl#L335), [`339`](../src/invision/viewtopic_body.tpl#L339)
+

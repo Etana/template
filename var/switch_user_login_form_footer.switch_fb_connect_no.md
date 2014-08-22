@@ -18,3 +18,4 @@ Boucle d'affichage si Facebook Connect n'est pas activé.
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`111`](../src/subsilver/index_body.tpl#L111), [`134`](../src/subsilver/index_body.tpl#L134)
+

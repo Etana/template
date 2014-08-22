@@ -14,9 +14,13 @@
 
 ### Version phpBB3
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`19`](../src/prosilver/merge_body.tpl#L19)
+
 ### Version phpBB2
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`24`](../src/subsilver/merge_body.tpl#L24)
+
 ### Version PunBB
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`48`](../src/punbb/merge_body.tpl#L48)
+
 ### Version Invision
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`30`](../src/invision/merge_body.tpl#L30)
+

@@ -18,9 +18,13 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`78`](../src/prosilver/index_box.tpl#L78), [`80`](../src/prosilver/index_box.tpl#L80)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`100`](../src/subsilver/index_body.tpl#L100), [`102`](../src/subsilver/index_body.tpl#L102)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`71`](../src/punbb/index_box.tpl#L71), [`75`](../src/punbb/index_box.tpl#L75)
+
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`80`](../src/invision/index_box.tpl#L80), [`82`](../src/invision/index_box.tpl#L82)
+

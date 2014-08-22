@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`1`](../src/subsilver/posting_poll_body.tpl#L1)
+

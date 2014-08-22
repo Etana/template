@@ -20,3 +20,4 @@
 
 ### Version phpBB2
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`166`](../src/subsilver/profile_add_body.tpl#L166), [`168`](../src/subsilver/profile_add_body.tpl#L168)
+

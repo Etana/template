@@ -14,9 +14,13 @@ Affiche la chatbox sur la page d'accueil en bas si l'option dans `PA > Modules >
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`101`](../src/prosilver/index_body.tpl#L101)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`222`](../src/subsilver/index_body.tpl#L222)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`120`](../src/punbb/index_body.tpl#L120)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`155`](../src/invision/index_body.tpl#L155)
+

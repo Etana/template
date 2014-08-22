@@ -16,3 +16,4 @@ contenu sur lequel on boucle
 
 ### Version PunBB
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`8`](../src/punbb/portal_body.tpl#L8), [`10`](../src/punbb/portal_body.tpl#L10), [`47`](../src/punbb/portal_body.tpl#L47), [`49`](../src/punbb/portal_body.tpl#L49)
+

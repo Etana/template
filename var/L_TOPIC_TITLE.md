@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`12`](../src/subsilver/merge_body.tpl#L12)
+

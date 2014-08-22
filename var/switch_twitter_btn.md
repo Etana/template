@@ -16,7 +16,10 @@ Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`69`](../src/subsilver/viewtopic_body.tpl#L69), [`74`](../src/subsilver/viewtopic_body.tpl#L74)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`85`](../src/punbb/viewtopic_body.tpl#L85), [`90`](../src/punbb/viewtopic_body.tpl#L90)
+
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`82`](../src/invision/viewtopic_body.tpl#L82), [`84`](../src/invision/viewtopic_body.tpl#L84)
+

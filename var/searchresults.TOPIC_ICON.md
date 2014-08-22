@@ -16,9 +16,13 @@ Contient l'icône du sujet pouvant être défini dans `PA > Affichage > Images e
 
 ### Version phpBB3
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`28`](../src/prosilver/search_results_topics.tpl#L28)
+
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`37`](../src/subsilver/search_results_topics.tpl#L37)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`51`](../src/punbb/search_results_topics.tpl#L51)
+
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`37`](../src/invision/search_results_topics.tpl#L37)
+

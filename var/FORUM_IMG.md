@@ -14,9 +14,13 @@ Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion d
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`127`](../src/prosilver/index_body.tpl#L127)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`230`](../src/subsilver/index_body.tpl#L230)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`126`](../src/punbb/index_body.tpl#L126)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`162`](../src/invision/index_body.tpl#L162)
+

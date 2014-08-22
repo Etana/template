@@ -14,3 +14,4 @@ Hauteur du message du Popup de connexion.
 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`231`](../src/subsilver/overall_header.tpl#L231)
+

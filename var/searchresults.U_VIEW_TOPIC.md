@@ -16,9 +16,13 @@ Contient le lien vers le sujet bouclé.
 
 ### Version phpBB3
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`32`](../src/prosilver/search_results_topics.tpl#L32)
+
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`55`](../src/punbb/search_results_topics.tpl#L55)
+
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`44`](../src/invision/search_results_topics.tpl#L44)
+

@@ -18,9 +18,13 @@ Boucle contenant le titre du message d'accueil.
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`28`](../src/prosilver/index_body.tpl#L28), [`30`](../src/prosilver/index_body.tpl#L30)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`4`](../src/subsilver/index_body.tpl#L4), [`8`](../src/subsilver/index_body.tpl#L8)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`21`](../src/punbb/index_body.tpl#L21), [`25`](../src/punbb/index_body.tpl#L25)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`10`](../src/invision/index_body.tpl#L10), [`12`](../src/invision/index_body.tpl#L12)
+

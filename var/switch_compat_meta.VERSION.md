@@ -18,9 +18,13 @@ Contient la version d'affichage de Internet Explorer pour la balise X-UA-Compati
 
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`9`](../src/prosilver/overall_header.tpl#L9)
+
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`9`](../src/subsilver/overall_header.tpl#L9)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`9`](../src/punbb/overall_header.tpl#L9)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`9`](../src/invision/overall_header.tpl#L9)
+

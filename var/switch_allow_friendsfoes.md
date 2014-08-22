@@ -16,9 +16,13 @@ contenu sur lequel on boucle
 
 ### Version phpBB3
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`21`](../src/prosilver/profile_view_body.tpl#L21), [`25`](../src/prosilver/profile_view_body.tpl#L25)
+
 ### Version phpBB2
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`32`](../src/subsilver/profile_view_body.tpl#L32), [`37`](../src/subsilver/profile_view_body.tpl#L37)
+
 ### Version PunBB
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`32`](../src/punbb/profile_view_body.tpl#L32), [`36`](../src/punbb/profile_view_body.tpl#L36)
+
 ### Version Invision
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`18`](../src/invision/profile_view_body.tpl#L18), [`21`](../src/invision/profile_view_body.tpl#L21)
+

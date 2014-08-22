@@ -16,9 +16,13 @@ Contient l'image vers le lien de la dernière réponse définie dans `PA > Affic
 
 ### Version phpBB3
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`29`](../src/prosilver/search_results_topics.tpl#L29)
+
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`52`](../src/punbb/search_results_topics.tpl#L52)
+
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`43`](../src/invision/search_results_topics.tpl#L43)
+

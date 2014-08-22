@@ -16,7 +16,10 @@ Chaîne de texte.
 
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`16`](../src/prosilver/buy_credits.tpl#L16)
+
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`25`](../src/subsilver/buy_credits.tpl#L25)
+
 ### Version Invision
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`23`](../src/invision/buy_credits.tpl#L23)
+

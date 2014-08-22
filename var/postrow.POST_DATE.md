@@ -15,10 +15,18 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`44`](../src/prosilver/modcp_split.tpl#L44)* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`10`](../src/prosilver/privmsg_topic_review.tpl#L10)
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`44`](../src/prosilver/modcp_split.tpl#L44)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`10`](../src/prosilver/privmsg_topic_review.tpl#L10)
+
 ### Version phpBB2
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`50`](../src/subsilver/modcp_split.tpl#L50)* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`50`](../src/subsilver/modcp_split.tpl#L50)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
+
 ### Version PunBB
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`54`](../src/punbb/modcp_split.tpl#L54)* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`23`](../src/punbb/privmsg_topic_review.tpl#L23)
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`54`](../src/punbb/modcp_split.tpl#L54)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`23`](../src/punbb/privmsg_topic_review.tpl#L23)
+
 ### Version Invision
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`38`](../src/invision/modcp_split.tpl#L38)* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`23`](../src/invision/privmsg_topic_review.tpl#L23)
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`38`](../src/invision/modcp_split.tpl#L38)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`23`](../src/invision/privmsg_topic_review.tpl#L23)
+

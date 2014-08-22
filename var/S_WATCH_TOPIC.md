@@ -29,7 +29,10 @@ Exemple de remplacement français :
 
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`263`](../src/prosilver/viewtopic_body.tpl#L263)
+
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`303`](../src/subsilver/viewtopic_body.tpl#L303)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`69`](../src/punbb/viewtopic_body.tpl#L69)
+

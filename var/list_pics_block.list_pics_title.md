@@ -18,9 +18,13 @@
 
 ### Version phpBB3
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`16`](../src/prosilver/album_cat_top10.tpl#L16), [`18`](../src/prosilver/album_cat_top10.tpl#L18)
+
 ### Version phpBB2
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`13`](../src/subsilver/album_cat_top10.tpl#L13), [`17`](../src/subsilver/album_cat_top10.tpl#L17)
+
 ### Version PunBB
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`25`](../src/punbb/album_cat_top10.tpl#L25), [`27`](../src/punbb/album_cat_top10.tpl#L27)
+
 ### Version Invision
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`12`](../src/invision/album_cat_top10.tpl#L12), [`14`](../src/invision/album_cat_top10.tpl#L14)
+

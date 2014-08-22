@@ -22,9 +22,13 @@ Veuillez commencer votre inscription en acceptant ce règlement.
 
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`10`](../src/prosilver/agreement.tpl#L10)
+
 ### Version phpBB2
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`16`](../src/subsilver/agreement.tpl#L16)
+
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`23`](../src/punbb/agreement.tpl#L23)
+
 ### Version Invision
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`27`](../src/invision/agreement.tpl#L27)
+

@@ -16,3 +16,4 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`simple_footer`](../tpl/simple_footer.md#readme) :__ lignes [`14`](../src/subsilver/simple_footer.tpl#L14), [`16`](../src/subsilver/simple_footer.tpl#L16)
+

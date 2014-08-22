@@ -16,9 +16,13 @@ Contient la vitesse de défilement des annonces définie dans `PA > Général > 
 
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`108`](../src/prosilver/overall_header.tpl#L108), [`136`](../src/prosilver/overall_header.tpl#L136)
+
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`114`](../src/subsilver/overall_header.tpl#L114), [`142`](../src/subsilver/overall_header.tpl#L142)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`107`](../src/punbb/overall_header.tpl#L107), [`136`](../src/punbb/overall_header.tpl#L136)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`51`](../src/invision/overall_header.tpl#L51), [`156`](../src/invision/overall_header.tpl#L156)
+

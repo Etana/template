@@ -16,9 +16,13 @@ Affiche le bouton de connexion via Facebook si Facebook Connect est activé dans
 
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`26`](../src/prosilver/overall_header.tpl#L26)
+
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`26`](../src/subsilver/overall_header.tpl#L26)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`26`](../src/punbb/overall_header.tpl#L26)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`26`](../src/invision/overall_header.tpl#L26)
+

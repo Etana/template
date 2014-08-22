@@ -14,9 +14,13 @@ Contient une liste d'option pour la recherche.
 
 ### Version phpBB3
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`62`](../src/prosilver/search_body.tpl#L62)
+
 ### Version phpBB2
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`81`](../src/subsilver/search_body.tpl#L81)
+
 ### Version PunBB
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`76`](../src/punbb/search_body.tpl#L76)
+
 ### Version Invision
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`59`](../src/invision/search_body.tpl#L59)
+

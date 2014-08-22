@@ -16,10 +16,23 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`56`](../src/prosilver/groupcp_info_body.tpl#L56)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`11`](../src/prosilver/groupcp_pending_info.tpl#L11)* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`39`](../src/prosilver/memberlist_body.tpl#L39)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`56`](../src/prosilver/groupcp_info_body.tpl#L56)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`11`](../src/prosilver/groupcp_pending_info.tpl#L11)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`39`](../src/prosilver/memberlist_body.tpl#L39)
+
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`46`](../src/subsilver/groupcp_info_body.tpl#L46)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`8`](../src/subsilver/groupcp_pending_info.tpl#L8)* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`34`](../src/subsilver/memberlist_body.tpl#L34)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`46`](../src/subsilver/groupcp_info_body.tpl#L46)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`8`](../src/subsilver/groupcp_pending_info.tpl#L8)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`34`](../src/subsilver/memberlist_body.tpl#L34)
+
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`83`](../src/punbb/groupcp_info_body.tpl#L83)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`11`](../src/punbb/groupcp_pending_info.tpl#L11)* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`72`](../src/punbb/memberlist_body.tpl#L72)* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`70`](../src/punbb/profile_add_body.tpl#L70)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`83`](../src/punbb/groupcp_info_body.tpl#L83)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`11`](../src/punbb/groupcp_pending_info.tpl#L11)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`72`](../src/punbb/memberlist_body.tpl#L72)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`70`](../src/punbb/profile_add_body.tpl#L70)
+
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`59`](../src/invision/groupcp_info_body.tpl#L59)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`11`](../src/invision/groupcp_pending_info.tpl#L11)* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`95`](../src/invision/profile_add_body.tpl#L95)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`59`](../src/invision/groupcp_info_body.tpl#L59)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`11`](../src/invision/groupcp_pending_info.tpl#L11)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`95`](../src/invision/profile_add_body.tpl#L95)
+

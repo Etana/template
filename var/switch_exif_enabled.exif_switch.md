@@ -18,3 +18,4 @@
 
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`358`](../src/subsilver/album_showpage_body.tpl#L358), [`371`](../src/subsilver/album_showpage_body.tpl#L371)
+

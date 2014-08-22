@@ -21,3 +21,4 @@ Chaîne de texte.
 
 ### Version phpBB2
 * __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`15`](../src/subsilver/confirm_body.tpl#L15)
+

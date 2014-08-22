@@ -15,4 +15,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`118`](../src/subsilver/album_index_body.tpl#L118)* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`455`](../src/subsilver/viewtopic_body.tpl#L455)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`118`](../src/subsilver/album_index_body.tpl#L118)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`455`](../src/subsilver/viewtopic_body.tpl#L455)
+

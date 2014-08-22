@@ -22,3 +22,4 @@
 
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`1`](../src/subsilver/birthday_list_box.tpl#L1), [`20`](../src/subsilver/birthday_list_box.tpl#L20)
+

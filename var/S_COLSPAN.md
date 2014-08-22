@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`9`](../src/subsilver/profile_avatar_gallery.tpl#L9), [`27`](../src/subsilver/profile_avatar_gallery.tpl#L27)
+

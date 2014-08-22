@@ -16,9 +16,13 @@ contenu sur lequel on boucle
 
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`156`](../src/prosilver/posting_body.tpl#L156), [`162`](../src/prosilver/posting_body.tpl#L162)
+
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`224`](../src/subsilver/posting_body.tpl#L224), [`229`](../src/subsilver/posting_body.tpl#L229)
+
 ### Version PunBB
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`173`](../src/punbb/posting_body.tpl#L173), [`179`](../src/punbb/posting_body.tpl#L179)
+
 ### Version Invision
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`152`](../src/invision/posting_body.tpl#L152), [`160`](../src/invision/posting_body.tpl#L160)
+

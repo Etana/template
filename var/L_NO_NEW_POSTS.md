@@ -16,9 +16,13 @@ Chaîne de texte.
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`127`](../src/prosilver/index_body.tpl#L127), [`127`](../src/prosilver/index_body.tpl#L127)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`230`](../src/subsilver/index_body.tpl#L230), [`231`](../src/subsilver/index_body.tpl#L231)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`126`](../src/punbb/index_body.tpl#L126), [`126`](../src/punbb/index_body.tpl#L126)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`162`](../src/invision/index_body.tpl#L162), [`162`](../src/invision/index_body.tpl#L162)
+

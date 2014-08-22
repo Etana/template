@@ -16,9 +16,13 @@ contenu sur lequel on boucle
 
 ### Version phpBB3
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`21`](../src/prosilver/album_overview_top10.tpl#L21), [`23`](../src/prosilver/album_overview_top10.tpl#L23)
+
 ### Version phpBB2
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`29`](../src/subsilver/album_overview_top10.tpl#L29), [`31`](../src/subsilver/album_overview_top10.tpl#L31)
+
 ### Version PunBB
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`19`](../src/punbb/album_overview_top10.tpl#L19), [`21`](../src/punbb/album_overview_top10.tpl#L21)
+
 ### Version Invision
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`20`](../src/invision/album_overview_top10.tpl#L20), [`22`](../src/invision/album_overview_top10.tpl#L22)
+

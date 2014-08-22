@@ -25,9 +25,13 @@ Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message
 
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`123`](../src/prosilver/overall_header.tpl#L123), [`126`](../src/prosilver/overall_header.tpl#L126)
+
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`129`](../src/subsilver/overall_header.tpl#L129), [`132`](../src/subsilver/overall_header.tpl#L132)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`123`](../src/punbb/overall_header.tpl#L123), [`126`](../src/punbb/overall_header.tpl#L126)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`38`](../src/invision/overall_header.tpl#L38), [`41`](../src/invision/overall_header.tpl#L41)
+

@@ -16,3 +16,4 @@
 
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`6`](../src/subsilver/birthday_list_box.tpl#L6), [`14`](../src/subsilver/birthday_list_box.tpl#L14)
+

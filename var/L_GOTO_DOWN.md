@@ -14,7 +14,10 @@ Image pour aller en bas définie dans `PA > Affichage > Images et Couleurs | Ges
 
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`111`](../src/prosilver/viewtopic_body.tpl#L111), [`241`](../src/prosilver/viewtopic_body.tpl#L241)
+
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/subsilver/viewtopic_body.tpl#L116), [`251`](../src/subsilver/viewtopic_body.tpl#L251)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`123`](../src/punbb/viewtopic_body.tpl#L123)
+

@@ -20,3 +20,4 @@
 
 ### Version phpBB2
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`44`](../src/subsilver/album_index_body.tpl#L44), [`46`](../src/subsilver/album_index_body.tpl#L46)
+

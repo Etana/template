@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`9`](../src/subsilver/groupcp_user_body.tpl#L9)
+

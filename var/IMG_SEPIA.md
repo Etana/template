@@ -14,9 +14,13 @@
 
 ### Version phpBB3
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`82`](../src/prosilver/album_nuffimage_box.tpl#L82)
+
 ### Version phpBB2
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`85`](../src/subsilver/album_nuffimage_box.tpl#L85)
+
 ### Version PunBB
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`60`](../src/punbb/album_nuffimage_box.tpl#L60)
+
 ### Version Invision
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`60`](../src/invision/album_nuffimage_box.tpl#L60)
+

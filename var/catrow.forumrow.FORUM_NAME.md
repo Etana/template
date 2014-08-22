@@ -18,9 +18,13 @@ Contient le nom du forum bouclé.
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`35`](../src/prosilver/index_box.tpl#L35)
+
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`54`](../src/subsilver/index_box.tpl#L54)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`29`](../src/punbb/index_box.tpl#L29)
+
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`37`](../src/invision/index_box.tpl#L37)
+

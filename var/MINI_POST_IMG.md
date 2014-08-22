@@ -14,5 +14,8 @@
 
 ### Version phpBB3
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`44`](../src/prosilver/modcp_split.tpl#L44)
+
 ### Version phpBB2
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`49`](../src/subsilver/modcp_split.tpl#L49)* __[`posting_preview`](../tpl/posting_preview.md#readme) :__ lignes [`6`](../src/subsilver/posting_preview.tpl#L6)
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`49`](../src/subsilver/modcp_split.tpl#L49)
+* __[`posting_preview`](../tpl/posting_preview.md#readme) :__ lignes [`6`](../src/subsilver/posting_preview.tpl#L6)
+

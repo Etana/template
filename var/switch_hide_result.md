@@ -16,9 +16,13 @@ contenu sur lequel on boucle
 
 ### Version phpBB3
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`23`](../src/prosilver/viewtopic_poll_result.tpl#L23), [`25`](../src/prosilver/viewtopic_poll_result.tpl#L25)
+
 ### Version phpBB2
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`43`](../src/subsilver/viewtopic_poll_result.tpl#L43), [`47`](../src/subsilver/viewtopic_poll_result.tpl#L47)
+
 ### Version PunBB
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`19`](../src/punbb/viewtopic_poll_result.tpl#L19), [`24`](../src/punbb/viewtopic_poll_result.tpl#L24)
+
 ### Version Invision
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`26`](../src/invision/viewtopic_poll_result.tpl#L26), [`28`](../src/invision/viewtopic_poll_result.tpl#L28)
+

@@ -18,7 +18,10 @@ Contient l'information (alt) sur l'ic√¥ne du forum correspondant au forum boucl√
 
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`49`](../src/subsilver/index_box.tpl#L49), [`49`](../src/subsilver/index_box.tpl#L49)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`27`](../src/punbb/index_box.tpl#L27), [`27`](../src/punbb/index_box.tpl#L27)
+
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`34`](../src/invision/index_box.tpl#L34), [`34`](../src/invision/index_box.tpl#L34)
+

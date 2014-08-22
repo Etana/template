@@ -16,3 +16,4 @@
 
 ### Version Invision
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`88`](../src/invision/album_index_body.tpl#L88)
+

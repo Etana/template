@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`9`](../src/subsilver/album_formsearch_body.tpl#L9)
+

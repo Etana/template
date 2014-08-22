@@ -20,7 +20,10 @@ Remplacé par un code html avec l'image `Voir le sujet précédent` spécifiée 
 
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`111`](../src/prosilver/viewtopic_body.tpl#L111), [`256`](../src/prosilver/viewtopic_body.tpl#L256)
+
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/subsilver/viewtopic_body.tpl#L116), [`287`](../src/subsilver/viewtopic_body.tpl#L287)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`123`](../src/punbb/viewtopic_body.tpl#L123), [`267`](../src/punbb/viewtopic_body.tpl#L267)
+

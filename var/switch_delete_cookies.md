@@ -16,3 +16,4 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`90`](../src/subsilver/index_body.tpl#L90), [`92`](../src/subsilver/index_body.tpl#L92)
+

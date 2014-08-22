@@ -18,3 +18,4 @@ Contient le lien vers la catégorie bouclée.
 
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`36`](../src/subsilver/index_box.tpl#L36)
+

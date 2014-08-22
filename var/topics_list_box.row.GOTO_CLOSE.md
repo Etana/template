@@ -18,3 +18,4 @@ Remplacé par `]` si il y a plus d'une page dans le sujet.
 
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`85`](../src/punbb/topics_list_box.tpl#L85)
+

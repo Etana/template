@@ -14,9 +14,13 @@
 
 ### Version phpBB3
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`20`](../src/prosilver/viewtopic_poll_result.tpl#L20)
+
 ### Version phpBB2
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`40`](../src/subsilver/viewtopic_poll_result.tpl#L40)
+
 ### Version PunBB
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`29`](../src/punbb/viewtopic_poll_result.tpl#L29)
+
 ### Version Invision
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`24`](../src/invision/viewtopic_poll_result.tpl#L24)
+

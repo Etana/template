@@ -18,3 +18,4 @@ Contient le niveau de hiérarchie de la catégorie bouclée.
 
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`34`](../src/subsilver/index_box.tpl#L34), [`38`](../src/subsilver/index_box.tpl#L38)
+

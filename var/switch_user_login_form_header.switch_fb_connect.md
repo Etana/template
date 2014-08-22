@@ -18,9 +18,13 @@ Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`15`](../src/prosilver/index_body.tpl#L15), [`18`](../src/prosilver/index_body.tpl#L18)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`46`](../src/subsilver/index_body.tpl#L46), [`79`](../src/subsilver/index_body.tpl#L79)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`43`](../src/punbb/index_body.tpl#L43), [`46`](../src/punbb/index_body.tpl#L46)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`28`](../src/invision/index_body.tpl#L28), [`31`](../src/invision/index_body.tpl#L31)
+

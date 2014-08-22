@@ -18,9 +18,14 @@ Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralité
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`29`](../src/prosilver/index_body.tpl#L29)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`6`](../src/subsilver/index_body.tpl#L6)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`23`](../src/punbb/index_body.tpl#L23)
+
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`11`](../src/invision/agreement.tpl#L11)* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`11`](../src/invision/index_body.tpl#L11)
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`11`](../src/invision/agreement.tpl#L11)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`11`](../src/invision/index_body.tpl#L11)
+

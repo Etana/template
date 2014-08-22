@@ -47,10 +47,18 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`53`](../src/prosilver/index_body.tpl#L53)* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`5`](../src/prosilver/mod_whoisonline.tpl#L5)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`53`](../src/prosilver/index_body.tpl#L53)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`5`](../src/prosilver/mod_whoisonline.tpl#L5)
+
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`193`](../src/subsilver/index_body.tpl#L193)* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`9`](../src/subsilver/mod_whoisonline.tpl#L9)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`193`](../src/subsilver/index_body.tpl#L193)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`9`](../src/subsilver/mod_whoisonline.tpl#L9)
+
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`73`](../src/punbb/index_body.tpl#L73)* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`4`](../src/punbb/mod_whoisonline.tpl#L4)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`73`](../src/punbb/index_body.tpl#L73)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`4`](../src/punbb/mod_whoisonline.tpl#L4)
+
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`82`](../src/invision/index_body.tpl#L82)* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`4`](../src/invision/mod_whoisonline.tpl#L4)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`82`](../src/invision/index_body.tpl#L82)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`4`](../src/invision/mod_whoisonline.tpl#L4)
+

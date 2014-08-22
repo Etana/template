@@ -16,3 +16,4 @@ Lien vers la suppression des cookies : `/?mode=delete_cookies`.
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`91`](../src/subsilver/index_body.tpl#L91)
+

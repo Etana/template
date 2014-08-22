@@ -20,3 +20,4 @@
 
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`30`](../src/subsilver/index_box.tpl#L30), [`32`](../src/subsilver/index_box.tpl#L32)
+

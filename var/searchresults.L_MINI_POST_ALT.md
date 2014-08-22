@@ -18,3 +18,4 @@ Chaîne de texte.
 
 ### Version phpBB2
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`39`](../src/subsilver/search_results_posts.tpl#L39)
+

@@ -16,3 +16,4 @@ contenu sur lequel on boucle
 
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`185`](../src/prosilver/posting_body.tpl#L185), [`187`](../src/prosilver/posting_body.tpl#L187)
+

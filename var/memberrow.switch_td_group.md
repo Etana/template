@@ -18,9 +18,13 @@ Boucle affichant la colonne des groupes dans la liste des membres si vous triez 
 
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`47`](../src/prosilver/memberlist_body.tpl#L47), [`49`](../src/prosilver/memberlist_body.tpl#L49)
+
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`41`](../src/subsilver/memberlist_body.tpl#L41), [`43`](../src/subsilver/memberlist_body.tpl#L43)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`80`](../src/punbb/memberlist_body.tpl#L80), [`82`](../src/punbb/memberlist_body.tpl#L82)
+
 ### Version Invision
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`92`](../src/invision/memberlist_body.tpl#L92), [`94`](../src/invision/memberlist_body.tpl#L94)
+

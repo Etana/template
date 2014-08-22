@@ -16,3 +16,4 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`standard`](../tpl/standard.md#readme) :__ lignes [`8`](../src/subsilver/standard.tpl#L8), [`10`](../src/subsilver/standard.tpl#L10)
+

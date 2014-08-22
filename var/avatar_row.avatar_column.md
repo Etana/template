@@ -18,9 +18,13 @@
 
 ### Version phpBB3
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`10`](../src/prosilver/profile_avatar_gallery.tpl#L10), [`17`](../src/prosilver/profile_avatar_gallery.tpl#L17)
+
 ### Version phpBB2
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`16`](../src/subsilver/profile_avatar_gallery.tpl#L16), [`18`](../src/subsilver/profile_avatar_gallery.tpl#L18)
+
 ### Version PunBB
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`28`](../src/punbb/profile_avatar_gallery.tpl#L28), [`36`](../src/punbb/profile_avatar_gallery.tpl#L36)
+
 ### Version Invision
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`15`](../src/invision/profile_avatar_gallery.tpl#L15), [`22`](../src/invision/profile_avatar_gallery.tpl#L22)
+

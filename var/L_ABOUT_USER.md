@@ -13,4 +13,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`13`](../src/subsilver/profile_view_body.tpl#L13)* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`12`](../src/subsilver/rpg_sheet.tpl#L12)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`13`](../src/subsilver/profile_view_body.tpl#L13)
+* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`12`](../src/subsilver/rpg_sheet.tpl#L12)
+

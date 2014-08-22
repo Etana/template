@@ -16,3 +16,4 @@ contenu sur lequel on boucle
 
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/invision/search_results_topics.tpl#L62), [`83`](../src/invision/search_results_topics.tpl#L83)
+

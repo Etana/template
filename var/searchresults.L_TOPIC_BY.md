@@ -16,3 +16,4 @@
 
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`15`](../src/prosilver/search_results_posts.tpl#L15)
+

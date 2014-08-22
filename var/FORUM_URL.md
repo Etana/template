@@ -14,9 +14,14 @@ Contient l'adresse URL de la page.
 
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`83`](../src/prosilver/viewtopic_body.tpl#L83)
+
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`228`](../src/subsilver/album_showpage_body.tpl#L228)* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`84`](../src/subsilver/viewtopic_body.tpl#L84)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`228`](../src/subsilver/album_showpage_body.tpl#L228)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`84`](../src/subsilver/viewtopic_body.tpl#L84)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`100`](../src/punbb/viewtopic_body.tpl#L100)
+
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`78`](../src/invision/viewtopic_body.tpl#L78)
+

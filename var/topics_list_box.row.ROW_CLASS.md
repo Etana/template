@@ -18,3 +18,4 @@
 
 ### Version phpBB2
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`48`](../src/subsilver/topics_list_box.tpl#L48), [`52`](../src/subsilver/topics_list_box.tpl#L52), [`54`](../src/subsilver/topics_list_box.tpl#L54), [`54`](../src/subsilver/topics_list_box.tpl#L54)
+

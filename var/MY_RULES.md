@@ -14,9 +14,13 @@ Affiche vos conditions d'inscription définies dans `PA > Général > Règlement
 
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`19`](../src/prosilver/agreement.tpl#L19)
+
 ### Version phpBB2
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`28`](../src/subsilver/agreement.tpl#L28)
+
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`30`](../src/punbb/agreement.tpl#L30)
+
 ### Version Invision
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`45`](../src/invision/agreement.tpl#L45)
+

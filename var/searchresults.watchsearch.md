@@ -18,3 +18,4 @@ Boucle d'affichage si vous êtes dans la partie `/search?search_id=watchsearch`.
 
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`47`](../src/subsilver/search_results_topics.tpl#L47), [`49`](../src/subsilver/search_results_topics.tpl#L49)
+

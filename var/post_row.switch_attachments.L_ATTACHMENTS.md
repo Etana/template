@@ -18,9 +18,13 @@
 
 ### Version phpBB3
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`17`](../src/prosilver/mod_news.tpl#L17)
+
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`23`](../src/subsilver/mod_news.tpl#L23)
+
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`16`](../src/punbb/mod_news.tpl#L16)
+
 ### Version Invision
 * __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`15`](../src/invision/mod_news.tpl#L15)
+

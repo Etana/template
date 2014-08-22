@@ -16,7 +16,10 @@ contenu sur lequel on boucle
 
 ### Version phpBB3
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`1`](../src/prosilver/profile_edit_signature.tpl#L1), [`8`](../src/prosilver/profile_edit_signature.tpl#L8)
+
 ### Version phpBB2
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`1`](../src/subsilver/profile_edit_signature.tpl#L1), [`20`](../src/subsilver/profile_edit_signature.tpl#L20)
+
 ### Version Invision
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`7`](../src/invision/profile_edit_signature.tpl#L7), [`16`](../src/invision/profile_edit_signature.tpl#L16)
+

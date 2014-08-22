@@ -14,3 +14,4 @@ Position de la barre de navigation selon le choix de l'administrateur dans `PA >
 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`273`](../src/subsilver/overall_header.tpl#L273), [`275`](../src/subsilver/overall_header.tpl#L275)
+

@@ -13,4 +13,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`55`](../src/subsilver/album_cat_body.tpl#L55), [`122`](../src/subsilver/album_cat_body.tpl#L122)* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`19`](../src/subsilver/album_index_body.tpl#L19)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`55`](../src/subsilver/album_cat_body.tpl#L55), [`122`](../src/subsilver/album_cat_body.tpl#L122)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`19`](../src/subsilver/album_index_body.tpl#L19)
+

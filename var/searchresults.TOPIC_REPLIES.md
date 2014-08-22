@@ -16,9 +16,13 @@ Contient le nombre de réponses dans le sujet.
 
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`20`](../src/prosilver/search_results_posts.tpl#L20)
+
 ### Version phpBB2
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`32`](../src/subsilver/search_results_posts.tpl#L32)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`61`](../src/punbb/search_results_posts.tpl#L61)
+
 ### Version Invision
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`32`](../src/invision/search_results_posts.tpl#L32)
+

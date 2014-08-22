@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`67`](../src/subsilver/privmsgs_read_body.tpl#L67), [`69`](../src/subsilver/privmsgs_read_body.tpl#L69), [`73`](../src/subsilver/privmsgs_read_body.tpl#L73)
+

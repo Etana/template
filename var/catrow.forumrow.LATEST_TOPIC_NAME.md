@@ -18,7 +18,10 @@
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`56`](../src/prosilver/index_box.tpl#L56)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`48`](../src/punbb/index_box.tpl#L48)
+
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`61`](../src/invision/index_box.tpl#L61)
+

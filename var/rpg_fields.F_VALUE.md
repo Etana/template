@@ -15,4 +15,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`33`](../src/subsilver/rpg_sheet.tpl#L33)* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`52`](../src/subsilver/rpg_sheet_edit.tpl#L52)
+* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`33`](../src/subsilver/rpg_sheet.tpl#L33)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`52`](../src/subsilver/rpg_sheet_edit.tpl#L52)
+

@@ -23,5 +23,7 @@ Dans la template de base, c'est utilisé comme classe aux cases afin de donner u
 
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`77`](../src/prosilver/groupcp_info_body.tpl#L77)
+
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`66`](../src/subsilver/groupcp_info_body.tpl#L66), [`67`](../src/subsilver/groupcp_info_body.tpl#L67), [`68`](../src/subsilver/groupcp_info_body.tpl#L68), [`69`](../src/subsilver/groupcp_info_body.tpl#L69), [`70`](../src/subsilver/groupcp_info_body.tpl#L70), [`71`](../src/subsilver/groupcp_info_body.tpl#L71), [`72`](../src/subsilver/groupcp_info_body.tpl#L72)
+

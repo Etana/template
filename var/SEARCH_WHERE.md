@@ -14,5 +14,8 @@
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`35`](../src/prosilver/viewforum_body.tpl#L35)
+
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`163`](../src/invision/topics_list_box.tpl#L163)* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`290`](../src/invision/viewtopic_body.tpl#L290)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`163`](../src/invision/topics_list_box.tpl#L163)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`290`](../src/invision/viewtopic_body.tpl#L290)
+

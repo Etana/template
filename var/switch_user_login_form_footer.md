@@ -16,9 +16,13 @@ Boucle d'affichage si vous avez activé la connexion rapide en bas de la page d'
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`103`](../src/prosilver/index_body.tpl#L103), [`120`](../src/prosilver/index_body.tpl#L120)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`109`](../src/subsilver/index_body.tpl#L109), [`171`](../src/subsilver/index_body.tpl#L171)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`105`](../src/punbb/index_body.tpl#L105), [`118`](../src/punbb/index_body.tpl#L118)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`169`](../src/invision/index_body.tpl#L169), [`184`](../src/invision/index_body.tpl#L184)
+

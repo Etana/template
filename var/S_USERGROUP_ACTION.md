@@ -14,3 +14,4 @@
 
 ### Version PunBB
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`56`](../src/punbb/groupcp_user_body.tpl#L56)
+

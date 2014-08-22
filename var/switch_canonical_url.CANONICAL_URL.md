@@ -16,9 +16,13 @@ Contient l'adresse URL de la balise link rel canonical qui est liée au duplicat
 
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/prosilver/overall_header.tpl#L12)
+
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/subsilver/overall_header.tpl#L12)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/punbb/overall_header.tpl#L12)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/invision/overall_header.tpl#L12)
+

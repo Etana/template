@@ -16,7 +16,10 @@ Chaîne de texte.
 
 ### Version phpBB3
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`55`](../src/prosilver/viewonline_body.tpl#L55)
+
 ### Version phpBB2
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`55`](../src/subsilver/viewonline_body.tpl#L55)
+
 ### Version Invision
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`46`](../src/invision/viewonline_body.tpl#L46)
+

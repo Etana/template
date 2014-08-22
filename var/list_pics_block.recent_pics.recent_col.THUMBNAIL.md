@@ -20,3 +20,4 @@
 
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`126`](../src/subsilver/album_cat_body.tpl#L126), [`128`](../src/subsilver/album_cat_body.tpl#L128)
+

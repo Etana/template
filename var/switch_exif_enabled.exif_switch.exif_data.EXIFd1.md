@@ -20,3 +20,4 @@
 
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`364`](../src/subsilver/album_showpage_body.tpl#L364)
+

@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`98`](../src/subsilver/posting_body.tpl#L98)
+

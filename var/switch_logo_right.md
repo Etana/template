@@ -16,3 +16,4 @@ Boucle s'affichant si vous avez sélectionné "A droite" dans `PA > Affichage > 
 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`267`](../src/subsilver/overall_header.tpl#L267), [`269`](../src/subsilver/overall_header.tpl#L269)
+

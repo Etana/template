@@ -16,3 +16,4 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`357`](../src/subsilver/album_showpage_body.tpl#L357), [`372`](../src/subsilver/album_showpage_body.tpl#L372)
+

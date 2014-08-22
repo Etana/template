@@ -16,3 +16,4 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`274`](../src/subsilver/viewtopic_body.tpl#L274), [`280`](../src/subsilver/viewtopic_body.tpl#L280)
+

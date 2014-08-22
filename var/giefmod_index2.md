@@ -16,9 +16,13 @@ Boucle d'affichage de vos widgets de la colonne de droite si ceux-ci sont activ√
 
 ### Version phpBB3
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`16`](../src/prosilver/overall_footer_begin.tpl#L16), [`21`](../src/prosilver/overall_footer_begin.tpl#L21)
+
 ### Version phpBB2
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`12`](../src/subsilver/overall_footer_begin.tpl#L12), [`17`](../src/subsilver/overall_footer_begin.tpl#L17)
+
 ### Version PunBB
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`17`](../src/punbb/overall_footer_begin.tpl#L17), [`22`](../src/punbb/overall_footer_begin.tpl#L22)
+
 ### Version Invision
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`15`](../src/invision/overall_footer_begin.tpl#L15), [`20`](../src/invision/overall_footer_begin.tpl#L20)
+

@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`54`](../src/subsilver/calendar_scheduler_body.tpl#L54)
+

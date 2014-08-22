@@ -20,9 +20,13 @@
 
 ### Version phpBB3
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`58`](../src/prosilver/birthday_list_box.tpl#L58), [`59`](../src/prosilver/birthday_list_box.tpl#L59)
+
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`58`](../src/subsilver/birthday_list_box.tpl#L58), [`59`](../src/subsilver/birthday_list_box.tpl#L59)
+
 ### Version PunBB
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`47`](../src/punbb/birthday_list_box.tpl#L47), [`48`](../src/punbb/birthday_list_box.tpl#L48)
+
 ### Version Invision
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`49`](../src/invision/birthday_list_box.tpl#L49), [`50`](../src/invision/birthday_list_box.tpl#L50)
+

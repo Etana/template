@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`posting_preview`](../tpl/posting_preview.md#readme) :__ lignes [`7`](../src/subsilver/posting_preview.tpl#L7)
+

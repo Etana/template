@@ -16,9 +16,13 @@ Contient la hauteur des annonces définie dans `PA > Général > Messages et Ema
 
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`42`](../src/prosilver/overall_header.tpl#L42), [`134`](../src/prosilver/overall_header.tpl#L134), [`308`](../src/prosilver/overall_header.tpl#L308)
+
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`42`](../src/subsilver/overall_header.tpl#L42), [`140`](../src/subsilver/overall_header.tpl#L140), [`305`](../src/subsilver/overall_header.tpl#L305)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`42`](../src/punbb/overall_header.tpl#L42), [`134`](../src/punbb/overall_header.tpl#L134), [`282`](../src/punbb/overall_header.tpl#L282)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`49`](../src/invision/overall_header.tpl#L49), [`89`](../src/invision/overall_header.tpl#L89), [`301`](../src/invision/overall_header.tpl#L301)
+

@@ -18,9 +18,13 @@
 
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`169`](../src/prosilver/album_cat_body.tpl#L169), [`171`](../src/prosilver/album_cat_body.tpl#L171)
+
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`308`](../src/subsilver/album_cat_body.tpl#L308), [`312`](../src/subsilver/album_cat_body.tpl#L312)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`163`](../src/punbb/album_cat_body.tpl#L163), [`165`](../src/punbb/album_cat_body.tpl#L165)
+
 ### Version Invision
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`194`](../src/invision/album_cat_body.tpl#L194), [`199`](../src/invision/album_cat_body.tpl#L199)
+

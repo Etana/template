@@ -14,9 +14,15 @@
 
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`144`](../src/prosilver/posting_body.tpl#L144)
+
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`492`](../src/subsilver/posting_body.tpl#L492)
+
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`193`](../src/punbb/posting_body.tpl#L193)* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`42`](../src/punbb/profile_edit_signature.tpl#L42)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`193`](../src/punbb/posting_body.tpl#L193)
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`42`](../src/punbb/profile_edit_signature.tpl#L42)
+
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`140`](../src/invision/posting_body.tpl#L140)* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`43`](../src/invision/profile_edit_signature.tpl#L43)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`140`](../src/invision/posting_body.tpl#L140)
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`43`](../src/invision/profile_edit_signature.tpl#L43)
+

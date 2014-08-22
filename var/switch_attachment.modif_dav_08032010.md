@@ -18,3 +18,4 @@
 
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`419`](../src/subsilver/posting_body.tpl#L419), [`426`](../src/subsilver/posting_body.tpl#L426)
+

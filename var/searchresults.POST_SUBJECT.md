@@ -16,3 +16,4 @@ Contient le titre du sujet.
 
 ### Version phpBB2
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`41`](../src/subsilver/search_results_posts.tpl#L41)
+

@@ -14,10 +14,18 @@ Remplacement français `Approuver la sélection` si il y a un membre en cours de
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`33`](../src/prosilver/groupcp_pending_info.tpl#L33)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`33`](../src/prosilver/groupcp_pending_info.tpl#L33)
+
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`27`](../src/subsilver/groupcp_pending_info.tpl#L27)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`27`](../src/subsilver/groupcp_pending_info.tpl#L27)
+
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`35`](../src/punbb/groupcp_pending_info.tpl#L35)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`35`](../src/punbb/groupcp_pending_info.tpl#L35)
+
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`31`](../src/invision/groupcp_pending_info.tpl#L31)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`31`](../src/invision/groupcp_pending_info.tpl#L31)
+

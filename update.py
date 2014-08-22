@@ -242,6 +242,7 @@ for var in variables:
                     else:
                         f.write(', ')
                     f.write('[`'+str(num_line)+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(num_line)+')')
+                f.write('\n')
             f.write('\n')
 
 

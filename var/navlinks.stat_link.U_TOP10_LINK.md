@@ -18,3 +18,4 @@
 
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`310`](../src/subsilver/album_cat_body.tpl#L310)
+

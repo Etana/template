@@ -14,9 +14,13 @@
 
 ### Version phpBB3
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`100`](../src/prosilver/album_showpage_body.tpl#L100)
+
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`101`](../src/subsilver/album_showpage_body.tpl#L101)
+
 ### Version PunBB
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`101`](../src/punbb/album_showpage_body.tpl#L101)
+
 ### Version Invision
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`96`](../src/invision/album_showpage_body.tpl#L96)
+

@@ -20,7 +20,10 @@
 
 ### Version phpBB3
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`30`](../src/prosilver/album_index_body.tpl#L30)
+
 ### Version PunBB
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`38`](../src/punbb/album_index_body.tpl#L38)
+
 ### Version Invision
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`43`](../src/invision/album_index_body.tpl#L43)
+

@@ -15,3 +15,4 @@ Contient la valeur spécifiée pour `Description du site` dans [`Index`](http://
 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`265`](../src/subsilver/overall_header.tpl#L265)
+

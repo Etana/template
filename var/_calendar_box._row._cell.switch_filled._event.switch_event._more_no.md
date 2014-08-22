@@ -28,3 +28,4 @@
 
 ### Version phpBB2
 * __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`58`](../src/subsilver/calendar_box.tpl#L58), [`60`](../src/subsilver/calendar_box.tpl#L60)
+

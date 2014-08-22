@@ -18,9 +18,13 @@ Contient le texte du lien défini dans `PA > Modules > Liens de bas de page | Co
 
 ### Version phpBB3
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`22`](../src/prosilver/overall_footer_end.tpl#L22)
+
 ### Version phpBB2
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`19`](../src/subsilver/overall_footer_end.tpl#L19)
+
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`21`](../src/punbb/overall_footer_end.tpl#L21)
+
 ### Version Invision
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`23`](../src/invision/overall_footer_end.tpl#L23)
+

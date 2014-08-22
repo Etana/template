@@ -15,8 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`39`](../src/prosilver/album_modcp_body.tpl#L39)* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`86`](../src/prosilver/album_moderate_body.tpl#L86)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`39`](../src/prosilver/album_modcp_body.tpl#L39)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`86`](../src/prosilver/album_moderate_body.tpl#L86)
+
 ### Version PunBB
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`52`](../src/punbb/album_modcp_body.tpl#L52)* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`97`](../src/punbb/album_moderate_body.tpl#L97)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`52`](../src/punbb/album_modcp_body.tpl#L52)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`97`](../src/punbb/album_moderate_body.tpl#L97)
+
 ### Version Invision
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`41`](../src/invision/album_modcp_body.tpl#L41)* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`87`](../src/invision/album_moderate_body.tpl#L87)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`41`](../src/invision/album_modcp_body.tpl#L41)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`87`](../src/invision/album_moderate_body.tpl#L87)
+

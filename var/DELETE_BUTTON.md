@@ -14,3 +14,4 @@
 
 ### Version phpBB2
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`59`](../src/subsilver/album_modcp_body.tpl#L59)
+

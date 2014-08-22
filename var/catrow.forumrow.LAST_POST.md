@@ -18,3 +18,4 @@ Contient le contenu du dernier message posté dans le forum bouclé.
 
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`77`](../src/subsilver/index_box.tpl#L77)
+

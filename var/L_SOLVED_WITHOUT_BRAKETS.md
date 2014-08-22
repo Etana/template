@@ -14,9 +14,13 @@ Nom du bouton résolu dans les options du message
 
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`316`](../src/prosilver/posting_body.tpl#L316)
+
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`477`](../src/subsilver/posting_body.tpl#L477)
+
 ### Version PunBB
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`368`](../src/punbb/posting_body.tpl#L368)
+
 ### Version Invision
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`287`](../src/invision/posting_body.tpl#L287)
+

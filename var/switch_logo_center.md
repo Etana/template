@@ -16,3 +16,4 @@ Boucle s'affichant si vous avez sélectionné "Centré" dans `PA > Affichage > P
 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`259`](../src/subsilver/overall_header.tpl#L259), [`262`](../src/subsilver/overall_header.tpl#L262)
+

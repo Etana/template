@@ -18,9 +18,13 @@ Contient le script de Facebook Connect si celui-ci est activé dans `PA > Module
 
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`27`](../src/prosilver/overall_header.tpl#L27)
+
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`27`](../src/subsilver/overall_header.tpl#L27)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`27`](../src/punbb/overall_header.tpl#L27)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`27`](../src/invision/overall_header.tpl#L27)
+

@@ -20,9 +20,13 @@ Chaîne de texte.
 
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`113`](../src/prosilver/index_body.tpl#L113)
+
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`161`](../src/subsilver/index_body.tpl#L161)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`113`](../src/punbb/index_body.tpl#L113)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`178`](../src/invision/index_body.tpl#L178)
+

@@ -20,9 +20,13 @@ Adresse URL d'une image vide.
 
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`29`](../src/prosilver/buy_credits.tpl#L29)
+
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`41`](../src/subsilver/buy_credits.tpl#L41)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`50`](../src/punbb/buy_credits.tpl#L50)
+
 ### Version Invision
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`36`](../src/invision/buy_credits.tpl#L36)
+

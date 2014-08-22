@@ -14,7 +14,10 @@
 
 ### Version phpBB3
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`24`](../src/prosilver/album_search_body.tpl#L24)
+
 ### Version phpBB2
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`26`](../src/subsilver/album_search_body.tpl#L26)
+
 ### Version PunBB
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`34`](../src/punbb/album_search_body.tpl#L34)
+

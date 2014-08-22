@@ -16,5 +16,7 @@ contenu sur lequel on boucle
 
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`364`](../src/prosilver/viewtopic_body.tpl#L364), [`367`](../src/prosilver/viewtopic_body.tpl#L367)
+
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`393`](../src/subsilver/viewtopic_body.tpl#L393), [`398`](../src/subsilver/viewtopic_body.tpl#L398), [`404`](../src/subsilver/viewtopic_body.tpl#L404), [`406`](../src/subsilver/viewtopic_body.tpl#L406)
+

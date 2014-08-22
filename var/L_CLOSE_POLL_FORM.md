@@ -14,3 +14,4 @@
 
 ### Version Invision
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`93`](../src/invision/posting_poll_body.tpl#L93)
+
