@@ -1,0 +1,18 @@
+# catrow.forumrow.inc
+* __Type :__ sous-variable de bouclage
+* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation :__
+
+```html
+{catrow.forumrow.inc}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.inc)
+
+## Utilisations dans les templates
+
+### Version phpBB2
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`45`](../src/subsilver/index_box.tpl#L45)[`<->`](../src/subsilver/index_box.tpl#L45-L45)[`45`](../src/subsilver/index_box.tpl#L45)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`47`](../src/subsilver/index_box.tpl#L47)[`<->`](../src/subsilver/index_box.tpl#L47-L47)[`47`](../src/subsilver/index_box.tpl#L47)
+

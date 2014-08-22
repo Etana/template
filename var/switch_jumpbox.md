@@ -1,0 +1,18 @@
+# switch_jumpbox
+* __Type :__ variable de bouclage
+* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation :__
+
+```html
+{switch_jumpbox}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_jumpbox)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_jumpbox)
+
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`398`](../src/prosilver/posting_body.tpl#L398)[`<->`](../src/prosilver/posting_body.tpl#L398-L398)[`398`](../src/prosilver/posting_body.tpl#L398)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`402`](../src/prosilver/posting_body.tpl#L402)[`<->`](../src/prosilver/posting_body.tpl#L402-L402)[`402`](../src/prosilver/posting_body.tpl#L402)
+

@@ -1,0 +1,30 @@
+# post_row
+* __Type :__ variable de bouclage
+* __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme)
+* __Utilisation :__
+
+```html
+{post_row}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/post_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/post_row)
+
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`1`](../src/prosilver/mod_news.tpl#L1)[`<->`](../src/prosilver/mod_news.tpl#L1-L1)[`1`](../src/prosilver/mod_news.tpl#L1)
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`58`](../src/prosilver/mod_news.tpl#L58)[`<->`](../src/prosilver/mod_news.tpl#L58-L58)[`58`](../src/prosilver/mod_news.tpl#L58)
+
+### Version phpBB2
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`1`](../src/subsilver/mod_news.tpl#L1)[`<->`](../src/subsilver/mod_news.tpl#L1-L1)[`1`](../src/subsilver/mod_news.tpl#L1)
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`67`](../src/subsilver/mod_news.tpl#L67)[`<->`](../src/subsilver/mod_news.tpl#L67-L67)[`67`](../src/subsilver/mod_news.tpl#L67)
+
+### Version PunBB
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`1`](../src/punbb/mod_news.tpl#L1)[`<->`](../src/punbb/mod_news.tpl#L1-L1)[`1`](../src/punbb/mod_news.tpl#L1)
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`58`](../src/punbb/mod_news.tpl#L58)[`<->`](../src/punbb/mod_news.tpl#L58-L58)[`58`](../src/punbb/mod_news.tpl#L58)
+
+### Version Invision
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`1`](../src/invision/mod_news.tpl#L1)[`<->`](../src/invision/mod_news.tpl#L1-L1)[`1`](../src/invision/mod_news.tpl#L1)
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`60`](../src/invision/mod_news.tpl#L60)[`<->`](../src/invision/mod_news.tpl#L60-L60)[`60`](../src/invision/mod_news.tpl#L60)
+

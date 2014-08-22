@@ -1,0 +1,26 @@
+# switch_th_group
+* __Type :__ variable de bouclage
+* __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisation :__
+
+```html
+{switch_th_group}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_th_group)
+Boucle affichant le titre de la colonne des groupes dans la liste des membres si vous triez les membres par "Groupes".
+
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`31`](../src/prosilver/memberlist_body.tpl#L31)[`<->`](../src/prosilver/memberlist_body.tpl#L31-L31)[`31`](../src/prosilver/memberlist_body.tpl#L31)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`33`](../src/prosilver/memberlist_body.tpl#L33)[`<->`](../src/prosilver/memberlist_body.tpl#L33-L33)[`33`](../src/prosilver/memberlist_body.tpl#L33)
+
+### Version phpBB2
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`26`](../src/subsilver/memberlist_body.tpl#L26)[`<->`](../src/subsilver/memberlist_body.tpl#L26-L26)[`26`](../src/subsilver/memberlist_body.tpl#L26)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`28`](../src/subsilver/memberlist_body.tpl#L28)[`<->`](../src/subsilver/memberlist_body.tpl#L28-L28)[`28`](../src/subsilver/memberlist_body.tpl#L28)
+
+### Version PunBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`64`](../src/punbb/memberlist_body.tpl#L64)[`<->`](../src/punbb/memberlist_body.tpl#L64-L64)[`64`](../src/punbb/memberlist_body.tpl#L64)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`66`](../src/punbb/memberlist_body.tpl#L66)[`<->`](../src/punbb/memberlist_body.tpl#L66-L66)[`66`](../src/punbb/memberlist_body.tpl#L66)
+

@@ -1,0 +1,18 @@
+# switch_on_index.switch_user_logged_in
+* __Type :__ sous-variable de bouclage
+* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation :__
+
+```html
+{switch_on_index.switch_user_logged_in}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_on_index.switch_user_logged_in)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index.switch_user_logged_in)
+
+## Utilisations dans les templates
+
+### Version Invision
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`83`](../src/invision/index_box.tpl#L83)[`<->`](../src/invision/index_box.tpl#L83-L83)[`83`](../src/invision/index_box.tpl#L83)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`85`](../src/invision/index_box.tpl#L85)[`<->`](../src/invision/index_box.tpl#L85-L85)[`85`](../src/invision/index_box.tpl#L85)
+

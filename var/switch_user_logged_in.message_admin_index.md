@@ -1,0 +1,18 @@
+# switch_user_logged_in.message_admin_index
+* __Type :__ sous-variable de bouclage
+* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
+* __Utilisation :__
+
+```html
+{switch_user_logged_in.message_admin_index}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index)
+
+## Utilisations dans les templates
+
+### Version Invision
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`9`](../src/invision/agreement.tpl#L9)[`<->`](../src/invision/agreement.tpl#L9-L9)[`9`](../src/invision/agreement.tpl#L9)
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`16`](../src/invision/agreement.tpl#L16)[`<->`](../src/invision/agreement.tpl#L16-L16)[`16`](../src/invision/agreement.tpl#L16)
+

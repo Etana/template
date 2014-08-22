@@ -1,0 +1,18 @@
+# build_categories_block.recent_pics.norecent_detail2
+* __Type :__ sous-variable de bouclage
+* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
+* __Utilisation :__
+
+```html
+{build_categories_block.recent_pics.norecent_detail2}
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.norecent_detail2)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.norecent_detail2)
+
+## Utilisations dans les templates
+
+### Version phpBB2
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`59`](../src/subsilver/album_index_body.tpl#L59)[`<->`](../src/subsilver/album_index_body.tpl#L59-L59)[`59`](../src/subsilver/album_index_body.tpl#L59)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`61`](../src/subsilver/album_index_body.tpl#L61)[`<->`](../src/subsilver/album_index_body.tpl#L61-L61)[`61`](../src/subsilver/album_index_body.tpl#L61)
+
