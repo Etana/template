@@ -25,11 +25,11 @@
 
 ### Positions des variables
 
-* __[`[`{U_REPORT_LIST}`]`](../var/U_REPORT_LIST.md#readme) :__ ligne [`10`](../src/prosilver/report_popup_body.tpl#L10)
-* __[`[`<!-- BEGIN html_validation -->`]`](../var/html_validation.md#readme) :__ ligne [`1`](../src/prosilver/report_popup_body.tpl#L1)
-* __[`[`<!-- END html_validation -->`]`](../var/html_validation.md#readme) :__ ligne [`5`](../src/prosilver/report_popup_body.tpl#L5)
-* __[`[`{L_MESSAGE}`]`](../var/L_MESSAGE.md#readme) :__ ligne [`22`](../src/prosilver/report_popup_body.tpl#L22)
-* __[`[`{L_CLOSE_WINDOW}`]`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`24`](../src/prosilver/report_popup_body.tpl#L24)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme) :__ ligne [`22`](../src/prosilver/report_popup_body.tpl#L22)
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`24`](../src/prosilver/report_popup_body.tpl#L24)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/prosilver/report_popup_body.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/prosilver/report_popup_body.tpl#L5)
+* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme) :__ ligne [`10`](../src/prosilver/report_popup_body.tpl#L10)
 
 ## Template par défaut phpBB2
 
@@ -37,9 +37,9 @@
 
 ### Positions des variables
 
-* __[`[`{U_REPORT_LIST}`]`](../var/U_REPORT_LIST.md#readme) :__ ligne [`5`](../src/subsilver/report_popup_body.tpl#L5)
-* __[`[`{L_MESSAGE}`]`](../var/L_MESSAGE.md#readme) :__ ligne [`16`](../src/subsilver/report_popup_body.tpl#L16)
-* __[`[`{L_CLOSE_WINDOW}`]`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`18`](../src/subsilver/report_popup_body.tpl#L18)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme) :__ ligne [`16`](../src/subsilver/report_popup_body.tpl#L16)
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`18`](../src/subsilver/report_popup_body.tpl#L18)
+* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme) :__ ligne [`5`](../src/subsilver/report_popup_body.tpl#L5)
 
 ## Template par défaut PunBB
 
@@ -47,11 +47,11 @@
 
 ### Positions des variables
 
-* __[`[`{U_REPORT_LIST}`]`](../var/U_REPORT_LIST.md#readme) :__ ligne [`10`](../src/punbb/report_popup_body.tpl#L10)
-* __[`[`<!-- BEGIN html_validation -->`]`](../var/html_validation.md#readme) :__ ligne [`1`](../src/punbb/report_popup_body.tpl#L1)
-* __[`[`<!-- END html_validation -->`]`](../var/html_validation.md#readme) :__ ligne [`5`](../src/punbb/report_popup_body.tpl#L5)
-* __[`[`{L_MESSAGE}`]`](../var/L_MESSAGE.md#readme) :__ ligne [`24`](../src/punbb/report_popup_body.tpl#L24)
-* __[`[`{L_CLOSE_WINDOW}`]`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`27`](../src/punbb/report_popup_body.tpl#L27)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme) :__ ligne [`24`](../src/punbb/report_popup_body.tpl#L24)
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`27`](../src/punbb/report_popup_body.tpl#L27)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/punbb/report_popup_body.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/punbb/report_popup_body.tpl#L5)
+* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme) :__ ligne [`10`](../src/punbb/report_popup_body.tpl#L10)
 
 ## Template par défaut Invision
 
@@ -59,8 +59,8 @@
 
 ### Positions des variables
 
-* __[`[`{U_REPORT_LIST}`]`](../var/U_REPORT_LIST.md#readme) :__ ligne [`10`](../src/invision/report_popup_body.tpl#L10)
-* __[`[`<!-- BEGIN html_validation -->`]`](../var/html_validation.md#readme) :__ ligne [`1`](../src/invision/report_popup_body.tpl#L1)
-* __[`[`<!-- END html_validation -->`]`](../var/html_validation.md#readme) :__ ligne [`5`](../src/invision/report_popup_body.tpl#L5)
-* __[`[`{L_MESSAGE}`]`](../var/L_MESSAGE.md#readme) :__ ligne [`22`](../src/invision/report_popup_body.tpl#L22)
-* __[`[`{L_CLOSE_WINDOW}`]`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`25`](../src/invision/report_popup_body.tpl#L25)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme) :__ ligne [`22`](../src/invision/report_popup_body.tpl#L22)
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme) :__ ligne [`25`](../src/invision/report_popup_body.tpl#L25)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/invision/report_popup_body.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/invision/report_popup_body.tpl#L5)
+* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme) :__ ligne [`10`](../src/invision/report_popup_body.tpl#L10)

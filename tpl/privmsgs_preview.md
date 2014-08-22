@@ -31,14 +31,14 @@
 
 ### Positions des variables
 
-* __[`[`{MESSAGE_TO}`]`](../var/MESSAGE_TO.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
-* __[`[`{L_TO}`]`](../var/L_TO.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
-* __[`[`{POST_SUBJECT}`]`](../var/POST_SUBJECT.md#readme) :__ ligne [`5`](../src/prosilver/privmsgs_preview.tpl#L5)
-* __[`[`{POST_DATE}`]`](../var/POST_DATE.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
-* __[`[`{MESSAGE_FROM}`]`](../var/MESSAGE_FROM.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
-* __[`[`{MESSAGE_NEW}`]`](../var/MESSAGE_NEW.md#readme) :__ ligne [`8`](../src/prosilver/privmsgs_preview.tpl#L8)
-* __[`[`{L_FROM}`]`](../var/L_FROM.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
-* __[`[`{L_PREVIEW}`]`](../var/L_PREVIEW.md#readme) :__ ligne [`1`](../src/prosilver/privmsgs_preview.tpl#L1)
+* __[`{MESSAGE_NEW}`](../var/MESSAGE_NEW.md#readme) :__ ligne [`8`](../src/prosilver/privmsgs_preview.tpl#L8)
+* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme) :__ ligne [`1`](../src/prosilver/privmsgs_preview.tpl#L1)
+* __[`{POST_DATE}`](../var/POST_DATE.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
+* __[`{MESSAGE_TO}`](../var/MESSAGE_TO.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
+* __[`{L_TO}`](../var/L_TO.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
+* __[`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme) :__ ligne [`5`](../src/prosilver/privmsgs_preview.tpl#L5)
+* __[`{L_FROM}`](../var/L_FROM.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
+* __[`{MESSAGE_FROM}`](../var/MESSAGE_FROM.md#readme) :__ ligne [`6`](../src/prosilver/privmsgs_preview.tpl#L6)
 
 ## Template par défaut phpBB2
 
@@ -46,16 +46,16 @@
 
 ### Positions des variables
 
-* __[`[`{MESSAGE_TO}`]`](../var/MESSAGE_TO.md#readme) :__ ligne [`11`](../src/subsilver/privmsgs_preview.tpl#L11)
-* __[`[`{L_TO}`]`](../var/L_TO.md#readme) :__ ligne [`10`](../src/subsilver/privmsgs_preview.tpl#L10)
-* __[`[`{MESSAGE}`]`](../var/MESSAGE.md#readme) :__ ligne [`22`](../src/subsilver/privmsgs_preview.tpl#L22)
-* __[`[`{POST_SUBJECT}`]`](../var/POST_SUBJECT.md#readme) :__ ligne [`19`](../src/subsilver/privmsgs_preview.tpl#L19)
-* __[`[`{L_SUBJECT}`]`](../var/L_SUBJECT.md#readme) :__ ligne [`18`](../src/subsilver/privmsgs_preview.tpl#L18)
-* __[`[`{POST_DATE}`]`](../var/POST_DATE.md#readme) :__ ligne [`15`](../src/subsilver/privmsgs_preview.tpl#L15)
-* __[`[`{MESSAGE_FROM}`]`](../var/MESSAGE_FROM.md#readme) :__ ligne [`7`](../src/subsilver/privmsgs_preview.tpl#L7)
-* __[`[`{L_FROM}`]`](../var/L_FROM.md#readme) :__ ligne [`6`](../src/subsilver/privmsgs_preview.tpl#L6)
-* __[`[`{L_PREVIEW}`]`](../var/L_PREVIEW.md#readme) :__ ligne [`3`](../src/subsilver/privmsgs_preview.tpl#L3)
-* __[`[`{L_POSTED}`]`](../var/L_POSTED.md#readme) :__ ligne [`14`](../src/subsilver/privmsgs_preview.tpl#L14)
+* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme) :__ ligne [`3`](../src/subsilver/privmsgs_preview.tpl#L3)
+* __[`{MESSAGE}`](../var/MESSAGE.md#readme) :__ ligne [`22`](../src/subsilver/privmsgs_preview.tpl#L22)
+* __[`{POST_DATE}`](../var/POST_DATE.md#readme) :__ ligne [`15`](../src/subsilver/privmsgs_preview.tpl#L15)
+* __[`{L_POSTED}`](../var/L_POSTED.md#readme) :__ ligne [`14`](../src/subsilver/privmsgs_preview.tpl#L14)
+* __[`{MESSAGE_TO}`](../var/MESSAGE_TO.md#readme) :__ ligne [`11`](../src/subsilver/privmsgs_preview.tpl#L11)
+* __[`{L_TO}`](../var/L_TO.md#readme) :__ ligne [`10`](../src/subsilver/privmsgs_preview.tpl#L10)
+* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme) :__ ligne [`18`](../src/subsilver/privmsgs_preview.tpl#L18)
+* __[`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme) :__ ligne [`19`](../src/subsilver/privmsgs_preview.tpl#L19)
+* __[`{L_FROM}`](../var/L_FROM.md#readme) :__ ligne [`6`](../src/subsilver/privmsgs_preview.tpl#L6)
+* __[`{MESSAGE_FROM}`](../var/MESSAGE_FROM.md#readme) :__ ligne [`7`](../src/subsilver/privmsgs_preview.tpl#L7)
 
 ## Template par défaut PunBB
 
@@ -63,11 +63,11 @@
 
 ### Positions des variables
 
-* __[`[`{POST_SUBJECT}`]`](../var/POST_SUBJECT.md#readme) :__ ligne [`8`](../src/punbb/privmsgs_preview.tpl#L8)
-* __[`[`{POST_DATE}`]`](../var/POST_DATE.md#readme) :__ ligne [`8`](../src/punbb/privmsgs_preview.tpl#L8)
-* __[`[`{MESSAGE_FROM}`]`](../var/MESSAGE_FROM.md#readme) :__ ligne [`12`](../src/punbb/privmsgs_preview.tpl#L12)
-* __[`[`{MESSAGE_NEW}`]`](../var/MESSAGE_NEW.md#readme) :__ ligne [`16`](../src/punbb/privmsgs_preview.tpl#L16)
-* __[`[`{L_PREVIEW}`]`](../var/L_PREVIEW.md#readme) :__ ligne [`2`](../src/punbb/privmsgs_preview.tpl#L2)
+* __[`{MESSAGE_NEW}`](../var/MESSAGE_NEW.md#readme) :__ ligne [`16`](../src/punbb/privmsgs_preview.tpl#L16)
+* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme) :__ ligne [`2`](../src/punbb/privmsgs_preview.tpl#L2)
+* __[`{POST_DATE}`](../var/POST_DATE.md#readme) :__ ligne [`8`](../src/punbb/privmsgs_preview.tpl#L8)
+* __[`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme) :__ ligne [`8`](../src/punbb/privmsgs_preview.tpl#L8)
+* __[`{MESSAGE_FROM}`](../var/MESSAGE_FROM.md#readme) :__ ligne [`12`](../src/punbb/privmsgs_preview.tpl#L12)
 
 ## Template par défaut Invision
 
@@ -75,5 +75,5 @@
 
 ### Positions des variables
 
-* __[`[`{MESSAGE_NEW}`]`](../var/MESSAGE_NEW.md#readme) :__ ligne [`5`](../src/invision/privmsgs_preview.tpl#L5)
-* __[`[`{L_PREVIEW}`]`](../var/L_PREVIEW.md#readme) :__ ligne [`2`](../src/invision/privmsgs_preview.tpl#L2)
+* __[`{MESSAGE_NEW}`](../var/MESSAGE_NEW.md#readme) :__ ligne [`5`](../src/invision/privmsgs_preview.tpl#L5)
+* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme) :__ ligne [`2`](../src/invision/privmsgs_preview.tpl#L2)

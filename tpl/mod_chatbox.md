@@ -21,7 +21,7 @@
 
 ### Positions des variables
 
-* __[`[`{U_FRAME_CHATBOX}`]`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`11`](../src/prosilver/mod_chatbox.tpl#L11)
+* __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`11`](../src/prosilver/mod_chatbox.tpl#L11)
 
 ## Template par défaut phpBB2
 
@@ -29,7 +29,7 @@
 
 ### Positions des variables
 
-* __[`[`{U_FRAME_CHATBOX}`]`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`6`](../src/subsilver/mod_chatbox.tpl#L6)
+* __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`6`](../src/subsilver/mod_chatbox.tpl#L6)
 
 ## Template par défaut PunBB
 
@@ -37,7 +37,7 @@
 
 ### Positions des variables
 
-* __[`[`{U_FRAME_CHATBOX}`]`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`5`](../src/punbb/mod_chatbox.tpl#L5)
+* __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`5`](../src/punbb/mod_chatbox.tpl#L5)
 
 ## Template par défaut Invision
 
@@ -45,4 +45,4 @@
 
 ### Positions des variables
 
-* __[`[`{U_FRAME_CHATBOX}`]`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`5`](../src/invision/mod_chatbox.tpl#L5)
+* __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`5`](../src/invision/mod_chatbox.tpl#L5)

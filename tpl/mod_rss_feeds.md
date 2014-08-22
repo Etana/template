@@ -28,15 +28,15 @@
 
 ### Positions des variables
 
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`]`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`7`](../src/prosilver/mod_rss_feeds.tpl#L7)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`]`](../var/IMGS.URL.md#readme) :__ ligne [`8`](../src/prosilver/mod_rss_feeds.tpl#L8)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`]`](../var/IMGS.IMG.md#readme) :__ ligne [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`]`](../var/IMGS.CLASS.md#readme) :__ ligne [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`]`](../var/IMGS.TITLE.md#readme) :__ ligne [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`]`](../var/IMGS.TITLE.md#readme) :__ ligne [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
-* __[`[`{L_RSS_FEEDS}`]`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`4`](../src/prosilver/mod_rss_feeds.tpl#L4)
-* __[`[`<!-- BEGIN IMGS -->`]`](../var/IMGS.md#readme) :__ ligne [`6`](../src/prosilver/mod_rss_feeds.tpl#L6)
-* __[`[`<!-- END IMGS -->`]`](../var/IMGS.md#readme) :__ ligne [`11`](../src/prosilver/mod_rss_feeds.tpl#L11)
+* __[`<!-- BEGIN IMGS -->`](../var/IMGS.md#readme) :__ ligne [`6`](../src/prosilver/mod_rss_feeds.tpl#L6)
+* __[`<!-- END IMGS -->`](../var/IMGS.md#readme) :__ ligne [`11`](../src/prosilver/mod_rss_feeds.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme) :__ ligne [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme) :__ ligne [`8`](../src/prosilver/mod_rss_feeds.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`7`](../src/prosilver/mod_rss_feeds.tpl#L7)
+* __[`{L_RSS_FEEDS}`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`4`](../src/prosilver/mod_rss_feeds.tpl#L4)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme) :__ ligne [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
 
 ## Template par défaut phpBB2
 
@@ -44,15 +44,15 @@
 
 ### Positions des variables
 
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`]`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`11`](../src/subsilver/mod_rss_feeds.tpl#L11)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`]`](../var/IMGS.URL.md#readme) :__ ligne [`12`](../src/subsilver/mod_rss_feeds.tpl#L12)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`]`](../var/IMGS.IMG.md#readme) :__ ligne [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`]`](../var/IMGS.CLASS.md#readme) :__ ligne [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`]`](../var/IMGS.TITLE.md#readme) :__ ligne [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`]`](../var/IMGS.TITLE.md#readme) :__ ligne [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
-* __[`[`{L_RSS_FEEDS}`]`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`3`](../src/subsilver/mod_rss_feeds.tpl#L3)
-* __[`[`<!-- BEGIN IMGS -->`]`](../var/IMGS.md#readme) :__ ligne [`10`](../src/subsilver/mod_rss_feeds.tpl#L10)
-* __[`[`<!-- END IMGS -->`]`](../var/IMGS.md#readme) :__ ligne [`15`](../src/subsilver/mod_rss_feeds.tpl#L15)
+* __[`<!-- BEGIN IMGS -->`](../var/IMGS.md#readme) :__ ligne [`10`](../src/subsilver/mod_rss_feeds.tpl#L10)
+* __[`<!-- END IMGS -->`](../var/IMGS.md#readme) :__ ligne [`15`](../src/subsilver/mod_rss_feeds.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme) :__ ligne [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme) :__ ligne [`12`](../src/subsilver/mod_rss_feeds.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`11`](../src/subsilver/mod_rss_feeds.tpl#L11)
+* __[`{L_RSS_FEEDS}`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`3`](../src/subsilver/mod_rss_feeds.tpl#L3)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme) :__ ligne [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
 
 ## Template par défaut PunBB
 
@@ -60,15 +60,15 @@
 
 ### Positions des variables
 
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`]`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`7`](../src/punbb/mod_rss_feeds.tpl#L7)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`]`](../var/IMGS.URL.md#readme) :__ ligne [`8`](../src/punbb/mod_rss_feeds.tpl#L8)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`]`](../var/IMGS.IMG.md#readme) :__ ligne [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`]`](../var/IMGS.CLASS.md#readme) :__ ligne [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`]`](../var/IMGS.TITLE.md#readme) :__ ligne [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`]`](../var/IMGS.TITLE.md#readme) :__ ligne [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
-* __[`[`{L_RSS_FEEDS}`]`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`2`](../src/punbb/mod_rss_feeds.tpl#L2)
-* __[`[`<!-- BEGIN IMGS -->`]`](../var/IMGS.md#readme) :__ ligne [`6`](../src/punbb/mod_rss_feeds.tpl#L6)
-* __[`[`<!-- END IMGS -->`]`](../var/IMGS.md#readme) :__ ligne [`11`](../src/punbb/mod_rss_feeds.tpl#L11)
+* __[`<!-- BEGIN IMGS -->`](../var/IMGS.md#readme) :__ ligne [`6`](../src/punbb/mod_rss_feeds.tpl#L6)
+* __[`<!-- END IMGS -->`](../var/IMGS.md#readme) :__ ligne [`11`](../src/punbb/mod_rss_feeds.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme) :__ ligne [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme) :__ ligne [`8`](../src/punbb/mod_rss_feeds.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`7`](../src/punbb/mod_rss_feeds.tpl#L7)
+* __[`{L_RSS_FEEDS}`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`2`](../src/punbb/mod_rss_feeds.tpl#L2)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme) :__ ligne [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
 
 ## Template par défaut Invision
 
@@ -76,12 +76,12 @@
 
 ### Positions des variables
 
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`]`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`5`](../src/invision/mod_rss_feeds.tpl#L5)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`]`](../var/IMGS.URL.md#readme) :__ ligne [`6`](../src/invision/mod_rss_feeds.tpl#L6)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`]`](../var/IMGS.IMG.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`]`](../var/IMGS.CLASS.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`]`](../var/IMGS.TITLE.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`]`](../var/IMGS.TITLE.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
-* __[`[`{L_RSS_FEEDS}`]`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`2`](../src/invision/mod_rss_feeds.tpl#L2)
-* __[`[`<!-- BEGIN IMGS -->`]`](../var/IMGS.md#readme) :__ ligne [`4`](../src/invision/mod_rss_feeds.tpl#L4)
-* __[`[`<!-- END IMGS -->`]`](../var/IMGS.md#readme) :__ ligne [`9`](../src/invision/mod_rss_feeds.tpl#L9)
+* __[`<!-- BEGIN IMGS -->`](../var/IMGS.md#readme) :__ ligne [`4`](../src/invision/mod_rss_feeds.tpl#L4)
+* __[`<!-- END IMGS -->`](../var/IMGS.md#readme) :__ ligne [`9`](../src/invision/mod_rss_feeds.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme) :__ ligne [`6`](../src/invision/mod_rss_feeds.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.NEW_LINE}`](../var/IMGS.NEW_LINE.md#readme) :__ ligne [`5`](../src/invision/mod_rss_feeds.tpl#L5)
+* __[`{L_RSS_FEEDS}`](../var/L_RSS_FEEDS.md#readme) :__ ligne [`2`](../src/invision/mod_rss_feeds.tpl#L2)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme) :__ ligne [`7`](../src/invision/mod_rss_feeds.tpl#L7)

@@ -27,12 +27,12 @@
 
 ### Positions des variables
 
-* __[`[`{S_SOURCE}`]`](../var/S_SOURCE.md#readme) :__ ligne [`6`](../src/prosilver/standard.tpl#L6)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`]`](../var/table_row.L_TITRE.md#readme) :__ ligne [`4`](../src/prosilver/standard.tpl#L4)
-* __[`[`<!-- BEGIN table_row -->`]`](../var/table_row.md#readme) :__ ligne [`1`](../src/prosilver/standard.tpl#L1)
-* __[`[`<!-- END table_row -->`]`](../var/table_row.md#readme) :__ ligne [`5`](../src/prosilver/standard.tpl#L5)
-* __[`[`<!-- BEGIN table_row -->`]`](../var/table_row.md#readme) :__ ligne [`7`](../src/prosilver/standard.tpl#L7)
-* __[`[`<!-- END table_row -->`]`](../var/table_row.md#readme) :__ ligne [`10`](../src/prosilver/standard.tpl#L10)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme) :__ ligne [`1`](../src/prosilver/standard.tpl#L1)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme) :__ ligne [`5`](../src/prosilver/standard.tpl#L5)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme) :__ ligne [`7`](../src/prosilver/standard.tpl#L7)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme) :__ ligne [`10`](../src/prosilver/standard.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme) :__ ligne [`4`](../src/prosilver/standard.tpl#L4)
+* __[`{S_SOURCE}`](../var/S_SOURCE.md#readme) :__ ligne [`6`](../src/prosilver/standard.tpl#L6)
 
 ## Template par défaut phpBB2
 
@@ -40,13 +40,13 @@
 
 ### Positions des variables
 
-* __[`[`<!-- BEGIN not_table_row -->`]`](../var/not_table_row.md#readme) :__ ligne [`8`](../src/subsilver/standard.tpl#L8)
-* __[`[`<!-- END not_table_row -->`]`](../var/not_table_row.md#readme) :__ ligne [`10`](../src/subsilver/standard.tpl#L10)
-* __[`[`{S_SOURCE}`]`](../var/S_SOURCE.md#readme) :__ ligne [`12`](../src/subsilver/standard.tpl#L12)
-* __[`[`{CLASS_TABLE_TYPE}`]`](../var/CLASS_TABLE_TYPE.md#readme) :__ ligne [`12`](../src/subsilver/standard.tpl#L12)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`]`](../var/table_row.L_TITRE.md#readme) :__ ligne [`5`](../src/subsilver/standard.tpl#L5)
-* __[`[`<!-- BEGIN table_row -->`]`](../var/table_row.md#readme) :__ ligne [`1`](../src/subsilver/standard.tpl#L1)
-* __[`[`<!-- END table_row -->`]`](../var/table_row.md#readme) :__ ligne [`8`](../src/subsilver/standard.tpl#L8)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme) :__ ligne [`1`](../src/subsilver/standard.tpl#L1)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme) :__ ligne [`8`](../src/subsilver/standard.tpl#L8)
+* __[`<!-- BEGIN not_table_row -->`](../var/not_table_row.md#readme) :__ ligne [`8`](../src/subsilver/standard.tpl#L8)
+* __[`<!-- END not_table_row -->`](../var/not_table_row.md#readme) :__ ligne [`10`](../src/subsilver/standard.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme) :__ ligne [`5`](../src/subsilver/standard.tpl#L5)
+* __[`{S_SOURCE}`](../var/S_SOURCE.md#readme) :__ ligne [`12`](../src/subsilver/standard.tpl#L12)
+* __[`{CLASS_TABLE_TYPE}`](../var/CLASS_TABLE_TYPE.md#readme) :__ ligne [`12`](../src/subsilver/standard.tpl#L12)
 
 ## Template par défaut PunBB
 
@@ -54,12 +54,12 @@
 
 ### Positions des variables
 
-* __[`[`{S_SOURCE}`]`](../var/S_SOURCE.md#readme) :__ ligne [`6`](../src/punbb/standard.tpl#L6)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`]`](../var/table_row.L_TITRE.md#readme) :__ ligne [`3`](../src/punbb/standard.tpl#L3)
-* __[`[`<!-- BEGIN table_row -->`]`](../var/table_row.md#readme) :__ ligne [`1`](../src/punbb/standard.tpl#L1)
-* __[`[`<!-- END table_row -->`]`](../var/table_row.md#readme) :__ ligne [`5`](../src/punbb/standard.tpl#L5)
-* __[`[`<!-- BEGIN table_row -->`]`](../var/table_row.md#readme) :__ ligne [`7`](../src/punbb/standard.tpl#L7)
-* __[`[`<!-- END table_row -->`]`](../var/table_row.md#readme) :__ ligne [`10`](../src/punbb/standard.tpl#L10)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme) :__ ligne [`1`](../src/punbb/standard.tpl#L1)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme) :__ ligne [`5`](../src/punbb/standard.tpl#L5)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme) :__ ligne [`7`](../src/punbb/standard.tpl#L7)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme) :__ ligne [`10`](../src/punbb/standard.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme) :__ ligne [`3`](../src/punbb/standard.tpl#L3)
+* __[`{S_SOURCE}`](../var/S_SOURCE.md#readme) :__ ligne [`6`](../src/punbb/standard.tpl#L6)
 
 ## Template par défaut Invision
 
@@ -67,7 +67,7 @@
 
 ### Positions des variables
 
-* __[`[`{S_SOURCE}`]`](../var/S_SOURCE.md#readme) :__ ligne [`6`](../src/invision/standard.tpl#L6)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`]`](../var/table_row.L_TITRE.md#readme) :__ ligne [`3`](../src/invision/standard.tpl#L3)
-* __[`[`<!-- BEGIN table_row -->`]`](../var/table_row.md#readme) :__ ligne [`2`](../src/invision/standard.tpl#L2)
-* __[`[`<!-- END table_row -->`]`](../var/table_row.md#readme) :__ ligne [`4`](../src/invision/standard.tpl#L4)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme) :__ ligne [`2`](../src/invision/standard.tpl#L2)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme) :__ ligne [`4`](../src/invision/standard.tpl#L4)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme) :__ ligne [`3`](../src/invision/standard.tpl#L3)
+* __[`{S_SOURCE}`](../var/S_SOURCE.md#readme) :__ ligne [`6`](../src/invision/standard.tpl#L6)

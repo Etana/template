@@ -32,19 +32,19 @@
 
 ### Positions des variables
 
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`]`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`10`](../src/prosilver/poll_result.tpl#L10)
-* __[`[`<!-- BEGIN poll_option -->`]`](../var/poll_option.md#readme) :__ ligne [`3`](../src/prosilver/poll_result.tpl#L3)
-* __[`[`<!-- END poll_option -->`]`](../var/poll_option.md#readme) :__ ligne [`17`](../src/prosilver/poll_result.tpl#L17)
-* __[`[`{L_TOTAL_VOTES}`]`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`19`](../src/prosilver/poll_result.tpl#L19)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`]`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`10`](../src/prosilver/poll_result.tpl#L10)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`]`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`12`](../src/prosilver/poll_result.tpl#L12)
-* __[`[`{VOTE_RCAP_IMG}`]`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`11`](../src/prosilver/poll_result.tpl#L11)
-* __[`[`{POLL_QUESTION}`]`](../var/POLL_QUESTION.md#readme) :__ ligne [`1`](../src/prosilver/poll_result.tpl#L1)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`]`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`13`](../src/prosilver/poll_result.tpl#L13)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`]`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`10`](../src/prosilver/poll_result.tpl#L10)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`]`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`5`](../src/prosilver/poll_result.tpl#L5)
-* __[`[`{TOTAL_VOTES}`]`](../var/TOTAL_VOTES.md#readme) :__ ligne [`19`](../src/prosilver/poll_result.tpl#L19)
-* __[`[`{VOTE_LCAP_IMG}`]`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`9`](../src/prosilver/poll_result.tpl#L9)
+* __[`{VOTE_RCAP_IMG}`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`11`](../src/prosilver/poll_result.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`10`](../src/prosilver/poll_result.tpl#L10)
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`19`](../src/prosilver/poll_result.tpl#L19)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`1`](../src/prosilver/poll_result.tpl#L1)
+* __[`{VOTE_LCAP_IMG}`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`9`](../src/prosilver/poll_result.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`13`](../src/prosilver/poll_result.tpl#L13)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme) :__ ligne [`19`](../src/prosilver/poll_result.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`10`](../src/prosilver/poll_result.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`5`](../src/prosilver/poll_result.tpl#L5)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`3`](../src/prosilver/poll_result.tpl#L3)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`17`](../src/prosilver/poll_result.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`10`](../src/prosilver/poll_result.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`12`](../src/prosilver/poll_result.tpl#L12)
 
 ## Template par défaut phpBB2
 
@@ -52,19 +52,19 @@
 
 ### Positions des variables
 
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`]`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`20`](../src/subsilver/poll_result.tpl#L20)
-* __[`[`<!-- BEGIN poll_option -->`]`](../var/poll_option.md#readme) :__ ligne [`10`](../src/subsilver/poll_result.tpl#L10)
-* __[`[`<!-- END poll_option -->`]`](../var/poll_option.md#readme) :__ ligne [`29`](../src/subsilver/poll_result.tpl#L29)
-* __[`[`{L_TOTAL_VOTES}`]`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`34`](../src/subsilver/poll_result.tpl#L34)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`]`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`20`](../src/subsilver/poll_result.tpl#L20)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`]`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`25`](../src/subsilver/poll_result.tpl#L25)
-* __[`[`{VOTE_RCAP_IMG}`]`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`21`](../src/subsilver/poll_result.tpl#L21)
-* __[`[`{POLL_QUESTION}`]`](../var/POLL_QUESTION.md#readme) :__ ligne [`5`](../src/subsilver/poll_result.tpl#L5)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`]`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`26`](../src/subsilver/poll_result.tpl#L26)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`]`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`20`](../src/subsilver/poll_result.tpl#L20)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`]`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`12`](../src/subsilver/poll_result.tpl#L12)
-* __[`[`{TOTAL_VOTES}`]`](../var/TOTAL_VOTES.md#readme) :__ ligne [`34`](../src/subsilver/poll_result.tpl#L34)
-* __[`[`{VOTE_LCAP_IMG}`]`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`19`](../src/subsilver/poll_result.tpl#L19)
+* __[`{VOTE_RCAP_IMG}`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`21`](../src/subsilver/poll_result.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`20`](../src/subsilver/poll_result.tpl#L20)
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`34`](../src/subsilver/poll_result.tpl#L34)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`5`](../src/subsilver/poll_result.tpl#L5)
+* __[`{VOTE_LCAP_IMG}`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`19`](../src/subsilver/poll_result.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`26`](../src/subsilver/poll_result.tpl#L26)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme) :__ ligne [`34`](../src/subsilver/poll_result.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`20`](../src/subsilver/poll_result.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`12`](../src/subsilver/poll_result.tpl#L12)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`10`](../src/subsilver/poll_result.tpl#L10)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`29`](../src/subsilver/poll_result.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`20`](../src/subsilver/poll_result.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`25`](../src/subsilver/poll_result.tpl#L25)
 
 ## Template par défaut PunBB
 
@@ -72,19 +72,19 @@
 
 ### Positions des variables
 
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`]`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`9`](../src/punbb/poll_result.tpl#L9)
-* __[`[`<!-- BEGIN poll_option -->`]`](../var/poll_option.md#readme) :__ ligne [`3`](../src/punbb/poll_result.tpl#L3)
-* __[`[`<!-- END poll_option -->`]`](../var/poll_option.md#readme) :__ ligne [`16`](../src/punbb/poll_result.tpl#L16)
-* __[`[`{L_TOTAL_VOTES}`]`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`18`](../src/punbb/poll_result.tpl#L18)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`]`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`9`](../src/punbb/poll_result.tpl#L9)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`]`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`11`](../src/punbb/poll_result.tpl#L11)
-* __[`[`{VOTE_RCAP_IMG}`]`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`10`](../src/punbb/poll_result.tpl#L10)
-* __[`[`{POLL_QUESTION}`]`](../var/POLL_QUESTION.md#readme) :__ ligne [`1`](../src/punbb/poll_result.tpl#L1)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`]`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`12`](../src/punbb/poll_result.tpl#L12)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`]`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`9`](../src/punbb/poll_result.tpl#L9)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`]`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`5`](../src/punbb/poll_result.tpl#L5)
-* __[`[`{TOTAL_VOTES}`]`](../var/TOTAL_VOTES.md#readme) :__ ligne [`18`](../src/punbb/poll_result.tpl#L18)
-* __[`[`{VOTE_LCAP_IMG}`]`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`8`](../src/punbb/poll_result.tpl#L8)
+* __[`{VOTE_RCAP_IMG}`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`10`](../src/punbb/poll_result.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`9`](../src/punbb/poll_result.tpl#L9)
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`18`](../src/punbb/poll_result.tpl#L18)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`1`](../src/punbb/poll_result.tpl#L1)
+* __[`{VOTE_LCAP_IMG}`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`8`](../src/punbb/poll_result.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`12`](../src/punbb/poll_result.tpl#L12)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme) :__ ligne [`18`](../src/punbb/poll_result.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`9`](../src/punbb/poll_result.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`5`](../src/punbb/poll_result.tpl#L5)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`3`](../src/punbb/poll_result.tpl#L3)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`16`](../src/punbb/poll_result.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`9`](../src/punbb/poll_result.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`11`](../src/punbb/poll_result.tpl#L11)
 
 ## Template par défaut Invision
 
@@ -92,16 +92,16 @@
 
 ### Positions des variables
 
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`]`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
-* __[`[`<!-- BEGIN poll_option -->`]`](../var/poll_option.md#readme) :__ ligne [`3`](../src/invision/poll_result.tpl#L3)
-* __[`[`<!-- END poll_option -->`]`](../var/poll_option.md#readme) :__ ligne [`17`](../src/invision/poll_result.tpl#L17)
-* __[`[`{L_TOTAL_VOTES}`]`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`20`](../src/invision/poll_result.tpl#L20)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`]`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`]`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`12`](../src/invision/poll_result.tpl#L12)
-* __[`[`{VOTE_RCAP_IMG}`]`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`11`](../src/invision/poll_result.tpl#L11)
-* __[`[`{POLL_QUESTION}`]`](../var/POLL_QUESTION.md#readme) :__ ligne [`1`](../src/invision/poll_result.tpl#L1)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`]`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`13`](../src/invision/poll_result.tpl#L13)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`]`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
-* __[`&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`]`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`5`](../src/invision/poll_result.tpl#L5)
-* __[`[`{TOTAL_VOTES}`]`](../var/TOTAL_VOTES.md#readme) :__ ligne [`20`](../src/invision/poll_result.tpl#L20)
-* __[`[`{VOTE_LCAP_IMG}`]`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`9`](../src/invision/poll_result.tpl#L9)
+* __[`{VOTE_RCAP_IMG}`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`11`](../src/invision/poll_result.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`20`](../src/invision/poll_result.tpl#L20)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`1`](../src/invision/poll_result.tpl#L1)
+* __[`{VOTE_LCAP_IMG}`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`9`](../src/invision/poll_result.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`13`](../src/invision/poll_result.tpl#L13)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme) :__ ligne [`20`](../src/invision/poll_result.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`5`](../src/invision/poll_result.tpl#L5)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`3`](../src/invision/poll_result.tpl#L3)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`17`](../src/invision/poll_result.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`12`](../src/invision/poll_result.tpl#L12)

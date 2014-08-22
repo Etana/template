@@ -24,7 +24,7 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ### Positions des variables
 
-* __[`[`{ERROR_MESSAGE}`]`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`4`](../src/prosilver/error_body.tpl#L4)
+* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`4`](../src/prosilver/error_body.tpl#L4)
 
 ## Template par défaut phpBB2
 
@@ -32,7 +32,7 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ### Positions des variables
 
-* __[`[`{ERROR_MESSAGE}`]`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`9`](../src/subsilver/error_body.tpl#L9)
+* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`9`](../src/subsilver/error_body.tpl#L9)
 
 ## Template par défaut PunBB
 
@@ -40,7 +40,7 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ### Positions des variables
 
-* __[`[`{ERROR_MESSAGE}`]`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`4`](../src/punbb/error_body.tpl#L4)
+* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`4`](../src/punbb/error_body.tpl#L4)
 
 ## Template par défaut Invision
 
@@ -48,5 +48,5 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ### Positions des variables
 
-* __[`[`{ERRORS_FOUND}`]`](../var/ERRORS_FOUND.md#readme) :__ ligne [`3`](../src/invision/error_body.tpl#L3)
-* __[`[`{ERROR_MESSAGE}`]`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`5`](../src/invision/error_body.tpl#L5)
+* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme) :__ ligne [`5`](../src/invision/error_body.tpl#L5)
+* __[`{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme) :__ ligne [`3`](../src/invision/error_body.tpl#L3)

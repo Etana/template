@@ -22,8 +22,8 @@
 
 ### Positions des variables
 
-* __[`[`{L_POLL}`]`](../var/L_POLL.md#readme) :__ ligne [`4`](../src/prosilver/mod_poll.tpl#L4)
-* __[`[`{POLL_DISPLAY}`]`](../var/POLL_DISPLAY.md#readme) :__ ligne [`6`](../src/prosilver/mod_poll.tpl#L6)
+* __[`{L_POLL}`](../var/L_POLL.md#readme) :__ ligne [`4`](../src/prosilver/mod_poll.tpl#L4)
+* __[`{POLL_DISPLAY}`](../var/POLL_DISPLAY.md#readme) :__ ligne [`6`](../src/prosilver/mod_poll.tpl#L6)
 
 ## Template par défaut phpBB2
 
@@ -31,8 +31,8 @@
 
 ### Positions des variables
 
-* __[`[`{L_POLL}`]`](../var/L_POLL.md#readme) :__ ligne [`5`](../src/subsilver/mod_poll.tpl#L5)
-* __[`[`{POLL_DISPLAY}`]`](../var/POLL_DISPLAY.md#readme) :__ ligne [`10`](../src/subsilver/mod_poll.tpl#L10)
+* __[`{L_POLL}`](../var/L_POLL.md#readme) :__ ligne [`5`](../src/subsilver/mod_poll.tpl#L5)
+* __[`{POLL_DISPLAY}`](../var/POLL_DISPLAY.md#readme) :__ ligne [`10`](../src/subsilver/mod_poll.tpl#L10)
 
 ## Template par défaut PunBB
 
@@ -40,8 +40,8 @@
 
 ### Positions des variables
 
-* __[`[`{L_POLL}`]`](../var/L_POLL.md#readme) :__ ligne [`4`](../src/punbb/mod_poll.tpl#L4)
-* __[`[`{POLL_DISPLAY}`]`](../var/POLL_DISPLAY.md#readme) :__ ligne [`7`](../src/punbb/mod_poll.tpl#L7)
+* __[`{L_POLL}`](../var/L_POLL.md#readme) :__ ligne [`4`](../src/punbb/mod_poll.tpl#L4)
+* __[`{POLL_DISPLAY}`](../var/POLL_DISPLAY.md#readme) :__ ligne [`7`](../src/punbb/mod_poll.tpl#L7)
 
 ## Template par défaut Invision
 
@@ -49,5 +49,5 @@
 
 ### Positions des variables
 
-* __[`[`{L_POLL}`]`](../var/L_POLL.md#readme) :__ ligne [`3`](../src/invision/mod_poll.tpl#L3)
-* __[`[`{POLL_DISPLAY}`]`](../var/POLL_DISPLAY.md#readme) :__ ligne [`5`](../src/invision/mod_poll.tpl#L5)
+* __[`{L_POLL}`](../var/L_POLL.md#readme) :__ ligne [`3`](../src/invision/mod_poll.tpl#L3)
+* __[`{POLL_DISPLAY}`](../var/POLL_DISPLAY.md#readme) :__ ligne [`5`](../src/invision/mod_poll.tpl#L5)
