@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme) :__ lignes [`11`](../src/subsilver/mod_most_active_starters.tpl#L11)[`<->`](../src/subsilver/mod_most_active_starters.tpl#L11-L11)[`11`](../src/subsilver/mod_most_active_starters.tpl#L11)
 
+### Version PunBB
+* __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme) :__ lignes [`8`](../src/punbb/mod_most_active_starters.tpl#L8)[`<->`](../src/punbb/mod_most_active_starters.tpl#L8-L8)[`8`](../src/punbb/mod_most_active_starters.tpl#L8)
+
 ### Version Invision
 * __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme) :__ lignes [`8`](../src/invision/mod_most_active_starters.tpl#L8)[`<->`](../src/invision/mod_most_active_starters.tpl#L8-L8)[`8`](../src/invision/mod_most_active_starters.tpl#L8)
 

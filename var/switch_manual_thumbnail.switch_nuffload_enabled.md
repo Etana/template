@@ -12,9 +12,17 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`247`](../src/prosilver/album_upload_body.tpl#L247)[`<->`](../src/prosilver/album_upload_body.tpl#L247-L247)[`247`](../src/prosilver/album_upload_body.tpl#L247)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`249`](../src/prosilver/album_upload_body.tpl#L249)[`<->`](../src/prosilver/album_upload_body.tpl#L249-L249)[`249`](../src/prosilver/album_upload_body.tpl#L249)
+
 ### Version phpBB2
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`271`](../src/subsilver/album_upload_body.tpl#L271)[`<->`](../src/subsilver/album_upload_body.tpl#L271-L271)[`271`](../src/subsilver/album_upload_body.tpl#L271)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`273`](../src/subsilver/album_upload_body.tpl#L273)[`<->`](../src/subsilver/album_upload_body.tpl#L273-L273)[`273`](../src/subsilver/album_upload_body.tpl#L273)
+
+### Version PunBB
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`254`](../src/punbb/album_upload_body.tpl#L254)[`<->`](../src/punbb/album_upload_body.tpl#L254-L254)[`254`](../src/punbb/album_upload_body.tpl#L254)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`256`](../src/punbb/album_upload_body.tpl#L256)[`<->`](../src/punbb/album_upload_body.tpl#L256-L256)[`256`](../src/punbb/album_upload_body.tpl#L256)
 
 ### Version Invision
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`245`](../src/invision/album_upload_body.tpl#L245)[`<->`](../src/invision/album_upload_body.tpl#L245-L245)[`245`](../src/invision/album_upload_body.tpl#L245)

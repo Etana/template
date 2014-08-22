@@ -20,6 +20,9 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`31`](../src/subsilver/memberlist_body.tpl#L31)[`<->`](../src/subsilver/memberlist_body.tpl#L31-L31)[`31`](../src/subsilver/memberlist_body.tpl#L31)
 
+### Version PunBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`69`](../src/punbb/memberlist_body.tpl#L69)[`<->`](../src/punbb/memberlist_body.tpl#L69-L69)[`69`](../src/punbb/memberlist_body.tpl#L69)
+
 ### Version Invision
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`87`](../src/invision/memberlist_body.tpl#L87)[`<->`](../src/invision/memberlist_body.tpl#L87-L87)[`87`](../src/invision/memberlist_body.tpl#L87)
 

@@ -18,6 +18,9 @@ Variable liée à des statistiques internes.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`196`](../src/subsilver/overall_header.tpl#L196)[`<->`](../src/subsilver/overall_header.tpl#L196-L196)[`196`](../src/subsilver/overall_header.tpl#L196)
 
+### Version PunBB
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`190`](../src/punbb/overall_header.tpl#L190)[`<->`](../src/punbb/overall_header.tpl#L190-L190)[`190`](../src/punbb/overall_header.tpl#L190)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`193`](../src/invision/overall_header.tpl#L193)[`<->`](../src/invision/overall_header.tpl#L193-L193)[`193`](../src/invision/overall_header.tpl#L193)
 

@@ -12,8 +12,14 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`96`](../src/prosilver/posting_body.tpl#L96)[`<->`](../src/prosilver/posting_body.tpl#L96-L96)[`96`](../src/prosilver/posting_body.tpl#L96)
+
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`182`](../src/subsilver/posting_body.tpl#L182)[`<->`](../src/subsilver/posting_body.tpl#L182-L182)[`182`](../src/subsilver/posting_body.tpl#L182)
+
+### Version PunBB
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`118`](../src/punbb/posting_body.tpl#L118)[`<->`](../src/punbb/posting_body.tpl#L118-L118)[`118`](../src/punbb/posting_body.tpl#L118)
 
 ### Version Invision
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`340`](../src/invision/posting_body.tpl#L340)[`<->`](../src/invision/posting_body.tpl#L340-L340)[`340`](../src/invision/posting_body.tpl#L340)

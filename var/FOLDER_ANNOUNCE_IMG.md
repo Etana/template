@@ -18,6 +18,9 @@ Image des annonces définie dans `PA > Affichage > Images et Couleurs | Gestion 
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`108`](../src/subsilver/viewforum_body.tpl#L108)[`<->`](../src/subsilver/viewforum_body.tpl#L108-L108)[`108`](../src/subsilver/viewforum_body.tpl#L108)
 
+### Version PunBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`76`](../src/punbb/viewforum_body.tpl#L76)[`<->`](../src/punbb/viewforum_body.tpl#L76-L76)[`76`](../src/punbb/viewforum_body.tpl#L76)
+
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`77`](../src/invision/viewforum_body.tpl#L77)[`<->`](../src/invision/viewforum_body.tpl#L77-L77)[`77`](../src/invision/viewforum_body.tpl#L77)
 

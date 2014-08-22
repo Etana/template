@@ -12,8 +12,14 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`55`](../src/prosilver/album_nuffimage_box.tpl#L55)[`<->`](../src/prosilver/album_nuffimage_box.tpl#L55-L55)[`55`](../src/prosilver/album_nuffimage_box.tpl#L55)
+
 ### Version phpBB2
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`83`](../src/subsilver/album_nuffimage_box.tpl#L83)[`<->`](../src/subsilver/album_nuffimage_box.tpl#L83-L83)[`83`](../src/subsilver/album_nuffimage_box.tpl#L83)
+
+### Version PunBB
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`30`](../src/punbb/album_nuffimage_box.tpl#L30)[`<->`](../src/punbb/album_nuffimage_box.tpl#L30-L30)[`30`](../src/punbb/album_nuffimage_box.tpl#L30)
 
 ### Version Invision
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`30`](../src/invision/album_nuffimage_box.tpl#L30)[`<->`](../src/invision/album_nuffimage_box.tpl#L30-L30)[`30`](../src/invision/album_nuffimage_box.tpl#L30)

@@ -20,6 +20,10 @@ Contient la valeur `false`.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`22`](../src/subsilver/viewforum_body.tpl#L22)[`<->`](../src/subsilver/viewforum_body.tpl#L22-L22)[`22`](../src/subsilver/viewforum_body.tpl#L22)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`98`](../src/subsilver/viewtopic_body.tpl#L98)[`<->`](../src/subsilver/viewtopic_body.tpl#L98-L98)[`98`](../src/subsilver/viewtopic_body.tpl#L98)
 
+### Version PunBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`11`](../src/punbb/viewforum_body.tpl#L11)[`<->`](../src/punbb/viewforum_body.tpl#L11-L11)[`11`](../src/punbb/viewforum_body.tpl#L11)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`60`](../src/punbb/viewtopic_body.tpl#L60)[`<->`](../src/punbb/viewtopic_body.tpl#L60-L60)[`60`](../src/punbb/viewtopic_body.tpl#L60)
+
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`103`](../src/invision/viewtopic_body.tpl#L103)[`<->`](../src/invision/viewtopic_body.tpl#L103-L103)[`103`](../src/invision/viewtopic_body.tpl#L103)
 

@@ -24,6 +24,12 @@ Boucle s'affichant si l'utilisateur a l'autorisation de répondre à un sujet da
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`443`](../src/subsilver/viewtopic_body.tpl#L443)[`<->`](../src/subsilver/viewtopic_body.tpl#L443-L443)[`443`](../src/subsilver/viewtopic_body.tpl#L443)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`445`](../src/subsilver/viewtopic_body.tpl#L445)[`<->`](../src/subsilver/viewtopic_body.tpl#L445-L445)[`445`](../src/subsilver/viewtopic_body.tpl#L445)
 
+### Version PunBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`115`](../src/punbb/viewtopic_body.tpl#L115)[`<->`](../src/punbb/viewtopic_body.tpl#L115-L115)[`115`](../src/punbb/viewtopic_body.tpl#L115)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/punbb/viewtopic_body.tpl#L117)[`<->`](../src/punbb/viewtopic_body.tpl#L117-L117)[`117`](../src/punbb/viewtopic_body.tpl#L117)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`293`](../src/punbb/viewtopic_body.tpl#L293)[`<->`](../src/punbb/viewtopic_body.tpl#L293-L293)[`293`](../src/punbb/viewtopic_body.tpl#L293)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`295`](../src/punbb/viewtopic_body.tpl#L295)[`<->`](../src/punbb/viewtopic_body.tpl#L295-L295)[`295`](../src/punbb/viewtopic_body.tpl#L295)
+
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`65`](../src/invision/viewtopic_body.tpl#L65)[`<->`](../src/invision/viewtopic_body.tpl#L65-L65)[`65`](../src/invision/viewtopic_body.tpl#L65)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`67`](../src/invision/viewtopic_body.tpl#L67)[`<->`](../src/invision/viewtopic_body.tpl#L67-L67)[`67`](../src/invision/viewtopic_body.tpl#L67)

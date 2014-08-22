@@ -22,6 +22,10 @@ Action du formulaire de confirmation.
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`209`](../src/subsilver/buy_credits.tpl#L209)[`<->`](../src/subsilver/buy_credits.tpl#L209-L209)[`209`](../src/subsilver/buy_credits.tpl#L209)
 * __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`12`](../src/subsilver/confirm_body.tpl#L12)[`<->`](../src/subsilver/confirm_body.tpl#L12-L12)[`12`](../src/subsilver/confirm_body.tpl#L12)
 
+### Version PunBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`184`](../src/punbb/buy_credits.tpl#L184)[`<->`](../src/punbb/buy_credits.tpl#L184-L184)[`184`](../src/punbb/buy_credits.tpl#L184)
+* __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`4`](../src/punbb/confirm_body.tpl#L4)[`<->`](../src/punbb/confirm_body.tpl#L4-L4)[`4`](../src/punbb/confirm_body.tpl#L4)
+
 ### Version Invision
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`162`](../src/invision/buy_credits.tpl#L162)[`<->`](../src/invision/buy_credits.tpl#L162-L162)[`162`](../src/invision/buy_credits.tpl#L162)
 * __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`4`](../src/invision/confirm_body.tpl#L4)[`<->`](../src/invision/confirm_body.tpl#L4-L4)[`4`](../src/invision/confirm_body.tpl#L4)

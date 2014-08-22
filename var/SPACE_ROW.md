@@ -30,6 +30,17 @@ Affiche la valeur renseignée dans votre `PA > Modules > Portail & Widgets | Ges
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`31`](../src/subsilver/portal_body.tpl#L31)[`<->`](../src/subsilver/portal_body.tpl#L31-L31)[`31`](../src/subsilver/portal_body.tpl#L31)
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`42`](../src/subsilver/portal_body.tpl#L42)[`<->`](../src/subsilver/portal_body.tpl#L42-L42)[`42`](../src/subsilver/portal_body.tpl#L42)
 
+### Version PunBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`20`](../src/punbb/overall_footer_begin.tpl#L20)[`<->`](../src/punbb/overall_footer_begin.tpl#L20-L20)[`20`](../src/punbb/overall_footer_begin.tpl#L20)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`305`](../src/punbb/overall_header.tpl#L305)[`<->`](../src/punbb/overall_header.tpl#L305-L305)[`305`](../src/punbb/overall_header.tpl#L305)
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`4`](../src/punbb/portal_body.tpl#L4)[`<->`](../src/punbb/portal_body.tpl#L4-L4)[`4`](../src/punbb/portal_body.tpl#L4)
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`14`](../src/punbb/portal_body.tpl#L14)[`<->`](../src/punbb/portal_body.tpl#L14-L14)[`14`](../src/punbb/portal_body.tpl#L14)
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`22`](../src/punbb/portal_body.tpl#L22)[`<->`](../src/punbb/portal_body.tpl#L22-L22)[`22`](../src/punbb/portal_body.tpl#L22)
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`29`](../src/punbb/portal_body.tpl#L29)[`<->`](../src/punbb/portal_body.tpl#L29-L29)[`29`](../src/punbb/portal_body.tpl#L29)
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`36`](../src/punbb/portal_body.tpl#L36)[`<->`](../src/punbb/portal_body.tpl#L36-L36)[`36`](../src/punbb/portal_body.tpl#L36)
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`42`](../src/punbb/portal_body.tpl#L42)[`<->`](../src/punbb/portal_body.tpl#L42-L42)[`42`](../src/punbb/portal_body.tpl#L42)
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`53`](../src/punbb/portal_body.tpl#L53)[`<->`](../src/punbb/portal_body.tpl#L53-L53)[`53`](../src/punbb/portal_body.tpl#L53)
+
 ### Version Invision
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`18`](../src/invision/overall_footer_begin.tpl#L18)[`<->`](../src/invision/overall_footer_begin.tpl#L18-L18)[`18`](../src/invision/overall_footer_begin.tpl#L18)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`324`](../src/invision/overall_header.tpl#L324)[`<->`](../src/invision/overall_header.tpl#L324-L324)[`324`](../src/invision/overall_header.tpl#L324)

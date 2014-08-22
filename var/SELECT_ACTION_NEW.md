@@ -12,6 +12,12 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`241`](../src/prosilver/album_showpage_body.tpl#L241)[`<->`](../src/prosilver/album_showpage_body.tpl#L241-L241)[`241`](../src/prosilver/album_showpage_body.tpl#L241)
+
+### Version PunBB
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`251`](../src/punbb/album_showpage_body.tpl#L251)[`<->`](../src/punbb/album_showpage_body.tpl#L251-L251)[`251`](../src/punbb/album_showpage_body.tpl#L251)
+
 ### Version Invision
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`235`](../src/invision/album_showpage_body.tpl#L235)[`<->`](../src/invision/album_showpage_body.tpl#L235-L235)[`235`](../src/invision/album_showpage_body.tpl#L235)
 

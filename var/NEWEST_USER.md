@@ -33,6 +33,10 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`190`](../src/subsilver/index_body.tpl#L190)[`<->`](../src/subsilver/index_body.tpl#L190-L190)[`190`](../src/subsilver/index_body.tpl#L190)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`8`](../src/subsilver/mod_statistics.tpl#L8)[`<->`](../src/subsilver/mod_statistics.tpl#L8-L8)[`8`](../src/subsilver/mod_statistics.tpl#L8)
 
+### Version PunBB
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`61`](../src/punbb/index_body.tpl#L61)[`<->`](../src/punbb/index_body.tpl#L61-L61)[`61`](../src/punbb/index_body.tpl#L61)
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`4`](../src/punbb/mod_statistics.tpl#L4)[`<->`](../src/punbb/mod_statistics.tpl#L4-L4)[`4`](../src/punbb/mod_statistics.tpl#L4)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`126`](../src/invision/index_body.tpl#L126)[`<->`](../src/invision/index_body.tpl#L126-L126)[`126`](../src/invision/index_body.tpl#L126)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`6`](../src/invision/mod_statistics.tpl#L6)[`<->`](../src/invision/mod_statistics.tpl#L6-L6)[`6`](../src/invision/mod_statistics.tpl#L6)

@@ -12,8 +12,14 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`232`](../src/prosilver/album_showpage_body.tpl#L232)[`<->`](../src/prosilver/album_showpage_body.tpl#L232-L232)[`232`](../src/prosilver/album_showpage_body.tpl#L232)
+
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`250`](../src/subsilver/album_showpage_body.tpl#L250)[`<->`](../src/subsilver/album_showpage_body.tpl#L250-L250)[`250`](../src/subsilver/album_showpage_body.tpl#L250)
+
+### Version PunBB
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`246`](../src/punbb/album_showpage_body.tpl#L246)[`<->`](../src/punbb/album_showpage_body.tpl#L246-L246)[`246`](../src/punbb/album_showpage_body.tpl#L246)
 
 ### Version Invision
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`230`](../src/invision/album_showpage_body.tpl#L230)[`<->`](../src/invision/album_showpage_body.tpl#L230-L230)[`230`](../src/invision/album_showpage_body.tpl#L230)

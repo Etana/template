@@ -18,6 +18,9 @@ Contient le nombre de messages postés dans le forum bouclé.
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`69`](../src/subsilver/index_box.tpl#L69)[`<->`](../src/subsilver/index_box.tpl#L69-L69)[`69`](../src/subsilver/index_box.tpl#L69)
 
+### Version PunBB
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`40`](../src/punbb/index_box.tpl#L40)[`<->`](../src/punbb/index_box.tpl#L40-L40)[`40`](../src/punbb/index_box.tpl#L40)
+
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`52`](../src/invision/index_box.tpl#L52)[`<->`](../src/invision/index_box.tpl#L52-L52)[`52`](../src/invision/index_box.tpl#L52)
 

@@ -18,6 +18,9 @@ Nombre de message du membre sur lequel on boucle.
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`18`](../src/subsilver/groupcp_pending_info.tpl#L18)[`<->`](../src/subsilver/groupcp_pending_info.tpl#L18-L18)[`18`](../src/subsilver/groupcp_pending_info.tpl#L18)
 
+### Version PunBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`24`](../src/punbb/groupcp_pending_info.tpl#L24)[`<->`](../src/punbb/groupcp_pending_info.tpl#L24-L24)[`24`](../src/punbb/groupcp_pending_info.tpl#L24)
+
 ### Version Invision
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`21`](../src/invision/groupcp_pending_info.tpl#L21)[`<->`](../src/invision/groupcp_pending_info.tpl#L21-L21)[`21`](../src/invision/groupcp_pending_info.tpl#L21)
 

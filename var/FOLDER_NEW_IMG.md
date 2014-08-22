@@ -18,6 +18,9 @@ Image des nouveaux messages définie dans `PA > Affichage > Images et Couleurs |
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`98`](../src/subsilver/viewforum_body.tpl#L98)[`<->`](../src/subsilver/viewforum_body.tpl#L98-L98)[`98`](../src/subsilver/viewforum_body.tpl#L98)
 
+### Version PunBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`66`](../src/punbb/viewforum_body.tpl#L66)[`<->`](../src/punbb/viewforum_body.tpl#L66-L66)[`66`](../src/punbb/viewforum_body.tpl#L66)
+
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`69`](../src/invision/viewforum_body.tpl#L69)[`<->`](../src/invision/viewforum_body.tpl#L69-L69)[`69`](../src/invision/viewforum_body.tpl#L69)
 

@@ -20,6 +20,10 @@
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`46`](../src/subsilver/mod_recent_topics.tpl#L46)[`<->`](../src/subsilver/mod_recent_topics.tpl#L46-L46)[`46`](../src/subsilver/mod_recent_topics.tpl#L46)
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`62`](../src/subsilver/mod_recent_topics.tpl#L62)[`<->`](../src/subsilver/mod_recent_topics.tpl#L62-L62)[`62`](../src/subsilver/mod_recent_topics.tpl#L62)
 
+### Version PunBB
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`37`](../src/punbb/mod_recent_topics.tpl#L37)[`<->`](../src/punbb/mod_recent_topics.tpl#L37-L37)[`37`](../src/punbb/mod_recent_topics.tpl#L37)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`53`](../src/punbb/mod_recent_topics.tpl#L53)[`<->`](../src/punbb/mod_recent_topics.tpl#L53-L53)[`53`](../src/punbb/mod_recent_topics.tpl#L53)
+
 ### Version Invision
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`34`](../src/invision/mod_recent_topics.tpl#L34)[`<->`](../src/invision/mod_recent_topics.tpl#L34-L34)[`34`](../src/invision/mod_recent_topics.tpl#L34)
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`50`](../src/invision/mod_recent_topics.tpl#L50)[`<->`](../src/invision/mod_recent_topics.tpl#L50-L50)[`50`](../src/invision/mod_recent_topics.tpl#L50)

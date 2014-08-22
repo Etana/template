@@ -1,6 +1,6 @@
 # postrow.displayed.MINI_POST_IMG
 * __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -13,6 +13,7 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)[`<->`](../src/prosilver/posting_topic_review.tpl#L12-L12)[`12`](../src/prosilver/posting_topic_review.tpl#L12)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`143`](../src/prosilver/viewtopic_body.tpl#L143)[`<->`](../src/prosilver/viewtopic_body.tpl#L143-L143)[`143`](../src/prosilver/viewtopic_body.tpl#L143)
 
 ### Version phpBB2

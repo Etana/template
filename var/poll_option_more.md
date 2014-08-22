@@ -12,9 +12,17 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`34`](../src/prosilver/posting_poll_body.tpl#L34)[`<->`](../src/prosilver/posting_poll_body.tpl#L34-L34)[`34`](../src/prosilver/posting_poll_body.tpl#L34)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`42`](../src/prosilver/posting_poll_body.tpl#L42)[`<->`](../src/prosilver/posting_poll_body.tpl#L42-L42)[`42`](../src/prosilver/posting_poll_body.tpl#L42)
+
 ### Version phpBB2
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`41`](../src/subsilver/posting_poll_body.tpl#L41)[`<->`](../src/subsilver/posting_poll_body.tpl#L41-L41)[`41`](../src/subsilver/posting_poll_body.tpl#L41)
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`46`](../src/subsilver/posting_poll_body.tpl#L46)[`<->`](../src/subsilver/posting_poll_body.tpl#L46-L46)[`46`](../src/subsilver/posting_poll_body.tpl#L46)
+
+### Version PunBB
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`39`](../src/punbb/posting_poll_body.tpl#L39)[`<->`](../src/punbb/posting_poll_body.tpl#L39-L39)[`39`](../src/punbb/posting_poll_body.tpl#L39)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`47`](../src/punbb/posting_poll_body.tpl#L47)[`<->`](../src/punbb/posting_poll_body.tpl#L47-L47)[`47`](../src/punbb/posting_poll_body.tpl#L47)
 
 ### Version Invision
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`43`](../src/invision/posting_poll_body.tpl#L43)[`<->`](../src/invision/posting_poll_body.tpl#L43-L43)[`43`](../src/invision/posting_poll_body.tpl#L43)

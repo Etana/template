@@ -24,6 +24,11 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`228`](../src/subsilver/overall_header.tpl#L228)[`<->`](../src/subsilver/overall_header.tpl#L228-L228)[`228`](../src/subsilver/overall_header.tpl#L228)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`5`](../src/subsilver/simple_header.tpl#L5)[`<->`](../src/subsilver/simple_header.tpl#L5-L5)[`5`](../src/subsilver/simple_header.tpl#L5)
 
+### Version PunBB
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`20`](../src/punbb/overall_header.tpl#L20)[`<->`](../src/punbb/overall_header.tpl#L20-L20)[`20`](../src/punbb/overall_header.tpl#L20)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`221`](../src/punbb/overall_header.tpl#L221)[`<->`](../src/punbb/overall_header.tpl#L221-L221)[`221`](../src/punbb/overall_header.tpl#L221)
+* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`5`](../src/punbb/simple_header.tpl#L5)[`<->`](../src/punbb/simple_header.tpl#L5-L5)[`5`](../src/punbb/simple_header.tpl#L5)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`20`](../src/invision/overall_header.tpl#L20)[`<->`](../src/invision/overall_header.tpl#L20-L20)[`20`](../src/invision/overall_header.tpl#L20)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`225`](../src/invision/overall_header.tpl#L225)[`<->`](../src/invision/overall_header.tpl#L225-L225)[`225`](../src/invision/overall_header.tpl#L225)

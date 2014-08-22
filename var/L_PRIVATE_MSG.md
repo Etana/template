@@ -12,8 +12,14 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`77`](../src/prosilver/profile_view_body.tpl#L77)[`<->`](../src/prosilver/profile_view_body.tpl#L77-L77)[`77`](../src/prosilver/profile_view_body.tpl#L77)
+
 ### Version phpBB2
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`54`](../src/subsilver/profile_view_body.tpl#L54)[`<->`](../src/subsilver/profile_view_body.tpl#L54-L54)[`54`](../src/subsilver/profile_view_body.tpl#L54)
+
+### Version PunBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`85`](../src/punbb/profile_view_body.tpl#L85)[`<->`](../src/punbb/profile_view_body.tpl#L85-L85)[`85`](../src/punbb/profile_view_body.tpl#L85)
 
 ### Version Invision
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`109`](../src/invision/profile_view_body.tpl#L109)[`<->`](../src/invision/profile_view_body.tpl#L109-L109)[`109`](../src/invision/profile_view_body.tpl#L109)

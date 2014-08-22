@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`48`](../src/prosilver/privmsgs_body.tpl#L48)[`<->`](../src/prosilver/privmsgs_body.tpl#L48-L48)[`48`](../src/prosilver/privmsgs_body.tpl#L48)
+
 ### Version phpBB2
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`67`](../src/subsilver/privmsgs_body.tpl#L67)[`<->`](../src/subsilver/privmsgs_body.tpl#L67-L67)[`67`](../src/subsilver/privmsgs_body.tpl#L67)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`70`](../src/subsilver/privmsgs_body.tpl#L70)[`<->`](../src/subsilver/privmsgs_body.tpl#L70-L70)[`70`](../src/subsilver/privmsgs_body.tpl#L70)

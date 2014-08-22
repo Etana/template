@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`6`](../src/prosilver/calendar_scheduler_body.tpl#L6)[`<->`](../src/prosilver/calendar_scheduler_body.tpl#L6-L6)[`6`](../src/prosilver/calendar_scheduler_body.tpl#L6)
+
 ### Version phpBB2
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`4`](../src/subsilver/calendar_scheduler_body.tpl#L4)[`<->`](../src/subsilver/calendar_scheduler_body.tpl#L4-L4)[`4`](../src/subsilver/calendar_scheduler_body.tpl#L4)
 

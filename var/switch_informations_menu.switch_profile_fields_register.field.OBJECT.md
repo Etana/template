@@ -12,6 +12,12 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`105`](../src/prosilver/profile_add_body.tpl#L105)[`<->`](../src/prosilver/profile_add_body.tpl#L105-L105)[`105`](../src/prosilver/profile_add_body.tpl#L105)
+
+### Version PunBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`135`](../src/punbb/profile_add_body.tpl#L135)[`<->`](../src/punbb/profile_add_body.tpl#L135-L135)[`135`](../src/punbb/profile_add_body.tpl#L135)
+
 ### Version Invision
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`165`](../src/invision/profile_add_body.tpl#L165)[`<->`](../src/invision/profile_add_body.tpl#L165-L165)[`165`](../src/invision/profile_add_body.tpl#L165)
 

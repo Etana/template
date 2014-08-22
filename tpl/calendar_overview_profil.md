@@ -13,9 +13,9 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* `{AGE}`](../var/AGE.md#readme)
-	* `{AVATAR}`](../var/AVATAR.md#readme)
-	* `{L_AGE}`](../var/L_AGE.md#readme)
-	* `{L_TITLE}`](../var/L_TITLE.md#readme)
-	* `{L_USERNAME}`](../var/L_USERNAME.md#readme)
-	* `{TXT_CLASS}`](../var/TXT_CLASS.md#readme)
+	* [`{AGE}`](../var/AGE.md#readme)
+	* [`{AVATAR}`](../var/AVATAR.md#readme)
+	* [`{L_AGE}`](../var/L_AGE.md#readme)
+	* [`{L_TITLE}`](../var/L_TITLE.md#readme)
+	* [`{L_USERNAME}`](../var/L_USERNAME.md#readme)
+	* [`{TXT_CLASS}`](../var/TXT_CLASS.md#readme)

@@ -22,6 +22,10 @@ Identifiant `i_post` attribué à l'image pour poster un nouveau sujet.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`54`](../src/subsilver/viewtopic_body.tpl#L54)[`<->`](../src/subsilver/viewtopic_body.tpl#L54-L54)[`54`](../src/subsilver/viewtopic_body.tpl#L54)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`441`](../src/subsilver/viewtopic_body.tpl#L441)[`<->`](../src/subsilver/viewtopic_body.tpl#L441-L441)[`441`](../src/subsilver/viewtopic_body.tpl#L441)
 
+### Version PunBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`34`](../src/punbb/viewforum_body.tpl#L34)[`<->`](../src/punbb/viewforum_body.tpl#L34-L34)[`34`](../src/punbb/viewforum_body.tpl#L34)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`43`](../src/punbb/viewforum_body.tpl#L43)[`<->`](../src/punbb/viewforum_body.tpl#L43-L43)[`43`](../src/punbb/viewforum_body.tpl#L43)
+
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`13`](../src/invision/viewforum_body.tpl#L13)[`<->`](../src/invision/viewforum_body.tpl#L13-L13)[`13`](../src/invision/viewforum_body.tpl#L13)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`31`](../src/invision/viewforum_body.tpl#L31)[`<->`](../src/invision/viewforum_body.tpl#L31-L31)[`31`](../src/invision/viewforum_body.tpl#L31)

@@ -21,6 +21,9 @@ Texte.
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`22`](../src/subsilver/groupcp_info_body.tpl#L22)[`<->`](../src/subsilver/groupcp_info_body.tpl#L22-L22)[`22`](../src/subsilver/groupcp_info_body.tpl#L22)
 
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`49`](../src/punbb/groupcp_info_body.tpl#L49)[`<->`](../src/punbb/groupcp_info_body.tpl#L49-L49)[`49`](../src/punbb/groupcp_info_body.tpl#L49)
+
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`29`](../src/invision/groupcp_info_body.tpl#L29)[`<->`](../src/invision/groupcp_info_body.tpl#L29-L29)[`29`](../src/invision/groupcp_info_body.tpl#L29)
 

@@ -20,6 +20,9 @@ Affiche le texte du lien de la variable {{U_OVERALL_POSTERS}}.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`98`](../src/subsilver/index_body.tpl#L98)[`<->`](../src/subsilver/index_body.tpl#L98-L98)[`98`](../src/subsilver/index_body.tpl#L98)
 
+### Version PunBB
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`69`](../src/punbb/index_box.tpl#L69)[`<->`](../src/punbb/index_box.tpl#L69-L69)[`69`](../src/punbb/index_box.tpl#L69)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`59`](../src/invision/index_body.tpl#L59)[`<->`](../src/invision/index_body.tpl#L59-L59)[`59`](../src/invision/index_body.tpl#L59)
 

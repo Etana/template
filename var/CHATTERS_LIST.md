@@ -18,6 +18,9 @@ Affiche le pseudo des utilisateurs connectés sur la chatbox.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`207`](../src/subsilver/index_body.tpl#L207)[`<->`](../src/subsilver/index_body.tpl#L207-L207)[`207`](../src/subsilver/index_body.tpl#L207)
 
+### Version PunBB
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`91`](../src/punbb/index_body.tpl#L91)[`<->`](../src/punbb/index_body.tpl#L91-L91)[`91`](../src/punbb/index_body.tpl#L91)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`138`](../src/invision/index_body.tpl#L138)[`<->`](../src/invision/index_body.tpl#L138-L138)[`138`](../src/invision/index_body.tpl#L138)
 

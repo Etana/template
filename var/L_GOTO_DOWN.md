@@ -20,3 +20,6 @@ Image pour aller en bas définie dans `PA > Affichage > Images et Couleurs | Ges
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/subsilver/viewtopic_body.tpl#L116)[`<->`](../src/subsilver/viewtopic_body.tpl#L116-L116)[`116`](../src/subsilver/viewtopic_body.tpl#L116)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`251`](../src/subsilver/viewtopic_body.tpl#L251)[`<->`](../src/subsilver/viewtopic_body.tpl#L251-L251)[`251`](../src/subsilver/viewtopic_body.tpl#L251)
 
+### Version PunBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`123`](../src/punbb/viewtopic_body.tpl#L123)[`<->`](../src/punbb/viewtopic_body.tpl#L123-L123)[`123`](../src/punbb/viewtopic_body.tpl#L123)
+

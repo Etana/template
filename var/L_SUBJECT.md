@@ -15,6 +15,9 @@ Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Util
 ### Version phpBB3
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`21`](../src/prosilver/greeting_popup.tpl#L21)[`<->`](../src/prosilver/greeting_popup.tpl#L21-L21)[`21`](../src/prosilver/greeting_popup.tpl#L21)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`12`](../src/prosilver/modcp_viewip.tpl#L12)[`<->`](../src/prosilver/modcp_viewip.tpl#L12-L12)[`12`](../src/prosilver/modcp_viewip.tpl#L12)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`105`](../src/prosilver/posting_body.tpl#L105)[`<->`](../src/prosilver/posting_body.tpl#L105-L105)[`105`](../src/prosilver/posting_body.tpl#L105)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`40`](../src/prosilver/privmsgs_body.tpl#L40)[`<->`](../src/prosilver/privmsgs_body.tpl#L40-L40)[`40`](../src/prosilver/privmsgs_body.tpl#L40)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`21`](../src/prosilver/profile_send_email.tpl#L21)[`<->`](../src/prosilver/profile_send_email.tpl#L21-L21)[`21`](../src/prosilver/profile_send_email.tpl#L21)
 
 ### Version phpBB2
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`16`](../src/subsilver/greeting_popup.tpl#L16)[`<->`](../src/subsilver/greeting_popup.tpl#L16-L16)[`16`](../src/subsilver/greeting_popup.tpl#L16)
@@ -25,6 +28,13 @@ Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Util
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`44`](../src/subsilver/privmsgs_read_body.tpl#L44)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L44-L44)[`44`](../src/subsilver/privmsgs_read_body.tpl#L44)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`22`](../src/subsilver/profile_send_email.tpl#L22)[`<->`](../src/subsilver/profile_send_email.tpl#L22-L22)[`22`](../src/subsilver/profile_send_email.tpl#L22)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`40`](../src/subsilver/search_results_posts.tpl#L40)[`<->`](../src/subsilver/search_results_posts.tpl#L40-L40)[`40`](../src/subsilver/search_results_posts.tpl#L40)
+
+### Version PunBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`19`](../src/punbb/greeting_popup.tpl#L19)[`<->`](../src/punbb/greeting_popup.tpl#L19-L19)[`19`](../src/punbb/greeting_popup.tpl#L19)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`30`](../src/punbb/modcp_viewip.tpl#L30)[`<->`](../src/punbb/modcp_viewip.tpl#L30-L30)[`30`](../src/punbb/modcp_viewip.tpl#L30)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`128`](../src/punbb/posting_body.tpl#L128)[`<->`](../src/punbb/posting_body.tpl#L128-L128)[`128`](../src/punbb/posting_body.tpl#L128)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`49`](../src/punbb/privmsgs_body.tpl#L49)[`<->`](../src/punbb/privmsgs_body.tpl#L49-L49)[`49`](../src/punbb/privmsgs_body.tpl#L49)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`43`](../src/punbb/profile_send_email.tpl#L43)[`<->`](../src/punbb/profile_send_email.tpl#L43-L43)[`43`](../src/punbb/profile_send_email.tpl#L43)
 
 ### Version Invision
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`17`](../src/invision/greeting_popup.tpl#L17)[`<->`](../src/invision/greeting_popup.tpl#L17-L17)[`17`](../src/invision/greeting_popup.tpl#L17)

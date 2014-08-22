@@ -13,8 +13,8 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* `{L_STATISTICS}`](../var/L_STATISTICS.md#readme)
-	* `{NEWEST_USER}`](../var/NEWEST_USER.md#readme)
-	* `{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme)
-	* `{TOTAL_TOPICS}`](../var/TOTAL_TOPICS.md#readme)
-	* `{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme)
+	* [`{L_STATISTICS}`](../var/L_STATISTICS.md#readme)
+	* [`{NEWEST_USER}`](../var/NEWEST_USER.md#readme)
+	* [`{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme)
+	* [`{TOTAL_TOPICS}`](../var/TOTAL_TOPICS.md#readme)
+	* [`{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme)

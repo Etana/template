@@ -21,6 +21,11 @@ Contient le titre du sujet dans lequel le message est posté.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`24`](../src/subsilver/search_results_posts.tpl#L24)[`<->`](../src/subsilver/search_results_posts.tpl#L24-L24)[`24`](../src/subsilver/search_results_posts.tpl#L24)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)[`<->`](../src/subsilver/search_results_topics.tpl#L39-L39)[`39`](../src/subsilver/search_results_topics.tpl#L39)
 
+### Version PunBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`37`](../src/punbb/search_results_posts.tpl#L37)[`<->`](../src/punbb/search_results_posts.tpl#L37-L37)[`37`](../src/punbb/search_results_posts.tpl#L37)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`60`](../src/punbb/search_results_posts.tpl#L60)[`<->`](../src/punbb/search_results_posts.tpl#L60-L60)[`60`](../src/punbb/search_results_posts.tpl#L60)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`55`](../src/punbb/search_results_topics.tpl#L55)[`<->`](../src/punbb/search_results_topics.tpl#L55-L55)[`55`](../src/punbb/search_results_topics.tpl#L55)
+
 ### Version Invision
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`31`](../src/invision/search_results_posts.tpl#L31)[`<->`](../src/invision/search_results_posts.tpl#L31-L31)[`31`](../src/invision/search_results_posts.tpl#L31)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`37`](../src/invision/search_results_posts.tpl#L37)[`<->`](../src/invision/search_results_posts.tpl#L37-L37)[`37`](../src/invision/search_results_posts.tpl#L37)

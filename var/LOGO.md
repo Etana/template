@@ -20,6 +20,9 @@ Logo du forum spécifié dans `PA > Affichage > Images et Couleurs | Gestion des
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`260`](../src/subsilver/overall_header.tpl#L260)[`<->`](../src/subsilver/overall_header.tpl#L260-L260)[`260`](../src/subsilver/overall_header.tpl#L260)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`268`](../src/subsilver/overall_header.tpl#L268)[`<->`](../src/subsilver/overall_header.tpl#L268-L268)[`268`](../src/subsilver/overall_header.tpl#L268)
 
+### Version PunBB
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`243`](../src/punbb/overall_header.tpl#L243)[`<->`](../src/punbb/overall_header.tpl#L243-L243)[`243`](../src/punbb/overall_header.tpl#L243)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`250`](../src/invision/overall_header.tpl#L250)[`<->`](../src/invision/overall_header.tpl#L250-L250)[`250`](../src/invision/overall_header.tpl#L250)
 

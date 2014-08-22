@@ -19,6 +19,9 @@
 ### Version phpBB2
 * __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`20`](../src/subsilver/mod_search.tpl#L20)[`<->`](../src/subsilver/mod_search.tpl#L20-L20)[`20`](../src/subsilver/mod_search.tpl#L20)
 
+### Version PunBB
+* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`19`](../src/punbb/mod_search.tpl#L19)[`<->`](../src/punbb/mod_search.tpl#L19-L19)[`19`](../src/punbb/mod_search.tpl#L19)
+
 ### Version Invision
 * __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`21`](../src/invision/mod_search.tpl#L21)[`<->`](../src/invision/mod_search.tpl#L21-L21)[`21`](../src/invision/mod_search.tpl#L21)
 

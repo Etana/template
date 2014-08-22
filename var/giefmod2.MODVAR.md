@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/subsilver/portal_body.tpl#L21)[`<->`](../src/subsilver/portal_body.tpl#L21-L21)[`21`](../src/subsilver/portal_body.tpl#L21)
 
+### Version PunBB
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`27`](../src/punbb/portal_body.tpl#L27)[`<->`](../src/punbb/portal_body.tpl#L27-L27)[`27`](../src/punbb/portal_body.tpl#L27)
+
 ### Version Invision
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`22`](../src/invision/portal_body.tpl#L22)[`<->`](../src/invision/portal_body.tpl#L22-L22)[`22`](../src/invision/portal_body.tpl#L22)
 

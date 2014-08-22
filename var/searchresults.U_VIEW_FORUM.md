@@ -18,6 +18,9 @@ Contient le lien du forum dans lequel le sujet bouclé a été posté.
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`42`](../src/subsilver/search_results_topics.tpl#L42)[`<->`](../src/subsilver/search_results_topics.tpl#L42-L42)[`42`](../src/subsilver/search_results_topics.tpl#L42)
 
+### Version PunBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`59`](../src/punbb/search_results_topics.tpl#L59)[`<->`](../src/punbb/search_results_topics.tpl#L59-L59)[`59`](../src/punbb/search_results_topics.tpl#L59)
+
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`47`](../src/invision/search_results_topics.tpl#L47)[`<->`](../src/invision/search_results_topics.tpl#L47-L47)[`47`](../src/invision/search_results_topics.tpl#L47)
 

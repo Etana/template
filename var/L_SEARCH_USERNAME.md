@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`7`](../src/subsilver/search_username.tpl#L7)[`<->`](../src/subsilver/search_username.tpl#L7-L7)[`7`](../src/subsilver/search_username.tpl#L7)
 
+### Version PunBB
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`9`](../src/punbb/search_username.tpl#L9)[`<->`](../src/punbb/search_username.tpl#L9-L9)[`9`](../src/punbb/search_username.tpl#L9)
+
 ### Version Invision
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`8`](../src/invision/search_username.tpl#L8)[`<->`](../src/invision/search_username.tpl#L8-L8)[`8`](../src/invision/search_username.tpl#L8)
 

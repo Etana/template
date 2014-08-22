@@ -21,6 +21,7 @@ Chaîne de texte.
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`21`](../src/prosilver/index_box.tpl#L21)[`<->`](../src/prosilver/index_box.tpl#L21-L21)[`21`](../src/prosilver/index_box.tpl#L21)
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`48`](../src/prosilver/index_box.tpl#L48)[`<->`](../src/prosilver/index_box.tpl#L48-L48)[`48`](../src/prosilver/index_box.tpl#L48)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`37`](../src/prosilver/memberlist_body.tpl#L37)[`<->`](../src/prosilver/memberlist_body.tpl#L37-L37)[`37`](../src/prosilver/memberlist_body.tpl#L37)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`39`](../src/prosilver/profile_view_body.tpl#L39)[`<->`](../src/prosilver/profile_view_body.tpl#L39-L39)[`39`](../src/prosilver/profile_view_body.tpl#L39)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`58`](../src/prosilver/search_body.tpl#L58)[`<->`](../src/prosilver/search_body.tpl#L58-L58)[`58`](../src/prosilver/search_body.tpl#L58)
 
 ### Version phpBB2
@@ -30,6 +31,14 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`32`](../src/subsilver/memberlist_body.tpl#L32)[`<->`](../src/subsilver/memberlist_body.tpl#L32-L32)[`32`](../src/subsilver/memberlist_body.tpl#L32)
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`64`](../src/subsilver/profile_view_body.tpl#L64)[`<->`](../src/subsilver/profile_view_body.tpl#L64-L64)[`64`](../src/subsilver/profile_view_body.tpl#L64)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`72`](../src/subsilver/search_body.tpl#L72)[`<->`](../src/subsilver/search_body.tpl#L72-L72)[`72`](../src/subsilver/search_body.tpl#L72)
+
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`80`](../src/punbb/groupcp_info_body.tpl#L80)[`<->`](../src/punbb/groupcp_info_body.tpl#L80-L80)[`80`](../src/punbb/groupcp_info_body.tpl#L80)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`8`](../src/punbb/groupcp_pending_info.tpl#L8)[`<->`](../src/punbb/groupcp_pending_info.tpl#L8-L8)[`8`](../src/punbb/groupcp_pending_info.tpl#L8)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`16`](../src/punbb/index_box.tpl#L16)[`<->`](../src/punbb/index_box.tpl#L16-L16)[`16`](../src/punbb/index_box.tpl#L16)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`70`](../src/punbb/memberlist_body.tpl#L70)[`<->`](../src/punbb/memberlist_body.tpl#L70-L70)[`70`](../src/punbb/memberlist_body.tpl#L70)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`47`](../src/punbb/profile_view_body.tpl#L47)[`<->`](../src/punbb/profile_view_body.tpl#L47-L47)[`47`](../src/punbb/profile_view_body.tpl#L47)
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`72`](../src/punbb/search_body.tpl#L72)[`<->`](../src/punbb/search_body.tpl#L72-L72)[`72`](../src/punbb/search_body.tpl#L72)
 
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`56`](../src/invision/groupcp_info_body.tpl#L56)[`<->`](../src/invision/groupcp_info_body.tpl#L56-L56)[`56`](../src/invision/groupcp_info_body.tpl#L56)

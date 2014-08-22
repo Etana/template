@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`54`](../src/subsilver/mod_recent_topics.tpl#L54)[`<->`](../src/subsilver/mod_recent_topics.tpl#L54-L54)[`54`](../src/subsilver/mod_recent_topics.tpl#L54)
 
+### Version PunBB
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`45`](../src/punbb/mod_recent_topics.tpl#L45)[`<->`](../src/punbb/mod_recent_topics.tpl#L45-L45)[`45`](../src/punbb/mod_recent_topics.tpl#L45)
+
 ### Version Invision
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`42`](../src/invision/mod_recent_topics.tpl#L42)[`<->`](../src/invision/mod_recent_topics.tpl#L42-L42)[`42`](../src/invision/mod_recent_topics.tpl#L42)
 

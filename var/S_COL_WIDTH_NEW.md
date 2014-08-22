@@ -12,6 +12,14 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`35`](../src/prosilver/album_cat_body.tpl#L35)[`<->`](../src/prosilver/album_cat_body.tpl#L35-L35)[`35`](../src/prosilver/album_cat_body.tpl#L35)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`23`](../src/prosilver/album_index_body.tpl#L23)[`<->`](../src/prosilver/album_index_body.tpl#L23-L23)[`23`](../src/prosilver/album_index_body.tpl#L23)
+
+### Version PunBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`37`](../src/punbb/album_cat_body.tpl#L37)[`<->`](../src/punbb/album_cat_body.tpl#L37-L37)[`37`](../src/punbb/album_cat_body.tpl#L37)
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`28`](../src/punbb/album_index_body.tpl#L28)[`<->`](../src/punbb/album_index_body.tpl#L28-L28)[`28`](../src/punbb/album_index_body.tpl#L28)
+
 ### Version Invision
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`35`](../src/invision/album_cat_body.tpl#L35)[`<->`](../src/invision/album_cat_body.tpl#L35-L35)[`35`](../src/invision/album_cat_body.tpl#L35)
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`27`](../src/invision/album_index_body.tpl#L27)[`<->`](../src/invision/album_index_body.tpl#L27-L27)[`27`](../src/invision/album_index_body.tpl#L27)

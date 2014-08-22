@@ -19,6 +19,10 @@ Contient l'information sur l'image du sujet.
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`36`](../src/subsilver/search_results_topics.tpl#L36)[`<->`](../src/subsilver/search_results_topics.tpl#L36-L36)[`36`](../src/subsilver/search_results_topics.tpl#L36)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`36`](../src/subsilver/search_results_topics.tpl#L36)[`<->`](../src/subsilver/search_results_topics.tpl#L36-L36)[`36`](../src/subsilver/search_results_topics.tpl#L36)
 
+### Version PunBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`49`](../src/punbb/search_results_topics.tpl#L49)[`<->`](../src/punbb/search_results_topics.tpl#L49-L49)[`49`](../src/punbb/search_results_topics.tpl#L49)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`49`](../src/punbb/search_results_topics.tpl#L49)[`<->`](../src/punbb/search_results_topics.tpl#L49-L49)[`49`](../src/punbb/search_results_topics.tpl#L49)
+
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`35`](../src/invision/search_results_topics.tpl#L35)[`<->`](../src/invision/search_results_topics.tpl#L35-L35)[`35`](../src/invision/search_results_topics.tpl#L35)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`35`](../src/invision/search_results_topics.tpl#L35)[`<->`](../src/invision/search_results_topics.tpl#L35-L35)[`35`](../src/invision/search_results_topics.tpl#L35)

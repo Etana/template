@@ -26,6 +26,11 @@ Chaîne de texte.
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`18`](../src/subsilver/modcp_body.tpl#L18)[`<->`](../src/subsilver/modcp_body.tpl#L18-L18)[`18`](../src/subsilver/modcp_body.tpl#L18)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`29`](../src/subsilver/search_results_topics.tpl#L29)[`<->`](../src/subsilver/search_results_topics.tpl#L29-L29)[`29`](../src/subsilver/search_results_topics.tpl#L29)
 
+### Version PunBB
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`17`](../src/punbb/index_box.tpl#L17)[`<->`](../src/punbb/index_box.tpl#L17-L17)[`17`](../src/punbb/index_box.tpl#L17)
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`41`](../src/punbb/modcp_body.tpl#L41)[`<->`](../src/punbb/modcp_body.tpl#L41-L41)[`41`](../src/punbb/modcp_body.tpl#L41)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`40`](../src/punbb/search_results_topics.tpl#L40)[`<->`](../src/punbb/search_results_topics.tpl#L40-L40)[`40`](../src/punbb/search_results_topics.tpl#L40)
+
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`17`](../src/invision/index_box.tpl#L17)[`<->`](../src/invision/index_box.tpl#L17-L17)[`17`](../src/invision/index_box.tpl#L17)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`20`](../src/invision/modcp_body.tpl#L20)[`<->`](../src/invision/modcp_body.tpl#L20-L20)[`20`](../src/invision/modcp_body.tpl#L20)

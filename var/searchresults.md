@@ -24,6 +24,12 @@ Boucle d'affichage des résultats de la recherche se répétant pour chaque mess
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`34`](../src/subsilver/search_results_topics.tpl#L34)[`<->`](../src/subsilver/search_results_topics.tpl#L34-L34)[`34`](../src/subsilver/search_results_topics.tpl#L34)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`51`](../src/subsilver/search_results_topics.tpl#L51)[`<->`](../src/subsilver/search_results_topics.tpl#L51-L51)[`51`](../src/subsilver/search_results_topics.tpl#L51)
 
+### Version PunBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`32`](../src/punbb/search_results_posts.tpl#L32)[`<->`](../src/punbb/search_results_posts.tpl#L32-L32)[`32`](../src/punbb/search_results_posts.tpl#L32)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`68`](../src/punbb/search_results_posts.tpl#L68)[`<->`](../src/punbb/search_results_posts.tpl#L68-L68)[`68`](../src/punbb/search_results_posts.tpl#L68)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`45`](../src/punbb/search_results_topics.tpl#L45)[`<->`](../src/punbb/search_results_topics.tpl#L45-L45)[`45`](../src/punbb/search_results_topics.tpl#L45)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`64`](../src/punbb/search_results_topics.tpl#L64)[`<->`](../src/punbb/search_results_topics.tpl#L64-L64)[`64`](../src/punbb/search_results_topics.tpl#L64)
+
 ### Version Invision
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`16`](../src/invision/search_results_posts.tpl#L16)[`<->`](../src/invision/search_results_posts.tpl#L16-L16)[`16`](../src/invision/search_results_posts.tpl#L16)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`48`](../src/invision/search_results_posts.tpl#L48)[`<->`](../src/invision/search_results_posts.tpl#L48-L48)[`48`](../src/invision/search_results_posts.tpl#L48)

@@ -20,6 +20,9 @@ Contient la relation partant du document courant vers l'ancre définie dans `PA 
 ### Version phpBB2
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`19`](../src/subsilver/overall_footer_end.tpl#L19)[`<->`](../src/subsilver/overall_footer_end.tpl#L19-L19)[`19`](../src/subsilver/overall_footer_end.tpl#L19)
 
+### Version PunBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`21`](../src/punbb/overall_footer_end.tpl#L21)[`<->`](../src/punbb/overall_footer_end.tpl#L21-L21)[`21`](../src/punbb/overall_footer_end.tpl#L21)
+
 ### Version Invision
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`23`](../src/invision/overall_footer_end.tpl#L23)[`<->`](../src/invision/overall_footer_end.tpl#L23-L23)[`23`](../src/invision/overall_footer_end.tpl#L23)
 

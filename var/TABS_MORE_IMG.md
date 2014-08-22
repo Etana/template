@@ -28,6 +28,9 @@ Image pour ouvrir un panneau définie dans `PA > Affichage > Images et Couleurs 
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`316`](../src/subsilver/viewtopic_body.tpl#L316)[`<->`](../src/subsilver/viewtopic_body.tpl#L316-L316)[`316`](../src/subsilver/viewtopic_body.tpl#L316)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`424`](../src/subsilver/viewtopic_body.tpl#L424)[`<->`](../src/subsilver/viewtopic_body.tpl#L424-L424)[`424`](../src/subsilver/viewtopic_body.tpl#L424)
 
+### Version PunBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`312`](../src/punbb/viewtopic_body.tpl#L312)[`<->`](../src/punbb/viewtopic_body.tpl#L312-L312)[`312`](../src/punbb/viewtopic_body.tpl#L312)
+
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`351`](../src/invision/viewtopic_body.tpl#L351)[`<->`](../src/invision/viewtopic_body.tpl#L351-L351)[`351`](../src/invision/viewtopic_body.tpl#L351)
 

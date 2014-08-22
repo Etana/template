@@ -23,6 +23,10 @@ Bouclage sur les éventuels membres du groupe ( hormis le modérateur ) :
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`64`](../src/subsilver/groupcp_info_body.tpl#L64)[`<->`](../src/subsilver/groupcp_info_body.tpl#L64-L64)[`64`](../src/subsilver/groupcp_info_body.tpl#L64)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`74`](../src/subsilver/groupcp_info_body.tpl#L74)[`<->`](../src/subsilver/groupcp_info_body.tpl#L74-L74)[`74`](../src/subsilver/groupcp_info_body.tpl#L74)
 
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`104`](../src/punbb/groupcp_info_body.tpl#L104)[`<->`](../src/punbb/groupcp_info_body.tpl#L104-L104)[`104`](../src/punbb/groupcp_info_body.tpl#L104)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`114`](../src/punbb/groupcp_info_body.tpl#L114)[`<->`](../src/punbb/groupcp_info_body.tpl#L114-L114)[`114`](../src/punbb/groupcp_info_body.tpl#L114)
+
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`80`](../src/invision/groupcp_info_body.tpl#L80)[`<->`](../src/invision/groupcp_info_body.tpl#L80-L80)[`80`](../src/invision/groupcp_info_body.tpl#L80)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`90`](../src/invision/groupcp_info_body.tpl#L90)[`<->`](../src/invision/groupcp_info_body.tpl#L90-L90)[`90`](../src/invision/groupcp_info_body.tpl#L90)

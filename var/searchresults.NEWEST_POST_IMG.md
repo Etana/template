@@ -18,6 +18,9 @@ Contient l'image vers le lien de la dernière réponse définie dans `PA > Affic
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)[`<->`](../src/subsilver/search_results_topics.tpl#L39-L39)[`39`](../src/subsilver/search_results_topics.tpl#L39)
 
+### Version PunBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`52`](../src/punbb/search_results_topics.tpl#L52)[`<->`](../src/punbb/search_results_topics.tpl#L52-L52)[`52`](../src/punbb/search_results_topics.tpl#L52)
+
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`43`](../src/invision/search_results_topics.tpl#L43)[`<->`](../src/invision/search_results_topics.tpl#L43-L43)[`43`](../src/invision/search_results_topics.tpl#L43)
 

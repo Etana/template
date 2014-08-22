@@ -20,6 +20,10 @@
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`40`](../src/subsilver/modcp_body.tpl#L40)[`<->`](../src/subsilver/modcp_body.tpl#L40-L40)[`40`](../src/subsilver/modcp_body.tpl#L40)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`40`](../src/subsilver/modcp_body.tpl#L40)[`<->`](../src/subsilver/modcp_body.tpl#L40-L40)[`40`](../src/subsilver/modcp_body.tpl#L40)
 
+### Version PunBB
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`69`](../src/punbb/modcp_body.tpl#L69)[`<->`](../src/punbb/modcp_body.tpl#L69-L69)[`69`](../src/punbb/modcp_body.tpl#L69)
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`69`](../src/punbb/modcp_body.tpl#L69)[`<->`](../src/punbb/modcp_body.tpl#L69-L69)[`69`](../src/punbb/modcp_body.tpl#L69)
+
 ### Version Invision
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`48`](../src/invision/modcp_body.tpl#L48)[`<->`](../src/invision/modcp_body.tpl#L48-L48)[`48`](../src/invision/modcp_body.tpl#L48)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`48`](../src/invision/modcp_body.tpl#L48)[`<->`](../src/invision/modcp_body.tpl#L48-L48)[`48`](../src/invision/modcp_body.tpl#L48)

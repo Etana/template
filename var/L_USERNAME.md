@@ -16,6 +16,7 @@ Chaîne de caractère.
 ## Utilisations dans les templates
 
 ### Version phpBB3
+* __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme) :__ lignes [`4`](../src/prosilver/calendar_overview_profil.tpl#L4)[`<->`](../src/prosilver/calendar_overview_profil.tpl#L4-L4)[`4`](../src/prosilver/calendar_overview_profil.tpl#L4)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`52`](../src/prosilver/groupcp_info_body.tpl#L52)[`<->`](../src/prosilver/groupcp_info_body.tpl#L52-L52)[`52`](../src/prosilver/groupcp_info_body.tpl#L52)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`7`](../src/prosilver/groupcp_pending_info.tpl#L7)[`<->`](../src/prosilver/groupcp_pending_info.tpl#L7-L7)[`7`](../src/prosilver/groupcp_pending_info.tpl#L7)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`11`](../src/prosilver/index_body.tpl#L11)[`<->`](../src/prosilver/index_body.tpl#L11-L11)[`11`](../src/prosilver/index_body.tpl#L11)
@@ -23,6 +24,11 @@ Chaîne de caractère.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`30`](../src/prosilver/memberlist_body.tpl#L30)[`<->`](../src/prosilver/memberlist_body.tpl#L30-L30)[`30`](../src/prosilver/memberlist_body.tpl#L30)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`10`](../src/prosilver/mod_login.tpl#L10)[`<->`](../src/prosilver/mod_login.tpl#L10-L10)[`10`](../src/prosilver/mod_login.tpl#L10)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`45`](../src/prosilver/mod_login.tpl#L45)[`<->`](../src/prosilver/mod_login.tpl#L45-L45)[`45`](../src/prosilver/mod_login.tpl#L45)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`53`](../src/prosilver/posting_body.tpl#L53)[`<->`](../src/prosilver/posting_body.tpl#L53-L53)[`53`](../src/prosilver/posting_body.tpl#L53)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`66`](../src/prosilver/posting_body.tpl#L66)[`<->`](../src/prosilver/posting_body.tpl#L66-L66)[`66`](../src/prosilver/posting_body.tpl#L66)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`23`](../src/prosilver/profile_add_body.tpl#L23)[`<->`](../src/prosilver/profile_add_body.tpl#L23-L23)[`23`](../src/prosilver/profile_add_body.tpl#L23)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`29`](../src/prosilver/profile_add_body.tpl#L29)[`<->`](../src/prosilver/profile_add_body.tpl#L29-L29)[`29`](../src/prosilver/profile_add_body.tpl#L29)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`9`](../src/prosilver/profile_send_pass.tpl#L9)[`<->`](../src/prosilver/profile_send_pass.tpl#L9-L9)[`9`](../src/prosilver/profile_send_pass.tpl#L9)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`23`](../src/prosilver/viewonline_body.tpl#L23)[`<->`](../src/prosilver/viewonline_body.tpl#L23-L23)[`23`](../src/prosilver/viewonline_body.tpl#L23)
 
 ### Version phpBB2
@@ -44,6 +50,22 @@ Chaîne de caractère.
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`23`](../src/subsilver/profile_add_body.tpl#L23)[`<->`](../src/subsilver/profile_add_body.tpl#L23-L23)[`23`](../src/subsilver/profile_add_body.tpl#L23)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`15`](../src/subsilver/profile_send_pass.tpl#L15)[`<->`](../src/subsilver/profile_send_pass.tpl#L15-L15)[`15`](../src/subsilver/profile_send_pass.tpl#L15)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`18`](../src/subsilver/viewonline_body.tpl#L18)[`<->`](../src/subsilver/viewonline_body.tpl#L18-L18)[`18`](../src/subsilver/viewonline_body.tpl#L18)
+
+### Version PunBB
+* __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme) :__ lignes [`4`](../src/punbb/calendar_overview_profil.tpl#L4)[`<->`](../src/punbb/calendar_overview_profil.tpl#L4-L4)[`4`](../src/punbb/calendar_overview_profil.tpl#L4)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`79`](../src/punbb/groupcp_info_body.tpl#L79)[`<->`](../src/punbb/groupcp_info_body.tpl#L79-L79)[`79`](../src/punbb/groupcp_info_body.tpl#L79)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`7`](../src/punbb/groupcp_pending_info.tpl#L7)[`<->`](../src/punbb/groupcp_pending_info.tpl#L7-L7)[`7`](../src/punbb/groupcp_pending_info.tpl#L7)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`39`](../src/punbb/index_body.tpl#L39)[`<->`](../src/punbb/index_body.tpl#L39-L39)[`39`](../src/punbb/index_body.tpl#L39)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`108`](../src/punbb/index_body.tpl#L108)[`<->`](../src/punbb/index_body.tpl#L108-L108)[`108`](../src/punbb/index_body.tpl#L108)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`63`](../src/punbb/memberlist_body.tpl#L63)[`<->`](../src/punbb/memberlist_body.tpl#L63-L63)[`63`](../src/punbb/memberlist_body.tpl#L63)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`8`](../src/punbb/mod_login.tpl#L8)[`<->`](../src/punbb/mod_login.tpl#L8-L8)[`8`](../src/punbb/mod_login.tpl#L8)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`42`](../src/punbb/mod_login.tpl#L42)[`<->`](../src/punbb/mod_login.tpl#L42-L42)[`42`](../src/punbb/mod_login.tpl#L42)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`71`](../src/punbb/posting_body.tpl#L71)[`<->`](../src/punbb/posting_body.tpl#L71-L71)[`71`](../src/punbb/posting_body.tpl#L71)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`85`](../src/punbb/posting_body.tpl#L85)[`<->`](../src/punbb/posting_body.tpl#L85-L85)[`85`](../src/punbb/posting_body.tpl#L85)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`32`](../src/punbb/profile_add_body.tpl#L32)[`<->`](../src/punbb/profile_add_body.tpl#L32-L32)[`32`](../src/punbb/profile_add_body.tpl#L32)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`38`](../src/punbb/profile_add_body.tpl#L38)[`<->`](../src/punbb/profile_add_body.tpl#L38-L38)[`38`](../src/punbb/profile_add_body.tpl#L38)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`31`](../src/punbb/profile_send_pass.tpl#L31)[`<->`](../src/punbb/profile_send_pass.tpl#L31-L31)[`31`](../src/punbb/profile_send_pass.tpl#L31)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`41`](../src/punbb/viewonline_body.tpl#L41)[`<->`](../src/punbb/viewonline_body.tpl#L41-L41)[`41`](../src/punbb/viewonline_body.tpl#L41)
 
 ### Version Invision
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme) :__ lignes [`4`](../src/invision/calendar_overview_profil.tpl#L4)[`<->`](../src/invision/calendar_overview_profil.tpl#L4-L4)[`4`](../src/invision/calendar_overview_profil.tpl#L4)

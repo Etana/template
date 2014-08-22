@@ -12,8 +12,14 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`18`](../src/prosilver/birthday_list_box.tpl#L18)[`<->`](../src/prosilver/birthday_list_box.tpl#L18-L18)[`18`](../src/prosilver/birthday_list_box.tpl#L18)
+
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`28`](../src/subsilver/birthday_list_box.tpl#L28)[`<->`](../src/subsilver/birthday_list_box.tpl#L28-L28)[`28`](../src/subsilver/birthday_list_box.tpl#L28)
+
+### Version PunBB
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`12`](../src/punbb/birthday_list_box.tpl#L12)[`<->`](../src/punbb/birthday_list_box.tpl#L12-L12)[`12`](../src/punbb/birthday_list_box.tpl#L12)
 
 ### Version Invision
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`13`](../src/invision/birthday_list_box.tpl#L13)[`<->`](../src/invision/birthday_list_box.tpl#L13-L13)[`13`](../src/invision/birthday_list_box.tpl#L13)

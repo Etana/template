@@ -13,7 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`65`](../src/prosilver/album_modcp_body.tpl#L65)[`<->`](../src/prosilver/album_modcp_body.tpl#L65-L65)[`65`](../src/prosilver/album_modcp_body.tpl#L65)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`111`](../src/prosilver/album_moderate_body.tpl#L111)[`<->`](../src/prosilver/album_moderate_body.tpl#L111-L111)[`111`](../src/prosilver/album_moderate_body.tpl#L111)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`47`](../src/prosilver/modcp_body.tpl#L47)[`<->`](../src/prosilver/modcp_body.tpl#L47-L47)[`47`](../src/prosilver/modcp_body.tpl#L47)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`87`](../src/prosilver/profile_add_body.tpl#L87)[`<->`](../src/prosilver/profile_add_body.tpl#L87-L87)[`87`](../src/prosilver/profile_add_body.tpl#L87)
 * __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`65`](../src/prosilver/report_list_body.tpl#L65)[`<->`](../src/prosilver/report_list_body.tpl#L65-L65)[`65`](../src/prosilver/report_list_body.tpl#L65)
 
 ### Version phpBB2
@@ -21,6 +24,13 @@
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`35`](../src/subsilver/modcp_body.tpl#L35)[`<->`](../src/subsilver/modcp_body.tpl#L35-L35)[`35`](../src/subsilver/modcp_body.tpl#L35)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`81`](../src/subsilver/profile_add_body.tpl#L81)[`<->`](../src/subsilver/profile_add_body.tpl#L81-L81)[`81`](../src/subsilver/profile_add_body.tpl#L81)
 * __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`47`](../src/subsilver/report_list_body.tpl#L47)[`<->`](../src/subsilver/report_list_body.tpl#L47-L47)[`47`](../src/subsilver/report_list_body.tpl#L47)
+
+### Version PunBB
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`78`](../src/punbb/album_modcp_body.tpl#L78)[`<->`](../src/punbb/album_modcp_body.tpl#L78-L78)[`78`](../src/punbb/album_modcp_body.tpl#L78)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`124`](../src/punbb/album_moderate_body.tpl#L124)[`<->`](../src/punbb/album_moderate_body.tpl#L124-L124)[`124`](../src/punbb/album_moderate_body.tpl#L124)
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`64`](../src/punbb/modcp_body.tpl#L64)[`<->`](../src/punbb/modcp_body.tpl#L64-L64)[`64`](../src/punbb/modcp_body.tpl#L64)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`393`](../src/punbb/profile_add_body.tpl#L393)[`<->`](../src/punbb/profile_add_body.tpl#L393-L393)[`393`](../src/punbb/profile_add_body.tpl#L393)
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`79`](../src/punbb/report_list_body.tpl#L79)[`<->`](../src/punbb/report_list_body.tpl#L79-L79)[`79`](../src/punbb/report_list_body.tpl#L79)
 
 ### Version Invision
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`65`](../src/invision/album_modcp_body.tpl#L65)[`<->`](../src/invision/album_modcp_body.tpl#L65-L65)[`65`](../src/invision/album_modcp_body.tpl#L65)

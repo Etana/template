@@ -18,6 +18,9 @@ Contient tout le JavaScript de votre forum.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`186`](../src/subsilver/overall_header.tpl#L186)[`<->`](../src/subsilver/overall_header.tpl#L186-L186)[`186`](../src/subsilver/overall_header.tpl#L186)
 
+### Version PunBB
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`180`](../src/punbb/overall_header.tpl#L180)[`<->`](../src/punbb/overall_header.tpl#L180-L180)[`180`](../src/punbb/overall_header.tpl#L180)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`183`](../src/invision/overall_header.tpl#L183)[`<->`](../src/invision/overall_header.tpl#L183-L183)[`183`](../src/invision/overall_header.tpl#L183)
 

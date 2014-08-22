@@ -15,8 +15,8 @@ Ce template modifie le popup d'anniversaire.
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* `&lt; html_validation &gt;`](../var/html_validation.md#readme)
-	* `{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
-	* `{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
-	* `{L_SUBJECT}`](../var/L_SUBJECT.md#readme)
-	* `{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme)
+	* [`&lt; html_validation &gt;`](../var/html_validation.md#readme)
+	* [`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
+	* [`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
+	* [`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)
+	* [`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme)

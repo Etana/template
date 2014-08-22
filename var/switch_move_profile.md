@@ -12,11 +12,23 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`88`](../src/prosilver/privmsgs_body.tpl#L88)[`<->`](../src/prosilver/privmsgs_body.tpl#L88-L88)[`88`](../src/prosilver/privmsgs_body.tpl#L88)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`90`](../src/prosilver/privmsgs_body.tpl#L90)[`<->`](../src/prosilver/privmsgs_body.tpl#L90-L90)[`90`](../src/prosilver/privmsgs_body.tpl#L90)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`55`](../src/prosilver/privmsgs_read_body.tpl#L55)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L55-L55)[`55`](../src/prosilver/privmsgs_read_body.tpl#L55)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`57`](../src/prosilver/privmsgs_read_body.tpl#L57)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L57-L57)[`57`](../src/prosilver/privmsgs_read_body.tpl#L57)
+
 ### Version phpBB2
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`95`](../src/subsilver/privmsgs_body.tpl#L95)[`<->`](../src/subsilver/privmsgs_body.tpl#L95-L95)[`95`](../src/subsilver/privmsgs_body.tpl#L95)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`97`](../src/subsilver/privmsgs_body.tpl#L97)[`<->`](../src/subsilver/privmsgs_body.tpl#L97-L97)[`97`](../src/subsilver/privmsgs_body.tpl#L97)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`86`](../src/subsilver/privmsgs_read_body.tpl#L86)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L86-L86)[`86`](../src/subsilver/privmsgs_read_body.tpl#L86)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`88`](../src/subsilver/privmsgs_read_body.tpl#L88)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L88-L88)[`88`](../src/subsilver/privmsgs_read_body.tpl#L88)
+
+### Version PunBB
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`91`](../src/punbb/privmsgs_body.tpl#L91)[`<->`](../src/punbb/privmsgs_body.tpl#L91-L91)[`91`](../src/punbb/privmsgs_body.tpl#L91)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`93`](../src/punbb/privmsgs_body.tpl#L93)[`<->`](../src/punbb/privmsgs_body.tpl#L93-L93)[`93`](../src/punbb/privmsgs_body.tpl#L93)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`92`](../src/punbb/privmsgs_read_body.tpl#L92)[`<->`](../src/punbb/privmsgs_read_body.tpl#L92-L92)[`92`](../src/punbb/privmsgs_read_body.tpl#L92)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`94`](../src/punbb/privmsgs_read_body.tpl#L94)[`<->`](../src/punbb/privmsgs_read_body.tpl#L94-L94)[`94`](../src/punbb/privmsgs_read_body.tpl#L94)
 
 ### Version Invision
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`73`](../src/invision/privmsgs_body.tpl#L73)[`<->`](../src/invision/privmsgs_body.tpl#L73-L73)[`73`](../src/invision/privmsgs_body.tpl#L73)

@@ -20,6 +20,10 @@ Le contenu de la boucle est affiché si il n'y a pas d'autre membre du groupe qu
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`75`](../src/subsilver/groupcp_info_body.tpl#L75)[`<->`](../src/subsilver/groupcp_info_body.tpl#L75-L75)[`75`](../src/subsilver/groupcp_info_body.tpl#L75)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`79`](../src/subsilver/groupcp_info_body.tpl#L79)[`<->`](../src/subsilver/groupcp_info_body.tpl#L79-L79)[`79`](../src/subsilver/groupcp_info_body.tpl#L79)
 
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`115`](../src/punbb/groupcp_info_body.tpl#L115)[`<->`](../src/punbb/groupcp_info_body.tpl#L115-L115)[`115`](../src/punbb/groupcp_info_body.tpl#L115)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`119`](../src/punbb/groupcp_info_body.tpl#L119)[`<->`](../src/punbb/groupcp_info_body.tpl#L119-L119)[`119`](../src/punbb/groupcp_info_body.tpl#L119)
+
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`91`](../src/invision/groupcp_info_body.tpl#L91)[`<->`](../src/invision/groupcp_info_body.tpl#L91-L91)[`91`](../src/invision/groupcp_info_body.tpl#L91)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`95`](../src/invision/groupcp_info_body.tpl#L95)[`<->`](../src/invision/groupcp_info_body.tpl#L95-L95)[`95`](../src/invision/groupcp_info_body.tpl#L95)

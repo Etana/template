@@ -15,5 +15,5 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* `{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)
-	* `{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme)
+	* [`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)
+	* [`{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme)

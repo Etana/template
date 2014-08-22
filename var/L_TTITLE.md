@@ -12,6 +12,12 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`21`](../src/prosilver/album_search_body.tpl#L21)[`<->`](../src/prosilver/album_search_body.tpl#L21-L21)[`21`](../src/prosilver/album_search_body.tpl#L21)
+
 ### Version phpBB2
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`23`](../src/subsilver/album_search_body.tpl#L23)[`<->`](../src/subsilver/album_search_body.tpl#L23-L23)[`23`](../src/subsilver/album_search_body.tpl#L23)
+
+### Version PunBB
+* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`31`](../src/punbb/album_search_body.tpl#L31)[`<->`](../src/punbb/album_search_body.tpl#L31-L31)[`31`](../src/punbb/album_search_body.tpl#L31)
 

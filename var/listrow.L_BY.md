@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version PunBB
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`64`](../src/punbb/privmsgs_body.tpl#L64)[`<->`](../src/punbb/privmsgs_body.tpl#L64-L64)[`64`](../src/punbb/privmsgs_body.tpl#L64)
+
 ### Version Invision
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`49`](../src/invision/privmsgs_body.tpl#L49)[`<->`](../src/invision/privmsgs_body.tpl#L49-L49)[`49`](../src/invision/privmsgs_body.tpl#L49)
 

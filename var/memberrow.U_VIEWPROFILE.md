@@ -19,3 +19,6 @@ Contient un lien vers le profil du membre.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`39`](../src/subsilver/memberlist_body.tpl#L39)[`<->`](../src/subsilver/memberlist_body.tpl#L39-L39)[`39`](../src/subsilver/memberlist_body.tpl#L39)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`40`](../src/subsilver/memberlist_body.tpl#L40)[`<->`](../src/subsilver/memberlist_body.tpl#L40-L40)[`40`](../src/subsilver/memberlist_body.tpl#L40)
 
+### Version PunBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`79`](../src/punbb/memberlist_body.tpl#L79)[`<->`](../src/punbb/memberlist_body.tpl#L79-L79)[`79`](../src/punbb/memberlist_body.tpl#L79)
+

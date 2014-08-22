@@ -18,6 +18,9 @@ Contient l'ID de l'application Facebook dans `PA > Modules > Facebook Connect | 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`246`](../src/subsilver/index_body.tpl#L246)[`<->`](../src/subsilver/index_body.tpl#L246-L246)[`246`](../src/subsilver/index_body.tpl#L246)
 
+### Version PunBB
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`139`](../src/punbb/index_body.tpl#L139)[`<->`](../src/punbb/index_body.tpl#L139-L139)[`139`](../src/punbb/index_body.tpl#L139)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`193`](../src/invision/index_body.tpl#L193)[`<->`](../src/invision/index_body.tpl#L193-L193)[`193`](../src/invision/index_body.tpl#L193)
 

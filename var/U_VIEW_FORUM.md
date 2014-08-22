@@ -1,6 +1,6 @@
 # U_VIEW_FORUM
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation :__
 
 ```html
@@ -17,4 +17,11 @@ Remplacé par l'URL absolue vers le forum dans lequel le sujet se trouve.
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`4`](../src/prosilver/viewforum_body.tpl#L4)[`<->`](../src/prosilver/viewforum_body.tpl#L4-L4)[`4`](../src/prosilver/viewforum_body.tpl#L4)
+
+### Version PunBB
+* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`17`](../src/punbb/faq_body.tpl#L17)[`<->`](../src/punbb/faq_body.tpl#L17-L17)[`17`](../src/punbb/faq_body.tpl#L17)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`17`](../src/punbb/faq_dhtml.tpl#L17)[`<->`](../src/punbb/faq_dhtml.tpl#L17-L17)[`17`](../src/punbb/faq_dhtml.tpl#L17)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`17`](../src/punbb/profile_avatar_gallery.tpl#L17)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L17-L17)[`17`](../src/punbb/profile_avatar_gallery.tpl#L17)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`17`](../src/punbb/profile_send_pass.tpl#L17)[`<->`](../src/punbb/profile_send_pass.tpl#L17-L17)[`17`](../src/punbb/profile_send_pass.tpl#L17)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`28`](../src/punbb/viewonline_body.tpl#L28)[`<->`](../src/punbb/viewonline_body.tpl#L28-L28)[`28`](../src/punbb/viewonline_body.tpl#L28)
 

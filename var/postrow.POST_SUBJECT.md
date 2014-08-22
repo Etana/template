@@ -19,6 +19,9 @@
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`50`](../src/subsilver/modcp_split.tpl#L50)[`<->`](../src/subsilver/modcp_split.tpl#L50-L50)[`50`](../src/subsilver/modcp_split.tpl#L50)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)[`<->`](../src/subsilver/privmsg_topic_review.tpl#L20-L20)[`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
 
+### Version PunBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`54`](../src/punbb/modcp_split.tpl#L54)[`<->`](../src/punbb/modcp_split.tpl#L54-L54)[`54`](../src/punbb/modcp_split.tpl#L54)
+
 ### Version Invision
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`38`](../src/invision/modcp_split.tpl#L38)[`<->`](../src/invision/modcp_split.tpl#L38-L38)[`38`](../src/invision/modcp_split.tpl#L38)
 

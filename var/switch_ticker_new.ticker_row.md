@@ -20,6 +20,10 @@ Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > G
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`288`](../src/subsilver/overall_header.tpl#L288)[`<->`](../src/subsilver/overall_header.tpl#L288-L288)[`288`](../src/subsilver/overall_header.tpl#L288)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`290`](../src/subsilver/overall_header.tpl#L290)[`<->`](../src/subsilver/overall_header.tpl#L290-L290)[`290`](../src/subsilver/overall_header.tpl#L290)
 
+### Version PunBB
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`267`](../src/punbb/overall_header.tpl#L267)[`<->`](../src/punbb/overall_header.tpl#L267-L267)[`267`](../src/punbb/overall_header.tpl#L267)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`269`](../src/punbb/overall_header.tpl#L269)[`<->`](../src/punbb/overall_header.tpl#L269-L269)[`269`](../src/punbb/overall_header.tpl#L269)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`286`](../src/invision/overall_header.tpl#L286)[`<->`](../src/invision/overall_header.tpl#L286-L286)[`286`](../src/invision/overall_header.tpl#L286)
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`288`](../src/invision/overall_header.tpl#L288)[`<->`](../src/invision/overall_header.tpl#L288-L288)[`288`](../src/invision/overall_header.tpl#L288)

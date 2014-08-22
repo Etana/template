@@ -24,6 +24,10 @@ Le contenu du bouclage est affiché :
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`21`](../src/subsilver/groupcp_info_body.tpl#L21)[`<->`](../src/subsilver/groupcp_info_body.tpl#L21-L21)[`21`](../src/subsilver/groupcp_info_body.tpl#L21)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`23`](../src/subsilver/groupcp_info_body.tpl#L23)[`<->`](../src/subsilver/groupcp_info_body.tpl#L23-L23)[`23`](../src/subsilver/groupcp_info_body.tpl#L23)
 
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`48`](../src/punbb/groupcp_info_body.tpl#L48)[`<->`](../src/punbb/groupcp_info_body.tpl#L48-L48)[`48`](../src/punbb/groupcp_info_body.tpl#L48)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`50`](../src/punbb/groupcp_info_body.tpl#L50)[`<->`](../src/punbb/groupcp_info_body.tpl#L50-L50)[`50`](../src/punbb/groupcp_info_body.tpl#L50)
+
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`28`](../src/invision/groupcp_info_body.tpl#L28)[`<->`](../src/invision/groupcp_info_body.tpl#L28-L28)[`28`](../src/invision/groupcp_info_body.tpl#L28)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`30`](../src/invision/groupcp_info_body.tpl#L30)[`<->`](../src/invision/groupcp_info_body.tpl#L30-L30)[`30`](../src/invision/groupcp_info_body.tpl#L30)

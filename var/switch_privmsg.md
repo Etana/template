@@ -12,6 +12,14 @@
 
 ## Utilisations dans les templates
 
+### Version phpBB3
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`64`](../src/prosilver/posting_body.tpl#L64)[`<->`](../src/prosilver/posting_body.tpl#L64-L64)[`64`](../src/prosilver/posting_body.tpl#L64)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`88`](../src/prosilver/posting_body.tpl#L88)[`<->`](../src/prosilver/posting_body.tpl#L88-L88)[`88`](../src/prosilver/posting_body.tpl#L88)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`406`](../src/prosilver/posting_body.tpl#L406)[`<->`](../src/prosilver/posting_body.tpl#L406-L406)[`406`](../src/prosilver/posting_body.tpl#L406)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`410`](../src/prosilver/posting_body.tpl#L410)[`<->`](../src/prosilver/posting_body.tpl#L410-L410)[`410`](../src/prosilver/posting_body.tpl#L410)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`414`](../src/prosilver/posting_body.tpl#L414)[`<->`](../src/prosilver/posting_body.tpl#L414-L414)[`414`](../src/prosilver/posting_body.tpl#L414)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`416`](../src/prosilver/posting_body.tpl#L416)[`<->`](../src/prosilver/posting_body.tpl#L416-L416)[`416`](../src/prosilver/posting_body.tpl#L416)
+
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`102`](../src/subsilver/posting_body.tpl#L102)[`<->`](../src/subsilver/posting_body.tpl#L102-L102)[`102`](../src/subsilver/posting_body.tpl#L102)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`128`](../src/subsilver/posting_body.tpl#L128)[`<->`](../src/subsilver/posting_body.tpl#L128-L128)[`128`](../src/subsilver/posting_body.tpl#L128)
@@ -19,6 +27,14 @@
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`612`](../src/subsilver/posting_body.tpl#L612)[`<->`](../src/subsilver/posting_body.tpl#L612-L612)[`612`](../src/subsilver/posting_body.tpl#L612)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`616`](../src/subsilver/posting_body.tpl#L616)[`<->`](../src/subsilver/posting_body.tpl#L616-L616)[`616`](../src/subsilver/posting_body.tpl#L616)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`618`](../src/subsilver/posting_body.tpl#L618)[`<->`](../src/subsilver/posting_body.tpl#L618-L618)[`618`](../src/subsilver/posting_body.tpl#L618)
+
+### Version PunBB
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`83`](../src/punbb/posting_body.tpl#L83)[`<->`](../src/punbb/posting_body.tpl#L83-L83)[`83`](../src/punbb/posting_body.tpl#L83)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`107`](../src/punbb/posting_body.tpl#L107)[`<->`](../src/punbb/posting_body.tpl#L107-L107)[`107`](../src/punbb/posting_body.tpl#L107)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`421`](../src/punbb/posting_body.tpl#L421)[`<->`](../src/punbb/posting_body.tpl#L421-L421)[`421`](../src/punbb/posting_body.tpl#L421)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`425`](../src/punbb/posting_body.tpl#L425)[`<->`](../src/punbb/posting_body.tpl#L425-L425)[`425`](../src/punbb/posting_body.tpl#L425)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`429`](../src/punbb/posting_body.tpl#L429)[`<->`](../src/punbb/posting_body.tpl#L429-L429)[`429`](../src/punbb/posting_body.tpl#L429)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`431`](../src/punbb/posting_body.tpl#L431)[`<->`](../src/punbb/posting_body.tpl#L431-L431)[`431`](../src/punbb/posting_body.tpl#L431)
 
 ### Version Invision
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`60`](../src/invision/posting_body.tpl#L60)[`<->`](../src/invision/posting_body.tpl#L60-L60)[`60`](../src/invision/posting_body.tpl#L60)

@@ -1,6 +1,6 @@
 # html_validation
 * __Type :__ variable de bouclage
-* __Utilisable dans :__ [`greeting_popup`](../tpl/greeting_popup.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`simple_footer`](../tpl/simple_footer.md#readme)
+* __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme), [`greeting_popup`](../tpl/greeting_popup.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`simple_footer`](../tpl/simple_footer.md#readme)
 * __Utilisation :__
 
 ```html
@@ -13,6 +13,10 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 ## Utilisations dans les templates
 
 ### Version phpBB3
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`1`](../src/prosilver/calendar_box.tpl#L1)[`<->`](../src/prosilver/calendar_box.tpl#L1-L1)[`1`](../src/prosilver/calendar_box.tpl#L1)
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`2`](../src/prosilver/calendar_box.tpl#L2)[`<->`](../src/prosilver/calendar_box.tpl#L2-L2)[`2`](../src/prosilver/calendar_box.tpl#L2)
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`83`](../src/prosilver/calendar_box.tpl#L83)[`<->`](../src/prosilver/calendar_box.tpl#L83-L83)[`83`](../src/prosilver/calendar_box.tpl#L83)
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`84`](../src/prosilver/calendar_box.tpl#L84)[`<->`](../src/prosilver/calendar_box.tpl#L84-L84)[`84`](../src/prosilver/calendar_box.tpl#L84)
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`1`](../src/prosilver/greeting_popup.tpl#L1)[`<->`](../src/prosilver/greeting_popup.tpl#L1-L1)[`1`](../src/prosilver/greeting_popup.tpl#L1)
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`5`](../src/prosilver/greeting_popup.tpl#L5)[`<->`](../src/prosilver/greeting_popup.tpl#L5-L5)[`5`](../src/prosilver/greeting_popup.tpl#L5)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`1`](../src/prosilver/overall_footer_begin.tpl#L1)[`<->`](../src/prosilver/overall_footer_begin.tpl#L1-L1)[`1`](../src/prosilver/overall_footer_begin.tpl#L1)
@@ -21,6 +25,8 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`42`](../src/prosilver/overall_footer_begin.tpl#L42)[`<->`](../src/prosilver/overall_footer_begin.tpl#L42-L42)[`42`](../src/prosilver/overall_footer_begin.tpl#L42)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`1`](../src/prosilver/overall_footer_end.tpl#L1)[`<->`](../src/prosilver/overall_footer_end.tpl#L1-L1)[`1`](../src/prosilver/overall_footer_end.tpl#L1)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`14`](../src/prosilver/overall_footer_end.tpl#L14)[`<->`](../src/prosilver/overall_footer_end.tpl#L14-L14)[`14`](../src/prosilver/overall_footer_end.tpl#L14)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`1`](../src/prosilver/privmsgs_popup.tpl#L1)[`<->`](../src/prosilver/privmsgs_popup.tpl#L1-L1)[`1`](../src/prosilver/privmsgs_popup.tpl#L1)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`5`](../src/prosilver/privmsgs_popup.tpl#L5)[`<->`](../src/prosilver/privmsgs_popup.tpl#L5-L5)[`5`](../src/prosilver/privmsgs_popup.tpl#L5)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`1`](../src/prosilver/report_popup_body.tpl#L1)[`<->`](../src/prosilver/report_popup_body.tpl#L1-L1)[`1`](../src/prosilver/report_popup_body.tpl#L1)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`5`](../src/prosilver/report_popup_body.tpl#L5)[`<->`](../src/prosilver/report_popup_body.tpl#L5-L5)[`5`](../src/prosilver/report_popup_body.tpl#L5)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`1`](../src/prosilver/search_username.tpl#L1)[`<->`](../src/prosilver/search_username.tpl#L1-L1)[`1`](../src/prosilver/search_username.tpl#L1)
@@ -39,6 +45,24 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`8`](../src/subsilver/privmsgs_popup.tpl#L8)[`<->`](../src/subsilver/privmsgs_popup.tpl#L8-L8)[`8`](../src/subsilver/privmsgs_popup.tpl#L8)
 * __[`simple_footer`](../tpl/simple_footer.md#readme) :__ lignes [`1`](../src/subsilver/simple_footer.tpl#L1)[`<->`](../src/subsilver/simple_footer.tpl#L1-L1)[`1`](../src/subsilver/simple_footer.tpl#L1)
 * __[`simple_footer`](../tpl/simple_footer.md#readme) :__ lignes [`8`](../src/subsilver/simple_footer.tpl#L8)[`<->`](../src/subsilver/simple_footer.tpl#L8-L8)[`8`](../src/subsilver/simple_footer.tpl#L8)
+
+### Version PunBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`1`](../src/punbb/greeting_popup.tpl#L1)[`<->`](../src/punbb/greeting_popup.tpl#L1-L1)[`1`](../src/punbb/greeting_popup.tpl#L1)
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`5`](../src/punbb/greeting_popup.tpl#L5)[`<->`](../src/punbb/greeting_popup.tpl#L5-L5)[`5`](../src/punbb/greeting_popup.tpl#L5)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`1`](../src/punbb/overall_footer_begin.tpl#L1)[`<->`](../src/punbb/overall_footer_begin.tpl#L1-L1)[`1`](../src/punbb/overall_footer_begin.tpl#L1)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`10`](../src/punbb/overall_footer_begin.tpl#L10)[`<->`](../src/punbb/overall_footer_begin.tpl#L10-L10)[`10`](../src/punbb/overall_footer_begin.tpl#L10)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`37`](../src/punbb/overall_footer_begin.tpl#L37)[`<->`](../src/punbb/overall_footer_begin.tpl#L37-L37)[`37`](../src/punbb/overall_footer_begin.tpl#L37)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`42`](../src/punbb/overall_footer_begin.tpl#L42)[`<->`](../src/punbb/overall_footer_begin.tpl#L42-L42)[`42`](../src/punbb/overall_footer_begin.tpl#L42)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`1`](../src/punbb/overall_footer_end.tpl#L1)[`<->`](../src/punbb/overall_footer_end.tpl#L1-L1)[`1`](../src/punbb/overall_footer_end.tpl#L1)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`13`](../src/punbb/overall_footer_end.tpl#L13)[`<->`](../src/punbb/overall_footer_end.tpl#L13-L13)[`13`](../src/punbb/overall_footer_end.tpl#L13)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`312`](../src/punbb/overall_header.tpl#L312)[`<->`](../src/punbb/overall_header.tpl#L312-L312)[`312`](../src/punbb/overall_header.tpl#L312)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`327`](../src/punbb/overall_header.tpl#L327)[`<->`](../src/punbb/overall_header.tpl#L327-L327)[`327`](../src/punbb/overall_header.tpl#L327)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`1`](../src/punbb/privmsgs_popup.tpl#L1)[`<->`](../src/punbb/privmsgs_popup.tpl#L1-L1)[`1`](../src/punbb/privmsgs_popup.tpl#L1)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`5`](../src/punbb/privmsgs_popup.tpl#L5)[`<->`](../src/punbb/privmsgs_popup.tpl#L5-L5)[`5`](../src/punbb/privmsgs_popup.tpl#L5)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`1`](../src/punbb/report_popup_body.tpl#L1)[`<->`](../src/punbb/report_popup_body.tpl#L1-L1)[`1`](../src/punbb/report_popup_body.tpl#L1)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`5`](../src/punbb/report_popup_body.tpl#L5)[`<->`](../src/punbb/report_popup_body.tpl#L5-L5)[`5`](../src/punbb/report_popup_body.tpl#L5)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`1`](../src/punbb/search_username.tpl#L1)[`<->`](../src/punbb/search_username.tpl#L1-L1)[`1`](../src/punbb/search_username.tpl#L1)
+* __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`5`](../src/punbb/search_username.tpl#L5)[`<->`](../src/punbb/search_username.tpl#L5-L5)[`5`](../src/punbb/search_username.tpl#L5)
 
 ### Version Invision
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`1`](../src/invision/greeting_popup.tpl#L1)[`<->`](../src/invision/greeting_popup.tpl#L1-L1)[`1`](../src/invision/greeting_popup.tpl#L1)

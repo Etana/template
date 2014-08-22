@@ -19,6 +19,9 @@ Contient l'image des sujets définie dans `PA > Affichage > Images et Couleurs |
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`22`](../src/subsilver/search_results_posts.tpl#L22)[`<->`](../src/subsilver/search_results_posts.tpl#L22-L22)[`22`](../src/subsilver/search_results_posts.tpl#L22)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`36`](../src/subsilver/search_results_topics.tpl#L36)[`<->`](../src/subsilver/search_results_topics.tpl#L36-L36)[`36`](../src/subsilver/search_results_topics.tpl#L36)
 
+### Version PunBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`49`](../src/punbb/search_results_topics.tpl#L49)[`<->`](../src/punbb/search_results_topics.tpl#L49-L49)[`49`](../src/punbb/search_results_topics.tpl#L49)
+
 ### Version Invision
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`35`](../src/invision/search_results_topics.tpl#L35)[`<->`](../src/invision/search_results_topics.tpl#L35-L35)[`35`](../src/invision/search_results_topics.tpl#L35)
 

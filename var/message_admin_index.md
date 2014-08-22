@@ -22,6 +22,10 @@ Boucle contenant le message d'accueil.
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`2`](../src/subsilver/index_body.tpl#L2)[`<->`](../src/subsilver/index_body.tpl#L2-L2)[`2`](../src/subsilver/index_body.tpl#L2)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`17`](../src/subsilver/index_body.tpl#L17)[`<->`](../src/subsilver/index_body.tpl#L17-L17)[`17`](../src/subsilver/index_body.tpl#L17)
 
+### Version PunBB
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`19`](../src/punbb/index_body.tpl#L19)[`<->`](../src/punbb/index_body.tpl#L19-L19)[`19`](../src/punbb/index_body.tpl#L19)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`33`](../src/punbb/index_body.tpl#L33)[`<->`](../src/punbb/index_body.tpl#L33-L33)[`33`](../src/punbb/index_body.tpl#L33)
+
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`7`](../src/invision/index_body.tpl#L7)[`<->`](../src/invision/index_body.tpl#L7-L7)[`7`](../src/invision/index_body.tpl#L7)
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`18`](../src/invision/index_body.tpl#L18)[`<->`](../src/invision/index_body.tpl#L18-L18)[`18`](../src/invision/index_body.tpl#L18)

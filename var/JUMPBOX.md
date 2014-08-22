@@ -13,6 +13,9 @@ Affiche le template {{subsilver/jumpbox}} ou {{punbb/jumpbox}}.
 ## Utilisations dans les templates
 
 ### Version phpBB3
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`52`](../src/prosilver/calendar_scheduler_body.tpl#L52)[`<->`](../src/prosilver/calendar_scheduler_body.tpl#L52-L52)[`52`](../src/prosilver/calendar_scheduler_body.tpl#L52)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`98`](../src/prosilver/privmsgs_body.tpl#L98)[`<->`](../src/prosilver/privmsgs_body.tpl#L98-L98)[`98`](../src/prosilver/privmsgs_body.tpl#L98)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`76`](../src/prosilver/privmsgs_read_body.tpl#L76)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L76-L76)[`76`](../src/prosilver/privmsgs_read_body.tpl#L76)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`83`](../src/prosilver/search_body.tpl#L83)[`<->`](../src/prosilver/search_body.tpl#L83-L83)[`83`](../src/prosilver/search_body.tpl#L83)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`30`](../src/prosilver/search_results_posts.tpl#L30)[`<->`](../src/prosilver/search_results_posts.tpl#L30-L30)[`30`](../src/prosilver/search_results_posts.tpl#L30)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/prosilver/search_results_topics.tpl#L62)[`<->`](../src/prosilver/search_results_topics.tpl#L62-L62)[`62`](../src/prosilver/search_results_topics.tpl#L62)

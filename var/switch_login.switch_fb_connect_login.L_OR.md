@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`30`](../src/subsilver/mod_login.tpl#L30)[`<->`](../src/subsilver/mod_login.tpl#L30-L30)[`30`](../src/subsilver/mod_login.tpl#L30)
 
+### Version PunBB
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`26`](../src/punbb/mod_login.tpl#L26)[`<->`](../src/punbb/mod_login.tpl#L26-L26)[`26`](../src/punbb/mod_login.tpl#L26)
+
 ### Version Invision
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`29`](../src/invision/mod_login.tpl#L29)[`<->`](../src/invision/mod_login.tpl#L29-L29)[`29`](../src/invision/mod_login.tpl#L29)
 

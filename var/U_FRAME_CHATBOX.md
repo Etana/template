@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_chatbox`](../tpl/mod_chatbox.md#readme) :__ lignes [`6`](../src/subsilver/mod_chatbox.tpl#L6)[`<->`](../src/subsilver/mod_chatbox.tpl#L6-L6)[`6`](../src/subsilver/mod_chatbox.tpl#L6)
 
+### Version PunBB
+* __[`mod_chatbox`](../tpl/mod_chatbox.md#readme) :__ lignes [`5`](../src/punbb/mod_chatbox.tpl#L5)[`<->`](../src/punbb/mod_chatbox.tpl#L5-L5)[`5`](../src/punbb/mod_chatbox.tpl#L5)
+
 ### Version Invision
 * __[`mod_chatbox`](../tpl/mod_chatbox.md#readme) :__ lignes [`5`](../src/invision/mod_chatbox.tpl#L5)[`<->`](../src/invision/mod_chatbox.tpl#L5-L5)[`5`](../src/invision/mod_chatbox.tpl#L5)
 

@@ -13,7 +13,7 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* `&lt; html_validation &gt;`](../var/html_validation.md#readme)
-	* `&lt; switch_view_stats &gt;`](../var/switch_view_stats.md#readme)
-	* `{switch_view_stats.L_STATS}`](../var/switch_view_stats.L_STATS.md#readme)
-	* `{switch_view_stats.S_STATS}`](../var/switch_view_stats.S_STATS.md#readme)
+	* [`&lt; html_validation &gt;`](../var/html_validation.md#readme)
+	* [`&lt; switch_view_stats &gt;`](../var/switch_view_stats.md#readme)
+	* [`{switch_view_stats.L_STATS}`](../var/switch_view_stats.L_STATS.md#readme)
+	* [`{switch_view_stats.S_STATS}`](../var/switch_view_stats.S_STATS.md#readme)

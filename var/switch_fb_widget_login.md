@@ -20,6 +20,10 @@
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`119`](../src/subsilver/mod_login.tpl#L119)[`<->`](../src/subsilver/mod_login.tpl#L119-L119)[`119`](../src/subsilver/mod_login.tpl#L119)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`132`](../src/subsilver/mod_login.tpl#L132)[`<->`](../src/subsilver/mod_login.tpl#L132-L132)[`132`](../src/subsilver/mod_login.tpl#L132)
 
+### Version PunBB
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`79`](../src/punbb/mod_login.tpl#L79)[`<->`](../src/punbb/mod_login.tpl#L79-L79)[`79`](../src/punbb/mod_login.tpl#L79)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`92`](../src/punbb/mod_login.tpl#L92)[`<->`](../src/punbb/mod_login.tpl#L92-L92)[`92`](../src/punbb/mod_login.tpl#L92)
+
 ### Version Invision
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`89`](../src/invision/mod_login.tpl#L89)[`<->`](../src/invision/mod_login.tpl#L89-L89)[`89`](../src/invision/mod_login.tpl#L89)
 * __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`102`](../src/invision/mod_login.tpl#L102)[`<->`](../src/invision/mod_login.tpl#L102-L102)[`102`](../src/invision/mod_login.tpl#L102)

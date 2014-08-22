@@ -20,6 +20,10 @@
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`1`](../src/subsilver/groupcp_user_body.tpl#L1)[`<->`](../src/subsilver/groupcp_user_body.tpl#L1-L1)[`1`](../src/subsilver/groupcp_user_body.tpl#L1)
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`20`](../src/subsilver/groupcp_user_body.tpl#L20)[`<->`](../src/subsilver/groupcp_user_body.tpl#L20-L20)[`20`](../src/subsilver/groupcp_user_body.tpl#L20)
 
+### Version PunBB
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`23`](../src/punbb/groupcp_user_body.tpl#L23)[`<->`](../src/punbb/groupcp_user_body.tpl#L23-L23)[`23`](../src/punbb/groupcp_user_body.tpl#L23)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`53`](../src/punbb/groupcp_user_body.tpl#L53)[`<->`](../src/punbb/groupcp_user_body.tpl#L53-L53)[`53`](../src/punbb/groupcp_user_body.tpl#L53)
+
 ### Version Invision
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`8`](../src/invision/groupcp_user_body.tpl#L8)[`<->`](../src/invision/groupcp_user_body.tpl#L8-L8)[`8`](../src/invision/groupcp_user_body.tpl#L8)
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`34`](../src/invision/groupcp_user_body.tpl#L34)[`<->`](../src/invision/groupcp_user_body.tpl#L34-L34)[`34`](../src/invision/groupcp_user_body.tpl#L34)

@@ -30,6 +30,16 @@ Boucle s'affichant si l'utilisateur a l'autorisation de créer un nouveau sujet 
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`440`](../src/subsilver/viewtopic_body.tpl#L440)[`<->`](../src/subsilver/viewtopic_body.tpl#L440-L440)[`440`](../src/subsilver/viewtopic_body.tpl#L440)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`442`](../src/subsilver/viewtopic_body.tpl#L442)[`<->`](../src/subsilver/viewtopic_body.tpl#L442-L442)[`442`](../src/subsilver/viewtopic_body.tpl#L442)
 
+### Version PunBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`33`](../src/punbb/viewforum_body.tpl#L33)[`<->`](../src/punbb/viewforum_body.tpl#L33-L33)[`33`](../src/punbb/viewforum_body.tpl#L33)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`35`](../src/punbb/viewforum_body.tpl#L35)[`<->`](../src/punbb/viewforum_body.tpl#L35-L35)[`35`](../src/punbb/viewforum_body.tpl#L35)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`42`](../src/punbb/viewforum_body.tpl#L42)[`<->`](../src/punbb/viewforum_body.tpl#L42-L42)[`42`](../src/punbb/viewforum_body.tpl#L42)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`44`](../src/punbb/viewforum_body.tpl#L44)[`<->`](../src/punbb/viewforum_body.tpl#L44-L44)[`44`](../src/punbb/viewforum_body.tpl#L44)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`111`](../src/punbb/viewtopic_body.tpl#L111)[`<->`](../src/punbb/viewtopic_body.tpl#L111-L111)[`111`](../src/punbb/viewtopic_body.tpl#L111)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`113`](../src/punbb/viewtopic_body.tpl#L113)[`<->`](../src/punbb/viewtopic_body.tpl#L113-L113)[`113`](../src/punbb/viewtopic_body.tpl#L113)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`289`](../src/punbb/viewtopic_body.tpl#L289)[`<->`](../src/punbb/viewtopic_body.tpl#L289-L289)[`289`](../src/punbb/viewtopic_body.tpl#L289)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`291`](../src/punbb/viewtopic_body.tpl#L291)[`<->`](../src/punbb/viewtopic_body.tpl#L291-L291)[`291`](../src/punbb/viewtopic_body.tpl#L291)
+
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`11`](../src/invision/viewforum_body.tpl#L11)[`<->`](../src/invision/viewforum_body.tpl#L11-L11)[`11`](../src/invision/viewforum_body.tpl#L11)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`15`](../src/invision/viewforum_body.tpl#L15)[`<->`](../src/invision/viewforum_body.tpl#L15-L15)[`15`](../src/invision/viewforum_body.tpl#L15)

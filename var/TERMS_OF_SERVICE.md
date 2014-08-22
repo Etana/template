@@ -26,6 +26,9 @@ En cas de problème avec un paiement, veuillez nous contacter en postant un mess
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`23`](../src/subsilver/buy_credits.tpl#L23)[`<->`](../src/subsilver/buy_credits.tpl#L23-L23)[`23`](../src/subsilver/buy_credits.tpl#L23)
 
+### Version PunBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`35`](../src/punbb/buy_credits.tpl#L35)[`<->`](../src/punbb/buy_credits.tpl#L35-L35)[`35`](../src/punbb/buy_credits.tpl#L35)
+
 ### Version Invision
 * __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`20`](../src/invision/buy_credits.tpl#L20)[`<->`](../src/invision/buy_credits.tpl#L20-L20)[`20`](../src/invision/buy_credits.tpl#L20)
 

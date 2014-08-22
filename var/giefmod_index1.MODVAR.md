@@ -18,6 +18,9 @@ Affiche les widgets de la colonne de gauche un par un.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`327`](../src/subsilver/overall_header.tpl#L327)[`<->`](../src/subsilver/overall_header.tpl#L327-L327)[`327`](../src/subsilver/overall_header.tpl#L327)
 
+### Version PunBB
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`303`](../src/punbb/overall_header.tpl#L303)[`<->`](../src/punbb/overall_header.tpl#L303-L303)[`303`](../src/punbb/overall_header.tpl#L303)
+
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`322`](../src/invision/overall_header.tpl#L322)[`<->`](../src/invision/overall_header.tpl#L322-L322)[`322`](../src/invision/overall_header.tpl#L322)
 

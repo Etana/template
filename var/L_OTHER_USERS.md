@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`46`](../src/subsilver/modcp_viewip.tpl#L46)[`<->`](../src/subsilver/modcp_viewip.tpl#L46-L46)[`46`](../src/subsilver/modcp_viewip.tpl#L46)
 
+### Version PunBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`73`](../src/punbb/modcp_viewip.tpl#L73)[`<->`](../src/punbb/modcp_viewip.tpl#L73-L73)[`73`](../src/punbb/modcp_viewip.tpl#L73)
+
 ### Version Invision
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`51`](../src/invision/modcp_viewip.tpl#L51)[`<->`](../src/invision/modcp_viewip.tpl#L51-L51)[`51`](../src/invision/modcp_viewip.tpl#L51)
 

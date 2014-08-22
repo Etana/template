@@ -15,6 +15,9 @@
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`28`](../src/prosilver/faq_body.tpl#L28)[`<->`](../src/prosilver/faq_body.tpl#L28-L28)[`28`](../src/prosilver/faq_body.tpl#L28)
 
+### Version PunBB
+* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`43`](../src/punbb/faq_body.tpl#L43)[`<->`](../src/punbb/faq_body.tpl#L43-L43)[`43`](../src/punbb/faq_body.tpl#L43)
+
 ### Version Invision
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`28`](../src/invision/faq_body.tpl#L28)[`<->`](../src/invision/faq_body.tpl#L28-L28)[`28`](../src/invision/faq_body.tpl#L28)
 

@@ -18,6 +18,9 @@ Valeur du champ [`Localisation`](http://votre-forum.appspot.com/admin/?action=co
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`69`](../src/subsilver/groupcp_info_body.tpl#L69)[`<->`](../src/subsilver/groupcp_info_body.tpl#L69-L69)[`69`](../src/subsilver/groupcp_info_body.tpl#L69)
 
+### Version PunBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`109`](../src/punbb/groupcp_info_body.tpl#L109)[`<->`](../src/punbb/groupcp_info_body.tpl#L109-L109)[`109`](../src/punbb/groupcp_info_body.tpl#L109)
+
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`85`](../src/invision/groupcp_info_body.tpl#L85)[`<->`](../src/invision/groupcp_info_body.tpl#L85-L85)[`85`](../src/invision/groupcp_info_body.tpl#L85)
 

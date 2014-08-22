@@ -13,7 +13,7 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* `&lt; html_validation &gt;`](../var/html_validation.md#readme)
-	* `{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
-	* `{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
-	* `{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)
+	* [`&lt; html_validation &gt;`](../var/html_validation.md#readme)
+	* [`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
+	* [`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
+	* [`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)

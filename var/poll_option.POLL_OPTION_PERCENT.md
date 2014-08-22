@@ -24,6 +24,12 @@
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`19`](../src/subsilver/viewtopic_poll_result.tpl#L19)[`<->`](../src/subsilver/viewtopic_poll_result.tpl#L19-L19)[`19`](../src/subsilver/viewtopic_poll_result.tpl#L19)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`24`](../src/subsilver/viewtopic_poll_result.tpl#L24)[`<->`](../src/subsilver/viewtopic_poll_result.tpl#L24-L24)[`24`](../src/subsilver/viewtopic_poll_result.tpl#L24)
 
+### Version PunBB
+* __[`poll_result`](../tpl/poll_result.md#readme) :__ lignes [`9`](../src/punbb/poll_result.tpl#L9)[`<->`](../src/punbb/poll_result.tpl#L9-L9)[`9`](../src/punbb/poll_result.tpl#L9)
+* __[`poll_result`](../tpl/poll_result.md#readme) :__ lignes [`11`](../src/punbb/poll_result.tpl#L11)[`<->`](../src/punbb/poll_result.tpl#L11-L11)[`11`](../src/punbb/poll_result.tpl#L11)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`13`](../src/punbb/viewtopic_poll_result.tpl#L13)[`<->`](../src/punbb/viewtopic_poll_result.tpl#L13-L13)[`13`](../src/punbb/viewtopic_poll_result.tpl#L13)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`14`](../src/punbb/viewtopic_poll_result.tpl#L14)[`<->`](../src/punbb/viewtopic_poll_result.tpl#L14-L14)[`14`](../src/punbb/viewtopic_poll_result.tpl#L14)
+
 ### Version Invision
 * __[`poll_result`](../tpl/poll_result.md#readme) :__ lignes [`10`](../src/invision/poll_result.tpl#L10)[`<->`](../src/invision/poll_result.tpl#L10-L10)[`10`](../src/invision/poll_result.tpl#L10)
 * __[`poll_result`](../tpl/poll_result.md#readme) :__ lignes [`12`](../src/invision/poll_result.tpl#L12)[`<->`](../src/invision/poll_result.tpl#L12-L12)[`12`](../src/invision/poll_result.tpl#L12)

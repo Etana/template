@@ -18,6 +18,9 @@ Contient la langue de votre forum.
 ### Version phpBB2
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`20`](../src/subsilver/search_body.tpl#L20)[`<->`](../src/subsilver/search_body.tpl#L20-L20)[`20`](../src/subsilver/search_body.tpl#L20)
 
+### Version PunBB
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`43`](../src/punbb/search_body.tpl#L43)[`<->`](../src/punbb/search_body.tpl#L43-L43)[`43`](../src/punbb/search_body.tpl#L43)
+
 ### Version Invision
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`25`](../src/invision/search_body.tpl#L25)[`<->`](../src/invision/search_body.tpl#L25-L25)[`25`](../src/invision/search_body.tpl#L25)
 

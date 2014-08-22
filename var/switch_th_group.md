@@ -20,3 +20,7 @@ Boucle affichant le titre de la colonne des groupes dans la liste des membres si
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`26`](../src/subsilver/memberlist_body.tpl#L26)[`<->`](../src/subsilver/memberlist_body.tpl#L26-L26)[`26`](../src/subsilver/memberlist_body.tpl#L26)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`28`](../src/subsilver/memberlist_body.tpl#L28)[`<->`](../src/subsilver/memberlist_body.tpl#L28-L28)[`28`](../src/subsilver/memberlist_body.tpl#L28)
 
+### Version PunBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`64`](../src/punbb/memberlist_body.tpl#L64)[`<->`](../src/punbb/memberlist_body.tpl#L64-L64)[`64`](../src/punbb/memberlist_body.tpl#L64)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`66`](../src/punbb/memberlist_body.tpl#L66)[`<->`](../src/punbb/memberlist_body.tpl#L66-L66)[`66`](../src/punbb/memberlist_body.tpl#L66)
+
