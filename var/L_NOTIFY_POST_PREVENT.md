@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NOTIFY_POST_PREVENT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NOTIFY_POST_PREVENT)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_NOTIFY_POST_PREVENT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NOTIFY_POST_PREVENT)
 
 ## Utilisations dans les templates

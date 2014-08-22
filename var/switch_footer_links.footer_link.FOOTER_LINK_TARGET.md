@@ -14,6 +14,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_TARGET)
 Contient la cible du lien définie dans `PA > Modules > Liens de bas de page | Configuration > Ouvrir dans une nouvelle fenêtre`.
 
+* __Valeurs possibles :__ `_blank`ou `_top````
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.FOOTER_LINK_TARGET)
+Contient la cible du lien définie dans `PA > Modules > Liens de bas de page | Configuration > Ouvrir dans une nouvelle fenêtre`.
+
 * __Valeurs possibles :__ `_blank`ou `_top`
 
 ## Utilisations dans les templates

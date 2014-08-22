@@ -15,6 +15,16 @@ Chaîne de texte.
 ```
 (Facultatif) Pour une durée de X Jours
 (Facultatif) Pour la raison suivante : Y
+``````
+
+## Description[*](https://fa-tvars.appspot.com/var/OPTIONAL_BAN)
+Chaîne de texte.
+
+* __Contenu en français :__ 
+
+```
+(Facultatif) Pour une durée de X Jours
+(Facultatif) Pour la raison suivante : Y
 ```
 
 ## Utilisations dans les templates

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_FORUM_OPTIONS)
+Contient la liste de vos catégories et forums.```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_FORUM_OPTIONS)
 Contient la liste de vos catégories et forums.
 
 ## Utilisations dans les templates

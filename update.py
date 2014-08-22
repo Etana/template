@@ -174,8 +174,30 @@ for ver in template_contents:
                 variables[var_name][ver][tem] += [[num_line, var_type]]
                 template_variables[tem][var_name] += [[num_line, var_type, ver]]
 
+def var2text(var, vtype):
+    if 0 == vtype:
+        levels = var.split('.')
+        return ((len(levels)-1)*'&nbsp;'*4)+'[`{'+var+'}`]'
+    elif 1 == vtype:
+        levels = var.split('.')
+        return ((len(levels)-1)*'&nbsp;'*4)+'[`<!-- BEGIN '+levels[-1]+' -->`]'
+    elif 2 == vtype:
+        levels = var.split('.')
+        return ((len(levels)-1)*'&nbsp;'*4)+'[`<!-- END '+levels[-1]+' -->`]'
+
+def var2links(var, types, prefix='../'):
+    links = []
+    for vtype in types:
+        links += [var2text(var,vtype)+'('+prefix+'var/'+var+'.md#readme)']
+    return links
+
 def sorting_version(ver):
     return { 'subsilver': 1, 'prosilver': 0, 'punbb': 2, 'invision': 3 }[ver]
+
+def guess_type(var_name):
+    if re.match('^[A-Z_0-9]+$', var_name.split('.')[-1]):
+        return [0]
+    return [1]
 
 '''Write one file by variable'''
 for var in variables:
@@ -220,11 +242,22 @@ for var in variables:
                 i -= 1
 
         f.write('```\n\n## Description[*](https://fa-tvars.appspot.com/var/'+var+')\n')
-        # TODO load description or display add description
         if var not in var_desc:
             f.write('[*Ajouter une description*](https://fa-tvars.appspot.com/var/'+var+')')
         else:
             f.write(var_desc[var])
+
+        f.write('```\n\n## Description[*](https://fa-tvars.appspot.com/var/'+var+')\n')
+        if var not in var_desc:
+            f.write('[*Ajouter une description*](https://fa-tvars.appspot.com/var/'+var+')')
+        else:
+            f.write(var_desc[var])
+        
+        if 1 in types:
+            f.write('```\n\n## Attributs\n')
+            for attribute in (attr for attr in variables if attr.startswith(var+'.')):
+                for r in var2links(attribute, guess_type(attribute)):
+                    f.write('* __'+r+'__\n')
 
         f.write('\n\n## Utilisations dans les templates\n\n')
 
@@ -246,24 +279,6 @@ for var in variables:
                     f.write('[`'+str(num_line)+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(num_line)+')')
                 f.write('\n')
             f.write('\n')
-
-
-def var2text(var, vtype):
-    if 0 == vtype:
-        levels = var.split('.')
-        return ((len(levels)-1)*'&nbsp;'*4)+'[`{'+var+'}`]'
-    elif 1 == vtype:
-        levels = var.split('.')
-        return ((len(levels)-1)*'&nbsp;'*4)+'[`<!-- BEGIN '+levels[-1]+' -->`]'
-    elif 2 == vtype:
-        levels = var.split('.')
-        return ((len(levels)-1)*'&nbsp;'*4)+'[`<!-- END '+levels[-1]+' -->`]'
-
-def var2links(var, types, prefix='../'):
-    links = []
-    for vtype in types:
-        links += [var2text(var,vtype)+'('+prefix+'var/'+var+'.md#readme)']
-    return links
 
 '''Write one file by template'''
 for tem in template_variables:
@@ -290,11 +305,6 @@ for tem in template_variables:
             f.write('\n\n## Template par défaut '+template_versions[ver]+'\n\n[__Code source__](../src/punbb/index_box.tpl#files)\n\n### Positions des variables\n')
             for r in sorted(([r[0], r[1], var_name] for var_name in template_variables[tem] for r in template_variables[tem][var_name] if r[2] == ver), key=lambda x: x[2]):
                 f.write('\n* __'+var2text(r[2], r[1])+'(../var/'+r[2]+'.md#readme) :__ ligne [`'+str(r[0])+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(r[0])+')')
-
-def guess_type(var_name):
-    if re.match('^[A-Z_0-9]+$', var_name.split('.')[-1]):
-        return [0]
-    return [1]
 
 '''Write file for whole variables list'''
 with open(script_dir+'/variables.md', 'w') as f:

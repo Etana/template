@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE)
+Contient le titre du lien défini dans `PA > Modules > Liens de bas de page | Configuration > Titre du lien`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE)
 Contient le titre du lien défini dans `PA > Modules > Liens de bas de page | Configuration > Titre du lien`.
 
 ## Utilisations dans les templates

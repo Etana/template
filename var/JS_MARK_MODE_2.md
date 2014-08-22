@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_MARK_MODE_2)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_MARK_MODE_2)```
+
+## Description[*](https://fa-tvars.appspot.com/var/JS_MARK_MODE_2)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/JS_MARK_MODE_2)
 
 ## Utilisations dans les templates

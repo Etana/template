@@ -10,7 +10,16 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/contact_field)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/contact_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/contact_field)```
+
+## Description[*](https://fa-tvars.appspot.com/var/contact_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/contact_field)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{contact_field.LABEL}`](../var/contact_field.LABEL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{contact_field.CONTENT}`](../var/contact_field.CONTENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{contact_field.ID}`](../var/contact_field.ID.md#readme)__
+
 
 ## Utilisations dans les templates
 

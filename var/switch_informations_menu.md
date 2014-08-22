@@ -10,7 +10,38 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_informations_menu)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_informations_menu)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS}`](../var/switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_unsubscribe_allowed -->`](../var/switch_informations_menu.switch_register_not_display.switch_unsubscribe_allowed.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_profile_fields -->`](../var/switch_informations_menu.switch_profile_fields.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_website -->`](../var/switch_informations_menu.switch_website.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields.field.NAME}`](../var/switch_informations_menu.switch_profile_fields.field.NAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields_register.field.NAME}`](../var/switch_informations_menu.switch_profile_fields_register.field.NAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_confirm -->`](../var/switch_informations_menu.switch_confirm.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_interests -->`](../var/switch_informations_menu.switch_interests.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_occupation -->`](../var/switch_informations_menu.switch_occupation.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_span_div -->`](../var/switch_informations_menu.switch_span_div.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields.field.DESCRIPTION}`](../var/switch_informations_menu.switch_profile_fields.field.DESCRIPTION.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields_register.field.OBJECT}`](../var/switch_informations_menu.switch_profile_fields_register.field.OBJECT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_gender -->`](../var/switch_informations_menu.switch_gender.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_informations_menu.switch_profile_fields.field.OBJECT}`](../var/switch_informations_menu.switch_profile_fields.field.OBJECT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN field -->`](../var/switch_informations_menu.switch_profile_fields_register.field.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_birthday -->`](../var/switch_informations_menu.switch_birthday.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_change_password -->`](../var/switch_informations_menu.switch_change_password.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_namechange_disallowed -->`](../var/switch_informations_menu.switch_namechange_disallowed.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_location -->`](../var/switch_informations_menu.switch_location.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_namechange_allowed -->`](../var/switch_informations_menu.switch_namechange_allowed.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_register_not_display -->`](../var/switch_informations_menu.switch_register_not_display.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN field -->`](../var/switch_informations_menu.switch_profile_fields.field.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_emailchange_allowed -->`](../var/switch_informations_menu.switch_emailchange_allowed.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_emailchange_disallowed -->`](../var/switch_informations_menu.switch_emailchange_disallowed.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_profile_fields_register -->`](../var/switch_informations_menu.switch_profile_fields_register.md#readme)__
+
 
 ## Utilisations dans les templates
 

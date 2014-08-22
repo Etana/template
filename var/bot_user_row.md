@@ -10,7 +10,18 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/bot_user_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row)```
+
+## Description[*](https://fa-tvars.appspot.com/var/bot_user_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/bot_user_row)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.USERNAME}`](../var/bot_user_row.USERNAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.FORUM_LOCATION}`](../var/bot_user_row.FORUM_LOCATION.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.U_FORUM_LOCATION}`](../var/bot_user_row.U_FORUM_LOCATION.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.ROW_CLASS}`](../var/bot_user_row.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.LASTUPDATE}`](../var/bot_user_row.LASTUPDATE.md#readme)__
+
 
 ## Utilisations dans les templates
 

@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_DONT_DISPLAY_AGAIN)
 Chaîne de texte du popup de connexion.
 
+* __Contenu en français :__ `Ne plus afficher````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_DONT_DISPLAY_AGAIN)
+Chaîne de texte du popup de connexion.
+
 * __Contenu en français :__ `Ne plus afficher`
 
 ## Utilisations dans les templates

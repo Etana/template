@@ -10,7 +10,18 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_remote_link -->`](../var/switch_avatar_block.switch_avatar_remote_link.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_remote_upload -->`](../var/switch_avatar_block.switch_avatar_remote_upload.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_faceyourmanga -->`](../var/switch_avatar_block.switch_avatar_faceyourmanga.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_local_upload -->`](../var/switch_avatar_block.switch_avatar_local_upload.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_local_gallery -->`](../var/switch_avatar_block.switch_avatar_local_gallery.md#readme)__
+
 
 ## Utilisations dans les templates
 

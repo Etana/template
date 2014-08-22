@@ -14,7 +14,18 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)```
+
+## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.header_table.BOX_ID}`](../var/topics_list_box.row.header_table.BOX_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN multi_selection -->`](../var/topics_list_box.row.header_table.multi_selection.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_forum_options -->`](../var/topics_list_box.row.header_table.switch_forum_options.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.header_table.COLSPAN}`](../var/topics_list_box.row.header_table.COLSPAN.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN pagination -->`](../var/topics_list_box.row.header_table.pagination.md#readme)__
+
 
 ## Utilisations dans les templates
 

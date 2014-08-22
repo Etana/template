@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS)
+Adresse url absolue vers la boîte de réception des messages privés : `/privmsg?folder=inbox`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/U_PRIVATEMSGS)
 Adresse url absolue vers la boîte de réception des messages privés : `/privmsg?folder=inbox`.
 
 ## Utilisations dans les templates

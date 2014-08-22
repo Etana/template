@@ -10,7 +10,17 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/iprow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/iprow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/iprow)```
+
+## Description[*](https://fa-tvars.appspot.com/var/iprow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/iprow)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.IP}`](../var/iprow.IP.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.POSTS}`](../var/iprow.POSTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.U_LOOKUP_IP}`](../var/iprow.U_LOOKUP_IP.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.ROW_CLASS}`](../var/iprow.ROW_CLASS.md#readme)__
+
 
 ## Utilisations dans les templates
 

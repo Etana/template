@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)
 Chaîne de texte.
 
+* __Contenu en français :__ `Voir le message````
+
+## Description[*](https://fa-tvars.appspot.com/var/JS_SHOW_HIDDEN_MESSAGE)
+Chaîne de texte.
+
 * __Contenu en français :__ `Voir le message`
 
 ## Utilisations dans les templates

@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_MODERATOR)
 Chaîne de texte.
 
+* __Contenu en français :__ `Modérateurs````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_MODERATOR)
+Chaîne de texte.
+
 * __Contenu en français :__ `Modérateurs`
 
 ## Utilisations dans les templates

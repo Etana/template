@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ID)
+Contient l'ID du sujet.```
+
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_ID)
 Contient l'ID du sujet.
 
 ## Utilisations dans les templates

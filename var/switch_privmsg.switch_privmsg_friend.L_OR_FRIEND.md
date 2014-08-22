@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend.L_OR_FRIEND)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend.L_OR_FRIEND)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend.L_OR_FRIEND)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_friend.L_OR_FRIEND)
 
 ## Utilisations dans les templates

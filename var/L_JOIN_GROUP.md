@@ -11,6 +11,12 @@
 Texte.
   
 * __Remplacement français :__ `Rejoindre le Groupe`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_JOIN_GROUP)
+Texte.
+  
+* __Remplacement français :__ `Rejoindre le Groupe`
 
 
 ## Utilisations dans les templates

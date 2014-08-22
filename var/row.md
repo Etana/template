@@ -10,7 +10,36 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/row)```
+
+## Description[*](https://fa-tvars.appspot.com/var/row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/row)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.STATUS}`](../var/row.STATUS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.LAST_EDIT_TIME}`](../var/row.LAST_EDIT_TIME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_status -->`](../var/row.switch_status.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.U_REPORT}`](../var/row.U_REPORT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{row.cell.CLASS_NEW}`](../var/row.cell.CLASS_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.STATUS_SELECT}`](../var/row.STATUS_SELECT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REPORTER}`](../var/row.REPORTER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_edit -->`](../var/row.switch_edit.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.TEXT}`](../var/row.TEXT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REPORT}`](../var/row.REPORT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.U_POST}`](../var/row.U_POST.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.S_CHECKED}`](../var/row.S_CHECKED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{row.cell.CLASS}`](../var/row.cell.CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.U_EDIT}`](../var/row.U_EDIT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN cell -->`](../var/row.cell.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.TIME}`](../var/row.TIME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.ROW_CLASS}`](../var/row.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REPORT_ID}`](../var/row.REPORT_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.POST}`](../var/row.POST.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{row.cell.DAY}`](../var/row.cell.DAY.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.AUTHOR}`](../var/row.AUTHOR.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.LAST_EDIT_USER}`](../var/row.LAST_EDIT_USER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REASON}`](../var/row.REASON.md#readme)__
+
 
 ## Utilisations dans les templates
 

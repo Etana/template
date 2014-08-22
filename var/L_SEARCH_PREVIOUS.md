@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_PREVIOUS)
 Chaîne de texte.
 
+* __Contenu en français :__ `Rechercher depuis````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_PREVIOUS)
+Chaîne de texte.
+
 * __Contenu en français :__ `Rechercher depuis`
 
 ## Utilisations dans les templates

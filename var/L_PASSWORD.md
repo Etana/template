@@ -11,6 +11,12 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Mot de passe`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_PASSWORD)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Mot de passe`
 
 
 ## Utilisations dans les templates

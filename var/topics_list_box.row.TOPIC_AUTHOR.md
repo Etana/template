@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.TOPIC_AUTHOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.TOPIC_AUTHOR)```
+
+## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.TOPIC_AUTHOR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.TOPIC_AUTHOR)
 
 ## Utilisations dans les templates

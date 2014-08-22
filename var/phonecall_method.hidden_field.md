@@ -12,7 +12,15 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)```
+
+## Description[*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/phonecall_method.hidden_field)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{phonecall_method.hidden_field.VALUE}`](../var/phonecall_method.hidden_field.VALUE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{phonecall_method.hidden_field.NAME}`](../var/phonecall_method.hidden_field.NAME.md#readme)__
+
 
 ## Utilisations dans les templates
 

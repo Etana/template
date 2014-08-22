@@ -9,6 +9,10 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/PAGE_TITLE)
 Contient le titre de la page sur laquelle on se trouve.
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/PAGE_TITLE)
+Contient le titre de la page sur laquelle on se trouve.
 
 
 ## Utilisations dans les templates

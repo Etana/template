@@ -11,6 +11,12 @@
 Texte.
   
 * __Remplacement français :__ `Membres en attente`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_PENDING_MEMBERS)
+Texte.
+  
+* __Remplacement français :__ `Membres en attente`
 
 
 ## Utilisations dans les templates

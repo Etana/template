@@ -14,7 +14,23 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)```
+
+## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS}`](../var/postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_vote_plus -->`](../var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_vote -->`](../var/postrow.displayed.switch_vote_active.switch_vote.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS}`](../var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_plus.HEIGHT_PLUS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_bar -->`](../var/postrow.displayed.switch_vote_active.switch_bar.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_vote_active.L_VOTE_TITLE}`](../var/postrow.displayed.switch_vote_active.L_VOTE_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_vote_minus -->`](../var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS}`](../var/postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus.HEIGHT_MINUS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS}`](../var/postrow.displayed.switch_vote_active.switch_vote.U_VOTE_MINUS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_no_bar -->`](../var/postrow.displayed.switch_vote_active.switch_no_bar.md#readme)__
+
 
 ## Utilisations dans les templates
 

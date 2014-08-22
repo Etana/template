@@ -9,6 +9,10 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_HIDDEN_CHECKED)
 Chaîne de texte ` checked="checked"` si le groupe est invisible, chaîne vide sinon.
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_GROUP_HIDDEN_CHECKED)
+Chaîne de texte ` checked="checked"` si le groupe est invisible, chaîne vide sinon.
 
 
 ## Utilisations dans les templates

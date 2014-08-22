@@ -11,6 +11,12 @@
 Texte.
 
 * __Remplacement français :__ `Description du groupe`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_DESC)
+Texte.
+
+* __Remplacement français :__ `Description du groupe`
 
 
 ## Utilisations dans les templates

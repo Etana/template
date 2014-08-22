@@ -10,7 +10,17 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview)
-Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre forum.
+Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre forum.```
+
+## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview)
+Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre forum.```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.U_INSTALL_THEME}`](../var/hitskin_preview.U_INSTALL_THEME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.L_THEME_SITE_PREVIEW}`](../var/hitskin_preview.L_THEME_SITE_PREVIEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.U_RETURN_THEME}`](../var/hitskin_preview.U_RETURN_THEME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.L_RETURN_THEME}`](../var/hitskin_preview.L_RETURN_THEME.md#readme)__
+
 
 ## Utilisations dans les templates
 

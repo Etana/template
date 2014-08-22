@@ -10,7 +10,14 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_quote_limit)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_quote_limit)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_quote_limit)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_quote_limit)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_quote_limit)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_quote_limit.L_QUOTE_LIMIT_WARNING}`](../var/switch_quote_limit.L_QUOTE_LIMIT_WARNING.md#readme)__
+
 
 ## Utilisations dans les templates
 

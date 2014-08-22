@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod2.MODVAR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod2.MODVAR)```
+
+## Description[*](https://fa-tvars.appspot.com/var/giefmod2.MODVAR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod2.MODVAR)
 
 ## Utilisations dans les templates

@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.U_VIEWPROFILE)
+Contient un lien vers le profil du membre.```
+
+## Description[*](https://fa-tvars.appspot.com/var/memberrow.U_VIEWPROFILE)
 Contient un lien vers le profil du membre.
 
 ## Utilisations dans les templates

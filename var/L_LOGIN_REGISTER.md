@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER)
 Chaîne de texte.
 
+* __Contenu en français :__ `Connectez-vous ou enregistrez-vous````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_LOGIN_REGISTER)
+Chaîne de texte.
+
 * __Contenu en français :__ `Connectez-vous ou enregistrez-vous`
 
 ## Utilisations dans les templates

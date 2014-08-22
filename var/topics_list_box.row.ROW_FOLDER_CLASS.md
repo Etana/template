@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_FOLDER_CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_FOLDER_CLASS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_FOLDER_CLASS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_FOLDER_CLASS)
 
 ## Utilisations dans les templates

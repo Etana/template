@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_KEYWORDS)
 Chaîne de texte.
 
+* __Contenu en français :__ `Recherche par Mots-clés````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_KEYWORDS)
+Chaîne de texte.
+
 * __Contenu en français :__ `Recherche par Mots-clés`
 
 ## Utilisations dans les templates

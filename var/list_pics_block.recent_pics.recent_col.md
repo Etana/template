@@ -14,7 +14,25 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col)```
+
+## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.CLEAR_BOTH}`](../var/list_pics_block.recent_pics.recent_col.CLEAR_BOTH.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.S_CLASS_ROW2}`](../var/list_pics_block.recent_pics.recent_col.S_CLASS_ROW2.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.LINK}`](../var/list_pics_block.recent_pics.recent_col.LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.S_COL_WIDTH_NEW}`](../var/list_pics_block.recent_pics.recent_col.S_COL_WIDTH_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.U_PIC}`](../var/list_pics_block.recent_pics.recent_col.U_PIC.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN pic_locked -->`](../var/list_pics_block.recent_pics.recent_col.pic_locked.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN display_border -->`](../var/list_pics_block.recent_pics.recent_col.display_border.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.S_CLASS_ROW1}`](../var/list_pics_block.recent_pics.recent_col.S_CLASS_ROW1.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.TITLE}`](../var/list_pics_block.recent_pics.recent_col.TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.RESTORE_PIC_LINK}`](../var/list_pics_block.recent_pics.recent_col.RESTORE_PIC_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.THUMBNAIL_NEW}`](../var/list_pics_block.recent_pics.recent_col.THUMBNAIL_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.THUMBNAIL}`](../var/list_pics_block.recent_pics.recent_col.THUMBNAIL.md#readme)__
+
 
 ## Utilisations dans les templates
 

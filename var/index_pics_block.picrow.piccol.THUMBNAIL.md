@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.picrow.piccol.THUMBNAIL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.picrow.piccol.THUMBNAIL)```
+
+## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.picrow.piccol.THUMBNAIL)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.picrow.piccol.THUMBNAIL)
 
 ## Utilisations dans les templates

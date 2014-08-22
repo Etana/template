@@ -24,6 +24,25 @@ Contenu de `Message d'anniversaire` spécifié dans [`Index`](http://votre-forum
 Nous voudrions vous souhaiter un joyeux anniversaire pour vos %s ans.
 
 L'Equipe du site
+``````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_MESSAGE)
+#### Dans le cas de l'affichage d'un sujet :
+
+Texte.
+
+* __Remplacement français :__ `Message`
+
+#### Dans le cas d'un popup d'anniversaire :
+
+Contenu de `Message d'anniversaire` spécifié dans [`Index`](http://votre-forum.appspot.com/#/admin/,&part=users_groups,&mode=abilities&sub=users) > [`Panneau d'administration`](http://votre-forum.appspot.com/admin/#&part=users_groups,&mode=abilities&sub=users) > [`Utilisateurs & Groupes`](http://votre-forum.appspot.com/admin/?part=users_groups#&mode=abilities&sub=users) > [`Utilisateurs | Options des utilisateurs`](http://votre-forum.appspot.com/admin/?mode=abilities&part=users_groups&sub=users).
+
+* __Contenu français par défaut :__
+
+```
+Nous voudrions vous souhaiter un joyeux anniversaire pour vos %s ans.
+
+L'Equipe du site
 ```
 
 ## Utilisations dans les templates

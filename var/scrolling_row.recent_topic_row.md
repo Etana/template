@@ -12,7 +12,24 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row)```
+
+## Description[*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/scrolling_row.recent_topic_row)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.L_TITLE}`](../var/scrolling_row.recent_topic_row.L_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.U_POSTER}`](../var/scrolling_row.recent_topic_row.U_POSTER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.U_TITLE}`](../var/scrolling_row.recent_topic_row.U_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.L_TOPIC_TITLE}`](../var/scrolling_row.recent_topic_row.L_TOPIC_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.S_POSTER}`](../var/scrolling_row.recent_topic_row.S_POSTER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.S_POSTTIME}`](../var/scrolling_row.recent_topic_row.S_POSTTIME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER}`](../var/scrolling_row.recent_topic_row.switch_poster_guest.S_POSTER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.switch_poster.U_POSTER}`](../var/scrolling_row.recent_topic_row.switch_poster.U_POSTER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{scrolling_row.recent_topic_row.switch_poster.S_POSTER}`](../var/scrolling_row.recent_topic_row.switch_poster.S_POSTER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_poster -->`](../var/scrolling_row.recent_topic_row.switch_poster.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_poster_guest -->`](../var/scrolling_row.recent_topic_row.switch_poster_guest.md#readme)__
+
 
 ## Utilisations dans les templates
 

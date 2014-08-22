@@ -16,7 +16,23 @@ Boucle sur une liste d'utilisateur.
 Dans certains templates, il est plutôt utilisé comme variable d'affichage et est remplacé par le pseudo d'un utilisateur. Dans ce cas son utilisation devient :
 ```
 {POSTER}
+``````
+
+## Description[*](https://fa-tvars.appspot.com/var/POSTER)
+Boucle sur une liste d'utilisateur.
+
+Dans certains templates, il est plutôt utilisé comme variable d'affichage et est remplacé par le pseudo d'un utilisateur. Dans ce cas son utilisation devient :
 ```
+{POSTER}
+``````
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.BARRE}`](../var/POSTER.BARRE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_TOPICS}`](../var/POSTER.NB_TOPICS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NAME}`](../var/POSTER.NAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)__
+
 
 ## Utilisations dans les templates
 

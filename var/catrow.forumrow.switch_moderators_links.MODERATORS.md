@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.MODERATORS)
+Contient les noms d'utilisateurs qui sont modérateurs du forum bouclé.```
+
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_moderators_links.MODERATORS)
 Contient les noms d'utilisateurs qui sont modérateurs du forum bouclé.
 
 ## Utilisations dans les templates

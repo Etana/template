@@ -11,6 +11,12 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Connexion`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_LOGIN)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Connexion`
 
 
 ## Utilisations dans les templates

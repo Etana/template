@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_ANY_TERMS)
 Chaîne de texte.
 
+* __Contenu en français :__ `Rechercher n'importe quel de ces termes````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_SEARCH_ANY_TERMS)
+Chaîne de texte.
+
 * __Contenu en français :__ `Rechercher n'importe quel de ces termes`
 
 ## Utilisations dans les templates

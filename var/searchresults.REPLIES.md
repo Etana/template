@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.REPLIES)
+Contient le nombre de réponses postés dans le sujet.```
+
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.REPLIES)
 Contient le nombre de réponses postés dans le sujet.
 
 ## Utilisations dans les templates

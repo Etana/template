@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/BOARD_INDEX)
 Affiche le contenu du template {{subsilver/index_box}} ou {{punbb/index_box}}.
 
+*Attention : si vous supprimez cette variable, vos catégories et forums ne seront plus affichés !*```
+
+## Description[*](https://fa-tvars.appspot.com/var/BOARD_INDEX)
+Affiche le contenu du template {{subsilver/index_box}} ou {{punbb/index_box}}.
+
 *Attention : si vous supprimez cette variable, vos catégories et forums ne seront plus affichés !*
 
 ## Utilisations dans les templates

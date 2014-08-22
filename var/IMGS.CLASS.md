@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS.CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/IMGS.CLASS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/IMGS.CLASS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/IMGS.CLASS)
 
 ## Utilisations dans les templates

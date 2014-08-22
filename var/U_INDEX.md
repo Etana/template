@@ -11,6 +11,12 @@
 Adresse url absolue vers l'index du forum.
 
 * Si il n'y a pas de portail ou de page html mis en page d'accueil : `/`
+* Sinon : `/forum````
+
+## Description[*](https://fa-tvars.appspot.com/var/U_INDEX)
+Adresse url absolue vers l'index du forum.
+
+* Si il n'y a pas de portail ou de page html mis en page d'accueil : `/`
 * Sinon : `/forum`
 
 ## Utilisations dans les templates

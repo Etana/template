@@ -11,6 +11,12 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `Trier`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_SORT)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Trier`
 
 
 ## Utilisations dans les templates

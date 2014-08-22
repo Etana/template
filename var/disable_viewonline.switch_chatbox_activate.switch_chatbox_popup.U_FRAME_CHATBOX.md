@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)```
+
+## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_chatbox_activate.switch_chatbox_popup.U_FRAME_CHATBOX)
 
 ## Utilisations dans les templates

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MAX_FILE_UPLOADS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_MAX_FILE_UPLOADS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_MAX_FILE_UPLOADS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_MAX_FILE_UPLOADS)
 
 ## Utilisations dans les templates

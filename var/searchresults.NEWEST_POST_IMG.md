@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.NEWEST_POST_IMG)
+Contient l'image vers le lien de la dernière réponse définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > Lien dernière réponse - Nouveau`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.NEWEST_POST_IMG)
 Contient l'image vers le lien de la dernière réponse définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > Lien dernière réponse - Nouveau`.
 
 ## Utilisations dans les templates

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/GROUP_LEGEND)
+Affiche la liste des groupes dans le qui est en ligne selon votre `PA > Utilisateurs & Groupes > Groupes | Administration des Groupes`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/GROUP_LEGEND)
 Affiche la liste des groupes dans le qui est en ligne selon votre `PA > Utilisateurs & Groupes > Groupes | Administration des Groupes`.
 
 ## Utilisations dans les templates

@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_ID)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_ID)```
+
+## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_ID)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_ID)
 
 ## Utilisations dans les templates

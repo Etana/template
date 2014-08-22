@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SENTBOX)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SENTBOX)```
+
+## Description[*](https://fa-tvars.appspot.com/var/SENTBOX)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SENTBOX)
 
 ## Utilisations dans les templates

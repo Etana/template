@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_FORUM_LOCKED)
 Chaîne de texte.
 
+* __Contenu en français :__ `Forum Verrouillé````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_FORUM_LOCKED)
+Chaîne de texte.
+
 * __Contenu en français :__ `Forum Verrouillé`
 
 ## Utilisations dans les templates

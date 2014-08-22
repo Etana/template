@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_PERCENT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_PERCENT)```
+
+## Description[*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_PERCENT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option.POLL_OPTION_PERCENT)
 
 ## Utilisations dans les templates

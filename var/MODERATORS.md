@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MODERATORS)
+Affiche les modérateurs du forum concerné.```
+
+## Description[*](https://fa-tvars.appspot.com/var/MODERATORS)
 Affiche les modérateurs du forum concerné.
 
 ## Utilisations dans les templates

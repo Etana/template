@@ -11,6 +11,12 @@
 Texte.
   
 * __Remplacement français :__ `Mettre à jour`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_UPDATE)
+Texte.
+  
+* __Remplacement français :__ `Mettre à jour`
 
 
 ## Utilisations dans les templates

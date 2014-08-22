@@ -12,7 +12,18 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link)```
+
+## Description[*](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.pic_backup_link)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.pic_backup_link.U_URL_BACKUP_FOLDER_LINK}`](../var/navlinks.pic_backup_link.U_URL_BACKUP_FOLDER_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.pic_backup_link.BACKUP_FOLDER_LINK_NEW}`](../var/navlinks.pic_backup_link.BACKUP_FOLDER_LINK_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.pic_backup_link.L_BACKUP_FOLDER_LINK}`](../var/navlinks.pic_backup_link.L_BACKUP_FOLDER_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.pic_backup_link.BACKUP_FOLDER_LINK}`](../var/navlinks.pic_backup_link.BACKUP_FOLDER_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.pic_backup_link.U_IMG_BACKUP_FOLDER_LINK}`](../var/navlinks.pic_backup_link.U_IMG_BACKUP_FOLDER_LINK.md#readme)__
+
 
 ## Utilisations dans les templates
 

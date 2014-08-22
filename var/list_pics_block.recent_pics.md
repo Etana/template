@@ -12,7 +12,34 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics)```
+
+## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.CLEAR_BOTH}`](../var/list_pics_block.recent_pics.recent_col.CLEAR_BOTH.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN restore_row -->`](../var/list_pics_block.recent_pics.restore_row.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN recent_col -->`](../var/list_pics_block.recent_pics.recent_col.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN restore_pic -->`](../var/list_pics_block.recent_pics.restore_row.restore_pic.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1}`](../var/list_pics_block.recent_pics.norecent_col.S_CLASS_ROW1.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN norecent_col -->`](../var/list_pics_block.recent_pics.norecent_col.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.S_CLASS_ROW2}`](../var/list_pics_block.recent_pics.recent_col.S_CLASS_ROW2.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.LINK}`](../var/list_pics_block.recent_pics.recent_col.LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.S_COL_WIDTH_NEW}`](../var/list_pics_block.recent_pics.recent_col.S_COL_WIDTH_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.U_PIC}`](../var/list_pics_block.recent_pics.recent_col.U_PIC.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN pic_locked -->`](../var/list_pics_block.recent_pics.recent_col.pic_locked.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN display_border -->`](../var/list_pics_block.recent_pics.recent_col.display_border.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.restore_row.norestore_pic.S_CLASS_ROW1}`](../var/list_pics_block.recent_pics.restore_row.norestore_pic.S_CLASS_ROW1.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.restore_row.restore_pic.RESTORE_PIC_LINK}`](../var/list_pics_block.recent_pics.restore_row.restore_pic.RESTORE_PIC_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.S_CLASS_ROW1}`](../var/list_pics_block.recent_pics.recent_col.S_CLASS_ROW1.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.restore_row.restore_pic.S_CLASS_ROW1}`](../var/list_pics_block.recent_pics.restore_row.restore_pic.S_CLASS_ROW1.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.TITLE}`](../var/list_pics_block.recent_pics.recent_col.TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.RESTORE_PIC_LINK}`](../var/list_pics_block.recent_pics.recent_col.RESTORE_PIC_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.THUMBNAIL_NEW}`](../var/list_pics_block.recent_pics.recent_col.THUMBNAIL_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.recent_pics.recent_col.THUMBNAIL}`](../var/list_pics_block.recent_pics.recent_col.THUMBNAIL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN norestore_pic -->`](../var/list_pics_block.recent_pics.restore_row.norestore_pic.md#readme)__
+
 
 ## Utilisations dans les templates
 

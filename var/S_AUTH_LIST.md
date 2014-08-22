@@ -20,6 +20,21 @@ Vous <strong>ne pouvez pas</strong> répondre aux sujets dans ce forum<br />
 Exemple de remplacement français :
 ```html
 Vous <strong>pouvez</strong> répondre aux sujets dans ce forum<br />Vous <strong>pouvez</strong> <a href="/modcp?f=1&amp;tid=e6dd1c909254a87ee0186dc042b26faf">modérer ce forum</a>
+``````
+
+## Description[*](https://fa-tvars.appspot.com/var/S_AUTH_LIST)
+Chaîne html indiquant nos permissions dans le forum.
+
+#### Si on ne peut pas répondre :
+Remplacement français :
+```html
+Vous <strong>ne pouvez pas</strong> répondre aux sujets dans ce forum<br />
+```
+
+#### Si on peut répondre et modérer :
+Exemple de remplacement français :
+```html
+Vous <strong>pouvez</strong> répondre aux sujets dans ce forum<br />Vous <strong>pouvez</strong> <a href="/modcp?f=1&amp;tid=e6dd1c909254a87ee0186dc042b26faf">modérer ce forum</a>
 ```
 
 ## Utilisations dans les templates

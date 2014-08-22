@@ -10,7 +10,21 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker)
-Boucle d'affichage si les annonces sont activées dans `PA > Général > Messages et Emails | Annonces > Activer les annonces`.
+Boucle d'affichage si les annonces sont activées dans `PA > Général > Messages et Emails | Annonces > Activer les annonces`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_ticker)
+Boucle d'affichage si les annonces sont activées dans `PA > Général > Messages et Emails | Annonces > Activer les annonces`.```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.SIZE}`](../var/switch_ticker.SIZE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.SPACING}`](../var/switch_ticker.SPACING.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.SPEED}`](../var/switch_ticker.SPEED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.ticker_row.ELEMENT}`](../var/switch_ticker.ticker_row.ELEMENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.HEIGHT}`](../var/switch_ticker.HEIGHT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN ticker_row -->`](../var/switch_ticker.ticker_row.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.DIRECTION}`](../var/switch_ticker.DIRECTION.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ticker.STOP_TIME}`](../var/switch_ticker.STOP_TIME.md#readme)__
+
 
 ## Utilisations dans les templates
 

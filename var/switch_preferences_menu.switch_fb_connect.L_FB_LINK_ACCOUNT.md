@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT)
 
 ## Utilisations dans les templates

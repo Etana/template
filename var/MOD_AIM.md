@@ -14,6 +14,16 @@ Lien textuel vers l'adresse aim du modérateur de groupe.
 ```html
 <a href="aim:goim?screenname=identifiant_aim_du_membre&amp;message=Hello+Are+you+there?">Adresse AIM</a>
 ```
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/MOD_AIM)
+Lien textuel vers l'adresse aim du modérateur de groupe.
+
+* __Exemple de remplacement français :__
+
+```html
+<a href="aim:goim?screenname=identifiant_aim_du_membre&amp;message=Hello+Are+you+there?">Adresse AIM</a>
+```
 
 
 ## Utilisations dans les templates

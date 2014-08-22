@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SLIDESHOW_DELAY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SLIDESHOW_DELAY)```
+
+## Description[*](https://fa-tvars.appspot.com/var/SLIDESHOW_DELAY)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SLIDESHOW_DELAY)
 
 ## Utilisations dans les templates

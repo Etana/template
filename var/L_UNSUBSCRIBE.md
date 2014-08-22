@@ -10,6 +10,12 @@
 Texte.
   
 * __Remplacement français :__ `Se désinscrire`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_UNSUBSCRIBE)
+Texte.
+  
+* __Remplacement français :__ `Se désinscrire`
 
 
 ## Utilisations dans les templates

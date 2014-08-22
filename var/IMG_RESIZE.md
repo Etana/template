@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMG_RESIZE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/IMG_RESIZE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/IMG_RESIZE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/IMG_RESIZE)
 
 ## Utilisations dans les templates

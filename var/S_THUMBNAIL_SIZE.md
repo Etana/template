@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_THUMBNAIL_SIZE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_THUMBNAIL_SIZE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_THUMBNAIL_SIZE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_THUMBNAIL_SIZE)
 
 ## Utilisations dans les templates

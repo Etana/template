@@ -11,6 +11,12 @@
 Chemin absolu vers le profil du modérateur de groupe.
 
 * __Exemple de remplacement :__ `/u2`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/U_MOD_VIEWPROFILE)
+Chemin absolu vers le profil du modérateur de groupe.
+
+* __Exemple de remplacement :__ `/u2`
 
 
 ## Utilisations dans les templates

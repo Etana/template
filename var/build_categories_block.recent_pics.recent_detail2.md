@@ -14,7 +14,18 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail2)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail2)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail2)```
+
+## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail2)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail2)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.L_COMMENTS}`](../var/build_categories_block.recent_pics.recent_detail2.L_COMMENTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.NB_ALBUMS}`](../var/build_categories_block.recent_pics.recent_detail2.NB_ALBUMS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.L_PICS}`](../var/build_categories_block.recent_pics.recent_detail2.L_PICS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.L_ALBUMS}`](../var/build_categories_block.recent_pics.recent_detail2.L_ALBUMS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.DATE_LAST_MODIFIED}`](../var/build_categories_block.recent_pics.recent_detail2.DATE_LAST_MODIFIED.md#readme)__
+
 
 ## Utilisations dans les templates
 

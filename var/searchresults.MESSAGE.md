@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.MESSAGE)
+Contient le contenu du message posté.```
+
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.MESSAGE)
 Contient le contenu du message posté.
 
 ## Utilisations dans les templates

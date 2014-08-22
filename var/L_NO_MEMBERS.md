@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NO_MEMBERS)
+Texte `Ce groupe n'a pas de membres` si le groupe n'a pas de membre autre que le modérateur de groupe, une chaîne de caractère vide `` sinon.```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_NO_MEMBERS)
 Texte `Ce groupe n'a pas de membres` si le groupe n'a pas de membre autre que le modérateur de groupe, une chaîne de caractère vide `` sinon.
 
 ## Utilisations dans les templates

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SMILIES_STATUS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SMILIES_STATUS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/SMILIES_STATUS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SMILIES_STATUS)
 
 ## Utilisations dans les templates

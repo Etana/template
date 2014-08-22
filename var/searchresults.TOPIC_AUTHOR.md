@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_AUTHOR)
+Contient l'auteur du sujet.```
+
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.TOPIC_AUTHOR)
 Contient l'auteur du sujet.
 
 ## Utilisations dans les templates

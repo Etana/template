@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
-Boucle affichant la colonne des groupes dans la liste des membres si vous triez les membres par "Groupes".
+Boucle affichant la colonne des groupes dans la liste des membres si vous triez les membres par "Groupes".```
+
+## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_td_group)
+Boucle affichant la colonne des groupes dans la liste des membres si vous triez les membres par "Groupes".```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

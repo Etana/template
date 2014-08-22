@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TELL_FRIEND_RECIEVER_EMAIL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_TELL_FRIEND_RECIEVER_EMAIL)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_TELL_FRIEND_RECIEVER_EMAIL)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_TELL_FRIEND_RECIEVER_EMAIL)
 
 ## Utilisations dans les templates

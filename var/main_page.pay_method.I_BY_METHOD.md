@@ -14,6 +14,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
 Adresse URL d'une image vide.
 
+*Variable importante au bon fonctionnement des donations !*```
+
+## Description[*](https://fa-tvars.appspot.com/var/main_page.pay_method.I_BY_METHOD)
+Adresse URL d'une image vide.
+
 *Variable importante au bon fonctionnement des donations !*
 
 ## Utilisations dans les templates

@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_attachments.L_ATTACHMENTS)
 
 ## Utilisations dans les templates

@@ -14,7 +14,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_txt)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_txt)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_txt)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_txt)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_user_logged_in.message_admin_index.message_admin_txt)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

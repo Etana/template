@@ -14,6 +14,16 @@ Lien textuel vers l'envoi d'email au modérateur de groupe.
 ```html
 <a href="/profile?mode=email&amp;u=2">Envoyer l'e-mail</a>
 ```
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/MOD_EMAIL)
+Lien textuel vers l'envoi d'email au modérateur de groupe.
+
+* __Exemple de remplacement français :__
+
+```html
+<a href="/profile?mode=email&amp;u=2">Envoyer l'e-mail</a>
+```
 
 
 ## Utilisations dans les templates

@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace.DICE_SELECTED)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace.DICE_SELECTED)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace.DICE_SELECTED)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace.DICE_SELECTED)
 
 ## Utilisations dans les templates

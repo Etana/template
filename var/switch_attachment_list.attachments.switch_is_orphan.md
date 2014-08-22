@@ -14,7 +14,14 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_is_orphan)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.switch_is_orphan.FILENAME}`](../var/switch_attachment_list.attachments.switch_is_orphan.FILENAME.md#readme)__
+
 
 ## Utilisations dans les templates
 

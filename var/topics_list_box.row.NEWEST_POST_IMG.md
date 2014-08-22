@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.NEWEST_POST_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.NEWEST_POST_IMG)```
+
+## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.NEWEST_POST_IMG)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.NEWEST_POST_IMG)
 
 ## Utilisations dans les templates

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/DYNAMIC_GENERATION_STATUS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/DYNAMIC_GENERATION_STATUS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/DYNAMIC_GENERATION_STATUS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/DYNAMIC_GENERATION_STATUS)
 
 ## Utilisations dans les templates

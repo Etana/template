@@ -11,6 +11,12 @@
 Texte.
   
 * __Remplacement français :__ `Groupe invisible`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_HIDDEN)
+Texte.
+  
+* __Remplacement français :__ `Groupe invisible`
 
 
 ## Utilisations dans les templates

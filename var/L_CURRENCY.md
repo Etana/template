@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CURRENCY)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CURRENCY)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_CURRENCY)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CURRENCY)
 
 ## Utilisations dans les templates

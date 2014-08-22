@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
+Contient l'espace entre chaque annonce défini dans `PA > Général > Messages et Emails | Annonces > Espacement entre chaque annonce (en pixels)`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_ticker.SPACING)
 Contient l'espace entre chaque annonce défini dans `PA > Général > Messages et Emails | Annonces > Espacement entre chaque annonce (en pixels)`.
 
 ## Utilisations dans les templates

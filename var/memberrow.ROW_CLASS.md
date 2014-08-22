@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.ROW_CLASS)
+Affiche en alternance la class "row1" et "row2".```
+
+## Description[*](https://fa-tvars.appspot.com/var/memberrow.ROW_CLASS)
 Affiche en alternance la class "row1" et "row2".
 
 ## Utilisations dans les templates

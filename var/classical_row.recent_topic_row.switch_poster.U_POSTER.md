@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster.U_POSTER)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster.U_POSTER)```
+
+## Description[*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster.U_POSTER)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/classical_row.recent_topic_row.switch_poster.U_POSTER)
 
 ## Utilisations dans les templates

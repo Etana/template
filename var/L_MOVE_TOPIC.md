@@ -10,6 +10,12 @@
 Texte.
 
 * __Remplacement français :__ `Déplacer le sujet`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_MOVE_TOPIC)
+Texte.
+
+* __Remplacement français :__ `Déplacer le sujet`
 
 
 ## Utilisations dans les templates

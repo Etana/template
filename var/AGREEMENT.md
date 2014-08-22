@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AGREEMENT)
+Affiche les conditions d'inscription de base de Forumactif.```
+
+## Description[*](https://fa-tvars.appspot.com/var/AGREEMENT)
 Affiche les conditions d'inscription de base de Forumactif.
 
 ## Utilisations dans les templates

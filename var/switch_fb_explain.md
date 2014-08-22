@@ -10,7 +10,14 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_explain)
-Le contenu de la boucle est affiché si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.
+Le contenu de la boucle est affiché si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_fb_explain)
+Le contenu de la boucle est affiché si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_explain.FB_EXPLAIN}`](../var/switch_fb_explain.FB_EXPLAIN.md#readme)__
+
 
 ## Utilisations dans les templates
 

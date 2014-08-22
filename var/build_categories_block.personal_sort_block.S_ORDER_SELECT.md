@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.S_ORDER_SELECT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.S_ORDER_SELECT)```
+
+## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.S_ORDER_SELECT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block.S_ORDER_SELECT)
 
 ## Utilisations dans les templates

@@ -10,7 +10,15 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod4)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod4)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod4)```
+
+## Description[*](https://fa-tvars.appspot.com/var/giefmod4)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/giefmod4)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod4.MODVAR}`](../var/giefmod4.MODVAR.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod4.saut.md#readme)__
+
 
 ## Utilisations dans les templates
 

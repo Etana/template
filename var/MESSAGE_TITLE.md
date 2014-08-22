@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MESSAGE_TITLE)
+Titre du message.```
+
+## Description[*](https://fa-tvars.appspot.com/var/MESSAGE_TITLE)
 Titre du message.
 
 ## Utilisations dans les templates

@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.POSTER_NAME)
+Contient le nom de l'utilisateur ayant posté le message.```
+
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.POSTER_NAME)
 Contient le nom de l'utilisateur ayant posté le message.
 
 ## Utilisations dans les templates

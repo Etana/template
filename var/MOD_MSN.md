@@ -14,6 +14,16 @@ Lien textuel vers le profil du modérateur de groupe.
 ```html
 <a href="/u2">MSN Messenger</a>
 ```
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/MOD_MSN)
+Lien textuel vers le profil du modérateur de groupe.
+
+* __Exemple de remplacement français :__
+
+```html
+<a href="/u2">MSN Messenger</a>
+```
 
 
 ## Utilisations dans les templates

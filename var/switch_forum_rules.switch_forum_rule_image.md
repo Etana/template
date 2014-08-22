@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_forum_rules.switch_forum_rule_image)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

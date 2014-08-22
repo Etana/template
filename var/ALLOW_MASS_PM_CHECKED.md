@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ALLOW_MASS_PM_CHECKED)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/ALLOW_MASS_PM_CHECKED)```
+
+## Description[*](https://fa-tvars.appspot.com/var/ALLOW_MASS_PM_CHECKED)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/ALLOW_MASS_PM_CHECKED)
 
 ## Utilisations dans les templates

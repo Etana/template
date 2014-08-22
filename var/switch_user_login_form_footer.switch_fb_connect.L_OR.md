@@ -14,6 +14,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_OR)
 Chaîne de texte.
 
+* __Contenu en français :__ `Ou````
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect.L_OR)
+Chaîne de texte.
+
 * __Contenu en français :__ `Ou`
 
 ## Utilisations dans les templates

@@ -12,7 +12,35 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics)```
+
+## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.L_COMMENTS}`](../var/build_categories_block.recent_pics.recent_detail2.L_COMMENTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN norecent_detail -->`](../var/build_categories_block.recent_pics.norecent_detail.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.L_ALBUMS}`](../var/build_categories_block.recent_pics.recent_detail.L_ALBUMS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.THUMBNAIL}`](../var/build_categories_block.recent_pics.recent_detail.THUMBNAIL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.NB_ALBUMS}`](../var/build_categories_block.recent_pics.recent_detail2.NB_ALBUMS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN recent_detail2 -->`](../var/build_categories_block.recent_pics.recent_detail2.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.CAT_TITLE}`](../var/build_categories_block.recent_pics.recent_detail.CAT_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.DATE_LAST_MODIFIED}`](../var/build_categories_block.recent_pics.recent_detail.DATE_LAST_MODIFIED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.LINK}`](../var/build_categories_block.recent_pics.recent_detail.LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.L_PICS}`](../var/build_categories_block.recent_pics.recent_detail2.L_PICS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.L_ALBUMS}`](../var/build_categories_block.recent_pics.recent_detail2.L_ALBUMS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.THUMBNAIL_SIZE}`](../var/build_categories_block.recent_pics.recent_detail.THUMBNAIL_SIZE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.CLEAR_BOTH}`](../var/build_categories_block.recent_pics.recent_detail.CLEAR_BOTH.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.THUMBNAIL_NEW}`](../var/build_categories_block.recent_pics.recent_detail.THUMBNAIL_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.L_COMMENTS}`](../var/build_categories_block.recent_pics.recent_detail.L_COMMENTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.L_PICS}`](../var/build_categories_block.recent_pics.recent_detail.L_PICS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN norecent_detail2 -->`](../var/build_categories_block.recent_pics.norecent_detail2.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.CAT_DESC}`](../var/build_categories_block.recent_pics.recent_detail.CAT_DESC.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN recent_detail -->`](../var/build_categories_block.recent_pics.recent_detail.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.NB_ALBUMS}`](../var/build_categories_block.recent_pics.recent_detail.NB_ALBUMS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.THUMBNAIL_HEIGHT}`](../var/build_categories_block.recent_pics.recent_detail.THUMBNAIL_HEIGHT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail2.DATE_LAST_MODIFIED}`](../var/build_categories_block.recent_pics.recent_detail2.DATE_LAST_MODIFIED.md#readme)__
+
 
 ## Utilisations dans les templates
 

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGO)
+Logo du forum spécifié dans `PA > Affichage > Images et Couleurs | Gestion des images > Logo du forum`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/LOGO)
 Logo du forum spécifié dans `PA > Affichage > Images et Couleurs | Gestion des images > Logo du forum`.
 
 ## Utilisations dans les templates

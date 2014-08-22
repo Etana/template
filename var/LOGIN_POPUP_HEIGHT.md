@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_HEIGHT)
+Hauteur du popup de connexion définie dans `PA > Général > Forum | Configuration > Popup de connexion > Hauteur`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_HEIGHT)
 Hauteur du popup de connexion définie dans `PA > Général > Forum | Configuration > Popup de connexion > Hauteur`.
 
 ## Utilisations dans les templates

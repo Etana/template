@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.CLEAR_BOTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.CLEAR_BOTH)```
+
+## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.CLEAR_BOTH)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.recent_pics.recent_col.CLEAR_BOTH)
 
 ## Utilisations dans les templates

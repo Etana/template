@@ -14,7 +14,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.topic)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.topic)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.topic)```
+
+## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.topic)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.topic)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

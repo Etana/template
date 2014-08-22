@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_VIEWS)
 Chaîne de texte.
 
+* __Contenu en français :__ `Réponses````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_VIEWS)
+Chaîne de texte.
+
 * __Contenu en français :__ `Réponses`
 
 ## Utilisations dans les templates

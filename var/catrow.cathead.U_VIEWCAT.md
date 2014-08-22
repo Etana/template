@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.U_VIEWCAT)
+Contient le lien vers la catégorie bouclée.```
+
+## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.U_VIEWCAT)
 Contient le lien vers la catégorie bouclée.
 
 ## Utilisations dans les templates

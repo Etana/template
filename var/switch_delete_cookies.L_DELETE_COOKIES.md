@@ -12,6 +12,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/switch_delete_cookies.L_DELETE_COOKIES)
 Chaîne de texte.
 
+* __Contenu en français :__ `Supprimer les cookies du forum````
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_delete_cookies.L_DELETE_COOKIES)
+Chaîne de texte.
+
 * __Contenu en français :__ `Supprimer les cookies du forum`
 
 ## Utilisations dans les templates

@@ -9,6 +9,10 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/MOD_POSTS)
 Nombre de message du modérateur de groupe.
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/MOD_POSTS)
+Nombre de message du modérateur de groupe.
 
 
 ## Utilisations dans les templates

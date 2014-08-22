@@ -10,7 +10,18 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/moderation_panel)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)```
+
+## Description[*](https://fa-tvars.appspot.com/var/moderation_panel)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}`](../var/moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE}`](../var/moderation_panel.U_IMG_YOUR_PERSONAL_MODERATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.U_URL_YOUR_PERSONAL_MODERATE}`](../var/moderation_panel.U_URL_YOUR_PERSONAL_MODERATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.L_YOUR_PERSONAL_MODERATE}`](../var/moderation_panel.L_YOUR_PERSONAL_MODERATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.U_YOUR_PERSONAL_MODERATE}`](../var/moderation_panel.U_YOUR_PERSONAL_MODERATE.md#readme)__
+
 
 ## Utilisations dans les templates
 

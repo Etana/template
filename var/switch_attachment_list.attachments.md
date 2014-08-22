@@ -12,7 +12,26 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.FILENAME}`](../var/switch_attachment_list.attachments.FILENAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.ATTACH_POS}`](../var/switch_attachment_list.attachments.ATTACH_POS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.switch_is_not_orphan.FILENAME}`](../var/switch_attachment_list.attachments.switch_is_not_orphan.FILENAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.REAL_FILENAME}`](../var/switch_attachment_list.attachments.REAL_FILENAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL}`](../var/switch_attachment_list.attachments.switch_is_not_orphan.U_ATTACH_URL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.switch_is_orphan.FILENAME}`](../var/switch_attachment_list.attachments.switch_is_orphan.FILENAME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_is_orphan -->`](../var/switch_attachment_list.attachments.switch_is_orphan.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.ATTACH_ID}`](../var/switch_attachment_list.attachments.ATTACH_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.IS_ORPHAN}`](../var/switch_attachment_list.attachments.IS_ORPHAN.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.U_ATTACH_URL}`](../var/switch_attachment_list.attachments.U_ATTACH_URL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_can_delete -->`](../var/switch_attachment_list.attachments.switch_can_delete.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_is_not_orphan -->`](../var/switch_attachment_list.attachments.switch_is_not_orphan.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_attachment_list.attachments.ATTACH_COMMENT}`](../var/switch_attachment_list.attachments.ATTACH_COMMENT.md#readme)__
+
 
 ## Utilisations dans les templates
 

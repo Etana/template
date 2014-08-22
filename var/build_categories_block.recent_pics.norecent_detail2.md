@@ -14,7 +14,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.norecent_detail2)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.norecent_detail2)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.norecent_detail2)```
+
+## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.norecent_detail2)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.norecent_detail2)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

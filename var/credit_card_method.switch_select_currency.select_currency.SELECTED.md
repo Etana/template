@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.SELECTED)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.SELECTED)```
+
+## Description[*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.SELECTED)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method.switch_select_currency.select_currency.SELECTED)
 
 ## Utilisations dans les templates

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SORT_OPTIONS)
+Contient une liste d'option pour la recherche.```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_SORT_OPTIONS)
 Contient une liste d'option pour la recherche.
 
 ## Utilisations dans les templates

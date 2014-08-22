@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_MULTIQUOTE_IMG_ON)
+Image de citation multiple sélectionnée définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Boutons" > Multi-citation sélectionnée`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/JS_MULTIQUOTE_IMG_ON)
 Image de citation multiple sélectionnée définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Boutons" > Multi-citation sélectionnée`.
 
 ## Utilisations dans les templates

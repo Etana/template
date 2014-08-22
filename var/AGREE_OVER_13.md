@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/AGREE_OVER_13)
 Chaîne de texte.
 
+* __Contenu en français :__ `J'accepte le règlement````
+
+## Description[*](https://fa-tvars.appspot.com/var/AGREE_OVER_13)
+Chaîne de texte.
+
 * __Contenu en français :__ `J'accepte le règlement`
 
 ## Utilisations dans les templates

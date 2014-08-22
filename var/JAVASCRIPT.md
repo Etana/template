@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JAVASCRIPT)
+Variable actuellement inutilisée.```
+
+## Description[*](https://fa-tvars.appspot.com/var/JAVASCRIPT)
 Variable actuellement inutilisée.
 
 ## Utilisations dans les templates

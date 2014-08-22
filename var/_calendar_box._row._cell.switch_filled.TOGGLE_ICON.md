@@ -16,6 +16,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.TOGGLE_ICON)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.TOGGLE_ICON)```
+
+## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.TOGGLE_ICON)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.TOGGLE_ICON)
 
 ## Utilisations dans les templates

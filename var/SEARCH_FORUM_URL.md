@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SEARCH_FORUM_URL)
+Affiche l'adresse de votre forum.```
+
+## Description[*](https://fa-tvars.appspot.com/var/SEARCH_FORUM_URL)
 Affiche l'adresse de votre forum.
 
 ## Utilisations dans les templates

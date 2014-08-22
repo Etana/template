@@ -15,6 +15,16 @@ Adresse url absolue vers la page "qui est en ligne".
 
 ```html
 <a href="{U_VIEWONLINE}">Lien vers la page de qui est en ligne</a>
+``````
+
+## Description[*](https://fa-tvars.appspot.com/var/U_VIEWONLINE)
+Adresse url absolue vers la page "qui est en ligne".
+
+* __Remplacement :__ `/viewonline`
+* __Exemple d'utilisation :__ 
+
+```html
+<a href="{U_VIEWONLINE}">Lien vers la page de qui est en ligne</a>
 ```
 
 ## Utilisations dans les templates

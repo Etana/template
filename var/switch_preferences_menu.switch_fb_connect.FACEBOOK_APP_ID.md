@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID)
 
 ## Utilisations dans les templates

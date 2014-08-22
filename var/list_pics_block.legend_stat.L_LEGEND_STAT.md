@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat.L_LEGEND_STAT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat.L_LEGEND_STAT)```
+
+## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat.L_LEGEND_STAT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.legend_stat.L_LEGEND_STAT)
 
 ## Utilisations dans les templates

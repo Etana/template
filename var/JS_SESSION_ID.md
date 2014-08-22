@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_SESSION_ID)
+Contient une valeur vide utile pour le menu Plus !```
+
+## Description[*](https://fa-tvars.appspot.com/var/JS_SESSION_ID)
 Contient une valeur vide utile pour le menu Plus !
 
 ## Utilisations dans les templates

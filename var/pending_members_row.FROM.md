@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.FROM)
+Valeur du champ [`Localisation`](http://votre-forum.appspot.com/admin/?action=configuration&id=-11&mode=avatar_profil2&part=users_groups&sub=users) du membre sur lequel on boucle.```
+
+## Description[*](https://fa-tvars.appspot.com/var/pending_members_row.FROM)
 Valeur du champ [`Localisation`](http://votre-forum.appspot.com/admin/?action=configuration&id=-11&mode=avatar_profil2&part=users_groups&sub=users) du membre sur lequel on boucle.
 
 ## Utilisations dans les templates

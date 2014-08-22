@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC)
+Affiche le fil d’Ariane.```
+
+## Description[*](https://fa-tvars.appspot.com/var/NAV_CAT_DESC)
 Affiche le fil d’Ariane.
 
 ## Utilisations dans les templates

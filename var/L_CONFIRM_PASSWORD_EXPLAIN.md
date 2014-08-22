@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CONFIRM_PASSWORD_EXPLAIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CONFIRM_PASSWORD_EXPLAIN)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_CONFIRM_PASSWORD_EXPLAIN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CONFIRM_PASSWORD_EXPLAIN)
 
 ## Utilisations dans les templates

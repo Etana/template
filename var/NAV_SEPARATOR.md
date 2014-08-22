@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/NAV_SEPARATOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/NAV_SEPARATOR)```
+
+## Description[*](https://fa-tvars.appspot.com/var/NAV_SEPARATOR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/NAV_SEPARATOR)
 
 ## Utilisations dans les templates

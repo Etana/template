@@ -11,6 +11,12 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Profil`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_PROFILE)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Profil`
 
 
 ## Utilisations dans les templates

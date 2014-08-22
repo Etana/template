@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_JOIN_A_GROUP)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_JOIN_A_GROUP)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_JOIN_A_GROUP)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_JOIN_A_GROUP)
 
 ## Utilisations dans les templates

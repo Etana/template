@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/MERGE_BOX)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/MERGE_BOX)```
+
+## Description[*](https://fa-tvars.appspot.com/var/MERGE_BOX)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/MERGE_BOX)
 
 ## Utilisations dans les templates

@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.COLSPAN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.COLSPAN)```
+
+## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.COLSPAN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.header_table.COLSPAN)
 
 ## Utilisations dans les templates

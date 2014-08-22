@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_CREDIT_ADD_TITLE)
 Chaîne de texte.
 
+* __Contenu en français :__ `Contribution````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_CREDIT_ADD_TITLE)
+Chaîne de texte.
+
 * __Contenu en français :__ `Contribution`
 
 ## Utilisations dans les templates

@@ -22,7 +22,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event._more)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event._more)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event._more)```
+
+## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event._more)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled._event.switch_event._more)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

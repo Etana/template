@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_NEW_POSTS)
 Chaîne de texte.
 
+* __Contenu en français :__ `Nouveaux messages````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_NEW_POSTS)
+Chaîne de texte.
+
 * __Contenu en français :__ `Nouveaux messages`
 
 ## Utilisations dans les templates

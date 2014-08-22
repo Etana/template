@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/FORUM_NEW_IMG)
+Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes du forum" > Forum - Nouveau` ou `PA > Affichage > Images et Couleurs | Gestion des images > Mode Simple > Forum - Nouveau`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/FORUM_NEW_IMG)
 Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Icônes du forum" > Forum - Nouveau` ou `PA > Affichage > Images et Couleurs | Gestion des images > Mode Simple > Forum - Nouveau`.
 
 ## Utilisations dans les templates

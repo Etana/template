@@ -10,7 +10,24 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pics_nav)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/pics_nav)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/pics_nav)```
+
+## Description[*](https://fa-tvars.appspot.com/var/pics_nav)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/pics_nav)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.L_PICS_NAV}`](../var/pics_nav.L_PICS_NAV.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN nonext -->`](../var/pics_nav.nonext.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN noprev -->`](../var/pics_nav.noprev.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.prev.U_PICS_THUMB}`](../var/pics_nav.prev.U_PICS_THUMB.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.prev.U_PICS_LINK}`](../var/pics_nav.prev.U_PICS_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN prev -->`](../var/pics_nav.prev.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN next -->`](../var/pics_nav.next.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.prev.U_PICS_ALT}`](../var/pics_nav.prev.U_PICS_ALT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.next.U_PICS_ALT}`](../var/pics_nav.next.U_PICS_ALT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.next.U_PICS_LINK}`](../var/pics_nav.next.U_PICS_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.next.U_PICS_THUMB}`](../var/pics_nav.next.U_PICS_THUMB.md#readme)__
+
 
 ## Utilisations dans les templates
 

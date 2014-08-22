@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_POS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_POS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_POS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.ATTACH_POS)
 
 ## Utilisations dans les templates

@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_MARK_ALL)
 Chaîne de texte.
 
+* __Contenu en français :__ `Tout sélectionner````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_MARK_ALL)
+Chaîne de texte.
+
 * __Contenu en français :__ `Tout sélectionner`
 
 ## Utilisations dans les templates

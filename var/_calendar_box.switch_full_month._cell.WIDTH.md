@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.switch_full_month._cell.WIDTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_full_month._cell.WIDTH)```
+
+## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.switch_full_month._cell.WIDTH)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_full_month._cell.WIDTH)
 
 ## Utilisations dans les templates

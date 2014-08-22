@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_MAKE_DONATION)
 Chaîne de texte.
 
+* __Contenu en français :__ `Oui je souhaite effectuer un don en utilisant :````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_MAKE_DONATION)
+Chaîne de texte.
+
 * __Contenu en français :__ `Oui je souhaite effectuer un don en utilisant :`
 
 ## Utilisations dans les templates

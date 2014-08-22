@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_SEPERATOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_SEPERATOR)```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_SEPERATOR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_ALBUM_JUMPBOX_SEPERATOR)
 
 ## Utilisations dans les templates

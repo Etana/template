@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/LEGEND)
 Chaîne de texte.
 
+* __Contenu en français :__ `Légende````
+
+## Description[*](https://fa-tvars.appspot.com/var/LEGEND)
+Chaîne de texte.
+
 * __Contenu en français :__ `Légende`
 
 ## Utilisations dans les templates

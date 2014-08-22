@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_AUTHOR)
 Chaîne de texte.
 
+* __Contenu en français :__ `Auteur````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_AUTHOR)
+Chaîne de texte.
+
 * __Contenu en français :__ `Auteur`
 
 ## Utilisations dans les templates

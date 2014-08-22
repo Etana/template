@@ -19,6 +19,21 @@ Le contenu de la boucle s'affiche si :
     * soit il n'a été sur une page depuis le message privé
 
 Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message privé reçu.
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_enable_pm_popup)
+Le contenu de la boucle s'affiche si :
+
+* `Oui` est coché à l'option `Ouverture d'une Pop-Up lors de nouveaux Messages Privés` de [`Index`](http://votre-forum.appspot.com/#/profile?mode=editprofile,&page_profil=preferences) > [`Profil`](http://votre-forum.appspot.com/profile?mode=editprofile#&page_profil=preferences) > [`Préférences`](http://votre-forum.appspot.com/profile?mode=editprofile&page_profil=preferences) de l'utilisateur.
+* `Il y a un nouveau message privé à lire dont le membre n'est pas encore au courant, c'est à dire :
+    * soit il n'a pas encore été dans la boîte de réception
+    * soit il n'a pas lu le  message privé
+    * soit il n'a été sur une page depuis le message privé
+
+Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message privé reçu.
+```
+
+## Attributs
 
 
 ## Utilisations dans les templates

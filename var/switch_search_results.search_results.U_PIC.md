@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.U_PIC)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.U_PIC)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.U_PIC)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_results.search_results.U_PIC)
 
 ## Utilisations dans les templates

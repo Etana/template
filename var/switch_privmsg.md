@@ -10,7 +10,21 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.MASS_PM}`](../var/switch_privmsg.switch_privmsg_group.MASS_PM.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_username -->`](../var/switch_privmsg.switch_username.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_privmsg_friend -->`](../var/switch_privmsg.switch_privmsg_friend.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_privmsg_group -->`](../var/switch_privmsg.switch_privmsg_group.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_friend.L_OR_FRIEND}`](../var/switch_privmsg.switch_privmsg_friend.L_OR_FRIEND.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.L_OR_GROUP}`](../var/switch_privmsg.switch_privmsg_group.L_OR_GROUP.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_friend.FRIEND_PM}`](../var/switch_privmsg.switch_privmsg_friend.FRIEND_PM.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_username.USERNAME}`](../var/switch_privmsg.switch_username.USERNAME.md#readme)__
+
 
 ## Utilisations dans les templates
 

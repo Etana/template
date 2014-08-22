@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow.RATING)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.RATING)```
+
+## Description[*](https://fa-tvars.appspot.com/var/picrow.RATING)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow.RATING)
 
 ## Utilisations dans les templates

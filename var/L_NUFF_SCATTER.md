@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_SCATTER)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NUFF_SCATTER)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_SCATTER)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NUFF_SCATTER)
 
 ## Utilisations dans les templates

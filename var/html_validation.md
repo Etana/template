@@ -10,7 +10,13 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/html_validation)
-Boucle non-interprétée permettant de rendre la structure du template valide dans son affichage.
+Boucle non-interprétée permettant de rendre la structure du template valide dans son affichage.```
+
+## Description[*](https://fa-tvars.appspot.com/var/html_validation)
+Boucle non-interprétée permettant de rendre la structure du template valide dans son affichage.```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

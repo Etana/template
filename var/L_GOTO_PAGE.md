@@ -10,6 +10,12 @@
 Texte.
 
 * __Remplacement français :__ `Aller à la page`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GOTO_PAGE)
+Texte.
+
+* __Remplacement français :__ `Aller à la page`
 
 
 ## Utilisations dans les templates

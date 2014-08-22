@@ -11,6 +11,12 @@
 Texte.
   
 * __Remplacement français :__ `Groupe ouvert`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_OPEN)
+Texte.
+  
+* __Remplacement français :__ `Groupe ouvert`
 
 
 ## Utilisations dans les templates

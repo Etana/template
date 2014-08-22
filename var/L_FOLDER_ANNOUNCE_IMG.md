@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_ANNOUNCE_IMG)
 Chaîne de texte.
 
+* __Contenu en français :__ `Annonce````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_ANNOUNCE_IMG)
+Chaîne de texte.
+
 * __Contenu en français :__ `Annonce`
 
 ## Utilisations dans les templates

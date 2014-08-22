@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.tablefoot)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablefoot)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablefoot)```
+
+## Description[*](https://fa-tvars.appspot.com/var/catrow.tablefoot)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablefoot)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

@@ -10,7 +10,17 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/TOPIC)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOPIC)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOPIC)```
+
+## Description[*](https://fa-tvars.appspot.com/var/TOPIC)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/TOPIC)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.LINK}`](../var/TOPIC.LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme)__
+
 
 ## Utilisations dans les templates
 

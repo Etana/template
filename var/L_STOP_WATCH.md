@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_STOP_WATCH)
 Chaîne de texte.
 
+* __Contenu en français :__ `Arrêter de surveiller les sujets sélectionnés````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_STOP_WATCH)
+Chaîne de texte.
+
 * __Contenu en français :__ `Arrêter de surveiller les sujets sélectionnés`
 
 ## Utilisations dans les templates

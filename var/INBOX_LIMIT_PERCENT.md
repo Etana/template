@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/INBOX_LIMIT_PERCENT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/INBOX_LIMIT_PERCENT)```
+
+## Description[*](https://fa-tvars.appspot.com/var/INBOX_LIMIT_PERCENT)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/INBOX_LIMIT_PERCENT)
 
 ## Utilisations dans les templates

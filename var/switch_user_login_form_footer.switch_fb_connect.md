@@ -12,7 +12,16 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect)
-Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.
+Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_user_login_form_footer.switch_fb_connect)
+Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}`](../var/switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_footer.switch_fb_connect.L_OR}`](../var/switch_user_login_form_footer.switch_fb_connect.L_OR.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}`](../var/switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS.md#readme)__
+
 
 ## Utilisations dans les templates
 

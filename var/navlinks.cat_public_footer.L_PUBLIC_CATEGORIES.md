@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.L_PUBLIC_CATEGORIES)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.L_PUBLIC_CATEGORIES)```
+
+## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.L_PUBLIC_CATEGORIES)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer.L_PUBLIC_CATEGORIES)
 
 ## Utilisations dans les templates

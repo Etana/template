@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_show_progress_bar)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_show_progress_bar)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_show_progress_bar)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_show_progress_bar)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled.switch_show_progress_bar)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

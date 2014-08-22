@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ID_LEFT)
+Identifiant `left` attribué aux widgets de la colonne de gauche si celle-ci est activée.```
+
+## Description[*](https://fa-tvars.appspot.com/var/ID_LEFT)
 Identifiant `left` attribué aux widgets de la colonne de gauche si celle-ci est activée.
 
 ## Utilisations dans les templates

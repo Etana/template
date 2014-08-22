@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_OPTION)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_DELETE_OPTION)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_DELETE_OPTION)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_DELETE_OPTION)
 
 ## Utilisations dans les templates

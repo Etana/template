@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PAY_METHOD)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/PAY_METHOD)```
+
+## Description[*](https://fa-tvars.appspot.com/var/PAY_METHOD)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/PAY_METHOD)
 
 ## Utilisations dans les templates

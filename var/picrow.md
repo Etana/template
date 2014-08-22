@@ -10,7 +10,25 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/picrow)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow)```
+
+## Description[*](https://fa-tvars.appspot.com/var/picrow)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/picrow)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.COMMENTS}`](../var/picrow.COMMENTS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.POSTER}`](../var/picrow.POSTER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.APPROVAL}`](../var/picrow.APPROVAL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.CAT}`](../var/picrow.CAT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.ROW_CLASS}`](../var/picrow.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.LOCK}`](../var/picrow.LOCK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.TIME}`](../var/picrow.TIME.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.PIC_ID}`](../var/picrow.PIC_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.RATING}`](../var/picrow.RATING.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.PIC_LINK}`](../var/picrow.PIC_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.PIC_MESSAGE}`](../var/picrow.PIC_MESSAGE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.PIC_TITLE}`](../var/picrow.PIC_TITLE.md#readme)__
+
 
 ## Utilisations dans les templates
 

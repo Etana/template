@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link.TITLE)
 
 ## Utilisations dans les templates

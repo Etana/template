@@ -10,7 +10,13 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_th_group)
-Boucle affichant le titre de la colonne des groupes dans la liste des membres si vous triez les membres par "Groupes".
+Boucle affichant le titre de la colonne des groupes dans la liste des membres si vous triez les membres par "Groupes".```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_th_group)
+Boucle affichant le titre de la colonne des groupes dans la liste des membres si vous triez les membres par "Groupes".```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

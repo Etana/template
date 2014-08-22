@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_POLL_LENGTH_EXPLAIN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POLL_LENGTH_EXPLAIN)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_POLL_LENGTH_EXPLAIN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_POLL_LENGTH_EXPLAIN)
 
 ## Utilisations dans les templates

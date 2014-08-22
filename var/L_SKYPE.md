@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_SKYPE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SKYPE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_SKYPE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_SKYPE)
 
 ## Utilisations dans les templates

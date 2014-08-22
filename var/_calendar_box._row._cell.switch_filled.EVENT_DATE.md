@@ -16,6 +16,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.EVENT_DATE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.EVENT_DATE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.EVENT_DATE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._row._cell.switch_filled.EVENT_DATE)
 
 ## Utilisations dans les templates

@@ -14,6 +14,16 @@ Lien textuel vers l'icq du modérateur de groupe.
 ```html
 <a href="http://wwp.icq.com/scripts/search.dll?to=99999999">Numéro ICQ</a>
 ```
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/MOD_ICQ)
+Lien textuel vers l'icq du modérateur de groupe.
+
+* __Exemple de remplacement français :__
+
+```html
+<a href="http://wwp.icq.com/scripts/search.dll?to=99999999">Numéro ICQ</a>
+```
 
 
 ## Utilisations dans les templates

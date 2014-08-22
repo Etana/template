@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/POLLITEMS_CLOSE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/POLLITEMS_CLOSE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/POLLITEMS_CLOSE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/POLLITEMS_CLOSE)
 
 ## Utilisations dans les templates

@@ -16,7 +16,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)```
+
+## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_no_bar)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

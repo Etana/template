@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW)```
+
+## Description[*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW)
 
 ## Utilisations dans les templates

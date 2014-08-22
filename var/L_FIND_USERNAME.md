@@ -11,6 +11,12 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `Trouver un nom d'utilisateur`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_FIND_USERNAME)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Trouver un nom d'utilisateur`
 
 
 ## Utilisations dans les templates

@@ -10,6 +10,12 @@
 Texte.
 
 * __Remplacement français :__ `Verrouiller le sujet`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_LOCK_TOPIC)
+Texte.
+
+* __Remplacement français :__ `Verrouiller le sujet`
 
 
 ## Utilisations dans les templates

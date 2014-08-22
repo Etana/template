@@ -12,7 +12,16 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer)```
+
+## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_public_footer)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.cat_public_footer.L_PUBLIC_CATEGORIES}`](../var/navlinks.cat_public_footer.L_PUBLIC_CATEGORIES.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.cat_public_footer.U_PUBLIC_CATEGORIES}`](../var/navlinks.cat_public_footer.U_PUBLIC_CATEGORIES.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES}`](../var/navlinks.cat_public_footer.U_IMG_PUBLIC_GALLERIES.md#readme)__
+
 
 ## Utilisations dans les templates
 

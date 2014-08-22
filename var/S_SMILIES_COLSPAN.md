@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SMILIES_COLSPAN)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SMILIES_COLSPAN)```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_SMILIES_COLSPAN)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SMILIES_COLSPAN)
 
 ## Utilisations dans les templates

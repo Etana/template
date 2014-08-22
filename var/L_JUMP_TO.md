@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_JUMP_TO)
 Chaîne de texte.
 
+* __Contenu en français :__ `Sauter vers````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_JUMP_TO)
+Chaîne de texte.
+
 * __Contenu en français :__ `Sauter vers`
 
 ## Utilisations dans les templates

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_INTERLACE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NUFF_INTERLACE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_NUFF_INTERLACE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_NUFF_INTERLACE)
 
 ## Utilisations dans les templates

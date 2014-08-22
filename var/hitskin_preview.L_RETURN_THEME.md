@@ -12,6 +12,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.L_RETURN_THEME)
 Chaîne de texte.
 
+* __Contenu en français :__ `Retourner sur la fiche du thème````
+
+## Description[*](https://fa-tvars.appspot.com/var/hitskin_preview.L_RETURN_THEME)
+Chaîne de texte.
+
 * __Contenu en français :__ `Retourner sur la fiche du thème`
 
 ## Utilisations dans les templates

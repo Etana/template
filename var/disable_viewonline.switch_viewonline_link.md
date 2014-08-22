@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_link)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_link)```
+
+## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/disable_viewonline.switch_viewonline_link)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

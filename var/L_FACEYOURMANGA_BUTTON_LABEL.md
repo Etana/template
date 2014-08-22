@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_FACEYOURMANGA_BUTTON_LABEL)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FACEYOURMANGA_BUTTON_LABEL)```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_FACEYOURMANGA_BUTTON_LABEL)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/L_FACEYOURMANGA_BUTTON_LABEL)
 
 ## Utilisations dans les templates

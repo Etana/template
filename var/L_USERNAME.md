@@ -11,6 +11,12 @@
 Chaîne de caractère.
 
 * __Remplacement français :__ `Nom d'utilisateur`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_USERNAME)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Nom d'utilisateur`
 
 
 ## Utilisations dans les templates

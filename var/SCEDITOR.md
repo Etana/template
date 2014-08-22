@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/SCEDITOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/SCEDITOR)```
+
+## Description[*](https://fa-tvars.appspot.com/var/SCEDITOR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/SCEDITOR)
 
 ## Utilisations dans les templates

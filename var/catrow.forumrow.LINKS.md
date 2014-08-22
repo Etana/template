@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.LINKS)
+Contient les sous-forums du forum bouclé.```
+
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.LINKS)
 Contient les sous-forums du forum bouclé.
 
 ## Utilisations dans les templates

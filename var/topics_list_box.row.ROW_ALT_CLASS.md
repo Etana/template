@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_ALT_CLASS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_ALT_CLASS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_ALT_CLASS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.ROW_ALT_CLASS)
 
 ## Utilisations dans les templates

@@ -14,7 +14,14 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar)```
+
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.avatar.LAST_POST_AVATAR}`](../var/catrow.forumrow.avatar.LAST_POST_AVATAR.md#readme)__
+
 
 ## Utilisations dans les templates
 

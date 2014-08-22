@@ -11,6 +11,12 @@
 Texte de la barre de titre de la page.
 
 * __Remplacement français :__ `Informations du groupe`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_INFORMATION)
+Texte de la barre de titre de la page.
+
+* __Remplacement français :__ `Informations du groupe`
 
 
 ## Utilisations dans les templates

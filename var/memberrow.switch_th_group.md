@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_th_group)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_th_group)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_th_group)```
+
+## Description[*](https://fa-tvars.appspot.com/var/memberrow.switch_th_group)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/memberrow.switch_th_group)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

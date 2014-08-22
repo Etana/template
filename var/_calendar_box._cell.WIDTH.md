@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._cell.WIDTH)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._cell.WIDTH)```
+
+## Description[*](https://fa-tvars.appspot.com/var/_calendar_box._cell.WIDTH)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box._cell.WIDTH)
 
 ## Utilisations dans les templates

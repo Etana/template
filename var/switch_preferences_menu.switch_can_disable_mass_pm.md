@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_can_disable_mass_pm)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_can_disable_mass_pm)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_can_disable_mass_pm)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_can_disable_mass_pm)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_can_disable_mass_pm)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JUMPBOX)
+Affiche le template {{subsilver/jumpbox}} ou {{punbb/jumpbox}}.```
+
+## Description[*](https://fa-tvars.appspot.com/var/JUMPBOX)
 Affiche le template {{subsilver/jumpbox}} ou {{punbb/jumpbox}}.
 
 ## Utilisations dans les templates

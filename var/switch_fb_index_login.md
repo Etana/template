@@ -10,7 +10,14 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_index_login)
-Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.
+Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_fb_index_login)
+Boucle d'affichage si Facebook Connect est activé dans `PA > Modules > Facebook Connect | Configuration`.```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_index_login.FACEBOOK_APP_ID}`](../var/switch_fb_index_login.FACEBOOK_APP_ID.md#readme)__
+
 
 ## Utilisations dans les templates
 

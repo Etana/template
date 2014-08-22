@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/rpg_fields.SEPARATOR)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/rpg_fields.SEPARATOR)```
+
+## Description[*](https://fa-tvars.appspot.com/var/rpg_fields.SEPARATOR)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/rpg_fields.SEPARATOR)
 
 ## Utilisations dans les templates

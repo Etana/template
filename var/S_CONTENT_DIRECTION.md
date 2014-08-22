@@ -12,6 +12,13 @@ Contient la direction du texte suivant la langue d'affichage du forum.
 
 * __Remplacement pour une langue s'écrivant de gauche à droite ( left to right ) :__ `ltr`
 * __Remplacement pour une langue s'écrivant de droite à gauche ( right to left ) :__ `rtl`
+* __Remplacement français :__ `ltr````
+
+## Description[*](https://fa-tvars.appspot.com/var/S_CONTENT_DIRECTION)
+Contient la direction du texte suivant la langue d'affichage du forum.
+
+* __Remplacement pour une langue s'écrivant de gauche à droite ( left to right ) :__ `ltr`
+* __Remplacement pour une langue s'écrivant de droite à gauche ( right to left ) :__ `rtl`
 * __Remplacement français :__ `ltr`
 
 ## Utilisations dans les templates

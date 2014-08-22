@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
+Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralités > Contenu du message`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/message_admin_index.message_admin_txt.MES_TXT)
 Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralités > Contenu du message`.
 
 ## Utilisations dans les templates

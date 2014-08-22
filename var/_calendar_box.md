@@ -10,7 +10,53 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box)```
+
+## Description[*](https://fa-tvars.appspot.com/var/_calendar_box)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _more_no -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event_no._more_no.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_add_event -->`](../var/_calendar_box.switch_add_event.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _more -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event._more.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _row -->`](../var/_calendar_box._row.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.WIDTH}`](../var/_calendar_box._row._cell.WIDTH.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_add_event_day -->`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _more -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event_no._more.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_event -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _more_header -->`](../var/_calendar_box._row._cell.switch_filled._event._more_header.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled.TOGGLE_STATUS}`](../var/_calendar_box._row._cell.switch_filled.TOGGLE_STATUS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled.TOGGLE_ICON}`](../var/_calendar_box._row._cell.switch_filled.TOGGLE_ICON.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_filled -->`](../var/_calendar_box._row._cell.switch_filled.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.U_EVENT}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.U_EVENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_ACTION}`](../var/_calendar_box.S_ACTION.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_FORUM_LIST}`](../var/_calendar_box.S_FORUM_LIST.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._cell.WIDTH}`](../var/_calendar_box._cell.WIDTH.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.U_NEXT}`](../var/_calendar_box.U_NEXT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.switch_full_month._cell.WIDTH}`](../var/_calendar_box.switch_full_month._cell.WIDTH.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.U_DATE}`](../var/_calendar_box._row._cell.U_DATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _cell -->`](../var/_calendar_box._cell.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _cell -->`](../var/_calendar_box._row._cell.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled.EVENT_DATE}`](../var/_calendar_box._row._cell.switch_filled.EVENT_DATE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_MONTH}`](../var/_calendar_box.S_MONTH.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.L_GO}`](../var/_calendar_box.L_GO.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _more_no -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event._more_no.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _more_footer -->`](../var/_calendar_box._row._cell.switch_filled._event._more_footer.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.OVERVIEW_MESSAGE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.OVERVIEW_MESSAGE.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT}`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.SPAN}`](../var/_calendar_box._row._cell.SPAN.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.SPAN_ALL}`](../var/_calendar_box.SPAN_ALL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_filled_no -->`](../var/_calendar_box._row._cell.switch_filled_no.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_event_no -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event_no.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_CLASS}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.U_PREC}`](../var/_calendar_box.U_PREC.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_YEAR}`](../var/_calendar_box.S_YEAR.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._cell.L_DAY}`](../var/_calendar_box._cell.L_DAY.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _event -->`](../var/_calendar_box._row._cell.switch_filled._event.md#readme)__
+
 
 ## Utilisations dans les templates
 

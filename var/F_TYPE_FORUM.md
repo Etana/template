@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/F_TYPE_FORUM)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/F_TYPE_FORUM)```
+
+## Description[*](https://fa-tvars.appspot.com/var/F_TYPE_FORUM)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/F_TYPE_FORUM)
 
 ## Utilisations dans les templates

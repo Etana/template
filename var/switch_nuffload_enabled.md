@@ -10,7 +10,15 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_nuffload_enabled)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_multiple_uploads -->`](../var/switch_nuffload_enabled.switch_multiple_uploads.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_show_progress_bar -->`](../var/switch_nuffload_enabled.switch_show_progress_bar.md#readme)__
+
 
 ## Utilisations dans les templates
 

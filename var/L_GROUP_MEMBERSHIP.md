@@ -11,6 +11,12 @@
 Texte.
 
 * __Remplacement français :__ `Votre statut`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_MEMBERSHIP)
+Texte.
+
+* __Remplacement français :__ `Votre statut`
 
 
 ## Utilisations dans les templates

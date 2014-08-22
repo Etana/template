@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.switch_not_anonymous)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_not_anonymous)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_not_anonymous)```
+
+## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.switch_not_anonymous)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_not_anonymous)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

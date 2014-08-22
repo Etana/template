@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_CHECKED)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_CHECKED)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_CHECKED)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_icon_checkbox.row.cell.ICON_CHECKED)
 
 ## Utilisations dans les templates

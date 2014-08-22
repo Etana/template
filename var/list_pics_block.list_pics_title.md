@@ -12,7 +12,14 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics_title)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics_title)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics_title)```
+
+## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics_title)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics_title)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics_title.L_TOP10_TITLE}`](../var/list_pics_block.list_pics_title.L_TOP10_TITLE.md#readme)__
+
 
 ## Utilisations dans les templates
 

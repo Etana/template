@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_USER_SELECT_VALUE)
+Contient le pseudo du membre sélectionné.```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_USER_SELECT_VALUE)
 Contient le pseudo du membre sélectionné.
 
 ## Utilisations dans les templates

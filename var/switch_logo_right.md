@@ -10,7 +10,13 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_logo_right)
-Boucle s'affichant si vous avez sélectionné "A droite" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.
+Boucle s'affichant si vous avez sélectionné "A droite" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_logo_right)
+Boucle s'affichant si vous avez sélectionné "A droite" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

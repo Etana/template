@@ -12,6 +12,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
 Chaîne de texte.
 
+* __Contenu en français :__ ` [ Aller à la page: X, Y, ... ] ````
+
+## Description[*](https://fa-tvars.appspot.com/var/searchresults.GOTO_PAGE)
+Chaîne de texte.
+
 * __Contenu en français :__ ` [ Aller à la page: X, Y, ... ] `
 
 ## Utilisations dans les templates

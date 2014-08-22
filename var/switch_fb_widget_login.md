@@ -10,7 +10,14 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_fb_widget_login)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_widget_login)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_widget_login)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_fb_widget_login)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_fb_widget_login)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme)__
+
 
 ## Utilisations dans les templates
 

@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_GO)
 Chaîne de texte.
 
+* __Contenu en français :__ `Aller````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GO)
+Chaîne de texte.
+
 * __Contenu en français :__ `Aller`
 
 ## Utilisations dans les templates

@@ -10,7 +10,17 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/profile_field)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/profile_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/profile_field)```
+
+## Description[*](https://fa-tvars.appspot.com/var/profile_field)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/profile_field)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN profil_type_user_posts -->`](../var/profile_field.profil_type_user_posts.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{profile_field.CONTENT}`](../var/profile_field.CONTENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{profile_field.LABEL}`](../var/profile_field.LABEL.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{profile_field.ID}`](../var/profile_field.ID.md#readme)__
+
 
 ## Utilisations dans les templates
 

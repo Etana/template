@@ -10,6 +10,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/moderation_panel.L_YOUR_PERSONAL_MODERATE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel.L_YOUR_PERSONAL_MODERATE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/moderation_panel.L_YOUR_PERSONAL_MODERATE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/moderation_panel.L_YOUR_PERSONAL_MODERATE)
 
 ## Utilisations dans les templates

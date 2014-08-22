@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_MODE_SELECT)
+Contient le choix de sélection d'un mode de recherche.```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_MODE_SELECT)
 Contient le choix de sélection d'un mode de recherche.
 
 ## Utilisations dans les templates

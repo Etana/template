@@ -12,7 +12,22 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID}`](../var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_not_linked -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test.FB_LOGIN.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_test -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_test.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_linked -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT}`](../var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT.md#readme)__
+
 
 ## Utilisations dans les templates
 

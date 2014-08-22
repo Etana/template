@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.EDITED_MESSAGE)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.EDITED_MESSAGE)```
+
+## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.EDITED_MESSAGE)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.EDITED_MESSAGE)
 
 ## Utilisations dans les templates

@@ -12,6 +12,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/member_row.U_VIEWPROFILE)
 Chemin absolu vers le profil du membre sur lequel on boucle.
 
+* __Exemple de remplacement :__ `/u2````
+
+## Description[*](https://fa-tvars.appspot.com/var/member_row.U_VIEWPROFILE)
+Chemin absolu vers le profil du membre sur lequel on boucle.
+
 * __Exemple de remplacement :__ `/u2`
 
 ## Utilisations dans les templates

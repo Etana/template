@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/TOTAL_GUEST_USERS_ONLINE)
 Chaîne de texte.
 
+* __Contenu en français :__ `Il y a X invité(s) en ligne````
+
+## Description[*](https://fa-tvars.appspot.com/var/TOTAL_GUEST_USERS_ONLINE)
+Chaîne de texte.
+
 * __Contenu en français :__ `Il y a X invité(s) en ligne`
 
 ## Utilisations dans les templates

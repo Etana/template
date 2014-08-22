@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES)```
+
+## Description[*](https://fa-tvars.appspot.com/var/navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/navlinks.cat_private_footer.U_IMG_PERSONAL_GALLERIES)
 
 ## Utilisations dans les templates

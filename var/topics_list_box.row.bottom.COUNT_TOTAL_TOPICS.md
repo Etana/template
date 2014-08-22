@@ -14,6 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.COUNT_TOTAL_TOPICS)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.COUNT_TOTAL_TOPICS)```
+
+## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.COUNT_TOTAL_TOPICS)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.bottom.COUNT_TOTAL_TOPICS)
 
 ## Utilisations dans les templates

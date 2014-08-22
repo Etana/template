@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG)
+Message du popup de connexion défini dans `PA > Général > Forum | Configuration > Popup de connexion > Message`.```
+
+## Description[*](https://fa-tvars.appspot.com/var/LOGIN_POPUP_MSG)
 Message du popup de connexion défini dans `PA > Général > Forum | Configuration > Popup de connexion > Message`.
 
 ## Utilisations dans les templates

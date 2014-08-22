@@ -8,6 +8,10 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_add_member)
 Le contenu de la boucle est affiché si le visiteur est administrateur ou modérateur du groupe.
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_add_member)
+Le contenu de la boucle est affiché si le visiteur est administrateur ou modérateur du groupe.
 
 
 ## Utilisations dans les templates

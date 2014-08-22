@@ -12,7 +12,15 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)```
+
+## Description[*](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block_link.faq_row_link)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block_link.faq_row_link.U_FAQ_LINK}`](../var/faq_block_link.faq_row_link.U_FAQ_LINK.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block_link.faq_row_link.FAQ_LINK}`](../var/faq_block_link.faq_row_link.FAQ_LINK.md#readme)__
+
 
 ## Utilisations dans les templates
 

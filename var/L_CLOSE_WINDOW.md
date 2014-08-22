@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_CLOSE_WINDOW)
 Chaîne de texte.
 
+* __Contenu en français :__ `Fermer la fenêtre````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_CLOSE_WINDOW)
+Chaîne de texte.
+
 * __Contenu en français :__ `Fermer la fenêtre`
 
 ## Utilisations dans les templates

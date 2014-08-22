@@ -10,6 +10,11 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_STICKY_IMG)
 Chaîne de texte.
 
+* __Contenu en français :__ `Post-it````
+
+## Description[*](https://fa-tvars.appspot.com/var/L_FOLDER_STICKY_IMG)
+Chaîne de texte.
+
 * __Contenu en français :__ `Post-it`
 
 ## Utilisations dans les templates

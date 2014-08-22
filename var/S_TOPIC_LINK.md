@@ -10,6 +10,12 @@
 Texte.
 
 * __Remplacement :__ `t`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/S_TOPIC_LINK)
+Texte.
+
+* __Remplacement :__ `t`
 
 
 ## Utilisations dans les templates

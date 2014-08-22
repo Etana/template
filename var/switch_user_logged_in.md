@@ -11,6 +11,19 @@ contenu sur lequel on boucle
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in)
 Le contenu de la boucle est affiché si l'utilisateur est connecté.
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_user_logged_in)
+Le contenu de la boucle est affiché si l'utilisateur est connecté.
+```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_index -->`](../var/switch_user_logged_in.message_admin_index.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_plus_menu -->`](../var/switch_user_logged_in.switch_plus_menu.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU}`](../var/switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_titre -->`](../var/switch_user_logged_in.message_admin_index.message_admin_titre.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN watchtopic -->`](../var/switch_user_logged_in.watchtopic.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_txt -->`](../var/switch_user_logged_in.message_admin_index.message_admin_txt.md#readme)__
 
 
 ## Utilisations dans les templates

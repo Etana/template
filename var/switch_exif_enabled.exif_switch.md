@@ -12,7 +12,18 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN EXIFd2 -->`](../var/switch_exif_enabled.exif_switch.exif_data.EXIFd2.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN EXIFc1 -->`](../var/switch_exif_enabled.exif_switch.exif_data.EXIFc1.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN EXIFd1 -->`](../var/switch_exif_enabled.exif_switch.exif_data.EXIFd1.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN EXIFc2 -->`](../var/switch_exif_enabled.exif_switch.exif_data.EXIFc2.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN exif_data -->`](../var/switch_exif_enabled.exif_switch.exif_data.md#readme)__
+
 
 ## Utilisations dans les templates
 

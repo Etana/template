@@ -12,6 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME)
 
 ## Utilisations dans les templates

@@ -8,6 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AJAX_EDIT_IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/AJAX_EDIT_IMG)```
+
+## Description[*](https://fa-tvars.appspot.com/var/AJAX_EDIT_IMG)
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/AJAX_EDIT_IMG)
 
 ## Utilisations dans les templates

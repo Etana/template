@@ -11,6 +11,12 @@
 Texte.
   
 * __Remplacement français :__ `Membres du groupe`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_GROUP_MEMBERS)
+Texte.
+  
+* __Remplacement français :__ `Membres du groupe`
 
 
 ## Utilisations dans les templates

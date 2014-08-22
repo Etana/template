@@ -12,7 +12,13 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_link)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_link)```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_link)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_link)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

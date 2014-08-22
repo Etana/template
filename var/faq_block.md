@@ -10,7 +10,20 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/faq_block)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block)```
+
+## Description[*](https://fa-tvars.appspot.com/var/faq_block)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/faq_block)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.ROW_CLASS_NEW}`](../var/faq_block.ROW_CLASS_NEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`](../var/faq_block.faq_row.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.ROW_CLASS}`](../var/faq_block.faq_row.ROW_CLASS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`](../var/faq_block.BLOCK_TITLE.md#readme)__
+
 
 ## Utilisations dans les templates
 

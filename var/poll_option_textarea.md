@@ -10,7 +10,13 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/poll_option_textarea)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option_textarea)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option_textarea)```
+
+## Description[*](https://fa-tvars.appspot.com/var/poll_option_textarea)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/poll_option_textarea)```
+
+## Attributs
+
 
 ## Utilisations dans les templates
 

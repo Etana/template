@@ -10,6 +10,12 @@
 Chaîne de texte.
   
 * __Remplacement français :__ `Numéro ICQ`
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/L_ICQ)
+Chaîne de texte.
+  
+* __Remplacement français :__ `Numéro ICQ`
 
 
 ## Utilisations dans les templates

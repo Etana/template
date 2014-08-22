@@ -10,7 +10,14 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/album_pagination)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/album_pagination)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/album_pagination)```
+
+## Description[*](https://fa-tvars.appspot.com/var/album_pagination)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/album_pagination)```
+
+## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{album_pagination.ALBUM_PAGINATION}`](../var/album_pagination.ALBUM_PAGINATION.md#readme)__
+
 
 ## Utilisations dans les templates
 
