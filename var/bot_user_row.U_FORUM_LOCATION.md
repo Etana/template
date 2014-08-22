@@ -15,14 +15,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`40`](../src/prosilver/viewonline_body.tpl#L40)[`<->`](../src/prosilver/viewonline_body.tpl#L40-L40)[`40`](../src/prosilver/viewonline_body.tpl#L40)
-
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`40`](../src/prosilver/viewonline_body.tpl#L40)
 ### Version phpBB2
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`42`](../src/subsilver/viewonline_body.tpl#L42)[`<->`](../src/subsilver/viewonline_body.tpl#L42-L42)[`42`](../src/subsilver/viewonline_body.tpl#L42)
-
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`42`](../src/subsilver/viewonline_body.tpl#L42)
 ### Version PunBB
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`58`](../src/punbb/viewonline_body.tpl#L58)[`<->`](../src/punbb/viewonline_body.tpl#L58-L58)[`58`](../src/punbb/viewonline_body.tpl#L58)
-
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`58`](../src/punbb/viewonline_body.tpl#L58)
 ### Version Invision
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`33`](../src/invision/viewonline_body.tpl#L33)[`<->`](../src/invision/viewonline_body.tpl#L33-L33)[`33`](../src/invision/viewonline_body.tpl#L33)
-
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`33`](../src/invision/viewonline_body.tpl#L33)

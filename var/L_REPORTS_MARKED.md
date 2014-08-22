@@ -13,8 +13,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`15`](../src/prosilver/report_list_body.tpl#L15)[`<->`](../src/prosilver/report_list_body.tpl#L15-L15)[`15`](../src/prosilver/report_list_body.tpl#L15)
-
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`15`](../src/prosilver/report_list_body.tpl#L15)
 ### Version phpBB2
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`8`](../src/subsilver/report_list_body.tpl#L8)[`<->`](../src/subsilver/report_list_body.tpl#L8-L8)[`8`](../src/subsilver/report_list_body.tpl#L8)
-
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`8`](../src/subsilver/report_list_body.tpl#L8)

@@ -13,14 +13,10 @@ Contient la balise META gérant le favicon de votre forum.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/prosilver/overall_header.tpl#L14)[`<->`](../src/prosilver/overall_header.tpl#L14-L14)[`14`](../src/prosilver/overall_header.tpl#L14)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/prosilver/overall_header.tpl#L14)
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/subsilver/overall_header.tpl#L14)[`<->`](../src/subsilver/overall_header.tpl#L14-L14)[`14`](../src/subsilver/overall_header.tpl#L14)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/subsilver/overall_header.tpl#L14)
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/punbb/overall_header.tpl#L14)[`<->`](../src/punbb/overall_header.tpl#L14-L14)[`14`](../src/punbb/overall_header.tpl#L14)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/punbb/overall_header.tpl#L14)
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/invision/overall_header.tpl#L14)[`<->`](../src/invision/overall_header.tpl#L14-L14)[`14`](../src/invision/overall_header.tpl#L14)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/invision/overall_header.tpl#L14)

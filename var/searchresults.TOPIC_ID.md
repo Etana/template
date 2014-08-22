@@ -15,5 +15,4 @@ Contient l'ID du sujet.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`48`](../src/subsilver/search_results_topics.tpl#L48)[`<->`](../src/subsilver/search_results_topics.tpl#L48-L48)[`48`](../src/subsilver/search_results_topics.tpl#L48)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`48`](../src/subsilver/search_results_topics.tpl#L48)

@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`233`](../src/invision/posting_body.tpl#L233)[`<->`](../src/invision/posting_body.tpl#L233-L233)[`233`](../src/invision/posting_body.tpl#L233)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`233`](../src/invision/posting_body.tpl#L233)

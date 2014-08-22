@@ -21,14 +21,10 @@ Image `Visiter le site web du posteur` ( choisie dans [`Index`](http://votre-for
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`26`](../src/prosilver/groupcp_pending_info.tpl#L26)[`<->`](../src/prosilver/groupcp_pending_info.tpl#L26-L26)[`26`](../src/prosilver/groupcp_pending_info.tpl#L26)
-
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`26`](../src/prosilver/groupcp_pending_info.tpl#L26)
 ### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`21`](../src/subsilver/groupcp_pending_info.tpl#L21)[`<->`](../src/subsilver/groupcp_pending_info.tpl#L21-L21)[`21`](../src/subsilver/groupcp_pending_info.tpl#L21)
-
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`21`](../src/subsilver/groupcp_pending_info.tpl#L21)
 ### Version PunBB
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`27`](../src/punbb/groupcp_pending_info.tpl#L27)[`<->`](../src/punbb/groupcp_pending_info.tpl#L27-L27)[`27`](../src/punbb/groupcp_pending_info.tpl#L27)
-
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`27`](../src/punbb/groupcp_pending_info.tpl#L27)
 ### Version Invision
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`24`](../src/invision/groupcp_pending_info.tpl#L24)[`<->`](../src/invision/groupcp_pending_info.tpl#L24-L24)[`24`](../src/invision/groupcp_pending_info.tpl#L24)
-
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`24`](../src/invision/groupcp_pending_info.tpl#L24)

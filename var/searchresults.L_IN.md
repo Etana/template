@@ -15,5 +15,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`35`](../src/prosilver/search_results_topics.tpl#L35)[`<->`](../src/prosilver/search_results_topics.tpl#L35-L35)[`35`](../src/prosilver/search_results_topics.tpl#L35)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`35`](../src/prosilver/search_results_topics.tpl#L35)

@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`99`](../src/prosilver/album_cat_body.tpl#L99)[`<->`](../src/prosilver/album_cat_body.tpl#L99-L99)[`99`](../src/prosilver/album_cat_body.tpl#L99)
-
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`99`](../src/prosilver/album_cat_body.tpl#L99)
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`167`](../src/subsilver/album_cat_body.tpl#L167)[`<->`](../src/subsilver/album_cat_body.tpl#L167-L167)[`167`](../src/subsilver/album_cat_body.tpl#L167)
-
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`167`](../src/subsilver/album_cat_body.tpl#L167)
 ### Version PunBB
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`95`](../src/punbb/album_cat_body.tpl#L95)[`<->`](../src/punbb/album_cat_body.tpl#L95-L95)[`95`](../src/punbb/album_cat_body.tpl#L95)
-
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`95`](../src/punbb/album_cat_body.tpl#L95)
 ### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`106`](../src/invision/album_cat_body.tpl#L106)[`<->`](../src/invision/album_cat_body.tpl#L106-L106)[`106`](../src/invision/album_cat_body.tpl#L106)
-
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`106`](../src/invision/album_cat_body.tpl#L106)

@@ -21,6 +21,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`1`](../src/subsilver/birthday_list_box.tpl#L1)[`<->`](../src/subsilver/birthday_list_box.tpl#L1-L1)[`1`](../src/subsilver/birthday_list_box.tpl#L1)
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`20`](../src/subsilver/birthday_list_box.tpl#L20)[`<->`](../src/subsilver/birthday_list_box.tpl#L20-L20)[`20`](../src/subsilver/birthday_list_box.tpl#L20)
-
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`1`](../src/subsilver/birthday_list_box.tpl#L1), [`20`](../src/subsilver/birthday_list_box.tpl#L20)

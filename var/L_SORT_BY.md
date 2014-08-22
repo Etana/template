@@ -15,14 +15,10 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`61`](../src/prosilver/search_body.tpl#L61)[`<->`](../src/prosilver/search_body.tpl#L61-L61)[`61`](../src/prosilver/search_body.tpl#L61)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`61`](../src/prosilver/search_body.tpl#L61)
 ### Version phpBB2
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`77`](../src/subsilver/search_body.tpl#L77)[`<->`](../src/subsilver/search_body.tpl#L77-L77)[`77`](../src/subsilver/search_body.tpl#L77)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`77`](../src/subsilver/search_body.tpl#L77)
 ### Version PunBB
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`75`](../src/punbb/search_body.tpl#L75)[`<->`](../src/punbb/search_body.tpl#L75-L75)[`75`](../src/punbb/search_body.tpl#L75)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`75`](../src/punbb/search_body.tpl#L75)
 ### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`58`](../src/invision/search_body.tpl#L58)[`<->`](../src/invision/search_body.tpl#L58-L58)[`58`](../src/invision/search_body.tpl#L58)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`58`](../src/invision/search_body.tpl#L58)

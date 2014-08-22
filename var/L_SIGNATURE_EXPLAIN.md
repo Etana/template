@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`31`](../src/invision/profile_edit_signature.tpl#L31)[`<->`](../src/invision/profile_edit_signature.tpl#L31-L31)[`31`](../src/invision/profile_edit_signature.tpl#L31)
-
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`31`](../src/invision/profile_edit_signature.tpl#L31)

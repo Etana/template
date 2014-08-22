@@ -17,6 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`3`](../src/punbb/portal_body.tpl#L3)[`<->`](../src/punbb/portal_body.tpl#L3-L3)[`3`](../src/punbb/portal_body.tpl#L3)
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`5`](../src/punbb/portal_body.tpl#L5)[`<->`](../src/punbb/portal_body.tpl#L5-L5)[`5`](../src/punbb/portal_body.tpl#L5)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`3`](../src/punbb/portal_body.tpl#L3), [`5`](../src/punbb/portal_body.tpl#L5)

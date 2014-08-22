@@ -15,5 +15,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`277`](../src/subsilver/viewtopic_body.tpl#L277)[`<->`](../src/subsilver/viewtopic_body.tpl#L277-L277)[`277`](../src/subsilver/viewtopic_body.tpl#L277)
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`277`](../src/subsilver/viewtopic_body.tpl#L277)

@@ -13,14 +13,10 @@ Adresse url absolue vers le popup de signalement de nouveau message privé : `/p
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`124`](../src/prosilver/overall_header.tpl#L124)[`<->`](../src/prosilver/overall_header.tpl#L124-L124)[`124`](../src/prosilver/overall_header.tpl#L124)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`124`](../src/prosilver/overall_header.tpl#L124)
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`130`](../src/subsilver/overall_header.tpl#L130)[`<->`](../src/subsilver/overall_header.tpl#L130-L130)[`130`](../src/subsilver/overall_header.tpl#L130)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`130`](../src/subsilver/overall_header.tpl#L130)
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`124`](../src/punbb/overall_header.tpl#L124)[`<->`](../src/punbb/overall_header.tpl#L124-L124)[`124`](../src/punbb/overall_header.tpl#L124)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`124`](../src/punbb/overall_header.tpl#L124)
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`39`](../src/invision/overall_header.tpl#L39)[`<->`](../src/invision/overall_header.tpl#L39-L39)[`39`](../src/invision/overall_header.tpl#L39)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`39`](../src/invision/overall_header.tpl#L39)

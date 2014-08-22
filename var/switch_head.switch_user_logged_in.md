@@ -17,6 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`3`](../src/prosilver/posting_body.tpl#L3)[`<->`](../src/prosilver/posting_body.tpl#L3-L3)[`3`](../src/prosilver/posting_body.tpl#L3)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`3`](../src/prosilver/posting_body.tpl#L3)[`<->`](../src/prosilver/posting_body.tpl#L3-L3)[`3`](../src/prosilver/posting_body.tpl#L3)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`3`](../src/prosilver/posting_body.tpl#L3), [`3`](../src/prosilver/posting_body.tpl#L3)

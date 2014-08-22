@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`438`](../src/subsilver/viewtopic_body.tpl#L438)[`<->`](../src/subsilver/viewtopic_body.tpl#L438-L438)[`438`](../src/subsilver/viewtopic_body.tpl#L438)
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`438`](../src/subsilver/viewtopic_body.tpl#L438)

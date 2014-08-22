@@ -15,18 +15,10 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/prosilver/portal_body.tpl#L21)[`<->`](../src/prosilver/portal_body.tpl#L21-L21)[`21`](../src/prosilver/portal_body.tpl#L21)
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`26`](../src/prosilver/portal_body.tpl#L26)[`<->`](../src/prosilver/portal_body.tpl#L26-L26)[`26`](../src/prosilver/portal_body.tpl#L26)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/prosilver/portal_body.tpl#L21), [`26`](../src/prosilver/portal_body.tpl#L26)
 ### Version phpBB2
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/subsilver/portal_body.tpl#L21)[`<->`](../src/subsilver/portal_body.tpl#L21-L21)[`21`](../src/subsilver/portal_body.tpl#L21)
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`27`](../src/subsilver/portal_body.tpl#L27)[`<->`](../src/subsilver/portal_body.tpl#L27-L27)[`27`](../src/subsilver/portal_body.tpl#L27)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/subsilver/portal_body.tpl#L21), [`27`](../src/subsilver/portal_body.tpl#L27)
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`26`](../src/punbb/portal_body.tpl#L26)[`<->`](../src/punbb/portal_body.tpl#L26-L26)[`26`](../src/punbb/portal_body.tpl#L26)
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`31`](../src/punbb/portal_body.tpl#L31)[`<->`](../src/punbb/portal_body.tpl#L31-L31)[`31`](../src/punbb/portal_body.tpl#L31)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`26`](../src/punbb/portal_body.tpl#L26), [`31`](../src/punbb/portal_body.tpl#L31)
 ### Version Invision
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/invision/portal_body.tpl#L21)[`<->`](../src/invision/portal_body.tpl#L21-L21)[`21`](../src/invision/portal_body.tpl#L21)
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`26`](../src/invision/portal_body.tpl#L26)[`<->`](../src/invision/portal_body.tpl#L26-L26)[`26`](../src/invision/portal_body.tpl#L26)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/invision/portal_body.tpl#L21), [`26`](../src/invision/portal_body.tpl#L26)

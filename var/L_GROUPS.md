@@ -15,14 +15,10 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`32`](../src/prosilver/memberlist_body.tpl#L32)[`<->`](../src/prosilver/memberlist_body.tpl#L32-L32)[`32`](../src/prosilver/memberlist_body.tpl#L32)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`32`](../src/prosilver/memberlist_body.tpl#L32)
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`27`](../src/subsilver/memberlist_body.tpl#L27)[`<->`](../src/subsilver/memberlist_body.tpl#L27-L27)[`27`](../src/subsilver/memberlist_body.tpl#L27)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`27`](../src/subsilver/memberlist_body.tpl#L27)
 ### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`65`](../src/punbb/memberlist_body.tpl#L65)[`<->`](../src/punbb/memberlist_body.tpl#L65-L65)[`65`](../src/punbb/memberlist_body.tpl#L65)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`65`](../src/punbb/memberlist_body.tpl#L65)
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`90`](../src/invision/memberlist_body.tpl#L90)[`<->`](../src/invision/memberlist_body.tpl#L90-L90)[`90`](../src/invision/memberlist_body.tpl#L90)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`90`](../src/invision/memberlist_body.tpl#L90)

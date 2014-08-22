@@ -17,5 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/prosilver/viewtopic_body.tpl#L117)[`<->`](../src/prosilver/viewtopic_body.tpl#L117-L117)[`117`](../src/prosilver/viewtopic_body.tpl#L117)
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/prosilver/viewtopic_body.tpl#L117)

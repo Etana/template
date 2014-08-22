@@ -21,6 +21,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`33`](../src/subsilver/topics_list_box.tpl#L33)[`<->`](../src/subsilver/topics_list_box.tpl#L33-L33)[`33`](../src/subsilver/topics_list_box.tpl#L33)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`37`](../src/subsilver/topics_list_box.tpl#L37)[`<->`](../src/subsilver/topics_list_box.tpl#L37-L37)[`37`](../src/subsilver/topics_list_box.tpl#L37)
-
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`33`](../src/subsilver/topics_list_box.tpl#L33), [`37`](../src/subsilver/topics_list_box.tpl#L37)

@@ -17,14 +17,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`32`](../src/prosilver/mod_login.tpl#L32)[`<->`](../src/prosilver/mod_login.tpl#L32-L32)[`32`](../src/prosilver/mod_login.tpl#L32)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`32`](../src/prosilver/mod_login.tpl#L32)
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`31`](../src/subsilver/mod_login.tpl#L31)[`<->`](../src/subsilver/mod_login.tpl#L31-L31)[`31`](../src/subsilver/mod_login.tpl#L31)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`31`](../src/subsilver/mod_login.tpl#L31)
 ### Version PunBB
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`27`](../src/punbb/mod_login.tpl#L27)[`<->`](../src/punbb/mod_login.tpl#L27-L27)[`27`](../src/punbb/mod_login.tpl#L27)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`27`](../src/punbb/mod_login.tpl#L27)
 ### Version Invision
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`30`](../src/invision/mod_login.tpl#L30)[`<->`](../src/invision/mod_login.tpl#L30-L30)[`30`](../src/invision/mod_login.tpl#L30)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`30`](../src/invision/mod_login.tpl#L30)

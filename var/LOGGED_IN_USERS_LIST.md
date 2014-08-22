@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`60`](../src/invision/viewforum_body.tpl#L60)[`<->`](../src/invision/viewforum_body.tpl#L60-L60)[`60`](../src/invision/viewforum_body.tpl#L60)
-
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`60`](../src/invision/viewforum_body.tpl#L60)

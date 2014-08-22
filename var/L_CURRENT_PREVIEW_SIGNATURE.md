@@ -13,11 +13,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`23`](../src/subsilver/profile_edit_signature.tpl#L23)[`<->`](../src/subsilver/profile_edit_signature.tpl#L23-L23)[`23`](../src/subsilver/profile_edit_signature.tpl#L23)
-
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`23`](../src/subsilver/profile_edit_signature.tpl#L23)
 ### Version PunBB
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`27`](../src/punbb/profile_edit_signature.tpl#L27)[`<->`](../src/punbb/profile_edit_signature.tpl#L27-L27)[`27`](../src/punbb/profile_edit_signature.tpl#L27)
-
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`27`](../src/punbb/profile_edit_signature.tpl#L27)
 ### Version Invision
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`22`](../src/invision/profile_edit_signature.tpl#L22)[`<->`](../src/invision/profile_edit_signature.tpl#L22-L22)[`22`](../src/invision/profile_edit_signature.tpl#L22)
-
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`22`](../src/invision/profile_edit_signature.tpl#L22)

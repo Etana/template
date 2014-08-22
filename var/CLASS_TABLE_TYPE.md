@@ -13,5 +13,4 @@ Ajoute une class `row1` aux widgets personnalisés.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`12`](../src/subsilver/standard.tpl#L12)[`<->`](../src/subsilver/standard.tpl#L12-L12)[`12`](../src/subsilver/standard.tpl#L12)
-
+* __[`standard`](../tpl/standard.md#readme) :__ lignes [`12`](../src/subsilver/standard.tpl#L12)

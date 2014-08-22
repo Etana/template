@@ -17,6 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`51`](../src/punbb/viewtopic_body.tpl#L51)[`<->`](../src/punbb/viewtopic_body.tpl#L51-L51)[`51`](../src/punbb/viewtopic_body.tpl#L51)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`64`](../src/punbb/viewtopic_body.tpl#L64)[`<->`](../src/punbb/viewtopic_body.tpl#L64-L64)[`64`](../src/punbb/viewtopic_body.tpl#L64)
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`51`](../src/punbb/viewtopic_body.tpl#L51), [`64`](../src/punbb/viewtopic_body.tpl#L64)

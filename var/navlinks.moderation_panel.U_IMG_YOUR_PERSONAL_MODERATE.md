@@ -17,5 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`202`](../src/invision/album_cat_body.tpl#L202)[`<->`](../src/invision/album_cat_body.tpl#L202-L202)[`202`](../src/invision/album_cat_body.tpl#L202)
-
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`202`](../src/invision/album_cat_body.tpl#L202)

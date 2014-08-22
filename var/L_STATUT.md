@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`18`](../src/prosilver/profile_view_body.tpl#L18)[`<->`](../src/prosilver/profile_view_body.tpl#L18-L18)[`18`](../src/prosilver/profile_view_body.tpl#L18)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`18`](../src/prosilver/profile_view_body.tpl#L18)
 ### Version phpBB2
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`28`](../src/subsilver/profile_view_body.tpl#L28)[`<->`](../src/subsilver/profile_view_body.tpl#L28-L28)[`28`](../src/subsilver/profile_view_body.tpl#L28)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`28`](../src/subsilver/profile_view_body.tpl#L28)
 ### Version PunBB
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`29`](../src/punbb/profile_view_body.tpl#L29)[`<->`](../src/punbb/profile_view_body.tpl#L29-L29)[`29`](../src/punbb/profile_view_body.tpl#L29)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`29`](../src/punbb/profile_view_body.tpl#L29)
 ### Version Invision
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`46`](../src/invision/profile_view_body.tpl#L46)[`<->`](../src/invision/profile_view_body.tpl#L46-L46)[`46`](../src/invision/profile_view_body.tpl#L46)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`46`](../src/invision/profile_view_body.tpl#L46)

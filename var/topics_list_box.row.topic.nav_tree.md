@@ -21,10 +21,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`109`](../src/prosilver/topics_list_box.tpl#L109)[`<->`](../src/prosilver/topics_list_box.tpl#L109-L109)[`109`](../src/prosilver/topics_list_box.tpl#L109)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`109`](../src/prosilver/topics_list_box.tpl#L109)[`<->`](../src/prosilver/topics_list_box.tpl#L109-L109)[`109`](../src/prosilver/topics_list_box.tpl#L109)
-
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`109`](../src/prosilver/topics_list_box.tpl#L109), [`109`](../src/prosilver/topics_list_box.tpl#L109)
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/subsilver/topics_list_box.tpl#L69)[`<->`](../src/subsilver/topics_list_box.tpl#L69-L69)[`69`](../src/subsilver/topics_list_box.tpl#L69)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/subsilver/topics_list_box.tpl#L69)[`<->`](../src/subsilver/topics_list_box.tpl#L69-L69)[`69`](../src/subsilver/topics_list_box.tpl#L69)
-
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/subsilver/topics_list_box.tpl#L69), [`69`](../src/subsilver/topics_list_box.tpl#L69)

@@ -27,6 +27,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`58`](../src/subsilver/calendar_box.tpl#L58)[`<->`](../src/subsilver/calendar_box.tpl#L58-L58)[`58`](../src/subsilver/calendar_box.tpl#L58)
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`60`](../src/subsilver/calendar_box.tpl#L60)[`<->`](../src/subsilver/calendar_box.tpl#L60-L60)[`60`](../src/subsilver/calendar_box.tpl#L60)
-
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`58`](../src/subsilver/calendar_box.tpl#L58), [`60`](../src/subsilver/calendar_box.tpl#L60)

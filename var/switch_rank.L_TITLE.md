@@ -15,14 +15,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`3`](../src/prosilver/album_overview_top10.tpl#L3)[`<->`](../src/prosilver/album_overview_top10.tpl#L3-L3)[`3`](../src/prosilver/album_overview_top10.tpl#L3)
-
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`3`](../src/prosilver/album_overview_top10.tpl#L3)
 ### Version phpBB2
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`4`](../src/subsilver/album_overview_top10.tpl#L4)[`<->`](../src/subsilver/album_overview_top10.tpl#L4-L4)[`4`](../src/subsilver/album_overview_top10.tpl#L4)
-
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`4`](../src/subsilver/album_overview_top10.tpl#L4)
 ### Version PunBB
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`8`](../src/punbb/album_overview_top10.tpl#L8)[`<->`](../src/punbb/album_overview_top10.tpl#L8-L8)[`8`](../src/punbb/album_overview_top10.tpl#L8)
-
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`8`](../src/punbb/album_overview_top10.tpl#L8)
 ### Version Invision
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`9`](../src/invision/album_overview_top10.tpl#L9)[`<->`](../src/invision/album_overview_top10.tpl#L9-L9)[`9`](../src/invision/album_overview_top10.tpl#L9)
-
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`9`](../src/invision/album_overview_top10.tpl#L9)

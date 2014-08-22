@@ -15,10 +15,6 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`49`](../src/punbb/search_body.tpl#L49)[`<->`](../src/punbb/search_body.tpl#L49-L49)[`49`](../src/punbb/search_body.tpl#L49)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`51`](../src/punbb/search_body.tpl#L51)[`<->`](../src/punbb/search_body.tpl#L51-L51)[`51`](../src/punbb/search_body.tpl#L51)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`49`](../src/punbb/search_body.tpl#L49), [`51`](../src/punbb/search_body.tpl#L51)
 ### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`31`](../src/invision/search_body.tpl#L31)[`<->`](../src/invision/search_body.tpl#L31-L31)[`31`](../src/invision/search_body.tpl#L31)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`33`](../src/invision/search_body.tpl#L33)[`<->`](../src/invision/search_body.tpl#L33-L33)[`33`](../src/invision/search_body.tpl#L33)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`31`](../src/invision/search_body.tpl#L31), [`33`](../src/invision/search_body.tpl#L33)

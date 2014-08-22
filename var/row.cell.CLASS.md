@@ -17,5 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`41`](../src/subsilver/calendar_scheduler_body.tpl#L41)[`<->`](../src/subsilver/calendar_scheduler_body.tpl#L41-L41)[`41`](../src/subsilver/calendar_scheduler_body.tpl#L41)
-
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`41`](../src/subsilver/calendar_scheduler_body.tpl#L41)

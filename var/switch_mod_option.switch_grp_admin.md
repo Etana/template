@@ -17,18 +17,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`101`](../src/prosilver/groupcp_info_body.tpl#L101)[`<->`](../src/prosilver/groupcp_info_body.tpl#L101-L101)[`101`](../src/prosilver/groupcp_info_body.tpl#L101)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`103`](../src/prosilver/groupcp_info_body.tpl#L103)[`<->`](../src/prosilver/groupcp_info_body.tpl#L103-L103)[`103`](../src/prosilver/groupcp_info_body.tpl#L103)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`101`](../src/prosilver/groupcp_info_body.tpl#L101), [`103`](../src/prosilver/groupcp_info_body.tpl#L103)
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`86`](../src/subsilver/groupcp_info_body.tpl#L86)[`<->`](../src/subsilver/groupcp_info_body.tpl#L86-L86)[`86`](../src/subsilver/groupcp_info_body.tpl#L86)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`92`](../src/subsilver/groupcp_info_body.tpl#L92)[`<->`](../src/subsilver/groupcp_info_body.tpl#L92-L92)[`92`](../src/subsilver/groupcp_info_body.tpl#L92)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`86`](../src/subsilver/groupcp_info_body.tpl#L86), [`92`](../src/subsilver/groupcp_info_body.tpl#L92)
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`130`](../src/punbb/groupcp_info_body.tpl#L130)[`<->`](../src/punbb/groupcp_info_body.tpl#L130-L130)[`130`](../src/punbb/groupcp_info_body.tpl#L130)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`132`](../src/punbb/groupcp_info_body.tpl#L132)[`<->`](../src/punbb/groupcp_info_body.tpl#L132-L132)[`132`](../src/punbb/groupcp_info_body.tpl#L132)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`130`](../src/punbb/groupcp_info_body.tpl#L130), [`132`](../src/punbb/groupcp_info_body.tpl#L132)
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`106`](../src/invision/groupcp_info_body.tpl#L106)[`<->`](../src/invision/groupcp_info_body.tpl#L106-L106)[`106`](../src/invision/groupcp_info_body.tpl#L106)
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`108`](../src/invision/groupcp_info_body.tpl#L108)[`<->`](../src/invision/groupcp_info_body.tpl#L108-L108)[`108`](../src/invision/groupcp_info_body.tpl#L108)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`106`](../src/invision/groupcp_info_body.tpl#L106), [`108`](../src/invision/groupcp_info_body.tpl#L108)

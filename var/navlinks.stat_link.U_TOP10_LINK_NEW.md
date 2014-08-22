@@ -17,8 +17,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`170`](../src/prosilver/album_cat_body.tpl#L170)[`<->`](../src/prosilver/album_cat_body.tpl#L170-L170)[`170`](../src/prosilver/album_cat_body.tpl#L170)
-
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`170`](../src/prosilver/album_cat_body.tpl#L170)
 ### Version PunBB
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`164`](../src/punbb/album_cat_body.tpl#L164)[`<->`](../src/punbb/album_cat_body.tpl#L164-L164)[`164`](../src/punbb/album_cat_body.tpl#L164)
-
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`164`](../src/punbb/album_cat_body.tpl#L164)

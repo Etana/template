@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`60`](../src/prosilver/album_nuffimage_box.tpl#L60)[`<->`](../src/prosilver/album_nuffimage_box.tpl#L60-L60)[`60`](../src/prosilver/album_nuffimage_box.tpl#L60)
-
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`60`](../src/prosilver/album_nuffimage_box.tpl#L60)
 ### Version phpBB2
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`91`](../src/subsilver/album_nuffimage_box.tpl#L91)[`<->`](../src/subsilver/album_nuffimage_box.tpl#L91-L91)[`91`](../src/subsilver/album_nuffimage_box.tpl#L91)
-
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`91`](../src/subsilver/album_nuffimage_box.tpl#L91)
 ### Version PunBB
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`37`](../src/punbb/album_nuffimage_box.tpl#L37)[`<->`](../src/punbb/album_nuffimage_box.tpl#L37-L37)[`37`](../src/punbb/album_nuffimage_box.tpl#L37)
-
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`37`](../src/punbb/album_nuffimage_box.tpl#L37)
 ### Version Invision
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`37`](../src/invision/album_nuffimage_box.tpl#L37)[`<->`](../src/invision/album_nuffimage_box.tpl#L37-L37)[`37`](../src/invision/album_nuffimage_box.tpl#L37)
-
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`37`](../src/invision/album_nuffimage_box.tpl#L37)

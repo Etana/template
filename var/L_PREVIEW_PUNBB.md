@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_preview`](../tpl/posting_preview.md#readme) :__ lignes [`8`](../src/punbb/posting_preview.tpl#L8)[`<->`](../src/punbb/posting_preview.tpl#L8-L8)[`8`](../src/punbb/posting_preview.tpl#L8)
-
+* __[`posting_preview`](../tpl/posting_preview.md#readme) :__ lignes [`8`](../src/punbb/posting_preview.tpl#L8)

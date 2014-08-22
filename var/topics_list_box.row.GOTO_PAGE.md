@@ -25,5 +25,4 @@ L'image utilisée est celle spécifiée pour `Mini sujet` dans [`Index`](http://
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/subsilver/topics_list_box.tpl#L69)[`<->`](../src/subsilver/topics_list_box.tpl#L69-L69)[`69`](../src/subsilver/topics_list_box.tpl#L69)
-
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/subsilver/topics_list_box.tpl#L69)

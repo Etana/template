@@ -15,18 +15,10 @@ Cette boucle s'affiche automatiquement si nécessaire.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/prosilver/overall_header.tpl#L11)[`<->`](../src/prosilver/overall_header.tpl#L11-L11)[`11`](../src/prosilver/overall_header.tpl#L11)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`13`](../src/prosilver/overall_header.tpl#L13)[`<->`](../src/prosilver/overall_header.tpl#L13-L13)[`13`](../src/prosilver/overall_header.tpl#L13)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/prosilver/overall_header.tpl#L11), [`13`](../src/prosilver/overall_header.tpl#L13)
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/subsilver/overall_header.tpl#L11)[`<->`](../src/subsilver/overall_header.tpl#L11-L11)[`11`](../src/subsilver/overall_header.tpl#L11)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`13`](../src/subsilver/overall_header.tpl#L13)[`<->`](../src/subsilver/overall_header.tpl#L13-L13)[`13`](../src/subsilver/overall_header.tpl#L13)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/subsilver/overall_header.tpl#L11), [`13`](../src/subsilver/overall_header.tpl#L13)
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/punbb/overall_header.tpl#L11)[`<->`](../src/punbb/overall_header.tpl#L11-L11)[`11`](../src/punbb/overall_header.tpl#L11)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`13`](../src/punbb/overall_header.tpl#L13)[`<->`](../src/punbb/overall_header.tpl#L13-L13)[`13`](../src/punbb/overall_header.tpl#L13)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/punbb/overall_header.tpl#L11), [`13`](../src/punbb/overall_header.tpl#L13)
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/invision/overall_header.tpl#L11)[`<->`](../src/invision/overall_header.tpl#L11-L11)[`11`](../src/invision/overall_header.tpl#L11)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`13`](../src/invision/overall_header.tpl#L13)[`<->`](../src/invision/overall_header.tpl#L13-L13)[`13`](../src/invision/overall_header.tpl#L13)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/invision/overall_header.tpl#L11), [`13`](../src/invision/overall_header.tpl#L13)

@@ -13,14 +13,10 @@ Image des nouveaux messages dans des sujets verrouillés définie dans `PA > Aff
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`85`](../src/prosilver/viewforum_body.tpl#L85)[`<->`](../src/prosilver/viewforum_body.tpl#L85-L85)[`85`](../src/prosilver/viewforum_body.tpl#L85)
-
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`85`](../src/prosilver/viewforum_body.tpl#L85)
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`100`](../src/subsilver/viewforum_body.tpl#L100)[`<->`](../src/subsilver/viewforum_body.tpl#L100-L100)[`100`](../src/subsilver/viewforum_body.tpl#L100)
-
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`100`](../src/subsilver/viewforum_body.tpl#L100)
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`68`](../src/punbb/viewforum_body.tpl#L68)[`<->`](../src/punbb/viewforum_body.tpl#L68-L68)[`68`](../src/punbb/viewforum_body.tpl#L68)
-
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`68`](../src/punbb/viewforum_body.tpl#L68)
 ### Version Invision
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`75`](../src/invision/viewforum_body.tpl#L75)[`<->`](../src/invision/viewforum_body.tpl#L75-L75)[`75`](../src/invision/viewforum_body.tpl#L75)
-
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`75`](../src/invision/viewforum_body.tpl#L75)

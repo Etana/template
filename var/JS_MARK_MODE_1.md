@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`91`](../src/prosilver/report_list_body.tpl#L91)[`<->`](../src/prosilver/report_list_body.tpl#L91-L91)[`91`](../src/prosilver/report_list_body.tpl#L91)
-
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`91`](../src/prosilver/report_list_body.tpl#L91)
 ### Version phpBB2
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`68`](../src/subsilver/report_list_body.tpl#L68)[`<->`](../src/subsilver/report_list_body.tpl#L68-L68)[`68`](../src/subsilver/report_list_body.tpl#L68)
-
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`68`](../src/subsilver/report_list_body.tpl#L68)
 ### Version PunBB
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`103`](../src/punbb/report_list_body.tpl#L103)[`<->`](../src/punbb/report_list_body.tpl#L103-L103)[`103`](../src/punbb/report_list_body.tpl#L103)
-
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`103`](../src/punbb/report_list_body.tpl#L103)
 ### Version Invision
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`85`](../src/invision/report_list_body.tpl#L85)[`<->`](../src/invision/report_list_body.tpl#L85-L85)[`85`](../src/invision/report_list_body.tpl#L85)
-
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`85`](../src/invision/report_list_body.tpl#L85)

@@ -20,14 +20,10 @@ Image `E-mail` ( choisie dans [`Index`](http://votre-forum.appspot.com/#/admin/,
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`69`](../src/prosilver/groupcp_info_body.tpl#L69)[`<->`](../src/prosilver/groupcp_info_body.tpl#L69-L69)[`69`](../src/prosilver/groupcp_info_body.tpl#L69)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`69`](../src/prosilver/groupcp_info_body.tpl#L69)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`57`](../src/subsilver/groupcp_info_body.tpl#L57)[`<->`](../src/subsilver/groupcp_info_body.tpl#L57-L57)[`57`](../src/subsilver/groupcp_info_body.tpl#L57)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`57`](../src/subsilver/groupcp_info_body.tpl#L57)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`97`](../src/punbb/groupcp_info_body.tpl#L97)[`<->`](../src/punbb/groupcp_info_body.tpl#L97-L97)[`97`](../src/punbb/groupcp_info_body.tpl#L97)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`97`](../src/punbb/groupcp_info_body.tpl#L97)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`73`](../src/invision/groupcp_info_body.tpl#L73)[`<->`](../src/invision/groupcp_info_body.tpl#L73-L73)[`73`](../src/invision/groupcp_info_body.tpl#L73)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`73`](../src/invision/groupcp_info_body.tpl#L73)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 

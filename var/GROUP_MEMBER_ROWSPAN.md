@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`8`](../src/subsilver/groupcp_user_body.tpl#L8)[`<->`](../src/subsilver/groupcp_user_body.tpl#L8-L8)[`8`](../src/subsilver/groupcp_user_body.tpl#L8)
-
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`8`](../src/subsilver/groupcp_user_body.tpl#L8)

@@ -15,14 +15,10 @@ Contient la date du dernier message posté dans le sujet.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`45`](../src/prosilver/search_results_topics.tpl#L45)[`<->`](../src/prosilver/search_results_topics.tpl#L45-L45)[`45`](../src/prosilver/search_results_topics.tpl#L45)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`45`](../src/prosilver/search_results_topics.tpl#L45)
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`46`](../src/subsilver/search_results_topics.tpl#L46)[`<->`](../src/subsilver/search_results_topics.tpl#L46-L46)[`46`](../src/subsilver/search_results_topics.tpl#L46)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`46`](../src/subsilver/search_results_topics.tpl#L46)
 ### Version PunBB
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/punbb/search_results_topics.tpl#L62)[`<->`](../src/punbb/search_results_topics.tpl#L62-L62)[`62`](../src/punbb/search_results_topics.tpl#L62)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/punbb/search_results_topics.tpl#L62)
 ### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`52`](../src/invision/search_results_topics.tpl#L52)[`<->`](../src/invision/search_results_topics.tpl#L52-L52)[`52`](../src/invision/search_results_topics.tpl#L52)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`52`](../src/invision/search_results_topics.tpl#L52)

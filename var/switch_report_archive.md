@@ -15,14 +15,8 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`8`](../src/prosilver/report_view_body.tpl#L8)[`<->`](../src/prosilver/report_view_body.tpl#L8-L8)[`8`](../src/prosilver/report_view_body.tpl#L8)
-* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`10`](../src/prosilver/report_view_body.tpl#L10)[`<->`](../src/prosilver/report_view_body.tpl#L10-L10)[`10`](../src/prosilver/report_view_body.tpl#L10)
-
+* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`8`](../src/prosilver/report_view_body.tpl#L8), [`10`](../src/prosilver/report_view_body.tpl#L10)
 ### Version phpBB2
-* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`2`](../src/subsilver/report_view_body.tpl#L2)[`<->`](../src/subsilver/report_view_body.tpl#L2-L2)[`2`](../src/subsilver/report_view_body.tpl#L2)
-* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`4`](../src/subsilver/report_view_body.tpl#L4)[`<->`](../src/subsilver/report_view_body.tpl#L4-L4)[`4`](../src/subsilver/report_view_body.tpl#L4)
-
+* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`2`](../src/subsilver/report_view_body.tpl#L2), [`4`](../src/subsilver/report_view_body.tpl#L4)
 ### Version PunBB
-* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`19`](../src/punbb/report_view_body.tpl#L19)[`<->`](../src/punbb/report_view_body.tpl#L19-L19)[`19`](../src/punbb/report_view_body.tpl#L19)
-* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`21`](../src/punbb/report_view_body.tpl#L21)[`<->`](../src/punbb/report_view_body.tpl#L21-L21)[`21`](../src/punbb/report_view_body.tpl#L21)
-
+* __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`19`](../src/punbb/report_view_body.tpl#L19), [`21`](../src/punbb/report_view_body.tpl#L21)

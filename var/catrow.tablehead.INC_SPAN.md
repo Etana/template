@@ -17,5 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`22`](../src/subsilver/index_box.tpl#L22)[`<->`](../src/subsilver/index_box.tpl#L22-L22)[`22`](../src/subsilver/index_box.tpl#L22)
-
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`22`](../src/subsilver/index_box.tpl#L22)

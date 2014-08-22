@@ -13,6 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`error_body`](../tpl/error_body.md#readme) :__ lignes [`3`](../src/invision/error_body.tpl#L3)[`<->`](../src/invision/error_body.tpl#L3-L3)[`3`](../src/invision/error_body.tpl#L3)
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`9`](../src/invision/profile_edit_signature.tpl#L9)[`<->`](../src/invision/profile_edit_signature.tpl#L9-L9)[`9`](../src/invision/profile_edit_signature.tpl#L9)
-
+* __[`error_body`](../tpl/error_body.md#readme) :__ lignes [`3`](../src/invision/error_body.tpl#L3)* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`9`](../src/invision/profile_edit_signature.tpl#L9)

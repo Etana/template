@@ -21,5 +21,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`154`](../src/subsilver/album_cat_body.tpl#L154)[`<->`](../src/subsilver/album_cat_body.tpl#L154-L154)[`154`](../src/subsilver/album_cat_body.tpl#L154)
-
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`154`](../src/subsilver/album_cat_body.tpl#L154)

@@ -15,6 +15,4 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`simple_footer`](../tpl/simple_footer.md#readme) :__ lignes [`14`](../src/subsilver/simple_footer.tpl#L14)[`<->`](../src/subsilver/simple_footer.tpl#L14-L14)[`14`](../src/subsilver/simple_footer.tpl#L14)
-* __[`simple_footer`](../tpl/simple_footer.md#readme) :__ lignes [`16`](../src/subsilver/simple_footer.tpl#L16)[`<->`](../src/subsilver/simple_footer.tpl#L16-L16)[`16`](../src/subsilver/simple_footer.tpl#L16)
-
+* __[`simple_footer`](../tpl/simple_footer.md#readme) :__ lignes [`14`](../src/subsilver/simple_footer.tpl#L14), [`16`](../src/subsilver/simple_footer.tpl#L16)

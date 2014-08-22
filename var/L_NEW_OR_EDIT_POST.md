@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`19`](../src/punbb/posting_body.tpl#L19)[`<->`](../src/punbb/posting_body.tpl#L19-L19)[`19`](../src/punbb/posting_body.tpl#L19)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`19`](../src/punbb/posting_body.tpl#L19)

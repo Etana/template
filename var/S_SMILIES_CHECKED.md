@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`338`](../src/prosilver/posting_body.tpl#L338)[`<->`](../src/prosilver/posting_body.tpl#L338-L338)[`338`](../src/prosilver/posting_body.tpl#L338)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`338`](../src/prosilver/posting_body.tpl#L338)
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`510`](../src/subsilver/posting_body.tpl#L510)[`<->`](../src/subsilver/posting_body.tpl#L510-L510)[`510`](../src/subsilver/posting_body.tpl#L510)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`510`](../src/subsilver/posting_body.tpl#L510)
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`327`](../src/punbb/posting_body.tpl#L327)[`<->`](../src/punbb/posting_body.tpl#L327-L327)[`327`](../src/punbb/posting_body.tpl#L327)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`327`](../src/punbb/posting_body.tpl#L327)
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`244`](../src/invision/posting_body.tpl#L244)[`<->`](../src/invision/posting_body.tpl#L244-L244)[`244`](../src/invision/posting_body.tpl#L244)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`244`](../src/invision/posting_body.tpl#L244)

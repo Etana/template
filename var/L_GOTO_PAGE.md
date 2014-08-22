@@ -15,10 +15,10 @@ Texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
 ### Version phpBB2
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
 ### Version PunBB
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
 ### Version Invision
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 

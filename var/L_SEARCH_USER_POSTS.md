@@ -13,11 +13,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`37`](../src/prosilver/profile_view_body.tpl#L37)[`<->`](../src/prosilver/profile_view_body.tpl#L37-L37)[`37`](../src/prosilver/profile_view_body.tpl#L37)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`37`](../src/prosilver/profile_view_body.tpl#L37)
 ### Version phpBB2
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`62`](../src/subsilver/profile_view_body.tpl#L62)[`<->`](../src/subsilver/profile_view_body.tpl#L62-L62)[`62`](../src/subsilver/profile_view_body.tpl#L62)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`62`](../src/subsilver/profile_view_body.tpl#L62)
 ### Version PunBB
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`45`](../src/punbb/profile_view_body.tpl#L45)[`<->`](../src/punbb/profile_view_body.tpl#L45-L45)[`45`](../src/punbb/profile_view_body.tpl#L45)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`45`](../src/punbb/profile_view_body.tpl#L45)

@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`267`](../src/prosilver/overall_header.tpl#L267)[`<->`](../src/prosilver/overall_header.tpl#L267-L267)[`267`](../src/prosilver/overall_header.tpl#L267)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`267`](../src/prosilver/overall_header.tpl#L267)

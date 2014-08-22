@@ -15,6 +15,4 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`274`](../src/subsilver/viewtopic_body.tpl#L274)[`<->`](../src/subsilver/viewtopic_body.tpl#L274-L274)[`274`](../src/subsilver/viewtopic_body.tpl#L274)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`280`](../src/subsilver/viewtopic_body.tpl#L280)[`<->`](../src/subsilver/viewtopic_body.tpl#L280-L280)[`280`](../src/subsilver/viewtopic_body.tpl#L280)
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`274`](../src/subsilver/viewtopic_body.tpl#L274), [`280`](../src/subsilver/viewtopic_body.tpl#L280)

@@ -13,11 +13,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`66`](../src/prosilver/profile_view_body.tpl#L66)[`<->`](../src/prosilver/profile_view_body.tpl#L66-L66)[`66`](../src/prosilver/profile_view_body.tpl#L66)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`66`](../src/prosilver/profile_view_body.tpl#L66)
 ### Version PunBB
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`69`](../src/punbb/profile_view_body.tpl#L69)[`<->`](../src/punbb/profile_view_body.tpl#L69-L69)[`69`](../src/punbb/profile_view_body.tpl#L69)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`69`](../src/punbb/profile_view_body.tpl#L69)
 ### Version Invision
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`86`](../src/invision/profile_view_body.tpl#L86)[`<->`](../src/invision/profile_view_body.tpl#L86-L86)[`86`](../src/invision/profile_view_body.tpl#L86)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`86`](../src/invision/profile_view_body.tpl#L86)

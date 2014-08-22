@@ -23,14 +23,10 @@ Texte contenant une phrase avec votre statut par rapport au groupe.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`20`](../src/prosilver/groupcp_info_body.tpl#L20)[`<->`](../src/prosilver/groupcp_info_body.tpl#L20-L20)[`20`](../src/prosilver/groupcp_info_body.tpl#L20)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`20`](../src/prosilver/groupcp_info_body.tpl#L20)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`17`](../src/subsilver/groupcp_info_body.tpl#L17)[`<->`](../src/subsilver/groupcp_info_body.tpl#L17-L17)[`17`](../src/subsilver/groupcp_info_body.tpl#L17)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`17`](../src/subsilver/groupcp_info_body.tpl#L17)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`44`](../src/punbb/groupcp_info_body.tpl#L44)[`<->`](../src/punbb/groupcp_info_body.tpl#L44-L44)[`44`](../src/punbb/groupcp_info_body.tpl#L44)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`44`](../src/punbb/groupcp_info_body.tpl#L44)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`24`](../src/invision/groupcp_info_body.tpl#L24)[`<->`](../src/invision/groupcp_info_body.tpl#L24-L24)[`24`](../src/invision/groupcp_info_body.tpl#L24)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`24`](../src/invision/groupcp_info_body.tpl#L24)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 

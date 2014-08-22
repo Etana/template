@@ -17,6 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`76`](../src/invision/memberlist_body.tpl#L76)[`<->`](../src/invision/memberlist_body.tpl#L76-L76)[`76`](../src/invision/memberlist_body.tpl#L76)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`78`](../src/invision/memberlist_body.tpl#L78)[`<->`](../src/invision/memberlist_body.tpl#L78-L78)[`78`](../src/invision/memberlist_body.tpl#L78)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`76`](../src/invision/memberlist_body.tpl#L76), [`78`](../src/invision/memberlist_body.tpl#L78)

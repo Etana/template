@@ -16,5 +16,4 @@ Chaîne de caractère.
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`4`](../src/invision/memberlist_body.tpl#L4)[`<->`](../src/invision/memberlist_body.tpl#L4-L4)[`4`](../src/invision/memberlist_body.tpl#L4)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`4`](../src/invision/memberlist_body.tpl#L4)

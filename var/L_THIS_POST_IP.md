@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`37`](../src/prosilver/modcp_viewip.tpl#L37)[`<->`](../src/prosilver/modcp_viewip.tpl#L37-L37)[`37`](../src/prosilver/modcp_viewip.tpl#L37)
-
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`37`](../src/prosilver/modcp_viewip.tpl#L37)
 ### Version phpBB2
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`33`](../src/subsilver/modcp_viewip.tpl#L33)[`<->`](../src/subsilver/modcp_viewip.tpl#L33-L33)[`33`](../src/subsilver/modcp_viewip.tpl#L33)
-
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`33`](../src/subsilver/modcp_viewip.tpl#L33)
 ### Version PunBB
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`57`](../src/punbb/modcp_viewip.tpl#L57)[`<->`](../src/punbb/modcp_viewip.tpl#L57-L57)[`57`](../src/punbb/modcp_viewip.tpl#L57)
-
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`57`](../src/punbb/modcp_viewip.tpl#L57)
 ### Version Invision
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`36`](../src/invision/modcp_viewip.tpl#L36)[`<->`](../src/invision/modcp_viewip.tpl#L36-L36)[`36`](../src/invision/modcp_viewip.tpl#L36)
-
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`36`](../src/invision/modcp_viewip.tpl#L36)

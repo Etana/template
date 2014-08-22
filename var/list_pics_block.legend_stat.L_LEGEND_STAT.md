@@ -17,14 +17,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`29`](../src/prosilver/album_cat_top10.tpl#L29)[`<->`](../src/prosilver/album_cat_top10.tpl#L29-L29)[`29`](../src/prosilver/album_cat_top10.tpl#L29)
-
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`29`](../src/prosilver/album_cat_top10.tpl#L29)
 ### Version phpBB2
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`24`](../src/subsilver/album_cat_top10.tpl#L24)[`<->`](../src/subsilver/album_cat_top10.tpl#L24-L24)[`24`](../src/subsilver/album_cat_top10.tpl#L24)
-
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`24`](../src/subsilver/album_cat_top10.tpl#L24)
 ### Version PunBB
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`37`](../src/punbb/album_cat_top10.tpl#L37)[`<->`](../src/punbb/album_cat_top10.tpl#L37-L37)[`37`](../src/punbb/album_cat_top10.tpl#L37)
-
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`37`](../src/punbb/album_cat_top10.tpl#L37)
 ### Version Invision
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`24`](../src/invision/album_cat_top10.tpl#L24)[`<->`](../src/invision/album_cat_top10.tpl#L24-L24)[`24`](../src/invision/album_cat_top10.tpl#L24)
-
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`24`](../src/invision/album_cat_top10.tpl#L24)

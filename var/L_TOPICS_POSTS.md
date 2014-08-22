@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`24`](../src/invision/profile_view_body.tpl#L24)[`<->`](../src/invision/profile_view_body.tpl#L24-L24)[`24`](../src/invision/profile_view_body.tpl#L24)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`24`](../src/invision/profile_view_body.tpl#L24)

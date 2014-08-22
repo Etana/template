@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`18`](../src/prosilver/calendar_scheduler_body.tpl#L18)[`<->`](../src/prosilver/calendar_scheduler_body.tpl#L18-L18)[`18`](../src/prosilver/calendar_scheduler_body.tpl#L18)
-
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`18`](../src/prosilver/calendar_scheduler_body.tpl#L18)
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`26`](../src/subsilver/calendar_scheduler_body.tpl#L26)[`<->`](../src/subsilver/calendar_scheduler_body.tpl#L26-L26)[`26`](../src/subsilver/calendar_scheduler_body.tpl#L26)
-
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`26`](../src/subsilver/calendar_scheduler_body.tpl#L26)
 ### Version PunBB
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`32`](../src/punbb/calendar_scheduler_body.tpl#L32)[`<->`](../src/punbb/calendar_scheduler_body.tpl#L32-L32)[`32`](../src/punbb/calendar_scheduler_body.tpl#L32)
-
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`32`](../src/punbb/calendar_scheduler_body.tpl#L32)
 ### Version Invision
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`13`](../src/invision/calendar_scheduler_body.tpl#L13)[`<->`](../src/invision/calendar_scheduler_body.tpl#L13-L13)[`13`](../src/invision/calendar_scheduler_body.tpl#L13)
-
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`13`](../src/invision/calendar_scheduler_body.tpl#L13)

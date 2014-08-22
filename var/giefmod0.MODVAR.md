@@ -15,14 +15,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`4`](../src/prosilver/portal_body.tpl#L4)[`<->`](../src/prosilver/portal_body.tpl#L4-L4)[`4`](../src/prosilver/portal_body.tpl#L4)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`4`](../src/prosilver/portal_body.tpl#L4)
 ### Version phpBB2
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`3`](../src/subsilver/portal_body.tpl#L3)[`<->`](../src/subsilver/portal_body.tpl#L3-L3)[`3`](../src/subsilver/portal_body.tpl#L3)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`3`](../src/subsilver/portal_body.tpl#L3)
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`16`](../src/punbb/portal_body.tpl#L16)[`<->`](../src/punbb/portal_body.tpl#L16-L16)[`16`](../src/punbb/portal_body.tpl#L16)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`16`](../src/punbb/portal_body.tpl#L16)
 ### Version Invision
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`4`](../src/invision/portal_body.tpl#L4)[`<->`](../src/invision/portal_body.tpl#L4-L4)[`4`](../src/invision/portal_body.tpl#L4)
-
+* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`4`](../src/invision/portal_body.tpl#L4)

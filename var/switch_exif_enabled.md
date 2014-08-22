@@ -15,6 +15,4 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`357`](../src/subsilver/album_showpage_body.tpl#L357)[`<->`](../src/subsilver/album_showpage_body.tpl#L357-L357)[`357`](../src/subsilver/album_showpage_body.tpl#L357)
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`372`](../src/subsilver/album_showpage_body.tpl#L372)[`<->`](../src/subsilver/album_showpage_body.tpl#L372-L372)[`372`](../src/subsilver/album_showpage_body.tpl#L372)
-
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`357`](../src/subsilver/album_showpage_body.tpl#L357), [`372`](../src/subsilver/album_showpage_body.tpl#L372)

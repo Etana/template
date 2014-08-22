@@ -17,18 +17,10 @@ Boucle liée à <!-- BEGIN google_analytics_code -->...<!-- END google_analytics
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`196`](../src/prosilver/overall_header.tpl#L196)[`<->`](../src/prosilver/overall_header.tpl#L196-L196)[`196`](../src/prosilver/overall_header.tpl#L196)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`199`](../src/prosilver/overall_header.tpl#L199)[`<->`](../src/prosilver/overall_header.tpl#L199-L199)[`199`](../src/prosilver/overall_header.tpl#L199)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`196`](../src/prosilver/overall_header.tpl#L196), [`199`](../src/prosilver/overall_header.tpl#L199)
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`195`](../src/subsilver/overall_header.tpl#L195)[`<->`](../src/subsilver/overall_header.tpl#L195-L195)[`195`](../src/subsilver/overall_header.tpl#L195)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`198`](../src/subsilver/overall_header.tpl#L198)[`<->`](../src/subsilver/overall_header.tpl#L198-L198)[`198`](../src/subsilver/overall_header.tpl#L198)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`195`](../src/subsilver/overall_header.tpl#L195), [`198`](../src/subsilver/overall_header.tpl#L198)
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`189`](../src/punbb/overall_header.tpl#L189)[`<->`](../src/punbb/overall_header.tpl#L189-L189)[`189`](../src/punbb/overall_header.tpl#L189)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`192`](../src/punbb/overall_header.tpl#L192)[`<->`](../src/punbb/overall_header.tpl#L192-L192)[`192`](../src/punbb/overall_header.tpl#L192)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`189`](../src/punbb/overall_header.tpl#L189), [`192`](../src/punbb/overall_header.tpl#L192)
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`192`](../src/invision/overall_header.tpl#L192)[`<->`](../src/invision/overall_header.tpl#L192-L192)[`192`](../src/invision/overall_header.tpl#L192)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`195`](../src/invision/overall_header.tpl#L195)[`<->`](../src/invision/overall_header.tpl#L195-L195)[`195`](../src/invision/overall_header.tpl#L195)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`192`](../src/invision/overall_header.tpl#L192), [`195`](../src/invision/overall_header.tpl#L195)

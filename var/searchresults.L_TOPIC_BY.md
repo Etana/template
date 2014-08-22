@@ -15,5 +15,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`15`](../src/prosilver/search_results_posts.tpl#L15)[`<->`](../src/prosilver/search_results_posts.tpl#L15-L15)[`15`](../src/prosilver/search_results_posts.tpl#L15)
-
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`15`](../src/prosilver/search_results_posts.tpl#L15)

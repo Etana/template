@@ -13,15 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`70`](../src/prosilver/mod_login.tpl#L70)[`<->`](../src/prosilver/mod_login.tpl#L70-L70)[`70`](../src/prosilver/mod_login.tpl#L70)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`87`](../src/prosilver/mod_login.tpl#L87)[`<->`](../src/prosilver/mod_login.tpl#L87-L87)[`87`](../src/prosilver/mod_login.tpl#L87)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`70`](../src/prosilver/mod_login.tpl#L70), [`87`](../src/prosilver/mod_login.tpl#L87)
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`108`](../src/subsilver/mod_login.tpl#L108)[`<->`](../src/subsilver/mod_login.tpl#L108-L108)[`108`](../src/subsilver/mod_login.tpl#L108)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`108`](../src/subsilver/mod_login.tpl#L108)
 ### Version PunBB
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`70`](../src/punbb/mod_login.tpl#L70)[`<->`](../src/punbb/mod_login.tpl#L70-L70)[`70`](../src/punbb/mod_login.tpl#L70)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`70`](../src/punbb/mod_login.tpl#L70)
 ### Version Invision
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`77`](../src/invision/mod_login.tpl#L77)[`<->`](../src/invision/mod_login.tpl#L77-L77)[`77`](../src/invision/mod_login.tpl#L77)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`77`](../src/invision/mod_login.tpl#L77)

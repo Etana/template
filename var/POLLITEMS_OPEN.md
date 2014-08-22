@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`10`](../src/subsilver/posting_poll_body.tpl#L10)[`<->`](../src/subsilver/posting_poll_body.tpl#L10-L10)[`10`](../src/subsilver/posting_poll_body.tpl#L10)
-
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`10`](../src/subsilver/posting_poll_body.tpl#L10)

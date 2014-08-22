@@ -15,14 +15,10 @@ Contient le nombre de message(s) posté(s) par le membre.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`53`](../src/prosilver/memberlist_body.tpl#L53)[`<->`](../src/prosilver/memberlist_body.tpl#L53-L53)[`53`](../src/prosilver/memberlist_body.tpl#L53)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`53`](../src/prosilver/memberlist_body.tpl#L53)
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`47`](../src/subsilver/memberlist_body.tpl#L47)[`<->`](../src/subsilver/memberlist_body.tpl#L47-L47)[`47`](../src/subsilver/memberlist_body.tpl#L47)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`47`](../src/subsilver/memberlist_body.tpl#L47)
 ### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`86`](../src/punbb/memberlist_body.tpl#L86)[`<->`](../src/punbb/memberlist_body.tpl#L86-L86)[`86`](../src/punbb/memberlist_body.tpl#L86)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`86`](../src/punbb/memberlist_body.tpl#L86)
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`99`](../src/invision/memberlist_body.tpl#L99)[`<->`](../src/invision/memberlist_body.tpl#L99-L99)[`99`](../src/invision/memberlist_body.tpl#L99)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`99`](../src/invision/memberlist_body.tpl#L99)

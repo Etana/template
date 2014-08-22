@@ -15,8 +15,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`73`](../src/prosilver/modcp_viewip.tpl#L73)[`<->`](../src/prosilver/modcp_viewip.tpl#L73-L73)[`73`](../src/prosilver/modcp_viewip.tpl#L73)
-
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`73`](../src/prosilver/modcp_viewip.tpl#L73)
 ### Version phpBB2
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`65`](../src/subsilver/modcp_viewip.tpl#L65)[`<->`](../src/subsilver/modcp_viewip.tpl#L65-L65)[`65`](../src/subsilver/modcp_viewip.tpl#L65)
-
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`65`](../src/subsilver/modcp_viewip.tpl#L65)

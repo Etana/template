@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`93`](../src/prosilver/buy_credits.tpl#L93)[`<->`](../src/prosilver/buy_credits.tpl#L93-L93)[`93`](../src/prosilver/buy_credits.tpl#L93)
-
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`93`](../src/prosilver/buy_credits.tpl#L93)
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`118`](../src/subsilver/buy_credits.tpl#L118)[`<->`](../src/subsilver/buy_credits.tpl#L118-L118)[`118`](../src/subsilver/buy_credits.tpl#L118)
-
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`118`](../src/subsilver/buy_credits.tpl#L118)
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`107`](../src/punbb/buy_credits.tpl#L107)[`<->`](../src/punbb/buy_credits.tpl#L107-L107)[`107`](../src/punbb/buy_credits.tpl#L107)
-
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`107`](../src/punbb/buy_credits.tpl#L107)
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`88`](../src/invision/buy_credits.tpl#L88)[`<->`](../src/invision/buy_credits.tpl#L88-L88)[`88`](../src/invision/buy_credits.tpl#L88)
-
+* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`88`](../src/invision/buy_credits.tpl#L88)

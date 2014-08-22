@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`27`](../src/subsilver/privmsgs_body.tpl#L27)[`<->`](../src/subsilver/privmsgs_body.tpl#L27-L27)[`27`](../src/subsilver/privmsgs_body.tpl#L27)
-
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`27`](../src/subsilver/privmsgs_body.tpl#L27)

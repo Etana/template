@@ -15,6 +15,4 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`185`](../src/prosilver/posting_body.tpl#L185)[`<->`](../src/prosilver/posting_body.tpl#L185-L185)[`185`](../src/prosilver/posting_body.tpl#L185)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`187`](../src/prosilver/posting_body.tpl#L187)[`<->`](../src/prosilver/posting_body.tpl#L187-L187)[`187`](../src/prosilver/posting_body.tpl#L187)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`185`](../src/prosilver/posting_body.tpl#L185), [`187`](../src/prosilver/posting_body.tpl#L187)

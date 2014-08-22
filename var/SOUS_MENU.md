@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`2`](../src/subsilver/rpg_sheet.tpl#L2)[`<->`](../src/subsilver/rpg_sheet.tpl#L2-L2)[`2`](../src/subsilver/rpg_sheet.tpl#L2)
-
+* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`2`](../src/subsilver/rpg_sheet.tpl#L2)

@@ -15,11 +15,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`257`](../src/prosilver/overall_header.tpl#L257)[`<->`](../src/prosilver/overall_header.tpl#L257-L257)[`257`](../src/prosilver/overall_header.tpl#L257)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`257`](../src/prosilver/overall_header.tpl#L257)
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`250`](../src/punbb/overall_header.tpl#L250)[`<->`](../src/punbb/overall_header.tpl#L250-L250)[`250`](../src/punbb/overall_header.tpl#L250)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`250`](../src/punbb/overall_header.tpl#L250)
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`255`](../src/invision/overall_header.tpl#L255)[`<->`](../src/invision/overall_header.tpl#L255-L255)[`255`](../src/invision/overall_header.tpl#L255)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`255`](../src/invision/overall_header.tpl#L255)

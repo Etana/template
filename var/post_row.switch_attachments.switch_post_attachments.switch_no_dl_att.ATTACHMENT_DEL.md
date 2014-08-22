@@ -21,14 +21,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`29`](../src/prosilver/mod_news.tpl#L29)[`<->`](../src/prosilver/mod_news.tpl#L29-L29)[`29`](../src/prosilver/mod_news.tpl#L29)
-
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`29`](../src/prosilver/mod_news.tpl#L29)
 ### Version phpBB2
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`35`](../src/subsilver/mod_news.tpl#L35)[`<->`](../src/subsilver/mod_news.tpl#L35-L35)[`35`](../src/subsilver/mod_news.tpl#L35)
-
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`35`](../src/subsilver/mod_news.tpl#L35)
 ### Version PunBB
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`28`](../src/punbb/mod_news.tpl#L28)[`<->`](../src/punbb/mod_news.tpl#L28-L28)[`28`](../src/punbb/mod_news.tpl#L28)
-
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`28`](../src/punbb/mod_news.tpl#L28)
 ### Version Invision
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`27`](../src/invision/mod_news.tpl#L27)[`<->`](../src/invision/mod_news.tpl#L27-L27)[`27`](../src/invision/mod_news.tpl#L27)
-
+* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`27`](../src/invision/mod_news.tpl#L27)

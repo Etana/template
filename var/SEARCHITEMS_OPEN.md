@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`39`](../src/subsilver/search_body.tpl#L39)[`<->`](../src/subsilver/search_body.tpl#L39-L39)[`39`](../src/subsilver/search_body.tpl#L39)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`39`](../src/subsilver/search_body.tpl#L39)

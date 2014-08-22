@@ -16,14 +16,10 @@ Texte de la barre de titre de la page.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`7`](../src/prosilver/groupcp_info_body.tpl#L7)[`<->`](../src/prosilver/groupcp_info_body.tpl#L7-L7)[`7`](../src/prosilver/groupcp_info_body.tpl#L7)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`7`](../src/prosilver/groupcp_info_body.tpl#L7)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`4`](../src/subsilver/groupcp_info_body.tpl#L4)[`<->`](../src/subsilver/groupcp_info_body.tpl#L4-L4)[`4`](../src/subsilver/groupcp_info_body.tpl#L4)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`4`](../src/subsilver/groupcp_info_body.tpl#L4)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`29`](../src/punbb/groupcp_info_body.tpl#L29)[`<->`](../src/punbb/groupcp_info_body.tpl#L29-L29)[`29`](../src/punbb/groupcp_info_body.tpl#L29)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`29`](../src/punbb/groupcp_info_body.tpl#L29)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`11`](../src/invision/groupcp_info_body.tpl#L11)[`<->`](../src/invision/groupcp_info_body.tpl#L11-L11)[`11`](../src/invision/groupcp_info_body.tpl#L11)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`11`](../src/invision/groupcp_info_body.tpl#L11)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 

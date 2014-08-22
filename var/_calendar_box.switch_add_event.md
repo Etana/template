@@ -17,18 +17,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`77`](../src/prosilver/calendar_box.tpl#L77)[`<->`](../src/prosilver/calendar_box.tpl#L77-L77)[`77`](../src/prosilver/calendar_box.tpl#L77)
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`79`](../src/prosilver/calendar_box.tpl#L79)[`<->`](../src/prosilver/calendar_box.tpl#L79-L79)[`79`](../src/prosilver/calendar_box.tpl#L79)
-
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`77`](../src/prosilver/calendar_box.tpl#L77), [`79`](../src/prosilver/calendar_box.tpl#L79)
 ### Version phpBB2
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`93`](../src/subsilver/calendar_box.tpl#L93)[`<->`](../src/subsilver/calendar_box.tpl#L93-L93)[`93`](../src/subsilver/calendar_box.tpl#L93)
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`95`](../src/subsilver/calendar_box.tpl#L95)[`<->`](../src/subsilver/calendar_box.tpl#L95-L95)[`95`](../src/subsilver/calendar_box.tpl#L95)
-
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`93`](../src/subsilver/calendar_box.tpl#L93), [`95`](../src/subsilver/calendar_box.tpl#L95)
 ### Version PunBB
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`66`](../src/punbb/calendar_box.tpl#L66)[`<->`](../src/punbb/calendar_box.tpl#L66-L66)[`66`](../src/punbb/calendar_box.tpl#L66)
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`68`](../src/punbb/calendar_box.tpl#L68)[`<->`](../src/punbb/calendar_box.tpl#L68-L68)[`68`](../src/punbb/calendar_box.tpl#L68)
-
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`66`](../src/punbb/calendar_box.tpl#L66), [`68`](../src/punbb/calendar_box.tpl#L68)
 ### Version Invision
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`75`](../src/invision/calendar_box.tpl#L75)[`<->`](../src/invision/calendar_box.tpl#L75-L75)[`75`](../src/invision/calendar_box.tpl#L75)
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`77`](../src/invision/calendar_box.tpl#L77)[`<->`](../src/invision/calendar_box.tpl#L77-L77)[`77`](../src/invision/calendar_box.tpl#L77)
-
+* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`75`](../src/invision/calendar_box.tpl#L75), [`77`](../src/invision/calendar_box.tpl#L77)

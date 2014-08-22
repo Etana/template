@@ -16,14 +16,10 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`108`](../src/prosilver/groupcp_info_body.tpl#L108)[`<->`](../src/prosilver/groupcp_info_body.tpl#L108-L108)[`108`](../src/prosilver/groupcp_info_body.tpl#L108)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`108`](../src/prosilver/groupcp_info_body.tpl#L108)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`100`](../src/subsilver/groupcp_info_body.tpl#L100)[`<->`](../src/subsilver/groupcp_info_body.tpl#L100-L100)[`100`](../src/subsilver/groupcp_info_body.tpl#L100)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`100`](../src/subsilver/groupcp_info_body.tpl#L100)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`137`](../src/punbb/groupcp_info_body.tpl#L137)[`<->`](../src/punbb/groupcp_info_body.tpl#L137-L137)[`137`](../src/punbb/groupcp_info_body.tpl#L137)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`137`](../src/punbb/groupcp_info_body.tpl#L137)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`113`](../src/invision/groupcp_info_body.tpl#L113)[`<->`](../src/invision/groupcp_info_body.tpl#L113-L113)[`113`](../src/invision/groupcp_info_body.tpl#L113)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`113`](../src/invision/groupcp_info_body.tpl#L113)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 

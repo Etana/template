@@ -14,14 +14,10 @@ Remplacé par la description du groupe dont on est sur la page.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`16`](../src/prosilver/groupcp_info_body.tpl#L16)[`<->`](../src/prosilver/groupcp_info_body.tpl#L16-L16)[`16`](../src/prosilver/groupcp_info_body.tpl#L16)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`16`](../src/prosilver/groupcp_info_body.tpl#L16)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`12`](../src/subsilver/groupcp_info_body.tpl#L12)[`<->`](../src/subsilver/groupcp_info_body.tpl#L12-L12)[`12`](../src/subsilver/groupcp_info_body.tpl#L12)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`12`](../src/subsilver/groupcp_info_body.tpl#L12)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`40`](../src/punbb/groupcp_info_body.tpl#L40)[`<->`](../src/punbb/groupcp_info_body.tpl#L40-L40)[`40`](../src/punbb/groupcp_info_body.tpl#L40)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`40`](../src/punbb/groupcp_info_body.tpl#L40)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`20`](../src/invision/groupcp_info_body.tpl#L20)[`<->`](../src/invision/groupcp_info_body.tpl#L20-L20)[`20`](../src/invision/groupcp_info_body.tpl#L20)
-
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`20`](../src/invision/groupcp_info_body.tpl#L20)* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 

@@ -17,15 +17,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)[`<->`](../src/prosilver/posting_topic_review.tpl#L12-L12)[`12`](../src/prosilver/posting_topic_review.tpl#L12)
-
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)
 ### Version phpBB2
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`21`](../src/subsilver/posting_topic_review.tpl#L21)[`<->`](../src/subsilver/posting_topic_review.tpl#L21-L21)[`21`](../src/subsilver/posting_topic_review.tpl#L21)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`154`](../src/subsilver/viewtopic_body.tpl#L154)[`<->`](../src/subsilver/viewtopic_body.tpl#L154-L154)[`154`](../src/subsilver/viewtopic_body.tpl#L154)
-
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`21`](../src/subsilver/posting_topic_review.tpl#L21)* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`154`](../src/subsilver/viewtopic_body.tpl#L154)
 ### Version PunBB
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`14`](../src/punbb/posting_topic_review.tpl#L14)[`<->`](../src/punbb/posting_topic_review.tpl#L14-L14)[`14`](../src/punbb/posting_topic_review.tpl#L14)
-
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`14`](../src/punbb/posting_topic_review.tpl#L14)
 ### Version Invision
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`24`](../src/invision/posting_topic_review.tpl#L24)[`<->`](../src/invision/posting_topic_review.tpl#L24-L24)[`24`](../src/invision/posting_topic_review.tpl#L24)
-
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`24`](../src/invision/posting_topic_review.tpl#L24)

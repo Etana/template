@@ -15,8 +15,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`68`](../src/prosilver/album_index_body.tpl#L68)[`<->`](../src/prosilver/album_index_body.tpl#L68-L68)[`68`](../src/prosilver/album_index_body.tpl#L68)
-
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`68`](../src/prosilver/album_index_body.tpl#L68)
 ### Version PunBB
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`77`](../src/punbb/album_index_body.tpl#L77)[`<->`](../src/punbb/album_index_body.tpl#L77-L77)[`77`](../src/punbb/album_index_body.tpl#L77)
-
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`77`](../src/punbb/album_index_body.tpl#L77)

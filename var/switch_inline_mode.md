@@ -15,30 +15,10 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`1`](../src/prosilver/posting_topic_review.tpl#L1)[`<->`](../src/prosilver/posting_topic_review.tpl#L1-L1)[`1`](../src/prosilver/posting_topic_review.tpl#L1)
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`3`](../src/prosilver/posting_topic_review.tpl#L3)[`<->`](../src/prosilver/posting_topic_review.tpl#L3-L3)[`3`](../src/prosilver/posting_topic_review.tpl#L3)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`1`](../src/prosilver/privmsg_topic_review.tpl#L1)[`<->`](../src/prosilver/privmsg_topic_review.tpl#L1-L1)[`1`](../src/prosilver/privmsg_topic_review.tpl#L1)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`3`](../src/prosilver/privmsg_topic_review.tpl#L3)[`<->`](../src/prosilver/privmsg_topic_review.tpl#L3-L3)[`3`](../src/prosilver/privmsg_topic_review.tpl#L3)
-
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`1`](../src/prosilver/posting_topic_review.tpl#L1), [`3`](../src/prosilver/posting_topic_review.tpl#L3)* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`1`](../src/prosilver/privmsg_topic_review.tpl#L1), [`3`](../src/prosilver/privmsg_topic_review.tpl#L3)
 ### Version phpBB2
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`1`](../src/subsilver/posting_topic_review.tpl#L1)[`<->`](../src/subsilver/posting_topic_review.tpl#L1-L1)[`1`](../src/subsilver/posting_topic_review.tpl#L1)
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`7`](../src/subsilver/posting_topic_review.tpl#L7)[`<->`](../src/subsilver/posting_topic_review.tpl#L7-L7)[`7`](../src/subsilver/posting_topic_review.tpl#L7)
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`46`](../src/subsilver/posting_topic_review.tpl#L46)[`<->`](../src/subsilver/posting_topic_review.tpl#L46-L46)[`46`](../src/subsilver/posting_topic_review.tpl#L46)
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`49`](../src/subsilver/posting_topic_review.tpl#L49)[`<->`](../src/subsilver/posting_topic_review.tpl#L49-L49)[`49`](../src/subsilver/posting_topic_review.tpl#L49)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`1`](../src/subsilver/privmsg_topic_review.tpl#L1)[`<->`](../src/subsilver/privmsg_topic_review.tpl#L1-L1)[`1`](../src/subsilver/privmsg_topic_review.tpl#L1)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`8`](../src/subsilver/privmsg_topic_review.tpl#L8)[`<->`](../src/subsilver/privmsg_topic_review.tpl#L8-L8)[`8`](../src/subsilver/privmsg_topic_review.tpl#L8)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`36`](../src/subsilver/privmsg_topic_review.tpl#L36)[`<->`](../src/subsilver/privmsg_topic_review.tpl#L36-L36)[`36`](../src/subsilver/privmsg_topic_review.tpl#L36)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`39`](../src/subsilver/privmsg_topic_review.tpl#L39)[`<->`](../src/subsilver/privmsg_topic_review.tpl#L39-L39)[`39`](../src/subsilver/privmsg_topic_review.tpl#L39)
-
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`1`](../src/subsilver/posting_topic_review.tpl#L1), [`7`](../src/subsilver/posting_topic_review.tpl#L7), [`46`](../src/subsilver/posting_topic_review.tpl#L46), [`49`](../src/subsilver/posting_topic_review.tpl#L49)* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`1`](../src/subsilver/privmsg_topic_review.tpl#L1), [`8`](../src/subsilver/privmsg_topic_review.tpl#L8), [`36`](../src/subsilver/privmsg_topic_review.tpl#L36), [`39`](../src/subsilver/privmsg_topic_review.tpl#L39)
 ### Version PunBB
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`1`](../src/punbb/posting_topic_review.tpl#L1)[`<->`](../src/punbb/posting_topic_review.tpl#L1-L1)[`1`](../src/punbb/posting_topic_review.tpl#L1)
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`5`](../src/punbb/posting_topic_review.tpl#L5)[`<->`](../src/punbb/posting_topic_review.tpl#L5-L5)[`5`](../src/punbb/posting_topic_review.tpl#L5)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`2`](../src/punbb/privmsg_topic_review.tpl#L2)[`<->`](../src/punbb/privmsg_topic_review.tpl#L2-L2)[`2`](../src/punbb/privmsg_topic_review.tpl#L2)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`6`](../src/punbb/privmsg_topic_review.tpl#L6)[`<->`](../src/punbb/privmsg_topic_review.tpl#L6-L6)[`6`](../src/punbb/privmsg_topic_review.tpl#L6)
-
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`1`](../src/punbb/posting_topic_review.tpl#L1), [`5`](../src/punbb/posting_topic_review.tpl#L5)* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`2`](../src/punbb/privmsg_topic_review.tpl#L2), [`6`](../src/punbb/privmsg_topic_review.tpl#L6)
 ### Version Invision
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`2`](../src/invision/posting_topic_review.tpl#L2)[`<->`](../src/invision/posting_topic_review.tpl#L2-L2)[`2`](../src/invision/posting_topic_review.tpl#L2)
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`6`](../src/invision/posting_topic_review.tpl#L6)[`<->`](../src/invision/posting_topic_review.tpl#L6-L6)[`6`](../src/invision/posting_topic_review.tpl#L6)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`2`](../src/invision/privmsg_topic_review.tpl#L2)[`<->`](../src/invision/privmsg_topic_review.tpl#L2-L2)[`2`](../src/invision/privmsg_topic_review.tpl#L2)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`6`](../src/invision/privmsg_topic_review.tpl#L6)[`<->`](../src/invision/privmsg_topic_review.tpl#L6-L6)[`6`](../src/invision/privmsg_topic_review.tpl#L6)
-
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`2`](../src/invision/posting_topic_review.tpl#L2), [`6`](../src/invision/posting_topic_review.tpl#L6)* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`2`](../src/invision/privmsg_topic_review.tpl#L2), [`6`](../src/invision/privmsg_topic_review.tpl#L6)

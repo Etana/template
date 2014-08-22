@@ -21,5 +21,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`95`](../src/invision/topics_list_box.tpl#L95)[`<->`](../src/invision/topics_list_box.tpl#L95-L95)[`95`](../src/invision/topics_list_box.tpl#L95)
-
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`95`](../src/invision/topics_list_box.tpl#L95)

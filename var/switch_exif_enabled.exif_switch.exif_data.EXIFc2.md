@@ -19,5 +19,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`365`](../src/subsilver/album_showpage_body.tpl#L365)[`<->`](../src/subsilver/album_showpage_body.tpl#L365-L365)[`365`](../src/subsilver/album_showpage_body.tpl#L365)
-
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`365`](../src/subsilver/album_showpage_body.tpl#L365)

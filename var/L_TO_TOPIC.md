@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`18`](../src/prosilver/merge_body.tpl#L18)[`<->`](../src/prosilver/merge_body.tpl#L18-L18)[`18`](../src/prosilver/merge_body.tpl#L18)
-
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`18`](../src/prosilver/merge_body.tpl#L18)
 ### Version phpBB2
-* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`23`](../src/subsilver/merge_body.tpl#L23)[`<->`](../src/subsilver/merge_body.tpl#L23-L23)[`23`](../src/subsilver/merge_body.tpl#L23)
-
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`23`](../src/subsilver/merge_body.tpl#L23)
 ### Version PunBB
-* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`41`](../src/punbb/merge_body.tpl#L41)[`<->`](../src/punbb/merge_body.tpl#L41-L41)[`41`](../src/punbb/merge_body.tpl#L41)
-
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`41`](../src/punbb/merge_body.tpl#L41)
 ### Version Invision
-* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`23`](../src/invision/merge_body.tpl#L23)[`<->`](../src/invision/merge_body.tpl#L23-L23)[`23`](../src/invision/merge_body.tpl#L23)
-
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`23`](../src/invision/merge_body.tpl#L23)

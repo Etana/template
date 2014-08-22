@@ -17,5 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`22`](../src/subsilver/profile_avatar_gallery.tpl#L22)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L22-L22)[`22`](../src/subsilver/profile_avatar_gallery.tpl#L22)
-
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`22`](../src/subsilver/profile_avatar_gallery.tpl#L22)

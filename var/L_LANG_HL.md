@@ -13,14 +13,10 @@ Contient la langue de votre forum.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`24`](../src/prosilver/search_body.tpl#L24)[`<->`](../src/prosilver/search_body.tpl#L24-L24)[`24`](../src/prosilver/search_body.tpl#L24)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`24`](../src/prosilver/search_body.tpl#L24)
 ### Version phpBB2
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`20`](../src/subsilver/search_body.tpl#L20)[`<->`](../src/subsilver/search_body.tpl#L20-L20)[`20`](../src/subsilver/search_body.tpl#L20)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`20`](../src/subsilver/search_body.tpl#L20)
 ### Version PunBB
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`43`](../src/punbb/search_body.tpl#L43)[`<->`](../src/punbb/search_body.tpl#L43-L43)[`43`](../src/punbb/search_body.tpl#L43)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`43`](../src/punbb/search_body.tpl#L43)
 ### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`25`](../src/invision/search_body.tpl#L25)[`<->`](../src/invision/search_body.tpl#L25-L25)[`25`](../src/invision/search_body.tpl#L25)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`25`](../src/invision/search_body.tpl#L25)

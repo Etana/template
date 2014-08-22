@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`29`](../src/prosilver/privmsgs_read_body.tpl#L29)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L29-L29)[`29`](../src/prosilver/privmsgs_read_body.tpl#L29)
-
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`29`](../src/prosilver/privmsgs_read_body.tpl#L29)
 ### Version phpBB2
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`48`](../src/subsilver/privmsgs_read_body.tpl#L48)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L48-L48)[`48`](../src/subsilver/privmsgs_read_body.tpl#L48)
-
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`48`](../src/subsilver/privmsgs_read_body.tpl#L48)
 ### Version PunBB
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`74`](../src/punbb/privmsgs_read_body.tpl#L74)[`<->`](../src/punbb/privmsgs_read_body.tpl#L74-L74)[`74`](../src/punbb/privmsgs_read_body.tpl#L74)
-
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`74`](../src/punbb/privmsgs_read_body.tpl#L74)
 ### Version Invision
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`65`](../src/invision/privmsgs_read_body.tpl#L65)[`<->`](../src/invision/privmsgs_read_body.tpl#L65-L65)[`65`](../src/invision/privmsgs_read_body.tpl#L65)
-
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`65`](../src/invision/privmsgs_read_body.tpl#L65)

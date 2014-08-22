@@ -17,11 +17,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`33`](../src/prosilver/album_search_body.tpl#L33)[`<->`](../src/prosilver/album_search_body.tpl#L33-L33)[`33`](../src/prosilver/album_search_body.tpl#L33)
-
+* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`33`](../src/prosilver/album_search_body.tpl#L33)
 ### Version phpBB2
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`40`](../src/subsilver/album_search_body.tpl#L40)[`<->`](../src/subsilver/album_search_body.tpl#L40-L40)[`40`](../src/subsilver/album_search_body.tpl#L40)
-
+* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`40`](../src/subsilver/album_search_body.tpl#L40)
 ### Version PunBB
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`43`](../src/punbb/album_search_body.tpl#L43)[`<->`](../src/punbb/album_search_body.tpl#L43-L43)[`43`](../src/punbb/album_search_body.tpl#L43)
-
+* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`43`](../src/punbb/album_search_body.tpl#L43)

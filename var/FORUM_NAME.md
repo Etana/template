@@ -15,12 +15,10 @@ Remplacé par le nom du sous-forum dans lequel on se trouve.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`4`](../src/prosilver/viewforum_body.tpl#L4)[`<->`](../src/prosilver/viewforum_body.tpl#L4-L4)[`4`](../src/prosilver/viewforum_body.tpl#L4)
-
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`4`](../src/prosilver/viewforum_body.tpl#L4)* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
 ### Version phpBB2
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
 ### Version PunBB
-
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`34`](../src/invision/topics_list_box.tpl#L34)[`<->`](../src/invision/topics_list_box.tpl#L34-L34)[`34`](../src/invision/topics_list_box.tpl#L34)
-
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`34`](../src/invision/topics_list_box.tpl#L34)* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 

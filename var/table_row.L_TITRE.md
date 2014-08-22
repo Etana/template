@@ -15,14 +15,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`4`](../src/prosilver/standard.tpl#L4)[`<->`](../src/prosilver/standard.tpl#L4-L4)[`4`](../src/prosilver/standard.tpl#L4)
-
+* __[`standard`](../tpl/standard.md#readme) :__ lignes [`4`](../src/prosilver/standard.tpl#L4)
 ### Version phpBB2
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`5`](../src/subsilver/standard.tpl#L5)[`<->`](../src/subsilver/standard.tpl#L5-L5)[`5`](../src/subsilver/standard.tpl#L5)
-
+* __[`standard`](../tpl/standard.md#readme) :__ lignes [`5`](../src/subsilver/standard.tpl#L5)
 ### Version PunBB
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`3`](../src/punbb/standard.tpl#L3)[`<->`](../src/punbb/standard.tpl#L3-L3)[`3`](../src/punbb/standard.tpl#L3)
-
+* __[`standard`](../tpl/standard.md#readme) :__ lignes [`3`](../src/punbb/standard.tpl#L3)
 ### Version Invision
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`3`](../src/invision/standard.tpl#L3)[`<->`](../src/invision/standard.tpl#L3-L3)[`3`](../src/invision/standard.tpl#L3)
-
+* __[`standard`](../tpl/standard.md#readme) :__ lignes [`3`](../src/invision/standard.tpl#L3)

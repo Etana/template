@@ -15,5 +15,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`94`](../src/prosilver/topics_list_box.tpl#L94)[`<->`](../src/prosilver/topics_list_box.tpl#L94-L94)[`94`](../src/prosilver/topics_list_box.tpl#L94)
-
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`94`](../src/prosilver/topics_list_box.tpl#L94)

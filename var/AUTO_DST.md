@@ -13,14 +13,10 @@ Variable actuellement inutilisée.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`132`](../src/prosilver/index_body.tpl#L132)[`<->`](../src/prosilver/index_body.tpl#L132-L132)[`132`](../src/prosilver/index_body.tpl#L132)
-
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`132`](../src/prosilver/index_body.tpl#L132)
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`239`](../src/subsilver/index_body.tpl#L239)[`<->`](../src/subsilver/index_body.tpl#L239-L239)[`239`](../src/subsilver/index_body.tpl#L239)
-
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`239`](../src/subsilver/index_body.tpl#L239)
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`132`](../src/punbb/index_body.tpl#L132)[`<->`](../src/punbb/index_body.tpl#L132-L132)[`132`](../src/punbb/index_body.tpl#L132)
-
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`132`](../src/punbb/index_body.tpl#L132)
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`186`](../src/invision/index_body.tpl#L186)[`<->`](../src/invision/index_body.tpl#L186-L186)[`186`](../src/invision/index_body.tpl#L186)
-
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`186`](../src/invision/index_body.tpl#L186)

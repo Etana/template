@@ -15,18 +15,10 @@ Boucle affichant les informations d'un membre et se répétant pour chaque membr
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`43`](../src/prosilver/memberlist_body.tpl#L43)[`<->`](../src/prosilver/memberlist_body.tpl#L43-L43)[`43`](../src/prosilver/memberlist_body.tpl#L43)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`57`](../src/prosilver/memberlist_body.tpl#L57)[`<->`](../src/prosilver/memberlist_body.tpl#L57-L57)[`57`](../src/prosilver/memberlist_body.tpl#L57)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`43`](../src/prosilver/memberlist_body.tpl#L43), [`57`](../src/prosilver/memberlist_body.tpl#L57)
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`36`](../src/subsilver/memberlist_body.tpl#L36)[`<->`](../src/subsilver/memberlist_body.tpl#L36-L36)[`36`](../src/subsilver/memberlist_body.tpl#L36)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`51`](../src/subsilver/memberlist_body.tpl#L51)[`<->`](../src/subsilver/memberlist_body.tpl#L51-L51)[`51`](../src/subsilver/memberlist_body.tpl#L51)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`36`](../src/subsilver/memberlist_body.tpl#L36), [`51`](../src/subsilver/memberlist_body.tpl#L51)
 ### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`77`](../src/punbb/memberlist_body.tpl#L77)[`<->`](../src/punbb/memberlist_body.tpl#L77-L77)[`77`](../src/punbb/memberlist_body.tpl#L77)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`90`](../src/punbb/memberlist_body.tpl#L90)[`<->`](../src/punbb/memberlist_body.tpl#L90-L90)[`90`](../src/punbb/memberlist_body.tpl#L90)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`77`](../src/punbb/memberlist_body.tpl#L77), [`90`](../src/punbb/memberlist_body.tpl#L90)
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`59`](../src/invision/memberlist_body.tpl#L59)[`<->`](../src/invision/memberlist_body.tpl#L59-L59)[`59`](../src/invision/memberlist_body.tpl#L59)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`103`](../src/invision/memberlist_body.tpl#L103)[`<->`](../src/invision/memberlist_body.tpl#L103-L103)[`103`](../src/invision/memberlist_body.tpl#L103)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`59`](../src/invision/memberlist_body.tpl#L59), [`103`](../src/invision/memberlist_body.tpl#L103)

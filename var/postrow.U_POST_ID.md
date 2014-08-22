@@ -15,5 +15,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`41`](../src/subsilver/modcp_split.tpl#L41)[`<->`](../src/subsilver/modcp_split.tpl#L41-L41)[`41`](../src/subsilver/modcp_split.tpl#L41)
-
+* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`41`](../src/subsilver/modcp_split.tpl#L41)

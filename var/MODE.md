@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`50`](../src/subsilver/report_list_body.tpl#L50)[`<->`](../src/subsilver/report_list_body.tpl#L50-L50)[`50`](../src/subsilver/report_list_body.tpl#L50)
-
+* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`50`](../src/subsilver/report_list_body.tpl#L50)

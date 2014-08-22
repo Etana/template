@@ -15,5 +15,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`82`](../src/invision/memberlist_body.tpl#L82)[`<->`](../src/invision/memberlist_body.tpl#L82-L82)[`82`](../src/invision/memberlist_body.tpl#L82)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`82`](../src/invision/memberlist_body.tpl#L82)

@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`56`](../src/punbb/groupcp_user_body.tpl#L56)[`<->`](../src/punbb/groupcp_user_body.tpl#L56-L56)[`56`](../src/punbb/groupcp_user_body.tpl#L56)
-
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`56`](../src/punbb/groupcp_user_body.tpl#L56)

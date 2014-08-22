@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`80`](../src/prosilver/viewforum_body.tpl#L80)[`<->`](../src/prosilver/viewforum_body.tpl#L80-L80)[`80`](../src/prosilver/viewforum_body.tpl#L80)
-
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`80`](../src/prosilver/viewforum_body.tpl#L80)

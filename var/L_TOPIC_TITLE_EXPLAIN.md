@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`13`](../src/subsilver/merge_body.tpl#L13)[`<->`](../src/subsilver/merge_body.tpl#L13-L13)[`13`](../src/subsilver/merge_body.tpl#L13)
-
+* __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`13`](../src/subsilver/merge_body.tpl#L13)

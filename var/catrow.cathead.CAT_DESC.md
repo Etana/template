@@ -17,5 +17,4 @@ Contient la description de la catégorie bouclée.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`36`](../src/subsilver/index_box.tpl#L36)[`<->`](../src/subsilver/index_box.tpl#L36-L36)[`36`](../src/subsilver/index_box.tpl#L36)
-
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`36`](../src/subsilver/index_box.tpl#L36)

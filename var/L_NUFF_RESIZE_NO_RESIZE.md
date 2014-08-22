@@ -13,18 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`29`](../src/prosilver/album_nuffimage_box.tpl#L29)[`<->`](../src/prosilver/album_nuffimage_box.tpl#L29-L29)[`29`](../src/prosilver/album_nuffimage_box.tpl#L29)
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`41`](../src/prosilver/album_nuffimage_box.tpl#L41)[`<->`](../src/prosilver/album_nuffimage_box.tpl#L41-L41)[`41`](../src/prosilver/album_nuffimage_box.tpl#L41)
-
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`29`](../src/prosilver/album_nuffimage_box.tpl#L29), [`41`](../src/prosilver/album_nuffimage_box.tpl#L41)
 ### Version phpBB2
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`42`](../src/subsilver/album_nuffimage_box.tpl#L42)[`<->`](../src/subsilver/album_nuffimage_box.tpl#L42-L42)[`42`](../src/subsilver/album_nuffimage_box.tpl#L42)
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`60`](../src/subsilver/album_nuffimage_box.tpl#L60)[`<->`](../src/subsilver/album_nuffimage_box.tpl#L60-L60)[`60`](../src/subsilver/album_nuffimage_box.tpl#L60)
-
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`42`](../src/subsilver/album_nuffimage_box.tpl#L42), [`60`](../src/subsilver/album_nuffimage_box.tpl#L60)
 ### Version PunBB
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`75`](../src/punbb/album_nuffimage_box.tpl#L75)[`<->`](../src/punbb/album_nuffimage_box.tpl#L75-L75)[`75`](../src/punbb/album_nuffimage_box.tpl#L75)
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`88`](../src/punbb/album_nuffimage_box.tpl#L88)[`<->`](../src/punbb/album_nuffimage_box.tpl#L88-L88)[`88`](../src/punbb/album_nuffimage_box.tpl#L88)
-
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`75`](../src/punbb/album_nuffimage_box.tpl#L75), [`88`](../src/punbb/album_nuffimage_box.tpl#L88)
 ### Version Invision
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`75`](../src/invision/album_nuffimage_box.tpl#L75)[`<->`](../src/invision/album_nuffimage_box.tpl#L75-L75)[`75`](../src/invision/album_nuffimage_box.tpl#L75)
-* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`88`](../src/invision/album_nuffimage_box.tpl#L88)[`<->`](../src/invision/album_nuffimage_box.tpl#L88-L88)[`88`](../src/invision/album_nuffimage_box.tpl#L88)
-
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme) :__ lignes [`75`](../src/invision/album_nuffimage_box.tpl#L75), [`88`](../src/invision/album_nuffimage_box.tpl#L88)

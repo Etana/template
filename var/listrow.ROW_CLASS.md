@@ -15,13 +15,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`48`](../src/prosilver/privmsgs_body.tpl#L48)[`<->`](../src/prosilver/privmsgs_body.tpl#L48-L48)[`48`](../src/prosilver/privmsgs_body.tpl#L48)
-
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`48`](../src/prosilver/privmsgs_body.tpl#L48)
 ### Version phpBB2
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`67`](../src/subsilver/privmsgs_body.tpl#L67)[`<->`](../src/subsilver/privmsgs_body.tpl#L67-L67)[`67`](../src/subsilver/privmsgs_body.tpl#L67)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`70`](../src/subsilver/privmsgs_body.tpl#L70)[`<->`](../src/subsilver/privmsgs_body.tpl#L70-L70)[`70`](../src/subsilver/privmsgs_body.tpl#L70)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`71`](../src/subsilver/privmsgs_body.tpl#L71)[`<->`](../src/subsilver/privmsgs_body.tpl#L71-L71)[`71`](../src/subsilver/privmsgs_body.tpl#L71)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`78`](../src/subsilver/privmsgs_body.tpl#L78)[`<->`](../src/subsilver/privmsgs_body.tpl#L78-L78)[`78`](../src/subsilver/privmsgs_body.tpl#L78)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`79`](../src/subsilver/privmsgs_body.tpl#L79)[`<->`](../src/subsilver/privmsgs_body.tpl#L79-L79)[`79`](../src/subsilver/privmsgs_body.tpl#L79)
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`80`](../src/subsilver/privmsgs_body.tpl#L80)[`<->`](../src/subsilver/privmsgs_body.tpl#L80-L80)[`80`](../src/subsilver/privmsgs_body.tpl#L80)
-
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`67`](../src/subsilver/privmsgs_body.tpl#L67), [`70`](../src/subsilver/privmsgs_body.tpl#L70), [`71`](../src/subsilver/privmsgs_body.tpl#L71), [`78`](../src/subsilver/privmsgs_body.tpl#L78), [`79`](../src/subsilver/privmsgs_body.tpl#L79), [`80`](../src/subsilver/privmsgs_body.tpl#L80)

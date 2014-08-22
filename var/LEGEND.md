@@ -15,14 +15,10 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`64`](../src/prosilver/index_body.tpl#L64)[`<->`](../src/prosilver/index_body.tpl#L64-L64)[`64`](../src/prosilver/index_body.tpl#L64)
-
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`64`](../src/prosilver/index_body.tpl#L64)
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`202`](../src/subsilver/index_body.tpl#L202)[`<->`](../src/subsilver/index_body.tpl#L202-L202)[`202`](../src/subsilver/index_body.tpl#L202)
-
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`202`](../src/subsilver/index_body.tpl#L202)
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`84`](../src/punbb/index_body.tpl#L84)[`<->`](../src/punbb/index_body.tpl#L84-L84)[`84`](../src/punbb/index_body.tpl#L84)
-
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`84`](../src/punbb/index_body.tpl#L84)
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`84`](../src/invision/index_body.tpl#L84)[`<->`](../src/invision/index_body.tpl#L84-L84)[`84`](../src/invision/index_body.tpl#L84)
-
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`84`](../src/invision/index_body.tpl#L84)

@@ -15,15 +15,10 @@ Contient l'image des sujets définie dans `PA > Affichage > Images et Couleurs |
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`27`](../src/prosilver/search_results_topics.tpl#L27)[`<->`](../src/prosilver/search_results_topics.tpl#L27-L27)[`27`](../src/prosilver/search_results_topics.tpl#L27)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`27`](../src/prosilver/search_results_topics.tpl#L27)
 ### Version phpBB2
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`22`](../src/subsilver/search_results_posts.tpl#L22)[`<->`](../src/subsilver/search_results_posts.tpl#L22-L22)[`22`](../src/subsilver/search_results_posts.tpl#L22)
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`36`](../src/subsilver/search_results_topics.tpl#L36)[`<->`](../src/subsilver/search_results_topics.tpl#L36-L36)[`36`](../src/subsilver/search_results_topics.tpl#L36)
-
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`22`](../src/subsilver/search_results_posts.tpl#L22)* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`36`](../src/subsilver/search_results_topics.tpl#L36)
 ### Version PunBB
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`49`](../src/punbb/search_results_topics.tpl#L49)[`<->`](../src/punbb/search_results_topics.tpl#L49-L49)[`49`](../src/punbb/search_results_topics.tpl#L49)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`49`](../src/punbb/search_results_topics.tpl#L49)
 ### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`35`](../src/invision/search_results_topics.tpl#L35)[`<->`](../src/invision/search_results_topics.tpl#L35-L35)[`35`](../src/invision/search_results_topics.tpl#L35)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`35`](../src/invision/search_results_topics.tpl#L35)

@@ -15,18 +15,10 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`181`](../src/prosilver/posting_body.tpl#L181)[`<->`](../src/prosilver/posting_body.tpl#L181-L181)[`181`](../src/prosilver/posting_body.tpl#L181)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`183`](../src/prosilver/posting_body.tpl#L183)[`<->`](../src/prosilver/posting_body.tpl#L183-L183)[`183`](../src/prosilver/posting_body.tpl#L183)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`181`](../src/prosilver/posting_body.tpl#L181), [`183`](../src/prosilver/posting_body.tpl#L183)
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`244`](../src/subsilver/posting_body.tpl#L244)[`<->`](../src/subsilver/posting_body.tpl#L244-L244)[`244`](../src/subsilver/posting_body.tpl#L244)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`246`](../src/subsilver/posting_body.tpl#L246)[`<->`](../src/subsilver/posting_body.tpl#L246-L246)[`246`](../src/subsilver/posting_body.tpl#L246)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`244`](../src/subsilver/posting_body.tpl#L244), [`246`](../src/subsilver/posting_body.tpl#L246)
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`207`](../src/punbb/posting_body.tpl#L207)[`<->`](../src/punbb/posting_body.tpl#L207-L207)[`207`](../src/punbb/posting_body.tpl#L207)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`209`](../src/punbb/posting_body.tpl#L209)[`<->`](../src/punbb/posting_body.tpl#L209-L209)[`209`](../src/punbb/posting_body.tpl#L209)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`207`](../src/punbb/posting_body.tpl#L207), [`209`](../src/punbb/posting_body.tpl#L209)
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`358`](../src/invision/posting_body.tpl#L358)[`<->`](../src/invision/posting_body.tpl#L358-L358)[`358`](../src/invision/posting_body.tpl#L358)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`360`](../src/invision/posting_body.tpl#L360)[`<->`](../src/invision/posting_body.tpl#L360-L360)[`360`](../src/invision/posting_body.tpl#L360)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`358`](../src/invision/posting_body.tpl#L358), [`360`](../src/invision/posting_body.tpl#L360)

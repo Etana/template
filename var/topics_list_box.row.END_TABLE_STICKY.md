@@ -17,5 +17,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`45`](../src/subsilver/topics_list_box.tpl#L45)[`<->`](../src/subsilver/topics_list_box.tpl#L45-L45)[`45`](../src/subsilver/topics_list_box.tpl#L45)
-
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`45`](../src/subsilver/topics_list_box.tpl#L45)

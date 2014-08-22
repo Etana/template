@@ -14,5 +14,4 @@ Contient la valeur spécifiée pour `Description du site` dans [`Index`](http://
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`265`](../src/subsilver/overall_header.tpl#L265)[`<->`](../src/subsilver/overall_header.tpl#L265-L265)[`265`](../src/subsilver/overall_header.tpl#L265)
-
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`265`](../src/subsilver/overall_header.tpl#L265)

@@ -231,8 +231,17 @@ for var in variables:
         for ver in sorted(variables[var].keys(), key=sorting_version):
             f.write('### Version '+template_versions[ver]+'\n')
             for tem in sorted(variables[var][ver].keys()):
+                f.write('* __[`'+tem+'`](../tpl/'+tem+'.md#readme) :__ lignes ')
+                first = True
+                prev_type = -1
                 for num_line, var_type in variables[var][ver][tem]:
-                    f.write('* __[`'+tem+'`](../tpl/'+tem+'.md#readme) :__ lignes [`'+str(num_line)+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(num_line)+')[`<->`](../src/'+ver+'/'+tem+'.tpl#L'+str(num_line)+'-L'+str(num_line)+')[`'+str(num_line)+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(num_line)+')\n')
+                    if first:
+                        first = False
+                    elif prev_type==1 and var_type==2:
+                        f.write('[`<->`](../src/'+ver+'/'+tem+'.tpl#L'+str(prev_line)+'-L'+str(num_line)+')')
+                    else:
+                        f.write(', ')
+                    f.write('[`'+str(num_line)+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(num_line)+')')
             f.write('\n')
 
 

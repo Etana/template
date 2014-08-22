@@ -15,14 +15,10 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`26`](../src/prosilver/agreement.tpl#L26)[`<->`](../src/prosilver/agreement.tpl#L26-L26)[`26`](../src/prosilver/agreement.tpl#L26)
-
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`26`](../src/prosilver/agreement.tpl#L26)
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`34`](../src/subsilver/agreement.tpl#L34)[`<->`](../src/subsilver/agreement.tpl#L34-L34)[`34`](../src/subsilver/agreement.tpl#L34)
-
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`34`](../src/subsilver/agreement.tpl#L34)
 ### Version PunBB
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`36`](../src/punbb/agreement.tpl#L36)[`<->`](../src/punbb/agreement.tpl#L36-L36)[`36`](../src/punbb/agreement.tpl#L36)
-
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`36`](../src/punbb/agreement.tpl#L36)
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`49`](../src/invision/agreement.tpl#L49)[`<->`](../src/invision/agreement.tpl#L49-L49)[`49`](../src/invision/agreement.tpl#L49)
-
+* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`49`](../src/invision/agreement.tpl#L49)

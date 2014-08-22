@@ -15,6 +15,4 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`3`](../src/subsilver/posting_body.tpl#L3)[`<->`](../src/subsilver/posting_body.tpl#L3-L3)[`3`](../src/subsilver/posting_body.tpl#L3)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`23`](../src/subsilver/posting_body.tpl#L23)[`<->`](../src/subsilver/posting_body.tpl#L23-L23)[`23`](../src/subsilver/posting_body.tpl#L23)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`3`](../src/subsilver/posting_body.tpl#L3), [`23`](../src/subsilver/posting_body.tpl#L23)

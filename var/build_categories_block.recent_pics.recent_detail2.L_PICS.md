@@ -19,5 +19,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`53`](../src/subsilver/album_index_body.tpl#L53)[`<->`](../src/subsilver/album_index_body.tpl#L53-L53)[`53`](../src/subsilver/album_index_body.tpl#L53)
-
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`53`](../src/subsilver/album_index_body.tpl#L53)

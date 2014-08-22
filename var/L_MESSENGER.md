@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`81`](../src/invision/profile_add_body.tpl#L81)[`<->`](../src/invision/profile_add_body.tpl#L81-L81)[`81`](../src/invision/profile_add_body.tpl#L81)
-
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`81`](../src/invision/profile_add_body.tpl#L81)

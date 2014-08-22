@@ -15,6 +15,4 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`8`](../src/subsilver/standard.tpl#L8)[`<->`](../src/subsilver/standard.tpl#L8-L8)[`8`](../src/subsilver/standard.tpl#L8)
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`10`](../src/subsilver/standard.tpl#L10)[`<->`](../src/subsilver/standard.tpl#L10-L10)[`10`](../src/subsilver/standard.tpl#L10)
-
+* __[`standard`](../tpl/standard.md#readme) :__ lignes [`8`](../src/subsilver/standard.tpl#L8), [`10`](../src/subsilver/standard.tpl#L10)

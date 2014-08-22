@@ -17,14 +17,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`15`](../src/prosilver/birthday_list_box.tpl#L15)[`<->`](../src/prosilver/birthday_list_box.tpl#L15-L15)[`15`](../src/prosilver/birthday_list_box.tpl#L15)
-
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`15`](../src/prosilver/birthday_list_box.tpl#L15)
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`25`](../src/subsilver/birthday_list_box.tpl#L25)[`<->`](../src/subsilver/birthday_list_box.tpl#L25-L25)[`25`](../src/subsilver/birthday_list_box.tpl#L25)
-
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`25`](../src/subsilver/birthday_list_box.tpl#L25)
 ### Version PunBB
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`9`](../src/punbb/birthday_list_box.tpl#L9)[`<->`](../src/punbb/birthday_list_box.tpl#L9-L9)[`9`](../src/punbb/birthday_list_box.tpl#L9)
-
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`9`](../src/punbb/birthday_list_box.tpl#L9)
 ### Version Invision
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`10`](../src/invision/birthday_list_box.tpl#L10)[`<->`](../src/invision/birthday_list_box.tpl#L10-L10)[`10`](../src/invision/birthday_list_box.tpl#L10)
-
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`10`](../src/invision/birthday_list_box.tpl#L10)

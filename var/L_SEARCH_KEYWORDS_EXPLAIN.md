@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`9`](../src/subsilver/album_formsearch_body.tpl#L9)[`<->`](../src/subsilver/album_formsearch_body.tpl#L9-L9)[`9`](../src/subsilver/album_formsearch_body.tpl#L9)
-
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`9`](../src/subsilver/album_formsearch_body.tpl#L9)

@@ -13,14 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`12`](../src/prosilver/groupcp_user_body.tpl#L12)[`<->`](../src/prosilver/groupcp_user_body.tpl#L12-L12)[`12`](../src/prosilver/groupcp_user_body.tpl#L12)
-
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`12`](../src/prosilver/groupcp_user_body.tpl#L12)
 ### Version phpBB2
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`8`](../src/subsilver/groupcp_user_body.tpl#L8)[`<->`](../src/subsilver/groupcp_user_body.tpl#L8-L8)[`8`](../src/subsilver/groupcp_user_body.tpl#L8)
-
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`8`](../src/subsilver/groupcp_user_body.tpl#L8)
 ### Version PunBB
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`32`](../src/punbb/groupcp_user_body.tpl#L32)[`<->`](../src/punbb/groupcp_user_body.tpl#L32-L32)[`32`](../src/punbb/groupcp_user_body.tpl#L32)
-
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`32`](../src/punbb/groupcp_user_body.tpl#L32)
 ### Version Invision
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`15`](../src/invision/groupcp_user_body.tpl#L15)[`<->`](../src/invision/groupcp_user_body.tpl#L15-L15)[`15`](../src/invision/groupcp_user_body.tpl#L15)
-
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`15`](../src/invision/groupcp_user_body.tpl#L15)

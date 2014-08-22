@@ -20,5 +20,4 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`15`](../src/subsilver/confirm_body.tpl#L15)[`<->`](../src/subsilver/confirm_body.tpl#L15-L15)[`15`](../src/subsilver/confirm_body.tpl#L15)
-
+* __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`15`](../src/subsilver/confirm_body.tpl#L15)

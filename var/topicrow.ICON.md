@@ -15,5 +15,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`31`](../src/prosilver/modcp_body.tpl#L31)[`<->`](../src/prosilver/modcp_body.tpl#L31-L31)[`31`](../src/prosilver/modcp_body.tpl#L31)
-
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`31`](../src/prosilver/modcp_body.tpl#L31)

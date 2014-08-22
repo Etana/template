@@ -15,14 +15,8 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`47`](../src/prosilver/posting_body.tpl#L47)[`<->`](../src/prosilver/posting_body.tpl#L47-L47)[`47`](../src/prosilver/posting_body.tpl#L47)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`49`](../src/prosilver/posting_body.tpl#L49)[`<->`](../src/prosilver/posting_body.tpl#L49-L49)[`49`](../src/prosilver/posting_body.tpl#L49)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`47`](../src/prosilver/posting_body.tpl#L47), [`49`](../src/prosilver/posting_body.tpl#L49)
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`61`](../src/punbb/posting_body.tpl#L61)[`<->`](../src/punbb/posting_body.tpl#L61-L61)[`61`](../src/punbb/posting_body.tpl#L61)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`61`](../src/punbb/posting_body.tpl#L61)[`<->`](../src/punbb/posting_body.tpl#L61-L61)[`61`](../src/punbb/posting_body.tpl#L61)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`61`](../src/punbb/posting_body.tpl#L61), [`61`](../src/punbb/posting_body.tpl#L61)
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`40`](../src/invision/posting_body.tpl#L40)[`<->`](../src/invision/posting_body.tpl#L40-L40)[`40`](../src/invision/posting_body.tpl#L40)
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`40`](../src/invision/posting_body.tpl#L40)[`<->`](../src/invision/posting_body.tpl#L40-L40)[`40`](../src/invision/posting_body.tpl#L40)
-
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`40`](../src/invision/posting_body.tpl#L40), [`40`](../src/invision/posting_body.tpl#L40)

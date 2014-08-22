@@ -15,6 +15,4 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`63`](../src/prosilver/mod_login.tpl#L63)[`<->`](../src/prosilver/mod_login.tpl#L63-L63)[`63`](../src/prosilver/mod_login.tpl#L63)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`77`](../src/prosilver/mod_login.tpl#L77)[`<->`](../src/prosilver/mod_login.tpl#L77-L77)[`77`](../src/prosilver/mod_login.tpl#L77)
-
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`63`](../src/prosilver/mod_login.tpl#L63), [`77`](../src/prosilver/mod_login.tpl#L77)

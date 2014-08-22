@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`65`](../src/invision/search_results_topics.tpl#L65)[`<->`](../src/invision/search_results_topics.tpl#L65-L65)[`65`](../src/invision/search_results_topics.tpl#L65)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`65`](../src/invision/search_results_topics.tpl#L65)

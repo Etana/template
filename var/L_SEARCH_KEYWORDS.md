@@ -15,17 +15,10 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`12`](../src/prosilver/album_formsearch_body.tpl#L12)[`<->`](../src/prosilver/album_formsearch_body.tpl#L12-L12)[`12`](../src/prosilver/album_formsearch_body.tpl#L12)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`14`](../src/prosilver/search_body.tpl#L14)[`<->`](../src/prosilver/search_body.tpl#L14-L14)[`14`](../src/prosilver/search_body.tpl#L14)
-
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`12`](../src/prosilver/album_formsearch_body.tpl#L12)* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`14`](../src/prosilver/search_body.tpl#L14)
 ### Version phpBB2
-* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`8`](../src/subsilver/album_formsearch_body.tpl#L8)[`<->`](../src/subsilver/album_formsearch_body.tpl#L8-L8)[`8`](../src/subsilver/album_formsearch_body.tpl#L8)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`8`](../src/subsilver/search_body.tpl#L8)[`<->`](../src/subsilver/search_body.tpl#L8-L8)[`8`](../src/subsilver/search_body.tpl#L8)
-
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`8`](../src/subsilver/album_formsearch_body.tpl#L8)* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`8`](../src/subsilver/search_body.tpl#L8)
 ### Version PunBB
-* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`27`](../src/punbb/album_formsearch_body.tpl#L27)[`<->`](../src/punbb/album_formsearch_body.tpl#L27-L27)[`27`](../src/punbb/album_formsearch_body.tpl#L27)
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`32`](../src/punbb/search_body.tpl#L32)[`<->`](../src/punbb/search_body.tpl#L32-L32)[`32`](../src/punbb/search_body.tpl#L32)
-
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`27`](../src/punbb/album_formsearch_body.tpl#L27)* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`32`](../src/punbb/search_body.tpl#L32)
 ### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`14`](../src/invision/search_body.tpl#L14)[`<->`](../src/invision/search_body.tpl#L14-L14)[`14`](../src/invision/search_body.tpl#L14)
-
+* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`14`](../src/invision/search_body.tpl#L14)

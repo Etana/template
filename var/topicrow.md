@@ -15,18 +15,10 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`28`](../src/prosilver/modcp_body.tpl#L28)[`<->`](../src/prosilver/modcp_body.tpl#L28-L28)[`28`](../src/prosilver/modcp_body.tpl#L28)
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`38`](../src/prosilver/modcp_body.tpl#L38)[`<->`](../src/prosilver/modcp_body.tpl#L38-L38)[`38`](../src/prosilver/modcp_body.tpl#L38)
-
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`28`](../src/prosilver/modcp_body.tpl#L28), [`38`](../src/prosilver/modcp_body.tpl#L38)
 ### Version phpBB2
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`21`](../src/subsilver/modcp_body.tpl#L21)[`<->`](../src/subsilver/modcp_body.tpl#L21-L21)[`21`](../src/subsilver/modcp_body.tpl#L21)
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`31`](../src/subsilver/modcp_body.tpl#L31)[`<->`](../src/subsilver/modcp_body.tpl#L31-L31)[`31`](../src/subsilver/modcp_body.tpl#L31)
-
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`21`](../src/subsilver/modcp_body.tpl#L21), [`31`](../src/subsilver/modcp_body.tpl#L31)
 ### Version PunBB
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`47`](../src/punbb/modcp_body.tpl#L47)[`<->`](../src/punbb/modcp_body.tpl#L47-L47)[`47`](../src/punbb/modcp_body.tpl#L47)
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`57`](../src/punbb/modcp_body.tpl#L57)[`<->`](../src/punbb/modcp_body.tpl#L57-L57)[`57`](../src/punbb/modcp_body.tpl#L57)
-
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`47`](../src/punbb/modcp_body.tpl#L47), [`57`](../src/punbb/modcp_body.tpl#L57)
 ### Version Invision
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`26`](../src/invision/modcp_body.tpl#L26)[`<->`](../src/invision/modcp_body.tpl#L26-L26)[`26`](../src/invision/modcp_body.tpl#L26)
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`36`](../src/invision/modcp_body.tpl#L36)[`<->`](../src/invision/modcp_body.tpl#L36-L36)[`36`](../src/invision/modcp_body.tpl#L36)
-
+* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`26`](../src/invision/modcp_body.tpl#L26), [`36`](../src/invision/modcp_body.tpl#L36)

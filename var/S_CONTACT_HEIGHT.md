@@ -13,5 +13,4 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`74`](../src/subsilver/profile_view_body.tpl#L74)[`<->`](../src/subsilver/profile_view_body.tpl#L74-L74)[`74`](../src/subsilver/profile_view_body.tpl#L74)
-
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`74`](../src/subsilver/profile_view_body.tpl#L74)

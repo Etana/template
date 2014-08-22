@@ -13,15 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`20`](../src/prosilver/mod_search.tpl#L20)[`<->`](../src/prosilver/mod_search.tpl#L20-L20)[`20`](../src/prosilver/mod_search.tpl#L20)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`275`](../src/prosilver/overall_header.tpl#L275)[`<->`](../src/prosilver/overall_header.tpl#L275-L275)[`275`](../src/prosilver/overall_header.tpl#L275)
-
+* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`20`](../src/prosilver/mod_search.tpl#L20)* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`275`](../src/prosilver/overall_header.tpl#L275)
 ### Version phpBB2
-* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`20`](../src/subsilver/mod_search.tpl#L20)[`<->`](../src/subsilver/mod_search.tpl#L20-L20)[`20`](../src/subsilver/mod_search.tpl#L20)
-
+* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`20`](../src/subsilver/mod_search.tpl#L20)
 ### Version PunBB
-* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`19`](../src/punbb/mod_search.tpl#L19)[`<->`](../src/punbb/mod_search.tpl#L19-L19)[`19`](../src/punbb/mod_search.tpl#L19)
-
+* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`19`](../src/punbb/mod_search.tpl#L19)
 ### Version Invision
-* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`21`](../src/invision/mod_search.tpl#L21)[`<->`](../src/invision/mod_search.tpl#L21-L21)[`21`](../src/invision/mod_search.tpl#L21)
-
+* __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`21`](../src/invision/mod_search.tpl#L21)

@@ -15,5 +15,4 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`94`](../src/invision/album_index_body.tpl#L94)[`<->`](../src/invision/album_index_body.tpl#L94-L94)[`94`](../src/invision/album_index_body.tpl#L94)
-
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`94`](../src/invision/album_index_body.tpl#L94)

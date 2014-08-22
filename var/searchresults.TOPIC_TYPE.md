@@ -17,14 +17,10 @@ Retourne le type de sujet.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`31`](../src/prosilver/search_results_topics.tpl#L31)[`<->`](../src/prosilver/search_results_topics.tpl#L31-L31)[`31`](../src/prosilver/search_results_topics.tpl#L31)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`31`](../src/prosilver/search_results_topics.tpl#L31)
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)[`<->`](../src/subsilver/search_results_topics.tpl#L39-L39)[`39`](../src/subsilver/search_results_topics.tpl#L39)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)
 ### Version PunBB
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`54`](../src/punbb/search_results_topics.tpl#L54)[`<->`](../src/punbb/search_results_topics.tpl#L54-L54)[`54`](../src/punbb/search_results_topics.tpl#L54)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`54`](../src/punbb/search_results_topics.tpl#L54)
 ### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`43`](../src/invision/search_results_topics.tpl#L43)[`<->`](../src/invision/search_results_topics.tpl#L43-L43)[`43`](../src/invision/search_results_topics.tpl#L43)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`43`](../src/invision/search_results_topics.tpl#L43)

@@ -15,18 +15,10 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`55`](../src/prosilver/album_index_body.tpl#L55)[`<->`](../src/prosilver/album_index_body.tpl#L55-L55)[`55`](../src/prosilver/album_index_body.tpl#L55)
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`57`](../src/prosilver/album_index_body.tpl#L57)[`<->`](../src/prosilver/album_index_body.tpl#L57-L57)[`57`](../src/prosilver/album_index_body.tpl#L57)
-
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`55`](../src/prosilver/album_index_body.tpl#L55), [`57`](../src/prosilver/album_index_body.tpl#L57)
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`102`](../src/subsilver/album_index_body.tpl#L102)[`<->`](../src/subsilver/album_index_body.tpl#L102-L102)[`102`](../src/subsilver/album_index_body.tpl#L102)
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`106`](../src/subsilver/album_index_body.tpl#L106)[`<->`](../src/subsilver/album_index_body.tpl#L106-L106)[`106`](../src/subsilver/album_index_body.tpl#L106)
-
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`102`](../src/subsilver/album_index_body.tpl#L102), [`106`](../src/subsilver/album_index_body.tpl#L106)
 ### Version PunBB
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`65`](../src/punbb/album_index_body.tpl#L65)[`<->`](../src/punbb/album_index_body.tpl#L65-L65)[`65`](../src/punbb/album_index_body.tpl#L65)
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`67`](../src/punbb/album_index_body.tpl#L67)[`<->`](../src/punbb/album_index_body.tpl#L67-L67)[`67`](../src/punbb/album_index_body.tpl#L67)
-
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`65`](../src/punbb/album_index_body.tpl#L65), [`67`](../src/punbb/album_index_body.tpl#L67)
 ### Version Invision
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`73`](../src/invision/album_index_body.tpl#L73)[`<->`](../src/invision/album_index_body.tpl#L73-L73)[`73`](../src/invision/album_index_body.tpl#L73)
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`78`](../src/invision/album_index_body.tpl#L78)[`<->`](../src/invision/album_index_body.tpl#L78-L78)[`78`](../src/invision/album_index_body.tpl#L78)
-
+* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`73`](../src/invision/album_index_body.tpl#L73), [`78`](../src/invision/album_index_body.tpl#L78)

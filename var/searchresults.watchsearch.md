@@ -17,6 +17,4 @@ Boucle d'affichage si vous êtes dans la partie `/search?search_id=watchsearch`.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`47`](../src/subsilver/search_results_topics.tpl#L47)[`<->`](../src/subsilver/search_results_topics.tpl#L47-L47)[`47`](../src/subsilver/search_results_topics.tpl#L47)
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`49`](../src/subsilver/search_results_topics.tpl#L49)[`<->`](../src/subsilver/search_results_topics.tpl#L49-L49)[`49`](../src/subsilver/search_results_topics.tpl#L49)
-
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`47`](../src/subsilver/search_results_topics.tpl#L47), [`49`](../src/subsilver/search_results_topics.tpl#L49)

@@ -15,15 +15,10 @@ Contient l'avatar du membre.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`46`](../src/prosilver/memberlist_body.tpl#L46)[`<->`](../src/prosilver/memberlist_body.tpl#L46-L46)[`46`](../src/prosilver/memberlist_body.tpl#L46)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`46`](../src/prosilver/memberlist_body.tpl#L46)
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`39`](../src/subsilver/memberlist_body.tpl#L39)[`<->`](../src/subsilver/memberlist_body.tpl#L39-L39)[`39`](../src/subsilver/memberlist_body.tpl#L39)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`39`](../src/subsilver/memberlist_body.tpl#L39)
 ### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`79`](../src/punbb/memberlist_body.tpl#L79)[`<->`](../src/punbb/memberlist_body.tpl#L79-L79)[`79`](../src/punbb/memberlist_body.tpl#L79)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`79`](../src/punbb/memberlist_body.tpl#L79)
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`68`](../src/invision/memberlist_body.tpl#L68)[`<->`](../src/invision/memberlist_body.tpl#L68-L68)[`68`](../src/invision/memberlist_body.tpl#L68)
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`72`](../src/invision/memberlist_body.tpl#L72)[`<->`](../src/invision/memberlist_body.tpl#L72-L72)[`72`](../src/invision/memberlist_body.tpl#L72)
-
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`68`](../src/invision/memberlist_body.tpl#L68), [`72`](../src/invision/memberlist_body.tpl#L72)
