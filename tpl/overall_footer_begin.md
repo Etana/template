@@ -15,10 +15,10 @@
 * __Variables propres à ce template :__
 	* [`{C3SIZE}`](../var/C3SIZE.md#readme)
 	* [`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)
-	* [`&lt; giefmod_index2 &gt;`](../var/giefmod_index2.md#readme)
+	* [`<!-- BEGIN giefmod_index2 -->...<!-- END giefmod_index2 -->`](../var/giefmod_index2.md#readme)
 	* [`{giefmod_index2.MODVAR}`](../var/giefmod_index2.MODVAR.md#readme)
-	* [`&lt; giefmod_index2.saut &gt;`](../var/giefmod_index2.saut.md#readme)
-	* [`&lt; html_validation &gt;`](../var/html_validation.md#readme)
+	* 	[`<!-- BEGIN saut -->...<!-- END saut -->`](../var/giefmod_index2.saut.md#readme)
+	* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](../var/html_validation.md#readme)
 	* [`{ID_RIGHT}`](../var/ID_RIGHT.md#readme)
 	* [`{L_GO}`](../var/L_GO.md#readme)
 	* [`{L_HOME}`](../var/L_HOME.md#readme)

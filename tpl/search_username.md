@@ -13,7 +13,7 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`&lt; html_validation &gt;`](../var/html_validation.md#readme)
+	* [`<!-- BEGIN html_validation -->...<!-- END html_validation -->`](../var/html_validation.md#readme)
 	* [`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
 	* [`{L_SEARCH}`](../var/L_SEARCH.md#readme)
 	* [`{L_SEARCH_EXPLAIN}`](../var/L_SEARCH_EXPLAIN.md#readme)
@@ -21,5 +21,5 @@
 	* [`{L_SELECT}`](../var/L_SELECT.md#readme)
 	* [`{S_SEARCH_ACTION}`](../var/S_SEARCH_ACTION.md#readme)
 	* [`{S_USERNAME_OPTIONS}`](../var/S_USERNAME_OPTIONS.md#readme)
-	* [`&lt; switch_select_name &gt;`](../var/switch_select_name.md#readme)
+	* [`<!-- BEGIN switch_select_name -->...<!-- END switch_select_name -->`](../var/switch_select_name.md#readme)
 	* [`{USERNAME}`](../var/USERNAME.md#readme)

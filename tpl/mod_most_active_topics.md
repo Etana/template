@@ -14,7 +14,7 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_MOST_ACTIVE_TOPICS}`](../var/L_MOST_ACTIVE_TOPICS.md#readme)
-	* [`&lt; TOPIC &gt;`](../var/TOPIC.md#readme)
+	* [`<!-- BEGIN TOPIC -->...<!-- END TOPIC -->`](../var/TOPIC.md#readme)
 	* [`{TOPIC.LINK}`](../var/TOPIC.LINK.md#readme)
 	* [`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme)
 	* [`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme)

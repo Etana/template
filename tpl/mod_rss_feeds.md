@@ -13,7 +13,7 @@
 ## Variables disponibles
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
-	* [`&lt; IMGS &gt;`](../var/IMGS.md#readme)
+	* [`<!-- BEGIN IMGS -->...<!-- END IMGS -->`](../var/IMGS.md#readme)
 	* [`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme)
 	* [`{IMGS.IMG}`](../var/IMGS.IMG.md#readme)
 	* [`{IMGS.NEW_LINE}`](../var/IMGS.NEW_LINE.md#readme)

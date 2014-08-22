@@ -15,7 +15,7 @@
 * __Variables propres à ce template :__
 	* [`{AUTHOR}`](../var/AUTHOR.md#readme)
 	* [`{CALENDAR_EVENT}`](../var/CALENDAR_EVENT.md#readme)
-	* [`&lt; display_forum &gt;`](../var/display_forum.md#readme)
+	* [`<!-- BEGIN display_forum -->...<!-- END display_forum -->`](../var/display_forum.md#readme)
 	* [`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)
 	* [`{L_CALENDAR_EVENT}`](../var/L_CALENDAR_EVENT.md#readme)
 	* [`{L_FORUM}`](../var/L_FORUM.md#readme)

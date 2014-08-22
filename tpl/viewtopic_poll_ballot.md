@@ -18,7 +18,7 @@
 	* [`{L_SUBMIT_VOTE}`](../var/L_SUBMIT_VOTE.md#readme)
 	* [`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme)
 	* [`{L_VIEW_RESULTS}`](../var/L_VIEW_RESULTS.md#readme)
-	* [`&lt; poll_option &gt;`](../var/poll_option.md#readme)
+	* [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](../var/poll_option.md#readme)
 	* [`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)
 	* [`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)
 	* [`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme)

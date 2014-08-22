@@ -17,6 +17,6 @@
 	* [`{L_WHO_IS_ONLINE}`](../var/L_WHO_IS_ONLINE.md#readme)
 	* [`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)
 	* [`{RECORD_USERS}`](../var/RECORD_USERS.md#readme)
-	* [`&lt; switch_onlinelink &gt;`](../var/switch_onlinelink.md#readme)
+	* [`<!-- BEGIN switch_onlinelink -->...<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme)
 	* [`{TOTAL_USERS_ONLINE}`](../var/TOTAL_USERS_ONLINE.md#readme)
 	* [`{U_VIEWONLINE}`](../var/U_VIEWONLINE.md#readme)

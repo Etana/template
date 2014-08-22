@@ -14,7 +14,7 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_TOP_POST_USERS_WEEK}`](../var/L_TOP_POST_USERS_WEEK.md#readme)
-	* [`&lt; POSTER &gt;`](../var/POSTER.md#readme)
+	* [`<!-- BEGIN POSTER -->...<!-- END POSTER -->`](../var/POSTER.md#readme)
 	* [`{POSTER.BARRE}`](../var/POSTER.BARRE.md#readme)
 	* [`{POSTER.NAME}`](../var/POSTER.NAME.md#readme)
 	* [`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)

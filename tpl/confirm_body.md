@@ -26,5 +26,5 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 	* [`{OPTIONAL_BAN_NEW}`](../var/OPTIONAL_BAN_NEW.md#readme)
 	* [`{S_CONFIRM_ACTION}`](../var/S_CONFIRM_ACTION.md#readme)
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
-	* [`&lt; switch_user_logged_in &gt;`](../var/switch_user_logged_in.md#readme)
+	* [`<!-- BEGIN switch_user_logged_in -->...<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)
 	* [`{U_INDEX}`](../var/U_INDEX.md#readme)

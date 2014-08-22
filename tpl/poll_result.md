@@ -14,7 +14,7 @@
 * [__Variables globales__](../../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme)
-	* [`&lt; poll_option &gt;`](../var/poll_option.md#readme)
+	* [`<!-- BEGIN poll_option -->...<!-- END poll_option -->`](../var/poll_option.md#readme)
 	* [`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)
 	* [`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme)
 	* [`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme)
