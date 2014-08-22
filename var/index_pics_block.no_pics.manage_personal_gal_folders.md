@@ -14,7 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.manage_personal_gal_folders)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.manage_personal_gal_folders)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.no_pics.manage_personal_gal_folders)
+
+## Attributs
 
 
 ## Utilisations dans les templates

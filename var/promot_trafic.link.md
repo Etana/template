@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/promot_trafic.link)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/promot_trafic.link)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{promot_trafic.link.TITLE}`](../var/promot_trafic.link.TITLE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{promot_trafic.link.U_HREF}`](../var/promot_trafic.link.U_HREF.md#readme)__
 

@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_user_authreply)
-Boucle s'affichant si l'utilisateur a l'autorisation de répondre à un sujet dans le forum concerné.\n## Attributs
+Boucle s'affichant si l'utilisateur a l'autorisation de répondre à un sujet dans le forum concerné.
+
+## Attributs
 
 
 ## Utilisations dans les templates

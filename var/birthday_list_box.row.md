@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.AGE}`](../var/birthday_list_box.row.AGE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN bottom -->`](../var/birthday_list_box.row.bottom.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.COLSPAN}`](../var/birthday_list_box.row.COLSPAN.md#readme)__

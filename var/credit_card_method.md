@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/credit_card_method)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/credit_card_method)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN credits_option -->`](../var/credit_card_method.credits_option.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{credit_card_method.credits_option.OPTION}`](../var/credit_card_method.credits_option.OPTION.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{credit_card_method.credits_option.VALUE}`](../var/credit_card_method.credits_option.VALUE.md#readme)__

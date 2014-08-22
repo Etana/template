@@ -14,7 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.recent_pics.recent_detail)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.CAT_DESC}`](../var/build_categories_block.recent_pics.recent_detail.CAT_DESC.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.CAT_TITLE}`](../var/build_categories_block.recent_pics.recent_detail.CAT_TITLE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.CLEAR_BOTH}`](../var/build_categories_block.recent_pics.recent_detail.CLEAR_BOTH.md#readme)__

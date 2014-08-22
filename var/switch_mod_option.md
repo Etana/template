@@ -12,7 +12,9 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/switch_mod_option)
 Le contenu de la boucle est affiché si le visiteur est administrateur ou modérateur du groupe.
 
-\n## Attributs
+
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_grp_admin -->`](../var/switch_mod_option.switch_grp_admin.md#readme)__
 
 

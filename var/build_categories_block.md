@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN block_title -->`](../var/build_categories_block.block_title.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.block_title.L_TITLE}`](../var/build_categories_block.block_title.L_TITLE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_pics -->`](../var/build_categories_block.no_pics.md#readme)__

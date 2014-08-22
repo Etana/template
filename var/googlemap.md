@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/googlemap)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/googlemap)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{googlemap.U_GOOGLEMAP}`](../var/googlemap.U_GOOGLEMAP.md#readme)__
 
 

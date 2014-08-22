@@ -14,7 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.spacer)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.spacer)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.spacer)
+
+## Attributs
 
 
 ## Utilisations dans les templates

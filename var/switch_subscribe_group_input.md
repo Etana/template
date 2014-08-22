@@ -15,7 +15,9 @@ Le contenu de la boucle est affiché si :
 * le membre est connecté.
 * le membre ne fait pas partie et n'est pas candidat du groupe.
 * le statut du groupe est `ouvert`.
-\n## Attributs
+
+
+## Attributs
 
 
 ## Utilisations dans les templates

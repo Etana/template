@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_reasons)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_reasons)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_reasons)
+
+## Attributs
 
 
 ## Utilisations dans les templates

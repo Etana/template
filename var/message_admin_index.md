@@ -12,7 +12,9 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/message_admin_index)
 Boucle contenant le message d'accueil.
 
-* __Code :__ [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](../var/message_admin_index.md#readme)\n## Attributs
+* __Code :__ [`<!-- BEGIN message_admin_index -->...<!-- END message_admin_index -->`](../var/message_admin_index.md#readme)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_titre -->`](../var/message_admin_index.message_admin_titre.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_titre.MES_TITRE}`](../var/message_admin_index.message_admin_titre.MES_TITRE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_txt -->`](../var/message_admin_index.message_admin_txt.md#readme)__

@@ -19,7 +19,9 @@ Variable de boucle ayant une valeur si l'utilisateur est déconnecté.
 contenu que l'utilisateur verra si il est déconnecté
 <!-- END switch_user_logged_out -->
 ```
-\n## Attributs
+
+
+## Attributs
 
 
 ## Utilisations dans les templates

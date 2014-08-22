@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/searchresults)
-Boucle d'affichage des résultats de la recherche se répétant pour chaque message.\n## Attributs
+Boucle d'affichage des résultats de la recherche se répétant pour chaque message.
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.FORUM_NAME}`](../var/searchresults.FORUM_NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.GOTO_PAGE}`](../var/searchresults.GOTO_PAGE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.GOTO_PAGE_NEW}`](../var/searchresults.GOTO_PAGE_NEW.md#readme)__

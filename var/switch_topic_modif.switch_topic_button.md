@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_topic_button)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_topic_button)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_topic_button)
+
+## Attributs
 
 
 ## Utilisations dans les templates

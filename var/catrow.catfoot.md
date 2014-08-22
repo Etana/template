@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.catfoot)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.catfoot)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.catfoot)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN inc -->`](../var/catrow.catfoot.inc.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.catfoot.inc.INC_CLASS}`](../var/catrow.catfoot.inc.INC_CLASS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.catfoot.INC_SPAN}`](../var/catrow.catfoot.INC_SPAN.md#readme)__

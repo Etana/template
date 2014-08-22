@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.block_title)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.block_title)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.block_title)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.block_title.L_TITLE}`](../var/build_categories_block.block_title.L_TITLE.md#readme)__
 
 

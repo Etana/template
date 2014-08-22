@@ -14,7 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.avatar_option_column)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.avatar_option_column)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/avatar_row.avatar_column.avatar_option_column)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__
 
 

@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN bottom -->`](../var/topics_list_box.row.bottom.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.bottom.COUNT_TOTAL_TOPICS}`](../var/topics_list_box.row.bottom.COUNT_TOTAL_TOPICS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN multi_selection -->`](../var/topics_list_box.row.bottom.multi_selection.md#readme)__

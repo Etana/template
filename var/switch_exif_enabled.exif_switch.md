@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled.exif_switch)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN exif_data -->`](../var/switch_exif_enabled.exif_switch.exif_data.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN EXIFc1 -->`](../var/switch_exif_enabled.exif_switch.exif_data.EXIFc1.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN EXIFc2 -->`](../var/switch_exif_enabled.exif_switch.exif_data.EXIFc2.md#readme)__

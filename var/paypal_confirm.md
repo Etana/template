@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/paypal_confirm)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/paypal_confirm)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN hidden_field -->`](../var/paypal_confirm.hidden_field.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{paypal_confirm.hidden_field.NAME}`](../var/paypal_confirm.hidden_field.NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{paypal_confirm.hidden_field.VALUE}`](../var/paypal_confirm.hidden_field.VALUE.md#readme)__

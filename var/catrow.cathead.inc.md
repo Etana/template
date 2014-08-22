@@ -14,7 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.cathead.inc)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.inc)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.cathead.inc)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.cathead.inc.INC_CLASS}`](../var/catrow.cathead.inc.INC_CLASS.md#readme)__
 
 

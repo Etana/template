@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_on_index)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_on_index)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_delete_cookies -->`](../var/switch_on_index.switch_delete_cookies.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_on_index.switch_delete_cookies.L_DELETE_COOKIES}`](../var/switch_on_index.switch_delete_cookies.L_DELETE_COOKIES.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_on_index.switch_delete_cookies.U_DELETE_COOKIES}`](../var/switch_on_index.switch_delete_cookies.U_DELETE_COOKIES.md#readme)__

@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/profile_field)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/profile_field)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/profile_field)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{profile_field.CONTENT}`](../var/profile_field.CONTENT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{profile_field.ID}`](../var/profile_field.ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{profile_field.LABEL}`](../var/profile_field.LABEL.md#readme)__

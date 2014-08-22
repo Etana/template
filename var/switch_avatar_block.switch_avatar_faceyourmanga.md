@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_faceyourmanga)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_faceyourmanga)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_faceyourmanga)
+
+## Attributs
 
 
 ## Utilisations dans les templates

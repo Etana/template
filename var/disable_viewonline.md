@@ -12,7 +12,9 @@ contenu sur lequel on boucle
 ## Description[*](https://fa-tvars.appspot.com/var/disable_viewonline)
 Boucle contenant le qui est en ligne.
 
-{%disable_viewonline%}\n## Attributs
+{%disable_viewonline%}
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_birthday -->`](../var/disable_viewonline.switch_birthday.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_calendar_5days -->`](../var/disable_viewonline.switch_calendar_5days.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_chatbox_activate -->`](../var/disable_viewonline.switch_chatbox_activate.md#readme)__

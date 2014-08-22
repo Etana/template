@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_groups_joined)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_groups_joined)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_groups_joined)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_groups_member -->`](../var/switch_groups_joined.switch_groups_member.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_groups_pending -->`](../var/switch_groups_joined.switch_groups_pending.md#readme)__
 

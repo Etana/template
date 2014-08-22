@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/index_pics_block.sort_albums)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.sort_albums)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/index_pics_block.sort_albums)
+
+## Attributs
 
 
 ## Utilisations dans les templates

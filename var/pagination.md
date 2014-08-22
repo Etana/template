@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/pagination)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/pagination)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/pagination)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pagination.PAGINATION}`](../var/pagination.PAGINATION.md#readme)__
 
 

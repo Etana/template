@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod_index2)
-Boucle d'affichage de vos widgets de la colonne de droite si ceux-ci sont activés dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 3 (droite)`.\n## Attributs
+Boucle d'affichage de vos widgets de la colonne de droite si ceux-ci sont activés dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 3 (droite)`.
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod_index2.MODVAR}`](../var/giefmod_index2.MODVAR.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod_index2.saut.md#readme)__
 

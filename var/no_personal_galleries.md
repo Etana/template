@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/no_personal_galleries)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_personal_galleries)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/no_personal_galleries)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{no_personal_galleries.L_INFOS}`](../var/no_personal_galleries.L_INFOS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{no_personal_galleries.L_NO_PERSONNAL_GALLERIES}`](../var/no_personal_galleries.L_NO_PERSONNAL_GALLERIES.md#readme)__
 

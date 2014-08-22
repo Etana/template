@@ -14,7 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.contact_field)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.contact_field.CONTENT}`](../var/postrow.displayed.contact_field.CONTENT.md#readme)__
 
 

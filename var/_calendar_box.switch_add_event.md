@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/_calendar_box.switch_add_event)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_add_event)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/_calendar_box.switch_add_event)
+
+## Attributs
 
 
 ## Utilisations dans les templates

@@ -14,7 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/birthday_list_box.row.footer_table)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.footer_table)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/birthday_list_box.row.footer_table)
+
+## Attributs
 
 
 ## Utilisations dans les templates

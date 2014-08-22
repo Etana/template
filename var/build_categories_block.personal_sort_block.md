@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.personal_sort_block)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.personal_sort_block.L_ORDER}`](../var/build_categories_block.personal_sort_block.L_ORDER.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.personal_sort_block.L_SELECT_SORT_METHOD}`](../var/build_categories_block.personal_sort_block.L_SELECT_SORT_METHOD.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.personal_sort_block.L_SORT}`](../var/build_categories_block.personal_sort_block.L_SORT.md#readme)__

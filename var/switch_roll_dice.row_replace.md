@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_roll_dice.row_replace)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.row_replace.DICE_ID}`](../var/switch_roll_dice.row_replace.DICE_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.row_replace.DICE_NAME}`](../var/switch_roll_dice.row_replace.DICE_NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_roll_dice.row_replace.DICE_SELECTED}`](../var/switch_roll_dice.row_replace.DICE_SELECTED.md#readme)__

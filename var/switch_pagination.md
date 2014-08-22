@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_pagination)
-Boucle s'affichant si la partie affichée contient plusieurs pages.\n## Attributs
+Boucle s'affichant si la partie affichée contient plusieurs pages.
+
+## Attributs
 
 
 ## Utilisations dans les templates

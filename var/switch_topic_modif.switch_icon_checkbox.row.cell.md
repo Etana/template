@@ -16,7 +16,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_topic_modif.switch_icon_checkbox.row.cell)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topic_modif.switch_icon_checkbox.row.cell.ICON_CHECKED}`](../var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_CHECKED.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topic_modif.switch_icon_checkbox.row.cell.ICON_ID}`](../var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_ID.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG}`](../var/switch_topic_modif.switch_icon_checkbox.row.cell.ICON_IMG.md#readme)__

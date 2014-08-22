@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/display_infos)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/display_infos)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN rate_switch -->`](../var/display_infos.rate_switch.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{display_infos.rate_switch.norate_row.L_PIC_LOCKED}`](../var/display_infos.rate_switch.norate_row.L_PIC_LOCKED.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN norate_row_disabled -->`](../var/display_infos.rate_switch.norate_row_disabled.md#readme)__

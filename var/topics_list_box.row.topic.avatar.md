@@ -16,7 +16,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.avatar)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.avatar)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.avatar)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.topic.avatar.LAST_POST_AVATAR}`](../var/topics_list_box.row.topic.avatar.LAST_POST_AVATAR.md#readme)__
 
 

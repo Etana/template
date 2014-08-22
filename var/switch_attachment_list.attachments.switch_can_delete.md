@@ -14,7 +14,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_can_delete)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_can_delete)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_attachment_list.attachments.switch_can_delete)
+
+## Attributs
 
 
 ## Utilisations dans les templates

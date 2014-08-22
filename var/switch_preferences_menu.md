@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_preferences_menu)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_can_disable_mass_pm -->`](../var/switch_preferences_menu.switch_can_disable_mass_pm.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_enable_mail_view -->`](../var/switch_preferences_menu.switch_enable_mail_view.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect -->`](../var/switch_preferences_menu.switch_fb_connect.md#readme)__

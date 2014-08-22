@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_footer_links)
-Boucle s'affichant si vous avez activé les liens de bas de page dans `PA > Modules > Liens de bas de page | Configuration > Activer les liens de bas de page`.\n## Attributs
+Boucle s'affichant si vous avez activé les liens de bas de page dans `PA > Modules > Liens de bas de page | Configuration > Activer les liens de bas de page`.
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN footer_link -->`](../var/switch_footer_links.footer_link.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.FOOTER_LINK_REL}`](../var/switch_footer_links.footer_link.FOOTER_LINK_REL.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR}`](../var/switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR.md#readme)__

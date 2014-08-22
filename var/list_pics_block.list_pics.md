@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/list_pics_block.list_pics)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_ALBUM_NAME}`](../var/list_pics_block.list_pics.H_ALBUM_NAME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_POSTER}`](../var/list_pics_block.list_pics.H_POSTER.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_RANK}`](../var/list_pics_block.list_pics.H_RANK.md#readme)__

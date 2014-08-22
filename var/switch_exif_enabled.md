@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_exif_enabled)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_exif_enabled)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN exif_switch -->`](../var/switch_exif_enabled.exif_switch.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN exif_data -->`](../var/switch_exif_enabled.exif_switch.exif_data.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN EXIFc1 -->`](../var/switch_exif_enabled.exif_switch.exif_data.EXIFc1.md#readme)__

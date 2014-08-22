@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/build_categories_block.no_pics)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.no_pics)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/build_categories_block.no_pics)
+
+## Attributs
 
 
 ## Utilisations dans les templates

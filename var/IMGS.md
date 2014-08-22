@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/IMGS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/IMGS)\n## Attributs
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/IMGS)
+
+## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.ALT}`](../var/IMGS.ALT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme)__

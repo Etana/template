@@ -15,7 +15,9 @@
 Le contenu de la boucle est affiché :
 
 * soit si le visiteur est modérateur du groupe.
-* soit si le visiteur est administrateur.\n## Attributs
+* soit si le visiteur est administrateur.
+
+## Attributs
 
 
 ## Utilisations dans les templates

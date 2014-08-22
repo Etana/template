@@ -10,7 +10,9 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/watchsearch1)
-Boucle d'affiche si vous êtes dans la partie `/search?search_id=watchsearch`.\n## Attributs
+Boucle d'affiche si vous êtes dans la partie `/search?search_id=watchsearch`.
+
+## Attributs
 
 
 ## Utilisations dans les templates
