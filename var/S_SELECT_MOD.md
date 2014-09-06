@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/S_SELECT_MOD)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/S_SELECT_MOD)
+Remplacé par une liste déroulante contenant les différentes actions de modération pour un sujet
 
 ## Utilisations dans les templates
 

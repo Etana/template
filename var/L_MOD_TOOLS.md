@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_MOD_TOOLS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_MOD_TOOLS)
+Remplacé par les icônes de modération d'un sujet
 
 ## Utilisations dans les templates
 

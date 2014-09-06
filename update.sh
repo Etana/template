@@ -14,4 +14,4 @@ then
     comment_app=" + $2"
 fi
 
-time python update.py && git add . && git commit -a -m "màj descriptions$comment_app"  && git push origin master
+time python3 update.py && git add . && git commit -a -m "màj descriptions$comment_app"  && git push origin master

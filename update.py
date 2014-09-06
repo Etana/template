@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import requests, re, html, os, time, json
 from enum import Enum
 
