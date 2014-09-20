@@ -34,7 +34,7 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/agreement.tpl#files)
 
 ### Positions des variables
 
@@ -54,7 +54,7 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/agreement.tpl#files)
 
 ### Positions des variables
 
@@ -74,7 +74,7 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/agreement.tpl#files)
 
 ### Positions des variables
 
@@ -105,7 +105,7 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/agreement.tpl#files)
 
 ### Positions des variables
 

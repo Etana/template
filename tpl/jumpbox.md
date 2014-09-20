@@ -22,7 +22,7 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/jumpbox.tpl#files)
 
 ### Positions des variables
 
@@ -33,7 +33,7 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/jumpbox.tpl#files)
 
 ### Positions des variables
 
@@ -44,7 +44,7 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/jumpbox.tpl#files)
 
 ### Positions des variables
 
@@ -55,7 +55,7 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/jumpbox.tpl#files)
 
 ### Positions des variables
 

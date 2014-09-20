@@ -199,7 +199,7 @@
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/album_cat_body.tpl#files)
 
 ### Positions des variables
 
@@ -336,7 +336,7 @@
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/album_cat_body.tpl#files)
 
 ### Positions des variables
 
@@ -541,7 +541,7 @@
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/album_cat_body.tpl#files)
 
 ### Positions des variables
 
@@ -679,7 +679,7 @@
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/album_cat_body.tpl#files)
 
 ### Positions des variables
 

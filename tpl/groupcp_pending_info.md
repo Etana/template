@@ -39,7 +39,7 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/groupcp_pending_info.tpl#files)
 
 ### Positions des variables
 
@@ -67,7 +67,7 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/groupcp_pending_info.tpl#files)
 
 ### Positions des variables
 
@@ -101,7 +101,7 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/groupcp_pending_info.tpl#files)
 
 ### Positions des variables
 
@@ -128,7 +128,7 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/groupcp_pending_info.tpl#files)
 
 ### Positions des variables
 

@@ -99,7 +99,7 @@ Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/groupcp_info_body.tpl#files)
 
 ### Positions des variables
 
@@ -195,7 +195,7 @@ Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/groupcp_info_body.tpl#files)
 
 ### Positions des variables
 
@@ -290,7 +290,7 @@ Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/groupcp_info_body.tpl#files)
 
 ### Positions des variables
 
@@ -394,7 +394,7 @@ Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/groupcp_info_body.tpl#files)
 
 ### Positions des variables
 

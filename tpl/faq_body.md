@@ -48,7 +48,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est 
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/faq_body.tpl#files)
 
 ### Positions des variables
 
@@ -82,7 +82,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est 
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/faq_body.tpl#files)
 
 ### Positions des variables
 
@@ -108,7 +108,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est 
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/faq_body.tpl#files)
 
 ### Positions des variables
 
@@ -147,7 +147,7 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est 
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/faq_body.tpl#files)
 
 ### Positions des variables
 

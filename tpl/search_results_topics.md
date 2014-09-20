@@ -88,7 +88,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/search_results_topics.tpl#files)
 
 ### Positions des variables
 
@@ -135,7 +135,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/search_results_topics.tpl#files)
 
 ### Positions des variables
 
@@ -194,7 +194,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/search_results_topics.tpl#files)
 
 ### Positions des variables
 
@@ -249,7 +249,7 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/search_results_topics.tpl#files)
 
 ### Positions des variables
 

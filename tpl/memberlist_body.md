@@ -75,7 +75,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/memberlist_body.tpl#files)
 
 ### Positions des variables
 
@@ -131,7 +131,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/memberlist_body.tpl#files)
 
 ### Positions des variables
 
@@ -193,7 +193,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/memberlist_body.tpl#files)
 
 ### Positions des variables
 
@@ -261,7 +261,7 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/memberlist_body.tpl#files)
 
 ### Positions des variables
 

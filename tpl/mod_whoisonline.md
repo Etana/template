@@ -21,7 +21,7 @@
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/mod_whoisonline.tpl#files)
 
 ### Positions des variables
 
@@ -36,7 +36,7 @@
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/mod_whoisonline.tpl#files)
 
 ### Positions des variables
 
@@ -51,7 +51,7 @@
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/mod_whoisonline.tpl#files)
 
 ### Positions des variables
 
@@ -66,7 +66,7 @@
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/mod_whoisonline.tpl#files)
 
 ### Positions des variables
 

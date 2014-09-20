@@ -46,7 +46,7 @@
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/rpg_sheet_edit.tpl#files)
 
 ### Positions des variables
 
@@ -76,7 +76,7 @@
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/rpg_sheet_edit.tpl#files)
 
 ### Positions des variables
 
@@ -107,7 +107,7 @@
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/rpg_sheet_edit.tpl#files)
 
 ### Positions des variables
 
@@ -146,7 +146,7 @@
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/rpg_sheet_edit.tpl#files)
 
 ### Positions des variables
 

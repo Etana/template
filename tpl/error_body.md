@@ -20,7 +20,7 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/error_body.tpl#files)
 
 ### Positions des variables
 
@@ -28,7 +28,7 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/error_body.tpl#files)
 
 ### Positions des variables
 
@@ -36,7 +36,7 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/error_body.tpl#files)
 
 ### Positions des variables
 
@@ -44,7 +44,7 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/error_body.tpl#files)
 
 ### Positions des variables
 

@@ -104,7 +104,7 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/index_box.tpl#files)
 
 ### Positions des variables
 
@@ -177,7 +177,7 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/index_box.tpl#files)
 
 ### Positions des variables
 
@@ -327,7 +327,7 @@ Ce template affiche les catégories, les forums et les sous-forums de votre foru
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/index_box.tpl#files)
 
 ### Positions des variables
 

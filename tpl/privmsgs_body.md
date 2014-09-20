@@ -73,7 +73,7 @@
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/privmsgs_body.tpl#files)
 
 ### Positions des variables
 
@@ -130,7 +130,7 @@
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/privmsgs_body.tpl#files)
 
 ### Positions des variables
 
@@ -195,7 +195,7 @@
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/privmsgs_body.tpl#files)
 
 ### Positions des variables
 
@@ -265,7 +265,7 @@
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/privmsgs_body.tpl#files)
 
 ### Positions des variables
 

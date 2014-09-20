@@ -42,7 +42,7 @@
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/profile_avatar_gallery.tpl#files)
 
 ### Positions des variables
 
@@ -71,7 +71,7 @@
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/profile_avatar_gallery.tpl#files)
 
 ### Positions des variables
 
@@ -100,7 +100,7 @@
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/profile_avatar_gallery.tpl#files)
 
 ### Positions des variables
 
@@ -140,7 +140,7 @@
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/profile_avatar_gallery.tpl#files)
 
 ### Positions des variables
 

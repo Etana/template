@@ -23,7 +23,7 @@ Ce template modifie le popup d'anniversaire.
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/greeting_popup.tpl#files)
 
 ### Positions des variables
 
@@ -36,7 +36,7 @@ Ce template modifie le popup d'anniversaire.
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/greeting_popup.tpl#files)
 
 ### Positions des variables
 
@@ -47,7 +47,7 @@ Ce template modifie le popup d'anniversaire.
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/greeting_popup.tpl#files)
 
 ### Positions des variables
 
@@ -60,7 +60,7 @@ Ce template modifie le popup d'anniversaire.
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/greeting_popup.tpl#files)
 
 ### Positions des variables
 

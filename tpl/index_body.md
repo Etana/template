@@ -131,7 +131,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/index_body.tpl#files)
 
 ### Positions des variables
 
@@ -237,7 +237,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/index_body.tpl#files)
 
 ### Positions des variables
 
@@ -365,7 +365,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/index_body.tpl#files)
 
 ### Positions des variables
 
@@ -474,7 +474,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/index_body.tpl#files)
 
 ### Positions des variables
 

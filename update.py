@@ -304,7 +304,7 @@ for tem in template_variables:
                 f.write('\n\t* '+link)
         
         for ver in sorted(template_versions, key=sorting_version):
-            f.write('\n\n## Template par défaut '+template_versions[ver]+'\n\n[__Code source__](../src/punbb/index_box.tpl#files)\n\n### Positions des variables\n')
+            f.write('\n\n## Template par défaut '+template_versions[ver]+'\n\n[__Code source__](../src/'+ver+'/'+tem+'.tpl#files)\n\n### Positions des variables\n')
             for r in sorted(([r[0], r[1], var_name] for var_name in template_variables[tem] for r in template_variables[tem][var_name] if r[2] == ver), key=lambda x: x[2]):
                 f.write('\n* __'+var2text(r[2], r[1])+'(../var/'+r[2]+'.md#readme) :__ ligne [`'+str(r[0])+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(r[0])+')')
 

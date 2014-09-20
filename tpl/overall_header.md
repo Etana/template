@@ -123,7 +123,7 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 
 ## Template par défaut phpBB3
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/prosilver/overall_header.tpl#files)
 
 ### Positions des variables
 
@@ -263,7 +263,7 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 
 ## Template par défaut phpBB2
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/subsilver/overall_header.tpl#files)
 
 ### Positions des variables
 
@@ -417,7 +417,7 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 
 ## Template par défaut PunBB
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/punbb/overall_header.tpl#files)
 
 ### Positions des variables
 
@@ -549,7 +549,7 @@ Ce template contient le DOCTYPE de votre forum, la partie HTML, HEAD et le débu
 
 ## Template par défaut Invision
 
-[__Code source__](../src/punbb/index_box.tpl#files)
+[__Code source__](../src/invision/overall_header.tpl#files)
 
 ### Positions des variables
 
