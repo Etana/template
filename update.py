@@ -32,7 +32,7 @@ ident = {'forum': 'http://forum.forumactif.com/', 'username':'Gizmo', 'password'
 f = ident['forum'] 
 
 # connect to forum
-tid = s.post(f+'login.forum', data={'username':ident['username'], 'password':ident['password'], 'login':1, 'redirect':'/admin/', 'admin':1}).url[49:]
+tid = s.post(f+'login.forum', data={'username':ident['username'], 'password':ident['password'], 'login':1, 'redirect':'/admin/', 'admin':1}).url[-32:]
 
 '''Chargement des pages du forum'''
 for ver in template_versions:
