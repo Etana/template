@@ -1,4 +1,4 @@
-# Template overall_footer_begin
+# Template overall_footer_begin (x 12)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

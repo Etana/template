@@ -1,4 +1,4 @@
-# Template album_cat_body
+# Template album_cat_body (x 150)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

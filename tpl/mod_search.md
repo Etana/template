@@ -1,4 +1,4 @@
-# Template mod_search
+# Template mod_search (x 9)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

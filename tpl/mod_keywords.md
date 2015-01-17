@@ -1,4 +1,4 @@
-# Template mod_keywords
+# Template mod_keywords (x 5)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

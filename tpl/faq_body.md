@@ -1,4 +1,4 @@
-# Template faq_body
+# Template faq_body (x 26)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

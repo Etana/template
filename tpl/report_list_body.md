@@ -1,4 +1,4 @@
-# Template report_list_body
+# Template report_list_body (x 52)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template posting_smilies_wysiwyg
+# Template posting_smilies_wysiwyg (x 13)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

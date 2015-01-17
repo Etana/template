@@ -1,4 +1,4 @@
-# Template viewtopic_poll_result
+# Template viewtopic_poll_result (x 18)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

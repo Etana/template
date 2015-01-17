@@ -1,4 +1,4 @@
-# Template groupcp_pending_info
+# Template groupcp_pending_info (x 86)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

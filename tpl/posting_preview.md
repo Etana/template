@@ -1,4 +1,4 @@
-# Template posting_preview
+# Template posting_preview (x 11)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

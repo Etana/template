@@ -1,4 +1,4 @@
-# Template profile_view_body
+# Template profile_view_body (x 77)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

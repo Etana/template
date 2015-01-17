@@ -1,4 +1,4 @@
-# Template error_body
+# Template error_body (x 2)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

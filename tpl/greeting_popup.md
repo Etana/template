@@ -1,4 +1,4 @@
-# Template greeting_popup
+# Template greeting_popup (x 4)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

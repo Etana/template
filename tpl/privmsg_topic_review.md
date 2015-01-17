@@ -1,4 +1,4 @@
-# Template privmsg_topic_review
+# Template privmsg_topic_review (x 19)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

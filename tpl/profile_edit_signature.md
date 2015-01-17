@@ -1,4 +1,4 @@
-# Template profile_edit_signature
+# Template profile_edit_signature (x 31)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

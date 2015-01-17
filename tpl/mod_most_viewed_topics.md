@@ -1,4 +1,4 @@
-# Template mod_most_viewed_topics
+# Template mod_most_viewed_topics (x 6)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

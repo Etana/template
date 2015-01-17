@@ -1,4 +1,4 @@
-# Template mod_recent_topics
+# Template mod_recent_topics (x 33)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

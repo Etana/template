@@ -1,4 +1,4 @@
-# Template jumpbox
+# Template jumpbox (x 4)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

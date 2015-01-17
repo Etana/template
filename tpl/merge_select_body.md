@@ -1,4 +1,4 @@
-# Template merge_select_body
+# Template merge_select_body (x 13)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

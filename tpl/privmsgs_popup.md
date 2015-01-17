@@ -1,4 +1,4 @@
-# Template privmsgs_popup
+# Template privmsgs_popup (x 3)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

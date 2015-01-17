@@ -1,4 +1,4 @@
-# Template mod_most_active_starters
+# Template mod_most_active_starters (x 6)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

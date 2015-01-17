@@ -1,4 +1,4 @@
-# Template posting_confirm_code
+# Template posting_confirm_code (x 35)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

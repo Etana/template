@@ -1,4 +1,4 @@
-# Template mod_rss_feeds
+# Template mod_rss_feeds (x 7)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

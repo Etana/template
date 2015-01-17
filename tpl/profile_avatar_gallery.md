@@ -1,4 +1,4 @@
-# Template profile_avatar_gallery
+# Template profile_avatar_gallery (x 22)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

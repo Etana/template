@@ -1,4 +1,4 @@
-# Template mod_whoisonline
+# Template mod_whoisonline (x 4)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

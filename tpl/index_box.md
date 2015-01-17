@@ -1,4 +1,4 @@
-# Template index_box
+# Template index_box (x 71)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

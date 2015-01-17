@@ -1,4 +1,4 @@
-# Template mod_statistics
+# Template mod_statistics (x 5)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

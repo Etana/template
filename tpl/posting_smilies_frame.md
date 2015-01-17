@@ -1,4 +1,4 @@
-# Template posting_smilies_frame
+# Template posting_smilies_frame (x 12)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

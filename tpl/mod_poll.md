@@ -1,4 +1,4 @@
-# Template mod_poll
+# Template mod_poll (x 2)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

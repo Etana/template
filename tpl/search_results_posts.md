@@ -1,4 +1,4 @@
-# Template search_results_posts
+# Template search_results_posts (x 39)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

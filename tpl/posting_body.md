@@ -1,4 +1,4 @@
-# Template posting_body
+# Template posting_body (x 213)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

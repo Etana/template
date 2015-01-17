@@ -1,4 +1,4 @@
-# Template memberlist_body
+# Template memberlist_body (x 49)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template mod_social_bookmarking
+# Template mod_social_bookmarking (x 8)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

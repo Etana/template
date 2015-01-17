@@ -1,4 +1,4 @@
-# Template album_overview_top10
+# Template album_overview_top10 (x 17)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

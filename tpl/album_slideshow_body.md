@@ -1,4 +1,4 @@
-# Template album_slideshow_body
+# Template album_slideshow_body (x 15)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

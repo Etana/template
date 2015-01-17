@@ -1,4 +1,4 @@
-# Template album_nuffimage_box
+# Template album_nuffimage_box (x 48)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

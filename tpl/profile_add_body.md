@@ -1,4 +1,4 @@
-# Template profile_add_body
+# Template profile_add_body (x 216)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -290,7 +290,11 @@ for tem in template_variables:
 
     with open(script_dir+'/tpl/'+tem+'.md', 'w') as f:
 
-        f.write('# Template ' + tem +'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
+        num = len(set(var for var in template_variables[tem] if var not in var_globales and var.split('.')[0] not in var_globales))
+        append = ""
+        if num > 1:
+            append = " (x "+str(num)+")"
+        f.write('# Template ' + tem +append+'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
 
         if tem not in templates_desc:
             f.write('[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/'+tem+')')

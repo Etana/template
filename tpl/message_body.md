@@ -1,4 +1,4 @@
-# Template message_body
+# Template message_body (x 5)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

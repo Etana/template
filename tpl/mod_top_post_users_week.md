@@ -1,4 +1,4 @@
-# Template mod_top_post_users_week
+# Template mod_top_post_users_week (x 6)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

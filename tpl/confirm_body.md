@@ -1,4 +1,4 @@
-# Template confirm_body
+# Template confirm_body (x 8)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

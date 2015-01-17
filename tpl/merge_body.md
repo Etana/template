@@ -1,4 +1,4 @@
-# Template merge_body
+# Template merge_body (x 21)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

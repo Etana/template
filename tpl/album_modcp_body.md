@@ -1,4 +1,4 @@
-# Template album_modcp_body
+# Template album_modcp_body (x 63)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

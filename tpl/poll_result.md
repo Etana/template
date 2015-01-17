@@ -1,4 +1,4 @@
-# Template poll_result
+# Template poll_result (x 11)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

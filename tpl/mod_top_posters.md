@@ -1,4 +1,4 @@
-# Template mod_top_posters
+# Template mod_top_posters (x 6)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

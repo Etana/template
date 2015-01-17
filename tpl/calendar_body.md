@@ -1,4 +1,4 @@
-# Template calendar_body
+# Template calendar_body (x 8)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template calendar_box
+# Template calendar_box (x 48)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

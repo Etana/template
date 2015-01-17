@@ -1,4 +1,4 @@
-# Template album_upload_body
+# Template album_upload_body (x 57)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
