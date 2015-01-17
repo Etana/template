@@ -1,6 +1,6 @@
 # moderation_panel
 * __Type :__ variable de bouclage
-* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -27,7 +27,6 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`116`](../src/subsilver/album_index_body.tpl#L116)[`<->`](../src/subsilver/album_index_body.tpl#L116-L120)[`120`](../src/subsilver/album_index_body.tpl#L120)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`573`](../src/subsilver/viewcomments_body.tpl#L573)[`<->`](../src/subsilver/viewcomments_body.tpl#L573-L580)[`580`](../src/subsilver/viewcomments_body.tpl#L580)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`453`](../src/subsilver/viewtopic_body.tpl#L453)[`<->`](../src/subsilver/viewtopic_body.tpl#L453-L460)[`460`](../src/subsilver/viewtopic_body.tpl#L460)
 
 ### Version PunBB

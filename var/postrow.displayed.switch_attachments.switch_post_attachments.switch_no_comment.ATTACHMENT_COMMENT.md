@@ -1,6 +1,6 @@
 # postrow.displayed.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT
 * __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -23,18 +23,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`202`](../src/prosilver/viewcomments_body.tpl#L202)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`196`](../src/prosilver/viewtopic_body.tpl#L196)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`217`](../src/subsilver/viewcomments_body.tpl#L217)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`218`](../src/subsilver/viewtopic_body.tpl#L218)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`218`](../src/punbb/viewcomments_body.tpl#L218)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`216`](../src/punbb/viewtopic_body.tpl#L216)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`237`](../src/invision/viewcomments_body.tpl#L237)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`237`](../src/invision/viewtopic_body.tpl#L237)
 

@@ -1,6 +1,6 @@
 # L_AUTHOR
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`report_view_body`](../tpl/report_view_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`report_view_body`](../tpl/report_view_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -26,7 +26,6 @@ Chaîne de texte.
 * __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`26`](../src/subsilver/report_view_body.tpl#L26)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`15`](../src/subsilver/search_results_posts.tpl#L15)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`27`](../src/subsilver/search_results_topics.tpl#L27)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`119`](../src/subsilver/viewcomments_body.tpl#L119)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`128`](../src/subsilver/viewtopic_body.tpl#L128), [`268`](../src/subsilver/viewtopic_body.tpl#L268)
 
 ### Version PunBB

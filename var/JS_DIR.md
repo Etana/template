@@ -1,6 +1,6 @@
 # JS_DIR
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`simple_header`](../tpl/simple_header.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`simple_header`](../tpl/simple_header.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -21,7 +21,6 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`117`](../src/prosilver/profile_view_body.tpl#L117)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`1`](../src/prosilver/search_body.tpl#L1)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`11`](../src/prosilver/simple_header.tpl#L11)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`3`](../src/prosilver/viewcomments_body.tpl#L3), [`497`](../src/prosilver/viewcomments_body.tpl#L497)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/prosilver/viewtopic_body.tpl#L3), [`377`](../src/prosilver/viewtopic_body.tpl#L377)
 
 ### Version phpBB2
@@ -33,7 +32,6 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`144`](../src/subsilver/profile_view_body.tpl#L144)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`1`](../src/subsilver/search_body.tpl#L1)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`11`](../src/subsilver/simple_header.tpl#L11)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`3`](../src/subsilver/viewcomments_body.tpl#L3), [`610`](../src/subsilver/viewcomments_body.tpl#L610)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/subsilver/viewtopic_body.tpl#L3), [`489`](../src/subsilver/viewtopic_body.tpl#L489)
 
 ### Version PunBB
@@ -46,7 +44,6 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`1`](../src/punbb/search_body.tpl#L1)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`1`](../src/punbb/search_results_posts.tpl#L1)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`11`](../src/punbb/simple_header.tpl#L11)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`3`](../src/punbb/viewcomments_body.tpl#L3), [`475`](../src/punbb/viewcomments_body.tpl#L475)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`2`](../src/punbb/viewtopic_body.tpl#L2), [`371`](../src/punbb/viewtopic_body.tpl#L371)
 
 ### Version Invision
@@ -58,6 +55,5 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`166`](../src/invision/profile_view_body.tpl#L166)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`1`](../src/invision/search_results_posts.tpl#L1)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`11`](../src/invision/simple_header.tpl#L11)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`3`](../src/invision/viewcomments_body.tpl#L3), [`522`](../src/invision/viewcomments_body.tpl#L522)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/invision/viewtopic_body.tpl#L3), [`405`](../src/invision/viewtopic_body.tpl#L405)
 
