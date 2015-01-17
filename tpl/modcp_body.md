@@ -1,4 +1,4 @@
-# Template modcp_body (x 44)
+# Template modcp_body (x 28)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

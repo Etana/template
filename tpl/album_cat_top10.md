@@ -1,4 +1,4 @@
-# Template album_cat_top10 (x 34)
+# Template album_cat_top10 (x 30)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

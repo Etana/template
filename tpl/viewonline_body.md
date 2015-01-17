@@ -1,4 +1,4 @@
-# Template viewonline_body (x 31)
+# Template viewonline_body (x 21)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

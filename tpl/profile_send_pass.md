@@ -1,4 +1,4 @@
-# Template profile_send_pass (x 14)
+# Template profile_send_pass (x 7)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

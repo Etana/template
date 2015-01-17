@@ -1,4 +1,4 @@
-# Template album_formsearch_body (x 14)
+# Template album_formsearch_body (x 2)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

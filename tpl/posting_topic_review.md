@@ -1,4 +1,4 @@
-# Template posting_topic_review (x 21)
+# Template posting_topic_review (x 18)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template album_edit_body (x 26)
+# Template album_edit_body (x 21)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

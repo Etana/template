@@ -1,4 +1,4 @@
-# Template privmsgs_preview (x 11)
+# Template privmsgs_preview (x 9)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

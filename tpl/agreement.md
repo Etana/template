@@ -1,4 +1,4 @@
-# Template agreement (x 15)
+# Template agreement (x 1)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

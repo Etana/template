@@ -1,4 +1,4 @@
-# Template modcp_viewip (x 40)
+# Template modcp_viewip (x 34)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

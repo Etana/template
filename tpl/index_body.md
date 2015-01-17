@@ -1,4 +1,4 @@
-# Template index_body (x 90)
+# Template index_body (x 28)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

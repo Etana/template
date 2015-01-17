@@ -1,4 +1,4 @@
-# Template modcp_move (x 14)
+# Template modcp_move (x 5)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template report_popup_body (x 4)
+# Template report_popup_body (x 1)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template modcp_split (x 33)
+# Template modcp_split (x 23)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

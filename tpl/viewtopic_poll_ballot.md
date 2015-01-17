@@ -1,4 +1,4 @@
-# Template viewtopic_poll_ballot (x 13)
+# Template viewtopic_poll_ballot (x 12)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

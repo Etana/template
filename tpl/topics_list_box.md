@@ -1,4 +1,4 @@
-# Template topics_list_box (x 89)
+# Template topics_list_box (x 75)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

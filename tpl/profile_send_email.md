@@ -1,4 +1,4 @@
-# Template profile_send_email (x 21)
+# Template profile_send_email (x 14)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

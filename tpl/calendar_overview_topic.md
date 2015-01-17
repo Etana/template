@@ -1,4 +1,4 @@
-# Template calendar_overview_topic (x 11)
+# Template calendar_overview_topic (x 9)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template album_showpage_body (x 98)
+# Template album_showpage_body (x 87)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

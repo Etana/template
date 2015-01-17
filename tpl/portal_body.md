@@ -1,4 +1,4 @@
-# Template portal_body (x 29)
+# Template portal_body (x 26)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

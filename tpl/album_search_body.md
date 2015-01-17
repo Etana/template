@@ -1,4 +1,4 @@
-# Template album_search_body (x 34)
+# Template album_search_body (x 27)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

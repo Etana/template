@@ -1,4 +1,4 @@
-# Template viewforum_body (x 62)
+# Template viewforum_body (x 5)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

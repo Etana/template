@@ -1,4 +1,4 @@
-# Template groupcp_user_body (x 29)
+# Template groupcp_user_body (x 19)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template poll_ballot (x 10)
+# Template poll_ballot (x 9)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template standard (x 5)
+# Template standard (x 4)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

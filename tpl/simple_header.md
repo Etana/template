@@ -1,4 +1,4 @@
-# Template simple_header (x 5)
+# Template simple_header
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

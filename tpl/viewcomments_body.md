@@ -1,4 +1,4 @@
-# Template viewcomments_body (x 272)
+# Template viewcomments_body (x 214)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template mod_news (x 36)
+# Template mod_news (x 32)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

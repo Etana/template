@@ -1,4 +1,4 @@
-# Template report_view_body (x 38)
+# Template report_view_body (x 31)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template album_moderate_body (x 55)
+# Template album_moderate_body (x 45)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

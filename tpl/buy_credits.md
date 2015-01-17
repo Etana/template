@@ -1,4 +1,4 @@
-# Template buy_credits (x 60)
+# Template buy_credits (x 40)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

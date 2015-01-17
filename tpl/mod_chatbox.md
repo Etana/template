@@ -1,4 +1,4 @@
-# Template mod_chatbox
+# Template mod_chatbox (x 1)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

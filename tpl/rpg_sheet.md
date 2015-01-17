@@ -1,4 +1,4 @@
-# Template rpg_sheet (x 18)
+# Template rpg_sheet (x 14)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

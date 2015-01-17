@@ -1,4 +1,4 @@
-# Template topics_blog_box (x 82)
+# Template topics_blog_box (x 71)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

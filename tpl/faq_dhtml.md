@@ -1,4 +1,4 @@
-# Template faq_dhtml (x 20)
+# Template faq_dhtml (x 7)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template simple_footer (x 4)
+# Template simple_footer (x 3)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

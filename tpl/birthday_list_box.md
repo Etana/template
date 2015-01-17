@@ -1,4 +1,4 @@
-# Template birthday_list_box (x 33)
+# Template birthday_list_box (x 31)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

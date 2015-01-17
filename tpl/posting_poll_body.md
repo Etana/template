@@ -1,4 +1,4 @@
-# Template posting_poll_body (x 41)
+# Template posting_poll_body (x 37)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

@@ -1,4 +1,4 @@
-# Template search_username (x 9)
+# Template search_username (x 5)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

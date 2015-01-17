@@ -1,4 +1,4 @@
-# Template search_body (x 41)
+# Template search_body (x 11)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

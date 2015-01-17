@@ -1,4 +1,4 @@
-# Template mod_login (x 26)
+# Template mod_login (x 24)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)

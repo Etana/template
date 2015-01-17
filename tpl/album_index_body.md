@@ -1,4 +1,4 @@
-# Template album_index_body (x 76)
+# Template album_index_body (x 72)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
