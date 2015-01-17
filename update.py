@@ -2,9 +2,10 @@
 
 import requests, re, html, os, time, json
 from enum import Enum
+from collections import OrderedDict
 
 template_versions = { 'subsilver': 'phpBB2', 'prosilver': 'phpBB3', 'punbb': 'PunBB', 'invision': 'Invision' }
-template_categories = { 'main':'Général', 'portal':'Portail', 'gallery':'Galerie', 'calendar':'Calendrier', 'group':'Groupes', 'post':'Poster & Messages Privés', 'moderation':'Modération', 'profil':'Profil'}
+template_categories = OrderedDict([('main','Général'),('portal','Portail'),('gallery','Galerie'),('calendar','Calendrier'),('group','Groupes'),('post','Poster & Messages Privés'),('moderation','Modération'),('profil','Profil')])
 template_descriptions = { cat:{} for cat in template_categories }
 template_contents = { ver:{} for ver in template_versions }
 template_from_categories = {}
@@ -78,12 +79,11 @@ for ver in template_versions:
 with open(script_dir+'/README.md', 'w') as f:
     f.write('# Templates de Forumactif\n\n## Variables\n\n* [Liste totale](variables.md#readme)\n\n\t* [Avec description](variables_avec_description.md#readme)\n\t* [Sans description](variables_sans_description.md#readme)\n\n## Templates\n\n')
     
-    for cat in sorted(template_categories, key=template_categories.get): 
+    for cat in template_categories:
 
         f.write('### '+template_categories[cat]+'\n\n')
 
         for tem in sorted(template_descriptions[cat]):
-
             f.write('* __[`'+tem+'`](tpl/'+tem+'.md#readme) :__ '+template_descriptions[cat][tem]+'\n')
 
         f.write('\n')
@@ -196,7 +196,10 @@ def var2text(var, vtype):
 def var2links(var, types, prefix='../'):
     links = []
     for vtype in types:
-        links += [var2text(var,vtype)+'('+prefix+'var/'+var+'.md#readme)']
+        res = var2text(var,vtype)+'('+prefix+'var/'+var+'.md#readme)'
+        if var not in var_desc:
+            res += ' ([x](https://fa-tvars.appspot.com/var/'+var+'))'
+        links += [res]
     return links
 
 def sorting_version(ver):
