@@ -1,6 +1,6 @@
 # S_TOPIC_ADMIN
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -23,14 +23,18 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`481`](../src/prosilver/viewcomments_body.tpl#L481)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`361`](../src/prosilver/viewtopic_body.tpl#L361)
 
 ### Version phpBB2
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`588`](../src/subsilver/viewcomments_body.tpl#L588)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`468`](../src/subsilver/viewtopic_body.tpl#L468)
 
 ### Version PunBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`422`](../src/punbb/viewcomments_body.tpl#L422)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`279`](../src/punbb/viewtopic_body.tpl#L279)
 
 ### Version Invision
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`475`](../src/invision/viewcomments_body.tpl#L475)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`313`](../src/invision/viewtopic_body.tpl#L313)
 

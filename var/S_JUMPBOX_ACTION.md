@@ -1,6 +1,6 @@
 # S_JUMPBOX_ACTION
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme), [`jumpbox`](../tpl/jumpbox.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme), [`jumpbox`](../tpl/jumpbox.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -22,11 +22,13 @@ Action du formulaire pour sauter vers un forum.
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`1`](../src/prosilver/jumpbox.tpl#L1)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`65`](../src/prosilver/modcp_body.tpl#L65)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`399`](../src/prosilver/posting_body.tpl#L399)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`437`](../src/prosilver/viewcomments_body.tpl#L437)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`61`](../src/prosilver/viewforum_body.tpl#L61)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`339`](../src/prosilver/viewtopic_body.tpl#L339)
 
 ### Version phpBB2
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`1`](../src/subsilver/jumpbox.tpl#L1)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`557`](../src/subsilver/viewcomments_body.tpl#L557)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`80`](../src/subsilver/viewforum_body.tpl#L80)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`435`](../src/subsilver/viewtopic_body.tpl#L435)
 

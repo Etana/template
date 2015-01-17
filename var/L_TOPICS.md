@@ -1,6 +1,6 @@
 # L_TOPICS
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`topics_blog_box`](../tpl/topics_blog_box.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -34,6 +34,7 @@ Chaîne de texte.
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`46`](../src/punbb/profile_view_body.tpl#L46)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`72`](../src/punbb/search_body.tpl#L72)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`36`](../src/punbb/search_results_topics.tpl#L36)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`112`](../src/punbb/topics_blog_box.tpl#L112)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`35`](../src/punbb/topics_list_box.tpl#L35), [`64`](../src/punbb/topics_list_box.tpl#L64), [`120`](../src/punbb/topics_list_box.tpl#L120)
 
 ### Version Invision
