@@ -224,7 +224,7 @@
 <!-- END hitskin_preview -->
 
 <!-- BEGIN switch_login_popup -->
-<div id="login_popup">
+<div id="login_popup" style="z-index: 10000 !important;">
 	<div class="h3">{SITENAME}</div>
 	{LOGIN_POPUP_MSG}
 	<div id="login_popup_buttons">

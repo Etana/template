@@ -15,3 +15,6 @@
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`230`](../src/subsilver/posting_body.tpl#L230)
 
+### Version Version mobile
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`22`](../src/mobile/posting_body.tpl#L22)
+

@@ -28,3 +28,6 @@
 * __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`2`](../src/invision/viewtopic_poll_ballot.tpl#L2)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`4`](../src/invision/viewtopic_poll_result.tpl#L4)
 
+### Version Version mobile
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`7`](../src/mobile/viewtopic_poll_ballot.tpl#L7)
+

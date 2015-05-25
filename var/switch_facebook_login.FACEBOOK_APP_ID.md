@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`45`](../src/prosilver/overall_footer_end.tpl#L45)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`44`](../src/prosilver/overall_footer_end.tpl#L44)
 
 ### Version phpBB2
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`34`](../src/subsilver/overall_footer_end.tpl#L34)
 
 ### Version PunBB
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`43`](../src/punbb/overall_footer_end.tpl#L43)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`42`](../src/punbb/overall_footer_end.tpl#L42)
 
 ### Version Invision
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`46`](../src/invision/overall_footer_end.tpl#L46)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`45`](../src/invision/overall_footer_end.tpl#L45)
 

@@ -105,3 +105,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`10`](../src/invision/poll_result.tpl#L10)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`12`](../src/invision/poll_result.tpl#L12)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`13`](../src/invision/poll_result.tpl#L13)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/poll_result.tpl#files)
+
+### Positions des variables

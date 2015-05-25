@@ -25,3 +25,6 @@ Contient l'information (alt) sur l'ic√¥ne du forum correspondant au forum boucl√
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`34`](../src/invision/index_box.tpl#L34), [`34`](../src/invision/index_box.tpl#L34)
 
+### Version Version mobile
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`11`](../src/mobile/index_box.tpl#L11)
+

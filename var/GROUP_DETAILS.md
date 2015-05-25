@@ -38,3 +38,6 @@ Texte contenant une phrase avec votre statut par rapport au groupe.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`24`](../src/invision/groupcp_info_body.tpl#L24)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

@@ -193,7 +193,7 @@
 							<!-- END switch_fb_account_linked -->
 
 							<!-- BEGIN switch_fb_account_not_linked -->
-							<fb:login-button size="medium" onlogin="facebook_link()" v="2">{switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}</fb:login-button>
+							<fb:login-button size="medium" onlogin="facebook_link()" >{switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}</fb:login-button>
 							<!-- END switch_fb_account_not_linked -->
 						</dd>
 					</dl>
@@ -448,15 +448,21 @@ $(function(){
 <!-- BEGIN switch_fb_connect -->
 <div id="fb-root"></div>
 <script type="text/javascript">
-//<![CDATA[
-FB.init({
-	appId: '{switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID}',
- 	status: true,
- 	cookie: true,
- 	xfbml: true,
-	oauth: true
-});
-//]]>
+    FB.init({
+      appId: '{switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID}',
+      cookie     : true,
+      xfbml      : true,
+      oauth      : true,
+      version    : 'v2.3'
+    });
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 </script>
 <!-- END switch_fb_connect -->
 <!-- END switch_preferences_menu -->

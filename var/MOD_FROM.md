@@ -29,3 +29,6 @@ Valeur du champ `Localisation` du modérateur de groupe.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`72`](../src/invision/groupcp_info_body.tpl#L72)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

@@ -33,3 +33,6 @@ Remplacé par l'URL absolue vers le forum dans lequel le sujet se trouve.
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
+

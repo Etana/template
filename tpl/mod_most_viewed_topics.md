@@ -80,3 +80,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme) :__ ligne [`7`](../src/invision/mod_most_viewed_topics.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme) :__ ligne [`7`](../src/invision/mod_most_viewed_topics.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme) :__ ligne [`7`](../src/invision/mod_most_viewed_topics.tpl#L7)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_most_viewed_topics.tpl#files)
+
+### Positions des variables

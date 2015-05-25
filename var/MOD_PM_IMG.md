@@ -35,3 +35,6 @@ Image `Message Privé` ( choisie dans [`Index`](http://votre-forum.appspot.com/#
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`69`](../src/invision/groupcp_info_body.tpl#L69)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

@@ -210,3 +210,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END cell -->`](../var/row.cell.md#readme) :__ ligne [`27`](../src/invision/calendar_scheduler_body.tpl#L27)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{row.cell.CLASS_NEW}`](../var/row.cell.CLASS_NEW.md#readme) :__ ligne [`26`](../src/invision/calendar_scheduler_body.tpl#L26)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{row.cell.DAY}`](../var/row.cell.DAY.md#readme) :__ ligne [`26`](../src/invision/calendar_scheduler_body.tpl#L26)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/calendar_scheduler_body.tpl#files)
+
+### Positions des variables

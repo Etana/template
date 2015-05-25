@@ -319,3 +319,9 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 * __[`<!-- END switch_pagination -->`](../var/switch_pagination.md#readme) :__ ligne [`13`](../src/invision/memberlist_body.tpl#L13)
 * __[`<!-- BEGIN switch_pagination -->`](../var/switch_pagination.md#readme) :__ ligne [`112`](../src/invision/memberlist_body.tpl#L112)
 * __[`<!-- END switch_pagination -->`](../var/switch_pagination.md#readme) :__ ligne [`117`](../src/invision/memberlist_body.tpl#L117)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/memberlist_body.tpl#files)
+
+### Positions des variables

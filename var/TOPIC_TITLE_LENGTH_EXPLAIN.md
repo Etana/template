@@ -24,3 +24,6 @@
 ### Version Invision
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`98`](../src/invision/posting_body.tpl#L98)
 
+### Version Version mobile
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`10`](../src/mobile/posting_body.tpl#L10)
+

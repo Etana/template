@@ -82,7 +82,7 @@
             <!-- BEGIN switch_privmsg_group -->
             <dl>
                 <dt><label>{switch_privmsg.switch_privmsg_group.L_OR_GROUP}</label></dt>
-                <dd>{switch_privmsg.switch_privmsg_group.MASS_PM}</dd>
+                <dd>{switch_privmsg.switch_privmsg_group.MASS_PM}  <input type="button" value="  ?  " title="{switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN}" class="button2" /></dd>
             </dl>
             <!-- END switch_privmsg_group -->
             <!-- END switch_privmsg -->
@@ -311,7 +311,7 @@
             <dl>
                 <dt><label for="modif_topic_title">{L_TOPIC_TITLE_MODIFY}</label></dt>
                 <dd>
-                    <input type="text" class="inputbx medium" name="modif_topic_title" id="modif_topic_title" value="{MODIF_TOPIC_TITLE}" maxlength="{TOPIC_DESCRIPTION_MAXLENGTH}" onkeypress="if (event.keyCode==13){return false}" />
+                    <input type="text" class="inputbox medium" name="modif_topic_title" id="modif_topic_title" value="{MODIF_TOPIC_TITLE}" maxlength="{TOPIC_DESCRIPTION_MAXLENGTH}" onkeypress="if (event.keyCode==13){return false}" />
                     <!-- BEGIN switch_topic_button -->
                     &nbsp;<input type="button" class="button2" value="{L_SOLVED_WITHOUT_BRAKETS}" onclick="set_solved(this.form.elements['modif_topic_title'],'{L_SOLVED}')" style="display:none" id="button_solved" />
                     <script type="text/javascript">
@@ -405,6 +405,7 @@
 
 <!-- BEGIN switch_privmsg -->
 <div id="find_username" class="jqmWindow"></div>
+<div id="group_pm_explain" class="jqmWindow"></div>
 
 <script src="{JS_DIR}jquery/jqmodal/jqmodal.js" type="text/javascript"></script>
 <!-- END switch_privmsg -->

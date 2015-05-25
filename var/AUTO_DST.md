@@ -1,6 +1,6 @@
 # AUTO_DST
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -23,4 +23,7 @@ Variable actuellement inutilisée.
 
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`186`](../src/invision/index_body.tpl#L186)
+
+### Version Version mobile
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`3`](../src/mobile/profile_send_pass.tpl#L3)
 

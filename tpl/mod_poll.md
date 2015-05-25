@@ -51,3 +51,9 @@
 
 * __[`{L_POLL}`](../var/L_POLL.md#readme) :__ ligne [`3`](../src/invision/mod_poll.tpl#L3)
 * __[`{POLL_DISPLAY}`](../var/POLL_DISPLAY.md#readme) :__ ligne [`5`](../src/invision/mod_poll.tpl#L5)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_poll.tpl#files)
+
+### Positions des variables

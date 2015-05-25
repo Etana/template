@@ -24,3 +24,6 @@ Contient tout le JavaScript de votre forum.
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`183`](../src/invision/overall_header.tpl#L183)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`37`](../src/mobile/overall_header.tpl#L37)
+

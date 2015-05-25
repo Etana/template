@@ -34,3 +34,6 @@ Texte.
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`87`](../src/invision/profile_view_body.tpl#L87)
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

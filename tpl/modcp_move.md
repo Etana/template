@@ -130,3 +130,9 @@
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/modcp_move.tpl#L2)
 * __[`<!-- BEGIN switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme) :__ ligne [`17`](../src/invision/modcp_move.tpl#L17)
 * __[`<!-- END switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme) :__ ligne [`22`](../src/invision/modcp_move.tpl#L22)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/modcp_move.tpl#files)
+
+### Positions des variables

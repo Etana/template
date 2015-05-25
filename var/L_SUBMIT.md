@@ -81,3 +81,10 @@ Chaîne de texte.
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`54`](../src/invision/profile_edit_signature.tpl#L54)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`47`](../src/invision/profile_send_pass.tpl#L47)
 
+### Version Version mobile
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`16`](../src/mobile/posting_body.tpl#L16)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`11`](../src/mobile/posting_confirm_code.tpl#L11)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`15`](../src/mobile/profile_send_pass.tpl#L15)
+

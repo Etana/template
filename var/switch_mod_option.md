@@ -36,3 +36,6 @@ Le contenu de la boucle est affiché si le visiteur est administrateur ou modér
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`33`](../src/invision/groupcp_info_body.tpl#L33)[`<->`](../src/invision/groupcp_info_body.tpl#L33-L43)[`43`](../src/invision/groupcp_info_body.tpl#L43), [`60`](../src/invision/groupcp_info_body.tpl#L60)[`<->`](../src/invision/groupcp_info_body.tpl#L60-L60)[`60`](../src/invision/groupcp_info_body.tpl#L60), [`75`](../src/invision/groupcp_info_body.tpl#L75)[`<->`](../src/invision/groupcp_info_body.tpl#L75-L75)[`75`](../src/invision/groupcp_info_body.tpl#L75), [`105`](../src/invision/groupcp_info_body.tpl#L105)[`<->`](../src/invision/groupcp_info_body.tpl#L105-L114)[`114`](../src/invision/groupcp_info_body.tpl#L114), [`125`](../src/invision/groupcp_info_body.tpl#L125)[`<->`](../src/invision/groupcp_info_body.tpl#L125-L148)[`148`](../src/invision/groupcp_info_body.tpl#L148)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

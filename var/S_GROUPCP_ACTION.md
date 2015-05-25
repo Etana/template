@@ -31,3 +31,6 @@ Adresse absolue de la page du groupe sur lequel on se trouve.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`10`](../src/invision/groupcp_info_body.tpl#L10), [`48`](../src/invision/groupcp_info_body.tpl#L48), [`119`](../src/invision/groupcp_info_body.tpl#L119)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

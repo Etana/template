@@ -45,3 +45,6 @@ Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`17`](../src/invision/groupcp_pending_info.tpl#L17)[`<->`](../src/invision/groupcp_pending_info.tpl#L17-L27)[`27`](../src/invision/groupcp_pending_info.tpl#L27)
 
+### Version Version mobile
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+

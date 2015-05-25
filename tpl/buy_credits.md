@@ -455,3 +455,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END hidden_field -->`](../var/phonecall_method.hidden_field.md#readme) :__ ligne [`69`](../src/invision/buy_credits.tpl#L69)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{phonecall_method.hidden_field.NAME}`](../var/phonecall_method.hidden_field.NAME.md#readme) :__ ligne [`68`](../src/invision/buy_credits.tpl#L68)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{phonecall_method.hidden_field.VALUE}`](../var/phonecall_method.hidden_field.VALUE.md#readme) :__ ligne [`68`](../src/invision/buy_credits.tpl#L68)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/buy_credits.tpl#files)
+
+### Positions des variables

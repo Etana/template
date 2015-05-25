@@ -350,3 +350,9 @@
 * __[`<!-- END switch_status -->`](../var/switch_status.md#readme) :__ ligne [`55`](../src/invision/report_list_body.tpl#L55)
 * __[`<!-- BEGIN switch_view -->`](../var/switch_view.md#readme) :__ ligne [`45`](../src/invision/report_list_body.tpl#L45)
 * __[`<!-- END switch_view -->`](../var/switch_view.md#readme) :__ ligne [`47`](../src/invision/report_list_body.tpl#L47)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/report_list_body.tpl#files)
+
+### Positions des variables

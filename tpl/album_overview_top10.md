@@ -146,3 +146,9 @@
 * __[`<!-- BEGIN switch_viewed -->`](../var/switch_viewed.md#readme) :__ ligne [`17`](../src/invision/album_overview_top10.tpl#L17)
 * __[`<!-- END switch_viewed -->`](../var/switch_viewed.md#readme) :__ ligne [`19`](../src/invision/album_overview_top10.tpl#L19)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_viewed.VIEWED}`](../var/switch_viewed.VIEWED.md#readme) :__ ligne [`18`](../src/invision/album_overview_top10.tpl#L18)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_overview_top10.tpl#files)
+
+### Positions des variables

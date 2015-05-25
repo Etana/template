@@ -131,3 +131,9 @@
 * __[`<!-- END switch_slideshow -->`](../var/switch_slideshow.md#readme) :__ ligne [`3`](../src/invision/album_slideshow_body.tpl#L3)
 * __[`<!-- BEGIN switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme) :__ ligne [`5`](../src/invision/album_slideshow_body.tpl#L5)
 * __[`<!-- END switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme) :__ ligne [`382`](../src/invision/album_slideshow_body.tpl#L382)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_slideshow_body.tpl#files)
+
+### Positions des variables

@@ -298,3 +298,9 @@
 * __[`<!-- END sepia_bw_enabled -->`](../var/sepia_bw_enabled.md#readme) :__ ligne [`40`](../src/invision/album_nuffimage_box.tpl#L40)
 * __[`<!-- BEGIN sepia_bw_enabled -->`](../var/sepia_bw_enabled.md#readme) :__ ligne [`56`](../src/invision/album_nuffimage_box.tpl#L56)
 * __[`<!-- END sepia_bw_enabled -->`](../var/sepia_bw_enabled.md#readme) :__ ligne [`67`](../src/invision/album_nuffimage_box.tpl#L67)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_nuffimage_box.tpl#files)
+
+### Positions des variables

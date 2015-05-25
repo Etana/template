@@ -127,3 +127,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`32`](../src/invision/posting_smilies_frame.tpl#L32)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) :__ ligne [`32`](../src/invision/posting_smilies_frame.tpl#L32)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`32`](../src/invision/posting_smilies_frame.tpl#L32)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/posting_smilies_frame.tpl#files)
+
+### Positions des variables

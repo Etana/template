@@ -219,7 +219,7 @@
 <!-- END hitskin_preview -->
 
 <!-- BEGIN switch_login_popup -->
-<div id="login_popup" class="module borderwrap">
+<div id="login_popup" class="module borderwrap" style="z-index: 10000 !important;">
 	<div id="login_popup_content">
 		<div id="login_popup_background">
 			<div id="login_popup_title" class="maintitle"><h3>{SITENAME}</h3></div>

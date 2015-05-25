@@ -263,3 +263,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_edit -->`](../var/row.switch_edit.md#readme) :__ ligne [`34`](../src/invision/report_view_body.tpl#L34)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_status -->`](../var/row.switch_status.md#readme) :__ ligne [`35`](../src/invision/report_view_body.tpl#L35)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_status -->`](../var/row.switch_status.md#readme) :__ ligne [`46`](../src/invision/report_view_body.tpl#L46)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/report_view_body.tpl#files)
+
+### Positions des variables

@@ -15,14 +15,14 @@ Contient l'ID de l'application Facebook dans `PA > Modules > Facebook Connect | 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`139`](../src/prosilver/index_body.tpl#L139)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`138`](../src/prosilver/index_body.tpl#L138)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`246`](../src/subsilver/index_body.tpl#L246)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`245`](../src/subsilver/index_body.tpl#L245)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`139`](../src/punbb/index_body.tpl#L139)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`138`](../src/punbb/index_body.tpl#L138)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`193`](../src/invision/index_body.tpl#L193)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`192`](../src/invision/index_body.tpl#L192)
 

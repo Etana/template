@@ -38,3 +38,6 @@ Le contenu de la boucle est affiché si :
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`25`](../src/invision/groupcp_info_body.tpl#L25)[`<->`](../src/invision/groupcp_info_body.tpl#L25-L27)[`27`](../src/invision/groupcp_info_body.tpl#L27)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

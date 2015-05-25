@@ -166,3 +166,9 @@
 * __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme) :__ ligne [`26`](../src/invision/profile_send_email.tpl#L26)
 * __[`<!-- BEGIN switch_tell_friend -->`](../var/switch_tell_friend.md#readme) :__ ligne [`38`](../src/invision/profile_send_email.tpl#L38)
 * __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme) :__ ligne [`40`](../src/invision/profile_send_email.tpl#L40)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/profile_send_email.tpl#files)
+
+### Positions des variables

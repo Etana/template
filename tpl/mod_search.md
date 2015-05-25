@@ -99,3 +99,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.SEARCH_TAGS}`](../var/TAGS.SEARCH_TAGS.md#readme) :__ ligne [`18`](../src/invision/mod_search.tpl#L18)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`4`](../src/invision/mod_search.tpl#L4)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme) :__ ligne [`24`](../src/invision/mod_search.tpl#L24)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_search.tpl#files)
+
+### Positions des variables

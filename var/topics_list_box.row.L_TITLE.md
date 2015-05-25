@@ -28,3 +28,6 @@
 ### Version Invision
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`60`](../src/invision/topics_list_box.tpl#L60), [`76`](../src/invision/topics_list_box.tpl#L76)
 
+### Version Version mobile
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`42`](../src/mobile/topics_list_box.tpl#L42), [`50`](../src/mobile/topics_list_box.tpl#L50)
+

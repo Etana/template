@@ -30,3 +30,6 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`184`](../src/invision/overall_header.tpl#L184)[`<->`](../src/invision/overall_header.tpl#L184-L204)[`204`](../src/invision/overall_header.tpl#L204)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`17`](../src/mobile/overall_header.tpl#L17)[`<->`](../src/mobile/overall_header.tpl#L17-L36)[`36`](../src/mobile/overall_header.tpl#L36)
+

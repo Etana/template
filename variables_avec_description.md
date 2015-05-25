@@ -136,6 +136,7 @@
 * [`{L_GROUP_TYPE}`](var/L_GROUP_TYPE.md#readme)
 * [`{L_GROUPS}`](var/L_GROUPS.md#readme)
 * [`{L_HIDDEN_MEMBERS}`](var/L_HIDDEN_MEMBERS.md#readme)
+* [`{L_HOME}`](var/L_HOME.md#readme)
 * [`{L_ICQ}`](var/L_ICQ.md#readme)
 * [`{L_INDEX}`](var/L_INDEX.md#readme)
 * [`{L_INTERESTS}`](var/L_INTERESTS.md#readme)

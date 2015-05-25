@@ -1,4 +1,4 @@
-# Template profile_send_pass (x 7)
+# Template profile_send_pass (x 8)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -13,7 +13,10 @@
 ## Variables disponibles
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
+	* [`{AUTO_DST}`](../var/AUTO_DST.md#readme)
+	* [`{BOARD_INDEX}`](../var/BOARD_INDEX.md#readme)
 	* [`{EMAIL}`](../var/EMAIL.md#readme) ([x](https://fa-tvars.appspot.com/var/EMAIL))
+	* [`{INLINE_MESSAGE}`](../var/INLINE_MESSAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/INLINE_MESSAGE))
 	* [`{L_EMAIL_ADDRESS}`](../var/L_EMAIL_ADDRESS.md#readme) ([x](https://fa-tvars.appspot.com/var/L_EMAIL_ADDRESS))
 	* [`{L_ITEMS_REQUIRED}`](../var/L_ITEMS_REQUIRED.md#readme) ([x](https://fa-tvars.appspot.com/var/L_ITEMS_REQUIRED))
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
@@ -118,3 +121,19 @@
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`3`](../src/invision/profile_send_pass.tpl#L3)
 * __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme) :__ ligne [`8`](../src/invision/profile_send_pass.tpl#L8)
 * __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme) :__ ligne [`12`](../src/invision/profile_send_pass.tpl#L12)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/profile_send_pass.tpl#files)
+
+### Positions des variables
+
+* __[`{AUTO_DST}`](../var/AUTO_DST.md#readme) :__ ligne [`3`](../src/mobile/profile_send_pass.tpl#L3)
+* __[`{BOARD_INDEX}`](../var/BOARD_INDEX.md#readme) :__ ligne [`1`](../src/mobile/profile_send_pass.tpl#L1)
+* __[`{EMAIL}`](../var/EMAIL.md#readme) :__ ligne [`12`](../src/mobile/profile_send_pass.tpl#L12)
+* __[`{INLINE_MESSAGE}`](../var/INLINE_MESSAGE.md#readme) :__ ligne [`4`](../src/mobile/profile_send_pass.tpl#L4)
+* __[`{L_EMAIL_ADDRESS}`](../var/L_EMAIL_ADDRESS.md#readme) :__ ligne [`12`](../src/mobile/profile_send_pass.tpl#L12)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme) :__ ligne [`15`](../src/mobile/profile_send_pass.tpl#L15)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme) :__ ligne [`8`](../src/mobile/profile_send_pass.tpl#L8)
+* __[`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme) :__ ligne [`6`](../src/mobile/profile_send_pass.tpl#L6)
+* __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`8`](../src/mobile/profile_send_pass.tpl#L8)

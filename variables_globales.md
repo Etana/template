@@ -3,6 +3,7 @@
 * [`{CURRENT_TIME}`](var/CURRENT_TIME.md#readme)
 * [`{L_AUTO_LOGIN}`](var/L_AUTO_LOGIN.md#readme)
 * [`{L_FAQ}`](var/L_FAQ.md#readme)
+* [`{L_HOME}`](var/L_HOME.md#readme)
 * [`{L_INDEX}`](var/L_INDEX.md#readme)
 * [`{L_LOG_ME_IN}`](var/L_LOG_ME_IN.md#readme)
 * [`{L_LOGIN}`](var/L_LOGIN.md#readme)

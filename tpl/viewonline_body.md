@@ -235,3 +235,9 @@ Ce template affiche la page `/viewonline`
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.USERNAME}`](../var/reg_user_row.USERNAME.md#readme) :__ ligne [`24`](../src/invision/viewonline_body.tpl#L24)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_FORUM_LOCATION}`](../var/reg_user_row.U_FORUM_LOCATION.md#readme) :__ ligne [`26`](../src/invision/viewonline_body.tpl#L26)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_USER_PROFILE}`](../var/reg_user_row.U_USER_PROFILE.md#readme) :__ ligne [`24`](../src/invision/viewonline_body.tpl#L24)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/viewonline_body.tpl#files)
+
+### Positions des variables

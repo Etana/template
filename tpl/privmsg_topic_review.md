@@ -119,3 +119,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT_NEW}`](../var/postrow.POST_SUBJECT_NEW.md#readme) :__ ligne [`23`](../src/invision/privmsg_topic_review.tpl#L23)
 * __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`2`](../src/invision/privmsg_topic_review.tpl#L2)
 * __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`6`](../src/invision/privmsg_topic_review.tpl#L6)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/privmsg_topic_review.tpl#files)
+
+### Positions des variables

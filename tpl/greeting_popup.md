@@ -70,3 +70,9 @@ Ce template modifie le popup d'anniversaire.
 * __[`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme) :__ ligne [`10`](../src/invision/greeting_popup.tpl#L10)
 * __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/invision/greeting_popup.tpl#L1)
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/invision/greeting_popup.tpl#L5)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/greeting_popup.tpl#files)
+
+### Positions des variables

@@ -24,3 +24,6 @@ Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analyti
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`188`](../src/invision/overall_header.tpl#L188)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`21`](../src/mobile/overall_header.tpl#L21)
+

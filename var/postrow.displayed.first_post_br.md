@@ -30,3 +30,6 @@
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`258`](../src/punbb/viewtopic_body.tpl#L258)[`<->`](../src/punbb/viewtopic_body.tpl#L258-L262)[`262`](../src/punbb/viewtopic_body.tpl#L262)
 
+### Version Version mobile
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`82`](../src/mobile/viewtopic_body.tpl#L82)[`<->`](../src/mobile/viewtopic_body.tpl#L82-L84)[`84`](../src/mobile/viewtopic_body.tpl#L84)
+

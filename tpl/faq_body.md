@@ -174,3 +174,9 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est 
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row_link -->`](../var/faq_block_link.faq_row_link.md#readme) :__ ligne [`15`](../src/invision/faq_body.tpl#L15)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block_link.faq_row_link.FAQ_LINK}`](../var/faq_block_link.faq_row_link.FAQ_LINK.md#readme) :__ ligne [`14`](../src/invision/faq_body.tpl#L14)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block_link.faq_row_link.U_FAQ_LINK}`](../var/faq_block_link.faq_row_link.U_FAQ_LINK.md#readme) :__ ligne [`14`](../src/invision/faq_body.tpl#L14)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/faq_body.tpl#files)
+
+### Positions des variables

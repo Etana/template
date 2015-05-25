@@ -36,3 +36,6 @@
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`14`](../src/invision/profile_send_pass.tpl#L14)
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`79`](../src/invision/profile_view_body.tpl#L79), [`119`](../src/invision/profile_view_body.tpl#L119)
 
+### Version Version mobile
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`6`](../src/mobile/profile_send_pass.tpl#L6)
+

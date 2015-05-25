@@ -31,3 +31,6 @@ Boucle liée à <!-- BEGIN google_analytics_code -->...<!-- END google_analytics
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`192`](../src/invision/overall_header.tpl#L192)[`<->`](../src/invision/overall_header.tpl#L192-L195)[`195`](../src/invision/overall_header.tpl#L195)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`24`](../src/mobile/overall_header.tpl#L24)[`<->`](../src/mobile/overall_header.tpl#L24-L27)[`27`](../src/mobile/overall_header.tpl#L27)
+

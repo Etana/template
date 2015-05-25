@@ -107,3 +107,9 @@
 * __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`16`](../src/invision/merge_select_body.tpl#L16)
 * __[`{S_LIST_FORUMS}`](../var/S_LIST_FORUMS.md#readme) :__ ligne [`10`](../src/invision/merge_select_body.tpl#L10)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/merge_select_body.tpl#L2)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/merge_select_body.tpl#files)
+
+### Positions des variables

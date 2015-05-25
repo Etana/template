@@ -100,3 +100,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme) :__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme) :__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme) :__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/poll_ballot.tpl#files)
+
+### Positions des variables

@@ -29,3 +29,6 @@ contenu sur lequel on boucle
 ### Version Invision
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`23`](../src/invision/viewtopic_poll_result.tpl#L23)[`<->`](../src/invision/viewtopic_poll_result.tpl#L23-L25)[`25`](../src/invision/viewtopic_poll_result.tpl#L25)
 
+### Version Version mobile
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`13`](../src/mobile/viewtopic_poll_result.tpl#L13)[`<->`](../src/mobile/viewtopic_poll_result.tpl#L13-L15)[`15`](../src/mobile/viewtopic_poll_result.tpl#L15)
+

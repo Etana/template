@@ -1,4 +1,4 @@
-# Template viewforum_body (x 5)
+# Template viewforum_body (x 6)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -46,6 +46,7 @@ Ce template affiche les forums : `/fX-`
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_MARK_TOPICS_READ}`](../var/L_MARK_TOPICS_READ.md#readme)
 	* [`{L_MODERATOR}`](../var/L_MODERATOR.md#readme)
+	* [`{L_NEW_TOPIC}`](../var/L_NEW_TOPIC.md#readme) ([x](https://fa-tvars.appspot.com/var/L_NEW_TOPIC))
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_POST_NEW_TOPIC}`](../var/L_POST_NEW_TOPIC.md#readme)
 	* [`{L_TABS_PERMISSIONS}`](../var/L_TABS_PERMISSIONS.md#readme)
@@ -400,3 +401,18 @@ Ce template affiche les forums : `/fX-`
 * __[`<!-- END switch_user_authpost -->`](../var/switch_user_authpost.md#readme) :__ ligne [`15`](../src/invision/viewforum_body.tpl#L15)
 * __[`<!-- BEGIN switch_user_authpost -->`](../var/switch_user_authpost.md#readme) :__ ligne [`29`](../src/invision/viewforum_body.tpl#L29)
 * __[`<!-- END switch_user_authpost -->`](../var/switch_user_authpost.md#readme) :__ ligne [`33`](../src/invision/viewforum_body.tpl#L33)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/viewforum_body.tpl#files)
+
+### Positions des variables
+
+* __[`{BOARD_INDEX}`](../var/BOARD_INDEX.md#readme) :__ ligne [`1`](../src/mobile/viewforum_body.tpl#L1)
+* __[`{L_NEW_TOPIC}`](../var/L_NEW_TOPIC.md#readme) :__ ligne [`11`](../src/mobile/viewforum_body.tpl#L11)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme) :__ ligne [`3`](../src/mobile/viewforum_body.tpl#L3)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme) :__ ligne [`7`](../src/mobile/viewforum_body.tpl#L7)
+* __[`{TOPICS_LIST_BOX}`](../var/TOPICS_LIST_BOX.md#readme) :__ ligne [`5`](../src/mobile/viewforum_body.tpl#L5)
+* __[`{U_POST_NEW_TOPIC}`](../var/U_POST_NEW_TOPIC.md#readme) :__ ligne [`10`](../src/mobile/viewforum_body.tpl#L10)
+* __[`<!-- BEGIN switch_user_authpost -->`](../var/switch_user_authpost.md#readme) :__ ligne [`8`](../src/mobile/viewforum_body.tpl#L8)
+* __[`<!-- END switch_user_authpost -->`](../var/switch_user_authpost.md#readme) :__ ligne [`14`](../src/mobile/viewforum_body.tpl#L14)

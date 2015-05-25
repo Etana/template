@@ -31,3 +31,6 @@ Contenu du message d'erreur.
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`11`](../src/invision/profile_edit_signature.tpl#L11)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`7`](../src/invision/search_results_topics.tpl#L7)
 
+### Version Version mobile
+* __[`error_body`](../tpl/error_body.md#readme) :__ lignes [`2`](../src/mobile/error_body.tpl#L2)
+

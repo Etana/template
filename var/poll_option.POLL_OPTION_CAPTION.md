@@ -38,3 +38,7 @@
 * __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`11`](../src/invision/viewtopic_poll_ballot.tpl#L11)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`12`](../src/invision/viewtopic_poll_result.tpl#L12)
 
+### Version Version mobile
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`12`](../src/mobile/viewtopic_poll_ballot.tpl#L12)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`6`](../src/mobile/viewtopic_poll_result.tpl#L6)
+

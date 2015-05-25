@@ -27,7 +27,7 @@
 			<dd style="text-align:center;">	
                             <div class="fb_login_widget">
                                 <div class="fb_or_widget">{switch_login.switch_fb_connect_login.L_OR}</div>
-                                <fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" v="2" scope="{switch_login.switch_fb_connect_login.L_FB_PERMISSIONS}" class="margTop4">{switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON}</fb:login-button>
+                                <fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_login.switch_fb_connect_login.L_FB_PERMISSIONS}" class="margTop4">{switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON}</fb:login-button>
                             </div>
                         </dd>
 		</dl> 
@@ -54,7 +54,7 @@
 		        <!-- BEGIN switch_fb_connect_login -->
                             <div class="fb_login_widget">
                                 <div class="fb_or_widget">{switch_login_small.switch_fb_connect_login.L_OR}</div>
-                                <p align="center"><fb:login-button size="small" onlogin="window.location='/facebook_connect.forum'" v="2" scope="{switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}" class="margTop4">{switch_login_small.switch_fb_connect_login.L_FB_LOGIN_BUTTON}</fb:login-button>
+                                <p align="center"><fb:login-button size="small" onlogin="window.location='/facebook_connect.forum'" scope="{switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}" class="margTop4">{switch_login_small.switch_fb_connect_login.L_FB_LOGIN_BUTTON}</fb:login-button>
                             </p>
                             </div>
                 <!-- END switch_fb_connect_login -->
@@ -86,17 +86,23 @@
 	<!-- END switch_profile -->
 
 </div>
-                <!-- BEGIN switch_fb_widget_login -->
+<!-- BEGIN switch_fb_widget_login -->
 <div id="fb-root"></div>
-<script type="text/javascript">
-//<![CDATA[
-FB.init({
-	appId: '{switch_fb_widget_login.FACEBOOK_APP_ID}',
- 	status: true,
- 	cookie: true,
- 	xfbml: true,
-	oauth: true
-});
-//]]>
+<script>
+    FB.init({
+      appId      : {switch_fb_widget_login.FACEBOOK_APP_ID}, 
+      cookie     : true,
+      xfbml      : true,
+      oauth      : true,
+      version    : 'v2.3'
+    });
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 </script>
 <!-- END switch_fb_widget_login -->

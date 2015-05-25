@@ -341,3 +341,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.POSTER}`](../var/picrow.POSTER.md#readme) :__ ligne [`89`](../src/invision/album_moderate_body.tpl#L89)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.ROW_CLASS}`](../var/picrow.ROW_CLASS.md#readme) :__ ligne [`87`](../src/invision/album_moderate_body.tpl#L87)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.TIME}`](../var/picrow.TIME.md#readme) :__ ligne [`90`](../src/invision/album_moderate_body.tpl#L90)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_moderate_body.tpl#files)
+
+### Positions des variables

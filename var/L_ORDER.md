@@ -47,3 +47,7 @@ Chaîne de texte.
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`35`](../src/invision/memberlist_body.tpl#L35)
 
+### Version Version mobile
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

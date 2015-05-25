@@ -129,3 +129,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`22`](../src/invision/posting_smilies.tpl#L22)
 * __[`<!-- BEGIN switch_smilies_extra -->`](../var/switch_smilies_extra.md#readme) :__ ligne [`27`](../src/invision/posting_smilies.tpl#L27)
 * __[`<!-- END switch_smilies_extra -->`](../var/switch_smilies_extra.md#readme) :__ ligne [`31`](../src/invision/posting_smilies.tpl#L31)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/posting_smilies.tpl#files)
+
+### Positions des variables

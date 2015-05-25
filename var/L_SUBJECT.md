@@ -43,3 +43,6 @@ Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Util
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`38`](../src/invision/privmsgs_body.tpl#L38)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`28`](../src/invision/profile_send_email.tpl#L28)
 
+### Version Version mobile
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`10`](../src/mobile/posting_body.tpl#L10)
+

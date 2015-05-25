@@ -86,3 +86,9 @@
 * __[`{L_INDEX}`](../var/L_INDEX.md#readme) :__ ligne [`2`](../src/invision/calendar_body.tpl#L2)
 * __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme) :__ ligne [`3`](../src/invision/calendar_body.tpl#L3)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/calendar_body.tpl#L2)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/calendar_body.tpl#files)
+
+### Positions des variables

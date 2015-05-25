@@ -152,3 +152,9 @@
 * __[`{TO_TOPIC}`](../var/TO_TOPIC.md#readme) :__ ligne [`28`](../src/invision/merge_body.tpl#L28)
 * __[`{TO_TOPIC_TITLE}`](../var/TO_TOPIC_TITLE.md#readme) :__ ligne [`26`](../src/invision/merge_body.tpl#L26)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/merge_body.tpl#L2)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/merge_body.tpl#files)
+
+### Positions des variables

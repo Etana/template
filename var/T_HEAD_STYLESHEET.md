@@ -36,3 +36,6 @@ Contient le CSS global (CSS de base + CSS perso) du forum.
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`7`](../src/invision/posting_smilies_wysiwyg.tpl#L7)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`9`](../src/invision/simple_header.tpl#L9)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`11`](../src/mobile/overall_header.tpl#L11)
+

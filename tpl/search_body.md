@@ -287,3 +287,9 @@ Ce template affiche la page de recherche de votre forum : `/search`
 * __[`{T_VISITED_LINK}`](../var/T_VISITED_LINK.md#readme) :__ ligne [`26`](../src/invision/search_body.tpl#L26)
 * __[`{U_GOOGLERESULTS}`](../var/U_GOOGLERESULTS.md#readme) :__ ligne [`27`](../src/invision/search_body.tpl#L27)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`2`](../src/invision/search_body.tpl#L2)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/search_body.tpl#files)
+
+### Positions des variables

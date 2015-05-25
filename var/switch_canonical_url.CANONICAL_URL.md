@@ -26,3 +26,6 @@ Contient l'adresse URL de la balise link rel canonical qui est liée au duplicat
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/invision/overall_header.tpl#L12)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`7`](../src/mobile/overall_header.tpl#L7)
+

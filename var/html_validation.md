@@ -1,6 +1,6 @@
 # html_validation
 * __Type :__ variable de bouclage
-* __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme), [`greeting_popup`](../tpl/greeting_popup.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`simple_footer`](../tpl/simple_footer.md#readme)
+* __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme), [`greeting_popup`](../tpl/greeting_popup.md#readme), [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`privmsgs_popup`](../tpl/privmsgs_popup.md#readme), [`report_popup_body`](../tpl/report_popup_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`simple_footer`](../tpl/simple_footer.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -49,4 +49,8 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`1`](../src/invision/privmsgs_popup.tpl#L1)[`<->`](../src/invision/privmsgs_popup.tpl#L1-L5)[`5`](../src/invision/privmsgs_popup.tpl#L5)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`1`](../src/invision/report_popup_body.tpl#L1)[`<->`](../src/invision/report_popup_body.tpl#L1-L5)[`5`](../src/invision/report_popup_body.tpl#L5)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`1`](../src/invision/search_username.tpl#L1)[`<->`](../src/invision/search_username.tpl#L1-L5)[`5`](../src/invision/search_username.tpl#L5)
+
+### Version Version mobile
+* __[`overall_footer`](../tpl/overall_footer.md#readme) :__ lignes [`1`](../src/mobile/overall_footer.tpl#L1)[`<->`](../src/mobile/overall_footer.tpl#L1-L8)[`8`](../src/mobile/overall_footer.tpl#L8)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`49`](../src/mobile/overall_header.tpl#L49)[`<->`](../src/mobile/overall_header.tpl#L49-L55)[`55`](../src/mobile/overall_header.tpl#L55)
 

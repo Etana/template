@@ -173,3 +173,9 @@
 * __[`<!-- END rpg_fields_left -->`](../var/rpg_fields_left.md#readme) :__ ligne [`35`](../src/invision/rpg_sheet_edit.tpl#L35)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_NAME}`](../var/rpg_fields_left.F_NAME.md#readme) :__ ligne [`32`](../src/invision/rpg_sheet_edit.tpl#L32)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_VALUE_NEW}`](../var/rpg_fields_left.F_VALUE_NEW.md#readme) :__ ligne [`33`](../src/invision/rpg_sheet_edit.tpl#L33)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/rpg_sheet_edit.tpl#files)
+
+### Positions des variables

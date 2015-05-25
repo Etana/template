@@ -1,6 +1,6 @@
 # L_MARK_TOPICS_READ
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -21,11 +21,9 @@ Chaîne de texte.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`33`](../src/subsilver/viewforum_body.tpl#L33), [`63`](../src/subsilver/viewforum_body.tpl#L63)
 
 ### Version PunBB
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`114`](../src/punbb/topics_blog_box.tpl#L114)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`17`](../src/punbb/viewforum_body.tpl#L17)
 
 ### Version Invision
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`45`](../src/invision/topics_blog_box.tpl#L45)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`45`](../src/invision/topics_list_box.tpl#L45)
 

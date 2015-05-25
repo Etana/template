@@ -78,3 +78,9 @@
 * __[`{U_VIEWONLINE}`](../var/U_VIEWONLINE.md#readme) :__ ligne [`8`](../src/invision/mod_whoisonline.tpl#L8)
 * __[`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme) :__ ligne [`7`](../src/invision/mod_whoisonline.tpl#L7)
 * __[`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme) :__ ligne [`10`](../src/invision/mod_whoisonline.tpl#L10)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_whoisonline.tpl#files)
+
+### Positions des variables

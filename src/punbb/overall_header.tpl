@@ -216,7 +216,7 @@
 	<!-- END hitskin_preview -->
 
 	<!-- BEGIN switch_login_popup -->
-	<div id="login_popup" class="module main">
+	<div id="login_popup" class="module main" style="z-index: 10000 !important;">
 		<div id="login_popup_title" class="main-head">
 			<div class="h3">{SITENAME}</div>
 		</div>

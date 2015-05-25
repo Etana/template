@@ -66,3 +66,9 @@
 * __[`{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme) :__ ligne [`4`](../src/invision/mod_statistics.tpl#L4)
 * __[`{TOTAL_TOPICS}`](../var/TOTAL_TOPICS.md#readme) :__ ligne [`4`](../src/invision/mod_statistics.tpl#L4)
 * __[`{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme) :__ ligne [`5`](../src/invision/mod_statistics.tpl#L5)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_statistics.tpl#files)
+
+### Positions des variables

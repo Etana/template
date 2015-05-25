@@ -37,3 +37,6 @@ Le contenu du bouclage est affiché :
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`28`](../src/invision/groupcp_info_body.tpl#L28)[`<->`](../src/invision/groupcp_info_body.tpl#L28-L30)[`30`](../src/invision/groupcp_info_body.tpl#L30)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

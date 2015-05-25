@@ -467,3 +467,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rpg.rpg_fields_left.F_VALUE_NEW}`](../var/switch_rpg.rpg_fields_left.F_VALUE_NEW.md#readme) :__ ligne [`147`](../src/invision/profile_view_body.tpl#L147)
 * __[`<!-- BEGIN switch_show_status -->`](../var/switch_show_status.md#readme) :__ ligne [`43`](../src/invision/profile_view_body.tpl#L43)
 * __[`<!-- END switch_show_status -->`](../var/switch_show_status.md#readme) :__ ligne [`53`](../src/invision/profile_view_body.tpl#L53)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/profile_view_body.tpl#files)
+
+### Positions des variables

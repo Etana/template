@@ -30,3 +30,6 @@
 * __[`poll_ballot`](../tpl/poll_ballot.md#readme) :__ lignes [`7`](../src/invision/poll_ballot.tpl#L7)
 * __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`10`](../src/invision/viewtopic_poll_ballot.tpl#L10)
 
+### Version Version mobile
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`13`](../src/mobile/viewtopic_poll_ballot.tpl#L13)
+

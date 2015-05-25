@@ -28,3 +28,6 @@
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`39`](../src/invision/posting_body.tpl#L39)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`10`](../src/invision/profile_send_email.tpl#L10)
 
+### Version Version mobile
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`3`](../src/mobile/posting_body.tpl#L3)
+

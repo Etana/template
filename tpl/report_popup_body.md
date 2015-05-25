@@ -64,3 +64,9 @@
 * __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme) :__ ligne [`10`](../src/invision/report_popup_body.tpl#L10)
 * __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`1`](../src/invision/report_popup_body.tpl#L1)
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/invision/report_popup_body.tpl#L5)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/report_popup_body.tpl#files)
+
+### Positions des variables

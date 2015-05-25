@@ -35,3 +35,6 @@ Chaîne de texte.
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`70`](../src/invision/posting_body.tpl#L70)
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

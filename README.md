@@ -32,9 +32,7 @@
 * __[`search_username`](tpl/search_username.md#readme) :__ Rechercher un utilisateur
 * __[`simple_footer`](tpl/simple_footer.md#readme) :__ Bas de page simple (utilisé sur quelques pages)
 * __[`simple_header`](tpl/simple_header.md#readme) :__ Haut de page simple (utilisé sur quelques pages)
-* __[`topics_blog_box`](tpl/topics_blog_box.md#readme) :__ Affichage d'un blog
 * __[`topics_list_box`](tpl/topics_list_box.md#readme) :__ Affichage des sujets
-* __[`viewcomments_body`](tpl/viewcomments_body.md#readme) :__ Affichage des commentaires
 * __[`viewforum_body`](tpl/viewforum_body.md#readme) :__ Affichage d'un forum
 * __[`viewonline_body`](tpl/viewonline_body.md#readme) :__ Visualisation de qui est en ligne
 * __[`viewtopic_body`](tpl/viewtopic_body.md#readme) :__ Affichage d'un sujet
@@ -134,4 +132,21 @@
 * __[`profile_view_body`](tpl/profile_view_body.md#readme) :__ Page d'affichage du profil simple
 * __[`rpg_sheet`](tpl/rpg_sheet.md#readme) :__ Feuille de personnage
 * __[`rpg_sheet_edit`](tpl/rpg_sheet_edit.md#readme) :__ Feuille de personnage
+
+### Version mobile
+
+* __[`error_body`](tpl/error_body.md#readme) :__ Page pour les erreurs de saisie
+* __[`index_box`](tpl/index_box.md#readme) :__ Page d'accueil - affichage des catégories
+* __[`message_body`](tpl/message_body.md#readme) :__ Message d'erreur d'exécution
+* __[`overall_footer`](tpl/overall_footer.md#readme) :__ Bas de page
+* __[`overall_header`](tpl/overall_header.md#readme) :__ Haut de page
+* __[`posting_body`](tpl/posting_body.md#readme) :__ Page d'envoi de messages
+* __[`posting_confirm_code`](tpl/posting_confirm_code.md#readme) :__ Code de confirmation
+* __[`posting_topic_review`](tpl/posting_topic_review.md#readme) :__ Partie revue du sujet de la page d'envoi de messages
+* __[`profile_send_pass`](tpl/profile_send_pass.md#readme) :__ Page mot de passe perdu
+* __[`topics_list_box`](tpl/topics_list_box.md#readme) :__ Affichage des sujets
+* __[`viewforum_body`](tpl/viewforum_body.md#readme) :__ Affichage d'un forum
+* __[`viewtopic_body`](tpl/viewtopic_body.md#readme) :__ Affichage d'un sujet
+* __[`viewtopic_poll_ballot`](tpl/viewtopic_poll_ballot.md#readme) :__ Affichage d'un sondage
+* __[`viewtopic_poll_result`](tpl/viewtopic_poll_result.md#readme) :__ Affichage du résultat d'un sondage
 

@@ -101,7 +101,7 @@
             <!-- BEGIN switch_privmsg_group -->
             <dl>
                 <dt><label>{switch_privmsg.switch_privmsg_group.L_OR_GROUP}</label></dt>
-                <dd>{switch_privmsg.switch_privmsg_group.MASS_PM}</dd>
+                <dd>{switch_privmsg.switch_privmsg_group.MASS_PM}<input type="button" value="  ?  " title="{switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN}" class="button2" /></dd>
             </dl>
             <!-- END switch_privmsg_group -->
             <!-- END switch_privmsg -->

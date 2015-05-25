@@ -1,4 +1,4 @@
-# Template overall_footer_begin (x 1)
+# Template overall_footer_begin
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -23,7 +23,6 @@
 	* [`<!-- END html_validation -->`](../var/html_validation.md#readme)
 	* [`{ID_RIGHT}`](../var/ID_RIGHT.md#readme)
 	* [`{L_GO}`](../var/L_GO.md#readme)
-	* [`{L_HOME}`](../var/L_HOME.md#readme) ([x](https://fa-tvars.appspot.com/var/L_HOME))
 	* [`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)
 	* [`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)
 	* [`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)
@@ -110,3 +109,9 @@
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`9`](../src/invision/overall_footer_begin.tpl#L9)
 * __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme) :__ ligne [`36`](../src/invision/overall_footer_begin.tpl#L36)
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`43`](../src/invision/overall_footer_begin.tpl#L43)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/overall_footer_begin.tpl#files)
+
+### Positions des variables

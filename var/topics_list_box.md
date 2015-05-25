@@ -25,6 +25,7 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.COUNT_TOTAL_TOPICS}`](../var/topics_list_box.row.COUNT_TOTAL_TOPICS.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.COUNT_TOTAL_TOPICS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.END_TABLE_STICKY}`](../var/topics_list_box.row.END_TABLE_STICKY.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.END_TABLE_STICKY))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.FID}`](../var/topics_list_box.row.FID.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.FID))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.FOLDER_CLASSNAME}`](../var/topics_list_box.row.FOLDER_CLASSNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.FOLDER_CLASSNAME))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN footer_table -->`](../var/topics_list_box.row.footer_table.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.footer_table))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.GOTO_CLOSE}`](../var/topics_list_box.row.GOTO_CLOSE.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.GOTO_OPEN}`](../var/topics_list_box.row.GOTO_OPEN.md#readme)__
@@ -41,6 +42,7 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.L_AUTHOR}`](../var/topics_list_box.row.L_AUTHOR.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.L_AUTHOR))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.L_BY}`](../var/topics_list_box.row.L_BY.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.L_BY))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.L_LASTPOST}`](../var/topics_list_box.row.L_LASTPOST.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.L_LASTPOST))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.L_LATEST_POST_FROM_THE}`](../var/topics_list_box.row.L_LATEST_POST_FROM_THE.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.L_LATEST_POST_FROM_THE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.L_NO_TOPICS}`](../var/topics_list_box.row.L_NO_TOPICS.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.L_NO_TOPICS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.L_REPLIES}`](../var/topics_list_box.row.L_REPLIES.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.L_REPLIES))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.L_SELECT}`](../var/topics_list_box.row.L_SELECT.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.L_SELECT))__
@@ -102,4 +104,7 @@ contenu sur lequel on boucle
 
 ### Version Invision
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/invision/topics_list_box.tpl#L1)[`<->`](../src/invision/topics_list_box.tpl#L1-L175)[`175`](../src/invision/topics_list_box.tpl#L175)
+
+### Version Version mobile
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/mobile/topics_list_box.tpl#L1)[`<->`](../src/mobile/topics_list_box.tpl#L1-L88)[`88`](../src/mobile/topics_list_box.tpl#L88)
 

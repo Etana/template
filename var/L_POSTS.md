@@ -46,3 +46,6 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`99`](../src/invision/memberlist_body.tpl#L99)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`55`](../src/invision/search_body.tpl#L55)
 
+### Version Version mobile
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`14`](../src/mobile/index_box.tpl#L14)
+

@@ -242,3 +242,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics_title.L_TOP10_TITLE}`](../var/list_pics_block.list_pics_title.L_TOP10_TITLE.md#readme) :__ ligne [`13`](../src/invision/album_cat_top10.tpl#L13)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_pics -->`](../var/list_pics_block.no_pics.md#readme) :__ ligne [`29`](../src/invision/album_cat_top10.tpl#L29)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END no_pics -->`](../var/list_pics_block.no_pics.md#readme) :__ ligne [`33`](../src/invision/album_cat_top10.tpl#L33)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_cat_top10.tpl#files)
+
+### Positions des variables

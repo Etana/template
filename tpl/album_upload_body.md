@@ -465,3 +465,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_multiple_uploads -->`](../var/switch_nuffload_enabled.switch_multiple_uploads.md#readme) :__ ligne [`220`](../src/invision/album_upload_body.tpl#L220)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_show_progress_bar -->`](../var/switch_nuffload_enabled.switch_show_progress_bar.md#readme) :__ ligne [`88`](../src/invision/album_upload_body.tpl#L88)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_show_progress_bar -->`](../var/switch_nuffload_enabled.switch_show_progress_bar.md#readme) :__ ligne [`94`](../src/invision/album_upload_body.tpl#L94)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_upload_body.tpl#files)
+
+### Positions des variables

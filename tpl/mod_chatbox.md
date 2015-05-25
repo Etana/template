@@ -46,3 +46,9 @@
 ### Positions des variables
 
 * __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme) :__ ligne [`5`](../src/invision/mod_chatbox.tpl#L5)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_chatbox.tpl#files)
+
+### Positions des variables

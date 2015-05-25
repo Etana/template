@@ -30,3 +30,6 @@
 * __[`poll_result`](../tpl/poll_result.md#readme) :__ lignes [`10`](../src/invision/poll_result.tpl#L10), [`12`](../src/invision/poll_result.tpl#L12)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`15`](../src/invision/viewtopic_poll_result.tpl#L15), [`15`](../src/invision/viewtopic_poll_result.tpl#L15)
 
+### Version Version mobile
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`7`](../src/mobile/viewtopic_poll_result.tpl#L7), [`7`](../src/mobile/viewtopic_poll_result.tpl#L7)
+

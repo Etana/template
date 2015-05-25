@@ -28,3 +28,6 @@
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`41`](../src/invision/profile_add_body.tpl#L41)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`33`](../src/invision/profile_send_pass.tpl#L33)
 
+### Version Version mobile
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`12`](../src/mobile/profile_send_pass.tpl#L12)
+

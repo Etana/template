@@ -71,3 +71,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme) :__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_keywords.tpl#files)
+
+### Positions des variables

@@ -20,7 +20,7 @@
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`209`](../src/subsilver/overall_header.tpl#L209)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`12`](../src/subsilver/posting_smilies_frame.tpl#L12)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`12`](../src/subsilver/posting_smilies_wysiwyg.tpl#L12)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`13`](../src/subsilver/simple_header.tpl#L13)
+* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`14`](../src/subsilver/simple_header.tpl#L14)
 
 ### Version PunBB
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`12`](../src/punbb/posting_smilies_frame.tpl#L12), [`13`](../src/punbb/posting_smilies_frame.tpl#L13)

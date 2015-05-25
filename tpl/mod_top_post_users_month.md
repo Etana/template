@@ -84,3 +84,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme) :__ ligne [`8`](../src/invision/mod_top_post_users_month.tpl#L8)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme) :__ ligne [`7`](../src/invision/mod_top_post_users_month.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme) :__ ligne [`8`](../src/invision/mod_top_post_users_month.tpl#L8)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_top_post_users_month.tpl#files)
+
+### Positions des variables

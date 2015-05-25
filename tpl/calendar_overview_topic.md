@@ -101,3 +101,9 @@
 * __[`{TOPIC_TITLE}`](../var/TOPIC_TITLE.md#readme) :__ ligne [`2`](../src/invision/calendar_overview_topic.tpl#L2)
 * __[`<!-- BEGIN display_forum -->`](../var/display_forum.md#readme) :__ ligne [`6`](../src/invision/calendar_overview_topic.tpl#L6)
 * __[`<!-- END display_forum -->`](../var/display_forum.md#readme) :__ ligne [`9`](../src/invision/calendar_overview_topic.tpl#L9)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/calendar_overview_topic.tpl#files)
+
+### Positions des variables

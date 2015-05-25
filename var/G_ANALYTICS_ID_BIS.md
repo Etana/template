@@ -24,3 +24,6 @@ Variable liée à des statistiques internes.
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`193`](../src/invision/overall_header.tpl#L193)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`25`](../src/mobile/overall_header.tpl#L25)
+

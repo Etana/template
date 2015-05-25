@@ -52,3 +52,10 @@
 [__Code source__](../src/invision/simple_footer.tpl#files)
 
 ### Positions des variables
+
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/simple_footer.tpl#files)
+
+### Positions des variables

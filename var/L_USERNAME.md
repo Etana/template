@@ -63,3 +63,7 @@ Chaîne de caractère.
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`25`](../src/invision/profile_send_pass.tpl#L25)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`16`](../src/invision/viewonline_body.tpl#L16)
 
+### Version Version mobile
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`6`](../src/mobile/posting_body.tpl#L6)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`8`](../src/mobile/profile_send_pass.tpl#L8)
+

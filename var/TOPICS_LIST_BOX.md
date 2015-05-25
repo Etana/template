@@ -24,3 +24,6 @@ Affiche le template [`topics_list_box`](../tpl/topics_list_box.md#readme) ou [`t
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`21`](../src/invision/viewforum_body.tpl#L21)
 
+### Version Version mobile
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`5`](../src/mobile/viewforum_body.tpl#L5)
+

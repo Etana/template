@@ -103,3 +103,10 @@
 [__Code source__](../src/invision/album_formsearch_body.tpl#files)
 
 ### Positions des variables
+
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_formsearch_body.tpl#files)
+
+### Positions des variables

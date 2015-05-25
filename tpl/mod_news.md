@@ -263,3 +263,9 @@
 * __[`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme) :__ ligne [`68`](../src/invision/mod_news.tpl#L68)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme) :__ ligne [`65`](../src/invision/mod_news.tpl#L65)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme) :__ ligne [`65`](../src/invision/mod_news.tpl#L65)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_news.tpl#files)
+
+### Positions des variables

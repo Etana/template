@@ -18,14 +18,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`55`](../src/prosilver/overall_footer_end.tpl#L55)[`<->`](../src/prosilver/overall_footer_end.tpl#L55-L77)[`77`](../src/prosilver/overall_footer_end.tpl#L77)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`61`](../src/prosilver/overall_footer_end.tpl#L61)[`<->`](../src/prosilver/overall_footer_end.tpl#L61-L83)[`83`](../src/prosilver/overall_footer_end.tpl#L83)
 
 ### Version phpBB2
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`39`](../src/subsilver/overall_footer_end.tpl#L39)[`<->`](../src/subsilver/overall_footer_end.tpl#L39-L61)[`61`](../src/subsilver/overall_footer_end.tpl#L61)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`51`](../src/subsilver/overall_footer_end.tpl#L51)[`<->`](../src/subsilver/overall_footer_end.tpl#L51-L73)[`73`](../src/subsilver/overall_footer_end.tpl#L73)
 
 ### Version PunBB
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`53`](../src/punbb/overall_footer_end.tpl#L53)[`<->`](../src/punbb/overall_footer_end.tpl#L53-L75)[`75`](../src/punbb/overall_footer_end.tpl#L75)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`59`](../src/punbb/overall_footer_end.tpl#L59)[`<->`](../src/punbb/overall_footer_end.tpl#L59-L81)[`81`](../src/punbb/overall_footer_end.tpl#L81)
 
 ### Version Invision
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`56`](../src/invision/overall_footer_end.tpl#L56)[`<->`](../src/invision/overall_footer_end.tpl#L56-L78)[`78`](../src/invision/overall_footer_end.tpl#L78)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`62`](../src/invision/overall_footer_end.tpl#L62)[`<->`](../src/invision/overall_footer_end.tpl#L62-L84)[`84`](../src/invision/overall_footer_end.tpl#L84)
 

@@ -25,3 +25,6 @@
 ### Version Invision
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`33`](../src/invision/profile_send_email.tpl#L33)
 
+### Version Version mobile
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`13`](../src/mobile/posting_body.tpl#L13)
+

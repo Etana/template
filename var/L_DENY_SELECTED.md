@@ -29,3 +29,6 @@ Remplacement français `Refuser la sélection` si il y a un membre en cours de d
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`31`](../src/invision/groupcp_pending_info.tpl#L31)
 
+### Version Version mobile
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+

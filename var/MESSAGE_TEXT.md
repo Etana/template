@@ -36,3 +36,6 @@ Contenu du message.
 * __[`message_body`](../tpl/message_body.md#readme) :__ lignes [`4`](../src/invision/message_body.tpl#L4)
 * __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`24`](../src/invision/modcp_move.tpl#L24)
 
+### Version Version mobile
+* __[`message_body`](../tpl/message_body.md#readme) :__ lignes [`4`](../src/mobile/message_body.tpl#L4)
+

@@ -179,3 +179,9 @@
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme) :__ ligne [`3`](../src/invision/album_edit_body.tpl#L3)
 * __[`<!-- BEGIN move_to_category -->`](../var/move_to_category.md#readme) :__ ligne [`51`](../src/invision/album_edit_body.tpl#L51)
 * __[`<!-- END move_to_category -->`](../var/move_to_category.md#readme) :__ ligne [`56`](../src/invision/album_edit_body.tpl#L56)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_edit_body.tpl#files)
+
+### Positions des variables

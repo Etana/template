@@ -4,8 +4,8 @@ import requests, re, html, os, time, json
 from enum import Enum
 from collections import OrderedDict
 
-template_versions = { 'subsilver': 'phpBB2', 'prosilver': 'phpBB3', 'punbb': 'PunBB', 'invision': 'Invision' }
-template_categories = OrderedDict([('main','Général'),('portal','Portail'),('gallery','Galerie'),('calendar','Calendrier'),('group','Groupes'),('post','Poster & Messages Privés'),('moderation','Modération'),('profil','Profil')])
+template_versions = { 'subsilver': 'phpBB2', 'prosilver': 'phpBB3', 'punbb': 'PunBB', 'invision': 'Invision', 'mobile': 'Version mobile'}
+template_categories = OrderedDict([('main','Général'),('portal','Portail'),('gallery','Galerie'),('calendar','Calendrier'),('group','Groupes'),('post','Poster & Messages Privés'),('moderation','Modération'),('profil','Profil'), ('mobile', 'Version mobile')])
 template_descriptions = { cat:{} for cat in template_categories }
 template_contents = { ver:{} for ver in template_versions }
 template_from_categories = {}
@@ -41,6 +41,12 @@ for ver in template_versions:
     s.post(f+'admin/index.forum?part=themes&sub=styles&mode=version&extended_admin=1&tid='+tid,data={'tpl':ver, 'keep_theme': 1, 'change_version': 1})
 
     for cat in template_categories:
+        if ver == 'mobile':
+            if cat != 'mobile':
+                continue
+        else:
+            if cat == 'mobile':
+                continue
 
         cat_page = s.get(f+'admin/index.forum?mode='+cat+'&part=themes&sub=templates&tid='+tid)
         cat_page.encoding = 'utf-8'
@@ -90,7 +96,9 @@ with open(script_dir+'/README.md', 'w') as f:
 
 variables = {}
 
-template_variables = { tem:{} for tem in template_contents['subsilver'] }
+tems = template_contents['subsilver'].copy()
+tems.update(template_contents['mobile'])
+template_variables = { tem:{} for tem in tems}
 
 all_desc = json.loads(requests.get('https://fa-tvars.appspot.com/export').text)
 var_desc = all_desc[0]
@@ -103,7 +111,7 @@ def isboucle(var):
     return False if re.search('[A-Z]',var) and var not in ("IMGS","POSTER","TOPIC") else True
 
 def expandvar(content,name=""):
-    for kaboum in re.findall('\{\{(tpl|subsilver|punbb)/([a-z0-9_]+)\}\}', content):
+    for kaboum in re.findall('\{\{(tpl|subsilver|punbb|mobile)/([a-z0-9_]+)\}\}', content):
         content= re.sub('\{\{('+kaboum[0]+"/"+kaboum[1]+')\}\}','[`'+kaboum[1]+'`](../tpl/'+kaboum[1]+'.md#readme)', content)
     for var in re.findall('\{\{[A-Za-z._0-9-]+\}\}', content):
         var= var[2:-2]
@@ -176,8 +184,12 @@ for ver in template_contents:
                 if tem  not in variables[var_name][ver]:
                     variables[var_name][ver][tem] = []
 
-                if var_name not in template_variables[tem]:
-                    template_variables[tem][var_name] = []
+                try:
+                    if var_name not in template_variables[tem]:
+                        template_variables[tem][var_name] = []
+                except:
+                    __import__('ipdb').set_trace() # EAADD
+
                     
                 variables[var_name][ver][tem] += [[num_line, var_type]]
                 template_variables[tem][var_name] += [[num_line, var_type, ver]]
@@ -203,7 +215,7 @@ def var2links(var, types, prefix='../'):
     return links
 
 def sorting_version(ver):
-    return { 'subsilver': 1, 'prosilver': 0, 'punbb': 2, 'invision': 3 }[ver]
+    return { 'subsilver': 1, 'prosilver': 0, 'punbb': 2, 'invision': 3, 'mobile': 4 }[ver]
 
 def guess_type(var_name):
     if re.match('^[A-Z_0-9]+$', var_name.split('.')[-1]):

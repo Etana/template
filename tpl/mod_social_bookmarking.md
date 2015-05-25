@@ -86,3 +86,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme) :__ ligne [`6`](../src/invision/mod_social_bookmarking.tpl#L6)
 * __[`{L_SOCIAL_BOOKMARKING}`](../var/L_SOCIAL_BOOKMARKING.md#readme) :__ ligne [`2`](../src/invision/mod_social_bookmarking.tpl#L2)
 * __[`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](../var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme) :__ ligne [`11`](../src/invision/mod_social_bookmarking.tpl#L11)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_social_bookmarking.tpl#files)
+
+### Positions des variables

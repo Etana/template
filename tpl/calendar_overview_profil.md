@@ -67,3 +67,9 @@
 * __[`{L_AGE}`](../var/L_AGE.md#readme) :__ ligne [`6`](../src/invision/calendar_overview_profil.tpl#L6)
 * __[`{L_TITLE}`](../var/L_TITLE.md#readme) :__ ligne [`2`](../src/invision/calendar_overview_profil.tpl#L2)
 * __[`{L_USERNAME}`](../var/L_USERNAME.md#readme) :__ ligne [`4`](../src/invision/calendar_overview_profil.tpl#L4)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/calendar_overview_profil.tpl#files)
+
+### Positions des variables

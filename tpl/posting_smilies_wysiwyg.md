@@ -138,3 +138,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) :__ ligne [`29`](../src/invision/posting_smilies_wysiwyg.tpl#L29)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/posting_smilies_wysiwyg.tpl#files)
+
+### Positions des variables

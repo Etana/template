@@ -19,6 +19,7 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_privmsg_group -->`](../var/switch_privmsg.switch_privmsg_group.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.L_OR_GROUP}`](../var/switch_privmsg.switch_privmsg_group.L_OR_GROUP.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.L_OR_GROUP))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.MASS_PM}`](../var/switch_privmsg.switch_privmsg_group.MASS_PM.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN}`](../var/switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_username -->`](../var/switch_privmsg.switch_username.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_username.USERNAME}`](../var/switch_privmsg.switch_username.USERNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_username.USERNAME))__
 
@@ -26,7 +27,7 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`64`](../src/prosilver/posting_body.tpl#L64)[`<->`](../src/prosilver/posting_body.tpl#L64-L88)[`88`](../src/prosilver/posting_body.tpl#L88), [`406`](../src/prosilver/posting_body.tpl#L406)[`<->`](../src/prosilver/posting_body.tpl#L406-L410)[`410`](../src/prosilver/posting_body.tpl#L410), [`414`](../src/prosilver/posting_body.tpl#L414)[`<->`](../src/prosilver/posting_body.tpl#L414-L416)[`416`](../src/prosilver/posting_body.tpl#L416)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`64`](../src/prosilver/posting_body.tpl#L64)[`<->`](../src/prosilver/posting_body.tpl#L64-L88)[`88`](../src/prosilver/posting_body.tpl#L88), [`406`](../src/prosilver/posting_body.tpl#L406)[`<->`](../src/prosilver/posting_body.tpl#L406-L411)[`411`](../src/prosilver/posting_body.tpl#L411), [`415`](../src/prosilver/posting_body.tpl#L415)[`<->`](../src/prosilver/posting_body.tpl#L415-L417)[`417`](../src/prosilver/posting_body.tpl#L417)
 
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`102`](../src/subsilver/posting_body.tpl#L102)[`<->`](../src/subsilver/posting_body.tpl#L102-L128)[`128`](../src/subsilver/posting_body.tpl#L128), [`608`](../src/subsilver/posting_body.tpl#L608)[`<->`](../src/subsilver/posting_body.tpl#L608-L612)[`612`](../src/subsilver/posting_body.tpl#L612), [`616`](../src/subsilver/posting_body.tpl#L616)[`<->`](../src/subsilver/posting_body.tpl#L616-L618)[`618`](../src/subsilver/posting_body.tpl#L618)

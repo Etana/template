@@ -147,3 +147,9 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`21`](../src/invision/faq_dhtml.tpl#L21)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`22`](../src/invision/faq_dhtml.tpl#L22)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme) :__ ligne [`24`](../src/invision/faq_dhtml.tpl#L24)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/faq_dhtml.tpl#files)
+
+### Positions des variables

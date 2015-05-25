@@ -106,3 +106,22 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`11`](../src/invision/viewtopic_poll_ballot.tpl#L11)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme) :__ ligne [`10`](../src/invision/viewtopic_poll_ballot.tpl#L10)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme) :__ ligne [`10`](../src/invision/viewtopic_poll_ballot.tpl#L10)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/viewtopic_poll_ballot.tpl#files)
+
+### Positions des variables
+
+* __[`{CLOSE_POLL}`](../var/CLOSE_POLL.md#readme) :__ ligne [`7`](../src/mobile/viewtopic_poll_ballot.tpl#L7)
+* __[`{L_SUBMIT_VOTE}`](../var/L_SUBMIT_VOTE.md#readme) :__ ligne [`18`](../src/mobile/viewtopic_poll_ballot.tpl#L18)
+* __[`{L_VIEW_RESULTS}`](../var/L_VIEW_RESULTS.md#readme) :__ ligne [`22`](../src/mobile/viewtopic_poll_ballot.tpl#L22)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`6`](../src/mobile/viewtopic_poll_ballot.tpl#L6)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`24`](../src/mobile/viewtopic_poll_ballot.tpl#L24)
+* __[`{S_POLL_ACTION}`](../var/S_POLL_ACTION.md#readme) :__ ligne [`1`](../src/mobile/viewtopic_poll_ballot.tpl#L1)
+* __[`{U_VIEW_RESULTS}`](../var/U_VIEW_RESULTS.md#readme) :__ ligne [`22`](../src/mobile/viewtopic_poll_ballot.tpl#L22)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`10`](../src/mobile/viewtopic_poll_ballot.tpl#L10)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`15`](../src/mobile/viewtopic_poll_ballot.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`12`](../src/mobile/viewtopic_poll_ballot.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme) :__ ligne [`13`](../src/mobile/viewtopic_poll_ballot.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme) :__ ligne [`13`](../src/mobile/viewtopic_poll_ballot.tpl#L13)

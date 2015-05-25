@@ -165,3 +165,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme) :__ ligne [`18`](../src/invision/profile_avatar_gallery.tpl#L18)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme) :__ ligne [`20`](../src/invision/profile_avatar_gallery.tpl#L20)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR.md#readme) :__ ligne [`19`](../src/invision/profile_avatar_gallery.tpl#L19)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/profile_avatar_gallery.tpl#files)
+
+### Positions des variables

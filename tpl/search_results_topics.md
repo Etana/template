@@ -302,3 +302,9 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END line_sticky -->`](../var/searchresults.line_sticky.md#readme) :__ ligne [`36`](../src/invision/search_results_topics.tpl#L36)
 * __[`<!-- BEGIN switch_active_topics -->`](../var/switch_active_topics.md#readme) :__ ligne [`62`](../src/invision/search_results_topics.tpl#L62)
 * __[`<!-- END switch_active_topics -->`](../var/switch_active_topics.md#readme) :__ ligne [`83`](../src/invision/search_results_topics.tpl#L83)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/search_results_topics.tpl#files)
+
+### Positions des variables

@@ -136,3 +136,9 @@
 * __[`{U_RETURN_PROFILE}`](../var/U_RETURN_PROFILE.md#readme) :__ ligne [`55`](../src/invision/profile_edit_signature.tpl#L55)
 * __[`<!-- BEGIN switch_post_error -->`](../var/switch_post_error.md#readme) :__ ligne [`7`](../src/invision/profile_edit_signature.tpl#L7)
 * __[`<!-- END switch_post_error -->`](../var/switch_post_error.md#readme) :__ ligne [`16`](../src/invision/profile_edit_signature.tpl#L16)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/profile_edit_signature.tpl#files)
+
+### Positions des variables

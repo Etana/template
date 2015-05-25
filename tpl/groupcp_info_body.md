@@ -487,3 +487,9 @@ Utilisé pour l'affichage des informations d'un groupe sur la page d'un groupe.
 * __[`<!-- END switch_subscribe_group_input -->`](../var/switch_subscribe_group_input.md#readme) :__ ligne [`27`](../src/invision/groupcp_info_body.tpl#L27)
 * __[`<!-- BEGIN switch_unsubscribe_group_input -->`](../var/switch_unsubscribe_group_input.md#readme) :__ ligne [`28`](../src/invision/groupcp_info_body.tpl#L28)
 * __[`<!-- END switch_unsubscribe_group_input -->`](../var/switch_unsubscribe_group_input.md#readme) :__ ligne [`30`](../src/invision/groupcp_info_body.tpl#L30)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/groupcp_info_body.tpl#files)
+
+### Positions des variables

@@ -24,3 +24,6 @@ Contient le titre de la page d'accueil défini dans votre `PA > Général > Prom
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`4`](../src/invision/overall_header.tpl#L4), [`17`](../src/invision/overall_header.tpl#L17)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`4`](../src/mobile/overall_header.tpl#L4)
+

@@ -216,3 +216,26 @@
 * __[`{V_TOPIC_ICON}`](../var/V_TOPIC_ICON.md#readme) :__ ligne [`15`](../src/invision/posting_confirm_code.tpl#L15)
 * __[`{V_TYPE_FORUM}`](../var/V_TYPE_FORUM.md#readme) :__ ligne [`19`](../src/invision/posting_confirm_code.tpl#L19)
 * __[`{V_USERNAME}`](../var/V_USERNAME.md#readme) :__ ligne [`12`](../src/invision/posting_confirm_code.tpl#L12)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/posting_confirm_code.tpl#files)
+
+### Positions des variables
+
+* __[`{F_TYPE_FORUM}`](../var/F_TYPE_FORUM.md#readme) :__ ligne [`20`](../src/mobile/posting_confirm_code.tpl#L20)
+* __[`{L_ERROR_MSG}`](../var/L_ERROR_MSG.md#readme) :__ ligne [`1`](../src/mobile/posting_confirm_code.tpl#L1)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme) :__ ligne [`11`](../src/mobile/posting_confirm_code.tpl#L11)
+* __[`{L_VALIDATION}`](../var/L_VALIDATION.md#readme) :__ ligne [`4`](../src/mobile/posting_confirm_code.tpl#L4)
+* __[`{L_VALIDATION_EXPLAIN}`](../var/L_VALIDATION_EXPLAIN.md#readme) :__ ligne [`5`](../src/mobile/posting_confirm_code.tpl#L5)
+* __[`{S_ANTI_ROBOT}`](../var/S_ANTI_ROBOT.md#readme) :__ ligne [`6`](../src/mobile/posting_confirm_code.tpl#L6)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`23`](../src/mobile/posting_confirm_code.tpl#L23)
+* __[`{U_POSTING}`](../var/U_POSTING.md#readme) :__ ligne [`2`](../src/mobile/posting_confirm_code.tpl#L2)
+* __[`{V_DESCRIPTION}`](../var/V_DESCRIPTION.md#readme) :__ ligne [`16`](../src/mobile/posting_confirm_code.tpl#L16)
+* __[`{V_MESSAGE}`](../var/V_MESSAGE.md#readme) :__ ligne [`17`](../src/mobile/posting_confirm_code.tpl#L17)
+* __[`{V_MODE}`](../var/V_MODE.md#readme) :__ ligne [`18`](../src/mobile/posting_confirm_code.tpl#L18)
+* __[`{V_SUBJECT}`](../var/V_SUBJECT.md#readme) :__ ligne [`15`](../src/mobile/posting_confirm_code.tpl#L15)
+* __[`{V_SUBMIT}`](../var/V_SUBMIT.md#readme) :__ ligne [`11`](../src/mobile/posting_confirm_code.tpl#L11)
+* __[`{V_TOPICTYPE}`](../var/V_TOPICTYPE.md#readme) :__ ligne [`21`](../src/mobile/posting_confirm_code.tpl#L21)
+* __[`{V_TYPE_FORUM}`](../var/V_TYPE_FORUM.md#readme) :__ ligne [`20`](../src/mobile/posting_confirm_code.tpl#L20)
+* __[`{V_USERNAME}`](../var/V_USERNAME.md#readme) :__ ligne [`14`](../src/mobile/posting_confirm_code.tpl#L14)

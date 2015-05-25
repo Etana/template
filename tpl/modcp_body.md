@@ -268,3 +268,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TITLE}`](../var/topicrow.TOPIC_TITLE.md#readme) :__ ligne [`31`](../src/invision/modcp_body.tpl#L31)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TYPE}`](../var/topicrow.TOPIC_TYPE.md#readme) :__ ligne [`31`](../src/invision/modcp_body.tpl#L31)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.U_VIEW_TOPIC}`](../var/topicrow.U_VIEW_TOPIC.md#readme) :__ ligne [`31`](../src/invision/modcp_body.tpl#L31)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/modcp_body.tpl#files)
+
+### Positions des variables

@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`10`](../src/prosilver/mod_recent_topics.tpl#L10)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`12`](../src/prosilver/mod_recent_topics.tpl#L12)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`12`](../src/subsilver/mod_recent_topics.tpl#L12)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`14`](../src/subsilver/mod_recent_topics.tpl#L14)
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`7`](../src/punbb/mod_recent_topics.tpl#L7)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`9`](../src/punbb/mod_recent_topics.tpl#L9)
 
 ### Version Invision
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`8`](../src/invision/mod_recent_topics.tpl#L8)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`10`](../src/invision/mod_recent_topics.tpl#L10)
 

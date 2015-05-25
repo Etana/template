@@ -291,3 +291,9 @@
 * __[`<!-- END switch_poll_delete_toggle -->`](../var/switch_poll_delete_toggle.md#readme) :__ ligne [`90`](../src/invision/posting_poll_body.tpl#L90)
 * __[`<!-- BEGIN switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme) :__ ligne [`75`](../src/invision/posting_poll_body.tpl#L75)
 * __[`<!-- END switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme) :__ ligne [`83`](../src/invision/posting_poll_body.tpl#L83)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/posting_poll_body.tpl#files)
+
+### Positions des variables

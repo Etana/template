@@ -35,3 +35,6 @@ Image `Visiter le site web du posteur` ( choisie dans [`Index`](http://votre-for
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`74`](../src/invision/groupcp_info_body.tpl#L74)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

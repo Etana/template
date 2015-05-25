@@ -283,7 +283,7 @@ showHiddenMessage = function(id)
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tr>
 					<td width="9%" class="noprint">&nbsp;</td>
-					<td align="center" class="t-title"><a name="bottomtitle"></a><h1 class="cattitle">{TOPIC_TITLE}</h1></td>
+					<td align="center" class="t-title"><a name="bottomtitle"></a><div class="cattitle">{TOPIC_TITLE}</div></td>
 					<td align="right" nowrap="nowrap" width="9%" class="browse-arrows"><a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;<a href="#top">{L_BACK_TO_TOP}</a>&nbsp;</td>
 				</tr>
 			</table>
@@ -312,7 +312,7 @@ showHiddenMessage = function(id)
 		<td class="catBottom" height="28">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tr>
-					<td valign="top"><h1 class="cattitle">&nbsp;{PROMOT_TRAFIC_TITLE}</h1></td>
+					<td valign="top"><div class="cattitle">&nbsp;{PROMOT_TRAFIC_TITLE}</div></td>
 					<td align="right" valign="middle" width="10"><span class="gensmall"><a href="javascript:ShowHideLayer('ptrafic_open','ptrafic_close');"><img src="{TABS_MORE_IMG}" alt="+" align="middle" border="0" /></a></span></td>
 				</tr>
 			</table>
@@ -325,7 +325,7 @@ showHiddenMessage = function(id)
 		<td class="catBottom" height="28">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tr>
-					<td valign="top"><h1 class="cattitle">&nbsp;{PROMOT_TRAFIC_TITLE}</h1></td>
+					<td valign="top"><div class="cattitle">&nbsp;{PROMOT_TRAFIC_TITLE}</div></td>
 					<td align="right" valign="middle" width="10"><span class="gensmall"><a href="javascript:ShowHideLayer('ptrafic_open','ptrafic_close');"><img src="{TABS_LESS_IMG}" alt="-" align="middle" border="0" /></a></span></td>
 				</tr>
 			</table>
@@ -350,7 +350,7 @@ showHiddenMessage = function(id)
 					<tbody>
 						<tr>
 							<td valign="top">
-								<h1 class="cattitle">&nbsp;{L_FORUM_RULES}</h1>
+								<div class="cattitle">&nbsp;{L_FORUM_RULES}</div>
 							</td>
 						</tr>
 					</tbody>

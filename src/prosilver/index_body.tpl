@@ -14,7 +14,7 @@
 				{S_HIDDEN_FIELDS}<input class="mainoption button1" type="submit" name="login" value="{L_LOGIN}" />
 				<!-- BEGIN switch_fb_connect -->
 				<span class="fb_or">{switch_user_login_form_header.switch_fb_connect.L_OR}</span>
-				<fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" v="2" scope="{switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button>
+				<fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button>
 				<!-- END switch_fb_connect -->
 			</div>
 		</form>
@@ -111,7 +111,7 @@
 				{S_HIDDEN_FIELDS}<input class="mainoption button1" type="submit" name="login" value="{L_LOGIN}" />
 				<!-- BEGIN switch_fb_connect -->
 				<span class="fb_or">{switch_user_login_form_footer.switch_fb_connect.L_OR}</span>
-				<fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" v="2" scope="{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button>
+				<fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button>
 				<!-- END switch_fb_connect -->
 			</div>
 		</form>
@@ -133,15 +133,21 @@
 
 <!-- BEGIN switch_fb_index_login -->
 <div id="fb-root"></div>
-<script type="text/javascript">
-//<![CDATA[
-FB.init({
-	appId: '{switch_fb_index_login.FACEBOOK_APP_ID}',
- 	status: true,
- 	cookie: true,
- 	xfbml: true,
-	oauth: true
-});
-//]]>
+<script>
+    FB.init({
+      appId      : {switch_fb_index_login.FACEBOOK_APP_ID}, 
+      cookie     : true,
+      xfbml      : true,
+      oauth      : true,
+      version    : 'v2.3'
+    });
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 </script>
 <!-- END switch_fb_index_login -->

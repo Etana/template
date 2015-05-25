@@ -24,3 +24,6 @@ Contient la balise META gérant le favicon de votre forum.
 ### Version Invision
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/invision/overall_header.tpl#L14)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`10`](../src/mobile/overall_header.tpl#L10)
+

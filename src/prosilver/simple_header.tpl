@@ -8,6 +8,7 @@
     {META}
     {T_HEAD_STYLESHEET}
     <link rel="shortcut icon" type="image/x-icon" href="favicon2.ico" />
+    <script src="{JQUERY_PATH}" type="text/javascript"></script>
     <script src="{JS_DIR}{L_LANG}.js" type="text/javascript"></script>
 </head>
 

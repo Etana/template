@@ -122,7 +122,7 @@
 		<!-- BEGIN switch_privmsg_group -->
 		<tr>
 		<td class="row1" width="22%"><span class="gen"><b>{switch_privmsg.switch_privmsg_group.L_OR_GROUP}</b></span></td>
-		<td class="row2" width="78%">{switch_privmsg.switch_privmsg_group.MASS_PM}</td>
+		<td class="row2" width="78%">{switch_privmsg.switch_privmsg_group.MASS_PM}<input type="button" value="  ?  " title="{switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN}" class="button2" /></td>
 		</tr>
 		<!-- END switch_privmsg_group -->
 		<!-- END switch_privmsg -->

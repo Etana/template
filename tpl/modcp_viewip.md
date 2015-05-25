@@ -250,3 +250,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.USERNAME}`](../var/userrow.USERNAME.md#readme) :__ ligne [`59`](../src/invision/modcp_viewip.tpl#L59)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_PROFILE}`](../var/userrow.U_PROFILE.md#readme) :__ ligne [`59`](../src/invision/modcp_viewip.tpl#L59)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_SEARCHPOSTS}`](../var/userrow.U_SEARCHPOSTS.md#readme) :__ ligne [`60`](../src/invision/modcp_viewip.tpl#L60)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/modcp_viewip.tpl#files)
+
+### Positions des variables

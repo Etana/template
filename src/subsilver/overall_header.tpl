@@ -221,7 +221,7 @@
 	<!-- END hitskin_preview -->
 
 	<!-- BEGIN switch_login_popup -->
-	<div id="login_popup">
+	<div id="login_popup" style="z-index: 10000 !important;">
 		<table class="forumline" width="{LOGIN_POPUP_WIDTH}" height="{LOGIN_POPUP_HEIGHT}" border="0" cellspacing="1" cellpadding="0">
 			<tr height="25">
 				<td class="catLeft">

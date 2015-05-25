@@ -17,14 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`50`](../src/prosilver/mod_recent_topics.tpl#L50)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`44`](../src/prosilver/mod_recent_topics.tpl#L44)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`60`](../src/subsilver/mod_recent_topics.tpl#L60)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`53`](../src/subsilver/mod_recent_topics.tpl#L53)
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`51`](../src/punbb/mod_recent_topics.tpl#L51)
-
-### Version Invision
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`48`](../src/invision/mod_recent_topics.tpl#L48)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`45`](../src/punbb/mod_recent_topics.tpl#L45)
 

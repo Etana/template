@@ -1,6 +1,6 @@
 # POLL_DISPLAY
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`mod_poll`](../tpl/mod_poll.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans :__ [`mod_poll`](../tpl/mod_poll.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -14,21 +14,20 @@
 
 ### Version phpBB3
 * __[`mod_poll`](../tpl/mod_poll.md#readme) :__ lignes [`6`](../src/prosilver/mod_poll.tpl#L6)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`106`](../src/prosilver/viewcomments_body.tpl#L106)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`113`](../src/prosilver/viewtopic_body.tpl#L113)
 
 ### Version phpBB2
 * __[`mod_poll`](../tpl/mod_poll.md#readme) :__ lignes [`10`](../src/subsilver/mod_poll.tpl#L10)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`117`](../src/subsilver/viewcomments_body.tpl#L117)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`126`](../src/subsilver/viewtopic_body.tpl#L126)
 
 ### Version PunBB
 * __[`mod_poll`](../tpl/mod_poll.md#readme) :__ lignes [`7`](../src/punbb/mod_poll.tpl#L7)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`114`](../src/punbb/viewcomments_body.tpl#L114)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`121`](../src/punbb/viewtopic_body.tpl#L121)
 
 ### Version Invision
 * __[`mod_poll`](../tpl/mod_poll.md#readme) :__ lignes [`5`](../src/invision/mod_poll.tpl#L5)
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`104`](../src/invision/viewcomments_body.tpl#L104)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`109`](../src/invision/viewtopic_body.tpl#L109)
+
+### Version Version mobile
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`37`](../src/mobile/viewtopic_body.tpl#L37)
 

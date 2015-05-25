@@ -29,3 +29,6 @@ Nombre de message du modérateur de groupe.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`71`](../src/invision/groupcp_info_body.tpl#L71)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

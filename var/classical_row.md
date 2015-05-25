@@ -29,14 +29,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`35`](../src/prosilver/mod_recent_topics.tpl#L35)[`<->`](../src/prosilver/mod_recent_topics.tpl#L35-L53)[`53`](../src/prosilver/mod_recent_topics.tpl#L53)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`29`](../src/prosilver/mod_recent_topics.tpl#L29)[`<->`](../src/prosilver/mod_recent_topics.tpl#L29-L47)[`47`](../src/prosilver/mod_recent_topics.tpl#L47)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`39`](../src/subsilver/mod_recent_topics.tpl#L39)[`<->`](../src/subsilver/mod_recent_topics.tpl#L39-L66)[`66`](../src/subsilver/mod_recent_topics.tpl#L66)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`32`](../src/subsilver/mod_recent_topics.tpl#L32)[`<->`](../src/subsilver/mod_recent_topics.tpl#L32-L59)[`59`](../src/subsilver/mod_recent_topics.tpl#L59)
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`33`](../src/punbb/mod_recent_topics.tpl#L33)[`<->`](../src/punbb/mod_recent_topics.tpl#L33-L56)[`56`](../src/punbb/mod_recent_topics.tpl#L56)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`27`](../src/punbb/mod_recent_topics.tpl#L27)[`<->`](../src/punbb/mod_recent_topics.tpl#L27-L50)[`50`](../src/punbb/mod_recent_topics.tpl#L50)
 
 ### Version Invision
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`33`](../src/invision/mod_recent_topics.tpl#L33)[`<->`](../src/invision/mod_recent_topics.tpl#L33-L51)[`51`](../src/invision/mod_recent_topics.tpl#L51)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`27`](../src/invision/mod_recent_topics.tpl#L27)[`<->`](../src/invision/mod_recent_topics.tpl#L27-L42)[`42`](../src/invision/mod_recent_topics.tpl#L42)
 

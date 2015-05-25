@@ -17,6 +17,7 @@
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar -->`](../var/catrow.forumrow.avatar.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.avatar.LAST_POST_AVATAR}`](../var/catrow.forumrow.avatar.LAST_POST_AVATAR.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar.LAST_POST_AVATAR))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.FOLDER_CLASSNAME}`](../var/catrow.forumrow.FOLDER_CLASSNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.FOLDER_CLASSNAME))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.FORUM_DESC}`](../var/catrow.forumrow.FORUM_DESC.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.FORUM_FOLDER_IMG}`](../var/catrow.forumrow.FORUM_FOLDER_IMG.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.FORUM_NAME}`](../var/catrow.forumrow.FORUM_NAME.md#readme)__
@@ -29,6 +30,7 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.INC_SPAN}`](../var/catrow.forumrow.INC_SPAN.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_SPAN))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.INC_WIDTH_ICON}`](../var/catrow.forumrow.INC_WIDTH_ICON.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.INC_WIDTH_ICON))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.L_FORUM_FOLDER_ALT}`](../var/catrow.forumrow.L_FORUM_FOLDER_ALT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.L_LATEST_POST_FROM_THE}`](../var/catrow.forumrow.L_LATEST_POST_FROM_THE.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.L_LATEST_POST_FROM_THE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.L_LINKS}`](../var/catrow.forumrow.L_LINKS.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.L_LINKS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.LAST_POST}`](../var/catrow.forumrow.LAST_POST.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.LATEST_TOPIC_NAME}`](../var/catrow.forumrow.LATEST_TOPIC_NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.LATEST_TOPIC_NAME))__
@@ -59,4 +61,7 @@
 
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`30`](../src/invision/index_box.tpl#L30)[`<->`](../src/invision/index_box.tpl#L30-L67)[`67`](../src/invision/index_box.tpl#L67)
+
+### Version Version mobile
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`9`](../src/mobile/index_box.tpl#L9)[`<->`](../src/mobile/index_box.tpl#L9-L19)[`19`](../src/mobile/index_box.tpl#L19)
 

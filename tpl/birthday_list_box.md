@@ -259,3 +259,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END spacer -->`](../var/birthday_list_box.row.spacer.md#readme) :__ ligne [`50`](../src/invision/birthday_list_box.tpl#L50)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN topic -->`](../var/birthday_list_box.row.topic.md#readme) :__ ligne [`25`](../src/invision/birthday_list_box.tpl#L25)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END topic -->`](../var/birthday_list_box.row.topic.md#readme) :__ ligne [`35`](../src/invision/birthday_list_box.tpl#L35)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/birthday_list_box.tpl#files)
+
+### Positions des variables

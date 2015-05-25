@@ -92,8 +92,8 @@
 * __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme) :__ ligne [`16`](../src/prosilver/mod_login.tpl#L16)
 * __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme) :__ ligne [`49`](../src/prosilver/mod_login.tpl#L49)
 * __[`<!-- BEGIN switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`100`](../src/prosilver/mod_login.tpl#L100)
-* __[`<!-- END switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`113`](../src/prosilver/mod_login.tpl#L113)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme) :__ ligne [`105`](../src/prosilver/mod_login.tpl#L105)
+* __[`<!-- END switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`119`](../src/prosilver/mod_login.tpl#L119)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme) :__ ligne [`104`](../src/prosilver/mod_login.tpl#L104)
 * __[`<!-- BEGIN switch_login -->`](../var/switch_login.md#readme) :__ ligne [`4`](../src/prosilver/mod_login.tpl#L4)
 * __[`<!-- END switch_login -->`](../var/switch_login.md#readme) :__ ligne [`39`](../src/prosilver/mod_login.tpl#L39)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect_login -->`](../var/switch_login.switch_fb_connect_login.md#readme) :__ ligne [`27`](../src/prosilver/mod_login.tpl#L27)
@@ -152,8 +152,8 @@
 * __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme) :__ ligne [`38`](../src/subsilver/mod_login.tpl#L38)
 * __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme) :__ ligne [`83`](../src/subsilver/mod_login.tpl#L83)
 * __[`<!-- BEGIN switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`119`](../src/subsilver/mod_login.tpl#L119)
-* __[`<!-- END switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`132`](../src/subsilver/mod_login.tpl#L132)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme) :__ ligne [`124`](../src/subsilver/mod_login.tpl#L124)
+* __[`<!-- END switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`138`](../src/subsilver/mod_login.tpl#L138)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme) :__ ligne [`123`](../src/subsilver/mod_login.tpl#L123)
 * __[`<!-- BEGIN switch_login -->`](../var/switch_login.md#readme) :__ ligne [`1`](../src/subsilver/mod_login.tpl#L1)
 * __[`<!-- END switch_login -->`](../var/switch_login.md#readme) :__ ligne [`46`](../src/subsilver/mod_login.tpl#L46)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect_login -->`](../var/switch_login.switch_fb_connect_login.md#readme) :__ ligne [`25`](../src/subsilver/mod_login.tpl#L25)
@@ -207,8 +207,8 @@
 * __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme) :__ ligne [`14`](../src/punbb/mod_login.tpl#L14)
 * __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme) :__ ligne [`46`](../src/punbb/mod_login.tpl#L46)
 * __[`<!-- BEGIN switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`79`](../src/punbb/mod_login.tpl#L79)
-* __[`<!-- END switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`92`](../src/punbb/mod_login.tpl#L92)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme) :__ ligne [`84`](../src/punbb/mod_login.tpl#L84)
+* __[`<!-- END switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`98`](../src/punbb/mod_login.tpl#L98)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme) :__ ligne [`83`](../src/punbb/mod_login.tpl#L83)
 * __[`<!-- BEGIN switch_login -->`](../var/switch_login.md#readme) :__ ligne [`2`](../src/punbb/mod_login.tpl#L2)
 * __[`<!-- END switch_login -->`](../var/switch_login.md#readme) :__ ligne [`35`](../src/punbb/mod_login.tpl#L35)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect_login -->`](../var/switch_login.switch_fb_connect_login.md#readme) :__ ligne [`22`](../src/punbb/mod_login.tpl#L22)
@@ -262,8 +262,8 @@
 * __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme) :__ ligne [`17`](../src/invision/mod_login.tpl#L17)
 * __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme) :__ ligne [`51`](../src/invision/mod_login.tpl#L51)
 * __[`<!-- BEGIN switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`89`](../src/invision/mod_login.tpl#L89)
-* __[`<!-- END switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`102`](../src/invision/mod_login.tpl#L102)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme) :__ ligne [`94`](../src/invision/mod_login.tpl#L94)
+* __[`<!-- END switch_fb_widget_login -->`](../var/switch_fb_widget_login.md#readme) :__ ligne [`108`](../src/invision/mod_login.tpl#L108)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_widget_login.FACEBOOK_APP_ID}`](../var/switch_fb_widget_login.FACEBOOK_APP_ID.md#readme) :__ ligne [`93`](../src/invision/mod_login.tpl#L93)
 * __[`<!-- BEGIN switch_login -->`](../var/switch_login.md#readme) :__ ligne [`2`](../src/invision/mod_login.tpl#L2)
 * __[`<!-- END switch_login -->`](../var/switch_login.md#readme) :__ ligne [`38`](../src/invision/mod_login.tpl#L38)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect_login -->`](../var/switch_login.switch_fb_connect_login.md#readme) :__ ligne [`25`](../src/invision/mod_login.tpl#L25)
@@ -280,3 +280,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_login_small.switch_fb_connect_login.L_OR}`](../var/switch_login_small.switch_fb_connect_login.L_OR.md#readme) :__ ligne [`56`](../src/invision/mod_login.tpl#L56)
 * __[`<!-- BEGIN switch_profile -->`](../var/switch_profile.md#readme) :__ ligne [`67`](../src/invision/mod_login.tpl#L67)
 * __[`<!-- END switch_profile -->`](../var/switch_profile.md#readme) :__ ligne [`86`](../src/invision/mod_login.tpl#L86)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/mod_login.tpl#files)
+
+### Positions des variables

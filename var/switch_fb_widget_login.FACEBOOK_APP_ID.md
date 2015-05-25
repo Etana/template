@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`105`](../src/prosilver/mod_login.tpl#L105)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`104`](../src/prosilver/mod_login.tpl#L104)
 
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`124`](../src/subsilver/mod_login.tpl#L124)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`123`](../src/subsilver/mod_login.tpl#L123)
 
 ### Version PunBB
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`84`](../src/punbb/mod_login.tpl#L84)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`83`](../src/punbb/mod_login.tpl#L83)
 
 ### Version Invision
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`94`](../src/invision/mod_login.tpl#L94)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`93`](../src/invision/mod_login.tpl#L93)
 

@@ -28,3 +28,6 @@ Contient le niveau de hiérarchie du forum bouclé.
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`37`](../src/invision/index_box.tpl#L37), [`37`](../src/invision/index_box.tpl#L37)
 
+### Version Version mobile
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`13`](../src/mobile/index_box.tpl#L13), [`13`](../src/mobile/index_box.tpl#L13)
+

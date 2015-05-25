@@ -340,3 +340,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme) :__ ligne [`5`](../src/invision/calendar_box.tpl#L5)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme) :__ ligne [`7`](../src/invision/calendar_box.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme) :__ ligne [`9`](../src/invision/calendar_box.tpl#L9)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/calendar_box.tpl#files)
+
+### Positions des variables

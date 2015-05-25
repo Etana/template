@@ -201,3 +201,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme) :__ ligne [`38`](../src/invision/modcp_split.tpl#L38)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT}`](../var/postrow.POST_SUBJECT.md#readme) :__ ligne [`38`](../src/invision/modcp_split.tpl#L38)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.S_SPLIT_CHECKBOX}`](../var/postrow.S_SPLIT_CHECKBOX.md#readme) :__ ligne [`37`](../src/invision/modcp_split.tpl#L37)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/modcp_split.tpl#files)
+
+### Positions des variables

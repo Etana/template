@@ -1,6 +1,6 @@
 # BOARD_INDEX
 * __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation :__
 
 ```smarty
@@ -29,4 +29,8 @@ Affiche le contenu du template [`index_box`](../tpl/index_box.md#readme) ou [`in
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`40`](../src/invision/index_body.tpl#L40)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`38`](../src/invision/viewforum_body.tpl#L38)
+
+### Version Version mobile
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`1`](../src/mobile/profile_send_pass.tpl#L1)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`1`](../src/mobile/viewforum_body.tpl#L1)
 

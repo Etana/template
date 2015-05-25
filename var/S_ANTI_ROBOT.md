@@ -24,3 +24,6 @@
 ### Version Invision
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`7`](../src/invision/posting_confirm_code.tpl#L7)
 
+### Version Version mobile
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`6`](../src/mobile/posting_confirm_code.tpl#L6)
+

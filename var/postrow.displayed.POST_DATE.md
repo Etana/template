@@ -29,3 +29,6 @@
 ### Version Invision
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`24`](../src/invision/posting_topic_review.tpl#L24)
 
+### Version Version mobile
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`6`](../src/mobile/posting_topic_review.tpl#L6)
+

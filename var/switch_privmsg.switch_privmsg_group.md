@@ -17,6 +17,7 @@
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.L_OR_GROUP}`](../var/switch_privmsg.switch_privmsg_group.L_OR_GROUP.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.L_OR_GROUP))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.MASS_PM}`](../var/switch_privmsg.switch_privmsg_group.MASS_PM.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN}`](../var/switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_privmsg.switch_privmsg_group.MASS_PM_EXPLAIN))__
 
 
 ## Utilisations dans les templates

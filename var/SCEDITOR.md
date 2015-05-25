@@ -13,7 +13,7 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`424`](../src/prosilver/posting_body.tpl#L424)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`425`](../src/prosilver/posting_body.tpl#L425)
 
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`626`](../src/subsilver/posting_body.tpl#L626)

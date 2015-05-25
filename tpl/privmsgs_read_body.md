@@ -342,3 +342,9 @@
 * __[`<!-- END switch_save -->`](../var/switch_save.md#readme) :__ ligne [`77`](../src/invision/privmsgs_read_body.tpl#L77)
 * __[`<!-- BEGIN switch_user_contact -->`](../var/switch_user_contact.md#readme) :__ ligne [`51`](../src/invision/privmsgs_read_body.tpl#L51)
 * __[`<!-- END switch_user_contact -->`](../var/switch_user_contact.md#readme) :__ ligne [`62`](../src/invision/privmsgs_read_body.tpl#L62)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/privmsgs_read_body.tpl#files)
+
+### Positions des variables

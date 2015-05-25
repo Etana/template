@@ -36,3 +36,6 @@ Titre du message.
 * __[`message_body`](../tpl/message_body.md#readme) :__ lignes [`2`](../src/invision/message_body.tpl#L2)
 * __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`4`](../src/invision/modcp_move.tpl#L4), [`9`](../src/invision/modcp_move.tpl#L9)
 
+### Version Version mobile
+* __[`message_body`](../tpl/message_body.md#readme) :__ lignes [`3`](../src/mobile/message_body.tpl#L3)
+

@@ -31,3 +31,6 @@ Texte.
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`4`](../src/invision/modcp_split.tpl#L4), [`9`](../src/invision/modcp_split.tpl#L9)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes 
+

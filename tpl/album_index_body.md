@@ -389,3 +389,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{stat_link.U_IMG_TOP10_LINK}`](../var/stat_link.U_IMG_TOP10_LINK.md#readme) :__ ligne [`82`](../src/invision/album_index_body.tpl#L82)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{stat_link.U_TOP10_LINK_NEW}`](../var/stat_link.U_TOP10_LINK_NEW.md#readme) :__ ligne [`83`](../src/invision/album_index_body.tpl#L83)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{stat_link.U_URL_TOP10_LINK}`](../var/stat_link.U_URL_TOP10_LINK.md#readme) :__ ligne [`83`](../src/invision/album_index_body.tpl#L83)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_index_body.tpl#files)
+
+### Positions des variables

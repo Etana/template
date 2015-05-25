@@ -34,3 +34,7 @@ Image `MSN Messenger` ( choisie dans [`Index`](http://votre-forum.appspot.com/#/
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
 
+### Version Version mobile
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

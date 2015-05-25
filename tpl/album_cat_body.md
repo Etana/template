@@ -815,3 +815,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pic_pagination.PAGINATION}`](../var/pic_pagination.PAGINATION.md#readme) :__ ligne [`142`](../src/invision/album_cat_body.tpl#L142)
 * __[`<!-- BEGIN view_moderation -->`](../var/view_moderation.md#readme) :__ ligne [`218`](../src/invision/album_cat_body.tpl#L218)
 * __[`<!-- END view_moderation -->`](../var/view_moderation.md#readme) :__ ligne [`220`](../src/invision/album_cat_body.tpl#L220)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_cat_body.tpl#files)
+
+### Positions des variables

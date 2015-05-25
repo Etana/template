@@ -31,3 +31,6 @@
 ### Version Invision
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`69`](../src/invision/index_box.tpl#L69)[`<->`](../src/invision/index_box.tpl#L69-L74)[`74`](../src/invision/index_box.tpl#L74)
 
+### Version Version mobile
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`21`](../src/mobile/index_box.tpl#L21)[`<->`](../src/mobile/index_box.tpl#L21-L23)[`23`](../src/mobile/index_box.tpl#L23)
+

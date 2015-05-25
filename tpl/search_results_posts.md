@@ -224,3 +224,9 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
 * __[`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme) :__ ligne [`65`](../src/invision/search_results_posts.tpl#L65)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme) :__ ligne [`62`](../src/invision/search_results_posts.tpl#L62)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme) :__ ligne [`62`](../src/invision/search_results_posts.tpl#L62)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/search_results_posts.tpl#files)
+
+### Positions des variables

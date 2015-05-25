@@ -136,3 +136,9 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END message_admin_txt -->`](../var/switch_user_logged_in.message_admin_index.message_admin_txt.md#readme) :__ ligne [`15`](../src/invision/agreement.tpl#L15)
 * __[`<!-- BEGIN switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme) :__ ligne [`19`](../src/invision/agreement.tpl#L19)
 * __[`<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme) :__ ligne [`21`](../src/invision/agreement.tpl#L21)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/agreement.tpl#files)
+
+### Positions des variables

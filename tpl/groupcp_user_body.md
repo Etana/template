@@ -184,3 +184,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_groups_pending -->`](../var/switch_groups_joined.switch_groups_pending.md#readme) :__ ligne [`33`](../src/invision/groupcp_user_body.tpl#L33)
 * __[`<!-- BEGIN switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme) :__ ligne [`36`](../src/invision/groupcp_user_body.tpl#L36)
 * __[`<!-- END switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme) :__ ligne [`49`](../src/invision/groupcp_user_body.tpl#L49)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/groupcp_user_body.tpl#files)
+
+### Positions des variables

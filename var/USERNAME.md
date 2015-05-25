@@ -49,3 +49,7 @@
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`5`](../src/invision/profile_view_body.tpl#L5), [`38`](../src/invision/profile_view_body.tpl#L38), [`118`](../src/invision/profile_view_body.tpl#L118)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`14`](../src/invision/search_username.tpl#L14)
 
+### Version Version mobile
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`6`](../src/mobile/posting_body.tpl#L6)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`8`](../src/mobile/profile_send_pass.tpl#L8)
+

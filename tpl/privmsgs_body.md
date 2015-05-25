@@ -316,3 +316,9 @@
 * __[`<!-- END switch_no_messages -->`](../var/switch_no_messages.md#readme) :__ ligne [`62`](../src/invision/privmsgs_body.tpl#L62)
 * __[`<!-- BEGIN switch_save -->`](../var/switch_save.md#readme) :__ ligne [`70`](../src/invision/privmsgs_body.tpl#L70)
 * __[`<!-- END switch_save -->`](../var/switch_save.md#readme) :__ ligne [`72`](../src/invision/privmsgs_body.tpl#L72)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/privmsgs_body.tpl#files)
+
+### Positions des variables

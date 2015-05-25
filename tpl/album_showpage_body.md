@@ -596,3 +596,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.prev.U_PICS_ALT}`](../var/pics_nav.prev.U_PICS_ALT.md#readme) :__ ligne [`339`](../src/invision/album_showpage_body.tpl#L339)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.prev.U_PICS_LINK}`](../var/pics_nav.prev.U_PICS_LINK.md#readme) :__ ligne [`339`](../src/invision/album_showpage_body.tpl#L339)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{pics_nav.prev.U_PICS_THUMB}`](../var/pics_nav.prev.U_PICS_THUMB.md#readme) :__ ligne [`339`](../src/invision/album_showpage_body.tpl#L339)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/album_showpage_body.tpl#files)
+
+### Positions des variables

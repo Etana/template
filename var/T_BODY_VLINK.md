@@ -15,5 +15,5 @@
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`209`](../src/subsilver/overall_header.tpl#L209)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`16`](../src/subsilver/posting_smilies_wysiwyg.tpl#L16)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`13`](../src/subsilver/simple_header.tpl#L13)
+* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`14`](../src/subsilver/simple_header.tpl#L14)
 

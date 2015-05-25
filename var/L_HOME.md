@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_HOME)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_HOME)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Accueil`
+
 
 ## Utilisations dans les templates
 

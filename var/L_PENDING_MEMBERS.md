@@ -27,3 +27,6 @@ Texte.
 ### Version Invision
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`1`](../src/invision/groupcp_pending_info.tpl#L1)
 
+### Version Version mobile
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+

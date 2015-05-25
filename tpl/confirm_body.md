@@ -85,3 +85,9 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 * __[`{OPTIONAL_BAN_NEW}`](../var/OPTIONAL_BAN_NEW.md#readme) :__ ligne [`8`](../src/invision/confirm_body.tpl#L8)
 * __[`{S_CONFIRM_ACTION}`](../var/S_CONFIRM_ACTION.md#readme) :__ ligne [`4`](../src/invision/confirm_body.tpl#L4)
 * __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme) :__ ligne [`10`](../src/invision/confirm_body.tpl#L10)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/confirm_body.tpl#files)
+
+### Positions des variables

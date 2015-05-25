@@ -98,3 +98,9 @@
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme) :__ ligne [`5`](../src/invision/search_username.tpl#L5)
 * __[`<!-- BEGIN switch_select_name -->`](../var/switch_select_name.md#readme) :__ ligne [`18`](../src/invision/search_username.tpl#L18)
 * __[`<!-- END switch_select_name -->`](../var/switch_select_name.md#readme) :__ ligne [`25`](../src/invision/search_username.tpl#L25)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/search_username.tpl#files)
+
+### Positions des variables

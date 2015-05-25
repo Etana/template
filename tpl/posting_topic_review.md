@@ -1,4 +1,4 @@
-# Template posting_topic_review (x 18)
+# Template posting_topic_review (x 19)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -16,6 +16,7 @@
 	* [`{ICON_TIME}`](../var/ICON_TIME.md#readme)
 	* [`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)
 	* [`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
+	* [`{L_TOPIC_BY}`](../var/L_TOPIC_BY.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TOPIC_BY))
 	* [`{L_TOPIC_REVIEW}`](../var/L_TOPIC_REVIEW.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TOPIC_REVIEW))
 	* [`<!-- BEGIN postrow -->`](../var/postrow.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow))
 	* [`<!-- END postrow -->`](../var/postrow.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow))
@@ -141,3 +142,24 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.hidden.MESSAGE}`](../var/postrow.hidden.MESSAGE.md#readme) :__ ligne [`38`](../src/invision/posting_topic_review.tpl#L38)
 * __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`2`](../src/invision/posting_topic_review.tpl#L2)
 * __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`6`](../src/invision/posting_topic_review.tpl#L6)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/posting_topic_review.tpl#files)
+
+### Positions des variables
+
+* __[`{L_TOPIC_BY}`](../var/L_TOPIC_BY.md#readme) :__ ligne [`6`](../src/mobile/posting_topic_review.tpl#L6)
+* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme) :__ ligne [`3`](../src/mobile/posting_topic_review.tpl#L3)
+* __[`<!-- END postrow -->`](../var/postrow.md#readme) :__ ligne [`15`](../src/mobile/posting_topic_review.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN displayed -->`](../var/postrow.displayed.md#readme) :__ ligne [`4`](../src/mobile/posting_topic_review.tpl#L4)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END displayed -->`](../var/postrow.displayed.md#readme) :__ ligne [`11`](../src/mobile/posting_topic_review.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MESSAGE}`](../var/postrow.displayed.MESSAGE.md#readme) :__ ligne [`8`](../src/mobile/posting_topic_review.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_NAME}`](../var/postrow.displayed.POSTER_NAME.md#readme) :__ ligne [`6`](../src/mobile/posting_topic_review.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE}`](../var/postrow.displayed.POST_DATE.md#readme) :__ ligne [`6`](../src/mobile/posting_topic_review.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN hidden -->`](../var/postrow.hidden.md#readme) :__ ligne [`12`](../src/mobile/posting_topic_review.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END hidden -->`](../var/postrow.hidden.md#readme) :__ ligne [`14`](../src/mobile/posting_topic_review.tpl#L14)
+* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`1`](../src/mobile/posting_topic_review.tpl#L1)
+* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`2`](../src/mobile/posting_topic_review.tpl#L2)
+* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`17`](../src/mobile/posting_topic_review.tpl#L17)
+* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`18`](../src/mobile/posting_topic_review.tpl#L18)

@@ -249,3 +249,9 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod4.MODVAR}`](../var/giefmod4.MODVAR.md#readme) :__ ligne [`40`](../src/invision/portal_body.tpl#L40)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod4.saut.md#readme) :__ ligne [`41`](../src/invision/portal_body.tpl#L41)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END saut -->`](../var/giefmod4.saut.md#readme) :__ ligne [`43`](../src/invision/portal_body.tpl#L43)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/portal_body.tpl#files)
+
+### Positions des variables

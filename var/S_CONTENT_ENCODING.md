@@ -43,3 +43,6 @@ Remplacé par l'[encodage](http://fr.wikipedia.org/wiki/Codage_des_caract%C3%A8r
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`23`](../src/invision/search_body.tpl#L23), [`24`](../src/invision/search_body.tpl#L24)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`4`](../src/invision/simple_header.tpl#L4)
 
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`5`](../src/mobile/overall_header.tpl#L5)
+

@@ -29,3 +29,6 @@
 * __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`17`](../src/invision/viewtopic_poll_ballot.tpl#L17)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`22`](../src/invision/viewtopic_poll_result.tpl#L22)
 
+### Version Version mobile
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`11`](../src/mobile/viewtopic_poll_result.tpl#L11)
+

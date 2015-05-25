@@ -152,3 +152,9 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USER_ID}`](../var/pending_members_row.USER_ID.md#readme) :__ ligne [`25`](../src/invision/groupcp_pending_info.tpl#L25)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.U_VIEWPROFILE}`](../var/pending_members_row.U_VIEWPROFILE.md#readme) :__ ligne [`20`](../src/invision/groupcp_pending_info.tpl#L20)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.WWW_IMG}`](../var/pending_members_row.WWW_IMG.md#readme) :__ ligne [`24`](../src/invision/groupcp_pending_info.tpl#L24)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/groupcp_pending_info.tpl#files)
+
+### Positions des variables

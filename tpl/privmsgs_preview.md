@@ -77,3 +77,9 @@
 
 * __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme) :__ ligne [`2`](../src/invision/privmsgs_preview.tpl#L2)
 * __[`{MESSAGE_NEW}`](../var/MESSAGE_NEW.md#readme) :__ ligne [`5`](../src/invision/privmsgs_preview.tpl#L5)
+
+## Template par défaut Version mobile
+
+[__Code source__](../src/mobile/privmsgs_preview.tpl#files)
+
+### Positions des variables
