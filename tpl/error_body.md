@@ -1,8 +1,8 @@
-# Template error_body (x 1)
+# Template error_body
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `error_body`
@@ -16,7 +16,7 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template :__
 	* [`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)
-	* [`{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme) ([x](https://fa-tvars.appspot.com/var/ERRORS_FOUND))
+	* [`{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme)
 
 ## Template par défaut phpBB3
 

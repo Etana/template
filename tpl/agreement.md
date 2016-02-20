@@ -1,8 +1,8 @@
-# Template agreement (x 1)
+# Template agreement
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `agreement`
@@ -17,7 +17,7 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 * __Variables propres à ce template :__
 	* [`{AGREE_OVER_13}`](../var/AGREE_OVER_13.md#readme)
 	* [`{AGREEMENT}`](../var/AGREEMENT.md#readme)
-	* [`{AGREEMENT_TITLE}`](../var/AGREEMENT_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/AGREEMENT_TITLE))
+	* [`{AGREEMENT_TITLE}`](../var/AGREEMENT_TITLE.md#readme)
 	* [`{DO_NOT_AGREE}`](../var/DO_NOT_AGREE.md#readme)
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)

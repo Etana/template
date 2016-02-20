@@ -1,8 +1,8 @@
-# Template index_body (x 28)
+# Template index_body (x 29)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `index_body`
@@ -69,7 +69,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 	* [`{L_TODAY_ACTIVE}`](../var/L_TODAY_ACTIVE.md#readme)
 	* [`{L_TODAY_POSTERS}`](../var/L_TODAY_POSTERS.md#readme)
 	* [`{L_VIEW_COMPLETE_LIST}`](../var/L_VIEW_COMPLETE_LIST.md#readme) ([x](https://fa-tvars.appspot.com/var/L_VIEW_COMPLETE_LIST))
-	* [`{L_WHOSBIRTHDAY_TODAY}`](../var/L_WHOSBIRTHDAY_TODAY.md#readme)
+	* [`{L_WHOSBIRTHDAY_TODAY}`](../var/L_WHOSBIRTHDAY_TODAY.md#readme) ([x](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY))
 	* [`{L_WHOSBIRTHDAY_WEEK}`](../var/L_WHOSBIRTHDAY_WEEK.md#readme) ([x](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_WEEK))
 	* [`{LEGEND}`](../var/LEGEND.md#readme)
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)

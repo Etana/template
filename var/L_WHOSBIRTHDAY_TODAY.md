@@ -8,7 +8,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY)
-Affichent la liste des anniversaires du jour. (liste des différents membres)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY)
 
 ## Utilisations dans les templates
 

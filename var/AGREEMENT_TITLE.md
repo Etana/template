@@ -8,7 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/AGREEMENT_TITLE)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/AGREEMENT_TITLE)
+Chaîne de texte.
+
+* __Contenu en français :__ `Pour pouvoir continuer, vous devez être d'accord avec ceci:`
 
 ## Utilisations dans les templates
 

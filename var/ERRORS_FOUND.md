@@ -8,7 +8,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ERRORS_FOUND)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ERRORS_FOUND)
+Chaîne de texte.
+
+* __Contenu en français :__ `Les erreurs suivantes ont été trouvées`
 
 ## Utilisations dans les templates
 

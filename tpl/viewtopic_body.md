@@ -1,8 +1,8 @@
-# Template viewtopic_body (x 144)
+# Template viewtopic_body (x 143)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `viewtopic_body`
@@ -105,7 +105,7 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE}`](../var/postrow.displayed.POST_DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE_NEW}`](../var/postrow.displayed.POST_DATE_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_NEW))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_SUBJECT}`](../var/postrow.displayed.POST_SUBJECT.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT))
-	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_URL}`](../var/postrow.displayed.POST_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_URL))
+	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_URL}`](../var/postrow.displayed.POST_URL.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_AVATAR}`](../var/postrow.displayed.POSTER_AVATAR.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_AVATAR))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_NAME}`](../var/postrow.displayed.POSTER_NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_NAME))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_NAME_INV}`](../var/postrow.displayed.POSTER_NAME_INV.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_NAME_INV))

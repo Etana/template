@@ -12,7 +12,7 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_URL)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POST_URL)
+Fourni une URL directe vers le message (lien du message + ancre du message précis)
 
 ## Utilisations dans les templates
 
