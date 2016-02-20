@@ -311,7 +311,11 @@ for tem in template_variables:
         append = ""
         if num_not_desc > 0:
             append = " (x "+str(num_not_desc)+")"
-        f.write('# Template ' + tem +append+'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
+        mobile_index_link = ''
+        if 'mobile' in template_versions:
+            mobile_index_link = ' [`Mobile`](#template-par-défaut-version-mobile)'
+
+        f.write('# Template ' + tem +append+'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)'+mobile_index_link+'\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
 
         if tem not in templates_desc:
             f.write('[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/'+tem+')')
@@ -326,7 +330,7 @@ for tem in template_variables:
             types = list(set(r[1] for r in template_variables[tem][var]))
             for link in var2links(var, types):
                 f.write('\n\t* '+link)
-        
+
         for ver in sorted(template_versions, key=sorting_version):
             f.write('\n\n## Template par défaut '+template_versions[ver]+'\n\n[__Code source__](../src/'+ver+'/'+tem+'.tpl#files)\n\n### Positions des variables\n')
             for r in sorted(([r[0], r[1], var_name] for var_name in template_variables[tem] for r in template_variables[tem][var_name] if r[2] == ver), key=lambda x: x[2]):
