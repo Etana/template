@@ -44,5 +44,5 @@ Chaîne de caractère.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`27`](../src/invision/search_body.tpl#L27), [`68`](../src/invision/search_body.tpl#L68)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`14`](../src/invision/search_username.tpl#L14)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`161`](../src/invision/topics_list_box.tpl#L161), [`161`](../src/invision/topics_list_box.tpl#L161), [`161`](../src/invision/topics_list_box.tpl#L161), [`162`](../src/invision/topics_list_box.tpl#L162)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`288`](../src/invision/viewtopic_body.tpl#L288), [`288`](../src/invision/viewtopic_body.tpl#L288), [`288`](../src/invision/viewtopic_body.tpl#L288), [`289`](../src/invision/viewtopic_body.tpl#L289)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`291`](../src/invision/viewtopic_body.tpl#L291), [`291`](../src/invision/viewtopic_body.tpl#L291), [`291`](../src/invision/viewtopic_body.tpl#L291), [`292`](../src/invision/viewtopic_body.tpl#L292)
 

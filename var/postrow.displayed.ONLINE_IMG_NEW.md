@@ -17,10 +17,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`127`](../src/prosilver/viewtopic_body.tpl#L127)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`133`](../src/prosilver/viewtopic_body.tpl#L133)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`124`](../src/invision/viewtopic_body.tpl#L124)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`127`](../src/invision/viewtopic_body.tpl#L127)
 
 ### Version Version mobile
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`47`](../src/mobile/viewtopic_body.tpl#L47)

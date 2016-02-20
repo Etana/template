@@ -32,7 +32,7 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 * __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`6`](../src/prosilver/report_view_body.tpl#L6)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`4`](../src/prosilver/search_results_topics.tpl#L4)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`40`](../src/prosilver/viewforum_body.tpl#L40)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`68`](../src/prosilver/viewtopic_body.tpl#L68), [`329`](../src/prosilver/viewtopic_body.tpl#L329)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`68`](../src/prosilver/viewtopic_body.tpl#L68), [`335`](../src/prosilver/viewtopic_body.tpl#L335)
 
 ### Version phpBB2
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`3`](../src/subsilver/agreement.tpl#L3)
@@ -110,7 +110,7 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`18`](../src/punbb/search_results_topics.tpl#L18)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`49`](../src/punbb/viewforum_body.tpl#L49)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`28`](../src/punbb/viewonline_body.tpl#L28)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`83`](../src/punbb/viewtopic_body.tpl#L83), [`305`](../src/punbb/viewtopic_body.tpl#L305)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`83`](../src/punbb/viewtopic_body.tpl#L83), [`306`](../src/punbb/viewtopic_body.tpl#L306)
 
 ### Version Invision
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`2`](../src/invision/agreement.tpl#L2)

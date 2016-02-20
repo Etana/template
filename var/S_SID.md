@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`353`](../src/prosilver/viewtopic_body.tpl#L353)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`357`](../src/prosilver/viewtopic_body.tpl#L357)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`472`](../src/subsilver/viewtopic_body.tpl#L472)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`470`](../src/subsilver/viewtopic_body.tpl#L470)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`275`](../src/punbb/viewtopic_body.tpl#L275)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`276`](../src/punbb/viewtopic_body.tpl#L276)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`310`](../src/invision/viewtopic_body.tpl#L310)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`313`](../src/invision/viewtopic_body.tpl#L313)
 

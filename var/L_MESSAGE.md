@@ -51,7 +51,7 @@ L'Equipe du site
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`23`](../src/punbb/privmsgs_popup.tpl#L23)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`32`](../src/punbb/privmsgs_read_body.tpl#L32)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`24`](../src/punbb/report_popup_body.tpl#L24)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`125`](../src/punbb/viewtopic_body.tpl#L125), [`270`](../src/punbb/viewtopic_body.tpl#L270)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`126`](../src/punbb/viewtopic_body.tpl#L126), [`271`](../src/punbb/viewtopic_body.tpl#L271)
 
 ### Version Invision
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`21`](../src/invision/greeting_popup.tpl#L21)

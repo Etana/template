@@ -112,5 +112,5 @@ Champs non visible du formulaire.
 
 ### Version Version mobile
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`23`](../src/mobile/posting_confirm_code.tpl#L23)
-* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`24`](../src/mobile/viewtopic_poll_ballot.tpl#L24)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`18`](../src/mobile/viewtopic_poll_ballot.tpl#L18)
 

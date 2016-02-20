@@ -13,7 +13,7 @@ Image pour ouvrir un panneau définie dans `PA > Affichage > Images et Couleurs 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`271`](../src/prosilver/viewtopic_body.tpl#L271)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`277`](../src/prosilver/viewtopic_body.tpl#L277)
 
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`228`](../src/subsilver/album_cat_body.tpl#L228)
@@ -25,8 +25,8 @@ Image pour ouvrir un panneau définie dans `PA > Affichage > Images et Couleurs 
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`316`](../src/subsilver/viewtopic_body.tpl#L316), [`424`](../src/subsilver/viewtopic_body.tpl#L424)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`314`](../src/punbb/viewtopic_body.tpl#L314)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`315`](../src/punbb/viewtopic_body.tpl#L315)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`351`](../src/invision/viewtopic_body.tpl#L351)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`354`](../src/invision/viewtopic_body.tpl#L354)
 

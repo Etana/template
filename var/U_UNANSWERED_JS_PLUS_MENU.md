@@ -14,7 +14,7 @@ Lien vers "Voir les messages sans réponses" dans le menu Plus !
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`14`](../src/prosilver/viewforum_body.tpl#L14)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`97`](../src/prosilver/viewtopic_body.tpl#L97)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`103`](../src/prosilver/viewtopic_body.tpl#L103)
 
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`19`](../src/subsilver/viewforum_body.tpl#L19)
@@ -25,5 +25,5 @@ Lien vers "Voir les messages sans réponses" dans le menu Plus !
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`57`](../src/punbb/viewtopic_body.tpl#L57)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`100`](../src/invision/viewtopic_body.tpl#L100)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`103`](../src/invision/viewtopic_body.tpl#L103)
 

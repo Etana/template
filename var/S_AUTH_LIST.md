@@ -26,7 +26,7 @@ Vous <strong>pouvez</strong> répondre aux sujets dans ce forum<br />Vous <stron
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`76`](../src/prosilver/viewforum_body.tpl#L76)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`366`](../src/prosilver/viewtopic_body.tpl#L366)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`370`](../src/prosilver/viewtopic_body.tpl#L370)
 
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`45`](../src/subsilver/viewforum_body.tpl#L45)
@@ -34,9 +34,9 @@ Vous <strong>pouvez</strong> répondre aux sujets dans ce forum<br />Vous <stron
 
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`59`](../src/punbb/viewforum_body.tpl#L59)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`358`](../src/punbb/viewtopic_body.tpl#L358)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`359`](../src/punbb/viewtopic_body.tpl#L359)
 
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`46`](../src/invision/viewforum_body.tpl#L46)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`316`](../src/invision/viewtopic_body.tpl#L316)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`319`](../src/invision/viewtopic_body.tpl#L319)
 

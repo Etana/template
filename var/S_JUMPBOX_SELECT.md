@@ -23,12 +23,12 @@ Chaîne de texte.
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`66`](../src/prosilver/modcp_body.tpl#L66)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`400`](../src/prosilver/posting_body.tpl#L400)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`64`](../src/prosilver/viewforum_body.tpl#L64)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`342`](../src/prosilver/viewtopic_body.tpl#L342)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`347`](../src/prosilver/viewtopic_body.tpl#L347)
 
 ### Version phpBB2
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`4`](../src/subsilver/jumpbox.tpl#L4)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`89`](../src/subsilver/viewforum_body.tpl#L89)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`450`](../src/subsilver/viewtopic_body.tpl#L450)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`449`](../src/subsilver/viewtopic_body.tpl#L449)
 
 ### Version PunBB
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`2`](../src/punbb/jumpbox.tpl#L2)

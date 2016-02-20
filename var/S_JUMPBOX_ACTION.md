@@ -23,7 +23,7 @@ Action du formulaire pour sauter vers un forum.
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`65`](../src/prosilver/modcp_body.tpl#L65)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`399`](../src/prosilver/posting_body.tpl#L399)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`61`](../src/prosilver/viewforum_body.tpl#L61)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`339`](../src/prosilver/viewtopic_body.tpl#L339)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`344`](../src/prosilver/viewtopic_body.tpl#L344)
 
 ### Version phpBB2
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`1`](../src/subsilver/jumpbox.tpl#L1)

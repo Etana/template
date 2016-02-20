@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`180`](../src/invision/viewtopic_body.tpl#L180)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`183`](../src/invision/viewtopic_body.tpl#L183)
 

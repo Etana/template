@@ -113,7 +113,7 @@ function destroyPagination()
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`28`](../src/prosilver/search_results_posts.tpl#L28)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`59`](../src/prosilver/search_results_topics.tpl#L59)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`20`](../src/prosilver/viewforum_body.tpl#L20), [`55`](../src/prosilver/viewforum_body.tpl#L55)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`109`](../src/prosilver/viewtopic_body.tpl#L109), [`253`](../src/prosilver/viewtopic_body.tpl#L253)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`115`](../src/prosilver/viewtopic_body.tpl#L115), [`259`](../src/prosilver/viewtopic_body.tpl#L259)
 
 ### Version phpBB2
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`104`](../src/subsilver/album_modcp_body.tpl#L104)
@@ -147,7 +147,7 @@ function destroyPagination()
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`26`](../src/punbb/search_results_posts.tpl#L26), [`75`](../src/punbb/search_results_posts.tpl#L75)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`25`](../src/punbb/search_results_topics.tpl#L25), [`73`](../src/punbb/search_results_topics.tpl#L73)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`32`](../src/punbb/viewforum_body.tpl#L32), [`41`](../src/punbb/viewforum_body.tpl#L41)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`109`](../src/punbb/viewtopic_body.tpl#L109), [`288`](../src/punbb/viewtopic_body.tpl#L288)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`110`](../src/punbb/viewtopic_body.tpl#L110), [`289`](../src/punbb/viewtopic_body.tpl#L289)
 
 ### Version Invision
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`8`](../src/invision/album_modcp_body.tpl#L8)
@@ -163,7 +163,7 @@ function destroyPagination()
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`9`](../src/invision/search_results_posts.tpl#L9), [`52`](../src/invision/search_results_posts.tpl#L52)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`10`](../src/invision/search_results_topics.tpl#L10), [`88`](../src/invision/search_results_topics.tpl#L88)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`7`](../src/invision/viewforum_body.tpl#L7), [`25`](../src/invision/viewforum_body.tpl#L25)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`56`](../src/invision/viewtopic_body.tpl#L56), [`324`](../src/invision/viewtopic_body.tpl#L324)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`56`](../src/invision/viewtopic_body.tpl#L56), [`327`](../src/invision/viewtopic_body.tpl#L327)
 
 ### Version Version mobile
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`3`](../src/mobile/viewforum_body.tpl#L3), [`7`](../src/mobile/viewforum_body.tpl#L7)

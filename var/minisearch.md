@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`284`](../src/invision/viewtopic_body.tpl#L284)[`<->`](../src/invision/viewtopic_body.tpl#L284-L296)[`296`](../src/invision/viewtopic_body.tpl#L296)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`287`](../src/invision/viewtopic_body.tpl#L287)[`<->`](../src/invision/viewtopic_body.tpl#L287-L299)[`299`](../src/invision/viewtopic_body.tpl#L299)
 

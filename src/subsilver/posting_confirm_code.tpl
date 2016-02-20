@@ -2,9 +2,9 @@
 <form method="post" action="{U_POSTING}" name="post">
 <p><b>{L_VALIDATION}:</b><br />
 <span class="gensmall">{L_VALIDATION_EXPLAIN}</span></p>
-<p><span class="gen"><img src="{S_ANTI_ROBOT}" alt="" border="0"> <br />
-<br />
-<input class="post" type="text" name="reg_key" maxlength="5" size="6" dir="ltr"></span></p>
+<p><span class="gen"><img src="{S_ANTI_ROBOT}" alt="" border="0" /> <br />
+<br /> 
+<input class="post" type="text" name="reg_key" maxlength="5" size="6" dir="ltr" /></span></p>
 <p style="align: center"><input type="submit" value="{L_SUBMIT}" name="{V_SUBMIT}" /></p>
 <input type="hidden" name="username" value="{V_USERNAME}" />
 <input type="hidden" name="subject" value="{V_SUBJECT}" />

@@ -17,8 +17,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`139`](../src/prosilver/viewtopic_body.tpl#L139)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`145`](../src/prosilver/viewtopic_body.tpl#L145)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`270`](../src/invision/viewtopic_body.tpl#L270)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`273`](../src/invision/viewtopic_body.tpl#L273)
 

@@ -80,7 +80,10 @@ showHiddenMessage = function(id)
 		<!-- END switch_fb_likebtn -->
 		
 		<!-- BEGIN switch_twitter_btn -->
-		<li class="post-icon"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
+		<li class="post-icon" style="padding-top:5px">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="{TWITTER}">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </li>
 		<!-- END switch_twitter_btn -->
 	</ul>
 </div>

@@ -19,11 +19,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`234`](../src/prosilver/viewtopic_body.tpl#L234)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`240`](../src/prosilver/viewtopic_body.tpl#L240)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`257`](../src/subsilver/viewtopic_body.tpl#L257)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`249`](../src/punbb/viewtopic_body.tpl#L249)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`250`](../src/punbb/viewtopic_body.tpl#L250)
 

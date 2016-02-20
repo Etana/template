@@ -21,7 +21,7 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`117`](../src/prosilver/profile_view_body.tpl#L117)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`1`](../src/prosilver/search_body.tpl#L1)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`12`](../src/prosilver/simple_header.tpl#L12)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/prosilver/viewtopic_body.tpl#L3), [`377`](../src/prosilver/viewtopic_body.tpl#L377)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/prosilver/viewtopic_body.tpl#L3), [`381`](../src/prosilver/viewtopic_body.tpl#L381)
 
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`128`](../src/subsilver/groupcp_info_body.tpl#L128)
@@ -32,7 +32,7 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`144`](../src/subsilver/profile_view_body.tpl#L144)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`1`](../src/subsilver/search_body.tpl#L1)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`12`](../src/subsilver/simple_header.tpl#L12)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/subsilver/viewtopic_body.tpl#L3), [`489`](../src/subsilver/viewtopic_body.tpl#L489)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/subsilver/viewtopic_body.tpl#L3), [`487`](../src/subsilver/viewtopic_body.tpl#L487)
 
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`157`](../src/punbb/groupcp_info_body.tpl#L157)
@@ -44,7 +44,7 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`1`](../src/punbb/search_body.tpl#L1)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`1`](../src/punbb/search_results_posts.tpl#L1)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`12`](../src/punbb/simple_header.tpl#L12)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`2`](../src/punbb/viewtopic_body.tpl#L2), [`371`](../src/punbb/viewtopic_body.tpl#L371)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`2`](../src/punbb/viewtopic_body.tpl#L2), [`372`](../src/punbb/viewtopic_body.tpl#L372), [`373`](../src/punbb/viewtopic_body.tpl#L373)
 
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`128`](../src/invision/groupcp_info_body.tpl#L128)
@@ -55,7 +55,7 @@ JavaScript important au bon fonctionnement de votre forum.
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`166`](../src/invision/profile_view_body.tpl#L166)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`1`](../src/invision/search_results_posts.tpl#L1)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`12`](../src/invision/simple_header.tpl#L12)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/invision/viewtopic_body.tpl#L3), [`405`](../src/invision/viewtopic_body.tpl#L405)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`3`](../src/invision/viewtopic_body.tpl#L3), [`408`](../src/invision/viewtopic_body.tpl#L408)
 
 ### Version Version mobile
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`16`](../src/mobile/overall_header.tpl#L16)

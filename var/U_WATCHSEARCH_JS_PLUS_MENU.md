@@ -14,7 +14,7 @@ Lien vers "Sujets surveillés" dans le menu Plus !
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`15`](../src/prosilver/viewforum_body.tpl#L15)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`98`](../src/prosilver/viewtopic_body.tpl#L98)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`104`](../src/prosilver/viewtopic_body.tpl#L104)
 
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`20`](../src/subsilver/viewforum_body.tpl#L20)
@@ -25,5 +25,5 @@ Lien vers "Sujets surveillés" dans le menu Plus !
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`58`](../src/punbb/viewtopic_body.tpl#L58)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`101`](../src/invision/viewtopic_body.tpl#L101)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`104`](../src/invision/viewtopic_body.tpl#L104)
 

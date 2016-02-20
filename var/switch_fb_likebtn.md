@@ -18,14 +18,14 @@ Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`75`](../src/prosilver/viewtopic_body.tpl#L75)[`<->`](../src/prosilver/viewtopic_body.tpl#L75-L84)[`84`](../src/prosilver/viewtopic_body.tpl#L84)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`81`](../src/prosilver/viewtopic_body.tpl#L81)[`<->`](../src/prosilver/viewtopic_body.tpl#L81-L90)[`90`](../src/prosilver/viewtopic_body.tpl#L90)
 
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`226`](../src/subsilver/album_showpage_body.tpl#L226)[`<->`](../src/subsilver/album_showpage_body.tpl#L226-L230)[`230`](../src/subsilver/album_showpage_body.tpl#L230)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`76`](../src/subsilver/viewtopic_body.tpl#L76)[`<->`](../src/subsilver/viewtopic_body.tpl#L76-L85)[`85`](../src/subsilver/viewtopic_body.tpl#L85)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`91`](../src/punbb/viewtopic_body.tpl#L91)[`<->`](../src/punbb/viewtopic_body.tpl#L91-L101)[`101`](../src/punbb/viewtopic_body.tpl#L101)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`93`](../src/punbb/viewtopic_body.tpl#L93)[`<->`](../src/punbb/viewtopic_body.tpl#L93-L102)[`102`](../src/punbb/viewtopic_body.tpl#L102)
 
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`68`](../src/invision/viewtopic_body.tpl#L68)[`<->`](../src/invision/viewtopic_body.tpl#L68-L80)[`80`](../src/invision/viewtopic_body.tpl#L80)

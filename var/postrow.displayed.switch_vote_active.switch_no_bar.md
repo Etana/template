@@ -24,14 +24,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`164`](../src/prosilver/viewtopic_body.tpl#L164)[`<->`](../src/prosilver/viewtopic_body.tpl#L164-L166)[`166`](../src/prosilver/viewtopic_body.tpl#L166)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`170`](../src/prosilver/viewtopic_body.tpl#L170)[`<->`](../src/prosilver/viewtopic_body.tpl#L170-L172)[`172`](../src/prosilver/viewtopic_body.tpl#L172)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`184`](../src/subsilver/viewtopic_body.tpl#L184)[`<->`](../src/subsilver/viewtopic_body.tpl#L184-L186)[`186`](../src/subsilver/viewtopic_body.tpl#L186)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`185`](../src/punbb/viewtopic_body.tpl#L185)[`<->`](../src/punbb/viewtopic_body.tpl#L185-L187)[`187`](../src/punbb/viewtopic_body.tpl#L187)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`186`](../src/punbb/viewtopic_body.tpl#L186)[`<->`](../src/punbb/viewtopic_body.tpl#L186-L188)[`188`](../src/punbb/viewtopic_body.tpl#L188)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`206`](../src/invision/viewtopic_body.tpl#L206)[`<->`](../src/invision/viewtopic_body.tpl#L206-L208)[`208`](../src/invision/viewtopic_body.tpl#L208)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`209`](../src/invision/viewtopic_body.tpl#L209)[`<->`](../src/invision/viewtopic_body.tpl#L209-L211)[`211`](../src/invision/viewtopic_body.tpl#L211)
 

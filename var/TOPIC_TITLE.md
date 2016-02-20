@@ -23,9 +23,9 @@
 
 ### Version PunBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`2`](../src/punbb/calendar_overview_topic.tpl#L2)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`84`](../src/punbb/viewtopic_body.tpl#L84), [`107`](../src/punbb/viewtopic_body.tpl#L107), [`306`](../src/punbb/viewtopic_body.tpl#L306)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`84`](../src/punbb/viewtopic_body.tpl#L84), [`108`](../src/punbb/viewtopic_body.tpl#L108), [`307`](../src/punbb/viewtopic_body.tpl#L307)
 
 ### Version Invision
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`2`](../src/invision/calendar_overview_topic.tpl#L2)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`92`](../src/invision/viewtopic_body.tpl#L92)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`95`](../src/invision/viewtopic_body.tpl#L95)
 

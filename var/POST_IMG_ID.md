@@ -24,5 +24,5 @@ Identifiant `i_post` attribué à l'image pour poster un nouveau sujet.
 
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`13`](../src/invision/viewforum_body.tpl#L13), [`31`](../src/invision/viewforum_body.tpl#L31)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`63`](../src/invision/viewtopic_body.tpl#L63), [`332`](../src/invision/viewtopic_body.tpl#L332)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`63`](../src/invision/viewtopic_body.tpl#L63), [`335`](../src/invision/viewtopic_body.tpl#L335)
 

@@ -20,5 +20,5 @@
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`257`](../src/subsilver/viewtopic_body.tpl#L257)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`157`](../src/punbb/viewtopic_body.tpl#L157)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`158`](../src/punbb/viewtopic_body.tpl#L158)
 

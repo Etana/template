@@ -13,8 +13,8 @@ Remplacé par les icônes de modération d'un sujet
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`355`](../src/prosilver/viewtopic_body.tpl#L355)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`359`](../src/prosilver/viewtopic_body.tpl#L359)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`475`](../src/subsilver/viewtopic_body.tpl#L475)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`473`](../src/subsilver/viewtopic_body.tpl#L473)
 

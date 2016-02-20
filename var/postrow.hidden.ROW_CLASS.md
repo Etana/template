@@ -24,7 +24,7 @@
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`134`](../src/subsilver/viewtopic_body.tpl#L134)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`114`](../src/invision/viewtopic_body.tpl#L114)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/invision/viewtopic_body.tpl#L117)
 
 ### Version Version mobile
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`42`](../src/mobile/viewtopic_body.tpl#L42)

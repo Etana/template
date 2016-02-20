@@ -20,7 +20,7 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`262`](../src/prosilver/viewtopic_body.tpl#L262)[`<->`](../src/prosilver/viewtopic_body.tpl#L262-L264)[`264`](../src/prosilver/viewtopic_body.tpl#L264)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`268`](../src/prosilver/viewtopic_body.tpl#L268)[`<->`](../src/prosilver/viewtopic_body.tpl#L268-L270)[`270`](../src/prosilver/viewtopic_body.tpl#L270)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`301`](../src/subsilver/viewtopic_body.tpl#L301)[`<->`](../src/subsilver/viewtopic_body.tpl#L301-L305)[`305`](../src/subsilver/viewtopic_body.tpl#L305)

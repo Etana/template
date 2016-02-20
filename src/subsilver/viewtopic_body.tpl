@@ -68,8 +68,8 @@ showHiddenMessage = function(id)
 		<td align="right" valign="bottom" nowrap="nowrap" width="100%">
 			<!-- BEGIN switch_twitter_btn -->
 			<span id="twitter_btn" style="margin-left: 6px; ">
-			<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
-			<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-via="{TWITTER}">Tweet</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			</span>
 			<!-- END switch_twitter_btn -->
 			
@@ -446,9 +446,7 @@ showHiddenMessage = function(id)
 			</span>
 		</td>
 
-		<!-- BEGIN viewtopic_bottom -->
 		<td align="right" nowrap="nowrap"><span class="gensmall">{L_JUMP_TO}:&nbsp;{S_JUMPBOX_SELECT}&nbsp;<input class="liteoption" type="submit" value="{L_GO}" /></span></td>
-		<!-- END viewtopic_bottom -->
 
 		<!-- BEGIN moderation_panel -->
 		<td align="center">

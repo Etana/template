@@ -14,7 +14,7 @@ Lien vers "Voir les nouveaux messages depuis votre dernière visite" dans le men
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`12`](../src/prosilver/viewforum_body.tpl#L12)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`95`](../src/prosilver/viewtopic_body.tpl#L95)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`101`](../src/prosilver/viewtopic_body.tpl#L101)
 
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`17`](../src/subsilver/viewforum_body.tpl#L17)
@@ -25,5 +25,5 @@ Lien vers "Voir les nouveaux messages depuis votre dernière visite" dans le men
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`55`](../src/punbb/viewtopic_body.tpl#L55)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`98`](../src/invision/viewtopic_body.tpl#L98)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`101`](../src/invision/viewtopic_body.tpl#L101)
 

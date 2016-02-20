@@ -28,7 +28,7 @@ Exemple de remplacement français :
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`263`](../src/prosilver/viewtopic_body.tpl#L263)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`269`](../src/prosilver/viewtopic_body.tpl#L269)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`303`](../src/subsilver/viewtopic_body.tpl#L303)

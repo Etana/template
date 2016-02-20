@@ -27,7 +27,7 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`116`](../src/subsilver/album_index_body.tpl#L116)[`<->`](../src/subsilver/album_index_body.tpl#L116-L120)[`120`](../src/subsilver/album_index_body.tpl#L120)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`453`](../src/subsilver/viewtopic_body.tpl#L453)[`<->`](../src/subsilver/viewtopic_body.tpl#L453-L460)[`460`](../src/subsilver/viewtopic_body.tpl#L460)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`451`](../src/subsilver/viewtopic_body.tpl#L451)[`<->`](../src/subsilver/viewtopic_body.tpl#L451-L458)[`458`](../src/subsilver/viewtopic_body.tpl#L458)
 
 ### Version PunBB
 * __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`73`](../src/punbb/album_index_body.tpl#L73)[`<->`](../src/punbb/album_index_body.tpl#L73-L75)[`75`](../src/punbb/album_index_body.tpl#L75)

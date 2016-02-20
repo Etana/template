@@ -19,11 +19,11 @@ Remplacé par un code html avec l'image `Voir le sujet précédent` spécifiée 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`111`](../src/prosilver/viewtopic_body.tpl#L111), [`256`](../src/prosilver/viewtopic_body.tpl#L256)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/prosilver/viewtopic_body.tpl#L117), [`262`](../src/prosilver/viewtopic_body.tpl#L262)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/subsilver/viewtopic_body.tpl#L116), [`287`](../src/subsilver/viewtopic_body.tpl#L287)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`124`](../src/punbb/viewtopic_body.tpl#L124), [`269`](../src/punbb/viewtopic_body.tpl#L269)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`125`](../src/punbb/viewtopic_body.tpl#L125), [`270`](../src/punbb/viewtopic_body.tpl#L270)
 

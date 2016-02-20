@@ -1889,6 +1889,7 @@
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.VIEWS}`](var/topics_list_box.row.VIEWS.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.VIEWS))
 * [`{TOTAL_TOPICS}`](var/TOTAL_TOPICS.md#readme) ([x](https://fa-tvars.appspot.com/var/TOTAL_TOPICS))
 * [`{TOTAL_VOTES}`](var/TOTAL_VOTES.md#readme) ([x](https://fa-tvars.appspot.com/var/TOTAL_VOTES))
+* [`{TWITTER}`](var/TWITTER.md#readme) ([x](https://fa-tvars.appspot.com/var/TWITTER))
 * [`{TXT_CLASS}`](var/TXT_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/TXT_CLASS))
 * [`{U_ACTION}`](var/U_ACTION.md#readme) ([x](https://fa-tvars.appspot.com/var/U_ACTION))
 * [`{U_ADMIN_RPG}`](var/U_ADMIN_RPG.md#readme) ([x](https://fa-tvars.appspot.com/var/U_ADMIN_RPG))

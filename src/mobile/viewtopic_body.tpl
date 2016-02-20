@@ -90,3 +90,10 @@ showHiddenMessage = function(id)
 <!-- END topicpagination -->
 {INLINE_MESSAGE}
 {QUICK_REPLY_FORM}
+<!-- BEGIN switch_user_authreply -->
+<div id="mobileActionBar">
+    <a href="{U_POST_REPLY_TOPIC}" rel="nofollow" class="navbar">
+        <div class="mobileActionLabel">{L_POST_REPLY_TOPIC}</div>
+    </a>
+</div>
+<!-- END switch_user_authreply -->

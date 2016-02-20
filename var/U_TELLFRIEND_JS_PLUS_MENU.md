@@ -14,7 +14,7 @@ Lien vers "Envoyer à un ami" dans le menu Plus !
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`16`](../src/prosilver/viewforum_body.tpl#L16)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`99`](../src/prosilver/viewtopic_body.tpl#L99)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`105`](../src/prosilver/viewtopic_body.tpl#L105)
 
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`21`](../src/subsilver/viewforum_body.tpl#L21)
@@ -25,5 +25,5 @@ Lien vers "Envoyer à un ami" dans le menu Plus !
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`59`](../src/punbb/viewtopic_body.tpl#L59)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`102`](../src/invision/viewtopic_body.tpl#L102)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`105`](../src/invision/viewtopic_body.tpl#L105)
 

@@ -49,6 +49,6 @@ contenu sur lequel on boucle
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`10`](../src/invision/viewtopic_poll_result.tpl#L10)[`<->`](../src/invision/viewtopic_poll_result.tpl#L10-L18)[`18`](../src/invision/viewtopic_poll_result.tpl#L18)
 
 ### Version Version mobile
-* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`10`](../src/mobile/viewtopic_poll_ballot.tpl#L10)[`<->`](../src/mobile/viewtopic_poll_ballot.tpl#L10-L15)[`15`](../src/mobile/viewtopic_poll_ballot.tpl#L15)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`6`](../src/mobile/viewtopic_poll_ballot.tpl#L6)[`<->`](../src/mobile/viewtopic_poll_ballot.tpl#L6-L10)[`10`](../src/mobile/viewtopic_poll_ballot.tpl#L10)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`5`](../src/mobile/viewtopic_poll_result.tpl#L5)[`<->`](../src/mobile/viewtopic_poll_result.tpl#L5-L10)[`10`](../src/mobile/viewtopic_poll_result.tpl#L10)
 

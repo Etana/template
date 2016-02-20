@@ -78,18 +78,19 @@ showHiddenMessage = function(id)
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs noprint">
-	<p class="crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<div class="pun-crumbs noprint clearfix">
+	<span class="crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
 		<a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;
 		<strong><a href="{TOPIC_URL}" itemprop="url"><span itemprop="title">{TOPIC_TITLE}</span></a></strong>
-		<!-- BEGIN switch_twitter_btn -->
-		<span id="twitter_btn" style="margin-left: 6px; ">
-			<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
-			<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-		</span>
-		<!-- END switch_twitter_btn -->
+    </span>
+    <div class="right">
+        <!-- BEGIN switch_twitter_btn -->
+        <span>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="{TWITTER}">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </span>
+        <!-- END switch_twitter_btn -->
 		<!-- BEGIN switch_fb_likebtn -->
-		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 		  var js, fjs = d.getElementsByTagName(s)[0];
 		  if (d.getElementById(id)) return;
@@ -97,9 +98,9 @@ showHiddenMessage = function(id)
 		  js.src = "//connect.facebook.net/{LANGUAGE}/all.js#xfbml=1";
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>	
-		<div class="fb-like right" data-href="{FORUM_URL}{TOPIC_URL}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" style="top:-15px;"></div>
+		<span class="fb-like" data-href="{FORUM_URL}{TOPIC_URL}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
 		<!-- END switch_fb_likebtn -->
-	</p>
+    </div>
 </div>
 
 <div class="main paged">
@@ -368,4 +369,6 @@ $(resize_images({ 'selector' : '.post-entry .entry-content', 'max_width' : {swit
 </script>
 <!-- END switch_image_resize -->
 
-<script src="{JS_DIR}addthis/addthis_widget.js" type="text/javascript"></script>
+<!-- <script src="{JS_DIR}addthis/addthis_widget_bak002.js" type="text/javascript"></script> -->
+<!-- <script src="{JS_DIR}addthis/addthis_widget.js" type="text/javascript"></script> -->
+<!-- --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=forumotion" async></script><!-- -->

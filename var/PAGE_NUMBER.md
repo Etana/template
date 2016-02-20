@@ -24,7 +24,7 @@ Page <strong>X</strong> sur <strong>Y</strong>
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`44`](../src/prosilver/album_search_body.tpl#L44)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`60`](../src/prosilver/modcp_body.tpl#L60)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`77`](../src/prosilver/privmsgs_body.tpl#L77)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`88`](../src/prosilver/viewtopic_body.tpl#L88), [`333`](../src/prosilver/viewtopic_body.tpl#L333)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`94`](../src/prosilver/viewtopic_body.tpl#L94), [`339`](../src/prosilver/viewtopic_body.tpl#L339)
 
 ### Version phpBB2
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`94`](../src/subsilver/album_modcp_body.tpl#L94)
@@ -44,7 +44,7 @@ Page <strong>X</strong> sur <strong>Y</strong>
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`23`](../src/punbb/album_search_body.tpl#L23), [`55`](../src/punbb/album_search_body.tpl#L55)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`25`](../src/punbb/modcp_body.tpl#L25), [`79`](../src/punbb/modcp_body.tpl#L79)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`37`](../src/punbb/privmsgs_body.tpl#L37), [`81`](../src/punbb/privmsgs_body.tpl#L81)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`125`](../src/punbb/viewtopic_body.tpl#L125), [`270`](../src/punbb/viewtopic_body.tpl#L270)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`126`](../src/punbb/viewtopic_body.tpl#L126), [`271`](../src/punbb/viewtopic_body.tpl#L271)
 
 ### Version Invision
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`10`](../src/invision/album_modcp_body.tpl#L10)

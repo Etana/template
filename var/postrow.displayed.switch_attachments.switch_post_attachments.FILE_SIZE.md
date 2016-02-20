@@ -21,16 +21,16 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`203`](../src/prosilver/viewtopic_body.tpl#L203)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`209`](../src/prosilver/viewtopic_body.tpl#L209)
 
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`228`](../src/subsilver/viewtopic_body.tpl#L228)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`226`](../src/punbb/viewtopic_body.tpl#L226)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`227`](../src/punbb/viewtopic_body.tpl#L227)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`247`](../src/invision/viewtopic_body.tpl#L247)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`250`](../src/invision/viewtopic_body.tpl#L250)
 
 ### Version Version mobile
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`72`](../src/mobile/viewtopic_body.tpl#L72)

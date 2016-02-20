@@ -72,6 +72,12 @@ showHiddenMessage = function(id)
 	</div>
 
 	<p class="right">
+        <!-- BEGIN switch_twitter_btn -->
+        <span>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="{TWITTER}">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </span>
+        <!-- END switch_twitter_btn -->
 		<!-- BEGIN switch_fb_likebtn -->
 		<script>(function(d, s, id) {
 		  var js, fjs = d.getElementsByTagName(s)[0];
@@ -335,7 +341,6 @@ showHiddenMessage = function(id)
 </div>
 <div class="clear"></div>
 
-<!-- BEGIN viewtopic_bottom -->
 <form action="{S_JUMPBOX_ACTION}" method="get" onsubmit="if(document.jumpbox.f.value == -1){return false;}">
 <fieldset class="jumpbox">
 	<label>{L_JUMP_TO}:&nbsp;</label>
@@ -343,7 +348,6 @@ showHiddenMessage = function(id)
 	<input class="button2" type="submit" value="{L_GO}" />
 </fieldset>
 </form>
-<!-- END viewtopic_bottom -->
 
 <!-- BEGIN viewtopic_bottom -->
 <form method="get" action="{S_FORM_MOD_ACTION}">
