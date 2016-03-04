@@ -5,7 +5,7 @@
 * Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
-`Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `error_body`
+`Index` > ` Panneau d'admnistration` > `Templates | Général` > `error_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/error_body)
 `Page pour les erreurs de saisie`.

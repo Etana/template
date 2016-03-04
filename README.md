@@ -22,6 +22,7 @@
 * __[`index_box`](tpl/index_box.md#readme) :__ Page d'accueil - affichage des catégories
 * __[`jumpbox`](tpl/jumpbox.md#readme) :__ Sauter vers un forum
 * __[`memberlist_body`](tpl/memberlist_body.md#readme) :__ Liste des membres
+* __[`mentions_tooltip`](tpl/mentions_tooltip.md#readme) :__ Apparence de la fenêtre de prévisualisation des profils au survol du tag des noms d'utilisateur
 * __[`message_body`](tpl/message_body.md#readme) :__ Message d'erreur d'exécution
 * __[`overall_footer_begin`](tpl/overall_footer_begin.md#readme) :__ Début du bas de page
 * __[`overall_footer_end`](tpl/overall_footer_end.md#readme) :__ Fin du bas de page
