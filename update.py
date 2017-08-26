@@ -90,7 +90,7 @@ with open(script_dir+'/README.md', 'w') as f:
         f.write('### '+template_categories[cat]+'\n\n')
 
         for tem in sorted(template_descriptions[cat]):
-            f.write('* __[`'+tem+'`](tpl/'+tem+'.md#readme) :__ '+template_descriptions[cat][tem]+'\n')
+            f.write('* __[`'+tem+'`](tpl/'+tem+'.md#readme)__ __:__ '+template_descriptions[cat][tem]+'\n')
 
         f.write('\n')
 
@@ -227,7 +227,7 @@ for var in variables:
 
     with open(script_dir+'/var/'+var+'.md', 'w') as f:
 
-        f.write('# ' + var +'\n* __Type :__ ')
+        f.write('# ' + var +'\n* __Type__ __:__ ')
 
         types = list(set(x[1] for v in variables[var].values() for u in v.values() for x in u))
         if '.' in var:
@@ -240,10 +240,10 @@ for var in variables:
         if 1 in types:
             f.write('e bouclage')
 
-        f.write('\n* __Utilisable dans :__ ')
+        f.write('\n* __Utilisable dans__ __:__ ')
         f.write(', '.join(['[`'+t+'`](../tpl/'+t+'.md#readme)' for t in sorted(set([key for ver in variables[var].values() for key in ver.keys()]))]))
 
-        f.write('\n* __Utilisation :__\n\n```smarty\n')
+        f.write('\n* __Utilisation__ __:__\n\n```smarty\n')
         
         var_parts = var.split('.')
         for vtype in types:
@@ -281,7 +281,7 @@ for var in variables:
         for ver in sorted(variables[var].keys(), key=sorting_version):
             f.write('### Version '+template_versions[ver]+'\n')
             for tem in sorted(variables[var][ver].keys()):
-                f.write('* __[`'+tem+'`](../tpl/'+tem+'.md#readme) :__ lignes ')
+                f.write('* __[`'+tem+'`](../tpl/'+tem+'.md#readme)__ __:__ lignes ')
                 first = True
                 prev_type = -1
                 for num_line, var_type in variables[var][ver][tem]:
@@ -322,7 +322,7 @@ for tem in template_variables:
         else:
             f.write(templates_desc[tem])
 
-        f.write('\n\n## Variables disponibles\n* [__Variables globales__](../variables_globales.md#readme)\n* __Variables propres à ce template :__')
+        f.write('\n\n## Variables disponibles\n* [__Variables globales__](../variables_globales.md#readme)\n* __Variables propres à ce template__ __:__')
 
         for var in sorted(template_variables[tem], key=str.lower):
             if var in var_globales or var.split('.')[0] in var_globales:
@@ -334,7 +334,7 @@ for tem in template_variables:
         for ver in sorted(template_versions, key=sorting_version):
             f.write('\n\n## Template par défaut '+template_versions[ver]+'\n\n[__Code source__](../src/'+ver+'/'+tem+'.tpl#files)\n\n### Positions des variables\n')
             for r in sorted(([r[0], r[1], var_name] for var_name in template_variables[tem] for r in template_variables[tem][var_name] if r[2] == ver), key=lambda x: x[2]):
-                f.write('\n* __'+var2text(r[2], r[1])+'(../var/'+r[2]+'.md#readme) :__ ligne [`'+str(r[0])+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(r[0])+')')
+                f.write('\n* __'+var2text(r[2], r[1])+'(../var/'+r[2]+'.md#readme)__ __:__ ligne [`'+str(r[0])+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(r[0])+')')
 
 '''Write file for whole variables list'''
 with open(script_dir+'/variables.md', 'w') as f:
