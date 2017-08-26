@@ -24,6 +24,11 @@ Chaîne de texte.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`12`](../src/subsilver/search_results_posts.tpl#L12)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`19`](../src/subsilver/search_results_topics.tpl#L19)
 
+### Version ModernBB
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`10`](../src/modernbb/album_search_body.tpl#L10)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`1`](../src/modernbb/search_results_posts.tpl#L1)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`4`](../src/modernbb/search_results_topics.tpl#L4)
+
 ### Version PunBB
 * __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`25`](../src/punbb/album_search_body.tpl#L25)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`30`](../src/punbb/search_results_posts.tpl#L30), [`71`](../src/punbb/search_results_posts.tpl#L71)

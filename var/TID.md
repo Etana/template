@@ -18,6 +18,9 @@ Identifiant temporaire de sécurité pour l'utilisateur.
 ### Version phpBB2
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`177`](../src/subsilver/profile_view_body.tpl#L177)
 
+### Version ModernBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`135`](../src/modernbb/profile_view_body.tpl#L135)
+
 ### Version PunBB
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`163`](../src/punbb/profile_view_body.tpl#L163)
 

@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`8`](../src/subsilver/calendar_overview_topic.tpl#L8)
 
+### Version ModernBB
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`4`](../src/modernbb/calendar_overview_topic.tpl#L4)
+
 ### Version PunBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`4`](../src/punbb/calendar_overview_topic.tpl#L4)
 

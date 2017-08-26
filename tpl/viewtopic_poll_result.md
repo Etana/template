@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `viewtopic_poll_result`
@@ -90,6 +90,30 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__ __:__ ligne [`25`](../src/subsilver/viewtopic_poll_result.tpl#L25)
 * __[`<!-- BEGIN switch_hide_result -->`](../var/switch_hide_result.md#readme)__ __:__ ligne [`43`](../src/subsilver/viewtopic_poll_result.tpl#L43)
 * __[`<!-- END switch_hide_result -->`](../var/switch_hide_result.md#readme)__ __:__ ligne [`47`](../src/subsilver/viewtopic_poll_result.tpl#L47)
+
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/viewtopic_poll_result.tpl#files)
+
+### Positions des variables
+
+* __[`{CLOSE_POLL}`](../var/CLOSE_POLL.md#readme)__ __:__ ligne [`2`](../src/modernbb/viewtopic_poll_result.tpl#L2)
+* __[`{L_CANCEL_VOTE}`](../var/L_CANCEL_VOTE.md#readme)__ __:__ ligne [`17`](../src/modernbb/viewtopic_poll_result.tpl#L17)
+* __[`{L_POLL_HIDE_RESULT}`](../var/L_POLL_HIDE_RESULT.md#readme)__ __:__ ligne [`21`](../src/modernbb/viewtopic_poll_result.tpl#L21)
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme)__ __:__ ligne [`15`](../src/modernbb/viewtopic_poll_result.tpl#L15)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme)__ __:__ ligne [`2`](../src/modernbb/viewtopic_poll_result.tpl#L2)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme)__ __:__ ligne [`15`](../src/modernbb/viewtopic_poll_result.tpl#L15)
+* __[`{U_CANCEL_VOTE}`](../var/U_CANCEL_VOTE.md#readme)__ __:__ ligne [`17`](../src/modernbb/viewtopic_poll_result.tpl#L17)
+* __[`<!-- BEGIN cancel_vote -->`](../var/cancel_vote.md#readme)__ __:__ ligne [`16`](../src/modernbb/viewtopic_poll_result.tpl#L16)
+* __[`<!-- END cancel_vote -->`](../var/cancel_vote.md#readme)__ __:__ ligne [`18`](../src/modernbb/viewtopic_poll_result.tpl#L18)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`4`](../src/modernbb/viewtopic_poll_result.tpl#L4)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`12`](../src/modernbb/viewtopic_poll_result.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)__ __:__ ligne [`6`](../src/modernbb/viewtopic_poll_result.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`8`](../src/modernbb/viewtopic_poll_result.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`9`](../src/modernbb/viewtopic_poll_result.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__ __:__ ligne [`9`](../src/modernbb/viewtopic_poll_result.tpl#L9)
+* __[`<!-- BEGIN switch_hide_result -->`](../var/switch_hide_result.md#readme)__ __:__ ligne [`20`](../src/modernbb/viewtopic_poll_result.tpl#L20)
+* __[`<!-- END switch_hide_result -->`](../var/switch_hide_result.md#readme)__ __:__ ligne [`22`](../src/modernbb/viewtopic_poll_result.tpl#L22)
 
 ## Template par défaut PunBB
 

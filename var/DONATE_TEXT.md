@@ -18,6 +18,9 @@ Texte de l'annonce défini dans `PA > Divers > Gestion des crédits | Donations 
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`7`](../src/subsilver/buy_credits.tpl#L7)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`4`](../src/modernbb/buy_credits.tpl#L4)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`30`](../src/punbb/buy_credits.tpl#L30)
 

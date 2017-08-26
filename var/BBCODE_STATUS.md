@@ -24,6 +24,9 @@ __Contenu en français :__
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`492`](../src/subsilver/posting_body.tpl#L492)
 
+### Version ModernBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`140`](../src/modernbb/posting_body.tpl#L140)
+
 ### Version PunBB
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`193`](../src/punbb/posting_body.tpl#L193)
 

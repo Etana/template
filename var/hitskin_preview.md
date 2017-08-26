@@ -15,6 +15,7 @@ Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre f
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.L_RETURN_THEME}`](../var/hitskin_preview.L_RETURN_THEME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.L_THEME_SITE_PREVIEW}`](../var/hitskin_preview.L_THEME_SITE_PREVIEW.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.PATH_IMG_FA}`](../var/hitskin_preview.PATH_IMG_FA.md#readme) ([x](https://fa-tvars.appspot.com/var/hitskin_preview.PATH_IMG_FA))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.U_INSTALL_THEME}`](../var/hitskin_preview.U_INSTALL_THEME.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{hitskin_preview.U_RETURN_THEME}`](../var/hitskin_preview.U_RETURN_THEME.md#readme)__
 
@@ -26,6 +27,9 @@ Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre f
 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`205`](../src/subsilver/overall_header.tpl#L205)[`<->`](../src/subsilver/overall_header.tpl#L205-L216)[`216`](../src/subsilver/overall_header.tpl#L216)
+
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`223`](../src/modernbb/overall_header.tpl#L223)[`<->`](../src/modernbb/overall_header.tpl#L223-L235)[`235`](../src/modernbb/overall_header.tpl#L235)
 
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`211`](../src/punbb/overall_header.tpl#L211)[`<->`](../src/punbb/overall_header.tpl#L211-L222)[`222`](../src/punbb/overall_header.tpl#L222)

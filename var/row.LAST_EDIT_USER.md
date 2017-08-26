@@ -22,6 +22,10 @@
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`31`](../src/subsilver/report_list_body.tpl#L31)
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`20`](../src/subsilver/report_view_body.tpl#L20)
 
+### Version ModernBB
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`44`](../src/modernbb/report_list_body.tpl#L44)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`34`](../src/modernbb/report_view_body.tpl#L34)
+
 ### Version PunBB
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`56`](../src/punbb/report_list_body.tpl#L56)
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`47`](../src/punbb/report_view_body.tpl#L47)

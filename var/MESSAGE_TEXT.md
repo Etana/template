@@ -24,6 +24,12 @@ Contenu du message.
 * __[`message_body`](../tpl/message_body.md#readme)__ __:__ lignes [`17`](../src/subsilver/message_body.tpl#L17)
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`25`](../src/subsilver/modcp_move.tpl#L25)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`167`](../src/modernbb/buy_credits.tpl#L167)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`8`](../src/modernbb/confirm_body.tpl#L8)
+* __[`message_body`](../tpl/message_body.md#readme)__ __:__ lignes [`7`](../src/modernbb/message_body.tpl#L7)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`24`](../src/modernbb/modcp_move.tpl#L24)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`182`](../src/punbb/buy_credits.tpl#L182)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`5`](../src/punbb/confirm_body.tpl#L5)

@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`13`](../src/subsilver/search_username.tpl#L13)
 
+### Version ModernBB
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`16`](../src/modernbb/search_username.tpl#L16)
+
 ### Version PunBB
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`16`](../src/punbb/search_username.tpl#L16)
 

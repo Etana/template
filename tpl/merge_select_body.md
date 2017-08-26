@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `merge_select_body`
@@ -62,6 +62,24 @@
 * __[`{S_LIST_FORUMS}`](../var/S_LIST_FORUMS.md#readme)__ __:__ ligne [`5`](../src/subsilver/merge_select_body.tpl#L5)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`4`](../src/subsilver/merge_select_body.tpl#L4)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/merge_select_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`4`](../src/modernbb/merge_select_body.tpl#L4)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`2`](../src/modernbb/merge_select_body.tpl#L2)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`8`](../src/modernbb/merge_select_body.tpl#L8)
+* __[`{L_SELECT}`](../var/L_SELECT.md#readme)__ __:__ ligne [`13`](../src/modernbb/merge_select_body.tpl#L13)
+* __[`{MERGE_BOX}`](../var/MERGE_BOX.md#readme)__ __:__ ligne [`11`](../src/modernbb/merge_select_body.tpl#L11)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`9`](../src/modernbb/merge_select_body.tpl#L9)
+* __[`{S_ACTION}`](../var/S_ACTION.md#readme)__ __:__ ligne [`6`](../src/modernbb/merge_select_body.tpl#L6)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`14`](../src/modernbb/merge_select_body.tpl#L14)
+* __[`{S_LIST_FORUMS}`](../var/S_LIST_FORUMS.md#readme)__ __:__ ligne [`8`](../src/modernbb/merge_select_body.tpl#L8)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/merge_select_body.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`3`](../src/modernbb/merge_select_body.tpl#L3)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/merge_select_body.tpl#files)
@@ -107,9 +125,3 @@
 * __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`16`](../src/invision/merge_select_body.tpl#L16)
 * __[`{S_LIST_FORUMS}`](../var/S_LIST_FORUMS.md#readme)__ __:__ ligne [`10`](../src/invision/merge_select_body.tpl#L10)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`2`](../src/invision/merge_select_body.tpl#L2)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/merge_select_body.tpl#files)
-
-### Positions des variables

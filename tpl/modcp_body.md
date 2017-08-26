@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_body`
@@ -162,6 +162,59 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TYPE}`](../var/topicrow.TOPIC_TYPE.md#readme)__ __:__ ligne [`26`](../src/subsilver/modcp_body.tpl#L26)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.U_VIEW_TOPIC}`](../var/topicrow.U_VIEW_TOPIC.md#readme)__ __:__ ligne [`26`](../src/subsilver/modcp_body.tpl#L26)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/modcp_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`3`](../src/modernbb/modcp_body.tpl#L3)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`2`](../src/modernbb/modcp_body.tpl#L2)
+* __[`{L_ANNOUNCE}`](../var/L_ANNOUNCE.md#readme)__ __:__ ligne [`52`](../src/modernbb/modcp_body.tpl#L52)
+* __[`{L_DELETE}`](../var/L_DELETE.md#readme)__ __:__ ligne [`47`](../src/modernbb/modcp_body.tpl#L47)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`66`](../src/modernbb/modcp_body.tpl#L66)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`6`](../src/modernbb/modcp_body.tpl#L6)
+* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`66`](../src/modernbb/modcp_body.tpl#L66)
+* __[`{L_LASTPOST}`](../var/L_LASTPOST.md#readme)__ __:__ ligne [`23`](../src/modernbb/modcp_body.tpl#L23)
+* __[`{L_LOCK}`](../var/L_LOCK.md#readme)__ __:__ ligne [`49`](../src/modernbb/modcp_body.tpl#L49)
+* __[`{L_MOD_CP}`](../var/L_MOD_CP.md#readme)__ __:__ ligne [`9`](../src/modernbb/modcp_body.tpl#L9)
+* __[`{L_MOD_CP_EXPLAIN}`](../var/L_MOD_CP_EXPLAIN.md#readme)__ __:__ ligne [`10`](../src/modernbb/modcp_body.tpl#L10)
+* __[`{L_MOVE}`](../var/L_MOVE.md#readme)__ __:__ ligne [`48`](../src/modernbb/modcp_body.tpl#L48)
+* __[`{L_NORMAL}`](../var/L_NORMAL.md#readme)__ __:__ ligne [`53`](../src/modernbb/modcp_body.tpl#L53)
+* __[`{L_REPLIES}`](../var/L_REPLIES.md#readme)__ __:__ ligne [`22`](../src/modernbb/modcp_body.tpl#L22)
+* __[`{L_SELECT}`](../var/L_SELECT.md#readme)__ __:__ ligne [`24`](../src/modernbb/modcp_body.tpl#L24)
+* __[`{L_SELECT_ALL}`](../var/L_SELECT_ALL.md#readme)__ __:__ ligne [`43`](../src/modernbb/modcp_body.tpl#L43)
+* __[`{L_STICKY}`](../var/L_STICKY.md#readme)__ __:__ ligne [`51`](../src/modernbb/modcp_body.tpl#L51)
+* __[`{L_TOPICS}`](../var/L_TOPICS.md#readme)__ __:__ ligne [`21`](../src/modernbb/modcp_body.tpl#L21)
+* __[`{L_UNLOCK}`](../var/L_UNLOCK.md#readme)__ __:__ ligne [`50`](../src/modernbb/modcp_body.tpl#L50)
+* __[`{L_USELECT_ALL}`](../var/L_USELECT_ALL.md#readme)__ __:__ ligne [`43`](../src/modernbb/modcp_body.tpl#L43)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`6`](../src/modernbb/modcp_body.tpl#L6)
+* __[`{PAGE_NUMBER}`](../var/PAGE_NUMBER.md#readme)__ __:__ ligne [`60`](../src/modernbb/modcp_body.tpl#L60)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`61`](../src/modernbb/modcp_body.tpl#L61)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`46`](../src/modernbb/modcp_body.tpl#L46)
+* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`65`](../src/modernbb/modcp_body.tpl#L65)
+* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`66`](../src/modernbb/modcp_body.tpl#L66)
+* __[`{S_MODCP_ACTION}`](../var/S_MODCP_ACTION.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_body.tpl#L1)
+* __[`<!-- BEGIN switch_announce -->`](../var/switch_announce.md#readme)__ __:__ ligne [`52`](../src/modernbb/modcp_body.tpl#L52)
+* __[`<!-- END switch_announce -->`](../var/switch_announce.md#readme)__ __:__ ligne [`52`](../src/modernbb/modcp_body.tpl#L52)
+* __[`<!-- BEGIN switch_normal -->`](../var/switch_normal.md#readme)__ __:__ ligne [`53`](../src/modernbb/modcp_body.tpl#L53)
+* __[`<!-- END switch_normal -->`](../var/switch_normal.md#readme)__ __:__ ligne [`53`](../src/modernbb/modcp_body.tpl#L53)
+* __[`<!-- BEGIN switch_sticky -->`](../var/switch_sticky.md#readme)__ __:__ ligne [`51`](../src/modernbb/modcp_body.tpl#L51)
+* __[`<!-- END switch_sticky -->`](../var/switch_sticky.md#readme)__ __:__ ligne [`51`](../src/modernbb/modcp_body.tpl#L51)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`2`](../src/modernbb/modcp_body.tpl#L2)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`2`](../src/modernbb/modcp_body.tpl#L2)
+* __[`<!-- BEGIN topicrow -->`](../var/topicrow.md#readme)__ __:__ ligne [`28`](../src/modernbb/modcp_body.tpl#L28)
+* __[`<!-- END topicrow -->`](../var/topicrow.md#readme)__ __:__ ligne [`38`](../src/modernbb/modcp_body.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.ICON}`](../var/topicrow.ICON.md#readme)__ __:__ ligne [`31`](../src/modernbb/modcp_body.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.LAST_POST_TIME}`](../var/topicrow.LAST_POST_TIME.md#readme)__ __:__ ligne [`35`](../src/modernbb/modcp_body.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.REPLIES}`](../var/topicrow.REPLIES.md#readme)__ __:__ ligne [`34`](../src/modernbb/modcp_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.ROW_CLASS}`](../var/topicrow.ROW_CLASS.md#readme)__ __:__ ligne [`29`](../src/modernbb/modcp_body.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_FOLDER_IMG}`](../var/topicrow.TOPIC_FOLDER_IMG.md#readme)__ __:__ ligne [`30`](../src/modernbb/modcp_body.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_ID}`](../var/topicrow.TOPIC_ID.md#readme)__ __:__ ligne [`36`](../src/modernbb/modcp_body.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TITLE}`](../var/topicrow.TOPIC_TITLE.md#readme)__ __:__ ligne [`33`](../src/modernbb/modcp_body.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TYPE}`](../var/topicrow.TOPIC_TYPE.md#readme)__ __:__ ligne [`33`](../src/modernbb/modcp_body.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.U_VIEW_TOPIC}`](../var/topicrow.U_VIEW_TOPIC.md#readme)__ __:__ ligne [`33`](../src/modernbb/modcp_body.tpl#L33)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/modcp_body.tpl#files)
@@ -268,9 +321,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TITLE}`](../var/topicrow.TOPIC_TITLE.md#readme)__ __:__ ligne [`31`](../src/invision/modcp_body.tpl#L31)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TYPE}`](../var/topicrow.TOPIC_TYPE.md#readme)__ __:__ ligne [`31`](../src/invision/modcp_body.tpl#L31)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.U_VIEW_TOPIC}`](../var/topicrow.U_VIEW_TOPIC.md#readme)__ __:__ ligne [`31`](../src/invision/modcp_body.tpl#L31)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/modcp_body.tpl#files)
-
-### Positions des variables

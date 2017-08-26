@@ -24,6 +24,10 @@
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`38`](../src/subsilver/faq_body.tpl#L38)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`43`](../src/subsilver/faq_dhtml.tpl#L43)
 
+### Version ModernBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`21`](../src/modernbb/faq_body.tpl#L21)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`20`](../src/modernbb/faq_dhtml.tpl#L20)
+
 ### Version PunBB
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`42`](../src/punbb/faq_body.tpl#L42)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`39`](../src/punbb/faq_dhtml.tpl#L39)

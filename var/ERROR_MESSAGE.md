@@ -22,6 +22,10 @@ Contenu du message d'erreur.
 * __[`error_body`](../tpl/error_body.md#readme)__ __:__ lignes [`9`](../src/subsilver/error_body.tpl#L9)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`10`](../src/subsilver/profile_edit_signature.tpl#L10)
 
+### Version ModernBB
+* __[`error_body`](../tpl/error_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/error_body.tpl#L2)
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`4`](../src/modernbb/profile_edit_signature.tpl#L4)
+
 ### Version PunBB
 * __[`error_body`](../tpl/error_body.md#readme)__ __:__ lignes [`4`](../src/punbb/error_body.tpl#L4)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`19`](../src/punbb/profile_edit_signature.tpl#L19)

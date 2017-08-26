@@ -20,6 +20,9 @@ Contient la vitesse de défilement des annonces définie dans `PA > Général > 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`111`](../src/subsilver/overall_header.tpl#L111), [`137`](../src/subsilver/overall_header.tpl#L137)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`115`](../src/modernbb/overall_header.tpl#L115), [`143`](../src/modernbb/overall_header.tpl#L143)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`113`](../src/punbb/overall_header.tpl#L113), [`142`](../src/punbb/overall_header.tpl#L142)
 

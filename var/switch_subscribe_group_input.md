@@ -30,6 +30,10 @@ Le contenu de la boucle est affiché si :
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`18`](../src/subsilver/groupcp_info_body.tpl#L18)[`<->`](../src/subsilver/groupcp_info_body.tpl#L18-L20)[`20`](../src/subsilver/groupcp_info_body.tpl#L20)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`21`](../src/modernbb/groupcp_info_body.tpl#L21)[`<->`](../src/modernbb/groupcp_info_body.tpl#L21-L23)[`23`](../src/modernbb/groupcp_info_body.tpl#L23)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`45`](../src/punbb/groupcp_info_body.tpl#L45)[`<->`](../src/punbb/groupcp_info_body.tpl#L45-L47)[`47`](../src/punbb/groupcp_info_body.tpl#L47)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

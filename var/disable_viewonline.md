@@ -34,6 +34,9 @@ Boucle contenant le qui est en ligne.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`130`](../src/subsilver/index_body.tpl#L130)[`<->`](../src/subsilver/index_body.tpl#L130-L178)[`178`](../src/subsilver/index_body.tpl#L178)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`40`](../src/modernbb/index_body.tpl#L40)[`<->`](../src/modernbb/index_body.tpl#L40-L77)[`77`](../src/modernbb/index_body.tpl#L77)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`62`](../src/punbb/index_body.tpl#L62)[`<->`](../src/punbb/index_body.tpl#L62-L110)[`110`](../src/punbb/index_body.tpl#L110)
 

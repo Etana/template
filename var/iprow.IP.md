@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`68`](../src/subsilver/modcp_viewip.tpl#L68)
 
+### Version ModernBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`74`](../src/modernbb/modcp_viewip.tpl#L74)
+
 ### Version PunBB
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`99`](../src/punbb/modcp_viewip.tpl#L99)
 

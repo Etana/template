@@ -31,6 +31,14 @@ Chaîne de caractère.
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`23`](../src/subsilver/search_body.tpl#L23), [`118`](../src/subsilver/search_body.tpl#L118)
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`12`](../src/subsilver/search_username.tpl#L12)
 
+### Version ModernBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`39`](../src/modernbb/album_formsearch_body.tpl#L39)
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`25`](../src/modernbb/merge_body.tpl#L25)
+* __[`mod_search`](../tpl/mod_search.md#readme)__ __:__ lignes [`2`](../src/modernbb/mod_search.tpl#L2), [`5`](../src/modernbb/mod_search.tpl#L5)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`22`](../src/modernbb/search_body.tpl#L22), [`75`](../src/modernbb/search_body.tpl#L75)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`14`](../src/modernbb/search_username.tpl#L14)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`17`](../src/modernbb/viewforum_body.tpl#L17), [`17`](../src/modernbb/viewforum_body.tpl#L17), [`17`](../src/modernbb/viewforum_body.tpl#L17)
+
 ### Version PunBB
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`47`](../src/punbb/album_formsearch_body.tpl#L47)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`47`](../src/punbb/merge_body.tpl#L47)

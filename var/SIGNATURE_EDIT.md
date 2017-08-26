@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`32`](../src/subsilver/profile_edit_signature.tpl#L32)
 
+### Version ModernBB
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`14`](../src/modernbb/profile_edit_signature.tpl#L14)
+
 ### Version PunBB
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`32`](../src/punbb/profile_edit_signature.tpl#L32)
 

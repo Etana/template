@@ -20,6 +20,10 @@ Lien vers "Voir les nouveaux messages depuis votre dernière visite" dans le men
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`18`](../src/subsilver/viewforum_body.tpl#L18)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`85`](../src/subsilver/viewtopic_body.tpl#L85)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`38`](../src/modernbb/viewforum_body.tpl#L38)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`85`](../src/modernbb/viewtopic_body.tpl#L85)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`7`](../src/punbb/viewforum_body.tpl#L7)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`47`](../src/punbb/viewtopic_body.tpl#L47)

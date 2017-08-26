@@ -80,6 +80,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`20`](../src/subsilver/index_box.tpl#L20)[`<->`](../src/subsilver/index_box.tpl#L20-L100)[`100`](../src/subsilver/index_box.tpl#L100)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`20`](../src/modernbb/index_box.tpl#L20)[`<->`](../src/modernbb/index_box.tpl#L20-L86)[`86`](../src/modernbb/index_box.tpl#L86)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`5`](../src/punbb/index_box.tpl#L5)[`<->`](../src/punbb/index_box.tpl#L5-L71)[`71`](../src/punbb/index_box.tpl#L71)
 

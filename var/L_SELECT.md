@@ -31,6 +31,15 @@ Remplacement français `Sélectionner` si il y a un membre en cours de demande d
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`35`](../src/subsilver/modcp_split.tpl#L35)
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`18`](../src/subsilver/search_username.tpl#L18)
 
+### Version ModernBB
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`28`](../src/modernbb/album_modcp_body.tpl#L28)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`76`](../src/modernbb/album_moderate_body.tpl#L76)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`58`](../src/modernbb/groupcp_info_body.tpl#L58)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`12`](../src/modernbb/groupcp_pending_info.tpl#L12)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`13`](../src/modernbb/merge_select_body.tpl#L13)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`24`](../src/modernbb/modcp_body.tpl#L24)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`21`](../src/modernbb/search_username.tpl#L21)
+
 ### Version PunBB
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`41`](../src/punbb/album_modcp_body.tpl#L41)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`87`](../src/punbb/album_moderate_body.tpl#L87)

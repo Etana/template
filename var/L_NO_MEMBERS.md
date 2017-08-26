@@ -18,6 +18,9 @@ Texte `Ce groupe n'a pas de membres` si le groupe n'a pas de membre autre que le
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`77`](../src/subsilver/groupcp_info_body.tpl#L77)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`90`](../src/modernbb/groupcp_info_body.tpl#L90)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`117`](../src/punbb/groupcp_info_body.tpl#L117)
 

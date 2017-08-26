@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`27`](../src/subsilver/posting_smilies.tpl#L27), [`27`](../src/subsilver/posting_smilies.tpl#L27)
 
+### Version ModernBB
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`34`](../src/modernbb/posting_smilies.tpl#L34), [`34`](../src/modernbb/posting_smilies.tpl#L34)
+
 ### Version PunBB
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`23`](../src/punbb/posting_smilies.tpl#L23), [`23`](../src/punbb/posting_smilies.tpl#L23)
 

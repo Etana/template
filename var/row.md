@@ -50,6 +50,11 @@ contenu sur lequel on boucle
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`23`](../src/subsilver/report_list_body.tpl#L23)[`<->`](../src/subsilver/report_list_body.tpl#L23-L35)[`35`](../src/subsilver/report_list_body.tpl#L35)
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`7`](../src/subsilver/report_view_body.tpl#L7)[`<->`](../src/subsilver/report_view_body.tpl#L7-L54)[`54`](../src/subsilver/report_view_body.tpl#L54)
 
+### Version ModernBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`30`](../src/modernbb/calendar_scheduler_body.tpl#L30)[`<->`](../src/modernbb/calendar_scheduler_body.tpl#L30-L36)[`36`](../src/modernbb/calendar_scheduler_body.tpl#L36)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`37`](../src/modernbb/report_list_body.tpl#L37)[`<->`](../src/modernbb/report_list_body.tpl#L37-L46)[`46`](../src/modernbb/report_list_body.tpl#L46)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`15`](../src/modernbb/report_view_body.tpl#L15)[`<->`](../src/modernbb/report_view_body.tpl#L15-L67)[`67`](../src/modernbb/report_view_body.tpl#L67)
+
 ### Version PunBB
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`44`](../src/punbb/calendar_scheduler_body.tpl#L44)[`<->`](../src/punbb/calendar_scheduler_body.tpl#L44-L50)[`50`](../src/punbb/calendar_scheduler_body.tpl#L50)
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`50`](../src/punbb/report_list_body.tpl#L50)[`<->`](../src/punbb/report_list_body.tpl#L50-L59)[`59`](../src/punbb/report_list_body.tpl#L59)

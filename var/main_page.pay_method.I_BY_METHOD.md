@@ -24,6 +24,9 @@ Adresse URL d'une image vide.
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`41`](../src/subsilver/buy_credits.tpl#L41)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`26`](../src/modernbb/buy_credits.tpl#L26)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`50`](../src/punbb/buy_credits.tpl#L50)
 

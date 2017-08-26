@@ -20,6 +20,10 @@
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`28`](../src/subsilver/mod_login.tpl#L28), [`76`](../src/subsilver/mod_login.tpl#L76)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`9`](../src/subsilver/profile_send_pass.tpl#L9)
 
+### Version ModernBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`9`](../src/modernbb/mod_login.tpl#L9), [`33`](../src/modernbb/mod_login.tpl#L33)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`5`](../src/modernbb/profile_send_pass.tpl#L5)
+
 ### Version PunBB
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`14`](../src/punbb/mod_login.tpl#L14), [`49`](../src/punbb/mod_login.tpl#L49)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`17`](../src/punbb/profile_send_pass.tpl#L17), [`22`](../src/punbb/profile_send_pass.tpl#L22)

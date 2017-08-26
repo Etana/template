@@ -40,6 +40,18 @@ Chaîne de caractère.
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`15`](../src/subsilver/profile_send_pass.tpl#L15)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`18`](../src/subsilver/viewonline_body.tpl#L18)
 
+### Version ModernBB
+* __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`4`](../src/modernbb/calendar_overview_profil.tpl#L4)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`53`](../src/modernbb/groupcp_info_body.tpl#L53)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`7`](../src/modernbb/groupcp_pending_info.tpl#L7)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`7`](../src/modernbb/index_body.tpl#L7), [`85`](../src/modernbb/index_body.tpl#L85)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`23`](../src/modernbb/memberlist_body.tpl#L23)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`7`](../src/modernbb/mod_login.tpl#L7), [`31`](../src/modernbb/mod_login.tpl#L31)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`49`](../src/modernbb/posting_body.tpl#L49), [`62`](../src/modernbb/posting_body.tpl#L62)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`23`](../src/modernbb/profile_add_body.tpl#L23), [`29`](../src/modernbb/profile_add_body.tpl#L29)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`9`](../src/modernbb/profile_send_pass.tpl#L9)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`17`](../src/modernbb/viewonline_body.tpl#L17)
+
 ### Version PunBB
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`4`](../src/punbb/calendar_overview_profil.tpl#L4)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`79`](../src/punbb/groupcp_info_body.tpl#L79)

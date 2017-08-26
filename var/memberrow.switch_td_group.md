@@ -25,6 +25,9 @@ Boucle affichant la colonne des groupes dans la liste des membres si vous triez 
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`41`](../src/subsilver/memberlist_body.tpl#L41)[`<->`](../src/subsilver/memberlist_body.tpl#L41-L43)[`43`](../src/subsilver/memberlist_body.tpl#L43)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`40`](../src/modernbb/memberlist_body.tpl#L40)[`<->`](../src/modernbb/memberlist_body.tpl#L40-L42)[`42`](../src/modernbb/memberlist_body.tpl#L42)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`80`](../src/punbb/memberlist_body.tpl#L80)[`<->`](../src/punbb/memberlist_body.tpl#L80-L82)[`82`](../src/punbb/memberlist_body.tpl#L82)
 

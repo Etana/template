@@ -22,6 +22,9 @@
 ### Version phpBB2
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`21`](../src/subsilver/posting_smilies.tpl#L21)
 
+### Version ModernBB
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`24`](../src/modernbb/posting_smilies.tpl#L24)
+
 ### Version PunBB
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`19`](../src/punbb/posting_smilies.tpl#L19)
 

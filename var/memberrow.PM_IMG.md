@@ -20,6 +20,9 @@ Contient un lien vers l'envoi d'un message privé au membre et l'image définie 
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`48`](../src/subsilver/memberlist_body.tpl#L48)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`47`](../src/modernbb/memberlist_body.tpl#L47)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`87`](../src/punbb/memberlist_body.tpl#L87)
 

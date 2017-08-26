@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `memberlist_body`
@@ -191,6 +191,58 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 * __[`<!-- BEGIN switch_th_group -->`](../var/switch_th_group.md#readme)__ __:__ ligne [`26`](../src/subsilver/memberlist_body.tpl#L26)
 * __[`<!-- END switch_th_group -->`](../var/switch_th_group.md#readme)__ __:__ ligne [`28`](../src/subsilver/memberlist_body.tpl#L28)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/memberlist_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_AVATAR}`](../var/L_AVATAR.md#readme)__ __:__ ligne [`23`](../src/modernbb/memberlist_body.tpl#L23)
+* __[`{L_GROUPS}`](../var/L_GROUPS.md#readme)__ __:__ ligne [`25`](../src/modernbb/memberlist_body.tpl#L25)
+* __[`{L_INTERESTS}`](../var/L_INTERESTS.md#readme)__ __:__ ligne [`27`](../src/modernbb/memberlist_body.tpl#L27)
+* __[`{L_JOINED}`](../var/L_JOINED.md#readme)__ __:__ ligne [`28`](../src/modernbb/memberlist_body.tpl#L28)
+* __[`{L_ORDER}`](../var/L_ORDER.md#readme)__ __:__ ligne [`9`](../src/modernbb/memberlist_body.tpl#L9)
+* __[`{L_ORDER_OR_SELECT}`](../var/L_ORDER_OR_SELECT.md#readme)__ __:__ ligne [`5`](../src/modernbb/memberlist_body.tpl#L5)
+* __[`{L_PM}`](../var/L_PM.md#readme)__ __:__ ligne [`31`](../src/modernbb/memberlist_body.tpl#L31)
+* __[`{L_POSTS}`](../var/L_POSTS.md#readme)__ __:__ ligne [`30`](../src/modernbb/memberlist_body.tpl#L30)
+* __[`{L_SELECT_SORT_METHOD}`](../var/L_SELECT_SORT_METHOD.md#readme)__ __:__ ligne [`8`](../src/modernbb/memberlist_body.tpl#L8)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)__ __:__ ligne [`11`](../src/modernbb/memberlist_body.tpl#L11)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`23`](../src/modernbb/memberlist_body.tpl#L23)
+* __[`{L_USER_SELECT}`](../var/L_USER_SELECT.md#readme)__ __:__ ligne [`7`](../src/modernbb/memberlist_body.tpl#L7)
+* __[`{L_USER_SELECT_VALUE}`](../var/L_USER_SELECT_VALUE.md#readme)__ __:__ ligne [`7`](../src/modernbb/memberlist_body.tpl#L7)
+* __[`{L_VISITED}`](../var/L_VISITED.md#readme)__ __:__ ligne [`29`](../src/modernbb/memberlist_body.tpl#L29)
+* __[`{L_WEBSITE}`](../var/L_WEBSITE.md#readme)__ __:__ ligne [`32`](../src/modernbb/memberlist_body.tpl#L32)
+* __[`{PAGE_TITLE}`](../var/PAGE_TITLE.md#readme)__ __:__ ligne [`1`](../src/modernbb/memberlist_body.tpl#L1)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`64`](../src/modernbb/memberlist_body.tpl#L64)
+* __[`{S_HIDDEN_SID}`](../var/S_HIDDEN_SID.md#readme)__ __:__ ligne [`10`](../src/modernbb/memberlist_body.tpl#L10)
+* __[`{S_MODE_ACTION}`](../var/S_MODE_ACTION.md#readme)__ __:__ ligne [`3`](../src/modernbb/memberlist_body.tpl#L3)
+* __[`{S_MODE_SELECT}`](../var/S_MODE_SELECT.md#readme)__ __:__ ligne [`8`](../src/modernbb/memberlist_body.tpl#L8)
+* __[`{S_ORDER_SELECT}`](../var/S_ORDER_SELECT.md#readme)__ __:__ ligne [`9`](../src/modernbb/memberlist_body.tpl#L9)
+* __[`<!-- BEGIN memberrow -->`](../var/memberrow.md#readme)__ __:__ ligne [`36`](../src/modernbb/memberlist_body.tpl#L36)
+* __[`<!-- END memberrow -->`](../var/memberrow.md#readme)__ __:__ ligne [`50`](../src/modernbb/memberlist_body.tpl#L50)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.AVATAR_IMG}`](../var/memberrow.AVATAR_IMG.md#readme)__ __:__ ligne [`39`](../src/modernbb/memberlist_body.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.GROUPS}`](../var/memberrow.GROUPS.md#readme)__ __:__ ligne [`41`](../src/modernbb/memberlist_body.tpl#L41)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.INTERESTS}`](../var/memberrow.INTERESTS.md#readme)__ __:__ ligne [`43`](../src/modernbb/memberlist_body.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.JOINED}`](../var/memberrow.JOINED.md#readme)__ __:__ ligne [`44`](../src/modernbb/memberlist_body.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.LASTVISIT}`](../var/memberrow.LASTVISIT.md#readme)__ __:__ ligne [`45`](../src/modernbb/memberlist_body.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.PM_IMG}`](../var/memberrow.PM_IMG.md#readme)__ __:__ ligne [`47`](../src/modernbb/memberlist_body.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.POSTS}`](../var/memberrow.POSTS.md#readme)__ __:__ ligne [`46`](../src/modernbb/memberlist_body.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.ROW_CLASS}`](../var/memberrow.ROW_CLASS.md#readme)__ __:__ ligne [`37`](../src/modernbb/memberlist_body.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.ROW_NUMBER}`](../var/memberrow.ROW_NUMBER.md#readme)__ __:__ ligne [`38`](../src/modernbb/memberlist_body.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.USERNAME}`](../var/memberrow.USERNAME.md#readme)__ __:__ ligne [`39`](../src/modernbb/memberlist_body.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.U_VIEWPROFILE}`](../var/memberrow.U_VIEWPROFILE.md#readme)__ __:__ ligne [`39`](../src/modernbb/memberlist_body.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{memberrow.WWW_IMG}`](../var/memberrow.WWW_IMG.md#readme)__ __:__ ligne [`48`](../src/modernbb/memberlist_body.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_td_group -->`](../var/memberrow.switch_td_group.md#readme)__ __:__ ligne [`40`](../src/modernbb/memberlist_body.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_td_group -->`](../var/memberrow.switch_td_group.md#readme)__ __:__ ligne [`42`](../src/modernbb/memberlist_body.tpl#L42)
+* __[`<!-- BEGIN switch_no_user -->`](../var/switch_no_user.md#readme)__ __:__ ligne [`51`](../src/modernbb/memberlist_body.tpl#L51)
+* __[`<!-- END switch_no_user -->`](../var/switch_no_user.md#readme)__ __:__ ligne [`55`](../src/modernbb/memberlist_body.tpl#L55)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_no_user.COLSPAN_NUMBER}`](../var/switch_no_user.COLSPAN_NUMBER.md#readme)__ __:__ ligne [`53`](../src/modernbb/memberlist_body.tpl#L53)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_no_user.L_NO_USER}`](../var/switch_no_user.L_NO_USER.md#readme)__ __:__ ligne [`53`](../src/modernbb/memberlist_body.tpl#L53)
+* __[`<!-- BEGIN switch_pagination -->`](../var/switch_pagination.md#readme)__ __:__ ligne [`63`](../src/modernbb/memberlist_body.tpl#L63)
+* __[`<!-- END switch_pagination -->`](../var/switch_pagination.md#readme)__ __:__ ligne [`65`](../src/modernbb/memberlist_body.tpl#L65)
+* __[`<!-- BEGIN switch_th_group -->`](../var/switch_th_group.md#readme)__ __:__ ligne [`24`](../src/modernbb/memberlist_body.tpl#L24)
+* __[`<!-- END switch_th_group -->`](../var/switch_th_group.md#readme)__ __:__ ligne [`26`](../src/modernbb/memberlist_body.tpl#L26)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/memberlist_body.tpl#files)
@@ -319,9 +371,3 @@ Ce template affiche la liste des membres de votre forum : `/memberlist`
 * __[`<!-- END switch_pagination -->`](../var/switch_pagination.md#readme)__ __:__ ligne [`13`](../src/invision/memberlist_body.tpl#L13)
 * __[`<!-- BEGIN switch_pagination -->`](../var/switch_pagination.md#readme)__ __:__ ligne [`112`](../src/invision/memberlist_body.tpl#L112)
 * __[`<!-- END switch_pagination -->`](../var/switch_pagination.md#readme)__ __:__ ligne [`117`](../src/invision/memberlist_body.tpl#L117)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/memberlist_body.tpl#files)
-
-### Positions des variables

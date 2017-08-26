@@ -22,3 +22,6 @@
 ### Version phpBB3
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`36`](../src/prosilver/search_results_topics.tpl#L36)[`<->`](../src/prosilver/search_results_topics.tpl#L36-L36)[`36`](../src/prosilver/search_results_topics.tpl#L36)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`46`](../src/modernbb/search_results_topics.tpl#L46)[`<->`](../src/modernbb/search_results_topics.tpl#L46-L48)[`48`](../src/modernbb/search_results_topics.tpl#L48)
+

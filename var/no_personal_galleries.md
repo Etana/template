@@ -25,6 +25,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`264`](../src/subsilver/album_cat_body.tpl#L264)[`<->`](../src/subsilver/album_cat_body.tpl#L264-L281)[`281`](../src/subsilver/album_cat_body.tpl#L281)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`133`](../src/modernbb/album_cat_body.tpl#L133)[`<->`](../src/modernbb/album_cat_body.tpl#L133-L140)[`140`](../src/modernbb/album_cat_body.tpl#L140)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`130`](../src/punbb/album_cat_body.tpl#L130)[`<->`](../src/punbb/album_cat_body.tpl#L130-L135)[`135`](../src/punbb/album_cat_body.tpl#L135)
 

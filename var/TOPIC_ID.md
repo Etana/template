@@ -20,6 +20,9 @@ Remplacé par l'identifiant numérique du sujet.
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/subsilver/viewtopic_body.tpl#L89), [`459`](../src/subsilver/viewtopic_body.tpl#L459)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/modernbb/viewtopic_body.tpl#L89), [`154`](../src/modernbb/viewtopic_body.tpl#L154), [`359`](../src/modernbb/viewtopic_body.tpl#L359)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`51`](../src/punbb/viewtopic_body.tpl#L51), [`265`](../src/punbb/viewtopic_body.tpl#L265)
 

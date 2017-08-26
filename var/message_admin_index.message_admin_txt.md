@@ -26,6 +26,9 @@ Boucle contenant le texte du message d'accueil.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`9`](../src/subsilver/index_body.tpl#L9)[`<->`](../src/subsilver/index_body.tpl#L9-L15)[`15`](../src/subsilver/index_body.tpl#L15)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`30`](../src/modernbb/index_body.tpl#L30)[`<->`](../src/modernbb/index_body.tpl#L30-L32)[`32`](../src/modernbb/index_body.tpl#L32)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`27`](../src/punbb/index_body.tpl#L27)[`<->`](../src/punbb/index_body.tpl#L27-L31)[`31`](../src/punbb/index_body.tpl#L31)
 

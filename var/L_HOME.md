@@ -18,3 +18,6 @@ Chaîne de caractère.
 ### Version phpBB3
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`33`](../src/prosilver/overall_footer_begin.tpl#L33)
 
+### Version ModernBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`56`](../src/modernbb/overall_footer_begin.tpl#L56)
+

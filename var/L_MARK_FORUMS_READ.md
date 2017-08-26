@@ -20,6 +20,9 @@ Affiche le texte du lien de la variable [`{U_MARK_READ}`](../var/U_MARK_READ.md#
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`67`](../src/subsilver/index_body.tpl#L67)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`15`](../src/modernbb/index_box.tpl#L15)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`8`](../src/punbb/index_body.tpl#L8)
 

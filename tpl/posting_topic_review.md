@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `posting_topic_review`
@@ -96,6 +96,31 @@
 * __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`7`](../src/subsilver/posting_topic_review.tpl#L7)
 * __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`46`](../src/subsilver/posting_topic_review.tpl#L46)
 * __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`49`](../src/subsilver/posting_topic_review.tpl#L49)
+
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/posting_topic_review.tpl#files)
+
+### Positions des variables
+
+* __[`{L_TOPIC_REVIEW}`](../var/L_TOPIC_REVIEW.md#readme)__ __:__ ligne [`2`](../src/modernbb/posting_topic_review.tpl#L2)
+* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`5`](../src/modernbb/posting_topic_review.tpl#L5)
+* __[`<!-- END postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`23`](../src/modernbb/posting_topic_review.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN displayed -->`](../var/postrow.displayed.md#readme)__ __:__ ligne [`6`](../src/modernbb/posting_topic_review.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END displayed -->`](../var/postrow.displayed.md#readme)__ __:__ ligne [`16`](../src/modernbb/posting_topic_review.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.L_TOPIC_BY}`](../var/postrow.displayed.L_TOPIC_BY.md#readme)__ __:__ ligne [`12`](../src/modernbb/posting_topic_review.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.L_TOPIC_ON}`](../var/postrow.displayed.L_TOPIC_ON.md#readme)__ __:__ ligne [`12`](../src/modernbb/posting_topic_review.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MESSAGE}`](../var/postrow.displayed.MESSAGE.md#readme)__ __:__ ligne [`13`](../src/modernbb/posting_topic_review.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MINI_POST_IMG}`](../var/postrow.displayed.MINI_POST_IMG.md#readme)__ __:__ ligne [`12`](../src/modernbb/posting_topic_review.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_NAME}`](../var/postrow.displayed.POSTER_NAME.md#readme)__ __:__ ligne [`12`](../src/modernbb/posting_topic_review.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE}`](../var/postrow.displayed.POST_DATE.md#readme)__ __:__ ligne [`12`](../src/modernbb/posting_topic_review.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_ID}`](../var/postrow.displayed.POST_ID.md#readme)__ __:__ ligne [`9`](../src/modernbb/posting_topic_review.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_SUBJECT_NEW}`](../var/postrow.displayed.POST_SUBJECT_NEW.md#readme)__ __:__ ligne [`11`](../src/modernbb/posting_topic_review.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN hidden -->`](../var/postrow.hidden.md#readme)__ __:__ ligne [`17`](../src/modernbb/posting_topic_review.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END hidden -->`](../var/postrow.hidden.md#readme)__ __:__ ligne [`22`](../src/modernbb/posting_topic_review.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.hidden.MESSAGE}`](../var/postrow.hidden.MESSAGE.md#readme)__ __:__ ligne [`19`](../src/modernbb/posting_topic_review.tpl#L19)
+* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`1`](../src/modernbb/posting_topic_review.tpl#L1)
+* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`3`](../src/modernbb/posting_topic_review.tpl#L3)
 
 ## Template par défaut PunBB
 

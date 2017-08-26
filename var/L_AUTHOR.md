@@ -28,6 +28,10 @@ Chaîne de texte.
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`27`](../src/subsilver/search_results_topics.tpl#L27)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`119`](../src/subsilver/viewtopic_body.tpl#L119), [`259`](../src/subsilver/viewtopic_body.tpl#L259)
 
+### Version ModernBB
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`5`](../src/modernbb/calendar_overview_topic.tpl#L5)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`36`](../src/modernbb/report_view_body.tpl#L36)
+
 ### Version PunBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`5`](../src/punbb/calendar_overview_topic.tpl#L5)
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`49`](../src/punbb/report_view_body.tpl#L49)

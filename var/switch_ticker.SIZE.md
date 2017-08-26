@@ -20,6 +20,9 @@ Variable non utilisée.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`78`](../src/subsilver/overall_header.tpl#L78), [`109`](../src/subsilver/overall_header.tpl#L109)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`78`](../src/modernbb/overall_header.tpl#L78), [`113`](../src/modernbb/overall_header.tpl#L113)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`75`](../src/punbb/overall_header.tpl#L75), [`111`](../src/punbb/overall_header.tpl#L111)
 

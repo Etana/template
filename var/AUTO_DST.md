@@ -18,6 +18,9 @@ Variable actuellement inutilisée.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`196`](../src/subsilver/index_body.tpl#L196)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`110`](../src/modernbb/index_body.tpl#L110)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`146`](../src/punbb/index_body.tpl#L146)
 

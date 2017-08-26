@@ -23,6 +23,10 @@ Adresse absolue de la page du groupe sur lequel on se trouve.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/groupcp_info_body.tpl#L1), [`38`](../src/subsilver/groupcp_info_body.tpl#L38)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`8`](../src/modernbb/groupcp_info_body.tpl#L8), [`45`](../src/modernbb/groupcp_info_body.tpl#L45)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`23`](../src/punbb/groupcp_info_body.tpl#L23), [`68`](../src/punbb/groupcp_info_body.tpl#L68)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

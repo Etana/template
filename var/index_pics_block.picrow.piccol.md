@@ -40,6 +40,9 @@
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`54`](../src/subsilver/album_cat_body.tpl#L54)[`<->`](../src/subsilver/album_cat_body.tpl#L54-L74)[`74`](../src/subsilver/album_cat_body.tpl#L74)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`32`](../src/modernbb/album_cat_body.tpl#L32)[`<->`](../src/modernbb/album_cat_body.tpl#L32-L42)[`42`](../src/modernbb/album_cat_body.tpl#L42)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`36`](../src/punbb/album_cat_body.tpl#L36)[`<->`](../src/punbb/album_cat_body.tpl#L36-L46)[`46`](../src/punbb/album_cat_body.tpl#L46)
 

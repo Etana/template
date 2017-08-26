@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`43`](../src/subsilver/viewtopic_poll_result.tpl#L43)[`<->`](../src/subsilver/viewtopic_poll_result.tpl#L43-L47)[`47`](../src/subsilver/viewtopic_poll_result.tpl#L47)
 
+### Version ModernBB
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`20`](../src/modernbb/viewtopic_poll_result.tpl#L20)[`<->`](../src/modernbb/viewtopic_poll_result.tpl#L20-L22)[`22`](../src/modernbb/viewtopic_poll_result.tpl#L22)
+
 ### Version PunBB
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`19`](../src/punbb/viewtopic_poll_result.tpl#L19)[`<->`](../src/punbb/viewtopic_poll_result.tpl#L19-L24)[`24`](../src/punbb/viewtopic_poll_result.tpl#L24)
 

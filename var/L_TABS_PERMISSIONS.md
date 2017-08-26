@@ -22,6 +22,10 @@ Chaîne de texte.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`45`](../src/subsilver/viewforum_body.tpl#L45)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`386`](../src/subsilver/viewtopic_body.tpl#L386)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`83`](../src/modernbb/viewforum_body.tpl#L83)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`374`](../src/modernbb/viewtopic_body.tpl#L374)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`60`](../src/punbb/viewforum_body.tpl#L60)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`350`](../src/punbb/viewtopic_body.tpl#L350)

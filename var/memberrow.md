@@ -42,6 +42,9 @@ Boucle affichant les informations d'un membre et se répétant pour chaque membr
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`36`](../src/subsilver/memberlist_body.tpl#L36)[`<->`](../src/subsilver/memberlist_body.tpl#L36-L51)[`51`](../src/subsilver/memberlist_body.tpl#L51)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`36`](../src/modernbb/memberlist_body.tpl#L36)[`<->`](../src/modernbb/memberlist_body.tpl#L36-L50)[`50`](../src/modernbb/memberlist_body.tpl#L50)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`77`](../src/punbb/memberlist_body.tpl#L77)[`<->`](../src/punbb/memberlist_body.tpl#L77-L90)[`90`](../src/punbb/memberlist_body.tpl#L90)
 

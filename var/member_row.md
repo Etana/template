@@ -36,6 +36,9 @@ Bouclage sur les éventuels membres du groupe ( hormis le modérateur ) :
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`64`](../src/subsilver/groupcp_info_body.tpl#L64)[`<->`](../src/subsilver/groupcp_info_body.tpl#L64-L74)[`74`](../src/subsilver/groupcp_info_body.tpl#L74)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`77`](../src/modernbb/groupcp_info_body.tpl#L77)[`<->`](../src/modernbb/groupcp_info_body.tpl#L77-L87)[`87`](../src/modernbb/groupcp_info_body.tpl#L87)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`104`](../src/punbb/groupcp_info_body.tpl#L104)[`<->`](../src/punbb/groupcp_info_body.tpl#L104-L114)[`114`](../src/punbb/groupcp_info_body.tpl#L114)
 

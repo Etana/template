@@ -20,6 +20,9 @@ Contient l'image de participation à un sujet définie dans `PA > Affichage > Im
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`34`](../src/modernbb/search_results_topics.tpl#L34)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`53`](../src/punbb/search_results_topics.tpl#L53)
 

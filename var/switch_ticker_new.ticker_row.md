@@ -25,6 +25,9 @@ Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > G
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`283`](../src/subsilver/overall_header.tpl#L283)[`<->`](../src/subsilver/overall_header.tpl#L283-L285)[`285`](../src/subsilver/overall_header.tpl#L285)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`286`](../src/modernbb/overall_header.tpl#L286)[`<->`](../src/modernbb/overall_header.tpl#L286-L288)[`288`](../src/modernbb/overall_header.tpl#L288)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`273`](../src/punbb/overall_header.tpl#L273)[`<->`](../src/punbb/overall_header.tpl#L273-L275)[`275`](../src/punbb/overall_header.tpl#L275)
 

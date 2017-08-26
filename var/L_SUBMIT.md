@@ -50,6 +50,21 @@ Chaîne de texte.
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`354`](../src/subsilver/profile_add_body.tpl#L354)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`25`](../src/subsilver/profile_send_pass.tpl#L25)
 
+### Version ModernBB
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`66`](../src/modernbb/album_edit_body.tpl#L66)
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`94`](../src/modernbb/album_nuffimage_box.tpl#L94)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`314`](../src/modernbb/album_showpage_body.tpl#L314)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`282`](../src/modernbb/album_upload_body.tpl#L282), [`286`](../src/modernbb/album_upload_body.tpl#L286)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`61`](../src/modernbb/buy_credits.tpl#L61), [`106`](../src/modernbb/buy_credits.tpl#L106), [`127`](../src/modernbb/buy_credits.tpl#L127), [`140`](../src/modernbb/buy_credits.tpl#L140)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`11`](../src/modernbb/memberlist_body.tpl#L11)
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`36`](../src/modernbb/merge_body.tpl#L36)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`179`](../src/modernbb/posting_body.tpl#L179), [`181`](../src/modernbb/posting_body.tpl#L181)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`12`](../src/modernbb/posting_confirm_code.tpl#L12)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`398`](../src/modernbb/profile_add_body.tpl#L398)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`20`](../src/modernbb/profile_send_pass.tpl#L20)
+
 ### Version PunBB
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`76`](../src/punbb/album_edit_body.tpl#L76)
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`103`](../src/punbb/album_nuffimage_box.tpl#L103)

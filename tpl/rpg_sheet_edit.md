@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `rpg_sheet_edit`
@@ -105,6 +105,36 @@
 * __[`<!-- BEGIN switch_menu -->`](../var/switch_menu.md#readme)__ __:__ ligne [`1`](../src/subsilver/rpg_sheet_edit.tpl#L1)
 * __[`<!-- END switch_menu -->`](../var/switch_menu.md#readme)__ __:__ ligne [`3`](../src/subsilver/rpg_sheet_edit.tpl#L3)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/rpg_sheet_edit.tpl#files)
+
+### Positions des variables
+
+* __[`{AVATAR_URL}`](../var/AVATAR_URL.md#readme)__ __:__ ligne [`24`](../src/modernbb/rpg_sheet_edit.tpl#L24)
+* __[`{L_AVATAR_ERROR}`](../var/L_AVATAR_ERROR.md#readme)__ __:__ ligne [`28`](../src/modernbb/rpg_sheet_edit.tpl#L28)
+* __[`{L_AVATAR_PANEL}`](../var/L_AVATAR_PANEL.md#readme)__ __:__ ligne [`17`](../src/modernbb/rpg_sheet_edit.tpl#L17)
+* __[`{L_RESET}`](../var/L_RESET.md#readme)__ __:__ ligne [`63`](../src/modernbb/rpg_sheet_edit.tpl#L63)
+* __[`{L_UPLOAD_AVATAR_URL}`](../var/L_UPLOAD_AVATAR_URL.md#readme)__ __:__ ligne [`23`](../src/modernbb/rpg_sheet_edit.tpl#L23)
+* __[`{L_UPLOAD_EXPLAIN}`](../var/L_UPLOAD_EXPLAIN.md#readme)__ __:__ ligne [`25`](../src/modernbb/rpg_sheet_edit.tpl#L25)
+* __[`{L_VALID}`](../var/L_VALID.md#readme)__ __:__ ligne [`62`](../src/modernbb/rpg_sheet_edit.tpl#L62)
+* __[`{L_VIEWING_PROFILE}`](../var/L_VIEWING_PROFILE.md#readme)__ __:__ ligne [`10`](../src/modernbb/rpg_sheet_edit.tpl#L10)
+* __[`{POSTER_RANK}`](../var/POSTER_RANK.md#readme)__ __:__ ligne [`13`](../src/modernbb/rpg_sheet_edit.tpl#L13)
+* __[`{RPG_IMAGE}`](../var/RPG_IMAGE.md#readme)__ __:__ ligne [`13`](../src/modernbb/rpg_sheet_edit.tpl#L13)
+* __[`{UCP_TABS}`](../var/UCP_TABS.md#readme)__ __:__ ligne [`2`](../src/modernbb/rpg_sheet_edit.tpl#L2)
+* __[`{U_ADMIN_RPG}`](../var/U_ADMIN_RPG.md#readme)__ __:__ ligne [`16`](../src/modernbb/rpg_sheet_edit.tpl#L16)
+* __[`{U_ID}`](../var/U_ID.md#readme)__ __:__ ligne [`64`](../src/modernbb/rpg_sheet_edit.tpl#L64)
+* __[`<!-- BEGIN rpg_fields -->`](../var/rpg_fields.md#readme)__ __:__ ligne [`49`](../src/modernbb/rpg_sheet_edit.tpl#L49)
+* __[`<!-- END rpg_fields -->`](../var/rpg_fields.md#readme)__ __:__ ligne [`56`](../src/modernbb/rpg_sheet_edit.tpl#L56)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_NAME}`](../var/rpg_fields.F_NAME.md#readme)__ __:__ ligne [`52`](../src/modernbb/rpg_sheet_edit.tpl#L52)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_VALUE_NEW}`](../var/rpg_fields.F_VALUE_NEW.md#readme)__ __:__ ligne [`53`](../src/modernbb/rpg_sheet_edit.tpl#L53)
+* __[`<!-- BEGIN rpg_fields_left -->`](../var/rpg_fields_left.md#readme)__ __:__ ligne [`37`](../src/modernbb/rpg_sheet_edit.tpl#L37)
+* __[`<!-- END rpg_fields_left -->`](../var/rpg_fields_left.md#readme)__ __:__ ligne [`42`](../src/modernbb/rpg_sheet_edit.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_NAME}`](../var/rpg_fields_left.F_NAME.md#readme)__ __:__ ligne [`39`](../src/modernbb/rpg_sheet_edit.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_VALUE_NEW}`](../var/rpg_fields_left.F_VALUE_NEW.md#readme)__ __:__ ligne [`40`](../src/modernbb/rpg_sheet_edit.tpl#L40)
+* __[`<!-- BEGIN switch_menu -->`](../var/switch_menu.md#readme)__ __:__ ligne [`1`](../src/modernbb/rpg_sheet_edit.tpl#L1)
+* __[`<!-- END switch_menu -->`](../var/switch_menu.md#readme)__ __:__ ligne [`3`](../src/modernbb/rpg_sheet_edit.tpl#L3)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/rpg_sheet_edit.tpl#files)
@@ -173,9 +203,3 @@
 * __[`<!-- END rpg_fields_left -->`](../var/rpg_fields_left.md#readme)__ __:__ ligne [`35`](../src/invision/rpg_sheet_edit.tpl#L35)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_NAME}`](../var/rpg_fields_left.F_NAME.md#readme)__ __:__ ligne [`32`](../src/invision/rpg_sheet_edit.tpl#L32)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_VALUE_NEW}`](../var/rpg_fields_left.F_VALUE_NEW.md#readme)__ __:__ ligne [`33`](../src/invision/rpg_sheet_edit.tpl#L33)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/rpg_sheet_edit.tpl#files)
-
-### Positions des variables

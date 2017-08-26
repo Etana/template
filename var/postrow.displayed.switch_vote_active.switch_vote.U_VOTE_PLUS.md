@@ -26,6 +26,9 @@
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`160`](../src/subsilver/viewtopic_body.tpl#L160)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`191`](../src/modernbb/viewtopic_body.tpl#L191)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`162`](../src/punbb/viewtopic_body.tpl#L162)
 

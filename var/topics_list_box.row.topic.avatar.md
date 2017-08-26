@@ -30,6 +30,9 @@
 ### Version phpBB2
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`76`](../src/subsilver/topics_list_box.tpl#L76)[`<->`](../src/subsilver/topics_list_box.tpl#L76-L79)[`79`](../src/subsilver/topics_list_box.tpl#L79)
 
+### Version ModernBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`120`](../src/modernbb/topics_list_box.tpl#L120)[`<->`](../src/modernbb/topics_list_box.tpl#L120-L122)[`122`](../src/modernbb/topics_list_box.tpl#L122)
+
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`95`](../src/punbb/topics_list_box.tpl#L95)[`<->`](../src/punbb/topics_list_box.tpl#L95-L97)[`97`](../src/punbb/topics_list_box.tpl#L97)
 

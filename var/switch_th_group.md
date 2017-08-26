@@ -23,6 +23,9 @@ Boucle affichant le titre de la colonne des groupes dans la liste des membres si
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`26`](../src/subsilver/memberlist_body.tpl#L26)[`<->`](../src/subsilver/memberlist_body.tpl#L26-L28)[`28`](../src/subsilver/memberlist_body.tpl#L28)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`24`](../src/modernbb/memberlist_body.tpl#L24)[`<->`](../src/modernbb/memberlist_body.tpl#L24-L26)[`26`](../src/modernbb/memberlist_body.tpl#L26)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`64`](../src/punbb/memberlist_body.tpl#L64)[`<->`](../src/punbb/memberlist_body.tpl#L64-L66)[`66`](../src/punbb/memberlist_body.tpl#L66)
 

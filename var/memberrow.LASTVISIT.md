@@ -20,6 +20,9 @@ Contient la dernière visite du membre.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`46`](../src/subsilver/memberlist_body.tpl#L46)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`45`](../src/modernbb/memberlist_body.tpl#L45)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`85`](../src/punbb/memberlist_body.tpl#L85)
 

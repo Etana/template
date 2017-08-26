@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`17`](../src/subsilver/merge_body.tpl#L17)
 
+### Version ModernBB
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`11`](../src/modernbb/merge_body.tpl#L11)
+
 ### Version PunBB
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`32`](../src/punbb/merge_body.tpl#L32)
 

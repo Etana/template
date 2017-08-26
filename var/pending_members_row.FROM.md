@@ -20,6 +20,9 @@ Valeur du champ [`Localisation`](http://votre-forum.appspot.com/admin/?action=co
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`19`](../src/subsilver/groupcp_pending_info.tpl#L19)
 
+### Version ModernBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`24`](../src/modernbb/groupcp_pending_info.tpl#L24)
+
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`25`](../src/punbb/groupcp_pending_info.tpl#L25)
 

@@ -20,6 +20,10 @@ Lien vers "Voir ses messages" dans le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`19`](../src/subsilver/viewforum_body.tpl#L19)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`86`](../src/subsilver/viewtopic_body.tpl#L86)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`39`](../src/modernbb/viewforum_body.tpl#L39)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`86`](../src/modernbb/viewtopic_body.tpl#L86)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`8`](../src/punbb/viewforum_body.tpl#L8)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`48`](../src/punbb/viewtopic_body.tpl#L48)

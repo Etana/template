@@ -22,6 +22,9 @@ Contient le script de Facebook Connect si celui-ci est activé dans `PA > Module
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`33`](../src/subsilver/overall_header.tpl#L33)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`33`](../src/modernbb/overall_header.tpl#L33)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`33`](../src/punbb/overall_header.tpl#L33)
 

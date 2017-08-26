@@ -22,6 +22,11 @@
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`142`](../src/subsilver/posting_body.tpl#L142)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`36`](../src/subsilver/profile_send_email.tpl#L36)
 
+### Version ModernBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`13`](../src/modernbb/modcp_viewip.tpl#L13)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`103`](../src/modernbb/posting_body.tpl#L103)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`34`](../src/modernbb/profile_send_email.tpl#L34)
+
 ### Version PunBB
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`31`](../src/punbb/modcp_viewip.tpl#L31)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`130`](../src/punbb/posting_body.tpl#L130)

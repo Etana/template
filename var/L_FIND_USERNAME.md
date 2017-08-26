@@ -25,6 +25,11 @@ Chaîne de texte.
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`112`](../src/subsilver/posting_body.tpl#L112)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`113`](../src/modernbb/groupcp_info_body.tpl#L113)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`69`](../src/modernbb/posting_body.tpl#L69)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`135`](../src/punbb/groupcp_info_body.tpl#L135)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

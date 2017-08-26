@@ -35,6 +35,11 @@ Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Ad
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`11`](../src/subsilver/mod_whoisonline.tpl#L11)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`38`](../src/subsilver/viewforum_body.tpl#L38), [`67`](../src/subsilver/viewforum_body.tpl#L67)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`53`](../src/modernbb/index_body.tpl#L53)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_whoisonline.tpl#L4)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`73`](../src/modernbb/viewforum_body.tpl#L73)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`84`](../src/punbb/index_body.tpl#L84)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_whoisonline.tpl#L5)

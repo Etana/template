@@ -24,6 +24,12 @@ Contient une valeur vide utile pour le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`22`](../src/subsilver/viewforum_body.tpl#L22)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/subsilver/viewtopic_body.tpl#L89)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`20`](../src/modernbb/album_cat_body.tpl#L20)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`220`](../src/modernbb/album_showpage_body.tpl#L220)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`42`](../src/modernbb/viewforum_body.tpl#L42)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/modernbb/viewtopic_body.tpl#L89)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`58`](../src/punbb/album_cat_body.tpl#L58)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`238`](../src/punbb/album_showpage_body.tpl#L238)

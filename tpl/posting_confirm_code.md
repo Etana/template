@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `posting_confirm_code`
@@ -137,6 +137,50 @@
 * __[`{V_TOPIC_ICON}`](../var/V_TOPIC_ICON.md#readme)__ __:__ ligne [`18`](../src/subsilver/posting_confirm_code.tpl#L18)
 * __[`{V_TYPE_FORUM}`](../var/V_TYPE_FORUM.md#readme)__ __:__ ligne [`22`](../src/subsilver/posting_confirm_code.tpl#L22)
 * __[`{V_USERNAME}`](../var/V_USERNAME.md#readme)__ __:__ ligne [`15`](../src/subsilver/posting_confirm_code.tpl#L15)
+
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/posting_confirm_code.tpl#files)
+
+### Positions des variables
+
+* __[`{F_TYPE_FORUM}`](../var/F_TYPE_FORUM.md#readme)__ __:__ ligne [`22`](../src/modernbb/posting_confirm_code.tpl#L22)
+* __[`{HASH_FUNCAPTCHA}`](../var/HASH_FUNCAPTCHA.md#readme)__ __:__ ligne [`5`](../src/modernbb/posting_confirm_code.tpl#L5)
+* __[`{HASH_FUNCAPTCHA}`](../var/HASH_FUNCAPTCHA.md#readme)__ __:__ ligne [`7`](../src/modernbb/posting_confirm_code.tpl#L7)
+* __[`{L_ERROR_MSG}`](../var/L_ERROR_MSG.md#readme)__ __:__ ligne [`1`](../src/modernbb/posting_confirm_code.tpl#L1)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)__ __:__ ligne [`12`](../src/modernbb/posting_confirm_code.tpl#L12)
+* __[`{L_VALIDATION}`](../var/L_VALIDATION.md#readme)__ __:__ ligne [`3`](../src/modernbb/posting_confirm_code.tpl#L3)
+* __[`{L_VALIDATION_EXPLAIN}`](../var/L_VALIDATION_EXPLAIN.md#readme)__ __:__ ligne [`3`](../src/modernbb/posting_confirm_code.tpl#L3)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`44`](../src/modernbb/posting_confirm_code.tpl#L44)
+* __[`{USERLANG}`](../var/USERLANG.md#readme)__ __:__ ligne [`7`](../src/modernbb/posting_confirm_code.tpl#L7)
+* __[`{U_POSTING}`](../var/U_POSTING.md#readme)__ __:__ ligne [`2`](../src/modernbb/posting_confirm_code.tpl#L2)
+* __[`{V_CALENDAR_D}`](../var/V_CALENDAR_D.md#readme)__ __:__ ligne [`37`](../src/modernbb/posting_confirm_code.tpl#L37)
+* __[`{V_CALENDAR_DAY}`](../var/V_CALENDAR_DAY.md#readme)__ __:__ ligne [`28`](../src/modernbb/posting_confirm_code.tpl#L28)
+* __[`{V_CALENDAR_EVENT}`](../var/V_CALENDAR_EVENT.md#readme)__ __:__ ligne [`36`](../src/modernbb/posting_confirm_code.tpl#L36)
+* __[`{V_CALENDAR_HOUR}`](../var/V_CALENDAR_HOUR.md#readme)__ __:__ ligne [`31`](../src/modernbb/posting_confirm_code.tpl#L31)
+* __[`{V_CALENDAR_MIN}`](../var/V_CALENDAR_MIN.md#readme)__ __:__ ligne [`32`](../src/modernbb/posting_confirm_code.tpl#L32)
+* __[`{V_CALENDAR_MONTH}`](../var/V_CALENDAR_MONTH.md#readme)__ __:__ ligne [`29`](../src/modernbb/posting_confirm_code.tpl#L29)
+* __[`{V_CALENDAR_YEAR}`](../var/V_CALENDAR_YEAR.md#readme)__ __:__ ligne [`30`](../src/modernbb/posting_confirm_code.tpl#L30)
+* __[`{V_CALE_DUR_MIN}`](../var/V_CALE_DUR_MIN.md#readme)__ __:__ ligne [`35`](../src/modernbb/posting_confirm_code.tpl#L35)
+* __[`{V_CAL_DUR_DAY}`](../var/V_CAL_DUR_DAY.md#readme)__ __:__ ligne [`33`](../src/modernbb/posting_confirm_code.tpl#L33)
+* __[`{V_CAL_DUR_HOUR}`](../var/V_CAL_DUR_HOUR.md#readme)__ __:__ ligne [`34`](../src/modernbb/posting_confirm_code.tpl#L34)
+* __[`{V_DESCRIPTION}`](../var/V_DESCRIPTION.md#readme)__ __:__ ligne [`17`](../src/modernbb/posting_confirm_code.tpl#L17)
+* __[`{V_DISABLE_BBCODE}`](../var/V_DISABLE_BBCODE.md#readme)__ __:__ ligne [`23`](../src/modernbb/posting_confirm_code.tpl#L23)
+* __[`{V_DISABLE_HTML}`](../var/V_DISABLE_HTML.md#readme)__ __:__ ligne [`25`](../src/modernbb/posting_confirm_code.tpl#L25)
+* __[`{V_DISABLE_SMILIES}`](../var/V_DISABLE_SMILIES.md#readme)__ __:__ ligne [`24`](../src/modernbb/posting_confirm_code.tpl#L24)
+* __[`{V_MESSAGE}`](../var/V_MESSAGE.md#readme)__ __:__ ligne [`19`](../src/modernbb/posting_confirm_code.tpl#L19)
+* __[`{V_MODE}`](../var/V_MODE.md#readme)__ __:__ ligne [`20`](../src/modernbb/posting_confirm_code.tpl#L20)
+* __[`{V_POLL_CANCEL}`](../var/V_POLL_CANCEL.md#readme)__ __:__ ligne [`42`](../src/modernbb/posting_confirm_code.tpl#L42)
+* __[`{V_POLL_LENGTH}`](../var/V_POLL_LENGTH.md#readme)__ __:__ ligne [`40`](../src/modernbb/posting_confirm_code.tpl#L40)
+* __[`{V_POLL_MULTIPLE}`](../var/V_POLL_MULTIPLE.md#readme)__ __:__ ligne [`41`](../src/modernbb/posting_confirm_code.tpl#L41)
+* __[`{V_POLL_OPTIONS}`](../var/V_POLL_OPTIONS.md#readme)__ __:__ ligne [`39`](../src/modernbb/posting_confirm_code.tpl#L39)
+* __[`{V_POLL_TITLE}`](../var/V_POLL_TITLE.md#readme)__ __:__ ligne [`38`](../src/modernbb/posting_confirm_code.tpl#L38)
+* __[`{V_SUBJECT}`](../var/V_SUBJECT.md#readme)__ __:__ ligne [`16`](../src/modernbb/posting_confirm_code.tpl#L16)
+* __[`{V_SUBMIT}`](../var/V_SUBMIT.md#readme)__ __:__ ligne [`12`](../src/modernbb/posting_confirm_code.tpl#L12)
+* __[`{V_TOPICTYPE}`](../var/V_TOPICTYPE.md#readme)__ __:__ ligne [`26`](../src/modernbb/posting_confirm_code.tpl#L26)
+* __[`{V_TOPIC_ICON}`](../var/V_TOPIC_ICON.md#readme)__ __:__ ligne [`18`](../src/modernbb/posting_confirm_code.tpl#L18)
+* __[`{V_TYPE_FORUM}`](../var/V_TYPE_FORUM.md#readme)__ __:__ ligne [`22`](../src/modernbb/posting_confirm_code.tpl#L22)
+* __[`{V_USERNAME}`](../var/V_USERNAME.md#readme)__ __:__ ligne [`15`](../src/modernbb/posting_confirm_code.tpl#L15)
 
 ## Template par défaut PunBB
 

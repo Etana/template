@@ -20,6 +20,10 @@ Lien vers "Voir les messages sans réponses" dans le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`20`](../src/subsilver/viewforum_body.tpl#L20)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`87`](../src/subsilver/viewtopic_body.tpl#L87)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`40`](../src/modernbb/viewforum_body.tpl#L40)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`87`](../src/modernbb/viewtopic_body.tpl#L87)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`9`](../src/punbb/viewforum_body.tpl#L9)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`49`](../src/punbb/viewtopic_body.tpl#L49)

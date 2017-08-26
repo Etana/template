@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_login`
@@ -162,6 +162,69 @@
 * __[`<!-- BEGIN switch_profile -->`](../var/switch_profile.md#readme)__ __:__ ligne [`101`](../src/subsilver/mod_login.tpl#L101)
 * __[`<!-- END switch_profile -->`](../var/switch_profile.md#readme)__ __:__ ligne [`125`](../src/subsilver/mod_login.tpl#L125)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mod_login.tpl#files)
+
+### Positions des variables
+
+* __[`{AUTOLOGIN_CHECKED}`](../var/AUTOLOGIN_CHECKED.md#readme)__ __:__ ligne [`10`](../src/modernbb/mod_login.tpl#L10)
+* __[`{AUTOLOGIN_CHECKED}`](../var/AUTOLOGIN_CHECKED.md#readme)__ __:__ ligne [`34`](../src/modernbb/mod_login.tpl#L34)
+* __[`{L_AUTO_LOGIN}`](../var/L_AUTO_LOGIN.md#readme)__ __:__ ligne [`10`](../src/modernbb/mod_login.tpl#L10)
+* __[`{L_AUTO_LOGIN}`](../var/L_AUTO_LOGIN.md#readme)__ __:__ ligne [`34`](../src/modernbb/mod_login.tpl#L34)
+* __[`{L_LOGIN}`](../var/L_LOGIN.md#readme)__ __:__ ligne [`3`](../src/modernbb/mod_login.tpl#L3)
+* __[`{L_LOGIN}`](../var/L_LOGIN.md#readme)__ __:__ ligne [`11`](../src/modernbb/mod_login.tpl#L11)
+* __[`{L_LOGIN}`](../var/L_LOGIN.md#readme)__ __:__ ligne [`29`](../src/modernbb/mod_login.tpl#L29)
+* __[`{L_LOGIN}`](../var/L_LOGIN.md#readme)__ __:__ ligne [`35`](../src/modernbb/mod_login.tpl#L35)
+* __[`{L_MESSAGES}`](../var/L_MESSAGES.md#readme)__ __:__ ligne [`56`](../src/modernbb/mod_login.tpl#L56)
+* __[`{L_MESSAGES}`](../var/L_MESSAGES.md#readme)__ __:__ ligne [`70`](../src/modernbb/mod_login.tpl#L70)
+* __[`{L_MY_PROFILE}`](../var/L_MY_PROFILE.md#readme)__ __:__ ligne [`61`](../src/modernbb/mod_login.tpl#L61)
+* __[`{L_MY_PROFILE}`](../var/L_MY_PROFILE.md#readme)__ __:__ ligne [`75`](../src/modernbb/mod_login.tpl#L75)
+* __[`{L_PASSWORD}`](../var/L_PASSWORD.md#readme)__ __:__ ligne [`8`](../src/modernbb/mod_login.tpl#L8)
+* __[`{L_PASSWORD}`](../var/L_PASSWORD.md#readme)__ __:__ ligne [`32`](../src/modernbb/mod_login.tpl#L32)
+* __[`{L_PM}`](../var/L_PM.md#readme)__ __:__ ligne [`58`](../src/modernbb/mod_login.tpl#L58)
+* __[`{L_PM}`](../var/L_PM.md#readme)__ __:__ ligne [`72`](../src/modernbb/mod_login.tpl#L72)
+* __[`{L_SEND_PASSWORD}`](../var/L_SEND_PASSWORD.md#readme)__ __:__ ligne [`9`](../src/modernbb/mod_login.tpl#L9)
+* __[`{L_SEND_PASSWORD}`](../var/L_SEND_PASSWORD.md#readme)__ __:__ ligne [`33`](../src/modernbb/mod_login.tpl#L33)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_login.tpl#L7)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`31`](../src/modernbb/mod_login.tpl#L31)
+* __[`{NB_MESSAGES}`](../var/NB_MESSAGES.md#readme)__ __:__ ligne [`57`](../src/modernbb/mod_login.tpl#L57)
+* __[`{NB_MESSAGES}`](../var/NB_MESSAGES.md#readme)__ __:__ ligne [`71`](../src/modernbb/mod_login.tpl#L71)
+* __[`{NB_PM_READ}`](../var/NB_PM_READ.md#readme)__ __:__ ligne [`59`](../src/modernbb/mod_login.tpl#L59)
+* __[`{NB_PM_READ}`](../var/NB_PM_READ.md#readme)__ __:__ ligne [`73`](../src/modernbb/mod_login.tpl#L73)
+* __[`{NB_PM_UNREAD}`](../var/NB_PM_UNREAD.md#readme)__ __:__ ligne [`59`](../src/modernbb/mod_login.tpl#L59)
+* __[`{NB_PM_UNREAD}`](../var/NB_PM_UNREAD.md#readme)__ __:__ ligne [`73`](../src/modernbb/mod_login.tpl#L73)
+* __[`{S_LOGIN_ACTION}`](../var/S_LOGIN_ACTION.md#readme)__ __:__ ligne [`4`](../src/modernbb/mod_login.tpl#L4)
+* __[`{S_LOGIN_ACTION}`](../var/S_LOGIN_ACTION.md#readme)__ __:__ ligne [`30`](../src/modernbb/mod_login.tpl#L30)
+* __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_login.tpl#L7)
+* __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`31`](../src/modernbb/mod_login.tpl#L31)
+* __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`51`](../src/modernbb/mod_login.tpl#L51)
+* __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`65`](../src/modernbb/mod_login.tpl#L65)
+* __[`{USERNAME_AVATAR}`](../var/USERNAME_AVATAR.md#readme)__ __:__ ligne [`53`](../src/modernbb/mod_login.tpl#L53)
+* __[`{USERNAME_AVATAR}`](../var/USERNAME_AVATAR.md#readme)__ __:__ ligne [`67`](../src/modernbb/mod_login.tpl#L67)
+* __[`{U_PROFILE}`](../var/U_PROFILE.md#readme)__ __:__ ligne [`61`](../src/modernbb/mod_login.tpl#L61)
+* __[`{U_PROFILE}`](../var/U_PROFILE.md#readme)__ __:__ ligne [`75`](../src/modernbb/mod_login.tpl#L75)
+* __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme)__ __:__ ligne [`9`](../src/modernbb/mod_login.tpl#L9)
+* __[`{U_SEND_PASSWORD}`](../var/U_SEND_PASSWORD.md#readme)__ __:__ ligne [`33`](../src/modernbb/mod_login.tpl#L33)
+* __[`<!-- BEGIN switch_login -->`](../var/switch_login.md#readme)__ __:__ ligne [`2`](../src/modernbb/mod_login.tpl#L2)
+* __[`<!-- END switch_login -->`](../var/switch_login.md#readme)__ __:__ ligne [`26`](../src/modernbb/mod_login.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_social_login -->`](../var/switch_login.switch_social_login.md#readme)__ __:__ ligne [`12`](../src/modernbb/mod_login.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_social_login -->`](../var/switch_login.switch_social_login.md#readme)__ __:__ ligne [`23`](../src/modernbb/mod_login.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_login.switch_social_login.L_OR}`](../var/switch_login.switch_social_login.L_OR.md#readme)__ __:__ ligne [`14`](../src/modernbb/mod_login.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN fb_connect -->`](../var/switch_login.switch_social_login.fb_connect.md#readme)__ __:__ ligne [`18`](../src/modernbb/mod_login.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END fb_connect -->`](../var/switch_login.switch_social_login.fb_connect.md#readme)__ __:__ ligne [`20`](../src/modernbb/mod_login.tpl#L20)
+* __[`<!-- BEGIN switch_login_small -->`](../var/switch_login_small.md#readme)__ __:__ ligne [`28`](../src/modernbb/mod_login.tpl#L28)
+* __[`<!-- END switch_login_small -->`](../var/switch_login_small.md#readme)__ __:__ ligne [`47`](../src/modernbb/mod_login.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_social_login -->`](../var/switch_login_small.switch_social_login.md#readme)__ __:__ ligne [`36`](../src/modernbb/mod_login.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_social_login -->`](../var/switch_login_small.switch_social_login.md#readme)__ __:__ ligne [`45`](../src/modernbb/mod_login.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_login_small.switch_social_login.L_OR}`](../var/switch_login_small.switch_social_login.L_OR.md#readme)__ __:__ ligne [`38`](../src/modernbb/mod_login.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN fb_connect -->`](../var/switch_login_small.switch_social_login.fb_connect.md#readme)__ __:__ ligne [`40`](../src/modernbb/mod_login.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END fb_connect -->`](../var/switch_login_small.switch_social_login.fb_connect.md#readme)__ __:__ ligne [`42`](../src/modernbb/mod_login.tpl#L42)
+* __[`<!-- BEGIN switch_profile -->`](../var/switch_profile.md#readme)__ __:__ ligne [`64`](../src/modernbb/mod_login.tpl#L64)
+* __[`<!-- END switch_profile -->`](../var/switch_profile.md#readme)__ __:__ ligne [`76`](../src/modernbb/mod_login.tpl#L76)
+* __[`<!-- BEGIN switch_profile_old -->`](../var/switch_profile_old.md#readme)__ __:__ ligne [`50`](../src/modernbb/mod_login.tpl#L50)
+* __[`<!-- END switch_profile_old -->`](../var/switch_profile_old.md#readme)__ __:__ ligne [`62`](../src/modernbb/mod_login.tpl#L62)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_login.tpl#files)
@@ -265,9 +328,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END fb_connect -->`](../var/switch_login_small.switch_social_login.fb_connect.md#readme)__ __:__ ligne [`62`](../src/invision/mod_login.tpl#L62)
 * __[`<!-- BEGIN switch_profile -->`](../var/switch_profile.md#readme)__ __:__ ligne [`71`](../src/invision/mod_login.tpl#L71)
 * __[`<!-- END switch_profile -->`](../var/switch_profile.md#readme)__ __:__ ligne [`85`](../src/invision/mod_login.tpl#L85)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mod_login.tpl#files)
-
-### Positions des variables

@@ -19,6 +19,9 @@ Fourni une URL directe vers le message (lien du message + ancre du message préc
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`138`](../src/prosilver/viewtopic_body.tpl#L138)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`184`](../src/modernbb/viewtopic_body.tpl#L184)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`135`](../src/punbb/viewtopic_body.tpl#L135)
 

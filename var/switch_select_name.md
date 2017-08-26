@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`14`](../src/subsilver/search_username.tpl#L14)[`<->`](../src/subsilver/search_username.tpl#L14-L19)[`19`](../src/subsilver/search_username.tpl#L19)
 
+### Version ModernBB
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`17`](../src/modernbb/search_username.tpl#L17)[`<->`](../src/modernbb/search_username.tpl#L17-L22)[`22`](../src/modernbb/search_username.tpl#L22)
+
 ### Version PunBB
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`18`](../src/punbb/search_username.tpl#L18)[`<->`](../src/punbb/search_username.tpl#L18-L25)[`25`](../src/punbb/search_username.tpl#L25)
 

@@ -26,6 +26,9 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`60`](../src/subsilver/index_box.tpl#L60)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`47`](../src/modernbb/index_box.tpl#L47)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`34`](../src/punbb/index_box.tpl#L34)
 

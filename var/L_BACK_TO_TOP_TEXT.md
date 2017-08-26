@@ -15,6 +15,9 @@
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`28`](../src/prosilver/faq_body.tpl#L28)
 
+### Version ModernBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`22`](../src/modernbb/faq_body.tpl#L22)
+
 ### Version PunBB
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`43`](../src/punbb/faq_body.tpl#L43)
 

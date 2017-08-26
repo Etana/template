@@ -22,6 +22,11 @@
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`46`](../src/subsilver/calendar_scheduler_body.tpl#L46), [`46`](../src/subsilver/calendar_scheduler_body.tpl#L46), [`46`](../src/subsilver/calendar_scheduler_body.tpl#L46), [`46`](../src/subsilver/calendar_scheduler_body.tpl#L46)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`546`](../src/subsilver/posting_body.tpl#L546), [`555`](../src/subsilver/posting_body.tpl#L555)
 
+### Version ModernBB
+* __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`4`](../src/modernbb/calendar_body.tpl#L4), [`5`](../src/modernbb/calendar_body.tpl#L5)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`38`](../src/modernbb/calendar_scheduler_body.tpl#L38), [`38`](../src/modernbb/calendar_scheduler_body.tpl#L38)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`357`](../src/modernbb/posting_body.tpl#L357)
+
 ### Version PunBB
 * __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`16`](../src/punbb/calendar_body.tpl#L16)
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`52`](../src/punbb/calendar_scheduler_body.tpl#L52), [`52`](../src/punbb/calendar_scheduler_body.tpl#L52), [`52`](../src/punbb/calendar_scheduler_body.tpl#L52), [`52`](../src/punbb/calendar_scheduler_body.tpl#L52)

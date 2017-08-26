@@ -21,6 +21,9 @@ Chaîne de texte.
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`110`](../src/subsilver/privmsgs_body.tpl#L110)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`70`](../src/subsilver/search_results_topics.tpl#L70)
 
+### Version ModernBB
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`71`](../src/modernbb/privmsgs_body.tpl#L71)
+
 ### Version PunBB
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`82`](../src/punbb/privmsgs_body.tpl#L82)
 

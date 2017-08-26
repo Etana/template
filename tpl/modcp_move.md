@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_move`
@@ -75,6 +75,31 @@
 * __[`<!-- BEGIN switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme)__ __:__ ligne [`21`](../src/subsilver/modcp_move.tpl#L21)
 * __[`<!-- END switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme)__ __:__ ligne [`24`](../src/subsilver/modcp_move.tpl#L24)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/modcp_move.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/modcp_move.tpl#L2)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_move.tpl#L1)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`6`](../src/modernbb/modcp_move.tpl#L6)
+* __[`{L_LEAVESHADOW}`](../var/L_LEAVESHADOW.md#readme)__ __:__ ligne [`20`](../src/modernbb/modcp_move.tpl#L20)
+* __[`{L_MOVE_TO_FORUM}`](../var/L_MOVE_TO_FORUM.md#readme)__ __:__ ligne [`14`](../src/modernbb/modcp_move.tpl#L14)
+* __[`{L_NO}`](../var/L_NO.md#readme)__ __:__ ligne [`27`](../src/modernbb/modcp_move.tpl#L27)
+* __[`{L_YES}`](../var/L_YES.md#readme)__ __:__ ligne [`26`](../src/modernbb/modcp_move.tpl#L26)
+* __[`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme)__ __:__ ligne [`24`](../src/modernbb/modcp_move.tpl#L24)
+* __[`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme)__ __:__ ligne [`11`](../src/modernbb/modcp_move.tpl#L11)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`6`](../src/modernbb/modcp_move.tpl#L6)
+* __[`{S_FORUM_SELECT}`](../var/S_FORUM_SELECT.md#readme)__ __:__ ligne [`15`](../src/modernbb/modcp_move.tpl#L15)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`25`](../src/modernbb/modcp_move.tpl#L25)
+* __[`{S_MODCP_ACTION}`](../var/S_MODCP_ACTION.md#readme)__ __:__ ligne [`4`](../src/modernbb/modcp_move.tpl#L4)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`6`](../src/modernbb/modcp_move.tpl#L6)
+* __[`<!-- BEGIN switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme)__ __:__ ligne [`17`](../src/modernbb/modcp_move.tpl#L17)
+* __[`<!-- END switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme)__ __:__ ligne [`22`](../src/modernbb/modcp_move.tpl#L22)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_move.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_move.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/modcp_move.tpl#files)
@@ -130,9 +155,3 @@
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`2`](../src/invision/modcp_move.tpl#L2)
 * __[`<!-- BEGIN switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme)__ __:__ ligne [`17`](../src/invision/modcp_move.tpl#L17)
 * __[`<!-- END switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme)__ __:__ ligne [`22`](../src/invision/modcp_move.tpl#L22)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/modcp_move.tpl#files)
-
-### Positions des variables

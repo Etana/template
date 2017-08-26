@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `posting_poll_body`
@@ -178,6 +178,62 @@
 * __[`<!-- BEGIN switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme)__ __:__ ligne [`61`](../src/subsilver/posting_poll_body.tpl#L61)
 * __[`<!-- END switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme)__ __:__ ligne [`66`](../src/subsilver/posting_poll_body.tpl#L66)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/posting_poll_body.tpl#files)
+
+### Positions des variables
+
+* __[`{ADD_POLL_OPTION}`](../var/ADD_POLL_OPTION.md#readme)__ __:__ ligne [`38`](../src/modernbb/posting_poll_body.tpl#L38)
+* __[`{L_ADD_A_POLL}`](../var/L_ADD_A_POLL.md#readme)__ __:__ ligne [`1`](../src/modernbb/posting_poll_body.tpl#L1)
+* __[`{L_ADD_OPTION}`](../var/L_ADD_OPTION.md#readme)__ __:__ ligne [`39`](../src/modernbb/posting_poll_body.tpl#L39)
+* __[`{L_DAYS}`](../var/L_DAYS.md#readme)__ __:__ ligne [`47`](../src/modernbb/posting_poll_body.tpl#L47)
+* __[`{L_DELETE_OPTION}`](../var/L_DELETE_OPTION.md#readme)__ __:__ ligne [`24`](../src/modernbb/posting_poll_body.tpl#L24)
+* __[`{L_NO}`](../var/L_NO.md#readme)__ __:__ ligne [`55`](../src/modernbb/posting_poll_body.tpl#L55)
+* __[`{L_NO}`](../var/L_NO.md#readme)__ __:__ ligne [`63`](../src/modernbb/posting_poll_body.tpl#L63)
+* __[`{L_NO}`](../var/L_NO.md#readme)__ __:__ ligne [`72`](../src/modernbb/posting_poll_body.tpl#L72)
+* __[`{L_POLL_CANCEL_VOTE}`](../var/L_POLL_CANCEL_VOTE.md#readme)__ __:__ ligne [`60`](../src/modernbb/posting_poll_body.tpl#L60)
+* __[`{L_POLL_DELETE}`](../var/L_POLL_DELETE.md#readme)__ __:__ ligne [`79`](../src/modernbb/posting_poll_body.tpl#L79)
+* __[`{L_POLL_HIDE_RESULT}`](../var/L_POLL_HIDE_RESULT.md#readme)__ __:__ ligne [`69`](../src/modernbb/posting_poll_body.tpl#L69)
+* __[`{L_POLL_LENGTH}`](../var/L_POLL_LENGTH.md#readme)__ __:__ ligne [`44`](../src/modernbb/posting_poll_body.tpl#L44)
+* __[`{L_POLL_LENGTH_EXPLAIN}`](../var/L_POLL_LENGTH_EXPLAIN.md#readme)__ __:__ ligne [`48`](../src/modernbb/posting_poll_body.tpl#L48)
+* __[`{L_POLL_MULTIPLE}`](../var/L_POLL_MULTIPLE.md#readme)__ __:__ ligne [`52`](../src/modernbb/posting_poll_body.tpl#L52)
+* __[`{L_POLL_OPTION}`](../var/L_POLL_OPTION.md#readme)__ __:__ ligne [`12`](../src/modernbb/posting_poll_body.tpl#L12)
+* __[`{L_POLL_OPTION}`](../var/L_POLL_OPTION.md#readme)__ __:__ ligne [`21`](../src/modernbb/posting_poll_body.tpl#L21)
+* __[`{L_POLL_OPTION}`](../var/L_POLL_OPTION.md#readme)__ __:__ ligne [`30`](../src/modernbb/posting_poll_body.tpl#L30)
+* __[`{L_POLL_OPTION}`](../var/L_POLL_OPTION.md#readme)__ __:__ ligne [`36`](../src/modernbb/posting_poll_body.tpl#L36)
+* __[`{L_POLL_QUESTION}`](../var/L_POLL_QUESTION.md#readme)__ __:__ ligne [`6`](../src/modernbb/posting_poll_body.tpl#L6)
+* __[`{L_POLL_QUESTION_EXPLAIN}`](../var/L_POLL_QUESTION_EXPLAIN.md#readme)__ __:__ ligne [`13`](../src/modernbb/posting_poll_body.tpl#L13)
+* __[`{L_YES}`](../var/L_YES.md#readme)__ __:__ ligne [`54`](../src/modernbb/posting_poll_body.tpl#L54)
+* __[`{L_YES}`](../var/L_YES.md#readme)__ __:__ ligne [`62`](../src/modernbb/posting_poll_body.tpl#L62)
+* __[`{L_YES}`](../var/L_YES.md#readme)__ __:__ ligne [`71`](../src/modernbb/posting_poll_body.tpl#L71)
+* __[`{POLL_CANCEL_VOTE_AUTHORIZED_STATUS}`](../var/POLL_CANCEL_VOTE_AUTHORIZED_STATUS.md#readme)__ __:__ ligne [`62`](../src/modernbb/posting_poll_body.tpl#L62)
+* __[`{POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS}`](../var/POLL_CANCEL_VOTE_UNAUTHORIZED_STATUS.md#readme)__ __:__ ligne [`63`](../src/modernbb/posting_poll_body.tpl#L63)
+* __[`{POLL_HIDE_RESULT_CHECKED}`](../var/POLL_HIDE_RESULT_CHECKED.md#readme)__ __:__ ligne [`71`](../src/modernbb/posting_poll_body.tpl#L71)
+* __[`{POLL_HIDE_RESULT_UNCHECKED}`](../var/POLL_HIDE_RESULT_UNCHECKED.md#readme)__ __:__ ligne [`72`](../src/modernbb/posting_poll_body.tpl#L72)
+* __[`{POLL_LENGTH}`](../var/POLL_LENGTH.md#readme)__ __:__ ligne [`46`](../src/modernbb/posting_poll_body.tpl#L46)
+* __[`{POLL_MULTIPLE_CHECKED}`](../var/POLL_MULTIPLE_CHECKED.md#readme)__ __:__ ligne [`54`](../src/modernbb/posting_poll_body.tpl#L54)
+* __[`{POLL_MULTIPLE_UNCHECKED}`](../var/POLL_MULTIPLE_UNCHECKED.md#readme)__ __:__ ligne [`55`](../src/modernbb/posting_poll_body.tpl#L55)
+* __[`{POLL_OPTIONS}`](../var/POLL_OPTIONS.md#readme)__ __:__ ligne [`15`](../src/modernbb/posting_poll_body.tpl#L15)
+* __[`{POLL_OPTION_NUMBER}`](../var/POLL_OPTION_NUMBER.md#readme)__ __:__ ligne [`15`](../src/modernbb/posting_poll_body.tpl#L15)
+* __[`{POLL_TITLE}`](../var/POLL_TITLE.md#readme)__ __:__ ligne [`7`](../src/modernbb/posting_poll_body.tpl#L7)
+* __[`<!-- BEGIN poll_option_more -->`](../var/poll_option_more.md#readme)__ __:__ ligne [`34`](../src/modernbb/posting_poll_body.tpl#L34)
+* __[`<!-- END poll_option_more -->`](../var/poll_option_more.md#readme)__ __:__ ligne [`42`](../src/modernbb/posting_poll_body.tpl#L42)
+* __[`<!-- BEGIN poll_option_new -->`](../var/poll_option_new.md#readme)__ __:__ ligne [`28`](../src/modernbb/posting_poll_body.tpl#L28)
+* __[`<!-- END poll_option_new -->`](../var/poll_option_new.md#readme)__ __:__ ligne [`33`](../src/modernbb/posting_poll_body.tpl#L33)
+* __[`<!-- BEGIN poll_option_rows -->`](../var/poll_option_rows.md#readme)__ __:__ ligne [`19`](../src/modernbb/posting_poll_body.tpl#L19)
+* __[`<!-- END poll_option_rows -->`](../var/poll_option_rows.md#readme)__ __:__ ligne [`27`](../src/modernbb/posting_poll_body.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option_rows.POLL_OPTION}`](../var/poll_option_rows.POLL_OPTION.md#readme)__ __:__ ligne [`23`](../src/modernbb/posting_poll_body.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option_rows.S_POLL_OPTION_NUM}`](../var/poll_option_rows.S_POLL_OPTION_NUM.md#readme)__ __:__ ligne [`23`](../src/modernbb/posting_poll_body.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option_rows.S_POLL_OPTION_NUM}`](../var/poll_option_rows.S_POLL_OPTION_NUM.md#readme)__ __:__ ligne [`24`](../src/modernbb/posting_poll_body.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option_rows.S_POLL_OPTION_NUM_AFFICHE}`](../var/poll_option_rows.S_POLL_OPTION_NUM_AFFICHE.md#readme)__ __:__ ligne [`21`](../src/modernbb/posting_poll_body.tpl#L21)
+* __[`<!-- BEGIN poll_option_textarea -->`](../var/poll_option_textarea.md#readme)__ __:__ ligne [`9`](../src/modernbb/posting_poll_body.tpl#L9)
+* __[`<!-- END poll_option_textarea -->`](../var/poll_option_textarea.md#readme)__ __:__ ligne [`17`](../src/modernbb/posting_poll_body.tpl#L17)
+* __[`<!-- BEGIN switch_poll_delete_toggle -->`](../var/switch_poll_delete_toggle.md#readme)__ __:__ ligne [`77`](../src/modernbb/posting_poll_body.tpl#L77)
+* __[`<!-- END switch_poll_delete_toggle -->`](../var/switch_poll_delete_toggle.md#readme)__ __:__ ligne [`82`](../src/modernbb/posting_poll_body.tpl#L82)
+* __[`<!-- BEGIN switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme)__ __:__ ligne [`67`](../src/modernbb/posting_poll_body.tpl#L67)
+* __[`<!-- END switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme)__ __:__ ligne [`75`](../src/modernbb/posting_poll_body.tpl#L75)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/posting_poll_body.tpl#files)
@@ -291,9 +347,3 @@
 * __[`<!-- END switch_poll_delete_toggle -->`](../var/switch_poll_delete_toggle.md#readme)__ __:__ ligne [`90`](../src/invision/posting_poll_body.tpl#L90)
 * __[`<!-- BEGIN switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme)__ __:__ ligne [`75`](../src/invision/posting_poll_body.tpl#L75)
 * __[`<!-- END switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme)__ __:__ ligne [`83`](../src/invision/posting_poll_body.tpl#L83)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/posting_poll_body.tpl#files)
-
-### Positions des variables

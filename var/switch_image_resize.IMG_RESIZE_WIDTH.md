@@ -28,6 +28,13 @@ Contient la largeur du redimensionnement des images définie dans `PA > Généra
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`73`](../src/subsilver/search_results_posts.tpl#L73)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`474`](../src/subsilver/viewtopic_body.tpl#L474)
 
+### Version ModernBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`57`](../src/modernbb/mod_news.tpl#L57)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`414`](../src/modernbb/posting_body.tpl#L414)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`78`](../src/modernbb/privmsgs_read_body.tpl#L78)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`28`](../src/modernbb/search_results_posts.tpl#L28)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`382`](../src/modernbb/viewtopic_body.tpl#L382)
+
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`63`](../src/punbb/mod_news.tpl#L63)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`433`](../src/punbb/posting_body.tpl#L433)

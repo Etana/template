@@ -32,6 +32,9 @@ Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`124`](../src/subsilver/overall_header.tpl#L124)[`<->`](../src/subsilver/overall_header.tpl#L124-L127)[`127`](../src/subsilver/overall_header.tpl#L127)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`130`](../src/modernbb/overall_header.tpl#L130)[`<->`](../src/modernbb/overall_header.tpl#L130-L133)[`133`](../src/modernbb/overall_header.tpl#L133)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`129`](../src/punbb/overall_header.tpl#L129)[`<->`](../src/punbb/overall_header.tpl#L129-L132)[`132`](../src/punbb/overall_header.tpl#L132)
 

@@ -25,6 +25,10 @@ Boucle s'affichant si l'utilisateur a l'autorisation de créer un nouveau sujet 
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`5`](../src/subsilver/viewforum_body.tpl#L5)[`<->`](../src/subsilver/viewforum_body.tpl#L5-L7)[`7`](../src/subsilver/viewforum_body.tpl#L7)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`45`](../src/subsilver/viewtopic_body.tpl#L45)[`<->`](../src/subsilver/viewtopic_body.tpl#L45-L47)[`47`](../src/subsilver/viewtopic_body.tpl#L47), [`431`](../src/subsilver/viewtopic_body.tpl#L431)[`<->`](../src/subsilver/viewtopic_body.tpl#L431-L433)[`433`](../src/subsilver/viewtopic_body.tpl#L433)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`23`](../src/modernbb/viewforum_body.tpl#L23)[`<->`](../src/modernbb/viewforum_body.tpl#L23-L25)[`25`](../src/modernbb/viewforum_body.tpl#L25), [`59`](../src/modernbb/viewforum_body.tpl#L59)[`<->`](../src/modernbb/viewforum_body.tpl#L59-L61)[`61`](../src/modernbb/viewforum_body.tpl#L61)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`46`](../src/modernbb/viewtopic_body.tpl#L46)[`<->`](../src/modernbb/viewtopic_body.tpl#L46-L48)[`48`](../src/modernbb/viewtopic_body.tpl#L48), [`297`](../src/modernbb/viewtopic_body.tpl#L297)[`<->`](../src/modernbb/viewtopic_body.tpl#L297-L299)[`299`](../src/modernbb/viewtopic_body.tpl#L299)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`34`](../src/punbb/viewforum_body.tpl#L34)[`<->`](../src/punbb/viewforum_body.tpl#L34-L36)[`36`](../src/punbb/viewforum_body.tpl#L36), [`43`](../src/punbb/viewforum_body.tpl#L43)[`<->`](../src/punbb/viewforum_body.tpl#L43-L45)[`45`](../src/punbb/viewforum_body.tpl#L45)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`104`](../src/punbb/viewtopic_body.tpl#L104)[`<->`](../src/punbb/viewtopic_body.tpl#L104-L106)[`106`](../src/punbb/viewtopic_body.tpl#L106), [`283`](../src/punbb/viewtopic_body.tpl#L283)[`<->`](../src/punbb/viewtopic_body.tpl#L283-L285)[`285`](../src/punbb/viewtopic_body.tpl#L285)

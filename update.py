@@ -215,7 +215,7 @@ def var2links(var, types, prefix='../'):
     return links
 
 def sorting_version(ver):
-    return { 'subsilver': 1, 'prosilver': 0, 'punbb': 2, 'invision': 3, 'mobile': 4 }[ver]
+    return { 'subsilver': 1, 'prosilver': 0, 'modernbb': 2, 'punbb': 3, 'invision': 4, 'mobile': 5 }[ver]
 
 def guess_type(var_name):
     if re.match('^[A-Z_0-9]+$', var_name.split('.')[-1]):

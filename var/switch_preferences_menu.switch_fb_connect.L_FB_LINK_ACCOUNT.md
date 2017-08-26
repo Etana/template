@@ -22,6 +22,9 @@
 ### Version phpBB2
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`158`](../src/subsilver/profile_add_body.tpl#L158)
 
+### Version ModernBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`189`](../src/modernbb/profile_add_body.tpl#L189)
+
 ### Version PunBB
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`207`](../src/punbb/profile_add_body.tpl#L207)
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `report_view_body`
@@ -159,6 +159,60 @@
 * __[`<!-- BEGIN switch_report_archive -->`](../var/switch_report_archive.md#readme)__ __:__ ligne [`2`](../src/subsilver/report_view_body.tpl#L2)
 * __[`<!-- END switch_report_archive -->`](../var/switch_report_archive.md#readme)__ __:__ ligne [`4`](../src/subsilver/report_view_body.tpl#L4)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/report_view_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/report_view_body.tpl#L2)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/report_view_body.tpl#L1)
+* __[`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)__ __:__ ligne [`36`](../src/modernbb/report_view_body.tpl#L36)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`6`](../src/modernbb/report_view_body.tpl#L6)
+* __[`{L_LAST_EDIT}`](../var/L_LAST_EDIT.md#readme)__ __:__ ligne [`34`](../src/modernbb/report_view_body.tpl#L34)
+* __[`{L_POST}`](../var/L_POST.md#readme)__ __:__ ligne [`35`](../src/modernbb/report_view_body.tpl#L35)
+* __[`{L_REASON}`](../var/L_REASON.md#readme)__ __:__ ligne [`27`](../src/modernbb/report_view_body.tpl#L27)
+* __[`{L_REPORTER}`](../var/L_REPORTER.md#readme)__ __:__ ligne [`33`](../src/modernbb/report_view_body.tpl#L33)
+* __[`{L_REPORT_ARCHIVE}`](../var/L_REPORT_ARCHIVE.md#readme)__ __:__ ligne [`9`](../src/modernbb/report_view_body.tpl#L9)
+* __[`{L_REPORT_EDIT}`](../var/L_REPORT_EDIT.md#readme)__ __:__ ligne [`54`](../src/modernbb/report_view_body.tpl#L54)
+* __[`{L_REPORT_LIST}`](../var/L_REPORT_LIST.md#readme)__ __:__ ligne [`7`](../src/modernbb/report_view_body.tpl#L7)
+* __[`{L_REPORT_VIEW}`](../var/L_REPORT_VIEW.md#readme)__ __:__ ligne [`11`](../src/modernbb/report_view_body.tpl#L11)
+* __[`{L_REPORT_VIEW}`](../var/L_REPORT_VIEW.md#readme)__ __:__ ligne [`16`](../src/modernbb/report_view_body.tpl#L16)
+* __[`{L_STATUS}`](../var/L_STATUS.md#readme)__ __:__ ligne [`26`](../src/modernbb/report_view_body.tpl#L26)
+* __[`{L_UPDATE_STATUS}`](../var/L_UPDATE_STATUS.md#readme)__ __:__ ligne [`45`](../src/modernbb/report_view_body.tpl#L45)
+* __[`{REPORT_NAVARROW}`](../var/REPORT_NAVARROW.md#readme)__ __:__ ligne [`7`](../src/modernbb/report_view_body.tpl#L7)
+* __[`{REPORT_NAVARROW}`](../var/REPORT_NAVARROW.md#readme)__ __:__ ligne [`9`](../src/modernbb/report_view_body.tpl#L9)
+* __[`{REPORT_NAVARROW}`](../var/REPORT_NAVARROW.md#readme)__ __:__ ligne [`11`](../src/modernbb/report_view_body.tpl#L11)
+* __[`{S_ACTION}`](../var/S_ACTION.md#readme)__ __:__ ligne [`40`](../src/modernbb/report_view_body.tpl#L40)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`42`](../src/modernbb/report_view_body.tpl#L42)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`6`](../src/modernbb/report_view_body.tpl#L6)
+* __[`{U_REPORT_ARCHIVE}`](../var/U_REPORT_ARCHIVE.md#readme)__ __:__ ligne [`9`](../src/modernbb/report_view_body.tpl#L9)
+* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)__ __:__ ligne [`7`](../src/modernbb/report_view_body.tpl#L7)
+* __[`{U_REPORT_VIEW}`](../var/U_REPORT_VIEW.md#readme)__ __:__ ligne [`11`](../src/modernbb/report_view_body.tpl#L11)
+* __[`<!-- BEGIN row -->`](../var/row.md#readme)__ __:__ ligne [`15`](../src/modernbb/report_view_body.tpl#L15)
+* __[`<!-- END row -->`](../var/row.md#readme)__ __:__ ligne [`67`](../src/modernbb/report_view_body.tpl#L67)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.AUTHOR}`](../var/row.AUTHOR.md#readme)__ __:__ ligne [`36`](../src/modernbb/report_view_body.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.LAST_EDIT_TIME}`](../var/row.LAST_EDIT_TIME.md#readme)__ __:__ ligne [`34`](../src/modernbb/report_view_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.LAST_EDIT_USER}`](../var/row.LAST_EDIT_USER.md#readme)__ __:__ ligne [`34`](../src/modernbb/report_view_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.POST}`](../var/row.POST.md#readme)__ __:__ ligne [`35`](../src/modernbb/report_view_body.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REASON}`](../var/row.REASON.md#readme)__ __:__ ligne [`27`](../src/modernbb/report_view_body.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REPORTER}`](../var/row.REPORTER.md#readme)__ __:__ ligne [`33`](../src/modernbb/report_view_body.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REPORT_ID}`](../var/row.REPORT_ID.md#readme)__ __:__ ligne [`43`](../src/modernbb/report_view_body.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.STATUS}`](../var/row.STATUS.md#readme)__ __:__ ligne [`26`](../src/modernbb/report_view_body.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.STATUS_SELECT}`](../var/row.STATUS_SELECT.md#readme)__ __:__ ligne [`44`](../src/modernbb/report_view_body.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.TEXT}`](../var/row.TEXT.md#readme)__ __:__ ligne [`50`](../src/modernbb/report_view_body.tpl#L50)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.TIME}`](../var/row.TIME.md#readme)__ __:__ ligne [`33`](../src/modernbb/report_view_body.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.U_EDIT}`](../var/row.U_EDIT.md#readme)__ __:__ ligne [`54`](../src/modernbb/report_view_body.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.U_POST}`](../var/row.U_POST.md#readme)__ __:__ ligne [`35`](../src/modernbb/report_view_body.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_edit -->`](../var/row.switch_edit.md#readme)__ __:__ ligne [`53`](../src/modernbb/report_view_body.tpl#L53)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_edit -->`](../var/row.switch_edit.md#readme)__ __:__ ligne [`55`](../src/modernbb/report_view_body.tpl#L55)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_status -->`](../var/row.switch_status.md#readme)__ __:__ ligne [`39`](../src/modernbb/report_view_body.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_status -->`](../var/row.switch_status.md#readme)__ __:__ ligne [`48`](../src/modernbb/report_view_body.tpl#L48)
+* __[`<!-- BEGIN switch_report_archive -->`](../var/switch_report_archive.md#readme)__ __:__ ligne [`8`](../src/modernbb/report_view_body.tpl#L8)
+* __[`<!-- END switch_report_archive -->`](../var/switch_report_archive.md#readme)__ __:__ ligne [`10`](../src/modernbb/report_view_body.tpl#L10)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/report_view_body.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/report_view_body.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/report_view_body.tpl#files)
@@ -263,9 +317,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_edit -->`](../var/row.switch_edit.md#readme)__ __:__ ligne [`34`](../src/invision/report_view_body.tpl#L34)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_status -->`](../var/row.switch_status.md#readme)__ __:__ ligne [`35`](../src/invision/report_view_body.tpl#L35)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_status -->`](../var/row.switch_status.md#readme)__ __:__ ligne [`46`](../src/invision/report_view_body.tpl#L46)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/report_view_body.tpl#files)
-
-### Positions des variables

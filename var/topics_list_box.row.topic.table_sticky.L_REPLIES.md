@@ -23,6 +23,9 @@
 ### Version phpBB3
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`82`](../src/prosilver/topics_list_box.tpl#L82)
 
+### Version ModernBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`79`](../src/modernbb/topics_list_box.tpl#L79)
+
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`65`](../src/punbb/topics_list_box.tpl#L65)
 

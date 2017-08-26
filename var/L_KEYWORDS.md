@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`4`](../src/subsilver/mod_keywords.tpl#L4)
 
+### Version ModernBB
+* __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`2`](../src/modernbb/mod_keywords.tpl#L2)
+
 ### Version PunBB
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`2`](../src/punbb/mod_keywords.tpl#L2)
 

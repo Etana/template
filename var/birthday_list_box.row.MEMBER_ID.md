@@ -22,6 +22,9 @@
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`44`](../src/subsilver/birthday_list_box.tpl#L44)
 
+### Version ModernBB
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`38`](../src/modernbb/birthday_list_box.tpl#L38)
+
 ### Version PunBB
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`32`](../src/punbb/birthday_list_box.tpl#L32)
 

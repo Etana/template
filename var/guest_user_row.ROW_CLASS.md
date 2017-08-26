@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`47`](../src/subsilver/viewonline_body.tpl#L47), [`48`](../src/subsilver/viewonline_body.tpl#L48), [`49`](../src/subsilver/viewonline_body.tpl#L49)
 
+### Version ModernBB
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`38`](../src/modernbb/viewonline_body.tpl#L38)
+
 ### Version Invision
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`38`](../src/invision/viewonline_body.tpl#L38), [`39`](../src/invision/viewonline_body.tpl#L39), [`40`](../src/invision/viewonline_body.tpl#L40)
 

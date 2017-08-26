@@ -20,6 +20,10 @@
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/modcp_body.tpl#L1)
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`1`](../src/subsilver/modcp_move.tpl#L1)
 
+### Version ModernBB
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/modcp_body.tpl#L1)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`4`](../src/modernbb/modcp_move.tpl#L4)
+
 ### Version PunBB
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`23`](../src/punbb/modcp_body.tpl#L23)
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`23`](../src/punbb/modcp_move.tpl#L23)

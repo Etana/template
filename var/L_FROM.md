@@ -33,6 +33,12 @@ Chaîne de texte.
 * __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme)__ __:__ lignes [`6`](../src/subsilver/privmsgs_preview.tpl#L6)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`29`](../src/subsilver/privmsgs_read_body.tpl#L29)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`55`](../src/modernbb/groupcp_info_body.tpl#L55)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`9`](../src/modernbb/groupcp_pending_info.tpl#L9)
+* __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme)__ __:__ lignes [`6`](../src/modernbb/privmsgs_preview.tpl#L6)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`41`](../src/modernbb/privmsgs_read_body.tpl#L41)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`81`](../src/punbb/groupcp_info_body.tpl#L81)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`9`](../src/punbb/groupcp_pending_info.tpl#L9)

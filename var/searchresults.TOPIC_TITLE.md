@@ -22,6 +22,10 @@ Contient le titre du sujet dans lequel le message est posté.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`24`](../src/subsilver/search_results_posts.tpl#L24)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`9`](../src/modernbb/search_results_posts.tpl#L9), [`15`](../src/modernbb/search_results_posts.tpl#L15)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`38`](../src/modernbb/search_results_topics.tpl#L38)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`37`](../src/punbb/search_results_posts.tpl#L37), [`60`](../src/punbb/search_results_posts.tpl#L60)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`55`](../src/punbb/search_results_topics.tpl#L55)

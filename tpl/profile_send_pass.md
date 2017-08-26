@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `profile_send_pass`
@@ -66,6 +66,23 @@
 * __[`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme)__ __:__ ligne [`1`](../src/subsilver/profile_send_pass.tpl#L1)
 * __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`16`](../src/subsilver/profile_send_pass.tpl#L16)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`4`](../src/subsilver/profile_send_pass.tpl#L4)
+
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/profile_send_pass.tpl#files)
+
+### Positions des variables
+
+* __[`{EMAIL}`](../var/EMAIL.md#readme)__ __:__ ligne [`14`](../src/modernbb/profile_send_pass.tpl#L14)
+* __[`{L_EMAIL_ADDRESS}`](../var/L_EMAIL_ADDRESS.md#readme)__ __:__ ligne [`13`](../src/modernbb/profile_send_pass.tpl#L13)
+* __[`{L_ITEMS_REQUIRED}`](../var/L_ITEMS_REQUIRED.md#readme)__ __:__ ligne [`7`](../src/modernbb/profile_send_pass.tpl#L7)
+* __[`{L_RESET}`](../var/L_RESET.md#readme)__ __:__ ligne [`21`](../src/modernbb/profile_send_pass.tpl#L21)
+* __[`{L_SEND_PASSWORD}`](../var/L_SEND_PASSWORD.md#readme)__ __:__ ligne [`5`](../src/modernbb/profile_send_pass.tpl#L5)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)__ __:__ ligne [`20`](../src/modernbb/profile_send_pass.tpl#L20)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`9`](../src/modernbb/profile_send_pass.tpl#L9)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`19`](../src/modernbb/profile_send_pass.tpl#L19)
+* __[`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme)__ __:__ ligne [`1`](../src/modernbb/profile_send_pass.tpl#L1)
+* __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`10`](../src/modernbb/profile_send_pass.tpl#L10)
 
 ## Template par défaut PunBB
 

@@ -23,6 +23,12 @@
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`1`](../src/subsilver/profile_avatar_gallery.tpl#L1)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`1`](../src/subsilver/profile_send_pass.tpl#L1)
 
+### Version ModernBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`13`](../src/modernbb/profile_add_body.tpl#L13)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`4`](../src/modernbb/profile_avatar_gallery.tpl#L4)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`1`](../src/modernbb/profile_send_pass.tpl#L1)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`41`](../src/modernbb/profile_view_body.tpl#L41)
+
 ### Version PunBB
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`24`](../src/punbb/profile_add_body.tpl#L24)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`23`](../src/punbb/profile_avatar_gallery.tpl#L23)

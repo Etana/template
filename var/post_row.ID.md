@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_news.tpl#L10)
 
+### Version ModernBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`2`](../src/modernbb/mod_news.tpl#L2)
+
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`6`](../src/punbb/mod_news.tpl#L6)
 

@@ -18,6 +18,9 @@ Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analyti
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`186`](../src/subsilver/overall_header.tpl#L186)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`206`](../src/modernbb/overall_header.tpl#L206)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`191`](../src/punbb/overall_header.tpl#L191)
 

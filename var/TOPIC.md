@@ -29,6 +29,10 @@ contenu sur lequel on boucle
 * __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`8`](../src/subsilver/mod_most_active_topics.tpl#L8)[`<->`](../src/subsilver/mod_most_active_topics.tpl#L8-L12)[`12`](../src/subsilver/mod_most_active_topics.tpl#L12)
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`8`](../src/subsilver/mod_most_viewed_topics.tpl#L8)[`<->`](../src/subsilver/mod_most_viewed_topics.tpl#L8-L12)[`12`](../src/subsilver/mod_most_viewed_topics.tpl#L12)
 
+### Version ModernBB
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`5`](../src/modernbb/mod_most_active_topics.tpl#L5)[`<->`](../src/modernbb/mod_most_active_topics.tpl#L5-L9)[`9`](../src/modernbb/mod_most_active_topics.tpl#L9)
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`5`](../src/modernbb/mod_most_viewed_topics.tpl#L5)[`<->`](../src/modernbb/mod_most_viewed_topics.tpl#L5-L9)[`9`](../src/modernbb/mod_most_viewed_topics.tpl#L9)
+
 ### Version PunBB
 * __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_most_active_topics.tpl#L5)[`<->`](../src/punbb/mod_most_active_topics.tpl#L5-L9)[`9`](../src/punbb/mod_most_active_topics.tpl#L9)
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_most_viewed_topics.tpl#L5)[`<->`](../src/punbb/mod_most_viewed_topics.tpl#L5-L9)[`9`](../src/punbb/mod_most_viewed_topics.tpl#L9)

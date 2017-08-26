@@ -18,6 +18,9 @@ Affiche la chatbox sur la page d'accueil en bas si l'option dans `PA > Modules >
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`179`](../src/subsilver/index_body.tpl#L179)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`79`](../src/modernbb/index_body.tpl#L79)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`134`](../src/punbb/index_body.tpl#L134)
 

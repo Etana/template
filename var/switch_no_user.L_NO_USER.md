@@ -22,6 +22,9 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`54`](../src/subsilver/memberlist_body.tpl#L54)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`53`](../src/modernbb/memberlist_body.tpl#L53)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`93`](../src/punbb/memberlist_body.tpl#L93)
 

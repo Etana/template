@@ -30,6 +30,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`15`](../src/subsilver/buy_credits.tpl#L15)[`<->`](../src/subsilver/buy_credits.tpl#L15-L53)[`53`](../src/subsilver/buy_credits.tpl#L53)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`9`](../src/modernbb/buy_credits.tpl#L9)[`<->`](../src/modernbb/buy_credits.tpl#L9-L34)[`34`](../src/modernbb/buy_credits.tpl#L34)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`23`](../src/punbb/buy_credits.tpl#L23)[`<->`](../src/punbb/buy_credits.tpl#L23-L61)[`61`](../src/punbb/buy_credits.tpl#L61)
 

@@ -20,6 +20,9 @@ Nombre de message du membre sur lequel on boucle.
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`18`](../src/subsilver/groupcp_pending_info.tpl#L18)
 
+### Version ModernBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`23`](../src/modernbb/groupcp_pending_info.tpl#L23)
+
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`24`](../src/punbb/groupcp_pending_info.tpl#L24)
 

@@ -20,6 +20,9 @@ Chaîne de texte indiquant le nombre d'utilisateurs connectés sur la chatbox.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`164`](../src/subsilver/index_body.tpl#L164)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`74`](../src/modernbb/index_body.tpl#L74)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`97`](../src/punbb/index_body.tpl#L97)
 

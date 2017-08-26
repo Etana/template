@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`96`](../src/subsilver/album_nuffimage_box.tpl#L96)
 
+### Version ModernBB
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`86`](../src/modernbb/album_nuffimage_box.tpl#L86)
+
 ### Version PunBB
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`64`](../src/punbb/album_nuffimage_box.tpl#L64)
 

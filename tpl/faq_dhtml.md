@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `faq_dhtml`
@@ -90,6 +90,30 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`34`](../src/subsilver/faq_dhtml.tpl#L34)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`39`](../src/subsilver/faq_dhtml.tpl#L39)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/faq_dhtml.tpl#files)
+
+### Positions des variables
+
+* __[`{L_CFAQ_NOSCRIPT}`](../var/L_CFAQ_NOSCRIPT.md#readme)__ __:__ ligne [`5`](../src/modernbb/faq_dhtml.tpl#L5)
+* __[`{L_FAQ_TITLE}`](../var/L_FAQ_TITLE.md#readme)__ __:__ ligne [`10`](../src/modernbb/faq_dhtml.tpl#L10)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`27`](../src/modernbb/faq_dhtml.tpl#L27)
+* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`27`](../src/modernbb/faq_dhtml.tpl#L27)
+* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`26`](../src/modernbb/faq_dhtml.tpl#L26)
+* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`27`](../src/modernbb/faq_dhtml.tpl#L27)
+* __[`{U_CFAQ_JSLIB}`](../var/U_CFAQ_JSLIB.md#readme)__ __:__ ligne [`1`](../src/modernbb/faq_dhtml.tpl#L1)
+* __[`<!-- BEGIN faq_block -->`](../var/faq_block.md#readme)__ __:__ ligne [`11`](../src/modernbb/faq_dhtml.tpl#L11)
+* __[`<!-- END faq_block -->`](../var/faq_block.md#readme)__ __:__ ligne [`25`](../src/modernbb/faq_dhtml.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`](../var/faq_block.BLOCK_TITLE.md#readme)__ __:__ ligne [`15`](../src/modernbb/faq_dhtml.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`](../var/faq_block.faq_row.md#readme)__ __:__ ligne [`16`](../src/modernbb/faq_dhtml.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row -->`](../var/faq_block.faq_row.md#readme)__ __:__ ligne [`21`](../src/modernbb/faq_dhtml.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme)__ __:__ ligne [`20`](../src/modernbb/faq_dhtml.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)__ __:__ ligne [`18`](../src/modernbb/faq_dhtml.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`17`](../src/modernbb/faq_dhtml.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`18`](../src/modernbb/faq_dhtml.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`20`](../src/modernbb/faq_dhtml.tpl#L20)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/faq_dhtml.tpl#files)
@@ -147,9 +171,3 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`21`](../src/invision/faq_dhtml.tpl#L21)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`22`](../src/invision/faq_dhtml.tpl#L22)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`24`](../src/invision/faq_dhtml.tpl#L24)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/faq_dhtml.tpl#files)
-
-### Positions des variables

@@ -29,6 +29,13 @@ Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Util
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`34`](../src/subsilver/profile_send_email.tpl#L34)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`40`](../src/subsilver/search_results_posts.tpl#L40)
 
+### Version ModernBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`21`](../src/modernbb/greeting_popup.tpl#L21)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`12`](../src/modernbb/modcp_viewip.tpl#L12)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`101`](../src/modernbb/posting_body.tpl#L101)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`36`](../src/modernbb/privmsgs_body.tpl#L36)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`33`](../src/modernbb/profile_send_email.tpl#L33)
+
 ### Version PunBB
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`19`](../src/punbb/greeting_popup.tpl#L19)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`30`](../src/punbb/modcp_viewip.tpl#L30)

@@ -24,6 +24,9 @@
 ### Version phpBB2
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`43`](../src/subsilver/mod_recent_topics.tpl#L43)
 
+### Version ModernBB
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`48`](../src/modernbb/mod_recent_topics.tpl#L48)
+
 ### Version PunBB
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`35`](../src/punbb/mod_recent_topics.tpl#L35)
 

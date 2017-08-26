@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `viewonline_body`
@@ -141,6 +141,45 @@ Ce template affiche la page `/viewonline`
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_FORUM_LOCATION}`](../var/reg_user_row.U_FORUM_LOCATION.md#readme)__ __:__ ligne [`29`](../src/subsilver/viewonline_body.tpl#L29)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_USER_PROFILE}`](../var/reg_user_row.U_USER_PROFILE.md#readme)__ __:__ ligne [`27`](../src/subsilver/viewonline_body.tpl#L27)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/viewonline_body.tpl#files)
+
+### Positions des variables
+
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`51`](../src/modernbb/viewonline_body.tpl#L51)
+* __[`{L_FORUM_LOCATION}`](../var/L_FORUM_LOCATION.md#readme)__ __:__ ligne [`19`](../src/modernbb/viewonline_body.tpl#L19)
+* __[`{L_LAST_UPDATE}`](../var/L_LAST_UPDATE.md#readme)__ __:__ ligne [`18`](../src/modernbb/viewonline_body.tpl#L18)
+* __[`{L_ONLINE_EXPLAIN}`](../var/L_ONLINE_EXPLAIN.md#readme)__ __:__ ligne [`49`](../src/modernbb/viewonline_body.tpl#L49)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`17`](../src/modernbb/viewonline_body.tpl#L17)
+* __[`{TOTAL_GUEST_USERS_ONLINE}`](../var/TOTAL_GUEST_USERS_ONLINE.md#readme)__ __:__ ligne [`10`](../src/modernbb/viewonline_body.tpl#L10)
+* __[`{TOTAL_REGISTERED_USERS_ONLINE}`](../var/TOTAL_REGISTERED_USERS_ONLINE.md#readme)__ __:__ ligne [`9`](../src/modernbb/viewonline_body.tpl#L9)
+* __[`<!-- BEGIN bot_user_row -->`](../var/bot_user_row.md#readme)__ __:__ ligne [`30`](../src/modernbb/viewonline_body.tpl#L30)
+* __[`<!-- END bot_user_row -->`](../var/bot_user_row.md#readme)__ __:__ ligne [`36`](../src/modernbb/viewonline_body.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.FORUM_LOCATION}`](../var/bot_user_row.FORUM_LOCATION.md#readme)__ __:__ ligne [`34`](../src/modernbb/viewonline_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.LASTUPDATE}`](../var/bot_user_row.LASTUPDATE.md#readme)__ __:__ ligne [`33`](../src/modernbb/viewonline_body.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.ROW_CLASS}`](../var/bot_user_row.ROW_CLASS.md#readme)__ __:__ ligne [`31`](../src/modernbb/viewonline_body.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.USERNAME}`](../var/bot_user_row.USERNAME.md#readme)__ __:__ ligne [`32`](../src/modernbb/viewonline_body.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.U_FORUM_LOCATION}`](../var/bot_user_row.U_FORUM_LOCATION.md#readme)__ __:__ ligne [`34`](../src/modernbb/viewonline_body.tpl#L34)
+* __[`<!-- BEGIN googlemap -->`](../var/googlemap.md#readme)__ __:__ ligne [`1`](../src/modernbb/viewonline_body.tpl#L1)
+* __[`<!-- END googlemap -->`](../var/googlemap.md#readme)__ __:__ ligne [`7`](../src/modernbb/viewonline_body.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{googlemap.U_GOOGLEMAP}`](../var/googlemap.U_GOOGLEMAP.md#readme)__ __:__ ligne [`4`](../src/modernbb/viewonline_body.tpl#L4)
+* __[`<!-- BEGIN guest_user_row -->`](../var/guest_user_row.md#readme)__ __:__ ligne [`37`](../src/modernbb/viewonline_body.tpl#L37)
+* __[`<!-- END guest_user_row -->`](../var/guest_user_row.md#readme)__ __:__ ligne [`43`](../src/modernbb/viewonline_body.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.FORUM_LOCATION}`](../var/guest_user_row.FORUM_LOCATION.md#readme)__ __:__ ligne [`41`](../src/modernbb/viewonline_body.tpl#L41)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.LASTUPDATE}`](../var/guest_user_row.LASTUPDATE.md#readme)__ __:__ ligne [`40`](../src/modernbb/viewonline_body.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.ROW_CLASS}`](../var/guest_user_row.ROW_CLASS.md#readme)__ __:__ ligne [`38`](../src/modernbb/viewonline_body.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.USERNAME}`](../var/guest_user_row.USERNAME.md#readme)__ __:__ ligne [`39`](../src/modernbb/viewonline_body.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.U_FORUM_LOCATION}`](../var/guest_user_row.U_FORUM_LOCATION.md#readme)__ __:__ ligne [`41`](../src/modernbb/viewonline_body.tpl#L41)
+* __[`<!-- BEGIN reg_user_row -->`](../var/reg_user_row.md#readme)__ __:__ ligne [`23`](../src/modernbb/viewonline_body.tpl#L23)
+* __[`<!-- END reg_user_row -->`](../var/reg_user_row.md#readme)__ __:__ ligne [`29`](../src/modernbb/viewonline_body.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.FORUM_LOCATION}`](../var/reg_user_row.FORUM_LOCATION.md#readme)__ __:__ ligne [`27`](../src/modernbb/viewonline_body.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.LASTUPDATE}`](../var/reg_user_row.LASTUPDATE.md#readme)__ __:__ ligne [`26`](../src/modernbb/viewonline_body.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.ROW_CLASS}`](../var/reg_user_row.ROW_CLASS.md#readme)__ __:__ ligne [`24`](../src/modernbb/viewonline_body.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.USERNAME}`](../var/reg_user_row.USERNAME.md#readme)__ __:__ ligne [`25`](../src/modernbb/viewonline_body.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_FORUM_LOCATION}`](../var/reg_user_row.U_FORUM_LOCATION.md#readme)__ __:__ ligne [`27`](../src/modernbb/viewonline_body.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_USER_PROFILE}`](../var/reg_user_row.U_USER_PROFILE.md#readme)__ __:__ ligne [`25`](../src/modernbb/viewonline_body.tpl#L25)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/viewonline_body.tpl#files)
@@ -235,9 +274,3 @@ Ce template affiche la page `/viewonline`
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.USERNAME}`](../var/reg_user_row.USERNAME.md#readme)__ __:__ ligne [`24`](../src/invision/viewonline_body.tpl#L24)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_FORUM_LOCATION}`](../var/reg_user_row.U_FORUM_LOCATION.md#readme)__ __:__ ligne [`26`](../src/invision/viewonline_body.tpl#L26)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_USER_PROFILE}`](../var/reg_user_row.U_USER_PROFILE.md#readme)__ __:__ ligne [`24`](../src/invision/viewonline_body.tpl#L24)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/viewonline_body.tpl#files)
-
-### Positions des variables

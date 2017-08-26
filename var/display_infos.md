@@ -32,6 +32,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`260`](../src/subsilver/album_showpage_body.tpl#L260)[`<->`](../src/subsilver/album_showpage_body.tpl#L260-L354)[`354`](../src/subsilver/album_showpage_body.tpl#L354)
 
+### Version ModernBB
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`259`](../src/modernbb/album_showpage_body.tpl#L259)[`<->`](../src/modernbb/album_showpage_body.tpl#L259-L329)[`329`](../src/modernbb/album_showpage_body.tpl#L329)
+
 ### Version PunBB
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`266`](../src/punbb/album_showpage_body.tpl#L266)[`<->`](../src/punbb/album_showpage_body.tpl#L266-L336)[`336`](../src/punbb/album_showpage_body.tpl#L336)
 

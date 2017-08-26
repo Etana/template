@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `confirm_body`
@@ -58,6 +58,24 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 * __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`15`](../src/subsilver/confirm_body.tpl#L15)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`3`](../src/subsilver/confirm_body.tpl#L3)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/confirm_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/confirm_body.tpl#L2)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/confirm_body.tpl#L1)
+* __[`{L_NO}`](../var/L_NO.md#readme)__ __:__ ligne [`13`](../src/modernbb/confirm_body.tpl#L13)
+* __[`{L_YES}`](../var/L_YES.md#readme)__ __:__ ligne [`12`](../src/modernbb/confirm_body.tpl#L12)
+* __[`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme)__ __:__ ligne [`8`](../src/modernbb/confirm_body.tpl#L8)
+* __[`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme)__ __:__ ligne [`6`](../src/modernbb/confirm_body.tpl#L6)
+* __[`{OPTIONAL_BAN_NEW}`](../var/OPTIONAL_BAN_NEW.md#readme)__ __:__ ligne [`9`](../src/modernbb/confirm_body.tpl#L9)
+* __[`{S_CONFIRM_ACTION}`](../var/S_CONFIRM_ACTION.md#readme)__ __:__ ligne [`7`](../src/modernbb/confirm_body.tpl#L7)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`11`](../src/modernbb/confirm_body.tpl#L11)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/confirm_body.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/confirm_body.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/confirm_body.tpl#files)
@@ -85,9 +103,3 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 * __[`{OPTIONAL_BAN_NEW}`](../var/OPTIONAL_BAN_NEW.md#readme)__ __:__ ligne [`8`](../src/invision/confirm_body.tpl#L8)
 * __[`{S_CONFIRM_ACTION}`](../var/S_CONFIRM_ACTION.md#readme)__ __:__ ligne [`4`](../src/invision/confirm_body.tpl#L4)
 * __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`10`](../src/invision/confirm_body.tpl#L10)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/confirm_body.tpl#files)
-
-### Positions des variables

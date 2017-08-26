@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `calendar_overview_profil`
@@ -44,6 +44,18 @@
 * __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`7`](../src/subsilver/calendar_overview_profil.tpl#L7)
 * __[`{TXT_CLASS}`](../var/TXT_CLASS.md#readme)__ __:__ ligne [`6`](../src/subsilver/calendar_overview_profil.tpl#L6)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/calendar_overview_profil.tpl#files)
+
+### Positions des variables
+
+* __[`{AGE}`](../var/AGE.md#readme)__ __:__ ligne [`6`](../src/modernbb/calendar_overview_profil.tpl#L6)
+* __[`{AVATAR}`](../var/AVATAR.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_overview_profil.tpl#L5)
+* __[`{L_AGE}`](../var/L_AGE.md#readme)__ __:__ ligne [`6`](../src/modernbb/calendar_overview_profil.tpl#L6)
+* __[`{L_TITLE}`](../var/L_TITLE.md#readme)__ __:__ ligne [`2`](../src/modernbb/calendar_overview_profil.tpl#L2)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`4`](../src/modernbb/calendar_overview_profil.tpl#L4)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_overview_profil.tpl#files)
@@ -67,9 +79,3 @@
 * __[`{L_AGE}`](../var/L_AGE.md#readme)__ __:__ ligne [`6`](../src/invision/calendar_overview_profil.tpl#L6)
 * __[`{L_TITLE}`](../var/L_TITLE.md#readme)__ __:__ ligne [`2`](../src/invision/calendar_overview_profil.tpl#L2)
 * __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`4`](../src/invision/calendar_overview_profil.tpl#L4)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/calendar_overview_profil.tpl#files)
-
-### Positions des variables

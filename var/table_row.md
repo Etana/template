@@ -24,6 +24,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`1`](../src/subsilver/standard.tpl#L1)[`<->`](../src/subsilver/standard.tpl#L1-L8)[`8`](../src/subsilver/standard.tpl#L8)
 
+### Version ModernBB
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`1`](../src/modernbb/standard.tpl#L1)[`<->`](../src/modernbb/standard.tpl#L1-L4)[`4`](../src/modernbb/standard.tpl#L4), [`6`](../src/modernbb/standard.tpl#L6)[`<->`](../src/modernbb/standard.tpl#L6-L8)[`8`](../src/modernbb/standard.tpl#L8)
+
 ### Version PunBB
 * __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`1`](../src/punbb/standard.tpl#L1)[`<->`](../src/punbb/standard.tpl#L1-L5)[`5`](../src/punbb/standard.tpl#L5), [`7`](../src/punbb/standard.tpl#L7)[`<->`](../src/punbb/standard.tpl#L7-L10)[`10`](../src/punbb/standard.tpl#L10)
 

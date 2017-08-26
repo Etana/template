@@ -33,6 +33,10 @@ Le record du nombre d'utilisateurs en ligne est de <strong>2</strong> le Mer 21 
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`151`](../src/subsilver/index_body.tpl#L151)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`19`](../src/subsilver/mod_whoisonline.tpl#L19)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`51`](../src/modernbb/index_body.tpl#L51)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`8`](../src/modernbb/mod_whoisonline.tpl#L8)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`81`](../src/punbb/index_body.tpl#L81)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`10`](../src/punbb/mod_whoisonline.tpl#L10)

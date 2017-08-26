@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `poll_ballot`
@@ -63,6 +63,25 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)__ __:__ ligne [`10`](../src/subsilver/poll_ballot.tpl#L10)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme)__ __:__ ligne [`10`](../src/subsilver/poll_ballot.tpl#L10)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/poll_ballot.tpl#files)
+
+### Positions des variables
+
+* __[`{L_SUBMIT_VOTE}`](../var/L_SUBMIT_VOTE.md#readme)__ __:__ ligne [`15`](../src/modernbb/poll_ballot.tpl#L15)
+* __[`{L_VIEW_RESULTS}`](../var/L_VIEW_RESULTS.md#readme)__ __:__ ligne [`17`](../src/modernbb/poll_ballot.tpl#L17)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme)__ __:__ ligne [`3`](../src/modernbb/poll_ballot.tpl#L3)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`18`](../src/modernbb/poll_ballot.tpl#L18)
+* __[`{S_POLL_ACTION}`](../var/S_POLL_ACTION.md#readme)__ __:__ ligne [`1`](../src/modernbb/poll_ballot.tpl#L1)
+* __[`{U_VIEW_RESULTS}`](../var/U_VIEW_RESULTS.md#readme)__ __:__ ligne [`17`](../src/modernbb/poll_ballot.tpl#L17)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`5`](../src/modernbb/poll_ballot.tpl#L5)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`12`](../src/modernbb/poll_ballot.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)__ __:__ ligne [`9`](../src/modernbb/poll_ballot.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)__ __:__ ligne [`8`](../src/modernbb/poll_ballot.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)__ __:__ ligne [`8`](../src/modernbb/poll_ballot.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme)__ __:__ ligne [`8`](../src/modernbb/poll_ballot.tpl#L8)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/poll_ballot.tpl#files)
@@ -100,9 +119,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)__ __:__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)__ __:__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme)__ __:__ ligne [`7`](../src/invision/poll_ballot.tpl#L7)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/poll_ballot.tpl#files)
-
-### Positions des variables

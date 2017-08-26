@@ -24,6 +24,12 @@ Adresse URL de la librairie JavaScript jQuery.
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`8`](../src/subsilver/posting_smilies_wysiwyg.tpl#L8)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`11`](../src/subsilver/simple_header.tpl#L11)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`22`](../src/modernbb/overall_header.tpl#L22)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`8`](../src/modernbb/posting_smilies_frame.tpl#L8)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`8`](../src/modernbb/posting_smilies_wysiwyg.tpl#L8)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`11`](../src/modernbb/simple_header.tpl#L11)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`22`](../src/punbb/overall_header.tpl#L22)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`9`](../src/punbb/posting_smilies_frame.tpl#L9)

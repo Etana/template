@@ -24,6 +24,10 @@
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`34`](../src/subsilver/faq_body.tpl#L34)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`32`](../src/subsilver/faq_dhtml.tpl#L32), [`34`](../src/subsilver/faq_dhtml.tpl#L34), [`39`](../src/subsilver/faq_dhtml.tpl#L39)
 
+### Version ModernBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`20`](../src/modernbb/faq_body.tpl#L20)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`17`](../src/modernbb/faq_dhtml.tpl#L17), [`18`](../src/modernbb/faq_dhtml.tpl#L18), [`20`](../src/modernbb/faq_dhtml.tpl#L20)
+
 ### Version PunBB
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`40`](../src/punbb/faq_body.tpl#L40)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`36`](../src/punbb/faq_dhtml.tpl#L36), [`37`](../src/punbb/faq_dhtml.tpl#L37), [`39`](../src/punbb/faq_dhtml.tpl#L39)

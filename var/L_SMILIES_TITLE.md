@@ -20,6 +20,10 @@
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`4`](../src/subsilver/posting_smilies_frame.tpl#L4)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`4`](../src/subsilver/posting_smilies_wysiwyg.tpl#L4)
 
+### Version ModernBB
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`6`](../src/modernbb/posting_smilies_frame.tpl#L6)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`6`](../src/modernbb/posting_smilies_wysiwyg.tpl#L6)
+
 ### Version PunBB
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`4`](../src/punbb/posting_smilies_frame.tpl#L4)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`7`](../src/punbb/posting_smilies_wysiwyg.tpl#L7)

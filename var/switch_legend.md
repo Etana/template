@@ -25,6 +25,10 @@ Boucle affichant la légende des icônes en bas des forums si l'option est activ
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`181`](../src/subsilver/index_body.tpl#L181)[`<->`](../src/subsilver/index_body.tpl#L181-L194)[`194`](../src/subsilver/index_body.tpl#L194)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`93`](../src/subsilver/viewforum_body.tpl#L93)[`<->`](../src/subsilver/viewforum_body.tpl#L93-L117)[`117`](../src/subsilver/viewforum_body.tpl#L117)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`102`](../src/modernbb/index_body.tpl#L102)[`<->`](../src/modernbb/index_body.tpl#L102-L108)[`108`](../src/modernbb/index_body.tpl#L108)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`88`](../src/modernbb/viewforum_body.tpl#L88)[`<->`](../src/modernbb/viewforum_body.tpl#L88-L102)[`102`](../src/modernbb/viewforum_body.tpl#L102)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`136`](../src/punbb/index_body.tpl#L136)[`<->`](../src/punbb/index_body.tpl#L136-L144)[`144`](../src/punbb/index_body.tpl#L144)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`65`](../src/punbb/viewforum_body.tpl#L65)[`<->`](../src/punbb/viewforum_body.tpl#L65-L81)[`81`](../src/punbb/viewforum_body.tpl#L81)

@@ -1,8 +1,8 @@
-# Template mod_top_post_users_month (x 5)
+# Template mod_top_post_users_month (x 6)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_top_post_users_month`
@@ -17,6 +17,7 @@
 	* [`<!-- BEGIN POSTER -->`](../var/POSTER.md#readme)
 	* [`<!-- END POSTER -->`](../var/POSTER.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.BARRE}`](../var/POSTER.BARRE.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.BARRE))
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.BARRE_PERCENT}`](../var/POSTER.BARRE_PERCENT.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.BARRE_PERCENT))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NAME}`](../var/POSTER.NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.NAME))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.NB_POSTS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS))
@@ -53,6 +54,20 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme)__ __:__ ligne [`10`](../src/subsilver/mod_top_post_users_month.tpl#L10)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme)__ __:__ ligne [`11`](../src/subsilver/mod_top_post_users_month.tpl#L11)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mod_top_post_users_month.tpl#files)
+
+### Positions des variables
+
+* __[`{L_TOP_POST_USERS_MONTH}`](../var/L_TOP_POST_USERS_MONTH.md#readme)__ __:__ ligne [`2`](../src/modernbb/mod_top_post_users_month.tpl#L2)
+* __[`<!-- BEGIN POSTER -->`](../var/POSTER.md#readme)__ __:__ ligne [`4`](../src/modernbb/mod_top_post_users_month.tpl#L4)
+* __[`<!-- END POSTER -->`](../var/POSTER.md#readme)__ __:__ ligne [`13`](../src/modernbb/mod_top_post_users_month.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.BARRE_PERCENT}`](../var/POSTER.BARRE_PERCENT.md#readme)__ __:__ ligne [`8`](../src/modernbb/mod_top_post_users_month.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NAME}`](../var/POSTER.NAME.md#readme)__ __:__ ligne [`6`](../src/modernbb/mod_top_post_users_month.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_top_post_users_month.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)__ __:__ ligne [`10`](../src/modernbb/mod_top_post_users_month.tpl#L10)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_top_post_users_month.tpl#files)
@@ -84,9 +99,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)__ __:__ ligne [`8`](../src/invision/mod_top_post_users_month.tpl#L8)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme)__ __:__ ligne [`7`](../src/invision/mod_top_post_users_month.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme)__ __:__ ligne [`8`](../src/invision/mod_top_post_users_month.tpl#L8)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mod_top_post_users_month.tpl#files)
-
-### Positions des variables

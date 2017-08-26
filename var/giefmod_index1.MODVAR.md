@@ -20,6 +20,9 @@ Affiche les widgets de la colonne de gauche un par un.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`322`](../src/subsilver/overall_header.tpl#L322)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`326`](../src/modernbb/overall_header.tpl#L326)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`309`](../src/punbb/overall_header.tpl#L309)
 

@@ -23,6 +23,9 @@ Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`61`](../src/subsilver/viewtopic_body.tpl#L61)[`<->`](../src/subsilver/viewtopic_body.tpl#L61-L66)[`66`](../src/subsilver/viewtopic_body.tpl#L66)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`63`](../src/modernbb/viewtopic_body.tpl#L63)[`<->`](../src/modernbb/viewtopic_body.tpl#L63-L68)[`68`](../src/modernbb/viewtopic_body.tpl#L68)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`78`](../src/punbb/viewtopic_body.tpl#L78)[`<->`](../src/punbb/viewtopic_body.tpl#L78-L83)[`83`](../src/punbb/viewtopic_body.tpl#L83)
 

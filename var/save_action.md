@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`105`](../src/subsilver/album_nuffimage_box.tpl#L105)[`<->`](../src/subsilver/album_nuffimage_box.tpl#L105-L107)[`107`](../src/subsilver/album_nuffimage_box.tpl#L107)
 
+### Version ModernBB
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`95`](../src/modernbb/album_nuffimage_box.tpl#L95)[`<->`](../src/modernbb/album_nuffimage_box.tpl#L95-L97)[`97`](../src/modernbb/album_nuffimage_box.tpl#L97)
+
 ### Version PunBB
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`104`](../src/punbb/album_nuffimage_box.tpl#L104)[`<->`](../src/punbb/album_nuffimage_box.tpl#L104-L106)[`106`](../src/punbb/album_nuffimage_box.tpl#L106)
 

@@ -30,6 +30,10 @@
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`39`](../src/subsilver/posting_topic_review.tpl#L39)[`<->`](../src/subsilver/posting_topic_review.tpl#L39-L43)[`43`](../src/subsilver/posting_topic_review.tpl#L43)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`123`](../src/subsilver/viewtopic_body.tpl#L123)[`<->`](../src/subsilver/viewtopic_body.tpl#L123-L127)[`127`](../src/subsilver/viewtopic_body.tpl#L127)
 
+### Version ModernBB
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`17`](../src/modernbb/posting_topic_review.tpl#L17)[`<->`](../src/modernbb/posting_topic_review.tpl#L17-L22)[`22`](../src/modernbb/posting_topic_review.tpl#L22)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`105`](../src/modernbb/viewtopic_body.tpl#L105)[`<->`](../src/modernbb/viewtopic_body.tpl#L105-L109)[`109`](../src/modernbb/viewtopic_body.tpl#L109)
+
 ### Version PunBB
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`34`](../src/punbb/posting_topic_review.tpl#L34)[`<->`](../src/punbb/posting_topic_review.tpl#L34-L38)[`38`](../src/punbb/posting_topic_review.tpl#L38)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`123`](../src/punbb/viewtopic_body.tpl#L123)[`<->`](../src/punbb/viewtopic_body.tpl#L123-L125)[`125`](../src/punbb/viewtopic_body.tpl#L125)

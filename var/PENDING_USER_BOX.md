@@ -21,6 +21,9 @@ Remplacé par le contenu de la template [`groupcp_pending_info`](../tpl/groupcp_
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`114`](../src/subsilver/groupcp_info_body.tpl#L114)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`123`](../src/modernbb/groupcp_info_body.tpl#L123)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`143`](../src/punbb/groupcp_info_body.tpl#L143)
 

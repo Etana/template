@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Groupes` > `groupcp_user_body`
@@ -111,6 +111,41 @@
 * __[`<!-- BEGIN switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme)__ __:__ ligne [`22`](../src/subsilver/groupcp_user_body.tpl#L22)
 * __[`<!-- END switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme)__ __:__ ligne [`41`](../src/subsilver/groupcp_user_body.tpl#L41)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/groupcp_user_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/groupcp_user_body.tpl#L2)
+* __[`{GROUP_LIST_SELECT}`](../var/GROUP_LIST_SELECT.md#readme)__ __:__ ligne [`42`](../src/modernbb/groupcp_user_body.tpl#L42)
+* __[`{GROUP_MEMBER_SELECT_NEW}`](../var/GROUP_MEMBER_SELECT_NEW.md#readme)__ __:__ ligne [`13`](../src/modernbb/groupcp_user_body.tpl#L13)
+* __[`{GROUP_PENDING_SELECT_NEW}`](../var/GROUP_PENDING_SELECT_NEW.md#readme)__ __:__ ligne [`26`](../src/modernbb/groupcp_user_body.tpl#L26)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/groupcp_user_body.tpl#L1)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`51`](../src/modernbb/groupcp_user_body.tpl#L51)
+* __[`{L_GROUP_MEMBERSHIP_DETAILS}`](../var/L_GROUP_MEMBERSHIP_DETAILS.md#readme)__ __:__ ligne [`9`](../src/modernbb/groupcp_user_body.tpl#L9)
+* __[`{L_JOIN_A_GROUP}`](../var/L_JOIN_A_GROUP.md#readme)__ __:__ ligne [`37`](../src/modernbb/groupcp_user_body.tpl#L37)
+* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`51`](../src/modernbb/groupcp_user_body.tpl#L51)
+* __[`{L_PENDING_GROUPS}`](../var/L_PENDING_GROUPS.md#readme)__ __:__ ligne [`25`](../src/modernbb/groupcp_user_body.tpl#L25)
+* __[`{L_SELECT_A_GROUP}`](../var/L_SELECT_A_GROUP.md#readme)__ __:__ ligne [`41`](../src/modernbb/groupcp_user_body.tpl#L41)
+* __[`{L_USERGROUPS}`](../var/L_USERGROUPS.md#readme)__ __:__ ligne [`4`](../src/modernbb/groupcp_user_body.tpl#L4)
+* __[`{L_VIEW_INFORMATION}`](../var/L_VIEW_INFORMATION.md#readme)__ __:__ ligne [`42`](../src/modernbb/groupcp_user_body.tpl#L42)
+* __[`{L_YOU_BELONG_GROUPS}`](../var/L_YOU_BELONG_GROUPS.md#readme)__ __:__ ligne [`12`](../src/modernbb/groupcp_user_body.tpl#L12)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`42`](../src/modernbb/groupcp_user_body.tpl#L42)
+* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`50`](../src/modernbb/groupcp_user_body.tpl#L50)
+* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`51`](../src/modernbb/groupcp_user_body.tpl#L51)
+* __[`{U_USERGROUP_ACTION}`](../var/U_USERGROUP_ACTION.md#readme)__ __:__ ligne [`38`](../src/modernbb/groupcp_user_body.tpl#L38)
+* __[`<!-- BEGIN switch_groups_joined -->`](../var/switch_groups_joined.md#readme)__ __:__ ligne [`5`](../src/modernbb/groupcp_user_body.tpl#L5)
+* __[`<!-- END switch_groups_joined -->`](../var/switch_groups_joined.md#readme)__ __:__ ligne [`32`](../src/modernbb/groupcp_user_body.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_groups_member -->`](../var/switch_groups_joined.switch_groups_member.md#readme)__ __:__ ligne [`6`](../src/modernbb/groupcp_user_body.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_groups_member -->`](../var/switch_groups_joined.switch_groups_member.md#readme)__ __:__ ligne [`18`](../src/modernbb/groupcp_user_body.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_groups_pending -->`](../var/switch_groups_joined.switch_groups_pending.md#readme)__ __:__ ligne [`20`](../src/modernbb/groupcp_user_body.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_groups_pending -->`](../var/switch_groups_joined.switch_groups_pending.md#readme)__ __:__ ligne [`31`](../src/modernbb/groupcp_user_body.tpl#L31)
+* __[`<!-- BEGIN switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme)__ __:__ ligne [`34`](../src/modernbb/groupcp_user_body.tpl#L34)
+* __[`<!-- END switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme)__ __:__ ligne [`48`](../src/modernbb/groupcp_user_body.tpl#L48)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/groupcp_user_body.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/groupcp_user_body.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/groupcp_user_body.tpl#files)
@@ -184,9 +219,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_groups_pending -->`](../var/switch_groups_joined.switch_groups_pending.md#readme)__ __:__ ligne [`33`](../src/invision/groupcp_user_body.tpl#L33)
 * __[`<!-- BEGIN switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme)__ __:__ ligne [`36`](../src/invision/groupcp_user_body.tpl#L36)
 * __[`<!-- END switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme)__ __:__ ligne [`49`](../src/invision/groupcp_user_body.tpl#L49)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/groupcp_user_body.tpl#files)
-
-### Positions des variables

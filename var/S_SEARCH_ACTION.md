@@ -24,6 +24,11 @@ Action du formulaire de recherche.
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`2`](../src/subsilver/search_body.tpl#L2)
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`1`](../src/subsilver/search_username.tpl#L1)
 
+### Version ModernBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`5`](../src/modernbb/album_formsearch_body.tpl#L5)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`3`](../src/modernbb/search_body.tpl#L3)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`8`](../src/modernbb/search_username.tpl#L8)
+
 ### Version PunBB
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`22`](../src/punbb/album_formsearch_body.tpl#L22)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`24`](../src/punbb/search_body.tpl#L24)

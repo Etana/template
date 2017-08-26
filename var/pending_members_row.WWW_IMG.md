@@ -26,6 +26,9 @@ Image `Visiter le site web du posteur` ( choisie dans [`Index`](http://votre-for
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`21`](../src/subsilver/groupcp_pending_info.tpl#L21)
 
+### Version ModernBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`26`](../src/modernbb/groupcp_pending_info.tpl#L26)
+
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`27`](../src/punbb/groupcp_pending_info.tpl#L27)
 

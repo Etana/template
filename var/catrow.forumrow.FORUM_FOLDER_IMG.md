@@ -22,6 +22,9 @@ Contient l'icône du forum correspondant au forum bouclé (nouveaux messages, pa
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`49`](../src/subsilver/index_box.tpl#L49)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`38`](../src/modernbb/index_box.tpl#L38)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`27`](../src/punbb/index_box.tpl#L27)
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `standard`
@@ -48,6 +48,19 @@
 * __[`<!-- END table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`8`](../src/subsilver/standard.tpl#L8)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme)__ __:__ ligne [`5`](../src/subsilver/standard.tpl#L5)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/standard.tpl#files)
+
+### Positions des variables
+
+* __[`{S_SOURCE}`](../var/S_SOURCE.md#readme)__ __:__ ligne [`5`](../src/modernbb/standard.tpl#L5)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`1`](../src/modernbb/standard.tpl#L1)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`4`](../src/modernbb/standard.tpl#L4)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`6`](../src/modernbb/standard.tpl#L6)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`8`](../src/modernbb/standard.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme)__ __:__ ligne [`3`](../src/modernbb/standard.tpl#L3)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/standard.tpl#files)
@@ -71,9 +84,3 @@
 * __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`2`](../src/invision/standard.tpl#L2)
 * __[`<!-- END table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`4`](../src/invision/standard.tpl#L4)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme)__ __:__ ligne [`3`](../src/invision/standard.tpl#L3)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/standard.tpl#files)
-
-### Positions des variables

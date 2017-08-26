@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`38`](../src/subsilver/profile_view_body.tpl#L38)[`<->`](../src/subsilver/profile_view_body.tpl#L38-L43)[`43`](../src/subsilver/profile_view_body.tpl#L43)
 
+### Version ModernBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`20`](../src/modernbb/profile_view_body.tpl#L20)[`<->`](../src/modernbb/profile_view_body.tpl#L20-L24)[`24`](../src/modernbb/profile_view_body.tpl#L24)
+
 ### Version PunBB
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`37`](../src/punbb/profile_view_body.tpl#L37)[`<->`](../src/punbb/profile_view_body.tpl#L37-L41)[`41`](../src/punbb/profile_view_body.tpl#L41)
 

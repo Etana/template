@@ -23,6 +23,9 @@ Le contenu de la boucle est affiché si il n'y a pas d'autre membre du groupe qu
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`75`](../src/subsilver/groupcp_info_body.tpl#L75)[`<->`](../src/subsilver/groupcp_info_body.tpl#L75-L79)[`79`](../src/subsilver/groupcp_info_body.tpl#L79)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`88`](../src/modernbb/groupcp_info_body.tpl#L88)[`<->`](../src/modernbb/groupcp_info_body.tpl#L88-L92)[`92`](../src/modernbb/groupcp_info_body.tpl#L92)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`115`](../src/punbb/groupcp_info_body.tpl#L115)[`<->`](../src/punbb/groupcp_info_body.tpl#L115-L119)[`119`](../src/punbb/groupcp_info_body.tpl#L119)
 

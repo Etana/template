@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_keywords`
@@ -46,6 +46,19 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme)__ __:__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme)__ __:__ ligne [`12`](../src/subsilver/mod_keywords.tpl#L12)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mod_keywords.tpl#files)
+
+### Positions des variables
+
+* __[`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme)__ __:__ ligne [`2`](../src/modernbb/mod_keywords.tpl#L2)
+* __[`<!-- BEGIN li_row -->`](../var/li_row.md#readme)__ __:__ ligne [`4`](../src/modernbb/mod_keywords.tpl#L4)
+* __[`<!-- END li_row -->`](../var/li_row.md#readme)__ __:__ ligne [`6`](../src/modernbb/mod_keywords.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme)__ __:__ ligne [`5`](../src/modernbb/mod_keywords.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme)__ __:__ ligne [`5`](../src/modernbb/mod_keywords.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme)__ __:__ ligne [`5`](../src/modernbb/mod_keywords.tpl#L5)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_keywords.tpl#files)
@@ -71,9 +84,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme)__ __:__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme)__ __:__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme)__ __:__ ligne [`6`](../src/invision/mod_keywords.tpl#L6)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mod_keywords.tpl#files)
-
-### Positions des variables

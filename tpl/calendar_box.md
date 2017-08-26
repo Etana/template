@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `calendar_box`
@@ -226,6 +226,64 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`16`](../src/subsilver/calendar_box.tpl#L16)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`18`](../src/subsilver/calendar_box.tpl#L18)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/calendar_box.tpl#files)
+
+### Positions des variables
+
+* __[`{L_ADD_EVENT}`](../var/L_ADD_EVENT.md#readme)__ __:__ ligne [`57`](../src/modernbb/calendar_box.tpl#L57)
+* __[`{L_ADD_EVENT}`](../var/L_ADD_EVENT.md#readme)__ __:__ ligne [`72`](../src/modernbb/calendar_box.tpl#L72)
+* __[`{S_CREATE_EVENT}`](../var/S_CREATE_EVENT.md#readme)__ __:__ ligne [`72`](../src/modernbb/calendar_box.tpl#L72)
+* __[`<!-- BEGIN _calendar_box -->`](../var/_calendar_box.md#readme)__ __:__ ligne [`3`](../src/modernbb/calendar_box.tpl#L3)
+* __[`<!-- END _calendar_box -->`](../var/_calendar_box.md#readme)__ __:__ ligne [`75`](../src/modernbb/calendar_box.tpl#L75)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.L_GO}`](../var/_calendar_box.L_GO.md#readme)__ __:__ ligne [`8`](../src/modernbb/calendar_box.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_ACTION}`](../var/_calendar_box.S_ACTION.md#readme)__ __:__ ligne [`4`](../src/modernbb/calendar_box.tpl#L4)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_FORUM_LIST}`](../var/_calendar_box.S_FORUM_LIST.md#readme)__ __:__ ligne [`7`](../src/modernbb/calendar_box.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_MONTH}`](../var/_calendar_box.S_MONTH.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_box.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_YEAR}`](../var/_calendar_box.S_YEAR.md#readme)__ __:__ ligne [`6`](../src/modernbb/calendar_box.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.U_NEXT}`](../var/_calendar_box.U_NEXT.md#readme)__ __:__ ligne [`14`](../src/modernbb/calendar_box.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.U_PREC}`](../var/_calendar_box.U_PREC.md#readme)__ __:__ ligne [`13`](../src/modernbb/calendar_box.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _cell -->`](../var/_calendar_box._cell.md#readme)__ __:__ ligne [`22`](../src/modernbb/calendar_box.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END _cell -->`](../var/_calendar_box._cell.md#readme)__ __:__ ligne [`24`](../src/modernbb/calendar_box.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._cell.L_DAY}`](../var/_calendar_box._cell.L_DAY.md#readme)__ __:__ ligne [`23`](../src/modernbb/calendar_box.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._cell.WIDTH}`](../var/_calendar_box._cell.WIDTH.md#readme)__ __:__ ligne [`23`](../src/modernbb/calendar_box.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _row -->`](../var/_calendar_box._row.md#readme)__ __:__ ligne [`28`](../src/modernbb/calendar_box.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END _row -->`](../var/_calendar_box._row.md#readme)__ __:__ ligne [`66`](../src/modernbb/calendar_box.tpl#L66)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _cell -->`](../var/_calendar_box._row._cell.md#readme)__ __:__ ligne [`31`](../src/modernbb/calendar_box.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END _cell -->`](../var/_calendar_box._row._cell.md#readme)__ __:__ ligne [`63`](../src/modernbb/calendar_box.tpl#L63)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.SPAN}`](../var/_calendar_box._row._cell.SPAN.md#readme)__ __:__ ligne [`34`](../src/modernbb/calendar_box.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.SPAN}`](../var/_calendar_box._row._cell.SPAN.md#readme)__ __:__ ligne [`40`](../src/modernbb/calendar_box.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.U_DATE}`](../var/_calendar_box._row._cell.U_DATE.md#readme)__ __:__ ligne [`42`](../src/modernbb/calendar_box.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.WIDTH}`](../var/_calendar_box._row._cell.WIDTH.md#readme)__ __:__ ligne [`34`](../src/modernbb/calendar_box.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.WIDTH}`](../var/_calendar_box._row._cell.WIDTH.md#readme)__ __:__ ligne [`40`](../src/modernbb/calendar_box.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_filled -->`](../var/_calendar_box._row._cell.switch_filled.md#readme)__ __:__ ligne [`39`](../src/modernbb/calendar_box.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_filled -->`](../var/_calendar_box._row._cell.switch_filled.md#readme)__ __:__ ligne [`61`](../src/modernbb/calendar_box.tpl#L61)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _event -->`](../var/_calendar_box._row._cell.switch_filled._event.md#readme)__ __:__ ligne [`45`](../src/modernbb/calendar_box.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END _event -->`](../var/_calendar_box._row._cell.switch_filled._event.md#readme)__ __:__ ligne [`53`](../src/modernbb/calendar_box.tpl#L53)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_event -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.md#readme)__ __:__ ligne [`46`](../src/modernbb/calendar_box.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_event -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.md#readme)__ __:__ ligne [`48`](../src/modernbb/calendar_box.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_CLASS}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_CLASS.md#readme)__ __:__ ligne [`47`](../src/modernbb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE.md#readme)__ __:__ ligne [`47`](../src/modernbb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE.md#readme)__ __:__ ligne [`47`](../src/modernbb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.OVERVIEW_MESSAGE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.OVERVIEW_MESSAGE.md#readme)__ __:__ ligne [`47`](../src/modernbb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.U_EVENT}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.U_EVENT.md#readme)__ __:__ ligne [`47`](../src/modernbb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_event_no -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event_no.md#readme)__ __:__ ligne [`50`](../src/modernbb/calendar_box.tpl#L50)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_event_no -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event_no.md#readme)__ __:__ ligne [`52`](../src/modernbb/calendar_box.tpl#L52)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_add_event_day -->`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.md#readme)__ __:__ ligne [`56`](../src/modernbb/calendar_box.tpl#L56)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_add_event_day -->`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.md#readme)__ __:__ ligne [`58`](../src/modernbb/calendar_box.tpl#L58)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT}`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT.md#readme)__ __:__ ligne [`57`](../src/modernbb/calendar_box.tpl#L57)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_filled_no -->`](../var/_calendar_box._row._cell.switch_filled_no.md#readme)__ __:__ ligne [`33`](../src/modernbb/calendar_box.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_filled_no -->`](../var/_calendar_box._row._cell.switch_filled_no.md#readme)__ __:__ ligne [`37`](../src/modernbb/calendar_box.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_add_event -->`](../var/_calendar_box.switch_add_event.md#readme)__ __:__ ligne [`71`](../src/modernbb/calendar_box.tpl#L71)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_add_event -->`](../var/_calendar_box.switch_add_event.md#readme)__ __:__ ligne [`73`](../src/modernbb/calendar_box.tpl#L73)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`11`](../src/modernbb/calendar_box.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`16`](../src/modernbb/calendar_box.tpl#L16)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/modernbb/calendar_box.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`2`](../src/modernbb/calendar_box.tpl#L2)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`76`](../src/modernbb/calendar_box.tpl#L76)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`77`](../src/modernbb/calendar_box.tpl#L77)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_box.tpl#files)
@@ -340,9 +398,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`5`](../src/invision/calendar_box.tpl#L5)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`7`](../src/invision/calendar_box.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`9`](../src/invision/calendar_box.tpl#L9)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/calendar_box.tpl#files)
-
-### Positions des variables

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsgs_popup`
@@ -42,6 +42,18 @@
 * __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/subsilver/privmsgs_popup.tpl#L1)
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`8`](../src/subsilver/privmsgs_popup.tpl#L8)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/privmsgs_popup.tpl#files)
+
+### Positions des variables
+
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)__ __:__ ligne [`21`](../src/modernbb/privmsgs_popup.tpl#L21)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)__ __:__ ligne [`20`](../src/modernbb/privmsgs_popup.tpl#L20)
+* __[`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme)__ __:__ ligne [`9`](../src/modernbb/privmsgs_popup.tpl#L9)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/modernbb/privmsgs_popup.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`5`](../src/modernbb/privmsgs_popup.tpl#L5)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/privmsgs_popup.tpl#files)
@@ -65,9 +77,3 @@
 * __[`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme)__ __:__ ligne [`9`](../src/invision/privmsgs_popup.tpl#L9)
 * __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/invision/privmsgs_popup.tpl#L1)
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`5`](../src/invision/privmsgs_popup.tpl#L5)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/privmsgs_popup.tpl#files)
-
-### Positions des variables

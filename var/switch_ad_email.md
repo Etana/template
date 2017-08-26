@@ -29,6 +29,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`17`](../src/subsilver/profile_send_email.tpl#L17)[`<->`](../src/subsilver/profile_send_email.tpl#L17-L26)[`26`](../src/subsilver/profile_send_email.tpl#L26)
 
+### Version ModernBB
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`16`](../src/modernbb/profile_send_email.tpl#L16)[`<->`](../src/modernbb/profile_send_email.tpl#L16-L25)[`25`](../src/modernbb/profile_send_email.tpl#L25)
+
 ### Version PunBB
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`38`](../src/punbb/profile_send_email.tpl#L38)[`<->`](../src/punbb/profile_send_email.tpl#L38-L47)[`47`](../src/punbb/profile_send_email.tpl#L47)
 

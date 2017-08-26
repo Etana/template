@@ -28,6 +28,13 @@ Chaîne de texte.
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme)__ __:__ lignes [`18`](../src/subsilver/report_popup_body.tpl#L18)
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`21`](../src/subsilver/search_username.tpl#L21)
 
+### Version ModernBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`24`](../src/modernbb/greeting_popup.tpl#L24)
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`44`](../src/modernbb/posting_smilies.tpl#L44)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`21`](../src/modernbb/privmsgs_popup.tpl#L21)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme)__ __:__ lignes [`24`](../src/modernbb/report_popup_body.tpl#L24)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`23`](../src/modernbb/search_username.tpl#L23)
+
 ### Version PunBB
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`27`](../src/punbb/greeting_popup.tpl#L27)
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`31`](../src/punbb/posting_smilies.tpl#L31)

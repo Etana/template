@@ -18,6 +18,9 @@ Contient le choix de sélection d'un ordre de recherche.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`12`](../src/subsilver/memberlist_body.tpl#L12)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`9`](../src/modernbb/memberlist_body.tpl#L9)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`48`](../src/punbb/memberlist_body.tpl#L48)
 

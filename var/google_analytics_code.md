@@ -24,6 +24,9 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`182`](../src/subsilver/overall_header.tpl#L182)[`<->`](../src/subsilver/overall_header.tpl#L182-L202)[`202`](../src/subsilver/overall_header.tpl#L202)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`198`](../src/modernbb/overall_header.tpl#L198)[`<->`](../src/modernbb/overall_header.tpl#L198-L216)[`216`](../src/modernbb/overall_header.tpl#L216)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`187`](../src/punbb/overall_header.tpl#L187)[`<->`](../src/punbb/overall_header.tpl#L187-L207)[`207`](../src/punbb/overall_header.tpl#L207)
 

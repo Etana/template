@@ -20,6 +20,9 @@ Contient le temps d'arrêt des annonces défini dans `PA > Général > Messages 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`106`](../src/subsilver/overall_header.tpl#L106), [`139`](../src/subsilver/overall_header.tpl#L139)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`110`](../src/modernbb/overall_header.tpl#L110), [`145`](../src/modernbb/overall_header.tpl#L145)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`108`](../src/punbb/overall_header.tpl#L108), [`144`](../src/punbb/overall_header.tpl#L144)
 

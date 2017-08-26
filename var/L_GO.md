@@ -38,6 +38,21 @@ Chaîne de texte.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`90`](../src/subsilver/viewforum_body.tpl#L90)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`440`](../src/subsilver/viewtopic_body.tpl#L440), [`464`](../src/subsilver/viewtopic_body.tpl#L464)
 
+### Version ModernBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`31`](../src/modernbb/faq_body.tpl#L31)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`27`](../src/modernbb/faq_dhtml.tpl#L27)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`126`](../src/modernbb/groupcp_info_body.tpl#L126)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`51`](../src/modernbb/groupcp_user_body.tpl#L51)
+* __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`2`](../src/modernbb/jumpbox.tpl#L2)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`8`](../src/modernbb/merge_select_body.tpl#L8)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`66`](../src/modernbb/modcp_body.tpl#L66)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`395`](../src/modernbb/posting_body.tpl#L395)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`24`](../src/modernbb/privmsgs_body.tpl#L24)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`8`](../src/modernbb/profile_avatar_gallery.tpl#L8)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`80`](../src/modernbb/report_list_body.tpl#L80)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`69`](../src/modernbb/viewforum_body.tpl#L69)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`352`](../src/modernbb/viewtopic_body.tpl#L352), [`365`](../src/modernbb/viewtopic_body.tpl#L365)
+
 ### Version PunBB
 * __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`2`](../src/punbb/jumpbox.tpl#L2)
 * __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`20`](../src/punbb/merge_select_body.tpl#L20)

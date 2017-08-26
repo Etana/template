@@ -18,6 +18,9 @@ Message du popup de connexion défini dans `PA > Général > Forum | Configurati
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`235`](../src/subsilver/overall_header.tpl#L235)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`241`](../src/modernbb/overall_header.tpl#L241)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`230`](../src/punbb/overall_header.tpl#L230)
 

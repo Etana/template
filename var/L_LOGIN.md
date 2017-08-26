@@ -25,6 +25,11 @@ Chaîne de caractère.
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`5`](../src/subsilver/mod_login.tpl#L5), [`24`](../src/subsilver/mod_login.tpl#L24), [`56`](../src/subsilver/mod_login.tpl#L56), [`73`](../src/subsilver/mod_login.tpl#L73)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`230`](../src/subsilver/overall_header.tpl#L230)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`11`](../src/modernbb/index_body.tpl#L11), [`89`](../src/modernbb/index_body.tpl#L89)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`3`](../src/modernbb/mod_login.tpl#L3), [`11`](../src/modernbb/mod_login.tpl#L11), [`29`](../src/modernbb/mod_login.tpl#L29), [`35`](../src/modernbb/mod_login.tpl#L35)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`245`](../src/modernbb/overall_header.tpl#L245)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`42`](../src/punbb/index_body.tpl#L42), [`118`](../src/punbb/index_body.tpl#L118)
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`3`](../src/punbb/mod_login.tpl#L3), [`20`](../src/punbb/mod_login.tpl#L20), [`41`](../src/punbb/mod_login.tpl#L41), [`51`](../src/punbb/mod_login.tpl#L51)

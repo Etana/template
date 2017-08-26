@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`44`](../src/subsilver/report_list_body.tpl#L44)[`<->`](../src/subsilver/report_list_body.tpl#L44-L46)[`46`](../src/subsilver/report_list_body.tpl#L46)
 
+### Version ModernBB
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`60`](../src/modernbb/report_list_body.tpl#L60)[`<->`](../src/modernbb/report_list_body.tpl#L60-L62)[`62`](../src/modernbb/report_list_body.tpl#L62)
+
 ### Version PunBB
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`74`](../src/punbb/report_list_body.tpl#L74)[`<->`](../src/punbb/report_list_body.tpl#L74-L76)[`76`](../src/punbb/report_list_body.tpl#L76)
 

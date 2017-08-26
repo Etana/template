@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`249`](../src/subsilver/album_upload_body.tpl#L249)
 
+### Version ModernBB
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`231`](../src/modernbb/album_upload_body.tpl#L231)
+
 ### Version PunBB
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`238`](../src/punbb/album_upload_body.tpl#L238)
 

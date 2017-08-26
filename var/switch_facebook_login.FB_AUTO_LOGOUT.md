@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`39`](../src/subsilver/overall_footer_end.tpl#L39)
 
+### Version ModernBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`67`](../src/modernbb/overall_footer_end.tpl#L67)
+
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`47`](../src/punbb/overall_footer_end.tpl#L47)
 

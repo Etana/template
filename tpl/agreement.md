@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `agreement`
@@ -72,6 +72,26 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 * __[`<!-- END switch_fb_explain -->`](../var/switch_fb_explain.md#readme)__ __:__ ligne [`21`](../src/subsilver/agreement.tpl#L21)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_explain.FB_EXPLAIN}`](../var/switch_fb_explain.FB_EXPLAIN.md#readme)__ __:__ ligne [`16`](../src/subsilver/agreement.tpl#L16)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/agreement.tpl#files)
+
+### Positions des variables
+
+* __[`{AGREEMENT}`](../var/AGREEMENT.md#readme)__ __:__ ligne [`18`](../src/modernbb/agreement.tpl#L18)
+* __[`{AGREE_OVER_13}`](../var/AGREE_OVER_13.md#readme)__ __:__ ligne [`25`](../src/modernbb/agreement.tpl#L25)
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/agreement.tpl#L2)
+* __[`{DO_NOT_AGREE}`](../var/DO_NOT_AGREE.md#readme)__ __:__ ligne [`26`](../src/modernbb/agreement.tpl#L26)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/agreement.tpl#L1)
+* __[`{MY_RULES}`](../var/MY_RULES.md#readme)__ __:__ ligne [`19`](../src/modernbb/agreement.tpl#L19)
+* __[`{U_AGREE_OVER13}`](../var/U_AGREE_OVER13.md#readme)__ __:__ ligne [`25`](../src/modernbb/agreement.tpl#L25)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`26`](../src/modernbb/agreement.tpl#L26)
+* __[`<!-- BEGIN switch_fb_explain -->`](../var/switch_fb_explain.md#readme)__ __:__ ligne [`5`](../src/modernbb/agreement.tpl#L5)
+* __[`<!-- END switch_fb_explain -->`](../var/switch_fb_explain.md#readme)__ __:__ ligne [`14`](../src/modernbb/agreement.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_explain.FB_EXPLAIN}`](../var/switch_fb_explain.FB_EXPLAIN.md#readme)__ __:__ ligne [`10`](../src/modernbb/agreement.tpl#L10)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/agreement.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/agreement.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/agreement.tpl#files)
@@ -136,9 +156,3 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END message_admin_txt -->`](../var/switch_user_logged_in.message_admin_index.message_admin_txt.md#readme)__ __:__ ligne [`15`](../src/invision/agreement.tpl#L15)
 * __[`<!-- BEGIN switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)__ __:__ ligne [`19`](../src/invision/agreement.tpl#L19)
 * __[`<!-- END switch_user_logged_out -->`](../var/switch_user_logged_out.md#readme)__ __:__ ligne [`21`](../src/invision/agreement.tpl#L21)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/agreement.tpl#files)
-
-### Positions des variables

@@ -18,6 +18,9 @@ Contient la langue de votre forum.
 ### Version phpBB2
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`20`](../src/subsilver/search_body.tpl#L20)
 
+### Version ModernBB
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`20`](../src/modernbb/search_body.tpl#L20)
+
 ### Version PunBB
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`43`](../src/punbb/search_body.tpl#L43)
 

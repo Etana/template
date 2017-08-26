@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`39`](../src/subsilver/portal_body.tpl#L39)
 
+### Version ModernBB
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`43`](../src/modernbb/portal_body.tpl#L43)
+
 ### Version PunBB
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`44`](../src/punbb/portal_body.tpl#L44)
 

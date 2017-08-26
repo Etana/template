@@ -20,6 +20,9 @@ Chaîne de texte du popup de connexion.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`232`](../src/subsilver/overall_header.tpl#L232)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`247`](../src/modernbb/overall_header.tpl#L247)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`235`](../src/punbb/overall_header.tpl#L235)
 

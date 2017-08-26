@@ -24,6 +24,9 @@ Contient la relation partant du document courant vers l'ancre définie dans `PA 
 ### Version phpBB2
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`19`](../src/subsilver/overall_footer_end.tpl#L19)
 
+### Version ModernBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`17`](../src/modernbb/overall_footer_end.tpl#L17)
+
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`21`](../src/punbb/overall_footer_end.tpl#L21)
 

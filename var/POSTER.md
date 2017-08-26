@@ -20,6 +20,7 @@ Dans certains templates, il est plutôt utilisé comme variable d'affichage et e
 
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.BARRE}`](../var/POSTER.BARRE.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.BARRE))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.BARRE_PERCENT}`](../var/POSTER.BARRE_PERCENT.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.BARRE_PERCENT))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NAME}`](../var/POSTER.NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.NAME))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.NB_POSTS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_TOPICS}`](../var/POSTER.NB_TOPICS.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.NB_TOPICS))__
@@ -45,6 +46,15 @@ Dans certains templates, il est plutôt utilisé comme variable d'affichage et e
 * __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme)__ __:__ lignes [`8`](../src/subsilver/mod_top_post_users_week.tpl#L8)[`<->`](../src/subsilver/mod_top_post_users_week.tpl#L8-L13)[`13`](../src/subsilver/mod_top_post_users_week.tpl#L13)
 * __[`mod_top_posters`](../tpl/mod_top_posters.md#readme)__ __:__ lignes [`8`](../src/subsilver/mod_top_posters.tpl#L8)[`<->`](../src/subsilver/mod_top_posters.tpl#L8-L13)[`13`](../src/subsilver/mod_top_posters.tpl#L13)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`16`](../src/subsilver/modcp_viewip.tpl#L16)
+
+### Version ModernBB
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`13`](../src/modernbb/album_overview_top10.tpl#L13)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`266`](../src/modernbb/album_showpage_body.tpl#L266)
+* __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_most_active_starters.tpl#L4)[`<->`](../src/modernbb/mod_most_active_starters.tpl#L4-L12)[`12`](../src/modernbb/mod_most_active_starters.tpl#L12)
+* __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_top_post_users_month.tpl#L4)[`<->`](../src/modernbb/mod_top_post_users_month.tpl#L4-L13)[`13`](../src/modernbb/mod_top_post_users_month.tpl#L13)
+* __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_top_post_users_week.tpl#L4)[`<->`](../src/modernbb/mod_top_post_users_week.tpl#L4-L13)[`13`](../src/modernbb/mod_top_post_users_week.tpl#L13)
+* __[`mod_top_posters`](../tpl/mod_top_posters.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_top_posters.tpl#L4)[`<->`](../src/modernbb/mod_top_posters.tpl#L4-L13)[`13`](../src/modernbb/mod_top_posters.tpl#L13)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`17`](../src/modernbb/modcp_viewip.tpl#L17)
 
 ### Version PunBB
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`11`](../src/punbb/album_overview_top10.tpl#L11)

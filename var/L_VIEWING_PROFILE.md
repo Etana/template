@@ -22,6 +22,11 @@
 * __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`8`](../src/subsilver/rpg_sheet.tpl#L8)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`7`](../src/subsilver/rpg_sheet_edit.tpl#L7)
 
+### Version ModernBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/profile_view_body.tpl#L1)
+* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`1`](../src/modernbb/rpg_sheet.tpl#L1)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`10`](../src/modernbb/rpg_sheet_edit.tpl#L10)
+
 ### Version PunBB
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`18`](../src/punbb/profile_view_body.tpl#L18)
 * __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`18`](../src/punbb/rpg_sheet.tpl#L18)

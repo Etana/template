@@ -19,6 +19,9 @@
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`30`](../src/subsilver/album_overview_top10.tpl#L30)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`62`](../src/subsilver/privmsgs_body.tpl#L62)
 
+### Version ModernBB
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`22`](../src/modernbb/album_overview_top10.tpl#L22)
+
 ### Version PunBB
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`20`](../src/punbb/album_overview_top10.tpl#L20)
 

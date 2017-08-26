@@ -25,6 +25,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`28`](../src/subsilver/portal_body.tpl#L28)[`<->`](../src/subsilver/portal_body.tpl#L28-L34)[`34`](../src/subsilver/portal_body.tpl#L34)
 
+### Version ModernBB
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`33`](../src/modernbb/portal_body.tpl#L33)[`<->`](../src/modernbb/portal_body.tpl#L33-L35)[`35`](../src/modernbb/portal_body.tpl#L35)
+
 ### Version PunBB
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`33`](../src/punbb/portal_body.tpl#L33)[`<->`](../src/punbb/portal_body.tpl#L33-L38)[`38`](../src/punbb/portal_body.tpl#L38)
 

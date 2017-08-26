@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`48`](../src/subsilver/privmsgs_read_body.tpl#L48)
 
+### Version ModernBB
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`37`](../src/modernbb/privmsgs_read_body.tpl#L37)
+
 ### Version PunBB
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`74`](../src/punbb/privmsgs_read_body.tpl#L74)
 

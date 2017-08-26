@@ -21,6 +21,9 @@
 ### Version phpBB3
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`34`](../src/prosilver/album_index_body.tpl#L34)
 
+### Version ModernBB
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`31`](../src/modernbb/album_index_body.tpl#L31)
+
 ### Version PunBB
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`43`](../src/punbb/album_index_body.tpl#L43)
 

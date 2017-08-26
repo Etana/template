@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`22`](../src/subsilver/groupcp_user_body.tpl#L22)[`<->`](../src/subsilver/groupcp_user_body.tpl#L22-L41)[`41`](../src/subsilver/groupcp_user_body.tpl#L41)
 
+### Version ModernBB
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`34`](../src/modernbb/groupcp_user_body.tpl#L34)[`<->`](../src/modernbb/groupcp_user_body.tpl#L34-L48)[`48`](../src/modernbb/groupcp_user_body.tpl#L48)
+
 ### Version PunBB
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`55`](../src/punbb/groupcp_user_body.tpl#L55)[`<->`](../src/punbb/groupcp_user_body.tpl#L55-L70)[`70`](../src/punbb/groupcp_user_body.tpl#L70)
 

@@ -26,6 +26,11 @@
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`35`](../src/subsilver/posting_smilies_frame.tpl#L35), [`35`](../src/subsilver/posting_smilies_frame.tpl#L35)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41), [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41)
 
+### Version ModernBB
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`25`](../src/modernbb/posting_smilies.tpl#L25), [`25`](../src/modernbb/posting_smilies.tpl#L25)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`29`](../src/modernbb/posting_smilies_frame.tpl#L29), [`29`](../src/modernbb/posting_smilies_frame.tpl#L29)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`29`](../src/modernbb/posting_smilies_wysiwyg.tpl#L29), [`29`](../src/modernbb/posting_smilies_wysiwyg.tpl#L29)
+
 ### Version PunBB
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`19`](../src/punbb/posting_smilies.tpl#L19), [`19`](../src/punbb/posting_smilies.tpl#L19)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`30`](../src/punbb/posting_smilies_frame.tpl#L30), [`30`](../src/punbb/posting_smilies_frame.tpl#L30)

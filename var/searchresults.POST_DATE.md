@@ -20,6 +20,9 @@ Contient la date du message posté.
 ### Version phpBB2
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`43`](../src/subsilver/search_results_posts.tpl#L43)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`6`](../src/modernbb/search_results_posts.tpl#L6)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`37`](../src/punbb/search_results_posts.tpl#L37)
 

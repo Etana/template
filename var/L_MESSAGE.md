@@ -45,6 +45,12 @@ L'Equipe du site
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`16`](../src/subsilver/search_results_posts.tpl#L16)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`120`](../src/subsilver/viewtopic_body.tpl#L120), [`260`](../src/subsilver/viewtopic_body.tpl#L260)
 
+### Version ModernBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`22`](../src/modernbb/greeting_popup.tpl#L22)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`20`](../src/modernbb/privmsgs_popup.tpl#L20)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`18`](../src/modernbb/privmsgs_read_body.tpl#L18)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme)__ __:__ lignes [`22`](../src/modernbb/report_popup_body.tpl#L22)
+
 ### Version PunBB
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`24`](../src/punbb/greeting_popup.tpl#L24)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`168`](../src/punbb/posting_body.tpl#L168)

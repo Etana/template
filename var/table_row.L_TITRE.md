@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`5`](../src/subsilver/standard.tpl#L5)
 
+### Version ModernBB
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`3`](../src/modernbb/standard.tpl#L3)
+
 ### Version PunBB
 * __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`3`](../src/punbb/standard.tpl#L3)
 

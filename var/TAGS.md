@@ -27,6 +27,10 @@ contenu sur lequel on boucle
 * __[`mod_search`](../tpl/mod_search.md#readme)__ __:__ lignes [`18`](../src/subsilver/mod_search.tpl#L18)[`<->`](../src/subsilver/mod_search.tpl#L18-L22)[`22`](../src/subsilver/mod_search.tpl#L22)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`31`](../src/subsilver/search_body.tpl#L31)[`<->`](../src/subsilver/search_body.tpl#L31-L35)[`35`](../src/subsilver/search_body.tpl#L35)
 
+### Version ModernBB
+* __[`mod_search`](../tpl/mod_search.md#readme)__ __:__ lignes [`30`](../src/modernbb/mod_search.tpl#L30)[`<->`](../src/modernbb/mod_search.tpl#L30-L35)[`35`](../src/modernbb/mod_search.tpl#L35)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`26`](../src/modernbb/search_body.tpl#L26)[`<->`](../src/modernbb/search_body.tpl#L26-L28)[`28`](../src/modernbb/search_body.tpl#L28)
+
 ### Version PunBB
 * __[`mod_search`](../tpl/mod_search.md#readme)__ __:__ lignes [`17`](../src/punbb/mod_search.tpl#L17)[`<->`](../src/punbb/mod_search.tpl#L17-L21)[`21`](../src/punbb/mod_search.tpl#L21)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`49`](../src/punbb/search_body.tpl#L49)[`<->`](../src/punbb/search_body.tpl#L49-L51)[`51`](../src/punbb/search_body.tpl#L51)

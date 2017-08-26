@@ -20,6 +20,9 @@ Contient le nombre de réponses dans le sujet.
 ### Version phpBB2
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`32`](../src/subsilver/search_results_posts.tpl#L32)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`10`](../src/modernbb/search_results_posts.tpl#L10)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`61`](../src/punbb/search_results_posts.tpl#L61)
 

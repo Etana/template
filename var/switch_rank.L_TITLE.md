@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`4`](../src/subsilver/album_overview_top10.tpl#L4)
 
+### Version ModernBB
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`3`](../src/modernbb/album_overview_top10.tpl#L3)
+
 ### Version PunBB
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`8`](../src/punbb/album_overview_top10.tpl#L8)
 

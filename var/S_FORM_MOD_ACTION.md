@@ -18,3 +18,6 @@
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`458`](../src/subsilver/viewtopic_body.tpl#L458)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`357`](../src/modernbb/viewtopic_body.tpl#L357)
+

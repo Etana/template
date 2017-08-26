@@ -25,6 +25,9 @@
 ### Version phpBB2
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`202`](../src/subsilver/profile_add_body.tpl#L202)[`<->`](../src/subsilver/profile_add_body.tpl#L202-L211)[`211`](../src/subsilver/profile_add_body.tpl#L211)
 
+### Version ModernBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`233`](../src/modernbb/profile_add_body.tpl#L233)[`<->`](../src/modernbb/profile_add_body.tpl#L233-L243)[`243`](../src/modernbb/profile_add_body.tpl#L243)
+
 ### Version PunBB
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`248`](../src/punbb/profile_add_body.tpl#L248)[`<->`](../src/punbb/profile_add_body.tpl#L248-L257)[`257`](../src/punbb/profile_add_body.tpl#L257)
 

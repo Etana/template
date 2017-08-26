@@ -34,6 +34,11 @@ Code html de l'image `Revenir en haut` spécifiée dans [`Index`](http://votre-f
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`97`](../src/subsilver/topics_list_box.tpl#L97)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`242`](../src/subsilver/viewtopic_body.tpl#L242), [`278`](../src/subsilver/viewtopic_body.tpl#L278)
 
+### Version ModernBB
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`54`](../src/modernbb/birthday_list_box.tpl#L54)
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`22`](../src/modernbb/faq_body.tpl#L22)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`279`](../src/modernbb/viewtopic_body.tpl#L279)
+
 ### Version PunBB
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`46`](../src/punbb/birthday_list_box.tpl#L46)
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`43`](../src/punbb/faq_body.tpl#L43)

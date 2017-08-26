@@ -37,6 +37,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`30`](../src/subsilver/overall_footer_end.tpl#L30)[`<->`](../src/subsilver/overall_footer_end.tpl#L30-L70)[`70`](../src/subsilver/overall_footer_end.tpl#L70)
 
+### Version ModernBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`58`](../src/modernbb/overall_footer_end.tpl#L58)[`<->`](../src/modernbb/overall_footer_end.tpl#L58-L98)[`98`](../src/modernbb/overall_footer_end.tpl#L98)
+
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`38`](../src/punbb/overall_footer_end.tpl#L38)[`<->`](../src/punbb/overall_footer_end.tpl#L38-L78)[`78`](../src/punbb/overall_footer_end.tpl#L78)
 

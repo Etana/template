@@ -31,6 +31,10 @@ contenu sur lequel on boucle
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_rss_feeds.tpl#L10)[`<->`](../src/subsilver/mod_rss_feeds.tpl#L10-L15)[`15`](../src/subsilver/mod_rss_feeds.tpl#L15)
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_social_bookmarking.tpl#L10)[`<->`](../src/subsilver/mod_social_bookmarking.tpl#L10-L14)[`14`](../src/subsilver/mod_social_bookmarking.tpl#L14)
 
+### Version ModernBB
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_rss_feeds.tpl#L4)[`<->`](../src/modernbb/mod_rss_feeds.tpl#L4-L9)[`9`](../src/modernbb/mod_rss_feeds.tpl#L9)
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`5`](../src/modernbb/mod_social_bookmarking.tpl#L5)[`<->`](../src/modernbb/mod_social_bookmarking.tpl#L5-L9)[`9`](../src/modernbb/mod_social_bookmarking.tpl#L9)
+
 ### Version PunBB
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`6`](../src/punbb/mod_rss_feeds.tpl#L6)[`<->`](../src/punbb/mod_rss_feeds.tpl#L6-L11)[`11`](../src/punbb/mod_rss_feeds.tpl#L11)
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`6`](../src/punbb/mod_social_bookmarking.tpl#L6)[`<->`](../src/punbb/mod_social_bookmarking.tpl#L6-L10)[`10`](../src/punbb/mod_social_bookmarking.tpl#L10)

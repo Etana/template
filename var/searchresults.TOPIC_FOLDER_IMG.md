@@ -21,6 +21,9 @@ Contient l'image des sujets définie dans `PA > Affichage > Images et Couleurs |
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`22`](../src/subsilver/search_results_posts.tpl#L22)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`36`](../src/subsilver/search_results_topics.tpl#L36)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`30`](../src/modernbb/search_results_topics.tpl#L30)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`49`](../src/punbb/search_results_topics.tpl#L49)
 

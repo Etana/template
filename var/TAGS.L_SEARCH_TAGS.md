@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`34`](../src/subsilver/search_body.tpl#L34)
 
+### Version ModernBB
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`27`](../src/modernbb/search_body.tpl#L27)
+
 ### Version PunBB
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`50`](../src/punbb/search_body.tpl#L50)
 

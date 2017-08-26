@@ -23,6 +23,11 @@ Chaîne de texte.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`32`](../src/subsilver/search_results_posts.tpl#L32)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`28`](../src/subsilver/search_results_topics.tpl#L28)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`11`](../src/modernbb/search_results_posts.tpl#L11)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`21`](../src/modernbb/search_results_topics.tpl#L21)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`118`](../src/modernbb/topics_list_box.tpl#L118)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`62`](../src/punbb/search_results_posts.tpl#L62)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`39`](../src/punbb/search_results_topics.tpl#L39)

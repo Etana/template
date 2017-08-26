@@ -18,6 +18,9 @@ Logo du forum spécifié dans `PA > Affichage > Images et Couleurs | Gestion des
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`251`](../src/subsilver/overall_header.tpl#L251), [`255`](../src/subsilver/overall_header.tpl#L255), [`263`](../src/subsilver/overall_header.tpl#L263)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`260`](../src/modernbb/overall_header.tpl#L260)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`249`](../src/punbb/overall_header.tpl#L249)
 

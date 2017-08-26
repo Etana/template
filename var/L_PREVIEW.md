@@ -24,6 +24,12 @@
 * __[`posting_preview`](../tpl/posting_preview.md#readme)__ __:__ lignes [`3`](../src/subsilver/posting_preview.tpl#L3)
 * __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme)__ __:__ lignes [`3`](../src/subsilver/privmsgs_preview.tpl#L3)
 
+### Version ModernBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`83`](../src/modernbb/modcp_viewip.tpl#L83)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`171`](../src/modernbb/posting_body.tpl#L171)
+* __[`posting_preview`](../tpl/posting_preview.md#readme)__ __:__ lignes [`4`](../src/modernbb/posting_preview.tpl#L4)
+* __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme)__ __:__ lignes [`1`](../src/modernbb/privmsgs_preview.tpl#L1)
+
 ### Version PunBB
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`109`](../src/punbb/modcp_viewip.tpl#L109)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`202`](../src/punbb/posting_body.tpl#L202)

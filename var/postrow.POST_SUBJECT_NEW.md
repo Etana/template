@@ -17,6 +17,9 @@
 ### Version phpBB3
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`9`](../src/prosilver/privmsg_topic_review.tpl#L9)
 
+### Version ModernBB
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`9`](../src/modernbb/privmsg_topic_review.tpl#L9)
+
 ### Version PunBB
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`23`](../src/punbb/privmsg_topic_review.tpl#L23)
 

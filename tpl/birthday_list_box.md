@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `birthday_list_box`
@@ -168,6 +168,52 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN topic -->`](../var/birthday_list_box.row.topic.md#readme)__ __:__ ligne [`36`](../src/subsilver/birthday_list_box.tpl#L36)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END topic -->`](../var/birthday_list_box.row.topic.md#readme)__ __:__ ligne [`45`](../src/subsilver/birthday_list_box.tpl#L45)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/birthday_list_box.tpl#files)
+
+### Positions des variables
+
+* __[`{L_BACK_TO_TOP}`](../var/L_BACK_TO_TOP.md#readme)__ __:__ ligne [`54`](../src/modernbb/birthday_list_box.tpl#L54)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`53`](../src/modernbb/birthday_list_box.tpl#L53)
+* __[`<!-- BEGIN birthday_list_box -->`](../var/birthday_list_box.md#readme)__ __:__ ligne [`1`](../src/modernbb/birthday_list_box.tpl#L1)
+* __[`<!-- END birthday_list_box -->`](../var/birthday_list_box.md#readme)__ __:__ ligne [`59`](../src/modernbb/birthday_list_box.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN row -->`](../var/birthday_list_box.row.md#readme)__ __:__ ligne [`2`](../src/modernbb/birthday_list_box.tpl#L2)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END row -->`](../var/birthday_list_box.row.md#readme)__ __:__ ligne [`59`](../src/modernbb/birthday_list_box.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.AGE}`](../var/birthday_list_box.row.AGE.md#readme)__ __:__ ligne [`14`](../src/modernbb/birthday_list_box.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.COLSPAN}`](../var/birthday_list_box.row.COLSPAN.md#readme)__ __:__ ligne [`26`](../src/modernbb/birthday_list_box.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.COLSPAN}`](../var/birthday_list_box.row.COLSPAN.md#readme)__ __:__ ligne [`44`](../src/modernbb/birthday_list_box.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.END_TABLE_STICKY}`](../var/birthday_list_box.row.END_TABLE_STICKY.md#readme)__ __:__ ligne [`31`](../src/modernbb/birthday_list_box.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.LOCALISATION}`](../var/birthday_list_box.row.LOCALISATION.md#readme)__ __:__ ligne [`15`](../src/modernbb/birthday_list_box.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.L_NO_TOPICS}`](../var/birthday_list_box.row.L_NO_TOPICS.md#readme)__ __:__ ligne [`44`](../src/modernbb/birthday_list_box.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.L_TITLE}`](../var/birthday_list_box.row.L_TITLE.md#readme)__ __:__ ligne [`26`](../src/modernbb/birthday_list_box.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.MEMBER_ID}`](../var/birthday_list_box.row.MEMBER_ID.md#readme)__ __:__ ligne [`38`](../src/modernbb/birthday_list_box.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.MP}`](../var/birthday_list_box.row.MP.md#readme)__ __:__ ligne [`18`](../src/modernbb/birthday_list_box.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.NOM}`](../var/birthday_list_box.row.NOM.md#readme)__ __:__ ligne [`13`](../src/modernbb/birthday_list_box.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.POSTS}`](../var/birthday_list_box.row.POSTS.md#readme)__ __:__ ligne [`16`](../src/modernbb/birthday_list_box.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.ROW_CLASS}`](../var/birthday_list_box.row.ROW_CLASS.md#readme)__ __:__ ligne [`32`](../src/modernbb/birthday_list_box.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.SITEWEB}`](../var/birthday_list_box.row.SITEWEB.md#readme)__ __:__ ligne [`17`](../src/modernbb/birthday_list_box.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.TOPIC_TITLE}`](../var/birthday_list_box.row.TOPIC_TITLE.md#readme)__ __:__ ligne [`33`](../src/modernbb/birthday_list_box.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.USER_AGE}`](../var/birthday_list_box.row.USER_AGE.md#readme)__ __:__ ligne [`34`](../src/modernbb/birthday_list_box.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.USER_FROM}`](../var/birthday_list_box.row.USER_FROM.md#readme)__ __:__ ligne [`35`](../src/modernbb/birthday_list_box.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.USER_POSTS}`](../var/birthday_list_box.row.USER_POSTS.md#readme)__ __:__ ligne [`36`](../src/modernbb/birthday_list_box.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.U_VIEW_TOPIC}`](../var/birthday_list_box.row.U_VIEW_TOPIC.md#readme)__ __:__ ligne [`33`](../src/modernbb/birthday_list_box.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.WEB_SITE}`](../var/birthday_list_box.row.WEB_SITE.md#readme)__ __:__ ligne [`37`](../src/modernbb/birthday_list_box.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN bottom -->`](../var/birthday_list_box.row.bottom.md#readme)__ __:__ ligne [`48`](../src/modernbb/birthday_list_box.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END bottom -->`](../var/birthday_list_box.row.bottom.md#readme)__ __:__ ligne [`58`](../src/modernbb/birthday_list_box.tpl#L58)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN footer_table -->`](../var/birthday_list_box.row.footer_table.md#readme)__ __:__ ligne [`58`](../src/modernbb/birthday_list_box.tpl#L58)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END footer_table -->`](../var/birthday_list_box.row.footer_table.md#readme)__ __:__ ligne [`59`](../src/modernbb/birthday_list_box.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN header_row -->`](../var/birthday_list_box.row.header_row.md#readme)__ __:__ ligne [`24`](../src/modernbb/birthday_list_box.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END header_row -->`](../var/birthday_list_box.row.header_row.md#readme)__ __:__ ligne [`28`](../src/modernbb/birthday_list_box.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN header_table -->`](../var/birthday_list_box.row.header_table.md#readme)__ __:__ ligne [`3`](../src/modernbb/birthday_list_box.tpl#L3)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END header_table -->`](../var/birthday_list_box.row.header_table.md#readme)__ __:__ ligne [`22`](../src/modernbb/birthday_list_box.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_topics -->`](../var/birthday_list_box.row.no_topics.md#readme)__ __:__ ligne [`42`](../src/modernbb/birthday_list_box.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END no_topics -->`](../var/birthday_list_box.row.no_topics.md#readme)__ __:__ ligne [`46`](../src/modernbb/birthday_list_box.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN spacer -->`](../var/birthday_list_box.row.spacer.md#readme)__ __:__ ligne [`59`](../src/modernbb/birthday_list_box.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END spacer -->`](../var/birthday_list_box.row.spacer.md#readme)__ __:__ ligne [`59`](../src/modernbb/birthday_list_box.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN topic -->`](../var/birthday_list_box.row.topic.md#readme)__ __:__ ligne [`30`](../src/modernbb/birthday_list_box.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END topic -->`](../var/birthday_list_box.row.topic.md#readme)__ __:__ ligne [`40`](../src/modernbb/birthday_list_box.tpl#L40)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/birthday_list_box.tpl#files)
@@ -259,9 +305,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END spacer -->`](../var/birthday_list_box.row.spacer.md#readme)__ __:__ ligne [`50`](../src/invision/birthday_list_box.tpl#L50)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN topic -->`](../var/birthday_list_box.row.topic.md#readme)__ __:__ ligne [`25`](../src/invision/birthday_list_box.tpl#L25)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END topic -->`](../var/birthday_list_box.row.topic.md#readme)__ __:__ ligne [`35`](../src/invision/birthday_list_box.tpl#L35)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/birthday_list_box.tpl#files)
-
-### Positions des variables

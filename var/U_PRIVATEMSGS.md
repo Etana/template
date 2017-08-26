@@ -20,6 +20,10 @@ Adresse url absolue vers la boîte de réception des messages privés : `/privms
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`5`](../src/subsilver/greeting_popup.tpl#L5)
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`12`](../src/subsilver/privmsgs_popup.tpl#L12)
 
+### Version ModernBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`10`](../src/modernbb/greeting_popup.tpl#L10)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`9`](../src/modernbb/privmsgs_popup.tpl#L9)
+
 ### Version PunBB
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`10`](../src/punbb/greeting_popup.tpl#L10)
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`9`](../src/punbb/privmsgs_popup.tpl#L9)

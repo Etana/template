@@ -32,6 +32,10 @@ contenu sur lequel on boucle
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`23`](../src/subsilver/faq_body.tpl#L23)[`<->`](../src/subsilver/faq_body.tpl#L23-L52)[`52`](../src/subsilver/faq_body.tpl#L52)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`24`](../src/subsilver/faq_dhtml.tpl#L24)[`<->`](../src/subsilver/faq_dhtml.tpl#L24-L53)[`53`](../src/subsilver/faq_dhtml.tpl#L53)
 
+### Version ModernBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`14`](../src/modernbb/faq_body.tpl#L14)[`<->`](../src/modernbb/faq_body.tpl#L14-L28)[`28`](../src/modernbb/faq_body.tpl#L28)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`11`](../src/modernbb/faq_dhtml.tpl#L11)[`<->`](../src/modernbb/faq_dhtml.tpl#L11-L25)[`25`](../src/modernbb/faq_dhtml.tpl#L25)
+
 ### Version PunBB
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`33`](../src/punbb/faq_body.tpl#L33)[`<->`](../src/punbb/faq_body.tpl#L33-L48)[`48`](../src/punbb/faq_body.tpl#L48)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`28`](../src/punbb/faq_dhtml.tpl#L28)[`<->`](../src/punbb/faq_dhtml.tpl#L28-L43)[`43`](../src/punbb/faq_dhtml.tpl#L43)

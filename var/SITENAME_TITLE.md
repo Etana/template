@@ -18,6 +18,9 @@ Contient le titre de la page d'accueil défini dans votre `PA > Général > Prom
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/subsilver/overall_header.tpl#L4), [`17`](../src/subsilver/overall_header.tpl#L17)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/modernbb/overall_header.tpl#L4), [`17`](../src/modernbb/overall_header.tpl#L17)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/punbb/overall_header.tpl#L4), [`17`](../src/punbb/overall_header.tpl#L17)
 

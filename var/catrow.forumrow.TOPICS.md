@@ -22,6 +22,9 @@ Contient le nombre de sujets postés dans le forum bouclé.
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`66`](../src/subsilver/index_box.tpl#L66)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`53`](../src/modernbb/index_box.tpl#L53)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`39`](../src/punbb/index_box.tpl#L39)
 

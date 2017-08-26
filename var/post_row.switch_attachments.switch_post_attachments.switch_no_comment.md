@@ -30,6 +30,9 @@
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`39`](../src/subsilver/mod_news.tpl#L39)[`<->`](../src/subsilver/mod_news.tpl#L39-L43)[`43`](../src/subsilver/mod_news.tpl#L43)
 
+### Version ModernBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`28`](../src/modernbb/mod_news.tpl#L28)[`<->`](../src/modernbb/mod_news.tpl#L28-L32)[`32`](../src/modernbb/mod_news.tpl#L32)
+
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`32`](../src/punbb/mod_news.tpl#L32)[`<->`](../src/punbb/mod_news.tpl#L32-L36)[`36`](../src/punbb/mod_news.tpl#L36)
 

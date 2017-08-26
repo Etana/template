@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`28`](../src/subsilver/modcp_body.tpl#L28)
 
+### Version ModernBB
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`35`](../src/modernbb/modcp_body.tpl#L35)
+
 ### Version PunBB
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`54`](../src/punbb/modcp_body.tpl#L54)
 

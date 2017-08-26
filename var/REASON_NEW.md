@@ -15,6 +15,9 @@
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/posting_body.tpl#L61)
 
+### Version ModernBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`57`](../src/modernbb/posting_body.tpl#L57)
+
 ### Version PunBB
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`79`](../src/punbb/posting_body.tpl#L79)
 

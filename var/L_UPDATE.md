@@ -24,6 +24,11 @@ Texte.
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`31`](../src/subsilver/groupcp_info_body.tpl#L31)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`35`](../src/modernbb/groupcp_info_body.tpl#L35)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`57`](../src/modernbb/profile_view_body.tpl#L57)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`59`](../src/punbb/groupcp_info_body.tpl#L59)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

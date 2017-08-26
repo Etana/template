@@ -22,6 +22,9 @@ Contient l'URL du lien défini dans `PA > Modules > Liens de bas de page | Confi
 ### Version phpBB2
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`19`](../src/subsilver/overall_footer_end.tpl#L19)
 
+### Version ModernBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`17`](../src/modernbb/overall_footer_end.tpl#L17)
+
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`21`](../src/punbb/overall_footer_end.tpl#L21)
 

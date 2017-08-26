@@ -18,6 +18,9 @@ Affiche la barre de navigation choisie dans PA > Affichage > Page d'accueil | En
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`270`](../src/subsilver/overall_header.tpl#L270)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`263`](../src/modernbb/overall_header.tpl#L263)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`262`](../src/punbb/overall_header.tpl#L262)
 

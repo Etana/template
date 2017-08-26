@@ -37,6 +37,15 @@ Affiche le template [`jumpbox`](../tpl/jumpbox.md#readme) ou [`jumpbox`](../tpl/
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`82`](../src/subsilver/search_results_topics.tpl#L82)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`61`](../src/subsilver/viewonline_body.tpl#L61)
 
+### Version ModernBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`54`](../src/modernbb/calendar_scheduler_body.tpl#L54)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`92`](../src/modernbb/privmsgs_body.tpl#L92)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`73`](../src/modernbb/privmsgs_read_body.tpl#L73)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`82`](../src/modernbb/search_body.tpl#L82)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`23`](../src/modernbb/search_results_posts.tpl#L23)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`66`](../src/modernbb/search_results_topics.tpl#L66)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`51`](../src/modernbb/viewonline_body.tpl#L51)
+
 ### Version Invision
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`46`](../src/invision/calendar_scheduler_body.tpl#L46)
 

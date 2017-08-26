@@ -20,6 +20,9 @@ Classe attribuée au conteneur principal de votre forum.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`315`](../src/subsilver/overall_header.tpl#L315)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`321`](../src/modernbb/overall_header.tpl#L321)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`302`](../src/punbb/overall_header.tpl#L302)
 

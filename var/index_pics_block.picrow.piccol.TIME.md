@@ -24,6 +24,9 @@
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`70`](../src/subsilver/album_cat_body.tpl#L70)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`38`](../src/modernbb/album_cat_body.tpl#L38)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`42`](../src/punbb/album_cat_body.tpl#L42)
 

@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`13`](../src/subsilver/mod_whoisonline.tpl#L13)[`<->`](../src/subsilver/mod_whoisonline.tpl#L13-L17)[`17`](../src/subsilver/mod_whoisonline.tpl#L17)
 
+### Version ModernBB
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`5`](../src/modernbb/mod_whoisonline.tpl#L5)[`<->`](../src/modernbb/mod_whoisonline.tpl#L5-L7)[`7`](../src/modernbb/mod_whoisonline.tpl#L7)
+
 ### Version PunBB
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`6`](../src/punbb/mod_whoisonline.tpl#L6)[`<->`](../src/punbb/mod_whoisonline.tpl#L6-L9)[`9`](../src/punbb/mod_whoisonline.tpl#L9)
 

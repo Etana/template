@@ -19,3 +19,6 @@
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`49`](../src/subsilver/modcp_split.tpl#L49)
 * __[`posting_preview`](../tpl/posting_preview.md#readme)__ __:__ lignes [`6`](../src/subsilver/posting_preview.tpl#L6)
 
+### Version ModernBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`44`](../src/modernbb/modcp_split.tpl#L44)
+

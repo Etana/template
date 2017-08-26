@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `calendar_body`
@@ -52,6 +52,20 @@
 * __[`{U_CALENDAR}`](../var/U_CALENDAR.md#readme)__ __:__ ligne [`3`](../src/subsilver/calendar_body.tpl#L3)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`3`](../src/subsilver/calendar_body.tpl#L3)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/calendar_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CALENDAR_MONTH}`](../var/CALENDAR_MONTH.md#readme)__ __:__ ligne [`10`](../src/modernbb/calendar_body.tpl#L10)
+* __[`{L_CALENDAR}`](../var/L_CALENDAR.md#readme)__ __:__ ligne [`4`](../src/modernbb/calendar_body.tpl#L4)
+* __[`{L_CALENDAR}`](../var/L_CALENDAR.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_body.tpl#L5)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_body.tpl#L5)
+* __[`{NAV_SEPARATOR}`](../var/NAV_SEPARATOR.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_body.tpl#L5)
+* __[`{U_CALENDAR}`](../var/U_CALENDAR.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_body.tpl#L5)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_body.tpl#L5)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_body.tpl#files)
@@ -86,9 +100,3 @@
 * __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`2`](../src/invision/calendar_body.tpl#L2)
 * __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`3`](../src/invision/calendar_body.tpl#L3)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`2`](../src/invision/calendar_body.tpl#L2)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/calendar_body.tpl#files)
-
-### Positions des variables

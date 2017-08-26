@@ -22,6 +22,10 @@
 * __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_most_active_topics.tpl#L10)
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_most_viewed_topics.tpl#L10)
 
+### Version ModernBB
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`7`](../src/modernbb/mod_most_active_topics.tpl#L7)
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`7`](../src/modernbb/mod_most_viewed_topics.tpl#L7)
+
 ### Version PunBB
 * __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`7`](../src/punbb/mod_most_active_topics.tpl#L7)
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`7`](../src/punbb/mod_most_viewed_topics.tpl#L7)

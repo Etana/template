@@ -20,6 +20,10 @@ Lien vers "Sujets surveillés" dans le menu Plus !
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`21`](../src/subsilver/viewforum_body.tpl#L21)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`88`](../src/subsilver/viewtopic_body.tpl#L88)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`41`](../src/modernbb/viewforum_body.tpl#L41)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`88`](../src/modernbb/viewtopic_body.tpl#L88)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`10`](../src/punbb/viewforum_body.tpl#L10)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`50`](../src/punbb/viewtopic_body.tpl#L50)

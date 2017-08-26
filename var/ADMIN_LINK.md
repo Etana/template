@@ -15,6 +15,9 @@
 ### Version phpBB3
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`31`](../src/prosilver/overall_footer_end.tpl#L31)
 
+### Version ModernBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`28`](../src/modernbb/overall_footer_end.tpl#L28)
+
 ### Version PunBB
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`29`](../src/punbb/overall_footer_end.tpl#L29)
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`58`](../src/punbb/portal_body.tpl#L58)

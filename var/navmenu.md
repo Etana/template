@@ -23,3 +23,6 @@ Boucle s'affichant si vous êtes dans les résultats de recherche par sujets `/s
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`5`](../src/subsilver/search_results_topics.tpl#L5)[`<->`](../src/subsilver/search_results_topics.tpl#L5-L15)[`15`](../src/subsilver/search_results_topics.tpl#L15)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`6`](../src/modernbb/search_results_topics.tpl#L6)[`<->`](../src/modernbb/search_results_topics.tpl#L6-L10)[`10`](../src/modernbb/search_results_topics.tpl#L10)
+

@@ -22,6 +22,10 @@
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`12`](../src/subsilver/posting_smilies_wysiwyg.tpl#L12)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`14`](../src/subsilver/simple_header.tpl#L14)
 
+### Version ModernBB
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`12`](../src/modernbb/posting_smilies_frame.tpl#L12), [`13`](../src/modernbb/posting_smilies_frame.tpl#L13)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`12`](../src/modernbb/posting_smilies_wysiwyg.tpl#L12), [`13`](../src/modernbb/posting_smilies_wysiwyg.tpl#L13)
+
 ### Version PunBB
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`12`](../src/punbb/posting_smilies_frame.tpl#L12), [`13`](../src/punbb/posting_smilies_frame.tpl#L13)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`12`](../src/punbb/posting_smilies_wysiwyg.tpl#L12), [`13`](../src/punbb/posting_smilies_wysiwyg.tpl#L13)

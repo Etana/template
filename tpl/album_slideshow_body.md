@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_slideshow_body`
@@ -82,6 +82,31 @@
 * __[`<!-- BEGIN switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme)__ __:__ ligne [`5`](../src/subsilver/album_slideshow_body.tpl#L5)
 * __[`<!-- END switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme)__ __:__ ligne [`382`](../src/subsilver/album_slideshow_body.tpl#L382)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/album_slideshow_body.tpl#files)
+
+### Positions des variables
+
+* __[`{DES_LIST}`](../var/DES_LIST.md#readme)__ __:__ ligne [`30`](../src/modernbb/album_slideshow_body.tpl#L30)
+* __[`{JS_MENU}`](../var/JS_MENU.md#readme)__ __:__ ligne [`4`](../src/modernbb/album_slideshow_body.tpl#L4)
+* __[`{L_SLIDESHOW_ONOFF}`](../var/L_SLIDESHOW_ONOFF.md#readme)__ __:__ ligne [`395`](../src/modernbb/album_slideshow_body.tpl#L395)
+* __[`{PIC_LIST}`](../var/PIC_LIST.md#readme)__ __:__ ligne [`28`](../src/modernbb/album_slideshow_body.tpl#L28)
+* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme)__ __:__ ligne [`388`](../src/modernbb/album_slideshow_body.tpl#L388)
+* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme)__ __:__ ligne [`396`](../src/modernbb/album_slideshow_body.tpl#L396)
+* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme)__ __:__ ligne [`396`](../src/modernbb/album_slideshow_body.tpl#L396)
+* __[`{SLIDESHOW_DELAY}`](../var/SLIDESHOW_DELAY.md#readme)__ __:__ ligne [`22`](../src/modernbb/album_slideshow_body.tpl#L22)
+* __[`{SLIDESHOW_SELECT}`](../var/SLIDESHOW_SELECT.md#readme)__ __:__ ligne [`394`](../src/modernbb/album_slideshow_body.tpl#L394)
+* __[`{TIT_LIST}`](../var/TIT_LIST.md#readme)__ __:__ ligne [`29`](../src/modernbb/album_slideshow_body.tpl#L29)
+* __[`{URL_RETURN}`](../var/URL_RETURN.md#readme)__ __:__ ligne [`51`](../src/modernbb/album_slideshow_body.tpl#L51)
+* __[`{U_PIC}`](../var/U_PIC.md#readme)__ __:__ ligne [`396`](../src/modernbb/album_slideshow_body.tpl#L396)
+* __[`{U_SLIDESHOW}`](../var/U_SLIDESHOW.md#readme)__ __:__ ligne [`392`](../src/modernbb/album_slideshow_body.tpl#L392)
+* __[`{U_SLIDESHOW_REFRESH}`](../var/U_SLIDESHOW_REFRESH.md#readme)__ __:__ ligne [`2`](../src/modernbb/album_slideshow_body.tpl#L2)
+* __[`<!-- BEGIN switch_slideshow -->`](../var/switch_slideshow.md#readme)__ __:__ ligne [`1`](../src/modernbb/album_slideshow_body.tpl#L1)
+* __[`<!-- END switch_slideshow -->`](../var/switch_slideshow.md#readme)__ __:__ ligne [`3`](../src/modernbb/album_slideshow_body.tpl#L3)
+* __[`<!-- BEGIN switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme)__ __:__ ligne [`5`](../src/modernbb/album_slideshow_body.tpl#L5)
+* __[`<!-- END switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme)__ __:__ ligne [`384`](../src/modernbb/album_slideshow_body.tpl#L384)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_slideshow_body.tpl#files)
@@ -131,9 +156,3 @@
 * __[`<!-- END switch_slideshow -->`](../var/switch_slideshow.md#readme)__ __:__ ligne [`3`](../src/invision/album_slideshow_body.tpl#L3)
 * __[`<!-- BEGIN switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme)__ __:__ ligne [`5`](../src/invision/album_slideshow_body.tpl#L5)
 * __[`<!-- END switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme)__ __:__ ligne [`382`](../src/invision/album_slideshow_body.tpl#L382)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/album_slideshow_body.tpl#files)
-
-### Positions des variables

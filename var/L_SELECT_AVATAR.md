@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`27`](../src/subsilver/profile_avatar_gallery.tpl#L27)
 
+### Version ModernBB
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`22`](../src/modernbb/profile_avatar_gallery.tpl#L22)
+
 ### Version PunBB
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`44`](../src/punbb/profile_avatar_gallery.tpl#L44)
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsg_topic_review`
@@ -84,6 +84,28 @@
 * __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`36`](../src/subsilver/privmsg_topic_review.tpl#L36)
 * __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`39`](../src/subsilver/privmsg_topic_review.tpl#L39)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/privmsg_topic_review.tpl#files)
+
+### Positions des variables
+
+* __[`{L_TOPIC_REVIEW}`](../var/L_TOPIC_REVIEW.md#readme)__ __:__ ligne [`2`](../src/modernbb/privmsg_topic_review.tpl#L2)
+* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`5`](../src/modernbb/privmsg_topic_review.tpl#L5)
+* __[`<!-- END postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`15`](../src/modernbb/privmsg_topic_review.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.L_TOPIC_BY}`](../var/postrow.L_TOPIC_BY.md#readme)__ __:__ ligne [`10`](../src/modernbb/privmsg_topic_review.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.L_TOPIC_ON}`](../var/postrow.L_TOPIC_ON.md#readme)__ __:__ ligne [`10`](../src/modernbb/privmsg_topic_review.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.MESSAGE}`](../var/postrow.MESSAGE.md#readme)__ __:__ ligne [`11`](../src/modernbb/privmsg_topic_review.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.MINI_POST_IMG}`](../var/postrow.MINI_POST_IMG.md#readme)__ __:__ ligne [`10`](../src/modernbb/privmsg_topic_review.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_AVATAR}`](../var/postrow.POSTER_AVATAR.md#readme)__ __:__ ligne [`7`](../src/modernbb/privmsg_topic_review.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme)__ __:__ ligne [`7`](../src/modernbb/privmsg_topic_review.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme)__ __:__ ligne [`10`](../src/modernbb/privmsg_topic_review.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme)__ __:__ ligne [`10`](../src/modernbb/privmsg_topic_review.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT_NEW}`](../var/postrow.POST_SUBJECT_NEW.md#readme)__ __:__ ligne [`9`](../src/modernbb/privmsg_topic_review.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.ROW_CLASS}`](../var/postrow.ROW_CLASS.md#readme)__ __:__ ligne [`6`](../src/modernbb/privmsg_topic_review.tpl#L6)
+* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`1`](../src/modernbb/privmsg_topic_review.tpl#L1)
+* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`3`](../src/modernbb/privmsg_topic_review.tpl#L3)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/privmsg_topic_review.tpl#files)
@@ -119,9 +141,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT_NEW}`](../var/postrow.POST_SUBJECT_NEW.md#readme)__ __:__ ligne [`23`](../src/invision/privmsg_topic_review.tpl#L23)
 * __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`2`](../src/invision/privmsg_topic_review.tpl#L2)
 * __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`6`](../src/invision/privmsg_topic_review.tpl#L6)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/privmsg_topic_review.tpl#files)
-
-### Positions des variables

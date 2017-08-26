@@ -22,6 +22,9 @@ Contient la version d'affichage de Internet Explorer pour la balise X-UA-Compati
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`9`](../src/subsilver/overall_header.tpl#L9)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`9`](../src/modernbb/overall_header.tpl#L9)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`9`](../src/punbb/overall_header.tpl#L9)
 

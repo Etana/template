@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_split`
@@ -127,6 +127,45 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.S_SPLIT_CHECKBOX}`](../var/postrow.S_SPLIT_CHECKBOX.md#readme)__ __:__ ligne [`61`](../src/subsilver/modcp_split.tpl#L61)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.U_POST_ID}`](../var/postrow.U_POST_ID.md#readme)__ __:__ ligne [`41`](../src/subsilver/modcp_split.tpl#L41)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/modcp_split.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/modcp_split.tpl#L2)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_split.tpl#L1)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`6`](../src/modernbb/modcp_split.tpl#L6)
+* __[`{L_POST}`](../var/L_POST.md#readme)__ __:__ ligne [`44`](../src/modernbb/modcp_split.tpl#L44)
+* __[`{L_POSTED}`](../var/L_POSTED.md#readme)__ __:__ ligne [`44`](../src/modernbb/modcp_split.tpl#L44)
+* __[`{L_SPLIT_AFTER}`](../var/L_SPLIT_AFTER.md#readme)__ __:__ ligne [`32`](../src/modernbb/modcp_split.tpl#L32)
+* __[`{L_SPLIT_AFTER}`](../var/L_SPLIT_AFTER.md#readme)__ __:__ ligne [`58`](../src/modernbb/modcp_split.tpl#L58)
+* __[`{L_SPLIT_FORUM}`](../var/L_SPLIT_FORUM.md#readme)__ __:__ ligne [`23`](../src/modernbb/modcp_split.tpl#L23)
+* __[`{L_SPLIT_POSTS}`](../var/L_SPLIT_POSTS.md#readme)__ __:__ ligne [`31`](../src/modernbb/modcp_split.tpl#L31)
+* __[`{L_SPLIT_POSTS}`](../var/L_SPLIT_POSTS.md#readme)__ __:__ ligne [`57`](../src/modernbb/modcp_split.tpl#L57)
+* __[`{L_SPLIT_SUBJECT}`](../var/L_SPLIT_SUBJECT.md#readme)__ __:__ ligne [`19`](../src/modernbb/modcp_split.tpl#L19)
+* __[`{L_SPLIT_TOPIC}`](../var/L_SPLIT_TOPIC.md#readme)__ __:__ ligne [`9`](../src/modernbb/modcp_split.tpl#L9)
+* __[`{L_SPLIT_TOPIC_EXPLAIN}`](../var/L_SPLIT_TOPIC_EXPLAIN.md#readme)__ __:__ ligne [`17`](../src/modernbb/modcp_split.tpl#L17)
+* __[`{MAX_TOPIC_LENGTH}`](../var/MAX_TOPIC_LENGTH.md#readme)__ __:__ ligne [`20`](../src/modernbb/modcp_split.tpl#L20)
+* __[`{MINI_POST_IMG}`](../var/MINI_POST_IMG.md#readme)__ __:__ ligne [`44`](../src/modernbb/modcp_split.tpl#L44)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`6`](../src/modernbb/modcp_split.tpl#L6)
+* __[`{S_FORUM_SELECT}`](../var/S_FORUM_SELECT.md#readme)__ __:__ ligne [`24`](../src/modernbb/modcp_split.tpl#L24)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`59`](../src/modernbb/modcp_split.tpl#L59)
+* __[`{S_SPLIT_ACTION}`](../var/S_SPLIT_ACTION.md#readme)__ __:__ ligne [`4`](../src/modernbb/modcp_split.tpl#L4)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`6`](../src/modernbb/modcp_split.tpl#L6)
+* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`38`](../src/modernbb/modcp_split.tpl#L38)
+* __[`<!-- END postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`51`](../src/modernbb/modcp_split.tpl#L51)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.L_SELECT}`](../var/postrow.L_SELECT.md#readme)__ __:__ ligne [`42`](../src/modernbb/modcp_split.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.L_TOPIC_BY}`](../var/postrow.L_TOPIC_BY.md#readme)__ __:__ ligne [`44`](../src/modernbb/modcp_split.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.MESSAGE}`](../var/postrow.MESSAGE.md#readme)__ __:__ ligne [`46`](../src/modernbb/modcp_split.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme)__ __:__ ligne [`44`](../src/modernbb/modcp_split.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme)__ __:__ ligne [`44`](../src/modernbb/modcp_split.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT}`](../var/postrow.POST_SUBJECT.md#readme)__ __:__ ligne [`43`](../src/modernbb/modcp_split.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.ROW_CLASS}`](../var/postrow.ROW_CLASS.md#readme)__ __:__ ligne [`39`](../src/modernbb/modcp_split.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.S_SPLIT_CHECKBOX}`](../var/postrow.S_SPLIT_CHECKBOX.md#readme)__ __:__ ligne [`42`](../src/modernbb/modcp_split.tpl#L42)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_split.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_split.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/modcp_split.tpl#files)
@@ -201,9 +240,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme)__ __:__ ligne [`38`](../src/invision/modcp_split.tpl#L38)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT}`](../var/postrow.POST_SUBJECT.md#readme)__ __:__ ligne [`38`](../src/invision/modcp_split.tpl#L38)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.S_SPLIT_CHECKBOX}`](../var/postrow.S_SPLIT_CHECKBOX.md#readme)__ __:__ ligne [`37`](../src/invision/modcp_split.tpl#L37)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/modcp_split.tpl#files)
-
-### Positions des variables

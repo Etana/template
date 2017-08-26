@@ -26,6 +26,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`11`](../src/subsilver/mod_keywords.tpl#L11)[`<->`](../src/subsilver/mod_keywords.tpl#L11-L13)[`13`](../src/subsilver/mod_keywords.tpl#L13)
 
+### Version ModernBB
+* __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_keywords.tpl#L4)[`<->`](../src/modernbb/mod_keywords.tpl#L4-L6)[`6`](../src/modernbb/mod_keywords.tpl#L6)
+
 ### Version PunBB
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_keywords.tpl#L5)[`<->`](../src/punbb/mod_keywords.tpl#L5-L7)[`7`](../src/punbb/mod_keywords.tpl#L7)
 

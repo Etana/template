@@ -26,6 +26,12 @@
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`54`](../src/subsilver/privmsgs_read_body.tpl#L54)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`46`](../src/subsilver/profile_send_email.tpl#L46)
 
+### Version ModernBB
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`12`](../src/modernbb/calendar_overview_topic.tpl#L12)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`148`](../src/modernbb/posting_body.tpl#L148)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`43`](../src/modernbb/privmsgs_read_body.tpl#L43)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`42`](../src/modernbb/profile_send_email.tpl#L42)
+
 ### Version PunBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`11`](../src/punbb/calendar_overview_topic.tpl#L11)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`170`](../src/punbb/posting_body.tpl#L170)

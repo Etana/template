@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`42`](../src/subsilver/viewonline_body.tpl#L42)
 
+### Version ModernBB
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`34`](../src/modernbb/viewonline_body.tpl#L34)
+
 ### Version PunBB
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`58`](../src/punbb/viewonline_body.tpl#L58)
 

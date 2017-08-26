@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_edit_signature`
@@ -74,6 +74,18 @@
 * __[`<!-- BEGIN switch_post_error -->`](../var/switch_post_error.md#readme)__ __:__ ligne [`1`](../src/subsilver/profile_edit_signature.tpl#L1)
 * __[`<!-- END switch_post_error -->`](../var/switch_post_error.md#readme)__ __:__ ligne [`20`](../src/subsilver/profile_edit_signature.tpl#L20)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/profile_edit_signature.tpl#files)
+
+### Positions des variables
+
+* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)__ __:__ ligne [`4`](../src/modernbb/profile_edit_signature.tpl#L4)
+* __[`{SIGNATURE_EDIT}`](../var/SIGNATURE_EDIT.md#readme)__ __:__ ligne [`14`](../src/modernbb/profile_edit_signature.tpl#L14)
+* __[`{UCP_TABS}`](../var/UCP_TABS.md#readme)__ __:__ ligne [`9`](../src/modernbb/profile_edit_signature.tpl#L9)
+* __[`<!-- BEGIN switch_post_error -->`](../var/switch_post_error.md#readme)__ __:__ ligne [`1`](../src/modernbb/profile_edit_signature.tpl#L1)
+* __[`<!-- END switch_post_error -->`](../var/switch_post_error.md#readme)__ __:__ ligne [`8`](../src/modernbb/profile_edit_signature.tpl#L8)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_edit_signature.tpl#files)
@@ -136,9 +148,3 @@
 * __[`{U_RETURN_PROFILE}`](../var/U_RETURN_PROFILE.md#readme)__ __:__ ligne [`55`](../src/invision/profile_edit_signature.tpl#L55)
 * __[`<!-- BEGIN switch_post_error -->`](../var/switch_post_error.md#readme)__ __:__ ligne [`7`](../src/invision/profile_edit_signature.tpl#L7)
 * __[`<!-- END switch_post_error -->`](../var/switch_post_error.md#readme)__ __:__ ligne [`16`](../src/invision/profile_edit_signature.tpl#L16)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/profile_edit_signature.tpl#files)
-
-### Positions des variables

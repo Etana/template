@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `portal_body`
@@ -141,6 +141,38 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod4.saut.md#readme)__ __:__ ligne [`39`](../src/subsilver/portal_body.tpl#L39)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END saut -->`](../var/giefmod4.saut.md#readme)__ __:__ ligne [`45`](../src/subsilver/portal_body.tpl#L45)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/portal_body.tpl#files)
+
+### Positions des variables
+
+* __[`{C1SIZE}`](../var/C1SIZE.md#readme)__ __:__ ligne [`20`](../src/modernbb/portal_body.tpl#L20)
+* __[`{C1SIZE}`](../var/C1SIZE.md#readme)__ __:__ ligne [`25`](../src/modernbb/portal_body.tpl#L25)
+* __[`{C3SIZE}`](../var/C3SIZE.md#readme)__ __:__ ligne [`25`](../src/modernbb/portal_body.tpl#L25)
+* __[`{C3SIZE}`](../var/C3SIZE.md#readme)__ __:__ ligne [`32`](../src/modernbb/portal_body.tpl#L32)
+* __[`{SPACE_ROW}`](../var/SPACE_ROW.md#readme)__ __:__ ligne [`9`](../src/modernbb/portal_body.tpl#L9)
+* __[`{SPACE_ROW}`](../var/SPACE_ROW.md#readme)__ __:__ ligne [`47`](../src/modernbb/portal_body.tpl#L47)
+* __[`<!-- BEGIN giefmod0 -->`](../var/giefmod0.md#readme)__ __:__ ligne [`4`](../src/modernbb/portal_body.tpl#L4)
+* __[`<!-- END giefmod0 -->`](../var/giefmod0.md#readme)__ __:__ ligne [`14`](../src/modernbb/portal_body.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod0.MODVAR}`](../var/giefmod0.MODVAR.md#readme)__ __:__ ligne [`5`](../src/modernbb/portal_body.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod0.saut.md#readme)__ __:__ ligne [`6`](../src/modernbb/portal_body.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END saut -->`](../var/giefmod0.saut.md#readme)__ __:__ ligne [`13`](../src/modernbb/portal_body.tpl#L13)
+* __[`<!-- BEGIN giefmod1 -->`](../var/giefmod1.md#readme)__ __:__ ligne [`21`](../src/modernbb/portal_body.tpl#L21)
+* __[`<!-- END giefmod1 -->`](../var/giefmod1.md#readme)__ __:__ ligne [`23`](../src/modernbb/portal_body.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod1.MODVAR}`](../var/giefmod1.MODVAR.md#readme)__ __:__ ligne [`22`](../src/modernbb/portal_body.tpl#L22)
+* __[`<!-- BEGIN giefmod2 -->`](../var/giefmod2.md#readme)__ __:__ ligne [`27`](../src/modernbb/portal_body.tpl#L27)
+* __[`<!-- END giefmod2 -->`](../var/giefmod2.md#readme)__ __:__ ligne [`29`](../src/modernbb/portal_body.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod2.MODVAR}`](../var/giefmod2.MODVAR.md#readme)__ __:__ ligne [`28`](../src/modernbb/portal_body.tpl#L28)
+* __[`<!-- BEGIN giefmod3 -->`](../var/giefmod3.md#readme)__ __:__ ligne [`33`](../src/modernbb/portal_body.tpl#L33)
+* __[`<!-- END giefmod3 -->`](../var/giefmod3.md#readme)__ __:__ ligne [`35`](../src/modernbb/portal_body.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod3.MODVAR}`](../var/giefmod3.MODVAR.md#readme)__ __:__ ligne [`34`](../src/modernbb/portal_body.tpl#L34)
+* __[`<!-- BEGIN giefmod4 -->`](../var/giefmod4.md#readme)__ __:__ ligne [`42`](../src/modernbb/portal_body.tpl#L42)
+* __[`<!-- END giefmod4 -->`](../var/giefmod4.md#readme)__ __:__ ligne [`52`](../src/modernbb/portal_body.tpl#L52)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod4.MODVAR}`](../var/giefmod4.MODVAR.md#readme)__ __:__ ligne [`43`](../src/modernbb/portal_body.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod4.saut.md#readme)__ __:__ ligne [`44`](../src/modernbb/portal_body.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END saut -->`](../var/giefmod4.saut.md#readme)__ __:__ ligne [`51`](../src/modernbb/portal_body.tpl#L51)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/portal_body.tpl#files)
@@ -249,9 +281,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod4.MODVAR}`](../var/giefmod4.MODVAR.md#readme)__ __:__ ligne [`40`](../src/invision/portal_body.tpl#L40)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod4.saut.md#readme)__ __:__ ligne [`41`](../src/invision/portal_body.tpl#L41)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END saut -->`](../var/giefmod4.saut.md#readme)__ __:__ ligne [`43`](../src/invision/portal_body.tpl#L43)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/portal_body.tpl#files)
-
-### Positions des variables

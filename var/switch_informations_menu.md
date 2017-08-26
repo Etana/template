@@ -48,6 +48,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`8`](../src/subsilver/profile_add_body.tpl#L8)[`<->`](../src/subsilver/profile_add_body.tpl#L8-L88)[`88`](../src/subsilver/profile_add_body.tpl#L88)
 
+### Version ModernBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`14`](../src/modernbb/profile_add_body.tpl#L14)[`<->`](../src/modernbb/profile_add_body.tpl#L14-L113)[`113`](../src/modernbb/profile_add_body.tpl#L113)
+
 ### Version PunBB
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`25`](../src/punbb/profile_add_body.tpl#L25)[`<->`](../src/punbb/profile_add_body.tpl#L25-L141)[`141`](../src/punbb/profile_add_body.tpl#L141), [`399`](../src/punbb/profile_add_body.tpl#L399)[`<->`](../src/punbb/profile_add_body.tpl#L399-L409)[`409`](../src/punbb/profile_add_body.tpl#L409)
 

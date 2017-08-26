@@ -20,6 +20,9 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`18`](../src/subsilver/buy_credits.tpl#L18)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`12`](../src/modernbb/buy_credits.tpl#L12)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`34`](../src/punbb/buy_credits.tpl#L34)
 

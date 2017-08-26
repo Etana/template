@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`16`](../src/subsilver/mod_social_bookmarking.tpl#L16)
 
+### Version ModernBB
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`11`](../src/modernbb/mod_social_bookmarking.tpl#L11)
+
 ### Version PunBB
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`12`](../src/punbb/mod_social_bookmarking.tpl#L12)
 

@@ -26,6 +26,12 @@
 * __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme)__ __:__ lignes [`17`](../src/subsilver/viewtopic_poll_ballot.tpl#L17)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`13`](../src/subsilver/viewtopic_poll_result.tpl#L13)
 
+### Version ModernBB
+* __[`poll_ballot`](../tpl/poll_ballot.md#readme)__ __:__ lignes [`9`](../src/modernbb/poll_ballot.tpl#L9)
+* __[`poll_result`](../tpl/poll_result.md#readme)__ __:__ lignes [`6`](../src/modernbb/poll_result.tpl#L6)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme)__ __:__ lignes [`12`](../src/modernbb/viewtopic_poll_ballot.tpl#L12)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`6`](../src/modernbb/viewtopic_poll_result.tpl#L6)
+
 ### Version PunBB
 * __[`poll_ballot`](../tpl/poll_ballot.md#readme)__ __:__ lignes [`8`](../src/punbb/poll_ballot.tpl#L8)
 * __[`poll_result`](../tpl/poll_result.md#readme)__ __:__ lignes [`5`](../src/punbb/poll_result.tpl#L5)

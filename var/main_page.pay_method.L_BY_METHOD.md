@@ -30,6 +30,9 @@ et `Une carte bancaire via Paypal`
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`39`](../src/subsilver/buy_credits.tpl#L39)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`24`](../src/modernbb/buy_credits.tpl#L24)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`48`](../src/punbb/buy_credits.tpl#L48)
 

@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_chatbox`](../tpl/mod_chatbox.md#readme)__ __:__ lignes [`6`](../src/subsilver/mod_chatbox.tpl#L6)
 
+### Version ModernBB
+* __[`mod_chatbox`](../tpl/mod_chatbox.md#readme)__ __:__ lignes [`11`](../src/modernbb/mod_chatbox.tpl#L11)
+
 ### Version PunBB
 * __[`mod_chatbox`](../tpl/mod_chatbox.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_chatbox.tpl#L5)
 

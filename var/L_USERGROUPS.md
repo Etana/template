@@ -18,6 +18,9 @@ Chaîne de caractère.
 ### Version phpBB3
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`5`](../src/prosilver/groupcp_user_body.tpl#L5)
 
+### Version ModernBB
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`4`](../src/modernbb/groupcp_user_body.tpl#L4)
+
 ### Version PunBB
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`18`](../src/punbb/groupcp_user_body.tpl#L18), [`41`](../src/punbb/groupcp_user_body.tpl#L41)
 

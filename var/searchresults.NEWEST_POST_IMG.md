@@ -20,6 +20,9 @@ Contient l'image vers le lien de la dernière réponse définie dans `PA > Affic
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`33`](../src/modernbb/search_results_topics.tpl#L33)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`52`](../src/punbb/search_results_topics.tpl#L52)
 

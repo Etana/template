@@ -28,6 +28,9 @@
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`248`](../src/subsilver/viewtopic_body.tpl#L248)[`<->`](../src/subsilver/viewtopic_body.tpl#L248-L248)[`248`](../src/subsilver/viewtopic_body.tpl#L248)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`139`](../src/modernbb/viewtopic_body.tpl#L139)[`<->`](../src/modernbb/viewtopic_body.tpl#L139-L141)[`141`](../src/modernbb/viewtopic_body.tpl#L141)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`241`](../src/punbb/viewtopic_body.tpl#L241)[`<->`](../src/punbb/viewtopic_body.tpl#L241-L241)[`241`](../src/punbb/viewtopic_body.tpl#L241)
 

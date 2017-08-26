@@ -26,6 +26,9 @@ Boucle d'affichage si vous avez activé la connexion rapide en bas de la page d'
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`88`](../src/subsilver/index_body.tpl#L88)[`<->`](../src/subsilver/index_body.tpl#L88-L128)[`128`](../src/subsilver/index_body.tpl#L128)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`81`](../src/modernbb/index_body.tpl#L81)[`<->`](../src/modernbb/index_body.tpl#L81-L100)[`100`](../src/modernbb/index_body.tpl#L100)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`112`](../src/punbb/index_body.tpl#L112)[`<->`](../src/punbb/index_body.tpl#L112-L132)[`132`](../src/punbb/index_body.tpl#L132)
 

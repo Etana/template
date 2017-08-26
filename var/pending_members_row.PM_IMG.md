@@ -26,6 +26,9 @@ Image `Message Privé` ( choisie dans [`Index`](http://votre-forum.appspot.com/#
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`16`](../src/subsilver/groupcp_pending_info.tpl#L16)
 
+### Version ModernBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`21`](../src/modernbb/groupcp_pending_info.tpl#L21)
+
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`22`](../src/punbb/groupcp_pending_info.tpl#L22)
 

@@ -1,8 +1,8 @@
-# Template privmsgs_read_body (x 41)
+# Template privmsgs_read_body (x 42)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsgs_read_body`
@@ -44,6 +44,7 @@
 	* [`{OUTBOX_IMG}`](../var/OUTBOX_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/OUTBOX_IMG))
 	* [`{PM_IMG}`](../var/PM_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/PM_IMG))
 	* [`{POST_DATE}`](../var/POST_DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/POST_DATE))
+	* [`{POST_PM_URL}`](../var/POST_PM_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/POST_PM_URL))
 	* [`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme) ([x](https://fa-tvars.appspot.com/var/POST_SUBJECT))
 	* [`{PROFILE_IMG}`](../var/PROFILE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/PROFILE_IMG))
 	* [`{QUOTE_PM_IMG}`](../var/QUOTE_PM_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/QUOTE_PM_IMG))
@@ -210,6 +211,65 @@
 * __[`<!-- BEGIN switch_user_contact -->`](../var/switch_user_contact.md#readme)__ __:__ ligne [`56`](../src/subsilver/privmsgs_read_body.tpl#L56)
 * __[`<!-- END switch_user_contact -->`](../var/switch_user_contact.md#readme)__ __:__ ligne [`79`](../src/subsilver/privmsgs_read_body.tpl#L79)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/privmsgs_read_body.tpl#files)
+
+### Positions des variables
+
+* __[`{AIM_IMG}`](../var/AIM_IMG.md#readme)__ __:__ ligne [`28`](../src/modernbb/privmsgs_read_body.tpl#L28)
+* __[`{AVATAR_FROM}`](../var/AVATAR_FROM.md#readme)__ __:__ ligne [`23`](../src/modernbb/privmsgs_read_body.tpl#L23)
+* __[`{BOX_NAME}`](../var/BOX_NAME.md#readme)__ __:__ ligne [`18`](../src/modernbb/privmsgs_read_body.tpl#L18)
+* __[`{EDIT_PM_IMG}`](../var/EDIT_PM_IMG.md#readme)__ __:__ ligne [`39`](../src/modernbb/privmsgs_read_body.tpl#L39)
+* __[`{EMAIL_IMG}`](../var/EMAIL_IMG.md#readme)__ __:__ ligne [`28`](../src/modernbb/privmsgs_read_body.tpl#L28)
+* __[`{INBOX}`](../var/INBOX.md#readme)__ __:__ ligne [`2`](../src/modernbb/privmsgs_read_body.tpl#L2)
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`73`](../src/modernbb/privmsgs_read_body.tpl#L73)
+* __[`{L_DELETE_MSG}`](../var/L_DELETE_MSG.md#readme)__ __:__ ligne [`55`](../src/modernbb/privmsgs_read_body.tpl#L55)
+* __[`{L_FROM}`](../var/L_FROM.md#readme)__ __:__ ligne [`41`](../src/modernbb/privmsgs_read_body.tpl#L41)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)__ __:__ ligne [`18`](../src/modernbb/privmsgs_read_body.tpl#L18)
+* __[`{L_MOVE_PROFILE}`](../var/L_MOVE_PROFILE.md#readme)__ __:__ ligne [`53`](../src/modernbb/privmsgs_read_body.tpl#L53)
+* __[`{L_SAVE_MSG}`](../var/L_SAVE_MSG.md#readme)__ __:__ ligne [`50`](../src/modernbb/privmsgs_read_body.tpl#L50)
+* __[`{L_TO}`](../var/L_TO.md#readme)__ __:__ ligne [`41`](../src/modernbb/privmsgs_read_body.tpl#L41)
+* __[`{MESSAGE}`](../var/MESSAGE.md#readme)__ __:__ ligne [`43`](../src/modernbb/privmsgs_read_body.tpl#L43)
+* __[`{MESSAGE_FROM}`](../var/MESSAGE_FROM.md#readme)__ __:__ ligne [`24`](../src/modernbb/privmsgs_read_body.tpl#L24)
+* __[`{MESSAGE_FROM}`](../var/MESSAGE_FROM.md#readme)__ __:__ ligne [`41`](../src/modernbb/privmsgs_read_body.tpl#L41)
+* __[`{MESSAGE_TO}`](../var/MESSAGE_TO.md#readme)__ __:__ ligne [`41`](../src/modernbb/privmsgs_read_body.tpl#L41)
+* __[`{MSN_IMG}`](../var/MSN_IMG.md#readme)__ __:__ ligne [`28`](../src/modernbb/privmsgs_read_body.tpl#L28)
+* __[`{OUTBOX}`](../var/OUTBOX.md#readme)__ __:__ ligne [`4`](../src/modernbb/privmsgs_read_body.tpl#L4)
+* __[`{PM_IMG}`](../var/PM_IMG.md#readme)__ __:__ ligne [`28`](../src/modernbb/privmsgs_read_body.tpl#L28)
+* __[`{POST_DATE}`](../var/POST_DATE.md#readme)__ __:__ ligne [`41`](../src/modernbb/privmsgs_read_body.tpl#L41)
+* __[`{POST_PM_URL}`](../var/POST_PM_URL.md#readme)__ __:__ ligne [`10`](../src/modernbb/privmsgs_read_body.tpl#L10)
+* __[`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme)__ __:__ ligne [`34`](../src/modernbb/privmsgs_read_body.tpl#L34)
+* __[`{PROFILE_IMG}`](../var/PROFILE_IMG.md#readme)__ __:__ ligne [`28`](../src/modernbb/privmsgs_read_body.tpl#L28)
+* __[`{QUOTE_PM_IMG}`](../var/QUOTE_PM_IMG.md#readme)__ __:__ ligne [`37`](../src/modernbb/privmsgs_read_body.tpl#L37)
+* __[`{REPLY_PM_IMG}`](../var/REPLY_PM_IMG.md#readme)__ __:__ ligne [`61`](../src/modernbb/privmsgs_read_body.tpl#L61)
+* __[`{SAVEBOX}`](../var/SAVEBOX.md#readme)__ __:__ ligne [`5`](../src/modernbb/privmsgs_read_body.tpl#L5)
+* __[`{SENTBOX}`](../var/SENTBOX.md#readme)__ __:__ ligne [`3`](../src/modernbb/privmsgs_read_body.tpl#L3)
+* __[`{SKYPE_IMG}`](../var/SKYPE_IMG.md#readme)__ __:__ ligne [`28`](../src/modernbb/privmsgs_read_body.tpl#L28)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`48`](../src/modernbb/privmsgs_read_body.tpl#L48)
+* __[`{S_PRIVMSGS_ACTION}`](../var/S_PRIVMSGS_ACTION.md#readme)__ __:__ ligne [`16`](../src/modernbb/privmsgs_read_body.tpl#L16)
+* __[`{TOPIC_REVIEW_BOX}`](../var/TOPIC_REVIEW_BOX.md#readme)__ __:__ ligne [`70`](../src/modernbb/privmsgs_read_body.tpl#L70)
+* __[`{WWW_IMG}`](../var/WWW_IMG.md#readme)__ __:__ ligne [`28`](../src/modernbb/privmsgs_read_body.tpl#L28)
+* __[`{YIM_IMG}`](../var/YIM_IMG.md#readme)__ __:__ ligne [`28`](../src/modernbb/privmsgs_read_body.tpl#L28)
+* __[`<!-- BEGIN switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`75`](../src/modernbb/privmsgs_read_body.tpl#L75)
+* __[`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`81`](../src/modernbb/privmsgs_read_body.tpl#L81)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)__ __:__ ligne [`78`](../src/modernbb/privmsgs_read_body.tpl#L78)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)__ __:__ ligne [`78`](../src/modernbb/privmsgs_read_body.tpl#L78)
+* __[`<!-- BEGIN switch_move_profile -->`](../var/switch_move_profile.md#readme)__ __:__ ligne [`52`](../src/modernbb/privmsgs_read_body.tpl#L52)
+* __[`<!-- END switch_move_profile -->`](../var/switch_move_profile.md#readme)__ __:__ ligne [`54`](../src/modernbb/privmsgs_read_body.tpl#L54)
+* __[`<!-- BEGIN switch_post_reply -->`](../var/switch_post_reply.md#readme)__ __:__ ligne [`8`](../src/modernbb/privmsgs_read_body.tpl#L8)
+* __[`<!-- END switch_post_reply -->`](../var/switch_post_reply.md#readme)__ __:__ ligne [`12`](../src/modernbb/privmsgs_read_body.tpl#L12)
+* __[`<!-- BEGIN switch_post_reply -->`](../var/switch_post_reply.md#readme)__ __:__ ligne [`58`](../src/modernbb/privmsgs_read_body.tpl#L58)
+* __[`<!-- END switch_post_reply -->`](../var/switch_post_reply.md#readme)__ __:__ ligne [`65`](../src/modernbb/privmsgs_read_body.tpl#L65)
+* __[`<!-- BEGIN switch_quote -->`](../var/switch_quote.md#readme)__ __:__ ligne [`36`](../src/modernbb/privmsgs_read_body.tpl#L36)
+* __[`<!-- END switch_quote -->`](../var/switch_quote.md#readme)__ __:__ ligne [`38`](../src/modernbb/privmsgs_read_body.tpl#L38)
+* __[`<!-- BEGIN switch_review_box -->`](../var/switch_review_box.md#readme)__ __:__ ligne [`69`](../src/modernbb/privmsgs_read_body.tpl#L69)
+* __[`<!-- END switch_review_box -->`](../var/switch_review_box.md#readme)__ __:__ ligne [`71`](../src/modernbb/privmsgs_read_body.tpl#L71)
+* __[`<!-- BEGIN switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`49`](../src/modernbb/privmsgs_read_body.tpl#L49)
+* __[`<!-- END switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`51`](../src/modernbb/privmsgs_read_body.tpl#L51)
+* __[`<!-- BEGIN switch_user_contact -->`](../var/switch_user_contact.md#readme)__ __:__ ligne [`27`](../src/modernbb/privmsgs_read_body.tpl#L27)
+* __[`<!-- END switch_user_contact -->`](../var/switch_user_contact.md#readme)__ __:__ ligne [`29`](../src/modernbb/privmsgs_read_body.tpl#L29)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/privmsgs_read_body.tpl#files)
@@ -342,9 +402,3 @@
 * __[`<!-- END switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`77`](../src/invision/privmsgs_read_body.tpl#L77)
 * __[`<!-- BEGIN switch_user_contact -->`](../var/switch_user_contact.md#readme)__ __:__ ligne [`51`](../src/invision/privmsgs_read_body.tpl#L51)
 * __[`<!-- END switch_user_contact -->`](../var/switch_user_contact.md#readme)__ __:__ ligne [`62`](../src/invision/privmsgs_read_body.tpl#L62)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/privmsgs_read_body.tpl#files)
-
-### Positions des variables

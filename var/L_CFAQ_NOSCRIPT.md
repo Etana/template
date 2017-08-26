@@ -18,6 +18,9 @@ Affiche un message d'avertissement si l'utilisateur n'accepte pas le JavaScript.
 ### Version phpBB2
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`6`](../src/subsilver/faq_dhtml.tpl#L6)
 
+### Version ModernBB
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`5`](../src/modernbb/faq_dhtml.tpl#L5)
+
 ### Version PunBB
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`23`](../src/punbb/faq_dhtml.tpl#L23)
 

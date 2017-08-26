@@ -32,6 +32,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`102`](../src/subsilver/posting_body.tpl#L102)[`<->`](../src/subsilver/posting_body.tpl#L102-L128)[`128`](../src/subsilver/posting_body.tpl#L128), [`608`](../src/subsilver/posting_body.tpl#L608)[`<->`](../src/subsilver/posting_body.tpl#L608-L612)[`612`](../src/subsilver/posting_body.tpl#L612), [`616`](../src/subsilver/posting_body.tpl#L616)[`<->`](../src/subsilver/posting_body.tpl#L616-L618)[`618`](../src/subsilver/posting_body.tpl#L618)
 
+### Version ModernBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`60`](../src/modernbb/posting_body.tpl#L60)[`<->`](../src/modernbb/posting_body.tpl#L60-L84)[`84`](../src/modernbb/posting_body.tpl#L84), [`401`](../src/modernbb/posting_body.tpl#L401)[`<->`](../src/modernbb/posting_body.tpl#L401-L406)[`406`](../src/modernbb/posting_body.tpl#L406), [`410`](../src/modernbb/posting_body.tpl#L410)[`<->`](../src/modernbb/posting_body.tpl#L410-L412)[`412`](../src/modernbb/posting_body.tpl#L412)
+
 ### Version PunBB
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`83`](../src/punbb/posting_body.tpl#L83)[`<->`](../src/punbb/posting_body.tpl#L83-L107)[`107`](../src/punbb/posting_body.tpl#L107), [`421`](../src/punbb/posting_body.tpl#L421)[`<->`](../src/punbb/posting_body.tpl#L421-L425)[`425`](../src/punbb/posting_body.tpl#L425), [`429`](../src/punbb/posting_body.tpl#L429)[`<->`](../src/punbb/posting_body.tpl#L429-L431)[`431`](../src/punbb/posting_body.tpl#L431)
 

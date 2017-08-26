@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`6`](../src/subsilver/calendar_body.tpl#L6)
 
+### Version ModernBB
+* __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`10`](../src/modernbb/calendar_body.tpl#L10)
+
 ### Version PunBB
 * __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`20`](../src/punbb/calendar_body.tpl#L20)
 

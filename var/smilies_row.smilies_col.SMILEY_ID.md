@@ -22,6 +22,9 @@
 ### Version phpBB2
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`41`](../src/subsilver/posting_smilies_wysiwyg.tpl#L41)
 
+### Version ModernBB
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`29`](../src/modernbb/posting_smilies_wysiwyg.tpl#L29)
+
 ### Version PunBB
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`29`](../src/punbb/posting_smilies_wysiwyg.tpl#L29)
 

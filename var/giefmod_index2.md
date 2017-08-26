@@ -25,6 +25,9 @@ Boucle d'affichage de vos widgets de la colonne de droite si ceux-ci sont activ√
 ### Version phpBB2
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`12`](../src/subsilver/overall_footer_begin.tpl#L12)[`<->`](../src/subsilver/overall_footer_begin.tpl#L12-L17)[`17`](../src/subsilver/overall_footer_begin.tpl#L17)
 
+### Version ModernBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`22`](../src/modernbb/overall_footer_begin.tpl#L22)[`<->`](../src/modernbb/overall_footer_begin.tpl#L22-L27)[`27`](../src/modernbb/overall_footer_begin.tpl#L27)
+
 ### Version PunBB
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`17`](../src/punbb/overall_footer_begin.tpl#L17)[`<->`](../src/punbb/overall_footer_begin.tpl#L17-L22)[`22`](../src/punbb/overall_footer_begin.tpl#L22)
 

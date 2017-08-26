@@ -37,6 +37,10 @@ Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`14`](../src/subsilver/groupcp_pending_info.tpl#L14)[`<->`](../src/subsilver/groupcp_pending_info.tpl#L14-L24)[`24`](../src/subsilver/groupcp_pending_info.tpl#L24)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`19`](../src/modernbb/groupcp_pending_info.tpl#L19)[`<->`](../src/modernbb/groupcp_pending_info.tpl#L19-L29)[`29`](../src/modernbb/groupcp_pending_info.tpl#L29)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`20`](../src/punbb/groupcp_pending_info.tpl#L20)[`<->`](../src/punbb/groupcp_pending_info.tpl#L20-L30)[`30`](../src/punbb/groupcp_pending_info.tpl#L30)

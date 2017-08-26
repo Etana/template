@@ -27,6 +27,9 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`79`](../src/subsilver/index_body.tpl#L79)[`<->`](../src/subsilver/index_body.tpl#L79-L81)[`81`](../src/subsilver/index_body.tpl#L81)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`99`](../src/modernbb/index_box.tpl#L99)[`<->`](../src/modernbb/index_box.tpl#L99-L103)[`103`](../src/modernbb/index_box.tpl#L103)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`81`](../src/punbb/index_box.tpl#L81)[`<->`](../src/punbb/index_box.tpl#L81-L85)[`85`](../src/punbb/index_box.tpl#L85)
 

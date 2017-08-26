@@ -20,6 +20,9 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/memberlist_body.tpl#L30)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`28`](../src/modernbb/memberlist_body.tpl#L28)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`68`](../src/punbb/memberlist_body.tpl#L68)
 

@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/groupcp_user_body.tpl#L30)
 
+### Version ModernBB
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`38`](../src/modernbb/groupcp_user_body.tpl#L38)
+
 ### Version Invision
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`37`](../src/invision/groupcp_user_body.tpl#L37)
 

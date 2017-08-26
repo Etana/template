@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`55`](../src/subsilver/calendar_scheduler_body.tpl#L55)
 
+### Version ModernBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`44`](../src/modernbb/calendar_scheduler_body.tpl#L44)
+
 ### Version PunBB
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`57`](../src/punbb/calendar_scheduler_body.tpl#L57)
 

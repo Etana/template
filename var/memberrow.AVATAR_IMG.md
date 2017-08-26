@@ -20,6 +20,9 @@ Contient l'avatar du membre.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`39`](../src/subsilver/memberlist_body.tpl#L39)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`39`](../src/modernbb/memberlist_body.tpl#L39)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`79`](../src/punbb/memberlist_body.tpl#L79)
 

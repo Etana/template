@@ -26,6 +26,9 @@ Boucle affichant la balise X-UA-Compatible pour Internet Explorer.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`8`](../src/subsilver/overall_header.tpl#L8)[`<->`](../src/subsilver/overall_header.tpl#L8-L10)[`10`](../src/subsilver/overall_header.tpl#L10)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`8`](../src/modernbb/overall_header.tpl#L8)[`<->`](../src/modernbb/overall_header.tpl#L8-L10)[`10`](../src/modernbb/overall_header.tpl#L10)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`8`](../src/punbb/overall_header.tpl#L8)[`<->`](../src/punbb/overall_header.tpl#L8-L10)[`10`](../src/punbb/overall_header.tpl#L10)
 

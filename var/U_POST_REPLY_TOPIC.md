@@ -20,6 +20,9 @@ Remplacé par l'URL absolue de réponse au sujet sur lequel on se trouve.
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`49`](../src/subsilver/viewtopic_body.tpl#L49), [`435`](../src/subsilver/viewtopic_body.tpl#L435)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`50`](../src/modernbb/viewtopic_body.tpl#L50), [`301`](../src/modernbb/viewtopic_body.tpl#L301)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/punbb/viewtopic_body.tpl#L109), [`288`](../src/punbb/viewtopic_body.tpl#L288)
 

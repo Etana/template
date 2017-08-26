@@ -27,6 +27,9 @@
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`210`](../src/subsilver/buy_credits.tpl#L210)[`<->`](../src/subsilver/buy_credits.tpl#L210-L212)[`212`](../src/subsilver/buy_credits.tpl#L212)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`170`](../src/modernbb/buy_credits.tpl#L170)[`<->`](../src/modernbb/buy_credits.tpl#L170-L172)[`172`](../src/modernbb/buy_credits.tpl#L172)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`186`](../src/punbb/buy_credits.tpl#L186)[`<->`](../src/punbb/buy_credits.tpl#L186-L188)[`188`](../src/punbb/buy_credits.tpl#L188)
 

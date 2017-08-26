@@ -132,6 +132,23 @@ function destroyPagination()
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`35`](../src/subsilver/topics_list_box.tpl#L35), [`96`](../src/subsilver/topics_list_box.tpl#L96)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`114`](../src/subsilver/viewtopic_body.tpl#L114), [`288`](../src/subsilver/viewtopic_body.tpl#L288)
 
+### Version ModernBB
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`93`](../src/modernbb/album_modcp_body.tpl#L93)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`140`](../src/modernbb/album_moderate_body.tpl#L140)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`43`](../src/modernbb/album_search_body.tpl#L43)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`53`](../src/modernbb/birthday_list_box.tpl#L53)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`9`](../src/modernbb/calendar_scheduler_body.tpl#L9), [`49`](../src/modernbb/calendar_scheduler_body.tpl#L49)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`121`](../src/modernbb/groupcp_info_body.tpl#L121)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`64`](../src/modernbb/memberlist_body.tpl#L64)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`9`](../src/modernbb/merge_select_body.tpl#L9)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`61`](../src/modernbb/modcp_body.tpl#L61)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`73`](../src/modernbb/privmsgs_body.tpl#L73)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`84`](../src/modernbb/report_list_body.tpl#L84)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`21`](../src/modernbb/search_results_posts.tpl#L21)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`63`](../src/modernbb/search_results_topics.tpl#L63)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`31`](../src/modernbb/viewforum_body.tpl#L31), [`53`](../src/modernbb/viewforum_body.tpl#L53)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`58`](../src/modernbb/viewtopic_body.tpl#L58), [`286`](../src/modernbb/viewtopic_body.tpl#L286)
+
 ### Version PunBB
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`22`](../src/punbb/album_modcp_body.tpl#L22), [`107`](../src/punbb/album_modcp_body.tpl#L107)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`72`](../src/punbb/album_moderate_body.tpl#L72), [`150`](../src/punbb/album_moderate_body.tpl#L150)

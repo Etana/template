@@ -30,6 +30,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`14`](../src/subsilver/profile_avatar_gallery.tpl#L14)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L14-L25)[`25`](../src/subsilver/profile_avatar_gallery.tpl#L25)
 
+### Version ModernBB
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`9`](../src/modernbb/profile_avatar_gallery.tpl#L9)[`<->`](../src/modernbb/profile_avatar_gallery.tpl#L9-L18)[`18`](../src/modernbb/profile_avatar_gallery.tpl#L18)
+
 ### Version PunBB
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`27`](../src/punbb/profile_avatar_gallery.tpl#L27)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L27-L37)[`37`](../src/punbb/profile_avatar_gallery.tpl#L37)
 

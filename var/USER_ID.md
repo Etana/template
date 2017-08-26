@@ -15,6 +15,9 @@
 ### Version phpBB3
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`66`](../src/prosilver/profile_view_body.tpl#L66)
 
+### Version ModernBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`56`](../src/modernbb/profile_view_body.tpl#L56)
+
 ### Version PunBB
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`69`](../src/punbb/profile_view_body.tpl#L69)
 

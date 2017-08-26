@@ -18,6 +18,9 @@ Contient le pseudo du membre sélectionné.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`10`](../src/subsilver/memberlist_body.tpl#L10)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`7`](../src/modernbb/memberlist_body.tpl#L7)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`40`](../src/punbb/memberlist_body.tpl#L40)
 

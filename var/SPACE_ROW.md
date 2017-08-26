@@ -22,6 +22,11 @@ Affiche la valeur renseignée dans votre `PA > Modules > Portail & Widgets | Ges
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`324`](../src/subsilver/overall_header.tpl#L324)
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`6`](../src/subsilver/portal_body.tpl#L6), [`17`](../src/subsilver/portal_body.tpl#L17), [`24`](../src/subsilver/portal_body.tpl#L24), [`31`](../src/subsilver/portal_body.tpl#L31), [`42`](../src/subsilver/portal_body.tpl#L42)
 
+### Version ModernBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`25`](../src/modernbb/overall_footer_begin.tpl#L25)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`328`](../src/modernbb/overall_header.tpl#L328)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`9`](../src/modernbb/portal_body.tpl#L9), [`47`](../src/modernbb/portal_body.tpl#L47)
+
 ### Version PunBB
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`20`](../src/punbb/overall_footer_begin.tpl#L20)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`311`](../src/punbb/overall_header.tpl#L311)

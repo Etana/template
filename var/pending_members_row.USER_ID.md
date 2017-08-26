@@ -20,6 +20,9 @@ Identifiant numérique du membre sur lequel on boucle.
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`22`](../src/subsilver/groupcp_pending_info.tpl#L22)
 
+### Version ModernBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`27`](../src/modernbb/groupcp_pending_info.tpl#L27)
+
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`28`](../src/punbb/groupcp_pending_info.tpl#L28)
 

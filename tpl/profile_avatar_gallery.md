@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_avatar_gallery`
@@ -98,6 +98,35 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END avatar_option_column -->`](../var/avatar_row.avatar_option_column.md#readme)__ __:__ ligne [`23`](../src/subsilver/profile_avatar_gallery.tpl#L23)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__ __:__ ligne [`22`](../src/subsilver/profile_avatar_gallery.tpl#L22)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/profile_avatar_gallery.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/profile_avatar_gallery.tpl#L2)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/profile_avatar_gallery.tpl#L1)
+* __[`{L_AVATAR_GALLERY}`](../var/L_AVATAR_GALLERY.md#readme)__ __:__ ligne [`5`](../src/modernbb/profile_avatar_gallery.tpl#L5)
+* __[`{L_CATEGORY}`](../var/L_CATEGORY.md#readme)__ __:__ ligne [`8`](../src/modernbb/profile_avatar_gallery.tpl#L8)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`8`](../src/modernbb/profile_avatar_gallery.tpl#L8)
+* __[`{L_RETURN_PROFILE}`](../var/L_RETURN_PROFILE.md#readme)__ __:__ ligne [`23`](../src/modernbb/profile_avatar_gallery.tpl#L23)
+* __[`{L_SELECT_AVATAR}`](../var/L_SELECT_AVATAR.md#readme)__ __:__ ligne [`22`](../src/modernbb/profile_avatar_gallery.tpl#L22)
+* __[`{S_CATEGORY_SELECT}`](../var/S_CATEGORY_SELECT.md#readme)__ __:__ ligne [`8`](../src/modernbb/profile_avatar_gallery.tpl#L8)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`21`](../src/modernbb/profile_avatar_gallery.tpl#L21)
+* __[`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme)__ __:__ ligne [`4`](../src/modernbb/profile_avatar_gallery.tpl#L4)
+* __[`<!-- BEGIN avatar_row -->`](../var/avatar_row.md#readme)__ __:__ ligne [`9`](../src/modernbb/profile_avatar_gallery.tpl#L9)
+* __[`<!-- END avatar_row -->`](../var/avatar_row.md#readme)__ __:__ ligne [`18`](../src/modernbb/profile_avatar_gallery.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_column -->`](../var/avatar_row.avatar_column.md#readme)__ __:__ ligne [`10`](../src/modernbb/profile_avatar_gallery.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END avatar_column -->`](../var/avatar_row.avatar_column.md#readme)__ __:__ ligne [`17`](../src/modernbb/profile_avatar_gallery.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_IMAGE}`](../var/avatar_row.avatar_column.AVATAR_IMAGE.md#readme)__ __:__ ligne [`15`](../src/modernbb/profile_avatar_gallery.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_NAME}`](../var/avatar_row.avatar_column.AVATAR_NAME.md#readme)__ __:__ ligne [`15`](../src/modernbb/profile_avatar_gallery.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_NAME}`](../var/avatar_row.avatar_column.AVATAR_NAME.md#readme)__ __:__ ligne [`15`](../src/modernbb/profile_avatar_gallery.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme)__ __:__ ligne [`12`](../src/modernbb/profile_avatar_gallery.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme)__ __:__ ligne [`14`](../src/modernbb/profile_avatar_gallery.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__ __:__ ligne [`13`](../src/modernbb/profile_avatar_gallery.tpl#L13)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/profile_avatar_gallery.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/profile_avatar_gallery.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_avatar_gallery.tpl#files)
@@ -165,9 +194,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme)__ __:__ ligne [`18`](../src/invision/profile_avatar_gallery.tpl#L18)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme)__ __:__ ligne [`20`](../src/invision/profile_avatar_gallery.tpl#L20)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__ __:__ ligne [`19`](../src/invision/profile_avatar_gallery.tpl#L19)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/profile_avatar_gallery.tpl#files)
-
-### Positions des variables

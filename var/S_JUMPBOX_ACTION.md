@@ -30,6 +30,17 @@ Action du formulaire pour sauter vers un forum.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`81`](../src/subsilver/viewforum_body.tpl#L81)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`426`](../src/subsilver/viewtopic_body.tpl#L426)
 
+### Version ModernBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`30`](../src/modernbb/faq_body.tpl#L30)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`26`](../src/modernbb/faq_dhtml.tpl#L26)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`125`](../src/modernbb/groupcp_info_body.tpl#L125)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`50`](../src/modernbb/groupcp_user_body.tpl#L50)
+* __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`1`](../src/modernbb/jumpbox.tpl#L1)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`65`](../src/modernbb/modcp_body.tpl#L65)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`394`](../src/modernbb/posting_body.tpl#L394)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`65`](../src/modernbb/viewforum_body.tpl#L65)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`348`](../src/modernbb/viewtopic_body.tpl#L348)
+
 ### Version PunBB
 * __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`1`](../src/punbb/jumpbox.tpl#L1)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`29`](../src/punbb/overall_footer_begin.tpl#L29)

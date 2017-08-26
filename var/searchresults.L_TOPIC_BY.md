@@ -17,3 +17,6 @@
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`15`](../src/prosilver/search_results_posts.tpl#L15)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`5`](../src/modernbb/search_results_posts.tpl#L5)
+

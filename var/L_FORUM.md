@@ -25,6 +25,11 @@ Chaîne de texte.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`36`](../src/subsilver/search_results_posts.tpl#L36)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`25`](../src/subsilver/search_results_topics.tpl#L25)
 
+### Version ModernBB
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`8`](../src/modernbb/calendar_overview_topic.tpl#L8)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`45`](../src/modernbb/search_body.tpl#L45)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`8`](../src/modernbb/search_results_posts.tpl#L8)
+
 ### Version PunBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`8`](../src/punbb/calendar_overview_topic.tpl#L8)
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`14`](../src/punbb/index_box.tpl#L14)

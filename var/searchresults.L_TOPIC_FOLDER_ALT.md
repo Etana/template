@@ -20,6 +20,9 @@ Contient l'information sur l'image du sujet.
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`36`](../src/subsilver/search_results_topics.tpl#L36), [`36`](../src/subsilver/search_results_topics.tpl#L36)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`31`](../src/modernbb/search_results_topics.tpl#L31)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`49`](../src/punbb/search_results_topics.tpl#L49), [`49`](../src/punbb/search_results_topics.tpl#L49)
 

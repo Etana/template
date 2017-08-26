@@ -25,6 +25,9 @@ Boucle s'affichant si vous avez activé Facebook Connect dans `PA > Modules > Fa
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/subsilver/overall_header.tpl#L31)[`<->`](../src/subsilver/overall_header.tpl#L31-L34)[`34`](../src/subsilver/overall_header.tpl#L34)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/modernbb/overall_header.tpl#L31)[`<->`](../src/modernbb/overall_header.tpl#L31-L34)[`34`](../src/modernbb/overall_header.tpl#L34)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/punbb/overall_header.tpl#L31)[`<->`](../src/punbb/overall_header.tpl#L31-L34)[`34`](../src/punbb/overall_header.tpl#L34)
 

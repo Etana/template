@@ -27,6 +27,13 @@
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`50`](../src/subsilver/report_list_body.tpl#L50)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`62`](../src/subsilver/rpg_sheet_edit.tpl#L62)
 
+### Version ModernBB
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`65`](../src/modernbb/album_edit_body.tpl#L65)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`281`](../src/modernbb/album_upload_body.tpl#L281), [`285`](../src/modernbb/album_upload_body.tpl#L285)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`399`](../src/modernbb/profile_add_body.tpl#L399)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`21`](../src/modernbb/profile_send_pass.tpl#L21)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`63`](../src/modernbb/rpg_sheet_edit.tpl#L63)
+
 ### Version PunBB
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`75`](../src/punbb/album_edit_body.tpl#L75)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`289`](../src/punbb/album_upload_body.tpl#L289), [`293`](../src/punbb/album_upload_body.tpl#L293)

@@ -30,6 +30,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`48`](../src/subsilver/modcp_viewip.tpl#L48)[`<->`](../src/subsilver/modcp_viewip.tpl#L48-L59)[`59`](../src/subsilver/modcp_viewip.tpl#L59)
 
+### Version ModernBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`56`](../src/modernbb/modcp_viewip.tpl#L56)[`<->`](../src/modernbb/modcp_viewip.tpl#L56-L61)[`61`](../src/modernbb/modcp_viewip.tpl#L61)
+
 ### Version PunBB
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`79`](../src/punbb/modcp_viewip.tpl#L79)[`<->`](../src/punbb/modcp_viewip.tpl#L79-L84)[`84`](../src/punbb/modcp_viewip.tpl#L84)
 

@@ -22,6 +22,10 @@ Remplacé par l'identifiant numérique du sous-forum.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`22`](../src/subsilver/viewforum_body.tpl#L22), [`22`](../src/subsilver/viewforum_body.tpl#L22)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/subsilver/viewtopic_body.tpl#L89)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`42`](../src/modernbb/viewforum_body.tpl#L42), [`42`](../src/modernbb/viewforum_body.tpl#L42)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/modernbb/viewtopic_body.tpl#L89)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/punbb/viewforum_body.tpl#L11), [`11`](../src/punbb/viewforum_body.tpl#L11)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`51`](../src/punbb/viewtopic_body.tpl#L51)

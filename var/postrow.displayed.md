@@ -20,14 +20,17 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.COUNT_POSTS}`](../var/postrow.displayed.COUNT_POSTS.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.COUNT_POSTS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.COUNT_POSTS_NUMBER}`](../var/postrow.displayed.COUNT_POSTS_NUMBER.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.COUNT_POSTS_NUMBER))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.DELETE_IMG}`](../var/postrow.displayed.DELETE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.DELETE_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.DELETE_URL}`](../var/postrow.displayed.DELETE_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.DELETE_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.DISPLAYABLE_STATE}`](../var/postrow.displayed.DISPLAYABLE_STATE.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.DISPLAYABLE_STATE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.displayed.ROW_CLASS}`](../var/postrow.displayed.displayed.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.displayed.ROW_CLASS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.EDIT_IMG}`](../var/postrow.displayed.EDIT_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.EDIT_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.EDIT_URL}`](../var/postrow.displayed.EDIT_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.EDIT_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.EDITED_MESSAGE}`](../var/postrow.displayed.EDITED_MESSAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.EDITED_MESSAGE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.EMAIL_IMG}`](../var/postrow.displayed.EMAIL_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.EMAIL_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN first_post_br -->`](../var/postrow.displayed.first_post_br.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.first_post_br))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.ICON}`](../var/postrow.displayed.ICON.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.ICON))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.IP_IMG}`](../var/postrow.displayed.IP_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.IP_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.IP_URL}`](../var/postrow.displayed.IP_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.IP_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.L_MINI_POST_ALT}`](../var/postrow.displayed.L_MINI_POST_ALT.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.L_MINI_POST_ALT))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.L_TOPIC_BY}`](../var/postrow.displayed.L_TOPIC_BY.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.L_TOPIC_BY))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.L_TOPIC_ON}`](../var/postrow.displayed.L_TOPIC_ON.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.L_TOPIC_ON))__
@@ -35,6 +38,7 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MINI_POST_IMG}`](../var/postrow.displayed.MINI_POST_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.MINI_POST_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MINI_TIME_IMG}`](../var/postrow.displayed.MINI_TIME_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.MINI_TIME_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MULTIQUOTE_IMG}`](../var/postrow.displayed.MULTIQUOTE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.MULTIQUOTE_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MULTIQUOTE_URL}`](../var/postrow.displayed.MULTIQUOTE_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.MULTIQUOTE_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.ONCLICK}`](../var/postrow.displayed.ONCLICK.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.ONCLICK))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.ONLINE_IMG}`](../var/postrow.displayed.ONLINE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.ONLINE_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.ONLINE_IMG_INV}`](../var/postrow.displayed.ONLINE_IMG_INV.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.ONLINE_IMG_INV))__
@@ -59,6 +63,7 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.PROFILE_IMG}`](../var/postrow.displayed.PROFILE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.PROFILE_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.PROFILE_POSITION}`](../var/postrow.displayed.PROFILE_POSITION.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.PROFILE_POSITION))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.QUOTE_IMG}`](../var/postrow.displayed.QUOTE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.QUOTE_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.QUOTE_URL}`](../var/postrow.displayed.QUOTE_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.QUOTE_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.RANK_IMAGE}`](../var/postrow.displayed.RANK_IMAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.RANK_IMAGE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.REPORT_IMG}`](../var/postrow.displayed.REPORT_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.REPORT_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.REPORT_IMG_NEW}`](../var/postrow.displayed.REPORT_IMG_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.REPORT_IMG_NEW))__
@@ -96,6 +101,7 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS}`](../var/postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.THANK_BGCOLOR}`](../var/postrow.displayed.THANK_BGCOLOR.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.THANK_BGCOLOR))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.THANK_IMG}`](../var/postrow.displayed.THANK_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.THANK_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.THANK_URL}`](../var/postrow.displayed.THANK_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.THANK_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.U_POST_ID}`](../var/postrow.displayed.U_POST_ID.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.U_POST_ID))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN user_logged_in -->`](../var/postrow.displayed.user_logged_in.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_contact_row -->`](../var/postrow.displayed.user_logged_in.switch_contact_row.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.user_logged_in.switch_contact_row))__
@@ -116,6 +122,10 @@
 ### Version phpBB2
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`14`](../src/subsilver/posting_topic_review.tpl#L14)[`<->`](../src/subsilver/posting_topic_review.tpl#L14-L38)[`38`](../src/subsilver/posting_topic_review.tpl#L38)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`128`](../src/subsilver/viewtopic_body.tpl#L128)[`<->`](../src/subsilver/viewtopic_body.tpl#L128-L263)[`263`](../src/subsilver/viewtopic_body.tpl#L263)
+
+### Version ModernBB
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`6`](../src/modernbb/posting_topic_review.tpl#L6)[`<->`](../src/modernbb/posting_topic_review.tpl#L6-L16)[`16`](../src/modernbb/posting_topic_review.tpl#L16)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`110`](../src/modernbb/viewtopic_body.tpl#L110)[`<->`](../src/modernbb/viewtopic_body.tpl#L110-L272)[`272`](../src/modernbb/viewtopic_body.tpl#L272)
 
 ### Version PunBB
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`8`](../src/punbb/posting_topic_review.tpl#L8)[`<->`](../src/punbb/posting_topic_review.tpl#L8-L33)[`33`](../src/punbb/posting_topic_review.tpl#L33)

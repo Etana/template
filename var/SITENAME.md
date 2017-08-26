@@ -22,6 +22,10 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/subsilver/overall_header.tpl#L20), [`223`](../src/subsilver/overall_header.tpl#L223)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/subsilver/simple_header.tpl#L5)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/modernbb/overall_header.tpl#L20), [`239`](../src/modernbb/overall_header.tpl#L239)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/modernbb/simple_header.tpl#L5)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/punbb/overall_header.tpl#L20), [`227`](../src/punbb/overall_header.tpl#L227)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/punbb/simple_header.tpl#L5)

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_results_topics`
@@ -192,6 +192,52 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 * __[`<!-- BEGIN watchsearch1 -->`](../var/watchsearch1.md#readme)__ __:__ ligne [`66`](../src/subsilver/search_results_topics.tpl#L66)
 * __[`<!-- END watchsearch1 -->`](../var/watchsearch1.md#readme)__ __:__ ligne [`77`](../src/subsilver/search_results_topics.tpl#L77)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/search_results_topics.tpl#files)
+
+### Positions des variables
+
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`66`](../src/modernbb/search_results_topics.tpl#L66)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`8`](../src/modernbb/search_results_topics.tpl#L8)
+* __[`{L_LASTPOST}`](../var/L_LASTPOST.md#readme)__ __:__ ligne [`22`](../src/modernbb/search_results_topics.tpl#L22)
+* __[`{L_LASTPOST}`](../var/L_LASTPOST.md#readme)__ __:__ ligne [`54`](../src/modernbb/search_results_topics.tpl#L54)
+* __[`{L_REPLIES}`](../var/L_REPLIES.md#readme)__ __:__ ligne [`20`](../src/modernbb/search_results_topics.tpl#L20)
+* __[`{L_SEARCH_MATCHES}`](../var/L_SEARCH_MATCHES.md#readme)__ __:__ ligne [`4`](../src/modernbb/search_results_topics.tpl#L4)
+* __[`{L_SEARCH_TITLE}`](../var/L_SEARCH_TITLE.md#readme)__ __:__ ligne [`8`](../src/modernbb/search_results_topics.tpl#L8)
+* __[`{L_TOPICS}`](../var/L_TOPICS.md#readme)__ __:__ ligne [`19`](../src/modernbb/search_results_topics.tpl#L19)
+* __[`{L_VIEWS}`](../var/L_VIEWS.md#readme)__ __:__ ligne [`21`](../src/modernbb/search_results_topics.tpl#L21)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`63`](../src/modernbb/search_results_topics.tpl#L63)
+* __[`{S_ACTION}`](../var/S_ACTION.md#readme)__ __:__ ligne [`14`](../src/modernbb/search_results_topics.tpl#L14)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`8`](../src/modernbb/search_results_topics.tpl#L8)
+* __[`<!-- BEGIN navmenu -->`](../var/navmenu.md#readme)__ __:__ ligne [`6`](../src/modernbb/search_results_topics.tpl#L6)
+* __[`<!-- END navmenu -->`](../var/navmenu.md#readme)__ __:__ ligne [`10`](../src/modernbb/search_results_topics.tpl#L10)
+* __[`<!-- BEGIN searchresults -->`](../var/searchresults.md#readme)__ __:__ ligne [`28`](../src/modernbb/search_results_topics.tpl#L28)
+* __[`<!-- END searchresults -->`](../var/searchresults.md#readme)__ __:__ ligne [`59`](../src/modernbb/search_results_topics.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.FORUM_NAME}`](../var/searchresults.FORUM_NAME.md#readme)__ __:__ ligne [`43`](../src/modernbb/search_results_topics.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.GOTO_PAGE_NEW}`](../var/searchresults.GOTO_PAGE_NEW.md#readme)__ __:__ ligne [`45`](../src/modernbb/search_results_topics.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.LAST_POST_AUTHOR}`](../var/searchresults.LAST_POST_AUTHOR.md#readme)__ __:__ ligne [`54`](../src/modernbb/search_results_topics.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.LAST_POST_IMG}`](../var/searchresults.LAST_POST_IMG.md#readme)__ __:__ ligne [`54`](../src/modernbb/search_results_topics.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.LAST_POST_TIME}`](../var/searchresults.LAST_POST_TIME.md#readme)__ __:__ ligne [`54`](../src/modernbb/search_results_topics.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.L_BY}`](../var/searchresults.L_BY.md#readme)__ __:__ ligne [`43`](../src/modernbb/search_results_topics.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.L_IN}`](../var/searchresults.L_IN.md#readme)__ __:__ ligne [`43`](../src/modernbb/search_results_topics.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.L_TOPIC_FOLDER_ALT}`](../var/searchresults.L_TOPIC_FOLDER_ALT.md#readme)__ __:__ ligne [`31`](../src/modernbb/search_results_topics.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.NEWEST_POST_IMG}`](../var/searchresults.NEWEST_POST_IMG.md#readme)__ __:__ ligne [`33`](../src/modernbb/search_results_topics.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.PARTICIPATE_POST_IMG}`](../var/searchresults.PARTICIPATE_POST_IMG.md#readme)__ __:__ ligne [`34`](../src/modernbb/search_results_topics.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.REPLIES}`](../var/searchresults.REPLIES.md#readme)__ __:__ ligne [`50`](../src/modernbb/search_results_topics.tpl#L50)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.ROW_ALT_CLASS}`](../var/searchresults.ROW_ALT_CLASS.md#readme)__ __:__ ligne [`29`](../src/modernbb/search_results_topics.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_AUTHOR}`](../var/searchresults.TOPIC_AUTHOR.md#readme)__ __:__ ligne [`43`](../src/modernbb/search_results_topics.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_FOLDER_IMG}`](../var/searchresults.TOPIC_FOLDER_IMG.md#readme)__ __:__ ligne [`30`](../src/modernbb/search_results_topics.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_ICON}`](../var/searchresults.TOPIC_ICON.md#readme)__ __:__ ligne [`31`](../src/modernbb/search_results_topics.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_NAV_TREE_NEW}`](../var/searchresults.TOPIC_NAV_TREE_NEW.md#readme)__ __:__ ligne [`47`](../src/modernbb/search_results_topics.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_TITLE}`](../var/searchresults.TOPIC_TITLE.md#readme)__ __:__ ligne [`38`](../src/modernbb/search_results_topics.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_TYPE}`](../var/searchresults.TOPIC_TYPE.md#readme)__ __:__ ligne [`35`](../src/modernbb/search_results_topics.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.U_VIEW_FORUM}`](../var/searchresults.U_VIEW_FORUM.md#readme)__ __:__ ligne [`43`](../src/modernbb/search_results_topics.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.U_VIEW_TOPIC}`](../var/searchresults.U_VIEW_TOPIC.md#readme)__ __:__ ligne [`37`](../src/modernbb/search_results_topics.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.VIEWS}`](../var/searchresults.VIEWS.md#readme)__ __:__ ligne [`51`](../src/modernbb/search_results_topics.tpl#L51)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN nav_tree -->`](../var/searchresults.nav_tree.md#readme)__ __:__ ligne [`46`](../src/modernbb/search_results_topics.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END nav_tree -->`](../var/searchresults.nav_tree.md#readme)__ __:__ ligne [`48`](../src/modernbb/search_results_topics.tpl#L48)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/search_results_topics.tpl#files)
@@ -302,9 +348,3 @@ Ce template touche la page des résultats de la recherche par sujets d'un membre
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END line_sticky -->`](../var/searchresults.line_sticky.md#readme)__ __:__ ligne [`36`](../src/invision/search_results_topics.tpl#L36)
 * __[`<!-- BEGIN switch_active_topics -->`](../var/switch_active_topics.md#readme)__ __:__ ligne [`62`](../src/invision/search_results_topics.tpl#L62)
 * __[`<!-- END switch_active_topics -->`](../var/switch_active_topics.md#readme)__ __:__ ligne [`83`](../src/invision/search_results_topics.tpl#L83)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/search_results_topics.tpl#files)
-
-### Positions des variables

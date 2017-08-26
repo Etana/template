@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_send_email`
@@ -128,6 +128,47 @@
 * __[`<!-- BEGIN switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`47`](../src/subsilver/profile_send_email.tpl#L47)
 * __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`50`](../src/subsilver/profile_send_email.tpl#L50)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/profile_send_email.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/profile_send_email.tpl#L2)
+* __[`{ERROR_BOX}`](../var/ERROR_BOX.md#readme)__ __:__ ligne [`5`](../src/modernbb/profile_send_email.tpl#L5)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/profile_send_email.tpl#L1)
+* __[`{L_CC_EMAIL}`](../var/L_CC_EMAIL.md#readme)__ __:__ ligne [`50`](../src/modernbb/profile_send_email.tpl#L50)
+* __[`{L_MESSAGE_BODY}`](../var/L_MESSAGE_BODY.md#readme)__ __:__ ligne [`38`](../src/modernbb/profile_send_email.tpl#L38)
+* __[`{L_MESSAGE_BODY_DESC}`](../var/L_MESSAGE_BODY_DESC.md#readme)__ __:__ ligne [`39`](../src/modernbb/profile_send_email.tpl#L39)
+* __[`{L_RECIPIENT}`](../var/L_RECIPIENT.md#readme)__ __:__ ligne [`12`](../src/modernbb/profile_send_email.tpl#L12)
+* __[`{L_SEND_EMAIL}`](../var/L_SEND_EMAIL.md#readme)__ __:__ ligne [`60`](../src/modernbb/profile_send_email.tpl#L60)
+* __[`{L_SEND_EMAIL_MSG}`](../var/L_SEND_EMAIL_MSG.md#readme)__ __:__ ligne [`6`](../src/modernbb/profile_send_email.tpl#L6)
+* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)__ __:__ ligne [`33`](../src/modernbb/profile_send_email.tpl#L33)
+* __[`{L_TELL_FRIEND_RECIEVER_EMAIL}`](../var/L_TELL_FRIEND_RECIEVER_EMAIL.md#readme)__ __:__ ligne [`28`](../src/modernbb/profile_send_email.tpl#L28)
+* __[`{MAIL_LINK}`](../var/MAIL_LINK.md#readme)__ __:__ ligne [`44`](../src/modernbb/profile_send_email.tpl#L44)
+* __[`{MESSAGE}`](../var/MESSAGE.md#readme)__ __:__ ligne [`42`](../src/modernbb/profile_send_email.tpl#L42)
+* __[`{SUBJECT}`](../var/SUBJECT.md#readme)__ __:__ ligne [`34`](../src/modernbb/profile_send_email.tpl#L34)
+* __[`{SUBJECT_READ_ONLY}`](../var/SUBJECT_READ_ONLY.md#readme)__ __:__ ligne [`34`](../src/modernbb/profile_send_email.tpl#L34)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`59`](../src/modernbb/profile_send_email.tpl#L59)
+* __[`{S_POST_ACTION}`](../var/S_POST_ACTION.md#readme)__ __:__ ligne [`4`](../src/modernbb/profile_send_email.tpl#L4)
+* __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`13`](../src/modernbb/profile_send_email.tpl#L13)
+* __[`<!-- BEGIN switch_ad_email -->`](../var/switch_ad_email.md#readme)__ __:__ ligne [`16`](../src/modernbb/profile_send_email.tpl#L16)
+* __[`<!-- END switch_ad_email -->`](../var/switch_ad_email.md#readme)__ __:__ ligne [`25`](../src/modernbb/profile_send_email.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.DISABLE_YOUR_EMAIL}`](../var/switch_ad_email.DISABLE_YOUR_EMAIL.md#readme)__ __:__ ligne [`19`](../src/modernbb/profile_send_email.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.DISABLE_YOUR_NAME}`](../var/switch_ad_email.DISABLE_YOUR_NAME.md#readme)__ __:__ ligne [`23`](../src/modernbb/profile_send_email.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.L_YOUR_EMAIL}`](../var/switch_ad_email.L_YOUR_EMAIL.md#readme)__ __:__ ligne [`18`](../src/modernbb/profile_send_email.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.L_YOUR_NAME}`](../var/switch_ad_email.L_YOUR_NAME.md#readme)__ __:__ ligne [`22`](../src/modernbb/profile_send_email.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.V_YOUR_EMAIL}`](../var/switch_ad_email.V_YOUR_EMAIL.md#readme)__ __:__ ligne [`19`](../src/modernbb/profile_send_email.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.V_YOUR_NAME}`](../var/switch_ad_email.V_YOUR_NAME.md#readme)__ __:__ ligne [`23`](../src/modernbb/profile_send_email.tpl#L23)
+* __[`<!-- BEGIN switch_profile_email -->`](../var/switch_profile_email.md#readme)__ __:__ ligne [`10`](../src/modernbb/profile_send_email.tpl#L10)
+* __[`<!-- END switch_profile_email -->`](../var/switch_profile_email.md#readme)__ __:__ ligne [`15`](../src/modernbb/profile_send_email.tpl#L15)
+* __[`<!-- BEGIN switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`26`](../src/modernbb/profile_send_email.tpl#L26)
+* __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`31`](../src/modernbb/profile_send_email.tpl#L31)
+* __[`<!-- BEGIN switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`43`](../src/modernbb/profile_send_email.tpl#L43)
+* __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`45`](../src/modernbb/profile_send_email.tpl#L45)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/profile_send_email.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/profile_send_email.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/profile_send_email.tpl#files)
@@ -221,9 +262,3 @@
 * __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`38`](../src/invision/profile_send_email.tpl#L38)
 * __[`<!-- BEGIN switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`50`](../src/invision/profile_send_email.tpl#L50)
 * __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`52`](../src/invision/profile_send_email.tpl#L52)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/profile_send_email.tpl#files)
-
-### Positions des variables

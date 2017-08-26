@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`3`](../src/subsilver/mod_rss_feeds.tpl#L3)
 
+### Version ModernBB
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`2`](../src/modernbb/mod_rss_feeds.tpl#L2)
+
 ### Version PunBB
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`2`](../src/punbb/mod_rss_feeds.tpl#L2)
 

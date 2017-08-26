@@ -20,6 +20,9 @@ Contient l'auteur du sujet.
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`44`](../src/subsilver/search_results_topics.tpl#L44)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`43`](../src/modernbb/search_results_topics.tpl#L43)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`57`](../src/punbb/search_results_topics.tpl#L57)
 

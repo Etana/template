@@ -22,6 +22,11 @@
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`9`](../src/subsilver/merge_body.tpl#L9)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`8`](../src/subsilver/modcp_viewip.tpl#L8)
 
+### Version ModernBB
+* __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`2`](../src/modernbb/calendar_overview_profil.tpl#L2)
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`7`](../src/modernbb/merge_body.tpl#L7)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`7`](../src/modernbb/modcp_viewip.tpl#L7)
+
 ### Version PunBB
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`2`](../src/punbb/calendar_overview_profil.tpl#L2)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`18`](../src/punbb/merge_body.tpl#L18), [`25`](../src/punbb/merge_body.tpl#L25)

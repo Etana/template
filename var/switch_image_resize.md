@@ -33,6 +33,13 @@ Boucle s'affichant si l'option de redimensionnement des images est activée dans
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`70`](../src/subsilver/search_results_posts.tpl#L70)[`<->`](../src/subsilver/search_results_posts.tpl#L70-L76)[`76`](../src/subsilver/search_results_posts.tpl#L76)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`471`](../src/subsilver/viewtopic_body.tpl#L471)[`<->`](../src/subsilver/viewtopic_body.tpl#L471-L477)[`477`](../src/subsilver/viewtopic_body.tpl#L477)
 
+### Version ModernBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`54`](../src/modernbb/mod_news.tpl#L54)[`<->`](../src/modernbb/mod_news.tpl#L54-L60)[`60`](../src/modernbb/mod_news.tpl#L60)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`413`](../src/modernbb/posting_body.tpl#L413)[`<->`](../src/modernbb/posting_body.tpl#L413-L415)[`415`](../src/modernbb/posting_body.tpl#L415)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`75`](../src/modernbb/privmsgs_read_body.tpl#L75)[`<->`](../src/modernbb/privmsgs_read_body.tpl#L75-L81)[`81`](../src/modernbb/privmsgs_read_body.tpl#L81)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`25`](../src/modernbb/search_results_posts.tpl#L25)[`<->`](../src/modernbb/search_results_posts.tpl#L25-L31)[`31`](../src/modernbb/search_results_posts.tpl#L31)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`379`](../src/modernbb/viewtopic_body.tpl#L379)[`<->`](../src/modernbb/viewtopic_body.tpl#L379-L385)[`385`](../src/modernbb/viewtopic_body.tpl#L385)
+
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`60`](../src/punbb/mod_news.tpl#L60)[`<->`](../src/punbb/mod_news.tpl#L60-L66)[`66`](../src/punbb/mod_news.tpl#L66)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`432`](../src/punbb/posting_body.tpl#L432)[`<->`](../src/punbb/posting_body.tpl#L432-L434)[`434`](../src/punbb/posting_body.tpl#L434)

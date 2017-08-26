@@ -54,6 +54,10 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`150`](../src/subsilver/index_body.tpl#L150)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`9`](../src/subsilver/mod_whoisonline.tpl#L9)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`50`](../src/modernbb/index_body.tpl#L50)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`3`](../src/modernbb/mod_whoisonline.tpl#L3)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`80`](../src/punbb/index_body.tpl#L80)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`4`](../src/punbb/mod_whoisonline.tpl#L4)

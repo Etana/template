@@ -20,6 +20,9 @@ Contient le nombre de vues du sujet.
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`45`](../src/subsilver/search_results_topics.tpl#L45)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`51`](../src/modernbb/search_results_topics.tpl#L51)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`61`](../src/punbb/search_results_topics.tpl#L61)
 

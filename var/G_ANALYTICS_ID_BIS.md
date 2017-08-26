@@ -18,6 +18,9 @@ Variable liée à des statistiques internes.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`191`](../src/subsilver/overall_header.tpl#L191)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`208`](../src/modernbb/overall_header.tpl#L208)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`196`](../src/punbb/overall_header.tpl#L196)
 

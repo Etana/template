@@ -20,6 +20,9 @@ Lien vers le top 20 des posteurs du forum.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`77`](../src/subsilver/index_body.tpl#L77)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`97`](../src/modernbb/index_box.tpl#L97)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`79`](../src/punbb/index_box.tpl#L79)
 

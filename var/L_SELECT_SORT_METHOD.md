@@ -31,6 +31,14 @@ Chaîne de texte.
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`11`](../src/subsilver/memberlist_body.tpl#L11)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`95`](../src/modernbb/album_cat_body.tpl#L95)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`68`](../src/modernbb/album_modcp_body.tpl#L68)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`115`](../src/modernbb/album_moderate_body.tpl#L115)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`8`](../src/modernbb/memberlist_body.tpl#L8)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`93`](../src/punbb/album_cat_body.tpl#L93)
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`85`](../src/punbb/album_modcp_body.tpl#L85)

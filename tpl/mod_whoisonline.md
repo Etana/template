@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_whoisonline`
@@ -49,6 +49,21 @@
 * __[`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme)__ __:__ ligne [`13`](../src/subsilver/mod_whoisonline.tpl#L13)
 * __[`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme)__ __:__ ligne [`17`](../src/subsilver/mod_whoisonline.tpl#L17)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mod_whoisonline.tpl#files)
+
+### Positions des variables
+
+* __[`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)__ __:__ ligne [`4`](../src/modernbb/mod_whoisonline.tpl#L4)
+* __[`{L_VIEW_COMPLETE_LIST}`](../var/L_VIEW_COMPLETE_LIST.md#readme)__ __:__ ligne [`6`](../src/modernbb/mod_whoisonline.tpl#L6)
+* __[`{L_WHO_IS_ONLINE}`](../var/L_WHO_IS_ONLINE.md#readme)__ __:__ ligne [`2`](../src/modernbb/mod_whoisonline.tpl#L2)
+* __[`{RECORD_USERS}`](../var/RECORD_USERS.md#readme)__ __:__ ligne [`8`](../src/modernbb/mod_whoisonline.tpl#L8)
+* __[`{TOTAL_USERS_ONLINE}`](../var/TOTAL_USERS_ONLINE.md#readme)__ __:__ ligne [`3`](../src/modernbb/mod_whoisonline.tpl#L3)
+* __[`{U_VIEWONLINE}`](../var/U_VIEWONLINE.md#readme)__ __:__ ligne [`6`](../src/modernbb/mod_whoisonline.tpl#L6)
+* __[`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme)__ __:__ ligne [`5`](../src/modernbb/mod_whoisonline.tpl#L5)
+* __[`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_whoisonline.tpl#L7)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_whoisonline.tpl#files)
@@ -78,9 +93,3 @@
 * __[`{U_VIEWONLINE}`](../var/U_VIEWONLINE.md#readme)__ __:__ ligne [`8`](../src/invision/mod_whoisonline.tpl#L8)
 * __[`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme)__ __:__ ligne [`7`](../src/invision/mod_whoisonline.tpl#L7)
 * __[`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme)__ __:__ ligne [`10`](../src/invision/mod_whoisonline.tpl#L10)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mod_whoisonline.tpl#files)
-
-### Positions des variables

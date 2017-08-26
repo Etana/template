@@ -19,6 +19,9 @@
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`194`](../src/subsilver/posting_body.tpl#L194)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`41`](../src/subsilver/profile_send_email.tpl#L41)
 
+### Version ModernBB
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`38`](../src/modernbb/profile_send_email.tpl#L38)
+
 ### Version PunBB
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`60`](../src/punbb/profile_send_email.tpl#L60)
 

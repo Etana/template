@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`25`](../src/subsilver/report_list_body.tpl#L25)
 
+### Version ModernBB
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`39`](../src/modernbb/report_list_body.tpl#L39)
+
 ### Version PunBB
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`57`](../src/punbb/report_list_body.tpl#L57)
 

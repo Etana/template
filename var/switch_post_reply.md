@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`15`](../src/subsilver/privmsgs_read_body.tpl#L15)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L15-L22)[`22`](../src/subsilver/privmsgs_read_body.tpl#L22), [`96`](../src/subsilver/privmsgs_read_body.tpl#L96)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L96-L98)[`98`](../src/subsilver/privmsgs_read_body.tpl#L98)
 
+### Version ModernBB
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`8`](../src/modernbb/privmsgs_read_body.tpl#L8)[`<->`](../src/modernbb/privmsgs_read_body.tpl#L8-L12)[`12`](../src/modernbb/privmsgs_read_body.tpl#L12), [`58`](../src/modernbb/privmsgs_read_body.tpl#L58)[`<->`](../src/modernbb/privmsgs_read_body.tpl#L58-L65)[`65`](../src/modernbb/privmsgs_read_body.tpl#L65)
+
 ### Version PunBB
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`33`](../src/punbb/privmsgs_read_body.tpl#L33)[`<->`](../src/punbb/privmsgs_read_body.tpl#L33-L35)[`35`](../src/punbb/privmsgs_read_body.tpl#L35), [`97`](../src/punbb/privmsgs_read_body.tpl#L97)[`<->`](../src/punbb/privmsgs_read_body.tpl#L97-L99)[`99`](../src/punbb/privmsgs_read_body.tpl#L99)
 

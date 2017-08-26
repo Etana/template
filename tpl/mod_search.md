@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_search`
@@ -62,6 +62,26 @@
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme)__ __:__ ligne [`9`](../src/subsilver/mod_search.tpl#L9)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme)__ __:__ ligne [`24`](../src/subsilver/mod_search.tpl#L24)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mod_search.tpl#files)
+
+### Positions des variables
+
+* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme)__ __:__ ligne [`40`](../src/modernbb/mod_search.tpl#L40)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`2`](../src/modernbb/mod_search.tpl#L2)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`5`](../src/modernbb/mod_search.tpl#L5)
+* __[`{SEARCH_ADVANCED}`](../var/SEARCH_ADVANCED.md#readme)__ __:__ ligne [`38`](../src/modernbb/mod_search.tpl#L38)
+* __[`{SEARCH_INSIDE}`](../var/SEARCH_INSIDE.md#readme)__ __:__ ligne [`11`](../src/modernbb/mod_search.tpl#L11)
+* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme)__ __:__ ligne [`22`](../src/modernbb/mod_search.tpl#L22)
+* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme)__ __:__ ligne [`19`](../src/modernbb/mod_search.tpl#L19)
+* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme)__ __:__ ligne [`26`](../src/modernbb/mod_search.tpl#L26)
+* __[`<!-- BEGIN TAGS -->`](../var/TAGS.md#readme)__ __:__ ligne [`30`](../src/modernbb/mod_search.tpl#L30)
+* __[`<!-- END TAGS -->`](../var/TAGS.md#readme)__ __:__ ligne [`35`](../src/modernbb/mod_search.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.SEARCH_TAGS}`](../var/TAGS.SEARCH_TAGS.md#readme)__ __:__ ligne [`33`](../src/modernbb/mod_search.tpl#L33)
+* __[`{U_SEARCH}`](../var/U_SEARCH.md#readme)__ __:__ ligne [`3`](../src/modernbb/mod_search.tpl#L3)
+* __[`{U_SEARCH}`](../var/U_SEARCH.md#readme)__ __:__ ligne [`37`](../src/modernbb/mod_search.tpl#L37)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_search.tpl#files)
@@ -99,9 +119,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.SEARCH_TAGS}`](../var/TAGS.SEARCH_TAGS.md#readme)__ __:__ ligne [`18`](../src/invision/mod_search.tpl#L18)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme)__ __:__ ligne [`4`](../src/invision/mod_search.tpl#L4)
 * __[`{U_SEARCH}`](../var/U_SEARCH.md#readme)__ __:__ ligne [`24`](../src/invision/mod_search.tpl#L24)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mod_search.tpl#files)
-
-### Positions des variables

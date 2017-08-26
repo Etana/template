@@ -24,6 +24,10 @@ Contient la direction du texte suivant la langue d'affichage du forum.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`2`](../src/subsilver/overall_header.tpl#L2)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`2`](../src/subsilver/simple_header.tpl#L2)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`2`](../src/modernbb/overall_header.tpl#L2)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`2`](../src/modernbb/simple_header.tpl#L2)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`2`](../src/punbb/overall_header.tpl#L2)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`2`](../src/punbb/simple_header.tpl#L2)

@@ -24,6 +24,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`34`](../src/subsilver/calendar_scheduler_body.tpl#L34)[`<->`](../src/subsilver/calendar_scheduler_body.tpl#L34-L36)[`36`](../src/subsilver/calendar_scheduler_body.tpl#L36)
 
+### Version ModernBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`26`](../src/modernbb/calendar_scheduler_body.tpl#L26)[`<->`](../src/modernbb/calendar_scheduler_body.tpl#L26-L28)[`28`](../src/modernbb/calendar_scheduler_body.tpl#L28)
+
 ### Version PunBB
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`40`](../src/punbb/calendar_scheduler_body.tpl#L40)[`<->`](../src/punbb/calendar_scheduler_body.tpl#L40-L42)[`42`](../src/punbb/calendar_scheduler_body.tpl#L42)
 

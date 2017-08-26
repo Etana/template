@@ -20,6 +20,9 @@ Contient le groupe du membre.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`42`](../src/subsilver/memberlist_body.tpl#L42)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`41`](../src/modernbb/memberlist_body.tpl#L41)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`81`](../src/punbb/memberlist_body.tpl#L81)
 

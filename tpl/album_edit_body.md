@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_edit_body`
@@ -110,6 +110,42 @@
 * __[`<!-- BEGIN move_to_category -->`](../var/move_to_category.md#readme)__ __:__ ligne [`51`](../src/subsilver/album_edit_body.tpl#L51)
 * __[`<!-- END move_to_category -->`](../var/move_to_category.md#readme)__ __:__ ligne [`57`](../src/subsilver/album_edit_body.tpl#L57)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/album_edit_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`3`](../src/modernbb/album_edit_body.tpl#L3)
+* __[`{JS_MENU}`](../var/JS_MENU.md#readme)__ __:__ ligne [`1`](../src/modernbb/album_edit_body.tpl#L1)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`2`](../src/modernbb/album_edit_body.tpl#L2)
+* __[`{L_ALBUM}`](../var/L_ALBUM.md#readme)__ __:__ ligne [`34`](../src/modernbb/album_edit_body.tpl#L34)
+* __[`{L_DESC_TOO_LONG}`](../var/L_DESC_TOO_LONG.md#readme)__ __:__ ligne [`16`](../src/modernbb/album_edit_body.tpl#L16)
+* __[`{L_EDIT_PIC_INFO}`](../var/L_EDIT_PIC_INFO.md#readme)__ __:__ ligne [`37`](../src/modernbb/album_edit_body.tpl#L37)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`34`](../src/modernbb/album_edit_body.tpl#L34)
+* __[`{L_MAX_LENGTH}`](../var/L_MAX_LENGTH.md#readme)__ __:__ ligne [`48`](../src/modernbb/album_edit_body.tpl#L48)
+* __[`{L_MOVE_TO_CATEGORY}`](../var/L_MOVE_TO_CATEGORY.md#readme)__ __:__ ligne [`54`](../src/modernbb/album_edit_body.tpl#L54)
+* __[`{L_PIC_DESC}`](../var/L_PIC_DESC.md#readme)__ __:__ ligne [`47`](../src/modernbb/album_edit_body.tpl#L47)
+* __[`{L_PIC_TITLE}`](../var/L_PIC_TITLE.md#readme)__ __:__ ligne [`42`](../src/modernbb/album_edit_body.tpl#L42)
+* __[`{L_PLAIN_TEXT_ONLY}`](../var/L_PLAIN_TEXT_ONLY.md#readme)__ __:__ ligne [`48`](../src/modernbb/album_edit_body.tpl#L48)
+* __[`{L_RESET}`](../var/L_RESET.md#readme)__ __:__ ligne [`65`](../src/modernbb/album_edit_body.tpl#L65)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)__ __:__ ligne [`66`](../src/modernbb/album_edit_body.tpl#L66)
+* __[`{L_UPLOAD_NO_TITLE}`](../var/L_UPLOAD_NO_TITLE.md#readme)__ __:__ ligne [`12`](../src/modernbb/album_edit_body.tpl#L12)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`34`](../src/modernbb/album_edit_body.tpl#L34)
+* __[`{NAV_SEP}`](../var/NAV_SEP.md#readme)__ __:__ ligne [`34`](../src/modernbb/album_edit_body.tpl#L34)
+* __[`{PIC_DESC}`](../var/PIC_DESC.md#readme)__ __:__ ligne [`50`](../src/modernbb/album_edit_body.tpl#L50)
+* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme)__ __:__ ligne [`43`](../src/modernbb/album_edit_body.tpl#L43)
+* __[`{S_ALBUM_ACTION}`](../var/S_ALBUM_ACTION.md#readme)__ __:__ ligne [`32`](../src/modernbb/album_edit_body.tpl#L32)
+* __[`{S_CATEGORY_SELECT}`](../var/S_CATEGORY_SELECT.md#readme)__ __:__ ligne [`55`](../src/modernbb/album_edit_body.tpl#L55)
+* __[`{S_PIC_DESC_MAX_LENGTH}`](../var/S_PIC_DESC_MAX_LENGTH.md#readme)__ __:__ ligne [`14`](../src/modernbb/album_edit_body.tpl#L14)
+* __[`{S_PIC_DESC_MAX_LENGTH}`](../var/S_PIC_DESC_MAX_LENGTH.md#readme)__ __:__ ligne [`48`](../src/modernbb/album_edit_body.tpl#L48)
+* __[`{U_ALBUM}`](../var/U_ALBUM.md#readme)__ __:__ ligne [`34`](../src/modernbb/album_edit_body.tpl#L34)
+* __[`{U_FORUM_INDEX}`](../var/U_FORUM_INDEX.md#readme)__ __:__ ligne [`34`](../src/modernbb/album_edit_body.tpl#L34)
+* __[`<!-- BEGIN move_to_category -->`](../var/move_to_category.md#readme)__ __:__ ligne [`52`](../src/modernbb/album_edit_body.tpl#L52)
+* __[`<!-- END move_to_category -->`](../var/move_to_category.md#readme)__ __:__ ligne [`57`](../src/modernbb/album_edit_body.tpl#L57)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`2`](../src/modernbb/album_edit_body.tpl#L2)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`2`](../src/modernbb/album_edit_body.tpl#L2)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_edit_body.tpl#files)
@@ -179,9 +215,3 @@
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`3`](../src/invision/album_edit_body.tpl#L3)
 * __[`<!-- BEGIN move_to_category -->`](../var/move_to_category.md#readme)__ __:__ ligne [`51`](../src/invision/album_edit_body.tpl#L51)
 * __[`<!-- END move_to_category -->`](../var/move_to_category.md#readme)__ __:__ ligne [`56`](../src/invision/album_edit_body.tpl#L56)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/album_edit_body.tpl#files)
-
-### Positions des variables

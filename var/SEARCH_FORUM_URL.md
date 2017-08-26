@@ -18,6 +18,9 @@ Affiche l'adresse de votre forum.
 ### Version phpBB2
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`14`](../src/subsilver/search_body.tpl#L14), [`15`](../src/subsilver/search_body.tpl#L15)
 
+### Version ModernBB
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`14`](../src/modernbb/search_body.tpl#L14), [`15`](../src/modernbb/search_body.tpl#L15)
+
 ### Version PunBB
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`36`](../src/punbb/search_body.tpl#L36), [`37`](../src/punbb/search_body.tpl#L37)
 

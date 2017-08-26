@@ -20,6 +20,9 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`169`](../src/subsilver/index_body.tpl#L169)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`70`](../src/modernbb/index_body.tpl#L70)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`102`](../src/punbb/index_body.tpl#L102)
 

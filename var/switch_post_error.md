@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`1`](../src/subsilver/profile_edit_signature.tpl#L1)[`<->`](../src/subsilver/profile_edit_signature.tpl#L1-L20)[`20`](../src/subsilver/profile_edit_signature.tpl#L20)
 
+### Version ModernBB
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`1`](../src/modernbb/profile_edit_signature.tpl#L1)[`<->`](../src/modernbb/profile_edit_signature.tpl#L1-L8)[`8`](../src/modernbb/profile_edit_signature.tpl#L8)
+
 ### Version Invision
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`7`](../src/invision/profile_edit_signature.tpl#L7)[`<->`](../src/invision/profile_edit_signature.tpl#L7-L16)[`16`](../src/invision/profile_edit_signature.tpl#L16)
 

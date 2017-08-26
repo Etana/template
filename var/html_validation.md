@@ -33,6 +33,15 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`1`](../src/subsilver/privmsgs_popup.tpl#L1)[`<->`](../src/subsilver/privmsgs_popup.tpl#L1-L8)[`8`](../src/subsilver/privmsgs_popup.tpl#L8)
 * __[`simple_footer`](../tpl/simple_footer.md#readme)__ __:__ lignes [`1`](../src/subsilver/simple_footer.tpl#L1)[`<->`](../src/subsilver/simple_footer.tpl#L1-L8)[`8`](../src/subsilver/simple_footer.tpl#L8)
 
+### Version ModernBB
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`1`](../src/modernbb/calendar_box.tpl#L1)[`<->`](../src/modernbb/calendar_box.tpl#L1-L2)[`2`](../src/modernbb/calendar_box.tpl#L2), [`76`](../src/modernbb/calendar_box.tpl#L76)[`<->`](../src/modernbb/calendar_box.tpl#L76-L77)[`77`](../src/modernbb/calendar_box.tpl#L77)
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`1`](../src/modernbb/greeting_popup.tpl#L1)[`<->`](../src/modernbb/greeting_popup.tpl#L1-L5)[`5`](../src/modernbb/greeting_popup.tpl#L5)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`1`](../src/modernbb/overall_footer_begin.tpl#L1)[`<->`](../src/modernbb/overall_footer_begin.tpl#L1-L15)[`15`](../src/modernbb/overall_footer_begin.tpl#L15), [`59`](../src/modernbb/overall_footer_begin.tpl#L59)[`<->`](../src/modernbb/overall_footer_begin.tpl#L59-L64)[`64`](../src/modernbb/overall_footer_begin.tpl#L64)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`1`](../src/modernbb/overall_footer_end.tpl#L1)[`<->`](../src/modernbb/overall_footer_end.tpl#L1-L9)[`9`](../src/modernbb/overall_footer_end.tpl#L9)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`1`](../src/modernbb/privmsgs_popup.tpl#L1)[`<->`](../src/modernbb/privmsgs_popup.tpl#L1-L5)[`5`](../src/modernbb/privmsgs_popup.tpl#L5)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/report_popup_body.tpl#L1)[`<->`](../src/modernbb/report_popup_body.tpl#L1-L5)[`5`](../src/modernbb/report_popup_body.tpl#L5)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`1`](../src/modernbb/search_username.tpl#L1)[`<->`](../src/modernbb/search_username.tpl#L1-L5)[`5`](../src/modernbb/search_username.tpl#L5)
+
 ### Version PunBB
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`1`](../src/punbb/greeting_popup.tpl#L1)[`<->`](../src/punbb/greeting_popup.tpl#L1-L5)[`5`](../src/punbb/greeting_popup.tpl#L5)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`1`](../src/punbb/overall_footer_begin.tpl#L1)[`<->`](../src/punbb/overall_footer_begin.tpl#L1-L10)[`10`](../src/punbb/overall_footer_begin.tpl#L10), [`37`](../src/punbb/overall_footer_begin.tpl#L37)[`<->`](../src/punbb/overall_footer_begin.tpl#L37-L42)[`42`](../src/punbb/overall_footer_begin.tpl#L42)

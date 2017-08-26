@@ -22,6 +22,9 @@
 ### Version phpBB2
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`129`](../src/subsilver/profile_view_body.tpl#L129)
 
+### Version ModernBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`92`](../src/modernbb/profile_view_body.tpl#L92)
+
 ### Version PunBB
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`116`](../src/punbb/profile_view_body.tpl#L116)
 

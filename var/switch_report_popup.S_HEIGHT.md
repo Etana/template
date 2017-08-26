@@ -22,6 +22,9 @@ Hauteur du popup d'avertissement d'un nouveau rapport.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`129`](../src/subsilver/overall_header.tpl#L129)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`135`](../src/modernbb/overall_header.tpl#L135)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`134`](../src/punbb/overall_header.tpl#L134)
 

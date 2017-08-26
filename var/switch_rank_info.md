@@ -25,6 +25,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`59`](../src/subsilver/mentions_tooltip.tpl#L59)[`<->`](../src/subsilver/mentions_tooltip.tpl#L59-L61)[`61`](../src/subsilver/mentions_tooltip.tpl#L61)
 
+### Version ModernBB
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`5`](../src/modernbb/mentions_tooltip.tpl#L5)[`<->`](../src/modernbb/mentions_tooltip.tpl#L5-L7)[`7`](../src/modernbb/mentions_tooltip.tpl#L7)
+
 ### Version PunBB
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`59`](../src/punbb/mentions_tooltip.tpl#L59)[`<->`](../src/punbb/mentions_tooltip.tpl#L59-L61)[`61`](../src/punbb/mentions_tooltip.tpl#L61)
 

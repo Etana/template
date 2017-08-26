@@ -20,6 +20,10 @@
 * __[`poll_result`](../tpl/poll_result.md#readme)__ __:__ lignes [`34`](../src/subsilver/poll_result.tpl#L34)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`33`](../src/subsilver/viewtopic_poll_result.tpl#L33)
 
+### Version ModernBB
+* __[`poll_result`](../tpl/poll_result.md#readme)__ __:__ lignes [`13`](../src/modernbb/poll_result.tpl#L13)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`15`](../src/modernbb/viewtopic_poll_result.tpl#L15)
+
 ### Version PunBB
 * __[`poll_result`](../tpl/poll_result.md#readme)__ __:__ lignes [`18`](../src/punbb/poll_result.tpl#L18)
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`27`](../src/punbb/viewtopic_poll_result.tpl#L27)

@@ -20,6 +20,10 @@
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`43`](../src/subsilver/privmsgs_body.tpl#L43)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`14`](../src/subsilver/privmsgs_read_body.tpl#L14)
 
+### Version ModernBB
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`14`](../src/modernbb/privmsgs_body.tpl#L14)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`16`](../src/modernbb/privmsgs_read_body.tpl#L16)
+
 ### Version PunBB
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`29`](../src/punbb/privmsgs_body.tpl#L29)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`29`](../src/punbb/privmsgs_read_body.tpl#L29)

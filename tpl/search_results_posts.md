@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_results_posts`
@@ -138,6 +138,39 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)__ __:__ ligne [`73`](../src/subsilver/search_results_posts.tpl#L73)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)__ __:__ ligne [`73`](../src/subsilver/search_results_posts.tpl#L73)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/search_results_posts.tpl#files)
+
+### Positions des variables
+
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`23`](../src/modernbb/search_results_posts.tpl#L23)
+* __[`{L_FORUM}`](../var/L_FORUM.md#readme)__ __:__ ligne [`8`](../src/modernbb/search_results_posts.tpl#L8)
+* __[`{L_REPLIES}`](../var/L_REPLIES.md#readme)__ __:__ ligne [`10`](../src/modernbb/search_results_posts.tpl#L10)
+* __[`{L_SEARCH_MATCHES}`](../var/L_SEARCH_MATCHES.md#readme)__ __:__ ligne [`1`](../src/modernbb/search_results_posts.tpl#L1)
+* __[`{L_TOPIC}`](../var/L_TOPIC.md#readme)__ __:__ ligne [`9`](../src/modernbb/search_results_posts.tpl#L9)
+* __[`{L_VIEWS}`](../var/L_VIEWS.md#readme)__ __:__ ligne [`11`](../src/modernbb/search_results_posts.tpl#L11)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`21`](../src/modernbb/search_results_posts.tpl#L21)
+* __[`<!-- BEGIN searchresults -->`](../var/searchresults.md#readme)__ __:__ ligne [`2`](../src/modernbb/search_results_posts.tpl#L2)
+* __[`<!-- END searchresults -->`](../var/searchresults.md#readme)__ __:__ ligne [`19`](../src/modernbb/search_results_posts.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.FORUM_NAME}`](../var/searchresults.FORUM_NAME.md#readme)__ __:__ ligne [`8`](../src/modernbb/search_results_posts.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.L_TOPIC_BY}`](../var/searchresults.L_TOPIC_BY.md#readme)__ __:__ ligne [`5`](../src/modernbb/search_results_posts.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.L_TOPIC_ON}`](../var/searchresults.L_TOPIC_ON.md#readme)__ __:__ ligne [`6`](../src/modernbb/search_results_posts.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.MESSAGE}`](../var/searchresults.MESSAGE.md#readme)__ __:__ ligne [`16`](../src/modernbb/search_results_posts.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.POSTER_NAME}`](../var/searchresults.POSTER_NAME.md#readme)__ __:__ ligne [`5`](../src/modernbb/search_results_posts.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.POST_DATE}`](../var/searchresults.POST_DATE.md#readme)__ __:__ ligne [`6`](../src/modernbb/search_results_posts.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_REPLIES}`](../var/searchresults.TOPIC_REPLIES.md#readme)__ __:__ ligne [`10`](../src/modernbb/search_results_posts.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_TITLE}`](../var/searchresults.TOPIC_TITLE.md#readme)__ __:__ ligne [`9`](../src/modernbb/search_results_posts.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_TITLE}`](../var/searchresults.TOPIC_TITLE.md#readme)__ __:__ ligne [`15`](../src/modernbb/search_results_posts.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_VIEWS}`](../var/searchresults.TOPIC_VIEWS.md#readme)__ __:__ ligne [`11`](../src/modernbb/search_results_posts.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.U_FORUM}`](../var/searchresults.U_FORUM.md#readme)__ __:__ ligne [`8`](../src/modernbb/search_results_posts.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.U_POST}`](../var/searchresults.U_POST.md#readme)__ __:__ ligne [`15`](../src/modernbb/search_results_posts.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.U_TOPIC}`](../var/searchresults.U_TOPIC.md#readme)__ __:__ ligne [`9`](../src/modernbb/search_results_posts.tpl#L9)
+* __[`<!-- BEGIN switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`25`](../src/modernbb/search_results_posts.tpl#L25)
+* __[`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`31`](../src/modernbb/search_results_posts.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)__ __:__ ligne [`28`](../src/modernbb/search_results_posts.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)__ __:__ ligne [`28`](../src/modernbb/search_results_posts.tpl#L28)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/search_results_posts.tpl#files)
@@ -224,9 +257,3 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
 * __[`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`65`](../src/invision/search_results_posts.tpl#L65)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)__ __:__ ligne [`62`](../src/invision/search_results_posts.tpl#L62)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)__ __:__ ligne [`62`](../src/invision/search_results_posts.tpl#L62)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/search_results_posts.tpl#files)
-
-### Positions des variables

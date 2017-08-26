@@ -41,6 +41,19 @@ Affiche le fil d’Ariane.
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`43`](../src/subsilver/posting_body.tpl#L43)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/subsilver/viewforum_body.tpl#L11)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`11`](../src/modernbb/album_cat_body.tpl#L11), [`146`](../src/modernbb/album_cat_body.tpl#L146)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`34`](../src/modernbb/album_edit_body.tpl#L34)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`6`](../src/modernbb/album_modcp_body.tpl#L6)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`56`](../src/modernbb/album_moderate_body.tpl#L56)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`216`](../src/modernbb/album_showpage_body.tpl#L216)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`6`](../src/modernbb/modcp_body.tpl#L6)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`6`](../src/modernbb/modcp_move.tpl#L6)
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`6`](../src/modernbb/modcp_split.tpl#L6)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`10`](../src/modernbb/viewforum_body.tpl#L10)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`41`](../src/modernbb/viewtopic_body.tpl#L41)
+
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`17`](../src/punbb/agreement.tpl#L17)
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`143`](../src/punbb/album_cat_body.tpl#L143)

@@ -20,6 +20,9 @@ Contient le nom de l'utilisateur ayant posté le message.
 ### Version phpBB2
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`30`](../src/subsilver/search_results_posts.tpl#L30)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`5`](../src/modernbb/search_results_posts.tpl#L5)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`43`](../src/punbb/search_results_posts.tpl#L43)
 

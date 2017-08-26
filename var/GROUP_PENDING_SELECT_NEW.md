@@ -15,6 +15,9 @@
 ### Version phpBB3
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`26`](../src/prosilver/groupcp_user_body.tpl#L26)
 
+### Version ModernBB
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`26`](../src/modernbb/groupcp_user_body.tpl#L26)
+
 ### Version PunBB
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`48`](../src/punbb/groupcp_user_body.tpl#L48)
 

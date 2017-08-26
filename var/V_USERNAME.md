@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`15`](../src/subsilver/posting_confirm_code.tpl#L15)
 
+### Version ModernBB
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`15`](../src/modernbb/posting_confirm_code.tpl#L15)
+
 ### Version PunBB
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`16`](../src/punbb/posting_confirm_code.tpl#L16)
 

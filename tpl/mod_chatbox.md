@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_chatbox`
@@ -31,6 +31,14 @@
 
 * __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme)__ __:__ ligne [`6`](../src/subsilver/mod_chatbox.tpl#L6)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mod_chatbox.tpl#files)
+
+### Positions des variables
+
+* __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme)__ __:__ ligne [`11`](../src/modernbb/mod_chatbox.tpl#L11)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_chatbox.tpl#files)
@@ -46,9 +54,3 @@
 ### Positions des variables
 
 * __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme)__ __:__ ligne [`5`](../src/invision/mod_chatbox.tpl#L5)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mod_chatbox.tpl#files)
-
-### Positions des variables

@@ -18,6 +18,9 @@ Contient la valeur cachée de votre identifiant de session.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`13`](../src/subsilver/memberlist_body.tpl#L13)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`10`](../src/modernbb/memberlist_body.tpl#L10)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`52`](../src/punbb/memberlist_body.tpl#L52)
 

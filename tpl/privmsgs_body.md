@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsgs_body`
@@ -193,6 +193,53 @@
 * __[`<!-- BEGIN switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`92`](../src/subsilver/privmsgs_body.tpl#L92)
 * __[`<!-- END switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`94`](../src/subsilver/privmsgs_body.tpl#L94)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/privmsgs_body.tpl#files)
+
+### Positions des variables
+
+* __[`{BOX_SIZE_STATUS}`](../var/BOX_SIZE_STATUS.md#readme)__ __:__ ligne [`19`](../src/modernbb/privmsgs_body.tpl#L19)
+* __[`{INBOX}`](../var/INBOX.md#readme)__ __:__ ligne [`2`](../src/modernbb/privmsgs_body.tpl#L2)
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`92`](../src/modernbb/privmsgs_body.tpl#L92)
+* __[`{L_DELETE_ALL}`](../var/L_DELETE_ALL.md#readme)__ __:__ ligne [`85`](../src/modernbb/privmsgs_body.tpl#L85)
+* __[`{L_DELETE_MARKED}`](../var/L_DELETE_MARKED.md#readme)__ __:__ ligne [`84`](../src/modernbb/privmsgs_body.tpl#L84)
+* __[`{L_DISPLAY_MESSAGES}`](../var/L_DISPLAY_MESSAGES.md#readme)__ __:__ ligne [`22`](../src/modernbb/privmsgs_body.tpl#L22)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`24`](../src/modernbb/privmsgs_body.tpl#L24)
+* __[`{L_MARK}`](../var/L_MARK.md#readme)__ __:__ ligne [`37`](../src/modernbb/privmsgs_body.tpl#L37)
+* __[`{L_MARK_ALL}`](../var/L_MARK_ALL.md#readme)__ __:__ ligne [`71`](../src/modernbb/privmsgs_body.tpl#L71)
+* __[`{L_MOVE_PROFILE_MARKED}`](../var/L_MOVE_PROFILE_MARKED.md#readme)__ __:__ ligne [`82`](../src/modernbb/privmsgs_body.tpl#L82)
+* __[`{L_NO_MESSAGES}`](../var/L_NO_MESSAGES.md#readme)__ __:__ ligne [`61`](../src/modernbb/privmsgs_body.tpl#L61)
+* __[`{L_SAVE_MARKED}`](../var/L_SAVE_MARKED.md#readme)__ __:__ ligne [`79`](../src/modernbb/privmsgs_body.tpl#L79)
+* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)__ __:__ ligne [`36`](../src/modernbb/privmsgs_body.tpl#L36)
+* __[`{L_UNMARK_ALL}`](../var/L_UNMARK_ALL.md#readme)__ __:__ ligne [`71`](../src/modernbb/privmsgs_body.tpl#L71)
+* __[`{OUTBOX}`](../var/OUTBOX.md#readme)__ __:__ ligne [`4`](../src/modernbb/privmsgs_body.tpl#L4)
+* __[`{PAGE_NUMBER}`](../var/PAGE_NUMBER.md#readme)__ __:__ ligne [`73`](../src/modernbb/privmsgs_body.tpl#L73)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`73`](../src/modernbb/privmsgs_body.tpl#L73)
+* __[`{SAVEBOX}`](../var/SAVEBOX.md#readme)__ __:__ ligne [`5`](../src/modernbb/privmsgs_body.tpl#L5)
+* __[`{SENTBOX}`](../var/SENTBOX.md#readme)__ __:__ ligne [`3`](../src/modernbb/privmsgs_body.tpl#L3)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`77`](../src/modernbb/privmsgs_body.tpl#L77)
+* __[`{S_PRIVMSGS_ACTION}`](../var/S_PRIVMSGS_ACTION.md#readme)__ __:__ ligne [`14`](../src/modernbb/privmsgs_body.tpl#L14)
+* __[`{S_SELECT_MSG_DAYS}`](../var/S_SELECT_MSG_DAYS.md#readme)__ __:__ ligne [`23`](../src/modernbb/privmsgs_body.tpl#L23)
+* __[`<!-- BEGIN listrow -->`](../var/listrow.md#readme)__ __:__ ligne [`43`](../src/modernbb/privmsgs_body.tpl#L43)
+* __[`<!-- END listrow -->`](../var/listrow.md#readme)__ __:__ ligne [`56`](../src/modernbb/privmsgs_body.tpl#L56)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.DATE}`](../var/listrow.DATE.md#readme)__ __:__ ligne [`51`](../src/modernbb/privmsgs_body.tpl#L51)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.FROM}`](../var/listrow.FROM.md#readme)__ __:__ ligne [`51`](../src/modernbb/privmsgs_body.tpl#L51)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.PRIVMSG_FOLDER_IMG}`](../var/listrow.PRIVMSG_FOLDER_IMG.md#readme)__ __:__ ligne [`48`](../src/modernbb/privmsgs_body.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.PRIVMSG_ICON}`](../var/listrow.PRIVMSG_ICON.md#readme)__ __:__ ligne [`46`](../src/modernbb/privmsgs_body.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.ROW_CLASS}`](../var/listrow.ROW_CLASS.md#readme)__ __:__ ligne [`44`](../src/modernbb/privmsgs_body.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.SUBJECT}`](../var/listrow.SUBJECT.md#readme)__ __:__ ligne [`50`](../src/modernbb/privmsgs_body.tpl#L50)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.S_MARK_ID}`](../var/listrow.S_MARK_ID.md#readme)__ __:__ ligne [`53`](../src/modernbb/privmsgs_body.tpl#L53)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.U_READ}`](../var/listrow.U_READ.md#readme)__ __:__ ligne [`50`](../src/modernbb/privmsgs_body.tpl#L50)
+* __[`<!-- BEGIN switch_box_size_notice -->`](../var/switch_box_size_notice.md#readme)__ __:__ ligne [`18`](../src/modernbb/privmsgs_body.tpl#L18)
+* __[`<!-- END switch_box_size_notice -->`](../var/switch_box_size_notice.md#readme)__ __:__ ligne [`20`](../src/modernbb/privmsgs_body.tpl#L20)
+* __[`<!-- BEGIN switch_move_profile -->`](../var/switch_move_profile.md#readme)__ __:__ ligne [`81`](../src/modernbb/privmsgs_body.tpl#L81)
+* __[`<!-- END switch_move_profile -->`](../var/switch_move_profile.md#readme)__ __:__ ligne [`83`](../src/modernbb/privmsgs_body.tpl#L83)
+* __[`<!-- BEGIN switch_no_messages -->`](../var/switch_no_messages.md#readme)__ __:__ ligne [`57`](../src/modernbb/privmsgs_body.tpl#L57)
+* __[`<!-- END switch_no_messages -->`](../var/switch_no_messages.md#readme)__ __:__ ligne [`66`](../src/modernbb/privmsgs_body.tpl#L66)
+* __[`<!-- BEGIN switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`78`](../src/modernbb/privmsgs_body.tpl#L78)
+* __[`<!-- END switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`80`](../src/modernbb/privmsgs_body.tpl#L80)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/privmsgs_body.tpl#files)
@@ -316,9 +363,3 @@
 * __[`<!-- END switch_no_messages -->`](../var/switch_no_messages.md#readme)__ __:__ ligne [`62`](../src/invision/privmsgs_body.tpl#L62)
 * __[`<!-- BEGIN switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`70`](../src/invision/privmsgs_body.tpl#L70)
 * __[`<!-- END switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`72`](../src/invision/privmsgs_body.tpl#L72)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/privmsgs_body.tpl#files)
-
-### Positions des variables

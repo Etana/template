@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_social_bookmarking`
@@ -55,6 +55,22 @@
 * __[`{L_SOCIAL_BOOKMARKING}`](../var/L_SOCIAL_BOOKMARKING.md#readme)__ __:__ ligne [`3`](../src/subsilver/mod_social_bookmarking.tpl#L3)
 * __[`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](../var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)__ __:__ ligne [`16`](../src/subsilver/mod_social_bookmarking.tpl#L16)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mod_social_bookmarking.tpl#files)
+
+### Positions des variables
+
+* __[`<!-- BEGIN IMGS -->`](../var/IMGS.md#readme)__ __:__ ligne [`5`](../src/modernbb/mod_social_bookmarking.tpl#L5)
+* __[`<!-- END IMGS -->`](../var/IMGS.md#readme)__ __:__ ligne [`9`](../src/modernbb/mod_social_bookmarking.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.ALT}`](../var/IMGS.ALT.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_social_bookmarking.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_social_bookmarking.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_social_bookmarking.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_social_bookmarking.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme)__ __:__ ligne [`6`](../src/modernbb/mod_social_bookmarking.tpl#L6)
+* __[`{L_SOCIAL_BOOKMARKING}`](../var/L_SOCIAL_BOOKMARKING.md#readme)__ __:__ ligne [`2`](../src/modernbb/mod_social_bookmarking.tpl#L2)
+* __[`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](../var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)__ __:__ ligne [`11`](../src/modernbb/mod_social_bookmarking.tpl#L11)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_social_bookmarking.tpl#files)
@@ -86,9 +102,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme)__ __:__ ligne [`6`](../src/invision/mod_social_bookmarking.tpl#L6)
 * __[`{L_SOCIAL_BOOKMARKING}`](../var/L_SOCIAL_BOOKMARKING.md#readme)__ __:__ ligne [`2`](../src/invision/mod_social_bookmarking.tpl#L2)
 * __[`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](../var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)__ __:__ ligne [`11`](../src/invision/mod_social_bookmarking.tpl#L11)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mod_social_bookmarking.tpl#files)
-
-### Positions des variables

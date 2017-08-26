@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_most_active_topics`
@@ -51,6 +51,21 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme)__ __:__ ligne [`10`](../src/subsilver/mod_most_active_topics.tpl#L10)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme)__ __:__ ligne [`10`](../src/subsilver/mod_most_active_topics.tpl#L10)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mod_most_active_topics.tpl#files)
+
+### Positions des variables
+
+* __[`{L_MOST_ACTIVE_TOPICS}`](../var/L_MOST_ACTIVE_TOPICS.md#readme)__ __:__ ligne [`2`](../src/modernbb/mod_most_active_topics.tpl#L2)
+* __[`{L_MOST_ACTIVE_TOPICS}`](../var/L_MOST_ACTIVE_TOPICS.md#readme)__ __:__ ligne [`4`](../src/modernbb/mod_most_active_topics.tpl#L4)
+* __[`<!-- BEGIN TOPIC -->`](../var/TOPIC.md#readme)__ __:__ ligne [`5`](../src/modernbb/mod_most_active_topics.tpl#L5)
+* __[`<!-- END TOPIC -->`](../var/TOPIC.md#readme)__ __:__ ligne [`9`](../src/modernbb/mod_most_active_topics.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.LINK}`](../var/TOPIC.LINK.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_most_active_topics.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_most_active_topics.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_most_active_topics.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme)__ __:__ ligne [`7`](../src/modernbb/mod_most_active_topics.tpl#L7)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mod_most_active_topics.tpl#files)
@@ -80,9 +95,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme)__ __:__ ligne [`7`](../src/invision/mod_most_active_topics.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme)__ __:__ ligne [`7`](../src/invision/mod_most_active_topics.tpl#L7)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme)__ __:__ ligne [`7`](../src/invision/mod_most_active_topics.tpl#L7)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mod_most_active_topics.tpl#files)
-
-### Positions des variables

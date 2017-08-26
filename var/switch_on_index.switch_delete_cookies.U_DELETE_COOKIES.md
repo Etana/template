@@ -22,6 +22,9 @@ Lien vers la suppression des cookies : `/?mode=delete_cookies`.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`80`](../src/subsilver/index_body.tpl#L80)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`101`](../src/modernbb/index_box.tpl#L101)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`83`](../src/punbb/index_box.tpl#L83)
 

@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`9`](../src/subsilver/mod_statistics.tpl#L9)
 
+### Version ModernBB
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`7`](../src/modernbb/mod_statistics.tpl#L7)
+
 ### Version PunBB
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_statistics.tpl#L5)
 

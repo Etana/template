@@ -20,6 +20,9 @@ Affiche les widgets de la colonne de droite un par un.
 ### Version phpBB2
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`13`](../src/subsilver/overall_footer_begin.tpl#L13)
 
+### Version ModernBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`23`](../src/modernbb/overall_footer_begin.tpl#L23)
+
 ### Version PunBB
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`18`](../src/punbb/overall_footer_begin.tpl#L18)
 

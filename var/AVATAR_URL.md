@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`21`](../src/subsilver/rpg_sheet_edit.tpl#L21)
 
+### Version ModernBB
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`24`](../src/modernbb/rpg_sheet_edit.tpl#L24)
+
 ### Version PunBB
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`34`](../src/punbb/rpg_sheet_edit.tpl#L34)
 

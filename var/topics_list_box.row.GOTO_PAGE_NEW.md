@@ -25,6 +25,9 @@ Remplacé par le code html d'un affichage des pages du sujet, si il y a plus une
 ### Version phpBB3
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`107`](../src/prosilver/topics_list_box.tpl#L107)
 
+### Version ModernBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`112`](../src/modernbb/topics_list_box.tpl#L112)
+
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`85`](../src/punbb/topics_list_box.tpl#L85)
 

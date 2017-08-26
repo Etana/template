@@ -20,6 +20,9 @@ Contient le nombre de message(s) posté(s) par le membre.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`47`](../src/subsilver/memberlist_body.tpl#L47)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`46`](../src/modernbb/memberlist_body.tpl#L46)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`86`](../src/punbb/memberlist_body.tpl#L86)
 

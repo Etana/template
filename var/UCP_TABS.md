@@ -23,6 +23,11 @@ Contient la navigation entre les onglets dans `/search?search_id=watchsearch`.
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`2`](../src/subsilver/rpg_sheet_edit.tpl#L2)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`2`](../src/subsilver/search_results_topics.tpl#L2)
 
+### Version ModernBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`3`](../src/modernbb/profile_add_body.tpl#L3)
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`9`](../src/modernbb/profile_edit_signature.tpl#L9)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`2`](../src/modernbb/rpg_sheet_edit.tpl#L2)
+
 ### Version PunBB
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`21`](../src/punbb/profile_add_body.tpl#L21)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`24`](../src/punbb/profile_edit_signature.tpl#L24)

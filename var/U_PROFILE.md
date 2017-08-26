@@ -18,6 +18,9 @@ Adresse url absolue vers l'édition de son profil : `/profile?mode=editprofile`
 ### Version phpBB2
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`117`](../src/subsilver/mod_login.tpl#L117)
 
+### Version ModernBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`61`](../src/modernbb/mod_login.tpl#L61), [`75`](../src/modernbb/mod_login.tpl#L75)
+
 ### Version PunBB
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`81`](../src/punbb/mod_login.tpl#L81)
 

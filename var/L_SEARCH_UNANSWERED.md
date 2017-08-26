@@ -21,6 +21,9 @@ Chaîne de caractère.
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`16`](../src/subsilver/index_box.tpl#L16)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`11`](../src/modernbb/index_box.tpl#L11)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`7`](../src/punbb/index_body.tpl#L7)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`16`](../src/punbb/viewonline_body.tpl#L16)

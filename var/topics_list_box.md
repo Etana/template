@@ -99,6 +99,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/subsilver/topics_list_box.tpl#L1)[`<->`](../src/subsilver/topics_list_box.tpl#L1-L103)[`103`](../src/subsilver/topics_list_box.tpl#L103)
 
+### Version ModernBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/modernbb/topics_list_box.tpl#L1)[`<->`](../src/modernbb/topics_list_box.tpl#L1-L148)[`148`](../src/modernbb/topics_list_box.tpl#L148)
+
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/punbb/topics_list_box.tpl#L1)[`<->`](../src/punbb/topics_list_box.tpl#L1-L128)[`128`](../src/punbb/topics_list_box.tpl#L128)
 

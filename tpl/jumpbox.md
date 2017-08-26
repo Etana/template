@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `jumpbox`
@@ -42,6 +42,17 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 * __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`1`](../src/subsilver/jumpbox.tpl#L1)
 * __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`4`](../src/subsilver/jumpbox.tpl#L4)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/jumpbox.tpl#files)
+
+### Positions des variables
+
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`2`](../src/modernbb/jumpbox.tpl#L2)
+* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`2`](../src/modernbb/jumpbox.tpl#L2)
+* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`1`](../src/modernbb/jumpbox.tpl#L1)
+* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`2`](../src/modernbb/jumpbox.tpl#L2)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/jumpbox.tpl#files)
@@ -63,9 +74,3 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 * __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`2`](../src/invision/jumpbox.tpl#L2)
 * __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`1`](../src/invision/jumpbox.tpl#L1)
 * __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`2`](../src/invision/jumpbox.tpl#L2)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/jumpbox.tpl#files)
-
-### Positions des variables

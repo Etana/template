@@ -22,6 +22,9 @@ Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralité
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`6`](../src/subsilver/index_body.tpl#L6)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`27`](../src/modernbb/index_body.tpl#L27)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`23`](../src/punbb/index_body.tpl#L23)
 

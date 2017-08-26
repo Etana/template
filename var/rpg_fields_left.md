@@ -28,6 +28,10 @@ contenu sur lequel on boucle
 * __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`20`](../src/subsilver/rpg_sheet.tpl#L20)[`<->`](../src/subsilver/rpg_sheet.tpl#L20-L25)[`25`](../src/subsilver/rpg_sheet.tpl#L25)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`27`](../src/subsilver/rpg_sheet_edit.tpl#L27)[`<->`](../src/subsilver/rpg_sheet_edit.tpl#L27-L37)[`37`](../src/subsilver/rpg_sheet_edit.tpl#L37)
 
+### Version ModernBB
+* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`7`](../src/modernbb/rpg_sheet.tpl#L7)[`<->`](../src/modernbb/rpg_sheet.tpl#L7-L12)[`12`](../src/modernbb/rpg_sheet.tpl#L12)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`37`](../src/modernbb/rpg_sheet_edit.tpl#L37)[`<->`](../src/modernbb/rpg_sheet_edit.tpl#L37-L42)[`42`](../src/modernbb/rpg_sheet_edit.tpl#L42)
+
 ### Version PunBB
 * __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`29`](../src/punbb/rpg_sheet.tpl#L29)[`<->`](../src/punbb/rpg_sheet.tpl#L29-L36)[`36`](../src/punbb/rpg_sheet.tpl#L36)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`41`](../src/punbb/rpg_sheet_edit.tpl#L41)[`<->`](../src/punbb/rpg_sheet_edit.tpl#L41-L46)[`46`](../src/punbb/rpg_sheet_edit.tpl#L46)

@@ -18,6 +18,9 @@ Contient tout le JavaScript de votre forum.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`181`](../src/subsilver/overall_header.tpl#L181)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`196`](../src/modernbb/overall_header.tpl#L196)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`186`](../src/punbb/overall_header.tpl#L186)
 

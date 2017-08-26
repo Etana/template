@@ -25,6 +25,12 @@ Chaîne de texte.
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`18`](../src/subsilver/modcp_body.tpl#L18)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`29`](../src/subsilver/search_results_topics.tpl#L29)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`29`](../src/modernbb/index_box.tpl#L29)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`23`](../src/modernbb/modcp_body.tpl#L23)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`22`](../src/modernbb/search_results_topics.tpl#L22), [`54`](../src/modernbb/search_results_topics.tpl#L54)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`125`](../src/modernbb/topics_list_box.tpl#L125)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`17`](../src/punbb/index_box.tpl#L17)
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`41`](../src/punbb/modcp_body.tpl#L41)

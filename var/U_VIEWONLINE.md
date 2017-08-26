@@ -27,6 +27,10 @@ Adresse url absolue vers la page "qui est en ligne".
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`135`](../src/subsilver/index_body.tpl#L135)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`15`](../src/subsilver/mod_whoisonline.tpl#L15)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`43`](../src/modernbb/index_body.tpl#L43)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`6`](../src/modernbb/mod_whoisonline.tpl#L6)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`74`](../src/punbb/index_body.tpl#L74)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`7`](../src/punbb/mod_whoisonline.tpl#L7)

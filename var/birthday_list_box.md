@@ -53,6 +53,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`1`](../src/subsilver/birthday_list_box.tpl#L1)[`<->`](../src/subsilver/birthday_list_box.tpl#L1-L59)[`59`](../src/subsilver/birthday_list_box.tpl#L59)
 
+### Version ModernBB
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`1`](../src/modernbb/birthday_list_box.tpl#L1)[`<->`](../src/modernbb/birthday_list_box.tpl#L1-L59)[`59`](../src/modernbb/birthday_list_box.tpl#L59)
+
 ### Version PunBB
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`1`](../src/punbb/birthday_list_box.tpl#L1)[`<->`](../src/punbb/birthday_list_box.tpl#L1-L48)[`48`](../src/punbb/birthday_list_box.tpl#L48)
 

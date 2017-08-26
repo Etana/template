@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `overall_footer_end`
@@ -122,6 +122,43 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`18`](../src/subsilver/overall_footer_end.tpl#L18)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`18`](../src/subsilver/overall_footer_end.tpl#L18)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/overall_footer_end.tpl#files)
+
+### Positions des variables
+
+* __[`{ADMIN_LINK}`](../var/ADMIN_LINK.md#readme)__ __:__ ligne [`28`](../src/modernbb/overall_footer_end.tpl#L28)
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`14`](../src/modernbb/overall_footer_end.tpl#L14)
+* __[`{PROTECT_FOOTER}`](../var/PROTECT_FOOTER.md#readme)__ __:__ ligne [`33`](../src/modernbb/overall_footer_end.tpl#L33)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/modernbb/overall_footer_end.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`9`](../src/modernbb/overall_footer_end.tpl#L9)
+* __[`<!-- BEGIN switch_facebook_login -->`](../var/switch_facebook_login.md#readme)__ __:__ ligne [`58`](../src/modernbb/overall_footer_end.tpl#L58)
+* __[`<!-- END switch_facebook_login -->`](../var/switch_facebook_login.md#readme)__ __:__ ligne [`98`](../src/modernbb/overall_footer_end.tpl#L98)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_APP_ID}`](../var/switch_facebook_login.FB_APP_ID.md#readme)__ __:__ ligne [`79`](../src/modernbb/overall_footer_end.tpl#L79)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_AUTO_LOGOUT}`](../var/switch_facebook_login.FB_AUTO_LOGOUT.md#readme)__ __:__ ligne [`67`](../src/modernbb/overall_footer_end.tpl#L67)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_BUTTON_SIZE}`](../var/switch_facebook_login.FB_BUTTON_SIZE.md#readme)__ __:__ ligne [`65`](../src/modernbb/overall_footer_end.tpl#L65)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_COOKIE}`](../var/switch_facebook_login.FB_COOKIE.md#readme)__ __:__ ligne [`80`](../src/modernbb/overall_footer_end.tpl#L80)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_LABEL}`](../var/switch_facebook_login.FB_LABEL.md#readme)__ __:__ ligne [`74`](../src/modernbb/overall_footer_end.tpl#L74)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_LOCAL}`](../var/switch_facebook_login.FB_LOCAL.md#readme)__ __:__ ligne [`90`](../src/modernbb/overall_footer_end.tpl#L90)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_MAX_ROWS}`](../var/switch_facebook_login.FB_MAX_ROWS.md#readme)__ __:__ ligne [`64`](../src/modernbb/overall_footer_end.tpl#L64)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_OAUTH}`](../var/switch_facebook_login.FB_OAUTH.md#readme)__ __:__ ligne [`82`](../src/modernbb/overall_footer_end.tpl#L82)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_ONLOGIN}`](../var/switch_facebook_login.FB_ONLOGIN.md#readme)__ __:__ ligne [`71`](../src/modernbb/overall_footer_end.tpl#L71)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_ONLOGIN_URL}`](../var/switch_facebook_login.FB_ONLOGIN_URL.md#readme)__ __:__ ligne [`95`](../src/modernbb/overall_footer_end.tpl#L95)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_SCOPE}`](../var/switch_facebook_login.FB_SCOPE.md#readme)__ __:__ ligne [`63`](../src/modernbb/overall_footer_end.tpl#L63)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_SHOW_FACES}`](../var/switch_facebook_login.FB_SHOW_FACES.md#readme)__ __:__ ligne [`66`](../src/modernbb/overall_footer_end.tpl#L66)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_VERSION}`](../var/switch_facebook_login.FB_VERSION.md#readme)__ __:__ ligne [`83`](../src/modernbb/overall_footer_end.tpl#L83)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_facebook_login.FB_XFBML}`](../var/switch_facebook_login.FB_XFBML.md#readme)__ __:__ ligne [`81`](../src/modernbb/overall_footer_end.tpl#L81)
+* __[`<!-- BEGIN switch_footer_links -->`](../var/switch_footer_links.md#readme)__ __:__ ligne [`12`](../src/modernbb/overall_footer_end.tpl#L12)
+* __[`<!-- END switch_footer_links -->`](../var/switch_footer_links.md#readme)__ __:__ ligne [`23`](../src/modernbb/overall_footer_end.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN footer_link -->`](../var/switch_footer_links.footer_link.md#readme)__ __:__ ligne [`15`](../src/modernbb/overall_footer_end.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END footer_link -->`](../var/switch_footer_links.footer_link.md#readme)__ __:__ ligne [`21`](../src/modernbb/overall_footer_end.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.FOOTER_LINK_REL}`](../var/switch_footer_links.footer_link.FOOTER_LINK_REL.md#readme)__ __:__ ligne [`17`](../src/modernbb/overall_footer_end.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.FOOTER_LINK_TARGET}`](../var/switch_footer_links.footer_link.FOOTER_LINK_TARGET.md#readme)__ __:__ ligne [`17`](../src/modernbb/overall_footer_end.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.L_FOOTER_LINK_TEXT}`](../var/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT.md#readme)__ __:__ ligne [`18`](../src/modernbb/overall_footer_end.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.L_FOOTER_LINK_TITLE}`](../var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE.md#readme)__ __:__ ligne [`17`](../src/modernbb/overall_footer_end.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__ __:__ ligne [`17`](../src/modernbb/overall_footer_end.tpl#L17)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/overall_footer_end.tpl#files)
@@ -199,9 +236,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__ __:__ ligne [`23`](../src/invision/overall_footer_end.tpl#L23)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`22`](../src/invision/overall_footer_end.tpl#L22)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`22`](../src/invision/overall_footer_end.tpl#L22)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/overall_footer_end.tpl#files)
-
-### Positions des variables

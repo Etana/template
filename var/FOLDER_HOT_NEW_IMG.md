@@ -18,6 +18,9 @@ Image des nouveaux messages dans des sujets populaires définie dans `PA > Affic
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`100`](../src/subsilver/viewforum_body.tpl#L100)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`91`](../src/modernbb/viewforum_body.tpl#L91)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`68`](../src/punbb/viewforum_body.tpl#L68)
 

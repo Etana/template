@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`78`](../src/subsilver/mentions_tooltip.tpl#L78)
 
+### Version ModernBB
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`24`](../src/modernbb/mentions_tooltip.tpl#L24)
+
 ### Version PunBB
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`78`](../src/punbb/mentions_tooltip.tpl#L78)
 

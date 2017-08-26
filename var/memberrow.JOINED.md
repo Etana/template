@@ -20,6 +20,9 @@ Contient la date d'inscription du membre.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`45`](../src/subsilver/memberlist_body.tpl#L45)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`44`](../src/modernbb/memberlist_body.tpl#L44)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`84`](../src/punbb/memberlist_body.tpl#L84)
 

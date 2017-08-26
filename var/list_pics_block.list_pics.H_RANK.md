@@ -22,6 +22,9 @@
 ### Version phpBB2
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`34`](../src/subsilver/album_cat_top10.tpl#L34)
 
+### Version ModernBB
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`41`](../src/modernbb/album_cat_top10.tpl#L41)
+
 ### Version PunBB
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`49`](../src/punbb/album_cat_top10.tpl#L49)
 

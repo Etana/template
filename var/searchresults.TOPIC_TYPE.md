@@ -22,6 +22,9 @@ Retourne le type de sujet.
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`39`](../src/subsilver/search_results_topics.tpl#L39)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`35`](../src/modernbb/search_results_topics.tpl#L35)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`54`](../src/punbb/search_results_topics.tpl#L54)
 

@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`21`](../src/subsilver/posting_poll_body.tpl#L21)
 
+### Version ModernBB
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`7`](../src/modernbb/posting_poll_body.tpl#L7)
+
 ### Version PunBB
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`10`](../src/punbb/posting_poll_body.tpl#L10)
 

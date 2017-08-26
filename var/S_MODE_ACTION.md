@@ -20,6 +20,9 @@ Action du formulaire de recherche.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/memberlist_body.tpl#L1)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`3`](../src/modernbb/memberlist_body.tpl#L3)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`36`](../src/punbb/memberlist_body.tpl#L36)
 

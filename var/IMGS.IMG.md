@@ -22,6 +22,10 @@
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`13`](../src/subsilver/mod_rss_feeds.tpl#L13)
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`12`](../src/subsilver/mod_social_bookmarking.tpl#L12)
 
+### Version ModernBB
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`7`](../src/modernbb/mod_rss_feeds.tpl#L7)
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`7`](../src/modernbb/mod_social_bookmarking.tpl#L7)
+
 ### Version PunBB
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`9`](../src/punbb/mod_rss_feeds.tpl#L9)
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`8`](../src/punbb/mod_social_bookmarking.tpl#L8)

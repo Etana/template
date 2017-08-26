@@ -24,6 +24,9 @@
 ### Version phpBB2
 * __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`35`](../src/subsilver/calendar_box.tpl#L35), [`38`](../src/subsilver/calendar_box.tpl#L38)
 
+### Version ModernBB
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`34`](../src/modernbb/calendar_box.tpl#L34), [`40`](../src/modernbb/calendar_box.tpl#L40)
+
 ### Version PunBB
 * __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`29`](../src/punbb/calendar_box.tpl#L29), [`35`](../src/punbb/calendar_box.tpl#L35)
 

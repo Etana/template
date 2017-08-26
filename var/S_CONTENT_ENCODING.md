@@ -29,6 +29,13 @@ Remplacé par l'[encodage](http://fr.wikipedia.org/wiki/Codage_des_caract%C3%A8r
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`18`](../src/subsilver/search_body.tpl#L18), [`19`](../src/subsilver/search_body.tpl#L19)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`4`](../src/subsilver/simple_header.tpl#L4)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`5`](../src/modernbb/overall_header.tpl#L5)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`10`](../src/modernbb/posting_smilies_frame.tpl#L10)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`10`](../src/modernbb/posting_smilies_wysiwyg.tpl#L10)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`18`](../src/modernbb/search_body.tpl#L18), [`19`](../src/modernbb/search_body.tpl#L19)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`4`](../src/modernbb/simple_header.tpl#L4)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`5`](../src/punbb/overall_header.tpl#L5)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`5`](../src/punbb/posting_smilies_frame.tpl#L5)

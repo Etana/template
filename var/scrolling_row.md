@@ -33,6 +33,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`1`](../src/subsilver/mod_recent_topics.tpl#L1)[`<->`](../src/subsilver/mod_recent_topics.tpl#L1-L31)[`31`](../src/subsilver/mod_recent_topics.tpl#L31)
 
+### Version ModernBB
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_recent_topics.tpl#L4)[`<->`](../src/modernbb/mod_recent_topics.tpl#L4-L34)[`34`](../src/modernbb/mod_recent_topics.tpl#L34)
+
 ### Version PunBB
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`1`](../src/punbb/mod_recent_topics.tpl#L1)[`<->`](../src/punbb/mod_recent_topics.tpl#L1-L25)[`25`](../src/punbb/mod_recent_topics.tpl#L25)
 

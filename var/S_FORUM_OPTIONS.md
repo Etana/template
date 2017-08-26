@@ -20,6 +20,10 @@ Contient la liste de vos catégories et forums.
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`25`](../src/subsilver/album_formsearch_body.tpl#L25)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`60`](../src/subsilver/search_body.tpl#L60)
 
+### Version ModernBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`26`](../src/modernbb/album_formsearch_body.tpl#L26)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`46`](../src/modernbb/search_body.tpl#L46)
+
 ### Version PunBB
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`37`](../src/punbb/album_formsearch_body.tpl#L37)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`61`](../src/punbb/search_body.tpl#L61)

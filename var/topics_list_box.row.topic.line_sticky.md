@@ -26,6 +26,9 @@
 ### Version phpBB3
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`92`](../src/prosilver/topics_list_box.tpl#L92)[`<->`](../src/prosilver/topics_list_box.tpl#L92-L92)[`92`](../src/prosilver/topics_list_box.tpl#L92)
 
+### Version ModernBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`88`](../src/modernbb/topics_list_box.tpl#L88)[`<->`](../src/modernbb/topics_list_box.tpl#L88-L88)[`88`](../src/modernbb/topics_list_box.tpl#L88)
+
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`73`](../src/punbb/topics_list_box.tpl#L73)[`<->`](../src/punbb/topics_list_box.tpl#L73-L73)[`73`](../src/punbb/topics_list_box.tpl#L73), [`92`](../src/punbb/topics_list_box.tpl#L92)[`<->`](../src/punbb/topics_list_box.tpl#L92-L92)[`92`](../src/punbb/topics_list_box.tpl#L92), [`93`](../src/punbb/topics_list_box.tpl#L93)[`<->`](../src/punbb/topics_list_box.tpl#L93-L93)[`93`](../src/punbb/topics_list_box.tpl#L93), [`94`](../src/punbb/topics_list_box.tpl#L94)[`<->`](../src/punbb/topics_list_box.tpl#L94-L94)[`94`](../src/punbb/topics_list_box.tpl#L94)
 

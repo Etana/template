@@ -38,6 +38,13 @@ Page <strong>X</strong> sur <strong>Y</strong>
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`64`](../src/subsilver/search_results_topics.tpl#L64)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`286`](../src/subsilver/viewtopic_body.tpl#L286)
 
+### Version ModernBB
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`94`](../src/modernbb/album_modcp_body.tpl#L94)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`141`](../src/modernbb/album_moderate_body.tpl#L141)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`44`](../src/modernbb/album_search_body.tpl#L44)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`60`](../src/modernbb/modcp_body.tpl#L60)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`73`](../src/modernbb/privmsgs_body.tpl#L73)
+
 ### Version PunBB
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`23`](../src/punbb/album_modcp_body.tpl#L23), [`108`](../src/punbb/album_modcp_body.tpl#L108)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`73`](../src/punbb/album_moderate_body.tpl#L73), [`151`](../src/punbb/album_moderate_body.tpl#L151)

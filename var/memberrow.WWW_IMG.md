@@ -20,6 +20,9 @@ Contient un lien vers le site web du membre et l'image définie dans `PA > Affic
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`49`](../src/subsilver/memberlist_body.tpl#L49)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`48`](../src/modernbb/memberlist_body.tpl#L48)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`88`](../src/punbb/memberlist_body.tpl#L88)
 

@@ -25,6 +25,9 @@ Boucle s'affichant si aucun utilisateur ne correspond à la recherche.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`52`](../src/subsilver/memberlist_body.tpl#L52)[`<->`](../src/subsilver/memberlist_body.tpl#L52-L56)[`56`](../src/subsilver/memberlist_body.tpl#L56)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`51`](../src/modernbb/memberlist_body.tpl#L51)[`<->`](../src/modernbb/memberlist_body.tpl#L51-L55)[`55`](../src/modernbb/memberlist_body.tpl#L55)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`91`](../src/punbb/memberlist_body.tpl#L91)[`<->`](../src/punbb/memberlist_body.tpl#L91-L95)[`95`](../src/punbb/memberlist_body.tpl#L95)
 

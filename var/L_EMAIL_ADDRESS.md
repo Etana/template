@@ -20,6 +20,10 @@
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/profile_add_body.tpl#L30), [`36`](../src/subsilver/profile_add_body.tpl#L36)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`19`](../src/subsilver/profile_send_pass.tpl#L19)
 
+### Version ModernBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`35`](../src/modernbb/profile_add_body.tpl#L35), [`41`](../src/modernbb/profile_add_body.tpl#L41)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`13`](../src/modernbb/profile_send_pass.tpl#L13)
+
 ### Version PunBB
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`44`](../src/punbb/profile_add_body.tpl#L44), [`50`](../src/punbb/profile_add_body.tpl#L50)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`35`](../src/punbb/profile_send_pass.tpl#L35)

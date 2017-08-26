@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `poll_result`
@@ -66,6 +66,22 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`25`](../src/subsilver/poll_result.tpl#L25)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__ __:__ ligne [`26`](../src/subsilver/poll_result.tpl#L26)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/poll_result.tpl#files)
+
+### Positions des variables
+
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme)__ __:__ ligne [`13`](../src/modernbb/poll_result.tpl#L13)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme)__ __:__ ligne [`2`](../src/modernbb/poll_result.tpl#L2)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme)__ __:__ ligne [`13`](../src/modernbb/poll_result.tpl#L13)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`4`](../src/modernbb/poll_result.tpl#L4)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`10`](../src/modernbb/poll_result.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)__ __:__ ligne [`6`](../src/modernbb/poll_result.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`7`](../src/modernbb/poll_result.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`8`](../src/modernbb/poll_result.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__ __:__ ligne [`7`](../src/modernbb/poll_result.tpl#L7)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/poll_result.tpl#files)
@@ -105,9 +121,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`10`](../src/invision/poll_result.tpl#L10)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`12`](../src/invision/poll_result.tpl#L12)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__ __:__ ligne [`13`](../src/invision/poll_result.tpl#L13)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/poll_result.tpl#files)
-
-### Positions des variables

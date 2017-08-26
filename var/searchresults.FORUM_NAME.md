@@ -22,6 +22,10 @@ Contient le nom du forum dans lequel le message a été posté.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`37`](../src/subsilver/search_results_posts.tpl#L37)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`42`](../src/subsilver/search_results_topics.tpl#L42)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`8`](../src/modernbb/search_results_posts.tpl#L8)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`43`](../src/modernbb/search_results_topics.tpl#L43)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`59`](../src/punbb/search_results_posts.tpl#L59)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`59`](../src/punbb/search_results_topics.tpl#L59)

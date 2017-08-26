@@ -22,6 +22,10 @@ Lien vers marquer tous les forums comme lus.
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`67`](../src/subsilver/index_body.tpl#L67)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`34`](../src/subsilver/viewforum_body.tpl#L34), [`64`](../src/subsilver/viewforum_body.tpl#L64)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`15`](../src/modernbb/index_box.tpl#L15)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`36`](../src/modernbb/viewforum_body.tpl#L36), [`58`](../src/modernbb/viewforum_body.tpl#L58)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`8`](../src/punbb/index_body.tpl#L8)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)

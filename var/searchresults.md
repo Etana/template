@@ -64,6 +64,10 @@ Boucle d'affichage des résultats de la recherche se répétant pour chaque mess
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`18`](../src/subsilver/search_results_posts.tpl#L18)[`<->`](../src/subsilver/search_results_posts.tpl#L18-L50)[`50`](../src/subsilver/search_results_posts.tpl#L50)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`34`](../src/subsilver/search_results_topics.tpl#L34)[`<->`](../src/subsilver/search_results_topics.tpl#L34-L51)[`51`](../src/subsilver/search_results_topics.tpl#L51)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`2`](../src/modernbb/search_results_posts.tpl#L2)[`<->`](../src/modernbb/search_results_posts.tpl#L2-L19)[`19`](../src/modernbb/search_results_posts.tpl#L19)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`28`](../src/modernbb/search_results_topics.tpl#L28)[`<->`](../src/modernbb/search_results_topics.tpl#L28-L59)[`59`](../src/modernbb/search_results_topics.tpl#L59)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`32`](../src/punbb/search_results_posts.tpl#L32)[`<->`](../src/punbb/search_results_posts.tpl#L32-L68)[`68`](../src/punbb/search_results_posts.tpl#L68)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`45`](../src/punbb/search_results_topics.tpl#L45)[`<->`](../src/punbb/search_results_topics.tpl#L45-L64)[`64`](../src/punbb/search_results_topics.tpl#L64)

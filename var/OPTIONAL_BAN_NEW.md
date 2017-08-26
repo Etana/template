@@ -22,6 +22,9 @@ Chaîne de texte.
 ### Version phpBB3
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`9`](../src/prosilver/confirm_body.tpl#L9)
 
+### Version ModernBB
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`9`](../src/modernbb/confirm_body.tpl#L9)
+
 ### Version PunBB
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`6`](../src/punbb/confirm_body.tpl#L6)
 

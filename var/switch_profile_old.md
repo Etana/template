@@ -20,3 +20,6 @@ contenu sur lequel on boucle
 ### Version phpBB3
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`76`](../src/prosilver/mod_login.tpl#L76)[`<->`](../src/prosilver/mod_login.tpl#L76-L90)[`90`](../src/prosilver/mod_login.tpl#L90)
 
+### Version ModernBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`50`](../src/modernbb/mod_login.tpl#L50)[`<->`](../src/modernbb/mod_login.tpl#L50-L62)[`62`](../src/modernbb/mod_login.tpl#L62)
+

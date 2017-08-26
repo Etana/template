@@ -22,6 +22,10 @@
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`56`](../src/subsilver/modcp_split.tpl#L56)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`26`](../src/subsilver/privmsg_topic_review.tpl#L26)
 
+### Version ModernBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`46`](../src/modernbb/modcp_split.tpl#L46)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`11`](../src/modernbb/privmsg_topic_review.tpl#L11)
+
 ### Version PunBB
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`67`](../src/punbb/modcp_split.tpl#L67)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`39`](../src/punbb/privmsg_topic_review.tpl#L39)

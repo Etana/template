@@ -27,6 +27,9 @@ Le contenu de la boucle est affiché :
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`80`](../src/subsilver/groupcp_info_body.tpl#L80)[`<->`](../src/subsilver/groupcp_info_body.tpl#L80-L84)[`84`](../src/subsilver/groupcp_info_body.tpl#L84)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`93`](../src/modernbb/groupcp_info_body.tpl#L93)[`<->`](../src/modernbb/groupcp_info_body.tpl#L93-L97)[`97`](../src/modernbb/groupcp_info_body.tpl#L97)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`120`](../src/punbb/groupcp_info_body.tpl#L120)[`<->`](../src/punbb/groupcp_info_body.tpl#L120-L124)[`124`](../src/punbb/groupcp_info_body.tpl#L124)
 

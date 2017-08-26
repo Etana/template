@@ -26,6 +26,9 @@ Veuillez commencer votre inscription en acceptant ce règlement.
 ### Version phpBB2
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`16`](../src/subsilver/agreement.tpl#L16)
 
+### Version ModernBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`10`](../src/modernbb/agreement.tpl#L10)
+
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`23`](../src/punbb/agreement.tpl#L23)
 

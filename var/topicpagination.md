@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`112`](../src/subsilver/viewtopic_body.tpl#L112)[`<->`](../src/subsilver/viewtopic_body.tpl#L112-L116)[`116`](../src/subsilver/viewtopic_body.tpl#L116), [`287`](../src/subsilver/viewtopic_body.tpl#L287)[`<->`](../src/subsilver/viewtopic_body.tpl#L287-L289)[`289`](../src/subsilver/viewtopic_body.tpl#L289)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`56`](../src/modernbb/viewtopic_body.tpl#L56)[`<->`](../src/modernbb/viewtopic_body.tpl#L56-L60)[`60`](../src/modernbb/viewtopic_body.tpl#L60), [`284`](../src/modernbb/viewtopic_body.tpl#L284)[`<->`](../src/modernbb/viewtopic_body.tpl#L284-L288)[`288`](../src/modernbb/viewtopic_body.tpl#L288)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`100`](../src/punbb/viewtopic_body.tpl#L100)[`<->`](../src/punbb/viewtopic_body.tpl#L100-L102)[`102`](../src/punbb/viewtopic_body.tpl#L102), [`279`](../src/punbb/viewtopic_body.tpl#L279)[`<->`](../src/punbb/viewtopic_body.tpl#L279-L281)[`281`](../src/punbb/viewtopic_body.tpl#L281)
 

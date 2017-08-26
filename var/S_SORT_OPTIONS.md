@@ -18,6 +18,9 @@ Contient une liste d'option pour la recherche.
 ### Version phpBB2
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`86`](../src/subsilver/search_body.tpl#L86)
 
+### Version ModernBB
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`61`](../src/modernbb/search_body.tpl#L61)
+
 ### Version PunBB
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`76`](../src/punbb/search_body.tpl#L76)
 

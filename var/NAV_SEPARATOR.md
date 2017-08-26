@@ -21,3 +21,7 @@
 * __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`3`](../src/subsilver/calendar_body.tpl#L3)
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`4`](../src/subsilver/calendar_scheduler_body.tpl#L4)
 
+### Version ModernBB
+* __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`5`](../src/modernbb/calendar_body.tpl#L5)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`6`](../src/modernbb/calendar_scheduler_body.tpl#L6)
+

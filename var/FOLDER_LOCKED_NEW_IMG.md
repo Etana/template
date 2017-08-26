@@ -18,6 +18,9 @@ Image des nouveaux messages dans des sujets verrouillés définie dans `PA > Aff
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`101`](../src/subsilver/viewforum_body.tpl#L101)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`92`](../src/modernbb/viewforum_body.tpl#L92)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`69`](../src/punbb/viewforum_body.tpl#L69)
 

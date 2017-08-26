@@ -25,6 +25,13 @@ Action du formulaire dans les paramètres de vos sujets surveillés : `/search?s
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`34`](../src/subsilver/report_view_body.tpl#L34)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`16`](../src/subsilver/search_results_topics.tpl#L16)
 
+### Version ModernBB
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`4`](../src/modernbb/merge_body.tpl#L4)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`6`](../src/modernbb/merge_select_body.tpl#L6)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`4`](../src/modernbb/report_list_body.tpl#L4)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`40`](../src/modernbb/report_view_body.tpl#L40)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`14`](../src/modernbb/search_results_topics.tpl#L14)
+
 ### Version PunBB
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`23`](../src/punbb/merge_body.tpl#L23)
 * __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`17`](../src/punbb/merge_select_body.tpl#L17)

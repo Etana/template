@@ -20,6 +20,9 @@ Lien vers les sujets actifs du jour.
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`75`](../src/subsilver/index_body.tpl#L75)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`91`](../src/modernbb/index_box.tpl#L91)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`77`](../src/punbb/index_box.tpl#L77)
 

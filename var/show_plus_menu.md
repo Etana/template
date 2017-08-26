@@ -23,3 +23,6 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`14`](../src/subsilver/viewforum_body.tpl#L14)[`<->`](../src/subsilver/viewforum_body.tpl#L14-L27)[`27`](../src/subsilver/viewforum_body.tpl#L27)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`35`](../src/modernbb/viewforum_body.tpl#L35)[`<->`](../src/modernbb/viewforum_body.tpl#L35-L45)[`45`](../src/modernbb/viewforum_body.tpl#L45)
+

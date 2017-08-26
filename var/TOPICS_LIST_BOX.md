@@ -18,6 +18,9 @@ Affiche le template [`topics_list_box`](../tpl/topics_list_box.md#readme) ou [`t
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/viewforum_body.tpl#L30)
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`49`](../src/modernbb/viewforum_body.tpl#L49)
+
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`39`](../src/punbb/viewforum_body.tpl#L39)
 

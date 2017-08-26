@@ -23,6 +23,9 @@ Boucle s'affichant si l'utilisateur a l'autorisation de répondre à un sujet da
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`48`](../src/subsilver/viewtopic_body.tpl#L48)[`<->`](../src/subsilver/viewtopic_body.tpl#L48-L50)[`50`](../src/subsilver/viewtopic_body.tpl#L50), [`434`](../src/subsilver/viewtopic_body.tpl#L434)[`<->`](../src/subsilver/viewtopic_body.tpl#L434-L436)[`436`](../src/subsilver/viewtopic_body.tpl#L436)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`49`](../src/modernbb/viewtopic_body.tpl#L49)[`<->`](../src/modernbb/viewtopic_body.tpl#L49-L51)[`51`](../src/modernbb/viewtopic_body.tpl#L51), [`300`](../src/modernbb/viewtopic_body.tpl#L300)[`<->`](../src/modernbb/viewtopic_body.tpl#L300-L302)[`302`](../src/modernbb/viewtopic_body.tpl#L302)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`108`](../src/punbb/viewtopic_body.tpl#L108)[`<->`](../src/punbb/viewtopic_body.tpl#L108-L110)[`110`](../src/punbb/viewtopic_body.tpl#L110), [`287`](../src/punbb/viewtopic_body.tpl#L287)[`<->`](../src/punbb/viewtopic_body.tpl#L287-L289)[`289`](../src/punbb/viewtopic_body.tpl#L289)
 

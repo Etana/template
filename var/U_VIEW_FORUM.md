@@ -22,6 +22,10 @@ Remplacé par l'URL absolue vers le forum dans lequel le sujet se trouve.
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 
 
+### Version ModernBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`6`](../src/modernbb/viewforum_body.tpl#L6)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 
+
 ### Version PunBB
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`17`](../src/punbb/faq_body.tpl#L17)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`17`](../src/punbb/faq_dhtml.tpl#L17)

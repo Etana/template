@@ -18,3 +18,6 @@ Remplacé par une liste déroulante contenant les différentes actions de modér
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`464`](../src/subsilver/viewtopic_body.tpl#L464)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`364`](../src/modernbb/viewtopic_body.tpl#L364)
+

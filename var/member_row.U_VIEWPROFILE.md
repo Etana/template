@@ -22,6 +22,9 @@ Chemin absolu vers le profil du membre sur lequel on boucle.
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`67`](../src/subsilver/groupcp_info_body.tpl#L67)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`80`](../src/modernbb/groupcp_info_body.tpl#L80)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`107`](../src/punbb/groupcp_info_body.tpl#L107)
 

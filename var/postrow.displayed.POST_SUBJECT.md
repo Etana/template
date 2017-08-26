@@ -23,6 +23,9 @@
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`21`](../src/subsilver/posting_topic_review.tpl#L21)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`145`](../src/subsilver/viewtopic_body.tpl#L145)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`184`](../src/modernbb/viewtopic_body.tpl#L184)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`135`](../src/punbb/viewtopic_body.tpl#L135)
 

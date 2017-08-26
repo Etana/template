@@ -20,6 +20,9 @@ Contient le contenu du message posté.
 ### Version phpBB2
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`48`](../src/subsilver/search_results_posts.tpl#L48)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`16`](../src/modernbb/search_results_posts.tpl#L16)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`50`](../src/punbb/search_results_posts.tpl#L50)
 

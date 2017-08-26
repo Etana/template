@@ -1,6 +1,6 @@
 # JQUERY_DIR
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisable dans__ __:__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -17,6 +17,11 @@
 
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`25`](../src/subsilver/overall_header.tpl#L25), [`26`](../src/subsilver/overall_header.tpl#L26), [`37`](../src/subsilver/overall_header.tpl#L37), [`38`](../src/subsilver/overall_header.tpl#L38), [`42`](../src/subsilver/overall_header.tpl#L42)
+
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`132`](../src/modernbb/groupcp_info_body.tpl#L132)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`25`](../src/modernbb/overall_header.tpl#L25), [`26`](../src/modernbb/overall_header.tpl#L26), [`37`](../src/modernbb/overall_header.tpl#L37), [`38`](../src/modernbb/overall_header.tpl#L38), [`42`](../src/modernbb/overall_header.tpl#L42)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`405`](../src/modernbb/posting_body.tpl#L405)
 
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`25`](../src/punbb/overall_header.tpl#L25), [`26`](../src/punbb/overall_header.tpl#L26), [`37`](../src/punbb/overall_header.tpl#L37), [`38`](../src/punbb/overall_header.tpl#L38), [`42`](../src/punbb/overall_header.tpl#L42)

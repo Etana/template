@@ -25,6 +25,9 @@ Boucle contenant le saut entre 2 widgets.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`323`](../src/subsilver/overall_header.tpl#L323)[`<->`](../src/subsilver/overall_header.tpl#L323-L325)[`325`](../src/subsilver/overall_header.tpl#L325)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`327`](../src/modernbb/overall_header.tpl#L327)[`<->`](../src/modernbb/overall_header.tpl#L327-L329)[`329`](../src/modernbb/overall_header.tpl#L329)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`310`](../src/punbb/overall_header.tpl#L310)[`<->`](../src/punbb/overall_header.tpl#L310-L312)[`312`](../src/punbb/overall_header.tpl#L312)
 

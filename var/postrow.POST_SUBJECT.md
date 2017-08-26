@@ -21,6 +21,9 @@
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`50`](../src/subsilver/modcp_split.tpl#L50)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
 
+### Version ModernBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`43`](../src/modernbb/modcp_split.tpl#L43)
+
 ### Version PunBB
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`54`](../src/punbb/modcp_split.tpl#L54)
 

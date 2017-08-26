@@ -24,3 +24,6 @@ Boucle s'affichant si vous êtes dans les paramètres de vos sujets surveillés 
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`1`](../src/subsilver/rpg_sheet_edit.tpl#L1)[`<->`](../src/subsilver/rpg_sheet_edit.tpl#L1-L3)[`3`](../src/subsilver/rpg_sheet_edit.tpl#L3)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`1`](../src/subsilver/search_results_topics.tpl#L1)[`<->`](../src/subsilver/search_results_topics.tpl#L1-L3)[`3`](../src/subsilver/search_results_topics.tpl#L3)
 
+### Version ModernBB
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`1`](../src/modernbb/rpg_sheet_edit.tpl#L1)[`<->`](../src/modernbb/rpg_sheet_edit.tpl#L1-L3)[`3`](../src/modernbb/rpg_sheet_edit.tpl#L3)
+

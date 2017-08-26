@@ -21,6 +21,9 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`24`](../src/subsilver/memberlist_body.tpl#L24)
 * __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`11`](../src/subsilver/rpg_sheet.tpl#L11)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`23`](../src/modernbb/memberlist_body.tpl#L23)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`63`](../src/punbb/memberlist_body.tpl#L63)
 

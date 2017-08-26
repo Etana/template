@@ -19,6 +19,9 @@
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)
 
+### Version ModernBB
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`12`](../src/modernbb/posting_topic_review.tpl#L12)
+
 ### Version PunBB
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`14`](../src/punbb/posting_topic_review.tpl#L14)
 

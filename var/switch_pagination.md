@@ -23,6 +23,9 @@ Boucle s'affichant si la partie affichée contient plusieurs pages.
 ### Version phpBB2
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`58`](../src/subsilver/memberlist_body.tpl#L58)[`<->`](../src/subsilver/memberlist_body.tpl#L58-L66)[`66`](../src/subsilver/memberlist_body.tpl#L66)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`63`](../src/modernbb/memberlist_body.tpl#L63)[`<->`](../src/modernbb/memberlist_body.tpl#L63-L65)[`65`](../src/modernbb/memberlist_body.tpl#L65)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`25`](../src/punbb/memberlist_body.tpl#L25)[`<->`](../src/punbb/memberlist_body.tpl#L25-L29)[`29`](../src/punbb/memberlist_body.tpl#L29), [`105`](../src/punbb/memberlist_body.tpl#L105)[`<->`](../src/punbb/memberlist_body.tpl#L105-L109)[`109`](../src/punbb/memberlist_body.tpl#L109)
 

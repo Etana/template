@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `calendar_overview_topic`
@@ -64,6 +64,25 @@
 * __[`<!-- BEGIN display_forum -->`](../var/display_forum.md#readme)__ __:__ ligne [`10`](../src/subsilver/calendar_overview_topic.tpl#L10)
 * __[`<!-- END display_forum -->`](../var/display_forum.md#readme)__ __:__ ligne [`13`](../src/subsilver/calendar_overview_topic.tpl#L13)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/calendar_overview_topic.tpl#files)
+
+### Positions des variables
+
+* __[`{AUTHOR}`](../var/AUTHOR.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_overview_topic.tpl#L5)
+* __[`{CALENDAR_EVENT}`](../var/CALENDAR_EVENT.md#readme)__ __:__ ligne [`4`](../src/modernbb/calendar_overview_topic.tpl#L4)
+* __[`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)__ __:__ ligne [`5`](../src/modernbb/calendar_overview_topic.tpl#L5)
+* __[`{L_CALENDAR_EVENT}`](../var/L_CALENDAR_EVENT.md#readme)__ __:__ ligne [`4`](../src/modernbb/calendar_overview_topic.tpl#L4)
+* __[`{L_FORUM}`](../var/L_FORUM.md#readme)__ __:__ ligne [`8`](../src/modernbb/calendar_overview_topic.tpl#L8)
+* __[`{L_TOPIC_DATE}`](../var/L_TOPIC_DATE.md#readme)__ __:__ ligne [`7`](../src/modernbb/calendar_overview_topic.tpl#L7)
+* __[`{MESSAGE}`](../var/MESSAGE.md#readme)__ __:__ ligne [`12`](../src/modernbb/calendar_overview_topic.tpl#L12)
+* __[`{NAV_DESC}`](../var/NAV_DESC.md#readme)__ __:__ ligne [`8`](../src/modernbb/calendar_overview_topic.tpl#L8)
+* __[`{TOPIC_DATE}`](../var/TOPIC_DATE.md#readme)__ __:__ ligne [`7`](../src/modernbb/calendar_overview_topic.tpl#L7)
+* __[`{TOPIC_TITLE}`](../var/TOPIC_TITLE.md#readme)__ __:__ ligne [`2`](../src/modernbb/calendar_overview_topic.tpl#L2)
+* __[`<!-- BEGIN display_forum -->`](../var/display_forum.md#readme)__ __:__ ligne [`6`](../src/modernbb/calendar_overview_topic.tpl#L6)
+* __[`<!-- END display_forum -->`](../var/display_forum.md#readme)__ __:__ ligne [`9`](../src/modernbb/calendar_overview_topic.tpl#L9)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/calendar_overview_topic.tpl#files)
@@ -101,9 +120,3 @@
 * __[`{TOPIC_TITLE}`](../var/TOPIC_TITLE.md#readme)__ __:__ ligne [`2`](../src/invision/calendar_overview_topic.tpl#L2)
 * __[`<!-- BEGIN display_forum -->`](../var/display_forum.md#readme)__ __:__ ligne [`6`](../src/invision/calendar_overview_topic.tpl#L6)
 * __[`<!-- END display_forum -->`](../var/display_forum.md#readme)__ __:__ ligne [`9`](../src/invision/calendar_overview_topic.tpl#L9)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/calendar_overview_topic.tpl#files)
-
-### Positions des variables

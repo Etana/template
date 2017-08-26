@@ -20,6 +20,9 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`32`](../src/subsilver/agreement.tpl#L32)
 
+### Version ModernBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`25`](../src/modernbb/agreement.tpl#L25)
+
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`35`](../src/punbb/agreement.tpl#L35)
 

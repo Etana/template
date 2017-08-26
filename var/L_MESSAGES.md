@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`115`](../src/subsilver/mod_login.tpl#L115)
 
+### Version ModernBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`56`](../src/modernbb/mod_login.tpl#L56), [`70`](../src/modernbb/mod_login.tpl#L70)
+
 ### Version PunBB
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`77`](../src/punbb/mod_login.tpl#L77)
 

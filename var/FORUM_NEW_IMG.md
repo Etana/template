@@ -18,6 +18,9 @@ Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion d
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`184`](../src/subsilver/index_body.tpl#L184)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`104`](../src/modernbb/index_body.tpl#L104)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`139`](../src/punbb/index_body.tpl#L139)
 

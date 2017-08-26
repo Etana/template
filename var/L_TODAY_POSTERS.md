@@ -20,6 +20,9 @@ Affiche le texte du lien de la variable [`{U_TODAY_POSTERS}`](../var/U_TODAY_POS
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`76`](../src/subsilver/index_body.tpl#L76)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`94`](../src/modernbb/index_box.tpl#L94)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`78`](../src/punbb/index_box.tpl#L78)
 

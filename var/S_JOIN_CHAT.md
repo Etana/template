@@ -15,3 +15,6 @@
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`91`](../src/prosilver/index_body.tpl#L91)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`66`](../src/modernbb/index_body.tpl#L66)
+

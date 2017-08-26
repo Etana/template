@@ -19,6 +19,9 @@
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`178`](../src/prosilver/album_cat_body.tpl#L178)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`176`](../src/modernbb/album_cat_body.tpl#L176)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`172`](../src/punbb/album_cat_body.tpl#L172)
 

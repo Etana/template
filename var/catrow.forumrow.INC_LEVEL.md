@@ -19,3 +19,6 @@
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`31`](../src/prosilver/index_box.tpl#L31)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`38`](../src/modernbb/index_box.tpl#L38)
+

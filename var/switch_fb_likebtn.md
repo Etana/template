@@ -24,6 +24,9 @@ Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`226`](../src/subsilver/album_showpage_body.tpl#L226)[`<->`](../src/subsilver/album_showpage_body.tpl#L226-L230)[`230`](../src/subsilver/album_showpage_body.tpl#L230)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`68`](../src/subsilver/viewtopic_body.tpl#L68)[`<->`](../src/subsilver/viewtopic_body.tpl#L68-L77)[`77`](../src/subsilver/viewtopic_body.tpl#L77)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`70`](../src/modernbb/viewtopic_body.tpl#L70)[`<->`](../src/modernbb/viewtopic_body.tpl#L70-L79)[`79`](../src/modernbb/viewtopic_body.tpl#L79)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`84`](../src/punbb/viewtopic_body.tpl#L84)[`<->`](../src/punbb/viewtopic_body.tpl#L84-L93)[`93`](../src/punbb/viewtopic_body.tpl#L93)
 

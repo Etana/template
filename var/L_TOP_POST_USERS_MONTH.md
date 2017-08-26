@@ -18,6 +18,9 @@
 ### Version phpBB2
 * __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`3`](../src/subsilver/mod_top_post_users_month.tpl#L3), [`7`](../src/subsilver/mod_top_post_users_month.tpl#L7)
 
+### Version ModernBB
+* __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`2`](../src/modernbb/mod_top_post_users_month.tpl#L2)
+
 ### Version PunBB
 * __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`2`](../src/punbb/mod_top_post_users_month.tpl#L2), [`4`](../src/punbb/mod_top_post_users_month.tpl#L4)
 

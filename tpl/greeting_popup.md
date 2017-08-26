@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `greeting_popup`
@@ -45,6 +45,19 @@ Ce template modifie le popup d'anniversaire.
 * __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)__ __:__ ligne [`16`](../src/subsilver/greeting_popup.tpl#L16)
 * __[`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme)__ __:__ ligne [`5`](../src/subsilver/greeting_popup.tpl#L5)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/greeting_popup.tpl#files)
+
+### Positions des variables
+
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)__ __:__ ligne [`24`](../src/modernbb/greeting_popup.tpl#L24)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)__ __:__ ligne [`22`](../src/modernbb/greeting_popup.tpl#L22)
+* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)__ __:__ ligne [`21`](../src/modernbb/greeting_popup.tpl#L21)
+* __[`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme)__ __:__ ligne [`10`](../src/modernbb/greeting_popup.tpl#L10)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/modernbb/greeting_popup.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`5`](../src/modernbb/greeting_popup.tpl#L5)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/greeting_popup.tpl#files)
@@ -70,9 +83,3 @@ Ce template modifie le popup d'anniversaire.
 * __[`{U_PRIVATEMSGS}`](../var/U_PRIVATEMSGS.md#readme)__ __:__ ligne [`10`](../src/invision/greeting_popup.tpl#L10)
 * __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/invision/greeting_popup.tpl#L1)
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`5`](../src/invision/greeting_popup.tpl#L5)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/greeting_popup.tpl#files)
-
-### Positions des variables

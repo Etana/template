@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `merge_body`
@@ -90,6 +90,32 @@
 * __[`{TO_TOPIC_TITLE}`](../var/TO_TOPIC_TITLE.md#readme)__ __:__ ligne [`25`](../src/subsilver/merge_body.tpl#L25)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`4`](../src/subsilver/merge_body.tpl#L4)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/merge_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_FID}`](../var/CURRENT_FID.md#readme)__ __:__ ligne [`35`](../src/modernbb/merge_body.tpl#L35)
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/merge_body.tpl#L2)
+* __[`{FROM_TOPIC}`](../var/FROM_TOPIC.md#readme)__ __:__ ligne [`23`](../src/modernbb/merge_body.tpl#L23)
+* __[`{FROM_TOPIC_TITLE}`](../var/FROM_TOPIC_TITLE.md#readme)__ __:__ ligne [`14`](../src/modernbb/merge_body.tpl#L14)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/merge_body.tpl#L1)
+* __[`{L_FROM_TOPIC}`](../var/L_FROM_TOPIC.md#readme)__ __:__ ligne [`11`](../src/modernbb/merge_body.tpl#L11)
+* __[`{L_FROM_TOPIC_EXPLAIN}`](../var/L_FROM_TOPIC_EXPLAIN.md#readme)__ __:__ ligne [`12`](../src/modernbb/merge_body.tpl#L12)
+* __[`{L_REFRESH}`](../var/L_REFRESH.md#readme)__ __:__ ligne [`37`](../src/modernbb/merge_body.tpl#L37)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`25`](../src/modernbb/merge_body.tpl#L25)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)__ __:__ ligne [`36`](../src/modernbb/merge_body.tpl#L36)
+* __[`{L_TITLE}`](../var/L_TITLE.md#readme)__ __:__ ligne [`7`](../src/modernbb/merge_body.tpl#L7)
+* __[`{L_TO_TOPIC}`](../var/L_TO_TOPIC.md#readme)__ __:__ ligne [`18`](../src/modernbb/merge_body.tpl#L18)
+* __[`{L_TO_TOPIC_EXPLAIN}`](../var/L_TO_TOPIC_EXPLAIN.md#readme)__ __:__ ligne [`19`](../src/modernbb/merge_body.tpl#L19)
+* __[`{S_ACTION}`](../var/S_ACTION.md#readme)__ __:__ ligne [`4`](../src/modernbb/merge_body.tpl#L4)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`38`](../src/modernbb/merge_body.tpl#L38)
+* __[`{TO_TOPIC}`](../var/TO_TOPIC.md#readme)__ __:__ ligne [`24`](../src/modernbb/merge_body.tpl#L24)
+* __[`{TO_TOPIC_TITLE}`](../var/TO_TOPIC_TITLE.md#readme)__ __:__ ligne [`22`](../src/modernbb/merge_body.tpl#L22)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/merge_body.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/merge_body.tpl#L1)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/merge_body.tpl#files)
@@ -152,9 +178,3 @@
 * __[`{TO_TOPIC}`](../var/TO_TOPIC.md#readme)__ __:__ ligne [`28`](../src/invision/merge_body.tpl#L28)
 * __[`{TO_TOPIC_TITLE}`](../var/TO_TOPIC_TITLE.md#readme)__ __:__ ligne [`26`](../src/invision/merge_body.tpl#L26)
 * __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`2`](../src/invision/merge_body.tpl#L2)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/merge_body.tpl#files)
-
-### Positions des variables

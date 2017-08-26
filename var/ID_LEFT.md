@@ -18,6 +18,9 @@ Identifiant `left` attribué aux widgets de la colonne de gauche si celle-ci est
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`320`](../src/subsilver/overall_header.tpl#L320)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`324`](../src/modernbb/overall_header.tpl#L324)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`307`](../src/punbb/overall_header.tpl#L307)
 

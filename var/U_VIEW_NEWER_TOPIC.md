@@ -26,6 +26,9 @@ Si il n'y a pas de sujet suivant ces conditions, en allant à l'adresse une page
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`107`](../src/subsilver/viewtopic_body.tpl#L107), [`278`](../src/subsilver/viewtopic_body.tpl#L278)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`99`](../src/modernbb/viewtopic_body.tpl#L99), [`280`](../src/modernbb/viewtopic_body.tpl#L280)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`116`](../src/punbb/viewtopic_body.tpl#L116), [`261`](../src/punbb/viewtopic_body.tpl#L261)
 

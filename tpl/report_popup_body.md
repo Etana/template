@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `report_popup_body`
@@ -41,6 +41,18 @@
 * __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)__ __:__ ligne [`16`](../src/subsilver/report_popup_body.tpl#L16)
 * __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)__ __:__ ligne [`5`](../src/subsilver/report_popup_body.tpl#L5)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/report_popup_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)__ __:__ ligne [`24`](../src/modernbb/report_popup_body.tpl#L24)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)__ __:__ ligne [`22`](../src/modernbb/report_popup_body.tpl#L22)
+* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)__ __:__ ligne [`10`](../src/modernbb/report_popup_body.tpl#L10)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/modernbb/report_popup_body.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`5`](../src/modernbb/report_popup_body.tpl#L5)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/report_popup_body.tpl#files)
@@ -64,9 +76,3 @@
 * __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)__ __:__ ligne [`10`](../src/invision/report_popup_body.tpl#L10)
 * __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/invision/report_popup_body.tpl#L1)
 * __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`5`](../src/invision/report_popup_body.tpl#L5)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/report_popup_body.tpl#files)
-
-### Positions des variables

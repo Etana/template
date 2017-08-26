@@ -26,6 +26,10 @@ contenu sur lequel on boucle
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`46`](../src/subsilver/posting_body.tpl#L46)[`<->`](../src/subsilver/posting_body.tpl#L46-L80)[`80`](../src/subsilver/posting_body.tpl#L80)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`335`](../src/subsilver/viewtopic_body.tpl#L335)[`<->`](../src/subsilver/viewtopic_body.tpl#L335-L369)[`369`](../src/subsilver/viewtopic_body.tpl#L369)
 
+### Version ModernBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`9`](../src/modernbb/posting_body.tpl#L9)[`<->`](../src/modernbb/posting_body.tpl#L9-L28)[`28`](../src/modernbb/posting_body.tpl#L28)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`324`](../src/modernbb/viewtopic_body.tpl#L324)[`<->`](../src/modernbb/viewtopic_body.tpl#L324-L341)[`341`](../src/modernbb/viewtopic_body.tpl#L341)
+
 ### Version PunBB
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`30`](../src/punbb/posting_body.tpl#L30)[`<->`](../src/punbb/posting_body.tpl#L30-L48)[`48`](../src/punbb/posting_body.tpl#L48)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`322`](../src/punbb/viewtopic_body.tpl#L322)[`<->`](../src/punbb/viewtopic_body.tpl#L322-L340)[`340`](../src/punbb/viewtopic_body.tpl#L340)

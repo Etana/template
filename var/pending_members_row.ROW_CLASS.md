@@ -25,3 +25,6 @@ et vaut `row2` au sinon.
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`16`](../src/subsilver/groupcp_pending_info.tpl#L16), [`17`](../src/subsilver/groupcp_pending_info.tpl#L17), [`18`](../src/subsilver/groupcp_pending_info.tpl#L18), [`19`](../src/subsilver/groupcp_pending_info.tpl#L19), [`20`](../src/subsilver/groupcp_pending_info.tpl#L20), [`21`](../src/subsilver/groupcp_pending_info.tpl#L21), [`22`](../src/subsilver/groupcp_pending_info.tpl#L22)
 
+### Version ModernBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`20`](../src/modernbb/groupcp_pending_info.tpl#L20)
+

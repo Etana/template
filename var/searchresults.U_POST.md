@@ -20,6 +20,9 @@ Contient le lien du message bouclé.
 ### Version phpBB2
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`41`](../src/subsilver/search_results_posts.tpl#L41)
 
+### Version ModernBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`15`](../src/modernbb/search_results_posts.tpl#L15)
+
 ### Version PunBB
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`37`](../src/punbb/search_results_posts.tpl#L37)
 

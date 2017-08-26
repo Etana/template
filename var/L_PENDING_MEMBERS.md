@@ -21,6 +21,9 @@ Texte.
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`12`](../src/subsilver/groupcp_pending_info.tpl#L12)
 
+### Version ModernBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`17`](../src/modernbb/groupcp_pending_info.tpl#L17)
+
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`18`](../src/punbb/groupcp_pending_info.tpl#L18)
 

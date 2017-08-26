@@ -65,6 +65,10 @@ contenu sur lequel on boucle
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`112`](../src/subsilver/album_cat_body.tpl#L112)[`<->`](../src/subsilver/album_cat_body.tpl#L112-L190)[`190`](../src/subsilver/album_cat_body.tpl#L190)
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`11`](../src/subsilver/album_cat_top10.tpl#L11)[`<->`](../src/subsilver/album_cat_top10.tpl#L11-L49)[`49`](../src/subsilver/album_cat_top10.tpl#L49)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`56`](../src/modernbb/album_cat_body.tpl#L56)[`<->`](../src/modernbb/album_cat_body.tpl#L56-L120)[`120`](../src/modernbb/album_cat_body.tpl#L120)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`15`](../src/modernbb/album_cat_top10.tpl#L15)[`<->`](../src/modernbb/album_cat_top10.tpl#L15-L54)[`54`](../src/modernbb/album_cat_top10.tpl#L54)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`52`](../src/punbb/album_cat_body.tpl#L52)[`<->`](../src/punbb/album_cat_body.tpl#L52-L118)[`118`](../src/punbb/album_cat_body.tpl#L118)
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`24`](../src/punbb/album_cat_top10.tpl#L24)[`<->`](../src/punbb/album_cat_top10.tpl#L24-L61)[`61`](../src/punbb/album_cat_top10.tpl#L61)

@@ -22,6 +22,9 @@ Contient la description du forum bouclé.
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`57`](../src/subsilver/index_box.tpl#L57)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`44`](../src/modernbb/index_box.tpl#L44)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`31`](../src/punbb/index_box.tpl#L31)
 

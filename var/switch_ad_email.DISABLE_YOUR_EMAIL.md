@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`20`](../src/subsilver/profile_send_email.tpl#L20)
 
+### Version ModernBB
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`19`](../src/modernbb/profile_send_email.tpl#L19)
+
 ### Version PunBB
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`41`](../src/punbb/profile_send_email.tpl#L41)
 

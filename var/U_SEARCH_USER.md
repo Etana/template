@@ -23,6 +23,11 @@ Remplacé par l'adresse absolue `/search?mode=searchuser` d'une page de recherch
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`617`](../src/subsilver/posting_body.tpl#L617)
 
+### Version ModernBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`137`](../src/modernbb/groupcp_info_body.tpl#L137)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`411`](../src/modernbb/posting_body.tpl#L411)
+
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`162`](../src/punbb/groupcp_info_body.tpl#L162)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

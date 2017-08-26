@@ -27,6 +27,9 @@
 ### Version phpBB2
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`84`](../src/subsilver/mod_login.tpl#L84)[`<->`](../src/subsilver/mod_login.tpl#L84-L86)[`86`](../src/subsilver/mod_login.tpl#L86)
 
+### Version ModernBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`40`](../src/modernbb/mod_login.tpl#L40)[`<->`](../src/modernbb/mod_login.tpl#L40-L42)[`42`](../src/modernbb/mod_login.tpl#L42)
+
 ### Version PunBB
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`57`](../src/punbb/mod_login.tpl#L57)[`<->`](../src/punbb/mod_login.tpl#L57-L59)[`59`](../src/punbb/mod_login.tpl#L59)
 

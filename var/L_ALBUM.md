@@ -37,6 +37,17 @@
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`199`](../src/subsilver/album_upload_body.tpl#L199)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`56`](../src/subsilver/viewtopic_body.tpl#L56), [`394`](../src/subsilver/viewtopic_body.tpl#L394), [`414`](../src/subsilver/viewtopic_body.tpl#L414)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`11`](../src/modernbb/album_cat_body.tpl#L11), [`146`](../src/modernbb/album_cat_body.tpl#L146)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`34`](../src/modernbb/album_edit_body.tpl#L34)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`6`](../src/modernbb/album_modcp_body.tpl#L6)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`56`](../src/modernbb/album_moderate_body.tpl#L56)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`14`](../src/modernbb/album_overview_top10.tpl#L14)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`7`](../src/modernbb/album_search_body.tpl#L7)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`216`](../src/modernbb/album_showpage_body.tpl#L216)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`200`](../src/modernbb/album_upload_body.tpl#L200)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`143`](../src/punbb/album_cat_body.tpl#L143)
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`56`](../src/punbb/album_index_body.tpl#L56)

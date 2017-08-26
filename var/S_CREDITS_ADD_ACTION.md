@@ -20,6 +20,9 @@ Action du formulaire de donation.
 ### Version phpBB2
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`105`](../src/subsilver/buy_credits.tpl#L105), [`125`](../src/subsilver/buy_credits.tpl#L125), [`146`](../src/subsilver/buy_credits.tpl#L146), [`161`](../src/subsilver/buy_credits.tpl#L161), [`175`](../src/subsilver/buy_credits.tpl#L175), [`217`](../src/subsilver/buy_credits.tpl#L217)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`76`](../src/modernbb/buy_credits.tpl#L76), [`93`](../src/modernbb/buy_credits.tpl#L93), [`119`](../src/modernbb/buy_credits.tpl#L119), [`136`](../src/modernbb/buy_credits.tpl#L136), [`146`](../src/modernbb/buy_credits.tpl#L146), [`176`](../src/modernbb/buy_credits.tpl#L176)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`94`](../src/punbb/buy_credits.tpl#L94), [`111`](../src/punbb/buy_credits.tpl#L111), [`133`](../src/punbb/buy_credits.tpl#L133), [`148`](../src/punbb/buy_credits.tpl#L148), [`161`](../src/punbb/buy_credits.tpl#L161), [`192`](../src/punbb/buy_credits.tpl#L192)
 

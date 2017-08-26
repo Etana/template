@@ -22,6 +22,10 @@
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`47`](../src/subsilver/album_modcp_body.tpl#L47)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`85`](../src/subsilver/album_moderate_body.tpl#L85)
 
+### Version ModernBB
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`47`](../src/modernbb/album_modcp_body.tpl#L47)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`93`](../src/modernbb/album_moderate_body.tpl#L93)
+
 ### Version PunBB
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`60`](../src/punbb/album_modcp_body.tpl#L60)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`104`](../src/punbb/album_moderate_body.tpl#L104)

@@ -20,6 +20,9 @@
 ### Version phpBB2
 * __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`11`](../src/subsilver/calendar_box.tpl#L11)
 
+### Version ModernBB
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`13`](../src/modernbb/calendar_box.tpl#L13)
+
 ### Version PunBB
 * __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`4`](../src/punbb/calendar_box.tpl#L4)
 

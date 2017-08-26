@@ -22,6 +22,9 @@ Contenu de l'annonce défilante sur laquelle on boucle défini dans `PA > Géné
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`284`](../src/subsilver/overall_header.tpl#L284), [`303`](../src/subsilver/overall_header.tpl#L303)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`287`](../src/modernbb/overall_header.tpl#L287), [`311`](../src/modernbb/overall_header.tpl#L311)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`274`](../src/punbb/overall_header.tpl#L274), [`291`](../src/punbb/overall_header.tpl#L291)
 

@@ -18,3 +18,6 @@
 ### Version phpBB2
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`6`](../src/subsilver/album_cat_top10.tpl#L6)
 
+### Version ModernBB
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+

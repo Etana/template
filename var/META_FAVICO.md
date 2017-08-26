@@ -18,6 +18,9 @@ Contient la balise META gérant le favicon de votre forum.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`14`](../src/subsilver/overall_header.tpl#L14)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`14`](../src/modernbb/overall_header.tpl#L14)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`14`](../src/punbb/overall_header.tpl#L14)
 

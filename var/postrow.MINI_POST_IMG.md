@@ -20,3 +20,6 @@
 ### Version phpBB2
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
 
+### Version ModernBB
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`10`](../src/modernbb/privmsg_topic_review.tpl#L10)
+

@@ -22,6 +22,10 @@ Affiche le contenu du template [`index_box`](../tpl/index_box.md#readme) ou [`in
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`62`](../src/subsilver/index_body.tpl#L62)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/viewforum_body.tpl#L1)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`38`](../src/modernbb/index_body.tpl#L38)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/viewforum_body.tpl#L1)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`60`](../src/punbb/index_body.tpl#L60)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`29`](../src/punbb/viewforum_body.tpl#L29)

@@ -26,6 +26,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`300`](../src/subsilver/viewtopic_body.tpl#L300)[`<->`](../src/subsilver/viewtopic_body.tpl#L300-L333)[`333`](../src/subsilver/viewtopic_body.tpl#L333)
 
+### Version ModernBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`306`](../src/modernbb/viewtopic_body.tpl#L306)[`<->`](../src/modernbb/viewtopic_body.tpl#L306-L322)[`322`](../src/modernbb/viewtopic_body.tpl#L322)
+
 ### Version PunBB
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`302`](../src/punbb/viewtopic_body.tpl#L302)[`<->`](../src/punbb/viewtopic_body.tpl#L302-L320)[`320`](../src/punbb/viewtopic_body.tpl#L320)
 

@@ -25,6 +25,10 @@ contenu sur lequel on boucle
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`92`](../src/subsilver/privmsgs_body.tpl#L92)[`<->`](../src/subsilver/privmsgs_body.tpl#L92-L94)[`94`](../src/subsilver/privmsgs_body.tpl#L94)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`83`](../src/subsilver/privmsgs_read_body.tpl#L83)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L83-L85)[`85`](../src/subsilver/privmsgs_read_body.tpl#L85)
 
+### Version ModernBB
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`78`](../src/modernbb/privmsgs_body.tpl#L78)[`<->`](../src/modernbb/privmsgs_body.tpl#L78-L80)[`80`](../src/modernbb/privmsgs_body.tpl#L80)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`49`](../src/modernbb/privmsgs_read_body.tpl#L49)[`<->`](../src/modernbb/privmsgs_read_body.tpl#L49-L51)[`51`](../src/modernbb/privmsgs_read_body.tpl#L51)
+
 ### Version PunBB
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`88`](../src/punbb/privmsgs_body.tpl#L88)[`<->`](../src/punbb/privmsgs_body.tpl#L88-L90)[`90`](../src/punbb/privmsgs_body.tpl#L90)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`89`](../src/punbb/privmsgs_read_body.tpl#L89)[`<->`](../src/punbb/privmsgs_read_body.tpl#L89-L91)[`91`](../src/punbb/privmsgs_read_body.tpl#L91)

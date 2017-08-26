@@ -22,6 +22,9 @@ Chaîne de texte.
 ### Version phpBB2
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`210`](../src/subsilver/overall_header.tpl#L210)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`228`](../src/modernbb/overall_header.tpl#L228)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`216`](../src/punbb/overall_header.tpl#L216)
 

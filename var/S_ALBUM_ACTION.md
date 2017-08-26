@@ -28,6 +28,14 @@
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`329`](../src/subsilver/album_showpage_body.tpl#L329)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`193`](../src/subsilver/album_upload_body.tpl#L193)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`93`](../src/modernbb/album_cat_body.tpl#L93)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`32`](../src/modernbb/album_edit_body.tpl#L32)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`9`](../src/modernbb/album_modcp_body.tpl#L9)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`59`](../src/modernbb/album_moderate_body.tpl#L59)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`299`](../src/modernbb/album_showpage_body.tpl#L299)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`198`](../src/modernbb/album_upload_body.tpl#L198)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`90`](../src/punbb/album_cat_body.tpl#L90)
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`50`](../src/punbb/album_edit_body.tpl#L50)

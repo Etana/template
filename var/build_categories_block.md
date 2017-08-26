@@ -56,6 +56,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`8`](../src/subsilver/album_index_body.tpl#L8)[`<->`](../src/subsilver/album_index_body.tpl#L8-L77)[`77`](../src/subsilver/album_index_body.tpl#L77)
 
+### Version ModernBB
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/album_index_body.tpl#L1)[`<->`](../src/modernbb/album_index_body.tpl#L1-L38)[`38`](../src/modernbb/album_index_body.tpl#L38)
+
 ### Version PunBB
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`16`](../src/punbb/album_index_body.tpl#L16)[`<->`](../src/punbb/album_index_body.tpl#L16-L48)[`48`](../src/punbb/album_index_body.tpl#L48)
 

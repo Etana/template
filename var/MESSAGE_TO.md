@@ -20,3 +20,7 @@
 * __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme)__ __:__ lignes [`11`](../src/subsilver/privmsgs_preview.tpl#L11)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`37`](../src/subsilver/privmsgs_read_body.tpl#L37)
 
+### Version ModernBB
+* __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme)__ __:__ lignes [`6`](../src/modernbb/privmsgs_preview.tpl#L6)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`41`](../src/modernbb/privmsgs_read_body.tpl#L41)
+

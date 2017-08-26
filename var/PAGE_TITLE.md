@@ -22,6 +22,11 @@ Contient le titre de la page sur laquelle on se trouve.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/subsilver/overall_header.tpl#L4), [`17`](../src/subsilver/overall_header.tpl#L17)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/subsilver/simple_header.tpl#L5)
 
+### Version ModernBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/memberlist_body.tpl#L1)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/modernbb/overall_header.tpl#L4), [`17`](../src/modernbb/overall_header.tpl#L17)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/modernbb/simple_header.tpl#L5)
+
 ### Version PunBB
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`19`](../src/punbb/memberlist_body.tpl#L19)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/punbb/overall_header.tpl#L4), [`17`](../src/punbb/overall_header.tpl#L17)

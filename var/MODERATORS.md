@@ -20,6 +20,10 @@ Affiche les modérateurs du forum concerné.
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`200`](../src/subsilver/album_cat_body.tpl#L200)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`42`](../src/subsilver/viewforum_body.tpl#L42)
 
+### Version ModernBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`184`](../src/modernbb/album_cat_body.tpl#L184)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`79`](../src/modernbb/viewforum_body.tpl#L79)
+
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`181`](../src/punbb/album_cat_body.tpl#L181)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`56`](../src/punbb/viewforum_body.tpl#L56)

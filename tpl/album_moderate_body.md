@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_moderate_body`
@@ -204,6 +204,74 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.POSTER}`](../var/picrow.POSTER.md#readme)__ __:__ ligne [`80`](../src/subsilver/album_moderate_body.tpl#L80)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.TIME}`](../var/picrow.TIME.md#readme)__ __:__ ligne [`81`](../src/subsilver/album_moderate_body.tpl#L81)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/album_moderate_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`53`](../src/modernbb/album_moderate_body.tpl#L53)
+* __[`{JS_MENU}`](../var/JS_MENU.md#readme)__ __:__ ligne [`1`](../src/modernbb/album_moderate_body.tpl#L1)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`52`](../src/modernbb/album_moderate_body.tpl#L52)
+* __[`{L_ALBUM}`](../var/L_ALBUM.md#readme)__ __:__ ligne [`56`](../src/modernbb/album_moderate_body.tpl#L56)
+* __[`{L_APPROVAL}`](../var/L_APPROVAL.md#readme)__ __:__ ligne [`75`](../src/modernbb/album_moderate_body.tpl#L75)
+* __[`{L_APPROVE}`](../var/L_APPROVE.md#readme)__ __:__ ligne [`109`](../src/modernbb/album_moderate_body.tpl#L109)
+* __[`{L_ASC}`](../var/L_ASC.md#readme)__ __:__ ligne [`125`](../src/modernbb/album_moderate_body.tpl#L125)
+* __[`{L_CAT}`](../var/L_CAT.md#readme)__ __:__ ligne [`73`](../src/modernbb/album_moderate_body.tpl#L73)
+* __[`{L_CHECK_ALL}`](../var/L_CHECK_ALL.md#readme)__ __:__ ligne [`101`](../src/modernbb/album_moderate_body.tpl#L101)
+* __[`{L_DELETE}`](../var/L_DELETE.md#readme)__ __:__ ligne [`111`](../src/modernbb/album_moderate_body.tpl#L111)
+* __[`{L_DESC}`](../var/L_DESC.md#readme)__ __:__ ligne [`126`](../src/modernbb/album_moderate_body.tpl#L126)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`56`](../src/modernbb/album_moderate_body.tpl#L56)
+* __[`{L_LOCK}`](../var/L_LOCK.md#readme)__ __:__ ligne [`107`](../src/modernbb/album_moderate_body.tpl#L107)
+* __[`{L_MODCP}`](../var/L_MODCP.md#readme)__ __:__ ligne [`60`](../src/modernbb/album_moderate_body.tpl#L60)
+* __[`{L_ORDER}`](../var/L_ORDER.md#readme)__ __:__ ligne [`123`](../src/modernbb/album_moderate_body.tpl#L123)
+* __[`{L_PIC_TITLE}`](../var/L_PIC_TITLE.md#readme)__ __:__ ligne [`70`](../src/modernbb/album_moderate_body.tpl#L70)
+* __[`{L_PIC_TITLE}`](../var/L_PIC_TITLE.md#readme)__ __:__ ligne [`118`](../src/modernbb/album_moderate_body.tpl#L118)
+* __[`{L_POSTER}`](../var/L_POSTER.md#readme)__ __:__ ligne [`71`](../src/modernbb/album_moderate_body.tpl#L71)
+* __[`{L_SELECT}`](../var/L_SELECT.md#readme)__ __:__ ligne [`76`](../src/modernbb/album_moderate_body.tpl#L76)
+* __[`{L_SELECT_SORT_METHOD}`](../var/L_SELECT_SORT_METHOD.md#readme)__ __:__ ligne [`115`](../src/modernbb/album_moderate_body.tpl#L115)
+* __[`{L_SORT}`](../var/L_SORT.md#readme)__ __:__ ligne [`128`](../src/modernbb/album_moderate_body.tpl#L128)
+* __[`{L_STATUS}`](../var/L_STATUS.md#readme)__ __:__ ligne [`74`](../src/modernbb/album_moderate_body.tpl#L74)
+* __[`{L_TIME}`](../var/L_TIME.md#readme)__ __:__ ligne [`72`](../src/modernbb/album_moderate_body.tpl#L72)
+* __[`{L_TIME}`](../var/L_TIME.md#readme)__ __:__ ligne [`117`](../src/modernbb/album_moderate_body.tpl#L117)
+* __[`{L_UNAPPROVAL}`](../var/L_UNAPPROVAL.md#readme)__ __:__ ligne [`110`](../src/modernbb/album_moderate_body.tpl#L110)
+* __[`{L_UNCHECK_ALL}`](../var/L_UNCHECK_ALL.md#readme)__ __:__ ligne [`101`](../src/modernbb/album_moderate_body.tpl#L101)
+* __[`{L_UNLOCK}`](../var/L_UNLOCK.md#readme)__ __:__ ligne [`108`](../src/modernbb/album_moderate_body.tpl#L108)
+* __[`{L_VIEW}`](../var/L_VIEW.md#readme)__ __:__ ligne [`121`](../src/modernbb/album_moderate_body.tpl#L121)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`56`](../src/modernbb/album_moderate_body.tpl#L56)
+* __[`{NAV_SEP}`](../var/NAV_SEP.md#readme)__ __:__ ligne [`56`](../src/modernbb/album_moderate_body.tpl#L56)
+* __[`{PAGE_NUMBER}`](../var/PAGE_NUMBER.md#readme)__ __:__ ligne [`141`](../src/modernbb/album_moderate_body.tpl#L141)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`140`](../src/modernbb/album_moderate_body.tpl#L140)
+* __[`{SORT_APPROVAL_OPTION}`](../var/SORT_APPROVAL_OPTION.md#readme)__ __:__ ligne [`120`](../src/modernbb/album_moderate_body.tpl#L120)
+* __[`{SORT_ASC}`](../var/SORT_ASC.md#readme)__ __:__ ligne [`125`](../src/modernbb/album_moderate_body.tpl#L125)
+* __[`{SORT_DESC}`](../var/SORT_DESC.md#readme)__ __:__ ligne [`126`](../src/modernbb/album_moderate_body.tpl#L126)
+* __[`{SORT_PIC_TITLE}`](../var/SORT_PIC_TITLE.md#readme)__ __:__ ligne [`118`](../src/modernbb/album_moderate_body.tpl#L118)
+* __[`{SORT_TIME}`](../var/SORT_TIME.md#readme)__ __:__ ligne [`117`](../src/modernbb/album_moderate_body.tpl#L117)
+* __[`{SORT_USERNAME_OPTION}`](../var/SORT_USERNAME_OPTION.md#readme)__ __:__ ligne [`119`](../src/modernbb/album_moderate_body.tpl#L119)
+* __[`{SORT_VIEW}`](../var/SORT_VIEW.md#readme)__ __:__ ligne [`121`](../src/modernbb/album_moderate_body.tpl#L121)
+* __[`{S_ALBUM_ACTION}`](../var/S_ALBUM_ACTION.md#readme)__ __:__ ligne [`59`](../src/modernbb/album_moderate_body.tpl#L59)
+* __[`{U_ALBUM}`](../var/U_ALBUM.md#readme)__ __:__ ligne [`56`](../src/modernbb/album_moderate_body.tpl#L56)
+* __[`{U_FORUM_INDEX}`](../var/U_FORUM_INDEX.md#readme)__ __:__ ligne [`56`](../src/modernbb/album_moderate_body.tpl#L56)
+* __[`<!-- BEGIN nav_modcp -->`](../var/nav_modcp.md#readme)__ __:__ ligne [`104`](../src/modernbb/album_moderate_body.tpl#L104)
+* __[`<!-- END nav_modcp -->`](../var/nav_modcp.md#readme)__ __:__ ligne [`131`](../src/modernbb/album_moderate_body.tpl#L131)
+* __[`<!-- BEGIN no_pics -->`](../var/no_pics.md#readme)__ __:__ ligne [`80`](../src/modernbb/album_moderate_body.tpl#L80)
+* __[`<!-- END no_pics -->`](../var/no_pics.md#readme)__ __:__ ligne [`84`](../src/modernbb/album_moderate_body.tpl#L84)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{no_pics.L_NO_PICS}`](../var/no_pics.L_NO_PICS.md#readme)__ __:__ ligne [`82`](../src/modernbb/album_moderate_body.tpl#L82)
+* __[`<!-- BEGIN picrow -->`](../var/picrow.md#readme)__ __:__ ligne [`85`](../src/modernbb/album_moderate_body.tpl#L85)
+* __[`<!-- END picrow -->`](../var/picrow.md#readme)__ __:__ ligne [`95`](../src/modernbb/album_moderate_body.tpl#L95)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.APPROVAL}`](../var/picrow.APPROVAL.md#readme)__ __:__ ligne [`92`](../src/modernbb/album_moderate_body.tpl#L92)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.CAT}`](../var/picrow.CAT.md#readme)__ __:__ ligne [`90`](../src/modernbb/album_moderate_body.tpl#L90)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.LOCK}`](../var/picrow.LOCK.md#readme)__ __:__ ligne [`91`](../src/modernbb/album_moderate_body.tpl#L91)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.PIC_ID}`](../var/picrow.PIC_ID.md#readme)__ __:__ ligne [`93`](../src/modernbb/album_moderate_body.tpl#L93)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.PIC_LINK}`](../var/picrow.PIC_LINK.md#readme)__ __:__ ligne [`87`](../src/modernbb/album_moderate_body.tpl#L87)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.PIC_MESSAGE}`](../var/picrow.PIC_MESSAGE.md#readme)__ __:__ ligne [`87`](../src/modernbb/album_moderate_body.tpl#L87)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.PIC_TITLE}`](../var/picrow.PIC_TITLE.md#readme)__ __:__ ligne [`87`](../src/modernbb/album_moderate_body.tpl#L87)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.POSTER}`](../var/picrow.POSTER.md#readme)__ __:__ ligne [`88`](../src/modernbb/album_moderate_body.tpl#L88)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.ROW_CLASS}`](../var/picrow.ROW_CLASS.md#readme)__ __:__ ligne [`86`](../src/modernbb/album_moderate_body.tpl#L86)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.TIME}`](../var/picrow.TIME.md#readme)__ __:__ ligne [`89`](../src/modernbb/album_moderate_body.tpl#L89)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`52`](../src/modernbb/album_moderate_body.tpl#L52)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`52`](../src/modernbb/album_moderate_body.tpl#L52)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_moderate_body.tpl#files)
@@ -341,9 +409,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.POSTER}`](../var/picrow.POSTER.md#readme)__ __:__ ligne [`89`](../src/invision/album_moderate_body.tpl#L89)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.ROW_CLASS}`](../var/picrow.ROW_CLASS.md#readme)__ __:__ ligne [`87`](../src/invision/album_moderate_body.tpl#L87)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{picrow.TIME}`](../var/picrow.TIME.md#readme)__ __:__ ligne [`90`](../src/invision/album_moderate_body.tpl#L90)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/album_moderate_body.tpl#files)
-
-### Positions des variables

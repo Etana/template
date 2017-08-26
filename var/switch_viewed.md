@@ -24,6 +24,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`26`](../src/subsilver/album_overview_top10.tpl#L26)[`<->`](../src/subsilver/album_overview_top10.tpl#L26-L28)[`28`](../src/subsilver/album_overview_top10.tpl#L28)
 
+### Version ModernBB
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`18`](../src/modernbb/album_overview_top10.tpl#L18)[`<->`](../src/modernbb/album_overview_top10.tpl#L18-L20)[`20`](../src/modernbb/album_overview_top10.tpl#L20)
+
 ### Version PunBB
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`16`](../src/punbb/album_overview_top10.tpl#L16)[`<->`](../src/punbb/album_overview_top10.tpl#L16-L18)[`18`](../src/punbb/album_overview_top10.tpl#L18)
 

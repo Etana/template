@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `mentions_tooltip`
@@ -163,6 +163,60 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank_info.L_RANK}`](../var/switch_rank_info.L_RANK.md#readme)__ __:__ ligne [`60`](../src/subsilver/mentions_tooltip.tpl#L60)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank_info.RANK_TITLE}`](../var/switch_rank_info.RANK_TITLE.md#readme)__ __:__ ligne [`60`](../src/subsilver/mentions_tooltip.tpl#L60)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/mentions_tooltip.tpl#files)
+
+### Positions des variables
+
+* __[`{FRIENDS}`](../var/FRIENDS.md#readme)__ __:__ ligne [`10`](../src/modernbb/mentions_tooltip.tpl#L10)
+* __[`{L_FRIENDS}`](../var/L_FRIENDS.md#readme)__ __:__ ligne [`10`](../src/modernbb/mentions_tooltip.tpl#L10)
+* __[`{L_POSTS}`](../var/L_POSTS.md#readme)__ __:__ ligne [`9`](../src/modernbb/mentions_tooltip.tpl#L9)
+* __[`{POSTS}`](../var/POSTS.md#readme)__ __:__ ligne [`9`](../src/modernbb/mentions_tooltip.tpl#L9)
+* __[`{USER_AVATAR}`](../var/USER_AVATAR.md#readme)__ __:__ ligne [`3`](../src/modernbb/mentions_tooltip.tpl#L3)
+* __[`{USER_NAME}`](../var/USER_NAME.md#readme)__ __:__ ligne [`3`](../src/modernbb/mentions_tooltip.tpl#L3)
+* __[`{USER_NAME_COLORED}`](../var/USER_NAME_COLORED.md#readme)__ __:__ ligne [`4`](../src/modernbb/mentions_tooltip.tpl#L4)
+* __[`<!-- BEGIN switch_button_tooltip_FACEBOOK -->`](../var/switch_button_tooltip_FACEBOOK.md#readme)__ __:__ ligne [`43`](../src/modernbb/mentions_tooltip.tpl#L43)
+* __[`<!-- END switch_button_tooltip_FACEBOOK -->`](../var/switch_button_tooltip_FACEBOOK.md#readme)__ __:__ ligne [`49`](../src/modernbb/mentions_tooltip.tpl#L49)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FACEBOOK.IMAGE}`](../var/switch_button_tooltip_FACEBOOK.IMAGE.md#readme)__ __:__ ligne [`46`](../src/modernbb/mentions_tooltip.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FACEBOOK.LANG}`](../var/switch_button_tooltip_FACEBOOK.LANG.md#readme)__ __:__ ligne [`45`](../src/modernbb/mentions_tooltip.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FACEBOOK.LANG}`](../var/switch_button_tooltip_FACEBOOK.LANG.md#readme)__ __:__ ligne [`46`](../src/modernbb/mentions_tooltip.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FACEBOOK.URL}`](../var/switch_button_tooltip_FACEBOOK.URL.md#readme)__ __:__ ligne [`45`](../src/modernbb/mentions_tooltip.tpl#L45)
+* __[`<!-- BEGIN switch_button_tooltip_FRIEND -->`](../var/switch_button_tooltip_FRIEND.md#readme)__ __:__ ligne [`29`](../src/modernbb/mentions_tooltip.tpl#L29)
+* __[`<!-- END switch_button_tooltip_FRIEND -->`](../var/switch_button_tooltip_FRIEND.md#readme)__ __:__ ligne [`35`](../src/modernbb/mentions_tooltip.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FRIEND.IMAGE}`](../var/switch_button_tooltip_FRIEND.IMAGE.md#readme)__ __:__ ligne [`32`](../src/modernbb/mentions_tooltip.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FRIEND.LANG}`](../var/switch_button_tooltip_FRIEND.LANG.md#readme)__ __:__ ligne [`31`](../src/modernbb/mentions_tooltip.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FRIEND.LANG}`](../var/switch_button_tooltip_FRIEND.LANG.md#readme)__ __:__ ligne [`32`](../src/modernbb/mentions_tooltip.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FRIEND.URL}`](../var/switch_button_tooltip_FRIEND.URL.md#readme)__ __:__ ligne [`31`](../src/modernbb/mentions_tooltip.tpl#L31)
+* __[`<!-- BEGIN switch_button_tooltip_MESSAGES -->`](../var/switch_button_tooltip_MESSAGES.md#readme)__ __:__ ligne [`36`](../src/modernbb/mentions_tooltip.tpl#L36)
+* __[`<!-- END switch_button_tooltip_MESSAGES -->`](../var/switch_button_tooltip_MESSAGES.md#readme)__ __:__ ligne [`42`](../src/modernbb/mentions_tooltip.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_MESSAGES.IMAGE}`](../var/switch_button_tooltip_MESSAGES.IMAGE.md#readme)__ __:__ ligne [`39`](../src/modernbb/mentions_tooltip.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_MESSAGES.LANG}`](../var/switch_button_tooltip_MESSAGES.LANG.md#readme)__ __:__ ligne [`38`](../src/modernbb/mentions_tooltip.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_MESSAGES.LANG}`](../var/switch_button_tooltip_MESSAGES.LANG.md#readme)__ __:__ ligne [`39`](../src/modernbb/mentions_tooltip.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_MESSAGES.URL}`](../var/switch_button_tooltip_MESSAGES.URL.md#readme)__ __:__ ligne [`38`](../src/modernbb/mentions_tooltip.tpl#L38)
+* __[`<!-- BEGIN switch_button_tooltip_PM -->`](../var/switch_button_tooltip_PM.md#readme)__ __:__ ligne [`22`](../src/modernbb/mentions_tooltip.tpl#L22)
+* __[`<!-- END switch_button_tooltip_PM -->`](../var/switch_button_tooltip_PM.md#readme)__ __:__ ligne [`28`](../src/modernbb/mentions_tooltip.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PM.IMAGE}`](../var/switch_button_tooltip_PM.IMAGE.md#readme)__ __:__ ligne [`25`](../src/modernbb/mentions_tooltip.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PM.LANG}`](../var/switch_button_tooltip_PM.LANG.md#readme)__ __:__ ligne [`24`](../src/modernbb/mentions_tooltip.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PM.LANG}`](../var/switch_button_tooltip_PM.LANG.md#readme)__ __:__ ligne [`25`](../src/modernbb/mentions_tooltip.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PM.URL}`](../var/switch_button_tooltip_PM.URL.md#readme)__ __:__ ligne [`24`](../src/modernbb/mentions_tooltip.tpl#L24)
+* __[`<!-- BEGIN switch_button_tooltip_PROFILE -->`](../var/switch_button_tooltip_PROFILE.md#readme)__ __:__ ligne [`15`](../src/modernbb/mentions_tooltip.tpl#L15)
+* __[`<!-- END switch_button_tooltip_PROFILE -->`](../var/switch_button_tooltip_PROFILE.md#readme)__ __:__ ligne [`21`](../src/modernbb/mentions_tooltip.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PROFILE.IMAGE}`](../var/switch_button_tooltip_PROFILE.IMAGE.md#readme)__ __:__ ligne [`18`](../src/modernbb/mentions_tooltip.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PROFILE.LANG}`](../var/switch_button_tooltip_PROFILE.LANG.md#readme)__ __:__ ligne [`17`](../src/modernbb/mentions_tooltip.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PROFILE.LANG}`](../var/switch_button_tooltip_PROFILE.LANG.md#readme)__ __:__ ligne [`18`](../src/modernbb/mentions_tooltip.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PROFILE.URL}`](../var/switch_button_tooltip_PROFILE.URL.md#readme)__ __:__ ligne [`17`](../src/modernbb/mentions_tooltip.tpl#L17)
+* __[`<!-- BEGIN switch_button_tooltip_TWITTER -->`](../var/switch_button_tooltip_TWITTER.md#readme)__ __:__ ligne [`50`](../src/modernbb/mentions_tooltip.tpl#L50)
+* __[`<!-- END switch_button_tooltip_TWITTER -->`](../var/switch_button_tooltip_TWITTER.md#readme)__ __:__ ligne [`56`](../src/modernbb/mentions_tooltip.tpl#L56)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_TWITTER.IMAGE}`](../var/switch_button_tooltip_TWITTER.IMAGE.md#readme)__ __:__ ligne [`53`](../src/modernbb/mentions_tooltip.tpl#L53)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_TWITTER.LANG}`](../var/switch_button_tooltip_TWITTER.LANG.md#readme)__ __:__ ligne [`52`](../src/modernbb/mentions_tooltip.tpl#L52)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_TWITTER.LANG}`](../var/switch_button_tooltip_TWITTER.LANG.md#readme)__ __:__ ligne [`53`](../src/modernbb/mentions_tooltip.tpl#L53)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_TWITTER.URL}`](../var/switch_button_tooltip_TWITTER.URL.md#readme)__ __:__ ligne [`52`](../src/modernbb/mentions_tooltip.tpl#L52)
+* __[`<!-- BEGIN switch_rank_info -->`](../var/switch_rank_info.md#readme)__ __:__ ligne [`5`](../src/modernbb/mentions_tooltip.tpl#L5)
+* __[`<!-- END switch_rank_info -->`](../var/switch_rank_info.md#readme)__ __:__ ligne [`7`](../src/modernbb/mentions_tooltip.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank_info.L_RANK}`](../var/switch_rank_info.L_RANK.md#readme)__ __:__ ligne [`6`](../src/modernbb/mentions_tooltip.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank_info.RANK_TITLE}`](../var/switch_rank_info.RANK_TITLE.md#readme)__ __:__ ligne [`6`](../src/modernbb/mentions_tooltip.tpl#L6)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/mentions_tooltip.tpl#files)
@@ -270,9 +324,3 @@
 * __[`<!-- END switch_rank_info -->`](../var/switch_rank_info.md#readme)__ __:__ ligne [`61`](../src/invision/mentions_tooltip.tpl#L61)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank_info.L_RANK}`](../var/switch_rank_info.L_RANK.md#readme)__ __:__ ligne [`60`](../src/invision/mentions_tooltip.tpl#L60)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank_info.RANK_TITLE}`](../var/switch_rank_info.RANK_TITLE.md#readme)__ __:__ ligne [`60`](../src/invision/mentions_tooltip.tpl#L60)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/mentions_tooltip.tpl#files)
-
-### Positions des variables

@@ -23,6 +23,10 @@ Chaîne de caractère.
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`135`](../src/subsilver/index_body.tpl#L135), [`139`](../src/subsilver/index_body.tpl#L139), [`144`](../src/subsilver/index_body.tpl#L144)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`4`](../src/subsilver/mod_whoisonline.tpl#L4)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`43`](../src/modernbb/index_body.tpl#L43), [`47`](../src/modernbb/index_body.tpl#L47)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`2`](../src/modernbb/mod_whoisonline.tpl#L2)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`71`](../src/punbb/index_body.tpl#L71), [`74`](../src/punbb/index_body.tpl#L74), [`77`](../src/punbb/index_body.tpl#L77)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`2`](../src/punbb/mod_whoisonline.tpl#L2)

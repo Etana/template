@@ -17,6 +17,9 @@
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`263`](../src/prosilver/overall_header.tpl#L263)
 
+### Version ModernBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`274`](../src/modernbb/overall_header.tpl#L274)
+
 ### Version PunBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`256`](../src/punbb/overall_header.tpl#L256)
 

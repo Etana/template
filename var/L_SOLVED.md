@@ -18,6 +18,9 @@ Affiche le texte [résolu] dans le titre des sujets
 ### Version phpBB2
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`477`](../src/subsilver/posting_body.tpl#L477)
 
+### Version ModernBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`311`](../src/modernbb/posting_body.tpl#L311)
+
 ### Version PunBB
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`368`](../src/punbb/posting_body.tpl#L368)
 

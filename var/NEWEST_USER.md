@@ -1,6 +1,6 @@
 # NEWEST_USER
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_statistics`](../tpl/mod_statistics.md#readme)
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_statistics`](../tpl/mod_statistics.md#readme), [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -32,6 +32,10 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`147`](../src/subsilver/index_body.tpl#L147)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`8`](../src/subsilver/mod_statistics.tpl#L8)
+
+### Version ModernBB
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`5`](../src/modernbb/mod_statistics.tpl#L5)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`47`](../src/modernbb/overall_footer_begin.tpl#L47)
 
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`68`](../src/punbb/index_body.tpl#L68)

@@ -23,6 +23,10 @@ Texte.
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`9`](../src/subsilver/modcp_split.tpl#L9)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 
 
+### Version ModernBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`9`](../src/modernbb/modcp_split.tpl#L9)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 
+
 ### Version PunBB
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`18`](../src/punbb/modcp_split.tpl#L18), [`25`](../src/punbb/modcp_split.tpl#L25)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 

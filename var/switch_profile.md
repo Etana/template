@@ -23,6 +23,9 @@ contenu sur lequel on boucle
 ### Version phpBB2
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`101`](../src/subsilver/mod_login.tpl#L101)[`<->`](../src/subsilver/mod_login.tpl#L101-L125)[`125`](../src/subsilver/mod_login.tpl#L125)
 
+### Version ModernBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`64`](../src/modernbb/mod_login.tpl#L64)[`<->`](../src/modernbb/mod_login.tpl#L64-L76)[`76`](../src/modernbb/mod_login.tpl#L76)
+
 ### Version PunBB
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`70`](../src/punbb/mod_login.tpl#L70)[`<->`](../src/punbb/mod_login.tpl#L70-L84)[`84`](../src/punbb/mod_login.tpl#L84)
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_viewip`
@@ -148,6 +148,53 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_PROFILE}`](../var/userrow.U_PROFILE.md#readme)__ __:__ ligne [`53`](../src/subsilver/modcp_viewip.tpl#L53)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_SEARCHPOSTS}`](../var/userrow.U_SEARCHPOSTS.md#readme)__ __:__ ligne [`54`](../src/subsilver/modcp_viewip.tpl#L54)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/modcp_viewip.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/modernbb/modcp_viewip.tpl#L2)
+* __[`{IP}`](../var/IP.md#readme)__ __:__ ligne [`43`](../src/modernbb/modcp_viewip.tpl#L43)
+* __[`{IP1}`](../var/IP1.md#readme)__ __:__ ligne [`21`](../src/modernbb/modcp_viewip.tpl#L21)
+* __[`{IP2}`](../var/IP2.md#readme)__ __:__ ligne [`21`](../src/modernbb/modcp_viewip.tpl#L21)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_viewip.tpl#L1)
+* __[`{L_IP}`](../var/L_IP.md#readme)__ __:__ ligne [`20`](../src/modernbb/modcp_viewip.tpl#L20)
+* __[`{L_IP_INFO}`](../var/L_IP_INFO.md#readme)__ __:__ ligne [`31`](../src/modernbb/modcp_viewip.tpl#L31)
+* __[`{L_LOOKUP_IP}`](../var/L_LOOKUP_IP.md#readme)__ __:__ ligne [`44`](../src/modernbb/modcp_viewip.tpl#L44)
+* __[`{L_LOOKUP_IP}`](../var/L_LOOKUP_IP.md#readme)__ __:__ ligne [`75`](../src/modernbb/modcp_viewip.tpl#L75)
+* __[`{L_OTHER_IPS}`](../var/L_OTHER_IPS.md#readme)__ __:__ ligne [`67`](../src/modernbb/modcp_viewip.tpl#L67)
+* __[`{L_OTHER_USERS}`](../var/L_OTHER_USERS.md#readme)__ __:__ ligne [`51`](../src/modernbb/modcp_viewip.tpl#L51)
+* __[`{L_POSTED}`](../var/L_POSTED.md#readme)__ __:__ ligne [`24`](../src/modernbb/modcp_viewip.tpl#L24)
+* __[`{L_POSTER}`](../var/L_POSTER.md#readme)__ __:__ ligne [`16`](../src/modernbb/modcp_viewip.tpl#L16)
+* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme)__ __:__ ligne [`83`](../src/modernbb/modcp_viewip.tpl#L83)
+* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)__ __:__ ligne [`12`](../src/modernbb/modcp_viewip.tpl#L12)
+* __[`{L_THIS_POST_IP}`](../var/L_THIS_POST_IP.md#readme)__ __:__ ligne [`37`](../src/modernbb/modcp_viewip.tpl#L37)
+* __[`{L_TITLE}`](../var/L_TITLE.md#readme)__ __:__ ligne [`7`](../src/modernbb/modcp_viewip.tpl#L7)
+* __[`{POSTED}`](../var/POSTED.md#readme)__ __:__ ligne [`25`](../src/modernbb/modcp_viewip.tpl#L25)
+* __[`{POSTER}`](../var/POSTER.md#readme)__ __:__ ligne [`17`](../src/modernbb/modcp_viewip.tpl#L17)
+* __[`{POSTS}`](../var/POSTS.md#readme)__ __:__ ligne [`43`](../src/modernbb/modcp_viewip.tpl#L43)
+* __[`{PREVIEW_NEW}`](../var/PREVIEW_NEW.md#readme)__ __:__ ligne [`86`](../src/modernbb/modcp_viewip.tpl#L86)
+* __[`{SUBJECT}`](../var/SUBJECT.md#readme)__ __:__ ligne [`13`](../src/modernbb/modcp_viewip.tpl#L13)
+* __[`{U_LOOKUP_IP}`](../var/U_LOOKUP_IP.md#readme)__ __:__ ligne [`44`](../src/modernbb/modcp_viewip.tpl#L44)
+* __[`<!-- BEGIN iprow -->`](../var/iprow.md#readme)__ __:__ ligne [`72`](../src/modernbb/modcp_viewip.tpl#L72)
+* __[`<!-- END iprow -->`](../var/iprow.md#readme)__ __:__ ligne [`77`](../src/modernbb/modcp_viewip.tpl#L77)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.IP}`](../var/iprow.IP.md#readme)__ __:__ ligne [`74`](../src/modernbb/modcp_viewip.tpl#L74)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.POSTS}`](../var/iprow.POSTS.md#readme)__ __:__ ligne [`74`](../src/modernbb/modcp_viewip.tpl#L74)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.ROW_CLASS}`](../var/iprow.ROW_CLASS.md#readme)__ __:__ ligne [`73`](../src/modernbb/modcp_viewip.tpl#L73)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.U_LOOKUP_IP}`](../var/iprow.U_LOOKUP_IP.md#readme)__ __:__ ligne [`75`](../src/modernbb/modcp_viewip.tpl#L75)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_viewip.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/modernbb/modcp_viewip.tpl#L1)
+* __[`<!-- BEGIN userrow -->`](../var/userrow.md#readme)__ __:__ ligne [`56`](../src/modernbb/modcp_viewip.tpl#L56)
+* __[`<!-- END userrow -->`](../var/userrow.md#readme)__ __:__ ligne [`61`](../src/modernbb/modcp_viewip.tpl#L61)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.L_SEARCH}`](../var/userrow.L_SEARCH.md#readme)__ __:__ ligne [`59`](../src/modernbb/modcp_viewip.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.L_SEARCH_POSTS}`](../var/userrow.L_SEARCH_POSTS.md#readme)__ __:__ ligne [`59`](../src/modernbb/modcp_viewip.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.POSTS}`](../var/userrow.POSTS.md#readme)__ __:__ ligne [`58`](../src/modernbb/modcp_viewip.tpl#L58)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.ROW_CLASS}`](../var/userrow.ROW_CLASS.md#readme)__ __:__ ligne [`57`](../src/modernbb/modcp_viewip.tpl#L57)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.USERNAME}`](../var/userrow.USERNAME.md#readme)__ __:__ ligne [`58`](../src/modernbb/modcp_viewip.tpl#L58)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_PROFILE}`](../var/userrow.U_PROFILE.md#readme)__ __:__ ligne [`58`](../src/modernbb/modcp_viewip.tpl#L58)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_SEARCHPOSTS}`](../var/userrow.U_SEARCHPOSTS.md#readme)__ __:__ ligne [`59`](../src/modernbb/modcp_viewip.tpl#L59)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/modcp_viewip.tpl#files)
@@ -250,9 +297,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.USERNAME}`](../var/userrow.USERNAME.md#readme)__ __:__ ligne [`59`](../src/invision/modcp_viewip.tpl#L59)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_PROFILE}`](../var/userrow.U_PROFILE.md#readme)__ __:__ ligne [`59`](../src/invision/modcp_viewip.tpl#L59)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_SEARCHPOSTS}`](../var/userrow.U_SEARCHPOSTS.md#readme)__ __:__ ligne [`60`](../src/invision/modcp_viewip.tpl#L60)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/modcp_viewip.tpl#files)
-
-### Positions des variables

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_cat_top10`
@@ -152,6 +152,55 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_pics -->`](../var/list_pics_block.no_pics.md#readme)__ __:__ ligne [`27`](../src/subsilver/album_cat_top10.tpl#L27)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END no_pics -->`](../var/list_pics_block.no_pics.md#readme)__ __:__ ligne [`31`](../src/subsilver/album_cat_top10.tpl#L31)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/album_cat_top10.tpl#files)
+
+### Positions des variables
+
+* __[`{ALBUM_NAVIGATION_ARROW}`](../var/ALBUM_NAVIGATION_ARROW.md#readme)__ __:__ ligne [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`4`](../src/modernbb/album_cat_top10.tpl#L4)
+* __[`{JS_MENU}`](../var/JS_MENU.md#readme)__ __:__ ligne [`1`](../src/modernbb/album_cat_top10.tpl#L1)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`3`](../src/modernbb/album_cat_top10.tpl#L3)
+* __[`{L_ALBUM}`](../var/L_ALBUM.md#readme)__ __:__ ligne [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`{L_ALBUM_NAME}`](../var/L_ALBUM_NAME.md#readme)__ __:__ ligne [`27`](../src/modernbb/album_cat_top10.tpl#L27)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`{L_NO_PICS}`](../var/L_NO_PICS.md#readme)__ __:__ ligne [`36`](../src/modernbb/album_cat_top10.tpl#L36)
+* __[`{L_PIC_RANK}`](../var/L_PIC_RANK.md#readme)__ __:__ ligne [`24`](../src/modernbb/album_cat_top10.tpl#L24)
+* __[`{L_PIC_TITLE}`](../var/L_PIC_TITLE.md#readme)__ __:__ ligne [`25`](../src/modernbb/album_cat_top10.tpl#L25)
+* __[`{L_POSTER}`](../var/L_POSTER.md#readme)__ __:__ ligne [`26`](../src/modernbb/album_cat_top10.tpl#L26)
+* __[`{L_TOP10_STATS}`](../var/L_TOP10_STATS.md#readme)__ __:__ ligne [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`{L_TOP10_STATS}`](../var/L_TOP10_STATS.md#readme)__ __:__ ligne [`10`](../src/modernbb/album_cat_top10.tpl#L10)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`{NAV_SEP}`](../var/NAV_SEP.md#readme)__ __:__ ligne [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`{U_ALBUM}`](../var/U_ALBUM.md#readme)__ __:__ ligne [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`{U_FORUM_INDEX}`](../var/U_FORUM_INDEX.md#readme)__ __:__ ligne [`7`](../src/modernbb/album_cat_top10.tpl#L7)
+* __[`<!-- BEGIN list_pics_block -->`](../var/list_pics_block.md#readme)__ __:__ ligne [`15`](../src/modernbb/album_cat_top10.tpl#L15)
+* __[`<!-- END list_pics_block -->`](../var/list_pics_block.md#readme)__ __:__ ligne [`54`](../src/modernbb/album_cat_top10.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN legend_stat -->`](../var/list_pics_block.legend_stat.md#readme)__ __:__ ligne [`28`](../src/modernbb/album_cat_top10.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END legend_stat -->`](../var/list_pics_block.legend_stat.md#readme)__ __:__ ligne [`30`](../src/modernbb/album_cat_top10.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.legend_stat.L_LEGEND_STAT}`](../var/list_pics_block.legend_stat.L_LEGEND_STAT.md#readme)__ __:__ ligne [`29`](../src/modernbb/album_cat_top10.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN list_pics -->`](../var/list_pics_block.list_pics.md#readme)__ __:__ ligne [`39`](../src/modernbb/album_cat_top10.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END list_pics -->`](../var/list_pics_block.list_pics.md#readme)__ __:__ ligne [`49`](../src/modernbb/album_cat_top10.tpl#L49)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_ALBUM_NAME}`](../var/list_pics_block.list_pics.H_ALBUM_NAME.md#readme)__ __:__ ligne [`44`](../src/modernbb/album_cat_top10.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_POSTER}`](../var/list_pics_block.list_pics.H_POSTER.md#readme)__ __:__ ligne [`43`](../src/modernbb/album_cat_top10.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_RANK}`](../var/list_pics_block.list_pics.H_RANK.md#readme)__ __:__ ligne [`41`](../src/modernbb/album_cat_top10.tpl#L41)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.H_TITLE}`](../var/list_pics_block.list_pics.H_TITLE.md#readme)__ __:__ ligne [`42`](../src/modernbb/album_cat_top10.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.MESSAGE}`](../var/list_pics_block.list_pics.MESSAGE.md#readme)__ __:__ ligne [`42`](../src/modernbb/album_cat_top10.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.STAT_CLASS}`](../var/list_pics_block.list_pics.STAT_CLASS.md#readme)__ __:__ ligne [`40`](../src/modernbb/album_cat_top10.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.U_CAT}`](../var/list_pics_block.list_pics.U_CAT.md#readme)__ __:__ ligne [`44`](../src/modernbb/album_cat_top10.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.U_PIC}`](../var/list_pics_block.list_pics.U_PIC.md#readme)__ __:__ ligne [`42`](../src/modernbb/album_cat_top10.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN recent_stats -->`](../var/list_pics_block.list_pics.recent_stats.md#readme)__ __:__ ligne [`45`](../src/modernbb/album_cat_top10.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END recent_stats -->`](../var/list_pics_block.list_pics.recent_stats.md#readme)__ __:__ ligne [`47`](../src/modernbb/album_cat_top10.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics.recent_stats.H_STATS}`](../var/list_pics_block.list_pics.recent_stats.H_STATS.md#readme)__ __:__ ligne [`46`](../src/modernbb/album_cat_top10.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN list_pics_title -->`](../var/list_pics_block.list_pics_title.md#readme)__ __:__ ligne [`16`](../src/modernbb/album_cat_top10.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END list_pics_title -->`](../var/list_pics_block.list_pics_title.md#readme)__ __:__ ligne [`18`](../src/modernbb/album_cat_top10.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics_title.L_TOP10_TITLE}`](../var/list_pics_block.list_pics_title.L_TOP10_TITLE.md#readme)__ __:__ ligne [`17`](../src/modernbb/album_cat_top10.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_pics -->`](../var/list_pics_block.no_pics.md#readme)__ __:__ ligne [`34`](../src/modernbb/album_cat_top10.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END no_pics -->`](../var/list_pics_block.no_pics.md#readme)__ __:__ ligne [`38`](../src/modernbb/album_cat_top10.tpl#L38)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`3`](../src/modernbb/album_cat_top10.tpl#L3)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`3`](../src/modernbb/album_cat_top10.tpl#L3)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/album_cat_top10.tpl#files)
@@ -242,9 +291,3 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{list_pics_block.list_pics_title.L_TOP10_TITLE}`](../var/list_pics_block.list_pics_title.L_TOP10_TITLE.md#readme)__ __:__ ligne [`13`](../src/invision/album_cat_top10.tpl#L13)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_pics -->`](../var/list_pics_block.no_pics.md#readme)__ __:__ ligne [`29`](../src/invision/album_cat_top10.tpl#L29)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END no_pics -->`](../var/list_pics_block.no_pics.md#readme)__ __:__ ligne [`33`](../src/invision/album_cat_top10.tpl#L33)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/album_cat_top10.tpl#files)
-
-### Positions des variables

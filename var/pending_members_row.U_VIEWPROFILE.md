@@ -22,6 +22,9 @@ Chemin absolu vers le profil du membre sur lequel on boucle.
 ### Version phpBB2
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`17`](../src/subsilver/groupcp_pending_info.tpl#L17)
 
+### Version ModernBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`22`](../src/modernbb/groupcp_pending_info.tpl#L22)
+
 ### Version PunBB
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`23`](../src/punbb/groupcp_pending_info.tpl#L23)
 

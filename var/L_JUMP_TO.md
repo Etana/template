@@ -30,6 +30,17 @@ Chaîne de texte.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`90`](../src/subsilver/viewforum_body.tpl#L90)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`440`](../src/subsilver/viewtopic_body.tpl#L440)
 
+### Version ModernBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`31`](../src/modernbb/faq_body.tpl#L31)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`27`](../src/modernbb/faq_dhtml.tpl#L27)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`126`](../src/modernbb/groupcp_info_body.tpl#L126)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`51`](../src/modernbb/groupcp_user_body.tpl#L51)
+* __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`2`](../src/modernbb/jumpbox.tpl#L2)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`66`](../src/modernbb/modcp_body.tpl#L66)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`395`](../src/modernbb/posting_body.tpl#L395)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`67`](../src/modernbb/viewforum_body.tpl#L67)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`350`](../src/modernbb/viewtopic_body.tpl#L350)
+
 ### Version PunBB
 * __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`2`](../src/punbb/jumpbox.tpl#L2)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`31`](../src/punbb/overall_footer_begin.tpl#L31)

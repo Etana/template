@@ -26,6 +26,12 @@
 * __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_top_post_users_week.tpl#L10)
 * __[`mod_top_posters`](../tpl/mod_top_posters.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_top_posters.tpl#L10)
 
+### Version ModernBB
+* __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme)__ __:__ lignes [`6`](../src/modernbb/mod_most_active_starters.tpl#L6)
+* __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`6`](../src/modernbb/mod_top_post_users_month.tpl#L6)
+* __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme)__ __:__ lignes [`6`](../src/modernbb/mod_top_post_users_week.tpl#L6)
+* __[`mod_top_posters`](../tpl/mod_top_posters.md#readme)__ __:__ lignes [`6`](../src/modernbb/mod_top_posters.tpl#L6)
+
 ### Version PunBB
 * __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme)__ __:__ lignes [`7`](../src/punbb/mod_most_active_starters.tpl#L7)
 * __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`7`](../src/punbb/mod_top_post_users_month.tpl#L7)

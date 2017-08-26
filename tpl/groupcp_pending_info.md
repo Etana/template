@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Groupes` > `groupcp_pending_info`
@@ -99,6 +99,34 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.U_VIEWPROFILE}`](../var/pending_members_row.U_VIEWPROFILE.md#readme)__ __:__ ligne [`17`](../src/subsilver/groupcp_pending_info.tpl#L17)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.WWW_IMG}`](../var/pending_members_row.WWW_IMG.md#readme)__ __:__ ligne [`21`](../src/subsilver/groupcp_pending_info.tpl#L21)
 
+## Template par défaut ModernBB
+
+[__Code source__](../src/modernbb/groupcp_pending_info.tpl#files)
+
+### Positions des variables
+
+* __[`{L_APPROVE_SELECTED}`](../var/L_APPROVE_SELECTED.md#readme)__ __:__ ligne [`33`](../src/modernbb/groupcp_pending_info.tpl#L33)
+* __[`{L_DENY_SELECTED}`](../var/L_DENY_SELECTED.md#readme)__ __:__ ligne [`33`](../src/modernbb/groupcp_pending_info.tpl#L33)
+* __[`{L_EMAIL}`](../var/L_EMAIL.md#readme)__ __:__ ligne [`10`](../src/modernbb/groupcp_pending_info.tpl#L10)
+* __[`{L_FROM}`](../var/L_FROM.md#readme)__ __:__ ligne [`9`](../src/modernbb/groupcp_pending_info.tpl#L9)
+* __[`{L_PENDING_MEMBERS}`](../var/L_PENDING_MEMBERS.md#readme)__ __:__ ligne [`17`](../src/modernbb/groupcp_pending_info.tpl#L17)
+* __[`{L_PM}`](../var/L_PM.md#readme)__ __:__ ligne [`6`](../src/modernbb/groupcp_pending_info.tpl#L6)
+* __[`{L_POSTS}`](../var/L_POSTS.md#readme)__ __:__ ligne [`8`](../src/modernbb/groupcp_pending_info.tpl#L8)
+* __[`{L_SELECT}`](../var/L_SELECT.md#readme)__ __:__ ligne [`12`](../src/modernbb/groupcp_pending_info.tpl#L12)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`7`](../src/modernbb/groupcp_pending_info.tpl#L7)
+* __[`{L_WEBSITE}`](../var/L_WEBSITE.md#readme)__ __:__ ligne [`11`](../src/modernbb/groupcp_pending_info.tpl#L11)
+* __[`<!-- BEGIN pending_members_row -->`](../var/pending_members_row.md#readme)__ __:__ ligne [`19`](../src/modernbb/groupcp_pending_info.tpl#L19)
+* __[`<!-- END pending_members_row -->`](../var/pending_members_row.md#readme)__ __:__ ligne [`29`](../src/modernbb/groupcp_pending_info.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.EMAIL_IMG}`](../var/pending_members_row.EMAIL_IMG.md#readme)__ __:__ ligne [`25`](../src/modernbb/groupcp_pending_info.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.FROM}`](../var/pending_members_row.FROM.md#readme)__ __:__ ligne [`24`](../src/modernbb/groupcp_pending_info.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.PM_IMG}`](../var/pending_members_row.PM_IMG.md#readme)__ __:__ ligne [`21`](../src/modernbb/groupcp_pending_info.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.POSTS}`](../var/pending_members_row.POSTS.md#readme)__ __:__ ligne [`23`](../src/modernbb/groupcp_pending_info.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.ROW_CLASS}`](../var/pending_members_row.ROW_CLASS.md#readme)__ __:__ ligne [`20`](../src/modernbb/groupcp_pending_info.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USERNAME}`](../var/pending_members_row.USERNAME.md#readme)__ __:__ ligne [`22`](../src/modernbb/groupcp_pending_info.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USER_ID}`](../var/pending_members_row.USER_ID.md#readme)__ __:__ ligne [`27`](../src/modernbb/groupcp_pending_info.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.U_VIEWPROFILE}`](../var/pending_members_row.U_VIEWPROFILE.md#readme)__ __:__ ligne [`22`](../src/modernbb/groupcp_pending_info.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.WWW_IMG}`](../var/pending_members_row.WWW_IMG.md#readme)__ __:__ ligne [`26`](../src/modernbb/groupcp_pending_info.tpl#L26)
+
 ## Template par défaut PunBB
 
 [__Code source__](../src/punbb/groupcp_pending_info.tpl#files)
@@ -152,9 +180,3 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USER_ID}`](../var/pending_members_row.USER_ID.md#readme)__ __:__ ligne [`25`](../src/invision/groupcp_pending_info.tpl#L25)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.U_VIEWPROFILE}`](../var/pending_members_row.U_VIEWPROFILE.md#readme)__ __:__ ligne [`20`](../src/invision/groupcp_pending_info.tpl#L20)
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.WWW_IMG}`](../var/pending_members_row.WWW_IMG.md#readme)__ __:__ ligne [`24`](../src/invision/groupcp_pending_info.tpl#L24)
-
-## Template par défaut Version mobile
-
-[__Code source__](../src/mobile/groupcp_pending_info.tpl#files)
-
-### Positions des variables

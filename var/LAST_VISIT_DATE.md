@@ -61,6 +61,32 @@ Texte avec la date de la dernière visite du membre.
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`5`](../src/subsilver/index_box.tpl#L5)
 
+### Version ModernBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`1`](../src/modernbb/agreement.tpl#L1)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`3`](../src/modernbb/album_cat_top10.tpl#L3)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/album_edit_body.tpl#L2)
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/album_formsearch_body.tpl#L1)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/album_modcp_body.tpl#L2)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`52`](../src/modernbb/album_moderate_body.tpl#L52)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/album_search_body.tpl#L2)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`213`](../src/modernbb/album_showpage_body.tpl#L213)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/album_upload_body.tpl#L2)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/calendar_scheduler_body.tpl#L1)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/confirm_body.tpl#L1)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/groupcp_info_body.tpl#L1)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/groupcp_user_body.tpl#L1)
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/merge_body.tpl#L1)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/merge_select_body.tpl#L2)
+* __[`message_body`](../tpl/message_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/message_body.tpl#L1)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/modcp_body.tpl#L2)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`1`](../src/modernbb/modcp_move.tpl#L1)
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`1`](../src/modernbb/modcp_split.tpl#L1)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`1`](../src/modernbb/modcp_viewip.tpl#L1)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`1`](../src/modernbb/profile_avatar_gallery.tpl#L1)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`1`](../src/modernbb/profile_send_email.tpl#L1)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/report_list_body.tpl#L1)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/report_view_body.tpl#L1)
+
 ### Version PunBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`7`](../src/punbb/agreement.tpl#L7)
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`7`](../src/punbb/album_cat_body.tpl#L7)

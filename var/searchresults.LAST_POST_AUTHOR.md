@@ -20,6 +20,9 @@ Contient le nom d'utilisateur du membre ayant posté en dernier dans le sujet.
 ### Version phpBB2
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`46`](../src/subsilver/search_results_topics.tpl#L46)
 
+### Version ModernBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`54`](../src/modernbb/search_results_topics.tpl#L54)
+
 ### Version PunBB
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`62`](../src/punbb/search_results_topics.tpl#L62)
 

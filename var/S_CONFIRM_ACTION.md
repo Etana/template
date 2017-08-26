@@ -22,6 +22,10 @@ Action du formulaire de confirmation.
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`209`](../src/subsilver/buy_credits.tpl#L209)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`12`](../src/subsilver/confirm_body.tpl#L12)
 
+### Version ModernBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`168`](../src/modernbb/buy_credits.tpl#L168)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`7`](../src/modernbb/confirm_body.tpl#L7)
+
 ### Version PunBB
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`184`](../src/punbb/buy_credits.tpl#L184)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`4`](../src/punbb/confirm_body.tpl#L4)

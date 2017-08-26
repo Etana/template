@@ -22,6 +22,9 @@ Contient le nom du forum bouclé.
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`54`](../src/subsilver/index_box.tpl#L54)
 
+### Version ModernBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`42`](../src/modernbb/index_box.tpl#L42)
+
 ### Version PunBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`29`](../src/punbb/index_box.tpl#L29)
 

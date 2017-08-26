@@ -20,6 +20,10 @@ Variable actuellement inutilisée.
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/index_body.tpl#L1)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`243`](../src/subsilver/overall_header.tpl#L243)
 
+### Version ModernBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/index_body.tpl#L1)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`254`](../src/modernbb/overall_header.tpl#L254)
+
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`1`](../src/punbb/index_body.tpl#L1)
 
