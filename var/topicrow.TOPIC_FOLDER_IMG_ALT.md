@@ -1,7 +1,7 @@
 # topicrow.TOPIC_FOLDER_IMG_ALT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topicrow -->
@@ -15,8 +15,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`94`](../src/prosilver/topics_list_box.tpl#L94)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`94`](../src/prosilver/topics_list_box.tpl#L94)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`62`](../src/mobile/topics_list_box.tpl#L62)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`62`](../src/mobile/topics_list_box.tpl#L62)
 

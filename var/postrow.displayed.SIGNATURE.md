@@ -1,7 +1,7 @@
 # postrow.displayed.SIGNATURE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`229`](../src/subsilver/viewtopic_body.tpl#L229)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`229`](../src/subsilver/viewtopic_body.tpl#L229)
 

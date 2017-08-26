@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_profile_fields.L_PROFILE_FIELDS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_informations_menu -->
@@ -17,8 +17,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`61`](../src/prosilver/profile_add_body.tpl#L61)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/profile_add_body.tpl#L61)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`50`](../src/subsilver/profile_add_body.tpl#L50)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`50`](../src/subsilver/profile_add_body.tpl#L50)
 

@@ -1,7 +1,7 @@
 # classical_row.recent_topic_row.U_TITLE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN classical_row -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`31`](../src/prosilver/mod_recent_topics.tpl#L31)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`31`](../src/prosilver/mod_recent_topics.tpl#L31)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`40`](../src/subsilver/mod_recent_topics.tpl#L40)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`40`](../src/subsilver/mod_recent_topics.tpl#L40)
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`32`](../src/punbb/mod_recent_topics.tpl#L32)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`32`](../src/punbb/mod_recent_topics.tpl#L32)
 
 ### Version Invision
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`29`](../src/invision/mod_recent_topics.tpl#L29)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`29`](../src/invision/mod_recent_topics.tpl#L29)
 

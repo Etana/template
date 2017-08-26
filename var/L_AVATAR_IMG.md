@@ -1,7 +1,7 @@
 # L_AVATAR_IMG
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_AVATAR_IMG}
@@ -13,11 +13,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`13`](../src/prosilver/profile_view_body.tpl#L13)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/profile_view_body.tpl#L13)
 
 ### Version phpBB2
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`19`](../src/subsilver/profile_view_body.tpl#L19)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`19`](../src/subsilver/profile_view_body.tpl#L19)
 
 ### Version PunBB
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`24`](../src/punbb/profile_view_body.tpl#L24)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`24`](../src/punbb/profile_view_body.tpl#L24)
 

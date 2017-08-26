@@ -1,7 +1,7 @@
 # disable_viewonline.switch_viewonline_nolink
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN disable_viewonline -->
@@ -20,14 +20,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`52`](../src/prosilver/index_body.tpl#L52)[`<->`](../src/prosilver/index_body.tpl#L52-L54)[`54`](../src/prosilver/index_body.tpl#L54)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`52`](../src/prosilver/index_body.tpl#L52)[`<->`](../src/prosilver/index_body.tpl#L52-L54)[`54`](../src/prosilver/index_body.tpl#L54)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`138`](../src/subsilver/index_body.tpl#L138)[`<->`](../src/subsilver/index_body.tpl#L138-L140)[`140`](../src/subsilver/index_body.tpl#L140)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`138`](../src/subsilver/index_body.tpl#L138)[`<->`](../src/subsilver/index_body.tpl#L138-L140)[`140`](../src/subsilver/index_body.tpl#L140)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`76`](../src/punbb/index_body.tpl#L76)[`<->`](../src/punbb/index_body.tpl#L76-L78)[`78`](../src/punbb/index_body.tpl#L78)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`76`](../src/punbb/index_body.tpl#L76)[`<->`](../src/punbb/index_body.tpl#L76-L78)[`78`](../src/punbb/index_body.tpl#L78)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`80`](../src/invision/index_body.tpl#L80)[`<->`](../src/invision/index_body.tpl#L80-L82)[`82`](../src/invision/index_body.tpl#L82)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`80`](../src/invision/index_body.tpl#L80)[`<->`](../src/invision/index_body.tpl#L80-L82)[`82`](../src/invision/index_body.tpl#L82)
 

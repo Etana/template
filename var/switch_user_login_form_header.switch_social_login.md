@@ -1,7 +1,7 @@
 # switch_user_login_form_header.switch_social_login
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_user_login_form_header -->
@@ -22,14 +22,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`16`](../src/prosilver/index_body.tpl#L16)[`<->`](../src/prosilver/index_body.tpl#L16-L22)[`22`](../src/prosilver/index_body.tpl#L22)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`16`](../src/prosilver/index_body.tpl#L16)[`<->`](../src/prosilver/index_body.tpl#L16-L22)[`22`](../src/prosilver/index_body.tpl#L22)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`43`](../src/subsilver/index_body.tpl#L43)[`<->`](../src/subsilver/index_body.tpl#L43-L54)[`54`](../src/subsilver/index_body.tpl#L54)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`43`](../src/subsilver/index_body.tpl#L43)[`<->`](../src/subsilver/index_body.tpl#L43-L54)[`54`](../src/subsilver/index_body.tpl#L54)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`44`](../src/punbb/index_body.tpl#L44)[`<->`](../src/punbb/index_body.tpl#L44-L53)[`53`](../src/punbb/index_body.tpl#L53)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`44`](../src/punbb/index_body.tpl#L44)[`<->`](../src/punbb/index_body.tpl#L44-L53)[`53`](../src/punbb/index_body.tpl#L53)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`29`](../src/invision/index_body.tpl#L29)[`<->`](../src/invision/index_body.tpl#L29-L37)[`37`](../src/invision/index_body.tpl#L37)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`29`](../src/invision/index_body.tpl#L29)[`<->`](../src/invision/index_body.tpl#L29-L37)[`37`](../src/invision/index_body.tpl#L37)
 

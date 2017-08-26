@@ -1,7 +1,7 @@
 # L_MAKE_DONATION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_MAKE_DONATION}
@@ -15,11 +15,11 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`16`](../src/prosilver/buy_credits.tpl#L16)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`16`](../src/prosilver/buy_credits.tpl#L16)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`25`](../src/subsilver/buy_credits.tpl#L25)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`25`](../src/subsilver/buy_credits.tpl#L25)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`23`](../src/invision/buy_credits.tpl#L23)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`23`](../src/invision/buy_credits.tpl#L23)
 

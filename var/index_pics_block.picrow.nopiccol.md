@@ -1,7 +1,7 @@
 # index_pics_block.picrow.nopiccol
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN index_pics_block -->
@@ -23,5 +23,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`75`](../src/subsilver/album_cat_body.tpl#L75)[`<->`](../src/subsilver/album_cat_body.tpl#L75-L77)[`77`](../src/subsilver/album_cat_body.tpl#L77)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`75`](../src/subsilver/album_cat_body.tpl#L75)[`<->`](../src/subsilver/album_cat_body.tpl#L75-L77)[`77`](../src/subsilver/album_cat_body.tpl#L77)
 

@@ -1,7 +1,7 @@
 # catrow.forumrow.USER_LAST_POST
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`69`](../src/prosilver/index_box.tpl#L69)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`69`](../src/prosilver/index_box.tpl#L69)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`60`](../src/punbb/index_box.tpl#L60)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`60`](../src/punbb/index_box.tpl#L60)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`72`](../src/invision/index_box.tpl#L72)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`72`](../src/invision/index_box.tpl#L72)
 

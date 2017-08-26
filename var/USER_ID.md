@@ -1,7 +1,7 @@
 # USER_ID
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {USER_ID}
@@ -13,11 +13,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`66`](../src/prosilver/profile_view_body.tpl#L66)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`66`](../src/prosilver/profile_view_body.tpl#L66)
 
 ### Version PunBB
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`69`](../src/punbb/profile_view_body.tpl#L69)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`69`](../src/punbb/profile_view_body.tpl#L69)
 
 ### Version Invision
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`86`](../src/invision/profile_view_body.tpl#L86)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`86`](../src/invision/profile_view_body.tpl#L86)
 

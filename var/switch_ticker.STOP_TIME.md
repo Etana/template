@@ -1,7 +1,7 @@
 # switch_ticker.STOP_TIME
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_ticker -->
@@ -15,14 +15,14 @@ Contient le temps d'arrêt des annonces défini dans `PA > Général > Messages 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`109`](../src/prosilver/overall_header.tpl#L109), [`144`](../src/prosilver/overall_header.tpl#L144)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`109`](../src/prosilver/overall_header.tpl#L109), [`144`](../src/prosilver/overall_header.tpl#L144)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`106`](../src/subsilver/overall_header.tpl#L106), [`139`](../src/subsilver/overall_header.tpl#L139)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`106`](../src/subsilver/overall_header.tpl#L106), [`139`](../src/subsilver/overall_header.tpl#L139)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`108`](../src/punbb/overall_header.tpl#L108), [`144`](../src/punbb/overall_header.tpl#L144)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`108`](../src/punbb/overall_header.tpl#L108), [`144`](../src/punbb/overall_header.tpl#L144)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`59`](../src/invision/overall_header.tpl#L59), [`157`](../src/invision/overall_header.tpl#L157)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`59`](../src/invision/overall_header.tpl#L59), [`157`](../src/invision/overall_header.tpl#L157)
 

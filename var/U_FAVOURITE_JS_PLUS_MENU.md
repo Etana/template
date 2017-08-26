@@ -1,7 +1,7 @@
 # U_FAVOURITE_JS_PLUS_MENU
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {U_FAVOURITE_JS_PLUS_MENU}
@@ -13,11 +13,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`91`](../src/prosilver/viewtopic_body.tpl#L91)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`91`](../src/prosilver/viewtopic_body.tpl#L91)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`84`](../src/subsilver/viewtopic_body.tpl#L84)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`84`](../src/subsilver/viewtopic_body.tpl#L84)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`92`](../src/invision/viewtopic_body.tpl#L92)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`92`](../src/invision/viewtopic_body.tpl#L92)
 

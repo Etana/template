@@ -1,7 +1,7 @@
 # postrow.displayed.switch_vote_active.switch_bar.switch_vote_minus
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -27,14 +27,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`154`](../src/prosilver/viewtopic_body.tpl#L154)[`<->`](../src/prosilver/viewtopic_body.tpl#L154-L156)[`156`](../src/prosilver/viewtopic_body.tpl#L156)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`154`](../src/prosilver/viewtopic_body.tpl#L154)[`<->`](../src/prosilver/viewtopic_body.tpl#L154-L156)[`156`](../src/prosilver/viewtopic_body.tpl#L156)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`169`](../src/subsilver/viewtopic_body.tpl#L169)[`<->`](../src/subsilver/viewtopic_body.tpl#L169-L171)[`171`](../src/subsilver/viewtopic_body.tpl#L171)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`169`](../src/subsilver/viewtopic_body.tpl#L169)[`<->`](../src/subsilver/viewtopic_body.tpl#L169-L171)[`171`](../src/subsilver/viewtopic_body.tpl#L171)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`171`](../src/punbb/viewtopic_body.tpl#L171)[`<->`](../src/punbb/viewtopic_body.tpl#L171-L173)[`173`](../src/punbb/viewtopic_body.tpl#L173)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`171`](../src/punbb/viewtopic_body.tpl#L171)[`<->`](../src/punbb/viewtopic_body.tpl#L171-L173)[`173`](../src/punbb/viewtopic_body.tpl#L173)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`194`](../src/invision/viewtopic_body.tpl#L194)[`<->`](../src/invision/viewtopic_body.tpl#L194-L196)[`196`](../src/invision/viewtopic_body.tpl#L196)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`194`](../src/invision/viewtopic_body.tpl#L194)[`<->`](../src/invision/viewtopic_body.tpl#L194-L196)[`196`](../src/invision/viewtopic_body.tpl#L196)
 

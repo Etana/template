@@ -1,7 +1,7 @@
 # switch_attachment_list.attachments.switch_is_not_orphan.FILENAME
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_attachment_list -->
@@ -19,14 +19,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`248`](../src/prosilver/posting_body.tpl#L248)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`248`](../src/prosilver/posting_body.tpl#L248)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`354`](../src/subsilver/posting_body.tpl#L354)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`354`](../src/subsilver/posting_body.tpl#L354)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`272`](../src/punbb/posting_body.tpl#L272)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`272`](../src/punbb/posting_body.tpl#L272)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`193`](../src/invision/posting_body.tpl#L193)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`193`](../src/invision/posting_body.tpl#L193)
 

@@ -1,7 +1,7 @@
 # POLL_MULTIPLE_CHECKED
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {POLL_MULTIPLE_CHECKED}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`54`](../src/prosilver/posting_poll_body.tpl#L54)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`54`](../src/prosilver/posting_poll_body.tpl#L54)
 
 ### Version phpBB2
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`53`](../src/subsilver/posting_poll_body.tpl#L53)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`53`](../src/subsilver/posting_poll_body.tpl#L53)
 
 ### Version PunBB
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`59`](../src/punbb/posting_poll_body.tpl#L59)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`59`](../src/punbb/posting_poll_body.tpl#L59)
 
 ### Version Invision
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`63`](../src/invision/posting_poll_body.tpl#L63)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`63`](../src/invision/posting_poll_body.tpl#L63)
 

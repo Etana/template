@@ -1,7 +1,7 @@
 # listrow.S_MARK_ID
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN listrow -->
@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`57`](../src/prosilver/privmsgs_body.tpl#L57)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`57`](../src/prosilver/privmsgs_body.tpl#L57)
 
 ### Version phpBB2
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`81`](../src/subsilver/privmsgs_body.tpl#L81)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`81`](../src/subsilver/privmsgs_body.tpl#L81)
 
 ### Version PunBB
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`66`](../src/punbb/privmsgs_body.tpl#L66)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`66`](../src/punbb/privmsgs_body.tpl#L66)
 
 ### Version Invision
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`51`](../src/invision/privmsgs_body.tpl#L51)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`51`](../src/invision/privmsgs_body.tpl#L51)
 

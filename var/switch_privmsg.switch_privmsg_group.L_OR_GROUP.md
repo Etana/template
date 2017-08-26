@@ -1,7 +1,7 @@
 # switch_privmsg.switch_privmsg_group.L_OR_GROUP
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_privmsg -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`84`](../src/prosilver/posting_body.tpl#L84)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`84`](../src/prosilver/posting_body.tpl#L84)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`124`](../src/subsilver/posting_body.tpl#L124)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`124`](../src/subsilver/posting_body.tpl#L124)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`103`](../src/punbb/posting_body.tpl#L103)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`103`](../src/punbb/posting_body.tpl#L103)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`85`](../src/invision/posting_body.tpl#L85)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`85`](../src/invision/posting_body.tpl#L85)
 

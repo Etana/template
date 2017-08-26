@@ -1,7 +1,7 @@
 # switch_delete
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`report_list_body`](../tpl/report_list_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_delete -->
@@ -18,14 +18,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`64`](../src/prosilver/report_list_body.tpl#L64)[`<->`](../src/prosilver/report_list_body.tpl#L64-L67)[`67`](../src/prosilver/report_list_body.tpl#L67)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`64`](../src/prosilver/report_list_body.tpl#L64)[`<->`](../src/prosilver/report_list_body.tpl#L64-L67)[`67`](../src/prosilver/report_list_body.tpl#L67)
 
 ### Version phpBB2
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`47`](../src/subsilver/report_list_body.tpl#L47)[`<->`](../src/subsilver/report_list_body.tpl#L47-L49)[`49`](../src/subsilver/report_list_body.tpl#L49)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`47`](../src/subsilver/report_list_body.tpl#L47)[`<->`](../src/subsilver/report_list_body.tpl#L47-L49)[`49`](../src/subsilver/report_list_body.tpl#L49)
 
 ### Version PunBB
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`78`](../src/punbb/report_list_body.tpl#L78)[`<->`](../src/punbb/report_list_body.tpl#L78-L81)[`81`](../src/punbb/report_list_body.tpl#L81)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`78`](../src/punbb/report_list_body.tpl#L78)[`<->`](../src/punbb/report_list_body.tpl#L78-L81)[`81`](../src/punbb/report_list_body.tpl#L81)
 
 ### Version Invision
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`57`](../src/invision/report_list_body.tpl#L57)[`<->`](../src/invision/report_list_body.tpl#L57-L60)[`60`](../src/invision/report_list_body.tpl#L60)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`57`](../src/invision/report_list_body.tpl#L57)[`<->`](../src/invision/report_list_body.tpl#L57-L60)[`60`](../src/invision/report_list_body.tpl#L60)
 

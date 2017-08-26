@@ -1,7 +1,7 @@
 # out_giefmod4.saut
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`portal_body`](../tpl/portal_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN out_giefmod4 -->
@@ -20,5 +20,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`52`](../src/punbb/portal_body.tpl#L52)[`<->`](../src/punbb/portal_body.tpl#L52-L54)[`54`](../src/punbb/portal_body.tpl#L54)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`52`](../src/punbb/portal_body.tpl#L52)[`<->`](../src/punbb/portal_body.tpl#L52-L54)[`54`](../src/punbb/portal_body.tpl#L54)
 

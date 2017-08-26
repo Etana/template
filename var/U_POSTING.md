@@ -1,7 +1,7 @@
 # U_POSTING
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {U_POSTING}
@@ -13,17 +13,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`2`](../src/prosilver/posting_confirm_code.tpl#L2)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`2`](../src/prosilver/posting_confirm_code.tpl#L2)
 
 ### Version phpBB2
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`2`](../src/subsilver/posting_confirm_code.tpl#L2)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`2`](../src/subsilver/posting_confirm_code.tpl#L2)
 
 ### Version PunBB
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`3`](../src/punbb/posting_confirm_code.tpl#L3)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`3`](../src/punbb/posting_confirm_code.tpl#L3)
 
 ### Version Invision
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`5`](../src/invision/posting_confirm_code.tpl#L5)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`5`](../src/invision/posting_confirm_code.tpl#L5)
 
 ### Version Version mobile
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`1`](../src/mobile/posting_confirm_code.tpl#L1)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`1`](../src/mobile/posting_confirm_code.tpl#L1)
 

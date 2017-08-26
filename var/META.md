@@ -1,7 +1,7 @@
 # META
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {META}
@@ -13,21 +13,21 @@ Contient les différentes balises META de votre forum.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`15`](../src/prosilver/overall_header.tpl#L15)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`8`](../src/prosilver/simple_header.tpl#L8)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`15`](../src/prosilver/overall_header.tpl#L15)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`8`](../src/prosilver/simple_header.tpl#L8)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`15`](../src/subsilver/overall_header.tpl#L15)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`8`](../src/subsilver/simple_header.tpl#L8)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`15`](../src/subsilver/overall_header.tpl#L15)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`8`](../src/subsilver/simple_header.tpl#L8)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`15`](../src/punbb/overall_header.tpl#L15)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`8`](../src/punbb/simple_header.tpl#L8)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`15`](../src/punbb/overall_header.tpl#L15)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`8`](../src/punbb/simple_header.tpl#L8)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`15`](../src/invision/overall_header.tpl#L15)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`8`](../src/invision/simple_header.tpl#L8)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`15`](../src/invision/overall_header.tpl#L15)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`8`](../src/invision/simple_header.tpl#L8)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`9`](../src/mobile/overall_header.tpl#L9)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`9`](../src/mobile/overall_header.tpl#L9)
 

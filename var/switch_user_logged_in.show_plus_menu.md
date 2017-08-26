@@ -1,7 +1,7 @@
 # switch_user_logged_in.show_plus_menu
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_user_logged_in -->
@@ -20,5 +20,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`4`](../src/punbb/viewforum_body.tpl#L4)[`<->`](../src/punbb/viewforum_body.tpl#L4-L15)[`15`](../src/punbb/viewforum_body.tpl#L15)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`4`](../src/punbb/viewforum_body.tpl#L4)[`<->`](../src/punbb/viewforum_body.tpl#L4-L15)[`15`](../src/punbb/viewforum_body.tpl#L15)
 

@@ -1,7 +1,7 @@
 # credit_card_method.credits_option.OPTION
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN credit_card_method -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`128`](../src/prosilver/buy_credits.tpl#L128)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`128`](../src/prosilver/buy_credits.tpl#L128)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`149`](../src/subsilver/buy_credits.tpl#L149)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`149`](../src/subsilver/buy_credits.tpl#L149)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`136`](../src/punbb/buy_credits.tpl#L136)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`136`](../src/punbb/buy_credits.tpl#L136)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`116`](../src/invision/buy_credits.tpl#L116)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`116`](../src/invision/buy_credits.tpl#L116)
 

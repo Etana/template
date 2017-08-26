@@ -1,7 +1,7 @@
 # topics_list_box.row.NEWEST_POST_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`98`](../src/prosilver/topics_list_box.tpl#L98)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`98`](../src/prosilver/topics_list_box.tpl#L98)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`56`](../src/subsilver/topics_list_box.tpl#L56)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`56`](../src/subsilver/topics_list_box.tpl#L56)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`81`](../src/punbb/topics_list_box.tpl#L81)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`81`](../src/punbb/topics_list_box.tpl#L81)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`119`](../src/invision/topics_list_box.tpl#L119)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`119`](../src/invision/topics_list_box.tpl#L119)
 

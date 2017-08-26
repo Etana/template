@@ -1,7 +1,7 @@
 # memberrow.EMAIL_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN memberrow -->
@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`77`](../src/invision/memberlist_body.tpl#L77)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`77`](../src/invision/memberlist_body.tpl#L77)
 

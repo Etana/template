@@ -1,7 +1,7 @@
 # switch_review_box
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_review_box -->
@@ -18,14 +18,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`72`](../src/prosilver/privmsgs_read_body.tpl#L72)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L72-L74)[`74`](../src/prosilver/privmsgs_read_body.tpl#L74)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`72`](../src/prosilver/privmsgs_read_body.tpl#L72)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L72-L74)[`74`](../src/prosilver/privmsgs_read_body.tpl#L74)
 
 ### Version phpBB2
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`101`](../src/subsilver/privmsgs_read_body.tpl#L101)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L101-L105)[`105`](../src/subsilver/privmsgs_read_body.tpl#L105)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`101`](../src/subsilver/privmsgs_read_body.tpl#L101)[`<->`](../src/subsilver/privmsgs_read_body.tpl#L101-L105)[`105`](../src/subsilver/privmsgs_read_body.tpl#L105)
 
 ### Version PunBB
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`104`](../src/punbb/privmsgs_read_body.tpl#L104)[`<->`](../src/punbb/privmsgs_read_body.tpl#L104-L106)[`106`](../src/punbb/privmsgs_read_body.tpl#L106)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`104`](../src/punbb/privmsgs_read_body.tpl#L104)[`<->`](../src/punbb/privmsgs_read_body.tpl#L104-L106)[`106`](../src/punbb/privmsgs_read_body.tpl#L106)
 
 ### Version Invision
-* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`98`](../src/invision/privmsgs_read_body.tpl#L98)[`<->`](../src/invision/privmsgs_read_body.tpl#L98-L100)[`100`](../src/invision/privmsgs_read_body.tpl#L100)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`98`](../src/invision/privmsgs_read_body.tpl#L98)[`<->`](../src/invision/privmsgs_read_body.tpl#L98-L100)[`100`](../src/invision/privmsgs_read_body.tpl#L100)
 

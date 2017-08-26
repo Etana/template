@@ -1,7 +1,7 @@
 # moderation_panel.U_YOUR_PERSONAL_MODERATE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_index_body`](../tpl/album_index_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN moderation_panel -->
@@ -15,6 +15,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`118`](../src/subsilver/album_index_body.tpl#L118)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`444`](../src/subsilver/viewtopic_body.tpl#L444)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`118`](../src/subsilver/album_index_body.tpl#L118)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`444`](../src/subsilver/viewtopic_body.tpl#L444)
 

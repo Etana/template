@@ -1,7 +1,7 @@
 # L_BY_PHONECALL
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_BY_PHONECALL}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`43`](../src/prosilver/buy_credits.tpl#L43)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`43`](../src/prosilver/buy_credits.tpl#L43)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`59`](../src/subsilver/buy_credits.tpl#L59)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`59`](../src/subsilver/buy_credits.tpl#L59)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`65`](../src/punbb/buy_credits.tpl#L65)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`65`](../src/punbb/buy_credits.tpl#L65)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`51`](../src/invision/buy_credits.tpl#L51)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`51`](../src/invision/buy_credits.tpl#L51)
 

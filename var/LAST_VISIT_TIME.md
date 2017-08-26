@@ -1,7 +1,7 @@
 # LAST_VISIT_TIME
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {LAST_VISIT_TIME}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`75`](../src/prosilver/profile_view_body.tpl#L75)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`75`](../src/prosilver/profile_view_body.tpl#L75)
 
 ### Version phpBB2
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`50`](../src/subsilver/profile_view_body.tpl#L50)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`50`](../src/subsilver/profile_view_body.tpl#L50)
 
 ### Version PunBB
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`83`](../src/punbb/profile_view_body.tpl#L83)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`83`](../src/punbb/profile_view_body.tpl#L83)
 
 ### Version Invision
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`102`](../src/invision/profile_view_body.tpl#L102)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`102`](../src/invision/profile_view_body.tpl#L102)
 

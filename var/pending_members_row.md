@@ -1,7 +1,7 @@
 # pending_members_row
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN pending_members_row -->
@@ -30,21 +30,21 @@ Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`19`](../src/prosilver/groupcp_pending_info.tpl#L19)[`<->`](../src/prosilver/groupcp_pending_info.tpl#L19-L29)[`29`](../src/prosilver/groupcp_pending_info.tpl#L29)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`19`](../src/prosilver/groupcp_pending_info.tpl#L19)[`<->`](../src/prosilver/groupcp_pending_info.tpl#L19-L29)[`29`](../src/prosilver/groupcp_pending_info.tpl#L29)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`14`](../src/subsilver/groupcp_pending_info.tpl#L14)[`<->`](../src/subsilver/groupcp_pending_info.tpl#L14-L24)[`24`](../src/subsilver/groupcp_pending_info.tpl#L24)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`14`](../src/subsilver/groupcp_pending_info.tpl#L14)[`<->`](../src/subsilver/groupcp_pending_info.tpl#L14-L24)[`24`](../src/subsilver/groupcp_pending_info.tpl#L24)
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`20`](../src/punbb/groupcp_pending_info.tpl#L20)[`<->`](../src/punbb/groupcp_pending_info.tpl#L20-L30)[`30`](../src/punbb/groupcp_pending_info.tpl#L30)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`20`](../src/punbb/groupcp_pending_info.tpl#L20)[`<->`](../src/punbb/groupcp_pending_info.tpl#L20-L30)[`30`](../src/punbb/groupcp_pending_info.tpl#L30)
 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`17`](../src/invision/groupcp_pending_info.tpl#L17)[`<->`](../src/invision/groupcp_pending_info.tpl#L17-L27)[`27`](../src/invision/groupcp_pending_info.tpl#L27)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`17`](../src/invision/groupcp_pending_info.tpl#L17)[`<->`](../src/invision/groupcp_pending_info.tpl#L17-L27)[`27`](../src/invision/groupcp_pending_info.tpl#L27)
 
 ### Version Version mobile
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
 

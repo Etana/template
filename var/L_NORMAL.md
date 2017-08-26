@@ -1,7 +1,7 @@
 # L_NORMAL
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`modcp_body`](../tpl/modcp_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`modcp_body`](../tpl/modcp_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_NORMAL}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`53`](../src/prosilver/modcp_body.tpl#L53)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`53`](../src/prosilver/modcp_body.tpl#L53)
 
 ### Version phpBB2
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`41`](../src/subsilver/modcp_body.tpl#L41)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`41`](../src/subsilver/modcp_body.tpl#L41)
 
 ### Version PunBB
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`70`](../src/punbb/modcp_body.tpl#L70)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`70`](../src/punbb/modcp_body.tpl#L70)
 
 ### Version Invision
-* __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`49`](../src/invision/modcp_body.tpl#L49)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`49`](../src/invision/modcp_body.tpl#L49)
 

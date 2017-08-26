@@ -1,7 +1,7 @@
 # pic_backup_link.L_BACKUP_FOLDER_LINK_NEW
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_index_body`](../tpl/album_index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN pic_backup_link -->
@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`94`](../src/invision/album_index_body.tpl#L94), [`95`](../src/invision/album_index_body.tpl#L95)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`94`](../src/invision/album_index_body.tpl#L94), [`95`](../src/invision/album_index_body.tpl#L95)
 

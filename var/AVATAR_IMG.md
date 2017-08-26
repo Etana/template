@@ -1,7 +1,7 @@
 # AVATAR_IMG
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {AVATAR_IMG}
@@ -13,14 +13,14 @@ Affiche l'avatar du posteur dans un lien vers le profil s'il s'agit d'un membre 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`13`](../src/prosilver/profile_view_body.tpl#L13)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/profile_view_body.tpl#L13)
 
 ### Version phpBB2
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`20`](../src/subsilver/profile_view_body.tpl#L20)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`20`](../src/subsilver/profile_view_body.tpl#L20)
 
 ### Version PunBB
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`24`](../src/punbb/profile_view_body.tpl#L24)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`24`](../src/punbb/profile_view_body.tpl#L24)
 
 ### Version Invision
-* __[`profile_view_body`](../tpl/profile_view_body.md#readme) :__ lignes [`17`](../src/invision/profile_view_body.tpl#L17)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`17`](../src/invision/profile_view_body.tpl#L17)
 

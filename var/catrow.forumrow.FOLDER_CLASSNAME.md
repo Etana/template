@@ -1,7 +1,7 @@
 # catrow.forumrow.FOLDER_CLASSNAME
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`9`](../src/mobile/index_box.tpl#L9)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`9`](../src/mobile/index_box.tpl#L9)
 

@@ -1,7 +1,7 @@
 # CALENDAR_DURATION_DAY
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {CALENDAR_DURATION_DAY}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`383`](../src/prosilver/posting_body.tpl#L383)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`383`](../src/prosilver/posting_body.tpl#L383)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`577`](../src/subsilver/posting_body.tpl#L577)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`577`](../src/subsilver/posting_body.tpl#L577)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`405`](../src/punbb/posting_body.tpl#L405)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`405`](../src/punbb/posting_body.tpl#L405)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`321`](../src/invision/posting_body.tpl#L321)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`321`](../src/invision/posting_body.tpl#L321)
 

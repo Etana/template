@@ -1,7 +1,7 @@
 # post_row.switch_attachments.switch_post_attachments.U_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN post_row -->
@@ -19,14 +19,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`22`](../src/prosilver/mod_news.tpl#L22)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`22`](../src/prosilver/mod_news.tpl#L22)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`28`](../src/subsilver/mod_news.tpl#L28)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`28`](../src/subsilver/mod_news.tpl#L28)
 
 ### Version PunBB
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`21`](../src/punbb/mod_news.tpl#L21)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`21`](../src/punbb/mod_news.tpl#L21)
 
 ### Version Invision
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`20`](../src/invision/mod_news.tpl#L20)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`20`](../src/invision/mod_news.tpl#L20)
 

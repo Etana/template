@@ -1,7 +1,7 @@
 # switch_subject.switch_subject_color.TOPIC_TITLE_COLOR_DEFAULT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_subject -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`121`](../src/prosilver/posting_body.tpl#L121)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`121`](../src/prosilver/posting_body.tpl#L121)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`155`](../src/subsilver/posting_body.tpl#L155)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`155`](../src/subsilver/posting_body.tpl#L155)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`145`](../src/punbb/posting_body.tpl#L145)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`145`](../src/punbb/posting_body.tpl#L145)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`110`](../src/invision/posting_body.tpl#L110)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`110`](../src/invision/posting_body.tpl#L110)
 

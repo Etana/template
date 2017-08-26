@@ -1,7 +1,7 @@
 # not_table_row
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`standard`](../tpl/standard.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`standard`](../tpl/standard.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN not_table_row -->
@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`8`](../src/subsilver/standard.tpl#L8)[`<->`](../src/subsilver/standard.tpl#L8-L10)[`10`](../src/subsilver/standard.tpl#L10)
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`8`](../src/subsilver/standard.tpl#L8)[`<->`](../src/subsilver/standard.tpl#L8-L10)[`10`](../src/subsilver/standard.tpl#L10)
 

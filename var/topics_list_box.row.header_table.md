@@ -1,7 +1,7 @@
 # topics_list_box.row.header_table
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -27,17 +27,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/prosilver/topics_list_box.tpl#L3)[`<->`](../src/prosilver/topics_list_box.tpl#L3-L58)[`58`](../src/prosilver/topics_list_box.tpl#L58)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`3`](../src/prosilver/topics_list_box.tpl#L3)[`<->`](../src/prosilver/topics_list_box.tpl#L3-L58)[`58`](../src/prosilver/topics_list_box.tpl#L58)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/subsilver/topics_list_box.tpl#L1)[`<->`](../src/subsilver/topics_list_box.tpl#L1-L38)[`38`](../src/subsilver/topics_list_box.tpl#L38)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/subsilver/topics_list_box.tpl#L1)[`<->`](../src/subsilver/topics_list_box.tpl#L1-L38)[`38`](../src/subsilver/topics_list_box.tpl#L38)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/punbb/topics_list_box.tpl#L3)[`<->`](../src/punbb/topics_list_box.tpl#L3-L42)[`42`](../src/punbb/topics_list_box.tpl#L42)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`3`](../src/punbb/topics_list_box.tpl#L3)[`<->`](../src/punbb/topics_list_box.tpl#L3-L42)[`42`](../src/punbb/topics_list_box.tpl#L42)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/invision/topics_list_box.tpl#L3)[`<->`](../src/invision/topics_list_box.tpl#L3-L73)[`73`](../src/invision/topics_list_box.tpl#L73)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`3`](../src/invision/topics_list_box.tpl#L3)[`<->`](../src/invision/topics_list_box.tpl#L3-L73)[`73`](../src/invision/topics_list_box.tpl#L73)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`3`](../src/mobile/topics_list_box.tpl#L3)[`<->`](../src/mobile/topics_list_box.tpl#L3-L45)[`45`](../src/mobile/topics_list_box.tpl#L45)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`3`](../src/mobile/topics_list_box.tpl#L3)[`<->`](../src/mobile/topics_list_box.tpl#L3-L45)[`45`](../src/mobile/topics_list_box.tpl#L45)
 

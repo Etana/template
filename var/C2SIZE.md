@@ -1,7 +1,7 @@
 # C2SIZE
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`portal_body`](../tpl/portal_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {C2SIZE}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`19`](../src/prosilver/portal_body.tpl#L19)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`19`](../src/prosilver/portal_body.tpl#L19)
 
 ### Version phpBB2
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/subsilver/portal_body.tpl#L21)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`21`](../src/subsilver/portal_body.tpl#L21)
 
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`11`](../src/punbb/portal_body.tpl#L11), [`25`](../src/punbb/portal_body.tpl#L25), [`39`](../src/punbb/portal_body.tpl#L39)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`11`](../src/punbb/portal_body.tpl#L11), [`25`](../src/punbb/portal_body.tpl#L25), [`39`](../src/punbb/portal_body.tpl#L39)
 
 ### Version Invision
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`19`](../src/invision/portal_body.tpl#L19)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`19`](../src/invision/portal_body.tpl#L19)
 

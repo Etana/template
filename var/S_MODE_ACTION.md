@@ -1,7 +1,7 @@
 # S_MODE_ACTION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {S_MODE_ACTION}
@@ -15,14 +15,14 @@ Action du formulaire de recherche.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`8`](../src/prosilver/memberlist_body.tpl#L8)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`8`](../src/prosilver/memberlist_body.tpl#L8)
 
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`1`](../src/subsilver/memberlist_body.tpl#L1)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/memberlist_body.tpl#L1)
 
 ### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`36`](../src/punbb/memberlist_body.tpl#L36)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`36`](../src/punbb/memberlist_body.tpl#L36)
 
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`15`](../src/invision/memberlist_body.tpl#L15)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`15`](../src/invision/memberlist_body.tpl#L15)
 

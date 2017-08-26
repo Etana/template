@@ -1,7 +1,7 @@
 # switch_search_results
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`album_search_body`](../tpl/album_search_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`album_search_body`](../tpl/album_search_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_search_results -->
@@ -30,11 +30,11 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`5`](../src/prosilver/album_search_body.tpl#L5)[`<->`](../src/prosilver/album_search_body.tpl#L5-L48)[`48`](../src/prosilver/album_search_body.tpl#L48)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`5`](../src/prosilver/album_search_body.tpl#L5)[`<->`](../src/prosilver/album_search_body.tpl#L5-L48)[`48`](../src/prosilver/album_search_body.tpl#L48)
 
 ### Version phpBB2
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`3`](../src/subsilver/album_search_body.tpl#L3)[`<->`](../src/subsilver/album_search_body.tpl#L3-L56)[`56`](../src/subsilver/album_search_body.tpl#L56)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`3`](../src/subsilver/album_search_body.tpl#L3)[`<->`](../src/subsilver/album_search_body.tpl#L3-L56)[`56`](../src/subsilver/album_search_body.tpl#L56)
 
 ### Version PunBB
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`19`](../src/punbb/album_search_body.tpl#L19)[`<->`](../src/punbb/album_search_body.tpl#L19-L58)[`58`](../src/punbb/album_search_body.tpl#L58)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`19`](../src/punbb/album_search_body.tpl#L19)[`<->`](../src/punbb/album_search_body.tpl#L19-L58)[`58`](../src/punbb/album_search_body.tpl#L58)
 

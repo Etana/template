@@ -1,7 +1,7 @@
 # row.ROW_CLASS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`report_list_body`](../tpl/report_list_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN row -->
@@ -15,8 +15,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`38`](../src/prosilver/report_list_body.tpl#L38)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`38`](../src/prosilver/report_list_body.tpl#L38)
 
 ### Version phpBB2
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`25`](../src/subsilver/report_list_body.tpl#L25), [`26`](../src/subsilver/report_list_body.tpl#L26), [`27`](../src/subsilver/report_list_body.tpl#L27), [`28`](../src/subsilver/report_list_body.tpl#L28), [`30`](../src/subsilver/report_list_body.tpl#L30), [`31`](../src/subsilver/report_list_body.tpl#L31)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`25`](../src/subsilver/report_list_body.tpl#L25), [`26`](../src/subsilver/report_list_body.tpl#L26), [`27`](../src/subsilver/report_list_body.tpl#L27), [`28`](../src/subsilver/report_list_body.tpl#L28), [`30`](../src/subsilver/report_list_body.tpl#L30), [`31`](../src/subsilver/report_list_body.tpl#L31)
 

@@ -1,7 +1,7 @@
 # switch_display_menus
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_display_menus -->
@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`590`](../src/subsilver/posting_body.tpl#L590)[`<->`](../src/subsilver/posting_body.tpl#L590-L599)[`599`](../src/subsilver/posting_body.tpl#L599)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`590`](../src/subsilver/posting_body.tpl#L590)[`<->`](../src/subsilver/posting_body.tpl#L590-L599)[`599`](../src/subsilver/posting_body.tpl#L599)
 

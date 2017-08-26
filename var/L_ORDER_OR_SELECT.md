@@ -1,7 +1,7 @@
 # L_ORDER_OR_SELECT
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_ORDER_OR_SELECT}
@@ -15,14 +15,14 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`11`](../src/prosilver/memberlist_body.tpl#L11)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`11`](../src/prosilver/memberlist_body.tpl#L11)
 
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`4`](../src/subsilver/memberlist_body.tpl#L4)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`4`](../src/subsilver/memberlist_body.tpl#L4)
 
 ### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`32`](../src/punbb/memberlist_body.tpl#L32)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`32`](../src/punbb/memberlist_body.tpl#L32)
 
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`18`](../src/invision/memberlist_body.tpl#L18)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`18`](../src/invision/memberlist_body.tpl#L18)
 

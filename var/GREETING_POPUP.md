@@ -1,7 +1,7 @@
 # GREETING_POPUP
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {GREETING_POPUP}
@@ -13,14 +13,14 @@ Contient le template [`greeting_popup`](../tpl/greeting_popup.md#readme) ou [`gr
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`169`](../src/prosilver/overall_header.tpl#L169)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`169`](../src/prosilver/overall_header.tpl#L169)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`164`](../src/subsilver/overall_header.tpl#L164)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`164`](../src/subsilver/overall_header.tpl#L164)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`169`](../src/punbb/overall_header.tpl#L169)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`169`](../src/punbb/overall_header.tpl#L169)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`84`](../src/invision/overall_header.tpl#L84)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`84`](../src/invision/overall_header.tpl#L84)
 

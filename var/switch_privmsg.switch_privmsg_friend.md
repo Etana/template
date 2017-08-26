@@ -1,7 +1,7 @@
 # switch_privmsg.switch_privmsg_friend
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_privmsg -->
@@ -22,14 +22,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`76`](../src/prosilver/posting_body.tpl#L76)[`<->`](../src/prosilver/posting_body.tpl#L76-L81)[`81`](../src/prosilver/posting_body.tpl#L81)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`76`](../src/prosilver/posting_body.tpl#L76)[`<->`](../src/prosilver/posting_body.tpl#L76-L81)[`81`](../src/prosilver/posting_body.tpl#L81)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`116`](../src/subsilver/posting_body.tpl#L116)[`<->`](../src/subsilver/posting_body.tpl#L116-L121)[`121`](../src/subsilver/posting_body.tpl#L121)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`116`](../src/subsilver/posting_body.tpl#L116)[`<->`](../src/subsilver/posting_body.tpl#L116-L121)[`121`](../src/subsilver/posting_body.tpl#L121)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`95`](../src/punbb/posting_body.tpl#L95)[`<->`](../src/punbb/posting_body.tpl#L95-L100)[`100`](../src/punbb/posting_body.tpl#L100)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`95`](../src/punbb/posting_body.tpl#L95)[`<->`](../src/punbb/posting_body.tpl#L95-L100)[`100`](../src/punbb/posting_body.tpl#L100)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`74`](../src/invision/posting_body.tpl#L74)[`<->`](../src/invision/posting_body.tpl#L74-L81)[`81`](../src/invision/posting_body.tpl#L81)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`74`](../src/invision/posting_body.tpl#L74)[`<->`](../src/invision/posting_body.tpl#L74-L81)[`81`](../src/invision/posting_body.tpl#L81)
 

@@ -1,7 +1,7 @@
 # FORUM_IMG
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {FORUM_IMG}
@@ -13,14 +13,14 @@ Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion d
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`135`](../src/prosilver/index_body.tpl#L135)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`135`](../src/prosilver/index_body.tpl#L135)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`187`](../src/subsilver/index_body.tpl#L187)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`187`](../src/subsilver/index_body.tpl#L187)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`140`](../src/punbb/index_body.tpl#L140)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`140`](../src/punbb/index_body.tpl#L140)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`168`](../src/invision/index_body.tpl#L168)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`168`](../src/invision/index_body.tpl#L168)
 

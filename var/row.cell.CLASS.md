@@ -1,7 +1,7 @@
 # row.cell.CLASS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN row -->
@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`41`](../src/subsilver/calendar_scheduler_body.tpl#L41)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`41`](../src/subsilver/calendar_scheduler_body.tpl#L41)
 

@@ -1,7 +1,7 @@
 # memberrow.switch_user_email
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN memberrow -->
@@ -20,5 +20,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`76`](../src/invision/memberlist_body.tpl#L76)[`<->`](../src/invision/memberlist_body.tpl#L76-L78)[`78`](../src/invision/memberlist_body.tpl#L78)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`76`](../src/invision/memberlist_body.tpl#L76)[`<->`](../src/invision/memberlist_body.tpl#L76-L78)[`78`](../src/invision/memberlist_body.tpl#L78)
 

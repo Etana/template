@@ -1,7 +1,7 @@
 # list_pics_block.list_pics.H_POSTER
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_cat_top10`](../tpl/album_cat_top10.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_cat_top10`](../tpl/album_cat_top10.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN list_pics_block -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`43`](../src/prosilver/album_cat_top10.tpl#L43)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`43`](../src/prosilver/album_cat_top10.tpl#L43)
 
 ### Version phpBB2
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`38`](../src/subsilver/album_cat_top10.tpl#L38)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`38`](../src/subsilver/album_cat_top10.tpl#L38)
 
 ### Version PunBB
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`51`](../src/punbb/album_cat_top10.tpl#L51)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`51`](../src/punbb/album_cat_top10.tpl#L51)
 
 ### Version Invision
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`38`](../src/invision/album_cat_top10.tpl#L38)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`38`](../src/invision/album_cat_top10.tpl#L38)
 

@@ -1,7 +1,7 @@
 # switch_manual_thumbnail
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`album_upload_body`](../tpl/album_upload_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`album_upload_body`](../tpl/album_upload_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_manual_thumbnail -->
@@ -20,14 +20,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`244`](../src/prosilver/album_upload_body.tpl#L244)[`<->`](../src/prosilver/album_upload_body.tpl#L244-L259)[`259`](../src/prosilver/album_upload_body.tpl#L259)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`244`](../src/prosilver/album_upload_body.tpl#L244)[`<->`](../src/prosilver/album_upload_body.tpl#L244-L259)[`259`](../src/prosilver/album_upload_body.tpl#L259)
 
 ### Version phpBB2
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`268`](../src/subsilver/album_upload_body.tpl#L268)[`<->`](../src/subsilver/album_upload_body.tpl#L268-L284)[`284`](../src/subsilver/album_upload_body.tpl#L284)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`268`](../src/subsilver/album_upload_body.tpl#L268)[`<->`](../src/subsilver/album_upload_body.tpl#L268-L284)[`284`](../src/subsilver/album_upload_body.tpl#L284)
 
 ### Version PunBB
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`251`](../src/punbb/album_upload_body.tpl#L251)[`<->`](../src/punbb/album_upload_body.tpl#L251-L266)[`266`](../src/punbb/album_upload_body.tpl#L266)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`251`](../src/punbb/album_upload_body.tpl#L251)[`<->`](../src/punbb/album_upload_body.tpl#L251-L266)[`266`](../src/punbb/album_upload_body.tpl#L266)
 
 ### Version Invision
-* __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`242`](../src/invision/album_upload_body.tpl#L242)[`<->`](../src/invision/album_upload_body.tpl#L242-L257)[`257`](../src/invision/album_upload_body.tpl#L257)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`242`](../src/invision/album_upload_body.tpl#L242)[`<->`](../src/invision/album_upload_body.tpl#L242-L257)[`257`](../src/invision/album_upload_body.tpl#L257)
 

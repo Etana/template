@@ -1,7 +1,7 @@
 # display_infos.rate_switch.norate_row.L_PIC_LOCKED
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN display_infos -->
@@ -19,5 +19,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`343`](../src/subsilver/album_showpage_body.tpl#L343)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`343`](../src/subsilver/album_showpage_body.tpl#L343)
 

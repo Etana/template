@@ -1,7 +1,7 @@
 # switch_button_tooltip_TWITTER.LANG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_button_tooltip_TWITTER -->
@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme) :__ lignes [`106`](../src/prosilver/mentions_tooltip.tpl#L106), [`107`](../src/prosilver/mentions_tooltip.tpl#L107)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`106`](../src/prosilver/mentions_tooltip.tpl#L106), [`107`](../src/prosilver/mentions_tooltip.tpl#L107)
 
 ### Version phpBB2
-* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme) :__ lignes [`106`](../src/subsilver/mentions_tooltip.tpl#L106), [`107`](../src/subsilver/mentions_tooltip.tpl#L107)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`106`](../src/subsilver/mentions_tooltip.tpl#L106), [`107`](../src/subsilver/mentions_tooltip.tpl#L107)
 
 ### Version PunBB
-* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme) :__ lignes [`106`](../src/punbb/mentions_tooltip.tpl#L106), [`107`](../src/punbb/mentions_tooltip.tpl#L107)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`106`](../src/punbb/mentions_tooltip.tpl#L106), [`107`](../src/punbb/mentions_tooltip.tpl#L107)
 
 ### Version Invision
-* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme) :__ lignes [`106`](../src/invision/mentions_tooltip.tpl#L106), [`107`](../src/invision/mentions_tooltip.tpl#L107)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`106`](../src/invision/mentions_tooltip.tpl#L106), [`107`](../src/invision/mentions_tooltip.tpl#L107)
 

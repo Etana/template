@@ -1,7 +1,7 @@
 # L_NO_MEMBERS
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_NO_MEMBERS}
@@ -13,14 +13,14 @@ Texte `Ce groupe n'a pas de membres` si le groupe n'a pas de membre autre que le
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`89`](../src/prosilver/groupcp_info_body.tpl#L89)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`89`](../src/prosilver/groupcp_info_body.tpl#L89)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`77`](../src/subsilver/groupcp_info_body.tpl#L77)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`77`](../src/subsilver/groupcp_info_body.tpl#L77)
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`117`](../src/punbb/groupcp_info_body.tpl#L117)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`117`](../src/punbb/groupcp_info_body.tpl#L117)
 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`93`](../src/invision/groupcp_info_body.tpl#L93)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`93`](../src/invision/groupcp_info_body.tpl#L93)
 

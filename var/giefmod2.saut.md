@@ -1,7 +1,7 @@
 # giefmod2.saut
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`portal_body`](../tpl/portal_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN giefmod2 -->
@@ -20,14 +20,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`23`](../src/prosilver/portal_body.tpl#L23)[`<->`](../src/prosilver/portal_body.tpl#L23-L25)[`25`](../src/prosilver/portal_body.tpl#L25)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`23`](../src/prosilver/portal_body.tpl#L23)[`<->`](../src/prosilver/portal_body.tpl#L23-L25)[`25`](../src/prosilver/portal_body.tpl#L25)
 
 ### Version phpBB2
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`21`](../src/subsilver/portal_body.tpl#L21)[`<->`](../src/subsilver/portal_body.tpl#L21-L27)[`27`](../src/subsilver/portal_body.tpl#L27)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`21`](../src/subsilver/portal_body.tpl#L21)[`<->`](../src/subsilver/portal_body.tpl#L21-L27)[`27`](../src/subsilver/portal_body.tpl#L27)
 
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`28`](../src/punbb/portal_body.tpl#L28)[`<->`](../src/punbb/portal_body.tpl#L28-L30)[`30`](../src/punbb/portal_body.tpl#L30)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`28`](../src/punbb/portal_body.tpl#L28)[`<->`](../src/punbb/portal_body.tpl#L28-L30)[`30`](../src/punbb/portal_body.tpl#L30)
 
 ### Version Invision
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`23`](../src/invision/portal_body.tpl#L23)[`<->`](../src/invision/portal_body.tpl#L23-L25)[`25`](../src/invision/portal_body.tpl#L25)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`23`](../src/invision/portal_body.tpl#L23)[`<->`](../src/invision/portal_body.tpl#L23-L25)[`25`](../src/invision/portal_body.tpl#L25)
 

@@ -1,7 +1,7 @@
 # U_WATCHSEARCH_JS_PLUS_MENU
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {U_WATCHSEARCH_JS_PLUS_MENU}
@@ -13,17 +13,17 @@ Lien vers "Sujets surveillés" dans le menu Plus !
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`16`](../src/prosilver/viewforum_body.tpl#L16)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`95`](../src/prosilver/viewtopic_body.tpl#L95)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`16`](../src/prosilver/viewforum_body.tpl#L16)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`95`](../src/prosilver/viewtopic_body.tpl#L95)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`21`](../src/subsilver/viewforum_body.tpl#L21)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`88`](../src/subsilver/viewtopic_body.tpl#L88)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`21`](../src/subsilver/viewforum_body.tpl#L21)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`88`](../src/subsilver/viewtopic_body.tpl#L88)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`10`](../src/punbb/viewforum_body.tpl#L10)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`50`](../src/punbb/viewtopic_body.tpl#L50)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`10`](../src/punbb/viewforum_body.tpl#L10)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`50`](../src/punbb/viewtopic_body.tpl#L50)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`96`](../src/invision/viewtopic_body.tpl#L96)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`96`](../src/invision/viewtopic_body.tpl#L96)
 

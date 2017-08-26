@@ -1,7 +1,7 @@
 # ERRORS_FOUND
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`error_body`](../tpl/error_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`error_body`](../tpl/error_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {ERRORS_FOUND}
@@ -15,6 +15,6 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`error_body`](../tpl/error_body.md#readme) :__ lignes [`3`](../src/invision/error_body.tpl#L3)
-* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`9`](../src/invision/profile_edit_signature.tpl#L9)
+* __[`error_body`](../tpl/error_body.md#readme)__ __:__ lignes [`3`](../src/invision/error_body.tpl#L3)
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`9`](../src/invision/profile_edit_signature.tpl#L9)
 

@@ -1,7 +1,7 @@
 # L_SELECT_SUM
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_SELECT_SUM}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`122`](../src/prosilver/buy_credits.tpl#L122)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`122`](../src/prosilver/buy_credits.tpl#L122)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`144`](../src/subsilver/buy_credits.tpl#L144)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`144`](../src/subsilver/buy_credits.tpl#L144)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`131`](../src/punbb/buy_credits.tpl#L131)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`131`](../src/punbb/buy_credits.tpl#L131)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`112`](../src/invision/buy_credits.tpl#L112)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`112`](../src/invision/buy_credits.tpl#L112)
 

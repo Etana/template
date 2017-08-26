@@ -1,7 +1,7 @@
 # GROUP_PENDING_SELECT
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {GROUP_PENDING_SELECT}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme) :__ lignes [`16`](../src/subsilver/groupcp_user_body.tpl#L16)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`16`](../src/subsilver/groupcp_user_body.tpl#L16)
 

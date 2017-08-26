@@ -1,7 +1,7 @@
 # PREVIEW
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {PREVIEW}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`82`](../src/subsilver/modcp_viewip.tpl#L82)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`82`](../src/subsilver/modcp_viewip.tpl#L82)
 

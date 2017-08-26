@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_report.NO_REPORT_POPUP_NO
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_preferences_menu -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`274`](../src/prosilver/profile_add_body.tpl#L274)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`274`](../src/prosilver/profile_add_body.tpl#L274)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`243`](../src/subsilver/profile_add_body.tpl#L243)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`243`](../src/subsilver/profile_add_body.tpl#L243)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`285`](../src/punbb/profile_add_body.tpl#L285)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`285`](../src/punbb/profile_add_body.tpl#L285)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`334`](../src/invision/profile_add_body.tpl#L334)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`334`](../src/invision/profile_add_body.tpl#L334)
 

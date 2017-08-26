@@ -1,7 +1,7 @@
 # switch_button_tooltip_PROFILE
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_button_tooltip_PROFILE -->
@@ -21,14 +21,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme) :__ lignes [`69`](../src/prosilver/mentions_tooltip.tpl#L69)[`<->`](../src/prosilver/mentions_tooltip.tpl#L69-L75)[`75`](../src/prosilver/mentions_tooltip.tpl#L75)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`69`](../src/prosilver/mentions_tooltip.tpl#L69)[`<->`](../src/prosilver/mentions_tooltip.tpl#L69-L75)[`75`](../src/prosilver/mentions_tooltip.tpl#L75)
 
 ### Version phpBB2
-* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme) :__ lignes [`69`](../src/subsilver/mentions_tooltip.tpl#L69)[`<->`](../src/subsilver/mentions_tooltip.tpl#L69-L75)[`75`](../src/subsilver/mentions_tooltip.tpl#L75)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`69`](../src/subsilver/mentions_tooltip.tpl#L69)[`<->`](../src/subsilver/mentions_tooltip.tpl#L69-L75)[`75`](../src/subsilver/mentions_tooltip.tpl#L75)
 
 ### Version PunBB
-* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme) :__ lignes [`69`](../src/punbb/mentions_tooltip.tpl#L69)[`<->`](../src/punbb/mentions_tooltip.tpl#L69-L75)[`75`](../src/punbb/mentions_tooltip.tpl#L75)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`69`](../src/punbb/mentions_tooltip.tpl#L69)[`<->`](../src/punbb/mentions_tooltip.tpl#L69-L75)[`75`](../src/punbb/mentions_tooltip.tpl#L75)
 
 ### Version Invision
-* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme) :__ lignes [`69`](../src/invision/mentions_tooltip.tpl#L69)[`<->`](../src/invision/mentions_tooltip.tpl#L69-L75)[`75`](../src/invision/mentions_tooltip.tpl#L75)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`69`](../src/invision/mentions_tooltip.tpl#L69)[`<->`](../src/invision/mentions_tooltip.tpl#L69-L75)[`75`](../src/invision/mentions_tooltip.tpl#L75)
 

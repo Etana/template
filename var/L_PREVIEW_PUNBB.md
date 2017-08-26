@@ -1,7 +1,7 @@
 # L_PREVIEW_PUNBB
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_preview`](../tpl/posting_preview.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_preview`](../tpl/posting_preview.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_PREVIEW_PUNBB}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`posting_preview`](../tpl/posting_preview.md#readme) :__ lignes [`8`](../src/punbb/posting_preview.tpl#L8)
+* __[`posting_preview`](../tpl/posting_preview.md#readme)__ __:__ lignes [`8`](../src/punbb/posting_preview.tpl#L8)
 

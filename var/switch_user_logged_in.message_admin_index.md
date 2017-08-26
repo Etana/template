@@ -1,7 +1,7 @@
 # switch_user_logged_in.message_admin_index
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`agreement`](../tpl/agreement.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_user_logged_in -->
@@ -22,5 +22,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`9`](../src/invision/agreement.tpl#L9)[`<->`](../src/invision/agreement.tpl#L9-L16)[`16`](../src/invision/agreement.tpl#L16)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`9`](../src/invision/agreement.tpl#L9)[`<->`](../src/invision/agreement.tpl#L9-L16)[`16`](../src/invision/agreement.tpl#L16)
 

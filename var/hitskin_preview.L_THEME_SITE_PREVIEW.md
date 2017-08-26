@@ -1,7 +1,7 @@
 # hitskin_preview.L_THEME_SITE_PREVIEW
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN hitskin_preview -->
@@ -17,14 +17,14 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`223`](../src/prosilver/overall_header.tpl#L223)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`223`](../src/prosilver/overall_header.tpl#L223)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`210`](../src/subsilver/overall_header.tpl#L210)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`210`](../src/subsilver/overall_header.tpl#L210)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`216`](../src/punbb/overall_header.tpl#L216)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`216`](../src/punbb/overall_header.tpl#L216)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`218`](../src/invision/overall_header.tpl#L218)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`218`](../src/invision/overall_header.tpl#L218)
 

@@ -1,7 +1,7 @@
 # birthday_list_box.row.header_table.BOX_ID
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN birthday_list_box -->
@@ -19,5 +19,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`3`](../src/subsilver/birthday_list_box.tpl#L3), [`6`](../src/subsilver/birthday_list_box.tpl#L6), [`10`](../src/subsilver/birthday_list_box.tpl#L10), [`12`](../src/subsilver/birthday_list_box.tpl#L12), [`14`](../src/subsilver/birthday_list_box.tpl#L14), [`15`](../src/subsilver/birthday_list_box.tpl#L15)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`3`](../src/subsilver/birthday_list_box.tpl#L3), [`6`](../src/subsilver/birthday_list_box.tpl#L6), [`10`](../src/subsilver/birthday_list_box.tpl#L10), [`12`](../src/subsilver/birthday_list_box.tpl#L12), [`14`](../src/subsilver/birthday_list_box.tpl#L14), [`15`](../src/subsilver/birthday_list_box.tpl#L15)
 

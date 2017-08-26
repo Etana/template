@@ -1,7 +1,7 @@
 # MAIN_SITENAME
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {MAIN_SITENAME}
@@ -13,5 +13,5 @@ Nom du site spécifié dans `PA > Général > Forum | Configuration > Nom du sit
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`258`](../src/subsilver/overall_header.tpl#L258)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`258`](../src/subsilver/overall_header.tpl#L258)
 

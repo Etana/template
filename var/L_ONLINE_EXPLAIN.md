@@ -1,7 +1,7 @@
 # L_ONLINE_EXPLAIN
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_ONLINE_EXPLAIN}
@@ -15,11 +15,11 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`55`](../src/prosilver/viewonline_body.tpl#L55)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`55`](../src/prosilver/viewonline_body.tpl#L55)
 
 ### Version phpBB2
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`55`](../src/subsilver/viewonline_body.tpl#L55)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`55`](../src/subsilver/viewonline_body.tpl#L55)
 
 ### Version Invision
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`46`](../src/invision/viewonline_body.tpl#L46)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`46`](../src/invision/viewonline_body.tpl#L46)
 

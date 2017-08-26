@@ -1,7 +1,7 @@
 # no_personal_galleries.L_INFOS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN no_personal_galleries -->
@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`136`](../src/prosilver/album_cat_body.tpl#L136)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`136`](../src/prosilver/album_cat_body.tpl#L136)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`268`](../src/subsilver/album_cat_body.tpl#L268)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`268`](../src/subsilver/album_cat_body.tpl#L268)
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`131`](../src/punbb/album_cat_body.tpl#L131)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`131`](../src/punbb/album_cat_body.tpl#L131)
 
 ### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`158`](../src/invision/album_cat_body.tpl#L158)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`158`](../src/invision/album_cat_body.tpl#L158)
 

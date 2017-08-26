@@ -1,7 +1,7 @@
 # catrow.forumrow.INC_WIDTH_ICON
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -17,8 +17,8 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`26`](../src/punbb/index_box.tpl#L26), [`26`](../src/punbb/index_box.tpl#L26)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`26`](../src/punbb/index_box.tpl#L26), [`26`](../src/punbb/index_box.tpl#L26)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`33`](../src/invision/index_box.tpl#L33), [`33`](../src/invision/index_box.tpl#L33)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`33`](../src/invision/index_box.tpl#L33), [`33`](../src/invision/index_box.tpl#L33)
 

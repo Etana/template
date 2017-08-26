@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics.recent_detail2.DATE_LAST_MODIFIED
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_index_body`](../tpl/album_index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN build_categories_block -->
@@ -19,5 +19,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`55`](../src/subsilver/album_index_body.tpl#L55)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`55`](../src/subsilver/album_index_body.tpl#L55)
 

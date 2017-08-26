@@ -1,7 +1,7 @@
 # switch_search_results.search_results.U_PROFILE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_search_body`](../tpl/album_search_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_search_body`](../tpl/album_search_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_search_results -->
@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`35`](../src/prosilver/album_search_body.tpl#L35)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`35`](../src/prosilver/album_search_body.tpl#L35)
 
 ### Version phpBB2
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`42`](../src/subsilver/album_search_body.tpl#L42)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`42`](../src/subsilver/album_search_body.tpl#L42)
 
 ### Version PunBB
-* __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`45`](../src/punbb/album_search_body.tpl#L45)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`45`](../src/punbb/album_search_body.tpl#L45)
 

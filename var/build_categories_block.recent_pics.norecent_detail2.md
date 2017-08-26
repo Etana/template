@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics.norecent_detail2
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`album_index_body`](../tpl/album_index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN build_categories_block -->
@@ -22,5 +22,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`59`](../src/subsilver/album_index_body.tpl#L59)[`<->`](../src/subsilver/album_index_body.tpl#L59-L61)[`61`](../src/subsilver/album_index_body.tpl#L61)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`59`](../src/subsilver/album_index_body.tpl#L59)[`<->`](../src/subsilver/album_index_body.tpl#L59-L61)[`61`](../src/subsilver/album_index_body.tpl#L61)
 

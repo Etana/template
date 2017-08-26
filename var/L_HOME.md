@@ -1,7 +1,7 @@
 # L_HOME
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_HOME}
@@ -16,5 +16,5 @@ Chaîne de caractère.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`33`](../src/prosilver/overall_footer_begin.tpl#L33)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`33`](../src/prosilver/overall_footer_begin.tpl#L33)
 

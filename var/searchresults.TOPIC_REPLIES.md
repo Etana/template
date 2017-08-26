@@ -1,7 +1,7 @@
 # searchresults.TOPIC_REPLIES
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN searchresults -->
@@ -15,14 +15,14 @@ Contient le nombre de réponses dans le sujet.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`20`](../src/prosilver/search_results_posts.tpl#L20)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`20`](../src/prosilver/search_results_posts.tpl#L20)
 
 ### Version phpBB2
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`32`](../src/subsilver/search_results_posts.tpl#L32)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`32`](../src/subsilver/search_results_posts.tpl#L32)
 
 ### Version PunBB
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`61`](../src/punbb/search_results_posts.tpl#L61)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`61`](../src/punbb/search_results_posts.tpl#L61)
 
 ### Version Invision
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`32`](../src/invision/search_results_posts.tpl#L32)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`32`](../src/invision/search_results_posts.tpl#L32)
 

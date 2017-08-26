@@ -1,7 +1,7 @@
 # post_row.switch_attachments.switch_post_attachments
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN post_row -->
@@ -35,14 +35,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`19`](../src/prosilver/mod_news.tpl#L19)[`<->`](../src/prosilver/mod_news.tpl#L19-L47)[`47`](../src/prosilver/mod_news.tpl#L47)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`19`](../src/prosilver/mod_news.tpl#L19)[`<->`](../src/prosilver/mod_news.tpl#L19-L47)[`47`](../src/prosilver/mod_news.tpl#L47)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`25`](../src/subsilver/mod_news.tpl#L25)[`<->`](../src/subsilver/mod_news.tpl#L25-L53)[`53`](../src/subsilver/mod_news.tpl#L53)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`25`](../src/subsilver/mod_news.tpl#L25)[`<->`](../src/subsilver/mod_news.tpl#L25-L53)[`53`](../src/subsilver/mod_news.tpl#L53)
 
 ### Version PunBB
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`18`](../src/punbb/mod_news.tpl#L18)[`<->`](../src/punbb/mod_news.tpl#L18-L46)[`46`](../src/punbb/mod_news.tpl#L46)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`18`](../src/punbb/mod_news.tpl#L18)[`<->`](../src/punbb/mod_news.tpl#L18-L46)[`46`](../src/punbb/mod_news.tpl#L46)
 
 ### Version Invision
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`17`](../src/invision/mod_news.tpl#L17)[`<->`](../src/invision/mod_news.tpl#L17-L45)[`45`](../src/invision/mod_news.tpl#L45)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`17`](../src/invision/mod_news.tpl#L17)[`<->`](../src/invision/mod_news.tpl#L17-L45)[`45`](../src/invision/mod_news.tpl#L45)
 

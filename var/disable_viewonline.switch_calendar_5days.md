@@ -1,7 +1,7 @@
 # disable_viewonline.switch_calendar_5days
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN disable_viewonline -->
@@ -20,5 +20,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`104`](../src/invision/index_body.tpl#L104)[`<->`](../src/invision/index_body.tpl#L104-L114)[`114`](../src/invision/index_body.tpl#L114)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`104`](../src/invision/index_body.tpl#L104)[`<->`](../src/invision/index_body.tpl#L104-L114)[`114`](../src/invision/index_body.tpl#L114)
 

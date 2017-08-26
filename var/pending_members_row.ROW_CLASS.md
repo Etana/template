@@ -1,7 +1,7 @@
 # pending_members_row.ROW_CLASS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN pending_members_row -->
@@ -20,8 +20,8 @@ et vaut `row2` au sinon.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`20`](../src/prosilver/groupcp_pending_info.tpl#L20)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`20`](../src/prosilver/groupcp_pending_info.tpl#L20)
 
 ### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`16`](../src/subsilver/groupcp_pending_info.tpl#L16), [`17`](../src/subsilver/groupcp_pending_info.tpl#L17), [`18`](../src/subsilver/groupcp_pending_info.tpl#L18), [`19`](../src/subsilver/groupcp_pending_info.tpl#L19), [`20`](../src/subsilver/groupcp_pending_info.tpl#L20), [`21`](../src/subsilver/groupcp_pending_info.tpl#L21), [`22`](../src/subsilver/groupcp_pending_info.tpl#L22)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`16`](../src/subsilver/groupcp_pending_info.tpl#L16), [`17`](../src/subsilver/groupcp_pending_info.tpl#L17), [`18`](../src/subsilver/groupcp_pending_info.tpl#L18), [`19`](../src/subsilver/groupcp_pending_info.tpl#L19), [`20`](../src/subsilver/groupcp_pending_info.tpl#L20), [`21`](../src/subsilver/groupcp_pending_info.tpl#L21), [`22`](../src/subsilver/groupcp_pending_info.tpl#L22)
 

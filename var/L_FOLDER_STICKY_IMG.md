@@ -1,7 +1,7 @@
 # L_FOLDER_STICKY_IMG
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_FOLDER_STICKY_IMG}
@@ -15,14 +15,14 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`95`](../src/prosilver/viewforum_body.tpl#L95), [`95`](../src/prosilver/viewforum_body.tpl#L95)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`95`](../src/prosilver/viewforum_body.tpl#L95), [`95`](../src/prosilver/viewforum_body.tpl#L95)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`111`](../src/subsilver/viewforum_body.tpl#L111), [`111`](../src/subsilver/viewforum_body.tpl#L111)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`111`](../src/subsilver/viewforum_body.tpl#L111), [`111`](../src/subsilver/viewforum_body.tpl#L111)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`78`](../src/punbb/viewforum_body.tpl#L78), [`78`](../src/punbb/viewforum_body.tpl#L78)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`78`](../src/punbb/viewforum_body.tpl#L78), [`78`](../src/punbb/viewforum_body.tpl#L78)
 
 ### Version Invision
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`78`](../src/invision/viewforum_body.tpl#L78), [`78`](../src/invision/viewforum_body.tpl#L78)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`78`](../src/invision/viewforum_body.tpl#L78), [`78`](../src/invision/viewforum_body.tpl#L78)
 

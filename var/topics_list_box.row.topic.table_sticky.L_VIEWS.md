@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.table_sticky.L_VIEWS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -21,11 +21,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`84`](../src/prosilver/topics_list_box.tpl#L84)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`84`](../src/prosilver/topics_list_box.tpl#L84)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`66`](../src/punbb/topics_list_box.tpl#L66)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`66`](../src/punbb/topics_list_box.tpl#L66)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`96`](../src/invision/topics_list_box.tpl#L96)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`96`](../src/invision/topics_list_box.tpl#L96)
 

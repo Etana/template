@@ -1,7 +1,7 @@
 # L_PUBLISH
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_PUBLISH}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`182`](../src/prosilver/posting_body.tpl#L182)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`182`](../src/prosilver/posting_body.tpl#L182)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`245`](../src/subsilver/posting_body.tpl#L245)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`245`](../src/subsilver/posting_body.tpl#L245)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`208`](../src/punbb/posting_body.tpl#L208)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`208`](../src/punbb/posting_body.tpl#L208)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`359`](../src/invision/posting_body.tpl#L359)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`359`](../src/invision/posting_body.tpl#L359)
 

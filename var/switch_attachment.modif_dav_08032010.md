@@ -1,7 +1,7 @@
 # switch_attachment.modif_dav_08032010
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_attachment -->
@@ -20,5 +20,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`419`](../src/subsilver/posting_body.tpl#L419)[`<->`](../src/subsilver/posting_body.tpl#L419-L426)[`426`](../src/subsilver/posting_body.tpl#L426)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`419`](../src/subsilver/posting_body.tpl#L419)[`<->`](../src/subsilver/posting_body.tpl#L419-L426)[`426`](../src/subsilver/posting_body.tpl#L426)
 

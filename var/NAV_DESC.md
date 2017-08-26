@@ -1,7 +1,7 @@
 # NAV_DESC
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {NAV_DESC}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`8`](../src/prosilver/calendar_overview_topic.tpl#L8)
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`8`](../src/prosilver/calendar_overview_topic.tpl#L8)
 
 ### Version phpBB2
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`12`](../src/subsilver/calendar_overview_topic.tpl#L12)
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`12`](../src/subsilver/calendar_overview_topic.tpl#L12)
 
 ### Version PunBB
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`8`](../src/punbb/calendar_overview_topic.tpl#L8)
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`8`](../src/punbb/calendar_overview_topic.tpl#L8)
 
 ### Version Invision
-* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`8`](../src/invision/calendar_overview_topic.tpl#L8)
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`8`](../src/invision/calendar_overview_topic.tpl#L8)
 

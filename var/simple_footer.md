@@ -1,7 +1,7 @@
 # simple_footer
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`portal_body`](../tpl/portal_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN simple_footer -->
@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`57`](../src/punbb/portal_body.tpl#L57)[`<->`](../src/punbb/portal_body.tpl#L57-L59)[`59`](../src/punbb/portal_body.tpl#L59)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`57`](../src/punbb/portal_body.tpl#L57)[`<->`](../src/punbb/portal_body.tpl#L57-L59)[`59`](../src/punbb/portal_body.tpl#L59)
 

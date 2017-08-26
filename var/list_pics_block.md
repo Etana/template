@@ -1,7 +1,7 @@
 # list_pics_block
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_cat_top10`](../tpl/album_cat_top10.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_cat_top10`](../tpl/album_cat_top10.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN list_pics_block -->
@@ -58,18 +58,18 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`58`](../src/prosilver/album_cat_body.tpl#L58)[`<->`](../src/prosilver/album_cat_body.tpl#L58-L122)[`122`](../src/prosilver/album_cat_body.tpl#L122)
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`15`](../src/prosilver/album_cat_top10.tpl#L15)[`<->`](../src/prosilver/album_cat_top10.tpl#L15-L54)[`54`](../src/prosilver/album_cat_top10.tpl#L54)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`58`](../src/prosilver/album_cat_body.tpl#L58)[`<->`](../src/prosilver/album_cat_body.tpl#L58-L122)[`122`](../src/prosilver/album_cat_body.tpl#L122)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`15`](../src/prosilver/album_cat_top10.tpl#L15)[`<->`](../src/prosilver/album_cat_top10.tpl#L15-L54)[`54`](../src/prosilver/album_cat_top10.tpl#L54)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`112`](../src/subsilver/album_cat_body.tpl#L112)[`<->`](../src/subsilver/album_cat_body.tpl#L112-L190)[`190`](../src/subsilver/album_cat_body.tpl#L190)
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`11`](../src/subsilver/album_cat_top10.tpl#L11)[`<->`](../src/subsilver/album_cat_top10.tpl#L11-L49)[`49`](../src/subsilver/album_cat_top10.tpl#L49)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`112`](../src/subsilver/album_cat_body.tpl#L112)[`<->`](../src/subsilver/album_cat_body.tpl#L112-L190)[`190`](../src/subsilver/album_cat_body.tpl#L190)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`11`](../src/subsilver/album_cat_top10.tpl#L11)[`<->`](../src/subsilver/album_cat_top10.tpl#L11-L49)[`49`](../src/subsilver/album_cat_top10.tpl#L49)
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`52`](../src/punbb/album_cat_body.tpl#L52)[`<->`](../src/punbb/album_cat_body.tpl#L52-L118)[`118`](../src/punbb/album_cat_body.tpl#L118)
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`24`](../src/punbb/album_cat_top10.tpl#L24)[`<->`](../src/punbb/album_cat_top10.tpl#L24-L61)[`61`](../src/punbb/album_cat_top10.tpl#L61)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`52`](../src/punbb/album_cat_body.tpl#L52)[`<->`](../src/punbb/album_cat_body.tpl#L52-L118)[`118`](../src/punbb/album_cat_body.tpl#L118)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`24`](../src/punbb/album_cat_top10.tpl#L24)[`<->`](../src/punbb/album_cat_top10.tpl#L24-L61)[`61`](../src/punbb/album_cat_top10.tpl#L61)
 
 ### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`63`](../src/invision/album_cat_body.tpl#L63)[`<->`](../src/invision/album_cat_body.tpl#L63-L131)[`131`](../src/invision/album_cat_body.tpl#L131)
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`9`](../src/invision/album_cat_top10.tpl#L9)[`<->`](../src/invision/album_cat_top10.tpl#L9-L51)[`51`](../src/invision/album_cat_top10.tpl#L51)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`63`](../src/invision/album_cat_body.tpl#L63)[`<->`](../src/invision/album_cat_body.tpl#L63-L131)[`131`](../src/invision/album_cat_body.tpl#L131)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`9`](../src/invision/album_cat_top10.tpl#L9)[`<->`](../src/invision/album_cat_top10.tpl#L9-L51)[`51`](../src/invision/album_cat_top10.tpl#L51)
 

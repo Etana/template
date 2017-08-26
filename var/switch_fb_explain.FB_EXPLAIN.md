@@ -1,7 +1,7 @@
 # switch_fb_explain.FB_EXPLAIN
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`agreement`](../tpl/agreement.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_fb_explain -->
@@ -21,14 +21,14 @@ Veuillez commencer votre inscription en acceptant ce règlement.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`10`](../src/prosilver/agreement.tpl#L10)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`10`](../src/prosilver/agreement.tpl#L10)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`16`](../src/subsilver/agreement.tpl#L16)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`16`](../src/subsilver/agreement.tpl#L16)
 
 ### Version PunBB
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`23`](../src/punbb/agreement.tpl#L23)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`23`](../src/punbb/agreement.tpl#L23)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`27`](../src/invision/agreement.tpl#L27)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`27`](../src/invision/agreement.tpl#L27)
 

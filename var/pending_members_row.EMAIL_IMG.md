@@ -1,7 +1,7 @@
 # pending_members_row.EMAIL_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN pending_members_row -->
@@ -21,14 +21,14 @@ Image `E-mail` ( choisie dans [`Index`](http://votre-forum.appspot.com/#/admin/,
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`25`](../src/prosilver/groupcp_pending_info.tpl#L25)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`25`](../src/prosilver/groupcp_pending_info.tpl#L25)
 
 ### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`20`](../src/subsilver/groupcp_pending_info.tpl#L20)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`20`](../src/subsilver/groupcp_pending_info.tpl#L20)
 
 ### Version PunBB
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`26`](../src/punbb/groupcp_pending_info.tpl#L26)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`26`](../src/punbb/groupcp_pending_info.tpl#L26)
 
 ### Version Invision
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`23`](../src/invision/groupcp_pending_info.tpl#L23)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`23`](../src/invision/groupcp_pending_info.tpl#L23)
 

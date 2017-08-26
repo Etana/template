@@ -1,7 +1,7 @@
 # giefmod_index2.saut
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN giefmod_index2 -->
@@ -20,14 +20,14 @@ Boucle contenant le saut entre 2 widgets.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`18`](../src/prosilver/overall_footer_begin.tpl#L18)[`<->`](../src/prosilver/overall_footer_begin.tpl#L18-L20)[`20`](../src/prosilver/overall_footer_begin.tpl#L20)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`18`](../src/prosilver/overall_footer_begin.tpl#L18)[`<->`](../src/prosilver/overall_footer_begin.tpl#L18-L20)[`20`](../src/prosilver/overall_footer_begin.tpl#L20)
 
 ### Version phpBB2
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`14`](../src/subsilver/overall_footer_begin.tpl#L14)[`<->`](../src/subsilver/overall_footer_begin.tpl#L14-L16)[`16`](../src/subsilver/overall_footer_begin.tpl#L16)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`14`](../src/subsilver/overall_footer_begin.tpl#L14)[`<->`](../src/subsilver/overall_footer_begin.tpl#L14-L16)[`16`](../src/subsilver/overall_footer_begin.tpl#L16)
 
 ### Version PunBB
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`19`](../src/punbb/overall_footer_begin.tpl#L19)[`<->`](../src/punbb/overall_footer_begin.tpl#L19-L21)[`21`](../src/punbb/overall_footer_begin.tpl#L21)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`19`](../src/punbb/overall_footer_begin.tpl#L19)[`<->`](../src/punbb/overall_footer_begin.tpl#L19-L21)[`21`](../src/punbb/overall_footer_begin.tpl#L21)
 
 ### Version Invision
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`17`](../src/invision/overall_footer_begin.tpl#L17)[`<->`](../src/invision/overall_footer_begin.tpl#L17-L19)[`19`](../src/invision/overall_footer_begin.tpl#L19)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`17`](../src/invision/overall_footer_begin.tpl#L17)[`<->`](../src/invision/overall_footer_begin.tpl#L17-L19)[`19`](../src/invision/overall_footer_begin.tpl#L19)
 

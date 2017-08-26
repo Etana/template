@@ -1,7 +1,7 @@
 # avatar_row.avatar_column.AVATAR_IMAGE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN avatar_row -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`15`](../src/prosilver/profile_avatar_gallery.tpl#L15)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`15`](../src/prosilver/profile_avatar_gallery.tpl#L15)
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`17`](../src/subsilver/profile_avatar_gallery.tpl#L17)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`17`](../src/subsilver/profile_avatar_gallery.tpl#L17)
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`30`](../src/punbb/profile_avatar_gallery.tpl#L30)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`30`](../src/punbb/profile_avatar_gallery.tpl#L30)
 
 ### Version Invision
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`17`](../src/invision/profile_avatar_gallery.tpl#L17)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`17`](../src/invision/profile_avatar_gallery.tpl#L17)
 

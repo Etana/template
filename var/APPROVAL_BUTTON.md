@@ -1,7 +1,7 @@
 # APPROVAL_BUTTON
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`album_modcp_body`](../tpl/album_modcp_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {APPROVAL_BUTTON}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`59`](../src/subsilver/album_modcp_body.tpl#L59)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`59`](../src/subsilver/album_modcp_body.tpl#L59)
 

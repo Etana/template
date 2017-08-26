@@ -1,7 +1,7 @@
 # switch_exif_enabled
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_exif_enabled -->
@@ -24,5 +24,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`357`](../src/subsilver/album_showpage_body.tpl#L357)[`<->`](../src/subsilver/album_showpage_body.tpl#L357-L372)[`372`](../src/subsilver/album_showpage_body.tpl#L372)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`357`](../src/subsilver/album_showpage_body.tpl#L357)[`<->`](../src/subsilver/album_showpage_body.tpl#L357-L372)[`372`](../src/subsilver/album_showpage_body.tpl#L372)
 

@@ -1,7 +1,7 @@
 # switch_logo_right
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_logo_right -->
@@ -18,5 +18,5 @@ Boucle s'affichant si vous avez sélectionné "A droite" dans `PA > Affichage > 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`262`](../src/subsilver/overall_header.tpl#L262)[`<->`](../src/subsilver/overall_header.tpl#L262-L264)[`264`](../src/subsilver/overall_header.tpl#L264)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`262`](../src/subsilver/overall_header.tpl#L262)[`<->`](../src/subsilver/overall_header.tpl#L262-L264)[`264`](../src/subsilver/overall_header.tpl#L264)
 

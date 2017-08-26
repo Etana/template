@@ -1,7 +1,7 @@
 # smilies_row.smilies_col.SHOW_JS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`posting_smilies`](../tpl/posting_smilies.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`posting_smilies`](../tpl/posting_smilies.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN smilies_row -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`24`](../src/prosilver/posting_smilies.tpl#L24)
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`24`](../src/prosilver/posting_smilies.tpl#L24)
 
 ### Version phpBB2
-* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`21`](../src/subsilver/posting_smilies.tpl#L21)
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`21`](../src/subsilver/posting_smilies.tpl#L21)
 
 ### Version PunBB
-* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`19`](../src/punbb/posting_smilies.tpl#L19)
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`19`](../src/punbb/posting_smilies.tpl#L19)
 
 ### Version Invision
-* __[`posting_smilies`](../tpl/posting_smilies.md#readme) :__ lignes [`22`](../src/invision/posting_smilies.tpl#L22)
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`22`](../src/invision/posting_smilies.tpl#L22)
 

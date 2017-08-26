@@ -1,7 +1,7 @@
 # listrow.L_PRIVMSG_FOLDER_ALT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN listrow -->
@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`68`](../src/subsilver/privmsgs_body.tpl#L68), [`68`](../src/subsilver/privmsgs_body.tpl#L68)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`68`](../src/subsilver/privmsgs_body.tpl#L68), [`68`](../src/subsilver/privmsgs_body.tpl#L68)
 

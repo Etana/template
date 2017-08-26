@@ -1,7 +1,7 @@
 # switch_on_index.switch_delete_cookies
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_on_index -->
@@ -22,14 +22,14 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`89`](../src/prosilver/index_box.tpl#L89)[`<->`](../src/prosilver/index_box.tpl#L89-L91)[`91`](../src/prosilver/index_box.tpl#L91)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`89`](../src/prosilver/index_box.tpl#L89)[`<->`](../src/prosilver/index_box.tpl#L89-L91)[`91`](../src/prosilver/index_box.tpl#L91)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`79`](../src/subsilver/index_body.tpl#L79)[`<->`](../src/subsilver/index_body.tpl#L79-L81)[`81`](../src/subsilver/index_body.tpl#L81)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`79`](../src/subsilver/index_body.tpl#L79)[`<->`](../src/subsilver/index_body.tpl#L79-L81)[`81`](../src/subsilver/index_body.tpl#L81)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`81`](../src/punbb/index_box.tpl#L81)[`<->`](../src/punbb/index_box.tpl#L81-L85)[`85`](../src/punbb/index_box.tpl#L85)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`81`](../src/punbb/index_box.tpl#L81)[`<->`](../src/punbb/index_box.tpl#L81-L85)[`85`](../src/punbb/index_box.tpl#L85)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`89`](../src/invision/index_box.tpl#L89)[`<->`](../src/invision/index_box.tpl#L89-L91)[`91`](../src/invision/index_box.tpl#L91)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`89`](../src/invision/index_box.tpl#L89)[`<->`](../src/invision/index_box.tpl#L89-L91)[`91`](../src/invision/index_box.tpl#L91)
 

@@ -1,7 +1,7 @@
 # L_POLL_CANCEL_VOTE
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_POLL_CANCEL_VOTE}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`60`](../src/prosilver/posting_poll_body.tpl#L60)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`60`](../src/prosilver/posting_poll_body.tpl#L60)
 
 ### Version phpBB2
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`57`](../src/subsilver/posting_poll_body.tpl#L57)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`57`](../src/subsilver/posting_poll_body.tpl#L57)
 
 ### Version PunBB
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`64`](../src/punbb/posting_poll_body.tpl#L64)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`64`](../src/punbb/posting_poll_body.tpl#L64)
 
 ### Version Invision
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`68`](../src/invision/posting_poll_body.tpl#L68)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`68`](../src/invision/posting_poll_body.tpl#L68)
 

@@ -1,7 +1,7 @@
 # faq_block.faq_row
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN faq_block -->
@@ -24,18 +24,18 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`24`](../src/prosilver/faq_body.tpl#L24)[`<->`](../src/prosilver/faq_body.tpl#L24-L31)[`31`](../src/prosilver/faq_body.tpl#L31)
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`19`](../src/prosilver/faq_dhtml.tpl#L19)[`<->`](../src/prosilver/faq_dhtml.tpl#L19-L24)[`24`](../src/prosilver/faq_dhtml.tpl#L24)
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`24`](../src/prosilver/faq_body.tpl#L24)[`<->`](../src/prosilver/faq_body.tpl#L24-L31)[`31`](../src/prosilver/faq_body.tpl#L31)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`19`](../src/prosilver/faq_dhtml.tpl#L19)[`<->`](../src/prosilver/faq_dhtml.tpl#L19-L24)[`24`](../src/prosilver/faq_dhtml.tpl#L24)
 
 ### Version phpBB2
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`30`](../src/subsilver/faq_body.tpl#L30)[`<->`](../src/subsilver/faq_body.tpl#L30-L49)[`49`](../src/subsilver/faq_body.tpl#L49)
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`29`](../src/subsilver/faq_dhtml.tpl#L29)[`<->`](../src/subsilver/faq_dhtml.tpl#L29-L50)[`50`](../src/subsilver/faq_dhtml.tpl#L50)
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/faq_body.tpl#L30)[`<->`](../src/subsilver/faq_body.tpl#L30-L49)[`49`](../src/subsilver/faq_body.tpl#L49)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`29`](../src/subsilver/faq_dhtml.tpl#L29)[`<->`](../src/subsilver/faq_dhtml.tpl#L29-L50)[`50`](../src/subsilver/faq_dhtml.tpl#L50)
 
 ### Version PunBB
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`39`](../src/punbb/faq_body.tpl#L39)[`<->`](../src/punbb/faq_body.tpl#L39-L45)[`45`](../src/punbb/faq_body.tpl#L45)
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`35`](../src/punbb/faq_dhtml.tpl#L35)[`<->`](../src/punbb/faq_dhtml.tpl#L35-L40)[`40`](../src/punbb/faq_dhtml.tpl#L40)
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`39`](../src/punbb/faq_body.tpl#L39)[`<->`](../src/punbb/faq_body.tpl#L39-L45)[`45`](../src/punbb/faq_body.tpl#L45)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`35`](../src/punbb/faq_dhtml.tpl#L35)[`<->`](../src/punbb/faq_dhtml.tpl#L35-L40)[`40`](../src/punbb/faq_dhtml.tpl#L40)
 
 ### Version Invision
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`24`](../src/invision/faq_body.tpl#L24)[`<->`](../src/invision/faq_body.tpl#L24-L30)[`30`](../src/invision/faq_body.tpl#L30)
-* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`20`](../src/invision/faq_dhtml.tpl#L20)[`<->`](../src/invision/faq_dhtml.tpl#L20-L25)[`25`](../src/invision/faq_dhtml.tpl#L25)
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`24`](../src/invision/faq_body.tpl#L24)[`<->`](../src/invision/faq_body.tpl#L24-L30)[`30`](../src/invision/faq_body.tpl#L30)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`20`](../src/invision/faq_dhtml.tpl#L20)[`<->`](../src/invision/faq_dhtml.tpl#L20-L25)[`25`](../src/invision/faq_dhtml.tpl#L25)
 

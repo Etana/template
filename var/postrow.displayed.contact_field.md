@@ -1,7 +1,7 @@
 # postrow.displayed.contact_field
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -23,11 +23,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`230`](../src/prosilver/viewtopic_body.tpl#L230)[`<->`](../src/prosilver/viewtopic_body.tpl#L230-L230)[`230`](../src/prosilver/viewtopic_body.tpl#L230)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`230`](../src/prosilver/viewtopic_body.tpl#L230)[`<->`](../src/prosilver/viewtopic_body.tpl#L230-L230)[`230`](../src/prosilver/viewtopic_body.tpl#L230)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`248`](../src/subsilver/viewtopic_body.tpl#L248)[`<->`](../src/subsilver/viewtopic_body.tpl#L248-L248)[`248`](../src/subsilver/viewtopic_body.tpl#L248)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`248`](../src/subsilver/viewtopic_body.tpl#L248)[`<->`](../src/subsilver/viewtopic_body.tpl#L248-L248)[`248`](../src/subsilver/viewtopic_body.tpl#L248)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`241`](../src/punbb/viewtopic_body.tpl#L241)[`<->`](../src/punbb/viewtopic_body.tpl#L241-L241)[`241`](../src/punbb/viewtopic_body.tpl#L241)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`241`](../src/punbb/viewtopic_body.tpl#L241)[`<->`](../src/punbb/viewtopic_body.tpl#L241-L241)[`241`](../src/punbb/viewtopic_body.tpl#L241)
 

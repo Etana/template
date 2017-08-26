@@ -1,7 +1,7 @@
 # cat_pic_space
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN cat_pic_space -->
@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`109`](../src/subsilver/album_cat_body.tpl#L109)[`<->`](../src/subsilver/album_cat_body.tpl#L109-L111)[`111`](../src/subsilver/album_cat_body.tpl#L111)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`109`](../src/subsilver/album_cat_body.tpl#L109)[`<->`](../src/subsilver/album_cat_body.tpl#L109-L111)[`111`](../src/subsilver/album_cat_body.tpl#L111)
 

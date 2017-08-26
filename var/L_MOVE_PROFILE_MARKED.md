@@ -1,7 +1,7 @@
 # L_MOVE_PROFILE_MARKED
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`privmsgs_body`](../tpl/privmsgs_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_MOVE_PROFILE_MARKED}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`89`](../src/prosilver/privmsgs_body.tpl#L89)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`89`](../src/prosilver/privmsgs_body.tpl#L89)
 
 ### Version phpBB2
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`96`](../src/subsilver/privmsgs_body.tpl#L96)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`96`](../src/subsilver/privmsgs_body.tpl#L96)
 
 ### Version PunBB
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`92`](../src/punbb/privmsgs_body.tpl#L92)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`92`](../src/punbb/privmsgs_body.tpl#L92)
 
 ### Version Invision
-* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`74`](../src/invision/privmsgs_body.tpl#L74)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`74`](../src/invision/privmsgs_body.tpl#L74)
 

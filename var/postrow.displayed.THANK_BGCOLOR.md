@@ -1,7 +1,7 @@
 # postrow.displayed.THANK_BGCOLOR
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`123`](../src/prosilver/viewtopic_body.tpl#L123)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`123`](../src/prosilver/viewtopic_body.tpl#L123)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`130`](../src/subsilver/viewtopic_body.tpl#L130), [`142`](../src/subsilver/viewtopic_body.tpl#L142), [`241`](../src/subsilver/viewtopic_body.tpl#L241), [`244`](../src/subsilver/viewtopic_body.tpl#L244)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`130`](../src/subsilver/viewtopic_body.tpl#L130), [`142`](../src/subsilver/viewtopic_body.tpl#L142), [`241`](../src/subsilver/viewtopic_body.tpl#L241), [`244`](../src/subsilver/viewtopic_body.tpl#L244)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`129`](../src/punbb/viewtopic_body.tpl#L129), [`131`](../src/punbb/viewtopic_body.tpl#L131), [`132`](../src/punbb/viewtopic_body.tpl#L132), [`139`](../src/punbb/viewtopic_body.tpl#L139)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`129`](../src/punbb/viewtopic_body.tpl#L129), [`131`](../src/punbb/viewtopic_body.tpl#L131), [`132`](../src/punbb/viewtopic_body.tpl#L132), [`139`](../src/punbb/viewtopic_body.tpl#L139)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`118`](../src/invision/viewtopic_body.tpl#L118), [`119`](../src/invision/viewtopic_body.tpl#L119), [`123`](../src/invision/viewtopic_body.tpl#L123), [`171`](../src/invision/viewtopic_body.tpl#L171), [`261`](../src/invision/viewtopic_body.tpl#L261)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`118`](../src/invision/viewtopic_body.tpl#L118), [`119`](../src/invision/viewtopic_body.tpl#L119), [`123`](../src/invision/viewtopic_body.tpl#L123), [`171`](../src/invision/viewtopic_body.tpl#L171), [`261`](../src/invision/viewtopic_body.tpl#L261)
 

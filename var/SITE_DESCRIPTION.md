@@ -1,7 +1,7 @@
 # SITE_DESCRIPTION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {SITE_DESCRIPTION}
@@ -14,5 +14,5 @@ Contient la valeur spécifiée pour `Description du site` dans [`Index`](http://
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`260`](../src/subsilver/overall_header.tpl#L260)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`260`](../src/subsilver/overall_header.tpl#L260)
 

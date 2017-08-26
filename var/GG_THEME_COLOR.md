@@ -1,7 +1,7 @@
 # GG_THEME_COLOR
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {GG_THEME_COLOR}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`13`](../src/mobile/overall_header.tpl#L13)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`13`](../src/mobile/overall_header.tpl#L13)
 

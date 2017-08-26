@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled._event
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`calendar_box`](../tpl/calendar_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN _calendar_box -->
@@ -39,14 +39,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`46`](../src/prosilver/calendar_box.tpl#L46)[`<->`](../src/prosilver/calendar_box.tpl#L46-L54)[`54`](../src/prosilver/calendar_box.tpl#L54)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`46`](../src/prosilver/calendar_box.tpl#L46)[`<->`](../src/prosilver/calendar_box.tpl#L46-L54)[`54`](../src/prosilver/calendar_box.tpl#L54)
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`51`](../src/subsilver/calendar_box.tpl#L51)[`<->`](../src/subsilver/calendar_box.tpl#L51-L80)[`80`](../src/subsilver/calendar_box.tpl#L80)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`51`](../src/subsilver/calendar_box.tpl#L51)[`<->`](../src/subsilver/calendar_box.tpl#L51-L80)[`80`](../src/subsilver/calendar_box.tpl#L80)
 
 ### Version PunBB
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`40`](../src/punbb/calendar_box.tpl#L40)[`<->`](../src/punbb/calendar_box.tpl#L40-L48)[`48`](../src/punbb/calendar_box.tpl#L48)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`40`](../src/punbb/calendar_box.tpl#L40)[`<->`](../src/punbb/calendar_box.tpl#L40-L48)[`48`](../src/punbb/calendar_box.tpl#L48)
 
 ### Version Invision
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`50`](../src/invision/calendar_box.tpl#L50)[`<->`](../src/invision/calendar_box.tpl#L50-L58)[`58`](../src/invision/calendar_box.tpl#L58)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`50`](../src/invision/calendar_box.tpl#L50)[`<->`](../src/invision/calendar_box.tpl#L50-L58)[`58`](../src/invision/calendar_box.tpl#L58)
 

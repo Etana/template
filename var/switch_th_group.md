@@ -1,7 +1,7 @@
 # switch_th_group
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_th_group -->
@@ -18,11 +18,11 @@ Boucle affichant le titre de la colonne des groupes dans la liste des membres si
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`31`](../src/prosilver/memberlist_body.tpl#L31)[`<->`](../src/prosilver/memberlist_body.tpl#L31-L33)[`33`](../src/prosilver/memberlist_body.tpl#L33)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`31`](../src/prosilver/memberlist_body.tpl#L31)[`<->`](../src/prosilver/memberlist_body.tpl#L31-L33)[`33`](../src/prosilver/memberlist_body.tpl#L33)
 
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`26`](../src/subsilver/memberlist_body.tpl#L26)[`<->`](../src/subsilver/memberlist_body.tpl#L26-L28)[`28`](../src/subsilver/memberlist_body.tpl#L28)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`26`](../src/subsilver/memberlist_body.tpl#L26)[`<->`](../src/subsilver/memberlist_body.tpl#L26-L28)[`28`](../src/subsilver/memberlist_body.tpl#L28)
 
 ### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`64`](../src/punbb/memberlist_body.tpl#L64)[`<->`](../src/punbb/memberlist_body.tpl#L64-L66)[`66`](../src/punbb/memberlist_body.tpl#L66)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`64`](../src/punbb/memberlist_body.tpl#L64)[`<->`](../src/punbb/memberlist_body.tpl#L64-L66)[`66`](../src/punbb/memberlist_body.tpl#L66)
 

@@ -1,7 +1,7 @@
 # TOTAL_POSTS
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`mod_statistics`](../tpl/mod_statistics.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_statistics`](../tpl/mod_statistics.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {TOTAL_POSTS}
@@ -26,18 +26,18 @@ Nos membres ont posté un total de <strong>2</strong> messages
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`82`](../src/prosilver/index_body.tpl#L82)
-* __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`6`](../src/prosilver/mod_statistics.tpl#L6)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`82`](../src/prosilver/index_body.tpl#L82)
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_statistics.tpl#L6)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`145`](../src/subsilver/index_body.tpl#L145)
-* __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`9`](../src/subsilver/mod_statistics.tpl#L9)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`145`](../src/subsilver/index_body.tpl#L145)
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`9`](../src/subsilver/mod_statistics.tpl#L9)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`66`](../src/punbb/index_body.tpl#L66)
-* __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`5`](../src/punbb/mod_statistics.tpl#L5)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`66`](../src/punbb/index_body.tpl#L66)
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_statistics.tpl#L5)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`130`](../src/invision/index_body.tpl#L130)
-* __[`mod_statistics`](../tpl/mod_statistics.md#readme) :__ lignes [`4`](../src/invision/mod_statistics.tpl#L4)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`130`](../src/invision/index_body.tpl#L130)
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`4`](../src/invision/mod_statistics.tpl#L4)
 

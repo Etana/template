@@ -1,7 +1,7 @@
 # switch_icon_checkbox.row.cell.ICON_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_icon_checkbox -->
@@ -19,14 +19,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`96`](../src/prosilver/posting_body.tpl#L96)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`96`](../src/prosilver/posting_body.tpl#L96)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`182`](../src/subsilver/posting_body.tpl#L182)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`182`](../src/subsilver/posting_body.tpl#L182)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`118`](../src/punbb/posting_body.tpl#L118)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`118`](../src/punbb/posting_body.tpl#L118)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`340`](../src/invision/posting_body.tpl#L340)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`340`](../src/invision/posting_body.tpl#L340)
 

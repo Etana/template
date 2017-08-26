@@ -1,7 +1,7 @@
 # phonecall_method.hidden_field.VALUE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN phonecall_method -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`64`](../src/prosilver/buy_credits.tpl#L64)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`64`](../src/prosilver/buy_credits.tpl#L64)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`96`](../src/subsilver/buy_credits.tpl#L96)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`96`](../src/subsilver/buy_credits.tpl#L96)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`83`](../src/punbb/buy_credits.tpl#L83)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`83`](../src/punbb/buy_credits.tpl#L83)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`68`](../src/invision/buy_credits.tpl#L68)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`68`](../src/invision/buy_credits.tpl#L68)
 

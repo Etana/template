@@ -1,7 +1,7 @@
 # L_ADD_A_POLL
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_ADD_A_POLL}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`1`](../src/prosilver/posting_poll_body.tpl#L1)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`1`](../src/prosilver/posting_poll_body.tpl#L1)
 
 ### Version phpBB2
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`5`](../src/subsilver/posting_poll_body.tpl#L5), [`14`](../src/subsilver/posting_poll_body.tpl#L14)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`5`](../src/subsilver/posting_poll_body.tpl#L5), [`14`](../src/subsilver/posting_poll_body.tpl#L14)
 
 ### Version PunBB
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`3`](../src/punbb/posting_poll_body.tpl#L3)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`3`](../src/punbb/posting_poll_body.tpl#L3)
 
 ### Version Invision
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`1`](../src/invision/posting_poll_body.tpl#L1)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`1`](../src/invision/posting_poll_body.tpl#L1)
 

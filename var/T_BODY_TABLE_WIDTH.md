@@ -1,7 +1,7 @@
 # T_BODY_TABLE_WIDTH
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {T_BODY_TABLE_WIDTH}
@@ -13,5 +13,5 @@ Largeur du forum définie dans `PA > Général > Forum | Configuration > Largeur
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`245`](../src/subsilver/overall_header.tpl#L245)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`245`](../src/subsilver/overall_header.tpl#L245)
 

@@ -1,7 +1,7 @@
 # topics_list_box.row.header_table.switch_forum_options
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -24,5 +24,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`36`](../src/invision/topics_list_box.tpl#L36)[`<->`](../src/invision/topics_list_box.tpl#L36-L51)[`51`](../src/invision/topics_list_box.tpl#L51)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`36`](../src/invision/topics_list_box.tpl#L36)[`<->`](../src/invision/topics_list_box.tpl#L36-L51)[`51`](../src/invision/topics_list_box.tpl#L51)
 

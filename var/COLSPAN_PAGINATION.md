@@ -1,7 +1,7 @@
 # COLSPAN_PAGINATION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {COLSPAN_PAGINATION}
@@ -13,5 +13,5 @@ Attribue une valeur à colspan.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`286`](../src/subsilver/viewtopic_body.tpl#L286)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`286`](../src/subsilver/viewtopic_body.tpl#L286)
 

@@ -1,7 +1,7 @@
 # switch_no_user.COLSPAN_NUMBER
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_no_user -->
@@ -15,11 +15,11 @@ Contient le nombre de colonnes affichées.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`60`](../src/prosilver/memberlist_body.tpl#L60)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`60`](../src/prosilver/memberlist_body.tpl#L60)
 
 ### Version phpBB2
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`54`](../src/subsilver/memberlist_body.tpl#L54)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`54`](../src/subsilver/memberlist_body.tpl#L54)
 
 ### Version PunBB
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`93`](../src/punbb/memberlist_body.tpl#L93)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`93`](../src/punbb/memberlist_body.tpl#L93)
 

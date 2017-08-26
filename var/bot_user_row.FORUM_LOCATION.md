@@ -1,7 +1,7 @@
 # bot_user_row.FORUM_LOCATION
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN bot_user_row -->
@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`40`](../src/prosilver/viewonline_body.tpl#L40)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`40`](../src/prosilver/viewonline_body.tpl#L40)
 
 ### Version phpBB2
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`42`](../src/subsilver/viewonline_body.tpl#L42)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`42`](../src/subsilver/viewonline_body.tpl#L42)
 
 ### Version PunBB
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`58`](../src/punbb/viewonline_body.tpl#L58)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`58`](../src/punbb/viewonline_body.tpl#L58)
 
 ### Version Invision
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`33`](../src/invision/viewonline_body.tpl#L33)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`33`](../src/invision/viewonline_body.tpl#L33)
 

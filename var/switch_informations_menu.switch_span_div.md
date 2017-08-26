@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_span_div
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_informations_menu -->
@@ -20,8 +20,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`57`](../src/prosilver/profile_add_body.tpl#L57)[`<->`](../src/prosilver/profile_add_body.tpl#L57-L58)[`58`](../src/prosilver/profile_add_body.tpl#L58)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`57`](../src/prosilver/profile_add_body.tpl#L57)[`<->`](../src/prosilver/profile_add_body.tpl#L57-L58)[`58`](../src/prosilver/profile_add_body.tpl#L58)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`64`](../src/punbb/profile_add_body.tpl#L64)[`<->`](../src/punbb/profile_add_body.tpl#L64-L65)[`65`](../src/punbb/profile_add_body.tpl#L65)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`64`](../src/punbb/profile_add_body.tpl#L64)[`<->`](../src/punbb/profile_add_body.tpl#L64-L65)[`65`](../src/punbb/profile_add_body.tpl#L65)
 

@@ -1,7 +1,7 @@
 # L_POST_A
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_POST_A}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`10`](../src/prosilver/posting_body.tpl#L10), [`48`](../src/prosilver/posting_body.tpl#L48)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`10`](../src/prosilver/posting_body.tpl#L10), [`48`](../src/prosilver/posting_body.tpl#L48)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`85`](../src/subsilver/posting_body.tpl#L85)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`85`](../src/subsilver/posting_body.tpl#L85)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`61`](../src/punbb/posting_body.tpl#L61)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`61`](../src/punbb/posting_body.tpl#L61)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`40`](../src/invision/posting_body.tpl#L40)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`40`](../src/invision/posting_body.tpl#L40)
 

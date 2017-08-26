@@ -1,7 +1,7 @@
 # OPTIONAL_BAN
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`confirm_body`](../tpl/confirm_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`confirm_body`](../tpl/confirm_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {OPTIONAL_BAN}
@@ -20,5 +20,5 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`confirm_body`](../tpl/confirm_body.md#readme) :__ lignes [`15`](../src/subsilver/confirm_body.tpl#L15)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`15`](../src/subsilver/confirm_body.tpl#L15)
 

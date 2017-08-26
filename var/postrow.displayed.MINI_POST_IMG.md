@@ -1,7 +1,7 @@
 # postrow.displayed.MINI_POST_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -17,12 +17,12 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`139`](../src/prosilver/viewtopic_body.tpl#L139)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`139`](../src/prosilver/viewtopic_body.tpl#L139)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`145`](../src/subsilver/viewtopic_body.tpl#L145)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`145`](../src/subsilver/viewtopic_body.tpl#L145)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`178`](../src/invision/viewtopic_body.tpl#L178)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`178`](../src/invision/viewtopic_body.tpl#L178)
 

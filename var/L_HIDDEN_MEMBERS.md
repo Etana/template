@@ -1,7 +1,7 @@
 # L_HIDDEN_MEMBERS
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_HIDDEN_MEMBERS}
@@ -18,14 +18,14 @@ Texte remplacé en français par `Ce groupe est invisible, vous ne pouvez pas vo
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`94`](../src/prosilver/groupcp_info_body.tpl#L94)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`94`](../src/prosilver/groupcp_info_body.tpl#L94)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`82`](../src/subsilver/groupcp_info_body.tpl#L82)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`82`](../src/subsilver/groupcp_info_body.tpl#L82)
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`122`](../src/punbb/groupcp_info_body.tpl#L122)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`122`](../src/punbb/groupcp_info_body.tpl#L122)
 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`98`](../src/invision/groupcp_info_body.tpl#L98)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`98`](../src/invision/groupcp_info_body.tpl#L98)
 

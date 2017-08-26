@@ -1,7 +1,7 @@
 # topics_list_box.row.topic.table_sticky
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -31,14 +31,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`66`](../src/prosilver/topics_list_box.tpl#L66)[`<->`](../src/prosilver/topics_list_box.tpl#L66-L90)[`90`](../src/prosilver/topics_list_box.tpl#L90)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`66`](../src/prosilver/topics_list_box.tpl#L66)[`<->`](../src/prosilver/topics_list_box.tpl#L66-L90)[`90`](../src/prosilver/topics_list_box.tpl#L90)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`49`](../src/punbb/topics_list_box.tpl#L49)[`<->`](../src/punbb/topics_list_box.tpl#L49-L71)[`71`](../src/punbb/topics_list_box.tpl#L71)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`49`](../src/punbb/topics_list_box.tpl#L49)[`<->`](../src/punbb/topics_list_box.tpl#L49-L71)[`71`](../src/punbb/topics_list_box.tpl#L71)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`80`](../src/invision/topics_list_box.tpl#L80)[`<->`](../src/invision/topics_list_box.tpl#L80-L106)[`106`](../src/invision/topics_list_box.tpl#L106)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`80`](../src/invision/topics_list_box.tpl#L80)[`<->`](../src/invision/topics_list_box.tpl#L80-L106)[`106`](../src/invision/topics_list_box.tpl#L106)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`53`](../src/mobile/topics_list_box.tpl#L53)[`<->`](../src/mobile/topics_list_box.tpl#L53-L60)[`60`](../src/mobile/topics_list_box.tpl#L60)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`53`](../src/mobile/topics_list_box.tpl#L53)[`<->`](../src/mobile/topics_list_box.tpl#L53-L60)[`60`](../src/mobile/topics_list_box.tpl#L60)
 

@@ -1,7 +1,7 @@
 # T_BODY_BACKGROUND
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {T_BODY_BACKGROUND}
@@ -14,6 +14,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`204`](../src/subsilver/overall_header.tpl#L204)
-* __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`14`](../src/subsilver/simple_header.tpl#L14)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`204`](../src/subsilver/overall_header.tpl#L204)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`14`](../src/subsilver/simple_header.tpl#L14)
 

@@ -1,7 +1,7 @@
 # U_ACTION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`report_list_body`](../tpl/report_list_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {U_ACTION}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`1`](../src/subsilver/report_list_body.tpl#L1)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/report_list_body.tpl#L1)
 

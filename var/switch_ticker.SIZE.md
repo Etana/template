@@ -1,7 +1,7 @@
 # switch_ticker.SIZE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_ticker -->
@@ -15,14 +15,14 @@ Variable non utilisée.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`77`](../src/prosilver/overall_header.tpl#L77), [`112`](../src/prosilver/overall_header.tpl#L112)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`77`](../src/prosilver/overall_header.tpl#L77), [`112`](../src/prosilver/overall_header.tpl#L112)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`78`](../src/subsilver/overall_header.tpl#L78), [`109`](../src/subsilver/overall_header.tpl#L109)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`78`](../src/subsilver/overall_header.tpl#L78), [`109`](../src/subsilver/overall_header.tpl#L109)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`75`](../src/punbb/overall_header.tpl#L75), [`111`](../src/punbb/overall_header.tpl#L111)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`75`](../src/punbb/overall_header.tpl#L75), [`111`](../src/punbb/overall_header.tpl#L111)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`126`](../src/invision/overall_header.tpl#L126), [`160`](../src/invision/overall_header.tpl#L160)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`126`](../src/invision/overall_header.tpl#L126), [`160`](../src/invision/overall_header.tpl#L160)
 

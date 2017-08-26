@@ -1,7 +1,7 @@
 # switch_facebook_login.FB_AUTO_LOGOUT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_facebook_login -->
@@ -15,17 +15,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`49`](../src/prosilver/overall_footer_end.tpl#L49)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`49`](../src/prosilver/overall_footer_end.tpl#L49)
 
 ### Version phpBB2
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`39`](../src/subsilver/overall_footer_end.tpl#L39)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`39`](../src/subsilver/overall_footer_end.tpl#L39)
 
 ### Version PunBB
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`47`](../src/punbb/overall_footer_end.tpl#L47)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`47`](../src/punbb/overall_footer_end.tpl#L47)
 
 ### Version Invision
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`50`](../src/invision/overall_footer_end.tpl#L50)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`50`](../src/invision/overall_footer_end.tpl#L50)
 
 ### Version Version mobile
-* __[`overall_footer`](../tpl/overall_footer.md#readme) :__ lignes [`248`](../src/mobile/overall_footer.tpl#L248)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`248`](../src/mobile/overall_footer.tpl#L248)
 

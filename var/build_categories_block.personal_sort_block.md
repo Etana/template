@@ -1,7 +1,7 @@
 # build_categories_block.personal_sort_block
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`album_index_body`](../tpl/album_index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN build_categories_block -->
@@ -26,5 +26,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`64`](../src/subsilver/album_index_body.tpl#L64)[`<->`](../src/subsilver/album_index_body.tpl#L64-L75)[`75`](../src/subsilver/album_index_body.tpl#L75)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`64`](../src/subsilver/album_index_body.tpl#L64)[`<->`](../src/subsilver/album_index_body.tpl#L64-L75)[`75`](../src/subsilver/album_index_body.tpl#L75)
 

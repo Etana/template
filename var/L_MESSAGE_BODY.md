@@ -1,7 +1,7 @@
 # L_MESSAGE_BODY
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme), [`profile_send_email`](../tpl/profile_send_email.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme), [`profile_send_email`](../tpl/profile_send_email.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_MESSAGE_BODY}
@@ -13,18 +13,18 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`38`](../src/prosilver/profile_send_email.tpl#L38)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`38`](../src/prosilver/profile_send_email.tpl#L38)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`194`](../src/subsilver/posting_body.tpl#L194)
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`41`](../src/subsilver/profile_send_email.tpl#L41)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`194`](../src/subsilver/posting_body.tpl#L194)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`41`](../src/subsilver/profile_send_email.tpl#L41)
 
 ### Version PunBB
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`60`](../src/punbb/profile_send_email.tpl#L60)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`60`](../src/punbb/profile_send_email.tpl#L60)
 
 ### Version Invision
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`45`](../src/invision/profile_send_email.tpl#L45)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`45`](../src/invision/profile_send_email.tpl#L45)
 
 ### Version Version mobile
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`8`](../src/mobile/posting_body.tpl#L8)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`8`](../src/mobile/posting_body.tpl#L8)
 

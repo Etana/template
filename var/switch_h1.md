@@ -1,7 +1,7 @@
 # switch_h1
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_h1 -->
@@ -19,11 +19,11 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`259`](../src/prosilver/overall_header.tpl#L259)[`<->`](../src/prosilver/overall_header.tpl#L259-L261)[`261`](../src/prosilver/overall_header.tpl#L261)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`259`](../src/prosilver/overall_header.tpl#L259)[`<->`](../src/prosilver/overall_header.tpl#L259-L261)[`261`](../src/prosilver/overall_header.tpl#L261)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`251`](../src/punbb/overall_header.tpl#L251)[`<->`](../src/punbb/overall_header.tpl#L251-L253)[`253`](../src/punbb/overall_header.tpl#L253)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`251`](../src/punbb/overall_header.tpl#L251)[`<->`](../src/punbb/overall_header.tpl#L251-L253)[`253`](../src/punbb/overall_header.tpl#L253)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`257`](../src/invision/overall_header.tpl#L257)[`<->`](../src/invision/overall_header.tpl#L257-L259)[`259`](../src/invision/overall_header.tpl#L259)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`257`](../src/invision/overall_header.tpl#L257)[`<->`](../src/invision/overall_header.tpl#L257-L259)[`259`](../src/invision/overall_header.tpl#L259)
 

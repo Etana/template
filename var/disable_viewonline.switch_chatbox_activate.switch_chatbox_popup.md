@@ -1,7 +1,7 @@
 # disable_viewonline.switch_chatbox_activate.switch_chatbox_popup
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN disable_viewonline -->
@@ -23,14 +23,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`96`](../src/prosilver/index_body.tpl#L96)[`<->`](../src/prosilver/index_body.tpl#L96-L101)[`101`](../src/prosilver/index_body.tpl#L101)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`96`](../src/prosilver/index_body.tpl#L96)[`<->`](../src/prosilver/index_body.tpl#L96-L101)[`101`](../src/prosilver/index_body.tpl#L101)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`165`](../src/subsilver/index_body.tpl#L165)[`<->`](../src/subsilver/index_body.tpl#L165-L172)[`172`](../src/subsilver/index_body.tpl#L172)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`165`](../src/subsilver/index_body.tpl#L165)[`<->`](../src/subsilver/index_body.tpl#L165-L172)[`172`](../src/subsilver/index_body.tpl#L172)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`99`](../src/punbb/index_body.tpl#L99)[`<->`](../src/punbb/index_body.tpl#L99-L104)[`104`](../src/punbb/index_body.tpl#L104)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`99`](../src/punbb/index_body.tpl#L99)[`<->`](../src/punbb/index_body.tpl#L99-L104)[`104`](../src/punbb/index_body.tpl#L104)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`145`](../src/invision/index_body.tpl#L145)[`<->`](../src/invision/index_body.tpl#L145-L150)[`150`](../src/invision/index_body.tpl#L150)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`145`](../src/invision/index_body.tpl#L145)[`<->`](../src/invision/index_body.tpl#L145-L150)[`150`](../src/invision/index_body.tpl#L150)
 

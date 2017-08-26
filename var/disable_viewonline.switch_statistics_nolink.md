@@ -1,7 +1,7 @@
 # disable_viewonline.switch_statistics_nolink
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN disable_viewonline -->
@@ -20,8 +20,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`77`](../src/prosilver/index_body.tpl#L77)[`<->`](../src/prosilver/index_body.tpl#L77-L79)[`79`](../src/prosilver/index_body.tpl#L79)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`77`](../src/prosilver/index_body.tpl#L77)[`<->`](../src/prosilver/index_body.tpl#L77-L79)[`79`](../src/prosilver/index_body.tpl#L79)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`122`](../src/invision/index_body.tpl#L122)[`<->`](../src/invision/index_body.tpl#L122-L124)[`124`](../src/invision/index_body.tpl#L124)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`122`](../src/invision/index_body.tpl#L122)[`<->`](../src/invision/index_body.tpl#L122-L124)[`124`](../src/invision/index_body.tpl#L124)
 

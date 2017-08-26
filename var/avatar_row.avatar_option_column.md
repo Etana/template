@@ -1,7 +1,7 @@
 # avatar_row.avatar_option_column
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN avatar_row -->
@@ -21,5 +21,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`21`](../src/subsilver/profile_avatar_gallery.tpl#L21)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L21-L23)[`23`](../src/subsilver/profile_avatar_gallery.tpl#L23)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`21`](../src/subsilver/profile_avatar_gallery.tpl#L21)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L21-L23)[`23`](../src/subsilver/profile_avatar_gallery.tpl#L23)
 

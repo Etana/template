@@ -1,7 +1,7 @@
 # _calendar_box._row
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`calendar_box`](../tpl/calendar_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN _calendar_box -->
@@ -45,14 +45,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`29`](../src/prosilver/calendar_box.tpl#L29)[`<->`](../src/prosilver/calendar_box.tpl#L29-L67)[`67`](../src/prosilver/calendar_box.tpl#L67)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`29`](../src/prosilver/calendar_box.tpl#L29)[`<->`](../src/prosilver/calendar_box.tpl#L29-L67)[`67`](../src/prosilver/calendar_box.tpl#L67)
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`31`](../src/subsilver/calendar_box.tpl#L31)[`<->`](../src/subsilver/calendar_box.tpl#L31-L89)[`89`](../src/subsilver/calendar_box.tpl#L89)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`31`](../src/subsilver/calendar_box.tpl#L31)[`<->`](../src/subsilver/calendar_box.tpl#L31-L89)[`89`](../src/subsilver/calendar_box.tpl#L89)
 
 ### Version PunBB
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`23`](../src/punbb/calendar_box.tpl#L23)[`<->`](../src/punbb/calendar_box.tpl#L23-L61)[`61`](../src/punbb/calendar_box.tpl#L61)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`23`](../src/punbb/calendar_box.tpl#L23)[`<->`](../src/punbb/calendar_box.tpl#L23-L61)[`61`](../src/punbb/calendar_box.tpl#L61)
 
 ### Version Invision
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`30`](../src/invision/calendar_box.tpl#L30)[`<->`](../src/invision/calendar_box.tpl#L30-L71)[`71`](../src/invision/calendar_box.tpl#L71)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`30`](../src/invision/calendar_box.tpl#L30)[`<->`](../src/invision/calendar_box.tpl#L30-L71)[`71`](../src/invision/calendar_box.tpl#L71)
 

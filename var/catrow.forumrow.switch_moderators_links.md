@@ -1,7 +1,7 @@
 # catrow.forumrow.switch_moderators_links
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -24,14 +24,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`40`](../src/prosilver/index_box.tpl#L40)[`<->`](../src/prosilver/index_box.tpl#L40-L42)[`42`](../src/prosilver/index_box.tpl#L42)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`40`](../src/prosilver/index_box.tpl#L40)[`<->`](../src/prosilver/index_box.tpl#L40-L42)[`42`](../src/prosilver/index_box.tpl#L42)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`59`](../src/subsilver/index_box.tpl#L59)[`<->`](../src/subsilver/index_box.tpl#L59-L61)[`61`](../src/subsilver/index_box.tpl#L61)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`59`](../src/subsilver/index_box.tpl#L59)[`<->`](../src/subsilver/index_box.tpl#L59-L61)[`61`](../src/subsilver/index_box.tpl#L61)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`32`](../src/punbb/index_box.tpl#L32)[`<->`](../src/punbb/index_box.tpl#L32-L35)[`35`](../src/punbb/index_box.tpl#L35)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`32`](../src/punbb/index_box.tpl#L32)[`<->`](../src/punbb/index_box.tpl#L32-L35)[`35`](../src/punbb/index_box.tpl#L35)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`40`](../src/invision/index_box.tpl#L40)[`<->`](../src/invision/index_box.tpl#L40-L44)[`44`](../src/invision/index_box.tpl#L44)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`40`](../src/invision/index_box.tpl#L40)[`<->`](../src/invision/index_box.tpl#L40-L44)[`44`](../src/invision/index_box.tpl#L44)
 

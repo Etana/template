@@ -1,7 +1,7 @@
 # topics_list_box.row.REPLIES
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -17,17 +17,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`111`](../src/prosilver/topics_list_box.tpl#L111)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`111`](../src/prosilver/topics_list_box.tpl#L111)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`72`](../src/subsilver/topics_list_box.tpl#L72)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`72`](../src/subsilver/topics_list_box.tpl#L72)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`92`](../src/punbb/topics_list_box.tpl#L92)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`92`](../src/punbb/topics_list_box.tpl#L92)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`126`](../src/invision/topics_list_box.tpl#L126)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`126`](../src/invision/topics_list_box.tpl#L126)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`65`](../src/mobile/topics_list_box.tpl#L65)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`65`](../src/mobile/topics_list_box.tpl#L65)
 

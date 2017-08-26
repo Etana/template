@@ -1,7 +1,7 @@
 # rpg_fields.SEPARATOR
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN rpg_fields -->
@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`49`](../src/subsilver/rpg_sheet_edit.tpl#L49)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`49`](../src/subsilver/rpg_sheet_edit.tpl#L49)
 

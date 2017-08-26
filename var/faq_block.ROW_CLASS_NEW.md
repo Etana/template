@@ -1,7 +1,7 @@
 # faq_block.ROW_CLASS_NEW
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`faq_body`](../tpl/faq_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`faq_body`](../tpl/faq_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN faq_block -->
@@ -15,8 +15,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`20`](../src/prosilver/faq_body.tpl#L20)
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`20`](../src/prosilver/faq_body.tpl#L20)
 
 ### Version Invision
-* __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`25`](../src/invision/faq_body.tpl#L25)
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`25`](../src/invision/faq_body.tpl#L25)
 

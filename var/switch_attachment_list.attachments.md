@@ -1,7 +1,7 @@
 # switch_attachment_list.attachments
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_attachment_list -->
@@ -33,14 +33,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`240`](../src/prosilver/posting_body.tpl#L240)[`<->`](../src/prosilver/posting_body.tpl#L240-L264)[`264`](../src/prosilver/posting_body.tpl#L264)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`240`](../src/prosilver/posting_body.tpl#L240)[`<->`](../src/prosilver/posting_body.tpl#L240-L264)[`264`](../src/prosilver/posting_body.tpl#L264)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`344`](../src/subsilver/posting_body.tpl#L344)[`<->`](../src/subsilver/posting_body.tpl#L344-L376)[`376`](../src/subsilver/posting_body.tpl#L376)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`344`](../src/subsilver/posting_body.tpl#L344)[`<->`](../src/subsilver/posting_body.tpl#L344-L376)[`376`](../src/subsilver/posting_body.tpl#L376)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`264`](../src/punbb/posting_body.tpl#L264)[`<->`](../src/punbb/posting_body.tpl#L264-L286)[`286`](../src/punbb/posting_body.tpl#L286)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`264`](../src/punbb/posting_body.tpl#L264)[`<->`](../src/punbb/posting_body.tpl#L264-L286)[`286`](../src/punbb/posting_body.tpl#L286)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`185`](../src/invision/posting_body.tpl#L185)[`<->`](../src/invision/posting_body.tpl#L185-L207)[`207`](../src/invision/posting_body.tpl#L207)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`185`](../src/invision/posting_body.tpl#L185)[`<->`](../src/invision/posting_body.tpl#L185-L207)[`207`](../src/invision/posting_body.tpl#L207)
 

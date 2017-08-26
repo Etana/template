@@ -1,7 +1,7 @@
 # topics_list_box.row.footer_table
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -22,5 +22,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`102`](../src/subsilver/topics_list_box.tpl#L102)[`<->`](../src/subsilver/topics_list_box.tpl#L102-L103)[`103`](../src/subsilver/topics_list_box.tpl#L103)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`102`](../src/subsilver/topics_list_box.tpl#L102)[`<->`](../src/subsilver/topics_list_box.tpl#L102-L103)[`103`](../src/subsilver/topics_list_box.tpl#L103)
 

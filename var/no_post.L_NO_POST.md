@@ -1,7 +1,7 @@
 # no_post.L_NO_POST
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN no_post -->
@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`268`](../src/subsilver/viewtopic_body.tpl#L268)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`268`](../src/subsilver/viewtopic_body.tpl#L268)
 

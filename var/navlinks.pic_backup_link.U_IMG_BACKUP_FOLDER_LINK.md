@@ -1,7 +1,7 @@
 # navlinks.pic_backup_link.U_IMG_BACKUP_FOLDER_LINK
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN navlinks -->
@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`208`](../src/invision/album_cat_body.tpl#L208)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`208`](../src/invision/album_cat_body.tpl#L208)
 

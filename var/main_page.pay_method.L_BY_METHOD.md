@@ -1,7 +1,7 @@
 # main_page.pay_method.L_BY_METHOD
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN main_page -->
@@ -25,14 +25,14 @@ et `Une carte bancaire via Paypal`
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`27`](../src/prosilver/buy_credits.tpl#L27)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`27`](../src/prosilver/buy_credits.tpl#L27)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`39`](../src/subsilver/buy_credits.tpl#L39)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`39`](../src/subsilver/buy_credits.tpl#L39)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`48`](../src/punbb/buy_credits.tpl#L48)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`48`](../src/punbb/buy_credits.tpl#L48)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`34`](../src/invision/buy_credits.tpl#L34)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`34`](../src/invision/buy_credits.tpl#L34)
 

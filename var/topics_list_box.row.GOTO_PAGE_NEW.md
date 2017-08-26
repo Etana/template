@@ -1,7 +1,7 @@
 # topics_list_box.row.GOTO_PAGE_NEW
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -23,11 +23,11 @@ Remplacé par le code html d'un affichage des pages du sujet, si il y a plus une
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`107`](../src/prosilver/topics_list_box.tpl#L107)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`107`](../src/prosilver/topics_list_box.tpl#L107)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`85`](../src/punbb/topics_list_box.tpl#L85)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`85`](../src/punbb/topics_list_box.tpl#L85)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`124`](../src/invision/topics_list_box.tpl#L124)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`124`](../src/invision/topics_list_box.tpl#L124)
 

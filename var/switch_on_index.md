@@ -1,7 +1,7 @@
 # switch_on_index
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_on_index -->
@@ -22,14 +22,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`84`](../src/prosilver/index_box.tpl#L84)[`<->`](../src/prosilver/index_box.tpl#L84-L93)[`93`](../src/prosilver/index_box.tpl#L93)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`84`](../src/prosilver/index_box.tpl#L84)[`<->`](../src/prosilver/index_box.tpl#L84-L93)[`93`](../src/prosilver/index_box.tpl#L93)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`78`](../src/subsilver/index_body.tpl#L78)[`<->`](../src/subsilver/index_body.tpl#L78-L82)[`82`](../src/subsilver/index_body.tpl#L82)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`78`](../src/subsilver/index_body.tpl#L78)[`<->`](../src/subsilver/index_body.tpl#L78-L82)[`82`](../src/subsilver/index_body.tpl#L82)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`74`](../src/punbb/index_box.tpl#L74)[`<->`](../src/punbb/index_box.tpl#L74-L87)[`87`](../src/punbb/index_box.tpl#L87)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`74`](../src/punbb/index_box.tpl#L74)[`<->`](../src/punbb/index_box.tpl#L74-L87)[`87`](../src/punbb/index_box.tpl#L87)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`86`](../src/invision/index_box.tpl#L86)[`<->`](../src/invision/index_box.tpl#L86-L97)[`97`](../src/invision/index_box.tpl#L97)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`86`](../src/invision/index_box.tpl#L86)[`<->`](../src/invision/index_box.tpl#L86-L97)[`97`](../src/invision/index_box.tpl#L97)
 

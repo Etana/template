@@ -1,7 +1,7 @@
 # out_giefmod0.MODVAR
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`portal_body`](../tpl/portal_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN out_giefmod0 -->
@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`6`](../src/punbb/portal_body.tpl#L6)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`6`](../src/punbb/portal_body.tpl#L6)
 

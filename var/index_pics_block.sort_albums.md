@@ -1,7 +1,7 @@
 # index_pics_block.sort_albums
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN index_pics_block -->
@@ -20,5 +20,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`80`](../src/subsilver/album_cat_body.tpl#L80)[`<->`](../src/subsilver/album_cat_body.tpl#L80-L101)[`101`](../src/subsilver/album_cat_body.tpl#L101)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`80`](../src/subsilver/album_cat_body.tpl#L80)[`<->`](../src/subsilver/album_cat_body.tpl#L80-L101)[`101`](../src/subsilver/album_cat_body.tpl#L101)
 

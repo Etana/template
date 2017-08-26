@@ -1,7 +1,7 @@
 # index_pics_block
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN index_pics_block -->
@@ -39,14 +39,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`27`](../src/prosilver/album_cat_body.tpl#L27)[`<->`](../src/prosilver/album_cat_body.tpl#L27-L50)[`50`](../src/prosilver/album_cat_body.tpl#L50)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`27`](../src/prosilver/album_cat_body.tpl#L27)[`<->`](../src/prosilver/album_cat_body.tpl#L27-L50)[`50`](../src/prosilver/album_cat_body.tpl#L50)
 
 ### Version phpBB2
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`30`](../src/subsilver/album_cat_body.tpl#L30)[`<->`](../src/subsilver/album_cat_body.tpl#L30-L103)[`103`](../src/subsilver/album_cat_body.tpl#L103)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/album_cat_body.tpl#L30)[`<->`](../src/subsilver/album_cat_body.tpl#L30-L103)[`103`](../src/subsilver/album_cat_body.tpl#L103)
 
 ### Version PunBB
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`30`](../src/punbb/album_cat_body.tpl#L30)[`<->`](../src/punbb/album_cat_body.tpl#L30-L50)[`50`](../src/punbb/album_cat_body.tpl#L50)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`30`](../src/punbb/album_cat_body.tpl#L30)[`<->`](../src/punbb/album_cat_body.tpl#L30-L50)[`50`](../src/punbb/album_cat_body.tpl#L50)
 
 ### Version Invision
-* __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`29`](../src/invision/album_cat_body.tpl#L29)[`<->`](../src/invision/album_cat_body.tpl#L29-L60)[`60`](../src/invision/album_cat_body.tpl#L60)
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`29`](../src/invision/album_cat_body.tpl#L29)[`<->`](../src/invision/album_cat_body.tpl#L29-L60)[`60`](../src/invision/album_cat_body.tpl#L60)
 

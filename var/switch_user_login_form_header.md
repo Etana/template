@@ -1,7 +1,7 @@
 # switch_user_login_form_header
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_user_login_form_header -->
@@ -22,14 +22,14 @@ Boucle d'affichage si vous avez activé la connexion rapide en haut de la page d
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`6`](../src/prosilver/index_body.tpl#L6)[`<->`](../src/prosilver/index_body.tpl#L6-L27)[`27`](../src/prosilver/index_body.tpl#L27)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/index_body.tpl#L6)[`<->`](../src/prosilver/index_body.tpl#L6-L27)[`27`](../src/prosilver/index_body.tpl#L27)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`19`](../src/subsilver/index_body.tpl#L19)[`<->`](../src/subsilver/index_body.tpl#L19-L59)[`59`](../src/subsilver/index_body.tpl#L59)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`19`](../src/subsilver/index_body.tpl#L19)[`<->`](../src/subsilver/index_body.tpl#L19-L59)[`59`](../src/subsilver/index_body.tpl#L59)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`35`](../src/punbb/index_body.tpl#L35)[`<->`](../src/punbb/index_body.tpl#L35-L57)[`57`](../src/punbb/index_body.tpl#L57)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`35`](../src/punbb/index_body.tpl#L35)[`<->`](../src/punbb/index_body.tpl#L35-L57)[`57`](../src/punbb/index_body.tpl#L57)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`20`](../src/invision/index_body.tpl#L20)[`<->`](../src/invision/index_body.tpl#L20-L42)[`42`](../src/invision/index_body.tpl#L42)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`20`](../src/invision/index_body.tpl#L20)[`<->`](../src/invision/index_body.tpl#L20-L42)[`42`](../src/invision/index_body.tpl#L42)
 

@@ -1,7 +1,7 @@
 # birthday_list_box.row.SITEWEB
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN birthday_list_box -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`17`](../src/prosilver/birthday_list_box.tpl#L17)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`17`](../src/prosilver/birthday_list_box.tpl#L17)
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`27`](../src/subsilver/birthday_list_box.tpl#L27)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`27`](../src/subsilver/birthday_list_box.tpl#L27)
 
 ### Version PunBB
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`11`](../src/punbb/birthday_list_box.tpl#L11)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`11`](../src/punbb/birthday_list_box.tpl#L11)
 
 ### Version Invision
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`12`](../src/invision/birthday_list_box.tpl#L12)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`12`](../src/invision/birthday_list_box.tpl#L12)
 

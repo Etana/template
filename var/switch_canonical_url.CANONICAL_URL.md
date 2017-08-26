@@ -1,7 +1,7 @@
 # switch_canonical_url.CANONICAL_URL
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_canonical_url -->
@@ -15,17 +15,17 @@ Contient l'adresse URL de la balise link rel canonical qui est liée au duplicat
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/prosilver/overall_header.tpl#L12)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`12`](../src/prosilver/overall_header.tpl#L12)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/subsilver/overall_header.tpl#L12)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`12`](../src/subsilver/overall_header.tpl#L12)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/punbb/overall_header.tpl#L12)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`12`](../src/punbb/overall_header.tpl#L12)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`12`](../src/invision/overall_header.tpl#L12)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`12`](../src/invision/overall_header.tpl#L12)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`7`](../src/mobile/overall_header.tpl#L7)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`7`](../src/mobile/overall_header.tpl#L7)
 

@@ -1,7 +1,7 @@
 # U_VIEW_OLDER_TOPIC
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {U_VIEW_OLDER_TOPIC}
@@ -21,14 +21,14 @@ Si il n'y a pas de sujet suivant ces conditions, en allant à l'adresse une page
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`107`](../src/prosilver/viewtopic_body.tpl#L107), [`252`](../src/prosilver/viewtopic_body.tpl#L252)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`107`](../src/prosilver/viewtopic_body.tpl#L107), [`252`](../src/prosilver/viewtopic_body.tpl#L252)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`107`](../src/subsilver/viewtopic_body.tpl#L107), [`278`](../src/subsilver/viewtopic_body.tpl#L278)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`107`](../src/subsilver/viewtopic_body.tpl#L107), [`278`](../src/subsilver/viewtopic_body.tpl#L278)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/punbb/viewtopic_body.tpl#L116), [`261`](../src/punbb/viewtopic_body.tpl#L261)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`116`](../src/punbb/viewtopic_body.tpl#L116), [`261`](../src/punbb/viewtopic_body.tpl#L261)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`292`](../src/invision/viewtopic_body.tpl#L292)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`292`](../src/invision/viewtopic_body.tpl#L292)
 

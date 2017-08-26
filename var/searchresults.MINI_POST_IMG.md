@@ -1,7 +1,7 @@
 # searchresults.MINI_POST_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`search_results_posts`](../tpl/search_results_posts.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN searchresults -->
@@ -15,5 +15,5 @@ Contient la petite image des sujets définie dans `PA > Affichage > Images et Co
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`39`](../src/subsilver/search_results_posts.tpl#L39)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`39`](../src/subsilver/search_results_posts.tpl#L39)
 

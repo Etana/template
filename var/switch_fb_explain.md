@@ -1,7 +1,7 @@
 # switch_fb_explain
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`agreement`](../tpl/agreement.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_fb_explain -->
@@ -19,14 +19,14 @@ Le contenu de la boucle est affiché si Facebook Connect est activé dans `PA > 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`5`](../src/prosilver/agreement.tpl#L5)[`<->`](../src/prosilver/agreement.tpl#L5-L14)[`14`](../src/prosilver/agreement.tpl#L14)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`5`](../src/prosilver/agreement.tpl#L5)[`<->`](../src/prosilver/agreement.tpl#L5-L14)[`14`](../src/prosilver/agreement.tpl#L14)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`10`](../src/subsilver/agreement.tpl#L10)[`<->`](../src/subsilver/agreement.tpl#L10-L21)[`21`](../src/subsilver/agreement.tpl#L21)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`10`](../src/subsilver/agreement.tpl#L10)[`<->`](../src/subsilver/agreement.tpl#L10-L21)[`21`](../src/subsilver/agreement.tpl#L21)
 
 ### Version PunBB
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`20`](../src/punbb/agreement.tpl#L20)[`<->`](../src/punbb/agreement.tpl#L20-L26)[`26`](../src/punbb/agreement.tpl#L26)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`20`](../src/punbb/agreement.tpl#L20)[`<->`](../src/punbb/agreement.tpl#L20-L26)[`26`](../src/punbb/agreement.tpl#L26)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`23`](../src/invision/agreement.tpl#L23)[`<->`](../src/invision/agreement.tpl#L23-L31)[`31`](../src/invision/agreement.tpl#L31)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`23`](../src/invision/agreement.tpl#L23)[`<->`](../src/invision/agreement.tpl#L23-L31)[`31`](../src/invision/agreement.tpl#L31)
 

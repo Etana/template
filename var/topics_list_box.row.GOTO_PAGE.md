@@ -1,7 +1,7 @@
 # topics_list_box.row.GOTO_PAGE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -25,5 +25,5 @@ L'image utilisée est celle spécifiée pour `Mini sujet` dans [`Index`](http://
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/subsilver/topics_list_box.tpl#L69)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`69`](../src/subsilver/topics_list_box.tpl#L69)
 

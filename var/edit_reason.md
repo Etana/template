@@ -1,7 +1,7 @@
 # edit_reason
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN edit_reason -->
@@ -20,14 +20,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`156`](../src/prosilver/posting_body.tpl#L156)[`<->`](../src/prosilver/posting_body.tpl#L156-L162)[`162`](../src/prosilver/posting_body.tpl#L162)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`156`](../src/prosilver/posting_body.tpl#L156)[`<->`](../src/prosilver/posting_body.tpl#L156-L162)[`162`](../src/prosilver/posting_body.tpl#L162)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`224`](../src/subsilver/posting_body.tpl#L224)[`<->`](../src/subsilver/posting_body.tpl#L224-L229)[`229`](../src/subsilver/posting_body.tpl#L229)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`224`](../src/subsilver/posting_body.tpl#L224)[`<->`](../src/subsilver/posting_body.tpl#L224-L229)[`229`](../src/subsilver/posting_body.tpl#L229)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`173`](../src/punbb/posting_body.tpl#L173)[`<->`](../src/punbb/posting_body.tpl#L173-L179)[`179`](../src/punbb/posting_body.tpl#L179)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`173`](../src/punbb/posting_body.tpl#L173)[`<->`](../src/punbb/posting_body.tpl#L173-L179)[`179`](../src/punbb/posting_body.tpl#L179)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`152`](../src/invision/posting_body.tpl#L152)[`<->`](../src/invision/posting_body.tpl#L152-L160)[`160`](../src/invision/posting_body.tpl#L160)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`152`](../src/invision/posting_body.tpl#L152)[`<->`](../src/invision/posting_body.tpl#L152-L160)[`160`](../src/invision/posting_body.tpl#L160)
 

@@ -1,7 +1,7 @@
 # switch_on_index.switch_user_logged_in
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_on_index -->
@@ -20,5 +20,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`92`](../src/invision/index_box.tpl#L92)[`<->`](../src/invision/index_box.tpl#L92-L94)[`94`](../src/invision/index_box.tpl#L94)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`92`](../src/invision/index_box.tpl#L92)[`<->`](../src/invision/index_box.tpl#L92-L94)[`94`](../src/invision/index_box.tpl#L94)
 

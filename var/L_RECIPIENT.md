@@ -1,7 +1,7 @@
 # L_RECIPIENT
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`profile_send_email`](../tpl/profile_send_email.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`profile_send_email`](../tpl/profile_send_email.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_RECIPIENT}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`12`](../src/prosilver/profile_send_email.tpl#L12)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`12`](../src/prosilver/profile_send_email.tpl#L12)
 
 ### Version phpBB2
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`13`](../src/subsilver/profile_send_email.tpl#L13)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`13`](../src/subsilver/profile_send_email.tpl#L13)
 
 ### Version PunBB
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`34`](../src/punbb/profile_send_email.tpl#L34)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`34`](../src/punbb/profile_send_email.tpl#L34)
 
 ### Version Invision
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`19`](../src/invision/profile_send_email.tpl#L19)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`19`](../src/invision/profile_send_email.tpl#L19)
 

@@ -1,7 +1,7 @@
 # TOTAL_USERS_ONLINE
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {TOTAL_USERS_ONLINE}
@@ -47,18 +47,18 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`57`](../src/prosilver/index_body.tpl#L57)
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`5`](../src/prosilver/mod_whoisonline.tpl#L5)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`57`](../src/prosilver/index_body.tpl#L57)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`5`](../src/prosilver/mod_whoisonline.tpl#L5)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`150`](../src/subsilver/index_body.tpl#L150)
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`9`](../src/subsilver/mod_whoisonline.tpl#L9)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`150`](../src/subsilver/index_body.tpl#L150)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`9`](../src/subsilver/mod_whoisonline.tpl#L9)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`80`](../src/punbb/index_body.tpl#L80)
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`4`](../src/punbb/mod_whoisonline.tpl#L4)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`80`](../src/punbb/index_body.tpl#L80)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`4`](../src/punbb/mod_whoisonline.tpl#L4)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`88`](../src/invision/index_body.tpl#L88)
-* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`4`](../src/invision/mod_whoisonline.tpl#L4)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`88`](../src/invision/index_body.tpl#L88)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`4`](../src/invision/mod_whoisonline.tpl#L4)
 

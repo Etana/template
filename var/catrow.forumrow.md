@@ -1,7 +1,7 @@
 # catrow.forumrow
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -57,17 +57,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`29`](../src/prosilver/index_box.tpl#L29)[`<->`](../src/prosilver/index_box.tpl#L29-L74)[`74`](../src/prosilver/index_box.tpl#L74)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`29`](../src/prosilver/index_box.tpl#L29)[`<->`](../src/prosilver/index_box.tpl#L29-L74)[`74`](../src/prosilver/index_box.tpl#L74)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`43`](../src/subsilver/index_box.tpl#L43)[`<->`](../src/subsilver/index_box.tpl#L43-L90)[`90`](../src/subsilver/index_box.tpl#L90)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`43`](../src/subsilver/index_box.tpl#L43)[`<->`](../src/subsilver/index_box.tpl#L43-L90)[`90`](../src/subsilver/index_box.tpl#L90)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`23`](../src/punbb/index_box.tpl#L23)[`<->`](../src/punbb/index_box.tpl#L23-L64)[`64`](../src/punbb/index_box.tpl#L64)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`23`](../src/punbb/index_box.tpl#L23)[`<->`](../src/punbb/index_box.tpl#L23-L64)[`64`](../src/punbb/index_box.tpl#L64)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`30`](../src/invision/index_box.tpl#L30)[`<->`](../src/invision/index_box.tpl#L30-L76)[`76`](../src/invision/index_box.tpl#L76)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`30`](../src/invision/index_box.tpl#L30)[`<->`](../src/invision/index_box.tpl#L30-L76)[`76`](../src/invision/index_box.tpl#L76)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`7`](../src/mobile/index_box.tpl#L7)[`<->`](../src/mobile/index_box.tpl#L7-L28)[`28`](../src/mobile/index_box.tpl#L28)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`7`](../src/mobile/index_box.tpl#L7)[`<->`](../src/mobile/index_box.tpl#L7-L28)[`28`](../src/mobile/index_box.tpl#L28)
 

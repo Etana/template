@@ -1,7 +1,7 @@
 # postrow.L_TOPIC_BY
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`modcp_split`](../tpl/modcp_split.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`modcp_split`](../tpl/modcp_split.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -15,6 +15,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`44`](../src/prosilver/modcp_split.tpl#L44)
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`10`](../src/prosilver/privmsg_topic_review.tpl#L10)
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`44`](../src/prosilver/modcp_split.tpl#L44)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`10`](../src/prosilver/privmsg_topic_review.tpl#L10)
 

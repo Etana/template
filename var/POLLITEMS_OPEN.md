@@ -1,7 +1,7 @@
 # POLLITEMS_OPEN
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_poll_body`](../tpl/posting_poll_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {POLLITEMS_OPEN}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`10`](../src/subsilver/posting_poll_body.tpl#L10)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`10`](../src/subsilver/posting_poll_body.tpl#L10)
 

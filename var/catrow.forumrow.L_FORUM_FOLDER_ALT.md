@@ -1,7 +1,7 @@
 # catrow.forumrow.L_FORUM_FOLDER_ALT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -17,14 +17,14 @@ Contient l'information (alt) sur l'ic√¥ne du forum correspondant au forum boucl√
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`49`](../src/subsilver/index_box.tpl#L49), [`49`](../src/subsilver/index_box.tpl#L49)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`49`](../src/subsilver/index_box.tpl#L49), [`49`](../src/subsilver/index_box.tpl#L49)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`27`](../src/punbb/index_box.tpl#L27), [`27`](../src/punbb/index_box.tpl#L27)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`27`](../src/punbb/index_box.tpl#L27), [`27`](../src/punbb/index_box.tpl#L27)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`34`](../src/invision/index_box.tpl#L34), [`34`](../src/invision/index_box.tpl#L34)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`34`](../src/invision/index_box.tpl#L34), [`34`](../src/invision/index_box.tpl#L34)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`9`](../src/mobile/index_box.tpl#L9)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`9`](../src/mobile/index_box.tpl#L9)
 

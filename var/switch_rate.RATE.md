@@ -1,7 +1,7 @@
 # switch_rate.RATE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`album_overview_top10`](../tpl/album_overview_top10.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`album_overview_top10`](../tpl/album_overview_top10.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_rate -->
@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`16`](../src/prosilver/album_overview_top10.tpl#L16)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`16`](../src/prosilver/album_overview_top10.tpl#L16)
 
 ### Version phpBB2
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`24`](../src/subsilver/album_overview_top10.tpl#L24)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`24`](../src/subsilver/album_overview_top10.tpl#L24)
 
 ### Version PunBB
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`14`](../src/punbb/album_overview_top10.tpl#L14)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`14`](../src/punbb/album_overview_top10.tpl#L14)
 
 ### Version Invision
-* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme) :__ lignes [`15`](../src/invision/album_overview_top10.tpl#L15)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`15`](../src/invision/album_overview_top10.tpl#L15)
 

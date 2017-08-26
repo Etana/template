@@ -1,7 +1,7 @@
 # message_admin_index.message_admin_titre
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN message_admin_index -->
@@ -21,14 +21,14 @@ Boucle contenant le titre du message d'accueil.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`32`](../src/prosilver/index_body.tpl#L32)[`<->`](../src/prosilver/index_body.tpl#L32-L34)[`34`](../src/prosilver/index_body.tpl#L34)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`32`](../src/prosilver/index_body.tpl#L32)[`<->`](../src/prosilver/index_body.tpl#L32-L34)[`34`](../src/prosilver/index_body.tpl#L34)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`4`](../src/subsilver/index_body.tpl#L4)[`<->`](../src/subsilver/index_body.tpl#L4-L8)[`8`](../src/subsilver/index_body.tpl#L8)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`4`](../src/subsilver/index_body.tpl#L4)[`<->`](../src/subsilver/index_body.tpl#L4-L8)[`8`](../src/subsilver/index_body.tpl#L8)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`21`](../src/punbb/index_body.tpl#L21)[`<->`](../src/punbb/index_body.tpl#L21-L25)[`25`](../src/punbb/index_body.tpl#L25)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`21`](../src/punbb/index_body.tpl#L21)[`<->`](../src/punbb/index_body.tpl#L21-L25)[`25`](../src/punbb/index_body.tpl#L25)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`10`](../src/invision/index_body.tpl#L10)[`<->`](../src/invision/index_body.tpl#L10-L12)[`12`](../src/invision/index_body.tpl#L12)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`10`](../src/invision/index_body.tpl#L10)[`<->`](../src/invision/index_body.tpl#L10-L12)[`12`](../src/invision/index_body.tpl#L12)
 

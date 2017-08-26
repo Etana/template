@@ -1,7 +1,7 @@
 # pending_members_row.WWW_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN pending_members_row -->
@@ -21,14 +21,14 @@ Image `Visiter le site web du posteur` ( choisie dans [`Index`](http://votre-for
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`26`](../src/prosilver/groupcp_pending_info.tpl#L26)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`26`](../src/prosilver/groupcp_pending_info.tpl#L26)
 
 ### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`21`](../src/subsilver/groupcp_pending_info.tpl#L21)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`21`](../src/subsilver/groupcp_pending_info.tpl#L21)
 
 ### Version PunBB
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`27`](../src/punbb/groupcp_pending_info.tpl#L27)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`27`](../src/punbb/groupcp_pending_info.tpl#L27)
 
 ### Version Invision
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`24`](../src/invision/groupcp_pending_info.tpl#L24)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`24`](../src/invision/groupcp_pending_info.tpl#L24)
 

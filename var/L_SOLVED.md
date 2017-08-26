@@ -1,7 +1,7 @@
 # L_SOLVED
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_SOLVED}
@@ -13,14 +13,14 @@ Affiche le texte [résolu] dans le titre des sujets
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`316`](../src/prosilver/posting_body.tpl#L316)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`316`](../src/prosilver/posting_body.tpl#L316)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`477`](../src/subsilver/posting_body.tpl#L477)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`477`](../src/subsilver/posting_body.tpl#L477)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`368`](../src/punbb/posting_body.tpl#L368)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`368`](../src/punbb/posting_body.tpl#L368)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`287`](../src/invision/posting_body.tpl#L287)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`287`](../src/invision/posting_body.tpl#L287)
 

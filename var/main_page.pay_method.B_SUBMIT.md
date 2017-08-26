@@ -1,7 +1,7 @@
 # main_page.pay_method.B_SUBMIT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN main_page -->
@@ -17,14 +17,14 @@ Affiche le bouton "Paiements via PayPal".
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`30`](../src/prosilver/buy_credits.tpl#L30)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`30`](../src/prosilver/buy_credits.tpl#L30)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`42`](../src/subsilver/buy_credits.tpl#L42)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`42`](../src/subsilver/buy_credits.tpl#L42)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`51`](../src/punbb/buy_credits.tpl#L51)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`51`](../src/punbb/buy_credits.tpl#L51)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`37`](../src/invision/buy_credits.tpl#L37)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`37`](../src/invision/buy_credits.tpl#L37)
 

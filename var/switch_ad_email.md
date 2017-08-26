@@ -1,7 +1,7 @@
 # switch_ad_email
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`profile_send_email`](../tpl/profile_send_email.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`profile_send_email`](../tpl/profile_send_email.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_ad_email -->
@@ -24,14 +24,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`16`](../src/prosilver/profile_send_email.tpl#L16)[`<->`](../src/prosilver/profile_send_email.tpl#L16-L25)[`25`](../src/prosilver/profile_send_email.tpl#L25)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`16`](../src/prosilver/profile_send_email.tpl#L16)[`<->`](../src/prosilver/profile_send_email.tpl#L16-L25)[`25`](../src/prosilver/profile_send_email.tpl#L25)
 
 ### Version phpBB2
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`17`](../src/subsilver/profile_send_email.tpl#L17)[`<->`](../src/subsilver/profile_send_email.tpl#L17-L26)[`26`](../src/subsilver/profile_send_email.tpl#L26)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`17`](../src/subsilver/profile_send_email.tpl#L17)[`<->`](../src/subsilver/profile_send_email.tpl#L17-L26)[`26`](../src/subsilver/profile_send_email.tpl#L26)
 
 ### Version PunBB
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`38`](../src/punbb/profile_send_email.tpl#L38)[`<->`](../src/punbb/profile_send_email.tpl#L38-L47)[`47`](../src/punbb/profile_send_email.tpl#L47)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`38`](../src/punbb/profile_send_email.tpl#L38)[`<->`](../src/punbb/profile_send_email.tpl#L38-L47)[`47`](../src/punbb/profile_send_email.tpl#L47)
 
 ### Version Invision
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`23`](../src/invision/profile_send_email.tpl#L23)[`<->`](../src/invision/profile_send_email.tpl#L23-L32)[`32`](../src/invision/profile_send_email.tpl#L32)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`23`](../src/invision/profile_send_email.tpl#L23)[`<->`](../src/invision/profile_send_email.tpl#L23-L32)[`32`](../src/invision/profile_send_email.tpl#L32)
 

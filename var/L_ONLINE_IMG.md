@@ -1,7 +1,7 @@
 # L_ONLINE_IMG
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_ONLINE_IMG}
@@ -20,14 +20,14 @@ Lien de l'image spécifiée dans `Général / navigation > Qui est en ligne ?`.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`56`](../src/prosilver/index_body.tpl#L56)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/index_body.tpl#L56)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`144`](../src/subsilver/index_body.tpl#L144)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`144`](../src/subsilver/index_body.tpl#L144)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`71`](../src/punbb/index_body.tpl#L71)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`71`](../src/punbb/index_body.tpl#L71)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`86`](../src/invision/index_body.tpl#L86)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`86`](../src/invision/index_body.tpl#L86)
 

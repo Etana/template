@@ -1,7 +1,7 @@
 # show_plus_menu
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN show_plus_menu -->
@@ -18,8 +18,8 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`9`](../src/prosilver/viewforum_body.tpl#L9)[`<->`](../src/prosilver/viewforum_body.tpl#L9-L20)[`20`](../src/prosilver/viewforum_body.tpl#L20)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`9`](../src/prosilver/viewforum_body.tpl#L9)[`<->`](../src/prosilver/viewforum_body.tpl#L9-L20)[`20`](../src/prosilver/viewforum_body.tpl#L20)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`14`](../src/subsilver/viewforum_body.tpl#L14)[`<->`](../src/subsilver/viewforum_body.tpl#L14-L27)[`27`](../src/subsilver/viewforum_body.tpl#L27)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`14`](../src/subsilver/viewforum_body.tpl#L14)[`<->`](../src/subsilver/viewforum_body.tpl#L14-L27)[`27`](../src/subsilver/viewforum_body.tpl#L27)
 

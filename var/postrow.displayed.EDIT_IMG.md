@@ -1,7 +1,7 @@
 # postrow.displayed.EDIT_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -17,17 +17,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`132`](../src/prosilver/viewtopic_body.tpl#L132)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`132`](../src/prosilver/viewtopic_body.tpl#L132)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`147`](../src/subsilver/viewtopic_body.tpl#L147)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`147`](../src/subsilver/viewtopic_body.tpl#L147)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`244`](../src/punbb/viewtopic_body.tpl#L244)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`244`](../src/punbb/viewtopic_body.tpl#L244)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`270`](../src/invision/viewtopic_body.tpl#L270)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`270`](../src/invision/viewtopic_body.tpl#L270)
 
 ### Version Version mobile
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`86`](../src/mobile/viewtopic_body.tpl#L86)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`86`](../src/mobile/viewtopic_body.tpl#L86)
 

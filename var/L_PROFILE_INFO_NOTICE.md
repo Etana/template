@@ -1,7 +1,7 @@
 # L_PROFILE_INFO_NOTICE
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_PROFILE_INFO_NOTICE}
@@ -13,8 +13,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`83`](../src/prosilver/profile_add_body.tpl#L83)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`83`](../src/prosilver/profile_add_body.tpl#L83)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`70`](../src/invision/profile_add_body.tpl#L70)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`70`](../src/invision/profile_add_body.tpl#L70)
 

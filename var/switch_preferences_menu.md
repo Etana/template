@@ -1,7 +1,7 @@
 # switch_preferences_menu
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_preferences_menu -->
@@ -41,14 +41,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`152`](../src/prosilver/profile_add_body.tpl#L152)[`<->`](../src/prosilver/profile_add_body.tpl#L152-L324)[`324`](../src/prosilver/profile_add_body.tpl#L324)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`152`](../src/prosilver/profile_add_body.tpl#L152)[`<->`](../src/prosilver/profile_add_body.tpl#L152-L324)[`324`](../src/prosilver/profile_add_body.tpl#L324)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`123`](../src/subsilver/profile_add_body.tpl#L123)[`<->`](../src/subsilver/profile_add_body.tpl#L123-L289)[`289`](../src/subsilver/profile_add_body.tpl#L289)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`123`](../src/subsilver/profile_add_body.tpl#L123)[`<->`](../src/subsilver/profile_add_body.tpl#L123-L289)[`289`](../src/subsilver/profile_add_body.tpl#L289)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`172`](../src/punbb/profile_add_body.tpl#L172)[`<->`](../src/punbb/profile_add_body.tpl#L172-L329)[`329`](../src/punbb/profile_add_body.tpl#L329)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`172`](../src/punbb/profile_add_body.tpl#L172)[`<->`](../src/punbb/profile_add_body.tpl#L172-L329)[`329`](../src/punbb/profile_add_body.tpl#L329)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`196`](../src/invision/profile_add_body.tpl#L196)[`<->`](../src/invision/profile_add_body.tpl#L196-L403)[`403`](../src/invision/profile_add_body.tpl#L403)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`196`](../src/invision/profile_add_body.tpl#L196)[`<->`](../src/invision/profile_add_body.tpl#L196-L403)[`403`](../src/invision/profile_add_body.tpl#L403)
 

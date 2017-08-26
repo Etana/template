@@ -1,7 +1,7 @@
 # userrow
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`modcp_viewip`](../tpl/modcp_viewip.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN userrow -->
@@ -25,14 +25,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`56`](../src/prosilver/modcp_viewip.tpl#L56)[`<->`](../src/prosilver/modcp_viewip.tpl#L56-L61)[`61`](../src/prosilver/modcp_viewip.tpl#L61)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`56`](../src/prosilver/modcp_viewip.tpl#L56)[`<->`](../src/prosilver/modcp_viewip.tpl#L56-L61)[`61`](../src/prosilver/modcp_viewip.tpl#L61)
 
 ### Version phpBB2
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`48`](../src/subsilver/modcp_viewip.tpl#L48)[`<->`](../src/subsilver/modcp_viewip.tpl#L48-L59)[`59`](../src/subsilver/modcp_viewip.tpl#L59)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`48`](../src/subsilver/modcp_viewip.tpl#L48)[`<->`](../src/subsilver/modcp_viewip.tpl#L48-L59)[`59`](../src/subsilver/modcp_viewip.tpl#L59)
 
 ### Version PunBB
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`79`](../src/punbb/modcp_viewip.tpl#L79)[`<->`](../src/punbb/modcp_viewip.tpl#L79-L84)[`84`](../src/punbb/modcp_viewip.tpl#L84)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`79`](../src/punbb/modcp_viewip.tpl#L79)[`<->`](../src/punbb/modcp_viewip.tpl#L79-L84)[`84`](../src/punbb/modcp_viewip.tpl#L84)
 
 ### Version Invision
-* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme) :__ lignes [`57`](../src/invision/modcp_viewip.tpl#L57)[`<->`](../src/invision/modcp_viewip.tpl#L57-L62)[`62`](../src/invision/modcp_viewip.tpl#L62)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`57`](../src/invision/modcp_viewip.tpl#L57)[`<->`](../src/invision/modcp_viewip.tpl#L57-L62)[`62`](../src/invision/modcp_viewip.tpl#L62)
 

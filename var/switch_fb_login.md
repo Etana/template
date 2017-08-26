@@ -1,7 +1,7 @@
 # switch_fb_login
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_fb_login -->
@@ -20,17 +20,17 @@ Boucle s'affichant si vous avez activé Facebook Connect dans `PA > Modules > Fa
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`31`](../src/prosilver/overall_header.tpl#L31)[`<->`](../src/prosilver/overall_header.tpl#L31-L34)[`34`](../src/prosilver/overall_header.tpl#L34)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/prosilver/overall_header.tpl#L31)[`<->`](../src/prosilver/overall_header.tpl#L31-L34)[`34`](../src/prosilver/overall_header.tpl#L34)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`31`](../src/subsilver/overall_header.tpl#L31)[`<->`](../src/subsilver/overall_header.tpl#L31-L34)[`34`](../src/subsilver/overall_header.tpl#L34)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/subsilver/overall_header.tpl#L31)[`<->`](../src/subsilver/overall_header.tpl#L31-L34)[`34`](../src/subsilver/overall_header.tpl#L34)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`31`](../src/punbb/overall_header.tpl#L31)[`<->`](../src/punbb/overall_header.tpl#L31-L34)[`34`](../src/punbb/overall_header.tpl#L34)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/punbb/overall_header.tpl#L31)[`<->`](../src/punbb/overall_header.tpl#L31-L34)[`34`](../src/punbb/overall_header.tpl#L34)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`31`](../src/invision/overall_header.tpl#L31)[`<->`](../src/invision/overall_header.tpl#L31-L34)[`34`](../src/invision/overall_header.tpl#L34)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/invision/overall_header.tpl#L31)[`<->`](../src/invision/overall_header.tpl#L31-L34)[`34`](../src/invision/overall_header.tpl#L34)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`20`](../src/mobile/overall_header.tpl#L20)[`<->`](../src/mobile/overall_header.tpl#L20-L23)[`23`](../src/mobile/overall_header.tpl#L23)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/mobile/overall_header.tpl#L20)[`<->`](../src/mobile/overall_header.tpl#L20-L23)[`23`](../src/mobile/overall_header.tpl#L23)
 

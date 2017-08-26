@@ -1,7 +1,7 @@
 # scrolling_row.recent_topic_row
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN scrolling_row -->
@@ -29,14 +29,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`10`](../src/prosilver/mod_recent_topics.tpl#L10)[`<->`](../src/prosilver/mod_recent_topics.tpl#L10-L21)[`21`](../src/prosilver/mod_recent_topics.tpl#L21)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`10`](../src/prosilver/mod_recent_topics.tpl#L10)[`<->`](../src/prosilver/mod_recent_topics.tpl#L10-L21)[`21`](../src/prosilver/mod_recent_topics.tpl#L21)
 
 ### Version phpBB2
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`12`](../src/subsilver/mod_recent_topics.tpl#L12)[`<->`](../src/subsilver/mod_recent_topics.tpl#L12-L23)[`23`](../src/subsilver/mod_recent_topics.tpl#L23)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`12`](../src/subsilver/mod_recent_topics.tpl#L12)[`<->`](../src/subsilver/mod_recent_topics.tpl#L12-L23)[`23`](../src/subsilver/mod_recent_topics.tpl#L23)
 
 ### Version PunBB
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`7`](../src/punbb/mod_recent_topics.tpl#L7)[`<->`](../src/punbb/mod_recent_topics.tpl#L7-L18)[`18`](../src/punbb/mod_recent_topics.tpl#L18)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`7`](../src/punbb/mod_recent_topics.tpl#L7)[`<->`](../src/punbb/mod_recent_topics.tpl#L7-L18)[`18`](../src/punbb/mod_recent_topics.tpl#L18)
 
 ### Version Invision
-* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme) :__ lignes [`8`](../src/invision/mod_recent_topics.tpl#L8)[`<->`](../src/invision/mod_recent_topics.tpl#L8-L19)[`19`](../src/invision/mod_recent_topics.tpl#L19)
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`8`](../src/invision/mod_recent_topics.tpl#L8)[`<->`](../src/invision/mod_recent_topics.tpl#L8-L19)[`19`](../src/invision/mod_recent_topics.tpl#L19)
 

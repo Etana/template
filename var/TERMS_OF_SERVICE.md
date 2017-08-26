@@ -1,7 +1,7 @@
 # TERMS_OF_SERVICE
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {TERMS_OF_SERVICE}
@@ -21,14 +21,14 @@ En cas de problème avec un paiement, veuillez nous contacter en postant un mess
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`14`](../src/prosilver/buy_credits.tpl#L14)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`14`](../src/prosilver/buy_credits.tpl#L14)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`23`](../src/subsilver/buy_credits.tpl#L23)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`23`](../src/subsilver/buy_credits.tpl#L23)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`35`](../src/punbb/buy_credits.tpl#L35)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`35`](../src/punbb/buy_credits.tpl#L35)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`20`](../src/invision/buy_credits.tpl#L20)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`20`](../src/invision/buy_credits.tpl#L20)
 

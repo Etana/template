@@ -1,7 +1,7 @@
 # catrow.forumrow.FORUM_FOLDER_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -17,14 +17,14 @@ Contient l'icône du forum correspondant au forum bouclé (nouveaux messages, pa
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`31`](../src/prosilver/index_box.tpl#L31)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`31`](../src/prosilver/index_box.tpl#L31)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`49`](../src/subsilver/index_box.tpl#L49)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`49`](../src/subsilver/index_box.tpl#L49)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`27`](../src/punbb/index_box.tpl#L27)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`27`](../src/punbb/index_box.tpl#L27)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`34`](../src/invision/index_box.tpl#L34)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`34`](../src/invision/index_box.tpl#L34)
 

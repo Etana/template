@@ -1,7 +1,7 @@
 # topics_list_box.row.GOTO_OPEN
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -17,5 +17,5 @@ Remplacé par `[` si il y a plus d'une page dans le sujet.
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`85`](../src/punbb/topics_list_box.tpl#L85)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`85`](../src/punbb/topics_list_box.tpl#L85)
 

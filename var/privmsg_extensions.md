@@ -1,7 +1,7 @@
 # privmsg_extensions
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN privmsg_extensions -->
@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`3`](../src/subsilver/posting_body.tpl#L3)[`<->`](../src/subsilver/posting_body.tpl#L3-L23)[`23`](../src/subsilver/posting_body.tpl#L23)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`3`](../src/subsilver/posting_body.tpl#L3)[`<->`](../src/subsilver/posting_body.tpl#L3-L23)[`23`](../src/subsilver/posting_body.tpl#L23)
 

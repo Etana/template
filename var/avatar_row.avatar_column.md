@@ -1,7 +1,7 @@
 # avatar_row.avatar_column
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN avatar_row -->
@@ -24,14 +24,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`10`](../src/prosilver/profile_avatar_gallery.tpl#L10)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L10-L17)[`17`](../src/prosilver/profile_avatar_gallery.tpl#L17)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`10`](../src/prosilver/profile_avatar_gallery.tpl#L10)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L10-L17)[`17`](../src/prosilver/profile_avatar_gallery.tpl#L17)
 
 ### Version phpBB2
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`16`](../src/subsilver/profile_avatar_gallery.tpl#L16)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L16-L18)[`18`](../src/subsilver/profile_avatar_gallery.tpl#L18)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`16`](../src/subsilver/profile_avatar_gallery.tpl#L16)[`<->`](../src/subsilver/profile_avatar_gallery.tpl#L16-L18)[`18`](../src/subsilver/profile_avatar_gallery.tpl#L18)
 
 ### Version PunBB
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`28`](../src/punbb/profile_avatar_gallery.tpl#L28)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L28-L36)[`36`](../src/punbb/profile_avatar_gallery.tpl#L36)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`28`](../src/punbb/profile_avatar_gallery.tpl#L28)[`<->`](../src/punbb/profile_avatar_gallery.tpl#L28-L36)[`36`](../src/punbb/profile_avatar_gallery.tpl#L36)
 
 ### Version Invision
-* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`15`](../src/invision/profile_avatar_gallery.tpl#L15)[`<->`](../src/invision/profile_avatar_gallery.tpl#L15-L22)[`22`](../src/invision/profile_avatar_gallery.tpl#L22)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`15`](../src/invision/profile_avatar_gallery.tpl#L15)[`<->`](../src/invision/profile_avatar_gallery.tpl#L15-L22)[`22`](../src/invision/profile_avatar_gallery.tpl#L22)
 

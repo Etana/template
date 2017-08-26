@@ -1,7 +1,7 @@
 # switch_roll_dice.S_DICE_ROLLS_VALUE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_roll_dice -->
@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`225`](../src/prosilver/posting_body.tpl#L225)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`225`](../src/prosilver/posting_body.tpl#L225)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`323`](../src/subsilver/posting_body.tpl#L323)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`323`](../src/subsilver/posting_body.tpl#L323)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`250`](../src/punbb/posting_body.tpl#L250)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`250`](../src/punbb/posting_body.tpl#L250)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`175`](../src/invision/posting_body.tpl#L175)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`175`](../src/invision/posting_body.tpl#L175)
 

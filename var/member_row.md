@@ -1,7 +1,7 @@
 # member_row
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN member_row -->
@@ -31,14 +31,14 @@ Bouclage sur les éventuels membres du groupe ( hormis le modérateur ) :
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`76`](../src/prosilver/groupcp_info_body.tpl#L76)[`<->`](../src/prosilver/groupcp_info_body.tpl#L76-L86)[`86`](../src/prosilver/groupcp_info_body.tpl#L86)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`76`](../src/prosilver/groupcp_info_body.tpl#L76)[`<->`](../src/prosilver/groupcp_info_body.tpl#L76-L86)[`86`](../src/prosilver/groupcp_info_body.tpl#L86)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`64`](../src/subsilver/groupcp_info_body.tpl#L64)[`<->`](../src/subsilver/groupcp_info_body.tpl#L64-L74)[`74`](../src/subsilver/groupcp_info_body.tpl#L74)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`64`](../src/subsilver/groupcp_info_body.tpl#L64)[`<->`](../src/subsilver/groupcp_info_body.tpl#L64-L74)[`74`](../src/subsilver/groupcp_info_body.tpl#L74)
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`104`](../src/punbb/groupcp_info_body.tpl#L104)[`<->`](../src/punbb/groupcp_info_body.tpl#L104-L114)[`114`](../src/punbb/groupcp_info_body.tpl#L114)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`104`](../src/punbb/groupcp_info_body.tpl#L104)[`<->`](../src/punbb/groupcp_info_body.tpl#L104-L114)[`114`](../src/punbb/groupcp_info_body.tpl#L114)
 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`80`](../src/invision/groupcp_info_body.tpl#L80)[`<->`](../src/invision/groupcp_info_body.tpl#L80-L90)[`90`](../src/invision/groupcp_info_body.tpl#L90)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`80`](../src/invision/groupcp_info_body.tpl#L80)[`<->`](../src/invision/groupcp_info_body.tpl#L80-L90)[`90`](../src/invision/groupcp_info_body.tpl#L90)
 

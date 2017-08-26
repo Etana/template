@@ -1,7 +1,7 @@
 # _calendar_box._row._cell.switch_filled._event.switch_event_no._more
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`calendar_box`](../tpl/calendar_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN _calendar_box -->
@@ -30,5 +30,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`66`](../src/subsilver/calendar_box.tpl#L66)[`<->`](../src/subsilver/calendar_box.tpl#L66-L68)[`68`](../src/subsilver/calendar_box.tpl#L68)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`66`](../src/subsilver/calendar_box.tpl#L66)[`<->`](../src/subsilver/calendar_box.tpl#L66-L68)[`68`](../src/subsilver/calendar_box.tpl#L68)
 

@@ -1,7 +1,7 @@
 # switch_attachment_list.attachments.switch_is_orphan
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_attachment_list -->
@@ -23,14 +23,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`244`](../src/prosilver/posting_body.tpl#L244)[`<->`](../src/prosilver/posting_body.tpl#L244-L246)[`246`](../src/prosilver/posting_body.tpl#L246)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`244`](../src/prosilver/posting_body.tpl#L244)[`<->`](../src/prosilver/posting_body.tpl#L244-L246)[`246`](../src/prosilver/posting_body.tpl#L246)
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`350`](../src/subsilver/posting_body.tpl#L350)[`<->`](../src/subsilver/posting_body.tpl#L350-L352)[`352`](../src/subsilver/posting_body.tpl#L352)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`350`](../src/subsilver/posting_body.tpl#L350)[`<->`](../src/subsilver/posting_body.tpl#L350-L352)[`352`](../src/subsilver/posting_body.tpl#L352)
 
 ### Version PunBB
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`268`](../src/punbb/posting_body.tpl#L268)[`<->`](../src/punbb/posting_body.tpl#L268-L270)[`270`](../src/punbb/posting_body.tpl#L270)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`268`](../src/punbb/posting_body.tpl#L268)[`<->`](../src/punbb/posting_body.tpl#L268-L270)[`270`](../src/punbb/posting_body.tpl#L270)
 
 ### Version Invision
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`189`](../src/invision/posting_body.tpl#L189)[`<->`](../src/invision/posting_body.tpl#L189-L191)[`191`](../src/invision/posting_body.tpl#L191)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`189`](../src/invision/posting_body.tpl#L189)[`<->`](../src/invision/posting_body.tpl#L189-L191)[`191`](../src/invision/posting_body.tpl#L191)
 

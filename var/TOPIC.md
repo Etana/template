@@ -1,7 +1,7 @@
 # TOPIC
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme), [`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme), [`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN TOPIC -->
@@ -22,18 +22,18 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme) :__ lignes [`6`](../src/prosilver/mod_most_active_topics.tpl#L6)[`<->`](../src/prosilver/mod_most_active_topics.tpl#L6-L10)[`10`](../src/prosilver/mod_most_active_topics.tpl#L10)
-* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`6`](../src/prosilver/mod_most_viewed_topics.tpl#L6)[`<->`](../src/prosilver/mod_most_viewed_topics.tpl#L6-L10)[`10`](../src/prosilver/mod_most_viewed_topics.tpl#L10)
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_most_active_topics.tpl#L6)[`<->`](../src/prosilver/mod_most_active_topics.tpl#L6-L10)[`10`](../src/prosilver/mod_most_active_topics.tpl#L10)
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_most_viewed_topics.tpl#L6)[`<->`](../src/prosilver/mod_most_viewed_topics.tpl#L6-L10)[`10`](../src/prosilver/mod_most_viewed_topics.tpl#L10)
 
 ### Version phpBB2
-* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme) :__ lignes [`8`](../src/subsilver/mod_most_active_topics.tpl#L8)[`<->`](../src/subsilver/mod_most_active_topics.tpl#L8-L12)[`12`](../src/subsilver/mod_most_active_topics.tpl#L12)
-* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`8`](../src/subsilver/mod_most_viewed_topics.tpl#L8)[`<->`](../src/subsilver/mod_most_viewed_topics.tpl#L8-L12)[`12`](../src/subsilver/mod_most_viewed_topics.tpl#L12)
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`8`](../src/subsilver/mod_most_active_topics.tpl#L8)[`<->`](../src/subsilver/mod_most_active_topics.tpl#L8-L12)[`12`](../src/subsilver/mod_most_active_topics.tpl#L12)
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`8`](../src/subsilver/mod_most_viewed_topics.tpl#L8)[`<->`](../src/subsilver/mod_most_viewed_topics.tpl#L8-L12)[`12`](../src/subsilver/mod_most_viewed_topics.tpl#L12)
 
 ### Version PunBB
-* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme) :__ lignes [`5`](../src/punbb/mod_most_active_topics.tpl#L5)[`<->`](../src/punbb/mod_most_active_topics.tpl#L5-L9)[`9`](../src/punbb/mod_most_active_topics.tpl#L9)
-* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`5`](../src/punbb/mod_most_viewed_topics.tpl#L5)[`<->`](../src/punbb/mod_most_viewed_topics.tpl#L5-L9)[`9`](../src/punbb/mod_most_viewed_topics.tpl#L9)
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_most_active_topics.tpl#L5)[`<->`](../src/punbb/mod_most_active_topics.tpl#L5-L9)[`9`](../src/punbb/mod_most_active_topics.tpl#L9)
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_most_viewed_topics.tpl#L5)[`<->`](../src/punbb/mod_most_viewed_topics.tpl#L5-L9)[`9`](../src/punbb/mod_most_viewed_topics.tpl#L9)
 
 ### Version Invision
-* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme) :__ lignes [`5`](../src/invision/mod_most_active_topics.tpl#L5)[`<->`](../src/invision/mod_most_active_topics.tpl#L5-L9)[`9`](../src/invision/mod_most_active_topics.tpl#L9)
-* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme) :__ lignes [`5`](../src/invision/mod_most_viewed_topics.tpl#L5)[`<->`](../src/invision/mod_most_viewed_topics.tpl#L5-L9)[`9`](../src/invision/mod_most_viewed_topics.tpl#L9)
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`5`](../src/invision/mod_most_active_topics.tpl#L5)[`<->`](../src/invision/mod_most_active_topics.tpl#L5-L9)[`9`](../src/invision/mod_most_active_topics.tpl#L9)
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`5`](../src/invision/mod_most_viewed_topics.tpl#L5)[`<->`](../src/invision/mod_most_viewed_topics.tpl#L5-L9)[`9`](../src/invision/mod_most_viewed_topics.tpl#L9)
 

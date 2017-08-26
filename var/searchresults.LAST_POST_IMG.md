@@ -1,7 +1,7 @@
 # searchresults.LAST_POST_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN searchresults -->
@@ -15,14 +15,14 @@ Contient l'image du lien vers dernier message posté définie dans `PA > Afficha
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`43`](../src/prosilver/search_results_topics.tpl#L43)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`43`](../src/prosilver/search_results_topics.tpl#L43)
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`46`](../src/subsilver/search_results_topics.tpl#L46)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`46`](../src/subsilver/search_results_topics.tpl#L46)
 
 ### Version PunBB
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`62`](../src/punbb/search_results_topics.tpl#L62)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`62`](../src/punbb/search_results_topics.tpl#L62)
 
 ### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`54`](../src/invision/search_results_topics.tpl#L54)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`54`](../src/invision/search_results_topics.tpl#L54)
 

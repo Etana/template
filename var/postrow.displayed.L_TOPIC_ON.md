@@ -1,7 +1,7 @@
 # postrow.displayed.L_TOPIC_ON
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)
 
 ### Version PunBB
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`14`](../src/punbb/posting_topic_review.tpl#L14)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`14`](../src/punbb/posting_topic_review.tpl#L14)
 
 ### Version Invision
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`24`](../src/invision/posting_topic_review.tpl#L24)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`24`](../src/invision/posting_topic_review.tpl#L24)
 

@@ -1,7 +1,7 @@
 # LEGEND
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {LEGEND}
@@ -15,14 +15,14 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`68`](../src/prosilver/index_body.tpl#L68)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`68`](../src/prosilver/index_body.tpl#L68)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`159`](../src/subsilver/index_body.tpl#L159)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`159`](../src/subsilver/index_body.tpl#L159)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`91`](../src/punbb/index_body.tpl#L91)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`91`](../src/punbb/index_body.tpl#L91)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`90`](../src/invision/index_body.tpl#L90)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`90`](../src/invision/index_body.tpl#L90)
 

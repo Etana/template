@@ -1,7 +1,7 @@
 # CHATBOX_BOTTOM
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {CHATBOX_BOTTOM}
@@ -13,14 +13,14 @@ Affiche la chatbox sur la page d'accueil en bas si l'option dans `PA > Modules >
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`105`](../src/prosilver/index_body.tpl#L105)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`105`](../src/prosilver/index_body.tpl#L105)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`179`](../src/subsilver/index_body.tpl#L179)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`179`](../src/subsilver/index_body.tpl#L179)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`134`](../src/punbb/index_body.tpl#L134)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`134`](../src/punbb/index_body.tpl#L134)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`161`](../src/invision/index_body.tpl#L161)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`161`](../src/invision/index_body.tpl#L161)
 

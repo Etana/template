@@ -1,7 +1,7 @@
 # L_FORUM_LOCATION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_FORUM_LOCATION}
@@ -15,14 +15,14 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`25`](../src/prosilver/viewonline_body.tpl#L25)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`25`](../src/prosilver/viewonline_body.tpl#L25)
 
 ### Version phpBB2
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`20`](../src/subsilver/viewonline_body.tpl#L20)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`20`](../src/subsilver/viewonline_body.tpl#L20)
 
 ### Version PunBB
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`43`](../src/punbb/viewonline_body.tpl#L43)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`43`](../src/punbb/viewonline_body.tpl#L43)
 
 ### Version Invision
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`18`](../src/invision/viewonline_body.tpl#L18)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`18`](../src/invision/viewonline_body.tpl#L18)
 

@@ -1,7 +1,7 @@
 # postrow.displayed.ONLINE_IMG_NEW
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`123`](../src/prosilver/viewtopic_body.tpl#L123)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`123`](../src/prosilver/viewtopic_body.tpl#L123)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`118`](../src/invision/viewtopic_body.tpl#L118)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`118`](../src/invision/viewtopic_body.tpl#L118)
 
 ### Version Version mobile
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`47`](../src/mobile/viewtopic_body.tpl#L47)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`47`](../src/mobile/viewtopic_body.tpl#L47)
 

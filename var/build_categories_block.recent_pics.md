@@ -1,7 +1,7 @@
 # build_categories_block.recent_pics
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`album_index_body`](../tpl/album_index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`album_index_body`](../tpl/album_index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN build_categories_block -->
@@ -42,14 +42,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`20`](../src/prosilver/album_index_body.tpl#L20)[`<->`](../src/prosilver/album_index_body.tpl#L20-L36)[`36`](../src/prosilver/album_index_body.tpl#L36)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`20`](../src/prosilver/album_index_body.tpl#L20)[`<->`](../src/prosilver/album_index_body.tpl#L20-L36)[`36`](../src/prosilver/album_index_body.tpl#L36)
 
 ### Version phpBB2
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`16`](../src/subsilver/album_index_body.tpl#L16)[`<->`](../src/subsilver/album_index_body.tpl#L16-L63)[`63`](../src/subsilver/album_index_body.tpl#L63)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`16`](../src/subsilver/album_index_body.tpl#L16)[`<->`](../src/subsilver/album_index_body.tpl#L16-L63)[`63`](../src/subsilver/album_index_body.tpl#L63)
 
 ### Version PunBB
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`25`](../src/punbb/album_index_body.tpl#L25)[`<->`](../src/punbb/album_index_body.tpl#L25-L45)[`45`](../src/punbb/album_index_body.tpl#L45)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`25`](../src/punbb/album_index_body.tpl#L25)[`<->`](../src/punbb/album_index_body.tpl#L25-L45)[`45`](../src/punbb/album_index_body.tpl#L45)
 
 ### Version Invision
-* __[`album_index_body`](../tpl/album_index_body.md#readme) :__ lignes [`22`](../src/invision/album_index_body.tpl#L22)[`<->`](../src/invision/album_index_body.tpl#L22-L53)[`53`](../src/invision/album_index_body.tpl#L53)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`22`](../src/invision/album_index_body.tpl#L22)[`<->`](../src/invision/album_index_body.tpl#L22-L53)[`53`](../src/invision/album_index_body.tpl#L53)
 

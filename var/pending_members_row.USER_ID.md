@@ -1,7 +1,7 @@
 # pending_members_row.USER_ID
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN pending_members_row -->
@@ -15,14 +15,14 @@ Identifiant numérique du membre sur lequel on boucle.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`27`](../src/prosilver/groupcp_pending_info.tpl#L27)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`27`](../src/prosilver/groupcp_pending_info.tpl#L27)
 
 ### Version phpBB2
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`22`](../src/subsilver/groupcp_pending_info.tpl#L22)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`22`](../src/subsilver/groupcp_pending_info.tpl#L22)
 
 ### Version PunBB
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`28`](../src/punbb/groupcp_pending_info.tpl#L28)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`28`](../src/punbb/groupcp_pending_info.tpl#L28)
 
 ### Version Invision
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes [`25`](../src/invision/groupcp_pending_info.tpl#L25)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`25`](../src/invision/groupcp_pending_info.tpl#L25)
 

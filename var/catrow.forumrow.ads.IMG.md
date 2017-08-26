@@ -1,7 +1,7 @@
 # catrow.forumrow.ads.IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -19,17 +19,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`52`](../src/prosilver/index_box.tpl#L52)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`52`](../src/prosilver/index_box.tpl#L52)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`74`](../src/subsilver/index_box.tpl#L74)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`74`](../src/subsilver/index_box.tpl#L74)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`44`](../src/punbb/index_box.tpl#L44)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`44`](../src/punbb/index_box.tpl#L44)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`56`](../src/invision/index_box.tpl#L56)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`56`](../src/invision/index_box.tpl#L56)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`16`](../src/mobile/index_box.tpl#L16)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`16`](../src/mobile/index_box.tpl#L16)
 

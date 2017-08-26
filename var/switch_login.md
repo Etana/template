@@ -1,7 +1,7 @@
 # switch_login
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`mod_login`](../tpl/mod_login.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_login -->
@@ -21,14 +21,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`4`](../src/prosilver/mod_login.tpl#L4)[`<->`](../src/prosilver/mod_login.tpl#L4-L47)[`47`](../src/prosilver/mod_login.tpl#L47)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_login.tpl#L4)[`<->`](../src/prosilver/mod_login.tpl#L4-L47)[`47`](../src/prosilver/mod_login.tpl#L47)
 
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`1`](../src/subsilver/mod_login.tpl#L1)[`<->`](../src/subsilver/mod_login.tpl#L1-L50)[`50`](../src/subsilver/mod_login.tpl#L50)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`1`](../src/subsilver/mod_login.tpl#L1)[`<->`](../src/subsilver/mod_login.tpl#L1-L50)[`50`](../src/subsilver/mod_login.tpl#L50)
 
 ### Version PunBB
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`2`](../src/punbb/mod_login.tpl#L2)[`<->`](../src/punbb/mod_login.tpl#L2-L38)[`38`](../src/punbb/mod_login.tpl#L38)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`2`](../src/punbb/mod_login.tpl#L2)[`<->`](../src/punbb/mod_login.tpl#L2-L38)[`38`](../src/punbb/mod_login.tpl#L38)
 
 ### Version Invision
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`3`](../src/invision/mod_login.tpl#L3)[`<->`](../src/invision/mod_login.tpl#L3-L41)[`41`](../src/invision/mod_login.tpl#L41)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`3`](../src/invision/mod_login.tpl#L3)[`<->`](../src/invision/mod_login.tpl#L3-L41)[`41`](../src/invision/mod_login.tpl#L41)
 

@@ -1,7 +1,7 @@
 # switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_UNLINK_FB_ACCOUNT_EXPLAIN
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_preferences_menu -->
@@ -19,14 +19,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`202`](../src/prosilver/profile_add_body.tpl#L202)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`202`](../src/prosilver/profile_add_body.tpl#L202)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`173`](../src/subsilver/profile_add_body.tpl#L173)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`173`](../src/subsilver/profile_add_body.tpl#L173)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`220`](../src/punbb/profile_add_body.tpl#L220)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`220`](../src/punbb/profile_add_body.tpl#L220)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`253`](../src/invision/profile_add_body.tpl#L253)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`253`](../src/invision/profile_add_body.tpl#L253)
 

@@ -1,7 +1,7 @@
 # switch_informations_menu.switch_namechange_allowed
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_informations_menu -->
@@ -20,14 +20,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`27`](../src/prosilver/profile_add_body.tpl#L27)[`<->`](../src/prosilver/profile_add_body.tpl#L27-L32)[`32`](../src/prosilver/profile_add_body.tpl#L32)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`27`](../src/prosilver/profile_add_body.tpl#L27)[`<->`](../src/prosilver/profile_add_body.tpl#L27-L32)[`32`](../src/prosilver/profile_add_body.tpl#L32)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`21`](../src/subsilver/profile_add_body.tpl#L21)[`<->`](../src/subsilver/profile_add_body.tpl#L21-L26)[`26`](../src/subsilver/profile_add_body.tpl#L26)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`21`](../src/subsilver/profile_add_body.tpl#L21)[`<->`](../src/subsilver/profile_add_body.tpl#L21-L26)[`26`](../src/subsilver/profile_add_body.tpl#L26)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`36`](../src/punbb/profile_add_body.tpl#L36)[`<->`](../src/punbb/profile_add_body.tpl#L36-L41)[`41`](../src/punbb/profile_add_body.tpl#L41)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`36`](../src/punbb/profile_add_body.tpl#L36)[`<->`](../src/punbb/profile_add_body.tpl#L36-L41)[`41`](../src/punbb/profile_add_body.tpl#L41)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`33`](../src/invision/profile_add_body.tpl#L33)[`<->`](../src/invision/profile_add_body.tpl#L33-L36)[`36`](../src/invision/profile_add_body.tpl#L36)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`33`](../src/invision/profile_add_body.tpl#L33)[`<->`](../src/invision/profile_add_body.tpl#L33-L36)[`36`](../src/invision/profile_add_body.tpl#L36)
 

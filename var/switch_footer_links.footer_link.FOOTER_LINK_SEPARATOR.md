@@ -1,7 +1,7 @@
 # switch_footer_links.footer_link.FOOTER_LINK_SEPARATOR
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_footer_links -->
@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`22`](../src/prosilver/overall_footer_end.tpl#L22)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`22`](../src/prosilver/overall_footer_end.tpl#L22)
 
 ### Version PunBB
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`21`](../src/punbb/overall_footer_end.tpl#L21)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`21`](../src/punbb/overall_footer_end.tpl#L21)
 
 ### Version Invision
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`23`](../src/invision/overall_footer_end.tpl#L23)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`23`](../src/invision/overall_footer_end.tpl#L23)
 

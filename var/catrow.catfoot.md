@@ -1,7 +1,7 @@
 # catrow.catfoot
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -23,5 +23,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`91`](../src/subsilver/index_box.tpl#L91)[`<->`](../src/subsilver/index_box.tpl#L91-L98)[`98`](../src/subsilver/index_box.tpl#L98)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`91`](../src/subsilver/index_box.tpl#L91)[`<->`](../src/subsilver/index_box.tpl#L91-L98)[`98`](../src/subsilver/index_box.tpl#L98)
 

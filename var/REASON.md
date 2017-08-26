@@ -1,7 +1,7 @@
 # REASON
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`posting_body`](../tpl/posting_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {REASON}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`98`](../src/subsilver/posting_body.tpl#L98)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`98`](../src/subsilver/posting_body.tpl#L98)
 

@@ -1,7 +1,7 @@
 # table_row.L_TITRE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`standard`](../tpl/standard.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`standard`](../tpl/standard.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN table_row -->
@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`4`](../src/prosilver/standard.tpl#L4)
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`4`](../src/prosilver/standard.tpl#L4)
 
 ### Version phpBB2
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`5`](../src/subsilver/standard.tpl#L5)
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`5`](../src/subsilver/standard.tpl#L5)
 
 ### Version PunBB
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`3`](../src/punbb/standard.tpl#L3)
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`3`](../src/punbb/standard.tpl#L3)
 
 ### Version Invision
-* __[`standard`](../tpl/standard.md#readme) :__ lignes [`3`](../src/invision/standard.tpl#L3)
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`3`](../src/invision/standard.tpl#L3)
 

@@ -1,7 +1,7 @@
 # switch_avatar_block.switch_avatar_faceyourmanga_alternate.ONCLICK_FYM
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_avatar_block -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`356`](../src/prosilver/profile_add_body.tpl#L356), [`358`](../src/prosilver/profile_add_body.tpl#L358)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`356`](../src/prosilver/profile_add_body.tpl#L356), [`358`](../src/prosilver/profile_add_body.tpl#L358)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`319`](../src/subsilver/profile_add_body.tpl#L319), [`321`](../src/subsilver/profile_add_body.tpl#L321)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`319`](../src/subsilver/profile_add_body.tpl#L319), [`321`](../src/subsilver/profile_add_body.tpl#L321)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`358`](../src/punbb/profile_add_body.tpl#L358), [`360`](../src/punbb/profile_add_body.tpl#L360)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`358`](../src/punbb/profile_add_body.tpl#L358), [`360`](../src/punbb/profile_add_body.tpl#L360)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`433`](../src/invision/profile_add_body.tpl#L433), [`435`](../src/invision/profile_add_body.tpl#L435)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`433`](../src/invision/profile_add_body.tpl#L433), [`435`](../src/invision/profile_add_body.tpl#L435)
 

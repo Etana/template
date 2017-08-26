@@ -1,7 +1,7 @@
 # REGISTRATION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`agreement`](../tpl/agreement.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {REGISTRATION}
@@ -15,8 +15,8 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`8`](../src/subsilver/agreement.tpl#L8)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`8`](../src/subsilver/agreement.tpl#L8)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`35`](../src/invision/agreement.tpl#L35)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`35`](../src/invision/agreement.tpl#L35)
 

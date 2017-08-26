@@ -1,7 +1,7 @@
 # L_LEGEND
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_LEGEND}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`81`](../src/prosilver/viewforum_body.tpl#L81)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`81`](../src/prosilver/viewforum_body.tpl#L81)
 

@@ -1,7 +1,7 @@
 # list_pics_block.legend_stat
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`album_cat_top10`](../tpl/album_cat_top10.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`album_cat_top10`](../tpl/album_cat_top10.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN list_pics_block -->
@@ -21,14 +21,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`28`](../src/prosilver/album_cat_top10.tpl#L28)[`<->`](../src/prosilver/album_cat_top10.tpl#L28-L30)[`30`](../src/prosilver/album_cat_top10.tpl#L30)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`28`](../src/prosilver/album_cat_top10.tpl#L28)[`<->`](../src/prosilver/album_cat_top10.tpl#L28-L30)[`30`](../src/prosilver/album_cat_top10.tpl#L30)
 
 ### Version phpBB2
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`23`](../src/subsilver/album_cat_top10.tpl#L23)[`<->`](../src/subsilver/album_cat_top10.tpl#L23-L25)[`25`](../src/subsilver/album_cat_top10.tpl#L25)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`23`](../src/subsilver/album_cat_top10.tpl#L23)[`<->`](../src/subsilver/album_cat_top10.tpl#L23-L25)[`25`](../src/subsilver/album_cat_top10.tpl#L25)
 
 ### Version PunBB
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`36`](../src/punbb/album_cat_top10.tpl#L36)[`<->`](../src/punbb/album_cat_top10.tpl#L36-L38)[`38`](../src/punbb/album_cat_top10.tpl#L38)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`36`](../src/punbb/album_cat_top10.tpl#L36)[`<->`](../src/punbb/album_cat_top10.tpl#L36-L38)[`38`](../src/punbb/album_cat_top10.tpl#L38)
 
 ### Version Invision
-* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme) :__ lignes [`23`](../src/invision/album_cat_top10.tpl#L23)[`<->`](../src/invision/album_cat_top10.tpl#L23-L25)[`25`](../src/invision/album_cat_top10.tpl#L25)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`23`](../src/invision/album_cat_top10.tpl#L23)[`<->`](../src/invision/album_cat_top10.tpl#L23-L25)[`25`](../src/invision/album_cat_top10.tpl#L25)
 

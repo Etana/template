@@ -1,7 +1,7 @@
 # birthday_list_box.row.header_table
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`birthday_list_box`](../tpl/birthday_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN birthday_list_box -->
@@ -24,14 +24,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`3`](../src/prosilver/birthday_list_box.tpl#L3)[`<->`](../src/prosilver/birthday_list_box.tpl#L3-L22)[`22`](../src/prosilver/birthday_list_box.tpl#L22)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`3`](../src/prosilver/birthday_list_box.tpl#L3)[`<->`](../src/prosilver/birthday_list_box.tpl#L3-L22)[`22`](../src/prosilver/birthday_list_box.tpl#L22)
 
 ### Version phpBB2
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`1`](../src/subsilver/birthday_list_box.tpl#L1)[`<->`](../src/subsilver/birthday_list_box.tpl#L1-L30)[`30`](../src/subsilver/birthday_list_box.tpl#L30)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`1`](../src/subsilver/birthday_list_box.tpl#L1)[`<->`](../src/subsilver/birthday_list_box.tpl#L1-L30)[`30`](../src/subsilver/birthday_list_box.tpl#L30)
 
 ### Version PunBB
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`3`](../src/punbb/birthday_list_box.tpl#L3)[`<->`](../src/punbb/birthday_list_box.tpl#L3-L16)[`16`](../src/punbb/birthday_list_box.tpl#L16)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`3`](../src/punbb/birthday_list_box.tpl#L3)[`<->`](../src/punbb/birthday_list_box.tpl#L3-L16)[`16`](../src/punbb/birthday_list_box.tpl#L16)
 
 ### Version Invision
-* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`3`](../src/invision/birthday_list_box.tpl#L3)[`<->`](../src/invision/birthday_list_box.tpl#L3-L17)[`17`](../src/invision/birthday_list_box.tpl#L17)
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`3`](../src/invision/birthday_list_box.tpl#L3)[`<->`](../src/invision/birthday_list_box.tpl#L3-L17)[`17`](../src/invision/birthday_list_box.tpl#L17)
 

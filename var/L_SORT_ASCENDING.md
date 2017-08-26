@@ -1,7 +1,7 @@
 # L_SORT_ASCENDING
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`search_body`](../tpl/search_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`search_body`](../tpl/search_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_SORT_ASCENDING}
@@ -15,14 +15,14 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`66`](../src/prosilver/search_body.tpl#L66)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`66`](../src/prosilver/search_body.tpl#L66)
 
 ### Version phpBB2
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`90`](../src/subsilver/search_body.tpl#L90)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`90`](../src/subsilver/search_body.tpl#L90)
 
 ### Version PunBB
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`77`](../src/punbb/search_body.tpl#L77)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`77`](../src/punbb/search_body.tpl#L77)
 
 ### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`60`](../src/invision/search_body.tpl#L60)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`60`](../src/invision/search_body.tpl#L60)
 

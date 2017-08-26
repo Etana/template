@@ -1,7 +1,7 @@
 # rpg_fields_left.F_VALUE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`rpg_sheet`](../tpl/rpg_sheet.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`rpg_sheet`](../tpl/rpg_sheet.md#readme), [`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN rpg_fields_left -->
@@ -15,6 +15,6 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme) :__ lignes [`23`](../src/subsilver/rpg_sheet.tpl#L23)
-* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`35`](../src/subsilver/rpg_sheet_edit.tpl#L35)
+* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`23`](../src/subsilver/rpg_sheet.tpl#L23)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`35`](../src/subsilver/rpg_sheet_edit.tpl#L35)
 

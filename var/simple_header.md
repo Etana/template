@@ -1,7 +1,7 @@
 # simple_header
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`portal_body`](../tpl/portal_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`portal_body`](../tpl/portal_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN simple_header -->
@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`8`](../src/punbb/portal_body.tpl#L8)[`<->`](../src/punbb/portal_body.tpl#L8-L10)[`10`](../src/punbb/portal_body.tpl#L10), [`47`](../src/punbb/portal_body.tpl#L47)[`<->`](../src/punbb/portal_body.tpl#L47-L49)[`49`](../src/punbb/portal_body.tpl#L49)
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`8`](../src/punbb/portal_body.tpl#L8)[`<->`](../src/punbb/portal_body.tpl#L8-L10)[`10`](../src/punbb/portal_body.tpl#L10), [`47`](../src/punbb/portal_body.tpl#L47)[`<->`](../src/punbb/portal_body.tpl#L47-L49)[`49`](../src/punbb/portal_body.tpl#L49)
 

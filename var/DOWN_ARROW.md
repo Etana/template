@@ -1,7 +1,7 @@
 # DOWN_ARROW
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`calendar_box`](../tpl/calendar_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`calendar_box`](../tpl/calendar_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {DOWN_ARROW}
@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`56`](../src/subsilver/calendar_box.tpl#L56), [`67`](../src/subsilver/calendar_box.tpl#L67)
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`56`](../src/subsilver/calendar_box.tpl#L56), [`67`](../src/subsilver/calendar_box.tpl#L67)
 

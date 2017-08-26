@@ -1,7 +1,7 @@
 # switch_delete_cookies
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_delete_cookies -->
@@ -20,5 +20,5 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`69`](../src/subsilver/index_body.tpl#L69)[`<->`](../src/subsilver/index_body.tpl#L69-L71)[`71`](../src/subsilver/index_body.tpl#L71)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`69`](../src/subsilver/index_body.tpl#L69)[`<->`](../src/subsilver/index_body.tpl#L69-L71)[`71`](../src/subsilver/index_body.tpl#L71)
 

@@ -1,7 +1,7 @@
 # MENU_POSITION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`overall_header`](../tpl/overall_header.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {MENU_POSITION}
@@ -13,5 +13,5 @@ Position de la barre de navigation selon le choix de l'administrateur dans `PA >
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`268`](../src/subsilver/overall_header.tpl#L268), [`270`](../src/subsilver/overall_header.tpl#L270)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`268`](../src/subsilver/overall_header.tpl#L268), [`270`](../src/subsilver/overall_header.tpl#L270)
 

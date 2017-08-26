@@ -1,7 +1,7 @@
 # ACTION
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {ACTION}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`4`](../src/prosilver/calendar_scheduler_body.tpl#L4)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/calendar_scheduler_body.tpl#L4)
 
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`1`](../src/subsilver/calendar_scheduler_body.tpl#L1)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/calendar_scheduler_body.tpl#L1)
 
 ### Version PunBB
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`25`](../src/punbb/calendar_scheduler_body.tpl#L25)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`25`](../src/punbb/calendar_scheduler_body.tpl#L25)
 
 ### Version Invision
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`7`](../src/invision/calendar_scheduler_body.tpl#L7)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`7`](../src/invision/calendar_scheduler_body.tpl#L7)
 

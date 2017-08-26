@@ -1,7 +1,7 @@
 # post_row.OPEN
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN post_row -->
@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`52`](../src/prosilver/mod_news.tpl#L52)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`52`](../src/prosilver/mod_news.tpl#L52)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`58`](../src/subsilver/mod_news.tpl#L58)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`58`](../src/subsilver/mod_news.tpl#L58)
 
 ### Version PunBB
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`51`](../src/punbb/mod_news.tpl#L51)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`51`](../src/punbb/mod_news.tpl#L51)
 
 ### Version Invision
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`51`](../src/invision/mod_news.tpl#L51)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`51`](../src/invision/mod_news.tpl#L51)
 

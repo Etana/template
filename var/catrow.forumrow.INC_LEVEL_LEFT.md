@@ -1,7 +1,7 @@
 # catrow.forumrow.INC_LEVEL_LEFT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN catrow -->
@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`33`](../src/prosilver/index_box.tpl#L33)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`33`](../src/prosilver/index_box.tpl#L33)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`25`](../src/punbb/index_box.tpl#L25)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`25`](../src/punbb/index_box.tpl#L25)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`32`](../src/invision/index_box.tpl#L32)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`32`](../src/invision/index_box.tpl#L32)
 

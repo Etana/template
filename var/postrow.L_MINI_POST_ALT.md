@@ -1,7 +1,7 @@
 # postrow.L_MINI_POST_ALT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`20`](../src/subsilver/privmsg_topic_review.tpl#L20)
 

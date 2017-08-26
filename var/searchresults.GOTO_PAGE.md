@@ -1,7 +1,7 @@
 # searchresults.GOTO_PAGE
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN searchresults -->
@@ -17,11 +17,11 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`40`](../src/subsilver/search_results_topics.tpl#L40)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`40`](../src/subsilver/search_results_topics.tpl#L40)
 
 ### Version PunBB
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`56`](../src/punbb/search_results_topics.tpl#L56)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`56`](../src/punbb/search_results_topics.tpl#L56)
 
 ### Version Invision
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`45`](../src/invision/search_results_topics.tpl#L45)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`45`](../src/invision/search_results_topics.tpl#L45)
 

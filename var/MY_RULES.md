@@ -1,7 +1,7 @@
 # MY_RULES
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`agreement`](../tpl/agreement.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`agreement`](../tpl/agreement.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {MY_RULES}
@@ -13,14 +13,14 @@ Affiche vos conditions d'inscription définies dans `PA > Général > Règlement
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`19`](../src/prosilver/agreement.tpl#L19)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`19`](../src/prosilver/agreement.tpl#L19)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`28`](../src/subsilver/agreement.tpl#L28)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`28`](../src/subsilver/agreement.tpl#L28)
 
 ### Version PunBB
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`30`](../src/punbb/agreement.tpl#L30)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`30`](../src/punbb/agreement.tpl#L30)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`45`](../src/invision/agreement.tpl#L45)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`45`](../src/invision/agreement.tpl#L45)
 

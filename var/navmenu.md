@@ -1,7 +1,7 @@
 # navmenu
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`search_results_topics`](../tpl/search_results_topics.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN navmenu -->
@@ -18,8 +18,8 @@ Boucle s'affichant si vous êtes dans les résultats de recherche par sujets `/s
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`1`](../src/prosilver/search_results_topics.tpl#L1)[`<->`](../src/prosilver/search_results_topics.tpl#L1-L7)[`7`](../src/prosilver/search_results_topics.tpl#L7)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`1`](../src/prosilver/search_results_topics.tpl#L1)[`<->`](../src/prosilver/search_results_topics.tpl#L1-L7)[`7`](../src/prosilver/search_results_topics.tpl#L7)
 
 ### Version phpBB2
-* __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`5`](../src/subsilver/search_results_topics.tpl#L5)[`<->`](../src/subsilver/search_results_topics.tpl#L5-L15)[`15`](../src/subsilver/search_results_topics.tpl#L15)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`5`](../src/subsilver/search_results_topics.tpl#L5)[`<->`](../src/subsilver/search_results_topics.tpl#L5-L15)[`15`](../src/subsilver/search_results_topics.tpl#L15)
 

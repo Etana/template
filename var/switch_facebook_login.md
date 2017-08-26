@@ -1,7 +1,7 @@
 # switch_facebook_login
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_footer_end`](../tpl/overall_footer_end.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_facebook_login -->
@@ -32,17 +32,17 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`40`](../src/prosilver/overall_footer_end.tpl#L40)[`<->`](../src/prosilver/overall_footer_end.tpl#L40-L80)[`80`](../src/prosilver/overall_footer_end.tpl#L80)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`40`](../src/prosilver/overall_footer_end.tpl#L40)[`<->`](../src/prosilver/overall_footer_end.tpl#L40-L80)[`80`](../src/prosilver/overall_footer_end.tpl#L80)
 
 ### Version phpBB2
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`30`](../src/subsilver/overall_footer_end.tpl#L30)[`<->`](../src/subsilver/overall_footer_end.tpl#L30-L70)[`70`](../src/subsilver/overall_footer_end.tpl#L70)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`30`](../src/subsilver/overall_footer_end.tpl#L30)[`<->`](../src/subsilver/overall_footer_end.tpl#L30-L70)[`70`](../src/subsilver/overall_footer_end.tpl#L70)
 
 ### Version PunBB
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`38`](../src/punbb/overall_footer_end.tpl#L38)[`<->`](../src/punbb/overall_footer_end.tpl#L38-L78)[`78`](../src/punbb/overall_footer_end.tpl#L78)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`38`](../src/punbb/overall_footer_end.tpl#L38)[`<->`](../src/punbb/overall_footer_end.tpl#L38-L78)[`78`](../src/punbb/overall_footer_end.tpl#L78)
 
 ### Version Invision
-* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`41`](../src/invision/overall_footer_end.tpl#L41)[`<->`](../src/invision/overall_footer_end.tpl#L41-L84)[`84`](../src/invision/overall_footer_end.tpl#L84)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`41`](../src/invision/overall_footer_end.tpl#L41)[`<->`](../src/invision/overall_footer_end.tpl#L41-L84)[`84`](../src/invision/overall_footer_end.tpl#L84)
 
 ### Version Version mobile
-* __[`overall_footer`](../tpl/overall_footer.md#readme) :__ lignes [`239`](../src/mobile/overall_footer.tpl#L239)[`<->`](../src/mobile/overall_footer.tpl#L239-L279)[`279`](../src/mobile/overall_footer.tpl#L279)
+* __[`overall_footer`](../tpl/overall_footer.md#readme)__ __:__ lignes [`239`](../src/mobile/overall_footer.tpl#L239)[`<->`](../src/mobile/overall_footer.tpl#L239-L279)[`279`](../src/mobile/overall_footer.tpl#L279)
 

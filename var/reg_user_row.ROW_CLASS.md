@@ -1,7 +1,7 @@
 # reg_user_row.ROW_CLASS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`viewonline_body`](../tpl/viewonline_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN reg_user_row -->
@@ -15,11 +15,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`30`](../src/prosilver/viewonline_body.tpl#L30)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`30`](../src/prosilver/viewonline_body.tpl#L30)
 
 ### Version phpBB2
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`27`](../src/subsilver/viewonline_body.tpl#L27), [`28`](../src/subsilver/viewonline_body.tpl#L28), [`29`](../src/subsilver/viewonline_body.tpl#L29)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`27`](../src/subsilver/viewonline_body.tpl#L27), [`28`](../src/subsilver/viewonline_body.tpl#L28), [`29`](../src/subsilver/viewonline_body.tpl#L29)
 
 ### Version Invision
-* __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`24`](../src/invision/viewonline_body.tpl#L24), [`25`](../src/invision/viewonline_body.tpl#L25), [`26`](../src/invision/viewonline_body.tpl#L26)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`24`](../src/invision/viewonline_body.tpl#L24), [`25`](../src/invision/viewonline_body.tpl#L25), [`26`](../src/invision/viewonline_body.tpl#L26)
 

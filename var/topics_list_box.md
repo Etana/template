@@ -1,7 +1,7 @@
 # topics_list_box
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_list_box -->
@@ -94,17 +94,17 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/prosilver/topics_list_box.tpl#L1)[`<->`](../src/prosilver/topics_list_box.tpl#L1-L148)[`148`](../src/prosilver/topics_list_box.tpl#L148)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/prosilver/topics_list_box.tpl#L1)[`<->`](../src/prosilver/topics_list_box.tpl#L1-L148)[`148`](../src/prosilver/topics_list_box.tpl#L148)
 
 ### Version phpBB2
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/subsilver/topics_list_box.tpl#L1)[`<->`](../src/subsilver/topics_list_box.tpl#L1-L103)[`103`](../src/subsilver/topics_list_box.tpl#L103)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/subsilver/topics_list_box.tpl#L1)[`<->`](../src/subsilver/topics_list_box.tpl#L1-L103)[`103`](../src/subsilver/topics_list_box.tpl#L103)
 
 ### Version PunBB
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/punbb/topics_list_box.tpl#L1)[`<->`](../src/punbb/topics_list_box.tpl#L1-L128)[`128`](../src/punbb/topics_list_box.tpl#L128)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/punbb/topics_list_box.tpl#L1)[`<->`](../src/punbb/topics_list_box.tpl#L1-L128)[`128`](../src/punbb/topics_list_box.tpl#L128)
 
 ### Version Invision
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/invision/topics_list_box.tpl#L1)[`<->`](../src/invision/topics_list_box.tpl#L1-L175)[`175`](../src/invision/topics_list_box.tpl#L175)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/invision/topics_list_box.tpl#L1)[`<->`](../src/invision/topics_list_box.tpl#L1-L175)[`175`](../src/invision/topics_list_box.tpl#L175)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/mobile/topics_list_box.tpl#L1)[`<->`](../src/mobile/topics_list_box.tpl#L1-L83)[`83`](../src/mobile/topics_list_box.tpl#L83)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`1`](../src/mobile/topics_list_box.tpl#L1)[`<->`](../src/mobile/topics_list_box.tpl#L1-L83)[`83`](../src/mobile/topics_list_box.tpl#L83)
 

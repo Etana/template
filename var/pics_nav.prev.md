@@ -1,7 +1,7 @@
 # pics_nav.prev
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN pics_nav -->
@@ -23,14 +23,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`342`](../src/prosilver/album_showpage_body.tpl#L342)[`<->`](../src/prosilver/album_showpage_body.tpl#L342-L346)[`346`](../src/prosilver/album_showpage_body.tpl#L346)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`342`](../src/prosilver/album_showpage_body.tpl#L342)[`<->`](../src/prosilver/album_showpage_body.tpl#L342-L346)[`346`](../src/prosilver/album_showpage_body.tpl#L346)
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`394`](../src/subsilver/album_showpage_body.tpl#L394)[`<->`](../src/subsilver/album_showpage_body.tpl#L394-L404)[`404`](../src/subsilver/album_showpage_body.tpl#L404)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`394`](../src/subsilver/album_showpage_body.tpl#L394)[`<->`](../src/subsilver/album_showpage_body.tpl#L394-L404)[`404`](../src/subsilver/album_showpage_body.tpl#L404)
 
 ### Version PunBB
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`352`](../src/punbb/album_showpage_body.tpl#L352)[`<->`](../src/punbb/album_showpage_body.tpl#L352-L356)[`356`](../src/punbb/album_showpage_body.tpl#L356)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`352`](../src/punbb/album_showpage_body.tpl#L352)[`<->`](../src/punbb/album_showpage_body.tpl#L352-L356)[`356`](../src/punbb/album_showpage_body.tpl#L356)
 
 ### Version Invision
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`337`](../src/invision/album_showpage_body.tpl#L337)[`<->`](../src/invision/album_showpage_body.tpl#L337-L341)[`341`](../src/invision/album_showpage_body.tpl#L341)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`337`](../src/invision/album_showpage_body.tpl#L337)[`<->`](../src/invision/album_showpage_body.tpl#L337-L341)[`341`](../src/invision/album_showpage_body.tpl#L341)
 

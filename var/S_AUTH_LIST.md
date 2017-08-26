@@ -1,7 +1,7 @@
 # S_AUTH_LIST
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {S_AUTH_LIST}
@@ -25,18 +25,18 @@ Vous <strong>pouvez</strong> répondre aux sujets dans ce forum<br />Vous <stron
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`77`](../src/prosilver/viewforum_body.tpl#L77)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`360`](../src/prosilver/viewtopic_body.tpl#L360)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`77`](../src/prosilver/viewforum_body.tpl#L77)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`360`](../src/prosilver/viewtopic_body.tpl#L360)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`46`](../src/subsilver/viewforum_body.tpl#L46)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`387`](../src/subsilver/viewtopic_body.tpl#L387)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`46`](../src/subsilver/viewforum_body.tpl#L46)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`387`](../src/subsilver/viewtopic_body.tpl#L387)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`60`](../src/punbb/viewforum_body.tpl#L60)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`350`](../src/punbb/viewtopic_body.tpl#L350)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`60`](../src/punbb/viewforum_body.tpl#L60)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`350`](../src/punbb/viewtopic_body.tpl#L350)
 
 ### Version Invision
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`46`](../src/invision/viewforum_body.tpl#L46)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`310`](../src/invision/viewtopic_body.tpl#L310)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`46`](../src/invision/viewforum_body.tpl#L46)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`310`](../src/invision/viewtopic_body.tpl#L310)
 

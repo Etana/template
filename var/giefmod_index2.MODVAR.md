@@ -1,7 +1,7 @@
 # giefmod_index2.MODVAR
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN giefmod_index2 -->
@@ -15,14 +15,14 @@ Affiche les widgets de la colonne de droite un par un.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`17`](../src/prosilver/overall_footer_begin.tpl#L17)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`17`](../src/prosilver/overall_footer_begin.tpl#L17)
 
 ### Version phpBB2
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`13`](../src/subsilver/overall_footer_begin.tpl#L13)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`13`](../src/subsilver/overall_footer_begin.tpl#L13)
 
 ### Version PunBB
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`18`](../src/punbb/overall_footer_begin.tpl#L18)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`18`](../src/punbb/overall_footer_begin.tpl#L18)
 
 ### Version Invision
-* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`16`](../src/invision/overall_footer_begin.tpl#L16)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`16`](../src/invision/overall_footer_begin.tpl#L16)
 

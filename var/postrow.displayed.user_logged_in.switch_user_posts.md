@@ -1,7 +1,7 @@
 # postrow.displayed.user_logged_in.switch_user_posts
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN postrow -->
@@ -24,5 +24,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`147`](../src/invision/viewtopic_body.tpl#L147)[`<->`](../src/invision/viewtopic_body.tpl#L147-L149)[`149`](../src/invision/viewtopic_body.tpl#L149)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`147`](../src/invision/viewtopic_body.tpl#L147)[`<->`](../src/invision/viewtopic_body.tpl#L147-L149)[`149`](../src/invision/viewtopic_body.tpl#L149)
 

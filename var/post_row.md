@@ -1,7 +1,7 @@
 # post_row
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`mod_news`](../tpl/mod_news.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN post_row -->
@@ -46,14 +46,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`1`](../src/prosilver/mod_news.tpl#L1)[`<->`](../src/prosilver/mod_news.tpl#L1-L58)[`58`](../src/prosilver/mod_news.tpl#L58)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/prosilver/mod_news.tpl#L1)[`<->`](../src/prosilver/mod_news.tpl#L1-L58)[`58`](../src/prosilver/mod_news.tpl#L58)
 
 ### Version phpBB2
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`1`](../src/subsilver/mod_news.tpl#L1)[`<->`](../src/subsilver/mod_news.tpl#L1-L67)[`67`](../src/subsilver/mod_news.tpl#L67)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/subsilver/mod_news.tpl#L1)[`<->`](../src/subsilver/mod_news.tpl#L1-L67)[`67`](../src/subsilver/mod_news.tpl#L67)
 
 ### Version PunBB
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`1`](../src/punbb/mod_news.tpl#L1)[`<->`](../src/punbb/mod_news.tpl#L1-L58)[`58`](../src/punbb/mod_news.tpl#L58)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/punbb/mod_news.tpl#L1)[`<->`](../src/punbb/mod_news.tpl#L1-L58)[`58`](../src/punbb/mod_news.tpl#L58)
 
 ### Version Invision
-* __[`mod_news`](../tpl/mod_news.md#readme) :__ lignes [`1`](../src/invision/mod_news.tpl#L1)[`<->`](../src/invision/mod_news.tpl#L1-L60)[`60`](../src/invision/mod_news.tpl#L60)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/invision/mod_news.tpl#L1)[`<->`](../src/invision/mod_news.tpl#L1-L60)[`60`](../src/invision/mod_news.tpl#L60)
 

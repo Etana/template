@@ -1,7 +1,7 @@
 # GROUP_DETAILS
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {GROUP_DETAILS}
@@ -23,21 +23,21 @@ Texte contenant une phrase avec votre statut par rapport au groupe.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`20`](../src/prosilver/groupcp_info_body.tpl#L20)
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`20`](../src/prosilver/groupcp_info_body.tpl#L20)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`17`](../src/subsilver/groupcp_info_body.tpl#L17)
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`17`](../src/subsilver/groupcp_info_body.tpl#L17)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`44`](../src/punbb/groupcp_info_body.tpl#L44)
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`44`](../src/punbb/groupcp_info_body.tpl#L44)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`24`](../src/invision/groupcp_info_body.tpl#L24)
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`24`](../src/invision/groupcp_info_body.tpl#L24)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 
 ### Version Version mobile
-* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
 

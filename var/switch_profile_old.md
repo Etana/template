@@ -1,7 +1,7 @@
 # switch_profile_old
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`mod_login`](../tpl/mod_login.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`mod_login`](../tpl/mod_login.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_profile_old -->
@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`76`](../src/prosilver/mod_login.tpl#L76)[`<->`](../src/prosilver/mod_login.tpl#L76-L90)[`90`](../src/prosilver/mod_login.tpl#L90)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`76`](../src/prosilver/mod_login.tpl#L76)[`<->`](../src/prosilver/mod_login.tpl#L76-L90)[`90`](../src/prosilver/mod_login.tpl#L90)
 

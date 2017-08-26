@@ -1,7 +1,7 @@
 # MARK_SELECT
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`report_list_body`](../tpl/report_list_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`report_list_body`](../tpl/report_list_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {MARK_SELECT}
@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`79`](../src/prosilver/report_list_body.tpl#L79)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`79`](../src/prosilver/report_list_body.tpl#L79)
 
 ### Version phpBB2
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`57`](../src/subsilver/report_list_body.tpl#L57)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`57`](../src/subsilver/report_list_body.tpl#L57)
 
 ### Version PunBB
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`85`](../src/punbb/report_list_body.tpl#L85)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`85`](../src/punbb/report_list_body.tpl#L85)
 
 ### Version Invision
-* __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`63`](../src/invision/report_list_body.tpl#L63)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`63`](../src/invision/report_list_body.tpl#L63)
 

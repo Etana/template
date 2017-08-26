@@ -1,7 +1,7 @@
 # L_MEMBERLIST
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {L_MEMBERLIST}
@@ -16,5 +16,5 @@ Chaîne de caractère.
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`4`](../src/invision/memberlist_body.tpl#L4)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`4`](../src/invision/memberlist_body.tpl#L4)
 

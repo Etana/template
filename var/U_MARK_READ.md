@@ -1,7 +1,7 @@
 # U_MARK_READ
-* __Type :__ variable d'affichage
-* __Utilisable dans :__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable d'affichage
+* __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 {U_MARK_READ}
@@ -15,19 +15,19 @@ Lien vers marquer tous les forums comme lus.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`8`](../src/prosilver/index_box.tpl#L8)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`11`](../src/prosilver/viewforum_body.tpl#L11), [`57`](../src/prosilver/viewforum_body.tpl#L57)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`8`](../src/prosilver/index_box.tpl#L8)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/prosilver/viewforum_body.tpl#L11), [`57`](../src/prosilver/viewforum_body.tpl#L57)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`67`](../src/subsilver/index_body.tpl#L67)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`34`](../src/subsilver/viewforum_body.tpl#L34), [`64`](../src/subsilver/viewforum_body.tpl#L64)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`67`](../src/subsilver/index_body.tpl#L67)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`34`](../src/subsilver/viewforum_body.tpl#L34), [`64`](../src/subsilver/viewforum_body.tpl#L64)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`8`](../src/punbb/index_body.tpl#L8)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`18`](../src/punbb/viewforum_body.tpl#L18)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`8`](../src/punbb/index_body.tpl#L8)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`18`](../src/punbb/viewforum_body.tpl#L18)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`93`](../src/invision/index_box.tpl#L93)
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`45`](../src/invision/topics_list_box.tpl#L45)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`93`](../src/invision/index_box.tpl#L93)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`45`](../src/invision/topics_list_box.tpl#L45)
 

@@ -1,7 +1,7 @@
 # member_row.EMAIL_IMG
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN member_row -->
@@ -21,14 +21,14 @@ Image `E-mail` ( choisie dans [`Index`](http://votre-forum.appspot.com/#/admin/,
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`82`](../src/prosilver/groupcp_info_body.tpl#L82)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`82`](../src/prosilver/groupcp_info_body.tpl#L82)
 
 ### Version phpBB2
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`70`](../src/subsilver/groupcp_info_body.tpl#L70)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`70`](../src/subsilver/groupcp_info_body.tpl#L70)
 
 ### Version PunBB
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`110`](../src/punbb/groupcp_info_body.tpl#L110)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`110`](../src/punbb/groupcp_info_body.tpl#L110)
 
 ### Version Invision
-* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`86`](../src/invision/groupcp_info_body.tpl#L86)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`86`](../src/invision/groupcp_info_body.tpl#L86)
 

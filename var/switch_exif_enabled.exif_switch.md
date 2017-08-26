@@ -1,7 +1,7 @@
 # switch_exif_enabled.exif_switch
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`album_showpage_body`](../tpl/album_showpage_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN switch_exif_enabled -->
@@ -25,5 +25,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`358`](../src/subsilver/album_showpage_body.tpl#L358)[`<->`](../src/subsilver/album_showpage_body.tpl#L358-L371)[`371`](../src/subsilver/album_showpage_body.tpl#L371)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`358`](../src/subsilver/album_showpage_body.tpl#L358)[`<->`](../src/subsilver/album_showpage_body.tpl#L358-L371)[`371`](../src/subsilver/album_showpage_body.tpl#L371)
 

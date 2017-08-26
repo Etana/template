@@ -1,7 +1,7 @@
 # paypal_confirm.hidden_field.NAME
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN paypal_confirm -->
@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`177`](../src/prosilver/buy_credits.tpl#L177)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`177`](../src/prosilver/buy_credits.tpl#L177)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`211`](../src/subsilver/buy_credits.tpl#L211)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`211`](../src/subsilver/buy_credits.tpl#L211)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`187`](../src/punbb/buy_credits.tpl#L187)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`187`](../src/punbb/buy_credits.tpl#L187)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`164`](../src/invision/buy_credits.tpl#L164)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`164`](../src/invision/buy_credits.tpl#L164)
 

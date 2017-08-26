@@ -1,7 +1,7 @@
 # main_page.pay_method
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`buy_credits`](../tpl/buy_credits.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`buy_credits`](../tpl/buy_credits.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN main_page -->
@@ -26,14 +26,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`21`](../src/prosilver/buy_credits.tpl#L21)[`<->`](../src/prosilver/buy_credits.tpl#L21-L33)[`33`](../src/prosilver/buy_credits.tpl#L33)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`21`](../src/prosilver/buy_credits.tpl#L21)[`<->`](../src/prosilver/buy_credits.tpl#L21-L33)[`33`](../src/prosilver/buy_credits.tpl#L33)
 
 ### Version phpBB2
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`33`](../src/subsilver/buy_credits.tpl#L33)[`<->`](../src/subsilver/buy_credits.tpl#L33-L46)[`46`](../src/subsilver/buy_credits.tpl#L46)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`33`](../src/subsilver/buy_credits.tpl#L33)[`<->`](../src/subsilver/buy_credits.tpl#L33-L46)[`46`](../src/subsilver/buy_credits.tpl#L46)
 
 ### Version PunBB
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`42`](../src/punbb/buy_credits.tpl#L42)[`<->`](../src/punbb/buy_credits.tpl#L42-L54)[`54`](../src/punbb/buy_credits.tpl#L54)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`42`](../src/punbb/buy_credits.tpl#L42)[`<->`](../src/punbb/buy_credits.tpl#L42-L54)[`54`](../src/punbb/buy_credits.tpl#L54)
 
 ### Version Invision
-* __[`buy_credits`](../tpl/buy_credits.md#readme) :__ lignes [`28`](../src/invision/buy_credits.tpl#L28)[`<->`](../src/invision/buy_credits.tpl#L28-L40)[`40`](../src/invision/buy_credits.tpl#L40)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`28`](../src/invision/buy_credits.tpl#L28)[`<->`](../src/invision/buy_credits.tpl#L28-L40)[`40`](../src/invision/buy_credits.tpl#L40)
 
