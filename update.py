@@ -4,7 +4,7 @@ import requests, re, html, os, time, json
 from enum import Enum
 from collections import OrderedDict
 
-template_versions = { 'subsilver': 'phpBB2', 'prosilver': 'phpBB3', 'punbb': 'PunBB', 'invision': 'Invision', 'mobile': 'Version mobile'}
+template_versions = { 'subsilver': 'phpBB2', 'prosilver': 'phpBB3', 'modernbb': 'ModernBB', 'punbb': 'PunBB', 'invision': 'Invision', 'mobile': 'Version mobile'}
 template_categories = OrderedDict([('main','Général'),('portal','Portail'),('gallery','Galerie'),('calendar','Calendrier'),('group','Groupes'),('post','Poster & Messages Privés'),('moderation','Modération'),('profil','Profil'), ('mobile', 'Version mobile')])
 template_descriptions = { cat:{} for cat in template_categories }
 template_contents = { ver:{} for ver in template_versions }
@@ -315,7 +315,7 @@ for tem in template_variables:
         if tem in template_contents['mobile']:
             mobile_index_link = ' [`Mobile`](#template-par-défaut-version-mobile)'
 
-        f.write('# Template ' + tem +append+'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)'+mobile_index_link+'\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
+        f.write('# Template ' + tem +append+'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)'+mobile_index_link+'\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
 
         if tem not in templates_desc:
             f.write('[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/'+tem+')')
@@ -332,6 +332,8 @@ for tem in template_variables:
                 f.write('\n\t* '+link)
 
         for ver in sorted(template_versions, key=sorting_version):
+            if ver == 'mobile' and tem not in template_contents['mobile']:
+                continue
             f.write('\n\n## Template par défaut '+template_versions[ver]+'\n\n[__Code source__](../src/'+ver+'/'+tem+'.tpl#files)\n\n### Positions des variables\n')
             for r in sorted(([r[0], r[1], var_name] for var_name in template_variables[tem] for r in template_variables[tem][var_name] if r[2] == ver), key=lambda x: x[2]):
                 f.write('\n* __'+var2text(r[2], r[1])+'(../var/'+r[2]+'.md#readme)__ __:__ ligne [`'+str(r[0])+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(r[0])+')')
