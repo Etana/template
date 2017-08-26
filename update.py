@@ -312,7 +312,7 @@ for tem in template_variables:
         if num_not_desc > 0:
             append = " (x "+str(num_not_desc)+")"
         mobile_index_link = ''
-        if 'mobile' in template_versions:
+        if tem in template_contents['mobile']:
             mobile_index_link = ' [`Mobile`](#template-par-défaut-version-mobile)'
 
         f.write('# Template ' + tem +append+'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)'+mobile_index_link+'\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
