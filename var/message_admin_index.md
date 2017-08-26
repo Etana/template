@@ -24,7 +24,7 @@ Boucle contenant le message d'accueil.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`25`](../src/prosilver/index_body.tpl#L25)[`<->`](../src/prosilver/index_body.tpl#L25-L37)[`37`](../src/prosilver/index_body.tpl#L37)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`29`](../src/prosilver/index_body.tpl#L29)[`<->`](../src/prosilver/index_body.tpl#L29-L41)[`41`](../src/prosilver/index_body.tpl#L41)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`2`](../src/subsilver/index_body.tpl#L2)[`<->`](../src/subsilver/index_body.tpl#L2-L17)[`17`](../src/subsilver/index_body.tpl#L17)

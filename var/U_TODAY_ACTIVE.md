@@ -15,14 +15,14 @@ Lien vers les sujets actifs du jour.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`75`](../src/prosilver/index_box.tpl#L75)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`86`](../src/prosilver/index_box.tpl#L86)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`96`](../src/subsilver/index_body.tpl#L96)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`75`](../src/subsilver/index_body.tpl#L75)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`67`](../src/punbb/index_box.tpl#L67)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`77`](../src/punbb/index_box.tpl#L77)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`57`](../src/invision/index_body.tpl#L57)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`63`](../src/invision/index_body.tpl#L63)
 

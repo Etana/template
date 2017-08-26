@@ -30,5 +30,5 @@
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`86`](../src/invision/topics_list_box.tpl#L86), [`93`](../src/invision/topics_list_box.tpl#L93)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`59`](../src/mobile/topics_list_box.tpl#L59)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`56`](../src/mobile/topics_list_box.tpl#L56)
 

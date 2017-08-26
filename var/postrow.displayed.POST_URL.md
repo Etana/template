@@ -17,11 +17,11 @@ Fourni une URL directe vers le message (lien du message + ancre du message préc
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`148`](../src/prosilver/viewtopic_body.tpl#L148)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`138`](../src/prosilver/viewtopic_body.tpl#L138)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`144`](../src/punbb/viewtopic_body.tpl#L144)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`135`](../src/punbb/viewtopic_body.tpl#L135)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`186`](../src/invision/viewtopic_body.tpl#L186)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`177`](../src/invision/viewtopic_body.tpl#L177)
 

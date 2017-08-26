@@ -18,5 +18,5 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`271`](../src/prosilver/overall_header.tpl#L271)[`<->`](../src/prosilver/overall_header.tpl#L271-L279)[`279`](../src/prosilver/overall_header.tpl#L279)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`277`](../src/prosilver/overall_header.tpl#L277)[`<->`](../src/prosilver/overall_header.tpl#L277-L285)[`285`](../src/prosilver/overall_header.tpl#L285)
 

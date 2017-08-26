@@ -22,6 +22,6 @@
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`7`](../src/punbb/mod_whoisonline.tpl#L7)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`82`](../src/invision/index_body.tpl#L82)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`88`](../src/invision/index_body.tpl#L88)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme) :__ lignes [`8`](../src/invision/mod_whoisonline.tpl#L8)
 

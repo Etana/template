@@ -21,14 +21,14 @@ Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > G
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`310`](../src/prosilver/overall_header.tpl#L310)[`<->`](../src/prosilver/overall_header.tpl#L310-L312)[`312`](../src/prosilver/overall_header.tpl#L312)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`316`](../src/prosilver/overall_header.tpl#L316)[`<->`](../src/prosilver/overall_header.tpl#L316-L318)[`318`](../src/prosilver/overall_header.tpl#L318)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`307`](../src/subsilver/overall_header.tpl#L307)[`<->`](../src/subsilver/overall_header.tpl#L307-L309)[`309`](../src/subsilver/overall_header.tpl#L309)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`302`](../src/subsilver/overall_header.tpl#L302)[`<->`](../src/subsilver/overall_header.tpl#L302-L304)[`304`](../src/subsilver/overall_header.tpl#L304)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`284`](../src/punbb/overall_header.tpl#L284)[`<->`](../src/punbb/overall_header.tpl#L284-L286)[`286`](../src/punbb/overall_header.tpl#L286)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`290`](../src/punbb/overall_header.tpl#L290)[`<->`](../src/punbb/overall_header.tpl#L290-L292)[`292`](../src/punbb/overall_header.tpl#L292)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`303`](../src/invision/overall_header.tpl#L303)[`<->`](../src/invision/overall_header.tpl#L303-L305)[`305`](../src/invision/overall_header.tpl#L305)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`309`](../src/invision/overall_header.tpl#L309)[`<->`](../src/invision/overall_header.tpl#L309-L311)[`311`](../src/invision/overall_header.tpl#L311)
 

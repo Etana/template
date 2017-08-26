@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`143`](../src/punbb/viewtopic_body.tpl#L143)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`134`](../src/punbb/viewtopic_body.tpl#L134)
 

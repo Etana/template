@@ -13,14 +13,14 @@ Affiche la chatbox sur la page d'accueil en haut si l'option dans `PA > Modules 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`39`](../src/prosilver/index_body.tpl#L39)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`43`](../src/prosilver/index_body.tpl#L43)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`82`](../src/subsilver/index_body.tpl#L82)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`61`](../src/subsilver/index_body.tpl#L61)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`52`](../src/punbb/index_body.tpl#L52)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`59`](../src/punbb/index_body.tpl#L59)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`38`](../src/invision/index_body.tpl#L38)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`44`](../src/invision/index_body.tpl#L44)
 

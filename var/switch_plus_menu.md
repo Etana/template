@@ -18,11 +18,11 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`97`](../src/prosilver/viewtopic_body.tpl#L97)[`<->`](../src/prosilver/viewtopic_body.tpl#L97-L109)[`109`](../src/prosilver/viewtopic_body.tpl#L109)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`88`](../src/prosilver/viewtopic_body.tpl#L88)[`<->`](../src/prosilver/viewtopic_body.tpl#L88-L99)[`99`](../src/prosilver/viewtopic_body.tpl#L99)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`89`](../src/subsilver/viewtopic_body.tpl#L89)[`<->`](../src/subsilver/viewtopic_body.tpl#L89-L101)[`101`](../src/subsilver/viewtopic_body.tpl#L101)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`81`](../src/subsilver/viewtopic_body.tpl#L81)[`<->`](../src/subsilver/viewtopic_body.tpl#L81-L92)[`92`](../src/subsilver/viewtopic_body.tpl#L92)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`98`](../src/invision/viewtopic_body.tpl#L98)[`<->`](../src/invision/viewtopic_body.tpl#L98-L109)[`109`](../src/invision/viewtopic_body.tpl#L109)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`90`](../src/invision/viewtopic_body.tpl#L90)[`<->`](../src/invision/viewtopic_body.tpl#L90-L100)[`100`](../src/invision/viewtopic_body.tpl#L100)
 

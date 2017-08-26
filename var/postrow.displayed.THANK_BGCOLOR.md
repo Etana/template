@@ -17,14 +17,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`133`](../src/prosilver/viewtopic_body.tpl#L133)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`123`](../src/prosilver/viewtopic_body.tpl#L123)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`139`](../src/subsilver/viewtopic_body.tpl#L139), [`151`](../src/subsilver/viewtopic_body.tpl#L151), [`250`](../src/subsilver/viewtopic_body.tpl#L250), [`253`](../src/subsilver/viewtopic_body.tpl#L253)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`130`](../src/subsilver/viewtopic_body.tpl#L130), [`142`](../src/subsilver/viewtopic_body.tpl#L142), [`241`](../src/subsilver/viewtopic_body.tpl#L241), [`244`](../src/subsilver/viewtopic_body.tpl#L244)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`138`](../src/punbb/viewtopic_body.tpl#L138), [`140`](../src/punbb/viewtopic_body.tpl#L140), [`141`](../src/punbb/viewtopic_body.tpl#L141), [`148`](../src/punbb/viewtopic_body.tpl#L148)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`129`](../src/punbb/viewtopic_body.tpl#L129), [`131`](../src/punbb/viewtopic_body.tpl#L131), [`132`](../src/punbb/viewtopic_body.tpl#L132), [`139`](../src/punbb/viewtopic_body.tpl#L139)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`127`](../src/invision/viewtopic_body.tpl#L127), [`128`](../src/invision/viewtopic_body.tpl#L128), [`132`](../src/invision/viewtopic_body.tpl#L132), [`180`](../src/invision/viewtopic_body.tpl#L180), [`270`](../src/invision/viewtopic_body.tpl#L270)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`118`](../src/invision/viewtopic_body.tpl#L118), [`119`](../src/invision/viewtopic_body.tpl#L119), [`123`](../src/invision/viewtopic_body.tpl#L123), [`171`](../src/invision/viewtopic_body.tpl#L171), [`261`](../src/invision/viewtopic_body.tpl#L261)
 

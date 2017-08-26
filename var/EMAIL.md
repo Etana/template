@@ -29,5 +29,5 @@
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`36`](../src/invision/profile_send_pass.tpl#L36)
 
 ### Version Version mobile
-* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`12`](../src/mobile/profile_send_pass.tpl#L12)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`6`](../src/mobile/profile_send_pass.tpl#L6)
 

@@ -13,10 +13,10 @@ Lien pour surveiller les sujets du forum concerné.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`56`](../src/prosilver/viewforum_body.tpl#L56)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`57`](../src/prosilver/viewforum_body.tpl#L57)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`34`](../src/subsilver/viewforum_body.tpl#L34)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`35`](../src/subsilver/viewforum_body.tpl#L35)
 
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)

@@ -22,14 +22,14 @@ Boucle s'affichant lors de la prévisualisation d'un thème Hitskin pour votre f
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`212`](../src/prosilver/overall_header.tpl#L212)[`<->`](../src/prosilver/overall_header.tpl#L212-L224)[`224`](../src/prosilver/overall_header.tpl#L224)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`218`](../src/prosilver/overall_header.tpl#L218)[`<->`](../src/prosilver/overall_header.tpl#L218-L230)[`230`](../src/prosilver/overall_header.tpl#L230)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`210`](../src/subsilver/overall_header.tpl#L210)[`<->`](../src/subsilver/overall_header.tpl#L210-L221)[`221`](../src/subsilver/overall_header.tpl#L221)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`205`](../src/subsilver/overall_header.tpl#L205)[`<->`](../src/subsilver/overall_header.tpl#L205-L216)[`216`](../src/subsilver/overall_header.tpl#L216)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`205`](../src/punbb/overall_header.tpl#L205)[`<->`](../src/punbb/overall_header.tpl#L205-L216)[`216`](../src/punbb/overall_header.tpl#L216)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`211`](../src/punbb/overall_header.tpl#L211)[`<->`](../src/punbb/overall_header.tpl#L211-L222)[`222`](../src/punbb/overall_header.tpl#L222)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`207`](../src/invision/overall_header.tpl#L207)[`<->`](../src/invision/overall_header.tpl#L207-L219)[`219`](../src/invision/overall_header.tpl#L219)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`213`](../src/invision/overall_header.tpl#L213)[`<->`](../src/invision/overall_header.tpl#L213-L225)[`225`](../src/invision/overall_header.tpl#L225)
 

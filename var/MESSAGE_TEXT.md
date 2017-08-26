@@ -37,5 +37,5 @@ Contenu du message.
 * __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`24`](../src/invision/modcp_move.tpl#L24)
 
 ### Version Version mobile
-* __[`message_body`](../tpl/message_body.md#readme) :__ lignes [`4`](../src/mobile/message_body.tpl#L4)
+* __[`message_body`](../tpl/message_body.md#readme) :__ lignes [`3`](../src/mobile/message_body.tpl#L3)
 

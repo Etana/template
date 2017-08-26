@@ -42,6 +42,8 @@
 		{TOPIC_LIST_SCHEDULER}
 		<br />
 		{BIRTHDAY_LIST_SCHEDULER}
+        <br />
+        {EVENT_LIST_SCHEDULER}
 	</div>
 	<div class="clear"></div>
 	<p>{PAGINATION}</p>

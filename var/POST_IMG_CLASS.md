@@ -13,8 +13,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`58`](../src/prosilver/viewtopic_body.tpl#L58), [`326`](../src/prosilver/viewtopic_body.tpl#L326)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`49`](../src/prosilver/viewtopic_body.tpl#L49), [`316`](../src/prosilver/viewtopic_body.tpl#L316)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`114`](../src/punbb/viewtopic_body.tpl#L114), [`293`](../src/punbb/viewtopic_body.tpl#L293)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`105`](../src/punbb/viewtopic_body.tpl#L105), [`284`](../src/punbb/viewtopic_body.tpl#L284)
 

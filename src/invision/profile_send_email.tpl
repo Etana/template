@@ -1,5 +1,5 @@
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
 	<!--li><strong>{NAV_CAT_DESC}</strong></li-->
 	<li><strong>{L_SEND_EMAIL_MSG}</strong></li>
 </ul>
@@ -14,19 +14,31 @@
 
 		<div class="box-content">
 			<fieldset>
+				<!-- BEGIN switch_profile_email -->
 				<dl>
 					<dt><label>{L_RECIPIENT}</label></dt>
-					<dd><input type="text" name="friendname" value="{USERNAME}" class="inputbox" /></dd>
+					<dd><input type="text" name="friendname" value="{USERNAME}" class="inputbox posting-subject" /></dd>
 				</dl>
+				<!-- END switch_profile_email -->
+				<!-- BEGIN switch_ad_email -->
+				<dl>
+					<dt><label>{switch_ad_email.L_YOUR_EMAIL}</label></dt>
+					<dd><input type="text" name="email" value="{switch_ad_email.V_YOUR_EMAIL}" {switch_ad_email.DISABLE_YOUR_EMAIL} class="inputbox posting-subject" /></dd>
+				</dl>
+				<dl>
+					<dt><label>{switch_ad_email.L_YOUR_NAME}</label></dt>
+					<dd><input type="text" name="username" value="{switch_ad_email.V_YOUR_NAME}" {switch_ad_email.DISABLE_YOUR_NAME} class="inputbox posting-subject" /></dd>
+				</dl>
+				<!-- END switch_ad_email -->
 				<!-- BEGIN switch_tell_friend -->
 				<dl>
 					<dt><label>{L_TELL_FRIEND_RECIEVER_EMAIL}</label></dt>
-					<dd><input type="text" name="friendemail" value="" class="inputbox" /></dd>
+					<dd><input type="text" name="friendemail" value="" class="inputbox posting-subject" /></dd>
 				</dl>
 				<!-- END switch_tell_friend -->
 				<dl>
 					<dt><label>{L_SUBJECT}</label></dt>
-					<dd><input class="inputbox" type="text" name="subject" value="{SUBJECT}" maxlength="100" /></dd>
+					<dd><input class="inputbox posting-subject" type="text" name="subject" value="{SUBJECT}" maxlength="100" {SUBJECT_READ_ONLY} /></dd>
 				</dl>
 				<dl>
 					<dt>
@@ -34,7 +46,7 @@
 						<span class="normal">{L_MESSAGE_BODY_DESC}</span>
 					</dt>
 					<dd>
-						<textarea class="inputbox" name="message" rows="25" cols="40" tabindex="3">{MESSAGE}</textarea>
+						<textarea class="inputbox" name="message" rows="25" style="width:100%;" tabindex="3">{MESSAGE}</textarea>
 						<!-- BEGIN switch_tell_friend -->
 						<input type="text" class="inputbox" value="{MAIL_LINK}" disabled="disabled" />
 						<!-- END switch_tell_friend -->

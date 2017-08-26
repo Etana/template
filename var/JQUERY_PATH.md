@@ -36,6 +36,3 @@ Adresse URL de la librairie JavaScript jQuery.
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`8`](../src/invision/posting_smilies_wysiwyg.tpl#L8)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`11`](../src/invision/simple_header.tpl#L11)
 
-### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`15`](../src/mobile/overall_header.tpl#L15)
-

@@ -18,5 +18,5 @@ Boucle s'affichant si vous avez sélectionné "Centré" dans `PA > Affichage > P
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`259`](../src/subsilver/overall_header.tpl#L259)[`<->`](../src/subsilver/overall_header.tpl#L259-L262)[`262`](../src/subsilver/overall_header.tpl#L262)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`254`](../src/subsilver/overall_header.tpl#L254)[`<->`](../src/subsilver/overall_header.tpl#L254-L257)[`257`](../src/subsilver/overall_header.tpl#L257)
 

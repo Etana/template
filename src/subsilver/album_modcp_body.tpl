@@ -4,9 +4,9 @@
     <table width="100%" align="center" cellspacing="1" cellpadding="0" border="0">
         <tr>
             <td class="nav">
-                <span class="nav" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                    <a href="{U_FORUM_INDEX}" class="nav" itemprop="url"><span itemprop="title">{L_INDEX}</span></a> {NAV_SEP}
-                    <a class="nav" href="{U_ALBUM}" itemprop="url"><span itemprop="title">{L_ALBUM}</span></a>{NAV_CAT_DESC}
+                <span class="nav">
+                    <a href="{U_FORUM_INDEX}" class="nav"><span>{L_INDEX}</span></a> {NAV_SEP}
+                    <a class="nav" href="{U_ALBUM}"><span>{L_ALBUM}</span></a>{NAV_CAT_DESC}
                 </span>
             </td>
         </tr>

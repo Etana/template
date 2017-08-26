@@ -29,5 +29,5 @@
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`5`](../src/invision/index_box.tpl#L5)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`5`](../src/mobile/index_box.tpl#L5)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`4`](../src/mobile/index_box.tpl#L4)
 

@@ -3,7 +3,7 @@
 <p>{CURRENT_TIME}</p>
 
 <div class="topic-actions">
-	<p itemscope itemtype="http://data-vocabulary.org/Breadcrumb">{L_INDEX}{NAV_CAT_DESC}</p>
+	<p>{L_INDEX}{NAV_CAT_DESC}</p>
 </div>
 
 <h1 class="page-title">{L_MOD_CP}</h1>

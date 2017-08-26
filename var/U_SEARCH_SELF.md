@@ -63,10 +63,10 @@ Adresse url absolue vers "Voir ses messages" : `/search?search_id=egosearch`
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`6`](../src/punbb/search_body.tpl#L6)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`6`](../src/punbb/search_results_posts.tpl#L6)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`5`](../src/punbb/search_results_topics.tpl#L5)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`16`](../src/punbb/viewforum_body.tpl#L16)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`17`](../src/punbb/viewforum_body.tpl#L17)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`15`](../src/punbb/viewonline_body.tpl#L15)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`67`](../src/punbb/viewtopic_body.tpl#L67)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`58`](../src/punbb/viewtopic_body.tpl#L58)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`268`](../src/invision/overall_header.tpl#L268)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`274`](../src/invision/overall_header.tpl#L274)
 

@@ -26,8 +26,8 @@ Chaîne de texte.
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`28`](../src/prosilver/privmsgs_body.tpl#L28)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`8`](../src/prosilver/profile_avatar_gallery.tpl#L8)
 * __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`80`](../src/prosilver/report_list_body.tpl#L80)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`65`](../src/prosilver/viewforum_body.tpl#L65)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`348`](../src/prosilver/viewtopic_body.tpl#L348), [`361`](../src/prosilver/viewtopic_body.tpl#L361)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`66`](../src/prosilver/viewforum_body.tpl#L66)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`338`](../src/prosilver/viewtopic_body.tpl#L338), [`351`](../src/prosilver/viewtopic_body.tpl#L351)
 
 ### Version phpBB2
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`4`](../src/subsilver/jumpbox.tpl#L4)
@@ -35,8 +35,8 @@ Chaîne de texte.
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`53`](../src/subsilver/privmsgs_body.tpl#L53)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme) :__ lignes [`12`](../src/subsilver/profile_avatar_gallery.tpl#L12)
 * __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`58`](../src/subsilver/report_list_body.tpl#L58)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`89`](../src/subsilver/viewforum_body.tpl#L89)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`449`](../src/subsilver/viewtopic_body.tpl#L449), [`473`](../src/subsilver/viewtopic_body.tpl#L473)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`90`](../src/subsilver/viewforum_body.tpl#L90)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`440`](../src/subsilver/viewtopic_body.tpl#L440), [`464`](../src/subsilver/viewtopic_body.tpl#L464)
 
 ### Version PunBB
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`2`](../src/punbb/jumpbox.tpl#L2)

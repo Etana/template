@@ -21,10 +21,10 @@
 
 ### Version phpBB2
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`41`](../src/subsilver/posting_topic_review.tpl#L41)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`134`](../src/subsilver/viewtopic_body.tpl#L134)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`125`](../src/subsilver/viewtopic_body.tpl#L125)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/invision/viewtopic_body.tpl#L117)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`108`](../src/invision/viewtopic_body.tpl#L108)
 
 ### Version Version mobile
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`42`](../src/mobile/viewtopic_body.tpl#L42)

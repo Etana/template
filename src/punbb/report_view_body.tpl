@@ -13,13 +13,13 @@
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<div class="pun-crumbs">
 	<p class="crumbs">
-		<a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<a href="{U_REPORT_LIST}">{L_REPORT_LIST}</a>
+		<a href="{U_INDEX}"><span>{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<a href="{U_REPORT_LIST}">{L_REPORT_LIST}</a>
 		<!-- BEGIN switch_report_archive -->
-		&nbsp;&raquo;&nbsp;<strong><a href="{U_REPORT_ARCHIVE}" itemprop="url"><span itemprop="title">{L_REPORT_ARCHIVE}</span></a></strong>
+		&nbsp;&raquo;&nbsp;<strong><a href="{U_REPORT_ARCHIVE}"><span>{L_REPORT_ARCHIVE}</span></a></strong>
 		<!-- END switch_report_archive -->
-		&nbsp;&raquo;&nbsp;<strong><a href="{U_REPORT_VIEW}" itemprop="url"><span itemprop="title">{L_REPORT_VIEW}</span></a></strong>
+		&nbsp;&raquo;&nbsp;<strong><a href="{U_REPORT_VIEW}"><span>{L_REPORT_VIEW}</span></a></strong>
 	</p>
 </div>
 

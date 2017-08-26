@@ -15,14 +15,14 @@ Chaîne de texte du popup de connexion.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`234`](../src/prosilver/overall_header.tpl#L234)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`240`](../src/prosilver/overall_header.tpl#L240)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`237`](../src/subsilver/overall_header.tpl#L237)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`232`](../src/subsilver/overall_header.tpl#L232)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`229`](../src/punbb/overall_header.tpl#L229)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`235`](../src/punbb/overall_header.tpl#L235)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`232`](../src/invision/overall_header.tpl#L232)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`238`](../src/invision/overall_header.tpl#L238)
 

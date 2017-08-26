@@ -6,9 +6,7 @@
 
 {PAGINATION}
 <!-- BEGIN switch_user_authpost -->
-<div id="mobileActionBar">
-	<a href="{U_POST_NEW_TOPIC}" rel="nofollow" class="navbar">
-		<div class="mobileActionLabel">{L_NEW_TOPIC}</div>
-	</a>
-</div>
+<a href="{U_POST_NEW_TOPIC}" rel="nofollow" class="btn-floating">
+    <i class="material-icons">&#xE150;</i>
+</a>
 <!-- END switch_user_authpost -->

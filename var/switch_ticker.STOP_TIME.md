@@ -15,14 +15,14 @@ Contient le temps d'arrêt des annonces défini dans `PA > Général > Messages 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`103`](../src/prosilver/overall_header.tpl#L103), [`138`](../src/prosilver/overall_header.tpl#L138)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`109`](../src/prosilver/overall_header.tpl#L109), [`144`](../src/prosilver/overall_header.tpl#L144)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`109`](../src/subsilver/overall_header.tpl#L109), [`144`](../src/subsilver/overall_header.tpl#L144)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`106`](../src/subsilver/overall_header.tpl#L106), [`139`](../src/subsilver/overall_header.tpl#L139)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`102`](../src/punbb/overall_header.tpl#L102), [`138`](../src/punbb/overall_header.tpl#L138)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`108`](../src/punbb/overall_header.tpl#L108), [`144`](../src/punbb/overall_header.tpl#L144)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`53`](../src/invision/overall_header.tpl#L53), [`151`](../src/invision/overall_header.tpl#L151)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`59`](../src/invision/overall_header.tpl#L59), [`157`](../src/invision/overall_header.tpl#L157)
 

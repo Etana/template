@@ -13,6 +13,6 @@ Affiche le fil d'Ariane secondaire.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`51`](../src/subsilver/viewforum_body.tpl#L51), [`72`](../src/subsilver/viewforum_body.tpl#L72)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`65`](../src/subsilver/viewtopic_body.tpl#L65), [`403`](../src/subsilver/viewtopic_body.tpl#L403), [`423`](../src/subsilver/viewtopic_body.tpl#L423)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`52`](../src/subsilver/viewforum_body.tpl#L52), [`73`](../src/subsilver/viewforum_body.tpl#L73)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`57`](../src/subsilver/viewtopic_body.tpl#L57), [`394`](../src/subsilver/viewtopic_body.tpl#L394), [`414`](../src/subsilver/viewtopic_body.tpl#L414)
 

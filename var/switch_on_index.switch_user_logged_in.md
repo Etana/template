@@ -20,5 +20,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`83`](../src/invision/index_box.tpl#L83)[`<->`](../src/invision/index_box.tpl#L83-L85)[`85`](../src/invision/index_box.tpl#L85)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`92`](../src/invision/index_box.tpl#L92)[`<->`](../src/invision/index_box.tpl#L92-L94)[`94`](../src/invision/index_box.tpl#L94)
 

@@ -22,8 +22,8 @@ Affiche le fil d’Ariane.
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`6`](../src/prosilver/modcp_body.tpl#L6)
 * __[`modcp_move`](../tpl/modcp_move.md#readme) :__ lignes [`6`](../src/prosilver/modcp_move.tpl#L6)
 * __[`modcp_split`](../tpl/modcp_split.md#readme) :__ lignes [`6`](../src/prosilver/modcp_split.tpl#L6)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`41`](../src/prosilver/viewforum_body.tpl#L41)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`70`](../src/prosilver/viewtopic_body.tpl#L70), [`335`](../src/prosilver/viewtopic_body.tpl#L335)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`42`](../src/prosilver/viewforum_body.tpl#L42)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`61`](../src/prosilver/viewtopic_body.tpl#L61), [`325`](../src/prosilver/viewtopic_body.tpl#L325)
 
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`12`](../src/subsilver/album_cat_body.tpl#L12), [`209`](../src/subsilver/album_cat_body.tpl#L209), [`226`](../src/subsilver/album_cat_body.tpl#L226)
@@ -72,8 +72,8 @@ Affiche le fil d’Ariane.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`19`](../src/punbb/search_body.tpl#L19)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`19`](../src/punbb/search_results_posts.tpl#L19)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`18`](../src/punbb/search_results_topics.tpl#L18)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`49`](../src/punbb/viewforum_body.tpl#L49)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`83`](../src/punbb/viewtopic_body.tpl#L83), [`306`](../src/punbb/viewtopic_body.tpl#L306)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`50`](../src/punbb/viewforum_body.tpl#L50)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`74`](../src/punbb/viewtopic_body.tpl#L74), [`297`](../src/punbb/viewtopic_body.tpl#L297)
 
 ### Version Invision
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`3`](../src/invision/agreement.tpl#L3)
@@ -104,8 +104,8 @@ Affiche le fil d’Ariane.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`4`](../src/invision/search_results_posts.tpl#L4)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`3`](../src/invision/search_results_topics.tpl#L3)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`3`](../src/invision/viewforum_body.tpl#L3)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`51`](../src/invision/viewtopic_body.tpl#L51)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`43`](../src/invision/viewtopic_body.tpl#L43)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`46`](../src/mobile/overall_header.tpl#L46)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`49`](../src/mobile/overall_header.tpl#L49)
 

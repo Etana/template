@@ -31,6 +31,3 @@ Chaîne de texte.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`33`](../src/invision/search_results_posts.tpl#L33)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`27`](../src/invision/search_results_topics.tpl#L27)
 
-### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/mobile/topics_list_box.tpl#L69)
-

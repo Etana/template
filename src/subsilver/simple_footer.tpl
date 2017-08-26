@@ -9,7 +9,7 @@
 				<div align="center">
 					<span class="copyright">
 						<br />
-						<a href="http://www.forumactif.com/" target="_blank" class="copyright">Cr&eacute;er un forum gratuit</a>
+						<a href="https://www.forumactif.com/" target="_blank" class="copyright">Cr&eacute;er un forum gratuit</a>
 					</span>
 					<!-- BEGIN switch_view_stats -->
 						| <a name="bottom" href="{switch_view_stats.S_STATS}" class="copyright">{switch_view_stats.L_STATS}</a>

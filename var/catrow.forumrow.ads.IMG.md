@@ -1,0 +1,35 @@
+# catrow.forumrow.ads.IMG
+* __Type :__ sous-variable d'affichage
+* __Utilisable dans :__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisation :__
+
+```smarty
+<!-- BEGIN catrow -->
+    <!-- BEGIN forumrow -->
+        <!-- BEGIN ads -->
+        {catrow.forumrow.ads.IMG}
+        <!-- END ads -->
+    <!-- END forumrow -->
+<!-- END catrow -->
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.IMG)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.IMG)
+
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`52`](../src/prosilver/index_box.tpl#L52)
+
+### Version phpBB2
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`74`](../src/subsilver/index_box.tpl#L74)
+
+### Version PunBB
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`44`](../src/punbb/index_box.tpl#L44)
+
+### Version Invision
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`56`](../src/invision/index_box.tpl#L56)
+
+### Version Version mobile
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`16`](../src/mobile/index_box.tpl#L16)
+

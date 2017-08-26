@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`87`](../src/prosilver/index_body.tpl#L87)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`91`](../src/prosilver/index_body.tpl#L91)
 

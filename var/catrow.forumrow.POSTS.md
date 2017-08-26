@@ -29,5 +29,5 @@ Contient le nombre de messages postés dans le forum bouclé.
 * __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`52`](../src/invision/index_box.tpl#L52)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`14`](../src/mobile/index_box.tpl#L14)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`22`](../src/mobile/index_box.tpl#L22)
 

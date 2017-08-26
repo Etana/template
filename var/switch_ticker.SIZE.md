@@ -15,14 +15,14 @@ Variable non utilisée.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`71`](../src/prosilver/overall_header.tpl#L71), [`106`](../src/prosilver/overall_header.tpl#L106)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`77`](../src/prosilver/overall_header.tpl#L77), [`112`](../src/prosilver/overall_header.tpl#L112)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`78`](../src/subsilver/overall_header.tpl#L78), [`112`](../src/subsilver/overall_header.tpl#L112)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`78`](../src/subsilver/overall_header.tpl#L78), [`109`](../src/subsilver/overall_header.tpl#L109)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`69`](../src/punbb/overall_header.tpl#L69), [`105`](../src/punbb/overall_header.tpl#L105)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`75`](../src/punbb/overall_header.tpl#L75), [`111`](../src/punbb/overall_header.tpl#L111)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`120`](../src/invision/overall_header.tpl#L120), [`154`](../src/invision/overall_header.tpl#L154)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`126`](../src/invision/overall_header.tpl#L126), [`160`](../src/invision/overall_header.tpl#L160)
 

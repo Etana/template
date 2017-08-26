@@ -21,7 +21,7 @@
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`7`](../src/prosilver/album_search_body.tpl#L7)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`216`](../src/prosilver/album_showpage_body.tpl#L216)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`200`](../src/prosilver/album_upload_body.tpl#L200), [`200`](../src/prosilver/album_upload_body.tpl#L200)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`69`](../src/prosilver/viewtopic_body.tpl#L69), [`335`](../src/prosilver/viewtopic_body.tpl#L335)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`60`](../src/prosilver/viewtopic_body.tpl#L60), [`325`](../src/prosilver/viewtopic_body.tpl#L325)
 
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`11`](../src/subsilver/album_cat_body.tpl#L11), [`208`](../src/subsilver/album_cat_body.tpl#L208), [`225`](../src/subsilver/album_cat_body.tpl#L225)
@@ -32,7 +32,7 @@
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`13`](../src/subsilver/album_search_body.tpl#L13)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme) :__ lignes [`219`](../src/subsilver/album_showpage_body.tpl#L219)
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme) :__ lignes [`198`](../src/subsilver/album_upload_body.tpl#L198), [`200`](../src/subsilver/album_upload_body.tpl#L200)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`64`](../src/subsilver/viewtopic_body.tpl#L64), [`403`](../src/subsilver/viewtopic_body.tpl#L403), [`423`](../src/subsilver/viewtopic_body.tpl#L423)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`56`](../src/subsilver/viewtopic_body.tpl#L56), [`394`](../src/subsilver/viewtopic_body.tpl#L394), [`414`](../src/subsilver/viewtopic_body.tpl#L414)
 
 ### Version PunBB
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`143`](../src/punbb/album_cat_body.tpl#L143)

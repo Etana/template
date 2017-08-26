@@ -1,5 +1,5 @@
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
 	<!--li><strong>{NAV_CAT_DESC}</strong></li-->
 </ul>
 
@@ -23,7 +23,7 @@
 <!-- BEGIN switch_fb_explain -->
 <div class="borderwrap">
 	<div class="row1 fb_explain">
-		<img src="http://illiweb.com/fa/admin/icones/big_ico/warning.png" class="left" alt="" />
+		<img src="https://illiweb.com/fa/admin/icones/big_ico/warning.png" class="left" alt="" />
 		<div id="fb_explain">{switch_fb_explain.FB_EXPLAIN}</div>
 		<div class="clear"></div>
 	</div>

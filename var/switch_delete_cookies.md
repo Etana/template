@@ -20,5 +20,5 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`90`](../src/subsilver/index_body.tpl#L90)[`<->`](../src/subsilver/index_body.tpl#L90-L92)[`92`](../src/subsilver/index_body.tpl#L92)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`69`](../src/subsilver/index_body.tpl#L69)[`<->`](../src/subsilver/index_body.tpl#L69-L71)[`71`](../src/subsilver/index_body.tpl#L71)
 

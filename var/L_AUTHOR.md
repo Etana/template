@@ -26,7 +26,7 @@ Chaîne de texte.
 * __[`report_view_body`](../tpl/report_view_body.md#readme) :__ lignes [`26`](../src/subsilver/report_view_body.tpl#L26)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`15`](../src/subsilver/search_results_posts.tpl#L15)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`27`](../src/subsilver/search_results_topics.tpl#L27)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`128`](../src/subsilver/viewtopic_body.tpl#L128), [`268`](../src/subsilver/viewtopic_body.tpl#L268)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`119`](../src/subsilver/viewtopic_body.tpl#L119), [`259`](../src/subsilver/viewtopic_body.tpl#L259)
 
 ### Version PunBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme) :__ lignes [`5`](../src/punbb/calendar_overview_topic.tpl#L5)

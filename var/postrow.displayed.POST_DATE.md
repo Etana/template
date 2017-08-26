@@ -21,7 +21,7 @@
 
 ### Version phpBB2
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`21`](../src/subsilver/posting_topic_review.tpl#L21)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`154`](../src/subsilver/viewtopic_body.tpl#L154)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`145`](../src/subsilver/viewtopic_body.tpl#L145)
 
 ### Version PunBB
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`14`](../src/punbb/posting_topic_review.tpl#L14)
@@ -30,5 +30,5 @@
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`24`](../src/invision/posting_topic_review.tpl#L24)
 
 ### Version Version mobile
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`6`](../src/mobile/posting_topic_review.tpl#L6)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`8`](../src/mobile/posting_topic_review.tpl#L8)
 

@@ -21,14 +21,14 @@ Si il n'y a pas de sujet suivant ces conditions, en allant à l'adresse une page
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/prosilver/viewtopic_body.tpl#L117), [`262`](../src/prosilver/viewtopic_body.tpl#L262)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`107`](../src/prosilver/viewtopic_body.tpl#L107), [`252`](../src/prosilver/viewtopic_body.tpl#L252)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/subsilver/viewtopic_body.tpl#L116), [`287`](../src/subsilver/viewtopic_body.tpl#L287)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`107`](../src/subsilver/viewtopic_body.tpl#L107), [`278`](../src/subsilver/viewtopic_body.tpl#L278)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`125`](../src/punbb/viewtopic_body.tpl#L125), [`270`](../src/punbb/viewtopic_body.tpl#L270)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/punbb/viewtopic_body.tpl#L116), [`261`](../src/punbb/viewtopic_body.tpl#L261)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`301`](../src/invision/viewtopic_body.tpl#L301)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`292`](../src/invision/viewtopic_body.tpl#L292)
 

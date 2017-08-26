@@ -20,20 +20,26 @@
 	<link rel="search" type="application/opensearchdescription+xml" href="/improvedsearch.xml" title="{SITENAME}" />
 	<link rel="search" type="application/opensearchdescription+xml" href="{URL_BOARD_DIRECTORY}/search/improvedsearch.xml" title="{SEARCH_FORUMS}" />
 	<script src="{JQUERY_PATH}" type="text/javascript"></script>
+    <!-- BEGIN switch_recent_jquery -->
+    <script src="{JS_DIR}jquery1.9/jquery-migrate-1.4.1.js" type="text/javascript"></script>
+    <script src="{JQUERY_DIR}browser/v1.0/jquery.browser.min.js" type="text/javascript"></script>
+    <script src="{JQUERY_DIR}support/jquery.support.js" type="text/javascript"></script>
+    <!-- END switch_recent_jquery -->
 	<script src="{JS_DIR}{L_LANG}.js" type="text/javascript"></script>
+    {RICH_SNIPPET_GOOGLE}
 
 	<!-- BEGIN switch_fb_login -->
-	<script src="http://connect.facebook.net/{switch_fb_login.FB_LOCAL}/all.js" type="text/javascript"></script>
+	<script src="https://connect.facebook.net/{switch_fb_login.FB_LOCAL}/all.js" type="text/javascript"></script>
 	<script src="{switch_fb_login.JS_FB_LOGIN}" type="text/javascript"></script>
 	<!-- END switch_fb_login -->
 
 	<!-- BEGIN switch_ticker -->
-	<link type="text/css" rel="stylesheet" href="{JS_DIR}jquery/ticker/ticker.css" />	
-	<script src="{JS_DIR}jquery/ticker/ticker.js" type="text/javascript"></script>
+	<link type="text/css" rel="stylesheet" href="{JQUERY_DIR}ticker/ticker.css" />	
+	<script src="{JQUERY_DIR}ticker/ticker.js" type="text/javascript"></script>
 	<!-- END switch_ticker -->
 
 	<!-- BEGIN switch_ticker_new -->
-	<script src="{JS_DIR}jquery/jcarousel/jquery.jcarousel.js" type="text/javascript"></script>
+	<script src="{JQUERY_DIR}jcarousel/jquery.jcarousel.js" type="text/javascript"></script>
 	<script type="text/javascript">//<![CDATA[
 		/* Definir le sens de direction en fonction du panneau admin */
 		var tickerDirParam = "{switch_ticker.DIRECTION}";
@@ -204,12 +210,12 @@
 <body>
 	<!-- BEGIN hitskin_preview -->
 	<div id="hitskin_preview" style="display: block;">
-		<h1><img src="http://illiweb.com/fa/hitskin/hitskin_logo.png" alt="" /> <em>Hit</em>skin.com</h1>
+		<h1><img src="https://illiweb.com/fa/hitskin/hitskin_logo.png" alt="" /> <em>Hit</em>skin.com</h1>
 		<div class="content">
 			<p>
 				{hitskin_preview.L_THEME_SITE_PREVIEW}
 				<br />
-				<span>{hitskin_preview.U_INSTALL_THEME}<a href="http://{hitskin_preview.U_RETURN_THEME}">{hitskin_preview.L_RETURN_THEME}</a></span>
+				<span>{hitskin_preview.U_INSTALL_THEME}<a href="https://{hitskin_preview.U_RETURN_THEME}">{hitskin_preview.L_RETURN_THEME}</a></span>
 			</p>
 		</div>
 	</div>

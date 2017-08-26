@@ -13,14 +13,14 @@ Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion d
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`128`](../src/prosilver/index_body.tpl#L128)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`136`](../src/prosilver/index_body.tpl#L136)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`233`](../src/subsilver/index_body.tpl#L233)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`190`](../src/subsilver/index_body.tpl#L190)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`127`](../src/punbb/index_body.tpl#L127)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`141`](../src/punbb/index_body.tpl#L141)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`163`](../src/invision/index_body.tpl#L163)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`169`](../src/invision/index_body.tpl#L169)
 

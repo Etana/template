@@ -13,9 +13,9 @@
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<div class="pun-crumbs">
 	<p class="crumbs">
-		<a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong><a href="{U_REPORT_LIST}">{L_REPORT_LIST}</a></strong>
+		<a href="{U_INDEX}"><span>{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong><a href="{U_REPORT_LIST}">{L_REPORT_LIST}</a></strong>
 		<!-- BEGIN switch_archive -->
 		&nbsp;&raquo;&nbsp;<strong><a href="{U_REPORT_ARCHIVE}">{L_REPORT_ARCHIVE}</a></strong>
 		<!-- END switch_archive -->

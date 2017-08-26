@@ -1,5 +1,5 @@
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
 	<!--li><a href="{U_ALBUM}">{L_ALBUM}</a></li-->
 	<li><strong>{L_TITLE}</strong></li>
 </ul>

@@ -40,10 +40,17 @@
 		<label><span class="genmed">{L_PASSWORD} :</span> <input class="post" type="password" size="10" name="password" /></label> &nbsp;
 		<label><span class="gensmall">{L_AUTO_LOGIN}</span> <input class="radio" type="checkbox" name="autologin" {AUTOLOGIN_CHECKED} /></label> &nbsp;
 		{S_HIDDEN_FIELDS}<input class="mainoption" type="submit" name="login" value="{L_LOGIN}" />
-		<!-- BEGIN switch_fb_connect -->
-		<span class="fb_or">{switch_user_login_form_header.switch_fb_connect.L_OR}</span>
-		<fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button>
-		<!-- END switch_fb_connect -->
+
+        <!-- BEGIN switch_social_login -->
+        <div class="mt10">
+            <div class="social_btn">
+                <!-- BEGIN fb_connect -->
+                <div class="fb-login-button"></div>
+                <!-- END fb_connect -->
+                &nbsp;
+            </div>
+        </div>
+        <!-- END switch_social_login -->
 	</div>
 </form>
 </div>
@@ -109,10 +116,17 @@
 		<label><span class="genmed">{L_PASSWORD} :</span> <input class="post" type="password" size="10" name="password"/></label> &nbsp;
 		<label><span class="gensmall">{L_AUTO_LOGIN}</span> <input class="radio" type="checkbox" name="autologin" {AUTOLOGIN_CHECKED} /></label> &nbsp;
 		{S_HIDDEN_FIELDS}<input class="mainoption" type="submit" name="login" value="{L_LOGIN}" />
-		<!-- BEGIN switch_fb_connect -->
-		<span class="genmed fb_or">{switch_user_login_form_footer.switch_fb_connect.L_OR}</span>
-		<fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button>
-		<!-- END switch_fb_connect -->
+
+        <!-- BEGIN switch_social_login -->
+        <div class="mt10">
+            <div class="social_btn">
+                <!-- BEGIN fb_connect -->
+                <div class="fb-login-button"></div>
+                <!-- END fb_connect -->
+                &nbsp;
+            </div>
+        </div>
+        <!-- END switch_social_login -->
 	</div>
 </form>
 <!-- END switch_user_login_form_footer -->
@@ -130,24 +144,3 @@
 <!-- END switch_legend -->
 
 {AUTO_DST}
-
-<!-- BEGIN switch_fb_index_login -->
-<div id="fb-root"></div>
-<script>
-    FB.init({
-      appId      : {switch_fb_index_login.FACEBOOK_APP_ID}, 
-      cookie     : true,
-      xfbml      : true,
-      oauth      : true,
-      version    : 'v2.3'
-    });
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-<!-- END switch_fb_index_login -->

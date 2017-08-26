@@ -19,10 +19,10 @@ Chaîne de caractère.
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`39`](../src/prosilver/album_formsearch_body.tpl#L39)
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`25`](../src/prosilver/merge_body.tpl#L25)
 * __[`mod_search`](../tpl/mod_search.md#readme) :__ lignes [`5`](../src/prosilver/mod_search.tpl#L5)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`274`](../src/prosilver/overall_header.tpl#L274), [`274`](../src/prosilver/overall_header.tpl#L274), [`274`](../src/prosilver/overall_header.tpl#L274), [`276`](../src/prosilver/overall_header.tpl#L276)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`280`](../src/prosilver/overall_header.tpl#L280), [`280`](../src/prosilver/overall_header.tpl#L280), [`280`](../src/prosilver/overall_header.tpl#L280), [`282`](../src/prosilver/overall_header.tpl#L282)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`26`](../src/prosilver/search_body.tpl#L26), [`79`](../src/prosilver/search_body.tpl#L79)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`14`](../src/prosilver/search_username.tpl#L14)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`33`](../src/prosilver/viewforum_body.tpl#L33), [`33`](../src/prosilver/viewforum_body.tpl#L33), [`33`](../src/prosilver/viewforum_body.tpl#L33), [`34`](../src/prosilver/viewforum_body.tpl#L34)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`34`](../src/prosilver/viewforum_body.tpl#L34), [`34`](../src/prosilver/viewforum_body.tpl#L34), [`34`](../src/prosilver/viewforum_body.tpl#L34), [`35`](../src/prosilver/viewforum_body.tpl#L35)
 
 ### Version phpBB2
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme) :__ lignes [`40`](../src/subsilver/album_formsearch_body.tpl#L40)
@@ -44,5 +44,5 @@ Chaîne de caractère.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`27`](../src/invision/search_body.tpl#L27), [`68`](../src/invision/search_body.tpl#L68)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`14`](../src/invision/search_username.tpl#L14)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`161`](../src/invision/topics_list_box.tpl#L161), [`161`](../src/invision/topics_list_box.tpl#L161), [`161`](../src/invision/topics_list_box.tpl#L161), [`162`](../src/invision/topics_list_box.tpl#L162)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`291`](../src/invision/viewtopic_body.tpl#L291), [`291`](../src/invision/viewtopic_body.tpl#L291), [`291`](../src/invision/viewtopic_body.tpl#L291), [`292`](../src/invision/viewtopic_body.tpl#L292)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`282`](../src/invision/viewtopic_body.tpl#L282), [`282`](../src/invision/viewtopic_body.tpl#L282), [`282`](../src/invision/viewtopic_body.tpl#L282), [`283`](../src/invision/viewtopic_body.tpl#L283)
 

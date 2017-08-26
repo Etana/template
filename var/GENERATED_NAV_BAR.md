@@ -13,14 +13,14 @@ Affiche la barre de navigation choisie dans PA > Affichage > Page d'accueil | En
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`268`](../src/prosilver/overall_header.tpl#L268)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`274`](../src/prosilver/overall_header.tpl#L274)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`275`](../src/subsilver/overall_header.tpl#L275)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`270`](../src/subsilver/overall_header.tpl#L270)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`256`](../src/punbb/overall_header.tpl#L256)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`262`](../src/punbb/overall_header.tpl#L262)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`261`](../src/invision/overall_header.tpl#L261)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`267`](../src/invision/overall_header.tpl#L267)
 

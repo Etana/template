@@ -13,13 +13,13 @@ Image des sujets verrouillés définie dans `PA > Affichage > Images et Couleurs
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`90`](../src/prosilver/viewforum_body.tpl#L90)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`91`](../src/prosilver/viewforum_body.tpl#L91)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`105`](../src/subsilver/viewforum_body.tpl#L105)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`106`](../src/subsilver/viewforum_body.tpl#L106)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`73`](../src/punbb/viewforum_body.tpl#L73)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`74`](../src/punbb/viewforum_body.tpl#L74)
 
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`76`](../src/invision/viewforum_body.tpl#L76)

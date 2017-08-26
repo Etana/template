@@ -34,5 +34,5 @@
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`146`](../src/invision/topics_list_box.tpl#L146)[`<->`](../src/invision/topics_list_box.tpl#L146-L150)[`150`](../src/invision/topics_list_box.tpl#L150)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`75`](../src/mobile/topics_list_box.tpl#L75)[`<->`](../src/mobile/topics_list_box.tpl#L75-L81)[`81`](../src/mobile/topics_list_box.tpl#L81)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`72`](../src/mobile/topics_list_box.tpl#L72)[`<->`](../src/mobile/topics_list_box.tpl#L72-L76)[`76`](../src/mobile/topics_list_box.tpl#L76)
 

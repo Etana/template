@@ -1,8 +1,8 @@
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
-	<li><a href="{U_REPORT_LIST}" itemprop="url"><span itemprop="title">{L_REPORT_LIST}</span></a></li>
-	<li><a href="{U_REPORT_ARCHIVE}" itemprop="url"><span itemprop="title">{L_REPORT_ARCHIVE}</span></a></li>
-	<li><strong><a href="{U_REPORT_VIEW}" itemprop="url"><span itemprop="title">{L_REPORT_VIEW}</span></a></strong></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
+	<li><a href="{U_REPORT_LIST}"><span>{L_REPORT_LIST}</span></a></li>
+	<li><a href="{U_REPORT_ARCHIVE}"><span>{L_REPORT_ARCHIVE}</span></a></li>
+	<li><strong><a href="{U_REPORT_VIEW}"><span>{L_REPORT_VIEW}</span></a></strong></li>
 </ul>
 
 <!-- BEGIN row -->

@@ -1,5 +1,5 @@
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
 	<li><strong>{DONATE_TITLE}</strong></li>
 </ul>
 
@@ -128,7 +128,7 @@
 					<dd>
 						<input type="hidden" name="pay_method" value="{PAY_METHOD}" />
 						<input type="hidden" name="currency" value="{CURRENCY}" />
-						<input class="inputbox tiny" type="text" name="sum_selected" />
+						<input class="inputbox tiny" type="text" name="sum_selected" maxlength="5" />
 						<input class="button" type="submit" name="sub_paypal_field" value="{L_SUBMIT}" />
 					</dd>
 				</dl>

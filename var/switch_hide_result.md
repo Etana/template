@@ -30,5 +30,5 @@ contenu sur lequel on boucle
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`26`](../src/invision/viewtopic_poll_result.tpl#L26)[`<->`](../src/invision/viewtopic_poll_result.tpl#L26-L28)[`28`](../src/invision/viewtopic_poll_result.tpl#L28)
 
 ### Version Version mobile
-* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`16`](../src/mobile/viewtopic_poll_result.tpl#L16)[`<->`](../src/mobile/viewtopic_poll_result.tpl#L16-L18)[`18`](../src/mobile/viewtopic_poll_result.tpl#L18)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`13`](../src/mobile/viewtopic_poll_result.tpl#L13)[`<->`](../src/mobile/viewtopic_poll_result.tpl#L13-L15)[`15`](../src/mobile/viewtopic_poll_result.tpl#L15)
 

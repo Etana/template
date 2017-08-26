@@ -8,10 +8,22 @@
         <tr>
             <th class="thHead" colspan="2" height="25"><h1 class="pagetitle">{L_SEND_EMAIL_MSG}</h1></th>
         </tr>
+        <!-- BEGIN switch_profile_email -->
         <tr>
             <td class="row1" width="22%"><span class="gen"><b>{L_RECIPIENT}</b></span></td>
             <td class="row2" width="78%"><span class="gen"><b><input type="text" name="friendname" value="{USERNAME}" class="post" /></b></span></td>
         </tr>
+        <!-- END switch_profile_email -->
+        <!-- BEGIN switch_ad_email -->
+        <tr>
+            <td class="row1" width="22%"><span class="gen"><b>{switch_ad_email.L_YOUR_EMAIL}</b></span></td>
+            <td class="row2" width="78%"><span class="gen"><b><input type="text" name="email" value="{switch_ad_email.V_YOUR_EMAIL}" {switch_ad_email.DISABLE_YOUR_EMAIL} class="inputbox narrow" /></b></span></td>
+        </tr>
+        <tr>
+            <td class="row1" width="22%"><span class="gen"><b>{switch_ad_email.L_YOUR_NAME}</b></span></td>
+            <td class="row2" width="78%"><span class="gen"><b><input type="text" name="username" value="{switch_ad_email.V_YOUR_NAME}" {switch_ad_email.DISABLE_YOUR_NAME} class="inputbox narrow" /></b></span></td>
+        </tr>
+        <!-- END switch_ad_email -->
         <!-- BEGIN switch_tell_friend -->
         <tr>
             <td class="row1" width="22%"><span class="gen"><b>{L_TELL_FRIEND_RECIEVER_EMAIL}</b></span></td>
@@ -21,7 +33,7 @@
         <tr>
             <td class="row1" width="22%"><span class="gen"><b>{L_SUBJECT}</b></span></td>
             <td class="row2" width="78%">
-                <span class="gen"><input class="post" style="width:450px" type="text" name="subject" value="{SUBJECT}" size="45" maxlength="100" tabindex="2" /></span>
+                <span class="gen"><input class="post" style="width:450px" type="text" name="subject" value="{SUBJECT}" {SUBJECT_READ_ONLY} size="45" maxlength="100" tabindex="2" /></span>
             </td>
         </tr>
         <tr>

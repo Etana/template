@@ -15,29 +15,29 @@ Chaîne de texte qui permet de définir un code JavaScript selon la langue de vo
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`23`](../src/prosilver/overall_header.tpl#L23)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`28`](../src/prosilver/overall_header.tpl#L28)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`9`](../src/prosilver/posting_smilies_frame.tpl#L9)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`9`](../src/prosilver/posting_smilies_wysiwyg.tpl#L9)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`12`](../src/prosilver/simple_header.tpl#L12)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`23`](../src/subsilver/overall_header.tpl#L23)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`28`](../src/subsilver/overall_header.tpl#L28)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`7`](../src/subsilver/posting_smilies_frame.tpl#L7)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`9`](../src/subsilver/posting_smilies_wysiwyg.tpl#L9)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`12`](../src/subsilver/simple_header.tpl#L12)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`23`](../src/punbb/overall_header.tpl#L23)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`28`](../src/punbb/overall_header.tpl#L28)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`10`](../src/punbb/posting_smilies_frame.tpl#L10)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`10`](../src/punbb/posting_smilies_wysiwyg.tpl#L10)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`12`](../src/punbb/simple_header.tpl#L12)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`23`](../src/invision/overall_header.tpl#L23)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`28`](../src/invision/overall_header.tpl#L28)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme) :__ lignes [`10`](../src/invision/posting_smilies_frame.tpl#L10)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme) :__ lignes [`9`](../src/invision/posting_smilies_wysiwyg.tpl#L9)
 * __[`simple_header`](../tpl/simple_header.md#readme) :__ lignes [`12`](../src/invision/simple_header.tpl#L12)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`16`](../src/mobile/overall_header.tpl#L16)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`19`](../src/mobile/overall_header.tpl#L19)
 

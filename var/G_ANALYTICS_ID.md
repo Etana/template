@@ -13,17 +13,17 @@ Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analyti
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`192`](../src/prosilver/overall_header.tpl#L192)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`198`](../src/prosilver/overall_header.tpl#L198)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`191`](../src/subsilver/overall_header.tpl#L191)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`186`](../src/subsilver/overall_header.tpl#L186)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`185`](../src/punbb/overall_header.tpl#L185)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`191`](../src/punbb/overall_header.tpl#L191)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`188`](../src/invision/overall_header.tpl#L188)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`194`](../src/invision/overall_header.tpl#L194)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`21`](../src/mobile/overall_header.tpl#L21)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`28`](../src/mobile/overall_header.tpl#L28)
 

@@ -13,18 +13,18 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`360`](../src/prosilver/profile_add_body.tpl#L360)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`371`](../src/prosilver/profile_add_body.tpl#L371)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`23`](../src/prosilver/rpg_sheet_edit.tpl#L23)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`324`](../src/subsilver/profile_add_body.tpl#L324)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`335`](../src/subsilver/profile_add_body.tpl#L335)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`20`](../src/subsilver/rpg_sheet_edit.tpl#L20)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`363`](../src/punbb/profile_add_body.tpl#L363)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`373`](../src/punbb/profile_add_body.tpl#L373)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`32`](../src/punbb/rpg_sheet_edit.tpl#L32)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`438`](../src/invision/profile_add_body.tpl#L438)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`448`](../src/invision/profile_add_body.tpl#L448)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme) :__ lignes [`21`](../src/invision/rpg_sheet_edit.tpl#L21)
 

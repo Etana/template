@@ -20,8 +20,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`73`](../src/prosilver/index_body.tpl#L73)[`<->`](../src/prosilver/index_body.tpl#L73-L75)[`75`](../src/prosilver/index_body.tpl#L75)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`77`](../src/prosilver/index_body.tpl#L77)[`<->`](../src/prosilver/index_body.tpl#L77-L79)[`79`](../src/prosilver/index_body.tpl#L79)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`116`](../src/invision/index_body.tpl#L116)[`<->`](../src/invision/index_body.tpl#L116-L118)[`118`](../src/invision/index_body.tpl#L118)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`122`](../src/invision/index_body.tpl#L122)[`<->`](../src/invision/index_body.tpl#L122-L124)[`124`](../src/invision/index_body.tpl#L124)
 

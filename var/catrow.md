@@ -28,6 +28,12 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.cathead.LEVEL}`](../var/catrow.cathead.LEVEL.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.cathead.U_VIEWCAT}`](../var/catrow.cathead.U_VIEWCAT.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN forumrow -->`](../var/catrow.forumrow.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN ads -->`](../var/catrow.forumrow.ads.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.DATE}`](../var/catrow.forumrow.ads.DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.DATE))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.IMG}`](../var/catrow.forumrow.ads.IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.LINK}`](../var/catrow.forumrow.ads.LINK.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.LINK))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.LOCATION}`](../var/catrow.forumrow.ads.LOCATION.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.LOCATION))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.TITLE}`](../var/catrow.forumrow.ads.TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.TITLE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar -->`](../var/catrow.forumrow.avatar.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.avatar.LAST_POST_AVATAR}`](../var/catrow.forumrow.avatar.LAST_POST_AVATAR.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.avatar.LAST_POST_AVATAR))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.FOLDER_CLASSNAME}`](../var/catrow.forumrow.FOLDER_CLASSNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.FOLDER_CLASSNAME))__
@@ -69,17 +75,17 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`12`](../src/prosilver/index_box.tpl#L12)[`<->`](../src/prosilver/index_box.tpl#L12-L71)[`71`](../src/prosilver/index_box.tpl#L71)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`12`](../src/prosilver/index_box.tpl#L12)[`<->`](../src/prosilver/index_box.tpl#L12-L82)[`82`](../src/prosilver/index_box.tpl#L82)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`20`](../src/subsilver/index_box.tpl#L20)[`<->`](../src/subsilver/index_box.tpl#L20-L90)[`90`](../src/subsilver/index_box.tpl#L90)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`20`](../src/subsilver/index_box.tpl#L20)[`<->`](../src/subsilver/index_box.tpl#L20-L100)[`100`](../src/subsilver/index_box.tpl#L100)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`5`](../src/punbb/index_box.tpl#L5)[`<->`](../src/punbb/index_box.tpl#L5-L61)[`61`](../src/punbb/index_box.tpl#L61)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`5`](../src/punbb/index_box.tpl#L5)[`<->`](../src/punbb/index_box.tpl#L5-L71)[`71`](../src/punbb/index_box.tpl#L71)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`1`](../src/invision/index_box.tpl#L1)[`<->`](../src/invision/index_box.tpl#L1-L75)[`75`](../src/invision/index_box.tpl#L75)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`1`](../src/invision/index_box.tpl#L1)[`<->`](../src/invision/index_box.tpl#L1-L84)[`84`](../src/invision/index_box.tpl#L84)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`1`](../src/mobile/index_box.tpl#L1)[`<->`](../src/mobile/index_box.tpl#L1-L24)[`24`](../src/mobile/index_box.tpl#L24)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`1`](../src/mobile/index_box.tpl#L1)[`<->`](../src/mobile/index_box.tpl#L1-L33)[`33`](../src/mobile/index_box.tpl#L33)
 

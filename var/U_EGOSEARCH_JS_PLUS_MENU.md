@@ -13,17 +13,17 @@ Lien vers "Voir ses messages" dans le menu Plus !
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`13`](../src/prosilver/viewforum_body.tpl#L13)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`102`](../src/prosilver/viewtopic_body.tpl#L102)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`14`](../src/prosilver/viewforum_body.tpl#L14)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`93`](../src/prosilver/viewtopic_body.tpl#L93)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`18`](../src/subsilver/viewforum_body.tpl#L18)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`94`](../src/subsilver/viewtopic_body.tpl#L94)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`19`](../src/subsilver/viewforum_body.tpl#L19)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`86`](../src/subsilver/viewtopic_body.tpl#L86)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`7`](../src/punbb/viewforum_body.tpl#L7)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`56`](../src/punbb/viewtopic_body.tpl#L56)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`8`](../src/punbb/viewforum_body.tpl#L8)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`48`](../src/punbb/viewtopic_body.tpl#L48)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`102`](../src/invision/viewtopic_body.tpl#L102)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`94`](../src/invision/viewtopic_body.tpl#L94)
 

@@ -1,5 +1,5 @@
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
 	{NAV_CAT_DESC}
 	<li>{L_VIEW_PROFILE}</li>
 	<li>{USERNAME}</li>
@@ -7,7 +7,7 @@
 
 <div class="borderwrap profile-view">
 	<div class="maintitle">
-		<h3>{L_VIEWING_PROFILE}</h3>
+		<h1>{L_VIEWING_PROFILE}</h1>
 	</div>
 
 	<div class="box-content row1 clearfix">

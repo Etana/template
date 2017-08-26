@@ -17,14 +17,17 @@ Contient le script de Facebook Connect si celui-ci est activé dans `PA > Module
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`27`](../src/prosilver/overall_header.tpl#L27)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`33`](../src/prosilver/overall_header.tpl#L33)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`27`](../src/subsilver/overall_header.tpl#L27)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`33`](../src/subsilver/overall_header.tpl#L33)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`27`](../src/punbb/overall_header.tpl#L27)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`33`](../src/punbb/overall_header.tpl#L33)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`27`](../src/invision/overall_header.tpl#L27)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`33`](../src/invision/overall_header.tpl#L33)
+
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`22`](../src/mobile/overall_header.tpl#L22)
 

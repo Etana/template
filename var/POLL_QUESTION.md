@@ -37,6 +37,6 @@
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`9`](../src/invision/viewtopic_poll_result.tpl#L9)
 
 ### Version Version mobile
-* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`4`](../src/mobile/viewtopic_poll_ballot.tpl#L4)
-* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`3`](../src/mobile/viewtopic_poll_result.tpl#L3)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme) :__ lignes [`3`](../src/mobile/viewtopic_poll_ballot.tpl#L3)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`2`](../src/mobile/viewtopic_poll_result.tpl#L2)
 

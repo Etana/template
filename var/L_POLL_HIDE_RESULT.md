@@ -29,5 +29,5 @@
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`27`](../src/invision/viewtopic_poll_result.tpl#L27)
 
 ### Version Version mobile
-* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`17`](../src/mobile/viewtopic_poll_result.tpl#L17)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme) :__ lignes [`14`](../src/mobile/viewtopic_poll_result.tpl#L14)
 

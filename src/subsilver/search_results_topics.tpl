@@ -6,8 +6,8 @@
 <table width="100%" border="0" cellspacing="2" cellpadding="0" align="center">
 	<tr>
 		<td class="nav" valign="middle" width="100%">
-            <span class="nav" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a class="nav" href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a> :: {L_SEARCH_TITLE}
+            <span class="nav">
+                <a class="nav" href="{U_INDEX}"><span>{L_INDEX}</span></a> :: {L_SEARCH_TITLE}
             </span>
         </td>
 	</tr>

@@ -2,17 +2,9 @@
 //<![CDATA[
 var multiquote_img_off = '{JS_MULTIQUOTE_IMG_OFF}', multiquote_img_on = '{JS_MULTIQUOTE_IMG_ON}', _atr = '{JS_DIR}addthis/', _ati = '{PATH_IMG_FA}addthis/'{ADDTHIS_LANG}, addthis_localize = { share_caption: "{L_SHARE_CAPTION}", email: "{L_EMAIL}", email_caption: "{L_EMAIL_CAPTION}", favorites: "{L_SHARE_BOOKMARKS}", print: "{L_PRINT}", more: "{L_MORE}" };
 $(function(){
-
     if(typeof(_atc) == "undefined") {
-        _atc = { };
+        _atc = {  };
     }
-    
-    _atc.cwait = 0;
-    $('.addthis_button').mouseup(function(){
-        if ($('#at15s').css('display') == 'block') {
-            addthis_close();
-        }
-    });
 });
 
 var hiddenMsgLabel = { visible:'{JS_HIDE_HIDDEN_MESSAGE}', hidden:'{JS_SHOW_HIDDEN_MESSAGE}' };
@@ -59,9 +51,9 @@ showHiddenMessage = function(id)
 			</span>
 		</td>		
 		<td class="nav" valign="middle" width="100%">
-			<span class="nav" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a class="nav" href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>
-                <!--{NAV_SEP}<a class="nav" href="{U_ALBUM}" itemprop="url"><span itemprop="title">{L_ALBUM}</span></a>-->
+			<span class="nav">
+                <a class="nav" href="{U_INDEX}"><span>{L_INDEX}</span></a>
+                <!--{NAV_SEP}<a class="nav" href="{U_ALBUM}"><span>{L_ALBUM}</span></a>-->
                 {NAV_CAT_DESC_SECOND}
             </span>
 		</td>		
@@ -78,14 +70,14 @@ showHiddenMessage = function(id)
 			  var js, fjs = d.getElementsByTagName(s)[0];
 			  if (d.getElementById(id)) return;
 			  js = d.createElement(s); js.id = id;
-			  js.src = "//connect.facebook.net/{LANGUAGE}/all.js#xfbml=1";
+			  js.src = "https://connect.facebook.net/{LANGUAGE}/all.js#xfbml=1";
 			  fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'));</script>	
 			<div class="fb-like" data-href="{FORUM_URL}{TOPIC_URL}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 			<!-- END switch_fb_likebtn -->
 			
 			<span class="gensmall bold">
-				<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=forumotion">{L_SHARE}</a>
+				<a class="addthis_button" href="#">{L_SHARE}</a>
 				<!-- BEGIN switch_plus_menu -->
 				&nbsp;|&nbsp;
 				<script type="text/javascript">//<![CDATA[
@@ -94,7 +86,6 @@ showHiddenMessage = function(id)
 					var url_egosearch = '{U_EGOSEARCH_JS_PLUS_MENU}';
 					var url_unanswered = '{U_UNANSWERED_JS_PLUS_MENU}';
 					var url_watchsearch = '{U_WATCHSEARCH_JS_PLUS_MENU}';
-					var url_tellfriend = '{U_TELLFRIEND_JS_PLUS_MENU}';
 					insert_plus_menu('f{FORUM_ID}&amp;t={TOPIC_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES});
 				//]]>
 				</script>
@@ -106,7 +97,7 @@ showHiddenMessage = function(id)
 
 <table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="0" >
 	<tr align="right">
-		<td class="catHead" colspan="3" height="28">
+		<td class="catHead" colspan="2" height="28">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tr>
 					<td width="9%" class="noprint">&nbsp;</td>
@@ -126,12 +117,12 @@ showHiddenMessage = function(id)
 	{POLL_DISPLAY}
 	<tr>
 		<th class="thLeft" nowrap="nowrap" width="150px" height="26">{L_AUTHOR}</th>
-		<th class="thRight" nowrap="nowrap" colspan="2">{L_MESSAGE}</th>
+		<th class="thRight" nowrap="nowrap">{L_MESSAGE}</th>
 	</tr>
 	<!-- BEGIN postrow -->
 	<!-- BEGIN hidden -->
 	<tr>
-		<td class="postdetails {postrow.hidden.ROW_CLASS}" colspan="3" align="center">{postrow.hidden.MESSAGE}</td>
+		<td class="postdetails {postrow.hidden.ROW_CLASS}" colspan="2" align="center">{postrow.hidden.MESSAGE}</td>
 	</tr>
 	<!-- END hidden -->
 	<!-- BEGIN displayed -->
@@ -146,9 +137,9 @@ showHiddenMessage = function(id)
 				<!-- END profile_field -->
 				{postrow.displayed.POSTER_RPG}
 			</span><br />
-			<img src="http://illiweb.com/fa/empty.gif" alt="" style="width:150px;height:1px" />
+			<img src="https://illiweb.com/fa/empty.gif" alt="" style="width:150px;height:1px" />
 		</td>
-		<td class="{postrow.displayed.ROW_CLASS}"{postrow.displayed.THANK_BGCOLOR} valign="top" width="100%" height="28" colspan="2">
+		<td class="{postrow.displayed.ROW_CLASS}"{postrow.displayed.THANK_BGCOLOR} valign="top" width="100%" height="28">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tr>
 					<td><span class="postdetails"><img src="{postrow.displayed.MINI_POST_IMG}" alt="{postrow.displayed.L_MINI_POST_ALT}" title="{postrow.displayed.L_MINI_POST_ALT}" border="0" />{L_POST_SUBJECT}: {postrow.displayed.POST_SUBJECT}&nbsp; &nbsp;<img src="{postrow.displayed.MINI_TIME_IMG}" alt="" border="0" />{postrow.displayed.POST_DATE}</span></td>
@@ -273,13 +264,13 @@ showHiddenMessage = function(id)
 	<!-- END postrow -->
 	<!-- BEGIN no_post -->
 	<tr align="center">
-		<td class="row1" colspan="3" height="28">
+		<td class="row1" colspan="2" height="28">
 			<span class="genmed">{no_post.L_NO_POST}</span>
 		</td>
 	</tr>
 	<!-- END no_post -->
 	<tr align="right">
-		<td class="catBottom" colspan="3" height="28">
+		<td class="catBottom" colspan="2" height="28">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tr>
 					<td width="9%" class="noprint">&nbsp;</td>
@@ -484,4 +475,4 @@ $(resize_images({ 'selector' : '.postbody', 'max_width' : {switch_image_resize.I
 //]]>
 </script>
 <!-- END switch_image_resize -->
-<script src="{JS_DIR}addthis/addthis_widget.js" type="text/javascript"></script>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=forumotion" type="text/javascript"></script>

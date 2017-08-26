@@ -7,10 +7,22 @@
 <div class="panel">
 	<div class="inner"><span class="corners-top"><span></span></span>
 	<fieldset class="fields2">
+    <!-- BEGIN switch_profile_email -->
 	<dl>
 		<dt><label>{L_RECIPIENT}</label></dt>
 		<dd><input type="text" name="friendname" value="{USERNAME}" class="inputbox narrow" /></dd>
 	</dl>
+    <!-- END switch_profile_email -->
+    <!-- BEGIN switch_ad_email -->
+    <dl>
+        <dt><label>{switch_ad_email.L_YOUR_EMAIL}</label></dt>
+        <dd><input type="text" name="email" value="{switch_ad_email.V_YOUR_EMAIL}" {switch_ad_email.DISABLE_YOUR_EMAIL} class="inputbox narrow" /></dd>
+    </dl>
+    <dl>
+        <dt><label>{switch_ad_email.L_YOUR_NAME}</label></dt>
+        <dd><input type="text" name="username" value="{switch_ad_email.V_YOUR_NAME}" {switch_ad_email.DISABLE_YOUR_NAME} class="inputbox narrow" /></dd>
+    </dl>
+    <!-- END switch_ad_email -->
 	<!-- BEGIN switch_tell_friend -->
 	<dl>
 		<dt><label>{L_TELL_FRIEND_RECIEVER_EMAIL}</label></dt>
@@ -19,7 +31,7 @@
 	<!-- END switch_tell_friend -->
 	<dl>
 		<dt><label>{L_SUBJECT}</label></dt>
-		<dd><input class="inputbox narrow" type="text" name="subject" value="{SUBJECT}" maxlength="100" /></dd>
+		<dd><input class="inputbox narrow" type="text" name="subject" value="{SUBJECT}" {SUBJECT_READ_ONLY} maxlength="100" /></dd>
 	</dl>
 	<dl>
 		<dt>

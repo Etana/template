@@ -31,6 +31,6 @@
 * __[`calendar_body`](../tpl/calendar_body.md#readme) :__ lignes [`4`](../src/invision/calendar_body.tpl#L4)
 * __[`calendar_box`](../tpl/calendar_box.md#readme) :__ lignes [`15`](../src/invision/calendar_box.tpl#L15)
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`31`](../src/invision/calendar_scheduler_body.tpl#L31), [`31`](../src/invision/calendar_scheduler_body.tpl#L31), [`31`](../src/invision/calendar_scheduler_body.tpl#L31), [`31`](../src/invision/calendar_scheduler_body.tpl#L31)
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`103`](../src/invision/index_body.tpl#L103)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`109`](../src/invision/index_body.tpl#L109)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`301`](../src/invision/posting_body.tpl#L301)
 

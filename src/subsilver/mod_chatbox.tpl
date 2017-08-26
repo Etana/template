@@ -13,7 +13,7 @@
 	<tr>
 		<td width="100%">&nbsp;</td>
 		<td align="right" width="20">
-			<img src="http://illiweb.com/fa/resize.gif" onmousedown="javascript:resizeElement(event, 'chatbox_portal');" alt="" style="cursor:se-resize;" />
+			<img src="https://illiweb.com/fa/resize.gif" onmousedown="javascript:resizeElement(event, 'chatbox_portal');" alt="" style="cursor:se-resize;" />
 		</td>
 	</tr>
 </table>

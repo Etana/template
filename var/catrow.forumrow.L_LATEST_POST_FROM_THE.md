@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`15`](../src/mobile/index_box.tpl#L15)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`24`](../src/mobile/index_box.tpl#L24)
 

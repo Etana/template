@@ -21,7 +21,7 @@
                                         </p> 
                                         <!-- END TAGS -->
                                         <hr />
-					<a href="{U_SEARCH}"><img src="http://illiweb.com/fa/icon_mini_search.gif" width="12" height="13" border="0" alt="Rechercher" hspace="3" /> {SEARCH_ADVANCED}</a>
+					<a href="{U_SEARCH}"><img src="https://illiweb.com/fa/icon_mini_search.gif" width="12" height="13" border="0" alt="Rechercher" hspace="3" /> {SEARCH_ADVANCED}</a>
 					{JS_SESSION_ID_INPUT}
 				</div>
 			</form>

@@ -27,14 +27,14 @@ Le contenu de la boucle s'affiche ainsi au plus une fois pour un nouveau message
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`123`](../src/prosilver/overall_header.tpl#L123)[`<->`](../src/prosilver/overall_header.tpl#L123-L126)[`126`](../src/prosilver/overall_header.tpl#L126)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`129`](../src/prosilver/overall_header.tpl#L129)[`<->`](../src/prosilver/overall_header.tpl#L129-L132)[`132`](../src/prosilver/overall_header.tpl#L132)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`129`](../src/subsilver/overall_header.tpl#L129)[`<->`](../src/subsilver/overall_header.tpl#L129-L132)[`132`](../src/subsilver/overall_header.tpl#L132)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`124`](../src/subsilver/overall_header.tpl#L124)[`<->`](../src/subsilver/overall_header.tpl#L124-L127)[`127`](../src/subsilver/overall_header.tpl#L127)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`123`](../src/punbb/overall_header.tpl#L123)[`<->`](../src/punbb/overall_header.tpl#L123-L126)[`126`](../src/punbb/overall_header.tpl#L126)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`129`](../src/punbb/overall_header.tpl#L129)[`<->`](../src/punbb/overall_header.tpl#L129-L132)[`132`](../src/punbb/overall_header.tpl#L132)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`38`](../src/invision/overall_header.tpl#L38)[`<->`](../src/invision/overall_header.tpl#L38-L41)[`41`](../src/invision/overall_header.tpl#L41)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`44`](../src/invision/overall_header.tpl#L44)[`<->`](../src/invision/overall_header.tpl#L44-L47)[`47`](../src/invision/overall_header.tpl#L47)
 

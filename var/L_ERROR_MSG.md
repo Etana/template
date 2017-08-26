@@ -25,5 +25,5 @@
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`2`](../src/invision/posting_confirm_code.tpl#L2)
 
 ### Version Version mobile
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`1`](../src/mobile/posting_confirm_code.tpl#L1)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`2`](../src/mobile/posting_confirm_code.tpl#L2)
 

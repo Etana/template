@@ -19,17 +19,17 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`188`](../src/prosilver/overall_header.tpl#L188)[`<->`](../src/prosilver/overall_header.tpl#L188-L208)[`208`](../src/prosilver/overall_header.tpl#L208)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`194`](../src/prosilver/overall_header.tpl#L194)[`<->`](../src/prosilver/overall_header.tpl#L194-L214)[`214`](../src/prosilver/overall_header.tpl#L214)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`187`](../src/subsilver/overall_header.tpl#L187)[`<->`](../src/subsilver/overall_header.tpl#L187-L207)[`207`](../src/subsilver/overall_header.tpl#L207)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`182`](../src/subsilver/overall_header.tpl#L182)[`<->`](../src/subsilver/overall_header.tpl#L182-L202)[`202`](../src/subsilver/overall_header.tpl#L202)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`181`](../src/punbb/overall_header.tpl#L181)[`<->`](../src/punbb/overall_header.tpl#L181-L201)[`201`](../src/punbb/overall_header.tpl#L201)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`187`](../src/punbb/overall_header.tpl#L187)[`<->`](../src/punbb/overall_header.tpl#L187-L207)[`207`](../src/punbb/overall_header.tpl#L207)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`184`](../src/invision/overall_header.tpl#L184)[`<->`](../src/invision/overall_header.tpl#L184-L204)[`204`](../src/invision/overall_header.tpl#L204)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`190`](../src/invision/overall_header.tpl#L190)[`<->`](../src/invision/overall_header.tpl#L190-L210)[`210`](../src/invision/overall_header.tpl#L210)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`17`](../src/mobile/overall_header.tpl#L17)[`<->`](../src/mobile/overall_header.tpl#L17-L36)[`36`](../src/mobile/overall_header.tpl#L36)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`24`](../src/mobile/overall_header.tpl#L24)[`<->`](../src/mobile/overall_header.tpl#L24-L43)[`43`](../src/mobile/overall_header.tpl#L43)
 

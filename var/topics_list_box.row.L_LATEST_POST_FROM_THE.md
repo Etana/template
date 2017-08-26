@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`70`](../src/mobile/topics_list_box.tpl#L70)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`66`](../src/mobile/topics_list_box.tpl#L66)
 

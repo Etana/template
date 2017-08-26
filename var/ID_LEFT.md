@@ -13,14 +13,14 @@ Identifiant `left` attribué aux widgets de la colonne de gauche si celle-ci est
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`331`](../src/prosilver/overall_header.tpl#L331)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`337`](../src/prosilver/overall_header.tpl#L337)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`325`](../src/subsilver/overall_header.tpl#L325)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`320`](../src/subsilver/overall_header.tpl#L320)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`301`](../src/punbb/overall_header.tpl#L301)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`307`](../src/punbb/overall_header.tpl#L307)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`320`](../src/invision/overall_header.tpl#L320)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`326`](../src/invision/overall_header.tpl#L326)
 

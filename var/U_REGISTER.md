@@ -13,14 +13,14 @@ Adresse url absolue vers la page d'inscription : `/register`
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`233`](../src/prosilver/overall_header.tpl#L233)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`239`](../src/prosilver/overall_header.tpl#L239)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`236`](../src/subsilver/overall_header.tpl#L236)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`231`](../src/subsilver/overall_header.tpl#L231)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`228`](../src/punbb/overall_header.tpl#L228)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`234`](../src/punbb/overall_header.tpl#L234)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`231`](../src/invision/overall_header.tpl#L231)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`237`](../src/invision/overall_header.tpl#L237)
 

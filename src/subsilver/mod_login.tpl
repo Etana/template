@@ -22,22 +22,26 @@
 					</tr>
 					<tr align="center">
 						<td colspan="2"><input class="mainoption" type="submit" name="login" value="{L_LOGIN}" /></td>
-					</tr>  <!-- BEGIN switch_fb_connect_login -->
-                                        <tr align="center">
-                                            <td colspan="2">                                                
-                                              
-                            <div class="fb_login_widget">
-                                <div class="fb_or_widget">{switch_login.switch_fb_connect_login.L_OR}</div>
-                                <fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_login.switch_fb_connect_login.L_FB_PERMISSIONS}" class="margTop4">{switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON}</fb:login-button>
-                            </div>
-                                             
-                                            </td>
-					</tr>   <!-- END switch_fb_connect_login -->
-					<tr align="center">
-						<td colspan="2">
-							<span class="gensmall"><a class="gensmall" href="{U_SEND_PASSWORD}" rel="nofollow">::&nbsp;{L_SEND_PASSWORD}</a></span>
-						</td>
 					</tr>
+                    <tr align="center">
+                        <td colspan="2">
+                            <span class="gensmall"><a class="gensmall" href="{U_SEND_PASSWORD}" rel="nofollow">::&nbsp;{L_SEND_PASSWORD}</a></span>
+                        </td>
+                    </tr>
+
+                    <!-- BEGIN switch_social_login -->
+                    <tr align="center">
+                        <td colspan="2">
+                            <div class="social_btn">
+                                <div class="fb_or_widget">{switch_login.switch_social_login.L_OR}</div> <br />
+                                <!-- BEGIN fb_connect -->
+                                <div class="fb-login-button"></div>
+                                <!-- END fb_connect -->
+                            </div>
+                        </td>
+                    </tr>
+                    <!-- END switch_social_login -->
+                    
 				</table>
 			</form>
 		</td>
@@ -68,20 +72,23 @@
 					<tr align="center">
                                             <td colspan="2"><input class="mainoption" type="submit" name="login" value="{L_LOGIN}" /></td>
 					</tr>
-					<tr align="center">
-                                            <td colspan="2">                                                
-                                                <!-- BEGIN switch_fb_connect_login -->
-                            <div class="fb_login_widget">
-                                <div class="fb_or_widget">{switch_login_small.switch_fb_connect_login.L_OR}</div>
-                                <p align="center"><fb:login-button size="small" onlogin="window.location='/facebook_connect.forum'" scope="{switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}" class="margTop4">{switch_login_small.switch_fb_connect_login.L_FB_LOGIN_BUTTON}</fb:login-button>
-                            </p>
+                    <tr align="center">
+                        <td><span class="gensmall"><a class="gensmall" href="{U_SEND_PASSWORD}" rel="nofollow">::&nbsp;{L_SEND_PASSWORD}</a></span></td>
+                    </tr>
+                    
+                    <!-- BEGIN switch_social_login -->
+                    <tr align="center">
+                        <td colspan="2">
+                            <div class="social_btn">
+                                <div class="fb_or">{switch_login_small.switch_social_login.L_OR}</div> <br />
+                                <!-- BEGIN fb_connect -->
+                                <div class="fb-login-button"></div>
+                                <!-- END fb_connect -->
                             </div>
-                                                <!-- END switch_fb_connect_login -->
-                                            </td>
-					</tr>
-					<tr align="center">
-						<td><span class="gensmall"><a class="gensmall" href="{U_SEND_PASSWORD}" rel="nofollow">::&nbsp;{L_SEND_PASSWORD}</a></span></td>
-					</tr>
+                        </td>
+                    </tr>
+                    <!-- END switch_social_login -->
+                    
 				</table>
 			</form>
 		</td>
@@ -116,23 +123,3 @@
 	</tr>
 </table>
 <!-- END switch_profile -->
-<!-- BEGIN switch_fb_widget_login -->
-<div id="fb-root"></div>
-<script>
-    FB.init({
-      appId      : {switch_fb_widget_login.FACEBOOK_APP_ID}, 
-      cookie     : true,
-      xfbml      : true,
-      oauth      : true,
-      version    : 'v2.3'
-    });
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-<!-- END switch_fb_widget_login -->

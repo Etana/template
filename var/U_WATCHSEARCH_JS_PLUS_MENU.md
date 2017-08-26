@@ -13,17 +13,17 @@ Lien vers "Sujets surveillés" dans le menu Plus !
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`15`](../src/prosilver/viewforum_body.tpl#L15)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`104`](../src/prosilver/viewtopic_body.tpl#L104)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`16`](../src/prosilver/viewforum_body.tpl#L16)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`95`](../src/prosilver/viewtopic_body.tpl#L95)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`20`](../src/subsilver/viewforum_body.tpl#L20)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`96`](../src/subsilver/viewtopic_body.tpl#L96)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`21`](../src/subsilver/viewforum_body.tpl#L21)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`88`](../src/subsilver/viewtopic_body.tpl#L88)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`9`](../src/punbb/viewforum_body.tpl#L9)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`58`](../src/punbb/viewtopic_body.tpl#L58)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`10`](../src/punbb/viewforum_body.tpl#L10)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`50`](../src/punbb/viewtopic_body.tpl#L50)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`104`](../src/invision/viewtopic_body.tpl#L104)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`96`](../src/invision/viewtopic_body.tpl#L96)
 

@@ -13,13 +13,13 @@ Image des annonces définie dans `PA > Affichage > Images et Couleurs | Gestion 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`93`](../src/prosilver/viewforum_body.tpl#L93)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`94`](../src/prosilver/viewforum_body.tpl#L94)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`108`](../src/subsilver/viewforum_body.tpl#L108)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`109`](../src/subsilver/viewforum_body.tpl#L109)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`76`](../src/punbb/viewforum_body.tpl#L76)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`77`](../src/punbb/viewforum_body.tpl#L77)
 
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`77`](../src/invision/viewforum_body.tpl#L77)

@@ -13,17 +13,17 @@ Variable actuellement inutilisée.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`132`](../src/prosilver/index_body.tpl#L132)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`140`](../src/prosilver/index_body.tpl#L140)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`239`](../src/subsilver/index_body.tpl#L239)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`196`](../src/subsilver/index_body.tpl#L196)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`132`](../src/punbb/index_body.tpl#L132)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`146`](../src/punbb/index_body.tpl#L146)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`186`](../src/invision/index_body.tpl#L186)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`197`](../src/invision/index_body.tpl#L197)
 
 ### Version Version mobile
-* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`3`](../src/mobile/profile_send_pass.tpl#L3)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`2`](../src/mobile/profile_send_pass.tpl#L2)
 

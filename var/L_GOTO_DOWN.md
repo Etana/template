@@ -13,11 +13,11 @@ Image pour aller en bas définie dans `PA > Affichage > Images et Couleurs | Ges
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/prosilver/viewtopic_body.tpl#L117), [`247`](../src/prosilver/viewtopic_body.tpl#L247)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`107`](../src/prosilver/viewtopic_body.tpl#L107), [`237`](../src/prosilver/viewtopic_body.tpl#L237)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/subsilver/viewtopic_body.tpl#L116), [`251`](../src/subsilver/viewtopic_body.tpl#L251)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`107`](../src/subsilver/viewtopic_body.tpl#L107), [`242`](../src/subsilver/viewtopic_body.tpl#L242)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`125`](../src/punbb/viewtopic_body.tpl#L125)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`116`](../src/punbb/viewtopic_body.tpl#L116)
 

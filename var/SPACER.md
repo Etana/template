@@ -13,5 +13,5 @@ Adresse URL d'une image vide : `http://illiweb.com/fa/empty.gif`
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`31`](../src/subsilver/index_box.tpl#L31), [`46`](../src/subsilver/index_box.tpl#L46), [`84`](../src/subsilver/index_box.tpl#L84), [`86`](../src/subsilver/index_box.tpl#L86), [`90`](../src/subsilver/index_box.tpl#L90)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`31`](../src/subsilver/index_box.tpl#L31), [`46`](../src/subsilver/index_box.tpl#L46), [`94`](../src/subsilver/index_box.tpl#L94), [`96`](../src/subsilver/index_box.tpl#L96), [`100`](../src/subsilver/index_box.tpl#L100)
 

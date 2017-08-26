@@ -1,6 +1,6 @@
 <script src="{JS_DIR}extendedview.js" type="text/javascript"></script>
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
 	{NAV_CAT_DESC}
 </ul>
 
@@ -147,7 +147,7 @@
 					<textarea id="text_editor_textarea" name="message" rows="15" cols="9">{MESSAGE}</textarea><br />
 				</div>
 				<a href="javascript:void(0)" class="rte-menu-button" onclick="toggleDiv('smiley-box')">{L_TOGGLE_SIDE_PANEL}</a>
-				<a class="exthelp" title="{L_HELP}" href="http://{URL_FORUM}{U_FAQ}" target="_blank">{L_BBCODE_GUIDE}</a>
+				<a class="exthelp" title="{L_HELP}" href="{U_FAQ}" target="_blank">{L_BBCODE_GUIDE}</a>
 				<div class="clearfix"><br /></div>
 				<!-- BEGIN edit_reason -->
 				<fieldset>
@@ -369,7 +369,7 @@
 <!-- BEGIN switch_privmsg -->
 <div id="find_username" class="jqmWindow"></div>
 
-<script src="{JS_DIR}jquery/jqmodal/jqmodal.js" type="text/javascript"></script>
+<script src="{JQUERY_DIR}jqmodal/jqmodal.js" type="text/javascript"></script>
 <!-- END switch_privmsg -->
 <script type="text/javascript">
 //<![CDATA[

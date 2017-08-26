@@ -16,18 +16,18 @@ Chaîne de caractère.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`12`](../src/prosilver/index_body.tpl#L12), [`109`](../src/prosilver/index_body.tpl#L109)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`14`](../src/prosilver/mod_login.tpl#L14), [`47`](../src/prosilver/mod_login.tpl#L47)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`12`](../src/prosilver/index_body.tpl#L12), [`113`](../src/prosilver/index_body.tpl#L113)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`14`](../src/prosilver/mod_login.tpl#L14), [`55`](../src/prosilver/mod_login.tpl#L55)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`36`](../src/subsilver/index_body.tpl#L36), [`64`](../src/subsilver/index_body.tpl#L64), [`126`](../src/subsilver/index_body.tpl#L126), [`154`](../src/subsilver/index_body.tpl#L154)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`17`](../src/subsilver/mod_login.tpl#L17), [`63`](../src/subsilver/mod_login.tpl#L63)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`36`](../src/subsilver/index_body.tpl#L36), [`105`](../src/subsilver/index_body.tpl#L105)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`17`](../src/subsilver/mod_login.tpl#L17), [`67`](../src/subsilver/mod_login.tpl#L67)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`40`](../src/punbb/index_body.tpl#L40), [`109`](../src/punbb/index_body.tpl#L109)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`12`](../src/punbb/mod_login.tpl#L12), [`44`](../src/punbb/mod_login.tpl#L44)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`40`](../src/punbb/index_body.tpl#L40), [`116`](../src/punbb/index_body.tpl#L116)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`12`](../src/punbb/mod_login.tpl#L12), [`47`](../src/punbb/mod_login.tpl#L47)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`25`](../src/invision/index_body.tpl#L25), [`174`](../src/invision/index_body.tpl#L174)
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`15`](../src/invision/mod_login.tpl#L15), [`49`](../src/invision/mod_login.tpl#L49)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`25`](../src/invision/index_body.tpl#L25), [`180`](../src/invision/index_body.tpl#L180)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`13`](../src/invision/mod_login.tpl#L13), [`49`](../src/invision/mod_login.tpl#L49)
 

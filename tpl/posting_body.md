@@ -5,7 +5,7 @@
 * Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
-`Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `posting_body`
+`Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `posting_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/posting_body)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_body)
@@ -39,6 +39,7 @@
 	* [`{INBOX_IMG}`](../var/INBOX_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/INBOX_IMG))
 	* [`{INBOX_LINK}`](../var/INBOX_LINK.md#readme) ([x](https://fa-tvars.appspot.com/var/INBOX_LINK))
 	* [`{INLINE_MESSAGE}`](../var/INLINE_MESSAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/INLINE_MESSAGE))
+	* [`{JQUERY_DIR}`](../var/JQUERY_DIR.md#readme) ([x](https://fa-tvars.appspot.com/var/JQUERY_DIR))
 	* [`{JS_DIR}`](../var/JS_DIR.md#readme)
 	* [`{JUMPBOX}`](../var/JUMPBOX.md#readme)
 	* [`{L_ATTACH_COMMENT}`](../var/L_ATTACH_COMMENT.md#readme) ([x](https://fa-tvars.appspot.com/var/L_ATTACH_COMMENT))
@@ -277,7 +278,6 @@
 	* [`{TOPIC_TITLE_LENGTH_EXPLAIN}`](../var/TOPIC_TITLE_LENGTH_EXPLAIN.md#readme) ([x](https://fa-tvars.appspot.com/var/TOPIC_TITLE_LENGTH_EXPLAIN))
 	* [`{TOPIC_TITLE_MAXLENGTH}`](../var/TOPIC_TITLE_MAXLENGTH.md#readme) ([x](https://fa-tvars.appspot.com/var/TOPIC_TITLE_MAXLENGTH))
 	* [`{U_SEARCH_USER}`](../var/U_SEARCH_USER.md#readme)
-	* [`{URL_FORUM}`](../var/URL_FORUM.md#readme) ([x](https://fa-tvars.appspot.com/var/URL_FORUM))
 	* [`{USERNAME}`](../var/USERNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/USERNAME))
 
 ## Template par défaut phpBB3
@@ -847,8 +847,8 @@
 * __[`{ERROR_BOX}`](../var/ERROR_BOX.md#readme) :__ ligne [`23`](../src/punbb/posting_body.tpl#L23)
 * __[`{EXT_LIST}`](../var/EXT_LIST.md#readme) :__ ligne [`297`](../src/punbb/posting_body.tpl#L297)
 * __[`{HTML_STATUS}`](../var/HTML_STATUS.md#readme) :__ ligne [`192`](../src/punbb/posting_body.tpl#L192)
+* __[`{JQUERY_DIR}`](../var/JQUERY_DIR.md#readme) :__ ligne [`424`](../src/punbb/posting_body.tpl#L424)
 * __[`{JS_DIR}`](../var/JS_DIR.md#readme) :__ ligne [`1`](../src/punbb/posting_body.tpl#L1)
-* __[`{JS_DIR}`](../var/JS_DIR.md#readme) :__ ligne [`424`](../src/punbb/posting_body.tpl#L424)
 * __[`{LAST_TOPIC_ID}`](../var/LAST_TOPIC_ID.md#readme) :__ ligne [`200`](../src/punbb/posting_body.tpl#L200)
 * __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme) :__ ligne [`8`](../src/punbb/posting_body.tpl#L8)
 * __[`{LOGGED_AS}`](../var/LOGGED_AS.md#readme) :__ ligne [`8`](../src/punbb/posting_body.tpl#L8)
@@ -941,7 +941,6 @@
 * __[`{TOPIC_TITLE_LENGTH_EXPLAIN}`](../var/TOPIC_TITLE_LENGTH_EXPLAIN.md#readme) :__ ligne [`130`](../src/punbb/posting_body.tpl#L130)
 * __[`{TOPIC_TITLE_MAXLENGTH}`](../var/TOPIC_TITLE_MAXLENGTH.md#readme) :__ ligne [`130`](../src/punbb/posting_body.tpl#L130)
 * __[`{TOPIC_TITLE_MAXLENGTH}`](../var/TOPIC_TITLE_MAXLENGTH.md#readme) :__ ligne [`366`](../src/punbb/posting_body.tpl#L366)
-* __[`{URL_FORUM}`](../var/URL_FORUM.md#readme) :__ ligne [`63`](../src/punbb/posting_body.tpl#L63)
 * __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`72`](../src/punbb/posting_body.tpl#L72)
 * __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`90`](../src/punbb/posting_body.tpl#L90)
 * __[`{U_FAQ}`](../var/U_FAQ.md#readme) :__ ligne [`63`](../src/punbb/posting_body.tpl#L63)
@@ -1107,8 +1106,8 @@
 * __[`{ERROR_BOX}`](../var/ERROR_BOX.md#readme) :__ ligne [`7`](../src/invision/posting_body.tpl#L7)
 * __[`{EXT_LIST}`](../var/EXT_LIST.md#readme) :__ ligne [`216`](../src/invision/posting_body.tpl#L216)
 * __[`{HTML_STATUS}`](../var/HTML_STATUS.md#readme) :__ ligne [`139`](../src/invision/posting_body.tpl#L139)
+* __[`{JQUERY_DIR}`](../var/JQUERY_DIR.md#readme) :__ ligne [`372`](../src/invision/posting_body.tpl#L372)
 * __[`{JS_DIR}`](../var/JS_DIR.md#readme) :__ ligne [`1`](../src/invision/posting_body.tpl#L1)
-* __[`{JS_DIR}`](../var/JS_DIR.md#readme) :__ ligne [`372`](../src/invision/posting_body.tpl#L372)
 * __[`{LAST_TOPIC_ID}`](../var/LAST_TOPIC_ID.md#readme) :__ ligne [`351`](../src/invision/posting_body.tpl#L351)
 * __[`{L_ATTACHMENTS}`](../var/L_ATTACHMENTS.md#readme) :__ ligne [`183`](../src/invision/posting_body.tpl#L183)
 * __[`{L_ATTACHMENT_ADD}`](../var/L_ATTACHMENT_ADD.md#readme) :__ ligne [`212`](../src/invision/posting_body.tpl#L212)
@@ -1196,7 +1195,6 @@
 * __[`{TOPIC_TITLE_LENGTH_EXPLAIN}`](../var/TOPIC_TITLE_LENGTH_EXPLAIN.md#readme) :__ ligne [`98`](../src/invision/posting_body.tpl#L98)
 * __[`{TOPIC_TITLE_MAXLENGTH}`](../var/TOPIC_TITLE_MAXLENGTH.md#readme) :__ ligne [`98`](../src/invision/posting_body.tpl#L98)
 * __[`{TOPIC_TITLE_MAXLENGTH}`](../var/TOPIC_TITLE_MAXLENGTH.md#readme) :__ ligne [`285`](../src/invision/posting_body.tpl#L285)
-* __[`{URL_FORUM}`](../var/URL_FORUM.md#readme) :__ ligne [`150`](../src/invision/posting_body.tpl#L150)
 * __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`46`](../src/invision/posting_body.tpl#L46)
 * __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`68`](../src/invision/posting_body.tpl#L68)
 * __[`{U_FAQ}`](../var/U_FAQ.md#readme) :__ ligne [`150`](../src/invision/posting_body.tpl#L150)
@@ -1343,19 +1341,19 @@
 
 ### Positions des variables
 
-* __[`{CODE_CONFIRM}`](../var/CODE_CONFIRM.md#readme) :__ ligne [`22`](../src/mobile/posting_body.tpl#L22)
+* __[`{CODE_CONFIRM}`](../var/CODE_CONFIRM.md#readme) :__ ligne [`14`](../src/mobile/posting_body.tpl#L14)
 * __[`{INLINE_MESSAGE}`](../var/INLINE_MESSAGE.md#readme) :__ ligne [`1`](../src/mobile/posting_body.tpl#L1)
-* __[`{LAST_TOPIC_ID}`](../var/LAST_TOPIC_ID.md#readme) :__ ligne [`18`](../src/mobile/posting_body.tpl#L18)
-* __[`{L_MESSAGE_BODY}`](../var/L_MESSAGE_BODY.md#readme) :__ ligne [`13`](../src/mobile/posting_body.tpl#L13)
-* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme) :__ ligne [`10`](../src/mobile/posting_body.tpl#L10)
-* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme) :__ ligne [`16`](../src/mobile/posting_body.tpl#L16)
-* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme) :__ ligne [`6`](../src/mobile/posting_body.tpl#L6)
-* __[`{MESSAGE}`](../var/MESSAGE.md#readme) :__ ligne [`13`](../src/mobile/posting_body.tpl#L13)
-* __[`{SUBJECT}`](../var/SUBJECT.md#readme) :__ ligne [`10`](../src/mobile/posting_body.tpl#L10)
-* __[`{S_HIDDEN_FORM_FIELDS}`](../var/S_HIDDEN_FORM_FIELDS.md#readme) :__ ligne [`20`](../src/mobile/posting_body.tpl#L20)
+* __[`{LAST_TOPIC_ID}`](../var/LAST_TOPIC_ID.md#readme) :__ ligne [`10`](../src/mobile/posting_body.tpl#L10)
+* __[`{L_MESSAGE_BODY}`](../var/L_MESSAGE_BODY.md#readme) :__ ligne [`8`](../src/mobile/posting_body.tpl#L8)
+* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme) :__ ligne [`7`](../src/mobile/posting_body.tpl#L7)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme) :__ ligne [`9`](../src/mobile/posting_body.tpl#L9)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme) :__ ligne [`5`](../src/mobile/posting_body.tpl#L5)
+* __[`{MESSAGE}`](../var/MESSAGE.md#readme) :__ ligne [`8`](../src/mobile/posting_body.tpl#L8)
+* __[`{SUBJECT}`](../var/SUBJECT.md#readme) :__ ligne [`7`](../src/mobile/posting_body.tpl#L7)
+* __[`{S_HIDDEN_FORM_FIELDS}`](../var/S_HIDDEN_FORM_FIELDS.md#readme) :__ ligne [`12`](../src/mobile/posting_body.tpl#L12)
 * __[`{S_POST_ACTION}`](../var/S_POST_ACTION.md#readme) :__ ligne [`3`](../src/mobile/posting_body.tpl#L3)
-* __[`{TOPIC_TITLE_LENGTH_EXPLAIN}`](../var/TOPIC_TITLE_LENGTH_EXPLAIN.md#readme) :__ ligne [`10`](../src/mobile/posting_body.tpl#L10)
-* __[`{TOPIC_TITLE_MAXLENGTH}`](../var/TOPIC_TITLE_MAXLENGTH.md#readme) :__ ligne [`10`](../src/mobile/posting_body.tpl#L10)
-* __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`6`](../src/mobile/posting_body.tpl#L6)
+* __[`{TOPIC_TITLE_LENGTH_EXPLAIN}`](../var/TOPIC_TITLE_LENGTH_EXPLAIN.md#readme) :__ ligne [`7`](../src/mobile/posting_body.tpl#L7)
+* __[`{TOPIC_TITLE_MAXLENGTH}`](../var/TOPIC_TITLE_MAXLENGTH.md#readme) :__ ligne [`7`](../src/mobile/posting_body.tpl#L7)
+* __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`5`](../src/mobile/posting_body.tpl#L5)
 * __[`<!-- BEGIN switch_username_select -->`](../var/switch_username_select.md#readme) :__ ligne [`4`](../src/mobile/posting_body.tpl#L4)
-* __[`<!-- END switch_username_select -->`](../var/switch_username_select.md#readme) :__ ligne [`8`](../src/mobile/posting_body.tpl#L8)
+* __[`<!-- END switch_username_select -->`](../var/switch_username_select.md#readme) :__ ligne [`6`](../src/mobile/posting_body.tpl#L6)

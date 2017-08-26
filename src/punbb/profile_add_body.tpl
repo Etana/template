@@ -211,7 +211,7 @@
 					<!-- END switch_fb_account_linked -->
 
 					<!-- BEGIN switch_fb_account_not_linked -->
-					<fb:login-button size="medium" onlogin="facebook_link()" >{switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}</fb:login-button>
+                    <div class="fb-login-button" onlogin="facebook_link">{switch_preferences_menu.switch_fb_connect.switch_fb_account_not_linked.L_FB_LOGIN_BUTTON}</div>
 					<!-- END switch_fb_account_not_linked -->
 				</dd>
 			</dl>
@@ -350,7 +350,17 @@
                                 <input type="button" onclick="$('#fym_avatar_form').submit()" value="{L_FACEYOURMANGA_BUTTON_LABEL}" class="button button1" />
                             </dd>
                         </dl>
-                        <!-- END switch_avatar_faceyourmanga -->  
+                        <!-- END switch_avatar_faceyourmanga -->
+            <!-- BEGIN switch_avatar_faceyourmanga_alternate -->
+            <dl>
+                <dt>{L_FACEYOURMANGA_BUTTON_LABEL}</dt>
+                <dd>
+                    <img src="{L_FACEYOURMANGA_LINK_IMG}" onclick="{switch_avatar_block.switch_avatar_faceyourmanga_alternate.ONCLICK_FYM}" id="fym_banner" style="cursor:pointer;cursor:hand;" />
+                    <br />
+                    <input type="button" onclick="{switch_avatar_block.switch_avatar_faceyourmanga_alternate.ONCLICK_FYM}" value="{L_FACEYOURMANGA_BUTTON_LABEL}" class="button button1" />
+                </dd>
+            </dl>
+            <!-- END switch_avatar_faceyourmanga_alternate -->
                         
 			<!-- BEGIN switch_avatar_local_upload -->
 			<dl>
@@ -462,25 +472,3 @@ $(function(){
     });
 });
 </script>
-<!-- BEGIN switch_preferences_menu -->
-<!-- BEGIN switch_fb_connect -->
-<div id="fb-root"></div>
-<script type="text/javascript">
-    FB.init({
-      appId: '{switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID}',
-      cookie     : true,
-      xfbml      : true,
-      oauth      : true,
-      version    : 'v2.3'
-    });
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-<!-- END switch_fb_connect -->
-<!-- END switch_preferences_menu -->

@@ -16,7 +16,6 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_can_disable_mass_pm -->`](../var/switch_preferences_menu.switch_can_disable_mass_pm.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_can_disable_mass_pm))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_enable_mail_view -->`](../var/switch_preferences_menu.switch_enable_mail_view.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_enable_mail_view))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect -->`](../var/switch_preferences_menu.switch_fb_connect.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect))__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID}`](../var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.FACEBOOK_APP_ID))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT}`](../var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.L_FB_LINK_ACCOUNT))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_account_linked -->`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED}`](../var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect.switch_fb_account_linked.L_FB_ACCOUNT_LINKED))__
@@ -42,14 +41,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`152`](../src/prosilver/profile_add_body.tpl#L152)[`<->`](../src/prosilver/profile_add_body.tpl#L152-L324)[`324`](../src/prosilver/profile_add_body.tpl#L324), [`447`](../src/prosilver/profile_add_body.tpl#L447)[`<->`](../src/prosilver/profile_add_body.tpl#L447-L468)[`468`](../src/prosilver/profile_add_body.tpl#L468)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`152`](../src/prosilver/profile_add_body.tpl#L152)[`<->`](../src/prosilver/profile_add_body.tpl#L152-L324)[`324`](../src/prosilver/profile_add_body.tpl#L324)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`123`](../src/subsilver/profile_add_body.tpl#L123)[`<->`](../src/subsilver/profile_add_body.tpl#L123-L289)[`289`](../src/subsilver/profile_add_body.tpl#L289), [`398`](../src/subsilver/profile_add_body.tpl#L398)[`<->`](../src/subsilver/profile_add_body.tpl#L398-L419)[`419`](../src/subsilver/profile_add_body.tpl#L419)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`123`](../src/subsilver/profile_add_body.tpl#L123)[`<->`](../src/subsilver/profile_add_body.tpl#L123-L289)[`289`](../src/subsilver/profile_add_body.tpl#L289)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`172`](../src/punbb/profile_add_body.tpl#L172)[`<->`](../src/punbb/profile_add_body.tpl#L172-L329)[`329`](../src/punbb/profile_add_body.tpl#L329), [`465`](../src/punbb/profile_add_body.tpl#L465)[`<->`](../src/punbb/profile_add_body.tpl#L465-L486)[`486`](../src/punbb/profile_add_body.tpl#L486)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`172`](../src/punbb/profile_add_body.tpl#L172)[`<->`](../src/punbb/profile_add_body.tpl#L172-L329)[`329`](../src/punbb/profile_add_body.tpl#L329)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`196`](../src/invision/profile_add_body.tpl#L196)[`<->`](../src/invision/profile_add_body.tpl#L196-L403)[`403`](../src/invision/profile_add_body.tpl#L403), [`523`](../src/invision/profile_add_body.tpl#L523)[`<->`](../src/invision/profile_add_body.tpl#L523-L544)[`544`](../src/invision/profile_add_body.tpl#L544)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`196`](../src/invision/profile_add_body.tpl#L196)[`<->`](../src/invision/profile_add_body.tpl#L196-L403)[`403`](../src/invision/profile_add_body.tpl#L403)
 

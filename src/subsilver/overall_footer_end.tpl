@@ -30,48 +30,44 @@
 <!-- BEGIN switch_facebook_login -->
 <div id="fb-root"></div>
 <script type="text/javascript">
-    FB.init({
-      appId      : {switch_facebook_login.FACEBOOK_APP_ID}, 
-      cookie     : true,
-      xfbml      : true,
-      oauth      : true,
-      version    : 'v2.3'
-    });
+    $(document).ready( function() {
+        $('div.fb-login-button, span.fb-login-button').attr({
+            "data-scope": "{switch_facebook_login.FB_SCOPE}",
+            "data-max-rows": "{switch_facebook_login.FB_MAX_ROWS}",
+            "data-size": "{switch_facebook_login.FB_BUTTON_SIZE}",
+            "data-show-faces": "{switch_facebook_login.FB_SHOW_FACES}",
+            "data-auto-logout-link": "{switch_facebook_login.FB_AUTO_LOGOUT}"
+        });
+        $('div.fb-login-button, span.fb-login-button').each(function() {
+            if(typeof $(this).attr('onlogin') == typeof undefined || $(this).attr('onlogin') === false) {
+                $(this).attr('onlogin', '{switch_facebook_login.FB_ONLOGIN}');
+            }
+            if($(this).html() == '') {
+                $(this).html('{switch_facebook_login.FB_LABEL}');
+            }
+        });
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+        FB.init({
+            appId   : "{switch_facebook_login.FB_APP_ID}",
+            cookie  : {switch_facebook_login.FB_COOKIE},
+            xfbml   : {switch_facebook_login.FB_XFBML},
+            oauth   : {switch_facebook_login.FB_OAUTH},
+            version : '{switch_facebook_login.FB_VERSION}'
+        });
+
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+                js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/{switch_facebook_login.FB_LOCAL}/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    });
+    function onLoginFB() {
+        window.location.replace('{switch_facebook_login.FB_ONLOGIN_URL}')
+    }
 </script>
 <!-- END switch_facebook_login -->
-
-<!-- BEGIN switch_facebook_logout_TMP -->
-<script type="text/javascript">
-//<![CDATA[
-FB.Event.subscribe('auth.logout', function(response) {
-	if ($('a#logout'))
-	{
-		var lien_redir = $('a#logout').attr('href');
-
-		if ($('a#logout').attr('href') && $('a#logout').attr('href') != '')
-		{
-			document.location.href = 'http://{switch_facebook_logout.SERVER_NAME}/' + lien_redir;
-		}
-	}
-});
-
-$(document).ready( function() {
-	$('a#logout').click( function() {
-		FB.logout();
-	} );
-});
-//]]>
-</script>
-<!-- END switch_facebook_logout_TMP -->
-
 <script type="text/javascript">
 //<![CDATA[
 	fa_endpage();

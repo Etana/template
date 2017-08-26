@@ -13,11 +13,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`100`](../src/prosilver/viewtopic_body.tpl#L100)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`91`](../src/prosilver/viewtopic_body.tpl#L91)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`92`](../src/subsilver/viewtopic_body.tpl#L92)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`84`](../src/subsilver/viewtopic_body.tpl#L84)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`100`](../src/invision/viewtopic_body.tpl#L100)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`92`](../src/invision/viewtopic_body.tpl#L92)
 

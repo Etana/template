@@ -41,7 +41,7 @@
 			<td class="row2" align="center" height="4" nowrap="nowrap">
 				<span class="genmed">{_calendar_box._row._cell.U_DATE}</span>
 				<!-- BEGIN switch_add_event_day -->
-				&nbsp;<a href="{_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT}"><img src="http://illiweb.com/fa/subsilver/icon_mini_calendar.gif" border="0" alt="{L_ADD_EVENT}" title="{L_ADD_EVENT}" /></a>
+				&nbsp;<a href="{_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT}"><img src="https://illiweb.com/fa/subsilver/icon_mini_calendar.gif" border="0" alt="{L_ADD_EVENT}" title="{L_ADD_EVENT}" /></a>
 				<!-- END switch_add_event_day -->
 			</td>
 		</tr>

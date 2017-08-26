@@ -4,7 +4,7 @@
 <p>{CURRENT_TIME}</p>
 
 <div class="topic-actions">
-	<p itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{U_FORUM_INDEX}" class="nav" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_SEP}<a class="nav" href="{U_ALBUM}" itemprop="url"><span itemprop="title">{L_ALBUM}</span></a>{NAV_CAT_DESC}{ALBUM_NAVIGATION_ARROW}{L_TOP10_STATS}</p>
+	<p><a href="{U_FORUM_INDEX}" class="nav"><span>{L_INDEX}</span></a>{NAV_SEP}<a class="nav" href="{U_ALBUM}"><span>{L_ALBUM}</span></a>{NAV_CAT_DESC}{ALBUM_NAVIGATION_ARROW}{L_TOP10_STATS}</p>
 </div>
 
 <h1 class="page-title">{L_TOP10_STATS}</h1>

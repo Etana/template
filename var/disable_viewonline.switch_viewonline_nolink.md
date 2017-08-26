@@ -20,14 +20,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`48`](../src/prosilver/index_body.tpl#L48)[`<->`](../src/prosilver/index_body.tpl#L48-L50)[`50`](../src/prosilver/index_body.tpl#L50)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`52`](../src/prosilver/index_body.tpl#L52)[`<->`](../src/prosilver/index_body.tpl#L52-L54)[`54`](../src/prosilver/index_body.tpl#L54)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`181`](../src/subsilver/index_body.tpl#L181)[`<->`](../src/subsilver/index_body.tpl#L181-L183)[`183`](../src/subsilver/index_body.tpl#L183)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`138`](../src/subsilver/index_body.tpl#L138)[`<->`](../src/subsilver/index_body.tpl#L138-L140)[`140`](../src/subsilver/index_body.tpl#L140)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`69`](../src/punbb/index_body.tpl#L69)[`<->`](../src/punbb/index_body.tpl#L69-L71)[`71`](../src/punbb/index_body.tpl#L71)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`76`](../src/punbb/index_body.tpl#L76)[`<->`](../src/punbb/index_body.tpl#L76-L78)[`78`](../src/punbb/index_body.tpl#L78)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`74`](../src/invision/index_body.tpl#L74)[`<->`](../src/invision/index_body.tpl#L74-L76)[`76`](../src/invision/index_body.tpl#L76)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`80`](../src/invision/index_body.tpl#L80)[`<->`](../src/invision/index_body.tpl#L80-L82)[`82`](../src/invision/index_body.tpl#L82)
 

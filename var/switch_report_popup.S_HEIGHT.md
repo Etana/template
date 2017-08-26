@@ -17,14 +17,14 @@ Hauteur du popup d'avertissement d'un nouveau rapport.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`128`](../src/prosilver/overall_header.tpl#L128)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`134`](../src/prosilver/overall_header.tpl#L134)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`134`](../src/subsilver/overall_header.tpl#L134)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`129`](../src/subsilver/overall_header.tpl#L129)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`128`](../src/punbb/overall_header.tpl#L128)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`134`](../src/punbb/overall_header.tpl#L134)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`43`](../src/invision/overall_header.tpl#L43)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`49`](../src/invision/overall_header.tpl#L49)
 

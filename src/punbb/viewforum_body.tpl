@@ -1,17 +1,18 @@
 <!-- BEGIN switch_user_logged_in -->
 <div id="pun-visit" class="clearfix">
 	<ul>
+        <!-- BEGIN show_plus_menu -->
 		<li>
 				<script type="text/javascript">//<![CDATA[
 				var url_newposts = '{U_NEWPOSTS_JS_PLUS_MENU}';
 				var url_egosearch = '{U_EGOSEARCH_JS_PLUS_MENU}';
 				var url_unanswered = '{U_UNANSWERED_JS_PLUS_MENU}';
 				var url_watchsearch = '{U_WATCHSEARCH_JS_PLUS_MENU}';
-				var url_tellfriend = '{U_TELLFRIEND_JS_PLUS_MENU}';
 				insert_plus_menu_new('f{FORUM_ID}&amp;f={FORUM_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES});
 			//]]>
 			</script>
 		</li>
+        <!-- END show_plus_menu -->
 			<li><a href="{U_SEARCH_NEW}">{L_SEARCH_NEW}</a></li>
 			<li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li>
 			<li><a href="{U_MARK_READ}">{L_MARK_TOPICS_READ}</a></li>
@@ -45,8 +46,8 @@
 	</div>
 
 </div>
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<p class="crumbs"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a><strong>{NAV_CAT_DESC}</strong></p>
+<div class="pun-crumbs">
+	<p class="crumbs"><a href="{U_INDEX}"><span>{L_INDEX}</span></a><strong>{NAV_CAT_DESC}</strong></p>
 </div>
 
 <div id="pun-info" class="main">

@@ -225,7 +225,7 @@ function openAllSmiles()
 		<td valign="bottom">
 			<!-- BEGIN switch_fb_likebtn -->
 			<span id="fb_likebtn" style="margin-left: 6px; ">
-				<iframe src="http://www.facebook.com/plugins/like.php?href={FORUM_URL}{TOPIC_URL}&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="position:relative; top:1px; border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
+				<iframe src="https://www.facebook.com/plugins/like.php?href={FORUM_URL}{TOPIC_URL}&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="position:relative; top:1px; border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
 			</span>
 			<!-- END switch_fb_likebtn -->
 			<div style="float:right">

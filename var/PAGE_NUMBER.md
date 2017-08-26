@@ -24,7 +24,7 @@ Page <strong>X</strong> sur <strong>Y</strong>
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`44`](../src/prosilver/album_search_body.tpl#L44)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`60`](../src/prosilver/modcp_body.tpl#L60)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`77`](../src/prosilver/privmsgs_body.tpl#L77)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`94`](../src/prosilver/viewtopic_body.tpl#L94), [`339`](../src/prosilver/viewtopic_body.tpl#L339)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`85`](../src/prosilver/viewtopic_body.tpl#L85), [`329`](../src/prosilver/viewtopic_body.tpl#L329)
 
 ### Version phpBB2
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`94`](../src/subsilver/album_modcp_body.tpl#L94)
@@ -36,7 +36,7 @@ Page <strong>X</strong> sur <strong>Y</strong>
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`106`](../src/subsilver/privmsgs_body.tpl#L106)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`58`](../src/subsilver/search_results_posts.tpl#L58)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`64`](../src/subsilver/search_results_topics.tpl#L64)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`295`](../src/subsilver/viewtopic_body.tpl#L295)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`286`](../src/subsilver/viewtopic_body.tpl#L286)
 
 ### Version PunBB
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`23`](../src/punbb/album_modcp_body.tpl#L23), [`108`](../src/punbb/album_modcp_body.tpl#L108)
@@ -44,7 +44,7 @@ Page <strong>X</strong> sur <strong>Y</strong>
 * __[`album_search_body`](../tpl/album_search_body.md#readme) :__ lignes [`23`](../src/punbb/album_search_body.tpl#L23), [`55`](../src/punbb/album_search_body.tpl#L55)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`25`](../src/punbb/modcp_body.tpl#L25), [`79`](../src/punbb/modcp_body.tpl#L79)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`37`](../src/punbb/privmsgs_body.tpl#L37), [`81`](../src/punbb/privmsgs_body.tpl#L81)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`126`](../src/punbb/viewtopic_body.tpl#L126), [`271`](../src/punbb/viewtopic_body.tpl#L271)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/punbb/viewtopic_body.tpl#L117), [`262`](../src/punbb/viewtopic_body.tpl#L262)
 
 ### Version Invision
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`10`](../src/invision/album_modcp_body.tpl#L10)

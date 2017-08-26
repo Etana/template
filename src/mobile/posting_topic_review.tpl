@@ -1,18 +1,22 @@
 <!-- BEGIN switch_inline_mode -->
     <!-- END switch_inline_mode -->
-		<!-- BEGIN postrow -->
-			<!-- BEGIN displayed -->
-                <div class="postbody">
-                    <div class="post_header">{L_TOPIC_BY}&nbsp;{postrow.displayed.POSTER_NAME} {postrow.displayed.POST_DATE}</div>
-                    <div class="content">
-                        {postrow.displayed.MESSAGE}
+        <div class="topic">
+            <!-- BEGIN postrow -->
+                <!-- BEGIN displayed -->
+                    <div class="post-section">
+                        <div class="post-head">
+                            <h2>{postrow.displayed.POST_DATE}</h2>
+                            <div class="post-details">{L_TOPIC_BY} {postrow.displayed.POSTER_NAME}</div>
+                                        </div>
+                        <div class="post-content">
+                            {postrow.displayed.MESSAGE}
+                        </div>
                     </div>
-                </div>
-			<!-- END displayed -->
-			<!-- BEGIN hidden -->
-			
-			<!-- END hidden -->
-			<!-- END postrow -->
-		
+                <!-- END displayed -->
+                <!-- BEGIN hidden -->
+                
+                <!-- END hidden -->
+            <!-- END postrow -->
+        </div>
     <!-- BEGIN switch_inline_mode -->
 <!-- END switch_inline_mode -->

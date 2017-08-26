@@ -10,7 +10,7 @@
 	</div>
 
 	<div class="pathname-box">
-		<p itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{U_FORUM_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a> {NAV_SEP} <a href="{U_ALBUM}" itemprop="url"><span itemprop="title">{L_ALBUM}</span></a>{NAV_CAT_DESC}</p>
+		<p><a href="{U_FORUM_INDEX}"><span>{L_INDEX}</span></a> {NAV_SEP} <a href="{U_ALBUM}"><span>{L_ALBUM}</span></a>{NAV_CAT_DESC}</p>
 	</div>
 </div>
 

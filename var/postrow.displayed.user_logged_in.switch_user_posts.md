@@ -24,5 +24,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`156`](../src/invision/viewtopic_body.tpl#L156)[`<->`](../src/invision/viewtopic_body.tpl#L156-L158)[`158`](../src/invision/viewtopic_body.tpl#L158)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`147`](../src/invision/viewtopic_body.tpl#L147)[`<->`](../src/invision/viewtopic_body.tpl#L147-L149)[`149`](../src/invision/viewtopic_body.tpl#L149)
 

@@ -13,14 +13,14 @@ Affiche le pseudo des utilisateurs connectés sur la chatbox.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`90`](../src/prosilver/index_body.tpl#L90)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`94`](../src/prosilver/index_body.tpl#L94)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`207`](../src/subsilver/index_body.tpl#L207)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`164`](../src/subsilver/index_body.tpl#L164)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`91`](../src/punbb/index_body.tpl#L91)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`98`](../src/punbb/index_body.tpl#L98)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`138`](../src/invision/index_body.tpl#L138)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`144`](../src/invision/index_body.tpl#L144)
 

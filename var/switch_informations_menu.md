@@ -49,7 +49,7 @@ contenu sur lequel on boucle
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`8`](../src/subsilver/profile_add_body.tpl#L8)[`<->`](../src/subsilver/profile_add_body.tpl#L8-L88)[`88`](../src/subsilver/profile_add_body.tpl#L88)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`25`](../src/punbb/profile_add_body.tpl#L25)[`<->`](../src/punbb/profile_add_body.tpl#L25-L141)[`141`](../src/punbb/profile_add_body.tpl#L141), [`389`](../src/punbb/profile_add_body.tpl#L389)[`<->`](../src/punbb/profile_add_body.tpl#L389-L399)[`399`](../src/punbb/profile_add_body.tpl#L399)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`25`](../src/punbb/profile_add_body.tpl#L25)[`<->`](../src/punbb/profile_add_body.tpl#L25-L141)[`141`](../src/punbb/profile_add_body.tpl#L141), [`399`](../src/punbb/profile_add_body.tpl#L399)[`<->`](../src/punbb/profile_add_body.tpl#L399-L409)[`409`](../src/punbb/profile_add_body.tpl#L409)
 
 ### Version Invision
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`14`](../src/invision/profile_add_body.tpl#L14)[`<->`](../src/invision/profile_add_body.tpl#L14-L169)[`169`](../src/invision/profile_add_body.tpl#L169)

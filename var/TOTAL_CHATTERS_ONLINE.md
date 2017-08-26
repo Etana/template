@@ -15,14 +15,14 @@ Chaîne de texte indiquant le nombre d'utilisateurs connectés sur la chatbox.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`89`](../src/prosilver/index_body.tpl#L89)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`93`](../src/prosilver/index_body.tpl#L93)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`207`](../src/subsilver/index_body.tpl#L207)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`164`](../src/subsilver/index_body.tpl#L164)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`90`](../src/punbb/index_body.tpl#L90)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`97`](../src/punbb/index_body.tpl#L97)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`137`](../src/invision/index_body.tpl#L137)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`143`](../src/invision/index_body.tpl#L143)
 

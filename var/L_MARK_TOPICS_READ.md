@@ -15,14 +15,14 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`10`](../src/prosilver/viewforum_body.tpl#L10), [`56`](../src/prosilver/viewforum_body.tpl#L56)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`11`](../src/prosilver/viewforum_body.tpl#L11), [`57`](../src/prosilver/viewforum_body.tpl#L57)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`33`](../src/subsilver/viewforum_body.tpl#L33), [`63`](../src/subsilver/viewforum_body.tpl#L63)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`34`](../src/subsilver/viewforum_body.tpl#L34), [`64`](../src/subsilver/viewforum_body.tpl#L64)
 
 ### Version PunBB
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`17`](../src/punbb/viewforum_body.tpl#L17)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`18`](../src/punbb/viewforum_body.tpl#L18)
 
 ### Version Invision
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`45`](../src/invision/topics_list_box.tpl#L45)

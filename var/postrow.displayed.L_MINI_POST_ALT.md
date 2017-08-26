@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`149`](../src/prosilver/viewtopic_body.tpl#L149), [`149`](../src/prosilver/viewtopic_body.tpl#L149)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`139`](../src/prosilver/viewtopic_body.tpl#L139), [`139`](../src/prosilver/viewtopic_body.tpl#L139)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`154`](../src/subsilver/viewtopic_body.tpl#L154), [`154`](../src/subsilver/viewtopic_body.tpl#L154)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`145`](../src/subsilver/viewtopic_body.tpl#L145), [`145`](../src/subsilver/viewtopic_body.tpl#L145)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`187`](../src/invision/viewtopic_body.tpl#L187), [`187`](../src/invision/viewtopic_body.tpl#L187)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`178`](../src/invision/viewtopic_body.tpl#L178), [`178`](../src/invision/viewtopic_body.tpl#L178)
 

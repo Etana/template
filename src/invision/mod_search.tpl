@@ -21,7 +21,7 @@
 
 			</div>
 			<p class="search-footer">
-				<a href="{U_SEARCH}"><img src="http://illiweb.com/fa/icon_mini_search.gif" width="12" height="13" alt="Rechercher" /> {SEARCH_ADVANCED}</a>
+				<a href="{U_SEARCH}"><img src="https://illiweb.com/fa/icon_mini_search.gif" width="12" height="13" alt="Rechercher" /> {SEARCH_ADVANCED}</a>
 			</p>
 			{JS_SESSION_ID_INPUT}
 		</form>

@@ -207,9 +207,9 @@ function openAllSmiles()
 //]]>
 </script>
 
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
-	<li><a href="{U_ALBUM}" itemprop="url"><span itemprop="title">{L_ALBUM}</span></a></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
+	<li><a href="{U_ALBUM}"><span>{L_ALBUM}</span></a></li>
 	{NAV_CAT_DESC}
 </ul>
 

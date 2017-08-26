@@ -20,17 +20,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`65`](../src/prosilver/index_box.tpl#L65)[`<->`](../src/prosilver/index_box.tpl#L65-L70)[`70`](../src/prosilver/index_box.tpl#L70)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`76`](../src/prosilver/index_box.tpl#L76)[`<->`](../src/prosilver/index_box.tpl#L76-L81)[`81`](../src/prosilver/index_box.tpl#L81)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`89`](../src/subsilver/index_box.tpl#L89)[`<->`](../src/subsilver/index_box.tpl#L89-L90)[`90`](../src/subsilver/index_box.tpl#L90)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`99`](../src/subsilver/index_box.tpl#L99)[`<->`](../src/subsilver/index_box.tpl#L99-L100)[`100`](../src/subsilver/index_box.tpl#L100)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`56`](../src/punbb/index_box.tpl#L56)[`<->`](../src/punbb/index_box.tpl#L56-L60)[`60`](../src/punbb/index_box.tpl#L60)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`66`](../src/punbb/index_box.tpl#L66)[`<->`](../src/punbb/index_box.tpl#L66-L70)[`70`](../src/punbb/index_box.tpl#L70)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`69`](../src/invision/index_box.tpl#L69)[`<->`](../src/invision/index_box.tpl#L69-L74)[`74`](../src/invision/index_box.tpl#L74)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`78`](../src/invision/index_box.tpl#L78)[`<->`](../src/invision/index_box.tpl#L78-L83)[`83`](../src/invision/index_box.tpl#L83)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`21`](../src/mobile/index_box.tpl#L21)[`<->`](../src/mobile/index_box.tpl#L21-L23)[`23`](../src/mobile/index_box.tpl#L23)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`30`](../src/mobile/index_box.tpl#L30)[`<->`](../src/mobile/index_box.tpl#L30-L32)[`32`](../src/mobile/index_box.tpl#L32)
 

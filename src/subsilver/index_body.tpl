@@ -18,67 +18,46 @@
 
 <!-- BEGIN switch_user_login_form_header -->
 <form action="{S_LOGIN_ACTION}" method="post" name="form_login">
-	<!-- BEGIN switch_fb_connect_no -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="user_login_form forumline">
-		<tr>
-			<td class="row1" align="center">
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tr>
-						<td><span class="genmed">{L_USERNAME}:</span>&nbsp;</td>
-						<td><input class="post" type="text" size="10" name="username"/>&nbsp;</td>
-						<td>
-							<input class="radio" type="checkbox" name="autologin" {AUTOLOGIN_CHECKED} />
-							<span class="gensmall">{L_AUTO_LOGIN}</span>&nbsp;
-						</td>
-					</tr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="user_login_form forumline">
+        <tr>
+            <td width="50%" valign="top" align="{switch_user_login_form_header.V_ALIGN}" class="row1">
 
-					<tr>
-						<td><span class="genmed">{L_PASSWORD}:</span>&nbsp;</td>
-						<td><input class="post" type="password" size="10" name="password"/>&nbsp;</td>
-						<td>{S_HIDDEN_FIELDS}<input class="mainoption" type="submit" name="login" value="{L_LOGIN}" /></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-	</table>
-	<!-- END switch_fb_connect_no -->
+                <table>
+                    <tr>
+                        <td><span class="genmed">{L_USERNAME}:</span>&nbsp;</td>
+                        <td><input class="post" type="text" size="10" name="username"/>&nbsp;</td>
+                        <td>
+                            <input class="radio" type="checkbox" name="autologin" {AUTOLOGIN_CHECKED} />
+                            <span class="gensmall">{L_AUTO_LOGIN}</span>&nbsp;
+                        </td>
+                    </tr>
 
-	<!-- BEGIN switch_fb_connect -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="user_login_form forumline">
-		<tr>
-			<td valign="top" width="100%" class="row1" align="center">
-				<table width="100%">
-					<tr>
-						<td width="55%" valign="middle" align="right">
-							<table class="right">
-								<tr>
-									<td><span class="genmed">{L_USERNAME}:</span>&nbsp;</td>
-									<td><input class="post" type="text" size="10" name="username"/>&nbsp;</td>
-									<td>
-										<input class="radio" type="checkbox" name="autologin" {AUTOLOGIN_CHECKED} />
-										<span class="gensmall">{L_AUTO_LOGIN}</span>&nbsp;
-									</td>
-								</tr>
+                    <tr>
+                        <td><span class="genmed">{L_PASSWORD}:</span>&nbsp;</td>
+                        <td><input class="post" type="password" size="10" name="password"/>&nbsp;</td>
+                        <td>{S_HIDDEN_FIELDS}<input class="mainoption" type="submit" name="login" value="{L_LOGIN}" /></td>
+                    </tr>
+                </table>
+            </td>
 
-								<tr>
-									<td><span class="genmed">{L_PASSWORD}:</span>&nbsp;</td>
-									<td><input class="post" type="password" size="10" name="password"/>&nbsp;</td>
-									<td>{S_HIDDEN_FIELDS}<input class="mainoption" type="submit" name="login" value="{L_LOGIN}" /></td>
-								</tr>
-							</table>
-						</td>
-						<td width="10%" align="center" valign="middle">
-							<span class="genmed fb_or">{switch_user_login_form_header.switch_fb_connect.L_OR}</span>
-						</td>
-						<td width="35%" class="align_gauche"><fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-	</table>
-	<!-- END switch_fb_connect -->
+            <!-- BEGIN switch_social_login -->
+            <td width="10%" align="center" valign="middle" class="row1">
+                <span class="genmed fb_or">{switch_user_login_form_header.switch_social_login.L_OR}</span>
+            </td>
+            <td width="40%" class="align_gauche row1">
+                <div class="social_btn">
+                <!-- BEGIN fb_connect -->
+                <div class="fb-login-button"></div>
+                <!-- END fb_connect -->
+                </div>
+            </td>
+            <!-- END switch_social_login -->
+
+        </tr>
+    </table>
 </form>
 <!-- END switch_user_login_form_header -->
+
 {CHATBOX_TOP}
 {BOARD_INDEX}
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -108,65 +87,43 @@
 
 <!-- BEGIN switch_user_login_form_footer -->
 <form action="{S_LOGIN_ACTION}" method="post" name="form_login">
-	<!-- BEGIN switch_fb_connect_no -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="user_login_form forumline">
-		<tr>
-			<td class="row1" align="center">
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tr>
-						<td><span class="genmed">{L_USERNAME}:</span>&nbsp;</td>
-						<td><input class="post" type="text" size="10" name="username"/>&nbsp;</td>
-						<td>
-							<input class="radio" type="checkbox" name="autologin" {AUTOLOGIN_CHECKED} />
-							<span class="gensmall">{L_AUTO_LOGIN}</span>&nbsp;
-						</td>
-					</tr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="user_login_form forumline">
+        <tr>
+            <td width="50%" valign="top" align="right" class="row1">
 
-					<tr>
-						<td><span class="genmed">{L_PASSWORD}:</span>&nbsp;</td>
-						<td><input class="post" type="password" size="10" name="password"/>&nbsp;</td>
-						<td>{S_HIDDEN_FIELDS}<input class="mainoption" type="submit" name="login" value="{L_LOGIN}" /></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-	</table>
-	<!-- END switch_fb_connect_no -->
+                <table>
+                    <tr>
+                        <td><span class="genmed">{L_USERNAME}:</span>&nbsp;</td>
+                        <td><input class="post" type="text" size="10" name="username"/>&nbsp;</td>
+                        <td>
+                            <input class="radio" type="checkbox" name="autologin" {AUTOLOGIN_CHECKED} />
+                            <span class="gensmall">{L_AUTO_LOGIN}</span>&nbsp;
+                        </td>
+                    </tr>
 
-	<!-- BEGIN switch_fb_connect -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="user_login_form forumline">
-		<tr>
-			<td valign="top" width="100%" class="row1" align="center">
-				<table width="100%">
-					<tr>
-						<td width="55%" valign="middle">
-							<table class="right">
-								<tr>
-									<td><span class="genmed">{L_USERNAME}:</span>&nbsp;</td>
-									<td><input class="post" type="text" size="10" name="username"/>&nbsp;</td>
-									<td>
-										<input class="radio" type="checkbox" name="autologin" {AUTOLOGIN_CHECKED} />
-										<span class="gensmall">{L_AUTO_LOGIN}</span>&nbsp;
-									</td>
-								</tr>
+                    <tr>
+                        <td><span class="genmed">{L_PASSWORD}:</span>&nbsp;</td>
+                        <td><input class="post" type="password" size="10" name="password"/>&nbsp;</td>
+                        <td>{S_HIDDEN_FIELDS}<input class="mainoption" type="submit" name="login" value="{L_LOGIN}" /></td>
+                    </tr>
+                </table>
+            </td>
 
-								<tr>
-									<td><span class="genmed">{L_PASSWORD}:</span>&nbsp;</td>
-									<td><input class="post" type="password" size="10" name="password"/>&nbsp;</td>
-									<td>{S_HIDDEN_FIELDS}<input class="mainoption" type="submit" name="login" value="{L_LOGIN}" /></td>
-								</tr>
-							</table>
-						</td>
-						<td width="10%" align="center" valign="middle">
-							<span class="genmed fb_or">{switch_user_login_form_footer.switch_fb_connect.L_OR}</span>
-						</td>
-						<td width="35%" class="align_gauche"><fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_user_login_form_footer.switch_fb_connect.L_FB_PERMISSIONS}">{switch_user_login_form_footer.switch_fb_connect.L_FB_LOGIN_BUTTON}</fb:login-button></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-	</table>
-	<!-- END switch_fb_connect -->
+            <!-- BEGIN switch_social_login -->
+            <td width="10%" align="center" valign="middle" class="row1">
+                <span class="genmed fb_or">{switch_user_login_form_footer.switch_social_login.L_OR}</span>
+            </td>
+            <td width="40%" class="align_gauche row1">
+                <div class="social_btn">
+                <!-- BEGIN fb_connect -->
+                <div class="fb-login-button"></div>
+                <!-- END fb_connect -->
+                </div>
+            </td>
+            <!-- END switch_social_login -->
+
+        </tr>
+    </table>
 </form>
 <!-- END switch_user_login_form_footer -->
 
@@ -237,24 +194,3 @@
 <!-- END switch_legend -->
 
 {AUTO_DST}
-
-<!-- BEGIN switch_fb_index_login -->
-<div id="fb-root"></div>
-<script>
-    FB.init({
-      appId      : {switch_fb_index_login.FACEBOOK_APP_ID}, 
-      cookie     : true,
-      xfbml      : true,
-      oauth      : true,
-      version    : 'v2.3'
-    });
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-<!-- END switch_fb_index_login -->

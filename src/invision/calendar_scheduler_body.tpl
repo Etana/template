@@ -1,6 +1,6 @@
-<ul id="navstrip" class="clearfix" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<li class="begin"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></li>
-	<li><a href="{U_CALENDAR_SCHEDULER}" itemprop="url"><span itemprop="title">{L_CALENDAR_SCHEDULER}</span></a></li>
+<ul id="navstrip" class="clearfix">
+	<li class="begin"><a href="{U_INDEX}"><span>{L_INDEX}</span></a></li>
+	<li><a href="{U_CALENDAR_SCHEDULER}"><span>{L_CALENDAR_SCHEDULER}</span></a></li>
 </ul>
 
 
@@ -35,6 +35,7 @@
 		{TOPIC_LIST_SCHEDULER}
 		<br />
 		{BIRTHDAY_LIST_SCHEDULER}
+        {EVENT_LIST_SCHEDULER}
 	</div>
 	<div class="clear"></div>
 	<p>{PAGINATION}</p>

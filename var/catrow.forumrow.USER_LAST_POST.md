@@ -17,11 +17,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`58`](../src/prosilver/index_box.tpl#L58)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`69`](../src/prosilver/index_box.tpl#L69)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`50`](../src/punbb/index_box.tpl#L50)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`60`](../src/punbb/index_box.tpl#L60)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`63`](../src/invision/index_box.tpl#L63)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`72`](../src/invision/index_box.tpl#L72)
 

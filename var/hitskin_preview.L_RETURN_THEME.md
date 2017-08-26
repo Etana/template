@@ -17,14 +17,14 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`219`](../src/prosilver/overall_header.tpl#L219)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`225`](../src/prosilver/overall_header.tpl#L225)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`217`](../src/subsilver/overall_header.tpl#L217)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`212`](../src/subsilver/overall_header.tpl#L212)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`212`](../src/punbb/overall_header.tpl#L212)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`218`](../src/punbb/overall_header.tpl#L218)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`214`](../src/invision/overall_header.tpl#L214)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`220`](../src/invision/overall_header.tpl#L220)
 

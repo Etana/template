@@ -13,14 +13,14 @@ Contient le template [`greeting_popup`](../tpl/greeting_popup.md#readme) ou [`gr
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`163`](../src/prosilver/overall_header.tpl#L163)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`169`](../src/prosilver/overall_header.tpl#L169)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`169`](../src/subsilver/overall_header.tpl#L169)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`164`](../src/subsilver/overall_header.tpl#L164)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`163`](../src/punbb/overall_header.tpl#L163)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`169`](../src/punbb/overall_header.tpl#L169)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`78`](../src/invision/overall_header.tpl#L78)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`84`](../src/invision/overall_header.tpl#L84)
 

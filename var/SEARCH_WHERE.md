@@ -13,9 +13,9 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`35`](../src/prosilver/viewforum_body.tpl#L35)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`36`](../src/prosilver/viewforum_body.tpl#L36)
 
 ### Version Invision
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`163`](../src/invision/topics_list_box.tpl#L163)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`293`](../src/invision/viewtopic_body.tpl#L293)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`284`](../src/invision/viewtopic_body.tpl#L284)
 

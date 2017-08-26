@@ -10,7 +10,7 @@
 </noscript>
 <table width="100%" cellspacing="2" cellpadding="0" border="0" align="center">
 	<tr>
-		<td class="nav" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{U_INDEX}" class="nav" itemprop="url"><span itemprop="title">{L_INDEX}</span></a></td>
+		<td class="nav"><a href="{U_INDEX}" class="nav"><span>{L_INDEX}</span></a></td>
 	</tr>
 </table>
 <table class="forumline" width="100%" cellspacing="1" cellpadding="0" border="0" align="center">

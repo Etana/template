@@ -13,13 +13,13 @@
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<p class="crumbs"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a><strong>{NAV_CAT_DESC}</strong></p>
+<div class="pun-crumbs">
+	<p class="crumbs"><a href="{U_INDEX}"><span>{L_INDEX}</span></a><strong>{NAV_CAT_DESC}</strong></p>
 </div>
 
 <!-- BEGIN switch_fb_explain -->
 <div class="main-content standalone">
-	<img src="http://illiweb.com/fa/admin/icones/big_ico/warning.png" class="left" alt="" />
+	<img src="https://illiweb.com/fa/admin/icones/big_ico/warning.png" class="left" alt="" />
 	<div id="fb_explain">{switch_fb_explain.FB_EXPLAIN}</div>
 	<div class="clear"></div>
 </div>

@@ -14,6 +14,8 @@ contenu sur lequel on boucle
 
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_faceyourmanga -->`](../var/switch_avatar_block.switch_avatar_faceyourmanga.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_faceyourmanga))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_faceyourmanga_alternate -->`](../var/switch_avatar_block.switch_avatar_faceyourmanga_alternate.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_faceyourmanga_alternate))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_avatar_block.switch_avatar_faceyourmanga_alternate.ONCLICK_FYM}`](../var/switch_avatar_block.switch_avatar_faceyourmanga_alternate.ONCLICK_FYM.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_faceyourmanga_alternate.ONCLICK_FYM))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_local_gallery -->`](../var/switch_avatar_block.switch_avatar_local_gallery.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_local_gallery))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_local_upload -->`](../var/switch_avatar_block.switch_avatar_local_upload.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_local_upload))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_avatar_remote_link -->`](../var/switch_avatar_block.switch_avatar_remote_link.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_avatar_block.switch_avatar_remote_link))__
@@ -23,14 +25,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`326`](../src/prosilver/profile_add_body.tpl#L326)[`<->`](../src/prosilver/profile_add_body.tpl#L326-L383)[`383`](../src/prosilver/profile_add_body.tpl#L383), [`392`](../src/prosilver/profile_add_body.tpl#L392)[`<->`](../src/prosilver/profile_add_body.tpl#L392-L399)[`399`](../src/prosilver/profile_add_body.tpl#L399)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`326`](../src/prosilver/profile_add_body.tpl#L326)[`<->`](../src/prosilver/profile_add_body.tpl#L326-L394)[`394`](../src/prosilver/profile_add_body.tpl#L394), [`403`](../src/prosilver/profile_add_body.tpl#L403)[`<->`](../src/prosilver/profile_add_body.tpl#L403-L410)[`410`](../src/prosilver/profile_add_body.tpl#L410)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`290`](../src/subsilver/profile_add_body.tpl#L290)[`<->`](../src/subsilver/profile_add_body.tpl#L290-L340)[`340`](../src/subsilver/profile_add_body.tpl#L340), [`349`](../src/subsilver/profile_add_body.tpl#L349)[`<->`](../src/subsilver/profile_add_body.tpl#L349-L356)[`356`](../src/subsilver/profile_add_body.tpl#L356)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`290`](../src/subsilver/profile_add_body.tpl#L290)[`<->`](../src/subsilver/profile_add_body.tpl#L290-L351)[`351`](../src/subsilver/profile_add_body.tpl#L351), [`360`](../src/subsilver/profile_add_body.tpl#L360)[`<->`](../src/subsilver/profile_add_body.tpl#L360-L367)[`367`](../src/subsilver/profile_add_body.tpl#L367)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`331`](../src/punbb/profile_add_body.tpl#L331)[`<->`](../src/punbb/profile_add_body.tpl#L331-L386)[`386`](../src/punbb/profile_add_body.tpl#L386), [`412`](../src/punbb/profile_add_body.tpl#L412)[`<->`](../src/punbb/profile_add_body.tpl#L412-L419)[`419`](../src/punbb/profile_add_body.tpl#L419)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`331`](../src/punbb/profile_add_body.tpl#L331)[`<->`](../src/punbb/profile_add_body.tpl#L331-L396)[`396`](../src/punbb/profile_add_body.tpl#L396), [`422`](../src/punbb/profile_add_body.tpl#L422)[`<->`](../src/punbb/profile_add_body.tpl#L422-L429)[`429`](../src/punbb/profile_add_body.tpl#L429)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`405`](../src/invision/profile_add_body.tpl#L405)[`<->`](../src/invision/profile_add_body.tpl#L405-L461)[`461`](../src/invision/profile_add_body.tpl#L461), [`472`](../src/invision/profile_add_body.tpl#L472)[`<->`](../src/invision/profile_add_body.tpl#L472-L479)[`479`](../src/invision/profile_add_body.tpl#L479)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`405`](../src/invision/profile_add_body.tpl#L405)[`<->`](../src/invision/profile_add_body.tpl#L405-L471)[`471`](../src/invision/profile_add_body.tpl#L471), [`482`](../src/invision/profile_add_body.tpl#L482)[`<->`](../src/invision/profile_add_body.tpl#L482-L489)[`489`](../src/invision/profile_add_body.tpl#L489)
 

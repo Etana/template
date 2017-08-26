@@ -73,11 +73,11 @@ contenu que l'utilisateur verra si il est déconnecté
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`11`](../src/punbb/search_body.tpl#L11)[`<->`](../src/punbb/search_body.tpl#L11-L15)[`15`](../src/punbb/search_body.tpl#L15)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`11`](../src/punbb/search_results_posts.tpl#L11)[`<->`](../src/punbb/search_results_posts.tpl#L11-L15)[`15`](../src/punbb/search_results_posts.tpl#L15)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`10`](../src/punbb/search_results_topics.tpl#L10)[`<->`](../src/punbb/search_results_topics.tpl#L10-L14)[`14`](../src/punbb/search_results_topics.tpl#L14)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`22`](../src/punbb/viewforum_body.tpl#L22)[`<->`](../src/punbb/viewforum_body.tpl#L22-L26)[`26`](../src/punbb/viewforum_body.tpl#L26)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`23`](../src/punbb/viewforum_body.tpl#L23)[`<->`](../src/punbb/viewforum_body.tpl#L23-L27)[`27`](../src/punbb/viewforum_body.tpl#L27)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`21`](../src/punbb/viewonline_body.tpl#L21)[`<->`](../src/punbb/viewonline_body.tpl#L21-L25)[`25`](../src/punbb/viewonline_body.tpl#L25)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`75`](../src/punbb/viewtopic_body.tpl#L75)[`<->`](../src/punbb/viewtopic_body.tpl#L75-L79)[`79`](../src/punbb/viewtopic_body.tpl#L79)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`66`](../src/punbb/viewtopic_body.tpl#L66)[`<->`](../src/punbb/viewtopic_body.tpl#L66-L70)[`70`](../src/punbb/viewtopic_body.tpl#L70)
 
 ### Version Invision
 * __[`agreement`](../tpl/agreement.md#readme) :__ lignes [`19`](../src/invision/agreement.tpl#L19)[`<->`](../src/invision/agreement.tpl#L19-L21)[`21`](../src/invision/agreement.tpl#L21)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`274`](../src/invision/overall_header.tpl#L274)[`<->`](../src/invision/overall_header.tpl#L274-L278)[`278`](../src/invision/overall_header.tpl#L278)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`280`](../src/invision/overall_header.tpl#L280)[`<->`](../src/invision/overall_header.tpl#L280-L284)[`284`](../src/invision/overall_header.tpl#L284)
 

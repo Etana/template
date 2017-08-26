@@ -51,7 +51,16 @@
 					<td class="row1 centered">{catrow.forumrow.TOPICS}</td>
 					<td class="row2 centered">{catrow.forumrow.POSTS}</td>
 					<td class="row1">
-
+                        <!-- BEGIN ads -->
+                        <span class="AD_LastPA">
+                            <span class="lastpost-avatar"><img src="{catrow.forumrow.ads.IMG}" alt="{catrow.forumrow.ads.TITLE}" /></span>
+                            <span class="AD_LastInfos">
+                                <b><a href="{catrow.forumrow.ads.LINK}">{catrow.forumrow.ads.TITLE}</a></b><br />
+                                {catrow.forumrow.ads.DATE}<br />
+                                {catrow.forumrow.ads.LOCATION}
+                            </span>
+                        </span>
+                        <!-- END ads -->
                         <!-- BEGIN avatar -->
                         <span class="lastpost-avatar">{catrow.forumrow.avatar.LAST_POST_AVATAR}</span>
                         <!-- END avatar -->

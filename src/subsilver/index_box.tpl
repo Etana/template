@@ -69,6 +69,16 @@
 			<span class="gensmall">{catrow.forumrow.POSTS}</span>
 		</td>
 		<td class="row3 over" align="center" valign="middle" height="50">
+            <!-- BEGIN ads -->
+            <span class="AD_LastPA">
+                <span class="lastpost-avatar"><img src="{catrow.forumrow.ads.IMG}" alt="{catrow.forumrow.ads.TITLE}" /></span>
+                <span class="AD_LastInfos">
+                    <b><a href="{catrow.forumrow.ads.LINK}">{catrow.forumrow.ads.TITLE}</a></b><br />
+                    {catrow.forumrow.ads.DATE}<br />
+                    {catrow.forumrow.ads.LOCATION}
+                </span>
+            </span>
+            <!-- END ads -->
             <!-- BEGIN avatar -->
             <div style="width: 200px;"></div>
             <span class="lastpost-avatar">{catrow.forumrow.avatar.LAST_POST_AVATAR}</span>

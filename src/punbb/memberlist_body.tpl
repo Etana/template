@@ -14,9 +14,9 @@
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<div class="pun-crumbs">
 	<p class="crumbs">
-		<a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong>{PAGE_TITLE}</strong>
+		<a href="{U_INDEX}"><span>{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong>{PAGE_TITLE}</strong>
 	</p>
 </div>
 

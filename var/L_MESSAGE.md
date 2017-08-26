@@ -43,7 +43,7 @@ L'Equipe du site
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`25`](../src/subsilver/privmsgs_read_body.tpl#L25)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`16`](../src/subsilver/report_popup_body.tpl#L16)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`16`](../src/subsilver/search_results_posts.tpl#L16)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`129`](../src/subsilver/viewtopic_body.tpl#L129), [`269`](../src/subsilver/viewtopic_body.tpl#L269)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`120`](../src/subsilver/viewtopic_body.tpl#L120), [`260`](../src/subsilver/viewtopic_body.tpl#L260)
 
 ### Version PunBB
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`24`](../src/punbb/greeting_popup.tpl#L24)
@@ -51,7 +51,7 @@ L'Equipe du site
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`23`](../src/punbb/privmsgs_popup.tpl#L23)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`32`](../src/punbb/privmsgs_read_body.tpl#L32)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`24`](../src/punbb/report_popup_body.tpl#L24)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`126`](../src/punbb/viewtopic_body.tpl#L126), [`271`](../src/punbb/viewtopic_body.tpl#L271)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`117`](../src/punbb/viewtopic_body.tpl#L117), [`262`](../src/punbb/viewtopic_body.tpl#L262)
 
 ### Version Invision
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`21`](../src/invision/greeting_popup.tpl#L21)

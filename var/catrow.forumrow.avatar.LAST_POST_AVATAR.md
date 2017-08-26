@@ -19,14 +19,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`51`](../src/prosilver/index_box.tpl#L51)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`62`](../src/prosilver/index_box.tpl#L62)
 
 ### Version phpBB2
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`74`](../src/subsilver/index_box.tpl#L74)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`84`](../src/subsilver/index_box.tpl#L84)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`43`](../src/punbb/index_box.tpl#L43)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`53`](../src/punbb/index_box.tpl#L53)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`56`](../src/invision/index_box.tpl#L56)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`65`](../src/invision/index_box.tpl#L65)
+
+### Version Version mobile
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`12`](../src/mobile/index_box.tpl#L12)
 

@@ -62,10 +62,10 @@ Adresse url absolue vers "Voir les nouveaux messages depuis votre dernière visi
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`5`](../src/punbb/search_body.tpl#L5)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`5`](../src/punbb/search_results_posts.tpl#L5)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`4`](../src/punbb/search_results_topics.tpl#L4)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`15`](../src/punbb/viewforum_body.tpl#L15)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`16`](../src/punbb/viewforum_body.tpl#L16)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`14`](../src/punbb/viewonline_body.tpl#L14)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`66`](../src/punbb/viewtopic_body.tpl#L66)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`57`](../src/punbb/viewtopic_body.tpl#L57)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`267`](../src/invision/overall_header.tpl#L267)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`273`](../src/invision/overall_header.tpl#L273)
 

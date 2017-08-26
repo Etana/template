@@ -17,7 +17,7 @@ Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralit
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`33`](../src/prosilver/index_body.tpl#L33)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`37`](../src/prosilver/index_body.tpl#L37)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`12`](../src/subsilver/index_body.tpl#L12)

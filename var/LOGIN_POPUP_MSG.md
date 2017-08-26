@@ -13,14 +13,14 @@ Message du popup de connexion défini dans `PA > Général > Forum | Configurati
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`229`](../src/prosilver/overall_header.tpl#L229)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`235`](../src/prosilver/overall_header.tpl#L235)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`240`](../src/subsilver/overall_header.tpl#L240)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`235`](../src/subsilver/overall_header.tpl#L235)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`224`](../src/punbb/overall_header.tpl#L224)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`230`](../src/punbb/overall_header.tpl#L230)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`227`](../src/invision/overall_header.tpl#L227)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`233`](../src/invision/overall_header.tpl#L233)
 

@@ -5,7 +5,7 @@
 * Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
-`Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_send_pass`
+`Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `profile_send_pass`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/profile_send_pass)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/profile_send_pass)
@@ -128,12 +128,12 @@
 
 ### Positions des variables
 
-* __[`{AUTO_DST}`](../var/AUTO_DST.md#readme) :__ ligne [`3`](../src/mobile/profile_send_pass.tpl#L3)
+* __[`{AUTO_DST}`](../var/AUTO_DST.md#readme) :__ ligne [`2`](../src/mobile/profile_send_pass.tpl#L2)
 * __[`{BOARD_INDEX}`](../var/BOARD_INDEX.md#readme) :__ ligne [`1`](../src/mobile/profile_send_pass.tpl#L1)
-* __[`{EMAIL}`](../var/EMAIL.md#readme) :__ ligne [`12`](../src/mobile/profile_send_pass.tpl#L12)
-* __[`{INLINE_MESSAGE}`](../var/INLINE_MESSAGE.md#readme) :__ ligne [`4`](../src/mobile/profile_send_pass.tpl#L4)
-* __[`{L_EMAIL_ADDRESS}`](../var/L_EMAIL_ADDRESS.md#readme) :__ ligne [`12`](../src/mobile/profile_send_pass.tpl#L12)
-* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme) :__ ligne [`15`](../src/mobile/profile_send_pass.tpl#L15)
-* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme) :__ ligne [`8`](../src/mobile/profile_send_pass.tpl#L8)
-* __[`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme) :__ ligne [`6`](../src/mobile/profile_send_pass.tpl#L6)
-* __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`8`](../src/mobile/profile_send_pass.tpl#L8)
+* __[`{EMAIL}`](../var/EMAIL.md#readme) :__ ligne [`6`](../src/mobile/profile_send_pass.tpl#L6)
+* __[`{INLINE_MESSAGE}`](../var/INLINE_MESSAGE.md#readme) :__ ligne [`3`](../src/mobile/profile_send_pass.tpl#L3)
+* __[`{L_EMAIL_ADDRESS}`](../var/L_EMAIL_ADDRESS.md#readme) :__ ligne [`6`](../src/mobile/profile_send_pass.tpl#L6)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme) :__ ligne [`8`](../src/mobile/profile_send_pass.tpl#L8)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme) :__ ligne [`5`](../src/mobile/profile_send_pass.tpl#L5)
+* __[`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme) :__ ligne [`4`](../src/mobile/profile_send_pass.tpl#L4)
+* __[`{USERNAME}`](../var/USERNAME.md#readme) :__ ligne [`5`](../src/mobile/profile_send_pass.tpl#L5)

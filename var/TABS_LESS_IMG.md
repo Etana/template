@@ -13,7 +13,7 @@ Image pour fermer un panneau définie dans `PA > Affichage > Images et Couleurs 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`283`](../src/prosilver/viewtopic_body.tpl#L283)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`273`](../src/prosilver/viewtopic_body.tpl#L273)
 
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme) :__ lignes [`211`](../src/subsilver/album_cat_body.tpl#L211)
@@ -21,12 +21,12 @@ Image pour fermer un panneau définie dans `PA > Affichage > Images et Couleurs 
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`279`](../src/subsilver/posting_body.tpl#L279), [`398`](../src/subsilver/posting_body.tpl#L398), [`452`](../src/subsilver/posting_body.tpl#L452), [`555`](../src/subsilver/posting_body.tpl#L555)
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme) :__ lignes [`14`](../src/subsilver/posting_poll_body.tpl#L14)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`51`](../src/subsilver/search_body.tpl#L51)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`52`](../src/subsilver/viewforum_body.tpl#L52)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`329`](../src/subsilver/viewtopic_body.tpl#L329), [`405`](../src/subsilver/viewtopic_body.tpl#L405)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`53`](../src/subsilver/viewforum_body.tpl#L53)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`320`](../src/subsilver/viewtopic_body.tpl#L320), [`396`](../src/subsilver/viewtopic_body.tpl#L396)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`321`](../src/punbb/viewtopic_body.tpl#L321)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`312`](../src/punbb/viewtopic_body.tpl#L312)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`362`](../src/invision/viewtopic_body.tpl#L362)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`353`](../src/invision/viewtopic_body.tpl#L353)
 

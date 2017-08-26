@@ -13,9 +13,9 @@
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<div class="pun-crumbs">
 	<p class="crumbs">
-		<a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong>{L_SEND_EMAIL_MSG}</strong>
+		<a href="{U_INDEX}"><span>{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong>{L_SEND_EMAIL_MSG}</strong>
 	</p>
 </div>
 
@@ -29,10 +29,22 @@
 
 		<div class="main-content">
 			<fieldset class="frm-set">
+                <!-- BEGIN switch_profile_email -->
 				<dl>
 					<dt><label>{L_RECIPIENT}</label></dt>
 					<dd><input type="text" name="friendname" value="{USERNAME}" class="inputbox" /></dd>
 				</dl>
+                <!-- END switch_profile_email -->
+                <!-- BEGIN switch_ad_email -->
+                <dl>
+                    <dt><label>{switch_ad_email.L_YOUR_EMAIL}</label></dt>
+                    <dd><input type="text" name="email" value="{switch_ad_email.V_YOUR_EMAIL}" {switch_ad_email.DISABLE_YOUR_EMAIL} class="inputbox" /></dd>
+                </dl>
+                <dl>
+                    <dt><label>{switch_ad_email.L_YOUR_NAME}</label></dt>
+                    <dd><input type="text" name="username" value="{switch_ad_email.V_YOUR_NAME}" {switch_ad_email.DISABLE_YOUR_NAME} class="inputbox" /></dd>
+                </dl>
+                <!-- END switch_ad_email -->
 				<!-- BEGIN switch_tell_friend -->
 				<dl>
 					<dt><label>{L_TELL_FRIEND_RECIEVER_EMAIL}</label></dt>
@@ -41,7 +53,7 @@
 				<!-- END switch_tell_friend -->
 				<dl>
 					<dt><label>{L_SUBJECT}</label></dt>
-					<dd><input class="inputbox" type="text" name="subject" value="{SUBJECT}" maxlength="100" /></dd>
+					<dd><input class="inputbox" type="text" name="subject" value="{SUBJECT}" {SUBJECT_READ_ONLY} maxlength="100" /></dd>
 				</dl>
 				<dl>
 					<dt>

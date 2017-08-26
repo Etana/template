@@ -5,7 +5,7 @@
 * Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
-`Index` > ` Panneau d'admnistration` > `Templates | Général` > `viewtopic_poll_result`
+`Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `viewtopic_poll_result`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/viewtopic_poll_result)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/viewtopic_poll_result)
@@ -154,23 +154,19 @@
 
 ### Positions des variables
 
-* __[`{L_CANCEL_VOTE}`](../var/L_CANCEL_VOTE.md#readme) :__ ligne [`14`](../src/mobile/viewtopic_poll_result.tpl#L14)
-* __[`{L_POLL_HIDE_RESULT}`](../var/L_POLL_HIDE_RESULT.md#readme) :__ ligne [`17`](../src/mobile/viewtopic_poll_result.tpl#L17)
-* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`11`](../src/mobile/viewtopic_poll_result.tpl#L11)
-* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`3`](../src/mobile/viewtopic_poll_result.tpl#L3)
-* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme) :__ ligne [`11`](../src/mobile/viewtopic_poll_result.tpl#L11)
-* __[`{U_CANCEL_VOTE}`](../var/U_CANCEL_VOTE.md#readme) :__ ligne [`14`](../src/mobile/viewtopic_poll_result.tpl#L14)
-* __[`{VOTE_LCAP_IMG}`](../var/VOTE_LCAP_IMG.md#readme) :__ ligne [`7`](../src/mobile/viewtopic_poll_result.tpl#L7)
-* __[`{VOTE_RCAP_IMG}`](../var/VOTE_RCAP_IMG.md#readme) :__ ligne [`7`](../src/mobile/viewtopic_poll_result.tpl#L7)
-* __[`<!-- BEGIN cancel_vote -->`](../var/cancel_vote.md#readme) :__ ligne [`13`](../src/mobile/viewtopic_poll_result.tpl#L13)
-* __[`<!-- END cancel_vote -->`](../var/cancel_vote.md#readme) :__ ligne [`15`](../src/mobile/viewtopic_poll_result.tpl#L15)
-* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`5`](../src/mobile/viewtopic_poll_result.tpl#L5)
-* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`10`](../src/mobile/viewtopic_poll_result.tpl#L10)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`6`](../src/mobile/viewtopic_poll_result.tpl#L6)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG}`](../var/poll_option.POLL_OPTION_IMG.md#readme) :__ ligne [`7`](../src/mobile/viewtopic_poll_result.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_IMG_WIDTH}`](../var/poll_option.POLL_OPTION_IMG_WIDTH.md#readme) :__ ligne [`7`](../src/mobile/viewtopic_poll_result.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`7`](../src/mobile/viewtopic_poll_result.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`7`](../src/mobile/viewtopic_poll_result.tpl#L7)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`8`](../src/mobile/viewtopic_poll_result.tpl#L8)
-* __[`<!-- BEGIN switch_hide_result -->`](../var/switch_hide_result.md#readme) :__ ligne [`16`](../src/mobile/viewtopic_poll_result.tpl#L16)
-* __[`<!-- END switch_hide_result -->`](../var/switch_hide_result.md#readme) :__ ligne [`18`](../src/mobile/viewtopic_poll_result.tpl#L18)
+* __[`{L_CANCEL_VOTE}`](../var/L_CANCEL_VOTE.md#readme) :__ ligne [`11`](../src/mobile/viewtopic_poll_result.tpl#L11)
+* __[`{L_POLL_HIDE_RESULT}`](../var/L_POLL_HIDE_RESULT.md#readme) :__ ligne [`14`](../src/mobile/viewtopic_poll_result.tpl#L14)
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme) :__ ligne [`8`](../src/mobile/viewtopic_poll_result.tpl#L8)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme) :__ ligne [`2`](../src/mobile/viewtopic_poll_result.tpl#L2)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme) :__ ligne [`8`](../src/mobile/viewtopic_poll_result.tpl#L8)
+* __[`{U_CANCEL_VOTE}`](../var/U_CANCEL_VOTE.md#readme) :__ ligne [`11`](../src/mobile/viewtopic_poll_result.tpl#L11)
+* __[`<!-- BEGIN cancel_vote -->`](../var/cancel_vote.md#readme) :__ ligne [`10`](../src/mobile/viewtopic_poll_result.tpl#L10)
+* __[`<!-- END cancel_vote -->`](../var/cancel_vote.md#readme) :__ ligne [`12`](../src/mobile/viewtopic_poll_result.tpl#L12)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme) :__ ligne [`4`](../src/mobile/viewtopic_poll_result.tpl#L4)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme) :__ ligne [`7`](../src/mobile/viewtopic_poll_result.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme) :__ ligne [`5`](../src/mobile/viewtopic_poll_result.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`6`](../src/mobile/viewtopic_poll_result.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme) :__ ligne [`6`](../src/mobile/viewtopic_poll_result.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme) :__ ligne [`6`](../src/mobile/viewtopic_poll_result.tpl#L6)
+* __[`<!-- BEGIN switch_hide_result -->`](../var/switch_hide_result.md#readme) :__ ligne [`13`](../src/mobile/viewtopic_poll_result.tpl#L13)
+* __[`<!-- END switch_hide_result -->`](../var/switch_hide_result.md#readme) :__ ligne [`15`](../src/mobile/viewtopic_poll_result.tpl#L15)

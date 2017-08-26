@@ -6,7 +6,7 @@
 
 <table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="0" align="center">
 	<tr>
-		<th class="thHead" colspan="2" nowrap="nowrap" height="25">{L_VIEWING_PROFILE}</th>
+		<th class="thHead" colspan="2" nowrap="nowrap" height="25"><h1 class="h_member">{L_VIEWING_PROFILE}</h1></th>
 	</tr>
 	<tr>
 		<td class="catLeft" align="center" width="40%" height="28"><b><span class="gen">{L_USER_PRESENCE}</span></b></td>

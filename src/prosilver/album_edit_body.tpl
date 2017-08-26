@@ -31,7 +31,7 @@ function checkAlbumForm() {
 
 <form name="editform" action="{S_ALBUM_ACTION}" method="post" onsubmit="return checkAlbumForm()">
 <div class="topic-actions">
-	<p itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{U_FORUM_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_SEP}<a class="nav" href="{U_ALBUM}" itemprop="url"><span itemprop="title">{L_ALBUM}</span></a>{NAV_CAT_DESC}</p>
+	<p><a href="{U_FORUM_INDEX}"><span>{L_INDEX}</span></a>{NAV_SEP}<a class="nav" href="{U_ALBUM}"><span>{L_ALBUM}</span></a>{NAV_CAT_DESC}</p>
 </div>
 
 <h1 class="page-title">{L_EDIT_PIC_INFO}</h1>

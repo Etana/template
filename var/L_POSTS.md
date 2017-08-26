@@ -51,5 +51,5 @@ Chaîne de texte.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`55`](../src/invision/search_body.tpl#L55)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`14`](../src/mobile/index_box.tpl#L14)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`22`](../src/mobile/index_box.tpl#L22)
 

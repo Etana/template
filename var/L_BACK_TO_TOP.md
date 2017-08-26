@@ -23,8 +23,8 @@ Code html de l'image `Revenir en haut` spécifiée dans [`Index`](http://votre-f
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`28`](../src/prosilver/faq_body.tpl#L28)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`27`](../src/prosilver/search_results_posts.tpl#L27)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`58`](../src/prosilver/search_results_topics.tpl#L58)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`56`](../src/prosilver/viewforum_body.tpl#L56)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`247`](../src/prosilver/viewtopic_body.tpl#L247), [`262`](../src/prosilver/viewtopic_body.tpl#L262)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`57`](../src/prosilver/viewforum_body.tpl#L57)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`237`](../src/prosilver/viewtopic_body.tpl#L237), [`252`](../src/prosilver/viewtopic_body.tpl#L252)
 
 ### Version phpBB2
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`54`](../src/subsilver/birthday_list_box.tpl#L54)
@@ -32,7 +32,7 @@ Code html de l'image `Revenir en haut` spécifiée dans [`Index`](http://votre-f
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`52`](../src/subsilver/search_results_posts.tpl#L52)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`58`](../src/subsilver/search_results_topics.tpl#L58)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`97`](../src/subsilver/topics_list_box.tpl#L97)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`251`](../src/subsilver/viewtopic_body.tpl#L251), [`287`](../src/subsilver/viewtopic_body.tpl#L287)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`242`](../src/subsilver/viewtopic_body.tpl#L242), [`278`](../src/subsilver/viewtopic_body.tpl#L278)
 
 ### Version PunBB
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`46`](../src/punbb/birthday_list_box.tpl#L46)
@@ -40,11 +40,11 @@ Code html de l'image `Revenir en haut` spécifiée dans [`Index`](http://votre-f
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`76`](../src/punbb/search_results_posts.tpl#L76)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`74`](../src/punbb/search_results_topics.tpl#L74)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`122`](../src/punbb/topics_list_box.tpl#L122)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`270`](../src/punbb/viewtopic_body.tpl#L270)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`261`](../src/punbb/viewtopic_body.tpl#L261)
 
 ### Version Invision
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme) :__ lignes [`47`](../src/invision/birthday_list_box.tpl#L47)
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`28`](../src/invision/faq_body.tpl#L28)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`55`](../src/invision/search_results_posts.tpl#L55)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`272`](../src/invision/viewtopic_body.tpl#L272)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`263`](../src/invision/viewtopic_body.tpl#L263)
 

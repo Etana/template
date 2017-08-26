@@ -29,7 +29,7 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 ### Version phpBB2
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`1`](../src/subsilver/overall_footer_begin.tpl#L1)[`<->`](../src/subsilver/overall_footer_begin.tpl#L1-L8)[`8`](../src/subsilver/overall_footer_begin.tpl#L8), [`29`](../src/subsilver/overall_footer_begin.tpl#L29)[`<->`](../src/subsilver/overall_footer_begin.tpl#L29-L33)[`33`](../src/subsilver/overall_footer_begin.tpl#L33)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`1`](../src/subsilver/overall_footer_end.tpl#L1)[`<->`](../src/subsilver/overall_footer_end.tpl#L1-L11)[`11`](../src/subsilver/overall_footer_end.tpl#L11)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`335`](../src/subsilver/overall_header.tpl#L335)[`<->`](../src/subsilver/overall_header.tpl#L335-L347)[`347`](../src/subsilver/overall_header.tpl#L347)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`330`](../src/subsilver/overall_header.tpl#L330)[`<->`](../src/subsilver/overall_header.tpl#L330-L342)[`342`](../src/subsilver/overall_header.tpl#L342)
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`1`](../src/subsilver/privmsgs_popup.tpl#L1)[`<->`](../src/subsilver/privmsgs_popup.tpl#L1-L8)[`8`](../src/subsilver/privmsgs_popup.tpl#L8)
 * __[`simple_footer`](../tpl/simple_footer.md#readme) :__ lignes [`1`](../src/subsilver/simple_footer.tpl#L1)[`<->`](../src/subsilver/simple_footer.tpl#L1-L8)[`8`](../src/subsilver/simple_footer.tpl#L8)
 
@@ -37,7 +37,7 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme) :__ lignes [`1`](../src/punbb/greeting_popup.tpl#L1)[`<->`](../src/punbb/greeting_popup.tpl#L1-L5)[`5`](../src/punbb/greeting_popup.tpl#L5)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme) :__ lignes [`1`](../src/punbb/overall_footer_begin.tpl#L1)[`<->`](../src/punbb/overall_footer_begin.tpl#L1-L10)[`10`](../src/punbb/overall_footer_begin.tpl#L10), [`37`](../src/punbb/overall_footer_begin.tpl#L37)[`<->`](../src/punbb/overall_footer_begin.tpl#L37-L42)[`42`](../src/punbb/overall_footer_begin.tpl#L42)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme) :__ lignes [`1`](../src/punbb/overall_footer_end.tpl#L1)[`<->`](../src/punbb/overall_footer_end.tpl#L1-L13)[`13`](../src/punbb/overall_footer_end.tpl#L13)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`312`](../src/punbb/overall_header.tpl#L312)[`<->`](../src/punbb/overall_header.tpl#L312-L327)[`327`](../src/punbb/overall_header.tpl#L327)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`318`](../src/punbb/overall_header.tpl#L318)[`<->`](../src/punbb/overall_header.tpl#L318-L333)[`333`](../src/punbb/overall_header.tpl#L333)
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme) :__ lignes [`1`](../src/punbb/privmsgs_popup.tpl#L1)[`<->`](../src/punbb/privmsgs_popup.tpl#L1-L5)[`5`](../src/punbb/privmsgs_popup.tpl#L5)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme) :__ lignes [`1`](../src/punbb/report_popup_body.tpl#L1)[`<->`](../src/punbb/report_popup_body.tpl#L1-L5)[`5`](../src/punbb/report_popup_body.tpl#L5)
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`1`](../src/punbb/search_username.tpl#L1)[`<->`](../src/punbb/search_username.tpl#L1-L5)[`5`](../src/punbb/search_username.tpl#L5)
@@ -51,6 +51,6 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 * __[`search_username`](../tpl/search_username.md#readme) :__ lignes [`1`](../src/invision/search_username.tpl#L1)[`<->`](../src/invision/search_username.tpl#L1-L5)[`5`](../src/invision/search_username.tpl#L5)
 
 ### Version Version mobile
-* __[`overall_footer`](../tpl/overall_footer.md#readme) :__ lignes [`1`](../src/mobile/overall_footer.tpl#L1)[`<->`](../src/mobile/overall_footer.tpl#L1-L8)[`8`](../src/mobile/overall_footer.tpl#L8)
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`49`](../src/mobile/overall_header.tpl#L49)[`<->`](../src/mobile/overall_header.tpl#L49-L55)[`55`](../src/mobile/overall_header.tpl#L55)
+* __[`overall_footer`](../tpl/overall_footer.md#readme) :__ lignes [`1`](../src/mobile/overall_footer.tpl#L1)[`<->`](../src/mobile/overall_footer.tpl#L1-L7)[`7`](../src/mobile/overall_footer.tpl#L7)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`52`](../src/mobile/overall_header.tpl#L52)[`<->`](../src/mobile/overall_header.tpl#L52-L57)[`57`](../src/mobile/overall_header.tpl#L57)
 

@@ -31,8 +31,8 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`17`](../src/prosilver/memberlist_body.tpl#L17)
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`36`](../src/prosilver/merge_body.tpl#L36)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`184`](../src/prosilver/posting_body.tpl#L184), [`186`](../src/prosilver/posting_body.tpl#L186)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`7`](../src/prosilver/posting_confirm_code.tpl#L7)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`387`](../src/prosilver/profile_add_body.tpl#L387)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`12`](../src/prosilver/posting_confirm_code.tpl#L12)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`398`](../src/prosilver/profile_add_body.tpl#L398)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`20`](../src/prosilver/profile_send_pass.tpl#L20)
 
 ### Version phpBB2
@@ -46,8 +46,8 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`14`](../src/subsilver/memberlist_body.tpl#L14)
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`30`](../src/subsilver/merge_body.tpl#L30)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`247`](../src/subsilver/posting_body.tpl#L247), [`411`](../src/subsilver/posting_body.tpl#L411)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`8`](../src/subsilver/posting_confirm_code.tpl#L8)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`343`](../src/subsilver/profile_add_body.tpl#L343)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`14`](../src/subsilver/posting_confirm_code.tpl#L14)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`354`](../src/subsilver/profile_add_body.tpl#L354)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`25`](../src/subsilver/profile_send_pass.tpl#L25)
 
 ### Version PunBB
@@ -61,8 +61,8 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`53`](../src/punbb/memberlist_body.tpl#L53)
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`54`](../src/punbb/merge_body.tpl#L54)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`210`](../src/punbb/posting_body.tpl#L210)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`8`](../src/punbb/posting_confirm_code.tpl#L8)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`405`](../src/punbb/profile_add_body.tpl#L405)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`13`](../src/punbb/posting_confirm_code.tpl#L13)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`415`](../src/punbb/profile_add_body.tpl#L415)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`43`](../src/punbb/profile_send_pass.tpl#L43)
 
 ### Version Invision
@@ -76,15 +76,15 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme) :__ lignes [`43`](../src/invision/memberlist_body.tpl#L43)
 * __[`merge_body`](../tpl/merge_body.md#readme) :__ lignes [`36`](../src/invision/merge_body.tpl#L36)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`361`](../src/invision/posting_body.tpl#L361)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`9`](../src/invision/posting_confirm_code.tpl#L9)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`466`](../src/invision/profile_add_body.tpl#L466)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`14`](../src/invision/posting_confirm_code.tpl#L14)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`476`](../src/invision/profile_add_body.tpl#L476)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme) :__ lignes [`54`](../src/invision/profile_edit_signature.tpl#L54)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`47`](../src/invision/profile_send_pass.tpl#L47)
 
 ### Version Version mobile
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme) :__ lignes 
-* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`16`](../src/mobile/posting_body.tpl#L16)
-* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`11`](../src/mobile/posting_confirm_code.tpl#L11)
-* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`15`](../src/mobile/profile_send_pass.tpl#L15)
+* __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`9`](../src/mobile/posting_body.tpl#L9)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme) :__ lignes [`13`](../src/mobile/posting_confirm_code.tpl#L13)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme) :__ lignes [`8`](../src/mobile/profile_send_pass.tpl#L8)
 

@@ -22,14 +22,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`73`](../src/prosilver/index_box.tpl#L73)[`<->`](../src/prosilver/index_box.tpl#L73-L82)[`82`](../src/prosilver/index_box.tpl#L82)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`84`](../src/prosilver/index_box.tpl#L84)[`<->`](../src/prosilver/index_box.tpl#L84-L93)[`93`](../src/prosilver/index_box.tpl#L93)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`99`](../src/subsilver/index_body.tpl#L99)[`<->`](../src/subsilver/index_body.tpl#L99-L103)[`103`](../src/subsilver/index_body.tpl#L103)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`78`](../src/subsilver/index_body.tpl#L78)[`<->`](../src/subsilver/index_body.tpl#L78-L82)[`82`](../src/subsilver/index_body.tpl#L82)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`64`](../src/punbb/index_box.tpl#L64)[`<->`](../src/punbb/index_box.tpl#L64-L77)[`77`](../src/punbb/index_box.tpl#L77)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`74`](../src/punbb/index_box.tpl#L74)[`<->`](../src/punbb/index_box.tpl#L74-L87)[`87`](../src/punbb/index_box.tpl#L87)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`77`](../src/invision/index_box.tpl#L77)[`<->`](../src/invision/index_box.tpl#L77-L88)[`88`](../src/invision/index_box.tpl#L88)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`86`](../src/invision/index_box.tpl#L86)[`<->`](../src/invision/index_box.tpl#L86-L97)[`97`](../src/invision/index_box.tpl#L97)
 

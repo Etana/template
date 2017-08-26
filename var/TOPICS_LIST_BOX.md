@@ -13,13 +13,13 @@ Affiche le template [`topics_list_box`](../tpl/topics_list_box.md#readme) ou [`t
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`45`](../src/prosilver/viewforum_body.tpl#L45)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`46`](../src/prosilver/viewforum_body.tpl#L46)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`29`](../src/subsilver/viewforum_body.tpl#L29)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`30`](../src/subsilver/viewforum_body.tpl#L30)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`38`](../src/punbb/viewforum_body.tpl#L38)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`39`](../src/punbb/viewforum_body.tpl#L39)
 
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`21`](../src/invision/viewforum_body.tpl#L21)

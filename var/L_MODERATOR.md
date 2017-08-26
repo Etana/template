@@ -15,13 +15,13 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`72`](../src/prosilver/viewforum_body.tpl#L72)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`73`](../src/prosilver/viewforum_body.tpl#L73)
 
 ### Version phpBB2
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`40`](../src/subsilver/viewforum_body.tpl#L40)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`41`](../src/subsilver/viewforum_body.tpl#L41)
 
 ### Version PunBB
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`55`](../src/punbb/viewforum_body.tpl#L55)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`56`](../src/punbb/viewforum_body.tpl#L56)
 
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`43`](../src/invision/viewforum_body.tpl#L43)

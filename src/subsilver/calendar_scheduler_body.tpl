@@ -53,6 +53,8 @@
 		<div align="right"><span class="gensmall"><b>{PAGINATION}</b></span></div>
 		{ESPACE}
 		{BIRTHDAY_LIST_SCHEDULER}
+        {ESPACE}
+        {EVENT_LIST_SCHEDULER}
 	</td>
 </tr>
 </table>

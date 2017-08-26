@@ -1,11 +1,11 @@
-# Template message_body (x 1)
+# Template message_body
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
 * Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
-`Index` > ` Panneau d'admnistration` > `Templates | Général` > `message_body`
+`Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `message_body`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/message_body)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/message_body)
@@ -18,8 +18,6 @@
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme)
 	* [`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme)
-	* [`<!-- BEGIN spacer -->`](../var/spacer.md#readme) ([x](https://fa-tvars.appspot.com/var/spacer))
-	* [`<!-- END spacer -->`](../var/spacer.md#readme) ([x](https://fa-tvars.appspot.com/var/spacer))
 
 ## Template par défaut phpBB3
 
@@ -81,7 +79,5 @@
 
 ### Positions des variables
 
-* __[`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme) :__ ligne [`4`](../src/mobile/message_body.tpl#L4)
-* __[`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme) :__ ligne [`3`](../src/mobile/message_body.tpl#L3)
-* __[`<!-- BEGIN spacer -->`](../var/spacer.md#readme) :__ ligne [`1`](../src/mobile/message_body.tpl#L1)
-* __[`<!-- END spacer -->`](../var/spacer.md#readme) :__ ligne [`1`](../src/mobile/message_body.tpl#L1)
+* __[`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme) :__ ligne [`3`](../src/mobile/message_body.tpl#L3)
+* __[`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme) :__ ligne [`2`](../src/mobile/message_body.tpl#L2)

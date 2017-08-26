@@ -6,6 +6,7 @@
 {BOARD_INDEX}
 
 <div class="pagination">
+	<!-- BEGIN show_plus_menu -->
 	<br />
 	<a href="{U_MARK_READ}">{L_MARK_TOPICS_READ}</a>&nbsp;&bull;&nbsp;
 	<script type="text/javascript">//<![CDATA[
@@ -13,10 +14,10 @@
 		var url_egosearch = '{U_EGOSEARCH_JS_PLUS_MENU}';
 		var url_unanswered = '{U_UNANSWERED_JS_PLUS_MENU}';
 		var url_watchsearch = '{U_WATCHSEARCH_JS_PLUS_MENU}';
-		var url_tellfriend = '{U_TELLFRIEND_JS_PLUS_MENU}';
 		insert_plus_menu_new('f{FORUM_ID}&amp;f={FORUM_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES});
 	//]]>
 	</script>
+	<!-- END show_plus_menu -->
 	{PAGINATION}
 	<br /><br />
 </div>
@@ -36,8 +37,8 @@
 		</fieldset>
 		</form>
 	</div>
-	<p class="nomargin path" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-		<a class="nav" href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>
+	<p class="nomargin path">
+		<a class="nav" href="{U_INDEX}"><span>{L_INDEX}</span></a>
 		{NAV_CAT_DESC}
 	</p>
 </div>

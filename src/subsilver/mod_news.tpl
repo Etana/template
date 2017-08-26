@@ -56,7 +56,7 @@
 				<!-- END switch_attachments -->
 
 				{post_row.OPEN}
-				<a href="{post_row.U_READ_FULL}">{post_row.L_READ_FULL}</a>
+				<a href="{post_row.U_READ_FULL}" rel="nofollow">{post_row.L_READ_FULL}</a>
 				{post_row.CLOSE}
 			</span>
 		</td>

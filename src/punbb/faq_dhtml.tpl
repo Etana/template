@@ -13,8 +13,8 @@
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<p class="crumbs"><a href="{U_VIEW_FORUM}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a> <strong>&raquo; {L_FAQ_TITLE}</strong></p>
+<div class="pun-crumbs">
+	<p class="crumbs"><a href="{U_VIEW_FORUM}"><span>{L_INDEX}</span></a> <strong>&raquo; {L_FAQ_TITLE}</strong></p>
 </div>
 
 <script src="{U_CFAQ_JSLIB}" type="text/javascript"></script>

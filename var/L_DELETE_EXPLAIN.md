@@ -19,7 +19,7 @@
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`82`](../src/subsilver/profile_add_body.tpl#L82)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`394`](../src/punbb/profile_add_body.tpl#L394)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`404`](../src/punbb/profile_add_body.tpl#L404)
 
 ### Version Invision
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`138`](../src/invision/profile_add_body.tpl#L138)

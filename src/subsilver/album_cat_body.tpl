@@ -204,8 +204,8 @@
 <td class="catBottom" colspan="2" align="left" height="28">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td class="nav" valign="middle" width="100%"><span class="nav" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-<a href="{U_FORUM_INDEX}" class="nav" itemprop="url"><span itemprop="title">{L_INDEX}</span></a> {NAV_SEP} <a class="nav" href="{U_ALBUM}" itemprop="url"><span itemprop="title">{L_ALBUM}</span></a>
+<td class="nav" valign="middle" width="100%"><span class="nav">
+<a href="{U_FORUM_INDEX}" class="nav"><span>{L_INDEX}</span></a> {NAV_SEP} <a class="nav" href="{U_ALBUM}"><span>{L_ALBUM}</span></a>
 {NAV_CAT_DESC}
 </span></td>
 <td align="right" valign="middle"><span class="gensmall"><a href="javascript:ShowHideLayer('info_open','info_close');"><img src="{TABS_LESS_IMG}" alt="-" align="middle" border="0"></a></span></td>

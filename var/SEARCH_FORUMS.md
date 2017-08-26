@@ -27,5 +27,5 @@ Chaîne de texte.
 * __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`21`](../src/invision/overall_header.tpl#L21)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`14`](../src/mobile/overall_header.tpl#L14)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`17`](../src/mobile/overall_header.tpl#L17)
 

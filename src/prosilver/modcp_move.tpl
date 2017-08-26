@@ -3,7 +3,7 @@
 
 <form action="{S_MODCP_ACTION}" method="post">
 <div class="topic-actions">
-	<p itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}</p>
+	<p><a href="{U_INDEX}"><span>{L_INDEX}</span></a>{NAV_CAT_DESC}</p>
 </div>
 
 <div class="panel">

@@ -5,14 +5,14 @@
 </table>
 <table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="0">
 	<tr>
-		<th class="thHead" valign="middle" height="25">{SITENAME} - {REGISTRATION}</th>
+		<th class="thHead" valign="middle" height="25"><h1>{SITENAME} - {REGISTRATION}</h1></th>
 	</tr>
 	<!-- BEGIN switch_fb_explain -->
 	<tr>
 		<td class="row1" align="center">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" id="fb_explain">
 				<tr>
-					<td align="center" width="10%"><img src="http://illiweb.com/fa/admin/icones/big_ico/warning.png" alt="" /></td>
+					<td align="center" width="10%"><img src="https://illiweb.com/fa/admin/icones/big_ico/warning.png" alt="" /></td>
 					<td class="genmed align_gauche" width="90%">{switch_fb_explain.FB_EXPLAIN}</td>
 				</tr>
 			</table>

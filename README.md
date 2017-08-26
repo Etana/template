@@ -86,8 +86,8 @@
 * __[`calendar_body`](tpl/calendar_body.md#readme) :__ Page principale
 * __[`calendar_box`](tpl/calendar_box.md#readme) :__ Calendrier
 * __[`calendar_overview_profil`](tpl/calendar_overview_profil.md#readme) :__ Détail d'un anniversaire
-* __[`calendar_overview_topic`](tpl/calendar_overview_topic.md#readme) :__ Détail d'un évenement
-* __[`calendar_scheduler_body`](tpl/calendar_scheduler_body.md#readme) :__ Détail d'un événement
+* __[`calendar_overview_topic`](tpl/calendar_overview_topic.md#readme) :__ Détail d'un sujet lié à une date du calendrier
+* __[`calendar_scheduler_body`](tpl/calendar_scheduler_body.md#readme) :__ Détail d'une journée du calendrier
 
 ### Groupes
 

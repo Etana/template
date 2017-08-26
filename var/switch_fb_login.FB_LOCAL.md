@@ -15,14 +15,17 @@ Affiche le bouton de connexion via Facebook si Facebook Connect est activé dans
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`26`](../src/prosilver/overall_header.tpl#L26)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`32`](../src/prosilver/overall_header.tpl#L32)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`26`](../src/subsilver/overall_header.tpl#L26)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`32`](../src/subsilver/overall_header.tpl#L32)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`26`](../src/punbb/overall_header.tpl#L26)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`32`](../src/punbb/overall_header.tpl#L32)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`26`](../src/invision/overall_header.tpl#L26)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`32`](../src/invision/overall_header.tpl#L32)
+
+### Version Version mobile
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`21`](../src/mobile/overall_header.tpl#L21)
 

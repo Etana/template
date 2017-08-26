@@ -16,7 +16,7 @@ Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets 
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`10`](../src/prosilver/portal_body.tpl#L10)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`324`](../src/subsilver/overall_header.tpl#L324)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`319`](../src/subsilver/overall_header.tpl#L319)
 * __[`portal_body`](../tpl/portal_body.md#readme) :__ lignes [`14`](../src/subsilver/portal_body.tpl#L14)
 
 ### Version PunBB

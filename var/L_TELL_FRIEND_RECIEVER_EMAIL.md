@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`16`](../src/prosilver/profile_send_email.tpl#L16)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`28`](../src/prosilver/profile_send_email.tpl#L28)
 
 ### Version phpBB2
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`17`](../src/subsilver/profile_send_email.tpl#L17)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`29`](../src/subsilver/profile_send_email.tpl#L29)
 
 ### Version PunBB
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`38`](../src/punbb/profile_send_email.tpl#L38)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`50`](../src/punbb/profile_send_email.tpl#L50)
 
 ### Version Invision
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`23`](../src/invision/profile_send_email.tpl#L23)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`35`](../src/invision/profile_send_email.tpl#L35)
 

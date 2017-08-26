@@ -22,13 +22,13 @@ Action du formulaire pour sauter vers un forum.
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`1`](../src/prosilver/jumpbox.tpl#L1)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`65`](../src/prosilver/modcp_body.tpl#L65)
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`399`](../src/prosilver/posting_body.tpl#L399)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`61`](../src/prosilver/viewforum_body.tpl#L61)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`344`](../src/prosilver/viewtopic_body.tpl#L344)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`62`](../src/prosilver/viewforum_body.tpl#L62)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`334`](../src/prosilver/viewtopic_body.tpl#L334)
 
 ### Version phpBB2
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`1`](../src/subsilver/jumpbox.tpl#L1)
-* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`80`](../src/subsilver/viewforum_body.tpl#L80)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`435`](../src/subsilver/viewtopic_body.tpl#L435)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme) :__ lignes [`81`](../src/subsilver/viewforum_body.tpl#L81)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`426`](../src/subsilver/viewtopic_body.tpl#L426)
 
 ### Version PunBB
 * __[`jumpbox`](../tpl/jumpbox.md#readme) :__ lignes [`1`](../src/punbb/jumpbox.tpl#L1)

@@ -12,8 +12,8 @@
 	<p>{L_NOT_CONNECTED} {L_LOGIN_REGISTER}</p>
 </div>
 <!-- END switch_user_logged_out -->
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<p class="crumbs"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a><strong>{NAV_CAT_DESC}</strong></p>
+<div class="pun-crumbs">
+	<p class="crumbs"><a href="{U_INDEX}"><span>{L_INDEX}</span></a><strong>{NAV_CAT_DESC}</strong></p>
 </div>
 
 <div class="main paged">
@@ -55,6 +55,7 @@
 		<div id="calendar-result">
 			{TOPIC_LIST_SCHEDULER}
 			{BIRTHDAY_LIST_SCHEDULER}
+            {EVENT_LIST_SCHEDULER}
 		</div>
 
 		<p>{S_HIDDEN_FIELDS}</p>

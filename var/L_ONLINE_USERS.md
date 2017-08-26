@@ -13,8 +13,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`59`](../src/prosilver/index_body.tpl#L59)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`63`](../src/prosilver/index_body.tpl#L63)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`79`](../src/punbb/index_body.tpl#L79)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`86`](../src/punbb/index_body.tpl#L86)
 

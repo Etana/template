@@ -1,5 +1,5 @@
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<p class="crumbs"><a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a><strong>{NAV_CAT_DESC}</strong></p>
+<div class="pun-crumbs">
+	<p class="crumbs"><a href="{U_INDEX}"><span>{L_INDEX}</span></a><strong>{NAV_CAT_DESC}</strong></p>
 </div>
 <div class="main">
 <!-- BEGIN catrow -->
@@ -39,6 +39,16 @@
 						<td class="tc2">{catrow.forumrow.TOPICS}</td>
 						<td class="tc3">{catrow.forumrow.POSTS}</td>
 						<td class="tcr">
+                            <!-- BEGIN ads -->
+							<span class="AD_LastPA">
+                                <span class="lastpost-avatar"><img src="{catrow.forumrow.ads.IMG}" alt="{catrow.forumrow.ads.TITLE}" /></span>
+                                <span class="AD_LastInfos">
+                                    <b><a href="{catrow.forumrow.ads.LINK}">{catrow.forumrow.ads.TITLE}</a></b><br />
+                                    {catrow.forumrow.ads.DATE}<br />
+                                    {catrow.forumrow.ads.LOCATION}
+                                </span>
+							</span>
+                            <!-- END ads -->
                             <!-- BEGIN avatar -->
                             <span class="lastpost-avatar">{catrow.forumrow.avatar.LAST_POST_AVATAR}</span>
                             <!-- END avatar -->

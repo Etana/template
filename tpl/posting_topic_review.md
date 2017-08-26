@@ -5,7 +5,7 @@
 * Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
-`Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `posting_topic_review`
+`Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `posting_topic_review`
 
 ## Description[*](https://fa-tvars.appspot.com/tpl/posting_topic_review)
 [*Ajouter une description*](https://fa-tvars.appspot.com/tpl/posting_topic_review)
@@ -149,17 +149,17 @@
 
 ### Positions des variables
 
-* __[`{L_TOPIC_BY}`](../var/L_TOPIC_BY.md#readme) :__ ligne [`6`](../src/mobile/posting_topic_review.tpl#L6)
-* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme) :__ ligne [`3`](../src/mobile/posting_topic_review.tpl#L3)
-* __[`<!-- END postrow -->`](../var/postrow.md#readme) :__ ligne [`15`](../src/mobile/posting_topic_review.tpl#L15)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN displayed -->`](../var/postrow.displayed.md#readme) :__ ligne [`4`](../src/mobile/posting_topic_review.tpl#L4)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END displayed -->`](../var/postrow.displayed.md#readme) :__ ligne [`11`](../src/mobile/posting_topic_review.tpl#L11)
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MESSAGE}`](../var/postrow.displayed.MESSAGE.md#readme) :__ ligne [`8`](../src/mobile/posting_topic_review.tpl#L8)
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_NAME}`](../var/postrow.displayed.POSTER_NAME.md#readme) :__ ligne [`6`](../src/mobile/posting_topic_review.tpl#L6)
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE}`](../var/postrow.displayed.POST_DATE.md#readme) :__ ligne [`6`](../src/mobile/posting_topic_review.tpl#L6)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN hidden -->`](../var/postrow.hidden.md#readme) :__ ligne [`12`](../src/mobile/posting_topic_review.tpl#L12)
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END hidden -->`](../var/postrow.hidden.md#readme) :__ ligne [`14`](../src/mobile/posting_topic_review.tpl#L14)
+* __[`{L_TOPIC_BY}`](../var/L_TOPIC_BY.md#readme) :__ ligne [`9`](../src/mobile/posting_topic_review.tpl#L9)
+* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme) :__ ligne [`4`](../src/mobile/posting_topic_review.tpl#L4)
+* __[`<!-- END postrow -->`](../var/postrow.md#readme) :__ ligne [`19`](../src/mobile/posting_topic_review.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN displayed -->`](../var/postrow.displayed.md#readme) :__ ligne [`5`](../src/mobile/posting_topic_review.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END displayed -->`](../var/postrow.displayed.md#readme) :__ ligne [`15`](../src/mobile/posting_topic_review.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MESSAGE}`](../var/postrow.displayed.MESSAGE.md#readme) :__ ligne [`12`](../src/mobile/posting_topic_review.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_NAME}`](../var/postrow.displayed.POSTER_NAME.md#readme) :__ ligne [`9`](../src/mobile/posting_topic_review.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE}`](../var/postrow.displayed.POST_DATE.md#readme) :__ ligne [`8`](../src/mobile/posting_topic_review.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN hidden -->`](../var/postrow.hidden.md#readme) :__ ligne [`16`](../src/mobile/posting_topic_review.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END hidden -->`](../var/postrow.hidden.md#readme) :__ ligne [`18`](../src/mobile/posting_topic_review.tpl#L18)
 * __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`1`](../src/mobile/posting_topic_review.tpl#L1)
 * __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`2`](../src/mobile/posting_topic_review.tpl#L2)
-* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`17`](../src/mobile/posting_topic_review.tpl#L17)
-* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`18`](../src/mobile/posting_topic_review.tpl#L18)
+* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`21`](../src/mobile/posting_topic_review.tpl#L21)
+* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) :__ ligne [`22`](../src/mobile/posting_topic_review.tpl#L22)

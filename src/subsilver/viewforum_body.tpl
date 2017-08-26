@@ -7,10 +7,11 @@
 			<!-- END switch_user_authpost -->
 		</td>
 		<td class="nav" valign="middle" width="100%">
-            <div class="nav" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a class="nav" href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}
+            <div class="nav">
+                <a class="nav" href="{U_INDEX}"><span>{L_INDEX}</span></a>{NAV_CAT_DESC}
             </div>
         </td>
+        <!-- BEGIN show_plus_menu -->
 		<td class="gensmall" align="right" valign="bottom" nowrap="nowrap">
 			<span class="nav">
 				<script type="text/javascript">//<![CDATA[
@@ -18,12 +19,12 @@
 					var url_egosearch = '{U_EGOSEARCH_JS_PLUS_MENU}';
 					var url_unanswered = '{U_UNANSWERED_JS_PLUS_MENU}';
 					var url_watchsearch = '{U_WATCHSEARCH_JS_PLUS_MENU}';
-					var url_tellfriend = '{U_TELLFRIEND_JS_PLUS_MENU}';
 					insert_plus_menu('f{FORUM_ID}&amp;f={FORUM_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES});
 				//]]>
 				</script>
 			</span>
 		</td>
+        <!-- END show_plus_menu -->
 	</tr>
 </table>
 {TOPICS_LIST_BOX}

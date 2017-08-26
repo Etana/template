@@ -47,6 +47,17 @@
 						<dd class="topics">{catrow.forumrow.TOPICS} <dfn>{L_TOPICS}</dfn></dd>
 						<dd class="posts">{catrow.forumrow.POSTS} <dfn>{L_POSTS}</dfn></dd>
 						<dd class="lastpost">
+							<!-- BEGIN ads -->
+							<span class="AD_LastPA">
+                                <span class="lastpost-avatar"><img src="{catrow.forumrow.ads.IMG}" alt="{catrow.forumrow.ads.TITLE}" /></span>
+                                <span class="AD_LastInfos">
+                                    <b><a href="{catrow.forumrow.ads.LINK}">{catrow.forumrow.ads.TITLE}</a></b><br />
+                                    {catrow.forumrow.ads.DATE}<br />
+                                    {catrow.forumrow.ads.LOCATION}
+                                </span>
+							</span>
+                            <!-- END ads -->
+							
                             <!-- BEGIN avatar -->
                             <span class="lastpost-avatar">{catrow.forumrow.avatar.LAST_POST_AVATAR}</span>
                             <!-- END avatar -->

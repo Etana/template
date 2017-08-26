@@ -18,5 +18,5 @@
 
 ### Version phpBB2
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`16`](../src/subsilver/posting_topic_review.tpl#L16), [`17`](../src/subsilver/posting_topic_review.tpl#L17)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`139`](../src/subsilver/viewtopic_body.tpl#L139), [`151`](../src/subsilver/viewtopic_body.tpl#L151), [`250`](../src/subsilver/viewtopic_body.tpl#L250), [`253`](../src/subsilver/viewtopic_body.tpl#L253)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`130`](../src/subsilver/viewtopic_body.tpl#L130), [`142`](../src/subsilver/viewtopic_body.tpl#L142), [`241`](../src/subsilver/viewtopic_body.tpl#L241), [`244`](../src/subsilver/viewtopic_body.tpl#L244)
 

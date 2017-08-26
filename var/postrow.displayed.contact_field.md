@@ -23,11 +23,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`240`](../src/prosilver/viewtopic_body.tpl#L240)[`<->`](../src/prosilver/viewtopic_body.tpl#L240-L240)[`240`](../src/prosilver/viewtopic_body.tpl#L240)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`230`](../src/prosilver/viewtopic_body.tpl#L230)[`<->`](../src/prosilver/viewtopic_body.tpl#L230-L230)[`230`](../src/prosilver/viewtopic_body.tpl#L230)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`257`](../src/subsilver/viewtopic_body.tpl#L257)[`<->`](../src/subsilver/viewtopic_body.tpl#L257-L257)[`257`](../src/subsilver/viewtopic_body.tpl#L257)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`248`](../src/subsilver/viewtopic_body.tpl#L248)[`<->`](../src/subsilver/viewtopic_body.tpl#L248-L248)[`248`](../src/subsilver/viewtopic_body.tpl#L248)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`250`](../src/punbb/viewtopic_body.tpl#L250)[`<->`](../src/punbb/viewtopic_body.tpl#L250-L250)[`250`](../src/punbb/viewtopic_body.tpl#L250)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`241`](../src/punbb/viewtopic_body.tpl#L241)[`<->`](../src/punbb/viewtopic_body.tpl#L241-L241)[`241`](../src/punbb/viewtopic_body.tpl#L241)
 

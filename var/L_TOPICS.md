@@ -42,6 +42,3 @@ Chaîne de texte.
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`55`](../src/invision/search_body.tpl#L55)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`23`](../src/invision/search_results_topics.tpl#L23)
 
-### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`14`](../src/mobile/index_box.tpl#L14)
-

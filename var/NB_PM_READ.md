@@ -13,14 +13,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`73`](../src/prosilver/mod_login.tpl#L73), [`90`](../src/prosilver/mod_login.tpl#L90)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`86`](../src/prosilver/mod_login.tpl#L86), [`103`](../src/prosilver/mod_login.tpl#L103)
 
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`109`](../src/subsilver/mod_login.tpl#L109)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`116`](../src/subsilver/mod_login.tpl#L116)
 
 ### Version PunBB
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`73`](../src/punbb/mod_login.tpl#L73)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`80`](../src/punbb/mod_login.tpl#L80)
 
 ### Version Invision
-* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`82`](../src/invision/mod_login.tpl#L82)
+* __[`mod_login`](../tpl/mod_login.md#readme) :__ lignes [`81`](../src/invision/mod_login.tpl#L81)
 

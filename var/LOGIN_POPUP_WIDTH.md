@@ -13,14 +13,14 @@ Largeur du popup de connexion définie dans `PA > Général > Forum | Configurat
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`145`](../src/prosilver/overall_header.tpl#L145)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`151`](../src/prosilver/overall_header.tpl#L151)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`151`](../src/subsilver/overall_header.tpl#L151), [`225`](../src/subsilver/overall_header.tpl#L225)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`146`](../src/subsilver/overall_header.tpl#L146), [`220`](../src/subsilver/overall_header.tpl#L220)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`145`](../src/punbb/overall_header.tpl#L145)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`151`](../src/punbb/overall_header.tpl#L151)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`60`](../src/invision/overall_header.tpl#L60)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`66`](../src/invision/overall_header.tpl#L66)
 

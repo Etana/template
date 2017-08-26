@@ -13,24 +13,23 @@ contenu sur lequel on boucle
 Boucle d'affichage si vous avez activé la connexion rapide en haut de la page d'accueil dans `PA > Affichage > Page d'accueil | Généralités > Affichage de la connexion rapide`.
 
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect -->`](../var/switch_user_login_form_header.switch_fb_connect.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON}`](../var/switch_user_login_form_header.switch_fb_connect.L_FB_LOGIN_BUTTON.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS}`](../var/switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_fb_connect.L_FB_PERMISSIONS))__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_header.switch_fb_connect.L_OR}`](../var/switch_user_login_form_header.switch_fb_connect.L_OR.md#readme)__
-* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect_no -->`](../var/switch_user_login_form_header.switch_fb_connect_no.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_social_login -->`](../var/switch_user_login_form_header.switch_social_login.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_social_login))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN fb_connect -->`](../var/switch_user_login_form_header.switch_social_login.fb_connect.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_social_login.fb_connect))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_header.switch_social_login.L_OR}`](../var/switch_user_login_form_header.switch_social_login.L_OR.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_user_login_form_header.switch_social_login.L_OR))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_user_login_form_header.V_ALIGN}`](../var/switch_user_login_form_header.V_ALIGN.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_user_login_form_header.V_ALIGN))__
 
 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`6`](../src/prosilver/index_body.tpl#L6)[`<->`](../src/prosilver/index_body.tpl#L6-L23)[`23`](../src/prosilver/index_body.tpl#L23)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`6`](../src/prosilver/index_body.tpl#L6)[`<->`](../src/prosilver/index_body.tpl#L6-L27)[`27`](../src/prosilver/index_body.tpl#L27)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`19`](../src/subsilver/index_body.tpl#L19)[`<->`](../src/subsilver/index_body.tpl#L19-L81)[`81`](../src/subsilver/index_body.tpl#L81)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`19`](../src/subsilver/index_body.tpl#L19)[`<->`](../src/subsilver/index_body.tpl#L19-L59)[`59`](../src/subsilver/index_body.tpl#L59)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`35`](../src/punbb/index_body.tpl#L35)[`<->`](../src/punbb/index_body.tpl#L35-L50)[`50`](../src/punbb/index_body.tpl#L50)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`35`](../src/punbb/index_body.tpl#L35)[`<->`](../src/punbb/index_body.tpl#L35-L57)[`57`](../src/punbb/index_body.tpl#L57)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`20`](../src/invision/index_body.tpl#L20)[`<->`](../src/invision/index_body.tpl#L20-L36)[`36`](../src/invision/index_body.tpl#L36)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`20`](../src/invision/index_body.tpl#L20)[`<->`](../src/invision/index_body.tpl#L20-L42)[`42`](../src/invision/index_body.tpl#L42)
 

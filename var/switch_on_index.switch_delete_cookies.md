@@ -22,14 +22,14 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`78`](../src/prosilver/index_box.tpl#L78)[`<->`](../src/prosilver/index_box.tpl#L78-L80)[`80`](../src/prosilver/index_box.tpl#L80)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`89`](../src/prosilver/index_box.tpl#L89)[`<->`](../src/prosilver/index_box.tpl#L89-L91)[`91`](../src/prosilver/index_box.tpl#L91)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`100`](../src/subsilver/index_body.tpl#L100)[`<->`](../src/subsilver/index_body.tpl#L100-L102)[`102`](../src/subsilver/index_body.tpl#L102)
+* __[`index_body`](../tpl/index_body.md#readme) :__ lignes [`79`](../src/subsilver/index_body.tpl#L79)[`<->`](../src/subsilver/index_body.tpl#L79-L81)[`81`](../src/subsilver/index_body.tpl#L81)
 
 ### Version PunBB
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`71`](../src/punbb/index_box.tpl#L71)[`<->`](../src/punbb/index_box.tpl#L71-L75)[`75`](../src/punbb/index_box.tpl#L75)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`81`](../src/punbb/index_box.tpl#L81)[`<->`](../src/punbb/index_box.tpl#L81-L85)[`85`](../src/punbb/index_box.tpl#L85)
 
 ### Version Invision
-* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`80`](../src/invision/index_box.tpl#L80)[`<->`](../src/invision/index_box.tpl#L80-L82)[`82`](../src/invision/index_box.tpl#L82)
+* __[`index_box`](../tpl/index_box.md#readme) :__ lignes [`89`](../src/invision/index_box.tpl#L89)[`<->`](../src/invision/index_box.tpl#L89-L91)[`91`](../src/invision/index_box.tpl#L91)
 

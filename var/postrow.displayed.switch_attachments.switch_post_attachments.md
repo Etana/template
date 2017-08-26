@@ -37,17 +37,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`187`](../src/prosilver/viewtopic_body.tpl#L187)[`<->`](../src/prosilver/viewtopic_body.tpl#L187-L212)[`212`](../src/prosilver/viewtopic_body.tpl#L212)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`177`](../src/prosilver/viewtopic_body.tpl#L177)[`<->`](../src/prosilver/viewtopic_body.tpl#L177-L202)[`202`](../src/prosilver/viewtopic_body.tpl#L202)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`202`](../src/subsilver/viewtopic_body.tpl#L202)[`<->`](../src/subsilver/viewtopic_body.tpl#L202-L230)[`230`](../src/subsilver/viewtopic_body.tpl#L230)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`193`](../src/subsilver/viewtopic_body.tpl#L193)[`<->`](../src/subsilver/viewtopic_body.tpl#L193-L221)[`221`](../src/subsilver/viewtopic_body.tpl#L221)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`201`](../src/punbb/viewtopic_body.tpl#L201)[`<->`](../src/punbb/viewtopic_body.tpl#L201-L229)[`229`](../src/punbb/viewtopic_body.tpl#L229)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`192`](../src/punbb/viewtopic_body.tpl#L192)[`<->`](../src/punbb/viewtopic_body.tpl#L192-L220)[`220`](../src/punbb/viewtopic_body.tpl#L220)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`224`](../src/invision/viewtopic_body.tpl#L224)[`<->`](../src/invision/viewtopic_body.tpl#L224-L252)[`252`](../src/invision/viewtopic_body.tpl#L252)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`215`](../src/invision/viewtopic_body.tpl#L215)[`<->`](../src/invision/viewtopic_body.tpl#L215-L243)[`243`](../src/invision/viewtopic_body.tpl#L243)
 
 ### Version Version mobile
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`56`](../src/mobile/viewtopic_body.tpl#L56)[`<->`](../src/mobile/viewtopic_body.tpl#L56-L74)[`74`](../src/mobile/viewtopic_body.tpl#L74)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`61`](../src/mobile/viewtopic_body.tpl#L61)[`<->`](../src/mobile/viewtopic_body.tpl#L61-L79)[`79`](../src/mobile/viewtopic_body.tpl#L79)
 

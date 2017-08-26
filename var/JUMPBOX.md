@@ -13,7 +13,7 @@ Affiche le template [`jumpbox`](../tpl/jumpbox.md#readme) ou [`jumpbox`](../tpl/
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`52`](../src/prosilver/calendar_scheduler_body.tpl#L52)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`54`](../src/prosilver/calendar_scheduler_body.tpl#L54)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`98`](../src/prosilver/privmsgs_body.tpl#L98)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`76`](../src/prosilver/privmsgs_read_body.tpl#L76)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`86`](../src/prosilver/search_body.tpl#L86)
@@ -22,7 +22,7 @@ Affiche le template [`jumpbox`](../tpl/jumpbox.md#readme) ou [`jumpbox`](../tpl/
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`57`](../src/prosilver/viewonline_body.tpl#L57)
 
 ### Version phpBB2
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`69`](../src/subsilver/calendar_scheduler_body.tpl#L69)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`71`](../src/subsilver/calendar_scheduler_body.tpl#L71)
 * __[`faq_body`](../tpl/faq_body.md#readme) :__ lignes [`55`](../src/subsilver/faq_body.tpl#L55)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme) :__ lignes [`59`](../src/subsilver/faq_dhtml.tpl#L59)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme) :__ lignes [`121`](../src/subsilver/groupcp_info_body.tpl#L121)
@@ -31,12 +31,12 @@ Affiche le template [`jumpbox`](../tpl/jumpbox.md#readme) ou [`jumpbox`](../tpl/
 * __[`posting_body`](../tpl/posting_body.md#readme) :__ lignes [`604`](../src/subsilver/posting_body.tpl#L604)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme) :__ lignes [`123`](../src/subsilver/privmsgs_body.tpl#L123)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme) :__ lignes [`110`](../src/subsilver/privmsgs_read_body.tpl#L110)
-* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`59`](../src/subsilver/profile_send_email.tpl#L59)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme) :__ lignes [`71`](../src/subsilver/profile_send_email.tpl#L71)
 * __[`search_body`](../tpl/search_body.md#readme) :__ lignes [`125`](../src/subsilver/search_body.tpl#L125)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme) :__ lignes [`66`](../src/subsilver/search_results_posts.tpl#L66)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`82`](../src/subsilver/search_results_topics.tpl#L82)
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme) :__ lignes [`61`](../src/subsilver/viewonline_body.tpl#L61)
 
 ### Version Invision
-* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`45`](../src/invision/calendar_scheduler_body.tpl#L45)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme) :__ lignes [`46`](../src/invision/calendar_scheduler_body.tpl#L46)
 

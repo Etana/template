@@ -106,5 +106,5 @@ contenu sur lequel on boucle
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/invision/topics_list_box.tpl#L1)[`<->`](../src/invision/topics_list_box.tpl#L1-L175)[`175`](../src/invision/topics_list_box.tpl#L175)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/mobile/topics_list_box.tpl#L1)[`<->`](../src/mobile/topics_list_box.tpl#L1-L88)[`88`](../src/mobile/topics_list_box.tpl#L88)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`1`](../src/mobile/topics_list_box.tpl#L1)[`<->`](../src/mobile/topics_list_box.tpl#L1-L83)[`83`](../src/mobile/topics_list_box.tpl#L83)
 

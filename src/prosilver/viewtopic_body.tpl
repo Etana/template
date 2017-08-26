@@ -2,19 +2,10 @@
 //<![CDATA[
 var multiquote_img_off = '{JS_MULTIQUOTE_IMG_OFF}', multiquote_img_on = '{JS_MULTIQUOTE_IMG_ON}', _atr = '{JS_DIR}addthis/', _ati = '{PATH_IMG_FA}addthis/'{ADDTHIS_LANG}, addthis_localize = { share_caption: "{L_SHARE_CAPTION}", email: "{L_EMAIL}", email_caption: "{L_EMAIL_CAPTION}", favorites: "{L_SHARE_BOOKMARKS}", print: "{L_PRINT}", more: "{L_MORE}" };
 
-
 $(function(){
-
     if(typeof(_atc) == "undefined") {
         _atc = {  };
     }
-
-    _atc.cwait = 0;
-    $('.addthis_button').mouseup(function(){
-        if ($('#at15s').css('display') == 'block') {
-            addthis_close();
-        }
-    });
 });
 
 var hiddenMsgLabel = { visible:'{JS_HIDE_HIDDEN_MESSAGE}', hidden:'{JS_SHOW_HIDDEN_MESSAGE}' };
@@ -64,9 +55,9 @@ showHiddenMessage = function(id)
 	</div>
 
 	<div class="pathname-box">
-		<p itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-            <a class="nav" href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>
-            <!--{NAV_SEP}<a class="nav" href="{U_ALBUM}" itemprop="url"><span itemprop="title">{L_ALBUM}</span></a>-->
+		<p>
+            <a class="nav" href="{U_INDEX}"><span>{L_INDEX}</span></a>
+            <!--{NAV_SEP}<a class="nav" href="{U_ALBUM}"><span>{L_ALBUM}</span></a>-->
             {NAV_CAT_DESC}
         </p>
 	</div>
@@ -83,7 +74,7 @@ showHiddenMessage = function(id)
 		  var js, fjs = d.getElementsByTagName(s)[0];
 		  if (d.getElementById(id)) return;
 		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/{LANGUAGE}/all.js#xfbml=1";
+		  js.src = "https://connect.facebook.net/{LANGUAGE}/all.js#xfbml=1";
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>
 		<span class="fb-like" data-href="{FORUM_URL}{TOPIC_URL}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
@@ -93,7 +84,7 @@ showHiddenMessage = function(id)
 	<div class="pagination">
 		{PAGE_NUMBER}
 		&nbsp;&bull;&nbsp;
-		<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=forumotion">{L_SHARE}</a>
+        <a class="addthis_button" href="#">{L_SHARE}</a>
 		<!-- BEGIN switch_plus_menu -->
 		&nbsp;&bull;&nbsp;
 		<script type="text/javascript">//<![CDATA[
@@ -102,7 +93,6 @@ showHiddenMessage = function(id)
 			var url_egosearch = '{U_EGOSEARCH_JS_PLUS_MENU}';
 			var url_unanswered = '{U_UNANSWERED_JS_PLUS_MENU}';
 			var url_watchsearch = '{U_WATCHSEARCH_JS_PLUS_MENU}';
-			var url_tellfriend = '{U_TELLFRIEND_JS_PLUS_MENU}';
 			insert_plus_menu_new('f{FORUM_ID}&amp;t={TOPIC_ID}','{JS_SESSION_ID}', {JS_AUTH_FAVOURITES});
 		//]]>
 		</script>
@@ -378,4 +368,4 @@ $(resize_images({ 'selector' : '.postbody .content', 'max_width' : {switch_image
 </script>
 <!-- END switch_image_resize -->
 
-<script src="{JS_DIR}addthis/addthis_widget.js" type="text/javascript"></script>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=forumotion" type="text/javascript"></script>

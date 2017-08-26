@@ -36,5 +36,5 @@ Chaîne de texte.
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme) :__ lignes [`26`](../src/invision/search_results_topics.tpl#L26)
 
 ### Version Version mobile
-* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`69`](../src/mobile/topics_list_box.tpl#L69)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme) :__ lignes [`65`](../src/mobile/topics_list_box.tpl#L65)
 

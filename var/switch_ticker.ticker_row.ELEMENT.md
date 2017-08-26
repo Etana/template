@@ -17,14 +17,14 @@ Contenu de l'annonce défilante sur laquelle on boucle défini dans `PA > Géné
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`292`](../src/prosilver/overall_header.tpl#L292), [`311`](../src/prosilver/overall_header.tpl#L311)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`298`](../src/prosilver/overall_header.tpl#L298), [`317`](../src/prosilver/overall_header.tpl#L317)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`289`](../src/subsilver/overall_header.tpl#L289), [`308`](../src/subsilver/overall_header.tpl#L308)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`284`](../src/subsilver/overall_header.tpl#L284), [`303`](../src/subsilver/overall_header.tpl#L303)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`268`](../src/punbb/overall_header.tpl#L268), [`285`](../src/punbb/overall_header.tpl#L285)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`274`](../src/punbb/overall_header.tpl#L274), [`291`](../src/punbb/overall_header.tpl#L291)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`287`](../src/invision/overall_header.tpl#L287), [`304`](../src/invision/overall_header.tpl#L304)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`293`](../src/invision/overall_header.tpl#L293), [`310`](../src/invision/overall_header.tpl#L310)
 

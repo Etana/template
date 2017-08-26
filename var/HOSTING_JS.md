@@ -13,17 +13,17 @@ Contient tout le JavaScript de votre forum.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`187`](../src/prosilver/overall_header.tpl#L187)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`193`](../src/prosilver/overall_header.tpl#L193)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`186`](../src/subsilver/overall_header.tpl#L186)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`181`](../src/subsilver/overall_header.tpl#L181)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`180`](../src/punbb/overall_header.tpl#L180)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`186`](../src/punbb/overall_header.tpl#L186)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`183`](../src/invision/overall_header.tpl#L183)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`189`](../src/invision/overall_header.tpl#L189)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`37`](../src/mobile/overall_header.tpl#L37)
+* __[`overall_header`](../tpl/overall_header.md#readme) :__ lignes [`44`](../src/mobile/overall_header.tpl#L44)
 

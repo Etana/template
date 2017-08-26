@@ -29,7 +29,7 @@
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme) :__ lignes [`78`](../src/punbb/album_modcp_body.tpl#L78)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme) :__ lignes [`124`](../src/punbb/album_moderate_body.tpl#L124)
 * __[`modcp_body`](../tpl/modcp_body.md#readme) :__ lignes [`64`](../src/punbb/modcp_body.tpl#L64)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`393`](../src/punbb/profile_add_body.tpl#L393)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme) :__ lignes [`403`](../src/punbb/profile_add_body.tpl#L403)
 * __[`report_list_body`](../tpl/report_list_body.md#readme) :__ lignes [`79`](../src/punbb/report_list_body.tpl#L79)
 
 ### Version Invision

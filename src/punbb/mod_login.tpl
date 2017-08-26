@@ -19,16 +19,19 @@
 		<dl>
 			<dd style="text-align:center;"><input type="submit" name="login" tabindex="6" value="{L_LOGIN}" class="button1" /></dd>
 		</dl>
-                <!-- BEGIN switch_fb_connect_login -->
-                <dl>
-			<dd style="text-align:center;">	
-                            <div class="fb_login_widget">
-                                <div class="fb_or_widget">{switch_login.switch_fb_connect_login.L_OR}</div>
-                                <fb:login-button size="large" onlogin="window.location='/facebook_connect.forum'" scope="{switch_login.switch_fb_connect_login.L_FB_PERMISSIONS}" class="margTop4">{switch_login.switch_fb_connect_login.L_FB_LOGIN_BUTTON}</fb:login-button>
-                            </div>
-                        </dd>
-		</dl> 
-                <!-- END switch_fb_connect_login -->
+        <!-- BEGIN switch_social_login -->
+        <dl>
+            <dd class="center">
+                <div class="social_btn">
+                    <div class="fb_or">{switch_login.switch_social_login.L_OR}</div> <br />
+                    <!-- BEGIN fb_connect -->
+                    <div class="fb-login-button"></div>
+                    <!-- END fb_connect -->
+                    <br />
+                </div>
+            </dd>
+        </dl>
+        <!-- END switch_social_login -->
 	</fieldset>
 	</form>
 	</div>
@@ -39,22 +42,26 @@
 	<div class="main-content">
 	<form action="{S_LOGIN_ACTION}" method="post">
 
-	<p><label for="username"><strong>{L_USERNAME}:</strong></label></p>
-	<p style="height:2em;valign:top;"><input type="text" name="username" id="username" size="15" maxlength="40" value="{USERNAME}" class="inputbox autowidth" /></p>
-	<p><label for="password"><strong>{L_PASSWORD}:</strong></label></p>
-	<p style="height:2em;valign:top;"><input type="password" id="password" name="password" size="15" maxlength="25" class="inputbox autowidth" /></p>
-	<p><a href="{U_SEND_PASSWORD}" rel="nofollow">{L_SEND_PASSWORD}</a></p>
-        <br>
-	<p><input type="checkbox" name="autologin" id="autologin" tabindex="4" class="checkbox" {AUTOLOGIN_CHECKED} /><label for="autologin"> {L_AUTO_LOGIN}</label></p>
-        <br>
+        <p><label for="username"><strong>{L_USERNAME}:</strong></label></p>
+        <p style="height:2em;valign:top;"><input type="text" name="username" id="username" size="15" maxlength="40" value="{USERNAME}" class="inputbox autowidth" /></p>
+        <p><label for="password"><strong>{L_PASSWORD}:</strong></label></p>
+        <p style="height:2em;valign:top;"><input type="password" id="password" name="password" size="15" maxlength="25" class="inputbox autowidth" /></p>
+        <p><a href="{U_SEND_PASSWORD}" rel="nofollow">{L_SEND_PASSWORD}</a></p><br>
+        <p><input type="checkbox" name="autologin" id="autologin" tabindex="4" class="checkbox" {AUTOLOGIN_CHECKED} /><label for="autologin"> {L_AUTO_LOGIN}</label></p><br>
         <p align="center"><input type="submit" name="login" tabindex="6" value="{L_LOGIN}" class="button1" /></p>
-        <!-- BEGIN switch_fb_connect_login -->
-                            <div class="fb_login_widget">
-                                <div class="fb_or_widget">{switch_login_small.switch_fb_connect_login.L_OR}</div>
-                                <p align="center"><fb:login-button size="small" onlogin="window.location='/facebook_connect.forum'" scope="{switch_login_small.switch_fb_connect_login.L_FB_PERMISSIONS}" class="margTop4">{switch_login_small.switch_fb_connect_login.L_FB_LOGIN_BUTTON}</fb:login-button>
-                            </p>
-                            </div>
-                <!-- END switch_fb_connect_login -->
+
+        <!-- BEGIN switch_social_login -->
+        <div class="mt10 center">
+            <div class="social_btn">
+                <div class="fb_or">{switch_login_small.switch_social_login.L_OR}</div> <br />
+                <!-- BEGIN fb_connect -->
+                <div class="fb-login-button"></div>
+                <!-- END fb_connect -->
+                <br />
+            </div>
+        </div>
+        <!-- END switch_social_login -->
+        
 	</form>
 	</div>
 	<!-- END switch_login_small -->
@@ -76,23 +83,3 @@
 	</div>
 	<!-- END switch_profile -->
 </div>
-<!-- BEGIN switch_fb_widget_login -->
-<div id="fb-root"></div>
-<script>
-    FB.init({
-      appId      : {switch_fb_widget_login.FACEBOOK_APP_ID}, 
-      cookie     : true,
-      xfbml      : true,
-      oauth      : true,
-      version    : 'v2.3'
-    });
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-<!-- END switch_fb_widget_login -->

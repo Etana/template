@@ -18,11 +18,11 @@
 
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`149`](../src/prosilver/viewtopic_body.tpl#L149)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`139`](../src/prosilver/viewtopic_body.tpl#L139)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`154`](../src/subsilver/viewtopic_body.tpl#L154)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`145`](../src/subsilver/viewtopic_body.tpl#L145)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`187`](../src/invision/viewtopic_body.tpl#L187)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme) :__ lignes [`178`](../src/invision/viewtopic_body.tpl#L178)
 

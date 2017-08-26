@@ -48,7 +48,7 @@
 				</dl>
 				<!-- END switch_attachments -->
 				<div class="clear"></div>
-				{post_row.OPEN}<a href="{post_row.U_READ_FULL}">{post_row.L_READ_FULL}</a>{post_row.CLOSE}
+				{post_row.OPEN}<a href="{post_row.U_READ_FULL}" rel="nofollow">{post_row.L_READ_FULL}</a>{post_row.CLOSE}
 			</div>
 			<p class="comments"><a href="{post_row.U_VIEW_COMMENTS}">{L_COMMENTS}</a>: {post_row.REPLIES}</p>
 		</div>

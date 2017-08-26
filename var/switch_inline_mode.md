@@ -34,5 +34,5 @@ contenu sur lequel on boucle
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme) :__ lignes [`2`](../src/invision/privmsg_topic_review.tpl#L2)[`<->`](../src/invision/privmsg_topic_review.tpl#L2-L6)[`6`](../src/invision/privmsg_topic_review.tpl#L6)
 
 ### Version Version mobile
-* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`1`](../src/mobile/posting_topic_review.tpl#L1)[`<->`](../src/mobile/posting_topic_review.tpl#L1-L2)[`2`](../src/mobile/posting_topic_review.tpl#L2), [`17`](../src/mobile/posting_topic_review.tpl#L17)[`<->`](../src/mobile/posting_topic_review.tpl#L17-L18)[`18`](../src/mobile/posting_topic_review.tpl#L18)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme) :__ lignes [`1`](../src/mobile/posting_topic_review.tpl#L1)[`<->`](../src/mobile/posting_topic_review.tpl#L1-L2)[`2`](../src/mobile/posting_topic_review.tpl#L2), [`21`](../src/mobile/posting_topic_review.tpl#L21)[`<->`](../src/mobile/posting_topic_review.tpl#L21-L22)[`22`](../src/mobile/posting_topic_review.tpl#L22)
 

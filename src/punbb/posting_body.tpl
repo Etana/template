@@ -14,9 +14,9 @@
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<div class="pun-crumbs">
 	<p class="crumbs">
-		<a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong>{L_NEW_OR_EDIT_POST}</strong>
+		<a href="{U_INDEX}"><span>{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong>{L_NEW_OR_EDIT_POST}</strong>
 	</p>
 </div>
 
@@ -60,7 +60,7 @@
     <div class="main-head clearfix">
         <p class="h2"><!-- BEGIN switch_post_a -->{L_POST_A}<!-- END switch_post_a --></p>
         <p class="options">
-            <a class="exthelp" title="{L_HELP}" href="http://{URL_FORUM}{U_FAQ}" target="_blank">{L_BBCODE_GUIDE}</a>
+            <a class="exthelp" title="{L_HELP}" href="{U_FAQ}" target="_blank">{L_BBCODE_GUIDE}</a>
         </p>
     </div>
 
@@ -421,7 +421,7 @@
 <!-- BEGIN switch_privmsg -->
 <div id="find_username" class="jqmWindow"></div>
 
-<script src="{JS_DIR}jquery/jqmodal/jqmodal.js" type="text/javascript"></script>
+<script src="{JQUERY_DIR}jqmodal/jqmodal.js" type="text/javascript"></script>
 <!-- END switch_privmsg -->
 <script type="text/javascript">
 //<![CDATA[

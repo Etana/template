@@ -14,9 +14,9 @@
 </div>
 <!-- END switch_user_logged_out -->
 
-<div class="pun-crumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<div class="pun-crumbs">
 	<p class="crumbs">
-		<a href="{U_INDEX}" itemprop="url"><span itemprop="title">{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong>{DONATE_TITLE}</strong>
+		<a href="{U_INDEX}"><span>{L_INDEX}</span></a>{NAV_CAT_DESC}&nbsp;&raquo;&nbsp;<strong>{DONATE_TITLE}</strong>
 	</p>
 </div>
 
@@ -148,7 +148,7 @@
 					<form action="{S_CREDITS_ADD_ACTION}" method="post" name="post">
 						<input type="hidden" name="pay_method" value="{PAY_METHOD}" />
 						<input type="hidden" name="currency" value="{CURRENCY}" />
-						<input class="inputbox tiny" type="text" name="sum_selected" />
+						<input class="inputbox tiny" type="text" name="sum_selected" maxlength="5" />
 						<input class="button2" type="submit" name="sub_paypal_field" value="{L_SUBMIT}" />
 					</form>
 				</dd>
