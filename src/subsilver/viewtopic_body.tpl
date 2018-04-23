@@ -104,7 +104,12 @@ showHiddenMessage = function(id)
 					<td align="center" class="t-title">
 						<h1 class="cattitle">&nbsp;{TOPIC_TITLE}</h1>
 					</td>
-					<td align="right" width="9%" class="browse-arrows"><a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;<a href="#bottom">{L_GOTO_DOWN}</a>&nbsp;</td>
+					<td align="right" width="9%" class="browse-arrows">
+                        <!-- BEGIN switch_isconnect -->
+                        <a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;
+                        <!-- END switch_isconnect -->
+                        <a href="#bottom">{L_GOTO_DOWN}</a>&nbsp;
+                    </td>
 				</tr>
 			</table>
 		</td>
@@ -275,7 +280,12 @@ showHiddenMessage = function(id)
 				<tr>
 					<td width="9%" class="noprint">&nbsp;</td>
 					<td align="center" class="t-title"><a name="bottomtitle"></a><div class="cattitle">{TOPIC_TITLE}</div></td>
-					<td align="right" nowrap="nowrap" width="9%" class="browse-arrows"><a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;<a href="#top">{L_BACK_TO_TOP}</a>&nbsp;</td>
+					<td align="right" nowrap="nowrap" width="9%" class="browse-arrows">
+                        <!-- BEGIN switch_isconnect -->
+                        <a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;
+                        <!-- END switch_isconnect -->
+                        <a href="#top">{L_BACK_TO_TOP}</a>&nbsp;
+                    </td>
 				</tr>
 			</table>
 		</td>

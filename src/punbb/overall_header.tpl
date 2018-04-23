@@ -184,27 +184,27 @@
 	</style>
 	<!-- END switch_ticker_new -->
 	{HOSTING_JS}
-	<!-- BEGIN google_analytics_code -->
-	<script type="text/javascript">
-	//<![CDATA[
- 	var _gaq = _gaq || [];
- 	_gaq.push(["_setAccount", "{G_ANALYTICS_ID}"]);
- 	_gaq.push(["_trackPageview"]);
-	_gaq.push(['_trackPageLoadTime']);
+    <!-- BEGIN google_analytics_code -->
+    <script type="text/javascript">
+        //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(["_setAccount", "{G_ANALYTICS_ID}"]);
+        _gaq.push(["_trackPageview"]);
+        _gaq.push(['_trackPageLoadTime']);
 
-	<!-- BEGIN google_analytics_code_bis -->
-	_gaq.push(['b._setAccount', '{G_ANALYTICS_ID_BIS}']);
-	_gaq.push(['b._trackPageview']);
-	<!-- END google_analytics_code_bis -->
+        <!-- BEGIN google_analytics_code_bis -->
+        _gaq.push(['b._setAccount', '{G_ANALYTICS_ID_BIS}']);
+        _gaq.push(['b._trackPageview']);
+        <!-- END google_analytics_code_bis -->
 
- 	(function() {
-		var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
-		ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
-		var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
- 	})();
-	//]]>
-	</script>
-	<!-- END google_analytics_code -->
+        (function() {
+            var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+            ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+            var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        //]]>
+    </script>
+    <!-- END google_analytics_code -->
 </head>
 
 <body>

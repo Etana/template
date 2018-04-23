@@ -178,6 +178,9 @@
                 case '-192px 0px':
                     $(this).html('<i class="material-icons">&#xE254;</i>');
                     break;
+                case '-224px 0px':
+                    $(this).html('<i class="material-icons">&#xE324;</i>');
+                    break;
             }
         });
     };
@@ -277,5 +280,25 @@
         }
     </script>
     <!-- END switch_facebook_login -->
+    <!-- BEGIN switch_topicit_connect -->
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('div.ti-connect').attr({
+                'data-loc' : '{switch_topicit_connect.TOPICIT_URL}',
+                'data-login' : '{switch_topicit_connect.BOARD_LOGIN}',
+                'data-version' : '{switch_topicit_connect.TOPICIT_VERSION}',
+                'data-lang' : '{switch_topicit_connect.BOARD_LANG}'
+
+            });
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "{switch_topicit_connect.TOPICIT_ENDPOINT}";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'topicit-connect'));
+        });
+    </script>
+    <!-- END switch_topicit_connect -->
 </body>
 </html>

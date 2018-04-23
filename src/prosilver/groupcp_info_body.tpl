@@ -121,7 +121,7 @@
 <!-- BEGIN switch_mod_option -->
 <div id="find_username" class="jqmWindow"></div>
 
-<script src="{JS_DIR}jquery/jqmodal/jqmodal.js" type="text/javascript"></script>
+<script src="{JQUERY_DIR}jqmodal/jqmodal.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 	$(document).ready(function(){

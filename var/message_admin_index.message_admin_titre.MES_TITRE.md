@@ -17,13 +17,13 @@ Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralité
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`33`](../src/prosilver/index_body.tpl#L33)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`36`](../src/prosilver/index_body.tpl#L36)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`6`](../src/subsilver/index_body.tpl#L6)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`27`](../src/modernbb/index_body.tpl#L27)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`30`](../src/modernbb/index_body.tpl#L30)
 
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`23`](../src/punbb/index_body.tpl#L23)

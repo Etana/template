@@ -32,7 +32,7 @@ Chaîne de texte.
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`36`](../src/prosilver/merge_body.tpl#L36)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`184`](../src/prosilver/posting_body.tpl#L184), [`186`](../src/prosilver/posting_body.tpl#L186)
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`12`](../src/prosilver/posting_confirm_code.tpl#L12)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`398`](../src/prosilver/profile_add_body.tpl#L398)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`408`](../src/prosilver/profile_add_body.tpl#L408)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`20`](../src/prosilver/profile_send_pass.tpl#L20)
 
 ### Version phpBB2
@@ -47,7 +47,7 @@ Chaîne de texte.
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/merge_body.tpl#L30)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`247`](../src/subsilver/posting_body.tpl#L247), [`411`](../src/subsilver/posting_body.tpl#L411)
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`14`](../src/subsilver/posting_confirm_code.tpl#L14)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`354`](../src/subsilver/profile_add_body.tpl#L354)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`363`](../src/subsilver/profile_add_body.tpl#L363)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`25`](../src/subsilver/profile_send_pass.tpl#L25)
 
 ### Version ModernBB
@@ -62,7 +62,7 @@ Chaîne de texte.
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`36`](../src/modernbb/merge_body.tpl#L36)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`179`](../src/modernbb/posting_body.tpl#L179), [`181`](../src/modernbb/posting_body.tpl#L181)
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`12`](../src/modernbb/posting_confirm_code.tpl#L12)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`398`](../src/modernbb/profile_add_body.tpl#L398)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`408`](../src/modernbb/profile_add_body.tpl#L408)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`20`](../src/modernbb/profile_send_pass.tpl#L20)
 
 ### Version PunBB
@@ -77,7 +77,7 @@ Chaîne de texte.
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`54`](../src/punbb/merge_body.tpl#L54)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`210`](../src/punbb/posting_body.tpl#L210)
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`13`](../src/punbb/posting_confirm_code.tpl#L13)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`415`](../src/punbb/profile_add_body.tpl#L415)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`424`](../src/punbb/profile_add_body.tpl#L424)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`43`](../src/punbb/profile_send_pass.tpl#L43)
 
 ### Version Invision
@@ -92,14 +92,14 @@ Chaîne de texte.
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`36`](../src/invision/merge_body.tpl#L36)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`361`](../src/invision/posting_body.tpl#L361)
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`14`](../src/invision/posting_confirm_code.tpl#L14)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`476`](../src/invision/profile_add_body.tpl#L476)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`487`](../src/invision/profile_add_body.tpl#L487)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`54`](../src/invision/profile_edit_signature.tpl#L54)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`47`](../src/invision/profile_send_pass.tpl#L47)
 
 ### Version Version mobile
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
-* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`9`](../src/mobile/posting_body.tpl#L9)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`11`](../src/mobile/posting_body.tpl#L11)
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`13`](../src/mobile/posting_confirm_code.tpl#L13)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`8`](../src/mobile/profile_send_pass.tpl#L8)
 

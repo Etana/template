@@ -30,5 +30,5 @@ Affiche le bouton de connexion via Facebook si Facebook Connect est activé dans
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`32`](../src/invision/overall_header.tpl#L32)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`21`](../src/mobile/overall_header.tpl#L21)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`21`](../src/mobile/overall_header.tpl#L21), [`45`](../src/mobile/overall_header.tpl#L45)
 

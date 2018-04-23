@@ -13,17 +13,17 @@ Affiche la liste des groupes dans le qui est en ligne selon votre `PA > Utilisat
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`68`](../src/prosilver/index_body.tpl#L68)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`71`](../src/prosilver/index_body.tpl#L71)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`159`](../src/subsilver/index_body.tpl#L159)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`165`](../src/subsilver/index_body.tpl#L165)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`60`](../src/modernbb/index_body.tpl#L60)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`63`](../src/modernbb/index_body.tpl#L63)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`91`](../src/punbb/index_body.tpl#L91)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`94`](../src/punbb/index_body.tpl#L94)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`90`](../src/invision/index_body.tpl#L90)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`93`](../src/invision/index_body.tpl#L93)
 

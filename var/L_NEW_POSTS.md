@@ -15,17 +15,17 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`134`](../src/prosilver/index_body.tpl#L134), [`134`](../src/prosilver/index_body.tpl#L134)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`140`](../src/prosilver/index_body.tpl#L140), [`140`](../src/prosilver/index_body.tpl#L140)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`184`](../src/subsilver/index_body.tpl#L184), [`185`](../src/subsilver/index_body.tpl#L185)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`190`](../src/subsilver/index_body.tpl#L190), [`191`](../src/subsilver/index_body.tpl#L191)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`104`](../src/modernbb/index_body.tpl#L104), [`104`](../src/modernbb/index_body.tpl#L104)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`110`](../src/modernbb/index_body.tpl#L110), [`110`](../src/modernbb/index_body.tpl#L110)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`139`](../src/punbb/index_body.tpl#L139), [`139`](../src/punbb/index_body.tpl#L139)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`145`](../src/punbb/index_body.tpl#L145), [`145`](../src/punbb/index_body.tpl#L145)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`167`](../src/invision/index_body.tpl#L167), [`167`](../src/invision/index_body.tpl#L167)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`170`](../src/invision/index_body.tpl#L170), [`170`](../src/invision/index_body.tpl#L170)
 

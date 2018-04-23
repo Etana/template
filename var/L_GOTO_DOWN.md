@@ -13,14 +13,14 @@ Image pour aller en bas définie dans `PA > Affichage > Images et Couleurs | Ges
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`107`](../src/prosilver/viewtopic_body.tpl#L107), [`237`](../src/prosilver/viewtopic_body.tpl#L237)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`111`](../src/prosilver/viewtopic_body.tpl#L111), [`242`](../src/prosilver/viewtopic_body.tpl#L242)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`107`](../src/subsilver/viewtopic_body.tpl#L107), [`242`](../src/subsilver/viewtopic_body.tpl#L242)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`111`](../src/subsilver/viewtopic_body.tpl#L111), [`247`](../src/subsilver/viewtopic_body.tpl#L247)
 
 ### Version ModernBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`98`](../src/modernbb/viewtopic_body.tpl#L98)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`100`](../src/modernbb/viewtopic_body.tpl#L100)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`116`](../src/punbb/viewtopic_body.tpl#L116)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`119`](../src/punbb/viewtopic_body.tpl#L119)
 

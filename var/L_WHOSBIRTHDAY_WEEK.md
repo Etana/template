@@ -13,17 +13,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`65`](../src/prosilver/index_body.tpl#L65)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`68`](../src/prosilver/index_body.tpl#L68)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`157`](../src/subsilver/index_body.tpl#L157)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`163`](../src/subsilver/index_body.tpl#L163)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`58`](../src/modernbb/index_body.tpl#L58)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`61`](../src/modernbb/index_body.tpl#L61)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`88`](../src/punbb/index_body.tpl#L88)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`91`](../src/punbb/index_body.tpl#L91)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`100`](../src/invision/index_body.tpl#L100)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`103`](../src/invision/index_body.tpl#L103)
 

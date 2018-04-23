@@ -18,8 +18,8 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`76`](../src/prosilver/mod_login.tpl#L76)[`<->`](../src/prosilver/mod_login.tpl#L76-L90)[`90`](../src/prosilver/mod_login.tpl#L90)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`82`](../src/prosilver/mod_login.tpl#L82)[`<->`](../src/prosilver/mod_login.tpl#L82-L96)[`96`](../src/prosilver/mod_login.tpl#L96)
 
 ### Version ModernBB
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`50`](../src/modernbb/mod_login.tpl#L50)[`<->`](../src/modernbb/mod_login.tpl#L50-L62)[`62`](../src/modernbb/mod_login.tpl#L62)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`56`](../src/modernbb/mod_login.tpl#L56)[`<->`](../src/modernbb/mod_login.tpl#L56-L68)[`68`](../src/modernbb/mod_login.tpl#L68)
 

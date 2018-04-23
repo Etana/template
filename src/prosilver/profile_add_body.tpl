@@ -215,6 +215,16 @@
 							<br /><span class="italic">{L_NEWSLETTER_ACCEPT_EXPLAIN}</span>
 						</dd>
 					</dl>
+					<!-- BEGIN display_newsletter_auto -->
+					<dl>
+						<dt><label>{L_NEWSLETTER_AUTO_ACCEPT} :</label></dt>
+						<dd>
+							<label><input type="radio" name="newsletter_auto" value="1" {NEWSLETTER_AUTO_YES} />{L_YES}</label>
+							<label><input type="radio" name="newsletter_auto" value="0" {NEWSLETTER_AUTO_NO} />{L_NO}</label>
+							<br /><span class="italic">{L_NEWSLETTER_AUTO_ACCEPT_EXPLAIN}</span>
+						</dd>
+					</dl>
+					<!-- END display_newsletter_auto -->
 					<dl>
 						<dt><label>{L_HIDE_USER} :</label></dt>
 						<dd>

@@ -16,5 +16,5 @@
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`230`](../src/subsilver/posting_body.tpl#L230)
 
 ### Version Version mobile
-* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`14`](../src/mobile/posting_body.tpl#L14)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`16`](../src/mobile/posting_body.tpl#L16)
 

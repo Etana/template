@@ -14,20 +14,20 @@ Contient la liste de vos catégories et forums.
 
 ### Version phpBB3
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`26`](../src/prosilver/album_formsearch_body.tpl#L26)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`50`](../src/prosilver/search_body.tpl#L50)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`58`](../src/prosilver/search_body.tpl#L58)
 
 ### Version phpBB2
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`25`](../src/subsilver/album_formsearch_body.tpl#L25)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`60`](../src/subsilver/search_body.tpl#L60)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`71`](../src/subsilver/search_body.tpl#L71)
 
 ### Version ModernBB
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`26`](../src/modernbb/album_formsearch_body.tpl#L26)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`46`](../src/modernbb/search_body.tpl#L46)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`54`](../src/modernbb/search_body.tpl#L54)
 
 ### Version PunBB
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`37`](../src/punbb/album_formsearch_body.tpl#L37)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`61`](../src/punbb/search_body.tpl#L61)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`68`](../src/punbb/search_body.tpl#L68)
 
 ### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`47`](../src/invision/search_body.tpl#L47)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`56`](../src/invision/search_body.tpl#L56)
 

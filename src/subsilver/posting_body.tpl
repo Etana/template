@@ -608,7 +608,7 @@ ShowHideLayernew('pollitems');
 <!-- BEGIN switch_privmsg -->
 <div id="find_username" class="jqmWindow"></div>
 
-<script src="{JS_DIR}jquery/jqmodal/jqmodal.js" type="text/javascript"></script>
+<script src="{JQUERY_DIR}jqmodal/jqmodal.js" type="text/javascript"></script>
 <!-- END switch_privmsg -->
 <script type="text/javascript">
 //<![CDATA[

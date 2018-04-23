@@ -185,6 +185,15 @@
 			<label class="gen"><input type="radio" name="newsletter" value="0" {NEWSLETTER_NO} />{L_NO}</label>&nbsp;&nbsp;
 		</td>
 	</tr>
+	<!-- BEGIN display_newsletter_auto -->
+	<tr>
+		<td class="row1"><span class="gen">{L_NEWSLETTER_AUTO_ACCEPT}&nbsp;:</span><br /><span class="gensmall">{L_NEWSLETTER_AUTO_ACCEPT_EXPLAIN}</span></td>
+		<td class="row2" width="400">
+			<label class="gen"><input type="radio" name="newsletter_auto" value="1" {NEWSLETTER_AUTO_YES} />{L_YES}</label>&nbsp;&nbsp;
+			<label class="gen"><input type="radio" name="newsletter_auto" value="0" {NEWSLETTER_AUTO_NO} />{L_NO}</label>&nbsp;&nbsp;
+		</td>
+	</tr>
+	<!-- END display_newsletter_auto -->
 	<tr>
 		<td class="row1"><span class="gen">{L_HIDE_USER}&nbsp;:</span></td>
 		<td class="row2">

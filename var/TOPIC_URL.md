@@ -23,7 +23,7 @@
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`37`](../src/modernbb/viewtopic_body.tpl#L37), [`78`](../src/modernbb/viewtopic_body.tpl#L78)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`75`](../src/punbb/viewtopic_body.tpl#L75), [`92`](../src/punbb/viewtopic_body.tpl#L92), [`298`](../src/punbb/viewtopic_body.tpl#L298)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`75`](../src/punbb/viewtopic_body.tpl#L75), [`92`](../src/punbb/viewtopic_body.tpl#L92), [`304`](../src/punbb/viewtopic_body.tpl#L304)
 
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`70`](../src/invision/viewtopic_body.tpl#L70)

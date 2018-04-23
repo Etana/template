@@ -113,7 +113,10 @@ showHiddenMessage = function(id)
 	{POLL_DISPLAY}
 	<div class="main-head clearfix">
 		<p class="h2">
-			<a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;<a href="#bottom">{L_GOTO_DOWN}</a>&nbsp;&nbsp;
+            <!-- BEGIN switch_isconnect -->
+			<a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;
+            <!-- END switch_isconnect -->
+            <a href="#bottom">{L_GOTO_DOWN}</a>&nbsp;&nbsp;
 			{L_MESSAGE} [{PAGE_NUMBER}]
 		</p>
 	</div>
@@ -258,7 +261,10 @@ showHiddenMessage = function(id)
 
 	<div class="main-foot clearfix">
 		<p class="h2">
-			<a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;<a href="#top">{L_BACK_TO_TOP}</a>&nbsp;&nbsp;
+            <!-- BEGIN switch_isconnect -->
+			<a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>&nbsp;<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>&nbsp;
+            <!-- END switch_isconnect -->
+            <a href="#top">{L_BACK_TO_TOP}</a>&nbsp;&nbsp;
 			{L_MESSAGE} [{PAGE_NUMBER}]
 		</p>
 		<p class="options">

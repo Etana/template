@@ -13,20 +13,20 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`89`](../src/prosilver/mod_login.tpl#L89), [`107`](../src/prosilver/mod_login.tpl#L107)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`95`](../src/prosilver/mod_login.tpl#L95), [`113`](../src/prosilver/mod_login.tpl#L113)
 
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`117`](../src/subsilver/mod_login.tpl#L117)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`123`](../src/subsilver/mod_login.tpl#L123)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`10`](../src/subsilver/profile_add_body.tpl#L10)
 
 ### Version ModernBB
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`61`](../src/modernbb/mod_login.tpl#L61), [`75`](../src/modernbb/mod_login.tpl#L75)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`67`](../src/modernbb/mod_login.tpl#L67), [`81`](../src/modernbb/mod_login.tpl#L81)
 
 ### Version PunBB
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`81`](../src/punbb/mod_login.tpl#L81)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`87`](../src/punbb/mod_login.tpl#L87)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`26`](../src/punbb/profile_add_body.tpl#L26)
 
 ### Version Invision
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`82`](../src/invision/mod_login.tpl#L82)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`88`](../src/invision/mod_login.tpl#L88)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`15`](../src/invision/profile_add_body.tpl#L15)
 

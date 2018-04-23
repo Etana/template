@@ -13,11 +13,11 @@ Remplacé par une liste déroulante contenant les différentes actions de modér
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`350`](../src/prosilver/viewtopic_body.tpl#L350)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`360`](../src/prosilver/viewtopic_body.tpl#L360)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`464`](../src/subsilver/viewtopic_body.tpl#L464)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`474`](../src/subsilver/viewtopic_body.tpl#L474)
 
 ### Version ModernBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`364`](../src/modernbb/viewtopic_body.tpl#L364)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`372`](../src/modernbb/viewtopic_body.tpl#L372)
 

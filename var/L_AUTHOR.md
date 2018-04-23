@@ -26,7 +26,7 @@ Chaîne de texte.
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`26`](../src/subsilver/report_view_body.tpl#L26)
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`15`](../src/subsilver/search_results_posts.tpl#L15)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`27`](../src/subsilver/search_results_topics.tpl#L27)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`119`](../src/subsilver/viewtopic_body.tpl#L119), [`259`](../src/subsilver/viewtopic_body.tpl#L259)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`124`](../src/subsilver/viewtopic_body.tpl#L124), [`264`](../src/subsilver/viewtopic_body.tpl#L264)
 
 ### Version ModernBB
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`5`](../src/modernbb/calendar_overview_topic.tpl#L5)

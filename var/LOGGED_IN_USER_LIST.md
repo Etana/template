@@ -26,26 +26,26 @@ Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Ad
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/index_body.tpl#L61)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`64`](../src/prosilver/index_body.tpl#L64)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_whoisonline.tpl#L6)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`70`](../src/prosilver/viewforum_body.tpl#L70)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`153`](../src/subsilver/index_body.tpl#L153)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`159`](../src/subsilver/index_body.tpl#L159)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`11`](../src/subsilver/mod_whoisonline.tpl#L11)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`38`](../src/subsilver/viewforum_body.tpl#L38), [`67`](../src/subsilver/viewforum_body.tpl#L67)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`53`](../src/modernbb/index_body.tpl#L53)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`56`](../src/modernbb/index_body.tpl#L56)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_whoisonline.tpl#L4)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`73`](../src/modernbb/viewforum_body.tpl#L73)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`84`](../src/punbb/index_body.tpl#L84)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`87`](../src/punbb/index_body.tpl#L87)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_whoisonline.tpl#L5)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`57`](../src/punbb/viewforum_body.tpl#L57)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`89`](../src/invision/index_body.tpl#L89)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`92`](../src/invision/index_body.tpl#L92)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`5`](../src/invision/mod_whoisonline.tpl#L5)
 

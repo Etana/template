@@ -288,9 +288,11 @@ showHiddenMessage = function(id)
 			</form>
 		</div>
 		<!-- END minisearch -->
+        <!-- BEGIN switch_isconnect -->
 		<div class="next-prev">
 			&laquo; <a href="{U_VIEW_OLDER_TOPIC}">{L_IPB_PREVIOUS_TOPIC}</a> &middot; <a href="{U_VIEW_NEWER_TOPIC}">{L_IPB_NEXT_TOPIC}</a> &raquo;
 		</div>
+        <!-- END switch_isconnect -->
 	</div>
 </div>
 

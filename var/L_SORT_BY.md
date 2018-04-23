@@ -15,17 +15,17 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`64`](../src/prosilver/search_body.tpl#L64)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`72`](../src/prosilver/search_body.tpl#L72)
 
 ### Version phpBB2
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`82`](../src/subsilver/search_body.tpl#L82)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`93`](../src/subsilver/search_body.tpl#L93)
 
 ### Version ModernBB
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`60`](../src/modernbb/search_body.tpl#L60)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`68`](../src/modernbb/search_body.tpl#L68)
 
 ### Version PunBB
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`75`](../src/punbb/search_body.tpl#L75)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`82`](../src/punbb/search_body.tpl#L82)
 
 ### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`58`](../src/invision/search_body.tpl#L58)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`67`](../src/invision/search_body.tpl#L67)
 

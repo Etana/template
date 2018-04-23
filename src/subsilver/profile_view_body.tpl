@@ -141,7 +141,7 @@
 	<!-- END switch_rpg -->
 </table>
 <br />
-<script src="{JS_DIR}jquery/json/jquery.json-1.3.min.js" type="text/javascript"></script>
+<script src="{JQUERY_ROOT}json/jquery.json-1.3.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 	$(document).ready(function(){

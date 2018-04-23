@@ -28,5 +28,5 @@
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`351`](../src/invision/posting_body.tpl#L351)
 
 ### Version Version mobile
-* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`10`](../src/mobile/posting_body.tpl#L10)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`12`](../src/mobile/posting_body.tpl#L12)
 

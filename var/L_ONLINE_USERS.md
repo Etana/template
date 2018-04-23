@@ -13,11 +13,11 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`63`](../src/prosilver/index_body.tpl#L63)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`66`](../src/prosilver/index_body.tpl#L66)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`55`](../src/modernbb/index_body.tpl#L55)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`58`](../src/modernbb/index_body.tpl#L58)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`86`](../src/punbb/index_body.tpl#L86)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`89`](../src/punbb/index_body.tpl#L89)
 

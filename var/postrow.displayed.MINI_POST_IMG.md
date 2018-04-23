@@ -18,10 +18,10 @@
 
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`12`](../src/prosilver/posting_topic_review.tpl#L12)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`139`](../src/prosilver/viewtopic_body.tpl#L139)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`144`](../src/prosilver/viewtopic_body.tpl#L144)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`145`](../src/subsilver/viewtopic_body.tpl#L145)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`150`](../src/subsilver/viewtopic_body.tpl#L150)
 
 ### Version ModernBB
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`12`](../src/modernbb/posting_topic_review.tpl#L12)

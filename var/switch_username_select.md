@@ -33,5 +33,5 @@ Le contenu de la boucle est affiché si le visiteur est un invité. Elle gère l
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`42`](../src/invision/posting_body.tpl#L42)[`<->`](../src/invision/posting_body.tpl#L42-L49)[`49`](../src/invision/posting_body.tpl#L49)
 
 ### Version Version mobile
-* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`4`](../src/mobile/posting_body.tpl#L4)[`<->`](../src/mobile/posting_body.tpl#L4-L6)[`6`](../src/mobile/posting_body.tpl#L6)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`6`](../src/mobile/posting_body.tpl#L6)[`<->`](../src/mobile/posting_body.tpl#L6-L8)[`8`](../src/mobile/posting_body.tpl#L8)
 

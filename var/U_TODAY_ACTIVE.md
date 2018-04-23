@@ -18,7 +18,7 @@ Lien vers les sujets actifs du jour.
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`86`](../src/prosilver/index_box.tpl#L86)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`75`](../src/subsilver/index_body.tpl#L75)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`78`](../src/subsilver/index_body.tpl#L78)
 
 ### Version ModernBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`91`](../src/modernbb/index_box.tpl#L91)
@@ -27,5 +27,5 @@ Lien vers les sujets actifs du jour.
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`77`](../src/punbb/index_box.tpl#L77)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`63`](../src/invision/index_body.tpl#L63)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`66`](../src/invision/index_body.tpl#L66)
 

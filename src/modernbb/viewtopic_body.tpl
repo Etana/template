@@ -94,9 +94,13 @@ showHiddenMessage = function(id) {
 </div>
 
 <div class="quick-nav-topics">
+    <!-- BEGIN switch_isconnect -->
 	<a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>
+    <!-- END switch_isconnect -->
     <a href="#bottom">{L_GOTO_DOWN}</a>
+    <!-- BEGIN switch_isconnect -->
 	<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>
+    <!-- END switch_isconnect -->
 </div>
 
 {POLL_DISPLAY}
@@ -275,9 +279,13 @@ showHiddenMessage = function(id) {
 <a name="bottomtitle"></a>
 
 <div class="quick-nav-topics bottom">
+    <!-- BEGIN switch_isconnect -->
 	<a href="{U_VIEW_OLDER_TOPIC}">{L_VIEW_PREVIOUS_TOPIC}</a>
+    <!-- END switch_isconnect -->
     <a href="#top">{L_BACK_TO_TOP}</a>
+    <!-- BEGIN switch_isconnect -->
 	<a href="{U_VIEW_NEWER_TOPIC}">{L_VIEW_NEXT_TOPIC}</a>
+    <!-- END switch_isconnect -->
 </div>
 
 <div class="topic-actions bottom">

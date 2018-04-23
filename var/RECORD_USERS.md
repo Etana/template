@@ -26,22 +26,22 @@ Le record du nombre d'utilisateurs en ligne est de <strong>2</strong> le Mer 21 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`58`](../src/prosilver/index_body.tpl#L58)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/index_body.tpl#L61)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`11`](../src/prosilver/mod_whoisonline.tpl#L11)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`151`](../src/subsilver/index_body.tpl#L151)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`157`](../src/subsilver/index_body.tpl#L157)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`19`](../src/subsilver/mod_whoisonline.tpl#L19)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`51`](../src/modernbb/index_body.tpl#L51)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`54`](../src/modernbb/index_body.tpl#L54)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`8`](../src/modernbb/mod_whoisonline.tpl#L8)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`81`](../src/punbb/index_body.tpl#L81)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`84`](../src/punbb/index_body.tpl#L84)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`10`](../src/punbb/mod_whoisonline.tpl#L10)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`133`](../src/invision/index_body.tpl#L133)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`136`](../src/invision/index_body.tpl#L136)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`11`](../src/invision/mod_whoisonline.tpl#L11)
 

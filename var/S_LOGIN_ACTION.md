@@ -17,27 +17,27 @@ Action du formulaire de connexion.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`9`](../src/prosilver/index_body.tpl#L9), [`110`](../src/prosilver/index_body.tpl#L110)
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_login.tpl#L6), [`51`](../src/prosilver/mod_login.tpl#L51)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`9`](../src/prosilver/index_body.tpl#L9), [`113`](../src/prosilver/index_body.tpl#L113)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_login.tpl#L6), [`54`](../src/prosilver/mod_login.tpl#L54)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`237`](../src/prosilver/overall_header.tpl#L237)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`20`](../src/subsilver/index_body.tpl#L20), [`89`](../src/subsilver/index_body.tpl#L89)
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_login.tpl#L10), [`61`](../src/subsilver/mod_login.tpl#L61)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`20`](../src/subsilver/index_body.tpl#L20), [`92`](../src/subsilver/index_body.tpl#L92)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_login.tpl#L10), [`64`](../src/subsilver/mod_login.tpl#L64)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`229`](../src/subsilver/overall_header.tpl#L229)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`5`](../src/modernbb/index_body.tpl#L5), [`83`](../src/modernbb/index_body.tpl#L83)
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_login.tpl#L4), [`30`](../src/modernbb/mod_login.tpl#L30)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`5`](../src/modernbb/index_body.tpl#L5), [`86`](../src/modernbb/index_body.tpl#L86)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`4`](../src/modernbb/mod_login.tpl#L4), [`33`](../src/modernbb/mod_login.tpl#L33)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`244`](../src/modernbb/overall_header.tpl#L244)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`37`](../src/punbb/index_body.tpl#L37), [`113`](../src/punbb/index_body.tpl#L113)
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_login.tpl#L5), [`43`](../src/punbb/mod_login.tpl#L43)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`37`](../src/punbb/index_body.tpl#L37), [`116`](../src/punbb/index_body.tpl#L116)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_login.tpl#L5), [`46`](../src/punbb/mod_login.tpl#L46)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`232`](../src/punbb/overall_header.tpl#L232)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`22`](../src/invision/index_body.tpl#L22), [`177`](../src/invision/index_body.tpl#L177)
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`6`](../src/invision/mod_login.tpl#L6), [`46`](../src/invision/mod_login.tpl#L46)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`22`](../src/invision/index_body.tpl#L22), [`180`](../src/invision/index_body.tpl#L180)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`6`](../src/invision/mod_login.tpl#L6), [`49`](../src/invision/mod_login.tpl#L49)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`235`](../src/invision/overall_header.tpl#L235)
 

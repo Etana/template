@@ -36,6 +36,9 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.U_IMG}`](../var/post_row.switch_attachments.switch_post_attachments.U_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.switch_attachments.switch_post_attachments.U_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_link_readmore -->`](../var/post_row.switch_link_readmore.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.switch_link_readmore))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_link_readmore.L_READ_FULL}`](../var/post_row.switch_link_readmore.L_READ_FULL.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.switch_link_readmore.L_READ_FULL))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_link_readmore.U_READ_FULL}`](../var/post_row.switch_link_readmore.U_READ_FULL.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.switch_link_readmore.U_READ_FULL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.TEXT}`](../var/post_row.TEXT.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.TEXT))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.TIME}`](../var/post_row.TIME.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.TIME))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.TITLE}`](../var/post_row.TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/post_row.TITLE))__
@@ -52,7 +55,7 @@ contenu sur lequel on boucle
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/subsilver/mod_news.tpl#L1)[`<->`](../src/subsilver/mod_news.tpl#L1-L67)[`67`](../src/subsilver/mod_news.tpl#L67)
 
 ### Version ModernBB
-* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/modernbb/mod_news.tpl#L1)[`<->`](../src/modernbb/mod_news.tpl#L1-L52)[`52`](../src/modernbb/mod_news.tpl#L52)
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/modernbb/mod_news.tpl#L1)[`<->`](../src/modernbb/mod_news.tpl#L1-L54)[`54`](../src/modernbb/mod_news.tpl#L54)
 
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/punbb/mod_news.tpl#L1)[`<->`](../src/punbb/mod_news.tpl#L1-L58)[`58`](../src/punbb/mod_news.tpl#L58)

@@ -23,12 +23,12 @@ Action du formulaire pour sauter vers un forum.
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`65`](../src/prosilver/modcp_body.tpl#L65)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`399`](../src/prosilver/posting_body.tpl#L399)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`62`](../src/prosilver/viewforum_body.tpl#L62)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`334`](../src/prosilver/viewtopic_body.tpl#L334)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`344`](../src/prosilver/viewtopic_body.tpl#L344)
 
 ### Version phpBB2
 * __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`1`](../src/subsilver/jumpbox.tpl#L1)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`81`](../src/subsilver/viewforum_body.tpl#L81)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`426`](../src/subsilver/viewtopic_body.tpl#L426)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`436`](../src/subsilver/viewtopic_body.tpl#L436)
 
 ### Version ModernBB
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`30`](../src/modernbb/faq_body.tpl#L30)
@@ -39,7 +39,7 @@ Action du formulaire pour sauter vers un forum.
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`65`](../src/modernbb/modcp_body.tpl#L65)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`394`](../src/modernbb/posting_body.tpl#L394)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`65`](../src/modernbb/viewforum_body.tpl#L65)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`348`](../src/modernbb/viewtopic_body.tpl#L348)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`356`](../src/modernbb/viewtopic_body.tpl#L356)
 
 ### Version PunBB
 * __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`1`](../src/punbb/jumpbox.tpl#L1)

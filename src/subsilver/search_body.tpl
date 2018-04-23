@@ -22,12 +22,23 @@
                     &nbsp;
                     <input class="liteoption" type="button" value="{L_SEARCH} Google" onclick="document.searchform.action='{U_GOOGLERESULTS}';document.searchform.q.value=document.searchform.search_keywords.value;document.searchform.submit()" /><br />
                     &nbsp;
-                    <input id="any" type="radio" name="search_terms" value="any" checked="checked" />
                 </span>
-                <span class="genmed"><label for="any">{L_SEARCH_ANY_TERMS}</label></span>
+
+                <!-- BEGIN switch_search_full_text -->
+                <input id="text" type="radio" name="search_by" value="text" checked="checked" />
+                <span class="genmed"><label for="text">{switch_search_full_text.L_SEARCH_BY_TEXT}</label></span>
+                <br />&nbsp;
+                <input id="subject" type="radio" name="search_by" value="subject" />
+                <span class="genmed"><label for="subject">{switch_search_full_text.L_SEARCH_BY_SUBJECT}</label></span>
+                <!-- END switch_search_full_text -->
+
+                <!-- BEGIN switch_search_terms -->
+                <input id="any" type="radio" name="search_terms" value="any" checked="checked" />
+                <span class="genmed"><label for="any">{switch_search_terms.L_SEARCH_ANY_TERMS}</label></span>
                 <br />&nbsp;
                 <input id="all" type="radio" name="search_terms" value="all" />
-                <span class="genmed"><label for="all">{L_SEARCH_ALL_TERMS}</label></span>
+                <span class="genmed"><label for="all">{switch_search_terms.L_SEARCH_ALL_TERMS}</label></span>
+                <!-- END switch_search_terms -->
                 <!-- BEGIN TAGS -->
                 <br />&nbsp;
                 <input id="rtags" type="checkbox" name="is_tag" value="true" />

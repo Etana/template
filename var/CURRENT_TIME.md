@@ -47,7 +47,7 @@ Texte avec la date actuelle.
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/posting_body.tpl#L4)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`2`](../src/prosilver/privmsgs_body.tpl#L2)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`2`](../src/prosilver/privmsgs_read_body.tpl#L2)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`317`](../src/prosilver/profile_add_body.tpl#L317)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`327`](../src/prosilver/profile_add_body.tpl#L327)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`2`](../src/prosilver/profile_avatar_gallery.tpl#L2)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`2`](../src/prosilver/profile_send_email.tpl#L2)
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/profile_view_body.tpl#L4)
@@ -60,7 +60,7 @@ Texte avec la date actuelle.
 
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`6`](../src/subsilver/index_box.tpl#L6)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`286`](../src/subsilver/profile_add_body.tpl#L286)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`295`](../src/subsilver/profile_add_body.tpl#L295)
 
 ### Version ModernBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`2`](../src/modernbb/agreement.tpl#L2)
@@ -84,16 +84,16 @@ Texte avec la date actuelle.
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`2`](../src/modernbb/modcp_split.tpl#L2)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`2`](../src/modernbb/modcp_viewip.tpl#L2)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`14`](../src/modernbb/overall_footer_end.tpl#L14)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`317`](../src/modernbb/profile_add_body.tpl#L317)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`327`](../src/modernbb/profile_add_body.tpl#L327)
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`2`](../src/modernbb/profile_avatar_gallery.tpl#L2)
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`2`](../src/modernbb/profile_send_email.tpl#L2)
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/report_list_body.tpl#L2)
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`2`](../src/modernbb/report_view_body.tpl#L2)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`324`](../src/punbb/profile_add_body.tpl#L324)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`333`](../src/punbb/profile_add_body.tpl#L333)
 
 ### Version Invision
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`31`](../src/invision/overall_footer_begin.tpl#L31)
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`398`](../src/invision/profile_add_body.tpl#L398)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`409`](../src/invision/profile_add_body.tpl#L409)
 

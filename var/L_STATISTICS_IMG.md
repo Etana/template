@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`128`](../src/invision/index_body.tpl#L128)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`131`](../src/invision/index_body.tpl#L131)
 

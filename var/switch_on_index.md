@@ -25,7 +25,7 @@ contenu sur lequel on boucle
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`84`](../src/prosilver/index_box.tpl#L84)[`<->`](../src/prosilver/index_box.tpl#L84-L93)[`93`](../src/prosilver/index_box.tpl#L93)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`78`](../src/subsilver/index_body.tpl#L78)[`<->`](../src/subsilver/index_body.tpl#L78-L82)[`82`](../src/subsilver/index_body.tpl#L82)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`81`](../src/subsilver/index_body.tpl#L81)[`<->`](../src/subsilver/index_body.tpl#L81-L85)[`85`](../src/subsilver/index_body.tpl#L85)
 
 ### Version ModernBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`88`](../src/modernbb/index_box.tpl#L88)[`<->`](../src/modernbb/index_box.tpl#L88-L105)[`105`](../src/modernbb/index_box.tpl#L105)

@@ -17,8 +17,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`113`](../src/prosilver/viewtopic_body.tpl#L113)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`118`](../src/prosilver/viewtopic_body.tpl#L118)
 
 ### Version ModernBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`106`](../src/modernbb/viewtopic_body.tpl#L106)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`110`](../src/modernbb/viewtopic_body.tpl#L110)
 

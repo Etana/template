@@ -22,7 +22,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`37`](../src/prosilver/memberlist_body.tpl#L37)
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`63`](../src/prosilver/mentions_tooltip.tpl#L63)
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`39`](../src/prosilver/profile_view_body.tpl#L39)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/search_body.tpl#L61)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`69`](../src/prosilver/search_body.tpl#L69)
 
 ### Version phpBB2
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`43`](../src/subsilver/groupcp_info_body.tpl#L43)
@@ -31,7 +31,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`32`](../src/subsilver/memberlist_body.tpl#L32)
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`63`](../src/subsilver/mentions_tooltip.tpl#L63)
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`64`](../src/subsilver/profile_view_body.tpl#L64)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`77`](../src/subsilver/search_body.tpl#L77)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`88`](../src/subsilver/search_body.tpl#L88)
 
 ### Version ModernBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`54`](../src/modernbb/groupcp_info_body.tpl#L54)
@@ -40,7 +40,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`30`](../src/modernbb/memberlist_body.tpl#L30)
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`9`](../src/modernbb/mentions_tooltip.tpl#L9)
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`33`](../src/modernbb/profile_view_body.tpl#L33)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`57`](../src/modernbb/search_body.tpl#L57)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`65`](../src/modernbb/search_body.tpl#L65)
 
 ### Version PunBB
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`80`](../src/punbb/groupcp_info_body.tpl#L80)
@@ -49,7 +49,7 @@ Chaîne de texte.
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`70`](../src/punbb/memberlist_body.tpl#L70)
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`63`](../src/punbb/mentions_tooltip.tpl#L63)
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`47`](../src/punbb/profile_view_body.tpl#L47)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`72`](../src/punbb/search_body.tpl#L72)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`79`](../src/punbb/search_body.tpl#L79)
 
 ### Version Invision
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`56`](../src/invision/groupcp_info_body.tpl#L56)
@@ -57,7 +57,7 @@ Chaîne de texte.
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`16`](../src/invision/index_box.tpl#L16)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`99`](../src/invision/memberlist_body.tpl#L99)
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`63`](../src/invision/mentions_tooltip.tpl#L63)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`55`](../src/invision/search_body.tpl#L55)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`64`](../src/invision/search_body.tpl#L64)
 
 ### Version Version mobile
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`22`](../src/mobile/index_box.tpl#L22)

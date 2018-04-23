@@ -17,7 +17,7 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`135`](../src/prosilver/viewtopic_body.tpl#L135)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`140`](../src/prosilver/viewtopic_body.tpl#L140)
 
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`264`](../src/invision/viewtopic_body.tpl#L264)

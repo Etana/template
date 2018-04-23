@@ -13,17 +13,17 @@ Affiche la chatbox sur la page d'accueil en haut si l'option dans `PA > Modules 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`43`](../src/prosilver/index_body.tpl#L43)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/index_body.tpl#L46)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`61`](../src/subsilver/index_body.tpl#L61)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`64`](../src/subsilver/index_body.tpl#L64)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`36`](../src/modernbb/index_body.tpl#L36)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`39`](../src/modernbb/index_body.tpl#L39)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`59`](../src/punbb/index_body.tpl#L59)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`62`](../src/punbb/index_body.tpl#L62)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`44`](../src/invision/index_body.tpl#L44)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`47`](../src/invision/index_body.tpl#L47)
 

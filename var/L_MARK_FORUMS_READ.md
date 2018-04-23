@@ -18,7 +18,7 @@ Affiche le texte du lien de la variable [`{U_MARK_READ}`](../var/U_MARK_READ.md#
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`8`](../src/prosilver/index_box.tpl#L8)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`67`](../src/subsilver/index_body.tpl#L67)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`70`](../src/subsilver/index_body.tpl#L70)
 
 ### Version ModernBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`15`](../src/modernbb/index_box.tpl#L15)

@@ -15,19 +15,19 @@ Remplacé par l'identifiant numérique du sujet.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`96`](../src/prosilver/viewtopic_body.tpl#L96), [`345`](../src/prosilver/viewtopic_body.tpl#L345)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`96`](../src/prosilver/viewtopic_body.tpl#L96), [`355`](../src/prosilver/viewtopic_body.tpl#L355)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/subsilver/viewtopic_body.tpl#L89), [`459`](../src/subsilver/viewtopic_body.tpl#L459)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/subsilver/viewtopic_body.tpl#L89), [`469`](../src/subsilver/viewtopic_body.tpl#L469)
 
 ### Version ModernBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/modernbb/viewtopic_body.tpl#L89), [`154`](../src/modernbb/viewtopic_body.tpl#L154), [`359`](../src/modernbb/viewtopic_body.tpl#L359)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`89`](../src/modernbb/viewtopic_body.tpl#L89), [`158`](../src/modernbb/viewtopic_body.tpl#L158), [`367`](../src/modernbb/viewtopic_body.tpl#L367)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`51`](../src/punbb/viewtopic_body.tpl#L51), [`265`](../src/punbb/viewtopic_body.tpl#L265)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`51`](../src/punbb/viewtopic_body.tpl#L51), [`271`](../src/punbb/viewtopic_body.tpl#L271)
 
 ### Version Invision
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`97`](../src/invision/viewtopic_body.tpl#L97), [`302`](../src/invision/viewtopic_body.tpl#L302)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`97`](../src/invision/viewtopic_body.tpl#L97), [`304`](../src/invision/viewtopic_body.tpl#L304)
 
 ### Version Version mobile
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 

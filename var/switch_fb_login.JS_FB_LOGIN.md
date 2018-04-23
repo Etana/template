@@ -32,5 +32,5 @@ Contient le script de Facebook Connect si celui-ci est activé dans `PA > Module
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`33`](../src/invision/overall_header.tpl#L33)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`22`](../src/mobile/overall_header.tpl#L22)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`22`](../src/mobile/overall_header.tpl#L22), [`46`](../src/mobile/overall_header.tpl#L46)
 

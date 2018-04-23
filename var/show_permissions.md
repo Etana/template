@@ -18,11 +18,11 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`358`](../src/prosilver/viewtopic_body.tpl#L358)[`<->`](../src/prosilver/viewtopic_body.tpl#L358-L361)[`361`](../src/prosilver/viewtopic_body.tpl#L361)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`368`](../src/prosilver/viewtopic_body.tpl#L368)[`<->`](../src/prosilver/viewtopic_body.tpl#L368-L371)[`371`](../src/prosilver/viewtopic_body.tpl#L371)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`384`](../src/subsilver/viewtopic_body.tpl#L384)[`<->`](../src/subsilver/viewtopic_body.tpl#L384-L389)[`389`](../src/subsilver/viewtopic_body.tpl#L389), [`395`](../src/subsilver/viewtopic_body.tpl#L395)[`<->`](../src/subsilver/viewtopic_body.tpl#L395-L397)[`397`](../src/subsilver/viewtopic_body.tpl#L397)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`394`](../src/subsilver/viewtopic_body.tpl#L394)[`<->`](../src/subsilver/viewtopic_body.tpl#L394-L399)[`399`](../src/subsilver/viewtopic_body.tpl#L399), [`405`](../src/subsilver/viewtopic_body.tpl#L405)[`<->`](../src/subsilver/viewtopic_body.tpl#L405-L407)[`407`](../src/subsilver/viewtopic_body.tpl#L407)
 
 ### Version ModernBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`372`](../src/modernbb/viewtopic_body.tpl#L372)[`<->`](../src/modernbb/viewtopic_body.tpl#L372-L377)[`377`](../src/modernbb/viewtopic_body.tpl#L377)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`380`](../src/modernbb/viewtopic_body.tpl#L380)[`<->`](../src/modernbb/viewtopic_body.tpl#L380-L385)[`385`](../src/modernbb/viewtopic_body.tpl#L385)
 

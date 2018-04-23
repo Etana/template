@@ -46,7 +46,9 @@
 		</div>
 		<div class="mod-news-footer">
 			<a href="{post_row.U_VIEW_COMMENTS}" class="comments-num"><i class="ion-chatbubbles"></i>{L_COMMENTS}: {post_row.REPLIES}</a>
-			<a href="{post_row.U_READ_FULL}" rel="nofollow" class="rightside button1 read-more"><i class="ion-ios-book-outline"></i><span>{post_row.L_READ_FULL}</span></a>
+            <!-- BEGIN switch_link_readmore -->
+			<a href="{post_row.switch_link_readmore.U_READ_FULL}" rel="nofollow" class="rightside button1 read-more"><i class="ion-ios-book-outline"></i><span>{post_row.switch_link_readmore.L_READ_FULL}</span></a>
+            <!-- END switch_link_readmore -->
 		</div>
 	</div>
 <!-- END post_row -->

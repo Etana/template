@@ -18,17 +18,17 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`92`](../src/prosilver/mod_login.tpl#L92)[`<->`](../src/prosilver/mod_login.tpl#L92-L108)[`108`](../src/prosilver/mod_login.tpl#L108)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`98`](../src/prosilver/mod_login.tpl#L98)[`<->`](../src/prosilver/mod_login.tpl#L98-L114)[`114`](../src/prosilver/mod_login.tpl#L114)
 
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`101`](../src/subsilver/mod_login.tpl#L101)[`<->`](../src/subsilver/mod_login.tpl#L101-L125)[`125`](../src/subsilver/mod_login.tpl#L125)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`107`](../src/subsilver/mod_login.tpl#L107)[`<->`](../src/subsilver/mod_login.tpl#L107-L131)[`131`](../src/subsilver/mod_login.tpl#L131)
 
 ### Version ModernBB
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`64`](../src/modernbb/mod_login.tpl#L64)[`<->`](../src/modernbb/mod_login.tpl#L64-L76)[`76`](../src/modernbb/mod_login.tpl#L76)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`70`](../src/modernbb/mod_login.tpl#L70)[`<->`](../src/modernbb/mod_login.tpl#L70-L82)[`82`](../src/modernbb/mod_login.tpl#L82)
 
 ### Version PunBB
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`70`](../src/punbb/mod_login.tpl#L70)[`<->`](../src/punbb/mod_login.tpl#L70-L84)[`84`](../src/punbb/mod_login.tpl#L84)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`76`](../src/punbb/mod_login.tpl#L76)[`<->`](../src/punbb/mod_login.tpl#L76-L90)[`90`](../src/punbb/mod_login.tpl#L90)
 
 ### Version Invision
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`71`](../src/invision/mod_login.tpl#L71)[`<->`](../src/invision/mod_login.tpl#L71-L85)[`85`](../src/invision/mod_login.tpl#L85)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`77`](../src/invision/mod_login.tpl#L77)[`<->`](../src/invision/mod_login.tpl#L77-L91)[`91`](../src/invision/mod_login.tpl#L91)
 

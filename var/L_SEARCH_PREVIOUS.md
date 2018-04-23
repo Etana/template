@@ -16,20 +16,20 @@ Chaîne de texte.
 
 ### Version phpBB3
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`29`](../src/prosilver/album_formsearch_body.tpl#L29)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/search_body.tpl#L56)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`64`](../src/prosilver/search_body.tpl#L64)
 
 ### Version phpBB2
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`30`](../src/subsilver/album_formsearch_body.tpl#L30)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`64`](../src/subsilver/search_body.tpl#L64)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`75`](../src/subsilver/search_body.tpl#L75)
 
 ### Version ModernBB
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`29`](../src/modernbb/album_formsearch_body.tpl#L29)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`52`](../src/modernbb/search_body.tpl#L52)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`60`](../src/modernbb/search_body.tpl#L60)
 
 ### Version PunBB
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`40`](../src/punbb/album_formsearch_body.tpl#L40)
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`67`](../src/punbb/search_body.tpl#L67)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`74`](../src/punbb/search_body.tpl#L74)
 
 ### Version Invision
-* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`50`](../src/invision/search_body.tpl#L50)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`59`](../src/invision/search_body.tpl#L59)
 

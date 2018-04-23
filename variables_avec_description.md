@@ -186,8 +186,6 @@
 * [`{L_REMOVE_SELECTED}`](var/L_REMOVE_SELECTED.md#readme)
 * [`{L_REPLIES}`](var/L_REPLIES.md#readme)
 * [`{L_SEARCH}`](var/L_SEARCH.md#readme)
-* [`{L_SEARCH_ALL_TERMS}`](var/L_SEARCH_ALL_TERMS.md#readme)
-* [`{L_SEARCH_ANY_TERMS}`](var/L_SEARCH_ANY_TERMS.md#readme)
 * [`{L_SEARCH_AUTHOR}`](var/L_SEARCH_AUTHOR.md#readme)
 * [`{L_SEARCH_KEYWORDS}`](var/L_SEARCH_KEYWORDS.md#readme)
 * [`{L_SEARCH_MATCHES}`](var/L_SEARCH_MATCHES.md#readme)

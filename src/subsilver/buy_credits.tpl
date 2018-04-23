@@ -161,7 +161,7 @@
 							<form action="{S_CREDITS_ADD_ACTION}" method="post" name="post">
 								<input type="hidden" name="pay_method" value="{PAY_METHOD}" />
 								<input type="hidden" name="currency" value="{CURRENCY}" />
-								<input class="post" type="text" name="sum_selected" /> &nbsp;&nbsp; <input class="liteoption" type="submit" name="sub_paypal_field" value="{L_SUBMIT}" />
+								<input class="post" type="text" name="sum_selected" maxlength="5" /> &nbsp;&nbsp; <input class="liteoption" type="submit" name="sub_paypal_field" value="{L_SUBMIT}" />
 							</form>
 						</td>
 					</tr>

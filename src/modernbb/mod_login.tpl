@@ -18,6 +18,9 @@
                 <!-- BEGIN fb_connect -->
                 <div class="fb-login-button"></div>
                 <!-- END fb_connect -->
+                <!-- BEGIN topicit_connect -->
+                <div class="ti-connect"></div>
+                <!-- END topicit_connect -->
             </div>
         </div>
         <!-- END switch_social_login -->
@@ -40,6 +43,9 @@
                 <!-- BEGIN fb_connect -->
                 <div class="fb-login-button"></div>
                 <!-- END fb_connect -->
+                <!-- BEGIN topicit_connect -->
+                <div class="ti-connect"></div>
+                <!-- END topicit_connect -->
             </div>
         </div>
         <!-- END switch_social_login -->

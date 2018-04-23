@@ -17,16 +17,16 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`123`](../src/prosilver/viewtopic_body.tpl#L123), [`123`](../src/prosilver/viewtopic_body.tpl#L123), [`125`](../src/prosilver/viewtopic_body.tpl#L125), [`209`](../src/prosilver/viewtopic_body.tpl#L209), [`213`](../src/prosilver/viewtopic_body.tpl#L213)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`128`](../src/prosilver/viewtopic_body.tpl#L128), [`128`](../src/prosilver/viewtopic_body.tpl#L128), [`130`](../src/prosilver/viewtopic_body.tpl#L130), [`214`](../src/prosilver/viewtopic_body.tpl#L214), [`218`](../src/prosilver/viewtopic_body.tpl#L218)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`129`](../src/subsilver/viewtopic_body.tpl#L129), [`129`](../src/subsilver/viewtopic_body.tpl#L129), [`131`](../src/subsilver/viewtopic_body.tpl#L131), [`131`](../src/subsilver/viewtopic_body.tpl#L131), [`240`](../src/subsilver/viewtopic_body.tpl#L240)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`134`](../src/subsilver/viewtopic_body.tpl#L134), [`134`](../src/subsilver/viewtopic_body.tpl#L134), [`136`](../src/subsilver/viewtopic_body.tpl#L136), [`136`](../src/subsilver/viewtopic_body.tpl#L136), [`245`](../src/subsilver/viewtopic_body.tpl#L245)
 
 ### Version ModernBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`111`](../src/modernbb/viewtopic_body.tpl#L111), [`111`](../src/modernbb/viewtopic_body.tpl#L111), [`112`](../src/modernbb/viewtopic_body.tpl#L112), [`113`](../src/modernbb/viewtopic_body.tpl#L113), [`154`](../src/modernbb/viewtopic_body.tpl#L154), [`265`](../src/modernbb/viewtopic_body.tpl#L265)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`115`](../src/modernbb/viewtopic_body.tpl#L115), [`115`](../src/modernbb/viewtopic_body.tpl#L115), [`116`](../src/modernbb/viewtopic_body.tpl#L116), [`117`](../src/modernbb/viewtopic_body.tpl#L117), [`158`](../src/modernbb/viewtopic_body.tpl#L158), [`269`](../src/modernbb/viewtopic_body.tpl#L269)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`129`](../src/punbb/viewtopic_body.tpl#L129), [`130`](../src/punbb/viewtopic_body.tpl#L130), [`130`](../src/punbb/viewtopic_body.tpl#L130), [`132`](../src/punbb/viewtopic_body.tpl#L132)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`132`](../src/punbb/viewtopic_body.tpl#L132), [`133`](../src/punbb/viewtopic_body.tpl#L133), [`133`](../src/punbb/viewtopic_body.tpl#L133), [`135`](../src/punbb/viewtopic_body.tpl#L135)
 
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`118`](../src/invision/viewtopic_body.tpl#L118), [`118`](../src/invision/viewtopic_body.tpl#L118), [`121`](../src/invision/viewtopic_body.tpl#L121), [`128`](../src/invision/viewtopic_body.tpl#L128), [`176`](../src/invision/viewtopic_body.tpl#L176), [`254`](../src/invision/viewtopic_body.tpl#L254)

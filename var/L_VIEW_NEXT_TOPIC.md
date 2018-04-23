@@ -19,14 +19,14 @@ Remplacé par un code html avec l'image `Voir le sujet suivant` spécifiée dans
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`107`](../src/prosilver/viewtopic_body.tpl#L107), [`252`](../src/prosilver/viewtopic_body.tpl#L252)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/prosilver/viewtopic_body.tpl#L109), [`259`](../src/prosilver/viewtopic_body.tpl#L259)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`107`](../src/subsilver/viewtopic_body.tpl#L107), [`278`](../src/subsilver/viewtopic_body.tpl#L278)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/subsilver/viewtopic_body.tpl#L109), [`285`](../src/subsilver/viewtopic_body.tpl#L285)
 
 ### Version ModernBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`99`](../src/modernbb/viewtopic_body.tpl#L99), [`280`](../src/modernbb/viewtopic_body.tpl#L280)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`102`](../src/modernbb/viewtopic_body.tpl#L102), [`287`](../src/modernbb/viewtopic_body.tpl#L287)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`116`](../src/punbb/viewtopic_body.tpl#L116), [`261`](../src/punbb/viewtopic_body.tpl#L261)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`117`](../src/punbb/viewtopic_body.tpl#L117), [`265`](../src/punbb/viewtopic_body.tpl#L265)
 

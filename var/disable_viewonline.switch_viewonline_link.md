@@ -20,17 +20,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`48`](../src/prosilver/index_body.tpl#L48)[`<->`](../src/prosilver/index_body.tpl#L48-L50)[`50`](../src/prosilver/index_body.tpl#L50)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`51`](../src/prosilver/index_body.tpl#L51)[`<->`](../src/prosilver/index_body.tpl#L51-L53)[`53`](../src/prosilver/index_body.tpl#L53)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`134`](../src/subsilver/index_body.tpl#L134)[`<->`](../src/subsilver/index_body.tpl#L134-L136)[`136`](../src/subsilver/index_body.tpl#L136)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`140`](../src/subsilver/index_body.tpl#L140)[`<->`](../src/subsilver/index_body.tpl#L140-L142)[`142`](../src/subsilver/index_body.tpl#L142)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`42`](../src/modernbb/index_body.tpl#L42)[`<->`](../src/modernbb/index_body.tpl#L42-L44)[`44`](../src/modernbb/index_body.tpl#L44)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`45`](../src/modernbb/index_body.tpl#L45)[`<->`](../src/modernbb/index_body.tpl#L45-L47)[`47`](../src/modernbb/index_body.tpl#L47)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`73`](../src/punbb/index_body.tpl#L73)[`<->`](../src/punbb/index_body.tpl#L73-L75)[`75`](../src/punbb/index_body.tpl#L75)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`76`](../src/punbb/index_body.tpl#L76)[`<->`](../src/punbb/index_body.tpl#L76-L78)[`78`](../src/punbb/index_body.tpl#L78)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`77`](../src/invision/index_body.tpl#L77)[`<->`](../src/invision/index_body.tpl#L77-L79)[`79`](../src/invision/index_body.tpl#L79)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`80`](../src/invision/index_body.tpl#L80)[`<->`](../src/invision/index_body.tpl#L80-L82)[`82`](../src/invision/index_body.tpl#L82)
 

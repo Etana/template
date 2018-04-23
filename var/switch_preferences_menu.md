@@ -13,6 +13,7 @@ contenu sur lequel on boucle
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_preferences_menu)
 
 ## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN display_newsletter_auto -->`](../var/switch_preferences_menu.display_newsletter_auto.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.display_newsletter_auto))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_can_disable_mass_pm -->`](../var/switch_preferences_menu.switch_can_disable_mass_pm.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_can_disable_mass_pm))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_enable_mail_view -->`](../var/switch_preferences_menu.switch_enable_mail_view.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_enable_mail_view))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_fb_connect -->`](../var/switch_preferences_menu.switch_fb_connect.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_preferences_menu.switch_fb_connect))__
@@ -41,17 +42,17 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`152`](../src/prosilver/profile_add_body.tpl#L152)[`<->`](../src/prosilver/profile_add_body.tpl#L152-L324)[`324`](../src/prosilver/profile_add_body.tpl#L324)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`152`](../src/prosilver/profile_add_body.tpl#L152)[`<->`](../src/prosilver/profile_add_body.tpl#L152-L334)[`334`](../src/prosilver/profile_add_body.tpl#L334)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`123`](../src/subsilver/profile_add_body.tpl#L123)[`<->`](../src/subsilver/profile_add_body.tpl#L123-L289)[`289`](../src/subsilver/profile_add_body.tpl#L289)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`123`](../src/subsilver/profile_add_body.tpl#L123)[`<->`](../src/subsilver/profile_add_body.tpl#L123-L298)[`298`](../src/subsilver/profile_add_body.tpl#L298)
 
 ### Version ModernBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`152`](../src/modernbb/profile_add_body.tpl#L152)[`<->`](../src/modernbb/profile_add_body.tpl#L152-L324)[`324`](../src/modernbb/profile_add_body.tpl#L324)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`152`](../src/modernbb/profile_add_body.tpl#L152)[`<->`](../src/modernbb/profile_add_body.tpl#L152-L334)[`334`](../src/modernbb/profile_add_body.tpl#L334)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`172`](../src/punbb/profile_add_body.tpl#L172)[`<->`](../src/punbb/profile_add_body.tpl#L172-L329)[`329`](../src/punbb/profile_add_body.tpl#L329)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`172`](../src/punbb/profile_add_body.tpl#L172)[`<->`](../src/punbb/profile_add_body.tpl#L172-L338)[`338`](../src/punbb/profile_add_body.tpl#L338)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`196`](../src/invision/profile_add_body.tpl#L196)[`<->`](../src/invision/profile_add_body.tpl#L196-L403)[`403`](../src/invision/profile_add_body.tpl#L403)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`196`](../src/invision/profile_add_body.tpl#L196)[`<->`](../src/invision/profile_add_body.tpl#L196-L414)[`414`](../src/invision/profile_add_body.tpl#L414)
 

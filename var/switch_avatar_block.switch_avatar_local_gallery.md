@@ -20,17 +20,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`385`](../src/prosilver/profile_add_body.tpl#L385)[`<->`](../src/prosilver/profile_add_body.tpl#L385-L390)[`390`](../src/prosilver/profile_add_body.tpl#L390)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`395`](../src/prosilver/profile_add_body.tpl#L395)[`<->`](../src/prosilver/profile_add_body.tpl#L395-L400)[`400`](../src/prosilver/profile_add_body.tpl#L400)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`345`](../src/subsilver/profile_add_body.tpl#L345)[`<->`](../src/subsilver/profile_add_body.tpl#L345-L350)[`350`](../src/subsilver/profile_add_body.tpl#L350)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`354`](../src/subsilver/profile_add_body.tpl#L354)[`<->`](../src/subsilver/profile_add_body.tpl#L354-L359)[`359`](../src/subsilver/profile_add_body.tpl#L359)
 
 ### Version ModernBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`385`](../src/modernbb/profile_add_body.tpl#L385)[`<->`](../src/modernbb/profile_add_body.tpl#L385-L390)[`390`](../src/modernbb/profile_add_body.tpl#L390)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`395`](../src/modernbb/profile_add_body.tpl#L395)[`<->`](../src/modernbb/profile_add_body.tpl#L395-L400)[`400`](../src/modernbb/profile_add_body.tpl#L400)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`389`](../src/punbb/profile_add_body.tpl#L389)[`<->`](../src/punbb/profile_add_body.tpl#L389-L394)[`394`](../src/punbb/profile_add_body.tpl#L394)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`398`](../src/punbb/profile_add_body.tpl#L398)[`<->`](../src/punbb/profile_add_body.tpl#L398-L403)[`403`](../src/punbb/profile_add_body.tpl#L403)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`464`](../src/invision/profile_add_body.tpl#L464)[`<->`](../src/invision/profile_add_body.tpl#L464-L469)[`469`](../src/invision/profile_add_body.tpl#L469)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`475`](../src/invision/profile_add_body.tpl#L475)[`<->`](../src/invision/profile_add_body.tpl#L475-L480)[`480`](../src/invision/profile_add_body.tpl#L480)
 

@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`113`](../src/subsilver/mod_login.tpl#L113), [`114`](../src/subsilver/mod_login.tpl#L114), [`114`](../src/subsilver/mod_login.tpl#L114)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`119`](../src/subsilver/mod_login.tpl#L119), [`120`](../src/subsilver/mod_login.tpl#L120), [`120`](../src/subsilver/mod_login.tpl#L120)
 

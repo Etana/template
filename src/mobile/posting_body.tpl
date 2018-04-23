@@ -1,11 +1,13 @@
 {INLINE_MESSAGE}
 <div class="box">
+    <a class="btn btn-black btn-mini right" onclick="{A_UPLOAD_FUNCTION}">{L_UPLOAD}</a>
+    <div class="clear"></div>
 	<form action="{S_POST_ACTION}" method="post" name="post" enctype="multipart/form-data">
 		<!-- BEGIN switch_username_select -->
 		<input type="text" name="username" placeholder="{L_USERNAME}" value="{USERNAME}" maxlength="25" tabindex="1" onkeypress="if(event.keyCode==13) { return false; }" class="input-subtle" />
 		<!-- END switch_username_select -->
 		<input type="text" name="subject" placeholder="{L_SUBJECT}" value="{SUBJECT}" maxlength="{TOPIC_TITLE_MAXLENGTH}" tabindex="1" title="{TOPIC_TITLE_LENGTH_EXPLAIN}" onkeypress="if(event.keyCode==13) { return false; }" class="input-subtle" />
-		<textarea class="input-subtle" name="message" placeholder="{L_MESSAGE_BODY}" id="text_editor_textarea" tabindex="2">{MESSAGE}</textarea>
+		<textarea class="input-subtle" name="message" placeholder="{L_MESSAGE_BODY}" id="text_editor_textarea" tabindex="2" rows="10">{MESSAGE}</textarea>
 		<input type="submit" name="post" class="btn" value="{L_SUBMIT}" tabindex="3" accesskey="s" />
 		<input type="hidden" name="lt" value="{LAST_TOPIC_ID}" />
 		<input type="hidden" name="notify" value="on" />

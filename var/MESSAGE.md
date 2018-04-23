@@ -45,5 +45,5 @@
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`49`](../src/invision/profile_send_email.tpl#L49)
 
 ### Version Version mobile
-* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`8`](../src/mobile/posting_body.tpl#L8)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`10`](../src/mobile/posting_body.tpl#L10)
 

@@ -16,5 +16,5 @@
 
 ### Version phpBB2
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`118`](../src/subsilver/album_index_body.tpl#L118)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`444`](../src/subsilver/viewtopic_body.tpl#L444)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`454`](../src/subsilver/viewtopic_body.tpl#L454)
 

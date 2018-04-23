@@ -1,4 +1,4 @@
-# Template overall_footer_end (x 19)
+# Template overall_footer_end (x 25)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -45,6 +45,13 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)
+	* [`<!-- BEGIN switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect))
+	* [`<!-- END switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect))
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LANG}`](../var/switch_topicit_connect.BOARD_LANG.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect.BOARD_LANG))
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LOGIN}`](../var/switch_topicit_connect.BOARD_LOGIN.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect.BOARD_LOGIN))
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_ENDPOINT}`](../var/switch_topicit_connect.TOPICIT_ENDPOINT.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect.TOPICIT_ENDPOINT))
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_URL}`](../var/switch_topicit_connect.TOPICIT_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect.TOPICIT_URL))
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_VERSION}`](../var/switch_topicit_connect.TOPICIT_VERSION.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect.TOPICIT_VERSION))
 
 ## Template par défaut phpBB3
 
@@ -84,6 +91,13 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__ __:__ ligne [`22`](../src/prosilver/overall_footer_end.tpl#L22)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`21`](../src/prosilver/overall_footer_end.tpl#L21)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`21`](../src/prosilver/overall_footer_end.tpl#L21)
+* __[`<!-- BEGIN switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`81`](../src/prosilver/overall_footer_end.tpl#L81)
+* __[`<!-- END switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`100`](../src/prosilver/overall_footer_end.tpl#L100)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LANG}`](../var/switch_topicit_connect.BOARD_LANG.md#readme)__ __:__ ligne [`88`](../src/prosilver/overall_footer_end.tpl#L88)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LOGIN}`](../var/switch_topicit_connect.BOARD_LOGIN.md#readme)__ __:__ ligne [`86`](../src/prosilver/overall_footer_end.tpl#L86)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_ENDPOINT}`](../var/switch_topicit_connect.TOPICIT_ENDPOINT.md#readme)__ __:__ ligne [`95`](../src/prosilver/overall_footer_end.tpl#L95)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_URL}`](../var/switch_topicit_connect.TOPICIT_URL.md#readme)__ __:__ ligne [`85`](../src/prosilver/overall_footer_end.tpl#L85)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_VERSION}`](../var/switch_topicit_connect.TOPICIT_VERSION.md#readme)__ __:__ ligne [`87`](../src/prosilver/overall_footer_end.tpl#L87)
 
 ## Template par défaut phpBB2
 
@@ -121,6 +135,13 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__ __:__ ligne [`19`](../src/subsilver/overall_footer_end.tpl#L19)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`18`](../src/subsilver/overall_footer_end.tpl#L18)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`18`](../src/subsilver/overall_footer_end.tpl#L18)
+* __[`<!-- BEGIN switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`71`](../src/subsilver/overall_footer_end.tpl#L71)
+* __[`<!-- END switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`90`](../src/subsilver/overall_footer_end.tpl#L90)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LANG}`](../var/switch_topicit_connect.BOARD_LANG.md#readme)__ __:__ ligne [`78`](../src/subsilver/overall_footer_end.tpl#L78)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LOGIN}`](../var/switch_topicit_connect.BOARD_LOGIN.md#readme)__ __:__ ligne [`76`](../src/subsilver/overall_footer_end.tpl#L76)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_ENDPOINT}`](../var/switch_topicit_connect.TOPICIT_ENDPOINT.md#readme)__ __:__ ligne [`85`](../src/subsilver/overall_footer_end.tpl#L85)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_URL}`](../var/switch_topicit_connect.TOPICIT_URL.md#readme)__ __:__ ligne [`75`](../src/subsilver/overall_footer_end.tpl#L75)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_VERSION}`](../var/switch_topicit_connect.TOPICIT_VERSION.md#readme)__ __:__ ligne [`77`](../src/subsilver/overall_footer_end.tpl#L77)
 
 ## Template par défaut ModernBB
 
@@ -158,6 +179,13 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.L_FOOTER_LINK_TEXT}`](../var/switch_footer_links.footer_link.L_FOOTER_LINK_TEXT.md#readme)__ __:__ ligne [`18`](../src/modernbb/overall_footer_end.tpl#L18)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.L_FOOTER_LINK_TITLE}`](../var/switch_footer_links.footer_link.L_FOOTER_LINK_TITLE.md#readme)__ __:__ ligne [`17`](../src/modernbb/overall_footer_end.tpl#L17)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__ __:__ ligne [`17`](../src/modernbb/overall_footer_end.tpl#L17)
+* __[`<!-- BEGIN switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`99`](../src/modernbb/overall_footer_end.tpl#L99)
+* __[`<!-- END switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`118`](../src/modernbb/overall_footer_end.tpl#L118)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LANG}`](../var/switch_topicit_connect.BOARD_LANG.md#readme)__ __:__ ligne [`106`](../src/modernbb/overall_footer_end.tpl#L106)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LOGIN}`](../var/switch_topicit_connect.BOARD_LOGIN.md#readme)__ __:__ ligne [`104`](../src/modernbb/overall_footer_end.tpl#L104)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_ENDPOINT}`](../var/switch_topicit_connect.TOPICIT_ENDPOINT.md#readme)__ __:__ ligne [`113`](../src/modernbb/overall_footer_end.tpl#L113)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_URL}`](../var/switch_topicit_connect.TOPICIT_URL.md#readme)__ __:__ ligne [`103`](../src/modernbb/overall_footer_end.tpl#L103)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_VERSION}`](../var/switch_topicit_connect.TOPICIT_VERSION.md#readme)__ __:__ ligne [`105`](../src/modernbb/overall_footer_end.tpl#L105)
 
 ## Template par défaut PunBB
 
@@ -197,6 +225,13 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__ __:__ ligne [`21`](../src/punbb/overall_footer_end.tpl#L21)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`20`](../src/punbb/overall_footer_end.tpl#L20)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`20`](../src/punbb/overall_footer_end.tpl#L20)
+* __[`<!-- BEGIN switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`79`](../src/punbb/overall_footer_end.tpl#L79)
+* __[`<!-- END switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`98`](../src/punbb/overall_footer_end.tpl#L98)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LANG}`](../var/switch_topicit_connect.BOARD_LANG.md#readme)__ __:__ ligne [`86`](../src/punbb/overall_footer_end.tpl#L86)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LOGIN}`](../var/switch_topicit_connect.BOARD_LOGIN.md#readme)__ __:__ ligne [`84`](../src/punbb/overall_footer_end.tpl#L84)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_ENDPOINT}`](../var/switch_topicit_connect.TOPICIT_ENDPOINT.md#readme)__ __:__ ligne [`93`](../src/punbb/overall_footer_end.tpl#L93)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_URL}`](../var/switch_topicit_connect.TOPICIT_URL.md#readme)__ __:__ ligne [`83`](../src/punbb/overall_footer_end.tpl#L83)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_VERSION}`](../var/switch_topicit_connect.TOPICIT_VERSION.md#readme)__ __:__ ligne [`85`](../src/punbb/overall_footer_end.tpl#L85)
 
 ## Template par défaut Invision
 
@@ -236,3 +271,10 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_footer_links.footer_link.U_FOOTER_LINK_HREF}`](../var/switch_footer_links.footer_link.U_FOOTER_LINK_HREF.md#readme)__ __:__ ligne [`23`](../src/invision/overall_footer_end.tpl#L23)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`22`](../src/invision/overall_footer_end.tpl#L22)
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_separator -->`](../var/switch_footer_links.footer_link.switch_separator.md#readme)__ __:__ ligne [`22`](../src/invision/overall_footer_end.tpl#L22)
+* __[`<!-- BEGIN switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`85`](../src/invision/overall_footer_end.tpl#L85)
+* __[`<!-- END switch_topicit_connect -->`](../var/switch_topicit_connect.md#readme)__ __:__ ligne [`104`](../src/invision/overall_footer_end.tpl#L104)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LANG}`](../var/switch_topicit_connect.BOARD_LANG.md#readme)__ __:__ ligne [`92`](../src/invision/overall_footer_end.tpl#L92)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.BOARD_LOGIN}`](../var/switch_topicit_connect.BOARD_LOGIN.md#readme)__ __:__ ligne [`90`](../src/invision/overall_footer_end.tpl#L90)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_ENDPOINT}`](../var/switch_topicit_connect.TOPICIT_ENDPOINT.md#readme)__ __:__ ligne [`99`](../src/invision/overall_footer_end.tpl#L99)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_URL}`](../var/switch_topicit_connect.TOPICIT_URL.md#readme)__ __:__ ligne [`89`](../src/invision/overall_footer_end.tpl#L89)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_VERSION}`](../var/switch_topicit_connect.TOPICIT_VERSION.md#readme)__ __:__ ligne [`91`](../src/invision/overall_footer_end.tpl#L91)

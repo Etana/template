@@ -20,14 +20,14 @@ Lien de l'image spécifiée dans `Général / navigation > Qui est en ligne ?`.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/index_body.tpl#L56)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`59`](../src/prosilver/index_body.tpl#L59)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`144`](../src/subsilver/index_body.tpl#L144)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`150`](../src/subsilver/index_body.tpl#L150)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`71`](../src/punbb/index_body.tpl#L71)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`74`](../src/punbb/index_body.tpl#L74)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`86`](../src/invision/index_body.tpl#L86)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`89`](../src/invision/index_body.tpl#L89)
 

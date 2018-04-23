@@ -26,11 +26,11 @@ Nos membres ont posté un total de <strong>2</strong> messages
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`82`](../src/prosilver/index_body.tpl#L82)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`85`](../src/prosilver/index_body.tpl#L85)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_statistics.tpl#L6)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`145`](../src/subsilver/index_body.tpl#L145)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`151`](../src/subsilver/index_body.tpl#L151)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`9`](../src/subsilver/mod_statistics.tpl#L9)
 
 ### Version ModernBB
@@ -38,10 +38,10 @@ Nos membres ont posté un total de <strong>2</strong> messages
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`41`](../src/modernbb/overall_footer_begin.tpl#L41)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`66`](../src/punbb/index_body.tpl#L66)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`69`](../src/punbb/index_body.tpl#L69)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`5`](../src/punbb/mod_statistics.tpl#L5)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`130`](../src/invision/index_body.tpl#L130)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`133`](../src/invision/index_body.tpl#L133)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`4`](../src/invision/mod_statistics.tpl#L4)
 

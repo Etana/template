@@ -14,15 +14,15 @@
 
 ### Version phpBB3
 * __[`mod_poll`](../tpl/mod_poll.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_poll.tpl#L6)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/prosilver/viewtopic_body.tpl#L109)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`114`](../src/prosilver/viewtopic_body.tpl#L114)
 
 ### Version phpBB2
 * __[`mod_poll`](../tpl/mod_poll.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_poll.tpl#L10)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`117`](../src/subsilver/viewtopic_body.tpl#L117)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`122`](../src/subsilver/viewtopic_body.tpl#L122)
 
 ### Version ModernBB
 * __[`mod_poll`](../tpl/mod_poll.md#readme)__ __:__ lignes [`5`](../src/modernbb/mod_poll.tpl#L5)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`102`](../src/modernbb/viewtopic_body.tpl#L102)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`106`](../src/modernbb/viewtopic_body.tpl#L106)
 
 ### Version PunBB
 * __[`mod_poll`](../tpl/mod_poll.md#readme)__ __:__ lignes [`7`](../src/punbb/mod_poll.tpl#L7)

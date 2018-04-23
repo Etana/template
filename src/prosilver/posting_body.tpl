@@ -407,7 +407,7 @@
 <div id="find_username" class="jqmWindow"></div>
 <div id="group_pm_explain" class="jqmWindow"></div>
 
-<script src="{JS_DIR}jquery/jqmodal/jqmodal.js" type="text/javascript"></script>
+<script src="{JQUERY_DIR}jqmodal/jqmodal.js" type="text/javascript"></script>
 <!-- END switch_privmsg -->
 <script type="text/javascript">
 //<![CDATA[

@@ -44,11 +44,18 @@
 					<input type="hidden" name="cof" value="GALT:#{T_GOO_LINK};GL:1;DIV:#{T_TD_COLOR1};VLC:#{T_VISITED_LINK};AH:center;BGC:#{T_TR_COLOR1};LBGC:#{T_TD_COLOR1};ALC:#{T_ACTIVE_LINK};LC:#{T_GOO_LINK};T:#{T_GOO_TEXT};GFNT:#{T_GOO_LINK};GIMP:#{T_GOO_LINK};FORID:11" />
 					&nbsp;<input type="button" value="{L_SEARCH} Google" onclick="document.searchform.action='{U_GOOGLERESULTS}';document.searchform.q.value=document.searchform.search_keywords.value;document.searchform.submit()" />
 				</dd>
-				<dd><label for="any"><input id="any" type="radio" name="search_terms" value="any" checked="checked" /> {L_SEARCH_ANY_TERMS}</label></dd>
-				<dd><label for="all"><input id="all" type="radio" name="search_terms" value="all" /> {L_SEARCH_ALL_TERMS}</label></dd>
-                                <!-- BEGIN TAGS -->
-				<dd><label for="rtags"><input id="rtags" type="checkbox" name="is_tag" value="true" /> {TAGS.L_SEARCH_TAGS}</label></dd>
-                                <!-- END TAGS -->
+                <!-- BEGIN switch_search_full_text -->
+                <dd><label for="text"><input id="text" type="radio" name="search_by" value="text" checked="checked" /> {switch_search_full_text.L_SEARCH_BY_TEXT}</label></dd>
+                <dd><label for="subject"><input id="subject" type="radio" name="search_by" value="subject" /> {switch_search_full_text.L_SEARCH_BY_SUBJECT}</label></dd>
+                <!-- END switch_search_full_text -->
+                <!-- BEGIN switch_search_terms -->
+				<dd><label for="any"><input id="any" type="radio" name="search_terms" value="any" checked="checked" /> {switch_search_terms.L_SEARCH_ANY_TERMS}</label></dd>
+				<dd><label for="all"><input id="all" type="radio" name="search_terms" value="all" /> {switch_search_terms.L_SEARCH_ALL_TERMS}</label></dd>
+                <!-- END switch_search_terms -->
+
+                <!-- BEGIN TAGS -->
+                <dd><label for="rtags"><input id="rtags" type="checkbox" name="is_tag" value="true" /> {TAGS.L_SEARCH_TAGS}</label></dd>
+                <!-- END TAGS -->
 			</dl>
 			<dl>
 				<dt><label>{L_SEARCH_AUTHOR}:</label></dt>

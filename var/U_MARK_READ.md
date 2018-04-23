@@ -19,7 +19,7 @@ Lien vers marquer tous les forums comme lus.
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/prosilver/viewforum_body.tpl#L11), [`57`](../src/prosilver/viewforum_body.tpl#L57)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`67`](../src/subsilver/index_body.tpl#L67)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`70`](../src/subsilver/index_body.tpl#L70)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`34`](../src/subsilver/viewforum_body.tpl#L34), [`64`](../src/subsilver/viewforum_body.tpl#L64)
 
 ### Version ModernBB

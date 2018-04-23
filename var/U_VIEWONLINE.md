@@ -20,22 +20,22 @@ Adresse url absolue vers la page "qui est en ligne".
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`49`](../src/prosilver/index_body.tpl#L49)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`52`](../src/prosilver/index_body.tpl#L52)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`8`](../src/prosilver/mod_whoisonline.tpl#L8)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`135`](../src/subsilver/index_body.tpl#L135)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`141`](../src/subsilver/index_body.tpl#L141)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`15`](../src/subsilver/mod_whoisonline.tpl#L15)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`43`](../src/modernbb/index_body.tpl#L43)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`46`](../src/modernbb/index_body.tpl#L46)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`6`](../src/modernbb/mod_whoisonline.tpl#L6)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`74`](../src/punbb/index_body.tpl#L74)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`77`](../src/punbb/index_body.tpl#L77)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`7`](../src/punbb/mod_whoisonline.tpl#L7)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`78`](../src/invision/index_body.tpl#L78), [`86`](../src/invision/index_body.tpl#L86), [`88`](../src/invision/index_body.tpl#L88)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`81`](../src/invision/index_body.tpl#L81), [`89`](../src/invision/index_body.tpl#L89), [`91`](../src/invision/index_body.tpl#L91)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`8`](../src/invision/mod_whoisonline.tpl#L8)
 

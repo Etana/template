@@ -13,17 +13,17 @@ Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion d
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`134`](../src/prosilver/index_body.tpl#L134)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`140`](../src/prosilver/index_body.tpl#L140)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`184`](../src/subsilver/index_body.tpl#L184)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`190`](../src/subsilver/index_body.tpl#L190)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`104`](../src/modernbb/index_body.tpl#L104)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`110`](../src/modernbb/index_body.tpl#L110)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`139`](../src/punbb/index_body.tpl#L139)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`145`](../src/punbb/index_body.tpl#L145)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`167`](../src/invision/index_body.tpl#L167)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`170`](../src/invision/index_body.tpl#L170)
 

@@ -23,7 +23,7 @@ Affiche le fil d’Ariane.
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`6`](../src/prosilver/modcp_move.tpl#L6)
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`6`](../src/prosilver/modcp_split.tpl#L6)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`42`](../src/prosilver/viewforum_body.tpl#L42)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/viewtopic_body.tpl#L61), [`325`](../src/prosilver/viewtopic_body.tpl#L325)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/viewtopic_body.tpl#L61), [`335`](../src/prosilver/viewtopic_body.tpl#L335)
 
 ### Version phpBB2
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`12`](../src/subsilver/album_cat_body.tpl#L12), [`209`](../src/subsilver/album_cat_body.tpl#L209), [`226`](../src/subsilver/album_cat_body.tpl#L226)
@@ -86,7 +86,7 @@ Affiche le fil d’Ariane.
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`19`](../src/punbb/search_results_posts.tpl#L19)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`18`](../src/punbb/search_results_topics.tpl#L18)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`50`](../src/punbb/viewforum_body.tpl#L50)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`74`](../src/punbb/viewtopic_body.tpl#L74), [`297`](../src/punbb/viewtopic_body.tpl#L297)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`74`](../src/punbb/viewtopic_body.tpl#L74), [`303`](../src/punbb/viewtopic_body.tpl#L303)
 
 ### Version Invision
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`3`](../src/invision/agreement.tpl#L3)
@@ -120,5 +120,5 @@ Affiche le fil d’Ariane.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`43`](../src/invision/viewtopic_body.tpl#L43)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`49`](../src/mobile/overall_header.tpl#L49)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`54`](../src/mobile/overall_header.tpl#L54)
 

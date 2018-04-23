@@ -21,13 +21,13 @@ Boucle contenant le texte du message d'accueil.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`36`](../src/prosilver/index_body.tpl#L36)[`<->`](../src/prosilver/index_body.tpl#L36-L38)[`38`](../src/prosilver/index_body.tpl#L38)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`39`](../src/prosilver/index_body.tpl#L39)[`<->`](../src/prosilver/index_body.tpl#L39-L41)[`41`](../src/prosilver/index_body.tpl#L41)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`9`](../src/subsilver/index_body.tpl#L9)[`<->`](../src/subsilver/index_body.tpl#L9-L15)[`15`](../src/subsilver/index_body.tpl#L15)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`30`](../src/modernbb/index_body.tpl#L30)[`<->`](../src/modernbb/index_body.tpl#L30-L32)[`32`](../src/modernbb/index_body.tpl#L32)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`33`](../src/modernbb/index_body.tpl#L33)[`<->`](../src/modernbb/index_body.tpl#L33-L35)[`35`](../src/modernbb/index_body.tpl#L35)
 
 ### Version PunBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`27`](../src/punbb/index_body.tpl#L27)[`<->`](../src/punbb/index_body.tpl#L27-L31)[`31`](../src/punbb/index_body.tpl#L31)

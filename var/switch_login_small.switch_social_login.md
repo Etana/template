@@ -17,22 +17,23 @@
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN fb_connect -->`](../var/switch_login_small.switch_social_login.fb_connect.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_login_small.switch_social_login.fb_connect))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_login_small.switch_social_login.L_OR}`](../var/switch_login_small.switch_social_login.L_OR.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_login_small.switch_social_login.L_OR))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN topicit_connect -->`](../var/switch_login_small.switch_social_login.topicit_connect.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_login_small.switch_social_login.topicit_connect))__
 
 
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`61`](../src/prosilver/mod_login.tpl#L61)[`<->`](../src/prosilver/mod_login.tpl#L61-L70)[`70`](../src/prosilver/mod_login.tpl#L70)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`64`](../src/prosilver/mod_login.tpl#L64)[`<->`](../src/prosilver/mod_login.tpl#L64-L76)[`76`](../src/prosilver/mod_login.tpl#L76)
 
 ### Version phpBB2
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`79`](../src/subsilver/mod_login.tpl#L79)[`<->`](../src/subsilver/mod_login.tpl#L79-L90)[`90`](../src/subsilver/mod_login.tpl#L90)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`82`](../src/subsilver/mod_login.tpl#L82)[`<->`](../src/subsilver/mod_login.tpl#L82-L96)[`96`](../src/subsilver/mod_login.tpl#L96)
 
 ### Version ModernBB
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`36`](../src/modernbb/mod_login.tpl#L36)[`<->`](../src/modernbb/mod_login.tpl#L36-L45)[`45`](../src/modernbb/mod_login.tpl#L45)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`39`](../src/modernbb/mod_login.tpl#L39)[`<->`](../src/modernbb/mod_login.tpl#L39-L51)[`51`](../src/modernbb/mod_login.tpl#L51)
 
 ### Version PunBB
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`53`](../src/punbb/mod_login.tpl#L53)[`<->`](../src/punbb/mod_login.tpl#L53-L63)[`63`](../src/punbb/mod_login.tpl#L63)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`56`](../src/punbb/mod_login.tpl#L56)[`<->`](../src/punbb/mod_login.tpl#L56-L69)[`69`](../src/punbb/mod_login.tpl#L69)
 
 ### Version Invision
-* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`55`](../src/invision/mod_login.tpl#L55)[`<->`](../src/invision/mod_login.tpl#L55-L66)[`66`](../src/invision/mod_login.tpl#L66)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`58`](../src/invision/mod_login.tpl#L58)[`<->`](../src/invision/mod_login.tpl#L58-L72)[`72`](../src/invision/mod_login.tpl#L72)
 

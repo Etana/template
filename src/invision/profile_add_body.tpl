@@ -267,6 +267,17 @@
 					<span class="desc">{L_NEWSLETTER_ACCEPT_EXPLAIN}</span>
 				</dd>
 			</dl>
+			<!-- BEGIN display_newsletter_auto -->
+			<dl>
+				<dt><label>{L_NEWSLETTER_AUTO_ACCEPT}&nbsp;:</label></dt>
+				<dd>
+					<label><input type="radio" name="newsletter_auto" value="1" {NEWSLETTER_AUTO_YES} /><span class="radio-rtl">{L_YES}</span></label>
+					<label><input type="radio" name="newsletter_auto" value="0" {NEWSLETTER_AUTO_NO} /><span class="radio-rtl">{L_NO}</span></label>
+					<br />
+					<span class="desc">{L_NEWSLETTER_AUTO_ACCEPT_EXPLAIN}</span>
+				</dd>
+			</dl>
+			<!-- END display_newsletter_auto -->
 			<dl>
 				<dt><label>{L_HIDE_USER}&nbsp;:</label></dt>
 				<dd>

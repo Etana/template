@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`114`](../src/subsilver/index_body.tpl#L114)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`117`](../src/subsilver/index_body.tpl#L117)
 

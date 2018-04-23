@@ -26,11 +26,11 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`88`](../src/prosilver/index_body.tpl#L88)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`91`](../src/prosilver/index_body.tpl#L91)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`5`](../src/prosilver/mod_statistics.tpl#L5)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`147`](../src/subsilver/index_body.tpl#L147)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`153`](../src/subsilver/index_body.tpl#L153)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`8`](../src/subsilver/mod_statistics.tpl#L8)
 
 ### Version ModernBB
@@ -38,10 +38,10 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`47`](../src/modernbb/overall_footer_begin.tpl#L47)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`68`](../src/punbb/index_body.tpl#L68)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`71`](../src/punbb/index_body.tpl#L71)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`4`](../src/punbb/mod_statistics.tpl#L4)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`132`](../src/invision/index_body.tpl#L132)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`135`](../src/invision/index_body.tpl#L135)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`6`](../src/invision/mod_statistics.tpl#L6)
 

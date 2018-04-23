@@ -21,7 +21,7 @@
 
 ### Version phpBB2
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`41`](../src/subsilver/posting_topic_review.tpl#L41)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`125`](../src/subsilver/viewtopic_body.tpl#L125)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`130`](../src/subsilver/viewtopic_body.tpl#L130)
 
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`108`](../src/invision/viewtopic_body.tpl#L108)

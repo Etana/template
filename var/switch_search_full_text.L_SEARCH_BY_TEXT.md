@@ -1,0 +1,31 @@
+# switch_search_full_text.L_SEARCH_BY_TEXT
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`search_body`](../tpl/search_body.md#readme)
+* __Utilisation__ __:__
+
+```smarty
+<!-- BEGIN switch_search_full_text -->
+{switch_search_full_text.L_SEARCH_BY_TEXT}
+<!-- END switch_search_full_text -->
+```
+
+## Description[*](https://fa-tvars.appspot.com/var/switch_search_full_text.L_SEARCH_BY_TEXT)
+[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_search_full_text.L_SEARCH_BY_TEXT)
+
+## Utilisations dans les templates
+
+### Version phpBB3
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`30`](../src/prosilver/search_body.tpl#L30)
+
+### Version phpBB2
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`29`](../src/subsilver/search_body.tpl#L29)
+
+### Version ModernBB
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`25`](../src/modernbb/search_body.tpl#L25)
+
+### Version PunBB
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`48`](../src/punbb/search_body.tpl#L48)
+
+### Version Invision
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`32`](../src/invision/search_body.tpl#L32)
+

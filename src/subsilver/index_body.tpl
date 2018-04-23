@@ -46,9 +46,12 @@
             </td>
             <td width="40%" class="align_gauche row1">
                 <div class="social_btn">
-                <!-- BEGIN fb_connect -->
-                <div class="fb-login-button"></div>
-                <!-- END fb_connect -->
+                    <!-- BEGIN fb_connect -->
+                    <div class="fb-login-button"></div>
+                    <!-- END fb_connect -->
+                    <!-- BEGIN topicit_connect -->
+                    <div class="ti-connect"></div>
+                    <!-- END topicit_connect -->
                 </div>
             </td>
             <!-- END switch_social_login -->
@@ -115,9 +118,12 @@
             </td>
             <td width="40%" class="align_gauche row1">
                 <div class="social_btn">
-                <!-- BEGIN fb_connect -->
-                <div class="fb-login-button"></div>
-                <!-- END fb_connect -->
+                    <!-- BEGIN fb_connect -->
+                    <div class="fb-login-button"></div>
+                    <!-- END fb_connect -->
+                    <!-- BEGIN topicit_connect -->
+                    <div class="ti-connect"></div>
+                    <!-- END topicit_connect -->
                 </div>
             </td>
             <!-- END switch_social_login -->

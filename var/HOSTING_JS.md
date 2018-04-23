@@ -28,5 +28,5 @@ Contient tout le JavaScript de votre forum.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`189`](../src/invision/overall_header.tpl#L189)
 
 ### Version Version mobile
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`44`](../src/mobile/overall_header.tpl#L44)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`48`](../src/mobile/overall_header.tpl#L48)
 

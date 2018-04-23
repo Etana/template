@@ -48,8 +48,8 @@ showHiddenMessage = function(id)
             <div class="post-head">
                 <div class="post-icon"><i class="material-icons">person</i>{postrow.displayed.POSTER_AVATAR}</div>
                             <div class="post-info">
-                                <h2>{postrow.displayed.POST_DATE_NEW}</h2>
-                    <div class="post-details">{L_TOPIC_BY} {postrow.displayed.POSTER_NAME}</div>
+                                <div class="h3">{postrow.displayed.POST_DATE_NEW}</div>
+                                <div class="post-details">{L_TOPIC_BY} {postrow.displayed.POSTER_NAME}</div>
                                 </div>
             </div>
             <div class="post-content">

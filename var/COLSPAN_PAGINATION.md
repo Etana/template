@@ -13,5 +13,5 @@ Attribue une valeur à colspan.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`286`](../src/subsilver/viewtopic_body.tpl#L286)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`296`](../src/subsilver/viewtopic_body.tpl#L296)
 

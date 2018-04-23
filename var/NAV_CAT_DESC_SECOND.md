@@ -14,5 +14,5 @@ Affiche le fil d'Ariane secondaire.
 
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`52`](../src/subsilver/viewforum_body.tpl#L52), [`73`](../src/subsilver/viewforum_body.tpl#L73)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`57`](../src/subsilver/viewtopic_body.tpl#L57), [`394`](../src/subsilver/viewtopic_body.tpl#L394), [`414`](../src/subsilver/viewtopic_body.tpl#L414)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`57`](../src/subsilver/viewtopic_body.tpl#L57), [`404`](../src/subsilver/viewtopic_body.tpl#L404), [`424`](../src/subsilver/viewtopic_body.tpl#L424)
 

@@ -29,17 +29,17 @@ Boucle contenant le qui est en ligne.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/index_body.tpl#L46)[`<->`](../src/prosilver/index_body.tpl#L46-L103)[`103`](../src/prosilver/index_body.tpl#L103)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`49`](../src/prosilver/index_body.tpl#L49)[`<->`](../src/prosilver/index_body.tpl#L49-L106)[`106`](../src/prosilver/index_body.tpl#L106)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`130`](../src/subsilver/index_body.tpl#L130)[`<->`](../src/subsilver/index_body.tpl#L130-L178)[`178`](../src/subsilver/index_body.tpl#L178)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`136`](../src/subsilver/index_body.tpl#L136)[`<->`](../src/subsilver/index_body.tpl#L136-L184)[`184`](../src/subsilver/index_body.tpl#L184)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`40`](../src/modernbb/index_body.tpl#L40)[`<->`](../src/modernbb/index_body.tpl#L40-L77)[`77`](../src/modernbb/index_body.tpl#L77)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`43`](../src/modernbb/index_body.tpl#L43)[`<->`](../src/modernbb/index_body.tpl#L43-L80)[`80`](../src/modernbb/index_body.tpl#L80)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`62`](../src/punbb/index_body.tpl#L62)[`<->`](../src/punbb/index_body.tpl#L62-L110)[`110`](../src/punbb/index_body.tpl#L110)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`65`](../src/punbb/index_body.tpl#L65)[`<->`](../src/punbb/index_body.tpl#L65-L113)[`113`](../src/punbb/index_body.tpl#L113)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`48`](../src/invision/index_body.tpl#L48)[`<->`](../src/invision/index_body.tpl#L48-L159)[`159`](../src/invision/index_body.tpl#L159)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`51`](../src/invision/index_body.tpl#L51)[`<->`](../src/invision/index_body.tpl#L51-L162)[`162`](../src/invision/index_body.tpl#L162)
 

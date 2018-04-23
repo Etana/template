@@ -15,5 +15,5 @@ Lien vers la suppression des cookies : `/?mode=delete_cookies`.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`70`](../src/subsilver/index_body.tpl#L70)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`73`](../src/subsilver/index_body.tpl#L73)
 

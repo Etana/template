@@ -142,7 +142,7 @@
                     <form action="{S_CREDITS_ADD_ACTION}" method="post" name="post">
                         <input type="hidden" name="pay_method" value="{PAY_METHOD}" />
                         <input type="hidden" name="currency" value="{CURRENCY}" />
-                        <input class="inputbox tiny" type="text" name="sum_selected" />
+                        <input class="inputbox tiny" type="text" name="sum_selected" maxlength="5" />
                         <input class="button2" type="submit" name="sub_paypal_field" value="{L_SUBMIT}" />
                     </form>
                 </dd>

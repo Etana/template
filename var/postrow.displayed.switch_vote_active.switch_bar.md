@@ -28,16 +28,16 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`148`](../src/prosilver/viewtopic_body.tpl#L148)[`<->`](../src/prosilver/viewtopic_body.tpl#L148-L158)[`158`](../src/prosilver/viewtopic_body.tpl#L158)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`153`](../src/prosilver/viewtopic_body.tpl#L153)[`<->`](../src/prosilver/viewtopic_body.tpl#L153-L163)[`163`](../src/prosilver/viewtopic_body.tpl#L163)
 
 ### Version phpBB2
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`163`](../src/subsilver/viewtopic_body.tpl#L163)[`<->`](../src/subsilver/viewtopic_body.tpl#L163-L173)[`173`](../src/subsilver/viewtopic_body.tpl#L173)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`168`](../src/subsilver/viewtopic_body.tpl#L168)[`<->`](../src/subsilver/viewtopic_body.tpl#L168-L178)[`178`](../src/subsilver/viewtopic_body.tpl#L178)
 
 ### Version ModernBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`198`](../src/modernbb/viewtopic_body.tpl#L198)[`<->`](../src/modernbb/viewtopic_body.tpl#L198-L214)[`214`](../src/modernbb/viewtopic_body.tpl#L214)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`202`](../src/modernbb/viewtopic_body.tpl#L202)[`<->`](../src/modernbb/viewtopic_body.tpl#L202-L218)[`218`](../src/modernbb/viewtopic_body.tpl#L218)
 
 ### Version PunBB
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`165`](../src/punbb/viewtopic_body.tpl#L165)[`<->`](../src/punbb/viewtopic_body.tpl#L165-L175)[`175`](../src/punbb/viewtopic_body.tpl#L175)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`168`](../src/punbb/viewtopic_body.tpl#L168)[`<->`](../src/punbb/viewtopic_body.tpl#L168-L178)[`178`](../src/punbb/viewtopic_body.tpl#L178)
 
 ### Version Invision
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`188`](../src/invision/viewtopic_body.tpl#L188)[`<->`](../src/invision/viewtopic_body.tpl#L188-L198)[`198`](../src/invision/viewtopic_body.tpl#L198)

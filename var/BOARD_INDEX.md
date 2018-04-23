@@ -15,23 +15,23 @@ Affiche le contenu du template [`index_box`](../tpl/index_box.md#readme) ou [`in
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`44`](../src/prosilver/index_body.tpl#L44)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`47`](../src/prosilver/index_body.tpl#L47)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/viewforum_body.tpl#L6)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`62`](../src/subsilver/index_body.tpl#L62)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`65`](../src/subsilver/index_body.tpl#L65)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`1`](../src/subsilver/viewforum_body.tpl#L1)
 
 ### Version ModernBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`38`](../src/modernbb/index_body.tpl#L38)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`41`](../src/modernbb/index_body.tpl#L41)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`1`](../src/modernbb/viewforum_body.tpl#L1)
 
 ### Version PunBB
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`60`](../src/punbb/index_body.tpl#L60)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`63`](../src/punbb/index_body.tpl#L63)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`29`](../src/punbb/viewforum_body.tpl#L29)
 
 ### Version Invision
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`46`](../src/invision/index_body.tpl#L46)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`49`](../src/invision/index_body.tpl#L49)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`38`](../src/invision/viewforum_body.tpl#L38)
 
 ### Version Version mobile

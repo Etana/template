@@ -22,7 +22,7 @@ Chaîne de texte.
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`90`](../src/prosilver/index_box.tpl#L90)
 
 ### Version phpBB2
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`80`](../src/subsilver/index_body.tpl#L80)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`83`](../src/subsilver/index_body.tpl#L83)
 
 ### Version ModernBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`101`](../src/modernbb/index_box.tpl#L101)

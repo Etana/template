@@ -26,21 +26,21 @@ Vous <strong>pouvez</strong> répondre aux sujets dans ce forum<br />Vous <stron
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`77`](../src/prosilver/viewforum_body.tpl#L77)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`360`](../src/prosilver/viewtopic_body.tpl#L360)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`370`](../src/prosilver/viewtopic_body.tpl#L370)
 
 ### Version phpBB2
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`46`](../src/subsilver/viewforum_body.tpl#L46)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`387`](../src/subsilver/viewtopic_body.tpl#L387)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`397`](../src/subsilver/viewtopic_body.tpl#L397)
 
 ### Version ModernBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`84`](../src/modernbb/viewforum_body.tpl#L84)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`375`](../src/modernbb/viewtopic_body.tpl#L375)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`383`](../src/modernbb/viewtopic_body.tpl#L383)
 
 ### Version PunBB
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`60`](../src/punbb/viewforum_body.tpl#L60)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`350`](../src/punbb/viewtopic_body.tpl#L350)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`356`](../src/punbb/viewtopic_body.tpl#L356)
 
 ### Version Invision
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`46`](../src/invision/viewforum_body.tpl#L46)
-* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`310`](../src/invision/viewtopic_body.tpl#L310)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`312`](../src/invision/viewtopic_body.tpl#L312)
 
