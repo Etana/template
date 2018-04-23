@@ -26,6 +26,7 @@
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.switch_moderators_links.MODERATORS}`](var/catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.TOPICS}`](var/catrow.forumrow.TOPICS.md#readme)
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.U_VIEWFORUM}`](var/catrow.forumrow.U_VIEWFORUM.md#readme)
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.L_FORUM}`](var/catrow.tablehead.L_FORUM.md#readme)
 * [`{CHATBOX_BOTTOM}`](var/CHATBOX_BOTTOM.md#readme)
 * [`{CHATBOX_TOP}`](var/CHATBOX_TOP.md#readme)
 * [`{CHATTERS_LIST}`](var/CHATTERS_LIST.md#readme)

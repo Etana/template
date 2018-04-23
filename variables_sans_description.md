@@ -230,7 +230,6 @@
 * &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN tablehead -->`](var/catrow.tablehead.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead))
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.ID}`](var/catrow.tablehead.ID.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.ID))
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.INC_SPAN}`](var/catrow.tablehead.INC_SPAN.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.INC_SPAN))
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.L_FORUM}`](var/catrow.tablehead.L_FORUM.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM))
 * [`{CHATBOX_IMG}`](var/CHATBOX_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/CHATBOX_IMG))
 * [`{CHATBOX_NAME}`](var/CHATBOX_NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/CHATBOX_NAME))
 * [`<!-- BEGIN classical_row -->`](var/classical_row.md#readme) ([x](https://fa-tvars.appspot.com/var/classical_row))

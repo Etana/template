@@ -12,7 +12,9 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM)
+Chaîne de texte.
+
+Affichage du titre de la catégorie ou du forum
 
 ## Utilisations dans les templates
 

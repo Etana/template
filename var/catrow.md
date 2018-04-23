@@ -69,7 +69,7 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN tablehead -->`](../var/catrow.tablehead.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.ID}`](../var/catrow.tablehead.ID.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.ID))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.INC_SPAN}`](../var/catrow.tablehead.INC_SPAN.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.INC_SPAN))__
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.L_FORUM}`](../var/catrow.tablehead.L_FORUM.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.L_FORUM))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.L_FORUM}`](../var/catrow.tablehead.L_FORUM.md#readme)__
 
 
 ## Utilisations dans les templates
