@@ -30,6 +30,7 @@
 </div>
 <!-- END switch_fb_explain -->
 
+<form method="GET" id="frmAgreement" action="{U_AGREE_OVER13}">
 <div class="borderwrap">
 	<div class="maintitle clearfix">
 		<h3>{REGISTRATION}</h3>
@@ -43,11 +44,22 @@
 		</div>
 		<div class="rules">
 			{MY_RULES}
+			<div align="center">
+				<div style="text-align:justify; display:inline-block;" align="justify">
+					<input type="hidden" name="step" value="2" />
+					<p>
+						<input type="checkbox" name="agreement" id="frmAgreeChkAgree" value="1" data-validation="required"/> <label for="frmAgreeChkAgree">{AGREE_CONDITIONS}</label> <br />
+					</p>
+					<p>
+						<input type="checkbox" name="privacy" id="frmAgreeChkPrivacy" value="1" data-validation="required"/> <label for="frmAgreeChkPrivacy">{AGREE_PRIVACY}</label>
+					</p>
+				</div>
+			</div>
 		</div>
 		<fieldset class="formbuttonrow center">
-			<strong><a class="button" href="{U_AGREE_OVER13}">{AGREE_OVER_13}</a></strong>&nbsp;
-			<a class="button" href="{U_INDEX}">{DO_NOT_AGREE}</a>
+			<strong><input type="submit" value="{AGREE_OVER_13}" class="button1 cgu-buttons" /></strong>
 		</fieldset>
 
 	</div>
 </div>
+</form>

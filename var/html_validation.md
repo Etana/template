@@ -29,7 +29,7 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 ### Version phpBB2
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`1`](../src/subsilver/overall_footer_begin.tpl#L1)[`<->`](../src/subsilver/overall_footer_begin.tpl#L1-L8)[`8`](../src/subsilver/overall_footer_begin.tpl#L8), [`29`](../src/subsilver/overall_footer_begin.tpl#L29)[`<->`](../src/subsilver/overall_footer_begin.tpl#L29-L33)[`33`](../src/subsilver/overall_footer_begin.tpl#L33)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`1`](../src/subsilver/overall_footer_end.tpl#L1)[`<->`](../src/subsilver/overall_footer_end.tpl#L1-L11)[`11`](../src/subsilver/overall_footer_end.tpl#L11)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`330`](../src/subsilver/overall_header.tpl#L330)[`<->`](../src/subsilver/overall_header.tpl#L330-L342)[`342`](../src/subsilver/overall_header.tpl#L342)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`331`](../src/subsilver/overall_header.tpl#L331)[`<->`](../src/subsilver/overall_header.tpl#L331-L343)[`343`](../src/subsilver/overall_header.tpl#L343)
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`1`](../src/subsilver/privmsgs_popup.tpl#L1)[`<->`](../src/subsilver/privmsgs_popup.tpl#L1-L8)[`8`](../src/subsilver/privmsgs_popup.tpl#L8)
 * __[`simple_footer`](../tpl/simple_footer.md#readme)__ __:__ lignes [`1`](../src/subsilver/simple_footer.tpl#L1)[`<->`](../src/subsilver/simple_footer.tpl#L1-L8)[`8`](../src/subsilver/simple_footer.tpl#L8)
 
@@ -46,7 +46,7 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`1`](../src/punbb/greeting_popup.tpl#L1)[`<->`](../src/punbb/greeting_popup.tpl#L1-L5)[`5`](../src/punbb/greeting_popup.tpl#L5)
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`1`](../src/punbb/overall_footer_begin.tpl#L1)[`<->`](../src/punbb/overall_footer_begin.tpl#L1-L10)[`10`](../src/punbb/overall_footer_begin.tpl#L10), [`37`](../src/punbb/overall_footer_begin.tpl#L37)[`<->`](../src/punbb/overall_footer_begin.tpl#L37-L42)[`42`](../src/punbb/overall_footer_begin.tpl#L42)
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`1`](../src/punbb/overall_footer_end.tpl#L1)[`<->`](../src/punbb/overall_footer_end.tpl#L1-L13)[`13`](../src/punbb/overall_footer_end.tpl#L13)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`318`](../src/punbb/overall_header.tpl#L318)[`<->`](../src/punbb/overall_header.tpl#L318-L333)[`333`](../src/punbb/overall_header.tpl#L333)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`317`](../src/punbb/overall_header.tpl#L317)[`<->`](../src/punbb/overall_header.tpl#L317-L332)[`332`](../src/punbb/overall_header.tpl#L332)
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`1`](../src/punbb/privmsgs_popup.tpl#L1)[`<->`](../src/punbb/privmsgs_popup.tpl#L1-L5)[`5`](../src/punbb/privmsgs_popup.tpl#L5)
 * __[`report_popup_body`](../tpl/report_popup_body.md#readme)__ __:__ lignes [`1`](../src/punbb/report_popup_body.tpl#L1)[`<->`](../src/punbb/report_popup_body.tpl#L1-L5)[`5`](../src/punbb/report_popup_body.tpl#L5)
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`1`](../src/punbb/search_username.tpl#L1)[`<->`](../src/punbb/search_username.tpl#L1-L5)[`5`](../src/punbb/search_username.tpl#L5)

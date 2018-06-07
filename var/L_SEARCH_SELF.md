@@ -73,5 +73,5 @@ Chaîne de caractère.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`58`](../src/punbb/viewtopic_body.tpl#L58)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`274`](../src/invision/overall_header.tpl#L274)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`273`](../src/invision/overall_header.tpl#L273)
 

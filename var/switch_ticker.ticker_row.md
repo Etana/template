@@ -21,17 +21,17 @@ Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > G
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`316`](../src/prosilver/overall_header.tpl#L316)[`<->`](../src/prosilver/overall_header.tpl#L316-L318)[`318`](../src/prosilver/overall_header.tpl#L318)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`315`](../src/prosilver/overall_header.tpl#L315)[`<->`](../src/prosilver/overall_header.tpl#L315-L317)[`317`](../src/prosilver/overall_header.tpl#L317)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`302`](../src/subsilver/overall_header.tpl#L302)[`<->`](../src/subsilver/overall_header.tpl#L302-L304)[`304`](../src/subsilver/overall_header.tpl#L304)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`303`](../src/subsilver/overall_header.tpl#L303)[`<->`](../src/subsilver/overall_header.tpl#L303-L305)[`305`](../src/subsilver/overall_header.tpl#L305)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`310`](../src/modernbb/overall_header.tpl#L310)[`<->`](../src/modernbb/overall_header.tpl#L310-L312)[`312`](../src/modernbb/overall_header.tpl#L312)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`314`](../src/modernbb/overall_header.tpl#L314)[`<->`](../src/modernbb/overall_header.tpl#L314-L316)[`316`](../src/modernbb/overall_header.tpl#L316)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`290`](../src/punbb/overall_header.tpl#L290)[`<->`](../src/punbb/overall_header.tpl#L290-L292)[`292`](../src/punbb/overall_header.tpl#L292)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`289`](../src/punbb/overall_header.tpl#L289)[`<->`](../src/punbb/overall_header.tpl#L289-L291)[`291`](../src/punbb/overall_header.tpl#L291)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`309`](../src/invision/overall_header.tpl#L309)[`<->`](../src/invision/overall_header.tpl#L309-L311)[`311`](../src/invision/overall_header.tpl#L311)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`308`](../src/invision/overall_header.tpl#L308)[`<->`](../src/invision/overall_header.tpl#L308-L310)[`310`](../src/invision/overall_header.tpl#L310)
 

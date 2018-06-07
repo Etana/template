@@ -83,8 +83,24 @@
 		</tr>
 		<!-- END switch_unsubscribe_allowed -->
 	<!-- END switch_register_not_display -->
-		
 
+	<tr>
+		<th class="thSides" colspan="2" valign="middle" height="25">{switch_informations_menu.RGPD_ACTION_TITLE}</th>
+	</tr>
+	<!-- BEGIN rgpd_generate_or_download -->
+	<tr>
+		<td class="row1"><span class="gen">{switch_informations_menu.rgpd_generate_or_download.RGPD_ACTION_LABEL} :</span></td>
+		<td class="row2">
+			<a href="{switch_informations_menu.rgpd_generate_or_download.RGPD_ACTION_LINK}">{switch_informations_menu.rgpd_generate_or_download.RGPD_ACTION_CONTENT}</a><br />
+            <span class="gen">{switch_informations_menu.rgpd_generate_or_download.RGPD_ACTION_EXPLAIN}</span>
+		</td>
+	</tr>
+	<!-- END rgpd_generate_or_download -->
+	<!-- BEGIN rgpd_await_export -->
+	<tr>
+		<td style="padding: 10px" colspan="2">{switch_informations_menu.rgpd_await_export.RGPD_AWAIT_EXPORT}</td>
+	</tr>
+	<!-- END rgpd_await_export -->
 <!-- END switch_informations_menu -->
 
 <!-- BEGIN switch_confirm_password -->

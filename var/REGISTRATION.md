@@ -15,8 +15,8 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`8`](../src/subsilver/agreement.tpl#L8)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`9`](../src/subsilver/agreement.tpl#L9)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`35`](../src/invision/agreement.tpl#L35)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`36`](../src/invision/agreement.tpl#L36)
 

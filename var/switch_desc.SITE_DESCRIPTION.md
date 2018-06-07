@@ -15,14 +15,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`263`](../src/prosilver/overall_header.tpl#L263)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`262`](../src/prosilver/overall_header.tpl#L262)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`274`](../src/modernbb/overall_header.tpl#L274)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`278`](../src/modernbb/overall_header.tpl#L278)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`256`](../src/punbb/overall_header.tpl#L256)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`255`](../src/punbb/overall_header.tpl#L255)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`261`](../src/invision/overall_header.tpl#L261)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`260`](../src/invision/overall_header.tpl#L260)
 

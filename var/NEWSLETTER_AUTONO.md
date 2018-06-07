@@ -13,5 +13,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`239`](../src/punbb/profile_add_body.tpl#L239)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`262`](../src/punbb/profile_add_body.tpl#L262)
 

@@ -16,7 +16,7 @@ Affiche vos conditions d'inscription définies dans `PA > Général > Règlement
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`19`](../src/prosilver/agreement.tpl#L19)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`28`](../src/subsilver/agreement.tpl#L28)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`29`](../src/subsilver/agreement.tpl#L29)
 
 ### Version ModernBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`19`](../src/modernbb/agreement.tpl#L19)
@@ -25,5 +25,5 @@ Affiche vos conditions d'inscription définies dans `PA > Général > Règlement
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`30`](../src/punbb/agreement.tpl#L30)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`45`](../src/invision/agreement.tpl#L45)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`46`](../src/invision/agreement.tpl#L46)
 

@@ -12,18 +12,30 @@
 	</div>
 </div>
 <!-- END switch_fb_explain -->
-
+<form method="GET" id="frmAgreement" action="{U_AGREE_OVER13}">
 <div class="panel">
 	<div class="inner"><span class="corners-top"><span></span></span>
 		{AGREEMENT}<br />
 		{MY_RULES}<br />
+		<div align="center">
+			<div style="text-align:justify; display:inline-block;" align="justify">
+				<input type="hidden" name="step" value="2" />
+				<p>
+					<input type="checkbox" name="agreement" id="frmAgreeChkAgree" value="1" data-validation="required"/> <label for="frmAgreeChkAgree">{AGREE_CONDITIONS}</label> <br />
+				</p>
+				<p>
+					<input type="checkbox" name="privacy" id="frmAgreeChkPrivacy" value="1" data-validation="required"/> <label for="frmAgreeChkPrivacy">{AGREE_PRIVACY}</label>
+				</p>
+			</div>
+		</div>
 	<span class="corners-bottom"><span></span></span></div>
 </div>
 
 <div class="panel">
 	<div class="inner"><span class="corners-top"><span></span></span>
-		<p class="center"><a class="button1 cgu-buttons" href="{U_AGREE_OVER13}">{AGREE_OVER_13}</a>&nbsp;&nbsp;
-			<a class="button2 cgu-buttons" href="{U_INDEX}">{DO_NOT_AGREE}</a>
+		<p class="center">
+			<input type="submit" value="{AGREE_OVER_13}" class="button1 cgu-buttons" />
 		</p>
 	<span class="corners-bottom"><span></span></span></div>
 </div>
+</form>

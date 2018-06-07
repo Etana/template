@@ -13,5 +13,5 @@ Nom du site spécifié dans `PA > Général > Forum | Configuration > Nom du sit
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`258`](../src/subsilver/overall_header.tpl#L258)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`259`](../src/subsilver/overall_header.tpl#L259)
 

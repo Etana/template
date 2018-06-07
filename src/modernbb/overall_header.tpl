@@ -211,7 +211,11 @@
                 <!-- BEGIN google_analytics_code_bis -->
                 ga('bis.send', 'pageview');
                 <!-- END google_analytics_code_bis -->
-			//]]>
+	            ga('set', 'anonymizeIp', true);
+				<!-- BEGIN google_analytics_code_bis -->
+				ga('bis.set', 'anonymizeIp', true);
+				<!-- END google_analytics_code_bis -->
+            //]]>
 		</script>
 	<!-- END google_analytics_code -->
 

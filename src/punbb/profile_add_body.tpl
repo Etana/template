@@ -138,6 +138,29 @@
 			</fieldset>
 
 			<!-- END switch_profile_fields_register -->
+			<div class="main-head"><h1 class="page-title">{switch_informations_menu.RGPD_ACTION_TITLE}</h1></div>
+			<!-- BEGIN rgpd_generate_or_download -->
+			<div class="main-content frm">
+				<fieldset class="frm-set">
+						<dl>
+							<dt><label>{switch_informations_menu.rgpd_generate_or_download.RGPD_ACTION_LABEL} :</label></dt>
+							<dd>
+								<a href="{switch_informations_menu.rgpd_generate_or_download.RGPD_ACTION_LINK}" class="button1">{switch_informations_menu.rgpd_generate_or_download.RGPD_ACTION_CONTENT}</a><br />
+                                {switch_informations_menu.rgpd_generate_or_download.RGPD_ACTION_EXPLAIN}
+							</dd>
+						</dl>
+					</fieldset>
+					<span class="corners-bottom"><span></span></span>
+			</div>
+			<!-- END rgpd_generate_or_download -->
+			<!-- BEGIN rgpd_await_export -->
+			<div class="main-content frm">
+				<fieldset class="frm-set">
+						<p>{switch_informations_menu.rgpd_await_export.RGPD_AWAIT_EXPORT}</p>
+					</fieldset>
+					<span class="corners-bottom"><span></span></span>
+			</div>
+			<!-- END rgpd_await_export -->
 		<!-- END switch_informations_menu -->
 
 <!-- BEGIN switch_confirm_password -->

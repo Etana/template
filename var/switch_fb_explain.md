@@ -22,7 +22,7 @@ Le contenu de la boucle est affiché si Facebook Connect est activé dans `PA > 
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`5`](../src/prosilver/agreement.tpl#L5)[`<->`](../src/prosilver/agreement.tpl#L5-L14)[`14`](../src/prosilver/agreement.tpl#L14)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`10`](../src/subsilver/agreement.tpl#L10)[`<->`](../src/subsilver/agreement.tpl#L10-L21)[`21`](../src/subsilver/agreement.tpl#L21)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`11`](../src/subsilver/agreement.tpl#L11)[`<->`](../src/subsilver/agreement.tpl#L11-L22)[`22`](../src/subsilver/agreement.tpl#L22)
 
 ### Version ModernBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`5`](../src/modernbb/agreement.tpl#L5)[`<->`](../src/modernbb/agreement.tpl#L5-L14)[`14`](../src/modernbb/agreement.tpl#L14)

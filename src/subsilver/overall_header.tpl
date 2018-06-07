@@ -179,27 +179,28 @@
     </style>
     <!-- END switch_ticker_new -->
     {HOSTING_JS}
+
     <!-- BEGIN google_analytics_code -->
     <script type="text/javascript">
-    //<![CDATA[
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', '{G_ANALYTICS_ID}']);
-    _gaq.push(['_trackPageview']);
-    _gaq.push(['_trackPageLoadTime']);
+        //<![CDATA[
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', '{G_ANALYTICS_ID}', 'auto');
+    ga('send', 'pageview');
+    ga('set', 'anonymizeIp', true);
 
     <!-- BEGIN google_analytics_code_bis -->
-    _gaq.push(['b._setAccount', '{G_ANALYTICS_ID_BIS}']);
-    _gaq.push(['b._trackPageview']);
+    ga('create', '{G_ANALYTICS_ID_BIS}', 'auto', 'bis');
+    ga('bis.send', 'pageview');
+    ga('bis.set', 'anonymizeIp', true);
     <!-- END google_analytics_code_bis -->
-
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
     //]]>
     </script>
     <!-- END google_analytics_code -->
+
 </head>
 <body background="{T_BODY_BACKGROUND}" bgcolor="{T_BODY_BGCOLOR}" text="{T_BODY_TEXT}" link="{T_BODY_LINK}" vlink="{T_BODY_VLINK}">
     <!-- BEGIN hitskin_preview -->

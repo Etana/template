@@ -20,17 +20,17 @@ Boucle contenant le saut entre 2 widgets.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`340`](../src/prosilver/overall_header.tpl#L340)[`<->`](../src/prosilver/overall_header.tpl#L340-L342)[`342`](../src/prosilver/overall_header.tpl#L342)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`339`](../src/prosilver/overall_header.tpl#L339)[`<->`](../src/prosilver/overall_header.tpl#L339-L341)[`341`](../src/prosilver/overall_header.tpl#L341)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`323`](../src/subsilver/overall_header.tpl#L323)[`<->`](../src/subsilver/overall_header.tpl#L323-L325)[`325`](../src/subsilver/overall_header.tpl#L325)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`324`](../src/subsilver/overall_header.tpl#L324)[`<->`](../src/subsilver/overall_header.tpl#L324-L326)[`326`](../src/subsilver/overall_header.tpl#L326)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`327`](../src/modernbb/overall_header.tpl#L327)[`<->`](../src/modernbb/overall_header.tpl#L327-L329)[`329`](../src/modernbb/overall_header.tpl#L329)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`331`](../src/modernbb/overall_header.tpl#L331)[`<->`](../src/modernbb/overall_header.tpl#L331-L333)[`333`](../src/modernbb/overall_header.tpl#L333)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`310`](../src/punbb/overall_header.tpl#L310)[`<->`](../src/punbb/overall_header.tpl#L310-L312)[`312`](../src/punbb/overall_header.tpl#L312)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`309`](../src/punbb/overall_header.tpl#L309)[`<->`](../src/punbb/overall_header.tpl#L309-L311)[`311`](../src/punbb/overall_header.tpl#L311)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`329`](../src/invision/overall_header.tpl#L329)[`<->`](../src/invision/overall_header.tpl#L329-L331)[`331`](../src/invision/overall_header.tpl#L331)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`328`](../src/invision/overall_header.tpl#L328)[`<->`](../src/invision/overall_header.tpl#L328-L330)[`330`](../src/invision/overall_header.tpl#L330)
 

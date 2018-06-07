@@ -13,17 +13,17 @@ Logo du forum spécifié dans `PA > Affichage > Images et Couleurs | Gestion des
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`258`](../src/prosilver/overall_header.tpl#L258)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`257`](../src/prosilver/overall_header.tpl#L257)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`251`](../src/subsilver/overall_header.tpl#L251), [`255`](../src/subsilver/overall_header.tpl#L255), [`263`](../src/subsilver/overall_header.tpl#L263)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`252`](../src/subsilver/overall_header.tpl#L252), [`256`](../src/subsilver/overall_header.tpl#L256), [`264`](../src/subsilver/overall_header.tpl#L264)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`260`](../src/modernbb/overall_header.tpl#L260)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`264`](../src/modernbb/overall_header.tpl#L264)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`249`](../src/punbb/overall_header.tpl#L249)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`248`](../src/punbb/overall_header.tpl#L248)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`256`](../src/invision/overall_header.tpl#L256)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`255`](../src/invision/overall_header.tpl#L255)
 

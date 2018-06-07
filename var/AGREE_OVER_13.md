@@ -15,17 +15,17 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`25`](../src/prosilver/agreement.tpl#L25)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`37`](../src/prosilver/agreement.tpl#L37)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`32`](../src/subsilver/agreement.tpl#L32)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`45`](../src/subsilver/agreement.tpl#L45)
 
 ### Version ModernBB
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`25`](../src/modernbb/agreement.tpl#L25)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`38`](../src/modernbb/agreement.tpl#L38)
 
 ### Version PunBB
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`35`](../src/punbb/agreement.tpl#L35)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`47`](../src/punbb/agreement.tpl#L47)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`48`](../src/invision/agreement.tpl#L48)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`60`](../src/invision/agreement.tpl#L60)
 

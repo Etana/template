@@ -19,7 +19,7 @@ Chaîne de caractère.
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`39`](../src/prosilver/album_formsearch_body.tpl#L39)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`25`](../src/prosilver/merge_body.tpl#L25)
 * __[`mod_search`](../tpl/mod_search.md#readme)__ __:__ lignes [`5`](../src/prosilver/mod_search.tpl#L5)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`280`](../src/prosilver/overall_header.tpl#L280), [`280`](../src/prosilver/overall_header.tpl#L280), [`280`](../src/prosilver/overall_header.tpl#L280), [`282`](../src/prosilver/overall_header.tpl#L282)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`279`](../src/prosilver/overall_header.tpl#L279), [`279`](../src/prosilver/overall_header.tpl#L279), [`279`](../src/prosilver/overall_header.tpl#L279), [`281`](../src/prosilver/overall_header.tpl#L281)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`26`](../src/prosilver/search_body.tpl#L26), [`87`](../src/prosilver/search_body.tpl#L87)
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`14`](../src/prosilver/search_username.tpl#L14)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`34`](../src/prosilver/viewforum_body.tpl#L34), [`34`](../src/prosilver/viewforum_body.tpl#L34), [`34`](../src/prosilver/viewforum_body.tpl#L34), [`35`](../src/prosilver/viewforum_body.tpl#L35)

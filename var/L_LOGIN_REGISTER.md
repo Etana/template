@@ -63,5 +63,5 @@ Chaîne de texte.
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`68`](../src/punbb/viewtopic_body.tpl#L68)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`282`](../src/invision/overall_header.tpl#L282)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`281`](../src/invision/overall_header.tpl#L281)
 

@@ -13,5 +13,5 @@ Largeur du forum définie dans `PA > Général > Forum | Configuration > Largeur
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`245`](../src/subsilver/overall_header.tpl#L245)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`246`](../src/subsilver/overall_header.tpl#L246)
 

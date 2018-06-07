@@ -24,7 +24,7 @@ Veuillez commencer votre inscription en acceptant ce règlement.
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`10`](../src/prosilver/agreement.tpl#L10)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`16`](../src/subsilver/agreement.tpl#L16)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`17`](../src/subsilver/agreement.tpl#L17)
 
 ### Version ModernBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`10`](../src/modernbb/agreement.tpl#L10)

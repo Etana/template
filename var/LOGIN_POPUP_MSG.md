@@ -13,17 +13,17 @@ Message du popup de connexion défini dans `PA > Général > Forum | Configurati
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`235`](../src/prosilver/overall_header.tpl#L235)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`234`](../src/prosilver/overall_header.tpl#L234)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`235`](../src/subsilver/overall_header.tpl#L235)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`236`](../src/subsilver/overall_header.tpl#L236)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`241`](../src/modernbb/overall_header.tpl#L241)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`245`](../src/modernbb/overall_header.tpl#L245)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`230`](../src/punbb/overall_header.tpl#L230)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`229`](../src/punbb/overall_header.tpl#L229)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`233`](../src/invision/overall_header.tpl#L233)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`232`](../src/invision/overall_header.tpl#L232)
 

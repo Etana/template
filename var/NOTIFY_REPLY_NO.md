@@ -13,17 +13,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`239`](../src/prosilver/profile_add_body.tpl#L239)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`264`](../src/prosilver/profile_add_body.tpl#L264)
 
 ### Version phpBB2
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`208`](../src/subsilver/profile_add_body.tpl#L208)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`224`](../src/subsilver/profile_add_body.tpl#L224)
 
 ### Version ModernBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`239`](../src/modernbb/profile_add_body.tpl#L239)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`265`](../src/modernbb/profile_add_body.tpl#L265)
 
 ### Version PunBB
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`253`](../src/punbb/profile_add_body.tpl#L253)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`276`](../src/punbb/profile_add_body.tpl#L276)
 
 ### Version Invision
-* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`294`](../src/invision/profile_add_body.tpl#L294)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`320`](../src/invision/profile_add_body.tpl#L320)
 

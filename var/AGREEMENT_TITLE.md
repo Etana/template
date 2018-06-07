@@ -15,5 +15,5 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`38`](../src/invision/agreement.tpl#L38)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`39`](../src/invision/agreement.tpl#L39)
 

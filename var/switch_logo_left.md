@@ -18,5 +18,5 @@ Boucle s'affichant si vous avez sélectionné "A gauche" dans `PA > Affichage > 
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`250`](../src/subsilver/overall_header.tpl#L250)[`<->`](../src/subsilver/overall_header.tpl#L250-L252)[`252`](../src/subsilver/overall_header.tpl#L252)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`251`](../src/subsilver/overall_header.tpl#L251)[`<->`](../src/subsilver/overall_header.tpl#L251-L253)[`253`](../src/subsilver/overall_header.tpl#L253)
 

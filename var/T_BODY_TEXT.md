@@ -13,7 +13,7 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`204`](../src/subsilver/overall_header.tpl#L204)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`205`](../src/subsilver/overall_header.tpl#L205)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`15`](../src/subsilver/posting_smilies_frame.tpl#L15)
 * __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`16`](../src/subsilver/posting_smilies_wysiwyg.tpl#L16)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`14`](../src/subsilver/simple_header.tpl#L14)

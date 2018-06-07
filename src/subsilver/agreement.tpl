@@ -3,6 +3,7 @@
 		<td><span class="nav"><a class="nav" href="{U_INDEX}">{L_INDEX}</a></span></td>
 	</tr>
 </table>
+<form method="GET" id="frmAgreement" action="{U_AGREE_OVER13}">
 <table class="forumline" width="100%" border="0" cellspacing="1" cellpadding="0">
 	<tr>
 		<th class="thHead" valign="middle" height="25"><h1>{SITENAME} - {REGISTRATION}</h1></th>
@@ -29,9 +30,19 @@
 							<br />
 							<br />
 							<div align="center">
-								<a class="genmed" href="{U_AGREE_OVER13}">{AGREE_OVER_13}</a><br />
-								<br />
-								<a class="genmed" href="{U_INDEX}">{DO_NOT_AGREE}</a>
+								<div style="text-align:justify; display:inline-block;" align="justify">
+									<input type="hidden" name="step" value="2" />
+									<p>
+										<input type="checkbox" name="agreement" id="frmAgreeChkAgree" value="1"  data-validation="required"/> <label for="frmAgreeChkAgree">{AGREE_CONDITIONS}</label> <br />
+									</p>
+									<p>
+										<input type="checkbox" name="privacy" id="frmAgreeChkPrivacy" value="1"  data-validation="required"/> <label for="frmAgreeChkPrivacy">{AGREE_PRIVACY}</label>
+									</p>
+								</div>
+							</div>
+							<br />
+							<div align="center">
+								<input type="submit" value="{AGREE_OVER_13}" class="genmed" />
 							</div>
 							<br />
 						</div>
@@ -41,3 +52,4 @@
 		</td>
 	</tr>
 </table>
+</form>

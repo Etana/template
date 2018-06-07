@@ -16,7 +16,7 @@ Largeur du popup de connexion définie dans `PA > Général > Forum | Configurat
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`151`](../src/prosilver/overall_header.tpl#L151)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`146`](../src/subsilver/overall_header.tpl#L146), [`220`](../src/subsilver/overall_header.tpl#L220)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`146`](../src/subsilver/overall_header.tpl#L146), [`221`](../src/subsilver/overall_header.tpl#L221)
 
 ### Version ModernBB
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`152`](../src/modernbb/overall_header.tpl#L152)

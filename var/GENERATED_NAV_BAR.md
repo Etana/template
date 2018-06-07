@@ -13,17 +13,17 @@ Affiche la barre de navigation choisie dans PA > Affichage > Page d'accueil | En
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`274`](../src/prosilver/overall_header.tpl#L274)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`273`](../src/prosilver/overall_header.tpl#L273)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`270`](../src/subsilver/overall_header.tpl#L270)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`271`](../src/subsilver/overall_header.tpl#L271)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`263`](../src/modernbb/overall_header.tpl#L263)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`267`](../src/modernbb/overall_header.tpl#L267)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`262`](../src/punbb/overall_header.tpl#L262)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`261`](../src/punbb/overall_header.tpl#L261)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`267`](../src/invision/overall_header.tpl#L267)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`266`](../src/invision/overall_header.tpl#L266)
 

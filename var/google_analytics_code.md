@@ -19,19 +19,19 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`194`](../src/prosilver/overall_header.tpl#L194)[`<->`](../src/prosilver/overall_header.tpl#L194-L214)[`214`](../src/prosilver/overall_header.tpl#L214)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`194`](../src/prosilver/overall_header.tpl#L194)[`<->`](../src/prosilver/overall_header.tpl#L194-L213)[`213`](../src/prosilver/overall_header.tpl#L213)
 
 ### Version phpBB2
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`182`](../src/subsilver/overall_header.tpl#L182)[`<->`](../src/subsilver/overall_header.tpl#L182-L202)[`202`](../src/subsilver/overall_header.tpl#L202)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`183`](../src/subsilver/overall_header.tpl#L183)[`<->`](../src/subsilver/overall_header.tpl#L183-L202)[`202`](../src/subsilver/overall_header.tpl#L202)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`198`](../src/modernbb/overall_header.tpl#L198)[`<->`](../src/modernbb/overall_header.tpl#L198-L216)[`216`](../src/modernbb/overall_header.tpl#L216)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`198`](../src/modernbb/overall_header.tpl#L198)[`<->`](../src/modernbb/overall_header.tpl#L198-L220)[`220`](../src/modernbb/overall_header.tpl#L220)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`187`](../src/punbb/overall_header.tpl#L187)[`<->`](../src/punbb/overall_header.tpl#L187-L207)[`207`](../src/punbb/overall_header.tpl#L207)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`187`](../src/punbb/overall_header.tpl#L187)[`<->`](../src/punbb/overall_header.tpl#L187-L206)[`206`](../src/punbb/overall_header.tpl#L206)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`190`](../src/invision/overall_header.tpl#L190)[`<->`](../src/invision/overall_header.tpl#L190-L210)[`210`](../src/invision/overall_header.tpl#L210)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`190`](../src/invision/overall_header.tpl#L190)[`<->`](../src/invision/overall_header.tpl#L190-L209)[`209`](../src/invision/overall_header.tpl#L209)
 
 ### Version Version mobile
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`24`](../src/mobile/overall_header.tpl#L24)[`<->`](../src/mobile/overall_header.tpl#L24-L43)[`43`](../src/mobile/overall_header.tpl#L43)

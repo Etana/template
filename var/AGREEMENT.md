@@ -16,7 +16,7 @@ Affiche les conditions d'inscription de base de Forumactif.
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`18`](../src/prosilver/agreement.tpl#L18)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`28`](../src/subsilver/agreement.tpl#L28)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`29`](../src/subsilver/agreement.tpl#L29)
 
 ### Version ModernBB
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`18`](../src/modernbb/agreement.tpl#L18)
@@ -25,5 +25,5 @@ Affiche les conditions d'inscription de base de Forumactif.
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`29`](../src/punbb/agreement.tpl#L29)
 
 ### Version Invision
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`42`](../src/invision/agreement.tpl#L42)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`43`](../src/invision/agreement.tpl#L43)
 

@@ -151,7 +151,7 @@ Le contenu de la boucle est affiché si l'utilisateur est connecté.
 
 ### Version Invision
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`6`](../src/invision/agreement.tpl#L6)[`<->`](../src/invision/agreement.tpl#L6-L18)[`18`](../src/invision/agreement.tpl#L18)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`270`](../src/invision/overall_header.tpl#L270)[`<->`](../src/invision/overall_header.tpl#L270-L279)[`279`](../src/invision/overall_header.tpl#L279)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`269`](../src/invision/overall_header.tpl#L269)[`<->`](../src/invision/overall_header.tpl#L269-L278)[`278`](../src/invision/overall_header.tpl#L278)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`8`](../src/invision/profile_send_pass.tpl#L8)[`<->`](../src/invision/profile_send_pass.tpl#L8-L12)[`12`](../src/invision/profile_send_pass.tpl#L12)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`387`](../src/invision/viewtopic_body.tpl#L387)[`<->`](../src/invision/viewtopic_body.tpl#L387-L391)[`391`](../src/invision/viewtopic_body.tpl#L391)
 

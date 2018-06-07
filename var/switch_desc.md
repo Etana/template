@@ -19,14 +19,14 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`262`](../src/prosilver/overall_header.tpl#L262)[`<->`](../src/prosilver/overall_header.tpl#L262-L264)[`264`](../src/prosilver/overall_header.tpl#L264)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`261`](../src/prosilver/overall_header.tpl#L261)[`<->`](../src/prosilver/overall_header.tpl#L261-L263)[`263`](../src/prosilver/overall_header.tpl#L263)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`273`](../src/modernbb/overall_header.tpl#L273)[`<->`](../src/modernbb/overall_header.tpl#L273-L275)[`275`](../src/modernbb/overall_header.tpl#L275)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`277`](../src/modernbb/overall_header.tpl#L277)[`<->`](../src/modernbb/overall_header.tpl#L277-L279)[`279`](../src/modernbb/overall_header.tpl#L279)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`255`](../src/punbb/overall_header.tpl#L255)[`<->`](../src/punbb/overall_header.tpl#L255-L257)[`257`](../src/punbb/overall_header.tpl#L257)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`254`](../src/punbb/overall_header.tpl#L254)[`<->`](../src/punbb/overall_header.tpl#L254-L256)[`256`](../src/punbb/overall_header.tpl#L256)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`260`](../src/invision/overall_header.tpl#L260)[`<->`](../src/invision/overall_header.tpl#L260-L262)[`262`](../src/invision/overall_header.tpl#L262)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`259`](../src/invision/overall_header.tpl#L259)[`<->`](../src/invision/overall_header.tpl#L259-L261)[`261`](../src/invision/overall_header.tpl#L261)
 

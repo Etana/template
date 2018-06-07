@@ -15,5 +15,5 @@
 ## Utilisations dans les templates
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`225`](../src/modernbb/overall_header.tpl#L225)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`229`](../src/modernbb/overall_header.tpl#L229)
 

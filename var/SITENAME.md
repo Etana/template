@@ -14,24 +14,24 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/prosilver/overall_header.tpl#L20), [`234`](../src/prosilver/overall_header.tpl#L234)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/prosilver/overall_header.tpl#L20), [`233`](../src/prosilver/overall_header.tpl#L233)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/prosilver/simple_header.tpl#L5)
 
 ### Version phpBB2
-* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`8`](../src/subsilver/agreement.tpl#L8)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/subsilver/overall_header.tpl#L20), [`223`](../src/subsilver/overall_header.tpl#L223)
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`9`](../src/subsilver/agreement.tpl#L9)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/subsilver/overall_header.tpl#L20), [`224`](../src/subsilver/overall_header.tpl#L224)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/subsilver/simple_header.tpl#L5)
 
 ### Version ModernBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/modernbb/overall_header.tpl#L20), [`239`](../src/modernbb/overall_header.tpl#L239)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/modernbb/overall_header.tpl#L20), [`243`](../src/modernbb/overall_header.tpl#L243)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/modernbb/simple_header.tpl#L5)
 
 ### Version PunBB
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/punbb/overall_header.tpl#L20), [`227`](../src/punbb/overall_header.tpl#L227)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/punbb/overall_header.tpl#L20), [`226`](../src/punbb/overall_header.tpl#L226)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/punbb/simple_header.tpl#L5)
 
 ### Version Invision
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/invision/overall_header.tpl#L20), [`231`](../src/invision/overall_header.tpl#L231)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/invision/overall_header.tpl#L20), [`230`](../src/invision/overall_header.tpl#L230)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/invision/simple_header.tpl#L5)
 
 ### Version Version mobile

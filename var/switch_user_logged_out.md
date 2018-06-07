@@ -79,5 +79,5 @@ contenu que l'utilisateur verra si il est déconnecté
 
 ### Version Invision
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`19`](../src/invision/agreement.tpl#L19)[`<->`](../src/invision/agreement.tpl#L19-L21)[`21`](../src/invision/agreement.tpl#L21)
-* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`280`](../src/invision/overall_header.tpl#L280)[`<->`](../src/invision/overall_header.tpl#L280-L284)[`284`](../src/invision/overall_header.tpl#L284)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`279`](../src/invision/overall_header.tpl#L279)[`<->`](../src/invision/overall_header.tpl#L279-L283)[`283`](../src/invision/overall_header.tpl#L283)
 
