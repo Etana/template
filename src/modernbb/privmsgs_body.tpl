@@ -70,7 +70,7 @@
 </div>
 <p class="right-box" style="margin: 0;"><a href="javascript:select_switch_privmsg(true);">{L_MARK_ALL}</a> :: <a href="javascript:select_switch_privmsg(false);">{L_UNMARK_ALL}</a></p>
 <div class="clear"></div>
-<p><span class="pagination">{PAGINATION}</span>{PAGE_NUMBER}</p>
+<p><span class="pagination">{PAGINATION}{PAGE_NUMBER}</span><br/></p>
 <div class="clear"></div>
 <div class="pm-actions bottom">
 	<div class="pm-actions-buttons">
