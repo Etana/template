@@ -4,7 +4,7 @@ import requests, re, html, os, time, json
 from enum import Enum
 from collections import OrderedDict
 
-template_versions = { 'subsilver': 'phpBB2', 'prosilver': 'phpBB3', 'modernbb': 'ModernBB', 'punbb': 'PunBB', 'invision': 'Invision', 'mobile': 'Version mobile'}
+template_versions = { 'awesomebb': 'AwesomeBB', 'subsilver': 'phpBB2', 'prosilver': 'phpBB3', 'modernbb': 'ModernBB', 'punbb': 'PunBB', 'invision': 'Invision', 'mobile': 'Version mobile'}
 template_categories = OrderedDict([('main','Général'),('portal','Portail'),('gallery','Galerie'),('calendar','Calendrier'),('group','Groupes'),('post','Poster & Messages Privés'),('moderation','Modération'),('profil','Profil'), ('mobile', 'Version mobile')])
 template_descriptions = { cat:{} for cat in template_categories }
 template_contents = { ver:{} for ver in template_versions }
@@ -215,7 +215,7 @@ def var2links(var, types, prefix='../'):
     return links
 
 def sorting_version(ver):
-    return { 'subsilver': 1, 'prosilver': 0, 'modernbb': 2, 'punbb': 3, 'invision': 4, 'mobile': 5 }[ver]
+    return { 'awesomebb': 0, 'subsilver': 2, 'prosilver': 1, 'modernbb': 3, 'punbb': 4, 'invision': 5, 'mobile': 6 }[ver]
 
 def guess_type(var_name):
     if re.match('^[A-Z_0-9]+$', var_name.split('.')[-1]):
@@ -315,7 +315,7 @@ for tem in template_variables:
         if tem in template_contents['mobile']:
             mobile_index_link = ' [`Mobile`](#template-par-défaut-version-mobile)'
 
-        f.write('# Template ' + tem +append+'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)'+mobile_index_link+'\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
+        f.write('# Template ' + tem +append+'\n* [Chemin](#chemin)\n* [Description](#description)\n* [Variables disponibles](#variables-disponibles)\n* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)'+mobile_index_link+'\n\n## Chemin\n`Index` > ` Panneau d\'admnistration` > `Templates | '+template_categories[template_from_categories[tem]]+'` > `'+tem+'`\n\n## Description[*](https://fa-tvars.appspot.com/tpl/'+tem+')\n')
 
         if tem not in templates_desc:
             f.write('[*Ajouter une description*](https://fa-tvars.appspot.com/tpl/'+tem+')')
