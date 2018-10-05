@@ -1,5 +1,5 @@
 # L_USERGROUPS
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)
 * __Utilisation__ __:__
 

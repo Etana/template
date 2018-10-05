@@ -1,5 +1,5 @@
 # switch_enable_pm_popup
-* __Type__ __:__ variable de bouclage
+* __Type__ __:__ variable de bouclage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 

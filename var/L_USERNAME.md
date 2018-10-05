@@ -1,5 +1,5 @@
 # L_USERNAME
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`album_upload_body`](../tpl/album_upload_body.md#readme), [`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme), [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme), [`index_body`](../tpl/index_body.md#readme), [`memberlist_body`](../tpl/memberlist_body.md#readme), [`mod_login`](../tpl/mod_login.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation__ __:__
 

@@ -1,5 +1,5 @@
 # PAGE_TITLE
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation__ __:__
 

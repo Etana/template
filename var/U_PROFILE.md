@@ -1,5 +1,5 @@
 # U_PROFILE
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation__ __:__
 

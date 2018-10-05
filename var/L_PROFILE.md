@@ -1,5 +1,5 @@
 # L_PROFILE
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`profile_add_body`](../tpl/profile_add_body.md#readme), [`profile_edit_signature`](../tpl/profile_edit_signature.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation__ __:__
 

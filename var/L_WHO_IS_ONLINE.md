@@ -1,5 +1,5 @@
 # L_WHO_IS_ONLINE
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation__ __:__
 

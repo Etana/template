@@ -1,5 +1,5 @@
 # T_TD_COLOR1
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation__ __:__
 

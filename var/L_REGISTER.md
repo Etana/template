@@ -1,5 +1,5 @@
 # L_REGISTER
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 

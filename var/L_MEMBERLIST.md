@@ -1,5 +1,5 @@
 # L_MEMBERLIST
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`memberlist_body`](../tpl/memberlist_body.md#readme)
 * __Utilisation__ __:__
 

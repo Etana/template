@@ -1,5 +1,5 @@
 # U_FAQ
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation__ __:__
 

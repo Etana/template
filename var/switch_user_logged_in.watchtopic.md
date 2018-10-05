@@ -1,5 +1,5 @@
 # switch_user_logged_in.watchtopic
-* __Type__ __:__ sous-variable de bouclage
+* __Type__ __:__ sous-variable de bouclage globale
 * __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 

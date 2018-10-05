@@ -1,5 +1,5 @@
 # switch_user_logged_in.show_plus_menu
-* __Type__ __:__ sous-variable de bouclage
+* __Type__ __:__ sous-variable de bouclage globale
 * __Utilisable dans__ __:__ [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation__ __:__
 

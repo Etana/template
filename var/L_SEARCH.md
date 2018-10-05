@@ -1,5 +1,5 @@
 # L_SEARCH
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`merge_body`](../tpl/merge_body.md#readme), [`mod_search`](../tpl/mod_search.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_username`](../tpl/search_username.md#readme), [`topics_blog_box`](../tpl/topics_blog_box.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 

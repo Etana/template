@@ -224,6 +224,11 @@ def guess_type(var_name):
         return [0]
     return [1]
 
+def is_not_global(var):
+    if var in var_globales or var.split('.')[0] in var_globales:
+        return False
+    return True
+
 '''Write one file by variable'''
 for var in variables:
 
@@ -241,6 +246,8 @@ for var in variables:
                 f.write(' et d')
         if 1 in types:
             f.write('e bouclage')
+        if not is_not_global(var):
+            f.write(' globale')
 
         f.write('\n* __Utilisable dans__ __:__ ')
         f.write(', '.join(['[`'+t+'`](../tpl/'+t+'.md#readme)' for t in sorted(set([key for ver in variables[var].values() for key in ver.keys()]))]))
@@ -298,11 +305,6 @@ for var in variables:
                     f.write('[`'+str(num_line)+'`](../src/'+ver+'/'+tem+'.tpl#L'+str(num_line)+')')
                 f.write('\n')
             f.write('\n')
-
-def is_not_global(var):
-    if var in var_globales or var.split('.')[0] in var_globales:
-        return False
-    return True
 
 '''Write one file by template'''
 for tem in template_variables:

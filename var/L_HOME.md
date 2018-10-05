@@ -1,5 +1,5 @@
 # L_HOME
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)
 * __Utilisation__ __:__
 

@@ -1,5 +1,5 @@
 # switch_user_logged_in.U_FAVOURITE_JS_PLUS_MENU
-* __Type__ __:__ sous-variable d'affichage
+* __Type__ __:__ sous-variable d'affichage globale
 * __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 

@@ -1,5 +1,5 @@
 # U_SEARCH_UNANSWERED
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme)
 * __Utilisation__ __:__
 
