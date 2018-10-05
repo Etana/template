@@ -1,7 +1,7 @@
 # comment.displayed.switch_attachments.switch_post_attachments
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN comment -->
@@ -37,14 +37,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`361`](../src/prosilver/viewcomments_body.tpl#L361)[`<->`](../src/prosilver/viewcomments_body.tpl#L361-L386)[`386`](../src/prosilver/viewcomments_body.tpl#L386)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`365`](../src/prosilver/viewcomments_body.tpl#L365)[`<->`](../src/prosilver/viewcomments_body.tpl#L365-L390)[`390`](../src/prosilver/viewcomments_body.tpl#L390)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`416`](../src/subsilver/viewcomments_body.tpl#L416)[`<->`](../src/subsilver/viewcomments_body.tpl#L416-L444)[`444`](../src/subsilver/viewcomments_body.tpl#L444)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`421`](../src/subsilver/viewcomments_body.tpl#L421)[`<->`](../src/subsilver/viewcomments_body.tpl#L421-L449)[`449`](../src/subsilver/viewcomments_body.tpl#L449)
+
+### Version ModernBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`402`](../src/modernbb/viewcomments_body.tpl#L402)[`<->`](../src/modernbb/viewcomments_body.tpl#L402-L427)[`427`](../src/modernbb/viewcomments_body.tpl#L427)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`351`](../src/punbb/viewcomments_body.tpl#L351)[`<->`](../src/punbb/viewcomments_body.tpl#L351-L379)[`379`](../src/punbb/viewcomments_body.tpl#L379)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`354`](../src/punbb/viewcomments_body.tpl#L354)[`<->`](../src/punbb/viewcomments_body.tpl#L354-L382)[`382`](../src/punbb/viewcomments_body.tpl#L382)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`382`](../src/invision/viewcomments_body.tpl#L382)[`<->`](../src/invision/viewcomments_body.tpl#L382-L410)[`410`](../src/invision/viewcomments_body.tpl#L410)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`382`](../src/invision/viewcomments_body.tpl#L382)[`<->`](../src/invision/viewcomments_body.tpl#L382-L410)[`410`](../src/invision/viewcomments_body.tpl#L410)
 

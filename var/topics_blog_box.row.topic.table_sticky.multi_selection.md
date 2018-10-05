@@ -1,7 +1,7 @@
 # topics_blog_box.row.topic.table_sticky.multi_selection
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -26,11 +26,14 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`73`](../src/prosilver/topics_blog_box.tpl#L73)[`<->`](../src/prosilver/topics_blog_box.tpl#L73-L75)[`75`](../src/prosilver/topics_blog_box.tpl#L75)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`73`](../src/prosilver/topics_blog_box.tpl#L73)[`<->`](../src/prosilver/topics_blog_box.tpl#L73-L75)[`75`](../src/prosilver/topics_blog_box.tpl#L75)
+
+### Version ModernBB
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`70`](../src/modernbb/topics_blog_box.tpl#L70)[`<->`](../src/modernbb/topics_blog_box.tpl#L70-L72)[`72`](../src/modernbb/topics_blog_box.tpl#L72)
 
 ### Version PunBB
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`47`](../src/punbb/topics_blog_box.tpl#L47)[`<->`](../src/punbb/topics_blog_box.tpl#L47-L49)[`49`](../src/punbb/topics_blog_box.tpl#L49)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`47`](../src/punbb/topics_blog_box.tpl#L47)[`<->`](../src/punbb/topics_blog_box.tpl#L47-L49)[`49`](../src/punbb/topics_blog_box.tpl#L49)
 
 ### Version Invision
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`90`](../src/invision/topics_blog_box.tpl#L90)[`<->`](../src/invision/topics_blog_box.tpl#L90-L94)[`94`](../src/invision/topics_blog_box.tpl#L94)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`90`](../src/invision/topics_blog_box.tpl#L90)[`<->`](../src/invision/topics_blog_box.tpl#L90-L94)[`94`](../src/invision/topics_blog_box.tpl#L94)
 

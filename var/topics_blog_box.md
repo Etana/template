@@ -1,7 +1,7 @@
 # topics_blog_box
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -83,14 +83,17 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`1`](../src/prosilver/topics_blog_box.tpl#L1)[`<->`](../src/prosilver/topics_blog_box.tpl#L1-L145)[`145`](../src/prosilver/topics_blog_box.tpl#L145)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`1`](../src/prosilver/topics_blog_box.tpl#L1)[`<->`](../src/prosilver/topics_blog_box.tpl#L1-L145)[`145`](../src/prosilver/topics_blog_box.tpl#L145)
 
 ### Version phpBB2
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`1`](../src/subsilver/topics_blog_box.tpl#L1)[`<->`](../src/subsilver/topics_blog_box.tpl#L1-L99)[`99`](../src/subsilver/topics_blog_box.tpl#L99)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`1`](../src/subsilver/topics_blog_box.tpl#L1)[`<->`](../src/subsilver/topics_blog_box.tpl#L1-L99)[`99`](../src/subsilver/topics_blog_box.tpl#L99)
+
+### Version ModernBB
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`1`](../src/modernbb/topics_blog_box.tpl#L1)[`<->`](../src/modernbb/topics_blog_box.tpl#L1-L138)[`138`](../src/modernbb/topics_blog_box.tpl#L138)
 
 ### Version PunBB
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`1`](../src/punbb/topics_blog_box.tpl#L1)[`<->`](../src/punbb/topics_blog_box.tpl#L1-L120)[`120`](../src/punbb/topics_blog_box.tpl#L120)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`1`](../src/punbb/topics_blog_box.tpl#L1)[`<->`](../src/punbb/topics_blog_box.tpl#L1-L120)[`120`](../src/punbb/topics_blog_box.tpl#L120)
 
 ### Version Invision
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`1`](../src/invision/topics_blog_box.tpl#L1)[`<->`](../src/invision/topics_blog_box.tpl#L1-L178)[`178`](../src/invision/topics_blog_box.tpl#L178)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`1`](../src/invision/topics_blog_box.tpl#L1)[`<->`](../src/invision/topics_blog_box.tpl#L1-L178)[`178`](../src/invision/topics_blog_box.tpl#L178)
 

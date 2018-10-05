@@ -1,7 +1,7 @@
 # topics_blog_box.row.ROW_ALT_CLASS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -17,5 +17,8 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`84`](../src/prosilver/topics_blog_box.tpl#L84)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`84`](../src/prosilver/topics_blog_box.tpl#L84)
+
+### Version ModernBB
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`81`](../src/modernbb/topics_blog_box.tpl#L81)
 

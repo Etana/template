@@ -1,7 +1,7 @@
 # topics_blog_box.row.header_table.pagination
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -24,5 +24,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`29`](../src/subsilver/topics_blog_box.tpl#L29)[`<->`](../src/subsilver/topics_blog_box.tpl#L29-L33)[`33`](../src/subsilver/topics_blog_box.tpl#L33)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`29`](../src/subsilver/topics_blog_box.tpl#L29)[`<->`](../src/subsilver/topics_blog_box.tpl#L29-L33)[`33`](../src/subsilver/topics_blog_box.tpl#L33)
 

@@ -1,7 +1,7 @@
 # topics_blog_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -21,5 +21,5 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`50`](../src/punbb/topics_blog_box.tpl#L50)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`50`](../src/punbb/topics_blog_box.tpl#L50)
 

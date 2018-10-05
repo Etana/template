@@ -1,7 +1,7 @@
 # topics_blog_box.row.bottom
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -25,14 +25,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`138`](../src/prosilver/topics_blog_box.tpl#L138)[`<->`](../src/prosilver/topics_blog_box.tpl#L138-L142)[`142`](../src/prosilver/topics_blog_box.tpl#L142)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`138`](../src/prosilver/topics_blog_box.tpl#L138)[`<->`](../src/prosilver/topics_blog_box.tpl#L138-L142)[`142`](../src/prosilver/topics_blog_box.tpl#L142)
 
 ### Version phpBB2
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`87`](../src/subsilver/topics_blog_box.tpl#L87)[`<->`](../src/subsilver/topics_blog_box.tpl#L87-L98)[`98`](../src/subsilver/topics_blog_box.tpl#L98)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`87`](../src/subsilver/topics_blog_box.tpl#L87)[`<->`](../src/subsilver/topics_blog_box.tpl#L87-L98)[`98`](../src/subsilver/topics_blog_box.tpl#L98)
+
+### Version ModernBB
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`132`](../src/modernbb/topics_blog_box.tpl#L132)[`<->`](../src/modernbb/topics_blog_box.tpl#L132-L135)[`135`](../src/modernbb/topics_blog_box.tpl#L135)
 
 ### Version PunBB
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`104`](../src/punbb/topics_blog_box.tpl#L104)[`<->`](../src/punbb/topics_blog_box.tpl#L104-L117)[`117`](../src/punbb/topics_blog_box.tpl#L117)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`104`](../src/punbb/topics_blog_box.tpl#L104)[`<->`](../src/punbb/topics_blog_box.tpl#L104-L117)[`117`](../src/punbb/topics_blog_box.tpl#L117)
 
 ### Version Invision
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`155`](../src/invision/topics_blog_box.tpl#L155)[`<->`](../src/invision/topics_blog_box.tpl#L155-L172)[`172`](../src/invision/topics_blog_box.tpl#L172)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`155`](../src/invision/topics_blog_box.tpl#L155)[`<->`](../src/invision/topics_blog_box.tpl#L155-L172)[`172`](../src/invision/topics_blog_box.tpl#L172)
 

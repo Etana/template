@@ -1,7 +1,7 @@
 # comment.hidden.ROW_CLASS
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN comment -->
@@ -17,5 +17,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`353`](../src/subsilver/viewcomments_body.tpl#L353)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`358`](../src/subsilver/viewcomments_body.tpl#L358)
 

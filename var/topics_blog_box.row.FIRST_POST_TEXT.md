@@ -1,7 +1,7 @@
 # topics_blog_box.row.FIRST_POST_TEXT
-* __Type :__ sous-variable d'affichage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable d'affichage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -17,14 +17,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`114`](../src/prosilver/topics_blog_box.tpl#L114)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`114`](../src/prosilver/topics_blog_box.tpl#L114)
 
 ### Version phpBB2
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`68`](../src/subsilver/topics_blog_box.tpl#L68)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`68`](../src/subsilver/topics_blog_box.tpl#L68)
+
+### Version ModernBB
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`114`](../src/modernbb/topics_blog_box.tpl#L114)
 
 ### Version PunBB
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`84`](../src/punbb/topics_blog_box.tpl#L84)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`84`](../src/punbb/topics_blog_box.tpl#L84)
 
 ### Version Invision
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`132`](../src/invision/topics_blog_box.tpl#L132)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`132`](../src/invision/topics_blog_box.tpl#L132)
 

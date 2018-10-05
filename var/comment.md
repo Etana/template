@@ -1,7 +1,7 @@
 # comment
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN comment -->
@@ -15,15 +15,19 @@ contenu sur lequel on boucle
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN displayed -->`](../var/comment.displayed.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.DELETE_IMG}`](../var/comment.displayed.DELETE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.DELETE_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.DELETE_URL}`](../var/comment.displayed.DELETE_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.DELETE_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.DISPLAYABLE_STATE}`](../var/comment.displayed.DISPLAYABLE_STATE.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.DISPLAYABLE_STATE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.EDIT_IMG}`](../var/comment.displayed.EDIT_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.EDIT_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.EDIT_URL}`](../var/comment.displayed.EDIT_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.EDIT_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.EDITED_MESSAGE}`](../var/comment.displayed.EDITED_MESSAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.EDITED_MESSAGE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.IP_IMG}`](../var/comment.displayed.IP_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.IP_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.IP_URL}`](../var/comment.displayed.IP_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.IP_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.L_MINI_POST_ALT}`](../var/comment.displayed.L_MINI_POST_ALT.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.L_MINI_POST_ALT))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.L_ONLINE}`](../var/comment.displayed.L_ONLINE.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.L_ONLINE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.MESSAGE}`](../var/comment.displayed.MESSAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.MESSAGE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.MINI_POST_IMG}`](../var/comment.displayed.MINI_POST_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.MINI_POST_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.MULTIQUOTE_IMG}`](../var/comment.displayed.MULTIQUOTE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.MULTIQUOTE_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.MULTIQUOTE_URL}`](../var/comment.displayed.MULTIQUOTE_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.MULTIQUOTE_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.ONLINE_IMG_NEW}`](../var/comment.displayed.ONLINE_IMG_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.ONLINE_IMG_NEW))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.POST_DATE_NEW}`](../var/comment.displayed.POST_DATE_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.POST_DATE_NEW))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.POST_SUBJECT}`](../var/comment.displayed.POST_SUBJECT.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.POST_SUBJECT))__
@@ -31,6 +35,7 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.POSTER_AVATAR}`](../var/comment.displayed.POSTER_AVATAR.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.POSTER_AVATAR))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.POSTER_NAME}`](../var/comment.displayed.POSTER_NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.POSTER_NAME))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.QUOTE_IMG}`](../var/comment.displayed.QUOTE_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.QUOTE_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.QUOTE_URL}`](../var/comment.displayed.QUOTE_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.QUOTE_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.REPORT_IMG}`](../var/comment.displayed.REPORT_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.REPORT_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.REPORT_IMG_NEW}`](../var/comment.displayed.REPORT_IMG_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.REPORT_IMG_NEW))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.ROW_CLASS}`](../var/comment.displayed.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.ROW_CLASS))__
@@ -64,6 +69,7 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS}`](../var/comment.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.switch_vote_active.switch_vote.U_VOTE_PLUS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.THANK_BGCOLOR}`](../var/comment.displayed.THANK_BGCOLOR.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.THANK_BGCOLOR))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.THANK_IMG}`](../var/comment.displayed.THANK_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.THANK_IMG))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.THANK_URL}`](../var/comment.displayed.THANK_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.THANK_URL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.displayed.U_POST_ID}`](../var/comment.displayed.U_POST_ID.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.displayed.U_POST_ID))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN hidden -->`](../var/comment.hidden.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.hidden))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{comment.hidden.MESSAGE}`](../var/comment.hidden.MESSAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/comment.hidden.MESSAGE))__
@@ -74,14 +80,17 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`283`](../src/prosilver/viewcomments_body.tpl#L283)[`<->`](../src/prosilver/viewcomments_body.tpl#L283-L398)[`398`](../src/prosilver/viewcomments_body.tpl#L398)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`287`](../src/prosilver/viewcomments_body.tpl#L287)[`<->`](../src/prosilver/viewcomments_body.tpl#L287-L402)[`402`](../src/prosilver/viewcomments_body.tpl#L402)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`349`](../src/subsilver/viewcomments_body.tpl#L349)[`<->`](../src/subsilver/viewcomments_body.tpl#L349-L459)[`459`](../src/subsilver/viewcomments_body.tpl#L459)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`354`](../src/subsilver/viewcomments_body.tpl#L354)[`<->`](../src/subsilver/viewcomments_body.tpl#L354-L464)[`464`](../src/subsilver/viewcomments_body.tpl#L464)
+
+### Version ModernBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`300`](../src/modernbb/viewcomments_body.tpl#L300)[`<->`](../src/modernbb/viewcomments_body.tpl#L300-L436)[`436`](../src/modernbb/viewcomments_body.tpl#L436)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`293`](../src/punbb/viewcomments_body.tpl#L293)[`<->`](../src/punbb/viewcomments_body.tpl#L293-L398)[`398`](../src/punbb/viewcomments_body.tpl#L398)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`296`](../src/punbb/viewcomments_body.tpl#L296)[`<->`](../src/punbb/viewcomments_body.tpl#L296-L401)[`401`](../src/punbb/viewcomments_body.tpl#L401)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`323`](../src/invision/viewcomments_body.tpl#L323)[`<->`](../src/invision/viewcomments_body.tpl#L323-L434)[`434`](../src/invision/viewcomments_body.tpl#L434)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`323`](../src/invision/viewcomments_body.tpl#L323)[`<->`](../src/invision/viewcomments_body.tpl#L323-L434)[`434`](../src/invision/viewcomments_body.tpl#L434)
 

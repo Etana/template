@@ -1,7 +1,7 @@
 # topics_blog_box.row.topic.multi_selection.line_sticky
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -26,5 +26,5 @@
 ## Utilisations dans les templates
 
 ### Version Invision
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`142`](../src/invision/topics_blog_box.tpl#L142)[`<->`](../src/invision/topics_blog_box.tpl#L142-L142)[`142`](../src/invision/topics_blog_box.tpl#L142)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`142`](../src/invision/topics_blog_box.tpl#L142)[`<->`](../src/invision/topics_blog_box.tpl#L142-L142)[`142`](../src/invision/topics_blog_box.tpl#L142)
 

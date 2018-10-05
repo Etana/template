@@ -1,7 +1,7 @@
 # topics_blog_box.row.footer_table
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN topics_blog_box -->
@@ -22,5 +22,5 @@
 ## Utilisations dans les templates
 
 ### Version phpBB2
-* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme) :__ lignes [`98`](../src/subsilver/topics_blog_box.tpl#L98)[`<->`](../src/subsilver/topics_blog_box.tpl#L98-L99)[`99`](../src/subsilver/topics_blog_box.tpl#L99)
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`98`](../src/subsilver/topics_blog_box.tpl#L98)[`<->`](../src/subsilver/topics_blog_box.tpl#L98-L99)[`99`](../src/subsilver/topics_blog_box.tpl#L99)
 

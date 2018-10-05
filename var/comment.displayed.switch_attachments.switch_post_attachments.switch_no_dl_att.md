@@ -1,7 +1,7 @@
 # comment.displayed.switch_attachments.switch_post_attachments.switch_no_dl_att
-* __Type :__ sous-variable de bouclage
-* __Utilisable dans :__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ sous-variable de bouclage
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN comment -->
@@ -29,14 +29,17 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`371`](../src/prosilver/viewcomments_body.tpl#L371)[`<->`](../src/prosilver/viewcomments_body.tpl#L371-L373)[`373`](../src/prosilver/viewcomments_body.tpl#L373), [`379`](../src/prosilver/viewcomments_body.tpl#L379)[`<->`](../src/prosilver/viewcomments_body.tpl#L379-L381)[`381`](../src/prosilver/viewcomments_body.tpl#L381)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`375`](../src/prosilver/viewcomments_body.tpl#L375)[`<->`](../src/prosilver/viewcomments_body.tpl#L375-L377)[`377`](../src/prosilver/viewcomments_body.tpl#L377), [`383`](../src/prosilver/viewcomments_body.tpl#L383)[`<->`](../src/prosilver/viewcomments_body.tpl#L383-L385)[`385`](../src/prosilver/viewcomments_body.tpl#L385)
 
 ### Version phpBB2
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`425`](../src/subsilver/viewcomments_body.tpl#L425)[`<->`](../src/subsilver/viewcomments_body.tpl#L425-L427)[`427`](../src/subsilver/viewcomments_body.tpl#L427), [`436`](../src/subsilver/viewcomments_body.tpl#L436)[`<->`](../src/subsilver/viewcomments_body.tpl#L436-L440)[`440`](../src/subsilver/viewcomments_body.tpl#L440)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`430`](../src/subsilver/viewcomments_body.tpl#L430)[`<->`](../src/subsilver/viewcomments_body.tpl#L430-L432)[`432`](../src/subsilver/viewcomments_body.tpl#L432), [`441`](../src/subsilver/viewcomments_body.tpl#L441)[`<->`](../src/subsilver/viewcomments_body.tpl#L441-L445)[`445`](../src/subsilver/viewcomments_body.tpl#L445)
+
+### Version ModernBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`412`](../src/modernbb/viewcomments_body.tpl#L412)[`<->`](../src/modernbb/viewcomments_body.tpl#L412-L414)[`414`](../src/modernbb/viewcomments_body.tpl#L414), [`420`](../src/modernbb/viewcomments_body.tpl#L420)[`<->`](../src/modernbb/viewcomments_body.tpl#L420-L422)[`422`](../src/modernbb/viewcomments_body.tpl#L422)
 
 ### Version PunBB
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`360`](../src/punbb/viewcomments_body.tpl#L360)[`<->`](../src/punbb/viewcomments_body.tpl#L360-L362)[`362`](../src/punbb/viewcomments_body.tpl#L362), [`371`](../src/punbb/viewcomments_body.tpl#L371)[`<->`](../src/punbb/viewcomments_body.tpl#L371-L375)[`375`](../src/punbb/viewcomments_body.tpl#L375)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`363`](../src/punbb/viewcomments_body.tpl#L363)[`<->`](../src/punbb/viewcomments_body.tpl#L363-L365)[`365`](../src/punbb/viewcomments_body.tpl#L365), [`374`](../src/punbb/viewcomments_body.tpl#L374)[`<->`](../src/punbb/viewcomments_body.tpl#L374-L378)[`378`](../src/punbb/viewcomments_body.tpl#L378)
 
 ### Version Invision
-* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme) :__ lignes [`391`](../src/invision/viewcomments_body.tpl#L391)[`<->`](../src/invision/viewcomments_body.tpl#L391-L393)[`393`](../src/invision/viewcomments_body.tpl#L393), [`402`](../src/invision/viewcomments_body.tpl#L402)[`<->`](../src/invision/viewcomments_body.tpl#L402-L406)[`406`](../src/invision/viewcomments_body.tpl#L406)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`391`](../src/invision/viewcomments_body.tpl#L391)[`<->`](../src/invision/viewcomments_body.tpl#L391-L393)[`393`](../src/invision/viewcomments_body.tpl#L393), [`402`](../src/invision/viewcomments_body.tpl#L402)[`<->`](../src/invision/viewcomments_body.tpl#L402-L406)[`406`](../src/invision/viewcomments_body.tpl#L406)
 
