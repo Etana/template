@@ -79,5 +79,5 @@
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`30`](../src/invision/index_box.tpl#L30)[`<->`](../src/invision/index_box.tpl#L30-L76)[`76`](../src/invision/index_box.tpl#L76)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`7`](../src/mobile/index_box.tpl#L7)[`<->`](../src/mobile/index_box.tpl#L7-L28)[`28`](../src/mobile/index_box.tpl#L28)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`7`](../src/mobile/index_box.tpl#L7)[`<->`](../src/mobile/index_box.tpl#L7-L36)[`36`](../src/mobile/index_box.tpl#L36)
 

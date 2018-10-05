@@ -22,7 +22,7 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`122`](../src/prosilver/index_body.tpl#L122)[`<->`](../src/prosilver/index_body.tpl#L122-L124)[`124`](../src/prosilver/index_body.tpl#L124)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`123`](../src/prosilver/index_body.tpl#L123)[`<->`](../src/prosilver/index_body.tpl#L123-L125)[`125`](../src/prosilver/index_body.tpl#L125)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`121`](../src/subsilver/index_body.tpl#L121)[`<->`](../src/subsilver/index_body.tpl#L121-L123)[`123`](../src/subsilver/index_body.tpl#L123)

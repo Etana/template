@@ -1,6 +1,6 @@
 # topicrow.TOPIC_FOLDER_IMG_ALT
 * __Type__ __:__ sous-variable d'affichage
-* __Utilisable dans__ __:__ [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisable dans__ __:__ [`topics_blog_box`](../tpl/topics_blog_box.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -18,6 +18,7 @@
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`88`](../src/awesomebb/topics_list_box.tpl#L88)
 
 ### Version phpBB3
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`86`](../src/prosilver/topics_blog_box.tpl#L86)
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`94`](../src/prosilver/topics_list_box.tpl#L94)
 
 ### Version ModernBB

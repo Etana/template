@@ -13,7 +13,7 @@ Affiche le pseudo des utilisateurs connectés sur la chatbox.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`97`](../src/prosilver/index_body.tpl#L97)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`98`](../src/prosilver/index_body.tpl#L98)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`170`](../src/subsilver/index_body.tpl#L170)

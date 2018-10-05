@@ -1,6 +1,6 @@
 # U_FAVOURITE_JS_PLUS_MENU
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -13,17 +13,25 @@
 ## Utilisations dans les templates
 
 ### Version AwesomeBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`75`](../src/awesomebb/viewcomments_body.tpl#L75)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`71`](../src/awesomebb/viewtopic_body.tpl#L71)
 
 ### Version phpBB3
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`85`](../src/prosilver/viewcomments_body.tpl#L85)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`91`](../src/prosilver/viewtopic_body.tpl#L91)
 
 ### Version phpBB2
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`84`](../src/subsilver/viewcomments_body.tpl#L84)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`84`](../src/subsilver/viewtopic_body.tpl#L84)
 
 ### Version ModernBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`83`](../src/modernbb/viewcomments_body.tpl#L83)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`84`](../src/modernbb/viewtopic_body.tpl#L84)
 
+### Version PunBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`46`](../src/punbb/viewcomments_body.tpl#L46)
+
 ### Version Invision
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`91`](../src/invision/viewcomments_body.tpl#L91)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`92`](../src/invision/viewtopic_body.tpl#L92)
 

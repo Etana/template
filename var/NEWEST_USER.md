@@ -30,7 +30,7 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`26`](../src/awesomebb/overall_footer_begin.tpl#L26)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`91`](../src/prosilver/index_body.tpl#L91)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`92`](../src/prosilver/index_body.tpl#L92)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`5`](../src/prosilver/mod_statistics.tpl#L5)
 
 ### Version phpBB2

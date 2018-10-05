@@ -1,6 +1,6 @@
 # POST_IMG_CLASS
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -13,8 +13,10 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/viewcomments_body.tpl#L46), [`446`](../src/prosilver/viewcomments_body.tpl#L446)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`49`](../src/prosilver/viewtopic_body.tpl#L49), [`326`](../src/prosilver/viewtopic_body.tpl#L326)
 
 ### Version PunBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`104`](../src/punbb/viewcomments_body.tpl#L104), [`439`](../src/punbb/viewcomments_body.tpl#L439)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`105`](../src/punbb/viewtopic_body.tpl#L105), [`290`](../src/punbb/viewtopic_body.tpl#L290)
 

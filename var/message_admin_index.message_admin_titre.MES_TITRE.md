@@ -20,7 +20,7 @@ Contient le titre indiqué dans `PA > Affichage > Page d'accueil | Généralité
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`6`](../src/awesomebb/index_body.tpl#L6)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`36`](../src/prosilver/index_body.tpl#L36)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`37`](../src/prosilver/index_body.tpl#L37)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`6`](../src/subsilver/index_body.tpl#L6)

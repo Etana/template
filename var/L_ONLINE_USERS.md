@@ -16,7 +16,7 @@
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`33`](../src/awesomebb/index_body.tpl#L33)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`66`](../src/prosilver/index_body.tpl#L66)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`67`](../src/prosilver/index_body.tpl#L67)
 
 ### Version ModernBB
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`58`](../src/modernbb/index_body.tpl#L58)

@@ -1,6 +1,6 @@
 # post_row
 * __Type__ __:__ variable de bouclage
-* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme)
+* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -56,6 +56,7 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/subsilver/mod_news.tpl#L1)[`<->`](../src/subsilver/mod_news.tpl#L1-L67)[`67`](../src/subsilver/mod_news.tpl#L67)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`321`](../src/subsilver/viewcomments_body.tpl#L321)[`<->`](../src/subsilver/viewcomments_body.tpl#L321-L352)[`352`](../src/subsilver/viewcomments_body.tpl#L352)
 
 ### Version ModernBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/modernbb/mod_news.tpl#L1)[`<->`](../src/modernbb/mod_news.tpl#L1-L54)[`54`](../src/modernbb/mod_news.tpl#L54)

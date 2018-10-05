@@ -29,7 +29,7 @@ Chaîne de caractère.
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`4`](../src/prosilver/calendar_overview_profil.tpl#L4)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`52`](../src/prosilver/groupcp_info_body.tpl#L52)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`7`](../src/prosilver/groupcp_pending_info.tpl#L7)
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`11`](../src/prosilver/index_body.tpl#L11), [`115`](../src/prosilver/index_body.tpl#L115)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`12`](../src/prosilver/index_body.tpl#L12), [`116`](../src/prosilver/index_body.tpl#L116)
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`30`](../src/prosilver/memberlist_body.tpl#L30)
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`10`](../src/prosilver/mod_login.tpl#L10), [`56`](../src/prosilver/mod_login.tpl#L56)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`53`](../src/prosilver/posting_body.tpl#L53), [`66`](../src/prosilver/posting_body.tpl#L66)

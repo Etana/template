@@ -41,7 +41,7 @@ Champs non visible du formulaire.
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`11`](../src/prosilver/confirm_body.tpl#L11)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`39`](../src/prosilver/groupcp_info_body.tpl#L39), [`108`](../src/prosilver/groupcp_info_body.tpl#L108)
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`42`](../src/prosilver/groupcp_user_body.tpl#L42)
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`14`](../src/prosilver/index_body.tpl#L14), [`118`](../src/prosilver/index_body.tpl#L118)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`15`](../src/prosilver/index_body.tpl#L15), [`119`](../src/prosilver/index_body.tpl#L119)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`38`](../src/prosilver/merge_body.tpl#L38)
 * __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`14`](../src/prosilver/merge_select_body.tpl#L14)
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/modcp_body.tpl#L46)

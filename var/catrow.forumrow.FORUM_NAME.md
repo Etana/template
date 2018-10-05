@@ -35,5 +35,5 @@ Contient le nom du forum bouclé.
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`37`](../src/invision/index_box.tpl#L37)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`21`](../src/mobile/index_box.tpl#L21)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`22`](../src/mobile/index_box.tpl#L22)
 

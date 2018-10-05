@@ -49,7 +49,7 @@
 
 </head>
 <body id="mpage-body-modern">
-    <div id="wrap">
+    <div id="mwrap">
         <div id="header" class="mobile_title">
             {NAV_CAT_DESC}
         </div>

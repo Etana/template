@@ -24,7 +24,7 @@ Boucle contenant le titre du message d'accueil.
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`5`](../src/awesomebb/index_body.tpl#L5)[`<->`](../src/awesomebb/index_body.tpl#L5-L7)[`7`](../src/awesomebb/index_body.tpl#L7)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`35`](../src/prosilver/index_body.tpl#L35)[`<->`](../src/prosilver/index_body.tpl#L35-L37)[`37`](../src/prosilver/index_body.tpl#L37)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`36`](../src/prosilver/index_body.tpl#L36)[`<->`](../src/prosilver/index_body.tpl#L36-L38)[`38`](../src/prosilver/index_body.tpl#L38)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`4`](../src/subsilver/index_body.tpl#L4)[`<->`](../src/subsilver/index_body.tpl#L4-L8)[`8`](../src/subsilver/index_body.tpl#L8)

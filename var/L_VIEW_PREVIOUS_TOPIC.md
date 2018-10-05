@@ -1,6 +1,6 @@
 # L_VIEW_PREVIOUS_TOPIC
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -18,15 +18,22 @@ Remplacé par un code html avec l'image `Voir le sujet précédent` spécifiée 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`87`](../src/awesomebb/viewcomments_body.tpl#L87)
+
 ### Version phpBB3
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`102`](../src/prosilver/viewcomments_body.tpl#L102), [`420`](../src/prosilver/viewcomments_body.tpl#L420)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/prosilver/viewtopic_body.tpl#L109), [`259`](../src/prosilver/viewtopic_body.tpl#L259)
 
 ### Version phpBB2
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`106`](../src/subsilver/viewcomments_body.tpl#L106), [`485`](../src/subsilver/viewcomments_body.tpl#L485)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`109`](../src/subsilver/viewtopic_body.tpl#L109), [`285`](../src/subsilver/viewtopic_body.tpl#L285)
 
 ### Version ModernBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`95`](../src/modernbb/viewcomments_body.tpl#L95), [`448`](../src/modernbb/viewcomments_body.tpl#L448)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`98`](../src/modernbb/viewtopic_body.tpl#L98), [`283`](../src/modernbb/viewtopic_body.tpl#L283)
 
 ### Version PunBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`116`](../src/punbb/viewcomments_body.tpl#L116), [`414`](../src/punbb/viewcomments_body.tpl#L414)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`117`](../src/punbb/viewtopic_body.tpl#L117), [`265`](../src/punbb/viewtopic_body.tpl#L265)
 

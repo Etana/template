@@ -1,6 +1,6 @@
 # no_post
 * __Type__ __:__ variable de bouclage
-* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -19,5 +19,6 @@ contenu sur lequel on boucle
 ## Utilisations dans les templates
 
 ### Version phpBB2
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`264`](../src/subsilver/viewcomments_body.tpl#L264)[`<->`](../src/subsilver/viewcomments_body.tpl#L264-L270)[`270`](../src/subsilver/viewcomments_body.tpl#L270)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`270`](../src/subsilver/viewtopic_body.tpl#L270)[`<->`](../src/subsilver/viewtopic_body.tpl#L270-L276)[`276`](../src/subsilver/viewtopic_body.tpl#L276)
 

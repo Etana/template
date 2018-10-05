@@ -15,7 +15,7 @@ Chaîne de texte.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`102`](../src/prosilver/index_body.tpl#L102)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`103`](../src/prosilver/index_body.tpl#L103)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`175`](../src/subsilver/index_body.tpl#L175)

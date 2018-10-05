@@ -21,7 +21,7 @@ Action du formulaire de connexion.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`112`](../src/awesomebb/overall_header.tpl#L112)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`9`](../src/prosilver/index_body.tpl#L9), [`113`](../src/prosilver/index_body.tpl#L113)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`10`](../src/prosilver/index_body.tpl#L10), [`114`](../src/prosilver/index_body.tpl#L114)
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_login.tpl#L6), [`54`](../src/prosilver/mod_login.tpl#L54)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`236`](../src/prosilver/overall_header.tpl#L236)
 

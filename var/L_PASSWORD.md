@@ -19,7 +19,7 @@ Chaîne de caractère.
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`26`](../src/awesomebb/mod_login.tpl#L26), [`65`](../src/awesomebb/mod_login.tpl#L65)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`12`](../src/prosilver/index_body.tpl#L12), [`116`](../src/prosilver/index_body.tpl#L116)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/index_body.tpl#L13), [`117`](../src/prosilver/index_body.tpl#L117)
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`14`](../src/prosilver/mod_login.tpl#L14), [`58`](../src/prosilver/mod_login.tpl#L58)
 
 ### Version phpBB2

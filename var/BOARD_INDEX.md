@@ -20,7 +20,7 @@ Affiche le contenu du template [`index_box`](../tpl/index_box.md#readme) ou [`in
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`42`](../src/awesomebb/viewforum_body.tpl#L42)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`47`](../src/prosilver/index_body.tpl#L47)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`48`](../src/prosilver/index_body.tpl#L48)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/viewforum_body.tpl#L6)
 
 ### Version phpBB2

@@ -1,6 +1,6 @@
 # postrow.displayed.user_logged_in.switch_user_email
 * __Type__ __:__ sous-variable de bouclage
-* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -24,5 +24,6 @@
 ## Utilisations dans les templates
 
 ### Version Invision
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`131`](../src/invision/viewcomments_body.tpl#L131)[`<->`](../src/invision/viewcomments_body.tpl#L131-L133)[`133`](../src/invision/viewcomments_body.tpl#L133)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`137`](../src/invision/viewtopic_body.tpl#L137)[`<->`](../src/invision/viewtopic_body.tpl#L137-L139)[`139`](../src/invision/viewtopic_body.tpl#L139)
 

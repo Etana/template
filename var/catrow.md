@@ -98,5 +98,5 @@ contenu sur lequel on boucle
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`1`](../src/invision/index_box.tpl#L1)[`<->`](../src/invision/index_box.tpl#L1-L84)[`84`](../src/invision/index_box.tpl#L84)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`1`](../src/mobile/index_box.tpl#L1)[`<->`](../src/mobile/index_box.tpl#L1-L33)[`33`](../src/mobile/index_box.tpl#L33)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`1`](../src/mobile/index_box.tpl#L1)[`<->`](../src/mobile/index_box.tpl#L1-L41)[`41`](../src/mobile/index_box.tpl#L41)
 

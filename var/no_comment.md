@@ -18,6 +18,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`323`](../src/awesomebb/viewcomments_body.tpl#L323)[`<->`](../src/awesomebb/viewcomments_body.tpl#L323-L327)[`327`](../src/awesomebb/viewcomments_body.tpl#L327)
+
 ### Version phpBB3
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`404`](../src/prosilver/viewcomments_body.tpl#L404)[`<->`](../src/prosilver/viewcomments_body.tpl#L404-L410)[`410`](../src/prosilver/viewcomments_body.tpl#L410)
 

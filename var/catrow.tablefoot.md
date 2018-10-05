@@ -38,5 +38,5 @@
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`78`](../src/invision/index_box.tpl#L78)[`<->`](../src/invision/index_box.tpl#L78-L83)[`83`](../src/invision/index_box.tpl#L83)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`30`](../src/mobile/index_box.tpl#L30)[`<->`](../src/mobile/index_box.tpl#L30-L32)[`32`](../src/mobile/index_box.tpl#L32)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`38`](../src/mobile/index_box.tpl#L38)[`<->`](../src/mobile/index_box.tpl#L38-L40)[`40`](../src/mobile/index_box.tpl#L40)
 

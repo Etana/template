@@ -30,7 +30,7 @@ Nous avons <strong>1</strong> membre enregistré
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`23`](../src/awesomebb/overall_footer_begin.tpl#L23)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`88`](../src/prosilver/index_body.tpl#L88)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`89`](../src/prosilver/index_body.tpl#L89)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`5`](../src/prosilver/mod_statistics.tpl#L5)
 
 ### Version phpBB2

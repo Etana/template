@@ -20,7 +20,7 @@ Chaîne de caractère.
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`112`](../src/awesomebb/overall_header.tpl#L112)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`14`](../src/prosilver/index_body.tpl#L14), [`118`](../src/prosilver/index_body.tpl#L118)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`15`](../src/prosilver/index_body.tpl#L15), [`119`](../src/prosilver/index_body.tpl#L119)
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`5`](../src/prosilver/mod_login.tpl#L5), [`25`](../src/prosilver/mod_login.tpl#L25), [`53`](../src/prosilver/mod_login.tpl#L53), [`62`](../src/prosilver/mod_login.tpl#L62)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`237`](../src/prosilver/overall_header.tpl#L237)
 

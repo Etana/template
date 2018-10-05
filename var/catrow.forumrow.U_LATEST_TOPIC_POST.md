@@ -19,3 +19,6 @@
 ### Version AwesomeBB
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`95`](../src/awesomebb/index_box.tpl#L95)
 
+### Version Version mobile
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`27`](../src/mobile/index_box.tpl#L27)
+

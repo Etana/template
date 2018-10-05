@@ -49,6 +49,7 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.L_SELECT}`](../var/topics_blog_box.row.L_SELECT.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.L_SELECT))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.L_TITLE}`](../var/topics_blog_box.row.L_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.L_TITLE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.L_TOPIC_FOLDER_ALT}`](../var/topics_blog_box.row.L_TOPIC_FOLDER_ALT.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.L_TOPIC_FOLDER_ALT))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.LAST_POST_TIME}`](../var/topics_blog_box.row.LAST_POST_TIME.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.LAST_POST_TIME))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.NEWEST_POST_IMG}`](../var/topics_blog_box.row.NEWEST_POST_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.NEWEST_POST_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_topics -->`](../var/topics_blog_box.row.no_topics.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.no_topics))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.PARTICIPATE_POST_IMG}`](../var/topics_blog_box.row.PARTICIPATE_POST_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.PARTICIPATE_POST_IMG))__
@@ -81,6 +82,9 @@ contenu sur lequel on boucle
 
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`1`](../src/awesomebb/topics_blog_box.tpl#L1)[`<->`](../src/awesomebb/topics_blog_box.tpl#L1-L39)[`39`](../src/awesomebb/topics_blog_box.tpl#L39)
 
 ### Version phpBB3
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`1`](../src/prosilver/topics_blog_box.tpl#L1)[`<->`](../src/prosilver/topics_blog_box.tpl#L1-L145)[`145`](../src/prosilver/topics_blog_box.tpl#L145)

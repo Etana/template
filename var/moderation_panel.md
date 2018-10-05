@@ -1,6 +1,6 @@
 # moderation_panel
 * __Type__ __:__ variable de bouclage
-* __Utilisable dans__ __:__ [`album_index_body`](../tpl/album_index_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`album_index_body`](../tpl/album_index_body.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -30,6 +30,7 @@ contenu sur lequel on boucle
 
 ### Version phpBB2
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`116`](../src/subsilver/album_index_body.tpl#L116)[`<->`](../src/subsilver/album_index_body.tpl#L116-L120)[`120`](../src/subsilver/album_index_body.tpl#L120)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`580`](../src/subsilver/viewcomments_body.tpl#L580)[`<->`](../src/subsilver/viewcomments_body.tpl#L580-L587)[`587`](../src/subsilver/viewcomments_body.tpl#L587)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`452`](../src/subsilver/viewtopic_body.tpl#L452)[`<->`](../src/subsilver/viewtopic_body.tpl#L452-L459)[`459`](../src/subsilver/viewtopic_body.tpl#L459)
 
 ### Version ModernBB

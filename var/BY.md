@@ -1,6 +1,6 @@
 # BY
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme), [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)
+* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme), [`mod_recent_topics`](../tpl/mod_recent_topics.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -19,6 +19,7 @@
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`14`](../src/subsilver/mod_news.tpl#L14)
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`14`](../src/subsilver/mod_recent_topics.tpl#L14), [`40`](../src/subsilver/mod_recent_topics.tpl#L40)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`336`](../src/subsilver/viewcomments_body.tpl#L336)
 
 ### Version PunBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`11`](../src/punbb/mod_news.tpl#L11)

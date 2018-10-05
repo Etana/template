@@ -1,6 +1,6 @@
 # postrow.displayed.PROFILE_POSITION
 * __Type__ __:__ sous-variable d'affichage
-* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -17,5 +17,6 @@
 ## Utilisations dans les templates
 
 ### Version PunBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`251`](../src/punbb/viewcomments_body.tpl#L251), [`254`](../src/punbb/viewcomments_body.tpl#L254)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`243`](../src/punbb/viewtopic_body.tpl#L243), [`246`](../src/punbb/viewtopic_body.tpl#L246)
 

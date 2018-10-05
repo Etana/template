@@ -16,7 +16,7 @@
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`4`](../src/awesomebb/mod_statistics.tpl#L4)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`77`](../src/prosilver/index_body.tpl#L77), [`81`](../src/prosilver/index_body.tpl#L81)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`78`](../src/prosilver/index_body.tpl#L78), [`82`](../src/prosilver/index_body.tpl#L82)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_statistics.tpl#L4)
 
 ### Version phpBB2

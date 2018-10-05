@@ -35,5 +35,5 @@ Contient le nombre de sujets postés dans le forum bouclé.
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`51`](../src/invision/index_box.tpl#L51)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`22`](../src/mobile/index_box.tpl#L22)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`23`](../src/mobile/index_box.tpl#L23)
 

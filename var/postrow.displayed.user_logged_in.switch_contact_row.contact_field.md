@@ -1,6 +1,6 @@
 # postrow.displayed.user_logged_in.switch_contact_row.contact_field
 * __Type__ __:__ sous-variable de bouclage
-* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -27,5 +27,6 @@
 ## Utilisations dans les templates
 
 ### Version Invision
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`136`](../src/invision/viewcomments_body.tpl#L136)[`<->`](../src/invision/viewcomments_body.tpl#L136-L138)[`138`](../src/invision/viewcomments_body.tpl#L138)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`142`](../src/invision/viewtopic_body.tpl#L142)[`<->`](../src/invision/viewtopic_body.tpl#L142-L144)[`144`](../src/invision/viewtopic_body.tpl#L144)
 

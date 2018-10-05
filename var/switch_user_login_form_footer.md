@@ -22,7 +22,7 @@ Boucle d'affichage si vous avez activé la connexion rapide en bas de la page d'
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`110`](../src/prosilver/index_body.tpl#L110)[`<->`](../src/prosilver/index_body.tpl#L110-L134)[`134`](../src/prosilver/index_body.tpl#L134)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`111`](../src/prosilver/index_body.tpl#L111)[`<->`](../src/prosilver/index_body.tpl#L111-L135)[`135`](../src/prosilver/index_body.tpl#L135)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`91`](../src/subsilver/index_body.tpl#L91)[`<->`](../src/subsilver/index_body.tpl#L91-L134)[`134`](../src/subsilver/index_body.tpl#L134)

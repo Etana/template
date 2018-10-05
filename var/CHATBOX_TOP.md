@@ -16,7 +16,7 @@ Affiche la chatbox sur la page d'accueil en haut si l'option dans `PA > Modules 
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`15`](../src/awesomebb/index_body.tpl#L15)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/index_body.tpl#L46)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`47`](../src/prosilver/index_body.tpl#L47)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`64`](../src/subsilver/index_body.tpl#L64)

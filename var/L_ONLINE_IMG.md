@@ -20,7 +20,7 @@ Lien de l'image spécifiée dans `Général / navigation > Qui est en ligne ?`.
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`59`](../src/prosilver/index_body.tpl#L59)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`60`](../src/prosilver/index_body.tpl#L60)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`150`](../src/subsilver/index_body.tpl#L150)

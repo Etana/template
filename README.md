@@ -33,7 +33,9 @@
 * __[`search_username`](tpl/search_username.md#readme)__ __:__ Rechercher un utilisateur
 * __[`simple_footer`](tpl/simple_footer.md#readme)__ __:__ Bas de page simple (utilisé sur quelques pages)
 * __[`simple_header`](tpl/simple_header.md#readme)__ __:__ Haut de page simple (utilisé sur quelques pages)
+* __[`topics_blog_box`](tpl/topics_blog_box.md#readme)__ __:__ Affichage d'un blog
 * __[`topics_list_box`](tpl/topics_list_box.md#readme)__ __:__ Affichage des sujets
+* __[`viewcomments_body`](tpl/viewcomments_body.md#readme)__ __:__ Affichage des commentaires
 * __[`viewforum_body`](tpl/viewforum_body.md#readme)__ __:__ Affichage d'un forum
 * __[`viewonline_body`](tpl/viewonline_body.md#readme)__ __:__ Visualisation de qui est en ligne
 * __[`viewtopic_body`](tpl/viewtopic_body.md#readme)__ __:__ Affichage d'un sujet

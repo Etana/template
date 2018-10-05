@@ -244,7 +244,7 @@ for var in variables:
         f.write(', '.join(['[`'+t+'`](../tpl/'+t+'.md#readme)' for t in sorted(set([key for ver in variables[var].values() for key in ver.keys()]))]))
 
         f.write('\n* __Utilisation__ __:__\n\n```smarty\n')
-        
+
         var_parts = var.split('.')
         for vtype in types:
             if 0 == vtype:

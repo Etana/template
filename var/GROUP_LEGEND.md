@@ -16,7 +16,7 @@ Affiche la liste des groupes dans le qui est en ligne selon votre `PA > Utilisat
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`39`](../src/awesomebb/index_body.tpl#L39)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`71`](../src/prosilver/index_body.tpl#L71)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`72`](../src/prosilver/index_body.tpl#L72)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`165`](../src/subsilver/index_body.tpl#L165)

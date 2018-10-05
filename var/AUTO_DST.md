@@ -16,7 +16,7 @@ Variable actuellement inutilisée.
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`4`](../src/awesomebb/profile_send_pass.tpl#L4)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`146`](../src/prosilver/index_body.tpl#L146)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`147`](../src/prosilver/index_body.tpl#L147)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`202`](../src/subsilver/index_body.tpl#L202)

@@ -18,7 +18,7 @@ Boucle affichant la légende des icônes en bas des forums si l'option est activ
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`138`](../src/prosilver/index_body.tpl#L138)[`<->`](../src/prosilver/index_body.tpl#L138-L144)[`144`](../src/prosilver/index_body.tpl#L144)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`139`](../src/prosilver/index_body.tpl#L139)[`<->`](../src/prosilver/index_body.tpl#L139-L145)[`145`](../src/prosilver/index_body.tpl#L145)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`80`](../src/prosilver/viewforum_body.tpl#L80)[`<->`](../src/prosilver/viewforum_body.tpl#L80-L99)[`99`](../src/prosilver/viewforum_body.tpl#L99)
 
 ### Version phpBB2

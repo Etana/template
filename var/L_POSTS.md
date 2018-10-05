@@ -69,5 +69,5 @@ Chaîne de texte.
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`64`](../src/invision/search_body.tpl#L64)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`22`](../src/mobile/index_box.tpl#L22)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`23`](../src/mobile/index_box.tpl#L23)
 

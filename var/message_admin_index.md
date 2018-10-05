@@ -27,7 +27,7 @@ Boucle contenant le message d'accueil.
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/index_body.tpl#L3)[`<->`](../src/awesomebb/index_body.tpl#L3-L13)[`13`](../src/awesomebb/index_body.tpl#L13)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`32`](../src/prosilver/index_body.tpl#L32)[`<->`](../src/prosilver/index_body.tpl#L32-L44)[`44`](../src/prosilver/index_body.tpl#L44)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`33`](../src/prosilver/index_body.tpl#L33)[`<->`](../src/prosilver/index_body.tpl#L33-L45)[`45`](../src/prosilver/index_body.tpl#L45)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`2`](../src/subsilver/index_body.tpl#L2)[`<->`](../src/subsilver/index_body.tpl#L2-L17)[`17`](../src/subsilver/index_body.tpl#L17)

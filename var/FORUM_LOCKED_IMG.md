@@ -13,7 +13,7 @@ Affiche l'image des forums dans `PA > Affichage > Images et Couleurs | Gestion d
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`142`](../src/prosilver/index_body.tpl#L142)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`143`](../src/prosilver/index_body.tpl#L143)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`196`](../src/subsilver/index_body.tpl#L196)

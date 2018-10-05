@@ -28,6 +28,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`255`](../src/awesomebb/viewcomments_body.tpl#L255)[`<->`](../src/awesomebb/viewcomments_body.tpl#L255-L257)[`257`](../src/awesomebb/viewcomments_body.tpl#L257)
+
 ### Version phpBB3
 * __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`371`](../src/prosilver/viewcomments_body.tpl#L371)[`<->`](../src/prosilver/viewcomments_body.tpl#L371-L373)[`373`](../src/prosilver/viewcomments_body.tpl#L373)
 

@@ -33,5 +33,5 @@
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`70`](../src/invision/index_box.tpl#L70)
 
 ### Version Version mobile
-* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`23`](../src/mobile/index_box.tpl#L23)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`29`](../src/mobile/index_box.tpl#L29)
 

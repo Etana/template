@@ -1,6 +1,7 @@
 {JAVASCRIPT}
 <!-- BEGIN switch_user_logged_in --><p class="right rightside">{LAST_VISIT_DATE}</p><!-- END switch_user_logged_in -->
 <p>{CURRENT_TIME}</p>
+{CAT_NAME}
 <br class="clear" />
 
 <!-- BEGIN switch_user_login_form_header -->

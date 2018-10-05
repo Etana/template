@@ -1,6 +1,6 @@
 # postrow
 * __Type__ __:__ variable de bouclage
-* __Utilisable dans__ __:__ [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`modcp_split`](../tpl/modcp_split.md#readme), [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -44,6 +44,12 @@ contenu sur lequel on boucle
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.ONLINE_IMG_NEW}`](../var/postrow.displayed.ONLINE_IMG_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.ONLINE_IMG_NEW))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.PM_IMG}`](../var/postrow.displayed.PM_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.PM_IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE}`](../var/postrow.displayed.POST_DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE_DMY_CLASS0}`](../var/postrow.displayed.POST_DATE_DMY_CLASS0.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_DMY_CLASS0))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE_DMY_CLASS1}`](../var/postrow.displayed.POST_DATE_DMY_CLASS1.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_DMY_CLASS1))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE_DMY_CLASS2}`](../var/postrow.displayed.POST_DATE_DMY_CLASS2.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_DMY_CLASS2))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE_DMY_VALUE0}`](../var/postrow.displayed.POST_DATE_DMY_VALUE0.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_DMY_VALUE0))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE_DMY_VALUE1}`](../var/postrow.displayed.POST_DATE_DMY_VALUE1.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_DMY_VALUE1))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE_DMY_VALUE2}`](../var/postrow.displayed.POST_DATE_DMY_VALUE2.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_DMY_VALUE2))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE_NEW}`](../var/postrow.displayed.POST_DATE_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_DATE_NEW))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_ID}`](../var/postrow.displayed.POST_ID.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_ID))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_SUBJECT}`](../var/postrow.displayed.POST_SUBJECT.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT))__
@@ -137,36 +143,42 @@ contenu sur lequel on boucle
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`31`](../src/awesomebb/modcp_split.tpl#L31)[`<->`](../src/awesomebb/modcp_split.tpl#L31-L46)[`46`](../src/awesomebb/modcp_split.tpl#L46)
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`1`](../src/awesomebb/posting_topic_review.tpl#L1)[`<->`](../src/awesomebb/posting_topic_review.tpl#L1-L20)[`20`](../src/awesomebb/posting_topic_review.tpl#L20)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`9`](../src/awesomebb/privmsg_topic_review.tpl#L9)[`<->`](../src/awesomebb/privmsg_topic_review.tpl#L9-L19)[`19`](../src/awesomebb/privmsg_topic_review.tpl#L19)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`94`](../src/awesomebb/viewcomments_body.tpl#L94)[`<->`](../src/awesomebb/viewcomments_body.tpl#L94-L191)[`191`](../src/awesomebb/viewcomments_body.tpl#L191)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`105`](../src/awesomebb/viewtopic_body.tpl#L105)[`<->`](../src/awesomebb/viewtopic_body.tpl#L105-L300)[`300`](../src/awesomebb/viewtopic_body.tpl#L300)
 
 ### Version phpBB3
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`38`](../src/prosilver/modcp_split.tpl#L38)[`<->`](../src/prosilver/modcp_split.tpl#L38-L51)[`51`](../src/prosilver/modcp_split.tpl#L51)
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`5`](../src/prosilver/posting_topic_review.tpl#L5)[`<->`](../src/prosilver/posting_topic_review.tpl#L5-L29)[`29`](../src/prosilver/posting_topic_review.tpl#L29)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`5`](../src/prosilver/privmsg_topic_review.tpl#L5)[`<->`](../src/prosilver/privmsg_topic_review.tpl#L5-L16)[`16`](../src/prosilver/privmsg_topic_review.tpl#L16)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`108`](../src/prosilver/viewcomments_body.tpl#L108)[`<->`](../src/prosilver/viewcomments_body.tpl#L108-L251)[`251`](../src/prosilver/viewcomments_body.tpl#L251)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`116`](../src/prosilver/viewtopic_body.tpl#L116)[`<->`](../src/prosilver/viewtopic_body.tpl#L116-L249)[`249`](../src/prosilver/viewtopic_body.tpl#L249)
 
 ### Version phpBB2
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`37`](../src/subsilver/modcp_split.tpl#L37)[`<->`](../src/subsilver/modcp_split.tpl#L37-L66)[`66`](../src/subsilver/modcp_split.tpl#L66)
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`13`](../src/subsilver/posting_topic_review.tpl#L13)[`<->`](../src/subsilver/posting_topic_review.tpl#L13-L44)[`44`](../src/subsilver/posting_topic_review.tpl#L44)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`14`](../src/subsilver/privmsg_topic_review.tpl#L14)[`<->`](../src/subsilver/privmsg_topic_review.tpl#L14-L34)[`34`](../src/subsilver/privmsg_topic_review.tpl#L34)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`124`](../src/subsilver/viewcomments_body.tpl#L124)[`<->`](../src/subsilver/viewcomments_body.tpl#L124-L263)[`263`](../src/subsilver/viewcomments_body.tpl#L263)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`127`](../src/subsilver/viewtopic_body.tpl#L127)[`<->`](../src/subsilver/viewtopic_body.tpl#L127-L269)[`269`](../src/subsilver/viewtopic_body.tpl#L269)
 
 ### Version ModernBB
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`38`](../src/modernbb/modcp_split.tpl#L38)[`<->`](../src/modernbb/modcp_split.tpl#L38-L51)[`51`](../src/modernbb/modcp_split.tpl#L51)
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`5`](../src/modernbb/posting_topic_review.tpl#L5)[`<->`](../src/modernbb/posting_topic_review.tpl#L5-L23)[`23`](../src/modernbb/posting_topic_review.tpl#L23)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`5`](../src/modernbb/privmsg_topic_review.tpl#L5)[`<->`](../src/modernbb/privmsg_topic_review.tpl#L5-L15)[`15`](../src/modernbb/privmsg_topic_review.tpl#L15)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`102`](../src/modernbb/viewcomments_body.tpl#L102)[`<->`](../src/modernbb/viewcomments_body.tpl#L102-L268)[`268`](../src/modernbb/viewcomments_body.tpl#L268)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`108`](../src/modernbb/viewtopic_body.tpl#L108)[`<->`](../src/modernbb/viewtopic_body.tpl#L108-L277)[`277`](../src/modernbb/viewtopic_body.tpl#L277)
 
 ### Version PunBB
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`48`](../src/punbb/modcp_split.tpl#L48)[`<->`](../src/punbb/modcp_split.tpl#L48-L73)[`73`](../src/punbb/modcp_split.tpl#L73)
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`7`](../src/punbb/posting_topic_review.tpl#L7)[`<->`](../src/punbb/posting_topic_review.tpl#L7-L39)[`39`](../src/punbb/posting_topic_review.tpl#L39)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`18`](../src/punbb/privmsg_topic_review.tpl#L18)[`<->`](../src/punbb/privmsg_topic_review.tpl#L18-L49)[`49`](../src/punbb/privmsg_topic_review.tpl#L49)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`124`](../src/punbb/viewcomments_body.tpl#L124)[`<->`](../src/punbb/viewcomments_body.tpl#L124-L261)[`261`](../src/punbb/viewcomments_body.tpl#L261)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`125`](../src/punbb/viewtopic_body.tpl#L125)[`<->`](../src/punbb/viewtopic_body.tpl#L125-L259)[`259`](../src/punbb/viewtopic_body.tpl#L259)
 
 ### Version Invision
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`31`](../src/invision/modcp_split.tpl#L31)[`<->`](../src/invision/modcp_split.tpl#L31-L59)[`59`](../src/invision/modcp_split.tpl#L59)
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`8`](../src/invision/posting_topic_review.tpl#L8)[`<->`](../src/invision/posting_topic_review.tpl#L8-L41)[`41`](../src/invision/posting_topic_review.tpl#L41)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`8`](../src/invision/privmsg_topic_review.tpl#L8)[`<->`](../src/invision/privmsg_topic_review.tpl#L8-L35)[`35`](../src/invision/privmsg_topic_review.tpl#L35)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`103`](../src/invision/viewcomments_body.tpl#L103)[`<->`](../src/invision/viewcomments_body.tpl#L103-L280)[`280`](../src/invision/viewcomments_body.tpl#L280)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`105`](../src/invision/viewtopic_body.tpl#L105)[`<->`](../src/invision/viewtopic_body.tpl#L105-L276)[`276`](../src/invision/viewtopic_body.tpl#L276)
 
 ### Version Version mobile

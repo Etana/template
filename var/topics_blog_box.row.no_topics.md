@@ -21,6 +21,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`28`](../src/awesomebb/topics_blog_box.tpl#L28)[`<->`](../src/awesomebb/topics_blog_box.tpl#L28-L34)[`34`](../src/awesomebb/topics_blog_box.tpl#L34)
+
 ### Version phpBB3
 * __[`topics_blog_box`](../tpl/topics_blog_box.md#readme)__ __:__ lignes [`130`](../src/prosilver/topics_blog_box.tpl#L130)[`<->`](../src/prosilver/topics_blog_box.tpl#L130-L136)[`136`](../src/prosilver/topics_blog_box.tpl#L136)
 

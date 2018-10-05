@@ -1,6 +1,6 @@
 # post_row.ID
 * __Type__ __:__ sous-variable d'affichage
-* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme)
+* __Utilisable dans__ __:__ [`mod_news`](../tpl/mod_news.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -22,6 +22,7 @@
 
 ### Version phpBB2
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`10`](../src/subsilver/mod_news.tpl#L10)
+* __[`viewcomments_body`](../tpl/viewcomments_body.md#readme)__ __:__ lignes [`332`](../src/subsilver/viewcomments_body.tpl#L332)
 
 ### Version ModernBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`2`](../src/modernbb/mod_news.tpl#L2)

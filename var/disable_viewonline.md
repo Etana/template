@@ -33,7 +33,7 @@ Boucle contenant le qui est en ligne.
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`15`](../src/awesomebb/overall_footer_begin.tpl#L15)[`<->`](../src/awesomebb/overall_footer_begin.tpl#L15-L31)[`31`](../src/awesomebb/overall_footer_begin.tpl#L31)
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`49`](../src/prosilver/index_body.tpl#L49)[`<->`](../src/prosilver/index_body.tpl#L49-L106)[`106`](../src/prosilver/index_body.tpl#L106)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`50`](../src/prosilver/index_body.tpl#L50)[`<->`](../src/prosilver/index_body.tpl#L50-L107)[`107`](../src/prosilver/index_body.tpl#L107)
 
 ### Version phpBB2
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`136`](../src/subsilver/index_body.tpl#L136)[`<->`](../src/subsilver/index_body.tpl#L136-L184)[`184`](../src/subsilver/index_body.tpl#L184)

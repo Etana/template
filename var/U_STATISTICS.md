@@ -13,7 +13,7 @@
 ## Utilisations dans les templates
 
 ### Version phpBB3
-* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`77`](../src/prosilver/index_body.tpl#L77)
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`78`](../src/prosilver/index_body.tpl#L78)
 
 ### Version Invision
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`122`](../src/invision/index_body.tpl#L122)
