@@ -130,6 +130,8 @@ for var_name in var_desc:
     if '{%%}' in var_desc[var_name]:
         var_globales += [var_name]
         var_desc[var_name] = var_desc[var_name].replace('{%%}','')
+        if var_name not in variables:
+            variables[var_name] = {}
     for tem in list(set(re.findall('\{%([a-z0-9_-]+)%\}', var_desc[var_name]))):
         if tem not in template_variables:
             continue 
@@ -143,7 +145,7 @@ for var_name in var_desc:
             variables[var_name][ver][tem] = []
     if '{' in var_desc[var_name]:
         var_desc[var_name]= expandvar(var_desc[var_name])
-        
+
 
 '''Parsing des templates'''
 for ver in template_contents:
