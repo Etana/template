@@ -14,6 +14,10 @@ Contient le nom du forum dans lequel le message a été posté.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`19`](../src/awesomebb/search_results_posts.tpl#L19)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`38`](../src/awesomebb/search_results_topics.tpl#L38)
+
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`18`](../src/prosilver/search_results_posts.tpl#L18)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`35`](../src/prosilver/search_results_topics.tpl#L35)

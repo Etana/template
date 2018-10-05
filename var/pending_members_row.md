@@ -29,6 +29,10 @@ Bouclage sur les éventuels membres en cours de demande d'adhésion au groupe :
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`17`](../src/awesomebb/groupcp_pending_info.tpl#L17)[`<->`](../src/awesomebb/groupcp_pending_info.tpl#L17-L27)[`27`](../src/awesomebb/groupcp_pending_info.tpl#L27)
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`19`](../src/prosilver/groupcp_pending_info.tpl#L19)[`<->`](../src/prosilver/groupcp_pending_info.tpl#L19-L29)[`29`](../src/prosilver/groupcp_pending_info.tpl#L29)

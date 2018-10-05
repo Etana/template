@@ -19,6 +19,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`30`](../src/awesomebb/report_view_body.tpl#L30)[`<->`](../src/awesomebb/report_view_body.tpl#L30-L39)[`39`](../src/awesomebb/report_view_body.tpl#L39)
+
 ### Version phpBB3
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`39`](../src/prosilver/report_view_body.tpl#L39)[`<->`](../src/prosilver/report_view_body.tpl#L39-L48)[`48`](../src/prosilver/report_view_body.tpl#L48)
 

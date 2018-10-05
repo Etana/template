@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`17`](../src/awesomebb/viewtopic_poll_result.tpl#L17)
+
 ### Version phpBB3
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`20`](../src/prosilver/viewtopic_poll_result.tpl#L20)
 

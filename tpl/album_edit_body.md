@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_edit_body`
@@ -40,6 +40,37 @@
 	* [`{STYLE_CSS}`](../var/STYLE_CSS.md#readme) ([x](https://fa-tvars.appspot.com/var/STYLE_CSS))
 	* [`{U_ALBUM}`](../var/U_ALBUM.md#readme) ([x](https://fa-tvars.appspot.com/var/U_ALBUM))
 	* [`{U_FORUM_INDEX}`](../var/U_FORUM_INDEX.md#readme) ([x](https://fa-tvars.appspot.com/var/U_FORUM_INDEX))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/album_edit_body.tpl#files)
+
+### Positions des variables
+
+* __[`{JS_MENU}`](../var/JS_MENU.md#readme)__ __:__ ligne [`1`](../src/awesomebb/album_edit_body.tpl#L1)
+* __[`{L_ALBUM}`](../var/L_ALBUM.md#readme)__ __:__ ligne [`34`](../src/awesomebb/album_edit_body.tpl#L34)
+* __[`{L_DESC_TOO_LONG}`](../var/L_DESC_TOO_LONG.md#readme)__ __:__ ligne [`14`](../src/awesomebb/album_edit_body.tpl#L14)
+* __[`{L_EDIT_PIC_INFO}`](../var/L_EDIT_PIC_INFO.md#readme)__ __:__ ligne [`31`](../src/awesomebb/album_edit_body.tpl#L31)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`33`](../src/awesomebb/album_edit_body.tpl#L33)
+* __[`{L_MAX_LENGTH}`](../var/L_MAX_LENGTH.md#readme)__ __:__ ligne [`48`](../src/awesomebb/album_edit_body.tpl#L48)
+* __[`{L_MOVE_TO_CATEGORY}`](../var/L_MOVE_TO_CATEGORY.md#readme)__ __:__ ligne [`53`](../src/awesomebb/album_edit_body.tpl#L53)
+* __[`{L_PIC_DESC}`](../var/L_PIC_DESC.md#readme)__ __:__ ligne [`47`](../src/awesomebb/album_edit_body.tpl#L47)
+* __[`{L_PIC_TITLE}`](../var/L_PIC_TITLE.md#readme)__ __:__ ligne [`43`](../src/awesomebb/album_edit_body.tpl#L43)
+* __[`{L_PLAIN_TEXT_ONLY}`](../var/L_PLAIN_TEXT_ONLY.md#readme)__ __:__ ligne [`48`](../src/awesomebb/album_edit_body.tpl#L48)
+* __[`{L_RESET}`](../var/L_RESET.md#readme)__ __:__ ligne [`63`](../src/awesomebb/album_edit_body.tpl#L63)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)__ __:__ ligne [`62`](../src/awesomebb/album_edit_body.tpl#L62)
+* __[`{L_UPLOAD_NO_TITLE}`](../var/L_UPLOAD_NO_TITLE.md#readme)__ __:__ ligne [`10`](../src/awesomebb/album_edit_body.tpl#L10)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`35`](../src/awesomebb/album_edit_body.tpl#L35)
+* __[`{PIC_DESC}`](../var/PIC_DESC.md#readme)__ __:__ ligne [`49`](../src/awesomebb/album_edit_body.tpl#L49)
+* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme)__ __:__ ligne [`44`](../src/awesomebb/album_edit_body.tpl#L44)
+* __[`{S_ALBUM_ACTION}`](../var/S_ALBUM_ACTION.md#readme)__ __:__ ligne [`39`](../src/awesomebb/album_edit_body.tpl#L39)
+* __[`{S_CATEGORY_SELECT}`](../var/S_CATEGORY_SELECT.md#readme)__ __:__ ligne [`54`](../src/awesomebb/album_edit_body.tpl#L54)
+* __[`{S_PIC_DESC_MAX_LENGTH}`](../var/S_PIC_DESC_MAX_LENGTH.md#readme)__ __:__ ligne [`12`](../src/awesomebb/album_edit_body.tpl#L12)
+* __[`{S_PIC_DESC_MAX_LENGTH}`](../var/S_PIC_DESC_MAX_LENGTH.md#readme)__ __:__ ligne [`48`](../src/awesomebb/album_edit_body.tpl#L48)
+* __[`{U_ALBUM}`](../var/U_ALBUM.md#readme)__ __:__ ligne [`34`](../src/awesomebb/album_edit_body.tpl#L34)
+* __[`{U_FORUM_INDEX}`](../var/U_FORUM_INDEX.md#readme)__ __:__ ligne [`33`](../src/awesomebb/album_edit_body.tpl#L33)
+* __[`<!-- BEGIN move_to_category -->`](../var/move_to_category.md#readme)__ __:__ ligne [`51`](../src/awesomebb/album_edit_body.tpl#L51)
+* __[`<!-- END move_to_category -->`](../var/move_to_category.md#readme)__ __:__ ligne [`56`](../src/awesomebb/album_edit_body.tpl#L56)
 
 ## Template par défaut phpBB3
 

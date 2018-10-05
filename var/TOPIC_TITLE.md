@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`43`](../src/awesomebb/viewtopic_body.tpl#L43)
+
 ### Version phpBB3
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`2`](../src/prosilver/calendar_overview_topic.tpl#L2)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`43`](../src/prosilver/viewtopic_body.tpl#L43)

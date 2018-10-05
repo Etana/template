@@ -12,6 +12,9 @@ Affiche le template [`topics_list_box`](../tpl/topics_list_box.md#readme) ou [`t
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`46`](../src/awesomebb/viewforum_body.tpl#L46)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/viewforum_body.tpl#L46)
 

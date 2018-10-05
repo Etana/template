@@ -12,6 +12,9 @@ Affiche l'avatar du posteur dans un lien vers le profil s'il s'agit d'un membre 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`12`](../src/awesomebb/profile_view_body.tpl#L12), [`15`](../src/awesomebb/profile_view_body.tpl#L15)
+
 ### Version phpBB3
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/profile_view_body.tpl#L13)
 

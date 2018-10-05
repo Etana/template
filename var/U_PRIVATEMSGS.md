@@ -12,6 +12,10 @@ Adresse url absolue vers la boîte de réception des messages privés : `/privms
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`9`](../src/awesomebb/greeting_popup.tpl#L9)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`9`](../src/awesomebb/privmsgs_popup.tpl#L9)
+
 ### Version phpBB3
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`10`](../src/prosilver/greeting_popup.tpl#L10)
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`9`](../src/prosilver/privmsgs_popup.tpl#L9)

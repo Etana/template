@@ -15,6 +15,14 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`118`](../src/awesomebb/album_cat_body.tpl#L118)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`88`](../src/awesomebb/album_modcp_body.tpl#L88)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`115`](../src/awesomebb/album_moderate_body.tpl#L115)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`18`](../src/awesomebb/memberlist_body.tpl#L18)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`110`](../src/prosilver/album_cat_body.tpl#L110)
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`78`](../src/prosilver/album_modcp_body.tpl#L78)

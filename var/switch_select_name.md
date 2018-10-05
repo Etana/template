@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`18`](../src/awesomebb/search_username.tpl#L18)[`<->`](../src/awesomebb/search_username.tpl#L18-L23)[`23`](../src/awesomebb/search_username.tpl#L23)
+
 ### Version phpBB3
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`17`](../src/prosilver/search_username.tpl#L17)[`<->`](../src/prosilver/search_username.tpl#L17-L22)[`22`](../src/prosilver/search_username.tpl#L22)
 

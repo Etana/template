@@ -15,6 +15,9 @@ Chaîne de caractère.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`16`](../src/awesomebb/index_box.tpl#L16)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`6`](../src/prosilver/index_box.tpl#L6)
 

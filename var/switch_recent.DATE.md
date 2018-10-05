@@ -14,6 +14,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`22`](../src/awesomebb/album_overview_top10.tpl#L22)
+
 ### Version phpBB3
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`22`](../src/prosilver/album_overview_top10.tpl#L22)
 

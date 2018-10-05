@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `portal_body`
@@ -58,6 +58,28 @@
 	* [`<!-- END simple_header -->`](../var/simple_header.md#readme) ([x](https://fa-tvars.appspot.com/var/simple_header))
 	* [`{SPACE_COL}`](../var/SPACE_COL.md#readme) ([x](https://fa-tvars.appspot.com/var/SPACE_COL))
 	* [`{SPACE_ROW}`](../var/SPACE_ROW.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/portal_body.tpl#files)
+
+### Positions des variables
+
+* __[`<!-- BEGIN giefmod0 -->`](../var/giefmod0.md#readme)__ __:__ ligne [`12`](../src/awesomebb/portal_body.tpl#L12)
+* __[`<!-- END giefmod0 -->`](../var/giefmod0.md#readme)__ __:__ ligne [`14`](../src/awesomebb/portal_body.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod0.MODVAR}`](../var/giefmod0.MODVAR.md#readme)__ __:__ ligne [`13`](../src/awesomebb/portal_body.tpl#L13)
+* __[`<!-- BEGIN giefmod1 -->`](../var/giefmod1.md#readme)__ __:__ ligne [`16`](../src/awesomebb/portal_body.tpl#L16)
+* __[`<!-- END giefmod1 -->`](../var/giefmod1.md#readme)__ __:__ ligne [`18`](../src/awesomebb/portal_body.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod1.MODVAR}`](../var/giefmod1.MODVAR.md#readme)__ __:__ ligne [`17`](../src/awesomebb/portal_body.tpl#L17)
+* __[`<!-- BEGIN giefmod2 -->`](../var/giefmod2.md#readme)__ __:__ ligne [`6`](../src/awesomebb/portal_body.tpl#L6)
+* __[`<!-- END giefmod2 -->`](../var/giefmod2.md#readme)__ __:__ ligne [`8`](../src/awesomebb/portal_body.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod2.MODVAR}`](../var/giefmod2.MODVAR.md#readme)__ __:__ ligne [`7`](../src/awesomebb/portal_body.tpl#L7)
+* __[`<!-- BEGIN giefmod3 -->`](../var/giefmod3.md#readme)__ __:__ ligne [`23`](../src/awesomebb/portal_body.tpl#L23)
+* __[`<!-- END giefmod3 -->`](../var/giefmod3.md#readme)__ __:__ ligne [`25`](../src/awesomebb/portal_body.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod3.MODVAR}`](../var/giefmod3.MODVAR.md#readme)__ __:__ ligne [`24`](../src/awesomebb/portal_body.tpl#L24)
+* __[`<!-- BEGIN giefmod4 -->`](../var/giefmod4.md#readme)__ __:__ ligne [`27`](../src/awesomebb/portal_body.tpl#L27)
+* __[`<!-- END giefmod4 -->`](../var/giefmod4.md#readme)__ __:__ ligne [`29`](../src/awesomebb/portal_body.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod4.MODVAR}`](../var/giefmod4.MODVAR.md#readme)__ __:__ ligne [`28`](../src/awesomebb/portal_body.tpl#L28)
 
 ## Template par défaut phpBB3
 

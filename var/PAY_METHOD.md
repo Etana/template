@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`107`](../src/awesomebb/buy_credits.tpl#L107), [`122`](../src/awesomebb/buy_credits.tpl#L122), [`129`](../src/awesomebb/buy_credits.tpl#L129), [`141`](../src/awesomebb/buy_credits.tpl#L141)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`111`](../src/prosilver/buy_credits.tpl#L111), [`126`](../src/prosilver/buy_credits.tpl#L126), [`131`](../src/prosilver/buy_credits.tpl#L131), [`143`](../src/prosilver/buy_credits.tpl#L143)
 

@@ -12,6 +12,9 @@ Variable liée à des statistiques internes.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`71`](../src/awesomebb/overall_header.tpl#L71)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`207`](../src/prosilver/overall_header.tpl#L207)
 

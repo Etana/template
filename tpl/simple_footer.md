@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `simple_footer`
@@ -19,6 +19,13 @@
 	* [`<!-- END switch_view_stats -->`](../var/switch_view_stats.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_view_stats))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_view_stats.L_STATS}`](../var/switch_view_stats.L_STATS.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_view_stats.L_STATS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_view_stats.S_STATS}`](../var/switch_view_stats.S_STATS.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_view_stats.S_STATS))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/simple_footer.tpl#files)
+
+### Positions des variables
+
 
 ## Template par défaut phpBB3
 

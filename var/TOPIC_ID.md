@@ -14,6 +14,9 @@ Remplacé par l'identifiant numérique du sujet.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`76`](../src/awesomebb/viewtopic_body.tpl#L76), [`334`](../src/awesomebb/viewtopic_body.tpl#L334)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`96`](../src/prosilver/viewtopic_body.tpl#L96), [`355`](../src/prosilver/viewtopic_body.tpl#L355)
 

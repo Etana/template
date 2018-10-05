@@ -14,6 +14,9 @@ Identifiant numérique du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`25`](../src/awesomebb/groupcp_pending_info.tpl#L25)
+
 ### Version phpBB3
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`27`](../src/prosilver/groupcp_pending_info.tpl#L27)
 

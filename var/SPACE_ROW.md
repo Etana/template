@@ -12,6 +12,10 @@ Affiche la valeur renseignée dans votre `PA > Modules > Portail & Widgets | Ges
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`10`](../src/awesomebb/overall_footer_begin.tpl#L10)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`155`](../src/awesomebb/overall_header.tpl#L155)
+
 ### Version phpBB3
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`19`](../src/prosilver/overall_footer_begin.tpl#L19)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`340`](../src/prosilver/overall_header.tpl#L340)

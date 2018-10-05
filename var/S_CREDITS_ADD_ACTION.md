@@ -14,6 +14,9 @@ Action du formulaire de donation.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`76`](../src/awesomebb/buy_credits.tpl#L76), [`93`](../src/awesomebb/buy_credits.tpl#L93), [`121`](../src/awesomebb/buy_credits.tpl#L121), [`140`](../src/awesomebb/buy_credits.tpl#L140), [`150`](../src/awesomebb/buy_credits.tpl#L150), [`180`](../src/awesomebb/buy_credits.tpl#L180)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`82`](../src/prosilver/buy_credits.tpl#L82), [`99`](../src/prosilver/buy_credits.tpl#L99), [`125`](../src/prosilver/buy_credits.tpl#L125), [`142`](../src/prosilver/buy_credits.tpl#L142), [`152`](../src/prosilver/buy_credits.tpl#L152), [`182`](../src/prosilver/buy_credits.tpl#L182)
 

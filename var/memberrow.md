@@ -36,6 +36,9 @@ Boucle affichant les informations d'un membre et se répétant pour chaque membr
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`45`](../src/awesomebb/memberlist_body.tpl#L45)[`<->`](../src/awesomebb/memberlist_body.tpl#L45-L74)[`74`](../src/awesomebb/memberlist_body.tpl#L74)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`43`](../src/prosilver/memberlist_body.tpl#L43)[`<->`](../src/prosilver/memberlist_body.tpl#L43-L57)[`57`](../src/prosilver/memberlist_body.tpl#L57)
 

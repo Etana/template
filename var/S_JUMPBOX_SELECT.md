@@ -14,6 +14,14 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`34`](../src/awesomebb/faq_body.tpl#L34)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`34`](../src/awesomebb/faq_dhtml.tpl#L34)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`143`](../src/awesomebb/groupcp_info_body.tpl#L143)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`50`](../src/awesomebb/groupcp_user_body.tpl#L50)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`76`](../src/awesomebb/modcp_body.tpl#L76)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`326`](../src/awesomebb/viewtopic_body.tpl#L326)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`38`](../src/prosilver/faq_body.tpl#L38)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`30`](../src/prosilver/faq_dhtml.tpl#L30)

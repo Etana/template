@@ -12,6 +12,10 @@ Lien vers "Sujets surveillés" dans le menu Plus !
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`26`](../src/awesomebb/viewforum_body.tpl#L26)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`75`](../src/awesomebb/viewtopic_body.tpl#L75)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`16`](../src/prosilver/viewforum_body.tpl#L16)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`95`](../src/prosilver/viewtopic_body.tpl#L95)

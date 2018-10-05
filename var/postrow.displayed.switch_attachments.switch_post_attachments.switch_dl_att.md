@@ -28,6 +28,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`187`](../src/awesomebb/viewtopic_body.tpl#L187)[`<->`](../src/awesomebb/viewtopic_body.tpl#L187-L189)[`189`](../src/awesomebb/viewtopic_body.tpl#L189)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`188`](../src/prosilver/viewtopic_body.tpl#L188)[`<->`](../src/prosilver/viewtopic_body.tpl#L188-L190)[`190`](../src/prosilver/viewtopic_body.tpl#L190)
 

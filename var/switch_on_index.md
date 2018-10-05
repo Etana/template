@@ -21,6 +21,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`112`](../src/awesomebb/index_box.tpl#L112)[`<->`](../src/awesomebb/index_box.tpl#L112-L131)[`131`](../src/awesomebb/index_box.tpl#L131)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`84`](../src/prosilver/index_box.tpl#L84)[`<->`](../src/prosilver/index_box.tpl#L84-L93)[`93`](../src/prosilver/index_box.tpl#L93)
 

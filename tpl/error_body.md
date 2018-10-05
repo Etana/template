@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `error_body`
@@ -17,6 +17,14 @@ Ce template affiche un message d'erreur lors d'un problème de saisie.
 * __Variables propres à ce template__ __:__
 	* [`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)
 	* [`{ERRORS_FOUND}`](../var/ERRORS_FOUND.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/error_body.tpl#files)
+
+### Positions des variables
+
+* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)__ __:__ ligne [`3`](../src/awesomebb/error_body.tpl#L3)
 
 ## Template par défaut phpBB3
 

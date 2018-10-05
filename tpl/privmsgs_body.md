@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsgs_body`
@@ -70,6 +70,49 @@
 	* [`<!-- END switch_no_messages -->`](../var/switch_no_messages.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_no_messages))
 	* [`<!-- BEGIN switch_save -->`](../var/switch_save.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_save))
 	* [`<!-- END switch_save -->`](../var/switch_save.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_save))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/privmsgs_body.tpl#files)
+
+### Positions des variables
+
+* __[`{BOX_SIZE_STATUS}`](../var/BOX_SIZE_STATUS.md#readme)__ __:__ ligne [`8`](../src/awesomebb/privmsgs_body.tpl#L8)
+* __[`{INBOX}`](../var/INBOX.md#readme)__ __:__ ligne [`91`](../src/awesomebb/privmsgs_body.tpl#L91)
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`80`](../src/awesomebb/privmsgs_body.tpl#L80)
+* __[`{L_DELETE_ALL}`](../var/L_DELETE_ALL.md#readme)__ __:__ ligne [`73`](../src/awesomebb/privmsgs_body.tpl#L73)
+* __[`{L_DELETE_MARKED}`](../var/L_DELETE_MARKED.md#readme)__ __:__ ligne [`72`](../src/awesomebb/privmsgs_body.tpl#L72)
+* __[`{L_DISPLAY_MESSAGES}`](../var/L_DISPLAY_MESSAGES.md#readme)__ __:__ ligne [`12`](../src/awesomebb/privmsgs_body.tpl#L12)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`16`](../src/awesomebb/privmsgs_body.tpl#L16)
+* __[`{L_MARK_ALL}`](../var/L_MARK_ALL.md#readme)__ __:__ ligne [`55`](../src/awesomebb/privmsgs_body.tpl#L55)
+* __[`{L_MOVE_PROFILE_MARKED}`](../var/L_MOVE_PROFILE_MARKED.md#readme)__ __:__ ligne [`75`](../src/awesomebb/privmsgs_body.tpl#L75)
+* __[`{L_NO_MESSAGES}`](../var/L_NO_MESSAGES.md#readme)__ __:__ ligne [`47`](../src/awesomebb/privmsgs_body.tpl#L47)
+* __[`{L_SAVE_MARKED}`](../var/L_SAVE_MARKED.md#readme)__ __:__ ligne [`70`](../src/awesomebb/privmsgs_body.tpl#L70)
+* __[`{L_UNMARK_ALL}`](../var/L_UNMARK_ALL.md#readme)__ __:__ ligne [`59`](../src/awesomebb/privmsgs_body.tpl#L59)
+* __[`{OUTBOX}`](../var/OUTBOX.md#readme)__ __:__ ligne [`93`](../src/awesomebb/privmsgs_body.tpl#L93)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`64`](../src/awesomebb/privmsgs_body.tpl#L64)
+* __[`{SAVEBOX}`](../var/SAVEBOX.md#readme)__ __:__ ligne [`94`](../src/awesomebb/privmsgs_body.tpl#L94)
+* __[`{SENTBOX}`](../var/SENTBOX.md#readme)__ __:__ ligne [`92`](../src/awesomebb/privmsgs_body.tpl#L92)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`68`](../src/awesomebb/privmsgs_body.tpl#L68)
+* __[`{S_PRIVMSGS_ACTION}`](../var/S_PRIVMSGS_ACTION.md#readme)__ __:__ ligne [`3`](../src/awesomebb/privmsgs_body.tpl#L3)
+* __[`{S_SELECT_MSG_DAYS}`](../var/S_SELECT_MSG_DAYS.md#readme)__ __:__ ligne [`14`](../src/awesomebb/privmsgs_body.tpl#L14)
+* __[`<!-- BEGIN listrow -->`](../var/listrow.md#readme)__ __:__ ligne [`20`](../src/awesomebb/privmsgs_body.tpl#L20)
+* __[`<!-- END listrow -->`](../var/listrow.md#readme)__ __:__ ligne [`42`](../src/awesomebb/privmsgs_body.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.DATE}`](../var/listrow.DATE.md#readme)__ __:__ ligne [`38`](../src/awesomebb/privmsgs_body.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.FROM}`](../var/listrow.FROM.md#readme)__ __:__ ligne [`38`](../src/awesomebb/privmsgs_body.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.PRIVMSG_ICON}`](../var/listrow.PRIVMSG_ICON.md#readme)__ __:__ ligne [`32`](../src/awesomebb/privmsgs_body.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.ROW_CLASS}`](../var/listrow.ROW_CLASS.md#readme)__ __:__ ligne [`21`](../src/awesomebb/privmsgs_body.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.SUBJECT}`](../var/listrow.SUBJECT.md#readme)__ __:__ ligne [`34`](../src/awesomebb/privmsgs_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.S_MARK_ID}`](../var/listrow.S_MARK_ID.md#readme)__ __:__ ligne [`25`](../src/awesomebb/privmsgs_body.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{listrow.U_READ}`](../var/listrow.U_READ.md#readme)__ __:__ ligne [`33`](../src/awesomebb/privmsgs_body.tpl#L33)
+* __[`<!-- BEGIN switch_box_size_notice -->`](../var/switch_box_size_notice.md#readme)__ __:__ ligne [`6`](../src/awesomebb/privmsgs_body.tpl#L6)
+* __[`<!-- END switch_box_size_notice -->`](../var/switch_box_size_notice.md#readme)__ __:__ ligne [`10`](../src/awesomebb/privmsgs_body.tpl#L10)
+* __[`<!-- BEGIN switch_move_profile -->`](../var/switch_move_profile.md#readme)__ __:__ ligne [`74`](../src/awesomebb/privmsgs_body.tpl#L74)
+* __[`<!-- END switch_move_profile -->`](../var/switch_move_profile.md#readme)__ __:__ ligne [`76`](../src/awesomebb/privmsgs_body.tpl#L76)
+* __[`<!-- BEGIN switch_no_messages -->`](../var/switch_no_messages.md#readme)__ __:__ ligne [`44`](../src/awesomebb/privmsgs_body.tpl#L44)
+* __[`<!-- END switch_no_messages -->`](../var/switch_no_messages.md#readme)__ __:__ ligne [`50`](../src/awesomebb/privmsgs_body.tpl#L50)
+* __[`<!-- BEGIN switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`69`](../src/awesomebb/privmsgs_body.tpl#L69)
+* __[`<!-- END switch_save -->`](../var/switch_save.md#readme)__ __:__ ligne [`71`](../src/awesomebb/privmsgs_body.tpl#L71)
 
 ## Template par défaut phpBB3
 

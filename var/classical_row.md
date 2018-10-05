@@ -28,6 +28,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`41`](../src/awesomebb/mod_recent_topics.tpl#L41)[`<->`](../src/awesomebb/mod_recent_topics.tpl#L41-L67)[`67`](../src/awesomebb/mod_recent_topics.tpl#L67)
+
 ### Version phpBB3
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`29`](../src/prosilver/mod_recent_topics.tpl#L29)[`<->`](../src/prosilver/mod_recent_topics.tpl#L29-L47)[`47`](../src/prosilver/mod_recent_topics.tpl#L47)
 

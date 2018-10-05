@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`34`](../src/awesomebb/posting_smilies.tpl#L34)
+
 ### Version phpBB3
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`34`](../src/prosilver/posting_smilies.tpl#L34)
 

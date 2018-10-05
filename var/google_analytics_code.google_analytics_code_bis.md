@@ -19,6 +19,9 @@ Boucle liée à <!-- BEGIN google_analytics_code -->...<!-- END google_analytics
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`70`](../src/awesomebb/overall_header.tpl#L70)[`<->`](../src/awesomebb/overall_header.tpl#L70-L73)[`73`](../src/awesomebb/overall_header.tpl#L73)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`206`](../src/prosilver/overall_header.tpl#L206)[`<->`](../src/prosilver/overall_header.tpl#L206-L210)[`210`](../src/prosilver/overall_header.tpl#L210)
 

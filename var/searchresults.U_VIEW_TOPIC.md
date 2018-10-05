@@ -14,6 +14,9 @@ Contient le lien vers le sujet bouclé.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`25`](../src/awesomebb/search_results_topics.tpl#L25)
+
 ### Version phpBB3
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`32`](../src/prosilver/search_results_topics.tpl#L32)
 

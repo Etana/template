@@ -14,6 +14,9 @@ Contient la dernière visite du membre.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`58`](../src/awesomebb/memberlist_body.tpl#L58), [`69`](../src/awesomebb/memberlist_body.tpl#L69)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`52`](../src/prosilver/memberlist_body.tpl#L52)
 

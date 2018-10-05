@@ -21,6 +21,9 @@ Boucle d'affichage si l'option pour la suppression des cookies est activée dans
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`123`](../src/awesomebb/index_box.tpl#L123)[`<->`](../src/awesomebb/index_box.tpl#L123-L129)[`129`](../src/awesomebb/index_box.tpl#L129)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`89`](../src/prosilver/index_box.tpl#L89)[`<->`](../src/prosilver/index_box.tpl#L89-L91)[`91`](../src/prosilver/index_box.tpl#L91)
 

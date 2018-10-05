@@ -19,6 +19,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`220`](../src/awesomebb/album_upload_body.tpl#L220)[`<->`](../src/awesomebb/album_upload_body.tpl#L220-L224)[`224`](../src/awesomebb/album_upload_body.tpl#L224)
+
 ### Version phpBB3
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`220`](../src/prosilver/album_upload_body.tpl#L220)[`<->`](../src/prosilver/album_upload_body.tpl#L220-L222)[`222`](../src/prosilver/album_upload_body.tpl#L222)
 

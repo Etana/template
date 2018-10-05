@@ -18,6 +18,9 @@ Adresse URL d'une image vide.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`26`](../src/awesomebb/buy_credits.tpl#L26)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`29`](../src/prosilver/buy_credits.tpl#L29)
 

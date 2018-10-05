@@ -15,6 +15,10 @@ Chaîne de caractère.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`26`](../src/awesomebb/index_body.tpl#L26)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`4`](../src/awesomebb/mod_whoisonline.tpl#L4)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`52`](../src/prosilver/index_body.tpl#L52), [`56`](../src/prosilver/index_body.tpl#L56), [`59`](../src/prosilver/index_body.tpl#L59)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_whoisonline.tpl#L4)

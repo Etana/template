@@ -14,6 +14,9 @@ Contient le nombre de réponses dans le sujet.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`21`](../src/awesomebb/search_results_posts.tpl#L21)
+
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`20`](../src/prosilver/search_results_posts.tpl#L20)
 

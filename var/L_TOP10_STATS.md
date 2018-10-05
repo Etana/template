@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`4`](../src/awesomebb/album_cat_top10.tpl#L4), [`9`](../src/awesomebb/album_cat_top10.tpl#L9)
+
 ### Version phpBB3
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`7`](../src/prosilver/album_cat_top10.tpl#L7), [`10`](../src/prosilver/album_cat_top10.tpl#L10)
 

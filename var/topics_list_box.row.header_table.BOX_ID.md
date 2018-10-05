@@ -18,6 +18,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`7`](../src/awesomebb/topics_list_box.tpl#L7), [`15`](../src/awesomebb/topics_list_box.tpl#L15), [`21`](../src/awesomebb/topics_list_box.tpl#L21), [`24`](../src/awesomebb/topics_list_box.tpl#L24), [`30`](../src/awesomebb/topics_list_box.tpl#L30), [`32`](../src/awesomebb/topics_list_box.tpl#L32)
+
 ### Version phpBB3
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`7`](../src/prosilver/topics_list_box.tpl#L7), [`15`](../src/prosilver/topics_list_box.tpl#L15), [`21`](../src/prosilver/topics_list_box.tpl#L21), [`24`](../src/prosilver/topics_list_box.tpl#L24), [`30`](../src/prosilver/topics_list_box.tpl#L30), [`32`](../src/prosilver/topics_list_box.tpl#L32), [`47`](../src/prosilver/topics_list_box.tpl#L47), [`47`](../src/prosilver/topics_list_box.tpl#L47), [`78`](../src/prosilver/topics_list_box.tpl#L78), [`78`](../src/prosilver/topics_list_box.tpl#L78)
 

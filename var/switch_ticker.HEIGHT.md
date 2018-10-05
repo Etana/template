@@ -14,6 +14,9 @@ Contient la hauteur des annonces définie dans `PA > Général > Messages et Ema
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`49`](../src/awesomebb/overall_header.tpl#L49), [`166`](../src/awesomebb/overall_header.tpl#L166)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`48`](../src/prosilver/overall_header.tpl#L48), [`140`](../src/prosilver/overall_header.tpl#L140), [`313`](../src/prosilver/overall_header.tpl#L313)
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `rpg_sheet`
@@ -33,6 +33,23 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_VALUE_NEW}`](../var/rpg_fields_left.F_VALUE_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/rpg_fields_left.F_VALUE_NEW))
 	* [`{RPG_IMAGE}`](../var/RPG_IMAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/RPG_IMAGE))
 	* [`{SOUS_MENU}`](../var/SOUS_MENU.md#readme) ([x](https://fa-tvars.appspot.com/var/SOUS_MENU))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/rpg_sheet.tpl#files)
+
+### Positions des variables
+
+* __[`{L_VIEWING_PROFILE}`](../var/L_VIEWING_PROFILE.md#readme)__ __:__ ligne [`2`](../src/awesomebb/rpg_sheet.tpl#L2)
+* __[`{RPG_IMAGE}`](../var/RPG_IMAGE.md#readme)__ __:__ ligne [`8`](../src/awesomebb/rpg_sheet.tpl#L8)
+* __[`<!-- BEGIN rpg_fields -->`](../var/rpg_fields.md#readme)__ __:__ ligne [`21`](../src/awesomebb/rpg_sheet.tpl#L21)
+* __[`<!-- END rpg_fields -->`](../var/rpg_fields.md#readme)__ __:__ ligne [`26`](../src/awesomebb/rpg_sheet.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_NAME}`](../var/rpg_fields.F_NAME.md#readme)__ __:__ ligne [`23`](../src/awesomebb/rpg_sheet.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_VALUE_NEW}`](../var/rpg_fields.F_VALUE_NEW.md#readme)__ __:__ ligne [`24`](../src/awesomebb/rpg_sheet.tpl#L24)
+* __[`<!-- BEGIN rpg_fields_left -->`](../var/rpg_fields_left.md#readme)__ __:__ ligne [`12`](../src/awesomebb/rpg_sheet.tpl#L12)
+* __[`<!-- END rpg_fields_left -->`](../var/rpg_fields_left.md#readme)__ __:__ ligne [`17`](../src/awesomebb/rpg_sheet.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_NAME}`](../var/rpg_fields_left.F_NAME.md#readme)__ __:__ ligne [`14`](../src/awesomebb/rpg_sheet.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_VALUE_NEW}`](../var/rpg_fields_left.F_VALUE_NEW.md#readme)__ __:__ ligne [`15`](../src/awesomebb/rpg_sheet.tpl#L15)
 
 ## Template par défaut phpBB3
 

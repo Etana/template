@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_send_email`
@@ -46,6 +46,43 @@
 	* [`<!-- BEGIN switch_tell_friend -->`](../var/switch_tell_friend.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_tell_friend))
 	* [`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_tell_friend))
 	* [`{USERNAME}`](../var/USERNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/USERNAME))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/profile_send_email.tpl#files)
+
+### Positions des variables
+
+* __[`{ERROR_BOX}`](../var/ERROR_BOX.md#readme)__ __:__ ligne [`7`](../src/awesomebb/profile_send_email.tpl#L7)
+* __[`{L_CC_EMAIL}`](../var/L_CC_EMAIL.md#readme)__ __:__ ligne [`56`](../src/awesomebb/profile_send_email.tpl#L56)
+* __[`{L_MESSAGE_BODY}`](../var/L_MESSAGE_BODY.md#readme)__ __:__ ligne [`43`](../src/awesomebb/profile_send_email.tpl#L43)
+* __[`{L_MESSAGE_BODY_DESC}`](../var/L_MESSAGE_BODY_DESC.md#readme)__ __:__ ligne [`44`](../src/awesomebb/profile_send_email.tpl#L44)
+* __[`{L_RECIPIENT}`](../var/L_RECIPIENT.md#readme)__ __:__ ligne [`15`](../src/awesomebb/profile_send_email.tpl#L15)
+* __[`{L_SEND_EMAIL}`](../var/L_SEND_EMAIL.md#readme)__ __:__ ligne [`64`](../src/awesomebb/profile_send_email.tpl#L64)
+* __[`{L_SEND_EMAIL_MSG}`](../var/L_SEND_EMAIL_MSG.md#readme)__ __:__ ligne [`3`](../src/awesomebb/profile_send_email.tpl#L3)
+* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)__ __:__ ligne [`39`](../src/awesomebb/profile_send_email.tpl#L39)
+* __[`{L_TELL_FRIEND_RECIEVER_EMAIL}`](../var/L_TELL_FRIEND_RECIEVER_EMAIL.md#readme)__ __:__ ligne [`33`](../src/awesomebb/profile_send_email.tpl#L33)
+* __[`{MAIL_LINK}`](../var/MAIL_LINK.md#readme)__ __:__ ligne [`47`](../src/awesomebb/profile_send_email.tpl#L47)
+* __[`{MESSAGE}`](../var/MESSAGE.md#readme)__ __:__ ligne [`45`](../src/awesomebb/profile_send_email.tpl#L45)
+* __[`{SUBJECT}`](../var/SUBJECT.md#readme)__ __:__ ligne [`40`](../src/awesomebb/profile_send_email.tpl#L40)
+* __[`{SUBJECT_READ_ONLY}`](../var/SUBJECT_READ_ONLY.md#readme)__ __:__ ligne [`40`](../src/awesomebb/profile_send_email.tpl#L40)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`63`](../src/awesomebb/profile_send_email.tpl#L63)
+* __[`{S_POST_ACTION}`](../var/S_POST_ACTION.md#readme)__ __:__ ligne [`9`](../src/awesomebb/profile_send_email.tpl#L9)
+* __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`16`](../src/awesomebb/profile_send_email.tpl#L16)
+* __[`<!-- BEGIN switch_ad_email -->`](../var/switch_ad_email.md#readme)__ __:__ ligne [`20`](../src/awesomebb/profile_send_email.tpl#L20)
+* __[`<!-- END switch_ad_email -->`](../var/switch_ad_email.md#readme)__ __:__ ligne [`29`](../src/awesomebb/profile_send_email.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.DISABLE_YOUR_EMAIL}`](../var/switch_ad_email.DISABLE_YOUR_EMAIL.md#readme)__ __:__ ligne [`23`](../src/awesomebb/profile_send_email.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.DISABLE_YOUR_NAME}`](../var/switch_ad_email.DISABLE_YOUR_NAME.md#readme)__ __:__ ligne [`27`](../src/awesomebb/profile_send_email.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.L_YOUR_EMAIL}`](../var/switch_ad_email.L_YOUR_EMAIL.md#readme)__ __:__ ligne [`22`](../src/awesomebb/profile_send_email.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.L_YOUR_NAME}`](../var/switch_ad_email.L_YOUR_NAME.md#readme)__ __:__ ligne [`26`](../src/awesomebb/profile_send_email.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.V_YOUR_EMAIL}`](../var/switch_ad_email.V_YOUR_EMAIL.md#readme)__ __:__ ligne [`23`](../src/awesomebb/profile_send_email.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_ad_email.V_YOUR_NAME}`](../var/switch_ad_email.V_YOUR_NAME.md#readme)__ __:__ ligne [`27`](../src/awesomebb/profile_send_email.tpl#L27)
+* __[`<!-- BEGIN switch_profile_email -->`](../var/switch_profile_email.md#readme)__ __:__ ligne [`13`](../src/awesomebb/profile_send_email.tpl#L13)
+* __[`<!-- END switch_profile_email -->`](../var/switch_profile_email.md#readme)__ __:__ ligne [`18`](../src/awesomebb/profile_send_email.tpl#L18)
+* __[`<!-- BEGIN switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`31`](../src/awesomebb/profile_send_email.tpl#L31)
+* __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`36`](../src/awesomebb/profile_send_email.tpl#L36)
+* __[`<!-- BEGIN switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`46`](../src/awesomebb/profile_send_email.tpl#L46)
+* __[`<!-- END switch_tell_friend -->`](../var/switch_tell_friend.md#readme)__ __:__ ligne [`48`](../src/awesomebb/profile_send_email.tpl#L48)
 
 ## Template par défaut phpBB3
 

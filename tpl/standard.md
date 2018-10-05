@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `standard`
@@ -20,6 +20,17 @@
 	* [`<!-- BEGIN table_row -->`](../var/table_row.md#readme) ([x](https://fa-tvars.appspot.com/var/table_row))
 	* [`<!-- END table_row -->`](../var/table_row.md#readme) ([x](https://fa-tvars.appspot.com/var/table_row))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme) ([x](https://fa-tvars.appspot.com/var/table_row.L_TITRE))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/standard.tpl#files)
+
+### Positions des variables
+
+* __[`{S_SOURCE}`](../var/S_SOURCE.md#readme)__ __:__ ligne [`9`](../src/awesomebb/standard.tpl#L9)
+* __[`<!-- BEGIN table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`2`](../src/awesomebb/standard.tpl#L2)
+* __[`<!-- END table_row -->`](../var/table_row.md#readme)__ __:__ ligne [`6`](../src/awesomebb/standard.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme)__ __:__ ligne [`4`](../src/awesomebb/standard.tpl#L4)
 
 ## Template par défaut phpBB3
 

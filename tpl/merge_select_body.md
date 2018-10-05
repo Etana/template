@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `merge_select_body`
@@ -26,6 +26,20 @@
 	* [`{S_ACTION}`](../var/S_ACTION.md#readme)
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
 	* [`{S_LIST_FORUMS}`](../var/S_LIST_FORUMS.md#readme) ([x](https://fa-tvars.appspot.com/var/S_LIST_FORUMS))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/merge_select_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`7`](../src/awesomebb/merge_select_body.tpl#L7)
+* __[`{L_SELECT}`](../var/L_SELECT.md#readme)__ __:__ ligne [`13`](../src/awesomebb/merge_select_body.tpl#L13)
+* __[`{MERGE_BOX}`](../var/MERGE_BOX.md#readme)__ __:__ ligne [`10`](../src/awesomebb/merge_select_body.tpl#L10)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`3`](../src/awesomebb/merge_select_body.tpl#L3)
+* __[`{S_ACTION}`](../var/S_ACTION.md#readme)__ __:__ ligne [`1`](../src/awesomebb/merge_select_body.tpl#L1)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`14`](../src/awesomebb/merge_select_body.tpl#L14)
+* __[`{S_LIST_FORUMS}`](../var/S_LIST_FORUMS.md#readme)__ __:__ ligne [`7`](../src/awesomebb/merge_select_body.tpl#L7)
 
 ## Template par défaut phpBB3
 

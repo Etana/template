@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`3`](../src/awesomebb/privmsg_topic_review.tpl#L3)
+
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`2`](../src/prosilver/posting_topic_review.tpl#L2)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`2`](../src/prosilver/privmsg_topic_review.tpl#L2)

@@ -1,6 +1,6 @@
 # L_SEARCH_TITLE
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
+* __Utilisable dans__ __:__ [`album_formsearch_body`](../tpl/album_formsearch_body.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -13,6 +13,12 @@ Chaîne de texte.
 * __Contenu en français :__ `Recherche avancée`
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`4`](../src/awesomebb/album_formsearch_body.tpl#L4)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`6`](../src/awesomebb/profile_avatar_gallery.tpl#L6)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/search_body.tpl#L2)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`6`](../src/awesomebb/search_results_topics.tpl#L6)
 
 ### Version phpBB3
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/album_formsearch_body.tpl#L4)

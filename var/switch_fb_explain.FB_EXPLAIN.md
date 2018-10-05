@@ -20,6 +20,9 @@ Veuillez commencer votre inscription en acceptant ce règlement.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`5`](../src/awesomebb/agreement.tpl#L5)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`10`](../src/prosilver/agreement.tpl#L10)
 

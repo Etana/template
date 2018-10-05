@@ -12,6 +12,12 @@ Adresse URL de la librairie JavaScript jQuery.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`26`](../src/awesomebb/overall_header.tpl#L26)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`8`](../src/awesomebb/posting_smilies_frame.tpl#L8)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`8`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L8)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`11`](../src/awesomebb/simple_header.tpl#L11)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`22`](../src/prosilver/overall_header.tpl#L22)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`8`](../src/prosilver/posting_smilies_frame.tpl#L8)

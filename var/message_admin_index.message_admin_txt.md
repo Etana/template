@@ -20,6 +20,9 @@ Boucle contenant le texte du message d'accueil.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`9`](../src/awesomebb/index_body.tpl#L9)[`<->`](../src/awesomebb/index_body.tpl#L9-L11)[`11`](../src/awesomebb/index_body.tpl#L11)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`39`](../src/prosilver/index_body.tpl#L39)[`<->`](../src/prosilver/index_body.tpl#L39-L41)[`41`](../src/prosilver/index_body.tpl#L41)
 

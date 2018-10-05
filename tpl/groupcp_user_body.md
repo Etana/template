@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Groupes` > `groupcp_user_body`
@@ -46,6 +46,37 @@
 	* [`<!-- BEGIN switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_groups_remaining))
 	* [`<!-- END switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_groups_remaining))
 	* [`{U_USERGROUP_ACTION}`](../var/U_USERGROUP_ACTION.md#readme) ([x](https://fa-tvars.appspot.com/var/U_USERGROUP_ACTION))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/groupcp_user_body.tpl#files)
+
+### Positions des variables
+
+* __[`{GROUP_LIST_SELECT}`](../var/GROUP_LIST_SELECT.md#readme)__ __:__ ligne [`38`](../src/awesomebb/groupcp_user_body.tpl#L38)
+* __[`{GROUP_MEMBER_SELECT_NEW}`](../var/GROUP_MEMBER_SELECT_NEW.md#readme)__ __:__ ligne [`12`](../src/awesomebb/groupcp_user_body.tpl#L12)
+* __[`{GROUP_PENDING_SELECT_NEW}`](../var/GROUP_PENDING_SELECT_NEW.md#readme)__ __:__ ligne [`23`](../src/awesomebb/groupcp_user_body.tpl#L23)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`51`](../src/awesomebb/groupcp_user_body.tpl#L51)
+* __[`{L_GROUP_MEMBERSHIP_DETAILS}`](../var/L_GROUP_MEMBERSHIP_DETAILS.md#readme)__ __:__ ligne [`8`](../src/awesomebb/groupcp_user_body.tpl#L8)
+* __[`{L_JOIN_A_GROUP}`](../var/L_JOIN_A_GROUP.md#readme)__ __:__ ligne [`32`](../src/awesomebb/groupcp_user_body.tpl#L32)
+* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`48`](../src/awesomebb/groupcp_user_body.tpl#L48)
+* __[`{L_PENDING_GROUPS}`](../var/L_PENDING_GROUPS.md#readme)__ __:__ ligne [`22`](../src/awesomebb/groupcp_user_body.tpl#L22)
+* __[`{L_SELECT_A_GROUP}`](../var/L_SELECT_A_GROUP.md#readme)__ __:__ ligne [`37`](../src/awesomebb/groupcp_user_body.tpl#L37)
+* __[`{L_USERGROUPS}`](../var/L_USERGROUPS.md#readme)__ __:__ ligne [`2`](../src/awesomebb/groupcp_user_body.tpl#L2)
+* __[`{L_VIEW_INFORMATION}`](../var/L_VIEW_INFORMATION.md#readme)__ __:__ ligne [`38`](../src/awesomebb/groupcp_user_body.tpl#L38)
+* __[`{L_YOU_BELONG_GROUPS}`](../var/L_YOU_BELONG_GROUPS.md#readme)__ __:__ ligne [`11`](../src/awesomebb/groupcp_user_body.tpl#L11)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`38`](../src/awesomebb/groupcp_user_body.tpl#L38)
+* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`46`](../src/awesomebb/groupcp_user_body.tpl#L46)
+* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`50`](../src/awesomebb/groupcp_user_body.tpl#L50)
+* __[`{U_USERGROUP_ACTION}`](../var/U_USERGROUP_ACTION.md#readme)__ __:__ ligne [`34`](../src/awesomebb/groupcp_user_body.tpl#L34)
+* __[`<!-- BEGIN switch_groups_joined -->`](../var/switch_groups_joined.md#readme)__ __:__ ligne [`5`](../src/awesomebb/groupcp_user_body.tpl#L5)
+* __[`<!-- END switch_groups_joined -->`](../var/switch_groups_joined.md#readme)__ __:__ ligne [`28`](../src/awesomebb/groupcp_user_body.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_groups_member -->`](../var/switch_groups_joined.switch_groups_member.md#readme)__ __:__ ligne [`6`](../src/awesomebb/groupcp_user_body.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_groups_member -->`](../var/switch_groups_joined.switch_groups_member.md#readme)__ __:__ ligne [`16`](../src/awesomebb/groupcp_user_body.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_groups_pending -->`](../var/switch_groups_joined.switch_groups_pending.md#readme)__ __:__ ligne [`18`](../src/awesomebb/groupcp_user_body.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_groups_pending -->`](../var/switch_groups_joined.switch_groups_pending.md#readme)__ __:__ ligne [`27`](../src/awesomebb/groupcp_user_body.tpl#L27)
+* __[`<!-- BEGIN switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme)__ __:__ ligne [`30`](../src/awesomebb/groupcp_user_body.tpl#L30)
+* __[`<!-- END switch_groups_remaining -->`](../var/switch_groups_remaining.md#readme)__ __:__ ligne [`44`](../src/awesomebb/groupcp_user_body.tpl#L44)
 
 ## Template par défaut phpBB3
 

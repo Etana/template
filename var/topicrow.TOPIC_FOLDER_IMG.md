@@ -14,6 +14,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`26`](../src/awesomebb/modcp_body.tpl#L26)
+
 ### Version phpBB3
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`30`](../src/prosilver/modcp_body.tpl#L30)
 

@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`9`](../src/awesomebb/mod_whoisonline.tpl#L9)[`<->`](../src/awesomebb/mod_whoisonline.tpl#L9-L11)[`11`](../src/awesomebb/mod_whoisonline.tpl#L11)
+
 ### Version phpBB3
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`7`](../src/prosilver/mod_whoisonline.tpl#L7)[`<->`](../src/prosilver/mod_whoisonline.tpl#L7-L10)[`10`](../src/prosilver/mod_whoisonline.tpl#L10)
 

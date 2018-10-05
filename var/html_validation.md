@@ -17,6 +17,15 @@ Boucle non-interprétée permettant de rendre la structure du template valide da
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`1`](../src/awesomebb/greeting_popup.tpl#L1)[`<->`](../src/awesomebb/greeting_popup.tpl#L1-L5)[`5`](../src/awesomebb/greeting_popup.tpl#L5)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`1`](../src/awesomebb/overall_footer_begin.tpl#L1)[`<->`](../src/awesomebb/overall_footer_begin.tpl#L1-L3)[`3`](../src/awesomebb/overall_footer_begin.tpl#L3), [`46`](../src/awesomebb/overall_footer_begin.tpl#L46)[`<->`](../src/awesomebb/overall_footer_begin.tpl#L46-L52)[`52`](../src/awesomebb/overall_footer_begin.tpl#L52)
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`1`](../src/awesomebb/overall_footer_end.tpl#L1)[`<->`](../src/awesomebb/overall_footer_end.tpl#L1-L10)[`10`](../src/awesomebb/overall_footer_end.tpl#L10)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`179`](../src/awesomebb/overall_header.tpl#L179)[`<->`](../src/awesomebb/overall_header.tpl#L179-L183)[`183`](../src/awesomebb/overall_header.tpl#L183)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`1`](../src/awesomebb/privmsgs_popup.tpl#L1)[`<->`](../src/awesomebb/privmsgs_popup.tpl#L1-L5)[`5`](../src/awesomebb/privmsgs_popup.tpl#L5)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/report_popup_body.tpl#L1)[`<->`](../src/awesomebb/report_popup_body.tpl#L1-L5)[`5`](../src/awesomebb/report_popup_body.tpl#L5)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`1`](../src/awesomebb/search_username.tpl#L1)[`<->`](../src/awesomebb/search_username.tpl#L1-L5)[`5`](../src/awesomebb/search_username.tpl#L5)
+
 ### Version phpBB3
 * __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`1`](../src/prosilver/calendar_box.tpl#L1)[`<->`](../src/prosilver/calendar_box.tpl#L1-L2)[`2`](../src/prosilver/calendar_box.tpl#L2), [`83`](../src/prosilver/calendar_box.tpl#L83)[`<->`](../src/prosilver/calendar_box.tpl#L83-L84)[`84`](../src/prosilver/calendar_box.tpl#L84)
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`1`](../src/prosilver/greeting_popup.tpl#L1)[`<->`](../src/prosilver/greeting_popup.tpl#L1-L5)[`5`](../src/prosilver/greeting_popup.tpl#L5)

@@ -25,6 +25,10 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_statistics.tpl#L8)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`26`](../src/awesomebb/overall_footer_begin.tpl#L26)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`91`](../src/prosilver/index_body.tpl#L91)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`5`](../src/prosilver/mod_statistics.tpl#L5)

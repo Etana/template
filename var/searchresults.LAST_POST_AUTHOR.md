@@ -14,6 +14,9 @@ Contient le nom d'utilisateur du membre ayant posté en dernier dans le sujet.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`33`](../src/awesomebb/search_results_topics.tpl#L33)
+
 ### Version phpBB3
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`42`](../src/prosilver/search_results_topics.tpl#L42)
 

@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`12`](../src/awesomebb/rpg_sheet_edit.tpl#L12)
+
 ### Version phpBB3
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`16`](../src/prosilver/rpg_sheet_edit.tpl#L16)
 

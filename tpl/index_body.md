@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `index_body`
@@ -126,6 +126,36 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 	* [`{U_STATISTICS}`](../var/U_STATISTICS.md#readme) ([x](https://fa-tvars.appspot.com/var/U_STATISTICS))
 	* [`{U_TODAY_ACTIVE}`](../var/U_TODAY_ACTIVE.md#readme)
 	* [`{U_TODAY_POSTERS}`](../var/U_TODAY_POSTERS.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/index_body.tpl#files)
+
+### Positions des variables
+
+* __[`{BOARD_INDEX}`](../var/BOARD_INDEX.md#readme)__ __:__ ligne [`16`](../src/awesomebb/index_body.tpl#L16)
+* __[`{CHATBOX_BOTTOM}`](../var/CHATBOX_BOTTOM.md#readme)__ __:__ ligne [`17`](../src/awesomebb/index_body.tpl#L17)
+* __[`{CHATBOX_TOP}`](../var/CHATBOX_TOP.md#readme)__ __:__ ligne [`15`](../src/awesomebb/index_body.tpl#L15)
+* __[`{GROUP_LEGEND}`](../var/GROUP_LEGEND.md#readme)__ __:__ ligne [`39`](../src/awesomebb/index_body.tpl#L39)
+* __[`{LEGEND}`](../var/LEGEND.md#readme)__ __:__ ligne [`39`](../src/awesomebb/index_body.tpl#L39)
+* __[`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)__ __:__ ligne [`31`](../src/awesomebb/index_body.tpl#L31)
+* __[`{L_CONNECTED_MEMBERS}`](../var/L_CONNECTED_MEMBERS.md#readme)__ __:__ ligne [`34`](../src/awesomebb/index_body.tpl#L34)
+* __[`{L_ONLINE_USERS}`](../var/L_ONLINE_USERS.md#readme)__ __:__ ligne [`33`](../src/awesomebb/index_body.tpl#L33)
+* __[`{L_WHOSBIRTHDAY_TODAY}`](../var/L_WHOSBIRTHDAY_TODAY.md#readme)__ __:__ ligne [`36`](../src/awesomebb/index_body.tpl#L36)
+* __[`{L_WHOSBIRTHDAY_WEEK}`](../var/L_WHOSBIRTHDAY_WEEK.md#readme)__ __:__ ligne [`36`](../src/awesomebb/index_body.tpl#L36)
+* __[`{L_WHO_IS_ONLINE}`](../var/L_WHO_IS_ONLINE.md#readme)__ __:__ ligne [`26`](../src/awesomebb/index_body.tpl#L26)
+* __[`{RECORD_USERS}`](../var/RECORD_USERS.md#readme)__ __:__ ligne [`29`](../src/awesomebb/index_body.tpl#L29)
+* __[`{TOTAL_USERS_ONLINE}`](../var/TOTAL_USERS_ONLINE.md#readme)__ __:__ ligne [`28`](../src/awesomebb/index_body.tpl#L28)
+* __[`<!-- BEGIN disable_viewonline -->`](../var/disable_viewonline.md#readme)__ __:__ ligne [`21`](../src/awesomebb/index_body.tpl#L21)
+* __[`<!-- END disable_viewonline -->`](../var/disable_viewonline.md#readme)__ __:__ ligne [`43`](../src/awesomebb/index_body.tpl#L43)
+* __[`<!-- BEGIN message_admin_index -->`](../var/message_admin_index.md#readme)__ __:__ ligne [`3`](../src/awesomebb/index_body.tpl#L3)
+* __[`<!-- END message_admin_index -->`](../var/message_admin_index.md#readme)__ __:__ ligne [`13`](../src/awesomebb/index_body.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_titre -->`](../var/message_admin_index.message_admin_titre.md#readme)__ __:__ ligne [`5`](../src/awesomebb/index_body.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END message_admin_titre -->`](../var/message_admin_index.message_admin_titre.md#readme)__ __:__ ligne [`7`](../src/awesomebb/index_body.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_titre.MES_TITRE}`](../var/message_admin_index.message_admin_titre.MES_TITRE.md#readme)__ __:__ ligne [`6`](../src/awesomebb/index_body.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_txt -->`](../var/message_admin_index.message_admin_txt.md#readme)__ __:__ ligne [`9`](../src/awesomebb/index_body.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END message_admin_txt -->`](../var/message_admin_index.message_admin_txt.md#readme)__ __:__ ligne [`11`](../src/awesomebb/index_body.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_txt.MES_TXT}`](../var/message_admin_index.message_admin_txt.MES_TXT.md#readme)__ __:__ ligne [`10`](../src/awesomebb/index_body.tpl#L10)
 
 ## Template par défaut phpBB3
 

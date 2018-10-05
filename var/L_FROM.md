@@ -21,6 +21,12 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`68`](../src/awesomebb/groupcp_info_body.tpl#L68)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`7`](../src/awesomebb/groupcp_pending_info.tpl#L7)
+* __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme)__ __:__ lignes [`11`](../src/awesomebb/privmsgs_preview.tpl#L11)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`17`](../src/awesomebb/privmsgs_read_body.tpl#L17)
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`54`](../src/prosilver/groupcp_info_body.tpl#L54)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`9`](../src/prosilver/groupcp_pending_info.tpl#L9)

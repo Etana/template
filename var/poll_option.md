@@ -24,6 +24,12 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`poll_ballot`](../tpl/poll_ballot.md#readme)__ __:__ lignes [`5`](../src/awesomebb/poll_ballot.tpl#L5)[`<->`](../src/awesomebb/poll_ballot.tpl#L5-L12)[`12`](../src/awesomebb/poll_ballot.tpl#L12)
+* __[`poll_result`](../tpl/poll_result.md#readme)__ __:__ lignes [`4`](../src/awesomebb/poll_result.tpl#L4)[`<->`](../src/awesomebb/poll_result.tpl#L4-L10)[`10`](../src/awesomebb/poll_result.tpl#L10)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme)__ __:__ lignes [`10`](../src/awesomebb/viewtopic_poll_ballot.tpl#L10)[`<->`](../src/awesomebb/viewtopic_poll_ballot.tpl#L10-L20)[`20`](../src/awesomebb/viewtopic_poll_ballot.tpl#L20)
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`10`](../src/awesomebb/viewtopic_poll_result.tpl#L10)[`<->`](../src/awesomebb/viewtopic_poll_result.tpl#L10-L13)[`13`](../src/awesomebb/viewtopic_poll_result.tpl#L13)
+
 ### Version phpBB3
 * __[`poll_ballot`](../tpl/poll_ballot.md#readme)__ __:__ lignes [`4`](../src/prosilver/poll_ballot.tpl#L4)[`<->`](../src/prosilver/poll_ballot.tpl#L4-L9)[`9`](../src/prosilver/poll_ballot.tpl#L9)
 * __[`poll_result`](../tpl/poll_result.md#readme)__ __:__ lignes [`3`](../src/prosilver/poll_result.tpl#L3)[`<->`](../src/prosilver/poll_result.tpl#L3-L17)[`17`](../src/prosilver/poll_result.tpl#L17)

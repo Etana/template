@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `report_popup_body`
@@ -18,6 +18,18 @@
 	* [`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)
 	* [`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
 	* [`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme) ([x](https://fa-tvars.appspot.com/var/U_REPORT_LIST))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/report_popup_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)__ __:__ ligne [`24`](../src/awesomebb/report_popup_body.tpl#L24)
+* __[`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)__ __:__ ligne [`22`](../src/awesomebb/report_popup_body.tpl#L22)
+* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)__ __:__ ligne [`9`](../src/awesomebb/report_popup_body.tpl#L9)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/awesomebb/report_popup_body.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`5`](../src/awesomebb/report_popup_body.tpl#L5)
 
 ## Template par défaut phpBB3
 

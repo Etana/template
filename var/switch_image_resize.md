@@ -19,6 +19,12 @@ Boucle s'affichant si l'option de redimensionnement des images est activée dans
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`56`](../src/awesomebb/mod_news.tpl#L56)[`<->`](../src/awesomebb/mod_news.tpl#L56-L62)[`62`](../src/awesomebb/mod_news.tpl#L62)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`440`](../src/awesomebb/posting_body.tpl#L440)[`<->`](../src/awesomebb/posting_body.tpl#L440-L442)[`442`](../src/awesomebb/posting_body.tpl#L442)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`74`](../src/awesomebb/privmsgs_read_body.tpl#L74)[`<->`](../src/awesomebb/privmsgs_read_body.tpl#L74-L80)[`80`](../src/awesomebb/privmsgs_read_body.tpl#L80)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`32`](../src/awesomebb/search_results_posts.tpl#L32)[`<->`](../src/awesomebb/search_results_posts.tpl#L32-L44)[`44`](../src/awesomebb/search_results_posts.tpl#L44)
+
 ### Version phpBB3
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`60`](../src/prosilver/mod_news.tpl#L60)[`<->`](../src/prosilver/mod_news.tpl#L60-L66)[`66`](../src/prosilver/mod_news.tpl#L66)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`418`](../src/prosilver/posting_body.tpl#L418)[`<->`](../src/prosilver/posting_body.tpl#L418-L420)[`420`](../src/prosilver/posting_body.tpl#L420)

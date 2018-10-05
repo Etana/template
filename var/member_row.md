@@ -30,6 +30,9 @@ Bouclage sur les éventuels membres du groupe ( hormis le modérateur ) :
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`90`](../src/awesomebb/groupcp_info_body.tpl#L90)[`<->`](../src/awesomebb/groupcp_info_body.tpl#L90-L100)[`100`](../src/awesomebb/groupcp_info_body.tpl#L100)
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`76`](../src/prosilver/groupcp_info_body.tpl#L76)[`<->`](../src/prosilver/groupcp_info_body.tpl#L76-L86)[`86`](../src/prosilver/groupcp_info_body.tpl#L86)
 

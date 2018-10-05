@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_top_post_users_week`
@@ -21,6 +21,20 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NAME}`](../var/POSTER.NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.NAME))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.NB_POSTS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.ROW_CLASS}`](../var/POSTER.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER.ROW_CLASS))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_top_post_users_week.tpl#files)
+
+### Positions des variables
+
+* __[`{L_TOP_POST_USERS_WEEK}`](../var/L_TOP_POST_USERS_WEEK.md#readme)__ __:__ ligne [`4`](../src/awesomebb/mod_top_post_users_week.tpl#L4)
+* __[`<!-- BEGIN POSTER -->`](../var/POSTER.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_top_post_users_week.tpl#L8)
+* __[`<!-- END POSTER -->`](../var/POSTER.md#readme)__ __:__ ligne [`17`](../src/awesomebb/mod_top_post_users_week.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.BARRE_PERCENT}`](../var/POSTER.BARRE_PERCENT.md#readme)__ __:__ ligne [`12`](../src/awesomebb/mod_top_post_users_week.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NAME}`](../var/POSTER.NAME.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_top_post_users_week.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)__ __:__ ligne [`11`](../src/awesomebb/mod_top_post_users_week.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{POSTER.NB_POSTS}`](../var/POSTER.NB_POSTS.md#readme)__ __:__ ligne [`14`](../src/awesomebb/mod_top_post_users_week.tpl#L14)
 
 ## Template par défaut phpBB3
 

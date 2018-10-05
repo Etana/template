@@ -14,6 +14,10 @@ Lien vers marquer tous les forums comme lus.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`21`](../src/awesomebb/index_box.tpl#L21)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`33`](../src/awesomebb/viewforum_body.tpl#L33), [`52`](../src/awesomebb/viewforum_body.tpl#L52)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`8`](../src/prosilver/index_box.tpl#L8)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/prosilver/viewforum_body.tpl#L11), [`57`](../src/prosilver/viewforum_body.tpl#L57)

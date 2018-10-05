@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_split`
@@ -47,6 +47,36 @@
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
 	* [`{S_SPLIT_ACTION}`](../var/S_SPLIT_ACTION.md#readme) ([x](https://fa-tvars.appspot.com/var/S_SPLIT_ACTION))
 	* [`{U_ALBUM}`](../var/U_ALBUM.md#readme) ([x](https://fa-tvars.appspot.com/var/U_ALBUM))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/modcp_split.tpl#files)
+
+### Positions des variables
+
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`4`](../src/awesomebb/modcp_split.tpl#L4)
+* __[`{L_SPLIT_AFTER}`](../var/L_SPLIT_AFTER.md#readme)__ __:__ ligne [`27`](../src/awesomebb/modcp_split.tpl#L27)
+* __[`{L_SPLIT_AFTER}`](../var/L_SPLIT_AFTER.md#readme)__ __:__ ligne [`51`](../src/awesomebb/modcp_split.tpl#L51)
+* __[`{L_SPLIT_FORUM}`](../var/L_SPLIT_FORUM.md#readme)__ __:__ ligne [`19`](../src/awesomebb/modcp_split.tpl#L19)
+* __[`{L_SPLIT_POSTS}`](../var/L_SPLIT_POSTS.md#readme)__ __:__ ligne [`26`](../src/awesomebb/modcp_split.tpl#L26)
+* __[`{L_SPLIT_POSTS}`](../var/L_SPLIT_POSTS.md#readme)__ __:__ ligne [`50`](../src/awesomebb/modcp_split.tpl#L50)
+* __[`{L_SPLIT_SUBJECT}`](../var/L_SPLIT_SUBJECT.md#readme)__ __:__ ligne [`15`](../src/awesomebb/modcp_split.tpl#L15)
+* __[`{L_SPLIT_TOPIC}`](../var/L_SPLIT_TOPIC.md#readme)__ __:__ ligne [`2`](../src/awesomebb/modcp_split.tpl#L2)
+* __[`{L_SPLIT_TOPIC_EXPLAIN}`](../var/L_SPLIT_TOPIC_EXPLAIN.md#readme)__ __:__ ligne [`12`](../src/awesomebb/modcp_split.tpl#L12)
+* __[`{MAX_TOPIC_LENGTH}`](../var/MAX_TOPIC_LENGTH.md#readme)__ __:__ ligne [`16`](../src/awesomebb/modcp_split.tpl#L16)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`5`](../src/awesomebb/modcp_split.tpl#L5)
+* __[`{S_FORUM_SELECT}`](../var/S_FORUM_SELECT.md#readme)__ __:__ ligne [`20`](../src/awesomebb/modcp_split.tpl#L20)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`52`](../src/awesomebb/modcp_split.tpl#L52)
+* __[`{S_SPLIT_ACTION}`](../var/S_SPLIT_ACTION.md#readme)__ __:__ ligne [`9`](../src/awesomebb/modcp_split.tpl#L9)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`4`](../src/awesomebb/modcp_split.tpl#L4)
+* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`31`](../src/awesomebb/modcp_split.tpl#L31)
+* __[`<!-- END postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`46`](../src/awesomebb/modcp_split.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.L_TOPIC_BY}`](../var/postrow.L_TOPIC_BY.md#readme)__ __:__ ligne [`40`](../src/awesomebb/modcp_split.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.MESSAGE}`](../var/postrow.MESSAGE.md#readme)__ __:__ ligne [`44`](../src/awesomebb/modcp_split.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme)__ __:__ ligne [`40`](../src/awesomebb/modcp_split.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme)__ __:__ ligne [`34`](../src/awesomebb/modcp_split.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT}`](../var/postrow.POST_SUBJECT.md#readme)__ __:__ ligne [`40`](../src/awesomebb/modcp_split.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.S_SPLIT_CHECKBOX}`](../var/postrow.S_SPLIT_CHECKBOX.md#readme)__ __:__ ligne [`37`](../src/awesomebb/modcp_split.tpl#L37)
 
 ## Template par défaut phpBB3
 

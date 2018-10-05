@@ -12,6 +12,9 @@ Affiche les conditions d'inscription de base de Forumactif.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`10`](../src/awesomebb/agreement.tpl#L10)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`18`](../src/prosilver/agreement.tpl#L18)
 

@@ -25,6 +25,10 @@ Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Ad
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`31`](../src/awesomebb/index_body.tpl#L31)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_whoisonline.tpl#L8)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`64`](../src/prosilver/index_body.tpl#L64)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_whoisonline.tpl#L6)

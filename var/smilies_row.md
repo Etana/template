@@ -23,6 +23,11 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`20`](../src/awesomebb/posting_smilies.tpl#L20)[`<->`](../src/awesomebb/posting_smilies.tpl#L20-L30)[`30`](../src/awesomebb/posting_smilies.tpl#L30)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`27`](../src/awesomebb/posting_smilies_frame.tpl#L27)[`<->`](../src/awesomebb/posting_smilies_frame.tpl#L27-L31)[`31`](../src/awesomebb/posting_smilies_frame.tpl#L31)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`27`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L27)[`<->`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L27-L31)[`31`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L31)
+
 ### Version phpBB3
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`20`](../src/prosilver/posting_smilies.tpl#L20)[`<->`](../src/prosilver/posting_smilies.tpl#L20-L30)[`30`](../src/prosilver/posting_smilies.tpl#L30)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`27`](../src/prosilver/posting_smilies_frame.tpl#L27)[`<->`](../src/prosilver/posting_smilies_frame.tpl#L27-L31)[`31`](../src/prosilver/posting_smilies_frame.tpl#L31)

@@ -20,6 +20,10 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`12`](../src/awesomebb/rpg_sheet.tpl#L12)[`<->`](../src/awesomebb/rpg_sheet.tpl#L12-L17)[`17`](../src/awesomebb/rpg_sheet.tpl#L17)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`34`](../src/awesomebb/rpg_sheet_edit.tpl#L34)[`<->`](../src/awesomebb/rpg_sheet_edit.tpl#L34-L39)[`39`](../src/awesomebb/rpg_sheet_edit.tpl#L39)
+
 ### Version phpBB3
 * __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`7`](../src/prosilver/rpg_sheet.tpl#L7)[`<->`](../src/prosilver/rpg_sheet.tpl#L7-L12)[`12`](../src/prosilver/rpg_sheet.tpl#L12)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`37`](../src/prosilver/rpg_sheet_edit.tpl#L37)[`<->`](../src/prosilver/rpg_sheet_edit.tpl#L37-L42)[`42`](../src/prosilver/rpg_sheet_edit.tpl#L42)

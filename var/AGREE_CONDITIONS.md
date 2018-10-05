@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`23`](../src/awesomebb/agreement.tpl#L23)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`24`](../src/prosilver/agreement.tpl#L24)
 

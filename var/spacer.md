@@ -1,7 +1,7 @@
 # spacer
-* __Type :__ variable de bouclage
-* __Utilisable dans :__ [`message_body`](../tpl/message_body.md#readme)
-* __Utilisation :__
+* __Type__ __:__ variable de bouclage
+* __Utilisable dans__ __:__ [`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme), [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`jumpbox`](../tpl/jumpbox.md#readme)
+* __Utilisation__ __:__
 
 ```smarty
 <!-- BEGIN spacer -->
@@ -17,6 +17,8 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
-### Version Version mobile
-* __[`message_body`](../tpl/message_body.md#readme) :__ lignes [`1`](../src/mobile/message_body.tpl#L1)[`<->`](../src/mobile/message_body.tpl#L1-L1)[`1`](../src/mobile/message_body.tpl#L1)
+### Version AwesomeBB
+* __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`1`](../src/awesomebb/calendar_overview_profil.tpl#L1)[`<->`](../src/awesomebb/calendar_overview_profil.tpl#L1-L1)[`1`](../src/awesomebb/calendar_overview_profil.tpl#L1)
+* __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`1`](../src/awesomebb/calendar_overview_topic.tpl#L1)[`<->`](../src/awesomebb/calendar_overview_topic.tpl#L1-L1)[`1`](../src/awesomebb/calendar_overview_topic.tpl#L1)
+* __[`jumpbox`](../tpl/jumpbox.md#readme)__ __:__ lignes [`1`](../src/awesomebb/jumpbox.tpl#L1)[`<->`](../src/awesomebb/jumpbox.tpl#L1-L1)[`1`](../src/awesomebb/jumpbox.tpl#L1)
 

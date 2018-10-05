@@ -20,6 +20,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`80`](../src/awesomebb/profile_view_body.tpl#L80)[`<->`](../src/awesomebb/profile_view_body.tpl#L80-L84)[`84`](../src/awesomebb/profile_view_body.tpl#L84)
+
 ### Version phpBB3
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`53`](../src/prosilver/profile_view_body.tpl#L53)[`<->`](../src/prosilver/profile_view_body.tpl#L53-L57)[`57`](../src/prosilver/profile_view_body.tpl#L57)
 

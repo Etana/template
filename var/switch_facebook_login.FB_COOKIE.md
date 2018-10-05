@@ -14,6 +14,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`141`](../src/awesomebb/overall_footer_end.tpl#L141)
+
 ### Version phpBB3
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`62`](../src/prosilver/overall_footer_end.tpl#L62)
 

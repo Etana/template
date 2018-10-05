@@ -16,6 +16,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`13`](../src/awesomebb/posting_topic_review.tpl#L13)
+
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`11`](../src/prosilver/posting_topic_review.tpl#L11)
 

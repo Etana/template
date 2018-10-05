@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_statistics`
@@ -18,6 +18,18 @@
 	* [`{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme)
 	* [`{TOTAL_TOPICS}`](../var/TOTAL_TOPICS.md#readme) ([x](https://fa-tvars.appspot.com/var/TOTAL_TOPICS))
 	* [`{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_statistics.tpl#files)
+
+### Positions des variables
+
+* __[`{L_STATISTICS}`](../var/L_STATISTICS.md#readme)__ __:__ ligne [`4`](../src/awesomebb/mod_statistics.tpl#L4)
+* __[`{NEWEST_USER}`](../var/NEWEST_USER.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_statistics.tpl#L8)
+* __[`{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme)__ __:__ ligne [`9`](../src/awesomebb/mod_statistics.tpl#L9)
+* __[`{TOTAL_TOPICS}`](../var/TOTAL_TOPICS.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_statistics.tpl#L10)
+* __[`{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme)__ __:__ ligne [`7`](../src/awesomebb/mod_statistics.tpl#L7)
 
 ## Template par défaut phpBB3
 

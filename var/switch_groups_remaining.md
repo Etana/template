@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`30`](../src/awesomebb/groupcp_user_body.tpl#L30)[`<->`](../src/awesomebb/groupcp_user_body.tpl#L30-L44)[`44`](../src/awesomebb/groupcp_user_body.tpl#L44)
+
 ### Version phpBB3
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`34`](../src/prosilver/groupcp_user_body.tpl#L34)[`<->`](../src/prosilver/groupcp_user_body.tpl#L34-L48)[`48`](../src/prosilver/groupcp_user_body.tpl#L48)
 

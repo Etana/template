@@ -30,6 +30,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`28`](../src/awesomebb/album_search_body.tpl#L28)[`<->`](../src/awesomebb/album_search_body.tpl#L28-L39)[`39`](../src/awesomebb/album_search_body.tpl#L39)
+
 ### Version phpBB3
 * __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`28`](../src/prosilver/album_search_body.tpl#L28)[`<->`](../src/prosilver/album_search_body.tpl#L28-L39)[`39`](../src/prosilver/album_search_body.tpl#L39)
 

@@ -12,6 +12,11 @@ Contient la navigation entre les onglets dans `/search?search_id=watchsearch`.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`621`](../src/awesomebb/profile_add_body.tpl#L621)
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`20`](../src/awesomebb/profile_edit_signature.tpl#L20)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`67`](../src/awesomebb/rpg_sheet_edit.tpl#L67)
+
 ### Version phpBB3
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`3`](../src/prosilver/profile_add_body.tpl#L3)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`9`](../src/prosilver/profile_edit_signature.tpl#L9)

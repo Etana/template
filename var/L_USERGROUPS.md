@@ -15,6 +15,9 @@ Chaîne de caractère.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/groupcp_user_body.tpl#L2)
+
 ### Version phpBB3
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`5`](../src/prosilver/groupcp_user_body.tpl#L5)
 

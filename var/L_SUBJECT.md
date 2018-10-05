@@ -12,6 +12,12 @@ Sujet du message d'anniversaire défini dans `PA > Utilisateurs & Groupes > Util
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`21`](../src/awesomebb/greeting_popup.tpl#L21)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`7`](../src/awesomebb/modcp_viewip.tpl#L7)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`103`](../src/awesomebb/posting_body.tpl#L103)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`39`](../src/awesomebb/profile_send_email.tpl#L39)
+
 ### Version phpBB3
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`21`](../src/prosilver/greeting_popup.tpl#L21)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`12`](../src/prosilver/modcp_viewip.tpl#L12)

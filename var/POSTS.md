@@ -12,6 +12,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`11`](../src/awesomebb/mentions_tooltip.tpl#L11)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`37`](../src/awesomebb/modcp_viewip.tpl#L37)
+
 ### Version phpBB3
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`63`](../src/prosilver/mentions_tooltip.tpl#L63)
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`43`](../src/prosilver/modcp_viewip.tpl#L43)

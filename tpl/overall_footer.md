@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `overall_footer`
@@ -40,6 +40,13 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_ENDPOINT}`](../var/switch_topicit_connect.TOPICIT_ENDPOINT.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect.TOPICIT_ENDPOINT))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_URL}`](../var/switch_topicit_connect.TOPICIT_URL.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect.TOPICIT_URL))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_topicit_connect.TOPICIT_VERSION}`](../var/switch_topicit_connect.TOPICIT_VERSION.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_topicit_connect.TOPICIT_VERSION))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/overall_footer.tpl#files)
+
+### Positions des variables
+
 
 ## Template par défaut phpBB3
 

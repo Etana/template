@@ -21,6 +21,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`2`](../src/awesomebb/mod_login.tpl#L2)[`<->`](../src/awesomebb/mod_login.tpl#L2-L39)[`39`](../src/awesomebb/mod_login.tpl#L39)
+
 ### Version phpBB3
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_login.tpl#L4)[`<->`](../src/prosilver/mod_login.tpl#L4-L50)[`50`](../src/prosilver/mod_login.tpl#L50)
 

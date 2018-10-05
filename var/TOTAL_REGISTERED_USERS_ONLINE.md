@@ -14,6 +14,9 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`10`](../src/awesomebb/viewonline_body.tpl#L10)
+
 ### Version phpBB3
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`15`](../src/prosilver/viewonline_body.tpl#L15)
 

@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`1`](../src/awesomebb/privmsg_topic_review.tpl#L1)[`<->`](../src/awesomebb/privmsg_topic_review.tpl#L1-L6)[`6`](../src/awesomebb/privmsg_topic_review.tpl#L6)
+
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`1`](../src/prosilver/posting_topic_review.tpl#L1)[`<->`](../src/prosilver/posting_topic_review.tpl#L1-L3)[`3`](../src/prosilver/posting_topic_review.tpl#L3)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`1`](../src/prosilver/privmsg_topic_review.tpl#L1)[`<->`](../src/prosilver/privmsg_topic_review.tpl#L1-L3)[`3`](../src/prosilver/privmsg_topic_review.tpl#L3)

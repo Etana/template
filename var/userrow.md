@@ -24,6 +24,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`50`](../src/awesomebb/modcp_viewip.tpl#L50)[`<->`](../src/awesomebb/modcp_viewip.tpl#L50-L57)[`57`](../src/awesomebb/modcp_viewip.tpl#L57)
+
 ### Version phpBB3
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`56`](../src/prosilver/modcp_viewip.tpl#L56)[`<->`](../src/prosilver/modcp_viewip.tpl#L56-L61)[`61`](../src/prosilver/modcp_viewip.tpl#L61)
 

@@ -29,6 +29,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`5`](../src/awesomebb/album_search_body.tpl#L5)[`<->`](../src/awesomebb/album_search_body.tpl#L5-L48)[`48`](../src/awesomebb/album_search_body.tpl#L48)
+
 ### Version phpBB3
 * __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`5`](../src/prosilver/album_search_body.tpl#L5)[`<->`](../src/prosilver/album_search_body.tpl#L5-L48)[`48`](../src/prosilver/album_search_body.tpl#L48)
 

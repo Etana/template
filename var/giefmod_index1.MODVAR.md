@@ -14,6 +14,9 @@ Affiche les widgets de la colonne de gauche un par un.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`153`](../src/awesomebb/overall_header.tpl#L153)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`338`](../src/prosilver/overall_header.tpl#L338)
 

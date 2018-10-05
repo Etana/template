@@ -1,6 +1,6 @@
 # L_FORUM
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`index_box`](../tpl/index_box.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
+* __Utilisable dans__ __:__ [`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme), [`index_box`](../tpl/index_box.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -13,6 +13,11 @@ Chaîne de texte.
 * __Contenu en français :__ `Rechercher dans`
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`123`](../src/awesomebb/overall_header.tpl#L123)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`96`](../src/awesomebb/search_body.tpl#L96)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`19`](../src/awesomebb/search_results_posts.tpl#L19)
 
 ### Version phpBB3
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`8`](../src/prosilver/calendar_overview_topic.tpl#L8)

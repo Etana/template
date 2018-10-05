@@ -12,6 +12,10 @@ Contient une valeur vide utile pour le menu Plus !
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`27`](../src/awesomebb/viewforum_body.tpl#L27)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`76`](../src/awesomebb/viewtopic_body.tpl#L76)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`22`](../src/prosilver/album_cat_body.tpl#L22)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`220`](../src/prosilver/album_showpage_body.tpl#L220)

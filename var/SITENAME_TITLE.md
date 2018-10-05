@@ -12,6 +12,9 @@ Contient le titre de la page d'accueil défini dans votre `PA > Général > Prom
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`17`](../src/awesomebb/overall_header.tpl#L17)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/prosilver/overall_header.tpl#L4), [`17`](../src/prosilver/overall_header.tpl#L17)
 

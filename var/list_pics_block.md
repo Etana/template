@@ -57,6 +57,10 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`61`](../src/awesomebb/album_cat_body.tpl#L61)[`<->`](../src/awesomebb/album_cat_body.tpl#L61-L129)[`129`](../src/awesomebb/album_cat_body.tpl#L129)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`14`](../src/awesomebb/album_cat_top10.tpl#L14)[`<->`](../src/awesomebb/album_cat_top10.tpl#L14-L53)[`53`](../src/awesomebb/album_cat_top10.tpl#L53)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`58`](../src/prosilver/album_cat_body.tpl#L58)[`<->`](../src/prosilver/album_cat_body.tpl#L58-L122)[`122`](../src/prosilver/album_cat_body.tpl#L122)
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`15`](../src/prosilver/album_cat_top10.tpl#L15)[`<->`](../src/prosilver/album_cat_top10.tpl#L15-L54)[`54`](../src/prosilver/album_cat_top10.tpl#L54)

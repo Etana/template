@@ -17,6 +17,9 @@ Boucle affichant le titre de la colonne des groupes dans la liste des membres si
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`33`](../src/awesomebb/memberlist_body.tpl#L33)[`<->`](../src/awesomebb/memberlist_body.tpl#L33-L35)[`35`](../src/awesomebb/memberlist_body.tpl#L35)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`31`](../src/prosilver/memberlist_body.tpl#L31)[`<->`](../src/prosilver/memberlist_body.tpl#L31-L33)[`33`](../src/prosilver/memberlist_body.tpl#L33)
 

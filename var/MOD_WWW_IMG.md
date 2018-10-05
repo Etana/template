@@ -19,6 +19,10 @@ Image `Visiter le site web du posteur` ( choisie dans [`Index`](http://votre-for
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`84`](../src/awesomebb/groupcp_info_body.tpl#L84)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`70`](../src/prosilver/groupcp_info_body.tpl#L70)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

@@ -14,6 +14,9 @@ Remplacé par l'URL absolue de réponse au sujet sur lequel on se trouve.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`51`](../src/awesomebb/viewtopic_body.tpl#L51), [`361`](../src/awesomebb/viewtopic_body.tpl#L361)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`53`](../src/prosilver/viewtopic_body.tpl#L53), [`330`](../src/prosilver/viewtopic_body.tpl#L330)
 

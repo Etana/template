@@ -16,6 +16,9 @@ Contient le script de Facebook Connect si celui-ci est activé dans `PA > Module
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`36`](../src/awesomebb/overall_header.tpl#L36)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`33`](../src/prosilver/overall_header.tpl#L33)
 

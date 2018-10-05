@@ -16,6 +16,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`34`](../src/awesomebb/album_search_body.tpl#L34)
+
 ### Version phpBB3
 * __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`34`](../src/prosilver/album_search_body.tpl#L34)
 

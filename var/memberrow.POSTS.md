@@ -14,6 +14,9 @@ Contient le nombre de message(s) posté(s) par le membre.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`59`](../src/awesomebb/memberlist_body.tpl#L59), [`70`](../src/awesomebb/memberlist_body.tpl#L70)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`53`](../src/prosilver/memberlist_body.tpl#L53)
 

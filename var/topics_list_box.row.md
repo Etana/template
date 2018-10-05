@@ -70,6 +70,7 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN single_selection -->`](../var/topics_list_box.row.topic.single_selection.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.single_selection))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_description -->`](../var/topics_list_box.row.topic.switch_description.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION}`](../var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_description.TOPIC_DESCRIPTION))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_topic_title -->`](../var/topics_list_box.row.topic.switch_topic_title.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.switch_topic_title))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN table_sticky -->`](../var/topics_list_box.row.topic.table_sticky.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS}`](../var/topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.COUNT_TOTAL_TOPICS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_list_box.row.topic.table_sticky.L_AUTHOR}`](../var/topics_list_box.row.topic.table_sticky.L_AUTHOR.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_list_box.row.topic.table_sticky.L_AUTHOR))__
@@ -91,6 +92,9 @@
 
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`2`](../src/awesomebb/topics_list_box.tpl#L2)[`<->`](../src/awesomebb/topics_list_box.tpl#L2-L153)[`153`](../src/awesomebb/topics_list_box.tpl#L153)
 
 ### Version phpBB3
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`2`](../src/prosilver/topics_list_box.tpl#L2)[`<->`](../src/prosilver/topics_list_box.tpl#L2-L147)[`147`](../src/prosilver/topics_list_box.tpl#L147)

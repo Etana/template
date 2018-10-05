@@ -14,6 +14,10 @@ Remplacé par l'URL absolue de création d'un sujet dans le forum dans lequel le
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`4`](../src/awesomebb/viewforum_body.tpl#L4), [`54`](../src/awesomebb/viewforum_body.tpl#L54)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`45`](../src/awesomebb/viewtopic_body.tpl#L45)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`28`](../src/prosilver/viewforum_body.tpl#L28), [`51`](../src/prosilver/viewforum_body.tpl#L51)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`49`](../src/prosilver/viewtopic_body.tpl#L49), [`326`](../src/prosilver/viewtopic_body.tpl#L326)

@@ -12,6 +12,9 @@ Affiche un message d'avertissement si l'utilisateur n'accepte pas le JavaScript.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`5`](../src/awesomebb/faq_dhtml.tpl#L5)
+
 ### Version phpBB3
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`8`](../src/prosilver/faq_dhtml.tpl#L8)
 

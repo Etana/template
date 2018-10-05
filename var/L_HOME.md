@@ -15,6 +15,9 @@ Chaîne de caractère.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`42`](../src/awesomebb/overall_footer_begin.tpl#L42)
+
 ### Version phpBB3
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`33`](../src/prosilver/overall_footer_begin.tpl#L33)
 

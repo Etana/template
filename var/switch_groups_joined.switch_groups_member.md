@@ -19,6 +19,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`6`](../src/awesomebb/groupcp_user_body.tpl#L6)[`<->`](../src/awesomebb/groupcp_user_body.tpl#L6-L16)[`16`](../src/awesomebb/groupcp_user_body.tpl#L16)
+
 ### Version phpBB3
 * __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/groupcp_user_body.tpl#L6)[`<->`](../src/prosilver/groupcp_user_body.tpl#L6-L18)[`18`](../src/prosilver/groupcp_user_body.tpl#L18)
 

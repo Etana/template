@@ -24,6 +24,10 @@ Vous <strong>pouvez</strong> répondre aux sujets dans ce forum<br />Vous <stron
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`73`](../src/awesomebb/viewforum_body.tpl#L73)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`355`](../src/awesomebb/viewtopic_body.tpl#L355)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`77`](../src/prosilver/viewforum_body.tpl#L77)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`370`](../src/prosilver/viewtopic_body.tpl#L370)

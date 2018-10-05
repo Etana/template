@@ -21,6 +21,9 @@ Boucle affichant une séparation `|` entre chaque lien renseigné dans `PA > Mod
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`24`](../src/awesomebb/overall_footer_end.tpl#L24)[`<->`](../src/awesomebb/overall_footer_end.tpl#L24-L24)[`24`](../src/awesomebb/overall_footer_end.tpl#L24)
+
 ### Version phpBB3
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`21`](../src/prosilver/overall_footer_end.tpl#L21)[`<->`](../src/prosilver/overall_footer_end.tpl#L21-L21)[`21`](../src/prosilver/overall_footer_end.tpl#L21)
 

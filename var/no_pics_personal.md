@@ -20,6 +20,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`131`](../src/awesomebb/album_cat_body.tpl#L131)[`<->`](../src/awesomebb/album_cat_body.tpl#L131-L142)[`142`](../src/awesomebb/album_cat_body.tpl#L142)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`124`](../src/prosilver/album_cat_body.tpl#L124)[`<->`](../src/prosilver/album_cat_body.tpl#L124-L134)[`134`](../src/prosilver/album_cat_body.tpl#L134)
 

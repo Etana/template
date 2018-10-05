@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`48`](../src/awesomebb/report_list_body.tpl#L48)[`<->`](../src/awesomebb/report_list_body.tpl#L48-L50)[`50`](../src/awesomebb/report_list_body.tpl#L50)
+
 ### Version phpBB3
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`56`](../src/prosilver/report_list_body.tpl#L56)[`<->`](../src/prosilver/report_list_body.tpl#L56-L58)[`58`](../src/prosilver/report_list_body.tpl#L58)
 

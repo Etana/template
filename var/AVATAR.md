@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`545`](../src/awesomebb/profile_add_body.tpl#L545)
+
 ### Version phpBB3
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`5`](../src/prosilver/calendar_overview_profil.tpl#L5)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`371`](../src/prosilver/profile_add_body.tpl#L371)

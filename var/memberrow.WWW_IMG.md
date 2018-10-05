@@ -14,6 +14,9 @@ Contient un lien vers le site web du membre et l'image définie dans `PA > Affic
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`61`](../src/awesomebb/memberlist_body.tpl#L61), [`72`](../src/awesomebb/memberlist_body.tpl#L72)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`55`](../src/prosilver/memberlist_body.tpl#L55)
 

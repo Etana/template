@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`8`](../src/awesomebb/modcp_viewip.tpl#L8)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`103`](../src/awesomebb/posting_body.tpl#L103)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`40`](../src/awesomebb/profile_send_email.tpl#L40)
+
 ### Version phpBB3
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`13`](../src/prosilver/modcp_viewip.tpl#L13)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`107`](../src/prosilver/posting_body.tpl#L107)

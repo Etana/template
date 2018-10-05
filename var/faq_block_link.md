@@ -21,6 +21,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`5`](../src/awesomebb/faq_body.tpl#L5)[`<->`](../src/awesomebb/faq_body.tpl#L5-L14)[`14`](../src/awesomebb/faq_body.tpl#L14)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/faq_body.tpl#L6)[`<->`](../src/prosilver/faq_body.tpl#L6-L17)[`17`](../src/prosilver/faq_body.tpl#L17)
 

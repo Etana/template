@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `rpg_sheet_edit`
@@ -43,6 +43,36 @@
 	* [`{U_ADMIN_RPG}`](../var/U_ADMIN_RPG.md#readme) ([x](https://fa-tvars.appspot.com/var/U_ADMIN_RPG))
 	* [`{U_ID}`](../var/U_ID.md#readme) ([x](https://fa-tvars.appspot.com/var/U_ID))
 	* [`{UCP_TABS}`](../var/UCP_TABS.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/rpg_sheet_edit.tpl#files)
+
+### Positions des variables
+
+* __[`{AVATAR_URL}`](../var/AVATAR_URL.md#readme)__ __:__ ligne [`21`](../src/awesomebb/rpg_sheet_edit.tpl#L21)
+* __[`{L_AVATAR_ERROR}`](../var/L_AVATAR_ERROR.md#readme)__ __:__ ligne [`24`](../src/awesomebb/rpg_sheet_edit.tpl#L24)
+* __[`{L_AVATAR_PANEL}`](../var/L_AVATAR_PANEL.md#readme)__ __:__ ligne [`15`](../src/awesomebb/rpg_sheet_edit.tpl#L15)
+* __[`{L_RESET}`](../var/L_RESET.md#readme)__ __:__ ligne [`57`](../src/awesomebb/rpg_sheet_edit.tpl#L57)
+* __[`{L_UPLOAD_AVATAR_URL}`](../var/L_UPLOAD_AVATAR_URL.md#readme)__ __:__ ligne [`19`](../src/awesomebb/rpg_sheet_edit.tpl#L19)
+* __[`{L_UPLOAD_EXPLAIN}`](../var/L_UPLOAD_EXPLAIN.md#readme)__ __:__ ligne [`20`](../src/awesomebb/rpg_sheet_edit.tpl#L20)
+* __[`{L_VALID}`](../var/L_VALID.md#readme)__ __:__ ligne [`56`](../src/awesomebb/rpg_sheet_edit.tpl#L56)
+* __[`{L_VIEWING_PROFILE}`](../var/L_VIEWING_PROFILE.md#readme)__ __:__ ligne [`5`](../src/awesomebb/rpg_sheet_edit.tpl#L5)
+* __[`{POSTER_RANK}`](../var/POSTER_RANK.md#readme)__ __:__ ligne [`9`](../src/awesomebb/rpg_sheet_edit.tpl#L9)
+* __[`{RPG_IMAGE}`](../var/RPG_IMAGE.md#readme)__ __:__ ligne [`9`](../src/awesomebb/rpg_sheet_edit.tpl#L9)
+* __[`{UCP_TABS}`](../var/UCP_TABS.md#readme)__ __:__ ligne [`67`](../src/awesomebb/rpg_sheet_edit.tpl#L67)
+* __[`{U_ADMIN_RPG}`](../var/U_ADMIN_RPG.md#readme)__ __:__ ligne [`12`](../src/awesomebb/rpg_sheet_edit.tpl#L12)
+* __[`{U_ID}`](../var/U_ID.md#readme)__ __:__ ligne [`58`](../src/awesomebb/rpg_sheet_edit.tpl#L58)
+* __[`<!-- BEGIN rpg_fields -->`](../var/rpg_fields.md#readme)__ __:__ ligne [`43`](../src/awesomebb/rpg_sheet_edit.tpl#L43)
+* __[`<!-- END rpg_fields -->`](../var/rpg_fields.md#readme)__ __:__ ligne [`48`](../src/awesomebb/rpg_sheet_edit.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_NAME}`](../var/rpg_fields.F_NAME.md#readme)__ __:__ ligne [`45`](../src/awesomebb/rpg_sheet_edit.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields.F_VALUE_NEW}`](../var/rpg_fields.F_VALUE_NEW.md#readme)__ __:__ ligne [`46`](../src/awesomebb/rpg_sheet_edit.tpl#L46)
+* __[`<!-- BEGIN rpg_fields_left -->`](../var/rpg_fields_left.md#readme)__ __:__ ligne [`34`](../src/awesomebb/rpg_sheet_edit.tpl#L34)
+* __[`<!-- END rpg_fields_left -->`](../var/rpg_fields_left.md#readme)__ __:__ ligne [`39`](../src/awesomebb/rpg_sheet_edit.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_NAME}`](../var/rpg_fields_left.F_NAME.md#readme)__ __:__ ligne [`36`](../src/awesomebb/rpg_sheet_edit.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{rpg_fields_left.F_VALUE_NEW}`](../var/rpg_fields_left.F_VALUE_NEW.md#readme)__ __:__ ligne [`37`](../src/awesomebb/rpg_sheet_edit.tpl#L37)
+* __[`<!-- BEGIN switch_menu -->`](../var/switch_menu.md#readme)__ __:__ ligne [`65`](../src/awesomebb/rpg_sheet_edit.tpl#L65)
+* __[`<!-- END switch_menu -->`](../var/switch_menu.md#readme)__ __:__ ligne [`69`](../src/awesomebb/rpg_sheet_edit.tpl#L69)
 
 ## Template par défaut phpBB3
 

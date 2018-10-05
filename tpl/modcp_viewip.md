@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_viewip`
@@ -55,6 +55,49 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_PROFILE}`](../var/userrow.U_PROFILE.md#readme) ([x](https://fa-tvars.appspot.com/var/userrow.U_PROFILE))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_SEARCHPOSTS}`](../var/userrow.U_SEARCHPOSTS.md#readme) ([x](https://fa-tvars.appspot.com/var/userrow.U_SEARCHPOSTS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.USERNAME}`](../var/userrow.USERNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/userrow.USERNAME))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/modcp_viewip.tpl#files)
+
+### Positions des variables
+
+* __[`{IP}`](../var/IP.md#readme)__ __:__ ligne [`37`](../src/awesomebb/modcp_viewip.tpl#L37)
+* __[`{IP1}`](../var/IP1.md#readme)__ __:__ ligne [`16`](../src/awesomebb/modcp_viewip.tpl#L16)
+* __[`{IP2}`](../var/IP2.md#readme)__ __:__ ligne [`16`](../src/awesomebb/modcp_viewip.tpl#L16)
+* __[`{L_IP}`](../var/L_IP.md#readme)__ __:__ ligne [`15`](../src/awesomebb/modcp_viewip.tpl#L15)
+* __[`{L_IP_INFO}`](../var/L_IP_INFO.md#readme)__ __:__ ligne [`26`](../src/awesomebb/modcp_viewip.tpl#L26)
+* __[`{L_LOOKUP_IP}`](../var/L_LOOKUP_IP.md#readme)__ __:__ ligne [`38`](../src/awesomebb/modcp_viewip.tpl#L38)
+* __[`{L_LOOKUP_IP}`](../var/L_LOOKUP_IP.md#readme)__ __:__ ligne [`71`](../src/awesomebb/modcp_viewip.tpl#L71)
+* __[`{L_OTHER_IPS}`](../var/L_OTHER_IPS.md#readme)__ __:__ ligne [`63`](../src/awesomebb/modcp_viewip.tpl#L63)
+* __[`{L_OTHER_USERS}`](../var/L_OTHER_USERS.md#readme)__ __:__ ligne [`45`](../src/awesomebb/modcp_viewip.tpl#L45)
+* __[`{L_POSTED}`](../var/L_POSTED.md#readme)__ __:__ ligne [`19`](../src/awesomebb/modcp_viewip.tpl#L19)
+* __[`{L_POSTER}`](../var/L_POSTER.md#readme)__ __:__ ligne [`11`](../src/awesomebb/modcp_viewip.tpl#L11)
+* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme)__ __:__ ligne [`78`](../src/awesomebb/modcp_viewip.tpl#L78)
+* __[`{L_SUBJECT}`](../var/L_SUBJECT.md#readme)__ __:__ ligne [`7`](../src/awesomebb/modcp_viewip.tpl#L7)
+* __[`{L_THIS_POST_IP}`](../var/L_THIS_POST_IP.md#readme)__ __:__ ligne [`31`](../src/awesomebb/modcp_viewip.tpl#L31)
+* __[`{L_TITLE}`](../var/L_TITLE.md#readme)__ __:__ ligne [`2`](../src/awesomebb/modcp_viewip.tpl#L2)
+* __[`{POSTED}`](../var/POSTED.md#readme)__ __:__ ligne [`20`](../src/awesomebb/modcp_viewip.tpl#L20)
+* __[`{POSTER}`](../var/POSTER.md#readme)__ __:__ ligne [`12`](../src/awesomebb/modcp_viewip.tpl#L12)
+* __[`{POSTS}`](../var/POSTS.md#readme)__ __:__ ligne [`37`](../src/awesomebb/modcp_viewip.tpl#L37)
+* __[`{PREVIEW_NEW}`](../var/PREVIEW_NEW.md#readme)__ __:__ ligne [`82`](../src/awesomebb/modcp_viewip.tpl#L82)
+* __[`{SUBJECT}`](../var/SUBJECT.md#readme)__ __:__ ligne [`8`](../src/awesomebb/modcp_viewip.tpl#L8)
+* __[`{U_LOOKUP_IP}`](../var/U_LOOKUP_IP.md#readme)__ __:__ ligne [`38`](../src/awesomebb/modcp_viewip.tpl#L38)
+* __[`<!-- BEGIN iprow -->`](../var/iprow.md#readme)__ __:__ ligne [`68`](../src/awesomebb/modcp_viewip.tpl#L68)
+* __[`<!-- END iprow -->`](../var/iprow.md#readme)__ __:__ ligne [`73`](../src/awesomebb/modcp_viewip.tpl#L73)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.IP}`](../var/iprow.IP.md#readme)__ __:__ ligne [`70`](../src/awesomebb/modcp_viewip.tpl#L70)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.POSTS}`](../var/iprow.POSTS.md#readme)__ __:__ ligne [`70`](../src/awesomebb/modcp_viewip.tpl#L70)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.ROW_CLASS}`](../var/iprow.ROW_CLASS.md#readme)__ __:__ ligne [`69`](../src/awesomebb/modcp_viewip.tpl#L69)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{iprow.U_LOOKUP_IP}`](../var/iprow.U_LOOKUP_IP.md#readme)__ __:__ ligne [`71`](../src/awesomebb/modcp_viewip.tpl#L71)
+* __[`<!-- BEGIN userrow -->`](../var/userrow.md#readme)__ __:__ ligne [`50`](../src/awesomebb/modcp_viewip.tpl#L50)
+* __[`<!-- END userrow -->`](../var/userrow.md#readme)__ __:__ ligne [`57`](../src/awesomebb/modcp_viewip.tpl#L57)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.L_SEARCH}`](../var/userrow.L_SEARCH.md#readme)__ __:__ ligne [`54`](../src/awesomebb/modcp_viewip.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.L_SEARCH_POSTS}`](../var/userrow.L_SEARCH_POSTS.md#readme)__ __:__ ligne [`54`](../src/awesomebb/modcp_viewip.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.POSTS}`](../var/userrow.POSTS.md#readme)__ __:__ ligne [`52`](../src/awesomebb/modcp_viewip.tpl#L52)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.ROW_CLASS}`](../var/userrow.ROW_CLASS.md#readme)__ __:__ ligne [`51`](../src/awesomebb/modcp_viewip.tpl#L51)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.USERNAME}`](../var/userrow.USERNAME.md#readme)__ __:__ ligne [`52`](../src/awesomebb/modcp_viewip.tpl#L52)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_PROFILE}`](../var/userrow.U_PROFILE.md#readme)__ __:__ ligne [`52`](../src/awesomebb/modcp_viewip.tpl#L52)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{userrow.U_SEARCHPOSTS}`](../var/userrow.U_SEARCHPOSTS.md#readme)__ __:__ ligne [`54`](../src/awesomebb/modcp_viewip.tpl#L54)
 
 ## Template par défaut phpBB3
 

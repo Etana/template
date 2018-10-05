@@ -12,6 +12,10 @@ Contient la valeur `false`.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`27`](../src/awesomebb/viewforum_body.tpl#L27)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`76`](../src/awesomebb/viewtopic_body.tpl#L76)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`17`](../src/prosilver/viewforum_body.tpl#L17)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`96`](../src/prosilver/viewtopic_body.tpl#L96)

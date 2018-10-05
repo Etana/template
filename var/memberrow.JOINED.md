@@ -14,6 +14,9 @@ Contient la date d'inscription du membre.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`57`](../src/awesomebb/memberlist_body.tpl#L57), [`68`](../src/awesomebb/memberlist_body.tpl#L68)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`51`](../src/prosilver/memberlist_body.tpl#L51)
 

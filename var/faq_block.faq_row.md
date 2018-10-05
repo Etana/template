@@ -23,6 +23,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`22`](../src/awesomebb/faq_body.tpl#L22)[`<->`](../src/awesomebb/faq_body.tpl#L22-L28)[`28`](../src/awesomebb/faq_body.tpl#L28)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`19`](../src/awesomebb/faq_dhtml.tpl#L19)[`<->`](../src/awesomebb/faq_dhtml.tpl#L19-L24)[`24`](../src/awesomebb/faq_dhtml.tpl#L24)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`24`](../src/prosilver/faq_body.tpl#L24)[`<->`](../src/prosilver/faq_body.tpl#L24-L31)[`31`](../src/prosilver/faq_body.tpl#L31)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`19`](../src/prosilver/faq_dhtml.tpl#L19)[`<->`](../src/prosilver/faq_dhtml.tpl#L19-L24)[`24`](../src/prosilver/faq_dhtml.tpl#L24)

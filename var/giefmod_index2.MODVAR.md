@@ -14,6 +14,9 @@ Affiche les widgets de la colonne de droite un par un.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`8`](../src/awesomebb/overall_footer_begin.tpl#L8)
+
 ### Version phpBB3
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`17`](../src/prosilver/overall_footer_begin.tpl#L17)
 

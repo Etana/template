@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `faq_dhtml`
@@ -37,6 +37,30 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript est ac
 	* [`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)
 	* [`{U_CFAQ_JSLIB}`](../var/U_CFAQ_JSLIB.md#readme)
 	* [`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/faq_dhtml.tpl#files)
+
+### Positions des variables
+
+* __[`{L_CFAQ_NOSCRIPT}`](../var/L_CFAQ_NOSCRIPT.md#readme)__ __:__ ligne [`5`](../src/awesomebb/faq_dhtml.tpl#L5)
+* __[`{L_FAQ_TITLE}`](../var/L_FAQ_TITLE.md#readme)__ __:__ ligne [`11`](../src/awesomebb/faq_dhtml.tpl#L11)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`35`](../src/awesomebb/faq_dhtml.tpl#L35)
+* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`32`](../src/awesomebb/faq_dhtml.tpl#L32)
+* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`30`](../src/awesomebb/faq_dhtml.tpl#L30)
+* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`34`](../src/awesomebb/faq_dhtml.tpl#L34)
+* __[`{U_CFAQ_JSLIB}`](../var/U_CFAQ_JSLIB.md#readme)__ __:__ ligne [`1`](../src/awesomebb/faq_dhtml.tpl#L1)
+* __[`<!-- BEGIN faq_block -->`](../var/faq_block.md#readme)__ __:__ ligne [`14`](../src/awesomebb/faq_dhtml.tpl#L14)
+* __[`<!-- END faq_block -->`](../var/faq_block.md#readme)__ __:__ ligne [`28`](../src/awesomebb/faq_dhtml.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`](../var/faq_block.BLOCK_TITLE.md#readme)__ __:__ ligne [`18`](../src/awesomebb/faq_dhtml.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`](../var/faq_block.faq_row.md#readme)__ __:__ ligne [`19`](../src/awesomebb/faq_dhtml.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row -->`](../var/faq_block.faq_row.md#readme)__ __:__ ligne [`24`](../src/awesomebb/faq_dhtml.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme)__ __:__ ligne [`23`](../src/awesomebb/faq_dhtml.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)__ __:__ ligne [`21`](../src/awesomebb/faq_dhtml.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`20`](../src/awesomebb/faq_dhtml.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`21`](../src/awesomebb/faq_dhtml.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`23`](../src/awesomebb/faq_dhtml.tpl#L23)
 
 ## Template par défaut phpBB3
 

@@ -14,6 +14,13 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`24`](../src/awesomebb/greeting_popup.tpl#L24)
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`44`](../src/awesomebb/posting_smilies.tpl#L44)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`22`](../src/awesomebb/privmsgs_popup.tpl#L22)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme)__ __:__ lignes [`24`](../src/awesomebb/report_popup_body.tpl#L24)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`24`](../src/awesomebb/search_username.tpl#L24)
+
 ### Version phpBB3
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`24`](../src/prosilver/greeting_popup.tpl#L24)
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`44`](../src/prosilver/posting_smilies.tpl#L44)

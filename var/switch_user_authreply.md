@@ -17,6 +17,9 @@ Boucle s'affichant si l'utilisateur a l'autorisation de répondre à un sujet da
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`50`](../src/awesomebb/viewtopic_body.tpl#L50)[`<->`](../src/awesomebb/viewtopic_body.tpl#L50-L55)[`55`](../src/awesomebb/viewtopic_body.tpl#L55), [`360`](../src/awesomebb/viewtopic_body.tpl#L360)[`<->`](../src/awesomebb/viewtopic_body.tpl#L360-L364)[`364`](../src/awesomebb/viewtopic_body.tpl#L364)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`52`](../src/prosilver/viewtopic_body.tpl#L52)[`<->`](../src/prosilver/viewtopic_body.tpl#L52-L54)[`54`](../src/prosilver/viewtopic_body.tpl#L54), [`329`](../src/prosilver/viewtopic_body.tpl#L329)[`<->`](../src/prosilver/viewtopic_body.tpl#L329-L331)[`331`](../src/prosilver/viewtopic_body.tpl#L331)
 

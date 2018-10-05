@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`4`](../src/awesomebb/mod_rss_feeds.tpl#L4)
+
 ### Version phpBB3
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_rss_feeds.tpl#L4)
 

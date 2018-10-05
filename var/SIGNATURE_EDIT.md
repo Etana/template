@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`13`](../src/awesomebb/profile_edit_signature.tpl#L13)
+
 ### Version phpBB3
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`14`](../src/prosilver/profile_edit_signature.tpl#L14)
 

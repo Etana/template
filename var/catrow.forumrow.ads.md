@@ -17,6 +17,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.ads)
 
 ## Attributs
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.ALIAS}`](../var/catrow.forumrow.ads.ALIAS.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.ALIAS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.DATE}`](../var/catrow.forumrow.ads.DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.DATE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.IMG}`](../var/catrow.forumrow.ads.IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.LINK}`](../var/catrow.forumrow.ads.LINK.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.LINK))__
@@ -25,6 +26,9 @@
 
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`71`](../src/awesomebb/index_box.tpl#L71)[`<->`](../src/awesomebb/index_box.tpl#L71-L73)[`73`](../src/awesomebb/index_box.tpl#L73), [`79`](../src/awesomebb/index_box.tpl#L79)[`<->`](../src/awesomebb/index_box.tpl#L79-L81)[`81`](../src/awesomebb/index_box.tpl#L81), [`83`](../src/awesomebb/index_box.tpl#L83)[`<->`](../src/awesomebb/index_box.tpl#L83-L87)[`87`](../src/awesomebb/index_box.tpl#L87), [`90`](../src/awesomebb/index_box.tpl#L90)[`<->`](../src/awesomebb/index_box.tpl#L90-L92)[`92`](../src/awesomebb/index_box.tpl#L92), [`96`](../src/awesomebb/index_box.tpl#L96)[`<->`](../src/awesomebb/index_box.tpl#L96-L98)[`98`](../src/awesomebb/index_box.tpl#L98)
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`50`](../src/prosilver/index_box.tpl#L50)[`<->`](../src/prosilver/index_box.tpl#L50-L59)[`59`](../src/prosilver/index_box.tpl#L59)

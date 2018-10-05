@@ -12,6 +12,9 @@ Remplacé par les icônes de modération d'un sujet
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`338`](../src/awesomebb/viewtopic_body.tpl#L338)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`359`](../src/prosilver/viewtopic_body.tpl#L359)
 

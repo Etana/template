@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `overall_footer_begin`
@@ -14,6 +14,8 @@
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
 	* [`{C3SIZE}`](../var/C3SIZE.md#readme)
+	* [`<!-- BEGIN disable_viewonline -->`](../var/disable_viewonline.md#readme)
+	* [`<!-- END disable_viewonline -->`](../var/disable_viewonline.md#readme)
 	* [`<!-- BEGIN giefmod_index2 -->`](../var/giefmod_index2.md#readme)
 	* [`<!-- END giefmod_index2 -->`](../var/giefmod_index2.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod_index2.MODVAR}`](../var/giefmod_index2.MODVAR.md#readme)
@@ -30,6 +32,31 @@
 	* [`{SPACE_ROW}`](../var/SPACE_ROW.md#readme)
 	* [`{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme)
 	* [`{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/overall_footer_begin.tpl#files)
+
+### Positions des variables
+
+* __[`{ID_RIGHT}`](../var/ID_RIGHT.md#readme)__ __:__ ligne [`6`](../src/awesomebb/overall_footer_begin.tpl#L6)
+* __[`{L_HOME}`](../var/L_HOME.md#readme)__ __:__ ligne [`42`](../src/awesomebb/overall_footer_begin.tpl#L42)
+* __[`{NEWEST_USER}`](../var/NEWEST_USER.md#readme)__ __:__ ligne [`26`](../src/awesomebb/overall_footer_begin.tpl#L26)
+* __[`{SPACE_ROW}`](../var/SPACE_ROW.md#readme)__ __:__ ligne [`10`](../src/awesomebb/overall_footer_begin.tpl#L10)
+* __[`{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme)__ __:__ ligne [`20`](../src/awesomebb/overall_footer_begin.tpl#L20)
+* __[`{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme)__ __:__ ligne [`23`](../src/awesomebb/overall_footer_begin.tpl#L23)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`42`](../src/awesomebb/overall_footer_begin.tpl#L42)
+* __[`<!-- BEGIN disable_viewonline -->`](../var/disable_viewonline.md#readme)__ __:__ ligne [`15`](../src/awesomebb/overall_footer_begin.tpl#L15)
+* __[`<!-- END disable_viewonline -->`](../var/disable_viewonline.md#readme)__ __:__ ligne [`31`](../src/awesomebb/overall_footer_begin.tpl#L31)
+* __[`<!-- BEGIN giefmod_index2 -->`](../var/giefmod_index2.md#readme)__ __:__ ligne [`7`](../src/awesomebb/overall_footer_begin.tpl#L7)
+* __[`<!-- END giefmod_index2 -->`](../var/giefmod_index2.md#readme)__ __:__ ligne [`12`](../src/awesomebb/overall_footer_begin.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod_index2.MODVAR}`](../var/giefmod_index2.MODVAR.md#readme)__ __:__ ligne [`8`](../src/awesomebb/overall_footer_begin.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN saut -->`](../var/giefmod_index2.saut.md#readme)__ __:__ ligne [`9`](../src/awesomebb/overall_footer_begin.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END saut -->`](../var/giefmod_index2.saut.md#readme)__ __:__ ligne [`11`](../src/awesomebb/overall_footer_begin.tpl#L11)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/awesomebb/overall_footer_begin.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`3`](../src/awesomebb/overall_footer_begin.tpl#L3)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`46`](../src/awesomebb/overall_footer_begin.tpl#L46)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`52`](../src/awesomebb/overall_footer_begin.tpl#L52)
 
 ## Template par défaut phpBB3
 

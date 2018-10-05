@@ -16,6 +16,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`22`](../src/awesomebb/calendar_box.tpl#L22)
+
 ### Version phpBB3
 * __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`24`](../src/prosilver/calendar_box.tpl#L24)
 

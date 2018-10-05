@@ -26,6 +26,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`23`](../src/awesomebb/mod_news.tpl#L23)[`<->`](../src/awesomebb/mod_news.tpl#L23-L25)[`25`](../src/awesomebb/mod_news.tpl#L25), [`34`](../src/awesomebb/mod_news.tpl#L34)[`<->`](../src/awesomebb/mod_news.tpl#L34-L38)[`38`](../src/awesomebb/mod_news.tpl#L38)
+
 ### Version phpBB3
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`28`](../src/prosilver/mod_news.tpl#L28)[`<->`](../src/prosilver/mod_news.tpl#L28-L30)[`30`](../src/prosilver/mod_news.tpl#L30), [`39`](../src/prosilver/mod_news.tpl#L39)[`<->`](../src/prosilver/mod_news.tpl#L39-L43)[`43`](../src/prosilver/mod_news.tpl#L43)
 

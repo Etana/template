@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`202`](../src/awesomebb/profile_view_body.tpl#L202), [`203`](../src/awesomebb/profile_view_body.tpl#L203)
+
 ### Version phpBB3
 * __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`135`](../src/prosilver/profile_view_body.tpl#L135), [`136`](../src/prosilver/profile_view_body.tpl#L136)
 

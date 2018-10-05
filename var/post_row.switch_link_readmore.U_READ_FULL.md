@@ -16,6 +16,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`50`](../src/awesomebb/mod_news.tpl#L50)
+
 ### Version ModernBB
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`50`](../src/modernbb/mod_news.tpl#L50)
 

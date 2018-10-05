@@ -14,6 +14,12 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme)__ __:__ lignes [`10`](../src/awesomebb/mod_most_active_starters.tpl#L10)
+* __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`11`](../src/awesomebb/mod_top_post_users_month.tpl#L11), [`14`](../src/awesomebb/mod_top_post_users_month.tpl#L14)
+* __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme)__ __:__ lignes [`11`](../src/awesomebb/mod_top_post_users_week.tpl#L11), [`14`](../src/awesomebb/mod_top_post_users_week.tpl#L14)
+* __[`mod_top_posters`](../tpl/mod_top_posters.md#readme)__ __:__ lignes [`11`](../src/awesomebb/mod_top_posters.tpl#L11), [`14`](../src/awesomebb/mod_top_posters.tpl#L14)
+
 ### Version phpBB3
 * __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`9`](../src/prosilver/mod_top_post_users_month.tpl#L9)
 * __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme)__ __:__ lignes [`9`](../src/prosilver/mod_top_post_users_week.tpl#L9)

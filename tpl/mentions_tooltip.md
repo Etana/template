@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `mentions_tooltip`
@@ -54,6 +54,60 @@
 	* [`{USER_AVATAR}`](../var/USER_AVATAR.md#readme) ([x](https://fa-tvars.appspot.com/var/USER_AVATAR))
 	* [`{USER_NAME}`](../var/USER_NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/USER_NAME))
 	* [`{USER_NAME_COLORED}`](../var/USER_NAME_COLORED.md#readme) ([x](https://fa-tvars.appspot.com/var/USER_NAME_COLORED))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mentions_tooltip.tpl#files)
+
+### Positions des variables
+
+* __[`{FRIENDS}`](../var/FRIENDS.md#readme)__ __:__ ligne [`13`](../src/awesomebb/mentions_tooltip.tpl#L13)
+* __[`{L_FRIENDS}`](../var/L_FRIENDS.md#readme)__ __:__ ligne [`13`](../src/awesomebb/mentions_tooltip.tpl#L13)
+* __[`{L_POSTS}`](../var/L_POSTS.md#readme)__ __:__ ligne [`11`](../src/awesomebb/mentions_tooltip.tpl#L11)
+* __[`{POSTS}`](../var/POSTS.md#readme)__ __:__ ligne [`11`](../src/awesomebb/mentions_tooltip.tpl#L11)
+* __[`{USER_AVATAR}`](../var/USER_AVATAR.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mentions_tooltip.tpl#L8)
+* __[`{USER_NAME}`](../var/USER_NAME.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mentions_tooltip.tpl#L8)
+* __[`{USER_NAME_COLORED}`](../var/USER_NAME_COLORED.md#readme)__ __:__ ligne [`3`](../src/awesomebb/mentions_tooltip.tpl#L3)
+* __[`<!-- BEGIN switch_button_tooltip_FACEBOOK -->`](../var/switch_button_tooltip_FACEBOOK.md#readme)__ __:__ ligne [`44`](../src/awesomebb/mentions_tooltip.tpl#L44)
+* __[`<!-- END switch_button_tooltip_FACEBOOK -->`](../var/switch_button_tooltip_FACEBOOK.md#readme)__ __:__ ligne [`50`](../src/awesomebb/mentions_tooltip.tpl#L50)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FACEBOOK.IMAGE}`](../var/switch_button_tooltip_FACEBOOK.IMAGE.md#readme)__ __:__ ligne [`47`](../src/awesomebb/mentions_tooltip.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FACEBOOK.LANG}`](../var/switch_button_tooltip_FACEBOOK.LANG.md#readme)__ __:__ ligne [`46`](../src/awesomebb/mentions_tooltip.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FACEBOOK.LANG}`](../var/switch_button_tooltip_FACEBOOK.LANG.md#readme)__ __:__ ligne [`47`](../src/awesomebb/mentions_tooltip.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FACEBOOK.URL}`](../var/switch_button_tooltip_FACEBOOK.URL.md#readme)__ __:__ ligne [`46`](../src/awesomebb/mentions_tooltip.tpl#L46)
+* __[`<!-- BEGIN switch_button_tooltip_FRIEND -->`](../var/switch_button_tooltip_FRIEND.md#readme)__ __:__ ligne [`30`](../src/awesomebb/mentions_tooltip.tpl#L30)
+* __[`<!-- END switch_button_tooltip_FRIEND -->`](../var/switch_button_tooltip_FRIEND.md#readme)__ __:__ ligne [`36`](../src/awesomebb/mentions_tooltip.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FRIEND.IMAGE}`](../var/switch_button_tooltip_FRIEND.IMAGE.md#readme)__ __:__ ligne [`33`](../src/awesomebb/mentions_tooltip.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FRIEND.LANG}`](../var/switch_button_tooltip_FRIEND.LANG.md#readme)__ __:__ ligne [`32`](../src/awesomebb/mentions_tooltip.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FRIEND.LANG}`](../var/switch_button_tooltip_FRIEND.LANG.md#readme)__ __:__ ligne [`33`](../src/awesomebb/mentions_tooltip.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_FRIEND.URL}`](../var/switch_button_tooltip_FRIEND.URL.md#readme)__ __:__ ligne [`32`](../src/awesomebb/mentions_tooltip.tpl#L32)
+* __[`<!-- BEGIN switch_button_tooltip_MESSAGES -->`](../var/switch_button_tooltip_MESSAGES.md#readme)__ __:__ ligne [`37`](../src/awesomebb/mentions_tooltip.tpl#L37)
+* __[`<!-- END switch_button_tooltip_MESSAGES -->`](../var/switch_button_tooltip_MESSAGES.md#readme)__ __:__ ligne [`43`](../src/awesomebb/mentions_tooltip.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_MESSAGES.IMAGE}`](../var/switch_button_tooltip_MESSAGES.IMAGE.md#readme)__ __:__ ligne [`40`](../src/awesomebb/mentions_tooltip.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_MESSAGES.LANG}`](../var/switch_button_tooltip_MESSAGES.LANG.md#readme)__ __:__ ligne [`39`](../src/awesomebb/mentions_tooltip.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_MESSAGES.LANG}`](../var/switch_button_tooltip_MESSAGES.LANG.md#readme)__ __:__ ligne [`40`](../src/awesomebb/mentions_tooltip.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_MESSAGES.URL}`](../var/switch_button_tooltip_MESSAGES.URL.md#readme)__ __:__ ligne [`39`](../src/awesomebb/mentions_tooltip.tpl#L39)
+* __[`<!-- BEGIN switch_button_tooltip_PM -->`](../var/switch_button_tooltip_PM.md#readme)__ __:__ ligne [`23`](../src/awesomebb/mentions_tooltip.tpl#L23)
+* __[`<!-- END switch_button_tooltip_PM -->`](../var/switch_button_tooltip_PM.md#readme)__ __:__ ligne [`29`](../src/awesomebb/mentions_tooltip.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PM.IMAGE}`](../var/switch_button_tooltip_PM.IMAGE.md#readme)__ __:__ ligne [`26`](../src/awesomebb/mentions_tooltip.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PM.LANG}`](../var/switch_button_tooltip_PM.LANG.md#readme)__ __:__ ligne [`25`](../src/awesomebb/mentions_tooltip.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PM.LANG}`](../var/switch_button_tooltip_PM.LANG.md#readme)__ __:__ ligne [`26`](../src/awesomebb/mentions_tooltip.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PM.URL}`](../var/switch_button_tooltip_PM.URL.md#readme)__ __:__ ligne [`25`](../src/awesomebb/mentions_tooltip.tpl#L25)
+* __[`<!-- BEGIN switch_button_tooltip_PROFILE -->`](../var/switch_button_tooltip_PROFILE.md#readme)__ __:__ ligne [`16`](../src/awesomebb/mentions_tooltip.tpl#L16)
+* __[`<!-- END switch_button_tooltip_PROFILE -->`](../var/switch_button_tooltip_PROFILE.md#readme)__ __:__ ligne [`22`](../src/awesomebb/mentions_tooltip.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PROFILE.IMAGE}`](../var/switch_button_tooltip_PROFILE.IMAGE.md#readme)__ __:__ ligne [`19`](../src/awesomebb/mentions_tooltip.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PROFILE.LANG}`](../var/switch_button_tooltip_PROFILE.LANG.md#readme)__ __:__ ligne [`18`](../src/awesomebb/mentions_tooltip.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PROFILE.LANG}`](../var/switch_button_tooltip_PROFILE.LANG.md#readme)__ __:__ ligne [`19`](../src/awesomebb/mentions_tooltip.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_PROFILE.URL}`](../var/switch_button_tooltip_PROFILE.URL.md#readme)__ __:__ ligne [`18`](../src/awesomebb/mentions_tooltip.tpl#L18)
+* __[`<!-- BEGIN switch_button_tooltip_TWITTER -->`](../var/switch_button_tooltip_TWITTER.md#readme)__ __:__ ligne [`51`](../src/awesomebb/mentions_tooltip.tpl#L51)
+* __[`<!-- END switch_button_tooltip_TWITTER -->`](../var/switch_button_tooltip_TWITTER.md#readme)__ __:__ ligne [`57`](../src/awesomebb/mentions_tooltip.tpl#L57)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_TWITTER.IMAGE}`](../var/switch_button_tooltip_TWITTER.IMAGE.md#readme)__ __:__ ligne [`54`](../src/awesomebb/mentions_tooltip.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_TWITTER.LANG}`](../var/switch_button_tooltip_TWITTER.LANG.md#readme)__ __:__ ligne [`53`](../src/awesomebb/mentions_tooltip.tpl#L53)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_TWITTER.LANG}`](../var/switch_button_tooltip_TWITTER.LANG.md#readme)__ __:__ ligne [`54`](../src/awesomebb/mentions_tooltip.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_button_tooltip_TWITTER.URL}`](../var/switch_button_tooltip_TWITTER.URL.md#readme)__ __:__ ligne [`53`](../src/awesomebb/mentions_tooltip.tpl#L53)
+* __[`<!-- BEGIN switch_rank_info -->`](../var/switch_rank_info.md#readme)__ __:__ ligne [`4`](../src/awesomebb/mentions_tooltip.tpl#L4)
+* __[`<!-- END switch_rank_info -->`](../var/switch_rank_info.md#readme)__ __:__ ligne [`6`](../src/awesomebb/mentions_tooltip.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank_info.L_RANK}`](../var/switch_rank_info.L_RANK.md#readme)__ __:__ ligne [`5`](../src/awesomebb/mentions_tooltip.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank_info.RANK_TITLE}`](../var/switch_rank_info.RANK_TITLE.md#readme)__ __:__ ligne [`5`](../src/awesomebb/mentions_tooltip.tpl#L5)
 
 ## Template par défaut phpBB3
 

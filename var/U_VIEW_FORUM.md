@@ -1,6 +1,6 @@
 # U_VIEW_FORUM
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`calendar_body`](../tpl/calendar_body.md#readme), [`faq_body`](../tpl/faq_body.md#readme), [`faq_dhtml`](../tpl/faq_dhtml.md#readme), [`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme), [`profile_send_pass`](../tpl/profile_send_pass.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewonline_body`](../tpl/viewonline_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -14,6 +14,12 @@ Remplacé par l'URL absolue vers le forum dans lequel le sujet se trouve.
 
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`4`](../src/awesomebb/album_cat_body.tpl#L4)
+* __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/calendar_body.tpl#L2)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/viewforum_body.tpl#L2)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 
 
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/viewforum_body.tpl#L4)

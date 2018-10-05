@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `posting_preview`
@@ -24,6 +24,15 @@
 	* [`{POST_DATE}`](../var/POST_DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/POST_DATE))
 	* [`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme) ([x](https://fa-tvars.appspot.com/var/POST_SUBJECT))
 	* [`{USERNAME}`](../var/USERNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/USERNAME))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/posting_preview.tpl#files)
+
+### Positions des variables
+
+* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme)__ __:__ ligne [`3`](../src/awesomebb/posting_preview.tpl#L3)
+* __[`{MESSAGE_NEW}`](../var/MESSAGE_NEW.md#readme)__ __:__ ligne [`7`](../src/awesomebb/posting_preview.tpl#L7)
 
 ## Template par défaut phpBB3
 

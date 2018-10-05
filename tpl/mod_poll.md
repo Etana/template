@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_poll`
@@ -15,6 +15,15 @@
 * __Variables propres à ce template__ __:__
 	* [`{L_POLL}`](../var/L_POLL.md#readme) ([x](https://fa-tvars.appspot.com/var/L_POLL))
 	* [`{POLL_DISPLAY}`](../var/POLL_DISPLAY.md#readme) ([x](https://fa-tvars.appspot.com/var/POLL_DISPLAY))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_poll.tpl#files)
+
+### Positions des variables
+
+* __[`{L_POLL}`](../var/L_POLL.md#readme)__ __:__ ligne [`5`](../src/awesomebb/mod_poll.tpl#L5)
+* __[`{POLL_DISPLAY}`](../var/POLL_DISPLAY.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_poll.tpl#L8)
 
 ## Template par défaut phpBB3
 

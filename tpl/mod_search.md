@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_search`
@@ -23,6 +23,26 @@
 	* [`<!-- END TAGS -->`](../var/TAGS.md#readme) ([x](https://fa-tvars.appspot.com/var/TAGS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.SEARCH_TAGS}`](../var/TAGS.SEARCH_TAGS.md#readme) ([x](https://fa-tvars.appspot.com/var/TAGS.SEARCH_TAGS))
 	* [`{U_SEARCH}`](../var/U_SEARCH.md#readme) ([x](https://fa-tvars.appspot.com/var/U_SEARCH))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_search.tpl#files)
+
+### Positions des variables
+
+* __[`{JS_SESSION_ID_INPUT}`](../var/JS_SESSION_ID_INPUT.md#readme)__ __:__ ligne [`75`](../src/awesomebb/mod_search.tpl#L75)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`4`](../src/awesomebb/mod_search.tpl#L4)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_search.tpl#L10)
+* __[`{SEARCH_ADVANCED}`](../var/SEARCH_ADVANCED.md#readme)__ __:__ ligne [`72`](../src/awesomebb/mod_search.tpl#L72)
+* __[`{SEARCH_INSIDE}`](../var/SEARCH_INSIDE.md#readme)__ __:__ ligne [`23`](../src/awesomebb/mod_search.tpl#L23)
+* __[`{SEARCH_POSTS}`](../var/SEARCH_POSTS.md#readme)__ __:__ ligne [`45`](../src/awesomebb/mod_search.tpl#L45)
+* __[`{SEARCH_RESULTS}`](../var/SEARCH_RESULTS.md#readme)__ __:__ ligne [`38`](../src/awesomebb/mod_search.tpl#L38)
+* __[`{SEARCH_TOPICS}`](../var/SEARCH_TOPICS.md#readme)__ __:__ ligne [`54`](../src/awesomebb/mod_search.tpl#L54)
+* __[`<!-- BEGIN TAGS -->`](../var/TAGS.md#readme)__ __:__ ligne [`59`](../src/awesomebb/mod_search.tpl#L59)
+* __[`<!-- END TAGS -->`](../var/TAGS.md#readme)__ __:__ ligne [`69`](../src/awesomebb/mod_search.tpl#L69)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.SEARCH_TAGS}`](../var/TAGS.SEARCH_TAGS.md#readme)__ __:__ ligne [`66`](../src/awesomebb/mod_search.tpl#L66)
+* __[`{U_SEARCH}`](../var/U_SEARCH.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_search.tpl#L8)
+* __[`{U_SEARCH}`](../var/U_SEARCH.md#readme)__ __:__ ligne [`71`](../src/awesomebb/mod_search.tpl#L71)
 
 ## Template par défaut phpBB3
 

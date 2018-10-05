@@ -12,6 +12,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`93`](../src/awesomebb/privmsgs_body.tpl#L93)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`68`](../src/awesomebb/privmsgs_read_body.tpl#L68)
+
 ### Version phpBB3
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`7`](../src/prosilver/privmsgs_body.tpl#L7)
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`7`](../src/prosilver/privmsgs_read_body.tpl#L7)

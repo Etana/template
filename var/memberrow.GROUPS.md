@@ -14,6 +14,9 @@ Contient le groupe du membre.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`65`](../src/awesomebb/memberlist_body.tpl#L65)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`48`](../src/prosilver/memberlist_body.tpl#L48)
 

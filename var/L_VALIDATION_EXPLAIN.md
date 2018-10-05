@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`3`](../src/awesomebb/posting_confirm_code.tpl#L3)
+
 ### Version phpBB3
 * __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`3`](../src/prosilver/posting_confirm_code.tpl#L3)
 

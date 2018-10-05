@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `viewforum_body`
@@ -80,6 +80,52 @@ Ce template affiche les forums : `/fX-`
 	* [`{U_UNANSWERED_JS_PLUS_MENU}`](../var/U_UNANSWERED_JS_PLUS_MENU.md#readme)
 	* [`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)
 	* [`{U_WATCHSEARCH_JS_PLUS_MENU}`](../var/U_WATCHSEARCH_JS_PLUS_MENU.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/viewforum_body.tpl#files)
+
+### Positions des variables
+
+* __[`{BOARD_INDEX}`](../var/BOARD_INDEX.md#readme)__ __:__ ligne [`42`](../src/awesomebb/viewforum_body.tpl#L42)
+* __[`{FORUM_ID}`](../var/FORUM_ID.md#readme)__ __:__ ligne [`27`](../src/awesomebb/viewforum_body.tpl#L27)
+* __[`{FORUM_ID}`](../var/FORUM_ID.md#readme)__ __:__ ligne [`27`](../src/awesomebb/viewforum_body.tpl#L27)
+* __[`{FORUM_NAME}`](../var/FORUM_NAME.md#readme)__ __:__ ligne [`2`](../src/awesomebb/viewforum_body.tpl#L2)
+* __[`{JS_AUTH_FAVOURITES}`](../var/JS_AUTH_FAVOURITES.md#readme)__ __:__ ligne [`27`](../src/awesomebb/viewforum_body.tpl#L27)
+* __[`{JS_SESSION_ID}`](../var/JS_SESSION_ID.md#readme)__ __:__ ligne [`27`](../src/awesomebb/viewforum_body.tpl#L27)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`10`](../src/awesomebb/viewforum_body.tpl#L10)
+* __[`{L_MARK_TOPICS_READ}`](../var/L_MARK_TOPICS_READ.md#readme)__ __:__ ligne [`34`](../src/awesomebb/viewforum_body.tpl#L34)
+* __[`{L_MARK_TOPICS_READ}`](../var/L_MARK_TOPICS_READ.md#readme)__ __:__ ligne [`52`](../src/awesomebb/viewforum_body.tpl#L52)
+* __[`{L_MODERATOR}`](../var/L_MODERATOR.md#readme)__ __:__ ligne [`61`](../src/awesomebb/viewforum_body.tpl#L61)
+* __[`{L_POST_NEW_TOPIC}`](../var/L_POST_NEW_TOPIC.md#readme)__ __:__ ligne [`4`](../src/awesomebb/viewforum_body.tpl#L4)
+* __[`{L_POST_NEW_TOPIC}`](../var/L_POST_NEW_TOPIC.md#readme)__ __:__ ligne [`6`](../src/awesomebb/viewforum_body.tpl#L6)
+* __[`{L_POST_NEW_TOPIC}`](../var/L_POST_NEW_TOPIC.md#readme)__ __:__ ligne [`54`](../src/awesomebb/viewforum_body.tpl#L54)
+* __[`{L_TABS_PERMISSIONS}`](../var/L_TABS_PERMISSIONS.md#readme)__ __:__ ligne [`70`](../src/awesomebb/viewforum_body.tpl#L70)
+* __[`{MODERATORS}`](../var/MODERATORS.md#readme)__ __:__ ligne [`64`](../src/awesomebb/viewforum_body.tpl#L64)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`11`](../src/awesomebb/viewforum_body.tpl#L11)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`14`](../src/awesomebb/viewforum_body.tpl#L14)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`49`](../src/awesomebb/viewforum_body.tpl#L49)
+* __[`{S_AUTH_LIST}`](../var/S_AUTH_LIST.md#readme)__ __:__ ligne [`73`](../src/awesomebb/viewforum_body.tpl#L73)
+* __[`{S_WATCH_FORUM}`](../var/S_WATCH_FORUM.md#readme)__ __:__ ligne [`52`](../src/awesomebb/viewforum_body.tpl#L52)
+* __[`{TOPICS_LIST_BOX}`](../var/TOPICS_LIST_BOX.md#readme)__ __:__ ligne [`46`](../src/awesomebb/viewforum_body.tpl#L46)
+* __[`{U_EGOSEARCH_JS_PLUS_MENU}`](../var/U_EGOSEARCH_JS_PLUS_MENU.md#readme)__ __:__ ligne [`24`](../src/awesomebb/viewforum_body.tpl#L24)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`10`](../src/awesomebb/viewforum_body.tpl#L10)
+* __[`{U_MARK_READ}`](../var/U_MARK_READ.md#readme)__ __:__ ligne [`33`](../src/awesomebb/viewforum_body.tpl#L33)
+* __[`{U_MARK_READ}`](../var/U_MARK_READ.md#readme)__ __:__ ligne [`52`](../src/awesomebb/viewforum_body.tpl#L52)
+* __[`{U_NEWPOSTS_JS_PLUS_MENU}`](../var/U_NEWPOSTS_JS_PLUS_MENU.md#readme)__ __:__ ligne [`23`](../src/awesomebb/viewforum_body.tpl#L23)
+* __[`{U_POST_NEW_TOPIC}`](../var/U_POST_NEW_TOPIC.md#readme)__ __:__ ligne [`4`](../src/awesomebb/viewforum_body.tpl#L4)
+* __[`{U_POST_NEW_TOPIC}`](../var/U_POST_NEW_TOPIC.md#readme)__ __:__ ligne [`54`](../src/awesomebb/viewforum_body.tpl#L54)
+* __[`{U_UNANSWERED_JS_PLUS_MENU}`](../var/U_UNANSWERED_JS_PLUS_MENU.md#readme)__ __:__ ligne [`25`](../src/awesomebb/viewforum_body.tpl#L25)
+* __[`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)__ __:__ ligne [`2`](../src/awesomebb/viewforum_body.tpl#L2)
+* __[`{U_WATCHSEARCH_JS_PLUS_MENU}`](../var/U_WATCHSEARCH_JS_PLUS_MENU.md#readme)__ __:__ ligne [`26`](../src/awesomebb/viewforum_body.tpl#L26)
+* __[`<!-- BEGIN show_plus_menu -->`](../var/show_plus_menu.md#readme)__ __:__ ligne [`20`](../src/awesomebb/viewforum_body.tpl#L20)
+* __[`<!-- END show_plus_menu -->`](../var/show_plus_menu.md#readme)__ __:__ ligne [`31`](../src/awesomebb/viewforum_body.tpl#L31)
+* __[`<!-- BEGIN switch_user_authpost -->`](../var/switch_user_authpost.md#readme)__ __:__ ligne [`3`](../src/awesomebb/viewforum_body.tpl#L3)
+* __[`<!-- END switch_user_authpost -->`](../var/switch_user_authpost.md#readme)__ __:__ ligne [`8`](../src/awesomebb/viewforum_body.tpl#L8)
+* __[`<!-- BEGIN switch_user_authpost -->`](../var/switch_user_authpost.md#readme)__ __:__ ligne [`53`](../src/awesomebb/viewforum_body.tpl#L53)
+* __[`<!-- END switch_user_authpost -->`](../var/switch_user_authpost.md#readme)__ __:__ ligne [`57`](../src/awesomebb/viewforum_body.tpl#L57)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`32`](../src/awesomebb/viewforum_body.tpl#L32)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`36`](../src/awesomebb/viewforum_body.tpl#L36)
 
 ## Template par défaut phpBB3
 

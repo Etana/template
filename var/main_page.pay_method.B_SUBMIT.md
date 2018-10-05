@@ -16,6 +16,9 @@ Affiche le bouton "Paiements via PayPal".
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`27`](../src/awesomebb/buy_credits.tpl#L27)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`30`](../src/prosilver/buy_credits.tpl#L30)
 

@@ -12,6 +12,9 @@ Remplacé par une liste déroulante contenant les différentes actions de modér
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`340`](../src/awesomebb/viewtopic_body.tpl#L340)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`360`](../src/prosilver/viewtopic_body.tpl#L360)
 

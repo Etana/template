@@ -16,6 +16,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`89`](../src/awesomebb/topics_list_box.tpl#L89)
+
 ### Version Version mobile
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`62`](../src/mobile/topics_list_box.tpl#L62)
 

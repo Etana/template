@@ -40,6 +40,11 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`31`](../src/awesomebb/calendar_scheduler_body.tpl#L31)[`<->`](../src/awesomebb/calendar_scheduler_body.tpl#L31-L37)[`37`](../src/awesomebb/calendar_scheduler_body.tpl#L37)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`31`](../src/awesomebb/report_list_body.tpl#L31)[`<->`](../src/awesomebb/report_list_body.tpl#L31-L40)[`40`](../src/awesomebb/report_list_body.tpl#L40)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`13`](../src/awesomebb/report_view_body.tpl#L13)[`<->`](../src/awesomebb/report_view_body.tpl#L13-L51)[`51`](../src/awesomebb/report_view_body.tpl#L51)
+
 ### Version phpBB3
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`30`](../src/prosilver/calendar_scheduler_body.tpl#L30)[`<->`](../src/prosilver/calendar_scheduler_body.tpl#L30-L36)[`36`](../src/prosilver/calendar_scheduler_body.tpl#L36)
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`37`](../src/prosilver/report_list_body.tpl#L37)[`<->`](../src/prosilver/report_list_body.tpl#L37-L46)[`46`](../src/prosilver/report_list_body.tpl#L46)

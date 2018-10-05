@@ -20,6 +20,9 @@ Variable importante au fonctionnement des donations.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`22`](../src/awesomebb/buy_credits.tpl#L22), [`22`](../src/awesomebb/buy_credits.tpl#L22)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`25`](../src/prosilver/buy_credits.tpl#L25), [`25`](../src/prosilver/buy_credits.tpl#L25)
 

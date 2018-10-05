@@ -12,6 +12,9 @@ Image de citation multiple désélectionnée définie dans `PA > Affichage > Ima
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/viewtopic_body.tpl#L3)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`3`](../src/prosilver/viewtopic_body.tpl#L3)
 

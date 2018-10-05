@@ -12,6 +12,15 @@ Remplacement français `Sélectionner` si il y a un membre en cours de demande d
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`25`](../src/awesomebb/album_modcp_body.tpl#L25)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`71`](../src/awesomebb/album_moderate_body.tpl#L71)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`71`](../src/awesomebb/groupcp_info_body.tpl#L71)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`10`](../src/awesomebb/groupcp_pending_info.tpl#L10)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`13`](../src/awesomebb/merge_select_body.tpl#L13)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`20`](../src/awesomebb/modcp_body.tpl#L20)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`22`](../src/awesomebb/search_username.tpl#L22)
+
 ### Version phpBB3
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`28`](../src/prosilver/album_modcp_body.tpl#L28)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`76`](../src/prosilver/album_moderate_body.tpl#L76)

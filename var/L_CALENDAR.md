@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/calendar_body.tpl#L2), [`5`](../src/awesomebb/calendar_body.tpl#L5)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`39`](../src/awesomebb/calendar_scheduler_body.tpl#L39), [`39`](../src/awesomebb/calendar_scheduler_body.tpl#L39)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`391`](../src/awesomebb/posting_body.tpl#L391)
+
 ### Version phpBB3
 * __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`5`](../src/prosilver/calendar_body.tpl#L5)
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`38`](../src/prosilver/calendar_scheduler_body.tpl#L38), [`38`](../src/prosilver/calendar_scheduler_body.tpl#L38), [`38`](../src/prosilver/calendar_scheduler_body.tpl#L38), [`38`](../src/prosilver/calendar_scheduler_body.tpl#L38)

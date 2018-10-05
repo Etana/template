@@ -14,6 +14,9 @@ Contient le numéro d'ordre d'affichage du membre.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`47`](../src/awesomebb/memberlist_body.tpl#L47), [`53`](../src/awesomebb/memberlist_body.tpl#L53)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`45`](../src/prosilver/memberlist_body.tpl#L45)
 

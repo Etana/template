@@ -20,6 +20,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`15`](../src/awesomebb/album_cat_top10.tpl#L15)[`<->`](../src/awesomebb/album_cat_top10.tpl#L15-L21)[`21`](../src/awesomebb/album_cat_top10.tpl#L21)
+
 ### Version phpBB3
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`16`](../src/prosilver/album_cat_top10.tpl#L16)[`<->`](../src/prosilver/album_cat_top10.tpl#L16-L18)[`18`](../src/prosilver/album_cat_top10.tpl#L18)
 

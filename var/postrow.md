@@ -133,6 +133,12 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`31`](../src/awesomebb/modcp_split.tpl#L31)[`<->`](../src/awesomebb/modcp_split.tpl#L31-L46)[`46`](../src/awesomebb/modcp_split.tpl#L46)
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`1`](../src/awesomebb/posting_topic_review.tpl#L1)[`<->`](../src/awesomebb/posting_topic_review.tpl#L1-L20)[`20`](../src/awesomebb/posting_topic_review.tpl#L20)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`9`](../src/awesomebb/privmsg_topic_review.tpl#L9)[`<->`](../src/awesomebb/privmsg_topic_review.tpl#L9-L19)[`19`](../src/awesomebb/privmsg_topic_review.tpl#L19)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`105`](../src/awesomebb/viewtopic_body.tpl#L105)[`<->`](../src/awesomebb/viewtopic_body.tpl#L105-L300)[`300`](../src/awesomebb/viewtopic_body.tpl#L300)
+
 ### Version phpBB3
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`38`](../src/prosilver/modcp_split.tpl#L38)[`<->`](../src/prosilver/modcp_split.tpl#L38-L51)[`51`](../src/prosilver/modcp_split.tpl#L51)
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`5`](../src/prosilver/posting_topic_review.tpl#L5)[`<->`](../src/prosilver/posting_topic_review.tpl#L5-L29)[`29`](../src/prosilver/posting_topic_review.tpl#L29)

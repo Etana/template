@@ -1,6 +1,6 @@
 # catrow.forumrow.LATEST_TOPIC_NAME
 * __Type__ __:__ sous-variable d'affichage
-* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -15,6 +15,10 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/catrow.forumrow.LATEST_TOPIC_NAME)
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`77`](../src/awesomebb/index_box.tpl#L77)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`125`](../src/awesomebb/topics_list_box.tpl#L125)
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`67`](../src/prosilver/index_box.tpl#L67)

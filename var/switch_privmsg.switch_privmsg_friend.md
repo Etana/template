@@ -21,6 +21,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`66`](../src/awesomebb/posting_body.tpl#L66)[`<->`](../src/awesomebb/posting_body.tpl#L66-L71)[`71`](../src/awesomebb/posting_body.tpl#L71)
+
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`76`](../src/prosilver/posting_body.tpl#L76)[`<->`](../src/prosilver/posting_body.tpl#L76-L81)[`81`](../src/prosilver/posting_body.tpl#L81)
 

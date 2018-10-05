@@ -12,6 +12,9 @@ Texte `Ce groupe n'a pas de membres` si le groupe n'a pas de membre autre que le
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`103`](../src/awesomebb/groupcp_info_body.tpl#L103)
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`89`](../src/prosilver/groupcp_info_body.tpl#L89)
 

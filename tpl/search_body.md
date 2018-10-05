@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_body`
@@ -63,6 +63,63 @@ Ce template affiche la page de recherche de votre forum : `/search`
 	* [`<!-- END TAGS -->`](../var/TAGS.md#readme) ([x](https://fa-tvars.appspot.com/var/TAGS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.L_SEARCH_TAGS}`](../var/TAGS.L_SEARCH_TAGS.md#readme) ([x](https://fa-tvars.appspot.com/var/TAGS.L_SEARCH_TAGS))
 	* [`{U_GOOGLERESULTS}`](../var/U_GOOGLERESULTS.md#readme) ([x](https://fa-tvars.appspot.com/var/U_GOOGLERESULTS))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/search_body.tpl#files)
+
+### Positions des variables
+
+* __[`{GOOGLE_CODE}`](../var/GOOGLE_CODE.md#readme)__ __:__ ligne [`23`](../src/awesomebb/search_body.tpl#L23)
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`153`](../src/awesomebb/search_body.tpl#L153)
+* __[`{L_DISPLAY_RESULTS}`](../var/L_DISPLAY_RESULTS.md#readme)__ __:__ ligne [`106`](../src/awesomebb/search_body.tpl#L106)
+* __[`{L_FORUM}`](../var/L_FORUM.md#readme)__ __:__ ligne [`96`](../src/awesomebb/search_body.tpl#L96)
+* __[`{L_LANG_HL}`](../var/L_LANG_HL.md#readme)__ __:__ ligne [`27`](../src/awesomebb/search_body.tpl#L27)
+* __[`{L_POSTS}`](../var/L_POSTS.md#readme)__ __:__ ligne [`119`](../src/awesomebb/search_body.tpl#L119)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`31`](../src/awesomebb/search_body.tpl#L31)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`149`](../src/awesomebb/search_body.tpl#L149)
+* __[`{L_SEARCH_AUTHOR}`](../var/L_SEARCH_AUTHOR.md#readme)__ __:__ ligne [`83`](../src/awesomebb/search_body.tpl#L83)
+* __[`{L_SEARCH_KEYWORDS}`](../var/L_SEARCH_KEYWORDS.md#readme)__ __:__ ligne [`14`](../src/awesomebb/search_body.tpl#L14)
+* __[`{L_SEARCH_OPTIONS}`](../var/L_SEARCH_OPTIONS.md#readme)__ __:__ ligne [`91`](../src/awesomebb/search_body.tpl#L91)
+* __[`{L_SEARCH_PREVIOUS}`](../var/L_SEARCH_PREVIOUS.md#readme)__ __:__ ligne [`101`](../src/awesomebb/search_body.tpl#L101)
+* __[`{L_SEARCH_QUERY}`](../var/L_SEARCH_QUERY.md#readme)__ __:__ ligne [`8`](../src/awesomebb/search_body.tpl#L8)
+* __[`{L_SEARCH_TITLE}`](../var/L_SEARCH_TITLE.md#readme)__ __:__ ligne [`2`](../src/awesomebb/search_body.tpl#L2)
+* __[`{L_SORT_ASCENDING}`](../var/L_SORT_ASCENDING.md#readme)__ __:__ ligne [`133`](../src/awesomebb/search_body.tpl#L133)
+* __[`{L_SORT_BY}`](../var/L_SORT_BY.md#readme)__ __:__ ligne [`125`](../src/awesomebb/search_body.tpl#L125)
+* __[`{L_SORT_DESCENDING}`](../var/L_SORT_DESCENDING.md#readme)__ __:__ ligne [`140`](../src/awesomebb/search_body.tpl#L140)
+* __[`{L_TOPICS}`](../var/L_TOPICS.md#readme)__ __:__ ligne [`112`](../src/awesomebb/search_body.tpl#L112)
+* __[`{SEARCH_FORUM_URL}`](../var/SEARCH_FORUM_URL.md#readme)__ __:__ ligne [`21`](../src/awesomebb/search_body.tpl#L21)
+* __[`{SEARCH_FORUM_URL}`](../var/SEARCH_FORUM_URL.md#readme)__ __:__ ligne [`22`](../src/awesomebb/search_body.tpl#L22)
+* __[`{SID}`](../var/SID.md#readme)__ __:__ ligne [`19`](../src/awesomebb/search_body.tpl#L19)
+* __[`{S_CONTENT_ENCODING}`](../var/S_CONTENT_ENCODING.md#readme)__ __:__ ligne [`25`](../src/awesomebb/search_body.tpl#L25)
+* __[`{S_CONTENT_ENCODING}`](../var/S_CONTENT_ENCODING.md#readme)__ __:__ ligne [`26`](../src/awesomebb/search_body.tpl#L26)
+* __[`{S_FORUM_OPTIONS}`](../var/S_FORUM_OPTIONS.md#readme)__ __:__ ligne [`97`](../src/awesomebb/search_body.tpl#L97)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`147`](../src/awesomebb/search_body.tpl#L147)
+* __[`{S_SEARCH_ACTION}`](../var/S_SEARCH_ACTION.md#readme)__ __:__ ligne [`5`](../src/awesomebb/search_body.tpl#L5)
+* __[`{S_SORT_OPTIONS}`](../var/S_SORT_OPTIONS.md#readme)__ __:__ ligne [`126`](../src/awesomebb/search_body.tpl#L126)
+* __[`{S_TIME_OPTIONS}`](../var/S_TIME_OPTIONS.md#readme)__ __:__ ligne [`102`](../src/awesomebb/search_body.tpl#L102)
+* __[`<!-- BEGIN TAGS -->`](../var/TAGS.md#readme)__ __:__ ligne [`72`](../src/awesomebb/search_body.tpl#L72)
+* __[`<!-- END TAGS -->`](../var/TAGS.md#readme)__ __:__ ligne [`80`](../src/awesomebb/search_body.tpl#L80)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.L_SEARCH_TAGS}`](../var/TAGS.L_SEARCH_TAGS.md#readme)__ __:__ ligne [`78`](../src/awesomebb/search_body.tpl#L78)
+* __[`{T_ACTIVE_LINK}`](../var/T_ACTIVE_LINK.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_GOO_LINK}`](../var/T_GOO_LINK.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_GOO_LINK}`](../var/T_GOO_LINK.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_GOO_LINK}`](../var/T_GOO_LINK.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_GOO_LINK}`](../var/T_GOO_LINK.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_GOO_TEXT}`](../var/T_GOO_TEXT.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_TD_COLOR1}`](../var/T_TD_COLOR1.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_TD_COLOR1}`](../var/T_TD_COLOR1.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_TR_COLOR1}`](../var/T_TR_COLOR1.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{T_VISITED_LINK}`](../var/T_VISITED_LINK.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_body.tpl#L28)
+* __[`{U_GOOGLERESULTS}`](../var/U_GOOGLERESULTS.md#readme)__ __:__ ligne [`31`](../src/awesomebb/search_body.tpl#L31)
+* __[`<!-- BEGIN switch_search_full_text -->`](../var/switch_search_full_text.md#readme)__ __:__ ligne [`53`](../src/awesomebb/search_body.tpl#L53)
+* __[`<!-- END switch_search_full_text -->`](../var/switch_search_full_text.md#readme)__ __:__ ligne [`70`](../src/awesomebb/search_body.tpl#L70)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_full_text.L_SEARCH_BY_SUBJECT}`](../var/switch_search_full_text.L_SEARCH_BY_SUBJECT.md#readme)__ __:__ ligne [`67`](../src/awesomebb/search_body.tpl#L67)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_full_text.L_SEARCH_BY_TEXT}`](../var/switch_search_full_text.L_SEARCH_BY_TEXT.md#readme)__ __:__ ligne [`60`](../src/awesomebb/search_body.tpl#L60)
+* __[`<!-- BEGIN switch_search_terms -->`](../var/switch_search_terms.md#readme)__ __:__ ligne [`34`](../src/awesomebb/search_body.tpl#L34)
+* __[`<!-- END switch_search_terms -->`](../var/switch_search_terms.md#readme)__ __:__ ligne [`51`](../src/awesomebb/search_body.tpl#L51)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_terms.L_SEARCH_ALL_TERMS}`](../var/switch_search_terms.L_SEARCH_ALL_TERMS.md#readme)__ __:__ ligne [`48`](../src/awesomebb/search_body.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_search_terms.L_SEARCH_ANY_TERMS}`](../var/switch_search_terms.L_SEARCH_ANY_TERMS.md#readme)__ __:__ ligne [`41`](../src/awesomebb/search_body.tpl#L41)
 
 ## Template par défaut phpBB3
 

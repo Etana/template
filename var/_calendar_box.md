@@ -57,6 +57,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`1`](../src/awesomebb/calendar_box.tpl#L1)[`<->`](../src/awesomebb/calendar_box.tpl#L1-L72)[`72`](../src/awesomebb/calendar_box.tpl#L72)
+
 ### Version phpBB3
 * __[`calendar_box`](../tpl/calendar_box.md#readme)__ __:__ lignes [`3`](../src/prosilver/calendar_box.tpl#L3)[`<->`](../src/prosilver/calendar_box.tpl#L3-L82)[`82`](../src/prosilver/calendar_box.tpl#L82)
 

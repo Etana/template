@@ -15,6 +15,9 @@ Chaîne de caractère.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`32`](../src/awesomebb/mod_login.tpl#L32), [`71`](../src/awesomebb/mod_login.tpl#L71)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/index_body.tpl#L13), [`117`](../src/prosilver/index_body.tpl#L117)
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`20`](../src/prosilver/mod_login.tpl#L20), [`61`](../src/prosilver/mod_login.tpl#L61)

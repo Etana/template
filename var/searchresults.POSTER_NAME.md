@@ -14,6 +14,9 @@ Contient le nom de l'utilisateur ayant posté le message.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`17`](../src/awesomebb/search_results_posts.tpl#L17)
+
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`15`](../src/prosilver/search_results_posts.tpl#L15)
 

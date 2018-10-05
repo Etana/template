@@ -13,6 +13,10 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`23`](../src/awesomebb/overall_header.tpl#L23), [`129`](../src/awesomebb/overall_header.tpl#L129)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/awesomebb/simple_header.tpl#L5)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`20`](../src/prosilver/overall_header.tpl#L20), [`233`](../src/prosilver/overall_header.tpl#L233)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/prosilver/simple_header.tpl#L5)

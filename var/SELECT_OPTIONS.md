@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`10`](../src/awesomebb/posting_smilies.tpl#L10)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`21`](../src/awesomebb/posting_smilies_frame.tpl#L21)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`21`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L21)
+
 ### Version phpBB3
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`10`](../src/prosilver/posting_smilies.tpl#L10)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`21`](../src/prosilver/posting_smilies_frame.tpl#L21)

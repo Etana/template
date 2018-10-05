@@ -26,6 +26,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`23`](../src/awesomebb/overall_footer_end.tpl#L23)[`<->`](../src/awesomebb/overall_footer_end.tpl#L23-L26)[`26`](../src/awesomebb/overall_footer_end.tpl#L26)
+
 ### Version phpBB3
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`20`](../src/prosilver/overall_footer_end.tpl#L20)[`<->`](../src/prosilver/overall_footer_end.tpl#L20-L23)[`23`](../src/prosilver/overall_footer_end.tpl#L23)
 

@@ -14,6 +14,9 @@ Lien vers le top 20 des posteurs du jour.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`118`](../src/awesomebb/index_box.tpl#L118)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`87`](../src/prosilver/index_box.tpl#L87)
 

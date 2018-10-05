@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`38`](../src/awesomebb/modcp_viewip.tpl#L38), [`71`](../src/awesomebb/modcp_viewip.tpl#L71)
+
 ### Version phpBB3
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`44`](../src/prosilver/modcp_viewip.tpl#L44), [`75`](../src/prosilver/modcp_viewip.tpl#L75)
 

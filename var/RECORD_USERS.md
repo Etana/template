@@ -25,6 +25,10 @@ Le record du nombre d'utilisateurs en ligne est de <strong>2</strong> le Mer 21 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`29`](../src/awesomebb/index_body.tpl#L29)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`14`](../src/awesomebb/mod_whoisonline.tpl#L14)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`61`](../src/prosilver/index_body.tpl#L61)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`11`](../src/prosilver/mod_whoisonline.tpl#L11)

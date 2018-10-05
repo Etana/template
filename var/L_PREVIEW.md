@@ -12,6 +12,12 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`78`](../src/awesomebb/modcp_viewip.tpl#L78)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`165`](../src/awesomebb/posting_body.tpl#L165)
+* __[`posting_preview`](../tpl/posting_preview.md#readme)__ __:__ lignes [`3`](../src/awesomebb/posting_preview.tpl#L3)
+* __[`privmsgs_preview`](../tpl/privmsgs_preview.md#readme)__ __:__ lignes [`3`](../src/awesomebb/privmsgs_preview.tpl#L3)
+
 ### Version phpBB3
 * __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`83`](../src/prosilver/modcp_viewip.tpl#L83)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`176`](../src/prosilver/posting_body.tpl#L176)

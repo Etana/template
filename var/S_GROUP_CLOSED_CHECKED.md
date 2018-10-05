@@ -13,6 +13,10 @@ Chaîne de texte ` checked="checked"` si le groupe est fermé, chaîne vide sino
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`38`](../src/awesomebb/groupcp_info_body.tpl#L38)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`33`](../src/prosilver/groupcp_info_body.tpl#L33)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

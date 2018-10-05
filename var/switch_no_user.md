@@ -19,6 +19,9 @@ Boucle s'affichant si aucun utilisateur ne correspond à la recherche.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`75`](../src/awesomebb/memberlist_body.tpl#L75)[`<->`](../src/awesomebb/memberlist_body.tpl#L75-L79)[`79`](../src/awesomebb/memberlist_body.tpl#L79)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`58`](../src/prosilver/memberlist_body.tpl#L58)[`<->`](../src/prosilver/memberlist_body.tpl#L58-L62)[`62`](../src/prosilver/memberlist_body.tpl#L62)
 

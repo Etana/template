@@ -24,6 +24,10 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`16`](../src/awesomebb/faq_body.tpl#L16)[`<->`](../src/awesomebb/faq_body.tpl#L16-L31)[`31`](../src/awesomebb/faq_body.tpl#L31)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`14`](../src/awesomebb/faq_dhtml.tpl#L14)[`<->`](../src/awesomebb/faq_dhtml.tpl#L14-L28)[`28`](../src/awesomebb/faq_dhtml.tpl#L28)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`19`](../src/prosilver/faq_body.tpl#L19)[`<->`](../src/prosilver/faq_body.tpl#L19-L35)[`35`](../src/prosilver/faq_body.tpl#L35)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`14`](../src/prosilver/faq_dhtml.tpl#L14)[`<->`](../src/prosilver/faq_dhtml.tpl#L14-L28)[`28`](../src/prosilver/faq_dhtml.tpl#L28)

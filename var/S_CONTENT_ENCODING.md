@@ -15,6 +15,13 @@ Remplacé par l'[encodage](http://fr.wikipedia.org/wiki/Codage_des_caract%C3%A8r
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/awesomebb/overall_header.tpl#L4), [`7`](../src/awesomebb/overall_header.tpl#L7)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`10`](../src/awesomebb/posting_smilies_frame.tpl#L10)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`10`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L10)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`25`](../src/awesomebb/search_body.tpl#L25), [`26`](../src/awesomebb/search_body.tpl#L26)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`4`](../src/awesomebb/simple_header.tpl#L4)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`5`](../src/prosilver/overall_header.tpl#L5)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`10`](../src/prosilver/posting_smilies_frame.tpl#L10)

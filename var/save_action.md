@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`201`](../src/awesomebb/album_nuffimage_box.tpl#L201)[`<->`](../src/awesomebb/album_nuffimage_box.tpl#L201-L203)[`203`](../src/awesomebb/album_nuffimage_box.tpl#L203)
+
 ### Version phpBB3
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`95`](../src/prosilver/album_nuffimage_box.tpl#L95)[`<->`](../src/prosilver/album_nuffimage_box.tpl#L95-L97)[`97`](../src/prosilver/album_nuffimage_box.tpl#L97)
 

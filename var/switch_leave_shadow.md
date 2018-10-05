@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`16`](../src/awesomebb/modcp_move.tpl#L16)[`<->`](../src/awesomebb/modcp_move.tpl#L16-L24)[`24`](../src/awesomebb/modcp_move.tpl#L24)
+
 ### Version phpBB3
 * __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`17`](../src/prosilver/modcp_move.tpl#L17)[`<->`](../src/prosilver/modcp_move.tpl#L17-L22)[`22`](../src/prosilver/modcp_move.tpl#L22)
 

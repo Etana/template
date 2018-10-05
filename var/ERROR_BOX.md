@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`7`](../src/awesomebb/posting_body.tpl#L7)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/profile_add_body.tpl#L3)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`7`](../src/awesomebb/profile_send_email.tpl#L7)
+
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`7`](../src/prosilver/posting_body.tpl#L7)
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/profile_add_body.tpl#L6)

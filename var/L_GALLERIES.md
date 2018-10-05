@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`25`](../src/awesomebb/album_formsearch_body.tpl#L25)
+
 ### Version phpBB3
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`25`](../src/prosilver/album_formsearch_body.tpl#L25)
 

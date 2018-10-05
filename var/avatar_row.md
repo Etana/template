@@ -24,6 +24,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`24`](../src/awesomebb/profile_avatar_gallery.tpl#L24)[`<->`](../src/awesomebb/profile_avatar_gallery.tpl#L24-L39)[`39`](../src/awesomebb/profile_avatar_gallery.tpl#L39)
+
 ### Version phpBB3
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`9`](../src/prosilver/profile_avatar_gallery.tpl#L9)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L9-L18)[`18`](../src/prosilver/profile_avatar_gallery.tpl#L18)
 

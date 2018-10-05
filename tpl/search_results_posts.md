@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_results_posts`
@@ -56,6 +56,38 @@ Ce template touche la page des résultats de la recherche par messages d'un memb
 	* [`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/search_results_posts.tpl#files)
+
+### Positions des variables
+
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`30`](../src/awesomebb/search_results_posts.tpl#L30)
+* __[`{L_FORUM}`](../var/L_FORUM.md#readme)__ __:__ ligne [`19`](../src/awesomebb/search_results_posts.tpl#L19)
+* __[`{L_REPLIES}`](../var/L_REPLIES.md#readme)__ __:__ ligne [`21`](../src/awesomebb/search_results_posts.tpl#L21)
+* __[`{L_SEARCH_MATCHES}`](../var/L_SEARCH_MATCHES.md#readme)__ __:__ ligne [`2`](../src/awesomebb/search_results_posts.tpl#L2)
+* __[`{L_TOPIC}`](../var/L_TOPIC.md#readme)__ __:__ ligne [`20`](../src/awesomebb/search_results_posts.tpl#L20)
+* __[`{L_VIEWS}`](../var/L_VIEWS.md#readme)__ __:__ ligne [`22`](../src/awesomebb/search_results_posts.tpl#L22)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`28`](../src/awesomebb/search_results_posts.tpl#L28)
+* __[`<!-- BEGIN searchresults -->`](../var/searchresults.md#readme)__ __:__ ligne [`5`](../src/awesomebb/search_results_posts.tpl#L5)
+* __[`<!-- END searchresults -->`](../var/searchresults.md#readme)__ __:__ ligne [`26`](../src/awesomebb/search_results_posts.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.FORUM_NAME}`](../var/searchresults.FORUM_NAME.md#readme)__ __:__ ligne [`19`](../src/awesomebb/search_results_posts.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.L_TOPIC_BY}`](../var/searchresults.L_TOPIC_BY.md#readme)__ __:__ ligne [`17`](../src/awesomebb/search_results_posts.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.L_TOPIC_ON}`](../var/searchresults.L_TOPIC_ON.md#readme)__ __:__ ligne [`17`](../src/awesomebb/search_results_posts.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.MESSAGE}`](../var/searchresults.MESSAGE.md#readme)__ __:__ ligne [`14`](../src/awesomebb/search_results_posts.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.POSTER_NAME}`](../var/searchresults.POSTER_NAME.md#readme)__ __:__ ligne [`17`](../src/awesomebb/search_results_posts.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.POST_DATE}`](../var/searchresults.POST_DATE.md#readme)__ __:__ ligne [`17`](../src/awesomebb/search_results_posts.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_REPLIES}`](../var/searchresults.TOPIC_REPLIES.md#readme)__ __:__ ligne [`21`](../src/awesomebb/search_results_posts.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_TITLE}`](../var/searchresults.TOPIC_TITLE.md#readme)__ __:__ ligne [`10`](../src/awesomebb/search_results_posts.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_TITLE}`](../var/searchresults.TOPIC_TITLE.md#readme)__ __:__ ligne [`20`](../src/awesomebb/search_results_posts.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.TOPIC_VIEWS}`](../var/searchresults.TOPIC_VIEWS.md#readme)__ __:__ ligne [`22`](../src/awesomebb/search_results_posts.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.U_FORUM}`](../var/searchresults.U_FORUM.md#readme)__ __:__ ligne [`19`](../src/awesomebb/search_results_posts.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.U_POST}`](../var/searchresults.U_POST.md#readme)__ __:__ ligne [`9`](../src/awesomebb/search_results_posts.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{searchresults.U_TOPIC}`](../var/searchresults.U_TOPIC.md#readme)__ __:__ ligne [`20`](../src/awesomebb/search_results_posts.tpl#L20)
+* __[`<!-- BEGIN switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`32`](../src/awesomebb/search_results_posts.tpl#L32)
+* __[`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`44`](../src/awesomebb/search_results_posts.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)__ __:__ ligne [`35`](../src/awesomebb/search_results_posts.tpl#L35)
 
 ## Template par défaut phpBB3
 

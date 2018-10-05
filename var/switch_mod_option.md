@@ -20,6 +20,10 @@ Le contenu de la boucle est affiché si le visiteur est administrateur ou modér
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`26`](../src/awesomebb/groupcp_info_body.tpl#L26)[`<->`](../src/awesomebb/groupcp_info_body.tpl#L26-L55)[`55`](../src/awesomebb/groupcp_info_body.tpl#L55), [`114`](../src/awesomebb/groupcp_info_body.tpl#L114)[`<->`](../src/awesomebb/groupcp_info_body.tpl#L114-L127)[`127`](../src/awesomebb/groupcp_info_body.tpl#L127), [`149`](../src/awesomebb/groupcp_info_body.tpl#L149)[`<->`](../src/awesomebb/groupcp_info_body.tpl#L149-L172)[`172`](../src/awesomebb/groupcp_info_body.tpl#L172)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`29`](../src/prosilver/groupcp_info_body.tpl#L29)[`<->`](../src/prosilver/groupcp_info_body.tpl#L29-L38)[`38`](../src/prosilver/groupcp_info_body.tpl#L38), [`100`](../src/prosilver/groupcp_info_body.tpl#L100)[`<->`](../src/prosilver/groupcp_info_body.tpl#L100-L109)[`109`](../src/prosilver/groupcp_info_body.tpl#L109), [`121`](../src/prosilver/groupcp_info_body.tpl#L121)[`<->`](../src/prosilver/groupcp_info_body.tpl#L121-L144)[`144`](../src/prosilver/groupcp_info_body.tpl#L144)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

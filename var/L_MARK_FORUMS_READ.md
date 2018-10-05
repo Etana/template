@@ -14,6 +14,9 @@ Affiche le texte du lien de la variable [`{U_MARK_READ}`](../var/U_MARK_READ.md#
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`22`](../src/awesomebb/index_box.tpl#L22)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`8`](../src/prosilver/index_box.tpl#L8)
 

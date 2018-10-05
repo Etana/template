@@ -14,6 +14,9 @@ Contient la vitesse de défilement des annonces définie dans `PA > Général > 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`51`](../src/awesomebb/overall_header.tpl#L51)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`114`](../src/prosilver/overall_header.tpl#L114), [`142`](../src/prosilver/overall_header.tpl#L142)
 

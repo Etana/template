@@ -14,6 +14,9 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`20`](../src/awesomebb/search_results_posts.tpl#L20)
+
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`19`](../src/prosilver/search_results_posts.tpl#L19)
 

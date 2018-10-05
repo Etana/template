@@ -12,6 +12,10 @@ Lien vers "Voir les nouveaux messages depuis votre dernière visite" dans le men
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`23`](../src/awesomebb/viewforum_body.tpl#L23)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`72`](../src/awesomebb/viewtopic_body.tpl#L72)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/viewforum_body.tpl#L13)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`92`](../src/prosilver/viewtopic_body.tpl#L92)

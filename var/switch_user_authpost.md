@@ -17,6 +17,10 @@ Boucle s'affichant si l'utilisateur a l'autorisation de créer un nouveau sujet 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/viewforum_body.tpl#L3)[`<->`](../src/awesomebb/viewforum_body.tpl#L3-L8)[`8`](../src/awesomebb/viewforum_body.tpl#L8), [`53`](../src/awesomebb/viewforum_body.tpl#L53)[`<->`](../src/awesomebb/viewforum_body.tpl#L53-L57)[`57`](../src/awesomebb/viewforum_body.tpl#L57)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`44`](../src/awesomebb/viewtopic_body.tpl#L44)[`<->`](../src/awesomebb/viewtopic_body.tpl#L44-L49)[`49`](../src/awesomebb/viewtopic_body.tpl#L49)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`26`](../src/prosilver/viewforum_body.tpl#L26)[`<->`](../src/prosilver/viewforum_body.tpl#L26-L30)[`30`](../src/prosilver/viewforum_body.tpl#L30), [`49`](../src/prosilver/viewforum_body.tpl#L49)[`<->`](../src/prosilver/viewforum_body.tpl#L49-L53)[`53`](../src/prosilver/viewforum_body.tpl#L53)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`48`](../src/prosilver/viewtopic_body.tpl#L48)[`<->`](../src/prosilver/viewtopic_body.tpl#L48-L50)[`50`](../src/prosilver/viewtopic_body.tpl#L50), [`325`](../src/prosilver/viewtopic_body.tpl#L325)[`<->`](../src/prosilver/viewtopic_body.tpl#L325-L327)[`327`](../src/prosilver/viewtopic_body.tpl#L327)

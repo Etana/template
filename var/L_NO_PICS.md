@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`71`](../src/awesomebb/album_cat_body.tpl#L71)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`37`](../src/awesomebb/album_cat_top10.tpl#L37)
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`10`](../src/awesomebb/album_index_body.tpl#L10)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`63`](../src/prosilver/album_cat_body.tpl#L63)
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`36`](../src/prosilver/album_cat_top10.tpl#L36)

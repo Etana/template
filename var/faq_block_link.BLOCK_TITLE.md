@@ -14,6 +14,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`8`](../src/awesomebb/faq_body.tpl#L8)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`10`](../src/prosilver/faq_body.tpl#L10)
 

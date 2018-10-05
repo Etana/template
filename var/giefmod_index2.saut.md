@@ -19,6 +19,9 @@ Boucle contenant le saut entre 2 widgets.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`9`](../src/awesomebb/overall_footer_begin.tpl#L9)[`<->`](../src/awesomebb/overall_footer_begin.tpl#L9-L11)[`11`](../src/awesomebb/overall_footer_begin.tpl#L11)
+
 ### Version phpBB3
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`18`](../src/prosilver/overall_footer_begin.tpl#L18)[`<->`](../src/prosilver/overall_footer_begin.tpl#L18-L20)[`20`](../src/prosilver/overall_footer_begin.tpl#L20)
 

@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`13`](../src/awesomebb/profile_send_email.tpl#L13)[`<->`](../src/awesomebb/profile_send_email.tpl#L13-L18)[`18`](../src/awesomebb/profile_send_email.tpl#L18)
+
 ### Version phpBB3
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`10`](../src/prosilver/profile_send_email.tpl#L10)[`<->`](../src/prosilver/profile_send_email.tpl#L10-L15)[`15`](../src/prosilver/profile_send_email.tpl#L15)
 

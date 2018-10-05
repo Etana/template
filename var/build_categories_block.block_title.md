@@ -20,6 +20,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/album_index_body.tpl#L2)[`<->`](../src/awesomebb/album_index_body.tpl#L2-L6)[`6`](../src/awesomebb/album_index_body.tpl#L6)
+
 ### Version phpBB3
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`5`](../src/prosilver/album_index_body.tpl#L5)[`<->`](../src/prosilver/album_index_body.tpl#L5-L7)[`7`](../src/prosilver/album_index_body.tpl#L7)
 

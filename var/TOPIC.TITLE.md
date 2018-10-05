@@ -14,6 +14,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`10`](../src/awesomebb/mod_most_active_topics.tpl#L10)
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`10`](../src/awesomebb/mod_most_viewed_topics.tpl#L10)
+
 ### Version phpBB3
 * __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`8`](../src/prosilver/mod_most_active_topics.tpl#L8)
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`8`](../src/prosilver/mod_most_viewed_topics.tpl#L8)

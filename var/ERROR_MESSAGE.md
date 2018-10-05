@@ -14,6 +14,10 @@ Contenu du message d'erreur.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`error_body`](../tpl/error_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/error_body.tpl#L3)
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`6`](../src/awesomebb/profile_edit_signature.tpl#L6)
+
 ### Version phpBB3
 * __[`error_body`](../tpl/error_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/error_body.tpl#L4)
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`4`](../src/prosilver/profile_edit_signature.tpl#L4)

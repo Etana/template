@@ -14,6 +14,9 @@ Contient l'adresse URL de la balise link rel canonical qui est liée au duplicat
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`10`](../src/awesomebb/overall_header.tpl#L10)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`12`](../src/prosilver/overall_header.tpl#L12)
 

@@ -12,6 +12,14 @@ Affiche le template [`jumpbox`](../tpl/jumpbox.md#readme) ou [`jumpbox`](../tpl/
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`55`](../src/awesomebb/calendar_scheduler_body.tpl#L55)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`80`](../src/awesomebb/privmsgs_body.tpl#L80)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`53`](../src/awesomebb/privmsgs_read_body.tpl#L53)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`153`](../src/awesomebb/search_body.tpl#L153)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`30`](../src/awesomebb/search_results_posts.tpl#L30)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`50`](../src/awesomebb/viewonline_body.tpl#L50)
+
 ### Version phpBB3
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`54`](../src/prosilver/calendar_scheduler_body.tpl#L54)
 * __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`98`](../src/prosilver/privmsgs_body.tpl#L98)

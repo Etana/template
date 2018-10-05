@@ -13,6 +13,28 @@ Contient la valeur spécifiée pour `Nom du site` dans [`Index`](http://votre-fo
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`9`](../src/awesomebb/album_cat_body.tpl#L9)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`6`](../src/awesomebb/album_cat_top10.tpl#L6)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`33`](../src/awesomebb/album_edit_body.tpl#L33)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`6`](../src/awesomebb/album_modcp_body.tpl#L6)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`55`](../src/awesomebb/album_moderate_body.tpl#L55)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`7`](../src/awesomebb/album_search_body.tpl#L7)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`218`](../src/awesomebb/album_showpage_body.tpl#L218)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`198`](../src/awesomebb/album_upload_body.tpl#L198)
+* __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`4`](../src/awesomebb/calendar_body.tpl#L4)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`6`](../src/awesomebb/calendar_scheduler_body.tpl#L6)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`4`](../src/awesomebb/modcp_body.tpl#L4)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`4`](../src/awesomebb/modcp_move.tpl#L4)
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`4`](../src/awesomebb/modcp_split.tpl#L4)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`104`](../src/awesomebb/overall_header.tpl#L104)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`5`](../src/awesomebb/profile_avatar_gallery.tpl#L5)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/report_list_body.tpl#L3)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`4`](../src/awesomebb/report_view_body.tpl#L4)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`5`](../src/awesomebb/search_results_topics.tpl#L5)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`10`](../src/awesomebb/viewforum_body.tpl#L10)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`57`](../src/awesomebb/viewtopic_body.tpl#L57)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/album_cat_body.tpl#L13), [`148`](../src/prosilver/album_cat_body.tpl#L148)
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`7`](../src/prosilver/album_cat_top10.tpl#L7)

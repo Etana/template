@@ -12,6 +12,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`5`](../src/awesomebb/profile_send_pass.tpl#L5)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`318`](../src/awesomebb/viewtopic_body.tpl#L318)
+
 ### Version Version mobile
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`1`](../src/mobile/posting_body.tpl#L1)
 * __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`3`](../src/mobile/profile_send_pass.tpl#L3)

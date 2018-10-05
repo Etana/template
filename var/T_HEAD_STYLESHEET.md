@@ -12,6 +12,12 @@ Contient le CSS global (CSS de base + CSS perso) du forum.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`19`](../src/awesomebb/overall_header.tpl#L19)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`7`](../src/awesomebb/posting_smilies_frame.tpl#L7)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`7`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L7)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`9`](../src/awesomebb/simple_header.tpl#L9)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`18`](../src/prosilver/overall_header.tpl#L18)
 * __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`7`](../src/prosilver/posting_smilies_frame.tpl#L7)

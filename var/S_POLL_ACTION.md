@@ -12,6 +12,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`poll_ballot`](../tpl/poll_ballot.md#readme)__ __:__ lignes [`1`](../src/awesomebb/poll_ballot.tpl#L1)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme)__ __:__ lignes [`9`](../src/awesomebb/viewtopic_poll_ballot.tpl#L9)
+
 ### Version phpBB3
 * __[`poll_ballot`](../tpl/poll_ballot.md#readme)__ __:__ lignes [`1`](../src/prosilver/poll_ballot.tpl#L1)
 * __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme)__ __:__ lignes [`1`](../src/prosilver/viewtopic_poll_ballot.tpl#L1)

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `report_view_body`
@@ -55,6 +55,52 @@
 	* [`{U_REPORT_ARCHIVE}`](../var/U_REPORT_ARCHIVE.md#readme) ([x](https://fa-tvars.appspot.com/var/U_REPORT_ARCHIVE))
 	* [`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme) ([x](https://fa-tvars.appspot.com/var/U_REPORT_LIST))
 	* [`{U_REPORT_VIEW}`](../var/U_REPORT_VIEW.md#readme) ([x](https://fa-tvars.appspot.com/var/U_REPORT_VIEW))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/report_view_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)__ __:__ ligne [`27`](../src/awesomebb/report_view_body.tpl#L27)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`4`](../src/awesomebb/report_view_body.tpl#L4)
+* __[`{L_LAST_EDIT}`](../var/L_LAST_EDIT.md#readme)__ __:__ ligne [`25`](../src/awesomebb/report_view_body.tpl#L25)
+* __[`{L_POST}`](../var/L_POST.md#readme)__ __:__ ligne [`26`](../src/awesomebb/report_view_body.tpl#L26)
+* __[`{L_REASON}`](../var/L_REASON.md#readme)__ __:__ ligne [`18`](../src/awesomebb/report_view_body.tpl#L18)
+* __[`{L_REPORTER}`](../var/L_REPORTER.md#readme)__ __:__ ligne [`24`](../src/awesomebb/report_view_body.tpl#L24)
+* __[`{L_REPORT_ARCHIVE}`](../var/L_REPORT_ARCHIVE.md#readme)__ __:__ ligne [`7`](../src/awesomebb/report_view_body.tpl#L7)
+* __[`{L_REPORT_LIST}`](../var/L_REPORT_LIST.md#readme)__ __:__ ligne [`5`](../src/awesomebb/report_view_body.tpl#L5)
+* __[`{L_REPORT_VIEW}`](../var/L_REPORT_VIEW.md#readme)__ __:__ ligne [`2`](../src/awesomebb/report_view_body.tpl#L2)
+* __[`{L_REPORT_VIEW}`](../var/L_REPORT_VIEW.md#readme)__ __:__ ligne [`9`](../src/awesomebb/report_view_body.tpl#L9)
+* __[`{L_STATUS}`](../var/L_STATUS.md#readme)__ __:__ ligne [`17`](../src/awesomebb/report_view_body.tpl#L17)
+* __[`{L_UPDATE_STATUS}`](../var/L_UPDATE_STATUS.md#readme)__ __:__ ligne [`36`](../src/awesomebb/report_view_body.tpl#L36)
+* __[`{S_ACTION}`](../var/S_ACTION.md#readme)__ __:__ ligne [`31`](../src/awesomebb/report_view_body.tpl#L31)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`33`](../src/awesomebb/report_view_body.tpl#L33)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`4`](../src/awesomebb/report_view_body.tpl#L4)
+* __[`{U_REPORT_ARCHIVE}`](../var/U_REPORT_ARCHIVE.md#readme)__ __:__ ligne [`7`](../src/awesomebb/report_view_body.tpl#L7)
+* __[`{U_REPORT_LIST}`](../var/U_REPORT_LIST.md#readme)__ __:__ ligne [`5`](../src/awesomebb/report_view_body.tpl#L5)
+* __[`{U_REPORT_VIEW}`](../var/U_REPORT_VIEW.md#readme)__ __:__ ligne [`9`](../src/awesomebb/report_view_body.tpl#L9)
+* __[`<!-- BEGIN row -->`](../var/row.md#readme)__ __:__ ligne [`13`](../src/awesomebb/report_view_body.tpl#L13)
+* __[`<!-- END row -->`](../var/row.md#readme)__ __:__ ligne [`51`](../src/awesomebb/report_view_body.tpl#L51)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.AUTHOR}`](../var/row.AUTHOR.md#readme)__ __:__ ligne [`27`](../src/awesomebb/report_view_body.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.LAST_EDIT_TIME}`](../var/row.LAST_EDIT_TIME.md#readme)__ __:__ ligne [`25`](../src/awesomebb/report_view_body.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.LAST_EDIT_USER}`](../var/row.LAST_EDIT_USER.md#readme)__ __:__ ligne [`25`](../src/awesomebb/report_view_body.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.POST}`](../var/row.POST.md#readme)__ __:__ ligne [`26`](../src/awesomebb/report_view_body.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REASON}`](../var/row.REASON.md#readme)__ __:__ ligne [`18`](../src/awesomebb/report_view_body.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REPORTER}`](../var/row.REPORTER.md#readme)__ __:__ ligne [`24`](../src/awesomebb/report_view_body.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.REPORT_ID}`](../var/row.REPORT_ID.md#readme)__ __:__ ligne [`34`](../src/awesomebb/report_view_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.STATUS}`](../var/row.STATUS.md#readme)__ __:__ ligne [`17`](../src/awesomebb/report_view_body.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.STATUS_SELECT}`](../var/row.STATUS_SELECT.md#readme)__ __:__ ligne [`35`](../src/awesomebb/report_view_body.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.TEXT}`](../var/row.TEXT.md#readme)__ __:__ ligne [`41`](../src/awesomebb/report_view_body.tpl#L41)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.TIME}`](../var/row.TIME.md#readme)__ __:__ ligne [`24`](../src/awesomebb/report_view_body.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.U_EDIT}`](../var/row.U_EDIT.md#readme)__ __:__ ligne [`45`](../src/awesomebb/report_view_body.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{row.U_POST}`](../var/row.U_POST.md#readme)__ __:__ ligne [`26`](../src/awesomebb/report_view_body.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_edit -->`](../var/row.switch_edit.md#readme)__ __:__ ligne [`44`](../src/awesomebb/report_view_body.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_edit -->`](../var/row.switch_edit.md#readme)__ __:__ ligne [`46`](../src/awesomebb/report_view_body.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_status -->`](../var/row.switch_status.md#readme)__ __:__ ligne [`30`](../src/awesomebb/report_view_body.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_status -->`](../var/row.switch_status.md#readme)__ __:__ ligne [`39`](../src/awesomebb/report_view_body.tpl#L39)
+* __[`<!-- BEGIN switch_report_archive -->`](../var/switch_report_archive.md#readme)__ __:__ ligne [`6`](../src/awesomebb/report_view_body.tpl#L6)
+* __[`<!-- END switch_report_archive -->`](../var/switch_report_archive.md#readme)__ __:__ ligne [`8`](../src/awesomebb/report_view_body.tpl#L8)
 
 ## Template par défaut phpBB3
 

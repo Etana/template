@@ -15,6 +15,9 @@ Texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`15`](../src/awesomebb/groupcp_pending_info.tpl#L15)
+
 ### Version phpBB3
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`17`](../src/prosilver/groupcp_pending_info.tpl#L17)
 

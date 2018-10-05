@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`4`](../src/awesomebb/mod_keywords.tpl#L4)
+
 ### Version phpBB3
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_keywords.tpl#L4)
 

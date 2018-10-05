@@ -12,6 +12,9 @@ Affiche vos conditions d'inscription définies dans `PA > Général > Règlement
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`12`](../src/awesomebb/agreement.tpl#L12)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`19`](../src/prosilver/agreement.tpl#L19)
 

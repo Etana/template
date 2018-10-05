@@ -19,6 +19,9 @@ Adresse url absolue vers la page "qui est en ligne".
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`10`](../src/awesomebb/mod_whoisonline.tpl#L10)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`52`](../src/prosilver/index_body.tpl#L52)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`8`](../src/prosilver/mod_whoisonline.tpl#L8)

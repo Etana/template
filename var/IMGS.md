@@ -23,6 +23,10 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`7`](../src/awesomebb/mod_rss_feeds.tpl#L7)[`<->`](../src/awesomebb/mod_rss_feeds.tpl#L7-L12)[`12`](../src/awesomebb/mod_rss_feeds.tpl#L12)
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_social_bookmarking.tpl#L8)[`<->`](../src/awesomebb/mod_social_bookmarking.tpl#L8-L12)[`12`](../src/awesomebb/mod_social_bookmarking.tpl#L12)
+
 ### Version phpBB3
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_rss_feeds.tpl#L6)[`<->`](../src/prosilver/mod_rss_feeds.tpl#L6-L11)[`11`](../src/prosilver/mod_rss_feeds.tpl#L11)
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_social_bookmarking.tpl#L6)[`<->`](../src/prosilver/mod_social_bookmarking.tpl#L6-L10)[`10`](../src/prosilver/mod_social_bookmarking.tpl#L10)

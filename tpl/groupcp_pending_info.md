@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Groupes` > `groupcp_pending_info`
@@ -36,6 +36,34 @@ Le contenu du template remplace la variable {{PENDING_USER_BOX}} du template {{t
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USER_ID}`](../var/pending_members_row.USER_ID.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USERNAME}`](../var/pending_members_row.USERNAME.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.WWW_IMG}`](../var/pending_members_row.WWW_IMG.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/groupcp_pending_info.tpl#files)
+
+### Positions des variables
+
+* __[`{L_APPROVE_SELECTED}`](../var/L_APPROVE_SELECTED.md#readme)__ __:__ ligne [`31`](../src/awesomebb/groupcp_pending_info.tpl#L31)
+* __[`{L_DENY_SELECTED}`](../var/L_DENY_SELECTED.md#readme)__ __:__ ligne [`32`](../src/awesomebb/groupcp_pending_info.tpl#L32)
+* __[`{L_EMAIL}`](../var/L_EMAIL.md#readme)__ __:__ ligne [`8`](../src/awesomebb/groupcp_pending_info.tpl#L8)
+* __[`{L_FROM}`](../var/L_FROM.md#readme)__ __:__ ligne [`7`](../src/awesomebb/groupcp_pending_info.tpl#L7)
+* __[`{L_PENDING_MEMBERS}`](../var/L_PENDING_MEMBERS.md#readme)__ __:__ ligne [`15`](../src/awesomebb/groupcp_pending_info.tpl#L15)
+* __[`{L_PM}`](../var/L_PM.md#readme)__ __:__ ligne [`4`](../src/awesomebb/groupcp_pending_info.tpl#L4)
+* __[`{L_POSTS}`](../var/L_POSTS.md#readme)__ __:__ ligne [`6`](../src/awesomebb/groupcp_pending_info.tpl#L6)
+* __[`{L_SELECT}`](../var/L_SELECT.md#readme)__ __:__ ligne [`10`](../src/awesomebb/groupcp_pending_info.tpl#L10)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`5`](../src/awesomebb/groupcp_pending_info.tpl#L5)
+* __[`{L_WEBSITE}`](../var/L_WEBSITE.md#readme)__ __:__ ligne [`9`](../src/awesomebb/groupcp_pending_info.tpl#L9)
+* __[`<!-- BEGIN pending_members_row -->`](../var/pending_members_row.md#readme)__ __:__ ligne [`17`](../src/awesomebb/groupcp_pending_info.tpl#L17)
+* __[`<!-- END pending_members_row -->`](../var/pending_members_row.md#readme)__ __:__ ligne [`27`](../src/awesomebb/groupcp_pending_info.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.EMAIL_IMG}`](../var/pending_members_row.EMAIL_IMG.md#readme)__ __:__ ligne [`23`](../src/awesomebb/groupcp_pending_info.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.FROM}`](../var/pending_members_row.FROM.md#readme)__ __:__ ligne [`22`](../src/awesomebb/groupcp_pending_info.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.PM_IMG}`](../var/pending_members_row.PM_IMG.md#readme)__ __:__ ligne [`19`](../src/awesomebb/groupcp_pending_info.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.POSTS}`](../var/pending_members_row.POSTS.md#readme)__ __:__ ligne [`21`](../src/awesomebb/groupcp_pending_info.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.ROW_CLASS}`](../var/pending_members_row.ROW_CLASS.md#readme)__ __:__ ligne [`18`](../src/awesomebb/groupcp_pending_info.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USERNAME}`](../var/pending_members_row.USERNAME.md#readme)__ __:__ ligne [`20`](../src/awesomebb/groupcp_pending_info.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.USER_ID}`](../var/pending_members_row.USER_ID.md#readme)__ __:__ ligne [`25`](../src/awesomebb/groupcp_pending_info.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.U_VIEWPROFILE}`](../var/pending_members_row.U_VIEWPROFILE.md#readme)__ __:__ ligne [`20`](../src/awesomebb/groupcp_pending_info.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pending_members_row.WWW_IMG}`](../var/pending_members_row.WWW_IMG.md#readme)__ __:__ ligne [`24`](../src/awesomebb/groupcp_pending_info.tpl#L24)
 
 ## Template par défaut phpBB3
 

@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_search`](../tpl/mod_search.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_search.tpl#L8), [`71`](../src/awesomebb/mod_search.tpl#L71)
+
 ### Version phpBB3
 * __[`mod_search`](../tpl/mod_search.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_search.tpl#L6), [`23`](../src/prosilver/mod_search.tpl#L23)
 

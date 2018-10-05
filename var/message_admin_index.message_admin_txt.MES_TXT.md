@@ -16,6 +16,9 @@ Contient le message indiqué dans `PA > Affichage > Page d'accueil | Généralit
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`10`](../src/awesomebb/index_body.tpl#L10)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`40`](../src/prosilver/index_body.tpl#L40)
 

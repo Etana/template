@@ -21,6 +21,10 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_most_active_topics.tpl#L8)[`<->`](../src/awesomebb/mod_most_active_topics.tpl#L8-L15)[`15`](../src/awesomebb/mod_most_active_topics.tpl#L15)
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_most_viewed_topics.tpl#L8)[`<->`](../src/awesomebb/mod_most_viewed_topics.tpl#L8-L15)[`15`](../src/awesomebb/mod_most_viewed_topics.tpl#L15)
+
 ### Version phpBB3
 * __[`mod_most_active_topics`](../tpl/mod_most_active_topics.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_most_active_topics.tpl#L6)[`<->`](../src/prosilver/mod_most_active_topics.tpl#L6-L10)[`10`](../src/prosilver/mod_most_active_topics.tpl#L10)
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_most_viewed_topics.tpl#L6)[`<->`](../src/prosilver/mod_most_viewed_topics.tpl#L6-L10)[`10`](../src/prosilver/mod_most_viewed_topics.tpl#L10)

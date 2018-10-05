@@ -12,6 +12,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`70`](../src/awesomebb/album_modcp_body.tpl#L70)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`102`](../src/awesomebb/album_moderate_body.tpl#L102)
+
 ### Version phpBB3
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`64`](../src/prosilver/album_modcp_body.tpl#L64)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`110`](../src/prosilver/album_moderate_body.tpl#L110)

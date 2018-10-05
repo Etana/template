@@ -18,6 +18,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`30`](../src/awesomebb/profile_avatar_gallery.tpl#L30)
+
 ### Version phpBB3
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`13`](../src/prosilver/profile_avatar_gallery.tpl#L13)
 

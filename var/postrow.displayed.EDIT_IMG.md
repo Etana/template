@@ -16,6 +16,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`134`](../src/awesomebb/viewtopic_body.tpl#L134), [`160`](../src/awesomebb/viewtopic_body.tpl#L160)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`137`](../src/prosilver/viewtopic_body.tpl#L137)
 

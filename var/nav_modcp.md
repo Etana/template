@@ -17,6 +17,10 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`64`](../src/awesomebb/album_modcp_body.tpl#L64)[`<->`](../src/awesomebb/album_modcp_body.tpl#L64-L96)[`96`](../src/awesomebb/album_modcp_body.tpl#L96)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`96`](../src/awesomebb/album_moderate_body.tpl#L96)[`<->`](../src/awesomebb/album_moderate_body.tpl#L96-L123)[`123`](../src/awesomebb/album_moderate_body.tpl#L123)
+
 ### Version phpBB3
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`58`](../src/prosilver/album_modcp_body.tpl#L58)[`<->`](../src/prosilver/album_modcp_body.tpl#L58-L86)[`86`](../src/prosilver/album_modcp_body.tpl#L86)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`104`](../src/prosilver/album_moderate_body.tpl#L104)[`<->`](../src/prosilver/album_moderate_body.tpl#L104-L131)[`131`](../src/prosilver/album_moderate_body.tpl#L131)

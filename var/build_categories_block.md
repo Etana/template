@@ -50,6 +50,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/album_index_body.tpl#L1)[`<->`](../src/awesomebb/album_index_body.tpl#L1-L49)[`49`](../src/awesomebb/album_index_body.tpl#L49)
+
 ### Version phpBB3
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/album_index_body.tpl#L4)[`<->`](../src/prosilver/album_index_body.tpl#L4-L41)[`41`](../src/prosilver/album_index_body.tpl#L41)
 

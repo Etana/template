@@ -12,6 +12,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`412`](../src/awesomebb/posting_body.tpl#L412)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`46`](../src/awesomebb/posting_poll_body.tpl#L46)
+
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`383`](../src/prosilver/posting_body.tpl#L383)
 * __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`47`](../src/prosilver/posting_poll_body.tpl#L47)

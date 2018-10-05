@@ -16,6 +16,9 @@ Chemin absolu vers le profil du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`20`](../src/awesomebb/groupcp_pending_info.tpl#L20)
+
 ### Version phpBB3
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`22`](../src/prosilver/groupcp_pending_info.tpl#L22)
 

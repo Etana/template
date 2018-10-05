@@ -14,6 +14,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`44`](../src/awesomebb/modcp_split.tpl#L44)
+* __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`17`](../src/awesomebb/privmsg_topic_review.tpl#L17)
+
 ### Version phpBB3
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`46`](../src/prosilver/modcp_split.tpl#L46)
 * __[`privmsg_topic_review`](../tpl/privmsg_topic_review.md#readme)__ __:__ lignes [`11`](../src/prosilver/privmsg_topic_review.tpl#L11)

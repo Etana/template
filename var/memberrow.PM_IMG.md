@@ -14,6 +14,9 @@ Contient un lien vers l'envoi d'un message privé au membre et l'image définie 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`60`](../src/awesomebb/memberlist_body.tpl#L60), [`71`](../src/awesomebb/memberlist_body.tpl#L71)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`54`](../src/prosilver/memberlist_body.tpl#L54)
 

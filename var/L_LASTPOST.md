@@ -14,6 +14,11 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`45`](../src/awesomebb/index_box.tpl#L45), [`46`](../src/awesomebb/index_box.tpl#L46)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`19`](../src/awesomebb/modcp_body.tpl#L19)
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`56`](../src/awesomebb/topics_list_box.tpl#L56), [`83`](../src/awesomebb/topics_list_box.tpl#L83)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`22`](../src/prosilver/index_box.tpl#L22)
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`23`](../src/prosilver/modcp_body.tpl#L23)

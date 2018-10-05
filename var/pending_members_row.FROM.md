@@ -14,6 +14,9 @@ Valeur du champ [`Localisation`](http://votre-forum.appspot.com/admin/?action=co
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`22`](../src/awesomebb/groupcp_pending_info.tpl#L22)
+
 ### Version phpBB3
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`24`](../src/prosilver/groupcp_pending_info.tpl#L24)
 

@@ -15,6 +15,10 @@ Texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`2`](../src/awesomebb/modcp_split.tpl#L2)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 
+
 ### Version phpBB3
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`9`](../src/prosilver/modcp_split.tpl#L9)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 

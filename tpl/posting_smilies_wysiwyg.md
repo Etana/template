@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `posting_smilies_wysiwyg`
@@ -28,6 +28,33 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme) ([x](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_ID))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_IMG))
 	* [`{T_HEAD_STYLESHEET}`](../var/T_HEAD_STYLESHEET.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/posting_smilies_wysiwyg.tpl#files)
+
+### Positions des variables
+
+* __[`{JQUERY_PATH}`](../var/JQUERY_PATH.md#readme)__ __:__ ligne [`8`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L8)
+* __[`{JS_DIR}`](../var/JS_DIR.md#readme)__ __:__ ligne [`9`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L9)
+* __[`{L_LANG}`](../var/L_LANG.md#readme)__ __:__ ligne [`9`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L9)
+* __[`{L_SMILIES_TITLE}`](../var/L_SMILIES_TITLE.md#readme)__ __:__ ligne [`6`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L6)
+* __[`{L_VIEW_MORE}`](../var/L_VIEW_MORE.md#readme)__ __:__ ligne [`20`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L20)
+* __[`{SELECT_OPTIONS}`](../var/SELECT_OPTIONS.md#readme)__ __:__ ligne [`21`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L21)
+* __[`{S_CONTENT_ENCODING}`](../var/S_CONTENT_ENCODING.md#readme)__ __:__ ligne [`10`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L10)
+* __[`{T_BODY_BGCOLOR}`](../var/T_BODY_BGCOLOR.md#readme)__ __:__ ligne [`12`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L12)
+* __[`{T_BODY_BGCOLOR}`](../var/T_BODY_BGCOLOR.md#readme)__ __:__ ligne [`13`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L13)
+* __[`{T_HEAD_STYLESHEET}`](../var/T_HEAD_STYLESHEET.md#readme)__ __:__ ligne [`7`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L7)
+* __[`<!-- BEGIN smilies_row -->`](../var/smilies_row.md#readme)__ __:__ ligne [`27`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L27)
+* __[`<!-- END smilies_row -->`](../var/smilies_row.md#readme)__ __:__ ligne [`31`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN smilies_col -->`](../var/smilies_row.smilies_col.md#readme)__ __:__ ligne [`28`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END smilies_col -->`](../var/smilies_row.smilies_col.md#readme)__ __:__ ligne [`30`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_CODE}`](../var/smilies_row.smilies_col.SMILEY_CODE.md#readme)__ __:__ ligne [`29`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme)__ __:__ ligne [`29`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme)__ __:__ ligne [`29`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme)__ __:__ ligne [`29`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme)__ __:__ ligne [`29`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme)__ __:__ ligne [`29`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L29)
 
 ## Template par défaut phpBB3
 

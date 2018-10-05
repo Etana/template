@@ -19,6 +19,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`53`](../src/awesomebb/search_body.tpl#L53)[`<->`](../src/awesomebb/search_body.tpl#L53-L70)[`70`](../src/awesomebb/search_body.tpl#L70)
+
 ### Version phpBB3
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`29`](../src/prosilver/search_body.tpl#L29)[`<->`](../src/prosilver/search_body.tpl#L29-L32)[`32`](../src/prosilver/search_body.tpl#L32)
 

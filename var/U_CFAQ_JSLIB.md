@@ -12,6 +12,9 @@ Adresse URL du script utilisé pour la FAQ : `http://illiweb.com/rsc/53/frm/coll
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`1`](../src/awesomebb/faq_dhtml.tpl#L1)
+
 ### Version phpBB3
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`4`](../src/prosilver/faq_dhtml.tpl#L4)
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_social_bookmarking`
@@ -22,6 +22,22 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme) ([x](https://fa-tvars.appspot.com/var/IMGS.URL))
 	* [`{L_SOCIAL_BOOKMARKING}`](../var/L_SOCIAL_BOOKMARKING.md#readme) ([x](https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING))
 	* [`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](../var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme) ([x](https://fa-tvars.appspot.com/var/L_SOCIAL_BOOKMARKING_EXPLAIN))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_social_bookmarking.tpl#files)
+
+### Positions des variables
+
+* __[`<!-- BEGIN IMGS -->`](../var/IMGS.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_social_bookmarking.tpl#L8)
+* __[`<!-- END IMGS -->`](../var/IMGS.md#readme)__ __:__ ligne [`12`](../src/awesomebb/mod_social_bookmarking.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.ALT}`](../var/IMGS.ALT.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_social_bookmarking.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.CLASS}`](../var/IMGS.CLASS.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_social_bookmarking.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.IMG}`](../var/IMGS.IMG.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_social_bookmarking.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.TITLE}`](../var/IMGS.TITLE.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_social_bookmarking.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{IMGS.URL}`](../var/IMGS.URL.md#readme)__ __:__ ligne [`9`](../src/awesomebb/mod_social_bookmarking.tpl#L9)
+* __[`{L_SOCIAL_BOOKMARKING}`](../var/L_SOCIAL_BOOKMARKING.md#readme)__ __:__ ligne [`4`](../src/awesomebb/mod_social_bookmarking.tpl#L4)
+* __[`{L_SOCIAL_BOOKMARKING_EXPLAIN}`](../var/L_SOCIAL_BOOKMARKING_EXPLAIN.md#readme)__ __:__ ligne [`14`](../src/awesomebb/mod_social_bookmarking.tpl#L14)
 
 ## Template par défaut phpBB3
 

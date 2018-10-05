@@ -12,6 +12,15 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`25`](../src/awesomebb/mod_login.tpl#L25), [`64`](../src/awesomebb/mod_login.tpl#L64), [`84`](../src/awesomebb/mod_login.tpl#L84), [`104`](../src/awesomebb/mod_login.tpl#L104)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`48`](../src/awesomebb/posting_body.tpl#L48), [`64`](../src/awesomebb/posting_body.tpl#L64)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`16`](../src/awesomebb/profile_add_body.tpl#L16), [`17`](../src/awesomebb/profile_add_body.tpl#L17), [`23`](../src/awesomebb/profile_add_body.tpl#L23)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`16`](../src/awesomebb/profile_send_email.tpl#L16)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`8`](../src/awesomebb/profile_send_pass.tpl#L8)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`19`](../src/awesomebb/profile_view_body.tpl#L19)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`14`](../src/awesomebb/search_username.tpl#L14)
+
 ### Version phpBB3
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`11`](../src/prosilver/mod_login.tpl#L11), [`57`](../src/prosilver/mod_login.tpl#L57), [`83`](../src/prosilver/mod_login.tpl#L83), [`99`](../src/prosilver/mod_login.tpl#L99)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`54`](../src/prosilver/posting_body.tpl#L54), [`71`](../src/prosilver/posting_body.tpl#L71)

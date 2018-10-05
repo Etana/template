@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_overview_top10`
@@ -34,6 +34,34 @@
 	* [`<!-- END switch_viewed -->`](../var/switch_viewed.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_viewed))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_viewed.VIEWED}`](../var/switch_viewed.VIEWED.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_viewed.VIEWED))
 	* [`{THUMBNAIL}`](../var/THUMBNAIL.md#readme) ([x](https://fa-tvars.appspot.com/var/THUMBNAIL))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/album_overview_top10.tpl#files)
+
+### Positions des variables
+
+* __[`{ALBUM}`](../var/ALBUM.md#readme)__ __:__ ligne [`14`](../src/awesomebb/album_overview_top10.tpl#L14)
+* __[`{L_ALBUM}`](../var/L_ALBUM.md#readme)__ __:__ ligne [`14`](../src/awesomebb/album_overview_top10.tpl#L14)
+* __[`{L_DATE}`](../var/L_DATE.md#readme)__ __:__ ligne [`22`](../src/awesomebb/album_overview_top10.tpl#L22)
+* __[`{L_PIC_TITLE}`](../var/L_PIC_TITLE.md#readme)__ __:__ ligne [`6`](../src/awesomebb/album_overview_top10.tpl#L6)
+* __[`{L_POSTER}`](../var/L_POSTER.md#readme)__ __:__ ligne [`13`](../src/awesomebb/album_overview_top10.tpl#L13)
+* __[`{L_RATE}`](../var/L_RATE.md#readme)__ __:__ ligne [`16`](../src/awesomebb/album_overview_top10.tpl#L16)
+* __[`{L_VIEW}`](../var/L_VIEW.md#readme)__ __:__ ligne [`19`](../src/awesomebb/album_overview_top10.tpl#L19)
+* __[`{POSTER}`](../var/POSTER.md#readme)__ __:__ ligne [`13`](../src/awesomebb/album_overview_top10.tpl#L13)
+* __[`{THUMBNAIL}`](../var/THUMBNAIL.md#readme)__ __:__ ligne [`10`](../src/awesomebb/album_overview_top10.tpl#L10)
+* __[`<!-- BEGIN switch_rank -->`](../var/switch_rank.md#readme)__ __:__ ligne [`2`](../src/awesomebb/album_overview_top10.tpl#L2)
+* __[`<!-- END switch_rank -->`](../var/switch_rank.md#readme)__ __:__ ligne [`4`](../src/awesomebb/album_overview_top10.tpl#L4)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rank.L_TITLE}`](../var/switch_rank.L_TITLE.md#readme)__ __:__ ligne [`3`](../src/awesomebb/album_overview_top10.tpl#L3)
+* __[`<!-- BEGIN switch_rate -->`](../var/switch_rate.md#readme)__ __:__ ligne [`15`](../src/awesomebb/album_overview_top10.tpl#L15)
+* __[`<!-- END switch_rate -->`](../var/switch_rate.md#readme)__ __:__ ligne [`17`](../src/awesomebb/album_overview_top10.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_rate.RATE}`](../var/switch_rate.RATE.md#readme)__ __:__ ligne [`16`](../src/awesomebb/album_overview_top10.tpl#L16)
+* __[`<!-- BEGIN switch_recent -->`](../var/switch_recent.md#readme)__ __:__ ligne [`21`](../src/awesomebb/album_overview_top10.tpl#L21)
+* __[`<!-- END switch_recent -->`](../var/switch_recent.md#readme)__ __:__ ligne [`23`](../src/awesomebb/album_overview_top10.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_recent.DATE}`](../var/switch_recent.DATE.md#readme)__ __:__ ligne [`22`](../src/awesomebb/album_overview_top10.tpl#L22)
+* __[`<!-- BEGIN switch_viewed -->`](../var/switch_viewed.md#readme)__ __:__ ligne [`18`](../src/awesomebb/album_overview_top10.tpl#L18)
+* __[`<!-- END switch_viewed -->`](../var/switch_viewed.md#readme)__ __:__ ligne [`20`](../src/awesomebb/album_overview_top10.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_viewed.VIEWED}`](../var/switch_viewed.VIEWED.md#readme)__ __:__ ligne [`19`](../src/awesomebb/album_overview_top10.tpl#L19)
 
 ## Template par défaut phpBB3
 

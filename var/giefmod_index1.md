@@ -19,6 +19,9 @@ Boucle d'affichage de vos widgets de la colonne de gauche si ceux-ci sont activ√
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`152`](../src/awesomebb/overall_header.tpl#L152)[`<->`](../src/awesomebb/overall_header.tpl#L152-L157)[`157`](../src/awesomebb/overall_header.tpl#L157)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`337`](../src/prosilver/overall_header.tpl#L337)[`<->`](../src/prosilver/overall_header.tpl#L337-L342)[`342`](../src/prosilver/overall_header.tpl#L342)
 

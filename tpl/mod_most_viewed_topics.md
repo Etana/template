@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_most_viewed_topics`
@@ -20,6 +20,19 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/TOPIC.NAME))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.ROW_CLASS}`](../var/TOPIC.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/TOPIC.ROW_CLASS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/TOPIC.TITLE))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_most_viewed_topics.tpl#files)
+
+### Positions des variables
+
+* __[`{L_MOST_VIEWED_TOPICS}`](../var/L_MOST_VIEWED_TOPICS.md#readme)__ __:__ ligne [`4`](../src/awesomebb/mod_most_viewed_topics.tpl#L4)
+* __[`<!-- BEGIN TOPIC -->`](../var/TOPIC.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_most_viewed_topics.tpl#L8)
+* __[`<!-- END TOPIC -->`](../var/TOPIC.md#readme)__ __:__ ligne [`15`](../src/awesomebb/mod_most_viewed_topics.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.LINK}`](../var/TOPIC.LINK.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_most_viewed_topics.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.NAME}`](../var/TOPIC.NAME.md#readme)__ __:__ ligne [`12`](../src/awesomebb/mod_most_viewed_topics.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{TOPIC.TITLE}`](../var/TOPIC.TITLE.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_most_viewed_topics.tpl#L10)
 
 ## Template par défaut phpBB3
 

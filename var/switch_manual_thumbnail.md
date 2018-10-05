@@ -19,6 +19,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`247`](../src/awesomebb/album_upload_body.tpl#L247)[`<->`](../src/awesomebb/album_upload_body.tpl#L247-L262)[`262`](../src/awesomebb/album_upload_body.tpl#L262)
+
 ### Version phpBB3
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`244`](../src/prosilver/album_upload_body.tpl#L244)[`<->`](../src/prosilver/album_upload_body.tpl#L244-L259)[`259`](../src/prosilver/album_upload_body.tpl#L259)
 

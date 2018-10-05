@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`141`](../src/awesomebb/posting_body.tpl#L141)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`10`](../src/awesomebb/privmsgs_read_body.tpl#L10)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`45`](../src/awesomebb/profile_send_email.tpl#L45)
+
 ### Version phpBB3
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`12`](../src/prosilver/calendar_overview_topic.tpl#L12)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`152`](../src/prosilver/posting_body.tpl#L152)

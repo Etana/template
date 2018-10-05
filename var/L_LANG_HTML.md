@@ -12,6 +12,10 @@ Contient la langue de votre forum.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`2`](../src/awesomebb/overall_header.tpl#L2)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`2`](../src/awesomebb/simple_header.tpl#L2), [`2`](../src/awesomebb/simple_header.tpl#L2)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`2`](../src/prosilver/overall_header.tpl#L2), [`2`](../src/prosilver/overall_header.tpl#L2)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`2`](../src/prosilver/simple_header.tpl#L2), [`2`](../src/prosilver/simple_header.tpl#L2)

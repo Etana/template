@@ -14,6 +14,9 @@ Choix de la connexion automatique.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`29`](../src/awesomebb/mod_login.tpl#L29), [`68`](../src/awesomebb/mod_login.tpl#L68)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/index_body.tpl#L13), [`117`](../src/prosilver/index_body.tpl#L117)
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`20`](../src/prosilver/mod_login.tpl#L20), [`61`](../src/prosilver/mod_login.tpl#L61)

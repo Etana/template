@@ -30,6 +30,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`66`](../src/awesomebb/topics_list_box.tpl#L66)[`<->`](../src/awesomebb/topics_list_box.tpl#L66-L87)[`87`](../src/awesomebb/topics_list_box.tpl#L87)
+
 ### Version phpBB3
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`66`](../src/prosilver/topics_list_box.tpl#L66)[`<->`](../src/prosilver/topics_list_box.tpl#L66-L90)[`90`](../src/prosilver/topics_list_box.tpl#L90)
 

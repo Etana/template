@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`152`](../src/awesomebb/groupcp_info_body.tpl#L152)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`29`](../src/awesomebb/overall_header.tpl#L29), [`30`](../src/awesomebb/overall_header.tpl#L30)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`432`](../src/awesomebb/posting_body.tpl#L432)
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`124`](../src/prosilver/groupcp_info_body.tpl#L124)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`25`](../src/prosilver/overall_header.tpl#L25), [`26`](../src/prosilver/overall_header.tpl#L26), [`37`](../src/prosilver/overall_header.tpl#L37), [`38`](../src/prosilver/overall_header.tpl#L38), [`42`](../src/prosilver/overall_header.tpl#L42)

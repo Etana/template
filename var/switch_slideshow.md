@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/album_slideshow_body.tpl#L1)[`<->`](../src/awesomebb/album_slideshow_body.tpl#L1-L3)[`3`](../src/awesomebb/album_slideshow_body.tpl#L3)
+
 ### Version phpBB3
 * __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)__ __:__ lignes [`1`](../src/prosilver/album_slideshow_body.tpl#L1)[`<->`](../src/prosilver/album_slideshow_body.tpl#L1-L3)[`3`](../src/prosilver/album_slideshow_body.tpl#L3)
 

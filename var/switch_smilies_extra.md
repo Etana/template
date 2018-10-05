@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`31`](../src/awesomebb/posting_smilies.tpl#L31)[`<->`](../src/awesomebb/posting_smilies.tpl#L31-L37)[`37`](../src/awesomebb/posting_smilies.tpl#L37)
+
 ### Version phpBB3
 * __[`posting_smilies`](../tpl/posting_smilies.md#readme)__ __:__ lignes [`31`](../src/prosilver/posting_smilies.tpl#L31)[`<->`](../src/prosilver/posting_smilies.tpl#L31-L37)[`37`](../src/prosilver/posting_smilies.tpl#L37)
 

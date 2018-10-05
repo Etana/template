@@ -1,6 +1,6 @@
 # PATH_IMG_FA
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`agreement`](../tpl/agreement.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -11,6 +11,10 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/PATH_IMG_FA)
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`4`](../src/awesomebb/agreement.tpl#L4)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/viewtopic_body.tpl#L3)
 
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`205`](../src/prosilver/posting_body.tpl#L205), [`226`](../src/prosilver/posting_body.tpl#L226)

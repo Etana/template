@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `confirm_body`
@@ -23,6 +23,20 @@ Ce template touche toutes les demandes de confirmation comme le bannissement d'u
 	* [`{OPTIONAL_BAN_NEW}`](../var/OPTIONAL_BAN_NEW.md#readme)
 	* [`{S_CONFIRM_ACTION}`](../var/S_CONFIRM_ACTION.md#readme)
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/confirm_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_NO}`](../var/L_NO.md#readme)__ __:__ ligne [`21`](../src/awesomebb/confirm_body.tpl#L21)
+* __[`{L_YES}`](../var/L_YES.md#readme)__ __:__ ligne [`17`](../src/awesomebb/confirm_body.tpl#L17)
+* __[`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme)__ __:__ ligne [`10`](../src/awesomebb/confirm_body.tpl#L10)
+* __[`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme)__ __:__ ligne [`5`](../src/awesomebb/confirm_body.tpl#L5)
+* __[`{OPTIONAL_BAN_NEW}`](../var/OPTIONAL_BAN_NEW.md#readme)__ __:__ ligne [`11`](../src/awesomebb/confirm_body.tpl#L11)
+* __[`{S_CONFIRM_ACTION}`](../var/S_CONFIRM_ACTION.md#readme)__ __:__ ligne [`9`](../src/awesomebb/confirm_body.tpl#L9)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`14`](../src/awesomebb/confirm_body.tpl#L14)
 
 ## Template par défaut phpBB3
 

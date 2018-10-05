@@ -20,6 +20,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`7`](../src/awesomebb/mod_keywords.tpl#L7)[`<->`](../src/awesomebb/mod_keywords.tpl#L7-L9)[`9`](../src/awesomebb/mod_keywords.tpl#L9)
+
 ### Version phpBB3
 * __[`mod_keywords`](../tpl/mod_keywords.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_keywords.tpl#L6)[`<->`](../src/prosilver/mod_keywords.tpl#L6-L8)[`8`](../src/prosilver/mod_keywords.tpl#L8)
 

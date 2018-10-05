@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_slideshow_body`
@@ -30,6 +30,28 @@
 	* [`{U_SLIDESHOW}`](../var/U_SLIDESHOW.md#readme) ([x](https://fa-tvars.appspot.com/var/U_SLIDESHOW))
 	* [`{U_SLIDESHOW_REFRESH}`](../var/U_SLIDESHOW_REFRESH.md#readme) ([x](https://fa-tvars.appspot.com/var/U_SLIDESHOW_REFRESH))
 	* [`{URL_RETURN}`](../var/URL_RETURN.md#readme) ([x](https://fa-tvars.appspot.com/var/URL_RETURN))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/album_slideshow_body.tpl#files)
+
+### Positions des variables
+
+* __[`{JS_MENU}`](../var/JS_MENU.md#readme)__ __:__ ligne [`4`](../src/awesomebb/album_slideshow_body.tpl#L4)
+* __[`{L_SLIDESHOW_ONOFF}`](../var/L_SLIDESHOW_ONOFF.md#readme)__ __:__ ligne [`354`](../src/awesomebb/album_slideshow_body.tpl#L354)
+* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme)__ __:__ ligne [`347`](../src/awesomebb/album_slideshow_body.tpl#L347)
+* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme)__ __:__ ligne [`355`](../src/awesomebb/album_slideshow_body.tpl#L355)
+* __[`{PIC_TITLE}`](../var/PIC_TITLE.md#readme)__ __:__ ligne [`355`](../src/awesomebb/album_slideshow_body.tpl#L355)
+* __[`{SLIDESHOW_DELAY}`](../var/SLIDESHOW_DELAY.md#readme)__ __:__ ligne [`21`](../src/awesomebb/album_slideshow_body.tpl#L21)
+* __[`{SLIDESHOW_SELECT}`](../var/SLIDESHOW_SELECT.md#readme)__ __:__ ligne [`353`](../src/awesomebb/album_slideshow_body.tpl#L353)
+* __[`{URL_RETURN}`](../var/URL_RETURN.md#readme)__ __:__ ligne [`53`](../src/awesomebb/album_slideshow_body.tpl#L53)
+* __[`{U_PIC}`](../var/U_PIC.md#readme)__ __:__ ligne [`355`](../src/awesomebb/album_slideshow_body.tpl#L355)
+* __[`{U_SLIDESHOW}`](../var/U_SLIDESHOW.md#readme)__ __:__ ligne [`351`](../src/awesomebb/album_slideshow_body.tpl#L351)
+* __[`{U_SLIDESHOW_REFRESH}`](../var/U_SLIDESHOW_REFRESH.md#readme)__ __:__ ligne [`2`](../src/awesomebb/album_slideshow_body.tpl#L2)
+* __[`<!-- BEGIN switch_slideshow -->`](../var/switch_slideshow.md#readme)__ __:__ ligne [`1`](../src/awesomebb/album_slideshow_body.tpl#L1)
+* __[`<!-- END switch_slideshow -->`](../var/switch_slideshow.md#readme)__ __:__ ligne [`3`](../src/awesomebb/album_slideshow_body.tpl#L3)
+* __[`<!-- BEGIN switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme)__ __:__ ligne [`5`](../src/awesomebb/album_slideshow_body.tpl#L5)
+* __[`<!-- END switch_slideshow_scripts -->`](../var/switch_slideshow_scripts.md#readme)__ __:__ ligne [`343`](../src/awesomebb/album_slideshow_body.tpl#L343)
 
 ## Template par défaut phpBB3
 

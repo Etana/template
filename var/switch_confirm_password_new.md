@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`135`](../src/awesomebb/profile_add_body.tpl#L135)[`<->`](../src/awesomebb/profile_add_body.tpl#L135-L149)[`149`](../src/awesomebb/profile_add_body.tpl#L149)
+
 ### Version phpBB3
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`155`](../src/prosilver/profile_add_body.tpl#L155)[`<->`](../src/prosilver/profile_add_body.tpl#L155-L174)[`174`](../src/prosilver/profile_add_body.tpl#L174)
 

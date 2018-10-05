@@ -23,6 +23,9 @@ Boucle contenant le message d'accueil.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/index_body.tpl#L3)[`<->`](../src/awesomebb/index_body.tpl#L3-L13)[`13`](../src/awesomebb/index_body.tpl#L13)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`32`](../src/prosilver/index_body.tpl#L32)[`<->`](../src/prosilver/index_body.tpl#L32-L44)[`44`](../src/prosilver/index_body.tpl#L44)
 

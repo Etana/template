@@ -19,6 +19,9 @@ Boucle affichant la colonne des groupes dans la liste des membres si vous triez 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`64`](../src/awesomebb/memberlist_body.tpl#L64)[`<->`](../src/awesomebb/memberlist_body.tpl#L64-L66)[`66`](../src/awesomebb/memberlist_body.tpl#L66)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`47`](../src/prosilver/memberlist_body.tpl#L47)[`<->`](../src/prosilver/memberlist_body.tpl#L47-L49)[`49`](../src/prosilver/memberlist_body.tpl#L49)
 

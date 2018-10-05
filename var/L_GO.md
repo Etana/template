@@ -14,6 +14,18 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`34`](../src/awesomebb/faq_body.tpl#L34)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`35`](../src/awesomebb/faq_dhtml.tpl#L35)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`144`](../src/awesomebb/groupcp_info_body.tpl#L144)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`51`](../src/awesomebb/groupcp_user_body.tpl#L51)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`7`](../src/awesomebb/merge_select_body.tpl#L7)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`77`](../src/awesomebb/modcp_body.tpl#L77)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`16`](../src/awesomebb/privmsgs_body.tpl#L16)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`19`](../src/awesomebb/profile_avatar_gallery.tpl#L19)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`66`](../src/awesomebb/report_list_body.tpl#L66)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`327`](../src/awesomebb/viewtopic_body.tpl#L327), [`341`](../src/awesomebb/viewtopic_body.tpl#L341)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`38`](../src/prosilver/faq_body.tpl#L38)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`30`](../src/prosilver/faq_dhtml.tpl#L30)

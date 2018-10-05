@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`17`](../src/awesomebb/search_username.tpl#L17)
+
 ### Version phpBB3
 * __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`16`](../src/prosilver/search_username.tpl#L16)
 

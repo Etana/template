@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`6`](../src/awesomebb/calendar_scheduler_body.tpl#L6)
+
 ### Version phpBB3
 * __[`calendar_body`](../tpl/calendar_body.md#readme)__ __:__ lignes [`5`](../src/prosilver/calendar_body.tpl#L5)
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/calendar_scheduler_body.tpl#L6)

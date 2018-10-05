@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`4`](../src/awesomebb/mod_social_bookmarking.tpl#L4)
+
 ### Version phpBB3
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_social_bookmarking.tpl#L4)
 

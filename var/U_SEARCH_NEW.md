@@ -12,6 +12,9 @@ Adresse url absolue vers "Voir les nouveaux messages depuis votre dernière visi
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`4`](../src/awesomebb/index_box.tpl#L4)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`3`](../src/prosilver/index_box.tpl#L3)
 

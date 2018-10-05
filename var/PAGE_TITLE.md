@@ -13,6 +13,11 @@ Contient le titre de la page sur laquelle on se trouve.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/memberlist_body.tpl#L2)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`17`](../src/awesomebb/overall_header.tpl#L17)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`5`](../src/awesomebb/simple_header.tpl#L5)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/memberlist_body.tpl#L6)
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`4`](../src/prosilver/overall_header.tpl#L4), [`17`](../src/prosilver/overall_header.tpl#L17)

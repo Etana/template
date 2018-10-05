@@ -28,6 +28,12 @@ L'Equipe du site
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`22`](../src/awesomebb/greeting_popup.tpl#L22)
+* __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`21`](../src/awesomebb/privmsgs_popup.tpl#L21)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`6`](../src/awesomebb/privmsgs_read_body.tpl#L6)
+* __[`report_popup_body`](../tpl/report_popup_body.md#readme)__ __:__ lignes [`22`](../src/awesomebb/report_popup_body.tpl#L22)
+
 ### Version phpBB3
 * __[`greeting_popup`](../tpl/greeting_popup.md#readme)__ __:__ lignes [`22`](../src/prosilver/greeting_popup.tpl#L22)
 * __[`privmsgs_popup`](../tpl/privmsgs_popup.md#readme)__ __:__ lignes [`20`](../src/prosilver/privmsgs_popup.tpl#L20)

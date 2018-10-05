@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_news`
@@ -61,6 +61,54 @@
 	* [`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_news.tpl#files)
+
+### Positions des variables
+
+* __[`{L_COMMENTS}`](../var/L_COMMENTS.md#readme)__ __:__ ligne [`48`](../src/awesomebb/mod_news.tpl#L48)
+* __[`<!-- BEGIN post_row -->`](../var/post_row.md#readme)__ __:__ ligne [`1`](../src/awesomebb/mod_news.tpl#L1)
+* __[`<!-- END post_row -->`](../var/post_row.md#readme)__ __:__ ligne [`54`](../src/awesomebb/mod_news.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.ID}`](../var/post_row.ID.md#readme)__ __:__ ligne [`2`](../src/awesomebb/mod_news.tpl#L2)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.POSTER}`](../var/post_row.POSTER.md#readme)__ __:__ ligne [`7`](../src/awesomebb/mod_news.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.REPLIES}`](../var/post_row.REPLIES.md#readme)__ __:__ ligne [`48`](../src/awesomebb/mod_news.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.TEXT}`](../var/post_row.TEXT.md#readme)__ __:__ ligne [`9`](../src/awesomebb/mod_news.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.TIME}`](../var/post_row.TIME.md#readme)__ __:__ ligne [`7`](../src/awesomebb/mod_news.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.TITLE}`](../var/post_row.TITLE.md#readme)__ __:__ ligne [`6`](../src/awesomebb/mod_news.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.U_VIEW_COMMENTS}`](../var/post_row.U_VIEW_COMMENTS.md#readme)__ __:__ ligne [`48`](../src/awesomebb/mod_news.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_attachments -->`](../var/post_row.switch_attachments.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_news.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_attachments -->`](../var/post_row.switch_attachments.md#readme)__ __:__ ligne [`45`](../src/awesomebb/mod_news.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.L_ATTACHMENTS}`](../var/post_row.switch_attachments.L_ATTACHMENTS.md#readme)__ __:__ ligne [`12`](../src/awesomebb/mod_news.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_post_attachments -->`](../var/post_row.switch_attachments.switch_post_attachments.md#readme)__ __:__ ligne [`14`](../src/awesomebb/mod_news.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_post_attachments -->`](../var/post_row.switch_attachments.switch_post_attachments.md#readme)__ __:__ ligne [`42`](../src/awesomebb/mod_news.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.FILE_SIZE}`](../var/post_row.switch_attachments.switch_post_attachments.FILE_SIZE.md#readme)__ __:__ ligne [`40`](../src/awesomebb/mod_news.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.NB_DL}`](../var/post_row.switch_attachments.switch_post_attachments.NB_DL.md#readme)__ __:__ ligne [`40`](../src/awesomebb/mod_news.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.U_IMG}`](../var/post_row.switch_attachments.switch_post_attachments.U_IMG.md#readme)__ __:__ ligne [`17`](../src/awesomebb/mod_news.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.md#readme)__ __:__ ligne [`19`](../src/awesomebb/mod_news.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.md#readme)__ __:__ ligne [`21`](../src/awesomebb/mod_news.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT.md#readme)__ __:__ ligne [`20`](../src/awesomebb/mod_news.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.ATTACHMENT_DEL.md#readme)__ __:__ ligne [`20`](../src/awesomebb/mod_news.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_dl_att.U_ATTACHMENT.md#readme)__ __:__ ligne [`20`](../src/awesomebb/mod_news.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_no_comment -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_comment.md#readme)__ __:__ ligne [`28`](../src/awesomebb/mod_news.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_no_comment -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_comment.md#readme)__ __:__ ligne [`32`](../src/awesomebb/mod_news.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_comment.ATTACHMENT_COMMENT.md#readme)__ __:__ ligne [`30`](../src/awesomebb/mod_news.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_no_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme)__ __:__ ligne [`23`](../src/awesomebb/mod_news.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_no_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme)__ __:__ ligne [`25`](../src/awesomebb/mod_news.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_no_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme)__ __:__ ligne [`34`](../src/awesomebb/mod_news.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_no_dl_att -->`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.md#readme)__ __:__ ligne [`38`](../src/awesomebb/mod_news.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT.md#readme)__ __:__ ligne [`24`](../src/awesomebb/mod_news.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.ATTACHMENT_DEL.md#readme)__ __:__ ligne [`24`](../src/awesomebb/mod_news.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL}`](../var/post_row.switch_attachments.switch_post_attachments.switch_no_dl_att.TEXT_NO_DL.md#readme)__ __:__ ligne [`36`](../src/awesomebb/mod_news.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_link_readmore -->`](../var/post_row.switch_link_readmore.md#readme)__ __:__ ligne [`49`](../src/awesomebb/mod_news.tpl#L49)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_link_readmore -->`](../var/post_row.switch_link_readmore.md#readme)__ __:__ ligne [`51`](../src/awesomebb/mod_news.tpl#L51)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_link_readmore.L_READ_FULL}`](../var/post_row.switch_link_readmore.L_READ_FULL.md#readme)__ __:__ ligne [`50`](../src/awesomebb/mod_news.tpl#L50)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{post_row.switch_link_readmore.U_READ_FULL}`](../var/post_row.switch_link_readmore.U_READ_FULL.md#readme)__ __:__ ligne [`50`](../src/awesomebb/mod_news.tpl#L50)
+* __[`<!-- BEGIN switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`56`](../src/awesomebb/mod_news.tpl#L56)
+* __[`<!-- END switch_image_resize -->`](../var/switch_image_resize.md#readme)__ __:__ ligne [`62`](../src/awesomebb/mod_news.tpl#L62)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_HEIGHT}`](../var/switch_image_resize.IMG_RESIZE_HEIGHT.md#readme)__ __:__ ligne [`59`](../src/awesomebb/mod_news.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_image_resize.IMG_RESIZE_WIDTH}`](../var/switch_image_resize.IMG_RESIZE_WIDTH.md#readme)__ __:__ ligne [`59`](../src/awesomebb/mod_news.tpl#L59)
 
 ## Template par défaut phpBB3
 

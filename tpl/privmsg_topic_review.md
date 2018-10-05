@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsg_topic_review`
@@ -34,6 +34,22 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.ROW_CLASS}`](../var/postrow.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.ROW_CLASS))
 	* [`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_inline_mode))
 	* [`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_inline_mode))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/privmsg_topic_review.tpl#files)
+
+### Positions des variables
+
+* __[`{L_TOPIC_REVIEW}`](../var/L_TOPIC_REVIEW.md#readme)__ __:__ ligne [`3`](../src/awesomebb/privmsg_topic_review.tpl#L3)
+* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`9`](../src/awesomebb/privmsg_topic_review.tpl#L9)
+* __[`<!-- END postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`19`](../src/awesomebb/privmsg_topic_review.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.MESSAGE}`](../var/postrow.MESSAGE.md#readme)__ __:__ ligne [`17`](../src/awesomebb/privmsg_topic_review.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POSTER_NAME}`](../var/postrow.POSTER_NAME.md#readme)__ __:__ ligne [`14`](../src/awesomebb/privmsg_topic_review.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_DATE}`](../var/postrow.POST_DATE.md#readme)__ __:__ ligne [`14`](../src/awesomebb/privmsg_topic_review.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.POST_SUBJECT_NEW}`](../var/postrow.POST_SUBJECT_NEW.md#readme)__ __:__ ligne [`12`](../src/awesomebb/privmsg_topic_review.tpl#L12)
+* __[`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`1`](../src/awesomebb/privmsg_topic_review.tpl#L1)
+* __[`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme)__ __:__ ligne [`6`](../src/awesomebb/privmsg_topic_review.tpl#L6)
 
 ## Template par défaut phpBB3
 

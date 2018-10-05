@@ -18,6 +18,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`22`](../src/awesomebb/album_index_body.tpl#L22), [`27`](../src/awesomebb/album_index_body.tpl#L27)
+
 ### Version phpBB3
 * __[`album_index_body`](../tpl/album_index_body.md#readme)__ __:__ lignes [`24`](../src/prosilver/album_index_body.tpl#L24), [`25`](../src/prosilver/album_index_body.tpl#L25)
 

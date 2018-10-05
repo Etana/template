@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`15`](../src/awesomebb/profile_send_email.tpl#L15)
+
 ### Version phpBB3
 * __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`12`](../src/prosilver/profile_send_email.tpl#L12)
 

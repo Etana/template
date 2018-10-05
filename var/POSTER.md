@@ -29,6 +29,15 @@ Dans certains templates, il est plutôt utilisé comme variable d'affichage et e
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`13`](../src/awesomebb/album_overview_top10.tpl#L13)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`263`](../src/awesomebb/album_showpage_body.tpl#L263)
+* __[`mod_most_active_starters`](../tpl/mod_most_active_starters.md#readme)__ __:__ lignes [`7`](../src/awesomebb/mod_most_active_starters.tpl#L7)[`<->`](../src/awesomebb/mod_most_active_starters.tpl#L7-L15)[`15`](../src/awesomebb/mod_most_active_starters.tpl#L15)
+* __[`mod_top_post_users_month`](../tpl/mod_top_post_users_month.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_top_post_users_month.tpl#L8)[`<->`](../src/awesomebb/mod_top_post_users_month.tpl#L8-L17)[`17`](../src/awesomebb/mod_top_post_users_month.tpl#L17)
+* __[`mod_top_post_users_week`](../tpl/mod_top_post_users_week.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_top_post_users_week.tpl#L8)[`<->`](../src/awesomebb/mod_top_post_users_week.tpl#L8-L17)[`17`](../src/awesomebb/mod_top_post_users_week.tpl#L17)
+* __[`mod_top_posters`](../tpl/mod_top_posters.md#readme)__ __:__ lignes [`8`](../src/awesomebb/mod_top_posters.tpl#L8)[`<->`](../src/awesomebb/mod_top_posters.tpl#L8-L17)[`17`](../src/awesomebb/mod_top_posters.tpl#L17)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`12`](../src/awesomebb/modcp_viewip.tpl#L12)
+
 ### Version phpBB3
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`13`](../src/prosilver/album_overview_top10.tpl#L13)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`266`](../src/prosilver/album_showpage_body.tpl#L266)

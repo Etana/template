@@ -15,6 +15,15 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`67`](../src/awesomebb/groupcp_info_body.tpl#L67)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`6`](../src/awesomebb/groupcp_pending_info.tpl#L6)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`41`](../src/awesomebb/index_box.tpl#L41), [`64`](../src/awesomebb/index_box.tpl#L64)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`39`](../src/awesomebb/memberlist_body.tpl#L39), [`59`](../src/awesomebb/memberlist_body.tpl#L59)
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`11`](../src/awesomebb/mentions_tooltip.tpl#L11)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`62`](../src/awesomebb/profile_view_body.tpl#L62)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`119`](../src/awesomebb/search_body.tpl#L119)
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`53`](../src/prosilver/groupcp_info_body.tpl#L53)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`8`](../src/prosilver/groupcp_pending_info.tpl#L8)

@@ -1,6 +1,6 @@
 # postrow.displayed.POSTER_AVATAR
 * __Type__ __:__ sous-variable d'affichage
-* __Utilisable dans__ __:__ [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
+* __Utilisable dans__ __:__ [`posting_topic_review`](../tpl/posting_topic_review.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -15,6 +15,10 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_AVATAR)
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`5`](../src/awesomebb/posting_topic_review.tpl#L5)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`266`](../src/awesomebb/viewtopic_body.tpl#L266)
 
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`222`](../src/prosilver/viewtopic_body.tpl#L222)

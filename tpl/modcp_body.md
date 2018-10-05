@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_body`
@@ -61,6 +61,55 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TYPE}`](../var/topicrow.TOPIC_TYPE.md#readme) ([x](https://fa-tvars.appspot.com/var/topicrow.TOPIC_TYPE))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.U_VIEW_TOPIC}`](../var/topicrow.U_VIEW_TOPIC.md#readme) ([x](https://fa-tvars.appspot.com/var/topicrow.U_VIEW_TOPIC))
 	* [`{U_ALBUM}`](../var/U_ALBUM.md#readme) ([x](https://fa-tvars.appspot.com/var/U_ALBUM))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/modcp_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_ANNOUNCE}`](../var/L_ANNOUNCE.md#readme)__ __:__ ligne [`61`](../src/awesomebb/modcp_body.tpl#L61)
+* __[`{L_DELETE}`](../var/L_DELETE.md#readme)__ __:__ ligne [`55`](../src/awesomebb/modcp_body.tpl#L55)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`77`](../src/awesomebb/modcp_body.tpl#L77)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`4`](../src/awesomebb/modcp_body.tpl#L4)
+* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`74`](../src/awesomebb/modcp_body.tpl#L74)
+* __[`{L_LASTPOST}`](../var/L_LASTPOST.md#readme)__ __:__ ligne [`19`](../src/awesomebb/modcp_body.tpl#L19)
+* __[`{L_LOCK}`](../var/L_LOCK.md#readme)__ __:__ ligne [`57`](../src/awesomebb/modcp_body.tpl#L57)
+* __[`{L_MOD_CP}`](../var/L_MOD_CP.md#readme)__ __:__ ligne [`2`](../src/awesomebb/modcp_body.tpl#L2)
+* __[`{L_MOD_CP_EXPLAIN}`](../var/L_MOD_CP_EXPLAIN.md#readme)__ __:__ ligne [`10`](../src/awesomebb/modcp_body.tpl#L10)
+* __[`{L_MOVE}`](../var/L_MOVE.md#readme)__ __:__ ligne [`56`](../src/awesomebb/modcp_body.tpl#L56)
+* __[`{L_NORMAL}`](../var/L_NORMAL.md#readme)__ __:__ ligne [`63`](../src/awesomebb/modcp_body.tpl#L63)
+* __[`{L_REPLIES}`](../var/L_REPLIES.md#readme)__ __:__ ligne [`18`](../src/awesomebb/modcp_body.tpl#L18)
+* __[`{L_SELECT}`](../var/L_SELECT.md#readme)__ __:__ ligne [`20`](../src/awesomebb/modcp_body.tpl#L20)
+* __[`{L_SELECT_ALL}`](../var/L_SELECT_ALL.md#readme)__ __:__ ligne [`46`](../src/awesomebb/modcp_body.tpl#L46)
+* __[`{L_STICKY}`](../var/L_STICKY.md#readme)__ __:__ ligne [`59`](../src/awesomebb/modcp_body.tpl#L59)
+* __[`{L_TOPICS}`](../var/L_TOPICS.md#readme)__ __:__ ligne [`17`](../src/awesomebb/modcp_body.tpl#L17)
+* __[`{L_UNLOCK}`](../var/L_UNLOCK.md#readme)__ __:__ ligne [`58`](../src/awesomebb/modcp_body.tpl#L58)
+* __[`{L_USELECT_ALL}`](../var/L_USELECT_ALL.md#readme)__ __:__ ligne [`49`](../src/awesomebb/modcp_body.tpl#L49)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`5`](../src/awesomebb/modcp_body.tpl#L5)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`68`](../src/awesomebb/modcp_body.tpl#L68)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`54`](../src/awesomebb/modcp_body.tpl#L54)
+* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`72`](../src/awesomebb/modcp_body.tpl#L72)
+* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`76`](../src/awesomebb/modcp_body.tpl#L76)
+* __[`{S_MODCP_ACTION}`](../var/S_MODCP_ACTION.md#readme)__ __:__ ligne [`9`](../src/awesomebb/modcp_body.tpl#L9)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`4`](../src/awesomebb/modcp_body.tpl#L4)
+* __[`<!-- BEGIN switch_announce -->`](../var/switch_announce.md#readme)__ __:__ ligne [`61`](../src/awesomebb/modcp_body.tpl#L61)
+* __[`<!-- END switch_announce -->`](../var/switch_announce.md#readme)__ __:__ ligne [`62`](../src/awesomebb/modcp_body.tpl#L62)
+* __[`<!-- BEGIN switch_normal -->`](../var/switch_normal.md#readme)__ __:__ ligne [`63`](../src/awesomebb/modcp_body.tpl#L63)
+* __[`<!-- END switch_normal -->`](../var/switch_normal.md#readme)__ __:__ ligne [`64`](../src/awesomebb/modcp_body.tpl#L64)
+* __[`<!-- BEGIN switch_sticky -->`](../var/switch_sticky.md#readme)__ __:__ ligne [`59`](../src/awesomebb/modcp_body.tpl#L59)
+* __[`<!-- END switch_sticky -->`](../var/switch_sticky.md#readme)__ __:__ ligne [`60`](../src/awesomebb/modcp_body.tpl#L60)
+* __[`<!-- BEGIN topicrow -->`](../var/topicrow.md#readme)__ __:__ ligne [`24`](../src/awesomebb/modcp_body.tpl#L24)
+* __[`<!-- END topicrow -->`](../var/topicrow.md#readme)__ __:__ ligne [`40`](../src/awesomebb/modcp_body.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.ICON}`](../var/topicrow.ICON.md#readme)__ __:__ ligne [`27`](../src/awesomebb/modcp_body.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.LAST_POST_TIME}`](../var/topicrow.LAST_POST_TIME.md#readme)__ __:__ ligne [`32`](../src/awesomebb/modcp_body.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.REPLIES}`](../var/topicrow.REPLIES.md#readme)__ __:__ ligne [`31`](../src/awesomebb/modcp_body.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.ROW_CLASS}`](../var/topicrow.ROW_CLASS.md#readme)__ __:__ ligne [`25`](../src/awesomebb/modcp_body.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_FOLDER_IMG}`](../var/topicrow.TOPIC_FOLDER_IMG.md#readme)__ __:__ ligne [`26`](../src/awesomebb/modcp_body.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_ID}`](../var/topicrow.TOPIC_ID.md#readme)__ __:__ ligne [`35`](../src/awesomebb/modcp_body.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TITLE}`](../var/topicrow.TOPIC_TITLE.md#readme)__ __:__ ligne [`29`](../src/awesomebb/modcp_body.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.TOPIC_TYPE}`](../var/topicrow.TOPIC_TYPE.md#readme)__ __:__ ligne [`29`](../src/awesomebb/modcp_body.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{topicrow.U_VIEW_TOPIC}`](../var/topicrow.U_VIEW_TOPIC.md#readme)__ __:__ ligne [`29`](../src/awesomebb/modcp_body.tpl#L29)
 
 ## Template par défaut phpBB3
 

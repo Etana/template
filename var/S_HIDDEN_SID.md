@@ -12,6 +12,9 @@ Contient la valeur cachée de votre identifiant de session.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`22`](../src/awesomebb/memberlist_body.tpl#L22)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`16`](../src/prosilver/memberlist_body.tpl#L16)
 

@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`23`](../src/awesomebb/album_nuffimage_box.tpl#L23)
+
 ### Version phpBB3
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`12`](../src/prosilver/album_nuffimage_box.tpl#L12)
 

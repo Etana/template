@@ -17,6 +17,9 @@ Boucle s'affichant si la partie affichée contient plusieurs pages.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`85`](../src/awesomebb/memberlist_body.tpl#L85)[`<->`](../src/awesomebb/memberlist_body.tpl#L85-L87)[`87`](../src/awesomebb/memberlist_body.tpl#L87)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`70`](../src/prosilver/memberlist_body.tpl#L70)[`<->`](../src/prosilver/memberlist_body.tpl#L70-L72)[`72`](../src/prosilver/memberlist_body.tpl#L72)
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_index_body`
@@ -104,6 +104,56 @@
 	* [`{STYLE_CSS}`](../var/STYLE_CSS.md#readme) ([x](https://fa-tvars.appspot.com/var/STYLE_CSS))
 	* [`{U_ALBUM}`](../var/U_ALBUM.md#readme) ([x](https://fa-tvars.appspot.com/var/U_ALBUM))
 	* [`{U_FORUM_INDEX}`](../var/U_FORUM_INDEX.md#readme) ([x](https://fa-tvars.appspot.com/var/U_FORUM_INDEX))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/album_index_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_NO_PICS}`](../var/L_NO_PICS.md#readme)__ __:__ ligne [`10`](../src/awesomebb/album_index_body.tpl#L10)
+* __[`<!-- BEGIN build_categories_block -->`](../var/build_categories_block.md#readme)__ __:__ ligne [`1`](../src/awesomebb/album_index_body.tpl#L1)
+* __[`<!-- END build_categories_block -->`](../var/build_categories_block.md#readme)__ __:__ ligne [`49`](../src/awesomebb/album_index_body.tpl#L49)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN block_title -->`](../var/build_categories_block.block_title.md#readme)__ __:__ ligne [`2`](../src/awesomebb/album_index_body.tpl#L2)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END block_title -->`](../var/build_categories_block.block_title.md#readme)__ __:__ ligne [`6`](../src/awesomebb/album_index_body.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.block_title.L_TITLE}`](../var/build_categories_block.block_title.L_TITLE.md#readme)__ __:__ ligne [`4`](../src/awesomebb/album_index_body.tpl#L4)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_pics -->`](../var/build_categories_block.no_pics.md#readme)__ __:__ ligne [`7`](../src/awesomebb/album_index_body.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END no_pics -->`](../var/build_categories_block.no_pics.md#readme)__ __:__ ligne [`13`](../src/awesomebb/album_index_body.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN recent_pics -->`](../var/build_categories_block.recent_pics.md#readme)__ __:__ ligne [`15`](../src/awesomebb/album_index_body.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END recent_pics -->`](../var/build_categories_block.recent_pics.md#readme)__ __:__ ligne [`48`](../src/awesomebb/album_index_body.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN recent_detail -->`](../var/build_categories_block.recent_pics.recent_detail.md#readme)__ __:__ ligne [`17`](../src/awesomebb/album_index_body.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END recent_detail -->`](../var/build_categories_block.recent_pics.recent_detail.md#readme)__ __:__ ligne [`46`](../src/awesomebb/album_index_body.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.CAT_DESC}`](../var/build_categories_block.recent_pics.recent_detail.CAT_DESC.md#readme)__ __:__ ligne [`34`](../src/awesomebb/album_index_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.CAT_TITLE}`](../var/build_categories_block.recent_pics.recent_detail.CAT_TITLE.md#readme)__ __:__ ligne [`23`](../src/awesomebb/album_index_body.tpl#L23)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.DATE_LAST_MODIFIED}`](../var/build_categories_block.recent_pics.recent_detail.DATE_LAST_MODIFIED.md#readme)__ __:__ ligne [`40`](../src/awesomebb/album_index_body.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.LINK}`](../var/build_categories_block.recent_pics.recent_detail.LINK.md#readme)__ __:__ ligne [`22`](../src/awesomebb/album_index_body.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.LINK}`](../var/build_categories_block.recent_pics.recent_detail.LINK.md#readme)__ __:__ ligne [`27`](../src/awesomebb/album_index_body.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.L_ALBUMS}`](../var/build_categories_block.recent_pics.recent_detail.L_ALBUMS.md#readme)__ __:__ ligne [`37`](../src/awesomebb/album_index_body.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.L_COMMENTS}`](../var/build_categories_block.recent_pics.recent_detail.L_COMMENTS.md#readme)__ __:__ ligne [`39`](../src/awesomebb/album_index_body.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.L_PICS}`](../var/build_categories_block.recent_pics.recent_detail.L_PICS.md#readme)__ __:__ ligne [`38`](../src/awesomebb/album_index_body.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.NB_ALBUMS}`](../var/build_categories_block.recent_pics.recent_detail.NB_ALBUMS.md#readme)__ __:__ ligne [`37`](../src/awesomebb/album_index_body.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.THUMBNAIL_HEIGHT}`](../var/build_categories_block.recent_pics.recent_detail.THUMBNAIL_HEIGHT.md#readme)__ __:__ ligne [`28`](../src/awesomebb/album_index_body.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{build_categories_block.recent_pics.recent_detail.THUMBNAIL_NEW}`](../var/build_categories_block.recent_pics.recent_detail.THUMBNAIL_NEW.md#readme)__ __:__ ligne [`30`](../src/awesomebb/album_index_body.tpl#L30)
+* __[`<!-- BEGIN cat_personal_footer -->`](../var/cat_personal_footer.md#readme)__ __:__ ligne [`73`](../src/awesomebb/album_index_body.tpl#L73)
+* __[`<!-- END cat_personal_footer -->`](../var/cat_personal_footer.md#readme)__ __:__ ligne [`80`](../src/awesomebb/album_index_body.tpl#L80)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{cat_personal_footer.L_YOUR_PERSONAL_GALLERY}`](../var/cat_personal_footer.L_YOUR_PERSONAL_GALLERY.md#readme)__ __:__ ligne [`77`](../src/awesomebb/album_index_body.tpl#L77)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{cat_personal_footer.U_YOUR_PERSONAL_GALLERY}`](../var/cat_personal_footer.U_YOUR_PERSONAL_GALLERY.md#readme)__ __:__ ligne [`75`](../src/awesomebb/album_index_body.tpl#L75)
+* __[`<!-- BEGIN cat_private_footer -->`](../var/cat_private_footer.md#readme)__ __:__ ligne [`65`](../src/awesomebb/album_index_body.tpl#L65)
+* __[`<!-- END cat_private_footer -->`](../var/cat_private_footer.md#readme)__ __:__ ligne [`72`](../src/awesomebb/album_index_body.tpl#L72)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{cat_private_footer.L_USERS_PERSONAL_GALLERIES}`](../var/cat_private_footer.L_USERS_PERSONAL_GALLERIES.md#readme)__ __:__ ligne [`69`](../src/awesomebb/album_index_body.tpl#L69)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{cat_private_footer.U_USERS_PERSONAL_GALLERIES}`](../var/cat_private_footer.U_USERS_PERSONAL_GALLERIES.md#readme)__ __:__ ligne [`67`](../src/awesomebb/album_index_body.tpl#L67)
+* __[`<!-- BEGIN moderation_panel -->`](../var/moderation_panel.md#readme)__ __:__ ligne [`86`](../src/awesomebb/album_index_body.tpl#L86)
+* __[`<!-- END moderation_panel -->`](../var/moderation_panel.md#readme)__ __:__ ligne [`90`](../src/awesomebb/album_index_body.tpl#L90)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW}`](../var/moderation_panel.U_YOUR_PERSONAL_MODERATE_NEW.md#readme)__ __:__ ligne [`88`](../src/awesomebb/album_index_body.tpl#L88)
+* __[`<!-- BEGIN pagination -->`](../var/pagination.md#readme)__ __:__ ligne [`51`](../src/awesomebb/album_index_body.tpl#L51)
+* __[`<!-- END pagination -->`](../var/pagination.md#readme)__ __:__ ligne [`62`](../src/awesomebb/album_index_body.tpl#L62)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pagination.PAGINATION}`](../var/pagination.PAGINATION.md#readme)__ __:__ ligne [`53`](../src/awesomebb/album_index_body.tpl#L53)
+* __[`<!-- BEGIN pic_backup_link -->`](../var/pic_backup_link.md#readme)__ __:__ ligne [`91`](../src/awesomebb/album_index_body.tpl#L91)
+* __[`<!-- END pic_backup_link -->`](../var/pic_backup_link.md#readme)__ __:__ ligne [`95`](../src/awesomebb/album_index_body.tpl#L95)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{pic_backup_link.BACKUP_FOLDER_LINK_NEW}`](../var/pic_backup_link.BACKUP_FOLDER_LINK_NEW.md#readme)__ __:__ ligne [`93`](../src/awesomebb/album_index_body.tpl#L93)
+* __[`<!-- BEGIN stat_link -->`](../var/stat_link.md#readme)__ __:__ ligne [`81`](../src/awesomebb/album_index_body.tpl#L81)
+* __[`<!-- END stat_link -->`](../var/stat_link.md#readme)__ __:__ ligne [`85`](../src/awesomebb/album_index_body.tpl#L85)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{stat_link.U_TOP10_LINK_NEW}`](../var/stat_link.U_TOP10_LINK_NEW.md#readme)__ __:__ ligne [`83`](../src/awesomebb/album_index_body.tpl#L83)
 
 ## Template par défaut phpBB3
 

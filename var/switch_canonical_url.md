@@ -18,6 +18,9 @@ Cette boucle s'affiche automatiquement si nécessaire.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`9`](../src/awesomebb/overall_header.tpl#L9)[`<->`](../src/awesomebb/overall_header.tpl#L9-L11)[`11`](../src/awesomebb/overall_header.tpl#L11)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`11`](../src/prosilver/overall_header.tpl#L11)[`<->`](../src/prosilver/overall_header.tpl#L11-L13)[`13`](../src/prosilver/overall_header.tpl#L13)
 

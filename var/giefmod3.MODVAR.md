@@ -14,6 +14,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`24`](../src/awesomebb/portal_body.tpl#L24)
+
 ### Version phpBB3
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`31`](../src/prosilver/portal_body.tpl#L31)
 

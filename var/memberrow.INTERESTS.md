@@ -14,6 +14,9 @@ Contient l'humeur du membre.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`56`](../src/awesomebb/memberlist_body.tpl#L56), [`67`](../src/awesomebb/memberlist_body.tpl#L67)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`50`](../src/prosilver/memberlist_body.tpl#L50)
 

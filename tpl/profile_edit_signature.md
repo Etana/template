@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_edit_signature`
@@ -45,6 +45,18 @@
 	* [`<!-- END switch_post_error -->`](../var/switch_post_error.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_post_error))
 	* [`{U_RETURN_PROFILE}`](../var/U_RETURN_PROFILE.md#readme) ([x](https://fa-tvars.appspot.com/var/U_RETURN_PROFILE))
 	* [`{UCP_TABS}`](../var/UCP_TABS.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/profile_edit_signature.tpl#files)
+
+### Positions des variables
+
+* __[`{ERROR_MESSAGE}`](../var/ERROR_MESSAGE.md#readme)__ __:__ ligne [`6`](../src/awesomebb/profile_edit_signature.tpl#L6)
+* __[`{SIGNATURE_EDIT}`](../var/SIGNATURE_EDIT.md#readme)__ __:__ ligne [`13`](../src/awesomebb/profile_edit_signature.tpl#L13)
+* __[`{UCP_TABS}`](../var/UCP_TABS.md#readme)__ __:__ ligne [`20`](../src/awesomebb/profile_edit_signature.tpl#L20)
+* __[`<!-- BEGIN switch_post_error -->`](../var/switch_post_error.md#readme)__ __:__ ligne [`3`](../src/awesomebb/profile_edit_signature.tpl#L3)
+* __[`<!-- END switch_post_error -->`](../var/switch_post_error.md#readme)__ __:__ ligne [`9`](../src/awesomebb/profile_edit_signature.tpl#L9)
 
 ## Template par défaut phpBB3
 

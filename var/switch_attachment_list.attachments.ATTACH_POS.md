@@ -16,6 +16,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`244`](../src/awesomebb/posting_body.tpl#L244), [`247`](../src/awesomebb/posting_body.tpl#L247), [`248`](../src/awesomebb/posting_body.tpl#L248), [`248`](../src/awesomebb/posting_body.tpl#L248), [`249`](../src/awesomebb/posting_body.tpl#L249), [`250`](../src/awesomebb/posting_body.tpl#L250), [`251`](../src/awesomebb/posting_body.tpl#L251), [`252`](../src/awesomebb/posting_body.tpl#L252)
+
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`250`](../src/prosilver/posting_body.tpl#L250), [`254`](../src/prosilver/posting_body.tpl#L254), [`256`](../src/prosilver/posting_body.tpl#L256), [`257`](../src/prosilver/posting_body.tpl#L257), [`257`](../src/prosilver/posting_body.tpl#L257), [`258`](../src/prosilver/posting_body.tpl#L258), [`259`](../src/prosilver/posting_body.tpl#L259), [`260`](../src/prosilver/posting_body.tpl#L260), [`261`](../src/prosilver/posting_body.tpl#L261)
 

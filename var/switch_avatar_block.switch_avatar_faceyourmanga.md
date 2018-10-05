@@ -19,6 +19,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`554`](../src/awesomebb/profile_add_body.tpl#L554)[`<->`](../src/awesomebb/profile_add_body.tpl#L554-L562)[`562`](../src/awesomebb/profile_add_body.tpl#L562), [`610`](../src/awesomebb/profile_add_body.tpl#L610)[`<->`](../src/awesomebb/profile_add_body.tpl#L610-L615)[`615`](../src/awesomebb/profile_add_body.tpl#L615)
+
 ### Version phpBB3
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`376`](../src/prosilver/profile_add_body.tpl#L376)[`<->`](../src/prosilver/profile_add_body.tpl#L376-L385)[`385`](../src/prosilver/profile_add_body.tpl#L385), [`439`](../src/prosilver/profile_add_body.tpl#L439)[`<->`](../src/prosilver/profile_add_body.tpl#L439-L444)[`444`](../src/prosilver/profile_add_body.tpl#L444)
 

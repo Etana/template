@@ -12,6 +12,9 @@ Affiche la chatbox sur la page d'accueil en bas si l'option dans `PA > Modules >
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`17`](../src/awesomebb/index_body.tpl#L17)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`108`](../src/prosilver/index_body.tpl#L108)
 

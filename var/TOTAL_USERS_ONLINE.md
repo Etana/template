@@ -46,6 +46,10 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`28`](../src/awesomebb/index_body.tpl#L28)
+* __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`7`](../src/awesomebb/mod_whoisonline.tpl#L7)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`60`](../src/prosilver/index_body.tpl#L60)
 * __[`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)__ __:__ lignes [`5`](../src/prosilver/mod_whoisonline.tpl#L5)

@@ -14,6 +14,28 @@ Champs non visible du formulaire.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`52`](../src/awesomebb/calendar_scheduler_body.tpl#L52)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`14`](../src/awesomebb/confirm_body.tpl#L14)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`56`](../src/awesomebb/groupcp_info_body.tpl#L56), [`124`](../src/awesomebb/groupcp_info_body.tpl#L124)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`38`](../src/awesomebb/groupcp_user_body.tpl#L38)
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`31`](../src/awesomebb/merge_body.tpl#L31)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`14`](../src/awesomebb/merge_select_body.tpl#L14)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`54`](../src/awesomebb/modcp_body.tpl#L54)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`26`](../src/awesomebb/modcp_move.tpl#L26)
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`52`](../src/awesomebb/modcp_split.tpl#L52)
+* __[`poll_ballot`](../tpl/poll_ballot.md#readme)__ __:__ lignes [`18`](../src/awesomebb/poll_ballot.tpl#L18)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`25`](../src/awesomebb/posting_confirm_code.tpl#L25)
+* __[`privmsgs_body`](../tpl/privmsgs_body.md#readme)__ __:__ lignes [`68`](../src/awesomebb/privmsgs_body.tpl#L68)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`32`](../src/awesomebb/privmsgs_read_body.tpl#L32)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`603`](../src/awesomebb/profile_add_body.tpl#L603)
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`45`](../src/awesomebb/profile_avatar_gallery.tpl#L45)
+* __[`profile_send_email`](../tpl/profile_send_email.md#readme)__ __:__ lignes [`63`](../src/awesomebb/profile_send_email.tpl#L63)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`12`](../src/awesomebb/report_list_body.tpl#L12)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`33`](../src/awesomebb/report_view_body.tpl#L33)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`147`](../src/awesomebb/search_body.tpl#L147)
+* __[`viewtopic_poll_ballot`](../tpl/viewtopic_poll_ballot.md#readme)__ __:__ lignes [`22`](../src/awesomebb/viewtopic_poll_ballot.tpl#L22)
+
 ### Version phpBB3
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`51`](../src/prosilver/calendar_scheduler_body.tpl#L51)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`11`](../src/prosilver/confirm_body.tpl#L11)

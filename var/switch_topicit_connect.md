@@ -22,6 +22,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`180`](../src/awesomebb/overall_footer_end.tpl#L180)[`<->`](../src/awesomebb/overall_footer_end.tpl#L180-L199)[`199`](../src/awesomebb/overall_footer_end.tpl#L199)
+
 ### Version phpBB3
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`81`](../src/prosilver/overall_footer_end.tpl#L81)[`<->`](../src/prosilver/overall_footer_end.tpl#L81-L100)[`100`](../src/prosilver/overall_footer_end.tpl#L100)
 

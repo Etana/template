@@ -14,6 +14,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`39`](../src/awesomebb/viewonline_body.tpl#L39)
+
 ### Version phpBB3
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`44`](../src/prosilver/viewonline_body.tpl#L44)
 

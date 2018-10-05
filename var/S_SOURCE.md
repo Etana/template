@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`9`](../src/awesomebb/standard.tpl#L9)
+
 ### Version phpBB3
 * __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`6`](../src/prosilver/standard.tpl#L6)
 

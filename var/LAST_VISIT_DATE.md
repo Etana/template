@@ -17,6 +17,11 @@ Texte avec la date de la dernière visite du membre.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/album_formsearch_body.tpl#L1)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/album_search_body.tpl#L2)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/calendar_scheduler_body.tpl#L1)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`1`](../src/prosilver/agreement.tpl#L1)
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`2`](../src/prosilver/album_cat_body.tpl#L2)

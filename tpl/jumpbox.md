@@ -1,8 +1,8 @@
-# Template jumpbox
+# Template jumpbox (x 1)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `jumpbox`
@@ -19,6 +19,17 @@ Ce template affiche la partie "Sauter vers un forum" se trouvant en bas de page 
 	* [`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)
 	* [`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)
 	* [`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)
+	* [`<!-- BEGIN spacer -->`](../var/spacer.md#readme) ([x](https://fa-tvars.appspot.com/var/spacer))
+	* [`<!-- END spacer -->`](../var/spacer.md#readme) ([x](https://fa-tvars.appspot.com/var/spacer))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/jumpbox.tpl#files)
+
+### Positions des variables
+
+* __[`<!-- BEGIN spacer -->`](../var/spacer.md#readme)__ __:__ ligne [`1`](../src/awesomebb/jumpbox.tpl#L1)
+* __[`<!-- END spacer -->`](../var/spacer.md#readme)__ __:__ ligne [`1`](../src/awesomebb/jumpbox.tpl#L1)
 
 ## Template par défaut phpBB3
 

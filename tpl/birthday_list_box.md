@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `birthday_list_box`
@@ -56,6 +56,52 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.WEB_SITE}`](../var/birthday_list_box.row.WEB_SITE.md#readme) ([x](https://fa-tvars.appspot.com/var/birthday_list_box.row.WEB_SITE))
 	* [`{L_BACK_TO_TOP}`](../var/L_BACK_TO_TOP.md#readme)
 	* [`{PAGINATION}`](../var/PAGINATION.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/birthday_list_box.tpl#files)
+
+### Positions des variables
+
+* __[`{L_BACK_TO_TOP}`](../var/L_BACK_TO_TOP.md#readme)__ __:__ ligne [`56`](../src/awesomebb/birthday_list_box.tpl#L56)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`55`](../src/awesomebb/birthday_list_box.tpl#L55)
+* __[`<!-- BEGIN birthday_list_box -->`](../var/birthday_list_box.md#readme)__ __:__ ligne [`1`](../src/awesomebb/birthday_list_box.tpl#L1)
+* __[`<!-- END birthday_list_box -->`](../var/birthday_list_box.md#readme)__ __:__ ligne [`61`](../src/awesomebb/birthday_list_box.tpl#L61)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN row -->`](../var/birthday_list_box.row.md#readme)__ __:__ ligne [`2`](../src/awesomebb/birthday_list_box.tpl#L2)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END row -->`](../var/birthday_list_box.row.md#readme)__ __:__ ligne [`61`](../src/awesomebb/birthday_list_box.tpl#L61)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.AGE}`](../var/birthday_list_box.row.AGE.md#readme)__ __:__ ligne [`14`](../src/awesomebb/birthday_list_box.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.COLSPAN}`](../var/birthday_list_box.row.COLSPAN.md#readme)__ __:__ ligne [`26`](../src/awesomebb/birthday_list_box.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.COLSPAN}`](../var/birthday_list_box.row.COLSPAN.md#readme)__ __:__ ligne [`45`](../src/awesomebb/birthday_list_box.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.END_TABLE_STICKY}`](../var/birthday_list_box.row.END_TABLE_STICKY.md#readme)__ __:__ ligne [`31`](../src/awesomebb/birthday_list_box.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.LOCALISATION}`](../var/birthday_list_box.row.LOCALISATION.md#readme)__ __:__ ligne [`15`](../src/awesomebb/birthday_list_box.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.L_NO_TOPICS}`](../var/birthday_list_box.row.L_NO_TOPICS.md#readme)__ __:__ ligne [`45`](../src/awesomebb/birthday_list_box.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.L_TITLE}`](../var/birthday_list_box.row.L_TITLE.md#readme)__ __:__ ligne [`26`](../src/awesomebb/birthday_list_box.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.MEMBER_ID}`](../var/birthday_list_box.row.MEMBER_ID.md#readme)__ __:__ ligne [`39`](../src/awesomebb/birthday_list_box.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.MP}`](../var/birthday_list_box.row.MP.md#readme)__ __:__ ligne [`18`](../src/awesomebb/birthday_list_box.tpl#L18)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.NOM}`](../var/birthday_list_box.row.NOM.md#readme)__ __:__ ligne [`13`](../src/awesomebb/birthday_list_box.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.POSTS}`](../var/birthday_list_box.row.POSTS.md#readme)__ __:__ ligne [`16`](../src/awesomebb/birthday_list_box.tpl#L16)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.ROW_CLASS}`](../var/birthday_list_box.row.ROW_CLASS.md#readme)__ __:__ ligne [`32`](../src/awesomebb/birthday_list_box.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.SITEWEB}`](../var/birthday_list_box.row.SITEWEB.md#readme)__ __:__ ligne [`17`](../src/awesomebb/birthday_list_box.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.TOPIC_TITLE}`](../var/birthday_list_box.row.TOPIC_TITLE.md#readme)__ __:__ ligne [`33`](../src/awesomebb/birthday_list_box.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.USER_AGE}`](../var/birthday_list_box.row.USER_AGE.md#readme)__ __:__ ligne [`35`](../src/awesomebb/birthday_list_box.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.USER_FROM}`](../var/birthday_list_box.row.USER_FROM.md#readme)__ __:__ ligne [`36`](../src/awesomebb/birthday_list_box.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.USER_POSTS}`](../var/birthday_list_box.row.USER_POSTS.md#readme)__ __:__ ligne [`37`](../src/awesomebb/birthday_list_box.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.U_VIEW_TOPIC}`](../var/birthday_list_box.row.U_VIEW_TOPIC.md#readme)__ __:__ ligne [`33`](../src/awesomebb/birthday_list_box.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{birthday_list_box.row.WEB_SITE}`](../var/birthday_list_box.row.WEB_SITE.md#readme)__ __:__ ligne [`38`](../src/awesomebb/birthday_list_box.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN bottom -->`](../var/birthday_list_box.row.bottom.md#readme)__ __:__ ligne [`50`](../src/awesomebb/birthday_list_box.tpl#L50)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END bottom -->`](../var/birthday_list_box.row.bottom.md#readme)__ __:__ ligne [`60`](../src/awesomebb/birthday_list_box.tpl#L60)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN footer_table -->`](../var/birthday_list_box.row.footer_table.md#readme)__ __:__ ligne [`60`](../src/awesomebb/birthday_list_box.tpl#L60)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END footer_table -->`](../var/birthday_list_box.row.footer_table.md#readme)__ __:__ ligne [`61`](../src/awesomebb/birthday_list_box.tpl#L61)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN header_row -->`](../var/birthday_list_box.row.header_row.md#readme)__ __:__ ligne [`24`](../src/awesomebb/birthday_list_box.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END header_row -->`](../var/birthday_list_box.row.header_row.md#readme)__ __:__ ligne [`28`](../src/awesomebb/birthday_list_box.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN header_table -->`](../var/birthday_list_box.row.header_table.md#readme)__ __:__ ligne [`3`](../src/awesomebb/birthday_list_box.tpl#L3)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END header_table -->`](../var/birthday_list_box.row.header_table.md#readme)__ __:__ ligne [`22`](../src/awesomebb/birthday_list_box.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN no_topics -->`](../var/birthday_list_box.row.no_topics.md#readme)__ __:__ ligne [`43`](../src/awesomebb/birthday_list_box.tpl#L43)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END no_topics -->`](../var/birthday_list_box.row.no_topics.md#readme)__ __:__ ligne [`48`](../src/awesomebb/birthday_list_box.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN spacer -->`](../var/birthday_list_box.row.spacer.md#readme)__ __:__ ligne [`61`](../src/awesomebb/birthday_list_box.tpl#L61)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END spacer -->`](../var/birthday_list_box.row.spacer.md#readme)__ __:__ ligne [`61`](../src/awesomebb/birthday_list_box.tpl#L61)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN topic -->`](../var/birthday_list_box.row.topic.md#readme)__ __:__ ligne [`30`](../src/awesomebb/birthday_list_box.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END topic -->`](../var/birthday_list_box.row.topic.md#readme)__ __:__ ligne [`41`](../src/awesomebb/birthday_list_box.tpl#L41)
 
 ## Template par défaut phpBB3
 

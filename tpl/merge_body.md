@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `merge_body`
@@ -34,6 +34,28 @@
 	* [`{TO_TOPIC}`](../var/TO_TOPIC.md#readme) ([x](https://fa-tvars.appspot.com/var/TO_TOPIC))
 	* [`{TO_TOPIC_TITLE}`](../var/TO_TOPIC_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/TO_TOPIC_TITLE))
 	* [`{TOPIC_TITLE}`](../var/TOPIC_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/TOPIC_TITLE))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/merge_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_FID}`](../var/CURRENT_FID.md#readme)__ __:__ ligne [`28`](../src/awesomebb/merge_body.tpl#L28)
+* __[`{FROM_TOPIC}`](../var/FROM_TOPIC.md#readme)__ __:__ ligne [`19`](../src/awesomebb/merge_body.tpl#L19)
+* __[`{FROM_TOPIC_TITLE}`](../var/FROM_TOPIC_TITLE.md#readme)__ __:__ ligne [`12`](../src/awesomebb/merge_body.tpl#L12)
+* __[`{L_FROM_TOPIC}`](../var/L_FROM_TOPIC.md#readme)__ __:__ ligne [`8`](../src/awesomebb/merge_body.tpl#L8)
+* __[`{L_FROM_TOPIC_EXPLAIN}`](../var/L_FROM_TOPIC_EXPLAIN.md#readme)__ __:__ ligne [`10`](../src/awesomebb/merge_body.tpl#L10)
+* __[`{L_REFRESH}`](../var/L_REFRESH.md#readme)__ __:__ ligne [`30`](../src/awesomebb/merge_body.tpl#L30)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`22`](../src/awesomebb/merge_body.tpl#L22)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)__ __:__ ligne [`29`](../src/awesomebb/merge_body.tpl#L29)
+* __[`{L_TITLE}`](../var/L_TITLE.md#readme)__ __:__ ligne [`2`](../src/awesomebb/merge_body.tpl#L2)
+* __[`{L_TO_TOPIC}`](../var/L_TO_TOPIC.md#readme)__ __:__ ligne [`14`](../src/awesomebb/merge_body.tpl#L14)
+* __[`{L_TO_TOPIC_EXPLAIN}`](../var/L_TO_TOPIC_EXPLAIN.md#readme)__ __:__ ligne [`16`](../src/awesomebb/merge_body.tpl#L16)
+* __[`{S_ACTION}`](../var/S_ACTION.md#readme)__ __:__ ligne [`5`](../src/awesomebb/merge_body.tpl#L5)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`31`](../src/awesomebb/merge_body.tpl#L31)
+* __[`{TO_TOPIC}`](../var/TO_TOPIC.md#readme)__ __:__ ligne [`20`](../src/awesomebb/merge_body.tpl#L20)
+* __[`{TO_TOPIC_TITLE}`](../var/TO_TOPIC_TITLE.md#readme)__ __:__ ligne [`18`](../src/awesomebb/merge_body.tpl#L18)
 
 ## Template par défaut phpBB3
 

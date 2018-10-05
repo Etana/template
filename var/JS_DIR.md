@@ -12,6 +12,14 @@ JavaScript important au bon fonctionnement de votre forum.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`28`](../src/awesomebb/overall_header.tpl#L28), [`33`](../src/awesomebb/overall_header.tpl#L33), [`40`](../src/awesomebb/overall_header.tpl#L40), [`41`](../src/awesomebb/overall_header.tpl#L41)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/posting_body.tpl#L1)
+* __[`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme)__ __:__ lignes [`9`](../src/awesomebb/posting_smilies_frame.tpl#L9)
+* __[`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme)__ __:__ lignes [`9`](../src/awesomebb/posting_smilies_wysiwyg.tpl#L9)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`12`](../src/awesomebb/simple_header.tpl#L12)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/viewtopic_body.tpl#L3)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`24`](../src/prosilver/overall_header.tpl#L24), [`28`](../src/prosilver/overall_header.tpl#L28)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`1`](../src/prosilver/posting_body.tpl#L1)

@@ -14,6 +14,12 @@ Contient la largeur du redimensionnement des images définie dans `PA > Généra
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`59`](../src/awesomebb/mod_news.tpl#L59)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`441`](../src/awesomebb/posting_body.tpl#L441)
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`77`](../src/awesomebb/privmsgs_read_body.tpl#L77)
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`35`](../src/awesomebb/search_results_posts.tpl#L35)
+
 ### Version phpBB3
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`63`](../src/prosilver/mod_news.tpl#L63)
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`419`](../src/prosilver/posting_body.tpl#L419)

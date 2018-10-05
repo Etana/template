@@ -19,6 +19,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/album_upload_body.tpl#L3)[`<->`](../src/awesomebb/album_upload_body.tpl#L3-L95)[`95`](../src/awesomebb/album_upload_body.tpl#L95), [`217`](../src/awesomebb/album_upload_body.tpl#L217)[`<->`](../src/awesomebb/album_upload_body.tpl#L217-L226)[`226`](../src/awesomebb/album_upload_body.tpl#L226), [`275`](../src/awesomebb/album_upload_body.tpl#L275)[`<->`](../src/awesomebb/album_upload_body.tpl#L275-L280)[`280`](../src/awesomebb/album_upload_body.tpl#L280), [`285`](../src/awesomebb/album_upload_body.tpl#L285)[`<->`](../src/awesomebb/album_upload_body.tpl#L285-L288)[`288`](../src/awesomebb/album_upload_body.tpl#L288)
+
 ### Version phpBB3
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`5`](../src/prosilver/album_upload_body.tpl#L5)[`<->`](../src/prosilver/album_upload_body.tpl#L5-L97)[`97`](../src/prosilver/album_upload_body.tpl#L97), [`217`](../src/prosilver/album_upload_body.tpl#L217)[`<->`](../src/prosilver/album_upload_body.tpl#L217-L224)[`224`](../src/prosilver/album_upload_body.tpl#L224), [`270`](../src/prosilver/album_upload_body.tpl#L270)[`<->`](../src/prosilver/album_upload_body.tpl#L270-L275)[`275`](../src/prosilver/album_upload_body.tpl#L275), [`280`](../src/prosilver/album_upload_body.tpl#L280)[`<->`](../src/prosilver/album_upload_body.tpl#L280-L283)[`283`](../src/prosilver/album_upload_body.tpl#L283)
 

@@ -14,6 +14,9 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`37`](../src/awesomebb/memberlist_body.tpl#L37), [`57`](../src/awesomebb/memberlist_body.tpl#L57)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`35`](../src/prosilver/memberlist_body.tpl#L35)
 

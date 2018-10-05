@@ -12,6 +12,9 @@ Identifiant `right` attribué aux widgets de la colonne de droite si celle-ci es
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`6`](../src/awesomebb/overall_footer_begin.tpl#L6)
+
 ### Version phpBB3
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`15`](../src/prosilver/overall_footer_begin.tpl#L15)
 

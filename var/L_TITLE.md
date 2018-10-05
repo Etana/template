@@ -12,6 +12,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/merge_body.tpl#L2)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`2`](../src/awesomebb/modcp_viewip.tpl#L2)
+
 ### Version phpBB3
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`2`](../src/prosilver/calendar_overview_profil.tpl#L2)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`7`](../src/prosilver/merge_body.tpl#L7)

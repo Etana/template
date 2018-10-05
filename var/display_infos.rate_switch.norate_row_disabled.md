@@ -22,6 +22,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`315`](../src/awesomebb/album_showpage_body.tpl#L315)[`<->`](../src/awesomebb/album_showpage_body.tpl#L315-L320)[`320`](../src/awesomebb/album_showpage_body.tpl#L320)
+
 ### Version phpBB3
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`318`](../src/prosilver/album_showpage_body.tpl#L318)[`<->`](../src/prosilver/album_showpage_body.tpl#L318-L323)[`323`](../src/prosilver/album_showpage_body.tpl#L323)
 

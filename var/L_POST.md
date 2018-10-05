@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`26`](../src/awesomebb/report_view_body.tpl#L26)
+
 ### Version phpBB3
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`44`](../src/prosilver/modcp_split.tpl#L44)
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`35`](../src/prosilver/report_view_body.tpl#L35)

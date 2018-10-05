@@ -115,6 +115,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`2`](../src/awesomebb/posting_topic_review.tpl#L2)[`<->`](../src/awesomebb/posting_topic_review.tpl#L2-L19)[`19`](../src/awesomebb/posting_topic_review.tpl#L19)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`114`](../src/awesomebb/viewtopic_body.tpl#L114)[`<->`](../src/awesomebb/viewtopic_body.tpl#L114-L292)[`292`](../src/awesomebb/viewtopic_body.tpl#L292)
+
 ### Version phpBB3
 * __[`posting_topic_review`](../tpl/posting_topic_review.md#readme)__ __:__ lignes [`6`](../src/prosilver/posting_topic_review.tpl#L6)[`<->`](../src/prosilver/posting_topic_review.tpl#L6-L18)[`18`](../src/prosilver/posting_topic_review.tpl#L18)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`127`](../src/prosilver/viewtopic_body.tpl#L127)[`<->`](../src/prosilver/viewtopic_body.tpl#L127-L248)[`248`](../src/prosilver/viewtopic_body.tpl#L248)

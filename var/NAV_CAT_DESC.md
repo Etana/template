@@ -12,6 +12,19 @@ Affiche le fil d’Ariane.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`11`](../src/awesomebb/album_cat_body.tpl#L11)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`8`](../src/awesomebb/album_cat_top10.tpl#L8)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`35`](../src/awesomebb/album_edit_body.tpl#L35)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`8`](../src/awesomebb/album_modcp_body.tpl#L8)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`57`](../src/awesomebb/album_moderate_body.tpl#L57)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`220`](../src/awesomebb/album_showpage_body.tpl#L220)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`5`](../src/awesomebb/modcp_body.tpl#L5)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`5`](../src/awesomebb/modcp_move.tpl#L5)
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`5`](../src/awesomebb/modcp_split.tpl#L5)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`11`](../src/awesomebb/viewforum_body.tpl#L11)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`58`](../src/awesomebb/viewtopic_body.tpl#L58)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/album_cat_body.tpl#L13), [`148`](../src/prosilver/album_cat_body.tpl#L148)
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`7`](../src/prosilver/album_cat_top10.tpl#L7)

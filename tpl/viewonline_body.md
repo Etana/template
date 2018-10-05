@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `viewonline_body`
@@ -50,6 +50,45 @@ Ce template affiche la page `/viewonline`
 	* [`{TOTAL_GUEST_USERS_ONLINE}`](../var/TOTAL_GUEST_USERS_ONLINE.md#readme)
 	* [`{TOTAL_REGISTERED_USERS_ONLINE}`](../var/TOTAL_REGISTERED_USERS_ONLINE.md#readme)
 	* [`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/viewonline_body.tpl#files)
+
+### Positions des variables
+
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`50`](../src/awesomebb/viewonline_body.tpl#L50)
+* __[`{L_FORUM_LOCATION}`](../var/L_FORUM_LOCATION.md#readme)__ __:__ ligne [`20`](../src/awesomebb/viewonline_body.tpl#L20)
+* __[`{L_LAST_UPDATE}`](../var/L_LAST_UPDATE.md#readme)__ __:__ ligne [`19`](../src/awesomebb/viewonline_body.tpl#L19)
+* __[`{L_ONLINE_EXPLAIN}`](../var/L_ONLINE_EXPLAIN.md#readme)__ __:__ ligne [`48`](../src/awesomebb/viewonline_body.tpl#L48)
+* __[`{L_USERNAME}`](../var/L_USERNAME.md#readme)__ __:__ ligne [`18`](../src/awesomebb/viewonline_body.tpl#L18)
+* __[`{TOTAL_GUEST_USERS_ONLINE}`](../var/TOTAL_GUEST_USERS_ONLINE.md#readme)__ __:__ ligne [`11`](../src/awesomebb/viewonline_body.tpl#L11)
+* __[`{TOTAL_REGISTERED_USERS_ONLINE}`](../var/TOTAL_REGISTERED_USERS_ONLINE.md#readme)__ __:__ ligne [`10`](../src/awesomebb/viewonline_body.tpl#L10)
+* __[`<!-- BEGIN bot_user_row -->`](../var/bot_user_row.md#readme)__ __:__ ligne [`31`](../src/awesomebb/viewonline_body.tpl#L31)
+* __[`<!-- END bot_user_row -->`](../var/bot_user_row.md#readme)__ __:__ ligne [`37`](../src/awesomebb/viewonline_body.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.FORUM_LOCATION}`](../var/bot_user_row.FORUM_LOCATION.md#readme)__ __:__ ligne [`35`](../src/awesomebb/viewonline_body.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.LASTUPDATE}`](../var/bot_user_row.LASTUPDATE.md#readme)__ __:__ ligne [`34`](../src/awesomebb/viewonline_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.ROW_CLASS}`](../var/bot_user_row.ROW_CLASS.md#readme)__ __:__ ligne [`32`](../src/awesomebb/viewonline_body.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.USERNAME}`](../var/bot_user_row.USERNAME.md#readme)__ __:__ ligne [`33`](../src/awesomebb/viewonline_body.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{bot_user_row.U_FORUM_LOCATION}`](../var/bot_user_row.U_FORUM_LOCATION.md#readme)__ __:__ ligne [`35`](../src/awesomebb/viewonline_body.tpl#L35)
+* __[`<!-- BEGIN googlemap -->`](../var/googlemap.md#readme)__ __:__ ligne [`1`](../src/awesomebb/viewonline_body.tpl#L1)
+* __[`<!-- END googlemap -->`](../var/googlemap.md#readme)__ __:__ ligne [`8`](../src/awesomebb/viewonline_body.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{googlemap.U_GOOGLEMAP}`](../var/googlemap.U_GOOGLEMAP.md#readme)__ __:__ ligne [`4`](../src/awesomebb/viewonline_body.tpl#L4)
+* __[`<!-- BEGIN guest_user_row -->`](../var/guest_user_row.md#readme)__ __:__ ligne [`38`](../src/awesomebb/viewonline_body.tpl#L38)
+* __[`<!-- END guest_user_row -->`](../var/guest_user_row.md#readme)__ __:__ ligne [`44`](../src/awesomebb/viewonline_body.tpl#L44)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.FORUM_LOCATION}`](../var/guest_user_row.FORUM_LOCATION.md#readme)__ __:__ ligne [`42`](../src/awesomebb/viewonline_body.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.LASTUPDATE}`](../var/guest_user_row.LASTUPDATE.md#readme)__ __:__ ligne [`41`](../src/awesomebb/viewonline_body.tpl#L41)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.ROW_CLASS}`](../var/guest_user_row.ROW_CLASS.md#readme)__ __:__ ligne [`39`](../src/awesomebb/viewonline_body.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.USERNAME}`](../var/guest_user_row.USERNAME.md#readme)__ __:__ ligne [`40`](../src/awesomebb/viewonline_body.tpl#L40)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{guest_user_row.U_FORUM_LOCATION}`](../var/guest_user_row.U_FORUM_LOCATION.md#readme)__ __:__ ligne [`42`](../src/awesomebb/viewonline_body.tpl#L42)
+* __[`<!-- BEGIN reg_user_row -->`](../var/reg_user_row.md#readme)__ __:__ ligne [`24`](../src/awesomebb/viewonline_body.tpl#L24)
+* __[`<!-- END reg_user_row -->`](../var/reg_user_row.md#readme)__ __:__ ligne [`30`](../src/awesomebb/viewonline_body.tpl#L30)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.FORUM_LOCATION}`](../var/reg_user_row.FORUM_LOCATION.md#readme)__ __:__ ligne [`28`](../src/awesomebb/viewonline_body.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.LASTUPDATE}`](../var/reg_user_row.LASTUPDATE.md#readme)__ __:__ ligne [`27`](../src/awesomebb/viewonline_body.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.ROW_CLASS}`](../var/reg_user_row.ROW_CLASS.md#readme)__ __:__ ligne [`25`](../src/awesomebb/viewonline_body.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.USERNAME}`](../var/reg_user_row.USERNAME.md#readme)__ __:__ ligne [`26`](../src/awesomebb/viewonline_body.tpl#L26)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_FORUM_LOCATION}`](../var/reg_user_row.U_FORUM_LOCATION.md#readme)__ __:__ ligne [`28`](../src/awesomebb/viewonline_body.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{reg_user_row.U_USER_PROFILE}`](../var/reg_user_row.U_USER_PROFILE.md#readme)__ __:__ ligne [`26`](../src/awesomebb/viewonline_body.tpl#L26)
 
 ## Template par défaut phpBB3
 

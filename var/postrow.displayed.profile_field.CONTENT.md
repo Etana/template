@@ -18,6 +18,9 @@ document.write(postrow.displayed.profile_field.CONTENT);
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`272`](../src/awesomebb/viewtopic_body.tpl#L272)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`229`](../src/prosilver/viewtopic_body.tpl#L229)
 

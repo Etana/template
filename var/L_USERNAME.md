@@ -15,6 +15,16 @@ Chaîne de caractère.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`66`](../src/awesomebb/groupcp_info_body.tpl#L66)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`5`](../src/awesomebb/groupcp_pending_info.tpl#L5)
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`32`](../src/awesomebb/memberlist_body.tpl#L32)
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`25`](../src/awesomebb/mod_login.tpl#L25), [`64`](../src/awesomebb/mod_login.tpl#L64)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`47`](../src/awesomebb/posting_body.tpl#L47), [`60`](../src/awesomebb/posting_body.tpl#L60)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`15`](../src/awesomebb/profile_add_body.tpl#L15), [`22`](../src/awesomebb/profile_add_body.tpl#L22)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`8`](../src/awesomebb/profile_send_pass.tpl#L8)
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`18`](../src/awesomebb/viewonline_body.tpl#L18)
+
 ### Version phpBB3
 * __[`calendar_overview_profil`](../tpl/calendar_overview_profil.md#readme)__ __:__ lignes [`4`](../src/prosilver/calendar_overview_profil.tpl#L4)
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`52`](../src/prosilver/groupcp_info_body.tpl#L52)

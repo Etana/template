@@ -56,6 +56,10 @@ Boucle d'affichage des résultats de la recherche se répétant pour chaque mess
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`5`](../src/awesomebb/search_results_posts.tpl#L5)[`<->`](../src/awesomebb/search_results_posts.tpl#L5-L26)[`26`](../src/awesomebb/search_results_posts.tpl#L26)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`16`](../src/awesomebb/search_results_topics.tpl#L16)[`<->`](../src/awesomebb/search_results_topics.tpl#L16-L46)[`46`](../src/awesomebb/search_results_topics.tpl#L46)
+
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`5`](../src/prosilver/search_results_posts.tpl#L5)[`<->`](../src/prosilver/search_results_posts.tpl#L5-L26)[`26`](../src/prosilver/search_results_posts.tpl#L26)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`25`](../src/prosilver/search_results_topics.tpl#L25)[`<->`](../src/prosilver/search_results_topics.tpl#L25-L50)[`50`](../src/prosilver/search_results_topics.tpl#L50)

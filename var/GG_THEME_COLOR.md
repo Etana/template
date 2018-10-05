@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`21`](../src/awesomebb/overall_header.tpl#L21)
+
 ### Version Version mobile
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`13`](../src/mobile/overall_header.tpl#L13)
 

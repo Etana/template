@@ -12,6 +12,9 @@ Contient une liste d'option pour la recherche.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`126`](../src/awesomebb/search_body.tpl#L126)
+
 ### Version phpBB3
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`73`](../src/prosilver/search_body.tpl#L73)
 

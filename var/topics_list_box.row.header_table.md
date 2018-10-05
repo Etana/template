@@ -26,6 +26,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`3`](../src/awesomebb/topics_list_box.tpl#L3)[`<->`](../src/awesomebb/topics_list_box.tpl#L3-L59)[`59`](../src/awesomebb/topics_list_box.tpl#L59)
+
 ### Version phpBB3
 * __[`topics_list_box`](../tpl/topics_list_box.md#readme)__ __:__ lignes [`3`](../src/prosilver/topics_list_box.tpl#L3)[`<->`](../src/prosilver/topics_list_box.tpl#L3-L58)[`58`](../src/prosilver/topics_list_box.tpl#L58)
 

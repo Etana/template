@@ -19,6 +19,9 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`11`](../src/awesomebb/confirm_body.tpl#L11)
+
 ### Version phpBB3
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`9`](../src/prosilver/confirm_body.tpl#L9)
 

@@ -22,6 +22,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`10`](../src/awesomebb/mod_login.tpl#L10)[`<->`](../src/awesomebb/mod_login.tpl#L10-L24)[`24`](../src/awesomebb/mod_login.tpl#L24)
+
 ### Version phpBB3
 * __[`mod_login`](../tpl/mod_login.md#readme)__ __:__ lignes [`28`](../src/prosilver/mod_login.tpl#L28)[`<->`](../src/prosilver/mod_login.tpl#L28-L46)[`46`](../src/prosilver/mod_login.tpl#L46)
 

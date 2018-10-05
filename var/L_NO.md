@@ -14,6 +14,13 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`182`](../src/awesomebb/buy_credits.tpl#L182)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`21`](../src/awesomebb/confirm_body.tpl#L21)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`29`](../src/awesomebb/modcp_move.tpl#L29)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`63`](../src/awesomebb/posting_poll_body.tpl#L63), [`81`](../src/awesomebb/posting_poll_body.tpl#L81), [`100`](../src/awesomebb/posting_poll_body.tpl#L100)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`187`](../src/awesomebb/profile_add_body.tpl#L187), [`205`](../src/awesomebb/profile_add_body.tpl#L205), [`272`](../src/awesomebb/profile_add_body.tpl#L272), [`292`](../src/awesomebb/profile_add_body.tpl#L292), [`311`](../src/awesomebb/profile_add_body.tpl#L311), [`329`](../src/awesomebb/profile_add_body.tpl#L329), [`347`](../src/awesomebb/profile_add_body.tpl#L347), [`366`](../src/awesomebb/profile_add_body.tpl#L366), [`392`](../src/awesomebb/profile_add_body.tpl#L392), [`411`](../src/awesomebb/profile_add_body.tpl#L411), [`429`](../src/awesomebb/profile_add_body.tpl#L429), [`447`](../src/awesomebb/profile_add_body.tpl#L447), [`465`](../src/awesomebb/profile_add_body.tpl#L465), [`482`](../src/awesomebb/profile_add_body.tpl#L482), [`499`](../src/awesomebb/profile_add_body.tpl#L499), [`516`](../src/awesomebb/profile_add_body.tpl#L516)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`184`](../src/prosilver/buy_credits.tpl#L184)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/confirm_body.tpl#L13)

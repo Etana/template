@@ -14,6 +14,13 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`177`](../src/awesomebb/buy_credits.tpl#L177)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`17`](../src/awesomebb/confirm_body.tpl#L17)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`28`](../src/awesomebb/modcp_move.tpl#L28)
+* __[`posting_poll_body`](../tpl/posting_poll_body.md#readme)__ __:__ lignes [`56`](../src/awesomebb/posting_poll_body.tpl#L56), [`74`](../src/awesomebb/posting_poll_body.tpl#L74), [`93`](../src/awesomebb/posting_poll_body.tpl#L93)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`164`](../src/awesomebb/profile_add_body.tpl#L164), [`198`](../src/awesomebb/profile_add_body.tpl#L198), [`265`](../src/awesomebb/profile_add_body.tpl#L265), [`285`](../src/awesomebb/profile_add_body.tpl#L285), [`304`](../src/awesomebb/profile_add_body.tpl#L304), [`322`](../src/awesomebb/profile_add_body.tpl#L322), [`340`](../src/awesomebb/profile_add_body.tpl#L340), [`359`](../src/awesomebb/profile_add_body.tpl#L359), [`385`](../src/awesomebb/profile_add_body.tpl#L385), [`404`](../src/awesomebb/profile_add_body.tpl#L404), [`422`](../src/awesomebb/profile_add_body.tpl#L422), [`440`](../src/awesomebb/profile_add_body.tpl#L440), [`458`](../src/awesomebb/profile_add_body.tpl#L458), [`475`](../src/awesomebb/profile_add_body.tpl#L475), [`492`](../src/awesomebb/profile_add_body.tpl#L492), [`509`](../src/awesomebb/profile_add_body.tpl#L509)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`179`](../src/prosilver/buy_credits.tpl#L179)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`12`](../src/prosilver/confirm_body.tpl#L12)

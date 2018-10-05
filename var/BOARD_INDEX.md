@@ -14,6 +14,11 @@ Affiche le contenu du template [`index_box`](../tpl/index_box.md#readme) ou [`in
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`16`](../src/awesomebb/index_body.tpl#L16)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`3`](../src/awesomebb/profile_send_pass.tpl#L3)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`42`](../src/awesomebb/viewforum_body.tpl#L42)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`47`](../src/prosilver/index_body.tpl#L47)
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/viewforum_body.tpl#L6)

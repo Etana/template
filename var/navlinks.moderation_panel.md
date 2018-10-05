@@ -24,6 +24,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`198`](../src/awesomebb/album_cat_body.tpl#L198)[`<->`](../src/awesomebb/album_cat_body.tpl#L198-L202)[`202`](../src/awesomebb/album_cat_body.tpl#L202)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`173`](../src/prosilver/album_cat_body.tpl#L173)[`<->`](../src/prosilver/album_cat_body.tpl#L173-L175)[`175`](../src/prosilver/album_cat_body.tpl#L175)
 

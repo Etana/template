@@ -19,6 +19,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`6`](../src/awesomebb/portal_body.tpl#L6)[`<->`](../src/awesomebb/portal_body.tpl#L6-L8)[`8`](../src/awesomebb/portal_body.tpl#L8)
+
 ### Version phpBB3
 * __[`portal_body`](../tpl/portal_body.md#readme)__ __:__ lignes [`21`](../src/prosilver/portal_body.tpl#L21)[`<->`](../src/prosilver/portal_body.tpl#L21-L26)[`26`](../src/prosilver/portal_body.tpl#L26)
 

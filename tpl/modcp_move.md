@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Modération` > `modcp_move`
@@ -28,6 +28,27 @@
 	* [`{S_MODCP_ACTION}`](../var/S_MODCP_ACTION.md#readme) ([x](https://fa-tvars.appspot.com/var/S_MODCP_ACTION))
 	* [`<!-- BEGIN switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_leave_shadow))
 	* [`<!-- END switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_leave_shadow))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/modcp_move.tpl#files)
+
+### Positions des variables
+
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`4`](../src/awesomebb/modcp_move.tpl#L4)
+* __[`{L_LEAVESHADOW}`](../var/L_LEAVESHADOW.md#readme)__ __:__ ligne [`22`](../src/awesomebb/modcp_move.tpl#L22)
+* __[`{L_MOVE_TO_FORUM}`](../var/L_MOVE_TO_FORUM.md#readme)__ __:__ ligne [`13`](../src/awesomebb/modcp_move.tpl#L13)
+* __[`{L_NO}`](../var/L_NO.md#readme)__ __:__ ligne [`29`](../src/awesomebb/modcp_move.tpl#L29)
+* __[`{L_YES}`](../var/L_YES.md#readme)__ __:__ ligne [`28`](../src/awesomebb/modcp_move.tpl#L28)
+* __[`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme)__ __:__ ligne [`25`](../src/awesomebb/modcp_move.tpl#L25)
+* __[`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme)__ __:__ ligne [`2`](../src/awesomebb/modcp_move.tpl#L2)
+* __[`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)__ __:__ ligne [`5`](../src/awesomebb/modcp_move.tpl#L5)
+* __[`{S_FORUM_SELECT}`](../var/S_FORUM_SELECT.md#readme)__ __:__ ligne [`14`](../src/awesomebb/modcp_move.tpl#L14)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`26`](../src/awesomebb/modcp_move.tpl#L26)
+* __[`{S_MODCP_ACTION}`](../var/S_MODCP_ACTION.md#readme)__ __:__ ligne [`9`](../src/awesomebb/modcp_move.tpl#L9)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`4`](../src/awesomebb/modcp_move.tpl#L4)
+* __[`<!-- BEGIN switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme)__ __:__ ligne [`16`](../src/awesomebb/modcp_move.tpl#L16)
+* __[`<!-- END switch_leave_shadow -->`](../var/switch_leave_shadow.md#readme)__ __:__ ligne [`24`](../src/awesomebb/modcp_move.tpl#L24)
 
 ## Template par défaut phpBB3
 

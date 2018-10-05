@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `calendar_scheduler_body`
@@ -45,6 +45,46 @@
 	* [`{U_CALENDAR_SCHEDULER}`](../var/U_CALENDAR_SCHEDULER.md#readme) ([x](https://fa-tvars.appspot.com/var/U_CALENDAR_SCHEDULER))
 	* [`{U_NEXT}`](../var/U_NEXT.md#readme) ([x](https://fa-tvars.appspot.com/var/U_NEXT))
 	* [`{U_PREC}`](../var/U_PREC.md#readme) ([x](https://fa-tvars.appspot.com/var/U_PREC))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/calendar_scheduler_body.tpl#files)
+
+### Positions des variables
+
+* __[`{ACTION}`](../var/ACTION.md#readme)__ __:__ ligne [`4`](../src/awesomebb/calendar_scheduler_body.tpl#L4)
+* __[`{BIRTHDAY_LIST_SCHEDULER}`](../var/BIRTHDAY_LIST_SCHEDULER.md#readme)__ __:__ ligne [`45`](../src/awesomebb/calendar_scheduler_body.tpl#L45)
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/awesomebb/calendar_scheduler_body.tpl#L2)
+* __[`{EVENT_LIST_SCHEDULER}`](../var/EVENT_LIST_SCHEDULER.md#readme)__ __:__ ligne [`47`](../src/awesomebb/calendar_scheduler_body.tpl#L47)
+* __[`{JUMPBOX}`](../var/JUMPBOX.md#readme)__ __:__ ligne [`55`](../src/awesomebb/calendar_scheduler_body.tpl#L55)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/awesomebb/calendar_scheduler_body.tpl#L1)
+* __[`{L_CALENDAR}`](../var/L_CALENDAR.md#readme)__ __:__ ligne [`39`](../src/awesomebb/calendar_scheduler_body.tpl#L39)
+* __[`{L_CALENDAR}`](../var/L_CALENDAR.md#readme)__ __:__ ligne [`39`](../src/awesomebb/calendar_scheduler_body.tpl#L39)
+* __[`{L_CALENDAR_SCHEDULER}`](../var/L_CALENDAR_SCHEDULER.md#readme)__ __:__ ligne [`6`](../src/awesomebb/calendar_scheduler_body.tpl#L6)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`6`](../src/awesomebb/calendar_scheduler_body.tpl#L6)
+* __[`{NAV_SEPARATOR}`](../var/NAV_SEPARATOR.md#readme)__ __:__ ligne [`6`](../src/awesomebb/calendar_scheduler_body.tpl#L6)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`10`](../src/awesomebb/calendar_scheduler_body.tpl#L10)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`50`](../src/awesomebb/calendar_scheduler_body.tpl#L50)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`52`](../src/awesomebb/calendar_scheduler_body.tpl#L52)
+* __[`{S_MONTH}`](../var/S_MONTH.md#readme)__ __:__ ligne [`20`](../src/awesomebb/calendar_scheduler_body.tpl#L20)
+* __[`{S_YEAR}`](../var/S_YEAR.md#readme)__ __:__ ligne [`20`](../src/awesomebb/calendar_scheduler_body.tpl#L20)
+* __[`{TOPIC_LIST_SCHEDULER}`](../var/TOPIC_LIST_SCHEDULER.md#readme)__ __:__ ligne [`43`](../src/awesomebb/calendar_scheduler_body.tpl#L43)
+* __[`{U_CALENDAR}`](../var/U_CALENDAR.md#readme)__ __:__ ligne [`39`](../src/awesomebb/calendar_scheduler_body.tpl#L39)
+* __[`{U_CALENDAR_SCHEDULER}`](../var/U_CALENDAR_SCHEDULER.md#readme)__ __:__ ligne [`6`](../src/awesomebb/calendar_scheduler_body.tpl#L6)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`6`](../src/awesomebb/calendar_scheduler_body.tpl#L6)
+* __[`{U_NEXT}`](../var/U_NEXT.md#readme)__ __:__ ligne [`21`](../src/awesomebb/calendar_scheduler_body.tpl#L21)
+* __[`{U_PREC}`](../var/U_PREC.md#readme)__ __:__ ligne [`19`](../src/awesomebb/calendar_scheduler_body.tpl#L19)
+* __[`<!-- BEGIN header_cell -->`](../var/header_cell.md#readme)__ __:__ ligne [`27`](../src/awesomebb/calendar_scheduler_body.tpl#L27)
+* __[`<!-- END header_cell -->`](../var/header_cell.md#readme)__ __:__ ligne [`29`](../src/awesomebb/calendar_scheduler_body.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{header_cell.L_DAY}`](../var/header_cell.L_DAY.md#readme)__ __:__ ligne [`28`](../src/awesomebb/calendar_scheduler_body.tpl#L28)
+* __[`<!-- BEGIN row -->`](../var/row.md#readme)__ __:__ ligne [`31`](../src/awesomebb/calendar_scheduler_body.tpl#L31)
+* __[`<!-- END row -->`](../var/row.md#readme)__ __:__ ligne [`37`](../src/awesomebb/calendar_scheduler_body.tpl#L37)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN cell -->`](../var/row.cell.md#readme)__ __:__ ligne [`33`](../src/awesomebb/calendar_scheduler_body.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END cell -->`](../var/row.cell.md#readme)__ __:__ ligne [`35`](../src/awesomebb/calendar_scheduler_body.tpl#L35)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{row.cell.CLASS_NEW}`](../var/row.cell.CLASS_NEW.md#readme)__ __:__ ligne [`34`](../src/awesomebb/calendar_scheduler_body.tpl#L34)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{row.cell.DAY}`](../var/row.cell.DAY.md#readme)__ __:__ ligne [`34`](../src/awesomebb/calendar_scheduler_body.tpl#L34)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/awesomebb/calendar_scheduler_body.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/awesomebb/calendar_scheduler_body.tpl#L1)
 
 ## Template par défaut phpBB3
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `poll_result`
@@ -25,6 +25,22 @@
 	* [`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme) ([x](https://fa-tvars.appspot.com/var/TOTAL_VOTES))
 	* [`{VOTE_LCAP_IMG}`](../var/VOTE_LCAP_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/VOTE_LCAP_IMG))
 	* [`{VOTE_RCAP_IMG}`](../var/VOTE_RCAP_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/VOTE_RCAP_IMG))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/poll_result.tpl#files)
+
+### Positions des variables
+
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme)__ __:__ ligne [`13`](../src/awesomebb/poll_result.tpl#L13)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme)__ __:__ ligne [`2`](../src/awesomebb/poll_result.tpl#L2)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme)__ __:__ ligne [`13`](../src/awesomebb/poll_result.tpl#L13)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`4`](../src/awesomebb/poll_result.tpl#L4)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`10`](../src/awesomebb/poll_result.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)__ __:__ ligne [`6`](../src/awesomebb/poll_result.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`7`](../src/awesomebb/poll_result.tpl#L7)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`8`](../src/awesomebb/poll_result.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__ __:__ ligne [`7`](../src/awesomebb/poll_result.tpl#L7)
 
 ## Template par défaut phpBB3
 

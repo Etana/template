@@ -18,6 +18,10 @@ Code html de l'image `Revenir en haut` spécifiée dans [`Index`](http://votre-f
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`56`](../src/awesomebb/birthday_list_box.tpl#L56)
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`26`](../src/awesomebb/faq_body.tpl#L26)
+
 ### Version phpBB3
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`54`](../src/prosilver/birthday_list_box.tpl#L54)
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`28`](../src/prosilver/faq_body.tpl#L28)

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_keywords`
@@ -19,6 +19,19 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme) ([x](https://fa-tvars.appspot.com/var/li_row.KEYWORDS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme) ([x](https://fa-tvars.appspot.com/var/li_row.LINKEYWORDS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme) ([x](https://fa-tvars.appspot.com/var/li_row.SIZE))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_keywords.tpl#files)
+
+### Positions des variables
+
+* __[`{L_KEYWORDS}`](../var/L_KEYWORDS.md#readme)__ __:__ ligne [`4`](../src/awesomebb/mod_keywords.tpl#L4)
+* __[`<!-- BEGIN li_row -->`](../var/li_row.md#readme)__ __:__ ligne [`7`](../src/awesomebb/mod_keywords.tpl#L7)
+* __[`<!-- END li_row -->`](../var/li_row.md#readme)__ __:__ ligne [`9`](../src/awesomebb/mod_keywords.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.KEYWORDS}`](../var/li_row.KEYWORDS.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_keywords.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.LINKEYWORDS}`](../var/li_row.LINKEYWORDS.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_keywords.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{li_row.SIZE}`](../var/li_row.SIZE.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_keywords.tpl#L8)
 
 ## Template par défaut phpBB3
 

@@ -23,6 +23,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`25`](../src/awesomebb/profile_avatar_gallery.tpl#L25)[`<->`](../src/awesomebb/profile_avatar_gallery.tpl#L25-L38)[`38`](../src/awesomebb/profile_avatar_gallery.tpl#L38)
+
 ### Version phpBB3
 * __[`profile_avatar_gallery`](../tpl/profile_avatar_gallery.md#readme)__ __:__ lignes [`10`](../src/prosilver/profile_avatar_gallery.tpl#L10)[`<->`](../src/prosilver/profile_avatar_gallery.tpl#L10-L17)[`17`](../src/prosilver/profile_avatar_gallery.tpl#L17)
 

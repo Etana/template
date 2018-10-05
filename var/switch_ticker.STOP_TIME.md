@@ -14,6 +14,9 @@ Contient le temps d'arrêt des annonces défini dans `PA > Général > Messages 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`53`](../src/awesomebb/overall_header.tpl#L53)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`109`](../src/prosilver/overall_header.tpl#L109), [`144`](../src/prosilver/overall_header.tpl#L144)
 

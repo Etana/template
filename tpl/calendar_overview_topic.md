@@ -1,8 +1,8 @@
-# Template calendar_overview_topic (x 9)
+# Template calendar_overview_topic (x 10)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `calendar_overview_topic`
@@ -23,8 +23,19 @@
 	* [`{L_TOPIC_DATE}`](../var/L_TOPIC_DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TOPIC_DATE))
 	* [`{MESSAGE}`](../var/MESSAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/MESSAGE))
 	* [`{NAV_DESC}`](../var/NAV_DESC.md#readme) ([x](https://fa-tvars.appspot.com/var/NAV_DESC))
+	* [`<!-- BEGIN spacer -->`](../var/spacer.md#readme) ([x](https://fa-tvars.appspot.com/var/spacer))
+	* [`<!-- END spacer -->`](../var/spacer.md#readme) ([x](https://fa-tvars.appspot.com/var/spacer))
 	* [`{TOPIC_DATE}`](../var/TOPIC_DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/TOPIC_DATE))
 	* [`{TOPIC_TITLE}`](../var/TOPIC_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/TOPIC_TITLE))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/calendar_overview_topic.tpl#files)
+
+### Positions des variables
+
+* __[`<!-- BEGIN spacer -->`](../var/spacer.md#readme)__ __:__ ligne [`1`](../src/awesomebb/calendar_overview_topic.tpl#L1)
+* __[`<!-- END spacer -->`](../var/spacer.md#readme)__ __:__ ligne [`1`](../src/awesomebb/calendar_overview_topic.tpl#L1)
 
 ## Template par défaut phpBB3
 

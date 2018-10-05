@@ -15,6 +15,14 @@ Chaîne de caractère.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`39`](../src/awesomebb/album_formsearch_body.tpl#L39)
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`22`](../src/awesomebb/merge_body.tpl#L22)
+* __[`mod_search`](../tpl/mod_search.md#readme)__ __:__ lignes [`4`](../src/awesomebb/mod_search.tpl#L4), [`10`](../src/awesomebb/mod_search.tpl#L10)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`119`](../src/awesomebb/overall_header.tpl#L119)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`31`](../src/awesomebb/search_body.tpl#L31), [`149`](../src/awesomebb/search_body.tpl#L149)
+* __[`search_username`](../tpl/search_username.md#readme)__ __:__ lignes [`15`](../src/awesomebb/search_username.tpl#L15)
+
 ### Version phpBB3
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`39`](../src/prosilver/album_formsearch_body.tpl#L39)
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`25`](../src/prosilver/merge_body.tpl#L25)

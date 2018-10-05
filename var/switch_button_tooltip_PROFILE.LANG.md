@@ -14,6 +14,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`18`](../src/awesomebb/mentions_tooltip.tpl#L18), [`19`](../src/awesomebb/mentions_tooltip.tpl#L19)
+
 ### Version phpBB3
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`71`](../src/prosilver/mentions_tooltip.tpl#L71), [`72`](../src/prosilver/mentions_tooltip.tpl#L72)
 

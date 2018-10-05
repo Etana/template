@@ -17,6 +17,9 @@ Le contenu de la boucle est affiché si le visiteur est un invité. Elle gère l
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`45`](../src/awesomebb/posting_body.tpl#L45)[`<->`](../src/awesomebb/posting_body.tpl#L45-L50)[`50`](../src/awesomebb/posting_body.tpl#L50)
+
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`51`](../src/prosilver/posting_body.tpl#L51)[`<->`](../src/prosilver/posting_body.tpl#L51-L56)[`56`](../src/prosilver/posting_body.tpl#L56)
 

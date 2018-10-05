@@ -13,6 +13,11 @@ Remplacé par l'adresse absolue `/search?mode=searchuser` d'une page de recherch
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`157`](../src/awesomebb/groupcp_info_body.tpl#L157)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`438`](../src/awesomebb/posting_body.tpl#L438)
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`129`](../src/prosilver/groupcp_info_body.tpl#L129)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

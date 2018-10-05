@@ -14,6 +14,9 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`27`](../src/awesomebb/report_view_body.tpl#L27)
+
 ### Version phpBB3
 * __[`calendar_overview_topic`](../tpl/calendar_overview_topic.md#readme)__ __:__ lignes [`5`](../src/prosilver/calendar_overview_topic.tpl#L5)
 * __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`36`](../src/prosilver/report_view_body.tpl#L36)

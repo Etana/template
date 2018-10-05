@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`27`](../src/awesomebb/overall_header.tpl#L27)[`<->`](../src/awesomebb/overall_header.tpl#L27-L31)[`31`](../src/awesomebb/overall_header.tpl#L31)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`23`](../src/prosilver/overall_header.tpl#L23)[`<->`](../src/prosilver/overall_header.tpl#L23-L27)[`27`](../src/prosilver/overall_header.tpl#L27)
 

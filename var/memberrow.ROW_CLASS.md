@@ -14,6 +14,9 @@ Affiche en alternance la class "row1" et "row2".
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`46`](../src/awesomebb/memberlist_body.tpl#L46)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`44`](../src/prosilver/memberlist_body.tpl#L44)
 

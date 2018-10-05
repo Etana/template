@@ -1,8 +1,8 @@
-# Template agreement (x 2)
+# Template agreement (x 3)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `agreement`
@@ -27,11 +27,30 @@ Ce template touche la partie s'enregistrer de votre forum : `/register`
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{message_admin_index.message_admin_txt.MES_TXT}`](../var/message_admin_index.message_admin_txt.MES_TXT.md#readme)
 	* [`{MY_RULES}`](../var/MY_RULES.md#readme)
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
+	* [`{PATH_IMG_FA}`](../var/PATH_IMG_FA.md#readme) ([x](https://fa-tvars.appspot.com/var/PATH_IMG_FA))
 	* [`{REGISTRATION}`](../var/REGISTRATION.md#readme)
 	* [`<!-- BEGIN switch_fb_explain -->`](../var/switch_fb_explain.md#readme)
 	* [`<!-- END switch_fb_explain -->`](../var/switch_fb_explain.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_explain.FB_EXPLAIN}`](../var/switch_fb_explain.FB_EXPLAIN.md#readme)
 	* [`{U_AGREE_OVER13}`](../var/U_AGREE_OVER13.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/agreement.tpl#files)
+
+### Positions des variables
+
+* __[`{AGREEMENT}`](../var/AGREEMENT.md#readme)__ __:__ ligne [`10`](../src/awesomebb/agreement.tpl#L10)
+* __[`{AGREE_CONDITIONS}`](../var/AGREE_CONDITIONS.md#readme)__ __:__ ligne [`23`](../src/awesomebb/agreement.tpl#L23)
+* __[`{AGREE_OVER_13}`](../var/AGREE_OVER_13.md#readme)__ __:__ ligne [`37`](../src/awesomebb/agreement.tpl#L37)
+* __[`{AGREE_OVER_13}`](../var/AGREE_OVER_13.md#readme)__ __:__ ligne [`39`](../src/awesomebb/agreement.tpl#L39)
+* __[`{AGREE_PRIVACY}`](../var/AGREE_PRIVACY.md#readme)__ __:__ ligne [`31`](../src/awesomebb/agreement.tpl#L31)
+* __[`{MY_RULES}`](../var/MY_RULES.md#readme)__ __:__ ligne [`12`](../src/awesomebb/agreement.tpl#L12)
+* __[`{PATH_IMG_FA}`](../var/PATH_IMG_FA.md#readme)__ __:__ ligne [`4`](../src/awesomebb/agreement.tpl#L4)
+* __[`{U_AGREE_OVER13}`](../var/U_AGREE_OVER13.md#readme)__ __:__ ligne [`2`](../src/awesomebb/agreement.tpl#L2)
+* __[`<!-- BEGIN switch_fb_explain -->`](../var/switch_fb_explain.md#readme)__ __:__ ligne [`3`](../src/awesomebb/agreement.tpl#L3)
+* __[`<!-- END switch_fb_explain -->`](../var/switch_fb_explain.md#readme)__ __:__ ligne [`6`](../src/awesomebb/agreement.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_fb_explain.FB_EXPLAIN}`](../var/switch_fb_explain.FB_EXPLAIN.md#readme)__ __:__ ligne [`5`](../src/awesomebb/agreement.tpl#L5)
 
 ## Template par défaut phpBB3
 

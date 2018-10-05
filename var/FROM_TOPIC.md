@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`19`](../src/awesomebb/merge_body.tpl#L19)
+
 ### Version phpBB3
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`23`](../src/prosilver/merge_body.tpl#L23)
 

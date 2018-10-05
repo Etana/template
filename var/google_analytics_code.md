@@ -18,6 +18,9 @@ Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`63`](../src/awesomebb/overall_header.tpl#L63)[`<->`](../src/awesomebb/overall_header.tpl#L63-L82)[`82`](../src/awesomebb/overall_header.tpl#L82)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`194`](../src/prosilver/overall_header.tpl#L194)[`<->`](../src/prosilver/overall_header.tpl#L194-L213)[`213`](../src/prosilver/overall_header.tpl#L213)
 

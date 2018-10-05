@@ -25,6 +25,15 @@ Le contenu de la boucle est affiché si l'utilisateur est connecté.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/album_formsearch_body.tpl#L1)[`<->`](../src/awesomebb/album_formsearch_body.tpl#L1-L1)[`1`](../src/awesomebb/album_formsearch_body.tpl#L1)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/album_search_body.tpl#L2)[`<->`](../src/awesomebb/album_search_body.tpl#L2-L2)[`2`](../src/awesomebb/album_search_body.tpl#L2)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/calendar_scheduler_body.tpl#L1)[`<->`](../src/awesomebb/calendar_scheduler_body.tpl#L1-L1)[`1`](../src/awesomebb/calendar_scheduler_body.tpl#L1)
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`2`](../src/awesomebb/index_box.tpl#L2)[`<->`](../src/awesomebb/index_box.tpl#L2-L13)[`13`](../src/awesomebb/index_box.tpl#L13), [`19`](../src/awesomebb/index_box.tpl#L19)[`<->`](../src/awesomebb/index_box.tpl#L19-L25)[`25`](../src/awesomebb/index_box.tpl#L25)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`114`](../src/awesomebb/overall_header.tpl#L114)[`<->`](../src/awesomebb/overall_header.tpl#L114-L117)[`117`](../src/awesomebb/overall_header.tpl#L117)
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`32`](../src/awesomebb/viewforum_body.tpl#L32)[`<->`](../src/awesomebb/viewforum_body.tpl#L32-L36)[`36`](../src/awesomebb/viewforum_body.tpl#L36)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`304`](../src/awesomebb/viewtopic_body.tpl#L304)[`<->`](../src/awesomebb/viewtopic_body.tpl#L304-L308)[`308`](../src/awesomebb/viewtopic_body.tpl#L308)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`1`](../src/prosilver/agreement.tpl#L1)[`<->`](../src/prosilver/agreement.tpl#L1-L1)[`1`](../src/prosilver/agreement.tpl#L1)
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`2`](../src/prosilver/album_cat_body.tpl#L2)[`<->`](../src/prosilver/album_cat_body.tpl#L2-L2)[`2`](../src/prosilver/album_cat_body.tpl#L2)

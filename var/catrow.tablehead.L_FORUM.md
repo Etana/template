@@ -18,6 +18,9 @@ Affichage du titre de la catégorie ou du forum
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`34`](../src/awesomebb/index_box.tpl#L34)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`19`](../src/prosilver/index_box.tpl#L19)
 

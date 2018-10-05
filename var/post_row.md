@@ -48,6 +48,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/awesomebb/mod_news.tpl#L1)[`<->`](../src/awesomebb/mod_news.tpl#L1-L54)[`54`](../src/awesomebb/mod_news.tpl#L54)
+
 ### Version phpBB3
 * __[`mod_news`](../tpl/mod_news.md#readme)__ __:__ lignes [`1`](../src/prosilver/mod_news.tpl#L1)[`<->`](../src/prosilver/mod_news.tpl#L1-L58)[`58`](../src/prosilver/mod_news.tpl#L58)
 

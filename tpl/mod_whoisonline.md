@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_whoisonline`
@@ -18,6 +18,21 @@
 	* [`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_onlinelink))
 	* [`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_onlinelink))
 	* [`{TOTAL_USERS_ONLINE}`](../var/TOTAL_USERS_ONLINE.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_whoisonline.tpl#files)
+
+### Positions des variables
+
+* __[`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)__ __:__ ligne [`8`](../src/awesomebb/mod_whoisonline.tpl#L8)
+* __[`{L_VIEW_COMPLETE_LIST}`](../var/L_VIEW_COMPLETE_LIST.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_whoisonline.tpl#L10)
+* __[`{L_WHO_IS_ONLINE}`](../var/L_WHO_IS_ONLINE.md#readme)__ __:__ ligne [`4`](../src/awesomebb/mod_whoisonline.tpl#L4)
+* __[`{RECORD_USERS}`](../var/RECORD_USERS.md#readme)__ __:__ ligne [`14`](../src/awesomebb/mod_whoisonline.tpl#L14)
+* __[`{TOTAL_USERS_ONLINE}`](../var/TOTAL_USERS_ONLINE.md#readme)__ __:__ ligne [`7`](../src/awesomebb/mod_whoisonline.tpl#L7)
+* __[`{U_VIEWONLINE}`](../var/U_VIEWONLINE.md#readme)__ __:__ ligne [`10`](../src/awesomebb/mod_whoisonline.tpl#L10)
+* __[`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme)__ __:__ ligne [`9`](../src/awesomebb/mod_whoisonline.tpl#L9)
+* __[`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme)__ __:__ ligne [`11`](../src/awesomebb/mod_whoisonline.tpl#L11)
 
 ## Template par défaut phpBB3
 

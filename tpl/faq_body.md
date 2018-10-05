@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `faq_body`
@@ -45,6 +45,36 @@ Ce template touche la Foire Aux Questions de votre forum si le JavaScript n'est 
 	* [`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)
 	* [`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)
 	* [`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/faq_body.tpl#files)
+
+### Positions des variables
+
+* __[`{L_BACK_TO_TOP}`](../var/L_BACK_TO_TOP.md#readme)__ __:__ ligne [`26`](../src/awesomebb/faq_body.tpl#L26)
+* __[`{L_BACK_TO_TOP_TEXT}`](../var/L_BACK_TO_TOP_TEXT.md#readme)__ __:__ ligne [`26`](../src/awesomebb/faq_body.tpl#L26)
+* __[`{L_FAQ_TITLE}`](../var/L_FAQ_TITLE.md#readme)__ __:__ ligne [`2`](../src/awesomebb/faq_body.tpl#L2)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`34`](../src/awesomebb/faq_body.tpl#L34)
+* __[`{L_JUMP_TO}`](../var/L_JUMP_TO.md#readme)__ __:__ ligne [`34`](../src/awesomebb/faq_body.tpl#L34)
+* __[`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)__ __:__ ligne [`33`](../src/awesomebb/faq_body.tpl#L33)
+* __[`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)__ __:__ ligne [`34`](../src/awesomebb/faq_body.tpl#L34)
+* __[`<!-- BEGIN faq_block -->`](../var/faq_block.md#readme)__ __:__ ligne [`16`](../src/awesomebb/faq_body.tpl#L16)
+* __[`<!-- END faq_block -->`](../var/faq_block.md#readme)__ __:__ ligne [`31`](../src/awesomebb/faq_body.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.BLOCK_TITLE}`](../var/faq_block.BLOCK_TITLE.md#readme)__ __:__ ligne [`19`](../src/awesomebb/faq_body.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.ROW_CLASS_NEW}`](../var/faq_block.ROW_CLASS_NEW.md#readme)__ __:__ ligne [`17`](../src/awesomebb/faq_body.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row -->`](../var/faq_block.faq_row.md#readme)__ __:__ ligne [`22`](../src/awesomebb/faq_body.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row -->`](../var/faq_block.faq_row.md#readme)__ __:__ ligne [`28`](../src/awesomebb/faq_body.tpl#L28)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_ANSWER}`](../var/faq_block.faq_row.FAQ_ANSWER.md#readme)__ __:__ ligne [`25`](../src/awesomebb/faq_body.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.FAQ_QUESTION}`](../var/faq_block.faq_row.FAQ_QUESTION.md#readme)__ __:__ ligne [`24`](../src/awesomebb/faq_body.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block.faq_row.U_FAQ_ID}`](../var/faq_block.faq_row.U_FAQ_ID.md#readme)__ __:__ ligne [`24`](../src/awesomebb/faq_body.tpl#L24)
+* __[`<!-- BEGIN faq_block_link -->`](../var/faq_block_link.md#readme)__ __:__ ligne [`5`](../src/awesomebb/faq_body.tpl#L5)
+* __[`<!-- END faq_block_link -->`](../var/faq_block_link.md#readme)__ __:__ ligne [`14`](../src/awesomebb/faq_body.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block_link.BLOCK_TITLE}`](../var/faq_block_link.BLOCK_TITLE.md#readme)__ __:__ ligne [`8`](../src/awesomebb/faq_body.tpl#L8)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN faq_row_link -->`](../var/faq_block_link.faq_row_link.md#readme)__ __:__ ligne [`9`](../src/awesomebb/faq_body.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END faq_row_link -->`](../var/faq_block_link.faq_row_link.md#readme)__ __:__ ligne [`11`](../src/awesomebb/faq_body.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block_link.faq_row_link.FAQ_LINK}`](../var/faq_block_link.faq_row_link.FAQ_LINK.md#readme)__ __:__ ligne [`10`](../src/awesomebb/faq_body.tpl#L10)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{faq_block_link.faq_row_link.U_FAQ_LINK}`](../var/faq_block_link.faq_row_link.U_FAQ_LINK.md#readme)__ __:__ ligne [`10`](../src/awesomebb/faq_body.tpl#L10)
 
 ## Template par défaut phpBB3
 

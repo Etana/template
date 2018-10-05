@@ -14,6 +14,10 @@ Remplacé par le nom du sous-forum dans lequel on se trouve.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/viewforum_body.tpl#L2)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/viewforum_body.tpl#L4)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes 

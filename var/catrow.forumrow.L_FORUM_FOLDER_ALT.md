@@ -16,6 +16,9 @@ Contient l'information (alt) sur l'ic√¥ne du forum correspondant au forum boucl√
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`53`](../src/awesomebb/index_box.tpl#L53)
+
 ### Version phpBB2
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`49`](../src/subsilver/index_box.tpl#L49), [`49`](../src/subsilver/index_box.tpl#L49)
 

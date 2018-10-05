@@ -18,6 +18,9 @@ Le contenu de la boucle est affiché si Facebook Connect est activé dans `PA > 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`3`](../src/awesomebb/agreement.tpl#L3)[`<->`](../src/awesomebb/agreement.tpl#L3-L6)[`6`](../src/awesomebb/agreement.tpl#L6)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`5`](../src/prosilver/agreement.tpl#L5)[`<->`](../src/prosilver/agreement.tpl#L5-L14)[`14`](../src/prosilver/agreement.tpl#L14)
 

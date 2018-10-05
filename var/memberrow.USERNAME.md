@@ -14,6 +14,9 @@ Contient le nom d'utilisateur du membre.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`50`](../src/awesomebb/memberlist_body.tpl#L50)
+
 ### Version phpBB3
 * __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`46`](../src/prosilver/memberlist_body.tpl#L46)
 

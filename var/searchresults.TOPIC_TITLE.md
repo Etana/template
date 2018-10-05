@@ -14,6 +14,10 @@ Contient le titre du sujet dans lequel le message est posté.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`10`](../src/awesomebb/search_results_posts.tpl#L10), [`20`](../src/awesomebb/search_results_posts.tpl#L20)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`26`](../src/awesomebb/search_results_topics.tpl#L26)
+
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`10`](../src/prosilver/search_results_posts.tpl#L10), [`19`](../src/prosilver/search_results_posts.tpl#L19)
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`32`](../src/prosilver/search_results_topics.tpl#L32)

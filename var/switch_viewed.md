@@ -18,6 +18,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`18`](../src/awesomebb/album_overview_top10.tpl#L18)[`<->`](../src/awesomebb/album_overview_top10.tpl#L18-L20)[`20`](../src/awesomebb/album_overview_top10.tpl#L20)
+
 ### Version phpBB3
 * __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`18`](../src/prosilver/album_overview_top10.tpl#L18)[`<->`](../src/prosilver/album_overview_top10.tpl#L18-L20)[`20`](../src/prosilver/album_overview_top10.tpl#L20)
 

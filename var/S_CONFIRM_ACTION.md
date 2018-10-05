@@ -14,6 +14,10 @@ Action du formulaire de confirmation.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`172`](../src/awesomebb/buy_credits.tpl#L172)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`9`](../src/awesomebb/confirm_body.tpl#L9)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`174`](../src/prosilver/buy_credits.tpl#L174)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`7`](../src/prosilver/confirm_body.tpl#L7)

@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`3`](../src/awesomebb/profile_edit_signature.tpl#L3)[`<->`](../src/awesomebb/profile_edit_signature.tpl#L3-L9)[`9`](../src/awesomebb/profile_edit_signature.tpl#L9)
+
 ### Version phpBB3
 * __[`profile_edit_signature`](../tpl/profile_edit_signature.md#readme)__ __:__ lignes [`1`](../src/prosilver/profile_edit_signature.tpl#L1)[`<->`](../src/prosilver/profile_edit_signature.tpl#L1-L8)[`8`](../src/prosilver/profile_edit_signature.tpl#L8)
 

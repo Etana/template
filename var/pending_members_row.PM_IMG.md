@@ -20,6 +20,9 @@ Image `Message Privé` ( choisie dans [`Index`](http://votre-forum.appspot.com/#
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`19`](../src/awesomebb/groupcp_pending_info.tpl#L19)
+
 ### Version phpBB3
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`21`](../src/prosilver/groupcp_pending_info.tpl#L21)
 

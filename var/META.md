@@ -12,6 +12,10 @@ Contient les différentes balises META de votre forum.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`14`](../src/awesomebb/overall_header.tpl#L14)
+* __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`8`](../src/awesomebb/simple_header.tpl#L8)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`15`](../src/prosilver/overall_header.tpl#L15)
 * __[`simple_header`](../tpl/simple_header.md#readme)__ __:__ lignes [`8`](../src/prosilver/simple_header.tpl#L8)

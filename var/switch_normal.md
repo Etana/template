@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`63`](../src/awesomebb/modcp_body.tpl#L63)[`<->`](../src/awesomebb/modcp_body.tpl#L63-L64)[`64`](../src/awesomebb/modcp_body.tpl#L64)
+
 ### Version phpBB3
 * __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`53`](../src/prosilver/modcp_body.tpl#L53)[`<->`](../src/prosilver/modcp_body.tpl#L53-L53)[`53`](../src/prosilver/modcp_body.tpl#L53)
 

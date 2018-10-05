@@ -22,6 +22,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`83`](../src/awesomebb/posting_body.tpl#L83)[`<->`](../src/awesomebb/posting_body.tpl#L83-L100)[`100`](../src/awesomebb/posting_body.tpl#L100)
+
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`90`](../src/prosilver/posting_body.tpl#L90)[`<->`](../src/prosilver/posting_body.tpl#L90-L101)[`101`](../src/prosilver/posting_body.tpl#L101)
 

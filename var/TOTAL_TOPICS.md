@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`10`](../src/awesomebb/mod_statistics.tpl#L10)
+
 ### Version phpBB3
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_statistics.tpl#L6)
 

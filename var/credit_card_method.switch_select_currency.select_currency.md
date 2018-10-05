@@ -24,6 +24,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`101`](../src/awesomebb/buy_credits.tpl#L101)[`<->`](../src/awesomebb/buy_credits.tpl#L101-L105)[`105`](../src/awesomebb/buy_credits.tpl#L105)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`107`](../src/prosilver/buy_credits.tpl#L107)[`<->`](../src/prosilver/buy_credits.tpl#L107-L109)[`109`](../src/prosilver/buy_credits.tpl#L109)
 

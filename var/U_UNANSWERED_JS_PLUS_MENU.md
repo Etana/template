@@ -12,6 +12,10 @@ Lien vers "Voir les messages sans réponses" dans le menu Plus !
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`25`](../src/awesomebb/viewforum_body.tpl#L25)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`74`](../src/awesomebb/viewtopic_body.tpl#L74)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`15`](../src/prosilver/viewforum_body.tpl#L15)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`94`](../src/prosilver/viewtopic_body.tpl#L94)

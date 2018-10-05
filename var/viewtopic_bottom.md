@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`332`](../src/awesomebb/viewtopic_body.tpl#L332)[`<->`](../src/awesomebb/viewtopic_body.tpl#L332-L347)[`347`](../src/awesomebb/viewtopic_body.tpl#L347)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`352`](../src/prosilver/viewtopic_body.tpl#L352)[`<->`](../src/prosilver/viewtopic_body.tpl#L352-L366)[`366`](../src/prosilver/viewtopic_body.tpl#L366)
 

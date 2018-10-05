@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Général` > `search_username`
@@ -24,6 +24,25 @@
 	* [`<!-- BEGIN switch_select_name -->`](../var/switch_select_name.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_select_name))
 	* [`<!-- END switch_select_name -->`](../var/switch_select_name.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_select_name))
 	* [`{USERNAME}`](../var/USERNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/USERNAME))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/search_username.tpl#files)
+
+### Positions des variables
+
+* __[`{L_CLOSE_WINDOW}`](../var/L_CLOSE_WINDOW.md#readme)__ __:__ ligne [`24`](../src/awesomebb/search_username.tpl#L24)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`15`](../src/awesomebb/search_username.tpl#L15)
+* __[`{L_SEARCH_EXPLAIN}`](../var/L_SEARCH_EXPLAIN.md#readme)__ __:__ ligne [`17`](../src/awesomebb/search_username.tpl#L17)
+* __[`{L_SEARCH_USERNAME}`](../var/L_SEARCH_USERNAME.md#readme)__ __:__ ligne [`9`](../src/awesomebb/search_username.tpl#L9)
+* __[`{L_SELECT}`](../var/L_SELECT.md#readme)__ __:__ ligne [`22`](../src/awesomebb/search_username.tpl#L22)
+* __[`{S_SEARCH_ACTION}`](../var/S_SEARCH_ACTION.md#readme)__ __:__ ligne [`8`](../src/awesomebb/search_username.tpl#L8)
+* __[`{S_USERNAME_OPTIONS}`](../var/S_USERNAME_OPTIONS.md#readme)__ __:__ ligne [`20`](../src/awesomebb/search_username.tpl#L20)
+* __[`{USERNAME}`](../var/USERNAME.md#readme)__ __:__ ligne [`14`](../src/awesomebb/search_username.tpl#L14)
+* __[`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`1`](../src/awesomebb/search_username.tpl#L1)
+* __[`<!-- END html_validation -->`](../var/html_validation.md#readme)__ __:__ ligne [`5`](../src/awesomebb/search_username.tpl#L5)
+* __[`<!-- BEGIN switch_select_name -->`](../var/switch_select_name.md#readme)__ __:__ ligne [`18`](../src/awesomebb/search_username.tpl#L18)
+* __[`<!-- END switch_select_name -->`](../var/switch_select_name.md#readme)__ __:__ ligne [`23`](../src/awesomebb/search_username.tpl#L23)
 
 ## Template par défaut phpBB3
 

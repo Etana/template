@@ -12,6 +12,10 @@ Lien vers "Voir ses messages" dans le menu Plus !
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`24`](../src/awesomebb/viewforum_body.tpl#L24)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`73`](../src/awesomebb/viewtopic_body.tpl#L73)
+
 ### Version phpBB3
 * __[`viewforum_body`](../tpl/viewforum_body.md#readme)__ __:__ lignes [`14`](../src/prosilver/viewforum_body.tpl#L14)
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`93`](../src/prosilver/viewtopic_body.tpl#L93)

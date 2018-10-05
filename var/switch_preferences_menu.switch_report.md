@@ -22,6 +22,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`432`](../src/awesomebb/profile_add_body.tpl#L432)[`<->`](../src/awesomebb/profile_add_body.tpl#L432-L450)[`450`](../src/awesomebb/profile_add_body.tpl#L450)
+
 ### Version phpBB3
 * __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`304`](../src/prosilver/profile_add_body.tpl#L304)[`<->`](../src/prosilver/profile_add_body.tpl#L304-L312)[`312`](../src/prosilver/profile_add_body.tpl#L312)
 

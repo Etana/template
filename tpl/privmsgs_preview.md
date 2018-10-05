@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Poster & Messages Privés` > `privmsgs_preview`
@@ -24,6 +24,21 @@
 	* [`{MESSAGE_TO}`](../var/MESSAGE_TO.md#readme) ([x](https://fa-tvars.appspot.com/var/MESSAGE_TO))
 	* [`{POST_DATE}`](../var/POST_DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/POST_DATE))
 	* [`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme) ([x](https://fa-tvars.appspot.com/var/POST_SUBJECT))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/privmsgs_preview.tpl#files)
+
+### Positions des variables
+
+* __[`{L_FROM}`](../var/L_FROM.md#readme)__ __:__ ligne [`11`](../src/awesomebb/privmsgs_preview.tpl#L11)
+* __[`{L_PREVIEW}`](../var/L_PREVIEW.md#readme)__ __:__ ligne [`3`](../src/awesomebb/privmsgs_preview.tpl#L3)
+* __[`{L_TO}`](../var/L_TO.md#readme)__ __:__ ligne [`11`](../src/awesomebb/privmsgs_preview.tpl#L11)
+* __[`{MESSAGE_FROM}`](../var/MESSAGE_FROM.md#readme)__ __:__ ligne [`11`](../src/awesomebb/privmsgs_preview.tpl#L11)
+* __[`{MESSAGE_NEW}`](../var/MESSAGE_NEW.md#readme)__ __:__ ligne [`8`](../src/awesomebb/privmsgs_preview.tpl#L8)
+* __[`{MESSAGE_TO}`](../var/MESSAGE_TO.md#readme)__ __:__ ligne [`11`](../src/awesomebb/privmsgs_preview.tpl#L11)
+* __[`{POST_DATE}`](../var/POST_DATE.md#readme)__ __:__ ligne [`11`](../src/awesomebb/privmsgs_preview.tpl#L11)
+* __[`{POST_SUBJECT}`](../var/POST_SUBJECT.md#readme)__ __:__ ligne [`6`](../src/awesomebb/privmsgs_preview.tpl#L6)
 
 ## Template par défaut phpBB3
 

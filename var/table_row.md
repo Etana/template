@@ -18,6 +18,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`2`](../src/awesomebb/standard.tpl#L2)[`<->`](../src/awesomebb/standard.tpl#L2-L6)[`6`](../src/awesomebb/standard.tpl#L6)
+
 ### Version phpBB3
 * __[`standard`](../tpl/standard.md#readme)__ __:__ lignes [`1`](../src/prosilver/standard.tpl#L1)[`<->`](../src/prosilver/standard.tpl#L1-L5)[`5`](../src/prosilver/standard.tpl#L5), [`7`](../src/prosilver/standard.tpl#L7)[`<->`](../src/prosilver/standard.tpl#L7-L10)[`10`](../src/prosilver/standard.tpl#L10)
 

@@ -14,6 +14,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`14`](../src/awesomebb/rpg_sheet.tpl#L14)
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`36`](../src/awesomebb/rpg_sheet_edit.tpl#L36)
+
 ### Version phpBB3
 * __[`rpg_sheet`](../tpl/rpg_sheet.md#readme)__ __:__ lignes [`9`](../src/prosilver/rpg_sheet.tpl#L9)
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`39`](../src/prosilver/rpg_sheet_edit.tpl#L39)

@@ -18,6 +18,9 @@ Page <strong>X</strong> sur <strong>Y</strong>
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`44`](../src/awesomebb/album_search_body.tpl#L44)
+
 ### Version phpBB3
 * __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`94`](../src/prosilver/album_modcp_body.tpl#L94)
 * __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`141`](../src/prosilver/album_moderate_body.tpl#L141)

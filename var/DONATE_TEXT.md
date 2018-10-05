@@ -12,6 +12,9 @@ Texte de l'annonce défini dans `PA > Divers > Gestion des crédits | Donations 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`4`](../src/awesomebb/buy_credits.tpl#L4)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`4`](../src/prosilver/buy_credits.tpl#L4)
 

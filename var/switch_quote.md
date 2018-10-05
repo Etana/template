@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`23`](../src/awesomebb/privmsgs_read_body.tpl#L23)[`<->`](../src/awesomebb/privmsgs_read_body.tpl#L23-L25)[`25`](../src/awesomebb/privmsgs_read_body.tpl#L25)
+
 ### Version phpBB3
 * __[`privmsgs_read_body`](../tpl/privmsgs_read_body.md#readme)__ __:__ lignes [`28`](../src/prosilver/privmsgs_read_body.tpl#L28)[`<->`](../src/prosilver/privmsgs_read_body.tpl#L28-L30)[`30`](../src/prosilver/privmsgs_read_body.tpl#L30)
 

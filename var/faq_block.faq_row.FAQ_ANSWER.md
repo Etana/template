@@ -16,6 +16,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`25`](../src/awesomebb/faq_body.tpl#L25)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`23`](../src/awesomebb/faq_dhtml.tpl#L23)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`27`](../src/prosilver/faq_body.tpl#L27)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`23`](../src/prosilver/faq_dhtml.tpl#L23)

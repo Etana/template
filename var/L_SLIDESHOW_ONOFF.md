@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)__ __:__ lignes [`354`](../src/awesomebb/album_slideshow_body.tpl#L354)
+
 ### Version phpBB3
 * __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)__ __:__ lignes [`395`](../src/prosilver/album_slideshow_body.tpl#L395)
 

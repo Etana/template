@@ -25,6 +25,9 @@ Boucle s'affichant si vous avez activé les liens de bas de page dans `PA > Modu
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`20`](../src/awesomebb/overall_footer_end.tpl#L20)[`<->`](../src/awesomebb/overall_footer_end.tpl#L20-L29)[`29`](../src/awesomebb/overall_footer_end.tpl#L29)
+
 ### Version phpBB3
 * __[`overall_footer_end`](../tpl/overall_footer_end.md#readme)__ __:__ lignes [`17`](../src/prosilver/overall_footer_end.tpl#L17)[`<->`](../src/prosilver/overall_footer_end.tpl#L17-L26)[`26`](../src/prosilver/overall_footer_end.tpl#L26)
 

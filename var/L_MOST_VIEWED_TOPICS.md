@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`4`](../src/awesomebb/mod_most_viewed_topics.tpl#L4)
+
 ### Version phpBB3
 * __[`mod_most_viewed_topics`](../tpl/mod_most_viewed_topics.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_most_viewed_topics.tpl#L4), [`5`](../src/prosilver/mod_most_viewed_topics.tpl#L5)
 

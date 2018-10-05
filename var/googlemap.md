@@ -18,6 +18,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/viewonline_body.tpl#L1)[`<->`](../src/awesomebb/viewonline_body.tpl#L1-L8)[`8`](../src/awesomebb/viewonline_body.tpl#L8)
+
 ### Version phpBB3
 * __[`viewonline_body`](../tpl/viewonline_body.md#readme)__ __:__ lignes [`1`](../src/prosilver/viewonline_body.tpl#L1)[`<->`](../src/prosilver/viewonline_body.tpl#L1-L7)[`7`](../src/prosilver/viewonline_body.tpl#L7)
 

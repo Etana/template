@@ -17,6 +17,9 @@ Boucle s'affichant si vous êtes dans les paramètres de vos sujets surveillés 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`65`](../src/awesomebb/rpg_sheet_edit.tpl#L65)[`<->`](../src/awesomebb/rpg_sheet_edit.tpl#L65-L69)[`69`](../src/awesomebb/rpg_sheet_edit.tpl#L69)
+
 ### Version phpBB3
 * __[`rpg_sheet_edit`](../tpl/rpg_sheet_edit.md#readme)__ __:__ lignes [`1`](../src/prosilver/rpg_sheet_edit.tpl#L1)[`<->`](../src/prosilver/rpg_sheet_edit.tpl#L1-L3)[`3`](../src/prosilver/rpg_sheet_edit.tpl#L3)
 

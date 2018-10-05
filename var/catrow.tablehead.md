@@ -18,9 +18,13 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.ID}`](../var/catrow.tablehead.ID.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.ID))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.INC_SPAN}`](../var/catrow.tablehead.INC_SPAN.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.INC_SPAN))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.L_FORUM}`](../var/catrow.tablehead.L_FORUM.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.tablehead.TYPE_TABLE_SECTION}`](../var/catrow.tablehead.TYPE_TABLE_SECTION.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.tablehead.TYPE_TABLE_SECTION))__
 
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`29`](../src/awesomebb/index_box.tpl#L29)[`<->`](../src/awesomebb/index_box.tpl#L29-L49)[`49`](../src/awesomebb/index_box.tpl#L49)
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`13`](../src/prosilver/index_box.tpl#L13)[`<->`](../src/prosilver/index_box.tpl#L13-L27)[`27`](../src/prosilver/index_box.tpl#L27)

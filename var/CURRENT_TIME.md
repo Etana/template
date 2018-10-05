@@ -16,6 +16,12 @@ Texte avec la date actuelle.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/album_formsearch_body.tpl#L2)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`3`](../src/awesomebb/album_search_body.tpl#L3)
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/calendar_scheduler_body.tpl#L2)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`529`](../src/awesomebb/profile_add_body.tpl#L529)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`2`](../src/prosilver/agreement.tpl#L2)
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`3`](../src/prosilver/album_cat_body.tpl#L3)

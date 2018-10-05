@@ -20,6 +20,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`51`](../src/awesomebb/mentions_tooltip.tpl#L51)[`<->`](../src/awesomebb/mentions_tooltip.tpl#L51-L57)[`57`](../src/awesomebb/mentions_tooltip.tpl#L57)
+
 ### Version phpBB3
 * __[`mentions_tooltip`](../tpl/mentions_tooltip.md#readme)__ __:__ lignes [`104`](../src/prosilver/mentions_tooltip.tpl#L104)[`<->`](../src/prosilver/mentions_tooltip.tpl#L104-L110)[`110`](../src/prosilver/mentions_tooltip.tpl#L110)
 

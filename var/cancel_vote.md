@@ -17,6 +17,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`16`](../src/awesomebb/viewtopic_poll_result.tpl#L16)[`<->`](../src/awesomebb/viewtopic_poll_result.tpl#L16-L18)[`18`](../src/awesomebb/viewtopic_poll_result.tpl#L18)
+
 ### Version phpBB3
 * __[`viewtopic_poll_result`](../tpl/viewtopic_poll_result.md#readme)__ __:__ lignes [`19`](../src/prosilver/viewtopic_poll_result.tpl#L19)[`<->`](../src/prosilver/viewtopic_poll_result.tpl#L19-L21)[`21`](../src/prosilver/viewtopic_poll_result.tpl#L21)
 

@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_chatbox`](../tpl/mod_chatbox.md#readme)__ __:__ lignes [`3`](../src/awesomebb/mod_chatbox.tpl#L3)
+
 ### Version phpBB3
 * __[`mod_chatbox`](../tpl/mod_chatbox.md#readme)__ __:__ lignes [`11`](../src/prosilver/mod_chatbox.tpl#L11)
 

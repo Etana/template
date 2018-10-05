@@ -18,6 +18,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`27`](../src/awesomebb/calendar_scheduler_body.tpl#L27)[`<->`](../src/awesomebb/calendar_scheduler_body.tpl#L27-L29)[`29`](../src/awesomebb/calendar_scheduler_body.tpl#L29)
+
 ### Version phpBB3
 * __[`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)__ __:__ lignes [`26`](../src/prosilver/calendar_scheduler_body.tpl#L26)[`<->`](../src/prosilver/calendar_scheduler_body.tpl#L26-L28)[`28`](../src/prosilver/calendar_scheduler_body.tpl#L28)
 

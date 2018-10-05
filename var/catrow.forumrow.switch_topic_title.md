@@ -21,6 +21,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`76`](../src/awesomebb/index_box.tpl#L76)[`<->`](../src/awesomebb/index_box.tpl#L76-L78)[`78`](../src/awesomebb/index_box.tpl#L78)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`66`](../src/prosilver/index_box.tpl#L66)[`<->`](../src/prosilver/index_box.tpl#L66-L68)[`68`](../src/prosilver/index_box.tpl#L68)
 

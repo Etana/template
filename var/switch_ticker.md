@@ -25,6 +25,9 @@ Boucle d'affichage si les annonces sont activées dans `PA > Général > Message
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`39`](../src/awesomebb/overall_header.tpl#L39)[`<->`](../src/awesomebb/overall_header.tpl#L39-L42)[`42`](../src/awesomebb/overall_header.tpl#L42), [`44`](../src/awesomebb/overall_header.tpl#L44)[`<->`](../src/awesomebb/overall_header.tpl#L44-L58)[`58`](../src/awesomebb/overall_header.tpl#L58), [`161`](../src/awesomebb/overall_header.tpl#L161)[`<->`](../src/awesomebb/overall_header.tpl#L161-L177)[`177`](../src/awesomebb/overall_header.tpl#L177)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`36`](../src/prosilver/overall_header.tpl#L36)[`<->`](../src/prosilver/overall_header.tpl#L36-L39)[`39`](../src/prosilver/overall_header.tpl#L39), [`137`](../src/prosilver/overall_header.tpl#L137)[`<->`](../src/prosilver/overall_header.tpl#L137-L147)[`147`](../src/prosilver/overall_header.tpl#L147), [`307`](../src/prosilver/overall_header.tpl#L307)[`<->`](../src/prosilver/overall_header.tpl#L307-L325)[`325`](../src/prosilver/overall_header.tpl#L325)
 

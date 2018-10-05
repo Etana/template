@@ -16,6 +16,9 @@ Contenu de l'annonce défilante sur laquelle on boucle défini dans `PA > Géné
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`169`](../src/awesomebb/overall_header.tpl#L169)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`297`](../src/prosilver/overall_header.tpl#L297), [`316`](../src/prosilver/overall_header.tpl#L316)
 

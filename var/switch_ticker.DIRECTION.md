@@ -14,6 +14,9 @@ Contient la direction du défilement des annonces définie dans `PA > Général 
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`52`](../src/awesomebb/overall_header.tpl#L52)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`45`](../src/prosilver/overall_header.tpl#L45), [`143`](../src/prosilver/overall_header.tpl#L143)
 

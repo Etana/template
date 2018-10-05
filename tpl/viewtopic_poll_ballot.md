@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `viewtopic_poll_ballot`
@@ -27,6 +27,24 @@
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
 	* [`{S_POLL_ACTION}`](../var/S_POLL_ACTION.md#readme) ([x](https://fa-tvars.appspot.com/var/S_POLL_ACTION))
 	* [`{U_VIEW_RESULTS}`](../var/U_VIEW_RESULTS.md#readme) ([x](https://fa-tvars.appspot.com/var/U_VIEW_RESULTS))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/viewtopic_poll_ballot.tpl#files)
+
+### Positions des variables
+
+* __[`{L_SUBMIT_VOTE}`](../var/L_SUBMIT_VOTE.md#readme)__ __:__ ligne [`21`](../src/awesomebb/viewtopic_poll_ballot.tpl#L21)
+* __[`{L_VIEW_RESULTS}`](../var/L_VIEW_RESULTS.md#readme)__ __:__ ligne [`21`](../src/awesomebb/viewtopic_poll_ballot.tpl#L21)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme)__ __:__ ligne [`5`](../src/awesomebb/viewtopic_poll_ballot.tpl#L5)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`22`](../src/awesomebb/viewtopic_poll_ballot.tpl#L22)
+* __[`{S_POLL_ACTION}`](../var/S_POLL_ACTION.md#readme)__ __:__ ligne [`9`](../src/awesomebb/viewtopic_poll_ballot.tpl#L9)
+* __[`{U_VIEW_RESULTS}`](../var/U_VIEW_RESULTS.md#readme)__ __:__ ligne [`21`](../src/awesomebb/viewtopic_poll_ballot.tpl#L21)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`10`](../src/awesomebb/viewtopic_poll_ballot.tpl#L10)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`20`](../src/awesomebb/viewtopic_poll_ballot.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)__ __:__ ligne [`17`](../src/awesomebb/viewtopic_poll_ballot.tpl#L17)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_ID}`](../var/poll_option.POLL_OPTION_ID.md#readme)__ __:__ ligne [`14`](../src/awesomebb/viewtopic_poll_ballot.tpl#L14)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_TYPE_BUTTON}`](../var/poll_option.POLL_TYPE_BUTTON.md#readme)__ __:__ ligne [`14`](../src/awesomebb/viewtopic_poll_ballot.tpl#L14)
 
 ## Template par défaut phpBB3
 

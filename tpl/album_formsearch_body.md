@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Galerie` > `album_formsearch_body`
@@ -27,6 +27,27 @@
 	* [`{S_FORUM_OPTIONS}`](../var/S_FORUM_OPTIONS.md#readme)
 	* [`{S_SEARCH_ACTION}`](../var/S_SEARCH_ACTION.md#readme)
 	* [`{S_TIME_OPTIONS}`](../var/S_TIME_OPTIONS.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/album_formsearch_body.tpl#files)
+
+### Positions des variables
+
+* __[`{CURRENT_TIME}`](../var/CURRENT_TIME.md#readme)__ __:__ ligne [`2`](../src/awesomebb/album_formsearch_body.tpl#L2)
+* __[`{LAST_VISIT_DATE}`](../var/LAST_VISIT_DATE.md#readme)__ __:__ ligne [`1`](../src/awesomebb/album_formsearch_body.tpl#L1)
+* __[`{L_GALLERIES}`](../var/L_GALLERIES.md#readme)__ __:__ ligne [`25`](../src/awesomebb/album_formsearch_body.tpl#L25)
+* __[`{L_SEARCH}`](../var/L_SEARCH.md#readme)__ __:__ ligne [`39`](../src/awesomebb/album_formsearch_body.tpl#L39)
+* __[`{L_SEARCH_KEYWORDS}`](../var/L_SEARCH_KEYWORDS.md#readme)__ __:__ ligne [`12`](../src/awesomebb/album_formsearch_body.tpl#L12)
+* __[`{L_SEARCH_OPTIONS}`](../var/L_SEARCH_OPTIONS.md#readme)__ __:__ ligne [`21`](../src/awesomebb/album_formsearch_body.tpl#L21)
+* __[`{L_SEARCH_PREVIOUS}`](../var/L_SEARCH_PREVIOUS.md#readme)__ __:__ ligne [`29`](../src/awesomebb/album_formsearch_body.tpl#L29)
+* __[`{L_SEARCH_QUERY}`](../var/L_SEARCH_QUERY.md#readme)__ __:__ ligne [`8`](../src/awesomebb/album_formsearch_body.tpl#L8)
+* __[`{L_SEARCH_TITLE}`](../var/L_SEARCH_TITLE.md#readme)__ __:__ ligne [`4`](../src/awesomebb/album_formsearch_body.tpl#L4)
+* __[`{S_FORUM_OPTIONS}`](../var/S_FORUM_OPTIONS.md#readme)__ __:__ ligne [`26`](../src/awesomebb/album_formsearch_body.tpl#L26)
+* __[`{S_SEARCH_ACTION}`](../var/S_SEARCH_ACTION.md#readme)__ __:__ ligne [`5`](../src/awesomebb/album_formsearch_body.tpl#L5)
+* __[`{S_TIME_OPTIONS}`](../var/S_TIME_OPTIONS.md#readme)__ __:__ ligne [`30`](../src/awesomebb/album_formsearch_body.tpl#L30)
+* __[`<!-- BEGIN switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/awesomebb/album_formsearch_body.tpl#L1)
+* __[`<!-- END switch_user_logged_in -->`](../var/switch_user_logged_in.md#readme)__ __:__ ligne [`1`](../src/awesomebb/album_formsearch_body.tpl#L1)
 
 ## Template par défaut phpBB3
 

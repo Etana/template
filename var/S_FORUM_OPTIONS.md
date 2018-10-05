@@ -12,6 +12,10 @@ Contient la liste de vos catégories et forums.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`26`](../src/awesomebb/album_formsearch_body.tpl#L26)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`97`](../src/awesomebb/search_body.tpl#L97)
+
 ### Version phpBB3
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`26`](../src/prosilver/album_formsearch_body.tpl#L26)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`58`](../src/prosilver/search_body.tpl#L58)

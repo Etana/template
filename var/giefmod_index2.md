@@ -19,6 +19,9 @@ Boucle d'affichage de vos widgets de la colonne de droite si ceux-ci sont activ√
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`7`](../src/awesomebb/overall_footer_begin.tpl#L7)[`<->`](../src/awesomebb/overall_footer_begin.tpl#L7-L12)[`12`](../src/awesomebb/overall_footer_begin.tpl#L12)
+
 ### Version phpBB3
 * __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`16`](../src/prosilver/overall_footer_begin.tpl#L16)[`<->`](../src/prosilver/overall_footer_begin.tpl#L16-L21)[`21`](../src/prosilver/overall_footer_begin.tpl#L21)
 

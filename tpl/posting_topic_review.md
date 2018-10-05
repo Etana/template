@@ -1,8 +1,8 @@
-# Template posting_topic_review (x 19)
+# Template posting_topic_review (x 21)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `posting_topic_review`
@@ -31,14 +31,35 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_ID}`](../var/postrow.displayed.POST_ID.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_ID))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_SUBJECT}`](../var/postrow.displayed.POST_SUBJECT.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_SUBJECT_NEW}`](../var/postrow.displayed.POST_SUBJECT_NEW.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POST_SUBJECT_NEW))
+	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_AVATAR}`](../var/postrow.displayed.POSTER_AVATAR.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_AVATAR))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_NAME}`](../var/postrow.displayed.POSTER_NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.POSTER_NAME))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.ROW_CLASS}`](../var/postrow.displayed.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.ROW_CLASS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN hidden -->`](../var/postrow.hidden.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.hidden))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END hidden -->`](../var/postrow.hidden.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.hidden))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.hidden.MESSAGE}`](../var/postrow.hidden.MESSAGE.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.hidden.MESSAGE))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.hidden.ROW_CLASS}`](../var/postrow.hidden.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.hidden.ROW_CLASS))
+	* &nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.ROW_CLASS}`](../var/postrow.ROW_CLASS.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.ROW_CLASS))
 	* [`<!-- BEGIN switch_inline_mode -->`](../var/switch_inline_mode.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_inline_mode))
 	* [`<!-- END switch_inline_mode -->`](../var/switch_inline_mode.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_inline_mode))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/posting_topic_review.tpl#files)
+
+### Positions des variables
+
+* __[`<!-- BEGIN postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`1`](../src/awesomebb/posting_topic_review.tpl#L1)
+* __[`<!-- END postrow -->`](../var/postrow.md#readme)__ __:__ ligne [`20`](../src/awesomebb/posting_topic_review.tpl#L20)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.ROW_CLASS}`](../var/postrow.ROW_CLASS.md#readme)__ __:__ ligne [`3`](../src/awesomebb/posting_topic_review.tpl#L3)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN displayed -->`](../var/postrow.displayed.md#readme)__ __:__ ligne [`2`](../src/awesomebb/posting_topic_review.tpl#L2)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END displayed -->`](../var/postrow.displayed.md#readme)__ __:__ ligne [`19`](../src/awesomebb/posting_topic_review.tpl#L19)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.L_TOPIC_BY}`](../var/postrow.displayed.L_TOPIC_BY.md#readme)__ __:__ ligne [`13`](../src/awesomebb/posting_topic_review.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.L_TOPIC_ON}`](../var/postrow.displayed.L_TOPIC_ON.md#readme)__ __:__ ligne [`13`](../src/awesomebb/posting_topic_review.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.MESSAGE}`](../var/postrow.displayed.MESSAGE.md#readme)__ __:__ ligne [`9`](../src/awesomebb/posting_topic_review.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_AVATAR}`](../var/postrow.displayed.POSTER_AVATAR.md#readme)__ __:__ ligne [`5`](../src/awesomebb/posting_topic_review.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POSTER_NAME}`](../var/postrow.displayed.POSTER_NAME.md#readme)__ __:__ ligne [`13`](../src/awesomebb/posting_topic_review.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_DATE}`](../var/postrow.displayed.POST_DATE.md#readme)__ __:__ ligne [`13`](../src/awesomebb/posting_topic_review.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.POST_SUBJECT_NEW}`](../var/postrow.displayed.POST_SUBJECT_NEW.md#readme)__ __:__ ligne [`13`](../src/awesomebb/posting_topic_review.tpl#L13)
 
 ## Template par défaut phpBB3
 

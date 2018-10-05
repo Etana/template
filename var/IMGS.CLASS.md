@@ -14,6 +14,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`10`](../src/awesomebb/mod_rss_feeds.tpl#L10)
+* __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`10`](../src/awesomebb/mod_social_bookmarking.tpl#L10)
+
 ### Version phpBB3
 * __[`mod_rss_feeds`](../tpl/mod_rss_feeds.md#readme)__ __:__ lignes [`9`](../src/prosilver/mod_rss_feeds.tpl#L9)
 * __[`mod_social_bookmarking`](../tpl/mod_social_bookmarking.md#readme)__ __:__ lignes [`8`](../src/prosilver/mod_social_bookmarking.tpl#L8)

@@ -14,6 +14,9 @@ Contient le nombre de vues du sujet.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`42`](../src/awesomebb/search_results_topics.tpl#L42)
+
 ### Version phpBB3
 * __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`39`](../src/prosilver/search_results_topics.tpl#L39)
 

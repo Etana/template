@@ -14,6 +14,10 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`29`](../src/awesomebb/album_formsearch_body.tpl#L29)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`101`](../src/awesomebb/search_body.tpl#L101)
+
 ### Version phpBB3
 * __[`album_formsearch_body`](../tpl/album_formsearch_body.md#readme)__ __:__ lignes [`29`](../src/prosilver/album_formsearch_body.tpl#L29)
 * __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`64`](../src/prosilver/search_body.tpl#L64)

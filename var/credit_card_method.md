@@ -25,6 +25,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`86`](../src/awesomebb/buy_credits.tpl#L86)[`<->`](../src/awesomebb/buy_credits.tpl#L86-L164)[`164`](../src/awesomebb/buy_credits.tpl#L164)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`92`](../src/prosilver/buy_credits.tpl#L92)[`<->`](../src/prosilver/buy_credits.tpl#L92-L166)[`166`](../src/prosilver/buy_credits.tpl#L166)
 

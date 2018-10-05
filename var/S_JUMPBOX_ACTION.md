@@ -14,6 +14,14 @@ Action du formulaire pour sauter vers un forum.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`33`](../src/awesomebb/faq_body.tpl#L33)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`30`](../src/awesomebb/faq_dhtml.tpl#L30)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`139`](../src/awesomebb/groupcp_info_body.tpl#L139)
+* __[`groupcp_user_body`](../tpl/groupcp_user_body.md#readme)__ __:__ lignes [`46`](../src/awesomebb/groupcp_user_body.tpl#L46)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`72`](../src/awesomebb/modcp_body.tpl#L72)
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`322`](../src/awesomebb/viewtopic_body.tpl#L322)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`37`](../src/prosilver/faq_body.tpl#L37)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`29`](../src/prosilver/faq_dhtml.tpl#L29)

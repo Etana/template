@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Calendrier` > `calendar_box`
@@ -80,6 +80,58 @@
 	* [`{L_CALENDAR}`](../var/L_CALENDAR.md#readme) ([x](https://fa-tvars.appspot.com/var/L_CALENDAR))
 	* [`{S_CREATE_EVENT}`](../var/S_CREATE_EVENT.md#readme) ([x](https://fa-tvars.appspot.com/var/S_CREATE_EVENT))
 	* [`{UP_ARROW}`](../var/UP_ARROW.md#readme) ([x](https://fa-tvars.appspot.com/var/UP_ARROW))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/calendar_box.tpl#files)
+
+### Positions des variables
+
+* __[`{L_ADD_EVENT}`](../var/L_ADD_EVENT.md#readme)__ __:__ ligne [`53`](../src/awesomebb/calendar_box.tpl#L53)
+* __[`{L_ADD_EVENT}`](../var/L_ADD_EVENT.md#readme)__ __:__ ligne [`66`](../src/awesomebb/calendar_box.tpl#L66)
+* __[`{S_CREATE_EVENT}`](../var/S_CREATE_EVENT.md#readme)__ __:__ ligne [`65`](../src/awesomebb/calendar_box.tpl#L65)
+* __[`<!-- BEGIN _calendar_box -->`](../var/_calendar_box.md#readme)__ __:__ ligne [`1`](../src/awesomebb/calendar_box.tpl#L1)
+* __[`<!-- END _calendar_box -->`](../var/_calendar_box.md#readme)__ __:__ ligne [`72`](../src/awesomebb/calendar_box.tpl#L72)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.L_GO}`](../var/_calendar_box.L_GO.md#readme)__ __:__ ligne [`6`](../src/awesomebb/calendar_box.tpl#L6)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_ACTION}`](../var/_calendar_box.S_ACTION.md#readme)__ __:__ ligne [`2`](../src/awesomebb/calendar_box.tpl#L2)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_FORUM_LIST}`](../var/_calendar_box.S_FORUM_LIST.md#readme)__ __:__ ligne [`5`](../src/awesomebb/calendar_box.tpl#L5)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_MONTH}`](../var/_calendar_box.S_MONTH.md#readme)__ __:__ ligne [`3`](../src/awesomebb/calendar_box.tpl#L3)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.S_YEAR}`](../var/_calendar_box.S_YEAR.md#readme)__ __:__ ligne [`4`](../src/awesomebb/calendar_box.tpl#L4)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.U_NEXT}`](../var/_calendar_box.U_NEXT.md#readme)__ __:__ ligne [`15`](../src/awesomebb/calendar_box.tpl#L15)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box.U_PREC}`](../var/_calendar_box.U_PREC.md#readme)__ __:__ ligne [`12`](../src/awesomebb/calendar_box.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _cell -->`](../var/_calendar_box._cell.md#readme)__ __:__ ligne [`21`](../src/awesomebb/calendar_box.tpl#L21)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END _cell -->`](../var/_calendar_box._cell.md#readme)__ __:__ ligne [`27`](../src/awesomebb/calendar_box.tpl#L27)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._cell.L_DAY}`](../var/_calendar_box._cell.L_DAY.md#readme)__ __:__ ligne [`24`](../src/awesomebb/calendar_box.tpl#L24)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._cell.WIDTH}`](../var/_calendar_box._cell.WIDTH.md#readme)__ __:__ ligne [`22`](../src/awesomebb/calendar_box.tpl#L22)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _row -->`](../var/_calendar_box._row.md#readme)__ __:__ ligne [`29`](../src/awesomebb/calendar_box.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END _row -->`](../var/_calendar_box._row.md#readme)__ __:__ ligne [`61`](../src/awesomebb/calendar_box.tpl#L61)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _cell -->`](../var/_calendar_box._row._cell.md#readme)__ __:__ ligne [`31`](../src/awesomebb/calendar_box.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END _cell -->`](../var/_calendar_box._row._cell.md#readme)__ __:__ ligne [`59`](../src/awesomebb/calendar_box.tpl#L59)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.SPAN}`](../var/_calendar_box._row._cell.SPAN.md#readme)__ __:__ ligne [`33`](../src/awesomebb/calendar_box.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.U_DATE}`](../var/_calendar_box._row._cell.U_DATE.md#readme)__ __:__ ligne [`42`](../src/awesomebb/calendar_box.tpl#L42)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.WIDTH}`](../var/_calendar_box._row._cell.WIDTH.md#readme)__ __:__ ligne [`33`](../src/awesomebb/calendar_box.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.WIDTH}`](../var/_calendar_box._row._cell.WIDTH.md#readme)__ __:__ ligne [`33`](../src/awesomebb/calendar_box.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.WIDTH}`](../var/_calendar_box._row._cell.WIDTH.md#readme)__ __:__ ligne [`39`](../src/awesomebb/calendar_box.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_filled -->`](../var/_calendar_box._row._cell.switch_filled.md#readme)__ __:__ ligne [`38`](../src/awesomebb/calendar_box.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_filled -->`](../var/_calendar_box._row._cell.switch_filled.md#readme)__ __:__ ligne [`58`](../src/awesomebb/calendar_box.tpl#L58)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN _event -->`](../var/_calendar_box._row._cell.switch_filled._event.md#readme)__ __:__ ligne [`45`](../src/awesomebb/calendar_box.tpl#L45)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END _event -->`](../var/_calendar_box._row._cell.switch_filled._event.md#readme)__ __:__ ligne [`49`](../src/awesomebb/calendar_box.tpl#L49)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_event -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.md#readme)__ __:__ ligne [`46`](../src/awesomebb/calendar_box.tpl#L46)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_event -->`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.md#readme)__ __:__ ligne [`48`](../src/awesomebb/calendar_box.tpl#L48)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_CLASS}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_CLASS.md#readme)__ __:__ ligne [`47`](../src/awesomebb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TITLE.md#readme)__ __:__ ligne [`47`](../src/awesomebb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.EVENT_TYPE.md#readme)__ __:__ ligne [`47`](../src/awesomebb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.OVERVIEW_MESSAGE}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.OVERVIEW_MESSAGE.md#readme)__ __:__ ligne [`47`](../src/awesomebb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled._event.switch_event.U_EVENT}`](../var/_calendar_box._row._cell.switch_filled._event.switch_event.U_EVENT.md#readme)__ __:__ ligne [`47`](../src/awesomebb/calendar_box.tpl#L47)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_add_event_day -->`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.md#readme)__ __:__ ligne [`52`](../src/awesomebb/calendar_box.tpl#L52)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_add_event_day -->`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.md#readme)__ __:__ ligne [`54`](../src/awesomebb/calendar_box.tpl#L54)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT}`](../var/_calendar_box._row._cell.switch_filled.switch_add_event_day.U_CREATE_EVENT.md#readme)__ __:__ ligne [`53`](../src/awesomebb/calendar_box.tpl#L53)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_filled_no -->`](../var/_calendar_box._row._cell.switch_filled_no.md#readme)__ __:__ ligne [`32`](../src/awesomebb/calendar_box.tpl#L32)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_filled_no -->`](../var/_calendar_box._row._cell.switch_filled_no.md#readme)__ __:__ ligne [`36`](../src/awesomebb/calendar_box.tpl#L36)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_add_event -->`](../var/_calendar_box.switch_add_event.md#readme)__ __:__ ligne [`64`](../src/awesomebb/calendar_box.tpl#L64)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_add_event -->`](../var/_calendar_box.switch_add_event.md#readme)__ __:__ ligne [`71`](../src/awesomebb/calendar_box.tpl#L71)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`9`](../src/awesomebb/calendar_box.tpl#L9)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END switch_not_anonymous -->`](../var/_calendar_box.switch_not_anonymous.md#readme)__ __:__ ligne [`18`](../src/awesomebb/calendar_box.tpl#L18)
 
 ## Template par défaut phpBB3
 

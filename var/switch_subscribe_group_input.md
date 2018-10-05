@@ -22,6 +22,10 @@ Le contenu de la boucle est affiché si :
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`18`](../src/awesomebb/groupcp_info_body.tpl#L18)[`<->`](../src/awesomebb/groupcp_info_body.tpl#L18-L20)[`20`](../src/awesomebb/groupcp_info_body.tpl#L20)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`21`](../src/prosilver/groupcp_info_body.tpl#L21)[`<->`](../src/prosilver/groupcp_info_body.tpl#L21-L23)[`23`](../src/prosilver/groupcp_info_body.tpl#L23)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

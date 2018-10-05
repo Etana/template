@@ -14,6 +14,9 @@ Nombre de message du membre sur lequel on boucle.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`21`](../src/awesomebb/groupcp_pending_info.tpl#L21)
+
 ### Version phpBB3
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`23`](../src/prosilver/groupcp_pending_info.tpl#L23)
 

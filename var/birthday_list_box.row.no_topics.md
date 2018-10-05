@@ -21,6 +21,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`43`](../src/awesomebb/birthday_list_box.tpl#L43)[`<->`](../src/awesomebb/birthday_list_box.tpl#L43-L48)[`48`](../src/awesomebb/birthday_list_box.tpl#L48)
+
 ### Version phpBB3
 * __[`birthday_list_box`](../tpl/birthday_list_box.md#readme)__ __:__ lignes [`42`](../src/prosilver/birthday_list_box.tpl#L42)[`<->`](../src/prosilver/birthday_list_box.tpl#L42-L46)[`46`](../src/prosilver/birthday_list_box.tpl#L46)
 

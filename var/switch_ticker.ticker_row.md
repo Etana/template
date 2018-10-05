@@ -20,6 +20,9 @@ Boucle sur chacune des annonces défilantes que vous avez définies dans `PA > G
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`168`](../src/awesomebb/overall_header.tpl#L168)[`<->`](../src/awesomebb/overall_header.tpl#L168-L170)[`170`](../src/awesomebb/overall_header.tpl#L170)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`315`](../src/prosilver/overall_header.tpl#L315)[`<->`](../src/prosilver/overall_header.tpl#L315-L317)[`317`](../src/prosilver/overall_header.tpl#L317)
 

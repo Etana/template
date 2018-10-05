@@ -12,6 +12,9 @@ Contient tout le JavaScript de votre forum.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`61`](../src/awesomebb/overall_header.tpl#L61)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`193`](../src/prosilver/overall_header.tpl#L193)
 

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `posting_confirm_code`
@@ -49,6 +49,30 @@
 	* [`{V_TOPICTYPE}`](../var/V_TOPICTYPE.md#readme) ([x](https://fa-tvars.appspot.com/var/V_TOPICTYPE))
 	* [`{V_TYPE_FORUM}`](../var/V_TYPE_FORUM.md#readme) ([x](https://fa-tvars.appspot.com/var/V_TYPE_FORUM))
 	* [`{V_USERNAME}`](../var/V_USERNAME.md#readme) ([x](https://fa-tvars.appspot.com/var/V_USERNAME))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/posting_confirm_code.tpl#files)
+
+### Positions des variables
+
+* __[`{F_TYPE_FORUM}`](../var/F_TYPE_FORUM.md#readme)__ __:__ ligne [`22`](../src/awesomebb/posting_confirm_code.tpl#L22)
+* __[`{HASH_FUNCAPTCHA}`](../var/HASH_FUNCAPTCHA.md#readme)__ __:__ ligne [`6`](../src/awesomebb/posting_confirm_code.tpl#L6)
+* __[`{HASH_FUNCAPTCHA}`](../var/HASH_FUNCAPTCHA.md#readme)__ __:__ ligne [`8`](../src/awesomebb/posting_confirm_code.tpl#L8)
+* __[`{L_ERROR_MSG}`](../var/L_ERROR_MSG.md#readme)__ __:__ ligne [`2`](../src/awesomebb/posting_confirm_code.tpl#L2)
+* __[`{L_SUBMIT}`](../var/L_SUBMIT.md#readme)__ __:__ ligne [`14`](../src/awesomebb/posting_confirm_code.tpl#L14)
+* __[`{L_VALIDATION_EXPLAIN}`](../var/L_VALIDATION_EXPLAIN.md#readme)__ __:__ ligne [`3`](../src/awesomebb/posting_confirm_code.tpl#L3)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`25`](../src/awesomebb/posting_confirm_code.tpl#L25)
+* __[`{USERLANG}`](../var/USERLANG.md#readme)__ __:__ ligne [`8`](../src/awesomebb/posting_confirm_code.tpl#L8)
+* __[`{U_POSTING}`](../var/U_POSTING.md#readme)__ __:__ ligne [`1`](../src/awesomebb/posting_confirm_code.tpl#L1)
+* __[`{V_DESCRIPTION}`](../var/V_DESCRIPTION.md#readme)__ __:__ ligne [`18`](../src/awesomebb/posting_confirm_code.tpl#L18)
+* __[`{V_MESSAGE}`](../var/V_MESSAGE.md#readme)__ __:__ ligne [`19`](../src/awesomebb/posting_confirm_code.tpl#L19)
+* __[`{V_MODE}`](../var/V_MODE.md#readme)__ __:__ ligne [`20`](../src/awesomebb/posting_confirm_code.tpl#L20)
+* __[`{V_SUBJECT}`](../var/V_SUBJECT.md#readme)__ __:__ ligne [`17`](../src/awesomebb/posting_confirm_code.tpl#L17)
+* __[`{V_SUBMIT}`](../var/V_SUBMIT.md#readme)__ __:__ ligne [`14`](../src/awesomebb/posting_confirm_code.tpl#L14)
+* __[`{V_TOPICTYPE}`](../var/V_TOPICTYPE.md#readme)__ __:__ ligne [`23`](../src/awesomebb/posting_confirm_code.tpl#L23)
+* __[`{V_TYPE_FORUM}`](../var/V_TYPE_FORUM.md#readme)__ __:__ ligne [`22`](../src/awesomebb/posting_confirm_code.tpl#L22)
+* __[`{V_USERNAME}`](../var/V_USERNAME.md#readme)__ __:__ ligne [`16`](../src/awesomebb/posting_confirm_code.tpl#L16)
 
 ## Template par défaut phpBB3
 

@@ -14,6 +14,9 @@ Contient l'espace entre chaque annonce défini dans `PA > Général > Messages e
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`50`](../src/awesomebb/overall_header.tpl#L50)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`141`](../src/prosilver/overall_header.tpl#L141), [`185`](../src/prosilver/overall_header.tpl#L185), [`189`](../src/prosilver/overall_header.tpl#L189)
 

@@ -12,6 +12,9 @@ Variable actuellement inutilisée.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`4`](../src/awesomebb/profile_send_pass.tpl#L4)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`146`](../src/prosilver/index_body.tpl#L146)
 

@@ -12,6 +12,12 @@ Contenu du message.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`171`](../src/awesomebb/buy_credits.tpl#L171)
+* __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`10`](../src/awesomebb/confirm_body.tpl#L10)
+* __[`message_body`](../tpl/message_body.md#readme)__ __:__ lignes [`6`](../src/awesomebb/message_body.tpl#L6)
+* __[`modcp_move`](../tpl/modcp_move.md#readme)__ __:__ lignes [`25`](../src/awesomebb/modcp_move.tpl#L25)
+
 ### Version phpBB3
 * __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`173`](../src/prosilver/buy_credits.tpl#L173)
 * __[`confirm_body`](../tpl/confirm_body.md#readme)__ __:__ lignes [`8`](../src/prosilver/confirm_body.tpl#L8)

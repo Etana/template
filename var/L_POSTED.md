@@ -12,6 +12,10 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`266`](../src/awesomebb/album_showpage_body.tpl#L266)
+* __[`modcp_viewip`](../tpl/modcp_viewip.md#readme)__ __:__ lignes [`19`](../src/awesomebb/modcp_viewip.tpl#L19)
+
 ### Version phpBB3
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`269`](../src/prosilver/album_showpage_body.tpl#L269)
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`44`](../src/prosilver/modcp_split.tpl#L44)

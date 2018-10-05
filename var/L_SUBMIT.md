@@ -20,6 +20,21 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`62`](../src/awesomebb/album_edit_body.tpl#L62)
+* __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`200`](../src/awesomebb/album_nuffimage_box.tpl#L200)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`311`](../src/awesomebb/album_showpage_body.tpl#L311)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`286`](../src/awesomebb/album_upload_body.tpl#L286), [`290`](../src/awesomebb/album_upload_body.tpl#L290)
+* __[`buy_credits`](../tpl/buy_credits.md#readme)__ __:__ lignes [`61`](../src/awesomebb/buy_credits.tpl#L61), [`108`](../src/awesomebb/buy_credits.tpl#L108), [`131`](../src/awesomebb/buy_credits.tpl#L131), [`144`](../src/awesomebb/buy_credits.tpl#L144)
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes 
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`memberlist_body`](../tpl/memberlist_body.md#readme)__ __:__ lignes [`23`](../src/awesomebb/memberlist_body.tpl#L23)
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`29`](../src/awesomebb/merge_body.tpl#L29)
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`156`](../src/awesomebb/posting_body.tpl#L156), [`156`](../src/awesomebb/posting_body.tpl#L156), [`171`](../src/awesomebb/posting_body.tpl#L171)
+* __[`posting_confirm_code`](../tpl/posting_confirm_code.md#readme)__ __:__ lignes [`14`](../src/awesomebb/posting_confirm_code.tpl#L14)
+* __[`profile_add_body`](../tpl/profile_add_body.md#readme)__ __:__ lignes [`604`](../src/awesomebb/profile_add_body.tpl#L604)
+* __[`profile_send_pass`](../tpl/profile_send_pass.md#readme)__ __:__ lignes [`11`](../src/awesomebb/profile_send_pass.tpl#L11)
+
 ### Version phpBB3
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`66`](../src/prosilver/album_edit_body.tpl#L66)
 * __[`album_nuffimage_box`](../tpl/album_nuffimage_box.md#readme)__ __:__ lignes [`94`](../src/prosilver/album_nuffimage_box.tpl#L94)

@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision) [`Mobile`](#template-par-défaut-version-mobile)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Version mobile` > `viewtopic_poll_result`
@@ -34,6 +34,29 @@
 	* [`{U_CANCEL_VOTE}`](../var/U_CANCEL_VOTE.md#readme) ([x](https://fa-tvars.appspot.com/var/U_CANCEL_VOTE))
 	* [`{VOTE_LCAP_IMG}`](../var/VOTE_LCAP_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/VOTE_LCAP_IMG))
 	* [`{VOTE_RCAP_IMG}`](../var/VOTE_RCAP_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/VOTE_RCAP_IMG))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/viewtopic_poll_result.tpl#files)
+
+### Positions des variables
+
+* __[`{L_CANCEL_VOTE}`](../var/L_CANCEL_VOTE.md#readme)__ __:__ ligne [`17`](../src/awesomebb/viewtopic_poll_result.tpl#L17)
+* __[`{L_POLL_HIDE_RESULT}`](../var/L_POLL_HIDE_RESULT.md#readme)__ __:__ ligne [`20`](../src/awesomebb/viewtopic_poll_result.tpl#L20)
+* __[`{L_TOTAL_VOTES}`](../var/L_TOTAL_VOTES.md#readme)__ __:__ ligne [`14`](../src/awesomebb/viewtopic_poll_result.tpl#L14)
+* __[`{POLL_QUESTION}`](../var/POLL_QUESTION.md#readme)__ __:__ ligne [`5`](../src/awesomebb/viewtopic_poll_result.tpl#L5)
+* __[`{TOTAL_VOTES}`](../var/TOTAL_VOTES.md#readme)__ __:__ ligne [`14`](../src/awesomebb/viewtopic_poll_result.tpl#L14)
+* __[`{U_CANCEL_VOTE}`](../var/U_CANCEL_VOTE.md#readme)__ __:__ ligne [`17`](../src/awesomebb/viewtopic_poll_result.tpl#L17)
+* __[`<!-- BEGIN cancel_vote -->`](../var/cancel_vote.md#readme)__ __:__ ligne [`16`](../src/awesomebb/viewtopic_poll_result.tpl#L16)
+* __[`<!-- END cancel_vote -->`](../var/cancel_vote.md#readme)__ __:__ ligne [`18`](../src/awesomebb/viewtopic_poll_result.tpl#L18)
+* __[`<!-- BEGIN poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`10`](../src/awesomebb/viewtopic_poll_result.tpl#L10)
+* __[`<!-- END poll_option -->`](../var/poll_option.md#readme)__ __:__ ligne [`13`](../src/awesomebb/viewtopic_poll_result.tpl#L13)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_CAPTION}`](../var/poll_option.POLL_OPTION_CAPTION.md#readme)__ __:__ ligne [`11`](../src/awesomebb/viewtopic_poll_result.tpl#L11)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`12`](../src/awesomebb/viewtopic_poll_result.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_PERCENT}`](../var/poll_option.POLL_OPTION_PERCENT.md#readme)__ __:__ ligne [`12`](../src/awesomebb/viewtopic_poll_result.tpl#L12)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`{poll_option.POLL_OPTION_RESULT}`](../var/poll_option.POLL_OPTION_RESULT.md#readme)__ __:__ ligne [`12`](../src/awesomebb/viewtopic_poll_result.tpl#L12)
+* __[`<!-- BEGIN switch_hide_result -->`](../var/switch_hide_result.md#readme)__ __:__ ligne [`19`](../src/awesomebb/viewtopic_poll_result.tpl#L19)
+* __[`<!-- END switch_hide_result -->`](../var/switch_hide_result.md#readme)__ __:__ ligne [`21`](../src/awesomebb/viewtopic_poll_result.tpl#L21)
 
 ## Template par défaut phpBB3
 

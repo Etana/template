@@ -12,6 +12,13 @@ Action du formulaire dans les paramètres de vos sujets surveillés : `/search?s
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`5`](../src/awesomebb/merge_body.tpl#L5)
+* __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`1`](../src/awesomebb/merge_select_body.tpl#L1)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`11`](../src/awesomebb/report_list_body.tpl#L11)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`31`](../src/awesomebb/report_view_body.tpl#L31)
+* __[`search_results_topics`](../tpl/search_results_topics.md#readme)__ __:__ lignes [`14`](../src/awesomebb/search_results_topics.tpl#L14)
+
 ### Version phpBB3
 * __[`merge_body`](../tpl/merge_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/merge_body.tpl#L4)
 * __[`merge_select_body`](../tpl/merge_select_body.md#readme)__ __:__ lignes [`6`](../src/prosilver/merge_select_body.tpl#L6)

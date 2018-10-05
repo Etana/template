@@ -14,6 +14,9 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`37`](../src/awesomebb/agreement.tpl#L37), [`39`](../src/awesomebb/agreement.tpl#L39)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`37`](../src/prosilver/agreement.tpl#L37)
 

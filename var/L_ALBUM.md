@@ -12,6 +12,17 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`10`](../src/awesomebb/album_cat_body.tpl#L10)
+* __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`7`](../src/awesomebb/album_cat_top10.tpl#L7)
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`34`](../src/awesomebb/album_edit_body.tpl#L34)
+* __[`album_modcp_body`](../tpl/album_modcp_body.md#readme)__ __:__ lignes [`7`](../src/awesomebb/album_modcp_body.tpl#L7)
+* __[`album_moderate_body`](../tpl/album_moderate_body.md#readme)__ __:__ lignes [`56`](../src/awesomebb/album_moderate_body.tpl#L56)
+* __[`album_overview_top10`](../tpl/album_overview_top10.md#readme)__ __:__ lignes [`14`](../src/awesomebb/album_overview_top10.tpl#L14)
+* __[`album_search_body`](../tpl/album_search_body.md#readme)__ __:__ lignes [`7`](../src/awesomebb/album_search_body.tpl#L7)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`219`](../src/awesomebb/album_showpage_body.tpl#L219)
+* __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`199`](../src/awesomebb/album_upload_body.tpl#L199)
+
 ### Version phpBB3
 * __[`album_cat_body`](../tpl/album_cat_body.md#readme)__ __:__ lignes [`13`](../src/prosilver/album_cat_body.tpl#L13), [`148`](../src/prosilver/album_cat_body.tpl#L148)
 * __[`album_cat_top10`](../tpl/album_cat_top10.md#readme)__ __:__ lignes [`7`](../src/prosilver/album_cat_top10.tpl#L7)

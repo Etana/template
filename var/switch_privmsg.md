@@ -26,6 +26,9 @@ contenu sur lequel on boucle
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`58`](../src/awesomebb/posting_body.tpl#L58)[`<->`](../src/awesomebb/posting_body.tpl#L58-L81)[`81`](../src/awesomebb/posting_body.tpl#L81), [`428`](../src/awesomebb/posting_body.tpl#L428)[`<->`](../src/awesomebb/posting_body.tpl#L428-L433)[`433`](../src/awesomebb/posting_body.tpl#L433), [`437`](../src/awesomebb/posting_body.tpl#L437)[`<->`](../src/awesomebb/posting_body.tpl#L437-L439)[`439`](../src/awesomebb/posting_body.tpl#L439)
+
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`64`](../src/prosilver/posting_body.tpl#L64)[`<->`](../src/prosilver/posting_body.tpl#L64-L88)[`88`](../src/prosilver/posting_body.tpl#L88), [`406`](../src/prosilver/posting_body.tpl#L406)[`<->`](../src/prosilver/posting_body.tpl#L406-L411)[`411`](../src/prosilver/posting_body.tpl#L411), [`415`](../src/prosilver/posting_body.tpl#L415)[`<->`](../src/prosilver/posting_body.tpl#L415-L417)[`417`](../src/prosilver/posting_body.tpl#L417)
 

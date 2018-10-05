@@ -19,6 +19,9 @@ Boucle s'affichant si vous avez activé Facebook Connect dans `PA > Modules > Fa
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`35`](../src/awesomebb/overall_header.tpl#L35)[`<->`](../src/awesomebb/overall_header.tpl#L35-L37)[`37`](../src/awesomebb/overall_header.tpl#L37)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`31`](../src/prosilver/overall_header.tpl#L31)[`<->`](../src/prosilver/overall_header.tpl#L31-L34)[`34`](../src/prosilver/overall_header.tpl#L34)
 

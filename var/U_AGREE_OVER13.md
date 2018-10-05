@@ -12,6 +12,9 @@ Lien vers l'étape suivante de l'inscription.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`2`](../src/awesomebb/agreement.tpl#L2)
+
 ### Version phpBB3
 * __[`agreement`](../tpl/agreement.md#readme)__ __:__ lignes [`15`](../src/prosilver/agreement.tpl#L15)
 

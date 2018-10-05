@@ -16,6 +16,7 @@
 
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN ads -->`](../var/catrow.forumrow.ads.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.ALIAS}`](../var/catrow.forumrow.ads.ALIAS.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.ALIAS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.DATE}`](../var/catrow.forumrow.ads.DATE.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.DATE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.IMG}`](../var/catrow.forumrow.ads.IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.IMG))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.ads.LINK}`](../var/catrow.forumrow.ads.LINK.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.ads.LINK))__
@@ -39,6 +40,7 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.L_LATEST_POST_FROM_THE}`](../var/catrow.forumrow.L_LATEST_POST_FROM_THE.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.L_LATEST_POST_FROM_THE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.L_LINKS}`](../var/catrow.forumrow.L_LINKS.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.L_LINKS))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.LAST_POST}`](../var/catrow.forumrow.LAST_POST.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.LAST_POST_HOUR}`](../var/catrow.forumrow.LAST_POST_HOUR.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.LAST_POST_HOUR))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.LATEST_TOPIC_NAME}`](../var/catrow.forumrow.LATEST_TOPIC_NAME.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.LATEST_TOPIC_NAME))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.LATEST_TOPIC_TITLE}`](../var/catrow.forumrow.LATEST_TOPIC_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.LATEST_TOPIC_TITLE))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.LEVEL}`](../var/catrow.forumrow.LEVEL.md#readme)__
@@ -49,12 +51,17 @@
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.switch_moderators_links.MODERATORS}`](../var/catrow.forumrow.switch_moderators_links.MODERATORS.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN switch_topic_title -->`](../var/catrow.forumrow.switch_topic_title.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.switch_topic_title))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.TOPICS}`](../var/catrow.forumrow.TOPICS.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.TYPE_SECTION}`](../var/catrow.forumrow.TYPE_SECTION.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.TYPE_SECTION))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.U_LATEST_TOPIC}`](../var/catrow.forumrow.U_LATEST_TOPIC.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.U_LATEST_TOPIC))__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.U_LATEST_TOPIC_POST}`](../var/catrow.forumrow.U_LATEST_TOPIC_POST.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.U_LATEST_TOPIC_POST))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.U_VIEWFORUM}`](../var/catrow.forumrow.U_VIEWFORUM.md#readme)__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{catrow.forumrow.USER_LAST_POST}`](../var/catrow.forumrow.USER_LAST_POST.md#readme) ([x](https://fa-tvars.appspot.com/var/catrow.forumrow.USER_LAST_POST))__
 
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`51`](../src/awesomebb/index_box.tpl#L51)[`<->`](../src/awesomebb/index_box.tpl#L51-L105)[`105`](../src/awesomebb/index_box.tpl#L105)
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`29`](../src/prosilver/index_box.tpl#L29)[`<->`](../src/prosilver/index_box.tpl#L29-L74)[`74`](../src/prosilver/index_box.tpl#L74)

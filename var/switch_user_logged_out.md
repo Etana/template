@@ -26,6 +26,9 @@ contenu que l'utilisateur verra si il est déconnecté
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`111`](../src/awesomebb/overall_header.tpl#L111)[`<->`](../src/awesomebb/overall_header.tpl#L111-L113)[`113`](../src/awesomebb/overall_header.tpl#L113)
+
 ### Version phpBB2
 * __[`album_upload_body`](../tpl/album_upload_body.md#readme)__ __:__ lignes [`209`](../src/subsilver/album_upload_body.tpl#L209)[`<->`](../src/subsilver/album_upload_body.tpl#L209-L214)[`214`](../src/subsilver/album_upload_body.tpl#L214)
 

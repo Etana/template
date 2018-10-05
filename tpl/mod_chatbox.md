@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Portail` > `mod_chatbox`
@@ -14,6 +14,14 @@
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
 	* [`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme) ([x](https://fa-tvars.appspot.com/var/U_FRAME_CHATBOX))
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/mod_chatbox.tpl#files)
+
+### Positions des variables
+
+* __[`{U_FRAME_CHATBOX}`](../var/U_FRAME_CHATBOX.md#readme)__ __:__ ligne [`3`](../src/awesomebb/mod_chatbox.tpl#L3)
 
 ## Template par défaut phpBB3
 

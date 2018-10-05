@@ -16,6 +16,9 @@ Contient la description du forum bouclé.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`59`](../src/awesomebb/index_box.tpl#L59)
+
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`38`](../src/prosilver/index_box.tpl#L38)
 

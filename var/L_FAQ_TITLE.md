@@ -14,6 +14,10 @@ Chaîne de texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`2`](../src/awesomebb/faq_body.tpl#L2)
+* __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`11`](../src/awesomebb/faq_dhtml.tpl#L11)
+
 ### Version phpBB3
 * __[`faq_body`](../tpl/faq_body.md#readme)__ __:__ lignes [`4`](../src/prosilver/faq_body.tpl#L4)
 * __[`faq_dhtml`](../tpl/faq_dhtml.md#readme)__ __:__ lignes [`13`](../src/prosilver/faq_dhtml.tpl#L13)

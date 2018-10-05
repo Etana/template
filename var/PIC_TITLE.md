@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`44`](../src/awesomebb/album_edit_body.tpl#L44)
+* __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`215`](../src/awesomebb/album_showpage_body.tpl#L215), [`241`](../src/awesomebb/album_showpage_body.tpl#L241), [`241`](../src/awesomebb/album_showpage_body.tpl#L241), [`353`](../src/awesomebb/album_showpage_body.tpl#L353), [`353`](../src/awesomebb/album_showpage_body.tpl#L353)
+* __[`album_slideshow_body`](../tpl/album_slideshow_body.md#readme)__ __:__ lignes [`347`](../src/awesomebb/album_slideshow_body.tpl#L347), [`355`](../src/awesomebb/album_slideshow_body.tpl#L355), [`355`](../src/awesomebb/album_slideshow_body.tpl#L355)
+
 ### Version phpBB3
 * __[`album_edit_body`](../tpl/album_edit_body.md#readme)__ __:__ lignes [`43`](../src/prosilver/album_edit_body.tpl#L43)
 * __[`album_showpage_body`](../tpl/album_showpage_body.md#readme)__ __:__ lignes [`230`](../src/prosilver/album_showpage_body.tpl#L230), [`247`](../src/prosilver/album_showpage_body.tpl#L247), [`247`](../src/prosilver/album_showpage_body.tpl#L247), [`348`](../src/prosilver/album_showpage_body.tpl#L348), [`348`](../src/prosilver/album_showpage_body.tpl#L348)

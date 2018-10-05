@@ -1,6 +1,6 @@
 # L_TOPICS
 * __Type__ __:__ variable d'affichage
-* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
+* __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme), [`modcp_body`](../tpl/modcp_body.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`profile_view_body`](../tpl/profile_view_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_topics`](../tpl/search_results_topics.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme)
 * __Utilisation__ __:__
 
 ```smarty
@@ -13,6 +13,13 @@ Chaîne de texte.
 * __Contenu en français :__ `Sujets`
 
 ## Utilisations dans les templates
+
+### Version AwesomeBB
+* __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`38`](../src/awesomebb/index_box.tpl#L38), [`63`](../src/awesomebb/index_box.tpl#L63)
+* __[`modcp_body`](../tpl/modcp_body.md#readme)__ __:__ lignes [`17`](../src/awesomebb/modcp_body.tpl#L17)
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`124`](../src/awesomebb/overall_header.tpl#L124)
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`61`](../src/awesomebb/profile_view_body.tpl#L61)
+* __[`search_body`](../tpl/search_body.md#readme)__ __:__ lignes [`112`](../src/awesomebb/search_body.tpl#L112)
 
 ### Version phpBB3
 * __[`index_box`](../tpl/index_box.md#readme)__ __:__ lignes [`20`](../src/prosilver/index_box.tpl#L20), [`47`](../src/prosilver/index_box.tpl#L47)

@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`27`](../src/awesomebb/modcp_split.tpl#L27), [`51`](../src/awesomebb/modcp_split.tpl#L51)
+
 ### Version phpBB3
 * __[`modcp_split`](../tpl/modcp_split.md#readme)__ __:__ lignes [`32`](../src/prosilver/modcp_split.tpl#L32), [`58`](../src/prosilver/modcp_split.tpl#L58)
 

@@ -15,6 +15,11 @@ Texte.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`52`](../src/awesomebb/groupcp_info_body.tpl#L52)
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 
+* __[`profile_view_body`](../tpl/profile_view_body.md#readme)__ __:__ lignes [`94`](../src/awesomebb/profile_view_body.tpl#L94)
+
 ### Version phpBB3
 * __[`groupcp_info_body`](../tpl/groupcp_info_body.md#readme)__ __:__ lignes [`35`](../src/prosilver/groupcp_info_body.tpl#L35)
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes 

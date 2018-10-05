@@ -12,6 +12,11 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`54`](../src/awesomebb/posting_body.tpl#L54)
+* __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`24`](../src/awesomebb/report_list_body.tpl#L24)
+* __[`report_view_body`](../tpl/report_view_body.md#readme)__ __:__ lignes [`18`](../src/awesomebb/report_view_body.tpl#L18)
+
 ### Version phpBB3
 * __[`posting_body`](../tpl/posting_body.md#readme)__ __:__ lignes [`60`](../src/prosilver/posting_body.tpl#L60)
 * __[`report_list_body`](../tpl/report_list_body.md#readme)__ __:__ lignes [`30`](../src/prosilver/report_list_body.tpl#L30)

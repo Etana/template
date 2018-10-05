@@ -22,6 +22,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`57`](../src/awesomebb/mod_recent_topics.tpl#L57)[`<->`](../src/awesomebb/mod_recent_topics.tpl#L57-L59)[`59`](../src/awesomebb/mod_recent_topics.tpl#L59)
+
 ### Version phpBB3
 * __[`mod_recent_topics`](../tpl/mod_recent_topics.md#readme)__ __:__ lignes [`37`](../src/prosilver/mod_recent_topics.tpl#L37)[`<->`](../src/prosilver/mod_recent_topics.tpl#L37-L39)[`39`](../src/prosilver/mod_recent_topics.tpl#L39)
 

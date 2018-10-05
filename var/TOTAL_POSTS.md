@@ -25,6 +25,10 @@ Nos membres ont posté un total de <strong>2</strong> messages
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`9`](../src/awesomebb/mod_statistics.tpl#L9)
+* __[`overall_footer_begin`](../tpl/overall_footer_begin.md#readme)__ __:__ lignes [`20`](../src/awesomebb/overall_footer_begin.tpl#L20)
+
 ### Version phpBB3
 * __[`index_body`](../tpl/index_body.md#readme)__ __:__ lignes [`85`](../src/prosilver/index_body.tpl#L85)
 * __[`mod_statistics`](../tpl/mod_statistics.md#readme)__ __:__ lignes [`6`](../src/prosilver/mod_statistics.tpl#L6)

@@ -12,6 +12,9 @@ Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analyti
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`67`](../src/awesomebb/overall_header.tpl#L67)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`202`](../src/prosilver/overall_header.tpl#L202)
 

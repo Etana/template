@@ -12,6 +12,9 @@ Contient la balise META gérant le favicon de votre forum.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`13`](../src/awesomebb/overall_header.tpl#L13)
+
 ### Version phpBB3
 * __[`overall_header`](../tpl/overall_header.md#readme)__ __:__ lignes [`14`](../src/prosilver/overall_header.tpl#L14)
 

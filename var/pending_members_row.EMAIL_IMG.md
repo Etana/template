@@ -20,6 +20,9 @@ Image `E-mail` ( choisie dans [`Index`](http://votre-forum.appspot.com/#/admin/,
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`23`](../src/awesomebb/groupcp_pending_info.tpl#L23)
+
 ### Version phpBB3
 * __[`groupcp_pending_info`](../tpl/groupcp_pending_info.md#readme)__ __:__ lignes [`25`](../src/prosilver/groupcp_pending_info.tpl#L25)
 

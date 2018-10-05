@@ -12,6 +12,9 @@
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`mod_top_posters`](../tpl/mod_top_posters.md#readme)__ __:__ lignes [`4`](../src/awesomebb/mod_top_posters.tpl#L4)
+
 ### Version phpBB3
 * __[`mod_top_posters`](../tpl/mod_top_posters.md#readme)__ __:__ lignes [`4`](../src/prosilver/mod_top_posters.tpl#L4), [`6`](../src/prosilver/mod_top_posters.tpl#L6)
 

@@ -14,6 +14,9 @@ Contient le contenu du message posté.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`14`](../src/awesomebb/search_results_posts.tpl#L14)
+
 ### Version phpBB3
 * __[`search_results_posts`](../tpl/search_results_posts.md#readme)__ __:__ lignes [`11`](../src/prosilver/search_results_posts.tpl#L11)
 

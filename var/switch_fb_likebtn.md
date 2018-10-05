@@ -17,6 +17,9 @@ Boucle cachée, ce qui se trouve à l'intérieur n'est pas visible.
 
 ## Utilisations dans les templates
 
+### Version AwesomeBB
+* __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`88`](../src/awesomebb/viewtopic_body.tpl#L88)[`<->`](../src/awesomebb/viewtopic_body.tpl#L88-L97)[`97`](../src/awesomebb/viewtopic_body.tpl#L97)
+
 ### Version phpBB3
 * __[`viewtopic_body`](../tpl/viewtopic_body.md#readme)__ __:__ lignes [`72`](../src/prosilver/viewtopic_body.tpl#L72)[`<->`](../src/prosilver/viewtopic_body.tpl#L72-L81)[`81`](../src/prosilver/viewtopic_body.tpl#L81)
 

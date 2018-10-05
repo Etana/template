@@ -2,7 +2,7 @@
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
-* Template par défaut : [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
+* Template par défaut : [`AwesomeBB`](#template-par-d%C3%A9faut-awesomebb) [`phpBB3`](#template-par-d%C3%A9faut-phpbb3) [`phpBB2`](#template-par-d%C3%A9faut-phpbb2) [`ModernBB`](#template-par-d%C3%A9faut-modernbb) [`PunBB`](#template-par-d%C3%A9faut-punbb) [`Invision`](#template-par-d%C3%A9faut-invision)
 
 ## Chemin
 `Index` > ` Panneau d'admnistration` > `Templates | Profil` > `profile_avatar_gallery`
@@ -32,13 +32,48 @@
 	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_RETURN_PROFILE}`](../var/L_RETURN_PROFILE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_RETURN_PROFILE))
+	* [`{L_SEARCH_TITLE}`](../var/L_SEARCH_TITLE.md#readme)
 	* [`{L_SELECT_AVATAR}`](../var/L_SELECT_AVATAR.md#readme) ([x](https://fa-tvars.appspot.com/var/L_SELECT_AVATAR))
 	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
+	* [`<!-- BEGIN navmenu -->`](../var/navmenu.md#readme)
+	* [`<!-- END navmenu -->`](../var/navmenu.md#readme)
+	* [`{PAGINATION}`](../var/PAGINATION.md#readme)
 	* [`{S_CATEGORY_SELECT}`](../var/S_CATEGORY_SELECT.md#readme) ([x](https://fa-tvars.appspot.com/var/S_CATEGORY_SELECT))
 	* [`{S_COLSPAN}`](../var/S_COLSPAN.md#readme) ([x](https://fa-tvars.appspot.com/var/S_COLSPAN))
 	* [`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)
 	* [`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme) ([x](https://fa-tvars.appspot.com/var/S_PROFILE_ACTION))
 	* [`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)
+
+## Template par défaut AwesomeBB
+
+[__Code source__](../src/awesomebb/profile_avatar_gallery.tpl#files)
+
+### Positions des variables
+
+* __[`{L_AVATAR_GALLERY}`](../var/L_AVATAR_GALLERY.md#readme)__ __:__ ligne [`2`](../src/awesomebb/profile_avatar_gallery.tpl#L2)
+* __[`{L_CATEGORY}`](../var/L_CATEGORY.md#readme)__ __:__ ligne [`16`](../src/awesomebb/profile_avatar_gallery.tpl#L16)
+* __[`{L_GO}`](../var/L_GO.md#readme)__ __:__ ligne [`19`](../src/awesomebb/profile_avatar_gallery.tpl#L19)
+* __[`{L_INDEX}`](../var/L_INDEX.md#readme)__ __:__ ligne [`5`](../src/awesomebb/profile_avatar_gallery.tpl#L5)
+* __[`{L_RETURN_PROFILE}`](../var/L_RETURN_PROFILE.md#readme)__ __:__ ligne [`47`](../src/awesomebb/profile_avatar_gallery.tpl#L47)
+* __[`{L_SEARCH_TITLE}`](../var/L_SEARCH_TITLE.md#readme)__ __:__ ligne [`6`](../src/awesomebb/profile_avatar_gallery.tpl#L6)
+* __[`{L_SELECT_AVATAR}`](../var/L_SELECT_AVATAR.md#readme)__ __:__ ligne [`46`](../src/awesomebb/profile_avatar_gallery.tpl#L46)
+* __[`{PAGINATION}`](../var/PAGINATION.md#readme)__ __:__ ligne [`10`](../src/awesomebb/profile_avatar_gallery.tpl#L10)
+* __[`{S_CATEGORY_SELECT}`](../var/S_CATEGORY_SELECT.md#readme)__ __:__ ligne [`18`](../src/awesomebb/profile_avatar_gallery.tpl#L18)
+* __[`{S_HIDDEN_FIELDS}`](../var/S_HIDDEN_FIELDS.md#readme)__ __:__ ligne [`45`](../src/awesomebb/profile_avatar_gallery.tpl#L45)
+* __[`{S_PROFILE_ACTION}`](../var/S_PROFILE_ACTION.md#readme)__ __:__ ligne [`14`](../src/awesomebb/profile_avatar_gallery.tpl#L14)
+* __[`{U_INDEX}`](../var/U_INDEX.md#readme)__ __:__ ligne [`5`](../src/awesomebb/profile_avatar_gallery.tpl#L5)
+* __[`<!-- BEGIN avatar_row -->`](../var/avatar_row.md#readme)__ __:__ ligne [`24`](../src/awesomebb/profile_avatar_gallery.tpl#L24)
+* __[`<!-- END avatar_row -->`](../var/avatar_row.md#readme)__ __:__ ligne [`39`](../src/awesomebb/profile_avatar_gallery.tpl#L39)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_column -->`](../var/avatar_row.avatar_column.md#readme)__ __:__ ligne [`25`](../src/awesomebb/profile_avatar_gallery.tpl#L25)
+* __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END avatar_column -->`](../var/avatar_row.avatar_column.md#readme)__ __:__ ligne [`38`](../src/awesomebb/profile_avatar_gallery.tpl#L38)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_IMAGE}`](../var/avatar_row.avatar_column.AVATAR_IMAGE.md#readme)__ __:__ ligne [`33`](../src/awesomebb/profile_avatar_gallery.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_NAME}`](../var/avatar_row.avatar_column.AVATAR_NAME.md#readme)__ __:__ ligne [`33`](../src/awesomebb/profile_avatar_gallery.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.AVATAR_NAME}`](../var/avatar_row.avatar_column.AVATAR_NAME.md#readme)__ __:__ ligne [`33`](../src/awesomebb/profile_avatar_gallery.tpl#L33)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme)__ __:__ ligne [`29`](../src/awesomebb/profile_avatar_gallery.tpl#L29)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- END avatar_option_column -->`](../var/avatar_row.avatar_column.avatar_option_column.md#readme)__ __:__ ligne [`31`](../src/awesomebb/profile_avatar_gallery.tpl#L31)
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR}`](../var/avatar_row.avatar_column.avatar_option_column.S_OPTIONS_AVATAR.md#readme)__ __:__ ligne [`30`](../src/awesomebb/profile_avatar_gallery.tpl#L30)
+* __[`<!-- BEGIN navmenu -->`](../var/navmenu.md#readme)__ __:__ ligne [`3`](../src/awesomebb/profile_avatar_gallery.tpl#L3)
+* __[`<!-- END navmenu -->`](../var/navmenu.md#readme)__ __:__ ligne [`8`](../src/awesomebb/profile_avatar_gallery.tpl#L8)
 
 ## Template par défaut phpBB3
 
