@@ -1,5 +1,5 @@
 # switch_desc
-* __Type__ __:__ variable de bouclage
+* __Type__ __:__ variable de bouclage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -10,7 +10,8 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_desc)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_desc)
+Le contenu est affiché si la description du forum est affichée.
+
 
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_desc.SITE_DESCRIPTION}`](../var/switch_desc.SITE_DESCRIPTION.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_desc.SITE_DESCRIPTION))__

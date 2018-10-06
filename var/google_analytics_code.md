@@ -1,5 +1,5 @@
 # google_analytics_code
-* __Type__ __:__ variable de bouclage
+* __Type__ __:__ variable de bouclage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -11,6 +11,7 @@ contenu sur lequel on boucle
 
 ## Description[*](https://fa-tvars.appspot.com/var/google_analytics_code)
 Boucle d'affiche du code de Google Analytics si celui-ci contient un identifiant de compte dans `PA > Général > Statistiques | Google Analytics > Identifiant de compte`.
+
 
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN google_analytics_code_bis -->`](../var/google_analytics_code.google_analytics_code_bis.md#readme)__

@@ -1,5 +1,5 @@
 # google_analytics_code.google_analytics_code_bis
-* __Type__ __:__ sous-variable de bouclage
+* __Type__ __:__ sous-variable de bouclage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 

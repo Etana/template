@@ -1,5 +1,5 @@
 # switch_h1
-* __Type__ __:__ variable de bouclage
+* __Type__ __:__ variable de bouclage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -10,7 +10,7 @@ contenu sur lequel on boucle
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_h1)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/switch_h1)
+
 
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{switch_h1.MAIN_SITENAME}`](../var/switch_h1.MAIN_SITENAME.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_h1.MAIN_SITENAME))__

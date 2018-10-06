@@ -1,5 +1,5 @@
 # switch_desc.SITE_DESCRIPTION
-* __Type__ __:__ sous-variable d'affichage
+* __Type__ __:__ sous-variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 

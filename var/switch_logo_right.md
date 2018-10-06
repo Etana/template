@@ -1,5 +1,5 @@
 # switch_logo_right
-* __Type__ __:__ variable de bouclage
+* __Type__ __:__ variable de bouclage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -11,6 +11,7 @@ contenu sur lequel on boucle
 
 ## Description[*](https://fa-tvars.appspot.com/var/switch_logo_right)
 Boucle s'affichant si vous avez sélectionné "A droite" dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.
+
 
 ## Attributs
 

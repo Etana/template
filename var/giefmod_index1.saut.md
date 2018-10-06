@@ -1,5 +1,5 @@
 # giefmod_index1.saut
-* __Type__ __:__ sous-variable de bouclage
+* __Type__ __:__ sous-variable de bouclage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 

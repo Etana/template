@@ -1,5 +1,5 @@
 # giefmod_index1
-* __Type__ __:__ variable de bouclage
+* __Type__ __:__ variable de bouclage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -11,6 +11,8 @@ contenu sur lequel on boucle
 
 ## Description[*](https://fa-tvars.appspot.com/var/giefmod_index1)
 Boucle d'affichage de vos widgets de la colonne de gauche si ceux-ci sont activés dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 1 (gauche)`.
+
+* __Boucle liée :__ [`<!-- BEGIN giefmod_index2 -->...<!-- END giefmod_index2 -->`](../var/giefmod_index2.md#readme) qui n'est pas globale
 
 ## Attributs
 * __&nbsp;&nbsp;&nbsp;&nbsp;[`{giefmod_index1.MODVAR}`](../var/giefmod_index1.MODVAR.md#readme)__
