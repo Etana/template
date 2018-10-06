@@ -4,8 +4,26 @@ import requests, re, html, os, time, json
 from enum import Enum
 from collections import OrderedDict
 
-template_versions = { 'awesomebb': 'AwesomeBB', 'subsilver': 'phpBB2', 'prosilver': 'phpBB3', 'modernbb': 'ModernBB', 'punbb': 'PunBB', 'invision': 'Invision', 'mobile': 'Version mobile'}
-template_categories = OrderedDict([('main','Général'),('portal','Portail'),('gallery','Galerie'),('calendar','Calendrier'),('group','Groupes'),('post','Poster & Messages Privés'),('moderation','Modération'),('profil','Profil'), ('mobile', 'Version mobile')])
+template_versions = {
+    'awesomebb': 'AwesomeBB',
+    'subsilver': 'phpBB2',
+    'prosilver': 'phpBB3',
+    'modernbb': 'ModernBB',
+    'punbb': 'PunBB',
+    'invision': 'Invision',
+    'mobile': 'Version mobile',
+}
+template_categories = OrderedDict([
+    ('main','Général'),
+    ('portal','Portail'),
+    ('gallery','Galerie'),
+    ('calendar','Calendrier'),
+    ('group','Groupes'),
+    ('post','Poster & Messages Privés'),
+    ('moderation','Modération'),
+    ('profil','Profil'),
+    ('mobile', 'Version mobile'),
+])
 template_descriptions = { cat:{} for cat in template_categories }
 template_contents = { ver:{} for ver in template_versions }
 template_from_categories = {}
@@ -24,19 +42,19 @@ num_page = 0
 s = requests.Session()
 
 from ident import ident
-''' 
+'''
 # file ident.py to add in current directory not included, with forum adress and admin identification, e.g :
 ident = {'forum': 'http://forum.forumactif.com/', 'username':'Gizmo', 'password': 'What did you expect?'}
 '''
 
-f = ident['forum'] 
+f = ident['forum']
 
 # connect to forum
 tid = s.post(f+'login.forum', data={'username':ident['username'], 'password':ident['password'], 'login':1, 'redirect':'/admin/', 'admin':1}).url[-32:]
 
 '''Chargement des pages du forum'''
 for ver in template_versions:
-    
+
     # change forum theme
     s.post(f+'admin/index.forum?part=themes&sub=styles&mode=version&extended_admin=1&tid='+tid,data={'tpl':ver, 'keep_theme': 1, 'change_version': 1})
 
@@ -55,7 +73,7 @@ for ver in template_versions:
         result= re.findall('>([a-z0-9_]+)(?:</span>)?</a></strong></td><td class="row1" align="center" valign="middle"><i>([^<]+)</i></td><td class="row2" align="center" valign="middle" style="text-align:center;"><a href="/(admin/index\.forum\?[^"]+)"', cat_page)
 
         for tem, desc, url in result:
-        
+
             template_descriptions[cat][tem] = desc
             template_from_categories[tem] = cat
             if os.path.isfile(script_dir+'/src/'+ver+'/'+tem+'.tpl'):
@@ -84,7 +102,6 @@ for ver in template_versions:
 '''Fichier README.md'''
 with open(script_dir+'/README.md', 'w') as f:
     f.write('# Templates de Forumactif\n\n## Variables\n\n* [Liste totale](variables.md#readme)\n\n\t* [Avec description](variables_avec_description.md#readme)\n\t* [Sans description](variables_sans_description.md#readme)\n\n## Templates\n\n')
-    
     for cat in template_categories:
 
         f.write('### '+template_categories[cat]+'\n\n')
@@ -111,7 +128,7 @@ def isboucle(var):
     return False if re.search('[A-Z]',var) and var not in ("IMGS","POSTER","TOPIC") else True
 
 def expandvar(content,name=""):
-    for kaboum in re.findall('\{\{(tpl|subsilver|punbb|mobile)/([a-z0-9_]+)\}\}', content):
+    for kaboum in re.findall('\{\{(tpl|subsilver|punbb|invision|awesomebb|prosilver|modernbb|mobile)/([a-z0-9_]+)\}\}', content):
         content= re.sub('\{\{('+kaboum[0]+"/"+kaboum[1]+')\}\}','[`'+kaboum[1]+'`](../tpl/'+kaboum[1]+'.md#readme)', content)
     for var in re.findall('\{\{[A-Za-z._0-9-]+\}\}', content):
         var= var[2:-2]
@@ -120,7 +137,7 @@ def expandvar(content,name=""):
         else:
             attr= var.split(".")[-1]
             content= re.sub('\{\{('+var.replace('.','\.').replace('-','\-')+')\}\}','[`<!-- BEGIN '+attr+' -->...<!-- END '+attr+' -->`](../var/\\1.md#readme)', content)
-   
+
     content= re.sub('(^\s+|\s+$)','',content)
 
     return content
@@ -130,19 +147,14 @@ for var_name in var_desc:
     if '{%%}' in var_desc[var_name]:
         var_globales += [var_name]
         var_desc[var_name] = var_desc[var_name].replace('{%%}','')
-        if var_name not in variables:
-            variables[var_name] = {}
+        variables.setdefault(var_name, {})
     for tem in list(set(re.findall('\{%([a-z0-9_-]+)%\}', var_desc[var_name]))):
         if tem not in template_variables:
-            continue 
+            continue
         template_variables[tem][var_name] = []
         var_desc[var_name] = var_desc[var_name].replace('{%'+tem+'%}','')
         for ver in template_versions:
-            if var_name not in variables:
-                variables[var_name] = {}
-            if ver not in variables[var_name]:
-                variables[var_name][ver] = {}
-            variables[var_name][ver][tem] = []
+            variables.setdefault(var_name, {}).setdefault(ver, {})[tem] = []
     if '{' in var_desc[var_name]:
         var_desc[var_name]= expandvar(var_desc[var_name])
 
@@ -169,7 +181,7 @@ for ver in template_contents:
                     var_name = m[1:-1]
                     var_type = 0
                 elif m[5] == 'B':
-                    if stack!='':   
+                    if stack!='':
                         stack += '.'
                     stack += m[11:-4]
                     var_name = stack
@@ -178,7 +190,7 @@ for ver in template_contents:
                     var_name = stack
                     stack = '.'.join(stack.split('.')[:-1])
                     var_type = 2
-                    
+
                 if var_name not in variables:
                     variables[var_name] = {}
                 if ver not in variables[var_name]:
@@ -186,13 +198,9 @@ for ver in template_contents:
                 if tem  not in variables[var_name][ver]:
                     variables[var_name][ver][tem] = []
 
-                try:
-                    if var_name not in template_variables[tem]:
-                        template_variables[tem][var_name] = []
-                except:
-                    __import__('ipdb').set_trace() # EAADD
+                if var_name not in template_variables[tem]:
+                    template_variables[tem][var_name] = []
 
-                    
                 variables[var_name][ver][tem] += [[num_line, var_type]]
                 template_variables[tem][var_name] += [[num_line, var_type, ver]]
 
@@ -373,4 +381,4 @@ with open(script_dir+'/variables_globales.md', 'w') as f:
     f.write('# Variables de template globales\n*Variables qui sont utilisables sur tout les templates.*')
     for var_name in sorted(var_globales, key=str.lower):
         for link in var2links(var_name, guess_type(var_name), ''):
-            f.write('\n* '+link)     
+            f.write('\n* '+link)
