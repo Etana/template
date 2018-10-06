@@ -1,5 +1,5 @@
 # META_FAVICO
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,10 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/META_FAVICO)
 Contient la balise META gérant le favicon de votre forum.
+
+* __Exemple de remplacement :__ `<link rel="shortcut icon" type="image/x-icon" href="//illiweb.com/fa/favicon/discussion.ico" />`
+* __Configuration de l'URL d'image dans le panneau d'administration :__ [`Index`](https://votre-forum.appspot.com/#/admin/,&part=general,&mode=general&sub=general,favicon) > [`Panneau d'administration`](https://votre-forum.appspot.com/admin/#&part=general,&mode=general&sub=general,favicon) > [`Général`](https://votre-forum.appspot.com/admin/?part=general#&mode=general&sub=general,favicon) > [`Forum | Configuration`](https://votre-forum.appspot.com/admin/?mode=general&part=general&sub=general#favicon) > `Favicon du forum`
+
 
 ## Utilisations dans les templates
 

@@ -1,4 +1,4 @@
-# Template calendar_box (x 47)
+# Template calendar_box (x 46)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -77,7 +77,6 @@
 	* [`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)
 	* [`<!-- END html_validation -->`](../var/html_validation.md#readme)
 	* [`{L_ADD_EVENT}`](../var/L_ADD_EVENT.md#readme) ([x](https://fa-tvars.appspot.com/var/L_ADD_EVENT))
-	* [`{L_CALENDAR}`](../var/L_CALENDAR.md#readme) ([x](https://fa-tvars.appspot.com/var/L_CALENDAR))
 	* [`{S_CREATE_EVENT}`](../var/S_CREATE_EVENT.md#readme) ([x](https://fa-tvars.appspot.com/var/S_CREATE_EVENT))
 	* [`{UP_ARROW}`](../var/UP_ARROW.md#readme) ([x](https://fa-tvars.appspot.com/var/UP_ARROW))
 

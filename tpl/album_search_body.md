@@ -15,8 +15,6 @@
 * __Variables propres à ce template__ __:__
 	* [`{JS_MENU}`](../var/JS_MENU.md#readme) ([x](https://fa-tvars.appspot.com/var/JS_MENU))
 	* [`{L_ALBUM}`](../var/L_ALBUM.md#readme) ([x](https://fa-tvars.appspot.com/var/L_ALBUM))
-	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
-	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_NRESULTS}`](../var/L_NRESULTS.md#readme) ([x](https://fa-tvars.appspot.com/var/L_NRESULTS))
 	* [`{L_SEARCH_MATCHES}`](../var/L_SEARCH_MATCHES.md#readme)
 	* [`{L_TCATEGORY}`](../var/L_TCATEGORY.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TCATEGORY))
@@ -25,7 +23,6 @@
 	* [`{L_TSUBMITED}`](../var/L_TSUBMITED.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TSUBMITED))
 	* [`{L_TSUBMITER}`](../var/L_TSUBMITER.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TSUBMITER))
 	* [`{L_TTITLE}`](../var/L_TTITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TTITLE))
-	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`{NAV_SEP}`](../var/NAV_SEP.md#readme) ([x](https://fa-tvars.appspot.com/var/NAV_SEP))
 	* [`{PAGE_NUMBER}`](../var/PAGE_NUMBER.md#readme)

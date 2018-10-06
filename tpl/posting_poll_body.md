@@ -58,8 +58,6 @@
 	* [`<!-- END switch_poll_delete_toggle -->`](../var/switch_poll_delete_toggle.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_poll_delete_toggle))
 	* [`<!-- BEGIN switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_poll_hide_result))
 	* [`<!-- END switch_poll_hide_result -->`](../var/switch_poll_hide_result.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_poll_hide_result))
-	* [`{TABS_LESS_IMG}`](../var/TABS_LESS_IMG.md#readme)
-	* [`{TABS_MORE_IMG}`](../var/TABS_MORE_IMG.md#readme)
 
 ## Template par défaut AwesomeBB
 

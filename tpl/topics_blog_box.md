@@ -118,7 +118,6 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.TOPIC_TYPE}`](../var/topics_blog_box.row.TOPIC_TYPE.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.TOPIC_TYPE))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.U_VIEW_TOPIC}`](../var/topics_blog_box.row.U_VIEW_TOPIC.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.U_VIEW_TOPIC))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{topics_blog_box.row.VIEWS}`](../var/topics_blog_box.row.VIEWS.md#readme) ([x](https://fa-tvars.appspot.com/var/topics_blog_box.row.VIEWS))
-	* [`{U_MARK_READ}`](../var/U_MARK_READ.md#readme)
 
 ## Template par défaut AwesomeBB
 

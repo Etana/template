@@ -1,5 +1,5 @@
 # T_GOO_LINK
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`search_body`](../tpl/search_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_GOO_LINK)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/T_GOO_LINK)
+Identifiant utilisé dans la recherche google.
+
+* __Exemple de remplacement :__ `263238`
+
 
 ## Utilisations dans les templates
 

@@ -1,5 +1,5 @@
 # U_CALENDAR
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`calendar_body`](../tpl/calendar_body.md#readme), [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_CALENDAR)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_CALENDAR)
+Lien URL vers le calendrier.
+
+* __Remplacement :__ `/calendar`
+
 
 ## Utilisations dans les templates
 

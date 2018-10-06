@@ -13,7 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
-	* [`{AUTOLOGIN_CHECKED}`](../var/AUTOLOGIN_CHECKED.md#readme)
 	* [`{DIRECTION}`](../var/DIRECTION.md#readme) ([x](https://fa-tvars.appspot.com/var/DIRECTION))
 	* [`{L_MESSAGES}`](../var/L_MESSAGES.md#readme) ([x](https://fa-tvars.appspot.com/var/L_MESSAGES))
 	* [`{L_MY_PROFILE}`](../var/L_MY_PROFILE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_MY_PROFILE))

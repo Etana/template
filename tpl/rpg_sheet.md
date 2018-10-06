@@ -15,11 +15,8 @@
 * __Variables propres à ce template__ __:__
 	* [`{L_ABOUT_USER}`](../var/L_ABOUT_USER.md#readme) ([x](https://fa-tvars.appspot.com/var/L_ABOUT_USER))
 	* [`{L_AVATAR}`](../var/L_AVATAR.md#readme)
-	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
-	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_ROLEPLAY_MANAGE_TITLE}`](../var/L_ROLEPLAY_MANAGE_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_ROLEPLAY_MANAGE_TITLE))
 	* [`{L_VIEWING_PROFILE}`](../var/L_VIEWING_PROFILE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_VIEWING_PROFILE))
-	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{POSTER_RANK}`](../var/POSTER_RANK.md#readme) ([x](https://fa-tvars.appspot.com/var/POSTER_RANK))
 	* [`<!-- BEGIN rpg_fields -->`](../var/rpg_fields.md#readme) ([x](https://fa-tvars.appspot.com/var/rpg_fields))
 	* [`<!-- END rpg_fields -->`](../var/rpg_fields.md#readme) ([x](https://fa-tvars.appspot.com/var/rpg_fields))

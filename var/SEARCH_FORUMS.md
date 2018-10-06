@@ -1,5 +1,5 @@
 # SEARCH_FORUMS
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -11,6 +11,7 @@
 Chaîne de texte.
 
 * __Contenu en français :__ `Rechercher des forums`
+
 
 ## Utilisations dans les templates
 

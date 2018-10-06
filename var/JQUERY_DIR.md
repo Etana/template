@@ -1,5 +1,5 @@
 # JQUERY_DIR
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`groupcp_info_body`](../tpl/groupcp_info_body.md#readme), [`overall_footer`](../tpl/overall_footer.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JQUERY_DIR)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/JQUERY_DIR)
+URL du dossier dans lesquel se trouvent les fichiers script et css relatifs à jQuery.
+
+* __Exemple de remplacement :__ `https://illiweb.com/rs3/40/frm/jquery/`
+
 
 ## Utilisations dans les templates
 

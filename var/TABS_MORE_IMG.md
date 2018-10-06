@@ -1,5 +1,5 @@
 # TABS_MORE_IMG
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`album_cat_body`](../tpl/album_cat_body.md#readme), [`album_showpage_body`](../tpl/album_showpage_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_poll_body`](../tpl/posting_poll_body.md#readme), [`search_body`](../tpl/search_body.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/TABS_MORE_IMG)
 Image pour ouvrir un panneau définie dans `PA > Affichage > Images et Couleurs | Gestion des images > Mode Avancé > Onglet "Mini icônes" > +`.
+
 
 ## Utilisations dans les templates
 

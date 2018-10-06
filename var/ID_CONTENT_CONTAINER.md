@@ -1,5 +1,5 @@
 # ID_CONTENT_CONTAINER
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -11,6 +11,7 @@
 Identifiant attribué au conteneur principal de votre forum.
 
 * __Différentes valeurs *(celles-ci changent selon vos widgets)* :__ `content-container` et `emptyidcc`
+
 
 ## Utilisations dans les templates
 

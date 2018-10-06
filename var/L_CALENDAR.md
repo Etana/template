@@ -1,5 +1,5 @@
 # L_CALENDAR
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`calendar_body`](../tpl/calendar_body.md#readme), [`calendar_box`](../tpl/calendar_box.md#readme), [`calendar_scheduler_body`](../tpl/calendar_scheduler_body.md#readme), [`index_body`](../tpl/index_body.md#readme), [`posting_body`](../tpl/posting_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_CALENDAR)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_CALENDAR)
+Chaîne de caractère.
+
+* __Remplacement français :__ `Calendrier`
+
 
 ## Utilisations dans les templates
 

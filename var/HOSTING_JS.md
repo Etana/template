@@ -1,5 +1,5 @@
 # HOSTING_JS
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,8 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/HOSTING_JS)
-Contient tout le JavaScript de votre forum.
+Contient tout le code html incluant les JavaScript de votre forum et un peu de CSS inline.
+
 
 ## Utilisations dans les templates
 

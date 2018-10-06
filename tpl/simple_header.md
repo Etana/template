@@ -13,12 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
-	* [`{JQUERY_PATH}`](../var/JQUERY_PATH.md#readme)
-	* [`{JS_DIR}`](../var/JS_DIR.md#readme)
-	* [`{L_LANG}`](../var/L_LANG.md#readme)
-	* [`{L_LANG_HTML}`](../var/L_LANG_HTML.md#readme)
-	* [`{META}`](../var/META.md#readme)
-	* [`{T_HEAD_STYLESHEET}`](../var/T_HEAD_STYLESHEET.md#readme)
 
 ## Template par défaut AwesomeBB
 

@@ -14,12 +14,9 @@
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
 	* [`{L_LEAVESHADOW}`](../var/L_LEAVESHADOW.md#readme) ([x](https://fa-tvars.appspot.com/var/L_LEAVESHADOW))
-	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_MOVE_TO_FORUM}`](../var/L_MOVE_TO_FORUM.md#readme) ([x](https://fa-tvars.appspot.com/var/L_MOVE_TO_FORUM))
 	* [`{L_NO}`](../var/L_NO.md#readme)
-	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_YES}`](../var/L_YES.md#readme)
-	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme)
 	* [`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme)
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)

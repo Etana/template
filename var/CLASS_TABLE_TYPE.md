@@ -1,5 +1,5 @@
 # CLASS_TABLE_TYPE
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`standard`](../tpl/standard.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,9 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/CLASS_TABLE_TYPE)
 Ajoute une class `row1` aux widgets personnalisés.
+
+* __Remplacement :__ ` class="row1"`
+ 
 
 ## Utilisations dans les templates
 

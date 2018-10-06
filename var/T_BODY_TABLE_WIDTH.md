@@ -1,5 +1,5 @@
 # T_BODY_TABLE_WIDTH
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,9 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_BODY_TABLE_WIDTH)
 Largeur du forum définie dans `PA > Général > Forum | Configuration > Largeur du forum (nombre ou %)`.
+
+* __Exemple de remplacement :__ `1200`
+
 
 ## Utilisations dans les templates
 

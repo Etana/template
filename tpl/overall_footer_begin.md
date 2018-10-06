@@ -29,7 +29,6 @@
 	* [`{NEWEST_USER}`](../var/NEWEST_USER.md#readme)
 	* [`{S_JUMPBOX_ACTION}`](../var/S_JUMPBOX_ACTION.md#readme)
 	* [`{S_JUMPBOX_SELECT}`](../var/S_JUMPBOX_SELECT.md#readme)
-	* [`{SPACE_ROW}`](../var/SPACE_ROW.md#readme)
 	* [`{TOTAL_POSTS}`](../var/TOTAL_POSTS.md#readme)
 	* [`{TOTAL_USERS}`](../var/TOTAL_USERS.md#readme)
 

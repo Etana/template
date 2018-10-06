@@ -1,5 +1,5 @@
 # SPACE_ROW
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_footer_begin`](../tpl/overall_footer_begin.md#readme), [`overall_header`](../tpl/overall_header.md#readme), [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,9 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/SPACE_ROW)
 Affiche la valeur renseignée dans votre `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Hauteur entre deux widgets`.
+
+* __Exemple de remplacement :__ `4`
+
 
 ## Utilisations dans les templates
 

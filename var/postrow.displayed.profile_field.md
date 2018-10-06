@@ -17,7 +17,7 @@
 [*Ajouter une description*](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field)
 
 ## Attributs
-* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.profile_field.CONTENT}`](../var/postrow.displayed.profile_field.CONTENT.md#readme)__
+* __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.profile_field.CONTENT}`](../var/postrow.displayed.profile_field.CONTENT.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.CONTENT))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.profile_field.LABEL}`](../var/postrow.displayed.profile_field.LABEL.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.LABEL))__
 * __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{postrow.displayed.profile_field.SEPARATOR}`](../var/postrow.displayed.profile_field.SEPARATOR.md#readme) ([x](https://fa-tvars.appspot.com/var/postrow.displayed.profile_field.SEPARATOR))__
 

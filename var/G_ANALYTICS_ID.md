@@ -1,5 +1,5 @@
 # G_ANALYTICS_ID
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/G_ANALYTICS_ID)
 Affiche la valeur indiquée dans `PA > Général > Statistiques | Google Analytics > Identifiant de compte`.
+
 
 ## Utilisations dans les templates
 

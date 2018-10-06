@@ -1,5 +1,5 @@
 # AUTOLOGIN_CHECKED
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_login`](../tpl/mod_login.md#readme)
 * __Utilisation__ __:__
 
@@ -11,6 +11,7 @@
 Choix de la connexion automatique.
 
 * __Contenu :__  `checked="checked"` si l'utilisateur a coché "Connexion automatique"
+
 
 ## Utilisations dans les templates
 

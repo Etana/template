@@ -1,5 +1,5 @@
 # L_STATS
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`profile_view_body`](../tpl/profile_view_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_STATS)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/L_STATS)
+Chaîne de text.
+
+* __Remplacement en français :__ `Statistiques du forum`
+
 
 ## Utilisations dans les templates
 

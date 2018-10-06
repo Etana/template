@@ -1,4 +1,4 @@
-# Template standard (x 4)
+# Template standard (x 3)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -13,10 +13,8 @@
 ## Variables disponibles
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
-	* [`{CLASS_TABLE_TYPE}`](../var/CLASS_TABLE_TYPE.md#readme)
 	* [`<!-- BEGIN not_table_row -->`](../var/not_table_row.md#readme) ([x](https://fa-tvars.appspot.com/var/not_table_row))
 	* [`<!-- END not_table_row -->`](../var/not_table_row.md#readme) ([x](https://fa-tvars.appspot.com/var/not_table_row))
-	* [`{S_SOURCE}`](../var/S_SOURCE.md#readme) ([x](https://fa-tvars.appspot.com/var/S_SOURCE))
 	* [`<!-- BEGIN table_row -->`](../var/table_row.md#readme) ([x](https://fa-tvars.appspot.com/var/table_row))
 	* [`<!-- END table_row -->`](../var/table_row.md#readme) ([x](https://fa-tvars.appspot.com/var/table_row))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{table_row.L_TITRE}`](../var/table_row.L_TITRE.md#readme) ([x](https://fa-tvars.appspot.com/var/table_row.L_TITRE))

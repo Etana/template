@@ -1,5 +1,5 @@
 # ACTION_SEARCH
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/ACTION_SEARCH)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/ACTION_SEARCH)
+URL de destination du formulaire  de recherche dans la toolbar.
+
+* __Remplacement :__ `/search?search_where=11`
+
 
 ## Utilisations dans les templates
 

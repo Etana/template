@@ -15,8 +15,6 @@
 * __Variables propres à ce template__ __:__
 	* [`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)
 	* [`{L_LAST_EDIT}`](../var/L_LAST_EDIT.md#readme) ([x](https://fa-tvars.appspot.com/var/L_LAST_EDIT))
-	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
-	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_POST}`](../var/L_POST.md#readme) ([x](https://fa-tvars.appspot.com/var/L_POST))
 	* [`{L_REASON}`](../var/L_REASON.md#readme) ([x](https://fa-tvars.appspot.com/var/L_REASON))
 	* [`{L_REPORT_ARCHIVE}`](../var/L_REPORT_ARCHIVE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_REPORT_ARCHIVE))
@@ -26,7 +24,6 @@
 	* [`{L_REPORTER}`](../var/L_REPORTER.md#readme) ([x](https://fa-tvars.appspot.com/var/L_REPORTER))
 	* [`{L_STATUS}`](../var/L_STATUS.md#readme) ([x](https://fa-tvars.appspot.com/var/L_STATUS))
 	* [`{L_UPDATE_STATUS}`](../var/L_UPDATE_STATUS.md#readme) ([x](https://fa-tvars.appspot.com/var/L_UPDATE_STATUS))
-	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`{REPORT_NAVARROW}`](../var/REPORT_NAVARROW.md#readme) ([x](https://fa-tvars.appspot.com/var/REPORT_NAVARROW))
 	* [`<!-- BEGIN row -->`](../var/row.md#readme) ([x](https://fa-tvars.appspot.com/var/row))

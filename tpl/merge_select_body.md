@@ -15,11 +15,8 @@
 * __Variables propres à ce template__ __:__
 	* [`{CURRENT_FID}`](../var/CURRENT_FID.md#readme) ([x](https://fa-tvars.appspot.com/var/CURRENT_FID))
 	* [`{L_GO}`](../var/L_GO.md#readme)
-	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
-	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_SELECT}`](../var/L_SELECT.md#readme)
 	* [`{L_TITLE}`](../var/L_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_TITLE))
-	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{MERGE_BOX}`](../var/MERGE_BOX.md#readme) ([x](https://fa-tvars.appspot.com/var/MERGE_BOX))
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`{PAGINATION}`](../var/PAGINATION.md#readme)

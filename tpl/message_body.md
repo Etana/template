@@ -13,9 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
-	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
-	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
-	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{MESSAGE_TEXT}`](../var/MESSAGE_TEXT.md#readme)
 	* [`{MESSAGE_TITLE}`](../var/MESSAGE_TITLE.md#readme)
 

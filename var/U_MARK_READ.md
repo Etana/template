@@ -1,5 +1,5 @@
 # U_MARK_READ
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme), [`topics_blog_box`](../tpl/topics_blog_box.md#readme), [`topics_list_box`](../tpl/topics_list_box.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,9 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_MARK_READ)
-Lien vers marquer tous les forums comme lus. 
+Lien vers marquer tous les forums comme lus. Prends l'URL en cours et ajoute `?mark=forums` ou `&mark=forums` si il y a déjà un `?` dans l'URL en cours.
 
 * __Remplacement par :__  `/?mark=forums`
+
 
 ## Utilisations dans les templates
 

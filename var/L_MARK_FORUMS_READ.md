@@ -1,5 +1,5 @@
 # L_MARK_FORUMS_READ
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation__ __:__
 
@@ -10,7 +10,7 @@
 ## Description[*](https://fa-tvars.appspot.com/var/L_MARK_FORUMS_READ)
 Affiche le texte du lien de la variable [`{U_MARK_READ}`](../var/U_MARK_READ.md#readme).
 
-* __Contenu en français :__  `Top 20 des posteurs du jour`
+* __Contenu en français :__  `Marquer tous les forums comme lus`
 
 ## Utilisations dans les templates
 

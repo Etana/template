@@ -1,4 +1,4 @@
-# Template calendar_body (x 4)
+# Template calendar_body (x 2)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -14,13 +14,8 @@
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
 	* [`{CALENDAR_MONTH}`](../var/CALENDAR_MONTH.md#readme) ([x](https://fa-tvars.appspot.com/var/CALENDAR_MONTH))
-	* [`{L_CALENDAR}`](../var/L_CALENDAR.md#readme) ([x](https://fa-tvars.appspot.com/var/L_CALENDAR))
-	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
-	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
-	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`{NAV_SEPARATOR}`](../var/NAV_SEPARATOR.md#readme) ([x](https://fa-tvars.appspot.com/var/NAV_SEPARATOR))
-	* [`{U_CALENDAR}`](../var/U_CALENDAR.md#readme) ([x](https://fa-tvars.appspot.com/var/U_CALENDAR))
 	* [`{U_VIEW_FORUM}`](../var/U_VIEW_FORUM.md#readme)
 
 ## Template par défaut AwesomeBB

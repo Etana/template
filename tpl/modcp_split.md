@@ -15,9 +15,7 @@
 * __Variables propres à ce template__ __:__
 	* [`{L_ALBUM}`](../var/L_ALBUM.md#readme) ([x](https://fa-tvars.appspot.com/var/L_ALBUM))
 	* [`{L_AUTHOR}`](../var/L_AUTHOR.md#readme)
-	* [`{L_LOGIN_REGISTER}`](../var/L_LOGIN_REGISTER.md#readme)
 	* [`{L_MESSAGE}`](../var/L_MESSAGE.md#readme)
-	* [`{L_NOT_CONNECTED}`](../var/L_NOT_CONNECTED.md#readme)
 	* [`{L_POST}`](../var/L_POST.md#readme) ([x](https://fa-tvars.appspot.com/var/L_POST))
 	* [`{L_POST_SUBJECT}`](../var/L_POST_SUBJECT.md#readme)
 	* [`{L_POSTED}`](../var/L_POSTED.md#readme) ([x](https://fa-tvars.appspot.com/var/L_POSTED))
@@ -28,7 +26,6 @@
 	* [`{L_SPLIT_SUBJECT}`](../var/L_SPLIT_SUBJECT.md#readme) ([x](https://fa-tvars.appspot.com/var/L_SPLIT_SUBJECT))
 	* [`{L_SPLIT_TOPIC}`](../var/L_SPLIT_TOPIC.md#readme)
 	* [`{L_SPLIT_TOPIC_EXPLAIN}`](../var/L_SPLIT_TOPIC_EXPLAIN.md#readme) ([x](https://fa-tvars.appspot.com/var/L_SPLIT_TOPIC_EXPLAIN))
-	* [`{LOGGED_AS}`](../var/LOGGED_AS.md#readme)
 	* [`{MAX_TOPIC_LENGTH}`](../var/MAX_TOPIC_LENGTH.md#readme) ([x](https://fa-tvars.appspot.com/var/MAX_TOPIC_LENGTH))
 	* [`{MINI_POST_IMG}`](../var/MINI_POST_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/MINI_POST_IMG))
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)

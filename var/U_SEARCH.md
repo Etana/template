@@ -1,5 +1,5 @@
 # U_SEARCH
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`mod_search`](../tpl/mod_search.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,11 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/U_SEARCH)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/U_SEARCH)
+URL de page de recherche. Utilisé dans le portail pour le widget de recherche.
+
+* __Remplacement sur le portail :__ `/search`
+* __Remplacement ailleurs :__ `/gallery/gal_pformsearch.forum`
+
 
 ## Utilisations dans les templates
 

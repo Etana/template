@@ -1,5 +1,5 @@
 # L_TABS_PERMISSIONS
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,9 +8,14 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_TABS_PERMISSIONS)
-Chaîne de texte.
+Chaîne html.
 
-* __Contenu en français :__ `Permission de ce forum`
+* __Contenu en français :__
+
+```html
+<strong>Permission de ce forum:</strong>
+```
+
 
 ## Utilisations dans les templates
 

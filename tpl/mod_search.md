@@ -1,4 +1,4 @@
-# Template mod_search (x 9)
+# Template mod_search (x 8)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -22,7 +22,6 @@
 	* [`<!-- BEGIN TAGS -->`](../var/TAGS.md#readme) ([x](https://fa-tvars.appspot.com/var/TAGS))
 	* [`<!-- END TAGS -->`](../var/TAGS.md#readme) ([x](https://fa-tvars.appspot.com/var/TAGS))
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`{TAGS.SEARCH_TAGS}`](../var/TAGS.SEARCH_TAGS.md#readme) ([x](https://fa-tvars.appspot.com/var/TAGS.SEARCH_TAGS))
-	* [`{U_SEARCH}`](../var/U_SEARCH.md#readme) ([x](https://fa-tvars.appspot.com/var/U_SEARCH))
 
 ## Template par défaut AwesomeBB
 

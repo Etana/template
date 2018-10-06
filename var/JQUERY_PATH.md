@@ -1,5 +1,5 @@
 # JQUERY_PATH
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,9 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/JQUERY_PATH)
 Adresse URL de la librairie JavaScript jQuery.
+
+* __Exemple de remplacement :__ `https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js`
+
 
 ## Utilisations dans les templates
 

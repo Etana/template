@@ -1,5 +1,5 @@
 # T_HEAD_STYLESHEET
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,13 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/T_HEAD_STYLESHEET)
 Contient le CSS global (CSS de base + CSS perso) du forum.
+
+* __Exemple de remplacement :__ 
+
+```html
+<link rel="stylesheet" href="/84-ltr.css" type="text/css" />
+```
+
 
 ## Utilisations dans les templates
 

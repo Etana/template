@@ -1,5 +1,5 @@
 # C1SIZE
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`portal_body`](../tpl/portal_body.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,9 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/C1SIZE)
 Contient la valeur dans `PA > Modules > Portail & Widgets | Gestion des widgets du forum > Largeur colonne 1 (gauche)`.
+
+Par exemple: `183`
+
 
 ## Utilisations dans les templates
 

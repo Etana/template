@@ -1,5 +1,5 @@
 # SPACER
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`index_box`](../tpl/index_box.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,7 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/SPACER)
 Adresse URL d'une image vide : `http://illiweb.com/fa/empty.gif`
+
 
 ## Utilisations dans les templates
 

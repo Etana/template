@@ -1,5 +1,5 @@
 # PATH_IMG_FA
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`agreement`](../tpl/agreement.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`privmsgs_body`](../tpl/privmsgs_body.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/PATH_IMG_FA)
-[*Ajouter une description*](https://fa-tvars.appspot.com/var/PATH_IMG_FA)
+Chemin URL vers le dossier contenant les images utilisées de façon générale sur forumactif.
+
+* __Remplacement :__ `https://illiweb.com/fa/`
+
 
 ## Utilisations dans les templates
 

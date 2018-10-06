@@ -1,5 +1,5 @@
 # JS_AUTH_FAVOURITES
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_AUTH_FAVOURITES)
-Contient la valeur `false`.
+Contient la valeur `false` si on est pas sur un sujet ou pas connecté, `true` au sinon.
+
+Est utilisé pour afficher `Ajouter à ses favoris` dans le menu `Plus !` sur un sujet quand on est connecté.
+
 
 ## Utilisations dans les templates
 

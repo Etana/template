@@ -1,4 +1,4 @@
-# Template overall_footer (x 23)
+# Template overall_footer (x 22)
 * [Chemin](#chemin)
 * [Description](#description)
 * [Variables disponibles](#variables-disponibles)
@@ -15,7 +15,6 @@
 * __Variables propres à ce template__ __:__
 	* [`<!-- BEGIN html_validation -->`](../var/html_validation.md#readme)
 	* [`<!-- END html_validation -->`](../var/html_validation.md#readme)
-	* [`{JQUERY_DIR}`](../var/JQUERY_DIR.md#readme) ([x](https://fa-tvars.appspot.com/var/JQUERY_DIR))
 	* [`{PROTECT_FOOTER}`](../var/PROTECT_FOOTER.md#readme) ([x](https://fa-tvars.appspot.com/var/PROTECT_FOOTER))
 	* [`<!-- BEGIN switch_facebook_login -->`](../var/switch_facebook_login.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_facebook_login))
 	* [`<!-- END switch_facebook_login -->`](../var/switch_facebook_login.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_facebook_login))

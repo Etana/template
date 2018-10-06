@@ -13,9 +13,6 @@
 ## Variables disponibles
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
-	* [`{JQUERY_PATH}`](../var/JQUERY_PATH.md#readme)
-	* [`{JS_DIR}`](../var/JS_DIR.md#readme)
-	* [`{L_LANG}`](../var/L_LANG.md#readme)
 	* [`{L_SMILIES_TITLE}`](../var/L_SMILIES_TITLE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_SMILIES_TITLE))
 	* [`{L_VIEW_MORE}`](../var/L_VIEW_MORE.md#readme) ([x](https://fa-tvars.appspot.com/var/L_VIEW_MORE))
 	* [`{SELECT_OPTIONS}`](../var/SELECT_OPTIONS.md#readme) ([x](https://fa-tvars.appspot.com/var/SELECT_OPTIONS))
@@ -27,7 +24,6 @@
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_DESC}`](../var/smilies_row.smilies_col.SMILEY_DESC.md#readme) ([x](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_DESC))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_ID}`](../var/smilies_row.smilies_col.SMILEY_ID.md#readme) ([x](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_ID))
 	* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`{smilies_row.smilies_col.SMILEY_IMG}`](../var/smilies_row.smilies_col.SMILEY_IMG.md#readme) ([x](https://fa-tvars.appspot.com/var/smilies_row.smilies_col.SMILEY_IMG))
-	* [`{T_HEAD_STYLESHEET}`](../var/T_HEAD_STYLESHEET.md#readme)
 
 ## Template par défaut AwesomeBB
 

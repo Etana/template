@@ -1,5 +1,5 @@
 # TOTAL_USERS_ONLINE
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme)
 * __Utilisation__ __:__
 
@@ -19,29 +19,29 @@ Il y a en tout <strong>1</strong> utilisateur en ligne :: 1 Enregistré, 0 Invis
 * __Exemple de code pour ne conserver que le nombre total de connecté  :__
 
 ```html
-<span id=tuot>{TOTAL_USERS_ONLINE}</span>
-<script> $('#tuot').text($('#tuot').text().match(/[0-9]+/g)[0]) </script>
+<span>{TOTAL_USERS_ONLINE}</span>
+<script> $('script:last').prev().text(function (_, old) { return old.match(/[0-9]+/g)[0]; }); </script>
 ```
 
 * __Exemple de code pour ne conserver que le nombre de membre enregistré  :__
 
 ```html
-<span id=tuor>{TOTAL_USERS_ONLINE}</span>
-<script> $('#tuor').text($('#tuor').text().match(/[0-9]+/g)[1]) </script>
+<span>{TOTAL_USERS_ONLINE}</span>
+<script> $('script:last').prev().text(function (_, old) { return old.match(/[0-9]+/g)[1]; }); </script>
 ```
 
 * __Exemple de code pour ne conserver que le nombre de membre invisible  :__
 
 ```html
-<span id=tuoi>{TOTAL_USERS_ONLINE}</span>
-<script> $('#tuoi').text($('#tuoi').text().match(/[0-9]+/g)[2]) </script>
+<span>{TOTAL_USERS_ONLINE}</span>
+<script> $('script:last').prev().text(function (_, old) { return old.match(/[0-9]+/g)[2]; }); </script>
 ```
 
 * __Exemple de code pour ne conserver que le nombre d'invité  :__
 
 ```html
-<span id=tuog>{TOTAL_USERS_ONLINE}</span>
-<script> $('#tuog').text($('#tuog').text().match(/[0-9]+/g)[3]) </script>
+<span>{TOTAL_USERS_ONLINE}</span>
+<script> $('script:last').prev().text(function (_, old) { return old.match(/[0-9]+/g)[2]; }); </script>
 ```
 
 ## Utilisations dans les templates

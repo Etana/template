@@ -1,5 +1,5 @@
 # L_LANG
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation__ __:__
 
@@ -11,6 +11,9 @@
 Chaîne de texte qui permet de définir un code JavaScript selon la langue de votre forum .
 
 *Attention : Cette variable est importante au bon fonctionnement de votre forum !*
+
+* __Exemple de remplacement :__ `lang/fr`
+
 
 ## Utilisations dans les templates
 

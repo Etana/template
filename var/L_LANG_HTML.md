@@ -1,5 +1,5 @@
 # L_LANG_HTML
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`simple_header`](../tpl/simple_header.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,9 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/L_LANG_HTML)
 Contient la langue de votre forum.
+
+* __Exemple de remplacement :__ `fr`
+
 
 ## Utilisations dans les templates
 

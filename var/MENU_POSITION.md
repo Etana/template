@@ -1,5 +1,5 @@
 # MENU_POSITION
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,9 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/MENU_POSITION)
 Position de la barre de navigation selon le choix de l'administrateur dans `PA > Affichage > Page d'accueil | En-tête & Navigation > Position du logo`.
+
+* __Exemple de remplacement :__ `left`
+
 
 ## Utilisations dans les templates
 

@@ -1,5 +1,5 @@
 # URL_BOARD_DIRECTORY
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme)
 * __Utilisation__ __:__
 
@@ -9,6 +9,9 @@
 
 ## Description[*](https://fa-tvars.appspot.com/var/URL_BOARD_DIRECTORY)
 Lien vers l'annuaire des forums dans la langue du forum.
+
+* __Exemple de remplacement :__ `https://www.annuairedeforums.com`
+
 
 ## Utilisations dans les templates
 

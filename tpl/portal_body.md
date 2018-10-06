@@ -14,7 +14,6 @@
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
 	* [`{ADMIN_LINK}`](../var/ADMIN_LINK.md#readme) ([x](https://fa-tvars.appspot.com/var/ADMIN_LINK))
-	* [`{C1SIZE}`](../var/C1SIZE.md#readme)
 	* [`{C2SIZE}`](../var/C2SIZE.md#readme) ([x](https://fa-tvars.appspot.com/var/C2SIZE))
 	* [`{C3SIZE}`](../var/C3SIZE.md#readme)
 	* [`<!-- BEGIN giefmod0 -->`](../var/giefmod0.md#readme) ([x](https://fa-tvars.appspot.com/var/giefmod0))
@@ -57,7 +56,6 @@
 	* [`<!-- BEGIN simple_header -->`](../var/simple_header.md#readme) ([x](https://fa-tvars.appspot.com/var/simple_header))
 	* [`<!-- END simple_header -->`](../var/simple_header.md#readme) ([x](https://fa-tvars.appspot.com/var/simple_header))
 	* [`{SPACE_COL}`](../var/SPACE_COL.md#readme) ([x](https://fa-tvars.appspot.com/var/SPACE_COL))
-	* [`{SPACE_ROW}`](../var/SPACE_ROW.md#readme)
 
 ## Template par défaut AwesomeBB
 

@@ -1,5 +1,5 @@
 # JS_DIR
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`overall_header`](../tpl/overall_header.md#readme), [`posting_body`](../tpl/posting_body.md#readme), [`posting_smilies_frame`](../tpl/posting_smilies_frame.md#readme), [`posting_smilies_wysiwyg`](../tpl/posting_smilies_wysiwyg.md#readme), [`search_body`](../tpl/search_body.md#readme), [`search_results_posts`](../tpl/search_results_posts.md#readme), [`simple_header`](../tpl/simple_header.md#readme), [`viewcomments_body`](../tpl/viewcomments_body.md#readme), [`viewtopic_body`](../tpl/viewtopic_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,7 +8,10 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/JS_DIR)
-JavaScript important au bon fonctionnement de votre forum.
+Adresse URL du dossier dans lesquel se trouvent les fichiers script généraux de forumactif.
+
+* __Exemple de remplacement :__ `https://illiweb.com/rs3/40/frm/`
+
 
 ## Utilisations dans les templates
 

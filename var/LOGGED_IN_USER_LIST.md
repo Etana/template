@@ -1,5 +1,5 @@
 # LOGGED_IN_USER_LIST
-* __Type__ __:__ variable d'affichage
+* __Type__ __:__ variable d'affichage globale
 * __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation__ __:__
 
@@ -8,19 +8,28 @@
 ```
 
 ## Description[*](https://fa-tvars.appspot.com/var/LOGGED_IN_USER_LIST)
-Chaîne html indiquant les membres actuellement en ligne ( séparés par des virgules ).
+Chaîne html indiquant les membres actuellement en ligne ( séparés par des virgules ) ou parcourant actuellement le forum si on se trouve dans un forum ou un sujet.
 
-* __Exemple de remplacement français :__ 
+
+* __Variable similaire :__ [`{LOGGED_IN_USERS_LIST}`](../var/LOGGED_IN_USERS_LIST.md#readme) qui est pareille mais affiche toujours la liste des membres en ligne sur le forum
+
+* __Exemple de remplacement français sur l'index :__ 
 
 ```html
 Utilisateurs enregistrés : <a href="/u1"><span style="color:#000099"><strong>Admin</strong></span></a>, <strong><a href="/u2">joe</a></strong><br />
 ```
 
+* __Exemple de remplacement français sur un sujet :__
+
+```html
+Utilisateurs parcourant actuellement ce forum: <a href="/u1"><span style="color:#000099"><strong>Admin</strong></span></a><br />
+```
+
 * __Exemple de code pour ne conserver que la liste d'utilisateur  :__
 
 ```html
-<span id=liul>{LOGGED_IN_USER_LIST}</span>
-<script> $('#liul').html($('#liul').html().match(/(<.*)<br( \/)?()>$/)[1]) </script>
+<span>{LOGGED_IN_USER_LIST}</span>
+<script>$('script:last').prev().html(function (_, old) {return old.replace(/^[^<]+/, '').replace(/<br \/>$/, '')});</script>
 ```
 
 ## Utilisations dans les templates
