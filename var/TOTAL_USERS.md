@@ -19,8 +19,8 @@ Nous avons <strong>1</strong> membre enregistré
 * __Exemple de code pour ne conserver que le chiffre :__
 
 ```html
-<span id=tu>{TOTAL_USERS}</span>
-<script> $('#tu').text($('#tu').text().match(/[0-9]+/)) </script>
+<span>{TOTAL_USERS}</span>
+<script>$('script:last').prev().text(function(_,o){return o.match(/[0-9]+/)[0]})</script>
 ```
 
 ## Utilisations dans les templates

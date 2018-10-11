@@ -19,8 +19,8 @@ Nos membres ont posté un total de <strong>2</strong> messages
 * __Exemple de code pour ne conserver que le chiffre :__ 
 
 ```html
-<span id=tp>{TOTAL_POSTS}</span>
-<script> $('#tp').text($('#tp').text().match(/[0-9]+/)) </script>
+<span>{TOTAL_POSTS}</span>
+<script>$('script:last').prev().text(function(_,o){return o.match(/[0-9]+/)[0]})</script>
 ```
 
 ## Utilisations dans les templates

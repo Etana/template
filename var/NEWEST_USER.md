@@ -19,8 +19,8 @@ L'utilisateur enregistré le plus récent est <strong><a href="/u1"><span style=
 * __Exemple de code pour ne conserver que le pseudo :__
 
 ```html
-<span id=nu>{NEWEST_USER}</span>
-<script> $('#nu').html($('#nu').html().match(/<.*>/)[0]) </script>
+<span>{NEWEST_USER}</span>
+<script>$('script:last').prev().html(function(_,o){return o.match(/<.*>/)[0]})</script>
 ```
 
 ## Utilisations dans les templates
