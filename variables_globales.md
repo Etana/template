@@ -49,8 +49,6 @@
 * [`{L_WHOSONLINE_MOD}`](var/L_WHOSONLINE_MOD.md#readme)
 * [`{LAST_VISIT_DATE}`](var/LAST_VISIT_DATE.md#readme)
 * [`{LOGGED_AS}`](var/LOGGED_AS.md#readme)
-* [`{LOGGED_IN_USER_LIST}`](var/LOGGED_IN_USER_LIST.md#readme)
-* [`{LOGGED_IN_USERS_LIST}`](var/LOGGED_IN_USERS_LIST.md#readme)
 * [`{MAIN_SITENAME}`](var/MAIN_SITENAME.md#readme)
 * [`{MENU_POSITION}`](var/MENU_POSITION.md#readme)
 * [`{META}`](var/META.md#readme)

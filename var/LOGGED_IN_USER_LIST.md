@@ -1,5 +1,5 @@
 # LOGGED_IN_USER_LIST
-* __Type__ __:__ variable d'affichage globale
+* __Type__ __:__ variable d'affichage
 * __Utilisable dans__ __:__ [`index_body`](../tpl/index_body.md#readme), [`mod_whoisonline`](../tpl/mod_whoisonline.md#readme), [`viewforum_body`](../tpl/viewforum_body.md#readme)
 * __Utilisation__ __:__
 

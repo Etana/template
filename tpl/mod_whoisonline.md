@@ -14,6 +14,7 @@
 * [__Variables globales__](../variables_globales.md#readme)
 * __Variables propres à ce template__ __:__
 	* [`{L_VIEW_COMPLETE_LIST}`](../var/L_VIEW_COMPLETE_LIST.md#readme) ([x](https://fa-tvars.appspot.com/var/L_VIEW_COMPLETE_LIST))
+	* [`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)
 	* [`<!-- BEGIN switch_onlinelink -->`](../var/switch_onlinelink.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_onlinelink))
 	* [`<!-- END switch_onlinelink -->`](../var/switch_onlinelink.md#readme) ([x](https://fa-tvars.appspot.com/var/switch_onlinelink))
 

@@ -44,6 +44,8 @@ Ce template affiche les forums : `/fX-`
 	* [`{L_MARK_TOPICS_READ}`](../var/L_MARK_TOPICS_READ.md#readme)
 	* [`{L_MODERATOR}`](../var/L_MODERATOR.md#readme)
 	* [`{L_POST_NEW_TOPIC}`](../var/L_POST_NEW_TOPIC.md#readme)
+	* [`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)
+	* [`{LOGGED_IN_USERS_LIST}`](../var/LOGGED_IN_USERS_LIST.md#readme)
 	* [`{MODERATORS}`](../var/MODERATORS.md#readme)
 	* [`{NAV_CAT_DESC}`](../var/NAV_CAT_DESC.md#readme)
 	* [`{NAV_CAT_DESC_SECOND}`](../var/NAV_CAT_DESC_SECOND.md#readme)

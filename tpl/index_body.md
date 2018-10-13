@@ -68,6 +68,7 @@ Ce template affiche la page d'accueil, la chatbox (en haut ou en bas) ainsi que 
 	* [`{L_WHOSBIRTHDAY_TODAY}`](../var/L_WHOSBIRTHDAY_TODAY.md#readme) ([x](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_TODAY))
 	* [`{L_WHOSBIRTHDAY_WEEK}`](../var/L_WHOSBIRTHDAY_WEEK.md#readme) ([x](https://fa-tvars.appspot.com/var/L_WHOSBIRTHDAY_WEEK))
 	* [`{LEGEND}`](../var/LEGEND.md#readme)
+	* [`{LOGGED_IN_USER_LIST}`](../var/LOGGED_IN_USER_LIST.md#readme)
 	* [`<!-- BEGIN message_admin_index -->`](../var/message_admin_index.md#readme)
 	* [`<!-- END message_admin_index -->`](../var/message_admin_index.md#readme)
 	* &nbsp;&nbsp;&nbsp;&nbsp;[`<!-- BEGIN message_admin_titre -->`](../var/message_admin_index.message_admin_titre.md#readme)
